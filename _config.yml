@@ -5,3 +5,5 @@ plugins:
   - jekyll-seo-tag
 
 permalink: /:path/:basename:output_ext
+
+safe: false
