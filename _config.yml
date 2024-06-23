@@ -1,0 +1,7 @@
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+
+permalink: /:path/:basename:output_ext
