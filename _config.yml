@@ -8,6 +8,10 @@ permalink: /:path/:basename:output_ext
 
 safe: false
 
+liquid:
+  error_mode: strict
+  strict_filters: true
+
 exclude:
   - Gemfile
   - Gemfile.lock
