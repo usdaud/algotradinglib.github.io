@@ -7,14 +7,18 @@ module Jekyll
       
       languages.each do |lang|
         pedia_path = File.join(site.source, lang, 'pedia')
+        Jekyll.logger.info "LetterPageGenerator:", "Checking path: #{pedia_path}"
         if Dir.exist?(pedia_path)
           letters = []
           Dir.entries(pedia_path).select { |entry| File.directory?(File.join(pedia_path, entry)) && entry != '.' && entry != '..' }.each do |letter_dir|
             letter = letter_dir.downcase
             letters << letter
+            Jekyll.logger.info "LetterPageGenerator:", "Creating page for #{lang}/#{letter}"
             site.pages << LetterPage.new(site, site.source, lang, letter)
           end
           site.pages << PediaIndexPage.new(site, site.source, lang, letters)
+        else
+          Jekyll.logger.warn "LetterPageGenerator:", "Directory not found: #{pedia_path}"
         end
       end
     end
@@ -28,7 +32,13 @@ module Jekyll
       @name = "#{letter}.md"
 
       self.process(@name)
-      self.read_yaml(File.join(base, '_layouts'), 'letter_index.html')
+      layout_file = File.join(base, '_layouts', 'letter_index.html')
+      if File.exist?(layout_file)
+        self.read_yaml(File.dirname(layout_file), File.basename(layout_file))
+      else
+        Jekyll.logger.warn "LetterPageGenerator:", "Layout file 'letter_index.html' not found"
+        self.data = {}
+      end
       self.data['layout'] = 'letter_index'
       self.data['title'] = case lang
                            when 'en' then "Topics starting with #{letter.upcase}"
@@ -48,7 +58,13 @@ module Jekyll
       @name = "index.md"
 
       self.process(@name)
-      self.read_yaml(File.join(base, '_layouts'), 'pedia_index.html')
+      layout_file = File.join(base, '_layouts', 'pedia_index.html')
+      if File.exist?(layout_file)
+        self.read_yaml(File.dirname(layout_file), File.basename(layout_file))
+      else
+        Jekyll.logger.warn "LetterPageGenerator:", "Layout file 'pedia_index.html' not found"
+        self.data = {}
+      end
       self.data['layout'] = 'pedia_index'
       self.data['title'] = case lang
                            when 'en' then "Encyclopedia Index"
