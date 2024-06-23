@@ -23,6 +23,7 @@ module Jekyll
 
       self.process(@name)
       self.read_yaml(File.join(base, '_layouts'), 'letter_index.html')
+      self.data['layout'] = 'letter_index'
       self.data['title'] = "Topics starting with #{letter.upcase}"
       self.data['letter'] = letter
       self.data['lang'] = lang
