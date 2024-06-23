@@ -4,11 +4,14 @@ module Jekyll
 
     def generate(site)
       languages = ['en', 'ru', 'zh']
-      letters = ('a'..'z').to_a + ('а'..'я').to_a
-
+      
       languages.each do |lang|
-        letters.each do |letter|
-          site.pages << LetterPage.new(site, site.source, "#{lang}/pedia", letter, lang)
+        pedia_path = File.join(site.source, lang, 'pedia')
+        if Dir.exist?(pedia_path)
+          Dir.entries(pedia_path).select { |entry| File.directory?(File.join(pedia_path, entry)) && entry != '.' && entry != '..' }.each do |letter_dir|
+            letter = letter_dir.downcase
+            site.pages << LetterPage.new(site, site.source, "#{lang}/pedia", letter, lang)
+          end
         end
       end
     end
