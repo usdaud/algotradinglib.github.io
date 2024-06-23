@@ -7,3 +7,6 @@ plugins:
 permalink: /:path/:basename:output_ext
 
 safe: false
+
+generators:
+  - LetterPageGenerator
