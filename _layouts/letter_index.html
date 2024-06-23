@@ -15,8 +15,10 @@ layout: default
 </h1>
 
 <ul>
-  {% assign letter_posts = site.pages | where_exp: "item", "item.path contains lang | append: '/pedia/' | append: letter" | where_exp: "item", "item.name != letter | append: '.md'" %}
+  {% assign letter_posts = site.pages | where_exp: "item", "item.path contains lang" | where_exp: "item", "item.path contains '/pedia/'" | where_exp: "item", "item.path contains letter" %}
   {% for post in letter_posts %}
-    <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+    {% if post.title and post.title != page.title %}
+      <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+    {% endif %}
   {% endfor %}
 </ul>
