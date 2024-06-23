@@ -15,9 +15,11 @@ layout: default
 </h1>
 
 <ul>
-  {% assign letter_posts = site.pages | where_exp: "item", "item.path contains lang" | where_exp: "item", "item.path contains '/pedia/'" | where_exp: "item", "item.path contains letter" %}
+  {% assign letter_posts = site.pages | where_exp: "item", "item.path contains lang" | where_exp: "item", "item.path contains '/pedia/'" | where_exp: "item", "item.path contains letter" | where_exp: "item", "item.name != letter | append: '.md'" %}
   {% for post in letter_posts %}
-    {% if post.title and post.title != page.title %}
+    {% assign filename = post.path | split: '/' | last %}
+    {% assign starts_with_letter = filename | slice: 0 | downcase %}
+    {% if starts_with_letter == letter and post.title and post.title != page.title %}
       <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
     {% endif %}
   {% endfor %}
