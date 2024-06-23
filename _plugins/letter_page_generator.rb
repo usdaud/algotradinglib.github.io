@@ -12,35 +12,39 @@ module Jekyll
           Dir.entries(pedia_path).select { |entry| File.directory?(File.join(pedia_path, entry)) && entry != '.' && entry != '..' }.each do |letter_dir|
             letter = letter_dir.downcase
             letters << letter
-            site.pages << LetterPage.new(site, site.source, "#{lang}/pedia", letter, lang)
+            site.pages << LetterPage.new(site, site.source, lang, letter)
           end
-          site.pages << PediaIndexPage.new(site, site.source, "#{lang}/pedia", letters, lang)
+          site.pages << PediaIndexPage.new(site, site.source, lang, letters)
         end
       end
     end
   end
 
   class LetterPage < Page
-    def initialize(site, base, dir, letter, lang)
+    def initialize(site, base, lang, letter)
       @site = site
       @base = base
-      @dir  = dir
+      @dir  = File.join(lang, 'pedia')
       @name = "#{letter}.md"
 
       self.process(@name)
       self.read_yaml(File.join(base, '_layouts'), 'letter_index.html')
       self.data['layout'] = 'letter_index'
-      self.data['title'] = "Topics starting with #{letter.upcase}"
+      self.data['title'] = case lang
+                           when 'en' then "Topics starting with #{letter.upcase}"
+                           when 'ru' then "Темы на букву #{letter.upcase}"
+                           when 'zh' then "#{letter} 开头的主题"
+                           end
       self.data['letter'] = letter
       self.data['lang'] = lang
     end
   end
 
   class PediaIndexPage < Page
-    def initialize(site, base, dir, letters, lang)
+    def initialize(site, base, lang, letters)
       @site = site
       @base = base
-      @dir  = dir
+      @dir  = File.join(lang, 'pedia')
       @name = "index.md"
 
       self.process(@name)

@@ -1,25 +1,22 @@
 ---
 layout: default
 ---
-{% assign lang = page.lang %}
-{% assign letter = page.letter %}
-
 <h1>
-  {% if lang == "en" %}
-    Topics starting with {{ letter | upcase }}
-  {% elsif lang == "ru" %}
-    Темы на букву {{ letter | upcase }}
-  {% elsif lang == "zh" %}
-    {{ letter }} 开头的主题
+  {% if page.lang == "en" %}
+    Topics starting with {{ page.letter | upcase }}
+  {% elsif page.lang == "ru" %}
+    Темы на букву {{ page.letter | upcase }}
+  {% elsif page.lang == "zh" %}
+    {{ page.letter }} 开头的主题
   {% endif %}
 </h1>
 
 <ul>
-  {% assign letter_posts = site.pages | where_exp: "item", "item.path contains lang" | where_exp: "item", "item.path contains '/pedia/'" %}
+  {% assign letter_posts = site.pages | where_exp: "item", "item.path contains page.lang | append: '/pedia/' | append: page.letter" | where_exp: "item", "item.name != page.letter | append: '.md'" %}
   {% for post in letter_posts %}
     {% assign filename = post.path | split: '/' | last %}
     {% assign starts_with_letter = filename | slice: 0 | downcase %}
-    {% if starts_with_letter == letter and post.title and post.title != page.title %}
+    {% if starts_with_letter == page.letter and post.title and post.title != page.title %}
       <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
     {% endif %}
   {% endfor %}
