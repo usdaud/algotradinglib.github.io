@@ -1,0 +1,18 @@
+{
+  "A": [
+    {
+      "term": "Aardvark",
+      "definition": "A medium-sized, burrowing, nocturnal mammal native to Africa."
+    },
+    {
+      "term": "Abacus",
+      "definition": "An ancient calculating tool still used in some parts of the world."
+    }
+  ],
+  "B": [
+    {
+      "term": "Bacteria",
+      "definition": "Microscopic, single-celled organisms that can exist either as independent organisms or as parasites."
+    }
+  ]
+}
