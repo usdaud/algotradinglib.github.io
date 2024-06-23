@@ -5,7 +5,7 @@ layout: default
 
 <ul>
   {% for letter in page.letters %}
-    <li><a href="{{ letter | prepend: '/' | append: '.html' | relative_url }}">
+    <li><a href="{{ letter | append: '.html' }}">
       {% if page.lang == "en" %}
         Topics starting with {{ letter | upcase }}
       {% elsif page.lang == "ru" %}
