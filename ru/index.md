@@ -1,19 +1,19 @@
 ---
 layout: base
-title: Алгоритмическая торговля
+title: РђР»РіРѕСЂРёС‚РјРёС‡РµСЃРєР°СЏ С‚РѕСЂРіРѕРІР»СЏ
 ---
 
 <main>
     <section id="news">
-        <h2>Последние новости</h2>
+        <h2>РџРѕСЃР»РµРґРЅРёРµ РЅРѕРІРѕСЃС‚Рё</h2>
         <!-- News content in English -->
     </section>
     <section id="articles">
-        <h2>Последние статьи</h2>
+        <h2>РџРѕСЃР»РµРґРЅРёРµ СЃС‚Р°С‚СЊРё</h2>
         <!-- Articles content in English -->
     </section>
     <section id="encyclopedia">
-        <h2>Энциклопедия</h2>
-        <a href="/en/pedia/">Перейти к энциклопедии</a>
+        <h2>Р­РЅС†РёРєР»РѕРїРµРґРёСЏ</h2>
+        <a href="/en/pedia/">РџРµСЂРµР№С‚Рё Рє СЌРЅС†РёРєР»РѕРїРµРґРёРё</a>
     </section>
 </main>
