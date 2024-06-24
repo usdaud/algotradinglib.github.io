@@ -23,10 +23,10 @@
         </button>
         <nav>
             <ul>
-                <li><a href="{{ "/" | append: page.lang | relative_url }}">{{ locale.main }}</a></li>
-                <li><a href="{{ "/software" | prepend: page.lang | prepend: "/" | relative_url }}">{{ locale.software }}</a></li>
-                <li><a href="{{ "/brokers" | prepend: page.lang | prepend: "/" | relative_url }}">{{ locale.brokers }}</a></li>
-                <li><a href="{{ "/algopedia" | prepend: page.lang | prepend: "/" | relative_url }}">{{ locale.algopedia }}</a></li>
+                <li><a href="{{ "/" | append: page.lang | relative_url }}">{{ locale.home | default: "Home" }}</a></li>
+                <li><a href="{{ "/software" | prepend: page.lang | prepend: "/" | relative_url }}">{{ locale.software | default: "Software" }}</a></li>
+                <li><a href="{{ "/brokers" | prepend: page.lang | prepend: "/" | relative_url }}">{{ locale.brokers | default: "Brokers" }}</a></li>
+                <li><a href="{{ "/algopedia" | prepend: page.lang | prepend: "/" | relative_url }}">{{ locale.algopedia | default: "Algopedia" }}</a></li>
             </ul>
         </nav>
         <div class="language-selector">
@@ -45,7 +45,7 @@
 
     <footer>
         <div class="footer-content">
-            <p>&copy; {{ site.time | date: '%Y' }} AlgoTradingLib. {{ locale.footer_copyright }}</p>
+            <p>&copy; {{ site.time | date: '%Y' }} AlgoTradingLib. {{ locale.footer_copyright | default: "AlgoTradingLib" }}</p>
             <p>{{ locale.footer_contact }}: info@algotradinglib.com</p>
         </div>
     </footer>
