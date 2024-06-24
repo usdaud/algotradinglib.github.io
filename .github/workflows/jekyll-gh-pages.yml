@@ -51,14 +51,11 @@ jobs:
       - name: Build with Jekyll
         env:
           JEKYLL_ENV: production
-          PAGES_REPO_NWO: junsan1/junsan1.github.io
 
         run: bundle exec jekyll build --trace
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
-        #with:
-        #  path: ./_site
 
   # Deployment job
   deploy:

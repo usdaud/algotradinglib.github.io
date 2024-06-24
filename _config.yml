@@ -1,5 +1,3 @@
-repository: junsan1/junsan1.github.io
-
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
