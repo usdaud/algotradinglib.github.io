@@ -47,6 +47,13 @@
         <div class="footer-content">
             <p>&copy; {{ site.time | date: '%Y' }} AlgoTradingLib. {{ locale.footer_copyright | default: "AlgoTradingLib" }}</p>
             <p>{{ locale.footer_contact }}: info@algotradinglib.com</p>
+            <p>
+                {{ locale.contribute | default: "Contribute to this project on" }}
+                <a href="https://github.com/junsan1/junsan1.github.io/" target="_blank" rel="noopener noreferrer">
+                    GitHub
+                    <img src="{{ '/assets/images/github-mark.svg' | relative_url }}" alt="GitHub" style="height: 1em; vertical-align: middle; margin-left: 5px;">
+                </a>
+            </p>
         </div>
     </footer>
 
