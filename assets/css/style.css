@@ -104,14 +104,15 @@ footer {
     nav {
         display: none;
         position: absolute;
-        top: 100%;
+        top: 70px;
         left: 0;
         width: 100%;
         background-color: #f8f8f8;
+        z-index: 1001;
     }
 
     nav.active {
-        display: block;
+        display: block !important;
     }
 
     nav ul {
