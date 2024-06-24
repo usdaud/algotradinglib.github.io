@@ -41,9 +41,11 @@ jobs:
           bundle install
 
       - name: Build with Jekyll
-        run: bundle exec jekyll build --trace
         env:
           JEKYLL_ENV: production
+          PAGES_REPO_NWO: junsan1/junsan1.github.io
+
+        run: bundle exec jekyll build --trace
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
