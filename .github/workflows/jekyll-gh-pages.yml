@@ -34,6 +34,14 @@ jobs:
         with:
           ruby-version: '3.1'
           bundler-cache: true
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+      - name: List generated files
+        run: |
+          echo "Contents of en/pedia/a.md:"
+          cat en/pedia/a.md || echo "File not found"
+          echo "Contents of _layouts/letter_index.html:"
+          cat _layouts/letter_index.html || echo "File not found"
 
       - name: Install dependencies
         run: |
