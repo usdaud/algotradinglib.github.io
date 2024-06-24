@@ -4,7 +4,7 @@ layout: base
 <h1>{{ page.title }}</h1>
 
 <ul>
-  {% assign letter_posts = site.pages | where_exp: "item", "item.path contains page_lang" | where_exp: "item", "item.path contains page.section" | where_exp: "item", "item.path contains page.letter" %}
+  {% assign letter_posts = site.pages | where_exp: "item", "item.path contains page.lang" | where_exp: "item", "item.path contains page.section" | where_exp: "item", "item.path contains page.letter" %}
   {% assign sorted_posts = letter_posts | sort: "title" %}
   {% for post in sorted_posts %}
     {% assign filename = post.path | split: '/' | last %}
