@@ -17,6 +17,13 @@ module Jekyll
             site.pages << LetterPage.new(site, site.source, lang, letter)
           end
           site.pages << PediaIndexPage.new(site, site.source, lang, letters)
+
+          # Set layout for all pedia pages
+          site.pages.each do |page|
+            if page.path.start_with?(File.join(lang, 'pedia')) && !page.data['layout']
+              page.data['layout'] = 'base'
+            end
+          end
         else
           Jekyll.logger.warn "LetterPageGenerator:", "Directory not found: #{pedia_path}"
         end
