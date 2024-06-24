@@ -28,11 +28,10 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.1'
+          ruby-version: '2.7'
           bundler-cache: true
       - name: Setup Pages
         uses: actions/configure-pages@v5
@@ -42,18 +41,10 @@ jobs:
           cat en/pedia/a.md || echo "File not found"
           echo "Contents of _layouts/letter_index.html:"
           cat _layouts/letter_index.html || echo "File not found"
-
-      - name: Install dependencies
-        run: |
-          gem install bundler
-          bundle install
-
       - name: Build with Jekyll
+        run: bundle exec jekyll build --trace
         env:
           JEKYLL_ENV: production
-
-        run: bundle exec jekyll build --trace
-
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
