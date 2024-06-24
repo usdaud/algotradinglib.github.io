@@ -1,0 +1,78 @@
+{% assign locale = site.pages | where: "path", page.lang | map: "locales" | first %}
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+    <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <header id="sticky-header">
+        <div class="logo">
+            <a href="{{ "/" | append: page.lang | relative_url }}">
+                <img src="{{ "/assets/images/logo.png" | relative_url }}" alt="AlgoTradingLib Logo">
+            </a>
+        </div>
+        <button class="menu-toggle" aria-label="Toggle menu">
+            <span></span>
+            <span></span>
+            <span></span>
+        </button>
+        <nav>
+            <ul>
+                <li><a href="{{ "/" | append: page.lang | relative_url }}">{{ locale.main }}</a></li>
+                <li><a href="{{ "/software" | prepend: page.lang | prepend: "/" | relative_url }}">{{ locale.software }}</a></li>
+                <li><a href="{{ "/brokers" | prepend: page.lang | prepend: "/" | relative_url }}">{{ locale.brokers }}</a></li>
+                <li><a href="{{ "/algopedia" | prepend: page.lang | prepend: "/" | relative_url }}">{{ locale.algopedia }}</a></li>
+            </ul>
+        </nav>
+        <div class="language-selector">
+            <select id="lang-select">
+                <option value="en" {% if page.lang == "en" %}selected{% endif %}>English</option>
+                <option value="ru" {% if page.lang == "ru" %}selected{% endif %}>Русский</option>
+                <option value="zh" {% if page.lang == "zh" %}selected{% endif %}>中文</option>
+            </select>
+        </div>
+    </header>
+
+    <main>
+        {{ content }}
+    </main>
+
+    <footer>
+        <div class="footer-content">
+            <p>&copy; {{ site.time | date: '%Y' }} AlgoTradingLib. {{ locale.footer_copyright }}</p>
+            <p>{{ locale.footer_contact }}: info@algotradinglib.com</p>
+        </div>
+    </footer>
+
+    <script>
+        $(document).ready(function() {
+            var header = $("#sticky-header");
+            var sticky = header.offset().top;
+
+            $(window).scroll(function() {
+                if (window.pageYOffset > sticky) {
+                    header.addClass("sticky");
+                } else {
+                    header.removeClass("sticky");
+                }
+            });
+
+            $("#lang-select").change(function() {
+                var selectedLang = $(this).val();
+                var currentPath = window.location.pathname;
+                var newPath = "/" + selectedLang + currentPath.substring(3);
+                window.location.href = newPath;
+            });
+
+            $(".menu-toggle").click(function() {
+                $("nav").toggleClass("active");
+                $(this).toggleClass("active");
+            });
+        });
+    </script>
+</body>
+</html>

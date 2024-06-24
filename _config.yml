@@ -21,5 +21,8 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
 
+include:
+  - "*/locales.yml"
+
 generators:
   - LetterPageGenerator
