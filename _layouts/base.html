@@ -1,20 +1,4 @@
-{% assign locale_file = site.pages | where: "path", page.lang | append: "/locales.yml" | first %}
-{% if locale_file %}
-  {% assign locale_data = locale_file.content | strip | split: newline %}
-{% else %}
-  {% assign locale_data = "" | split: "" %}
-{% endif %}
-
-{% assign locale = {} %}
-{% for item in locale_data %}
-  {% assign key_value = item | split: ":" %}
-  {% if key_value.size == 2 %}
-    {% assign key = key_value[0] | strip %}
-    {% assign value = key_value[1] | strip %}
-    {% assign locale = locale | hash_assign: key, value %}
-  {% endif %}
-{% endfor %}
-
+{% assign locale = site.pages | where: "path", page.lang | map: "locales" | first %}
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 <head>
@@ -39,10 +23,10 @@
         </button>
         <nav>
             <ul>
-                <li><a href="{{ "/" | append: page.lang | relative_url }}">{{ locale.main | default: "Main" }}</a></li>
-                <li><a href="{{ "/software" | prepend: page.lang | prepend: "/" | relative_url }}">{{ locale.software | default: "Software" }}</a></li>
-                <li><a href="{{ "/brokers" | prepend: page.lang | prepend: "/" | relative_url }}">{{ locale.brokers | default: "Brokers" }}</a></li>
-                <li><a href="{{ "/algopedia" | prepend: page.lang | prepend: "/" | relative_url }}">{{ locale.algopedia | default: "Algopedia" }}</a></li>
+                <li><a href="{{ "/" | append: page.lang | relative_url }}">{{ locale.main }}</a></li>
+                <li><a href="{{ "/software" | prepend: page.lang | prepend: "/" | relative_url }}">{{ locale.software }}</a></li>
+                <li><a href="{{ "/brokers" | prepend: page.lang | prepend: "/" | relative_url }}">{{ locale.brokers }}</a></li>
+                <li><a href="{{ "/algopedia" | prepend: page.lang | prepend: "/" | relative_url }}">{{ locale.algopedia }}</a></li>
             </ul>
         </nav>
         <div class="language-selector">
