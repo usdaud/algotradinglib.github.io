@@ -1,6 +1,6 @@
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb">
-    <li class="breadcrumb-item"><a href="{{ '/' | append: page.lang | relative_url }}">{% include localize.liquid key="home" default="Home" %}</a></li>
+    <li class="breadcrumb-item"><a href="{{ '/' | append: page.lang | relative_url }}">{{ locale.home | default: "Home" }}</a></li>
     {% assign crumbs = page.url | remove: '/index.html' | split: '/' %}
     {% for crumb in crumbs offset: 1 %}
       {% if forloop.last %}
@@ -8,7 +8,8 @@
       {% else %}
         {% assign crumb_limit = forloop.index | plus: 1 %}
         {% capture crumb_url %}{% for c in crumbs limit: crumb_limit %}{{ c | append: '/' }}{% endfor %}{% endcapture %}
-        <li class="breadcrumb-item"><a href="{{ crumb_url | relative_url }}">{% include localize.liquid key=crumb default=crumb %}</a></li>
+        {% assign crumb_key = crumb %}
+        <li class="breadcrumb-item"><a href="{{ crumb_url | relative_url }}">{{ locale[crumb_key] | default: crumb | capitalize }}</a></li>
       {% endif %}
     {% endfor %}
   </ol>
