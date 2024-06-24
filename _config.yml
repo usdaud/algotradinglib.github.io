@@ -3,7 +3,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
-  - hash_assign
 
 permalink: /:path/:basename:output_ext
 
