@@ -1,6 +1,7 @@
 ---
 layout: base
 title: Algorithmic Trading
+lang: en
 ---
 
 <section id="brokers">

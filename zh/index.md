@@ -1,6 +1,7 @@
 ---
 layout: base
 title: 算法交易
+lang: zh
 ---
 
 <section id="brokers">

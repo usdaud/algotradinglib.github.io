@@ -1,6 +1,7 @@
 ---
 layout: base
 title: Алгоритмическая торговля
+lang: ru
 ---
 
 <section id="brokers">

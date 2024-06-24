@@ -1,10 +1,6 @@
-{% assign page_lang = page.url | split: '/' | first %}
-{% if page_lang == '' or page_lang == nil %}
-  {% assign page_lang = 'en' %}
-{% endif %}
-{% assign locale = site.pages | where: "path", page_lang | map: "locales" | first %}
+{% assign locale = site.pages | where: "path", page.lang | map: "locales" | first %}
 <!DOCTYPE html>
-<html lang="{{ page_lang }}">
+<html lang="{{ page.lang }}">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -16,7 +12,7 @@
 <body>
     <header id="sticky-header">
         <div class="logo">
-            <a href="{{ "/" | append: page_lang | relative_url }}">
+            <a href="{{ "/" | append: page.lang | relative_url }}">
                 <img src="{{ "/assets/images/logo.png" | relative_url }}" alt="AlgoTradingLib Logo">
             </a>
         </div>
@@ -27,17 +23,17 @@
         </button>
         <nav>
             <ul>
-                <li><a href="/{{ page_lang }}">{{ locale.home | default: "Home" }}</a></li>
-                <li><a href="/{{ page_lang }}/soft">{{ locale.software | default: "Software" }}</a></li>
-                <li><a href="/{{ page_lang }}/brokers">{{ locale.brokers | default: "Brokers" }}</a></li>
-                <li><a href="/{{ page_lang }}/pedia">{{ locale.algopedia | default: "Algopedia" }}</a></li>
+                <li><a href="/{{ page.lang }}">{{ locale.home | default: "Home" }}</a></li>
+                <li><a href="/{{ page.lang }}/soft">{{ locale.software | default: "Software" }}</a></li>
+                <li><a href="/{{ page.lang }}/brokers">{{ locale.brokers | default: "Brokers" }}</a></li>
+                <li><a href="/{{ page.lang }}/pedia">{{ locale.algopedia | default: "Algopedia" }}</a></li>
             </ul>
         </nav>
         <div class="language-selector">
             <select id="lang-select">
-                <option value="en" {% if page_lang == "en" %}selected{% endif %}>English</option>
-                <option value="ru" {% if page_lang == "ru" %}selected{% endif %}>Русский</option>
-                <option value="zh" {% if page_lang == "zh" %}selected{% endif %}>中文</option>
+                <option value="en" {% if page.lang == "en" %}selected{% endif %}>English</option>
+                <option value="ru" {% if page.lang == "ru" %}selected{% endif %}>Русский</option>
+                <option value="zh" {% if page.lang == "zh" %}selected{% endif %}>中文</option>
             </select>
         </div>
     </header>
