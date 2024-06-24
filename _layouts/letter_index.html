@@ -4,7 +4,7 @@ layout: base
 <h1>{{ page.title }}</h1>
 
 <ul>
-  {% assign letter_posts = site.pages | where_exp: "item", "item.path contains page.lang" | where_exp: "item", "item.path contains '/pedia/'" | where_exp: "item", "item.path contains page.letter" %}
+  {% assign letter_posts = site.pages | where_exp: "item", "item.path contains page.lang" | where_exp: "item", "item.path contains page.section" | where_exp: "item", "item.path contains page.letter" %}
   {% for post in letter_posts %}
     {% assign filename = post.path | split: '/' | last %}
     {% assign starts_with_letter = filename | slice: 0 | downcase %}
