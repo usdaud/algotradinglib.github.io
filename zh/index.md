@@ -14,6 +14,6 @@ title: 算法交易
     </section>
     <section id="encyclopedia">
         <h2>百科全书</h2>
-        <a href="/en/pedia/">进入百科全书</a>
+        <a href="/pedia/">进入百科全书</a>
     </section>
 </main>
