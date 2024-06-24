@@ -14,6 +14,6 @@ title: Алгоритмическая торговля
     </section>
     <section id="encyclopedia">
         <h2>Энциклопедия</h2>
-        <a href="/en/pedia/">Перейти к энциклопедии</a>
+        <a href="/pedia/">Перейти к энциклопедии</a>
     </section>
 </main>

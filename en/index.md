@@ -14,6 +14,6 @@ title: Algorithmic Trading
     </section>
     <section id="encyclopedia">
         <h2>Encyclopedia</h2>
-        <a href="/en/pedia/">Go to Encyclopedia</a>
+        <a href="/pedia/">Go to Encyclopedia</a>
     </section>
 </main>
