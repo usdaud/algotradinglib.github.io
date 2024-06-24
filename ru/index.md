@@ -3,15 +3,12 @@ layout: base
 title: Алгоритмическая торговля
 ---
 
-<section id="news">
-  <h2>Последние новости</h2>
-  <!-- News content in English -->
+<section id="brokers">
+  <h2><a href="brokers/">Брокеры и биржи</a></h2>
 </section>
-<section id="articles">
-  <h2>Последние статьи</h2>
-  <!-- Articles content in English -->
+<section id="soft">
+  <h2><a href="soft/">Торговые платформы</a></h2>
 </section>
-<section id="encyclopedia">
-  <h2>Энциклопедия</h2>
-  <a href="pedia/">Перейти к энциклопедии</a>
+<section id="pedia">
+  <h2><a href="pedia/">Энциклопедия</a></h2>
 </section>
