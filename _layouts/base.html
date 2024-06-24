@@ -1,5 +1,15 @@
-{% assign locale_file = site.pages | where: "path", page.lang | append: "/locales.yml" | first %}
-{% assign locale = locale_file.content %}
+{% assign lang_prefix = page.lang | append: "/" %}
+{% assign locale_file = site.pages | where_exp: "item", "item.path contains lang_prefix and item.path contains 'locales.yml'" | first %}
+{% assign locale = locale_file.content | split: "\n" %}
+{% assign locale_hash = {} %}
+{% for line in locale %}
+  {% assign key_value = line | split: ":" %}
+  {% if key_value.size == 2 %}
+    {% assign key = key_value[0] | strip %}
+    {% assign value = key_value[1] | strip %}
+    {% assign locale_hash = locale_hash | merge: {key: value} %}
+  {% endif %}
+{% endfor %}
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 <head>
@@ -24,10 +34,10 @@
         </button>
         <nav>
             <ul>
-                <li><a href="{{ "/" | append: page.lang | relative_url }}">{{ locale.main }}</a></li>
-                <li><a href="{{ "/software" | prepend: page.lang | prepend: "/" | relative_url }}">{{ locale.software }}</a></li>
-                <li><a href="{{ "/brokers" | prepend: page.lang | prepend: "/" | relative_url }}">{{ locale.brokers }}</a></li>
-                <li><a href="{{ "/algopedia" | prepend: page.lang | prepend: "/" | relative_url }}">{{ locale.algopedia }}</a></li>
+                <li><a href="{{ "/" | append: page.lang | relative_url }}">{{ locale_hash.main }}</a></li>
+                <li><a href="{{ "/software" | prepend: page.lang | prepend: "/" | relative_url }}">{{ locale_hash.software }}</a></li>
+                <li><a href="{{ "/brokers" | prepend: page.lang | prepend: "/" | relative_url }}">{{ locale_hash.brokers }}</a></li>
+                <li><a href="{{ "/algopedia" | prepend: page.lang | prepend: "/" | relative_url }}">{{ locale_hash.algopedia }}</a></li>
             </ul>
         </nav>
         <div class="language-selector">
@@ -45,8 +55,8 @@
 
     <footer>
         <div class="footer-content">
-            <p>&copy; {{ site.time | date: '%Y' }} AlgoTradingLib. {{ locale.footer_copyright }}</p>
-            <p>{{ locale.footer_contact }}: info@algotradinglib.com</p>
+            <p>&copy; {{ site.time | date: '%Y' }} AlgoTradingLib. {{ locale_hash.footer_copyright }}</p>
+            <p>{{ locale_hash.footer_contact }}: info@algotradinglib.com</p>
         </div>
     </footer>
 
