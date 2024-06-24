@@ -13,5 +13,5 @@ title: Algorithmic Trading
 </section>
 <section id="encyclopedia">
   <h2>Encyclopedia</h2>
-  <a href="{{ '/pedia/' | relative_url }}">Go to Encyclopedia</a>
+  <a href="{{ 'pedia/' | prepend: page.lang | prepend: '/' | relative_url }}">Go to Encyclopedia</a>
 </section>
