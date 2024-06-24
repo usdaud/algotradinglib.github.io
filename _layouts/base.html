@@ -23,10 +23,10 @@
         </button>
         <nav>
             <ul>
-                <li><a href="{{ "/" | append: page.lang | relative_url }}">{{ locale.home | default: "Home" }}</a></li>
-                <li><a href="{{ "/software" | prepend: page.lang | prepend: "/" | relative_url }}">{{ locale.software | default: "Software" }}</a></li>
-                <li><a href="{{ "/brokers" | prepend: page.lang | prepend: "/" | relative_url }}">{{ locale.brokers | default: "Brokers" }}</a></li>
-                <li><a href="{{ "/algopedia" | prepend: page.lang | prepend: "/" | relative_url }}">{{ locale.algopedia | default: "Algopedia" }}</a></li>
+                <li><a href="{{ page.lang | prepend: '/' | relative_url }}">{{ locale.home | default: "Home" }}</a></li>
+                <li><a href="{{ 'software' | prepend: '/' | prepend: page.lang | prepend: '/' | relative_url }}">{{ locale.software | default: "Software" }}</a></li>
+                <li><a href="{{ 'brokers' | prepend: '/' | prepend: page.lang | prepend: '/' | relative_url }}">{{ locale.brokers | default: "Brokers" }}</a></li>
+                <li><a href="{{ 'algopedia' | prepend: '/' | prepend: page.lang | prepend: '/' | relative_url }}">{{ locale.algopedia | default: "Algopedia" }}</a></li>
             </ul>
         </nav>
         <div class="language-selector">
