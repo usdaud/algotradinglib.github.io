@@ -4,9 +4,18 @@ Welcome to the repository for [AlgoTradingLib.com](https://algotradinglib.com) -
 
 ## About the Project
 
-AlgoTradingLib.com is a web resource dedicated to algorithmic trading. Our goal is to create a comprehensive knowledge base accessible to anyone interested in this field.
+AlgoTradingLib.com is a web resource dedicated to algorithmic trading. Currently, we are focused solely on algorithmic trading, but since algorithmic trading is inseparable from trading in general, we will also expand our definitions to include general trading.
 
-Key features:
+### Reasons for Creating the Project
+
+There are many sources of information: Wikipedia and commercial resources. Wikipedia is not oriented towards niche topics such as algorithmic trading and only covers significant things, not considering algorithmic trading significant, which is why there are very few articles. Commercial resources cover information for money, which is not always objective. For example, popular open-source projects among algorithmic trading might never appear on these resources, which is absurd because they are the most interesting for algorithmic trading.
+
+### How to Help and Contribute
+
+Helping is essential! Without your help, the project cannot grow. For now, we cannot open other languages, but please let us know if you are interested in translations into other languages. The most active way to help is to write and edit articles yourself. You can also point out inaccuracies or highlight missing topics through issues.
+
+## Key Features
+
 - Open-source
 - Community-driven content
 - Powered by GitHub Pages
@@ -33,15 +42,6 @@ Please ensure your contributions are relevant to algorithmic trading and follow 
 - Avoid promotional content
 - Respect copyright and intellectual property rights
 
-## Local Development
-
-To run the site locally:
-
-1. Clone the repository
-2. Install Jekyll (as this site uses GitHub Pages)
-3. Run `jekyll serve` in the repository directory
-4. Access the site at `http://localhost:4000`
-
 ## License
 
 This project is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0). This means you are free to:
@@ -58,6 +58,6 @@ For more details, see the [full license text](https://creativecommons.org/licens
 
 ## Contact
 
-For questions or suggestions, please open an issue in this repository or contact us at [INSERT CONTACT METHOD].
+For questions or suggestions, please open an issue in this repository.
 
 Thank you for contributing to the algorithmic trading knowledge base!
