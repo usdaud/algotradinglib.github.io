@@ -30,18 +30,18 @@ The Pearson correlation coefficient (r) measures the linear relationship between
 - 0 indicates no correlation.
 
 The formula for the Pearson correlation is:
-\[ r = \frac{{\sum (X_i - \mu_X)(Y_i - \mu_Y)}}{{\sqrt{\sum (X_i - \mu_X)^2 \sum (Y_i - \mu_Y)^2}}} \]
-where \(X_i\) and \(Y_i\) are the data points, and \(\mu_X\) and \(\mu_Y\) are the means of the X and Y datasets, respectively.
+$$r = \frac{\sum (X_i - \mu_X)(Y_i - \mu_Y)}{\sqrt{\sum (X_i - \mu_X)^2 \sum (Y_i - \mu_Y)^2}}$$
+where $X_i$ and $Y_i$ are the data points, and $\mu_X$ and $\mu_Y$ are the means of the X and Y datasets, respectively.
 
 ### Spearman Rank Correlation
 Spearman's rank correlation coefficient (ρ) assesses the monotonic relationship between two variables. It is useful when the data is not normally distributed or contains outliers. The formula is:
-\[ \rho = 1 - \frac{{6 \sum d_i^2}}{{n(n^2 - 1)}} \]
-where \(d_i\) is the difference between the ranks of corresponding values, and \(n\) is the number of observations.
+$$\rho = 1 - \frac{6 \sum d_i^2}{n(n^2 - 1)}$$
+where $d_i$ is the difference between the ranks of corresponding values, and $n$ is the number of observations.
 
 ### Kendall Tau Correlation
-Kendall’s tau (τ) measures the ordinal association between two variables. It is based on the number of concordant and discordant pairs. The formula is:
-\[ \tau = \frac{{(C - D)}}{{\sqrt{(C + D + T) (C + D + U)}}} \]
-where \(C\) is the number of concordant pairs, \(D\) the number of discordant pairs, \(T\) the number of ties only in \(X\), and \(U\) the number of ties only in \(Y\).
+Kendall's tau (τ) measures the ordinal association between two variables. It is based on the number of concordant and discordant pairs. The formula is:
+$$\tau = \frac{(C - D)}{\sqrt{(C + D + T) (C + D + U)}}$$
+where $C$ is the number of concordant pairs, $D$ the number of discordant pairs, $T$ the number of ties only in $X$, and $U$ the number of ties only in $Y$.
 
 ## Practical Applications in Algorithmic Trading
 

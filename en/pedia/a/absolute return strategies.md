@@ -1,7 +1,3 @@
----
-title: Absolute Return Strategies
----
-
 # Absolute Return Strategies
 
 Absolute return strategies aim to generate positive returns regardless of market conditions. Unlike traditional strategies that benchmark performance against a market index, absolute return strategies focus on achieving consistent positive returns in both rising and falling markets. These strategies are often associated with hedge funds and other managed investment products. Below, we delve into the different methodologies, instruments, and characteristics of absolute return strategies.
