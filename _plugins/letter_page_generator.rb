@@ -12,26 +12,45 @@ module Jekyll
           section_path = File.join(site.source, lang, section)
           Jekyll.logger.info "LetterPageGenerator:", "Checking path: #{section_path}"
           if Dir.exist?(section_path)
-            letters = []
-            Dir.entries(section_path).select { |entry| File.directory?(File.join(section_path, entry)) && entry != '.' && entry != '..' }.each do |letter_dir|
-              letter = letter_dir.downcase
-              letters << letter
-              Jekyll.logger.info "LetterPageGenerator:", "Creating page for #{lang}/#{section}/#{letter}"
-              site.pages << LetterPage.new(site, site.source, lang, section, letter)
-            end
-            site.pages << SectionIndexPage.new(site, site.source, lang, section, letters)
-
-            # Set layout for all section pages
-            site.pages.each do |page|
-              if page.path.start_with?(File.join(lang, section)) && !page.data['layout']
-                page.data['layout'] = 'base'
-              end
-            end
+            process_section(site, lang, section, section_path)
           else
             Jekyll.logger.warn "LetterPageGenerator:", "Directory not found: #{section_path}"
           end
         end
       end
+    end
+
+    def process_section(site, lang, section, section_path)
+      letters = []
+      Dir.entries(section_path).select { |entry| File.directory?(File.join(section_path, entry)) && entry != '.' && entry != '..' }.each do |letter_dir|
+        letter = letter_dir.downcase
+        letters << letter
+        Jekyll.logger.info "LetterPageGenerator:", "Creating page for #{lang}/#{section}/#{letter}"
+        site.pages << LetterPage.new(site, site.source, lang, section, letter)
+        
+        # Process individual Markdown files
+        Dir.glob(File.join(section_path, letter, '*.md')).each do |file|
+          Jekyll.logger.info "LetterPageGenerator:", "Processing file: #{file}"
+          process_markdown_file(site, file)
+        end
+      end
+      site.pages << SectionIndexPage.new(site, site.source, lang, section, letters)
+    end
+
+    def process_markdown_file(site, file)
+      content = File.read(file)
+      title = extract_title_from_content(content)
+      
+      page = Jekyll::Page.new(site, site.source, File.dirname(file), File.basename(file))
+      page.data['layout'] = 'base'
+      page.data['title'] = title if title
+      
+      site.pages << page
+    end
+
+    def extract_title_from_content(content)
+      match = content.match(/^#\s*(.+)$/)
+      match ? match[1].strip : nil
     end
   end
 
