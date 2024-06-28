@@ -1,3 +1,7 @@
+---
+title: Active Return
+---
+
 # Active return is a measure of the performance of an investment portfolio relative to a benchmark. It is the difference between the actual return of the portfolio and the return of the benchmark. Active return captures the value added or subtracted by the portfolio manager's investment decisions. Below, we will delve deeper into the concept of active return, its calculation, significance, and its role in algorithmic trading.
 
 ### Definition
