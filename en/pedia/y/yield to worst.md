@@ -28,16 +28,16 @@ To determine YTW, one must:
 
 ### Formula for Yield Calculation
 
-The formula for calculating yield involves solving for the yield \( Y \) in the following equation:
+The formula for calculating yield involves solving for the yield Y in the following equation:
 
-\[ P = \sum_{t=1}^{T} \frac{C}{{(1+Y)}^t} + \frac{F}{{(1+Y)}^T} \]
+$$ P = \sum_{t=1}^{T} \frac{C}{(1+Y)^t} + \frac{F}{(1+Y)^T} $$
 
-- \( P \): Market price of the bond
-- \( C \): Annual coupon payment
-- \( F \): Face value of the bond
-- \( T \): Time to maturity
+- P: Market price of the bond
+- C: Annual coupon payment
+- F: Face value of the bond
+- T: Time to maturity
 
-Algorithmic tools typically use iterative methods or financial calculators to solve for \( Y \).
+Algorithmic tools typically use iterative methods or financial calculators to solve for Y.
 
 ## Yield to Worst in Algorithmic Trading
 
