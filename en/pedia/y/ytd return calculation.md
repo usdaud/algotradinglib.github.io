@@ -4,9 +4,9 @@
 
 The YTD return measures the amount of profit or loss that an investment has generated since the beginning of the year, expressed as a percentage. The calculation accounts for both capital gains and dividends, providing a comprehensive view of the investment's performance so far in the year. The formula for calculating the YTD return is:
 
-\[
-YTD\ Return = \left( \frac{{Current\ Value - Value\ at\ Beginning\ of\ Year}}{{Value\ at\ Beginning\ of\ Year}} \right) \times 100
-\]
+$$
+YTD Return = \left( \frac{Current Value - Value at Beginning of Year}{Value at Beginning of Year} \right) \times 100
+$$
 
 ## How to Calculate YTD Return
 
@@ -32,9 +32,9 @@ Assume you have an investment in a stock that was valued at $100 per share at th
 2. **Current Value (Latest Price):** $120
 3. **Dividends:** $2
 
-\[
-YTD\ Return = \left( \frac{120 + 2 - 100}{100} \right) \times 100 = \left( \frac{122 - 100}{100} \right) \times 100 = 22\%
-\]
+$$
+YTD Return = \left( \frac{120 + 2 - 100}{100} \right) \times 100 = \left( \frac{122 - 100}{100} \right) \times 100 = 22\%
+$$
 
 Therefore, the YTD return for the stock is 22%.
 
