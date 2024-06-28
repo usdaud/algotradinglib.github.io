@@ -8,35 +8,33 @@ Algorithmic trading, also known as algo-trading or black-box trading, leverages 
 
 1. **Absolute Returns**
    - Measures the total gain or loss from an investment over a specific period.
-   - Calculation: \( R = \frac{(E - B)}{B} \)
-     - \( R \) = Return
-     - \( E \) = Ending value
-     - \( B \) = Beginning value
+   - Calculation: $$ R = \frac{(E - B)}{B} $$
+     - $R$ = Return
+     - $E$ = Ending value
+     - $B$ = Beginning value
 2. **Annualized Returns**
    - Adjusted returns to reflect a standard one-year period, accommodating comparisons across different time spans.
-   - Calculation: \( AR = \left(1 + R\right)^{\frac{1}{N}} - 1 \)
-     - \( AR \) = Annualized Return
-     - \( R \) = Periodic return
-     - \( N \) = Number of periods per year
+   - Calculation: $$ AR = (1 + R)^{\frac{1}{N}} - 1 $$
+     - $AR$ = Annualized Return
+     - $R$ = Periodic return
+     - $N$ = Number of periods per year
 3. **Excess Returns**
    - The return of an investment over a benchmark such as a risk-free rate or market index.
-   - Calculation: \( ER = R - BR \)
-     - \( ER \) = Excess Return
-     - \( R \) = Return of the investment
-     - \( BR \) = Benchmark Return
+   - Calculation: $$ ER = R - BR $$
+     - $ER$ = Excess Return
+     - $R$ = Return of the investment
+     - $BR$ = Benchmark Return
 
 ### Risk Metrics
 
 1. **Standard Deviation**
    - Measures the dispersion of return values around the mean, providing a quantifiable estimate of total risk.
    - Calculation: 
-     \[
-     \sigma = \sqrt{\frac{1}{N-1} \sum_{i=1}^{N} (R_i - \bar{R})^2}
-     \]
-   - \( \sigma \) = Standard Deviation
-   - \( R_i \) = Individual returns
-   - \( \bar{R} \) = Mean return
-   - \( N \) = Number of returns
+     $$ \sigma = \sqrt{\frac{1}{N-1} \sum_{i=1}^{N} (R_i - \bar{R})^2} $$
+   - $\sigma$ = Standard Deviation
+   - $R_i$ = Individual returns
+   - $\bar{R}$ = Mean return
+   - $N$ = Number of returns
 
 2. **Value at Risk (VaR)**
    - Estimates the potential loss in value of a portfolio under normal market conditions over a set time period, given a confidence level.
@@ -44,39 +42,31 @@ Algorithmic trading, also known as algo-trading or black-box trading, leverages 
 3. **Beta Coefficient (β)**
    - Measures a portfolio's volatility in relation to the overall market.
    - Calculation: 
-     \[
-     \beta = \frac{{\text{Cov}(R_p, R_m)}}{\sigma_m^2}
-     \]
-   - \( \beta \) = Beta coefficient
-   - \( R_p \) = Return of the portfolio
-   - \( R_m \) = Return of the market
-   - \( \sigma_m \) = Standard deviation of the market returns
+     $$ \beta = \frac{\text{Cov}(R_p, R_m)}{\sigma_m^2} $$
+   - $\beta$ = Beta coefficient
+   - $R_p$ = Return of the portfolio
+   - $R_m$ = Return of the market
+   - $\sigma_m$ = Standard deviation of the market returns
 4. **Sharpe Ratio**
    - Assesses risk-adjusted performance by adjusting returns for risk.
    - Calculation:
-     \[
-     S = \frac{(R_p - R_f)}{\sigma_p}
-     \]
-   - \( S \) = Sharpe Ratio
-   - \( R_p \) = Return of the portfolio
-   - \( R_f \) = Risk-free rate
-   -  \( \sigma_p \) = Standard deviation of portfolio return
+     $$ S = \frac{(R_p - R_f)}{\sigma_p} $$
+   - $S$ = Sharpe Ratio
+   - $R_p$ = Return of the portfolio
+   - $R_f$ = Risk-free rate
+   - $\sigma_p$ = Standard deviation of portfolio return
 5. **Sortino Ratio**
    - Similar to Sharpe Ratio but considers only downside volatility, differentiating between harmful volatility and general volatility.
    - Calculation: 
-     \[
-     SR = \frac{R_p - R_f}{\sigma_d}
-     \]
-   - \( SR \) = Sortino Ratio
-   - \( R_p \) = Return of the portfolio
-   - \( R_f \) = Risk-free rate
-   - \( \sigma_d \) = Standard deviation of downside returns
+     $$ SR = \frac{R_p - R_f}{\sigma_d} $$
+   - $SR$ = Sortino Ratio
+   - $R_p$ = Return of the portfolio
+   - $R_f$ = Risk-free rate
+   - $\sigma_d$ = Standard deviation of downside returns
 6. **Max Drawdown (MDD)**
    - Represents the maximum observed loss from a peak to a trough in a portfolio.
    - Calculation: 
-     \[
-     MDD = \frac{Trough Value - Peak Value}{Peak Value}
-     \]
+     $$ MDD = \frac{Trough Value - Peak Value}{Peak Value} $$
 
 ### Advanced Risk Analysis Techniques
 
