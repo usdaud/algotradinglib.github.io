@@ -12,12 +12,12 @@ The Exponential Moving Average (EMA) is a type of moving average that places a g
 
 The formula for the 1-period EMA can be simplified, although the general EMA formula is as follows:
 
-\[ \text{EMA}_{\text{today}} = ( \text{Price}_{\text{today}} \times K ) + ( \text{EMA}_{\text{yesterday}} \times (1 - K) ) \]
+$$ \text{EMA}_{\text{today}} = ( \text{Price}_{\text{today}} \times K ) + ( \text{EMA}_{\text{yesterday}} \times (1 - K) ) $$
 
 Where:
-- \( K \) is the smoothing factor, calculated as \( \frac{2}{{n+1}} \), and \( n \) is the number of periods.
+- $K$ is the smoothing factor, calculated as $\frac{2}{n+1}$, and $n$ is the number of periods.
   
-In the case of the 1-period EMA, the smoothing factor \( K \) is maximized, making it highly sensitive to the most recent price changes.
+In the case of the 1-period EMA, the smoothing factor $K$ is maximized, making it highly sensitive to the most recent price changes.
 
 ## Characteristics of the 1-Period EMA
 
