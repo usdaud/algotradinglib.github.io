@@ -1,17 +1,21 @@
 ﻿module Jekyll
   class LinkConverter < Jekyll::Generator
     safe true
-    priority :lowest
+    priority :low
 
     def generate(site)
       site.pages.each do |page|
-        if page.output_ext == ".html"
-          if page.output
-            page.output.gsub!(/(<a href=".*?)\.md(["'])/, '\1.html\2')
-          else
-            Jekyll.logger.warn "LinkConverter:", "No output for page: #{page.path}"
-          end
+        if page.ext == ".md"
+          convert_links(page)
         end
+      end
+    end
+
+    def convert_links(page)
+      page.content.gsub!(/(\[.*?\])\((.*?)\.md\)/) do |match|
+        link_text = $1
+        link_path = $2
+        "#{link_text}(#{link_path}.html)"
       end
     end
   end
