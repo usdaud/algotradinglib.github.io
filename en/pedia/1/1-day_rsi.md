@@ -22,11 +22,11 @@ Where RS (Relative Strength) is the average of X days' up closes divided by the 
 
 ## Applications in Algo Trading
 
-In algorithmic trading, the 1-Day RSI can be used to develop trading strategies that capitalize on short-term price movements. Here are a few ways it can be integrated:
+In [algorithmic trading](../a/algorithmic_trading.md), the 1-Day RSI can be used to develop [trading strategies](../t/trading_strategies.md) that capitalize on short-term price movements. Here are a few ways it can be integrated:
 
 ### Mean Reversion Strategies
 
-Mean reversion strategies are based on the premise that prices will revert to their historical mean. The 1-Day RSI can be used to identify when an asset is significantly overbought or oversold, signifying a potential reversion point.
+[Mean reversion](../m/mean_reversion.md) strategies are based on the premise that prices will revert to their historical mean. The 1-Day RSI can be used to identify when an asset is significantly overbought or oversold, signifying a potential reversion point.
 
 **Example Strategy:**
 
@@ -48,8 +48,8 @@ Trading based on divergences between the price and RSI levels can also be a pote
 
 **Example Strategy:**
 
-- **Bullish Divergence:** Enter a long position when the price makes a lower low but the RSI makes a higher low.
-- **Bearish Divergence:** Enter a short position when the price makes a higher high but the RSI makes a lower high.
+- **[Bullish Divergence](../b/bullish_divergence.md):** Enter a long position when the price makes a lower low but the RSI makes a higher low.
+- **[Bearish Divergence](../b/bearish_divergence.md):** Enter a short position when the price makes a higher high but the RSI makes a lower high.
 
 ## Limitations of 1-Day RSI
 
@@ -59,21 +59,21 @@ Due to its short-term nature, the 1-Day RSI can be highly sensitive to market no
 
 ### Not a Standalone Indicator
 
-RSI should not be used in isolation but rather in conjunction with other indicators and market analysis techniques to improve its reliability. Combining RSI with moving averages, support and resistance levels, or other oscillators can provide better trading signals.
+RSI should not be used in isolation but rather in conjunction with other indicators and market analysis techniques to improve its reliability. Combining RSI with moving averages, [support and resistance](../s/support_and_resistance.md) levels, or other oscillators can provide better [trading signals](../t/trading_signals.md).
 
 ### Overfitting Risk
 
-In algorithmic trading, there's a risk of overfitting strategies to historical data which may not perform well in live trading conditions. It's crucial to backtest strategies under various market conditions to ensure their robustness.
+In [algorithmic trading](../a/algorithmic_trading.md), there's a risk of overfitting strategies to historical data which may not perform well in live trading conditions. It's crucial to backtest strategies under various market conditions to ensure their robustness.
 
 ## Case Study: RSI in Algorithmic Trading
 
-Let’s consider a hypothetical case of using 1-Day RSI in a high-frequency trading environment.
+Let’s consider a hypothetical case of using 1-Day RSI in a high-frequency [trading environment](../t/trading_environment.md).
 
 ### Setup
 
 - **Asset:** S&P 500 Futures
 - **Time Frame:** 1-Day RSI calculation on minute-by-minute data.
-- **Strategy:** Mean Reversion
+- **Strategy:** [Mean Reversion](../m/mean_reversion.md)
 
 ### Backtesting
 
@@ -89,11 +89,11 @@ Historical data is gathered and the strategy is backtested over a period of two 
 - **Average Gain:** 1.2% per trade
 - **Maximum Drawdown:** 15%
 
-The backtest reveals that the strategy can be profitable but requires tight risk management due to the higher volatility seen in short-term RSI strategies.
+The backtest reveals that the strategy can be profitable but requires tight [risk management](../r/risk_management.md) due to the higher volatility seen in short-term RSI strategies.
 
 ### Implementation
 
-For implementation, ensuring a robust order execution system is crucial. High-frequency setups would also require low-latency trading systems to capitalize on short-term opportunities efficiently.
+For implementation, ensuring a robust order execution system is crucial. High-frequency setups would also require low-latency [trading systems](../t/trading_systems.md) to capitalize on short-term opportunities efficiently.
 
 ## Tools and Platforms
 
@@ -101,7 +101,7 @@ Several platforms and tools can be utilized to implement and backtest 1-Day RSI 
 
 ### MetaTrader 4/5
 
-MetaTrader is a popular platform for algo trading offering extensive tools for technical analysis and automated trading using Expert Advisors (EAs).
+MetaTrader is a popular platform for algo trading offering extensive tools for [technical analysis](../t/technical_analysis.md) and automated trading using Expert Advisors (EAs).
 
 - **MetaTrader 5:** [https://www.metatrader5.com/en](https://www.metatrader5.com/en)
 
@@ -113,13 +113,13 @@ TradingView offers powerful charting tools and a scripting language called Pine 
 
 ### QuantConnect
 
-QuantConnect is a cloud-based algorithmic trading platform that supports coding in Python and C#. It provides extensive historical data and backtesting capabilities.
+QuantConnect is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports coding in Python and C#. It provides extensive historical data and [backtesting](../b/backtesting.md) capabilities.
 
 - **QuantConnect:** [https://www.quantconnect.com/](https://www.quantconnect.com/)
 
 ### Algorithmic Trading APIs
 
-APIs like Alpaca, Interactive Brokers, and TD Ameritrade allow for the development of custom trading applications capable of executing algorithmic trading strategies.
+APIs like Alpaca, Interactive Brokers, and TD Ameritrade allow for the development of custom trading applications capable of executing [algorithmic trading](../a/algorithmic_trading.md) strategies.
 
 - **Alpaca:** [https://alpaca.markets/](https://alpaca.markets/)
 - **Interactive Brokers:** [https://www.interactivebrokers.com/](https://www.interactivebrokers.com/)
@@ -133,12 +133,12 @@ Integrating machine learning models can improve the accuracy and profitability o
 
 ### Risk Management
 
-Implementing robust risk management protocols is essential for short-term RSI trades. This includes setting stop-loss limits, position sizing, and diversification strategies to minimize risk exposure.
+Implementing robust [risk management](../r/risk_management.md) protocols is essential for short-term RSI trades. This includes setting stop-loss limits, [position sizing](../p/position_sizing.md), and [diversification strategies](../d/diversification_strategies.md) to minimize risk exposure.
 
 ### Regulatory Compliance
 
-Ensuring compliance with trading regulations is crucial for algorithmic trading. This involves adhering to market manipulation laws, maintaining appropriate licensing, and implementing safeguards to prevent erroneous trades.
+Ensuring compliance with trading regulations is crucial for [algorithmic trading](../a/algorithmic_trading.md). This involves adhering to market manipulation laws, maintaining appropriate licensing, and implementing safeguards to prevent erroneous trades.
 
 ## Conclusion
 
-The 1-Day RSI is a powerful tool for identifying short-term trading opportunities, particularly in the realms of mean reversion and trend following strategies. However, its effectiveness is significantly enhanced when used in combination with additional indicators and robust risk management practices. By integrating advanced tools and platforms, and considering innovative techniques such as machine learning, traders can further bolster their strategies' accuracy and profitability.
+The 1-Day RSI is a powerful tool for identifying [short-term trading](../s/short-term_trading.md) opportunities, particularly in the realms of [mean reversion](../m/mean_reversion.md) and [trend following](../t/trend_following.md) strategies. However, its effectiveness is significantly enhanced when used in combination with additional indicators and robust [risk management](../r/risk_management.md) practices. By integrating advanced tools and platforms, and considering innovative techniques such as machine learning, traders can further bolster their strategies' accuracy and profitability.

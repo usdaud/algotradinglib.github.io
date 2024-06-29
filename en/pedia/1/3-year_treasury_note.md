@@ -101,7 +101,7 @@ The yield on the 3-Year Treasury Note is monitored closely by economists and ana
 
 ### Yield Curve
 
-The 3-Year Treasury Note is a part of the U.S. Treasury yield curve, which plots the yields of Treasury securities across different maturities. The shape of the yield curve is a critical economic indicator. For example, an inverted yield curve, where short-term yields are higher than long-term yields, can signal an upcoming recession.
+The 3-Year Treasury Note is a part of the U.S. Treasury [yield curve](../y/yield_curve.md), which plots the yields of Treasury securities across different maturities. The shape of the [yield curve](../y/yield_curve.md) is a critical economic indicator. For example, an inverted [yield curve](../y/yield_curve.md), where short-term yields are higher than long-term yields, can signal an upcoming recession.
 
 ### Monetary Policy Implications
 
@@ -109,4 +109,4 @@ The Federal Reserve monitors Treasury yields when making policy decisions. Chang
 
 ## Conclusion
 
-The 3-Year Treasury Note is a vital instrument in the U.S. fixed-income market. It offers a blend of safety, liquidity, and periodic income, appealing to a wide range of investors. Its role as an economic indicator and its influence on monetary policy further highlight its importance in the financial landscape.
+The 3-Year Treasury Note is a vital instrument in the U.S. fixed-income market. It offers a blend of safety, liquidity, and periodic income, appealing to a wide range of investors. Its role as an economic indicator and its influence on monetary policy further highlight its importance in the financial landscape.

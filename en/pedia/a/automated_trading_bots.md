@@ -1,10 +1,10 @@
 # Automated Trading Bots
 
-Automated trading bots, often referred to as algorithmic trading or "algo-trading," have revolutionized the financial markets. These complex algorithms can analyze multiple market variables quickly, react to them faster than a human trader could, and execute trades with precision. Below is an in-depth look into various aspects of automated trading bots.
+Automated trading bots, often referred to as [algorithmic trading](../a/algorithmic_trading.md) or "algo-trading," have revolutionized the financial markets. These complex algorithms can analyze multiple market variables quickly, react to them faster than a human trader could, and execute trades with precision. Below is an in-depth look into various aspects of automated trading bots.
 
 ### Definition
 
-Automated trading bots are sophisticated programs that interact with financial markets to place trades on behalf of the user. These bots leverage predefined rules, algorithms, and technical indicators to decide when to buy or sell securities.
+Automated trading bots are sophisticated programs that interact with financial markets to place trades on behalf of the user. These bots leverage predefined rules, algorithms, and [technical indicators](../t/technical_indicators.md) to decide when to buy or sell securities.
 
 ### Components of Automated Trading Bots
 
@@ -13,26 +13,26 @@ Automated trading bots are sophisticated programs that interact with financial m
    Automated trading bots rely on vast amounts of data from different sources including:
    - Historical market data
    - Real-time pricing
-   - Economic indicators
+   - [Economic indicators](../e/economic_indicators.md)
    - News feeds
-   - Social media sentiment
+   - [Social media sentiment](../s/social_media_sentiment.md)
    
    All this data serves as the input for making trading decisions.
 
 2. **Algorithms**
 
    The core of any trading bot is its algorithm, which could be based on:
-   - **Technical Analysis**: Utilize past market data to predict future movements. Common tools include moving averages, exponential averages, and MACD.
-   - **Fundamental Analysis**: Focus on the inherent value of a security by analyzing economic indicators, financial statements, etc.
-   - **Sentiment Analysis**: Leverage natural language processing (NLP) to analyze public opinion on social media and other platforms.
+   - **[Technical Analysis](../t/technical_analysis.md)**: Utilize past market data to predict future movements. Common tools include moving averages, exponential averages, and MACD.
+   - **[Fundamental Analysis](../f/fundamental_analysis.md)**: Focus on the inherent value of a security by analyzing [economic indicators](../e/economic_indicators.md), financial statements, etc.
+   - **[Sentiment Analysis](../s/sentiment_analysis.md)**: Leverage natural language processing (NLP) to analyze public opinion on social media and other platforms.
    - **Machine Learning**: Use statistical techniques to enable the bot to learn from historical data and improve its performance over time.
    
 3. **Trading Strategy**
 
    Strategies could range from simple to very complex:
-   - **Mean Reversion**: Assumes that prices will revert to their historical averages.
-   - **Momentum Trading**: Buys securities that have high returns over a specific period and sells those that have poor returns.
-   - **Statistical Arbitrage**: Exploits the price inefficiencies in the market.
+   - **[Mean Reversion](../m/mean_reversion.md)**: Assumes that prices will revert to their historical averages.
+   - **[Momentum Trading](../m/momentum_trading.md)**: Buys securities that have high returns over a specific period and sells those that have poor returns.
+   - **Statistical [Arbitrage](../a/arbitrage.md)**: Exploits the price inefficiencies in the market.
    - **Market Making**: Provides liquidity to the market by buying and selling simultaneously.
 
 4. **Execution**
@@ -49,7 +49,7 @@ Automated trading bots are sophisticated programs that interact with financial m
 
    Bots operate based on logic and predefined rules, thereby eliminating emotional decision-making which is often the downfall of human traders.
 
-3. **Backtesting**
+3. **[Backtesting](../b/backtesting.md)**
 
    Before deploying a bot, traders can test it against historical data to gauge its performance, making necessary adjustments to optimize profitability.
 
@@ -83,11 +83,11 @@ Automated trading bots are sophisticated programs that interact with financial m
 
 1. **United States**
    
-   The Securities and Exchange Commission (SEC) and the Commodity Futures Trading Commission (CFTC) have regulatory oversight over trading bots. Notably, the SEC adopted Rule 15c3-5, which aims to restrict unfiltered or “naked” access to the markets.
+   The Securities and Exchange Commission (SEC) and the [Commodity Futures](../c/commodity_futures.md) Trading Commission (CFTC) have regulatory oversight over trading bots. Notably, the SEC adopted Rule 15c3-5, which aims to restrict unfiltered or “naked” access to the markets.
 
 2. **European Union**
 
-   The European Union’s Markets in Financial Instruments Directive (MiFID II) has laid down stringent guidelines for algorithmic trading to ensure market integrity and investor protection.
+   The European Union’s Markets in Financial Instruments Directive (MiFID II) has laid down stringent guidelines for [algorithmic trading](../a/algorithmic_trading.md) to ensure market integrity and investor protection.
 
 3. **Asia**
 
@@ -102,7 +102,7 @@ Automated trading bots are sophisticated programs that interact with financial m
 
 2. **QuantConnect**
 
-   An open-source algorithmic trading platform that offers tools for backtesting and live trading.
+   An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that offers tools for [backtesting](../b/backtesting.md) and live trading.
    [QuantConnect](https://www.quantconnect.com/)
 
 3. **Interactive Brokers**
@@ -131,4 +131,4 @@ Automated trading bots are sophisticated programs that interact with financial m
 
 ### Conclusion
 
-Automated trading bots are an integral part of modern financial markets. The blend of speed, efficiency, and unemotional decision-making offers considerable advantages. However, the associated risks and challenges necessitate careful planning and rigorous testing. As technology continues to evolve, so will the capabilities and sophistication of trading bots, making them an ever-important tool in the arsenal of traders and financial institutions worldwide.
+Automated trading bots are an integral part of modern financial markets. The blend of speed, efficiency, and unemotional decision-making offers considerable advantages. However, the associated risks and challenges necessitate careful planning and rigorous testing. As technology continues to evolve, so will the capabilities and sophistication of trading bots, making them an ever-important tool in the arsenal of traders and financial institutions worldwide.

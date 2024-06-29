@@ -1,40 +1,40 @@
 # Backtesting with Java
 
-Backtesting is a crucial process in algorithmic trading where a trading strategy is tested on historical data to verify its viability before applying it in live trading. Essentially, it allows a trader to simulate a trading strategy using past data to gauge how it would have performed. This document delves into backtesting with Java, providing a comprehensive guide on how to implement and utilize backtesting frameworks, and addressing key considerations to ensure accurate and actionable results.
+[Backtesting](../b/backtesting.md) is a crucial process in [algorithmic trading](../a/algorithmic_trading.md) where a trading strategy is tested on historical data to verify its viability before applying it in live trading. Essentially, it allows a trader to simulate a trading strategy using past data to gauge how it would have performed. This document delves into [backtesting](../b/backtesting.md) with Java, providing a comprehensive guide on how to implement and utilize [backtesting](../b/backtesting.md) frameworks, and addressing key considerations to ensure accurate and actionable results.
 
 ### Overview of Backtesting
 
-Backtesting involves running a trading strategy against historical market data to see how the strategy would have performed over a specific period. Key components of backtesting include:
+[Backtesting](../b/backtesting.md) involves running a trading strategy against historical market data to see how the strategy would have performed over a specific period. Key components of [backtesting](../b/backtesting.md) include:
 
-1. **Historical Data**: Accurate and comprehensive historical market data is essential for reliable backtesting results.
+1. **Historical Data**: Accurate and comprehensive historical market data is essential for reliable [backtesting](../b/backtesting.md) results.
 2. **Trading Strategy**: The algorithm or set of rules that define the trading strategy being tested.
-3. **Backtesting Engine**: Software that executes the trading strategy on the historical data.
-4. **Performance Metrics**: Metrics like return, volatility, drawdown, and Sharpe ratio used to evaluate the strategy's performance.
+3. **[Backtesting](../b/backtesting.md) Engine**: Software that executes the trading strategy on the historical data.
+4. **[Performance Metrics](../p/performance_metrics.md)**: Metrics like return, volatility, drawdown, and [Sharpe ratio](../s/sharpe_ratio.md) used to evaluate the strategy's performance.
 
 ### Why Use Java for Backtesting?
 
-Java is a robust, high-performance, and widely-used programming language with several advantages for backtesting:
+Java is a robust, high-performance, and widely-used programming language with several advantages for [backtesting](../b/backtesting.md):
 
 - **Performance**: Java's Just-In-Time (JIT) compilation and efficient memory management make it suitable for processing large datasets.
-- **Libraries and Frameworks**: Java has a rich ecosystem of libraries and frameworks that facilitate various aspects of backtesting.
-- **Cross-Platform Compatibility**: Java's platform independence ensures that backtesting code can run on various operating systems without modification.
+- **Libraries and Frameworks**: Java has a rich ecosystem of libraries and frameworks that facilitate various aspects of [backtesting](../b/backtesting.md).
+- **Cross-Platform Compatibility**: Java's platform independence ensures that [backtesting](../b/backtesting.md) code can run on various operating systems without modification.
 - **Community Support**: Java has a large and active community, making it easier to find resources, libraries, and support.
 
 ### Key Libraries and Tools for Backtesting in Java
 
 1. **Apache Commons Math**: A library providing machine learning and statistical analysis tools. (Website: [Apache Commons Math](http://commons.apache.org/proper/commons-math/))
 2. **JFreeChart**: A free Java chart library that makes it easy to display charts and data visualizations. (Website: [JFreeChart](http://www.jfree.org/jfreechart/))
-3. **TA-Lib**: Technical Analysis Library for Java providing a wide variety of technical analysis functions. (Website: [TA-Lib](http://ta-lib.org/))
+3. **TA-Lib**: [Technical Analysis](../t/technical_analysis.md) Library for Java providing a wide variety of [technical analysis](../t/technical_analysis.md) functions. (Website: [TA-Lib](http://ta-lib.org/))
 4. **Market Data Providers**: Various APIs like Alpha Vantage and Quandl provide historical market data. (Website: [Alpha Vantage](https://www.alphavantage.co/), [Quandl](https://www.quandl.com/))
 
 ### Implementing a Backtesting Framework in Java
 
-A straightforward backtesting framework involves the following steps:
+A straightforward [backtesting](../b/backtesting.md) framework involves the following steps:
 
 1. **Setting Up the Environment**: Install and configure the necessary Java libraries and tools.
 2. **Loading Historical Data**: Fetch historical data from market data providers or local files.
 3. **Coding the Trading Strategy**: Define the trading strategy, including the rules for entering and exiting trades.
-4. **Running the Backtest**: Execute the strategy against the historical data using a backtesting engine.
+4. **Running the Backtest**: Execute the strategy against the historical data using a [backtesting](../b/backtesting.md) engine.
 5. **Analyzing Results**: Evaluate the performance of the strategy using various metrics.
 
 #### Step 1: Setting Up the Environment
@@ -176,7 +176,7 @@ public class BacktestEngine {
 
 #### Step 5: Analyzing Results
 
-After running the backtest, analyze the results using various performance metrics. Implement or use libraries for metrics like Sharpe ratio, Sortino ratio, maximum drawdown, etc.
+After running the backtest, analyze the results using various [performance metrics](../p/performance_metrics.md). Implement or use libraries for metrics like [Sharpe ratio](../s/sharpe_ratio.md), [Sortino ratio](../s/sortino_ratio.md), maximum drawdown, etc.
 
 ### Challenges and Considerations
 
@@ -188,7 +188,7 @@ After running the backtest, analyze the results using various performance metric
 
 ### Conclusion
 
-Backtesting is an essential part of developing an algorithmic trading strategy, allowing traders to validate their strategies against historical data. Java provides a robust ecosystem for backtesting, offering high performance, extensive libraries, and cross-platform compatibility. By following a structured approach and addressing key considerations, traders can develop and test strategies capable of performing well in live markets.
+[Backtesting](../b/backtesting.md) is an essential part of developing an [algorithmic trading](../a/algorithmic_trading.md) strategy, allowing traders to validate their strategies against historical data. Java provides a robust ecosystem for [backtesting](../b/backtesting.md), offering high performance, extensive libraries, and cross-platform compatibility. By following a structured approach and addressing key considerations, traders can develop and test strategies capable of performing well in live markets.
 
 ### Further Reading and Resources
 
@@ -196,4 +196,4 @@ Backtesting is an essential part of developing an algorithmic trading strategy, 
 - [JFreeChart Documentation](http://www.jfree.org/jfreechart/)
 - [TA-Lib Technical Analysis Library](http://ta-lib.org/)
 - [Alpha Vantage](https://www.alphavantage.co/)
-- [Quandl](https://www.quandl.com/)
+- [Quandl](https://www.quandl.com/)

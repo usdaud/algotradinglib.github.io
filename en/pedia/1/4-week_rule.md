@@ -1,11 +1,11 @@
 # 4-Week Rule
 
-The 4-Week Rule is a trading strategy often used in the realm of algorithmic trading. Formulated by Richard Donchian, a pioneer in the field of managed futures, the 4-Week Rule is an easy-to-understand method for identifying potential breakouts in the market. This trading rule is often employed by traders looking to capitalize on market momentum and signifies a basic trend-following methodology. 
+The 4-Week Rule is a trading strategy often used in the realm of [algorithmic trading](../a/algorithmic_trading.md). Formulated by Richard Donchian, a pioneer in the field of [managed futures](../m/managed_futures.md), the 4-Week Rule is an easy-to-understand method for identifying potential breakouts in the market. This trading rule is often employed by traders looking to capitalize on market momentum and signifies a basic trend-following methodology. 
 
 ## Fundamental Concepts
 
 ### Breakout Trading
-The core idea behind the 4-Week Rule is breakout trading. A breakout occurs when the price of an asset moves outside a defined support or resistance level with increased volume. According to this strategy, if the price of a security moves to a 4-week high, it is likely to continue rising, and if it moves to a 4-week low, it is likely to continue falling. 
+The core idea behind the 4-Week Rule is [breakout trading](../b/breakout_trading.md). A breakout occurs when the price of an asset moves outside a defined support or resistance level with increased volume. According to this strategy, if the price of a security moves to a 4-week high, it is likely to continue rising, and if it moves to a 4-week low, it is likely to continue falling. 
 
 ### Time Frame
 The rule utilizes a 4-week period, i.e., 20 trading days, to determine breakouts. This period is optimal enough to filter out short-term noise and small price movements while capturing medium-term trends.
@@ -24,18 +24,18 @@ Conversely, the rule generates a sell signal when the closing price of a securit
 
 ## Practical Application
 
-While the 4-Week Rule is relatively simple to apply, its effectiveness can be enhanced by integrating it into a more comprehensive trading framework. This often involves incorporating risk management practices, such as stop-loss orders and position sizing, and possibly combining it with other technical indicators for additional confirmation.
+While the 4-Week Rule is relatively simple to apply, its effectiveness can be enhanced by integrating it into a more comprehensive trading framework. This often involves incorporating [risk management](../r/risk_management.md) practices, such as [stop-loss orders](../s/stop-loss_orders.md) and [position sizing](../p/position_sizing.md), and possibly combining it with other [technical indicators](../t/technical_indicators.md) for additional confirmation.
 
 ### Example Code (Python)
 
-To implement the 4-Week Rule in a Python-based algorithmic trading environment, you can use the following code:
+To implement the 4-Week Rule in a Python-based [algorithmic trading](../a/algorithmic_trading.md) environment, you can use the following code:
 
 ```python
 import pandas as pd
 
 def four_week_rule(data):
     """
-    Implement the 4 Week Rule for breakout trading.
+    Implement the 4 Week Rule for [breakout trading](../b/breakout_trading.md).
     
     Params:
     data - A pandas DataFrame containing 'Close' prices with a datetime index.
@@ -68,18 +68,18 @@ Many professional trading firms and individual traders employ variations of the 
 
 #### Pros
 1. **Simplicity**: The 4-Week Rule is straightforward to implement and understand.
-2. **Trend Following**: It effectively captures medium-term trends, allowing traders to ride significant price movements.
-3. **Objective**: The rules are clear-cut, eliminating most of the ambiguity that can accompany discretionary trading.
+2. **[Trend Following](../t/trend_following.md)**: It effectively captures medium-term trends, allowing traders to ride significant price movements.
+3. **Objective**: The rules are clear-cut, eliminating most of the ambiguity that can accompany [discretionary trading](../d/discretionary_trading.md).
 
 #### Cons
 1. **Whipsaws**: The strategy can generate false signals in choppy or sideways markets, leading to potential losses.
 2. **Lagging Indicator**: Like many trend-following methods, the 4-Week Rule can be slow to react to rapidly changing market conditions.
-3. **Risk Management**: The rule does not inherently include risk management practices, so traders must implement their measures to protect their capital.
+3. **[Risk Management](../r/risk_management.md)**: The rule does not inherently include [risk management](../r/risk_management.md) practices, so traders must implement their measures to protect their capital.
 
 ## Conclusion
 
-The 4-Week Rule remains a popular and effective trend-following strategy in algorithmic trading. Its simplicity and ease of use have made it a staple for many trading systems. However, success with this strategy hinges on proper implementation, including supplementary risk management techniques and perhaps combining it with other indicators or methods to filter out false signals.
+The 4-Week Rule remains a popular and effective trend-following strategy in [algorithmic trading](../a/algorithmic_trading.md). Its simplicity and ease of use have made it a staple for many [trading systems](../t/trading_systems.md). However, success with this strategy hinges on proper implementation, including supplementary [risk management](../r/risk_management.md) techniques and perhaps combining it with other indicators or methods to filter out false signals.
 
-For more advanced implementations, many traders look to platforms like [QuantConnect](https://www.quantconnect.com) or [Alpaca](https://alpaca.markets) to backtest and deploy trading algorithms based on the 4-Week Rule among other strategies.
+For more advanced implementations, many traders look to platforms like [QuantConnect](https://www.quantconnect.com) or [Alpaca](https://alpaca.markets) to backtest and deploy [trading algorithms](../t/trading_algorithms.md) based on the 4-Week Rule among other strategies.
 
-By effectively utilizing the principles of breakout trading encapsulated in the 4-Week Rule, traders can potentially enhance their returns and capitalize on significant market trends.
+By effectively utilizing the principles of [breakout trading](../b/breakout_trading.md) encapsulated in the 4-Week Rule, traders can potentially enhance their returns and capitalize on significant market trends.

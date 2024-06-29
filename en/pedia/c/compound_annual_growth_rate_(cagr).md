@@ -25,7 +25,7 @@ Let's break it down with an example:
 Thus, the investment has grown at an annual compound growth rate of approximately 14.87%.
 
 ### Importance in Algorthmic Trading
-In algorithmic trading, CAGR is essential for the following reasons:
+In [algorithmic trading](../a/algorithmic_trading.md), CAGR is essential for the following reasons:
 
 1. **Performance Measurement:** It provides a single annualized rate that shows the consistent growth of an investment portfolio over time, even if the growth happened at an irregular rate year over year.
   
@@ -78,7 +78,7 @@ Private and institutional investors use CAGR to gauge the performance of investm
 Analysts use CAGR in their financial models to predict future earnings and to evaluate the historical performance of a company. This can be seen in Analyst reports from companies like [Goldman Sachs](https://www.goldmansachs.com).
 
 #### Businesses
-Businesses use CAGR to monitor and report the growth of key performance indicators (KPIs) such as revenue, profits, and user base. Companies like [Amazon](https://www.amazon.com) display such data in their annual reports to showcase performance growth over time.
+Businesses use CAGR to monitor and report the growth of key [performance indicators](../p/performance_indicators.md) (KPIs) such as revenue, profits, and user base. Companies like [Amazon](https://www.amazon.com) display such data in their annual reports to showcase performance growth over time.
 
 ### Limitations of CAGR
 Despite its usefulness, CAGR has some limitations:
@@ -87,7 +87,7 @@ Despite its usefulness, CAGR has some limitations:
 
 2. **Past Performance:** It’s backward-looking and may not necessarily predict future performance.
 
-3. **Single Metric:** It should not be used in isolation but rather combined with other metrics like standard deviation, Sharpe ratio, and maximum drawdown to get a comprehensive view.
+3. **Single Metric:** It should not be used in isolation but rather combined with other metrics like standard deviation, [Sharpe ratio](../s/sharpe_ratio.md), and maximum drawdown to get a comprehensive view.
 
 ### Conclusion
-CAGR provides a clear and straightforward metric for comparing the annual growth rates of investments over time. It's a critical tool for traders, investors, analysts, and businesses to measure and compare performance accurately. Its main advantage is its ability to normalize the growth rates of different investments, providing a 'smoother' perspective on performance. However, users should be aware of its limitations and use it in conjunction with other metrics for a well-rounded analysis.
+CAGR provides a clear and straightforward metric for comparing the annual growth rates of investments over time. It's a critical tool for traders, investors, analysts, and businesses to measure and compare performance accurately. Its main advantage is its ability to normalize the growth rates of different investments, providing a 'smoother' perspective on performance. However, users should be aware of its limitations and use it in conjunction with other metrics for a well-rounded analysis.

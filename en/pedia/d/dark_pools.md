@@ -23,7 +23,7 @@ Dark pools execute trades at prices determined by the midpoint of the national b
 ### Disadvantages and Criticism
 - **Lack of Transparency**: Critics argue that dark pools contribute to a lack of transparency in the markets, as significant trading volume occurs out of view.
 - **Price Discovery Impacts**: Since large trades happen away from public exchanges, it can hinder the proper price discovery mechanism that relies on the visibility of all trades.
-- **Potential for Manipulation**: The opacity of dark pools can potentially be exploited for manipulative activities like front-running.
+- **Potential for Manipulation**: The opacity of dark pools can potentially be exploited for manipulative activities like [front-running](../f/front-running.md).
 
 ### Regulation
 Dark pools have been subject to increasing scrutiny and regulatory measures in various jurisdictions:
@@ -43,4 +43,4 @@ More information about these dark pools can be found on their respective operato
 - Liquidnet: [link](https://www.liquidnet.com)
 
 ### Conclusion
-Dark pools remain a significant yet controversial component of modern financial markets. While they offer distinct advantages in terms of reducing market impact and preserving anonymity for large trades, their lack of transparency and potential effects on market mechanics are points of ongoing debate and regulation. As algorithmic trading continues to evolve, the role and regulation of dark pools are likely to remain dynamic and closely watched by market participants and regulators alike.
+Dark pools remain a significant yet controversial component of modern financial markets. While they offer distinct advantages in terms of reducing market impact and preserving anonymity for large trades, their lack of transparency and potential effects on market mechanics are points of ongoing debate and regulation. As [algorithmic trading](../a/algorithmic_trading.md) continues to evolve, the role and regulation of dark pools are likely to remain dynamic and closely watched by market participants and regulators alike.

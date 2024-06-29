@@ -1,6 +1,6 @@
 # 10-Day EMA (Exponential Moving Average)
 
-The 10-day Exponential Moving Average (EMA) is a type of moving average used in technical analysis to smooth out price data and identify trend directions over a short period. Unlike the Simple Moving Average (SMA), which assigns equal weight to all prices in the time period, the EMA gives more weight to recent prices, making it more responsive to new information.
+The 10-day Exponential Moving Average (EMA) is a type of moving average used in [technical analysis](../t/technical_analysis.md) to smooth out price data and identify trend directions over a short period. Unlike the Simple Moving Average (SMA), which assigns equal weight to all prices in the time period, the EMA gives more weight to recent prices, making it more responsive to new information.
 
 ## Calculation
 
@@ -38,7 +38,7 @@ Where:
 The 10-day EMA is often used to identify short-term trends in a stock's price. When the price is above the 10-day EMA, it is considered an uptrend, and conversely, when the price is below the 10-day EMA, it indicates a downtrend.
 
 ### Buy and Sell Signals
-Traders use the 10-day EMA to generate trading signals:
+Traders use the 10-day EMA to generate [trading signals](../t/trading_signals.md):
 - **Buy Signal**: When the price crosses above the 10-day EMA and continues to stay above it for a few periods.
 - **Sell Signal**: When the price crosses below the 10-day EMA and remains below it for continued periods.
 
@@ -49,7 +49,7 @@ The 10-day EMA is also utilized alongside other indicators to measure momentum. 
 
 ### EMA Crossovers
 Traders often use a combination of short-term and long-term EMAs to identify crossovers:
-- **Golden Cross**: When a short-term EMA crosses above a long-term EMA, it signals a potential bullish market.
+- **[Golden Cross](../g/golden_cross.md)**: When a short-term EMA crosses above a long-term EMA, it signals a potential bullish market.
 - **Death Cross**: When a short-term EMA crosses below a long-term EMA, it signals a potential bearish market.
 
 ### MACD (Moving Average Convergence Divergence)
@@ -62,7 +62,7 @@ Additionally, a signal line, which is a 9-day EMA of the MACD, is used to trigge
 
 ## Backtesting and Performance
 
-To ensure the reliability of a 10-day EMA in trading strategies, it is essential to backtest it using historical data. Performance metrics such as the Sharpe ratio, win rate, and maximum drawdown are evaluated during backtesting.
+To ensure the reliability of a 10-day EMA in [trading strategies](../t/trading_strategies.md), it is essential to backtest it using historical data. [Performance metrics](../p/performance_metrics.md) such as the [Sharpe ratio](../s/sharpe_ratio.md), win rate, and maximum drawdown are evaluated during [backtesting](../b/backtesting.md).
 
 ### Example
 For illustration, suppose a stock's closing prices for the initial 10 days are as follows:
@@ -120,4 +120,4 @@ The 10-day EMA is best-suited for short-term analysis. For longer-term trends, t
 
 ## Conclusion
 
-The 10-day EMA is a powerful yet simple tool that helps traders smooth out short-term price fluctuations and identify potential buy or sell signals. While it has its limitations, combining the 10-day EMA with other technical indicators and conducting thorough backtesting can enhance its efficacy in trading strategies.
+The 10-day EMA is a powerful yet simple tool that helps traders smooth out short-term price fluctuations and identify potential buy or sell signals. While it has its limitations, combining the 10-day EMA with other [technical indicators](../t/technical_indicators.md) and conducting thorough [backtesting](../b/backtesting.md) can enhance its efficacy in [trading strategies](../t/trading_strategies.md).

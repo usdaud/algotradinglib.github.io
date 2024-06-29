@@ -45,13 +45,13 @@ Several cloud providers offer tailored solutions for trading platforms:
 
 #### 4. Use Cases in Algorithmic Trading
 
-Algorithmic trading heavily benefits from cloud computing:
+[Algorithmic trading](../a/algorithmic_trading.md) heavily benefits from cloud computing:
 
 ##### High-Frequency Trading:
 Cloud infrastructure supports the low-latency requirements of HFT, enabling trades to be made in microseconds.
 
 ##### Backtesting and Simulation:
-Traders can use cloud computing to backtest trading strategies using historical data and run simulations without investing in extensive hardware.
+Traders can use cloud computing to backtest [trading strategies](../t/trading_strategies.md) using historical data and run simulations without investing in extensive hardware.
 
 ##### Risk Management:
 Cloud services provide powerful analytics tools to assess and mitigate risks in real-time.
@@ -94,7 +94,7 @@ The trend towards cloud adoption in trading is set to continue, driven by emergi
 Cloud platforms' integration with AI and machine learning will further enhance data analytics capabilities.
 
 ##### Quantum Computing:
-Future developments in quantum computing, combined with cloud platforms, could offer unprecedented processing power for complex trading algorithms.
+Future developments in quantum computing, combined with cloud platforms, could offer unprecedented processing power for complex [trading algorithms](../t/trading_algorithms.md).
 
 ##### Edge Computing:
 Combining cloud and edge computing will reduce latency and enhance real-time data processing, crucial for fast-paced trading environments.
@@ -109,4 +109,4 @@ Cloud computing is a transformative force in the trading industry, offering scal
 **References:**
 - [Amazon Web Services (AWS)](https://aws.amazon.com/financial-services/)
 - [Google Cloud Platform (GCP)](https://cloud.google.com/solutions/financial-services)
-- [Microsoft Azure](https://azure.microsoft.com/en-us/solutions/financial-services/)
+- [Microsoft Azure](https://azure.microsoft.com/en-us/solutions/financial-services/)

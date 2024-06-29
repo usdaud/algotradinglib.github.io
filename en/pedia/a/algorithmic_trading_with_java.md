@@ -1,12 +1,12 @@
 # Algorithmic Trading with Java
 
-Algorithmic trading, also known as algo trading, involves the use of computer algorithms to trade securities in financial markets. These algorithms use a set of rules and mathematical models to make trading decisions, often at speeds and frequencies far beyond human capability. This method of trading takes advantage of the computational power to execute trades that would be impossible for a human to carry out manually.
+[Algorithmic trading](../a/algorithmic_trading.md), also known as algo trading, involves the use of computer algorithms to trade securities in financial markets. These algorithms use a set of rules and mathematical models to make trading decisions, often at speeds and frequencies far beyond human capability. This method of trading takes advantage of the computational power to execute trades that would be impossible for a human to carry out manually.
 
-Java, being a versatile and widely-used programming language, provides an excellent platform for developing algorithmic trading systems. This document delves into how Java can be employed to create efficient and powerful algos for trading, touching on various aspects from setting up the development environment to implementing and testing the trading strategies.
+Java, being a versatile and widely-used programming language, provides an excellent platform for developing [algorithmic trading](../a/algorithmic_trading.md) systems. This document delves into how Java can be employed to create efficient and powerful algos for trading, touching on various aspects from setting up the development environment to implementing and testing the [trading strategies](../t/trading_strategies.md).
 
 ## Setting Up the Development Environment
 
-To start developing algorithmic trading systems with Java, you first need to set up a suitable development environment. Here are the key components you will need:
+To start developing [algorithmic trading](../a/algorithmic_trading.md) systems with Java, you first need to set up a suitable development environment. Here are the key components you will need:
 
 1. **Java Development Kit (JDK)**: Ensure you have the latest version of JDK installed. Java SE Development Kit (JDK) can be downloaded from the official [Oracle website](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html).
 
@@ -18,13 +18,13 @@ To start developing algorithmic trading systems with Java, you first need to set
 
 ## Data Collection and Preparation
 
-Data is the cornerstone of any algorithmic trading strategy. The accuracy, quality, and relevance of the data directly impact the performance of your trading algorithm. Here are some common sources of financial data:
+Data is the cornerstone of any [algorithmic trading](../a/algorithmic_trading.md) strategy. The accuracy, quality, and relevance of the data directly impact the performance of your trading algorithm. Here are some common sources of financial data:
 
 - **Yahoo Finance API**: Allows for fetching historical data, real-time quotes, and other financial information. It can be accessed from [Yahoo Finance](https://www.yahoofinanceapi.com/).
 - **Alpha Vantage API**: Provides a wide range of financial data, including real-time and historical data. It can be accessed from [Alpha Vantage](https://www.alphavantage.co/).
 - **Quandl**: Offers comprehensive data on various financial instruments like stocks, commodities, and cryptocurrencies. Quandl can be accessed from [here](https://www.quandl.com/).
 
-Once you have fetched the data, you will need to preprocess it to suit your trading algorithms. This preprocessing might include cleaning the data, handling missing values, normalizing the scales, etc.
+Once you have fetched the data, you will need to preprocess it to suit your [trading algorithms](../t/trading_algorithms.md). This preprocessing might include cleaning the data, handling missing values, normalizing the scales, etc.
 
 ### Example: Fetching Data with Yahoo Finance API
 
@@ -60,12 +60,12 @@ public class DataPreprocessor {
 
 ## Developing Trading Strategies
 
-Trading strategies are at the heart of any algorithmic trading system. Here are some common types of trading strategies you can develop using Java:
+[Trading strategies](../t/trading_strategies.md) are at the heart of any [algorithmic trading](../a/algorithmic_trading.md) system. Here are some common types of [trading strategies](../t/trading_strategies.md) you can develop using Java:
 
-1. **Mean Reversion**: This strategy bets on the fact that asset prices will revert to their historical mean or average.
-2. **Momentum Trading**: This involves taking positions based on trends. If the price is rising, a buy position is initiated, and if it is falling, a sell position.
-3. **Arbitrage**: Arbitrage strategies look to exploit price differences of the same asset appearing in different markets or forms.
-4. **Statistical Arbitrage**: This involves complex mathematical models to identify and exploit short-term trading opportunities.
+1. **[Mean Reversion](../m/mean_reversion.md)**: This strategy bets on the fact that asset prices will revert to their historical mean or average.
+2. **[Momentum Trading](../m/momentum_trading.md)**: This involves taking positions based on trends. If the price is rising, a buy position is initiated, and if it is falling, a sell position.
+3. **[Arbitrage](../a/arbitrage.md)**: [Arbitrage](../a/arbitrage.md) strategies look to exploit price differences of the same asset appearing in different markets or forms.
+4. **Statistical [Arbitrage](../a/arbitrage.md)**: This involves complex mathematical models to identify and exploit [short-term trading](../s/short-term_trading.md) opportunities.
 
 ### Example: Mean Reversion Strategy
 
@@ -99,7 +99,7 @@ public class MeanReversionStrategy {
 
 ## Backtesting
 
-Backtesting is a crucial step for validating your trading strategies. It involves testing your algorithmic trading strategies on historical data to ensure their viability before deploying them live in the market.
+[Backtesting](../b/backtesting.md) is a crucial step for validating your [trading strategies](../t/trading_strategies.md). It involves testing your [algorithmic trading](../a/algorithmic_trading.md) strategies on historical data to ensure their viability before deploying them live in the market.
 
 ### Example of Backtesting Framework
 
@@ -107,7 +107,7 @@ Backtesting is a crucial step for validating your trading strategies. It involve
 import yahoofinance.histquotes.HistoricalQuote;
 import java.util.List;
 
-public class Backtesting {
+public class [Backtesting](../b/backtesting.md) {
 
     public static void main(String[] args) {
         List<HistoricalQuote> historicalQuotes = fetchHistoricalData("AAPL");
@@ -122,14 +122,14 @@ public class Backtesting {
 }
 ```
 
-In the real world, effective backtesting involves sophisticated frameworks that account for transaction costs, market impact, slippage, and other real-world factors that could affect trading outcomes. Some popular Java-based backtesting frameworks include:
+In the real world, effective [backtesting](../b/backtesting.md) involves sophisticated frameworks that account for transaction costs, market impact, slippage, and other real-world factors that could affect trading outcomes. Some popular Java-based [backtesting](../b/backtesting.md) frameworks include:
 
-- **AlgoTrader**: A professional algorithmic trading platform that supports multiple asset classes. Check AlgoTrader [here](https://www.algotrader.com/).
-- **QuantConnect**: Though primarily in Python, QuantConnect also supports backtesting in multiple programming languages. More about it [here](https://www.quantconnect.com/).
+- **AlgoTrader**: A professional [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple asset classes. Check AlgoTrader [here](https://www.algotrader.com/).
+- **QuantConnect**: Though primarily in Python, QuantConnect also supports [backtesting](../b/backtesting.md) in multiple programming languages. More about it [here](https://www.quantconnect.com/).
 
 ## Live Trading
 
-After successful backtesting and refining of your strategies, you can move on to live trading. Live trading involves executing your trading strategies in real-time in the financial markets.
+After successful [backtesting](../b/backtesting.md) and refining of your strategies, you can move on to live trading. Live trading involves executing your [trading strategies](../t/trading_strategies.md) in real-time in the financial markets.
 
 ### Example: Live Trading with Alpaca API
 
@@ -159,9 +159,9 @@ public class LiveTrading {
 
 ## Risk Management
 
-Effective risk management strategies are paramount in algorithmic trading to mitigate potential losses. Some common risk management techniques include:
+Effective [risk management](../r/risk_management.md) strategies are paramount in [algorithmic trading](../a/algorithmic_trading.md) to mitigate potential losses. Some common [risk management](../r/risk_management.md) techniques include:
 
-1. **Position Sizing**: Controlling the amount invested in each trade.
+1. **[Position Sizing](../p/position_sizing.md)**: Controlling the amount invested in each trade.
 2. **Stop Loss Orders**: Setting predefined levels to automatically close a losing position.
 3. **Diversification**: Spreading investments across various assets to reduce risk.
 4. **Leverage Management**: Limiting the use of leverage to reduce potential losses.
@@ -188,6 +188,6 @@ public class RiskManagement {
 
 ## Conclusion
 
-Algorithmic trading with Java is a powerful approach to automating trading activities in financial markets. Java's extensive libraries and reliable performance make it an ideal choice for developing robust and efficient trading systems. By following best practices in data collection, preprocessing, strategy development, backtesting, and live trading, as well as implementing effective risk management techniques, traders can optimize their strategies to maximize returns while minimizing risk. For professional algorithmic trading development and deployment, you may also consider using platforms like [AlgoTrader](https://www.algotrader.com/) and [QuantConnect](https://www.quantconnect.com/).
+[Algorithmic trading](../a/algorithmic_trading.md) with Java is a powerful approach to automating trading activities in financial markets. Java's extensive libraries and reliable performance make it an ideal choice for developing robust and efficient [trading systems](../t/trading_systems.md). By following best practices in data collection, preprocessing, strategy development, [backtesting](../b/backtesting.md), and live trading, as well as implementing effective [risk management](../r/risk_management.md) techniques, traders can optimize their strategies to maximize returns while minimizing risk. For professional [algorithmic trading](../a/algorithmic_trading.md) development and deployment, you may also consider using platforms like [AlgoTrader](https://www.algotrader.com/) and [QuantConnect](https://www.quantconnect.com/).
 
-Happy trading!
+Happy trading!

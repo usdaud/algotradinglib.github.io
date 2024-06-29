@@ -1,6 +1,6 @@
 # 9-Period RSI
 
-The 9-period Relative Strength Index (RSI) is a popular technical analysis indicator used to measure the strength and momentum of price movements in financial markets. RSI was created by J. Welles Wilder Jr. and introduced in his book "New Concepts in Technical Trading Systems" in 1978. While the traditional RSI calculation uses a 14-period default, the 9-period RSI is a shorter-term variation that some traders prefer for quicker signals and increased sensitivity to price changes.
+The 9-period Relative Strength Index (RSI) is a popular [technical analysis](../t/technical_analysis.md) indicator used to measure the strength and momentum of price movements in financial markets. RSI was created by J. Welles Wilder Jr. and introduced in his book "New Concepts in Technical [Trading Systems](../t/trading_systems.md)" in 1978. While the traditional RSI calculation uses a 14-period default, the 9-period RSI is a shorter-term variation that some traders prefer for quicker signals and increased sensitivity to price changes.
 
 ## How RSI is Calculated
 
@@ -36,9 +36,9 @@ In the context of the 9-period RSI, the calculation would focus on the average g
 
 ### Divergences
 
-- **Bullish Divergence:** Occurs when the price makes a new low, but the RSI does not. This can be an early sign of a potential upward reversal.
+- **[Bullish Divergence](../b/bullish_divergence.md):** Occurs when the price makes a new low, but the RSI does not. This can be an early sign of a potential upward reversal.
   
-- **Bearish Divergence:** Happens when the price makes a new high, but the RSI does not correspondingly increase. This may signal an impending downward reversal.
+- **[Bearish Divergence](../b/bearish_divergence.md):** Happens when the price makes a new high, but the RSI does not correspondingly increase. This may signal an impending downward reversal.
 
 ## Benefits of Using the 9-Period RSI
 
@@ -46,7 +46,7 @@ In the context of the 9-period RSI, the calculation would focus on the average g
    
 2. **Early Entry and Exit Points:** The shorter period can help traders identify entry and exit points more quickly, which can be advantageous in volatile markets or when quick trading is required.
    
-3. **Scalping and Day Trading:** For scalpers and day traders who usually hold positions for short periods, the 9-period RSI offers timely signals that can match their fast-paced trading style.
+3. **Scalping and [Day Trading](../d/day_trading.md):** For scalpers and day traders who usually hold positions for short periods, the 9-period RSI offers timely signals that can match their fast-paced trading style.
 
 ## Limitations of the 9-Period RSI
 
@@ -60,7 +60,7 @@ In the context of the 9-period RSI, the calculation would focus on the average g
 
 ### Swing Trading
 
-Swing traders can use the 9-period RSI to identify short-term overbought and oversold conditions. For example, if a stock's 9-period RSI goes above 70, a swing trader might take this as a signal to look for selling opportunities or tighten stop-loss orders.
+Swing traders can use the 9-period RSI to identify short-term overbought and oversold conditions. For example, if a stock's 9-period RSI goes above 70, a swing trader might take this as a signal to look for selling opportunities or tighten [stop-loss orders](../s/stop-loss_orders.md).
 
 ### Trend Following
 
@@ -68,19 +68,19 @@ In trending markets, the 9-period RSI can help traders confirm the strength of a
 
 ### Combining with Other Indicators
 
-Many traders use the 9-period RSI in conjunction with other technical indicators to enhance the accuracy of their signals. Moving averages, MACD, and Bollinger Bands are commonly paired with RSI to filter out false signals and confirm trends.
+Many traders use the 9-period RSI in conjunction with other [technical indicators](../t/technical_indicators.md) to enhance the accuracy of their signals. Moving averages, MACD, and [Bollinger Bands](../b/bollinger_bands.md) are commonly paired with RSI to filter out false signals and confirm trends.
 
 ## Companies Utilizing RSI in Trading Systems
 
-Several proprietary trading firms and financial service companies integrate RSI into their trading models and algorithms. Here are a few examples:
+Several [proprietary trading](../p/proprietary_trading.md) firms and financial service companies integrate RSI into their [trading models](../t/trading_models.md) and algorithms. Here are a few examples:
 
-1. **Bridgewater Associates LLP** — One of the largest and most renowned hedge funds, they use a blend of multiple technical indicators, including RSI, in their investment strategies.  
+1. **Bridgewater Associates LLP** — One of the largest and most renowned hedge funds, they use a blend of multiple [technical indicators](../t/technical_indicators.md), including RSI, in their investment strategies.  
    [Bridgewater Associates](https://www.bridgewater.com/)
    
-2. **Two Sigma** — Actively incorporates quantitative models and technical analysis, including RSI, in their trading algorithms.  
+2. **Two Sigma** — Actively incorporates [quantitative models](../q/quantitative_models.md) and [technical analysis](../t/technical_analysis.md), including RSI, in their [trading algorithms](../t/trading_algorithms.md).  
    [Two Sigma](https://www.twosigma.com/)
    
-3. **Jane Street Capital** — Utilizes a wide range of technical indicators as part of their algorithmic trading strategies, likely including RSI for various asset classes.  
+3. **Jane Street Capital** — Utilizes a wide range of [technical indicators](../t/technical_indicators.md) as part of their [algorithmic trading](../a/algorithmic_trading.md) strategies, likely including RSI for various asset classes.  
    [Jane Street](https://www.janestreet.com/)
    
 4. **Renaissance Technologies** — Known for their Medallion Fund, they use sophisticated mathematical models, including RSI, to exploit market inefficiencies.  
@@ -105,4 +105,4 @@ Using the 9-period RSI, the trader executes several successful trades, profiting
 
 ## Conclusion
 
-The 9-period RSI is a versatile and widely used technical indicator that offers traders increased sensitivity to price changes, making it suitable for short-term trading strategies such as swing trading and scalping. While it has its limitations, such as the potential for false signals, its benefits make it a valuable tool in a trader’s arsenal. By understanding and applying the 9-period RSI, traders can gain valuable insights into market conditions and enhance their trading decisions.
+The 9-period RSI is a versatile and widely used technical indicator that offers traders increased sensitivity to price changes, making it suitable for [short-term trading](../s/short-term_trading.md) strategies such as [swing trading](../s/swing_trading.md) and scalping. While it has its limitations, such as the potential for false signals, its benefits make it a valuable tool in a trader’s arsenal. By understanding and applying the 9-period RSI, traders can gain valuable insights into market conditions and enhance their trading decisions.

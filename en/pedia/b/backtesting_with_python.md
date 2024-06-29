@@ -1,73 +1,73 @@
 # Backtesting with Python
 
-Backtesting is a critical concept in algorithmic trading. It involves testing a trading strategy on historical data to evaluate its performance. By simulating the strategy on past data, traders can get a sense of how the strategy might perform in real-world trading scenarios without risking actual capital.
+[Backtesting](../b/backtesting.md) is a critical concept in [algorithmic trading](../a/algorithmic_trading.md). It involves testing a trading strategy on historical data to evaluate its performance. By simulating the strategy on past data, traders can get a sense of how the strategy might perform in real-world trading scenarios without risking actual capital.
 
-Python has become one of the go-to languages for backtesting due to its extensive libraries and frameworks tailored for financial analysis and trading automation. Below, we delve into the essentials of backtesting using Python, including key libraries, concepts, and a sample implementation.
+Python has become one of the go-to languages for [backtesting](../b/backtesting.md) due to its extensive libraries and frameworks tailored for financial analysis and trading automation. Below, we delve into the essentials of [backtesting](../b/backtesting.md) using Python, including key libraries, concepts, and a sample implementation.
 
 ## Basic Concepts in Backtesting
 
-Before we dive into Python specifics, it's important to understand some fundamental concepts of backtesting:
+Before we dive into Python specifics, it's important to understand some fundamental concepts of [backtesting](../b/backtesting.md):
 
 - **Historical Data**: Time-series data for the financial instruments you're interested in. This can include price, volume, and other market indicators.
-- **Strategy Logic**: The rules and logic that define your trading strategy. This can be based on technical indicators, statistical models, or other criteria.
-- **Performance Metrics**: Metrics to evaluate the effectiveness of your strategy. Common metrics include Net Profit, Return on Investment (ROI), Sharpe Ratio, Maximum Drawdown, etc.
+- **Strategy Logic**: The rules and logic that define your trading strategy. This can be based on [technical indicators](../t/technical_indicators.md), statistical models, or other criteria.
+- **[Performance Metrics](../p/performance_metrics.md)**: Metrics to evaluate the effectiveness of your strategy. Common metrics include Net Profit, Return on Investment (ROI), [Sharpe Ratio](../s/sharpe_ratio.md), Maximum Drawdown, etc.
 - **Transaction Costs**: Consideration of fees, spreads, and slippage that occur during real trading.
 
 ## Popular Python Libraries for Backtesting
 
-Several Python libraries offer comprehensive tools for backtesting trading strategies. Here are some of the most commonly used ones:
+Several Python libraries offer comprehensive tools for [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md). Here are some of the most commonly used ones:
 
 ### 1. Backtrader
 
-Backtrader is a versatile framework for backtesting and trading. It supports multiple data feeds, indicators, and more, making it a highly robust solution.
+Backtrader is a versatile framework for [backtesting](../b/backtesting.md) and trading. It supports multiple data feeds, indicators, and more, making it a highly robust solution.
 
 - Documentation: [Backtrader](https://www.backtrader.com/docu/)
 
 ### 2. Zipline
 
-Developed by Quantopian, Zipline is an open-source backtesting library that integrates various data sources and financial analytics libraries.
+Developed by Quantopian, Zipline is an open-source [backtesting](../b/backtesting.md) library that integrates various data sources and financial analytics libraries.
 
 - Documentation: [Zipline](https://www.zipline.io/)
 
 ### 3. PyAlgoTrade
 
-PyAlgoTrade is a fully open-source backtesting library designed to work with high-frequency trading strategies.
+PyAlgoTrade is a fully open-source [backtesting](../b/backtesting.md) library designed to work with high-frequency [trading strategies](../t/trading_strategies.md).
 
 - Documentation: [PyAlgoTrade](https://github.com/gbeced/pyalgotrade)
 
 ### 4. BT (Backtesting.py)
 
-BT is a flexible Python backtesting library that focuses on simple strategy evaluation and optimization.
+BT is a flexible Python [backtesting](../b/backtesting.md) library that focuses on simple strategy evaluation and optimization.
 
 - Documentation: [BT](https://pmorissette.github.io/bt/)
 
 ### 5. QuantConnect
 
-QuantConnect provides a comprehensive algorithmic trading platform with extensive backtesting capabilities built-in. It’s not purely a Python library but offers integrations.
+QuantConnect provides a comprehensive [algorithmic trading](../a/algorithmic_trading.md) platform with extensive [backtesting](../b/backtesting.md) capabilities built-in. It’s not purely a Python library but offers integrations.
 
 - Documentation: [QuantConnect](https://www.quantconnect.com/)
 
 ### 6. Forex-Python
 
-A library for monetary indications and exchange rates that can be assimilated into backtesting strategies.
+A library for monetary indications and exchange rates that can be assimilated into [backtesting](../b/backtesting.md) strategies.
 
 - Documentation: [Forex-Python](https://forex-python.readthedocs.io/en/latest/)
 
 ### 7. TA-Lib (Technical Analysis Library)
 
-TA-Lib provides common financial market indicators that can be used in your strategy logic.
+TA-Lib provides common [financial market indicators](../f/financial_market_indicators.md) that can be used in your strategy logic.
 
 - Documentation: [TA-Lib](https://mrjbq7.github.io/ta-lib/)
 
 ## Basic Steps to Implement a Backtesting Strategy
 
-Here's a simplified workflow for backtesting a trading strategy in Python:
+Here's a simplified workflow for [backtesting](../b/backtesting.md) a trading strategy in Python:
 
 1. **Data Acquisition**: Acquire historical data for the asset you want to backtest.
 2. **Data Preprocessing**: Prepare the data by cleaning and transforming it as needed.
 3. **Define the Strategy**: Implement the trading logic.
 4. **Run Backtest**: Apply the strategy to historical data.
-5. **Evaluate Performance**: Analyze the results using performance metrics.
+5. **Evaluate Performance**: Analyze the results using [performance metrics](../p/performance_metrics.md).
 6. **Optimization and Validation**: Tweak and optimize the strategy, then validate it to avoid overfitting.
 
 ### Example: A Simple Moving Average Crossover Strategy
@@ -114,7 +114,7 @@ In this example:
 
 ## Performance Metrics
 
-Analyzing performance metrics is crucial for understanding how well a strategy might perform in live trading. Here are some commonly used metrics:
+Analyzing [performance metrics](../p/performance_metrics.md) is crucial for understanding how well a strategy might perform in live trading. Here are some commonly used metrics:
 
 ### 1. Net Profit
 
@@ -138,12 +138,12 @@ print('ROI: %.2f%%' % roi)
 
 ### 3. Sharpe Ratio
 
-Sharpe Ratio assesses the risk-adjusted return of an investment.
+[Sharpe Ratio](../s/sharpe_ratio.md) assesses the [risk-adjusted return](../r/risk-adjusted_return.md) of an investment.
 
 ```python
 returns = [original-value - new-value for original-value, new-value in zip(original_values, new_values)]
 sharpe_ratio = np.mean(returns) / np.std(returns) * np.sqrt(252) # assuming daily returns
-print('Sharpe Ratio: %.2f' % sharpe_ratio)
+print('[Sharpe Ratio](../s/sharpe_ratio.md): %.2f' % sharpe_ratio)
 ```
 
 ### 4. Maximum Drawdown
@@ -163,7 +163,7 @@ print('Max Drawdown: %.2f%%' % (max_dd * 100))
 
 ## Common Pitfalls in Backtesting
 
-While backtesting can provide valuable insights, there are common pitfalls you should be aware of:
+While [backtesting](../b/backtesting.md) can provide valuable insights, there are common pitfalls you should be aware of:
 
 ### 1. Look-Ahead Bias
 
@@ -175,7 +175,7 @@ Overfitting happens when a strategy is too closely tailored to historical data, 
 
 ### 3. Survivorship Bias
 
-Survivorship bias happens when historical data only considers assets that have survived until the present, ignoring those that have failed.
+[Survivorship bias](../s/survivorship_bias.md) happens when historical data only considers assets that have survived until the present, ignoring those that have failed.
 
 ### 4. Ignoring Slippage and Transaction Costs
 
@@ -189,14 +189,14 @@ Walk-forward analysis involves partitioning your data into training and testing 
 
 ### Reinforcement Learning
 
-Reinforcement learning allows strategies to adapt dynamically by learning from their performance. Libraries like TensorFlow and PyTorch can be integrated with backtesting frameworks to develop AI-driven trading algorithms.
+Reinforcement learning allows strategies to adapt dynamically by learning from their performance. Libraries like TensorFlow and PyTorch can be integrated with [backtesting](../b/backtesting.md) frameworks to develop AI-driven [trading algorithms](../t/trading_algorithms.md).
 
 ### Genetic Algorithms
 
-Genetic algorithms can help optimize trading strategies by simulating the process of natural selection, iterating through potential solutions to find the most effective strategy parameters.
+Genetic algorithms can help optimize [trading strategies](../t/trading_strategies.md) by simulating the process of natural selection, iterating through potential solutions to find the most effective strategy parameters.
 
 ## Conclusion
 
-Backtesting is an indispensable tool in the arsenal of any algorithmic trader. Python offers a variety of libraries and tools that simplify the process of developing, testing, and optimizing trading strategies. While backtesting provides valuable insights, it is crucial to be aware of common pitfalls and limitations to make the most of this practice.
+[Backtesting](../b/backtesting.md) is an indispensable tool in the arsenal of any algorithmic trader. Python offers a variety of libraries and tools that simplify the process of developing, testing, and optimizing [trading strategies](../t/trading_strategies.md). While [backtesting](../b/backtesting.md) provides valuable insights, it is crucial to be aware of common pitfalls and limitations to make the most of this practice.
 
-To explore further, consider diving into the documentation of libraries mentioned above and experiment with different strategies, data sources, and performance metrics.
+To explore further, consider diving into the documentation of libraries mentioned above and experiment with different strategies, data sources, and [performance metrics](../p/performance_metrics.md).

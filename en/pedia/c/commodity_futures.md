@@ -58,10 +58,10 @@ Events such as droughts, natural disasters, and political instability in key pro
 ## Strategies in Commodity Futures Trading
 
 ### Spread Trading
-Involves taking positions in two different futures contracts to profit from changes in the price spread between them. Common types include calendar spreads and inter-commodity spreads.
+Involves taking positions in two different [futures contracts](../f/futures_contracts.md) to profit from changes in the price spread between them. Common types include calendar spreads and inter-commodity spreads.
 
 ### Trend Following
-Traders use technical indicators to identify and follow existing price trends. This strategy assumes that prices will continue in their current direction.
+Traders use [technical indicators](../t/technical_indicators.md) to identify and follow existing price trends. This strategy assumes that prices will continue in their current direction.
 
 ### Mean Reversion
 This strategy is based on the idea that commodity prices will revert to their historical average over time. Traders look for prices that have deviated significantly from this average.
@@ -75,22 +75,22 @@ Involves exploiting price differentials between markets or related instruments. 
 ## Risks in Commodity Futures
 
 ### Price Volatility
-Commodity prices can be extremely volatile, influenced by numerous factors including weather, geopolitical events, and changes in supply and demand.
+Commodity prices can be extremely volatile, influenced by numerous factors including weather, [geopolitical events](../g/geopolitical_events.md), and changes in supply and demand.
 
 ### Leverage
 While leverage can amplify gains, it also magnifies losses. Traders can lose more than their initial margin in highly leveraged positions.
 
 ### Liquidity Risk
-Some commodity futures contracts may have low trading volume, making it difficult to enter or exit positions without significantly impacting the price.
+Some commodity [futures contracts](../f/futures_contracts.md) may have low trading volume, making it difficult to enter or exit positions without significantly impacting the price.
 
 ### Counterparty Risk
-Although futures exchanges mitigate counterparty risk through margin requirements and daily settlements, there is still a residual risk if a party defaults.
+Although futures exchanges mitigate [counterparty risk](../c/counterparty_risk.md) through margin requirements and daily settlements, there is still a residual risk if a party defaults.
 
 ## Regulatory Environment
 Commodity futures trading is heavily regulated to ensure market integrity and protect participants from fraud and manipulation. Key regulatory bodies include:
 
 ### Commodity Futures Trading Commission (CFTC)
-The CFTC (https://www.cftc.gov/) oversees the U.S. derivatives markets, including futures, to ensure they operate in a fair, transparent, and sound manner.
+The CFTC (https://www.cftc.gov/) oversees the U.S. [derivatives](../d/derivatives.md) markets, including futures, to ensure they operate in a fair, transparent, and sound manner.
 
 ### National Futures Association (NFA)
 The NFA (https://www.nfa.futures.org/) is a self-regulatory organization for the U.S. futures industry, providing regulatory programs and services to ensure market integrity.
@@ -99,4 +99,4 @@ The NFA (https://www.nfa.futures.org/) is a self-regulatory organization for the
 ESMA (https://www.esma.europa.eu/) regulates futures and options markets in the European Union, ensuring transparency and protecting investors.
 
 ## Conclusion
-Commodity futures play a crucial role in global financial markets, offering a mechanism for price discovery, risk management, and speculative opportunities. Understanding the intricate dynamics of these instruments, including the underlying commodities, contract specifications, trading strategies, and regulatory landscape, is essential for anyone participating in these markets.
+Commodity futures play a crucial role in global financial markets, offering a mechanism for price discovery, [risk management](../r/risk_management.md), and speculative opportunities. Understanding the intricate dynamics of these instruments, including the underlying commodities, contract specifications, [trading strategies](../t/trading_strategies.md), and regulatory landscape, is essential for anyone participating in these markets.

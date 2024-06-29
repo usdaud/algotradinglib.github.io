@@ -1,6 +1,6 @@
 # 3-Day Rule
 
-In the world of trading and investment, various strategies and rules are followed by traders and investors to maximize their profits while minimizing their risks. One of these is the "3-Day Rule," a trading guideline that can influence decision-making. This rule revolves around the adjustment period following significant news or events affecting a stock's price. Below, an in-depth exploration of the 3-Day Rule is presented, covering its fundamentals, applications, advantages, disadvantages, and comparisons with other trading strategies. 
+In the world of trading and investment, various strategies and rules are followed by traders and investors to maximize their profits while minimizing their risks. One of these is the "3-Day Rule," a trading guideline that can influence decision-making. This rule revolves around the adjustment period following significant news or events affecting a stock's price. Below, an in-depth exploration of the 3-Day Rule is presented, covering its fundamentals, applications, advantages, disadvantages, and comparisons with other [trading strategies](../t/trading_strategies.md). 
 
 ## Fundamentals of the 3-Day Rule
 
@@ -9,7 +9,7 @@ The 3-Day Rule is a trading guideline suggesting that one should wait three days
 Key principles of the 3-Day Rule include:
 - **Cooling Off Period**: Waiting three days allows market participants to thoroughly digest the news and reassess their positions, leading to a stabilization of the stock price.
 - **Emotional Detachment**: It helps traders avoid making impulsive decisions driven by short-term market volatility and noise.
-- **Pattern Recognition**: Monitoring the price behavior over these three days can provide insight into potential entry or exit points.
+- **[Pattern Recognition](../p/pattern_recognition.md)**: Monitoring the price behavior over these three days can provide insight into potential entry or exit points.
 
 ## Application of the 3-Day Rule
 
@@ -40,7 +40,7 @@ While the 3-Day Rule can be beneficial, it also has certain limitations:
 
 ## 3-Day Rule in Comparison to Other Trading Strategies
 
-To better understand the 3-Day Rule, it's useful to compare it with other trading strategies. Here are some commonly used trading strategies and how they differ from or complement the 3-Day Rule:
+To better understand the 3-Day Rule, it's useful to compare it with other [trading strategies](../t/trading_strategies.md). Here are some commonly used [trading strategies](../t/trading_strategies.md) and how they differ from or complement the 3-Day Rule:
 
 ### 1. **Buy the Dip**
 
@@ -50,21 +50,21 @@ To better understand the 3-Day Rule, it's useful to compare it with other tradin
 
 ### 2. **Momentum Trading**
 
-**Momentum Trading** involves buying stocks that are rising and selling stocks that are falling, capturing short-term price movements. This strategy focuses on trends and quick responses rather than waiting periods.
+**[Momentum Trading](../m/momentum_trading.md)** involves buying stocks that are rising and selling stocks that are falling, capturing short-term price movements. This strategy focuses on trends and quick responses rather than waiting periods.
 
-- **Comparison**: `Momentum Trading` may require more active and frequent trading, often without the advantage of a cooling-off period offered by the 3-Day Rule.
+- **Comparison**: `[Momentum Trading](../m/momentum_trading.md)` may require more active and frequent trading, often without the advantage of a cooling-off period offered by the 3-Day Rule.
 
 ### 3. **Event-Driven Trading**
 
-**Event-Driven Trading** focuses on capturing price movements resulting from significant events like mergers, acquisitions, or earnings announcements. While similar in identifying catalysts, it often involves immediate trading actions based on event expectations rather than waiting.
+**[Event-Driven Trading](../e/event-driven_trading.md)** focuses on capturing price movements resulting from significant events like mergers, acquisitions, or [earnings announcements](../e/earnings_announcements.md). While similar in identifying catalysts, it often involves immediate trading actions based on event expectations rather than waiting.
 
-- **Comparison**: Both strategies identify key events, but `Event-Driven Trading` usually involves more prompt trading decisions than the 3-Day Rule's delayed approach.
+- **Comparison**: Both strategies identify key events, but `[Event-Driven Trading](../e/event-driven_trading.md)` usually involves more prompt trading decisions than the 3-Day Rule's delayed approach.
 
 ### 4. **Technical Analysis**
 
-**Technical Analysis** uses historical price and volume data to predict future price movements. Traders using this strategy rely on chart patterns, indicators, and other tools to time their trades.
+**[Technical Analysis](../t/technical_analysis.md)** uses historical price and volume data to predict future price movements. Traders using this strategy rely on [chart patterns](../c/chart_patterns.md), indicators, and other tools to time their trades.
 
-- **Comparison**: Technical Analysis can be used to enhance the 3-Day Rule by providing additional data points for decision-making after the waiting period.
+- **Comparison**: [Technical Analysis](../t/technical_analysis.md) can be used to enhance the 3-Day Rule by providing additional data points for decision-making after the waiting period.
 
 ## Case Studies and Examples
 
@@ -110,4 +110,4 @@ Provides robust charting tools and community insights, enabling traders to visua
 
 ## Conclusion
 
-The 3-Day Rule serves as a strategic guideline in the trading world, emphasizing the importance of patience and informed decision-making following significant market-moving events. While it may not be universally applicable in all scenarios, its core principles of emotional detachment, stabilization observation, and pattern recognition can provide valuable insights for traders aiming to navigate market volatility effectively. By combining this rule with other strategies and leveraging advanced tools and platforms, traders can enhance their ability to make prudent, data-driven decisions in their trading endeavors.
+The 3-Day Rule serves as a strategic guideline in the trading world, emphasizing the importance of patience and informed decision-making following significant market-moving events. While it may not be universally applicable in all scenarios, its core principles of emotional detachment, stabilization observation, and [pattern recognition](../p/pattern_recognition.md) can provide valuable insights for traders aiming to navigate market volatility effectively. By combining this rule with other strategies and leveraging advanced tools and platforms, traders can enhance their ability to make prudent, data-driven decisions in their trading endeavors.

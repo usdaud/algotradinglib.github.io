@@ -1,6 +1,6 @@
 # Backpropagation in Neural Networks
 
-Backpropagation, short for "backward propagation of errors," is a fundamental algorithm used for training artificial neural networks. It is a supervised learning technique used primarily for minimizing the error in predictions by adjusting the weights of neurons based on the error at the output. This method is essential to the training process of deep learning models, particularly multi-layered neural networks, such as deep neural networks.
+Backpropagation, short for "backward propagation of errors," is a fundamental algorithm used for training [artificial neural networks](../a/artificial_neural_networks.md). It is a supervised learning technique used primarily for minimizing the error in predictions by adjusting the weights of neurons based on the error at the output. This method is essential to the training process of deep learning models, particularly multi-layered neural networks, such as deep neural networks.
 
 ## Components of Neural Networks
 
@@ -31,9 +31,9 @@ In forward propagation, the initial step entails passing the input data through 
 
 ### Loss Function
 
-To quantify the network's performance, a loss function (or cost function) measures the difference between the actual output and the target output. Common loss functions include Mean Squared Error (MSE) and Cross-Entropy Loss.
+To quantify the network's performance, a loss function (or cost function) measures the difference between the actual output and the target output. Common loss functions include [Mean Squared Error](../m/mean_squared_error.md) (MSE) and Cross-Entropy Loss.
 
-**Example**: Mean Squared Error (MSE):
+**Example**: [Mean Squared Error](../m/mean_squared_error.md) (MSE):
 \[
 L = \frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y_i})^2
 \]
@@ -155,7 +155,7 @@ print("Updated Loss:", updated_loss)
 Gradient Descent is the most straightforward optimization algorithm used to minimize the loss function by iteratively adjusting weights. There are several variations:
 
 1. **Batch Gradient Descent**: Uses the entire dataset to compute the gradient and update weights.
-2. **Stochastic Gradient Descent (SGD)**: Uses a single training example to compute the gradient and update weights.
+2. **[Stochastic Gradient Descent](../s/stochastic_gradient_descent.md) (SGD)**: Uses a single training example to compute the gradient and update weights.
 3. **Mini-Batch Gradient Descent**: Divides the dataset into small batches and updates weights using one batch at a time.
 
 ### Advanced Optimization Algorithms
@@ -168,9 +168,9 @@ Gradient Descent is the most straightforward optimization algorithm used to mini
 
 Backpropagation, and by extension neural networks, have found applications across various domains:
 
-- **Finance**: For algorithmic trading, credit scoring, and fraud detection. Companies like [Two Sigma](https://www.twosigma.com/) and [Jane Street](https://www.janestreet.com/) leverage deep learning in their trading strategies.
+- **Finance**: For [algorithmic trading](../a/algorithmic_trading.md), credit scoring, and fraud detection. Companies like [Two Sigma](https://www.twosigma.com/) and [Jane Street](https://www.janestreet.com/) leverage deep learning in their [trading strategies](../t/trading_strategies.md).
 - **Healthcare**: For medical image analysis, genomics, and personalized treatment plans.
-- **Natural Language Processing (NLP)**: For machine translation, sentiment analysis, and chatbots.
+- **Natural Language Processing (NLP)**: For machine translation, [sentiment analysis](../s/sentiment_analysis.md), and chatbots.
 - **Computer Vision**: For image and video recognition, self-driving cars, and facial recognition systems. Companies like [DeepMind](https://deepmind.com/) (a subsidiary of Alphabet) and [OpenAI](https://openai.com/) are at the forefront of AI research in these fields.
 - **Gaming**: For AI opponents, game strategy development, and real-time decision-making.
 

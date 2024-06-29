@@ -1,6 +1,6 @@
 # Causal Inference in Algorithmic Trading
 
-Causal inference is the process of determining the cause-and-effect relationships between variables. In the context of algorithmic trading, causal inference involves analyzing financial data to identify the factors that cause movements in asset prices. This understanding can lead to the development of trading strategies that exploit these causal relationships.
+Causal inference is the process of determining the cause-and-effect relationships between variables. In the context of [algorithmic trading](../a/algorithmic_trading.md), causal inference involves analyzing financial data to identify the factors that cause movements in asset prices. This understanding can lead to the development of [trading strategies](../t/trading_strategies.md) that exploit these causal relationships.
 
 ## Introduction to Causal Inference
 
@@ -8,13 +8,13 @@ Causal inference aims to deduce the effect that varying one variable (the cause)
 
 ## Importance in Algorithmic Trading
 
-In algorithmic trading, distinguishing between correlation and causation is crucial. Trading strategies based solely on correlations can be flawed and lead to financial losses. However, strategies based on causality are more robust because they reflect genuine underlying economic relationships.
+In [algorithmic trading](../a/algorithmic_trading.md), distinguishing between correlation and causation is crucial. [Trading strategies](../t/trading_strategies.md) based solely on correlations can be flawed and lead to financial losses. However, strategies based on causality are more robust because they reflect genuine underlying economic relationships.
 
 ### Benefits of Causal Inference in Trading
 
 1. **Increased Strategy Robustness**: Causal relationships generally remain more stable over time compared to mere statistical correlations. Understanding the cause-and-effect helps in building strategies that are adaptable to changing market conditions.
-2. **Improved Risk Management**: By understanding the causal dynamics of the market, traders can better anticipate potential market movements and manage risk more effectively.
-3. **Regulatory Compliance**: Many financial regulations require that trading strategies be transparent and understandable. Causal models are naturally more interpretable, which can assist in meeting these requirements.
+2. **Improved [Risk Management](../r/risk_management.md)**: By understanding the causal dynamics of the market, traders can better anticipate potential market movements and manage risk more effectively.
+3. **Regulatory Compliance**: Many financial regulations require that [trading strategies](../t/trading_strategies.md) be transparent and understandable. Causal models are naturally more interpretable, which can assist in meeting these requirements.
 4. **Predictive Power**: Causal models often have better predictive power because they are based on the true underlying mechanisms of the market.
 
 ## Methods of Causal Inference
@@ -37,7 +37,7 @@ RDD exploits a threshold-based assignment of treatment to identify causal effect
 
 ### 5. Structural Equation Modeling (SEM)
 
-SEM involves building a model that includes multiple equations representing various causal relationships between variables. This approach can handle complex interdependencies and can be particularly useful in algorithmic trading where multiple factors often interact.
+SEM involves building a model that includes multiple equations representing various causal relationships between variables. This approach can handle complex interdependencies and can be particularly useful in [algorithmic trading](../a/algorithmic_trading.md) where multiple factors often interact.
 
 ### 6. Causal Discovery Algorithms
 
@@ -47,7 +47,7 @@ Algorithms like PC (Peter-Clark) and FCI (Fast Causal Inference) use statistical
 
 ### High-Frequency Trading (HFT)
 
-HFT strategies frequently use causal inference to identify the impact of market microstructure elements, such as order flow and trade execution, on price movements. Understanding these causal relationships allows HFT firms to optimize their trading algorithms for better execution and minimized slippage.
+HFT strategies frequently use causal inference to identify the impact of [market microstructure](../m/market_microstructure.md) elements, such as order flow and trade execution, on price movements. Understanding these causal relationships allows HFT firms to optimize their [trading algorithms](../t/trading_algorithms.md) for better execution and minimized slippage.
 
 ### Event-Driven Trading
 
@@ -55,7 +55,7 @@ Event-driven strategies exploit market inefficiencies that arise from specific e
 
 ### Risk Arbitrage
 
-Risk arbitrage involves betting on the successful completion of mergers and acquisitions. Causal inference helps in understanding the various factors that influence the likelihood of deal completion, thereby aiding in the construction of more effective arbitrage strategies.
+Risk [arbitrage](../a/arbitrage.md) involves betting on the successful completion of mergers and acquisitions. Causal inference helps in understanding the various factors that influence the likelihood of deal completion, thereby aiding in the construction of more effective [arbitrage](../a/arbitrage.md) strategies.
 
 ### Market Making
 
@@ -85,28 +85,28 @@ Confounding variables can skew the results of causal inference. In the context o
 
 ## Companies Specializing in Causal Inference for Trading
 
-Several companies are at the forefront of integrating causal inference techniques into algorithmic trading:
+Several companies are at the forefront of integrating causal inference techniques into [algorithmic trading](../a/algorithmic_trading.md):
 
 ### AQR Capital Management
 
-AQR (Applied Quantitative Research) is known for its rigorous research-oriented approach. They leverage causal inference methods to develop systematic trading strategies. For more information, visit [AQR Capital Management](https://www.aqr.com).
+AQR (Applied [Quantitative Research](../q/quantitative_research.md)) is known for its rigorous research-oriented approach. They leverage causal inference methods to develop [systematic trading](../s/systematic_trading.md) strategies. For more information, visit [AQR Capital Management](https://www.aqr.com).
 
 ### Renaissance Technologies
 
-Renaissance Technologies, one of the most successful hedge funds, employs complex statistical models, including causal inference techniques, to drive its trading strategies. Visit their website at [Renaissance Technologies](https://www.rentec.com).
+Renaissance Technologies, one of the most successful hedge funds, employs complex statistical models, including causal inference techniques, to drive its [trading strategies](../t/trading_strategies.md). Visit their website at [Renaissance Technologies](https://www.rentec.com).
 
 ### Two Sigma
 
-Two Sigma integrates machine learning and causal inference to build robust trading algorithms. Their emphasis is on the scientific method to uncover hidden patterns and causal relationships in financial markets. More information can be found at [Two Sigma](https://www.twosigma.com).
+Two Sigma integrates machine learning and causal inference to build robust [trading algorithms](../t/trading_algorithms.md). Their emphasis is on the scientific method to uncover hidden patterns and causal relationships in financial markets. More information can be found at [Two Sigma](https://www.twosigma.com).
 
 ### BlackRock
 
-BlackRock's Aladdin platform incorporates advanced analytics, including causal inference, to support portfolio management and trading. For more information, visit [BlackRock](https://www.blackrock.com).
+BlackRock's Aladdin platform incorporates advanced analytics, including causal inference, to support [portfolio management](../p/portfolio_management.md) and trading. For more information, visit [BlackRock](https://www.blackrock.com).
 
 ### Goldman Sachs
 
-Goldman Sachs employs causal inference techniques to enhance its algorithmic trading. They use these models for various applications like risk management and optimal execution. Learn more at [Goldman Sachs](https://www.goldmansachs.com).
+Goldman Sachs employs causal inference techniques to enhance its [algorithmic trading](../a/algorithmic_trading.md). They use these models for various applications like [risk management](../r/risk_management.md) and optimal execution. Learn more at [Goldman Sachs](https://www.goldmansachs.com).
 
 ## Conclusion
 
-Causal inference offers a powerful framework for understanding the underlying mechanisms driving financial markets. By moving beyond correlation and focusing on causality, algorithmic traders can build more robust, transparent, and effective trading strategies. However, the complexity and challenges inherent in applying causal methods necessitate a careful, well-informed approach. As the field continues to evolve, we can expect more sophisticated tools and methodologies to emerge, further enhancing the capabilities of algorithmic trading systems.
+Causal inference offers a powerful framework for understanding the underlying mechanisms driving financial markets. By moving beyond correlation and focusing on causality, algorithmic traders can build more robust, transparent, and effective [trading strategies](../t/trading_strategies.md). However, the complexity and challenges inherent in applying causal methods necessitate a careful, well-informed approach. As the field continues to evolve, we can expect more sophisticated tools and methodologies to emerge, further enhancing the capabilities of [algorithmic trading](../a/algorithmic_trading.md) systems.

@@ -6,7 +6,7 @@ Relative Strength Index (RSI) is a momentum oscillator that measures the speed a
 
 ## What is 10-Period RSI?
 
-The 10-Period RSI is a variant of the standard RSI with a focus on a 10-period cycle. This makes it more sensitive to price changes than the more traditional 14-period RSI, providing more immediate signals for traders who seek short-term trading opportunities. Mathematically, the RSI value is calculated based on average gains and losses over the defined periods, with the 10-period RSI utilizing the last 10 periods to compute these averages.
+The 10-Period RSI is a variant of the standard RSI with a focus on a 10-period cycle. This makes it more sensitive to price changes than the more traditional 14-period RSI, providing more immediate signals for traders who seek [short-term trading](../s/short-term_trading.md) opportunities. Mathematically, the RSI value is calculated based on average gains and losses over the defined periods, with the 10-period RSI utilizing the last 10 periods to compute these averages.
 
 ### Formula for 10-Period RSI
 
@@ -33,14 +33,14 @@ Clearly, RSIs involving very small denominators will have amplified results, hen
 
 ### Advantages
 
-The use of a 10-period RSI in algorithmic trading incorporates several benefits:
+The use of a 10-period RSI in [algorithmic trading](../a/algorithmic_trading.md) incorporates several benefits:
 - **Sensitivity**: The 10-period RSI is more responsive and can capture shifts in momentum more promptly than longer period RsIs.
-- **Short-term Trading**: Ideal for day trading and short-term trading strategies, it can help traders take advantage of small price swings.
+- **[Short-term Trading](../s/short-term_trading.md)**: Ideal for [day trading](../d/day_trading.md) and [short-term trading](../s/short-term_trading.md) strategies, it can help traders take advantage of small price swings.
 - **Overbought/Oversold Signals**: It gives clear overbought/oversold conditions, facilitating mean-reversion strategies.
 
 ### Implementing in Algorithms
 
-Algorithmic trading utilizes various programming languages and tools to automate trading strategies based on RSI indicators. Common platforms and languages include:
+[Algorithmic trading](../a/algorithmic_trading.md) utilizes various programming languages and tools to automate [trading strategies](../t/trading_strategies.md) based on RSI indicators. Common platforms and languages include:
 - **Python**: Libraries such as TA-Lib and pandas provide tools to calculate RSI and backtest strategies.
 - **C++ and JAVA**: These offer low latency solutions ideal for high-frequency trading environments.
 - **Trading Platforms**: Platforms like MetaTrader, QuantConnect, and TradeStation allow implementing custom RSI algorithms in their scripting environments.
@@ -72,13 +72,13 @@ Machine learning can enhance RSI-based strategies by:
 - **Predictive Modelling**: Using historical RSI values and price actions to predict future price movements.
 - **Classification**: Identifying market conditions suitable for trading, e.g., overbought/oversold status.
 
-Machine learning frameworks like TensorFlow, PyTorch, and Scikit-learn can be used to develop sophisticated models enhancing the decision-making process s of algorithmic trading systems.
+Machine learning frameworks like TensorFlow, PyTorch, and Scikit-learn can be used to develop sophisticated models enhancing the decision-making process s of [algorithmic trading](../a/algorithmic_trading.md) systems.
 
 ## Case Studies
 
 ### High-Frequency Trading Firms
 
-Firms like Virtu Financial and Citadel Securities likely incorporate RSI in their broad suite of technical indicators for rapid decision-making:
+Firms like Virtu Financial and Citadel Securities likely incorporate RSI in their broad suite of [technical indicators](../t/technical_indicators.md) for rapid decision-making:
 - Virtu Financial: [Virtu Financial](https://www.virtu.com/)
 - Citadel Securities: [Citadel Securities](https://www.citadelsecurities.com/)
 
@@ -88,4 +88,4 @@ Several academic papers and articles have explored the optimization of RSI and t
 
 ## Conclusion
 
-The 10-period RSI is a powerful tool for traders seeking to capitalize on short-term price movements. Its higher sensitivity compared to longer-period RSIs makes it particularly suitable for active traders and algorithmic trading applications. Coupled with modern programming and machine learning technologies, it offers a robust framework for developing sophisticated trading strategies.
+The 10-period RSI is a powerful tool for traders seeking to capitalize on short-term price movements. Its higher sensitivity compared to longer-period RSIs makes it particularly suitable for active traders and [algorithmic trading](../a/algorithmic_trading.md) applications. Coupled with modern programming and machine learning technologies, it offers a robust framework for developing sophisticated [trading strategies](../t/trading_strategies.md).

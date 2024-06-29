@@ -6,15 +6,15 @@ The Binomial Option Pricing Model is a powerful and versatile tool used for pric
 
 ### Options
 
-Options are financial derivatives that give the holder the right, but not the obligation, to buy or sell an asset at a predetermined price before or at a certain date. The two main types of options are:
+Options are financial [derivatives](../d/derivatives.md) that give the holder the right, but not the obligation, to buy or sell an asset at a predetermined price before or at a certain date. The two main types of options are:
 
 - **Call Options:** Provide the right to buy the underlying asset.
-- **Put Options:** Provide the right to sell the underlying asset.
+- **[Put Options](../p/put_options.md):** Provide the right to sell the underlying asset.
 
 ### American vs. European Options
 
 - **American Options:** Can be exercised at any time before the expiration date.
-- **European Options:** Can only be exercised at the expiration date.
+- **[European Options](../e/european_options.md):** Can only be exercised at the expiration date.
 
 ### Binomial Tree
 
@@ -160,13 +160,13 @@ After discounting through all time steps and accounting for possible early exerc
 
 The Binomial Option Pricing Model is widely used within financial institutions for pricing and managing option-related products. Its flexibility and adaptability make it a vital tool in the following areas:
 
-1. **Risk Management:** Banks and financial institutions use the model to hedge exposure to options and other derivatives.
+1. **[Risk Management](../r/risk_management.md):** Banks and financial institutions use the model to hedge exposure to options and other [derivatives](../d/derivatives.md).
 2. **Employee Stock Options:** Companies use the model to value employee stock options for financial reporting purposes.
 3. **Corporate Finance:** Used to evaluate the embedded options in corporate debt and other securities.
 
 ### Example Companies Utilizing Binomial Model
 
-- **Goldman Sachs:** [Goldman Sachs](https://www.goldmansachs.com/) employs advanced financial models, including binomial models, for asset pricing and risk management.
-- **Morgan Stanley:** [Morgan Stanley](https://www.morganstanley.com/) uses the Binomial Option Pricing Model for assessing option pricing and financial derivatives.
+- **Goldman Sachs:** [Goldman Sachs](https://www.goldmansachs.com/) employs advanced financial models, including binomial models, for asset pricing and [risk management](../r/risk_management.md).
+- **Morgan Stanley:** [Morgan Stanley](https://www.morganstanley.com/) uses the Binomial Option Pricing Model for assessing option pricing and financial [derivatives](../d/derivatives.md).
 
-The Binomial Option Pricing Model remains a cornerstone of quantitative finance, offering a robust method for option valuation that balances computational feasibility with pricing accuracy.
+The Binomial Option Pricing Model remains a cornerstone of [quantitative finance](../q/quantitative_finance.md), offering a robust method for option valuation that balances computational feasibility with pricing accuracy.

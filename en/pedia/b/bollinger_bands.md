@@ -45,7 +45,7 @@ The width of the Bollinger Bands themselves indicates market volatility:
 ### Advantages
 1. **Flexibility**: Bollinger Bands can be used across various financial instruments including stocks, bonds, forex, and commodities.
 2. **Visibility of Volatility**: They offer clear visibility of market volatility.
-3. **Customizable**: Traders can customize the number of periods and the multiplier for standard deviation to fine-tune the bands according to different trading strategies.
+3. **Customizable**: Traders can customize the number of periods and the multiplier for standard deviation to fine-tune the bands according to different [trading strategies](../t/trading_strategies.md).
 
 ### Limitations
 1. **Lagging Indicator**: Like many indicators based on moving averages, Bollinger Bands are lagging and signals may be late.
@@ -56,9 +56,9 @@ The width of the Bollinger Bands themselves indicates market volatility:
 
 ### Bollinger Squeeze
 
-The Bollinger Squeeze is a trading strategy using the Bollinger Bands and the Keltner Channels. It is based on the idea that periods of low volatility are often followed by periods of high volatility. The strategy involves:
-1. **Identifying Squeeze**: When Bollinger Bands move inside the Keltner Channels, it indicates a period of low volatility (squeeze).
-2. **Trading the Breakout**: Trade in the direction of the breakout when the Bollinger Bands move outside the Keltner Channels.
+The Bollinger Squeeze is a trading strategy using the Bollinger Bands and the [Keltner Channels](../k/keltner_channels.md). It is based on the idea that periods of low volatility are often followed by periods of high volatility. The strategy involves:
+1. **Identifying Squeeze**: When Bollinger Bands move inside the [Keltner Channels](../k/keltner_channels.md), it indicates a period of low volatility (squeeze).
+2. **Trading the Breakout**: Trade in the direction of the breakout when the Bollinger Bands move outside the [Keltner Channels](../k/keltner_channels.md).
 
 ### Bollinger Band Breakout
 
@@ -68,10 +68,10 @@ This strategy can involve entering long or short positions based on the price mo
 
 ## Combining Bollinger Bands with Other Indicators
 
-To mitigate false signals and improve the effectiveness of Bollinger Bands, they are often used in conjunction with other technical indicators such as:
+To mitigate false signals and improve the effectiveness of Bollinger Bands, they are often used in conjunction with other [technical indicators](../t/technical_indicators.md) such as:
 1. **Relative Strength Index (RSI)**: To confirm overbought and oversold conditions.
 2. **Moving Average Convergence Divergence (MACD)**: To identify trend changes.
-3. **Volume Indicators**: To confirm the strength of price moves.
+3. **[Volume Indicators](../v/volume_indicators.md)**: To confirm the strength of price moves.
 
 ## Examples and Use Cases
 
@@ -86,8 +86,8 @@ In commodity trading, Bollinger Bands can help traders identify extreme price mo
 
 ## Conclusion
 
-Bollinger Bands serve as an essential tool in a trader's arsenal, providing critical insights into market volatility and potential price movements. They help traders make more informed decisions by highlighting periods of high and low volatility, and potential overbought or oversold conditions. However, while they offer valuable signals, it's crucial to combine them with other indicators and trading strategies to enhance accuracy and avoid false signals.
+Bollinger Bands serve as an essential tool in a trader's arsenal, providing critical insights into market volatility and potential price movements. They help traders make more informed decisions by highlighting periods of high and low volatility, and potential overbought or oversold conditions. However, while they offer valuable signals, it's crucial to combine them with other indicators and [trading strategies](../t/trading_strategies.md) to enhance accuracy and avoid false signals.
 
-Traders can adapt the parameters of Bollinger Bands to fit different assets and market conditions, making them a versatile instrument in various financial markets. Whether used alone or in conjunction with other technical tools, Bollinger Bands remain a staple in technical analysis, benefiting both novice and experienced traders.
+Traders can adapt the parameters of Bollinger Bands to fit different assets and market conditions, making them a versatile instrument in various financial markets. Whether used alone or in conjunction with other technical tools, Bollinger Bands remain a staple in [technical analysis](../t/technical_analysis.md), benefiting both novice and experienced traders.
 
-For more detailed information about Bollinger Bands, one can visit [Bollinger's official website](https://www.bollingerbands.com).
+For more detailed information about Bollinger Bands, one can visit [Bollinger's official website](https://www.bollingerbands.com).

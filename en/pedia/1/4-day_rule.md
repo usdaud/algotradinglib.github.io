@@ -17,26 +17,26 @@ The 4-Day Rule specifically refers to monitoring the number of day trades within
 
 ## Regulatory Background
 
-The PDT rule was implemented as part of broader efforts to ensure that investors engaged in frequent trading possess sufficient capital to bear the corresponding risks. While this rule aims to protect retail investors from margin calls and other financial difficulties, it also affects individual trading strategies and algorithms used in trading.
+The PDT rule was implemented as part of broader efforts to ensure that investors engaged in frequent trading possess sufficient capital to bear the corresponding risks. While this rule aims to protect retail investors from margin calls and other financial difficulties, it also affects individual [trading strategies](../t/trading_strategies.md) and algorithms used in trading.
 
 ## Implications for Algorithmic Trading
 
 ### Capital Requirements
 
-For algorithmic traders, the 4-Day Rule necessitates a higher initial capital outlay. When deploying algorithms designed for day trading, traders must ensure their accounts meet the $25,000 minimum equity requirement to comply with the PDT rule. Failure to meet these requirements can result in margin calls or restrictions from day trading.
+For algorithmic traders, the 4-Day Rule necessitates a higher initial capital outlay. When deploying algorithms designed for [day trading](../d/day_trading.md), traders must ensure their accounts meet the $25,000 minimum equity requirement to comply with the PDT rule. Failure to meet these requirements can result in margin calls or restrictions from [day trading](../d/day_trading.md).
 
 ### Strategy Adjustments
 
 Algorithmic strategies must consider the restrictions imposed by the Pattern Day Trader classification. Some common adjustments include:
 - **Limiting the number of day trades**: By programming algorithms to restrict day trades to three or fewer within five days, traders can avoid PDT classification.
-- **Utilizing larger accounts**: Ensuring the trading account meets or exceeds the $25,000 requirement allows greater flexibility in day trading.
-- **Switching to swing trading**: Adjusting algorithms to focus on trades held for more than one day, thereby avoiding rapid buy-sell actions within the same trading period.
+- **Utilizing larger accounts**: Ensuring the trading account meets or exceeds the $25,000 requirement allows greater flexibility in [day trading](../d/day_trading.md).
+- **Switching to [swing trading](../s/swing_trading.md)**: Adjusting algorithms to focus on trades held for more than one day, thereby avoiding rapid buy-sell actions within the same trading period.
 
 ## Enforcement and Consequences
 
-FINRA enforces the 4-Day Rule rigorously. Brokerages must track and report day trading activities to ensure compliance. The consequences for violating this rule can include:
+FINRA enforces the 4-Day Rule rigorously. Brokerages must track and report [day trading](../d/day_trading.md) activities to ensure compliance. The consequences for violating this rule can include:
 - **Restrictions on trading activity**: Accounts not meeting the minimum equity requirement may be limited to closing transactions only.
-- **Suspension of account**: Repeated violations can lead to temporary or permanent suspension from day trading activities under certain brokerages.
+- **Suspension of account**: Repeated violations can lead to temporary or permanent suspension from [day trading](../d/day_trading.md) activities under certain brokerages.
 
 ## Brokerages and Tools
 
@@ -49,4 +49,4 @@ Various brokerages provide tools and platforms to assist traders in complying wi
 
 ## Conclusion
 
-The 4-Day Rule, or Pattern Day Trader Rule, symbolizes a critical regulatory framework in the U.S. financial markets. It underscores the importance of adequate capitalization and risk management for individuals engaged in frequent trading activities. For algorithmic traders, navigating these regulations requires thoughtful adjustments to trading strategies and close monitoring of trading activities. The rule aims to fortify market integrity while protecting retail investors from excessive risk, thereby ensuring a balanced and fair trading environment.
+The 4-Day Rule, or Pattern Day Trader Rule, symbolizes a critical regulatory framework in the U.S. financial markets. It underscores the importance of adequate capitalization and [risk management](../r/risk_management.md) for individuals engaged in frequent trading activities. For algorithmic traders, navigating these regulations requires thoughtful adjustments to [trading strategies](../t/trading_strategies.md) and close monitoring of trading activities. The rule aims to fortify market integrity while protecting retail investors from excessive risk, thereby ensuring a balanced and fair [trading environment](../t/trading_environment.md).

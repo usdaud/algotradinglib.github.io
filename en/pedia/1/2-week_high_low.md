@@ -2,7 +2,7 @@
 
 ### Introduction
 
-The 2-Week High/Low strategy is a commonly used method in algorithmic trading that leverages the highest and lowest prices of a security over a 14-day period to make trading decisions. This strategy is popular for its simplicity and effectiveness in identifying potential breakout and reversal points in the market. 
+The 2-Week High/Low strategy is a commonly used method in [algorithmic trading](../a/algorithmic_trading.md) that leverages the highest and lowest prices of a security over a 14-day period to make trading decisions. This strategy is popular for its simplicity and effectiveness in identifying potential breakout and reversal points in the market. 
 
 ### Definition
 
@@ -50,7 +50,7 @@ Automating the 2-Week High/Low strategy involves using programming languages and
        return df
    ```
 
-4. **Backtesting:**
+4. **[Backtesting](../b/backtesting.md):**
    Test the strategy on historical data to assess its performance:
    
    ```python
@@ -65,7 +65,7 @@ Automating the 2-Week High/Low strategy involves using programming languages and
 
 ### Practical Applications in Trading
 
-1. **Trend Following:**
+1. **[Trend Following](../t/trend_following.md):**
    In trending markets, the 2-week high/low strategy can help traders capitalize on the persistent directional moves. When the price continues to set new highs or lows within the 14-day period, the strategy confirms the strength of the trend.
 
 2. **Volatility Breakouts:**
@@ -81,19 +81,19 @@ While the basic 2-week high/low strategy is straightforward, traders often refin
 1. **Additional Filters:**
    Incorporating filters such as moving averages or volume thresholds to avoid false breakouts.
 
-2. **Risk Management:**
-   Utilization of risk management tools, including stop-loss orders and position sizing to mitigate potential losses.
+2. **[Risk Management](../r/risk_management.md):**
+   Utilization of [risk management](../r/risk_management.md) tools, including [stop-loss orders](../s/stop-loss_orders.md) and [position sizing](../p/position_sizing.md) to mitigate potential losses.
 
 3. **Combining Indicators:**
-   Blending the 2-week high/low signals with other technical indicators like RSI (Relative Strength Index) or MACD (Moving Average Convergence Divergence) for more robust trade signals.
+   Blending the 2-week high/low signals with other [technical indicators](../t/technical_indicators.md) like RSI (Relative Strength Index) or MACD (Moving Average Convergence Divergence) for more robust trade signals.
 
 ### Tools and Platforms
 
 Various tools and platforms facilitate implementation:
 
 1. **QuantConnect:** [QuantConnect](https://www.quantconnect.com/) offers a cloud-based platform to design, backtest, and execute algorithmic strategies in multiple programming languages.
-2. **TradingView:** [TradingView](https://www.tradingview.com/) provides an easy-to-use interface for technical analysis and scripting custom trading strategies using Pine Script.
-3. **MetaTrader:** [MetaTrader](https://www.metatrader5.com/) supports algorithmic trading with its MQL4/MQL5 language for customized strategy scripts.
+2. **TradingView:** [TradingView](https://www.tradingview.com/) provides an easy-to-use interface for [technical analysis](../t/technical_analysis.md) and scripting custom [trading strategies](../t/trading_strategies.md) using Pine Script.
+3. **MetaTrader:** [MetaTrader](https://www.metatrader5.com/) supports [algorithmic trading](../a/algorithmic_trading.md) with its MQL4/MQL5 language for customized strategy scripts.
 
 ### Case Study
 
@@ -112,4 +112,4 @@ This simple analysis demonstrates the efficacy of the strategy, though in real-m
 
 ### Conclusion
 
-The 2-week High/Low strategy is a straightforward yet effective trading approach that can be easily adapted and deployed in algorithmic trading systems. With proper implementation and risk management, it serves as a valuable tool for capturing price momentum and trading breakouts in various market conditions.
+The 2-week High/Low strategy is a straightforward yet effective trading approach that can be easily adapted and deployed in [algorithmic trading](../a/algorithmic_trading.md) systems. With proper implementation and [risk management](../r/risk_management.md), it serves as a valuable tool for capturing [price momentum](../p/price_momentum.md) and trading breakouts in various market conditions.

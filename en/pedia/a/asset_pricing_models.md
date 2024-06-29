@@ -1,6 +1,6 @@
 # Asset Pricing Models
 
-Asset pricing models are essential frameworks used in finance to determine the appropriate price of an asset. They incorporate various factors such as risk, expected returns, and economic conditions to provide a theoretical valuation of assets under uncertain conditions. In algotrading, asset pricing models are crucial as they provide the mathematical foundation required to make informed trading decisions and develop automated trading strategies. In this detailed article, we explore several key asset pricing models, their components, and their applications in algorithmic trading.
+Asset pricing models are essential frameworks used in finance to determine the appropriate price of an asset. They incorporate various factors such as risk, expected returns, and economic conditions to provide a theoretical valuation of assets under uncertain conditions. In algotrading, asset pricing models are crucial as they provide the mathematical foundation required to make informed trading decisions and develop automated [trading strategies](../t/trading_strategies.md). In this detailed article, we explore several key asset pricing models, their components, and their applications in [algorithmic trading](../a/algorithmic_trading.md).
 
 ## 1. Capital Asset Pricing Model (CAPM)
 
@@ -19,7 +19,7 @@ CAPM can help algotrading systems identify whether an asset is fairly valued rel
 
 ## 2. Arbitrage Pricing Theory (APT)
 
-Arbitrage Pricing Theory, developed by Stephen Ross, is a multifactor asset pricing model that does not rely on a market portfolio. Instead, APT assumes that asset returns can be explained by multiple macroeconomic factors. The APT formula is:
+[Arbitrage](../a/arbitrage.md) Pricing Theory, developed by Stephen Ross, is a multifactor asset pricing model that does not rely on a [market portfolio](../m/market_portfolio.md). Instead, APT assumes that asset returns can be explained by multiple macroeconomic factors. The APT formula is:
 
 \[ E(R_i) = R_f + \sum_{j=1}^{n} \beta_{ij} F_j \]
 
@@ -30,7 +30,7 @@ Where:
 - \( F_j \) is the risk premium associated with factor \(j\).
 
 ### Applying APT in Algorithmic Trading
-APT's multivariate nature allows for more sophisticated trading strategies that consider a wide array of economic and financial factors. This enables algotrading systems to hedge against systematic risk more effectively.
+APT's multivariate nature allows for more sophisticated [trading strategies](../t/trading_strategies.md) that consider a wide array of economic and financial factors. This enables algotrading systems to hedge against [systematic risk](../s/systematic_risk.md) more effectively.
 
 ## 3. Fama-French Three-Factor Model
 
@@ -67,7 +67,7 @@ Where:
 - \( \beta_i^{C} \) is the sensitivity of asset returns to consumption growth.
 
 ### Applying CCAPM in Algorithmic Trading
-By considering consumption data, algotrading systems can better predict long-term trends, particularly in assets closely tied to economic cycles.
+By considering consumption data, algotrading systems can better predict long-term trends, particularly in assets closely tied to [economic cycles](../e/economic_cycles.md).
 
 ## 6. Intertemporal Capital Asset Pricing Model (ICAPM)
 
@@ -79,11 +79,11 @@ Where:
 - \( \beta_i \) and \( h_i \) are slopes corresponding to different state variables.
 
 ### Applying ICAPM in Algorithmic Trading
-ICAPM allows for more dynamic trading strategies, adjusting to shifts in expected returns and economic conditions over time.
+ICAPM allows for more dynamic [trading strategies](../t/trading_strategies.md), adjusting to shifts in expected returns and economic conditions over time.
 
 ## 7. Black-Litterman Model
 
-The Black-Litterman Model is an extension of the mean-variance optimization framework that incorporates subjective views on expected returns. The model combines the equilibrium market returns with the investor's views, resulting in a more tailored asset allocation.
+The [Black-Litterman Model](../b/black-litterman_model.md) is an extension of the [mean-variance optimization](../m/mean-variance_optimization.md) framework that incorporates subjective views on expected returns. The model combines the equilibrium market returns with the investor's views, resulting in a more tailored [asset allocation](../a/asset_allocation.md).
 
 \[ \Pi = \lambda \Sigma w \]
 
@@ -94,7 +94,7 @@ Where:
 - \( w \) is the market capitalization weights.
 
 ### Applying Black-Litterman in Algorithmic Trading
-The Black-Litterman Model can be used to generate robust portfolios that cater to specific market views, enabling more informed and customized trading strategies.
+The [Black-Litterman Model](../b/black-litterman_model.md) can be used to generate robust portfolios that cater to specific market views, enabling more informed and customized [trading strategies](../t/trading_strategies.md).
 
 ## 8. Stochastic Discount Factor Models
 
@@ -108,8 +108,8 @@ Where:
 - \( X_{t+1} \) is the future cash flow.
 
 ### Applying SDF Models in Algorithmic Trading
-SDF models enable quant traders to utilize a wide array of factors, leading to diversified and innovative trading strategies.
+SDF models enable quant traders to utilize a wide array of factors, leading to diversified and innovative [trading strategies](../t/trading_strategies.md).
 
 ## Conclusion
 
-Understanding and applying these asset pricing models is pivotal for algorithmic trading. Each model offers unique insights and capabilities, allowing traders to develop sophisticated, risk-aware strategies tailored to different market conditions. By leveraging these models, algotrading systems can achieve better performance, improved risk management, and higher returns.
+Understanding and applying these asset pricing models is pivotal for [algorithmic trading](../a/algorithmic_trading.md). Each model offers unique insights and capabilities, allowing traders to develop sophisticated, risk-aware strategies tailored to different market conditions. By leveraging these models, algotrading systems can achieve better performance, improved [risk management](../r/risk_management.md), and higher returns.

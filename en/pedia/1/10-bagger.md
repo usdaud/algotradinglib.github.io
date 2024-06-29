@@ -6,7 +6,7 @@ Investors seek 10-baggers due to their potential for significant capital appreci
 
 ## Origins of the Term
 
-Peter Lynch coined the term "10-bagger" in his book "One Up On Wall Street," published in 1989. Lynch served as the manager of the Magellan Fund at Fidelity Investments between 1977 and 1990, achieving an average annual return of 29.2%. His success was largely credited to his knack for identifying high-growth stocks early, many of which became 10-baggers or even greater.
+Peter Lynch coined the term "10-bagger" in his book "One Up On Wall Street," published in 1989. Lynch served as the manager of the Magellan Fund at Fidelity Investments between 1977 and 1990, achieving an average annual return of 29.2%. His success was largely credited to his knack for identifying high-[growth stocks](../g/growth_stocks.md) early, many of which became 10-baggers or even greater.
 
 ## Characteristics of 10-Baggers
 
@@ -34,7 +34,7 @@ While the potential rewards are significant, aiming for 10-baggers also involves
 
 Investors use various strategies to identify potential 10-baggers, including:
 
-- **Fundamental Analysis**: Examining financial statements, management quality, and market position.
+- **[Fundamental Analysis](../f/fundamental_analysis.md)**: Examining financial statements, management quality, and market position.
 - **Industry Trends**: Keeping an eye on emerging industries and disruptive technologies.
 - **Management Interviews**: Listening to interviews, reading shareholder letters, and analyzing the vision and strategy articulated by company leaders.
 
@@ -52,4 +52,4 @@ Given the complexity and high stakes, some investors prefer to rely on professio
 
 ## Conclusion
 
-Aiming to find a 10-bagger requires a mix of diligent research, a keen eye for innovation, patience, and a bit of luck. While the pursuit involves significant risk, the potential rewards can be life-changing, making the hunt for 10-baggers a compelling strategy for growth-focused investors.
+Aiming to find a 10-bagger requires a mix of diligent research, a keen eye for innovation, patience, and a bit of luck. While the pursuit involves significant risk, the potential rewards can be life-changing, making the hunt for 10-baggers a compelling strategy for growth-focused investors.

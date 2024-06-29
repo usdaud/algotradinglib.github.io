@@ -42,7 +42,7 @@ DeFi facilitates faster and cheaper cross-border payments and remittances. Proje
 ## 3. Notable DeFi Projects and Protocols
 
 ### 3.1 Uniswap
-[Uniswap](https://uniswap.org/) is one of the most popular DEXs in the DeFi ecosystem. It uses an AMM system to enable users to trade ERC-20 tokens directly from their wallets. Uniswap has pioneered the concept of liquidity pools, where users can provide liquidity and earn fees.
+[Uniswap](https://uniswap.org/) is one of the most popular DEXs in the DeFi ecosystem. It uses an AMM system to enable users to trade ERC-20 tokens directly from their wallets. Uniswap has pioneered the concept of [liquidity pools](../l/liquidity_pools.md), where users can provide liquidity and earn fees.
 
 ### 3.2 Aave
 [Aave](https://aave.com/) is a decentralized lending platform that allows users to lend and borrow a wide range of cryptocurrencies. Aave introduced the concept of "flash loans," which are loans that can be borrowed and repaid within a single transaction.

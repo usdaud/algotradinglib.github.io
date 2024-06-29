@@ -2,7 +2,7 @@
 
 ## Introduction to Co-integration
 
-Co-integration is a statistical property of a collection of time series variables that indicates a long-term equilibrium relationship between them. In the context of financial markets, co-integration is used to identify pairs or sets of assets whose prices move together in a way that they maintain a stable, long-term relationship despite short-term deviations. This concept is particularly valuable in algorithmic trading strategies, specifically in pairs trading, as it allows traders to exploit temporary divergences from the equilibrium relationship for profit.
+Co-integration is a statistical property of a collection of time series variables that indicates a long-term equilibrium relationship between them. In the context of financial markets, co-integration is used to identify pairs or sets of assets whose prices move together in a way that they maintain a stable, long-term relationship despite short-term deviations. This concept is particularly valuable in [algorithmic trading](../a/algorithmic_trading.md) strategies, specifically in [pairs trading](../p/pairs_trading.md), as it allows traders to exploit temporary divergences from the equilibrium relationship for profit.
 
 ## What is Co-integration?
 
@@ -22,18 +22,18 @@ Several tests can be used to check for co-integration between time series:
 
 2. **Johansen Test**: This multivariate test is used when more than two time series are being tested for co-integration. It provides both the number of co-integrating relationships and their parameters.
 
-3. **Phillips-Ouliaris Test**: Similar to the Engle-Granger method but includes adjustments for residual autocorrelation and heteroscedasticity.
+3. **Phillips-Ouliaris Test**: Similar to the Engle-Granger method but includes adjustments for residual [autocorrelation](../a/autocorrelation.md) and heteroscedasticity.
 
 ## Application in Pairs Trading
 
-Pairs trading is a popular market-neutral trading strategy that involves taking long and short positions in two co-integrated assets. The idea is to identify a pair of assets that exhibit a stable, long-term relationship and then trade on deviations from this relationship. 
+[Pairs trading](../p/pairs_trading.md) is a popular market-neutral trading strategy that involves taking long and short positions in two co-integrated assets. The idea is to identify a pair of assets that exhibit a stable, long-term relationship and then trade on deviations from this relationship. 
 
 ### Steps in Pairs Trading
 
 1. **Identify Pairs**: Use historical price data to identify pairs of assets that are co-integrated. 
 2. **Model the Spread**: Calculate the spread (the residual) between the co-integrated pair.
-3. **Trading Signals**: Implement trading rules based on the spread. Common rules include:
-   - **Mean Reversion**: If the spread widens beyond a certain threshold, short the over-performing asset and long the under-performing asset in expectation of the spread reverting to its mean.
+3. **[Trading Signals](../t/trading_signals.md)**: Implement [trading rules](../t/trading_rules.md) based on the spread. Common rules include:
+   - **[Mean Reversion](../m/mean_reversion.md)**: If the spread widens beyond a certain threshold, short the over-performing asset and long the under-performing asset in expectation of the spread reverting to its mean.
    - **Stop Loss/Profit Target**: Set thresholds to close positions if the spread widens further (stop loss) or reverts to the mean as expected (profit target).
 
 4. **Execution**: Execute trades algorithmically to ensure timely and accurate order placement.
@@ -45,14 +45,14 @@ Suppose we find that the stock prices of Company A (Stock A) and Company B (Stoc
 
 ## Risks in Co-integration Trading
 
-While co-integration-based trading strategies can be profitable, they come with risks, including:
+While co-integration-based [trading strategies](../t/trading_strategies.md) can be profitable, they come with risks, including:
 - **Breakdown of Co-integration**: The economic relationship between assets may change over time due to structural changes in the market or fundamentals of the companies.
-- **Mean Reversion Failure**: The spread may not revert to the mean in the anticipated period, leading to potential losses.
+- **[Mean Reversion](../m/mean_reversion.md) Failure**: The spread may not revert to the mean in the anticipated period, leading to potential losses.
 - **Model Risk**: Incorrect specification of the co-integration model can lead to misidentification of trading opportunities.
 
 ## Companies Utilizing Co-integrated Strategies
 
-Various hedge funds and proprietary trading firms employ co-integration in their algorithmic trading strategies. Firms known for such quantitative approaches include:
+Various hedge funds and [proprietary trading](../p/proprietary_trading.md) firms employ co-integration in their [algorithmic trading](../a/algorithmic_trading.md) strategies. Firms known for such [quantitative approaches](../q/quantitative_approaches.md) include:
 
 - **AQR Capital Management**: AQR is known for its quantitative approach to trading and may utilize co-integration among other strategies.
   [AQR Capital Management](https://www.aqr.com)
@@ -65,4 +65,4 @@ Various hedge funds and proprietary trading firms employ co-integration in their
 
 ## Conclusion
 
-Co-integration is a robust statistical tool that, when applied correctly, can offer significant advantages in algorithmic trading, specifically in pairs trading strategies. By focusing on the long-term equilibrium relationships between financial assets, traders can devise strategies to exploit short-term deviations, potentially leading to profitable trading opportunities. However, as with any trading strategy, it is crucial to be aware of the risks and continuously validate models to adapt to changing market conditions.
+Co-integration is a robust statistical tool that, when applied correctly, can offer significant advantages in [algorithmic trading](../a/algorithmic_trading.md), specifically in [pairs trading](../p/pairs_trading.md) strategies. By focusing on the long-term equilibrium relationships between financial assets, traders can devise strategies to exploit short-term deviations, potentially leading to profitable trading opportunities. However, as with any trading strategy, it is crucial to be aware of the risks and continuously validate models to adapt to changing market conditions.

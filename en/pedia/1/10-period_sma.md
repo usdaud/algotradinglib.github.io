@@ -1,6 +1,6 @@
 # 10-Period Simple Moving Average (SMA)
 
-The 10-period Simple Moving Average (SMA) is a common and fundamental technical analysis tool used in algorithmic trading. It is a type of moving average, which is a statistical calculation used to analyze data points by creating a series of averages of different subsets of the complete data set. The 10-period SMA specifically helps traders determine the average price of an asset over the last 10 periods, be that 10 days, 10 hours, or any other time frames depending on the chart's setup.
+The 10-period Simple Moving Average (SMA) is a common and fundamental [technical analysis](../t/technical_analysis.md) tool used in [algorithmic trading](../a/algorithmic_trading.md). It is a type of moving average, which is a statistical calculation used to analyze data points by creating a series of averages of different subsets of the complete data set. The 10-period SMA specifically helps traders determine the average price of an asset over the last 10 periods, be that 10 days, 10 hours, or any other time frames depending on the chart's setup.
 
 ## Understanding Moving Averages
 
@@ -32,12 +32,12 @@ Then divide by the number of periods (10):
 
 ### Trend Identification
 
-The 10-period SMA is primarily used to identify short-term trends in the market. When the price of an asset is above the SMA, it typically indicates an upward trend. Conversely, when the price is below the SMA, it indicates a downward trend. Algorithmic trading systems often incorporate the 10-period SMA to make rapid and automated trading decisions based on these trend indications.
+The 10-period SMA is primarily used to identify short-term trends in the market. When the price of an asset is above the SMA, it typically indicates an upward trend. Conversely, when the price is below the SMA, it indicates a downward trend. [Algorithmic trading](../a/algorithmic_trading.md) systems often incorporate the 10-period SMA to make rapid and automated trading decisions based on these trend indications.
 
 ### Crossover Strategies
 
-Another common application of the 10-period SMA in algorithmic trading is in crossover strategies. Typically, this involves plotting two moving averages on a chart: a shorter period (e.g., 10-period SMA) and a longer period (e.g., 50-period SMA). Buy and sell signals are generated based on the crossover points of these two SMAs:
-- A “golden cross” occurs when the 10-period SMA crosses above the 50-period SMA, signaling a potential buy.
+Another common application of the 10-period SMA in [algorithmic trading](../a/algorithmic_trading.md) is in crossover strategies. Typically, this involves plotting two moving averages on a chart: a shorter period (e.g., 10-period SMA) and a longer period (e.g., 50-period SMA). Buy and sell signals are generated based on the crossover points of these two SMAs:
+- A “[golden cross](../g/golden_cross.md)” occurs when the 10-period SMA crosses above the 50-period SMA, signaling a potential buy.
 - A “death cross” occurs when the 10-period SMA crosses below the 50-period SMA, signaling a potential sell.
 
 ### Smoothing Out Volatility
@@ -70,10 +70,10 @@ print(df)
 
 ### Integrating with Trading Platforms
 
-Many trading platforms and algorithmic trading services provide built-in tools to calculate and utilize SMAs. For instance:
+Many trading platforms and [algorithmic trading](../a/algorithmic_trading.md) services provide built-in tools to calculate and utilize SMAs. For instance:
 
-- MetaTrader 4 (MT4) and MetaTrader 5 (MT5) allow traders to use SMAs through their in-built technical indicators.
-- QuantConnect is an algorithmic trading platform that supports extensive backtesting and execution of SMA-based strategies. (https://www.quantconnect.com/)
+- MetaTrader 4 (MT4) and MetaTrader 5 (MT5) allow traders to use SMAs through their in-built [technical indicators](../t/technical_indicators.md).
+- QuantConnect is an [algorithmic trading](../a/algorithmic_trading.md) platform that supports extensive [backtesting](../b/backtesting.md) and execution of SMA-based strategies. (https://www.quantconnect.com/)
 - Interactive Brokers offers APIs that traders can use to develop Python scripts that calculate SMAs and execute trades based on crossover signals. (https://www.interactivebrokers.com/)
 
 ## Key Advantages and Limitations
@@ -92,8 +92,8 @@ Many trading platforms and algorithmic trading services provide built-in tools t
 
 ## Conclusion
 
-The 10-period Simple Moving Average (SMA) is a valuable tool in the realm of algorithmic trading. It simplifies trend detection, assists in the creation of effective trading strategies, and can be easily implemented in various trading platforms and programming environments. While it has its limitations, especially in fast-moving markets, its simplicity and effectiveness make it a staple in the toolkit of both novice and experienced algorithmic traders.
+The 10-period Simple Moving Average (SMA) is a valuable tool in the realm of [algorithmic trading](../a/algorithmic_trading.md). It simplifies trend detection, assists in the creation of effective [trading strategies](../t/trading_strategies.md), and can be easily implemented in various trading platforms and programming environments. While it has its limitations, especially in fast-moving markets, its simplicity and effectiveness make it a staple in the toolkit of both novice and experienced algorithmic traders.
 
-For further exploration, you might find tools and platforms such as QuantConnect and Interactive Brokers useful for backtesting and implementing SMA-based strategies in live trading scenarios. Resources like MetaTrader provide accessible ways for traders to deploy SMA indicators without extensive programming knowledge. 
+For further exploration, you might find tools and platforms such as QuantConnect and Interactive Brokers useful for [backtesting](../b/backtesting.md) and implementing SMA-based strategies in live trading scenarios. Resources like MetaTrader provide accessible ways for traders to deploy SMA indicators without extensive programming knowledge. 
 
-By integrating the 10-period SMA into their systems, traders can enhance their ability to make informed, systematic trading decisions.
+By integrating the 10-period SMA into their systems, traders can enhance their ability to make informed, [systematic trading](../s/systematic_trading.md) decisions.

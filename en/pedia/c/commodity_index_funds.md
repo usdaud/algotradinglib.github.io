@@ -24,11 +24,11 @@ There are several prominent commodity indices that commodity index funds may tra
 
 Commodity index funds can invest in commodities through various methods:
 
-1. **Futures Contracts**: The most common approach, where the fund buys futures contracts on the commodities within the index.
+1. **[Futures Contracts](../f/futures_contracts.md)**: The most common approach, where the fund buys [futures contracts](../f/futures_contracts.md) on the commodities within the index.
 
 2. **Physical Commodities**: Some funds might hold the physical commodities, although this is less common due to storage and logistical challenges.
 
-3. **Commodity Swaps**: Financial derivatives through which the fund agrees to swap cash flows with another party based on the performance of the commodity.
+3. **Commodity Swaps**: Financial [derivatives](../d/derivatives.md) through which the fund agrees to swap cash flows with another party based on the performance of the commodity.
 
 4. **Equities of Commodity Producers**: Some funds might invest in companies involved in the extraction, production, and distribution of commodities as an indirect way of gaining exposure.
 
@@ -65,10 +65,10 @@ Several financial institutions and fund managers offer commodity index funds:
 
 3. **Regulatory Risks**: Changes in government policies, trade tariffs, or regulations affecting commodities can impact prices.
 
-4. **Credit Risk**: Using derivatives like swaps introduces counterparty risk, where the other party in the agreement might default.
+4. **Credit Risk**: Using [derivatives](../d/derivatives.md) like swaps introduces [counterparty risk](../c/counterparty_risk.md), where the other party in the agreement might default.
 
 5. **Currency Risk**: Many commodities are priced in US dollars, so investors may be exposed to currency risk if the underlying commodity is produced or consumed in another currency.
 
 ## Conclusion
 
-Commodity index funds offer a convenient way for investors to gain exposure to the commodities markets. They bring diversification, potential inflation protection, and professional management to an investment portfolio. However, investors must also consider the inherent risks, such as volatility and contango, before committing capital to these financial instruments. Proper research and understanding of the specific fund's strategy and underlying index are essential for informed investment decisions.
+Commodity index funds offer a convenient way for investors to gain exposure to the commodities markets. They bring diversification, potential inflation protection, and professional management to an investment portfolio. However, investors must also consider the inherent risks, such as volatility and contango, before committing capital to these financial instruments. Proper research and understanding of the specific fund's strategy and underlying index are essential for informed investment decisions.

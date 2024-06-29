@@ -1,6 +1,6 @@
 # Alternative Data
 
-Alternative data refers to data that is derived from non-traditional sources. This type of data is often used in the financial sector, specifically in algorithmic trading, to gain more nuanced and timely insights into market trends, company performance, and economic conditions. Unlike traditional data sources, such as financial statements and market reports, alternative data can include anything from social media sentiment to satellite imagery.
+Alternative data refers to data that is derived from non-traditional sources. This type of data is often used in the financial sector, specifically in [algorithmic trading](../a/algorithmic_trading.md), to gain more nuanced and timely insights into market trends, company performance, and economic conditions. Unlike traditional data sources, such as financial statements and market reports, alternative data can include anything from [social media sentiment](../s/social_media_sentiment.md) to satellite imagery.
 
 ## Introduction
 
@@ -44,11 +44,11 @@ The Internet of Things (IoT) generates data through connected devices. Informati
 
 ### Sentiment Analysis
 
-Sentiment analysis involves processing large volumes of text data to extract subjective information. By analyzing social media posts, news articles, and other text-based sources, traders can gauge market sentiment and make informed trading decisions.
+[Sentiment analysis](../s/sentiment_analysis.md) involves processing large volumes of text data to extract subjective information. By analyzing social media posts, news articles, and other text-based sources, traders can gauge market sentiment and make informed trading decisions.
 
 ### Predictive Analytics
 
-Predictive analytics uses historical data to predict future outcomes. Algorithmic traders leverage alternative data to build predictive models that forecast stock prices, commodity prices, and other financial metrics.
+[Predictive analytics](../p/predictive_analytics.md) uses historical data to predict future outcomes. Algorithmic traders leverage alternative data to build predictive models that forecast stock prices, commodity prices, and other financial metrics.
 
 ### Risk Management
 
@@ -56,7 +56,7 @@ Alternative data helps in identifying risks that may not be apparent through tra
 
 ### Quantitative Analysis
 
-Quantitative analysis involves the use of mathematical and statistical models to evaluate investment opportunities. Incorporating alternative data into these models can enhance their accuracy and predictive power.
+[Quantitative analysis](../q/quantitative_analysis.md) involves the use of mathematical and statistical models to evaluate investment opportunities. Incorporating alternative data into these models can enhance their accuracy and predictive power.
 
 ## Challenges and Limitations
 
@@ -70,7 +70,7 @@ The use of alternative data raises ethical and legal questions, particularly con
 
 ### Integration
 
-Integrating alternative data with existing trading systems can be challenging. It requires sophisticated data processing and management infrastructure.
+Integrating alternative data with existing [trading systems](../t/trading_systems.md) can be challenging. It requires sophisticated data processing and management infrastructure.
 
 ### Costs
 
@@ -80,15 +80,15 @@ Collecting, processing, and analyzing alternative data can be expensive. The hig
 
 ### Example 1: Kensho Technologies
 
-[Kensho Technologies](https://www.kensho.com/) uses machine learning and big data analytics to provide financial insights. They analyze various alternative data sources, including news articles, social media posts, and economic indicators, to forecast market trends.
+[Kensho Technologies](https://www.kensho.com/) uses machine learning and big data analytics to provide financial insights. They analyze various alternative data sources, including news articles, social media posts, and [economic indicators](../e/economic_indicators.md), to forecast market trends.
 
 ### Example 2: Quantopian and the Twitter Sentiment Approach
 
-Quantopian is a crowd-sourced quantitative investment firm that has leveraged Twitter sentiment data to enhance its trading algorithms. By analyzing millions of tweets, they derive market sentiment scores that influence their trading decisions.
+Quantopian is a crowd-sourced quantitative investment firm that has leveraged Twitter sentiment data to enhance its [trading algorithms](../t/trading_algorithms.md). By analyzing millions of tweets, they derive market sentiment scores that influence their trading decisions.
 
 ### Example 3: RavenPack
 
-[RavenPack](https://www.ravenpack.com/) uses NLP (Natural Language Processing) to analyze news and social media content for sentiment analysis. Their data feeds are used by hedge funds and financial institutions to make better trading decisions.
+[RavenPack](https://www.ravenpack.com/) uses NLP (Natural Language Processing) to analyze news and social media content for [sentiment analysis](../s/sentiment_analysis.md). Their data feeds are used by hedge funds and financial institutions to make better trading decisions.
 
 ## Future Trends
 
@@ -106,5 +106,5 @@ As technology evolves, new sources of alternative data will emerge. The growth o
 
 ## Conclusion
 
-Alternative data provides a competitive advantage for traders by offering unique insights that are not available through traditional data sources. While it poses challenges, including data quality and privacy concerns, the benefits often outweigh the drawbacks. As technology continues to advance, the use of alternative data in algorithmic trading is likely to become even more prevalent.
-
+Alternative data provides a competitive advantage for traders by offering unique insights that are not available through traditional data sources. While it poses challenges, including data quality and privacy concerns, the benefits often outweigh the drawbacks. As technology continues to advance, the use of alternative data in [algorithmic trading](../a/algorithmic_trading.md) is likely to become even more prevalent.
+

@@ -6,7 +6,7 @@ A Bull Call Spread is a popular options trading strategy utilized in the stock m
 
 1. **Long Call Option**: This is the option that the trader buys. It grants the right, but not the obligation, to purchase the underlying asset at a designated strike price on or before the expiration date. This will incur a premium cost.
   
-2. **Short Call Option**: This is the option that the trader sells. It grants the right to another party to purchase the underlying asset at a higher strike price on or before the expiration date. Selling the option generates a premium, which helps offset the cost of the long call option.
+2. **[Short Call Option](../s/short_call_option.md)**: This is the option that the trader sells. It grants the right to another party to purchase the underlying asset at a higher strike price on or before the expiration date. Selling the option generates a premium, which helps offset the cost of the long call option.
 
 #### Example of Bull Call Spread
 
@@ -21,7 +21,7 @@ Net cost of the spread = $3 (long call premium) - $1 (short call premium) = $2
 
 1. **Stock Price Below $105**: Both call options will expire worthless. The net loss will be the initial net premium paid, i.e., $2 per share.
   
-2. **Stock Price Between $105 and $110**: The long call option will be in-the-money, and the short call option remains out-of-the-money. The profit is derived from the difference between the stock price and the lower strike price, minus the net premium paid.
+2. **Stock Price Between $105 and $110**: The long call option will be in-the-money, and the [short call option](../s/short_call_option.md) remains out-of-the-money. The profit is derived from the difference between the stock price and the lower strike price, minus the net premium paid.
 
 3. **Stock Price Above $110**: Both options will be in-the-money. The maximum profit is achieved when the spread between the strike prices ($5) is greater than the net premium paid ($2). Thus, the profit = $5 - $2 = $3 per share.
 
@@ -42,7 +42,7 @@ The Bull Call Spread is an efficient strategy for investors who:
 
 Comparing this strategy to others helps place its utility in context:
 
-- **Bull Put Spread**: A similar bullish strategy, but it involves selling a put option and buying a lower strike put, benefiting from time decay and comparatively larger credit.
+- **[Bull Put Spread](../b/bull_put_spread.md)**: A similar bullish strategy, but it involves selling a put option and buying a lower strike put, benefiting from time decay and comparatively larger credit.
 - **Long Call**: Purely buying a call option yields unlimited upside but involves a higher initial premium outlay.
 - **Covered Call**: Writing calls against owned stock, delivering income but capping upside potential.
 
@@ -61,4 +61,4 @@ For more information on constructing and analyzing bull call spreads, you may vi
 
 - [Investopedia on Bull Call Spread](https://www.investopedia.com/terms/b/bullcallspread.asp)
 
-**Note**: The guidelines and examples provided are for educational purposes. Trading options involve risk and are not suitable for every investor. Consider consulting a financial advisor.
+**Note**: The guidelines and examples provided are for educational purposes. Trading options involve risk and are not suitable for every investor. Consider consulting a financial advisor.
