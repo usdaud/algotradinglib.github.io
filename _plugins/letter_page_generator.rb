@@ -38,14 +38,16 @@ module Jekyll
     end
 
     def process_markdown_file(site, file)
-      content = File.read(file)
+      content = File.read(file, encoding: 'utf-8')
       title = extract_title_from_content(content)
-      
+  
       page = Jekyll::Page.new(site, site.source, File.dirname(file), File.basename(file))
       page.data['layout'] = 'base'
       page.data['title'] = title if title
-      
+  
       site.pages << page
+    rescue => e
+      Jekyll.logger.error "LetterPageGenerator:", "Error processing file #{file}: #{e.message}"
     end
 
     def extract_title_from_content(content)
