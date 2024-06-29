@@ -1,7 +1,3 @@
----
-title: Interactive Brokers
----
-
 # Interactive Brokers
 
 盈透证券 (Interactive Brokers, IB) 是全球最大的经纪商之一，为个人和机构投资者提供服务。IB以其低佣金和广泛的金融交易工具而闻名。
