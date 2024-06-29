@@ -1,7 +1,3 @@
----
-title: Interactive Brokers
----
-
 # Interactive Brokers
 
 Interactive Brokers (IB) is one of the largest global brokers, offering services to both individual and institutional investors. IB is known for its low commissions and a wide range of financial instruments for trading.
