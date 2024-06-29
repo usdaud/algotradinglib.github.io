@@ -1,7 +1,7 @@
 # 1-Period Moving Average (1PMA)
 
 ## Introduction
-A 1-Period Moving Average (1PMA) is perhaps the simplest form of moving average used in technical analysis of financial markets. Essentially, it is a moving average calculated over a single period, making it identical to the closing price or the price of the financial instrument for that period. This technique is typically not useful on its own but serves as a building block to understand more complex moving average concepts and their applications in algorithmic trading.
+A 1-Period Moving Average (1PMA) is perhaps the simplest form of moving average used in [technical analysis](../t/technical_analysis.md) of financial markets. Essentially, it is a moving average calculated over a single period, making it identical to the closing price or the price of the financial instrument for that period. This technique is typically not useful on its own but serves as a building block to understand more complex moving average concepts and their applications in [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Understanding Traditional Moving Averages
 Before diving deep into the 1PMA, it’s crucial to grasp the general idea of moving averages (MAs). MAs smooth out price data to create a trend-following indicator. They are calculated by averaging a certain number of past data points, which helps to identify the direction of an asset's price trend over time:
@@ -25,8 +25,8 @@ Given that the 1PMA is equal to the current period’s price, it doesn't add any
 1PMA is used more conceptually than practically, as it translates directly to the price at the latest period. However, understanding it is a stepping stone to grasp more complicated moving average techniques. Here are some potential contexts where 1PMA can be relevant:
 
 - **Benchmarking**: Serves as a comparison point to validate the behavior of other moving averages.
-- **Algorithmic Trading Models**: Acts as the building block or input for more complex algorithms.
-- **Backward Price Analysis**: Important in systems where every single data point is considered for backtesting strategies.
+- **[Algorithmic Trading](../a/algorithmic_trading.md) Models**: Acts as the building block or input for more complex algorithms.
+- **Backward Price Analysis**: Important in systems where every single data point is considered for [backtesting](../b/backtesting.md) strategies.
 
 ## Comparison with Other Moving Averages
 - **SMA**: Averaged over multiple periods hence smoothens out the price fluctuations.
@@ -54,7 +54,7 @@ This sequence is exactly the same as the closing prices, indicating that 1PMA re
 
 ## Practical Applications
 ### Implementing 1PMA in Algorithmic Trading Systems
-In algorithmic trading, 1PMA itself may not offer much utility directly, but understanding it helps in appreciating how moving averages like SMA, EMA, and WMA modify and smooth the price data. Let's examine how 1PMA serves as a precursor for building advanced trading models:
+In [algorithmic trading](../a/algorithmic_trading.md), 1PMA itself may not offer much utility directly, but understanding it helps in appreciating how moving averages like SMA, EMA, and WMA modify and smooth the price data. Let's examine how 1PMA serves as a precursor for building advanced [trading models](../t/trading_models.md):
 
 - **Data Preparation**: Before calculating more advanced MAs, the raw data (1PMA data) needs to be clean and processed.
 - **Baseline Comparison**: When multiperiod MAs are developed, their performance can be benchmarked against the 1PMA values to evaluate their effectiveness in trend identification.
@@ -66,12 +66,12 @@ For more thorough algorithmic implementations and comparisons, professional plat
 - [AlgoTrader](https://www.algotrader.com)
 
 ### Strategies and Considerations
-Algorithmic trading strategies that rely on moving averages typically avoid using just the 1PMA as it doesn't smooth data. Instead, strategies often involve MAs that span multiple periods to derive signals. For example:
+[Algorithmic trading](../a/algorithmic_trading.md) strategies that rely on moving averages typically avoid using just the 1PMA as it doesn't smooth data. Instead, strategies often involve MAs that span multiple periods to derive signals. For example:
 
 - **Crossing Strategy**: Use crossovers between short-term (like 5-period SMA) and long-term (20-period SMA) MAs.
-- **Mean Reversion**: Identify if the price deviates significantly from its moving average (often using longer periods than just the closing price).
+- **[Mean Reversion](../m/mean_reversion.md)**: Identify if the price deviates significantly from its moving average (often using longer periods than just the closing price).
 
 ## Conclusion
-While a 1-Period Moving Average offers limited practical application on its own, it serves as an essential foundational concept in financial data analysis and algorithmic trading. Understanding 1PMA allows traders and algorithmic strategists to delve deeper into more complex methodologies like SMA, EMA, and WMA, which indeed have profound implications in trading strategies and market analysis.
+While a 1-Period Moving Average offers limited practical application on its own, it serves as an essential foundational concept in financial data analysis and [algorithmic trading](../a/algorithmic_trading.md). Understanding 1PMA allows traders and algorithmic strategists to delve deeper into more complex methodologies like SMA, EMA, and WMA, which indeed have profound implications in [trading strategies](../t/trading_strategies.md) and market analysis.
 
-For advanced trading models and thorough exploration, traders and developers should explore robust platforms, utilize sophisticated backtesting tools, and benchmark against raw price data (1PMA) to validate their models' effectiveness and reliability.
+For advanced [trading models](../t/trading_models.md) and thorough exploration, traders and developers should explore robust platforms, utilize sophisticated [backtesting](../b/backtesting.md) tools, and benchmark against raw price data (1PMA) to validate their models' effectiveness and reliability.

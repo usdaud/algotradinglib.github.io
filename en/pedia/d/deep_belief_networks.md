@@ -1,6 +1,6 @@
 # Deep Belief Networks
 
-Deep Belief Networks (DBNs) represent a class of deep learning models structured from multiple layers of stochastic, latent variables. These latent variables are often known as hidden units or nodes, and they play a critical role in statistically capturing and modeling the underlying features and data structures in numerous domains such as image recognition, speech processing, and financial markets, notably in algorithmic trading.
+Deep Belief Networks (DBNs) represent a class of deep learning models structured from multiple layers of stochastic, latent variables. These latent variables are often known as hidden units or nodes, and they play a critical role in statistically capturing and modeling the underlying features and data structures in numerous domains such as image recognition, speech processing, and financial markets, notably in [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Overview of Deep Belief Networks
 
@@ -39,18 +39,18 @@ DBNs are trained in two stages:
 
 ### Applications of DBNs in Algorithmic Trading
 
-In the realm of algorithmic trading, DBNs hold a prominent place due to their ability to model high-dimensional financial data and unsupervised learning capabilities. Some key applications and advantages include:
+In the realm of [algorithmic trading](../a/algorithmic_trading.md), DBNs hold a prominent place due to their ability to model high-dimensional financial data and unsupervised learning capabilities. Some key applications and advantages include:
 
-- **Market Prediction**: DBNs can capture complex temporal patterns in stock prices and other financial metrics, enabling more accurate market forecasts.
+- **Market Prediction**: DBNs can capture complex [temporal patterns](../t/temporal_patterns.md) in stock prices and other financial metrics, enabling more accurate market forecasts.
 - **Feature Extraction**: Automatically learning abstract representations of market features that traditional methods might overlook.
-- **Risk Management**: Identifying hidden risk factors and detecting anomalies in trading patterns.
+- **[Risk Management](../r/risk_management.md)**: Identifying hidden risk factors and detecting anomalies in trading patterns.
 
 ### Example Companies Utilizing DBNs for Algorithmic Trading
 
-Several companies are known for their advanced use of DBNs and other machine learning techniques to enhance their trading algorithms:
+Several companies are known for their advanced use of DBNs and other machine learning techniques to enhance their [trading algorithms](../t/trading_algorithms.md):
 
-- **Two Sigma**: A prominent quantitative hedge fund that uses machine learning and large-scale data analysis to inform trading strategies. Learn more at [Two Sigma](https://www.twosigma.com/).
-- **Renaissance Technologies**: Known for their Medallion Fund, which uses complex models including deep learning for trading. More information can be found at [Renaissance Technologies](https://www.rentec.com/).
+- **Two Sigma**: A prominent quantitative hedge fund that uses machine learning and large-scale data analysis to inform [trading strategies](../t/trading_strategies.md). Learn more at [Two Sigma](https://www.twosigma.com/).
+- **Renaissance Technologies**: Known for their Medallion Fund, which uses complex models including [deep learning for trading](../d/deep_learning_for_trading.md). More information can be found at [Renaissance Technologies](https://www.rentec.com/).
 - **Citadel**: Utilizing various machine learning techniques to gain a competitive advantage in financial markets. Visit their site at [Citadel](https://www.citadel.com/).
 
 ### Challenges and Limitations
@@ -61,4 +61,4 @@ Implementing DBNs is not without challenges. Key difficulties include:
 - **Overfitting**: Risk of overfitting to training data, necessitating careful regularization and cross-validation strategies.
 - **Data Quality**: Poor-quality financial data can severely impact the performance of DBNs, hence data preprocessing and cleaning are crucial steps.
 
-In summary, Deep Belief Networks are powerful tools in the arsenal of machine learning techniques applicable to algorithmic trading. By understanding their structure, training nuances, and practical challenges, traders and financial analysts can harness their capabilities to gain insights and improve trading strategies in increasingly sophisticated markets.
+In summary, Deep Belief Networks are powerful tools in the arsenal of machine learning techniques applicable to [algorithmic trading](../a/algorithmic_trading.md). By understanding their structure, training nuances, and practical challenges, traders and financial analysts can harness their capabilities to gain insights and improve [trading strategies](../t/trading_strategies.md) in increasingly sophisticated markets.

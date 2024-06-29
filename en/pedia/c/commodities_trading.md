@@ -8,13 +8,13 @@ Commodities trading refers to the buying and selling of raw materials or primary
 A futures contract is an agreement to buy or sell a particular commodity at a predetermined price at a specific time in the future. These contracts are standardized in terms of quality, quantity, and delivery time to facilitate trading on futures exchanges.
 
 ### Options on Futures
-Options on futures provide the holder with the right, but not the obligation, to buy or sell a futures contract at a specific price on or before a certain expiration date. These instruments offer leverage and risk management opportunities.
+Options on futures provide the holder with the right, but not the obligation, to buy or sell a futures contract at a specific price on or before a certain expiration date. These instruments offer leverage and [risk management](../r/risk_management.md) opportunities.
 
 ### Spot Market
 The spot market or cash market is where commodities are bought and sold for immediate delivery. This contrasts with the futures market, where trading is based on contracts for future delivery.
 
 ### Hedging
-Hedging is a risk management strategy used to offset potential losses in one market by taking an opposite position in a related market. For instance, a farmer might hedge against price decreases by selling futures contracts that lock in a future selling price for their crop.
+Hedging is a [risk management](../r/risk_management.md) strategy used to offset potential losses in one market by taking an opposite position in a related market. For instance, a farmer might hedge against price decreases by selling [futures contracts](../f/futures_contracts.md) that lock in a future selling price for their crop.
 
 ### Speculation
 Speculators aim to profit from the price movements in commodities. Unlike hedgers, they are not interested in the physical goods. Their objective is to buy low and sell high (or sell high and buy low) to gain from market fluctuations.
@@ -22,7 +22,7 @@ Speculators aim to profit from the price movements in commodities. Unlike hedger
 ## Major Commodity Exchanges
 
 ### Chicago Mercantile Exchange (CME)
-The [CME](https://www.cmegroup.com/) is one of the world's largest and most diverse derivatives marketplaces, handling a vast array of asset types, including agriculture, energy, metals, and financial instruments.
+The [CME](https://www.cmegroup.com/) is one of the world's largest and most diverse [derivatives](../d/derivatives.md) marketplaces, handling a vast array of asset types, including agriculture, energy, metals, and financial instruments.
 
 ### Intercontinental Exchange (ICE)
 The [ICE](https://www.theice.com/) operates global exchanges and clearing houses and provides data and listings services. It offers trading in commodity markets, particularly energy products like crude oil and natural gas.
@@ -70,16 +70,16 @@ Commodity prices are often quoted in US dollars. Therefore, fluctuations in the 
 Trend-following strategies involve analyzing historical price data to identify and capitalize on ongoing market trends. Traders look for patterns or trends that indicate a potential future direction in commodity prices.
 
 ### Mean Reversion
-Mean reversion strategies are based on the idea that prices tend to revert to their historical averages over time. Traders aim to identify mispriced commodities and take positions that anticipate a return to the mean.
+[Mean reversion](../m/mean_reversion.md) strategies are based on the idea that prices tend to revert to their historical averages over time. Traders aim to identify mispriced commodities and take positions that anticipate a return to the mean.
 
 ### Arbitrage
-Arbitrage involves exploiting price discrepancies between different markets or instruments. Traders buy a commodity at a lower price in one market and sell it at a higher price in another to profit from the difference.
+[Arbitrage](../a/arbitrage.md) involves exploiting price discrepancies between different markets or instruments. Traders buy a commodity at a lower price in one market and sell it at a higher price in another to profit from the difference.
 
 ### Spread Trading
-Spread trading involves taking positions in two related commodities, typically buying one and selling the other. The goal is to profit from the relative price movements between the two commodities.
+[Spread trading](../s/spread_trading.md) involves taking positions in two related commodities, typically buying one and selling the other. The goal is to profit from the relative price movements between the two commodities.
 
 ### Algorithmic Trading
-Algorithmic trading uses computer algorithms to execute trades based on predefined criteria. These algorithms can analyze market data, execute trades, and manage risk with little to no human intervention.
+[Algorithmic trading](../a/algorithmic_trading.md) uses computer algorithms to execute trades based on predefined criteria. These algorithms can analyze market data, execute trades, and manage risk with little to no human intervention.
 
 ## Risk Management in Commodities Trading
 
@@ -87,18 +87,18 @@ Algorithmic trading uses computer algorithms to execute trades based on predefin
 Diversification involves spreading investments across different commodities to reduce the impact of any single commodity's price movement on the overall portfolio.
 
 ### Use of Derivatives
-Derivatives such as futures and options contracts can be used to hedge against adverse price movements. For example, a company reliant on oil can use futures contracts to lock in prices and reduce exposure to price volatility.
+[Derivatives](../d/derivatives.md) such as futures and options contracts can be used to hedge against adverse price movements. For example, a company reliant on oil can use [futures contracts](../f/futures_contracts.md) to lock in prices and reduce exposure to price volatility.
 
 ### Position Sizing
-Position sizing refers to determining the appropriate amount of capital to allocate to a particular trade. It involves assessing risk tolerance, market volatility, and trade strategy to ensure that potential losses are manageable.
+[Position sizing](../p/position_sizing.md) refers to determining the appropriate amount of capital to allocate to a particular trade. It involves assessing risk tolerance, market volatility, and trade strategy to ensure that potential losses are manageable.
 
 ### Stop-Loss Orders
-Stop-loss orders are pre-set instructions to sell a commodity when its price reaches a certain level. This helps to limit potential losses by automatically exiting a position that is moving against the trader.
+[Stop-loss orders](../s/stop-loss_orders.md) are pre-set instructions to sell a commodity when its price reaches a certain level. This helps to limit potential losses by automatically exiting a position that is moving against the trader.
 
 ## Regulatory Bodies
 
 ### Commodity Futures Trading Commission (CFTC)
-The [CFTC](https://www.cftc.gov/) is an independent agency of the US government that regulates the US derivatives markets, including futures, swaps, and certain options.
+The [CFTC](https://www.cftc.gov/) is an independent agency of the US government that regulates the US [derivatives](../d/derivatives.md) markets, including futures, swaps, and certain options.
 
 ### Financial Conduct Authority (FCA)
 The [FCA](https://www.fca.org.uk/) is a financial regulatory body in the United Kingdom that oversees commodity trading and ensures that markets operate fairly and transparently.
@@ -107,4 +107,4 @@ The [FCA](https://www.fca.org.uk/) is a financial regulatory body in the United 
 The [ESMA](https://www.esma.europa.eu/) is an independent EU Authority that contributes to safeguarding the stability of the European Union's financial system by ensuring the integrity, transparency, efficiency, and orderly functioning of securities markets.
 
 ## Conclusion
-Commodities trading is a complex and dynamic field that offers various opportunities and challenges. Understanding the different types of commodities, market mechanisms, trading strategies, and risk management techniques is essential for successful participation in this market. As global demand for commodities continues to evolve, traders must stay informed about economic, geopolitical, and environmental factors that influence prices and market trends.
+Commodities trading is a complex and dynamic field that offers various opportunities and challenges. Understanding the different types of commodities, market mechanisms, [trading strategies](../t/trading_strategies.md), and [risk management](../r/risk_management.md) techniques is essential for successful participation in this market. As global demand for commodities continues to evolve, traders must stay informed about economic, geopolitical, and environmental factors that influence prices and market trends.

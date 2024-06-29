@@ -2,18 +2,18 @@
 
 ## Economic Cycles
 
-Economic cycles, also known as business cycles, are typically classified into four distinct phases: expansion, peak, contraction, and trough.
+[Economic cycles](../e/economic_cycles.md), also known as business cycles, are typically classified into four distinct phases: expansion, peak, contraction, and trough.
 
 1. **Expansion**: Characterized by increasing economic activity, rising employment, and growing gross domestic product (GDP).
 2. **Peak**: The point at which economic activity reaches its highest level before beginning to decline.
 3. **Contraction**: Marked by decreasing economic activity, rising unemployment, and a slowing GDP.
 4. **Trough**: The lowest point of economic activity before the cycle begins anew with a period of expansion.
 
-Economic indicators such as GDP growth rates, employment figures, and inflation rates can be useful for identifying these cycles.
+[Economic indicators](../e/economic_indicators.md) such as GDP growth rates, employment figures, and inflation rates can be useful for identifying these cycles.
 
 ## Market Cycles
 
-Market cycles are driven by investor sentiment, economic data, and overall market conditions. These can be subdivided into several types:
+[Market cycles](../m/market_cycles.md) are driven by investor sentiment, economic data, and overall market conditions. These can be subdivided into several types:
 
 ### Boom and Bust Cycles
 
@@ -47,7 +47,7 @@ Investor psychology plays a crucial role in market cyclicality. The phases of a 
 
 ## Algorithms and Cyclicality
 
-In algorithmic trading, understanding market cycles is critical for the development of models that can predict market movements.
+In [algorithmic trading](../a/algorithmic_trading.md), understanding [market cycles](../m/market_cycles.md) is critical for the development of models that can predict market movements.
 
 ### Moving Averages
 
@@ -61,11 +61,11 @@ Moving averages smooth out price data to identify trends. Common types include:
 Oscillators measure market momentum and can indicate overbought or oversold conditions. Examples include:
 
 - **Relative Strength Index (RSI)**: Measures the magnitude and velocity of directional price movements.
-- **Stochastic Oscillator**: Compares a security's closing price to its price range over a specific period.
+- **[Stochastic Oscillator](../s/stochastic_oscillator.md)**: Compares a security's closing price to its price range over a specific period.
 
 ### Mean Reversion
 
-Mean reversion strategies assume that prices will revert to their historical average over time. Algorithms may identify overextended price movements and anticipate reversals.
+[Mean reversion](../m/mean_reversion.md) strategies assume that prices will revert to their historical average over time. Algorithms may identify overextended price movements and anticipate reversals.
 
 ### Machine Learning Models
 
@@ -76,10 +76,10 @@ Machine learning models can be trained to identify complex patterns in market da
 
 ## Companies Specializing in Algorithmic Trading
 
-Several notable companies and platforms focus on algorithmic trading and may offer tools to help understand and exploit market cycles:
+Several notable companies and platforms focus on [algorithmic trading](../a/algorithmic_trading.md) and may offer tools to help understand and exploit [market cycles](../m/market_cycles.md):
 
-- **QuantConnect**: [QuantConnect](https://www.quantconnect.com/) provides a cloud-based platform for designing and backtesting trading algorithms.
+- **QuantConnect**: [QuantConnect](https://www.quantconnect.com/) provides a cloud-based platform for designing and [backtesting](../b/backtesting.md) [trading algorithms](../t/trading_algorithms.md).
 - **Alpaca**: [Alpaca](https://alpaca.markets/) offers commission-free trading with an API for executing algorithmic strategies.
-- **Two Sigma**: [Two Sigma](https://www.twosigma.com/) uses machine learning, distributed computing, and vast amounts of data to build trading algorithms.
+- **Two Sigma**: [Two Sigma](https://www.twosigma.com/) uses machine learning, distributed computing, and vast amounts of data to build [trading algorithms](../t/trading_algorithms.md).
 
-Understanding cyclicality in markets is fundamental for devising robust algotrading strategies. By analyzing economic, market, and psychological cycles, and leveraging algorithms to identify and predict these patterns, traders can increase their chances of success in financial markets.
+Understanding cyclicality in markets is fundamental for devising robust algotrading strategies. By analyzing economic, market, and psychological cycles, and leveraging algorithms to identify and predict these patterns, traders can increase their chances of success in financial markets.

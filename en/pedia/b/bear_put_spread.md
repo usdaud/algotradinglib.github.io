@@ -11,7 +11,7 @@ The underlying asset can be a stock, an index, or any other financial instrument
 In a Bear Put Spread, you choose two different strike prices. The put option with the higher strike price (which you buy) and the put option with the lower strike price (which you sell).
 
 ### Expiration Date
-Both put options must have the same expiration date to form a proper spread.
+Both [put options](../p/put_options.md) must have the same expiration date to form a proper spread.
 
 ### Cost and Premium Collection
 The net cost of setting up a Bear Put Spread is the difference between the premium paid for the bought put option and the premium received from the sold put option. 
@@ -77,7 +77,7 @@ Bear Put Spreads are ideal in moderately bearish market conditions where you exp
 Consider the impact of transaction costs, as each leg of the spread involves commission fees, which might affect the overall profitability.
 
 ### Liquidity
-Ensure that both put options are liquid, meaning they have enough trading volume and open interest to allow for easy entry and exit.
+Ensure that both [put options](../p/put_options.md) are liquid, meaning they have enough trading [volume and open interest](../v/volume_and_open_interest.md) to allow for easy entry and exit.
 
 ### Time Decay
 Time decay works differently on each leg of the spread. It generally benefits the sold put option (as it loses value over time), but it adversely affects the bought put option.
@@ -92,4 +92,4 @@ Have predefined exit strategies, whether based on underlying asset price movemen
 
 A Bear Put Spread is a relatively conservative options trading strategy that investors use to capitalize on a moderately bearish outlook on the underlying asset. It is ideal for traders who aim to limit risk but still want to take advantage of a potential decline in an asset’s price. The strategy requires detailed planning and a good understanding of options dynamics, but it offers a balanced mix of risk and reward.
 
-For more information and detailed examples, you can visit [Interactive Brokers LLC](https://www.interactivebrokers.com/en/index.php?f=13244), which offers comprehensive tutorials and real-time trading strategies related to Bear Put Spreads and other options trading strategies.
+For more information and detailed examples, you can visit [Interactive Brokers LLC](https://www.interactivebrokers.com/en/index.php?f=13244), which offers comprehensive tutorials and real-time [trading strategies](../t/trading_strategies.md) related to Bear Put Spreads and other [options trading strategies](../o/options_trading_strategies.md).

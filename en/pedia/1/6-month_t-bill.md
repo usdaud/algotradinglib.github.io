@@ -1,6 +1,6 @@
 # 6-Month Treasury Bill (T-Bill)
 
-A 6-Month Treasury Bill (T-Bill) is a short-term debt obligation issued by the United States Department of the Treasury. These instruments are considered one of the safest investments because they are backed by the full faith and credit of the U.S. government. T-Bills are sold at a discount to their face value and do not pay interest in the traditional sense. Instead, the investor receives the face value at maturity, and the difference between the purchase price and the face value constitutes the interest earned.
+A [6-Month Treasury Bill](../1/6-month_treasury_bill.md) (T-Bill) is a short-term debt obligation issued by the United States Department of the Treasury. These instruments are considered one of the safest investments because they are backed by the full faith and credit of the U.S. government. T-Bills are sold at a discount to their face value and do not pay interest in the traditional sense. Instead, the investor receives the face value at maturity, and the difference between the purchase price and the face value constitutes the interest earned.
 
 ## Characteristics of 6-Month T-Bills
 
@@ -56,10 +56,10 @@ Businesses and governments often use 6-Month T-Bills for cash management purpose
 Can purchase T-Bills through brokerage accounts or directly via TreasuryDirect, benefiting from the low risk and ease of access.
 
 ### Institutional Investors
-Such as mutual funds, pension funds, and insurance companies, often hold T-Bills as part of their asset allocation strategies to mitigate risk and ensure liquidity.
+Such as mutual funds, pension funds, and insurance companies, often hold T-Bills as part of their [asset allocation](../a/asset_allocation.md) strategies to mitigate risk and ensure liquidity.
 
 ## Further Reading
 For more details, you can visit [U.S. Department of the Treasury](https://www.treasurydirect.gov/).
 
 Understanding the full scope of 6-Month T-Bills, their benefits, and how they fit into the broader financial market can help investors make informed decisions.
-
+

@@ -1,7 +1,7 @@
 # Blockchain in Trading
 
 ## Introduction
-Blockchain technology, originally the backbone of cryptocurrency networks, has quickly evolved to demonstrate far-reaching applications beyond digital currencies. One of the sectors to experience substantial innovations due to blockchain is trading. The integration of blockchain into trading encompasses various aspects, from trading algorithms and systems to clearing, settlement, and regulatory compliance. This document aims to provide an in-depth understanding of the role of blockchain in trading, its benefits, challenges, and future prospects.
+Blockchain technology, originally the backbone of cryptocurrency networks, has quickly evolved to demonstrate far-reaching applications beyond digital currencies. One of the sectors to experience substantial innovations due to blockchain is trading. The integration of blockchain into trading encompasses various aspects, from [trading algorithms](../t/trading_algorithms.md) and systems to clearing, settlement, and regulatory compliance. This document aims to provide an in-depth understanding of the role of blockchain in trading, its benefits, challenges, and future prospects.
 
 ## Key Concepts
 
@@ -9,7 +9,7 @@ Blockchain technology, originally the backbone of cryptocurrency networks, has q
 Blockchain is a decentralized digital ledger that records transactions across multiple computers so that the record cannot be altered retroactively without the alteration of all subsequent blocks. This technology ensures transparency, security, and immutability of data, making it highly appealing for various industries, including trading.
 
 ### Trading
-Trading refers to the buying and selling of financial instruments such as stocks, bonds, derivatives, commodities, and cryptocurrencies. It involves a complex ecosystem of brokers, exchanges, clearinghouses, and regulatory bodies.
+Trading refers to the buying and selling of financial instruments such as stocks, bonds, [derivatives](../d/derivatives.md), commodities, and cryptocurrencies. It involves a complex ecosystem of brokers, exchanges, clearinghouses, and regulatory bodies.
 
 ## Applications of Blockchain in Trading
 
@@ -20,7 +20,7 @@ Blockchain's immutable ledger increases transparency in trading activities. Each
 Traditional trading settlement processes can take days due to the involvement of multiple intermediaries and manual reconciliations. Blockchain enables real-time gross settlement by automating and streamlining these processes, thus reducing counterparty risks and freeing up capital.
 
 ### Algorithmic Trading
-In algorithmic trading, advanced algorithms make trading decisions at speeds and frequencies beyond human capabilities. Blockchain can enhance algorithmic trading by ensuring the integrity of market data and automating the execution of smart contracts based on predefined conditions.
+In [algorithmic trading](../a/algorithmic_trading.md), advanced algorithms make trading decisions at speeds and frequencies beyond human capabilities. Blockchain can enhance [algorithmic trading](../a/algorithmic_trading.md) by ensuring the integrity of market data and automating the execution of smart contracts based on predefined conditions.
 
 ### Decentralized Exchanges (DEXs)
 Blockchain has given rise to Decentralized Exchanges (DEXs), which operate without a central authority, allowing users to trade directly with each other. DEXs offer increased security and privacy as they do not hold users’ funds, unlike centralized exchanges.
@@ -95,7 +95,7 @@ While blockchain is transparent, this can sometimes conflict with data privacy r
 ## Future Prospects and Innovations
 
 ### Integration with AI and ML
-The integration of blockchain with Artificial Intelligence (AI) and Machine Learning (ML) can transform trading algorithms, making them more efficient and capable of learning from vast amounts of data.
+The integration of blockchain with Artificial Intelligence (AI) and Machine Learning (ML) can transform [trading algorithms](../t/trading_algorithms.md), making them more efficient and capable of learning from vast amounts of data.
 
 ### Smart Contracts
 Smart contracts can automate and enforce trading agreements without the need for manual intervention. These programmable contracts can execute trades automatically when specific conditions are met.
@@ -110,4 +110,4 @@ The development of Central Bank Digital Currencies (CBDCs) can further integrate
 As more jurisdictions recognize the potential of blockchain, we can expect more comprehensive and supportive regulatory frameworks, which will further encourage its adoption in trading.
 
 ## Conclusion
-Blockchain technology holds immense potential to revolutionize the trading landscape by enhancing transparency, security, and efficiency. While challenges remain, ongoing innovations and increasing regulatory clarity are likely to drive broader adoption of blockchain in trading. The integration of blockchain with other emerging technologies promises to create even more advanced and resilient trading infrastructures in the future.
+Blockchain technology holds immense potential to revolutionize the trading landscape by enhancing transparency, security, and efficiency. While challenges remain, ongoing innovations and increasing regulatory clarity are likely to drive broader adoption of blockchain in trading. The integration of blockchain with other emerging technologies promises to create even more advanced and resilient trading infrastructures in the future.

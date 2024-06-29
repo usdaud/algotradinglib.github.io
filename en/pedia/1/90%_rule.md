@@ -2,14 +2,14 @@
 
 ### Introduction
 
-Algorithmic trading, also known as algo-trading, involves using computer algorithms to automate and optimize trading strategies. These algorithms can execute trades at speeds and frequencies that human traders cannot match. One of the guiding principles for effective algorithmic trading is the "90% Rule," which emphasizes the importance of model robustness and adaptability. 
+[Algorithmic trading](../a/algorithmic_trading.md), also known as algo-trading, involves using computer algorithms to automate and optimize [trading strategies](../t/trading_strategies.md). These algorithms can execute trades at speeds and frequencies that human traders cannot match. One of the guiding principles for effective [algorithmic trading](../a/algorithmic_trading.md) is the "90% Rule," which emphasizes the importance of model robustness and adaptability. 
 
 ### Understanding the 90% Rule
 
 The 90% Rule essentially states that:
 
-- **90% of the effort in algorithmic trading should be spent on research, development, and testing.**
-- **Only 10% should be on implementing and running the trading algorithms.**
+- **90% of the effort in [algorithmic trading](../a/algorithmic_trading.md) should be spent on research, development, and testing.**
+- **Only 10% should be on implementing and running the [trading algorithms](../t/trading_algorithms.md).**
 
 ### Research and Development
 
@@ -19,8 +19,8 @@ A significant portion of the 90% effort goes into data collection. High-quality 
 
 - **Historical Price Data**: This includes past prices of financial instruments, which helps in understanding market trends.
 - **Order Book Data**: Provides insights into market depth and liquidity.
-- **News Data**: Sentiment analysis of news headlines and articles can affect market movements.
-- **Alternative Data**: This includes non-traditional data sources like social media sentiment, satellite imagery, etc.
+- **News Data**: [Sentiment analysis](../s/sentiment_analysis.md) of news headlines and articles can affect market movements.
+- **[Alternative Data](../a/alternative_data.md)**: This includes [non-traditional data sources](../n/non-traditional_data_sources.md) like [social media sentiment](../s/social_media_sentiment.md), satellite imagery, etc.
 
 #### Data Cleaning and Preprocessing
 
@@ -32,26 +32,26 @@ Once the data is collected, the next step is to clean and preprocess it. This st
 
 #### Feature Engineering
 
-Feature engineering involves creating new features based on original data that can improve the performance of trading algorithms. Examples include:
+Feature engineering involves creating new features based on original data that can improve the performance of [trading algorithms](../t/trading_algorithms.md). Examples include:
 
-- **Technical Indicators**: Moving averages, RSI, MACD, etc.
+- **[Technical Indicators](../t/technical_indicators.md)**: Moving averages, RSI, MACD, etc.
 - **Statistical Features**: Mean, variance, skewness, etc.
 
 #### Algorithm Design
 
 Once the data is ready, the next step is designing the trading algorithm. Key components include:
 
-- **Strategy Selection**: Examples include mean reversion, trend following, and arbitrage.
-- **Risk Management**: Position sizing, stop-loss mechanisms, and other risk management tools.
-- **Execution Algorithms**: Market orders, limit orders, and more sophisticated execution strategies like VWAP and TWAP.
+- **Strategy Selection**: Examples include [mean reversion](../m/mean_reversion.md), [trend following](../t/trend_following.md), and [arbitrage](../a/arbitrage.md).
+- **[Risk Management](../r/risk_management.md)**: [Position sizing](../p/position_sizing.md), stop-loss mechanisms, and other [risk management](../r/risk_management.md) tools.
+- **[Execution Algorithms](../e/execution_algorithms.md)**: Market orders, limit orders, and more sophisticated execution strategies like VWAP and TWAP.
 
 ### Backtesting
 
-Backtesting is the process of testing the trading algorithm on historical data to evaluate its performance. This involves:
+[Backtesting](../b/backtesting.md) is the process of testing the trading algorithm on historical data to evaluate its performance. This involves:
 
-- **Creating a Simulated Environment**: Mock trading environment replicating real-market conditions.
-- **Performance Metrics**: Evaluating the algorithm using metrics like Sharpe Ratio, Max Drawdown, etc.
-- **Overfitting Prevention**: Ensuring that the model is not overly specialized to historical data.
+- **Creating a Simulated Environment**: Mock [trading environment](../t/trading_environment.md) replicating real-market conditions.
+- **[Performance Metrics](../p/performance_metrics.md)**: Evaluating the algorithm using metrics like [Sharpe Ratio](../s/sharpe_ratio.md), Max Drawdown, etc.
+- **[Overfitting Prevention](../o/overfitting_prevention.md)**: Ensuring that the model is not overly specialized to historical data.
 
 ### Optimization
 
@@ -59,7 +59,7 @@ Optimization involves tuning the model parameters to maximize performance:
 
 - **Grid Search**: Testing all possible combinations of parameters.
 - **Random Search**: Random sampling of parameters.
-- **Bayesian Optimization**: More sophisticated method for parameter tuning.
+- **[Bayesian Optimization](../b/bayesian_optimization.md)**: More sophisticated method for parameter tuning.
 
 ### Forward Testing
 
@@ -76,15 +76,15 @@ Once the model has been rigorously tested, it's time to implement it. This invol
 ### Companies Specializing in Algo-Trading
 
 1. **QuantConnect**: (https://www.quantconnect.com/)
-   - QuantConnect provides a cloud-based algorithm trading platform. It allows users to backtest, optimize, and deploy trading algorithms across multiple asset classes.
+   - QuantConnect provides a cloud-based algorithm trading platform. It allows users to backtest, optimize, and deploy [trading algorithms](../t/trading_algorithms.md) across multiple asset classes.
 
 2. **AlgoTrader**: (https://www.algotrader.com/)
-   - AlgoTrader offers algorithmic trading software for quantitative research, trading strategy development, backtesting, optimization, and execution.
+   - AlgoTrader offers [algorithmic trading](../a/algorithmic_trading.md) software for [quantitative research](../q/quantitative_research.md), trading strategy development, [backtesting](../b/backtesting.md), optimization, and execution.
 
 3. **WorldQuant**: (https://www.worldquant.com/)
-   - WorldQuant is a global quantitative investment management firm that uses mathematical and statistical methods, analysis, distinct trading algorithms to manage global investment portfolios.
+   - WorldQuant is a global quantitative investment management firm that uses mathematical and statistical methods, analysis, distinct [trading algorithms](../t/trading_algorithms.md) to manage global investment portfolios.
 
 ### Conclusion
 
 The 90% Rule underscores the complexity and rigor involved in developing a successful trading algorithm. By focusing the vast majority of effort on research, development, and testing, traders can ensure that their algorithms are robust, adaptable, and more likely to succeed in the real world.
-
+

@@ -77,25 +77,25 @@ A DQN uses a neural network, often a convolutional neural network (CNN), to esti
 
 ## Applications in Algorithmic Trading
 
-Deep Q-Learning has found applications in algorithmic trading, where decision-making in uncertain environments is crucial. The agent learns to buy, sell, or hold assets based on historical price data to maximize profit.
+Deep Q-Learning has found applications in [algorithmic trading](../a/algorithmic_trading.md), where decision-making in uncertain environments is crucial. The agent learns to buy, sell, or hold assets based on historical price data to maximize profit.
 
 ### Key Components in Trading
 
-1. **State**: Historical price data, technical indicators, and portfolio information.
+1. **State**: Historical price data, [technical indicators](../t/technical_indicators.md), and portfolio information.
 2. **Action**: Actions like buy, sell, or hold.
 3. **Reward**: Profit or loss from trades.
 4. **Policy**: Strategy to maximize cumulative returns.
 
 ### Practical Implementations
 
-Numerous fintech companies and research labs have employed Deep Q-Learning for trading strategies:
+Numerous fintech companies and research labs have employed Deep Q-Learning for [trading strategies](../t/trading_strategies.md):
 
-1. **Kensho Technologies**: Utilizes reinforcement learning models for predictive analytics in trading. [Kensho](https://www.kensho.com)
+1. **Kensho Technologies**: Utilizes reinforcement learning models for [predictive analytics](../p/predictive_analytics.md) in trading. [Kensho](https://www.kensho.com)
 
-2. **Numerai**: A hedge fund that leverages ML and RL techniques for market predictions and trading strategies. [Numerai](https://numer.ai)
+2. **Numerai**: A hedge fund that leverages ML and RL techniques for market predictions and [trading strategies](../t/trading_strategies.md). [Numerai](https://numer.ai)
 
-3. **Alpaca**: Offers an algorithmic trading platform that supports custom trading strategies using reinforcement learning. [Alpaca](https://alpaca.markets)
+3. **Alpaca**: Offers an [algorithmic trading](../a/algorithmic_trading.md) platform that supports custom [trading strategies](../t/trading_strategies.md) using reinforcement learning. [Alpaca](https://alpaca.markets)
 
 ## Conclusion
 
-Deep Q-Learning represents a significant advancement in reinforcement learning by combining the power of deep learning with Q-Learning. Its ability to handle complex environments and make high-level decisions makes it a powerful tool for various applications, including algorithmic trading. Despite its challenges, ongoing research and innovations continue to enhance its stability and efficiency, paving the way for more effective and intelligent decision-making systems.
+Deep Q-Learning represents a significant advancement in reinforcement learning by combining the power of deep learning with Q-Learning. Its ability to handle complex environments and make high-level decisions makes it a powerful tool for various applications, including [algorithmic trading](../a/algorithmic_trading.md). Despite its challenges, ongoing research and innovations continue to enhance its stability and efficiency, paving the way for more effective and intelligent decision-making systems.

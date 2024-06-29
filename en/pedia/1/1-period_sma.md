@@ -22,7 +22,7 @@ Where:
    The 1-period SMA serves as a foundational element in constructing more complex moving averages and is crucial in algorithms that require current price data as a comparison benchmark.
 
 2. **Combination with Other Indicators:**
-   The 1-period SMA can be combined with other technical indicators (like MACD, Bollinger Bands, etc.) to enhance trading strategies. For example, its crossover with longer-period SMAs can indicate buying or selling signals.
+   The 1-period SMA can be combined with other [technical indicators](../t/technical_indicators.md) (like MACD, [Bollinger Bands](../b/bollinger_bands.md), etc.) to enhance [trading strategies](../t/trading_strategies.md). For example, its crossover with longer-period SMAs can indicate buying or selling signals.
 
 3. **Algorithm Simplicity:**
    Due to its simplicity, the 1-period SMA minimizes computational load, which is particularly advantageous in high-frequency trading environments.
@@ -76,7 +76,7 @@ print(df)
 ### Practical Applications
 
 #### High-Frequency Trading (HFT)
-In HFT, algorithms need to process data within milliseconds. The simplicity of the 1-period SMA makes it invaluable for real-time data analysis, intraday trend spotting, and immediate decision making.
+In HFT, algorithms need to process data within milliseconds. The simplicity of the 1-period SMA makes it invaluable for [real-time data analysis](../r/real-time_data_analysis.md), intraday trend spotting, and immediate decision making.
 
 #### Scalping Strategies
 Scalping involves profiting from minor price changes. Given its rapid nature, the 1-period SMA can be used to quickly evaluate current price against micro trends.
@@ -90,8 +90,8 @@ Scalping involves profiting from minor price changes. Given its rapid nature, th
    As it represents only a single period, it doesn't offer historical smoothness compared to other SMAs and is typically used in conjunction with longer SMAs for comprehensive analysis.
 
 3. **Algorithmic Complexity:**
-   Effective application often requires integration with more complex trading algorithms and additional indicators to mitigate the risks associated with market volatility.
+   Effective application often requires integration with more complex [trading algorithms](../t/trading_algorithms.md) and additional indicators to mitigate the risks associated with market volatility.
 
 ### Conclusion
 
-The 1-period Simple Moving Average is a fundamental yet potent tool in the toolkit of an algorithmic trader. Its simplistic nature makes it a building block for more sophisticated strategies, and its ability to provide immediate price references ensures it remains a crucial element in real-time trading algorithms.
+The 1-period Simple Moving Average is a fundamental yet potent tool in the toolkit of an algorithmic trader. Its simplistic nature makes it a building block for more sophisticated strategies, and its ability to provide immediate price references ensures it remains a crucial element in real-time [trading algorithms](../t/trading_algorithms.md).

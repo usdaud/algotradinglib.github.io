@@ -13,25 +13,25 @@ Algorithms in black box trading are mathematical models and rules that dictate w
 Black box systems require vast amounts of data to function effectively, including:
 
 - **Market Data:** Real-time and historical price data, trading volumes, and other market statistics.
-- **Fundamental Data:** Financial statements, earnings reports, and economic indicators.
-- **News and Sentiment Data:** News feeds, social media trends, and sentiment analysis.
+- **Fundamental Data:** Financial statements, earnings reports, and [economic indicators](../e/economic_indicators.md).
+- **News and Sentiment Data:** News feeds, social media trends, and [sentiment analysis](../s/sentiment_analysis.md).
 
 ### Technology Stack
 
 - **High-Performance Computing (HPC):** Essential for processing large datasets and executing trades at high speeds.
 - **Low-Latency Networking:** Reduces the time it takes for data to travel between trading venues and the black box system, essential for high-frequency trading (HFT).
 - **Cloud Computing:** Offers scalable resources for both storage and computation.
-- **Machine Learning Models:** Used for pattern recognition, predictive analytics, and improving decision-making processes over time.
+- **Machine Learning Models:** Used for [pattern recognition](../p/pattern_recognition.md), [predictive analytics](../p/predictive_analytics.md), and improving decision-making processes over time.
 
 ## Advantages
 
 ### Speed and Efficiency
 
-Black box trading systems can analyze market conditions and execute trades faster than human traders, often within milliseconds. This speed provides a competitive edge in capturing arbitrage opportunities and reacting to market movements.
+Black box [trading systems](../t/trading_systems.md) can analyze market conditions and execute trades faster than human traders, often within milliseconds. This speed provides a competitive edge in capturing [arbitrage](../a/arbitrage.md) opportunities and reacting to market movements.
 
 ### Removing Human Emotion
 
-By automating trading decisions, black box trading systems eliminate emotional biases that can affect human traders, such as fear and greed.
+By automating trading decisions, black box [trading systems](../t/trading_systems.md) eliminate emotional biases that can affect human traders, such as fear and greed.
 
 ### Scalability
 
@@ -49,7 +49,7 @@ Algorithms may be overfitted to historical data, meaning they perform well on pa
 
 ### Market Impact
 
-High-frequency trading by black box systems can contribute to market volatility and, in extreme cases, cause flash crashes.
+High-frequency trading by black box systems can contribute to market volatility and, in extreme cases, cause [flash crashes](../f/flash_crashes.md).
 
 ## Regulatory Concerns
 
@@ -68,7 +68,7 @@ Renaissance Technologies is one of the most famous names in the world of black b
 
 ### Two Sigma Investments
 
-Two Sigma Investments combines data analysis, artificial intelligence, and advanced technology to make trading decisions. They are one of the leading firms in quantitative trading.
+Two Sigma Investments combines data analysis, artificial intelligence, and advanced technology to make trading decisions. They are one of the leading firms in [quantitative trading](../q/quantitative_trading.md).
 
 [Two Sigma Investments](https://www.twosigma.com/)
 
@@ -80,4 +80,4 @@ Citadel Securities is a global market maker and one of the largest participants 
 
 ## Conclusion
 
-Black Box Trading represents a significant evolution in the realm of financial trading, leveraging technology and advanced algorithms to execute trades with minimal human input. While it offers numerous benefits such as speed, efficiency, and emotionless trading, it also poses challenges in terms of transparency, risk management, and regulatory oversight. As technology continues to advance, the role and influence of black box trading systems in financial markets are likely to grow, making it a critical area for ongoing research and regulatory focus.
+Black Box Trading represents a significant evolution in the realm of financial trading, leveraging technology and advanced algorithms to execute trades with minimal human input. While it offers numerous benefits such as speed, efficiency, and emotionless trading, it also poses challenges in terms of transparency, [risk management](../r/risk_management.md), and regulatory oversight. As technology continues to advance, the role and influence of black box [trading systems](../t/trading_systems.md) in financial markets are likely to grow, making it a critical area for ongoing research and regulatory focus.

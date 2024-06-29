@@ -1,6 +1,6 @@
 # **8-K Form in Algo Trading**
 
-In the financial world, staying informed of material events is crucial for making educated decisions, particularly in the domain of algorithmic trading where speed and accuracy are paramount. One of the essential tools for maintaining this awareness is the 8-K form, a report that public companies in the United States must submit to the Securities and Exchange Commission (SEC). It provides an up-to-date snapshot of significant events that could impact a company's financial health or stock performance.
+In the financial world, staying informed of material events is crucial for making educated decisions, particularly in the domain of [algorithmic trading](../a/algorithmic_trading.md) where speed and accuracy are paramount. One of the essential tools for maintaining this awareness is the 8-K form, a report that public companies in the United States must submit to the Securities and Exchange Commission (SEC). It provides an up-to-date snapshot of significant events that could impact a company's financial health or stock performance.
 
 ### Introduction to the 8-K Form
 
@@ -8,7 +8,7 @@ The 8-K form is a crucial compliance document mandated by the SEC. Public compan
 
 ### Significance in Algorithmic Trading
 
-In the context of algorithmic trading, timing and accuracy are everything. Algorithms programmed to scan financial disclosures and react to the disclosed events can make trading decisions in fractions of a second. This can involve buying or selling stocks, options, or other financial instruments based on the market impact of the disclosed information. Therefore, understanding and effectively utilizing the 8-K form can provide an edge in automated trading strategies.
+In the context of [algorithmic trading](../a/algorithmic_trading.md), timing and accuracy are everything. Algorithms programmed to scan financial disclosures and react to the disclosed events can make trading decisions in fractions of a second. This can involve buying or selling stocks, options, or other financial instruments based on the market impact of the disclosed information. Therefore, understanding and effectively utilizing the 8-K form can provide an edge in automated [trading strategies](../t/trading_strategies.md).
 
 ### Structure of the 8-K Form
 
@@ -41,7 +41,7 @@ To provide better clarity, let’s look at an example of a real 8-K filing, such
 **Pros:**
 
 1. **Timeliness**: Offers prompt disclosure of critical events impacting stock prices.
-2. **Transparency**: Ensures transparency which can be a reliable input for trading algorithms.
+2. **Transparency**: Ensures transparency which can be a reliable input for [trading algorithms](../t/trading_algorithms.md).
 3. **Regulatory Compliance**: Helps maintain a level playing field by mandating all listed companies to disclose significant events.
 
 **Cons:**
@@ -55,7 +55,7 @@ To provide better clarity, let’s look at an example of a real 8-K filing, such
 Technologies such as Natural Language Processing (NLP) and Machine Learning (ML) play a pivotal role in interpreting 8-K filings for algo trading. These technologies can:
 
 1. **Parse Filings**: Quickly parse and categorize the information.
-2. **Sentiment Analysis**: Assess the sentiment of the disclosed information to predict market reactions.
+2. **[Sentiment Analysis](../s/sentiment_analysis.md)**: Assess the sentiment of the disclosed information to predict market reactions.
 3. **Automate Decisions**: Immediate execution of trades based on pre-set criteria derived from the parsed data.
 
 ### Regulatory Framework
@@ -64,9 +64,9 @@ The SEC’s guidelines ensure that material information reaches all market parti
 
 ### Conclusion
 
-The 8-K form is a vital instrument for public companies and investors alike. In the realm of algorithmic trading, the ability to quickly and accurately interpret these filings offers a strategic advantage. As technology continues to evolve, the ways in which these disclosures impact automated trading strategies will likely become even more sophisticated, reinforcing the importance of regulatory compliance and the timely dissemination of material information.
+The 8-K form is a vital instrument for public companies and investors alike. In the realm of [algorithmic trading](../a/algorithmic_trading.md), the ability to quickly and accurately interpret these filings offers a strategic advantage. As technology continues to evolve, the ways in which these disclosures impact automated [trading strategies](../t/trading_strategies.md) will likely become even more sophisticated, reinforcing the importance of regulatory compliance and the timely dissemination of material information.
 
 **References:**
 
 - [Apple Inc. Investor Relations](https://www.apple.com/investor-relations/sec-filings/)
-- [SEC Official Page for 8-K Filings](https://www.sec.gov)
+- [SEC Official Page for 8-K Filings](https://www.sec.gov)

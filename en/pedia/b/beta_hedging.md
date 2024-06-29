@@ -3,7 +3,7 @@
 
 ### Introduction to Beta Hedging
 
-Beta hedging, an essential risk management technique used in the financial markets, aims to mitigate the risks associated with market volatility. Originating from the CAPM (Capital Asset Pricing Model), the concept of beta represents the sensitivity of a security's returns relative to the overall market returns. Specifically, it measures the systemic risk that cannot be eliminated via diversification. Beta hedging then, involves structuring a portfolio to offset the risk represented by its beta, balancing out exposure and minimizing deviations from the expected performance.
+Beta hedging, an essential [risk management](../r/risk_management.md) technique used in the financial markets, aims to mitigate the risks associated with market volatility. Originating from the CAPM (Capital Asset Pricing Model), the concept of beta represents the sensitivity of a security's returns relative to the overall market returns. Specifically, it measures the systemic risk that cannot be eliminated via diversification. Beta hedging then, involves structuring a portfolio to offset the risk represented by its beta, balancing out exposure and minimizing deviations from the expected performance.
 
 ### Understanding Beta
 
@@ -13,7 +13,7 @@ At its core, beta is a statistical measure indicating how much a security's retu
 
 #### Calculation of Beta
 
-Beta is calculated using regression analysis, which evaluates the relationship between the returns of the security and the returns of the market index. Mathematically, it can be expressed as:
+Beta is calculated using [regression analysis](../r/regression_analysis.md), which evaluates the relationship between the returns of the security and the returns of the market index. Mathematically, it can be expressed as:
 
 \[ \beta_i = \frac{Cov(R_i, R_m)}{Var(R_m)} \]
 
@@ -40,9 +40,9 @@ Beta hedging also facilitates strategic rebalancing of portfolios. By adjusting 
 
 #### Using Derivatives (Futures and Options)
 
-Derivatives such as futures and options are often employed for beta hedging. A futures contract can be used to take an opposite position in the market to offset the portfolio's beta. For example, if a portfolio has a beta of 1.2, and the market is expected to decline, a short position in an index futures contract might be taken to mitigate the risk.
+[Derivatives](../d/derivatives.md) such as futures and options are often employed for beta hedging. A futures contract can be used to take an opposite position in the market to offset the portfolio's beta. For example, if a portfolio has a beta of 1.2, and the market is expected to decline, a short position in an [index futures](../i/index_futures.md) contract might be taken to mitigate the risk.
 
-Similarly, options allow investors to hedge while also giving the flexibility to benefit from favorable market movements. For instance, purchasing put options can protect against downside risk while retaining potential for upside gains.
+Similarly, options allow investors to hedge while also giving the flexibility to benefit from favorable market movements. For instance, purchasing [put options](../p/put_options.md) can protect against downside risk while retaining potential for upside gains.
 
 #### Creating a Beta-Neutral Portfolio
 
@@ -54,21 +54,21 @@ A simplified method to achieve a beta-neutral portfolio involves:
 
 #### Pair Trading
 
-This strategy involves taking opposite positions in two securities with similar risk profiles (high positive correlation). By going long on one security and short on the other, the strategy aims to hedge out the systematic risk while profiting from the relative performance.
+This strategy involves taking opposite positions in two securities with similar risk profiles (high positive correlation). By going long on one security and short on the other, the strategy aims to hedge out the [systematic risk](../s/systematic_risk.md) while profiting from the relative performance.
 
 ### Practical Applications of Beta Hedging
 
 #### Equities
 
-In equity markets, beta hedging is widely used among institutional investors and hedge funds to manage systematic risk. For example, an investment manager might hedge a portfolio of high-beta technology stocks with index futures to reduce market exposure.
+In equity markets, beta hedging is widely used among institutional investors and hedge funds to manage [systematic risk](../s/systematic_risk.md). For example, an investment manager might hedge a portfolio of high-beta technology stocks with [index futures](../i/index_futures.md) to reduce market exposure.
 
 #### Fixed Income
 
-Although less common, beta hedging can extend to fixed income securities. By adjusting the duration or employing interest rate futures, investors can hedge against interest rate risk analogous to beta-hedging in equity markets.
+Although less common, beta hedging can extend to [fixed income securities](../f/fixed_income_securities.md). By adjusting the duration or employing [interest rate futures](../i/interest_rate_futures.md), investors can hedge against interest rate risk analogous to beta-hedging in equity markets.
 
 #### Commodities
 
-Beta hedging is also applicable in commodities trading. For instance, a gold mining company may hedge its risk by taking opposite positions in gold futures to stabilize revenues against fluctuations in gold prices.
+Beta hedging is also applicable in [commodities trading](../c/commodities_trading.md). For instance, a gold mining company may hedge its risk by taking opposite positions in gold futures to stabilize revenues against fluctuations in gold prices.
 
 ### Challenges and Limitations
 
@@ -90,14 +90,14 @@ Relying solely on beta hedging models can introduce model risk if the assumption
 
 Consider an institutional investor with a diversified portfolio having an overall beta of 1.5. Anticipating market turbulence, the investor decides to use beta hedging to mitigate potential losses.
 
-1. **Step 1: Calculate Hedge Ratio**
+1. **Step 1: Calculate [Hedge Ratio](../h/hedge_ratio.md)**
    Given a beta of 1.5, the investor needs to hedge 1.5 times the value of their portfolio.
 
-2. **Step 2: Employing Futures Contracts**
-   Suppose the total value of the portfolio is $10 million. The investor could sell S&P 500 Index futures worth $15 million (1.5 x $10 million).
+2. **Step 2: Employing [Futures Contracts](../f/futures_contracts.md)**
+   Suppose the total value of the portfolio is $10 million. The investor could sell S&P 500 [Index futures](../i/index_futures.md) worth $15 million (1.5 x $10 million).
 
 3. **Result**
-   In a declining market, the losses in the portfolio would be offset by gains in the futures contracts, thereby stabilizing returns.
+   In a declining market, the losses in the portfolio would be offset by gains in the [futures contracts](../f/futures_contracts.md), thereby stabilizing returns.
 
 #### Example: Beta-Neutral Pair Trading
 
@@ -106,7 +106,7 @@ An example of a hedge fund implementing pair trading might involve going long on
 1. **Beta Calculation**
    Assume KO and PEP have betas of 0.8 and 0.6, respectively.
 
-2. **Position Sizing**
+2. **[Position Sizing](../p/position_sizing.md)**
    The fund could balance the positions by weighting them according to their betas. If allocating $1 million to KO, it would allocate $1.33 million (0.8/0.6) to short PEP.
 
 3. **Outcome**
@@ -114,11 +114,11 @@ An example of a hedge fund implementing pair trading might involve going long on
 
 ### Conclusion
 
-Beta hedging remains a fundamental technique for managing market risk within a portfolio. It provides investors with tools to effectively minimize systematic risks, allowing focused pursuit of alpha. Despite its challenges, when implemented correctly, beta hedging can significantly enhance portfolio performance by neutralizing adverse market movements. Incorporating these strategies into the risk management framework is crucial for both individual investors and institutional players seeking stability and reduced volatility within their investments. 
+Beta hedging remains a fundamental technique for managing market risk within a portfolio. It provides investors with tools to effectively minimize systematic risks, allowing focused pursuit of alpha. Despite its challenges, when implemented correctly, beta hedging can significantly enhance [portfolio performance](../p/portfolio_performance.md) by neutralizing adverse market movements. Incorporating these strategies into the [risk management](../r/risk_management.md) framework is crucial for both individual investors and institutional players seeking stability and reduced volatility within their investments. 
 
 ##### Further Reading and Resources:
 
 - **Modern Portfolio Theory and Investment Analysis** by Edwin J. Elton, Martin J. Gruber, Stephen J. Brown
-- **Options, Futures, and Other Derivatives** by John C. Hull
+- **Options, Futures, and Other [Derivatives](../d/derivatives.md)** by John C. Hull
 - [MarketWatch on Beta and Asset Pricing](https://www.marketwatch.com/investing/stock/beta)
-- [Investopedia on Beta Hedging](https://www.investopedia.com/terms/b/beta.asp)
+- [Investopedia on Beta Hedging](https://www.investopedia.com/terms/b/beta.asp)

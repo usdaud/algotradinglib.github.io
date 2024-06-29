@@ -17,7 +17,7 @@ The Book-to-Market (B/M) ratio is a financial valuation metric used primarily by
 ## Importance and Uses
 
 ### Value Investing
-The B/M ratio is a cornerstone in the field of value investing. Investors looking for undervalued stocks use the B/M ratio to identify stocks that may be trading below their intrinsic value. A high B/M ratio might suggest that a stock is undervalued, making it an attractive candidate for investment.
+The B/M ratio is a cornerstone in the field of [value investing](../v/value_investing.md). Investors looking for undervalued stocks use the B/M ratio to identify stocks that may be trading below their intrinsic value. A high B/M ratio might suggest that a stock is undervalued, making it an attractive candidate for investment.
 
 ### Academic Research
 The B/M ratio is also significant in academic finance, particularly in the context of the Fama-French three-factor model. This model evaluates the performance of stocks and portfolios by considering three factors:
@@ -64,4 +64,4 @@ Several financial institutions use the B/M ratio as part of their stock-picking 
 
 ## Conclusion
 
-The Book-to-Market ratio is a powerful yet straightforward tool for investors, providing insights into stock valuation. It serves multiple roles, from being a fundamental aspect of value investing to aiding in comprehensive academic research and risk assessment. However, it is crucial to understand its limitations and use it in conjunction with other financial analyses to make informed investment decisions.
+The Book-to-Market ratio is a powerful yet straightforward tool for investors, providing insights into stock valuation. It serves multiple roles, from being a fundamental aspect of [value investing](../v/value_investing.md) to aiding in comprehensive academic research and risk assessment. However, it is crucial to understand its limitations and use it in conjunction with other financial analyses to make informed investment decisions.

@@ -55,7 +55,7 @@ Choosing the right stocks is critical for the success of a covered call strategy
 ### Timing and Market Conditions
 
 - **Expiration Dates**: Choosing appropriate expiration dates is essential. Shorter-term options can provide frequent income opportunities but require more active management.
-- **Market Sentiment Analysis**: Understanding market trends and sentiment can inform better decisions, such as avoiding writing calls in highly volatile markets or during anticipated significant announcements.
+- **[Market Sentiment Analysis](../m/market_sentiment_analysis.md)**: Understanding market trends and sentiment can inform better decisions, such as avoiding writing calls in highly volatile markets or during anticipated significant announcements.
 
 ### Rolling and Adjusting Positions
 
@@ -92,4 +92,4 @@ Professional investment firms and individual investors frequently share their co
 
 ## Conclusion
 
-Covered call strategies offer a pragmatic approach for investors looking to generate additional income from their portfolio while holding onto their long-term investments. Balancing potential gains with inherent risks, and employing tactical adjustments, can optimize outcomes. With the support of advanced trading platforms and analytical tools, covered calls remain a relevant and widely utilized strategy in options trading for diverse market participants.
+Covered call strategies offer a pragmatic approach for investors looking to generate additional income from their portfolio while holding onto their long-term investments. Balancing potential gains with inherent risks, and employing tactical adjustments, can optimize outcomes. With the support of advanced trading platforms and analytical tools, covered calls remain a relevant and widely utilized strategy in options trading for diverse market participants.

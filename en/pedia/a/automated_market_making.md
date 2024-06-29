@@ -14,21 +14,21 @@ Before the advent of automated systems, market making was performed manually. Tr
 
 ### Algorithmic Trading
 
-Algorithmic trading, or algo trading, uses computer programs to execute trading strategies based on predefined criteria. AMM can be seen as a specialized application of algorithmic trading that focuses on maintaining liquidity. The key aim is to minimize the bid-ask spread and optimize the market maker's inventory.
+[Algorithmic trading](../a/algorithmic_trading.md), or algo trading, uses computer programs to execute [trading strategies](../t/trading_strategies.md) based on predefined criteria. AMM can be seen as a specialized application of [algorithmic trading](../a/algorithmic_trading.md) that focuses on maintaining liquidity. The key aim is to minimize the [bid-ask spread](../b/bid-ask_spread.md) and optimize the market maker's inventory.
 
 ### Decentralized Finance (DeFi)
 
-The emergence of blockchain technology and decentralized finance has catalyzed the widespread adoption of AMMs. DeFi platforms, unlike traditional financial systems, operate without central intermediaries. Smart contracts execute trades and manage liquidity pools automatically, which seamlessly fits with the principles of automated market making.
+The emergence of blockchain technology and decentralized finance has catalyzed the widespread adoption of AMMs. DeFi platforms, unlike traditional financial systems, operate without central intermediaries. Smart contracts execute trades and manage [liquidity pools](../l/liquidity_pools.md) automatically, which seamlessly fits with the principles of automated market making.
 
 ## Core Mechanisms of AMMs
 
 ### Liquidity Pools
 
-At the heart of AMM protocols are liquidity pools, which are collections of funds locked in a smart contract. These pools enable trades by providing continual liquidity. Liquidity providers (LPs) deposit assets into these pools and earn fees from the trading activity facilitated by the pool. This contrasts with the traditional model where individual market makers or institutional players supply liquidity.
+At the heart of AMM protocols are [liquidity pools](../l/liquidity_pools.md), which are collections of funds locked in a smart contract. These pools enable trades by providing continual liquidity. Liquidity providers (LPs) deposit assets into these pools and earn fees from the trading activity facilitated by the pool. This contrasts with the traditional model where individual market makers or institutional players supply liquidity.
 
 ### Pricing Algorithms
 
-AMMs employ pricing algorithms to determine the value of assets in the liquidity pools. The most common model is the Constant Product Market Maker (CPMM) used by platforms like Uniswap. The formula for CPMM, x * y = k, ensures that the product of the asset quantities in the pool remains constant.
+AMMs employ pricing algorithms to determine the value of assets in the [liquidity pools](../l/liquidity_pools.md). The most common model is the Constant Product Market Maker (CPMM) used by platforms like Uniswap. The formula for CPMM, x * y = k, ensures that the product of the asset quantities in the pool remains constant.
 
 * x and y represent the quantities of two different assets in the pool.
 * k is a constant, which means that even when trades occur, they must abide by this relationship to maintain equilibrium.
@@ -59,7 +59,7 @@ Specializing in stablecoin pools, Curve Finance minimizes slippage for closely p
 
 ## Governance and AMM Ecosystems
 
-AMMs not only operate liquidity pools but also often integrate a governance framework, usually through tokens. Token holders can participate in decision-making processes, such as protocol upgrades, fee structures, and liquidity incentives. This decentralized governance is vital to evolving and maintaining the integrity of the platform.
+AMMs not only operate [liquidity pools](../l/liquidity_pools.md) but also often integrate a governance framework, usually through tokens. Token holders can participate in decision-making processes, such as protocol upgrades, fee structures, and liquidity incentives. This decentralized governance is vital to evolving and maintaining the integrity of the platform.
 
 ## Advantages of AMMs
 
@@ -69,7 +69,7 @@ Unlike order-book systems that require a match between buyers and sellers, AMMs 
 
 ### Lower Barriers to Entry
 
-AMMs democratize market participation by allowing anyone to become a liquidity provider without needing extensive capital or sophisticated trading systems. This inclusiveness extends to traders who can access a global market through their decentralized nature.
+AMMs democratize market participation by allowing anyone to become a liquidity provider without needing extensive capital or sophisticated [trading systems](../t/trading_systems.md). This inclusiveness extends to traders who can access a global market through their decentralized nature.
 
 ### Transparency
 
@@ -77,7 +77,7 @@ All operations of an AMM occur on-chain, ensuring transparency in trades, fees, 
 
 ### Reduced Counterparty Risk
 
-The use of immutable smart contracts reduces counterparty risk as trades are executed automatically without relying on centralized entities that might default or otherwise fail.
+The use of immutable smart contracts reduces [counterparty risk](../c/counterparty_risk.md) as trades are executed automatically without relying on centralized entities that might default or otherwise fail.
 
 ## Risks and Challenges
 
@@ -99,11 +99,11 @@ The field of AMM is rapidly evolving, with continuous innovation driven by both 
 
 ### Enhanced Liquidity Incentives
 
-Novel models for incentivizing liquidity provision, including dynamic fee structures and cross-chain liquidity pools, are being explored to attract and retain liquidity in a sustainable manner.
+Novel models for incentivizing [liquidity provision](../l/liquidity_provision.md), including dynamic fee structures and cross-chain [liquidity pools](../l/liquidity_pools.md), are being explored to attract and retain liquidity in a sustainable manner.
 
 ### Interoperability
 
-With the proliferation of multiple blockchain platforms, interoperability becomes crucial. Cross-chain AMM protocols aim to unify fragmented liquidity across different blockchains, enhancing overall market efficiency.
+With the proliferation of multiple blockchain platforms, interoperability becomes crucial. Cross-chain AMM protocols aim to unify fragmented liquidity across different blockchains, enhancing overall [market efficiency](../m/market_efficiency.md).
 
 ### AI and Machine Learning
 

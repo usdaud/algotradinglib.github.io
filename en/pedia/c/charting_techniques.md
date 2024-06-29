@@ -1,6 +1,6 @@
 # Charting Techniques in Algorithmic Trading
 
-Charting techniques are pivotal in the field of algorithmic trading. They provide traders with visual tools to analyze historical data, identify market trends, and make informed trading decisions. The use of historical price data, along with mathematical indicators, helps in predicting future price movements. This document delves into several popular charting techniques used in algorithmic trading, providing detailed explanations for each.
+Charting techniques are pivotal in the field of [algorithmic trading](../a/algorithmic_trading.md). They provide traders with visual tools to analyze historical data, identify market trends, and make informed trading decisions. The use of historical price data, along with mathematical indicators, helps in predicting future price movements. This document delves into several popular charting techniques used in [algorithmic trading](../a/algorithmic_trading.md), providing detailed explanations for each.
 
 ## Line Charts
 
@@ -12,7 +12,7 @@ Bar charts provide more detailed information than line charts. Each bar represen
 
 ## Candlestick Charts
 
-Candlestick charts are perhaps the most widely used charting technique in algorithmic trading. Each candlestick represents the OHLC prices for a specific period, similar to bar charts, but with a more visually appealing design. The body of the candlestick is filled or hollow, indicating whether the asset closed higher or lower than its opening price, respectively.
+Candlestick charts are perhaps the most widely used charting technique in [algorithmic trading](../a/algorithmic_trading.md). Each candlestick represents the OHLC prices for a specific period, similar to bar charts, but with a more visually appealing design. The body of the candlestick is filled or hollow, indicating whether the asset closed higher or lower than its opening price, respectively.
 
 ## Point and Figure Charts
 
@@ -28,7 +28,7 @@ Heikin-Ashi charts modify the traditional candlestick chart by averaging the ope
 
 ## Indicators and Overlays
 
-Indicators and overlays are mathematical calculations based on price, volume, and/or open interest that are pasted on the price chart or displayed separately. Some of the popular indicators are Moving Averages, Relative Strength Index (RSI), and Bollinger Bands.
+Indicators and overlays are mathematical calculations based on price, volume, and/or open interest that are pasted on the price chart or displayed separately. Some of the popular indicators are Moving Averages, Relative Strength Index (RSI), and [Bollinger Bands](../b/bollinger_bands.md).
 
 ### Moving Averages
 
@@ -41,15 +41,15 @@ RSI is a momentum oscillator that measures the speed and change of price movemen
 
 ### Bollinger Bands
 
-Bollinger Bands consist of a middle band (SMA) and two outer bands (standard deviations). These bands expand and contract based on market volatility, helping traders identify overbought or oversold conditions.
+[Bollinger Bands](../b/bollinger_bands.md) consist of a middle band (SMA) and two outer bands (standard deviations). These bands expand and contract based on market volatility, helping traders identify overbought or oversold conditions.
 
 ## Volume and Market Profile
 
-Volume analysis helps traders understand the strength of a price movement. Market Profile charts offer a unique perspective by plotting price on the vertical axis and volume traded at each price level on the horizontal axis. This technique helps identify key price levels and value areas.
+[Volume analysis](../v/volume_analysis.md) helps traders understand the strength of a price movement. Market Profile charts offer a unique perspective by plotting price on the vertical axis and volume traded at each price level on the horizontal axis. This technique helps identify [key price levels](../k/key_price_levels.md) and value areas.
 
 ## Chart Patterns
 
-Chart patterns are specific shapes formed by the price movements that signal potential market reversals or continuations. They can be divided into two groups: reversal patterns and continuation patterns.
+[Chart patterns](../c/chart_patterns.md) are specific shapes formed by the price movements that signal potential market reversals or continuations. They can be divided into two groups: [reversal patterns](../r/reversal_patterns.md) and [continuation patterns](../c/continuation_patterns.md).
 
 ### Reversal Patterns
 
@@ -65,7 +65,7 @@ Chart patterns are specific shapes formed by the price movements that signal pot
 
 ### Ichimoku Cloud
 
-Ichimoku Cloud, or Ichimoku Kinko Hyo, is a comprehensive indicator that defines support and resistance, identifies the direction of the trend, gauges momentum, and provides trading signals. The cloud (Kumo) represents potential support and resistance areas.
+[Ichimoku Cloud](../i/ichimoku_cloud.md), or Ichimoku Kinko Hyo, is a comprehensive indicator that defines [support and resistance](../s/support_and_resistance.md), identifies the direction of the trend, gauges momentum, and provides [trading signals](../t/trading_signals.md). The cloud (Kumo) represents potential [support and resistance](../s/support_and_resistance.md) areas.
 
 ### Fibonacci Retracement
 
@@ -73,17 +73,17 @@ Fibonacci retracement uses horizontal lines to indicate areas of support or resi
 
 ### Harmonic Patterns
 
-Harmonic patterns use Fibonacci numbers to identify potential reversal points (PRZ - Potential Reversal Zone). Common harmonic patterns include the Gartley pattern, Bat pattern, and Butterfly pattern.
+[Harmonic patterns](../h/harmonic_patterns.md) use Fibonacci numbers to identify potential reversal points (PRZ - Potential Reversal Zone). Common [harmonic patterns](../h/harmonic_patterns.md) include the Gartley pattern, Bat pattern, and Butterfly pattern.
 
 ## Algorithmic Trading Platforms
 
-There are several platforms and companies that provide advanced charting tools integrated with algorithmic trading capabilities.
+There are several platforms and companies that provide advanced charting tools integrated with [algorithmic trading](../a/algorithmic_trading.md) capabilities.
 
 - **MetaTrader**: A widely used trading platform (https://www.metatrader4.com/)
 - **TradingView**: Offers extensive charting tools and social networking for traders (https://www.tradingview.com/)
 - **Thinkorswim by TD Ameritrade**: Provides professional-grade trading tools (https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
-- **QuantConnect**: An algorithmic trading platform with backtesting and live trading capabilities (https://www.quantconnect.com/)
+- **QuantConnect**: An [algorithmic trading](../a/algorithmic_trading.md) platform with [backtesting](../b/backtesting.md) and live trading capabilities (https://www.quantconnect.com/)
 
 ## Conclusion
 
-The effectiveness of trading strategies in algorithmic trading heavily depends on the accuracy and relevance of charting techniques employed. With the continuous evolution of financial markets and technology, staying up-to-date with advanced charting tools and methods is essential for any algorithmic trader. Whether it's basic line charts or complex harmonic patterns, mastering these techniques can significantly enhance trading performance and outcomes.
+The effectiveness of [trading strategies](../t/trading_strategies.md) in [algorithmic trading](../a/algorithmic_trading.md) heavily depends on the accuracy and relevance of charting techniques employed. With the continuous evolution of financial markets and technology, staying up-to-date with advanced charting tools and methods is essential for any algorithmic trader. Whether it's basic line charts or complex [harmonic patterns](../h/harmonic_patterns.md), mastering these techniques can significantly enhance [trading performance](../t/trading_performance.md) and outcomes.

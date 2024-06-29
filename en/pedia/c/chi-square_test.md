@@ -1,6 +1,6 @@
 # Chi-Square Test in Algorithmic Trading
 
-The Chi-Square test is a statistical method widely used to assess the goodness of fit or to test relationships between categorical variables. In the context of algorithmic trading, this test can be employed to evaluate if a particular trading strategy's performance is independent of market conditions or other categorical variables. This document provides a comprehensive exploration of the Chi-Square test, its applications in algorithmic trading, and how you can implement it to enhance trading strategies.
+The Chi-Square test is a statistical method widely used to assess the goodness of fit or to test relationships between categorical variables. In the context of [algorithmic trading](../a/algorithmic_trading.md), this test can be employed to evaluate if a particular trading strategy's performance is independent of market conditions or other categorical variables. This document provides a comprehensive exploration of the Chi-Square test, its applications in [algorithmic trading](../a/algorithmic_trading.md), and how you can implement it to enhance [trading strategies](../t/trading_strategies.md).
 
 ## Key Concepts
 
@@ -28,13 +28,13 @@ There are two primary types of Chi-Square tests:
 ## Applications in Algorithmic Trading
 
 ### Strategy Performance Evaluation
-One of the main applications of the Chi-Square test in algorithmic trading is to evaluate the performance of a trading strategy under different market conditions. For instance, you can use a Chi-Square test to determine if the success rate of a trading strategy is independent of the market condition (bullish, bearish, or neutral). 
+One of the main applications of the Chi-Square test in [algorithmic trading](../a/algorithmic_trading.md) is to evaluate the performance of a trading strategy under different market conditions. For instance, you can use a Chi-Square test to determine if the success rate of a trading strategy is independent of the market condition (bullish, bearish, or neutral). 
 
 ### Strategy Comparison
-Traders can also use the Chi-Square test to compare different trading strategies. By categorizing trades based on different strategies and market outcomes, a Chi-Square test can reveal whether the differences in performance are statistically significant.
+Traders can also use the Chi-Square test to compare different [trading strategies](../t/trading_strategies.md). By categorizing trades based on different strategies and market outcomes, a Chi-Square test can reveal whether the differences in performance are statistically significant.
 
 ### Risk Management
-Chi-Square tests can be leveraged in risk management to understand the association between various risk factors and the occurrence of significant market events.
+Chi-Square tests can be leveraged in [risk management](../r/risk_management.md) to understand the association between various risk factors and the occurrence of significant market events.
 
 ## Implementation Steps
 
@@ -52,7 +52,7 @@ If the p-value is less than the significance level (e.g., 0.05), reject the null
 
 ## Python Implementation
 
-Here’s an example of implementing a Chi-Square test in Python for evaluating trading strategies:
+Here’s an example of implementing a Chi-Square test in Python for evaluating [trading strategies](../t/trading_strategies.md):
 
 ```python
 import pandas as pd
@@ -91,5 +91,5 @@ print('Expected frequencies:', ex)
 
 ## Conclusion
 
-The Chi-Square test is a powerful tool for analyzing relationships in categorical data and can provide valuable insights in the realm of algorithmic trading. By understanding and leveraging this statistical method, traders can make more informed decisions, optimize trading strategies, and manage risks more effectively. For further exploration of trading strategies, data, and methods, you may refer to algorithmic trading experts and resources like [QuantConnect](https://www.quantconnect.com) and [Alpaca](https://alpaca.markets).
-
+The Chi-Square test is a powerful tool for analyzing relationships in categorical data and can provide valuable insights in the realm of [algorithmic trading](../a/algorithmic_trading.md). By understanding and leveraging this statistical method, traders can make more informed decisions, optimize [trading strategies](../t/trading_strategies.md), and manage risks more effectively. For further exploration of [trading strategies](../t/trading_strategies.md), data, and methods, you may refer to [algorithmic trading](../a/algorithmic_trading.md) experts and resources like [QuantConnect](https://www.quantconnect.com) and [Alpaca](https://alpaca.markets).
+

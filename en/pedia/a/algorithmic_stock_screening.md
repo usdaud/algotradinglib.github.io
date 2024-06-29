@@ -1,6 +1,6 @@
 # Algorithmic Stock Screening
 
-Algorithmic stock screening is a critical application of algorithmic trading that leverages technology and computational power to filter through extensive stock data. The goal is to identify stocks that meet certain predefined criteria, making it easier for traders and investors to focus on potential opportunities without manually analyzing each stock.
+Algorithmic stock screening is a critical application of [algorithmic trading](../a/algorithmic_trading.md) that leverages technology and computational power to filter through extensive stock data. The goal is to identify stocks that meet certain predefined criteria, making it easier for traders and investors to focus on potential opportunities without manually analyzing each stock.
 
 ## Introduction to Stock Screening
 
@@ -14,13 +14,13 @@ Stock screening is a process where investors use a set of criteria to find stock
 
 - **Financial Statements**: Income statements, balance sheets, and cash flow statements.
 - **Market Data**: Real-time and historic quotes, trading volumes, and price changes.
-- **Qualitative Data**: News articles, social media sentiment, and analyst reports.
+- **Qualitative Data**: News articles, [social media sentiment](../s/social_media_sentiment.md), and analyst reports.
 
 ### 2. **Preprocessing**
 
 **Preprocessing** involves cleaning and organizing the raw data into a more usable format. This can include:
 
-- **Data Cleaning**: Removing discrepancies, filling missing values, and correcting errors.
+- **[Data Cleaning](../d/data_cleaning.md)**: Removing discrepancies, filling missing values, and correcting errors.
 - Filtering out irrelevant information.
 - Normalizing data to ensure uniformity in formats.
 
@@ -29,7 +29,7 @@ Stock screening is a process where investors use a set of criteria to find stock
 **Feature selection** and **extraction** involve identifying and creating relevant metrics and attributes from the data that will be used for screening. Examples include:
 
 - **Fundamental Indicators**: P/E ratio, EPS, ROE, etc.
-- **Technical Indicators**: Moving averages, RSI, MACD, etc.
+- **[Technical Indicators](../t/technical_indicators.md)**: Moving averages, RSI, MACD, etc.
 - **Custom Indicators**: Combination or transformation of existing indicators.
 
 ### 4. **Building the Screening Algorithm**
@@ -37,21 +37,21 @@ Stock screening is a process where investors use a set of criteria to find stock
 **Building the algorithm** is perhaps the most crucial part of the process. This step involves:
 
 - **Defining Criteria**: Establishing what financial, technical, or other criteria a stock must meet. These criteria can be user-defined or based on established models.
-- **Algorithm Design**: Creating the logic that will apply the criteria to the stock data to filter out relevant stocks. This can be based on simple logic rules or more complex machine learning models.
+- **[Algorithm Design](../a/algorithm_design.md)**: Creating the logic that will apply the criteria to the stock data to filter out relevant stocks. This can be based on simple logic rules or more complex machine learning models.
 
 ### 5. **Backtesting**
 
-**Backtesting** is the process of testing the algorithm on historical data to evaluate its performance. This is an essential step to understand the potential effectiveness of the screening algorithm.
+**[Backtesting](../b/backtesting.md)** is the process of testing the algorithm on historical data to evaluate its performance. This is an essential step to understand the potential effectiveness of the screening algorithm.
 
 - **Procedure**: Running the algorithm on past data and checking how well the selected stocks would have performed.
-- **Metrics**: Analyzing various performance metrics such as accuracy, precision, recall, and return on investment (ROI).
+- **Metrics**: Analyzing various [performance metrics](../p/performance_metrics.md) such as accuracy, precision, recall, and return on investment (ROI).
 
 ### 6. **Optimization and Fine-Tuning**
 
 **Optimization** involves tweaking the algorithm to improve its performance. This can include:
 
 - **Parameter Tuning**: Modifying thresholds and conditions in the criteria.
-- **Algorithm Improvement**: Incorporating feedback from backtesting to make the algorithm smarter.
+- **Algorithm Improvement**: Incorporating feedback from [backtesting](../b/backtesting.md) to make the algorithm smarter.
 - **Validation**: Ensuring the algorithm performs well on out-of-sample data sets.
 
 ## Types of Screening Algorithms
@@ -66,7 +66,7 @@ Stock screening is a process where investors use a set of criteria to find stock
 
 **Machine learning-based screening** algorithms use advanced statistical models to identify patterns and make predictions about stocks.
 
-- **Example**: Using a random forest classifier to predict stock price movements based on various input features like technical indicators and financial metrics.
+- **Example**: Using a random forest classifier to predict stock price movements based on various input features like [technical indicators](../t/technical_indicators.md) and financial metrics.
 
 ### **Hybrid Approaches**
 
@@ -80,7 +80,7 @@ Several tools and platforms are available for developing and deploying algorithm
 
 ### **QuantConnect**
 
-[QuantConnect](https://www.quantconnect.com/) offers an open-source algorithmic trading platform that provides data, research tools, and backtesting capabilities. It supports multiple programming languages like Python and C#.
+[QuantConnect](https://www.quantconnect.com/) offers an open-source [algorithmic trading](../a/algorithmic_trading.md) platform that provides data, research tools, and [backtesting](../b/backtesting.md) capabilities. It supports multiple programming languages like Python and C#.
 
 ### **Alpha Vantage**
 
@@ -92,13 +92,13 @@ Several tools and platforms are available for developing and deploying algorithm
 
 ### **Yahoo Finance**
 
-[Yahoo Finance](https://finance.yahoo.com/) offers a rich set of data that can be accessed via APIs for building screening algorithms. Though not specifically designed for algorithmic trading, it can be an excellent resource for data.
+[Yahoo Finance](https://finance.yahoo.com/) offers a rich set of data that can be accessed via APIs for building screening algorithms. Though not specifically designed for [algorithmic trading](../a/algorithmic_trading.md), it can be an excellent resource for data.
 
 ## Examples of Algorithmic Stock Screening Strategies
 
 ### **Value Investing Screen**
 
-A value investing screen aims to identify undervalued stocks. Typical criteria might include:
+A [value investing](../v/value_investing.md) screen aims to identify undervalued stocks. Typical criteria might include:
 
 - P/E ratio below the industry average.
 - Price-to-Book (P/B) ratio below a certain threshold.
@@ -107,7 +107,7 @@ A value investing screen aims to identify undervalued stocks. Typical criteria m
 
 ### **Growth Investing Screen**
 
-A growth investing screen aims to find stocks with high growth potential. Criteria might include:
+A [growth investing](../g/growth_investing.md) screen aims to find stocks with high growth potential. Criteria might include:
 
 - High revenue growth rate.
 - High earnings growth rate.
@@ -119,7 +119,7 @@ A momentum investing screen aims to identify stocks that are trending upward. Th
 
 - Recent price performance (e.g., stocks that have gone up by a certain percentage over the last six months).
 - High trading volume.
-- Favorable technical indicators (e.g., moving averages, RSI).
+- Favorable [technical indicators](../t/technical_indicators.md) (e.g., moving averages, RSI).
 
 ### **Dividend Investing Screen**
 
@@ -171,4 +171,4 @@ The integration of big data will provide more robust and comprehensive datasets,
 
 Fully automated end-to-end stock screening systems, from data collection to trading execution, are becoming increasingly feasible. This will enable more efficient decision-making and potentially lower the barriers to entry for individual investors.
 
-In summary, algorithmic stock screening represents the convergence of finance and technology, offering powerful tools for investors to filter through vast amounts of stock data quickly and efficiently. As technology continues to advance, the capabilities and sophistication of these screening algorithms will only continue to grow.
+In summary, algorithmic stock screening represents the convergence of finance and technology, offering powerful tools for investors to filter through vast amounts of stock data quickly and efficiently. As technology continues to advance, the capabilities and sophistication of these screening algorithms will only continue to grow.

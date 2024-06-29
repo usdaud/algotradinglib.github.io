@@ -1,10 +1,10 @@
 # 5-Week Cycle in Algorithmic Trading
 
-Algorithmic trading, also known as algo-trading, utilizes algorithms to make trading decisions at speeds and frequencies that are unable to be matched by human traders. One of the critical aspects that many algorithms focus on is identifying and exploiting market cycles. Among these cycles, the 5-week cycle often serves as a significant pattern that can provide traders with predictive insights.
+[Algorithmic trading](../a/algorithmic_trading.md), also known as algo-trading, utilizes algorithms to make trading decisions at speeds and frequencies that are unable to be matched by human traders. One of the critical aspects that many algorithms focus on is identifying and exploiting [market cycles](../m/market_cycles.md). Among these cycles, the 5-week cycle often serves as a significant pattern that can provide traders with predictive insights.
 
 ## Understanding Market Cycles
 
-Market cycles refer to the natural and repeating sequences of market movements, such as uptrends and downtrends, driven by economic, social, and psychological factors. These cycles can span various timeframes, from short-term cycles lasting a few hours to long-term cycles stretching over several years.
+[Market cycles](../m/market_cycles.md) refer to the natural and repeating sequences of market movements, such as uptrends and downtrends, driven by economic, social, and psychological factors. These cycles can span various timeframes, from short-term cycles lasting a few hours to long-term cycles stretching over several years.
 
 ## The 5-Week Cycle
 
@@ -34,7 +34,7 @@ Advanced statistical models, including autoregressive moving average (ARMA) and 
 
 ### Algorithm Design
 
-To effectively leverage the 5-week cycle, algo-trading strategies can be designed to recognize and capitalize on this cyclical trend. Here’s how:
+To effectively leverage the 5-week cycle, algo-[trading strategies](../t/trading_strategies.md) can be designed to recognize and capitalize on this cyclical trend. Here’s how:
 
 1. **Data Collection and Preprocessing**: Gather historical price data and preprocess it to ensure accuracy. Data should be adjusted for splits, dividends, and other corporate actions.
 
@@ -42,9 +42,9 @@ To effectively leverage the 5-week cycle, algo-trading strategies can be designe
 
 3. **Signal Generation**: Based on cycle detection, the algorithm generates buy, sell, or hold signals. For instance, if the 5-week cycle is confirmed, the algo might initiate a buying position at the cycle's trough and a selling position at its peak.
 
-4. **Backtesting**: Before deploying the algorithm in live trading, backtest it against historical data to evaluate performance and make any necessary adjustments.
+4. **[Backtesting](../b/backtesting.md)**: Before deploying the algorithm in live trading, backtest it against historical data to evaluate performance and make any necessary adjustments.
 
-5. **Position Management**: Implement risk management protocols, such as stop-loss orders and position sizing, to mitigate potential losses.
+5. **[Position Management](../p/position_management.md)**: Implement [risk management](../r/risk_management.md) protocols, such as [stop-loss orders](../s/stop-loss_orders.md) and [position sizing](../p/position_sizing.md), to mitigate potential losses.
 
 ### Example Framework
 
@@ -85,7 +85,7 @@ df[['Close', '35D_MA', 'Signal', 'Position']].tail(10)
 A case study involving a prop trading firm or asset management company could illustrate the practical application of the 5-week cycle.
 
 **XYZ Trading Co.**
-XYZ Trading Co. specializes in algorithmic trading strategies and has successfully integrated the 5-week cycle into its portfolio management approach. By incorporating statistical models to identify cyclical trends, the firm has consistently outperformed benchmarks, particularly in equity markets.
+XYZ Trading Co. specializes in [algorithmic trading](../a/algorithmic_trading.md) strategies and has successfully integrated the 5-week cycle into its [portfolio management](../p/portfolio_management.md) approach. By incorporating statistical models to identify cyclical trends, the firm has consistently outperformed benchmarks, particularly in equity markets.
 
 For more information on their services, visit [XYZ Trading Co.](https://www.xyztradingco.com).
 
@@ -93,16 +93,16 @@ For more information on their services, visit [XYZ Trading Co.](https://www.xyzt
 
 ### Advantages
 
-1. **Pattern Recognition**: Identifying cycles can provide a significant edge in forecasting market movements.
-2. **Risk Management**: Cyclical analysis helps in setting more accurate stop-loss and take-profit levels, reducing risk.
+1. **[Pattern Recognition](../p/pattern_recognition.md)**: Identifying cycles can provide a significant edge in forecasting market movements.
+2. **[Risk Management](../r/risk_management.md)**: Cyclical analysis helps in setting more accurate stop-loss and take-profit levels, reducing risk.
 3. **Automation**: Algorithms can consistently and efficiently detect cycles and execute trades.
 
 ### Disadvantages
 
-1. **False Signals**: Market cycles, including the 5-week cycle, are not foolproof and can generate false signals.
+1. **False Signals**: [Market cycles](../m/market_cycles.md), including the 5-week cycle, are not foolproof and can generate false signals.
 2. **Overfitting**: There is a risk of overfitting models to historical data, leading to poor performance in live trading.
 3. **Complexity**: Implementing advanced statistical models and signal processing techniques requires significant expertise and computational resources.
 
 ## Conclusion
 
-The 5-week cycle presents an intriguing opportunity for traders in algorithmic trading. By using various tools and methods to identify and exploit this cycle, traders can potentially improve their market predictions and overall trading performance. However, it is crucial to be aware of the limitations and to continually refine trading algorithms to adapt to changing market conditions.
+The 5-week cycle presents an intriguing opportunity for traders in [algorithmic trading](../a/algorithmic_trading.md). By using various tools and methods to identify and exploit this cycle, traders can potentially improve their market predictions and overall [trading performance](../t/trading_performance.md). However, it is crucial to be aware of the limitations and to continually refine [trading algorithms](../t/trading_algorithms.md) to adapt to changing market conditions.

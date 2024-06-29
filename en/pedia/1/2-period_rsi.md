@@ -45,14 +45,14 @@ RSI = 100 - [100 / (1 + 3)] = 80
 
 ### Buy and Sell Signals
 
-The main advantage of a 2-period RSI is that it provides more frequent signals than a 14-period RSI, making it viable for day trading or swing trading. Here are some typical signals:
+The main advantage of a 2-period RSI is that it provides more frequent signals than a 14-period RSI, making it viable for [day trading](../d/day_trading.md) or [swing trading](../s/swing_trading.md). Here are some typical signals:
 
 - **Buy Signal:** When the 2-period RSI falls below 10, it might indicate that a stock or other financial instrument is oversold, creating a potential buying opportunity.
 - **Sell Signal:** When the 2-period RSI rises above 90, it might suggest that the instrument is overbought, creating a potential selling opportunity.
 
 ### Combining with Other Indicators
 
-To enhance reliability, traders often combine the 2-period RSI with other indicators such as moving averages, MACD (Moving Average Convergence Divergence), or support and resistance levels. Using multiple indicators helps confirm signals and reduces false positives.
+To enhance reliability, traders often combine the 2-period RSI with other indicators such as moving averages, MACD (Moving Average Convergence Divergence), or [support and resistance](../s/support_and_resistance.md) levels. Using multiple indicators helps confirm signals and reduces false positives.
 
 ### Backtesting and Optimization
 
@@ -62,7 +62,7 @@ Before deploying any trading strategy utilizing the 2-period RSI, it's crucial t
 
 ### Advantages
 
-- **Responsiveness:** The 2-period RSI reacts quickly to market movements, making it highly suitable for short-term trading.
+- **Responsiveness:** The 2-period RSI reacts quickly to market movements, making it highly suitable for [short-term trading](../s/short-term_trading.md).
 - **Simplicity:** The calculation is straightforward and can be easily implemented in various trading platforms.
 
 ### Limitations
@@ -161,4 +161,4 @@ Oversold.SetDefaultColor(GetColor(5));
 
 ## Conclusion
 
-The 2-period RSI is a powerful tool for short-term traders looking to capture quick market movements. While it offers benefits of responsiveness and simplicity, traders should be aware of its limitations and employ complementary indicators and backtesting to optimize their strategies. By effectively integrating the 2-period RSI into a broader trading plan, traders can enhance their chances of successful trades in fast-paced market environments.
+The 2-period RSI is a powerful tool for short-term traders looking to capture quick market movements. While it offers benefits of responsiveness and simplicity, traders should be aware of its limitations and employ complementary indicators and [backtesting](../b/backtesting.md) to optimize their strategies. By effectively integrating the 2-period RSI into a broader trading plan, traders can enhance their chances of successful trades in fast-paced market environments.

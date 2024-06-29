@@ -1,6 +1,6 @@
 # Autocorrelation in Algorithmic Trading
 
-Autocorrelation, also known as serial correlation, refers to the correlation of a time series with its own past and future values. In the context of algorithmic trading, autocorrelation is a crucial concept as it can reveal patterns and structures in the time series data, such as stock prices or trading volumes. Understanding autocorrelation can lead to more effective trading strategies, as it may help in predicting future market behavior based on historical data.
+Autocorrelation, also known as serial correlation, refers to the correlation of a time series with its own past and future values. In the context of [algorithmic trading](../a/algorithmic_trading.md), autocorrelation is a crucial concept as it can reveal patterns and structures in the time series data, such as stock prices or trading volumes. Understanding autocorrelation can lead to more effective [trading strategies](../t/trading_strategies.md), as it may help in predicting future market behavior based on historical data.
 
 ### Understanding Autocorrelation 
 
@@ -12,11 +12,11 @@ where \( R(\tau) \) is the autocorrelation function at lag \( \tau \), \( Y_t \)
 
 ### Applications in Trading
 
-Autocorrelation is widely used in algorithmic trading for various purposes:
+Autocorrelation is widely used in [algorithmic trading](../a/algorithmic_trading.md) for various purposes:
 
-1. **Trend Detection**: Positive autocorrelation can indicate a trend, where returns are consistent in a certain direction over time. Trading algorithms may exploit such trends for making buy or sell decisions.
+1. **Trend Detection**: Positive autocorrelation can indicate a trend, where returns are consistent in a certain direction over time. [Trading algorithms](../t/trading_algorithms.md) may exploit such trends for making buy or sell decisions.
 
-2. **Mean Reversion Strategies**: Negative autocorrelation can signal a mean-reverting series, where extreme values are likely to be followed by values closer to the mean. This can be the basis for strategies that bet on the return to average market conditions.
+2. **[Mean Reversion](../m/mean_reversion.md) Strategies**: Negative autocorrelation can signal a mean-reverting series, where extreme values are likely to be followed by values closer to the mean. This can be the basis for strategies that bet on the return to average market conditions.
 
 3. **Volatility Modeling**: In financial markets, periods of high and low volatility often cluster together. Autocorrelation of squared returns (or absolute returns) is used in models like GARCH (Generalized Autoregressive Conditional Heteroskedasticity) to understand and predict volatility.
 
@@ -40,11 +40,11 @@ In this example, the `autocorr` method of a pandas Series is used to compute the
 
 While autocorrelation can offer valuable insights, it also has limitations:
 
-- **Non-Stationarity**: Financial time series often exhibit non-stationarity, where statistical properties like mean and variance change over time. Non-stationarity can complicate the interpretation of autocorrelation.
+- **Non-Stationarity**: [Financial time series](../f/financial_time_series.md) often exhibit non-stationarity, where statistical properties like mean and variance change over time. Non-stationarity can complicate the interpretation of autocorrelation.
 
-- **Noise and Data Snooping**: High-frequency trading data can include a lot of noise, which may mask the true autocorrelation. Moreover, extensive backtesting for autocorrelation can lead to data snooping biases, where patterns identified may not persist in live trading.
+- **Noise and Data Snooping**: High-frequency trading data can include a lot of noise, which may mask the true autocorrelation. Moreover, extensive [backtesting](../b/backtesting.md) for autocorrelation can lead to data snooping biases, where patterns identified may not persist in live trading.
 
-- **Overfitting**: Over-relying on autocorrelation for developing trading strategies can lead to overfitting. Models that work well on historical data might not perform adequately on new data.
+- **Overfitting**: Over-relying on autocorrelation for developing [trading strategies](../t/trading_strategies.md) can lead to overfitting. Models that work well on historical data might not perform adequately on new data.
 
 ### Practical Example: Autocorrelation in Stock Returns
 
@@ -89,13 +89,13 @@ This script downloads historical price data for Apple Inc. (AAPL), calculates da
 
 ### Companies Specializing in Algorithmic Trading
 
-Several companies have made significant strides in algorithmic trading, leveraging concepts like autocorrelation to develop advanced trading strategies. These firms often employ teams of quantitative analysts, data scientists, and software engineers to create and refine their trading algorithms.
+Several companies have made significant strides in [algorithmic trading](../a/algorithmic_trading.md), leveraging concepts like autocorrelation to develop advanced [trading strategies](../t/trading_strategies.md). These firms often employ teams of quantitative analysts, data scientists, and software engineers to create and refine their [trading algorithms](../t/trading_algorithms.md).
 
-1. **Two Sigma**: A technology-driven hedge fund that uses machine learning, distributed computing, and big data to create quantitative models. [Two Sigma](https://www.twosigma.com/)
+1. **Two Sigma**: A technology-driven hedge fund that uses machine learning, distributed computing, and big data to create [quantitative models](../q/quantitative_models.md). [Two Sigma](https://www.twosigma.com/)
 
-2. **Jane Street**: A proprietary trading firm that adopts a quantitative trading approach across various asset classes. [Jane Street](https://www.janestreet.com/)
+2. **Jane Street**: A [proprietary trading](../p/proprietary_trading.md) firm that adopts a [quantitative trading](../q/quantitative_trading.md) approach across various asset classes. [Jane Street](https://www.janestreet.com/)
 
-3. **Renaissance Technologies**: A pioneer in quantitative trading, known for its Medallion Fund, which has delivered outstanding returns over decades. [Renaissance Technologies](https://www.rentec.com/)
+3. **Renaissance Technologies**: A pioneer in [quantitative trading](../q/quantitative_trading.md), known for its Medallion Fund, which has delivered outstanding returns over decades. [Renaissance Technologies](https://www.rentec.com/)
 
 4. **DE Shaw**: This firm combines quantitative and systematic strategies with traditional investment approaches. [DE Shaw](https://www.deshaw.com/)
 
@@ -103,4 +103,4 @@ Several companies have made significant strides in algorithmic trading, leveragi
 
 ### Conclusion
 
-Autocorrelation is a powerful statistical tool in the arsenal of an algorithmic trader, offering insights into the temporal dependencies within financial time series. By leveraging autocorrelation, traders can detect trends, develop mean-reversion strategies, model volatility, and potentially uncover market inefficiencies. However, it is crucial to be aware of the limitations embedded in autocorrelation analysis and to combine this approach with other quantitative methods for robust strategy development in algorithmic trading.
+Autocorrelation is a powerful statistical tool in the arsenal of an algorithmic trader, offering insights into the temporal dependencies within [financial time series](../f/financial_time_series.md). By leveraging autocorrelation, traders can detect trends, develop mean-reversion strategies, model volatility, and potentially uncover market inefficiencies. However, it is crucial to be aware of the limitations embedded in autocorrelation analysis and to combine this approach with other quantitative methods for robust strategy development in [algorithmic trading](../a/algorithmic_trading.md).

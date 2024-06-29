@@ -1,10 +1,10 @@
 # Detrended Price Oscillator (DPO)
 
-The Detrended Price Oscillator (DPO) is a technical analysis tool designed to remove long-term trends from prices and thereby isolate short-term cycles. By comparing recent prices to a moving average (typically truncated), DPO helps traders and analysts identify market rhythms and spot potential reversal points. Unlike other oscillators, DPO does not extend to the most recent trading periods; this characteristic offers a unique perspective on price movement dynamics.
+The Detrended Price Oscillator (DPO) is a [technical analysis](../t/technical_analysis.md) tool designed to remove long-term trends from prices and thereby isolate short-term cycles. By comparing recent prices to a moving average (typically truncated), DPO helps traders and analysts identify market rhythms and spot potential reversal points. Unlike other oscillators, DPO does not extend to the most recent trading periods; this characteristic offers a unique perspective on price movement dynamics.
 
 ## Purpose and Functionality
 
-DPO aims to highlight price fluctuations relative to a moving average, stripping away the influence of longer-term trends. This focus enables traders to better identify cyclical price patterns and short-term trading opportunities. As prices oscillate above and below the zero line, the DPO helps pinpoint periods of market excess and potential reversals.
+DPO aims to highlight price fluctuations relative to a moving average, stripping away the influence of longer-term trends. This focus enables traders to better identify cyclical [price patterns](../p/price_patterns.md) and [short-term trading](../s/short-term_trading.md) opportunities. As prices oscillate above and below the zero line, the DPO helps pinpoint periods of market excess and potential reversals.
 
 ## Calculation
 
@@ -27,7 +27,7 @@ Where:
 
 DPO values oscillate around the zero line, with positive values indicating that prices are above their historical average (over the defined period) and negative values suggesting that prices are below this average. Key points to consider when interpreting the DPO include:
 
-- **Crossing the Zero Line**: When the DPO crosses from negative to positive territory, it could indicate that price momentum is turning bullish. Conversely, crossing from positive to negative may signal bearish momentum.
+- **Crossing the Zero Line**: When the DPO crosses from negative to positive territory, it could indicate that [price momentum](../p/price_momentum.md) is turning bullish. Conversely, crossing from positive to negative may signal bearish momentum.
 - **Magnitude of Oscillations**: Larger oscillations may point to overbought or oversold conditions, suggesting the possibility of a reversal.
 - **Consistency of Patterns**: Analyzing the frequency and amplitude of oscillations can help detect repetitive short-term cycles within the market.
 
@@ -35,7 +35,7 @@ DPO values oscillate around the zero line, with positive values indicating that 
 
 ### Identification of Cycles
 
-Since DPO removes long-term trends, it is particularly useful for identifying shorter market cycles. Understanding these cycles can help traders time their entries and exits more effectively, especially in markets known for cyclical behavior.
+Since DPO removes long-term trends, it is particularly useful for identifying shorter [market cycles](../m/market_cycles.md). Understanding these cycles can help traders time their entries and exits more effectively, especially in markets known for cyclical behavior.
 
 ### Overbought and Oversold Conditions
 
@@ -43,7 +43,7 @@ DPO can act as a momentum indicator by highlighting periods when prices deviate 
 
 ### Complementary Use with Other Indicators
 
-DPO is often used in conjunction with other technical indicators, such as the Relative Strength Index (RSI) or Moving Average Convergence Divergence (MACD), to confirm signals and enhance trading decisions.
+DPO is often used in conjunction with other [technical indicators](../t/technical_indicators.md), such as the Relative Strength Index (RSI) or Moving Average Convergence Divergence (MACD), to confirm signals and enhance trading decisions.
 
 ## Practical Example
 
@@ -75,7 +75,7 @@ MetaTrader platforms offer built-in support for DPO, allowing traders to easily 
 
 ### NinjaTrader
 
-NinjaTrader also supports DPO through its suite of technical indicators, with customizable settings for period length and visual display options.
+NinjaTrader also supports DPO through its suite of [technical indicators](../t/technical_indicators.md), with customizable settings for period length and visual display options.
 
 ### TradingView
 
@@ -83,10 +83,10 @@ On TradingView, DPO can be added through the built-in indicators library. Trader
 
 ## Conclusion
 
-The Detrended Price Oscillator is a valuable tool for traders seeking to understand and capitalize on short-term market cycles. By filtering out long-term trends, DPO offers a focused view on price fluctuations, assisting in the identification of overbought or oversold conditions and potential reversals. However, its effectiveness is maximized when used alongside complementary technical indicators and within a broader market context.
+The Detrended Price Oscillator is a valuable tool for traders seeking to understand and capitalize on short-term [market cycles](../m/market_cycles.md). By filtering out long-term trends, DPO offers a focused view on price fluctuations, assisting in the identification of overbought or oversold conditions and potential reversals. However, its effectiveness is maximized when used alongside complementary [technical indicators](../t/technical_indicators.md) and within a broader market context.
 
 ## References
 
 - [MetaTrader](https://www.metatrader4.com)
 - [NinjaTrader](https://ninjatrader.com)
-- [TradingView](https://www.tradingview.com)
+- [TradingView](https://www.tradingview.com)

@@ -1,6 +1,6 @@
 # Average Directional Index (ADX)
 
-The Average Directional Index (ADX) is a technical analysis indicator developed by J. Welles Wilder Jr. in 1978. It is used to quantify the strength of a trend in a financial market, whether the trend is upward or downward. The ADX is part of the Directional Movement System and is typically plotted as a single line, which helps traders to distinguish between strong and weak trends.
+The Average Directional Index (ADX) is a [technical analysis](../t/technical_analysis.md) indicator developed by J. Welles Wilder Jr. in 1978. It is used to quantify the strength of a trend in a financial market, whether the trend is upward or downward. The ADX is part of the Directional Movement System and is typically plotted as a single line, which helps traders to distinguish between strong and weak trends.
 
 ## Components of ADX
 
@@ -39,11 +39,11 @@ When combined, the ADX, +DI, and -DI provide a comprehensive view of market tren
 
 ## Use Cases in Algorithmic Trading
 
-In algorithmic trading, the ADX is often used in various strategic approaches, including:
+In [algorithmic trading](../a/algorithmic_trading.md), the ADX is often used in various strategic approaches, including:
 
-1. **Trend Following**: Algorithms can enter or exit trades based on whether the ADX indicates a strong or weak trend.
+1. **[Trend Following](../t/trend_following.md)**: Algorithms can enter or exit trades based on whether the ADX indicates a strong or weak trend.
 2. **Volatility Filters**: ADX values can act as filters to ensure that trades are only initiated when there is sufficient market movement.
-3. **Risk Management**: ADX can be used to adjust position sizing according to trend strength to manage risk better.
+3. **[Risk Management](../r/risk_management.md)**: ADX can be used to adjust [position sizing](../p/position_sizing.md) according to trend strength to manage risk better.
 
 ## Limitations of ADX
 
@@ -111,7 +111,7 @@ Several financial platforms and tools support the ADX indicator. Notable example
 2. **TradeStation**: A comprehensive trading platform that supports advanced indicator scripting, including ADX.
 3. **TradingView**: An online platform known for its powerful charting tools and extensive indicator library, including ADX.
 
-Each of these platforms provides customization features allowing traders to tweak ADX settings to fit their trading strategies.
+Each of these platforms provides customization features allowing traders to tweak ADX settings to fit their [trading strategies](../t/trading_strategies.md).
 
 **MetaTrader**: [MetaTrader](https://www.metatrader4.com/)
 
@@ -119,4 +119,4 @@ Each of these platforms provides customization features allowing traders to twea
 
 **TradingView**: [TradingView](https://www.tradingview.com/)
 
-In conclusion, the Average Directional Index (ADX) is an essential tool in the arsenal of both manual and algorithmic traders. It provides a quantitative measure of trend strength, helping traders make informed decisions on market entry and exit points. While it has its limitations, when used correctly, the ADX can significantly enhance the effectiveness of a trading strategy.
+In conclusion, the Average Directional Index (ADX) is an essential tool in the arsenal of both manual and algorithmic traders. It provides a quantitative measure of trend strength, helping traders make informed decisions on market entry and exit points. While it has its limitations, when used correctly, the ADX can significantly enhance the effectiveness of a trading strategy.

@@ -1,6 +1,6 @@
 # 5-3-5 Elliott Wave
 
-The Elliott Wave Principle, named after Ralph Nelson Elliott, is a form of technical analysis that traders use to analyze financial market cycles and forecast future market behavior by identifying extremes in investor psychology, highs and lows in prices, and other collective factors. One of its fundamental patterns is the 5-3-5 Elliott Wave, a combination of impulse waves and corrective waves.
+The Elliott Wave Principle, named after Ralph Nelson Elliott, is a form of [technical analysis](../t/technical_analysis.md) that traders use to analyze financial [market cycles](../m/market_cycles.md) and forecast future market behavior by identifying extremes in investor psychology, highs and lows in prices, and other collective factors. One of its fundamental patterns is the 5-3-5 Elliott Wave, a combination of impulse waves and corrective waves.
 
 ## Understanding the Elliott Wave Principle
 
@@ -28,7 +28,7 @@ The corrective wave B goes against the direction of waves A and C. It aims to co
 
 ### The Zigzag Correction
 
-Among the many corrective patterns in the Elliott Wave Theory, the zigzag is the most common and straightforward 5-3-5 pattern. Here is a breakdown:
+Among the many corrective patterns in the [Elliott Wave Theory](../e/elliott_wave_theory.md), the zigzag is the most common and straightforward 5-3-5 pattern. Here is a breakdown:
   - **Wave A**: An impulse wave consisting of five smaller waves.
   - **Wave B**: A corrective wave consisting of three smaller waves.
   - **Wave C**: Another impulse wave consisting of five smaller waves.
@@ -46,13 +46,13 @@ For accurate application of the Elliott Wave Principle and identification of the
 
 ### Criticism and Practical Considerations
 
-Although widely used, the Elliott Wave Principle, including the 5-3-5 pattern, has faced criticism for being overly subjective. Identification of waves can be ambiguous, and different analysts may interpret the same market differently. Therefore, it requires a deep understanding of market conditions and a combination of other technical analysis tools.
+Although widely used, the Elliott Wave Principle, including the 5-3-5 pattern, has faced criticism for being overly subjective. Identification of waves can be ambiguous, and different analysts may interpret the same market differently. Therefore, it requires a deep understanding of market conditions and a combination of other [technical analysis](../t/technical_analysis.md) tools.
 
 ## Conclusion
 
-The 5-3-5 Elliott Wave pattern is a fundamental concept within the Elliott Wave Theory, embodying the principle of market cycles and fractal nature. By mastering the identification and characteristics of this pattern, traders can gain invaluable insights into market corrections and potential reversals, giving them an edge in forecasting future market movements.
+The 5-3-5 Elliott Wave pattern is a fundamental concept within the [Elliott Wave Theory](../e/elliott_wave_theory.md), embodying the principle of [market cycles](../m/market_cycles.md) and fractal nature. By mastering the identification and characteristics of this pattern, traders can gain invaluable insights into market corrections and potential reversals, giving them an edge in forecasting future market movements.
 
-For more detailed learning, traders and analysts may refer to educational institutions or companies specializing in technical analysis and Elliott Wave Theory, such as:
+For more detailed learning, traders and analysts may refer to educational institutions or companies specializing in [technical analysis](../t/technical_analysis.md) and [Elliott Wave Theory](../e/elliott_wave_theory.md), such as:
 - [Elliott Wave International](https://www.elliottwave.com)
 
-Mastery of the 5-3-5 Elliott Wave pattern, along with other Elliott Wave structures, can potentially improve trading strategies and market analysis, aligning with the dynamic behavior of financial markets.
+Mastery of the 5-3-5 Elliott Wave pattern, along with other Elliott Wave structures, can potentially improve [trading strategies](../t/trading_strategies.md) and market analysis, aligning with the dynamic behavior of financial markets.

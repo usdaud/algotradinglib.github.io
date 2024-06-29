@@ -1,23 +1,23 @@
 # Day Trading Strategies
 
-Day trading is a popular trading strategy that involves buying and selling financial instruments within the same trading day. This approach requires a deep understanding of market mechanics, disciplined risk management, and effective strategy execution. Below, we delve into several day trading strategies that traders use to capitalize on short-term market movements.
+[Day trading](../d/day_trading.md) is a popular trading strategy that involves buying and selling financial instruments within the same trading day. This approach requires a deep understanding of market mechanics, disciplined [risk management](../r/risk_management.md), and effective strategy execution. Below, we delve into several [day trading](../d/day_trading.md) strategies that traders use to capitalize on short-term market movements.
 
 ## Scalping
 
-Scalping is one of the fastest day trading strategies, aiming to capitalize on small price gaps created by order flows or spreads. Scalpers execute dozens or even hundreds of trades in a single day, hoping to "scalp" a small profit from each trade.
+Scalping is one of the fastest [day trading](../d/day_trading.md) strategies, aiming to capitalize on small price gaps created by order flows or spreads. Scalpers execute dozens or even hundreds of trades in a single day, hoping to "scalp" a small profit from each trade.
 
 ### Characteristics of Scalping:
 
 1. **High Frequency**: Trades are placed frequently within short periods.
 2. **Low Holding Time**: Positions are held from seconds to minutes.
 3. **Minor Price Movements**: Profits are based on minor price fluctuations.
-4. **Tight Stop-Loss**: Using tight stop-loss orders to reduce exposure.
+4. **Tight Stop-Loss**: Using tight [stop-loss orders](../s/stop-loss_orders.md) to reduce exposure.
 
 ### Tools for Scalping:
 
 1. **Level II Quotes**: Provide real-time order book data.
 2. **Time and Sales**: Show actual trade executions.
-3. **Trading Algorithms**: Execute trades at high speed.
+3. **[Trading Algorithms](../t/trading_algorithms.md)**: Execute trades at high speed.
 
 ### Example:
 
@@ -25,19 +25,19 @@ A trader identifies a stock with low volatility but substantial trading volume, 
 
 ## Momentum Trading
 
-Momentum trading involves identifying and trading stocks moving significantly in one direction on high volume. The strategy is based on the belief that these stocks will continue to move in the same direction for some time.
+[Momentum trading](../m/momentum_trading.md) involves identifying and trading stocks moving significantly in one direction on high volume. The strategy is based on the belief that these stocks will continue to move in the same direction for some time.
 
 ### Characteristics of Momentum Trading:
 
-1. **Trend Following**: Looking for stocks that are trending strongly.
-2. **Volume Analysis**: Focus on stocks with significant volume changes.
-3. **Entry and Exit Signals**: Using technical indicators like Moving Average Convergence Divergence (MACD) or Relative Strength Index (RSI).
+1. **[Trend Following](../t/trend_following.md)**: Looking for stocks that are trending strongly.
+2. **[Volume Analysis](../v/volume_analysis.md)**: Focus on stocks with significant volume changes.
+3. **Entry and Exit Signals**: Using [technical indicators](../t/technical_indicators.md) like Moving Average Convergence Divergence (MACD) or Relative Strength Index (RSI).
 
 ### Tools for Momentum Trading:
 
 1. **MACD**: Measures the relationship between two moving averages.
 2. **RSI**: Calculates the speed and change of price movements.
-3. **Volume Indicators**: Track the trading volume to confirm trends.
+3. **[Volume Indicators](../v/volume_indicators.md)**: Track the trading volume to confirm trends.
 
 ### Example:
 
@@ -45,17 +45,17 @@ A trader identifies a stock showing a strong upward trend with increasing volume
 
 ## Breakout Trading
 
-Breakout trading seeks to enter the market when the price moves beyond defined support or resistance levels. These breakouts often lead to significant price volatility and offer potential profit opportunities.
+[Breakout trading](../b/breakout_trading.md) seeks to enter the market when the price moves beyond defined support or resistance levels. These breakouts often lead to significant price volatility and offer potential profit opportunities.
 
 ### Characteristics of Breakout Trading:
 
-1. **Pre-Defined Levels**: Identifying key support and resistance levels.
-2. **Volume Confirmation**: High volume on the breakout confirms the direction.
+1. **Pre-Defined Levels**: Identifying [key support and resistance levels](../k/key_support_and_resistance_levels.md).
+2. **[Volume Confirmation](../v/volume_confirmation.md)**: High volume on the breakout confirms the direction.
 3. **Volatility**: Capturing strong, volatile price movements.
 
 ### Tools for Breakout Trading:
 
-1. **Charts**: Technical charts to identify support and resistance.
+1. **Charts**: Technical charts to identify [support and resistance](../s/support_and_resistance.md).
 2. **Trendlines**: Drawing lines to visualize breakout points.
 3. **Volume Metrics**: Checking volume spikes for validation.
 
@@ -71,13 +71,13 @@ Reversal trading is based on identifying the point at which a current trend will
 
 1. **Trend Exhaustion**: Identifying when a trend is losing momentum.
 2. **Divergence Indicators**: Tools like RSI or MACD showing divergence from price trend.
-3. **Pattern Recognition**: Recognizing reversal patterns like Head and Shoulders or Double Tops/Bottoms.
+3. **[Pattern Recognition](../p/pattern_recognition.md)**: Recognizing [reversal patterns](../r/reversal_patterns.md) like Head and Shoulders or Double Tops/Bottoms.
 
 ### Tools for Reversal Trading:
 
 1. **Trendlines**: Determining the direction and strength of the trend.
 2. **Divergence Analysis**: Comparing price movements with indicator signals.
-3. **Candlestick Patterns**: Identifying patterns signaling trend reversals.
+3. **[Candlestick Patterns](../c/candlestick_patterns.md)**: Identifying patterns signaling trend reversals.
 
 ### Example:
 
@@ -85,19 +85,19 @@ A trader uses RSI to spot a divergence where the price makes new highs, but RSI 
 
 ## Range Trading
 
-Range trading involves identifying securities trading within a range and executing trades at support and resistance levels within that range. It works best in markets without a clear long-term trend.
+[Range trading](../r/range_trading.md) involves identifying securities trading within a range and executing trades at [support and resistance](../s/support_and_resistance.md) levels within that range. It works best in markets without a clear long-term trend.
 
 ### Characteristics of Range Trading:
 
-1. **Horizontal Price Levels**: Identifying consistent support and resistance levels.
+1. **Horizontal Price Levels**: Identifying consistent [support and resistance](../s/support_and_resistance.md) levels.
 2. **Sideways Market**: Securities moving within a horizontal range.
-3. **Mean Reversion**: Expecting prices to revert to the mean within the range.
+3. **[Mean Reversion](../m/mean_reversion.md)**: Expecting prices to revert to the mean within the range.
 
 ### Tools for Range Trading:
 
-1. **Support & Resistance**: Identifying horizontal support and resistance levels.
+1. **Support & Resistance**: Identifying horizontal [support and resistance](../s/support_and_resistance.md) levels.
 2. **Oscillators**: Using oscillators like RSI or Stochastic to find overbought or oversold conditions.
-3. **Bollinger Bands**: Aiding in identifying price volatility and range.
+3. **[Bollinger Bands](../b/bollinger_bands.md)**: Aiding in identifying price volatility and range.
 
 ### Example:
 
@@ -105,7 +105,7 @@ A trader spots a stock that bounces between $50 and $60. They go long at $50 and
 
 ## News-Based Trading
 
-News-based trading capitalizes on market volatility created by news events. These can be earnings reports, economic data, or geopolitical events. Reaction to news catalysts creates significant price movement opportunities.
+News-based trading capitalizes on market volatility created by news events. These can be earnings reports, economic data, or [geopolitical events](../g/geopolitical_events.md). Reaction to news catalysts creates significant price movement opportunities.
 
 ### Characteristics of News-Based Trading:
 
@@ -125,7 +125,7 @@ A trader monitors an earnings report of a major tech company. Upon positive earn
 
 ## Pairs Trading
 
-Pairs trading involves trading two related securities to profit from their price deviations. This market-neutral strategy means profits are earned from the relative performance of the two securities, not the direction of the market.
+[Pairs trading](../p/pairs_trading.md) involves trading two related securities to profit from their price deviations. This market-neutral strategy means profits are earned from the relative performance of the two securities, not the direction of the market.
 
 ### Characteristics of Pairs Trading:
 
@@ -165,21 +165,21 @@ A high-frequency trader sets up an algorithm to exploit a 1-cent price discrepan
 
 ## Risk Management in Day Trading
 
-Risk management is crucial in day trading due to the high leverage and high frequency of trades. Proper risk management ensures that no single trade can significantly impact the trader's capital.
+[Risk management](../r/risk_management.md) is crucial in [day trading](../d/day_trading.md) due to the high leverage and high frequency of trades. Proper [risk management](../r/risk_management.md) ensures that no single trade can significantly impact the trader's capital.
 
 ### Risk Management Strategies:
 
-1. **Stop-Loss Orders**: Predetermined exit points to limit losses.
-2. **Position Sizing**: Calculating the number of shares/contracts to trade based on the trader's risk tolerance.
+1. **[Stop-Loss Orders](../s/stop-loss_orders.md)**: Predetermined exit points to limit losses.
+2. **[Position Sizing](../p/position_sizing.md)**: Calculating the number of shares/contracts to trade based on the trader's risk tolerance.
 3. **Diversification**: Trading a variety of instruments to spread risk.
 4. **Daily Loss Limits**: Setting a maximum amount one can lose in a single day.
 
 ### Example:
 
-A trader with a $10,000 account might decide not to risk more than 1% on any single trade, setting their stop-loss orders accordingly to limit potential losses to $100 per trade.
+A trader with a $10,000 account might decide not to risk more than 1% on any single trade, setting their [stop-loss orders](../s/stop-loss_orders.md) accordingly to limit potential losses to $100 per trade.
 
 ---
 
-Day trading requires a strong understanding of market dynamics, quick decision-making, and strict discipline. The strategies outlined above offer various approaches to profiting from intraday price movements, catering to different trading styles and risk preferences. Whether one opts for scalping, momentum trading, or pairs trading, the key to success lies in consistent strategy execution and adherence to sound risk management principles.
+[Day trading](../d/day_trading.md) requires a strong understanding of market dynamics, quick decision-making, and strict discipline. The strategies outlined above offer various approaches to profiting from intraday price movements, catering to different trading styles and risk preferences. Whether one opts for scalping, [momentum trading](../m/momentum_trading.md), or [pairs trading](../p/pairs_trading.md), the key to success lies in consistent strategy execution and adherence to sound [risk management](../r/risk_management.md) principles.
 
-For more in-depth resources on day trading strategies, consider exploring educational courses offered by [Investopedia Academy](https://www.investopedia.com/academy/) or trading platforms like [Thinkorswim by TD Ameritrade](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page).
+For more in-depth resources on [day trading](../d/day_trading.md) strategies, consider exploring educational courses offered by [Investopedia Academy](https://www.investopedia.com/academy/) or trading platforms like [Thinkorswim by TD Ameritrade](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page).

@@ -1,6 +1,6 @@
 ### 7-Day Moving Average in Algorithmic Trading
 
-The 7-day moving average is a technical indicator commonly used in algorithmic trading to smooth out short-term fluctuations and highlight longer-term trends in price data. As a widely utilized tool, it helps traders and analysts make more informed decisions by filtering out the "noise" from random price movements, thereby providing a clearer view of the underlying price trajectory.
+The 7-day moving average is a technical indicator commonly used in [algorithmic trading](../a/algorithmic_trading.md) to smooth out short-term fluctuations and highlight longer-term trends in price data. As a widely utilized tool, it helps traders and analysts make more informed decisions by filtering out the "noise" from random price movements, thereby providing a clearer view of the underlying price trajectory.
 
 #### Definition
 
@@ -43,15 +43,15 @@ This process is repeated for each subsequent day to produce a smooth curve that 
 
 #### Application in Algorithmic Trading
 
-In algorithmic trading, the 7-day moving average can be used in various strategies:
+In [algorithmic trading](../a/algorithmic_trading.md), the 7-day moving average can be used in various strategies:
 
-1. **Trend Following:** Traders use the 7-day moving average to identify the trend direction. If the price is above the moving average, it suggests an uptrend, while a price below the moving average suggests a downtrend.
+1. **[Trend Following](../t/trend_following.md):** Traders use the 7-day moving average to identify the trend direction. If the price is above the moving average, it suggests an uptrend, while a price below the moving average suggests a downtrend.
 2. **Crossover Strategies:** A popular technique involves using two moving averages of different periods. For example, a 7-day moving average might be used in conjunction with a 21-day moving average. When the 7-day moving average crosses above the 21-day moving average, it generates a buy signal, indicating a potential upward trend. Conversely, when the 7-day moving average crosses below the 21-day moving average, it generates a sell signal.
-3. **Support and Resistance Levels:** Moving averages can act as dynamic support and resistance levels. Traders watch how the price interacts with the 7-day moving average. Often, the price may "bounce" off the moving average, providing trading opportunities.
+3. **[Support and Resistance](../s/support_and_resistance.md) Levels:** Moving averages can act as dynamic [support and resistance](../s/support_and_resistance.md) levels. Traders watch how the price interacts with the 7-day moving average. Often, the price may "bounce" off the moving average, providing trading opportunities.
 
 #### Examples in Trading Algorithms
 
-1. **Mean Reversion Strategy:** A mean reversion strategy might involve identifying periods when the stock price deviates significantly from its 7-day moving average, with the expectation that the price will revert to the mean. If the price moves too far above the 7-day moving average, it might be considered overbought, generating a sell signal. Conversely, if the price moves too far below the 7-day moving average, it might be considered oversold, generating a buy signal.
+1. **[Mean Reversion](../m/mean_reversion.md) Strategy:** A [mean reversion](../m/mean_reversion.md) strategy might involve identifying periods when the stock price deviates significantly from its 7-day moving average, with the expectation that the price will revert to the mean. If the price moves too far above the 7-day moving average, it might be considered overbought, generating a sell signal. Conversely, if the price moves too far below the 7-day moving average, it might be considered oversold, generating a buy signal.
    
 2. **Momentum Strategies:** In momentum strategies, the 7-day moving average can be used to confirm momentum. If the stock’s price is consistently above the 7-day moving average and the moving average is sloping upward, it indicates strong upward momentum, signaling a buy. If the price is below the 7-day moving average and the moving average is sloping downward, it signals strong downward momentum, leading to a sell.
 
@@ -88,11 +88,11 @@ While the 7-day moving average is a powerful tool, it has its limitations:
 
 #### Implementation in Trading Platforms
 
-Many trading platforms and financial services provide tools to implement moving averages in trading strategies. For example:
+Many trading platforms and financial services provide tools to implement moving averages in [trading strategies](../t/trading_strategies.md). For example:
 
-- **MetaTrader 4/5:** Offers built-in tools for moving averages and customizable expert advisors to automate trading strategies.
-- **NinjaTrader:** Provides a suite of technical analysis tools, including moving averages, and supports custom script development.
-- **Interactive Brokers:** Through its Trader Workstation, Interactive Brokers supports a variety of moving average types and periods, which can be used in automated trading algorithms.
+- **MetaTrader 4/5:** Offers built-in tools for moving averages and customizable expert advisors to automate [trading strategies](../t/trading_strategies.md).
+- **NinjaTrader:** Provides a suite of [technical analysis](../t/technical_analysis.md) tools, including moving averages, and supports custom script development.
+- **Interactive Brokers:** Through its Trader Workstation, Interactive Brokers supports a variety of moving average types and periods, which can be used in automated [trading algorithms](../t/trading_algorithms.md).
 
 #### Further Reading
 
@@ -102,4 +102,4 @@ For those interested in delving deeper into the topic of moving averages and the
 - [Interactive Brokers - Trader Workstation](https://www.interactivebrokers.com/en/index.php?f=14099): A platform providing advanced trading tools and indicators including moving averages.
 - [MetaTrader 4/5](https://www.metatrader4.com/): Comprehensive trading platforms widely used in retail and institutional trading.
 
-In conclusion, the 7-day moving average is a versatile and widely-used indicator in algorithmic trading, serving as a fundamental tool for identifying trends, generating trading signals, and smoothing out price data. Despite its limitations, when used correctly, it can significantly enhance a trader’s decision-making process.
+In conclusion, the 7-day moving average is a versatile and widely-used indicator in [algorithmic trading](../a/algorithmic_trading.md), serving as a fundamental tool for identifying trends, generating [trading signals](../t/trading_signals.md), and smoothing out price data. Despite its limitations, when used correctly, it can significantly enhance a trader’s decision-making process.

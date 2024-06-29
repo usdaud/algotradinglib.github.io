@@ -1,6 +1,6 @@
 # Debiasing Techniques
 
-Debiasing techniques in algorithmic trading are methods used to correct or mitigate biases that can emerge in financial models and trading strategies. These biases can result from various sources, including historical data, human judgment, or computational constraints. Effective debiasing can improve the performance and fairness of trading algorithms, leading to more robust and reliable trading outcomes. This document delves into various types of biases encountered in algorithmic trading and discusses several advanced debiasing techniques used to address them.
+Debiasing techniques in [algorithmic trading](../a/algorithmic_trading.md) are methods used to correct or mitigate biases that can emerge in financial models and [trading strategies](../t/trading_strategies.md). These biases can result from various sources, including historical data, human judgment, or computational constraints. Effective debiasing can improve the performance and fairness of [trading algorithms](../t/trading_algorithms.md), leading to more robust and reliable trading outcomes. This document delves into various types of biases encountered in [algorithmic trading](../a/algorithmic_trading.md) and discusses several advanced debiasing techniques used to address them.
 
 ## Types of Biases in Algorithmic Trading
 
@@ -8,16 +8,16 @@ Debiasing techniques in algorithmic trading are methods used to correct or mitig
 Historical bias occurs when the trading model is overly reliant on past data, which may not accurately represent future market conditions. This type of bias can lead to overfitting, where the model performs exceptionally well on historical data but fails to generalize to real-time trading.
 
 ### 2. Survivorship Bias
-Survivorship bias arises when only the successful entities (such as stocks that have not gone bankrupt) are considered in the dataset, ignoring those that have failed. This can lead to an overestimation of performance metrics.
+[Survivorship bias](../s/survivorship_bias.md) arises when only the successful entities (such as stocks that have not gone bankrupt) are considered in the dataset, ignoring those that have failed. This can lead to an overestimation of [performance metrics](../p/performance_metrics.md).
 
 ### 3. Confirmation Bias
-Confirmation bias is the tendency to search for, interpret, and remember information in a way that confirms one's preconceptions. In trading, this can lead to selective thinking and skewed analysis.
+[Confirmation bias](../c/confirmation_bias.md) is the tendency to search for, interpret, and remember information in a way that confirms one's preconceptions. In trading, this can lead to selective thinking and skewed analysis.
 
 ### 4. Look-Ahead Bias
-Look-ahead bias occurs when information that would not have been available during the historical period under consideration is used to generate signals, leading to unrealistic performance metrics.
+[Look-ahead bias](../l/look-ahead_bias.md) occurs when information that would not have been available during the historical period under consideration is used to generate signals, leading to unrealistic [performance metrics](../p/performance_metrics.md).
 
 ### 5. Data-Snooping Bias
-Data-snooping bias happens when multiple trading rules or models are evaluated against the same dataset, leading to over-optimization and the illusion of strong performance.
+Data-snooping bias happens when multiple [trading rules](../t/trading_rules.md) or models are evaluated against the same dataset, leading to over-optimization and the illusion of strong performance.
 
 ### 6. Selection Bias
 Selection bias emerges when the sample data is not representative of the entire universe of data. This can occur due to manual selection or automated filtering processes that inadvertently exclude critical data.
@@ -55,7 +55,7 @@ Conducting backtests on periods of data that were not used in the model developm
 Anchored walk-forward cross-validation partitions the data into sequential training and testing periods, maintaining the chronological order. This method simulates real trading conditions and helps evaluate the model's time-series generalization.
 
 ### 10. Bayesian Methods
-Bayesian methods incorporate prior knowledge into the model training process, providing a probabilistic framework to handle uncertainty. Bayesian inference can help mitigate biases by integrating prior distributions and updating beliefs in a systematic manner.
+Bayesian methods incorporate prior knowledge into the model training process, providing a probabilistic framework to handle uncertainty. [Bayesian inference](../b/bayesian_inference.md) can help mitigate biases by integrating prior distributions and updating beliefs in a systematic manner.
 
 ### 11. Probabilistic Programming
 Probabilistic programming languages such as Stan, PyMC3, and TensorFlow Probability offer tools to define and infer complex probabilistic models. These languages enable the modeling of uncertainties and biases more explicitly and rigorously.
@@ -78,20 +78,20 @@ Robust statistical tests like the Mann-Whitney U test and the Wilcoxon signed-ra
 ## Practical Examples of Debiasing Techniques
 
 ### Ray Dalio's Bridgewater Associates
-Bridgewater Associates, founded by Ray Dalio, is known for its systematic and rule-based trading strategies. The firm employs extensive debiasing techniques such as stress-testing models against historical crises and diversifying across asset classes to mitigate biases.
+Bridgewater Associates, founded by Ray Dalio, is known for its systematic and [rule-based trading](../r/rule-based_trading.md) strategies. The firm employs extensive debiasing techniques such as stress-testing models against historical crises and diversifying across asset classes to mitigate biases.
 
 Website: [Bridgewater Associates](https://www.bridgewater.com/)
 
 ### Renaissance Technologies
-Founded by James Simons, Renaissance Technologies uses quantitative models based on mathematical and statistical methods. The firm is reputed for its rigorous testing and validation processes, including cross-validation and ensemble methods, to reduce biases.
+Founded by James Simons, Renaissance Technologies uses [quantitative models](../q/quantitative_models.md) based on mathematical and statistical methods. The firm is reputed for its rigorous testing and validation processes, including cross-validation and ensemble methods, to reduce biases.
 
 Website: [Renaissance Technologies](https://www.rentec.com/)
 
 ### AQR Capital Management
-Cliff Asness's AQR Capital Management employs sophisticated debiasing techniques such as Bayesian methods and robust loss functions to enhance their systematic trading models' performance.
+Cliff Asness's AQR Capital Management employs sophisticated debiasing techniques such as Bayesian methods and robust loss functions to enhance their [systematic trading](../s/systematic_trading.md) models' performance.
 
 Website: [AQR Capital Management](https://www.aqr.com/)
 
 ## Conclusion
 
-The significance of debiasing techniques in algorithmic trading cannot be overstated. By addressing various biases, these techniques enable the creation of more robust, reliable, and fair trading algorithms. Whether through traditional statistical methods or advanced machine learning approaches, the consistent application of debiasing techniques is crucial for achieving sustainable success in algorithmic trading.
+The significance of debiasing techniques in [algorithmic trading](../a/algorithmic_trading.md) cannot be overstated. By addressing various biases, these techniques enable the creation of more robust, reliable, and fair [trading algorithms](../t/trading_algorithms.md). Whether through traditional statistical methods or advanced machine learning approaches, the consistent application of debiasing techniques is crucial for achieving sustainable success in [algorithmic trading](../a/algorithmic_trading.md).

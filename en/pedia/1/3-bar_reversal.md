@@ -1,7 +1,7 @@
 # 3-Bar Reversal
 
 ## Introduction
-3-Bar Reversal is a technical trading pattern used primarily in algorithmic trading. It is a type of price pattern that indicates a potential reversal in the current trend of a financial instrument. Although commonly employed in manual trading strategies, its rules-based structure makes it ideal for integration into automated trading systems. This strategy is popular among day traders and swing traders looking to capture quick reversals in the market.
+3-Bar Reversal is a technical trading pattern used primarily in [algorithmic trading](../a/algorithmic_trading.md). It is a type of price pattern that indicates a potential reversal in the current trend of a financial instrument. Although commonly employed in manual [trading strategies](../t/trading_strategies.md), its rules-based structure makes it ideal for integration into [automated trading systems](../a/automated_trading_systems.md). This strategy is popular among day traders and swing traders looking to capture quick reversals in the market.
 
 ## Anatomy of the 3-Bar Reversal Pattern
 The 3-Bar Reversal pattern consists of three consecutive bars (candlesticks):
@@ -51,11 +51,11 @@ In this example, the third day's closing price ($97) is higher than the first da
 Here, the third day's closing price ($102) is lower than the first day’s low ($100), indicating a bearish 3-bar reversal.
 
 ## Applications in Algorithmic Trading
-Algorithmic traders use 3-bar reversal patterns to automate the decision-making process. The pattern is incorporated into trading algorithms to:
+Algorithmic traders use 3-bar [reversal patterns](../r/reversal_patterns.md) to automate the decision-making process. The pattern is incorporated into [trading algorithms](../t/trading_algorithms.md) to:
 
 1. **Identify Entry Points**: The completion of a 3-bar reversal pattern is treated as a signal to enter a trade in the direction of the reversal.
-2. **Set Stop-Loss Orders**: To manage risk, stop-loss orders are often set at the high (for bearish reversals) or low (for bullish reversals) of the reversal bar.
-3. **Optimize Algorithms**: Backtesting on historical data is used to optimize parameters and ensure the effectiveness of the 3-bar reversal strategy.
+2. **Set [Stop-Loss Orders](../s/stop-loss_orders.md)**: To manage risk, [stop-loss orders](../s/stop-loss_orders.md) are often set at the high (for bearish reversals) or low (for bullish reversals) of the reversal bar.
+3. **Optimize Algorithms**: [Backtesting](../b/backtesting.md) on historical data is used to optimize parameters and ensure the effectiveness of the 3-bar reversal strategy.
 
 ## Coding the 3-Bar Reversal Strategy
 
@@ -106,7 +106,7 @@ Although effective, the 3-bar reversal pattern has its limitations:
 3. **Lagging Indicator**: Being a reversal pattern, it lags behind the current price action and may miss the optimal entry or exit points.
 
 ## Case Study: QuantConnect Integration
-QuantConnect is a cloud-based platform that provides algorithmic trading infrastructure capable of implementing various trading strategies, including the 3-bar reversal pattern. Users can write code in Python, C#, or F# to backtest and deploy their strategies. For more details, visit their website: [QuantConnect](https://www.quantconnect.com/).
+QuantConnect is a cloud-based platform that provides [algorithmic trading](../a/algorithmic_trading.md) infrastructure capable of implementing various [trading strategies](../t/trading_strategies.md), including the 3-bar reversal pattern. Users can write code in Python, C#, or F# to backtest and deploy their strategies. For more details, visit their website: [QuantConnect](https://www.quantconnect.com/).
 
 ### Implementation Example:
 ```python
@@ -146,6 +146,6 @@ class ThreeBarReversalAlgorithm(QCAlgorithm):
 ```
 
 ## Conclusion
-The 3-Bar Reversal is a powerful pattern for detecting potential trend reversals in financial markets. Its structured nature facilitates easy integration into algorithmic trading systems, where it can be used to trigger buy and sell signals based on predefined criteria. However, it's essential to consider its limitations and backtest thoroughly to ensure its effectiveness in different market conditions.
+The 3-Bar Reversal is a powerful pattern for detecting potential trend reversals in financial markets. Its structured nature facilitates easy integration into [algorithmic trading](../a/algorithmic_trading.md) systems, where it can be used to trigger buy and sell signals based on predefined criteria. However, it's essential to consider its limitations and backtest thoroughly to ensure its effectiveness in different market conditions.
 
-By leveraging platforms like QuantConnect, traders can develop, backtest, and deploy sophisticated strategies that incorporate the 3-bar reversal pattern, aligning automated decisions with their trading goals.
+By leveraging platforms like QuantConnect, traders can develop, backtest, and deploy sophisticated strategies that incorporate the 3-bar reversal pattern, aligning automated decisions with their trading goals.

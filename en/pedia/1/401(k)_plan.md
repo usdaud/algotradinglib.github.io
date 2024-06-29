@@ -16,7 +16,7 @@ Many employers opt to match a portion of employee contributions to the 401(k) pl
 The IRS sets annual limits on how much an individual can contribute to a 401(k). For example, in 2023, the contribution limit is $22,500 for those under 50 and an additional "catch-up" contribution of $7,500 for those aged 50 and above. These limits are periodically adjusted for inflation.
 
 ### Investment Options
-Employers typically offer a variety of investment options within a 401(k) plan, including mutual funds, stocks, and bonds. Participants can generally choose their own asset allocation according to their risk tolerance and financial goals. Some plans also offer target-date funds, which automatically adjust the asset allocation based on the participant's age and expected retirement date.
+Employers typically offer a variety of investment options within a 401(k) plan, including mutual funds, stocks, and bonds. Participants can generally choose their own [asset allocation](../a/asset_allocation.md) according to their risk tolerance and financial goals. Some plans also offer target-date funds, which automatically adjust the [asset allocation](../a/asset_allocation.md) based on the participant's age and expected retirement date.
 
 ---
 
@@ -52,7 +52,7 @@ Participants are generally required to begin taking distributions from their 401
 ## Technology and 401(k)
 
 ### Digital Platforms
-In the digital age, several platforms and financial technology companies have developed tools to help manage 401(k) plans. Online portals provide real-time access to account balances, performance metrics, and transaction histories. Many platforms offer educational resources to help participants make informed investment decisions.
+In the digital age, several platforms and financial technology companies have developed tools to help manage 401(k) plans. Online portals provide real-time access to account balances, [performance metrics](../p/performance_metrics.md), and transaction histories. Many platforms offer educational resources to help participants make informed investment decisions.
 
 ### Robo-Advisors
 Some 401(k) plans now incorporate robo-advisors, which use algorithms to manage investments. These automated advisors can create a diversified portfolio based on an individual's risk tolerance and financial goals, often at a lower cost than human advisors. Companies like Betterment and Wealthfront offer such services.
@@ -85,4 +85,4 @@ Empower is one of the largest retirement services providers in the U.S., offerin
 
 ## Conclusion
 
-A 401(k) plan represents a crucial component of retirement planning for many Americans, offering significant tax advantages, employer contributions, and a broad array of investment options. By understanding its features, managing the account effectively, and leveraging modern tools and platforms, participants can maximize the benefits of their 401(k) and aim for a financially secure retirement.
+A 401(k) plan represents a crucial component of retirement planning for many Americans, offering significant tax advantages, employer contributions, and a broad array of investment options. By understanding its features, managing the account effectively, and leveraging modern tools and platforms, participants can maximize the benefits of their 401(k) and aim for a financially secure retirement.

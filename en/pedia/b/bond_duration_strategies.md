@@ -1,6 +1,6 @@
 # Bond Duration Strategies
 
-Bond duration is a crucial concept in fixed income investing and bond portfolio management. These strategies revolve around the idea of managing the interest rate risk associated with bonds. Bond duration measures the sensitivity of the price of a bond to changes in interest rates, serving as a fundamental risk management tool. This document explores the depth and breadth of bond duration strategies, focusing on their importance, calculation methods, applications in portfolio management, and real-world use cases.
+Bond duration is a crucial concept in fixed income investing and [bond portfolio management](../b/bond_portfolio_management.md). These strategies revolve around the idea of managing the interest rate risk associated with bonds. Bond duration measures the sensitivity of the price of a bond to changes in interest rates, serving as a fundamental [risk management](../r/risk_management.md) tool. This document explores the depth and breadth of bond duration strategies, focusing on their importance, calculation methods, applications in [portfolio management](../p/portfolio_management.md), and real-world use cases.
 
 ## Understanding Bond Duration
 
@@ -14,7 +14,7 @@ Bond duration is an essential metric that quantifies the weighted average time i
    
 2. **Modified Duration**: This adjusts Macaulay duration to measure the percentage change in the bond's price for a 1% change in yield. It is more practical for assessing interest rate risk.
 
-3. **Effective Duration**: This is used for bonds with embedded options (e.g., callable bonds). It measures the sensitivity of the bond's price to changes in the yield curve, considering changes in cash flows due to the options.
+3. **Effective Duration**: This is used for bonds with embedded options (e.g., callable bonds). It measures the sensitivity of the bond's price to changes in the [yield curve](../y/yield_curve.md), considering changes in cash flows due to the options.
 
 ## Calculating Bond Duration
 
@@ -27,7 +27,7 @@ The Macaulay duration \(D\) of a bond can be calculated using the following form
 Where:
 - \(T\) = Total number of periods until maturity
 - \(C\) = Coupon payment each period
-- \(y\) = Yield to maturity (YTM) per period
+- \(y\) = [Yield to maturity](../y/yield_to_maturity.md) (YTM) per period
 - \(M\) = Maturity value (principal)
 - \(P\) = Current bond price
 
@@ -42,7 +42,7 @@ Where:
 
 ### Effective Duration Calculation
 
-Effective duration \(D_e\) is calculated using a simulation approach, reflecting the bond’s price sensitivity to parallel shifts in the yield curve:
+Effective duration \(D_e\) is calculated using a simulation approach, reflecting the bond’s price sensitivity to parallel shifts in the [yield curve](../y/yield_curve.md):
 
 \[ D_e = \frac{P_{-} - P_{+}}{2 \cdot \Delta y \cdot P_0} \]
 
@@ -63,14 +63,14 @@ Duration is primarily used to manage interest rate risk. By matching the duratio
 Immunization involves structuring a bond portfolio to ensure that its value will meet future liabilities, regardless of interest rate changes. There are different immunization strategies, such as:
 
 1. **Cash Flow Matching**: Aligning the timing and amount of bond cash flows with expected liabilities.
-2. **Duration Matching**: Adjusting the portfolio duration to match the liability duration, balancing the impact of interest rate changes.
+2. **Duration Matching**: Adjusting the [portfolio duration](../p/portfolio_duration.md) to match the liability duration, balancing the impact of interest rate changes.
 
 ### Active Duration Strategies
 
-Active strategies aim to exploit expected changes in interest rates to maximize portfolio returns. These strategies involve adjusting the portfolio duration based on interest rate forecasts:
+Active strategies aim to exploit expected changes in interest rates to maximize portfolio returns. These strategies involve adjusting the [portfolio duration](../p/portfolio_duration.md) based on interest rate forecasts:
 
 1. **Bullet Strategy**: Concentrating bond maturities around a specific duration point, benefitting from expected stable interest rates.
-2. **Barbell Strategy**: Holding short and long-term bonds to benefit from both ends of the yield curve.
+2. **[Barbell Strategy](../b/barbell_strategy.md)**: Holding short and long-term bonds to benefit from both ends of the [yield curve](../y/yield_curve.md).
 3. **Ladder Strategy**: Spreading bond maturities evenly across different durations to mitigate reinvestment risk and take advantage of varying interest rates.
 
 ## Real-World Application: Case Studies
@@ -85,4 +85,4 @@ Active strategies aim to exploit expected changes in interest rates to maximize 
 
 ## Conclusion
 
-Bond duration strategies are integral to managing fixed income investments, offering tools to mitigate interest rate risk and optimize returns. Understanding the different types of duration, their calculations, and their applications in portfolio management is essential for investors aiming to construct resilient and performance-driven bond portfolios. By incorporating these strategies, investors can better navigate the complexities of the bond market, ensuring their portfolios are well-positioned to achieve their financial objectives.
+Bond duration strategies are integral to managing fixed income investments, offering tools to mitigate interest rate risk and optimize returns. Understanding the different types of duration, their calculations, and their applications in [portfolio management](../p/portfolio_management.md) is essential for investors aiming to construct resilient and performance-driven bond portfolios. By incorporating these strategies, investors can better navigate the complexities of the bond market, ensuring their portfolios are well-positioned to achieve their financial objectives.

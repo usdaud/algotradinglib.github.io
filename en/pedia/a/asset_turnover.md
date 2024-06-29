@@ -14,7 +14,7 @@ Asset turnover is defined as:
 ## Importance of Asset Turnover
 
 1. **Efficiency Analysis:** It helps in assessing how efficiently a company utilizes its assets to generate sales. A higher ratio indicates efficient use, while a lower ratio suggests inefficiencies.
-2. **Performance Benchmarking:** Comparing the asset turnover ratio across companies within the same industry can help identify which companies are leading in terms of asset efficiency.
+2. **[Performance Benchmarking](../p/performance_benchmarking.md):** Comparing the asset turnover ratio across companies within the same industry can help identify which companies are leading in terms of asset efficiency.
 3. **Investment Decisions:** Investors analyze the asset turnover ratio to make informed decisions. Companies with higher ratios are often considered better investments as they are likely more capable of generating returns on assets.
 4. **Operational Improvement:** Companies track this ratio to identify operational weaknesses and improve efficiency. Lower ratios can highlight areas where asset utilization can be optimized.
 
@@ -49,7 +49,7 @@ Asset turnover can vary significantly across different industries. For instance:
 
 ## Limitations of Asset Turnover
 
-1. **Industry Comparisons:** It may not be useful to compare asset turnover ratios across different industries due to varying asset requirements.
+1. **Industry Comparisons:** It may not be useful to compare asset [turnover ratios](../t/turnover_ratios.md) across different industries due to varying asset requirements.
 2. **Accounting Practices:** Differences in accounting methods for assets can distort comparisons.
 3. **Short-Term Focus:** Concentrating solely on asset turnover may lead companies to underinvest in long-term assets that are essential for future growth.
 4. **Asset Valuation Issues:** Depreciated values of assets on the balance sheet may not reflect their current market value, affecting the ratio’s accuracy.

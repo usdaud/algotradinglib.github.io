@@ -1,35 +1,35 @@
 # Backtesting with R
 
-Backtesting is an essential process in the world of algorithmic trading. It allows traders to simulate a trading strategy using historical data to determine its potential effectiveness before applying it in live markets. R, an open-source programming language and free software environment primarily used for statistical computing and data analysis, offers powerful tools to perform backtesting of trading strategies.
+[Backtesting](../b/backtesting.md) is an essential process in the world of [algorithmic trading](../a/algorithmic_trading.md). It allows traders to simulate a trading strategy using historical data to determine its potential effectiveness before applying it in live markets. R, an open-source programming language and free software environment primarily used for statistical computing and data analysis, offers powerful tools to perform [backtesting](../b/backtesting.md) of [trading strategies](../t/trading_strategies.md).
 
 ## Introduction to Backtesting
 
 ### What is Backtesting?
 
-Backtesting refers to the process of testing a trading strategy on historical data to evaluate its performance. The main objective is to estimate how well the strategy would have performed in the past, which can give insights into how it might perform in the future. The key components of backtesting include:
+[Backtesting](../b/backtesting.md) refers to the process of testing a trading strategy on historical data to evaluate its performance. The main objective is to estimate how well the strategy would have performed in the past, which can give insights into how it might perform in the future. The key components of [backtesting](../b/backtesting.md) include:
 
 - **Historical Data**: Past market data, including prices, volumes, and other relevant metrics.
 - **Trading Strategy**: A set of rules and algorithms that determine when to buy or sell assets.
-- **Performance Metrics**: Measurements such as return, risk, drawdown, and Sharpe ratio that help assess the strategy's success.
+- **[Performance Metrics](../p/performance_metrics.md)**: Measurements such as return, risk, drawdown, and [Sharpe ratio](../s/sharpe_ratio.md) that help assess the strategy's success.
 
 ### Importance of Backtesting
 
-Backtesting can help identify potential flaws and strengths in a trading strategy, providing valuable feedback for refinement. It is a crucial step before deploying a strategy in live trading to avoid significant financial losses.
+[Backtesting](../b/backtesting.md) can help identify potential flaws and strengths in a trading strategy, providing valuable feedback for refinement. It is a crucial step before deploying a strategy in live trading to avoid significant financial losses.
 
 ## R for Backtesting
 
-R offers a rich ecosystem of packages and tools specifically designed for financial analysis and backtesting. Some of the most prominent packages include:
+R offers a rich ecosystem of packages and tools specifically designed for financial analysis and [backtesting](../b/backtesting.md). Some of the most prominent packages include:
 
 - **quantmod**: Quantitative Financial Modelling Framework.
-- **PerformanceAnalytics**: Econometric tools for performance and risk analysis.
-- **TTR**: Technical Trading Rules.
+- **PerformanceAnalytics**: Econometric tools for performance and [risk analysis](../r/risk_analysis.md).
+- **TTR**: Technical [Trading Rules](../t/trading_rules.md).
 - **xts**: eXtensible Time Series.
 
 ## Setting Up the Environment
 
 ### Installing Required Packages
 
-You can install the necessary packages for backtesting using the `install.packages` function in R:
+You can install the necessary packages for [backtesting](../b/backtesting.md) using the `install.packages` function in R:
 
 ```R
 install.packages("quantmod")
@@ -49,7 +49,7 @@ library(xts)
 
 ## Loading Historical Data
 
-To conduct backtesting, you first need historical data. The `quantmod` package provides functions to easily fetch historical stock prices. For example, you can use `getSymbols` to download data from Yahoo Finance.
+To conduct [backtesting](../b/backtesting.md), you first need historical data. The `quantmod` package provides functions to easily fetch historical stock prices. For example, you can use `getSymbols` to download data from Yahoo Finance.
 
 ```R
 getSymbols("AAPL", src = "yahoo", from = "2010-01-01", to = "2020-01-01")
@@ -80,7 +80,7 @@ Signals are generated based on the crossover of the moving averages:
 
 ```R
 signal <- ifelse(short_ma > long_ma, 1, -1)
-signal <- lag(signal) # Lag signal to avoid look-ahead bias 
+signal <- lag(signal) # Lag signal to avoid [look-ahead bias](../l/look-ahead_bias.md) 
 signal[is.na(signal)] <- 0 # Replace NA values
 ```
 
@@ -101,7 +101,7 @@ cumulative_returns <- cumprod(1 + strategy_returns)
 
 ### Performance Analysis
 
-Using the `PerformanceAnalytics` package, you can analyze various performance metrics:
+Using the `PerformanceAnalytics` package, you can analyze various [performance metrics](../p/performance_metrics.md):
 
 ```R
 charts.PerformanceSummary(strategy_returns)
@@ -113,7 +113,7 @@ print(sharpe_ratio)
 
 ## Advanced Backtesting with R
 
-More advanced backtesting involves additional considerations such as handling transaction costs, applying risk management rules, and conducting out-of-sample testing.
+More advanced [backtesting](../b/backtesting.md) involves additional considerations such as handling transaction costs, applying [risk management](../r/risk_management.md) rules, and conducting [out-of-sample testing](../o/out-of-sample_testing.md).
 
 ### Transaction Costs
 
@@ -126,7 +126,7 @@ adjusted_returns <- strategy_returns - transaction_cost * abs(signal)
 
 ### Risk Management
 
-Implementing risk management techniques like position sizing and stop-loss orders can improve strategy performance:
+Implementing [risk management](../r/risk_management.md) techniques like [position sizing](../p/position_sizing.md) and [stop-loss orders](../s/stop-loss_orders.md) can improve strategy performance:
 
 ```R
 # Position Sizing based on fixed percentage of equity
@@ -166,4 +166,4 @@ charts.PerformanceSummary(test_strategy_returns)
 
 ## Conclusion
 
-Backtesting is a critical procedure in developing and validating trading strategies. R, with its extensive libraries and powerful data manipulation capabilities, provides an excellent platform for executing and refining backtests. By carefully evaluating the performance metrics and applying advanced techniques, traders can enhance their strategies' effectiveness and robustness before risking real capital in live markets.
+[Backtesting](../b/backtesting.md) is a critical procedure in developing and validating [trading strategies](../t/trading_strategies.md). R, with its extensive libraries and powerful data manipulation capabilities, provides an excellent platform for executing and refining backtests. By carefully evaluating the [performance metrics](../p/performance_metrics.md) and applying advanced techniques, traders can enhance their strategies' effectiveness and robustness before risking real capital in live markets.

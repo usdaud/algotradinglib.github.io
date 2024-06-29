@@ -1,10 +1,10 @@
 # Big Data Analytics in Trading
 
-In the contemporary financial markets, Big Data analytics has revolutionized the way trading is perceived and executed. The immense volume, velocity, variety, and veracity of data generated every second offer traders unprecedented insights, when analyzed effectively. This transformation is primarily driven by advancements in computational power, storage technologies, and the development of sophisticated algorithms. The integration of Big Data in trading has streamlined operations, enhanced decision-making processes, and provided competitive advantages to practitioners in the field. This composition delves into the multifaceted role of Big Data analytics in trading, covering its applications, advantages, challenges, and future directions.
+In the contemporary financial markets, Big Data analytics has revolutionized the way trading is perceived and executed. The immense volume, velocity, variety, and veracity of data generated every second offer traders unprecedented insights, when analyzed effectively. This transformation is primarily driven by advancements in computational power, storage technologies, and the development of sophisticated algorithms. The integration of [Big Data in trading](../b/big_data_in_trading.md) has streamlined operations, enhanced decision-making processes, and provided competitive advantages to practitioners in the field. This composition delves into the multifaceted role of Big Data analytics in trading, covering its applications, advantages, challenges, and future directions.
 
 ## 1. Definition and Scope of Big Data in Trading
 
-Big Data in trading refers to the vast accumulation of structured and unstructured data from various sources, including social media channels, news websites, financial transactions, and price movements. The goal is to harness this massive information reservoir to derive actionable insights that can be used in trading strategies.
+[Big Data in trading](../b/big_data_in_trading.md) refers to the vast accumulation of structured and unstructured data from various sources, including social media channels, news websites, financial transactions, and price movements. The goal is to harness this massive information reservoir to derive actionable insights that can be used in [trading strategies](../t/trading_strategies.md).
 
 ### Characteristics of Big Data
 - **Volume**: Refers to the sheer amount of data available for analysis.
@@ -15,19 +15,19 @@ Big Data in trading refers to the vast accumulation of structured and unstructur
 ## 2. Applications of Big Data in Trading
 
 ### A. Predictive Analytics
-Predictive analytics involves using historical data to forecast future market trends and movements. This is achieved through machine learning algorithms and statistical models that identify patterns from past data.
+[Predictive analytics](../p/predictive_analytics.md) involves using historical data to forecast future market trends and movements. This is achieved through machine learning algorithms and statistical models that identify patterns from past data.
 
 ### B. Sentiment Analysis
-Sentiment analysis interprets and classifies emotions expressed in textual data from news articles, blogs, forums, and social media. By gauging public sentiment, traders can predict market reactions and make informed decisions.
+[Sentiment analysis](../s/sentiment_analysis.md) interprets and classifies emotions expressed in textual data from news articles, blogs, forums, and social media. By gauging public sentiment, traders can predict market reactions and make informed decisions.
 
 ### C. Risk Management
-Risk management in trading employs Big Data to identify potential risks and devise strategies to mitigate them. Analyzing vast datasets helps in understanding market volatility, assessing counterparty risks, and ensuring compliance.
+[Risk management](../r/risk_management.md) in trading employs Big Data to identify potential risks and devise strategies to mitigate them. Analyzing vast datasets helps in understanding market volatility, assessing counterparty risks, and ensuring compliance.
 
 ### D. Algorithmic Trading
-Algorithmic trading uses automated, pre-programmed trading instructions accounting for variables such as time, price, and volume. Using Big Data, algorithms are continuously refined to enhance trading performance and efficacy.
+[Algorithmic trading](../a/algorithmic_trading.md) uses automated, pre-programmed trading instructions accounting for variables such as time, price, and volume. Using Big Data, algorithms are continuously refined to enhance [trading performance](../t/trading_performance.md) and efficacy.
 
 ### E. Portfolio Management
-Portfolio management benefits from Big Data by allowing for more robust asset selection and allocation based on deeper financial analysis and market predictions.
+[Portfolio management](../p/portfolio_management.md) benefits from Big Data by allowing for more robust asset selection and allocation based on deeper financial analysis and market predictions.
 
 ## 3. Tools and Technologies
 
@@ -43,7 +43,7 @@ Data processing frameworks and languages include:
 
 ### C. Visualization Tools
 Visualization tools enable traders to interpret complex data sets through graphical representations:
-- **Tableau**: A leading data visualization tool that helps create interactive and shareable dashboards.
+- **Tableau**: A leading [data visualization](../d/data_visualization.md) tool that helps create interactive and shareable dashboards.
 - **Power BI**: A business analytics service by Microsoft aimed at providing interactive visualizations.
 
 ## 4. Real-World Examples and Companies
@@ -53,11 +53,11 @@ Bloomberg provides advanced analytics tools and terminals that are a staple in t
 - [Bloomberg](https://www.bloomberg.com/)
 
 ### B. Palantir Technologies
-Palantir offers data integration and analytics solutions, aiding financial institutions in making data-driven decisions.
+Palantir offers [data integration](../d/data_integration.md) and analytics solutions, aiding financial institutions in making data-driven decisions.
 - [Palantir](https://www.palantir.com/)
 
 ### C. Two Sigma Investments
-An innovative hedge fund that applies Big Data analytics and machine learning to its trading strategies to achieve superior returns.
+An innovative hedge fund that applies Big Data analytics and machine learning to its [trading strategies](../t/trading_strategies.md) to achieve superior returns.
 - [Two Sigma Investments](https://www.twosigma.com/)
 
 ## 5. Benefits of Big Data Analytics in Trading
@@ -69,13 +69,13 @@ Big Data empowers traders with comprehensive insights derived from diverse and v
 The speed at which Big Data analytics operates far surpasses traditional data processing methods, enabling rapid decision-making and execution in high-frequency trading.
 
 ### C. Competitive Advantage
-Firms utilizing Big Data analytics have a competitive edge in understanding market trends and behaviors, enabling more effective trading strategies.
+Firms utilizing Big Data analytics have a competitive edge in understanding market trends and behaviors, enabling more effective [trading strategies](../t/trading_strategies.md).
 
 ### D. Risk Reduction
 By identifying patterns and anomalies, Big Data analytics helps in preemptively recognizing potential market risks, thus aiding in risk aversion and mitigation.
 
 ### E. Personalized Trading Strategies
-Through Big Data, traders can develop highly personalized and customized trading strategies aligned with individual risk appetites and investment goals.
+Through Big Data, traders can develop highly personalized and customized [trading strategies](../t/trading_strategies.md) aligned with individual risk appetites and investment goals.
 
 ## 6. Challenges in Big Data Analytics in Trading
 
@@ -103,7 +103,7 @@ The future will see more sophisticated and refined machine learning algorithms c
 Blockchain technology promises to offer enhanced transparency, security, and efficiency in data handling, which is beneficial for trading analytics.
 
 ### C. Quantum Computing
-Quantum computing may revolutionize Big Data analytics with unparalleled processing power, allowing for real-time data analysis of previously unmanageable data volumes.
+Quantum computing may revolutionize Big Data analytics with unparalleled processing power, allowing for [real-time data analysis](../r/real-time_data_analysis.md) of previously unmanageable data volumes.
 
 ### D. Adoption of Cloud Solutions
 The proliferation of cloud computing will enable more scalable and flexible Big Data analytics solutions, making it accessible to smaller firms.
