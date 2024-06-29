@@ -44,7 +44,7 @@ The 30-Day SEC Yield gives a more reliable estimate of future returns than other
 
 Investors looking at bond funds can use the 30-Day SEC Yield to gauge the current income potential of different funds. This yield is particularly useful for:
 - **Income Investors:** Seeking stable, predictable income, particularly in a low-interest-rate environment.
-- **Risk Management:** Understanding the net income considering the expenses aids in evaluating the fund's efficiency and management quality.
+- **[Risk Management](../r/risk_management.md):** Understanding the net income considering the expenses aids in evaluating the fund's efficiency and management quality.
 
 ### Examples of Companies Providing 30-Day SEC Yield Data
 
@@ -72,4 +72,4 @@ Fund expenses are a critical part of the SEC Yield calculation. Higher expense r
 
 ### Conclusion
 
-The 30-Day SEC Yield is a vital tool for bond fund investors, providing a standardized, transparent measure of a fund’s income-generating potential. It offers a realistic picture of what investors can expect to earn, considering current market conditions and the fund’s expenses. While it is not without its limitations, the 30-Day SEC Yield remains an essential metric for making informed investment decisions in the world of bond funds.
+The 30-Day SEC Yield is a vital tool for bond fund investors, providing a standardized, transparent measure of a fund’s income-generating potential. It offers a realistic picture of what investors can expect to earn, considering current market conditions and the fund’s expenses. While it is not without its limitations, the 30-Day SEC Yield remains an essential metric for making informed investment decisions in the world of bond funds.

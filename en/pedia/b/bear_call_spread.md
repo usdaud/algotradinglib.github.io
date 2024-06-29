@@ -4,13 +4,13 @@ The Bear Call Spread is a popular options trading strategy aimed at generating i
 
 ## Components of a Bear Call Spread
 
-1. **Short Call Option**: 
+1. **[Short Call Option](../s/short_call_option.md)**: 
    - Selling a call option typically close to the current market price of the underlying asset.
    - This is the position in which the trader expects to collect a premium. 
    - The maximum profit from this position is the premium received from selling the call option.
 
 2. **Long Call Option**:
-   - Buying a call option with a higher strike price than the short call option.
+   - Buying a call option with a higher strike price than the [short call option](../s/short_call_option.md).
    - This is a protective position to limit the risk associated with the strategy.
    - The cost of this option reduces the net premium received from the short call.
 
@@ -18,7 +18,7 @@ The Bear Call Spread is a popular options trading strategy aimed at generating i
 
 For instance, suppose the stock XYZ is currently trading at $50:
 
-- **Sell 1 XYZ 55 Call at $2.50** (short call option)
+- **Sell 1 XYZ 55 Call at $2.50** ([short call option](../s/short_call_option.md))
 - **Buy 1 XYZ 60 Call at $1.00** (long call option)
 
 ### Max Profit Calculation
@@ -51,12 +51,12 @@ Using the same example:
 
 This strategy is best used when:
 - The trader anticipates a slight to moderate decline in the price of the underlying asset.
-- The trader expects the underlying asset to remain below the strike price of the short call option through the expiration date.
+- The trader expects the underlying asset to remain below the strike price of the [short call option](../s/short_call_option.md) through the expiration date.
 - The volatility of the underlying asset is expected to decrease.
 
 ## Break-Even Point
 
-The break-even point of a Bear Call Spread is where the net profit equals zero. This can be calculated by adding the net premium received to the strike price of the short call option.
+The break-even point of a Bear Call Spread is where the net profit equals zero. This can be calculated by adding the net premium received to the strike price of the [short call option](../s/short_call_option.md).
 
 \[
 \text{Break-Even Point} = \text{Strike Price of Short Call} + \text{Net Premium Received}
@@ -91,7 +91,7 @@ While the Bear Call Spread is meant to be a "set it and forget it" strategy, som
 2. **Closing Early**:
    - If the trade has reached a profitable level before expiration, closing early can lock in gains and avoid unexpected market movements.
 3. **Adding a Leg**:
-   - Additional legs can be added to convert the position into an Iron Condor or another multi-leg strategy if the market outlook or risk tolerance changes.
+   - Additional legs can be added to convert the position into an [Iron Condor](../i/iron_condor.md) or another multi-leg strategy if the market outlook or risk tolerance changes.
 
 ## Companies and Brokers Offering Option Trading
 
@@ -112,4 +112,4 @@ While the Bear Call Spread is meant to be a "set it and forget it" strategy, som
 
 ## Conclusion
 
-The Bear Call Spread is a strategic way of speculating on a moderate bearish market direction while limiting risk. Understanding its components, the intricacies of setting it up, and the conditions under which it works best are crucial for successful implementation. Traders should also consider transaction costs and potential adjustments to optimize their outcomes when employing this strategy.
+The Bear Call Spread is a strategic way of speculating on a moderate bearish market direction while limiting risk. Understanding its components, the intricacies of setting it up, and the conditions under which it works best are crucial for successful implementation. Traders should also consider transaction costs and potential adjustments to optimize their outcomes when employing this strategy.

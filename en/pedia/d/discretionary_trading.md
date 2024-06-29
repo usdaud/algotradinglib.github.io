@@ -2,18 +2,18 @@
 
 ### Principles of Discretionary Trading
 
-Discretionary trading involves a more subjective approach to the markets. The primary principle is that the trader uses their intuition and experience to interpret market data and make trading decisions. Traders may use charts, technical indicators, news, economic data, and other sources of information to form a view on the direction of a particular asset or the market as a whole.
+Discretionary trading involves a more subjective approach to the markets. The primary principle is that the trader uses their intuition and experience to interpret market data and make trading decisions. Traders may use charts, [technical indicators](../t/technical_indicators.md), news, economic data, and other sources of information to form a view on the direction of a particular asset or the market as a whole.
 
-- **Market Analysis**: Discretionary traders often conduct thorough market analysis to discern trends, patterns, and key levels. This can include both technical and fundamental analysis.
-- **Risk Management**: Effective discretionary trading must involve a disciplined approach to risk management. This includes setting stop-loss orders, position sizing, and portfolio diversification.
+- **Market Analysis**: Discretionary traders often conduct thorough market analysis to discern trends, patterns, and key levels. This can include both technical and [fundamental analysis](../f/fundamental_analysis.md).
+- **[Risk Management](../r/risk_management.md)**: Effective discretionary trading must involve a disciplined approach to [risk management](../r/risk_management.md). This includes setting [stop-loss orders](../s/stop-loss_orders.md), [position sizing](../p/position_sizing.md), and [portfolio diversification](../p/portfolio_diversification.md).
 - **Flexibility**: One of the key advantages of discretionary trading is its flexibility. Traders can quickly adapt to new market conditions or information that may not be accounted for by a static algorithm.
 
 ### Techniques in Discretionary Trading
 
-1. **Technical Analysis**: Discretionary traders frequently use technical analysis to identify trends, support/resistance levels, and potential entry or exit points. Technical indicators such as moving averages, relative strength index (RSI), and MACD are commonly utilized.
-2. **Fundamental Analysis**: In addition to technical analysis, some discretionary traders incorporate fundamental analysis. This might include evaluating economic indicators, company earnings reports, and other financial statements.
+1. **[Technical Analysis](../t/technical_analysis.md)**: Discretionary traders frequently use [technical analysis](../t/technical_analysis.md) to identify trends, support/resistance levels, and potential entry or exit points. [Technical indicators](../t/technical_indicators.md) such as moving averages, relative strength index (RSI), and MACD are commonly utilized.
+2. **[Fundamental Analysis](../f/fundamental_analysis.md)**: In addition to [technical analysis](../t/technical_analysis.md), some discretionary traders incorporate [fundamental analysis](../f/fundamental_analysis.md). This might include evaluating [economic indicators](../e/economic_indicators.md), company earnings reports, and other financial statements.
 3. **News Trading**: Some traders focus on trading based on news releases and market-moving events. These traders aim to capitalize on volatility and rapid price movements resulting from significant news.
-4. **Sentiment Analysis**: Discretionary traders might also analyze market sentiment to gauge the mood of other traders and investors. Tools for sentiment analysis can include social media trends, news sentiment, and market surveys.
+4. **[Sentiment Analysis](../s/sentiment_analysis.md)**: Discretionary traders might also analyze market sentiment to gauge the mood of other traders and investors. Tools for [sentiment analysis](../s/sentiment_analysis.md) can include social media trends, news sentiment, and market surveys.
 
 ### Psychological Factors
 
@@ -35,11 +35,11 @@ Discretionary trading is heavily dependent on the trader’s psychological state
 1. **Emotional Bias**: Discretionary trading is susceptible to emotional biases such as overconfidence, fear of loss, and attachment to specific trades.
 2. **Consistency**: Maintaining consistent results can be challenging due to the variable nature of human judgment and the complexity of markets.
 3. **Time-Consuming**: Discretionary trading requires constant monitoring of the markets, which can be time-consuming and mentally exhausting.
-4. **Scalability**: It can be difficult to scale up discretionary trading strategies because they depend heavily on the trader's judgment and decision-making process.
+4. **Scalability**: It can be difficult to scale up [discretionary trading strategies](../d/discretionary_trading_strategies.md) because they depend heavily on the trader's judgment and decision-making process.
 
 ### Comparison with Algorithmic Trading
 
-Algorithmic trading, or algo trading, uses computer algorithms to automatically execute trades based on pre-set criteria. Here is a comparison between discretionary trading and algorithmic trading:
+[Algorithmic trading](../a/algorithmic_trading.md), or algo trading, uses computer algorithms to automatically execute trades based on pre-set criteria. Here is a comparison between discretionary trading and [algorithmic trading](../a/algorithmic_trading.md):
 
 #### Discretionary Trading
 
@@ -59,10 +59,10 @@ Algorithmic trading, or algo trading, uses computer algorithms to automatically 
 
 Discretionary trading remains a popular approach for many traders because of its adaptability and the value of human insight. However, it requires a high level of discipline, emotional control, and a thorough understanding of market mechanics. While it offers several advantages, it also presents significant challenges, especially when it comes to maintaining consistency and managing emotional biases.
 
-For more information on trading strategies and educational resources, you can visit the following companies:
+For more information on [trading strategies](../t/trading_strategies.md) and educational resources, you can visit the following companies:
 
 - [Investopedia](https://www.investopedia.com/)
 - [Trading Academy](https://www.tradingacademy.com/)
 - [CME Group](https://www.cmegroup.com/)
 
-Discretionary trading will always hold a place in the financial markets due to the unique advantages of human judgment. However, its effectiveness greatly depends on the trader’s skills, experience, and psychological resilience.
+Discretionary trading will always hold a place in the financial markets due to the unique advantages of human judgment. However, its effectiveness greatly depends on the trader’s skills, experience, and psychological resilience.

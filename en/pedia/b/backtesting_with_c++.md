@@ -1,34 +1,34 @@
 # Backtesting with C++
 
-Backtesting is an essential process in algorithmic trading that involves testing a trading strategy on historical data to analyze its historical performance and gauge its effectiveness before deploying it in live markets. In this comprehensive article, we will dive deeply into the concept of backtesting and learn how to implement it using C++. From understanding the benefits and limitations of backtesting to constructing a complete backtesting system, this guide covers everything you need to know.
+[Backtesting](../b/backtesting.md) is an essential process in [algorithmic trading](../a/algorithmic_trading.md) that involves testing a trading strategy on historical data to analyze its historical performance and gauge its effectiveness before deploying it in live markets. In this comprehensive article, we will dive deeply into the concept of [backtesting](../b/backtesting.md) and learn how to implement it using C++. From understanding the benefits and limitations of [backtesting](../b/backtesting.md) to constructing a complete [backtesting](../b/backtesting.md) system, this guide covers everything you need to know.
 
 ## Introduction to Backtesting
 
-Backtesting is a method to simulate the performance of a trading strategy using historical data. By doing so, traders can determine how a strategy would have performed in the past and use this information to predict its potential future performance. It helps in refining strategies, identifying potential risks, and improving the overall trading algorithm.
+[Backtesting](../b/backtesting.md) is a method to simulate the performance of a trading strategy using historical data. By doing so, traders can determine how a strategy would have performed in the past and use this information to predict its potential future performance. It helps in refining strategies, identifying potential risks, and improving the overall trading algorithm.
 
 ### Importance of Backtesting
 
-1. **Validating Strategies**: Before risking real money, it’s crucial to validate whether a trading strategy works as intended. Backtesting provides this validation.
-2. **Risk Management**: By identifying the potential drawdowns and adverse conditions a strategy might face, traders can better manage risk.
-3. **Performance Metrics**: Metrics such as profit factor, Sharpe ratio, and maximum drawdown can be computed to quantitatively evaluate the strategy.
-4. **Operational Insights**: Backtesting reveals the operational intricacies and fine-tunes the strategy for better resource management.
+1. **Validating Strategies**: Before risking real money, it’s crucial to validate whether a trading strategy works as intended. [Backtesting](../b/backtesting.md) provides this validation.
+2. **[Risk Management](../r/risk_management.md)**: By identifying the potential drawdowns and adverse conditions a strategy might face, traders can better manage risk.
+3. **[Performance Metrics](../p/performance_metrics.md)**: Metrics such as [profit factor](../p/profit_factor.md), [Sharpe ratio](../s/sharpe_ratio.md), and maximum drawdown can be computed to quantitatively evaluate the strategy.
+4. **Operational Insights**: [Backtesting](../b/backtesting.md) reveals the operational intricacies and fine-tunes the strategy for better resource management.
 
 ### Limitations of Backtesting
 
 1. **Historical Bias**: The future might not always mirror the past. Strategies that perform well on historical data might not always generate the same returns in live trading.
-2. **Data Quality and Availability**: The accuracy of backtesting results heavily depends on the quality and granularity of historical data.
+2. **Data Quality and Availability**: The accuracy of [backtesting](../b/backtesting.md) results heavily depends on the quality and granularity of historical data.
 3. **Overfitting**: Excessive tweaking of a strategy to work well on historical data can lead to overfitting, where the strategy performs poorly in the future.
 
 ## Setting Up the Environment
 
-To backtest trading strategies using C++, we need a suitable development environment and libraries. Key components include:
+To backtest [trading strategies](../t/trading_strategies.md) using C++, we need a suitable development environment and libraries. Key components include:
 
 1. **Compiler**: GCC or Visual Studio can be used to compile the C++ code.
 2. **IDE**: Visual Studio, CLion, or other C++ IDEs can be used for ease of development.
 3. **Libraries**: 
    - [Boost](https://www.boost.org/): Provides many useful utilities like date-time manipulation, file I/O, and more.
    - [QT](https://www.qt.io/): A powerful framework that can be used for creating graphical user interfaces if needed.
-   - [Talib](https://github.com/mrjbq7/ta-lib): For technical analysis functions (this however is primarily in Python, but can be interfaced with C++ using various methods).
+   - [Talib](https://github.com/mrjbq7/ta-lib): For [technical analysis](../t/technical_analysis.md) functions (this however is primarily in Python, but can be interfaced with C++ using various methods).
 
 ### Installing Required Libraries
 
@@ -40,11 +40,11 @@ sudo apt-get install libboost-all-dev
 
 ## Developing a Backtesting System in C++
 
-Let's break down the process of building a backtesting system in C++ step-by-step.
+Let's break down the process of building a [backtesting](../b/backtesting.md) system in C++ step-by-step.
 
 ### Step 1: Data Handling
 
-Efficient data handling is crucial for backtesting. We will read historical price data (usually in CSV format) and process it.
+Efficient data handling is crucial for [backtesting](../b/backtesting.md). We will read historical price data (usually in CSV format) and process it.
 
 #### Reading CSV Data
 
@@ -181,11 +181,11 @@ std::vector<Trade> simulateTrades(const std::vector<MarketData>& data, const std
 
 ### Step 4: Performance Metrics
 
-Quantitative evaluation of the strategy's performance is necessary to ascertain its effectiveness. Common metrics include total return, annualized return, Sharpe ratio, and maximum drawdown.
+Quantitative evaluation of the strategy's performance is necessary to ascertain its effectiveness. Common metrics include total return, annualized return, [Sharpe ratio](../s/sharpe_ratio.md), and maximum drawdown.
 
 #### Performance Calculation
 
-Compute key performance metrics to evaluate the strategy.
+Compute key [performance metrics](../p/performance_metrics.md) to evaluate the strategy.
 
 ```cpp
 #include <cmath>
@@ -224,6 +224,6 @@ public:
 
 ## Conclusion and Final Thoughts
 
-Backtesting is a pivotal aspect of algorithmic trading that enables traders to validate strategies by simulating their performance on historical data. Using C++ for backtesting offers speed and efficiency, enabling the handling of large datasets and the implementation of complex strategies.
+[Backtesting](../b/backtesting.md) is a pivotal aspect of [algorithmic trading](../a/algorithmic_trading.md) that enables traders to validate strategies by simulating their performance on historical data. Using C++ for [backtesting](../b/backtesting.md) offers speed and efficiency, enabling the handling of large datasets and the implementation of complex strategies.
 
-In this article, we covered the entire spectrum of backtesting using C++, from reading data, designing strategies, simulating trades, to evaluating performance. This foundational guide equips you with the tools and knowledge required to develop robust backtesting systems and refine trading strategies for better market performance.
+In this article, we covered the entire spectrum of [backtesting](../b/backtesting.md) using C++, from reading data, designing strategies, simulating trades, to evaluating performance. This foundational guide equips you with the tools and knowledge required to develop robust [backtesting](../b/backtesting.md) systems and refine [trading strategies](../t/trading_strategies.md) for better market performance.

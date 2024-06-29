@@ -1,4 +1,4 @@
-Algorithmic execution refers to the use of computer algorithms to carry out trading orders with minimum market impact and often at the most advantageous prices possible. This technique is prevalently used in financial markets by institutional investors, hedge funds, and trading firms to achieve efficient trading outcomes. The algorithms are designed to determine various parameters of trading orders such as timing, pricing, and quantity, thereby automating the process that would traditionally be handled manually by traders. Algorithmic execution aims to minimize trading costs and mitigate the risks associated with human error, ensuring higher consistency and accuracy.
+Algorithmic execution refers to the use of computer algorithms to carry out trading orders with minimum market impact and often at the most advantageous prices possible. This technique is prevalently used in financial markets by institutional investors, hedge funds, and trading firms to achieve efficient trading outcomes. The algorithms are designed to determine various parameters of trading orders such as timing, pricing, and quantity, thereby automating the process that would traditionally be handled manually by traders. Algorithmic execution aims to minimize [trading costs](../t/trading_costs.md) and mitigate the risks associated with human error, ensuring higher consistency and accuracy.
 
 Algorithmic execution can be classified into various strategies, each designed to optimize different aspects of trading. Key strategies include:
 
@@ -14,7 +14,7 @@ TWAP strategies attempt to distribute orders evenly throughout a specified time 
 
 #### 3. **Implementation Shortfall:**
 
-Also known as arrival price algorithms, implementation shortfall strategies aim to strike a balance between trading quickly to minimize execution risk and trading slowly to minimize market impact. These algorithms compare the execution price to a pre-defined benchmark, generally the price at the time the order is submitted.
+Also known as arrival price algorithms, implementation shortfall strategies aim to strike a balance between trading quickly to minimize [execution risk](../e/execution_risk.md) and trading slowly to minimize market impact. These algorithms compare the execution price to a pre-defined benchmark, generally the price at the time the order is submitted.
 
 #### 4. **Percentage of Volume (POV):**
 
@@ -36,7 +36,7 @@ The OMS is a platform used to manage and execute trading orders. It integrates w
 
 #### - **Risk Management:**
 
-Algorithms incorporate various risk management measures such as stop orders, position limits, and exposure limits to mitigate potential losses. These measures are crucial for ensuring that the trading strategy remains within acceptable risk parameters.
+Algorithms incorporate various [risk management](../r/risk_management.md) measures such as stop orders, position limits, and exposure limits to mitigate potential losses. These measures are crucial for ensuring that the trading strategy remains within acceptable risk parameters.
 
 #### - **Transaction Cost Analysis (TCA):**
 
@@ -54,7 +54,7 @@ By breaking down large orders into smaller parts and strategically timing their 
 
 #### - **Cost Reduction:**
 
-Algorithmic execution reduces the costs associated with manual trading such as human errors and delays. Additionally, by optimizing the order execution, it often achieves better prices, further reducing trading costs.
+Algorithmic execution reduces the costs associated with manual trading such as human errors and delays. Additionally, by optimizing the order execution, it often achieves better prices, further reducing [trading costs](../t/trading_costs.md).
 
 #### - **Consistency:**
 
@@ -76,22 +76,22 @@ The quality and speed of data feed are critical. Delays or inaccuracies in the d
 
 #### - **Regulatory Compliance:**
 
-Financial markets are highly regulated, and compliance with these regulations is crucial. Algorithmic trading strategies need to be designed to adhere to these regulations to avoid penalties and ensure fair trading practices.
+Financial markets are highly regulated, and compliance with these regulations is crucial. [Algorithmic trading](../a/algorithmic_trading.md) strategies need to be designed to adhere to these regulations to avoid penalties and ensure fair trading practices.
 
 #### - **System Failures and Risks:**
 
-Technological failures such as system crashes, network issues, and bugs in the algorithm can lead to significant losses. Risk management strategies and regular testing are essential to mitigate these risks.
+Technological failures such as system crashes, network issues, and bugs in the algorithm can lead to significant losses. [Risk management](../r/risk_management.md) strategies and regular testing are essential to mitigate these risks.
 
 ### Prominent Companies and Resources
 
 Several companies and platforms are at the forefront of providing algorithmic execution solutions:
 
-- **Virtu Financial [Virtu](https://www.virtu.com/):** A leading provider of financial services and products, including algorithmic trading solutions.
+- **Virtu Financial [Virtu](https://www.virtu.com/):** A leading provider of financial services and products, including [algorithmic trading](../a/algorithmic_trading.md) solutions.
 - **ITG (Investment Technology Group) [ITG](https://www.itg.com/):** Offers a wide range of trading and execution solutions, backed by advanced technology and research.
 - **Bloomberg Tradebook [Bloomberg](https://www.bloomberg.com/professional/tradebook/):** Provides comprehensive trading solutions including algorithmic execution for equities, futures, and options.
-- **QuantConnect [QuantConnect](https://www.quantconnect.com/):** An algorithmic trading platform that offers infrastructure and tools for developing and deploying trading algorithms.
-- **AlgoTrader [AlgoTrader](https://www.algotrader.com/):** A professional algorithmic trading software that supports multi-asset class strategies and execution.
+- **QuantConnect [QuantConnect](https://www.quantconnect.com/):** An [algorithmic trading](../a/algorithmic_trading.md) platform that offers infrastructure and tools for developing and deploying [trading algorithms](../t/trading_algorithms.md).
+- **AlgoTrader [AlgoTrader](https://www.algotrader.com/):** A professional [algorithmic trading](../a/algorithmic_trading.md) software that supports [multi-asset class strategies](../m/multi-asset_class_strategies.md) and execution.
 
 ### Conclusion
 
-Algorithmic execution is a cornerstone of modern trading, providing significant advantages in terms of efficiency, cost reduction, and risk management. As financial markets continue to evolve, the reliance on sophisticated algorithms is likely to grow, demanding continuous innovation and adaptation to stay ahead. Balancing the benefits with the inherent challenges of latency, data quality, and regulatory compliance will be key to successful algorithmic execution strategies.
+Algorithmic execution is a cornerstone of modern trading, providing significant advantages in terms of efficiency, cost reduction, and [risk management](../r/risk_management.md). As financial markets continue to evolve, the reliance on sophisticated algorithms is likely to grow, demanding continuous innovation and adaptation to stay ahead. Balancing the benefits with the inherent challenges of latency, data quality, and regulatory compliance will be key to successful algorithmic execution strategies.

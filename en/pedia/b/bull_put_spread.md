@@ -1,6 +1,6 @@
 ## Bull Put Spread
 
-A Bull Put Spread is a type of options trading strategy used primarily in bullish market conditions. It involves the simultaneous selling and buying of put options with the same expiration date but different strike prices. This strategy, being a credit spread, generates income upfront while providing defined risk and limited profit potential. The goal is to capitalize on the underlying asset's price being above the strike price of the sold put at expiration.
+A Bull Put Spread is a type of options trading strategy used primarily in bullish market conditions. It involves the simultaneous selling and buying of [put options](../p/put_options.md) with the same expiration date but different strike prices. This strategy, being a credit spread, generates income upfront while providing defined risk and limited profit potential. The goal is to capitalize on the underlying asset's price being above the strike price of the sold put at expiration.
 
 ### Components of a Bull Put Spread
 
@@ -60,7 +60,7 @@ To calculate the break-even point for the Bull Put Spread, one must consider the
 
 #### Step 1: Analyzing Market Conditions
 
-Assess the bullish outlook of the underlying asset. This involves technical and fundamental analysis to determine support levels and potential upward movement.
+Assess the bullish outlook of the underlying asset. This involves technical and [fundamental analysis](../f/fundamental_analysis.md) to determine [support levels](../s/support_levels.md) and potential upward movement.
 
 #### Step 2: Selecting Strike Prices
 
@@ -84,4 +84,4 @@ Several professional trading firms and individual traders employ Bull Put Spread
 
 ### Conclusion
 
-The Bull Put Spread is a versatile options strategy that benefits traders with a moderately bullish outlook on an underlying asset. By generating upfront income with limited risk, it provides an attractive risk-reward profile for those who understand its intricacies. Proper analysis, execution, and management are vital to leveraging this strategy successfully in various market conditions.
+The Bull Put Spread is a versatile options strategy that benefits traders with a moderately bullish outlook on an underlying asset. By generating upfront income with limited risk, it provides an attractive risk-reward profile for those who understand its intricacies. Proper analysis, execution, and management are vital to leveraging this strategy successfully in various market conditions.

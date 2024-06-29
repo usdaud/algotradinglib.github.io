@@ -67,7 +67,7 @@ To address some of CAPM's limitations, various extensions and alternative models
 
 ### Arbitrage Pricing Theory (APT)
 
-APT, developed by Stephen Ross in 1976, is a multifactor model that aims to overcome the limitations of CAPM by considering multiple sources of market risk beyond just the market portfolio. APT does not require a market portfolio and is based on the idea that asset returns can be predicted by a linear relationship with several macroeconomic factors.
+APT, developed by Stephen Ross in 1976, is a multifactor model that aims to overcome the limitations of CAPM by considering multiple sources of market risk beyond just the [market portfolio](../m/market_portfolio.md). APT does not require a [market portfolio](../m/market_portfolio.md) and is based on the idea that asset returns can be predicted by a linear relationship with several macroeconomic factors.
 
 ### Fama-French Three-Factor Model
 
@@ -75,7 +75,7 @@ The Fama-French Three-Factor Model, proposed by Eugene F. Fama and Kenneth R. Fr
 
 ### Carhart Four-Factor Model
 
-This model expands the Fama-French model by adding a momentum factor, acknowledging that stocks with strong recent performance tend to continue performing well in the short term. The four factors in this model are market risk, size, value, and momentum.
+This model expands the Fama-French model by adding a [momentum factor](../m/momentum_factor.md), acknowledging that stocks with strong recent performance tend to continue performing well in the short term. The four factors in this model are market risk, size, value, and momentum.
 
 ## Real-world Examples and Applications
 
@@ -85,7 +85,7 @@ Many investment firms use CAPM to guide their asset management strategies. For e
 
 ### Financial Institutions
 
-Banks and other financial institutions use CAPM for various purposes, including risk management and asset-liability management. By assessing the expected returns against their corresponding risks, these institutions can make informed decisions about lending, investment, and capital allocation.
+Banks and other financial institutions use CAPM for various purposes, including [risk management](../r/risk_management.md) and asset-liability management. By assessing the expected returns against their corresponding risks, these institutions can make informed decisions about lending, investment, and [capital allocation](../c/capital_allocation.md).
 
 ### Corporate Sector
 

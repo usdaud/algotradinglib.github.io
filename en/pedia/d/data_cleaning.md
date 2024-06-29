@@ -1,6 +1,6 @@
 # Data Cleaning in AlgoTrading
 
-Data cleaning is a crucial aspect of data analysis and is especially vital in algorithmic trading where the quality of data directly impacts trading decisions and outcomes. Algorithmic trading systems rely on large amounts of data to make trading decisions in real-time. Therefore, ensuring the accuracy, consistency, and completeness of data is essential to maintain the integrity and performance of trading algorithms.
+Data cleaning is a crucial aspect of data analysis and is especially vital in [algorithmic trading](../a/algorithmic_trading.md) where the quality of data directly impacts trading decisions and outcomes. [Algorithmic trading](../a/algorithmic_trading.md) systems rely on large amounts of data to make trading decisions in real-time. Therefore, ensuring the accuracy, consistency, and completeness of data is essential to maintain the integrity and performance of [trading algorithms](../t/trading_algorithms.md).
 
 ## Understanding Data Cleaning
 
@@ -12,7 +12,7 @@ Data cleaning, also known as data cleansing or data scrubbing, is the process of
 
 2. **Data Profiling**: Assess the quality and structure of the collected data. This involves analyzing the data for patterns, anomalies, and variations to understand its basic characteristics.
 
-3. **Error Detection**: Identify errors such as missing values, duplicate entries, and inconsistent data formats. Methods include statistical analysis, pattern recognition, and manual inspection.
+3. **Error Detection**: Identify errors such as missing values, duplicate entries, and inconsistent data formats. Methods include statistical analysis, [pattern recognition](../p/pattern_recognition.md), and manual inspection.
 
 4. **Data Correction**: Rectify identified errors. This can involve filling in missing values, correcting data types, or reformatting inconsistent entries.
 
@@ -29,16 +29,16 @@ Data cleaning, also known as data cleansing or data scrubbing, is the process of
 
 ## Importance in Algorithmic Trading
 
-In algorithmic trading, the quality of data is paramount. Trading algorithms analyze vast datasets to execute trades based on predefined criteria. Poor quality data can lead to incorrect trading signals, resulting in potential financial losses. The objective is to ensure that the data being fed into trading algorithms is as accurate, reliable, and timely as possible.
+In [algorithmic trading](../a/algorithmic_trading.md), the quality of data is paramount. [Trading algorithms](../t/trading_algorithms.md) analyze vast datasets to execute trades based on predefined criteria. Poor quality data can lead to incorrect [trading signals](../t/trading_signals.md), resulting in potential financial losses. The objective is to ensure that the data being fed into [trading algorithms](../t/trading_algorithms.md) is as accurate, reliable, and timely as possible.
 
 1. **Accuracy**: Ensuring that the data accurately reflects the market conditions is crucial for making informed trading decisions.
-2. **Consistency**: Consistent data ensures that the trading algorithms have a reliable base to execute trades, reducing the risk of errors.
-3. **Completeness**: Incomplete data can lead to misleading analysis and incorrect trading signals.
+2. **Consistency**: Consistent data ensures that the [trading algorithms](../t/trading_algorithms.md) have a reliable base to execute trades, reducing the risk of errors.
+3. **Completeness**: Incomplete data can lead to misleading analysis and incorrect [trading signals](../t/trading_signals.md).
 4. **Timeliness**: In fast-paced trading environments, the timeliness of data is crucial. Delays in data can result in missed opportunities or incorrect trades.
 
 ## Tools and Techniques
 
-Several tools and techniques are employed to clean data in algorithmic trading:
+Several tools and techniques are employed to clean data in [algorithmic trading](../a/algorithmic_trading.md):
 
 - **Software Tools**: Tools such as Python libraries (Pandas, NumPy), R, SAS, and specialized data cleaning software provide functionalities to detect and correct data issues.
 - **Automated Scripts**: Custom scripts to automate the detection and correction of common data issues.
@@ -49,15 +49,15 @@ Several tools and techniques are employed to clean data in algorithmic trading:
 1. **Trifacta**: Offers data wrangling solutions that assist in cleaning and preparing data for analysis.
    - [Trifacta](https://www.trifacta.com)
 
-2. **Talend**: Provides a suite of tools for data integration and data quality management.
+2. **Talend**: Provides a suite of tools for [data integration](../d/data_integration.md) and [data quality management](../d/data_quality_management.md).
    - [Talend](https://www.talend.com)
 
-3. **Informatica**: Specializes in data integration, quality, and governance solutions.
+3. **Informatica**: Specializes in [data integration](../d/data_integration.md), quality, and governance solutions.
    - [Informatica](https://www.informatica.com)
 
 ### Techniques in Detail
 
-- **Imputation**: Imputation techniques involve filling in missing data with substitute values. Common methods include using the mean, median, mode, or employing more sophisticated methods like K-nearest neighbors (KNN) imputation or regression techniques.
+- **Imputation**: Imputation techniques involve filling in missing data with substitute values. Common methods include using the mean, median, mode, or employing more sophisticated methods like K-nearest neighbors (KNN) imputation or [regression techniques](../r/regression_techniques.md).
   
 - **Normalization**: Normalizing data ensures that values are within a common scale, which is especially important for algorithms sensitive to the scale of input data.
 
@@ -71,22 +71,22 @@ Several tools and techniques are employed to clean data in algorithmic trading:
 
 ### Backtesting
 
-Before deploying an algorithm in a live trading environment, it's crucial to backtest it using historical data. Clean and reliable historical data ensures that the backtests are accurate, providing insights into how the strategy would have performed under historical conditions.
+Before deploying an algorithm in a live [trading environment](../t/trading_environment.md), it's crucial to backtest it using historical data. Clean and reliable historical data ensures that the backtests are accurate, providing insights into how the strategy would have performed under historical conditions.
 
 ### Feature Engineering
 
-Data cleaning is integral to feature engineering, the process of creating new input features from existing data. Clean data enhances the creation of meaningful and predictive features, thereby improving the performance of the trading algorithms.
+Data cleaning is integral to feature engineering, the process of creating new input features from existing data. Clean data enhances the creation of meaningful and predictive features, thereby improving the performance of the [trading algorithms](../t/trading_algorithms.md).
 
 ### Real-Time Trading
 
-Algorithmic trading often occurs in real-time, requiring the data to be updated continuously with minimal latency. Clean data helps maintain the accuracy and reliability of real-time trading decisions.
+[Algorithmic trading](../a/algorithmic_trading.md) often occurs in real-time, requiring the data to be updated continuously with minimal latency. Clean data helps maintain the accuracy and reliability of real-time trading decisions.
 
 ### Risk Management
 
-Accurate and consistent data is vital for effective risk management in trading. Clean data ensures that risk metrics such as Value at Risk (VaR) and expected shortfall are calculated accurately, helping in managing trading risks appropriately.
+Accurate and consistent data is vital for effective [risk management](../r/risk_management.md) in trading. Clean data ensures that [risk metrics](../r/risk_metrics.md) such as Value at Risk (VaR) and expected shortfall are calculated accurately, helping in managing trading risks appropriately.
 
 ## Conclusion
 
-Data cleaning is an indispensable process in algorithmic trading, directly influencing the performance and reliability of trading algorithms. By ensuring the accuracy, consistency, and completeness of data, traders can make more informed decisions, minimize errors, and maximize their trading performance. Leveraging the right tools and techniques for data cleaning can significantly enhance the robustness and effectiveness of trading strategies, contributing to better financial outcomes.
+Data cleaning is an indispensable process in [algorithmic trading](../a/algorithmic_trading.md), directly influencing the performance and reliability of [trading algorithms](../t/trading_algorithms.md). By ensuring the accuracy, consistency, and completeness of data, traders can make more informed decisions, minimize errors, and maximize their [trading performance](../t/trading_performance.md). Leveraging the right tools and techniques for data cleaning can significantly enhance the robustness and effectiveness of [trading strategies](../t/trading_strategies.md), contributing to better financial outcomes.
 
-LIBINTTLS: As algorithmic trading continues to evolve, the importance of robust data cleaning practices will only grow, underlining its critical role in the lifecycle of trading systems.
+LIBINTTLS: As [algorithmic trading](../a/algorithmic_trading.md) continues to evolve, the importance of robust data cleaning practices will only grow, underlining its critical role in the lifecycle of [trading systems](../t/trading_systems.md).

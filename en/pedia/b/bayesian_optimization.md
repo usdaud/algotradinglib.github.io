@@ -1,12 +1,12 @@
 # Bayesian Optimization
 
-Bayesian Optimization is a powerful strategy for the optimization of black-box functions, which are functions with inputs that are either continuous or discrete, where the objective function is expensive to evaluate. This approach is extensively utilized in fields such as machine learning, hyperparameter tuning, and automated algorithm design, where the cost of function evaluation is high.
+Bayesian Optimization is a powerful strategy for the optimization of black-box functions, which are functions with inputs that are either continuous or discrete, where the objective function is expensive to evaluate. This approach is extensively utilized in fields such as machine learning, hyperparameter tuning, and automated [algorithm design](../a/algorithm_design.md), where the cost of function evaluation is high.
 
 ## Fundamental Concept
 
 At its core, Bayesian Optimization constructs a probabilistic model—the surrogate model—of the objective function and uses this model to make decisions about where in the input space to evaluate next. The primary components of Bayesian Optimization include:
 
-1. **Surrogate Model:** This is a probabilistic model that approximates the objective function. Gaussian Processes (GPs) are commonly used as surrogate models due to their flexibility and capability to capture uncertainty.
+1. **Surrogate Model:** This is a probabilistic model that approximates the objective function. [Gaussian Processes](../g/gaussian_processes.md) (GPs) are commonly used as surrogate models due to their flexibility and capability to capture uncertainty.
 
 2. **Acquisition Function:** This function determines the next point to evaluate by trading off exploration (searching in less explored areas) and exploitation (searching in promising areas). Common acquisition functions include Expected Improvement (EI), Probability of Improvement (PI), and Upper Confidence Bound (UCB).
 
@@ -14,7 +14,7 @@ At its core, Bayesian Optimization constructs a probabilistic model—the surrog
 
 ## Gaussian Processes
 
-A Gaussian Process (GP) is a collection of random variables, any finite number of which have a joint Gaussian distribution. In the context of Bayesian Optimization, GPs are favored because they can provide not only predictions of the function values at unsampled points but also quantify the uncertainty of these predictions. The GP is defined by a mean function, typically assumed to be zero, and a covariance function (or kernel), which determines the smoothness and other properties of the function.
+A Gaussian Process (GP) is a collection of random variables, any finite number of which have a joint [Gaussian distribution](../g/gaussian_distribution.md). In the context of Bayesian Optimization, GPs are favored because they can provide not only predictions of the function values at unsampled points but also quantify the uncertainty of these predictions. The GP is defined by a mean function, typically assumed to be zero, and a covariance function (or kernel), which determines the smoothness and other properties of the function.
 
 ### Key Concepts in GPs:
 
@@ -94,4 +94,4 @@ Despite its advantages, Bayesian Optimization faces challenges such as:
 
 Researchers are actively working on addressing these issues, making Bayesian Optimization a continually evolving and promising area of study.
 
-In conclusion, Bayesian Optimization is a sophisticated method for optimizing expensive, noisy, and black-box functions. Its application spans numerous fields, proving invaluable for tasks requiring efficient and reliable optimization strategies.
+In conclusion, Bayesian Optimization is a sophisticated method for optimizing expensive, noisy, and black-box functions. Its application spans numerous fields, proving invaluable for tasks requiring efficient and reliable optimization strategies.

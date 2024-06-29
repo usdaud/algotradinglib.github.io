@@ -1,6 +1,6 @@
 # Composite Indicators in Algorithmic Trading
 
-In the realm of algorithmic trading, composite indicators are highly advanced tools that combine multiple individual indicators to form a single metric. These indicators are designed to provide a holistic view of the market’s condition, taking into account various factors that may not be apparent when using single indicators in isolation. Composite indicators are particularly useful for quantitative analysts and traders who need to filter out noise and focus on actionable data.
+In the realm of [algorithmic trading](../a/algorithmic_trading.md), composite indicators are highly advanced tools that combine multiple individual indicators to form a single metric. These indicators are designed to provide a holistic view of the market’s condition, taking into account various factors that may not be apparent when using single indicators in isolation. Composite indicators are particularly useful for quantitative analysts and traders who need to filter out noise and focus on actionable data.
 
 ## Key Components of Composite Indicators
 
@@ -11,7 +11,7 @@ Moving averages are employed to smooth out price data. They are often foundation
 RSI is a momentum oscillator that measures the speed and change of price movements. It oscillates between zero and 100, providing insights into overbought and oversold conditions.
 
 ### Bollinger Bands
-Bollinger Bands consist of a middle band (a simple moving average) and two outer bands that are typically set two standard deviations apart. These bands adjust to market volatility and are useful for identifying overbought or oversold conditions, helping traders make more informed decisions.
+[Bollinger Bands](../b/bollinger_bands.md) consist of a middle band (a simple moving average) and two outer bands that are typically set two standard deviations apart. These bands adjust to market volatility and are useful for identifying overbought or oversold conditions, helping traders make more informed decisions.
 
 ### MACD (Moving Average Convergence Divergence)
 MACD is both a trend-following and momentum indicator. It consists of two moving averages, which help in identifying changes in the strength, direction, momentum, and duration of a trend.
@@ -31,7 +31,7 @@ Financial markets are inherently noisy with a lot of random price movements. Com
 By combining multiple indicators, composite indicators can offer a more comprehensive picture of market conditions, thereby improving the predictive power.
 
 ### Customization and Flexibility
-Traders can customize composite indicators to suit their specific trading strategies and risk tolerance levels. They can include or exclude certain indicators based on their relevance.
+Traders can customize composite indicators to suit their specific [trading strategies](../t/trading_strategies.md) and risk tolerance levels. They can include or exclude certain indicators based on their relevance.
 
 ## Types of Composite Indicators
 
@@ -42,7 +42,7 @@ A Composite Moving Average combines multiple moving averages of different period
 A Composite Oscillator combines oscillators like RSI, MACD, and Stochastic Oscillators. It typically uses weighted averages to account for the different characteristics and timeframes of the individual oscillators.
 
 ### Market Breadth Indicators
-Market breadth indicators like the Advance/Decline Line can be incorporated into composite indicators to provide insights into the overall market direction.
+[Market breadth indicators](../m/market_breadth_indicators.md) like the Advance/Decline Line can be incorporated into composite indicators to provide insights into the overall market direction.
 
 ### Volume-Weighted Composite Indicators
 These indicators incorporate trading volume to add another layer of confirmation to the price action. Volume is often a leading indicator, suggesting the strength behind price movements.
@@ -67,15 +67,15 @@ Once the composite indicator is live, continue to monitor its performance. Make 
 ## Real-World Examples
 
 ### JP Morgan Advanced Momentum Oscillator
-JP Morgan employs proprietary composite indicators in their trading algorithms. One such example is the Advanced Momentum Oscillator, which combines RSI, MACD, and volume indicators to gauge market momentum. More about their quantitative research can be found on their [official website](https://www.jpmorgan.com).
+JP Morgan employs proprietary composite indicators in their [trading algorithms](../t/trading_algorithms.md). One such example is the Advanced Momentum Oscillator, which combines RSI, MACD, and [volume indicators](../v/volume_indicators.md) to gauge market momentum. More about their [quantitative research](../q/quantitative_research.md) can be found on their [official website](https://www.jpmorgan.com).
 
 ### Goldman Sachs Composite Trend Indicator
 Goldman Sachs uses a Composite Trend Indicator that incorporates various moving averages, direction indices, and volume metrics to provide a single, coherent trend assessment. For more information, visit their [AI-driven trading solutions page](https://www.goldmansachs.com).
 
 ### Renaissance Technologies' Medallion Fund
-Renaissance Technologies' flagship Medallion Fund employs highly sophisticated composite indicators built from proprietary algorithms and big data analytics. You can read more about their advanced quantitative methods on their [research page](https://www.rentec.com/).
+Renaissance Technologies' flagship Medallion Fund employs highly sophisticated composite indicators built from [proprietary algorithms](../p/proprietary_algorithms.md) and big data analytics. You can read more about their advanced quantitative methods on their [research page](https://www.rentec.com/).
 
 ## Conclusion
 
-Composite indicators are invaluable tools in algorithmic trading. By aggregating multiple signals into a single, cohesive metric, they offer traders a comprehensive view of market conditions, helping them make more informed trading decisions. As markets continue to evolve, the role of advanced composite indicators is likely to become even more prominent, making them a key component in the toolkit of any serious algorithmic trader.
-
+Composite indicators are invaluable tools in [algorithmic trading](../a/algorithmic_trading.md). By aggregating multiple signals into a single, cohesive metric, they offer traders a comprehensive view of market conditions, helping them make more informed trading decisions. As markets continue to evolve, the role of advanced composite indicators is likely to become even more prominent, making them a key component in the toolkit of any serious algorithmic trader.
+

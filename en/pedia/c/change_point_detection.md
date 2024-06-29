@@ -1,6 +1,6 @@
 # Change Point Detection in Algorithmic Trading
 
-Change Point Detection (CPD) refers to the process of identifying points in time where the statistical properties of a sequence of observations change. In the context of algorithmic trading, change point detection can be crucial for identifying changes in market regimes, volatility shifts, or other significant events that could affect trading strategies.
+Change Point Detection (CPD) refers to the process of identifying points in time where the statistical properties of a sequence of observations change. In the context of [algorithmic trading](../a/algorithmic_trading.md), change point detection can be crucial for identifying changes in market regimes, volatility shifts, or other significant events that could affect [trading strategies](../t/trading_strategies.md).
 
 ## Importance of Change Point Detection in Trading
 
@@ -11,8 +11,8 @@ Change Point Detection (CPD) refers to the process of identifying points in time
 
 2. **Volatility Shifts**:
     - Volatility is a measure of the degree of variation in trading prices over time.
-    - Sudden changes in volatility are common in financial markets and can impact the performance of trading strategies.
-    - Identifying points where volatility changes can inform risk management practices and trigger the adjustment of trading algorithms.
+    - Sudden changes in volatility are common in financial markets and can impact the performance of [trading strategies](../t/trading_strategies.md).
+    - Identifying points where volatility changes can inform [risk management](../r/risk_management.md) practices and trigger the adjustment of [trading algorithms](../t/trading_algorithms.md).
 
 3. **Predictive Modelling**:
     - Machine learning and statistical models used in trading rely on the assumption that the underlying data-generating process remains stable.
@@ -29,7 +29,7 @@ Several methods exist for detecting change points, each with its strengths and a
 
 2. **Machine Learning Approaches**:
     - **Supervised Learning**: Algorithms can be trained to predict change points using labeled historical data.
-    - **Unsupervised Learning**: Methods like clustering and anomaly detection can identify change points without labeled data.
+    - **Unsupervised Learning**: Methods like clustering and [anomaly detection](../a/anomaly_detection.md) can identify change points without labeled data.
 
 3. **Bayesian Methods**:
     - Bayesian techniques incorporate prior knowledge and update beliefs as new data arrives.
@@ -37,11 +37,11 @@ Several methods exist for detecting change points, each with its strengths and a
 
 ## Applications in Algorithmic Trading
 
-1. **Adaptive Strategies**:
+1. **[Adaptive Strategies](../a/adaptive_strategies.md)**:
     - Algorithms can be designed to adapt their parameters or switch strategies upon detecting a change point.
     - For instance, a trend-following strategy might switch to a mean-reversion strategy when a regime shift is detected.
 
-2. **Risk Management**:
+2. **[Risk Management](../r/risk_management.md)**:
     - By detecting volatility shifts or abrupt market changes, algorithms can dynamically adjust position sizes or hedge positions to control risk.
     - Sudden changes in market conditions can be mitigated by executing protective orders when change points are detected.
 
@@ -73,4 +73,4 @@ Several libraries and tools are available to assist in implementing Change Point
 
 ## Conclusion
 
-Change Point Detection is a critical component in the toolkit of algorithmic traders. By accurately identifying shifts in market regimes, volatility, and other statistical properties, traders can improve strategy performance, manage risks more effectively, and enhance the accuracy of predictive models. The ongoing development and refinement of CPD methods hold promising potential for further advancements in algorithmic trading strategies.
+Change Point Detection is a critical component in the toolkit of algorithmic traders. By accurately identifying shifts in market regimes, volatility, and other statistical properties, traders can improve strategy performance, manage risks more effectively, and enhance the accuracy of predictive models. The ongoing development and refinement of CPD methods hold promising potential for further advancements in [algorithmic trading](../a/algorithmic_trading.md) strategies.

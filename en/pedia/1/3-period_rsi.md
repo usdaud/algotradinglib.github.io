@@ -1,6 +1,6 @@
 # The 3-Period RSI (Relative Strength Index)
 
-In algorithmic trading, one of the most widely used technical indicators for quantifying the momentum of asset prices is the Relative Strength Index (RSI). The RSI was introduced by J. Welles Wilder in his 1978 book "New Concepts in Technical Trading Systems." The RSI is a momentum oscillator that measures the speed and change of price movements. It oscillates between 0 and 100 and is typically used to identify overbought or oversold conditions in a market. While the standard RSI calculation uses a 14-period timeframe, shorter period RSIs, such as the 3-period RSI, are also commonly employed, particularly in short-term trading strategies.
+In [algorithmic trading](../a/algorithmic_trading.md), one of the most widely used [technical indicators](../t/technical_indicators.md) for quantifying the momentum of asset prices is the Relative Strength Index (RSI). The RSI was introduced by J. Welles Wilder in his 1978 book "New Concepts in Technical [Trading Systems](../t/trading_systems.md)." The RSI is a momentum oscillator that measures the speed and change of price movements. It oscillates between 0 and 100 and is typically used to identify overbought or oversold conditions in a market. While the standard RSI calculation uses a 14-period timeframe, shorter period RSIs, such as the 3-period RSI, are also commonly employed, particularly in [short-term trading](../s/short-term_trading.md) strategies.
 
 ## Calculation of the 3-Period RSI
 
@@ -55,15 +55,15 @@ Thus, the 3-period RSI in this example is approximately 80.1.
 
 ### Trading Signals
 
-The 3-period RSI can be used to generate trading signals in a variety of ways:
+The 3-period RSI can be used to generate [trading signals](../t/trading_signals.md) in a variety of ways:
 
 1. **Overbought/Oversold Conditions**:
    - An RSI above 70 is typically considered "overbought," suggesting that the asset might be overvalued and due for a pullback.
    - An RSI below 30 is considered "oversold," indicating that the asset might be undervalued and ripe for a potential rally.
 
 2. **Divergence**:
-   - Bullish Divergence: Occurs when the price makes a new low, but the RSI makes a higher low. This divergence may indicate a potential upward reversal.
-   - Bearish Divergence: Occurs when the price makes a new high, but the RSI makes a lower high. This divergence could signal a potential downward reversal.
+   - [Bullish Divergence](../b/bullish_divergence.md): Occurs when the price makes a new low, but the RSI makes a higher low. This divergence may indicate a potential upward reversal.
+   - [Bearish Divergence](../b/bearish_divergence.md): Occurs when the price makes a new high, but the RSI makes a lower high. This divergence could signal a potential downward reversal.
 
 3. **Swing Rejections**:
    - Bullish Rejection: RSI falls below 30 (oversold), rises above 30, falls again but stays above 30, and then rises above its previous high.
@@ -73,7 +73,7 @@ The 3-period RSI can be used to generate trading signals in a variety of ways:
 
 #### Pseudocode for 3-Period RSI Calculation
 
-Below is a pseudocode example for integrating the 3-period RSI into an algorithmic trading system:
+Below is a pseudocode example for integrating the 3-period RSI into an [algorithmic trading](../a/algorithmic_trading.md) system:
 
 ```pseudo
 function calculate3PeriodRSI(prices):
@@ -102,7 +102,7 @@ function calculate3PeriodRSI(prices):
     return RSI
 ```
 
-This pseudocode calculates the 3-period RSI of a given series of prices. In a real algorithmic trading system, this function would be incorporated into a broader strategy, where buy and sell signals could be generated and acted upon.
+This pseudocode calculates the 3-period RSI of a given series of prices. In a real [algorithmic trading](../a/algorithmic_trading.md) system, this function would be incorporated into a broader strategy, where buy and sell signals could be generated and acted upon.
 
 #### Example in Python
 
@@ -145,7 +145,7 @@ In this Python example, the `calculate_3_period_rsi` function calculates the 3-p
    - Due to its high sensitivity, the 3-period RSI is adept at detecting short-term overbought and oversold conditions, which can lead to profitable contrarian trades.
 
 3. **Versatility**:
-   - The indicator can be used across different asset classes, including stocks, forex, and commodities. Its versatility makes it a valuable tool for various trading strategies.
+   - The indicator can be used across different asset classes, including stocks, forex, and commodities. Its versatility makes it a valuable tool for various [trading strategies](../t/trading_strategies.md).
 
 ### Limitations
 
@@ -156,13 +156,13 @@ In this Python example, the `calculate_3_period_rsi` function calculates the 3-p
    - In trending markets, the 3-period RSI may give numerous overbought or oversold signals without a resulting price reversal. This can lead to losses for traders relying solely on RSI signals.
 
 3. **Need for Confirmation**:
-   - To mitigate the risk of false signals, traders often combine the 3-period RSI with other technical indicators or analysis methods to confirm trading signals.
+   - To mitigate the risk of false signals, traders often combine the 3-period RSI with other [technical indicators](../t/technical_indicators.md) or analysis methods to confirm [trading signals](../t/trading_signals.md).
 
 ## Practical Use Cases and Strategies
 
 ### Mean Reversion Strategy
 
-In a mean reversion strategy, the 3-period RSI can be used to identify when an asset is overbought or oversold. The idea is to buy when the RSI is below 30 and sell when the RSI is above 70.
+In a [mean reversion](../m/mean_reversion.md) strategy, the 3-period RSI can be used to identify when an asset is overbought or oversold. The idea is to buy when the RSI is below 30 and sell when the RSI is above 70.
 
 #### Simple Mean Reversion Algorithm
 
@@ -186,7 +186,7 @@ RSI can also be used in trend-following strategies, providing a confirmation sig
 
 ### Combining with Other Indicators
 
-To increase the robustness of trading strategies, traders often combine the 3-period RSI with other technical indicators such as Moving Averages, MACD, or Bollinger Bands.
+To increase the robustness of [trading strategies](../t/trading_strategies.md), traders often combine the 3-period RSI with other [technical indicators](../t/technical_indicators.md) such as Moving Averages, MACD, or [Bollinger Bands](../b/bollinger_bands.md).
 
 #### Example Strategy
 
@@ -201,4 +201,4 @@ To increase the robustness of trading strategies, traders often combine the 3-pe
 
 ## Conclusion
 
-The 3-period RSI is a powerful tool in the arsenal of algorithmic traders. Its ability to provide timely insights into short-term market conditions makes it particularly useful for high-frequency trading and intraday strategies. However, like all technical indicators, it is not infallible and should be used in combination with other indicators and analysis techniques to improve accuracy and reduce the risk of false signals. By understanding its calculation, applications, and limitations, traders can effectively incorporate the 3-period RSI into their trading strategies to enhance their decision-making process and potentially increase profitability.
+The 3-period RSI is a powerful tool in the arsenal of algorithmic traders. Its ability to provide timely insights into short-term market conditions makes it particularly useful for high-frequency trading and intraday strategies. However, like all [technical indicators](../t/technical_indicators.md), it is not infallible and should be used in combination with other indicators and analysis techniques to improve accuracy and reduce the risk of false signals. By understanding its calculation, applications, and limitations, traders can effectively incorporate the 3-period RSI into their [trading strategies](../t/trading_strategies.md) to enhance their decision-making process and potentially increase profitability.

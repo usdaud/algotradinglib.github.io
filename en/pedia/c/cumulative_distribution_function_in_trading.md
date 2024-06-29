@@ -1,6 +1,6 @@
 ## Cumulative Distribution Function in Trading
 
-The Cumulative Distribution Function (CDF) is a statistical tool widely used in trading and quantitative finance for analyzing the probability distribution of a random variable. In the context of trading, the CDF provides traders and analysts with critical insights into market data, helping them to make informed decisions and to evaluate the risk and return of various trading strategies.
+The Cumulative Distribution Function (CDF) is a statistical tool widely used in trading and [quantitative finance](../q/quantitative_finance.md) for analyzing the probability distribution of a random variable. In the context of trading, the CDF provides traders and analysts with critical insights into market data, helping them to make informed decisions and to evaluate the risk and return of various [trading strategies](../t/trading_strategies.md).
 
 ### What is Cumulative Distribution Function?
 
@@ -19,13 +19,13 @@ The CDF ranges between 0 and 1 and is a non-decreasing function. It provides a c
 
 The CDF is crucial in trading for several reasons:
 
-1. **Risk Management**: By understanding the probabilities of different outcomes, traders can better manage their risks. For instance, the CDF can help in estimating the Value at Risk (VaR), which is a measure of the potential loss in the value of a portfolio.
+1. **[Risk Management](../r/risk_management.md)**: By understanding the probabilities of different outcomes, traders can better manage their risks. For instance, the CDF can help in estimating the Value at Risk (VaR), which is a measure of the potential loss in the value of a portfolio.
 
-2. **Strategy Backtesting**: Traders often backtest strategies to evaluate their effectiveness. The CDF helps in determining the historical performance of these strategies by showing the probability of achieving different levels of returns.
+2. **Strategy [Backtesting](../b/backtesting.md)**: Traders often backtest strategies to evaluate their effectiveness. The CDF helps in determining the historical performance of these strategies by showing the probability of achieving different levels of returns.
 
 3. **Option Pricing**: In options trading, the CDF is used to determine the probability that an option will expire in the money. This helps traders in pricing options and forming strategies like straddles and spreads.
 
-4. **Market Sentiment Analysis**: The CDF can be used to analyze the sentiment of the market by evaluating the distribution of returns over a certain period. It helps in understanding whether the market is bullish or bearish.
+4. **[Market Sentiment Analysis](../m/market_sentiment_analysis.md)**: The CDF can be used to analyze the sentiment of the market by evaluating the distribution of returns over a certain period. It helps in understanding whether the market is bullish or bearish.
 
 ### Calculation of CDF
 
@@ -37,17 +37,17 @@ The calculation of the CDF depends on whether the random variable is continuous 
 
 where \(T\) represents all possible discrete values that are less than or equal to \(x\).
 
-2. **For Continuous Variables**: The CDF is derived by integrating the probability density function (PDF) up to \(x\).
+2. **For Continuous Variables**: The CDF is derived by integrating the [probability density function](../p/probability_density_function.md) (PDF) up to \(x\).
 
 \[ F(x) = \int_{-\infty}^{x} f(t) dt \]
 
-where \(f(t)\) is the probability density function.
+where \(f(t)\) is the [probability density function](../p/probability_density_function.md).
 
 ### Applications of CDF in Trading
 
 #### 1. Risk Management
 
-In risk management, traders use the CDF to assess the likelihood of extreme losses. One standard measure is the Value at Risk (VaR), which quantifies the maximum loss expected (given a certain level of confidence) over a specific period. If \(X\) represents the portfolio return, and \(F(x)\) is the CDF of \(X\):
+In [risk management](../r/risk_management.md), traders use the CDF to assess the likelihood of extreme losses. One standard measure is the Value at Risk (VaR), which quantifies the maximum loss expected (given a certain level of confidence) over a specific period. If \(X\) represents the portfolio return, and \(F(x)\) is the CDF of \(X\):
 
 \[ VaR = F^{-1}(1 - \alpha) \]
 
@@ -55,11 +55,11 @@ where \(\alpha\) is the confidence level.
 
 #### 2. Quantitative Strategies
 
-Quantitative strategies often rely on statistical measures to optimize trade execution. The CDF can help in defining stop-loss orders or take-profit levels based on the historical distribution of asset prices. For example, if the CDF of an asset's return suggests a 95% probability that returns will not exceed a certain level, a trader might set a take-profit order around that level.
+Quantitative strategies often rely on statistical measures to optimize trade execution. The CDF can help in defining [stop-loss orders](../s/stop-loss_orders.md) or take-profit levels based on the historical distribution of asset prices. For example, if the CDF of an asset's return suggests a 95% probability that returns will not exceed a certain level, a trader might set a take-profit order around that level.
 
 #### 3. Algorithmic Trading
 
-Algorithmic trading strategies use the CDF to make automated trading decisions. Algorithms typically incorporate statistical analysis to forecast price movements and execute trades. By utilizing the CDF, algorithms can adjust their parameters in real-time to reflect changing market conditions.
+[Algorithmic trading](../a/algorithmic_trading.md) strategies use the CDF to make automated trading decisions. Algorithms typically incorporate statistical analysis to forecast price movements and execute trades. By utilizing the CDF, algorithms can adjust their parameters in real-time to reflect changing market conditions.
 
 #### 4. Market Analysis
 
@@ -83,9 +83,9 @@ where \(P_t\) is the closing price on day \(t\).
 
 3. **Building the CDF**: The trader then uses these daily returns to build the cumulative distribution function. This involves sorting the returns in ascending order and calculating the cumulative probability for each return.
 
-4. **Risk Assessment**: Using the CDF, the trader can determine critical risk metrics. For example, to find the 5% VaR, the trader looks up the value at which the CDF equals 0.05. This value represents the maximum expected loss with 95% confidence.
+4. **Risk Assessment**: Using the CDF, the trader can determine critical [risk metrics](../r/risk_metrics.md). For example, to find the 5% VaR, the trader looks up the value at which the CDF equals 0.05. This value represents the maximum expected loss with 95% confidence.
 
-5. **Trading Decisions**: Based on the insights from the CDF, the trader can make informed trading decisions, such as setting stop-loss orders or identifying potential entry and exit points.
+5. **Trading Decisions**: Based on the insights from the CDF, the trader can make informed trading decisions, such as setting [stop-loss orders](../s/stop-loss_orders.md) or identifying potential entry and exit points.
 
 ### Tools and Software
 
@@ -95,9 +95,9 @@ There are various tools and software available for traders to calculate and anal
 - **MATLAB**: A high-level language and interactive environment for numerical computation, visualization, and programming.
 - **R**: A programming language and free software environment for statistical computing and graphics.
 - **Excel**: With add-ins like Solver, traders can perform statistical analysis and calculate CDFs.
-- **QuantConnect**: A cloud-based algorithmic trading platform that supports CDF calculations within its framework. [QuantConnect](https://www.quantconnect.com)
-- **QuantLib**: An open-source library for quantitative finance that includes tools for calculating CDFs and other statistical measures. [QuantLib](https://www.quantlib.org)
+- **QuantConnect**: A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports CDF calculations within its framework. [QuantConnect](https://www.quantconnect.com)
+- **QuantLib**: An open-source library for [quantitative finance](../q/quantitative_finance.md) that includes tools for calculating CDFs and other statistical measures. [QuantLib](https://www.quantlib.org)
 
 ### Conclusion
 
-The Cumulative Distribution Function is a powerful tool in trading, offering a statistical approach to understanding market behavior and managing risks. By providing insights into the probability distribution of returns, the CDF helps traders make more informed decisions, optimize their trading strategies, and better understand the potential risks and rewards in the financial markets. Whether through risk management, algorithmic trading, or market analysis, the CDF plays a pivotal role in the modern trading landscape.
+The Cumulative Distribution Function is a powerful tool in trading, offering a statistical approach to understanding market behavior and managing risks. By providing insights into the probability distribution of returns, the CDF helps traders make more informed decisions, optimize their [trading strategies](../t/trading_strategies.md), and better understand the potential risks and rewards in the financial markets. Whether through [risk management](../r/risk_management.md), [algorithmic trading](../a/algorithmic_trading.md), or market analysis, the CDF plays a pivotal role in the modern trading landscape.

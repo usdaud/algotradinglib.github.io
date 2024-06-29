@@ -1,6 +1,6 @@
 # Bid-Ask Imbalance
 
-Bid-Ask Imbalance is a crucial concept in the financial markets, particularly in the realm of algorithmic trading. It refers to the discrepancy between the buy (bid) and sell (ask) orders in a market at any given time. A higher number of buy orders compared to sell orders — or vice versa — can provide valuable insights into market sentiment, liquidity, and potential price movements. Understanding bid-ask imbalance can help traders make more informed decisions, design better trading algorithms, and improve market-making strategies.
+Bid-Ask Imbalance is a crucial concept in the financial markets, particularly in the realm of [algorithmic trading](../a/algorithmic_trading.md). It refers to the discrepancy between the buy (bid) and sell (ask) orders in a market at any given time. A higher number of buy orders compared to sell orders — or vice versa — can provide valuable insights into market sentiment, liquidity, and potential price movements. Understanding bid-ask imbalance can help traders make more informed decisions, design better [trading algorithms](../t/trading_algorithms.md), and improve market-making strategies.
 
 ## Definition and Importance
 
@@ -8,7 +8,7 @@ Bid-Ask Imbalance is a crucial concept in the financial markets, particularly in
 
 - **Bid Price:** The maximum price a buyer is willing to pay for an asset.
 - **Ask Price:** The minimum price a seller is willing to accept for an asset.
-- **Bid-Ask Spread:** The difference between the bid and ask prices.
+- **[Bid-Ask Spread](../b/bid-ask_spread.md):** The difference between the bid and ask prices.
 
 ### Imbalance Concept
 
@@ -43,11 +43,11 @@ Some algorithms give more weight to orders closer to the current market price, r
 
 ### Liquidity Assessment
 
-One of the primary uses of bid-ask imbalance is to gauge liquidity. High imbalance values can indicate low liquidity and potential slippage, which are critical for designing effective trading strategies.
+One of the primary uses of bid-ask imbalance is to gauge liquidity. High imbalance values can indicate low liquidity and potential slippage, which are critical for designing effective [trading strategies](../t/trading_strategies.md).
 
 ### Price Prediction
 
-Several academic studies and proprietary trading algorithms leverage bid-ask imbalance to predict short-term price movements. A positive imbalance might indicate upward price pressure, while a negative imbalance could suggest downward pressure.
+Several academic studies and [proprietary trading](../p/proprietary_trading.md) algorithms leverage bid-ask imbalance to predict short-term price movements. A positive imbalance might indicate upward price pressure, while a negative imbalance could suggest downward pressure.
 
 ### Order Execution
 
@@ -61,7 +61,7 @@ Market makers use bid-ask imbalance to adjust their quotes dynamically. In the c
 
 ### Market Data Feeds
 
-Accurate and real-time market data feeds are crucial for calculating bid-ask imbalances. Companies like [Bloomberg](https://www.bloomberg.com/), [Thomson Reuters](https://www.thomsonreuters.com/en.html), and [ICE Data Services](https://www.theice.com/market-data-services) provide high-quality market data suited for this purpose.
+Accurate and [real-time market data](../r/real-time_market_data.md) feeds are crucial for calculating bid-ask imbalances. Companies like [Bloomberg](https://www.bloomberg.com/), [Thomson Reuters](https://www.thomsonreuters.com/en.html), and [ICE Data Services](https://www.theice.com/market-data-services) provide high-quality market data suited for this purpose.
 
 ### Trading Platforms
 
@@ -79,7 +79,7 @@ High-frequency trading firms like [Citadel Securities](https://www.citadelsecuri
 
 ### Academic Research
 
-Research by institutions such as the [MIT Laboratory for Financial Engineering](https://lfe.mit.edu/) has demonstrated the efficacy of bid-ask imbalance in predicting short-term price movements and refining trading strategies. 
+Research by institutions such as the [MIT Laboratory for Financial Engineering](https://lfe.mit.edu/) has demonstrated the efficacy of bid-ask imbalance in predicting short-term price movements and refining [trading strategies](../t/trading_strategies.md). 
 
 ## Risks and Challenges
 
@@ -99,11 +99,11 @@ Certain markets have regulations that might affect how imbalance data can be use
 
 ### Machine Learning Integration
 
-The integration of machine learning techniques for better predictive analytics based on bid-ask imbalance is an upcoming trend. Companies like [Kensho](https://www.kensho.com/) and [Numerai](https://numer.ai/) are at the forefront of this development.
+The integration of machine learning techniques for better [predictive analytics](../p/predictive_analytics.md) based on bid-ask imbalance is an upcoming trend. Companies like [Kensho](https://www.kensho.com/) and [Numerai](https://numer.ai/) are at the forefront of this development.
 
 ### Advanced Metrics
 
-Development of more sophisticated imbalance metrics that incorporate wider market conditions, such as trade volumes and volatility, will continue to enhance the reliability and effectiveness of trading algorithms.
+Development of more sophisticated imbalance metrics that incorporate wider market conditions, such as trade volumes and volatility, will continue to enhance the reliability and effectiveness of [trading algorithms](../t/trading_algorithms.md).
 
 ### Real-time Adaptability
 
@@ -111,4 +111,4 @@ Future algorithms may focus more on real-time adaptability, leveraging technolog
 
 ## Conclusion
 
-Bid-Ask Imbalance is a foundational element in the field of algorithmic trading. Its calculation and application provide insights into market liquidity, price movements, and optimal order execution. As technology evolves and new techniques emerge, the effective utilization of bid-ask imbalance will continue to be a significant driver of trading success.
+Bid-Ask Imbalance is a foundational element in the field of [algorithmic trading](../a/algorithmic_trading.md). Its calculation and application provide insights into market liquidity, price movements, and optimal order execution. As technology evolves and new techniques emerge, the effective utilization of bid-ask imbalance will continue to be a significant driver of trading success.

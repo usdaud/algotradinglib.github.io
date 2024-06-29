@@ -1,6 +1,6 @@
 ### 3-Period SMA (Simple Moving Average)
 
-A Simple Moving Average (SMA) is one of the most basic and widely used technical indicators in the field of trading and finance, particularly in the domain of algorithmic trading (also known as algo-trading). SMAs are used primarily to identify trends by smoothing out price data over a specified period. A 3-Period SMA, as the name suggests, is an SMA calculated over a short period of just three data points, making it highly sensitive to recent price changes.
+A Simple Moving Average (SMA) is one of the most basic and widely used [technical indicators](../t/technical_indicators.md) in the field of trading and finance, particularly in the domain of [algorithmic trading](../a/algorithmic_trading.md) (also known as algo-trading). SMAs are used primarily to identify trends by smoothing out price data over a specified period. A 3-Period SMA, as the name suggests, is an SMA calculated over a short period of just three data points, making it highly sensitive to recent price changes.
 
 #### Calculation of 3-Period SMA
 
@@ -25,15 +25,15 @@ Traders use the 3-Period SMA to grasp short-term price movements and tendencies.
 
 **2. Crossovers:**
 
-Another popular use of the 3-Period SMA is in crossover strategies. This involves using two SMAs of different durations (e.g., a 3-Period SMA and a 10-Period SMA). A buy signal might be generated when the shorter-term SMA crosses above the longer-term SMA, whereas a sell signal might be generated when it crosses below.
+Another popular use of the 3-Period SMA is in crossover strategies. This involves using two SMAs of different durations (e.g., a 3-Period SMA and a [10-Period SMA](../1/10-period_sma.md)). A buy signal might be generated when the shorter-term SMA crosses above the longer-term SMA, whereas a sell signal might be generated when it crosses below.
 
-**3. Support and Resistance Levels:**
+**3. [Support and Resistance](../s/support_and_resistance.md) Levels:**
 
 The 3-Period SMA can also serve as a dynamic support or resistance level. Traders often observe how an asset's price interacts with this SMA. If the price consistently bounces above the 3-Period SMA, it may act as a support level. Conversely, if the price frequently fails to surpass the 3-Period SMA, it might act as resistance.
 
 #### Example of Algorithms Using 3-Period SMA
 
-One basic algorithmic trading strategy involves utilizing the 3-Period SMA as part of a mean reversion strategy. In mean reversion, the basic assumption is that prices will revert to their mean over time. Here's an example:
+One basic [algorithmic trading](../a/algorithmic_trading.md) strategy involves utilizing the 3-Period SMA as part of a [mean reversion](../m/mean_reversion.md) strategy. In [mean reversion](../m/mean_reversion.md), the basic assumption is that prices will revert to their mean over time. Here's an example:
 
 1. **Identify the Mean Price:** Calculate the 3-Period SMA.
 2. **Deviation from Mean:** Determine if the current price deviates significantly from this average.
@@ -43,16 +43,16 @@ One basic algorithmic trading strategy involves utilizing the 3-Period SMA as pa
 
 Several platforms and software tools allow for the calculation and use of SMAs, including the 3-Period SMA, making them accessible for both novice and expert traders. Popular platforms include:
 
-- **MetaTrader 4/5:** A leading platform for Forex, Futures, and CFD markets. It's favored for its robust charting tools and ability to create custom indicators and automated trading strategies via MQL scripting.
+- **MetaTrader 4/5:** A leading platform for Forex, Futures, and CFD markets. It's favored for its robust charting tools and ability to create custom indicators and automated [trading strategies](../t/trading_strategies.md) via MQL scripting.
   - [MetaTrader](https://www.metatrader4.com/)
   
-- **NinjaTrader:** This software is renowned for futures and forex trading, offering advanced charting and backtesting tools.
+- **NinjaTrader:** This software is renowned for futures and forex trading, offering advanced charting and [backtesting](../b/backtesting.md) tools.
   - [NinjaTrader](https://ninjatrader.com/)
 
 - **TradingView:** A popular web-based platform known for its community-driven approach, extensive scripting capabilities in Pine Script, and ease of use.
   - [TradingView](https://www.tradingview.com/)
 
-- **QuantConnect:** An algorithm trading platform offering powerful backtesting capabilities and support for multiple asset classes.
+- **QuantConnect:** An algorithm trading platform offering powerful [backtesting](../b/backtesting.md) capabilities and support for multiple asset classes.
   - [QuantConnect](https://www.quantconnect.com/)
 
 #### Limitations of 3-Period SMA
@@ -72,4 +72,4 @@ Despite its usefulness, the 3-Period SMA has some limitations:
 
 The 3-Period SMA is a simple yet potent tool for traders looking to gain quick insights into short-term market movements. While it must be used with caution due to its sensitivity to noise and lagging nature, integrating it into a comprehensive trading strategy can enhance decision-making. Traders and algo experts frequently combine short-term SMAs with other indicators and methods to mitigate their individual limitations and capitalize on their strengths.
 
-In summary, understanding and effectively using the 3-Period Simple Moving Average can provide a solid foundation for developing more complex trading strategies, making it a worthwhile component in the toolkit of both novice and seasoned traders alike.
+In summary, understanding and effectively using the 3-Period Simple Moving Average can provide a solid foundation for developing more complex [trading strategies](../t/trading_strategies.md), making it a worthwhile component in the toolkit of both novice and seasoned traders alike.

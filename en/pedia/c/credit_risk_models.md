@@ -1,6 +1,6 @@
 # Credit Risk Models
 
-Credit risk modeling is a crucial aspect of financial risk management. It involves the use of various statistical, economic, and mathematical tools to predict the likelihood of a borrower defaulting on a loan or debt obligation. This process is instrumental for banks, financial institutions, and investors to manage and mitigate the risk associated with lending and credit extension. The goal is to quantify the potential loss due to a borrower's credit event, such as default, and to make informed decisions about credit allocation, pricing, and capital requirements.
+Credit risk modeling is a crucial aspect of [financial risk management](../f/financial_risk_management.md). It involves the use of various statistical, economic, and mathematical tools to predict the likelihood of a borrower defaulting on a loan or debt obligation. This process is instrumental for banks, financial institutions, and investors to manage and mitigate the risk associated with lending and credit extension. The goal is to quantify the potential loss due to a borrower's credit event, such as default, and to make informed decisions about credit allocation, pricing, and capital requirements.
 
 ## Types of Credit Risk
 
@@ -51,7 +51,7 @@ Reduced-form models, also called intensity-based models, do not focus on the fir
 Machine learning (ML) and artificial intelligence (AI) are transforming credit risk modeling by leveraging vast datasets and sophisticated algorithms to improve predictive accuracy.
 
 #### Techniques Used:
-- **Supervised Learning**: Algorithms like logistic regression, decision trees, random forests, and gradient boosting.
+- **Supervised Learning**: Algorithms like logistic regression, [decision trees](../d/decision_trees.md), random forests, and gradient boosting.
 - **Unsupervised Learning**: Clustering techniques to identify patterns in borrower behavior.
 - **Neural Networks**: Deep learning models to capture complex, non-linear relationships.
 
@@ -61,7 +61,7 @@ Machine learning (ML) and artificial intelligence (AI) are transforming credit r
 
 ### 5. Credit Portfolio Models
 
-These models assess the risk of a portfolio of credit exposures, considering correlations between different assets and sources of systematic risk.
+These models assess the risk of a portfolio of credit exposures, considering correlations between different assets and sources of [systematic risk](../s/systematic_risk.md).
 
 #### Notable Models:
 - **CreditMetrics**: Developed by J.P. Morgan, it quantifies the credit risk of a portfolio using historical transition matrices for ratings.
@@ -75,10 +75,10 @@ These models assess the risk of a portfolio of credit exposures, considering cor
 The development and application of credit risk models are heavily influenced by regulatory frameworks and economic conditions.
 
 ### Major Regulatory Frameworks:
-- **Basel Accords**: International regulatory accord that provides recommendations on banking regulations with a strong emphasis on risk management.
+- **Basel Accords**: International regulatory accord that provides recommendations on banking regulations with a strong emphasis on [risk management](../r/risk_management.md).
 
 ### Economic Conditions:
-Economic cycles play a significant role in credit risk models, as periods of recession often see higher default rates, whereas stable or growing economies tend to have lower default rates.
+[Economic cycles](../e/economic_cycles.md) play a significant role in credit risk models, as periods of recession often see higher default rates, whereas stable or growing economies tend to have lower default rates.
 
 ## Challenges and Future Directions
 
@@ -88,10 +88,10 @@ Despite advancements, credit risk modeling faces several challenges, including:
 - **Economic Uncertainty**: Predicting the impact of unforeseen economic events.
 
 ### Future Directions:
-- **Integration of Alternative Data**: Using non-traditional data sources like social media, utility payments, and transaction data to enhance model accuracy.
+- **Integration of [Alternative Data](../a/alternative_data.md)**: Using [non-traditional data sources](../n/non-traditional_data_sources.md) like social media, utility payments, and transaction data to enhance model accuracy.
 - **Use of Blockchain**: Potential for decentralized credit scoring and verification.
 - **Advance in AI and ML**: Continued evolution of machine learning models to handle larger and more complex datasets, improving predictive power and robustness.
 
 ## Conclusion
 
-Credit risk models are an essential component of modern financial risk management. From traditional statistical methods to cutting-edge machine learning techniques, these models provide valuable insights into the probability of borrower default, enabling better decision-making and risk management for financial institutions. As technology and data availability continue to evolve, credit risk modeling will undoubtedly become even more sophisticated, offering enhanced capabilities for predicting and managing credit risk in an increasingly complex financial landscape.
+Credit risk models are an essential component of modern [financial risk management](../f/financial_risk_management.md). From traditional statistical methods to cutting-edge machine learning techniques, these models provide valuable insights into the probability of borrower default, enabling better decision-making and [risk management](../r/risk_management.md) for financial institutions. As technology and data availability continue to evolve, credit risk modeling will undoubtedly become even more sophisticated, offering enhanced capabilities for predicting and managing credit risk in an increasingly complex financial landscape.

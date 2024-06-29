@@ -32,8 +32,8 @@ Like its 14-day counterpart, the 3-day RSI can identify overbought or oversold c
 
 Divergence occurs when the price of the security is moving in the opposite direction of the RSI. This can be a powerful signal that a reversal might be imminent. There are two types of divergence:
 
-- **Bullish Divergence**: When the price makes a new low while the RSI makes a higher low, it may indicate an upcoming price increase.
-- **Bearish Divergence**: When the price makes a new high while the RSI makes a lower high, it may signal an upcoming price decrease.
+- **[Bullish Divergence](../b/bullish_divergence.md)**: When the price makes a new low while the RSI makes a higher low, it may indicate an upcoming price increase.
+- **[Bearish Divergence](../b/bearish_divergence.md)**: When the price makes a new high while the RSI makes a lower high, it may signal an upcoming price decrease.
 
 ### RSI Trendlines
 
@@ -57,7 +57,7 @@ This strategy involves looking for RSI to re-enter a certain threshold:
 
 ### Combining with Other Indicators
 
-The 3-Day RSI can be combined with other technical indicators like moving averages, MACD, or Bollinger Bands to create more robust trading strategies. For example, one might look for an RSI signal in combination with a moving average cross to confirm a trade.
+The 3-Day RSI can be combined with other [technical indicators](../t/technical_indicators.md) like moving averages, MACD, or [Bollinger Bands](../b/bollinger_bands.md) to create more robust [trading strategies](../t/trading_strategies.md). For example, one might look for an RSI signal in combination with a moving average cross to confirm a trade.
 
 ## Limitations of 3-Day RSI
 
@@ -71,4 +71,4 @@ While the 3-Day RSI can be a useful tool, it is not without its limitations:
 
 The 3-Day RSI is a valuable tool for traders looking for a more responsive and shorter-term momentum indicator. By measuring the relative strength over a 3-day period, it can provide timely signals for potential entry and exit points. However, as with any indicator, it should be used in conjunction with other analysis techniques to confirm signals and mitigate the risk of false positives.
 
-For further exploration into trading strategies involving RSI, interested users can visit various educational platforms or financial websites offering detailed courses and webinars. For example, [Investopedia](https://www.investopedia.com) provides comprehensive guides on technical analysis and trading strategies.
+For further exploration into [trading strategies](../t/trading_strategies.md) involving RSI, interested users can visit various educational platforms or financial websites offering detailed courses and webinars. For example, [Investopedia](https://www.investopedia.com) provides comprehensive guides on [technical analysis](../t/technical_analysis.md) and [trading strategies](../t/trading_strategies.md).

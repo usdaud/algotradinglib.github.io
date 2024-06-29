@@ -8,7 +8,7 @@ At its core, data stream processing focuses on several key principles:
 
 1. **Continuous Processing**: Unlike traditional batch processing, where data is collected over time and processed in discrete units, stream processing deals with data continuously. As soon as data enters the system, it is immediately processed.
   
-2. **Low Latency**: The goal is to minimize the time between data ingestion and the resulting action. This is critical for applications where immediate response is necessary, such as fraud detection in finance or anomaly detection in IoT systems.
+2. **Low Latency**: The goal is to minimize the time between data ingestion and the resulting action. This is critical for applications where immediate response is necessary, such as fraud detection in finance or [anomaly detection](../a/anomaly_detection.md) in IoT systems.
   
 3. **Temporal Semantics**: The timing of data is crucial in stream processing. Each data event carries a timestamp indicating when it occurred. Systems must be cognizant of event ordering, lateness, and windows of time over which calculations are performed.
   
@@ -28,7 +28,7 @@ At its core, data stream processing focuses on several key principles:
 
 ### Use Cases and Applications
 
-* **Financial Services**: In financial trading, data stream processing is used to analyze market data, detect trends, and execute trades rapidly. For example, algorithmic trading relies heavily on real-time data analysis to make buy/sell decisions.
+* **Financial Services**: In financial trading, data stream processing is used to analyze market data, detect trends, and execute trades rapidly. For example, [algorithmic trading](../a/algorithmic_trading.md) relies heavily on [real-time data analysis](../r/real-time_data_analysis.md) to make buy/sell decisions.
 
 * **Telecommunications**: Real-time monitoring of network usage helps detect and respond to issues like network congestion or faults, ensuring better service quality and customer experience.
 
@@ -62,4 +62,4 @@ At its core, data stream processing focuses on several key principles:
 
 ### Conclusion
 
-Data stream processing has revolutionized the way real-time data is handled, providing the ability to make immediate decisions and derive timely insights from continuous data streams. The adoption of stream processing technologies has empowered various industries to move towards real-time analytics, driving innovation and efficiency. With continuous advancements in stream processing frameworks and the growing importance of real-time data, the future holds vast potential for further enhancements in this dynamic field.
+Data stream processing has revolutionized the way real-time data is handled, providing the ability to make immediate decisions and derive timely insights from continuous data streams. The adoption of stream processing technologies has empowered various industries to move towards real-time analytics, driving innovation and efficiency. With continuous advancements in stream processing frameworks and the growing importance of real-time data, the future holds vast potential for further enhancements in this dynamic field.

@@ -8,7 +8,7 @@ Bias is the error introduced by approximating a real-world problem, which may be
 
 ### High-Bias Models
 
-- **Linear models**: Models like linear regression and logistic regression assume a predefined linear relationship between input variables and the target variable. If this relationship is non-linear, these models will exhibit high bias because they cannot capture the complexity of the data.
+- **Linear models**: Models like [linear regression](../l/linear_regression.md) and logistic regression assume a predefined linear relationship between input variables and the target variable. If this relationship is non-linear, these models will exhibit high bias because they cannot capture the complexity of the data.
 - **Simplified assumptions**: Models with strong assumptions about the data distribution (e.g., Gaussian distributions in Naive Bayes) often have high bias.
 
 ### Sources of Bias
@@ -18,7 +18,7 @@ Bias is the error introduced by approximating a real-world problem, which may be
 
 ### Mitigating Bias
 
-- **Choosing a more flexible model**: For example, switching from linear regression to polynomial regression.
+- **Choosing a more flexible model**: For example, switching from [linear regression](../l/linear_regression.md) to polynomial regression.
 - **Incorporating more features**: Adding relevant features that capture the complexity of the data can reduce bias.
 - **Feature engineering**: Creating new features that better capture the underlying patterns in the data.
 
@@ -28,7 +28,7 @@ Variance refers to the error introduced by the model's sensitivity to the small 
 
 ### High-Variance Models
 
-- **Complex models**: Decision trees, k-nearest neighbors (k-NN), and deep neural networks can have high variance if not properly regularized.
+- **Complex models**: [Decision trees](../d/decision_trees.md), k-nearest neighbors (k-NN), and deep neural networks can have high variance if not properly regularized.
 - **Flexible algorithms**: Techniques that can adapt closely to the training data, like kernel methods in support vector machines, often exhibit high variance.
 
 ### Sources of Variance
@@ -40,7 +40,7 @@ Variance refers to the error introduced by the model's sensitivity to the small 
 
 - **Regularization**: Techniques like Lasso (L1 regularization) and Ridge (L2 regularization) add penalties to the model complexity, reducing variance.
 - **Cross-validation**: Using k-fold cross-validation helps in assessing model performance and reducing overfitting.
-- **Pruning**: Techniques like pruning in decision trees reduce model complexity and variance.
+- **Pruning**: Techniques like pruning in [decision trees](../d/decision_trees.md) reduce model complexity and variance.
 - **Ensemble methods**: Techniques like bagging (e.g., Random Forest) and boosting (e.g., Gradient Boosting) average multiple models to reduce variance.
 
 ## The Tradeoff
@@ -64,16 +64,16 @@ One common way to visualize the bias-variance tradeoff is through learning curve
 
 Choosing between different models involves understanding the bias and variance properties of various algorithms. For instance:
 
-- Linear regression (high bias, low variance)
+- [Linear regression](../l/linear_regression.md) (high bias, low variance)
 - Polynomial regression (low bias, high variance)
-- Decision trees (low bias, high variance)
+- [Decision trees](../d/decision_trees.md) (low bias, high variance)
 
 ### Hyperparameter Tuning
 
 Hyperparameter tuning is crucial in managing bias and variance. For example:
 
 - **k in k-NN**: Smaller k increases variance, larger k increases bias.
-- **Depth of trees in decision trees**: Deeper trees have higher variance and lower bias.
+- **Depth of trees in [decision trees](../d/decision_trees.md)**: Deeper trees have higher variance and lower bias.
 
 ### Data Augmentation
 
@@ -103,4 +103,4 @@ The bias-variance tradeoff is a critical aspect of model selection and evaluatio
 ## Resources for Further Reading
 
 - **Elements of Statistical Learning**: A comprehensive text by Hastie, Tibshirani, and Friedman discussing statistical learning, including the bias-variance tradeoff.
-- **Machine Learning Yearning**: A practical guide by Andrew Ng, focusing on applied machine learning techniques and considerations like bias-variance tradeoffs.
+- **Machine Learning Yearning**: A practical guide by Andrew Ng, focusing on applied machine learning techniques and considerations like bias-variance tradeoffs.

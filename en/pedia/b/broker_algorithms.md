@@ -1,6 +1,6 @@
 # Broker Algorithms in Algorithmic Trading
 
-Algorithmic trading, often referred to as "algo-trading," involves using computer programs and algorithms to execute trades at high speeds and frequencies that human traders cannot match. This automation is designed to take advantage of market conditions and price inefficiencies to make trading more efficient and profitable. One crucial component of algorithmic trading is broker algorithms, which play a significant role in the execution, timing, and strategy of trades. This article delves into broker algorithms, their types, functionalities, and the advantages and drawbacks they bring to the trading landscape.
+[Algorithmic trading](../a/algorithmic_trading.md), often referred to as "algo-trading," involves using computer programs and algorithms to execute trades at high speeds and frequencies that human traders cannot match. This automation is designed to take advantage of market conditions and price inefficiencies to make trading more efficient and profitable. One crucial component of [algorithmic trading](../a/algorithmic_trading.md) is broker algorithms, which play a significant role in the execution, timing, and strategy of trades. This article delves into broker algorithms, their types, functionalities, and the advantages and drawbacks they bring to the trading landscape.
 
 ## Introduction to Broker Algorithms
 
@@ -24,7 +24,7 @@ Implementation Shortfall algorithms aim to minimize the gap between the executio
 
 ### Liquidity-Seeking Algorithms
 
-These algorithms focus on finding and tapping into liquidity pools to execute the order with minimal market impact. They might split the orders across multiple venues to ensure better execution.
+These algorithms focus on finding and tapping into [liquidity pools](../l/liquidity_pools.md) to execute the order with minimal market impact. They might split the orders across multiple venues to ensure better execution.
 
 ### Smart Order Routing (SOR)
 
@@ -32,7 +32,7 @@ SOR algorithms dynamically route orders to different trading venues to obtain th
 
 ### Dark Pool Algorithms
 
-Dark pool algorithms execute orders in non-public exchanges or "dark pools" to avoid market impact and provide greater anonymity. They are beneficial for executing large orders without affecting the market price.
+Dark pool algorithms execute orders in non-public exchanges or "[dark pools](../d/dark_pools.md)" to avoid market impact and provide greater anonymity. They are beneficial for executing large orders without affecting the market price.
 
 ## Functions and Components of Broker Algorithms
 
@@ -44,7 +44,7 @@ Broker algorithms analyze vast amounts of historical and real-time data to make 
 
 ### Risk Management
 
-Algorithms are equipped with built-in risk management tools to prevent significant losses. They might have stop-loss mechanisms, position limits, and other risk mitigation strategies.
+Algorithms are equipped with built-in [risk management](../r/risk_management.md) tools to prevent significant losses. They might have stop-loss mechanisms, position limits, and other risk mitigation strategies.
 
 ### Pricing Models
 
@@ -88,7 +88,7 @@ Technical issues or bugs can lead to significant losses. There are documented ca
 
 ### Regulatory Concerns
 
-The fast-paced nature of algorithmic trading has attracted regulatory scrutiny. There are concerns about market fairness and stability, leading to stringent regulations and oversight.
+The fast-paced nature of [algorithmic trading](../a/algorithmic_trading.md) has attracted regulatory scrutiny. There are concerns about market fairness and stability, leading to stringent regulations and oversight.
 
 ### Lack of Transparency
 
@@ -100,28 +100,28 @@ Several leading brokerage firms deploy sophisticated broker algorithms to offer 
 
 ### Goldman Sachs
 
-Goldman Sachs offers a suite of algorithmic trading tools to its clients. These tools are designed to optimize trade execution across various asset classes.
+Goldman Sachs offers a suite of [algorithmic trading](../a/algorithmic_trading.md) tools to its clients. These tools are designed to optimize trade execution across various asset classes.
 
 [Goldman Sachs Algorithmic Trading](https://www.goldmansachs.com/what-we-do/engineering/algorithmic-trading/)
 
 ### Morgan Stanley
 
-Morgan Stanley's algorithmic trading platform provides clients with advanced execution strategies and smart order routing capabilities to enhance trade performance.
+Morgan Stanley's [algorithmic trading](../a/algorithmic_trading.md) platform provides clients with advanced execution strategies and smart [order routing](../o/order_routing.md) capabilities to enhance trade performance.
 
 [Morgan Stanley Algorithmic Trading](https://www.morganstanley.com/what-we-do/investment-banking/algorithmic-trading/)
 
 ### JPMorgan Chase
 
-JPMorgan Chase offers powerful algorithmic trading solutions that leverage machine learning and big data analytics to improve execution quality and manage risks.
+JPMorgan Chase offers powerful [algorithmic trading](../a/algorithmic_trading.md) solutions that leverage machine learning and big data analytics to improve execution quality and manage risks.
 
 [JPMorgan Chase Algorithmic Trading](https://www.jpmorganchase.com/what-we-do/markets/algorithmic-trading/)
 
 ### Credit Suisse
 
-Credit Suisse provides a range of algorithmic trading strategies that cater to different market conditions and client needs, from VWAP to liquidity-seeking algorithms.
+Credit Suisse provides a range of [algorithmic trading](../a/algorithmic_trading.md) strategies that cater to different market conditions and client needs, from VWAP to liquidity-seeking algorithms.
 
 [Credit Suisse Algorithmic Trading](https://www.credit-suisse.com/what-we-do/trading/algorithmic-trading/)
 
 ## Conclusion
 
-Broker algorithms are a cornerstone of modern algorithmic trading, offering significant advantages in terms of speed, cost efficiency, and execution quality. However, they also come with certain risks and challenges that need to be managed effectively. As technology continues to evolve, broker algorithms will likely become even more sophisticated, offering enhanced capabilities and further transforming the landscape of financial trading.
+Broker algorithms are a cornerstone of modern [algorithmic trading](../a/algorithmic_trading.md), offering significant advantages in terms of speed, cost efficiency, and execution quality. However, they also come with certain risks and challenges that need to be managed effectively. As technology continues to evolve, broker algorithms will likely become even more sophisticated, offering enhanced capabilities and further transforming the landscape of financial trading.

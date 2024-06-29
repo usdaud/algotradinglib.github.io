@@ -1,14 +1,14 @@
 # Arbitrage Pricing Theory
 
-Arbitrage Pricing Theory (APT) is a theory of asset pricing that determines the expected return on a financial asset. It is based on the idea that the return of a financial asset can be modeled as a linear function of various macroeconomic factors or theoretical market indices, where sensitivity to changes in each factor is represented by a factor-specific beta coefficient. APT was developed by the economist Stephen Ross in 1976 as an alternative to the Capital Asset Pricing Model (CAPM). Unlike the CAPM, which considers only one source of market risk (systematic risk), APT allows for multiple factors to influence asset returns.
+[Arbitrage](../a/arbitrage.md) Pricing Theory (APT) is a theory of asset pricing that determines the expected return on a financial asset. It is based on the idea that the return of a financial asset can be modeled as a linear function of various macroeconomic factors or theoretical market indices, where sensitivity to changes in each factor is represented by a factor-specific [beta coefficient](../b/beta_coefficient.md). APT was developed by the economist Stephen Ross in 1976 as an alternative to the Capital Asset Pricing Model (CAPM). Unlike the CAPM, which considers only one source of market risk ([systematic risk](../s/systematic_risk.md)), APT allows for multiple factors to influence asset returns.
 
 ## Key Concepts of Arbitrage Pricing Theory
 
 ### Factors and Beta Coefficients
 
-In APT, multiple factors are considered to affect the return of an asset. Each factor represents a different source of risk, and the sensitivity of the asset's return to each risk factor is measured by the beta coefficient (β). These factors can be grouped into categories such as:
+In APT, multiple factors are considered to affect the return of an asset. Each factor represents a different source of risk, and the sensitivity of the asset's return to each risk factor is measured by the [beta coefficient](../b/beta_coefficient.md) (β). These factors can be grouped into categories such as:
 
-1. **Systematic Risk Factors**: Broad economic or market-wide influences.
+1. **[Systematic Risk](../s/systematic_risk.md) Factors**: Broad economic or market-wide influences.
 2. **Industry-Specific Factors**: Risks peculiar to specific industries.
 3. **Firm-Specific Factors**: Risks related to individual firms.
 
@@ -25,7 +25,7 @@ Where:
 
 ### No Arbitrage Condition
 
-The core of APT is that in equilibrium, there should be no arbitrage opportunities. This means that there should be no way to construct a portfolio that yields a risk-free profit. If such opportunities exist, they would be exploited by rational investors, which would in turn change the asset prices until the opportunities are eliminated.
+The core of APT is that in equilibrium, there should be no [arbitrage](../a/arbitrage.md) opportunities. This means that there should be no way to construct a portfolio that yields a risk-free profit. If such opportunities exist, they would be exploited by rational investors, which would in turn change the asset prices until the opportunities are eliminated.
 
 ### Factor Models
 
@@ -42,7 +42,7 @@ Although both APT and CAPM are used to determine the fair price of an asset, the
 
 - **Number of Factors**: CAPM considers only one factor which is the market return, while APT considers multiple factors.
 - **Flexibility**: APT is more flexible as it allows the inclusion of various risk factors.
-- **Application**: CAPM is conceptually simpler and widely used in finance, whereas APT is more complex and less frequently used due to its requirement of a more detailed factor analysis.
+- **Application**: CAPM is conceptually simpler and widely used in finance, whereas APT is more complex and less frequently used due to its requirement of a more detailed [factor analysis](../f/factor_analysis.md).
 
 ## Practical Application of APT
 
@@ -70,7 +70,7 @@ With factors and betas identified and estimated, the model is constructed, allow
 ### Advantages
 
 1. **Flexibility**: APT can incorporate multiple sources of risk, providing a more comprehensive framework for understanding asset returns.
-2. **No Market Portfolio Requirement**: Unlike CAPM, APT does not require the existence of a market portfolio, making it more practical in certain scenarios.
+2. **No [Market Portfolio](../m/market_portfolio.md) Requirement**: Unlike CAPM, APT does not require the existence of a [market portfolio](../m/market_portfolio.md), making it more practical in certain scenarios.
 3. **Real-World Relevance**: By allowing multiple factors, APT can be more aligned with real-world observations where several macroeconomic variables influence asset prices.
 
 ### Disadvantages
@@ -81,4 +81,4 @@ With factors and betas identified and estimated, the model is constructed, allow
 
 ## Conclusion
 
-Arbitrage Pricing Theory offers a powerful and flexible methodology for understanding the determinants of asset prices and expected returns. By incorporating multiple risk factors, APT provides a richer framework than single-factor models like CAPM. However, its complexity and the requirement for detailed factor analysis mean that it is less widely adopted. Nonetheless, for those willing to undertake the requisite detailed analysis, APT can offer valuable insights into the pricing of assets and identification of arbitrage opportunities.
+[Arbitrage](../a/arbitrage.md) Pricing Theory offers a powerful and flexible methodology for understanding the determinants of asset prices and expected returns. By incorporating multiple risk factors, APT provides a richer framework than single-[factor models](../f/factor_models.md) like CAPM. However, its complexity and the requirement for detailed [factor analysis](../f/factor_analysis.md) mean that it is less widely adopted. Nonetheless, for those willing to undertake the requisite detailed analysis, APT can offer valuable insights into the pricing of assets and identification of [arbitrage](../a/arbitrage.md) opportunities.

@@ -1,6 +1,6 @@
 # Decision Trees in Algorithmic Trading
 
-Decision Trees are a non-parametric supervised learning method used for classification and regression. The key idea behind a decision tree is to break down a complex decision-making process into a series of simpler decisions, thus providing a solution that is easy to interpret and understand. In the context of algorithmic trading, decision trees can be a powerful tool for forecasting market conditions, optimizing trading strategies, and making buy/sell decisions.
+Decision Trees are a non-parametric supervised learning method used for classification and regression. The key idea behind a decision tree is to break down a complex decision-making process into a series of simpler decisions, thus providing a solution that is easy to interpret and understand. In the context of [algorithmic trading](../a/algorithmic_trading.md), decision trees can be a powerful tool for forecasting market conditions, optimizing [trading strategies](../t/trading_strategies.md), and making buy/sell decisions.
 
 ## Basic Concepts
 
@@ -29,7 +29,7 @@ Decision Trees are a non-parametric supervised learning method used for classifi
 
 1. **Splitting Criteria**: The tree is built by recursively splitting the data at each node based on a certain criterion.
    - For classification: Gini impurity, entropy, information gain.
-   - For regression: Mean Squared Error (MSE), Mean Absolute Error (MAE).
+   - For regression: [Mean Squared Error](../m/mean_squared_error.md) (MSE), Mean Absolute Error (MAE).
 2. **Tree Depth**: Determining the depth of the tree to avoid overfitting. This can include hyperparameters like maximum depth, minimum samples per leaf, etc.
 3. **Pruning**: Removing parts of the tree that do not provide additional predictive power to improve generalization.
 
@@ -42,25 +42,25 @@ Decision Trees are a non-parametric supervised learning method used for classifi
 
 ### Market Timing
 
-Decision Trees can be used to predict future price movements or market conditions. By analyzing historical price data, trading volumes, technical indicators, and macroeconomic variables, decision trees can help to forecast bullish or bearish trends.
+Decision Trees can be used to predict future price movements or market conditions. By analyzing historical price data, trading volumes, [technical indicators](../t/technical_indicators.md), and macroeconomic variables, decision trees can help to forecast bullish or bearish trends.
 
 ### Strategy Optimization
 
-Decision Trees can also be employed to optimize trading strategies. For instance, an algorithm could use a decision tree to determine the optimal time to enter or exit a position based on a variety of market conditions.
+Decision Trees can also be employed to optimize [trading strategies](../t/trading_strategies.md). For instance, an algorithm could use a decision tree to determine the optimal time to enter or exit a position based on a variety of market conditions.
 
 ### Risk Management
 
-Enhance risk management practices by predicting potential price drops or volatility spikes. Decision trees can be used to set stop-loss orders dynamically based on changing market conditions.
+Enhance [risk management](../r/risk_management.md) practices by predicting potential price drops or volatility spikes. Decision trees can be used to set [stop-loss orders](../s/stop-loss_orders.md) dynamically based on changing market conditions.
 
 ### Case Studies and Real-World Examples
 
 #### JPMorgan Chase
 
-JPMorgan Chase, one of the largest financial institutions worldwide, employs machine learning techniques, including decision trees, in their electronic trading algorithms for equities and FX trades. These models help in making strategic decisions to maximize gains and minimize risks. More about their initiatives can be found [here](https://www.jpmorgan.com/global).
+JPMorgan Chase, one of the largest financial institutions worldwide, employs machine learning techniques, including decision trees, in their electronic [trading algorithms](../t/trading_algorithms.md) for equities and FX trades. These models help in making strategic decisions to maximize gains and minimize risks. More about their initiatives can be found [here](https://www.jpmorgan.com/global).
 
 #### Citadel
 
-Citadel, a leading global financial institution, utilizes sophisticated quant models for trading. They employ various machine learning techniques, including decision trees, for optimal trading strategies. Visit their website for more information [here](https://www.citadel.com).
+Citadel, a leading global financial institution, utilizes sophisticated quant models for trading. They employ various machine learning techniques, including decision trees, for optimal [trading strategies](../t/trading_strategies.md). Visit their website for more information [here](https://www.citadel.com).
 
 #### Renaissance Technologies
 
@@ -84,6 +84,6 @@ Famous for its Medallion Fund, Renaissance Technologies integrates decision tree
 
 ## Conclusion
 
-Decision Trees, when combined with other machine learning techniques, can offer robust solutions for various challenges in algorithmic trading. Their ability to break down complex decision processes into understandable steps makes them highly valuable. However, care must be taken to manage their limitations, such as overfitting and instability, to harness their full potential.
+Decision Trees, when combined with other machine learning techniques, can offer robust solutions for various challenges in [algorithmic trading](../a/algorithmic_trading.md). Their ability to break down complex decision processes into understandable steps makes them highly valuable. However, care must be taken to manage their limitations, such as overfitting and instability, to harness their full potential.
 
-Incorporating Decision Trees into an algorithmic trading strategy can provide significant insights and added efficiency, making them an integral component of modern quantitative trading frameworks.
+Incorporating Decision Trees into an [algorithmic trading](../a/algorithmic_trading.md) strategy can provide significant insights and added efficiency, making them an integral component of modern [quantitative trading](../q/quantitative_trading.md) frameworks.

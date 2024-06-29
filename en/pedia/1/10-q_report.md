@@ -65,4 +65,4 @@ The filing deadlines for 10-Q reports vary based on the company's public float:
 - **Non-Accelerated Filers**: Companies with a public float under $75 million have 45 days.
 
 ## Conclusion
-The 10-Q report is a vital instrument for fostering transparency, facilitating informed decision-making, and ensuring compliance with federal securities laws. By delving into a company's quarterly financial health, stakeholders can make more educated and timely decisions that influence the future of investments and the market at large.
+The 10-Q report is a vital instrument for fostering transparency, facilitating informed decision-making, and ensuring compliance with federal securities laws. By delving into a company's quarterly financial health, stakeholders can make more educated and timely decisions that influence the future of investments and the market at large.

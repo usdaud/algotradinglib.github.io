@@ -1,4 +1,4 @@
-Algorithmic trading, commonly referred to as algo-trading, employs algorithms to execute trading strategies at high speed and volume. One sophisticated approach within this domain is the application of genetic algorithms (GAs). Genetic algorithms are optimization techniques inspired by the process of natural selection, which belong to the broader class of evolutionary algorithms. 
+[Algorithmic trading](../a/algorithmic_trading.md), commonly referred to as algo-trading, employs algorithms to execute [trading strategies](../t/trading_strategies.md) at high speed and volume. One sophisticated approach within this domain is the application of genetic algorithms (GAs). Genetic algorithms are optimization techniques inspired by the process of natural selection, which belong to the broader class of evolutionary algorithms. 
 
 **Genetic Algorithms**:
 
@@ -20,27 +20,27 @@ A genetic algorithm mimics the process of natural selection by considering a pop
 
 7. **Termination**: The algorithm terminates when a stopping criterion is met, such as a maximum number of generations or a satisfactory fitness level.
 
-**Application in Algorithmic Trading**:
+**Application in [Algorithmic Trading](../a/algorithmic_trading.md)**:
 
-Genetic algorithms can be particularly effective in algorithmic trading due to their ability to find optimal or near-optimal solutions in complex search spaces. Here's a step-by-step breakdown of how they can be applied:
+Genetic algorithms can be particularly effective in [algorithmic trading](../a/algorithmic_trading.md) due to their ability to find optimal or near-optimal solutions in complex search spaces. Here's a step-by-step breakdown of how they can be applied:
 
-1. **Encoding Trading Strategies**: Trading strategies can be represented as chromosomes. For instance, elements of a strategy, such as moving average periods or stop-loss percentages, can be encoded into a bit string or numerical vector.
+1. **Encoding [Trading Strategies](../t/trading_strategies.md)**: [Trading strategies](../t/trading_strategies.md) can be represented as chromosomes. For instance, elements of a strategy, such as moving average periods or stop-loss percentages, can be encoded into a bit string or numerical vector.
 
-2. **Initialization**: A population of random trading strategies is created. Each strategy is backtested on historical data, and its performance is recorded.
+2. **Initialization**: A population of random [trading strategies](../t/trading_strategies.md) is created. Each strategy is backtested on historical data, and its performance is recorded.
 
-3. **Fitness Evaluation**: Strategies are evaluated based on predefined criteria such as profitability, Sharpe ratio, or drawdown. The fitness function might include multiple objectives to balance risk and return.
+3. **Fitness Evaluation**: Strategies are evaluated based on predefined criteria such as profitability, [Sharpe ratio](../s/sharpe_ratio.md), or drawdown. The fitness function might include multiple objectives to balance risk and return.
 
 4. **Selection**: Strategies with higher fitness scores are more likely to be selected as parents for the next generation. This process ensures that better-performing strategies have a higher chance of passing on their traits.
 
 5. **Crossover and Mutation**: Selected strategies are crossed over and mutated to produce a new generation of strategies. This process introduces variation and explores new areas of the search space.
 
-6. **Iteration**: The process of evaluation, selection, crossover, and mutation is repeated for several generations. Over time, the population should converge towards more effective trading strategies.
+6. **Iteration**: The process of evaluation, selection, crossover, and mutation is repeated for several generations. Over time, the population should converge towards more effective [trading strategies](../t/trading_strategies.md).
 
 7. **Deployment**: Once the genetic algorithm has evolved a sufficiently robust strategy, it can be deployed in live trading. Continuous monitoring and re-optimization may be necessary to adapt to changing market conditions.
 
 **Advantages**:
 
-1. **Adaptability**: Genetic algorithms can adapt to changing market conditions by continually evolving trading strategies.
+1. **Adaptability**: Genetic algorithms can adapt to changing market conditions by continually evolving [trading strategies](../t/trading_strategies.md).
 2. **Parallelism**: The population-based approach allows for natural parallel processing, speeding up the optimization process.
 3. **Exploration**: Genetic algorithms explore a wide search space, which helps discover novel and potentially profitable strategies.
 4. **Multi-objective Optimization**: They can handle multiple objectives, balancing factors like profitability, risk, and trading frequency.
@@ -53,7 +53,7 @@ Genetic algorithms can be particularly effective in algorithmic trading due to t
 
 **Case Study and Examples**:
 
-Numerous financial firms and academic institutions have explored the use of genetic algorithms in trading. One example is the work conducted by Michael J. Stutzer at the University of Colorado. His research demonstrated the effectiveness of genetic programming in evolving trading rules that could outperform traditional approaches.
+Numerous financial firms and academic institutions have explored the use of [genetic algorithms in trading](../g/genetic_algorithms_in_trading.md). One example is the work conducted by Michael J. Stutzer at the University of Colorado. His research demonstrated the effectiveness of genetic programming in evolving [trading rules](../t/trading_rules.md) that could outperform traditional approaches.
 
 Another notable application is by QTS Capital Management, who employ advanced evolutionary algorithms, including genetic algorithms, as part of their trading strategy development process. Their use of high-frequency data and sophisticated modeling has yielded significant performance in various market conditions.
 
@@ -70,4 +70,4 @@ For those interested in further exploration, there are several open-source libra
 
 **Conclusion**:
 
-Genetic algorithms represent a powerful tool in the arsenal of algorithmic traders. By leveraging principles of evolution and natural selection, they can discover, optimize, and adapt trading strategies that deliver superior performance. Despite the challenges, the adaptability and robustness of genetic algorithms make them a captivating area of research and application in financial markets.
+Genetic algorithms represent a powerful tool in the arsenal of algorithmic traders. By leveraging principles of evolution and natural selection, they can discover, optimize, and adapt [trading strategies](../t/trading_strategies.md) that deliver superior performance. Despite the challenges, the adaptability and robustness of genetic algorithms make them a captivating area of research and application in financial markets.

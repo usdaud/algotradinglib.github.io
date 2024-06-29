@@ -9,7 +9,7 @@ Commodity options are a type of derivative instrument that gives the holder the 
 There are two primary types of commodity options:
 
 1. **Call Options**: These give the holder the right to buy a commodity at a specified price within a specified time period.
-2. **Put Options**: These give the holder the right to sell a commodity at a specified price within a specified time period.
+2. **[Put Options](../p/put_options.md)**: These give the holder the right to sell a commodity at a specified price within a specified time period.
 
 #### Underlying Commodities
 
@@ -21,7 +21,7 @@ The underlying commodities for these options can be any physical goods reflectin
 
 ### Valuation and Pricing
 
-Commodity options are priced using several models, with the most common being the **Black-Scholes model** and the **Binomial options pricing model**. These models take into account factors like the current price of the commodity, the strike price of the option, time until expiration, volatility of the underlying commodity, and prevailing risk-free interest rates.
+Commodity options are priced using several models, with the most common being the **[Black-Scholes model](../b/black-scholes_model.md)** and the **Binomial options pricing model**. These models take into account factors like the current price of the commodity, the strike price of the option, time until expiration, volatility of the underlying commodity, and prevailing risk-free interest rates.
 
 ### Benefits and Risks
 
@@ -35,14 +35,14 @@ Commodity options are priced using several models, with the most common being th
 
 1. **Expiration Risk**: Options can expire worthless if the market does not move as anticipated.
 2. **Market Risk**: Prices can be affected by market volatility and other unpredictable external factors.
-3. **Liquidity Risk**: Some commodity options may have less liquidity, leading to larger bid-ask spreads and slippage.
+3. **[Liquidity Risk](../l/liquidity_risk.md)**: Some commodity options may have less liquidity, leading to larger bid-ask spreads and slippage.
 
 ### Market Participants
 
 There are various market participants, including:
 
 1. **Hedgers**: These include farmers looking to secure prices for their crops or airlines looking to lock in fuel costs.
-2. **Speculators**: These include individual traders, hedge funds, and proprietary trading firms aiming to profit from price movements.
+2. **Speculators**: These include individual traders, hedge funds, and [proprietary trading](../p/proprietary_trading.md) firms aiming to profit from price movements.
 3. **Market Makers**: These participants provide liquidity by quoting both buy and sell prices for options.
 
 ### Key Exchanges
@@ -55,11 +55,11 @@ Commodity options are traded on several key exchanges, including:
 
 ### Regulations
 
-Commodity options trading is subject to strict regulatory oversight to ensure transparency and protect the interests of all market participants. In the United States, the main regulatory body is the **Commodity Futures Trading Commission (CFTC)**: https://www.cftc.gov.
+Commodity options trading is subject to strict regulatory oversight to ensure transparency and protect the interests of all market participants. In the United States, the main regulatory body is the **[Commodity Futures](../c/commodity_futures.md) Trading Commission (CFTC)**: https://www.cftc.gov.
 
 ### Strategies
 
-Several trading strategies are used in commodity options markets:
+Several [trading strategies](../t/trading_strategies.md) are used in commodity options markets:
 
 1. **Covered Call**: Holding the underlying commodity while selling a call option to generate income.
 2. **Protective Put**: Holding the underlying commodity and buying a put option to hedge against downside risk.
@@ -67,8 +67,8 @@ Several trading strategies are used in commodity options markets:
 
 ### Technological Advances
 
-With the advent of technology, computerized trading and algorithmic strategies have become prevalent in commodity options trading. Algorithmic trading can exploit minute price differentials and execute strategies faster and more efficiently than human traders.
+With the advent of technology, computerized trading and algorithmic strategies have become prevalent in commodity options trading. [Algorithmic trading](../a/algorithmic_trading.md) can exploit minute price differentials and execute strategies faster and more efficiently than human traders.
 
 ### Conclusion
 
-Commodity options offer many opportunities for investors, traders, and commercial participants to manage risk, speculate, and create income. Understanding the fundamental principles, benefits, risks, and strategies is essential for successful participation in these markets.
+Commodity options offer many opportunities for investors, traders, and commercial participants to manage risk, speculate, and create income. Understanding the fundamental principles, benefits, risks, and strategies is essential for successful participation in these markets.

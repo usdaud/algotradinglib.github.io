@@ -93,7 +93,7 @@ In a more sophisticated analysis, economists and analysts might use a blend of m
 
 The technology sector, particularly "Big Tech" firms, has often been scrutinized for high market concentration. Companies like Google, Apple, Facebook, and Amazon collectively hold significant market shares in their respective domains, often leading to high CR4 and CR8 values.
 
-For instance, in online advertising, Google and Facebook together control a substantial majority of the market. Regulators and policymakers frequently cite these high concentration ratios when discussing antitrust actions and market regulation strategies.
+For instance, in online advertising, Google and Facebook together control a substantial majority of the market. Regulators and policymakers frequently cite these high concentration ratios when discussing antitrust actions and [market regulation](../m/market_regulation.md) strategies.
 
 ### Regulatory Impact Cases
 
@@ -109,4 +109,4 @@ In financial markets, concentration ratios help in understanding the distributio
 The Concentration Ratio is an essential tool for economists and policymakers to analyze and understand market structures. It provides insights into the degree of competition, potential market power, and the need for regulatory interventions. While it has limitations, CR complements other metrics like the HHI in offering a comprehensive view of market dynamics.
 
 For further detailed insights into modern application and computing solutions related to market analytics, referencing prominent technology companies' resources could prove beneficial. For instance, examining services from [Bloomberg](https://www.bloomberg.com/), which provides financial software tools, and [OpenAI](https://www.openai.com/), which deals with artificial intelligence applications in data analysis, can offer enhanced perspectives on market concentration metrics.
-
+

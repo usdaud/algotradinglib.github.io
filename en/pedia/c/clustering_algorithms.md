@@ -2,7 +2,7 @@
 
 ## What is Clustering?
 
-Clustering is a machine learning technique that involves grouping a set of objects in such a way that objects in the same group (called a cluster) are more similar to each other than to those in other groups. This technique is widely used in various fields such as data mining, pattern recognition, image analysis, information retrieval, and bioinformatics. In the context of algo trading, clustering algorithms can be used to identify patterns in historical price data, segment different types of market conditions, and enhance predictive models for trading strategies.
+Clustering is a machine learning technique that involves grouping a set of objects in such a way that objects in the same group (called a cluster) are more similar to each other than to those in other groups. This technique is widely used in various fields such as [data mining](../d/data_mining.md), [pattern recognition](../p/pattern_recognition.md), image analysis, information retrieval, and bioinformatics. In the context of algo trading, clustering algorithms can be used to identify patterns in historical price data, segment different types of market conditions, and enhance predictive models for [trading strategies](../t/trading_strategies.md).
 
 ## Types of Clustering Algorithms
 
@@ -11,7 +11,7 @@ Several clustering algorithms can be applied in the context of algo trading. Som
 - **K-means Clustering**
 - **Hierarchical Clustering**
 - **DBSCAN (Density-Based Spatial Clustering of Applications with Noise)**
-- **Gaussian Mixture Models (GMM)**
+- **[Gaussian Mixture Models](../g/gaussian_mixture_models.md) (GMM)**
 - **Mean Shift Clustering**
 - **Spectral Clustering**
 
@@ -44,11 +44,11 @@ Hierarchical clustering does not require specifying the number of clusters in ad
 - **Border Points**: Points that are reachable from a core point but have fewer neighbors than the required minimum.
 - **Noise Points**: Points that are neither core points nor border points.
 
-This algorithm is particularly useful for algo trading in identifying outliers or unusual trading activities, which can be crucial for risk management.
+This algorithm is particularly useful for algo trading in identifying outliers or unusual trading activities, which can be crucial for [risk management](../r/risk_management.md).
 
 ### Gaussian Mixture Models (GMM)
 
-**Gaussian Mixture Models (GMM)** assume that the data points are generated from a mixture of several Gaussian distributions with unknown parameters. Unlike K-means, which assigns each data point to a single cluster, GMM evaluates the probability that a data point belongs to a cluster. This is done using the Expectation-Maximization (EM) algorithm, which iteratively updates the parameters to maximize the likelihood of the data.
+**[Gaussian Mixture Models](../g/gaussian_mixture_models.md) (GMM)** assume that the data points are generated from a mixture of several Gaussian distributions with unknown parameters. Unlike K-means, which assigns each data point to a single cluster, GMM evaluates the probability that a data point belongs to a cluster. This is done using the Expectation-Maximization (EM) algorithm, which iteratively updates the parameters to maximize the likelihood of the data.
 
 In algo trading, GMM can be used to model the distribution of returns or other financial metrics, providing a probabilistic framework for decision-making.
 
@@ -69,11 +69,11 @@ In algo trading, spectral clustering can help uncover hidden relationships betwe
 Clustering algorithms can be applied in various aspects of algo trading, including but not limited to:
 
 1. **Stock Segmentation**: Group similar stocks or other financial instruments based on price movement patterns, fundamental factors, or other relevant features.
-2. **Regime Detection**: Identify different market regimes (e.g., bullish, bearish, volatile) to adjust trading strategies accordingly.
-3. **Risk Management**: Detect outliers or unusual trading activities that may indicate potential risk.
-4. **Portfolio Optimization**: Diversify portfolio by selecting assets from different clusters to minimize risk and enhance returns.
+2. **Regime Detection**: Identify different market regimes (e.g., bullish, bearish, volatile) to adjust [trading strategies](../t/trading_strategies.md) accordingly.
+3. **[Risk Management](../r/risk_management.md)**: Detect outliers or unusual trading activities that may indicate potential risk.
+4. **[Portfolio Optimization](../p/portfolio_optimization.md)**: Diversify portfolio by selecting assets from different clusters to minimize risk and enhance returns.
 5. **Feature Engineering**: Generate new features for predictive models by clustering historical price data or other financial metrics.
-6. **Pattern Recognition**: Identify and exploit repeating patterns in market data.
+6. **[Pattern Recognition](../p/pattern_recognition.md)**: Identify and exploit repeating patterns in market data.
 
 ## Challenges and Considerations
 
@@ -93,4 +93,4 @@ For more information on specific algorithm implementations and use cases, you ca
 
 - [Scikit-learn - Clustering](https://scikit-learn.org/stable/modules/clustering.html)
 - [DBSCAN Overview](https://scikit-learn.org/stable/modules/clustering.html#dbscan)
-- [K-means Clustering](https://scikit-learn.org/stable/modules/clustering.html#k-means)
+- [K-means Clustering](https://scikit-learn.org/stable/modules/clustering.html#k-means)

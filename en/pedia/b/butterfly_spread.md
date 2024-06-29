@@ -1,6 +1,6 @@
 # Butterfly Spread
 
-A butterfly spread is a neutral options trading strategy that involves the simultaneous purchase and sale of multiple options with different strike prices. This strategy is designed to generate a profit when the price of the underlying asset remains within a certain range, and it is popular among traders who expect minimal price movement. The butterfly spread can be implemented using either calls or puts and can be further divided into different variations like long butterfly spread and short butterfly spread. 
+A butterfly spread is a neutral options trading strategy that involves the simultaneous purchase and sale of multiple options with different strike prices. This strategy is designed to generate a profit when the price of the underlying asset remains within a certain range, and it is popular among traders who expect minimal price movement. The butterfly spread can be implemented using either calls or puts and can be further divided into different variations like [long butterfly spread](../l/long_butterfly_spread.md) and [short butterfly spread](../s/short_butterfly_spread.md). 
 
 ## Components of a Butterfly Spread
 
@@ -22,11 +22,11 @@ The result is a position where the trader profits the most if the stock closes a
 
 ### Long Butterfly Spread
 
-A long butterfly spread is set up by purchasing a lower strike option, selling two middle strike options, and purchasing a higher strike option. This strategy results in a net debit initially paid out, but offers a high reward-to-risk ratio if the underlying asset's price is around the middle strike price at expiration. 
+A [long butterfly spread](../l/long_butterfly_spread.md) is set up by purchasing a lower strike option, selling two middle strike options, and purchasing a higher strike option. This strategy results in a net debit initially paid out, but offers a high reward-to-risk ratio if the underlying asset's price is around the middle strike price at expiration. 
 
 ### Short Butterfly Spread
 
-In contrast, a short butterfly spread involves selling the lower and higher strike options and purchasing twice the middle strike options. This results in a net credit received initially, but the risk can be significant if the underlying asset's price moves significantly.
+In contrast, a [short butterfly spread](../s/short_butterfly_spread.md) involves selling the lower and higher strike options and purchasing twice the middle strike options. This results in a net credit received initially, but the risk can be significant if the underlying asset's price moves significantly.
 
 ## Advantages of Butterfly Spreads
 
@@ -64,10 +64,10 @@ This can enhance the profitability if properly executed under the right market c
 
 ### Iron Butterfly Spread
 
-An iron butterfly involves both calls and puts. It is created by selling an at-the-money straddle (selling an ATM call and an ATM put) and buying an out-of-the-money strangle. The iron butterfly has limited loss and profit potential and mirrors a standard butterfly but is less capital intensive.
+An [iron butterfly](../i/iron_butterfly.md) involves both calls and puts. It is created by selling an at-the-money straddle (selling an ATM call and an ATM put) and buying an out-of-the-money strangle. The [iron butterfly](../i/iron_butterfly.md) has limited loss and profit potential and mirrors a standard butterfly but is less capital intensive.
 
 ## Conclusion
 
 Butterfly spread is a powerful options trading strategy apt for traders anticipating a neutral market. While the strategy capably limits risk and can offer a rewarding payoff if executed meticulously, it requires a deep understanding of the market, precise timing, and choice of strike prices. By leveraging the resources and tools available at reputable trading platforms, traders can enhance their strategies and optimize their potential returns.
 
-For a more comprehensive understanding and hands-on practice, visit the websites of reputable trading platforms mentioned above, which offer detailed guides and educational materials on butterfly spreads and other options trading strategies.
+For a more comprehensive understanding and hands-on practice, visit the websites of reputable trading platforms mentioned above, which offer detailed guides and educational materials on butterfly spreads and other [options trading strategies](../o/options_trading_strategies.md).

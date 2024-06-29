@@ -48,7 +48,7 @@ The 7-year yield specifically refers to the yield on a Treasury note that mature
 
 ### For Investors
 - **Risk Assessment:** The 7-year yield helps investors assess the risk and return profile of medium-term Treasury securities.
-- **Portfolio Management:** Investors use the yield to balance risk and return in their portfolios, especially those with fixed-income investments.
+- **[Portfolio Management](../p/portfolio_management.md):** Investors use the yield to balance risk and return in their portfolios, especially those with fixed-income investments.
 
 ### For the Economy
 - **Borrowing Costs:** The yield influences the cost of borrowing for businesses and consumers, affecting economic activity.

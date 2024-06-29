@@ -10,18 +10,18 @@ The DCF model is one of the most fundamental approaches to bond pricing. This mo
 Where:
 - \( P \) = Price of the bond
 - \( C \) = Coupon payment
-- \( r \) = Discount rate or yield to maturity (YTM)
+- \( r \) = Discount rate or [yield to maturity](../y/yield_to_maturity.md) (YTM)
 - \( t \) = Time period
 - \( F \) = Face value of the bond
 - \( T \) = Total number of periods
 
 The DCF model assumes that the future cash flows are known and that the discount rate reflects the bond's risk and time value of money.
 
-2. **Yield to Maturity (YTM)**
+2. **[Yield to Maturity](../y/yield_to_maturity.md) (YTM)**
 The YTM is the internal rate of return (IRR) of a bond. It represents the total return an investor can expect if the bond is held until maturity, considering all coupon payments and any gain or loss if the bond was purchased at a price different from its face value. To find the YTM, one must solve the DCF equation for \( r \), which can be a complex process requiring iterative methods or financial calculators.
 
 3. **Spot Rate Curve**
-The spot rate curve, also known as the zero-coupon yield curve, represents yields on zero-coupon bonds (bonds that pay no coupons and only return the face value at maturity) for various maturities. It is used to price bonds by discounting each cash flow at the particular spot rate corresponding to its time to maturity. This method provides more precision since it accounts for the varying term structures of interest rates. The formula using the spot rates is:
+The spot rate curve, also known as the zero-coupon [yield curve](../y/yield_curve.md), represents yields on zero-coupon bonds (bonds that pay no coupons and only return the face value at maturity) for various maturities. It is used to price bonds by discounting each cash flow at the particular spot rate corresponding to its time to maturity. This method provides more precision since it accounts for the varying term structures of interest rates. The formula using the spot rates is:
 
 \[ P = \sum \frac{C}{(1+s_t)^t} + \frac{F}{(1+s_T)^T} \]
 
@@ -41,16 +41,16 @@ Where:
 - \( f_{t,t+n} \) = Forward rate from period \( t \) to \( t+n \)
 
 5. **Duration and Convexity**
-Duration measures the sensitivity of a bond's price to changes in interest rates, expressed in years. Modified duration adjusts the Macaulay duration for the bond's yield. Convexity further refines this measure by accounting for the curvature in the price-yield relationship. These measures are crucial for portfolio management and risk assessment, as they help in understanding potential price volatility.
+Duration measures the sensitivity of a bond's price to changes in interest rates, expressed in years. Modified duration adjusts the Macaulay duration for the bond's yield. Convexity further refines this measure by accounting for the curvature in the price-yield relationship. These measures are crucial for [portfolio management](../p/portfolio_management.md) and risk assessment, as they help in understanding potential price volatility.
 
-6. **Arbitrage-Free Models**
-Arbitrage-free models prevent the possibility of arbitrage opportunities, ensuring that all bonds are priced consistently with the market. The most common arbitrage-free models include the Ho-Lee model, the Black-Derman-Toy model, and the Hull-White model. These models generate future interest rate paths that are consistent with observed market prices of bonds and derivatives.
+6. **[Arbitrage-Free Models](../a/arbitrage-free_models.md)**
+[Arbitrage-free models](../a/arbitrage-free_models.md) prevent the possibility of [arbitrage](../a/arbitrage.md) opportunities, ensuring that all bonds are priced consistently with the market. The most common [arbitrage-free models](../a/arbitrage-free_models.md) include the Ho-Lee model, the Black-Derman-Toy model, and the Hull-White model. These models generate future interest rate paths that are consistent with observed market prices of bonds and [derivatives](../d/derivatives.md).
 
-7. **Multi-Factor Models**
-Multi-factor models incorporate several factors that affect interest rates and bond prices, offering a more comprehensive analysis of the interest rate environment. An example is the Heath-Jarrow-Morton (HJM) framework, which generalizes the dynamics of the forward rate curve by specifying the drift and volatility structure of interest rates.
+7. **Multi-[Factor Models](../f/factor_models.md)**
+Multi-[factor models](../f/factor_models.md) incorporate several factors that affect interest rates and bond prices, offering a more comprehensive analysis of the interest rate environment. An example is the Heath-Jarrow-Morton (HJM) framework, which generalizes the dynamics of the forward rate curve by specifying the drift and [volatility structure](../v/volatility_structure.md) of interest rates.
 
-8. **Credit Risk Models**
-Credit risk models evaluate the possibility of a bond issuer defaulting, affecting a bond's price. The models include structural models, like the Merton model, and reduced-form models. Rating agencies such as Moody's, S&P, and Fitch provide credit ratings that help estimate the credit risk component in bond pricing.
+8. **[Credit Risk Models](../c/credit_risk_models.md)**
+[Credit risk models](../c/credit_risk_models.md) evaluate the possibility of a bond issuer defaulting, affecting a bond's price. The models include structural models, like the Merton model, and reduced-form models. Rating agencies such as Moody's, S&P, and Fitch provide credit ratings that help estimate the credit risk component in bond pricing.
 
 ### Practical Applications
 
@@ -58,4 +58,4 @@ Financial institutions such as Goldman Sachs [https://www.goldmansachs.com/], J.
 
 ### Conclusion
 
-Bond pricing models provide the analytical framework for valuing bonds accurately, managing portfolio risks, and making strategic investment decisions. By considering various elements such as cash flows, interest rates, credit risk, and market conditions, these models help market participants navigate the complexities of bond markets.
+Bond pricing models provide the analytical framework for valuing bonds accurately, managing portfolio risks, and making strategic investment decisions. By considering various elements such as cash flows, interest rates, credit risk, and market conditions, these models help market participants navigate the complexities of bond markets.

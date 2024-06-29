@@ -1,6 +1,6 @@
 ## Anchored VWAP: An In-depth Analysis
 
-The Anchored Volume Weighted Average Price (Anchored VWAP) is a technical analysis tool that is extensively used in the field of algorithmic trading. This metric extends the concept of the standard VWAP but allows traders to "anchor" the calculation to a specific date or event, giving it significant flexibility and utility in diverse trading strategies.
+The Anchored Volume Weighted Average Price (Anchored VWAP) is a [technical analysis](../t/technical_analysis.md) tool that is extensively used in the field of [algorithmic trading](../a/algorithmic_trading.md). This metric extends the concept of the standard VWAP but allows traders to "anchor" the calculation to a specific date or event, giving it significant flexibility and utility in diverse [trading strategies](../t/trading_strategies.md).
 
 ### What is Anchored VWAP?
 
@@ -10,7 +10,7 @@ VWAP, or Volume Weighted Average Price, calculates the average price a security 
 
 To understand Anchored VWAP, let's break down its calculation step by step:
 
-1. **Select an Anchor Point:** This could be a date, time, or an event. Common anchor points include the beginning of a significant economic report, earnings announcement, or a pivotal trend reversal.
+1. **Select an Anchor Point:** This could be a date, time, or an event. Common anchor points include the beginning of a significant economic report, earnings announcement, or a pivotal [trend reversal](../t/trend_reversal.md).
 
 2. **Calculate Cumulative VWAP from the Anchor Point:** 
    \[
@@ -28,7 +28,7 @@ To understand Anchored VWAP, let's break down its calculation step by step:
 
 1. **Confirmation of Trends:** Traders can use Anchored VWAP to confirm trends. If the security is trading above the Anchored VWAP, it is considered to be in an uptrend, whereas trading below it signifies a downtrend.
 
-2. **Support and Resistance Levels:** The Anchored VWAP can act as dynamic support or resistance. Institutional traders may place significant orders around these levels, adding credence to its utility in decision-making.
+2. **[Support and Resistance](../s/support_and_resistance.md) Levels:** The Anchored VWAP can act as dynamic support or resistance. Institutional traders may place significant orders around these levels, adding credence to its utility in decision-making.
 
 #### Event-Based Trading
 
@@ -36,7 +36,7 @@ By anchoring the VWAP to significant events like earnings releases or economic d
 
 #### Mean Reversion Strategies
 
-Anchored VWAP often features prominently in mean reversion strategies. Traders may look for securities to deviate significantly from the Anchored VWAP and place trades anticipating a reversion back to the average.
+Anchored VWAP often features prominently in [mean reversion](../m/mean_reversion.md) strategies. Traders may look for securities to deviate significantly from the Anchored VWAP and place trades anticipating a reversion back to the average.
 
 ### Comparison with Traditional VWAP
 
@@ -53,8 +53,8 @@ Standard VWAP becomes less meaningful as an intraday tool in volatile markets wh
 #### Advantages
 
 - **Customization:** One of the most significant benefits is the ability to start the calculation from any point. This is crucial for aligning the VWAP with specific trade strategies or market events.
-- **Enhanced Signal Accuracy:** By considering time periods around pivotal market events, Anchored VWAP offers more accurate trading signals.
-- **Effective Risk Management:** It helps identify potential support and resistance levels that are dynamic and responsive to real market conditions, therefore aiding in more effective risk management.
+- **Enhanced Signal Accuracy:** By considering time periods around pivotal market events, Anchored VWAP offers more accurate [trading signals](../t/trading_signals.md).
+- **Effective [Risk Management](../r/risk_management.md):** It helps identify potential [support and resistance](../s/support_and_resistance.md) levels that are dynamic and responsive to real market conditions, therefore aiding in more effective [risk management](../r/risk_management.md).
 
 #### Disadvantages
 
@@ -67,7 +67,7 @@ Standard VWAP becomes less meaningful as an intraday tool in volatile markets wh
 Several trading platforms and software tools provide functionalities to compute and use Anchored VWAP. Notable among these are:
 
 - **TradingView:** TradingView offers extensive charting capabilities, including the use of custom indicators like Anchored VWAP. [More Information](https://www.tradingview.com)
-- **Thinkorswim:** Provided by TD Ameritrade, this trading platform offers customization options for technical indicators, allowing traders to apply Anchored VWAP. [More Information](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
+- **Thinkorswim:** Provided by TD Ameritrade, this trading platform offers customization options for [technical indicators](../t/technical_indicators.md), allowing traders to apply Anchored VWAP. [More Information](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
 - **MetaTrader:** MetaTrader 4 and 5 platforms support custom indicators and scripts that can calculate Anchored VWAP. [More Information](https://www.metatrader4.com)
 - **Sierra Chart:** Known for its robustness in handling various data feeds and custom indicators, Sierra Chart is another platform where traders can use Anchored VWAP. [More Information](https://www.sierrachart.com)
 
@@ -83,8 +83,8 @@ During employment data announcements, significant market movements can occur. A 
 
 #### Example 3: Trend Reversal
 
-A stock appears to undergo a trend reversal after hitting a significant low. A trader anchors the VWAP to this low point to assess the strength and sustainability of the new upward trend. If the stock consistently trades above the Anchored VWAP, it may confirm the reversal.
+A stock appears to undergo a [trend reversal](../t/trend_reversal.md) after hitting a significant low. A trader anchors the VWAP to this low point to assess the strength and sustainability of the new upward trend. If the stock consistently trades above the Anchored VWAP, it may confirm the reversal.
 
 ### Conclusion
 
-The Anchored VWAP is a powerful and versatile tool in the arsenal of algorithmic traders and technical analysts. Its ability to anchor calculations to significant dates and events allows for tailored analysis and strategy development. Whether used for trend confirmation, support and resistance identification, or event-based trading, Anchored VWAP can provide crucial insights and enhance decision-making in the dynamic trading landscape.
+The Anchored VWAP is a powerful and versatile tool in the arsenal of algorithmic traders and technical analysts. Its ability to anchor calculations to significant dates and events allows for tailored analysis and strategy development. Whether used for trend confirmation, [support and resistance](../s/support_and_resistance.md) identification, or event-based trading, Anchored VWAP can provide crucial insights and enhance decision-making in the dynamic trading landscape.

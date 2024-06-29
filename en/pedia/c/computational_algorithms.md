@@ -1,13 +1,13 @@
 ## Computational Algorithms in Algorithmic Trading
 
-Algorithmic trading, often referred to as "algo trading," involves the use of computer algorithms to automatically make trading decisions, submit orders to financial markets, and manage those orders after submission. These decisions are typically based on predefined criteria or strategies that consider multiple factors, such as timing, price, quantity, and other mathematical models. Here, we explore the key computational algorithms that are foundational to algo trading, presenting an in-depth view of their roles, implementations, and effects on the trading landscape.
+[Algorithmic trading](../a/algorithmic_trading.md), often referred to as "algo trading," involves the use of computer algorithms to automatically make trading decisions, submit orders to financial markets, and manage those orders after submission. These decisions are typically based on predefined criteria or strategies that consider multiple factors, such as timing, price, quantity, and other mathematical models. Here, we explore the key computational algorithms that are foundational to algo trading, presenting an in-depth view of their roles, implementations, and effects on the trading landscape.
 
 ### 1. Mean Reversion Algorithms
 
-**Mean Reversion** is a financial theory suggesting that asset prices and historical returns eventually return to the long-term mean or average level of the entire dataset. Mean reversion algorithms are widely utilized in financial markets for their capability to capitalize on extreme price movements, which are presumed to be temporary deviations from the average price.
+**[Mean Reversion](../m/mean_reversion.md)** is a financial theory suggesting that asset prices and historical returns eventually return to the long-term mean or average level of the entire dataset. [Mean reversion](../m/mean_reversion.md) algorithms are widely utilized in financial markets for their capability to capitalize on extreme price movements, which are presumed to be temporary deviations from the average price.
 
 **Implementation**:
-- **Simple Moving Average (SMA)**: In its simplest form, mean reversion can involve strategies based on moving averages. For example, if the current price of an asset deviates significantly from its moving average price over a defined period, it could signal a trade.
+- **Simple Moving Average (SMA)**: In its simplest form, [mean reversion](../m/mean_reversion.md) can involve strategies based on moving averages. For example, if the current price of an asset deviates significantly from its moving average price over a defined period, it could signal a trade.
     ```python
     import pandas as pd
     
@@ -24,7 +24,7 @@ Algorithmic trading, often referred to as "algo trading," involves the use of co
 
 ### 2. Momentum Algorithms
 
-**Momentum Trading** relies on the momentum of any given asset price showing that price trends will continue to move in the same direction for some period. This strategy attempts to capture gains by riding upward or downward trends in prices, presupposing that stocks which have performed well in the past will continue to perform well in the future, and vice versa.
+**[Momentum Trading](../m/momentum_trading.md)** relies on the momentum of any given asset price showing that price trends will continue to move in the same direction for some period. This strategy attempts to capture gains by riding upward or downward trends in prices, presupposing that stocks which have performed well in the past will continue to perform well in the future, and vice versa.
 
 **Implementation**:
 - **Relative Strength Index (RSI)**: RSI is a momentum oscillator that measures the speed and change of price movements. It is used to identify overbought or oversold conditions in a market.
@@ -49,10 +49,10 @@ Algorithmic trading, often referred to as "algo trading," involves the use of co
 
 ### 3. Arbitrage Algorithms
 
-**Arbitrage Trading** involves the simultaneous purchase and sale of an asset to profit from an imbalance in the price. It is a trade that profits by exploiting the price differences of identical or similar financial instruments, on different markets or in different forms.
+**[Arbitrage](../a/arbitrage.md) Trading** involves the simultaneous purchase and sale of an asset to profit from an imbalance in the price. It is a trade that profits by exploiting the price differences of identical or similar financial instruments, on different markets or in different forms.
 
 **Implementation**:
-- **Statistical Arbitrage**: This involves the use of statistical models to identify pricing inefficiencies between securities. For example, pairs trading, where two correlated stocks are traded to capture the convergence.
+- **Statistical [Arbitrage](../a/arbitrage.md)**: This involves the use of statistical models to identify pricing inefficiencies between securities. For example, [pairs trading](../p/pairs_trading.md), where two correlated stocks are traded to capture the convergence.
     ```python
     def pairs_trading(stock1, stock2):
         zscore = z_score(stock1 - stock2)
@@ -62,7 +62,7 @@ Algorithmic trading, often referred to as "algo trading," involves the use of co
             return 'long', stock1, 'short', stock2
         return 'hold'
     ```
-- **Triangular Arbitrage**: Involves trading in three currencies to exploit discrepancies in their exchange rates.
+- **Triangular [Arbitrage](../a/arbitrage.md)**: Involves trading in three currencies to exploit discrepancies in their exchange rates.
     ```python
     def triangular_arbitrage(rates):
         trade_seq = []
@@ -80,10 +80,10 @@ Algorithmic trading, often referred to as "algo trading," involves the use of co
 
 ### 4. Machine Learning Algorithms
 
-**Machine Learning (ML)** has revolutionized algorithmic trading by enabling the development of adaptive trading systems that learn from new data. ML algorithms can uncover patterns and relationships that traditional methods might miss, making them highly effective for developing predictive models and strategies.
+**Machine Learning (ML)** has revolutionized [algorithmic trading](../a/algorithmic_trading.md) by enabling the development of adaptive [trading systems](../t/trading_systems.md) that learn from new data. ML algorithms can uncover patterns and relationships that traditional methods might miss, making them highly effective for developing predictive models and strategies.
 
 **Implementation**:
-- **Linear Regression**: Used to predict the price of a stock based on its historical values.
+- **[Linear Regression](../l/linear_regression.md)**: Used to predict the price of a stock based on its historical values.
     ```python
     from sklearn.linear_model import LinearRegression
     
@@ -93,7 +93,7 @@ Algorithmic trading, often referred to as "algo trading," involves the use of co
         predictions = model.predict(X_test)
         return predictions
     ```
-- **Random Forest**: An ensemble learning method used for classification and regression.
+- **Random Forest**: An [ensemble learning](../e/ensemble_learning.md) method used for classification and regression.
     ```python
     from sklearn.ensemble import RandomForestClassifier
     
@@ -119,10 +119,10 @@ Algorithmic trading, often referred to as "algo trading," involves the use of co
 
 ### 5. Event-Driven Algorithms
 
-**Event-Driven Trading** strategies rely on news, earnings reports, economic indicators, or other significant events to make trading decisions. These strategies require algorithms that can process large volumes of unstructured data to interpret the impact of the event on the market.
+**[Event-Driven Trading](../e/event-driven_trading.md)** strategies rely on news, earnings reports, [economic indicators](../e/economic_indicators.md), or other significant events to make trading decisions. These strategies require algorithms that can process large volumes of unstructured data to interpret the impact of the event on the market.
 
 **Implementation**:
-- **Sentiment Analysis**: Using natural language processing (NLP) to gauge the sentiment from news articles, tweets, and other textual data.
+- **[Sentiment Analysis](../s/sentiment_analysis.md)**: Using natural language processing (NLP) to gauge the sentiment from news articles, tweets, and other textual data.
     ```python
     from textblob import TextBlob
     
@@ -130,7 +130,7 @@ Algorithmic trading, often referred to as "algo trading," involves the use of co
         analysis = TextBlob(text)
         return analysis.sentiment.polarity
     ```
-- **Earnings Announcements**: Algorithms can be designed to analyze earnings releases and predict subsequent performance based on historical reactions.
+- **[Earnings Announcements](../e/earnings_announcements.md)**: Algorithms can be designed to analyze earnings releases and predict subsequent performance based on historical reactions.
     ```python
     def earnings_analysis(earnings_release, historical_data):
         reaction = historical_data[earnings_release]
@@ -142,14 +142,14 @@ Algorithmic trading, often referred to as "algo trading," involves the use of co
 **High-Frequency Trading (HFT)** involves executing a large number of orders at extremely high speeds. HFT traders rely on superior technology, including high-speed data feeds and ultra-low latency networks, to capitalize on small price discrepancies across assets or markets.
 
 **Implementation**:
-- **Market Making**: Creating liquidity by placing both buy and sell orders for the same asset to profit from the bid-ask spread.
+- **Market Making**: Creating liquidity by placing both buy and sell orders for the same asset to profit from the [bid-ask spread](../b/bid-ask_spread.md).
     ```python
     def market_making(asset, bid_price, ask_price, quantity):
         buy_order = place_order(asset, 'buy', bid_price, quantity)
         sell_order = place_order(asset, 'sell', ask_price, quantity)
         return buy_order, sell_order
     ```
-- **Latency Arbitrage**: Exploiting the time differences in price quoting on different exchanges.
+- **Latency [Arbitrage](../a/arbitrage.md)**: Exploiting the time differences in price quoting on different exchanges.
     ```python
     def latency_arbitrage(exchange_a, exchange_b, asset):
         price_a = get_price(exchange_a, asset)
@@ -166,7 +166,7 @@ Algorithmic trading, often referred to as "algo trading," involves the use of co
 **Genetic Algorithms (GAs)** are search heuristics that mimic the process of natural selection. These are used to generate high-quality solutions to optimization and search problems by relying on bio-inspired operators such as mutation, crossover, and selection.
 
 **Implementation**:
-- **Strategy Optimization**: GAs can be used to evolve trading strategies by encoding different parameters and rules as 'genes' which can be combined and mutated to find optimal strategies.
+- **Strategy Optimization**: GAs can be used to evolve [trading strategies](../t/trading_strategies.md) by encoding different parameters and rules as 'genes' which can be combined and mutated to find optimal strategies.
     ```python
     import random
     
@@ -193,10 +193,10 @@ Algorithmic trading, often referred to as "algo trading," involves the use of co
 
 ### Conclusion
 
-Computational algorithms play a crucial role in algorithmic trading, enabling the automation of trades, the discovery of new strategies, and the enhancement of existing ones. From traditional statistical methods and machine learning to cutting-edge genetic algorithms, these computational techniques continuously evolve to keep up with the ever-changing financial markets. Each algorithm offers unique strengths and applications, allowing traders to develop robust systems tailored to specific market conditions and objectives.
+Computational algorithms play a crucial role in [algorithmic trading](../a/algorithmic_trading.md), enabling the automation of trades, the discovery of new strategies, and the enhancement of existing ones. From traditional statistical methods and machine learning to cutting-edge genetic algorithms, these computational techniques continuously evolve to keep up with the ever-changing financial markets. Each algorithm offers unique strengths and applications, allowing traders to develop robust systems tailored to specific market conditions and objectives.
 
 ### Example Companies
 
 1. [Hudson River Trading](https://www.hudsonrivertrading.com)
 2. [Two Sigma](https://www.twosigma.com)
-3. [Citadel Securities](https://www.citadelsecurities.com)
+3. [Citadel Securities](https://www.citadelsecurities.com)

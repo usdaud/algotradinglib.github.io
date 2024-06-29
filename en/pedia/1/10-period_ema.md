@@ -70,14 +70,14 @@ The 10-Period EMA is commonly used to identify the direction of the current tren
 
 ### Entry and Exit Signals
 
-The 10-Period EMA can also be used to generate trading signals:
+The 10-Period EMA can also be used to generate [trading signals](../t/trading_signals.md):
 
 - **Buy Signal**: When the price crosses above the 10-Period EMA, it may be a signal to buy.
 - **Sell Signal**: When the price crosses below the 10-Period EMA, it may be a signal to sell.
 
 ### Support and Resistance Levels
 
-EMAs can act as dynamic support and resistance levels:
+EMAs can act as dynamic [support and resistance](../s/support_and_resistance.md) levels:
 
 - **Support Level**: In an uptrending market, the price may bounce off the 10-Period EMA before continuing higher.
 - **Resistance Level**: In a downtrending market, the price may find resistance at the 10-Period EMA before continuing lower.
@@ -86,7 +86,7 @@ EMAs can act as dynamic support and resistance levels:
 
 ### Advantages
 
-1. **Sensitivity**: The 10-Period EMA is more sensitive to recent price changes compared to longer EMAs, making it suitable for short-term trading strategies.
+1. **Sensitivity**: The 10-Period EMA is more sensitive to recent price changes compared to longer EMAs, making it suitable for [short-term trading](../s/short-term_trading.md) strategies.
 2. **Smoothing**: It smooths out price data, helping to filter out noise and providing a clearer view of the trend.
 3. **Timeliness**: The emphasis on recent data provides more timely signals for trading decisions.
 
@@ -119,4 +119,4 @@ Given the high volatility in cryptocurrency markets, the 10-Period EMA is partic
 
 ## Conclusion
 
-The 10-Period Exponential Moving Average is a versatile and valuable tool for traders in various financial markets. By focusing more on recent price data, it provides a more responsive indication of market trends. However, like all technical indicators, it works best when used in conjunction with other forms of analysis. Traders should always consider the underlying market conditions, their own risk tolerance, and other technical indicators to make informed trading decisions.
+The 10-Period Exponential Moving Average is a versatile and valuable tool for traders in various financial markets. By focusing more on recent price data, it provides a more responsive indication of market trends. However, like all [technical indicators](../t/technical_indicators.md), it works best when used in conjunction with other forms of analysis. Traders should always consider the underlying market conditions, their own risk tolerance, and other [technical indicators](../t/technical_indicators.md) to make informed trading decisions.

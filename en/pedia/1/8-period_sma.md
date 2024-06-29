@@ -40,7 +40,7 @@ Crossover strategies involving the 8-period SMA are also prevalent. A simple str
 
 ### Algorithmic Implementation
 
-In algorithmic trading, the 8-period SMA can be implemented using various programming languages and trading platforms. Popular choices include Python with libraries such as Pandas and TA-Lib, and trading platforms like MetaTrader and TradingView.
+In [algorithmic trading](../a/algorithmic_trading.md), the 8-period SMA can be implemented using various programming languages and trading platforms. Popular choices include Python with libraries such as Pandas and TA-Lib, and trading platforms like MetaTrader and TradingView.
 
 #### Python Example
 
@@ -60,11 +60,11 @@ print(df)
 
 ### Backtesting
 
-For any algotrading strategy involving the 8-period SMA, backtesting is crucial. Backtesting involves running the strategy on historical data to evaluate its performance. This helps in fine-tuning the strategy parameters and assessing its viability.
+For any algotrading strategy involving the 8-period SMA, [backtesting](../b/backtesting.md) is crucial. [Backtesting](../b/backtesting.md) involves running the strategy on historical data to evaluate its performance. This helps in fine-tuning the strategy parameters and assessing its viability.
 
 #### Backtesting Example with Python
 
-Using a backtesting library such as Backtrader, we can test an 8-period SMA crossover strategy:
+Using a [backtesting](../b/backtesting.md) library such as Backtrader, we can test an 8-period SMA crossover strategy:
 
 ```python
 import backtrader as bt
@@ -100,7 +100,7 @@ Efficient execution of trades based on the 8-period SMA is critical. Many broker
 
 ### Case Study: Forex Trading
 
-In Forex trading, the 8-period SMA is often used on short-term charts such as the 15-minute or 1-hour charts. Traders may use the SMA to determine the short-term trend and execute trades accordingly. For example, if the EUR/USD pair is trading above the 8-period SMA on a 15-minute chart, a trader might initiate a long position, expecting the trend to continue.
+In Forex trading, the 8-period SMA is often used on short-term charts such as the 15-minute or 1-hour charts. Traders may use the SMA to determine the short-term trend and execute trades accordingly. For example, if the EUR/USD pair is trading above the 8-period SMA on a [15-minute chart](../1/15-minute_chart.md), a trader might initiate a long position, expecting the trend to continue.
 
 ### Case Study: Stock Trading
 
@@ -112,7 +112,7 @@ In stock trading, the 8-period SMA can be applied to detect sudden changes in mo
 
 1. **Simplicity:** The 8-period SMA is easy to calculate and implement, making it accessible for novice traders.
 2. **Trend Identification:** It helps in identifying the direction of the trend, providing traders with clear signals for entering and exiting trades.
-3. **Support and Resistance:** Acts as dynamic support and resistance levels that can aid in making more informed trading decisions.
+3. **[Support and Resistance](../s/support_and_resistance.md):** Acts as dynamic [support and resistance](../s/support_and_resistance.md) levels that can aid in making more informed trading decisions.
 
 ### Limitations
 
@@ -122,4 +122,4 @@ In stock trading, the 8-period SMA can be applied to detect sudden changes in mo
 
 ## Conclusion
 
-The 8-period SMA is a versatile and valuable tool in algotrading, providing key insights into market trends and potential trading opportunities. While it has its limitations, its simplicity and effectiveness in certain market conditions make it a staple in the toolkit of many traders and algorithmic trading systems. Understanding how to calculate, apply, and interpret the 8-period SMA can enhance the performance of trading strategies and contribute to more informed decision-making in the financial markets.
+The 8-period SMA is a versatile and valuable tool in algotrading, providing key insights into market trends and potential trading opportunities. While it has its limitations, its simplicity and effectiveness in certain market conditions make it a staple in the toolkit of many traders and [algorithmic trading](../a/algorithmic_trading.md) systems. Understanding how to calculate, apply, and interpret the 8-period SMA can enhance the performance of [trading strategies](../t/trading_strategies.md) and contribute to more informed decision-making in the financial markets.

@@ -18,9 +18,9 @@ The Conditional Value at Risk at the same confidence level \( \alpha \) is then 
 
 ### Why Use CVaR?
 
-1. **Better Tail Risk Measurement**: CVaR provides a more accurate measure of potential extreme losses, particularly in non-normal distributions which are common in financial markets.
-2. **Regulatory Compliance**: Regulatory bodies like Basel Committee on Banking Supervision (BCBS) recommend using CVaR for risk management in banks and financial institutions.
-3. **Robust Risk Management**: By considering the average loss beyond a certain point, CVaR helps in creating more resilient risk management strategies.
+1. **Better [Tail Risk](../t/tail_risk.md) Measurement**: CVaR provides a more accurate measure of potential extreme losses, particularly in non-normal distributions which are common in financial markets.
+2. **Regulatory Compliance**: Regulatory bodies like Basel Committee on Banking Supervision (BCBS) recommend using CVaR for [risk management](../r/risk_management.md) in banks and financial institutions.
+3. **Robust [Risk Management](../r/risk_management.md)**: By considering the average loss beyond a certain point, CVaR helps in creating more resilient [risk management](../r/risk_management.md) strategies.
 
 ### Calculation of CVaR
 
@@ -32,7 +32,7 @@ Calculating CVaR typically involves the following steps:
 
 #### Example Calculation
 
-Assume you have the following hypothetical loss distribution for an investment portfolio over a specific period:
+Assume you have the following hypothetical [loss distribution](../l/loss_distribution.md) for an investment portfolio over a specific period:
 
 \[ \{-2\%, -1.5\%, -1\%, -0.5\%, 0\%, 0.5\%, 1\%, 1.5\%, 2\%, 2.5\%, 3\%, 3.5\%, 4\%, 4.5\%, 5\%, 5.5\%, 6\%, 6.5\%, 7\%, -10\% \} \]
 
@@ -45,15 +45,15 @@ If you want to calculate the CVaR at the 95% confidence level:
 
 ### CVaR in Modern Financial Practices
 
-CVaR is widely used in various financial applications, including portfolio optimization, risk management, and regulatory reporting.
+CVaR is widely used in various financial applications, including [portfolio optimization](../p/portfolio_optimization.md), [risk management](../r/risk_management.md), and regulatory reporting.
 
 #### Portfolio Optimization
 
-In portfolio optimization, CVaR is used to create portfolios that not only maximize returns but also minimize extreme losses. By incorporating CVaR into the optimization process, investors can achieve a better balance between risk and return.
+In [portfolio optimization](../p/portfolio_optimization.md), CVaR is used to create portfolios that not only maximize returns but also minimize extreme losses. By incorporating CVaR into the optimization process, investors can achieve a better balance between risk and return.
 
 #### Risk Management
 
-Banks and financial institutions use CVaR to assess and manage the risk of loss from their trading activities. By focusing on tail risk, they can prepare more effectively for potential financial downturns.
+Banks and financial institutions use CVaR to assess and manage the risk of loss from their trading activities. By focusing on [tail risk](../t/tail_risk.md), they can prepare more effectively for potential financial downturns.
 
 #### Regulatory Reporting
 
@@ -69,4 +69,4 @@ Several tools and software platforms facilitate CVaR calculation, including:
 
 ### Conclusion
 
-Conditional Value at Risk (CVaR) provides a deeper understanding of potential extreme losses in a portfolio by considering the average losses beyond a certain confidence threshold. As financial markets become more complex and unpredictable, CVaR stands out as a crucial tool for investors and risk managers to mitigate and manage financial risks effectively. From portfolio optimization to regulatory compliance, the application of CVaR spans multiple facets of modern financial practices, making it an indispensable measure in today's risk management toolbox.
+Conditional Value at Risk (CVaR) provides a deeper understanding of potential extreme losses in a portfolio by considering the average losses beyond a certain confidence threshold. As financial markets become more complex and unpredictable, CVaR stands out as a crucial tool for investors and risk managers to mitigate and manage financial risks effectively. From [portfolio optimization](../p/portfolio_optimization.md) to regulatory compliance, the application of CVaR spans multiple facets of modern financial practices, making it an indispensable measure in today's [risk management](../r/risk_management.md) toolbox.

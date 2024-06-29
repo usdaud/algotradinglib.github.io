@@ -1,15 +1,15 @@
 # Convergence Trading
 
-Convergence trading is a strategy commonly used in the field of algorithmic trading and quantitative finance that involves taking positions in pairs of correlated financial instruments. The main idea is to exploit the temporary divergence in prices between these instruments, betting on the fact that their prices will converge over time. This form of trading relies heavily on statistical and mathematical models to identify pairs of instruments where the price divergence is expected to revert to the mean.
+Convergence trading is a strategy commonly used in the field of [algorithmic trading](../a/algorithmic_trading.md) and [quantitative finance](../q/quantitative_finance.md) that involves taking positions in pairs of correlated financial instruments. The main idea is to exploit the temporary divergence in prices between these instruments, betting on the fact that their prices will converge over time. This form of trading relies heavily on statistical and mathematical models to identify pairs of instruments where the price divergence is expected to revert to the mean.
 
-The strategy is often synonymous with "statistical arbitrage," "pair trading," and "relative value trading." Convergence trading can be applied to various asset classes, including equities, fixed income, commodities, and foreign exchange. The strategy leverages historical price movements, correlations, and other statistical measures to take advantage of price inefficiencies in the market.
+The strategy is often synonymous with "statistical [arbitrage](../a/arbitrage.md)," "pair trading," and "relative value trading." Convergence trading can be applied to various asset classes, including equities, fixed income, commodities, and foreign exchange. The strategy leverages historical price movements, correlations, and other statistical measures to take advantage of price inefficiencies in the market.
 
 ## Key Concepts and Principles
 
 ### Spread and Mean Reversion
 
 - **Spread**: In convergence trading, the "spread" is the difference in prices between two correlated instruments. Traders seek to exploit deviations from the historical average spread.
-- **Mean Reversion**: This principle assumes that asset prices will revert to their historical average levels over time. Convergence traders rely on mean reversion theory to predict that the spread between two correlated assets will return to its historical mean.
+- **[Mean Reversion](../m/mean_reversion.md)**: This principle assumes that asset prices will revert to their historical average levels over time. Convergence traders rely on [mean reversion](../m/mean_reversion.md) theory to predict that the spread between two correlated assets will return to its historical mean.
 
 ### Pair Selection
 
@@ -23,7 +23,7 @@ The strategy is often synonymous with "statistical arbitrage," "pair trading," a
 
 ### Risk Management
 
-- **Stop-Loss Orders**: To mitigate the risk of prolonged divergence, traders use stop-loss orders to limit potential losses.
+- **[Stop-Loss Orders](../s/stop-loss_orders.md)**: To mitigate the risk of prolonged divergence, traders use [stop-loss orders](../s/stop-loss_orders.md) to limit potential losses.
 - **Leverage**: While leverage can amplify returns, it also increases risk. Proper leverage management is crucial.
 - **Diversification**: Spreading risk across various pairs can help in mitigating the impact of any one position going wrong.
 
@@ -31,10 +31,10 @@ The strategy is often synonymous with "statistical arbitrage," "pair trading," a
 
 ### Quantitative Hedge Funds
 
-Several quantitative hedge funds and proprietary trading firms have successfully implemented convergence trading strategies. Notable examples include:
+Several [quantitative hedge funds](../q/quantitative_hedge_funds.md) and [proprietary trading](../p/proprietary_trading.md) firms have successfully implemented convergence [trading strategies](../t/trading_strategies.md). Notable examples include:
 
-- **Two Sigma**: A quantitative investment firm that utilizes data science and technology to identify investment opportunities, including convergence trading strategies. [Website](https://www.twosigma.com/)
-- **AQR Capital Management**: A global investment management firm dedicated to rigorous research and innovative quantitative analysis, including convergence and statistical arbitrage. [Website](https://www.aqr.com/)
+- **Two Sigma**: A quantitative investment firm that utilizes data science and technology to identify investment opportunities, including convergence [trading strategies](../t/trading_strategies.md). [Website](https://www.twosigma.com/)
+- **AQR Capital Management**: A global investment management firm dedicated to rigorous research and innovative [quantitative analysis](../q/quantitative_analysis.md), including convergence and statistical [arbitrage](../a/arbitrage.md). [Website](https://www.aqr.com/)
 
 ### Real World Example: Royal Dutch Shell and Shell Transport and Trading Company
 
@@ -44,21 +44,21 @@ A classic example of convergence trading involves the dual-listed shares of Roya
 
 ### Machine Learning and AI
 
-Modern convergence trading strategies increasingly incorporate machine learning and artificial intelligence to enhance model accuracy and prediction. Machine learning algorithms can process vast amounts of data and identify complex patterns that traditional statistical methods might miss.
+Modern convergence [trading strategies](../t/trading_strategies.md) increasingly incorporate machine learning and artificial intelligence to enhance model accuracy and prediction. Machine learning algorithms can process vast amounts of data and identify complex patterns that traditional statistical methods might miss.
 
 - **Feature Engineering**: Transforming raw data into meaningful features that improve model performance.
 - **Model Selection**: Using sophisticated models like support vector machines (SVM), neural networks, and ensemble methods to enhance predictions.
-- **Backtesting**: Algorithms are rigorously backtested on historical data to validate their predictive power.
+- **[Backtesting](../b/backtesting.md)**: Algorithms are rigorously backtested on historical data to validate their predictive power.
 
 ### High-Frequency Trading (HFT)
 
-High-frequency trading firms often employ convergence trading strategies, leveraging ultra-fast execution speeds to capitalize on minute price discrepancies. The use of low-latency trading infrastructure and co-location services (where trading servers are placed close to exchange servers to minimize latency) is common.
+High-frequency trading firms often employ convergence [trading strategies](../t/trading_strategies.md), leveraging ultra-fast execution speeds to capitalize on minute price discrepancies. The use of low-latency trading infrastructure and co-location services (where trading servers are placed close to exchange servers to minimize latency) is common.
 
 ## Challenges and Risks
 
 ### Market Conditions
 
-Convergence trading strategies can underperform or even incur losses in certain market conditions:
+Convergence [trading strategies](../t/trading_strategies.md) can underperform or even incur losses in certain market conditions:
 
 - **Market Crises**: During periods of market stress, correlations and mean-reverting relationships can break down.
 - **High Volatility**: Increased market volatility can cause larger-than-expected price divergences, leading to potential losses.
@@ -66,15 +66,15 @@ Convergence trading strategies can underperform or even incur losses in certain 
 ### Model Risk
 
 - **Overfitting**: Over-relying on historical data can lead to overfitting, where the model performs well on past data but poorly on new, unseen data.
-- **Parameter Sensitivity**: The performance of convergence trading strategies can be highly sensitive to the selection of model parameters, requiring regular updating and validation.
+- **Parameter Sensitivity**: The performance of convergence [trading strategies](../t/trading_strategies.md) can be highly sensitive to the selection of model parameters, requiring regular updating and validation.
 
 ### Regulatory and Operational Risks
 
-- **Regulatory Changes**: Shifts in regulatory frameworks can impact trading strategies, especially those that rely heavily on leverage and short selling.
+- **Regulatory Changes**: Shifts in regulatory frameworks can impact [trading strategies](../t/trading_strategies.md), especially those that rely heavily on leverage and [short selling](../s/short_selling.md).
 - **Operational Risks**: Technical glitches, data errors, and other operational issues can impact the execution of convergence trades.
 
 ## Conclusion
 
-Convergence trading remains a popular and sophisticated strategy within the realm of algorithmic trading and quantitative finance. By exploiting temporary price inefficiencies between correlated financial instruments, traders can generate alpha while managing risk through hedging and diversification. Advances in machine learning, big data, and high-frequency trading continue to evolve and enhance convergence trading strategies, making them more robust and effective in various market conditions.
+Convergence trading remains a popular and sophisticated strategy within the realm of [algorithmic trading](../a/algorithmic_trading.md) and [quantitative finance](../q/quantitative_finance.md). By exploiting temporary price inefficiencies between correlated financial instruments, traders can generate alpha while managing risk through hedging and diversification. Advances in machine learning, big data, and high-frequency trading continue to evolve and enhance convergence [trading strategies](../t/trading_strategies.md), making them more robust and effective in various market conditions.
 
-The successful implementation of convergence trading requires a deep understanding of market dynamics, rigorous statistical analysis, and robust risk management frameworks. While the strategy offers significant profit potential, it also comes with inherent risks that need careful consideration and management. As financial markets continue to grow and evolve, so too will the tools and techniques that underpin convergence trading.
+The successful implementation of convergence trading requires a deep understanding of market dynamics, rigorous statistical analysis, and robust [risk management](../r/risk_management.md) frameworks. While the strategy offers significant profit potential, it also comes with inherent risks that need careful consideration and management. As financial markets continue to grow and evolve, so too will the tools and techniques that underpin convergence trading.

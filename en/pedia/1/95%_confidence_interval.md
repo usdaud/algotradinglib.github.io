@@ -1,6 +1,6 @@
 # 95% Confidence Interval
 
-A 95% confidence interval (CI) is a statistical concept widely used in various fields including finance, particularly in algorithmic trading. It provides a range of values which is likely to contain the population parameter with a specified level of confidence – in this case, 95%. This means that if we were to take 100 different samples and compute a confidence interval for each sample, then approximately 95 of those intervals would contain the true population parameter.
+A 95% confidence interval (CI) is a statistical concept widely used in various fields including finance, particularly in [algorithmic trading](../a/algorithmic_trading.md). It provides a range of values which is likely to contain the population parameter with a specified level of confidence – in this case, 95%. This means that if we were to take 100 different samples and compute a confidence interval for each sample, then approximately 95 of those intervals would contain the true population parameter.
 
 ## Understanding Confidence Intervals
 
@@ -24,23 +24,23 @@ In the context of a 95% confidence interval, the Z-value (also known as the crit
 
 ### Common Misunderstandings
 
-One common misunderstanding about confidence intervals is that there is a 95% probability that the population parameter lies within the interval calculated from a single sample. This is incorrect. The true interpretation is that if we were to draw numerous samples and calculate the CI for each, 95% of these intervals would capture the true parameter.
+One common misunderstanding about [confidence intervals](../c/confidence_intervals.md) is that there is a 95% probability that the population parameter lies within the interval calculated from a single sample. This is incorrect. The true interpretation is that if we were to draw numerous samples and calculate the CI for each, 95% of these intervals would capture the true parameter.
 
 ## Application in Algorithmic Trading
 
-Algorithmic trading involves utilizing computer algorithms to automate trading strategies. These algorithms rely heavily on statistical methods to make predictions and decisions. Confidence intervals play a crucial role in assessing the reliability and stability of these predictions.
+[Algorithmic trading](../a/algorithmic_trading.md) involves utilizing computer algorithms to automate [trading strategies](../t/trading_strategies.md). These algorithms rely heavily on statistical methods to make predictions and decisions. [Confidence intervals](../c/confidence_intervals.md) play a crucial role in assessing the reliability and stability of these predictions.
 
 ### Estimating Expected Returns and Risks
 
-Algorithmic traders often have to estimate expected returns and associated risks for various assets. The 95% confidence interval can be used to determine the range within which the true expected return of an asset is likely to lie based on historical data. For example, if an algorithm is designed to trade based on the expected return of a stock, the confidence interval can provide boundaries within which the performance metrics are reliable.
+Algorithmic traders often have to estimate expected returns and associated risks for various assets. The 95% confidence interval can be used to determine the range within which the true expected return of an asset is likely to lie based on historical data. For example, if an algorithm is designed to trade based on the expected return of a stock, the confidence interval can provide boundaries within which the [performance metrics](../p/performance_metrics.md) are reliable.
 
 ### Backtesting Trading Strategies
 
-Backtesting is a method used to test a trading strategy on historical data to see how it would have performed in the past. Confidence intervals are used in backtesting to determine the robustness of a trading strategy. For instance, the average return of the strategy might be useful, but understanding the confidence interval around this return can provide insights into the variability and reliability of the strategy.
+[Backtesting](../b/backtesting.md) is a method used to test a trading strategy on historical data to see how it would have performed in the past. [Confidence intervals](../c/confidence_intervals.md) are used in [backtesting](../b/backtesting.md) to determine the robustness of a trading strategy. For instance, the average return of the strategy might be useful, but understanding the confidence interval around this return can provide insights into the variability and reliability of the strategy.
 
 ### Risk Management
 
-In algorithmic trading, understanding and managing risk is critical. Confidence intervals can be used to estimate the Value at Risk (VaR) and Conditional Value at Risk (CVaR) for a portfolio. These risk measures are essential for determining the potential loss in value of assets in a trading strategy under normal market conditions, which helps in making informed decisions about risk management.
+In [algorithmic trading](../a/algorithmic_trading.md), understanding and managing risk is critical. [Confidence intervals](../c/confidence_intervals.md) can be used to estimate the Value at Risk (VaR) and Conditional Value at Risk (CVaR) for a portfolio. These risk measures are essential for determining the potential loss in value of assets in a trading strategy under normal market conditions, which helps in making informed decisions about [risk management](../r/risk_management.md).
 
 ## Calculating a 95% Confidence Interval
 
@@ -83,11 +83,11 @@ Thus, the trader can be 95% confident that the true average daily return of the 
 
 ### QuantConnect
 
-QuantConnect is a popular open-source algorithmic trading platform that allows users to design, backtest, and execute trading strategies. On this platform, traders can use historical market data to backtest their algorithms and calculate confidence intervals to evaluate strategy performance.
+QuantConnect is a popular open-source [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to design, backtest, and execute [trading strategies](../t/trading_strategies.md). On this platform, traders can use historical market data to backtest their algorithms and calculate [confidence intervals](../c/confidence_intervals.md) to evaluate strategy performance.
 
 Visit QuantConnect here:
 [QuantConnect](https://www.quantconnect.com/)
 
 ## Conclusion
 
-In summary, the 95% confidence interval is a fundamental statistical tool that is extensively used in various aspects of algorithmic trading. By providing a range for parameter estimates and allowing for the assessment of statistical significance, confidence intervals help traders make more informed decisions. Whether it is estimating expected returns, backtesting strategies, or managing portfolio risks, understanding and applying confidence intervals can significantly enhance the robustness and reliability of trading algorithms.
+In summary, the 95% confidence interval is a fundamental statistical tool that is extensively used in various aspects of [algorithmic trading](../a/algorithmic_trading.md). By providing a range for parameter estimates and allowing for the assessment of statistical significance, [confidence intervals](../c/confidence_intervals.md) help traders make more informed decisions. Whether it is estimating expected returns, [backtesting](../b/backtesting.md) strategies, or managing portfolio risks, understanding and applying [confidence intervals](../c/confidence_intervals.md) can significantly enhance the robustness and reliability of [trading algorithms](../t/trading_algorithms.md).

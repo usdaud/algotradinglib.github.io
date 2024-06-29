@@ -1,7 +1,7 @@
 # Credit Default Swaps
 
 ## Introduction
-Credit Default Swaps (CDS) are a type of financial derivative that function as a form of insurance against the default of a borrower. In a CDS contract, the buyer makes periodic payments to the seller, and in return, the seller promises to pay off the buyer's debt if the borrower defaults. This complex financial instrument plays a significant role in both risk management and speculative trading.
+Credit Default Swaps (CDS) are a type of financial derivative that function as a form of insurance against the default of a borrower. In a CDS contract, the buyer makes periodic payments to the seller, and in return, the seller promises to pay off the buyer's debt if the borrower defaults. This complex financial instrument plays a significant role in both [risk management](../r/risk_management.md) and speculative trading.
 
 ## Historical Context
 Credit Default Swaps have their roots in the 1990s. They were initially developed by JPMorgan Chase & Co. as a tool for managing the risk associated with their loans. Over the years, the use of CDS expanded dramatically, and they became integral to the workings of financial markets globally, particularly in periods leading up to and during financial crises.
@@ -38,10 +38,10 @@ Financial institutions use CDS to hedge against the risk of default on loans and
 Traders and investors use CDS to speculate on the creditworthiness of reference entities. If an investor believes that a company's financial condition will deteriorate, they might buy CDS to profit from the increasing spread or the occurrence of a credit event.
 
 ### Arbitrage
-Arbitrage strategies involve identifying and exploiting price discrepancies between related securities. For instance, traders might exploit differences between the bond markets and CDS markets to generate risk-free profits.
+[Arbitrage](../a/arbitrage.md) strategies involve identifying and exploiting price discrepancies between related securities. For instance, traders might exploit differences between the bond markets and CDS markets to generate risk-free profits.
 
 ## Market Dynamics
-The CDS market has evolved significantly since its inception. It became a focal point of the 2008 financial crisis, raising concerns about systemic risk and counterparty risk. The market's transparency and regulation have been subjects of ongoing debate, leading to reforms aimed at improving stability and oversight.
+The CDS market has evolved significantly since its inception. It became a focal point of the 2008 financial crisis, raising concerns about systemic risk and [counterparty risk](../c/counterparty_risk.md). The market's transparency and regulation have been subjects of ongoing debate, leading to reforms aimed at improving stability and oversight.
 
 ### Major Players
 Major institutions involved in the CDS market include:
@@ -49,7 +49,7 @@ Major institutions involved in the CDS market include:
 - **Goldman Sachs**: [Goldman Sachs](https://www.goldmansachs.com)
 - **Citigroup**: [Citigroup](https://www.citigroup.com)
 - **Deutsche Bank**: [Deutsche Bank](https://www.db.com)
-- **ISDA (International Swaps and Derivatives Association)**: [ISDA](https://www.isda.org)
+- **ISDA (International Swaps and [Derivatives](../d/derivatives.md) Association)**: [ISDA](https://www.isda.org)
 
 ## Regulatory Environment
 Post-2008 financial crisis, regulatory bodies worldwide have implemented reforms aimed at increasing the transparency and stability of the CDS market. Key measures include:
@@ -57,4 +57,4 @@ Post-2008 financial crisis, regulatory bodies worldwide have implemented reforms
 - **European Market Infrastructure Regulation (EMIR)**: Mandates similar provisions for European markets.
 
 ## Conclusion
-Credit Default Swaps are vibrant yet complex financial instruments that offer immense potential for risk management and speculative gains. However, they require thorough understanding and careful consideration given their impact on financial stability and market dynamics. As a pivotal component of the financial derivatives market, the evolution and regulation of CDS continue to be critical topics within the financial industry.
+Credit Default Swaps are vibrant yet complex financial instruments that offer immense potential for [risk management](../r/risk_management.md) and speculative gains. However, they require thorough understanding and careful consideration given their impact on financial stability and market dynamics. As a pivotal component of the financial [derivatives](../d/derivatives.md) market, the evolution and regulation of CDS continue to be critical topics within the financial industry.

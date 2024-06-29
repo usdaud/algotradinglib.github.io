@@ -12,13 +12,13 @@ The formula for a 10-period Simple Moving Average (SMA) is:
 
 \[ \text{SMA} = \frac{\text{Sum of Closing Prices over the last 10 periods}}{10} \]
 
-For instance, if the closing prices of an asset for the past 10 days are as follows: 100, 102, 101, 105, 107, 108, 110, 113, 115, 116, the 10-day SMA would be:
+For instance, if the closing prices of an asset for the past 10 days are as follows: 100, 102, 101, 105, 107, 108, 110, 113, 115, 116, the [10-day SMA](../1/10-day_sma.md) would be:
 
 \[ \text{SMA} = \frac{100 + 102 + 101 + 105 + 107 + 108 + 110 + 113 + 115 + 116}{10} = \frac{1077}{10} = 107.7 \]
 
 ### Purpose
 
-The primary purpose of a moving average is to filter out the noise from random short-term price fluctuations. This helps traders to identify the direction of the trend and potential reversals. Moving averages can also serve as the basis for other technical indicators, including Bollinger Bands and the Moving Average Convergence Divergence (MACD).
+The primary purpose of a moving average is to filter out the noise from random short-term price fluctuations. This helps traders to identify the direction of the trend and potential reversals. Moving averages can also serve as the basis for other [technical indicators](../t/technical_indicators.md), including [Bollinger Bands](../b/bollinger_bands.md) and the Moving Average Convergence Divergence (MACD).
 
 ## Types of Moving Averages
 
@@ -40,7 +40,7 @@ A Weighted Moving Average (WMA) assigns specific weights to data points, giving 
 
 ## Applications in Trading
 
-Moving averages are useful for various trading strategies and techniques:
+Moving averages are useful for various [trading strategies](../t/trading_strategies.md) and techniques:
 
 ### Trend Identification
 
@@ -48,11 +48,11 @@ One of the primary uses of moving averages is to identify the direction of the t
 
 ### Support and Resistance
 
-Moving averages often act as dynamic support and resistance levels. A trader might use the 10-period moving average to determine potential buy or sell points. If the price approaches the moving average from above, the MA might act as a support level, whereas if the price approaches from below, it may act as resistance.
+Moving averages often act as dynamic [support and resistance](../s/support_and_resistance.md) levels. A trader might use the 10-period moving average to determine potential buy or sell points. If the price approaches the moving average from above, the MA might act as a support level, whereas if the price approaches from below, it may act as resistance.
 
 ### Crossover Strategies
 
-Crossover strategies involve using two or more moving averages of different periods. For example, in a simple crossover strategy, a trader might use a 10-period moving average in conjunction with a 50-period moving average. Buy signals are generated when the shorter 10-period MA crosses above the longer 50-period MA, and sell signals are generated when the shorter MA crosses below the longer MA.
+Crossover strategies involve using two or more moving averages of different periods. For example, in a simple crossover strategy, a trader might use a 10-period moving average in conjunction with a [50-period moving average](../1/50-period_moving_average.md). Buy signals are generated when the shorter 10-period MA crosses above the longer 50-period MA, and sell signals are generated when the shorter MA crosses below the longer MA.
 
 ### Momentum Indicators
 
@@ -79,10 +79,10 @@ Choosing the correct period for the moving average is crucial. A 10-period movin
 Let’s consider a practical example of a 10-period moving average applied to a stock like Apple Inc. (AAPL):
 
 1. Obtain the daily closing prices for AAPL for the last 30 days.
-2. Calculate the 10-day SMA for each day from the 10th day onwards.
+2. Calculate the [10-day SMA](../1/10-day_sma.md) for each day from the 10th day onwards.
 3. Plot these values on a chart alongside the actual closing prices.
 
-If the AAPL’s closing prices for the first 10 days are: 150, 152, 151, 153, 155, 158, 160, 163, 165, 167, then the 10-day SMA on day 10 would be:
+If the AAPL’s closing prices for the first 10 days are: 150, 152, 151, 153, 155, 158, 160, 163, 165, 167, then the [10-day SMA](../1/10-day_sma.md) on day 10 would be:
 
 \[ \text{SMA}_{10} = \frac{150 + 152 + 151 + 153 + 155 + 158 + 160 + 163 + 165 + 167}{10} = \frac{1574}{10} = 157.4 \]
 
@@ -90,10 +90,10 @@ Suppose the closing prices continue to increase, then the moving average line wi
 
 ## Use in Algorithmic Trading
 
-The 10-period moving average is particularly suited for algorithmic trading where automated systems can calculate and act on MA crossovers and trends without human intervention. In high-frequency trading environments, algorithms can make split-second decisions based on moving average calculations, buying or selling assets with minimal lag.
+The 10-period moving average is particularly suited for [algorithmic trading](../a/algorithmic_trading.md) where automated systems can calculate and act on MA crossovers and trends without human intervention. In high-frequency trading environments, algorithms can make split-second decisions based on moving average calculations, buying or selling assets with minimal lag.
 
-Algorithmic trading companies such as [Two Sigma](https://www.twosigma.com/), [Jane Street](https://www.janestreet.com/), and [Renaissance Technologies](https://www.rentec.com/) utilize various forms of moving averages as part of their algorithmic trading strategies. These firms have complex models that take into account multiple moving averages and other indicators to execute trades efficiently.
+[Algorithmic trading](../a/algorithmic_trading.md) companies such as [Two Sigma](https://www.twosigma.com/), [Jane Street](https://www.janestreet.com/), and [Renaissance Technologies](https://www.rentec.com/) utilize various forms of moving averages as part of their [algorithmic trading](../a/algorithmic_trading.md) strategies. These firms have complex models that take into account multiple moving averages and other indicators to execute trades efficiently.
 
 ## Conclusion
 
-The 10-period moving average is a straightforward yet robust tool for traders and analysts to identify trends and make informed trading decisions. Understanding its calculation, applications, and limitations can significantly enhance one's trading strategy. As with any trading tool, it is most effective when used in conjunction with other indicators and forms of analysis. Despite its simplicity, the 10-period moving average remains a staple in both manual and algorithmic trading practices due to its reliability in trend identification and support/resistance analysis.
+The 10-period moving average is a straightforward yet robust tool for traders and analysts to identify trends and make informed trading decisions. Understanding its calculation, applications, and limitations can significantly enhance one's trading strategy. As with any trading tool, it is most effective when used in conjunction with other indicators and forms of analysis. Despite its simplicity, the 10-period moving average remains a staple in both manual and [algorithmic trading](../a/algorithmic_trading.md) practices due to its reliability in trend identification and support/resistance analysis.

@@ -1,6 +1,6 @@
 ### 3-Line Break Chart
 
-A 3-line break chart, also known as a Three-Line Break chart, is a type of price chart used in technical analysis and algo trading that helps traders to understand market trends and potential reversals without being influenced by smaller market fluctuations or noise. It is named "3-line break" because it requires a reversal that breaks the previous three lines to validate a new trend direction. This charting method is distinct from other common chart types, such as candlestick or bar charts, in that it emphasizes price action over a longer horizon, smoothing out minor fluctuations and focusing on significant price shifts.
+A 3-line break chart, also known as a Three-Line Break chart, is a type of price chart used in [technical analysis](../t/technical_analysis.md) and algo trading that helps traders to understand market trends and potential reversals without being influenced by smaller market fluctuations or noise. It is named "3-line break" because it requires a reversal that breaks the previous three lines to validate a new trend direction. This charting method is distinct from other common chart types, such as candlestick or bar charts, in that it emphasizes price action over a longer horizon, smoothing out minor fluctuations and focusing on significant price shifts.
 
 #### How 3-Line Break Charts Work
 
@@ -24,7 +24,7 @@ For a concrete understanding, consider a stock with the following closing prices
 
 #### Advantages of 3-Line Break Charts
 
-1. **Noise Reduction**: By focusing only on significant price movements, 3-line break charts filter out minor fluctuations that might cloud trend analysis.
+1. **Noise Reduction**: By focusing only on significant price movements, 3-line break charts filter out minor fluctuations that might cloud [trend analysis](../t/trend_analysis.md).
 2. **Trend Clarity**: These charts make it easier to identify the current trend direction and potential reversals, which is critical for traders who rely on trend-following strategies.
 3. **Simplicity**: It simplifies the decision-making process, making it accessible to both novice and experienced traders.
 
@@ -38,8 +38,8 @@ For a concrete understanding, consider a stock with the following closing prices
 Algo trading involves using algorithms to make trading decisions based on predefined criteria. 3-line break charts can be particularly useful in algo trading for the following reasons:
 
 1. **Automated Trend Detection**: Algorithms can automate the detection of trend reversals and continuations as defined by 3-line break rules. By systematically identifying true trend changes, algorithms can make more reliable trading decisions.
-2. **Backtesting**: Algorithms can backtest trading strategies based on historical 3-line break data to evaluate the efficacy before applying them in live trading.
-3. **Minimized Reactions to Market Noise**: Incorporating 3-line break chart principles into algo trading systems helps reduce the number of false signals triggered by insignificant price movements, leading to potentially higher accuracy in trade entries and exits.
+2. **[Backtesting](../b/backtesting.md)**: Algorithms can backtest [trading strategies](../t/trading_strategies.md) based on historical 3-line break data to evaluate the efficacy before applying them in live trading.
+3. **Minimized Reactions to Market Noise**: Incorporating 3-line break chart principles into algo [trading systems](../t/trading_systems.md) helps reduce the number of false signals triggered by insignificant price movements, leading to potentially higher accuracy in trade entries and exits.
 
 #### Integrations and Tools
 
@@ -51,4 +51,4 @@ Several trading platforms and software support 3-line break charts, integrating 
 
 #### Conclusion
 
-3-line break charts are an essential tool in the arsenal of traders, especially those engaged in algo trading, due to their ability to simplify trend analysis and reduce market noise. By focusing on significant price actions and automating trend detection, these charts assist in making more informed trading decisions. The strengths and integration capabilities of 3-line break charts make them a suitable choice for traders aiming for clarity and precision in their trading strategies.
+3-line break charts are an essential tool in the arsenal of traders, especially those engaged in algo trading, due to their ability to simplify [trend analysis](../t/trend_analysis.md) and reduce market noise. By focusing on significant price actions and automating trend detection, these charts assist in making more informed trading decisions. The strengths and integration capabilities of 3-line break charts make them a suitable choice for traders aiming for clarity and precision in their [trading strategies](../t/trading_strategies.md).

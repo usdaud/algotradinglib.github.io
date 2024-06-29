@@ -19,7 +19,7 @@ At its core, dividend capture involves buying shares of a company before the div
 
 ### Tools and Technologies for Dividend Capture
 
-Technological innovation and algorithmic trading platforms have amplified the efficiency and speed with which traders can execute dividend capture strategies. Some tools used include:
+Technological innovation and [algorithmic trading](../a/algorithmic_trading.md) platforms have amplified the efficiency and speed with which traders can execute dividend capture strategies. Some tools used include:
 
 - **Automated Trading Platforms**: Platforms like TradeStation and Interactive Brokers offer features for swift execution and analysis. 
   - [TradeStation](https://www.tradestation.com/)
@@ -81,8 +81,8 @@ Several criteria can significantly influence the feasibility and success of divi
 ### Advanced Strategies and Considerations
 
 - **Options Strategies**: Utilizing options can hedge against potential losses. For example, buying puts to protect against a price drop post-ex-dividend.
-- **Arbitrage Opportunities**: Between stocks and derivatives or among different markets can also enhance returns.
+- **[Arbitrage](../a/arbitrage.md) Opportunities**: Between stocks and [derivatives](../d/derivatives.md) or among different markets can also enhance returns.
   
 ### Conclusion
 
-While dividend capture strategies offer a distinctive approach to generating income, they are not without complexity and risk. Successful execution demands a comprehensive understanding of market mechanics, sophisticated tools for timing and transaction execution, and vigilant attention to tax implications. As with any trading strategy, due diligence, and risk management are paramount, ensuring that this approach aligns with the trader's overall investment objectives and risk tolerance.
+While dividend capture strategies offer a distinctive approach to generating income, they are not without complexity and risk. Successful execution demands a comprehensive understanding of market mechanics, sophisticated tools for timing and [transaction execution](../t/transaction_execution.md), and vigilant attention to tax implications. As with any trading strategy, due diligence, and [risk management](../r/risk_management.md) are paramount, ensuring that this approach aligns with the trader's overall investment objectives and risk tolerance.

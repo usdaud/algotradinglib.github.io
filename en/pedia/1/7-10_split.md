@@ -2,13 +2,13 @@
 
 ### Definition
 
-The term "7-10 Split" is not commonly associated with algorithmic trading. Instead, it refers to a scenario in the sport of bowling where the 7 and 10 pins remain standing, representing one of the most challenging splits to convert. However, let's draw a parallel to algorithmic trading to understand a complex scenario that could be humorously or metaphorically referred to as a "7-10 Split" in trading algorithms. In trading, a "7-10 Split" can symbolically represent difficult market conditions or strategies that require highly sophisticated and precise algorithms to manage two extreme ends of risk and reward.
+The term "7-10 Split" is not commonly associated with [algorithmic trading](../a/algorithmic_trading.md). Instead, it refers to a scenario in the sport of bowling where the 7 and 10 pins remain standing, representing one of the most challenging splits to convert. However, let's draw a parallel to [algorithmic trading](../a/algorithmic_trading.md) to understand a complex scenario that could be humorously or metaphorically referred to as a "7-10 Split" in [trading algorithms](../t/trading_algorithms.md). In trading, a "7-10 Split" can symbolically represent difficult market conditions or strategies that require highly sophisticated and precise algorithms to manage two extreme ends of risk and reward.
 
 ### Complex Market Scenarios
 
-In algorithmic trading, complex market scenarios can mimic the difficulty of the 7-10 split, where traders must manage positions that are highly risky or volatile. These scenarios require advanced algorithms that can perform in these conditions. Examples include:
+In [algorithmic trading](../a/algorithmic_trading.md), complex market scenarios can mimic the difficulty of the 7-10 split, where traders must manage positions that are highly risky or volatile. These scenarios require advanced algorithms that can perform in these conditions. Examples include:
 
-1. **Black Swan Events**
+1. **[Black Swan Events](../b/black_swan_events.md)**
    - Sudden and extreme market movements.
    - Algorithms must quickly adapt to minimize capital losses.
 
@@ -16,7 +16,7 @@ In algorithmic trading, complex market scenarios can mimic the difficulty of the
    - Extremely fast decision-making processes.
    - Requires handling vast amounts of market data in microseconds.
 
-3. **Cross-Asset Arbitrage**
+3. **Cross-Asset [Arbitrage](../a/arbitrage.md)**
    - Simultaneous trading across multiple asset classes.
    - Involves complex risk-reward calculations and real-time data analytics.
 
@@ -27,7 +27,7 @@ In algorithmic trading, complex market scenarios can mimic the difficulty of the
    - Real-time analytics.
 
 2. **Machine Learning and AI**
-   - Predictive analytics to forecast market movements.
+   - [Predictive analytics](../p/predictive_analytics.md) to forecast market movements.
    - Automation of model adjustments.
 
 3. **Complex Event Processing (CEP)**
@@ -44,7 +44,7 @@ In algorithmic trading, complex market scenarios can mimic the difficulty of the
    - Follow market trends aggressively.
    - Adapt using machine learning models.
 
-3. **Statistical Arbitrage Algorithms**
+3. **Statistical [Arbitrage](../a/arbitrage.md) Algorithms**
    - Use statistical methods to identify market inefficiencies.
    - Algorithms designed to enter and exit multiple positions quickly.
 
@@ -59,7 +59,7 @@ In algorithmic trading, complex market scenarios can mimic the difficulty of the
    - **Distributed Systems**: For handling large-scale computations and data storage.
 
 3. **Tools and Platforms**
-   - **QuantConnect**: An algorithmic trading platform that supports multiple languages and provides historical data.
+   - **QuantConnect**: An [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple languages and provides historical data.
    - **Kdb+/q**: A database system and programming language designed for high-frequency trading.
 
 ### Case Studies
@@ -87,7 +87,7 @@ In algorithmic trading, complex market scenarios can mimic the difficulty of the
 ### Future Directions
 
 1. **Quantum Computing**
-   - Potential to revolutionize trading algorithms with vastly superior processing power.
+   - Potential to revolutionize [trading algorithms](../t/trading_algorithms.md) with vastly superior processing power.
    - Still in research and development stages but promising for complex scenario management.
 
 2. **Improved AI Models**
@@ -96,8 +96,8 @@ In algorithmic trading, complex market scenarios can mimic the difficulty of the
 
 3. **Integration with IoT (Internet of Things)**
    - Gaining real-world data for more accurate market predictions.
-   - Real-time data integration from various sources.
+   - Real-time [data integration](../d/data_integration.md) from various sources.
 
 ### Conclusion
 
-While the "7-10 split" in bowling is one of the most challenging situations to convert, symbolically, navigating through complex and volatile market conditions in algorithmic trading can be just as challenging. Advanced algorithms equipped with high-frequency trading capabilities, machine learning, and real-time data processing are akin to the perfect technique and strategy required to split the 7-10 pins in bowling. As technologies continue to evolve, the analogy becomes even more pertinent, emphasizing the continual need for innovation and precision in the realm of algorithmic trading.
+While the "7-10 split" in bowling is one of the most challenging situations to convert, symbolically, navigating through complex and volatile market conditions in [algorithmic trading](../a/algorithmic_trading.md) can be just as challenging. Advanced algorithms equipped with high-frequency trading capabilities, machine learning, and real-time data processing are akin to the perfect technique and strategy required to split the 7-10 pins in bowling. As technologies continue to evolve, the analogy becomes even more pertinent, emphasizing the continual need for innovation and precision in the realm of [algorithmic trading](../a/algorithmic_trading.md).

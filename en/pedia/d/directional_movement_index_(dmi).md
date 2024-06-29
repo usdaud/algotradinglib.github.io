@@ -1,6 +1,6 @@
 # Directional Movement Index (DMI)
 
-The Directional Movement Index (DMI) is a technical indicator developed by J. Welles Wilder as part of his book "New Concepts in Technical Trading Systems," published in 1978. The DMI assesses the strength of a price trend and helps traders distinguish between trending and non-trending conditions. It serves as a tool for both trend-following and filtering out market noise, thus aiding in more informed decision-making in financial markets.
+The Directional Movement Index (DMI) is a technical indicator developed by J. Welles Wilder as part of his book "New Concepts in Technical [Trading Systems](../t/trading_systems.md)," published in 1978. The DMI assesses the strength of a price trend and helps traders distinguish between trending and non-trending conditions. It serves as a tool for both trend-following and filtering out market noise, thus aiding in more informed decision-making in financial markets.
 
 ### Components of DMI
 
@@ -53,9 +53,9 @@ Crossover points between +DI and -DI are particularly significant:
 
 ### DMI in Algorithmic Trading
 
-Algorithmic trading systems often incorporate DMI as part of complex trading algorithms. DMI offers clear quantitative criteria, enabling trading systems to automatically generate buy or sell signals. By integrating DMI with other indicators like Moving Average Convergence Divergence (MACD), Relative Strength Index (RSI), or Bollinger Bands, algorithms can enhance decision-making accuracy and potentially improve profitability.
+[Algorithmic trading](../a/algorithmic_trading.md) systems often incorporate DMI as part of complex [trading algorithms](../t/trading_algorithms.md). DMI offers clear quantitative criteria, enabling [trading systems](../t/trading_systems.md) to automatically generate buy or sell signals. By integrating DMI with other indicators like Moving Average Convergence Divergence (MACD), Relative Strength Index (RSI), or [Bollinger Bands](../b/bollinger_bands.md), algorithms can enhance decision-making accuracy and potentially improve profitability.
 
-Here are a couple of use cases of the Directional Movement Index in algorithmic trading:
+Here are a couple of use cases of the Directional Movement Index in [algorithmic trading](../a/algorithmic_trading.md):
 
 #### Use Case 1: Trend Following Systems
 
@@ -72,13 +72,13 @@ Another use case is a range-bound or sideways market filtering:
 
 ### Popular Algorithmic Trading Providers
 
-Several algorithmic trading platforms and providers incorporate DMI in their strategies. Some notable ones include:
+Several [algorithmic trading](../a/algorithmic_trading.md) platforms and providers incorporate DMI in their strategies. Some notable ones include:
 
-- **QuantConnect**: A cloud-based algorithmic trading platform [QuantConnect](https://www.quantconnect.com/)
-- **AlgoTrader**: An institutional multi-asset algorithmic trading software [AlgoTrader](https://www.algotrader.com/)
-- **Quantopian**: Another platform providing tools for algorithmic trading (although it ceased operations, it was popular for educational purposes)
+- **QuantConnect**: A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform [QuantConnect](https://www.quantconnect.com/)
+- **AlgoTrader**: An institutional multi-asset [algorithmic trading](../a/algorithmic_trading.md) software [AlgoTrader](https://www.algotrader.com/)
+- **Quantopian**: Another platform providing tools for [algorithmic trading](../a/algorithmic_trading.md) (although it ceased operations, it was popular for educational purposes)
 
 ### Conclusion
 
-The Directional Movement Index (DMI) is a powerful tool in the arsenal of both manual and algorithmic traders. Its ability to quantify trend strength and deliver clear buy and sell signals makes it invaluable for crafting sophisticated trading strategies. When used in conjunction with other technical indicators, DMI offers enriched insights and robust trading opportunities, further emphasizing its enduring significance in the world of financial markets.
-
+The Directional Movement Index (DMI) is a powerful tool in the arsenal of both manual and algorithmic traders. Its ability to quantify trend strength and deliver clear buy and sell signals makes it invaluable for crafting sophisticated [trading strategies](../t/trading_strategies.md). When used in conjunction with other [technical indicators](../t/technical_indicators.md), DMI offers enriched insights and robust trading opportunities, further emphasizing its enduring significance in the world of financial markets.
+

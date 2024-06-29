@@ -45,7 +45,7 @@ Yield, the return an investor receives on a T-Bill, can be calculated in two pri
 ```
 
 ### Yield Curve Implications
-The yield curve, which plots the yields of Treasury securities of varying maturities, plays a significant role in the context of 1-Year T-Bills. Typically, shorter maturities like the 1-Year T-Bill yield less than longer maturities due to lower risk and shorter duration.
+The [yield curve](../y/yield_curve.md), which plots the yields of Treasury securities of varying maturities, plays a significant role in the context of 1-Year T-Bills. Typically, shorter maturities like the 1-Year T-Bill yield less than longer maturities due to lower risk and shorter duration.
 
 ## Market Participants
 
@@ -56,7 +56,7 @@ Individual investors often turn to 1-Year T-Bills for their relative safety and 
 Large financial institutions, mutual funds, and insurance companies also invest heavily in 1-Year T-Bills due to their liquidity and low-risk profile. Institutions usually prefer competitive bidding to manage large portfolios effectively.
 
 ### Foreign Governments
-Foreign governments and central banks often hold T-Bills as part of their foreign exchange reserves. The stability and reliability of U.S. debt obligations make them attractive for preserving capital.
+Foreign governments and central banks often hold T-Bills as part of their [foreign exchange reserves](../f/foreign_exchange_reserves.md). The stability and reliability of U.S. debt obligations make them attractive for preserving capital.
 
 ## Investment Strategies
 
@@ -104,4 +104,4 @@ Online brokers and financial institutions often provide platforms where investor
 
 1-Year Treasury Bills serve an essential role in both personal and institutional investment portfolios due to their safety, predictable returns, and liquidity. Their issuance and auction mechanisms are designed to ensure broad access and competitive pricing. While they carry some risks, their advantages often outweigh potential downsides, making them a staple in the world of fixed-income investments.
 
-By understanding these fundamentals, investors can make more informed decisions about integrating 1-Year Treasury Bills into their broader financial strategies.
+By understanding these fundamentals, investors can make more informed decisions about integrating 1-Year Treasury Bills into their broader financial strategies.

@@ -1,6 +1,6 @@
 # Data Warehousing in Trading
 
-Data warehousing plays a pivotal role in the realm of trading, particularly algorithmic trading. It involves the aggregation, storage, and management of vast quantities of data from different sources to enable effective analysis and decision-making. As trading strategies become increasingly data-driven, the necessity for robust data warehousing solutions has become more vital than ever.
+Data warehousing plays a pivotal role in the realm of trading, particularly [algorithmic trading](../a/algorithmic_trading.md). It involves the aggregation, storage, and management of vast quantities of data from different sources to enable effective analysis and decision-making. As [trading strategies](../t/trading_strategies.md) become increasingly data-driven, the necessity for robust data warehousing solutions has become more vital than ever.
 
 ## Key Components and Architecture
 
@@ -9,9 +9,9 @@ The foundational layer of any data warehouse is the data sources. In trading, da
 
 - **Market Data**: Real-time and historical price data from various exchanges.
 - **Financial Reports**: Earnings reports, balance sheets, and other financial statements.
-- **News Feeds**: Economic news, geopolitical events, and market rumors.
+- **News Feeds**: Economic news, [geopolitical events](../g/geopolitical_events.md), and market rumors.
 - **Order Execution Data**: Information about the execution of trades, including timestamps, volumes, and prices.
-- **Alternative Data**: Social media sentiment, web traffic, satellite images, etc.
+- **[Alternative Data](../a/alternative_data.md)**: [Social media sentiment](../s/social_media_sentiment.md), web traffic, satellite images, etc.
 
 ### 2. ETL (Extract, Transform, Load)
 ETL processes are crucial for transforming the raw data into usable formats. This involves:
@@ -31,13 +31,13 @@ Data storage must be scalable and reliable, capable of handling large volumes of
 Once data is stored, it must be easily accessible for analysis. This phase involves:
 
 - **SQL Queries**: Utilizing SQL to query and analyze data.
-- **Data Mining**: Discovering patterns and anomalies.
-- **Machine Learning**: Applying algorithms for predictive analytics.
+- **[Data Mining](../d/data_mining.md)**: Discovering patterns and anomalies.
+- **Machine Learning**: Applying algorithms for [predictive analytics](../p/predictive_analytics.md).
 
 ### 5. Data Governance
 Ensuring the quality, security, and compliance of data is essential. This involves:
 
-- **Data Quality Management**: Ensuring the accuracy and consistency of data.
+- **[Data Quality Management](../d/data_quality_management.md)**: Ensuring the accuracy and consistency of data.
 - **Security Protocols**: Implementing encryption and access controls.
 - **Compliance**: Adhering to financial regulations such as GDPR, MiFID II, etc.
 
@@ -56,7 +56,7 @@ Modern data warehouses enable real-time data processing, which is crucial for hi
 Data warehousing solutions can scale with the growing needs of trading firms, accommodating additional data sources and larger datasets without significant overhauls.
 
 ### 5. Historical Analysis
-Historical data is invaluable for backtesting trading strategies. Data warehouses store extensive historical data, allowing traders to test and refine their algorithms comprehensively.
+Historical data is invaluable for [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md). Data warehouses store extensive historical data, allowing traders to test and refine their algorithms comprehensively.
 
 ## Implementation Challenges
 
@@ -95,14 +95,14 @@ Previously known as Azure SQL Data Warehouse, Azure Synapse Analytics combines b
 [Azure Synapse Analytics](https://azure.microsoft.com/en-us/services/synapse-analytics/)
 
 ### IBM Db2 Warehouse
-IBM Db2 Warehouse on Cloud delivers a fully managed private data warehouse service that provides built-in predictive analytics capabilities.
+IBM Db2 Warehouse on Cloud delivers a fully managed private data warehouse service that provides built-in [predictive analytics](../p/predictive_analytics.md) capabilities.
 
 [IBM Db2 Warehouse](https://www.ibm.com/products/db2-warehouse)
 
 ## Future Trends
 
 ### 1. Integration with AI and ML
-The integration of artificial intelligence (AI) and machine learning (ML) into data warehousing will further enhance predictive analytics, enabling more sophisticated trading strategies.
+The integration of artificial intelligence (AI) and machine learning (ML) into data warehousing will further enhance [predictive analytics](../p/predictive_analytics.md), enabling more sophisticated [trading strategies](../t/trading_strategies.md).
 
 ### 2. Blockchain Technology
 Blockchain could revolutionize data warehousing in trading by providing enhanced security, traceability, and transparency of data transactions.

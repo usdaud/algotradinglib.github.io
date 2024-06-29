@@ -49,7 +49,7 @@ Assume the following closing prices over a 4-day period:
 The RSI for these 4 periods is approximately 85.71, which indicates that the stock might be overbought.
 
 ## Interpretation of RSI
-Generally, an RSI above 70 indicates that a security is becoming overbought or overvalued, which may signal a trend reversal or corrective pullback in price. Conversely, an RSI below 30 suggests that a security may be oversold or undervalued, which may signal a trend reversal or corrective rally.
+Generally, an RSI above 70 indicates that a security is becoming overbought or overvalued, which may signal a [trend reversal](../t/trend_reversal.md) or corrective pullback in price. Conversely, an RSI below 30 suggests that a security may be oversold or undervalued, which may signal a [trend reversal](../t/trend_reversal.md) or corrective rally.
 
 ### Overbought and Oversold Conditions
 - **Overbought (RSI > 70):** When the RSI crosses above 70, the security is considered overbought. This situation can indicate that the asset may be due for a pullback or correction.
@@ -57,7 +57,7 @@ Generally, an RSI above 70 indicates that a security is becoming overbought or o
 - **Oversold (RSI < 30):** When the RSI crosses below 30, the security is considered oversold. This situation can indicate that the asset may be due for a rally or rebound.
 
 ## Advantages of 4-Period RSI
-- **Sensitivity:** The 4-period RSI is more sensitive to price changes compared to longer periods like the 14-period RSI. This can make it more useful for short-term trading strategies.
+- **Sensitivity:** The 4-period RSI is more sensitive to price changes compared to longer periods like the 14-period RSI. This can make it more useful for [short-term trading](../s/short-term_trading.md) strategies.
 - **Quick Response:** The shorter calculation period allows the RSI to respond more quickly to recent price changes, making it ideal for catching short-term overbought or oversold conditions.
 
 ## Disadvantages of 4-Period RSI
@@ -67,19 +67,19 @@ Generally, an RSI above 70 indicates that a security is becoming overbought or o
 ## Comparison with Other RSI Periods
 - **14-Period RSI:** The traditional RSI indicator is calculated over 14 periods and is widely used. While it is less sensitive than the 4-period RSI, it produces fewer false signals and offers better long-term trend detection.
   
-- **6 or 10-Period RSI:** Medium-term RSI periods, such as 6 or 10 periods, provide a balance between sensitivity and smoothing. These are less prone to volatility compared to the 4-period RSI but more responsive than the 14-period RSI.
+- **6 or [10-Period RSI](../1/10-period_rsi.md):** Medium-term RSI periods, such as 6 or 10 periods, provide a balance between sensitivity and smoothing. These are less prone to volatility compared to the 4-period RSI but more responsive than the 14-period RSI.
 
 ## Practical Uses
 ### Short-Term Trading
-The 4-period RSI is particularly useful in short-term trading strategies, including day trading and swing trading. Traders can leverage the rapid responsiveness of the 4-period RSI to capitalize on short-term price movements.
+The 4-period RSI is particularly useful in [short-term trading](../s/short-term_trading.md) strategies, including [day trading](../d/day_trading.md) and [swing trading](../s/swing_trading.md). Traders can leverage the rapid responsiveness of the 4-period RSI to capitalize on short-term price movements.
 
 ### Divergence Detection
 Traders often use the RSI to detect divergent price movements. Divergence occurs when the price moves in one direction while the RSI moves in the opposite direction. This can indicate potential reversals:
-- **Bullish Divergence:** Occurs when price makes a new low while the RSI forms a higher low.
-- **Bearish Divergence:** Occurs when price makes a new high while the RSI forms a lower high.
+- **[Bullish Divergence](../b/bullish_divergence.md):** Occurs when price makes a new low while the RSI forms a higher low.
+- **[Bearish Divergence](../b/bearish_divergence.md):** Occurs when price makes a new high while the RSI forms a lower high.
 
 ## Implementing 4-Period RSI in Trading Algorithms
-Many algorithmic trading platforms allow traders to backtest strategies using indicators like the 4-period RSI. Platforms such as [QuantConnect](https://www.quantconnect.com) and [AlgoTrader](https://www.algotrader.com) provide sophisticated environments for developing and testing algorithmic trading strategies.
+Many [algorithmic trading](../a/algorithmic_trading.md) platforms allow traders to backtest strategies using indicators like the 4-period RSI. Platforms such as [QuantConnect](https://www.quantconnect.com) and [AlgoTrader](https://www.algotrader.com) provide sophisticated environments for developing and testing [algorithmic trading](../a/algorithmic_trading.md) strategies.
 
 ### Sample Algorithm
 Here's a simple example of how you might implement a trading algorithm using the 4-period RSI in Python with the `pandas` and `numpy` libraries:
@@ -132,4 +132,4 @@ print(data)
 This script calculates the 4-period RSI for a given set of closing prices and generates buy and sell signals based on RSI thresholds (below 30 for buying and above 70 for selling).
 
 ## Conclusion
-The 4-period RSI is a powerful tool in the arsenal of technical analysts and algorithmic traders. Its sensitivity to price movements makes it particularly useful for identifying short-term overbought and oversold conditions. However, its increased volatility can sometimes produce false signals, so it's often best used in conjunction with other indicators and analysis methods. Whether used in manual trading or algorithmic strategies, understanding and effectively utilizing the 4-period RSI can be a significant advantage in navigating the complex world of financial markets.
+The 4-period RSI is a powerful tool in the arsenal of technical analysts and algorithmic traders. Its sensitivity to price movements makes it particularly useful for identifying short-term overbought and oversold conditions. However, its increased volatility can sometimes produce false signals, so it's often best used in conjunction with other indicators and analysis methods. Whether used in manual trading or algorithmic strategies, understanding and effectively utilizing the 4-period RSI can be a significant advantage in navigating the complex world of financial markets.

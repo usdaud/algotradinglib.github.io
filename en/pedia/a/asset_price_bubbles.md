@@ -1,6 +1,6 @@
 # Understanding Asset Price Bubbles
 
-Asset price bubbles are financial phenomena where the prices of assets, such as stocks, real estate, or commodities, inflate beyond their intrinsic value, driven primarily by exuberant market behavior rather than fundamental factors. When the bubble bursts, prices plummet, often leading to severe economic repercussions. This comprehensive discussion explores the dynamics, causes, historical examples, and ramifications of asset price bubbles within the context of algorithmic trading.
+Asset price bubbles are financial phenomena where the prices of assets, such as stocks, real estate, or commodities, inflate beyond their intrinsic value, driven primarily by exuberant market behavior rather than fundamental factors. When the bubble bursts, prices plummet, often leading to severe economic repercussions. This comprehensive discussion explores the dynamics, causes, historical examples, and ramifications of asset price bubbles within the context of [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Definition of Asset Price Bubbles
 
@@ -59,12 +59,12 @@ The bursting of an asset price bubble can have widespread economic and social ra
   
 ## Algorithmic Trading and Asset Price Bubbles
 
-**Algorithmic trading** (or algo-trading) refers to using computer programs to automatically execute trades based on predefined criteria. While algo-trading can increase market efficiency, it can also contribute to asset price bubbles through several mechanisms:
+**[Algorithmic trading](../a/algorithmic_trading.md)** (or algo-trading) refers to using computer programs to automatically execute trades based on predefined criteria. While algo-trading can increase [market efficiency](../m/market_efficiency.md), it can also contribute to asset price bubbles through several mechanisms:
 
 1. **High-Frequency Trading (HFT)**: Algorithms designed for high-frequency trading can exacerbate price volatility, leading to rapid price increases and contributing to bubble formation.
-2. **Momentum Trading**: Algo-trading strategies that exploit market momentum can further accelerate price escalations, driving prices away from their fundamental values.
+2. **[Momentum Trading](../m/momentum_trading.md)**: Algo-[trading strategies](../t/trading_strategies.md) that exploit market momentum can further accelerate price escalations, driving prices away from their fundamental values.
 3. **Market-making Algorithms**: These algorithms provide liquidity but can also withdraw liquidity rapidly in crisis conditions, amplifying price swings during a market correction.
 
 ## Conclusion
 
-Understanding the dynamics of asset price bubbles is crucial for investors, policymakers, and financial professionals. While asset price bubbles can lead to significant financial gains during the boom phase, the inevitable bust can result in severe economic consequences. Algorithmic trading adds a new dimension to these phenomena, making monitoring and regulating market behavior more critical than ever. As financial markets continue to evolve, the lessons learned from past bubbles will be invaluable in preventing future financial crises.
+Understanding the dynamics of asset price bubbles is crucial for investors, policymakers, and financial professionals. While asset price bubbles can lead to significant financial gains during the boom phase, the inevitable bust can result in severe economic consequences. [Algorithmic trading](../a/algorithmic_trading.md) adds a new dimension to these phenomena, making monitoring and regulating market behavior more critical than ever. As financial markets continue to evolve, the lessons learned from past bubbles will be invaluable in preventing future financial crises.

@@ -1,10 +1,10 @@
 # Chande Momentum Oscillator (CMO)
 
-The Chande Momentum Oscillator (CMO) is a technical analysis tool developed by Tushar Chande. This indicator is derived from the Relative Strength Index (RSI) and is used to identify the momentum of a financial asset by comparing the sum of all recent gains to the sum of all recent losses over a specified period. It oscillates between -100 and +100 and provides valuable insights into whether an asset is overbought or oversold, thus enabling traders to make informed decisions.
+The Chande Momentum Oscillator (CMO) is a [technical analysis](../t/technical_analysis.md) tool developed by Tushar Chande. This indicator is derived from the Relative Strength Index (RSI) and is used to identify the momentum of a financial asset by comparing the sum of all recent gains to the sum of all recent losses over a specified period. It oscillates between -100 and +100 and provides valuable insights into whether an asset is overbought or oversold, thus enabling traders to make informed decisions.
 
 ## Origins and Development
 
-The Chande Momentum Oscillator was introduced by Tushar Chande in his 1997 book "The New Technical Trader," co-authored with Stanley Kroll. Chande developed this indicator to address some limitations in existing momentum indicators. Dr. Chande is known for his contributions to technical analysis and quantitative trading strategies. His work is prominently featured in professional trading communities, although he does not maintain a personal website.
+The Chande Momentum Oscillator was introduced by Tushar Chande in his 1997 book "The New Technical Trader," co-authored with Stanley Kroll. Chande developed this indicator to address some limitations in existing [momentum indicators](../m/momentum_indicators.md). Dr. Chande is known for his contributions to [technical analysis](../t/technical_analysis.md) and [quantitative trading](../q/quantitative_trading.md) strategies. His work is prominently featured in professional trading communities, although he does not maintain a personal website.
 
 ## Calculation
 
@@ -36,20 +36,20 @@ The CMO can also be used to confirm the strength of a trend. If the oscillator i
 
 ## Advantages
 
-1. **Sensitivity:** The CMO is more sensitive to price changes compared to some other momentum indicators, providing earlier signals.
+1. **Sensitivity:** The CMO is more sensitive to price changes compared to some other [momentum indicators](../m/momentum_indicators.md), providing earlier signals.
 2. **Range-Bound:** Provides a clear indication when an asset is overbought or oversold.
 3. **Versatility:** Can be used across various time frames and asset classes.
 
 ## Limitations
 
-1. **Whipsaw Effect:** Higher sensitivity can also lead to false signals during sideways markets.
+1. **[Whipsaw Effect](../w/whipsaw_effect.md):** Higher sensitivity can also lead to false signals during sideways markets.
 2. **Lagging Indicator:** As with any momentum indicator, the CMO lags behind price movements and may not predict reversals accurately.
 
 ## Practical Applications
 
 ### Integration with Other Indicators
 
-To minimize the risk of false signals, traders often use the CMO in conjunction with other indicators such as Moving Averages, Bollinger Bands, or the Relative Strength Index (RSI).
+To minimize the risk of false signals, traders often use the CMO in conjunction with other indicators such as Moving Averages, [Bollinger Bands](../b/bollinger_bands.md), or the Relative Strength Index (RSI).
 
 ### Buy and Sell Signals
 
@@ -58,7 +58,7 @@ To minimize the risk of false signals, traders often use the CMO in conjunction 
 
 ### Algorithmic Trading
 
-The CMO can be integrated into algorithmic trading strategies to automate buy and sell decisions. For instance, algorithms can be programmed to execute trades when the CMO crosses certain thresholds, thereby eliminating emotional biases.
+The CMO can be integrated into [algorithmic trading](../a/algorithmic_trading.md) strategies to automate buy and sell decisions. For instance, algorithms can be programmed to execute trades when the CMO crosses certain thresholds, thereby eliminating emotional biases.
 
 ## Example
 
@@ -104,14 +104,14 @@ hline(-50, "Oversold", color=color.green)
 
 ### Use by Professional Traders
 
-Professional trading firms such as Renaissance Technologies, D.E. Shaw Group, and Two Sigma have been known to incorporate various momentum oscillators, including the CMO, into their trading algorithms. These firms use a combination of quantitative analysis and algorithmic strategies to exploit market inefficiencies.
+Professional trading firms such as Renaissance Technologies, D.E. Shaw Group, and Two Sigma have been known to incorporate various [momentum oscillators](../m/momentum_oscillators.md), including the CMO, into their [trading algorithms](../t/trading_algorithms.md). These firms use a combination of [quantitative analysis](../q/quantitative_analysis.md) and algorithmic strategies to exploit market inefficiencies.
 
 ### Case Study
 
-A notable example of the application of momentum oscillators in trading comes from Renaissance Technologies, renowned for its Medallion Fund. Although specific details about their algorithms are proprietary, the integration of indicators like the CMO helps in their market-timing strategies. Renaissance Technologies has consistently delivered impressive returns by blending mathematical models with real-world trading scenarios, showcasing the effectiveness of tools like the Chande Momentum Oscillator.
+A notable example of the application of [momentum oscillators](../m/momentum_oscillators.md) in trading comes from Renaissance Technologies, renowned for its Medallion Fund. Although specific details about their algorithms are proprietary, the integration of indicators like the CMO helps in their market-timing strategies. Renaissance Technologies has consistently delivered impressive returns by blending mathematical models with real-world trading scenarios, showcasing the effectiveness of tools like the Chande Momentum Oscillator.
 
 For more information about Renaissance Technologies, visit their [official website](https://www.rentec.com/).
 
 ## Conclusion
 
-The Chande Momentum Oscillator is a robust tool for identifying the momentum of financial assets. Its sensitivity to price changes and ability to oscillate within a bounded range make it a valuable addition to any trader's toolkit. While it has its limitations, when used in conjunction with other indicators and within a comprehensive trading strategy, the CMO can provide significant insights and aid in making more informed trading decisions.
+The Chande Momentum Oscillator is a robust tool for identifying the momentum of financial assets. Its sensitivity to price changes and ability to oscillate within a bounded range make it a valuable addition to any trader's toolkit. While it has its limitations, when used in conjunction with other indicators and within a comprehensive trading strategy, the CMO can provide significant insights and aid in making more informed trading decisions.

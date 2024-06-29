@@ -1,6 +1,6 @@
 ## Introduction to 30-Day RSI (Relative Strength Index)
 
-The Relative Strength Index (RSI) is a momentum oscillator that measures the speed and change of price movements. Considered one of the most popular technical analysis tools, it was developed by J. Welles Wilder. The RSI oscillates between 0 and 100. Traditionally, an RSI reading above 70 is considered overbought, while an RSI reading below 30 is considered oversold. The 30-Day RSI is a specific application of this indicator where the calculation considers the past 30 days of data.
+The Relative Strength Index (RSI) is a momentum oscillator that measures the speed and change of price movements. Considered one of the most popular [technical analysis](../t/technical_analysis.md) tools, it was developed by J. Welles Wilder. The RSI oscillates between 0 and 100. Traditionally, an RSI reading above 70 is considered overbought, while an RSI reading below 30 is considered oversold. The 30-Day RSI is a specific application of this indicator where the calculation considers the past 30 days of data.
 
 ## Formula and Calculation
 
@@ -31,7 +31,7 @@ For a 30-Day RSI, the calculation includes the past 30 days of trading data. Her
 
 ## Interpretation of 30-Day RSI
 
-The 30-Day RSI, being a longer-term indicator compared to the more commonly used 14-Day RSI, is less sensitive to short-term price movements but provides a smoothed understanding of the asset's price momentum. 
+The 30-Day RSI, being a longer-term indicator compared to the more commonly used 14-Day RSI, is less sensitive to short-term price movements but provides a smoothed understanding of the asset's [price momentum](../p/price_momentum.md). 
 
 ### Overbought and Oversold Conditions
 
@@ -41,8 +41,8 @@ The 30-Day RSI, being a longer-term indicator compared to the more commonly used
 ### Divergences
 
 Divergences between the RSI and the price movement of the asset can also serve as a signal for potential price reversals. For instance:
-- **Bullish Divergence**: Occurs when the price makes a new low but the RSI makes a higher low. This might indicate weakening downward momentum and a potential upcoming upward reversal.
-- **Bearish Divergence**: Occurs when the price makes a new high but the RSI makes a lower high. This might indicate weakening upward momentum and a potential upcoming downward reversal.
+- **[Bullish Divergence](../b/bullish_divergence.md)**: Occurs when the price makes a new low but the RSI makes a higher low. This might indicate weakening downward momentum and a potential upcoming upward reversal.
+- **[Bearish Divergence](../b/bearish_divergence.md)**: Occurs when the price makes a new high but the RSI makes a lower high. This might indicate weakening upward momentum and a potential upcoming downward reversal.
 
 ### Trend Identification 
 
@@ -52,7 +52,7 @@ The RSI can also be useful in identifying the overall trend of the asset:
 
 ## Practical Applications and Trading Strategies
 
-The 30-Day RSI can be used in various trading strategies. Some traders use it as a standalone indicator, while others combine it with other technical analysis tools to confirm their trading signals.
+The 30-Day RSI can be used in various [trading strategies](../t/trading_strategies.md). Some traders use it as a standalone indicator, while others combine it with other [technical analysis](../t/technical_analysis.md) tools to confirm their [trading signals](../t/trading_signals.md).
 
 ### RSI Swing Rejections
 
@@ -66,17 +66,17 @@ A similar but opposite approach is used for bearish signals.
 
 ### RSI with Support and Resistance Levels
 
-Another common strategy involves combining the RSI with support and resistance levels:
+Another common strategy involves combining the RSI with [support and resistance](../s/support_and_resistance.md) levels:
 - Traders look for confluence where the RSI enters overbought or oversold territory near significant support or resistance levels.
 
 ### RSI with Moving Averages
 
 Some traders combine the 30-Day RSI with moving averages to validate trends:
-- For instance, if the RSI is above 50 and the price is above a key moving average (such as the 50-day or 200-day moving average), it could affirm a bullish trend.
+- For instance, if the RSI is above 50 and the price is above a key moving average (such as the 50-day or [200-day moving average](../1/200-day_moving_average.md)), it could affirm a bullish trend.
 
 ### RSI and Chart Patterns
 
-RSI can be used in conjunction with chart patterns, such as head and shoulders, triangles, and flags. When an RSI signal coincides with a breakout from a key chart pattern, it can provide stronger confirmation for entry or exit points.
+RSI can be used in conjunction with [chart patterns](../c/chart_patterns.md), such as head and shoulders, triangles, and flags. When an RSI signal coincides with a breakout from a key chart pattern, it can provide stronger confirmation for entry or exit points.
 
 ## Limitations of 30-Day RSI
 
@@ -87,6 +87,6 @@ While the 30-Day RSI is a powerful tool, it is not without limitations:
 
 ## Conclusion
 
-The 30-Day RSI is a valuable tool for long-term traders looking to filter out short-term noise and focus on broader price momentum trends. By understanding the calculations, interpretations, and various trading strategies involving the RSI, traders can better utilize this indicator in their trading arsenal. However, it’s crucial to remember that no single indicator should be relied upon solely, and the RSI is most effective when used in conjunction with other technical analysis tools and considerations.
+The 30-Day RSI is a valuable tool for long-term traders looking to filter out short-term noise and focus on broader [price momentum](../p/price_momentum.md) trends. By understanding the calculations, interpretations, and various [trading strategies](../t/trading_strategies.md) involving the RSI, traders can better utilize this indicator in their trading arsenal. However, it’s crucial to remember that no single indicator should be relied upon solely, and the RSI is most effective when used in conjunction with other [technical analysis](../t/technical_analysis.md) tools and considerations.
 
-For more in-depth resources and tools on RSI and other indicators, you can visit stock trading platforms like [MetaStock](https://www.metastock.com) or use trading software like [TradingView](https://www.tradingview.com), which offer advanced charting options and customizable RSI indicators.
+For more in-depth resources and tools on RSI and other indicators, you can visit stock trading platforms like [MetaStock](https://www.metastock.com) or use trading software like [TradingView](https://www.tradingview.com), which offer advanced charting options and customizable RSI indicators.

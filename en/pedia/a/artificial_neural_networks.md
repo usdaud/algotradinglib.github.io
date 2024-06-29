@@ -1,12 +1,12 @@
 # Artificial Neural Networks in Algorithmic Trading
 
-An Artificial Neural Network (ANN) is a computational model inspired by the way biological neural networks in the human brain process information. These networks are a cornerstone of artificial intelligence and are used extensively in various fields, including algorithmic trading, where they help traders make more informed and accurate trading decisions based on large datasets and market conditions.
+An Artificial Neural Network (ANN) is a computational model inspired by the way biological neural networks in the human brain process information. These networks are a cornerstone of artificial intelligence and are used extensively in various fields, including [algorithmic trading](../a/algorithmic_trading.md), where they help traders make more informed and accurate trading decisions based on large datasets and market conditions.
 
 ## Overview of Artificial Neural Networks
 
 Artificial Neural Networks consist of layers of interconnected nodes or neurons, where each node represents a mathematical operation. The primary components of an ANN are:
 
-1. **Input Layer**: This layer receives the initial data input, which can include stock prices, trading volumes, economic indicators, etc.
+1. **Input Layer**: This layer receives the initial data input, which can include stock prices, trading volumes, [economic indicators](../e/economic_indicators.md), etc.
 2. **Hidden Layers**: These layers perform complex computations and feature extraction from the input data. There can be one or multiple hidden layers in a neural network.
 3. **Output Layer**: This produces the final output, which may be the predicted stock price, buy/sell signal, or any other measurable outcome pertinent to trading.
 
@@ -14,7 +14,7 @@ Artificial Neural Networks consist of layers of interconnected nodes or neurons,
 
 ### Feedforward Neural Networks (FNN)
 
-Feedforward Neural Networks are the simplest form of Neural Networks where connections between nodes do not form cycles. The information moves in only one direction—forward—from the input nodes, through the hidden nodes (if any), and to the output nodes. 
+[Feedforward Neural Networks](../f/feedforward_neural_networks.md) are the simplest form of Neural Networks where connections between nodes do not form cycles. The information moves in only one direction—forward—from the input nodes, through the hidden nodes (if any), and to the output nodes. 
 
 **Applications in Trading**:
 - Forecasting stock prices
@@ -26,9 +26,9 @@ Feedforward Neural Networks are the simplest form of Neural Networks where conne
 Originally designed for image recognition tasks, Convolutional Neural Networks have also found applications in trading, particularly in analyzing time-series data, which can be imagined as sequences of images.
 
 **Applications in Trading**:
-- Pattern recognition in market data
-- Technical analysis using candlestick patterns
-- Anomaly detection
+- [Pattern recognition](../p/pattern_recognition.md) in market data
+- [Technical analysis](../t/technical_analysis.md) using [candlestick patterns](../c/candlestick_patterns.md)
+- [Anomaly detection](../a/anomaly_detection.md)
 
 ### Recurrent Neural Networks (RNN)
 
@@ -37,7 +37,7 @@ Recurrent Neural Networks are designed to work with sequential data where the ou
 **Applications in Trading**:
 - Predicting stock price trends
 - Analyzing time-dependent market data
-- Algorithmic trading strategies that depend on historical data
+- [Algorithmic trading](../a/algorithmic_trading.md) strategies that depend on historical data
 
 ### Long Short-Term Memory Networks (LSTM)
 
@@ -45,14 +45,14 @@ LSTM networks are a special type of RNN that can remember long-term dependencies
 
 **Applications in Trading**:
 - Long-term stock price prediction
-- Volatility forecasting
-- Optimizing trading strategies
+- [Volatility forecasting](../v/volatility_forecasting.md)
+- Optimizing [trading strategies](../t/trading_strategies.md)
 
 ## Building an ANN for Algorithmic Trading
 
 ### Data Collection
 
-The first step in developing an ANN for trading is collecting high-quality data. This can include historical stock prices, trading volumes, economic indicators, news sentiment, and more.
+The first step in developing an ANN for trading is collecting high-quality data. This can include historical stock prices, trading volumes, [economic indicators](../e/economic_indicators.md), news sentiment, and more.
 
 ### Data Preprocessing
 
@@ -74,27 +74,27 @@ Training involves feeding the processed data into the network and adjusting the 
 
 ### Evaluation and Tuning
 
-After training, the model is evaluated using testing data. Performance metrics such as Mean Squared Error (MSE), Mean Absolute Error (MAE), or financial metrics like annualized return and Sharpe ratio are used to assess the model's accuracy. Hyperparameters may be tuned based on the evaluation results.
+After training, the model is evaluated using testing data. [Performance metrics](../p/performance_metrics.md) such as [Mean Squared Error](../m/mean_squared_error.md) (MSE), Mean Absolute Error (MAE), or financial metrics like annualized return and [Sharpe ratio](../s/sharpe_ratio.md) are used to assess the model's accuracy. Hyperparameters may be tuned based on the evaluation results.
 
 ### Deployment
 
-Once the model achieves satisfactory performance, it can be deployed in a real trading environment. Continuous monitoring and retraining are essential to adapt to changing market conditions.
+Once the model achieves satisfactory performance, it can be deployed in a real [trading environment](../t/trading_environment.md). Continuous monitoring and retraining are essential to adapt to changing market conditions.
 
 ## Companies Using Neural Networks in Trading
 
-Several companies leverage Artificial Neural Networks for algorithmic trading. Some notable examples include:
+Several companies leverage Artificial Neural Networks for [algorithmic trading](../a/algorithmic_trading.md). Some notable examples include:
 
 1. **Kensho Technologies**: [kensho.com](https://kensho.com)
    - Provides advanced analytics, AI, and machine learning solutions for financial markets.
    
 2. **Numerai**: [numer.ai](https://numer.ai)
-   - Uses encrypted data packages to crowdsource trading algorithms based on machine learning models.
+   - Uses encrypted data packages to crowdsource [trading algorithms](../t/trading_algorithms.md) based on machine learning models.
    
 3. **Two Sigma**: [twosigma.com](https://www.twosigma.com)
-   - Utilizes AI, machine learning, and big data analytics to develop trading strategies.
+   - Utilizes AI, machine learning, and big data analytics to develop [trading strategies](../t/trading_strategies.md).
    
 4. **WorldQuant**: [worldquant.com](https://www.worldquant.com)
-   - Employs quantitative research to create trading strategies using statistical models and machine learning.
+   - Employs [quantitative research](../q/quantitative_research.md) to create [trading strategies](../t/trading_strategies.md) using statistical models and machine learning.
 
 ## Challenges and Considerations
 
@@ -125,7 +125,7 @@ Financial markets are dynamic and can change rapidly. Models need to be adaptabl
 
 ### Integrating Other AI Techniques
 
-Combining neural networks with other AI techniques like reinforcement learning, genetic algorithms, and swarm intelligence can enhance trading strategies.
+Combining neural networks with other AI techniques like reinforcement learning, genetic algorithms, and swarm intelligence can enhance [trading strategies](../t/trading_strategies.md).
 
 ### Quantum Computing
 
@@ -133,6 +133,6 @@ Quantum computing holds the potential to revolutionize the field by solving comp
 
 ### Explainable AI
 
-Developing techniques to make neural networks more interpretable will be critical for regulatory compliance and gaining trust in AI-driven trading strategies.
+Developing techniques to make neural networks more interpretable will be critical for regulatory compliance and gaining trust in AI-driven [trading strategies](../t/trading_strategies.md).
 
-In conclusion, Artificial Neural Networks offer tremendous potential for enhancing algorithmic trading strategies. While there are challenges to overcome, the benefits in terms of improved accuracy, speed, and the ability to process large datasets make them a valuable tool in the financial sector.
+In conclusion, Artificial Neural Networks offer tremendous potential for enhancing [algorithmic trading](../a/algorithmic_trading.md) strategies. While there are challenges to overcome, the benefits in terms of improved accuracy, speed, and the ability to process large datasets make them a valuable tool in the financial sector.

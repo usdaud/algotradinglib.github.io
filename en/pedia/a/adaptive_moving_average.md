@@ -1,6 +1,6 @@
 # Adaptive Moving Average (AMA)
 
-The Adaptive Moving Average (AMA), also known as the Kaufman Adaptive Moving Average (KAMA), is a technical analysis tool that was developed by American quantitative financial theorist Perry J. Kaufman in 1995. It is designed to account for varying market conditions and to adapt dynamically to price movements by smoothing out noise and reducing lag. Unlike traditional moving averages such as the Simple Moving Average (SMA) or Exponential Moving Average (EMA), which have fixed periods, the Adaptive Moving Average adjusts its sensitivity based on market volatility and price trends.
+The Adaptive Moving Average (AMA), also known as the Kaufman Adaptive Moving Average (KAMA), is a [technical analysis](../t/technical_analysis.md) tool that was developed by American quantitative financial theorist Perry J. Kaufman in 1995. It is designed to account for varying market conditions and to adapt dynamically to price movements by smoothing out noise and reducing lag. Unlike traditional moving averages such as the Simple Moving Average (SMA) or Exponential Moving Average (EMA), which have fixed periods, the Adaptive Moving Average adjusts its sensitivity based on market volatility and price trends.
 
 ## Key Concepts
 
@@ -92,7 +92,7 @@ Several financial software platforms and trading tools support the implementatio
 
 - **MetaTrader 4/5**: A popular platform among forex traders, which allows custom indicators like AMA.
 - **NinjaTrader**: A trading platform that supports advanced charting and custom indicators.
-- **TradingView**: An online charting platform that has a wide range of technical indicators including custom scripts for AMA.
+- **TradingView**: An online charting platform that has a wide range of [technical indicators](../t/technical_indicators.md) including custom scripts for AMA.
 
 ## Real-World Applications
 
@@ -102,11 +102,11 @@ The AMA is extensively used in trend-following systems. Traders use it to identi
 
 ### Automated Trading Systems
 
-Given its adaptive nature, the AMA is highly suitable for automated trading systems. Quantitative traders and algorithmic trading firms often incorporate it into their trading algorithms. Companies like **AlgoTrader** ([algotrader.com](https://www.algotrader.com)) provide platforms that enable the incorporation of the AMA into automated trading strategies.
+Given its adaptive nature, the AMA is highly suitable for [automated trading systems](../a/automated_trading_systems.md). Quantitative traders and [algorithmic trading](../a/algorithmic_trading.md) firms often incorporate it into their [trading algorithms](../t/trading_algorithms.md). Companies like **AlgoTrader** ([algotrader.com](https://www.algotrader.com)) provide platforms that enable the incorporation of the AMA into automated [trading strategies](../t/trading_strategies.md).
 
 ### Portfolio Management
 
-Portfolio managers use the AMA to manage risk and enhance returns by dynamically adjusting their positions based on the prevailing market trends. This approach is particularly beneficial in volatile markets where sudden price movements can significantly impact portfolio performance.
+Portfolio managers use the AMA to manage risk and enhance returns by dynamically adjusting their positions based on the prevailing market trends. This approach is particularly beneficial in volatile markets where sudden price movements can significantly impact [portfolio performance](../p/portfolio_performance.md).
 
 ### Scalping and Intraday Trading
 
@@ -114,6 +114,6 @@ Intraday traders and scalpers benefit from the AMA by using it to identify short
 
 ## Conclusion
 
-The Adaptive Moving Average (AMA) stands out as a powerful tool in the realm of technical analysis due to its ability to adapt to varying market conditions. By incorporating the Efficiency Ratio and the Smoothing Constant, it provides a dynamic approach to smoothing price data, reducing noise, and responding to price movements more effectively than traditional moving averages. However, its complexity requires a thorough understanding and careful parameter tuning. Despite its limitations, the AMA remains a versatile and valuable tool for traders and portfolio managers aiming to navigate the complexities of financial markets.
+The Adaptive Moving Average (AMA) stands out as a powerful tool in the realm of [technical analysis](../t/technical_analysis.md) due to its ability to adapt to varying market conditions. By incorporating the Efficiency Ratio and the Smoothing Constant, it provides a dynamic approach to smoothing price data, reducing noise, and responding to price movements more effectively than traditional moving averages. However, its complexity requires a thorough understanding and careful parameter tuning. Despite its limitations, the AMA remains a versatile and valuable tool for traders and portfolio managers aiming to navigate the complexities of financial markets.
 
-For more information, you can visit Perry J. Kaufman's official website: [kaufmansignals.com](http://www.kaufmansignals.com).
+For more information, you can visit Perry J. Kaufman's official website: [kaufmansignals.com](http://www.kaufmansignals.com).

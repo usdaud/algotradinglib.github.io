@@ -24,8 +24,8 @@ Decentralized trading platforms utilize smart contracts and blockchain technolog
 
 [Uniswap](https://uniswap.org/) is one of the pioneer decentralized trading platforms built on the Ethereum blockchain. It functions as an automated market maker (AMM), allowing users to trade ERC-20 tokens without the need for an order book.
 
-- **Automated Market Making**: Uses a constant product formula (x * y = k) to facilitate trades.
-- **Liquidity Pools**: Users can provide liquidity to pools in exchange for a share of the trading fees.
+- **[Automated Market Making](../a/automated_market_making.md)**: Uses a constant product formula (x * y = k) to facilitate trades.
+- **[Liquidity Pools](../l/liquidity_pools.md)**: Users can provide liquidity to pools in exchange for a share of the trading fees.
 - **Token Swaps**: Enables seamless swapping of ERC-20 tokens directly from user wallets.
 - **Governance**: Decentralized governance via UNI tokens.
 
@@ -49,10 +49,10 @@ Decentralized trading platforms utilize smart contracts and blockchain technolog
 
 ### Balancer
 
-[Balancer](https://balancer.fi/) is a distinct decentralized trading platform that enables users to create liquidity pools with multiple assets and customized weightings.
+[Balancer](https://balancer.fi/) is a distinct decentralized trading platform that enables users to create [liquidity pools](../l/liquidity_pools.md) with multiple assets and customized weightings.
 
-- **Multifaceted Pools**: Allows creation of liquidity pools with multiple tokens and different ratios.
-- **Smart Pools**: Flexible liquidity pools that self-adjust parameters based on pre-defined conditions.
+- **Multifaceted Pools**: Allows creation of [liquidity pools](../l/liquidity_pools.md) with multiple tokens and different ratios.
+- **Smart Pools**: Flexible [liquidity pools](../l/liquidity_pools.md) that self-adjust parameters based on pre-defined conditions.
 - **Investment Portfolios**: Functions like an automated portfolio manager, rebalancing assets based on market conditions.
 
 ## Technology Behind Decentralized Trading Platforms
@@ -85,7 +85,7 @@ Despite their benefits, DEXs face scalability issues, particularly on congested 
 
 ### Liquidity
 
-Sufficient liquidity is critical for the functioning of DEXs. While liquidity pools help address this, illiquidity in certain pairs can lead to high slippage and unfavorable trading experiences.
+Sufficient liquidity is critical for the functioning of DEXs. While [liquidity pools](../l/liquidity_pools.md) help address this, illiquidity in certain pairs can lead to high slippage and unfavorable trading experiences.
 
 ### User Experience
 
@@ -101,4 +101,4 @@ Cross-chain interoperability is crucial for the growth of DEXs. Projects like Po
 
 ## Conclusion
 
-Decentralized trading platforms represent a transformative shift in the way digital assets are traded, moving towards a more autonomous, secure, and transparent environment. As technology evolves and the DeFi ecosystem expands, these platforms are poised to play a pivotal role in the financial markets of the future, despite the ongoing challenges. Continuous innovation and adaptation will be key to fully realizing the potential of decentralized finance.
+Decentralized trading platforms represent a transformative shift in the way digital assets are traded, moving towards a more autonomous, secure, and transparent environment. As technology evolves and the DeFi ecosystem expands, these platforms are poised to play a pivotal role in the financial markets of the future, despite the ongoing challenges. Continuous innovation and adaptation will be key to fully realizing the potential of decentralized finance.

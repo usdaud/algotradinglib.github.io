@@ -4,24 +4,24 @@ Demand forecasting is a critical component in the field of business planning and
 
 #### 1. **Time Series Analysis**
 
-Time series analysis involves statistical techniques that deal with time-ordered data points. It's a foundational method in demand forecasting, comprising components such as trend, seasonal variations, cyclical patterns, and irregular fluctuations.
+[Time series analysis](../t/time_series_analysis.md) involves statistical techniques that deal with time-ordered data points. It's a foundational method in demand forecasting, comprising components such as trend, seasonal variations, cyclical patterns, and irregular fluctuations.
 
 - **Trend**: Represents the long-term progression of the series.
 - **Seasonality**: Regular patterns observed within specific time intervals (e.g., increased ice cream sales in the summer).
-- **Cycle**: Long-term fluctuations related to economic cycles.
+- **Cycle**: Long-term fluctuations related to [economic cycles](../e/economic_cycles.md).
 - **Irregular Variations**: Residual fluctuations after removing trend, seasonality, and cyclical components.
 
 #### 2. **Causal Models**
 
-Causal models, unlike time series models, use external factors to predict demand. These could include economic indicators, marketing efforts, pricing strategies, and more. The most popular causal modeling technique is multiple regression analysis, where the relationship between demand and multiple independent variables is quantified.
+Causal models, unlike time series models, use external factors to predict demand. These could include [economic indicators](../e/economic_indicators.md), marketing efforts, pricing strategies, and more. The most popular causal modeling technique is multiple [regression analysis](../r/regression_analysis.md), where the relationship between demand and multiple independent variables is quantified.
 
 #### 3. **Machine Learning Algorithms**
 
 Machine learning algorithms have revolutionized demand forecasting by providing high accuracy and the ability to handle vast datasets. Commonly used algorithms include:
 
-- **Linear Regression**: Establishes a relationship between input variables and the output (demand).
-- **Decision Trees and Random Forests**: Used for both regression and classification tasks, effective in capturing complex interactions.
-- **Artificial Neural Networks (ANNs)**: Particularly useful for capturing non-linear relationships.
+- **[Linear Regression](../l/linear_regression.md)**: Establishes a relationship between input variables and the output (demand).
+- **[Decision Trees](../d/decision_trees.md) and Random Forests**: Used for both regression and classification tasks, effective in capturing complex interactions.
+- **[Artificial Neural Networks](../a/artificial_neural_networks.md) (ANNs)**: Particularly useful for capturing non-linear relationships.
 - **Support Vector Machines (SVMs)**: Effective in high-dimensional spaces and robust against overfitting.
 
 #### 4. **Deep Learning Models**
@@ -64,14 +64,14 @@ Manufacturers rely on demand forecasting to:
 
 Traditional statistical methods used in demand forecasting include:
 
-- **Exponential Smoothing (ETS)**: Captures level, trend, and seasonality using weighted averages.
+- **[Exponential Smoothing](../e/exponential_smoothing.md) (ETS)**: Captures level, trend, and seasonality using weighted averages.
 - **ARIMA (AutoRegressive Integrated Moving Average)**: Combines autoregression and moving average models after differencing to stationarize the series.
 
 #### 2. **Advanced Analytics Platforms**
 
 Numerous platforms offer advanced analytics capabilities for demand forecasting:
 
-- **SAP Integrated Business Planning**: Offers real-time integration and predictive analytics (https://www.sap.com).
+- **SAP Integrated Business Planning**: Offers real-time integration and [predictive analytics](../p/predictive_analytics.md) (https://www.sap.com).
 - **Oracle Demand Management Cloud**: Provides tools to streamline demand management processes (https://www.oracle.com/supply-chain-management/demand-management/).
 - **IBM Planning Analytics**: Utilizes IBM's TM1 technology for sophisticated forecasting (https://www.ibm.com/products/planning-analytics).
 - **SAS Demand-Driven Planning and Optimization**: Aligns inventory with customer demand using advanced analytics (https://www.sas.com).

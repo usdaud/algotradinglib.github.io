@@ -1,6 +1,6 @@
 # Cognitive Biases in Trading
 
-Cognitive biases are systematic patterns of deviation from norm or rationality in judgment, which often occur due to the way our brain processes information. In the field of trading, cognitive biases can significantly affect decision-making processes, leading to suboptimal results. Understanding these cognitive biases is crucial for traders who aim to minimize errors and improve their trading performance.
+Cognitive biases are systematic patterns of deviation from norm or rationality in judgment, which often occur due to the way our brain processes information. In the field of trading, cognitive biases can significantly affect decision-making processes, leading to suboptimal results. Understanding these cognitive biases is crucial for traders who aim to minimize errors and improve their [trading performance](../t/trading_performance.md).
 
 ## Anchoring Bias
 
@@ -12,7 +12,7 @@ If a trader knows a stock's previous high was $100, they might hesitate to buy i
 
 ## Confirmation Bias
 
-Confirmation bias involves favoring information that conforms to one's preconceptions, regardless of whether the information is true. In trading, this means seeking out and overvaluing data that supports one's existing beliefs and ignoring or undervaluing data that contradicts them.
+[Confirmation bias](../c/confirmation_bias.md) involves favoring information that conforms to one's preconceptions, regardless of whether the information is true. In trading, this means seeking out and overvaluing data that supports one's existing beliefs and ignoring or undervaluing data that contradicts them.
 
 ### Example
 
@@ -36,7 +36,7 @@ During a market bubble, such as the dot-com bubble, many investors bought into t
 
 ## Loss Aversion
 
-Loss aversion is a cognitive bias where individuals prefer avoiding losses rather than acquiring equivalent gains. This bias suggests that the pain of losing is psychologically about twice as powerful as the pleasure of gaining.
+[Loss aversion](../l/loss_aversion.md) is a cognitive bias where individuals prefer avoiding losses rather than acquiring equivalent gains. This bias suggests that the pain of losing is psychologically about twice as powerful as the pleasure of gaining.
 
 ### Example
 
@@ -48,7 +48,7 @@ Recency bias leads people to give undue weight to the latest information or rece
 
 ### Example
 
-If a stock has recently performed well over the last few weeks, a trader might believe this performance will continue indefinitely, ignoring broader economic indicators that suggest otherwise.
+If a stock has recently performed well over the last few weeks, a trader might believe this performance will continue indefinitely, ignoring broader [economic indicators](../e/economic_indicators.md) that suggest otherwise.
 
 ## Cognitive Dissonance
 
@@ -72,7 +72,7 @@ Emotional biases are decision-making influences stemming from personal feelings 
 
 ### Example
 
-Fear can cause a trader to sell off holdings during a market dip, locking in losses rather than holding through the downturn. Conversely, greed might push a trader to take excessive risks, chasing high returns without adequate risk management.
+Fear can cause a trader to sell off holdings during a market dip, locking in losses rather than holding through the downturn. Conversely, greed might push a trader to take excessive risks, chasing high returns without adequate [risk management](../r/risk_management.md).
 
 ## Representativeness Bias
 
@@ -88,13 +88,13 @@ To mitigate cognitive biases, traders can adopt several strategies:
 
 1. **Education and Awareness**: Understanding the nature and impact of cognitive biases helps traders recognize when they might be falling prey to them.
 
-2. **Objective Analysis**: Utilizing quantitative analysis and data-driven approaches can reduce reliance on subjective judgment.
+2. **Objective Analysis**: Utilizing [quantitative analysis](../q/quantitative_analysis.md) and data-driven approaches can reduce reliance on subjective judgment.
 
 3. **Diverse Perspectives**: Seeking opinions and analysis from multiple sources can provide a more balanced viewpoint and counteract individual biases.
 
 4. **Trading Plans and Rules**: Establishing and adhering to a structured trading plan with predefined entry and exit points can help minimize impulsive decisions influenced by cognitive biases.
 
-5. **Regular Review**: Periodic review and reflection on trading decisions and outcomes can help identify patterns of biased behavior and inform adjustments to trading strategies.
+5. **Regular Review**: Periodic review and reflection on trading decisions and outcomes can help identify patterns of biased behavior and inform adjustments to [trading strategies](../t/trading_strategies.md).
 
 ## Conclusion
 
@@ -106,4 +106,4 @@ Sources:
 - [Investopedia](https://www.investopedia.com)
 - [Machine Algorithmic Trading Company](https://www.machinelearningtradingmodels.com)
 
-These resources offer additional insights into cognitive biases and methods for mitigating them in the context of trading.
+These resources offer additional insights into cognitive biases and methods for mitigating them in the context of trading.
