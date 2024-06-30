@@ -6,6 +6,9 @@ plugins:
 
 permalink: /:path/:basename:output_ext
 
+baseurl: ""
+url: "https://algotradinglib.com"
+
 safe: false
 
 liquid:
