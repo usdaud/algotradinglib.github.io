@@ -44,6 +44,9 @@ module Jekyll
       page = Jekyll::Page.new(site, site.source, File.dirname(file), File.basename(file))
       page.data['layout'] = 'base'
       page.data['title'] = title if title
+  
+      lang = file.split('/')[1]
+      page.data['lang'] = lang
 
       page.data['permalink'] = "/#{file.sub(site.source + '/', '').sub('.md', '.html')}"
   

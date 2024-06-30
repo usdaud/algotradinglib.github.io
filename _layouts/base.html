@@ -72,7 +72,9 @@
             $("#lang-select").change(function() {
                 var selectedLang = $(this).val();
                 var currentPath = window.location.pathname;
-                var newPath = "/" + selectedLang + currentPath.substring(3);
+                var parts = currentPath.split('/');
+                parts[1] = selectedLang;
+                var newPath = parts.join('/');
                 window.location.href = newPath;
             });
 
