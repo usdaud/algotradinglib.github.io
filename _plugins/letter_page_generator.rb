@@ -62,22 +62,25 @@ module Jekyll
     def initialize(site, base, lang, section, letter)
       @site = site
       @base = base
-      @dir  = File.join(lang, section)
-      @name = "#{letter}.md"
+      @dir  = File.join(lang, section, letter)
+      @name = "index.md"
 
       self.process(@name)
       layout_file = File.join(base, '_layouts', 'letter_index.html')
+
       if File.exist?(layout_file)
         self.read_yaml(File.dirname(layout_file), File.basename(layout_file))
       else
-        Jekyll.logger.warn "LetterPageGenerator:", "Layout file 'letter_index.html' not found"
-        self.data = {}
+          Jekyll.logger.warn "LetterPageGenerator:", "Layout file 'letter_index.html' not found"
+          self.data = {}
       end
+
       self.data['layout'] = 'letter_index'
       self.data['title'] = letter.upcase
       self.data['letter'] = letter
       self.data['lang'] = lang
       self.data['section'] = section
+      self.data['permalink'] = "/#{lang}/#{section}/#{letter}/index.html"
     end
   end
 
