@@ -6,6 +6,6 @@ layout: base
 <ul>
   {% assign sorted_letters = page.letters | sort %}
   {% for letter in sorted_letters %}
-    <li><a href="{{ letter | append: '.html' }}">{{ letter | upcase }}</a></li>
+    <li><a href="{{ letter | append: '/' }}">{{ letter | upcase }}</a></li>
   {% endfor %}
 </ul>
