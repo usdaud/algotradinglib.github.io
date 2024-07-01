@@ -143,6 +143,47 @@ footer a:hover .github-icon {
     font-size: 1.5em;
 }
 
+.letter-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+    gap: 20px;
+    padding: 20px;
+}
+
+.letter-item {
+    background-color: #f8f8f8;
+    border-radius: 10px;
+    text-align: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.letter-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.letter-item a {
+    text-decoration: none;
+    color: #333;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    height: 100%;
+}
+
+.letter-item .letter {
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.letter-item .count {
+    font-size: 0.9em;
+    color: #666;
+}
+
 @media (max-width: 768px) {
     .menu-toggle {
         display: block;
@@ -202,5 +243,22 @@ footer a:hover .github-icon {
 
     .section-item h2 {
         font-size: 1.2em;
+    }
+
+    .letter-grid {
+        grid-template-columns: repeat(auto-fill, minmax(80px, 1fr));
+        gap: 10px;
+    }
+
+    .letter-item a {
+        padding: 15px;
+    }
+
+    .letter-item .letter {
+        font-size: 1.5em;
+    }
+
+    .letter-item .count {
+        font-size: 0.8em;
     }
 }
