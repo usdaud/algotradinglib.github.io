@@ -1,4 +1,4 @@
-# Blended Investment Strategies in Algorithmic Trading
+# Blended Investment Strategies
 
 Blended investment strategies combine multiple trading approaches to enhance returns and manage risk more effectively than relying on a single strategy. In [algorithmic trading](../a/algorithmic_trading.md), these strategies leverage computational power to analyze large data sets, identify patterns, and execute trades faster and more efficiently than humans. This integration of diverse strategies is pivotal in creating a robust investment framework that can adapt to varying market conditions.
 

@@ -1,4 +1,4 @@
-## Geometric Return Models in Algorithmic Trading
+# Geometric Return Models
 
 ### Introduction
 

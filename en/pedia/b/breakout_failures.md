@@ -1,8 +1,6 @@
-# Breakout Failures in Algorithmic Trading
+# Breakout Failures
 
 In the realm of [algorithmic trading](../a/algorithmic_trading.md), breakout strategies are commonly utilized to exploit significant movements in price that indicate a new trend direction, either bullish or bearish. However, not all breakouts are successful. A breakout failure occurs when the price moves beyond a support or resistance level but then reverses direction, effectively "trapping" traders who anticipated a continuation. This article delves deep into the intricacies of breakout failures, the reasons behind them, and how [algorithmic trading](../a/algorithmic_trading.md) systems can be designed to handle such scenarios effectively.
-
----
 
 ## Overview of Breakouts
 

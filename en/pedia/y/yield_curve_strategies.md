@@ -1,4 +1,4 @@
-### Yield Curve Strategies in Algorithmic Trading
+# Yield Curve Strategies
 
 [Yield curve](../y/yield_curve.md) strategies are financial investment approaches that focus on the relationship between interest rates of bonds with different maturities. These strategies are crucial for institutional investors, hedge funds, and professional traders due to their ability to forecast [economic cycles](../e/economic_cycles.md), manage risk, and generate returns. [Algorithmic trading](../a/algorithmic_trading.md), which uses automated systems to execute trades based on programmed strategies, has evolved to incorporate [yield curve](../y/yield_curve.md) strategies in various sophisticated ways. This comprehensive overview explores the fundamental concepts, types of [yield curve](../y/yield_curve.md) strategies, their applications in [algorithmic trading](../a/algorithmic_trading.md), and notable firms that utilize these strategies. 
 

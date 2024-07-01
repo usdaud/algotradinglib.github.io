@@ -1,5 +1,4 @@
-# Yield Volatility Models in Algorithmic Trading
-=================================================
+# Yield Volatility Models
 
 ## Introduction
 

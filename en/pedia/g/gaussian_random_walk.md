@@ -1,4 +1,4 @@
-### Gaussian Random Walk
+# Gaussian Random Walk
 
 Gaussian Random Walk (GRW) is a mathematical model that describes a path consisting of a succession of random steps, where the steps are normally distributed. This model is highly relevant in various fields such as physics, finance, and econometrics. It provides a crucial underpinning to models used for predicting asset prices and is integral to the development of algorithms used in [algorithmic trading](../a/algorithmic_trading.md) (algotrading).
 

@@ -1,4 +1,4 @@
-# 5-Minute Chart in Algorithmic Trading
+# 5-Minute Chart
 
 A 5-minute chart is a type of [intraday trading](../i/intraday_trading.md) chart used predominantly by day traders and [algorithmic trading](../a/algorithmic_trading.md) systems to analyze and execute short-term trades. Each candlestick or bar on a 5-minute chart represents five minutes of market activity, including the open, high, low, and close prices within that period. This granular level of detail provides traders with a more precise view of market movements, allowing them to make informed and timely trading decisions.
 

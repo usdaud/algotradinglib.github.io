@@ -1,4 +1,4 @@
-# Ethical Standards in Trading
+# Ethical Standards
 
 The field of trading, particularly in the context of financial markets, operates under a complex and dynamic environment influenced by a myriad of factors, including technological advancements, regulatory changes, and market dynamics. Ethical standards in trading are of paramount importance to ensure fair, transparent, and efficient markets, as well as to maintain investor trust and confidence. This article delves into the various aspects of ethical standards in trading, focusing on [algorithmic trading](../a/algorithmic_trading.md) (algotrading), the regulatory landscape, the responsibilities of market participants, and some notable cases that have shaped the current ethical framework.
 

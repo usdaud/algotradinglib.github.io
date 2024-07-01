@@ -1,4 +1,6 @@
-# Downside risk management is a crucial component of financial planning and investment strategies, particularly within the realm of algorithmic trading. It refers to the practice of identifying, analyzing, and mitigating the risks associated with potential losses in investment portfolios. The primary objective of downside risk management is to protect capital and prevent significant drawdowns that could adversely affect long-term investment goals. This topic encompasses a wide array of techniques, strategies, and tools that traders and portfolio managers use to manage and control these risks. Below, we dive into different facets of downside risk management to provide a comprehensive understanding.
+# Downside Risk Management
+
+Downside risk management is a crucial component of financial planning and investment strategies, particularly within the realm of algorithmic trading. It refers to the practice of identifying, analyzing, and mitigating the risks associated with potential losses in investment portfolios. The primary objective of downside risk management is to protect capital and prevent significant drawdowns that could adversely affect long-term investment goals. This topic encompasses a wide array of techniques, strategies, and tools that traders and portfolio managers use to manage and control these risks. Below, we dive into different facets of downside risk management to provide a comprehensive understanding.
 
 ### Understanding Downside Risk
 

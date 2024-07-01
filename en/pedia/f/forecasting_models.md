@@ -1,4 +1,4 @@
-# Forecasting Models in Algorithmic Trading
+# Forecasting Models
 
 Forecasting models are an essential aspect of [algorithmic trading](../a/algorithmic_trading.md), relying on statistical, mathematical, and machine learning techniques to predict future price movements. These models aim to leverage historical data, market conditions, [economic indicators](../e/economic_indicators.md), and various other inputs to generate actionable [trading signals](../t/trading_signals.md). In this document, we’ll delve into the intricate details of various types of forecasting models, their applications, strengths, limitations, and notable advancements in this domain.
 

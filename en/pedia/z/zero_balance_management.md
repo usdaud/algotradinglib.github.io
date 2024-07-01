@@ -1,4 +1,4 @@
-# Zero Balance Management (ZBM) in Algorithmic Trading
+# Zero Balance Management (ZBM)
 
 [Zero Balance](../z/zero_balance.md) Management (ZBM) is a sophisticated financial strategy predominantly utilized in corporate cash management to optimize liquidity and minimize idle funds across various accounts within an organization. In the context of [algorithmic trading](../a/algorithmic_trading.md), ZBM can take on a more specific and nuanced role, leveraging [computational algorithms](../c/computational_algorithms.md) and automation to ensure that trading accounts are efficiently managed without maintaining excess balances.
 

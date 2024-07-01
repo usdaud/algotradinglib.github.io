@@ -1,4 +1,4 @@
-# 3D Charting in Algorithmic Trading
+# 3D Charting
 
 3D charting, or three-dimensional charting, refers to the practice of representing data in a three-dimensional space. In [algorithmic trading](../a/algorithmic_trading.md), 3D charts can serve as a potent tool for visualizing complex datasets, financial metrics, or trading patterns that are difficult to interpret using traditional two-dimensional charts.
 

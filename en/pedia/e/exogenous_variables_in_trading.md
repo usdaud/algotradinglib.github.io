@@ -1,4 +1,4 @@
-# Exogenous Variables in Trading
+# Exogenous Variables
 
 **Exogenous variables** are external factors that can affect the performance of a trading model but are not themselves influenced by the model. These variables are critical in trading because they provide context beyond the price movements of securities or assets, and they can significantly enhance the predictive power of [trading algorithms](../t/trading_algorithms.md). This detailed exposition covers the nature of exogenous variables, their integration in [trading models](../t/trading_models.md), types of important exogenous variables, and real-world applications.
 

@@ -1,4 +1,4 @@
-### 3-Period SMA (Simple Moving Average)
+# 3-Period SMA
 
 A Simple Moving Average (SMA) is one of the most basic and widely used [technical indicators](../t/technical_indicators.md) in the field of trading and finance, particularly in the domain of [algorithmic trading](../a/algorithmic_trading.md) (also known as algo-trading). SMAs are used primarily to identify trends by smoothing out price data over a specified period. A 3-Period SMA, as the name suggests, is an SMA calculated over a short period of just three data points, making it highly sensitive to recent price changes.
 

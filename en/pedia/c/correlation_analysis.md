@@ -1,4 +1,4 @@
-## Correlation Analysis in Algorithmic Trading
+# Correlation Analysis
 
 In the realm of [algorithmic trading](../a/algorithmic_trading.md), correlation analysis is a fundamental statistical tool used to understand and evaluate the relationship between two or more financial instruments or variables. This analysis aids in the construction of robust [trading algorithms](../t/trading_algorithms.md), [risk management](../r/risk_management.md) strategies, and [portfolio optimization](../p/portfolio_optimization.md) by measuring the strength and direction of relationships, which can guide decision-making processes.
 

@@ -1,4 +1,4 @@
-## Earnings Forecasting in Algorithmic Trading
+# Earnings Forecasting
 
 Earnings forecasting is a crucial aspect of financial analysis and investment strategy, particularly within the domain of [algorithmic trading](../a/algorithmic_trading.md). It involves predicting a company's future profitability based on a range of variables and data points. These forecasts play an essential role in guiding investors, traders, and financial analysts in making informed decisions.
 

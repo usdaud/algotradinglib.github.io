@@ -1,4 +1,4 @@
-# Equilibrium Models in Trading
+# Equilibrium Models
 
 ## Understanding Equilibrium Models
 

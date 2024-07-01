@@ -1,4 +1,4 @@
-## Futures Swaps
+# Futures Swaps
 
 Futures swaps, also known as swap futures, are financial [derivatives](../d/derivatives.md) that combine features of both [futures contracts](../f/futures_contracts.md) and swaps. They offer the benefits of [futures contracts](../f/futures_contracts.md), such as transparency, standardized terms, and exchange trading, while also providing the flexibility and customization typical of over-the-counter (OTC) swaps. Futures swaps are an increasingly popular tool for hedging and speculation in the financial markets.
 

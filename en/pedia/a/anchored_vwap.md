@@ -1,4 +1,4 @@
-## Anchored VWAP: An In-depth Analysis
+# Anchored VWAP
 
 The Anchored Volume Weighted Average Price (Anchored VWAP) is a [technical analysis](../t/technical_analysis.md) tool that is extensively used in the field of [algorithmic trading](../a/algorithmic_trading.md). This metric extends the concept of the standard VWAP but allows traders to "anchor" the calculation to a specific date or event, giving it significant flexibility and utility in diverse [trading strategies](../t/trading_strategies.md).
 

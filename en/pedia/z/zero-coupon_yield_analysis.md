@@ -1,5 +1,4 @@
 # Zero-Coupon Yield Analysis
-===========================
 
 Zero-coupon bonds are a type of bond that do not pay periodic interest payments. Instead, they are issued at a deep discount to their face value and mature at their full face value. The difference between the purchase price and the face value represents the investor's return. This unique characteristic makes zero-coupon bonds and their yields a critical topic in fixed-income analytics and [algorithmic trading](../a/algorithmic_trading.md) strategies.
 

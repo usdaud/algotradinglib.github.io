@@ -1,4 +1,4 @@
-# Data Cleaning in AlgoTrading
+# Data Cleaning
 
 Data cleaning is a crucial aspect of data analysis and is especially vital in [algorithmic trading](../a/algorithmic_trading.md) where the quality of data directly impacts trading decisions and outcomes. [Algorithmic trading](../a/algorithmic_trading.md) systems rely on large amounts of data to make trading decisions in real-time. Therefore, ensuring the accuracy, consistency, and completeness of data is essential to maintain the integrity and performance of [trading algorithms](../t/trading_algorithms.md).
 

@@ -1,4 +1,4 @@
-# 90/10 Strategy in Algorithmic Trading
+# 90/10 Strategy
 
 The 90/10 strategy in [algorithmic trading](../a/algorithmic_trading.md) is a sophisticated approach that aims to optimize the performance of [trading algorithms](../t/trading_algorithms.md) by allocating 90% of the trading strategy's capital to low-risk, high-certainty trades, and 10% to high-risk, high-reward trades. This strategy strikes a balance between steady profits and the potential for high earnings from occasional, higher-risk trades.
 

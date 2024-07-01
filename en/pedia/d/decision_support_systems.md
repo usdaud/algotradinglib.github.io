@@ -1,4 +1,4 @@
-# Decision Support Systems (DSS) in Algorithmic Trading
+# Decision Support Systems (DSS)
 
 Decision Support Systems (DSS) are specialized information systems designed to support business or organizational decision-making activities. In the context of [algorithmic trading](../a/algorithmic_trading.md), DSS integrate data, sophisticated mathematical models, and user-friendly interfaces to help traders, analysts, and managers make data-driven decisions. Below, we delve into the core components, functionalities, and the significance of DSS in the realm of [algorithmic trading](../a/algorithmic_trading.md).
 

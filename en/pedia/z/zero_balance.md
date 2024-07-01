@@ -1,4 +1,4 @@
-# Zero Balance in Algorithmic Trading
+# Zero Balance
 
 ## Introduction
 [Algorithmic trading](../a/algorithmic_trading.md), or algo trading, is the use of computer algorithms to manage trading decisions in financial markets. These algorithms follow pre-defined criteria to execute trades at speeds and frequencies that are impossible for human traders. Zero balance is a phenomenon that remains significant within this context, signifying situations where a trader or institution has no outstanding debits or credits in their trading account. This detailed exposition addresses zero balance's significance, implications, and various strategies employed in the complex world of [algorithmic trading](../a/algorithmic_trading.md).

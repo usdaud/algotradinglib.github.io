@@ -1,4 +1,4 @@
-# The 10-Period Exponential Moving Average (EMA)
+# 10-Period EMA
 
 Exponential Moving Averages (EMAs) are a type of moving average that place a greater weight and significance on the most recent data points. The 10-Period EMA is a specific EMA that evaluates the average of data from the last 10 periods. This type of moving average is widely used in financial markets to assess trends and make trading decisions.
 

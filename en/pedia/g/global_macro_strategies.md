@@ -1,4 +1,4 @@
-## Global Macro Strategies in Trading
+# Global Macro Strategies
 
 Global macro strategies are an investment approach that utilizes broad and diversified economic and political views on a global scale to inform trading decisions. These strategies often encompass various asset classes including currencies, interest rates, commodities, equities, and bonds. By capitalizing on worldwide economic trends and [geopolitical events](../g/geopolitical_events.md), global macro strategies aim to generate substantial returns regardless of overall market direction.
 

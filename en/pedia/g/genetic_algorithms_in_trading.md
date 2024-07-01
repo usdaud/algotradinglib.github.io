@@ -1,4 +1,4 @@
-# Genetic Algorithms in Trading
+# Genetic Algorithms
 
 Genetic algorithms (GAs) are search heuristics that mimic the process of natural selection to generate high-quality solutions for optimization and search problems. Introduced by John Holland in the 1960s and further developed by his students and other researchers, GAs are designed to simulate the evolutionary processes observed in biological systems. These algorithms have gained attention in various fields, including trading, where they are used to develop sophisticated [trading strategies](../t/trading_strategies.md).
 

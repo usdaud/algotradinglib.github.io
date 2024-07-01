@@ -1,4 +1,4 @@
-### Yield Valuation Models in Algorithmic Trading
+# Yield Valuation Models
 
 Yield [valuation models](../v/valuation_models.md) are fundamental analytical tools in the field of finance and investment, particularly in the domain of [algorithmic trading](../a/algorithmic_trading.md). These models are designed to provide a means of assessing the current worth and potential future value of financial instruments, often in the context of bonds, [fixed income securities](../f/fixed_income_securities.md), and other interest-bearing assets. Yield [valuation models](../v/valuation_models.md) help traders and investors to make informed decisions by offering insights into the expected returns on investments, considering both the income generated and the capital appreciation potential.
 

@@ -1,4 +1,4 @@
-## Candlestick Pattern Recognition
+# Candlestick Pattern Recognition
 
 Candlestick [pattern recognition](../p/pattern_recognition.md) is a crucial component of [technical analysis](../t/technical_analysis.md) used in the financial markets to predict future price movements based on historical price data. These patterns are invaluable tools for traders, especially those involved in [algorithmic trading](../a/algorithmic_trading.md) (algo-trading), as they offer a graphical representation of market sentiment and potential price action. Candlestick charts consist of multiple individual ‘candles,’ where each candle represents price movement within a specific time period. The basic elements of a single candlestick include the opening price, closing price, highest price, and lowest price within the selected timeframe.
 

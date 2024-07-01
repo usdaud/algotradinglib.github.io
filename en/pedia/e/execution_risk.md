@@ -1,4 +1,4 @@
-# Execution Risk in Algorithmic Trading
+# Execution Risk
 
 Execution risk is a critical topic in the domain of [algorithmic trading](../a/algorithmic_trading.md), significantly influencing the effectiveness and profitability of [trading strategies](../t/trading_strategies.md). This risk arises from the uncertainties and complexities encountered in the process of executing trades, often leading to deviations from the intended trade outcomes. In the context of [algorithmic trading](../a/algorithmic_trading.md), execution risk manifests through various forms such as slippage, latency, market impact, and order execution failures. Addressing execution risk involves a deep understanding of market dynamics, sophisticated algorithms, and robust execution strategies.
 

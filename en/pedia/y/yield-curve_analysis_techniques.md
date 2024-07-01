@@ -1,5 +1,4 @@
 # Yield-Curve Analysis Techniques
-=================================
 
 In the world of finance, yield curves are crucial graphical representations of the relationship between the interest rates (or yields) of bonds having equal credit quality but differing maturity dates. Yield-curve analysis techniques focus on interpreting these curves to understand market expectations regarding interest rates, economic activity, and potential risk factors. This paper will delve deeply into various techniques used for analyzing yield curves, along with their applications, benefits, and limitations.
 

@@ -1,4 +1,4 @@
-# **Front Month Contracts in Algorithmic Trading**
+# Front Month Contracts
 
 [Algorithmic trading](../a/algorithmic_trading.md), also known as algo trading, uses computer programs and algorithms to execute trades based on predefined criteria. A vital element in this sphere is the understanding and application of forward and [futures contracts](../f/futures_contracts.md), one of which is the front month contract. This document delves into the details of front month contracts and their significance in algo trading.
 

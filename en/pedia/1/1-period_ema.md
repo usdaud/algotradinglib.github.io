@@ -1,4 +1,4 @@
-# 1-Period EMA in Algorithmic Trading
+# 1-Period EMA
 
 ## Introduction
 

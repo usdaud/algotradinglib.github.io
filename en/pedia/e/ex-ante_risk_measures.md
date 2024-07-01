@@ -1,4 +1,4 @@
-# **Ex-Ante Risk Measures in Algorithmic Trading**
+# Ex-Ante Risk Measures
 
 In the field of [algorithmic trading](../a/algorithmic_trading.md), managing risk is essential for protecting assets and ensuring consistent returns. One of the core aspects of [risk management](../r/risk_management.md) is the use of ex-ante risk measures. These measures are predictive tools used to estimate the risk of investment portfolios or [trading strategies](../t/trading_strategies.md) prior to their implementation. Unlike ex-post risk measures, which evaluate risk after the fact, ex-ante measures aim to anticipate potential losses based on historical data and statistical models.
 

@@ -1,4 +1,4 @@
-# Artificial Neural Networks in Algorithmic Trading
+# Artificial Neural Networks
 
 An Artificial Neural Network (ANN) is a computational model inspired by the way biological neural networks in the human brain process information. These networks are a cornerstone of artificial intelligence and are used extensively in various fields, including [algorithmic trading](../a/algorithmic_trading.md), where they help traders make more informed and accurate trading decisions based on large datasets and market conditions.
 

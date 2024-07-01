@@ -1,4 +1,4 @@
-# Buy-Side Analytics in Algorithmic Trading
+# Buy-Side Analytics
 
 Buy-side analytics in the realm of [algorithmic trading](../a/algorithmic_trading.md) refer to the application of data analysis, quantitative techniques, and sophisticated algorithms to assist institutional investors in making informed investment decisions. Buy-side firms include asset managers, hedge funds, pension funds, mutual funds, and insurance companies that purchase securities and assets predominantly for the purpose of generating positive returns for their clients or beneficiaries. Unlike sell-side firms, which include brokers and investment banks that primarily facilitate transactions and provide advisory services to clients, buy-side entities are primarily focused on managing and growing assets under management (AUM) through strategic trading decisions.
 

@@ -1,4 +1,4 @@
-# 7-Day Yield in Algorithmic Trading
+# 7-Day Yield
 
 The 7-day yield is a critical metric often used in the world of finance, specifically in the context of money market funds, to provide investors with a snapshot of the fund's recent performance. It gives an annualized yield based on the fund's performance over the most recent seven days. In this article, we will delve into the intricacies of 7-day yield, its computation, significance, and the role it plays in [algorithmic trading](../a/algorithmic_trading.md). 
 

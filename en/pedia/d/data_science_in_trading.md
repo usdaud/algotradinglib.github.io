@@ -1,4 +1,4 @@
-# Data Science in Trading
+# Data Science
 
 ## Introduction to Data Science in Trading
 

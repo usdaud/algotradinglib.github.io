@@ -1,4 +1,4 @@
-## X-Factor in Algorithmic Trading
+# X-Factor
 
 [Algorithmic trading](../a/algorithmic_trading.md), often referred to as algo trading, is the use of computer algorithms to execute trades at high speeds and with minimal human intervention. These algorithms are programmed to follow a set of rules or strategies, analyzing market data and executing trades based on predefined criteria. Algo trading has become increasingly popular in modern financial markets due to its potential to increase efficiency, reduce costs, and enhance [trading performance](../t/trading_performance.md).
 

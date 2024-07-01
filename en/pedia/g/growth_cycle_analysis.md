@@ -1,4 +1,4 @@
-# Growth Cycle Analysis in Algorithmic Trading
+# Growth Cycle Analysis
 
 Growth [Cycle Analysis](../c/cycle_analysis.md) is a crucial aspect of financial markets, especially when it comes to [algorithmic trading](../a/algorithmic_trading.md). The concept revolves around identifying and analyzing the various phases of economic growth cycles to interpret their impacts on financial markets and optimize [trading strategies](../t/trading_strategies.md) accordingly.
 

@@ -1,4 +1,4 @@
-## Break-even Analysis in Algorithmic Trading
+# Break-even Analysis
 
 Break-even analysis is a crucial aspect of any trading strategy, including [algorithmic trading](../a/algorithmic_trading.md). It involves determining the point at which the strategy neither makes a profit nor incurs a loss. In essence, it is the calculation of the break-even point (BEP), a critical metric for traders aiming to evaluate the viability and profitability of their [trading algorithms](../t/trading_algorithms.md).
 

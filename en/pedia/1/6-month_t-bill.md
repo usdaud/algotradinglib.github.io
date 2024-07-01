@@ -1,4 +1,4 @@
-# 6-Month Treasury Bill (T-Bill)
+# 6-Month T-Bill
 
 A [6-Month Treasury Bill](../1/6-month_treasury_bill.md) (T-Bill) is a short-term debt obligation issued by the United States Department of the Treasury. These instruments are considered one of the safest investments because they are backed by the full faith and credit of the U.S. government. T-Bills are sold at a discount to their face value and do not pay interest in the traditional sense. Instead, the investor receives the face value at maturity, and the difference between the purchase price and the face value constitutes the interest earned.
 

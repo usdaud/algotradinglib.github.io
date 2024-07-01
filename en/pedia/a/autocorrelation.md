@@ -1,4 +1,4 @@
-# Autocorrelation in Algorithmic Trading
+# Autocorrelation
 
 Autocorrelation, also known as serial correlation, refers to the correlation of a time series with its own past and future values. In the context of [algorithmic trading](../a/algorithmic_trading.md), autocorrelation is a crucial concept as it can reveal patterns and structures in the time series data, such as stock prices or trading volumes. Understanding autocorrelation can lead to more effective [trading strategies](../t/trading_strategies.md), as it may help in predicting future market behavior based on historical data.
 

@@ -1,4 +1,4 @@
-# Z-Test in Trading
+# Z-Test
 
 ## Introduction
 

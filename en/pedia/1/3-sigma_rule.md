@@ -1,4 +1,6 @@
-# The 3-Sigma Rule, also commonly known as the empirical rule, is a statistical concept that is fundamental in the realm of quality control, process management, and, significantly, in algorithmic trading. The rule states that for a normal distribution, almost all data will fall within three standard deviations (σ) of the mean (µ). Specifically, it posits that:
+# 3-Sigma Rule
+
+The 3-Sigma Rule, also commonly known as the empirical rule, is a statistical concept that is fundamental in the realm of quality control, process management, and, significantly, in algorithmic trading. The rule states that for a normal distribution, almost all data will fall within three standard deviations (σ) of the mean (µ). Specifically, it posits that:
 
 - About 68% of data points lie within one standard deviation from the mean.
 - Approximately 95% of data points lie within two standard deviations from the mean.

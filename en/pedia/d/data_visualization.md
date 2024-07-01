@@ -1,4 +1,4 @@
-# Data Visualization in Algorithmic Trading
+# Data Visualization
 
 Data visualization plays a crucial role in [algorithmic trading](../a/algorithmic_trading.md). It helps traders and analysts to easily interpret complex data and make informed decisions. Effective visualization techniques convert raw numerical data into meaningful graphical formats, enabling better understanding and prediction of market trends. This document will explore various aspects of data visualization in the context of [algorithmic trading](../a/algorithmic_trading.md), including its benefits, methods, tools, and best practices.
 

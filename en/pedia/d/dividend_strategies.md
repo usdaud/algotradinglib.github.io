@@ -1,4 +1,4 @@
-### Dividend Strategies in Algorithmic Trading
+# Dividend Strategies
 
 Dividend strategies are a class of investment strategies that focus on stocks or other financial instruments that pay dividends. Dividends are a portion of a company's earnings that are paid out to shareholders, typically on a regular basis, such as quarterly or annually. Dividend strategies leverage these payments to generate a return on investment and can be especially appealing in low-interest-rate environments or for investors seeking a steady income stream.
 

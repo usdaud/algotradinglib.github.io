@@ -1,4 +1,4 @@
-# Factor Analysis in Algorithmic Trading
+# Factor Analysis
 
 Factor analysis is a statistical method used in [quantitative finance](../q/quantitative_finance.md) and [algorithmic trading](../a/algorithmic_trading.md) to understand the underpinnings of complex financial datasets. Primarily, it aims to identify underlying factors or variables that influence the observed data. This approach is essential for constructing predictive models, optimizing portfolios, and developing [trading strategies](../t/trading_strategies.md). The application of factor analysis can be categorized into several key areas: identifying principal components, understanding market dynamics, and enhancing [trading algorithms](../t/trading_algorithms.md).
 

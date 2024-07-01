@@ -1,4 +1,4 @@
-## Yield Valuation in Algorithmic Trading
+# Yield Valuation
 
 Yield valuation is a critical concept in the realm of finance, particularly in [algorithmic trading](../a/algorithmic_trading.md). In its most basic form, it is the process of using historical and forecasted yield data to determine the potential earning power of an investment. Yield valuation encompasses a variety of techniques, algorithms, and considerations that help traders assess the risk and return profiles of various financial instruments, including bonds, stocks, and other [derivatives](../d/derivatives.md). This detailed examination of yield valuation covers key concepts, methodologies, and the practical applications of these techniques in [algorithmic trading](../a/algorithmic_trading.md).
 

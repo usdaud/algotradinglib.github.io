@@ -1,4 +1,4 @@
-## 3X Leveraged ETFs
+# 3X Leveraged ETFs
 
 ### Introduction
 A 3X leveraged exchange-traded fund (ETF) aims to amplify the returns of its benchmark index by three times each day. These financial instruments are designed to deliver triple the daily performance, whether positive or negative, of the index or asset they are tracking. Leveraged 3X ETFs are particularly popular among traders who seek high-risk, high-reward strategies over short time horizons.

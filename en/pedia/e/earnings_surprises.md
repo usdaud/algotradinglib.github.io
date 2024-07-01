@@ -1,4 +1,4 @@
-# Earnings Surprises in Algorithmic Trading
+# Earnings Surprises
 
 Earnings surprises refer to instances where a company's reported earnings differ significantly—positively or negatively—from analyst expectations. These discrepancies can greatly affect a stock’s price, creating opportunities and risks for traders. Because earnings surprises can trigger rapid and substantial shifts in market perceptions, they are a critical metric for [algorithmic trading](../a/algorithmic_trading.md) strategies. Below is a detailed guide on the subject, covering various aspects and considerations of earnings surprises in the context of [algorithmic trading](../a/algorithmic_trading.md).
 

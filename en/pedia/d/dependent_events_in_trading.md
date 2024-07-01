@@ -1,4 +1,4 @@
-## Dependent Events in Trading
+# Dependent Events
 
 In trading, the concept of dependent events is pivotal, especially when developing strategies for [algorithmic trading](../a/algorithmic_trading.md) (algo trading). Dependent events are those events where the occurrence or outcome of the first event influences the probability of the second event happening. Understanding the correlation and causation between these events is critical for creating robust [trading algorithms](../t/trading_algorithms.md). This documentation will explore the relevance of dependent events in trading, how to identify and utilize them, different methods and models employed, and real-world applications in the realm of algo trading.
 

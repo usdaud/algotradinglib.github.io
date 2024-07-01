@@ -1,4 +1,4 @@
-## Yield-Curve Hedging
+# Yield-Curve Hedging
 
 Yield-curve hedging is a sophisticated financial strategy used primarily in the bond market to manage risks associated with changes in interest rates. It typically involves the use of various financial instruments and [derivatives](../d/derivatives.md) with the goal of mitigating the potential adverse effects on a portfolio stemming from fluctuations in the [yield curve](../y/yield_curve.md). In essence, it aims to hedge against interest rate risk, which can significantly impact the value of fixed-income securities.
 

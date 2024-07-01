@@ -1,4 +1,4 @@
-## Crypto Mining and Trading
+# Crypto Mining and Trading
 
 ### Introduction
 

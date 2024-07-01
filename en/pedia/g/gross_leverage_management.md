@@ -1,4 +1,4 @@
-# **Gross Leverage Management in Algorithmic Trading**
+# Gross Leverage Management
 
 Gross leverage is a crucial concept in [algorithmic trading](../a/algorithmic_trading.md) that significantly influences trading outcomes, [risk management](../r/risk_management.md), and overall strategy efficiency. Gross leverage refers to the total amount of exposure an investor has in the market through both long and short positions, divided by the investor’s equity. Understanding and managing gross leverage is essential for maintaining a balanced portfolio, maximizing returns, and mitigating risks. This document will delve into gross leverage management, exploring its importance, methods, benefits, and challenges pertinent to [algorithmic trading](../a/algorithmic_trading.md).
 

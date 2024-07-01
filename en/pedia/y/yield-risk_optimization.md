@@ -1,4 +1,4 @@
-# Yield-Risk Optimization in Algorithmic Trading
+# Yield-Risk Optimization
 
 Yield-Risk Optimization (YRO) in [algorithmic trading](../a/algorithmic_trading.md) is a sophisticated process of balancing the anticipated returns (yield) from [trading strategies](../t/trading_strategies.md) with their associated risks. This balance aims to maximize returns for a given level of risk, or equivalently, minimize risk for a given level of returns. It involves a combination of statistical analysis, financial theories, and algorithmic techniques. This topic is critical in the field of [quantitative finance](../q/quantitative_finance.md) and [algorithmic trading](../a/algorithmic_trading.md), where automated systems execute trades based on pre-defined criteria.
 

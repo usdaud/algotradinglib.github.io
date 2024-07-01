@@ -1,4 +1,4 @@
-# **Yield to Call (YTC)**
+# Yield to Call
 
 Yield to Call (YTC) is a crucial financial metric used to determine the yield of a callable bond from the present time until the call date, assuming the bond is called before it matures. Callable bonds are those bonds that can be redeemed by the issuer prior to their maturity date, usually at a premium price.
 

@@ -1,4 +1,4 @@
-# Dynamic Statistical Models in Algorithmic Trading
+# Dynamic Statistical Models
 
 Dynamic Statistical Models are a cornerstone of modern [algorithmic trading](../a/algorithmic_trading.md). These models are designed to adapt to changing market conditions in real time, providing traders with a powerful tool to exploit fleeting opportunities in the financial markets. Let's delve into a comprehensive examination of dynamic statistical models and their application in [algorithmic trading](../a/algorithmic_trading.md).
 

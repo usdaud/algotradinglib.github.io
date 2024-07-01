@@ -1,4 +1,4 @@
-# **Global Risk Management in Algorithmic Trading**
+# Global Risk Management
 
 [Algorithmic trading](../a/algorithmic_trading.md), commonly referred to as algo trading, is the process of executing trades in financial markets using automated, predefined criteria based on mathematical models and algorithms. While this trading method has numerous advantages, including speed, reduced human error, and the ability to handle large volumes of transactions, it also comes with its unique set of risks. Global [risk management](../r/risk_management.md) is a crucial aspect of algo trading, as it encompasses identifying, analyzing, and mitigating potential risks that can have adverse effects on the performance of [trading strategies](../t/trading_strategies.md). This document explores the key components of global [risk management](../r/risk_management.md) in [algorithmic trading](../a/algorithmic_trading.md), focusing on risk types, strategies for managing those risks, technological infrastructure, regulatory compliance, and case studies from prominent financial institutions.
 

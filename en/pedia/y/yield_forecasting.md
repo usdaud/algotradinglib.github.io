@@ -1,4 +1,4 @@
-# Yield Forecasting in Algorithmic Trading
+# Yield Forecasting
 
 Yield forecasting is a critical aspect of [algorithmic trading](../a/algorithmic_trading.md), offering predictions on the expected returns from financial instruments such as stocks, bonds, commodities, and other investment vehicles. This advanced technique leverages a mix of statistical methodologies, machine learning algorithms, and financial theories to generate forecasts aiming to maximize returns and minimize risks.
 

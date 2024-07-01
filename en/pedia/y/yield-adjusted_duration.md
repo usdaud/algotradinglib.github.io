@@ -1,4 +1,4 @@
-# Yield-Adjusted Duration in Algorithmic Trading
+# Yield-Adjusted Duration
 
 Yield-Adjusted Duration is a crucial concept in the field of [fixed income securities](../f/fixed_income_securities.md), particularly for those engaged in [algorithmic trading](../a/algorithmic_trading.md). It provides an advanced measure of the sensitivity of a bond's price to shifts in interest rates, offering a more nuanced version of traditional duration metrics like Macaulay Duration or Modified Duration. It is indispensable for portfolio managers, risk assessors, and traders who need precise information about how interest rate changes will impact bond prices.
 

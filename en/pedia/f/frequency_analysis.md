@@ -1,4 +1,4 @@
-# Frequency Analysis in Algorithmic Trading
+# Frequency Analysis
 
 Frequency analysis is a pivotal concept in [algorithmic trading](../a/algorithmic_trading.md), which involves the study of the frequency at which specific [trading signals](../t/trading_signals.md) or patterns occur within a dataset and how often different timeframes offer profitable trading opportunities. This analysis can provide insights into the timing and efficacy of [trading strategies](../t/trading_strategies.md) by examining historical data with varying granularities, ranging from high-frequency microsecond data to longer-term daily, weekly, or even monthly data.
 

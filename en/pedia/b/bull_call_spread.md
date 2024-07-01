@@ -1,4 +1,4 @@
-### Bull Call Spread
+# Bull Call Spread
 
 A Bull Call Spread is a popular options trading strategy utilized in the stock market to profit from a moderate rise in the price of the underlying asset. This spread involves buying call options at a specific strike price while simultaneously selling the same number of call options at a higher strike price. The strategy is typically employed when an investor is moderately bullish on the underlying asset and seeks to limit risk while attempting to make a profit.
 

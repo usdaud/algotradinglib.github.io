@@ -1,4 +1,4 @@
-# Z-Score Models in Algorithmic Trading
+# Z-Score Models
 
 Z-score models are statistical measures used extensively in [algorithmic trading](../a/algorithmic_trading.md) to identify potential trading opportunities by quantifying the deviation of a market variable from its mean. The z-score is calculated by taking the difference between a data point and the mean of a data set, and then dividing that difference by the standard deviation of the data set. In the context of financial markets, z-scores can be applied to price data, returns, or other financial metrics to help traders make informed decisions.
 

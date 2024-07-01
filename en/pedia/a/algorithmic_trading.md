@@ -1,4 +1,4 @@
-# Algorithmic trading
+# Algorithmic Trading
 
 Algorithmic trading, also known as "algo trading" or "black-box trading," refers to the use of computer algorithms to automate trading decisions and execute orders in financial markets. These algorithms are typically based on complex mathematical models and can analyze large datasets far more quickly than a human trader. The primary goal of algorithmic trading is to ensure the best possible outcomes in terms of price, speed, and efficiency. Algorithmic trading has become a significant part of modern financial markets, and a number of companies specialize in providing algorithmic trading services and technologies.
 

@@ -1,4 +1,4 @@
-### Arbitrage Funds
+# Arbitrage Funds
 
 [Arbitrage](../a/arbitrage.md) funds are a type of mutual fund that seek to exploit price inefficiencies between markets or securities. These funds typically engage in simultaneous purchasing and selling of similar assets across different markets or platforms to capitalize on price variations. [Arbitrage](../a/arbitrage.md) strategies aim to generate risk-free profits by leveraging discrepancies in asset prices, interest rates, or currency exchange rates. Here, we will delve into the intricacies of [arbitrage](../a/arbitrage.md) funds, different [arbitrage](../a/arbitrage.md) strategies, their advantages, risks, and their role in a diversified investment portfolio.
 

@@ -1,4 +1,4 @@
-## Deterministic Models in Trading
+# Deterministic Models
 
 Deterministic models, a crucial subset of [quantitative finance](../q/quantitative_finance.md), are mathematical frameworks where outcomes are precisely determined through known relationships among states and events, without any room for random variation. In trading, these models are deployed to predict market movements and make investment decisions based on historical data and pre-defined rules. This comprehensive overview delves into the foundations, applications, and implications of deterministic models in trading.
 

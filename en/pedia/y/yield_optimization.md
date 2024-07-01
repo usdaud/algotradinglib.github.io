@@ -1,4 +1,4 @@
-# Yield Optimization in Algorithmic Trading
+# Yield Optimization
 
 Yield optimization in the context of [algorithmic trading](../a/algorithmic_trading.md) refers to the strategic process of maximizing returns on investment while minimizing risks and costs through the use of sophisticated algorithms. This approach leverages [quantitative models](../q/quantitative_models.md), statistical analysis, and computer-aided systems to make trading decisions, execute trades, and manage portfolios.
 

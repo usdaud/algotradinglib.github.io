@@ -1,4 +1,4 @@
-## Yield-Driven Investment
+# Yield-Driven Investment
 
 Yield-driven investment, often referred to as yield hunting, revolves around the strategy of seeking out investments that deliver higher yields, which primarily means higher returns on investment (ROI) relative to other investment opportunities. This approach is predominantly adopted in the context of investing in income-generating assets, such as bonds, dividend-paying stocks, and real estate investment trusts (REITs). The yield-driven investment strategy is a popular one among institutional investors, wealth managers, and private investors looking to enhance their income, particularly in a low-interest-rate environment.
 

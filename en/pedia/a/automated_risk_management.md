@@ -1,4 +1,4 @@
-# Automated Risk Management in Algorithmic Trading
+# Automated Risk Management
 
 Automated [risk management](../r/risk_management.md) is a crucial aspect of [algorithmic trading](../a/algorithmic_trading.md), aimed at minimizing financial losses by managing exposure to various types of risks. This comprehensive overview will cover key concepts, methodologies, tools, and real-world applications of automated [risk management](../r/risk_management.md) in the financial markets.
 

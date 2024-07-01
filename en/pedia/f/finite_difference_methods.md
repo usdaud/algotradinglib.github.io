@@ -1,4 +1,6 @@
-# Finite difference methods (FDM) are numerical techniques used to solve differential equations by approximating derivatives with finite differences. These methods are particularly essential in the field of algorithmic trading for modeling and solving complex financial instruments, such as options pricing, risk management, and other financial derivatives. The core principle behind FDM is to approximate the continuous problem with a discrete version, which can be solved using computational algorithms. This document delves into the fundamentals, variants, applications, and real-world implications of finite difference methods in the context of algorithmic trading.
+# Finite Difference Methods
+
+Finite difference methods (FDM) are numerical techniques used to solve differential equations by approximating derivatives with finite differences. These methods are particularly essential in the field of algorithmic trading for modeling and solving complex financial instruments, such as options pricing, risk management, and other financial derivatives. The core principle behind FDM is to approximate the continuous problem with a discrete version, which can be solved using computational algorithms. This document delves into the fundamentals, variants, applications, and real-world implications of finite difference methods in the context of algorithmic trading.
 
 ## Fundamentals of Finite Difference Methods
 

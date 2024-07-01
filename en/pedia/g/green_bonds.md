@@ -1,4 +1,4 @@
-# Green Bonds: Financing Sustainable Investments through Algorithmic Trading
+# Green Bonds
 
 Green bonds are a type of fixed-income instrument specifically earmarked to raise money for climate and environmental projects. These bonds are an essential financial tool in the fight against global warming and the promotion of sustainability. A green bond is similar to a traditional bond in terms of its structure, risk, and returns, but the significant difference lies in its purpose: the funds raised by green bonds are exclusively dedicated to projects with positive environmental impacts. 
 

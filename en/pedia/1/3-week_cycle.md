@@ -1,4 +1,4 @@
-# 3-Week Cycle in Algorithmic Trading
+# 3-Week Cycle
 
 [Algorithmic trading](../a/algorithmic_trading.md), often referred to as "algo trading," involves the use of computer algorithms to automate trading decisions and execute orders in financial markets. One of the concepts that traders may come across is the "3-Week Cycle." This term refers to a pattern or rhythmic fluctuation in market prices or trading activities occurring over a span of three weeks. In this detailed document, we’ll explore the theoretical basis, practical applications, and potential advantages and challenges associated with the 3-Week Cycle in [algorithmic trading](../a/algorithmic_trading.md).
 

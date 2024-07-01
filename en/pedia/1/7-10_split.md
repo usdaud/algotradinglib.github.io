@@ -1,4 +1,4 @@
-## 7-10 Split in Algorithmic Trading
+# 7-10 Split
 
 ### Definition
 

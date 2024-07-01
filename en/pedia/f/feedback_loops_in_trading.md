@@ -1,4 +1,4 @@
-# Feedback Loops in Trading
+# Feedback Loops
 
 In the domain of [algorithmic trading](../a/algorithmic_trading.md), feedback loops are a fundamental concept integral to system performance, optimization, and [risk management](../r/risk_management.md). Feedback loops are mechanisms where outputs of a system are circled back as inputs, significantly influencing the mode and efficiency of the algorithm.
 

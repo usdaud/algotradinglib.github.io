@@ -1,4 +1,4 @@
-# 4-Hour Chart in Algorithmic Trading
+# 4-Hour Chart
 
 In the world of [algorithmic trading](../a/algorithmic_trading.md), one key concept that traders rely on is the 4-hour chart. This type of chart is a crucial tool for monitoring and predicting market trends over intervals of four-hour periods. It serves to blend the flexibility and data granularity required to make informed trading decisions without overloading the trader with noise, unlike shorter time-frame charts such as the 1-minute or 5-minute charts. In this detailed exposition, we will explore the significance of the 4-hour chart, its applications, analysis techniques, comparison with other intervals, integration with [trading strategies](../t/trading_strategies.md), and key considerations.
 

@@ -1,4 +1,4 @@
-### 3-Line Break Chart
+# 3-Line Break Chart
 
 A 3-line break chart, also known as a Three-Line Break chart, is a type of price chart used in [technical analysis](../t/technical_analysis.md) and algo trading that helps traders to understand market trends and potential reversals without being influenced by smaller market fluctuations or noise. It is named "3-line break" because it requires a reversal that breaks the previous three lines to validate a new trend direction. This charting method is distinct from other common chart types, such as candlestick or bar charts, in that it emphasizes price action over a longer horizon, smoothing out minor fluctuations and focusing on significant price shifts.
 

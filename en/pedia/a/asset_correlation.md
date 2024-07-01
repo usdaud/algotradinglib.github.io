@@ -1,4 +1,4 @@
-# Asset Correlation in Algorithmic Trading
+# Asset Correlation
 
 Asset correlation refers to a statistical measure that quantifies the degree to which two securities move in relation to each other. It is a crucial concept in the realm of [algorithmic trading](../a/algorithmic_trading.md), where the aim is to leverage computational models and data-driven strategies to predict and capitalize on market movements. Asset correlation plays a vital role in [portfolio management](../p/portfolio_management.md), risk assessment, and the development of sophisticated [trading algorithms](../t/trading_algorithms.md).
 

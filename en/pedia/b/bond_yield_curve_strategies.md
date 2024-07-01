@@ -1,4 +1,4 @@
-## Bond Yield Curve Strategies
+# Bond Yield Curve Strategies
 
 Bond [yield curve](../y/yield_curve.md) strategies represent a sophisticated approach within the realm of bond and fixed income trading, predominantly utilized in the context of [algorithmic trading](../a/algorithmic_trading.md) to optimize returns relative to risk. The [yield curve](../y/yield_curve.md) itself is a graphical representation that plots the interest rates of bonds (of the same credit quality) against their maturity dates. There are several fundamental [yield curve](../y/yield_curve.md) shapes: normal (upward sloping), inverted (downward sloping), and flat. Each of these configurations reflects investor sentiments about future economic conditions and interest rate movements. Consequently, [yield curve](../y/yield_curve.md) strategies revolve around exploiting these movements to generate alpha.
 
