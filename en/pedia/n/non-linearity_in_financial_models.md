@@ -1,4 +1,4 @@
-Non-Linearity in Financial Models
+# Non-Linearity in Financial Models
 
 Non-linearity in financial models refers to the manner in which outputs in financial systems are not directly proportional to the inputs. Unlike linear models, where the relationship between variables is a straight line, non-linear models often capture more complex relationships between variables. These models are particularly crucial in financial markets characterized by greater volatility, complex dependency structures, and where linear models may fail to capture the nuances of market behavior.
 

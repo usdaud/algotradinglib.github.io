@@ -1,3 +1,5 @@
+# Intraday Liquidity
+
 Intraday liquidity is the availability of funds to meet financial obligations within the same business day. It is a critical aspect of the financial system, particularly for the smooth functioning of payment and settlement systems, as well as for the operational efficiency of banks and other financial institutions. Effective management of intraday liquidity ensures that institutions can make payments in real time, meet regulatory requirements, and manage risks associated with large-value transactions.
 
 ### Understanding Intraday Liquidity
