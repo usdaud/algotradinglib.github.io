@@ -26,11 +26,12 @@ module Jekyll
                    .map { |letter| [letter.downcase, count_posts(site, lang, section, letter)] }
                    .sort.to_h
 
+      Jekyll.logger.info "LetterPageGenerator:", "Letters and counts: #{letters}"
+
       letters.each do |letter, count|
         Jekyll.logger.info "LetterPageGenerator:", "Creating page for #{lang}/#{section}/#{letter} with #{count} posts"
         site.pages << LetterPage.new(site, site.source, lang, section, letter)
-        
-        # Process individual Markdown files
+    
         Dir.glob(File.join(section_path, letter, '*.md')).each do |file|
           Jekyll.logger.info "LetterPageGenerator:", "Processing file: #{file}"
           process_markdown_file(site, file)
@@ -65,12 +66,18 @@ module Jekyll
     def count_posts(site, lang, section, letter)
       count = site.pages.count do |page|
         page_path = page.path.split('/')
-        page_path.size >= 4 && 
-        page_path[0] == lang && 
-        page_path[1] == section && 
-        page_path[2].downcase.start_with?(letter.downcase) && 
-        page.path.end_with?('.md') && 
-        page.name != 'index.md'
+        match = page_path.size >= 4 && 
+               page_path[0] == lang && 
+               page_path[1] == section && 
+               page_path[2].downcase.start_with?(letter.downcase) && 
+               page.path.end_with?('.md') && 
+               page.name != 'index.md'
+    
+        if match
+          Jekyll.logger.info "LetterPageGenerator:", "Matched post: #{page.path}"
+        end
+    
+        match
       end
       Jekyll.logger.info "LetterPageGenerator:", "Counting posts for #{lang}/#{section}/#{letter}: #{count}"
       count
