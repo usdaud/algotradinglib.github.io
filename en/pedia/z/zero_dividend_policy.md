@@ -19,8 +19,8 @@ There can be several strategic reasons for a company to adopt a zero dividend po
 3. **Building Reserves:**
    - A robust financial reserve can act as a buffer against economic downturns or unexpected expenses. Companies might retain earnings to build a war chest for future contingencies.
 
-4. **Share Buybacks:**
-   - Instead of paying dividends, companies might opt for share buybacks. This can increase the value of remaining shares by reducing the overall number of shares outstanding, which can be favorable for remaining shareholders.
+4. **[Share Buybacks](../s/share_buybacks.md):**
+   - Instead of paying dividends, companies might opt for [share buybacks](../s/share_buybacks.md). This can increase the value of remaining shares by reducing the overall number of shares outstanding, which can be favorable for remaining shareholders.
 
 5. **Tax Considerations:**
    - In some jurisdictions, retained earnings are subject to lower taxes compared to distributed dividends, providing a financial incentive for companies to adopt a zero dividend policy.

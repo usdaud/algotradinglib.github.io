@@ -8,7 +8,7 @@ Fundamental Analysis (FA) is a method of evaluating a security by attempting to 
 Economic analysis involves studying the broader economic environment in which a company operates. This includes reviewing macroeconomic indicators such as Gross Domestic Product (GDP), interest rates, inflation rates, unemployment rates, and fiscal policies.
 
 ### 2. Industry Analysis
-Industry analysis focuses on understanding the dynamics and competitive structure of the industry in which the company operates. Porter’s Five Forces model is commonly used for this purpose, examining the following factors:
+[Industry analysis](../i/industry_analysis.md) focuses on understanding the dynamics and competitive structure of the industry in which the company operates. Porter’s Five Forces model is commonly used for this purpose, examining the following factors:
 - Threat of new entrants
 - Threat of substitutes
 - Bargaining power of buyers
@@ -24,7 +24,7 @@ Company analysis dives into a firm’s financial statements and other pertinent 
 - **Cash Flow Statement**: Shows the flows of cash into and out of the business over a period.
 
 #### Ratios:
-- **Liquidity Ratios**: Assess the company’s ability to meet its short-term obligations (e.g., Current Ratio, Quick Ratio).
+- **[Liquidity Ratios](../l/liquidity_ratios.md)**: Assess the company’s ability to meet its short-term obligations (e.g., Current Ratio, Quick Ratio).
 - **Profitability Ratios**: Gauge how well the company uses its resources to generate profit (e.g., Return on Assets, Return on Equity).
 - **Debt Ratios**: Examine the company’s leverage and its ability to meet long-term obligations (e.g., Debt to Equity Ratio, Interest Coverage Ratio).
 - **Efficiency Ratios**: Indicate how well the company utilizes its resources (e.g., Inventory Turnover, Accounts Receivable Turnover).
@@ -35,7 +35,7 @@ Company analysis dives into a firm’s financial statements and other pertinent 
 - **Market Position**: Determining the company’s market share and competitive advantage.
 
 ### 4. Valuation Models
-Valuation models are used to estimate the intrinsic value of a company. Common models include:
+[Valuation models](../v/valuation_models.md) are used to estimate the intrinsic value of a company. Common models include:
 
 #### Discounted Cash Flow (DCF) Analysis:
 The DCF model estimates the value of an investment based on its expected future cash flows, which are discounted back to their present value.
@@ -50,7 +50,7 @@ The P/B ratio compares a company’s market value to its book value (net assets)
 The DDM values a company based on the theory that its worth is the present value of all its future dividends.
 
 ## Applications and Limitations of Fundamental Analysis
-Fundamental analysis can be applied to various types of investments, including stocks, bonds, and other securities. However, it has its limitations. It often requires significant time and expertise to conduct a thorough analysis. For optimal results, it is typically used alongside other forms of analysis, such as technical analysis.
+Fundamental analysis can be applied to various types of investments, including stocks, bonds, and other securities. However, it has its limitations. It often requires significant time and expertise to conduct a thorough analysis. For optimal results, it is typically used alongside other forms of analysis, such as [technical analysis](../t/technical_analysis.md).
 
 ### Application in Stocks
 Fundamental analysis is frequently used to determine if a stock is overvalued or undervalued by comparing its intrinsic value to its current market price. Investors might build a long position if the stock trades below its intrinsic value or a short position if it trades above its intrinsic value.
@@ -82,4 +82,4 @@ S&P Global offers a comprehensive set of tools for fundamental analysis, includi
 [Learn more about S&P Global](https://www.spglobal.com)
 
 ## Conclusion
-Fundamental analysis is a vital tool for investors aiming to understand the intrinsic value of a security. By examining economic indicators, industry conditions, and company-specific financial data, investors can make informed decisions about their investments. Though it has its challenges and limitations, when combined with other methods, fundamental analysis can provide a robust framework for investment decision-making.
+Fundamental analysis is a vital tool for investors aiming to understand the intrinsic value of a security. By examining [economic indicators](../e/economic_indicators.md), industry conditions, and company-specific financial data, investors can make informed decisions about their investments. Though it has its challenges and limitations, when combined with other methods, fundamental analysis can provide a robust framework for investment decision-making.

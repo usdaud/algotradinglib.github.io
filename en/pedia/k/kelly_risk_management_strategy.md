@@ -1,14 +1,14 @@
 # Kelly Risk Management Strategy
 
-The Kelly Risk Management Strategy, commonly referred to simply as the Kelly Criterion, is a mathematical formula used to determine the optimal size of a series of bets or investments in order to maximize logarithmic wealth over time. It was developed by John L. Kelly Jr., a scientist who worked at AT&T's Bell Labs, and it has since garnered considerable attention and adoption, especially in the realms of investing and gambling.
+The Kelly [Risk Management](../r/risk_management.md) Strategy, commonly referred to simply as the [Kelly Criterion](../k/kelly_criterion.md), is a mathematical formula used to determine the optimal size of a series of bets or investments in order to maximize logarithmic wealth over time. It was developed by John L. Kelly Jr., a scientist who worked at AT&T's Bell Labs, and it has since garnered considerable attention and adoption, especially in the realms of investing and gambling.
 
 ## Origin and Background
 
-The Kelly Criterion was originally outlined by John L. Kelly Jr. in his 1956 paper "A New Interpretation of Information Rate." Kelly's work built upon Claude Shannon's Information Theory and sought to maximize the rate of return on capital investment by determining the optimal proportion of wealth to allocate in each bet or investment.
+The [Kelly Criterion](../k/kelly_criterion.md) was originally outlined by John L. Kelly Jr. in his 1956 paper "A New Interpretation of Information Rate." Kelly's work built upon Claude Shannon's Information Theory and sought to maximize the rate of return on capital investment by determining the optimal proportion of wealth to allocate in each bet or investment.
 
 ## Formula
 
-The Kelly Criterion formula can be expressed as:
+The [Kelly Criterion](../k/kelly_criterion.md) formula can be expressed as:
 
 \[ f^* = \frac{bp - q}{b} \]
 
@@ -22,11 +22,11 @@ Consider a simple coin toss scenario where the probability of winning (heads) is
 
 \[ f^* = \frac{(1*0.5) - (1-0.5)}{1} = 0 \]
 
-In this case, the Kelly Criterion suggests not betting at all, which is consistent with the expected value being zero.
+In this case, the [Kelly Criterion](../k/kelly_criterion.md) suggests not betting at all, which is consistent with the expected value being zero.
 
 ## Implementation in Trading
 
-In trading and investment, the Kelly Criterion is used to manage portfolio positions and balance risk versus reward by suggesting a position size that maximizes the logarithm of wealth over the long term. Here's a step-by-step procedure typically followed:
+In trading and investment, the [Kelly Criterion](../k/kelly_criterion.md) is used to manage portfolio positions and balance risk versus reward by suggesting a position size that maximizes the logarithm of wealth over the long term. Here's a step-by-step procedure typically followed:
 
 1. **Determine the Edge ( \[ E \] )**: The expected profit from an investment or trade, which is calculated as:
 \[ E = (O*P) - (1-P) \]
@@ -40,7 +40,7 @@ where \( O \) stands for odds of the trade, \( P \) stands for probability of wi
 
 ### Benefits
 
-- **Maximizes Capital Growth**: Over the long term, the Kelly Criterion maximizes the growth rate of the capital.
+- **Maximizes Capital Growth**: Over the long term, the [Kelly Criterion](../k/kelly_criterion.md) maximizes the growth rate of the capital.
 - **Reduces Risk of Ruin**: By adjusting the bet size according to the probability of success, the formula helps to manage the risk of substantial losses.
 
 ### Criticisms
@@ -58,34 +58,34 @@ Suppose you have a trading strategy with a 60% chance of winning ( \( P = 0.6 \)
 2. **Calculate Kelly Fraction**:
 \[ f = \frac{E}{Odds} = \frac{0.8}{2} = 0.4 \]
 
-Therefore, according to the Kelly Criterion, you should allocate 40% of your capital to this trading strategy. However, to account for volatility, you might use half-Kelly, which would recommend a 20% allocation.
+Therefore, according to the [Kelly Criterion](../k/kelly_criterion.md), you should allocate 40% of your capital to this trading strategy. However, to account for volatility, you might use half-Kelly, which would recommend a 20% allocation.
 
 ## Applications in Financial Markets
 
 ### Stock Trading
 
-Traders use the Kelly Criterion to determine position sizing in stock trading. For instance, if a trader identifies a stock with a high probability of upward movement based on historical data and other analyses, Kelly can help decide the fraction of the portfolio to invest in that stock.
+Traders use the [Kelly Criterion](../k/kelly_criterion.md) to determine [position sizing](../p/position_sizing.md) in stock trading. For instance, if a trader identifies a stock with a high probability of upward movement based on historical data and other analyses, Kelly can help decide the fraction of the portfolio to invest in that stock.
 
 ### Options Trading
 
-In options trading, where leverage plays a significant role, the Kelly Criterion offers a structured way to manage the leveraged risk. Traders need to correctly estimate the probabilities and potential payoffs for different strike prices and expiration dates.
+In options trading, where leverage plays a significant role, the [Kelly Criterion](../k/kelly_criterion.md) offers a structured way to manage the leveraged risk. Traders need to correctly estimate the probabilities and potential payoffs for different strike prices and expiration dates.
 
 ### Forex Trading
 
-The Kelly Criterion can be adapted to Forex trading by evaluating the win rates and payout ratios of currency pairs. Since Forex traders often engage in high-frequency trading, managing leverage and risk through Kelly ensures sustained capital growth.
+The [Kelly Criterion](../k/kelly_criterion.md) can be adapted to Forex trading by evaluating the win rates and payout ratios of currency pairs. Since Forex traders often engage in high-frequency trading, managing leverage and risk through Kelly ensures sustained capital growth.
 
 ## Software and Tools for Kelly Criterion
 
-Several financial tools and software incorporate the Kelly Criterion for risk management:
+Several financial tools and software incorporate the [Kelly Criterion](../k/kelly_criterion.md) for [risk management](../r/risk_management.md):
 
-- **Trading Blox**: A trading platform that supports the application of the Kelly Criterion in various trading strategies. [Trading Blox](https://www.tradingblox.com/)
+- **Trading Blox**: A trading platform that supports the application of the [Kelly Criterion](../k/kelly_criterion.md) in various [trading strategies](../t/trading_strategies.md). [Trading Blox](https://www.tradingblox.com/)
 
-- **Wealth Lab**: Offers the ability to apply the Kelly Criterion in backtesting and live trading scenarios. [Wealth Lab](https://www.wealth-lab.com/)
+- **Wealth Lab**: Offers the ability to apply the [Kelly Criterion](../k/kelly_criterion.md) in [backtesting](../b/backtesting.md) and live trading scenarios. [Wealth Lab](https://www.wealth-lab.com/)
 
-- **Portfolio123**: Implements Kelly Criterion in portfolio management to optimize asset allocation. [Portfolio123](https://www.portfolio123.com/)
+- **Portfolio123**: Implements [Kelly Criterion](../k/kelly_criterion.md) in [portfolio management](../p/portfolio_management.md) to optimize [asset allocation](../a/asset_allocation.md). [Portfolio123](https://www.portfolio123.com/)
 
-- **QuantConnect**: A cloud-based platform providing tools for algorithmic trading where Kelly Criterion can be scripted and integrated. [QuantConnect](https://www.quantconnect.com/)
+- **QuantConnect**: A cloud-based platform providing tools for [algorithmic trading](../a/algorithmic_trading.md) where [Kelly Criterion](../k/kelly_criterion.md) can be scripted and integrated. [QuantConnect](https://www.quantconnect.com/)
 
 ## Conclusion
 
-The Kelly Risk Management Strategy is a powerful mathematical approach for determining optimal bet sizes in trading and investment to maximize long-term growth. Despite its theoretical elegance, practical application demands careful consideration of real-world factors such as estimation errors and market volatility. By blending the Kelly Criterion with conservative risk management practices, traders and investors can leverage its strengths while mitigating its potential downsides.
+The Kelly [Risk Management](../r/risk_management.md) Strategy is a powerful mathematical approach for determining optimal bet sizes in trading and investment to maximize long-term growth. Despite its theoretical elegance, practical application demands careful consideration of real-world factors such as estimation errors and market volatility. By blending the [Kelly Criterion](../k/kelly_criterion.md) with conservative [risk management](../r/risk_management.md) practices, traders and investors can leverage its strengths while mitigating its potential downsides.

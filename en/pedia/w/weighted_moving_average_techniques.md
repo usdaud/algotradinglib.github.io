@@ -1,7 +1,7 @@
 # Weighted Moving Average Techniques
 
 ## Introduction
-The Weighted Moving Average (WMA) is a type of technical indicator used in the field of algorithmic trading to smooth out price data by giving more significance to recent prices. This technique contrasts with the Simple Moving Average (SMA), which assigns equal weight to all data points in a given period. The WMA's primary advantage lies in its ability to react more quickly to price changes, making it a valuable tool for traders seeking to capture short-term market trends.
+The Weighted Moving Average (WMA) is a type of technical indicator used in the field of [algorithmic trading](../a/algorithmic_trading.md) to smooth out price data by giving more significance to recent prices. This technique contrasts with the Simple Moving Average (SMA), which assigns equal weight to all data points in a given period. The WMA's primary advantage lies in its ability to react more quickly to price changes, making it a valuable tool for traders seeking to capture short-term market trends.
 
 ## Calculation Method
 The WMA is calculated by multiplying each price point in the given period by a predetermined weight factor. These products are then summed and divided by the sum of the weights to produce the weighted average. The formula for the WMA can be expressed as follows:
@@ -33,7 +33,7 @@ The weights typically decrease linearly over time, ensuring that recent prices h
 WMAs are frequently used to identify trends by comparing short-term WMAs with long-term WMAs. For instance, a common trend-following strategy involves buying when a short-term WMA crosses above a long-term WMA and selling when the short-term WMA crosses below the long-term WMA.
 
 ### Signal Generation
-WMAs are used in various signal generation techniques. In conjunction with other indicators like Relative Strength Index (RSI) or Moving Average Convergence Divergence (MACD), WMAs can generate more robust trading signals.
+WMAs are used in various signal generation techniques. In conjunction with other indicators like Relative Strength Index (RSI) or Moving Average Convergence Divergence (MACD), WMAs can generate more robust [trading signals](../t/trading_signals.md).
 
 ### Smoothing Data
 In algo trading, WMAs are used to smooth data and reduce the noise in price charts. This is particularly helpful for algorithmic models that rely on clean, trend-following data to make predictions.
@@ -41,13 +41,13 @@ In algo trading, WMAs are used to smooth data and reduce the noise in price char
 ## Implementations in Algorithmic Trading Platforms
 
 ### QuantConnect
-QuantConnect is a cloud-based algorithmic trading platform that supports multiple programming languages and trading strategies, including WMAs. For more information, visit their [official website](https://www.quantconnect.com/).
+QuantConnect is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple programming languages and [trading strategies](../t/trading_strategies.md), including WMAs. For more information, visit their [official website](https://www.quantconnect.com/).
 
 ### TradingView
-TradingView is a popular online platform for traders to perform technical analysis and share trading ideas. It supports various technical indicators, including WMAs. More details can be found on their [official website](https://www.tradingview.com/).
+TradingView is a popular online platform for traders to perform [technical analysis](../t/technical_analysis.md) and share trading ideas. It supports various [technical indicators](../t/technical_indicators.md), including WMAs. More details can be found on their [official website](https://www.tradingview.com/).
 
 ### MetaTrader 4/5
-MetaTrader platforms are widely used by retail and institutional traders. They offer a range of technical indicators, including WMAs, and are equipped with a robust scripting language (MQL4/5) for custom indicator development. Visit their [official website](https://www.metatrader4.com/) for more information.
+MetaTrader platforms are widely used by retail and institutional traders. They offer a range of [technical indicators](../t/technical_indicators.md), including WMAs, and are equipped with a robust scripting language (MQL4/5) for custom indicator development. Visit their [official website](https://www.metatrader4.com/) for more information.
 
 ## Strategies Utilizing WMA
 
@@ -57,7 +57,7 @@ One of the simplest and most popular strategies involving WMAs is the crossover 
 - Sell signal: Short-term WMA crosses below the long-term WMA.
 
 ### Weighted Moving Average Envelopes
-WMA Envelopes are bands placed above and below an asset's WMA, typically at a fixed percentage distance. These envelopes can act as dynamic support and resistance levels. A buy signal is generated when the price touches or breaches the lower envelope, and a sell signal is generated when the price touches or breaches the upper envelope.
+WMA Envelopes are bands placed above and below an asset's WMA, typically at a fixed percentage distance. These envelopes can act as dynamic [support and resistance](../s/support_and_resistance.md) levels. A buy signal is generated when the price touches or breaches the lower envelope, and a sell signal is generated when the price touches or breaches the upper envelope.
 
 ### Weighted Moving Average Oscillator
 A WMA Oscillator involves subtracting a long-term WMA from a short-term WMA. The resulting value is plotted on a separate chart, oscillating around a zero line. Positive values indicate an uptrend, while negative values indicate a downtrend. This can be particularly useful for capturing short-term price movements within longer trends.
@@ -98,4 +98,4 @@ print(head(data))
 This R code calculates the WMA in a similar manner using the built-in filter function.
 
 ## Conclusion
-The Weighted Moving Average (WMA) is a versatile and valuable tool in the arsenal of an algorithmic trader. While it offers several advantages like responsiveness to recent price changes and flexibility in assigning weights, it is not without its challenges, including complexity and potential risks of overfitting. When used correctly, WMAs can assist in identifying trends, generating signals, and smoothing data, making them an integral component of various algorithmic trading strategies.
+The Weighted Moving Average (WMA) is a versatile and valuable tool in the arsenal of an algorithmic trader. While it offers several advantages like responsiveness to recent price changes and flexibility in assigning weights, it is not without its challenges, including complexity and potential risks of overfitting. When used correctly, WMAs can assist in identifying trends, generating signals, and smoothing data, making them an integral component of various [algorithmic trading](../a/algorithmic_trading.md) strategies.

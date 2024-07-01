@@ -1,9 +1,9 @@
 # Fundamental Trading Strategies
 
-Fundamental trading strategies involve using fundamental analysis to identify and take advantage of discrepancies between a security's intrinsic value and its market price. This method focuses on evaluating economic, financial, and other qualitative and quantitative factors that can affect a company's financial health and its stock price. Fundamental traders analyze various financial statements, industry conditions, economic indicators, and other data to make informed investment decisions. Below is a comprehensive discussion of various components and techniques involved in fundamental trading strategies.
+Fundamental [trading strategies](../t/trading_strategies.md) involve using [fundamental analysis](../f/fundamental_analysis.md) to identify and take advantage of discrepancies between a security's intrinsic value and its market price. This method focuses on evaluating economic, financial, and other qualitative and quantitative factors that can affect a company's financial health and its stock price. Fundamental traders analyze various financial statements, industry conditions, [economic indicators](../e/economic_indicators.md), and other data to make informed investment decisions. Below is a comprehensive discussion of various components and techniques involved in fundamental [trading strategies](../t/trading_strategies.md).
 
 ## 1. Financial Statement Analysis
-Financial statement analysis is a critical part of fundamental trading strategies. It involves evaluating a company's financial reports to determine its financial health, profitability, and potential for growth. There are three primary financial statements:
+[Financial statement analysis](../f/financial_statement_analysis.md) is a critical part of fundamental [trading strategies](../t/trading_strategies.md). It involves evaluating a company's financial reports to determine its financial health, profitability, and potential for growth. There are three primary financial statements:
 
 ### 1.1 Income Statement
 The income statement, also known as the profit and loss statement, provides information about a company's revenues, expenses, and profits over a specified period. Key metrics examined in the income statement include:
@@ -29,7 +29,7 @@ The cash flow statement examines how cash moves into and out of a company. It is
 - **Financing Activities**: Cash flows from borrowing, repaying debt, and equity transactions.
 
 ## 2. Company Valuation Techniques
-Valuation is essential in fundamental analysis as it helps to estimate a company's worth. Common valuation methods include:
+Valuation is essential in [fundamental analysis](../f/fundamental_analysis.md) as it helps to estimate a company's worth. Common valuation methods include:
 
 ### 2.1 Discounted Cash Flow (DCF) Analysis
 DCF analysis estimates the value of an investment based on its expected future cash flows, which are discounted back to present value using a discount rate. This technique involves the following steps:
@@ -57,7 +57,7 @@ The DDM values a stock by using the predicted dividends and discounting them bac
 Economic and industry conditions significantly impact a company's performance. Fundamental traders consider the following factors:
 
 ### 3.1 Economic Indicators
-Economic indicators provide insights into the economic performance and future trends. Key indicators include:
+[Economic indicators](../e/economic_indicators.md) provide insights into the economic performance and future trends. Key indicators include:
 
 - **Gross Domestic Product (GDP)**: Measures a country's overall economic output.
 - **Unemployment Rate**: Indicates the percentage of the labor force that is unemployed.
@@ -94,26 +94,26 @@ Understanding a company's business model helps to evaluate its potential for gen
 ## 5. Fundamental Trading Strategies
 
 ### 5.1 Value Investing
-Value investing involves selecting stocks that appear to be trading for less than their intrinsic value. Investors look for undervalued companies with strong fundamentals and potential for growth. Notable proponents of value investing include Warren Buffett and Benjamin Graham.
+[Value investing](../v/value_investing.md) involves selecting stocks that appear to be trading for less than their intrinsic value. Investors look for undervalued companies with strong fundamentals and potential for growth. Notable proponents of [value investing](../v/value_investing.md) include Warren Buffett and Benjamin Graham.
 
 ### 5.2 Growth Investing
-Growth investing focuses on companies with strong potential for significant earnings growth. These companies may have higher P/E ratios but offer substantial long-term growth prospects. Growth investors prioritize future potential over current valuations.
+[Growth investing](../g/growth_investing.md) focuses on companies with strong potential for significant earnings growth. These companies may have higher P/E ratios but offer substantial long-term growth prospects. Growth investors prioritize future potential over current valuations.
 
 ### 5.3 Income Investing
 Income investing targets stocks that offer high dividend yields and stable cash flows. This strategy is popular among investors seeking steady income through dividend payments rather than capital appreciation.
 
 ### 5.4 GARP (Growth at a Reasonable Price)
-GARP combines elements of both value and growth investing. It involves selecting stocks that exhibit growth potential at a reasonable valuation. Investors look for companies with growth rates that are proportional to their P/E ratios.
+GARP combines elements of both value and [growth investing](../g/growth_investing.md). It involves selecting stocks that exhibit growth potential at a reasonable valuation. Investors look for companies with growth rates that are proportional to their P/E ratios.
 
 ### 5.5 Contrarian Investing
 Contrarian investing involves going against prevailing market trends to buy undervalued stocks during market downturns or sell overvalued stocks in bullish markets. Contrarian investors believe that market prices often reflect exaggerated sentiments rather than intrinsic values.
 
 ## 6. Risks and Limitations
-Fundamental trading strategies, while based on thorough analysis, come with risks and limitations:
+Fundamental [trading strategies](../t/trading_strategies.md), while based on thorough analysis, come with risks and limitations:
 
-- **Market Efficiency**: Even thoroughly analyzed undervalued or overvalued stocks may not always adjust to their intrinsic values due to market efficiency anomalies.
+- **[Market Efficiency](../m/market_efficiency.md)**: Even thoroughly analyzed undervalued or overvalued stocks may not always adjust to their intrinsic values due to [market efficiency](../m/market_efficiency.md) anomalies.
 - **Data Limitations**: Incomplete or inaccurate data can lead to misguided investment decisions.
-- **Time-Intensive**: Fundamental analysis requires significant time and effort to evaluate all relevant factors.
+- **Time-Intensive**: [Fundamental analysis](../f/fundamental_analysis.md) requires significant time and effort to evaluate all relevant factors.
 - **Subjectivity**: Qualitative analysis often involves subjective judgment, which can be influenced by bias.
 
 ## 7. Tools and Resources
@@ -124,4 +124,4 @@ Various tools and resources assist fundamental traders in conducting their analy
 - **Economic Databases**: Resources like the Bureau of Economic Analysis (BEA) and the Federal Reserve provide access to important economic data.
 
 ## Conclusion
-Fundamental trading strategies rely on a thorough analysis of a company's financial health, valuation, industry conditions, and qualitative factors to make informed investment decisions. While data-intensive and sometimes subjective, these strategies offer a robust framework for identifying undervalued or overvalued stocks and capitalizing on market inefficiencies. Understanding the intricacies of financial statements, valuation models, industry trends, and qualitative factors is essential for successful fundamental trading.
+Fundamental [trading strategies](../t/trading_strategies.md) rely on a thorough analysis of a company's financial health, valuation, industry conditions, and qualitative factors to make informed investment decisions. While data-intensive and sometimes subjective, these strategies offer a robust framework for identifying undervalued or overvalued stocks and capitalizing on market inefficiencies. Understanding the intricacies of financial statements, [valuation models](../v/valuation_models.md), industry trends, and qualitative factors is essential for successful fundamental trading.

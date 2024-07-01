@@ -11,14 +11,14 @@ Before diving into theta neutral strategies, it's crucial to understand the conc
 Several factors influence Theta:
 
 1. **Time to Expiration**: Options with shorter time durations have higher Thetas. As the expiration date approaches, the rate of time decay accelerates.
-2. **Moneyness**: At-the-money options (where the strike price is close to the current market price) typically exhibit higher Thetas compared to in-the-money or out-of-the-money options.
+2. **Moneyness**: At-the-money options (where the strike price is close to the current market price) typically exhibit higher Thetas compared to in-the-money or [out-of-the-money options](../o/out-of-the-money_options.md).
 3. **Volatility**: Options in a highly volatile market tend to have lower Thetas because higher uncertainty provides more value to the time component.
   
 ## Building Theta Neutral Strategies
 
 ### 1. **Calendar Spreads**
 
-A calendar spread (also known as a time spread or horizontal spread) involves buying and selling two options of the same type (calls or puts) with the same strike price but different expiration dates. For instance, one might sell a short-term call option and buy a long-term call option. The strategy capitalizes on the fact that the short-term option will experience time decay faster than the long-term option, balancing Theta exposure.
+A calendar spread (also known as a time spread or [horizontal spread](../h/horizontal_spread.md)) involves buying and selling two options of the same type (calls or puts) with the same strike price but different expiration dates. For instance, one might sell a short-term call option and buy a long-term call option. The strategy capitalizes on the fact that the short-term option will experience time decay faster than the long-term option, balancing Theta exposure.
 
 ### 2. **Diagonal Spreads**
 
@@ -26,11 +26,11 @@ Diagonal spreads are similar to calendar spreads but involve options with differ
 
 ### 3. **Butterfly Spreads**
 
-A butterfly spread is a neutral options strategy that combines bull and bear spreads with a fixed risk and capped profit. It involves three strike prices; buying one option each at the lower and higher strike prices and selling two options at the middle strike price. The goal here is to maintain a Theta neutral position by balancing the time decay between the inner and outer options.
+A [butterfly spread](../b/butterfly_spread.md) is a neutral options strategy that combines bull and bear spreads with a fixed risk and capped profit. It involves three strike prices; buying one option each at the lower and higher strike prices and selling two options at the middle strike price. The goal here is to maintain a Theta neutral position by balancing the time decay between the inner and outer options.
 
 ### 4. **Iron Condors**
 
-An iron condor involves a combination of a bull put spread and a bear call spread. The trader sells an out-of-the-money put and buys a further out-of-the-money put while simultaneously selling an out-of-the-money call and buying a further out-of-the-money call. This strategy is considered Theta neutral because the time decay from the sold options is balanced by the time value retained in the purchased options.
+An [iron condor](../i/iron_condor.md) involves a combination of a [bull put spread](../b/bull_put_spread.md) and a [bear call spread](../b/bear_call_spread.md). The trader sells an out-of-the-money put and buys a further out-of-the-money put while simultaneously selling an out-of-the-money call and buying a further out-of-the-money call. This strategy is considered Theta neutral because the time decay from the sold options is balanced by the time value retained in the purchased options.
   
 ### 5. **Ratio Spreads**
 
@@ -43,7 +43,7 @@ To effectively implement Theta neutral strategies, you can use various trading p
 1. **Thinkorswim by TD Ameritrade**: A comprehensive trading platform that offers advanced options analysis tools, including Theta calculations and simulations.
    - [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
 
-2. **Interactive Brokers**: Known for its sophisticated trading tools, Interactive Brokers offers detailed options analytics and risk management features.
+2. **Interactive Brokers**: Known for its sophisticated trading tools, Interactive Brokers offers detailed options analytics and [risk management](../r/risk_management.md) features.
    - [Interactive Brokers](https://www.interactivebrokers.com/)
 
 3. **Tastyworks**: This platform is designed with options traders in mind, offering intuitive visual representations of various strategies, including Theta neutral approaches.
@@ -79,7 +79,7 @@ Rather than static positions, some traders adopt dynamic adjustment strategies. 
 
 ### 3. **Hedging Techniques**
 
-Employing derivatives like futures and swaps can add another layer of hedging, allowing for finer control over Theta exposure. These instruments can offset risks that the options positions may not cover completely.
+Employing [derivatives](../d/derivatives.md) like futures and swaps can add another layer of hedging, allowing for finer control over Theta exposure. These instruments can offset risks that the options positions may not cover completely.
 
 ## Case Studies and Practical Examples
 
@@ -93,7 +93,7 @@ In a bull market scenario, a trader opts for a diagonal spread by purchasing a l
 
 ### 3. **Butterfly Spread for Range-Bound Stocks**
 
-For stocks expected to trade within a specific range, a trader might employ a butterfly spread. By setting the strike prices around the expected price range, the strategy achieves a Theta neutral position while benefiting from minimal price movement in either direction.
+For stocks expected to trade within a specific range, a trader might employ a [butterfly spread](../b/butterfly_spread.md). By setting the strike prices around the expected price range, the strategy achieves a Theta neutral position while benefiting from minimal price movement in either direction.
 
 ## Conclusion
 

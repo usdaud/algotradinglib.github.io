@@ -40,15 +40,15 @@ Unlike statistical models, judgmental adjustments can be opaque, making it diffi
 Judgmental adjustments can vary significantly between different experts, leading to inconsistencies in forecasts.
 
 ### Quantifying Impact
-Measuring the benefit of judgmental adjustments can be challenging. It can be hard to attribute forecast accuracy to either the statistical model or the human input.
+Measuring the benefit of judgmental adjustments can be challenging. It can be hard to attribute [forecast accuracy](../f/forecast_accuracy.md) to either the statistical model or the human input.
 
 ## Case Studies
 
 ### Financial Markets
-In the financial industry, companies like Renaissance Technologies have leveraged both quantitative models and human expertise. Employing a cadre of Ph.D.s in various scientific disciplines, they build robust models but also consider judgmental adjustments to account for events like earnings announcements, geopolitical events, etc. [Renaissance Technologies](https://www.rentech.com/)
+In the financial industry, companies like Renaissance Technologies have leveraged both [quantitative models](../q/quantitative_models.md) and human expertise. Employing a cadre of Ph.D.s in various scientific disciplines, they build robust models but also consider judgmental adjustments to account for events like [earnings announcements](../e/earnings_announcements.md), [geopolitical events](../g/geopolitical_events.md), etc. [Renaissance Technologies](https://www.rentech.com/)
 
 ### Supply Chain Management
-Companies like Amazon use complex algorithms for demand forecasting but still involve human oversight to account for variables like promotional activities, holidays, or economic shifts. [Amazon](https://www.amazon.com/)
+Companies like Amazon use complex algorithms for [demand forecasting](../d/demand_forecasting.md) but still involve human oversight to account for variables like promotional activities, holidays, or economic shifts. [Amazon](https://www.amazon.com/)
 
 ### Weather Forecasting
 The National Weather Service (NWS) uses sophisticated meteorological models but allows seasoned meteorologists to make adjustments based on real-time observations and unique local weather patterns. [National Weather Service](https://www.weather.gov/)
@@ -56,9 +56,9 @@ The National Weather Service (NWS) uses sophisticated meteorological models but 
 ## Methods for Evaluating Judgmental Adjustments
 
 To quantify the effectiveness of judgmental adjustments, different methodologies can be employed:
-- **Backtesting:** Comparing predictions with and without adjustments against actual outcomes.
+- **[Backtesting](../b/backtesting.md):** Comparing predictions with and without adjustments against actual outcomes.
 - **Real-world Experiments:** Implementing and monitoring outcomes to measure predictive accuracy.
-- **Error Metrics:** Utilizing statistical error metrics like Mean Absolute Error (MAE) or Root Mean Squared Error (RMSE) to compare performance.
+- **Error Metrics:** Utilizing statistical error metrics like Mean Absolute Error (MAE) or Root [Mean Squared Error](../m/mean_squared_error.md) (RMSE) to compare performance.
 
 ## Best Practices
 
@@ -87,5 +87,5 @@ Sophisticated visualization tools can help human forecasters make better adjustm
 
 ## Conclusion
 
-Judgmental adjustment in forecasting remains a vital process across multiple domains, striking a balance between quantitative models and human intuition. While challenges exist, adopting best practices and leveraging advancements in AI and data visualization can enhance the efficacy and accuracy of this approach.
+Judgmental adjustment in forecasting remains a vital process across multiple domains, striking a balance between [quantitative models](../q/quantitative_models.md) and human intuition. While challenges exist, adopting best practices and leveraging advancements in AI and [data visualization](../d/data_visualization.md) can enhance the efficacy and accuracy of this approach.
 

@@ -2,13 +2,13 @@
 
 ---
 
-Mathematical models play a crucial role in the realm of trading, especially within the scope of algorithmic trading (also known as algo-trading or automated trading). By utilizing advanced mathematical concepts and techniques, traders can develop algorithms that help predict market movements, manage risks, and optimize trading strategies. Here, we will delve into various mathematical models and methods that are commonly used in trading.
+Mathematical models play a crucial role in the realm of trading, especially within the scope of [algorithmic trading](../a/algorithmic_trading.md) (also known as algo-trading or automated trading). By utilizing advanced mathematical concepts and techniques, traders can develop algorithms that help predict market movements, manage risks, and optimize [trading strategies](../t/trading_strategies.md). Here, we will delve into various mathematical models and methods that are commonly used in trading.
 
 ---
 
 #### 1. Time Series Analysis
 
-Time series analysis involves the study of data points collected or sequenced over time to identify inherent patterns or trends. It is instrumental in understanding the historical price movements of financial instruments and predicting future prices.
+[Time series analysis](../t/time_series_analysis.md) involves the study of data points collected or sequenced over time to identify inherent patterns or trends. It is instrumental in understanding the historical price movements of financial instruments and predicting future prices.
 
 ##### Key Methods:
 - **Autoregressive (AR) Model**: This model assumes that the future value of a variable is a linear function of its past values.
@@ -18,52 +18,52 @@ Time series analysis involves the study of data points collected or sequenced ov
 
 #### 2. Stochastic Processes
 
-Stochastic processes are mathematical objects defined by randomness. They are often used to model and forecast the random behavior of asset prices in financial markets.
+[Stochastic processes](../s/stochastic_processes.md) are mathematical objects defined by randomness. They are often used to model and forecast the random behavior of asset prices in financial markets.
 
 ##### Key Concepts:
 - **Brownian Motion**: This is a continuous-time stochastic process that models random motion, often used to represent stock price movements.
-- **Geometric Brownian Motion (GBM)**: An extension of Brownian motion, it accounts for the fact that stock prices cannot be negative.
+- **[Geometric Brownian Motion](../g/geometric_brownian_motion.md) (GBM)**: An extension of Brownian motion, it accounts for the fact that stock prices cannot be negative.
 - **Poisson Process**: Useful for modeling the number of events occurring within fixed intervals of time.
 
 #### 3. Quantitative Finance Methods
 
-Quantitative finance involves implementing mathematical models to solve problems in finance. This field combines rigorous mathematical techniques with financial theory to optimize decision-making.
+[Quantitative finance](../q/quantitative_finance.md) involves implementing mathematical models to solve problems in finance. This field combines rigorous mathematical techniques with financial theory to optimize decision-making.
 
 ##### Key Models:
-- **Black-Scholes Model**: It is used for option pricing, providing a theoretical estimate of the price of European-style options.
-- **Binomial Option Pricing Model**: This is an iterative model used to price options that incorporates multiple time periods.
-- **Monte Carlo Simulation**: A statistical method used to model the probability of different outcomes in a process that cannot easily be predicted due to random variables.
+- **[Black-Scholes Model](../b/black-scholes_model.md)**: It is used for option pricing, providing a theoretical estimate of the price of European-style options.
+- **[Binomial Option Pricing Model](../b/binomial_option_pricing_model.md)**: This is an iterative model used to price options that incorporates multiple time periods.
+- **[Monte Carlo Simulation](../m/monte_carlo_simulation.md)**: A statistical method used to model the probability of different outcomes in a process that cannot easily be predicted due to random variables.
 
 #### 4. Statistical Arbitrage
 
-Statistical arbitrage is a trading strategy that involves simultaneously buying and selling securities to exploit pricing inefficiencies.
+Statistical [arbitrage](../a/arbitrage.md) is a trading strategy that involves simultaneously buying and selling securities to exploit pricing inefficiencies.
 
 ##### Key Techniques:
-- **Pairs Trading**: Involves trading pairs of stocks that are historically correlated.
+- **[Pairs Trading](../p/pairs_trading.md)**: Involves trading pairs of stocks that are historically correlated.
 - **Cointegration**: Focuses on the long-term equilibrium relationship between two or more time series.
-- **Mean Reversion**: Assumes that prices will revert to their historical mean over time.
+- **[Mean Reversion](../m/mean_reversion.md)**: Assumes that prices will revert to their historical mean over time.
 
 #### 5. Machine Learning and AI in Trading
 
-Machine learning (ML) and artificial intelligence (AI) have become integral in developing sophisticated trading algorithms. These technologies help in modeling complex patterns in financial data that traditional statistical methods might miss.
+Machine learning (ML) and artificial intelligence (AI) have become integral in developing sophisticated [trading algorithms](../t/trading_algorithms.md). These technologies help in modeling complex patterns in financial data that traditional statistical methods might miss.
 
 ##### Key Approaches:
 - **Supervised Learning**: Involves training algorithms on historical data to predict future outcomes.
 - **Unsupervised Learning**: Used to identify hidden patterns in data without predefined labels or outcomes.
-- **Reinforcement Learning**: Algorithms learn optimal trading strategies by receiving feedback from their actions in a market environment.
+- **Reinforcement Learning**: Algorithms learn optimal [trading strategies](../t/trading_strategies.md) by receiving feedback from their actions in a market environment.
 
 #### 6. Portfolio Optimization
 
-Portfolio optimization involves selecting the best combination of assets to maximize return for a given level of risk. Mathematical models play a crucial role in this process.
+[Portfolio optimization](../p/portfolio_optimization.md) involves selecting the best combination of assets to maximize return for a given level of risk. Mathematical models play a crucial role in this process.
 
 ##### Key Models:
-- **Markowitz Model**: Also known as the Mean-Variance Optimization, it helps in forming an efficient frontier of optimal portfolios.
+- **Markowitz Model**: Also known as the [Mean-Variance Optimization](../m/mean-variance_optimization.md), it helps in forming an [efficient frontier](../e/efficient_frontier.md) of optimal portfolios.
 - **Capital Asset Pricing Model (CAPM)**: Used to determine the expected return of an asset based on its risk relative to the market.
-- **Sharpe Ratio**: A measure to evaluate the performance of an investment compared to a risk-free asset, after adjusting for its risk.
+- **[Sharpe Ratio](../s/sharpe_ratio.md)**: A measure to evaluate the performance of an investment compared to a risk-free asset, after adjusting for its risk.
 
 #### 7. Risk Management Models
 
-Effective risk management is critical for the long-term success of any trading strategy. Various mathematical models are used to assess and manage risk.
+Effective [risk management](../r/risk_management.md) is critical for the long-term success of any trading strategy. Various mathematical models are used to assess and manage risk.
 
 ##### Key Models:
 - **Value at Risk (VaR)**: Represents the maximum loss expected over a specified time period with a given confidence level.
@@ -72,7 +72,7 @@ Effective risk management is critical for the long-term success of any trading s
 
 #### 8. Execution Algorithms
 
-Execution algorithms are designed to execute large orders with minimal market impact. These algorithms use mathematical models to determine the optimal way to break up and time orders.
+[Execution algorithms](../e/execution_algorithms.md) are designed to execute large orders with minimal market impact. These algorithms use mathematical models to determine the optimal way to break up and time orders.
 
 ##### Key Algorithms:
 - **VWAP (Volume Weighted Average Price)**: Targets the execution price to be close to the average price throughout the trading day.
@@ -84,18 +84,18 @@ Execution algorithms are designed to execute large orders with minimal market im
 High-frequency trading (HFT) involves executing a large number of orders at extremely high speeds. It relies heavily on mathematical models to identify trading opportunities and make split-second decisions.
 
 ##### Key Techniques:
-- **Statistical Arbitrage**: Uses statistical models to identify short-term mispricings between related securities.
+- **Statistical [Arbitrage](../a/arbitrage.md)**: Uses statistical models to identify short-term mispricings between related securities.
 - **Market Making**: Involves providing liquidity to the market by quoting both buy and sell prices.
-- **Latency Arbitrage**: Exploits slight delays in the dissemination of market information.
+- **Latency [Arbitrage](../a/arbitrage.md)**: Exploits slight delays in the dissemination of market information.
 
 #### 10. Behavioral Finance Models
 
-Behavioral finance combines psychological theories with conventional economics to explain why people make irrational financial decisions. Mathematical models in behavioral finance help in understanding and predicting market sentiment and investor behaviors.
+[Behavioral finance](../b/behavioral_finance.md) combines psychological theories with conventional economics to explain why people make irrational financial decisions. Mathematical models in [behavioral finance](../b/behavioral_finance.md) help in understanding and predicting market sentiment and investor behaviors.
 
 ##### Key Concepts:
 - **Prospect Theory**: Describes how people choose between probabilistic alternatives involving risk.
 - **Agent-Based Models**: Simulate the actions and interactions of autonomous agents (individuals or groups) to assess their effects on the financial system.
-- **Behavioral Bias Models**: Identify common biases such as overconfidence, loss aversion, and herd behavior that can impact trading decisions.
+- **Behavioral Bias Models**: Identify common biases such as overconfidence, [loss aversion](../l/loss_aversion.md), and herd behavior that can impact trading decisions.
 
 #### 11. Blockchain and Cryptocurrencies
 

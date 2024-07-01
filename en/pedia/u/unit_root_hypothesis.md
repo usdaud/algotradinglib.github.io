@@ -1,6 +1,6 @@
 # Unit Root Hypothesis
 
-The Unit Root Hypothesis is a concept in time series analysis that has profound implications for econometrics, especially in the analysis of financial data and time series forecasting. It proposes that a time series possessing a unit root is non-stationary but can be transformed into a stationary series by differencing. Understanding and testing for unit roots is crucial in developing robust trading algorithms and making accurate forecasts in algorithmic trading (or algo-trading).
+The Unit Root Hypothesis is a concept in [time series analysis](../t/time_series_analysis.md) that has profound implications for econometrics, especially in the analysis of financial data and [time series forecasting](../t/time_series_forecasting.md). It proposes that a time series possessing a unit root is non-stationary but can be transformed into a stationary series by differencing. Understanding and testing for unit roots is crucial in developing robust [trading algorithms](../t/trading_algorithms.md) and making accurate forecasts in [algorithmic trading](../a/algorithmic_trading.md) (or algo-trading).
 
 ## Definition of Unit Root
 
@@ -35,7 +35,7 @@ where \(\Delta\) is the difference operator, \(t\) is the time trend, and \(\alp
 
 ### 2. Phillips-Perron Test
 
-The Phillips-Perron (PP) test is another approach to testing for a unit root. Unlike the ADF test, the PP test accounts for heteroskedasticity and autocorrelation by modifying the test statistics.
+The Phillips-Perron (PP) test is another approach to testing for a unit root. Unlike the ADF test, the PP test accounts for heteroskedasticity and [autocorrelation](../a/autocorrelation.md) by modifying the test statistics.
 
 ### 3. Kwiatkowski-Phillips-Schmidt-Shin (KPSS) Test
 
@@ -47,11 +47,11 @@ where \(\mu_t\) is a random walk with a disturbance term, and \(\beta t\) is the
 
 ## Implications for Algorithmic Trading
 
-In the context of algorithmic trading, the presence of a unit root denotes non-stationarity, which can affect the quality and reliability of trading algorithms. Here's why understanding this is critical:
+In the context of [algorithmic trading](../a/algorithmic_trading.md), the presence of a unit root denotes non-stationarity, which can affect the quality and reliability of [trading algorithms](../t/trading_algorithms.md). Here's why understanding this is critical:
 
 ### 1. **Misperceived Predictability**
 
-Non-stationary series can lead to the false belief that there is a long-term relationship between variables when there isn't one, leading to erroneous trading strategies.
+Non-stationary series can lead to the false belief that there is a long-term relationship between variables when there isn't one, leading to erroneous [trading strategies](../t/trading_strategies.md).
 
 ### 2. **Differencing for Stationarity**
 
@@ -62,25 +62,25 @@ This transformation is vital for models like ARIMA (AutoRegressive Integrated Mo
 
 ### 3. **Volatility and Risk Assessment**
 
-Stationary series have constant statistical properties over time, enabling better volatility and risk assessments. Non-stationary series can lead to underestimated or overestimated volatility, affecting risk management.
+Stationary series have constant statistical properties over time, enabling better volatility and risk assessments. Non-stationary series can lead to underestimated or overestimated volatility, affecting [risk management](../r/risk_management.md).
 
 ## Case Studies and Applications
 
 ### 1. **High-Frequency Trading (HFT)**
 
-In high-frequency trading, algorithms operate on the assumption of mean reversion or other stationary characteristics of financial instruments. Detecting and transforming non-stationary series ensures these algorithms remain effective.
+In high-frequency trading, algorithms operate on the assumption of [mean reversion](../m/mean_reversion.md) or other stationary characteristics of financial instruments. Detecting and transforming non-stationary series ensures these algorithms remain effective.
 
 ### 2. **Pairs Trading**
 
-Pairs trading strategies rely on the concept of cointegration, which assumes a stable, long-term relationship between two non-stationary time series. Testing for and confirming unit roots is vital for implementing pairs trading.
+[Pairs trading](../p/pairs_trading.md) strategies rely on the concept of cointegration, which assumes a stable, long-term relationship between two non-stationary time series. Testing for and confirming unit roots is vital for implementing [pairs trading](../p/pairs_trading.md).
 
 ### 3. **Central Banks and Monetary Policy**
 
-Understanding unit roots is crucial for central banks in modeling economic indicators like GDP, inflation rates, and employment. Reliable models help in crafting monetary policy and making economic forecasts.
+Understanding unit roots is crucial for central banks in modeling [economic indicators](../e/economic_indicators.md) like GDP, inflation rates, and employment. Reliable models help in crafting monetary policy and making economic forecasts.
 
 ## Software and Tools for Unit Root Testing
 
-Several software packages and tools facilitate unit root testing:
+Several software packages and tools facilitate [unit root testing](../u/unit_root_testing.md):
 
 ### 1. **R**
 
@@ -88,7 +88,7 @@ R provides various packages like `tseries`, `urca`, and `fUnitRoots` for perform
 
 ### 2. **Python**
 
-Python’s `statsmodels` and `arch` libraries offer comprehensive functions for unit root testing.
+Python’s `statsmodels` and `arch` libraries offer comprehensive functions for [unit root testing](../u/unit_root_testing.md).
 
 ### 3. **MATLAB**
 
@@ -96,7 +96,7 @@ MATLAB’s Econometrics Toolbox includes functions like `adftest` and `kpsstest`
 
 ## Conclusion
 
-The Unit Root Hypothesis governs a fundamental aspect of time series analysis, crucial for economics, finance, and algorithmic trading. Proper identification and transformation of unit root processes ensure the reliability and robustness of statistical models, trading algorithms, and economic forecasts. By applying appropriate tests and methodologies, traders, economists, and policymakers can effectively manage and interpret complex time series data, paving the way for informed decision-making and optimal strategy development.
+The Unit Root Hypothesis governs a fundamental aspect of [time series analysis](../t/time_series_analysis.md), crucial for economics, finance, and [algorithmic trading](../a/algorithmic_trading.md). Proper identification and transformation of unit root processes ensure the reliability and robustness of statistical models, [trading algorithms](../t/trading_algorithms.md), and economic forecasts. By applying appropriate tests and methodologies, traders, economists, and policymakers can effectively manage and interpret complex time series data, paving the way for informed decision-making and optimal strategy development.
 
 For a deep dive into the services and tools mentioned, you can visit their respective websites:
 - [R: The R Project for Statistical Computing](https://www.r-project.org/)

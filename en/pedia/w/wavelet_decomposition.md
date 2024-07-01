@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Wavelet decomposition is a mathematical tool used to analyze and represent signals in multiple resolutions or scales. It has numerous applications in various fields such as signal processing, image compression, and, notably, algorithmic trading. Wavelet decomposition can handle data that is non-stationary, making it highly suitable for financial time series that exhibit non-stationarity behaviors like stock prices, forex rates, and commodity prices.
+Wavelet decomposition is a mathematical tool used to analyze and represent signals in multiple resolutions or scales. It has numerous applications in various fields such as signal processing, image compression, and, notably, [algorithmic trading](../a/algorithmic_trading.md). Wavelet decomposition can handle data that is non-stationary, making it highly suitable for [financial time series](../f/financial_time_series.md) that exhibit non-stationarity behaviors like stock prices, forex rates, and commodity prices.
 
 ## Overview of Wavelet Decomposition
 
@@ -60,11 +60,11 @@ Financial data often contains noise which can obscure the underlying signal. Wav
 
 ### Feature Extraction
 
-In algorithmic trading, extracting meaningful features from raw data is crucial. Wavelet coefficients can serve as features that represent different aspects of the financial time series, such as trends, cycles, and abrupt changes.
+In [algorithmic trading](../a/algorithmic_trading.md), extracting meaningful features from raw data is crucial. Wavelet coefficients can serve as features that represent different aspects of the [financial time series](../f/financial_time_series.md), such as trends, cycles, and abrupt changes.
 
 ### High-Frequency Trading
 
-High-frequency trading strategies benefit from the multi-resolution analysis provided by wavelet decomposition. It enables traders to detect short-term patterns and anomalies that traditional methods may miss.
+High-frequency [trading strategies](../t/trading_strategies.md) benefit from the multi-resolution analysis provided by wavelet decomposition. It enables traders to detect short-term patterns and anomalies that traditional methods may miss.
 
 ### Predictive Modeling
 
@@ -76,7 +76,7 @@ A practical example involves predicting stock prices. By applying wavelet decomp
 
 ### Case Study: Wavelet-Based Algorithm in Forex Trading
 
-In Forex trading, wavelet decomposition can be utilized to filter out market noise and enhance predictive algorithms. Suppose a trader is working on the EUR/USD currency pair. By decomposing the exchange rate data using a wavelet method, the trader can identify cyclical patterns and volatility, which are then used to fine-tune trading algorithms.
+In Forex trading, wavelet decomposition can be utilized to filter out market noise and enhance predictive algorithms. Suppose a trader is working on the EUR/USD currency pair. By decomposing the exchange rate data using a wavelet method, the trader can identify cyclical patterns and volatility, which are then used to fine-tune [trading algorithms](../t/trading_algorithms.md).
 
 ## Tools and Libraries for Implementation
 
@@ -85,16 +85,16 @@ In Forex trading, wavelet decomposition can be utilized to filter out market noi
 - **PyWavelets**: An open-source library for wavelet transform in Python. It supports a wide range of wavelet families and provides functions for one-dimensional and two-dimensional decomposition.
   [PyWavelets](https://pywavelets.readthedocs.io/en/latest/)
 
-- **WaveletToolbox**: Another Python-based tool for wavelet analysis tailored for signal processing applications, often used in financial data analysis.
+- **WaveletToolbox**: Another Python-based tool for [wavelet analysis](../w/wavelet_analysis.md) tailored for signal processing applications, often used in financial data analysis.
   [WaveletToolbox](https://pypi.org/project/WaveletToolbox/)
 
 ### MATLAB
 
-MATLAB provides a comprehensive Wavelet Toolbox that enables users to perform wavelet analysis on data. It includes functions for continuous and discrete wavelet transforms, wavelet packet decomposition, and denoising.
+MATLAB provides a comprehensive Wavelet Toolbox that enables users to perform [wavelet analysis](../w/wavelet_analysis.md) on data. It includes functions for continuous and discrete wavelet transforms, wavelet packet decomposition, and denoising.
 [MATLAB Wavelet Toolbox](https://www.mathworks.com/products/wavelet.html)
 
 ## Conclusion
 
-Wavelet decomposition is a powerful tool for analyzing financial time series data in algorithmic trading. Its ability to handle non-stationary data and provide multi-resolution analysis makes it a valuable resource for traders. Whether for denoising data, feature extraction, or predictive modeling, wavelet decomposition offers unique advantages that enhance trading strategies and improve market predictions.
+Wavelet decomposition is a powerful tool for analyzing [financial time series](../f/financial_time_series.md) data in [algorithmic trading](../a/algorithmic_trading.md). Its ability to handle non-stationary data and provide multi-resolution analysis makes it a valuable resource for traders. Whether for denoising data, feature extraction, or [predictive modeling](../p/predictive_modeling.md), wavelet decomposition offers unique advantages that enhance [trading strategies](../t/trading_strategies.md) and improve market predictions.
 
-By leveraging tools like PyWavelets, WaveletToolbox, and MATLAB's Wavelet Toolbox, traders can implement wavelet-based techniques to gain a competitive edge in the fast-paced world of algorithmic trading.
+By leveraging tools like PyWavelets, WaveletToolbox, and MATLAB's Wavelet Toolbox, traders can implement wavelet-based techniques to gain a competitive edge in the fast-paced world of [algorithmic trading](../a/algorithmic_trading.md).

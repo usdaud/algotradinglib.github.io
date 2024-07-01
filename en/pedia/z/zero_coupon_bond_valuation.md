@@ -8,7 +8,7 @@ Zero coupon bonds differ from traditional bonds primarily in that they do not ma
 
 1. **Issued at a Discount**: Zero coupon bonds are sold at a price significantly lower than their face value.
 2. **Maturity**: The lifespan of these bonds can range from a few months to several decades.
-3. **Yield to Maturity (YTM)**: Represents the annualized return if the bond is held until maturity.
+3. **[Yield to Maturity](../y/yield_to_maturity.md) (YTM)**: Represents the annualized return if the bond is held until maturity.
 4. **Interest Rate Risk**: Zero coupon bonds are particularly sensitive to changes in interest rates due to their long duration.
 5. **Tax Treatment**: In some jurisdictions, the imputed interest (the difference between the purchase price and the face value) may be taxed annually, even though no actual payments are received until maturity.
 
@@ -21,12 +21,12 @@ The fundamental formula for the valuation of zero coupon bonds is derived from t
 Where:
 - \( P \) is the current price of the bond.
 - \( F \) is the face value (par value) of the bond.
-- \( r \) is the annual yield to maturity (expressed as a decimal).
+- \( r \) is the annual [yield to maturity](../y/yield_to_maturity.md) (expressed as a decimal).
 - \( n \) is the number of years until maturity.
 
 #### Example Calculation
 
-Suppose an investor is considering purchasing a zero coupon bond with a face value of $1,000, maturing in 10 years, with a yield to maturity of 5%. The valuation would be:
+Suppose an investor is considering purchasing a zero coupon bond with a face value of $1,000, maturing in 10 years, with a [yield to maturity](../y/yield_to_maturity.md) of 5%. The valuation would be:
 
 \[ P = \frac{1000}{(1 + 0.05)^{10}} \]
 \[ P = \frac{1000}{1.62889} \]
@@ -40,7 +40,7 @@ Several factors influence the valuation of zero coupon bonds:
 
 1. **Interest Rates**: As interest rates rise, the present value of future cash flows decreases, leading to a drop in the bond prices.
 2. **Time to Maturity**: Longer maturity bonds are more sensitive to interest rate changes due to their longer duration.
-3. **Credit Quality of Issuer**: The issuer's creditworthiness affects the required yield to maturity; lower credit ratings require higher yields, decreasing the bond price.
+3. **Credit Quality of Issuer**: The issuer's creditworthiness affects the required [yield to maturity](../y/yield_to_maturity.md); lower credit ratings require higher yields, decreasing the bond price.
 4. **Market Demand**: Changes in investor demand for zero coupon bonds can lead to price fluctuations.
 
 ### Practical Applications and Uses
@@ -61,4 +61,4 @@ While zero coupon bonds offer distinct advantages, they also come with risks:
 
 ### Conclusion
 
-Zero coupon bond valuation is a critical concept for financial professionals and investors alike, providing insight into the present value of future cash flows. These bonds offer unique benefits for long-term investment strategies and specific financial applications but require careful consideration of interest rates, time to maturity, and tax implications. Mastery of zero coupon bond valuation techniques allows investors to make informed decisions and optimize their investment portfolios based on their financial goals and market conditions.
+Zero coupon bond valuation is a critical concept for financial professionals and investors alike, providing insight into the present value of future cash flows. These bonds offer unique benefits for long-term investment strategies and specific financial applications but require careful consideration of interest rates, time to maturity, and tax implications. Mastery of zero coupon bond [valuation techniques](../v/valuation_techniques.md) allows investors to make informed decisions and optimize their investment portfolios based on their financial goals and market conditions.

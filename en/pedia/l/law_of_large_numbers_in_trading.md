@@ -1,6 +1,6 @@
 # Law of Large Numbers in Trading
 
-The Law of Large Numbers (LLN) is a fundamental principle in probability theory and statistics, which states that as the size of a sample increases, the sample mean will get closer to the expected value. In the context of trading, particularly algorithmic trading, the LLN has significant implications for strategy development, risk management, and the evaluation of trading performance. This article provides a detailed exposition of the LLN and its application in trading.
+The Law of Large Numbers (LLN) is a fundamental principle in probability theory and statistics, which states that as the size of a sample increases, the sample mean will get closer to the expected value. In the context of trading, particularly [algorithmic trading](../a/algorithmic_trading.md), the LLN has significant implications for strategy development, [risk management](../r/risk_management.md), and the evaluation of [trading performance](../t/trading_performance.md). This article provides a detailed exposition of the LLN and its application in trading.
 
 ## Introduction to Law of Large Numbers (LLN)
 
@@ -26,27 +26,27 @@ Both forms underscore the idea that as the sample size \(n\) increases, the samp
 
 ## Application of LLN in Trading
 
-In trading, particularly in algorithmic trading, the LLN plays a pivotal role in the development and evaluation of trading strategies. Traders and analysts rely on LLN to ensure that their strategies are statistically sound and will perform consistently over time.
+In trading, particularly in [algorithmic trading](../a/algorithmic_trading.md), the LLN plays a pivotal role in the development and evaluation of [trading strategies](../t/trading_strategies.md). Traders and analysts rely on LLN to ensure that their strategies are statistically sound and will perform consistently over time.
 
 ### 1. Strategy Development
 
-When developing trading strategies, especially those based on quantitative models, it is crucial to gather a large sample of historical data to estimate the expected returns and other performance metrics accurately. By leveraging the LLN, traders can ensure that their sample mean (historical performance) is a reliable estimate of the true mean (expected future performance).
+When developing [trading strategies](../t/trading_strategies.md), especially those based on [quantitative models](../q/quantitative_models.md), it is crucial to gather a large sample of historical data to estimate the expected returns and other [performance metrics](../p/performance_metrics.md) accurately. By leveraging the LLN, traders can ensure that their sample mean (historical performance) is a reliable estimate of the true mean (expected future performance).
 
 #### Example
 
-Suppose a trader develops a strategy based on mean reversion, where the strategy assumes that stock prices will revert to their long-term mean. By backtesting the strategy on a large dataset of historical prices, the trader can use LLN to ascertain that the average returns over a large number of trades will reflect the true expected returns.
+Suppose a trader develops a strategy based on [mean reversion](../m/mean_reversion.md), where the strategy assumes that stock prices will revert to their long-term mean. By [backtesting](../b/backtesting.md) the strategy on a large dataset of historical prices, the trader can use LLN to ascertain that the average returns over a large number of trades will reflect the true expected returns.
 
 ### 2. Risk Management
 
-Effective risk management is integral to successful trading. LLN is fundamental in calculating the statistical properties of a portfolio, such as the average return, standard deviation, and Value-at-Risk (VaR). These metrics depend on having a large sample size to be precise and reliable.
+Effective [risk management](../r/risk_management.md) is integral to successful trading. LLN is fundamental in calculating the statistical properties of a portfolio, such as the average return, standard deviation, and Value-at-Risk (VaR). These metrics depend on having a large sample size to be precise and reliable.
 
 #### Example
 
-Consider a portfolio manager who needs to determine the historical volatility of a portfolio. By using a large dataset of historical returns, the manager can employ LLN to provide an accurate estimate of the average volatility, which is critical for setting risk limits and constructing hedging strategies.
+Consider a portfolio manager who needs to determine the [historical volatility](../h/historical_volatility.md) of a portfolio. By using a large dataset of historical returns, the manager can employ LLN to provide an accurate estimate of the average volatility, which is critical for setting risk limits and constructing [hedging strategies](../h/hedging_strategies.md).
 
 ### 3. Evaluation of Trading Performance
 
-Evaluating the performance of trading strategies requires distinguishing between short-term fluctuations and long-term profitability. LLN helps in this differentiation by emphasizing the importance of a large number of trades to ascertain the strategy’s true performance.
+Evaluating the performance of [trading strategies](../t/trading_strategies.md) requires distinguishing between short-term fluctuations and long-term profitability. LLN helps in this differentiation by emphasizing the importance of a large number of trades to ascertain the strategy’s true performance.
 
 #### Example
 
@@ -66,7 +66,7 @@ While the LLN provides theoretical assurance of convergence to the expected valu
 
 ### 1. Data Quality
 
-High-quality data is essential for applying LLN in trading. Inaccurate or incomplete historical data can lead to erroneous conclusions about the performance and risk of trading strategies.
+High-quality data is essential for applying LLN in trading. Inaccurate or incomplete historical data can lead to erroneous conclusions about the performance and risk of [trading strategies](../t/trading_strategies.md).
 
 ### 2. Sample Size
 
@@ -84,12 +84,12 @@ Market conditions are subject to change due to factors such as economic events, 
 
 ### Case Study 1: Trend-Following Strategy
 
-A hedge fund employs a trend-following strategy that buys stocks when their prices are rising and sells when they are falling. By backtesting this strategy over multiple decades of data across various markets, the fund uses LLN to ensure that the historical returns are a reliable estimate of future performance. They observe that over thousands of trades, the average return stabilizes, validating their strategy.
+A hedge fund employs a trend-following strategy that buys stocks when their prices are rising and sells when they are falling. By [backtesting](../b/backtesting.md) this strategy over multiple decades of data across various markets, the fund uses LLN to ensure that the historical returns are a reliable estimate of future performance. They observe that over thousands of trades, the average return stabilizes, validating their strategy.
 
 ### Case Study 2: High-Frequency Trading (HFT)
 
-A high-frequency trading firm implements an algorithm that conducts thousands of trades per day. The firm relies on LLN to evaluate the performance metrics of the algorithm. They analyze millions of trades to determine the average return, win rate, and risk metrics. The LLN helps them ascertain that despite short-term volatility, the algorithm performs as expected on average.
+A high-frequency trading firm implements an algorithm that conducts thousands of trades per day. The firm relies on LLN to evaluate the [performance metrics](../p/performance_metrics.md) of the algorithm. They analyze millions of trades to determine the average return, win rate, and [risk metrics](../r/risk_metrics.md). The LLN helps them ascertain that despite short-term volatility, the algorithm performs as expected on average.
 
 ## Conclusion
 
-The Law of Large Numbers is a powerful tool in the arsenal of traders and investors. Its application spans strategy development, risk management, performance evaluation, and portfolio diversification. By understanding and leveraging the LLN, traders can enhance the robustness and reliability of their trading strategies, ensuring their decisions are based on sound statistical principles. However, practical considerations such as data quality, sample size, stationarity, and changing market dynamics must be carefully managed to fully capitalize on the benefits of LLN in trading.
+The Law of Large Numbers is a powerful tool in the arsenal of traders and investors. Its application spans strategy development, [risk management](../r/risk_management.md), performance evaluation, and [portfolio diversification](../p/portfolio_diversification.md). By understanding and leveraging the LLN, traders can enhance the robustness and reliability of their [trading strategies](../t/trading_strategies.md), ensuring their decisions are based on sound statistical principles. However, practical considerations such as data quality, sample size, stationarity, and changing market dynamics must be carefully managed to fully capitalize on the benefits of LLN in trading.

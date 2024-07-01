@@ -10,7 +10,7 @@ A knowledge graph is a structured representation of data that connects different
 
 Key components of a knowledge graph include:
 
-- **Nodes**: These represent entities or objects, such as stocks, companies, economic indicators, and investors.
+- **Nodes**: These represent entities or objects, such as stocks, companies, [economic indicators](../e/economic_indicators.md), and investors.
 - **Edges**: These are the connections between nodes, defining the relationships and interactions between entities.
 - **Attributes**: These are properties or characteristics of nodes and edges, such as the stock price of a company or the date of a financial transaction.
 
@@ -18,23 +18,23 @@ Key components of a knowledge graph include:
 
 Knowledge graphs can be applied to various aspects of trading to enhance decision-making and strategy development:
 
-1. **Data Integration and Linking**: Knowledge graphs enable the integration of disparate data sources, linking entity information across financial statements, news articles, social media, and market data. This creates a unified view that can uncover hidden relationships and insights.
+1. **[Data Integration](../d/data_integration.md) and Linking**: Knowledge graphs enable the integration of disparate data sources, linking entity information across financial statements, news articles, social media, and market data. This creates a unified view that can uncover hidden relationships and insights.
 
 2. **Semantic Search and Discovery**: Traders can use knowledge graphs to perform semantic searches, allowing them to find relevant information based on the context rather than just keywords. This capability is crucial for uncovering nuanced insights that textual search methods might miss.
 
-3. **Risk Management**: By mapping out the interconnectedness of entities and their relationships, knowledge graphs help in identifying potential risk factors and exposure. This is particularly useful for understanding the cascading effects of market events on related entities.
+3. **[Risk Management](../r/risk_management.md)**: By mapping out the interconnectedness of entities and their relationships, knowledge graphs help in identifying potential risk factors and exposure. This is particularly useful for understanding the cascading effects of market events on related entities.
 
-4. **Market Sentiment Analysis**: Knowledge graphs can be used to analyze sentiment from various sources, such as news articles, social media, and analyst reports. By connecting sentiment data to entities in the graph, traders can get a clearer picture of market sentiment and react accordingly.
+4. **[Market Sentiment Analysis](../m/market_sentiment_analysis.md)**: Knowledge graphs can be used to analyze sentiment from various sources, such as news articles, social media, and analyst reports. By connecting sentiment data to entities in the graph, traders can get a clearer picture of market sentiment and react accordingly.
 
 5. **Event Detection and Impact Analysis**: Knowledge graphs can track events (earnings releases, political developments, etc.) and their potential impacts on related entities. This can help traders anticipate market movements and adjust their strategies in advance.
 
-6. **Portfolio Management**: By leveraging knowledge graphs, traders can ensure better diversification and risk assessment in portfolio management by understanding the underlying relationships between different assets.
+6. **[Portfolio Management](../p/portfolio_management.md)**: By leveraging knowledge graphs, traders can ensure better diversification and risk assessment in [portfolio management](../p/portfolio_management.md) by understanding the underlying relationships between different assets.
 
 ## Industry Applications and Examples
 
 ### Financial Institutions
 
-Several financial institutions have started integrating knowledge graphs into their trading and analysis platforms. For example, JPMorgan Chase utilizes knowledge graphs to enhance data organization and support advanced analytics for trading strategies.
+Several financial institutions have started integrating knowledge graphs into their trading and analysis platforms. For example, JPMorgan Chase utilizes knowledge graphs to enhance data organization and support advanced analytics for [trading strategies](../t/trading_strategies.md).
 
 ### Fintech Companies
 
@@ -50,7 +50,7 @@ Implementing knowledge graphs in trading involves several steps:
 
 1. **Data Collection**: Gather data from multiple sources such as financial databases, news feeds, and proprietary systems.
 
-2. **Data Cleaning and Normalization**: Clean and normalize data to ensure consistency and accuracy of the information.
+2. **[Data Cleaning](../d/data_cleaning.md) and Normalization**: Clean and normalize data to ensure consistency and accuracy of the information.
 
 3. **Entity Recognition and Linking**: Identify entities (e.g., companies, stocks) within the data and establish their connections.
 
@@ -75,7 +75,7 @@ Several tools and technologies support the development and use of knowledge grap
 
 - **Graph Databases**: Examples include Neo4j, Amazon Neptune, and Microsoft Azure Cosmos DB.
 - **Semantic Web Technologies**: RDF, SPARQL, and OWL are standards for representing and querying knowledge graphs.
-- **Machine Learning and NLP**: Algorithms for entity recognition, relationship extraction, and sentiment analysis are crucial for building and enriching knowledge graphs.
+- **Machine Learning and NLP**: Algorithms for entity recognition, relationship extraction, and [sentiment analysis](../s/sentiment_analysis.md) are crucial for building and enriching knowledge graphs.
 
 ## Challenges and Considerations
 
@@ -90,9 +90,9 @@ There are some challenges and considerations when implementing knowledge graphs 
 
 The use of knowledge graphs in trading is expected to grow as the technology matures and more advanced tools become available. Future trends include:
 
-- **Integration with AI**: Combining knowledge graphs with AI and machine learning can enhance predictive analytics and automated trading strategies.
+- **Integration with AI**: Combining knowledge graphs with AI and machine learning can enhance [predictive analytics](../p/predictive_analytics.md) and automated [trading strategies](../t/trading_strategies.md).
 - **Real-time Analysis**: Developing real-time knowledge graphs that update dynamically with live data feeds to provide instantaneous insights.
-- **Cross-domain Applications**: Expanding the use of knowledge graphs beyond trading into areas like risk management, compliance, and financial planning.
+- **Cross-domain Applications**: Expanding the use of knowledge graphs beyond trading into areas like [risk management](../r/risk_management.md), compliance, and [financial planning](../f/financial_planning.md).
 
 ## Conclusion
 

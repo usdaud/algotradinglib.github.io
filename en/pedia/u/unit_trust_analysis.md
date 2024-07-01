@@ -1,6 +1,6 @@
 # Unit Trust Analysis
 
-Unit Trusts, also known as mutual funds, are collective investment schemes designed to pool capital from multiple investors to invest in a diversified portfolio of securities. This investment approach allows individual investors to gain access to a wide variety of asset classes which they might not be able to invest in directly due to lack of capital, knowledge, or resources. Unit Trusts are managed by professional fund managers who allocate the pooled funds according to the fund's stated objectives and strategies.
+[Unit Trusts](../u/unit_trusts.md), also known as mutual funds, are collective investment schemes designed to pool capital from multiple investors to invest in a diversified portfolio of securities. This investment approach allows individual investors to gain access to a wide variety of asset classes which they might not be able to invest in directly due to lack of capital, knowledge, or resources. [Unit Trusts](../u/unit_trusts.md) are managed by professional fund managers who allocate the pooled funds according to the fund's stated objectives and strategies.
 
 ## Structure and Mechanisms
 
@@ -24,7 +24,7 @@ The value of a unit in a Unit Trust is known as the Net Asset Value (NAV), which
 
 ## Types of Unit Trusts
 
-Unit Trusts can invest in various asset classes and instruments based on their designated objectives. Some common types include:
+[Unit Trusts](../u/unit_trusts.md) can invest in various asset classes and instruments based on their designated objectives. Some common types include:
 
 **1. Equity Funds**: These funds invest primarily in stocks and are aimed at generating capital appreciation over the medium to long-term. They can be further classified into large-cap, mid-cap, and small-cap funds based on the market capitalization of the companies they invest in.
 
@@ -38,19 +38,19 @@ Unit Trusts can invest in various asset classes and instruments based on their d
 
 **6. Sector Funds**: These funds focus on specific sectors or industries, such as technology, healthcare, or energy. They carry higher risk due to their narrow focus but can offer substantial returns if the sector performs well.
 
-**7. International Funds**: These funds invest in securities from global markets outside of the investor’s home country. They provide diversification benefits but also come with currency and geopolitical risks.
+**7. International Funds**: These funds invest in securities from global markets outside of the investor’s home country. They provide [diversification benefits](../d/diversification_benefits.md) but also come with currency and geopolitical risks.
 
 ## Performance and Analysis
 
 ### Evaluating Performance
 
-Evaluating the performance of Unit Trusts involves assessing both qualitative and quantitative factors. Here are some metrics and considerations:
+Evaluating the performance of [Unit Trusts](../u/unit_trusts.md) involves assessing both qualitative and quantitative factors. Here are some metrics and considerations:
 
 **1. Historical Performance**: Examining the fund’s historical returns compared to its benchmark and peers. It includes analyzing annual returns, compounded annual growth rate (CAGR), and risk-adjusted returns.
 
 **2. Volatility**: Analyzing the fund’s volatility through standard deviation and beta. A higher standard deviation indicates greater volatility, while beta measures the fund’s sensitivity to market movements.
 
-**3. Sharpe Ratio**: This ratio measures the risk-adjusted return of a fund. A higher Sharpe ratio indicates that the fund has provided higher returns for a given level of risk.
+**3. [Sharpe Ratio](../s/sharpe_ratio.md)**: This ratio measures the [risk-adjusted return](../r/risk-adjusted_return.md) of a fund. A higher [Sharpe ratio](../s/sharpe_ratio.md) indicates that the fund has provided higher returns for a given level of risk.
 
 **4. Expense Ratio**: The annual fee charged by the fund for management and operating expenses. Lower expense ratios are preferable as they do not erode returns significantly.
 
@@ -66,10 +66,10 @@ Evaluating the performance of Unit Trusts involves assessing both qualitative an
 
 Several tools and software programs assist in Unit Trust analysis. They provide comprehensive data, analytics, and performance tracking:
 
-**1. Morningstar**: Offers extensive research and analysis tools, including star ratings, performance metrics, and risk assessments.
+**1. Morningstar**: Offers extensive research and analysis tools, including star ratings, [performance metrics](../p/performance_metrics.md), and risk assessments.
    - [Morningstar](https://www.morningstar.com/)
 
-**2. Bloomberg**: Provides advanced financial analytics, data visualization, and market insights.
+**2. Bloomberg**: Provides advanced financial analytics, [data visualization](../d/data_visualization.md), and market insights.
    - [Bloomberg](https://www.bloomberg.com/)
 
 **3. Lipper**: A Thomson Reuters company providing mutual fund analysis, rankings, and intelligence.
@@ -78,14 +78,14 @@ Several tools and software programs assist in Unit Trust analysis. They provide 
 **4. FactSet**: Offers integrated data and analytics to collect, manage, and analyze financial information.
    - [FactSet](https://www.factset.com/)
 
-**5. Portfolio Visualizer**: An online tool to backtest portfolios, analyze asset correlations, and assess performance metrics.
+**5. Portfolio Visualizer**: An online tool to backtest portfolios, analyze asset correlations, and assess [performance metrics](../p/performance_metrics.md).
    - [Portfolio Visualizer](https://www.portfoliovisualizer.com/)
 
 ## Advantages and Disadvantages
 
 ### Advantages
 
-**1. Diversification**: Unit Trusts invest in a wide range of securities, reducing the risk associated with individual investments.
+**1. Diversification**: [Unit Trusts](../u/unit_trusts.md) invest in a wide range of securities, reducing the risk associated with individual investments.
 
 **2. Professional Management**: Experienced fund managers make informed decisions, aiming to optimize returns and manage risks effectively.
 
@@ -99,17 +99,17 @@ Several tools and software programs assist in Unit Trust analysis. They provide 
 
 **1. Fees and Expenses**: Management fees, transaction costs, and other expenses can reduce net returns.
 
-**2. Lack of Control**: Investors have limited control over the fund’s investment decisions and asset allocation.
+**2. Lack of Control**: Investors have limited control over the fund’s investment decisions and [asset allocation](../a/asset_allocation.md).
 
 **3. Potential for Underperformance**: Despite professional management, there is no guarantee that the fund will outperform the market or its benchmark.
 
 **4. Tax Implications**: Investors may incur capital gains taxes on distributions even if they do not sell their units.
 
-**5. Market Risks**: Unit Trusts are subject to market volatility and risks associated with the underlying assets.
+**5. Market Risks**: [Unit Trusts](../u/unit_trusts.md) are subject to market volatility and risks associated with the underlying assets.
 
 ## Regulatory Environment
 
-Unit Trusts are subject to regulatory oversight to ensure transparency, protect investors, and maintain market integrity. Regulatory requirements vary by jurisdiction, but common aspects include:
+[Unit Trusts](../u/unit_trusts.md) are subject to regulatory oversight to ensure transparency, protect investors, and maintain market integrity. Regulatory requirements vary by jurisdiction, but common aspects include:
 
 **1. Disclosure**: Regular reporting of financial performance, portfolio holdings, and risk factors to investors.
 
@@ -140,4 +140,4 @@ Unit Trusts are subject to regulatory oversight to ensure transparency, protect 
 
 ## Conclusion
 
-Unit Trusts offer investors an accessible way to participate in the financial markets with the benefit of professional management and diversification. While they come with certain costs and risks, their advantages often outweigh the drawbacks for many investors. Proper analysis, informed decision-making, and regular monitoring are crucial for maximizing the benefits of investing in Unit Trusts.
+[Unit Trusts](../u/unit_trusts.md) offer investors an accessible way to participate in the financial markets with the benefit of professional management and diversification. While they come with certain costs and risks, their advantages often outweigh the drawbacks for many investors. Proper analysis, informed decision-making, and regular monitoring are crucial for maximizing the benefits of investing in [Unit Trusts](../u/unit_trusts.md).

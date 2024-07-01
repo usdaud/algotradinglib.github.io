@@ -15,7 +15,7 @@ Traditional market capitalization has its drawbacks because it includes all shar
 2. **Governments:** In some cases, governments may hold substantial amounts of shares, often as part of privatization or as a strategic investment.
 3. **Founders and Strategic Entities:** Founders, venture capitalists, and other pre-IPO investors may hold significant shares that are often subject to lock-in periods.
    
-This inclusion of non-tradable shares can distort the perceived value and liquidity risk of a company’s stock, making it seem more liquid than it actually is.
+This inclusion of non-tradable shares can distort the perceived value and [liquidity risk](../l/liquidity_risk.md) of a company’s stock, making it seem more liquid than it actually is.
 
 ## Calculating Float-Adjusted Market Capitalization
 Float-adjusted market capitalization refines this calculation by excluding shares that are not available for public trading. This offers a more realistic view of a company's market value from an investment perspective.
@@ -38,7 +38,7 @@ For example, the S&P 500 introduced float-adjusted market capitalization methodo
 Float-adjusted market capitalization has several implications for both passive and active investment strategies:
 
 1. **Index Funds:** Many index funds use float-adjusted weights to allocate investments. This makes the index less susceptible to price manipulation since non-tradable shares are excluded.
-2. **Liquidity Assessment:** Investors can get a clearer picture of a stock's liquidity risk, as the calculation does not include shares that are unlikely to be traded.
+2. **Liquidity Assessment:** Investors can get a clearer picture of a stock's [liquidity risk](../l/liquidity_risk.md), as the calculation does not include shares that are unlikely to be traded.
 3. **Valuation Accuracy:** A more accurate valuation metric allows for better comparison between companies, especially in sectors where insider ownership can be substantial, like technology or pharmaceuticals.
 
 ## Case Studies
@@ -53,4 +53,4 @@ Tesla is another interesting example, given the significant amount of shares hel
 Details about Tesla's shareholding structure can be accessed on [Tesla’s Investor Relations site](https://ir.tesla.com/).
 
 ## Conclusion
-Float-adjusted market capitalization is an essential metric for providing a more realistic view of a company's market value and liquidity risk. It is indispensable for index construction and is highly beneficial for various investment strategies. By excluding non-tradable shares, this metric ensures that investors and funds get an accurate picture of the stocks they are interested in, allowing for more informed decision-making.
+Float-adjusted market capitalization is an essential metric for providing a more realistic view of a company's market value and [liquidity risk](../l/liquidity_risk.md). It is indispensable for [index construction](../i/index_construction.md) and is highly beneficial for various investment strategies. By excluding non-tradable shares, this metric ensures that investors and funds get an accurate picture of the stocks they are interested in, allowing for more informed decision-making.

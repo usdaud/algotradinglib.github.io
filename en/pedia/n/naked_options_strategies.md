@@ -5,10 +5,10 @@ Naked options strategies involve selling options contracts without holding the u
 ## Types of Naked Options Strategies
 
 ### 1. Naked Call Writing (Short Call)
-In a naked call writing strategy, the trader sells call options without owning the underlying stock. This is highly speculative since losses can be theoretically unlimited if the stock price rises significantly above the strike price. The primary goal is to profit from the premium received and the stock remaining below the strike price by expiration.
+In a [naked call writing](../n/naked_call_writing.md) strategy, the trader sells call options without owning the underlying stock. This is highly speculative since losses can be theoretically unlimited if the stock price rises significantly above the strike price. The primary goal is to profit from the premium received and the stock remaining below the strike price by expiration.
 
 ### 2. Naked Put Writing (Short Put)
-With a naked put writing strategy, the trader sells put options without having a short position in the underlying stock or enough cash to purchase the stock if assigned. The aim is to collect the premium, betting that the stock price stays above the strike price. While the maximum loss is limited to the stock price falling to zero, it can still be substantial.
+With a [naked put writing](../n/naked_put_writing.md) strategy, the trader sells [put options](../p/put_options.md) without having a short position in the underlying stock or enough cash to purchase the stock if assigned. The aim is to collect the premium, betting that the stock price stays above the strike price. While the maximum loss is limited to the stock price falling to zero, it can still be substantial.
 
 ## Risks Involved in Naked Options Strategies
 
@@ -35,10 +35,10 @@ Naked options strategies offer flexibility since traders are not tied to holding
 ## Key Considerations
 
 ### Understanding the Market
-Knowledge of the broader market trends and the particular stock is crucial. Traders need to evaluate market sentiment, upcoming corporate events, and economic indicators to anticipate price movements accurately.
+Knowledge of the broader market trends and the particular stock is crucial. Traders need to evaluate market sentiment, upcoming corporate events, and [economic indicators](../e/economic_indicators.md) to anticipate price movements accurately.
 
 ### Prudent Risk Management
-Effective risk management entails setting proper stop-loss levels, monitoring positions closely, and having a clear exit strategy. Since naked options can lead to heavy losses, it's imperative to adopt risk mitigation techniques.
+Effective [risk management](../r/risk_management.md) entails setting proper stop-loss levels, monitoring positions closely, and having a clear exit strategy. Since naked options can lead to heavy losses, it's imperative to adopt risk mitigation techniques.
 
 ### Managing Emotions
 Trading in inherently risky instruments like naked options requires emotional discipline. Traders should maintain composure under pressure and avoid impulsive decisions influenced by short-term market fluctuations.
@@ -46,12 +46,12 @@ Trading in inherently risky instruments like naked options requires emotional di
 ## Case Study: High-frequency Trading Firms’ Use of Naked Options
 
 ### Citadel Securities
-[Citadel Securities](https://www.citadelsecurities.com) is a prominent market-maker known for employing sophisticated trading strategies, including options. They use advanced algorithms to manage risks associated with naked options while exploiting market inefficiencies.
+[Citadel Securities](https://www.citadelsecurities.com) is a prominent market-maker known for employing sophisticated [trading strategies](../t/trading_strategies.md), including options. They use advanced algorithms to manage risks associated with naked options while exploiting market inefficiencies.
 
 ### Susquehanna International Group (SIG)
-[Susquehanna International Group](https://www.sig.com) is another major player that actively engages in options trading. They blend quantitative models with strategic naked options trades, driven by in-depth statistical analysis and proprietary trading technologies.
+[Susquehanna International Group](https://www.sig.com) is another major player that actively engages in options trading. They blend [quantitative models](../q/quantitative_models.md) with strategic naked options trades, driven by in-depth statistical analysis and [proprietary trading](../p/proprietary_trading.md) technologies.
 
 ## Conclusion
 
-Naked options strategies can be lucrative but require adept risk management and robust market understanding. While they offer potential for significant premium collection and flexibility, the risks are substantial, necessitating disciplined trading practices. Traders engaging in naked options need to balance potential rewards against the inherent risks, all while maintaining a solid strategy for navigating volatile markets.
+Naked options strategies can be lucrative but require adept [risk management](../r/risk_management.md) and robust market understanding. While they offer potential for significant premium collection and flexibility, the risks are substantial, necessitating disciplined trading practices. Traders engaging in naked options need to balance potential rewards against the inherent risks, all while maintaining a solid strategy for navigating volatile markets.
 

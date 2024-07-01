@@ -1,6 +1,6 @@
 # Rolling Beta Analysis
 
-Rolling Beta Analysis is a financial metric used in the field of quantitative finance and algorithmic trading to measure the sensitivity of an asset's returns relative to a chosen benchmark over a specified rolling window of time. This analysis assists in understanding how the asset's risk profile changes over time, offering valuable insights for portfolio management, risk assessment, and investment strategies.
+Rolling Beta Analysis is a financial metric used in the field of [quantitative finance](../q/quantitative_finance.md) and [algorithmic trading](../a/algorithmic_trading.md) to measure the sensitivity of an asset's returns relative to a chosen benchmark over a specified rolling window of time. This analysis assists in understanding how the asset's risk profile changes over time, offering valuable insights for [portfolio management](../p/portfolio_management.md), risk assessment, and investment strategies.
 
 ## Definition of Beta
 Beta (β) is a measure of an asset’s volatility in relation to the market. It indicates the degree to which an asset's returns will move in relation to the market returns. Specifically:
@@ -28,8 +28,8 @@ Rolling Beta involves recalculating the beta of an asset over multiple overlappi
    - Define the rolling window size and the step size.
 
 4. **Beta Calculation within Each Window**:
-   - For each rolling window, fit a linear regression model: \( R_{asset} = \alpha + \beta \cdot R_{benchmark} + \epsilon \)
-   - Extract the beta coefficient (β) from the regression output.
+   - For each rolling window, fit a [linear regression](../l/linear_regression.md) model: \( R_{asset} = \alpha + \beta \cdot R_{benchmark} + \epsilon \)
+   - Extract the [beta coefficient](../b/beta_coefficient.md) (β) from the regression output.
 
 5. **Store and Plot Rolling Betas**:
    - Store the calculated betas for each rolling window end point.
@@ -70,19 +70,19 @@ plt.show()
 ## Applications of Rolling Beta Analysis
 
 ### Portfolio Management
-Investors and fund managers use rolling beta to refine portfolio construction by understanding how individual asset betas evolve, thus enabling dynamic risk management.
+Investors and fund managers use rolling beta to refine portfolio construction by understanding how individual asset betas evolve, thus enabling dynamic [risk management](../r/risk_management.md).
 
 ### Risk Assessment
 By observing changes in rolling beta, risk analysts can detect structural changes in asset behavior, helping to anticipate increased volatility or shifts in market sensitivity.
 
 ### Algorithmic Trading
-Rolling beta analysis can support algorithmic trading strategies by providing insights into the changing risk profile of assets, assisting in the optimization of trade execution strategies.
+Rolling beta analysis can support [algorithmic trading](../a/algorithmic_trading.md) strategies by providing insights into the changing risk profile of assets, assisting in the optimization of trade execution strategies.
 
 ### Diversification Strategy
-Rolling beta helps identify periods when an asset may offer diversification benefits relative to the market, aiding in strategic asset allocation.
+Rolling beta helps identify periods when an asset may offer [diversification benefits](../d/diversification_benefits.md) relative to the market, aiding in strategic [asset allocation](../a/asset_allocation.md).
 
 ### Detecting Market Anomalies
-Analyzing rolling beta can reveal periods of abnormal behavior or market anomalies, guiding traders to potential profit opportunities.
+Analyzing rolling beta can reveal periods of abnormal behavior or [market anomalies](../m/market_anomalies.md), guiding traders to potential profit opportunities.
 
 ## Challenges and Considerations
 
@@ -96,10 +96,10 @@ High-quality and high-frequency data is essential for accurate beta calculation;
 Understanding the economic or market reasons behind changes in rolling beta requires strong domain knowledge and contextual analysis.
 
 ### Model Assumptions
-The linear regression model assumes a linear relationship between the asset and the benchmark, which might not hold in all market conditions.
+The [linear regression](../l/linear_regression.md) model assumes a linear relationship between the asset and the benchmark, which might not hold in all market conditions.
 
 ## Conclusion
-Rolling Beta Analysis is a robust tool that provides dynamic insights into the relationship between an asset and its benchmark. By offering a time-varying perspective on risk and sensitivity, it enhances decision-making in portfolio management, risk assessment, and algorithmic trading strategies. While it presents challenges in terms of parameter selection and data quality, its benefits make it an indispensable part of financial analysis and modeling.
+Rolling Beta Analysis is a robust tool that provides dynamic insights into the relationship between an asset and its benchmark. By offering a time-varying perspective on risk and sensitivity, it enhances decision-making in [portfolio management](../p/portfolio_management.md), risk assessment, and [algorithmic trading](../a/algorithmic_trading.md) strategies. While it presents challenges in terms of parameter selection and data quality, its benefits make it an indispensable part of financial analysis and modeling.
 
 For further information or to utilize sophisticated rolling beta tools and services, you can explore financial data providers and analytical platforms:
 

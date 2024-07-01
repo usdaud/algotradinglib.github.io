@@ -1,6 +1,6 @@
 # Passive Investment Strategies
 
-Passive investment strategies have garnered significant attention among both institutional and retail investors due to their simplicity, cost-effectiveness, and successful performance through various market cycles. These strategies focus on long-term gains by replicating the performance of market indices rather than attempting to outperform them through frequent trading or active management. This document provides a comprehensive overview of passive investment strategies, covering various types of passive investing, benefits and limitations, popular index funds and ETFs, and the role of technology and algorithmic trading in enhancing these investment approaches.
+Passive investment strategies have garnered significant attention among both institutional and retail investors due to their simplicity, cost-effectiveness, and successful performance through various [market cycles](../m/market_cycles.md). These strategies focus on long-term gains by replicating the performance of market indices rather than attempting to outperform them through frequent trading or active management. This document provides a comprehensive overview of passive investment strategies, covering various types of passive investing, benefits and limitations, popular index funds and ETFs, and the role of technology and [algorithmic trading](../a/algorithmic_trading.md) in enhancing these investment approaches.
 
 ## Types of Passive Investment Strategies
 
@@ -14,7 +14,7 @@ Passive investment strategies have garnered significant attention among both ins
 
 ### Buy and Hold Strategy
 
-The **buy and hold strategy** involves purchasing stocks, bonds, or other investments and holding them for an extended period, regardless of market fluctuations. This approach relies on the notion that, over the long term, markets tend to rise in value. Investors benefit from the accumulation of dividends, interest, and capital gains, while avoiding the costs associated with frequent trading.
+The **[buy and hold strategy](../b/buy_and_hold_strategy.md)** involves purchasing stocks, bonds, or other investments and holding them for an extended period, regardless of market fluctuations. This approach relies on the notion that, over the long term, markets tend to rise in value. Investors benefit from the accumulation of dividends, interest, and capital gains, while avoiding the costs associated with frequent trading.
 
 ### Systematic Investment Plans (SIPs)
 
@@ -22,7 +22,7 @@ The **buy and hold strategy** involves purchasing stocks, bonds, or other invest
 
 ### Dollar-Cost Averaging (DCA)
 
-**Dollar-Cost Averaging (DCA)** is an investment technique where an investor divides the total amount to be invested across periodic purchases of a target asset. By consistently investing the same amount, regardless of asset price, DCA reduces the risk of making poor investment decisions based on market timing.
+**Dollar-Cost Averaging (DCA)** is an investment technique where an investor divides the total amount to be invested across periodic purchases of a target asset. By consistently investing the same amount, regardless of asset price, DCA reduces the risk of making poor investment decisions based on [market timing](../m/market_timing.md).
 
 ### Automated Investment Services
 
@@ -108,15 +108,15 @@ SCHB seeks to track the performance of the Dow Jones U.S. Broad Stock Market Ind
 
 ### Algorithmic Index Tracking
 
-Algorithmic trading has revolutionized passive investing by enhancing the efficiency and accuracy of index tracking. Algorithms can automatically rebalance portfolios to align with their respective indices, minimizing tracking errors and ensuring accurate replication.
+[Algorithmic trading](../a/algorithmic_trading.md) has revolutionized passive investing by enhancing the efficiency and accuracy of index tracking. Algorithms can automatically rebalance portfolios to align with their respective indices, minimizing tracking errors and ensuring accurate replication.
 
 ### Robo-Advisors
 
-Robo-advisors have made passive investing accessible to a wider audience by offering personalized portfolio management services at a fraction of the cost of traditional financial advisors. These platforms use algorithms to assess an investor's risk profile and goals, creating and managing a diversified portfolio tailored to their needs.
+Robo-advisors have made passive investing accessible to a wider audience by offering personalized [portfolio management](../p/portfolio_management.md) services at a fraction of the cost of traditional financial advisors. These platforms use algorithms to assess an investor's risk profile and goals, creating and managing a diversified portfolio tailored to their needs.
 
 ### High-Frequency Trading (HFT)
 
-High-frequency trading is used by some ETFs and index funds to improve liquidity and reduce trading costs. By executing a large number of trades in milliseconds, HFT can narrow bid-ask spreads and enhance price discovery, benefiting passive investors with lower transaction costs.
+High-frequency trading is used by some ETFs and index funds to improve liquidity and reduce [trading costs](../t/trading_costs.md). By executing a large number of trades in milliseconds, HFT can narrow bid-ask spreads and enhance price discovery, benefiting passive investors with lower transaction costs.
 
 ### Big Data and Machine Learning
 
@@ -130,4 +130,4 @@ Blockchain technology and the tokenization of assets have the potential to furth
 
 Passive investment strategies have proven to be a reliable and cost-effective way for investors to achieve long-term financial goals. By focusing on broad market exposure and minimizing costs, these strategies offer a compelling alternative to active management. Technological advancements continue to enhance the efficiency and accessibility of passive investing, making it an increasingly attractive option for a diverse range of investors.
 
-Despite their limitations, passive investment strategies remain a cornerstone of modern portfolio management. Their simplicity, transparency, and consistent performance have cemented their place in the investment landscape, offering a viable path to wealth accumulation for individuals and institutions alike.
+Despite their limitations, passive investment strategies remain a cornerstone of modern [portfolio management](../p/portfolio_management.md). Their simplicity, transparency, and consistent performance have cemented their place in the investment landscape, offering a viable path to wealth accumulation for individuals and institutions alike.

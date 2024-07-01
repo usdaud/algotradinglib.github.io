@@ -28,25 +28,25 @@ The release of the NFP report often leads to significant volatility in financial
 Traders may position themselves ahead of the NFP release based on expected outcomes. This involves market analysis, interpreting economic forecasts, and prior trends. Some common strategies include:
 
 - **Going Long or Short on USD:** Based on anticipated NFP results compared to forecasts.
-- **Hedging Positions:** Using options or other derivatives to mitigate risk.
+- **Hedging Positions:** Using options or other [derivatives](../d/derivatives.md) to mitigate risk.
 
 ### 2. Trading the Spike
 
 Upon the release of the NFP data, traders react to the immediate market volatility. Strategies for trading the spike include:
 
 - **Scalping:** Making quick trades based on the initial price movements following the data release.
-- **Breakout Trading:** Entering trades when price breaks significant support or resistance levels due to NFP-driven volatility.
+- **[Breakout Trading](../b/breakout_trading.md):** Entering trades when price breaks significant support or resistance levels due to NFP-driven volatility.
 
 ### 3. Post-NFP Trends
 
 After the initial volatility subsides, longer-term trends may emerge. Strategies for this period include:
 
-- **Trend Following:** Identifying and following the new trends established after the NFP release.
+- **[Trend Following](../t/trend_following.md):** Identifying and following the new trends established after the NFP release.
 - **Correction Trading:** Anticipating market corrections and reversals after the initial post-NFP movements.
 
 ## Risk Management in NFP Trading
 
-Given the high volatility associated with NFP releases, effective risk management is crucial. Techniques include:
+Given the high volatility associated with NFP releases, effective [risk management](../r/risk_management.md) is crucial. Techniques include:
 
 - **Setting Stop-Loss and Take-Profit Orders:** To limit potential losses and secure profits.
 - **Using Smaller Position Sizes:** To reduce exposure during periods of high volatility.
@@ -65,8 +65,8 @@ Economic calendars provide scheduled release times and forecasts for NFP data. R
 
 Platforms providing analytical tools and real-time data for NFP trading include:
 
-- **MetaTrader 4/5:** Widely used trading platforms offering technical analysis tools and indicators.
-- **TradingView:** [TradingView](https://www.tradingview.com/) provides comprehensive charting tools and a social trading community.
+- **MetaTrader 4/5:** Widely used trading platforms offering [technical analysis](../t/technical_analysis.md) tools and indicators.
+- **TradingView:** [TradingView](https://www.tradingview.com/) provides comprehensive charting tools and a [social trading](../s/social_trading.md) community.
 
 ### 3. News and Data Feeds
 
@@ -103,12 +103,12 @@ The January 2021 NFP report showed a decline of 140,000 jobs, missing expectatio
 ### Disadvantages
 
 - **High Risk:** Volatility can lead to rapid losses.
-- **Requires Expertise:** Successful NFP trading requires thorough analysis and understanding of economic indicators.
+- **Requires Expertise:** Successful NFP trading requires thorough analysis and understanding of [economic indicators](../e/economic_indicators.md).
 - **Emotional Stress:** Rapid market movements can be stressful and challenging to manage.
 
 ## Conclusion
 
-Non-Farm Payroll trading offers considerable opportunities due to the significant market impact of the NFP report. However, it also comes with substantial risks. Traders aiming to capitalize on NFP data must employ robust analysis, sound strategies, and effective risk management practices to navigate the volatility and achieve success.
+Non-Farm Payroll trading offers considerable opportunities due to the significant market impact of the NFP report. However, it also comes with substantial risks. Traders aiming to capitalize on NFP data must employ robust analysis, sound strategies, and effective [risk management](../r/risk_management.md) practices to navigate the volatility and achieve success.
 
 For further information on trading platforms and tools that facilitate NFP trading, you can visit:
 

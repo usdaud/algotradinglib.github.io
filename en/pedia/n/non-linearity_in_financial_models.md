@@ -24,29 +24,29 @@ Non-linear models include a broad range of mathematical representations where ch
 
 ### Applications in Algorithmic Trading
 
-Algorithmic trading is the process of using computer algorithms to trade financial securities in an order that is determined based on pre-set instructions. Non-linear models play a crucial role in:
+[Algorithmic trading](../a/algorithmic_trading.md) is the process of using computer algorithms to trade financial securities in an order that is determined based on pre-set instructions. Non-linear models play a crucial role in:
 
-1. **Predictive Modeling**: Non-linear models can improve the prediction accuracy for future price movements by capturing complex patterns that linear models miss.
+1. **[Predictive Modeling](../p/predictive_modeling.md)**: Non-linear models can improve the prediction accuracy for future price movements by capturing complex patterns that linear models miss.
 
-2. **Risk Management**: Understanding non-linear dependencies allows for better risk assessment and hedging strategies, as the tail risks and extreme events are better modeled.
+2. **[Risk Management](../r/risk_management.md)**: Understanding non-linear dependencies allows for better risk assessment and [hedging strategies](../h/hedging_strategies.md), as the tail risks and extreme events are better modeled.
 
-3. **Optimization of Trading Strategies**: Many trading strategies are optimized based on non-linear models to maximize returns.
+3. **Optimization of [Trading Strategies](../t/trading_strategies.md)**: Many [trading strategies](../t/trading_strategies.md) are optimized based on non-linear models to maximize returns.
 
 ### Non-Linear Time Series Analysis
 
-Financial time series often exhibit non-linearities such as volatility clustering, leverage effects, and long-memory processes. Non-linear time series models such as GARCH (Generalized Autoregressive Conditional Heteroskedasticity) and EGARCH (Exponential GARCH) are used to model and forecast volatility in financial markets. These models help in capturing the time-varying volatility which is a common phenomenon in financial markets.
+[Financial time series](../f/financial_time_series.md) often exhibit non-linearities such as [volatility clustering](../v/volatility_clustering.md), leverage effects, and long-memory processes. Non-linear time series models such as GARCH (Generalized Autoregressive Conditional Heteroskedasticity) and EGARCH (Exponential GARCH) are used to model and forecast volatility in financial markets. These models help in capturing the time-varying volatility which is a common phenomenon in financial markets.
 
 ### Machine Learning and Non-Linearity
 
-Machine learning, especially deep learning algorithms, incorporates non-linear models to capture complex patterns in financial data. Techniques such as neural networks, support vector machines (SVM), and decision trees are inherently non-linear. These methods do not assume a specific functional form and can therefore capture a myriad of non-linear relationships in data.
+Machine learning, especially deep learning algorithms, incorporates non-linear models to capture complex patterns in financial data. Techniques such as neural networks, support vector machines (SVM), and [decision trees](../d/decision_trees.md) are inherently non-linear. These methods do not assume a specific functional form and can therefore capture a myriad of non-linear relationships in data.
 
 ### Real-World Applications
 
-Several hedge funds and financial institutions rely heavily on non-linear models for their algorithmic trading strategies. Notably:
+Several hedge funds and financial institutions rely heavily on non-linear models for their [algorithmic trading](../a/algorithmic_trading.md) strategies. Notably:
 
-- **Renaissance Technologies**: Founded by James Simons, this hedge fund is renowned for its use of complex mathematical models and data mining techniques, many of which are non-linear, for stock trading. [Renaissance Technologies](https://www.rentec.com)
+- **Renaissance Technologies**: Founded by James Simons, this hedge fund is renowned for its use of complex mathematical models and [data mining](../d/data_mining.md) techniques, many of which are non-linear, for stock trading. [Renaissance Technologies](https://www.rentec.com)
 
-- **Two Sigma**: Another technology-driven firm that leverages non-linear models and machine learning to execute trading strategies. [Two Sigma](https://www.twosigma.com)
+- **Two Sigma**: Another technology-driven firm that leverages non-linear models and machine learning to execute [trading strategies](../t/trading_strategies.md). [Two Sigma](https://www.twosigma.com)
 
 ### Challenges and Limitations
 
@@ -57,8 +57,8 @@ While non-linear models provide a robust framework for understanding complex fin
 
 ### Conclusion
 
-Non-linearity is a fundamental characteristic of financial models that represents complex relationships more accurately than linear models. It plays a significant role in algorithmic trading, risk management, and predictive modeling. Despite its challenges, the use of non-linear models continues to grow, especially with advancements in computational power and machine learning techniques, enabling the development of more sophisticated trading strategies and financial analyses.
+Non-linearity is a fundamental characteristic of financial models that represents complex relationships more accurately than linear models. It plays a significant role in [algorithmic trading](../a/algorithmic_trading.md), [risk management](../r/risk_management.md), and [predictive modeling](../p/predictive_modeling.md). Despite its challenges, the use of non-linear models continues to grow, especially with advancements in computational power and machine learning techniques, enabling the development of more sophisticated [trading strategies](../t/trading_strategies.md) and financial analyses.
 
 ---
 
-This document aims to provide a detailed overview of non-linearity in financial models, emphasizing its applications, types, and significance in the realm of finance and algorithmic trading.
+This document aims to provide a detailed overview of non-linearity in financial models, emphasizing its applications, types, and significance in the realm of finance and [algorithmic trading](../a/algorithmic_trading.md).

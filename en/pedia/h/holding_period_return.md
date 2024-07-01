@@ -31,11 +31,11 @@ Therefore, the Holding Period Return on this investment is 24%.
 
 ### Importance in Algo Trading
 
-In algorithmic trading, holding period returns are integral in assessing the performance of trading strategies. By evaluating HPR, traders can backtest strategies to determine their historical profitability, thereby fine-tuning algorithms for better future performance. 
+In [algorithmic trading](../a/algorithmic_trading.md), holding period returns are integral in assessing the performance of [trading strategies](../t/trading_strategies.md). By evaluating HPR, traders can backtest strategies to determine their historical profitability, thereby fine-tuning algorithms for better future performance. 
 
 ### Risk Analysis and Comparative Performance
 
-Holding Period Return is not just a measure of profitability but also a crucial element in risk analysis and comparative performance evaluation. By calculating and comparing the HPR of different investments or strategies, investors can make more informed decisions that align with their risk tolerance and investment goals.
+Holding Period Return is not just a measure of profitability but also a crucial element in [risk analysis](../r/risk_analysis.md) and comparative performance evaluation. By calculating and comparing the HPR of different investments or strategies, investors can make more informed decisions that align with their risk tolerance and investment goals.
 
 ### Annualized Holding Period Return
 
@@ -49,14 +49,14 @@ Where \( n \) is the number of years the investment was held.
 
 Numerous financial firms and trading platforms use HPR as part of their analytics and reporting tools. For instance:
 
-- **Two Sigma Investments** (https://www.twosigma.com/): This quantitative hedge fund uses advanced analytics and algorithms to identify profitable trading opportunities. HPR is likely a key metric they analyze in their trading strategies.
+- **Two Sigma Investments** (https://www.twosigma.com/): This quantitative hedge fund uses advanced analytics and algorithms to identify profitable trading opportunities. HPR is likely a key metric they analyze in their [trading strategies](../t/trading_strategies.md).
 - **Renaissance Technologies** (https://www.rentec.com/): Another leading hedge fund that employs sophisticated mathematical models and algorithms, including the analysis of HPR for performance evaluation.
 - **AQR Capital Management** (https://www.aqr.com/): This global investment management firm uses quantitative methods to invest and manage risks, incorporating HPR calculations in their strategy assessments.
 
 ### Limitations of HPR
 
 While the Holding Period Return is a useful measure, it has its limitations. Primarily, HPR does not account for the risk taken on an investment, nor does it consider the time value of money. To address these limitations, it is often used in conjunction with other measures such as:
-- **Sharpe Ratio**: To adjust for risk.
+- **[Sharpe Ratio](../s/sharpe_ratio.md)**: To adjust for risk.
 - **Internal Rate of Return (IRR)**: To account for varying cash flows over time.
 - **Net Present Value (NPV)**: To consider the time value of money.
 

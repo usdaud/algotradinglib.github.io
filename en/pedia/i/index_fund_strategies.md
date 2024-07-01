@@ -33,7 +33,7 @@ Investing a fixed amount of money at regular intervals regardless of the market 
 - **Cons:** May lead to suboptimal investment during a rising market.
 
 ### Sector Rotation
-Sector rotation involves shifting investments among various sectors based on market conditions or economic cycles.
+[Sector rotation](../s/sector_rotation.md) involves shifting investments among various sectors based on market conditions or [economic cycles](../e/economic_cycles.md).
 
 #### Business Cycle Approach
 Investing in sectors based on the stage of the economic cycle.
@@ -46,7 +46,7 @@ Investing based on historical seasonal performance (e.g., buying retail sector f
 - **Cons:** Past performance does not guarantee future results.
 
 ### Smart Beta
-Smart Beta strategies aim to enhance returns, improve diversification, and reduce risk by following alternative weighting schemes rather than traditional market capitalization.
+[Smart Beta](../s/smart_beta.md) strategies aim to enhance returns, improve diversification, and reduce risk by following alternative weighting schemes rather than traditional market capitalization.
 
 #### Equal-Weight
 Each stock in the index is given an equal weight, rather than weighting based on market capitalization.
@@ -112,4 +112,4 @@ Charles Schwab provides a broad suite of index funds and ETFs with minimal fees,
 
 ## Conclusion
 
-Index fund investing is a widely respected and effective approach to achieving long-term investment goals. Whether through passive investing, sector rotation, smart beta strategies, or thematic investing, the variety of index fund strategies allows investors to tailor their portfolios to meet their specific needs and risk tolerance. The benefits of diversification, low costs, and transparency make index funds an appealing choice for many investors. As with any investment strategy, it's crucial to remain informed and consider the potential risks and challenges.
+Index fund investing is a widely respected and effective approach to achieving long-term investment goals. Whether through passive investing, [sector rotation](../s/sector_rotation.md), [smart beta](../s/smart_beta.md) strategies, or [thematic investing](../t/thematic_investing.md), the variety of index fund strategies allows investors to tailor their portfolios to meet their specific needs and risk tolerance. The benefits of diversification, low costs, and transparency make index funds an appealing choice for many investors. As with any investment strategy, it's crucial to remain informed and consider the potential risks and challenges.

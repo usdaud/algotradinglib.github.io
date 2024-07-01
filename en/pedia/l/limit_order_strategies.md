@@ -1,6 +1,6 @@
 # Limit Order Strategies
 
-In the world of algorithmic trading, limit order strategies play a critical role. These strategies involve placing an order to buy or sell a stock at a specified price or better. A buy limit order can only be executed at the limit price or lower, while a sell limit order can only be executed at the limit price or higher. This form of trading is distinct from market orders, which are executed immediately at the current market price.
+In the world of [algorithmic trading](../a/algorithmic_trading.md), limit order strategies play a critical role. These strategies involve placing an order to buy or sell a stock at a specified price or better. A [buy limit order](../b/buy_limit_order.md) can only be executed at the limit price or lower, while a sell limit order can only be executed at the limit price or higher. This form of trading is distinct from market orders, which are executed immediately at the current market price.
 
 ## Understanding Limit Orders
 
@@ -25,7 +25,7 @@ In the world of algorithmic trading, limit order strategies play a critical role
 
 ### Standard Limit Orders
 
-1. **Buy Limit Order**: Positioned below the market price, it executes when the market price equals or drops below the limit price.
+1. **[Buy Limit Order](../b/buy_limit_order.md)**: Positioned below the market price, it executes when the market price equals or drops below the limit price.
 2. **Sell Limit Order**: Positioned above the market price, it executes when the market price equals or exceeds the limit price.
 
 ### Stop-Limit Orders
@@ -40,11 +40,11 @@ Iceberg orders, also known as hidden orders, allow traders to conceal the actual
 
 ### Market Making
 
-Market-making strategies involve placing both buy and sell limit orders around the current market price, profiting from the bid-ask spread. Algorithms facilitate rapid order placement, adjustment, and cancellation to balance inventory and minimize risk.
+Market-making strategies involve placing both buy and sell limit orders around the current market price, profiting from the [bid-ask spread](../b/bid-ask_spread.md). Algorithms facilitate rapid order placement, adjustment, and cancellation to balance inventory and minimize risk.
 
 ### Statistical Arbitrage
 
-Statistical arbitrage relies on quantitative models to exploit price discrepancies between related assets. Limit orders execute trades when prices deviate from expected correlations, aiming to capture mean reversion.
+Statistical [arbitrage](../a/arbitrage.md) relies on [quantitative models](../q/quantitative_models.md) to exploit price discrepancies between related assets. Limit orders execute trades when prices deviate from expected correlations, aiming to capture [mean reversion](../m/mean_reversion.md).
 
 ### Momentum Strategies
 
@@ -54,9 +54,9 @@ Algorithms detect trends based on historical price movements, placing limit orde
 
 ### Algorithm Development
 
-- **QuantConnect**: [QuantConnect](https://www.quantconnect.com/) offers cloud-based tools for developing, testing, and deploying algorithmic trading strategies.
-- **Quantopian**: Although closed in 2020, it provided popular resources for algorithmic trading.
-- **MetaTrader 5**: A leading trading platform supporting custom algorithmic trading strategies with MQL5.
+- **QuantConnect**: [QuantConnect](https://www.quantconnect.com/) offers cloud-based tools for developing, testing, and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies.
+- **Quantopian**: Although closed in 2020, it provided popular resources for [algorithmic trading](../a/algorithmic_trading.md).
+- **MetaTrader 5**: A leading trading platform supporting custom [algorithmic trading](../a/algorithmic_trading.md) strategies with MQL5.
 
 ### Brokerage Services
 
@@ -82,7 +82,7 @@ HFT exploits extremely short-term opportunities, relying heavily on algorithmic 
 
 ### Position Sizing
 
-Algorithms incorporate risk management protocols, calculating optimal order sizes based on factors like volatility, liquidity, and portfolio risk.
+Algorithms incorporate [risk management](../r/risk_management.md) protocols, calculating optimal order sizes based on factors like volatility, liquidity, and portfolio risk.
 
 ### Order Slicing
 
@@ -94,7 +94,7 @@ Execution quality is monitored by comparing execution prices to benchmarks, ensu
 
 ## Conclusion
 
-Limit order strategies are integral to algorithmic trading, requiring a careful blend of technology, quantitative models, and market understanding. By leveraging sophisticated algorithms and tools, traders can optimize execution, manage risks, and capitalize on market opportunities.
+Limit order strategies are integral to [algorithmic trading](../a/algorithmic_trading.md), requiring a careful blend of technology, [quantitative models](../q/quantitative_models.md), and market understanding. By leveraging sophisticated algorithms and tools, traders can optimize execution, manage risks, and capitalize on market opportunities.
 
 For further reading and resources, visit the platforms mentioned above:
 

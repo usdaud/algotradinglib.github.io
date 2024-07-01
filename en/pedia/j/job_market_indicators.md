@@ -7,7 +7,7 @@ Job market indicators are essential tools that provide insights into the health 
 Job market indicators can be broadly classified into several categories:
 
 1. **Employment Indicators**
-2. **Unemployment Indicators**
+2. **[Unemployment Indicators](../u/unemployment_indicators.md)**
 3. **Wage and Earnings Indicators**
 4. **Labor Force Participation Indicators**
 5. **Job Openings and Labor Turnover Indicators**
@@ -25,7 +25,7 @@ Employment indicators measure the number of people employed in an economy. These
 
 ### Unemployment Indicators
 
-Unemployment indicators signify the number of people actively seeking employment but unable to find work. These indicators highlight the slack in the labor market and signal economic stress or recovery.
+[Unemployment indicators](../u/unemployment_indicators.md) signify the number of people actively seeking employment but unable to find work. These indicators highlight the slack in the labor market and signal economic stress or recovery.
 
 - **Unemployment Rate**: The percentage of the labor force that is unemployed. This is one of the most widely recognized and cited labor market indicators.
   - [Bureau of Labor Statistics - Unemployment Rate](https://www.bls.gov/cps/)

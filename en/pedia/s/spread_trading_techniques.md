@@ -1,13 +1,13 @@
 ### Spread Trading Techniques
 
-Spread trading, also known as relative value trading or pair trading, is an investment strategy that involves the simultaneous purchase and sale of two related securities. This technique is driven by the anticipation that the price difference between the two securities will either widen or narrow over time. Spread trading is predominantly employed by professional traders, hedge funds, and other institutional investors due to its potential profitability and its capacity to mitigate certain types of risk.
+[Spread trading](../s/spread_trading.md), also known as relative value trading or pair trading, is an investment strategy that involves the simultaneous purchase and sale of two related securities. This technique is driven by the anticipation that the price difference between the two securities will either widen or narrow over time. [Spread trading](../s/spread_trading.md) is predominantly employed by professional traders, hedge funds, and other institutional investors due to its potential profitability and its capacity to mitigate certain types of risk.
 
-Spread trading can be applied in various markets, including equities, commodities, forex, and fixed income. The versatility of this strategy makes it an appealing option for many investors looking to exploit market inefficiencies. Below, we delve into the key components of spread trading, various techniques, and tools essential for implementing this strategy effectively.
+[Spread trading](../s/spread_trading.md) can be applied in various markets, including equities, commodities, forex, and fixed income. The versatility of this strategy makes it an appealing option for many investors looking to exploit market inefficiencies. Below, we delve into the key components of [spread trading](../s/spread_trading.md), various techniques, and tools essential for implementing this strategy effectively.
 
 ### Key Components of Spread Trading
 
 #### 1. **Understanding Spreads**
-   - **Definition**: In spread trading, a spread is defined as the price difference between two related financial instruments.
+   - **Definition**: In [spread trading](../s/spread_trading.md), a spread is defined as the price difference between two related financial instruments.
    - **Types of Spreads**:
      - **Price Spread**: The difference between the prices of two correlated assets.
      - **Calendar Spread**: Exploits the price difference of the same asset with different delivery dates.
@@ -17,11 +17,11 @@ Spread trading can be applied in various markets, including equities, commoditie
 
 #### 2. **Correlation and Cointegration**
    - **Correlation**: Measures the degree to which two assets move in relation to each other. A high correlation implies that the assets move together, while a low correlation suggests they move independently.
-   - **Cointegration**: A statistical property of time series variables. If two or more series are cointegrated, they have a long-term equilibrium relationship despite being non-stationary. Cointegrated pairs are often used in pair trading strategies.
+   - **Cointegration**: A statistical property of time series variables. If two or more series are cointegrated, they have a long-term equilibrium relationship despite being non-stationary. Cointegrated pairs are often used in pair [trading strategies](../t/trading_strategies.md).
 
 #### 3. **Statistical Analysis**
-   - **Mean Reversion**: A core principle in spread trading where prices oscillate around their historical mean. Traders expect that deviations from the mean will revert back over time.
-   - **Z-score**: A statistical measure that quantifies the distance of a data point from the mean in terms of standard deviations. Used to identify overbought or oversold conditions in spread trading.
+   - **[Mean Reversion](../m/mean_reversion.md)**: A core principle in [spread trading](../s/spread_trading.md) where prices oscillate around their historical mean. Traders expect that deviations from the mean will revert back over time.
+   - **Z-score**: A statistical measure that quantifies the distance of a data point from the mean in terms of standard deviations. Used to identify overbought or oversold conditions in [spread trading](../s/spread_trading.md).
 
 ### Spread Trading Techniques
 
@@ -48,47 +48,47 @@ Spread trading can be applied in various markets, including equities, commoditie
 #### 5. **Option Spread Trading**
    - **Concept**: Involves using options with different strike prices or expiration dates to create complex but often low-risk positions.
    - **Execution**: Popular spread strategies include vertical spreads, horizontal spreads, and diagonal spreads. Each type aims to exploit different market scenarios.
-   - **Example**: A trader implements a bull call spread by purchasing a call option at a lower strike price while simultaneously selling a call option at a higher strike price, intending to profit from an expected moderate rise in the underlying asset's price.
+   - **Example**: A trader implements a [bull call spread](../b/bull_call_spread.md) by purchasing a call option at a lower strike price while simultaneously selling a call option at a higher strike price, intending to profit from an expected moderate rise in the underlying asset's price.
 
 ### Tools and Software for Spread Trading
 
-The complexity of spread trading often necessitates the use of advanced software and tools for analysis, execution, and risk management. Some commonly used tools include:
+The complexity of [spread trading](../s/spread_trading.md) often necessitates the use of advanced software and tools for analysis, execution, and [risk management](../r/risk_management.md). Some commonly used tools include:
 
 - **MATLAB and R**: Used for complex statistical analysis and modeling due to their robust libraries for financial computations and data manipulation.
-- **Python**: Popular for its versatility and comprehensive libraries such as Pandas, NumPy, and Scikit-learn, which facilitate statistical analysis and machine learning applications in spread trading.
+- **Python**: Popular for its versatility and comprehensive libraries such as Pandas, NumPy, and Scikit-learn, which facilitate statistical analysis and machine learning applications in [spread trading](../s/spread_trading.md).
 - **Trading Platforms**: Platforms like Thinkorswim by TD Ameritrade, MetaTrader, and Interactive Brokers provide tools for executing and monitoring spread trades.
 - **Specialized Software**: Programs like SpreadTrader by CQG, and RTS InterSpread offer specialized tools for analyzing and executing spread trades in futures and other markets.
 
 ### Risk Management in Spread Trading
 
-Effective risk management is vital in spread trading due to the inherent risks of the strategy. Key risk management techniques include:
+Effective [risk management](../r/risk_management.md) is vital in [spread trading](../s/spread_trading.md) due to the inherent risks of the strategy. Key [risk management](../r/risk_management.md) techniques include:
 
 - **Hedging**: Using financial instruments to offset potential losses in a spread trade.
-- **Stop-loss Orders**: Pre-set orders to sell an asset when it reaches a specified price, limiting potential losses.
+- **[Stop-loss Orders](../s/stop-loss_orders.md)**: Pre-set orders to sell an asset when it reaches a specified price, limiting potential losses.
 - **Diversification**: Spreading investments across multiple spreads and markets to reduce exposure to any single trade.
 
 ### Implementing Spread Trading Strategies
 
 #### 1. **Backtesting**
-   - **Concept**: Involves testing a spread trading strategy on historical data to evaluate its potential effectiveness.
-   - **Execution**: Traders use statistical software to simulate trades based on historical price data and assess performance metrics like profit, drawdown, and Sharpe ratio.
+   - **Concept**: Involves testing a [spread trading](../s/spread_trading.md) strategy on historical data to evaluate its potential effectiveness.
+   - **Execution**: Traders use statistical software to simulate trades based on historical price data and assess [performance metrics](../p/performance_metrics.md) like profit, drawdown, and [Sharpe ratio](../s/sharpe_ratio.md).
 
 #### 2. **Paper Trading**
    - **Concept**: Simulating trades in real-time without actual financial risk.
    - **Execution**: Using trading platforms or software to execute virtual trades based on real market conditions, allowing traders to refine their strategies and gain experience.
 
 #### 3. **Real-time Execution**
-   - **Concept**: Deploying spread trading strategies in live markets.
-   - **Execution**: Utilizing automated trading systems to execute trades based on pre-defined algorithms, ensuring timely and accurate execution.
+   - **Concept**: Deploying [spread trading](../s/spread_trading.md) strategies in live markets.
+   - **Execution**: Utilizing [automated trading systems](../a/automated_trading_systems.md) to execute trades based on pre-defined algorithms, ensuring timely and accurate execution.
 
 ### Prominent Spread Trading Firms
 
-Several firms specialize in spread trading, offering sophisticated tools and expertise. Notable examples include:
+Several firms specialize in [spread trading](../s/spread_trading.md), offering sophisticated tools and expertise. Notable examples include:
 
 - **DRW Trading Group**: A diversified principal trading firm ([link](https://drw.com)).
 - **Jane Street Capital**: Engages in data-driven market-making and trading across asset classes ([link](https://janestreet.com)).
-- **IMC Trading**: A globally active proprietary trading firm ([link](https://imc.com)).
+- **IMC Trading**: A globally active [proprietary trading](../p/proprietary_trading.md) firm ([link](https://imc.com)).
 
 ### Conclusion
 
-Spread trading offers a versatile and robust approach to capitalizing on market inefficiencies. By understanding and leveraging the various techniques and tools available, traders can effectively implement strategies to potentially achieve consistent returns while managing risk. Continuous education, diligent research, and rigorous backtesting are crucial for navigating the complexities of spread trading successfully.
+[Spread trading](../s/spread_trading.md) offers a versatile and robust approach to capitalizing on market inefficiencies. By understanding and leveraging the various techniques and tools available, traders can effectively implement strategies to potentially achieve consistent returns while managing risk. Continuous education, diligent research, and rigorous [backtesting](../b/backtesting.md) are crucial for navigating the complexities of [spread trading](../s/spread_trading.md) successfully.

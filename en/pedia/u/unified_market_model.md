@@ -1,6 +1,6 @@
 # Unified Market Model (UMM)
 
-In the context of algo trading, the Unified Market Model (UMM) is a sophisticated framework that aims to encapsulate and represent the dynamics and mechanics of market behavior in a streamlined and holistic manner. This model serves as a paradigm designed to bridge the complexity and fragmentation of market activities, fostering a comprehensive understanding that can be harnessed for developing, testing, and deploying trading algorithms.
+In the context of algo trading, the Unified Market Model (UMM) is a sophisticated framework that aims to encapsulate and represent the dynamics and mechanics of market behavior in a streamlined and holistic manner. This model serves as a paradigm designed to bridge the complexity and fragmentation of market activities, fostering a comprehensive understanding that can be harnessed for developing, testing, and deploying [trading algorithms](../t/trading_algorithms.md).
 
 UMM seeks to integrate various market components, typically distinguished by diverse rules, practices, instruments, and participants, into a cohesive system. Here’s a deep dive into the constituent elements and principles of the UMM:
 
@@ -8,12 +8,12 @@ UMM seeks to integrate various market components, typically distinguished by div
 
 1. **Market Participants**
     - **Buy Side**: Investors, mutual funds, hedge funds, and retail traders who purchase securities for investment purposes.
-    - **Sell Side**: Investment banks, brokers, market makers, and proprietary trading desks that provide liquidity and bridge buyers and sellers.
+    - **Sell Side**: Investment banks, brokers, market makers, and [proprietary trading](../p/proprietary_trading.md) desks that provide liquidity and bridge buyers and sellers.
     
 2. **Market Instruments**
     - **Equities**: Shares of ownership in companies traded on stock exchanges.
     - **Fixed Income**: Bonds and other debt securities.
-    - **Derivatives**: Financial contracts deriving value from underlying assets, including options, futures, and swaps.
+    - **[Derivatives](../d/derivatives.md)**: Financial contracts deriving value from underlying assets, including options, futures, and swaps.
     - **Commodities**: Physical assets traded such as gold, oil, and agricultural products.
     - **Forex**: Foreign exchange markets involving currency pairs.
 
@@ -31,7 +31,7 @@ UMM seeks to integrate various market components, typically distinguished by div
 
 ### Core Principles
 
-1. **Market Efficiency**
+1. **[Market Efficiency](../m/market_efficiency.md)**
     - The model assumes markets are generally efficient, reflecting all available information in security prices, though it acknowledges short-term inefficiencies that can be exploited.
 
 2. **Liquidity and Spread Dynamics**
@@ -46,30 +46,30 @@ UMM seeks to integrate various market components, typically distinguished by div
 ### Model Application in Algorithmic Trading
 
 1. **Strategy Development**
-    - **Trend Following**: Algorithms detect and capitalize on sustained market directions.
-    - **Mean Reversion**: Strategies hinge on the concept that prices revert to their historical average.
-    - **Statistical Arbitrage**: Exploiting pricing anomalies through complex statistical models.
-    - **Market Making**: Providing liquidity to earn spread income, requiring sophisticated risk management and execution algorithms.
+    - **[Trend Following](../t/trend_following.md)**: Algorithms detect and capitalize on sustained market directions.
+    - **[Mean Reversion](../m/mean_reversion.md)**: Strategies hinge on the concept that prices revert to their historical average.
+    - **Statistical [Arbitrage](../a/arbitrage.md)**: Exploiting pricing anomalies through complex statistical models.
+    - **Market Making**: Providing liquidity to earn spread income, requiring sophisticated [risk management](../r/risk_management.md) and [execution algorithms](../e/execution_algorithms.md).
     - **Event-Driven**: Trading based on significant events like earnings releases, mergers, or macroeconomic reports.
 
-2. **Backtesting and Simulation**
-   - Utilizing historical data to test algorithm performance, simulating real market conditions, and assessing risk metrics without financial exposure.
+2. **[Backtesting](../b/backtesting.md) and Simulation**
+   - Utilizing historical data to test algorithm performance, simulating real market conditions, and assessing [risk metrics](../r/risk_metrics.md) without financial exposure.
 
-3. **Execution Algorithms**
+3. **[Execution Algorithms](../e/execution_algorithms.md)**
     - **TWAP/VWAP**: Time-Weighted or Volume-Weighted Average Price strategies aimed at mimicking market participation.
     - **Sniper**: Seeking immediate execution at the best price available.
     - **Iceberg**: Large orders split and placed incrementally to avoid market impact.
 
-4. **Risk Management**
-    - Comprehensive risk frameworks mitigate exposure to market, credit, and operational risks, often involving Value at Risk (VaR) calculations and stress testing scenarios.
+4. **[Risk Management](../r/risk_management.md)**
+    - Comprehensive risk frameworks mitigate exposure to market, credit, and operational risks, often involving Value at Risk (VaR) calculations and [stress testing scenarios](../s/stress_testing_scenarios.md).
 
 5. **High-Frequency Trading (HFT)**
-    - Implementing trading strategies that operate at millisecond or microsecond speeds, necessitating colocation and high-speed data feeds for competitive edge.
+    - Implementing [trading strategies](../t/trading_strategies.md) that operate at millisecond or microsecond speeds, necessitating colocation and high-speed data feeds for competitive edge.
 
 ### Key Technologies and Platforms
 
 1. **Trading Platforms**
-   - **MetaTrader**: Popular among retail traders, providing robust charting and algorithmic trading tools. [MetaTrader](https://www.metatrader4.com)
+   - **MetaTrader**: Popular among retail traders, providing robust charting and [algorithmic trading](../a/algorithmic_trading.md) tools. [MetaTrader](https://www.metatrader4.com)
    - **Interactive Brokers (IBKR)**: Advanced platform with extensive market access for institutional and retail traders. [Interactive Brokers](https://www.interactivebrokers.com)
 
 2. **Market Data Providers**
@@ -85,12 +85,12 @@ UMM seeks to integrate various market components, typically distinguished by div
     - Constant evolution in financial regulation necessitates adaptability in algorithmic systems to maintain compliance and operational efficiency.
   
 2. **Technological Advancements**
-    - Integration of AI and machine learning to enhance predictive modeling, risk management, and adaptive algorithms.
+    - Integration of AI and machine learning to enhance [predictive modeling](../p/predictive_modeling.md), [risk management](../r/risk_management.md), and [adaptive algorithms](../a/adaptive_algorithms.md).
   
 3. **Market Volatility**
-    - Algorithms must be robust against high volatility and sudden market shifts, ensuring stability and preventing flash crashes.
+    - Algorithms must be robust against high volatility and sudden market shifts, ensuring stability and preventing [flash crashes](../f/flash_crashes.md).
 
 4. **Ethical Considerations**
     - Balancing profit motives with ethical trading practices, minimizing abusive trading and systemic risk contribution.
 
-The Unified Market Model thus represents a blueprint for understanding and navigating modern financial markets through the lens of algorithmic trading. It combines diverse elements into a centralized schema, enabling methodical strategy development, execution, and risk management tailored to the evolving landscape of global finance.
+The Unified Market Model thus represents a blueprint for understanding and navigating modern financial markets through the lens of [algorithmic trading](../a/algorithmic_trading.md). It combines diverse elements into a centralized schema, enabling methodical strategy development, execution, and [risk management](../r/risk_management.md) tailored to the evolving landscape of global finance.

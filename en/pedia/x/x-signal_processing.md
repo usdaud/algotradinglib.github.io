@@ -2,14 +2,14 @@
 
 #### Introduction to X-Signal Processing
 
-X-Signal Processing in the domain of algorithmic trading refers to the utilization and analysis of extremely complex data signals to inform and execute automated trading strategies. The 'X' often typifies how advanced signal processing techniques extend the boundaries beyond conventional methods, encompassing a variety of approaches including machine learning algorithms, deep learning, and advanced statistical methods. This forms an essential backbone for modern high-frequency trading (HFT), quantitative trading, and statistical arbitrage strategies.
+X-Signal Processing in the domain of [algorithmic trading](../a/algorithmic_trading.md) refers to the utilization and analysis of extremely complex data signals to inform and execute automated [trading strategies](../t/trading_strategies.md). The 'X' often typifies how advanced signal processing techniques extend the boundaries beyond conventional methods, encompassing a variety of approaches including machine learning algorithms, deep learning, and advanced statistical methods. This forms an essential backbone for modern high-frequency trading (HFT), [quantitative trading](../q/quantitative_trading.md), and statistical [arbitrage](../a/arbitrage.md) strategies.
 
 #### Signal Sources and Types
 
-1. **Market Data Signals**: This includes price, volume, and other trading data originating from exchanges. Market data can be used for real-time trading decisions or backtesting trading strategies.
+1. **Market Data Signals**: This includes price, volume, and other trading data originating from exchanges. Market data can be used for real-time trading decisions or [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md).
 2. **News Sentiment Signals**: Text data from news articles, social media, earnings reports, etc., which are processed using Natural Language Processing (NLP) to extract sentiment and other meaningful signals.
-3. **Alternative Data Signals**: This includes non-traditional datasets such as satellite imagery, mobile data, web traffic, etc., processed to derive trading signals.
-4. **Technical Indicators**: Derived from historical market data, technical indicators such as Moving Averages, Relative Strength Index (RSI), etc., can be customized and enhanced using advanced X-signal processing techniques.
+3. **[Alternative Data](../a/alternative_data.md) Signals**: This includes non-traditional datasets such as satellite imagery, mobile data, web traffic, etc., processed to derive [trading signals](../t/trading_signals.md).
+4. **[Technical Indicators](../t/technical_indicators.md)**: Derived from historical market data, [technical indicators](../t/technical_indicators.md) such as Moving Averages, Relative Strength Index (RSI), etc., can be customized and enhanced using advanced X-signal processing techniques.
 
 #### Core Techniques in X-Signal Processing
 
@@ -29,21 +29,21 @@ The success of X-signal processing depends significantly on the tools used. Here
 2. **R**: Praised for statistical analysis with packages like forecast, caret, and xts.
 3. **MATLAB**: Powerful for complex computations and has built-in signal processing capabilities.
 4. **Platforms**:
-    - **QuantConnect**: An open-source algorithmic trading platform (https://www.quantconnect.com/).
+    - **QuantConnect**: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform (https://www.quantconnect.com/).
     - **Quantopian**: Another notable platform providing a community-driven approach (now closed, but its remnants influence others).
-    - **Alpaca**: Commission-free trading with API access for algorithmic trading (https://alpaca.markets/).
+    - **Alpaca**: Commission-free trading with API access for [algorithmic trading](../a/algorithmic_trading.md) (https://alpaca.markets/).
 
 #### Examples of Practical Algorithms
 
-1. **Momentum Trading Algorithms**: Identifying trends and buying/selling based on the belief that current market trends will persist.
-2. **Mean Reversion Algorithms**: Asserting that prices will revert to their mean, thereby deriving signals to buy at low prices and sell at high prices.
-3. **Arbitrage**: Exploiting price differences in different markets or instruments to achieve risk-free profit.
-4. **Sentiment Analysis Algorithms**: Utilizes NLP to interpret the sentiment of unstructured text data sources and derive trading decisions.
+1. **[Momentum Trading](../m/momentum_trading.md) Algorithms**: Identifying trends and buying/selling based on the belief that current market trends will persist.
+2. **[Mean Reversion](../m/mean_reversion.md) Algorithms**: Asserting that prices will revert to their mean, thereby deriving signals to buy at low prices and sell at high prices.
+3. **[Arbitrage](../a/arbitrage.md)**: Exploiting price differences in different markets or instruments to achieve risk-free profit.
+4. **[Sentiment Analysis](../s/sentiment_analysis.md) Algorithms**: Utilizes NLP to interpret the sentiment of unstructured text data sources and derive trading decisions.
 
 #### Challenges in X-Signal Processing
 
 1. **Data Quality and Noise**: Erroneous or noisy data can lead to poor decision-making.
-2. **Market Microstructure Noise**: Detailed noise in high-frequency data can obscure significant trends.
+2. **[Market Microstructure](../m/market_microstructure.md) Noise**: Detailed noise in high-frequency data can obscure significant trends.
 3. **Overfitting**: Machine learning models might perform excellently on historical data but fail in unseen data.
 4. **Latency**: In HFT particularly, the time taken to process data and execute trades is crucial.
 
@@ -53,4 +53,4 @@ The success of X-signal processing depends significantly on the tools used. Here
 2. **Explainable AI (XAI)**: For developing interpretable models that traders can trust.
 3. **Edge Computing**: Reducing latency by processing data closer to the source.
 
-X-signal processing remains a dynamic and rapidly evolving field in algorithmic trading, propelling the capabilities of traders to new heights.
+X-signal processing remains a dynamic and rapidly evolving field in [algorithmic trading](../a/algorithmic_trading.md), propelling the capabilities of traders to new heights.

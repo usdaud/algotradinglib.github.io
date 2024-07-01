@@ -1,16 +1,16 @@
 # Technical Indicator Filters
 
-Technical indicator filters are crucial tools in the world of algorithmic trading (also known as algo-trading or electronic trading). These filters leverage statistical methodologies and data analytics to aid traders in making more informed decisions. By integrating technical indicators, traders can filter out market noise to pinpoint the most promising trading opportunities.
+Technical indicator filters are crucial tools in the world of [algorithmic trading](../a/algorithmic_trading.md) (also known as algo-trading or electronic trading). These filters leverage statistical methodologies and data analytics to aid traders in making more informed decisions. By integrating [technical indicators](../t/technical_indicators.md), traders can filter out market noise to pinpoint the most promising trading opportunities.
 
 ## Understanding Technical Indicator Filters
 
-Technical indicator filters are algorithms that analyze historical market data, such as price and volume, to identify patterns and trends. These patterns help traders forecast future market movements. Generally, technical indicators can be categorized into three main types:
+Technical indicator filters are algorithms that analyze historical market data, such as price and volume, to identify patterns and trends. These patterns help traders forecast future market movements. Generally, [technical indicators](../t/technical_indicators.md) can be categorized into three main types:
 
-1. **Trend Indicators**: These help identify the direction of the market. Examples include Moving Averages (SMA and EMA) and the Average Directional Index (ADX).
-2. **Momentum Indicators**: These measure the rate of change in the price of an asset. Examples include the Relative Strength Index (RSI) and the Moving Average Convergence Divergence (MACD).
-3. **Volatility Indicators**: These assess the degree of price variation over a given period. Examples include Bollinger Bands and the Average True Range (ATR).
+1. **[Trend Indicators](../t/trend_indicators.md)**: These help identify the direction of the market. Examples include Moving Averages (SMA and EMA) and the Average Directional Index (ADX).
+2. **[Momentum Indicators](../m/momentum_indicators.md)**: These measure the rate of change in the price of an asset. Examples include the Relative Strength Index (RSI) and the Moving Average Convergence Divergence (MACD).
+3. **Volatility Indicators**: These assess the degree of price variation over a given period. Examples include [Bollinger Bands](../b/bollinger_bands.md) and the Average True Range (ATR).
 
-By leveraging these technical indicators in algo-trading strategies, a trading system can automatically generate buy or sell signals based on pre-defined criteria, enhancing the effectiveness and efficiency of the trading process.
+By leveraging these [technical indicators](../t/technical_indicators.md) in algo-[trading strategies](../t/trading_strategies.md), a trading system can automatically generate buy or sell signals based on pre-defined criteria, enhancing the effectiveness and efficiency of the trading process.
 
 ## Types of Technical Indicator Filters
 
@@ -89,7 +89,7 @@ def MACD(prices, short_period=12, long_period=26, signal_period=9):
 ```
 
 ### Bollinger Bands
-Bollinger Bands are volatility bands placed above and below a moving average. They consist of:
+[Bollinger Bands](../b/bollinger_bands.md) are volatility bands placed above and below a moving average. They consist of:
 
 - A middle band being a simple moving average.
 - An upper band at an MA plus twice the daily standard deviation.
@@ -130,25 +130,25 @@ def ATR(highs, lows, closes, period=14):
 ## Practical Applications
 
 ### Entry and Exit Signals
-Technical indicator filters are primarily used for generating entry and exit signals in algo-trading systems. For instance, if the MACD line crosses above the Signal line, it might generate a buy signal, whereas a cross below might generate a sell signal.
+Technical indicator filters are primarily used for generating entry and exit signals in algo-[trading systems](../t/trading_systems.md). For instance, if the MACD line crosses above the Signal line, it might generate a buy signal, whereas a cross below might generate a sell signal.
 
 ### Risk Management
-Technical indicators are also employed in risk management. For example, Bollinger Bands can help identify volatility and thereby determine stop-loss levels, ensuring that potential losses are minimized.
+[Technical indicators](../t/technical_indicators.md) are also employed in [risk management](../r/risk_management.md). For example, [Bollinger Bands](../b/bollinger_bands.md) can help identify volatility and thereby determine stop-loss levels, ensuring that potential losses are minimized.
 
 ### Portfolio Optimization
-Advanced technical indicators can aid in portfolio optimization by evaluating the strength of different assets in the portfolio, thus helping to reallocate capital towards higher-performing assets.
+Advanced [technical indicators](../t/technical_indicators.md) can aid in [portfolio optimization](../p/portfolio_optimization.md) by evaluating the strength of different assets in the portfolio, thus helping to reallocate capital towards higher-performing assets.
 
 ## Real-World Implementations
 
 ### QuantConnect
-QuantConnect is a quantitative trading platform known for integrating various technical indicators into their algorithmic trading framework. Traders can implement and backtest their strategies using a wide range of built-in technical indicators. Visit QuantConnect [here](https://www.quantconnect.com/).
+QuantConnect is a [quantitative trading](../q/quantitative_trading.md) platform known for integrating various [technical indicators](../t/technical_indicators.md) into their [algorithmic trading](../a/algorithmic_trading.md) framework. Traders can implement and backtest their strategies using a wide range of built-in [technical indicators](../t/technical_indicators.md). Visit QuantConnect [here](https://www.quantconnect.com/).
 
 ### MetaTrader
-MetaTrader 4 and MetaTrader 5 are popular trading platforms that support algorithmic trading. They feature numerous built-in technical indicators and provide capabilities to develop custom indicators and trading bots using the MQL4 and MQL5 languages. Visit MetaTrader [here](https://www.metatrader4.com/) and [here](https://www.metatrader5.com/).
+MetaTrader 4 and MetaTrader 5 are popular trading platforms that support [algorithmic trading](../a/algorithmic_trading.md). They feature numerous built-in [technical indicators](../t/technical_indicators.md) and provide capabilities to develop custom indicators and trading bots using the MQL4 and MQL5 languages. Visit MetaTrader [here](https://www.metatrader4.com/) and [here](https://www.metatrader5.com/).
 
 ### TradingView
-TradingView is another powerful platform that integrates technical indicators with social networking features, allowing traders to share ideas and strategies. The platform supports custom scripting through Pine Script, enabling advanced algorithmic trading. Visit TradingView [here](https://www.tradingview.com/).
+TradingView is another powerful platform that integrates [technical indicators](../t/technical_indicators.md) with social networking features, allowing traders to share ideas and strategies. The platform supports custom scripting through Pine Script, enabling advanced [algorithmic trading](../a/algorithmic_trading.md). Visit TradingView [here](https://www.tradingview.com/).
 
 ## Conclusion
 
-Technical indicator filters are indispensable for algorithmic trading strategies, offering sophisticated tools to analyze market data and generate actionable trading signals. From moving averages to Bollinger Bands, these filters facilitate more precise decision-making and effective risk management. As technology evolves, so too will the integration and application of advanced technical indicators, solidifying their role in the future of financial trading.
+Technical indicator filters are indispensable for [algorithmic trading](../a/algorithmic_trading.md) strategies, offering sophisticated tools to analyze market data and generate actionable [trading signals](../t/trading_signals.md). From moving averages to [Bollinger Bands](../b/bollinger_bands.md), these filters facilitate more precise decision-making and effective [risk management](../r/risk_management.md). As technology evolves, so too will the integration and application of advanced [technical indicators](../t/technical_indicators.md), solidifying their role in the future of financial trading.

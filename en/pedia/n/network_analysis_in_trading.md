@@ -1,6 +1,6 @@
 ## Network Analysis in Trading
 
-Network analysis in trading involves the application of network theory to understand and analyze financial markets. It helps traders, analysts, and investors to uncover relationships, patterns, and dynamics that are not immediately obvious through conventional analysis methods. This approach leverages the interconnectedness of assets, market participants, and informational flows to gain deeper insights into market behavior and optimize trading strategies.
+Network analysis in trading involves the application of network theory to understand and analyze financial markets. It helps traders, analysts, and investors to uncover relationships, patterns, and dynamics that are not immediately obvious through conventional analysis methods. This approach leverages the interconnectedness of assets, market participants, and informational flows to gain deeper insights into market behavior and optimize [trading strategies](../t/trading_strategies.md).
 
 ### Key Concepts in Network Analysis
 
@@ -70,4 +70,4 @@ The integration of network analysis with AI and machine learning holds significa
 
 ### Conclusion
 
-Network analysis provides a powerful framework for understanding the complexities of financial markets. By revealing the underlying connections and dynamics, it offers valuable insights that can enhance trading strategies, improve risk management, and uncover market opportunities. As technological advancements continue to accelerate, the role of network analysis in trading is likely to grow, offering even deeper and more nuanced understandings of market behavior.
+Network analysis provides a powerful framework for understanding the complexities of financial markets. By revealing the underlying connections and dynamics, it offers valuable insights that can enhance [trading strategies](../t/trading_strategies.md), improve [risk management](../r/risk_management.md), and uncover market opportunities. As technological advancements continue to accelerate, the role of network analysis in trading is likely to grow, offering even deeper and more nuanced understandings of market behavior.

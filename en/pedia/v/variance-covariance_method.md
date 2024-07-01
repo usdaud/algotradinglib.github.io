@@ -2,7 +2,7 @@
 
 ### Introduction
 
-The Variance-Covariance Method, also known as the delta-normal approach, is a statistical approach used in financial risk management to estimate Value at Risk (VaR) and other risk measures. This method leverages the assumptions of normal distribution and linearity to simplify the estimation of the potential loss in a portfolio. In this comprehensive guide, we will delve into the detailed mechanisms, advantages, limitations, and applications of this method in algorithmic trading and portfolio management.
+The Variance-Covariance Method, also known as the delta-normal approach, is a statistical approach used in [financial risk management](../f/financial_risk_management.md) to estimate Value at Risk (VaR) and other risk measures. This method leverages the assumptions of normal distribution and linearity to simplify the estimation of the potential loss in a portfolio. In this comprehensive guide, we will delve into the detailed mechanisms, advantages, limitations, and applications of this method in [algorithmic trading](../a/algorithmic_trading.md) and [portfolio management](../p/portfolio_management.md).
 
 ### Fundamental Concepts
 
@@ -155,7 +155,7 @@ This simple example demonstrates the calculation of portfolio VaR using the Vari
 
 #### JPMorgan Chase & Co.
 
-- JPMorgan is a pioneer in the field of risk management and famously developed the RiskMetrics model, which extensively uses the Variance-Covariance Method.
+- JPMorgan is a pioneer in the field of [risk management](../r/risk_management.md) and famously developed the RiskMetrics model, which extensively uses the Variance-Covariance Method.
 - [JPMorgan Risk Management](https://www.jpmorganchase.com/about/risk-management)
 
 #### BlackRock
@@ -165,5 +165,5 @@ This simple example demonstrates the calculation of portfolio VaR using the Vari
 
 ### Conclusion
 
-The Variance-Covariance Method remains a foundational technique in financial risk management. Its ease of use, coupled with the efficiency of matrix computations, makes it a valuable tool for quantifying potential losses in a portfolio. However, practitioners must be mindful of its underlying assumptions and limitations, and consider complementing it with other methods and models to capture a more holistic view of risk.
+The Variance-Covariance Method remains a foundational technique in [financial risk management](../f/financial_risk_management.md). Its ease of use, coupled with the efficiency of matrix computations, makes it a valuable tool for quantifying potential losses in a portfolio. However, practitioners must be mindful of its underlying assumptions and limitations, and consider complementing it with other methods and models to capture a more holistic view of risk.
 

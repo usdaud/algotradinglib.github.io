@@ -1,12 +1,12 @@
 # Negative Volatility Strategies
 
-Volatility is a key metric in the financial markets representing the degree of variation in asset prices over time. It essentially measures the uncertainty or risk associated with changes in a security's value. While most trading strategies are designed to capitalize on positive volatility (i.e., betting that an asset's price will move significantly in one direction), negative volatility strategies are designed to benefit from the opposite: a market's uncertainty, chaotic movements, or the lack of significant price changes.
+Volatility is a key metric in the financial markets representing the degree of variation in asset prices over time. It essentially measures the uncertainty or risk associated with changes in a security's value. While most [trading strategies](../t/trading_strategies.md) are designed to capitalize on positive volatility (i.e., betting that an asset's price will move significantly in one direction), negative volatility strategies are designed to benefit from the opposite: a market's uncertainty, chaotic movements, or the lack of significant price changes.
 
 ## Understanding Volatility
 
 To understand negative volatility strategies, it's essential to grasp the theoretical framework of volatility itself. Volatility can be quantified using several methods, but the two most common are:
 
-1. **Historical Volatility**: This is calculated using past price data to measure the standard deviation of returns over a specified period.
+1. **[Historical Volatility](../h/historical_volatility.md)**: This is calculated using past price data to measure the standard deviation of returns over a specified period.
 2. **Implied Volatility**: This is derived from the market price of options, reflecting the market's expectations of future volatility.
 
 The higher the volatility, the greater the risk and the potential for price swings. Conversely, low volatility suggests that prices are stable and less likely to change dramatically.
@@ -19,9 +19,9 @@ Negative volatility strategies (also known as "short volatility" strategies) inv
 
 One of the most direct ways to profit from an expectation of low volatility is selling options:
 
-- **Covered Call Writing**: Selling call options while holding the underlying asset. If the asset's price remains stable or declines, the call options expire worthless, and the trader keeps the premium.
-- **Naked Call Writing**: Selling call options without holding the underlying asset. This is riskier but can be profitable if the asset's price does not exceed the strike price.
-- **Cash-Secured Put Selling**: Selling put options while setting aside cash to purchase the asset if the option is exercised. This strategy benefits if the asset’s price remains above the strike price.
+- **[Covered Call Writing](../c/covered_call_writing.md)**: Selling call options while holding the underlying asset. If the asset's price remains stable or declines, the call options expire worthless, and the trader keeps the premium.
+- **[Naked Call Writing](../n/naked_call_writing.md)**: Selling call options without holding the underlying asset. This is riskier but can be profitable if the asset's price does not exceed the strike price.
+- **Cash-Secured Put Selling**: Selling [put options](../p/put_options.md) while setting aside cash to purchase the asset if the option is exercised. This strategy benefits if the asset’s price remains above the strike price.
 
 ### Volatility ETFs and ETNs
 
@@ -33,32 +33,32 @@ Inverse volatility products, such as the ProShares Short VIX Short-Term Futures 
 
 ### Volatility Spreads
 
-Creating spreads using volatility derivatives allows traders to establish positions that can profit from changes in volatility:
+Creating spreads using volatility [derivatives](../d/derivatives.md) allows traders to establish positions that can profit from changes in volatility:
 
 - **Calendar Spreads**: Buying and selling options with the same strike price but different expiration dates. This strategy profits if volatility remains stable over the near term but rises in the far term.
 - **Vertical Spreads**: Involves buying and selling options of the same type (calls or puts) with different strike prices. This strategy profits from reduced volatility as long as the underlying asset doesn't make significant moves.
   
 ### Delta Hedging
 
-Delta hedging involves constructing a portfolio that is neutral to small movements in the price of an underlying asset. By continuously adjusting the hedge as markets move, traders aim to profit from the premium received on the options, without taking directional risk.
+[Delta hedging](../d/delta_hedging.md) involves constructing a portfolio that is neutral to small movements in the price of an underlying asset. By continuously adjusting the hedge as markets move, traders aim to profit from the premium received on the options, without taking directional risk.
 
 ### Statistical Arbitrage
 
-Statistical arbitrage strategies seek to profit from pricing inefficiencies between related financial instruments. These strategies often involve complex quantitative models that exploit discrepancies in volatility pricing:
+Statistical [arbitrage](../a/arbitrage.md) strategies seek to profit from pricing inefficiencies between related financial instruments. These strategies often involve complex [quantitative models](../q/quantitative_models.md) that exploit discrepancies in volatility pricing:
 
-- **Pairs Trading**: Taking offsetting positions in two correlated stocks. The strategy profits if the price relationship reverts to its historical norm.
-- **Mean Reversion**: Based on the idea that prices and volatility will revert to their historical averages over time. Traders sell options or volatility products when volatility is high, expecting it to decline.
+- **[Pairs Trading](../p/pairs_trading.md)**: Taking offsetting positions in two correlated stocks. The strategy profits if the price relationship reverts to its historical norm.
+- **[Mean Reversion](../m/mean_reversion.md)**: Based on the idea that prices and volatility will revert to their historical averages over time. Traders sell options or volatility products when volatility is high, expecting it to decline.
 
 ### Volatility Arbitrage
 
-Volatility arbitrage involves exploiting the difference between the implied volatility of options and the actual volatility of the underlying asset. By constructing portfolios that hold both long and short positions in options, traders can profit from the convergence or divergence of these volatilities.
+Volatility [arbitrage](../a/arbitrage.md) involves exploiting the difference between the implied volatility of options and the actual volatility of the underlying asset. By constructing portfolios that hold both long and short positions in options, traders can profit from the convergence or divergence of these volatilities.
 
 ## Companies Specializing in Negative Volatility Strategies
 
 Several financial firms and hedge funds specialize in volatility trading, particularly in implementing negative volatility strategies. Some notable companies include:
 
-- **Two Sigma Investments**: A tech-driven firm that combines advanced artificial intelligence and big data to execute a range of trading strategies, including volatility trading. Learn more at [Two Sigma](https://www.twosigma.com/).
-- **Renaissance Technologies**: Known for the Medallion Fund, this firm utilizes quantitative methods to achieve high returns while managing risk, including volatility risk. Visit [Renaissance Technologies](https://www.rentec.com/).
+- **Two Sigma Investments**: A tech-driven firm that combines advanced artificial intelligence and big data to execute a range of [trading strategies](../t/trading_strategies.md), including volatility trading. Learn more at [Two Sigma](https://www.twosigma.com/).
+- **Renaissance Technologies**: Known for the Medallion Fund, this firm utilizes quantitative methods to achieve high returns while managing risk, including [volatility risk](../v/volatility_risk.md). Visit [Renaissance Technologies](https://www.rentec.com/).
 - **AQR Capital Management**: Employs a diverse approach to trading, including strategies that involve shorting volatility. Detailed information can be found at [AQR](https://www.aqr.com/).
 
 ## Risks Associated with Negative Volatility Strategies
@@ -72,6 +72,6 @@ While negative volatility strategies can be profitable, they come with significa
 
 ## Conclusion
 
-Negative volatility strategies offer advanced traders the potential to profit from stable or declining volatility conditions. These strategies involve a combination of options, volatility products, and complex quantitative models. While they can be highly profitable, they also come with significant risks and require a deep understanding of market dynamics and risk management.
+Negative volatility strategies offer advanced traders the potential to profit from stable or declining volatility conditions. These strategies involve a combination of options, volatility products, and complex [quantitative models](../q/quantitative_models.md). While they can be highly profitable, they also come with significant risks and require a deep understanding of market dynamics and [risk management](../r/risk_management.md).
 
-Investors considering these strategies should do so carefully and ideally consult with financial professionals specializing in volatility trading. As with any trading strategy, due diligence, continuous learning, and risk management are crucial to achieving long-term success.
+Investors considering these strategies should do so carefully and ideally consult with financial professionals specializing in volatility trading. As with any trading strategy, due diligence, continuous learning, and [risk management](../r/risk_management.md) are crucial to achieving long-term success.

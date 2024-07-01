@@ -114,7 +114,7 @@ If an investor deposits an extra $500 into an investment after 1 year and withdr
 
 **Cons:**
 - Requires detailed cash flow tracking.
-- Complex to calculate compared to time-weighted returns.
+- Complex to calculate compared to [time-weighted returns](../t/time-weighted_returns.md).
 
 ### 6. Time-Weighted Rate of Return (TWRR)
 
@@ -156,7 +156,7 @@ If an index starts at 1000, with a price return of 2% and a dividend yield of 1%
 
 **Pros:**
 - Comprehensive reflection of investment returns.
-- Useful for performance benchmarking.
+- Useful for [performance benchmarking](../p/performance_benchmarking.md).
 
 **Cons:**
 - Requires detailed data on dividends.
@@ -165,14 +165,14 @@ If an index starts at 1000, with a price return of 2% and a dividend yield of 1%
 ### Application in Algorithmic Trading
 
 **Relevance:**
-In algorithmic trading, precise and accurate measurement of returns helps in determining the effectiveness of trading strategies. Calculating different forms of returns allows traders to comprehensively understand how various factors including price changes, dividends, interest, and cash flows impact overall performance.
+In [algorithmic trading](../a/algorithmic_trading.md), precise and accurate measurement of returns helps in determining the effectiveness of [trading strategies](../t/trading_strategies.md). Calculating different forms of returns allows traders to comprehensively understand how various factors including price changes, dividends, interest, and cash flows impact overall performance.
 
-1. **Backtesting:** By applying total return methodologies, backtesting results can more accurately reflect potential real-world returns, factoring in both price movements and income.
+1. **[Backtesting](../b/backtesting.md):** By applying total return methodologies, [backtesting](../b/backtesting.md) results can more accurately reflect potential real-world returns, factoring in both price movements and income.
 2. **Strategy Comparison:** Utilizing metrics like CAGR, TWRR, and IRR enables traders to compare different strategies over varying time horizons.
-3. **Performance Attribution:** Detailed return calculations help in attributing performance to specific factors, aiding in strategy refinement.
-4. **Risk Management:** Accurate return calculations play a crucial role in managing and mitigating risks by providing a clearer picture of expected performance under different scenarios.
+3. **[Performance Attribution](../p/performance_attribution.md):** Detailed return calculations help in attributing performance to specific factors, aiding in strategy refinement.
+4. **[Risk Management](../r/risk_management.md):** Accurate return calculations play a crucial role in managing and mitigating risks by providing a clearer picture of expected performance under different scenarios.
 
 **Continuous Monitoring:**
-Automated systems can be programmed to continuously monitor and calculate total returns, adjusting strategies in real time based on updated performance metrics, which is crucial for maintaining competitive edge in high-frequency trading environments.
+Automated systems can be programmed to continuously monitor and calculate total returns, adjusting strategies in real time based on updated [performance metrics](../p/performance_metrics.md), which is crucial for maintaining competitive edge in high-frequency trading environments.
 
 For more detailed services and data on total return calculations and analytic tools, companies like [Morningstar](https://www.morningstar.com) and [Bloomberg](https://www.bloomberg.com) provide comprehensive platforms catering to advanced financial analysis needs.

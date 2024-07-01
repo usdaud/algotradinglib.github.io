@@ -1,6 +1,6 @@
 # Heuristic Algorithms in Algorithmic Trading
 
-Algorithmic trading, commonly known as algo-trading, leverages computer programs to trade stocks and other financial instruments at high speeds and with minimal human intervention. One critical component of this area is heuristic algorithms, which are designed to solve complex problems more quickly than traditional methods by employing practical techniques and rules of thumb. This article explores heuristic algorithms, their applications in algo-trading, and how they enhance market strategies.
+[Algorithmic trading](../a/algorithmic_trading.md), commonly known as algo-trading, leverages computer programs to trade stocks and other financial instruments at high speeds and with minimal human intervention. One critical component of this area is heuristic algorithms, which are designed to solve complex problems more quickly than traditional methods by employing practical techniques and rules of thumb. This article explores heuristic algorithms, their applications in algo-trading, and how they enhance market strategies.
 
 ## What are Heuristic Algorithms?
 
@@ -20,13 +20,13 @@ In trading, a greedy algorithm might select stocks that show the highest immedia
 Inspired by the process of natural selection, genetic algorithms use techniques such as selection, crossover, and mutation to evolve solutions over successive generations. These are highly adaptive but computationally intensive.
 
 #### Example: 
-Genetic algorithms can optimize trading strategies by simulating various market conditions and evolving the most successful strategies over time.
+Genetic algorithms can optimize [trading strategies](../t/trading_strategies.md) by simulating various market conditions and evolving the most successful strategies over time.
 
 ### 3. Simulated Annealing
-Simulated annealing mimics the process of cooling metal to reach a stable state. It starts with a high "temperature" and explores the solution space widely. As the temperature decreases, the algorithm focuses more on refining the solutions.
+[Simulated annealing](../s/simulated_annealing.md) mimics the process of cooling metal to reach a stable state. It starts with a high "temperature" and explores the solution space widely. As the temperature decreases, the algorithm focuses more on refining the solutions.
 
 #### Example:
-In trading, simulated annealing might initially explore a broad range of strategies and gradually refine the focus on those that show promise.
+In trading, [simulated annealing](../s/simulated_annealing.md) might initially explore a broad range of strategies and gradually refine the focus on those that show promise.
 
 ### 4. Tabu Search
 Tabu search enhances the performance of the local search by using memory structures that describe the visited solutions to avoid cycling. It helps in exploring new areas of the solution space.
@@ -37,10 +37,10 @@ A trader might use tabu search to keep track of previously tried strategies to a
 ## Applications in Algorithmic Trading
 
 ### Portfolio Optimization
-Heuristic algorithms are extensively used for portfolio optimization, where the goal is to select a combination of assets that maximizes returns while minimizing risk.
+Heuristic algorithms are extensively used for [portfolio optimization](../p/portfolio_optimization.md), where the goal is to select a combination of assets that maximizes returns while minimizing risk.
 
 #### Example:
-A genetic algorithm can be employed to find an optimal asset allocation by simulating various portfolio combinations and evolving the best performers.
+A genetic algorithm can be employed to find an optimal [asset allocation](../a/asset_allocation.md) by simulating various portfolio combinations and evolving the best performers.
 
 ### High-Frequency Trading (HFT)
 In HFT, speed is of the essence, and heuristic algorithms can quickly adapt to rapidly changing market conditions, making split-second decisions on buys and sells.
@@ -49,10 +49,10 @@ In HFT, speed is of the essence, and heuristic algorithms can quickly adapt to r
 Greedy algorithms can be used in HFT to execute trades that appear profitable based on real-time data.
 
 ### Arbitrage Opportunities
-Heuristic algorithms can identify and exploit arbitrage opportunities—price discrepancies between different markets or instruments.
+Heuristic algorithms can identify and exploit [arbitrage](../a/arbitrage.md) opportunities—price discrepancies between different markets or instruments.
 
 #### Example:
-Simulated annealing might be used to scan multiple markets and identify price mismatches that can be profitably arbitraged.
+[Simulated annealing](../s/simulated_annealing.md) might be used to scan multiple markets and identify price mismatches that can be profitably arbitraged.
 
 ### Sentiment Analysis
 By analyzing news, social media, and other text sources, heuristic algorithms can gauge market sentiment and predict the impact on stock prices.
@@ -80,5 +80,5 @@ A tabu search algorithm might track and analyze trending topics to predict short
 
 ## Conclusion
 
-Heuristic algorithms play a pivotal role in enhancing algorithmic trading strategies by offering quick, adaptable, and efficient solutions to complex market problems. While they come with their own set of challenges, their benefits make them indispensable tools in the fast-paced world of trading.
+Heuristic algorithms play a pivotal role in enhancing [algorithmic trading](../a/algorithmic_trading.md) strategies by offering quick, adaptable, and efficient solutions to complex market problems. While they come with their own set of challenges, their benefits make them indispensable tools in the fast-paced world of trading.
 

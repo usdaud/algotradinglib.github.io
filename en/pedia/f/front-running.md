@@ -25,7 +25,7 @@ Such actions guarantee the front-runner a profit while the client may have to pu
 
 ### Algorithms and High-Frequency Trading (HFT)
 
-In the modern digital era, front-running has evolved with the advent of algorithmic trading and high-frequency trading (HFT). Sophisticated algorithms can detect patterns and predict large movements triggered by algorithm-driven trades, enabling front-runners to execute almost instantaneous trades before the market shifts. This form of front-running is particularly destructive due to its speed and scale.
+In the modern digital era, front-running has evolved with the advent of [algorithmic trading](../a/algorithmic_trading.md) and high-frequency trading (HFT). Sophisticated algorithms can detect patterns and predict large movements triggered by algorithm-driven trades, enabling front-runners to execute almost instantaneous trades before the market shifts. This form of front-running is particularly destructive due to its speed and scale.
 
 ## Regulatory Perspective and Legal Implications
 
@@ -49,7 +49,7 @@ Entities caught engaging in front-running can suffer severe repercussions, inclu
 
 ### Goldman Sachs
 
-In the mid-2000s, Goldman Sachs faced allegations of front-running related to its proprietary trading activities. Regulatory bodies investigated the firm for using non-public information from their clients to inform their trading strategies, leading to significant scrutiny and regulatory changes in the industry.
+In the mid-2000s, Goldman Sachs faced allegations of front-running related to its [proprietary trading](../p/proprietary_trading.md) activities. Regulatory bodies investigated the firm for using non-public information from their clients to inform their [trading strategies](../t/trading_strategies.md), leading to significant scrutiny and regulatory changes in the industry.
 
 ### Barclays
 
@@ -67,7 +67,7 @@ For more on this, check Citigroup's own statements and regulatory filings at [Ci
 
 ### Enhanced Surveillance
 
-Financial institutions use enhanced surveillance tools to detect unusual trading patterns indicative of front-running. These tools analyze vast amounts of data, flagging suspicious activities for closer examination.
+Financial institutions use enhanced surveillance tools to detect [unusual trading patterns](../u/unusual_trading_patterns.md) indicative of front-running. These tools analyze vast amounts of data, flagging suspicious activities for closer examination.
 
 ### Strict Compliance Programs
 

@@ -1,6 +1,6 @@
 # Triangular Moving Average (TMA)
 
-The Triangular Moving Average (TMA) is a unique form of a moving average that applies a double-smoothing process to price data. This technical analysis tool is widely used by traders to smooth out price fluctuations and better identify trends. Unlike simple and exponential moving averages, the TMA reduces the lag effect inherent in these metrics by averaging the average values themselves, producing a more refined depiction of the trend.
+The Triangular Moving Average (TMA) is a unique form of a moving average that applies a double-smoothing process to price data. This [technical analysis](../t/technical_analysis.md) tool is widely used by traders to smooth out price fluctuations and better identify trends. Unlike simple and exponential moving averages, the TMA reduces the lag effect inherent in these metrics by averaging the average values themselves, producing a more refined depiction of the trend.
 
 ## Objective and Concept
 
@@ -88,4 +88,4 @@ While the Triangular Moving Average has its strengths, it also has some limitati
 
 The Triangular Moving Average is a highly effective technical tool for smoothing price data and identifying trends. Its double-smoothing process creates a more refined trend line, which can be particularly useful for identifying longer-term trends and reducing the noise present in shorter-term price movements. However, like any indicator, it has its limitations and should be used in combination with other tools and techniques for best results.
 
-Understanding the mechanics and applications of the TMA can help traders improve their market analysis and develop more effective trading strategies. By offering a clearer picture of the underlying trend, the TMA allows traders to make more informed decisions, contributing to more successful trading outcomes.
+Understanding the mechanics and applications of the TMA can help traders improve their market analysis and develop more effective [trading strategies](../t/trading_strategies.md). By offering a clearer picture of the underlying trend, the TMA allows traders to make more informed decisions, contributing to more successful trading outcomes.

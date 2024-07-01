@@ -6,7 +6,7 @@ The LIBOR-OIS spread is a critical financial metric that reflects the difference
 
 The London Interbank Offered Rate (LIBOR) is one of the world's most important benchmark interest rates. It represents the average rate at which major global banks are willing to lend to one another on an unsecured basis for a specific period ranging from overnight to twelve months. LIBOR is calculated for five currencies (USD, EUR, GBP, JPY, CHF) and for seven borrowing periods (overnight, 1 week, and 1, 2, 3, 6, 12 months).
 
-LIBOR has traditionally been a key reference rate for a large volume of financial products, including derivatives, mortgages, and corporate loans. However, it has faced scrutiny and reform, especially following the interest rate rigging scandal in 2012. The Financial Conduct Authority (FCA) has been working to phase out LIBOR with alternative reference rates like SOFR (Secured Overnight Financing Rate).
+LIBOR has traditionally been a key reference rate for a large volume of financial products, including [derivatives](../d/derivatives.md), mortgages, and corporate loans. However, it has faced scrutiny and reform, especially following the interest rate rigging scandal in 2012. The Financial Conduct Authority (FCA) has been working to phase out LIBOR with alternative reference rates like SOFR (Secured Overnight Financing Rate).
 
 Learn more about LIBOR from [ICE Benchmark Administration](https://www.theice.com/iba/libor).
 
@@ -14,7 +14,7 @@ Learn more about LIBOR from [ICE Benchmark Administration](https://www.theice.co
 
 The Overnight Indexed Swap (OIS) is an interest rate swap agreement where one party agrees to pay a fixed interest rate in exchange for receiving a floating rate pegged to an overnight index, such as the Federal Funds Rate in the United States or EONIA (Euro Overnight Index Average) in the Eurozone. OIS rates are considered low-risk because they are based on the overnight repo rate, which is typically low and stable.
 
-OIS contracts are particularly useful for hedging interest rate risk and for monetary policy signaling. They also serve as a liquidity indicator and a proxy for the true risk-free rate.
+OIS contracts are particularly useful for [hedging interest rate risk](../h/hedging_interest_rate_risk.md) and for monetary policy signaling. They also serve as a liquidity indicator and a proxy for the true risk-free rate.
 
 ## Understanding the Libor-OIS Spread
 
@@ -22,7 +22,7 @@ The LIBOR-OIS spread is the difference between the LIBOR rate and the OIS rate f
 
 ### Historical Context
 
-The LIBOR-OIS spread gained prominence during the 2008 financial crisis. Typically, the spread remains within the range of a few basis points. However, during the crisis, it spiked dramatically as fears over counterparty risk and liquidity shortages soared. For instance, the spread widened to over 300 basis points in October 2008, illustrating the extreme stress in the banking system.
+The LIBOR-OIS spread gained prominence during the 2008 financial crisis. Typically, the spread remains within the range of a few basis points. However, during the crisis, it spiked dramatically as fears over [counterparty risk](../c/counterparty_risk.md) and liquidity shortages soared. For instance, the spread widened to over 300 basis points in October 2008, illustrating the extreme stress in the banking system.
 
 ### Calculation
 
@@ -46,15 +46,15 @@ Central banks may intervene when the LIBOR-OIS spread widens significantly. For 
 
 ## Applications in Algo Trading
 
-In the realm of algo trading, the LIBOR-OIS spread can be utilized for developing trading strategies and risk management mechanisms. Here are a few ways in which it is applied:
+In the realm of algo trading, the LIBOR-OIS spread can be utilized for developing [trading strategies](../t/trading_strategies.md) and [risk management](../r/risk_management.md) mechanisms. Here are a few ways in which it is applied:
 
 ### Market Sentiment Analysis
 
-Algo trading systems can monitor the LIBOR-OIS spread as a part of their sentiment analysis toolset. A sudden increase in the spread can indicate rising risk and prompt algorithms to adjust their positions accordingly.
+Algo [trading systems](../t/trading_systems.md) can monitor the LIBOR-OIS spread as a part of their [sentiment analysis](../s/sentiment_analysis.md) toolset. A sudden increase in the spread can indicate rising risk and prompt algorithms to adjust their positions accordingly.
 
 ### Arbitrage and Spread Trading
 
-Traders can design algorithms to exploit discrepancies between LIBOR and OIS rates. For example, if the spread widens beyond historical norms, it might indicate a trading opportunity either through direct arbitrage or by taking positions in related financial instruments.
+Traders can design algorithms to exploit discrepancies between LIBOR and OIS rates. For example, if the spread widens beyond historical norms, it might indicate a trading opportunity either through direct [arbitrage](../a/arbitrage.md) or by taking positions in related financial instruments.
 
 ### Risk Management
 
@@ -66,8 +66,8 @@ For portfolios containing interest rate-sensitive instruments, tracking the spre
 
 ### Liquidity Forecasting
 
-Changes in the LIBOR-OIS spread provide insights into market liquidity. Algo trading systems can incorporate these insights to predict and prepare for potential liquidity squeezes, ensuring that they maintain effective execution rates.
+Changes in the LIBOR-OIS spread provide insights into market liquidity. Algo [trading systems](../t/trading_systems.md) can incorporate these insights to predict and prepare for potential liquidity squeezes, ensuring that they maintain effective execution rates.
 
 ## Conclusion
 
-The LIBOR-OIS spread is a pivotal metric within the financial markets, reflecting both credit risk and liquidity in the banking sector. For algo trading, it serves as a vital indicator for market sentiment, risk management, and strategic decision-making. As LIBOR transitions to other benchmark rates, understanding spreads like the LIBOR-OIS will continue to be essential for robust financial analysis and algorithmic trading strategies.
+The LIBOR-OIS spread is a pivotal metric within the financial markets, reflecting both credit risk and liquidity in the banking sector. For algo trading, it serves as a vital indicator for market sentiment, [risk management](../r/risk_management.md), and strategic decision-making. As LIBOR transitions to other benchmark rates, understanding spreads like the LIBOR-OIS will continue to be essential for robust financial analysis and [algorithmic trading](../a/algorithmic_trading.md) strategies.

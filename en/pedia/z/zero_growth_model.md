@@ -36,8 +36,8 @@ Thus, the value of XYZ Corporation's stock, assuming zero growth in dividends, i
 
 ## Limitations
 While the Zero Growth Model offers simplicity, it carries several limitations:
-1. **Inapplicability to Growth Stocks**: The model is unsuitable for companies expected to grow their dividends.
-2. **Interest Rate Sensitivity**: The model is highly sensitive to changes in the required rate of return.
+1. **Inapplicability to [Growth Stocks](../g/growth_stocks.md)**: The model is unsuitable for companies expected to grow their dividends.
+2. **[Interest Rate Sensitivity](../i/interest_rate_sensitivity.md)**: The model is highly sensitive to changes in the required rate of return.
 3. **Assumption of Perpetuity**: The assumption that a company will exist indefinitely may not hold true in a volatile economy.
 
 ## Comparison with Other Models
@@ -57,4 +57,4 @@ Suppose Con Edison pays an annual dividend of $3 per share, and investors requir
 Therefore, Con Edison’s stock would be valued at $60 per share based on the assumption of zero growth in dividends.
 
 ## Conclusion
-The Zero Growth Model serves as a fundamental tool for valuing stocks with minimal growth prospects. While its simplicity can be an advantage, investors must be wary of its assumptions and limitations, making it essential to apply this model only to appropriate scenarios. For stocks with expected growth, other valuation models should be considered to capture the growth potential accurately.
+The Zero Growth Model serves as a fundamental tool for valuing stocks with minimal growth prospects. While its simplicity can be an advantage, investors must be wary of its assumptions and limitations, making it essential to apply this model only to appropriate scenarios. For stocks with expected growth, other [valuation models](../v/valuation_models.md) should be considered to capture the growth potential accurately.

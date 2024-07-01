@@ -1,6 +1,6 @@
 # Lattice Models in Options Pricing
 
-Lattice models, also referred to as tree models, are a fundamental tool in quantitative finance, specifically in the pricing of options and other derivative securities. These models are designed to allow for a discrete approximation of an underlying asset's price evolution over time. They can be particularly useful in scenarios where closed-form solutions are not readily available, providing flexibility and computational efficiency.
+Lattice models, also referred to as tree models, are a fundamental tool in [quantitative finance](../q/quantitative_finance.md), specifically in the pricing of options and other derivative securities. These models are designed to allow for a discrete approximation of an underlying asset's price evolution over time. They can be particularly useful in scenarios where closed-form solutions are not readily available, providing flexibility and computational efficiency.
 
 ## Binomial Model
 
@@ -101,12 +101,12 @@ Lattice models are widely used in finance for various applications beyond classi
 
 - **Convertible Bonds**: Pricing securities that can be converted into a certain number of underlying shares.
 - **Real Options**: Evaluating investment opportunities with managerial flexibility.
-- **Risk Management**: Assessing the risk exposure of portfolios containing derivatives.
+- **[Risk Management](../r/risk_management.md)**: Assessing the risk exposure of portfolios containing [derivatives](../d/derivatives.md).
 
 Several software platforms and tools provide implementations of lattice models, including but not limited to MATLAB, Python (with libraries such as QuantLib and pandas), and specialized financial software like Bloomberg Terminal and Thomson Reuters Eikon.
 
 ## Conclusion
 
-Lattice models, through their adaptability and intuitive structure, have become integral in the field of financial derivatives' pricing. While they come with certain computational limitations, their flexibility in handling various types of derivatives and market conditions continues to make them an invaluable tool in quantitative finance.
+Lattice models, through their adaptability and intuitive structure, have become integral in the field of financial [derivatives](../d/derivatives.md)' pricing. While they come with certain computational limitations, their flexibility in handling various types of [derivatives](../d/derivatives.md) and market conditions continues to make them an invaluable tool in [quantitative finance](../q/quantitative_finance.md).
 
-For more information on financial modeling software and tools, visit [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/) or [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/refinitiv-eikon).
+For more information on [financial modeling](../f/financial_modeling.md) software and tools, visit [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/) or [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/refinitiv-eikon).

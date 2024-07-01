@@ -1,10 +1,10 @@
 ## K-Ratio for Risk-Adjusted Performance
 
-K-Ratio is an advanced metric used in financial risk management and algorithmic trading to evaluate the performance of an investment strategy by considering both its return and the risk-adjusted time. It offers a comprehensive view of the effectiveness of a trading algorithm by providing insights into the trade-offs between returns, time horizons, and associated volatilities.
+K-Ratio is an advanced metric used in [financial risk management](../f/financial_risk_management.md) and [algorithmic trading](../a/algorithmic_trading.md) to evaluate the performance of an investment strategy by considering both its return and the risk-adjusted time. It offers a comprehensive view of the effectiveness of a trading algorithm by providing insights into the trade-offs between returns, time horizons, and associated volatilities.
 
 ### Understanding K-Ratio
 
-The K-Ratio was introduced by Lars Kestner in his book, "Quantitative Trading Strategies," as a means to address limitations in existing metrics like the Sharpe Ratio and Sortino Ratio. Unlike these metrics, which mainly focus on returns and volatility, the K-Ratio incorporates the time dimension, offering a more nuanced understanding of performance over varying time frames.
+The K-Ratio was introduced by Lars Kestner in his book, "[Quantitative Trading](../q/quantitative_trading.md) Strategies," as a means to address limitations in existing metrics like the [Sharpe Ratio](../s/sharpe_ratio.md) and [Sortino Ratio](../s/sortino_ratio.md). Unlike these metrics, which mainly focus on returns and volatility, the K-Ratio incorporates the time dimension, offering a more nuanced understanding of performance over varying time frames.
 
 Mathematically, the K-Ratio is calculated as:
 
@@ -21,17 +21,17 @@ Mathematically, the K-Ratio is calculated as:
 
 3. **Volatility**: Although not directly incorporated, it affects the equity curve dynamics and, subsequently, the standard error of the regression.
 
-4. **Regression Analysis**: Central to K-Ratio calculation, it involves fitting a linear trend to the equity curve using least-squares methodology.
+4. **[Regression Analysis](../r/regression_analysis.md)**: Central to K-Ratio calculation, it involves fitting a linear trend to the equity curve using least-squares methodology.
 
 ### Importance in Algorithmic Trading
 
-The K-Ratio is particularly valuable in algorithmic trading for the following reasons:
+The K-Ratio is particularly valuable in [algorithmic trading](../a/algorithmic_trading.md) for the following reasons:
 
 1. **Performance Insight**: It offers a deeper understanding of how well the trading strategy performs over time, beyond mere returns and standard deviation.
 
-2. **Risk Management**: By incorporating time and error variance, it provides a more robust framework for assessing risk-adjusted returns.
+2. **[Risk Management](../r/risk_management.md)**: By incorporating time and error variance, it provides a more robust framework for assessing risk-adjusted returns.
 
-3. **Strategy Comparison**: Facilitates more accurate comparisons between different trading strategies, especially those with varying time exposures and volatilities.
+3. **Strategy Comparison**: Facilitates more accurate comparisons between different [trading strategies](../t/trading_strategies.md), especially those with varying time exposures and volatilities.
 
 4. **Optimization**: Helps in refining algorithms for better balance between return and risk over the preferred time horizon.
 
@@ -45,7 +45,7 @@ Let's consider a simplified example to calculate the K-Ratio:
 
 3. **Cumulative Log Returns**: Sum up the log returns to get cumulative values.
 
-4. **Regression Line Fit**: Fit a linear regression line to the cumulative log returns.
+4. **Regression Line Fit**: Fit a [linear regression](../l/linear_regression.md) line to the cumulative log returns.
 
 5. **Slope and Standard Error**: Extract the slope of the regression line and its standard error.
 
@@ -55,7 +55,7 @@ By following these steps, the trader can derive a single metric that encapsulate
 
 ### Real-World Application
 
-In the real world, firms rely on robust performance metrics like the K-Ratio to drive investment decisions. For instance, quantitative trading firms such as Renaissance Technologies (https://www.rentec.com) and DE Shaw (https://www.deshaw.com) use advanced statistical and mathematical models to assess and optimize their trading strategies, incorporating metrics like the K-Ratio to fine-tune algorithms for superior risk-adjusted returns.
+In the real world, firms rely on robust [performance metrics](../p/performance_metrics.md) like the K-Ratio to drive investment decisions. For instance, [quantitative trading](../q/quantitative_trading.md) firms such as Renaissance Technologies (https://www.rentec.com) and DE Shaw (https://www.deshaw.com) use advanced statistical and mathematical models to assess and optimize their [trading strategies](../t/trading_strategies.md), incorporating metrics like the K-Ratio to fine-tune algorithms for superior risk-adjusted returns.
 
 ### Limitations of K-Ratio
 
@@ -71,14 +71,14 @@ Despite its advantages, the K-Ratio has some limitations:
 
 To address these limitations, traders may consider enhancements such as:
 
-1. **Robust Regression Techniques**: Using methodologies that mitigate the impact of outliers.
+1. **Robust [Regression Techniques](../r/regression_techniques.md)**: Using methodologies that mitigate the impact of outliers.
 
 2. **Multifactor Models**: Incorporating additional factors that affect performance and risk.
 
 Alternatively, other metrics can complement the K-Ratio, including:
 
-- **Sharpe Ratio**: For understanding return per unit of volatility.
-- **Sortino Ratio**: Focuses on downside risk.
+- **[Sharpe Ratio](../s/sharpe_ratio.md)**: For understanding return per unit of volatility.
+- **[Sortino Ratio](../s/sortino_ratio.md)**: Focuses on downside risk.
 - **Calmar Ratio**: Considers maximum drawdown relative to returns.
 
-In conclusion, the K-Ratio is a comprehensive metric that, while complex, provides meaningful insights into the performance of algorithmic trading strategies by considering both return, risk, and the time horizon, thus offering a holistic view of investment effectiveness.
+In conclusion, the K-Ratio is a comprehensive metric that, while complex, provides meaningful insights into the performance of [algorithmic trading](../a/algorithmic_trading.md) strategies by considering both return, risk, and the time horizon, thus offering a holistic view of investment effectiveness.

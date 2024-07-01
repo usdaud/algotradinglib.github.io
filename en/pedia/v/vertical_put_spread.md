@@ -1,7 +1,7 @@
 # Vertical Put Spread
 
 ## Introduction
-A Vertical Put Spread is a popular options trading strategy involving the simultaneous buying and selling of put options on the same underlying asset with the same expiration date but at different strike prices. This strategy is primarily utilized by traders to express a bearish outlook on the underlying asset with limited risk and reward profiles.
+A Vertical Put Spread is a popular options trading strategy involving the simultaneous buying and selling of [put options](../p/put_options.md) on the same underlying asset with the same expiration date but at different strike prices. This strategy is primarily utilized by traders to express a bearish outlook on the underlying asset with limited risk and reward profiles.
 
 ## Understanding the Mechanics
 A Vertical Put Spread typically involves two key actions:
@@ -13,7 +13,7 @@ A Vertical Put Spread typically involves two key actions:
 The result is a spread because the trader is dealing with two different strike prices.
 
 ## Key Terminology
-- **Strike Price**: The price at which the put options will be executed.
+- **Strike Price**: The price at which the [put options](../p/put_options.md) will be executed.
 - **Expiration Date**: The date on which the options will expire.
 - **Debit Spread**: When the cost to enter the spread (the price paid for the bought put minus the price received for the sold put) is an upfront debit.
 - **Credit Spread**: When the strategy is structured to take in net credit, though less common in vertical put spreads compared to vertical call spreads.
@@ -37,7 +37,7 @@ The net cost (or debit) for this vertical put spread would be (5 - 2) = $3.
    - The investor's loss is mitigated partially by the value of the long put option.
 
 3. **Stock XYZ Ends Above $100**:
-   - Both put options expire worthless, and the investor's maximum loss is the net premium paid.
+   - Both [put options](../p/put_options.md) expire worthless, and the investor's maximum loss is the net premium paid.
    - Maximum loss = $3.
 
 ## Strategy Profile
@@ -91,4 +91,4 @@ A more complex strategy that combines a vertical put spread with a vertical call
 [E*TRADE](https://us.etrade.com/platforms/power-etrade) provides a user-friendly interface for trading vertical put spreads along with educational resources for traders of all levels.
 
 ## Conclusion
-Vertical Put Spreads offer traders a versatile tool for speculating on bearish market moves while managing risk. By simultaneously buying and selling put options at different strike prices, traders can define their potential gains and losses, providing a structured approach to trading in volatile markets. Understanding the mechanics, potential outcomes, and strategic applications of vertical put spreads is essential for any trader aiming to utilize this strategy effectively.
+Vertical Put Spreads offer traders a versatile tool for speculating on bearish market moves while managing risk. By simultaneously buying and selling [put options](../p/put_options.md) at different strike prices, traders can define their potential gains and losses, providing a structured approach to trading in volatile markets. Understanding the mechanics, potential outcomes, and strategic applications of vertical put spreads is essential for any trader aiming to utilize this strategy effectively.

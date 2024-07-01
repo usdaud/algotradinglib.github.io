@@ -2,7 +2,7 @@
 
 ## Introduction
 
-A Support Vector Classifier (SVC) is a supervised learning algorithm commonly used in the field of machine learning and pattern recognition. It is based on the principles of the Support Vector Machine (SVM) and aims to classify data points by finding an optimal hyperplane that separates the various classes. In the context of algorithmic trading, SVC can play a crucial role in predicting market directions, identifying trading signals, and building predictive models to optimize trading strategies. 
+A Support Vector Classifier (SVC) is a supervised learning algorithm commonly used in the field of machine learning and [pattern recognition](../p/pattern_recognition.md). It is based on the principles of the Support Vector Machine (SVM) and aims to classify data points by finding an optimal hyperplane that separates the various classes. In the context of [algorithmic trading](../a/algorithmic_trading.md), SVC can play a crucial role in predicting market directions, identifying [trading signals](../t/trading_signals.md), and building predictive models to optimize [trading strategies](../t/trading_strategies.md). 
 
 ## Basic Concept of Support Vector Classifier
 
@@ -51,23 +51,23 @@ One of the powerful features of SVC is its ability to handle non-linearly separa
 
 ## SVC in Algorithmic Trading
 
-In algorithmic trading, SVC can be used for various purposes, including stock price prediction, identifying trading signals, and building automated trading strategies. Here’s how SVC can be deployed in different trading scenarios:
+In [algorithmic trading](../a/algorithmic_trading.md), SVC can be used for various purposes, including stock price prediction, identifying [trading signals](../t/trading_signals.md), and building automated [trading strategies](../t/trading_strategies.md). Here’s how SVC can be deployed in different trading scenarios:
 
 ### Predicting Market Directions
 
-SVC can be trained on historical price data to classify whether the price of a particular stock or asset will go up or down. The input features may include technical indicators, moving averages, trading volumes, and other relevant metrics. The SVC model can then predict the future direction of the market based on new data inputs.
+SVC can be trained on historical price data to classify whether the price of a particular stock or asset will go up or down. The input features may include [technical indicators](../t/technical_indicators.md), moving averages, trading volumes, and other relevant metrics. The SVC model can then predict the future direction of the market based on new data inputs.
 
 ### Identifying Trading Signals
 
-SVC can help identify ideal entry and exit points for trades by classifying moments when specific trading signals occur. For instance, SVC can be trained to recognize patterns in the data that indicate the start of a trend or a reversal, allowing traders to make informed decisions.
+SVC can help identify ideal entry and exit points for trades by classifying moments when specific [trading signals](../t/trading_signals.md) occur. For instance, SVC can be trained to recognize patterns in the data that indicate the start of a trend or a reversal, allowing traders to make informed decisions.
 
 ### Portfolio Optimization
 
-Portfolio optimization involves selecting a mix of assets that maximizes returns while minimizing risk. SVC can be used to classify assets based on their risk and return profiles, helping in the construction of an optimal portfolio.
+[Portfolio optimization](../p/portfolio_optimization.md) involves selecting a mix of assets that maximizes returns while minimizing risk. SVC can be used to classify assets based on their risk and return profiles, helping in the construction of an optimal portfolio.
 
 ## Implementation Steps
 
-Implementing an SVC model for algorithmic trading involves several steps:
+Implementing an SVC model for [algorithmic trading](../a/algorithmic_trading.md) involves several steps:
 
 ### Data Collection and Preprocessing
 
@@ -75,7 +75,7 @@ The first step is to gather historical data from reliable sources such as financ
 
 ### Feature Engineering
 
-Feature engineering involves creating new variables that represent the essential patterns in the data. For trading, these features may include technical indicators like Relative Strength Index (RSI), Moving Average Convergence Divergence (MACD), Bollinger Bands, and more.
+Feature engineering involves creating new variables that represent the essential patterns in the data. For trading, these features may include [technical indicators](../t/technical_indicators.md) like Relative Strength Index (RSI), Moving Average Convergence Divergence (MACD), [Bollinger Bands](../b/bollinger_bands.md), and more.
 
 ### Model Training
 
@@ -83,17 +83,17 @@ The next step is to train the SVC model using the preprocessed data. This entail
 
 ### Model Validation and Testing
 
-After training, the model’s performance needs to be validated using cross-validation techniques to ensure it generalizes well on unseen data. Performance metrics like accuracy, precision, recall, and F1-score are often used for evaluation.
+After training, the model’s performance needs to be validated using cross-validation techniques to ensure it generalizes well on unseen data. [Performance metrics](../p/performance_metrics.md) like accuracy, precision, recall, and F1-score are often used for evaluation.
 
 ### Deployment and Live Trading
 
-Once validated, the model can be deployed in a real-time trading environment. The SVC model will continuously receive new data inputs, predict market directions, and generate trading signals that guide buy/sell decisions.
+Once validated, the model can be deployed in a real-time [trading environment](../t/trading_environment.md). The SVC model will continuously receive new data inputs, predict market directions, and generate [trading signals](../t/trading_signals.md) that guide buy/sell decisions.
 
 ## Case Study: Applying SVC in Real-World Trading
 
 ### Example 1: Stock Price Prediction
 
-Consider a scenario where a trader wants to predict the price movement of a particular stock. The features might include historical prices, trading volumes, and technical indicators. The SVC model is trained on this dataset, optimized using grid search for hyperparameter tuning, and validated using historical test data. Upon deployment, the model continuously predicts whether the stock price will rise or fall, assisting the trader in making informed trading decisions.
+Consider a scenario where a trader wants to predict the price movement of a particular stock. The features might include historical prices, trading volumes, and [technical indicators](../t/technical_indicators.md). The SVC model is trained on this dataset, optimized using grid search for hyperparameter tuning, and validated using historical test data. Upon deployment, the model continuously predicts whether the stock price will rise or fall, assisting the trader in making informed trading decisions.
 
 ### Example 2: Predicting Cryptocurrency Trends
 
@@ -119,7 +119,7 @@ Financial markets are dynamic and continually evolving. A model trained on histo
 
 ## Tools and Libraries
 
-Several tools and libraries facilitate the implementation of SVC for algorithmic trading:
+Several tools and libraries facilitate the implementation of SVC for [algorithmic trading](../a/algorithmic_trading.md):
 
 - **scikit-learn**: A popular Python library that offers a robust implementation of SVC with various kernel options and utilities for model evaluation.
   [scikit-learn](https://scikit-learn.org/stable/modules/svm.html#svm-classification)
@@ -130,9 +130,9 @@ Several tools and libraries facilitate the implementation of SVC for algorithmic
 - **libsvm**: A library dedicated to SVM and SVC with support for various kernels and optimization algorithms.
   [libsvm](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
 
-- **QuantConnect**: A platform offering algorithmic trading tools, including support for SVC and other machine learning models.
+- **QuantConnect**: A platform offering [algorithmic trading](../a/algorithmic_trading.md) tools, including support for SVC and other machine learning models.
   [QuantConnect](https://www.quantconnect.com/)
 
 ## Conclusion
 
-The Support Vector Classifier is a powerful tool in the arsenal of algorithmic trading. Its ability to classify complex patterns and make accurate predictions based on historical data makes it well-suited for financial markets. By leveraging techniques such as kernel functions, feature engineering, and model validation, traders can deploy SVC models to enhance their trading strategies, manage risks, and optimize portfolio performance. However, considerations such as overfitting, feature selection, and market dynamics must be addressed to ensure the model's robustness and long-term success.
+The Support Vector Classifier is a powerful tool in the arsenal of [algorithmic trading](../a/algorithmic_trading.md). Its ability to classify complex patterns and make accurate predictions based on historical data makes it well-suited for financial markets. By leveraging techniques such as kernel functions, feature engineering, and model validation, traders can deploy SVC models to enhance their [trading strategies](../t/trading_strategies.md), manage risks, and optimize [portfolio performance](../p/portfolio_performance.md). However, considerations such as overfitting, feature selection, and market dynamics must be addressed to ensure the model's robustness and long-term success.

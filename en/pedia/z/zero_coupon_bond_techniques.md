@@ -1,6 +1,6 @@
 ## Zero Coupon Bond Techniques
 
-Zero Coupon Bonds (ZCBs), also known as discount bonds or pure discount bonds, are a type of fixed-income security that does not pay interest (coupons) periodically. Instead, they are issued at a discount to their face value and the investor receives the face value upon maturity. The difference between the purchase price and the face value represents the investor's return on the bond. Zero Coupon Bonds are widely used in financial markets for various purposes including investment, risk management, and financial structuring.
+Zero Coupon Bonds (ZCBs), also known as discount bonds or pure discount bonds, are a type of fixed-income security that does not pay interest (coupons) periodically. Instead, they are issued at a discount to their face value and the investor receives the face value upon maturity. The difference between the purchase price and the face value represents the investor's return on the bond. Zero Coupon Bonds are widely used in financial markets for various purposes including investment, [risk management](../r/risk_management.md), and financial structuring.
 
 ### Characteristics of Zero Coupon Bonds
 
@@ -23,18 +23,18 @@ where:
 ### Uses of Zero Coupon Bonds
 
 1. **Investment**: Investors with a long-term horizon may prefer ZCBs due to their predictability and the certainty of receiving a lump sum at maturity.
-2. **Financial Planning**: ZCBs can be used for future financial needs such as college tuition or retirement planning due to their maturity-focused structure.
-3. **Portfolio Diversification**: Adding ZCBs to a portfolio can reduce risk through diversification and provide a hedge against interest rate risk.
-4. **Risk Management**: Companies and financial institutions use ZCBs to manage cash flow and interest rate exposure.
+2. **[Financial Planning](../f/financial_planning.md)**: ZCBs can be used for future financial needs such as college tuition or retirement planning due to their maturity-focused structure.
+3. **[Portfolio Diversification](../p/portfolio_diversification.md)**: Adding ZCBs to a portfolio can reduce risk through diversification and provide a hedge against interest rate risk.
+4. **[Risk Management](../r/risk_management.md)**: Companies and financial institutions use ZCBs to manage cash flow and interest rate exposure.
 5. **Tax Advantages**: In some jurisdictions, ZCBs may offer tax advantages as the accrued interest is deferred until maturity.
 
 ### Techniques in Zero Coupon Bond Trading
 
 1. **Duration Matching**: This technique involves matching the duration of assets and liabilities. Since ZCBs have a known duration equal to their maturity, they are useful for this strategy.
 2. **Stripping and Reconstitution**: Some bonds, particularly government securities, can be "stripped" into separate securities for each interest payment and principal repayment, effectively creating ZCBs. These can later be "reconstituted" into the original bond.
-3. **Yield Curve Construction**: Financial analysts use ZCBs to construct yield curves, which are graphical representations of interest rates across different maturities. This is possible because ZCBs provide clean and unambiguous valuation data.
+3. **[Yield Curve](../y/yield_curve.md) Construction**: Financial analysts use ZCBs to construct yield curves, which are graphical representations of interest rates across different maturities. This is possible because ZCBs provide clean and unambiguous valuation data.
 4. **Immunization**: Investors can use ZCBs to immunize their portfolios against interest rate changes by matching the durations of assets to liabilities.
-5. **Arbitrage Opportunities**: Traders may exploit arbitrage opportunities arising from mispricing in the bond market. The simple structure of ZCBs makes them ideal for such strategies.
+5. **[Arbitrage](../a/arbitrage.md) Opportunities**: Traders may exploit [arbitrage](../a/arbitrage.md) opportunities arising from mispricing in the bond market. The simple structure of ZCBs makes them ideal for such strategies.
 
 ### Examples of Zero Coupon Bond Issuers
 
@@ -53,9 +53,9 @@ Investors who wish to invest in a diversified portfolio of ZCBs can consider Zer
 1. **Interest Rate Risk**: ZCBs are highly sensitive to interest rate changes due to the absence of periodic coupon payments.
 2. **Reinvestment Risk**: Unlike coupon bonds, ZCBs do not face reinvestment risk as there are no interim cash flows to reinvest.
 3. **Credit Risk**: Although government-issued ZCBs typically have low credit risk, corporate ZCBs can carry higher risk depending on the issuer's creditworthiness.
-4. **Liquidity Risk**: ZCBs may have lower liquidity compared to coupon-bearing bonds, potentially resulting in higher transaction costs.
+4. **[Liquidity Risk](../l/liquidity_risk.md)**: ZCBs may have lower liquidity compared to coupon-bearing bonds, potentially resulting in higher transaction costs.
 5. **Inflation Risk**: The fixed payment at maturity may lose purchasing power in an inflationary environment.
 
 ### Conclusion
 
-Zero Coupon Bonds are a unique financial instrument that provides distinct benefits and risks. Their simple structure, lack of periodic interest payments, and sensitivity to interest rates make them valuable for various financial strategies including duration matching, immunization, and yield curve construction. Investors must consider the associated risks, such as interest rate risk and credit risk, and use ZCBs appropriately within their investment portfolios for effective financial management.
+Zero Coupon Bonds are a unique financial instrument that provides distinct benefits and risks. Their simple structure, lack of periodic interest payments, and sensitivity to interest rates make them valuable for various financial strategies including duration matching, immunization, and [yield curve](../y/yield_curve.md) construction. Investors must consider the associated risks, such as interest rate risk and credit risk, and use ZCBs appropriately within their investment portfolios for effective financial management.

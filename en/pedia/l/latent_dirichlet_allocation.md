@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Latent Dirichlet Allocation (LDA) is a powerful generative probabilistic model primarily used for topic modeling and natural language processing. However, LDA can also be applied in the context of algorithmic trading to uncover latent patterns in large datasets, enabling market prediction and trading strategy optimization. This article explores LDA's application in the domain of algotrading, explaining its fundamentals, and providing examples of its practical usage.
+Latent Dirichlet Allocation (LDA) is a powerful generative probabilistic model primarily used for topic modeling and natural language processing. However, LDA can also be applied in the context of [algorithmic trading](../a/algorithmic_trading.md) to uncover latent patterns in large datasets, enabling market prediction and trading strategy optimization. This article explores LDA's application in the domain of algotrading, explaining its fundamentals, and providing examples of its practical usage.
 
 ## Fundamentals of Latent Dirichlet Allocation
 
@@ -29,7 +29,7 @@ The Dirichlet distributions help ensure that each document exhibits multiple top
 
 ## Applying LDA to Financial Data
 
-In the context of algorithmic trading, LDA can be particularly useful for extracting themes or patterns from large and complex datasets such as news articles, financial reports, social media feeds, and even time-series data. These patterns can then inform trading strategies by providing deeper insights into market sentiment, sectoral trends, and latent economic factors.
+In the context of [algorithmic trading](../a/algorithmic_trading.md), LDA can be particularly useful for extracting themes or patterns from large and complex datasets such as news articles, financial reports, social media feeds, and even time-series data. These patterns can then inform [trading strategies](../t/trading_strategies.md) by providing deeper insights into market sentiment, sectoral trends, and latent economic factors.
 
 ### Preprocessing Financial Text Data
 
@@ -53,19 +53,19 @@ LDA produces a topic-word distribution and a document-topic distribution. These 
 
 ### Example 1: Market Sentiment Analysis
 
-One of the most common applications of LDA in algotrading is market sentiment analysis. For instance, by analyzing a vast array of financial news articles, LDA can uncover underlying sentiment trends which can then be correlated with stock price movements.
+One of the most common applications of LDA in algotrading is [market sentiment analysis](../m/market_sentiment_analysis.md). For instance, by analyzing a vast array of financial news articles, LDA can uncover underlying sentiment trends which can then be correlated with stock price movements.
 
 **Case Study**: An asset management firm could utilize LDA to process daily news feeds, generating insights into the prevailing sentiment surrounding particular sectors or companies. By correlating these insights with historical stock performance, the firm could develop a sentiment-based trading algorithm.
 
 ### Example 2: Sectoral Trends Identification
 
-LDA can also be used to identify sectoral trends by analyzing financial reports and earnings call transcripts. Each sector might exhibit unique latent patterns, which could be crucial for developing sector-specific trading strategies.
+LDA can also be used to identify sectoral trends by analyzing financial reports and earnings call transcripts. Each sector might exhibit unique latent patterns, which could be crucial for developing sector-specific [trading strategies](../t/trading_strategies.md).
 
 **Case Study**: Analyzing quarterly earning call transcripts with LDA might reveal industry-specific cycles or emerging trends before they become evident in market prices.
 
 ### Example 3: Macro-Economic Indicators
 
-Beyond company-specific data, LDA can analyze macro-economic reports, central bank releases, and other economic indicators to uncover latent economic factors that might impact financial markets.
+Beyond company-specific data, LDA can analyze macro-economic reports, central bank releases, and other [economic indicators](../e/economic_indicators.md) to uncover latent economic factors that might impact financial markets.
 
 **Case Study**: A hedge fund could use LDA on central bank minutes to extract hidden concerns or potential policy shifts, thus positioning their portfolio in anticipation of market reactions.
 
@@ -101,7 +101,7 @@ import nltk
 # Example documents
 documents = [
     "Economic growth and investment opportunities.",
-    "Industrial sector performance and stock prices.",
+    "Industrial [sector performance](../s/sector_performance.md) and stock prices.",
     "Tech industry innovations and market trends.",
     "The impact of fiscal policy on financial markets."
 ]
@@ -124,4 +124,4 @@ for idx, topic in lda_model.print_topics(-1):
 
 ## Conclusion
 
-Latent Dirichlet Allocation provides rich, latent insights into complex financial datasets, proving valuable for various applications in algorithmic trading. By extracting underlying themes and patterns from textual data, LDA equips traders and financial analysts with deeper, data-driven insights, bolstering the decision-making process and enhancing the efficacy of trading strategies.
+Latent Dirichlet Allocation provides rich, latent insights into complex financial datasets, proving valuable for various applications in [algorithmic trading](../a/algorithmic_trading.md). By extracting underlying themes and patterns from textual data, LDA equips traders and financial analysts with deeper, data-driven insights, bolstering the decision-making process and enhancing the efficacy of [trading strategies](../t/trading_strategies.md).

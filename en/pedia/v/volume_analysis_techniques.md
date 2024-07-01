@@ -1,6 +1,6 @@
 # Volume Analysis Techniques
 
-Volume analysis is a critical component of financial market analysis and trading. It involves examining the volume of traded assets to make informed decisions about potential market movements. Volume represents the number of shares or contracts traded in an asset or market during a specific period, and it provides valuable insights into the strength or weakness of price trends. Here, we delve into various volume analysis techniques that are commonly employed by traders and analysts.
+[Volume analysis](../v/volume_analysis.md) is a critical component of financial market analysis and trading. It involves examining the volume of traded assets to make informed decisions about potential market movements. Volume represents the number of shares or contracts traded in an asset or market during a specific period, and it provides valuable insights into the strength or weakness of price trends. Here, we delve into various [volume analysis](../v/volume_analysis.md) techniques that are commonly employed by traders and analysts.
 
 ## 1. Volume Price Trend (VPT)
 
@@ -57,12 +57,12 @@ The CMF value oscillates between -1 and 1, with positive values indicating buyin
 
 ## 5. Volume Oscillator
 
-A Volume Oscillator measures the difference between two moving averages of volume. Traders typically use a short-term and long-term moving average to gauge the trend and momentum of volume changes.
+A [Volume Oscillator](../v/volume_oscillator.md) measures the difference between two moving averages of volume. Traders typically use a short-term and long-term moving average to gauge the trend and momentum of volume changes.
 
 Formula:
 
 ```
-Volume Oscillator = (Short-term moving average of volume - Long-term moving average of volume) / Long-term moving average of volume
+[Volume Oscillator](../v/volume_oscillator.md) = (Short-term moving average of volume - Long-term moving average of volume) / Long-term moving average of volume
 ```
 
 This oscillator helps identify changes in volume trends and potential reversals.
@@ -105,7 +105,7 @@ A high RVOL suggests increased interest in the security, while a low RVOL indica
 
 ## 9. Volume Rate of Change (VROC)
 
-Volume Rate of Change (VROC) calculates the percentage change in volume over a given period. It helps identify surges in trading activity that might precede significant price movements.
+[Volume Rate of Change](../v/volume_rate_of_change.md) (VROC) calculates the percentage change in volume over a given period. It helps identify surges in trading activity that might precede significant price movements.
 
 Formula:
 
@@ -117,7 +117,7 @@ VROC is effective in spotting sudden changes in market activity and potential tr
 
 ## 10. Volume Profile
 
-Volume Profile is an advanced charting tool that displays the volume traded at specific price levels over a given time period. It helps traders identify areas of high trading activity, known as high-volume nodes, and areas of low activity, known as low-volume nodes.
+[Volume Profile](../v/volume_profile.md) is an advanced charting tool that displays the volume traded at specific price levels over a given time period. It helps traders identify areas of high trading activity, known as high-volume nodes, and areas of low activity, known as low-volume nodes.
 
 ### High-Volume Nodes (HVN)
 
@@ -127,8 +127,8 @@ These zones are areas of significant trading activity, suggesting strong support
 
 These zones indicate areas with minimal trading activity, often acting as transition zones between HVNs.
 
-Volume Profile provides a comprehensive view of how volume is distributed across different price levels, offering insights into market sentiment and potential future price movements.
+[Volume Profile](../v/volume_profile.md) provides a comprehensive view of how volume is distributed across different price levels, offering insights into market sentiment and potential future price movements.
 
 ## Conclusion
 
-Volume analysis techniques are essential tools for traders and analysts to gain a deeper understanding of market dynamics and predict future price movements. By incorporating volume data into their analysis, traders can make more informed decisions and improve their trading strategies. The key techniques discussed—VPT, OBV, A/D Line, CMF, Volume Oscillator, MFI, VWAP, RVOL, VROC, and Volume Profile—each offer unique insights into the relationship between volume and price. Utilizing these techniques can enhance a trader's ability to navigate the complexities of financial markets and achieve better trading outcomes.
+[Volume analysis](../v/volume_analysis.md) techniques are essential tools for traders and analysts to gain a deeper understanding of market dynamics and predict future price movements. By incorporating volume data into their analysis, traders can make more informed decisions and improve their [trading strategies](../t/trading_strategies.md). The key techniques discussed—VPT, OBV, A/D Line, CMF, [Volume Oscillator](../v/volume_oscillator.md), MFI, VWAP, RVOL, VROC, and [Volume Profile](../v/volume_profile.md)—each offer unique insights into the relationship between volume and price. Utilizing these techniques can enhance a trader's ability to navigate the complexities of financial markets and achieve better trading outcomes.

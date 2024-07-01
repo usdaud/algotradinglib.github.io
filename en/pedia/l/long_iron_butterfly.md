@@ -2,18 +2,18 @@
 
 ## Introduction
 
-The Long Iron Butterfly strategy is an advanced options trading strategy that combines elements of both the Iron Condor and the Butterfly Spread. It is designed to profit from low volatility in the underlying asset, allowing traders to capitalize on price containment within a specific range. The strategy involves the simultaneous buying and selling of four options of the same underlying asset with three different strike prices. By understanding the mechanics of the Long Iron Butterfly, traders can better appreciate its benefits and risks.
+The Long [Iron Butterfly](../i/iron_butterfly.md) strategy is an advanced options trading strategy that combines elements of both the [Iron Condor](../i/iron_condor.md) and the [Butterfly Spread](../b/butterfly_spread.md). It is designed to profit from low volatility in the underlying asset, allowing traders to capitalize on price containment within a specific range. The strategy involves the simultaneous buying and selling of four options of the same underlying asset with three different strike prices. By understanding the mechanics of the Long [Iron Butterfly](../i/iron_butterfly.md), traders can better appreciate its benefits and risks.
 
 ## Basics of Options Trading
 
-Before delving into the Long Iron Butterfly, it's crucial to have a foundational understanding of options trading. Options are financial derivatives that provide the buyer the right, but not the obligation, to buy or sell an underlying asset at a predetermined strike price before or at the expiry date. There are two primary types of options:
+Before delving into the Long [Iron Butterfly](../i/iron_butterfly.md), it's crucial to have a foundational understanding of options trading. Options are financial [derivatives](../d/derivatives.md) that provide the buyer the right, but not the obligation, to buy or sell an underlying asset at a predetermined strike price before or at the expiry date. There are two primary types of options:
 
 1. **Call Options**: These give the holder the right to buy the underlying asset.
-2. **Put Options**: These give the holder the right to sell the underlying asset.
+2. **[Put Options](../p/put_options.md)**: These give the holder the right to sell the underlying asset.
 
 ## Structure of the Long Iron Butterfly
 
-The Long Iron Butterfly consists of four options contracts:
+The Long [Iron Butterfly](../i/iron_butterfly.md) consists of four options contracts:
 1. Long one lower strike put (buy a put option at strike price A).
 2. Short two middle strike calls and puts (write both a call and a put option at strike price B).
 3. Long one higher strike call (buy a call option at strike price C).
@@ -28,7 +28,7 @@ The general structure follows the format: Long Put @ Strike A, Short Put and Cal
 
 ### Example Setup
 
-Suppose a stock is trading at $100. A trader could set up a Long Iron Butterfly as follows:
+Suppose a stock is trading at $100. A trader could set up a Long [Iron Butterfly](../i/iron_butterfly.md) as follows:
 
 - Buy 1 $95 put (lower strike put)
 - Sell 1 $100 put (middle strike put)
@@ -37,7 +37,7 @@ Suppose a stock is trading at $100. A trader could set up a Long Iron Butterfly 
 
 ## Payoff Diagram
 
-The payoff diagram of a Long Iron Butterfly resembles a 'V' shape, inverted due to being "long." This profile indicates that maximum profit occurs if the underlying asset's price remains near the middle strike price (Strike B) at expiration, while maximum loss occurs if the price deviates significantly from the middle strike price.
+The payoff diagram of a Long [Iron Butterfly](../i/iron_butterfly.md) resembles a 'V' shape, inverted due to being "long." This profile indicates that maximum profit occurs if the underlying asset's price remains near the middle strike price (Strike B) at expiration, while maximum loss occurs if the price deviates significantly from the middle strike price.
 
 ### Maximum Profit
 
@@ -56,8 +56,8 @@ Where Strike Width = Strike C - Strike A
 ## Advantages of the Long Iron Butterfly
 
 1. **Profit from Low Volatility**: The strategy is optimal when the underlying asset's price remains within a narrow range.
-2. **Limited Risk**: Both maximum loss and maximum gain are predefined, allowing for effective risk management.
-3. **Cost Efficiency**: Compared to buying a stock outright, the Long Iron Butterfly requires a lower initial investment.
+2. **Limited Risk**: Both maximum loss and maximum gain are predefined, allowing for effective [risk management](../r/risk_management.md).
+3. **Cost Efficiency**: Compared to buying a stock outright, the Long [Iron Butterfly](../i/iron_butterfly.md) requires a lower initial investment.
 
 ## Disadvantages of the Long Iron Butterfly
 
@@ -67,10 +67,10 @@ Where Strike Width = Strike C - Strike A
 
 ## Risk Management
 
-Effective risk management is critical in options trading, and the Long Iron Butterfly is no exception. Consider the following tips:
+Effective [risk management](../r/risk_management.md) is critical in options trading, and the Long [Iron Butterfly](../i/iron_butterfly.md) is no exception. Consider the following tips:
 
 1. **Monitor Volatility**: Keep an eye on implied volatility, as fluctuations can significantly affect strategy performance.
-2. **Set Stop-Loss Orders**: Predefine exit points to minimize losses if the market moves unfavorably.
+2. **Set [Stop-Loss Orders](../s/stop-loss_orders.md)**: Predefine exit points to minimize losses if the market moves unfavorably.
 3. **Adjust Positions**: If the market environment changes, consider closing the position early or adjusting one or more legs to better align with the new conditions.
 
 ## Comparing Long Iron Butterfly with Other Strategies
@@ -78,21 +78,21 @@ Effective risk management is critical in options trading, and the Long Iron Butt
 ### Butterfly Spread
 
 - **Similarity**: Both involve a combination of calls and puts and aim to benefit from low volatility.
-- **Difference**: The Butterfly Spread uses only calls or only puts, while the Long Iron Butterfly uses both.
+- **Difference**: The [Butterfly Spread](../b/butterfly_spread.md) uses only calls or only puts, while the Long [Iron Butterfly](../i/iron_butterfly.md) uses both.
 
 ### Iron Condor
 
 - **Similarity**: Both involve buying and selling calls and puts at different strike prices.
-- **Difference**: Iron Condor requires four different strike prices and is typically not as sensitive to the underlying asset price as the Long Iron Butterfly.
+- **Difference**: [Iron Condor](../i/iron_condor.md) requires four different strike prices and is typically not as sensitive to the underlying asset price as the Long [Iron Butterfly](../i/iron_butterfly.md).
 
 ## Example Companies Using the Strategy
 
 ### Goldman Sachs
-Goldman Sachs, a leading global investment banking firm, utilizes various options strategies, including the Long Iron Butterfly, for portfolio management and hedging purposes. More about their trading strategies can be found on their [official website](https://www.goldmansachs.com).
+Goldman Sachs, a leading global investment banking firm, utilizes various options strategies, including the Long [Iron Butterfly](../i/iron_butterfly.md), for [portfolio management](../p/portfolio_management.md) and hedging purposes. More about their [trading strategies](../t/trading_strategies.md) can be found on their [official website](https://www.goldmansachs.com).
 
 ### Interactive Brokers
-Interactive Brokers provides comprehensive tools and platforms for traders to execute complex options strategies like the Long Iron Butterfly. Their trading insights and resources cater to both retail and institutional investors. For more information, visit [Interactive Brokers](https://www.interactivebrokers.com).
+Interactive Brokers provides comprehensive tools and platforms for traders to execute complex options strategies like the Long [Iron Butterfly](../i/iron_butterfly.md). Their trading insights and resources cater to both retail and institutional investors. For more information, visit [Interactive Brokers](https://www.interactivebrokers.com).
 
 ## Conclusion
 
-The Long Iron Butterfly is an advanced options trading strategy that can effectively leverage low volatility in the underlying asset. By understanding its structure, mechanics, advantages, and risks, traders can make more informed decisions and better manage their portfolios. Whether used by professional trading firms like Goldman Sachs or facilitated through platforms like Interactive Brokers, the Long Iron Butterfly remains a valuable tool in the options trading arsenal.
+The Long [Iron Butterfly](../i/iron_butterfly.md) is an advanced options trading strategy that can effectively leverage low volatility in the underlying asset. By understanding its structure, mechanics, advantages, and risks, traders can make more informed decisions and better manage their portfolios. Whether used by professional trading firms like Goldman Sachs or facilitated through platforms like Interactive Brokers, the Long [Iron Butterfly](../i/iron_butterfly.md) remains a valuable tool in the options trading arsenal.

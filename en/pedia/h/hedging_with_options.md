@@ -1,13 +1,13 @@
 ### Hedging with Options
 
-Hedging with options is a sophisticated strategy used by investors and traders to protect their portfolios from substantial losses. This technique involves the use of financial derivatives known as options, which grant the holder the right, but not the obligation, to buy or sell an underlying asset at a predetermined price before a specified expiration date. In this comprehensive exploration, we will delve into the various components, mechanisms, and strategies involved in hedging with options.
+Hedging with options is a sophisticated strategy used by investors and traders to protect their portfolios from substantial losses. This technique involves the use of financial [derivatives](../d/derivatives.md) known as options, which grant the holder the right, but not the obligation, to buy or sell an underlying asset at a predetermined price before a specified expiration date. In this comprehensive exploration, we will delve into the various components, mechanisms, and strategies involved in hedging with options.
 
 #### Understanding Options
 
-Options are financial instruments that derive their value from an underlying asset, such as stocks, indices, commodities, or currencies. They are categorized into two main types: call options and put options.
+Options are financial instruments that derive their value from an underlying asset, such as stocks, indices, commodities, or currencies. They are categorized into two main types: call options and [put options](../p/put_options.md).
 
 - **Call Options**: These provide the holder the right to buy the underlying asset at a specified price, known as the strike price, by a certain expiration date.
-- **Put Options**: These give the holder the right to sell the underlying asset at the strike price by the expiration date.
+- **[Put Options](../p/put_options.md)**: These give the holder the right to sell the underlying asset at the strike price by the expiration date.
 
 #### Key Terms and Concepts
 
@@ -33,7 +33,7 @@ Several option-based strategies can be employed for hedging purposes. Some of th
 
 - **Collar**: A collar strategy involves holding the underlying asset, buying a protective put, and selling a covered call. This combination aims to reduce the cost of the put by receiving the premium from the sold call. It creates a range of acceptable outcomes where losses and gains are both limited.
 
-- **Straddles and Strangles**: These strategies involve buying both call and put options to hedge against significant volatility. A straddle requires the options to have the same strike price and expiration date, while a strangle has different strike prices. These are more speculative but can offer protection in highly uncertain market conditions.
+- **Straddles and Strangles**: These strategies involve buying both call and [put options](../p/put_options.md) to hedge against significant volatility. A straddle requires the options to have the same strike price and expiration date, while a strangle has different strike prices. These are more speculative but can offer protection in highly uncertain market conditions.
 
 #### Real-World Application and Examples
 
@@ -51,11 +51,11 @@ This hedging strategy effectively limits the downside risk while allowing the in
 
 #### Advanced Hedging Techniques
 
-For more complex scenarios, traders might use advanced techniques like delta hedging, gamma hedging, and using options in combination with other derivatives.
+For more complex scenarios, traders might use advanced techniques like [delta hedging](../d/delta_hedging.md), [gamma hedging](../g/gamma_hedging.md), and using options in combination with other [derivatives](../d/derivatives.md).
 
-- **Delta Hedging**: This strategy involves balancing the delta (rate of change of the option's price relative to the underlying asset's price) to maintain a neutral position. It requires continuous adjustments as the underlying asset's price changes.
+- **[Delta Hedging](../d/delta_hedging.md)**: This strategy involves balancing the delta (rate of change of the option's price relative to the underlying asset's price) to maintain a neutral position. It requires continuous adjustments as the underlying asset's price changes.
 
-- **Gamma Hedging**: Gamma measures the rate of change of delta. Gamma hedging aims to manage the risk of movement in delta and is particularly useful in highly volatile markets.
+- **[Gamma Hedging](../g/gamma_hedging.md)**: Gamma measures the rate of change of delta. [Gamma hedging](../g/gamma_hedging.md) aims to manage the risk of movement in delta and is particularly useful in highly volatile markets.
 
 - **Options Spreads**: These involve the simultaneous purchase and sale of options. Strategies like bull spreads, bear spreads, and iron condors can be used to hedge specific market views while controlling risk.
 
@@ -65,13 +65,13 @@ Hedging with options is not without its challenges. Costs can add up, particular
 
 #### Platforms and Tools
 
-Various platforms offer tools and environments for trading options and implementing hedging strategies. Some of the prominent ones include:
+Various platforms offer tools and environments for trading options and implementing [hedging strategies](../h/hedging_strategies.md). Some of the prominent ones include:
 
 - [Interactive Brokers](https://www.interactivebrokers.com): Known for its comprehensive range of options trading tools, Interactive Brokers provides a robust platform for executing and managing options strategies.
 - [Thinkorswim by TD Ameritrade](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page): Offers advanced charting and analytics tools tailored for options trading.
-- [E*Trade](https://us.etrade.com): Provides a user-friendly interface with extensive resources for options trading and risk management.
-- [Tastyworks](https://www.tastyworks.com): Focuses on options trading with innovative features and educational content to help traders master hedging strategies.
+- [E*Trade](https://us.etrade.com): Provides a user-friendly interface with extensive resources for options trading and [risk management](../r/risk_management.md).
+- [Tastyworks](https://www.tastyworks.com): Focuses on options trading with innovative features and educational content to help traders master [hedging strategies](../h/hedging_strategies.md).
 
 #### Conclusion
 
-Hedging with options is a versatile and powerful strategy for managing risk in an investment portfolio. By employing various options-based strategies, traders can create tailored approaches that align with their risk tolerance and market outlook. While it involves complexities and costs, with a solid understanding and the right tools, hedging with options can be an effective method to protect against adverse market movements and enhance overall trading performance.
+Hedging with options is a versatile and powerful strategy for managing risk in an investment portfolio. By employing various options-based strategies, traders can create tailored approaches that align with their risk tolerance and market outlook. While it involves complexities and costs, with a solid understanding and the right tools, hedging with options can be an effective method to protect against adverse market movements and enhance overall [trading performance](../t/trading_performance.md).

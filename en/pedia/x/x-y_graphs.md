@@ -1,6 +1,6 @@
 # X-Y Graphs in Algorithmic Trading
 
-X-Y graphs, commonly known as scatter plots or Cartesian coordinate systems, are integral to the field of algorithmic trading. These visual representations on a two-dimensional plane display the relationship between two quantifiable variables. X-Y graphs enable traders and analysts to observe, interpret, and respond to complex financial data trends and correlations.
+X-Y graphs, commonly known as scatter plots or Cartesian coordinate systems, are integral to the field of [algorithmic trading](../a/algorithmic_trading.md). These visual representations on a two-dimensional plane display the relationship between two quantifiable variables. X-Y graphs enable traders and analysts to observe, interpret, and respond to complex financial data trends and correlations.
 
 ## Understanding X-Y Graphs
 
@@ -12,7 +12,7 @@ Each point on the graph corresponds to a pair of values (x, y), each representin
 
 ### Importance in Algorithmic Trading
 
-Algorithmic trading relies heavily on data analysis and pattern recognition. X-Y graphs serve several critical purposes in this domain:
+[Algorithmic trading](../a/algorithmic_trading.md) relies heavily on data analysis and [pattern recognition](../p/pattern_recognition.md). X-Y graphs serve several critical purposes in this domain:
 
 1. **Visualization of Relationships**:
    - X-Y graphs help visualize the relationship between two variables, such as price vs. time, volume vs. price changes, or moving averages of two different time periods.
@@ -20,11 +20,11 @@ Algorithmic trading relies heavily on data analysis and pattern recognition. X-Y
 2. **Identification of Trends**:
    - By plotting variables over time, traders can identify trends such as linear relationships, cyclic patterns, and outliers.
  
-3. **Correlation Analysis**:
+3. **[Correlation Analysis](../c/correlation_analysis.md)**:
    - By examining how one variable changes in response to another, traders can make educated guesses about market behaviors and decisions.
    
 4. **Feature Engineering**:
-   - In quantitative analysis, creating derived features for predictive modeling is essential. X-Y graphs help in understanding which features to include or engineer for models.
+   - In [quantitative analysis](../q/quantitative_analysis.md), creating derived features for [predictive modeling](../p/predictive_modeling.md) is essential. X-Y graphs help in understanding which features to include or engineer for models.
 
 ## Practical Applications
 
@@ -42,7 +42,7 @@ Traders use X-Y graphs to plot historical prices on the Y-axis against time on t
 The spread between two correlated assets can be plotted. The graph helps in visualizing moments of divergence, which may indicate trading opportunities.
 
 **Example**:
-Plotting the price of gold vs. silver on an X-Y graph shows how closely the two commodities follow each other and highlights potential arbitrage opportunities when they diverge.
+Plotting the price of gold vs. silver on an X-Y graph shows how closely the two commodities follow each other and highlights potential [arbitrage](../a/arbitrage.md) opportunities when they diverge.
 
 ### Performance Evaluation
 
@@ -55,18 +55,18 @@ Plot the returns of the strategy against the returns of the benchmark. Ideally, 
 ### Algorithm Fine-Tuning
 
 **Description**:
-To optimize a trading algorithm’s parameters, traders need to visualize how changes in these parameters affect performance metrics.
+To optimize a trading algorithm’s parameters, traders need to visualize how changes in these parameters affect [performance metrics](../p/performance_metrics.md).
 
 **Example**:
-Plotting backtesting results (returns) on the Y-axis against different values of a parameter (like moving average period) on the X-axis. This graph helps in selecting the optimal parameter value for strategy maximization.
+Plotting [backtesting](../b/backtesting.md) results (returns) on the Y-axis against different values of a parameter (like moving average period) on the X-axis. This graph helps in selecting the optimal parameter value for strategy maximization.
 
 ## Tools and Technologies
 
-Several software tools facilitate the creation and analysis of X-Y graphs in algorithmic trading:
+Several software tools facilitate the creation and analysis of X-Y graphs in [algorithmic trading](../a/algorithmic_trading.md):
 
 ### 1. **Python (Matplotlib, Seaborn)**
 
-Python is a powerful language widely used in algorithmic trading. Libraries like Matplotlib and Seaborn provide extensive capabilities for data visualization.
+Python is a powerful language widely used in [algorithmic trading](../a/algorithmic_trading.md). Libraries like Matplotlib and Seaborn provide extensive capabilities for [data visualization](../d/data_visualization.md).
 - Matplotlib: A foundational library for creating static, interactive, and animated visualizations.
 - Seaborn: Built on Matplotlib, it simplifies many complex graphing tasks and provides more aesthetically pleasing graphics.
 
@@ -120,7 +120,7 @@ Tableau is a leading visual analytics platform that allows non-programmers to cr
 
 ## Use Case: Statistical Arbitrage
 
-Statistical Arbitrage (StatArb) involves the use of quantitative methods and X-Y graphs for identifying trading opportunities.
+Statistical [Arbitrage](../a/arbitrage.md) (StatArb) involves the use of quantitative methods and X-Y graphs for identifying trading opportunities.
 
 ### Steps Involved:
 
@@ -134,11 +134,11 @@ Statistical Arbitrage (StatArb) involves the use of quantitative methods and X-Y
    Analyze the spread to generate buy/sell signals. If the spread diverges from the historical mean, it indicates a potential profit opportunity.
 
 4. **Implementation**:
-   Use algorithmic trading systems to execute trades based on signals generated.
+   Use [algorithmic trading](../a/algorithmic_trading.md) systems to execute trades based on signals generated.
 
 ### Example Firms:
-- [Jane Street](https://www.janestreet.com/): Known for its expertise in proprietary trading and advanced statistical methods.
-- [Two Sigma](https://www.twosigma.com/): Utilizes big data and machine learning to develop sophisticated trading strategies.
+- [Jane Street](https://www.janestreet.com/): Known for its expertise in [proprietary trading](../p/proprietary_trading.md) and advanced statistical methods.
+- [Two Sigma](https://www.twosigma.com/): Utilizes big data and machine learning to develop sophisticated [trading strategies](../t/trading_strategies.md).
 
 ## Challenges and Considerations
 
@@ -156,4 +156,4 @@ The ability to quickly analyze and respond to graph outputs is crucial. High-fre
 
 ## Conclusion
 
-X-Y graphs are essential tools in the arsenal of algorithmic traders for data visualization, exploration, and decision-making. By leveraging advanced tools and technologies, traders can derive actionable insights, optimize their strategies, and maintain a competitive edge in the fast-paced world of financial markets.
+X-Y graphs are essential tools in the arsenal of algorithmic traders for [data visualization](../d/data_visualization.md), exploration, and decision-making. By leveraging advanced tools and technologies, traders can derive actionable insights, optimize their strategies, and maintain a competitive edge in the fast-paced world of financial markets.

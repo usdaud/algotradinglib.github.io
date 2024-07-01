@@ -1,6 +1,6 @@
 # Z-Scores in Trading
 
-Z-Scores are a popular statistical measure used in trading to identify the number of standard deviations a data point is from the mean of a dataset. This concept is crucial for traders who wish to understand the probability of extreme market events, calculate risk, and develop automated trading algorithms (algorithms) based on statistical properties of financial data.
+Z-Scores are a popular statistical measure used in trading to identify the number of standard deviations a data point is from the mean of a dataset. This concept is crucial for traders who wish to understand the probability of extreme market events, calculate risk, and develop automated [trading algorithms](../t/trading_algorithms.md) (algorithms) based on statistical properties of financial data.
 
 ## Understanding Z-Scores
 
@@ -23,23 +23,23 @@ In trading, Z-Scores are used to detect anomalies or unusual events. For instanc
 
 ### Mean Reversion Strategies
 
-One of the primary uses of Z-Scores in trading is within mean reversion strategies. Mean reversion trading is based on the idea that asset prices will tend to move back towards their historical average. Traders use Z-Scores to identify when an asset price has deviated too far from its mean and thus predict a reversion. For instance, if a stock's Z-Score is +2, it suggests the stock is 2 standard deviations above its mean, potentially signaling that it may revert back to the mean.
+One of the primary uses of Z-Scores in trading is within [mean reversion](../m/mean_reversion.md) strategies. [Mean reversion](../m/mean_reversion.md) trading is based on the idea that asset prices will tend to move back towards their historical average. Traders use Z-Scores to identify when an asset price has deviated too far from its mean and thus predict a reversion. For instance, if a stock's Z-Score is +2, it suggests the stock is 2 standard deviations above its mean, potentially signaling that it may revert back to the mean.
 
 ### Risk Management
 
-Risk management is a critical aspect of trading, and Z-Scores play a vital role. Traders use Z-Scores to measure and manage the risk by understanding the probability of extreme price movements. For example, a Z-Score of ±3 signifies an event that could be expected to occur with roughly 99.7% confidence, indicating significant market movement, and thus potentially high risk.
+[Risk management](../r/risk_management.md) is a critical aspect of trading, and Z-Scores play a vital role. Traders use Z-Scores to measure and manage the risk by understanding the probability of extreme price movements. For example, a Z-Score of ±3 signifies an event that could be expected to occur with roughly 99.7% confidence, indicating significant market movement, and thus potentially high risk.
 
 ### Algorithmic Trading
 
-Z-Scores are integral to algorithmic trading strategies. Algorithms can be coded to enter or exit trades based on Z-Score thresholds. For example, an algorithm might be programmed to buy an asset when its Z-Score falls below -2 and sell when it rises above +2. Using historical data and real-time price feeds, algorithms apply these Z-Score calculations to make rapid trading decisions.
+Z-Scores are integral to [algorithmic trading](../a/algorithmic_trading.md) strategies. Algorithms can be coded to enter or exit trades based on Z-Score thresholds. For example, an algorithm might be programmed to buy an asset when its Z-Score falls below -2 and sell when it rises above +2. Using historical data and real-time price feeds, algorithms apply these Z-Score calculations to make rapid trading decisions.
 
 ### Statistical Arbitrage
 
-Statistical arbitrage involves exploiting the statistical relationships between different financial instruments. Z-Scores help identify these relationships by measuring deviations from the mean between correlated instruments. For instance, a pair trading strategy might involve buying one security and selling another when the Z-Score of the price ratio exceeds a certain threshold, assuming the prices will revert to their historical relationship.
+Statistical [arbitrage](../a/arbitrage.md) involves exploiting the statistical relationships between different financial instruments. Z-Scores help identify these relationships by measuring deviations from the mean between correlated instruments. For instance, a pair trading strategy might involve buying one security and selling another when the Z-Score of the price ratio exceeds a certain threshold, assuming the prices will revert to their historical relationship.
 
 ## Calculating Z-Scores in Python
 
-Traders often use programming languages, such as Python, to calculate Z-Scores and develop trading strategies. The following example demonstrates how to calculate the Z-Score of stock price data using Python:
+Traders often use programming languages, such as Python, to calculate Z-Scores and develop [trading strategies](../t/trading_strategies.md). The following example demonstrates how to calculate the Z-Score of stock price data using Python:
 
 ```python
 import pandas as pd
@@ -69,8 +69,8 @@ Renaissance Technologies is a renowned hedge fund that employs sophisticated mat
 
 ### Two Sigma
 
-Two Sigma is another prominent quantitative hedge fund that leverages a vast array of data and statistical methods, including Z-Scores, to make trading decisions. The firm uses machine learning and artificial intelligence to identify trading opportunities and manage risk. Two Sigma's approach involves extensive use of Z-Scores to develop and fine-tune their trading models. More details can be found on their [website](https://www.twosigma.com/).
+Two Sigma is another prominent quantitative hedge fund that leverages a vast array of data and statistical methods, including Z-Scores, to make trading decisions. The firm uses machine learning and artificial intelligence to identify trading opportunities and manage risk. Two Sigma's approach involves extensive use of Z-Scores to develop and fine-tune their [trading models](../t/trading_models.md). More details can be found on their [website](https://www.twosigma.com/).
 
 ## Conclusion
 
-Z-Scores are a powerful tool in trading, providing essential insights into the statistical properties of financial data. Whether used for detecting anomalies, developing mean reversion strategies, managing risk, or creating algorithms, Z-Scores play a crucial role in modern trading. By understanding and applying Z-Scores, traders can enhance their ability to identify profitable opportunities and manage the risks associated with financial markets.
+Z-Scores are a powerful tool in trading, providing essential insights into the statistical properties of financial data. Whether used for detecting anomalies, developing [mean reversion](../m/mean_reversion.md) strategies, managing risk, or creating algorithms, Z-Scores play a crucial role in modern trading. By understanding and applying Z-Scores, traders can enhance their ability to identify profitable opportunities and manage the risks associated with financial markets.

@@ -1,10 +1,10 @@
 # Noise Reduction Techniques in Algorithmic Trading
 
-Algorithmic trading, or algo-trading, involves using computer programs to automate the process of buying and selling financial securities. One of the significant challenges in algorithmic trading is handling the "noise" in financial market data. Noise refers to all the non-relevant data points and fluctuations that obscure the true underlying trends in the financial markets. Effective noise reduction techniques are crucial for enhancing prediction accuracy, reducing trading risks, and improving overall trading performance.
+[Algorithmic trading](../a/algorithmic_trading.md), or algo-trading, involves using computer programs to automate the process of buying and selling financial securities. One of the significant challenges in [algorithmic trading](../a/algorithmic_trading.md) is handling the "noise" in financial market data. Noise refers to all the non-relevant data points and fluctuations that obscure the true underlying trends in the financial markets. Effective noise reduction techniques are crucial for enhancing prediction accuracy, reducing trading risks, and improving overall [trading performance](../t/trading_performance.md).
 
 ## Types of Noise in Financial Data
 
-1. **Market Microstructure Noise:** This is the noise caused by the mechanics of trading itself, such as bid-ask spreads, order sizes, and execution times.
+1. **[Market Microstructure](../m/market_microstructure.md) Noise:** This is the noise caused by the mechanics of trading itself, such as bid-ask spreads, order sizes, and execution times.
 2. **Macroeconomic Noise:** Economic announcements and shifts can create short-term volatility and noise.
 3. **Idiosyncratic Noise:** Company-specific events such as earnings releases, management changes, and other unique events.
 
@@ -36,7 +36,7 @@ def exponential_moving_average(data, window):
 
 ### 2. Kalman Filter
 
-The Kalman Filter is a recursive algorithm used to estimate the state of a dynamic system from a series of noisy measurements. It is particularly useful for financial time series data as it can filter out the noise and provide more accurate estimates of underlying trends.
+The Kalman Filter is a recursive algorithm used to estimate the state of a dynamic system from a series of noisy measurements. It is particularly useful for [financial time series](../f/financial_time_series.md) data as it can filter out the noise and provide more accurate estimates of underlying trends.
 
 ```python
 import numpy as np
@@ -150,7 +150,7 @@ Robust statistics are techniques that are not unduly affected by outliers and ot
 
 #### Median Absolute Deviation (MAD)
 
-The MAD is a robust measure of variability that can be used to detect and reduce noise in financial time series.
+The MAD is a robust measure of variability that can be used to detect and reduce noise in [financial time series](../f/financial_time_series.md).
 
 ```python
 def median_absolute_deviation(data):
@@ -162,8 +162,8 @@ def median_absolute_deviation(data):
 
 ## Conclusion
 
-Effective noise reduction techniques are critical for the success of algorithmic trading strategies. By employing methods such as Moving Averages, Kalman Filter, Fourier Transform, Savitzky-Golay Filter, Wavelet Transform, Hodrick-Prescott Filter, Bayesian Estimators, and Robust Statistics, traders can better isolate meaningful signals from the noise. This enables more accurate predictions, reduces trading risks, and improves overall performance in financial markets.
+Effective noise reduction techniques are critical for the success of [algorithmic trading](../a/algorithmic_trading.md) strategies. By employing methods such as Moving Averages, Kalman Filter, Fourier Transform, Savitzky-Golay Filter, Wavelet Transform, Hodrick-Prescott Filter, Bayesian Estimators, and Robust Statistics, traders can better isolate meaningful signals from the noise. This enables more accurate predictions, reduces trading risks, and improves overall performance in financial markets.
 
 Additionally, continuous research and advancements in machine learning and artificial intelligence are opening up new avenues for even more sophisticated noise reduction techniques.
 
-For more information about advanced noise reduction techniques in algorithmic trading, you can visit [QuantConnect](https://www.quantconnect.com) or [Alpha Vantage](https://www.alphavantage.co/).
+For more information about advanced noise reduction techniques in [algorithmic trading](../a/algorithmic_trading.md), you can visit [QuantConnect](https://www.quantconnect.com) or [Alpha Vantage](https://www.alphavantage.co/).

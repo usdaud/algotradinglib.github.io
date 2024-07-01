@@ -2,11 +2,11 @@
 
 ### Introduction
 
-Judgmental sampling, also known as purposive or subjective sampling, refers to a non-probability sampling technique where the researcher's judgement is utilized to select the sample. This approach relies on the researcher's experience and knowledge of the population to choose participants who are most likely to provide valuable and relevant data. In the context of algorithmic trading, judgmental sampling can be a valuable method for selecting specific data points or securities to analyze and trade, tailoring the dataset to fit unique strategies and insights.
+Judgmental sampling, also known as purposive or subjective sampling, refers to a non-probability sampling technique where the researcher's judgement is utilized to select the sample. This approach relies on the researcher's experience and knowledge of the population to choose participants who are most likely to provide valuable and relevant data. In the context of [algorithmic trading](../a/algorithmic_trading.md), judgmental sampling can be a valuable method for selecting specific data points or securities to analyze and trade, tailoring the dataset to fit unique strategies and insights.
 
 ### Application in Algorithmic Trading
 
-Algorithmic trading involves using pre-programmed trading instructions to execute trades at high speed and volume. The efficiency and success of these algorithms often depend upon the quality of the data used to train and optimize them. Judgmental sampling can play a pivotal role in this process by allowing traders and analysts to select data that best represents the market conditions and behaviours they are interested in.
+[Algorithmic trading](../a/algorithmic_trading.md) involves using pre-programmed trading instructions to execute trades at high speed and volume. The efficiency and success of these algorithms often depend upon the quality of the data used to train and optimize them. Judgmental sampling can play a pivotal role in this process by allowing traders and analysts to select data that best represents the market conditions and behaviours they are interested in.
 
 #### Data Selection
 
@@ -19,11 +19,11 @@ This targeted selection process can help ensure that the algorithm is trained on
 
 #### Examples from the Industry
 
-1. **Renaissance Technologies**: This hedge fund is known for its highly sophisticated quantitative models and heavy reliance on algorithmic trading. Renaissance Technologies uses vast amounts of data and various sampling techniques, including judgmental sampling, to fine-tune its trading algorithms. For more information, visit [Renaissance Technologies](https://www.rentec.com).
+1. **Renaissance Technologies**: This hedge fund is known for its highly sophisticated [quantitative models](../q/quantitative_models.md) and heavy reliance on [algorithmic trading](../a/algorithmic_trading.md). Renaissance Technologies uses vast amounts of data and various sampling techniques, including judgmental sampling, to fine-tune its [trading algorithms](../t/trading_algorithms.md). For more information, visit [Renaissance Technologies](https://www.rentec.com).
 
-2. **Two Sigma**: Another major player in the algorithmic trading space, Two Sigma employs machine learning and other advanced technologies to analyze large datasets. They might use judgmental sampling to ensure their models are fed with data most likely to yield valuable insights. More details can be found at [Two Sigma](https://www.twosigma.com).
+2. **Two Sigma**: Another major player in the [algorithmic trading](../a/algorithmic_trading.md) space, Two Sigma employs machine learning and other advanced technologies to analyze large datasets. They might use judgmental sampling to ensure their models are fed with data most likely to yield valuable insights. More details can be found at [Two Sigma](https://www.twosigma.com).
 
-3. **AQR Capital Management**: AQR uses a combination of quantitative analysis and judgmental decision-making when developing and implementing their trading strategies. This includes leveraging judgmental sampling to create datasets that reflect specific market conditions. Explore their approach further at [AQR Capital Management](https://www.aqr.com).
+3. **AQR Capital Management**: AQR uses a combination of [quantitative analysis](../q/quantitative_analysis.md) and judgmental decision-making when developing and implementing their [trading strategies](../t/trading_strategies.md). This includes leveraging judgmental sampling to create datasets that reflect specific market conditions. Explore their approach further at [AQR Capital Management](https://www.aqr.com).
 
 ### Strengths and Weaknesses
 
@@ -55,20 +55,20 @@ A trading firm specializing in volatility trading might use judgmental sampling 
 
 #### Case Study 2: Sector-Specific Models
 
-Another firm might develop sector-specific trading models. Using judgmental sampling, they could select data exclusively from the technology sector, allowing their algorithms to become highly specialized and efficient in trading tech stocks.
+Another firm might develop sector-specific [trading models](../t/trading_models.md). Using judgmental sampling, they could select data exclusively from the technology sector, allowing their algorithms to become highly specialized and efficient in trading tech stocks.
 
 ### Implementing Judgmental Sampling
 
-Implementing judgmental sampling in algorithmic trading involves several steps:
+Implementing judgmental sampling in [algorithmic trading](../a/algorithmic_trading.md) involves several steps:
 
 1. **Define Objectives**: Clearly define the objectives of the trading strategy and what specific market conditions or securities you are interested in.
-2. **Criteria Selection**: Develop criteria for selecting data points based on your objectives. This could involve financial metrics, market events, or historical performance indicators.
+2. **Criteria Selection**: Develop criteria for selecting data points based on your objectives. This could involve financial metrics, market events, or historical [performance indicators](../p/performance_indicators.md).
 3. **Data Collection and Sampling**: Collect the data and apply your judgmental sampling criteria to extract the most relevant subset.
-4. **Model Training and Testing**: Use the sampled data to train your trading algorithms. Ensure you evaluate the performance with out-of-sample testing to avoid overfitting.
+4. **Model Training and Testing**: Use the sampled data to train your [trading algorithms](../t/trading_algorithms.md). Ensure you evaluate the performance with [out-of-sample testing](../o/out-of-sample_testing.md) to avoid overfitting.
 5. **Adjustment and Iteration**: Continuously monitor the performance and adjust your sampling criteria as necessary.
 
 ### Conclusion
 
-Judgmental sampling is a critical technique in the toolbox of algorithmic traders, offering a way to tailor datasets to fit specific strategies and insights. While it comes with risks such as bias and lack of generalizability, these can be mitigated through best practices and careful implementation. As algorithmic trading continues to evolve, judgmental sampling will remain a valuable method for traders and analysts looking to gain a competitive edge.
+Judgmental sampling is a critical technique in the toolbox of algorithmic traders, offering a way to tailor datasets to fit specific strategies and insights. While it comes with risks such as bias and lack of generalizability, these can be mitigated through best practices and careful implementation. As [algorithmic trading](../a/algorithmic_trading.md) continues to evolve, judgmental sampling will remain a valuable method for traders and analysts looking to gain a competitive edge.
 
-By understanding and applying judgmental sampling effectively, trading firms can create more robust algorithms, optimize their trading strategies, and ultimately achieve better performance in the markets.
+By understanding and applying judgmental sampling effectively, trading firms can create more robust algorithms, optimize their [trading strategies](../t/trading_strategies.md), and ultimately achieve better performance in the markets.

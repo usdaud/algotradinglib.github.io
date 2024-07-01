@@ -10,7 +10,7 @@
 - **Exponential Moving Average (EMA)**: Gives more weight to recent prices, reacting more quickly to price changes.
 
 **Example:**
-A common strategy is the **Golden Cross**, which occurs when a short-term moving average (e.g., 50-day SMA) crosses above a long-term moving average (e.g., 200-day SMA). This indicates potential bullish momentum, signaling an entry point.
+A common strategy is the **[Golden Cross](../g/golden_cross.md)**, which occurs when a short-term moving average (e.g., 50-day SMA) crosses above a long-term moving average (e.g., 200-day SMA). This indicates potential bullish momentum, signaling an entry point.
 
 **Advantages:**
 - Easy to understand and implement.
@@ -37,7 +37,7 @@ An RSI value above 70 is considered overbought, suggesting a potential entry poi
 
 #### 3. Bollinger Bands
 
-**Bollinger Bands** consist of a middle band (usually an SMA) and two outer bands that represent standard deviations from the middle band. 
+**[Bollinger Bands](../b/bollinger_bands.md)** consist of a middle band (usually an SMA) and two outer bands that represent standard deviations from the middle band. 
 
 **Example:**
 When the price touches the lower Bollinger Band, it is considered oversold, signaling a potential entry point for a long position. Conversely, when the price touches the upper band, it is considered overbought, indicating a potential short position.
@@ -117,10 +117,10 @@ A day trader might close all positions at the end of the trading day to avoid ov
 
 #### 4. Reversal Indicators
 
-Reversal indicators predict when a trend may reverse, providing signals to exit a position.
+[Reversal indicators](../r/reversal_indicators.md) predict when a trend may reverse, providing signals to exit a position.
 
 **Example:**
-The **Parabolic SAR (Stop and Reverse)** is a popular indicator for identifying potential reversals. When the price crosses above the SAR, it may indicate an exit for a short position.
+The **[Parabolic SAR](../p/parabolic_sar.md) (Stop and Reverse)** is a popular indicator for identifying potential reversals. When the price crosses above the SAR, it may indicate an exit for a short position.
 
 **Advantages:**
 - Can capture significant reversals, allowing for better exit timing.
@@ -139,29 +139,29 @@ A trader could use the **RSI** for entry signals and combine it with a **trailin
 
 **Advantages:**
 - Enhances decision-making by using complementary strategies.
-- Improves risk management and trading consistency.
+- Improves [risk management](../r/risk_management.md) and trading consistency.
 
 **Disadvantages:**
-- Can be complex to implement and requires thorough backtesting.
+- Can be complex to implement and requires thorough [backtesting](../b/backtesting.md).
 - Needs constant monitoring and adjustment to changing market conditions.
 
 ### Algorithmic Trading Platforms and Resources
 
-To implement entry and exit strategies effectively, traders often use algorithmic trading platforms and resources.
+To implement entry and exit strategies effectively, traders often use [algorithmic trading](../a/algorithmic_trading.md) platforms and resources.
 
-- **QuantConnect**: An algorithmic trading platform offering cloud-based backtesting and live trading with various brokers.
+- **QuantConnect**: An [algorithmic trading](../a/algorithmic_trading.md) platform offering cloud-based [backtesting](../b/backtesting.md) and live trading with various brokers.
   [QuantConnect](https://www.quantconnect.com/)
 
-- **AlgoTrader**: A comprehensive algorithmic trading software for hedge funds and proprietary trading groups.
+- **AlgoTrader**: A comprehensive [algorithmic trading](../a/algorithmic_trading.md) software for hedge funds and [proprietary trading](../p/proprietary_trading.md) groups.
   [AlgoTrader](https://www.algotrader.com/)
 
-- **Quantopian**: A platform (ceased operation in 2020) that provided a community for quantitative traders to develop and share trading algorithms.
+- **Quantopian**: A platform (ceased operation in 2020) that provided a community for quantitative traders to develop and share [trading algorithms](../t/trading_algorithms.md).
   [Quantopian Archive](https://www.quantopian.com/)
 
-- **MetaTrader 4 (MT4) and MetaTrader 5 (MT5)**: Popular trading platforms for forex and stock markets, offering advanced charting and algorithmic trading capabilities.
+- **MetaTrader 4 (MT4) and MetaTrader 5 (MT5)**: Popular trading platforms for forex and stock markets, offering advanced charting and [algorithmic trading](../a/algorithmic_trading.md) capabilities.
   [MetaTrader](https://www.metatrader4.com/)
 
 ### Conclusion
 
-Entry and exit strategies are foundational to successful algorithmic trading. By carefully selecting and integrating various strategies such as moving averages, RSI, Bollinger Bands, stop-loss, and take-profit orders, traders can optimize their trading performance. Utilizing advanced trading platforms and conducting thorough backtesting are essential steps in developing robust trading algorithms. Properly implemented, these strategies can help manage risk, maximize profits, and improve overall trading consistency.
+Entry and exit strategies are foundational to successful [algorithmic trading](../a/algorithmic_trading.md). By carefully selecting and integrating various strategies such as moving averages, RSI, [Bollinger Bands](../b/bollinger_bands.md), stop-loss, and take-profit orders, traders can optimize their [trading performance](../t/trading_performance.md). Utilizing advanced trading platforms and conducting thorough [backtesting](../b/backtesting.md) are essential steps in developing robust [trading algorithms](../t/trading_algorithms.md). Properly implemented, these strategies can help manage risk, maximize profits, and improve overall trading consistency.
 

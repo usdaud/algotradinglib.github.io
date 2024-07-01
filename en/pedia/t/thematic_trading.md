@@ -11,7 +11,7 @@ Thematic trading involves identifying significant macro-level trends that are ex
 ### Research and Analysis
 
 Identifying profitable themes requires extensive research and analysis. Investors need to stay informed about global developments, technological advancements, policy changes, and other factors that can give rise to long-term trends. This often involves a combination of top-down and bottom-up analysis:
-- **Top-down analysis**: Focusing on macroeconomic factors, global trends, and broad market conditions to identify potential themes.
+- **[Top-down analysis](../t/top-down_analysis.md)**: Focusing on macroeconomic factors, global trends, and broad market conditions to identify potential themes.
 - **Bottom-up analysis**: Evaluating individual companies or sectors to determine which specific investments are likely to benefit from the identified theme.
 
 ### Diversification
@@ -70,7 +70,7 @@ Investors can also choose to invest directly in individual stocks that are poise
 
 ### Options and Derivatives
 
-More sophisticated investors might use options and other derivatives to gain exposure to thematic trends. This can involve strategies such as buying call options on stocks expected to benefit from a theme or using futures contracts to bet on the performance of thematic indices.
+More sophisticated investors might use options and other [derivatives](../d/derivatives.md) to gain exposure to thematic trends. This can involve strategies such as buying call options on stocks expected to benefit from a theme or using [futures contracts](../f/futures_contracts.md) to bet on the performance of thematic indices.
 
 ## Risks and Considerations
 
@@ -88,7 +88,7 @@ Stocks within a popular theme can become overvalued due to high investor demand.
 
 ### Diversification Risks
 
-While thematic investing inherently involves diversification across sectors, it is still crucial to maintain a balanced portfolio. Over-concentration in a single theme can expose investors to significant risk if the theme does not perform as expected.
+While [thematic investing](../t/thematic_investing.md) inherently involves diversification across sectors, it is still crucial to maintain a balanced portfolio. Over-concentration in a single theme can expose investors to significant risk if the theme does not perform as expected.
 
 ## Leading Companies and Providers
 

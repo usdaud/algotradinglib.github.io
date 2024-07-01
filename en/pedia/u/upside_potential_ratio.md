@@ -2,7 +2,7 @@
 
 ### Understanding the Upside Potential Ratio
 
-The Upside Potential Ratio is grounded on the principle of asymmetrical returns, which recognizes that positive and negative returns do not impact a portfolio in the same manner. Traditional risk measures like the Sharpe Ratio consider both upside and downside volatility, assuming symmetrical risk. However, the UPR zooms in on the performance above a predefined threshold or minimum acceptable return (MAR).
+The Upside Potential Ratio is grounded on the principle of asymmetrical returns, which recognizes that positive and negative returns do not impact a portfolio in the same manner. Traditional risk measures like the [Sharpe Ratio](../s/sharpe_ratio.md) consider both upside and downside volatility, assuming symmetrical risk. However, the UPR zooms in on the performance above a predefined threshold or minimum acceptable return (MAR).
 
 The mathematical formula for UPR is:
 
@@ -35,17 +35,17 @@ The **MAR** is often set to the risk-free rate of return, but investors can choo
 
 ### Practical Applications in Algorithmic Trading
 
-Algorithmic traders can leverage UPR to refine their trading strategies and enhance portfolio optimization by focusing on algorithms that exhibit strong upside potential relative to their threshold for acceptable performance. The UPR can inform:
+Algorithmic traders can leverage UPR to refine their [trading strategies](../t/trading_strategies.md) and enhance [portfolio optimization](../p/portfolio_optimization.md) by focusing on algorithms that exhibit strong upside potential relative to their threshold for acceptable performance. The UPR can inform:
 
 - **Algorithm Selection:** Algorithms demonstrating high UPR might be prioritized for active trading due to their potential for greater positive returns.
-- **Risk Management:** Balancing trade-offs between maximizing returns and managing risks, ensuring the algorithms do not just target high volatility but meaningful upside.
-- **Performance Benchmarking:** Comparing the UPR of different algorithms to industry standards or internal benchmarks to guide investment decisions.
+- **[Risk Management](../r/risk_management.md):** Balancing trade-offs between maximizing returns and managing risks, ensuring the algorithms do not just target high volatility but meaningful upside.
+- **[Performance Benchmarking](../p/performance_benchmarking.md):** Comparing the UPR of different algorithms to industry standards or internal benchmarks to guide investment decisions.
 
 ### Companies Utilizing Upside Potential Ratio
 
 Several investment firms and financial technology companies incorporate UPR into their frameworks:
 
-- **Bridgewater Associates (https://www.bridgewater.com/):** As a major player in the hedge fund industry, this firm implements various advanced performance metrics, including UPR, to gauge and optimize portfolio performance.
+- **Bridgewater Associates (https://www.bridgewater.com/):** As a major player in the hedge fund industry, this firm implements various advanced [performance metrics](../p/performance_metrics.md), including UPR, to gauge and optimize [portfolio performance](../p/portfolio_performance.md).
 - **AQR Capital Management (https://www.aqr.com/):** Known for quantitatively driven investment strategies, AQR employs a plethora of metrics, with UPR being integral for strategies aiming to capitalize on asymmetric return distributions.
 - **Two Sigma (https://www.twosigma.com/):** This company leverages data-driven approaches and sophisticated models where UPR contributes to identifying algorithmic strategies with superior upside potential relative to benchmarks.
 - **Renaissance Technologies (https://www.rentec.com/):** One of the most successful quant hedge funds, Renaissance Technologies uses a range of metrics, including UPR, to fine-tune their algorithms and strategies for better performance.

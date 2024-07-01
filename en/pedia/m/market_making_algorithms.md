@@ -4,35 +4,35 @@ Market making algorithms are pivotal components in modern financial markets, pro
 
 ### Fundamentals of Market Making
 
-Market making is a trading strategy used by firms or individuals to quote buy and sell prices in financial instruments, hoping to make a profit from the bid-ask spread. Market makers hold an inventory of securities and offer liquidity to other market participants by continuously quoting buy and sell prices. Their primary goal is to profit from the bid-ask spread while managing the risks associated with holding an inventory of securities.
+Market making is a trading strategy used by firms or individuals to quote buy and sell prices in financial instruments, hoping to make a profit from the [bid-ask spread](../b/bid-ask_spread.md). Market makers hold an inventory of securities and offer liquidity to other market participants by continuously quoting buy and sell prices. Their primary goal is to profit from the [bid-ask spread](../b/bid-ask_spread.md) while managing the risks associated with holding an inventory of securities.
 
 - **Bid Price:** The price that a market maker is willing to pay to buy a security.
 - **Ask Price:** The price at which a market maker is willing to sell a security.
-- **Bid-Ask Spread:** The difference between the bid price and the ask price, representing the market maker's potential profit margin.
+- **[Bid-Ask Spread](../b/bid-ask_spread.md):** The difference between the bid price and the ask price, representing the market maker's potential profit margin.
 
 Market makers play a crucial role in maintaining market liquidity, reducing transaction costs, and enhancing price discovery. In modern financial markets, market-making activities are often automated using sophisticated algorithms.
 
 ### Types of Market Making Algorithms
 
-1. **Statistical Arbitrage Algorithms:**
+1. **Statistical [Arbitrage](../a/arbitrage.md) Algorithms:**
    - Utilize statistical models to identify price discrepancies between related securities.
    - Trade multiple securities simultaneously to exploit price differentials while managing risk.
-   - Examples include pairs trading and mean reversion strategies.
+   - Examples include [pairs trading](../p/pairs_trading.md) and [mean reversion](../m/mean_reversion.md) strategies.
 
 2. **Inventory-Based Algorithms:**
    - Focus on optimizing the market maker's inventory levels.
    - Adjust prices and trade volumes based on the current inventory position.
    - Aim to balance the inventory to minimize risk and maximize profits.
 
-3. **Order Book Dynamics Algorithms:**
+3. **[Order Book Dynamics](../o/order_book_dynamics.md) Algorithms:**
    - Rely on real-time analysis of order book data to make trading decisions.
    - Monitor order flow, size, and price levels to anticipate market movements.
    - Employ machine learning techniques to adapt to changing market conditions.
 
-4. **Trend Following Algorithms:**
+4. **[Trend Following](../t/trend_following.md) Algorithms:**
    - Identify and exploit market trends to make profitable trades.
-   - Use technical indicators and historical price data to determine entry and exit points.
-   - Can be applied to various timeframes, from short-term intraday trading to long-term investment strategies.
+   - Use [technical indicators](../t/technical_indicators.md) and historical price data to determine entry and exit points.
+   - Can be applied to various timeframes, from short-term [intraday trading](../i/intraday_trading.md) to long-term investment strategies.
 
 ### Core Mechanisms of Market Making Algorithms
 
@@ -44,12 +44,12 @@ Market making algorithms operate based on several key mechanisms that enable the
 
 2. **Order Execution:**
    - Once a trade is executed, the algorithm updates its inventory and adjusts future quotes accordingly.
-   - Algorithms employ smart order routing to minimize execution costs and avoid adverse selection.
+   - Algorithms employ smart [order routing](../o/order_routing.md) to minimize execution costs and avoid adverse selection.
 
-3. **Risk Management:**
+3. **[Risk Management](../r/risk_management.md):**
    - Continuous monitoring of market conditions and inventory levels to manage risk exposure.
-   - Use of hedging strategies, such as options and futures, to mitigate risk.
-   - Implementing stop-loss orders and other risk control measures to protect against significant losses.
+   - Use of [hedging strategies](../h/hedging_strategies.md), such as options and futures, to mitigate risk.
+   - Implementing [stop-loss orders](../s/stop-loss_orders.md) and other risk control measures to protect against significant losses.
 
 4. **Adaptive Learning:**
    - Utilization of machine learning techniques to adapt to changing market conditions.
@@ -62,14 +62,14 @@ Several prominent firms and platforms are known for their market-making activiti
 
 1. **Citadel Securities:** [Citadel Securities](https://www.citadelsecurities.com/)
    - A leading market maker across various asset classes, including equities, options, and fixed income.
-   - Known for its advanced trading technology and quantitative research capabilities.
+   - Known for its advanced trading technology and [quantitative research](../q/quantitative_research.md) capabilities.
    
 2. **Virtu Financial:** [Virtu Financial](https://www.virtu.com/)
    - A global financial technology firm providing liquidity and execution services.
    - Specializes in electronic market making across multiple asset classes.
 
 3. **Jane Street:** [Jane Street](https://www.janestreet.com/)
-   - A quantitative trading firm known for its expertise in algorithmic trading and market making.
+   - A [quantitative trading](../q/quantitative_trading.md) firm known for its expertise in [algorithmic trading](../a/algorithmic_trading.md) and market making.
    - Focuses on data-driven decision-making and advanced statistical models.
 
 4. **Flow Traders:** [Flow Traders](https://www.flowtraders.com/)
@@ -106,14 +106,14 @@ The future of market-making algorithms is likely to be shaped by several trends 
 
 2. **Blockchain and Distributed Ledger Technology:**
    - Potential use of blockchain technology to enhance transparency and reduce settlement times.
-   - Exploration of decentralized exchanges and smart contracts for automated market making.
+   - Exploration of decentralized exchanges and smart contracts for [automated market making](../a/automated_market_making.md).
 
 3. **Quantum Computing:**
-   - The potential impact of quantum computing on algorithmic trading and market making.
+   - The potential impact of quantum computing on [algorithmic trading](../a/algorithmic_trading.md) and market making.
    - Exploration of quantum algorithms for solving complex optimization problems more efficiently.
 
 4. **Environmental, Social, and Governance (ESG) Considerations:**
-   - Increasing focus on ESG factors in trading strategies and market-making activities.
+   - Increasing focus on ESG factors in [trading strategies](../t/trading_strategies.md) and market-making activities.
    - Development of algorithms that incorporate sustainable and socially responsible investment criteria.
 
 ### Conclusion

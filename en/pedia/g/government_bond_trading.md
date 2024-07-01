@@ -7,8 +7,8 @@ Government bond trading is a crucial component of the global financial markets. 
 1. **Treasury Bonds (T-Bonds):** Issued by national governments, these are long-term securities with maturities ranging from 10 to 30 years. They pay interest semi-annually.
 2. **Treasury Notes (T-Notes):** These are medium-term bonds with maturities of 2, 3, 5, 7, and 10 years. They also pay semi-annual interest.
 3. **Treasury Bills (T-Bills):** Short-term securities with maturities ranging from a few days to one year. These are issued at a discount and do not pay periodic interest.
-4. **Inflation-Protected Securities (TIPS):** These are designed to protect investors from inflation. The principal value adjusts based on inflation, and they pay interest semi-annually.
-5. **Municipal Bonds:** Though not strictly "government bonds," these are issued by states, cities, and other local government entities. They often offer tax advantages.
+4. **[Inflation-Protected Securities](../i/inflation-protected_securities.md) (TIPS):** These are designed to protect investors from inflation. The principal value adjusts based on inflation, and they pay interest semi-annually.
+5. **[Municipal Bonds](../m/municipal_bonds.md):** Though not strictly "government bonds," these are issued by states, cities, and other local government entities. They often offer tax advantages.
 
 #### Mechanics of Government Bond Trading
 
@@ -46,15 +46,15 @@ The process of trading government bonds can be broken down into primary and seco
 1. **Interest Rate Risk:** The most significant risk faced by bond traders. When interest rates rise, the price of existing bonds falls, and vice versa. This inverse relationship is a fundamental concept in bond trading.
 2. **Inflation Risk:** Inflation erodes the purchasing power of the fixed interest payments made by bonds.
 3. **Credit Risk:** While minimal for bonds issued by stable governments, credit risk does exist, particularly in emerging markets.
-4. **Liquidity Risk:** Some government bonds may be less liquid, making it difficult to sell them quickly without impacting the market price.
+4. **[Liquidity Risk](../l/liquidity_risk.md):** Some government bonds may be less liquid, making it difficult to sell them quickly without impacting the market price.
 
 #### Strategies in Government Bond Trading
 
 1. **Buy and Hold:** Investors purchase bonds and hold them until maturity to receive the interest payments and the principal repayment.
-2. **Bond Laddering:** Involves purchasing bonds with varying maturities to manage interest rate risk and provide liquidity at regular intervals.
+2. **[Bond Laddering](../b/bond_laddering.md):** Involves purchasing bonds with varying maturities to manage interest rate risk and provide liquidity at regular intervals.
 3. **Duration Matching:** Portfolio managers match the duration of their bond portfolio to their investment horizon to mitigate interest rate risk.
 4. **Active Trading:** Involves buying and selling bonds to capitalize on interest rate movements, credit spreads, and other market inefficiencies.
-5. **Yield Curve Strategies:** Traders implement strategies based on expectations of changes in the yield curve, such as riding the yield curve or implementing a barbell strategy.
+5. **[Yield Curve](../y/yield_curve.md) Strategies:** Traders implement strategies based on expectations of changes in the [yield curve](../y/yield_curve.md), such as riding the [yield curve](../y/yield_curve.md) or implementing a [barbell strategy](../b/barbell_strategy.md).
 
 #### Conclusion
 

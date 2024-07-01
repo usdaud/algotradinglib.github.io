@@ -40,7 +40,7 @@ While many futures contracts are settled in cash, some require the physical deli
 
 ### Commodity Futures
 
-Commodity futures are contracts for the delivery of physical goods such as:
+[Commodity futures](../c/commodity_futures.md) are contracts for the delivery of physical goods such as:
 - Agricultural products (e.g., wheat, corn, soybeans)
 - Energy products (e.g., crude oil, natural gas)
 - Metals (e.g., gold, silver, copper)
@@ -48,8 +48,8 @@ Commodity futures are contracts for the delivery of physical goods such as:
 ### Financial Futures
 
 Financial futures are contracts based on financial instruments and indices. These include:
-- Interest rate futures (e.g., U.S. Treasury bonds, Eurodollar deposits)
-- Stock index futures (e.g., S&P 500, NASDAQ-100)
+- [Interest rate futures](../i/interest_rate_futures.md) (e.g., U.S. Treasury bonds, Eurodollar deposits)
+- Stock [index futures](../i/index_futures.md) (e.g., S&P 500, NASDAQ-100)
 - Currency futures (e.g., EUR/USD, GBP/USD)
 
 ## Trading Strategies
@@ -64,18 +64,18 @@ Speculators aim to profit from price changes by buying and selling futures contr
 
 ### Arbitrage
 
-Arbitrage involves simultaneously buying and selling related instruments to profit from price discrepancies. For instance, a trader might exploit differences between the futures price and the spot price of an asset.
+[Arbitrage](../a/arbitrage.md) involves simultaneously buying and selling related instruments to profit from price discrepancies. For instance, a trader might exploit differences between the futures price and the spot price of an asset.
 
 ## Regulatory Environment
 
-Futures trading is subject to regulatory oversight to ensure market integrity and protect investors. In the United States, the primary regulatory body is the Commodity Futures Trading Commission (CFTC). The CFTC oversees the activities of futures exchanges and enforces rules to prevent market manipulation and fraud.
+Futures trading is subject to regulatory oversight to ensure market integrity and protect investors. In the United States, the primary regulatory body is the [Commodity Futures](../c/commodity_futures.md) Trading Commission (CFTC). The CFTC oversees the activities of futures exchanges and enforces rules to prevent market manipulation and fraud.
 
 ## Major Futures Exchanges
 
 Several major futures exchanges operate globally, providing a platform for the trading of futures contracts. Some of the most prominent exchanges include:
 
 - **Chicago Mercantile Exchange (CME)**: One of the largest and most diverse futures exchanges, offering contracts on commodities, financial instruments, and indices. [CME Group](https://www.cmegroup.com)
-- **Intercontinental Exchange (ICE)**: Known for its energy futures contracts, as well as financial derivatives. [Intercontinental Exchange](https://www.theice.com)
+- **Intercontinental Exchange (ICE)**: Known for its energy futures contracts, as well as financial [derivatives](../d/derivatives.md). [Intercontinental Exchange](https://www.theice.com)
 - **Euronext**: A pan-European exchange providing futures and options contracts on a variety of assets. [Euronext](https://www.euronext.com)
 - **Tokyo Commodity Exchange (TOCOM)**: Focuses on commodities such as metals, rubber, and energy products. [TOCOM](https://www.tocom.or.jp)
 
@@ -113,10 +113,10 @@ In times of market stress, liquidity can dry up, making it difficult to exit pos
 
 ### Counterparty Risk
 
-Although futures exchanges mitigate counterparty risk through their clearinghouses, there is still a small risk of default by one of the parties involved in the trade.
+Although futures exchanges mitigate [counterparty risk](../c/counterparty_risk.md) through their clearinghouses, there is still a small risk of default by one of the parties involved in the trade.
 
 ## Conclusion
 
-Futures contracts play a crucial role in modern financial markets, offering a mechanism for price discovery, risk management, and speculative opportunities. Their standardized nature and regulatory oversight ensure a fair and transparent trading environment. However, the significant leverage and market risks inherent in futures trading necessitate careful risk management and a thorough understanding of the market dynamics.
+Futures contracts play a crucial role in modern financial markets, offering a mechanism for price discovery, [risk management](../r/risk_management.md), and speculative opportunities. Their standardized nature and regulatory oversight ensure a fair and transparent [trading environment](../t/trading_environment.md). However, the significant leverage and market risks inherent in futures trading necessitate careful [risk management](../r/risk_management.md) and a thorough understanding of the market dynamics.
 
 For more information on futures trading and regulatory guidelines, you can visit the websites of major exchanges such as [CME Group](https://www.cmegroup.com) and [Intercontinental Exchange](https://www.theice.com).

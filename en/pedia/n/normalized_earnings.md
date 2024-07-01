@@ -24,8 +24,8 @@ To understand normalized earnings, one must first grasp the concept of GAAP (Gen
 Normalized earnings are critical for several reasons:
  
 - **Comparability:** They allow for meaningful comparisons between different periods and with other companies, helping in stock valuation and performance analysis.
-- **Trend Analysis:** Investors can better understand the true performance trajectory by removing the noise from earnings caused by irregular events.
-- **Valuation Models:** Valuations based on normalized earnings, such as price-to-earnings (P/E) ratios, provide more reliable insights.
+- **[Trend Analysis](../t/trend_analysis.md):** Investors can better understand the true performance trajectory by removing the noise from earnings caused by irregular events.
+- **[Valuation Models](../v/valuation_models.md):** Valuations based on normalized earnings, such as price-to-earnings (P/E) ratios, provide more reliable insights.
 
 ### Practical Example
 
@@ -52,7 +52,7 @@ Many top financial information and analytics companies provide specific data and
 
 - **Bloomberg Terminal:** Provides comprehensive normalized earnings figures and tools to analyze the financial health of companies. https://www.bloomberg.com/professional/solution/bloomberg-terminal/
 
-- **Morningstar:** Includes normalized earnings in its equity research and analysis platform to help investors. https://www.morningstar.com/
+- **Morningstar:** Includes normalized earnings in its [equity research](../e/equity_research.md) and analysis platform to help investors. https://www.morningstar.com/
 
 ### Limitations and Considerations
 

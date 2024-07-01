@@ -26,7 +26,7 @@ In a log scale, equal distances on the axis represent equal ratios, typically ma
 
 Most modern trading platforms provide the option to switch between linear and log scales. Examples include:
 
-- **TradingView**: Known for its advanced charting tools, TradingView allows users to toggle between linear and log scales for better data visualization. [TradingView](https://www.tradingview.com)
+- **TradingView**: Known for its advanced charting tools, TradingView allows users to toggle between linear and log scales for better [data visualization](../d/data_visualization.md). [TradingView](https://www.tradingview.com)
 - **MetaTrader 4/5**: Popular among forex traders, MetaTrader also supports logarithmic scaling to help traders better analyze price movements. [MetaTrader](https://www.metatrader4.com)
 - **Thinkorswim by TD Ameritrade**: Offers detailed charting options including log scale for comprehensive market analysis. [TD Ameritrade](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
 

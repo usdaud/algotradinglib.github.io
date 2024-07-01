@@ -51,13 +51,13 @@ Here's the initial outlook:
 
 ### Risk Management Strategies
 
-- **Delta Hedging**: To minimize directional risk, traders can employ delta-neutral strategies.
+- **[Delta Hedging](../d/delta_hedging.md)**: To minimize directional risk, traders can employ delta-neutral strategies.
 - **Volatility Hedging**: Utilizing VIX options or other volatility instruments to manage the exposure to changes in volatility.
 
 ### Use Cases in Trading
 
 - **Volatility Predictions**: Traders anticipating a significant decrease in volatility might find this a lucrative strategy.
-- **Earnings Announcements**: Before earnings where there's expected to be a drop in implied volatility post-announcement, reverse calendar spreads can be useful.
+- **[Earnings Announcements](../e/earnings_announcements.md)**: Before earnings where there's expected to be a drop in implied volatility post-announcement, reverse calendar spreads can be useful.
 
 ### Important Considerations
 
@@ -67,12 +67,12 @@ Here's the initial outlook:
 
 ### Example Companies Utilizing Reverse Calendar Spread
 
-Many proprietary trading firms and hedge funds might utilize this strategy as part of their portfolio management and speculative trading practices:
+Many [proprietary trading](../p/proprietary_trading.md) firms and hedge funds might utilize this strategy as part of their [portfolio management](../p/portfolio_management.md) and speculative trading practices:
 
-- **Jane Street**: A quantitative trading firm that leverages various sophisticated trading strategies, including options. They often apply strategies like reverse calendar spreads in their market-making activities. [Jane Street](https://www.janestreet.com/)
+- **Jane Street**: A [quantitative trading](../q/quantitative_trading.md) firm that leverages various sophisticated [trading strategies](../t/trading_strategies.md), including options. They often apply strategies like reverse calendar spreads in their market-making activities. [Jane Street](https://www.janestreet.com/)
 
 - **Citadel Securities**: Known for their high-frequency trading and options market-making, Citadel's extensive use of both traditional and complex options strategies could very well encompass the use of reverse calendar spreads. [Citadel Securities](https://www.citadelsecurities.com/)
 
 ### Conclusion
 
-The reverse calendar spread is a nuanced options trading strategy that offers a speculative play on volatility. Its unique structure of leveraging the differential time decay between short-term and long-term options makes it an intricate, yet potentially rewarding approach for experienced traders. As with any sophisticated financial instrument, thorough understanding and careful risk management are paramount to successfully employing this strategy.
+The reverse calendar spread is a nuanced options trading strategy that offers a speculative play on volatility. Its unique structure of leveraging the differential time decay between short-term and long-term options makes it an intricate, yet potentially rewarding approach for experienced traders. As with any sophisticated financial instrument, thorough understanding and careful [risk management](../r/risk_management.md) are paramount to successfully employing this strategy.

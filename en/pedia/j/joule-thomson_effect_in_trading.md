@@ -1,7 +1,7 @@
 ## Joule-Thomson Effect in Trading
 
 ### Introduction
-The Joule-Thomson effect, named after James Prescott Joule and William Thomson (Lord Kelvin), typically refers to the temperature change of a real gas when it is allowed to expand or is compressed at constant enthalpy. In the field of trading, this principle can be loosely adapted as an analogy to describe certain market phenomena and algorithmic trading strategies. 
+The Joule-Thomson effect, named after James Prescott Joule and William Thomson (Lord Kelvin), typically refers to the temperature change of a real gas when it is allowed to expand or is compressed at constant enthalpy. In the field of trading, this principle can be loosely adapted as an analogy to describe certain market phenomena and [algorithmic trading](../a/algorithmic_trading.md) strategies. 
 
 ### Background
 
@@ -24,12 +24,12 @@ When a stock or asset is traded (i.e., pressure is applied or released), the eff
 
 ### Algorithmic Application
 
-Algorithmic traders can apply the Joule-Thomson analogy to develop trading strategies that anticipate market conditions based on buying and selling pressures and their effects on volatility. 
+Algorithmic traders can apply the Joule-Thomson analogy to develop [trading strategies](../t/trading_strategies.md) that anticipate market conditions based on buying and selling pressures and their effects on volatility. 
 
 #### Key Metrics
 - **Volume-weighted Average Price (VWAP):** VWAP can help traders understand the average price at which assets are traded during a specific time period, aiding in identifying pressure points.
-- **Order Book Analysis:** By examining the order book, traders can gauge market pressure and anticipate potential changes in "temperature" or volatility.
-- **Sentiment Analysis:** Algorithmic tools can analyze market sentiment through news articles, social media, and other sources to maintain a constant 'enthalpy' perspective.
+- **[Order Book Analysis](../o/order_book_analysis.md):** By examining the order book, traders can gauge market pressure and anticipate potential changes in "temperature" or volatility.
+- **[Sentiment Analysis](../s/sentiment_analysis.md):** Algorithmic tools can analyze market sentiment through news articles, social media, and other sources to maintain a constant 'enthalpy' perspective.
 
 ### Practical Example
 
@@ -39,18 +39,18 @@ Consider a scenario where a significant stock is experiencing high buying pressu
 
 Several companies specialize in providing tools and services essential for implementing such strategies:
 - **TradeStation**: Known for their comprehensive trading platforms that support custom algorithm development. [TradeStation](https://www.tradestation.com/)
-- **QuantConnect**: Offers a platform for backtesting and deploying algorithmic trading strategies. [QuantConnect](https://www.quantconnect.com/)
-- **AlgoTrader**: Provides institutional-grade algorithmic trading software for automated trading and execution management. [AlgoTrader](https://www.algotrader.com/)
+- **QuantConnect**: Offers a platform for [backtesting](../b/backtesting.md) and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies. [QuantConnect](https://www.quantconnect.com/)
+- **AlgoTrader**: Provides institutional-grade [algorithmic trading](../a/algorithmic_trading.md) software for automated trading and execution management. [AlgoTrader](https://www.algotrader.com/)
 
 ### Conclusion
 
-The Joule-Thomson Effect, while a concept from thermodynamics, provides a compelling analogy for understanding market behaviors under different pressures. By translating these principles into trading terms, algorithmic traders can develop sophisticated strategies to anticipate market movements, manage risk, and optimize trading performance.
+The Joule-Thomson Effect, while a concept from thermodynamics, provides a compelling analogy for understanding market behaviors under different pressures. By translating these principles into trading terms, algorithmic traders can develop sophisticated strategies to anticipate market movements, manage risk, and optimize [trading performance](../t/trading_performance.md).
 
 ### Further Reading
 
-For those interested in a deeper dive into the thermodynamic principles and their relation to trading strategies, consider exploring the following resources:
+For those interested in a deeper dive into the thermodynamic principles and their relation to [trading strategies](../t/trading_strategies.md), consider exploring the following resources:
 - "The Principles of Thermodynamics" by Herbert Callen
-- "Algorithmic Trading: Winning Strategies and Their Rationale" by Ernest P. Chan
+- "[Algorithmic Trading](../a/algorithmic_trading.md): Winning Strategies and Their Rationale" by Ernest P. Chan
 - Online resources and courses on [Coursera](https://www.coursera.org/) and [edX](https://www.edx.org/)
 
 ### Disclaimer

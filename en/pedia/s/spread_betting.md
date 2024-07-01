@@ -55,11 +55,11 @@ Traders do not own the underlying asset in spread betting, only the contract spe
 
 #### **Bid-Ask Spread**
 
-The primary cost of spread betting stems from the bid-ask spread. The broker sets a wider spread than the market to incorporate its profit. The spread can vary based on market conditions and the broker's policies.
+The primary cost of spread betting stems from the [bid-ask spread](../b/bid-ask_spread.md). The broker sets a wider spread than the market to incorporate its profit. The spread can vary based on market conditions and the broker's policies.
 
 #### **Risk of Losses**
 
-Due to leverage, traders can lose more money than their initial investment. Effective risk management strategies, such as using stop-loss orders, are crucial to minimize potential losses.
+Due to leverage, traders can lose more money than their initial investment. Effective [risk management](../r/risk_management.md) strategies, such as using [stop-loss orders](../s/stop-loss_orders.md), are crucial to minimize potential losses.
 
 ## Advanced Strategies in Spread Betting
 
@@ -73,7 +73,7 @@ This strategy involves simultaneously betting on the spread between two correlat
 
 ### Trend Following
 
-Trend following is a strategy where traders identify and bet according to the prevailing market trend. By using technical indicators, such as moving averages, traders aim to capitalize on the momentum of asset price movements.
+[Trend following](../t/trend_following.md) is a strategy where traders identify and bet according to the prevailing market trend. By using [technical indicators](../t/technical_indicators.md), such as moving averages, traders aim to capitalize on the momentum of asset price movements.
 
 ### Scalping
 
@@ -99,8 +99,8 @@ Scalping is a high-frequency trading strategy where traders make numerous small 
 
 ### ETX Capital
 
-[ETX Capital](https://www.etxcapital.com) offers a wide range of spread betting options with competitive spreads and leverage. The platform offers advanced charting tools, risk management features, and educational resources for traders.
+[ETX Capital](https://www.etxcapital.com) offers a wide range of spread betting options with competitive spreads and leverage. The platform offers advanced charting tools, [risk management](../r/risk_management.md) features, and educational resources for traders.
 
 ## Conclusion
 
-Spread betting provides traders with a flexible and tax-efficient means to speculate on financial markets without owning the underlying assets. The ability to go long or short, leverage positions, and access a wide range of markets makes spread betting an attractive option for both amateur and seasoned traders. However, the risks associated with leveraged trading underscore the importance of careful strategy, risk management, and the use of stop-loss orders. As the landscape of financial markets continues to evolve, spread betting remains a versatile and dynamic tool for traders seeking to capitalize on market fluctuations.
+Spread betting provides traders with a flexible and tax-efficient means to speculate on financial markets without owning the underlying assets. The ability to go long or short, leverage positions, and access a wide range of markets makes spread betting an attractive option for both amateur and seasoned traders. However, the risks associated with leveraged trading underscore the importance of careful strategy, [risk management](../r/risk_management.md), and the use of [stop-loss orders](../s/stop-loss_orders.md). As the landscape of financial markets continues to evolve, spread betting remains a versatile and dynamic tool for traders seeking to capitalize on market fluctuations.

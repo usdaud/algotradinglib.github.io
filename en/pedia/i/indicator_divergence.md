@@ -2,11 +2,11 @@
 
 ### Introduction
 
-In the realm of algorithmic trading, "Indicator Divergence" is a powerful analytical tool used by traders and algorithms to identify potential reversals or continuations in the market trends. The concept of divergence involves comparing the movement of an asset's price with the movement of a corresponding technical indicator, generally oscillators like the Relative Strength Index (RSI), Moving Average Convergence Divergence (MACD), or Stochastic Oscillator. Divergence can signal an impending shift in market momentum, thereby offering traders a valuable insight for making informed decisions.
+In the realm of [algorithmic trading](../a/algorithmic_trading.md), "Indicator Divergence" is a powerful analytical tool used by traders and algorithms to identify potential reversals or continuations in the market trends. The concept of divergence involves comparing the movement of an asset's price with the movement of a corresponding technical indicator, generally oscillators like the Relative Strength Index (RSI), Moving Average Convergence Divergence (MACD), or [Stochastic Oscillator](../s/stochastic_oscillator.md). Divergence can signal an impending shift in market momentum, thereby offering traders a valuable insight for making informed decisions.
 
 ### Types of Divergence
 
-There are two primary types of divergence in algorithmic trading: 
+There are two primary types of divergence in [algorithmic trading](../a/algorithmic_trading.md): 
 
 1. **Regular Divergence**: Often used to identify potential reversals in the market trend.
 2. **Hidden Divergence**: Utilized to signal the likelihood of trend continuation.
@@ -29,30 +29,30 @@ Hidden divergence is used to predict the continuation of the current market tren
 
 ### Implementation in Algorithmic Trading
 
-The identification and analysis of divergence can be effectively automated through algorithmic trading systems. Here’s how divergence is implemented in algorithmic trading:
+The identification and analysis of divergence can be effectively automated through [algorithmic trading](../a/algorithmic_trading.md) systems. Here’s how divergence is implemented in [algorithmic trading](../a/algorithmic_trading.md):
 
 1. **Data Collection**: The initial step involves collecting historical price data and corresponding technical indicator values.
   
 2. **Signal Detection**: Algorithms are written to detect divergence by comparing price trends and indicator trends. This involves mathematical computations to identify discrepancies.
 
-3. **Backtesting**: Before deploying any trading strategy, it is crucial to backtest the algorithm against historical data to validate its effectiveness and reliability.
+3. **[Backtesting](../b/backtesting.md)**: Before deploying any trading strategy, it is crucial to backtest the algorithm against historical data to validate its effectiveness and reliability.
 
 4. **Execution**: Once the algorithm is fine-tuned and validated, it is executed on live market data. The system continuously monitors the market for divergence signals and executes trades based on predefined criteria.
 
 ### Tools and Platforms
 
-Several trading platforms offer the ability to implement and automate divergence-based trading strategies. Some of the prominent ones include:
+Several trading platforms offer the ability to implement and automate divergence-based [trading strategies](../t/trading_strategies.md). Some of the prominent ones include:
 
-- **MetaTrader 4/5 (MT4/5)**: A popular trading platform that provides extensive tools for technical analysis, including custom indicator scripts to detect divergence.
+- **MetaTrader 4/5 (MT4/5)**: A popular trading platform that provides extensive tools for [technical analysis](../t/technical_analysis.md), including custom indicator scripts to detect divergence.
   [MetaTrader](https://www.metatrader4.com/)
 
 - **TradingView**: A community-based platform offering advanced charting tools and the ability to write custom scripts using Pine Script for detecting and acting on divergence.
   [TradingView](https://www.tradingview.com/)
 
-- **QuantConnect**: An algorithmic trading platform that provides tools for developing and backtesting trading strategies in various languages such as C#, Python, and F#.
+- **QuantConnect**: An [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools for developing and [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md) in various languages such as C#, Python, and F#.
   [QuantConnect](https://www.quantconnect.com/)
 
-- **AlgoTrader**: A comprehensive algorithmic trading software solution that allows creating, backtesting, and deploying trading strategies.
+- **AlgoTrader**: A comprehensive [algorithmic trading](../a/algorithmic_trading.md) software solution that allows creating, [backtesting](../b/backtesting.md), and deploying [trading strategies](../t/trading_strategies.md).
   [AlgoTrader](https://www.algotrader.com/)
 
 ### Examples of Divergence Indicators
@@ -63,28 +63,28 @@ To implement divergence detection, traders often rely on specific indicators tha
 
 The RSI is a momentum oscillator that measures the speed and change of price movements. It ranges from 0 to 100, typically with levels above 70 considered overbought and below 30 considered oversold.
 
-- **Bullish Divergence**: Occurs when price forms lower lows while RSI forms higher lows.
-- **Bearish Divergence**: Happens when price forms higher highs while RSI makes lower highs.
+- **[Bullish Divergence](../b/bullish_divergence.md)**: Occurs when price forms lower lows while RSI forms higher lows.
+- **[Bearish Divergence](../b/bearish_divergence.md)**: Happens when price forms higher highs while RSI makes lower highs.
 
 #### Moving Average Convergence Divergence (MACD)
 
 MACD is a trend-following momentum indicator that shows the relationship between two moving averages of a security’s price. The MACD line is derived by subtracting the 26-period EMA from the 12-period EMA, and a signal line is the 9-period EMA of the MACD line.
 
-- **Bullish Divergence**: Identified when price records lower lows and MACD records higher lows.
-- **Bearish Divergence**: Spotted when price makes higher highs and MACD shows lower highs.
+- **[Bullish Divergence](../b/bullish_divergence.md)**: Identified when price records lower lows and MACD records higher lows.
+- **[Bearish Divergence](../b/bearish_divergence.md)**: Spotted when price makes higher highs and MACD shows lower highs.
 
 #### Stochastic Oscillator
 
-The Stochastic Oscillator is a momentum indicator comparing a particular closing price of a security to a range of its prices over a certain period of time. It oscillates between 0 and 100, with readings above 80 indicating overbought conditions and below 20 indicating oversold conditions.
+The [Stochastic Oscillator](../s/stochastic_oscillator.md) is a momentum indicator comparing a particular closing price of a security to a range of its prices over a certain period of time. It oscillates between 0 and 100, with readings above 80 indicating overbought conditions and below 20 indicating oversold conditions.
 
-- **Bullish Divergence**: Occurs when the price marks lower lows, but the Stochastic Oscillator makes higher lows.
-- **Bearish Divergence**: Seen when the price achieves higher highs and the Stochastic Oscillator posts lower highs.
+- **[Bullish Divergence](../b/bullish_divergence.md)**: Occurs when the price marks lower lows, but the [Stochastic Oscillator](../s/stochastic_oscillator.md) makes higher lows.
+- **[Bearish Divergence](../b/bearish_divergence.md)**: Seen when the price achieves higher highs and the [Stochastic Oscillator](../s/stochastic_oscillator.md) posts lower highs.
 
 ### Strategies for Divergence Trading
 
 **1. Confirmation through Multiple Indicators**: Combining divergence signals from multiple indicators to make trading decisions. This increases the reliability of the signals.
 
-**2. Confluence with Support and Resistance**: Enhancing divergence signals by using them in conjunction with established support and resistance levels.
+**2. Confluence with [Support and Resistance](../s/support_and_resistance.md)**: Enhancing divergence signals by using them in conjunction with established [support and resistance](../s/support_and_resistance.md) levels.
 
 **3. Time Frame Analysis**: Using multiple time frames to identify divergence. A signal that is confirmed across different time frames can be stronger and more reliable.
 
@@ -94,10 +94,10 @@ Despite its efficacy, trading based on divergence has inherent challenges and li
 
 - **False Signals**: Divergence does not always result in price reversals or continuations as expected, leading to potential false signals.
   
-- **Lagging Nature**: Indicators used for divergence detection (RSI, MACD, Stochastic) are lagging indicators which means they are confirming the trend after it has begun, which can sometimes result in missed opportunities.
+- **Lagging Nature**: Indicators used for divergence detection (RSI, MACD, Stochastic) are [lagging indicators](../l/lagging_indicators.md) which means they are confirming the trend after it has begun, which can sometimes result in missed opportunities.
 
 - **Complicated in Sideways Markets**: Divergence signals can be less reliable in choppy, sideways markets where price action is more random and less directional.
 
 ### Conclusion
 
-Indicator divergence is an insightful concept in technical analysis, useful for predicting market reversals and continuations. While algorithmic trading systems can enhance the efficiency and accuracy of divergence detection, traders must still remain cautious of the inherent limitations and potential false signals. Continuous backtesting, robust algorithm design, and the integration of multiple confirmation tools are critical for leveraging indicator divergence effectively in algorithmic trading strategies.
+Indicator divergence is an insightful concept in [technical analysis](../t/technical_analysis.md), useful for predicting market reversals and continuations. While [algorithmic trading](../a/algorithmic_trading.md) systems can enhance the efficiency and accuracy of divergence detection, traders must still remain cautious of the inherent limitations and potential false signals. Continuous [backtesting](../b/backtesting.md), robust [algorithm design](../a/algorithm_design.md), and the integration of multiple confirmation tools are critical for leveraging indicator divergence effectively in [algorithmic trading](../a/algorithmic_trading.md) strategies.

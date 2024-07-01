@@ -1,16 +1,16 @@
 # Quantitative Credit Analysis
 
-Quantitative Credit Analysis (QCA) is a systematic approach to evaluating the creditworthiness of borrowers—ranging from individual consumers to large corporations—using mathematical and statistical techniques. This method involves the application of various quantitative models and data analysis tools to assess the probability of default (PD), loss given default (LGD), and exposure at default (EAD), among other credit risk components. The advent of advanced computing and big data analytics has significantly enhanced the ability to process large datasets and generate accurate, real-time credit assessments, which are crucial for financial institutions, investors, and regulators.
+Quantitative Credit Analysis (QCA) is a systematic approach to evaluating the creditworthiness of borrowers—ranging from individual consumers to large corporations—using mathematical and statistical techniques. This method involves the application of various [quantitative models](../q/quantitative_models.md) and data analysis tools to assess the probability of default (PD), loss given default (LGD), and exposure at default (EAD), among other credit risk components. The advent of advanced computing and big data analytics has significantly enhanced the ability to process large datasets and generate accurate, real-time credit assessments, which are crucial for financial institutions, investors, and regulators.
 
 ## Fundamentals of Quantitative Credit Analysis
 
-Quantitative Credit Analysis integrates traditional credit analysis methods with quantitative finance techniques. Here are some key components and methodologies involved:
+Quantitative Credit Analysis integrates traditional credit analysis methods with [quantitative finance](../q/quantitative_finance.md) techniques. Here are some key components and methodologies involved:
 
 ### Probability of Default (PD)
 
 PD describes the likelihood that a borrower will default on their debt obligations within a specified horizon, usually one year. Techniques involved in estimating PD include:
 
-- **Logistic regression models:** Commonly used to predict binary outcomes, such as default or no default. By examining financial ratios and other key indicators, logistic regression helps in estimating the PD.
+- **Logistic regression models:** Commonly used to predict binary outcomes, such as default or no default. By examining [financial ratios](../f/financial_ratios.md) and other key indicators, logistic regression helps in estimating the PD.
 - **Machine Learning Models:** Techniques such as Random Forests, Support Vector Machines (SVM), and Neural Networks can offer more accurate PD estimations by capturing complex, non-linear relationships within the data.
 
 ### Loss Given Default (LGD)
@@ -42,7 +42,7 @@ External data can supplement internal data and includes:
 
 - **Credit Bureaus:** These organizations collect and maintain credit information about consumers and businesses, e.g., Experian, Equifax.
 - **Market Data:** Includes stock prices, bond yields, and other financial metrics that can indicate the credit health of publicly traded companies.
-- **Economic Indicators:** Metrics such as unemployment rates, inflation, and GDP growth can impact credit risk.
+- **[Economic Indicators](../e/economic_indicators.md):** Metrics such as unemployment rates, inflation, and GDP growth can impact credit risk.
 
 ## Key Models in Quantitative Credit Analysis
 
@@ -66,14 +66,14 @@ Reduced-form models, like the Jarrow-Turnbull Model, do not require in-depth fin
 Credit portfolio models assess the overall risk of a portfolio of loans or credit assets. Examples include:
 
 - **CreditRisk+:** A statistical model based on actuarial science principles that examines the distribution of default rates.
-- **Moody’s Analytics Portfolio Manager:** Integrates various types of credit risks, including default and migration risks, to optimize portfolio management.
+- **Moody’s Analytics Portfolio Manager:** Integrates various types of credit risks, including default and migration risks, to optimize [portfolio management](../p/portfolio_management.md).
 
 ## Software and Tools
 
 Modern QCA leverages sophisticated software tools and platforms:
 
 - **SAS Credit Scoring:** Offers end-to-end capabilities for building, validating, deploying, and monitoring credit scoring models. [SAS Credit Scoring](https://www.sas.com/en_us/software/credit-scoring.html)
-- **Moody's Analytics**: Provides comprehensive solutions for credit assessment and portfolio management. [Moody's Analytics](https://www.moodysanalytics.com/)
+- **Moody's Analytics**: Provides comprehensive solutions for credit assessment and [portfolio management](../p/portfolio_management.md). [Moody's Analytics](https://www.moodysanalytics.com/)
 
 ## Application Areas
 
@@ -97,7 +97,7 @@ Financial institutions use QCA to meet regulatory requirements such as Basel III
 
 ### Data Quality
 
-Poor data quality can significantly affect the accuracy of credit risk models. Ensuring consistent, accurate, and timely data remains a persistent challenge.
+Poor data quality can significantly affect the accuracy of [credit risk models](../c/credit_risk_models.md). Ensuring consistent, accurate, and timely data remains a persistent challenge.
 
 ### Model Risk
 

@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The Martingale process is a mathematical model used in probability theory that describes a fair game, where future probabilities are independent of past events. In the context of algorithmic trading, the Martingale process can be applied to various strategies, especially those concerning risk management and betting strategies.
+The Martingale process is a mathematical model used in probability theory that describes a fair game, where future probabilities are independent of past events. In the context of [algorithmic trading](../a/algorithmic_trading.md), the Martingale process can be applied to various strategies, especially those concerning [risk management](../r/risk_management.md) and betting strategies.
 
 ## Concept of Martingale
 
@@ -16,7 +16,7 @@ This equation essentially states that given the entire history of a process up t
 
 ### Risk Management
 
-One of the most notable applications of the Martingale process in algorithmic trading is in risk management. Traders can apply Martingale-based strategies to manage their betting sizes to average out losses over time, potentially coming out with a profit if they have a slight edge. However, this approach risks substantial loss if an unfavorable sequence of events occurs.
+One of the most notable applications of the Martingale process in [algorithmic trading](../a/algorithmic_trading.md) is in [risk management](../r/risk_management.md). Traders can apply Martingale-based strategies to manage their betting sizes to average out losses over time, potentially coming out with a profit if they have a slight edge. However, this approach risks substantial loss if an unfavorable sequence of events occurs.
 
 ### Martingale Betting Strategy
 
@@ -36,10 +36,10 @@ Though theoretically sound, in practical terms, several factors such as transact
 
 While the Martingale process can be theoretically attractive, particularly in markets perceived to be 'fair' or random walk-like, there are significant practical drawbacks:
 
-1. **Infinite Capital Requirement:** Theoretically, the Martingale strategy requires infinite capital to withstand a potential infinite losing streak.
+1. **Infinite Capital Requirement:** Theoretically, the [Martingale strategy](../m/martingale_strategy.md) requires infinite capital to withstand a potential infinite losing streak.
 2. **Psychological Stress:** Constantly increasing position sizes can cause psychological stress and might lead to irrational decision-making.
 3. **Market Limitations:** Real-world constraints such as account balance limits and regulatory restrictions can hinder the application.
-4. **Transaction Costs:** High trading fees can nullify the benefits of the Martingale strategy.
+4. **Transaction Costs:** High trading fees can nullify the benefits of the [Martingale strategy](../m/martingale_strategy.md).
 
 ### Risk of Ruin
 
@@ -53,11 +53,11 @@ Traders might employ variations or limits to the Martingale process to make it m
 
 1. **Limited Martingale:** Capping the number of times the position size increases.
 2. **Proportional Betting:** Rather than exponentially increasing bet sizes, increase them by a fixed ratio, limiting exposure.
-3. **Mean Reversion Based:** Combining Martingale strategies with mean-reversion indicators can add another layer of prediction and possibly profitability.
+3. **[Mean Reversion](../m/mean_reversion.md) Based:** Combining Martingale strategies with mean-reversion indicators can add another layer of prediction and possibly profitability.
 
 ### Statistical Arbitrage
 
-Some advanced quantitative traders apply Martingale processes in statistical arbitrage strategies. Here, the Martingale principle of fair game is leveraged against known statistical biases in market prices, betting that prices will revert to mean values over time.
+Some advanced quantitative traders apply Martingale processes in statistical [arbitrage](../a/arbitrage.md) strategies. Here, the Martingale principle of fair game is leveraged against known statistical biases in market prices, betting that prices will revert to mean values over time.
 
 ## Case Study: Medallion Fund by Renaissance Technologies
 
@@ -67,4 +67,4 @@ One practical example of a firm successfully leveraging statistical models and a
 
 ## Conclusion
 
-The Martingale process provides fascinating insights into risk, randomness, and probability which are enticing for algorithmic traders. However, while powerful in theory, the practical application demands cautious consideration of risks, costs, and psychological aspects. Algorithmic trading strategies incorporating Martingale elements must be carefully structured and often require advanced modifications to be feasibly sustainable in real-world markets.
+The Martingale process provides fascinating insights into risk, randomness, and probability which are enticing for algorithmic traders. However, while powerful in theory, the practical application demands cautious consideration of risks, costs, and psychological aspects. [Algorithmic trading](../a/algorithmic_trading.md) strategies incorporating Martingale elements must be carefully structured and often require advanced modifications to be feasibly sustainable in real-world markets.

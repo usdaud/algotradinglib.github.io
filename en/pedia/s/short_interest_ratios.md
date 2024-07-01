@@ -6,9 +6,9 @@ Short interest ratios are a key metric used in the stock market to gauge the sen
 
 ## Understanding Short Selling
 
-To grasp the concept of short interest ratios, it's critical first to understand short selling:
+To grasp the concept of short interest ratios, it's critical first to understand [short selling](../s/short_selling.md):
  
-1. **Short Selling:** Short selling involves borrowing shares of a stock and selling them on the open market with the intention of buying them back later at a lower price. The primary motive behind short selling is to profit from a decrease in the stock's price.
+1. **[Short Selling](../s/short_selling.md):** [Short selling](../s/short_selling.md) involves borrowing shares of a stock and selling them on the open market with the intention of buying them back later at a lower price. The primary motive behind [short selling](../s/short_selling.md) is to profit from a decrease in the stock's price.
 
 2. **Covering:** This is the act of buying back the borrowed shares to return them to the lender. 
 
@@ -39,11 +39,11 @@ This ratio indicates how many days it would take, under average trading volume, 
 
 ### High SIR
 
-A high Short Interest Ratio can indicate that a large number of investors are bearish on the stock, expecting its price to fall. However, it can also signify potential for a "short squeeze." 
+A high Short Interest Ratio can indicate that a large number of investors are bearish on the stock, expecting its price to fall. However, it can also signify potential for a "[short squeeze](../s/short_squeeze.md)." 
 
 1. **Bearish Sentiment:** A high SIR indicates strong bearish sentiment. If a company has a short interest ratio of 10 days or more, this often means that the market has serious concerns about the company's future.
    
-2. **Short Squeeze:** This occurs when a heavily shorted stock's price starts to rise, causing short sellers to cover their positions to limit losses, thus pushing the stock price even higher. A high SIR increases the likelihood of a short squeeze.
+2. **[Short Squeeze](../s/short_squeeze.md):** This occurs when a heavily shorted stock's price starts to rise, causing short sellers to cover their positions to limit losses, thus pushing the stock price even higher. A high SIR increases the likelihood of a [short squeeze](../s/short_squeeze.md).
 
 ### Low SIR
 
@@ -55,8 +55,8 @@ Conversely, a low Short Interest Ratio indicates that fewer investors are bettin
 
 ### Investment Strategies
 
-1. **Contrarian Investing:** Some investors use high short interest as a signal to buy, banking on a short squeeze.
-2. **Momentum Trading:** Investors might decide to short stock further if they believe that the high short interest is justified and the stock price will continue to decline.
+1. **Contrarian Investing:** Some investors use high short interest as a signal to buy, banking on a [short squeeze](../s/short_squeeze.md).
+2. **[Momentum Trading](../m/momentum_trading.md):** Investors might decide to short stock further if they believe that the high short interest is justified and the stock price will continue to decline.
 
 ### Risk Management
 
@@ -76,4 +76,4 @@ Several companies specialize in providing detailed short interest data:
 
 ## Conclusion
 
-Short interest ratios are indispensable tools for traders and investors who wish to understand market sentiment about specific securities. Whether used for contrarian strategies, momentum trading, or risk management, these ratios provide crucial insights into the behaviors and expectations of market participants. By analyzing short interest ratios in conjunction with other financial data, savvy investors can better navigate the complexities of the stock market.
+Short interest ratios are indispensable tools for traders and investors who wish to understand market sentiment about specific securities. Whether used for contrarian strategies, [momentum trading](../m/momentum_trading.md), or [risk management](../r/risk_management.md), these ratios provide crucial insights into the behaviors and expectations of market participants. By analyzing short interest ratios in conjunction with other financial data, savvy investors can better navigate the complexities of the stock market.

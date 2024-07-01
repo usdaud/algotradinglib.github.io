@@ -1,6 +1,6 @@
 # Non-Traditional Data Sources in Algorithmic Trading
 
-In recent years, the landscape of algorithmic trading has evolved significantly, driven not just by advancements in computational technology but also by the increasing adoption of non-traditional data sources. These data sources, often referred to as alternative data, provide a competitive edge to traders by offering insights that are not readily available through traditional financial datasets. 
+In recent years, the landscape of [algorithmic trading](../a/algorithmic_trading.md) has evolved significantly, driven not just by advancements in computational technology but also by the increasing adoption of non-traditional data sources. These data sources, often referred to as [alternative data](../a/alternative_data.md), provide a competitive edge to traders by offering insights that are not readily available through traditional financial datasets. 
 
 ### Understanding Non-Traditional Data Sources
 
@@ -11,7 +11,7 @@ Non-traditional data refers to any data that is not typically used in convention
 1. **Social Media Data**
    Social media platforms like Twitter, Facebook, and Reddit have become treasure troves of information. Algorithms can analyze tweets, posts, comments, and hashtags to gauge market sentiment and predict price movements. 
 
-   Example: Firms like [Dataminr](https://www.dataminr.com/) specialize in real-time social media analytics to detect market trends and signals.
+   Example: Firms like [Dataminr](https://www.dataminr.com/) specialize in real-time [social media analytics](../s/social_media_analytics.md) to detect market trends and signals.
 
 2. **Satellite Imagery**
    Satellite images provide up-to-date insights into various sectors like agriculture, retail, and oil and gas. Analysts can monitor activities such as crop health, retail foot traffic, and oil rig operations, giving an edge in predicting industry performance.
@@ -45,26 +45,26 @@ Non-traditional data refers to any data that is not typically used in convention
 
 ### Applications in Algorithmic Trading
 
-Algorithmic trading involves executing trades using pre-programmed rules and models that analyze market data. Non-traditional data sources enhance these algorithms in many ways:
+[Algorithmic trading](../a/algorithmic_trading.md) involves executing trades using pre-programmed rules and models that analyze market data. Non-traditional data sources enhance these algorithms in many ways:
 
-1. **Market Sentiment Analysis**
+1. **[Market Sentiment Analysis](../m/market_sentiment_analysis.md)**
    By analyzing social media chatter and news sentiment, algorithms can predict price movements of stocks, commodities, and other assets more accurately.
 
-2. **Sector Analysis**
+2. **[Sector Analysis](../s/sector_analysis.md)**
    Satellite imagery and geolocation data provide real-time monitoring of specific sectors such as agriculture, retail, and energy, which can inform trading decisions.
 
 3. **Performance Prediction**
    Data on consumer spending from credit card transactions can predict the financial performance of retail and service-oriented companies, offering a potential trading edge.
 
-4. **Risk Management**
-   ESG data helps traders evaluate the long-term risks associated with environmental, social, and governance factors, enhancing the risk management process.
+4. **[Risk Management](../r/risk_management.md)**
+   ESG data helps traders evaluate the long-term risks associated with environmental, social, and governance factors, enhancing the [risk management](../r/risk_management.md) process.
 
 ### Challenges and Considerations
 
 While non-traditional data sources offer numerous advantages, they also pose specific challenges:
 
 1. **Data Quality and Reliability**
-   Ensuring the accuracy and reliability of non-traditional data is crucial. Unlike conventional financial data, alternative data sources may not undergo rigorous validation.
+   Ensuring the accuracy and reliability of non-traditional data is crucial. Unlike conventional financial data, [alternative data](../a/alternative_data.md) sources may not undergo rigorous validation.
 
 2. **Privacy and Ethical Concerns**
    The usage of data, especially geolocation and credit card transactions, raises significant privacy issues. Adhering to ethical guidelines and regulations is essential.
@@ -77,7 +77,7 @@ While non-traditional data sources offer numerous advantages, they also pose spe
 
 ### Future Trends
 
-The adoption of non-traditional data sources in algorithmic trading is expected to grow as the technology continues to evolve. Advances in machine learning, artificial intelligence, and big data analytics will further enhance the ability of algorithms to process and interpret vast amounts of alternative data quickly and accurately.
+The adoption of non-traditional data sources in [algorithmic trading](../a/algorithmic_trading.md) is expected to grow as the technology continues to evolve. Advances in machine learning, artificial intelligence, and big data analytics will further enhance the ability of algorithms to process and interpret vast amounts of [alternative data](../a/alternative_data.md) quickly and accurately.
 
 ### Conclusion
 

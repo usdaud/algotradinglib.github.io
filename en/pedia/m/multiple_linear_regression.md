@@ -2,11 +2,11 @@
 
 ## Overview
 
-Multiple Linear Regression (MLR) is a statistical technique that utilizes several explanatory variables to predict the outcome of a response variable. This method extends simple linear regression, which uses only one explanatory variable. The goal of MLR is to model the linear relationship between the independent variables and the dependent variable by fitting a linear equation to the observed data.
+Multiple [Linear Regression](../l/linear_regression.md) (MLR) is a statistical technique that utilizes several explanatory variables to predict the outcome of a response variable. This method extends simple [linear regression](../l/linear_regression.md), which uses only one explanatory variable. The goal of MLR is to model the linear relationship between the independent variables and the dependent variable by fitting a linear equation to the observed data.
 
 ## The Regression Equation
 
-The general form of the multiple linear regression equation is:
+The general form of the multiple [linear regression](../l/linear_regression.md) equation is:
 
 \[ Y = \beta_0 + \beta_1 X_1 + \beta_2 X_2 + \cdots + \beta_n X_n + \epsilon \]
 
@@ -27,7 +27,7 @@ Where:
 
 ## Fitting the Model
 
-To fit a multiple linear regression model, the ordinary least squares (OLS) method is used. OLS minimizes the sum of the squared residuals, providing the best-fitting line that predicts \( Y \) from \( X_1, X_2, \dots, X_n \).
+To fit a multiple [linear regression](../l/linear_regression.md) model, the ordinary least squares (OLS) method is used. OLS minimizes the sum of the squared residuals, providing the best-fitting line that predicts \( Y \) from \( X_1, X_2, \dots, X_n \).
 
 ## Model Evaluation
 
@@ -40,14 +40,14 @@ To fit a multiple linear regression model, the ordinary least squares (OLS) meth
 
 ### Predictive Modelling
 
-In algorithmic trading, multiple linear regression can be used to predict future stock prices, returns, or other financial metrics based on multiple predictors such as historical prices, trading volume, economic indicators, or other relevant factors. By specifying a model with multiple predictors, traders can capture more complex patterns and relationships within the data.
+In [algorithmic trading](../a/algorithmic_trading.md), multiple [linear regression](../l/linear_regression.md) can be used to predict future stock prices, returns, or other financial metrics based on multiple predictors such as historical prices, trading volume, [economic indicators](../e/economic_indicators.md), or other relevant factors. By specifying a model with multiple predictors, traders can capture more complex patterns and relationships within the data.
 
 ### Example Companies Using MLR in Trading
 
 1. **Two Sigma**: Employs advanced statistical models, including MLR, to predict market trends and inform trading decisions.
    - [Two Sigma Website](https://www.twosigma.com)
 
-2. **QuantConnect**: Provides a platform for algorithmic trading where users can develop trading strategies using multiple linear regression and other advanced statistical models.
+2. **QuantConnect**: Provides a platform for [algorithmic trading](../a/algorithmic_trading.md) where users can develop [trading strategies](../t/trading_strategies.md) using multiple [linear regression](../l/linear_regression.md) and other advanced statistical models.
    - [QuantConnect Website](https://www.quantconnect.com)
 
 ### Implementation Using Python and R
@@ -96,4 +96,4 @@ summary(model)
 
 ## Conclusion
 
-Multiple Linear Regression is a powerful and widely-used tool in both statistical analysis and algorithmic trading. It allows traders to model and predict financial metrics based on multiple relevant factors, making it an essential technique in the quant's toolkit. However, careful consideration must be given to the model's assumptions, potential limitations, and the risk of overfitting to ensure robust and reliable results.
+Multiple [Linear Regression](../l/linear_regression.md) is a powerful and widely-used tool in both statistical analysis and [algorithmic trading](../a/algorithmic_trading.md). It allows traders to model and predict financial metrics based on multiple relevant factors, making it an essential technique in the quant's toolkit. However, careful consideration must be given to the model's assumptions, potential limitations, and the risk of overfitting to ensure robust and reliable results.

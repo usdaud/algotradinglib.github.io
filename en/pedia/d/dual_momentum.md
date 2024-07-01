@@ -1,6 +1,6 @@
 # Dual Momentum
 
-Dual Momentum is an investment strategy popularized by Gary Antonacci, involving two types of momentum: absolute momentum and relative momentum. The strategy aims to identify superior investments by looking at the performance of assets over a specified time period and making buy/sell decisions based on comparative and absolute returns. This approach attempts to capture the benefits of both trend-following (absolute momentum) and value investing (relative momentum) strategies.
+Dual Momentum is an investment strategy popularized by Gary Antonacci, involving two types of momentum: absolute momentum and relative momentum. The strategy aims to identify superior investments by looking at the performance of assets over a specified time period and making buy/sell decisions based on comparative and absolute returns. This approach attempts to capture the benefits of both trend-following (absolute momentum) and [value investing](../v/value_investing.md) (relative momentum) strategies.
 
 ## The Basics of Momentum
 
@@ -51,8 +51,8 @@ Dual Momentum strategy involves a two-step process to identify optimal investmen
 
 Let's illustrate Dual Momentum with an example:
 
-1. **Asset Universe:** Consider a simple universe comprising global equities and bonds.
-2. **Relative Momentum Screening:** Rank the global equities and bonds based on their 12-month returns.
+1. **Asset Universe:** Consider a simple universe comprising [global equities](../g/global_equities.md) and bonds.
+2. **Relative Momentum Screening:** Rank the [global equities](../g/global_equities.md) and bonds based on their 12-month returns.
 3. **Absolute Momentum Verification:** From the top-ranked asset(s), check if their 12-month return is positive.
    - If positive, invest in those assets.
    - If negative, move to the next ranked asset or allocate funds differently (e.g., to cash or Treasury bills).
@@ -63,19 +63,19 @@ This combination creates a diversified portfolio that aims to capture high-retur
 
 ### Software and Platforms
 
-1. **AlgoTrader:** AlgoTrader is a comprehensive trading platform that can assist in implementing Dual Momentum strategies. It offers tools for backtesting, strategy development, and live trading. [Visit AlgoTrader](https://www.algotrader.com/)
+1. **AlgoTrader:** AlgoTrader is a comprehensive trading platform that can assist in implementing Dual Momentum strategies. It offers tools for [backtesting](../b/backtesting.md), strategy development, and live trading. [Visit AlgoTrader](https://www.algotrader.com/)
    
 2. **Python Libraries:** Utilizing Python libraries like pandas and numpy can help build custom Dual Momentum models. Tools like Jupyter Notebooks provide an interactive environment to visualize and tweak the strategy.
 
 3. **Online Brokers:** Many online brokerage platforms, such as Interactive Brokers, offer APIs for automated trading. Integrating these with Dual Momentum strategies can streamline the investment process. [Visit Interactive Brokers](https://www.interactivebrokers.com/)
 
-4. **QuantConnect:** QuantConnect is a cloud-based algorithmic trading platform allowing users to design, backtest, and deploy trading strategies, including Dual Momentum. [Visit QuantConnect](https://www.quantconnect.com/)
+4. **QuantConnect:** QuantConnect is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform allowing users to design, backtest, and deploy [trading strategies](../t/trading_strategies.md), including Dual Momentum. [Visit QuantConnect](https://www.quantconnect.com/)
 
 ### Strategy Execution
 
-1. **Backtesting:** Before deploying a Dual Momentum strategy, rigorous backtesting is crucial. This involves running the strategy through historical data to evaluate its performance. Ensure to include transaction costs and slippage in these analyses.
+1. **[Backtesting](../b/backtesting.md):** Before deploying a Dual Momentum strategy, rigorous [backtesting](../b/backtesting.md) is crucial. This involves running the strategy through historical data to evaluate its performance. Ensure to include transaction costs and slippage in these analyses.
 
-2. **Live Trading:** After successful backtesting, the move to live trading should be gradual. Start with a small fraction of the portfolio to monitor real-world performance.
+2. **Live Trading:** After successful [backtesting](../b/backtesting.md), the move to live trading should be gradual. Start with a small fraction of the portfolio to monitor real-world performance.
 
 3. **Periodic Review:** Continuously review the strategy's performance. Markets evolve, and strategies may need recalibration over time.
 
@@ -83,7 +83,7 @@ This combination creates a diversified portfolio that aims to capture high-retur
 
 ### Advantages
 
-1. **Risk Management:** By combining absolute and relative momentum, the strategy can help avoid prolonged downtrending assets, thus managing risk better than simpler strategies.
+1. **[Risk Management](../r/risk_management.md):** By combining absolute and relative momentum, the strategy can help avoid prolonged downtrending assets, thus managing risk better than simpler strategies.
    
 2. **Diversification:** The method encourages investing across a diverse set of assets, potentially smoothing out volatility.
 

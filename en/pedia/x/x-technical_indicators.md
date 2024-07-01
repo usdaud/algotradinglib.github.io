@@ -1,6 +1,6 @@
 # X-Technical Indicators
 
-Technical indicators are mathematical calculations based on the price, volume, or open interest of a security or contract. They are a fundamental aspect of technical analysis and are used by traders to predict future price movements. Here, we will delve into a variety of technical indicators, exploring both their theoretical underpinnings and practical applications.
+[Technical indicators](../t/technical_indicators.md) are mathematical calculations based on the price, volume, or open interest of a security or contract. They are a fundamental aspect of [technical analysis](../t/technical_analysis.md) and are used by traders to predict future price movements. Here, we will delve into a variety of [technical indicators](../t/technical_indicators.md), exploring both their theoretical underpinnings and practical applications.
 
 ## Moving Averages
 
@@ -29,7 +29,7 @@ The MACD is a trend-following momentum indicator that shows the relationship bet
 ## Oscillators
 
 ### Stochastic Oscillator
-The Stochastic Oscillator compares a particular closing price of a security to a range of its prices over a certain period. The oscillator ranges from 0 to 100 and is used to identify overbought and oversold conditions. It is calculated using the formula:
+The [Stochastic Oscillator](../s/stochastic_oscillator.md) compares a particular closing price of a security to a range of its prices over a certain period. The oscillator ranges from 0 to 100 and is used to identify overbought and oversold conditions. It is calculated using the formula:
 
 ```
 %K = (Current Close - Lowest Low) / (Highest High - Lowest Low) * 100
@@ -61,7 +61,7 @@ CMF = {Sum of [Volume * ((Close - Low) - (High - Close)) / (High - Low)]} / Sum 
 ## Volatility Indicators
 
 ### Bollinger Bands
-Bollinger Bands consist of a middle band being a simple moving average, and an upper and lower band at standard deviations above and below the SMA. The formula for Bollinger Bands is:
+[Bollinger Bands](../b/bollinger_bands.md) consist of a middle band being a simple moving average, and an upper and lower band at standard deviations above and below the SMA. The formula for [Bollinger Bands](../b/bollinger_bands.md) is:
 
 ```
 Upper Band = SMA + (Standard Deviation * N)
@@ -82,7 +82,7 @@ ATR is the moving average of TR over a specified period.
 ## Trend Indicators
 
 ### Parabolic SAR
-The Parabolic SAR is a trend-following indicator that helps identify potential reversal points in the price direction of a security. It is represented on the chart by a series of dots placed either above or below the price bars (depending on the trend direction).
+The [Parabolic SAR](../p/parabolic_sar.md) is a trend-following indicator that helps identify potential reversal points in the price direction of a security. It is represented on the chart by a series of dots placed either above or below the price bars (depending on the trend direction).
 
 The SAR is calculated as follows:
 - If in an uptrend, SAR_n+1 = SAR_n + AF * (EP - SAR_n)
@@ -93,7 +93,7 @@ Where:
 - `EP` is the highest high in an uptrend and the lowest low in a downtrend.
 
 ### Ichimoku Cloud
-The Ichimoku Cloud is a collection of technical indicators that shows support and resistance levels, momentum, and trend direction. It provides more data points than the standard candlestick charts by generating five different lines:
+The [Ichimoku Cloud](../i/ichimoku_cloud.md) is a collection of [technical indicators](../t/technical_indicators.md) that shows [support and resistance](../s/support_and_resistance.md) levels, momentum, and trend direction. It provides more data points than the standard candlestick charts by generating five different lines:
 
 - Tenkan-sen (Conversion Line): (Highest High + Lowest Low) / 2 over the last 9 periods.
 - Kijun-sen (Base Line): (Highest High + Lowest Low) / 2 over the last 26 periods.
@@ -104,20 +104,20 @@ The Ichimoku Cloud is a collection of technical indicators that shows support an
 ## Companies and Tools
 
 ### MetaTrader 5 (MT5)
-MetaTrader 5 is a multi-asset platform that allows trading Forex, stocks, and futures. It offers advanced technical analysis tools, automated trading systems (trading bots, Expert Advisors), and copy trading.
+MetaTrader 5 is a multi-asset platform that allows trading Forex, stocks, and futures. It offers [advanced technical analysis](../a/advanced_technical_analysis.md) tools, [automated trading systems](../a/automated_trading_systems.md) (trading bots, Expert Advisors), and copy trading.
 
 Visit MetaTrader [here](https://www.metatrader5.com/en).
 
 ### TradingView
-TradingView is a social network for traders and investors, offering live quotes, stock charts, and expert trading ideas. It also provides a wide range of technical analysis tools and indicators to aid in trading decisions.
+TradingView is a social network for traders and investors, offering live quotes, stock charts, and expert trading ideas. It also provides a wide range of [technical analysis](../t/technical_analysis.md) tools and indicators to aid in trading decisions.
 
 Visit TradingView [here](https://www.tradingview.com/).
 
 ### QuantConnect
-QuantConnect is an algorithmic trading platform that provides data, broker integrations, and an IDE to design and backtest trading strategies in multiple programming languages. It supports the development of indicators to be utilized in custom trading algorithms.
+QuantConnect is an [algorithmic trading](../a/algorithmic_trading.md) platform that provides data, broker integrations, and an IDE to design and backtest [trading strategies](../t/trading_strategies.md) in multiple programming languages. It supports the development of indicators to be utilized in custom [trading algorithms](../t/trading_algorithms.md).
 
 Visit QuantConnect [here](https://www.quantconnect.com/).
 
 ## Conclusion
 
-X-Technical Indicators offer a myriad of tools for traders to assess market conditions and make informed trading decisions. By employing these indicators, traders can gain insights into trends, momentum, volatility, and volume, thus enhancing their strategies and improving potential outcomes.
+X-[Technical Indicators](../t/technical_indicators.md) offer a myriad of tools for traders to assess market conditions and make informed trading decisions. By employing these indicators, traders can gain insights into trends, momentum, volatility, and volume, thus enhancing their strategies and improving potential outcomes.

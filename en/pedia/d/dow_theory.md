@@ -1,6 +1,6 @@
 # Dow Theory
 
-Dow Theory is a framework for understanding market movements and trends, named after Charles H. Dow, who co-founded Dow Jones & Company and created the Dow Jones Industrial Average (DJIA). This theory laid the foundation for much of modern technical analysis in financial markets. Dow Theory is rooted in the idea that the market reflects all available information and that historical price activity can help predict future market behavior.
+Dow Theory is a framework for understanding market movements and trends, named after Charles H. Dow, who co-founded Dow Jones & Company and created the Dow Jones Industrial Average (DJIA). This theory laid the foundation for much of modern [technical analysis](../t/technical_analysis.md) in financial markets. Dow Theory is rooted in the idea that the market reflects all available information and that historical price activity can help predict future market behavior.
 
 ## Key Principles of Dow Theory
 
@@ -37,21 +37,21 @@ By analyzing price movements and volume, investors can identify the primary, sec
 Using the principle that the averages must confirm each other, investors can look for alignment between different market indices. This helps to validate trends and avoids potential false signals.
 
 ### Volume Analysis
-Evaluating trading volumes provides additional insights into the strength of trends. Investors can use this information to confirm or question the validity of price movements, aiding in more accurate trend analysis.
+Evaluating trading volumes provides additional insights into the strength of trends. Investors can use this information to confirm or question the validity of price movements, aiding in more accurate [trend analysis](../t/trend_analysis.md).
 
 ### Phases and Timing
 Understanding the three phases of major trends helps investors to time their trades more effectively. Recognizing the accumulation phase early can lead to significant gains, while identifying the distribution phase can help in avoiding losses.
 
 ## Criticisms and Limitations
 
-While Dow Theory has been influential, it is not without its criticisms. Some argue that it is overly simplistic and fails to account for the complexities of modern financial markets. Additionally, the reliance on historical price data may not always predict future movements accurately, especially in times of unprecedented events or market anomalies.
+While Dow Theory has been influential, it is not without its criticisms. Some argue that it is overly simplistic and fails to account for the complexities of modern financial markets. Additionally, the reliance on historical price data may not always predict future movements accurately, especially in times of unprecedented events or [market anomalies](../m/market_anomalies.md).
 
 ## Modern Relevance
 
-Despite its age, Dow Theory remains relevant and is often integrated with modern technical analysis tools. Traders and investors use it alongside other indicators to enhance their understanding of market trends and improve their decision-making processes.
+Despite its age, Dow Theory remains relevant and is often integrated with modern [technical analysis](../t/technical_analysis.md) tools. Traders and investors use it alongside other indicators to enhance their understanding of market trends and improve their decision-making processes.
 
 ## Conclusion
 
-Dow Theory provides a foundational framework for understanding market trends and movements. Its principles of market behavior, trend identification, and volume analysis continue to be valuable tools for investors. While it has its limitations, the core concepts of Dow Theory remain integral to the field of technical analysis and are widely respected in financial markets.
+Dow Theory provides a foundational framework for understanding market trends and movements. Its principles of market behavior, trend identification, and [volume analysis](../v/volume_analysis.md) continue to be valuable tools for investors. While it has its limitations, the core concepts of Dow Theory remain integral to the field of [technical analysis](../t/technical_analysis.md) and are widely respected in financial markets.
 
 For further insights and applications of Dow Theory, you can explore resources like the [Dow Jones & Company website](https://www.dowjones.com/).

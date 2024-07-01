@@ -1,6 +1,6 @@
 # Forecasting Models in Algorithmic Trading
 
-Forecasting models are an essential aspect of algorithmic trading, relying on statistical, mathematical, and machine learning techniques to predict future price movements. These models aim to leverage historical data, market conditions, economic indicators, and various other inputs to generate actionable trading signals. In this document, we’ll delve into the intricate details of various types of forecasting models, their applications, strengths, limitations, and notable advancements in this domain.
+Forecasting models are an essential aspect of [algorithmic trading](../a/algorithmic_trading.md), relying on statistical, mathematical, and machine learning techniques to predict future price movements. These models aim to leverage historical data, market conditions, [economic indicators](../e/economic_indicators.md), and various other inputs to generate actionable [trading signals](../t/trading_signals.md). In this document, we’ll delve into the intricate details of various types of forecasting models, their applications, strengths, limitations, and notable advancements in this domain.
 
 ## 1. Time Series Analysis
 
@@ -19,14 +19,14 @@ ARIMA models are used for short-term forecasting due to their ability to handle 
 STL decomposes time series data into seasonal, trend, and residual components. This method is particularly useful in seasonal markets where different trends appear at different intervals.
 
 #### Applications:
-- **Market anomalies detection**: Identifying periods where market behavior deviates from normal trends.
+- **[Market anomalies](../m/market_anomalies.md) detection**: Identifying periods where market behavior deviates from normal trends.
 - **Highly seasonal stocks**: Companies operating in sectors like retail and agriculture.
 
 ## 2. Machine Learning Models
 
 ### 2.1 Support Vector Machines (SVM)
 
-SVM are supervised learning models that analyze data for classification and regression analysis. In the context of trading, SVM can classify market conditions or predict future price movements based on the historical price data.
+SVM are supervised learning models that analyze data for classification and [regression analysis](../r/regression_analysis.md). In the context of trading, SVM can classify market conditions or predict future price movements based on the historical price data.
 
 #### Applications:
 - **Stock trend classification**: Determining if the stock will go up, down, or remain stable.
@@ -37,8 +37,8 @@ SVM are supervised learning models that analyze data for classification and regr
 ANNs, modeled after the human brain, consist of interconnected nodes (neurons) that process input data and generate output. They are especially adept at recognizing patterns and making predictions based on historical data.
 
 #### Applications:
-- **Pattern recognition**: Identifying complex patterns in stock prices and trading volumes.
-- **Sentiment analysis**: Analyzing news articles, social media sentiments, and their impact on stock prices.
+- **[Pattern recognition](../p/pattern_recognition.md)**: Identifying complex patterns in stock prices and trading volumes.
+- **[Sentiment analysis](../s/sentiment_analysis.md)**: Analyzing news articles, social media sentiments, and their impact on stock prices.
 
 ## 3. Hybrid Models
 
@@ -58,55 +58,55 @@ Ensemble methods aggregate predictions from a variety of models to enhance stabi
 
 #### Applications:
 - **Robust prediction systems**: Combining forecasts from different models to mitigate overfitting.
-- **Risk management**: Providing more reliable risk assessments by averaging across multiple predictive models.
+- **[Risk management](../r/risk_management.md)**: Providing more reliable risk assessments by averaging across multiple predictive models.
 
 ## 4. Economic Indicators-Based Models
 
-Economic indicators provide macroeconomic data influencing market movements. Commonly used indicators include GDP growth rates, unemployment rates, and inflation data.
+[Economic indicators](../e/economic_indicators.md) provide macroeconomic data influencing market movements. Commonly used indicators include GDP growth rates, unemployment rates, and inflation data.
 
 ### 4.1 Leading Indicators
 
 These models predict future market conditions based on indicators that tend to change before the market does, such as stock market returns, manufacturing orders, and consumer sentiment.
 
 #### Applications:
-- **Market timing**: Identifying optimal entry and exit points by forecasting economic cycles.
-- **Sector rotation strategies**: Adjusting investment portfolios according to expected economic conditions.
+- **[Market timing](../m/market_timing.md)**: Identifying optimal entry and exit points by forecasting [economic cycles](../e/economic_cycles.md).
+- **[Sector rotation](../s/sector_rotation.md) strategies**: Adjusting investment portfolios according to expected economic conditions.
 
 ### 4.2 Lagging Indicators
 
-Lagging indicators confirm trends and patterns after market movements occur. Common examples include the unemployment rate, corporate profits, and labor cost per unit of output.
+[Lagging indicators](../l/lagging_indicators.md) confirm trends and patterns after market movements occur. Common examples include the unemployment rate, corporate profits, and labor cost per unit of output.
 
 #### Applications:
-- **Confirmation of trends**: Using lagging indicators to verify the direction and strength of established trends.
-- **Strategic adjustments**: Modifying trading strategies based on confirmed economic conditions.
+- **Confirmation of trends**: Using [lagging indicators](../l/lagging_indicators.md) to verify the direction and strength of established trends.
+- **Strategic adjustments**: Modifying [trading strategies](../t/trading_strategies.md) based on confirmed economic conditions.
 
 ## 5. Fundamental Analysis Models
 
-Fundamental analysis involves evaluating a company's financial health, market position, and overall economic environment to derive trading decisions.
+[Fundamental analysis](../f/fundamental_analysis.md) involves evaluating a company's financial health, market position, and overall economic environment to derive trading decisions.
 
 ### 5.1 Discounted Cash Flow (DCF) Models
 
 DCF models estimate the value of an investment based on its expected future cash flows, discounted back to their present value.
 
 #### Applications:
-- **Valuation of growth stocks**: Estimating intrinsic value based on future growth prospects.
+- **Valuation of [growth stocks](../g/growth_stocks.md)**: Estimating intrinsic value based on future growth prospects.
 - **Long-term investment decisions**: Guiding investment strategies based on fundamental value.
 
 ### 5.2 Quantitative Factor Models
 
-These models apply statistical techniques to fundamental data to identify factors driving stock performance. Commonly used factors include valuation ratios, earnings growth, and profitability metrics.
+These models apply statistical techniques to fundamental data to identify factors driving stock performance. Commonly used factors include [valuation ratios](../v/valuation_ratios.md), earnings growth, and profitability metrics.
 
 #### Applications:
-- **Factor investing**: Allocating capital based on specific factors like value, momentum, and quality.
+- **[Factor investing](../f/factor_investing.md)**: Allocating capital based on specific factors like value, momentum, and quality.
 - **Risk premia strategies**: Capturing excess returns by investing in factors with higher risk-adjusted returns.
 
 ## 6. Sentiment Analysis Models
 
-Sentiment analysis models incorporate qualitative data, such as news articles, tweets, and other social media content, into forecasting models. 
+[Sentiment analysis](../s/sentiment_analysis.md) models incorporate qualitative data, such as news articles, tweets, and other social media content, into forecasting models. 
 
 ### 6.1 Natural Language Processing (NLP)
 
-NLP techniques process and analyze large volumes of textual data for sentiment analysis. They can parse news articles, financial reports, and social media feeds to gauge market sentiment.
+NLP techniques process and analyze large volumes of textual data for [sentiment analysis](../s/sentiment_analysis.md). They can parse news articles, financial reports, and social media feeds to gauge market sentiment.
 
 #### Applications:
 - **Market sentiment prediction**: Forecasting market movements based on aggregated sentiment scores from various sources.
@@ -117,8 +117,8 @@ NLP techniques process and analyze large volumes of textual data for sentiment a
 This approach gauges public sentiment from social media platforms like Twitter, Reddit, and news sentiment from financial news sources to inform trading decisions.
 
 #### Applications:
-- **Short-term trading signals**: Using sudden changes in sentiment to trigger buy or sell orders.
-- **Volatility forecasting**: Predicting periods of market instability based on sentiment shifts.
+- **[Short-term trading](../s/short-term_trading.md) signals**: Using sudden changes in sentiment to trigger buy or sell orders.
+- **[Volatility forecasting](../v/volatility_forecasting.md)**: Predicting periods of market instability based on sentiment shifts.
 
 ## 7. Advanced Computational Models
 
@@ -127,19 +127,19 @@ This approach gauges public sentiment from social media platforms like Twitter, 
 Deep learning models, a subset of machine learning, involve multiple layers of neural networks to capture high-dimensional patterns in data. Techniques include Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs).
 
 #### Applications:
-- **Image recognition**: Analyzing chart patterns and technical indicators from stock market charts.
-- **Predictive modeling**: Making long-term predictions based on complex, high-dimensional market data.
+- **Image recognition**: Analyzing [chart patterns](../c/chart_patterns.md) and [technical indicators](../t/technical_indicators.md) from stock market charts.
+- **[Predictive modeling](../p/predictive_modeling.md)**: Making long-term predictions based on complex, high-dimensional market data.
 
 ### 7.2 Reinforcement Learning
 
-Reinforcement learning involves training algorithms to optimize their actions by rewarding desired behaviors and penalizing undesired ones. This approach can be applied to dynamic portfolio management and high-frequency trading strategies.
+Reinforcement learning involves training algorithms to optimize their actions by rewarding desired behaviors and penalizing undesired ones. This approach can be applied to dynamic [portfolio management](../p/portfolio_management.md) and high-frequency [trading strategies](../t/trading_strategies.md).
 
 #### Applications:
-- **Dynamic portfolio rebalancing**: Continuously adjusting asset allocations based on changing market conditions.
-- **Algorithmic strategy enhancement**: Improving algorithmic trading strategies through ongoing learning and adaptation.
+- **Dynamic [portfolio rebalancing](../p/portfolio_rebalancing.md)**: Continuously adjusting asset allocations based on changing market conditions.
+- **Algorithmic strategy enhancement**: Improving [algorithmic trading](../a/algorithmic_trading.md) strategies through ongoing learning and adaptation.
 
 ## Conclusion
 
-Forecasting models are fundamental to algorithmic trading, combining statistical rigor, machine learning, and economic theory to predict market movements. The effectiveness of these models relies heavily on the quality of input data, model choice, and the ability to adapt and integrate multiple forecasting techniques. As computational power and data availability continue to grow, the sophistication and accuracy of these models are expected to enhance, driving new innovations in the realm of algorithmic trading.
+Forecasting models are fundamental to [algorithmic trading](../a/algorithmic_trading.md), combining statistical rigor, machine learning, and economic theory to predict market movements. The effectiveness of these models relies heavily on the quality of input data, model choice, and the ability to adapt and integrate multiple forecasting techniques. As computational power and data availability continue to grow, the sophistication and accuracy of these models are expected to enhance, driving new innovations in the realm of [algorithmic trading](../a/algorithmic_trading.md).
 
 Companies such as **QuantConnect** (https://www.quantconnect.com), **Alpaca** (https://alpaca.markets), and **Numerai** (https://numer.ai) are at the forefront of developing and providing these sophisticated forecasting tools and platforms for both individual and institutional traders.

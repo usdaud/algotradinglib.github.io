@@ -1,15 +1,15 @@
-Quantitative Momentum Strategies
+[Quantitative Momentum](../q/quantitative_momentum.md) Strategies
 
-Momentum investing is a financial strategy that aims to capitalize on the continuance of existing trends in the market. This strategy is based on the premise that stocks that have performed well in the past will continue to do well in the future, and those that have performed poorly will continue to decline. Quantitative momentum strategies, in particular, leverage mathematical models and statistical techniques to identify and invest in securities that exhibit strong momentum.
+Momentum investing is a financial strategy that aims to capitalize on the continuance of existing trends in the market. This strategy is based on the premise that stocks that have performed well in the past will continue to do well in the future, and those that have performed poorly will continue to decline. [Quantitative momentum](../q/quantitative_momentum.md) strategies, in particular, leverage mathematical models and statistical techniques to identify and invest in securities that exhibit strong momentum.
 
 ### Definition and Basics
 
-Momentum in finance typically refers to the rate of acceleration of a security's price or the relative strength of a security's price. Quantitative momentum strategies specifically use historical data to identify and respond to momentum signals. Generally, these strategies involve the following steps:
+Momentum in finance typically refers to the rate of acceleration of a security's price or the relative strength of a security's price. [Quantitative momentum](../q/quantitative_momentum.md) strategies specifically use historical data to identify and respond to momentum signals. Generally, these strategies involve the following steps:
 
 1. **Data Collection:** Gathering historical price data for a broad set of securities.
 2. **Signal Generation:** Computing momentum signals, such as past returns over different time horizons.
-3. **Stock Selection:** Based on computed signals, selecting stocks that show strong positive momentum.
-4. **Portfolio Construction:** Allocating capital to the selected stocks while considering factors like risk management and transaction costs.
+3. **Stock Selection:** Based on computed signals, selecting stocks that show strong [positive momentum](../p/positive_momentum.md).
+4. **Portfolio Construction:** Allocating capital to the selected stocks while considering factors like [risk management](../r/risk_management.md) and transaction costs.
 5. **Trading and Rebalancing:** Implementing buy/sell decisions and periodically rebalancing the portfolio to maintain the desired momentum exposure.
 
 ### Types of Momentum
@@ -26,7 +26,7 @@ Momentum strategies can be broadly categorized into two types:
 2. **Holding Period:** The duration for which the assets are held once selected. Many strategies rebalance monthly or quarterly.
 3. **Signal Strength:** The magnitude of past returns used to rank the securities.
 4. **Volatility Adjustment:** Modifying momentum signals by incorporating volatility measures to reduce the risk associated with high momentum stocks.
-5. **Risk Management:** Techniques such as diversification, volatility targeting, and stop-loss orders used to manage potential downsides.
+5. **[Risk Management](../r/risk_management.md):** Techniques such as diversification, volatility targeting, and [stop-loss orders](../s/stop-loss_orders.md) used to manage potential downsides.
 
 ### Empirical Evidence
 
@@ -40,12 +40,12 @@ Several investment funds and ETFs incorporate momentum strategies to construct t
 
 - **AQR Capital Management:** AQR offers funds such as the AQR Large Cap Momentum Style Fund, focusing on large-cap stocks exhibiting strong momentum. More details can be found at [AQR Capital Management](https://www.aqr.com/).
 
-- **iShares Edge MSCI USA Momentum Factor ETF (MTUM):** This ETF aims to track an index that targets U.S. large- and mid-capitalization stocks with high momentum characteristics. More information can be found on the [iShares website](https://www.ishares.com/us/products/239726/ishares-msci-usa-momentum-factor-etf).
+- **iShares Edge MSCI USA [Momentum Factor](../m/momentum_factor.md) ETF (MTUM):** This ETF aims to track an index that targets U.S. large- and mid-capitalization stocks with high momentum characteristics. More information can be found on the [iShares website](https://www.ishares.com/us/products/239726/ishares-msci-usa-momentum-factor-etf).
 
 #### Quantitative Models
 
-Numerous quantitative models have been developed to optimize momentum strategies:
-- **The Dual Momentum Model:** Developed by Gary Antonacci, this model combines absolute and relative momentum, enhancing returns while reducing risk. More details can be found in his book "Dual Momentum Investing" and on his website [Optimal Momentum](https://optimalmomentum.com/).
+Numerous [quantitative models](../q/quantitative_models.md) have been developed to optimize momentum strategies:
+- **The [Dual Momentum](../d/dual_momentum.md) Model:** Developed by Gary Antonacci, this model combines absolute and relative momentum, enhancing returns while reducing risk. More details can be found in his book "[Dual Momentum](../d/dual_momentum.md) Investing" and on his website [Optimal Momentum](https://optimalmomentum.com/).
 
 ### Challenges and Considerations
 
@@ -55,4 +55,4 @@ Numerous quantitative models have been developed to optimize momentum strategies
 
 ### Conclusion
 
-Quantitative momentum strategies rely on systematic approaches to harness the persistence of trends in financial markets. By integrating mathematical models, empirical evidence, and risk management techniques, these strategies offer a compelling framework for investors seeking to leverage momentum. However, like all investment strategies, they require careful consideration of transaction costs, market impacts, and changing market conditions.
+[Quantitative momentum](../q/quantitative_momentum.md) strategies rely on systematic approaches to harness the persistence of trends in financial markets. By integrating mathematical models, empirical evidence, and [risk management](../r/risk_management.md) techniques, these strategies offer a compelling framework for investors seeking to leverage momentum. However, like all investment strategies, they require careful consideration of transaction costs, market impacts, and changing market conditions.

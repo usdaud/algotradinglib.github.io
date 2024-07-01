@@ -83,7 +83,7 @@ Valuation multiples come with various limitations that must be considered in the
 The choice of multiple and the benchmark for comparison (industry average, historical average, etc.) introduce subjectivity into the valuation process.
 
 ### Lack of Universality
-Different industries have different financial structures and performance metrics. Comparing companies across diverse sectors using the same multiple can often be misleading.
+Different industries have different financial structures and [performance metrics](../p/performance_metrics.md). Comparing companies across diverse sectors using the same multiple can often be misleading.
 
 ### Accounting Differences
 Differences in accounting standards and practices can affect the calculation of key financial metrics, leading to inconsistencies in valuation multiples.
@@ -113,13 +113,13 @@ A retail company shows a P/S ratio of 0.5, a P/B ratio of 1.2, and a dividend yi
 Investors use valuation multiples to make informed decisions about buying, holding, or selling stocks. These metrics help in identifying undervalued stocks that may provide higher returns.
 
 ### Equity Research
-Financial analysts employ these multiples to provide stock recommendations, perform sector analyses, and prepare research reports. For instance, companies like [Morningstar](https://www.morningstar.com) and [Moody’s Investors Service](https://www.moodys.com) extensively use valuation multiples in their equity research and ratings.
+Financial analysts employ these multiples to provide stock recommendations, perform sector analyses, and prepare research reports. For instance, companies like [Morningstar](https://www.morningstar.com) and [Moody’s Investors Service](https://www.moodys.com) extensively use valuation multiples in their [equity research](../e/equity_research.md) and ratings.
 
 ### Mergers and Acquisitions (M&A)
 During M&A activities, valuation multiples are used to assess the fair value of target companies. They aid in determining offering prices and negotiating transactions. Investment banks like [Goldman Sachs](https://www.goldmansachs.com) and [J.P. Morgan](https://www.jpmorgan.com) utilize these multiples in their financial advisory services.
 
 ### Corporate Finance
-Corporate finance professionals apply valuation multiples for internal assessments, budgeting, and strategic planning. They help in capital allocation decisions, performance evaluation, and financial reporting.
+Corporate finance professionals apply valuation multiples for internal assessments, budgeting, and strategic planning. They help in [capital allocation](../c/capital_allocation.md) decisions, performance evaluation, and financial reporting.
 
 ## Conclusion
-Valuation multiples are indispensable tools in financial analysis, offering a quick and comparably reliable means to assess company valuations. While they simplify the valuation process, it is crucial to understand their limitations and complement them with comprehensive fundamental analysis. The proper application of valuation multiples can significantly enhance investment decisions, equity research, and corporate finance strategies.
+Valuation multiples are indispensable tools in financial analysis, offering a quick and comparably reliable means to assess company valuations. While they simplify the valuation process, it is crucial to understand their limitations and complement them with comprehensive [fundamental analysis](../f/fundamental_analysis.md). The proper application of valuation multiples can significantly enhance investment decisions, [equity research](../e/equity_research.md), and corporate finance strategies.

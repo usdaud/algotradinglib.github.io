@@ -7,7 +7,7 @@ The Leverage Adjusted Duration Gap (LADG) is a financial metric used to measure 
 To fully understand the Leverage Adjusted Duration Gap, it is important to first comprehend what duration is in the context of bonds and fixed income portfolios. Duration is a measure of the sensitivity of the price of a bond or a bond portfolio to changes in interest rates. There are several types of duration, but the most common ones are Macaulay Duration and Modified Duration.
 
 - **Macaulay Duration** is the weighted average time until a bond’s cash flows are received, measured in years. 
-- **Modified Duration** is a measure of the sensitivity of a bond’s price to yield changes, calculated by dividing the Macaulay Duration by one plus the bond’s yield to maturity.
+- **Modified Duration** is a measure of the sensitivity of a bond’s price to yield changes, calculated by dividing the Macaulay Duration by one plus the bond’s [yield to maturity](../y/yield_to_maturity.md).
 
 For a bond portfolio, the portfolio's duration can be computed as the weighted average of the individual bonds' durations.
 
@@ -22,7 +22,7 @@ When leverage is employed, an investor borrows funds at a certain interest rate 
 Interest rate risk pertains to the danger of interest rates moving unfavorably, reducing the value of investments. The level of risk associated with changes in interest rates is especially critical for portfolios that employ leverage. For example:
 
 - **Bond Portfolios**: When interest rates rise, the prices of bonds typically fall, and vice versa. Leveraged bond portfolios are more sensitive to such changes.
-- **Derivatives and Borrowed Funds**: These instruments, when used in a portfolio, can increase sensitivity to interest rate movements.
+- **[Derivatives](../d/derivatives.md) and Borrowed Funds**: These instruments, when used in a portfolio, can increase sensitivity to interest rate movements.
 
 Given this added layer of complexity, a more sophisticated measure than simple duration is needed. This is where Leverage Adjusted Duration Gap comes into play.
 
@@ -60,10 +60,10 @@ A negative LADG indicates that the fund is more sensitive to interest rate incre
 
 ### Portfolio Management
 
-In portfolio management, particularly for those that use leverage, understanding the LADG provides insights into how sensitive the portfolio’s net asset value is to interest rate movements. 
+In [portfolio management](../p/portfolio_management.md), particularly for those that use leverage, understanding the LADG provides insights into how sensitive the portfolio’s net asset value is to interest rate movements. 
 
 - **Risk Assessment**: By understanding the LADG, managers can assess how much interest rate risk the portfolio is exposed to.
-- **Hedging Strategies**: Knowing the LADG can help in devising appropriate hedging strategies to manage interest rate risk.
+- **[Hedging Strategies](../h/hedging_strategies.md)**: Knowing the LADG can help in devising appropriate [hedging strategies](../h/hedging_strategies.md) to manage interest rate risk.
 - **Performance Evaluation**: Helps in evaluating the performance of fund managers in terms of their management of interest rate risk.
 
 ### Corporate Finance
@@ -71,7 +71,7 @@ In portfolio management, particularly for those that use leverage, understanding
 For financial institutions like banks and insurance companies, managing the interest rate risk of their asset and liability portfolios is crucial. These institutions often use leverage to enhance returns.
 
 - **Balance Sheet Management**: LADG assists in ensuring that the duration of assets and liabilities is matched appropriately.
-- **Regulatory Compliance**: Helps in satisfying regulatory requirements concerning interest rate risk management. For instance, regulators often scrutinize the interest rate risk exposure of leveraged institutions.
+- **Regulatory Compliance**: Helps in satisfying regulatory requirements concerning [interest rate risk management](../i/interest_rate_risk_management.md). For instance, regulators often scrutinize the interest rate risk exposure of leveraged institutions.
 
 ## Practical Challenges
 
@@ -85,7 +85,7 @@ The LADG is sensitive to changes in market conditions. Interest rate movements c
 
 ### Leveraged Instruments
 
-When leveraging is done using complex financial instruments like derivatives, accurately measuring the impact on duration becomes more challenging. Derivatives can have non-linear and path-dependent properties that complicate duration calculations.
+When leveraging is done using complex financial instruments like [derivatives](../d/derivatives.md), accurately measuring the impact on duration becomes more challenging. [Derivatives](../d/derivatives.md) can have non-linear and path-dependent properties that complicate duration calculations.
 
 ## Case Study: Financial Institution
 
@@ -103,7 +103,7 @@ In this scenario, the negative LADG of -14 years suggests a high sensitivity to 
 
 - **Reducing Leverage**: This can be done by increasing equity or reducing the borrowed funds.
 - **Duration Matching**: Adjusting the duration of assets and liabilities so that they are more closely aligned.
-- **Hedging**: Using financial derivatives, such as interest rate swaps, to hedge against interest rate movements.
+- **Hedging**: Using financial [derivatives](../d/derivatives.md), such as [interest rate swaps](../i/interest_rate_swaps.md), to hedge against interest rate movements.
 
 ## Mitigation Strategies
 
@@ -111,7 +111,7 @@ Managing the interest rate risk as indicated by LADG involves several strategies
 
 ### Interest Rate Swaps
 
-Interest rate swaps are derivatives where two parties exchange streams of interest payments. For instance, a fixed-for-floating rate swap can be used to adjust the duration of liabilities.
+[Interest rate swaps](../i/interest_rate_swaps.md) are [derivatives](../d/derivatives.md) where two parties exchange streams of interest payments. For instance, a fixed-for-floating rate swap can be used to adjust the duration of liabilities.
 
 ### Reducing Leverage
 
@@ -125,4 +125,4 @@ Investing in assets with different durations and correlated risks can buffer the
 
 The Leverage Adjusted Duration Gap is a vital metric for assessing the interest rate risk in leveraged portfolios. Understanding and managing LADG allows investors and financial institutions to make informed decisions and hedge against potential losses due to interest rate fluctuations. As markets continuously evolve, maintaining a keen understanding of the dynamics of leverage and duration remains paramount for sustained financial health and performance.
 
-For further information on managing leveraged portfolios and leveraging financial instruments, consider visiting the websites and resources provided by leading financial institutions such as [Goldman Sachs](https://www.goldmansachs.com), [J.P. Morgan](https://www.jpmorgan.com), or specialized risk management consultancies.
+For further information on managing leveraged portfolios and leveraging financial instruments, consider visiting the websites and resources provided by leading financial institutions such as [Goldman Sachs](https://www.goldmansachs.com), [J.P. Morgan](https://www.jpmorgan.com), or specialized [risk management](../r/risk_management.md) consultancies.

@@ -9,13 +9,13 @@ Theta hedging is a strategy used primarily in options trading to manage the risk
 Theta (Θ) is known as the time decay of options. It measures the sensitivity of the option's price to the passage of time. For example, if an option has a Theta of -0.05, it means that the option's price will decrease by $0.05 each day, holding other factors constant.
 
 Key Aspects of Theta:
-- **Negative Theta**: Both call and put options generally have negative theta, which means they lose value as time goes by.
+- **Negative Theta**: Both call and [put options](../p/put_options.md) generally have negative theta, which means they lose value as time goes by.
 - **At-the-Money Options**: Theta is highest for at-the-money options and decreases as you move deeper in or out of the money.
 - **Time to Expiration**: Theta increases as the option approaches expiration because the impact of time decay is more significant as expiry nears.
 
 ## Purpose of Theta Hedging
 
-The primary purpose of theta hedging is to mitigate the losses that occur due to time decay. Traders who hold long options positions, such as long calls or long puts, are particularly exposed to theta decay. As time goes by, the value of these options declines, even if the underlying asset does not move significantly. Theta hedging strategies aim to counteract this loss in value.
+The primary purpose of theta hedging is to mitigate the losses that occur due to time decay. Traders who hold long options positions, such as long calls or long puts, are particularly exposed to theta decay. As time goes by, the value of these options declines, even if the underlying asset does not move significantly. Theta [hedging strategies](../h/hedging_strategies.md) aim to counteract this loss in value.
 
 ## Strategies for Theta Hedging
 
@@ -24,7 +24,7 @@ The primary purpose of theta hedging is to mitigate the losses that occur due to
 Calendar spreads, also known as time spreads, involve buying and selling options with different expiration dates but the same strike price. This strategy profits from the difference in time decay between the short-term and long-term options.
 
 For example:
-- **Long Calendar Spread**: Buy a long-term call option and sell a short-term call option with the same strike price.
+- **[Long Calendar Spread](../l/long_calendar_spread.md)**: Buy a long-term call option and sell a short-term call option with the same strike price.
 - This spread will benefit from time decay differences; as the shorter-term option decays faster, the spread value widens.
 
 ### 2. **Diagonal Spreads**
@@ -65,7 +65,7 @@ Companies and financial institutions use theta hedging techniques to minimize th
 ### Case Study: Chicago Trading Company (CTC)
 [Chicago Trading Company](https://www.chicagotrading.com/)
 
-Chicago Trading Company, a proprietary trading firm, employs various risk management strategies, including theta hedging. Their traders actively manage the time decay risk in their portfolios by implementing sophisticated hedging strategies such as calendar spreads and iron condors. This allows them to provide consistent liquidity in the markets while minimizing exposure to unfavorable time decay.
+Chicago Trading Company, a [proprietary trading](../p/proprietary_trading.md) firm, employs various [risk management](../r/risk_management.md) strategies, including theta hedging. Their traders actively manage the time decay risk in their portfolios by implementing sophisticated [hedging strategies](../h/hedging_strategies.md) such as calendar spreads and iron condors. This allows them to provide consistent liquidity in the markets while minimizing exposure to unfavorable time decay.
 
 ## Key Takeaways
 
@@ -76,5 +76,5 @@ Chicago Trading Company, a proprietary trading firm, employs various risk manage
 
 ## Conclusion
 
-Theta hedging is a vital component of options trading, offering strategies to protect against the inevitable decay in options value as expiration approaches. Understanding and effectively applying these techniques can significantly enhance a trader’s ability to manage risk and optimize the performance of their options portfolio. Through the use of various spreads and sophisticated risk management tactics, traders can mitigate the adverse effects of time decay and achieve more stable returns.
+Theta hedging is a vital component of options trading, offering strategies to protect against the inevitable decay in options value as expiration approaches. Understanding and effectively applying these techniques can significantly enhance a trader’s ability to manage risk and optimize the performance of their options portfolio. Through the use of various spreads and sophisticated [risk management](../r/risk_management.md) tactics, traders can mitigate the adverse effects of time decay and achieve more stable returns.
 

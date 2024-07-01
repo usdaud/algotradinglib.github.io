@@ -74,11 +74,11 @@ Mid-cap stocks, short for "mid-capitalization stocks", represent a segment of pu
 
 #### Strategies for Investing in Mid-Cap Stocks
 
-1. **Fundamental Analysis:**
+1. **[Fundamental Analysis](../f/fundamental_analysis.md):**
     Conducting a thorough analysis of a company's financial health, competitive position, management team, and growth prospects is critical. Investors should examine key financial metrics such as earnings growth, return on equity (ROE), and debt ratios.
 
-2. **Sector Analysis:**
-    Some sectors might offer more promising growth prospects for mid-cap stocks than others. It's essential to understand the sector dynamics and identify industries with strong growth potential and the ability to weather economic cycles.
+2. **[Sector Analysis](../s/sector_analysis.md):**
+    Some sectors might offer more promising growth prospects for mid-cap stocks than others. It's essential to understand the sector dynamics and identify industries with strong growth potential and the ability to weather [economic cycles](../e/economic_cycles.md).
 
 3. **Diversification:**
     To mitigate risk, investors should consider diversifying their mid-cap stock holdings across various sectors and industries. This can help spread exposure to specific risks and capitalize on different growth opportunities.

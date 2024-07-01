@@ -60,4 +60,4 @@ NDFs are generally subject to the rules and oversight of international financial
 
 ## Conclusion
 
-Non-Deliverable Forwards (NDFs) offer a crucial financial tool for hedging, speculation, and arbitrage in the realm of restricted or heavily regulated currencies. They allow market participants to navigate the complexities of emerging markets and manage exchange rate risk effectively. By eliminating the necessity for physical delivery, NDFs provide greater flexibility and access to international financial markets including corporations, banks, and hedge funds.
+Non-Deliverable Forwards (NDFs) offer a crucial financial tool for hedging, speculation, and [arbitrage](../a/arbitrage.md) in the realm of restricted or heavily regulated currencies. They allow market participants to navigate the complexities of emerging markets and manage exchange rate risk effectively. By eliminating the necessity for physical delivery, NDFs provide greater flexibility and access to international financial markets including corporations, banks, and hedge funds.

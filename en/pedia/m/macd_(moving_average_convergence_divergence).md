@@ -1,6 +1,6 @@
 # MACD (Moving Average Convergence Divergence)
 
-Moving Average Convergence Divergence (MACD) is a popular momentum and trend-following indicator used in technical analysis of stock prices. It was developed by Gerald Appel in the late 1970s and has since become one of the most widely used indicators in trading.
+Moving Average Convergence Divergence (MACD) is a popular momentum and trend-following indicator used in [technical analysis](../t/technical_analysis.md) of stock prices. It was developed by Gerald Appel in the late 1970s and has since become one of the most widely used indicators in trading.
 
 ## Understanding MACD
 
@@ -36,9 +36,9 @@ Traders use the MACD indicator for several purposes, including identifying trend
 
 ### Divergence
 
-1. **Bullish Divergence**: Occurs when the stock price forms a lower low, but the MACD forms a higher low. This divergence can signal a potential upside reversal, indicating that the downward momentum is weakening.
+1. **[Bullish Divergence](../b/bullish_divergence.md)**: Occurs when the stock price forms a lower low, but the MACD forms a higher low. This divergence can signal a potential upside reversal, indicating that the downward momentum is weakening.
    
-2. **Bearish Divergence**: Occurs when the stock price forms a higher high, but the MACD forms a lower high. This divergence can signal a potential downside reversal, indicating that the upward momentum is weakening.
+2. **[Bearish Divergence](../b/bearish_divergence.md)**: Occurs when the stock price forms a higher high, but the MACD forms a lower high. This divergence can signal a potential downside reversal, indicating that the upward momentum is weakening.
 
 ### MACD Histogram Analysis
 
@@ -56,7 +56,7 @@ A simple trend-following strategy involves buying when the MACD line crosses abo
 
 ### MACD Divergence Strategy
 
-Incorporating divergence into trading strategies can help identify potential reversals. Traders might look for bullish divergence to buy into a weakening downtrend or bearish divergence to sell into a weakening uptrend.
+Incorporating divergence into [trading strategies](../t/trading_strategies.md) can help identify potential reversals. Traders might look for [bullish divergence](../b/bullish_divergence.md) to buy into a weakening downtrend or [bearish divergence](../b/bearish_divergence.md) to sell into a weakening uptrend.
 
 ## Advantages and Limitations
 
@@ -74,22 +74,22 @@ Incorporating divergence into trading strategies can help identify potential rev
 
 ## Using MACD in Conjunction with Other Indicators
 
-To mitigate some of its limitations, many traders use the MACD in conjunction with other technical indicators and analysis techniques to confirm signals and improve trading accuracy. Common complementary tools include:
+To mitigate some of its limitations, many traders use the MACD in conjunction with other [technical indicators](../t/technical_indicators.md) and analysis techniques to confirm signals and improve trading accuracy. Common complementary tools include:
 
 1. **Relative Strength Index (RSI)**: The RSI is a momentum oscillator that measures overbought and oversold conditions. Combining MACD with RSI can help filter out false signals and enhance trading decisions.
 
-2. **Moving Averages**: Using longer-term moving averages alongside MACD can help confirm trend direction and add a layer of trend analysis.
+2. **Moving Averages**: Using longer-term moving averages alongside MACD can help confirm trend direction and add a layer of [trend analysis](../t/trend_analysis.md).
 
-3. **Support and Resistance Levels**: Identifying key support and resistance levels can provide additional context for MACD signals, improving the reliability of buy and sell decisions.
+3. **[Support and Resistance](../s/support_and_resistance.md) Levels**: Identifying [key support and resistance levels](../k/key_support_and_resistance_levels.md) can provide additional context for MACD signals, improving the reliability of buy and sell decisions.
 
 ## Real-World Application
 
-Many traders and financial institutions employ the MACD in their trading strategies. Some notable examples include:
+Many traders and financial institutions employ the MACD in their [trading strategies](../t/trading_strategies.md). Some notable examples include:
 
-- **[Renaissance Technologies](https://www.rentec.com/)**: A well-known hedge fund that uses quantitative models for trading, likely incorporating MACD among other technical indicators.
+- **[Renaissance Technologies](https://www.rentec.com/)**: A well-known hedge fund that uses [quantitative models](../q/quantitative_models.md) for trading, likely incorporating MACD among other [technical indicators](../t/technical_indicators.md).
 
-- **[Two Sigma](https://www.twosigma.com/)**: Another prominent quantitative hedge fund that utilizes algorithmic trading strategies, possibly including MACD as part of their analytical toolkit.
+- **[Two Sigma](https://www.twosigma.com/)**: Another prominent quantitative hedge fund that utilizes [algorithmic trading](../a/algorithmic_trading.md) strategies, possibly including MACD as part of their analytical toolkit.
 
 ## Conclusion
 
-The Moving Average Convergence Divergence (MACD) is a versatile and widely used technical indicator that helps traders identify trend direction, momentum, and potential buy and sell signals. While it has its limitations, particularly in sideways markets, when used in conjunction with other tools and techniques, the MACD can be a valuable addition to a trader's analytical arsenal. Understanding its components and learning how to interpret its signals can enhance trading strategies and improve decision-making processes in the financial markets.
+The Moving Average Convergence Divergence (MACD) is a versatile and widely used technical indicator that helps traders identify trend direction, momentum, and potential buy and sell signals. While it has its limitations, particularly in sideways markets, when used in conjunction with other tools and techniques, the MACD can be a valuable addition to a trader's analytical arsenal. Understanding its components and learning how to interpret its signals can enhance [trading strategies](../t/trading_strategies.md) and improve decision-making processes in the financial markets.

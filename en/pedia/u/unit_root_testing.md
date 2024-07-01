@@ -1,14 +1,14 @@
 # Unit Root Testing
 
-Unit root testing plays a crucial role in time series analysis, especially in the evaluation of financial data for algo-trading strategies. The presence of a unit root in a time series can affect the reliability of statistical inferences, necessitating thorough testing to ascertain the properties of the data. This document delves into the conceptual understanding, methodologies, and applications of unit root testing in the context of algorithmic trading.
+Unit root testing plays a crucial role in [time series analysis](../t/time_series_analysis.md), especially in the evaluation of financial data for algo-[trading strategies](../t/trading_strategies.md). The presence of a unit root in a time series can affect the reliability of statistical inferences, necessitating thorough testing to ascertain the properties of the data. This document delves into the conceptual understanding, methodologies, and applications of unit root testing in the context of [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Conceptual Background
 
 ### Time Series and Stationarity
-A time series is a series of data points indexed in time order, often used to track variables over time. Stationarity is a key property of time series data that must be considered in statistical modelling. A time series is said to be stationary if its statistical properties such as mean, variance, and autocorrelation are constant over time. Stationary time series are easier to model and predict, making them a preferred choice in econometrics and finance.
+A time series is a series of data points indexed in time order, often used to track variables over time. Stationarity is a key property of time series data that must be considered in statistical modelling. A time series is said to be stationary if its statistical properties such as mean, variance, and [autocorrelation](../a/autocorrelation.md) are constant over time. Stationary time series are easier to model and predict, making them a preferred choice in econometrics and finance.
 
 ### Unit Root
-A unit root is a feature of some stochastic processes that indicates a non-stationary time series. Essentially, if a time series has a unit root, it shows a systematic pattern that is not constant over time, meaning the series can exhibit persistent, random walks. This trait poses challenges in modelling as standard statistical techniques assume stationarity.
+A unit root is a feature of some [stochastic processes](../s/stochastic_processes.md) that indicates a non-stationary time series. Essentially, if a time series has a unit root, it shows a systematic pattern that is not constant over time, meaning the series can exhibit persistent, random walks. This trait poses challenges in modelling as standard statistical techniques assume stationarity.
 
 ## Definitions and Mathematical Representation
 
@@ -67,12 +67,12 @@ Where \( DU_t \) is an indicator function for the break.
 ## Algorithmic Trading and Unit Root Testing
 
 ### Importance in Algo-Trading
-Algorithmic trading relies heavily on accurate data modelling and forecasts. Non-stationary time series can lead to misleading statistical inferences and poor trading decisions. Thus, determining if a time series has a unit root is pivotal for developing reliable pricing models.
+[Algorithmic trading](../a/algorithmic_trading.md) relies heavily on accurate data modelling and forecasts. Non-stationary time series can lead to misleading statistical inferences and poor trading decisions. Thus, determining if a time series has a unit root is pivotal for developing reliable pricing models.
 
 ### Model Selection
 1. **Mean-Reversion Strategies**: These strategies assume that prices will revert to their mean over time. A unit root test can help identify whether the prices follow a random walk or exhibit mean-reverting properties.
-2. **Forecasting and Risk Management**: Accurate forecasts require stationarity in time series. Identifying unit roots enables transformations (e.g., differencing) to achieve stationarity, improving model performance.
-3. **Cointegration Analysis**: In pairs trading, cointegration analysis involves identifying pairs of assets whose prices move together in the long term. Unit root tests are used to confirm that the price series of each asset is individually non-stationary but a linear combination is stationary.
+2. **Forecasting and [Risk Management](../r/risk_management.md)**: Accurate forecasts require stationarity in time series. Identifying unit roots enables transformations (e.g., differencing) to achieve stationarity, improving model performance.
+3. **Cointegration Analysis**: In [pairs trading](../p/pairs_trading.md), cointegration analysis involves identifying pairs of assets whose prices move together in the long term. Unit root tests are used to confirm that the price series of each asset is individually non-stationary but a linear combination is stationary.
 
 ### Software and Tools
 
@@ -90,12 +90,12 @@ Several software packages offer unit root testing functionalities, integrating t
 - Econometrics Toolbox: Includes functions for ADF, PP, and other unit root tests.
 
 #### EViews
-A sophisticated econometric software providing comprehensive support for time series analysis, including unit root tests.
+A sophisticated econometric software providing comprehensive support for [time series analysis](../t/time_series_analysis.md), including unit root tests.
 
 ### Application Examples in Algo-Trading
 1. **ETF Analysis**: Using unit root tests to identify non-stationary ETFs and applying mean-reversion strategies.
 2. **Forex Trading**: Determine the stationarity of currency pairs to model exchange rate dynamics accurately.
-3. **Stock Index Futures**: Identifying unit roots in stock index futures for risk management and portfolio optimization.
+3. **Stock [Index Futures](../i/index_futures.md)**: Identifying unit roots in stock [index futures](../i/index_futures.md) for [risk management](../r/risk_management.md) and [portfolio optimization](../p/portfolio_optimization.md).
 
 ## Challenges and Considerations
 
@@ -113,4 +113,4 @@ Implementations across software can yield different results due to variations in
 
 ## Conclusion
 
-Unit root testing is indispensable for robust time series analysis in algorithmic trading. Understanding and correctly applying unit root tests ensures that traders can make well-founded decisions based on reliable models. Proper identification and transformation of non-stationary data into stationary formats enable the development of effective trading strategies, ultimately leading to better risk management and higher returns.
+Unit root testing is indispensable for robust [time series analysis](../t/time_series_analysis.md) in [algorithmic trading](../a/algorithmic_trading.md). Understanding and correctly applying unit root tests ensures that traders can make well-founded decisions based on reliable models. Proper identification and transformation of non-stationary data into stationary formats enable the development of effective [trading strategies](../t/trading_strategies.md), ultimately leading to better [risk management](../r/risk_management.md) and higher returns.

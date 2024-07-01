@@ -1,6 +1,6 @@
 # Joint Return Analysis
 
-Joint Return Analysis is a sophisticated quantitative technique used extensively in algorithmic trading to assess the relationship between the returns of different assets. By understanding how assets move in relation to one another, traders can make more informed decisions about portfolio construction, risk management, and strategy optimization. This technique is foundational in the fields of modern portfolio theory and risk parity. Below, we delve into the various aspects, methodologies, and implications of Joint Return Analysis in the context of algorithmic trading.
+Joint Return Analysis is a sophisticated quantitative technique used extensively in [algorithmic trading](../a/algorithmic_trading.md) to assess the relationship between the returns of different assets. By understanding how assets move in relation to one another, traders can make more informed decisions about portfolio construction, [risk management](../r/risk_management.md), and strategy optimization. This technique is foundational in the fields of modern portfolio theory and [risk parity](../r/risk_parity.md). Below, we delve into the various aspects, methodologies, and implications of Joint Return Analysis in the context of [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Conceptual Foundation
 
@@ -20,7 +20,7 @@ In Markowitz’s Modern Portfolio Theory (MPT), the objective is to construct a 
 
 #### Efficient Frontier
 
-The efficient frontier represents the set of optimal portfolios that offer the highest expected return for a defined level of risk. Points along the frontier are achieved through the diversification of assets whose joint returns are analyzed to minimize portfolio variance.
+The [efficient frontier](../e/efficient_frontier.md) represents the set of optimal portfolios that offer the highest expected return for a defined level of risk. Points along the frontier are achieved through the diversification of assets whose joint returns are analyzed to minimize portfolio variance.
 
 ## Advanced Techniques in Joint Return Analysis
 
@@ -78,7 +78,7 @@ print("Correlation:", correlation)
 
 ## Risk Management Implications
 
-Understanding joint returns is crucial for risk management. Techniques such as Value at Risk (VaR) and Conditional Value at Risk (CVaR) incorporate joint return analysis to assess potential losses within a portfolio.
+Understanding joint returns is crucial for [risk management](../r/risk_management.md). Techniques such as Value at Risk (VaR) and Conditional Value at Risk (CVaR) incorporate joint return analysis to assess potential losses within a portfolio.
 
 ### Stress Testing
 
@@ -92,8 +92,8 @@ During the 2008 Financial Crisis, many assets that were previously thought to be
 
 ### Quant Funds
 
-Quantitative funds, or "quant funds," heavily rely on joint return analysis for their trading strategies. Firms like Renaissance Technologies (https://www.rentec.com) and Two Sigma (https://www.twosigma.com) use sophisticated statistical techniques to model asset dependencies and optimize their trading algorithms.
+Quantitative funds, or "quant funds," heavily rely on joint return analysis for their [trading strategies](../t/trading_strategies.md). Firms like Renaissance Technologies (https://www.rentec.com) and Two Sigma (https://www.twosigma.com) use sophisticated statistical techniques to model asset dependencies and optimize their [trading algorithms](../t/trading_algorithms.md).
 
 ## Conclusion
 
-Joint Return Analysis is an indispensable tool in the arsenal of an algorithmic trader. By leveraging techniques ranging from basic statistical measures like covariance and correlation to advanced methodologies like PCA, copulas, and machine learning, traders can gain a profound understanding of how assets interact. This knowledge is vital for constructing robust portfolios, managing risk, and optimizing trading strategies, thereby enhancing the decision-making process in the complex world of algorithmic trading.
+Joint Return Analysis is an indispensable tool in the arsenal of an algorithmic trader. By leveraging techniques ranging from basic statistical measures like covariance and correlation to advanced methodologies like PCA, copulas, and machine learning, traders can gain a profound understanding of how assets interact. This knowledge is vital for constructing robust portfolios, managing risk, and optimizing [trading strategies](../t/trading_strategies.md), thereby enhancing the decision-making process in the complex world of [algorithmic trading](../a/algorithmic_trading.md).

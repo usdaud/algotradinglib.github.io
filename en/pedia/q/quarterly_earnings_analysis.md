@@ -15,9 +15,9 @@
 
 ## Introduction to Quarterly Earnings Analysis
 
-Quarterly earnings reports are pivotal to investors and analysts as they provide timely data on a company’s operational health and financial performance. These reports are mandated by the Securities and Exchange Commission (SEC) for publicly traded companies in the United States, ensuring transparency and consistency in financial reporting.
+[Quarterly earnings reports](../q/quarterly_earnings_reports.md) are pivotal to investors and analysts as they provide timely data on a company’s operational health and financial performance. These reports are mandated by the Securities and Exchange Commission (SEC) for publicly traded companies in the United States, ensuring transparency and consistency in financial reporting.
 
-Quarterly earnings reports are essentially a snapshot of a company’s financial health over a three-month period. They offer insights into revenue, expenses, net income, and guidance, amongst other metrics. Companies typically publish these reports within a few weeks after the quarter ends.
+[Quarterly earnings reports](../q/quarterly_earnings_reports.md) are essentially a snapshot of a company’s financial health over a three-month period. They offer insights into revenue, expenses, net income, and guidance, amongst other metrics. Companies typically publish these reports within a few weeks after the quarter ends.
 
 ## Key Components of a Quarterly Earnings Report
 
@@ -82,7 +82,7 @@ Often, the guidance provided has more influence than the reported earnings thems
 
 ## Common Ratios and Metrics Used
 
-Several key financial ratios and metrics are commonly used to analyze quarterly earnings:
+Several key [financial ratios](../f/financial_ratios.md) and metrics are commonly used to analyze quarterly earnings:
 
 ### Revenue Growth
 The year-over-year or quarter-over-quarter growth rate of revenue is a primary indicator of business expansion.
@@ -108,7 +108,7 @@ Cash generated from operations minus capital expenditures. It reflects the compa
 ## Tools and Techniques for Quarterly Earnings Analysis
 
 ### Financial Modeling
-Financial modeling involves creating detailed financial statements forecasts based on historical data and assumptions. Tools like [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/excel) are commonly used for this purpose.
+[Financial modeling](../f/financial_modeling.md) involves creating detailed financial statements forecasts based on historical data and assumptions. Tools like [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/excel) are commonly used for this purpose.
 
 ### Analyst Reports
 Investment firms often publish analyst reports that provide insights and evaluations of earnings reports. Examples include reports from [Goldman Sachs](https://www.goldmansachs.com/) and [Morgan Stanley](https://www.morganstanley.com/).

@@ -1,6 +1,6 @@
 # Futures Term Structure
 
-The term structure of futures refers to the relationship between the prices of futures contracts and the differing maturity dates for these contracts. Essentially, it is the curve created when plotting the prices of futures contracts against their respective expiration dates. This concept is particularly important in understanding the cost of carry, market expectations, and the overall market sentiment. 
+The term structure of futures refers to the relationship between the prices of [futures contracts](../f/futures_contracts.md) and the differing maturity dates for these contracts. Essentially, it is the curve created when plotting the prices of [futures contracts](../f/futures_contracts.md) against their respective expiration dates. This concept is particularly important in understanding the cost of carry, market expectations, and the overall market sentiment. 
 
 ## Key Components
 
@@ -14,7 +14,7 @@ The term structure of futures can be in one of two main states: contango or back
 
 #### Contango
 
-Contango is a situation where the futures prices are higher than the spot prices. In other words, futures contracts with later maturity dates are priced higher than those with earlier maturity dates. This condition occurs due to the cost of carry, which includes storage costs, insurance, and the interest foregone on invested funds.
+Contango is a situation where the futures prices are higher than the spot prices. In other words, [futures contracts](../f/futures_contracts.md) with later maturity dates are priced higher than those with earlier maturity dates. This condition occurs due to the cost of carry, which includes storage costs, insurance, and the interest foregone on invested funds.
 
 #### Backwardation
 
@@ -68,7 +68,7 @@ If the futures prices deviate significantly from what the theoretical pricing mo
 
 ### Hedging Strategies
 
-Understanding the term structure is crucial for hedgers who use futures contracts to mitigate risk. For example, oil producers may use a futures contract in contango to lock in higher future prices, thereby stabilizing revenue.
+Understanding the term structure is crucial for hedgers who use [futures contracts](../f/futures_contracts.md) to mitigate risk. For example, oil producers may use a futures contract in contango to lock in higher future prices, thereby stabilizing revenue.
 
 ### Investment Strategies
 
@@ -82,22 +82,22 @@ In commodity markets, the term structure can often signal future supply and dema
 
 ### Interest Rate Markets
 
-In the context of interest rate futures (e.g., Treasury futures), the term structure can reflect market expectations about future interest rates. A steepening yield curve indicating contango might suggest expectations of higher future interest rates.
+In the context of [interest rate futures](../i/interest_rate_futures.md) (e.g., Treasury futures), the term structure can reflect market expectations about future interest rates. A steepening [yield curve](../y/yield_curve.md) indicating contango might suggest expectations of higher future interest rates.
 
 ### Equity Index Futures
 
-Equity index futures illustrate the term structure in relation to expected equity market performance. Factors like dividend expectations and anticipated market volatility can influence the futures prices.
+Equity [index futures](../i/index_futures.md) illustrate the term structure in relation to expected equity market performance. Factors like dividend expectations and anticipated market volatility can influence the futures prices.
 
 ## Real-World Companies Involved
 
 ### CME Group
 
-[CME Group](https://www.cmegroup.com/) is a global markets company that owns large derivatives, options, and futures exchanges such as the Chicago Mercantile Exchange. They offer a wide range of futures products and are a key player in the analysis and application of futures term structures.
+[CME Group](https://www.cmegroup.com/) is a global markets company that owns large [derivatives](../d/derivatives.md), options, and futures exchanges such as the Chicago Mercantile Exchange. They offer a wide range of futures products and are a key player in the analysis and application of futures term structures.
 
 ### ICE (Intercontinental Exchange)
 
-[ICE](https://www.theice.com/) operates numerous global exchanges and clearinghouses, and it is another pivotal player in the futures markets. They provide futures contracts on a variety of assets, from commodities to financial instruments, allowing for comprehensive term structure analysis.
+[ICE](https://www.theice.com/) operates numerous global exchanges and clearinghouses, and it is another pivotal player in the futures markets. They provide [futures contracts](../f/futures_contracts.md) on a variety of assets, from commodities to financial instruments, allowing for comprehensive [term structure analysis](../t/term_structure_analysis.md).
 
 ## Conclusion
 
-Understanding the futures term structure is fundamental for participants in the futures markets, from hedgers to speculators and arbitragers. It allows for informed decision-making, optimal hedging and investment strategies, and the identification of potential arbitrage opportunities. Both theoretical and practical knowledge of the term structure can significantly impact trading outcomes and financial planning.
+Understanding the futures term structure is fundamental for participants in the futures markets, from hedgers to speculators and arbitragers. It allows for informed decision-making, optimal hedging and investment strategies, and the identification of potential [arbitrage](../a/arbitrage.md) opportunities. Both theoretical and practical knowledge of the term structure can significantly impact trading outcomes and [financial planning](../f/financial_planning.md).

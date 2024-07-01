@@ -19,14 +19,14 @@ Knock-In options are a type of exotic option in financial markets, distinct from
 
 The pricing of knock-in options is more complex compared to vanilla options due to the additional barrier condition. The valuation typically involves advanced mathematical models and numerical methods, considering not only the volatility and price of the underlying asset but also the relationship between the underlying price and the barrier level. Some commonly used models include:
 
-- **Black-Scholes Model**: Adapted for barrier options, taking into account the hitting probability of the barrier.
+- **[Black-Scholes Model](../b/black-scholes_model.md)**: Adapted for barrier options, taking into account the hitting probability of the barrier.
 - **Monte Carlo Simulations**: Used to simulate numerous price paths of the underlying asset to estimate the probability of the barrier being breached and the option becoming active.
-- **Finite Difference Methods**: Numerical techniques for solving differential equations that describe the price dynamics of the knock-in options.
+- **[Finite Difference Methods](../f/finite_difference_methods.md)**: Numerical techniques for solving differential equations that describe the price dynamics of the knock-in options.
 
 ### Advantages and Uses of Knock-In Options
 
 - **Cost-Effectiveness**: Knock-in options can be less expensive than traditional options because they include a barrier that must be breached for the option to become active.
-- **Risk Management**: Investors and companies can use knock-in options for hedging purposes, enabling them to manage risks associated with price movements in underlying assets.
+- **[Risk Management](../r/risk_management.md)**: Investors and companies can use knock-in options for hedging purposes, enabling them to manage risks associated with price movements in underlying assets.
 - **Strategic Investment**: Allows for more tailored strategies that take advantage of specific market conditions and price movements.
 
 ### Disadvantages and Risks
@@ -40,15 +40,15 @@ Consider an investor who holds stock in ABC Corporation, currently trading at $1
 
 ### Applications in Algo Trading
 
-In algorithmic trading, knock-in options can be incorporated into complex strategies to take advantage of specific market conditions or to hedge existing positions. Algorithmic traders may use historical data and advanced modeling to predict the likelihood of barrier levels being breached, and dynamically adjust their positions based on real-time market conditions.
+In [algorithmic trading](../a/algorithmic_trading.md), knock-in options can be incorporated into complex strategies to take advantage of specific market conditions or to hedge existing positions. Algorithmic traders may use historical data and advanced modeling to predict the likelihood of barrier levels being breached, and dynamically adjust their positions based on real-time market conditions.
 
 ### Key Players and Platforms
 
 Several financial institutions and trading platforms offer knock-in options as part of their derivative product suite. Notable examples include:
 
-- **Goldman Sachs**: A leading global investment bank that provides various exotic options, including knock-in options [Goldman Sachs](https://www.goldmansachs.com/).
-- **Barclays**: Offers a wide range of structured products and derivatives, including barrier options [Barclays](https://www.barclays.co.uk/).
-- **Interactive Brokers**: A well-known trading platform that includes exotic options in their product offerings [Interactive Brokers](https://www.interactivebrokers.com/).
+- **Goldman Sachs**: A leading global investment bank that provides various [exotic options](../e/exotic_options.md), including knock-in options [Goldman Sachs](https://www.goldmansachs.com/).
+- **Barclays**: Offers a wide range of structured products and [derivatives](../d/derivatives.md), including barrier options [Barclays](https://www.barclays.co.uk/).
+- **Interactive Brokers**: A well-known trading platform that includes [exotic options](../e/exotic_options.md) in their product offerings [Interactive Brokers](https://www.interactivebrokers.com/).
 
 In conclusion, knock-in options provide unique opportunities for investors and traders to manage risk and create tailored investment strategies. However, understanding their complexities and the associated risks is crucial for their effective use in financial portfolios.
 

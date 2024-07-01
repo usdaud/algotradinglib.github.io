@@ -8,7 +8,7 @@ Inflation forecasting is an essential aspect of economic analysis that plays a c
 
 1. **Monetary Policy**: Central banks, such as the Federal Reserve or the European Central Bank, rely on inflation forecasts to set interest rates and other monetary policies. Accurate forecasts help them achieve their dual mandates of price stability and maximum employment.
 
-2. **Investment Decisions**: Investors use inflation forecasts to make informed decisions about asset allocation, interest rate expectations, and risk management. For instance, bonds, stocks, and commodities all react differently to changes in inflation, and accurate forecasts can enhance portfolio performance.
+2. **Investment Decisions**: Investors use inflation forecasts to make informed decisions about [asset allocation](../a/asset_allocation.md), interest rate expectations, and [risk management](../r/risk_management.md). For instance, bonds, stocks, and commodities all react differently to changes in inflation, and accurate forecasts can enhance [portfolio performance](../p/portfolio_performance.md).
 
 3. **Business Strategy**: Companies use inflation forecasts to set prices for their goods and services, negotiate wages and salaries, and manage costs. Accurate predictions help them maintain profitability and competitiveness.
 
@@ -40,7 +40,7 @@ Inflation forecasting is an essential aspect of economic analysis that plays a c
 
 **Multiple Regression Models**
 
-- These models use various economic indicators, such as GDP growth, money supply, and interest rates, to predict future inflation. Multiple regression can capture complex relationships between variables.
+- These models use various [economic indicators](../e/economic_indicators.md), such as GDP growth, money supply, and interest rates, to predict future inflation. Multiple regression can capture complex relationships between variables.
 
 - **Example**: π_t = β₀ + β₁ X₁_t + β₂ X₂_t + ... + βn Xn_t + ε_t,
 
@@ -68,19 +68,19 @@ Inflation forecasting is an essential aspect of economic analysis that plays a c
 
 #### 4. **Machine Learning Models**
 
-**Artificial Neural Networks (ANN)**
+**[Artificial Neural Networks](../a/artificial_neural_networks.md) (ANN)**
 
 - ANN models can capture nonlinear relationships in data, making them suitable for complex inflation forecasting tasks.
 
 - **Structure**: ANNs consist of layers of interconnected nodes (neurons) that process input data to predict future values.
 
-- **Example Application**: Input variables might include past inflation rates, unemployment rates, and other economic indicators, and the output is the forecasted inflation rate.
+- **Example Application**: Input variables might include past inflation rates, unemployment rates, and other [economic indicators](../e/economic_indicators.md), and the output is the forecasted inflation rate.
 
 **Support Vector Machines (SVM)**
 
-- SVMs are supervised learning models that can be used for regression (Support Vector Regression, SVR) to forecast inflation.
+- SVMs are supervised learning models that can be used for regression ([Support Vector Regression](../s/support_vector_regression.md), SVR) to forecast inflation.
 
-- **Example Application**: Use past inflation rates and other economic indicators as input features to predict future inflation rates.
+- **Example Application**: Use past inflation rates and other [economic indicators](../e/economic_indicators.md) as input features to predict future inflation rates.
 
 ### Challenges in Inflation Forecasting
 
@@ -102,4 +102,4 @@ Inflation forecasting is an essential aspect of economic analysis that plays a c
 
 ### Conclusion
 
-Inflation forecasting is a multifaceted and challenging task that requires a deep understanding of economic theories, statistical methods, and data analysis techniques. By leveraging a combination of traditional econometric models and modern machine learning approaches, forecasters can improve their predictions and provide valuable insights for monetary policy, investment decisions, and business strategy. Despite the inherent challenges, ongoing advancements in data availability, computational power, and modeling techniques continue to enhance the accuracy and reliability of inflation forecasts.
+Inflation forecasting is a multifaceted and challenging task that requires a deep understanding of economic theories, statistical methods, and [data analysis techniques](../d/data_analysis_techniques.md). By leveraging a combination of traditional econometric models and modern machine learning approaches, forecasters can improve their predictions and provide valuable insights for monetary policy, investment decisions, and business strategy. Despite the inherent challenges, ongoing advancements in data availability, computational power, and modeling techniques continue to enhance the accuracy and reliability of inflation forecasts.

@@ -1,12 +1,12 @@
 # Feedforward Neural Networks in Algorithmic Trading
 
-Feedforward Neural Networks (FNNs) are one of the fundamental architectures in deep learning and are extensively used in various applications, including algorithmic trading. This document aims to provide a comprehensive overview of Feedforward Neural Networks and their application in the domain of algorithmic trading.
+Feedforward Neural Networks (FNNs) are one of the fundamental architectures in deep learning and are extensively used in various applications, including [algorithmic trading](../a/algorithmic_trading.md). This document aims to provide a comprehensive overview of Feedforward Neural Networks and their application in the domain of [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Introduction to Feedforward Neural Networks
 
 ### Structure and Functionality
 
-Feedforward Neural Networks are a class of artificial neural networks where connections between the nodes do not form cycles. Information moves in one direction—forward—from the input nodes, through the hidden nodes (if any), and finally to the output nodes. Unlike recurrent neural networks (RNNs), FNNs do not use their output as input for the next step.
+Feedforward Neural Networks are a class of [artificial neural networks](../a/artificial_neural_networks.md) where connections between the nodes do not form cycles. Information moves in one direction—forward—from the input nodes, through the hidden nodes (if any), and finally to the output nodes. Unlike recurrent neural networks (RNNs), FNNs do not use their output as input for the next step.
 
 ### Components of FNNs
 
@@ -25,18 +25,18 @@ Activation functions introduce non-linearity into the network, allowing it to mo
 
 The training of FNNs involves:
 1. **Forward Propagation**: Passing input data through the network to obtain output.
-2. **Loss Calculation**: Calculating the error by comparing the predicted output to the actual output using a loss function like Mean Squared Error (MSE) or Cross-Entropy Loss.
+2. **Loss Calculation**: Calculating the error by comparing the predicted output to the actual output using a loss function like [Mean Squared Error](../m/mean_squared_error.md) (MSE) or Cross-Entropy Loss.
 3. **Backward Propagation**: Using algorithms like Gradient Descent to minimize the loss by adjusting weights and biases.
 
 ## Applications in Algorithmic Trading
 
 ### Prediction Models
 
-FNNs can be employed to create prediction models that forecast future stock prices, market trends, or economic indicators. Historical price data, along with technical indicators, are fed into the network to predict future price movements.
+FNNs can be employed to create prediction models that forecast future stock prices, market trends, or [economic indicators](../e/economic_indicators.md). Historical price data, along with [technical indicators](../t/technical_indicators.md), are fed into the network to predict future price movements.
 
 ### Pattern Recognition
 
-Algorithmic trading strategies often rely on recognizing patterns in historical data, like head and shoulders, double tops, and bottoms. FNNs can be trained to identify these patterns, enhancing the decision-making process for entry and exit points.
+[Algorithmic trading](../a/algorithmic_trading.md) strategies often rely on recognizing patterns in historical data, like head and shoulders, double tops, and bottoms. FNNs can be trained to identify these patterns, enhancing the decision-making process for entry and exit points.
 
 ### Sentiment Analysis
 
@@ -44,7 +44,7 @@ FNNs can be used to analyze financial news and social media feeds to gauge marke
 
 ### Portfolio Management
 
-FNNs assist in optimizing the selection of assets in a portfolio to maximize returns and minimize risk. By analyzing historical performance and correlations among assets, the model can suggest an optimal asset allocation.
+FNNs assist in optimizing the selection of assets in a portfolio to maximize returns and minimize risk. By analyzing historical performance and correlations among assets, the model can suggest an optimal [asset allocation](../a/asset_allocation.md).
 
 ## Challenges and Limitations
 
@@ -58,7 +58,7 @@ Reliable and extensive historical data are critical for training effective model
 
 ### Computational Resources
 
-Training deep neural networks require substantial computational power and memory. This demands robust hardware and efficient algorithms to ensure timely execution of trading strategies.
+Training deep neural networks require substantial computational power and memory. This demands robust hardware and efficient algorithms to ensure timely execution of [trading strategies](../t/trading_strategies.md).
 
 ## Implementation and Tools
 
@@ -107,8 +107,8 @@ Renaissance Technologies, founded by Jim Simons, is known for employing sophisti
 
 #### Two Sigma
 
-Two Sigma is another prominent hedge fund that leverages artificial intelligence, machine learning, and neural networks for algorithmic trading. More details are available on their [website](https://www.twosigma.com/).
+Two Sigma is another prominent hedge fund that leverages artificial intelligence, machine learning, and neural networks for [algorithmic trading](../a/algorithmic_trading.md). More details are available on their [website](https://www.twosigma.com/).
 
 ## Conclusion
 
-Feedforward Neural Networks have demonstrated significant potential in transforming algorithmic trading. Despite challenges like overfitting and computational demands, their ability to model complex relationships in data makes them invaluable tools for traders and financial analysts. As computational power and data availability continue to grow, the application of FNNs across various domains, particularly in trading strategies, is expected to expand further.
+Feedforward Neural Networks have demonstrated significant potential in transforming [algorithmic trading](../a/algorithmic_trading.md). Despite challenges like overfitting and computational demands, their ability to model complex relationships in data makes them invaluable tools for traders and financial analysts. As computational power and data availability continue to grow, the application of FNNs across various domains, particularly in [trading strategies](../t/trading_strategies.md), is expected to expand further.

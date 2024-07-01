@@ -4,7 +4,7 @@ Weighted Alpha is a specific variant of the alpha metric that is weighted over a
 
 ### Importance in Algorithmic Trading
 
-In the context of algorithmic trading, Weighted Alpha is especially useful as it allows algorithms to give more importance to recent price movements when making trading decisions. This can be advantageous in a market that is highly dynamic and influenced by immediate information flow. Algorithms can be tuned to identify securities that have shown strong recent performance and are expected to continue this trend in the short term, thereby enhancing potential returns.
+In the context of [algorithmic trading](../a/algorithmic_trading.md), Weighted Alpha is especially useful as it allows algorithms to give more importance to recent price movements when making trading decisions. This can be advantageous in a market that is highly dynamic and influenced by immediate information flow. Algorithms can be tuned to identify securities that have shown strong recent performance and are expected to continue this trend in the short term, thereby enhancing potential returns.
 
 ### Calculation of Weighted Alpha
 
@@ -32,30 +32,30 @@ print("Weighted Alpha:", weighted_alpha)
 
 ### Applications in Trading Strategies
 
-1. **Momentum Trading**: Strategies that seek to capitalize on the continuance of existing trends.
-2. **Mean Reversion**: Identifying stocks that deviate significantly from their moving averages, predicting a return to the mean.
-3. **Pairs Trading**: Using Weighted Alpha to compare the performance of different securities in a pair to make a trading decision.
-4. **Risk Management**: Balancing portfolios to minimize risk by weighting more recent data to quickly adapt to market changes.
+1. **[Momentum Trading](../m/momentum_trading.md)**: Strategies that seek to capitalize on the continuance of existing trends.
+2. **[Mean Reversion](../m/mean_reversion.md)**: Identifying stocks that deviate significantly from their moving averages, predicting a return to the mean.
+3. **[Pairs Trading](../p/pairs_trading.md)**: Using Weighted Alpha to compare the performance of different securities in a pair to make a trading decision.
+4. **[Risk Management](../r/risk_management.md)**: Balancing portfolios to minimize risk by weighting more recent data to quickly adapt to market changes.
 
 ### Example Companies Utilizing Weighted Alpha
 
-1. **TradeStation**: Known for its advanced algorithmic trading platforms, TradeStation allows the implementation of custom strategies that can utilize Weighted Alpha. [TradeStation](https://www.tradestation.com/)
-2. **QuantConnect**: An open-source algorithmic trading platform that supports a range of indicators and metrics, including Weighted Alpha. [QuantConnect](https://www.quantconnect.com/)
+1. **TradeStation**: Known for its advanced [algorithmic trading](../a/algorithmic_trading.md) platforms, TradeStation allows the implementation of custom strategies that can utilize Weighted Alpha. [TradeStation](https://www.tradestation.com/)
+2. **QuantConnect**: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports a range of indicators and metrics, including Weighted Alpha. [QuantConnect](https://www.quantconnect.com/)
 3. **Alpha Architect**: This company uses data-driven strategies and tools that may include metrics like Weighted Alpha for better investment decisions. [Alpha Architect](https://alphaarchitect.com/)
 4. **Two Sigma**: A quantitative investment management firm that employs advanced analytics and models, which potentially use metrics like Weighted Alpha. [Two Sigma](https://www.twosigma.com/)
-5. **Renaissance Technologies**: One of the most successful hedge funds that uses quantitative models for trading, possibly incorporating metrics like Weighted Alpha. [Renaissance Technologies](https://www.rentec.com/)
+5. **Renaissance Technologies**: One of the most successful hedge funds that uses [quantitative models](../q/quantitative_models.md) for trading, possibly incorporating metrics like Weighted Alpha. [Renaissance Technologies](https://www.rentec.com/)
 
 ### Benefits of Using Weighted Alpha
 
 - **Timely Insights**: Offers a more timely view of a security’s performance by emphasizing recent price actions.
-- **Enhanced Decision Making**: Improves the effectiveness of trading algorithms by focusing on more relevant data.
+- **Enhanced Decision Making**: Improves the effectiveness of [trading algorithms](../t/trading_algorithms.md) by focusing on more relevant data.
 - **Reduced Noise**: Minimizes the impact of older, potentially less relevant price movements.
 
 ### Limitations
 
 - **Data Sensitivity**: Over-reliance on recent data can sometimes result in misleading trends if those recent movements are anomalies.
 - **Complexity**: The calculation and implementation of Weighted Alpha might be more complex than simpler metrics.
-- **Overfitting Risk**: There is a risk of overfitting trading models to recent data, which might not always be an indicator of future performance.
+- **Overfitting Risk**: There is a risk of overfitting [trading models](../t/trading_models.md) to recent data, which might not always be an indicator of future performance.
 
 ### Future Directions
 
@@ -63,8 +63,8 @@ As financial markets continue to evolve with increasing amounts of data and comp
 
 - **Enhanced Machine Learning Models**: Integrating Weighted Alpha within more sophisticated ML models.
 - **Adaptive Weighting Schemes**: Developing adaptive schemes where weights adjust dynamically based on market conditions.
-- **Integration with Other Metrics**: Combining Weighted Alpha with other performance metrics for a more comprehensive view.
+- **Integration with Other Metrics**: Combining Weighted Alpha with other [performance metrics](../p/performance_metrics.md) for a more comprehensive view.
 
 ### Conclusion
 
-Weighted Alpha is a powerful tool in the arsenal of algorithmic trading, providing a nuanced approach to analyzing recent price trends. By emphasizing more recent data, it helps traders and algorithms make more informed and timely decisions. While it offers significant benefits, careful consideration must be given to its limitations and the context in which it is used.
+Weighted Alpha is a powerful tool in the arsenal of [algorithmic trading](../a/algorithmic_trading.md), providing a nuanced approach to analyzing recent price trends. By emphasizing more recent data, it helps traders and algorithms make more informed and timely decisions. While it offers significant benefits, careful consideration must be given to its limitations and the context in which it is used.

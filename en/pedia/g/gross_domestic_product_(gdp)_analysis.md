@@ -92,7 +92,7 @@ Countries regularly publish GDP reports, providing data on economic performance 
 Global organizations also use GDP data to analyze and report on economic conditions:
 
 - **International Monetary Fund (IMF):** Provides global GDP estimates and economic forecasts (https://www.imf.org/en/Data).
-- **World Bank:** Offers comprehensive databases and reports on global economic indicators, including GDP (https://databank.worldbank.org/source/world-development-indicators).
+- **World Bank:** Offers comprehensive databases and reports on global [economic indicators](../e/economic_indicators.md), including GDP (https://databank.worldbank.org/source/world-development-indicators).
 - **OECD:** The Organization for Economic Co-operation and Development publishes GDP statistics and analyses for member and partner countries (https://data.oecd.org/gdp/gross-domestic-product-gdp.htm).
 
 ## Case Studies

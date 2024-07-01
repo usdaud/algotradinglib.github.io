@@ -1,6 +1,6 @@
 ### Reversal Indicators in Algorithmic Trading
 
-In the intricate world of trading, particularly algorithmic trading, reversal indicators play a critical role. Reversal indicators are tools used by traders to predict potential changes in market trends. They help identify the points at which the current market trend (upward or downward) may be likely to reverse direction. This document delves deeply into various reversal indicators, their applications, benefits, and potential pitfalls.
+In the intricate world of trading, particularly [algorithmic trading](../a/algorithmic_trading.md), reversal indicators play a critical role. Reversal indicators are tools used by traders to predict potential changes in market trends. They help identify the points at which the current market trend (upward or downward) may be likely to reverse direction. This document delves deeply into various reversal indicators, their applications, benefits, and potential pitfalls.
 
 #### Key Reversal Indicators
 
@@ -11,36 +11,36 @@ In the intricate world of trading, particularly algorithmic trading, reversal in
 
 2. **Relative Strength Index (RSI)**
     - The RSI is a momentum oscillator that measures the speed and change of price movements. RSI oscillates between zero and 100. Traditionally, the RSI is considered overbought when above 70 and oversold when below 30.
-    - The RSI can be used to identify general market conditions as well as potential turning points. This oscillator can show divergence, failure swings, and centerline crossovers which can signal reversals and provide important trading signals.
+    - The RSI can be used to identify general market conditions as well as potential turning points. This oscillator can show divergence, [failure swings](../f/failure_swings.md), and centerline crossovers which can signal reversals and provide important [trading signals](../t/trading_signals.md).
 
-3. **Stochastic Oscillator**
-    - The Stochastic Oscillator compares a particular closing price of a security to a range of its prices over a certain period. It is plotted as two lines: the %K and the %D line.
-    - %K is the main line, and %D is the moving average of %K. The stochastic oscillator fluctuates between 0 and 100 levels. Readings over 80 are considered overbought, while readings under 20 are considered oversold.
+3. **[Stochastic Oscillator](../s/stochastic_oscillator.md)**
+    - The [Stochastic Oscillator](../s/stochastic_oscillator.md) compares a particular closing price of a security to a range of its prices over a certain period. It is plotted as two lines: the %K and the %D line.
+    - %K is the main line, and %D is the moving average of %K. The [stochastic oscillator](../s/stochastic_oscillator.md) fluctuates between 0 and 100 levels. Readings over 80 are considered overbought, while readings under 20 are considered oversold.
     - Like RSI, it can be used to spot potential reversals when there are divergences between the %K and the underlying price.
 
-4. **Bollinger Bands**
-    - Bollinger Bands consist of a middle band being a Simple Moving Average (SMA) and two outer bands which are standard deviations away from this middle band.
+4. **[Bollinger Bands](../b/bollinger_bands.md)**
+    - [Bollinger Bands](../b/bollinger_bands.md) consist of a middle band being a Simple Moving Average (SMA) and two outer bands which are standard deviations away from this middle band.
     - These bands expand and contract with volatility - during periods of high volatility, the bands widen, and during periods of low volatility, they contract. Reversal signals are often generated when the price touches or crosses one of the bands.
 
-5. **Parabolic SAR (Stop and Reverse)**
-    - The Parabolic SAR indicator provides potential reversal signals based on the price and time. It’s represented on the chart as a series of dots placed either above or below the price, depending on the direction of the market trend.
+5. **[Parabolic SAR](../p/parabolic_sar.md) (Stop and Reverse)**
+    - The [Parabolic SAR](../p/parabolic_sar.md) indicator provides potential reversal signals based on the price and time. It’s represented on the chart as a series of dots placed either above or below the price, depending on the direction of the market trend.
     - A dot is placed below the price during a bullish trend and above the price during a bearish trend. When the dots flip, it’s indicative of a potential reversal in the underlying price movement.
 
 6. **Fibonacci Retracement**
     - Fibonacci retracement levels are based on the idea that markets will retrace a predictable portion of a move, after which they will continue to move in the original direction. 
-    - These levels are drawn using a baseline at significant high and low points, creating crucial support and resistance levels that often coincide with potential reversal points.
+    - These levels are drawn using a baseline at significant high and low points, creating crucial [support and resistance](../s/support_and_resistance.md) levels that often coincide with potential reversal points.
 
-7. **Candlestick Patterns**
+7. **[Candlestick Patterns](../c/candlestick_patterns.md)**
     - Candlesticks shape up patterns that traders use to make decisions about market moves - hammer, hanging man, engulfing patterns, and many others that can indicate reversals.
     - For instance, the appearance of a "Doji" indicates a potential reversal.
 
 #### Combining Indicators for Robust Signals
 
-Using multiple indicators can provide more robust trading signals thereby reducing the likelihood of false signals. For instance, a trader might use both MACD and RSI indicators to confirm reversal. If the RSI signals a market is overbought, and around the same time, the MACD line crosses below the signal line, this provides a stronger indication of a potential reversal. 
+Using multiple indicators can provide more robust [trading signals](../t/trading_signals.md) thereby reducing the likelihood of false signals. For instance, a trader might use both MACD and RSI indicators to confirm reversal. If the RSI signals a market is overbought, and around the same time, the MACD line crosses below the signal line, this provides a stronger indication of a potential reversal. 
 
 #### Algorithmic Implementation of Reversal Indicators
 
-In algorithmic trading, these indicators are often programmed into trading algorithms to trigger buy or sell signals automatically based on predefined rules. Let's consider an example of an algorithm that uses the RSI and MACD for generating trading signals:
+In [algorithmic trading](../a/algorithmic_trading.md), these indicators are often programmed into [trading algorithms](../t/trading_algorithms.md) to trigger buy or sell signals automatically based on predefined rules. Let's consider an example of an algorithm that uses the RSI and MACD for generating [trading signals](../t/trading_signals.md):
 
 ```python
 import pandas as pd
@@ -96,4 +96,4 @@ print(signals[['Date', 'Close', 'RSI', 'MACD', 'Signal_Line', 'Buy_Signal', 'Sel
 
 Reversal indicators are potent tools in the arsenal of an algorithmic trader. They assist in recognizing critical points where market sentiment might be changing, thereby providing opportunities to make informed trading decisions. While they are not foolproof, combining multiple indicators and continuously refining algorithms can significantly enhance their efficacy in predicting market reversals.
 
-For more in-depth knowledge about algorithmic trading and indicators, you can visit specialized financial institutions like Investment.com at [Investment.com](http://www.investment.com).
+For more in-depth knowledge about [algorithmic trading](../a/algorithmic_trading.md) and indicators, you can visit specialized financial institutions like Investment.com at [Investment.com](http://www.investment.com).

@@ -37,7 +37,7 @@ Formula:
 This ratio measures how efficiently a company uses its working capital to generate sales.
 
 Formula:
-\[ \text{Working Capital Turnover} = \frac{\text{Net Sales}}{\text{Working Capital}} \]
+\[ \text{[Working Capital Turnover](../w/working_capital_turnover.md)} = \frac{\text{Net Sales}}{\text{Working Capital}} \]
 
 ### 3.4 Cash Conversion Cycle
 The cash conversion cycle measures the time it takes for a company to convert its investments in inventory and other resources into cash from sales.
@@ -68,7 +68,7 @@ Effective working capital management is crucial for several reasons:
 - **Enhances Operational Efficiency**: Optimizes the use of current assets and liabilities to facilitate smooth business operations.
 - **Improves Profitability**: Reduces costs associated with borrowing and inventory holding, leading to higher profitability.
 - **Supports Growth**: Ensures that the company has sufficient funds to support its growth and expansion plans.
-- **Risk Management**: Helps in anticipating and mitigating financial risks associated with cash flow problems.
+- **[Risk Management](../r/risk_management.md)**: Helps in anticipating and mitigating financial risks associated with cash flow problems.
 
 ## 6. Challenges in Working Capital Management
 Businesses often face several challenges in managing working capital, including:
@@ -90,7 +90,7 @@ Wal-Mart employs a robust working capital management system that includes effici
 Several software solutions assist in automating and optimizing working capital management processes. These include:
 
 ### 8.1 SAP S/4HANA
-SAP S/4HANA provides comprehensive tools for managing working capital, including cash management, liquidity planning, and financial risk management. [SAP S/4HANA](https://www.sap.com/products/s4hana-erp.html)
+SAP S/4HANA provides comprehensive tools for managing working capital, including cash management, liquidity planning, and [financial risk management](../f/financial_risk_management.md). [SAP S/4HANA](https://www.sap.com/products/s4hana-erp.html)
 
 ### 8.2 Oracle ERP Cloud
 Oracle ERP Cloud offers solutions for managing receivables, payables, cash, and inventory, providing real-time insights and analytics for better working capital management. [Oracle ERP Cloud](https://www.oracle.com/erp/financials/)

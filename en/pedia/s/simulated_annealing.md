@@ -1,6 +1,6 @@
 # Simulated Annealing in Algorithmic Trading
 
-Simulated annealing is a probabilistic technique for approximating the global optimum of a given function. It is often used when the search space is discrete, for instance, in combinatorial optimization problems, and finds extensive application in fields such as network design, circuit layout, and most importantly, in algorithmic trading. Algorithmic trading (or "algo trading") utilizes computer algorithms to automatically make trading decisions, submitting orders, and managing trades in financial markets. 
+Simulated annealing is a probabilistic technique for approximating the global optimum of a given function. It is often used when the search space is discrete, for instance, in combinatorial optimization problems, and finds extensive application in fields such as network design, circuit layout, and most importantly, in [algorithmic trading](../a/algorithmic_trading.md). [Algorithmic trading](../a/algorithmic_trading.md) (or "algo trading") utilizes computer algorithms to automatically make trading decisions, submitting orders, and managing trades in financial markets. 
 
 Simulated annealing is inspired by the physical process of annealing in metallurgy, where a material is heated to a high temperature and then gradually cooled in a controlled manner to alter its physical properties and reduce defects. Similarly, in the optimization context, simulated annealing gradually reduces the temperature of a system to minimize an objective function while allowing occasional worsening moves to escape local optima.
 
@@ -16,7 +16,7 @@ Simulated annealing is inspired by the physical process of annealing in metallur
    Determines the likelihood of accepting a worse solution based on the difference in the cost between the current and new solutions and the current temperature. This is often managed using the Metropolis criterion, which accepts worse solutions with a probability \( \exp(-\Delta E / T) \).
 
 4. **Objective Function:**
-   The function to be minimized or maximized. In trading, this could be the Sharpe ratio, total return, or another performance metric.
+   The function to be minimized or maximized. In trading, this could be the [Sharpe ratio](../s/sharpe_ratio.md), total return, or another performance metric.
 
 ## Steps Involved in Simulated Annealing for Algorithmic Trading
 
@@ -34,19 +34,19 @@ Simulated annealing is inspired by the physical process of annealing in metallur
 
 ## Application in Algorithmic Trading
 
-In algorithmic trading, simulated annealing can optimize numerous trading strategy components. Here are some specific applications:
+In [algorithmic trading](../a/algorithmic_trading.md), simulated annealing can optimize numerous trading strategy components. Here are some specific applications:
 
 ### 1. Parameter Optimization
 
-Trading strategies often involve multiple parameters like moving average periods, relative strength index (RSI) thresholds, and stop-loss levels. Simulated annealing can find the optimal combination of these parameters to maximize returns or minimize risk.
+[Trading strategies](../t/trading_strategies.md) often involve multiple parameters like moving average periods, relative strength index (RSI) thresholds, and stop-loss levels. Simulated annealing can find the optimal combination of these parameters to maximize returns or minimize risk.
 
 ### 2. Portfolio Optimization
 
-Beyond individual strategies, it can be used to optimize asset allocation within a portfolio. Traditionally, the Markowitz Mean-Variance Framework is used, but simulated annealing offers a flexible alternative that can handle more complex, non-linear optimization problems.
+Beyond individual strategies, it can be used to optimize [asset allocation](../a/asset_allocation.md) within a portfolio. Traditionally, the Markowitz Mean-Variance Framework is used, but simulated annealing offers a flexible alternative that can handle more complex, [non-linear optimization](../n/non-linear_optimization.md) problems.
 
 ### 3. Strategy Development
 
-Simulated annealing can assist in the development of new trading strategies by searching for combinations of rules and conditions that best capture market inefficiencies.
+Simulated annealing can assist in the development of new [trading strategies](../t/trading_strategies.md) by searching for combinations of rules and conditions that best capture market inefficiencies.
 
 ### 4. Algorithm Calibration
 
@@ -118,13 +118,13 @@ In this example:
 ### Advantages:
 - **Escaping Local Optima:** Simulated annealing’s acceptance probability for worse solutions helps the algorithm escape local minima, seeking a more globally optimal solution.
 - **Flexibility:** It can handle complex objective functions, various constraints, and multifaceted parameter spaces, making it a versatile choice for trading strategy optimization.
-- **Simplicity:** The algorithm is relatively straightforward to implement and does not require gradient information or complex derivatives.
+- **Simplicity:** The algorithm is relatively straightforward to implement and does not require gradient information or complex [derivatives](../d/derivatives.md).
 
 ### Challenges:
 - **Parameter Tuning:** The performance of simulated annealing highly depends on the cooling schedule and acceptance criteria, necessitating careful tuning.
-- **Computationally Intensive:** Given the stochastic nature, numerous iterations and evaluations of the objective function can be computationally expensive, especially for real-time trading systems.
+- **Computationally Intensive:** Given the stochastic nature, numerous iterations and evaluations of the objective function can be computationally expensive, especially for [real-time trading systems](../r/real-time_trading_systems.md).
 - **Convergence Time:** Finding a global optimum can take considerable time, making it less suitable for very fast, high-frequency trading applications.
 
 ## Conclusion
 
-Simulated annealing presents a powerful, flexible optimization tool for algorithmic trading. Its ability to navigate complex and rugged landscapes of trading strategy parameters makes it a valuable method for traders seeking to optimize their trading systems. Despite its advantages, practitioners should be mindful of the computational demands and the necessity for careful tuning to fully harness the benefits of simulated annealing in their algorithmic trading endeavors.
+Simulated annealing presents a powerful, flexible optimization tool for [algorithmic trading](../a/algorithmic_trading.md). Its ability to navigate complex and rugged landscapes of trading strategy parameters makes it a valuable method for traders seeking to optimize their [trading systems](../t/trading_systems.md). Despite its advantages, practitioners should be mindful of the computational demands and the necessity for careful tuning to fully harness the benefits of simulated annealing in their [algorithmic trading](../a/algorithmic_trading.md) endeavors.

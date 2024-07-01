@@ -1,6 +1,6 @@
 # Kelly Criterion
 
-The Kelly Criterion is a formula used to determine the optimal size of a series of bets in order to maximize logarithm of wealth, thereby optimizing the growth rate of capital. It is frequently employed in situations involving repeated investments or bets, including actuarial science, stock trading, and especially algorithmic trading. Developed by John L. Kelly Jr. in 1956, the Kelly Criterion helps traders and gamblers calculate the most appropriate fraction of their bankroll to risk on a single trade or bet, enhancing the compound growth over time while minimizing the risk of ruin.
+The Kelly Criterion is a formula used to determine the optimal size of a series of bets in order to maximize logarithm of wealth, thereby optimizing the growth rate of capital. It is frequently employed in situations involving repeated investments or bets, including actuarial science, stock trading, and especially [algorithmic trading](../a/algorithmic_trading.md). Developed by John L. Kelly Jr. in 1956, the Kelly Criterion helps traders and gamblers calculate the most appropriate fraction of their bankroll to risk on a single trade or bet, enhancing the compound growth over time while minimizing the risk of ruin.
 
 ## Basic Formula
 
@@ -31,7 +31,7 @@ This calculation suggests that an investor should risk 20% of their bankroll on 
 
 ## Practical Application
 
-The Kelly Criterion is especially useful for portfolio management and algorithmic trading. In trading, it allows for the calibration of trade sizes based on the edge (expectation of profit) and variance (risk). Algorithmic traders rely on this formula to stabilize and optimize the growth of their capital over long periods.
+The Kelly Criterion is especially useful for [portfolio management](../p/portfolio_management.md) and [algorithmic trading](../a/algorithmic_trading.md). In trading, it allows for the calibration of trade sizes based on the edge (expectation of profit) and variance (risk). Algorithmic traders rely on this formula to stabilize and optimize the growth of their capital over long periods.
 
 ### Limitations and Considerations
 
@@ -43,19 +43,19 @@ The Kelly Criterion is especially useful for portfolio management and algorithmi
 
 ## Kelly in Algorithmic Trading
 
-Algorithmic trading involves the use of software to automate trading decisions based on mathematical models, and the Kelly Criterion is often incorporated within these models to ensure optimal bet sizing. Various firms and software providers leverage the Kelly Criterion to enhance trading performance.
+[Algorithmic trading](../a/algorithmic_trading.md) involves the use of software to automate trading decisions based on mathematical models, and the Kelly Criterion is often incorporated within these models to ensure optimal bet sizing. Various firms and software providers leverage the Kelly Criterion to enhance [trading performance](../t/trading_performance.md).
 
 ### Firms Using Kelly Criterion
 
-- **Numerai**: [Numerai](https://numer.ai/) is a hedge fund that applies machine learning algorithms to trading data. They often incorporate advanced risk management techniques, including those based on the Kelly Criterion.
+- **Numerai**: [Numerai](https://numer.ai/) is a hedge fund that applies machine learning algorithms to trading data. They often incorporate advanced [risk management](../r/risk_management.md) techniques, including those based on the Kelly Criterion.
   
-- **Bridgewater Associates**: [Bridgewater](https://www.bridgewater.com/) is one of the world’s largest hedge funds, known for its systematic and quantitative approaches to trading that often includes risk assessment methodologies akin to the Kelly Criterion.
+- **Bridgewater Associates**: [Bridgewater](https://www.bridgewater.com/) is one of the world’s largest hedge funds, known for its systematic and [quantitative approaches](../q/quantitative_approaches.md) to trading that often includes risk assessment methodologies akin to the Kelly Criterion.
   
-- **Two Sigma**: [Two Sigma](https://www.twosigma.com/) applies artificial intelligence, machine learning, and distributed computing to financial markets. The firm utilizes sophisticated risk management and allocation strategies, many of which are influenced by principles similar to the Kelly Criterion.
+- **Two Sigma**: [Two Sigma](https://www.twosigma.com/) applies artificial intelligence, machine learning, and distributed computing to financial markets. The firm utilizes sophisticated [risk management](../r/risk_management.md) and allocation strategies, many of which are influenced by principles similar to the Kelly Criterion.
 
 ## Historical Context and Development
 
-John L. Kelly Jr. developed the Kelly Criterion originally for applications in telecommunications while working at Bell Labs, but it gained prominence in the finance sector notably through the work of noted investors like Warren Buffett and Bill Gross. Its application has expanded significantly in quantitative finance and algorithmic trading due to its mathematical rigor and utility in managing and optimizing growth.
+John L. Kelly Jr. developed the Kelly Criterion originally for applications in telecommunications while working at Bell Labs, but it gained prominence in the finance sector notably through the work of noted investors like Warren Buffett and Bill Gross. Its application has expanded significantly in [quantitative finance](../q/quantitative_finance.md) and [algorithmic trading](../a/algorithmic_trading.md) due to its mathematical rigor and utility in managing and optimizing growth.
 
 ## Mathematical Derivation
 
@@ -67,7 +67,7 @@ Given a current capital `W`, and a fraction `f` to be wagered, the formula for t
 E[log(W)] = p * log(W + f * W + b * f * W) + (1 - p) * log(W - f * W)
 ```
 
-Maximizing this expectation with respect to `f` leads to the Kelly Criterion as derived earlier. This derivation relies on calculus and principles of convex optimization.
+Maximizing this expectation with respect to `f` leads to the Kelly Criterion as derived earlier. This derivation relies on calculus and principles of [convex optimization](../c/convex_optimization.md).
 
 ## Alternative Bet Sizing Strategies
 
@@ -79,4 +79,4 @@ While the Kelly Criterion is optimally efficient from a mathematical standpoint,
 
 ## Conclusion
 
-The Kelly Criterion represents a powerful tool for risk management and capital growth in trading. Its mathematical foundation ensures a systematic increase in the logarithm of wealth, though practical applications require careful consideration of forecast accuracy, market conditions, and risk tolerance. In the fast-paced world of algorithmic trading, the Kelly Criterion continues to stand out as a pivotal approach to optimizing bet sizes and managing investment risks efficiently.
+The Kelly Criterion represents a powerful tool for [risk management](../r/risk_management.md) and capital growth in trading. Its mathematical foundation ensures a systematic increase in the logarithm of wealth, though practical applications require careful consideration of [forecast accuracy](../f/forecast_accuracy.md), market conditions, and risk tolerance. In the fast-paced world of [algorithmic trading](../a/algorithmic_trading.md), the Kelly Criterion continues to stand out as a pivotal approach to optimizing bet sizes and managing investment risks efficiently.

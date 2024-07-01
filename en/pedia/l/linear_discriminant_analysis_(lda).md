@@ -1,6 +1,6 @@
 # Linear Discriminant Analysis (LDA) in Algorithmic Trading
 
-Linear Discriminant Analysis (LDA) is a classification and dimensionality reduction technique that finds a linear combination of features to separate two or more classes of objects or events. It is used extensively in statistics, pattern recognition, and machine learning. In the context of algorithmic trading, LDA can be utilized for developing predictive models that can accurately classify financial time series data, detect market regimes, or identify profitable trading signals.
+Linear Discriminant Analysis (LDA) is a classification and dimensionality reduction technique that finds a linear combination of features to separate two or more classes of objects or events. It is used extensively in statistics, [pattern recognition](../p/pattern_recognition.md), and machine learning. In the context of [algorithmic trading](../a/algorithmic_trading.md), LDA can be utilized for developing predictive models that can accurately classify [financial time series](../f/financial_time_series.md) data, detect market regimes, or identify profitable [trading signals](../t/trading_signals.md).
 
 ## Overview of LDA
 
@@ -11,7 +11,7 @@ LDA aims to achieve three main objectives:
 
 ## Mathematical Foundation
 
-LDA assumes that the input data follows a Gaussian distribution and that the classes have similar covariance matrices. Given a dataset with multiple features, \(\mathbf{X}\), and corresponding class labels, \(\mathbf{y}\), the steps for LDA are as follows:
+LDA assumes that the input data follows a [Gaussian distribution](../g/gaussian_distribution.md) and that the classes have similar covariance matrices. Given a dataset with multiple features, \(\mathbf{X}\), and corresponding class labels, \(\mathbf{y}\), the steps for LDA are as follows:
 
 1. **Compute the Mean Vectors**: Compute the mean vector for each class.
    \[
@@ -39,23 +39,23 @@ LDA assumes that the input data follows a Gaussian distribution and that the cla
 
 ### Stock Price Prediction
 
-One of the critical applications of LDA in algorithmic trading is predicting stock price movements. LDA can be employed to classify future returns (e.g., up or down) based on historical data. To develop a predictive model using LDA:
-1. **Feature Engineering**: Create features from historical data such as prices, volumes, technical indicators (moving averages, RSI, MACD, etc.).
+One of the critical applications of LDA in [algorithmic trading](../a/algorithmic_trading.md) is predicting stock price movements. LDA can be employed to classify future returns (e.g., up or down) based on historical data. To develop a predictive model using LDA:
+1. **Feature Engineering**: Create features from historical data such as prices, volumes, [technical indicators](../t/technical_indicators.md) (moving averages, RSI, MACD, etc.).
 2. **Define Classes**: Define the classes based on future returns, labeling them as "up" or "down" depending on whether the return meets a particular threshold.
 3. **Train LDA Model**: Train the LDA model using the historical features and the defined classes.
-4. **Prediction and Signals**: Use the trained LDA model to predict the direction of future returns and generate trading signals.
+4. **Prediction and Signals**: Use the trained LDA model to predict the direction of future returns and generate [trading signals](../t/trading_signals.md).
 
 ### Market Regime Detection
 
-Markets often exhibit different regimes characterized by varying levels of volatility, trends, and other market behaviors. Detecting these regimes can be crucial for developing adaptive trading strategies. LDA can be used for regime classification:
-1. **Identify Features**: Develop features that capture the essence of different market regimes such as volatility measures, trend indicators, and economic factors.
+Markets often exhibit different regimes characterized by varying levels of volatility, trends, and other market behaviors. Detecting these regimes can be crucial for developing adaptive [trading strategies](../t/trading_strategies.md). LDA can be used for regime classification:
+1. **Identify Features**: Develop features that capture the essence of different market regimes such as volatility measures, [trend indicators](../t/trend_indicators.md), and economic factors.
 2. **Define Regimes**: Label the historical periods into different regimes, such as "high volatility," "low volatility," "bull market," "bear market."
 3. **Train LDA**: Train the LDA model to classify historical periods into the defined regimes based on the selected features.
 4. **Regime Classification**: Use the LDA model to classify current and future market conditions into the detected regimes.
 
 ### Portfolio Management
 
-LDA can also be applied in portfolio management for the purpose of asset classification and risk management:
+LDA can also be applied in [portfolio management](../p/portfolio_management.md) for the purpose of asset classification and [risk management](../r/risk_management.md):
 1. **Feature Extraction**: Extract features representing the financial characteristics of assets such as returns, risks, correlations, etc.
 2. **Define Classes**: Categorize assets into different classes based on their risk profiles, e.g., "high risk," "medium risk," "low risk."
 3. **Train the Model**: Use LDA to train a model on the historical features and risk classifications.
@@ -76,7 +76,7 @@ LDA can also be applied in portfolio management for the purpose of asset classif
 
 As a practical example, let's consider applying LDA to classify the direction of daily returns of the S&P 500 index. The steps involved are:
 1. **Data Collection**: Collect historical daily prices for the S&P 500 index.
-2. **Feature Engineering**: Create features such as log returns, moving averages, volume changes, volatility measures, and technical indicators.
+2. **Feature Engineering**: Create features such as log returns, moving averages, volume changes, volatility measures, and [technical indicators](../t/technical_indicators.md).
 3. **Class Labeling**: Define two classes based on the future daily return; "up" if the return is positive, and "down" if the return is negative.
 4. **Model Training**: Split the data into training and test sets. Train the LDA model using the training set.
 5. **Prediction and Evaluation**: Apply the model to the test set to classify the returns. Evaluate the performance using metrics like accuracy, precision, recall, and confusion matrix.
@@ -122,6 +122,6 @@ In the above code, historical prices are loaded and features are engineered. The
 
 ## Conclusion
 
-Linear Discriminant Analysis (LDA) is a powerful tool in the arsenal of an algorithmic trader. It provides a straightforward approach to classification and dimensionality reduction, which is particularly useful for detecting trading signals, identifying market regimes, or managing portfolios. While it has certain limitations, understanding its core principles and applications can significantly enhance trading strategies in financial markets.
+Linear Discriminant Analysis (LDA) is a powerful tool in the arsenal of an algorithmic trader. It provides a straightforward approach to classification and dimensionality reduction, which is particularly useful for detecting [trading signals](../t/trading_signals.md), identifying market regimes, or managing portfolios. While it has certain limitations, understanding its core principles and applications can significantly enhance [trading strategies](../t/trading_strategies.md) in financial markets.
 
-For further information on the implementation of LDA in algorithmic trading, interested readers can refer to various financial institutions' resources like [Goldman Sachs](https://www.goldmansachs.com/), [JPMorgan Chase](https://www.jpmorganchase.com/), and [Morgan Stanley](https://www.morganstanley.com/), which often publish research and white papers on advanced quantitative methods.
+For further information on the implementation of LDA in [algorithmic trading](../a/algorithmic_trading.md), interested readers can refer to various financial institutions' resources like [Goldman Sachs](https://www.goldmansachs.com/), [JPMorgan Chase](https://www.jpmorganchase.com/), and [Morgan Stanley](https://www.morganstanley.com/), which often publish research and white papers on advanced quantitative methods.

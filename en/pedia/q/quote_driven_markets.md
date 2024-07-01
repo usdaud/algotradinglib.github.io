@@ -8,10 +8,10 @@ Quote driven markets, also referred to as dealer markets, are financial markets 
 Market makers are crucial to the functioning of quote-driven markets. They provide liquidity by quoting both a buying price (bid) and a selling price (ask) for the securities they cover. Their primary role is to facilitate trades by being ready to either buy from sellers or sell to buyers at the prices they have quoted.
 
 - **Liquidity**: Market makers ensure there is sufficient liquidity in the market by being ready to trade securities at any given time.
-- **Price Stability**: They help stabilize prices by narrowing the bid-ask spread, ensuring that price changes are more gradual and less volatile.
+- **Price Stability**: They help stabilize prices by narrowing the [bid-ask spread](../b/bid-ask_spread.md), ensuring that price changes are more gradual and less volatile.
 
 #### Bid-Ask Spread
-The bid-ask spread is the difference between the bid price and the ask price. This spread serves as a measure of market liquidity and also the profit margin for market makers. Generally, tighter spreads indicate a more liquid and competitive market.
+The [bid-ask spread](../b/bid-ask_spread.md) is the difference between the bid price and the ask price. This spread serves as a measure of market liquidity and also the profit margin for market makers. Generally, tighter spreads indicate a more liquid and competitive market.
 
 - **Bid Price**: The price at which a market maker is willing to purchase a security.
 - **Ask Price**: The price at which a market maker is willing to sell a security.
@@ -38,7 +38,7 @@ In quote-driven markets, orders from buyers and sellers are funneled through mar
 ### Disadvantages of Quote Driven Markets
 
 - **Potential for Manipulation**: Market makers may manipulate prices for their own benefit.
-- **Higher Costs**: Investors may face higher costs due to the bid-ask spread.
+- **Higher Costs**: Investors may face higher costs due to the [bid-ask spread](../b/bid-ask_spread.md).
 - **Conflict of Interest**: Market makers trading from their own accounts may have conflicting interests.
 
 ### Examples and Applications
@@ -55,10 +55,10 @@ The London Stock Exchange also employs a quote-driven system, particularly for l
 
 ### Technological Advancements in Quote Driven Markets
 
-With the advent of technology, many quote-driven markets have seen significant improvements in efficiency and transparency. Algorithmic trading and electronic communication networks (ECNs) play a vital role in modern quote-driven markets.
+With the advent of technology, many quote-driven markets have seen significant improvements in efficiency and transparency. [Algorithmic trading](../a/algorithmic_trading.md) and electronic communication networks (ECNs) play a vital role in modern quote-driven markets.
 
 #### Algorithmic Trading
-Algorithmic trading involves using automated algorithms to execute trades. In quote-driven markets, algorithms can help market makers optimize their quoting strategies, manage risk more effectively, and improve liquidity.
+[Algorithmic trading](../a/algorithmic_trading.md) involves using automated algorithms to execute trades. In quote-driven markets, algorithms can help market makers optimize their quoting strategies, manage risk more effectively, and improve liquidity.
 
 - **Advantages**: Speed, efficiency, and reduced human error.
 - **Disadvantages**: Complexity and potential for systemic risks.

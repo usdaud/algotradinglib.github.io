@@ -6,7 +6,7 @@ Prospect Theory is a foundational concept in behavioral economics that explains 
 
 1. **Value Function**:
    - People evaluate outcomes based on a subjective value function that is concave for gains and convex for losses. This asymmetry means individuals are generally risk-averse when dealing with potential gains and risk-seeking when faced with potential losses.
-   - The value function is steeper for losses than for gains, reflecting loss aversion — the phenomenon where losses loom larger than gains of the same magnitude.
+   - The value function is steeper for losses than for gains, reflecting [loss aversion](../l/loss_aversion.md) — the phenomenon where losses loom larger than gains of the same magnitude.
 
 2. **Reference Dependence**:
    - Decisions are made based on changes relative to a reference point rather than on absolute outcomes. The reference point can be influenced by the individual's current state, expectations, or context.
@@ -14,7 +14,7 @@ Prospect Theory is a foundational concept in behavioral economics that explains 
 3. **Probability Weighting**:
    - People tend to overestimate the likelihood of extreme but unlikely events and underestimate the likelihood of moderate but more probable occurrences. This leads to a nonlinear probability weighting function.
 
-4. **Loss Aversion**:
+4. **[Loss Aversion](../l/loss_aversion.md)**:
    - Individuals exhibit a stronger emotional reaction to losses compared to gains. Empirical studies suggest that the pain of losing is psychologically about twice as powerful as the pleasure of gaining.
 
 5. **Certainty Effect**:
@@ -22,11 +22,11 @@ Prospect Theory is a foundational concept in behavioral economics that explains 
 
 #### Implications for Algo Trading
 
-Prospect Theory has crucial implications for algorithmic trading (algo trading), as it helps model and predict investor behavior and market dynamics. Traders and quant analysts can incorporate these behavioral insights into algorithms to better anticipate market movements and develop strategies that exploit inefficiencies created by human biases.
+Prospect Theory has crucial implications for [algorithmic trading](../a/algorithmic_trading.md) (algo trading), as it helps model and predict investor behavior and market dynamics. Traders and quant analysts can incorporate these behavioral insights into algorithms to better anticipate market movements and develop strategies that exploit inefficiencies created by human biases.
 
 #### Heuristics in Trading
 
-Heuristics are mental shortcuts or rules of thumb that simplify decision-making. In the context of trading, heuristics can lead to systematic biases but can also be harnessed to improve trading strategies.
+Heuristics are mental shortcuts or rules of thumb that simplify decision-making. In the context of trading, heuristics can lead to systematic biases but can also be harnessed to improve [trading strategies](../t/trading_strategies.md).
 
 1. **Anchoring**:
    - Traders might fixate on specific prices (anchoring) as reference points, leading to biased evaluations of market conditions. Algorithms can be designed to detect and counteract anchoring effects by relying on broader data analysis rather than fixed points.
@@ -39,16 +39,16 @@ Heuristics are mental shortcuts or rules of thumb that simplify decision-making.
 
 #### Practical Applications
 
-Several companies and platforms have successfully integrated Prospect Theory and heuristics into their algorithmic trading strategies:
+Several companies and platforms have successfully integrated Prospect Theory and heuristics into their [algorithmic trading](../a/algorithmic_trading.md) strategies:
 
 1. **QuantConnect**:
-   - [QuantConnect](https://www.quantconnect.com/) is an open-source algorithmic trading platform that allows traders to design, backtest, and deploy trading algorithms. It uses advanced data analytics to address behavioral biases explained by Prospect Theory.
+   - [QuantConnect](https://www.quantconnect.com/) is an open-source [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to design, backtest, and deploy [trading algorithms](../t/trading_algorithms.md). It uses advanced data analytics to address behavioral biases explained by Prospect Theory.
 
 2. **Kensho Technologies**:
    - [Kensho Technologies](https://home.kensho.com/) leverages machine learning and advanced analytics to interpret vast amounts of data and predicts market movements with an awareness of behavioral biases.
 
 3. **Sigmoid Capital**:
-   - [Sigmoid Capital](https://www.sigmoidcapital.com/) focuses on using behavioral economics to guide their investment strategies. They employ algorithms that account for investor sentiment and market psychology in their trading models.
+   - [Sigmoid Capital](https://www.sigmoidcapital.com/) focuses on using behavioral economics to guide their investment strategies. They employ algorithms that account for investor sentiment and market psychology in their [trading models](../t/trading_models.md).
 
 4. **Sentieo**:
    - [Sentieo](https://sentieo.com/) combines advanced financial data analytics with behavioral models to provide trade insights. Their platform allows traders to understand market sentiment influenced by heuristics and biases.
@@ -58,13 +58,13 @@ Several companies and platforms have successfully integrated Prospect Theory and
 While Prospect Theory has significantly advanced the understanding of human decision-making, it is not without criticisms:
 
 1. **Descriptive, Not Prescriptive**:
-   - The theory primarily describes how decisions are made rather than prescribing optimal decision rules. This limits its direct applicability in formulating trading strategies.
+   - The theory primarily describes how decisions are made rather than prescribing optimal decision rules. This limits its direct applicability in formulating [trading strategies](../t/trading_strategies.md).
 
 2. **Context Dependence**:
-   - The reference point is context-dependent and can change, making it challenging to model consistently in trading algorithms.
+   - The reference point is context-dependent and can change, making it challenging to model consistently in [trading algorithms](../t/trading_algorithms.md).
 
 3. **Complexity in Modeling**:
    - Accurately modeling Prospect Theory in algorithms involves sophisticated mathematics and can be computationally intensive.
 
-Despite these limitations, integrating insights from Prospect Theory and heuristics into algorithmic trading offers a more nuanced approach to understanding and predicting market behavior, ultimately leading to more robust trading strategies that can adapt to the nuances of human psychology.
+Despite these limitations, integrating insights from Prospect Theory and heuristics into [algorithmic trading](../a/algorithmic_trading.md) offers a more nuanced approach to understanding and predicting market behavior, ultimately leading to more robust [trading strategies](../t/trading_strategies.md) that can adapt to the nuances of human psychology.
 

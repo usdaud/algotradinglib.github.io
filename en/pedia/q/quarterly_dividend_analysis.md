@@ -14,7 +14,7 @@ For investors, quarterly dividends represent a consistent and potentially reliab
 3. **Dividend Growth Rate**: The rate at which a company has increased its dividend payouts over time. Companies that consistently grow their dividends may provide more reliable income streams.
 4. **Earnings Per Share (EPS)**: Since dividends are paid from earnings, the EPS can provide insight into the sustainability of dividend payments.
 5. **Cash Flow**: Strong cash flow is crucial for the continuity of dividend payments. A company with robust cash flow is better positioned to maintain or increase its dividend payments.
-6. **Economic Indicators**: Broader economic factors such as interest rates, inflation, and economic growth can impact a company’s ability to pay dividends.
+6. **[Economic Indicators](../e/economic_indicators.md)**: Broader economic factors such as interest rates, inflation, and economic growth can impact a company’s ability to pay dividends.
 
 ## Methods for Conducting Quarterly Dividend Analysis
 ### Historical Analysis

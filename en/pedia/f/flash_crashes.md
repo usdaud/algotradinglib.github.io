@@ -8,7 +8,7 @@ A **flash crash** is a phenomenon in financial markets where there is an extreme
 
 One of the most infamous examples of a flash crash occurred on May 6, 2010. On that day, the U.S. stock market experienced a sudden and violent drop, where the Dow Jones Industrial Average (DJIA) plummeted about 1,000 points (nearly 9%) within minutes, only to recover most of that loss shortly thereafter. This event was notable due to the combination of its severity and the speed at which it occurred, causing widespread panic among investors and exchanges.
 
-A detailed investigation by the U.S. Securities and Exchange Commission (SEC) and the Commodity Futures Trading Commission (CFTC) suggested that the flash crash was triggered by a large sell order of E-mini S&P 500 futures contracts by a single market participant, which overwhelmed the liquidity in the market. High-frequency trading (HFT) algorithms exacerbated the situation by creating a feedback loop of aggressive selling.
+A detailed investigation by the U.S. Securities and Exchange Commission (SEC) and the [Commodity Futures](../c/commodity_futures.md) Trading Commission (CFTC) suggested that the flash crash was triggered by a large sell order of E-mini S&P 500 [futures contracts](../f/futures_contracts.md) by a single market participant, which overwhelmed the liquidity in the market. High-frequency trading (HFT) algorithms exacerbated the situation by creating a feedback loop of aggressive selling.
 
 ### Other Notable Flash Crashes
 
@@ -19,21 +19,21 @@ A detailed investigation by the U.S. Securities and Exchange Commission (SEC) an
 
 ### Algorithmic Trading
 
-In contemporary financial markets, a significant volume of trading is conducted by computer algorithms. These algorithms execute trades based on pre-programmed criteria, including price movements, volume thresholds, and more. While algorithmic trading can enhance liquidity and efficiency, it also has the potential to create flash crashes, particularly when multiple algorithms react in unison to market events.
+In contemporary financial markets, a significant volume of trading is conducted by computer algorithms. These algorithms execute trades based on pre-programmed criteria, including price movements, volume thresholds, and more. While [algorithmic trading](../a/algorithmic_trading.md) can enhance liquidity and efficiency, it also has the potential to create flash crashes, particularly when multiple algorithms react in unison to market events.
 
 ### High-Frequency Trading (HFT)
 
-High-frequency trading is a subset of algorithmic trading that relies on extremely quick trade execution, often measured in microseconds. HFT strategies are designed to capitalize on minute price discrepancies across markets. During a flash crash, HFT algorithms can potentially magnify market movements by exiting positions en masse or rapidly changing orders, contributing to the rapid decline and recovery in prices.
+High-frequency trading is a subset of [algorithmic trading](../a/algorithmic_trading.md) that relies on extremely quick trade execution, often measured in microseconds. HFT strategies are designed to capitalize on minute price discrepancies across markets. During a flash crash, HFT algorithms can potentially magnify market movements by exiting positions en masse or rapidly changing orders, contributing to the rapid decline and recovery in prices.
 
 - Virtu Financial is a prominent player in the HFT space. [Virtu Financial](https://www.virtu.com/)
 
 ### Market Liquidity
 
-A flash crash often occurs when market liquidity evaporates suddenly. Liquidity refers to the ability to buy or sell assets without causing significant price changes. When a large sell order is placed in a market with low liquidity, it can cause prices to drop precipitously. Combined with algorithmic trading, this lack of liquidity can cascade into broader market disruptions.
+A flash crash often occurs when market liquidity evaporates suddenly. Liquidity refers to the ability to buy or sell assets without causing significant price changes. When a large sell order is placed in a market with low liquidity, it can cause prices to drop precipitously. Combined with [algorithmic trading](../a/algorithmic_trading.md), this lack of liquidity can cascade into broader market disruptions.
 
 ### Fat Finger Errors
 
-Human errors, commonly known as "fat finger" trades, can also spark flash crashes. These errors occur when a trader accidentally places an order of a much larger size than intended or at an incorrect price. Such errors can have outsized effects on thinly traded markets and can trigger automated responses from trading algorithms.
+Human errors, commonly known as "fat finger" trades, can also spark flash crashes. These errors occur when a trader accidentally places an order of a much larger size than intended or at an incorrect price. Such errors can have outsized effects on thinly traded markets and can trigger automated responses from [trading algorithms](../t/trading_algorithms.md).
 
 ## Regulatory Responses and Measures
 
@@ -47,7 +47,7 @@ In the United States, the National Market System (NMS) implemented the Limit-Up/
 
 ### Post-Trade Analysis and Reporting
 
-Post-trade analysis and reporting systems have also been bolstered to better understand and address the causes of flash crashes. Exchanges and regulatory bodies analyze massive volumes of trade data to identify patterns and pinpoint potential triggers, which helps in refining existing controls and introducing new safeguards.
+[Post-trade analysis](../p/post-trade_analysis.md) and reporting systems have also been bolstered to better understand and address the causes of flash crashes. Exchanges and regulatory bodies analyze massive volumes of trade data to identify patterns and pinpoint potential triggers, which helps in refining existing controls and introducing new safeguards.
 
 - The SEC maintains an ongoing oversight on market practices. [U.S. Securities and Exchange Commission](https://www.sec.gov/)
 
@@ -59,17 +59,17 @@ In response to flash crashes, many trading firms have developed more sophisticat
 
 ### AI and Machine Learning
 
-Advancements in artificial intelligence (AI) and machine learning are also being leveraged to predict and mitigate flash crashes. By analyzing historical data and identifying patterns, machine learning models can forecast when market conditions might lead to a flash crash and adjust trading strategies accordingly.
+Advancements in artificial intelligence (AI) and machine learning are also being leveraged to predict and mitigate flash crashes. By analyzing historical data and identifying patterns, machine learning models can forecast when market conditions might lead to a flash crash and adjust [trading strategies](../t/trading_strategies.md) accordingly.
 
 ### Collaboration Across Markets
 
-There is an increasing trend toward collaboration among global exchanges to coordinate responses to extreme volatility events. Such collaborations enable quicker information sharing and more coordinated risk management strategies, helping to stabilize markets during times of unexpected price movements.
+There is an increasing trend toward collaboration among global exchanges to coordinate responses to extreme volatility events. Such collaborations enable quicker information sharing and more coordinated [risk management](../r/risk_management.md) strategies, helping to stabilize markets during times of unexpected price movements.
 
 ## Implications for Investors
 
 ### Risk Management
 
-For individual investors, flash crashes underscore the importance of robust risk management strategies. This includes setting stop-loss orders, diversifying portfolios, and maintaining a clear understanding of market conditions. Being prepared for sudden volatility is crucial to avoiding significant financial losses.
+For individual investors, flash crashes underscore the importance of robust [risk management](../r/risk_management.md) strategies. This includes setting [stop-loss orders](../s/stop-loss_orders.md), diversifying portfolios, and maintaining a clear understanding of market conditions. Being prepared for sudden volatility is crucial to avoiding significant financial losses.
 
 ### Psychological Impact
 
@@ -77,7 +77,7 @@ Flash crashes can have a profound psychological impact on investors. Fear and un
 
 ### Institutional Investors
 
-Institutional investors, including mutual funds and pension funds, are also affected by flash crashes. These entities often hold large positions that can be severely impacted by rapid price changes. Institutions must employ sophisticated trading and risk management strategies to navigate the heightened volatility associated with flash crashes.
+Institutional investors, including mutual funds and pension funds, are also affected by flash crashes. These entities often hold large positions that can be severely impacted by rapid price changes. Institutions must employ sophisticated trading and [risk management](../r/risk_management.md) strategies to navigate the heightened volatility associated with flash crashes.
 
 ## The Future of Flash Crashes
 
@@ -87,7 +87,7 @@ Continuous monitoring and analysis will be essential in preventing and managing 
 
 ### Evolution of Market Structures
 
-Financial markets are likely to continue evolving, with new trading platforms, digital assets, and cross-market dependencies emerging. These changes will require ongoing adaptation of risk management practices and regulatory frameworks to address the unique challenges posed by these innovations.
+Financial markets are likely to continue evolving, with new trading platforms, digital assets, and cross-market dependencies emerging. These changes will require ongoing adaptation of [risk management](../r/risk_management.md) practices and regulatory frameworks to address the unique challenges posed by these innovations.
 
 ### Education and Awareness
 

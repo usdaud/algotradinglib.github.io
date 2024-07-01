@@ -1,10 +1,10 @@
 # Unit Root in Time Series
 
-A unit root in a time series indicates that the series is non-stationary but may be transformed to be stationary. The presence of a unit root in a stochastic process implies that shocks to the system have a permanent effect and thus do not dissipate over time. Understanding whether a financial time series has a unit root is crucial in algorithmic trading as it impacts the modeling and forecasting of time series data.
+A unit root in a time series indicates that the series is non-stationary but may be transformed to be stationary. The presence of a unit root in a stochastic process implies that shocks to the system have a permanent effect and thus do not dissipate over time. Understanding whether a [financial time series](../f/financial_time_series.md) has a unit root is crucial in [algorithmic trading](../a/algorithmic_trading.md) as it impacts the modeling and forecasting of time series data.
 
 ## Definition and Implications
 
-In time series analysis, a unit root signifies that a series can be written as:
+In [time series analysis](../t/time_series_analysis.md), a unit root signifies that a series can be written as:
 \[ y_t = \rho y_{t-1} + \epsilon_t \]
 where \( \rho = 1 \) and \( \epsilon_t \) is a white noise error term. If \( |\rho| < 1 \), the series is stationary. If \( \rho = 1 \), the series follows a random walk, and if \( |\rho| > 1 \), the series is explosive.
 
@@ -16,8 +16,8 @@ When analyzing financial data such as stock prices, interest rates, or exchange 
 ## Testing for Unit Root
 
 There are several tests to determine the presence of a unit root in a time series. These include:
-- **Augmented Dickey-Fuller (ADF) Test**: An extension of the Dickey-Fuller test, which includes higher lag terms to account for autocorrelation.
-- **Phillips-Perron (PP) Test**: Adjusts the test statistics to account for autocorrelation and heteroskedasticity.
+- **Augmented Dickey-Fuller (ADF) Test**: An extension of the Dickey-Fuller test, which includes higher lag terms to account for [autocorrelation](../a/autocorrelation.md).
+- **Phillips-Perron (PP) Test**: Adjusts the test statistics to account for [autocorrelation](../a/autocorrelation.md) and heteroskedasticity.
 - **KPSS Test**: Tests the null hypothesis that an observable time series is stationary around a deterministic trend.
 
 ### Augmented Dickey-Fuller (ADF) Test
@@ -37,7 +37,7 @@ Conversely, the KPSS test considers the null hypothesis that the series is stati
 
 ## Practical Application
 
-In algorithmic trading, recognizing and transforming non-stationary data is essential for building reliable forecasting models. Let's delve into the practical aspects:
+In [algorithmic trading](../a/algorithmic_trading.md), recognizing and transforming non-stationary data is essential for building reliable [forecasting models](../f/forecasting_models.md). Let's delve into the practical aspects:
 
 ### Differencing
 
@@ -75,15 +75,15 @@ Some challenges faced while detecting and modeling unit root processes include:
 
 ## Real-World Examples and Applications
 
-Unit roots in financial time series have practical implications:
+Unit roots in [financial time series](../f/financial_time_series.md) have practical implications:
 - **Stock Price Modeling**: Stock prices often follow a random walk, implying they have a unit root. Models like the Random Walk Hypothesis are built around this concept.
-- **Interest Rate Forecasting**: Interest rates often exhibit unit root behavior. Models such as Vector Autoregression (VAR) that account for cointegration are often employed.
-- **Economic Indicators**: GDP, inflation rates, etc., usually have unit roots due to material dependencies on past values.
+- **[Interest Rate Forecasting](../i/interest_rate_forecasting.md)**: Interest rates often exhibit unit root behavior. Models such as Vector Autoregression (VAR) that account for cointegration are often employed.
+- **[Economic Indicators](../e/economic_indicators.md)**: GDP, inflation rates, etc., usually have unit roots due to material dependencies on past values.
 
 ### Case Study: AlgoTrader
 
-AlgoTrader (https://www.algotrader.com/) is a comprehensive algorithmic trading platform that leverages various statistical and machine learning techniques to analyze and utilize financial time series data. Understanding unit roots and transforming non-stationary data is crucial for improving prediction accuracy and model robustness.
+AlgoTrader (https://www.algotrader.com/) is a comprehensive [algorithmic trading](../a/algorithmic_trading.md) platform that leverages various statistical and machine learning techniques to analyze and utilize [financial time series](../f/financial_time_series.md) data. Understanding unit roots and transforming non-stationary data is crucial for improving prediction accuracy and model robustness.
 
 ---
 
-In conclusion, a unit root in time series signals non-stationarity, necessitating specific tests and methodologies to accurately model and forecast financial data. Identifying and addressing unit roots are foundational steps for algorithmic traders striving to develop effective trading strategies.
+In conclusion, a unit root in time series signals non-stationarity, necessitating specific tests and methodologies to accurately model and forecast financial data. Identifying and addressing unit roots are foundational steps for algorithmic traders striving to develop effective [trading strategies](../t/trading_strategies.md).

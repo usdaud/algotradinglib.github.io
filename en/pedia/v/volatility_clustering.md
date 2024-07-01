@@ -1,6 +1,6 @@
 # Volatility Clustering
 
-Volatility clustering is a term commonly used in financial markets to describe the phenomenon where large changes in asset prices are followed by large changes, and small changes are followed by small changes, over a period of time. This pattern indicates that volatility, or the degree of variation in the price of a financial instrument over time, tends to cluster in specific periods. Understanding volatility clustering is essential for traders, risk managers, and anyone involved in the financial markets. It helps in developing better forecasting models, improving risk management techniques, and crafting more effective trading strategies.
+Volatility clustering is a term commonly used in financial markets to describe the phenomenon where large changes in asset prices are followed by large changes, and small changes are followed by small changes, over a period of time. This pattern indicates that volatility, or the degree of variation in the price of a financial instrument over time, tends to cluster in specific periods. Understanding volatility clustering is essential for traders, risk managers, and anyone involved in the financial markets. It helps in developing better [forecasting models](../f/forecasting_models.md), improving [risk management](../r/risk_management.md) techniques, and crafting more effective [trading strategies](../t/trading_strategies.md).
 
 ## Key Concepts
 
@@ -30,21 +30,21 @@ The Generalized Autoregressive Conditional Heteroskedasticity (GARCH) model is a
 
 ### Stochastic Volatility Models
 
-Stochastic volatility models assume that volatility itself follows a random process. These models usually involve more complex mathematics but offer a more in-depth analysis of the randomness in volatility movements.
+[Stochastic volatility models](../s/stochastic_volatility_models.md) assume that volatility itself follows a random process. These models usually involve more complex mathematics but offer a more in-depth analysis of the randomness in volatility movements.
 
 ### RiskMetrics
 
-RiskMetrics is a set of techniques for calculating and managing risk in financial portfolios. Its volatility models use exponentially weighted moving averages (EWMA) to capture volatility clustering.
+RiskMetrics is a set of techniques for calculating and managing risk in financial portfolios. Its [volatility models](../v/volatility_models.md) use exponentially weighted moving averages (EWMA) to capture volatility clustering.
 
 ## Practical Implications
 
 ### Risk Management
 
-Understanding and predicting volatility clustering can have significant implications for risk management. By anticipating periods of high volatility, firms can adjust their risk exposure and hedge their portfolios more effectively. 
+Understanding and predicting volatility clustering can have significant implications for [risk management](../r/risk_management.md). By anticipating periods of high volatility, firms can adjust their risk exposure and hedge their portfolios more effectively. 
 
 ### Algorithmic Trading
 
-In algorithmic trading, strategies that take into account volatility clustering can be more optimal, as they adjust automatically to changing market conditions. For instance, during periods of high volatility, algorithms might reduce position sizes to mitigate risks.
+In [algorithmic trading](../a/algorithmic_trading.md), strategies that take into account volatility clustering can be more optimal, as they adjust automatically to changing market conditions. For instance, during periods of high volatility, algorithms might reduce position sizes to mitigate risks.
 
 ### Portfolio Optimization
 
@@ -53,7 +53,7 @@ By factoring in volatility forecasts, portfolio managers can better balance thei
 ## Companies Specialized in Volatility Modelling
 
 ### QuantConnect
-QuantConnect is a platform that provides algorithmic trading services. It allows users to develop and backtest their trading strategies in a robust and scalable environment. The platform supports multiple financial instruments and includes capabilities for implementing models that account for volatility clustering.
+QuantConnect is a platform that provides [algorithmic trading](../a/algorithmic_trading.md) services. It allows users to develop and backtest their [trading strategies](../t/trading_strategies.md) in a robust and scalable environment. The platform supports multiple financial instruments and includes capabilities for implementing models that account for volatility clustering.
 Website: [QuantConnect](https://www.quantconnect.com/)
 
 ### Numerai
@@ -61,15 +61,15 @@ Numerai is a crowd-sourced hedge fund where data scientists from around the worl
 Website: [Numerai](https://numer.ai/)
 
 ### QuantInsti
-QuantInsti offers educational resources and tools for individuals interested in learning about algorithmic trading. Their curriculum often includes topics such as volatility clustering and how it impacts trading strategies.
+QuantInsti offers educational resources and tools for individuals interested in learning about [algorithmic trading](../a/algorithmic_trading.md). Their curriculum often includes topics such as volatility clustering and how it impacts [trading strategies](../t/trading_strategies.md).
 Website: [QuantInsti](https://www.quantinsti.com/)
 
 ### Axioma (part of Qontigo)
-Axioma, now part of Qontigo, provides enterprise-level risk management tools that integrate volatility clustering models. These tools are used by asset managers to optimize portfolios and manage risk effectively.
+Axioma, now part of Qontigo, provides enterprise-level [risk management](../r/risk_management.md) tools that integrate volatility clustering models. These tools are used by asset managers to optimize portfolios and manage risk effectively.
 Website: [Qontigo Axioma](https://qontigo.com/asset-owners-axioma-risk/)
 
 ### MSCI Barra
-MSCI Barra offers various risk and performance analytics tools, incorporating advanced statistical models, including those accounting for volatility clustering, to help portfolio managers and analysts make informed investment decisions.
+MSCI Barra offers various risk and [performance analytics](../p/performance_analytics.md) tools, incorporating advanced statistical models, including those accounting for volatility clustering, to help portfolio managers and analysts make informed investment decisions.
 Website: [MSCI](https://www.msci.com/barra)
 
 ## Challenges and Limitations
@@ -84,7 +84,7 @@ Advanced models like stochastic volatility are computationally intensive, which 
 
 ### Fat Tails and Black Swans
 
-Volatility clustering models often assume normally distributed returns, which is not always the case. Fat tails and black swan events (extreme outliers) are difficult to predict and can have significant impacts.
+Volatility clustering models often assume normally distributed returns, which is not always the case. Fat tails and [black swan events](../b/black_swan_events.md) (extreme outliers) are difficult to predict and can have significant impacts.
 
 ## Future Directions
 
@@ -98,8 +98,8 @@ As computational power increases, real-time analytics for volatility clustering 
 
 ### Integrated Financial Systems
 
-The future may see more integrated financial systems where volatility clustering models are part of broader decision-making frameworks, improving everything from trade execution to portfolio management.
+The future may see more integrated financial systems where volatility clustering models are part of broader decision-making frameworks, improving everything from trade execution to [portfolio management](../p/portfolio_management.md).
 
 ## Conclusion
 
-Volatility clustering is a crucial concept in the field of financial markets, impacting everything from risk management to trading strategies. While traditional statistical models like GARCH still hold significance, new techniques involving machine learning and real-time analytics are paving the way for more accurate and efficient approaches. As computational capabilities evolve, so too will our ability to understand and predict volatility, making financial markets more predictable and less susceptible to unanticipated risks.
+Volatility clustering is a crucial concept in the field of financial markets, impacting everything from [risk management](../r/risk_management.md) to [trading strategies](../t/trading_strategies.md). While traditional statistical models like GARCH still hold significance, new techniques involving machine learning and real-time analytics are paving the way for more accurate and efficient approaches. As computational capabilities evolve, so too will our ability to understand and predict volatility, making financial markets more predictable and less susceptible to unanticipated risks.

@@ -1,10 +1,10 @@
 # Smart Beta
 
-Smart Beta is an investment strategy that blends elements of traditional passive investing with active investing approaches. The primary goal of Smart Beta strategies is to improve returns, reduce risk, and enhance the diversification of investments by using advanced criteria that deviate from conventional market capitalization-based indexes.
+Smart Beta is an investment strategy that blends elements of traditional passive investing with active investing approaches. The primary goal of [Smart Beta strategies](../s/smart_beta_strategies.md) is to improve returns, reduce risk, and enhance the diversification of investments by using advanced criteria that deviate from conventional market capitalization-based indexes.
 
 ## Introduction
 
-Smart Beta strategies often use alternative weighting schemes based on various fundamental, technical, and value metrics, such as volatility, dividends, and revenue, among others. These strategies are designed to capitalize on specific factors consistently linked to superior risk-adjusted returns.
+[Smart Beta strategies](../s/smart_beta_strategies.md) often use alternative weighting schemes based on various fundamental, technical, and value metrics, such as volatility, dividends, and revenue, among others. These strategies are designed to capitalize on specific factors consistently linked to superior risk-adjusted returns.
 
 ## Types of Smart Beta Strategies
 
@@ -18,7 +18,7 @@ Equal weighting involves assigning equal weights to each of the index's constitu
 
 ### Low Volatility
 
-Low-volatility strategies aim to invest in stocks with lower price fluctuations, providing more stable returns. This technique reduces exposure to risky assets and has historically offered better risk-adjusted returns. Low-volatility indices may focus on stocks with lower historical volatility or those exhibiting specific volatility patterns.
+Low-volatility strategies aim to invest in stocks with lower price fluctuations, providing more stable returns. This technique reduces exposure to risky assets and has historically offered better risk-adjusted returns. Low-volatility indices may focus on stocks with lower [historical volatility](../h/historical_volatility.md) or those exhibiting specific volatility patterns.
 
 ### Momentum
 
@@ -26,24 +26,24 @@ Momentum-based strategies focus on stocks that have demonstrated a strong upward
 
 ### Quality
 
-Quality-driven Smart Beta strategies prioritize investments in companies with superior quality metrics, such as high return on equity, stable earnings growth, or low debt levels. These strategies seek to capture the outperformance of high-quality companies over the long term while minimizing the risks associated with lower-quality firms.
+Quality-driven [Smart Beta strategies](../s/smart_beta_strategies.md) prioritize investments in companies with superior quality metrics, such as high return on equity, stable earnings growth, or low debt levels. These strategies seek to capture the outperformance of high-quality companies over the long term while minimizing the risks associated with lower-quality firms.
 
 ### Yield
 
-Yield-focused Smart Beta strategies allocate investments based on dividend yields, aiming to provide consistent income streams. This approach can be especially appealing to income-seeking investors, as it focuses on stocks or assets delivering relatively higher dividends.
+Yield-focused [Smart Beta strategies](../s/smart_beta_strategies.md) allocate investments based on dividend yields, aiming to provide consistent income streams. This approach can be especially appealing to income-seeking investors, as it focuses on stocks or assets delivering relatively higher dividends.
 
 ## Advantages of Smart Beta
 
-- **Enhanced Diversification**: By employing alternative weighting methods and focusing on specific factors, Smart Beta strategies can improve portfolio diversification compared to traditional market-cap weighted indices.
+- **Enhanced Diversification**: By employing alternative weighting methods and focusing on specific factors, [Smart Beta strategies](../s/smart_beta_strategies.md) can improve [portfolio diversification](../p/portfolio_diversification.md) compared to traditional market-cap weighted indices.
 - **Improved Returns**: These strategies aim to capture specific risk premiums associated with various factors, potentially leading to superior returns over traditional passive investing.
-- **Risk Reduction**: Many Smart Beta strategies, such as low-volatility and quality-focused approaches, aim to reduce portfolio risk by focusing on less volatile or higher-quality securities.
-- **Transparency**: Smart Beta strategies typically follow systematic, rules-based methodologies, which add a level of transparency and predictability to investment decisions.
+- **Risk Reduction**: Many [Smart Beta strategies](../s/smart_beta_strategies.md), such as low-volatility and quality-focused approaches, aim to reduce portfolio risk by focusing on less volatile or higher-quality securities.
+- **Transparency**: [Smart Beta strategies](../s/smart_beta_strategies.md) typically follow systematic, rules-based methodologies, which add a level of transparency and predictability to investment decisions.
 
 ## Risks and Challenges
 
-- **Potential for Underperformance**: Although Smart Beta strategies aim to outperform traditional indices, there can be periods when specific factors underperform the market.
+- **Potential for Underperformance**: Although [Smart Beta strategies](../s/smart_beta_strategies.md) aim to outperform traditional indices, there can be periods when specific factors underperform the market.
 - **Complexity**: The strategies often involve complex methodologies, which may be challenging for some investors to understand and implement.
-- **Cost**: Smart Beta strategies might involve higher costs than traditional passive funds due to the need for active management in selecting and rebalancing assets.
+- **Cost**: [Smart Beta strategies](../s/smart_beta_strategies.md) might involve higher costs than traditional passive funds due to the need for active management in selecting and rebalancing assets.
 
 ## Prominent Smart Beta Providers
 
@@ -64,4 +64,4 @@ Yield-focused Smart Beta strategies allocate investments based on dividend yield
 
 ## Conclusion
 
-Smart Beta represents a hybrid approach to investing that leverages the benefits of both passive and active management. By focusing on specific investment factors, Smart Beta strategies aim to enhance returns, reduce risks, and improve diversification. While they offer numerous advantages, potential risks and complexities should be carefully considered when incorporating Smart Beta strategies into an investment portfolio.
+Smart Beta represents a hybrid approach to investing that leverages the benefits of both passive and active management. By focusing on specific investment factors, [Smart Beta strategies](../s/smart_beta_strategies.md) aim to enhance returns, reduce risks, and improve diversification. While they offer numerous advantages, potential risks and complexities should be carefully considered when incorporating [Smart Beta strategies](../s/smart_beta_strategies.md) into an investment portfolio.

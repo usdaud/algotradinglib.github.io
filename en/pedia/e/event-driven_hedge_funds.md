@@ -1,12 +1,12 @@
 # Event-Driven Hedge Funds
 
-Event-driven hedge funds constitute a type of investment strategy that attempts to exploit market inefficiencies that arise from company-specific or macroeconomic events. These events may include mergers and acquisitions (M&A), corporate restructuring, earnings announcements, bankruptcies, spin-offs, or any situation that can lead to a temporary mispricing of a company's securities. Event-driven hedge funds play a critical role in financial markets, providing liquidity and arbitrage opportunities, and they have garnered significant interest and capital in recent years. 
+Event-driven hedge funds constitute a type of investment strategy that attempts to exploit market inefficiencies that arise from company-specific or macroeconomic events. These events may include mergers and acquisitions (M&A), corporate restructuring, [earnings announcements](../e/earnings_announcements.md), bankruptcies, spin-offs, or any situation that can lead to a temporary mispricing of a company's securities. Event-driven hedge funds play a critical role in financial markets, providing liquidity and [arbitrage](../a/arbitrage.md) opportunities, and they have garnered significant interest and capital in recent years. 
 
 ## Types of Event-Driven Strategies
 
 ### 1. Merger Arbitrage
 
-Merger arbitrage, also known as risk arbitrage, focuses on the discrepancies between the market price of a target company's stock and the acquisition price offered by the acquirer in a merger or acquisition deal. Typically, the target company's stock trades below the acquisition price due to the uncertainty associated with deal consummation. An event-driven hedge fund will go long on the target's stock and may short the acquirer's stock to hedge against deal risk. If the deal proceeds as expected, the target's stock price should converge to the acquisition price, yielding a profit for the fund.
+Merger [arbitrage](../a/arbitrage.md), also known as risk [arbitrage](../a/arbitrage.md), focuses on the discrepancies between the market price of a target company's stock and the acquisition price offered by the acquirer in a merger or acquisition deal. Typically, the target company's stock trades below the acquisition price due to the uncertainty associated with deal consummation. An event-driven hedge fund will go long on the target's stock and may short the acquirer's stock to hedge against deal risk. If the deal proceeds as expected, the target's stock price should converge to the acquisition price, yielding a profit for the fund.
 
 ### 2. Distressed Securities Investing
 
@@ -44,7 +44,7 @@ King Street Capital Management, founded by Brian Higgins and O. Francis Biondi, 
 
 ### York Capital Management
 
-York Capital Management, founded by Jamie Dinan in 1991, focuses on event-driven strategies, including merger arbitrage, distressed investing, and special situations. York Capital is known for its disciplined investment approach and has been involved in various high-profile transactions and restructuring efforts. [York Capital Management](https://www.yorkcapital.com/)
+York Capital Management, founded by Jamie Dinan in 1991, focuses on event-driven strategies, including merger [arbitrage](../a/arbitrage.md), distressed investing, and special situations. York Capital is known for its disciplined investment approach and has been involved in various high-profile transactions and restructuring efforts. [York Capital Management](https://www.yorkcapital.com/)
 
 ## Risks Associated with Event-Driven Hedge Funds
 
@@ -52,7 +52,7 @@ Event-driven strategies are inherently risky due to their reliance on the succes
 
 ### 1. Deal Break Risk
 
-In merger arbitrage, there is always the risk that the proposed deal will not go through due to regulatory hurdles, financing issues, or shareholder opposition. Such outcomes can result in significant losses as the target's stock price may plummet.
+In merger [arbitrage](../a/arbitrage.md), there is always the risk that the proposed deal will not go through due to regulatory hurdles, financing issues, or shareholder opposition. Such outcomes can result in significant losses as the target's stock price may plummet.
 
 ### 2. Event Timing
 
@@ -72,6 +72,6 @@ In distressed securities investing, there is a high degree of credit risk, espec
 
 ## Conclusion 
 
-Event-driven hedge funds constitute a dynamic and complex investment strategy aiming to exploit temporary market inefficiencies caused by corporate and macroeconomic events. The strategies deployed by these funds, such as merger arbitrage, distressed securities investing, spin-offs, and special situations, all require deep expertise, robust risk management, and a profound understanding of market mechanics. While the potential returns can be significant, the associated risks necessitate a careful and informed approach.
+Event-driven hedge funds constitute a dynamic and complex investment strategy aiming to exploit temporary market inefficiencies caused by corporate and macroeconomic events. The strategies deployed by these funds, such as merger [arbitrage](../a/arbitrage.md), distressed securities investing, spin-offs, and special situations, all require deep expertise, robust [risk management](../r/risk_management.md), and a profound understanding of market mechanics. While the potential returns can be significant, the associated risks necessitate a careful and informed approach.
 
 Event-driven hedge funds such as Elliott Management Corporation, Pershing Square Capital Management, Third Point LLC, King Street Capital Management, and York Capital Management exemplify the diverse approaches and significant influence of these funds in the financial markets.

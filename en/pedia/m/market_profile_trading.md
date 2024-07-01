@@ -1,6 +1,6 @@
 # Market Profile Trading
 
-Market Profile Trading is a technical analysis tool used by traders to understand the distribution of price over a specific time period. Developed by Peter Steidlmayer, a trader at the Chicago Board of Trade (CBOT), Market Profile Trading provides a unique perspective on the market dynamics and helps traders identify key price levels, market trends, and potential trading opportunities. The methodology revolves around the concept of organizing price and time data into a distribution curve, allowing traders to analyze the behavior of market participants.
+Market Profile Trading is a [technical analysis](../t/technical_analysis.md) tool used by traders to understand the distribution of price over a specific time period. Developed by Peter Steidlmayer, a trader at the Chicago Board of Trade (CBOT), Market Profile Trading provides a unique perspective on the market dynamics and helps traders identify [key price levels](../k/key_price_levels.md), market trends, and potential trading opportunities. The methodology revolves around the concept of organizing price and time data into a distribution curve, allowing traders to analyze the behavior of market participants.
 
 ## Historical Background and Development
 
@@ -58,7 +58,7 @@ Market Profile provides a clear and transparent view of market activity, reveali
 
 ### Identification of Key Price Levels
 
-By highlighting the Initial Balance, Value Area, and Point of Control, Market Profile identifies critical price levels that influence market behavior. Traders can use these levels as reference points for setting entry, exit, and stop-loss orders.
+By highlighting the Initial Balance, Value Area, and Point of Control, Market Profile identifies critical price levels that influence market behavior. Traders can use these levels as reference points for setting entry, exit, and [stop-loss orders](../s/stop-loss_orders.md).
 
 ### Improved Trade Management
 
@@ -66,11 +66,11 @@ Market Profile’s structured approach helps traders manage their trades more ef
 
 ### Insights into Market Behavior
 
-The visualization of time and price data provides valuable insights into market participants' behavior. Traders can gauge the strength of trends, identify consolidation patterns, and anticipate potential breakouts or reversals.
+The visualization of time and price data provides valuable insights into market participants' behavior. Traders can gauge the strength of trends, identify [consolidation patterns](../c/consolidation_patterns.md), and anticipate potential breakouts or reversals.
 
 ## Market Profile Trading Strategies
 
-Several trading strategies leverage Market Profile’s insights to capitalize on market opportunities:
+Several [trading strategies](../t/trading_strategies.md) leverage Market Profile’s insights to capitalize on market opportunities:
 
 ### Trend Following
 

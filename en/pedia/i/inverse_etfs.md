@@ -1,16 +1,16 @@
 # Inverse ETFs
 
-Inverse Exchange-Traded Funds (ETFs) are financial instruments that allow investors to profit from a decline in the value of a specific benchmark. They achieve this by using various derivatives, such as swaps, options, and futures contracts, to deliver returns that are the inverse of the performance of the underlying index or asset. In other words, if the benchmark falls by a certain percentage, the inverse ETF is designed to rise by that same percentage, and vice versa. These instruments are often used by traders looking to hedge their portfolios, speculate on market downturns, or gain short-term profit opportunities.
+Inverse Exchange-Traded Funds (ETFs) are financial instruments that allow investors to profit from a decline in the value of a specific benchmark. They achieve this by using various [derivatives](../d/derivatives.md), such as swaps, options, and [futures contracts](../f/futures_contracts.md), to deliver returns that are the inverse of the performance of the underlying index or asset. In other words, if the benchmark falls by a certain percentage, the inverse ETF is designed to rise by that same percentage, and vice versa. These instruments are often used by traders looking to hedge their portfolios, speculate on market downturns, or gain short-term profit opportunities.
 
 ## How Inverse ETFs Work
 
-Inverse ETFs utilize financial derivatives to achieve their investment objectives. These derivatives include:
+Inverse ETFs utilize financial [derivatives](../d/derivatives.md) to achieve their investment objectives. These [derivatives](../d/derivatives.md) include:
 
 ### 1. Swaps
 Swaps are contracts between two parties to exchange cash flows or other financial instruments. Inverse ETFs generally use equity swaps where one party agrees to pay the returns of an index while the other party agrees to pay the returns of another asset or rate of interest.
 
 ### 2. Futures Contracts
-Futures are standardized contracts to buy or sell a particular asset at a pre-determined price at a specified time in the future. Inverse ETFs often use futures contracts to bet against a particular benchmark.
+Futures are standardized contracts to buy or sell a particular asset at a pre-determined price at a specified time in the future. Inverse ETFs often use [futures contracts](../f/futures_contracts.md) to bet against a particular benchmark.
 
 ### 3. Options
 Options give investors the right but not the obligation to buy or sell an asset at a specified price before or on a specific date. Inverse ETFs can use options to bet against the price of an index.
@@ -48,10 +48,10 @@ Inverse ETFs are designed to provide inverse performance on a daily basis. Their
 Inverse ETFs that use leverage, such as double or triple inverse ETFs, amplify potential returns as well as potential losses. This makes them highly volatile.
 
 ### 3. Complexity
-The use of derivatives makes these ETFs complex and difficult to understand for the average investor. 
+The use of [derivatives](../d/derivatives.md) makes these ETFs complex and difficult to understand for the average investor. 
 
 ### 4. Costs
-Inverse ETFs usually have higher expense ratios compared to traditional ETFs due to the costs associated with the derivatives they use.
+Inverse ETFs usually have higher expense ratios compared to traditional ETFs due to the costs associated with the [derivatives](../d/derivatives.md) they use.
 
 ## Examples of Inverse ETFs
 

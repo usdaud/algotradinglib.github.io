@@ -1,6 +1,6 @@
 # Time Decay Strategies
 
-In the domain of algorithmic trading, various strategies are employed to capitalize on particular market dynamics. One such strategy revolves around the concept of time decay, a crucial factor in options trading which measures the erosion of an option's value as it approaches its expiration date. Time decay strategies exploit the predictable nature of this decay to generate profits. This document delves into the methodologies, risks, tools, and real-life applications of time decay strategies in algorithmic trading. 
+In the domain of [algorithmic trading](../a/algorithmic_trading.md), various strategies are employed to capitalize on particular market dynamics. One such strategy revolves around the concept of time decay, a crucial factor in options trading which measures the erosion of an option's value as it approaches its expiration date. Time decay strategies exploit the predictable nature of this decay to generate profits. This document delves into the methodologies, risks, tools, and real-life applications of time decay strategies in [algorithmic trading](../a/algorithmic_trading.md). 
 
 ## Introduction to Time Decay
 
@@ -22,32 +22,32 @@ Theta decay quantifies how time decay affects the price of an option. For instan
 Time decay strategies include various methodologies designed to exploit the diminishing value of options. Some of the most common strategies are:
 
 ### 1. **Short Straddle**
-A short straddle involves selling both a call and a put option at the same strike price and expiration date. This strategy profits from time decay if the underlying asset stays near the strike price, resulting in both options expiring worthless.
+A [short straddle](../s/short_straddle.md) involves selling both a call and a put option at the same strike price and expiration date. This strategy profits from time decay if the underlying asset stays near the strike price, resulting in both options expiring worthless.
 
 ### 2. **Short Strangle**
-Similar to a short straddle, a short strangle involves selling out-of-the-money call and put options. This strategy is slightly less risky than a short straddle since the break-even points are further apart, but it still profits from time decay.
+Similar to a [short straddle](../s/short_straddle.md), a [short strangle](../s/short_strangle.md) involves selling out-of-the-money call and [put options](../p/put_options.md). This strategy is slightly less risky than a [short straddle](../s/short_straddle.md) since the break-even points are further apart, but it still profits from time decay.
 
 ### 3. **Iron Condor**
-An iron condor involves selling a short strangle and protecting it by buying further out-of-the-money options. This strategy profits from time decay while limiting potential losses, making it a more risk-managed approach.
+An [iron condor](../i/iron_condor.md) involves selling a [short strangle](../s/short_strangle.md) and protecting it by buying further [out-of-the-money options](../o/out-of-the-money_options.md). This strategy profits from time decay while limiting potential losses, making it a more risk-managed approach.
 
 ### 4. **Butterfly Spread**
-A butterfly spread involves selling two at-the-money options and buying one in-the-money and one out-of-the-money option. This strategy profits if the underlying asset remains fairly stable, benefiting from time decay.
+A [butterfly spread](../b/butterfly_spread.md) involves selling two at-the-money options and buying one in-the-money and one out-of-the-money option. This strategy profits if the underlying asset remains fairly stable, benefiting from time decay.
 
 ### 5. **Calendar Spread**
 A calendar spread entails selling a near-term option and buying a long-term option on the same underlying asset with the same strike price. This strategy leverages the different rates of time decay between the two options.
 
 ## Implementing Time Decay Strategies
 
-Algorithmic trading platforms provide advanced tools to implement time decay strategies effectively. Some popular platforms include:
+[Algorithmic trading](../a/algorithmic_trading.md) platforms provide advanced tools to implement time decay strategies effectively. Some popular platforms include:
 
 ### 1. **ThinkOrSwim by TD Ameritrade**
 [ThinkOrSwim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page) offers sophisticated tools for options analysis and strategy implementation, including customizable algorithms for time decay strategies.
 
 ### 2. **Interactive Brokers**
-[Interactive Brokers](https://www.interactivebrokers.com/) provides an extensive suite of algorithmic trading features and options strategy tools, making it suitable for executing time decay strategies.
+[Interactive Brokers](https://www.interactivebrokers.com/) provides an extensive suite of [algorithmic trading](../a/algorithmic_trading.md) features and options strategy tools, making it suitable for executing time decay strategies.
 
 ### 3. **TradeStation**
-[TradeStation](https://www.tradestation.com/) offers robust algorithmic trading capabilities, including options strategy backtesting and real-time analysis tools.
+[TradeStation](https://www.tradestation.com/) offers robust [algorithmic trading](../a/algorithmic_trading.md) capabilities, including options strategy [backtesting](../b/backtesting.md) and real-time analysis tools.
 
 ## Risks Involved
 
@@ -55,21 +55,21 @@ While time decay strategies offer numerous benefits, they come with inherent ris
 
 - **Market Volatility**: Sudden, large movements in the underlying asset's price can lead to significant losses.
 - **Implied Volatility Changes**: A rise in implied volatility can increase the value of options, counteracting the benefits of time decay.
-- **Liquidity Risk**: Low liquidity can make it challenging to enter and exit positions at favorable prices.
+- **[Liquidity Risk](../l/liquidity_risk.md)**: Low liquidity can make it challenging to enter and exit positions at favorable prices.
 - **Margin Requirements**: These strategies often involve selling options, which requires maintaining margin accounts that can be subject to margin calls.
 
 ## Advanced Tools and Backtesting
 
-To mitigate risks and enhance strategy effectiveness, traders can utilize advanced analytical tools and backtesting environments such as:
+To mitigate risks and enhance strategy effectiveness, traders can utilize advanced analytical tools and [backtesting](../b/backtesting.md) environments such as:
 
 ### 1. **QuantConnect**
-An open-source algorithmic trading platform that supports a wide range of asset classes and strategies, including options and time decay strategies. [Visit QuantConnect](https://www.quantconnect.com/)
+An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports a wide range of asset classes and strategies, including options and time decay strategies. [Visit QuantConnect](https://www.quantconnect.com/)
 
 ### 2. **AlgoTrader**
-A professional algorithmic trading software for quantitative research, trading strategy development, and implementation. [Visit AlgoTrader](https://www.algotrader.com/)
+A professional [algorithmic trading](../a/algorithmic_trading.md) software for [quantitative research](../q/quantitative_research.md), trading strategy development, and implementation. [Visit AlgoTrader](https://www.algotrader.com/)
 
 ### 3. **MultiCharts**
-An advanced trading platform offering comprehensive backtesting capabilities, including for options strategies. [Visit MultiCharts](https://www.multicharts.com/)
+An advanced trading platform offering comprehensive [backtesting](../b/backtesting.md) capabilities, including for options strategies. [Visit MultiCharts](https://www.multicharts.com/)
 
 ## Practical Applications and Case Studies
 
@@ -82,7 +82,7 @@ An advanced trading platform offering comprehensive backtesting capabilities, in
   Volant Trading employs various algorithmic strategies, including options trading with a focus on time decay, to achieve superior performance. [Visit Volant Trading](https://www.volanttrading.com/)
 
 ### **Case Study Example: Iron Condor Strategy**
-A trader devises an iron condor strategy on the S&P 500 index options with the following steps:
+A trader devises an [iron condor](../i/iron_condor.md) strategy on the S&P 500 [index options](../i/index_options.md) with the following steps:
 - Sell a call option at a strike price of 3950
 - Sell a put option at a strike price of 3850
 - Buy a call option at a strike price of 4000
@@ -92,6 +92,6 @@ Each option has a one-month expiry. The total premium collected is $1500. As tim
 
 ## Conclusion
 
-Time decay strategies offer a predictable and systematic means to profit from the diminishing value of options over time. However, implementing these strategies requires an understanding of the Greeks, particularly theta, and the use of advanced algorithmic trading tools. Traders must also be aware of the inherent risks, including market volatility and liquidity constraints. By combining methodical strategy execution with continuous risk management, traders can harness the benefits of time decay and achieve consistent returns in the options market.
+Time decay strategies offer a predictable and systematic means to profit from the diminishing value of options over time. However, implementing these strategies requires an understanding of the Greeks, particularly theta, and the use of advanced [algorithmic trading](../a/algorithmic_trading.md) tools. Traders must also be aware of the inherent risks, including market volatility and liquidity constraints. By combining methodical strategy execution with continuous [risk management](../r/risk_management.md), traders can harness the benefits of time decay and achieve consistent returns in the options market.
 
 Whether through platforms like QuantConnect and AlgoTrader or by observing successful hedge funds, traders have a multitude of resources to develop, test, and refine their time decay strategies. As with any trading strategy, continuous learning, adaptability, and vigilance are key to long-term success.

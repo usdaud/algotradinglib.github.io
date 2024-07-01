@@ -1,6 +1,6 @@
 # Quantitative Risk Models
 
-Quantitative risk models are mathematical constructs used to understand, quantify, and manage risk in a variety of financial contexts, particularly in algorithmic trading, investment management, and financial engineering. These models leverage statistical techniques, historical data, and various computational methods to predict and mitigate potential losses. This article delves deeply into the concepts, methodologies, tools, and real-world applications of quantitative risk models in finance.
+Quantitative risk models are mathematical constructs used to understand, quantify, and manage risk in a variety of financial contexts, particularly in [algorithmic trading](../a/algorithmic_trading.md), investment management, and [financial engineering](../f/financial_engineering.md). These models leverage statistical techniques, historical data, and various computational methods to predict and mitigate potential losses. This article delves deeply into the concepts, methodologies, tools, and real-world applications of quantitative risk models in finance.
 
 ### Overview
 
@@ -10,7 +10,7 @@ Quantitative risk models are essential for identifying and assessing the risks i
 
 1. **Value at Risk (VaR)**:
    - **Historical VaR**: Uses historical market data to estimate potential losses.
-   - **Monte Carlo VaR**: Employs stochastic processes to simulate a wide range of possible scenarios.
+   - **Monte Carlo VaR**: Employs [stochastic processes](../s/stochastic_processes.md) to simulate a wide range of possible scenarios.
    - **Parametric VaR**: Assumes that returns are normally distributed and uses parameters like mean and standard deviation.
 
 2. **Conditional Value at Risk (CVaR)**:
@@ -19,8 +19,8 @@ Quantitative risk models are essential for identifying and assessing the risks i
 3. **Stress Testing**:
    - Simulates extreme market conditions to assess the effects of abnormal market events on a portfolio.
 
-4. **Risk-Adjusted Return Models**:
-   - **Sharpe Ratio**: Measures risk-adjusted return by comparing portfolio returns to risk.
+4. **[Risk-Adjusted Return](../r/risk-adjusted_return.md) Models**:
+   - **[Sharpe Ratio](../s/sharpe_ratio.md)**: Measures [risk-adjusted return](../r/risk-adjusted_return.md) by comparing portfolio returns to risk.
    - **Treynor Ratio**: Focuses on systemic risk using beta as a measure of market risk.
 
 5. **Scenario Analysis**:
@@ -37,33 +37,33 @@ Quantitative risk models are essential for identifying and assessing the risks i
 3. **Operational Risk**:
    - Stems from failures in internal processes, systems, or from external events.
    
-4. **Liquidity Risk**:
+4. **[Liquidity Risk](../l/liquidity_risk.md)**:
    - The risk that an entity may not be able to quickly sell an asset without affecting its price.
 
 ### Methodologies 
 
 1. **Statistical Methods**:
-   - Involves the use of probability distributions, regression analysis, and other statistical tools to estimate risk.
+   - Involves the use of probability distributions, [regression analysis](../r/regression_analysis.md), and other statistical tools to estimate risk.
 
 2. **Machine Learning and AI**:
-   - Advanced techniques like neural networks, decision trees, and clustering algorithms are increasingly utilized to identify and manage risk.
+   - Advanced techniques like neural networks, [decision trees](../d/decision_trees.md), and [clustering algorithms](../c/clustering_algorithms.md) are increasingly utilized to identify and manage risk.
 
-3. **Simulation Models**:
-   - Use various computational techniques, such as Monte Carlo simulation, to model and assess risk under different scenarios.
+3. **[Simulation Models](../s/simulation_models.md)**:
+   - Use various computational techniques, such as [Monte Carlo simulation](../m/monte_carlo_simulation.md), to model and assess risk under different scenarios.
 
 ### Tools and Software
 
-1. **MATLAB**: Widely used for developing algorithms and implementing advanced quantitative models.
+1. **MATLAB**: Widely used for developing algorithms and implementing advanced [quantitative models](../q/quantitative_models.md).
 2. **Python**: With libraries like pandas, NumPy, and scikit-learn, Python is a go-to choice for developing risk models.
-3. **R**: Known for its statistical capabilities, R is extensively used for risk analysis and modeling.
-4. **Algorithmic Trading Platforms**: Software such as MetaTrader, NinjaTrader, and proprietary platforms often incorporate risk management tools too.
+3. **R**: Known for its statistical capabilities, R is extensively used for [risk analysis](../r/risk_analysis.md) and modeling.
+4. **[Algorithmic Trading](../a/algorithmic_trading.md) Platforms**: Software such as MetaTrader, NinjaTrader, and proprietary platforms often incorporate [risk management](../r/risk_management.md) tools too.
 
 ### Applications in Financial Contexts
 
-1. **Portfolio Management**:
+1. **[Portfolio Management](../p/portfolio_management.md)**:
    - Quantitative risk models help portfolio managers create and manage portfolios that balance expected returns against risk.
 
-2. **Algorithmic Trading**:
+2. **[Algorithmic Trading](../a/algorithmic_trading.md)**:
    - Algorithms incorporate risk measures to make real-time decisions on buying and selling assets while minimizing potential losses.
 
 3. **Regulatory Compliance**:
@@ -72,24 +72,24 @@ Quantitative risk models are essential for identifying and assessing the risks i
 ### Case Studies and Real-World Examples
 
 1. **Dimensional Fund Advisors (DFA)**:
-   - Uses quantitative risk models to structure and manage portfolios with a focus on systematic risk factors.
+   - Uses quantitative risk models to structure and manage portfolios with a focus on [systematic risk](../s/systematic_risk.md) factors.
 
     [Dimensional Fund Advisors](https://www.dimensional.com)
 
 2. **AQR Capital Management**:
-   - Employs quantitative models to manage risk across various asset classes and investment strategies.
+   - Employs [quantitative models](../q/quantitative_models.md) to manage risk across various asset classes and investment strategies.
 
     [AQR Capital Management](https://www.aqr.com)
 
 3. **BlackRock Aladdin**:
-   - A platform that integrates risk analytics and portfolio management tools to help investors make informed decisions.
+   - A platform that integrates risk analytics and [portfolio management](../p/portfolio_management.md) tools to help investors make informed decisions.
 
    [BlackRock Aladdin](https://www.blackrock.com/aladdin)
 
 ### Advantages and Disadvantages
 
 **Advantages**:
-- **Precision**: Quantitative models provide precise measurements of risk which helps in making informed decisions.
+- **Precision**: [Quantitative models](../q/quantitative_models.md) provide precise measurements of risk which helps in making informed decisions.
 - **Automation**: Models can be automated to continually assess risk in real-time, crucial for high-frequency trading.
 - **Comprehensive Analysis**: They can integrate various risk factors and provide a holistic view of potential exposures.
 

@@ -1,6 +1,6 @@
 # Short Put Spread
 
-A Short Put Spread, also known as a bull put spread, is an options trading strategy primarily used in the realm of algorithmic trading (or "algo trading"). This strategy involves two put options - one short and one long - that are of the same underlying asset and have the same expiration date, but different strike prices. The primary goal of the strategy is to capitalize on a rise in the price of the underlying asset while limiting potential losses.
+A Short Put Spread, also known as a [bull put spread](../b/bull_put_spread.md), is an options trading strategy primarily used in the realm of [algorithmic trading](../a/algorithmic_trading.md) (or "algo trading"). This strategy involves two [put options](../p/put_options.md) - one short and one long - that are of the same underlying asset and have the same expiration date, but different strike prices. The primary goal of the strategy is to capitalize on a rise in the price of the underlying asset while limiting potential losses.
 
 ## Components of a Short Put Spread
 
@@ -56,22 +56,22 @@ Let's consider a stock currently trading at $100. A trader employs a short put s
 
 ### Institutions and Algo Trading
 
-Investment firms and hedge funds often employ algorithmic trading strategies that include short put spreads. Algorithms can be programmed to identify favorable market conditions for implementing the strategy, execute trades, manage risk, and even exit positions when certain criteria are met.
+Investment firms and hedge funds often employ [algorithmic trading](../a/algorithmic_trading.md) strategies that include short put spreads. Algorithms can be programmed to identify favorable market conditions for implementing the strategy, execute trades, manage risk, and even exit positions when certain criteria are met.
 
 For example, an algo trading firm like [Two Sigma](https://www.twosigma.com/) might develop an algorithm that scans the options market for opportunities to implement short put spreads based on statistical patterns and historical data.
 
 ### Retail Traders
 
-Retail traders can use online brokerage platforms to implement short put spread strategies. Platforms such as [Thinkorswim by TD Ameritrade](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page) provide tools for analyzing, executing, and managing these trades.
+Retail traders can use online brokerage platforms to implement short [put spread strategies](../p/put_spread_strategies.md). Platforms such as [Thinkorswim by TD Ameritrade](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page) provide tools for analyzing, executing, and managing these trades.
 
 ## Tools and Platforms
 
-- **Market Scanners**: Software tools that scan the market for options with favorable conditions for short put spreads. Examples include [OptionsPlay](https://www.optionsplay.com/) and [Finviz](https://finviz.com/).
+- **[Market Scanners](../m/market_scanners.md)**: Software tools that scan the market for options with favorable conditions for short put spreads. Examples include [OptionsPlay](https://www.optionsplay.com/) and [Finviz](https://finviz.com/).
 
 - **Trading Platforms**: Comprehensive platforms like Thinkorswim and Interactive Brokers' Trader Workstation (TWS) offer robust functionality for executing and managing short put spreads.
 
-- **Risk Management Tools**: Tools like portfolio margin calculators and risk analytics tools can help manage the risks associated with short put spreads.
+- **[Risk Management](../r/risk_management.md) Tools**: Tools like portfolio margin calculators and risk analytics tools can help manage the risks associated with short put spreads.
 
 ## Conclusion
 
-The Short Put Spread is a versatile options strategy that can fit into a broader algorithmic trading system. It offers a balance between risk and reward, making it appealing for both institutional and retail traders. With the right tools and an understanding of market dynamics, this strategy can be a valuable component of an options trading arsenal.
+The Short Put Spread is a versatile options strategy that can fit into a broader [algorithmic trading](../a/algorithmic_trading.md) system. It offers a balance between risk and reward, making it appealing for both institutional and retail traders. With the right tools and an understanding of market dynamics, this strategy can be a valuable component of an options trading arsenal.

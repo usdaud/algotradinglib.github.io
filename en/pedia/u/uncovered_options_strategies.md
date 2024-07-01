@@ -18,7 +18,7 @@ Uncovered options strategies involve selling options without holding the corresp
 
 ### 1. Naked Call Writing
 
-Naked call writing involves selling call options without owning the underlying stock. This strategy is bearish to neutral, meaning the trader expects the stock to remain below the strike price until the option expires.
+[Naked call writing](../n/naked_call_writing.md) involves selling call options without owning the underlying stock. This strategy is bearish to neutral, meaning the trader expects the stock to remain below the strike price until the option expires.
 
 - **Profit Potential:** The maximum gain is the premium received from selling the call.
 - **Loss Potential:** Theoretically unlimited as the stock price can rise indefinitely.
@@ -26,11 +26,11 @@ Naked call writing involves selling call options without owning the underlying s
 
 ### 2. Naked Put Writing
 
-Naked put writing involves selling put options without holding a short position in the underlying stock. This strategy is bullish to neutral, expecting that the stock will stay above the strike price until expiration.
+[Naked put writing](../n/naked_put_writing.md) involves selling [put options](../p/put_options.md) without holding a short position in the underlying stock. This strategy is bullish to neutral, expecting that the stock will stay above the strike price until expiration.
 
 - **Profit Potential:** The maximum gain is the premium received from selling the put.
 - **Loss Potential:** Significant, but not unlimited, as the stock's price can fall to zero.
-- **Margin Requirements:** High, but generally lower than naked call writing due to limited downside risk.
+- **Margin Requirements:** High, but generally lower than [naked call writing](../n/naked_call_writing.md) due to limited downside risk.
 
 ### 3. Short Straddles and Strangles
 
@@ -38,7 +38,7 @@ Both short straddles and strangles involve selling options with different strike
 
 #### Short Straddle
 
-A short straddle involves selling a call and a put option at the same strike price and expiration date. 
+A [short straddle](../s/short_straddle.md) involves selling a call and a put option at the same strike price and expiration date. 
 
 - **Profit Potential:** Highest if the stock price remains at the strike price until expiration.
 - **Loss Potential:** Unlimited on the upside (call) and substantial on the downside (put).
@@ -46,25 +46,25 @@ A short straddle involves selling a call and a put option at the same strike pri
 
 #### Short Strangle
 
-A short strangle involves selling a call and a put option with different strike prices but the same expiration date.
+A [short strangle](../s/short_strangle.md) involves selling a call and a put option with different strike prices but the same expiration date.
 
 - **Profit Potential:** Highest if the stock price remains between the two strike prices until expiration.
 - **Loss Potential:** Unlimited on the upside and substantial on the downside.
-- **Margin Requirements:** High but slightly lower than a short straddle due to the wider strike price range.
+- **Margin Requirements:** High but slightly lower than a [short straddle](../s/short_straddle.md) due to the wider strike price range.
 
 ## Key Considerations
 
 ### 1. Market Analysis
 
-Accurate market analysis is crucial for executing uncovered options strategies. Traders should have a strong understanding of market trends, volatility, and potential price movements. This involves both technical and fundamental analysis.
+Accurate market analysis is crucial for executing uncovered options strategies. Traders should have a strong understanding of market trends, volatility, and potential price movements. This involves both technical and [fundamental analysis](../f/fundamental_analysis.md).
 
 ### 2. Risk Management
 
-Risk management is vital when engaging in uncovered options trading. Strategies to manage risk include setting stop-loss orders, diversifying trades, and using other financial instruments to hedge potential losses.
+[Risk management](../r/risk_management.md) is vital when engaging in uncovered options trading. Strategies to manage risk include setting [stop-loss orders](../s/stop-loss_orders.md), diversifying trades, and using other financial instruments to hedge potential losses.
 
 ### 3. Brokerage Selection
 
-Choosing the right brokerage is essential. Traders need a brokerage that offers competitive margin rates, reliable trading platforms, and comprehensive risk management tools. Some well-regarded brokerages for options trading include:
+Choosing the right brokerage is essential. Traders need a brokerage that offers competitive margin rates, reliable trading platforms, and comprehensive [risk management](../r/risk_management.md) tools. Some well-regarded brokerages for options trading include:
 
 - [Interactive Brokers](https://www.interactivebrokers.com)
 - [TD Ameritrade](https://www.tdameritrade.com)
@@ -76,6 +76,6 @@ Uncovered options strategies are subject to strict regulatory requirements due t
 
 ## Conclusion
 
-Uncovered options strategies can offer substantial profit potential but come with significant risks. These strategies are generally recommended for experienced traders who have a deep understanding of the market and robust risk management techniques. By carefully analyzing the market, managing risks, and choosing the right brokerage, traders can effectively utilize uncovered options strategies to enhance their trading portfolios.
+Uncovered options strategies can offer substantial profit potential but come with significant risks. These strategies are generally recommended for experienced traders who have a deep understanding of the market and robust [risk management](../r/risk_management.md) techniques. By carefully analyzing the market, managing risks, and choosing the right brokerage, traders can effectively utilize uncovered options strategies to enhance their trading portfolios.
 
-For traders seeking to explore uncovered options strategies, it is crucial to conduct thorough research and consider starting with simulated trading to build experience before committing substantial capital.
+For traders seeking to explore uncovered options strategies, it is crucial to conduct thorough research and consider starting with [simulated trading](../s/simulated_trading.md) to build experience before committing substantial capital.

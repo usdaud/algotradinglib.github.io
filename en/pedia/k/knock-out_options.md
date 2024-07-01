@@ -1,10 +1,10 @@
 # Knock-Out Options
 
-Knock-out options are a specific type of barrier option in the field of financial derivatives, particularly noted for their feature of becoming worthless if a certain pre-set barrier level is touched or breached before the option expires. This article delves into the intricacies of knock-out options, their types, pricing, strategies, and practical applications in trading.
+Knock-out options are a specific type of barrier option in the field of financial [derivatives](../d/derivatives.md), particularly noted for their feature of becoming worthless if a certain pre-set barrier level is touched or breached before the option expires. This article delves into the intricacies of knock-out options, their types, pricing, strategies, and practical applications in trading.
 
 ## Definition and Basic Features
 
-Knock-out options are exotic options, meaning they have more complex features than standard vanilla options. They include a predetermined barrier level, and getting knocked out means that the option is automatically void if the underlying asset's price touches this barrier level at any point before the expiry date.
+Knock-out options are [exotic options](../e/exotic_options.md), meaning they have more complex features than standard vanilla options. They include a predetermined barrier level, and getting knocked out means that the option is automatically void if the underlying asset's price touches this barrier level at any point before the expiry date.
 
 **Key Features:**
 - **Barrier Level:** A predetermined price level which, if reached or exceeded, renders the option void.
@@ -28,13 +28,13 @@ There are generally two main types of knock-out options based on their barrier p
 
 Pricing knock-out options is more complex than pricing vanilla options due to the additional barrier condition. Some common models and techniques used include:
 
-1. **Black-Scholes Model:**
-   - The classic Black-Scholes model can be adjusted for barrier options by incorporating the probability of the barrier being breached.
+1. **[Black-Scholes Model](../b/black-scholes_model.md):**
+   - The classic [Black-Scholes model](../b/black-scholes_model.md) can be adjusted for barrier options by incorporating the probability of the barrier being breached.
 
 2. **Monte Carlo Simulations:**
    - A computational algorithm that uses random sampling to estimate the expected price of the knock-out option.
 
-3. **Finite Difference Methods:**
+3. **[Finite Difference Methods](../f/finite_difference_methods.md):**
    - These methods solve the partial differential equations governing the option's price, accounting for the barrier condition.
 
 4. **Tree-based Models:**
@@ -51,7 +51,7 @@ Pricing knock-out options is more complex than pricing vanilla options due to th
 
 Traders use knock-out options for various strategic purposes, taking advantage of their unique payoff structure:
 
-1. **Cost Reduction:** Since knock-out options are typically cheaper, they offer cost-effective trading strategies.
+1. **Cost Reduction:** Since knock-out options are typically cheaper, they offer cost-effective [trading strategies](../t/trading_strategies.md).
 2. **Hedging:** Firms and investors use knock-out options to hedge against adverse price movements while minimizing premium costs.
 3. **Leveraged Speculation:** Traders can use knock-out options to speculate on price movements with defined risk and lower premium outlay.
 
@@ -61,8 +61,8 @@ Several financial institutions and trading platforms provide facilities for trad
 
 - **Societe Generale:** A provider of various structured products, including knock-out options. [Societe Generale](https://wholesalemarkets.societegenerale.com/en/structured-products/lists/standard-structured-products-exotic-options)
 - **IG Group:** Offers knock-out options as part of their trading services. [IG Group](https://www.ig.com/)
-- **Cboe Global Markets:** Provides derivatives including various forms of barrier options. [Cboe Global Markets](https://www.cboe.com/)
+- **Cboe Global Markets:** Provides [derivatives](../d/derivatives.md) including various forms of barrier options. [Cboe Global Markets](https://www.cboe.com/)
 
 ## Conclusion
 
-Knock-out options remain a compelling tool for traders and financial engineers looking for lower-cost alternatives to vanilla options. Their role in sophisticated hedging strategies and speculative plays, combined with advanced mathematical models for pricing, underscores their importance in modern financial markets. Whether used for risk management or strategic trade setups, knock-out options offer unique advantages, particularly in cost efficiency and tailored risk management.
+Knock-out options remain a compelling tool for traders and financial engineers looking for lower-cost alternatives to vanilla options. Their role in sophisticated [hedging strategies](../h/hedging_strategies.md) and speculative plays, combined with advanced mathematical models for pricing, underscores their importance in modern financial markets. Whether used for [risk management](../r/risk_management.md) or strategic trade setups, knock-out options offer unique advantages, particularly in cost efficiency and tailored [risk management](../r/risk_management.md).

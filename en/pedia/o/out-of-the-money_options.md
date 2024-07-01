@@ -1,10 +1,10 @@
 ### Out-of-the-Money Options
 
 #### Introduction
-In the world of financial derivatives, options are a pivotal tool for investors. They provide the right, but not the obligation, to buy (in the case of a call option) or sell (in the case of a put option) an underlying asset at a specified price on or before a particular date. Among these options, an important concept is that of "Out-of-the-Money" (OTM) options. This term describes a specific situation where the strike price of an option is not advantageous compared to the current market price of the underlying asset.
+In the world of financial [derivatives](../d/derivatives.md), options are a pivotal tool for investors. They provide the right, but not the obligation, to buy (in the case of a call option) or sell (in the case of a put option) an underlying asset at a specified price on or before a particular date. Among these options, an important concept is that of "Out-of-the-Money" (OTM) options. This term describes a specific situation where the strike price of an option is not advantageous compared to the current market price of the underlying asset.
 
 #### Understanding Out-of-the-Money Options
-An option is considered Out-of-the-Money (OTM) when, for call options, the strike price is higher than the current market price of the underlying asset, and for put options, the strike price is lower than the current market price. These options, at the moment, do not hold intrinsic value and would expire worthless if the market price remained unchanged. OTM options are primarily valued for their time value and volatility rather than intrinsic value.
+An option is considered Out-of-the-Money (OTM) when, for call options, the strike price is higher than the current market price of the underlying asset, and for [put options](../p/put_options.md), the strike price is lower than the current market price. These options, at the moment, do not hold intrinsic value and would expire worthless if the market price remained unchanged. OTM options are primarily valued for their time value and volatility rather than intrinsic value.
 
 #### Example of Call and Put Options
 1. **Call Option Example**: Assume the current price of XYZ stock is $50. A call option with a strike price of $60 is considered OTM because the stock would need to rise above $60 for the option to be exercised profitably.
@@ -29,7 +29,7 @@ Investors and traders employ various strategies using OTM options, primarily foc
 
 2. **Spread Strategies**: Involving buying and selling options with different strike prices or expiration dates to hedge or speculate. Common spread strategies using OTM options include vertical spreads, butterfly spreads, and condors.
 
-3. **Strangles and Straddles**: These strategies involve purchasing both call and put options with the same expiration but different (strangles) or the same (straddles) strike prices. This is particularly useful in high volatility situations where significant price movement is expected, but the direction is uncertain.
+3. **Strangles and Straddles**: These strategies involve purchasing both call and [put options](../p/put_options.md) with the same expiration but different (strangles) or the same (straddles) strike prices. This is particularly useful in high volatility situations where significant price movement is expected, but the direction is uncertain.
 
 #### Pros and Cons of Trading OTM Options
 - **Pros**:
@@ -50,5 +50,5 @@ Many financial institutions and online platforms offer tools and services to tra
 - **OptionsHouse** (part of E*TRADE): Specializes in options trading with competitive pricing.
 
 #### Conclusion
-Out-of-the-Money options are a versatile instrument in the financial markets, offering significant profit potential paired with high risk. They are often used in speculative strategies due to their low cost and potential for substantial returns if market movements are favorable. Understanding the dynamics and factors influencing OTM options pricing and employing them carefully in strategic planning can help traders make informed decisions and leverage opportunities in the derivatives market.
+Out-of-the-Money options are a versatile instrument in the financial markets, offering significant profit potential paired with high risk. They are often used in speculative strategies due to their low cost and potential for substantial returns if market movements are favorable. Understanding the dynamics and factors influencing OTM options pricing and employing them carefully in strategic planning can help traders make informed decisions and leverage opportunities in the [derivatives](../d/derivatives.md) market.
 

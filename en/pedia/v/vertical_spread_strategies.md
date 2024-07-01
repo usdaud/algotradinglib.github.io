@@ -2,14 +2,14 @@
 
 ### Definition and Overview
 
-Vertical Spread Strategies are a sophisticated trading strategy primarily used in options trading. These strategies involve the simultaneous buying and selling of options of the same class (either call or put) with the same expiration date but at different strike prices. Essentially, a vertical spread confines the investor's potential risks and rewards within a certain range.
+[Vertical Spread](../v/vertical_spread.md) Strategies are a sophisticated trading strategy primarily used in options trading. These strategies involve the simultaneous buying and selling of options of the same class (either call or put) with the same expiration date but at different strike prices. Essentially, a [vertical spread](../v/vertical_spread.md) confines the investor's potential risks and rewards within a certain range.
 
 The main types of vertical spreads are:
 
-1. **Bull Call Spread:** A bullish strategy involving the purchase of a call option at a lower strike price and selling a call option at a higher strike price.
-2. **Bear Call Spread:** A bearish strategy in which an investor sells a call option with a lower strike price and buys one with a higher strike price.
-3. **Bull Put Spread:** A strategy where an investor buys a put option with a higher strike price and sells one with a lower strike price, also aligning with a bullish market view.
-4. **Bear Put Spread:** A bearish vertical spread in which an investor buys a put option at a higher strike price and sells a put option at a lower strike price.
+1. **[Bull Call Spread](../b/bull_call_spread.md):** A bullish strategy involving the purchase of a call option at a lower strike price and selling a call option at a higher strike price.
+2. **[Bear Call Spread](../b/bear_call_spread.md):** A bearish strategy in which an investor sells a call option with a lower strike price and buys one with a higher strike price.
+3. **[Bull Put Spread](../b/bull_put_spread.md):** A strategy where an investor buys a put option with a higher strike price and sells one with a lower strike price, also aligning with a bullish market view.
+4. **[Bear Put Spread](../b/bear_put_spread.md):** A bearish [vertical spread](../v/vertical_spread.md) in which an investor buys a put option at a higher strike price and sells a put option at a lower strike price.
 
 Each of these strategies is designed to capitalize on specific market movements and comes with predefined risks and returns.
 
@@ -17,7 +17,7 @@ Each of these strategies is designed to capitalize on specific market movements 
 
 #### Structure and Mechanism
 
-A Bull Call Spread involves two call options:
+A [Bull Call Spread](../b/bull_call_spread.md) involves two call options:
 
 - Buy a call option at a lower strike price.
 - Sell a call option at a higher strike price.
@@ -39,7 +39,7 @@ Let's take a real-world example. On March 1, an option trader might purchase a c
 
 #### Structure and Mechanism
 
-A Bear Call Spread involves:
+A [Bear Call Spread](../b/bear_call_spread.md) involves:
 
 - Selling a call option at a lower strike price.
 - Buying a call option at a higher strike price.
@@ -55,13 +55,13 @@ The net premium received is $3. The maximum loss is the difference in the strike
 
 #### Example
 
-Consider an investor implementing a Bear Call Spread on XYZ Corp stock. They might sell a call option with a strike price of $120 for $8 and buy a call option with a $130 strike price for $3. The net credit received is $5. If XYZ Corp's stock stays below $120 by expiration, the full $5 credit is the investor's profit. The maximum loss is capped at $5, which is the difference in strike prices minus the credit received.
+Consider an investor implementing a [Bear Call Spread](../b/bear_call_spread.md) on XYZ Corp stock. They might sell a call option with a strike price of $120 for $8 and buy a call option with a $130 strike price for $3. The net credit received is $5. If XYZ Corp's stock stays below $120 by expiration, the full $5 credit is the investor's profit. The maximum loss is capped at $5, which is the difference in strike prices minus the credit received.
 
 ### Bull Put Spread
 
 #### Structure and Mechanism
 
-A Bull Put Spread comprises:
+A [Bull Put Spread](../b/bull_put_spread.md) comprises:
 
 - Selling a put option with a higher strike price.
 - Buying a put option with a lower strike price.
@@ -83,7 +83,7 @@ An investor might sell a put option on DEF Corp with a strike price of $200 for 
 
 #### Structure and Mechanism
 
-A Bear Put Spread involves:
+A [Bear Put Spread](../b/bear_put_spread.md) involves:
 
 - Buying a put option with a higher strike price.
 - Selling a put option with a lower strike price.
@@ -103,7 +103,7 @@ Consider an investor who buys a put option on GHI Corp with a $90 strike price f
 
 ### Applications and Benefits
 
-Vertical spread strategies offer several benefits:
+[Vertical spread](../v/vertical_spread.md) strategies offer several benefits:
 
 1. **Controlled Risk:** Vertical spreads limit the maximum potential loss, making them attractive for risk-averse investors.
 2. **Defined Profit Zones:** They offer a clear understanding of the potential profits if the asset's price moves within a certain range.
@@ -121,4 +121,4 @@ While vertical spreads can be profitable, they are not without risks:
 
 ### Conclusion
 
-Vertical spread strategies are powerful tools in the realm of algotrading and options trading, allowing traders to take advantage of market movements while controlling risk and capital outlay. Each type of vertical spread—Bull Call, Bear Call, Bull Put, and Bear Put—caters to different market expectations, offering a range of opportunities and protections for savvy traders. Understanding the intricate mechanics and applications of these spreads can provide a significant edge in navigating the dynamic world of options trading.
+[Vertical spread](../v/vertical_spread.md) strategies are powerful tools in the realm of algotrading and options trading, allowing traders to take advantage of market movements while controlling risk and capital outlay. Each type of [vertical spread](../v/vertical_spread.md)—Bull Call, Bear Call, Bull Put, and Bear Put—caters to different market expectations, offering a range of opportunities and protections for savvy traders. Understanding the intricate mechanics and applications of these spreads can provide a significant edge in navigating the dynamic world of options trading.

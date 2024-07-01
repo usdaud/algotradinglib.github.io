@@ -1,10 +1,10 @@
 # Zero-Lag Filter
 
-A Zero-Lag Filter is a type of digital signal processing tool used primarily in the realm of financial markets, notably within algorithmic trading. Unlike traditional filters, which typically introduce some delay or "lag" in their output signal due to the averaging process involved, the Zero-Lag Filter aims to provide a smoothed response without such lag. This characteristic is highly beneficial for traders seeking to make timely decisions based on the most current data available.
+A Zero-Lag Filter is a type of digital signal processing tool used primarily in the realm of financial markets, notably within [algorithmic trading](../a/algorithmic_trading.md). Unlike traditional filters, which typically introduce some delay or "lag" in their output signal due to the averaging process involved, the Zero-Lag Filter aims to provide a smoothed response without such lag. This characteristic is highly beneficial for traders seeking to make timely decisions based on the most current data available.
 
 ## Introduction to Filtering in Financial Markets
 
-In financial markets, traders and analysts often use filters to smooth out price data to identify underlying trends and reduce noise. Common types of filters include moving averages, exponential moving averages, and more sophisticated techniques like the Kalman filter. However, these traditional methods often suffer from lag, making it difficult to react quickly to rapid market changes. While lag can be tolerable in some long-term strategies, for high-frequency trading or intraday trading, it can reduce effectiveness and profitability.
+In financial markets, traders and analysts often use filters to smooth out price data to identify underlying trends and reduce noise. Common types of filters include moving averages, exponential moving averages, and more sophisticated techniques like the Kalman filter. However, these traditional methods often suffer from lag, making it difficult to react quickly to rapid market changes. While lag can be tolerable in some long-term strategies, for high-frequency trading or [intraday trading](../i/intraday_trading.md), it can reduce effectiveness and profitability.
 
 ## What is a Zero-Lag Filter?
 
@@ -64,11 +64,11 @@ In HFT, the importance of timely data processing cannot be overstated. Zero-Lag 
 
 ### Arbitrage
 
-Arbitrage strategies depend on identifying small price inefficiencies across different markets or securities. A Zero-Lag Filter can make these inefficiencies more apparent in real-time, thus enhancing the profitability of such strategies.
+[Arbitrage](../a/arbitrage.md) strategies depend on identifying small price inefficiencies across different markets or securities. A Zero-Lag Filter can make these inefficiencies more apparent in real-time, thus enhancing the profitability of such strategies.
 
 ### Machine Learning Integration
 
-Algorithmic trading strategies increasingly leverage machine learning models, which benefit from cleaner, lag-free data. Integrating a Zero-Lag Filter can help in feeding more accurate inputs into these models, improving their prediction and execution efficiency.
+[Algorithmic trading](../a/algorithmic_trading.md) strategies increasingly leverage machine learning models, which benefit from cleaner, lag-free data. Integrating a Zero-Lag Filter can help in feeding more accurate inputs into these models, improving their prediction and execution efficiency.
 
 ## Companies and Platforms Using Zero-Lag Filters
 
@@ -76,7 +76,7 @@ Algorithmic trading strategies increasingly leverage machine learning models, wh
    A quant trading platform that supports diverse algorithms and allows users to integrate custom filters, including Zero-Lag Filters. Learn more at [QuantConnect](https://www.quantconnect.com/).
 
 2. **Algorithmica Research**:
-   This company specializes in providing algorithmic trading solutions, often incorporating advanced signal processing techniques like the Zero-Lag Filter. More information can be found at [Algorithmica](https://www.algorithmica.com/).
+   This company specializes in providing [algorithmic trading](../a/algorithmic_trading.md) solutions, often incorporating advanced signal processing techniques like the Zero-Lag Filter. More information can be found at [Algorithmica](https://www.algorithmica.com/).
 
 ## Pros and Cons of Zero-Lag Filter
 
@@ -88,12 +88,12 @@ Algorithmic trading strategies increasingly leverage machine learning models, wh
 ### Cons
 1. **Complexity**: More complex to implement compared to simple moving averages.
 2. **Overfitting Risk**: In certain scenarios, the filter might adapt too quickly to noise, mistaking it for signal, leading to overfitting.
-3. **Computational Overhead**: Computationally more intensive, which might be a constraint for some trading systems.
+3. **Computational Overhead**: Computationally more intensive, which might be a constraint for some [trading systems](../t/trading_systems.md).
 
 ## Conclusion
 
-Zero-Lag Filters represent a significant advancement in the field of digital signal processing for financial markets. By addressing the critical issue of lag found in traditional filters, they provide traders and algorithmic platforms with a more responsive and accurate tool for trend identification and decision-making. As algorithmic trading continues to evolve, techniques like the Zero-Lag Filter will likely see greater adoption as traders pursue every possible edge in the highly competitive landscape of financial markets. 
+Zero-Lag Filters represent a significant advancement in the field of digital signal processing for financial markets. By addressing the critical issue of lag found in traditional filters, they provide traders and algorithmic platforms with a more responsive and accurate tool for trend identification and decision-making. As [algorithmic trading](../a/algorithmic_trading.md) continues to evolve, techniques like the Zero-Lag Filter will likely see greater adoption as traders pursue every possible edge in the highly competitive landscape of financial markets. 
 
 ---
 
-For more details or specific queries, you can contact industry experts or analyze code repositories that specialize in quantitative finance and algorithmic trading strategies.
+For more details or specific queries, you can contact industry experts or analyze code repositories that specialize in [quantitative finance](../q/quantitative_finance.md) and [algorithmic trading](../a/algorithmic_trading.md) strategies.

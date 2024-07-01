@@ -1,6 +1,6 @@
 # Order Splitting Strategies in Algorithmic Trading
 
-Order splitting strategies are critical techniques in algorithmic trading, designed to minimize market impact and optimize trade execution. When traders execute large orders, they can significantly affect the market price. By breaking these large orders into smaller ones, the impact on the market can be mitigated, leading to better execution prices and reduced slippage.
+Order splitting strategies are critical techniques in [algorithmic trading](../a/algorithmic_trading.md), designed to minimize market impact and optimize trade execution. When traders execute large orders, they can significantly affect the market price. By breaking these large orders into smaller ones, the impact on the market can be mitigated, leading to better execution prices and reduced slippage.
 
 ## Introduction to Order Splitting
 
@@ -120,7 +120,7 @@ The order is split throughout the day with the accumulated volume executed at th
 
 ### 1. Adaptive Algorithms
 
-Adaptive algorithms dynamically adjust the order execution strategy based on real-time market conditions. This involves sophisticated machine learning models that can predict price movements and liquidity availability.
+[Adaptive algorithms](../a/adaptive_algorithms.md) dynamically adjust the order execution strategy based on real-time market conditions. This involves sophisticated machine learning models that can predict price movements and liquidity availability.
 
 #### Benefits
 
@@ -134,7 +134,7 @@ Adaptive algorithms dynamically adjust the order execution strategy based on rea
 
 ### 2. Dark Pool Execution
 
-Dark pools are private exchanges for trading securities that are not available to the public. These platforms allow for anonymous trading, minimizing market impact.
+[Dark pools](../d/dark_pools.md) are private exchanges for trading securities that are not available to the public. These platforms allow for anonymous trading, minimizing market impact.
 
 #### Benefits
 
@@ -150,9 +150,9 @@ Dark pools are private exchanges for trading securities that are not available t
 
 ### Technology Providers
 
-Several technology firms offer platforms and services dedicated to algorithmic trading and order splitting strategies. These include:
+Several technology firms offer platforms and services dedicated to [algorithmic trading](../a/algorithmic_trading.md) and order splitting strategies. These include:
 
-- **Virtu Financial**: [Virtu Financial](https://www.virtu.com/), provides integrated trading solutions with advanced order execution algorithms.
+- **Virtu Financial**: [Virtu Financial](https://www.virtu.com/), provides integrated trading solutions with advanced order [execution algorithms](../e/execution_algorithms.md).
 - **ITG (Investment Technology Group)**: Specializes in electronic trading platforms with customizable algorithmic strategies.
 - **AlgoTrader**: [AlgoTrader](https://www.algotrader.com/), offers a comprehensive solution for quant trading and automated order execution.
 
@@ -164,4 +164,4 @@ Several technology firms offer platforms and services dedicated to algorithmic t
 
 ## Conclusion
 
-Order splitting strategies are essential tools in the realm of algorithmic trading, offering various benefits such as reduced market impact, minimized slippage, and improved execution quality. By understanding and effectively implementing these strategies, traders can navigate the complexities of modern markets with greater efficiency and precision.
+Order splitting strategies are essential tools in the realm of [algorithmic trading](../a/algorithmic_trading.md), offering various benefits such as reduced market impact, minimized slippage, and improved execution quality. By understanding and effectively implementing these strategies, traders can navigate the complexities of modern markets with greater efficiency and precision.

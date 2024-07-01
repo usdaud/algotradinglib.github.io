@@ -22,7 +22,7 @@ Each trade aims for small gains, often a few pips (price interest points).
 
 #### A. Spread Scalping
 
-This approach takes advantage of the bid-ask spread. Traders buy at the bid price and sell at the ask price to pocket the difference. 
+This approach takes advantage of the [bid-ask spread](../b/bid-ask_spread.md). Traders buy at the bid price and sell at the ask price to pocket the difference. 
 
 #### B. Momentum Scalping
 
@@ -34,13 +34,13 @@ Microtrend scalping involves identifying short-term trends and trading in their 
 
 #### D. Breakout Scalping
 
-Breakout scalping focuses on entering trades in the direction of a breakout from a previously-established trading range. These typically occur when a stock breaks through resistance or support levels.
+Breakout scalping focuses on entering trades in the direction of a breakout from a previously-established trading range. These typically occur when a stock breaks through resistance or [support levels](../s/support_levels.md).
 
 ### 4. Tools and Technologies
 
 #### A. Algorithmic Trading Platforms
 
-Platforms like MetaTrader 4, MetaTrader 5, and NinjaTrader offer robust algorithmic trading capabilities that are essential for implementing effective scalping strategies. These platforms provide API access, enabling traders to develop and deploy custom scalping algorithms.
+Platforms like MetaTrader 4, MetaTrader 5, and NinjaTrader offer robust [algorithmic trading](../a/algorithmic_trading.md) capabilities that are essential for implementing effective scalping strategies. These platforms provide API access, enabling traders to develop and deploy custom scalping algorithms.
 
 #### B. High-Frequency Trading Systems
 
@@ -48,7 +48,7 @@ Companies like Virtu Financial (*[Virtu Financial](https://www.virtu.com/)*) and
 
 #### C. Market Data Feeds
 
-Access to real-time market data is critical for scalping. Services like Bloomberg Terminal (*[Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)*) or Thomson Reuters Eikon (*[Thomson Reuters](https://www.refinitiv.com/en/products/eikon-trading-software)*) provide comprehensive real-time market data and analytics.
+Access to [real-time market data](../r/real-time_market_data.md) is critical for scalping. Services like Bloomberg Terminal (*[Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)*) or Thomson Reuters Eikon (*[Thomson Reuters](https://www.refinitiv.com/en/products/eikon-trading-software)*) provide comprehensive [real-time market data](../r/real-time_market_data.md) and analytics.
 
 ### 5. Execution Algorithms
 
@@ -62,7 +62,7 @@ VWAP aims to execute orders in relation to the volume traded in the market, ensu
 
 #### C. Sniper Algorithms
 
-These algorithms search for the best possible entry and exit points using complex mathematical models and real-time data analysis. They are designed to 'snipe' profitable trades based on predefined conditions.
+These algorithms search for the best possible entry and exit points using complex mathematical models and [real-time data analysis](../r/real-time_data_analysis.md). They are designed to 'snipe' profitable trades based on predefined conditions.
 
 ### 6. Essential Indicators
 
@@ -73,7 +73,7 @@ These algorithms search for the best possible entry and exit points using comple
 
 #### B. Bollinger Bands
 
-Bollinger Bands are designed to measure a market’s volatility and provide relative price levels, helping scalpers identify overbought or oversold conditions.
+[Bollinger Bands](../b/bollinger_bands.md) are designed to measure a market’s volatility and provide relative price levels, helping scalpers identify overbought or oversold conditions.
 
 #### C. RSI (Relative Strength Index)
 
@@ -109,9 +109,9 @@ The ability to handle and quickly recover from losses is essential. Given the hi
 
 ### 9. Scalping Bots
 
-Automated trading bots are integrated into scalping strategies to manage the high execution speed and volume. Platforms such as:
+[Automated trading bots](../a/automated_trading_bots.md) are integrated into scalping strategies to manage the high execution speed and volume. Platforms such as:
 
-- **AlgoTrader** (*[AlgoTrader](https://www.algotrader.com/)*) provides sophisticated algorithmic trading solutions specific to scalping.
+- **AlgoTrader** (*[AlgoTrader](https://www.algotrader.com/)*) provides sophisticated [algorithmic trading](../a/algorithmic_trading.md) solutions specific to scalping.
 - **Kryll.io** (*[Kryll](https://www.kryll.io/)*) offers drag-and-drop algorithm creation tools tailored for scalping.
 
 ### 10. Regulatory Considerations
@@ -128,13 +128,13 @@ Different brokers may have rules regarding the frequency of trades. It's importa
 
 #### Example
 
-A successful scalping strategy could leverage moving averages and Bollinger Bands. A trader sets up:
+A successful scalping strategy could leverage moving averages and [Bollinger Bands](../b/bollinger_bands.md). A trader sets up:
 
 - An EMA crossover strategy where short EMA crosses above long EMA.
-- Uses Bollinger Bands to confirm the volatility threshold.
+- Uses [Bollinger Bands](../b/bollinger_bands.md) to confirm the volatility threshold.
 
 Each trade is entered during the crossover and exited when price hits the upper Bollinger Band or if a reverse crossover occurs.
 
 ### 12. Conclusion
 
-Scalping is a sophisticated trading technique requiring robust tools, precise execution, and high levels of discipline. With advancements in algorithmic trading, scalpers now have access to tools that significantly enhance their ability to make quick, informed decisions and execute trades with high efficiency. Proper risk management and adherence to a tested strategy can make quick scalping a lucrative trading method.
+Scalping is a sophisticated trading technique requiring robust tools, precise execution, and high levels of discipline. With advancements in [algorithmic trading](../a/algorithmic_trading.md), scalpers now have access to tools that significantly enhance their ability to make quick, informed decisions and execute trades with high efficiency. Proper [risk management](../r/risk_management.md) and adherence to a tested strategy can make quick scalping a lucrative trading method.

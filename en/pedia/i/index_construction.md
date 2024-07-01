@@ -1,6 +1,6 @@
 # Index Construction
 
-Index construction is a foundational element in financial markets, serving as a tool for measuring market performance, creating investment products like ETFs (Exchange-Traded Funds), and benchmarking portfolio management. Indices can be constructed for a variety of asset classes, including equities, fixed income, commodities, and even derivatives. This in-depth guide explores the principles and methodologies behind index construction.
+Index construction is a foundational element in financial markets, serving as a tool for measuring market performance, creating investment products like ETFs (Exchange-Traded Funds), and benchmarking [portfolio management](../p/portfolio_management.md). Indices can be constructed for a variety of asset classes, including equities, fixed income, commodities, and even [derivatives](../d/derivatives.md). This in-depth guide explores the principles and methodologies behind index construction.
 
 ## Introduction to Index Construction
 
@@ -10,7 +10,7 @@ An index is a statistical measure that incorporates the performance of a group o
 
 1. **Broad Market Indices**: These indices aim to represent the entire market rather than a specific subset. Examples include the S&P 500, which represents large-cap U.S. stocks, and the Russell 3000, which includes a broader range of U.S. stocks.
    
-2. **Sector Indices**: These indices focus on specific sectors or industries like technology, healthcare, or utilities. Examples include the NASDAQ-100 Technology Sector Index and the S&P 500 Financials Index.
+2. **[Sector Indices](../s/sector_indices.md)**: These indices focus on specific sectors or industries like technology, healthcare, or utilities. Examples include the NASDAQ-100 Technology Sector Index and the S&P 500 Financials Index.
    
 3. **Thematic Indices**: These focus on specific investment themes such as ESG (Environmental, Social, Governance), blockchain, or artificial intelligence. An example is the MSCI ACWI ESG Leaders Index.
 
@@ -52,7 +52,7 @@ These indices select and weigh constituents based on one or more investment fact
 
 ### Composite Indices
 
-Composite indices combine various types of assets or strategies. An example is the Bloomberg Commodity Index, which tracks the performance of multiple commodity futures contracts.
+Composite indices combine various types of assets or strategies. An example is the Bloomberg Commodity Index, which tracks the performance of multiple [commodity futures](../c/commodity_futures.md) contracts.
 
 1. **Advantages**: Diversified risk and exposure to multiple asset classes.
 2. **Disadvantages**: Complexity in construction and maintenance.
@@ -81,7 +81,7 @@ Indices are not static and require regular rebalancing to ensure they continue t
 
 Rebalancing can occur on a monthly, quarterly, or annual basis. The frequency depends on the type of index and its specific methodology.
 
-1. **Monthly Rebalancing**: Common in high-turnover strategies, like equal-weighted indices.
+1. **Monthly Rebalancing**: Common in high-[turnover strategies](../t/turnover_strategies.md), like equal-weighted indices.
 2. **Quarterly and Annual Rebalancing**: More common in broad market indices and factor-based indices.
 
 ### Rebalancing Process

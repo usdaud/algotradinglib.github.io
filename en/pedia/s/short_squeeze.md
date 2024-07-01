@@ -4,10 +4,10 @@ A short squeeze is a market event in which short sellers are forced to buy back 
 
 ## Understanding Short Selling
 
-To understand a short squeeze, it is crucial first to grasp the concept of short selling. Short selling refers to the practice of selling borrowed stocks with the intention of buying them back at a lower price. In essence, a trader borrows shares from a broker and sells them on the open market at the current price, believing that the stock's price will decline. Once the price drops, the trader buys back the shares at the lower price, returns them to the lender, and pockets the difference.
+To understand a short squeeze, it is crucial first to grasp the concept of [short selling](../s/short_selling.md). [Short selling](../s/short_selling.md) refers to the practice of selling borrowed stocks with the intention of buying them back at a lower price. In essence, a trader borrows shares from a broker and sells them on the open market at the current price, believing that the stock's price will decline. Once the price drops, the trader buys back the shares at the lower price, returns them to the lender, and pockets the difference.
 
 - **Short positions**: When a trader has sold borrowed shares, it's said they have a short position. This is fundamentally different from a long position where the trader owns the stock hoping its price will rise.
-- **Margin accounts**: Short selling typically requires a margin account, wherein the broker loans the trader the borrowed shares and charges interest on the margin loan.
+- **Margin accounts**: [Short selling](../s/short_selling.md) typically requires a margin account, wherein the broker loans the trader the borrowed shares and charges interest on the margin loan.
 
 ## Preconditions for a Short Squeeze
 
@@ -27,7 +27,7 @@ When the stock price rises contrary to short sellers' expectations, it can set o
 
 1. **Rising Stock Price**: Positive news, stronger-than-expected earnings, or other bullish events cause the stock price to increase.
    
-2. **Margin Calls**: As the stock price rises, short sellers face unrealized losses. Brokers may issue margin calls, forcing traders to add more capital to their margin accounts or buy back the stock to close out their positions.
+2. **Margin Calls**: As the stock price rises, short sellers face [unrealized losses](../u/unrealized_losses.md). Brokers may issue margin calls, forcing traders to add more capital to their margin accounts or buy back the stock to close out their positions.
    
 3. **Panic Buying**: To limit losses or avoid further margin calls, short sellers rush to buy back the stock, adding to the demand. This buying pressure can cause the stock price to escalate further.
 
@@ -53,7 +53,7 @@ Coinciding with the GameStop saga, AMC Entertainment also experienced a dramatic
 
 1. **Unlimited Loss Potential**: Unlike long positions, where the maximum loss is the initial investment (as the stock price can theoretically drop only to zero), short positions have theoretically unlimited risk because there's no cap on how high a stock price can rise.
    
-2. **Margin Requirements**: Short selling typically involves borrowing shares, requiring a margin account. If a stock price rises significantly, brokers might demand additional collateral, known as a margin call.
+2. **Margin Requirements**: [Short selling](../s/short_selling.md) typically involves borrowing shares, requiring a margin account. If a stock price rises significantly, brokers might demand additional collateral, known as a margin call.
 
 3. **Market Volatility**: The rapid price increase inherent in short squeezes leads to volatile trading conditions, making it challenging to execute orders at desired prices.
 
@@ -73,21 +73,21 @@ Coinciding with the GameStop saga, AMC Entertainment also experienced a dramatic
 
 ### Algorithmic Trading
 
-Algorithmic trading—computers executing pre-set trading instructions based on variables such as price, timing, and volume—can amplify the speed and extent of short squeezes. Here are a few ways algorithmic trading influences short squeezes:
+[Algorithmic trading](../a/algorithmic_trading.md)—computers executing pre-set trading instructions based on variables such as price, timing, and volume—can amplify the speed and extent of short squeezes. Here are a few ways [algorithmic trading](../a/algorithmic_trading.md) influences short squeezes:
 
 - **Speed**: Algorithms can execute orders at millisecond intervals, contributing to rapid price movements.
 
 - **Volume**: High-frequency traders (HFTs) provide liquidity but can also remove it rapidly, exacerbating price volatility during a short squeeze.
 
-Tradebot Systems, one example of a firm highly involved in algorithmic trading, has been known to capitalize on short squeeze events. More details about their operation can be found on their [website](http://www.tradebotsystems.com/).
+Tradebot Systems, one example of a firm highly involved in [algorithmic trading](../a/algorithmic_trading.md), has been known to capitalize on short squeeze events. More details about their operation can be found on their [website](http://www.tradebotsystems.com/).
 
 ### Social Media and Online Forums
 
-Platforms like Reddit, Twitter, and Discord have become instrumental in coordinating retail trading strategies. The GameStop saga is a prime example of the power of social media in driving market phenomena like short squeezes. This democratization of market participation has led to both opportunities and challenges.
+Platforms like Reddit, Twitter, and Discord have become instrumental in coordinating retail [trading strategies](../t/trading_strategies.md). The GameStop saga is a prime example of the power of social media in driving market phenomena like short squeezes. This democratization of market participation has led to both opportunities and challenges.
 
 ### Data Analytics
 
-Advanced data analytics can be leveraged to identify potential short squeeze opportunities. By analyzing social media sentiment, trading volumes, and short interest ratios, sophisticated traders can preemptively position themselves to benefit from impending short squeezes. Firms specializing in financial data analytics—like S3 Partners—offer services that assess short interest and securities finance data, which can be invaluable for traders looking to understand market dynamics. Visit their [website](https://www.s3partners.com/) for more information.
+Advanced data analytics can be leveraged to identify potential short squeeze opportunities. By analyzing [social media sentiment](../s/social_media_sentiment.md), trading volumes, and [short interest ratios](../s/short_interest_ratios.md), sophisticated traders can preemptively position themselves to benefit from impending short squeezes. Firms specializing in financial data analytics—like S3 Partners—offer services that assess short interest and securities finance data, which can be invaluable for traders looking to understand market dynamics. Visit their [website](https://www.s3partners.com/) for more information.
 
 ## Conclusion
 

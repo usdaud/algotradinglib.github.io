@@ -1,6 +1,6 @@
 # Outperformance Metrics in Algorithmic Trading
 
-In the realm of algorithmic trading, the ability to measure the performance of trading strategies is paramount. Outperformance metrics, also known as performance metrics or performance measures, are key tools used by traders, analysts, and portfolio managers to evaluate how well a trading strategy has performed relative to a benchmark or its expected return. This detailed examination covers various outperformance metrics vital in algorithmic trading.
+In the realm of [algorithmic trading](../a/algorithmic_trading.md), the ability to measure the performance of [trading strategies](../t/trading_strategies.md) is paramount. Outperformance metrics, also known as [performance metrics](../p/performance_metrics.md) or performance measures, are key tools used by traders, analysts, and portfolio managers to evaluate how well a trading strategy has performed relative to a benchmark or its expected return. This detailed examination covers various outperformance metrics vital in [algorithmic trading](../a/algorithmic_trading.md).
 
 ## 1. Alpha
 
@@ -23,23 +23,23 @@ Alpha is often used in conjunction with beta in the Capital Asset Pricing Model 
 
 ## 2. Sharpe Ratio
 
-The Sharpe Ratio measures the performance of an investment compared to a risk-free asset, after adjusting for its risk. It is a measure of the excess return per unit of risk in an investment.
+The [Sharpe Ratio](../s/sharpe_ratio.md) measures the performance of an investment compared to a risk-free asset, after adjusting for its risk. It is a measure of the excess return per unit of risk in an investment.
 
 ### Calculation
 \[ S = \frac{(R_p - R_f)}{\sigma_p} \]
 where:
-- \(S\) is the Sharpe Ratio.
+- \(S\) is the [Sharpe Ratio](../s/sharpe_ratio.md).
 - \(R_p\) is the average return of the investment.
 - \(R_f\) is the risk-free rate.
 - \(\sigma_p\) is the standard deviation of the investment's excess return.
 
 ### Interpretation
-- A higher Sharpe Ratio indicates better risk-adjusted performance.
-- A Sharpe Ratio above 1 is generally considered acceptable, above 2 is very good, and above 3 is excellent.
+- A higher [Sharpe Ratio](../s/sharpe_ratio.md) indicates better risk-adjusted performance.
+- A [Sharpe Ratio](../s/sharpe_ratio.md) above 1 is generally considered acceptable, above 2 is very good, and above 3 is excellent.
 
 ## 3. Information Ratio
 
-The Information Ratio (IR) measures a portfolio manager's ability to generate excess returns relative to a benchmark, adjusted for the risk taken in causing those excess returns. It is similar to the Sharpe Ratio but focuses on the excess return of the active management strategy over a benchmark.
+The [Information Ratio](../i/information_ratio.md) (IR) measures a portfolio manager's ability to generate excess returns relative to a benchmark, adjusted for the risk taken in causing those excess returns. It is similar to the [Sharpe Ratio](../s/sharpe_ratio.md) but focuses on the excess return of the active management strategy over a benchmark.
 
 ### Calculation
 \[ IR = \frac{R_p - R_b}{\sigma_{(R_p - R_b)}} \]
@@ -54,17 +54,17 @@ where:
 
 ## 4. Sortino Ratio
 
-The Sortino Ratio is a variation of the Sharpe Ratio that differentiates harmful volatility from overall volatility by using the asset's standard deviation of negative asset returns (downside deviation) as the risk measure.
+The [Sortino Ratio](../s/sortino_ratio.md) is a variation of the [Sharpe Ratio](../s/sharpe_ratio.md) that differentiates harmful volatility from overall volatility by using the asset's standard deviation of negative asset returns ([downside deviation](../d/downside_deviation.md)) as the risk measure.
 
 ### Calculation
-\[ \text{Sortino Ratio} = \frac{R_p - R_t}{\sigma_d} \]
+\[ \text{[Sortino Ratio](../s/sortino_ratio.md)} = \frac{R_p - R_t}{\sigma_d} \]
 where:
 - \(R_p\) is the portfolio return.
 - \(R_t\) is the target or required return.
-- \(\sigma_d\) is the downside deviation.
+- \(\sigma_d\) is the [downside deviation](../d/downside_deviation.md).
 
 ### Interpretation
-- A higher Sortino Ratio means a better risk-adjusted return.
+- A higher [Sortino Ratio](../s/sortino_ratio.md) means a better [risk-adjusted return](../r/risk-adjusted_return.md).
 - It is particularly useful when assessing investments where downside risk is a major concern.
 
 ## 5. Treynor Ratio
@@ -86,7 +86,7 @@ where:
 Jensen’s Alpha quantifies the excess return that a portfolio generates over its expected return, given its beta and the average market returns.
 
 ### Calculation
-\[ \text{Jensen's Alpha} = R_p - [R_f + \beta_p \times (R_m - R_f)] \]
+\[ \text{[Jensen's Alpha](../j/jensen's_alpha.md)} = R_p - [R_f + \beta_p \times (R_m - R_f)] \]
 where:
 - \(R_p\) is the return on the portfolio.
 - \(R_m\) is the return of the market.
@@ -99,7 +99,7 @@ where:
 
 ## 7. Calmar Ratio
 
-The Calmar Ratio measures the risk-adjusted return of an investment by comparing the average annual compounded rate of return and its maximum drawdown.
+The Calmar Ratio measures the [risk-adjusted return](../r/risk-adjusted_return.md) of an investment by comparing the average annual compounded rate of return and its maximum drawdown.
 
 ### Calculation
 \[ \text{Calmar Ratio} = \frac{\text{CAGR}}{\text{Maximum Drawdown}} \]
@@ -108,7 +108,7 @@ where:
 - Maximum Drawdown is the maximum observed loss from a peak to a trough.
 
 ### Interpretation
-- Higher Calmar Ratio indicates a better risk-adjusted return over a given period.
+- Higher Calmar Ratio indicates a better [risk-adjusted return](../r/risk-adjusted_return.md) over a given period.
 
 ## 8. Omega Ratio
 
@@ -126,7 +126,7 @@ where:
 
 ## 9. Kappa Index
 
-The Kappa index is an extension of the Sortino Ratio, where the Kappa \(3\) or Kappa \(4\) ratios are used to measure risk-adjusted returns based on higher-order Lower Partial Moment statistics.
+The Kappa index is an extension of the [Sortino Ratio](../s/sortino_ratio.md), where the Kappa \(3\) or Kappa \(4\) ratios are used to measure risk-adjusted returns based on higher-order Lower Partial Moment statistics.
 
 ### Calculation
 \[ \text{Kappa} (\lambda) = \frac{R_p - R_f}{LPM_{\lambda}} \]
@@ -166,4 +166,4 @@ where:
 
 ## Conclusion
 
-Outperformance metrics are essential in evaluating algorithmic trading strategies. By understanding and utilizing these measures, traders can better assess the risk and return profiles of their strategies, make informed investment decisions, and optimize their portfolio management processes. Each metric provides different insights, and using a combination of these metrics can offer a comprehensive view of a strategy's performance.
+Outperformance metrics are essential in evaluating [algorithmic trading](../a/algorithmic_trading.md) strategies. By understanding and utilizing these measures, traders can better assess the risk and return profiles of their strategies, make informed investment decisions, and optimize their [portfolio management](../p/portfolio_management.md) processes. Each metric provides different insights, and using a combination of these metrics can offer a comprehensive view of a strategy's performance.

@@ -88,7 +88,7 @@ Ensuring that the strategic objectives of both companies are aligned and clearly
 ## Conclusion
 Mergers and Acquisitions present significant opportunities for growth and value creation. However, the associated risks are complex and multifaceted, requiring meticulous planning, due diligence, and strategic management. By understanding and addressing these risks, companies can enhance their chances of a successful M&A transaction, ultimately driving long-term success and competitive advantage.
 
-For more information on M&A risk management, you can visit expert financial advisory firms such as:
+For more information on M&A [risk management](../r/risk_management.md), you can visit expert financial advisory firms such as:
 
 - [Goldman Sachs](https://www.goldmansachs.com)
 - [Morgan Stanley](https://www.morganstanley.com)

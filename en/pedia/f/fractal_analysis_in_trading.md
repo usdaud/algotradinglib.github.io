@@ -12,7 +12,7 @@ For a bit of background, fractals were first studied by Mandelbrot in relation t
 
 ## Application of Fractals in Trading
 
-The application of fractal analysis in trading involves identifying recurring price patterns that can indicate potential market movements. These patterns can be identified on various time frames, from minutes and hours to days and weeks. 
+The application of fractal analysis in trading involves identifying recurring [price patterns](../p/price_patterns.md) that can indicate potential market movements. These patterns can be identified on various time frames, from minutes and hours to days and weeks. 
 
 ### Identification of Fractal Patterns
 
@@ -41,16 +41,16 @@ Fractals often reflect the natural ebb and flow of market sentiment. By identify
 ## Benefits of Fractal Analysis in Trading
 
 Fractal analysis offers several benefits to traders, including:
-- **Enhanced Pattern Recognition**: Helps in identifying recurring price patterns which are essential for technical analysis.
-- **Scalability**: Can be used across various time frames, making it versatile for different trading strategies.
+- **Enhanced [Pattern Recognition](../p/pattern_recognition.md)**: Helps in identifying recurring [price patterns](../p/price_patterns.md) which are essential for [technical analysis](../t/technical_analysis.md).
+- **Scalability**: Can be used across various time frames, making it versatile for different [trading strategies](../t/trading_strategies.md).
 - **Precision**: Offers precise entry and exit points which can improve trading accuracy.
-- **Complementary with Other Indicators**: Can be used in conjunction with other technical analysis tools like moving averages and oscillators.
+- **Complementary with Other Indicators**: Can be used in conjunction with other [technical analysis](../t/technical_analysis.md) tools like moving averages and oscillators.
 
 ## Challenges of Fractal Analysis
 
 Despite its benefits, fractal analysis also comes with challenges:
 - **Complexity**: Requires deep understanding and experience to effectively apply.
-- **False Signals**: Like other technical indicators, fractals can generate false signals, especially in choppy markets.
+- **False Signals**: Like other [technical indicators](../t/technical_indicators.md), fractals can generate false signals, especially in choppy markets.
 - **Requirement of Confirmation**: Often needs confirmation from other indicators or price action to increase reliability.
 
 ## Practical Examples and Case Studies
@@ -59,7 +59,7 @@ To illustrate the practical application of fractal analysis in trading, let's co
 
 ### Example 1: Forex Trading
 
-In the Forex market, a trader might use fractal analysis on a EUR/USD 4-hour chart. By identifying bullish and bearish fractals, the trader can set entry and exit points. For instance, after identifying a bullish fractal, the trader might set a buy order above the fractal high and a stop loss below the fractal low.
+In the Forex market, a trader might use fractal analysis on a EUR/USD [4-hour chart](../1/4-hour_chart.md). By identifying bullish and bearish fractals, the trader can set entry and exit points. For instance, after identifying a bullish fractal, the trader might set a buy order above the fractal high and a stop loss below the fractal low.
 
 ### Example 2: Stock Market Trading
 
@@ -67,7 +67,7 @@ In stock markets, traders can use fractals to identify turning points of stock p
 
 ### Example 3: Crypto Trading
 
-In the volatile cryptocurrency market, fractal analysis can be particularly useful. For instance, on a Bitcoin 1-hour chart, fractals can help traders navigate through the volatility by providing clear signals for potential reversals.
+In the volatile cryptocurrency market, fractal analysis can be particularly useful. For instance, on a Bitcoin [1-hour chart](../1/1-hour_chart.md), fractals can help traders navigate through the volatility by providing clear signals for potential reversals.
 
 ## Software and Tools for Fractal Analysis
 
@@ -87,10 +87,10 @@ TradingView provides a wide range of fractal indicators that traders can apply t
 
 ### NinjaTrader
 
-NinjaTrader is another robust trading platform that offers fractal analysis tools, allowing traders to integrate fractals into their trading strategies.
+NinjaTrader is another robust trading platform that offers fractal analysis tools, allowing traders to integrate fractals into their [trading strategies](../t/trading_strategies.md).
 
 - [NinjaTrader](https://ninjatrader.com/)
 
 ## Conclusion
 
-Fractal analysis is a powerful tool in the realm of technical analysis for trading. By leveraging the property of self-similarity, traders can gain insights into market movements and improve their decision-making process. While it offers numerous benefits, it is important to use fractal analysis in conjunction with other tools and indicators to enhance its reliability. As with any trading strategy, practice, experience, and continual learning are key to mastering fractal analysis in trading.
+Fractal analysis is a powerful tool in the realm of [technical analysis](../t/technical_analysis.md) for trading. By leveraging the property of self-similarity, traders can gain insights into market movements and improve their decision-making process. While it offers numerous benefits, it is important to use fractal analysis in conjunction with other tools and indicators to enhance its reliability. As with any trading strategy, practice, experience, and continual learning are key to mastering fractal analysis in trading.

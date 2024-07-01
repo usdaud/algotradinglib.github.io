@@ -1,6 +1,6 @@
 # Weighted Returns in Trading
 
-In the domain of algorithmic trading, "weighted returns" refers to a method of evaluating and balancing the returns of different assets in a portfolio based on several influencing factors, such as risk, capital invested, and individual asset performance. This approach helps in creating a diversified portfolio that aims to optimize returns while managing risks effectively. In this detailed guide, we will explore various aspects of weighted returns in trading, their importance, methods of calculating them, and tools used by traders to implement weighted returns strategies.
+In the domain of [algorithmic trading](../a/algorithmic_trading.md), "weighted returns" refers to a method of evaluating and balancing the returns of different assets in a portfolio based on several influencing factors, such as risk, capital invested, and individual asset performance. This approach helps in creating a diversified portfolio that aims to optimize returns while managing risks effectively. In this detailed guide, we will explore various aspects of weighted returns in trading, their importance, methods of calculating them, and tools used by traders to implement weighted returns strategies.
 
 ## Introduction to Weighted Returns
 
@@ -8,9 +8,9 @@ Weighted returns provide a more nuanced perspective than simple average returns 
 
 ### Importance in Portfolio Management
 
-1. **Risk Management**: Weighted returns allow traders to allocate assets in a manner that mitigates risk while aiming for optimal returns.
+1. **[Risk Management](../r/risk_management.md)**: Weighted returns allow traders to allocate assets in a manner that mitigates risk while aiming for optimal returns.
 2. **Diversification**: Proper weighting helps in diversifying the portfolio, reducing the impact of any single asset's poor performance.
-3. **Benchmarking Performance**: Weighted returns help in comparing different portfolios or trading strategies objectively, understanding their relative performance better.
+3. **Benchmarking Performance**: Weighted returns help in comparing different portfolios or [trading strategies](../t/trading_strategies.md) objectively, understanding their relative performance better.
 
 ## Calculating Weighted Returns
 
@@ -74,7 +74,7 @@ R_{vw} = \frac{(150,000 \times 0.05) + (250,000 \times 0.10) + (100,000 \times 0
 
 ### Time-Weighted Return
 
-Time-weighted returns adjust for the effect of cash flows into and out of the portfolio. This method is especially useful for evaluating the performance of a portfolio manager.
+[Time-weighted returns](../t/time-weighted_returns.md) adjust for the effect of cash flows into and out of the portfolio. This method is especially useful for evaluating the performance of a portfolio manager.
 
 ### Formula
 
@@ -103,17 +103,17 @@ R_{tw} = (1 + 0.02) \times (1 + 0.03) \times (1 - 0.01) - 1
 
 ## Tools and Software for Calculating Weighted Returns
 
-Modern trading platforms and portfolio management tools provide built-in functionalities to easily calculate and analyze weighted returns. Here are some key tools commonly utilized by traders and portfolio managers:
+Modern trading platforms and [portfolio management](../p/portfolio_management.md) tools provide built-in functionalities to easily calculate and analyze weighted returns. Here are some key tools commonly utilized by traders and portfolio managers:
 
 ### Portfolio Management Software
 
 1. **Morningstar Direct**: A comprehensive investment analysis platform that offers advanced portfolio analytics and benchmarking tools. More information can be found on [Morningstar Direct's website](https://www.morningstar.com/products/direct).
-2. **Bloomberg Terminal**: Known for its extensive data and analytics capabilities, Bloomberg Terminal helps in portfolio management, including calculating weighted returns.
+2. **Bloomberg Terminal**: Known for its extensive data and analytics capabilities, Bloomberg Terminal helps in [portfolio management](../p/portfolio_management.md), including calculating weighted returns.
 
 ### Trading Platforms
 
-1. **MetaTrader 5**: This widely-used trading platform includes features for algorithmic trading and portfolio analysis. Learn more on the [MetaTrader website](https://www.metatrader5.com/en).
-2. **QuantConnect**: A platform focused on quantitative finance and algorithmic trading, it offers tools for backtesting and analyzing trading strategies with weighted returns. Visit [QuantConnect](https://www.quantconnect.com).
+1. **MetaTrader 5**: This widely-used trading platform includes features for [algorithmic trading](../a/algorithmic_trading.md) and [portfolio analysis](../p/portfolio_analysis.md). Learn more on the [MetaTrader website](https://www.metatrader5.com/en).
+2. **QuantConnect**: A platform focused on [quantitative finance](../q/quantitative_finance.md) and [algorithmic trading](../a/algorithmic_trading.md), it offers tools for [backtesting](../b/backtesting.md) and analyzing [trading strategies](../t/trading_strategies.md) with weighted returns. Visit [QuantConnect](https://www.quantconnect.com).
 
 ### Programming Libraries
 
@@ -132,7 +132,7 @@ Risk-adjusted returns measure the return of an investment relative to its risk. 
 
 #### Sharpe Ratio
 
-One of the most commonly used metrics, the Sharpe Ratio, adjusts returns by subtracting the risk-free rate and dividing by the standard deviation of returns.
+One of the most commonly used metrics, the [Sharpe Ratio](../s/sharpe_ratio.md), adjusts returns by subtracting the risk-free rate and dividing by the standard deviation of returns.
 
 \[
 Sharpe \, Ratio = \frac{R_p - R_f}{\sigma_p}
@@ -145,7 +145,7 @@ Where:
 
 #### Sortino Ratio
 
-The Sortino Ratio is a variation that focuses on downside risk rather than total volatility.
+The [Sortino Ratio](../s/sortino_ratio.md) is a variation that focuses on downside risk rather than total volatility.
 
 \[
 Sortino \, Ratio = \frac{R_p - R_f}{\sigma_{p,down}}
@@ -158,7 +158,7 @@ Where:
 
 #### Mean-Variance Optimization
 
-Developed by Harry Markowitz, mean-variance optimization is a mathematical framework for assembling a portfolio of assets that has the maximum expected return for a given level of risk.
+Developed by Harry Markowitz, [mean-variance optimization](../m/mean-variance_optimization.md) is a mathematical framework for assembling a portfolio of assets that has the maximum expected return for a given level of risk.
 
 ### Formula
 
@@ -182,4 +182,4 @@ Where:
 
 ### Conclusion
 
-Weighted returns in trading are crucial for effective portfolio management and risk mitigation. By understanding different methods of calculating weighted returns, traders can make informed decisions to balance their portfolios and optimize their investment strategies. Modern financial tools and software simplify the process, enabling traders and portfolio managers to implement sophisticated techniques such as mean-variance optimization and risk-adjusted performance metrics.
+Weighted returns in trading are crucial for effective [portfolio management](../p/portfolio_management.md) and risk mitigation. By understanding different methods of calculating weighted returns, traders can make informed decisions to balance their portfolios and optimize their investment strategies. Modern financial tools and software simplify the process, enabling traders and portfolio managers to implement sophisticated techniques such as [mean-variance optimization](../m/mean-variance_optimization.md) and risk-adjusted [performance metrics](../p/performance_metrics.md).

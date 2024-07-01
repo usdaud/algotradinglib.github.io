@@ -28,7 +28,7 @@ Contrary to the CAPM, empirical evidence shows that portfolios of low-volatility
 
 ### Early Research
 
-The Low Volatility Anomaly was first documented by Robert Haugen and James Heins in the 1970s. They found that low-volatility stocks had higher average returns and lower risk compared to high-volatility stocks, challenging the prevailing market efficiency hypothesis.
+The Low Volatility Anomaly was first documented by Robert Haugen and James Heins in the 1970s. They found that low-volatility stocks had higher average returns and lower risk compared to high-volatility stocks, challenging the prevailing [market efficiency](../m/market_efficiency.md) hypothesis.
 
 ### Subsequent Studies
 
@@ -44,7 +44,7 @@ The Low Volatility Anomaly is not confined to any single market; it has been obs
 
 ### Behavioral Finance
 
-Several behavioral finance theories have been proposed to explain the Low Volatility Anomaly:
+Several [behavioral finance](../b/behavioral_finance.md) theories have been proposed to explain the Low Volatility Anomaly:
 - **Lottery Preferences**: Investors may overpay for high-volatility stocks with lottery-like payoff characteristics, expecting large gains despite their low probability. This leads to an overvaluation of high-volatility stocks and undervaluation of low-volatility ones.
 - **Overconfidence**: Overconfident investors may prefer volatile stocks, believing they can time the market or select outperforming stocks, thereby pushing up prices of high-volatility stocks.
 - **Benchmarking and Career Concerns**: Fund managers often benchmark their performance against market indices. To avoid underperformance relative to the benchmark, they might overweight high-volatility stocks, which can move more sharply and quickly, hoping to match or exceed market returns. This inflates the prices of high-volatility stocks and depresses the prices of low-volatility stocks.
@@ -62,8 +62,8 @@ Market structure-related reasons also contribute to the Low Volatility Anomaly:
 Investment strategies based on the Low Volatility Anomaly typically involve constructing portfolios of low-volatility stocks with the expectation of achieving higher risk-adjusted returns. Some common approaches include:
 
 - **Minimum Volatility Portfolios**: These portfolios are constructed to minimize total portfolio volatility. This approach may involve using mathematical optimization techniques to select a combination of stocks that produce the lowest possible volatility for a given return level.
-- **Risk Parity**: This strategy divides investment capital among asset classes such that each contributes equally to the overall portfolio risk. It often results in a significant allocation to low-volatility assets.
-- **Low-Volatility Factor Investing**: This approach involves selecting stocks based on their volatility characteristics, often using factors like historical volatility or beta to identify low-volatility candidates.
+- **[Risk Parity](../r/risk_parity.md)**: This strategy divides investment capital among asset classes such that each contributes equally to the overall portfolio risk. It often results in a significant allocation to low-volatility assets.
+- **Low-Volatility [Factor Investing](../f/factor_investing.md)**: This approach involves selecting stocks based on their volatility characteristics, often using factors like [historical volatility](../h/historical_volatility.md) or beta to identify low-volatility candidates.
 
 ### ETF and Fund Offerings
 
@@ -88,7 +88,7 @@ Despite their advantages, low-volatility strategies are not without drawbacks:
 
 ## Future Prospects
 
-The enduring nature of the Low Volatility Anomaly suggests it is likely to persist, but ongoing research is essential for better understanding its underlying causes and for refining investment strategies. Furthermore, as more investors become aware of and seek to exploit the anomaly, its efficacy could diminish over time due to increased competition and market efficiency.
+The enduring nature of the Low Volatility Anomaly suggests it is likely to persist, but ongoing research is essential for better understanding its underlying causes and for refining investment strategies. Furthermore, as more investors become aware of and seek to exploit the anomaly, its efficacy could diminish over time due to increased competition and [market efficiency](../m/market_efficiency.md).
 
 For more information on companies and products related to low-volatility investing, you can visit the following links:
 - [iShares Edge MSCI Minimum Volatility USA ETF (USMV)](https://www.ishares.com/us/products/239726/)

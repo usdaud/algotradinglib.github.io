@@ -1,6 +1,6 @@
 # Vector Autoregressive Models (VAR)
 
-Vector Autoregressive (VAR) models are a cornerstone of multivariate time series analysis, pivotal in fields such as econometrics, finance, and various branches of the social sciences. These models help capture the linear interdependencies among multiple time series. Unlike univariate processes (like ARMA models), which depend only on their own past values, VAR models incorporate the past values of all variables in the system to predict future values.
+Vector Autoregressive (VAR) models are a cornerstone of multivariate [time series analysis](../t/time_series_analysis.md), pivotal in fields such as econometrics, finance, and various branches of the social sciences. These models help capture the linear interdependencies among multiple time series. Unlike univariate processes (like ARMA models), which depend only on their own past values, VAR models incorporate the past values of all variables in the system to predict future values.
 
 ### Fundamentals of VAR Models
 
@@ -27,7 +27,7 @@ where:
 - **Ordinary Least Squares (OLS)**: Each equation in the VAR can be estimated using OLS since they are linear.
   
 #### 3. Diagnostic Checking
-- **Autocorrelation Check**: Ensure that the residuals do not exhibit significant autocorrelation.
+- **[Autocorrelation](../a/autocorrelation.md) Check**: Ensure that the residuals do not exhibit significant [autocorrelation](../a/autocorrelation.md).
 - **Stability**: Check if the VAR model is stable. A VAR model is stable if the roots of the characteristic polynomial lie outside the unit circle.
 
 #### 4. Forecasting
@@ -103,7 +103,7 @@ Despite their strong utility, VAR models have limitations:
 
 1. **Overfitting**: With a large number of parameters, there's a risk of overfitting, especially in small samples.
 2. **Parameter Uncertainty**: The accuracy of forecasts can be heavily dependent on parameter estimates, which may have uncertainty.
-3. **Stationarity Requirement**: Requires the data to be stationary, which may not always be the case for financial time series.
+3. **Stationarity Requirement**: Requires the data to be stationary, which may not always be the case for [financial time series](../f/financial_time_series.md).
 
 ### Advanced VAR Models
 
@@ -120,6 +120,6 @@ Several statistical and econometric software packages support the implementation
 1. **R**: The `vars` package in R provides a comprehensive toolset for estimating VAR models.
 2. **Python**: The `statsmodels` package in Python includes a module for VAR models.
 3. **EViews**: A proprietary tool specialized in econometric analysis.
-4. **MATLAB**: Includes functions for time series analysis and VAR modeling.
+4. **MATLAB**: Includes functions for [time series analysis](../t/time_series_analysis.md) and VAR modeling.
 
 In conclusion, Vector Autoregressive models are a powerful tool for understanding and forecasting the dynamics in multivariate time series. Through their ability to model the interdependencies among variables, they offer valuable insights, particularly in economic and financial applications.

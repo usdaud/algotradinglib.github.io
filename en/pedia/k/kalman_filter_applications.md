@@ -1,6 +1,6 @@
 # Kalman Filter Applications in Algorithmic Trading
 
-The Kalman filter is a mathematical tool commonly used in control systems and signal processing. It is named after Rudolf E. Kalman who is one of the primary developers of its theory. Within the realm of algorithmic trading, the Kalman filter serves as a powerful tool to predict market movements and adjust trading strategies effectively. This article will delve into the various applications of the Kalman filter in the financial domain and explore its utility in enhancing trading algorithms.
+The Kalman filter is a mathematical tool commonly used in control systems and signal processing. It is named after Rudolf E. Kalman who is one of the primary developers of its theory. Within the realm of [algorithmic trading](../a/algorithmic_trading.md), the Kalman filter serves as a powerful tool to predict market movements and adjust [trading strategies](../t/trading_strategies.md) effectively. This article will delve into the various applications of the Kalman filter in the financial domain and explore its utility in enhancing [trading algorithms](../t/trading_algorithms.md).
 
 ## Introduction to the Kalman Filter
 
@@ -54,7 +54,7 @@ The Kalman gain `K_k` essentially determines how much weight should be given to 
 
 ### Predictive Modeling
 
-One of the primary uses of the Kalman filter in trading is for predictive modeling. Financial markets are influenced by various factors such as news events, interest rates, macroeconomic data, etc. Despite the noisy nature of the market data, Kalman filters can be used to predict asset prices by filtering out random noise and identifying the underlying trends.
+One of the primary uses of the [Kalman filter in trading](../k/kalman_filter_in_trading.md) is for [predictive modeling](../p/predictive_modeling.md). Financial markets are influenced by various factors such as news events, interest rates, macroeconomic data, etc. Despite the noisy nature of the market data, Kalman filters can be used to predict asset prices by filtering out random noise and identifying the underlying trends.
 
 **Example**: A trading strategy may involve predicting the next-day closing price of a stock based on its historical prices. The Kalman filter can be employed to recursively update the price prediction as new data becomes available.
 
@@ -64,23 +64,23 @@ High-Frequency Trading (HFT) involves executing a large number of orders at extr
 
 ### Risk Management
 
-Risk management is a crucial aspect of trading strategies. The Kalman filter can be used to estimate and manage risks by forecasting the volatility of asset prices. Accurate real-time volatility estimates enable traders to adjust hedge ratios dynamically and manage portfolio risks more efficiently.
+[Risk management](../r/risk_management.md) is a crucial aspect of [trading strategies](../t/trading_strategies.md). The Kalman filter can be used to estimate and manage risks by forecasting the volatility of asset prices. Accurate [real-time volatility](../r/real-time_volatility.md) estimates enable traders to adjust hedge ratios dynamically and manage portfolio risks more efficiently.
 
 **Example**: Calculating the Value-at-Risk (VaR) for a portfolio can utilize Kalman filter predictions to better account for changing market conditions and asset correlations.
 
 ### State-Space Models
 
-The Kalman filter is a foundational element in state-space models, which are frequently used in financial trading systems. These models define the state of the market at each point in time and how it evolves, offering a structured framework to create and manage trading strategies.
+The Kalman filter is a foundational element in state-space models, which are frequently used in financial [trading systems](../t/trading_systems.md). These models define the state of the market at each point in time and how it evolves, offering a structured framework to create and manage [trading strategies](../t/trading_strategies.md).
 
 ### Market-Making
 
-In market-making, traders continuously quote buy and sell prices to capture the bid-ask spread. The Kalman filter helps in forecasting the 'fair' midpoint price between the bid and ask, allowing market-makers to adjust their quotes dynamically to maximize profits while minimizing risks.
+In market-making, traders continuously quote buy and sell prices to capture the [bid-ask spread](../b/bid-ask_spread.md). The Kalman filter helps in forecasting the 'fair' midpoint price between the bid and ask, allowing market-makers to adjust their quotes dynamically to maximize profits while minimizing risks.
 
 A practical implementation could involve using the Kalman filter to process real-time trade and quote data to infer the underlying efficient price, thus allowing market-makers to stay competitive.
 
 ### Spread Trading
 
-Spread trading involves taking opposing positions in related financial instruments to profit from the differential movement. In pairs trading, for instance, the Kalman filter can be used to maintain the spread relationship by adjusting positions dynamically in response to market movements, ensuring that deviations are mean-reverting.
+[Spread trading](../s/spread_trading.md) involves taking opposing positions in related financial instruments to profit from the differential movement. In [pairs trading](../p/pairs_trading.md), for instance, the Kalman filter can be used to maintain the spread relationship by adjusting positions dynamically in response to market movements, ensuring that deviations are mean-reverting.
 
 **Example**: A trader might use the Kalman filter to monitor the spread between two stocks predicted to move together. When the spread widens or narrows excessively, the trader can take positions anticipating a return to the mean spread level.
 
@@ -88,13 +88,13 @@ Spread trading involves taking opposing positions in related financial instrumen
 
 Calculating hedge ratios is a common requirement in trading to neutralize risk. The Kalman filter aids in determining dynamic hedge ratios by continuously adjusting them based on the evolving market conditions, ensuring that the hedge remains effective over time.
 
-**Example**: In a futures and spot hedging strategy, the Kalman filter can provide real-time adjustments to the hedge ratio, representing the relation between the underlying asset and the futures contract.
+**Example**: In a futures and spot hedging strategy, the Kalman filter can provide real-time adjustments to the [hedge ratio](../h/hedge_ratio.md), representing the relation between the underlying asset and the futures contract.
 
 ## Practical Implementation
 
 ### Python Implementation
 
-Below is a simplified Python implementation of the Kalman filter for financial time series.
+Below is a simplified Python implementation of the Kalman filter for [financial time series](../f/financial_time_series.md).
 
 ```python
 import numpy as np
@@ -142,8 +142,8 @@ for z in measurements:
     print(kf.get_state())
 ```
 
-This illustrates a simple Kalman filter set-up where the goal might be to estimate the position and velocity of a financial time series given sequential measurements.
+This illustrates a simple Kalman filter set-up where the goal might be to estimate the position and velocity of a [financial time series](../f/financial_time_series.md) given sequential measurements.
 
 ## Conclusion
 
-The Kalman filter is a vital tool for algorithmic trading, assisting traders in refining predictions, managing risks, and optimizing strategies in dynamic market conditions. Its ability to iteratively improve upon predictions using real-time data makes it indispensable for high-frequency trades, spread trading, market-making, and real-time risk management. Familiarity with the Kalman filter's principles and practical implementations can provide traders with a significant edge in the fast-paced trading environment.
+The Kalman filter is a vital tool for [algorithmic trading](../a/algorithmic_trading.md), assisting traders in refining predictions, managing risks, and optimizing strategies in dynamic market conditions. Its ability to iteratively improve upon predictions using real-time data makes it indispensable for high-frequency trades, [spread trading](../s/spread_trading.md), market-making, and real-time [risk management](../r/risk_management.md). Familiarity with the Kalman filter's principles and practical implementations can provide traders with a significant edge in the fast-paced [trading environment](../t/trading_environment.md).

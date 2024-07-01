@@ -42,12 +42,12 @@ Where:
 
 ### Advantages of Zero Inflation Bonds
 1. **Inflation Protection**: The value of investment increases with inflation, preserving the real purchasing power.
-2. **Predictable Returns**: Investors have a clear understanding of the amount they will receive at maturity, making financial planning easier.
+2. **Predictable Returns**: Investors have a clear understanding of the amount they will receive at maturity, making [financial planning](../f/financial_planning.md) easier.
 3. **Simplicity**: The absence of periodic coupons simplifies the investment since it does not require management of periodic interest payments or reinvestments.
 
 ### Disadvantages of Zero Inflation Bonds
 1. **Interest Rate Risk**: If market interest rates rise, the value of the zero inflation bond may decrease.
-2. **Liquidity Risk**: These bonds may not be as liquid as other financial instruments, making it difficult to sell before maturity without incurring a loss.
+2. **[Liquidity Risk](../l/liquidity_risk.md)**: These bonds may not be as liquid as other financial instruments, making it difficult to sell before maturity without incurring a loss.
 3. **Lower Yield**: As these bonds focus on inflation protection, they may offer a lower yield compared to other types of bonds that do not adjust for inflation.
 
 ### Investment Strategies
@@ -55,22 +55,22 @@ Zero inflation bonds can be part of various investment strategies, including:
 
 1. **Long-term Savings**: Ideal for investors looking to safeguard long-term savings, such as retirement funds, from inflationary pressures.
 2. **Defensive Investing**: They can form part of a defensive investment portfolio aimed at minimizing risk and preserving capital.
-3. **Diversification**: Adding zero inflation bonds to a portfolio of other asset classes provides diversification benefits, reducing overall portfolio risk.
+3. **Diversification**: Adding zero inflation bonds to a portfolio of other asset classes provides [diversification benefits](../d/diversification_benefits.md), reducing overall portfolio risk.
 
 ### Zero Inflation Bonds in the Market
 Different types of zero inflation bonds exist in the market, including government-issued securities and corporate bonds indexed to inflation. Examples include:
 
-1. **U.S. Treasury Inflation-Protected Securities (TIPS)**: These are the most common inflation-protected securities in the United States.
+1. **U.S. Treasury [Inflation-Protected Securities](../i/inflation-protected_securities.md) (TIPS)**: These are the most common [inflation-protected securities](../i/inflation-protected_securities.md) in the United States.
 2. **UK Index-Linked Gilts**: Similar instruments issued by the UK government.
-3. **Corporate Inflation-Linked Bonds**: Some corporations issue zero inflation bonds to attract inflation-conscious investors.
+3. **Corporate [Inflation-Linked Bonds](../i/inflation-linked_bonds.md)**: Some corporations issue zero inflation bonds to attract inflation-conscious investors.
 
 ### Relevant Companies and Resources
 Some financial institutions and companies offering inflation-protected investment options include:
 
-1. **U.S. Treasury Department**: Provides information about TIPS and other inflation-protected securities.
+1. **U.S. Treasury Department**: Provides information about TIPS and other [inflation-protected securities](../i/inflation-protected_securities.md).
    - [U.S. Treasury Department](https://www.treasurydirect.gov/)
    
-2. **Vanguard**: Offers investment funds that include inflation-protected securities.
+2. **Vanguard**: Offers investment funds that include [inflation-protected securities](../i/inflation-protected_securities.md).
    - [Vanguard](https://investor.vanguard.com/investment-products/funds/inflation-protected-securities)
    
 3. **BlackRock**: Offers ETFs and funds focused on inflation-protected bonds.

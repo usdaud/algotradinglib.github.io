@@ -3,7 +3,7 @@
 
 **Introduction to Poisson Regression**
 
-Poisson regression is a type of regression model that is specifically designed to handle count data. Unlike linear regression that deals with continuous outcomes, Poisson regression is used when the dependent variable is an integer count. The model is based on the Poisson distribution which assumes that the event occurs independently over a fixed period of time or space. Poisson regression is used in various domains like epidemiology, finance, and trading.
+Poisson regression is a type of regression model that is specifically designed to handle count data. Unlike [linear regression](../l/linear_regression.md) that deals with continuous outcomes, Poisson regression is used when the dependent variable is an integer count. The model is based on the Poisson distribution which assumes that the event occurs independently over a fixed period of time or space. Poisson regression is used in various domains like epidemiology, finance, and trading.
 
 **Mathematical Foundation**
 
@@ -53,11 +53,11 @@ Poisson regression can be applied in trading to model the number of events, such
    - Fit a Poisson regression model on the training data to estimate the coefficients.
 
 5. **Model Evaluation**:
-   - Evaluate the model performance using appropriate metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE).
+   - Evaluate the model performance using appropriate metrics such as Mean Absolute Error (MAE), [Mean Squared Error](../m/mean_squared_error.md) (MSE).
 
 6. **Prediction and Application**:
    - Use the trained model to make predictions on the test data or new data points.
-   - Apply these predictions to make trading decisions or build automated trading strategies.
+   - Apply these predictions to make trading decisions or build automated [trading strategies](../t/trading_strategies.md).
 
 **Code Example**
 
@@ -106,8 +106,8 @@ print(poisson_model.summary())
 
 **Case Study: Bloomberg's Use of Poisson Regression**
 
-Leading financial information provider Bloomberg offers various predictive analytics tools that can be applied to trading and market data analysis. For financial professionals interested in taking their analyses further with Poisson regression and other advanced statistical models, Bloomberg Professional Services provide the necessary data and tools. Learn more about their offerings on their official site: [Bloomberg Professional Services](https://www.bloomberg.com/professional/).
+Leading financial information provider Bloomberg offers various [predictive analytics](../p/predictive_analytics.md) tools that can be applied to trading and market data analysis. For financial professionals interested in taking their analyses further with Poisson regression and other advanced statistical models, Bloomberg Professional Services provide the necessary data and tools. Learn more about their offerings on their official site: [Bloomberg Professional Services](https://www.bloomberg.com/professional/).
 
 **Conclusion**
 
-Poisson regression is a powerful statistical tool that can be utilized in trading to predict the count of various trading-related events. Its application can range from predicting the number of trades, price movements, to more complex order book dynamics. Understanding the statistical foundation and being aware of its assumptions and limitations is crucial for effective application. Combined with robust data and feature selection, Poisson regression can significantly aid in creating predictive models and enhancing trading strategies.
+Poisson regression is a powerful statistical tool that can be utilized in trading to predict the count of various trading-related events. Its application can range from predicting the number of trades, price movements, to more complex [order book dynamics](../o/order_book_dynamics.md). Understanding the statistical foundation and being aware of its assumptions and limitations is crucial for effective application. Combined with robust data and feature selection, Poisson regression can significantly aid in creating predictive models and enhancing [trading strategies](../t/trading_strategies.md).

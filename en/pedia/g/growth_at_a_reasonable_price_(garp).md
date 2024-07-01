@@ -1,7 +1,7 @@
 # Growth at a Reasonable Price (GARP)
 ===================================
 
-**Growth at a Reasonable Price (GARP)** is an investment strategy that combines qualities of both growth investing and value investing. The principle behind GARP is to find stocks that are anticipated to grow earnings at an above-average rate but whose valuations are still reasonable given their growth prospects. The GARP strategy helps investors balance the potentially high returns of growth investing with the risk mitigation of value investing by focusing on companies with solid growth potential that are not overvalued.
+**Growth at a Reasonable Price (GARP)** is an investment strategy that combines qualities of both [growth investing](../g/growth_investing.md) and [value investing](../v/value_investing.md). The principle behind GARP is to find stocks that are anticipated to grow earnings at an above-average rate but whose valuations are still reasonable given their growth prospects. The GARP strategy helps investors balance the potentially high returns of [growth investing](../g/growth_investing.md) with the risk mitigation of [value investing](../v/value_investing.md) by focusing on companies with solid growth potential that are not overvalued.
 
 ### Fundamental Principles of GARP
 
@@ -37,13 +37,13 @@
 
 ### GARP vs. Other Investment Strategies
 
-1. **GARP vs. Growth Investing:**
-   - Growth investing focuses solely on companies expected to grow earnings at an above-average rate, often disregarding high valuations.
+1. **GARP vs. [Growth Investing](../g/growth_investing.md):**
+   - [Growth investing](../g/growth_investing.md) focuses solely on companies expected to grow earnings at an above-average rate, often disregarding high valuations.
    - GARP introduces valuation metrics, ensuring that the investments are not excessively priced relative to their growth potential.
 
-2. **GARP vs. Value Investing:**
-   - Value investing targets undervalued stocks based on fundamental analysis, without necessarily prioritizing growth prospects.
-   - GARP merges value investing principles with a focus on companies exhibiting strong and stable growth.
+2. **GARP vs. [Value Investing](../v/value_investing.md):**
+   - [Value investing](../v/value_investing.md) targets undervalued stocks based on [fundamental analysis](../f/fundamental_analysis.md), without necessarily prioritizing growth prospects.
+   - GARP merges [value investing](../v/value_investing.md) principles with a focus on companies exhibiting strong and stable growth.
 
 3. **GARP vs. Dividend Investing:**
    - Dividend investing targets companies that pay high and consistent dividends, often associated with more mature, lower-growth companies.
@@ -78,7 +78,7 @@ To identify potential GARP investment opportunities, investors can use the follo
 
 ### Conclusion
 
-The Growth at a Reasonable Price (GARP) strategy offers a balanced approach that combines the best aspects of growth and value investing. By focusing on companies with strong growth potential that are still reasonably valued, GARP provides a framework for potentially high returns while managing investment risk. Investors who apply GARP principles rigorously can identify promising investment opportunities and achieve sustainable long-term growth.
+The Growth at a Reasonable Price (GARP) strategy offers a balanced approach that combines the best aspects of [growth and value investing](../g/growth_and_value_investing.md). By focusing on companies with strong growth potential that are still reasonably valued, GARP provides a framework for potentially high returns while managing investment risk. Investors who apply GARP principles rigorously can identify promising investment opportunities and achieve sustainable long-term growth.
 
 For more information about GARP investing strategies, you can visit reputable investment company websites, such as:
 - [Fidelity Investments](https://www.fidelity.com/)

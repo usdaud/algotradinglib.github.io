@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Vertical spreads are a popular options trading strategy, which involves buying and selling options of the same type (i.e., either calls or puts) with the same expiration date but at different strike prices. Vertical spreads can be of two types: bull spreads and bear spreads. This strategy allows traders to limit both their potential profits and losses within a defined range. Vertical spread optimization seeks to maximize the risk-reward ratio of these trades using advanced algorithms and data analytics techniques.
+Vertical spreads are a popular options trading strategy, which involves buying and selling options of the same type (i.e., either calls or puts) with the same expiration date but at different strike prices. Vertical spreads can be of two types: bull spreads and bear spreads. This strategy allows traders to limit both their potential profits and losses within a defined range. [Vertical spread](../v/vertical_spread.md) optimization seeks to maximize the risk-reward ratio of these trades using advanced algorithms and data analytics techniques.
 
 ## Basics of Vertical Spreads
 
@@ -26,11 +26,11 @@ Example:
 
 ### Maximum Profit and Loss
 
-The maximum profit for a bull call spread is the difference between the strike prices minus the net debit paid. For a bear put spread, it is the net credit received. The maximum loss, on the other hand, is the net debit or credit.
+The maximum profit for a [bull call spread](../b/bull_call_spread.md) is the difference between the strike prices minus the net debit paid. For a [bear put spread](../b/bear_put_spread.md), it is the net credit received. The maximum loss, on the other hand, is the net debit or credit.
 
 ### Breakeven Point
 
-The breakeven point of a vertical spread helps traders understand the price level at which the trade becomes profitable. For bull spreads, it is calculated as the lower strike price plus the net debit. For bear spreads, it is the higher strike price minus the net credit.
+The breakeven point of a [vertical spread](../v/vertical_spread.md) helps traders understand the price level at which the trade becomes profitable. For bull spreads, it is calculated as the lower strike price plus the net debit. For bear spreads, it is the higher strike price minus the net credit.
 
 ### Greeks
 
@@ -48,17 +48,17 @@ Analyzing historical data can provide insights into price movements and volatili
 
 ### Monte Carlo Simulations
 
-Monte Carlo simulations can predict the probabilities of different outcomes, allowing traders to assess the risk associated with various vertical spread strategies.
+Monte Carlo simulations can predict the probabilities of different outcomes, allowing traders to assess the risk associated with various [vertical spread](../v/vertical_spread.md) strategies.
 
 ## Software and Tools
 
 ### AlgoTrader
 
-[AlgoTrader](https://www.algotrader.com/) is a comprehensive tool that helps in the development and deployment of algorithmic trading strategies, including vertical spread optimization.
+[AlgoTrader](https://www.algotrader.com/) is a comprehensive tool that helps in the development and deployment of [algorithmic trading](../a/algorithmic_trading.md) strategies, including [vertical spread](../v/vertical_spread.md) optimization.
 
 ### QuantConnect
 
-[QuantConnect](https://www.quantconnect.com/) provides a cloud-based platform for algorithmic trading and offers tools to develop and backtest options strategies.
+[QuantConnect](https://www.quantconnect.com/) provides a cloud-based platform for [algorithmic trading](../a/algorithmic_trading.md) and offers tools to develop and backtest options strategies.
 
 ### TradingView
 
@@ -76,6 +76,6 @@ In a study involving Bitcoin options, the use of Monte Carlo simulations and mac
 
 ## Conclusion
 
-Vertical spread optimization is a powerful technique that leverages algorithms and data analytics to enhance trading outcomes. By focusing on key metrics and employing advanced tools, traders can systematically improve their strategies and achieve better risk-adjusted returns.
+[Vertical spread](../v/vertical_spread.md) optimization is a powerful technique that leverages algorithms and data analytics to enhance trading outcomes. By focusing on key metrics and employing advanced tools, traders can systematically improve their strategies and achieve better risk-adjusted returns.
 
 For more examples and tools, visit the official websites of [AlgoTrader](https://www.algotrader.com/), [QuantConnect](https://www.quantconnect.com/), and [TradingView](https://www.tradingview.com/).

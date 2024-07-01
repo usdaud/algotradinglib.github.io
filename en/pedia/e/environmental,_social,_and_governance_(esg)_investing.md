@@ -73,7 +73,7 @@ Rather than excluding companies, this approach involves actively seeking out tho
 ESG integration involves incorporating ESG factors into the fundamental investment analysis and decision-making processes. This strategy does not exclude companies or sectors outright but evaluates them alongside traditional financial metrics.
 
 ##### 4.4 Thematic Investing
-Thematic investing focuses on particular ESG themes, such as clean energy, water management, or sustainable agriculture.
+[Thematic investing](../t/thematic_investing.md) focuses on particular ESG themes, such as clean energy, water management, or sustainable agriculture.
 
 ##### 4.5 Impact Investing
 Impact investing aims to generate specific beneficial social or environmental effects in addition to financial returns. Investments are made in companies, organizations, or funds with the intention of having a measurable positive impact.

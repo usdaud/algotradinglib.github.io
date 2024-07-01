@@ -14,7 +14,7 @@ Several key factors have been identified in academic research, and some of the m
 
 ### Value
 
-**Value investing** is based on the premise that stocks trading for less than their intrinsic value will, over time, provide superior returns as the market corrects this undervaluation. Common metrics used to assess value include:
+**[Value investing](../v/value_investing.md)** is based on the premise that stocks trading for less than their intrinsic value will, over time, provide superior returns as the market corrects this undervaluation. Common metrics used to assess value include:
 - Price-to-Earnings (P/E) ratio
 - Price-to-Book (P/B) ratio
 - Dividend yields
@@ -25,7 +25,7 @@ The **size factor** reflects the historical tendency for small-cap stocks to out
 
 ### Momentum
 
-The **momentum factor** capitalizes on the tendency for stocks that have performed well in the past to continue performing well in the near future. Momentum can be measured over various time frames and is often employed in short-term trading strategies.
+The **[momentum factor](../m/momentum_factor.md)** capitalizes on the tendency for stocks that have performed well in the past to continue performing well in the near future. Momentum can be measured over various time frames and is often employed in [short-term trading](../s/short-term_trading.md) strategies.
 
 ### Quality
 
@@ -53,8 +53,8 @@ Collecting high-quality data is crucial. This includes historical financial and 
 ### 3. Model Building
 
 Using statistical models, investors can quantify the relationship between the target factors and stock returns. Common approaches include:
-- Factor analysis
-- Regression analysis
+- [Factor analysis](../f/factor_analysis.md)
+- [Regression analysis](../r/regression_analysis.md)
 
 ### 4. Portfolio Construction
 
@@ -72,7 +72,7 @@ By systematically targeting sources of excess return, factor investing aims to p
 
 ### Risk Management
 
-Factor investing allows for better risk management by diversifying risk exposures across different, uncorrelated factors. This can potentially reduce portfolio volatility and drawdowns.
+Factor investing allows for better [risk management](../r/risk_management.md) by diversifying risk exposures across different, uncorrelated factors. This can potentially reduce portfolio volatility and drawdowns.
 
 ### Transparency and Control
 
@@ -84,7 +84,7 @@ Factor investing strategies are widely used by asset managers, hedge funds, and 
 
 ### BlackRock
 
-BlackRock, one of the world’s largest asset managers, employs factor investing strategies through its iShares Smart Beta ETFs. BlackRock provides broad exposure to various factors such as value, quality, size, momentum, and minimum volatility. For more information, visit [BlackRock Factor Investing](https://www.blackrock.com/us/individual/investment-ideas/factor-investing).
+BlackRock, one of the world’s largest asset managers, employs factor investing strategies through its iShares [Smart Beta](../s/smart_beta.md) ETFs. BlackRock provides broad exposure to various factors such as value, quality, size, momentum, and minimum volatility. For more information, visit [BlackRock Factor Investing](https://www.blackrock.com/us/individual/investment-ideas/factor-investing).
 
 ### AQR Capital Management
 
@@ -112,7 +112,7 @@ Implementing factor investing strategies often involves frequent trading, which 
 
 ### Overcrowding
 
-As more investors adopt factor investing strategies, the opportunity to capture excess returns may diminish due to increased competition and market efficiency.
+As more investors adopt factor investing strategies, the opportunity to capture excess returns may diminish due to increased competition and [market efficiency](../m/market_efficiency.md).
 
 ## Conclusion
 

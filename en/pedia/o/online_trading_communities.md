@@ -4,7 +4,7 @@ Online trading communities have become an integral part of the ecosystem for bot
 
 ### Introduction to Online Trading Communities
 
-Online trading communities are web-based platforms where traders converge to discuss market trends, share trading tips, and collaborate on trading strategies. These communities can exist in various formats, including forums, social media groups, and proprietary platforms managed by brokerage firms or trading education providers.
+Online trading communities are web-based platforms where traders converge to discuss market trends, share trading tips, and collaborate on [trading strategies](../t/trading_strategies.md). These communities can exist in various formats, including forums, social media groups, and proprietary platforms managed by brokerage firms or trading education providers.
 
 ### Types of Online Trading Communities
 
@@ -12,12 +12,12 @@ Online trading communities are web-based platforms where traders converge to dis
    - **Purpose:** Forums are dedicated platforms where traders discuss a wide range of topics related to trading.
    - **Examples:** 
      - **Trade2Win**: A global trading community where traders can find discussions on stock, forex, futures, options, and cryptocurrency trading. More information: [Trade2Win](https://www.trade2win.com/)
-     - **Elite Trader**: A forum for day traders and investors with discussions on trading strategies, market analysis, and broker reviews. More information: [Elite Trader](https://www.elitetrader.com/)
+     - **Elite Trader**: A forum for day traders and investors with discussions on [trading strategies](../t/trading_strategies.md), market analysis, and broker reviews. More information: [Elite Trader](https://www.elitetrader.com/)
 
 2. **Social Media Groups**
    - **Purpose:** Social media groups, particularly on platforms like Facebook, LinkedIn, and Reddit, allow traders to engage in real-time discussions and share quick insights.
    - **Examples:**
-     - **Reddit's r/WallStreetBets**: Infamous for its role in the GameStop trading frenzy; focuses on high-risk trading strategies. Visit: [reddit r/WallStreetBets](https://www.reddit.com/r/wallstreetbets/)
+     - **Reddit's r/WallStreetBets**: Infamous for its role in the GameStop trading frenzy; focuses on [high-risk trading strategies](../h/high-risk_trading_strategies.md). Visit: [reddit r/WallStreetBets](https://www.reddit.com/r/wallstreetbets/)
      - **LinkedIn Trading Groups**: Professional groups for traders and financial analysts to discuss market trends and share career opportunities.
 
 3. **Proprietary Platforms**
@@ -29,14 +29,14 @@ Online trading communities are web-based platforms where traders converge to dis
 ### Features and Benefits of Online Trading Communities
 
 1. **Knowledge Sharing**
-   - Communities enable the exchange of trading strategies, insights, and market analysis. 
+   - Communities enable the exchange of [trading strategies](../t/trading_strategies.md), insights, and market analysis. 
    - Members can learn from each other's successes and mistakes, accelerating the learning curve.
 
 2. **Real-time Discussion**
    - With platforms like Discord and Telegram, traders can engage in real-time discussions, which is crucial for reacting promptly to market movements.
 
 3. **Networking**
-   - Online trading communities provide opportunities for networking, which can lead to mentorship, partnerships, and collaboration on trading systems and algorithms.
+   - Online trading communities provide opportunities for networking, which can lead to mentorship, partnerships, and collaboration on [trading systems](../t/trading_systems.md) and algorithms.
 
 4. **Emotional Support**
    - Trading can be a stressful activity. Being part of a community offers emotional support and reduces the feeling of isolation.
@@ -55,21 +55,21 @@ Online trading communities are web-based platforms where traders converge to dis
 ### Notable Online Trading Communities and Their Philosophies
 
 1. **Investors Underground**
-   - Focuses on day trading and provides educational content, live trading channels, and forums. Their philosophy emphasizes the importance of rigorous preparation and disciplined trading. More information: [Investors Underground](https://www.investorsunderground.com/)
+   - Focuses on [day trading](../d/day_trading.md) and provides educational content, live trading channels, and forums. Their philosophy emphasizes the importance of rigorous preparation and disciplined trading. More information: [Investors Underground](https://www.investorsunderground.com/)
 
 2. **StockTwits**
    - A social media platform dedicated to stock market trading, allowing users to follow specific stocks and sectors. Their "trending" feature helps traders track popular securities and market sentiments. Visit: [StockTwits](https://stocktwits.com/)
 
 3. **BabyPips**
-   - Primarily targets forex traders with a vibrant forum and comprehensive educational resources. Their philosophy often highlights the importance of understanding macroeconomic indicators and technical analysis. More information: [BabyPips](https://www.babypips.com/)
+   - Primarily targets forex traders with a vibrant forum and comprehensive educational resources. Their philosophy often highlights the importance of understanding macroeconomic indicators and [technical analysis](../t/technical_analysis.md). More information: [BabyPips](https://www.babypips.com/)
 
 ### Impact on Trading Strategies and Market Movements
 
 1. **Collaborative Algorithm Development**
-   - In communities dedicated to algorithmic trading, members often collaborate to develop and refine trading bots and automated systems.
+   - In communities dedicated to [algorithmic trading](../a/algorithmic_trading.md), members often collaborate to develop and refine trading bots and automated systems.
 
-2. **Sentiment Analysis**
-   - Platforms like StockTwits provide sentiment analysis based on the collective mood and opinions of the community, which can influence trading strategies.
+2. **[Sentiment Analysis](../s/sentiment_analysis.md)**
+   - Platforms like StockTwits provide [sentiment analysis](../s/sentiment_analysis.md) based on the collective mood and opinions of the community, which can influence [trading strategies](../t/trading_strategies.md).
 
 3. **Market Movements**
    - The collective actions of large online communities can impact market movements. The GameStop event driven by r/WallStreetBets is a prime example.
@@ -77,7 +77,7 @@ Online trading communities are web-based platforms where traders converge to dis
 ### Future Trends in Online Trading Communities
 
 1. **Integration with AI**
-   - The integration of artificial intelligence can enhance platforms by moderating content, identifying promising trading strategies, and providing personalized learning paths for traders.
+   - The integration of artificial intelligence can enhance platforms by moderating content, identifying promising [trading strategies](../t/trading_strategies.md), and providing personalized learning paths for traders.
 
 2. **Decentralized Platforms**
    - With the rise of blockchain, decentralized trading communities could emerge, promoting transparency and reducing the risks associated with centralized moderation.

@@ -69,7 +69,7 @@ While moat investing has its advantages, there are also inherent risks:
 - **Disruption:** Technological advancements can quickly erode competitive advantages. Companies like Blockbuster had wide moats, but technological changes made them obsolete.
 - **Regulatory Risks:** Governments can enact regulations that weaken or eliminate moats. Pharmaceutical companies face constant threats from potential changes in patent laws or drug pricing regulations.
 - **Complacency:** Companies with strong moats may become complacent, leading to a lack of innovation and eventual erosion of their competitive advantages.
-- **Economic Cycles:** During economic downturns, even wide moat companies can suffer significant declines in profitability.
+- **[Economic Cycles](../e/economic_cycles.md):** During economic downturns, even wide moat companies can suffer significant declines in profitability.
 
 ### Strategies for Wide Moat Investing
 

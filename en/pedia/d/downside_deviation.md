@@ -1,6 +1,6 @@
 # Downside Deviation
 
-In the realm of quantitative finance and algorithmic trading, understanding the concept of risk is crucial. One of the ways to measure risk, particularly in downside movement, is through an advanced statistical measure known as downside deviation.
+In the realm of [quantitative finance](../q/quantitative_finance.md) and [algorithmic trading](../a/algorithmic_trading.md), understanding the concept of risk is crucial. One of the ways to measure risk, particularly in downside movement, is through an advanced statistical measure known as downside deviation.
 
 ## Definition and Explanation
 
@@ -70,15 +70,15 @@ Thus, the downside deviation for this period is approximately 1.14%.
 
 ## Applications in Algorithmic Trading
 
-1. **Risk Management:**
-   Downside deviation is integral in risk management strategies. Algorithmic trading systems use this metric to construct portfolios that minimize exposure to downside risk, thus protecting investor capital from significant losses.
+1. **[Risk Management](../r/risk_management.md):**
+   Downside deviation is integral in [risk management](../r/risk_management.md) strategies. [Algorithmic trading](../a/algorithmic_trading.md) systems use this metric to construct portfolios that minimize exposure to downside risk, thus protecting investor capital from significant losses.
 
-2. **Portfolio Optimization:**
+2. **[Portfolio Optimization](../p/portfolio_optimization.md):**
    Modern portfolio theory often incorporates downside deviation into optimization models to construct efficient frontiers, balancing returns with minimized downside risk.
 
 3. **Performance Evaluation:**
-   Beyond the standard measures like Sharpe Ratio, which considers total volatility, newer metrics like the Sortino Ratio rely on downside deviation to provide a clear picture of risk-adjusted returns. The Sortino Ratio modifies the Sharpe Ratio by replacing standard deviation with downside deviation: 
-   \[ \text{Sortino Ratio} = \frac{R_p - \text{MAR}}{\text{Downside Deviation}} \]
+   Beyond the standard measures like [Sharpe Ratio](../s/sharpe_ratio.md), which considers total volatility, newer metrics like the [Sortino Ratio](../s/sortino_ratio.md) rely on downside deviation to provide a clear picture of risk-adjusted returns. The [Sortino Ratio](../s/sortino_ratio.md) modifies the [Sharpe Ratio](../s/sharpe_ratio.md) by replacing standard deviation with downside deviation: 
+   \[ \text{[Sortino Ratio](../s/sortino_ratio.md)} = \frac{R_p - \text{MAR}}{\text{Downside Deviation}} \]
    where \( R_p \) is the portfolio return. This ratio provides a more focused view on the return potential for a given level of downside risk.
 
 ## Advantages Over Traditional Measures
@@ -90,16 +90,16 @@ Thus, the downside deviation for this period is approximately 1.14%.
    Many investors are more concerned with avoiding losses than with achieving high returns. Downside deviation aligns with this mindset, emphasizing the importance of limiting poor performance.
 
 3. **Improved Decision Making:**
-   For fund managers and algorithmic trading systems, using downside deviation improves decision-making processes by incorporating a more nuanced understanding of risk.
+   For fund managers and [algorithmic trading](../a/algorithmic_trading.md) systems, using downside deviation improves decision-making processes by incorporating a more nuanced understanding of risk.
 
 ## Companies and Resources
 
 Several companies and resources provide tools and analytics for measuring and utilizing downside deviation in investment strategies. Notable among them are:
 
-- [QuantConnect](https://www.quantconnect.com/): An algorithmic trading platform that offers extensive tools for developing and testing algorithms, including risk management analytics.
+- [QuantConnect](https://www.quantconnect.com/): An [algorithmic trading](../a/algorithmic_trading.md) platform that offers extensive tools for developing and testing algorithms, including [risk management](../r/risk_management.md) analytics.
 - [Kensho by S&P Global](https://www.kensho.com/): Provides advanced analytics and insights, including risk measures such as downside deviation.
 - [Morningstar](https://www.morningstar.com/): Offers various investment analysis tools, including metrics on downside risk and performance evaluation.
 
 ## Conclusion
 
-Downside deviation is an advanced yet crucial metric in the field of algorithmic trading and quantitative finance. By focusing on the risk of negative returns, it provides a more comprehensive measure of potential losses, aiding in better risk management, portfolio optimization, and performance evaluation. As investors and fund managers continue to seek more robust ways to manage risk, downside deviation will likely remain a valuable tool in their arsenal.
+Downside deviation is an advanced yet crucial metric in the field of [algorithmic trading](../a/algorithmic_trading.md) and [quantitative finance](../q/quantitative_finance.md). By focusing on the risk of negative returns, it provides a more comprehensive measure of potential losses, aiding in better [risk management](../r/risk_management.md), [portfolio optimization](../p/portfolio_optimization.md), and performance evaluation. As investors and fund managers continue to seek more robust ways to manage risk, downside deviation will likely remain a valuable tool in their arsenal.

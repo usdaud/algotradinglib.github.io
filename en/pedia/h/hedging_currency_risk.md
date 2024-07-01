@@ -16,7 +16,7 @@ Currency risk affects all kinds of market participants:
 
 ### Forward Contracts
 
-A forward contract is a customized contract between two parties to buy or sell an asset at a specified future date for a price that is agreed upon today. Forward contracts can be used to hedge against currency fluctuations by locking in an exchange rate today for a transaction that will occur at a future date.
+A forward contract is a customized contract between two parties to buy or sell an asset at a specified future date for a price that is agreed upon today. [Forward contracts](../f/forward_contracts.md) can be used to hedge against currency fluctuations by locking in an exchange rate today for a transaction that will occur at a future date.
 
 #### Case Example: 
 
@@ -24,14 +24,14 @@ If a U.S. company expects to receive 1 million euros in six months, they might e
 
 ### Futures Contracts
 
-Unlike forward contracts, futures are standardized and traded on exchanges. They operate similarly to forward contracts but offer the added security of clearinghouses, which reduce the risk of counterparty default. Futures are ideal for smaller transactions or for those who prefer the security of exchange trading.
+Unlike [forward contracts](../f/forward_contracts.md), futures are standardized and traded on exchanges. They operate similarly to [forward contracts](../f/forward_contracts.md) but offer the added security of clearinghouses, which reduce the risk of counterparty default. Futures are ideal for smaller transactions or for those who prefer the security of exchange trading.
 
 ### Options Contracts
 
 An options contract provides the buyer the right, but not the obligation, to exchange money at a predetermined rate within a specified time period. Options can be advantageous because they offer more flexibility than forwards or futures. The two main types are:
 
 - **Call Options**: The right to buy a currency at a specified exchange rate.
-- **Put Options**: The right to sell a currency at a specified exchange rate.
+- **[Put Options](../p/put_options.md)**: The right to sell a currency at a specified exchange rate.
 
 ### Currency Swaps
 
@@ -62,14 +62,14 @@ Multilateral netting involves the consolidation of multiple corporate positions 
 - Directly offset foreign currency transaction exposure.
 
 #### Disadvantages:
-- Counterparty risk.
+- [Counterparty risk](../c/counterparty_risk.md).
 - Limited flexibility; contracts are binding.
 
 ### Futures Contracts
 
 #### Advantages:
 - Standardization aids liquidity.
-- Reduced counterparty risk due to clearinghouses.
+- Reduced [counterparty risk](../c/counterparty_risk.md) due to clearinghouses.
 
 #### Disadvantages:
 - Not customizable.
@@ -99,7 +99,7 @@ Multilateral netting involves the consolidation of multiple corporate positions 
 
 #### Advantages:
 - Reduces reliance on financial instruments for hedging.
-- Simplifies risk management.
+- Simplifies [risk management](../r/risk_management.md).
 
 #### Disadvantages:
 - May restrict business activities and operational flexibility.
@@ -119,15 +119,15 @@ Multilateral netting involves the consolidation of multiple corporate positions 
 
 ### Case Study: Apple Inc.
 
-Apple Inc. is a classic example of a company actively involved in managing currency risk. The company uses a combination of forward contracts and options to hedge its foreign currency exposures. Apple’s international operations generate significant revenue, which could be adversely affected by currency fluctuations. The firm’s robust risk management and diversified operations strategy have helped stabilize its financial performance despite the volatile nature of the foreign exchange markets.
+Apple Inc. is a classic example of a company actively involved in managing currency risk. The company uses a combination of [forward contracts](../f/forward_contracts.md) and options to hedge its foreign currency exposures. Apple’s international operations generate significant revenue, which could be adversely affected by currency fluctuations. The firm’s robust [risk management](../r/risk_management.md) and diversified operations strategy have helped stabilize its financial performance despite the volatile nature of the foreign exchange markets.
 
 ### Case Study: Microsoft Corporation
 
-Microsoft Corporation employs natural hedging and netting strategies along with financial instruments like options and forwards. The firm’s significant revenue from international markets necessitates effective currency risk management to protect earnings. Through multilateral netting, Microsoft consolidates its global currency positions, reducing its economic exposure and transaction costs. 
+Microsoft Corporation employs natural hedging and netting strategies along with financial instruments like options and forwards. The firm’s significant revenue from international markets necessitates effective currency [risk management](../r/risk_management.md) to protect earnings. Through multilateral netting, Microsoft consolidates its global currency positions, reducing its economic exposure and transaction costs. 
 
 ### Implementation by Financial Institutions
 
-Financial institutions like JPMorgan Chase, Goldman Sachs, and Citibank provide extensive currency risk management services, including hedging solutions for various clients. These services often encompass all the strategies discussed above, tailored to the specific needs of each client.
+Financial institutions like JPMorgan Chase, Goldman Sachs, and Citibank provide extensive currency [risk management](../r/risk_management.md) services, including hedging solutions for various clients. These services often encompass all the strategies discussed above, tailored to the specific needs of each client.
 
 - [JPMorgan Chase](https://www.jpmorgan.com)
 - [Goldman Sachs](https://www.goldmansachs.com)

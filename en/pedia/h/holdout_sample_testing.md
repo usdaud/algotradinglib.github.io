@@ -1,6 +1,6 @@
 # Holdout Sample Testing
 
-Holdout Sample Testing is a critical method used in the evaluation and validation of trading algorithms in the field of algorithmic trading. It serves to provide a robust framework for assessing the performance of a model or strategy outside the training data. Here, we explore the concept, methodologies, advantages, and potential pitfalls in extensive detail.
+Holdout Sample Testing is a critical method used in the evaluation and validation of [trading algorithms](../t/trading_algorithms.md) in the field of [algorithmic trading](../a/algorithmic_trading.md). It serves to provide a robust framework for assessing the performance of a model or strategy outside the training data. Here, we explore the concept, methodologies, advantages, and potential pitfalls in extensive detail.
 
 ## Understanding Holdout Sample Testing
 
@@ -18,7 +18,7 @@ Holdout Sample Testing involves partitioning a dataset into two distinct subsets
 
 ## Importance in Algorithmic Trading
 
-In algorithmic trading, the strategies and models developed often utilize historical market data. The holdout sample's role is crucial to ensure that these strategies can generalize to unseen data, which represents future market conditions.
+In [algorithmic trading](../a/algorithmic_trading.md), the strategies and models developed often utilize historical market data. The holdout sample's role is crucial to ensure that these strategies can generalize to unseen data, which represents future market conditions.
 
 ### Benefits
 - **Avoids Overfitting:** By evaluating the model on an unseen portion of the dataset, one can verify that the model does not just capture noise inherent in the training data but can identify underlying patterns.
@@ -42,7 +42,7 @@ A more sophisticated variation where the data is split into k subsets (folds). T
 - **Accuracy:** Proportion of correct predictions.
 - **Precision and Recall:** Measures related to the correctness of positive predictions.
 - **F1 Score:** Harmonic mean of precision and recall, balancing both metrics.
-- **Sharpe Ratio:** Measures the strategy’s performance relative to risk.
+- **[Sharpe Ratio](../s/sharpe_ratio.md):** Measures the strategy’s performance relative to risk.
 
 ### Financial Metrics
 - **Profitability:** Net profit or loss.
@@ -77,8 +77,8 @@ For HFT strategies where milliseconds can make a difference, holdout sample test
 Libraries like Scikit-learn in Python offer built-in functions to split datasets and perform holdout sample testing efficiently.
 
 ### Commercial Platforms
-- **[QuantConnect](https://www.quantconnect.com/):** Provides a cloud-based platform for backtesting and validating trading algorithms with extensive data libraries and computational resources.
-- **[AlgoTrader](https://www.algotrader.com/):** An institutional-grade algorithmic trading software that supports holdout sample testing among other advanced features.
+- **[QuantConnect](https://www.quantconnect.com/):** Provides a cloud-based platform for [backtesting](../b/backtesting.md) and validating [trading algorithms](../t/trading_algorithms.md) with extensive data libraries and computational resources.
+- **[AlgoTrader](https://www.algotrader.com/):** An institutional-grade [algorithmic trading](../a/algorithmic_trading.md) software that supports holdout sample testing among other advanced features.
 
 ### Implementation Steps
 1. **Data Collection and Preprocessing:** Gather historical market data and perform necessary preprocessing steps like normalization, cleaning, and feature engineering.
@@ -93,4 +93,4 @@ Libraries like Scikit-learn in Python offer built-in functions to split datasets
 
 ## Conclusion
 
-Holdout Sample Testing is indispensable in the development and validation of trading algorithms, offering a robust mechanism to verify their performance on unseen data. By carefully implementing and adhering to best practices, traders and developers can reduce overfitting risks, enhance generalizability, and improve real-world trading outcomes. Whether through simple random splits or advanced techniques like k-fold cross-validation, the goal remains the same: to ensure the trading models are not only statistically sound but also practically viable.
+Holdout Sample Testing is indispensable in the development and validation of [trading algorithms](../t/trading_algorithms.md), offering a robust mechanism to verify their performance on unseen data. By carefully implementing and adhering to best practices, traders and developers can reduce overfitting risks, enhance generalizability, and improve real-world trading outcomes. Whether through simple random splits or advanced techniques like k-fold cross-validation, the goal remains the same: to ensure the [trading models](../t/trading_models.md) are not only statistically sound but also practically viable.

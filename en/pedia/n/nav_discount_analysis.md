@@ -38,27 +38,27 @@ Several factors can result in a NAV discount:
 
 ### Importance in Algo Trading
 
-Algorithmic trading (algo trading) involves the use of computer algorithms to execute trades at high speeds and based on pre-defined criteria. NAV discount analysis is crucial for developing and optimizing trading strategies for several reasons:
+[Algorithmic trading](../a/algorithmic_trading.md) (algo trading) involves the use of computer algorithms to execute trades at high speeds and based on pre-defined criteria. NAV discount analysis is crucial for developing and optimizing [trading strategies](../t/trading_strategies.md) for several reasons:
 
-1. **Arbitrage Opportunities**: Algorithms can identify and exploit arbitrage opportunities between NAV and market price. 
+1. **[Arbitrage](../a/arbitrage.md) Opportunities**: Algorithms can identify and exploit [arbitrage](../a/arbitrage.md) opportunities between NAV and market price. 
 
-2. **Risk Management**: Incorporating NAV discount analysis into algorithms helps mitigate risks by avoiding overvalued funds and identifying undervalued ones.
+2. **[Risk Management](../r/risk_management.md)**: Incorporating NAV discount analysis into algorithms helps mitigate risks by avoiding overvalued funds and identifying undervalued ones.
 
-3. **Sentiment Analysis**: Algorithms can use market sentiment derived from NAV discounts to forecast future price movements and make informed trading decisions.
+3. **[Sentiment Analysis](../s/sentiment_analysis.md)**: Algorithms can use market sentiment derived from NAV discounts to forecast future price movements and make informed trading decisions.
 
 ### Strategies for Algo Trading with NAV Discount Analysis
 
-Here are some trading strategies that can be implemented using NAV discount analysis:
+Here are some [trading strategies](../t/trading_strategies.md) that can be implemented using NAV discount analysis:
 
 1. **Discount Capture Strategy**: This strategy involves identifying funds trading at significant discounts and purchasing them with the expectation that the discount will narrow, generating profit.
 
-2. **Mean Reversion Strategy**: This approach assumes that the NAV discount/premium will revert to its historical mean over time. Algorithms can buy at high discounts and sell as the discount narrows back to its average value.
+2. **[Mean Reversion](../m/mean_reversion.md) Strategy**: This approach assumes that the NAV discount/premium will revert to its historical mean over time. Algorithms can buy at high discounts and sell as the discount narrows back to its average value.
 
 3. **Momentum Strategy**: In this strategy, algorithms detect the momentum of NAV discounts and trade accordingly, buying funds showing narrowing discounts and selling those with widening ones.
 
 4. **Pair Trading**: Algorithms can implement pair trading by identifying two similar yet distinct funds. When one is trading at a discount while the other is at a premium, the algorithm can long the former and short the latter to capture spreads.
 
-5. **Leveraged Positions**: In some cases, it might be advantageous to take leveraged positions in funds displaying significant NAV discounts, believing the potential for mean reversion outweighs the additional risk from the leveraged position.
+5. **Leveraged Positions**: In some cases, it might be advantageous to take leveraged positions in funds displaying significant NAV discounts, believing the potential for [mean reversion](../m/mean_reversion.md) outweighs the additional risk from the leveraged position.
 
 ### Key Platforms and Firms Utilized for NAV Discount Algo Trading
 
@@ -66,14 +66,14 @@ Various fintech firms and platforms specialize in NAV discount algo trading and 
 
 1. **Kensho Technologies**: Known for AI-driven financial analytics [Kensho](https://www.kensho.com/)
 
-2. **QuantConnect**: Provides a collaborative environment for developing and testing algorithmic trading strategies [QuantConnect](https://www.quantconnect.com/)
+2. **QuantConnect**: Provides a collaborative environment for developing and testing [algorithmic trading](../a/algorithmic_trading.md) strategies [QuantConnect](https://www.quantconnect.com/)
 
 3. **Two Sigma**: A technology-driven hedge fund that utilizes machine learning and distributed computing for trading [Two Sigma](https://www.twosigma.com/)
 
 4. **AlphaSimplex Group**: Focuses on alternative investment solutions leveraging NAV analysis among other strategies [AlphaSimplex](https://www.alphasimplex.com/)
 
-5. **WorldQuant**: Uses quantitative research and algorithmic trading strategies integrating NAV discount data [WorldQuant](https://www.worldquant.com/)
+5. **WorldQuant**: Uses [quantitative research](../q/quantitative_research.md) and [algorithmic trading](../a/algorithmic_trading.md) strategies integrating NAV discount data [WorldQuant](https://www.worldquant.com/)
 
 ### Conclusion
 
-NAV discount analysis is a critical aspect of evaluating and trading ETFs and closed-end funds. For algorithmic traders, understanding and effectively utilizing NAV discounts can open up significant opportunities for profit generation, risk management, and enhancing trading efficiency. As technology and data processing capabilities continue to advance, integrating NAV discount analysis into sophisticated trading algorithms will remain an essential tool for both institutional and retail investors. 
+NAV discount analysis is a critical aspect of evaluating and trading ETFs and closed-end funds. For algorithmic traders, understanding and effectively utilizing NAV discounts can open up significant opportunities for profit generation, [risk management](../r/risk_management.md), and enhancing trading efficiency. As technology and data processing capabilities continue to advance, integrating NAV discount analysis into sophisticated [trading algorithms](../t/trading_algorithms.md) will remain an essential tool for both institutional and retail investors. 

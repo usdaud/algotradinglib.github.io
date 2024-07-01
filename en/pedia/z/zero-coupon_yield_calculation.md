@@ -14,7 +14,7 @@ Unlike standard bonds that pay interest periodically, zero-coupon bonds pay the 
 
 ### Calculation of Zero-Coupon Yield
 
-The yield of a zero-coupon bond, also known as the bond's yield to maturity (YTM), is the internal rate of return (IRR) on the investment. It is the interest rate that equates the present value of the bond's future cash flow (the face value at maturity) to its current price.
+The yield of a [zero-coupon bond](../z/zero-coupon_bond.md), also known as the bond's [yield to maturity](../y/yield_to_maturity.md) (YTM), is the internal rate of return (IRR) on the investment. It is the interest rate that equates the present value of the bond's future cash flow (the face value at maturity) to its current price.
 
 #### Zero-Coupon Yield Formula
 
@@ -23,14 +23,14 @@ The zero-coupon yield can be calculated using the following formula:
 YTM = \left( \frac{FV}{PV} \right)^{\frac{1}{n}} - 1 
 \]
 Where:
-- \( YTM \) = Yield to Maturity
+- \( YTM \) = [Yield to Maturity](../y/yield_to_maturity.md)
 - \( FV \) = Face Value of the bond
 - \( PV \) = Present Value (purchase price) of the bond
 - \( n \) = Number of years until maturity
 
 #### Example Calculation
 
-Assume an investor purchases a zero-coupon bond with a face value of $1,000, maturing in 5 years, at a price of $800.
+Assume an investor purchases a [zero-coupon bond](../z/zero-coupon_bond.md) with a face value of $1,000, maturing in 5 years, at a price of $800.
 
 \[ 
 YTM = \left( \frac{1000}{800} \right)^{\frac{1}{5}} - 1 
@@ -46,12 +46,12 @@ YTM = 1.045639 - 1 \]
 YTM = 0.045639 \text{ or } 4.56\%
 \]
 
-Therefore, the yield to maturity on this zero-coupon bond is 4.56%.
+Therefore, the [yield to maturity](../y/yield_to_maturity.md) on this [zero-coupon bond](../z/zero-coupon_bond.md) is 4.56%.
 
 ### Practical Applications
 
 #### Treasury STRIPS
-Treasury STRIPS (Separate Trading of Registered Interest and Principal Securities) are a type of zero-coupon bond issued by the U.S. Treasury. Investors can purchase individual interest or principal components of Treasury securities as separate securities.
+Treasury STRIPS (Separate Trading of Registered Interest and Principal Securities) are a type of [zero-coupon bond](../z/zero-coupon_bond.md) issued by the U.S. Treasury. Investors can purchase individual interest or principal components of Treasury securities as separate securities.
 
 #### Corporate and Municipal Zero-Coupon Bonds
 
@@ -66,7 +66,7 @@ One of the primary risks for zero-coupon bonds is interest rate risk. Since zero
 Even though zero-coupon bonds do not pay periodic interest, the accrued interest (the difference between the purchase price and the face value) is taxable as "phantom income" for the bondholder each year before maturity in many jurisdictions.
 
 #### Credit Risk
-If the issuer of the zero-coupon bond faces financial difficulties or defaults, the bondholder may not receive the expected face value at maturity. This risk is particularly relevant for corporate and municipal zero-coupon bonds.
+If the issuer of the [zero-coupon bond](../z/zero-coupon_bond.md) faces financial difficulties or defaults, the bondholder may not receive the expected face value at maturity. This risk is particularly relevant for corporate and municipal zero-coupon bonds.
 
 ### Conclusion
 

@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Volume Weighted Indicators (VWIs) are an essential class of technical analysis tools used by traders, particularly in algorithmic trading (or algo-trading). These indicators measure market trends and momentum by taking volume into account, along with price data. Unlike traditional price-based indicators, VWIs offer a more comprehensive view of market dynamics, as they incorporate the trading volume as a critical factor that can provide insights into the strength and sustainability of price movements.
+Volume Weighted Indicators (VWIs) are an essential class of [technical analysis](../t/technical_analysis.md) tools used by traders, particularly in [algorithmic trading](../a/algorithmic_trading.md) (or algo-trading). These indicators measure market trends and momentum by taking volume into account, along with price data. Unlike traditional price-based indicators, VWIs offer a more comprehensive view of market dynamics, as they incorporate the trading volume as a critical factor that can provide insights into the strength and sustainability of price movements.
 
 ## Core Concepts
 
@@ -63,7 +63,7 @@ CMF is calculated over a given period as follows:
 
 ### Algorithmic Strategy Incorporation
 
-Volume Weighted Indicators can be built into algorithmic trading strategies in multiple ways. Common uses include:
+Volume Weighted Indicators can be built into [algorithmic trading](../a/algorithmic_trading.md) strategies in multiple ways. Common uses include:
 
 - **Filtering Trades**: VWIs help filter out trades across low volume periods where market movement may not be substantial.
 - **Confirming Trends**: They confirm trends initiated by other price-based signals, adding a layer of validation.
@@ -71,7 +71,7 @@ Volume Weighted Indicators can be built into algorithmic trading strategies in m
 
 ### Code Integration
 
-For algo-traders, incorporating VWIs can be achieved through various algorithmic trading platforms and programming languages like Python, R, and C++.
+For algo-traders, incorporating VWIs can be achieved through various [algorithmic trading](../a/algorithmic_trading.md) platforms and programming languages like Python, R, and C++.
 
 #### Example in Python (pandas)
 
@@ -90,10 +90,10 @@ df['VWAP'] = VWAP
 
 ### Platforms
 
-Several platforms support the use of VWIs in automated trading strategies:
+Several platforms support the use of VWIs in automated [trading strategies](../t/trading_strategies.md):
 
-- **QuantConnect**: Offers a cloud-based algorithmic trading platform, supports volume-weighted indicators. [Visit QuantConnect](https://www.quantconnect.com/)
-- **Algorithmia**: Facilitates integration of multiple technical indicators into trading algorithms. [Visit Algorithmia](https://algorithmia.com/)
+- **QuantConnect**: Offers a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform, supports volume-weighted indicators. [Visit QuantConnect](https://www.quantconnect.com/)
+- **Algorithmia**: Facilitates integration of multiple [technical indicators](../t/technical_indicators.md) into [trading algorithms](../t/trading_algorithms.md). [Visit Algorithmia](https://algorithmia.com/)
 - **MetaTrader 5**: Widely used trading platform providing customizable volume-weighted indicators. [Visit MetaTrader](https://www.metatrader5.com/)
 
 ## Advantages and Disadvantages
@@ -111,7 +111,7 @@ Several platforms support the use of VWIs in automated trading strategies:
 
 ## Conclusion
 
-Volume Weighted Indicators are invaluable tools for sophisticated traders looking to enhance their market analysis by incorporating volume. These indicators provide a more nuanced view of market dynamics and help traders make more informed decisions. In algorithmic trading, the ability to integrate such indicators can significantly improve the performance and reliability of trading strategies.
+Volume Weighted Indicators are invaluable tools for sophisticated traders looking to enhance their market analysis by incorporating volume. These indicators provide a more nuanced view of market dynamics and help traders make more informed decisions. In [algorithmic trading](../a/algorithmic_trading.md), the ability to integrate such indicators can significantly improve the performance and reliability of [trading strategies](../t/trading_strategies.md).
 
 ## References
 

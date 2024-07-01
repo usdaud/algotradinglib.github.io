@@ -1,12 +1,12 @@
 # Volume Indicators for Trading
 
-Volume indicators are essential tools for traders and investors in analyzing the market. They provide insights into the strength of price movements and the overall market sentiment by analyzing the volume data. Volume, in this context, refers to the number of shares or contracts traded in a security or an entire market during a given period.
+[Volume indicators](../v/volume_indicators.md) are essential tools for traders and investors in analyzing the market. They provide insights into the strength of price movements and the overall market sentiment by analyzing the volume data. Volume, in this context, refers to the number of shares or contracts traded in a security or an entire market during a given period.
 
-Volume indicators help traders confirm the strength of a trend, identify potential reversals, and gauge the market’s interest in a particular asset. In this comprehensive guide, we will explore several popular volume indicators, how they work, and their applications in trading.
+[Volume indicators](../v/volume_indicators.md) help traders confirm the strength of a trend, identify potential reversals, and gauge the market’s interest in a particular asset. In this comprehensive guide, we will explore several popular [volume indicators](../v/volume_indicators.md), how they work, and their applications in trading.
 
 ## 1. On-Balance Volume (OBV)
 
-**On-Balance Volume (OBV)** is one of the most straightforward volume indicators developed by Joseph Granville in the 1960s. It measures buying and selling pressure based on volume changes. The basic premise of OBV is that changes in volume can precede price movements.
+**On-Balance Volume (OBV)** is one of the most straightforward [volume indicators](../v/volume_indicators.md) developed by Joseph Granville in the 1960s. It measures buying and selling pressure based on volume changes. The basic premise of OBV is that changes in volume can precede price movements.
 
 ### Calculation of OBV
 
@@ -173,11 +173,11 @@ Calculations:
 
 ## 6. Klinger Oscillator
 
-The **Klinger Oscillator** is a volume-based indicator developed by Stephen Klinger. It aims to predict price reversals by comparing the volume flowing through a security over a specific period.
+The **[Klinger Oscillator](../k/klinger_oscillator.md)** is a volume-based indicator developed by Stephen Klinger. It aims to predict price reversals by comparing the volume flowing through a security over a specific period.
 
 ### Calculation of Klinger Oscillator
 
-The Klinger Oscillator uses a combination of the high-low price range, volume, and a series of exponential moving averages (EMA) to identify the short-term and long-term trends.
+The [Klinger Oscillator](../k/klinger_oscillator.md) uses a combination of the high-low price range, volume, and a series of exponential moving averages (EMA) to identify the short-term and long-term trends.
 
 \[ KO = (EMA_{34} \ of \ V) - (EMA_{55} \ of \ V) \]
 
@@ -187,10 +187,10 @@ Where V is the volume force:
 
 ### Application
 
-The Klinger Oscillator is used to identify potential divergences and to confirm price trends. A positive KO suggests a bullish trend, while a negative KO indicates a bearish trend. Traders look for divergences between the KO and price to anticipate possible reversals.
+The [Klinger Oscillator](../k/klinger_oscillator.md) is used to identify potential divergences and to confirm price trends. A positive KO suggests a bullish trend, while a negative KO indicates a bearish trend. Traders look for divergences between the KO and price to anticipate possible reversals.
 
 ## Conclusion
 
-Volume indicators provide valuable insights into the strength of market trends, potential reversals, and the overall market sentiment. Each volume indicator has its unique strengths and applications, making them suitable for various trading strategies.
+[Volume indicators](../v/volume_indicators.md) provide valuable insights into the strength of market trends, potential reversals, and the overall market sentiment. Each volume indicator has its unique strengths and applications, making them suitable for various [trading strategies](../t/trading_strategies.md).
 
-Whether you are a day trader, swing trader, or long-term investor, understanding and incorporating volume indicators into your analysis can enhance your trading decisions and improve your overall performance.
+Whether you are a day trader, swing trader, or long-term investor, understanding and incorporating [volume indicators](../v/volume_indicators.md) into your analysis can enhance your trading decisions and improve your overall performance.

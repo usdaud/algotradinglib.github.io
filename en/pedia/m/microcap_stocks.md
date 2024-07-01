@@ -8,7 +8,7 @@ Microcap stocks, often referred to as micro-cap or microcaps, are publicly trade
 
 Microcap stocks possess unique characteristics that distinguish them from larger, more established companies. These traits include:
 
-1. **Liquidity Risk**: Microcap stocks generally have lower trading volumes, which can lead to higher volatility and greater liquidity risk. This makes it more challenging to buy or sell large quantities of shares without significantly impacting the stock price.
+1. **[Liquidity Risk](../l/liquidity_risk.md)**: Microcap stocks generally have lower trading volumes, which can lead to higher volatility and greater [liquidity risk](../l/liquidity_risk.md). This makes it more challenging to buy or sell large quantities of shares without significantly impacting the stock price.
 2. **Higher Growth Potential**: Being smaller companies, microcaps have the potential for higher growth rates compared to large-cap stocks. They can provide substantial returns if the company successfully expands and increases profitability.
 3. **Less Analyst Coverage**: Microcap stocks typically receive less coverage from financial analysts and media. As a result, there is often less publicly available information, which can pose a challenge to investors in terms of conducting due diligence and evaluating the company's prospects.
 4. **Higher Risk**: The relative obscurity of microcap stocks and their lesser-known business models can translate into higher risk for investors. These companies may have less diversified business operations and be more vulnerable to economic downturns and industry-specific challenges.
@@ -34,7 +34,7 @@ Microcap stocks can be found across a variety of sectors. Some examples of compa
 
 Investing in microcap stocks involves several risks and challenges that investors must be aware of. Some common risks include:
 
-1. **Liquidity Risk**: The limited trading volume of microcap stocks can result in significant price swings. Investors may find it difficult to enter or exit positions at desired prices.
+1. **[Liquidity Risk](../l/liquidity_risk.md)**: The limited trading volume of microcap stocks can result in significant price swings. Investors may find it difficult to enter or exit positions at desired prices.
 2. **Information Asymmetry**: The lack of comprehensive information and analyst coverage can make it harder to make informed investment decisions. Investors may rely on limited data, which increases the risk of misjudgment.
 3. **Volatility**: Microcap stocks tend to be more volatile than larger-cap stocks. Their prices may experience sharp fluctuations based on market sentiment, company news, or broader economic factors.
 4. **Financial Stability**: Many microcap companies are in the early stages of development and may lack consistent revenue or profitability. This can expose investors to higher levels of financial risk, as these companies might struggle to generate stable cash flows or secure necessary funding.

@@ -12,19 +12,19 @@ Maintaining a gamma-neutral position is significant because it allows traders to
 A common method to achieve gamma neutrality involves constructing a portfolio using a combination of various options. Here are some typical techniques:
 
 1. **Straddles and Strangles:**
-   - **Long Straddle:** Buying a call and a put at the same strike price and expiration.
-   - **Long Strangle:** Buying a call and a put with the same expiration but different strike prices.
+   - **[Long Straddle](../l/long_straddle.md):** Buying a call and a put at the same strike price and expiration.
+   - **[Long Strangle](../l/long_strangle.md):** Buying a call and a put with the same expiration but different strike prices.
 
 2. **Butterfly and Condor Spreads:**
-   - **Butterfly Spread:** Combining calls (or puts) at three different strike prices with the highest and the lowest strikes equidistant from the middle strike.
-   - **Iron Condor:** Consists of selling an out-of-the-money put and call while buying further out-of-the-money options to hedge.
+   - **[Butterfly Spread](../b/butterfly_spread.md):** Combining calls (or puts) at three different strike prices with the highest and the lowest strikes equidistant from the middle strike.
+   - **[Iron Condor](../i/iron_condor.md):** Consists of selling an out-of-the-money put and call while buying further [out-of-the-money options](../o/out-of-the-money_options.md) to hedge.
 
 3. **Ratio Spreads:**
    - **Ratio Backspread:** Buying more options than sold, usually calls or puts, to gain positive gamma.
    - **Ratio Spread:** Selling more options than bought to gain slight negative gamma.
 
 #### Dynamic Adjustments
-Traders can also dynamically adjust their gamma exposure by continuously buying or selling options to counteract any changes in their delta caused by the underlying asset's price movements. This real-time adjustment requires sophisticated algorithms and trading systems.
+Traders can also dynamically adjust their [gamma exposure](../g/gamma_exposure.md) by continuously buying or selling options to counteract any changes in their delta caused by the underlying asset's price movements. This real-time adjustment requires sophisticated algorithms and [trading systems](../t/trading_systems.md).
 
 ### Example of a Gamma Neutral Strategy
 Consider a trader who has written a covered call and wishes to maintain a gamma neutral position. The trader can purchase additional options to offset the gamma risk associated with the written call. For instance:
@@ -38,10 +38,10 @@ Combining these positions carefully can result in a gamma neutral stance.
 Implementing gamma neutral strategies algorithmically involves several crucial steps:
 
 1. **Data Collection and Analysis:** 
-   - Continuously gather market data such as prices, volatility, and option Greeks.
+   - Continuously gather market data such as prices, volatility, and [option Greeks](../o/option_greeks.md).
    - Utilize robust databases for historical and real-time data (e.g., Bloomberg, Reuters [Refinitiv](https://www.refinitiv.com/), etc.).
 
-2. **Algorithm Design:**
+2. **[Algorithm Design](../a/algorithm_design.md):**
    - Develop algorithms to calculate the current gamma of the portfolio.
    - Create rules for when and how to adjust positions to maintain gamma neutrality.
 
@@ -76,8 +76,8 @@ Gamma neutral strategies are popular among sophisticated market participants suc
 - Provide liquidity in options markets while limiting exposure to price swings of the underlying securities.
 
 **Example Companies:**
-1. **Citadel LLC:** A prominent hedge fund known for its advanced trading algorithms. [Citadel](https://www.citadel.com/)
-2. **Optiver:** A global market maker specializing in high-frequency trading and options market making. [Optiver](https://www.optiver.com/)
+1. **Citadel LLC:** A prominent hedge fund known for its advanced [trading algorithms](../t/trading_algorithms.md). [Citadel](https://www.citadel.com/)
+2. **Optiver:** A global market maker specializing in high-frequency trading and [options market making](../o/options_market_making.md). [Optiver](https://www.optiver.com/)
 
 ### Conclusion
-Gamma neutral strategies exemplify the advanced techniques available in algorithmic trading to manage risk and enhance returns. By understanding and implementing gamma neutrality, traders can stabilize their portfolios against volatile market conditions, ensuring a more predictable and controlled trading environment. Through the use of sophisticated algorithms and continuous market analysis, achieving and maintaining gamma neutrality becomes a feasible and potentially profitable endeavor in the complex world of options trading.
+Gamma neutral strategies exemplify the advanced techniques available in [algorithmic trading](../a/algorithmic_trading.md) to manage risk and enhance returns. By understanding and implementing gamma neutrality, traders can stabilize their portfolios against volatile market conditions, ensuring a more predictable and controlled [trading environment](../t/trading_environment.md). Through the use of sophisticated algorithms and continuous market analysis, achieving and maintaining gamma neutrality becomes a feasible and potentially profitable endeavor in the complex world of options trading.

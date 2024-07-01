@@ -1,6 +1,6 @@
 # Performance Metrics in Algorithmic Trading
 
-In algorithmic trading, the evaluation of investment strategies and the performance of trading algorithms is critical for understanding their effectiveness and reliability. Performance metrics provide a way to measure, compare, and optimize trading strategies. This comprehensive guide will delve into various performance metrics commonly used in algorithmic trading.
+In [algorithmic trading](../a/algorithmic_trading.md), the evaluation of investment strategies and the performance of [trading algorithms](../t/trading_algorithms.md) is critical for understanding their effectiveness and reliability. Performance metrics provide a way to measure, compare, and optimize [trading strategies](../t/trading_strategies.md). This comprehensive guide will delve into various performance metrics commonly used in [algorithmic trading](../a/algorithmic_trading.md).
 
 ## 1. Return Metrics
 
@@ -37,30 +37,30 @@ Maximum Drawdown is the largest observed drawdown over a period, indicating the 
 ## 3. Risk-Adjusted Return Metrics
 
 ### 3.1 Sharpe Ratio
-The Sharpe Ratio adjusts the return of an investment for its risk by subtracting the risk-free rate from the investment return and dividing by its standard deviation.
+The [Sharpe Ratio](../s/sharpe_ratio.md) adjusts the return of an investment for its risk by subtracting the risk-free rate from the investment return and dividing by its standard deviation.
 
 #### Formula:
-\[ \text{Sharpe Ratio} = \frac{\bar{R} - R_f}{\sigma_R} \]
+\[ \text{[Sharpe Ratio](../s/sharpe_ratio.md)} = \frac{\bar{R} - R_f}{\sigma_R} \]
 Where \( \bar{R} \) is the average return, \( R_f \) is the risk-free rate, and \( \sigma_R \) is the standard deviation of returns.
 
 ### 3.2 Sortino Ratio
-The Sortino Ratio is a variation of the Sharpe Ratio that only considers downside risk by using the standard deviation of negative returns.
+The [Sortino Ratio](../s/sortino_ratio.md) is a variation of the [Sharpe Ratio](../s/sharpe_ratio.md) that only considers downside risk by using the standard deviation of negative returns.
 
 #### Formula:
-\[ \text{Sortino Ratio} = \frac{\bar{R} - R_f}{\sigma_D} \]
-Where \( \sigma_D \) is the downside deviation.
+\[ \text{[Sortino Ratio](../s/sortino_ratio.md)} = \frac{\bar{R} - R_f}{\sigma_D} \]
+Where \( \sigma_D \) is the [downside deviation](../d/downside_deviation.md).
 
 ### 3.3 Information Ratio
-The Information Ratio evaluates the performance of an investment relative to a benchmark, adjusting for risk.
+The [Information Ratio](../i/information_ratio.md) evaluates the performance of an investment relative to a benchmark, adjusting for risk.
 
 #### Formula:
-\[ \text{Information Ratio} = \frac{\bar{R} - \bar{R}_B}{\sigma_{\alpha}} \]
+\[ \text{[Information Ratio](../i/information_ratio.md)} = \frac{\bar{R} - \bar{R}_B}{\sigma_{\alpha}} \]
 Where \( \bar{R}_B \) is the benchmark return, and \( \sigma_{\alpha} \) is the tracking error (standard deviation of the excess returns).
 
 ## 4. Regression-Based Metrics
 
 ### 4.1 Alpha
-Alpha measures the active return of an investment strategy relative to the market. A positive alpha indicates outperformance.
+Alpha measures the [active return](../a/active_return.md) of an investment strategy relative to the market. A positive alpha indicates outperformance.
 
 #### Formula:
 \[ \alpha = R - (R_f + \beta (R_M - R_f)) \]
@@ -105,7 +105,7 @@ Expected Shortfall, also known as Conditional Value at Risk (CVaR), measures the
 
 ## 6. Real-World Application and Tools
 
-Performance metrics are critical in decision-making processes for hedge funds, investment management firms, and algorithmic trading platforms. Various tools and software provide comprehensive analytics and visualization of these metrics.
+Performance metrics are critical in decision-making processes for hedge funds, investment management firms, and [algorithmic trading](../a/algorithmic_trading.md) platforms. Various tools and software provide comprehensive analytics and visualization of these metrics.
 
 ### 6.1 Tools and Platforms
 Several platforms and services facilitate the measurement and analysis of performance metrics, including but not limited to:
@@ -117,4 +117,4 @@ Several platforms and services facilitate the measurement and analysis of perfor
 
 ## Conclusion
 
-Understanding and effectively utilizing performance metrics is paramount in algorithmic trading. These metrics provide valuable insights into the risk, return, and overall quality of trading strategies, enabling traders and firms to make informed decisions and optimize their approaches. As technology and financial engineering evolve, advanced metrics and tools continue to enhance the landscape of algorithmic trading.
+Understanding and effectively utilizing performance metrics is paramount in [algorithmic trading](../a/algorithmic_trading.md). These metrics provide valuable insights into the risk, return, and overall quality of [trading strategies](../t/trading_strategies.md), enabling traders and firms to make informed decisions and optimize their approaches. As technology and [financial engineering](../f/financial_engineering.md) evolve, advanced metrics and tools continue to enhance the landscape of [algorithmic trading](../a/algorithmic_trading.md).

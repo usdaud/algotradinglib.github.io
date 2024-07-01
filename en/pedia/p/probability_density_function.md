@@ -33,7 +33,7 @@ This implies that the area under the curve of the PDF over the interval \( [a, b
 
 ### Normal (Gaussian) Distribution
 
-One of the most commonly used PDFs is the normal distribution, also known as the Gaussian distribution. Its PDF is given by:
+One of the most commonly used PDFs is the normal distribution, also known as the [Gaussian distribution](../g/gaussian_distribution.md). Its PDF is given by:
 
 \[ f(x | \mu, \sigma^2) = \frac{1}{\sqrt{2\pi\sigma^2}} e^{-\frac{(x-\mu)^2}{2\sigma^2}} \]
 
@@ -41,7 +41,7 @@ Where \( \mu \) is the mean and \( \sigma^2 \) is the variance. This distributio
 
 ### Log-normal Distribution
 
-The log-normal distribution is another important PDF in finance. If a random variable \( X \) follows a normal distribution, then \( Y = e^X \) follows a log-normal distribution. The PDF of a log-normal distribution is:
+The [log-normal distribution](../l/log-normal_distribution.md) is another important PDF in finance. If a random variable \( X \) follows a normal distribution, then \( Y = e^X \) follows a [log-normal distribution](../l/log-normal_distribution.md). The PDF of a [log-normal distribution](../l/log-normal_distribution.md) is:
 
 \[ f(y | \mu, \sigma^2) = \frac{1}{y\sigma\sqrt{2\pi}} e^{-\frac{(\ln y - \mu)^2}{2\sigma^2}} \]
 
@@ -71,9 +71,9 @@ Understanding the distribution of returns, volatilities, and other financial met
 
 ### Option Pricing
 
-PDFs play a crucial role in the pricing of options and other derivatives. The famous Black-Scholes model uses the normal distribution to estimate the prices of European options.
+PDFs play a crucial role in the pricing of options and other [derivatives](../d/derivatives.md). The famous [Black-Scholes model](../b/black-scholes_model.md) uses the normal distribution to estimate the prices of [European options](../e/european_options.md).
 
-**Black-Scholes Model:**
+**[Black-Scholes Model](../b/black-scholes_model.md):**
 \[ C = S_0 N(d_1) - Xe^{-rt} N(d_2) \]
 
 Where:
@@ -84,16 +84,16 @@ Here, \( N(\cdot) \) is the cumulative distribution function (CDF) of the standa
 
 ### Statistical Arbitrage
 
-Statistical arbitrage strategies rely heavily on the statistical properties of financial data. PDFs help in creating models to find and exploit small inefficiencies in the market. Hedge funds and trading firms, like Renaissance Technologies and Two Sigma, develop sophisticated statistical models based on PDFs to identify arbitrage opportunities.
+Statistical [arbitrage](../a/arbitrage.md) strategies rely heavily on the statistical properties of financial data. PDFs help in creating models to find and exploit small inefficiencies in the market. Hedge funds and trading firms, like Renaissance Technologies and Two Sigma, develop sophisticated statistical models based on PDFs to identify [arbitrage](../a/arbitrage.md) opportunities.
 
 **Renaissance Technologies:** [Renaissance Technologies](https://www.rentec.com/)
 **Two Sigma:** [Two Sigma](https://www.twosigma.com/)
 
 ### Backtesting Strategies
 
-PDFs are used in backtesting to model the historical performance of a trading strategy. By assuming certain distributions for return data, traders can predict probable outcomes and understand the risk-reward profile of their strategies.
+PDFs are used in [backtesting](../b/backtesting.md) to model the historical performance of a trading strategy. By assuming certain distributions for return data, traders can predict probable outcomes and understand the risk-reward profile of their strategies.
 
 ## Conclusion
 
-The Probability Density Function is a foundational concept in statistics that finds extensive application in the world of algo-trading. Whether it's for risk management, pricing derivatives, or developing trading strategies, understanding and leveraging PDFs allows traders to build more accurate and sophisticated models. As financial markets continue to evolve, the role of PDFs in driving innovations within algo-trading will only grow.
+The Probability Density Function is a foundational concept in statistics that finds extensive application in the world of algo-trading. Whether it's for [risk management](../r/risk_management.md), pricing [derivatives](../d/derivatives.md), or developing [trading strategies](../t/trading_strategies.md), understanding and leveraging PDFs allows traders to build more accurate and sophisticated models. As financial markets continue to evolve, the role of PDFs in driving innovations within algo-trading will only grow.
 

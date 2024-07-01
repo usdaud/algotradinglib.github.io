@@ -43,7 +43,7 @@ Long-term relationships with reliable suppliers are a cornerstone of successful 
 
 ## Challenges of Just-in-Time Manufacturing
 ### Demand Variability
-JIT relies on stable and predictable demand patterns. Fluctuations in demand can disrupt the production process and lead to stockouts or excess inventory. Accurate demand forecasting remains a significant challenge.
+JIT relies on stable and predictable demand patterns. Fluctuations in demand can disrupt the production process and lead to stockouts or excess inventory. Accurate [demand forecasting](../d/demand_forecasting.md) remains a significant challenge.
 
 ### Supply Chain Disruptions
 JIT's dependence on timely deliveries from suppliers makes it vulnerable to supply chain disruptions. Natural disasters, supplier insolvencies, or transport issues can halt production and cause significant delays.

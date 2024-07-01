@@ -24,20 +24,20 @@ The Basel III framework mandates that banks must maintain an LCR of at least 100
 ## Advantages
 1. **Enhanced Stability**: The LCR improves the stability of the financial system by ensuring banks have enough liquid assets to manage short-term cash outflows.
 2. **Reduced Risk**: By requiring banks to hold high-quality liquid assets, the LCR reduces the risk of bank runs and liquidity crises.
-3. **Uniform Standard**: As a standardized metric, the LCR allows for easier comparison and assessment of liquidity risk across different banks and financial institutions.
+3. **Uniform Standard**: As a standardized metric, the LCR allows for easier comparison and assessment of [liquidity risk](../l/liquidity_risk.md) across different banks and financial institutions.
 
 ## Challenges and Criticisms
 1. **Impact on Profitability**: Holding a high proportion of liquid assets can reduce a bank's profitability because these assets typically yield lower returns compared to less liquid investments.
-2. **Operational Complexity**: The calculation and ongoing monitoring of the LCR require sophisticated risk management systems and accurate data, which can be complex and costly.
-3. **Regulatory Arbitrage**: Banks might engage in regulatory arbitrage, modifying their behavior to meet LCR requirements without actually reducing liquidity risk.
+2. **Operational Complexity**: The calculation and ongoing monitoring of the LCR require sophisticated [risk management](../r/risk_management.md) systems and accurate data, which can be complex and costly.
+3. **Regulatory [Arbitrage](../a/arbitrage.md)**: Banks might engage in regulatory [arbitrage](../a/arbitrage.md), modifying their behavior to meet LCR requirements without actually reducing [liquidity risk](../l/liquidity_risk.md).
 
 ## Case Study
 ### JPMorgan Chase
-JPMorgan Chase is a leading global financial institution that has been at the forefront of implementing LCR requirements. By holding large portfolios of high-quality liquid assets and employing rigorous stress-testing techniques, JPMorgan Chase has maintained LCR levels well above the regulatory minimum. This has helped the bank manage liquidity risk effectively during periods of financial instability.
+JPMorgan Chase is a leading global financial institution that has been at the forefront of implementing LCR requirements. By holding large portfolios of high-quality liquid assets and employing rigorous stress-testing techniques, JPMorgan Chase has maintained LCR levels well above the regulatory minimum. This has helped the bank manage [liquidity risk](../l/liquidity_risk.md) effectively during periods of financial instability.
 
 For more information, visit [JPMorgan Chase](https://www.jpmorganchase.com).
 
 ## Future Outlook
-As financial markets evolve, so too will the standards governing liquidity risk management. Ongoing reviews and updates to the LCR framework are likely to continue, incorporating lessons learned from new financial crises and market developments. Innovations in financial technology and changes in regulatory practices will also influence the future implementation and effectiveness of the LCR.
+As financial markets evolve, so too will the standards governing [liquidity risk](../l/liquidity_risk.md) management. Ongoing reviews and updates to the LCR framework are likely to continue, incorporating lessons learned from new financial crises and market developments. Innovations in financial technology and changes in regulatory practices will also influence the future implementation and effectiveness of the LCR.
 
-In conclusion, the Liquidity Coverage Ratio is a pivotal regulatory measure designed to enhance the resilience of financial institutions by ensuring they maintain a buffer of high-quality liquid assets. While its implementation comes with certain challenges, its benefits in promoting financial stability and reducing liquidity risk cannot be overstated.
+In conclusion, the Liquidity Coverage Ratio is a pivotal regulatory measure designed to enhance the resilience of financial institutions by ensuring they maintain a buffer of high-quality liquid assets. While its implementation comes with certain challenges, its benefits in promoting financial stability and reducing [liquidity risk](../l/liquidity_risk.md) cannot be overstated.

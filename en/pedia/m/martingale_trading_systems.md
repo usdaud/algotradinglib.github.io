@@ -1,6 +1,6 @@
 # Martingale Trading Systems
 
-Martingale trading systems are a class of trading strategies aimed at capitalizing on winning streaks while mitigating the impact of losing streaks through a specific set of rules on position sizing. Originating from a gambling strategy, these systems have been adapted for use in financial markets. The approach involves increasing the size of a trade after a loss, with the expectation that eventually, a win will recover all previous losses and yield a profit equal to the initial stake.
+Martingale [trading systems](../t/trading_systems.md) are a class of [trading strategies](../t/trading_strategies.md) aimed at capitalizing on [winning streaks](../w/winning_streaks.md) while mitigating the impact of losing streaks through a specific set of rules on [position sizing](../p/position_sizing.md). Originating from a gambling strategy, these systems have been adapted for use in financial markets. The approach involves increasing the size of a trade after a loss, with the expectation that eventually, a win will recover all previous losses and yield a profit equal to the initial stake.
 
 ## Origin and Concept of Martingale
 
@@ -54,13 +54,13 @@ Popular among forex traders due to the high liquidity and relatively lower entry
 Used with caution given the tendency of stocks to trend over time rather than remain mean-reverting. Traders need substantial capital to sustain potential losing streaks.
 
 ### CFD and Futures Trading
-Effective in short-term trading instruments like CFDs and futures where small fluctuations can quickly be capitalized on.
+Effective in [short-term trading](../s/short-term_trading.md) instruments like CFDs and futures where small fluctuations can quickly be capitalized on.
 
 ## Modern Variations and Hybrid Systems
 
 ### Anti-Martingale Systems
 - **Opposite Approach**: Reducing trade size after losses and increasing after wins.
-- **Capital Preservation**: Aimed at longer-term survival and steadier growth, reducing the chance of significant capital drawdowns.
+- **[Capital Preservation](../c/capital_preservation.md)**: Aimed at longer-term survival and steadier growth, reducing the chance of significant capital drawdowns.
 
 ### Fixed Percentage Systems
 - **Proportional Adjustments**: Adjusting stakes based on a fixed percentage rather than doubling, aiming to control the rate of capital exposure.
@@ -74,7 +74,7 @@ Effective in short-term trading instruments like CFDs and futures where small fl
 Investing across different assets or markets to spread risk instead of concentrating on a single strategy or market.
 
 ### Algorithmic Enhancements
-Incorporating quantitative models, machine learning, and backtesting to refine entry and exit points, potentially mitigating some risks associated with pure Martingale approaches.
+Incorporating [quantitative models](../q/quantitative_models.md), machine learning, and [backtesting](../b/backtesting.md) to refine entry and exit points, potentially mitigating some risks associated with pure Martingale approaches.
 
 ### Hedging Strategies
 Using options, futures, or other derivative instruments to offset potential losses incurred from Martingale trades.
@@ -97,4 +97,4 @@ Using options, futures, or other derivative instruments to offset potential loss
 - **QuantConnect**: [QuantConnect](https://www.quantconnect.com)
 - **AlgoTrader**: [AlgoTrader](https://www.algotrader.com)
 
-In sum, while Martingale trading systems can offer a structured approach to recovering losses and achieving profitability, they carry significant risks and require careful capital management and risk mitigation strategies to avoid catastrophic losses. Traders should thoroughly understand the underlying principles, perform rigorous backtesting, and consider combining with other risk management techniques to enhance the viability and safety of this strategy in real-world financial markets.
+In sum, while Martingale [trading systems](../t/trading_systems.md) can offer a structured approach to recovering losses and achieving profitability, they carry significant risks and require careful capital management and risk mitigation strategies to avoid catastrophic losses. Traders should thoroughly understand the underlying principles, perform rigorous [backtesting](../b/backtesting.md), and consider combining with other [risk management](../r/risk_management.md) techniques to enhance the viability and safety of this strategy in real-world financial markets.

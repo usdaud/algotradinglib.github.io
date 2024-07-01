@@ -1,6 +1,6 @@
 # Relative Strength Ranking
 
-Relative Strength Ranking (RSR) is a technique used in the field of technical analysis and algorithmic trading to measure the performance of a stock or other financial instrument relative to a benchmark or the overall market. The concept is fundamentally rooted in the principle that stocks that have outperformed the market in the past are more likely to continue to do so in the future, while underperformers are likely to remain laggards. Here, we delve into the intricacies of Relative Strength Ranking, examining its calculation, applications, benefits, and drawbacks in algorithmic trading.
+Relative Strength Ranking (RSR) is a technique used in the field of [technical analysis](../t/technical_analysis.md) and [algorithmic trading](../a/algorithmic_trading.md) to measure the performance of a stock or other financial instrument relative to a benchmark or the overall market. The concept is fundamentally rooted in the principle that stocks that have outperformed the market in the past are more likely to continue to do so in the future, while underperformers are likely to remain laggards. Here, we delve into the intricacies of Relative Strength Ranking, examining its calculation, applications, benefits, and drawbacks in [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Calculation
 
@@ -26,15 +26,15 @@ Relative Strength Ranking finds applications in various investment strategies, i
 
 1. **Momentum Investing:** Momentum investors use relative strength rankings to identify stocks that have shown recent outperformance, betting that the trend will continue.
 
-2. **Tactical Asset Allocation:** Investors use RSR to shift their portfolio allocations dynamically into asset classes or sectors showing stronger relative performance.
+2. **Tactical [Asset Allocation](../a/asset_allocation.md):** Investors use RSR to shift their portfolio allocations dynamically into asset classes or sectors showing stronger relative performance.
 
 3. **Stock Screening:** Traders and investors use RSR as a screening tool to narrow down the universe of potential investment opportunities to those exhibiting the strongest relative performance.
 
-4. **Risk Management:** Some strategies use RSR as a risk management tool by avoiding investments in underperforming stocks.
+4. **[Risk Management](../r/risk_management.md):** Some strategies use RSR as a [risk management](../r/risk_management.md) tool by avoiding investments in underperforming stocks.
 
 ## Benefits
 
-Using Relative Strength Ranking in algorithmic trading offers several advantages:
+Using Relative Strength Ranking in [algorithmic trading](../a/algorithmic_trading.md) offers several advantages:
 
 1. **Objective Criteria:** RSR provides a quantitative, objective measure of performance, devoid of subjectivity and emotional biases.
 
@@ -58,11 +58,11 @@ Despite its benefits, there are several drawbacks to using Relative Strength Ran
 
 4. **Transaction Costs:** Frequent rebalancing based on RSR can lead to high transaction costs, which can erode profits.
 
-5. **Limited Scope:** RSR focuses solely on price performance and ignores fundamental factors such as earnings, revenue growth, and economic indicators.
+5. **Limited Scope:** RSR focuses solely on price performance and ignores fundamental factors such as earnings, revenue growth, and [economic indicators](../e/economic_indicators.md).
 
 ## Implementation of Relative Strength Ranking in Algorithmic Trading
 
-Algorithmic trading systems can implement RSR using various programming languages and platforms, such as Python, R, and MATLAB. Here is a basic outline for implementing RSR in Python:
+[Algorithmic trading](../a/algorithmic_trading.md) systems can implement RSR using various programming languages and platforms, such as Python, R, and MATLAB. Here is a basic outline for implementing RSR in Python:
 
 ```python
 import pandas as pd
@@ -114,18 +114,18 @@ ranked_stocks = rs_rank.sort_values()
 print(ranked_stocks)
 ```
 
-In the above example, we load stock prices and benchmark index prices from CSV files, calculate the relative strength over the previous 12 months, and then rank the stocks based on their relative strength. This script serves as a foundation for more sophisticated RSR-based trading algorithms.
+In the above example, we load stock prices and benchmark index prices from CSV files, calculate the relative strength over the previous 12 months, and then rank the stocks based on their relative strength. This script serves as a foundation for more sophisticated RSR-based [trading algorithms](../t/trading_algorithms.md).
 
 ## Real-World Examples
 
-Several financial institutions and investment platforms employ RSR in their trading strategies:
+Several financial institutions and investment platforms employ RSR in their [trading strategies](../t/trading_strategies.md):
 
 1. **Investor's Business Daily (IBD):** IBD has popularized the use of Relative Strength Rating (RS Rating), which is a percentile ranking of a stock's price performance over various time frames. More information can be found on their [website](https://www.investors.com).
 
 2. **Portfolio123:** This investment platform allows users to create custom stock screening and ranking systems based on relative strength indicators among other fundamental and technical metrics. Learn more on their [website](https://www.portfolio123.com).
 
-3. **AlgoTrader:** This algorithmic trading platform provides tools for implementing momentum strategies that include relative strength ranking. More details are available on their [website](https://www.algotrader.com).
+3. **AlgoTrader:** This [algorithmic trading](../a/algorithmic_trading.md) platform provides tools for implementing momentum strategies that include relative strength ranking. More details are available on their [website](https://www.algotrader.com).
 
 ## Conclusion
 
-Relative Strength Ranking is a robust tool that can help traders and investors identify high-performing stocks and implement effective trading strategies. Despite its simplicity and empirical support, users should remain cautious of its limitations and consider complementing it with other analysis tools and risk management practices. By integrating RSR into algorithmic trading systems, traders can enhance their decision-making process and potentially achieve superior returns.
+Relative Strength Ranking is a robust tool that can help traders and investors identify high-performing stocks and implement effective [trading strategies](../t/trading_strategies.md). Despite its simplicity and empirical support, users should remain cautious of its limitations and consider complementing it with other analysis tools and [risk management](../r/risk_management.md) practices. By integrating RSR into [algorithmic trading](../a/algorithmic_trading.md) systems, traders can enhance their decision-making process and potentially achieve superior returns.

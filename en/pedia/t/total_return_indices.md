@@ -56,7 +56,7 @@ Total return indices are used as underlyings for various financial products like
 
 ### Equity TRIs
 These include dividends from underlying stocks. Examples include:
-- **MSCI World Total Return Index**: Tracks global equities including dividends.
+- **MSCI World Total Return Index**: Tracks [global equities](../g/global_equities.md) including dividends.
 - **FTSE 100 Total Return Index**: Considers UK stocks with reinvested dividends.
 
 ### Bond TRIs
@@ -76,7 +76,7 @@ The amount and frequency of dividends by constituent companies impact the total 
 Taxes on dividends or interest impact the net income that can be reinvested.
 
 ### Market Conditions
-Economic cycles, interest rates, and market volatility impact the price changes and yields of assets included in TRIs.
+[Economic cycles](../e/economic_cycles.md), interest rates, and market volatility impact the price changes and yields of assets included in TRIs.
 
 ## Benefits and Limitations
 
@@ -103,4 +103,4 @@ Provides indices covering equities, fixed income, and real estate.
 More information: [FTSE Russell](https://www.ftserussell.com/)
 
 ## Summary
-Total Return Indices offer a robust framework for understanding and comparing investment performance by incorporating both price movements and income generated from the constituent assets. They serve as essential tools for investors, fund managers, and financial product developers, allowing for better-informed investment decisions and performance benchmarking.
+Total Return Indices offer a robust framework for understanding and comparing investment performance by incorporating both price movements and income generated from the constituent assets. They serve as essential tools for investors, fund managers, and financial product developers, allowing for better-informed investment decisions and [performance benchmarking](../p/performance_benchmarking.md).

@@ -1,7 +1,7 @@
 # Windowing Techniques in Trading
 
 ## Introduction
-Windowing techniques in trading involve analyzing subsets of data within a specific time frame or "window" to make informed trading decisions. These techniques are critical in both traditional and algorithmic trading as they help uncover patterns, trends, and anomalies that can influence trading strategies.
+Windowing techniques in trading involve analyzing subsets of data within a specific time frame or "window" to make informed trading decisions. These techniques are critical in both traditional and [algorithmic trading](../a/algorithmic_trading.md) as they help uncover patterns, trends, and anomalies that can influence [trading strategies](../t/trading_strategies.md).
 
 ## Types of Windowing Techniques
 
@@ -29,7 +29,7 @@ Sliding windows are similar to rolling windows but offer flexibility in terms of
 ## Techniques in Practice
 
 ### Moving Averages
-Moving averages smooth out price action by filtering out the "noise" from random price fluctuations. They are widely used in momentum and trend trading strategies.
+Moving averages smooth out price action by filtering out the "noise" from random price fluctuations. They are widely used in momentum and trend [trading strategies](../t/trading_strategies.md).
 
 #### Simple Moving Average (SMA)
 The SMA calculates the mean of the closing prices over a specified period. 
@@ -50,7 +50,7 @@ where \( P_t \) is the price at the current period t.
 **Use Case**: Highlighting recent price trends more effectively than the SMA.
 
 ### Bollinger Bands
-Bollinger Bands consist of a moving average line with two bands that are standard deviations away. They help identify overbought and oversold conditions.
+[Bollinger Bands](../b/bollinger_bands.md) consist of a moving average line with two bands that are standard deviations away. They help identify overbought and oversold conditions.
 
 **Components**:
 - Middle Band: Simple moving average (SMA).
@@ -89,7 +89,7 @@ A statistical test used to determine if a time series is stationary. Being stati
 ### Bartlett's Test
 Tests whether variances are equal across multiple samples or windows.
 
-**Application**: Ensuring that the volatility measured across different windows is consistent before applying specific trading models.
+**Application**: Ensuring that the volatility measured across different windows is consistent before applying specific [trading models](../t/trading_models.md).
 
 ### Chow Test
 Assesses whether there is a structural break at a point within the time series data.
@@ -109,14 +109,14 @@ Suitable for sequential data, where the output at each time step depends on prev
 #### Long Short-Term Memory Networks (LSTM)
 A type of RNN that can learn long-term dependencies.
 
-**Use Case**: Capturing long-term trends in trading data, suitable for trend prediction and anomaly detection.
+**Use Case**: Capturing long-term trends in trading data, suitable for trend prediction and [anomaly detection](../a/anomaly_detection.md).
 
 ### Multi-Window Approaches
-Combining multiple windowing techniques can yield more robust trading strategies.
+Combining multiple windowing techniques can yield more robust [trading strategies](../t/trading_strategies.md).
 
 **Example**: Using a combination of rolling and expanding windows to simultaneously capture short-term movements and long-term trends.
 
-**Use Case**: Enhanced prediction accuracy and risk management.
+**Use Case**: Enhanced prediction accuracy and [risk management](../r/risk_management.md).
 
 ## Practical Execution
 
@@ -150,4 +150,4 @@ data['Rolling Mean'] = data['Price'].rolling(window=5).mean()
 3. [Yahoo Finance](https://finance.yahoo.com/)
 
 ## Conclusion
-Windowing techniques in trading offer powerful ways to analyze data, detect patterns, manage volatility, and enhance predictive models. By leveraging these methodologies, traders can make more informed decisions and optimize their trading strategies.
+Windowing techniques in trading offer powerful ways to analyze data, detect patterns, manage volatility, and enhance predictive models. By leveraging these methodologies, traders can make more informed decisions and optimize their [trading strategies](../t/trading_strategies.md).

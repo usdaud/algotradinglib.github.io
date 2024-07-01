@@ -1,6 +1,6 @@
 # Relative Strength Analysis
 
-Relative Strength Analysis (RSA) is a momentum-based technical analysis measure that compares the performance of an asset to others within a specified group. This method evaluates a certain stock's strength by comparing it to either the performance of a broad market benchmark, such as the S&P 500, or to direct competitors in the same industry. RSA is foundational in identifying strong and weak performers relative to the market or industry peers, thereby allowing traders to make more informed investment decisions.
+Relative Strength Analysis (RSA) is a momentum-based [technical analysis](../t/technical_analysis.md) measure that compares the performance of an asset to others within a specified group. This method evaluates a certain stock's strength by comparing it to either the performance of a broad market benchmark, such as the S&P 500, or to direct competitors in the same industry. RSA is foundational in identifying strong and weak performers relative to the market or industry peers, thereby allowing traders to make more informed investment decisions.
 
 ## Understanding Relative Strength Analysis
 
@@ -11,7 +11,7 @@ RSA can be divided into two primary types:
 
 ### Relative Strength Index (RSI)
 
-RSI was introduced by J. Welles Wilder Jr. in his seminal 1978 book, "New Concepts in Technical Trading Systems". RSI is calculated using the following formula:
+RSI was introduced by J. Welles Wilder Jr. in his seminal 1978 book, "New Concepts in Technical [Trading Systems](../t/trading_systems.md)". RSI is calculated using the following formula:
 
 \[ RSI = 100 - \frac{100}{1 + RS} \]
 
@@ -39,12 +39,12 @@ A rising RCS line indicates that the stock is outperforming the benchmark, while
 
 RSA can be instrumental in identifying potential buy or sell signals. For example, traders often look for divergence between the price of an asset and its RSI values. Here’s how it works:
 
-- **Bullish Divergence**: This happens when the price reaches a new low, but the RSI establishes a higher low. This indicates a potential buying opportunity.
-- **Bearish Divergence**: Occurs when the price makes a new high, but the RSI forms a lower high, signaling a possible sell opportunity.
+- **[Bullish Divergence](../b/bullish_divergence.md)**: This happens when the price reaches a new low, but the RSI establishes a higher low. This indicates a potential buying opportunity.
+- **[Bearish Divergence](../b/bearish_divergence.md)**: Occurs when the price makes a new high, but the RSI forms a lower high, signaling a possible sell opportunity.
 
 ### Rotation Strategies
 
-RSA can also contribute to sector rotation strategies, where investors shift their investment from one sector to another based on relative strength. This strategy is particularly valuable in aligning investment portfolios with macroeconomic trends and cyclical market conditions.
+RSA can also contribute to [sector rotation](../s/sector_rotation.md) strategies, where investors shift their investment from one sector to another based on relative strength. This strategy is particularly valuable in aligning investment portfolios with macroeconomic trends and cyclical market conditions.
 
 ### Momentum Investing
 
@@ -52,7 +52,7 @@ Momentum investors use RSA to locate stocks showing robust performance relative 
 
 ### Performance Evaluation
 
-Fund managers and analysts often use RSA to assess the performance of mutual funds, ETFs, and individual stocks. By comparing the relative strength of different assets, they can ascertain which ones are contributing positively to portfolio performance and which are lagging.
+Fund managers and analysts often use RSA to assess the performance of mutual funds, ETFs, and individual stocks. By comparing the relative strength of different assets, they can ascertain which ones are contributing positively to [portfolio performance](../p/portfolio_performance.md) and which are lagging.
 
 ## Tools for Relative Strength Analysis
 
@@ -75,7 +75,7 @@ Both RSI and RCS rely heavily on historical data, which is not always a reliable
 
 ### Subjective Interpretation
 
-The analysis can sometimes be subjective as traders may interpret RSI and RCS values differently based on their unique trading strategies and risk tolerance.
+The analysis can sometimes be subjective as traders may interpret RSI and RCS values differently based on their unique [trading strategies](../t/trading_strategies.md) and risk tolerance.
 
 ## Case Studies and Examples
 

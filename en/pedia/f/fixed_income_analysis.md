@@ -1,6 +1,6 @@
 ## Fixed Income Analysis
 
-Fixed income analysis represents a cornerstone of investment strategy and financial modeling, revolving around securities that pay predetermined interest or dividend payments until maturity, at which point the principal is returned to the investor. This genre of financial analysis predominantly concerns bonds—although it includes other fixed income instruments like Treasury notes, certificates of deposit (CDs), and municipal bonds.
+Fixed income analysis represents a cornerstone of investment strategy and [financial modeling](../f/financial_modeling.md), revolving around securities that pay predetermined interest or dividend payments until maturity, at which point the principal is returned to the investor. This genre of financial analysis predominantly concerns bonds—although it includes other fixed income instruments like Treasury notes, certificates of deposit (CDs), and [municipal bonds](../m/municipal_bonds.md).
 
 ### Fundamental Concepts in Fixed Income Analysis
 
@@ -18,7 +18,7 @@ A bond represents a loan made by an investor to a borrower (typically corporate 
 Common categories of bonds include:
 
 - **Government Bonds**: Issued by national governments, generally considered low-risk.
-- **Municipal Bonds**: Issued by municipalities or local government entities.
+- **[Municipal Bonds](../m/municipal_bonds.md)**: Issued by municipalities or local government entities.
 - **Corporate Bonds**: Issued by companies to finance operational needs.
 - **Treasury Bills/Notes/Bonds**: Short-term to long-term securities issued by the U.S. Treasury.
 
@@ -32,9 +32,9 @@ One of the primary aspects of fixed income analysis is the computation and inter
     \[
     \text{Current Yield} = \frac{\text{Annual Coupon Payment}}{\text{Current Market Price}}
     \]
-2. **Yield to Maturity (YTM)**: The total return anticipated on a bond if held until it matures, accounting for current market price, coupon payments, and maturity value.
+2. **[Yield to Maturity](../y/yield_to_maturity.md) (YTM)**: The total return anticipated on a bond if held until it matures, accounting for current market price, coupon payments, and maturity value.
     - This calculation requires iterative methods or financial calculators, as it considers the present value of future cash flows.
-3. **Yield Spread**: The difference in yields between two bonds, typically of varying credit qualities or maturities, indicative of risk premiums.
+3. **[Yield Spread](../y/yield_spread.md)**: The difference in yields between two bonds, typically of varying credit qualities or maturities, indicative of risk premiums.
 
 #### Duration and Convexity
 
@@ -56,7 +56,7 @@ A thorough fixed income analysis necessitates credit risk assessment – the ris
 
 #### Passive vs. Active Management
 
-1. **Passive Management**: Aims to replicate benchmark indices, minimizing transaction costs and embracing market efficiency.
+1. **Passive Management**: Aims to replicate benchmark indices, minimizing transaction costs and embracing [market efficiency](../m/market_efficiency.md).
 2. **Active Management**: Entails active trading based on market predictions and credit analysis to achieve superior returns.
 
 #### Laddering, Barbell, and Bullet Strategies
@@ -70,22 +70,22 @@ A thorough fixed income analysis necessitates credit risk assessment – the ris
 Modern fixed income analysis leverages sophisticated software and algorithms for:
 
 - **Automated Trading**: Utilizing platforms like [Algomi](https://www.algomi.com/) that provide fixed income market intelligence and connectivity.
-- **Risk Management Tools**: Software such as Bloomberg's PORT system for portfolio and risk analysis.
-- **Quantitative Models**: Employed to predict price movements, assess risks, and execute trades efficiently.
+- **[Risk Management](../r/risk_management.md) Tools**: Software such as Bloomberg's PORT system for portfolio and [risk analysis](../r/risk_analysis.md).
+- **[Quantitative Models](../q/quantitative_models.md)**: Employed to predict price movements, assess risks, and execute trades efficiently.
 
 ### Real-World Applications
 
 #### Portfolio Diversification
 
-Fixed income securities bolster portfolio diversification, providing stable income streams and reducing volatility through less correlated asset performance compared to equities.
+[Fixed income securities](../f/fixed_income_securities.md) bolster [portfolio diversification](../p/portfolio_diversification.md), providing stable income streams and reducing volatility through less correlated asset performance compared to equities.
 
 #### Hedging Interest Rate Risks
 
-Bonds can hedge risks associated with fluctuating interest rates, achieved through strategies like interest rate swaps or purchasing interest rate futures.
+Bonds can hedge risks associated with fluctuating interest rates, achieved through strategies like [interest rate swaps](../i/interest_rate_swaps.md) or purchasing [interest rate futures](../i/interest_rate_futures.md).
 
 ### Conclusion
 
-Fixed income analysis, delineated through a rigorous examination of yield calculations, duration measures, credit assessments, and a synthesis of strategic implementations, forms an indispensable part of financial modeling and portfolio management. The integration of advanced technology and analytical tools continues to reshape the landscape of fixed income investing, enhancing precision and expanding horizons for investors.
+Fixed income analysis, delineated through a rigorous examination of yield calculations, duration measures, credit assessments, and a synthesis of strategic implementations, forms an indispensable part of [financial modeling](../f/financial_modeling.md) and [portfolio management](../p/portfolio_management.md). The integration of advanced technology and analytical tools continues to reshape the landscape of fixed income investing, enhancing precision and expanding horizons for investors.
 
 ---
 This document encompasses major aspects of Fixed Income Analysis integral for investors, portfolio managers, and financial analysts striving to make informed decisions and optimize investment performance.

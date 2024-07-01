@@ -1,6 +1,6 @@
 # Ivy Portfolio
 
-The Ivy Portfolio, often referred to as the "endowment model," is an investment strategy inspired by the asset allocation models used by the Harvard and Yale university endowments. This strategy aims to achieve strong long-term returns while minimizing risk through diversification across various asset classes. Below, we'll delve into the origins, principles, asset allocation, implementation, and key figures associated with the Ivy Portfolio.
+The Ivy Portfolio, often referred to as the "endowment model," is an investment strategy inspired by the [asset allocation](../a/asset_allocation.md) models used by the Harvard and Yale university endowments. This strategy aims to achieve strong long-term returns while minimizing risk through diversification across various asset classes. Below, we'll delve into the origins, principles, [asset allocation](../a/asset_allocation.md), implementation, and key figures associated with the Ivy Portfolio.
 
 ## Origins of the Ivy Portfolio
 
@@ -18,8 +18,8 @@ The Ivy Portfolio is built on several core principles that are essential for ach
    - The strategy emphasizes a long-term outlook, which aligns with the investment horizons of large endowments.
    - This perspective helps investors weather short-term market volatility and benefit from compounding returns over time.
 
-3. **Strategic Asset Allocation**:
-   - The asset allocation is carefully designed to balance risk and return.
+3. **Strategic [Asset Allocation](../a/asset_allocation.md)**:
+   - The [asset allocation](../a/asset_allocation.md) is carefully designed to balance risk and return.
    - The mix of assets is periodically reviewed and adjusted based on changing market conditions and long-term investment goals.
 
 4. **Active Management and Tactical Shifts**:
@@ -59,14 +59,14 @@ Implementing the Ivy Portfolio strategy involves several steps:
 
 1. **Setting Investment Goals**:
    - Clearly define your long-term investment objectives, risk tolerance, and time horizon.
-   - These factors will guide your asset allocation decisions.
+   - These factors will guide your [asset allocation](../a/asset_allocation.md) decisions.
 
 2. **Choosing Investment Vehicles**:
    - Select appropriate investment vehicles for each asset class, such as mutual funds, ETFs, or direct investments.
    - Ensure that the chosen vehicles align with your goals and offer diversification and cost-efficiency.
 
 3. **Periodic Rebalancing**:
-   - Regularly review your portfolio to ensure it remains aligned with your asset allocation targets.
+   - Regularly review your portfolio to ensure it remains aligned with your [asset allocation](../a/asset_allocation.md) targets.
    - Rebalance periodically to maintain the desired mix of assets and mitigate risk.
 
 4. **Staying Informed**:
@@ -113,7 +113,7 @@ For more details on Jack Meyer and Convexity Capital Management, visit the [Conv
 
 ### Mebane T. Faber
 
-Mebane Faber is the co-author of "The Ivy Portfolio" and the Chief Investment Officer of Cambria Investment Management. He is known for his work on quantitative investment strategies and asset allocation. Faber's research has contributed to the popularization of the Ivy Portfolio approach among individual investors.
+Mebane Faber is the co-author of "The Ivy Portfolio" and the Chief Investment Officer of Cambria Investment Management. He is known for his work on [quantitative investment strategies](../q/quantitative_investment_strategies.md) and [asset allocation](../a/asset_allocation.md). Faber's research has contributed to the popularization of the Ivy Portfolio approach among individual investors.
 
 For more information on Mebane Faber and Cambria Investment Management, visit the [Cambria Funds website](https://www.cambriafunds.com/).
 

@@ -1,6 +1,6 @@
 # X-Trend Following Models
 
-Trend following is a trading strategy that endeavors to profit from market momentum by identifying and riding along with trends, whether they are upwards or downwards. This strategy is rooted in technical analysis and relies heavily on utilizing market indicators and historical price data to make trading decisions. Among the multiplicity of methodologies that fall under trend following, several noteworthy models and approaches stand out. These models vary in complexity, from simple moving averages (SMAs) to more sophisticated algorithms like the Moving Average Convergence Divergence (MACD) and beyond. This document will delve into some of the most significant trend-following models employed in algorithmic trading.
+[Trend following](../t/trend_following.md) is a trading strategy that endeavors to profit from market momentum by identifying and riding along with trends, whether they are upwards or downwards. This strategy is rooted in [technical analysis](../t/technical_analysis.md) and relies heavily on utilizing market indicators and historical price data to make trading decisions. Among the multiplicity of methodologies that fall under [trend following](../t/trend_following.md), several noteworthy models and approaches stand out. These models vary in complexity, from simple moving averages (SMAs) to more sophisticated algorithms like the Moving Average Convergence Divergence (MACD) and beyond. This document will delve into some of the most significant trend-following models employed in [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Moving Averages (MA)
 
@@ -16,7 +16,7 @@ A Simple Moving Average calculates the average of a selected range of prices. Fo
   Where \( P \) is the price at each period, and \( n \) is the number of periods.
   
 ### Exponential Moving Average (EMA)
-Unlike the SMA, the Exponential Moving Average places more weight on recent prices, making it more responsive to new information. This characteristic makes the EMA preferable for short-term trading strategies.
+Unlike the SMA, the Exponential Moving Average places more weight on recent prices, making it more responsive to new information. This characteristic makes the EMA preferable for [short-term trading](../s/short-term_trading.md) strategies.
 
 - **Calculation**:
   \[
@@ -52,7 +52,7 @@ Where \( RS \) is the relative strength, calculated as the average gain divided 
   
 ## Bollinger Bands
 
-Created by John Bollinger, Bollinger Bands consist of a middle band being an n-period moving average, an upper band with k times n-period standard deviation above the average, and a lower band with k times the n-period standard deviation below the average.
+Created by John Bollinger, [Bollinger Bands](../b/bollinger_bands.md) consist of a middle band being an n-period moving average, an upper band with k times n-period standard deviation above the average, and a lower band with k times the n-period standard deviation below the average.
 
 ### Components
 - **Middle Band**: 20-day SMA
@@ -65,7 +65,7 @@ Created by John Bollinger, Bollinger Bands consist of a middle band being an n-p
 
 ## Parabolic SAR (Stop and Reverse)
 
-The Parabolic SAR is a time/price trading system created by J. Welles Wilder. It is used to determine the direction of trends and potential reversals in price movements.
+The [Parabolic SAR](../p/parabolic_sar.md) is a time/price trading system created by J. Welles Wilder. It is used to determine the direction of trends and potential reversals in price movements.
 
 ### Interpretation
 - **Bullish Signal**: When the dot switches from above the price to below the price.
@@ -73,7 +73,7 @@ The Parabolic SAR is a time/price trading system created by J. Welles Wilder. It
 
 ## Donchian Channels
 
-Developed by Richard Donchian, the Donchian Channel uses the highest high and the lowest low over a particular period to generate signals. It is often used in breakout trading strategies.
+Developed by Richard Donchian, the Donchian Channel uses the highest high and the lowest low over a particular period to generate signals. It is often used in [breakout trading](../b/breakout_trading.md) strategies.
 
 ### Components
 - **Upper Band**: Highest high over N periods.
@@ -85,7 +85,7 @@ Developed by Richard Donchian, the Donchian Channel uses the highest high and th
 
 ## Ichimoku Cloud
 
-The Ichimoku Cloud, or Ichimoku Kinko Hyo, provides more data points than the standard candlestick chart. It combines multiple indicators that provide support/resistance levels, trend direction, and momentum.
+The [Ichimoku Cloud](../i/ichimoku_cloud.md), or Ichimoku Kinko Hyo, provides more data points than the standard candlestick chart. It combines multiple indicators that provide support/resistance levels, trend direction, and momentum.
 
 ### Components
 - **Tenkan-sen**: (9-period high + 9-period low) / 2
@@ -100,21 +100,21 @@ The Ichimoku Cloud, or Ichimoku Kinko Hyo, provides more data points than the st
 
 ## Trading Systems and Tools
 
-Various platforms and tools aid in the implementation of these models within an algorithmic trading system. Examples include:
+Various platforms and tools aid in the implementation of these models within an [algorithmic trading](../a/algorithmic_trading.md) system. Examples include:
 
-1. **MetaTrader 4/5** - Offers a comprehensive environment for building and backtesting trading algorithms using MQL scripting languages. [MetaTrader](https://www.metatrader4.com/en)
+1. **MetaTrader 4/5** - Offers a comprehensive environment for building and [backtesting](../b/backtesting.md) [trading algorithms](../t/trading_algorithms.md) using MQL scripting languages. [MetaTrader](https://www.metatrader4.com/en)
 
-2. **NinjaTrader** - Another platform that supports building and executing algorithmic trading strategies with powerful analysis tools. [NinjaTrader](https://www.ninjatrader.com/)
+2. **NinjaTrader** - Another platform that supports building and executing [algorithmic trading](../a/algorithmic_trading.md) strategies with powerful analysis tools. [NinjaTrader](https://www.ninjatrader.com/)
 
-3. **QuantConnect** - Provides cloud-based services for backtesting and deploying trading algorithms using multiple programming languages like C#, Python. [QuantConnect](https://www.quantconnect.com/)
+3. **QuantConnect** - Provides cloud-based services for [backtesting](../b/backtesting.md) and deploying [trading algorithms](../t/trading_algorithms.md) using multiple programming languages like C#, Python. [QuantConnect](https://www.quantconnect.com/)
 
-4. **Interactive Brokers** - An electronic trading platform that provides APIs for algorithmic trading. [Interactive Brokers](https://www.interactivebrokers.com/)
+4. **Interactive Brokers** - An electronic trading platform that provides APIs for [algorithmic trading](../a/algorithmic_trading.md). [Interactive Brokers](https://www.interactivebrokers.com/)
 
 5. **TradeStation** - Known for its easy-to-use charting and analysis tools, offering a platform for automating trades. [TradeStation](https://www.tradestation.com/)
 
-6. **AlgoTrader** - A professional-grade algorithmic trading software for hedge funds and proprietary trading groups. [AlgoTrader](https://www.algotrader.com/)
+6. **AlgoTrader** - A professional-grade [algorithmic trading](../a/algorithmic_trading.md) software for hedge funds and [proprietary trading](../p/proprietary_trading.md) groups. [AlgoTrader](https://www.algotrader.com/)
 
-37. **QuantInsti** - An educational platform providing courses and certification in algorithmic trading. [QuantInsti](https://www.quantinsti.com/)
+37. **QuantInsti** - An educational platform providing courses and certification in [algorithmic trading](../a/algorithmic_trading.md). [QuantInsti](https://www.quantinsti.com/)
 
-These trend-following models and trading platforms form the backbone of successful algo-trading strategies. Traders and quants leverage these models to gain insights into market trends, thereby making informed trading decisions that can lead to substantial gains while managing risk effectively.
+These trend-following models and trading platforms form the backbone of successful algo-[trading strategies](../t/trading_strategies.md). Traders and quants leverage these models to gain insights into market trends, thereby making informed trading decisions that can lead to substantial gains while managing risk effectively.
 

@@ -1,6 +1,6 @@
 # Pattern Day Trader Rules
 
-In the United States, day trading is defined as the buying and selling of the same security on the same day in a margin account. The Financial Industry Regulatory Authority (FINRA) has established particular rules and requirements for traders who engage in day trading activities, specifically those who fall under the category of Pattern Day Traders (PDT). These rules are designed to mitigate risk and ensure that traders have enough capital in their accounts to cover the frequent trades that they execute.
+In the United States, [day trading](../d/day_trading.md) is defined as the buying and selling of the same security on the same day in a margin account. The Financial Industry Regulatory Authority (FINRA) has established particular rules and requirements for traders who engage in [day trading](../d/day_trading.md) activities, specifically those who fall under the category of Pattern Day Traders (PDT). These rules are designed to mitigate risk and ensure that traders have enough capital in their accounts to cover the frequent trades that they execute.
 
 ## Defining Pattern Day Trader
 
@@ -12,7 +12,7 @@ Once a trader is classified as a PDT, they are subject to specific regulatory re
 
 One of the primary rules for Pattern Day Traders is the minimum equity requirement. As per FINRA regulations, a PDT must maintain a minimum of $25,000 in their margin account at all times on any day that the customer day trades. The $25,000 must be in the form of cash or securities.
 
-If the account value falls below this threshold, the trader will be prohibited from day trading until the minimum equity level is restored either through depositing additional cash or securities, or by selling existing positions (not exceeding the day trading limits).
+If the account value falls below this threshold, the trader will be prohibited from [day trading](../d/day_trading.md) until the minimum equity level is restored either through depositing additional cash or securities, or by selling existing positions (not exceeding the [day trading](../d/day_trading.md) limits).
 
 ### Maintenance of $25,000 Equity
 
@@ -34,7 +34,7 @@ If a trader’s equity falls below the required level due to losses, a margin ca
 
 ### Day Trading Buying Power
 
-Day trading buying power is defined as four times the trader's maintenance margin excess, which means that if a trader has $25,000 in their margin account, they can day trade up to $100,000 worth of securities on any given day.
+[Day trading](../d/day_trading.md) buying power is defined as four times the trader's maintenance margin excess, which means that if a trader has $25,000 in their margin account, they can day trade up to $100,000 worth of securities on any given day.
 
 However, if this buying power is exceeded, the trader will receive a Reg T margin call and must deposit funds to bring their account into compliance. This action must be taken within a specified time frame, usually five business days.
 
@@ -62,7 +62,7 @@ Due to the strict requirements and potential account freezes under the PDT rules
 
 ### Swing Trading
 
-One popular strategy is swing trading, which involves holding positions for more than one day to avoid the day trade designation. While swing trading can carry overnight risk, it does not count as day trading, thereby not affecting the PDT calculation.
+One popular strategy is [swing trading](../s/swing_trading.md), which involves holding positions for more than one day to avoid the day trade designation. While [swing trading](../s/swing_trading.md) can carry overnight risk, it does not count as [day trading](../d/day_trading.md), thereby not affecting the PDT calculation.
 
 ### Cash Account Trading
 
@@ -72,7 +72,7 @@ Traders can also consider using a cash account rather than a margin account. In 
 
 ### Trade Journals and Software
 
-Maintaining a detailed trade journal and utilizing advanced trade tracking software can help traders methodically plan their trades and ensure they stay within the regulatory limits. Software can provide real-time data, alerts, and risk management tools to prevent inadvertently crossing PDT thresholds.
+Maintaining a detailed trade journal and utilizing advanced trade tracking software can help traders methodically plan their trades and ensure they stay within the regulatory limits. Software can provide real-time data, alerts, and [risk management](../r/risk_management.md) tools to prevent inadvertently crossing PDT thresholds.
 
 ### Offshore Accounts
 
@@ -80,10 +80,10 @@ Although risky and not recommended for most traders, some might consider opening
 
 ### Order Splitting and Staggered Trade Execution
 
-Another nuanced strategy involves order splitting and staggered trade execution, essentially breaking up trades into smaller orders, executed over days rather than within a single day, to avoid the day trading classification.
+Another nuanced strategy involves order splitting and staggered trade execution, essentially breaking up trades into smaller orders, executed over days rather than within a single day, to avoid the [day trading](../d/day_trading.md) classification.
 
 ## Conclusion
 
-Pattern Day Trader Rules are an essential component of the U.S. financial regulatory framework designed to control risk in the realm of day trading. While these rules impose significant requirements and restrictions, they play a crucial role in maintaining market integrity and protecting both traders and brokerages from undue risk. Understanding and adhering to these rules is vital for anyone engaging in day trading activities in a margin account.
+Pattern Day Trader Rules are an essential component of the U.S. financial regulatory framework designed to control risk in the realm of [day trading](../d/day_trading.md). While these rules impose significant requirements and restrictions, they play a crucial role in maintaining market integrity and protecting both traders and brokerages from undue risk. Understanding and adhering to these rules is vital for anyone engaging in [day trading](../d/day_trading.md) activities in a margin account.
 
 More information on FINRA and its regulations can be found on their official website [FINRA](https://www.finra.org).

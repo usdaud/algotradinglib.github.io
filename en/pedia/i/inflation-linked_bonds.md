@@ -5,7 +5,7 @@ Inflation-linked bonds (ILBs), also known as inflation-indexed bonds or real ret
 ## Types of Inflation-Linked Bonds
 
 ### Treasury Inflation-Protected Securities (TIPS)
-In the United States, the most well-known inflation-linked bonds are Treasury Inflation-Protected Securities (TIPS). TIPS are issued by the U.S. Department of the Treasury and are indexed to the Consumer Price Index (CPI), which measures inflation. Full details of TIPS can be found on the [U.S. Treasury's website](https://www.treasurydirect.gov/indiv/research/indepth/tips/res_tips.htm).
+In the United States, the most well-known inflation-linked bonds are Treasury [Inflation-Protected Securities](../i/inflation-protected_securities.md) (TIPS). TIPS are issued by the U.S. Department of the Treasury and are indexed to the Consumer Price Index (CPI), which measures inflation. Full details of TIPS can be found on the [U.S. Treasury's website](https://www.treasurydirect.gov/indiv/research/indepth/tips/res_tips.htm).
 
 ### UK Index-Linked Gilts
 In the United Kingdom, inflation-linked bonds are known as Index-Linked Gilts. These bonds are issued by the UK Debt Management Office (DMO) and are linked to the Retail Price Index (RPI). You can access more information about Index-Linked Gilts on the [UK DMO website](https://www.dmo.gov.uk/).

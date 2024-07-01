@@ -1,10 +1,10 @@
 # Naked Put Writing
 
 ## Introduction
-Naked put writing is a sophisticated options trading strategy used by investors who are bullish on a security and expect its price to rise or remain stable. This strategy involves selling put options without owning the underlying asset or without having sufficient cash to cover the purchase of the underlying should the option be exercised. This approach is considered highly risky because the writer (seller) of the put option is exposed to significant potential losses if the underlying security's price falls substantially.
+Naked put writing is a sophisticated options trading strategy used by investors who are bullish on a security and expect its price to rise or remain stable. This strategy involves selling [put options](../p/put_options.md) without owning the underlying asset or without having sufficient cash to cover the purchase of the underlying should the option be exercised. This approach is considered highly risky because the writer (seller) of the put option is exposed to significant potential losses if the underlying security's price falls substantially.
 
 ## Explanation of Naked Put Writing
-The mechanics of naked put writing are straightforward: the trader writes (sells) put options on a stock, index, or other underlying security they do not own. In return, the trader collects a premium, which is the price paid by the put buyer for the option.
+The mechanics of naked put writing are straightforward: the trader writes (sells) [put options](../p/put_options.md) on a stock, index, or other underlying security they do not own. In return, the trader collects a premium, which is the price paid by the put buyer for the option.
 
 ### Key Terminology
 - **Put Option**: A financial contract that gives the holder the right, but not the obligation, to sell a specified quantity of the underlying asset at a predetermined price (strike price) within a set period.
@@ -30,7 +30,7 @@ Because naked put writing involves potential exposure to unlimited losses, broke
 Naked put writing can be beneficial under certain market conditions and is used for income generation. 
 
 ### Income Generation
-The primary benefit of writing naked puts is the potential to generate income through the premiums collected. These premiums can provide a steady income, especially in a stable or rising market where the likelihood of the put options being exercised is lower.
+The primary benefit of writing naked puts is the potential to generate income through the premiums collected. These premiums can provide a steady income, especially in a stable or rising market where the likelihood of the [put options](../p/put_options.md) being exercised is lower.
 
 ### Market Entry Strategy
 Another advantage of naked put writing is that it can be used as a market entry strategy. If an investor is bullish on a stock but prefers to buy it at a lower price, writing a naked put at a lower strike price allows them to potentially purchase the stock at a discount. If the stock remains above the strike price, they keep the premium, but if it falls below, they end up buying the stock at an effective price reduced by the premium received.
@@ -45,7 +45,7 @@ Naked put writing is most suitable for traders who have a bullish or neutral out
 High implied volatility can result in higher premiums, which can be attractive for put writers. However, increased volatility also implies higher risk, as the underlying asset's price is expected to move more significantly.
 
 ### Delta
-Delta, which measures how much an option's price is expected to move per $1 change in the underlying asset's price, is also an important factor. For put options, delta is typically negative, meaning the option's price decreases as the underlying asset's price increases. 
+Delta, which measures how much an option's price is expected to move per $1 change in the underlying asset's price, is also an important factor. For [put options](../p/put_options.md), delta is typically negative, meaning the option's price decreases as the underlying asset's price increases. 
 
 ## Case Studies
 ### Case Study 1: Tesla Inc. (TSLA)
@@ -55,6 +55,6 @@ An investor believes Tesla stock will not fall below $650 in the next three mont
 Suppose an investor is interested in purchasing Apple stock, currently trading at $150, but prefers to buy at a lower price. They write a naked put option with a strike price of $140, for which they receive a $3 premium per share. If Apple's stock remains above $140, the option expires worthless, and the investor retains the premium. If Apple's stock drops to $135, they buy the stock at $140, effectively paying $137 per share after considering the premium, which aligns with their desire to buy the stock at a lower price.
 
 ## Conclusion
-Naked put writing can be a lucrative strategy for experienced traders who are willing to accept substantial risk in exchange for potential premium income. It requires a thorough understanding of market conditions, volatility, and the mechanics of options trading. Given its risks, it is advisable for traders to apply this strategy alongside robust risk management practices and ensure sufficient margin levels to cover potential losses.
+Naked put writing can be a lucrative strategy for experienced traders who are willing to accept substantial risk in exchange for potential premium income. It requires a thorough understanding of market conditions, volatility, and the mechanics of options trading. Given its risks, it is advisable for traders to apply this strategy alongside robust [risk management](../r/risk_management.md) practices and ensure sufficient margin levels to cover potential losses.
 
 Before engaging in naked put writing, traders should consult with financial advisors and consider their risk tolerance, market outlook, and overall investment strategy. Proper education and continuous market monitoring are crucial to successfully navigating the complexities of naked put writing. For those interested in exploring this strategy further, platforms such as [Interactive Brokers](https://www.interactivebrokers.com) and [Charles Schwab](https://www.schwab.com) offer comprehensive resources and tools to assist in options trading.

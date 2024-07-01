@@ -1,6 +1,6 @@
 # Master Data Management in Trading
 
-Master Data Management (MDM) is a comprehensive method for defining and managing the critical data of an organization to provide, with data integration, a single point of reference. This comprehensive approach to managing an organization's most critical data has far-reaching implications for various industries, particularly in trading. The effective implementation of MDM in trading ensures data accuracy, consistency, and accessibility, which are essential for driving agile and informed decisions.
+Master Data Management (MDM) is a comprehensive method for defining and managing the critical data of an organization to provide, with [data integration](../d/data_integration.md), a single point of reference. This comprehensive approach to managing an organization's most critical data has far-reaching implications for various industries, particularly in trading. The effective implementation of MDM in trading ensures data accuracy, consistency, and accessibility, which are essential for driving agile and informed decisions.
 
 ## Introduction to Master Data Management
 
@@ -34,13 +34,13 @@ A secure and scalable data storage solution where master data is stored. This ca
 
 ### 5. **Data Syndication**
 
-Distributes consistent and high-quality master data across various trading systems and applications. This is critical in ensuring that all parts of the organization have access to the same data sets.
+Distributes consistent and high-quality master data across various [trading systems](../t/trading_systems.md) and applications. This is critical in ensuring that all parts of the organization have access to the same data sets.
 
 ## Benefits of MDM in Trading
 
 ### Enhanced Trading Strategies
 
-MDM allows traders to have a unified view of market data, investment portfolios, and transaction histories, crucial for developing effective trading strategies.
+MDM allows traders to have a unified view of market data, investment portfolios, and transaction histories, crucial for developing effective [trading strategies](../t/trading_strategies.md).
 
 ### Higher Data Accuracy
 
@@ -110,7 +110,7 @@ Choosing the right technology partner is crucial. Companies like **Informatica**
 
 ### The Challenge
 
-A leading trading firm was struggling with inconsistent and siloed data, leading to inaccuracies and inefficiencies in trading decisions and reporting. The firm aimed to streamline its data management to enhance trading strategies and ensure compliance with regulatory requirements.
+A leading trading firm was struggling with inconsistent and siloed data, leading to inaccuracies and inefficiencies in trading decisions and reporting. The firm aimed to streamline its data management to enhance [trading strategies](../t/trading_strategies.md) and ensure compliance with regulatory requirements.
 
 ### Approach
 
@@ -123,7 +123,7 @@ A leading trading firm was struggling with inconsistent and siloed data, leading
 ### Outcome
 
 - **Improved Data Quality**: Achieved significant improvements in data accuracy and consistency.
-- **Enhanced Trading Efficiency**: Reduced operational inefficiencies, enabling quicker decision-making and enhanced trading strategies.
+- **Enhanced Trading Efficiency**: Reduced operational inefficiencies, enabling quicker decision-making and enhanced [trading strategies](../t/trading_strategies.md).
 - **Regulatory Compliance**: Met all regulatory requirements, ensuring compliance and reducing the risk of fines.
 - **Cost Savings**: Reduced costs associated with data errors and inefficiencies, leading to substantial savings over time.
 

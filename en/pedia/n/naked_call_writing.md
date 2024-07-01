@@ -1,6 +1,6 @@
 # Naked Call Writing
 
-Naked call writing, also referred to as uncovered call writing, is an options trading strategy that involves selling call options without owning the underlying asset. This strategy is considered one of the riskiest options trading strategies because the potential losses are theoretically unlimited. Here's an in-depth examination of naked call writing, covering the fundamental concepts, risks involved, strategies to mitigate these risks, and the potential rewards.
+Naked call writing, also referred to as [uncovered call writing](../u/uncovered_call_writing.md), is an options trading strategy that involves selling call options without owning the underlying asset. This strategy is considered one of the riskiest [options trading strategies](../o/options_trading_strategies.md) because the potential losses are theoretically unlimited. Here's an in-depth examination of naked call writing, covering the fundamental concepts, risks involved, strategies to mitigate these risks, and the potential rewards.
 
 ## Understanding Naked Call Writing
 
@@ -89,11 +89,11 @@ Given the inherent risks, regulatory bodies such as the U.S. Securities and Exch
 
 ## Conclusion
 
-Naked call writing stands as one of the most high-risk, high-reward strategies in options trading. While it offers the potential for immediate income and significant returns, the trade-offs include the risk of unlimited losses and substantial margin requirements. Traders employing this strategy must possess a deep understanding of market movements, robust risk management, and a disciplined approach to trading.
+Naked call writing stands as one of the most high-risk, high-reward strategies in options trading. While it offers the potential for immediate income and significant returns, the trade-offs include the risk of unlimited losses and substantial margin requirements. Traders employing this strategy must possess a deep understanding of market movements, robust [risk management](../r/risk_management.md), and a disciplined approach to trading.
 
 For more detailed insights and platform-specific guidelines on options trading, visit the following resources:
 - [Interactive Brokers](https://www.interactivebrokers.com)
 - [TD Ameritrade](https://www.tdameritrade.com)
 - [E*TRADE](https://us.etrade.com)
 
-Engaging with these platforms can provide additional educational resources, risk management tools, and a comprehensive understanding of how to implement naked call writing within a broader trading strategy.
+Engaging with these platforms can provide additional educational resources, [risk management](../r/risk_management.md) tools, and a comprehensive understanding of how to implement naked call writing within a broader trading strategy.

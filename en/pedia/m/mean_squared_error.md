@@ -1,6 +1,6 @@
 # Mean Squared Error (MSE)
 
-Mean Squared Error (MSE) is a standard way to measure the error of a quantitative prediction model. It is widely used in the field of statistics, signal processing, econometrics, machine learning, and many other disciplines. In the context of algorithmic trading, MSE can be an essential tool for evaluating the accuracy of predictive models concerning financial data.
+Mean Squared Error (MSE) is a standard way to measure the error of a quantitative prediction model. It is widely used in the field of statistics, signal processing, econometrics, machine learning, and many other disciplines. In the context of [algorithmic trading](../a/algorithmic_trading.md), MSE can be an essential tool for evaluating the accuracy of predictive models concerning financial data.
 
 ### Definition
 MSE is defined as the average of the squared differences between predicted and actual values. Mathematically, for a set of observations \((y_1, y_2, ..., y_n)\) and corresponding predictions \((\hat{y}_1, \hat{y}_2, ..., \hat{y}_n)\), the MSE is given by:
@@ -15,9 +15,9 @@ MSE is defined as the average of the squared differences between predicted and a
 3. **Number of Observations (n)**: This is the total number of data points.
 
 ### Importance in Algorithmic Trading
-In algorithmic trading, MSE is crucial for several reasons:
-1. **Model Accuracy**: Lower MSE indicates that the model's predictions are close to the actual data. This is critical for the reliability of trading strategies.
-2. **Risk Management**: By minimizing prediction errors, traders can manage risk more effectively.
+In [algorithmic trading](../a/algorithmic_trading.md), MSE is crucial for several reasons:
+1. **Model Accuracy**: Lower MSE indicates that the model's predictions are close to the actual data. This is critical for the reliability of [trading strategies](../t/trading_strategies.md).
+2. **[Risk Management](../r/risk_management.md)**: By minimizing prediction errors, traders can manage risk more effectively.
 3. **Parameter Tuning**: MSE is often used to tune model parameters during the development phase.
 
 ### Calculation
@@ -91,19 +91,19 @@ While useful, MSE has its limitations:
 To overcome these limitations, variations such as the Mean Absolute Percentage Error (MAPE) or Huber loss have been suggested. These may provide better performance in certain contexts.
 
 ### Practical Application
-Let's dive deeper into the applications and implications of MSE in algorithmic trading.
+Let's dive deeper into the applications and implications of MSE in [algorithmic trading](../a/algorithmic_trading.md).
 
 #### Scenario: Predicting Stock Prices
 Suppose we develop a machine learning model to predict the future prices of a particular stock. We train the model using historical data and then use it to make predictions. MSE will help us evaluate how well our model has generalized to unseen data. A lower MSE would imply that our model is making more accurate predictions.
 
 #### Scenario: Portfolio Optimization
-In portfolio management, we might use MSE to evaluate the performance of our asset allocation strategies. By predicting the returns of different asset classes and minimizing the MSE, we can potentially reduce the risks associated with our investment portfolio.
+In [portfolio management](../p/portfolio_management.md), we might use MSE to evaluate the performance of our [asset allocation](../a/asset_allocation.md) strategies. By predicting the returns of different asset classes and minimizing the MSE, we can potentially reduce the risks associated with our investment portfolio.
 
 ### Companies and Tools
 Several companies and tools provide solutions that automatically compute MSE for models:
-1. **QuantConnect** - An algorithmic trading platform that allows users to design, test, and deploy trading algorithms: [QuantConnect](https://www.quantconnect.com)
+1. **QuantConnect** - An [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to design, test, and deploy [trading algorithms](../t/trading_algorithms.md): [QuantConnect](https://www.quantconnect.com)
 
 2. **Datarobot** - Provides machine learning tools for building and evaluating predictive models: [Datarobot](https://www.datarobot.com)
 
 ### Conclusion
-Mean Squared Error is a fundamental metric in data science and algorithmic trading for evaluating predictive models. Despite its limitations, it remains one of the most widely-used metrics due to its simplicity and sensitivity to large errors. By understanding and appropriately applying MSE, traders and data scientists can improve the accuracy and reliability of their models, leading to better decision-making and potentially higher financial returns.
+Mean Squared Error is a fundamental metric in data science and [algorithmic trading](../a/algorithmic_trading.md) for evaluating predictive models. Despite its limitations, it remains one of the most widely-used metrics due to its simplicity and sensitivity to large errors. By understanding and appropriately applying MSE, traders and data scientists can improve the accuracy and reliability of their models, leading to better decision-making and potentially higher financial returns.

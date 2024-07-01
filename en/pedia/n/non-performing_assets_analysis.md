@@ -65,7 +65,7 @@ Banks utilize several strategies to manage and reduce NPAs:
 
 ## Role of Algo Trading in NPA Analysis
 
-Algo trading can play a critical role in NPA analysis, allowing for the automation of data processing, pattern recognition, and decision-making. This can enhance the efficiency and effectiveness of managing NPAs.
+Algo trading can play a critical role in NPA analysis, allowing for the automation of data processing, [pattern recognition](../p/pattern_recognition.md), and decision-making. This can enhance the efficiency and effectiveness of managing NPAs.
 
 ### Data Processing
 Algorithms can analyze vast amounts of data to detect early signs of financial distress in borrowers.
@@ -85,4 +85,4 @@ There are specialized tools and software platforms used by algo trading firms fo
 
 ## Conclusion
 
-Understanding and managing NPAs is crucial for the financial health and stability of any banking institution. The use of advanced technologies like AI and machine learning, along with robust loan management strategies, can significantly mitigate the risks associated with NPAs. Algo trading firms and financial analysts must integrate these approaches to make informed decisions, thereby enhancing portfolio performance and profitability.
+Understanding and managing NPAs is crucial for the financial health and stability of any banking institution. The use of advanced technologies like AI and machine learning, along with robust loan management strategies, can significantly mitigate the risks associated with NPAs. Algo trading firms and financial analysts must integrate these approaches to make informed decisions, thereby enhancing [portfolio performance](../p/portfolio_performance.md) and profitability.

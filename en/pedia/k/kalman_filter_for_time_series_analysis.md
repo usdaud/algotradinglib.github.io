@@ -1,6 +1,6 @@
 # Kalman Filter for Time Series Analysis
 
-The Kalman Filter is a powerful tool that provides estimates of the state of a dynamic system from a series of noisy measurements. It is widely used in various fields including engineering, economics, and finance. One of its notable applications is in time series analysis and forecasting, essential for developing quantitative trading strategies in algorithmic trading.
+The Kalman Filter is a powerful tool that provides estimates of the state of a dynamic system from a series of noisy measurements. It is widely used in various fields including engineering, economics, and finance. One of its notable applications is in [time series analysis](../t/time_series_analysis.md) and forecasting, essential for developing [quantitative trading](../q/quantitative_trading.md) strategies in [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Introduction to Kalman Filter
 
@@ -65,26 +65,26 @@ The Kalman Filter operates through a cycle of predict and update steps, which ca
 
 ## Kalman Filter in Time Series Analysis
 
-In time series analysis, the Kalman Filter is primarily used for filtering and predicting future values, smooth past values, and estimate missing observations. Its strength lies in its ability to provide optimal estimates in the presence of uncertainties and noise, which is common in financial market data.
+In [time series analysis](../t/time_series_analysis.md), the Kalman Filter is primarily used for filtering and predicting future values, smooth past values, and estimate missing observations. Its strength lies in its ability to provide optimal estimates in the presence of uncertainties and noise, which is common in financial market data.
 
 ### Application in Financial Markets
 
 1. **State-Space Representation**: 
-    Financial time series can be represented in a state-space form where the observable variables (e.g., asset prices) are modeled as functions of hidden state variables (e.g., underlying trends, seasonal components).
+    [Financial time series](../f/financial_time_series.md) can be represented in a state-space form where the observable variables (e.g., asset prices) are modeled as functions of hidden state variables (e.g., underlying trends, seasonal components).
 
 2. **Filtering and Smoothing**: 
     - **Filtering**: This involves estimating the current states of the system based on past and present data.
     - **Smoothing**: This involves estimating the states of the system over time, incorporating future observations to improve past estimates.
 
 3. **Noise Reduction**:
-   Kalman Filter helps to reduce the noise in financial time series, providing a cleaner signal for identifying trends and patterns.
+   Kalman Filter helps to reduce the noise in [financial time series](../f/financial_time_series.md), providing a cleaner signal for identifying trends and patterns.
 
-4. **Algorithmic Trading Strategies**:
-   Traders can use the Kalman Filter to develop prediction models for prices, volatilities, and returns. This can form the basis for a variety of trading strategies, including pairs trading, mean reversion, and trend following.
+4. **[Algorithmic Trading](../a/algorithmic_trading.md) Strategies**:
+   Traders can use the Kalman Filter to develop prediction models for prices, volatilities, and returns. This can form the basis for a variety of [trading strategies](../t/trading_strategies.md), including [pairs trading](../p/pairs_trading.md), [mean reversion](../m/mean_reversion.md), and [trend following](../t/trend_following.md).
 
 ### Implementation Example
 
-Below is an example implementation of the Kalman Filter in Python, using a state-space representation for a simple financial time series model:
+Below is an example implementation of the Kalman Filter in Python, using a state-space representation for a simple [financial time series](../f/financial_time_series.md) model:
 
 ```python
 import numpy as np
@@ -133,7 +133,7 @@ plt.show()
 ## Companies Utilizing Kalman Filter
 
 ### Numerai
-Numerai (https://numer.ai/) is a hedge fund that applies artificial intelligence and machine learning, including techniques like the Kalman Filter, to develop trading models. They leverage collective intelligence from data scientists worldwide to generate highly predictive models.
+Numerai (https://numer.ai/) is a hedge fund that applies artificial intelligence and machine learning, including techniques like the Kalman Filter, to develop [trading models](../t/trading_models.md). They leverage collective intelligence from data scientists worldwide to generate highly predictive models.
 
 ### Hudson River Trading (HRT)
 Hudson River Trading (https://www.hudsonrivertrading.com/) is a high-frequency trading firm that uses sophisticated algorithms and machine learning techniques, including the Kalman Filter, to analyze market data and execute trades in microseconds.
@@ -156,4 +156,4 @@ Two Sigma (https://www.twosigma.com/) employs statistical models and machine lea
 
 ## Conclusion
 
-The Kalman Filter is an invaluable tool for time series analysis and has significant applications in algorithmic trading. By providing robust estimates in the presence of noisy data, it allows traders to develop sophisticated models that can forecast market movements and identify profitable trading opportunities. Its integration into trading algorithms has been instrumental for many leading quantitative trading firms, paving the way for data-driven decision making and financial innovation.
+The Kalman Filter is an invaluable tool for [time series analysis](../t/time_series_analysis.md) and has significant applications in [algorithmic trading](../a/algorithmic_trading.md). By providing robust estimates in the presence of noisy data, it allows traders to develop sophisticated models that can forecast market movements and identify profitable trading opportunities. Its integration into [trading algorithms](../t/trading_algorithms.md) has been instrumental for many leading [quantitative trading](../q/quantitative_trading.md) firms, paving the way for data-driven decision making and financial innovation.

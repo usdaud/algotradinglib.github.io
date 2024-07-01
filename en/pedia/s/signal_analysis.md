@@ -1,6 +1,6 @@
 # Signal Analysis
 
-Signal analysis plays an integral role in algorithmic trading, a method of executing orders using automated pre-programmed trading instructions to account for variables such as time, price, and volume. The core idea is to develop algorithms that can autonomously decide on the best actions to take in the market based on analyzed data. Below, we delve into the specifics of signal analysis in the context of algotrading.
+Signal analysis plays an integral role in [algorithmic trading](../a/algorithmic_trading.md), a method of executing orders using automated pre-programmed trading instructions to account for variables such as time, price, and volume. The core idea is to develop algorithms that can autonomously decide on the best actions to take in the market based on analyzed data. Below, we delve into the specifics of signal analysis in the context of algotrading.
 
 ## 1. Introduction
 
@@ -14,37 +14,37 @@ Technical signals are based on historical price and volume data. Analysts use ch
  
 - **Moving Averages:** The average price of a security over a specific number of periods, which smoothens out short-term fluctuations and highlights longer-term trends.
 - **Relative Strength Index (RSI):** An oscillator that measures the speed and change of price movements, indicating overbought or oversold conditions.
-- **Bollinger Bands:** Bands plotted at standard deviation levels above and below a moving average, showing volatility levels.
+- **[Bollinger Bands](../b/bollinger_bands.md):** Bands plotted at standard deviation levels above and below a moving average, showing volatility levels.
 
 ### 2.2 Fundamental Signals
 
-Fundamental signals focus on the intrinsic value of an asset, considering external factors such as earnings reports, economic indicators, and company news. Key fundamental signals include:
+Fundamental signals focus on the intrinsic value of an asset, considering external factors such as earnings reports, [economic indicators](../e/economic_indicators.md), and company news. Key fundamental signals include:
   
 - **Earnings Reports:** Information about a company’s profitability, revenue, and expenses.
-- **Economic Indicators:** Data like GDP growth rates, unemployment rates, and inflation.
-- **News Reports and Sentiment:** Analyst recommendations, market sentiment indicators, and relevant news.
+- **[Economic Indicators](../e/economic_indicators.md):** Data like GDP growth rates, unemployment rates, and inflation.
+- **News Reports and Sentiment:** Analyst recommendations, [market sentiment indicators](../m/market_sentiment_indicators.md), and relevant news.
 
 ### 2.3 Quantitative Signals
 
 Quantitative signals use mathematical models to identify opportunities. Approaches include:
 
-- **Statistical Arbitrage:** Employing statistical methods to exploit price inefficiencies between securities.
-- **Factor Models:** Identifying factors that have historically explained asset returns, such as value or momentum factors.
+- **Statistical [Arbitrage](../a/arbitrage.md):** Employing statistical methods to exploit price inefficiencies between securities.
+- **[Factor Models](../f/factor_models.md):** Identifying factors that have historically explained asset returns, such as value or momentum factors.
 
 ## 3. Signal Processing Techniques
 
 ### 3.1 Time Series Analysis
 
-Time series analysis involves studying time-ordered data points. Tools used include:
+[Time series analysis](../t/time_series_analysis.md) involves studying time-ordered data points. Tools used include:
 
 - **Autoregressive Integrated Moving Average (ARIMA):** A model that explains a given time series based on its own past values, its own past errors, and lagged forecast errors.
-- **Exponential Smoothing:** Techniques like Holt-Winters seasonal decomposition to forecast future points in the series.
+- **[Exponential Smoothing](../e/exponential_smoothing.md):** Techniques like Holt-Winters seasonal decomposition to forecast future points in the series.
 
 ### 3.2 Machine Learning
 
 Machine learning methods help identify patterns by training on past data. Applications in signal analysis include:
 
-- **Classification Algorithms:** Techniques like support vector machines (SVM) to classify buy/sell signals.
+- **[Classification Algorithms](../c/classification_algorithms.md):** Techniques like support vector machines (SVM) to classify buy/sell signals.
 - **Regression Algorithms:** Methods such as Lasso regression to predict future price movements.
 
 ### 3.3 Fourier Analysis
@@ -67,14 +67,14 @@ Efficient implementation begins with reliable data collection, which involves:
 
 Once data is collected, the next step is generating signals by applying analytical techniques. Examples include:
 
-- **Trend Following Systems:** Algorithms that follow market trends to buy during uptrends and sell during downtrends.
-- **Mean Reversion Systems:** Strategies that assume asset prices will revert to a long-term mean.
+- **[Trend Following](../t/trend_following.md) Systems:** Algorithms that follow market trends to buy during uptrends and sell during downtrends.
+- **[Mean Reversion](../m/mean_reversion.md) Systems:** Strategies that assume asset prices will revert to a long-term mean.
 
 ### 4.3 Backtesting
 
-Backtesting involves applying the signal generation algorithm to historical data to evaluate performance. Key considerations include:
+[Backtesting](../b/backtesting.md) involves applying the signal generation algorithm to historical data to evaluate performance. Key considerations include:
 
-- **Performance Metrics:** Metrics like Sharpe ratio, max drawdown, and total returns.
+- **[Performance Metrics](../p/performance_metrics.md):** Metrics like [Sharpe ratio](../s/sharpe_ratio.md), max drawdown, and total returns.
 - **Robustness Checks:** Ensure algorithms perform well across different time periods and market conditions.
 
 ### 4.4 Execution
@@ -86,10 +86,10 @@ Once signals are generated and validated, they need to be executed in the market
 
 ### 4.5 Risk Management
 
-Incorporating risk management ensures the longevity and sustainability of trading strategies. Techniques include:
+Incorporating [risk management](../r/risk_management.md) ensures the longevity and sustainability of [trading strategies](../t/trading_strategies.md). Techniques include:
 
-- **Position Sizing:** Determining the optimal amount to trade based on risk tolerance.
-- **Stop-loss Orders:** Automatically exiting trades at predetermined loss levels.
+- **[Position Sizing](../p/position_sizing.md):** Determining the optimal amount to trade based on risk tolerance.
+- **[Stop-loss Orders](../s/stop-loss_orders.md):** Automatically exiting trades at predetermined loss levels.
 
 ## 5. Challenges in Signal Analysis
 
@@ -118,15 +118,15 @@ Markets are dynamic and constantly evolving. Adaptability of algorithms is key. 
 
 ### 6.1 Renaissance Technologies
 
-Renaissance Technologies is one of the most successful hedge funds, known for its quantitative trading strategies. More details can be found on their [website](https://www.rentec.com/).
+Renaissance Technologies is one of the most successful hedge funds, known for its [quantitative trading](../q/quantitative_trading.md) strategies. More details can be found on their [website](https://www.rentec.com/).
 
 ### 6.2 Two Sigma
 
-Two Sigma employs advanced signal analysis and machine learning techniques to generate trading signals. Additional information is available on their [website](https://www.twosigma.com/).
+Two Sigma employs advanced signal analysis and machine learning techniques to generate [trading signals](../t/trading_signals.md). Additional information is available on their [website](https://www.twosigma.com/).
 
 ### 6.3 Citadel
 
-Citadel uses a range of quantitative tools for signal analysis in their trading strategies. Discover more on their [website](https://www.citadel.com/).
+Citadel uses a range of quantitative tools for signal analysis in their [trading strategies](../t/trading_strategies.md). Discover more on their [website](https://www.citadel.com/).
 
 ## 7. Future Trends
 
@@ -153,5 +153,5 @@ Quantum computing could further enhance the capability of signal processing algo
 
 ## 8. Conclusion
 
-Signal analysis is cornerstone to effective algorithmic trading, allowing traders to make data-driven decisions. The integration of advanced statistical methods, machine learning, and cutting-edge technology continually pushes the boundaries of what can be achieved in financial markets.
+Signal analysis is cornerstone to effective [algorithmic trading](../a/algorithmic_trading.md), allowing traders to make data-driven decisions. The integration of advanced statistical methods, machine learning, and cutting-edge technology continually pushes the boundaries of what can be achieved in financial markets.
 

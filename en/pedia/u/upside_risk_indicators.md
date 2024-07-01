@@ -2,13 +2,13 @@
 
 ## Introduction to Upside Risk
 
-In the context of financial markets, risk is often perceived negatively, associated with potential losses. However, there are scenarios where risk can be positive, signifying potential high returns. This concept is termed `upside risk`. Upside risk indicators quantify this positive potential, allowing traders and investors to make more informed decisions that could lead to higher gains. In algorithmic trading, these indicators are crucial for optimizing strategies and enhancing portfolio performance. 
+In the context of financial markets, risk is often perceived negatively, associated with potential losses. However, there are scenarios where risk can be positive, signifying potential high returns. This concept is termed `[upside risk](../u/upside_risk.md)`. [Upside risk](../u/upside_risk.md) indicators quantify this positive potential, allowing traders and investors to make more informed decisions that could lead to higher gains. In [algorithmic trading](../a/algorithmic_trading.md), these indicators are crucial for optimizing strategies and enhancing [portfolio performance](../p/portfolio_performance.md). 
 
 ## Key Concepts of Upside Risk
 
 1. **Upside Beta**: Upside beta measures an asset’s performance relative to the market in uptrend conditions. It shows how much of the gains of the market are captured by the asset. If an asset’s upside beta is greater than 1, the asset is expected to outperform the market in favorable conditions.
 
-2. **Sortino Ratio**: The Sortino ratio is a modified version of the Sharpe ratio that differentiates harmful volatility from overall volatility by using downside deviation instead of standard deviation. Since it disregards upside volatility, it gives a clearer picture of downside risk while promoting upside potential.
+2. **[Sortino Ratio](../s/sortino_ratio.md)**: The [Sortino ratio](../s/sortino_ratio.md) is a modified version of the [Sharpe ratio](../s/sharpe_ratio.md) that differentiates harmful volatility from overall volatility by using [downside deviation](../d/downside_deviation.md) instead of standard deviation. Since it disregards upside volatility, it gives a clearer picture of downside risk while promoting upside potential.
 
 3. **Gain-Loss Ratio**: This ratio compares the potential gains against potential losses. It evaluates the frequency and magnitude of positive returns relative to negative returns, providing insights into the risk-return dynamic of an asset.
 
@@ -16,21 +16,21 @@ In the context of financial markets, risk is often perceived negatively, associa
 
 ## Applications in Algorithmic Trading
 
-1. **Strategy Optimization**: By incorporating upside risk indicators, quants can optimize trading strategies to favor opportunities with higher potential returns while managing downside risks effectively.
+1. **Strategy Optimization**: By incorporating [upside risk](../u/upside_risk.md) indicators, quants can optimize [trading strategies](../t/trading_strategies.md) to favor opportunities with higher potential returns while managing downside risks effectively.
 
-2. **Portfolio Management**: Algorithms can rebalance portfolios based on upside risk metrics to maximize returns during favorable market conditions while mitigating potential losses during downturns.
+2. **[Portfolio Management](../p/portfolio_management.md)**: Algorithms can rebalance portfolios based on upside [risk metrics](../r/risk_metrics.md) to maximize returns during favorable market conditions while mitigating potential losses during downturns.
 
-3. **Risk Management**: Upside risk indicators aid in constructing hedging strategies that not only protect against losses but take advantage of positive market movements.
+3. **[Risk Management](../r/risk_management.md)**: [Upside risk](../u/upside_risk.md) indicators aid in constructing [hedging strategies](../h/hedging_strategies.md) that not only protect against losses but take advantage of positive market movements.
 
 ## Case Studies and Examples
 
 ### Case Study: QuantConnect's Algorithm Strategy 
 
-QuantConnect provides a powerful platform for algorithmic trading, allowing traders to backtest and deploy strategies using a range of data. One of their strategies incorporates upside risk indicators to enhance portfolio performance. The strategy uses upside beta to select stocks that are likely to outperform the market in bullish conditions. By integrating these indicators, the algorithm has demonstrated significant improvement in returns during uptrend periods. [QuantConnect](https://www.quantconnect.com)
+QuantConnect provides a powerful platform for [algorithmic trading](../a/algorithmic_trading.md), allowing traders to backtest and deploy strategies using a range of data. One of their strategies incorporates [upside risk](../u/upside_risk.md) indicators to enhance [portfolio performance](../p/portfolio_performance.md). The strategy uses upside beta to select stocks that are likely to outperform the market in bullish conditions. By integrating these indicators, the algorithm has demonstrated significant improvement in returns during uptrend periods. [QuantConnect](https://www.quantconnect.com)
 
 ### Example: BlackRock's Aladdin
 
-BlackRock's Aladdin is a sophisticated risk management and analytics platform utilized by many financial institutions. Within Aladdin, upside risk indicators are used to analyze asset performance and optimize portfolio allocation, helping managers enhance returns while managing risk effectively. [BlackRock Aladdin](https://www.blackrock.com/aladdin/products/aladdin-risk)
+BlackRock's Aladdin is a sophisticated [risk management](../r/risk_management.md) and analytics platform utilized by many financial institutions. Within Aladdin, [upside risk](../u/upside_risk.md) indicators are used to analyze asset performance and optimize portfolio allocation, helping managers enhance returns while managing risk effectively. [BlackRock Aladdin](https://www.blackrock.com/aladdin/products/aladdin-risk)
 
 ## Mathematical Formulation of Upside Risk Indicators
 
@@ -46,14 +46,14 @@ where:
 
 ### Sortino Ratio
 
-The Sortino ratio is given by:
+The [Sortino ratio](../s/sortino_ratio.md) is given by:
 
-\[ \text{Sortino Ratio} = \frac{R_p - R_f}{\sigma_d} \]
+\[ \text{[Sortino Ratio](../s/sortino_ratio.md)} = \frac{R_p - R_f}{\sigma_d} \]
 
 where:
 - \( R_p \) is the portfolio return.
 - \( R_f \) is the risk-free rate.
-- \( \sigma_d \) is the downside deviation of the portfolio's return.
+- \( \sigma_d \) is the [downside deviation](../d/downside_deviation.md) of the portfolio's return.
 
 ### Gain-Loss Ratio
 
@@ -79,7 +79,7 @@ where:
 
 ### Python in QuantConnect
 
-Python is an excellent language for implementing these indicators due to its simplicity and the wide range of libraries available. QuantConnect, a cloud-based backtesting and algorithm trading platform, supports Python for strategy development. Here’s a basic implementation of using the Upside Beta within QuantConnect:
+Python is an excellent language for implementing these indicators due to its simplicity and the wide range of libraries available. QuantConnect, a cloud-based [backtesting](../b/backtesting.md) and algorithm trading platform, supports Python for strategy development. Here’s a basic implementation of using the Upside Beta within QuantConnect:
 
 ```python
 import numpy as np
@@ -117,19 +117,19 @@ This implementation calculates the upside beta for SPY (S&P 500 ETF) using daily
 
 ### Integration in Risk Management Systems
 
-In sophisticated trading systems like BlackRock's Aladdin, these calculations are deeply integrated into the risk management and portfolio optimization modules. For example, Aladdin can automatically adjust portfolio positions based on upside risk indicators to optimize performance. 
+In sophisticated [trading systems](../t/trading_systems.md) like BlackRock's Aladdin, these calculations are deeply integrated into the [risk management](../r/risk_management.md) and [portfolio optimization](../p/portfolio_optimization.md) modules. For example, Aladdin can automatically adjust portfolio positions based on [upside risk](../u/upside_risk.md) indicators to optimize performance. 
 
 ## Future Directions
 
-1. **Machine Learning Integration**: Upside risk indicators can be enhanced through machine learning models that predict future values, offering dynamic adjustments to trading strategies.
+1. **Machine Learning Integration**: [Upside risk](../u/upside_risk.md) indicators can be enhanced through machine learning models that predict future values, offering dynamic adjustments to [trading strategies](../t/trading_strategies.md).
 
-2. **Real-time Analytics**: With advancements in big data analytics and real-time data streams, upside risk indicators can be calculated and applied in real-time, providing more responsive and adaptive trading strategies.
+2. **Real-time Analytics**: With advancements in big data analytics and real-time data streams, [upside risk](../u/upside_risk.md) indicators can be calculated and applied in real-time, providing more responsive and adaptive [trading strategies](../t/trading_strategies.md).
 
-3. **Blockchain and Decentralized Finance (DeFi)**: In DeFi platforms, upside risk indicators can be integrated to manage risks in decentralized portfolios, bringing more sophisticated risk management tools to the blockchain ecosystem.
+3. **Blockchain and Decentralized Finance (DeFi)**: In DeFi platforms, [upside risk](../u/upside_risk.md) indicators can be integrated to manage risks in decentralized portfolios, bringing more sophisticated [risk management](../r/risk_management.md) tools to the blockchain ecosystem.
 
 ## Conclusion
 
-Upside risk indicators are powerful tools in the arsenal of traders and portfolio managers. By focusing on the positive potential of investments, these indicators help in crafting strategies that maximize returns while effectively managing risks. The integration of these metrics in algorithmic trading platforms and risk management systems underscores their importance in modern financial markets. As technology continues to evolve, the application and sophistication of upside risk indicators will only expand, driving further innovation in the field of finance.
+[Upside risk](../u/upside_risk.md) indicators are powerful tools in the arsenal of traders and portfolio managers. By focusing on the positive potential of investments, these indicators help in crafting strategies that maximize returns while effectively managing risks. The integration of these metrics in [algorithmic trading](../a/algorithmic_trading.md) platforms and [risk management](../r/risk_management.md) systems underscores their importance in modern financial markets. As technology continues to evolve, the application and sophistication of [upside risk](../u/upside_risk.md) indicators will only expand, driving further innovation in the field of finance.
 
 For more information, visit:
 - [QuantConnect](https://www.quantconnect.com)

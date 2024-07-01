@@ -1,11 +1,11 @@
 # Trading Journals
 
-A trading journal is a tool that traders use to record their trades, thought processes, and strategies. It serves as a critical component for traders aiming to continuously improve and refine their trading performance. Trading journals can take various forms, ranging from simple handwritten notebooks to sophisticated digital platforms equipped with analytics and metrics.
+A trading journal is a tool that traders use to record their trades, thought processes, and strategies. It serves as a critical component for traders aiming to continuously improve and refine their [trading performance](../t/trading_performance.md). Trading journals can take various forms, ranging from simple handwritten notebooks to sophisticated digital platforms equipped with analytics and metrics.
 
 ## Why Maintain a Trading Journal?
 
 1. **Self-Improvement**: Keeping a trading journal helps traders introspect and analyze their decision-making processes. By documenting trades, traders can review their choices and identify both strengths and weaknesses.
-2. **Pattern Recognition**: Over time, maintaining a journal helps in recognizing trading patterns and recurring themes in market behavior, which can inform future strategy adjustments.
+2. **[Pattern Recognition](../p/pattern_recognition.md)**: Over time, maintaining a journal helps in recognizing trading patterns and recurring themes in market behavior, which can inform future strategy adjustments.
 3. **Performance Tracking**: A detailed log of trades provides essential data to evaluate performance over time. It allows traders to track not just the metrics like win/loss ratio, but also psychological and emotional factors that influenced decisions.
 4. **Discipline**: Regularly updating a trading journal instills discipline in traders, encouraging a structured approach to trading rather than impulsive decisions.
 5. **Legal and Compliance**: For professional traders, maintaining an accurate journal can also assist in compliance with legal and regulatory requirements.
@@ -42,7 +42,7 @@ Digital and online trading journal platforms often offer advanced features that 
 
 ### Analytics and Metrics
 
-- **Performance Metrics**: Comprehensive metrics such as Sharpe ratio, maximum drawdown, profit factor, and more.
+- **[Performance Metrics](../p/performance_metrics.md)**: Comprehensive metrics such as [Sharpe ratio](../s/sharpe_ratio.md), maximum drawdown, [profit factor](../p/profit_factor.md), and more.
 - **Visual Representations**: Charts and graphs that visually represent trade data, making patterns and trends easier to spot.
 
 ### Automated Data Import
@@ -51,7 +51,7 @@ Many digital journals allow automated import of trade data from brokerage accoun
 
 ### Backtesting and Simulation
 
-Some platforms offer tools for backtesting trading strategies against historical data to gauge their efficacy before deploying them in live markets.
+Some platforms offer tools for [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md) against historical data to gauge their efficacy before deploying them in live markets.
 
 ### Integrations
 
@@ -61,7 +61,7 @@ Integration with third-party platforms, including market data providers and othe
 
 ### Edgewonk
 
-[Edgewonk](https://edgewonk.com/) is a popular digital trading journal offering a wide range of features. Users can record detailed trade data, analyze performance metrics, and benefit from advanced journaling functionalities like emotional analytics and trade simulation.
+[Edgewonk](https://edgewonk.com/) is a popular digital trading journal offering a wide range of features. Users can record detailed trade data, analyze [performance metrics](../p/performance_metrics.md), and benefit from advanced journaling functionalities like emotional analytics and trade simulation.
 
 ### TraderSync
 

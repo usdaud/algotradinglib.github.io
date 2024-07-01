@@ -1,6 +1,6 @@
 # Horizontal Analysis
 
-Horizontal Analysis, also known as trend analysis, is a method used in financial statement analysis to evaluate the changes in financial statement items over a period of time. This comparison of financial data is useful for understanding the growth patterns, financial health, and performance trends of an organization. Horizontal Analysis is typically performed on elements from a company's financial statements, such as the income statement, balance sheet, and cash flow statement, across multiple reporting periods.
+Horizontal Analysis, also known as [trend analysis](../t/trend_analysis.md), is a method used in [financial statement analysis](../f/financial_statement_analysis.md) to evaluate the changes in financial statement items over a period of time. This comparison of financial data is useful for understanding the growth patterns, financial health, and performance trends of an organization. Horizontal Analysis is typically performed on elements from a company's financial statements, such as the income statement, balance sheet, and cash flow statement, across multiple reporting periods.
 
 ### Key Concepts
 
@@ -36,7 +36,7 @@ Horizontal Analysis on the income statement helps in understanding the trends in
 #### Balance Sheet Analysis
 When applied to the balance sheet, Horizontal Analysis can reveal trends in assets, liabilities, and equity. For instance:
 - **Asset Utilization**: Monitoring changes in current and non-current assets to assess asset management efficiency.
-- **Leverage Ratios**: Evaluating trends in liabilities to understand the company's leverage and financial risk.
+- **[Leverage Ratios](../l/leverage_ratios.md)**: Evaluating trends in liabilities to understand the company's leverage and financial risk.
 - **Equity Trends**: Analyzing changes in shareholder equity to gauge growth in company value and equity base.
 
 #### Cash Flow Statement Analysis
@@ -49,7 +49,7 @@ In the cash flow statement, Horizontal Analysis helps in identifying patterns in
 
 #### Advantages
 - **Trend Identification**: Facilitates easy detection of financial trends over time.
-- **Comparative Analysis**: Simplifies comparison of performance across periods.
+- **[Comparative Analysis](../c/comparative_analysis.md)**: Simplifies comparison of performance across periods.
 - **Strategic Planning**: Assists in strategic decision-making and forecasting.
 - **Performance Evaluation**: Enhances the evaluation of managerial effectiveness.
 
@@ -63,13 +63,13 @@ In the cash flow statement, Horizontal Analysis helps in identifying patterns in
 
 Several tools and software solutions aid in Horizontal Analysis by automating the data extraction, calculations, and visualization processes. Some notable tools are:
 - **Microsoft Excel**: Widely used for manual calculations and creating financial analysis templates.
-- **QuickBooks**: Accounting software that supports financial statement analysis.
+- **QuickBooks**: Accounting software that supports [financial statement analysis](../f/financial_statement_analysis.md).
 - **Sage Intacct**: Provides robust financial management and analysis capabilities.
 - **Oracle Financial Services**: Advanced tools for comprehensive financial analytics.
-- **SAP Analytics Cloud**: Offers data integration, analysis, and visualization functionalities.
+- **SAP Analytics Cloud**: Offers [data integration](../d/data_integration.md), analysis, and visualization functionalities.
 
 ### Case Studies
-Examining case studies from real-world companies can provide practical insights into the application of Horizontal Analysis. Companies such as Apple Inc. and Microsoft Corp. frequently employ trend analysis to gauge performance and inform strategic decisions.
+Examining case studies from real-world companies can provide practical insights into the application of Horizontal Analysis. Companies such as Apple Inc. and Microsoft Corp. frequently employ [trend analysis](../t/trend_analysis.md) to gauge performance and inform strategic decisions.
 
 #### Example: Apple Inc.
 Apple Inc. employs Horizontal Analysis to track and compare revenue and expense trends over specified periods. By analyzing the percentage changes in revenue from product segments (iPhone, Mac, iPad) and services, Apple can identify growth drivers and areas requiring strategic intervention.
@@ -82,4 +82,4 @@ Microsoft Corp. utilizes Horizontal Analysis to monitor changes in revenue and p
 [Microsoft Investor Relations](https://www.microsoft.com/en-us/Investor)
 
 ### Conclusion
-Horizontal Analysis is a powerful tool for financial statement analysis, offering valuable insights into an organization's performance over time. By tracking trends and percentage changes in financial statement items, businesses can make informed decisions, forecast future performance, and assess the impact of strategies and market conditions. Despite its limitations, Horizontal Analysis remains an essential component of comprehensive financial analysis and offers significant benefits for businesses and analysts alike.
+Horizontal Analysis is a powerful tool for [financial statement analysis](../f/financial_statement_analysis.md), offering valuable insights into an organization's performance over time. By tracking trends and percentage changes in financial statement items, businesses can make informed decisions, forecast future performance, and assess the impact of strategies and market conditions. Despite its limitations, Horizontal Analysis remains an essential component of comprehensive financial analysis and offers significant benefits for businesses and analysts alike.

@@ -1,10 +1,10 @@
 # Normal Inverse Gaussian Distribution
 
-The Normal Inverse Gaussian (NIG) distribution is a continuous probability distribution that has been widely utilized in the field of financial modeling and algorithmic trading. This distribution belongs to the subclass of the generalized hyperbolic distributions and is particularly noteworthy for its ability to capture skewness and kurtosis in data, which are vital characteristics in financial time series.
+The Normal Inverse Gaussian (NIG) distribution is a continuous probability distribution that has been widely utilized in the field of [financial modeling](../f/financial_modeling.md) and [algorithmic trading](../a/algorithmic_trading.md). This distribution belongs to the subclass of the generalized hyperbolic distributions and is particularly noteworthy for its ability to capture [skewness and kurtosis](../s/skewness_and_kurtosis.md) in data, which are vital characteristics in [financial time series](../f/financial_time_series.md).
 
 ## Mathematical Definition
 
-A random variable \(X\) is said to follow a Normal Inverse Gaussian distribution if its probability density function (PDF) can be expressed as:
+A random variable \(X\) is said to follow a Normal Inverse [Gaussian distribution](../g/gaussian_distribution.md) if its [probability density function](../p/probability_density_function.md) (PDF) can be expressed as:
 
 \[ f(x; \alpha, \beta, \delta, \mu) = \frac{\alpha \delta K_1(\alpha \sqrt{\delta^2 + (x - \mu)^2})}{\pi \sqrt{\delta^2 + (x - \mu)^2}} \exp(\delta \sqrt{\alpha^2 - \beta^2} + \beta (x - \mu)), \]
 
@@ -35,7 +35,7 @@ The characteristic function of a NIG-distributed random variable is given by:
 ### Relationship with Other Distributions
 
 - **Normal Distribution**: The NIG distribution becomes a normal distribution in the special case where \(\delta \to \infty\) and \(\alpha = \gamma^2\).
-- **Inverse Gaussian Distribution**: When \(\beta = 0\), the distribution simplifies to an Inverse Gaussian distribution.
+- **Inverse [Gaussian Distribution](../g/gaussian_distribution.md)**: When \(\beta = 0\), the distribution simplifies to an Inverse [Gaussian distribution](../g/gaussian_distribution.md).
 - **Generalized Hyperbolic Distribution**: The NIG distribution is a special case of the generalized hyperbolic distribution.
 
 ## Applications in Finance
@@ -56,7 +56,7 @@ The NIG-based models help in deriving closed-form solutions for European option 
 
 ### Algorithmic Trading
 
-Algorithmic trading strategies often require sophisticated models to predict short-term price movements. The NIG distribution is employed to model the underlying asset prices more accurately, offering a competitive edge in high-frequency trading.
+[Algorithmic trading](../a/algorithmic_trading.md) strategies often require sophisticated models to predict short-term price movements. The NIG distribution is employed to model the underlying asset prices more accurately, offering a competitive edge in high-frequency trading.
 
 ## Parameter Estimation
 
@@ -117,22 +117,22 @@ plt.show()
 
 ### Investment Banks
 
-Investment banks, such as Goldman Sachs and Morgan Stanley, often utilize sophisticated statistical models incorporating NIG distributions to better manage risk and trade derivatives.
+Investment banks, such as Goldman Sachs and Morgan Stanley, often utilize sophisticated statistical models incorporating NIG distributions to better manage risk and trade [derivatives](../d/derivatives.md).
 
 ### Hedge Funds
 
-Hedge funds leverage NIG models for portfolio optimization and risk management to enhance returns while minimizing risk.
+Hedge funds leverage NIG models for [portfolio optimization](../p/portfolio_optimization.md) and [risk management](../r/risk_management.md) to enhance returns while minimizing risk.
 
 ### Academic Research
 
-Numerous academic papers and research articles have been published that utilize the NIG distribution for modeling financial time series and other economic phenomena.
+Numerous academic papers and research articles have been published that utilize the NIG distribution for modeling [financial time series](../f/financial_time_series.md) and other economic phenomena.
 
 ## References
 
 1. Barndorff-Nielsen, O. E. (1995). "Normal Inverse Gaussian Distributions and Stochastic Volatility Modelling." Scandinavian Journal of statistics, 22(1), 1-13.
-2. Prause, K. (1999). "The generalized hyperbolic model: Estimation, financial derivatives, and risk measures," PhD Thesis, University of Freiburg.
-3. Rydberg, T. H. (1999). “Generalized Hyperbolic Diffusion Processes with Applications in Finance," Mathematical Finance, 9(2), 183-201.
-4. McNeil, A. J., Frey, R., & Embrechts, P. (2005). "Quantitative Risk Management: Concepts, Techniques, and Tools." Princeton University Press.
+2. Prause, K. (1999). "The generalized hyperbolic model: Estimation, financial [derivatives](../d/derivatives.md), and risk measures," PhD Thesis, University of Freiburg.
+3. Rydberg, T. H. (1999). “Generalized Hyperbolic Diffusion Processes with Applications in Finance," [Mathematical Finance](../m/mathematical_finance.md), 9(2), 183-201.
+4. McNeil, A. J., Frey, R., & Embrechts, P. (2005). "[Quantitative Risk Management](../q/quantitative_risk_management.md): Concepts, Techniques, and Tools." Princeton University Press.
 
 ---
 

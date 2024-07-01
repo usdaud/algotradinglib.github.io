@@ -14,7 +14,7 @@ A short strangle is a sophisticated options trading strategy employed in the fin
     - **Sell OTM Put Option**: Writing a put option that is out-of-the-money.
     - Both options should have the same expiration date.
 
-3. **Premium Income**: The total premium received from selling both the OTM call and OTM put options. This premium represents the maximum profit potential for the short strangle strategy.
+3. **Premium Income**: The total premium received from selling both the OTM call and OTM [put options](../p/put_options.md). This premium represents the maximum profit potential for the short strangle strategy.
 
 4. **Break-Even Points**: The two price points at which the trader neither makes nor loses money. These are calculated as follows:
     - Upper Break-Even Point: The strike price of the call option plus the total premium received.
@@ -24,7 +24,7 @@ A short strangle is a sophisticated options trading strategy employed in the fin
     - Maximum Profit: Limited to the total premium received when initiating the trade.
     - Maximum Loss: Potentially unlimited if the underlying asset's price moves significantly either upwards or downwards beyond the strike prices of the sold options.
 
-6. **Risk Management**: Since a short strangle involves selling options, it exposes the trader to substantial risk. Proper risk management is crucial, and this typically includes setting stop-loss orders, position sizing, and regular monitoring of the market conditions.
+6. **[Risk Management](../r/risk_management.md)**: Since a short strangle involves selling options, it exposes the trader to substantial risk. Proper [risk management](../r/risk_management.md) is crucial, and this typically includes setting [stop-loss orders](../s/stop-loss_orders.md), [position sizing](../p/position_sizing.md), and regular monitoring of the market conditions.
 
 ### Advantages of Short Strangle
 
@@ -40,13 +40,13 @@ A short strangle is a sophisticated options trading strategy employed in the fin
 
 ### Implementation in Algorithmic Trading
 
-Algorithmic trading involves using automated systems to execute trades based on predefined criteria and quantitative models. Implementing a short strangle strategy in algorithmic trading requires careful planning and robust algorithms.
+[Algorithmic trading](../a/algorithmic_trading.md) involves using automated systems to execute trades based on predefined criteria and [quantitative models](../q/quantitative_models.md). Implementing a short strangle strategy in [algorithmic trading](../a/algorithmic_trading.md) requires careful planning and robust algorithms.
 
-1. **Market Scanners and Screeners**: Algorithms can scan the market for suitable candidates for a short strangle based on criteria such as implied volatility, trading volume, and price range.
+1. **[Market Scanners](../m/market_scanners.md) and Screeners**: Algorithms can scan the market for suitable candidates for a short strangle based on criteria such as implied volatility, trading volume, and price range.
 
-2. **Entry Conditions**: Define the conditions under which the algorithm will initiate a short strangle. This includes selecting the strike prices for the call and put options, ensuring they are sufficiently out-of-the-money, and analyzing the implied volatility to determine if it is favorable for selling options.
+2. **Entry Conditions**: Define the conditions under which the algorithm will initiate a short strangle. This includes selecting the strike prices for the call and [put options](../p/put_options.md), ensuring they are sufficiently out-of-the-money, and analyzing the implied volatility to determine if it is favorable for selling options.
 
-3. **Risk Management Parameters**: Develop risk management protocols within the algorithm, including setting stop-loss orders, position sizing rules, and triggers for adjusting or closing positions if the market moves unfavorably.
+3. **[Risk Management](../r/risk_management.md) Parameters**: Develop [risk management](../r/risk_management.md) protocols within the algorithm, including setting [stop-loss orders](../s/stop-loss_orders.md), [position sizing](../p/position_sizing.md) rules, and triggers for adjusting or closing positions if the market moves unfavorably.
 
 4. **Execution Mechanisms**: Use sophisticated order types and execution strategies to ensure that the options are sold at favorable prices, minimizing slippage and maximizing premium received.
 
@@ -54,7 +54,7 @@ Algorithmic trading involves using automated systems to execute trades based on 
 
 ### Example of Algorithmic Implementation
 
-Let's consider an example of how a short strangle could be implemented in algorithmic trading using Python and a hypothetical trading platform's API.
+Let's consider an example of how a short strangle could be implemented in [algorithmic trading](../a/algorithmic_trading.md) using Python and a hypothetical trading platform's API.
 
 ```python
 import numpy as np
@@ -75,7 +75,7 @@ def select_assets():
 def create_short_strangle(asset):
     # Get current price of the asset
     current_price = api.get_current_price(asset)
-    # Define OTM strike prices for call and put options
+    # Define OTM strike prices for call and [put options](../p/put_options.md)
     call_strike = current_price * (1 + 0.10)  # 10% above current price
     put_strike = current_price * (1 - 0.10)  # 10% below current price
     # Define expiration date one month from today
@@ -118,9 +118,9 @@ if __name__ == "__main__":
 ### Examples of High-Frequency Trading Firms Using Advanced Options Strategies
 
 - **Citadel Securities**: One of the prominent high-frequency trading firms with expertise in options trading and other complex financial instruments. [Citadel Securities](https://www.citadelsecurities.com/)
-- **Jane Street**: Known for its quantitative and algorithmic trading strategies, including options trading. [Jane Street](https://www.janestreet.com/)
-- **Virtu Financial**: A leading player in the high-frequency trading space, Virtu Financial utilizes sophisticated algorithms for various trading strategies, including options. [Virtu Financial](https://www.virtu.com/)
+- **Jane Street**: Known for its quantitative and [algorithmic trading](../a/algorithmic_trading.md) strategies, including options trading. [Jane Street](https://www.janestreet.com/)
+- **Virtu Financial**: A leading player in the high-frequency trading space, Virtu Financial utilizes sophisticated algorithms for various [trading strategies](../t/trading_strategies.md), including options. [Virtu Financial](https://www.virtu.com/)
 
 ### Conclusion
 
-The short strangle is an options trading strategy well-suited for algorithmic trading, especially in neutral market conditions where significant price movements are not expected. While it offers the potential for premium income, it also carries substantial risks. Therefore, successful implementation requires advanced algorithms, robust risk management, and continuous monitoring. Firms specializing in high-frequency and algorithmic trading, such as Citadel Securities, Jane Street, and Virtu Financial, often use sophisticated models to efficiently implement and manage such strategies.
+The short strangle is an options trading strategy well-suited for [algorithmic trading](../a/algorithmic_trading.md), especially in neutral market conditions where significant price movements are not expected. While it offers the potential for premium income, it also carries substantial risks. Therefore, successful implementation requires advanced algorithms, robust [risk management](../r/risk_management.md), and continuous monitoring. Firms specializing in high-frequency and [algorithmic trading](../a/algorithmic_trading.md), such as Citadel Securities, Jane Street, and Virtu Financial, often use sophisticated models to efficiently implement and manage such strategies.

@@ -1,6 +1,6 @@
 # Physical Commodities Trading
 
-Physical commodities trading refers to the buying and selling of tangible raw or primary products that are physically exchanged and delivered between producers, traders, and end-users. This type of trade involves a variety of commodities such as metals, energy products, agricultural goods, and industrial raw materials. Physical commodities trading is a complex and multifaceted aspect of global markets and can have significant implications for economies worldwide.
+Physical [commodities trading](../c/commodities_trading.md) refers to the buying and selling of tangible raw or primary products that are physically exchanged and delivered between producers, traders, and end-users. This type of trade involves a variety of commodities such as metals, energy products, agricultural goods, and industrial raw materials. Physical [commodities trading](../c/commodities_trading.md) is a complex and multifaceted aspect of global markets and can have significant implications for economies worldwide.
 
 ## Overview of Physical Commodities
 
@@ -36,7 +36,7 @@ Commodities traders and brokers act as intermediaries, facilitating transactions
 
 - **Glencore**: One of the world’s largest global diversified natural resource companies. [Website](https://www.glencore.com/)
 - **Trafigura**: Major trading house engaged in the sourcing and trading of commodities. [Website](https://www.trafigura.com/)
-- **Vitol**: A leader in energy commodities trading. [Website](https://www.vitol.com/)
+- **Vitol**: A leader in energy [commodities trading](../c/commodities_trading.md). [Website](https://www.vitol.com/)
 
 ### Consumers
 
@@ -44,7 +44,7 @@ End-users of physical commodities span various industries, including manufacturi
 
 ### Financial Institutions
 
-Banks and investment firms provide the capital and financial services needed to facilitate commodities trading, such as lending and risk management solutions.
+Banks and investment firms provide the capital and financial services needed to facilitate [commodities trading](../c/commodities_trading.md), such as lending and [risk management](../r/risk_management.md) solutions.
 
 ## Physical vs. Financial Commodities Trading
 
@@ -53,11 +53,11 @@ Banks and investment firms provide the capital and financial services needed to 
 - **Direct Ownership:** Traders actually buy and sell the tangible commodity.
 - **Logistics and Storage:** Involves shipping, storage, and handling of the physical goods.
 - **Regulations:** Subject to strict regulatory standards and trade laws.
-- **Price Determinants:** Influenced by supply and demand dynamics, geopolitical events, and weather conditions.
+- **Price Determinants:** Influenced by supply and demand dynamics, [geopolitical events](../g/geopolitical_events.md), and weather conditions.
 
 ### Financial Commodities Trading
 
-- **Derivatives:** Involves trading of financial instruments such as futures, options, and swaps that derive their value from the underlying physical commodity.
+- **[Derivatives](../d/derivatives.md):** Involves trading of financial instruments such as futures, options, and swaps that derive their value from the underlying physical commodity.
 - **No Physical Delivery:** Most financial trades do not result in the delivery of the actual commodity.
 - **Leverage:** Traders can use leverage to amplify their positions, often leading to higher risk.
 - **Speculation:** Considerably driven by speculation on price movements rather than the actual supply of the commodity.
@@ -73,7 +73,7 @@ Banks and investment firms provide the capital and financial services needed to 
 ### Trade Execution
 
 - **Spot Trading:** Immediate purchase and sale with quick delivery.
-- **Forward Contracts:** Agreements to buy or sell a commodity at a future date at a price defined today.
+- **[Forward Contracts](../f/forward_contracts.md):** Agreements to buy or sell a commodity at a future date at a price defined today.
 - **Physical Commodity Exchanges:** Platforms where physical commodities are traded, such as the London Metal Exchange (LME) and Chicago Board of Trade (CBOT).
 
 ### Risk Management
@@ -89,7 +89,7 @@ Economic growth, geopolitical stability, and currency fluctuations significantly
 
 ### Technological Advancements
 
-Technological innovations in extraction, transportation, and trading systems are transforming how physical commodities are traded. Blockchain technology, for example, is being adopted for secure and transparent transaction processing.
+Technological innovations in extraction, transportation, and [trading systems](../t/trading_systems.md) are transforming how physical commodities are traded. Blockchain technology, for example, is being adopted for secure and transparent transaction processing.
 
 ### Environmental and Sustainability Considerations
 
@@ -97,10 +97,10 @@ The impact of commodities production and trading on the environment is a growing
 
 ### Regulatory Changes
 
-Regulatory bodies such as the Commodity Futures Trading Commission (CFTC) in the United States oversee the commodities markets to prevent fraud and ensure market integrity. Changes in regulations can have widespread implications for how commodities are traded.
+Regulatory bodies such as the [Commodity Futures](../c/commodity_futures.md) Trading Commission (CFTC) in the United States oversee the commodities markets to prevent fraud and ensure market integrity. Changes in regulations can have widespread implications for how commodities are traded.
 
 ## Conclusion
 
-Physical commodities trading is a critical component of the global economy, enabling the flow of raw materials essential for production and consumption. Understanding the intricate workings of this market, including the roles of various participants, trading processes, and global impacts, is crucial for those involved in commodities trading. 
+Physical [commodities trading](../c/commodities_trading.md) is a critical component of the global economy, enabling the flow of raw materials essential for production and consumption. Understanding the intricate workings of this market, including the roles of various participants, trading processes, and global impacts, is crucial for those involved in [commodities trading](../c/commodities_trading.md). 
 
-With ongoing advancements in technology and significant attention on sustainability, the landscape of physical commodities trading continues to evolve, presenting both challenges and opportunities for market participants.
+With ongoing advancements in technology and significant attention on sustainability, the landscape of physical [commodities trading](../c/commodities_trading.md) continues to evolve, presenting both challenges and opportunities for market participants.

@@ -41,11 +41,11 @@ In trading, the Kalman Filter can be used for several purposes, including noise 
 
 2. **Price Prediction**: The Kalman Filter can be used to predict future prices by modeling the price movement as a stochastic process. Traders use these predictions to inform their buy/sell decisions.
 
-3. **Parameter Estimation**: The filter can estimate hidden parameters that are essential for other trading strategies.
+3. **Parameter Estimation**: The filter can estimate hidden parameters that are essential for other [trading strategies](../t/trading_strategies.md).
 
 ##### Example: Price Series Filtering
 
-One simple application of the Kalman Filter in trading is to smooth a price series. Typically, a price series is very jagged and difficult to interpret due to noise. Using a Kalman Filter, you can derive a smoother representation of the price series, which makes it easier to analyze trends and formulate trading strategies.
+One simple application of the Kalman Filter in trading is to smooth a price series. Typically, a price series is very jagged and difficult to interpret due to noise. Using a Kalman Filter, you can derive a smoother representation of the price series, which makes it easier to analyze trends and formulate [trading strategies](../t/trading_strategies.md).
 
 Here is a Python snippet illustrating basic price series filtering using the Kalman Filter:
 
@@ -90,11 +90,11 @@ print(filtered_prices)
 
 #### Integration with Trading Platforms
 
-Platforms such as QuantConnect (https://www.quantconnect.com) and MetaTrader 5 (https://www.metaquotes.net/en/metatrader5) can integrate Kalman Filter-based strategies for algorithmic trading. These platforms offer extensive libraries and APIs for backtesting and deploying trading algorithms that implement Kalman Filters.
+Platforms such as QuantConnect (https://www.quantconnect.com) and MetaTrader 5 (https://www.metaquotes.net/en/metatrader5) can integrate Kalman Filter-based strategies for [algorithmic trading](../a/algorithmic_trading.md). These platforms offer extensive libraries and APIs for [backtesting](../b/backtesting.md) and deploying [trading algorithms](../t/trading_algorithms.md) that implement Kalman Filters.
 
 ##### QuantConnect Integration
 
-QuantConnect provides tools that allow traders to backtest and implement algorithmic trading strategies using high-resolution financial data. Incorporating the Kalman Filter into such strategies involves coding and integrating it within the QuantConnect framework, which supports languages like Python and C#.
+QuantConnect provides tools that allow traders to backtest and implement [algorithmic trading](../a/algorithmic_trading.md) strategies using high-resolution financial data. Incorporating the Kalman Filter into such strategies involves coding and integrating it within the QuantConnect framework, which supports languages like Python and C#.
 
 Example (Pseudo-Code):
 ```python
@@ -146,8 +146,8 @@ class KalmanFilterAlgorithm(QCAlgorithm):
             return self.x_hat
 ```
 
-Algorithm developers can embed such logic into their trading algorithms, allowing the Kalman Filter to predict prices and inform trading decisions accordingly.
+Algorithm developers can embed such logic into their [trading algorithms](../t/trading_algorithms.md), allowing the Kalman Filter to predict prices and inform trading decisions accordingly.
 
 #### Conclusion
 
-The Kalman Filter is a powerful tool in the trader's arsenal, providing a robust mechanism for filtering noise and making predictions based on financial time series data. While its implementation requires a solid understanding of its mathematical foundations, its benefits in enhancing trading strategies can be substantial. Platforms like QuantConnect and MetaTrader 5 offer the necessary infrastructure to integrate Kalman Filter-based strategies into live trading systems. Whether for reducing noise, predicting prices, or estimating crucial parameters, the Kalman Filter stands as a versatile and valuable algorithm in modern algorithmic trading.
+The Kalman Filter is a powerful tool in the trader's arsenal, providing a robust mechanism for filtering noise and making predictions based on [financial time series](../f/financial_time_series.md) data. While its implementation requires a solid understanding of its mathematical foundations, its benefits in enhancing [trading strategies](../t/trading_strategies.md) can be substantial. Platforms like QuantConnect and MetaTrader 5 offer the necessary infrastructure to integrate Kalman Filter-based strategies into live [trading systems](../t/trading_systems.md). Whether for reducing noise, predicting prices, or estimating crucial parameters, the Kalman Filter stands as a versatile and valuable algorithm in modern [algorithmic trading](../a/algorithmic_trading.md).

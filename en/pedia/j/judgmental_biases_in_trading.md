@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Judgmental biases are cognitive biases that affect the rationality and decision-making processes of traders. These biases often lead to systematic deviations from logical judgment, significantly impacting the efficiency of financial markets and the profitability of trading strategies. Understanding these biases is essential for both individual traders and institutions aiming to mitigate their effects and improve trading performance.
+Judgmental biases are cognitive biases that affect the rationality and decision-making processes of traders. These biases often lead to systematic deviations from logical judgment, significantly impacting the efficiency of financial markets and the profitability of [trading strategies](../t/trading_strategies.md). Understanding these biases is essential for both individual traders and institutions aiming to mitigate their effects and improve [trading performance](../t/trading_performance.md).
 
 ## Types of Judgmental Biases
 
@@ -13,7 +13,7 @@ Overconfidence bias occurs when traders overestimate their knowledge, abilities,
 #### Implications:
 
 - Increased frequency of trades leading to higher transaction costs.
-- Ignoring risk management principles, leading to substantial losses.
+- Ignoring [risk management](../r/risk_management.md) principles, leading to substantial losses.
 - Failure to diversify portfolios adequately.
 
 ### 2. Anchoring Bias
@@ -27,7 +27,7 @@ Anchoring bias happens when traders rely heavily on an initial piece of informat
 
 ### 3. Confirmation Bias
 
-Confirmation bias is the tendency to seek out information that confirms one's preexisting beliefs while discounting information that contradicts them. In trading, this can result in holding on to losing positions for too long or entering trades based on incomplete analysis.
+[Confirmation bias](../c/confirmation_bias.md) is the tendency to seek out information that confirms one's preexisting beliefs while discounting information that contradicts them. In trading, this can result in holding on to losing positions for too long or entering trades based on incomplete analysis.
 
 #### Implications:
 
@@ -36,7 +36,7 @@ Confirmation bias is the tendency to seek out information that confirms one's pr
 
 ### 4. Loss Aversion
 
-Loss aversion refers to the tendency for traders to prefer avoiding losses rather than acquiring equivalent gains. This bias can lead to irrational behavior, such as holding losing positions for too long or selling winning positions prematurely.
+[Loss aversion](../l/loss_aversion.md) refers to the tendency for traders to prefer avoiding losses rather than acquiring equivalent gains. This bias can lead to irrational behavior, such as holding losing positions for too long or selling winning positions prematurely.
 
 #### Implications:
 
@@ -67,18 +67,18 @@ Representativeness bias involves assessing the probability of an event based on 
 
 #### Implications:
 
-- Misjudging the likelihood of rare events, which can lead to inappropriate risk management.
-- Relying on patterns that may not have any predictive power, resulting in suboptimal trading strategies.
+- Misjudging the likelihood of rare events, which can lead to inappropriate [risk management](../r/risk_management.md).
+- Relying on patterns that may not have any predictive power, resulting in suboptimal [trading strategies](../t/trading_strategies.md).
 
 ## Mitigating Judgmental Biases
 
 ### Education and Awareness
 
-Increasing traders' awareness of common biases and their effects can help in mitigating their impact. Regular training sessions and seminars on behavioral finance are beneficial.
+Increasing traders' awareness of common biases and their effects can help in mitigating their impact. Regular training sessions and seminars on [behavioral finance](../b/behavioral_finance.md) are beneficial.
 
 ### Implementing Algorithmic Trading
 
-Algorithmic trading can reduce the impact of human biases by using predetermined criteria and systematic strategies. Companies like **QuantConnect** [QuantConnect](https://www.quantconnect.com/) offer platforms for developing and backtesting algorithmic trading strategies.
+[Algorithmic trading](../a/algorithmic_trading.md) can reduce the impact of human biases by using predetermined criteria and systematic strategies. Companies like **QuantConnect** [QuantConnect](https://www.quantconnect.com/) offer platforms for developing and [backtesting](../b/backtesting.md) [algorithmic trading](../a/algorithmic_trading.md) strategies.
 
 ### Diversification of Perspectives
 
@@ -86,11 +86,11 @@ Encouraging collaborative decision-making and seeking diverse perspectives can h
 
 ### Use of Technology and Analytics
 
-Utilizing advanced analytics and decision-support systems can provide objective insights that counteract biased judgments. Companies like **Kensho Technologies** [Kensho](https://www.kensho.com/) offer AI-driven analytics to enhance trading strategies.
+Utilizing advanced analytics and decision-support systems can provide objective insights that counteract biased judgments. Companies like **Kensho Technologies** [Kensho](https://www.kensho.com/) offer AI-driven analytics to enhance [trading strategies](../t/trading_strategies.md).
 
 ### Regular Performance Reviews
 
-Conducting regular reviews of trading performance to identify patterns of biased decision-making can help in developing corrective measures and improving future performance.
+Conducting regular reviews of [trading performance](../t/trading_performance.md) to identify patterns of biased decision-making can help in developing corrective measures and improving future performance.
 
 ## Conclusion
 

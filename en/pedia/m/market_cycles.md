@@ -1,6 +1,6 @@
 # Market Cycles in Algorithmic Trading
 
-Algorithmic trading, commonly known as algo-trading, leverages computer algorithms to execute trade orders at incredible speeds and with high efficiency. A key element to succeeding in algorithmic trading is understanding market cycles, as these cycles influence market behavior and, consequently, trading strategies. Market cycles are recurring patterns in the movement of financial markets, manifested through phases of economic expansion—and contraction—alongside corresponding shifts in investor sentiment.
+[Algorithmic trading](../a/algorithmic_trading.md), commonly known as algo-trading, leverages computer algorithms to execute trade orders at incredible speeds and with high efficiency. A key element to succeeding in [algorithmic trading](../a/algorithmic_trading.md) is understanding market cycles, as these cycles influence market behavior and, consequently, [trading strategies](../t/trading_strategies.md). Market cycles are recurring patterns in the movement of financial markets, manifested through phases of economic expansion—and contraction—alongside corresponding shifts in investor sentiment.
 
 ## The Basics of Market Cycles
 
@@ -12,7 +12,7 @@ A market cycle consists of four main phases: accumulation, uptrend (or markup), 
    - **Algo-Trading Role**: Algorithms may scan for undervalued stocks or signs of increased volume to signal the start of accumulation.
 
 2. **Uptrend/Markup Phase**:
-   - **Characteristics**: Prices begin to rise as more investors join the buying spree, often driven by improving economic indicators and increasing investor confidence.
+   - **Characteristics**: Prices begin to rise as more investors join the buying spree, often driven by improving [economic indicators](../e/economic_indicators.md) and increasing investor confidence.
    - **Investor Sentiment**: Optimism and increasing greed.
    - **Algo-Trading Role**: Algorithms may utilize trend-following strategies to capitalize on the rising market.
 
@@ -24,24 +24,24 @@ A market cycle consists of four main phases: accumulation, uptrend (or markup), 
 4. **Downtrend/Markdown Phase**:
    - **Characteristics**: The market starts to decline, driven by widespread selling as investors offload their positions in response to negative news and economic downturns.
    - **Investor Sentiment**: Fear and panic.
-   - **Algo-Trading Role**: Algorithms may engage in short-selling or utilize hedging strategies to protect against losses.
+   - **Algo-Trading Role**: Algorithms may engage in short-selling or utilize [hedging strategies](../h/hedging_strategies.md) to protect against losses.
 
 ## Identifying Market Cycles
 
 ### Technical Indicators
 
-Several technical indicators can help identify market cycles:
+Several [technical indicators](../t/technical_indicators.md) can help identify market cycles:
 
 - **Moving Averages**: Traders often use MA crossovers to detect shifts in market trends.
 - **Relative Strength Index (RSI)**: Helps identify overbought and oversold markets.
-- **Bollinger Bands**: Measures market volatility and possible trend reversals.
+- **[Bollinger Bands](../b/bollinger_bands.md)**: Measures market volatility and possible trend reversals.
 - **Volume**: Changes in trading volume can signal the start of new phases in the market cycle, especially during the accumulation and distribution phases.
 
 ### Fundamental Analysis
 
-While technical indicators are crucial, fundamental analysis provides context to these patterns by evaluating:
+While [technical indicators](../t/technical_indicators.md) are crucial, [fundamental analysis](../f/fundamental_analysis.md) provides context to these patterns by evaluating:
 
-- **Economic Indicators**: GDP growth rates, employment data, and consumer sentiment can impact market phases.
+- **[Economic Indicators](../e/economic_indicators.md)**: GDP growth rates, employment data, and consumer sentiment can impact market phases.
 - **Company Earnings**: Earnings reports and guidance can drive investor behavior and influence market cycles.
 - **Interest Rates**: Central bank policies can significantly affect market trends.
 
@@ -50,7 +50,7 @@ While technical indicators are crucial, fundamental analysis provides context to
 ### Acceleration Bands and Pivots
 
 - **Acceleration Bands**: These measure the speed of price movements, enabling algorithms to identify potential breakouts early in the accumulation phase.
-- **Pivot Points**: These are predictive indicators used to identify potential support and resistance levels, crucial during distribution phases.
+- **[Pivot Points](../p/pivot_points.md)**: These are [predictive indicators](../p/predictive_indicators.md) used to identify potential [support and resistance](../s/support_and_resistance.md) levels, crucial during distribution phases.
 
 ### Momentum Strategies
 
@@ -80,7 +80,7 @@ Advanced algorithms scan news articles, social media, and other textual data to 
 
 ### Risk Management
 
-Risk management algorithms are fine-tuned to adapt to different market phases, ensuring that they minimize downside risk while maximizing upside potential. Leveraging Value at Risk (VaR) models, stress testing, and diversification strategies helps maintain a balanced portfolio optimized for various phases of market cycles.
+[Risk management](../r/risk_management.md) algorithms are fine-tuned to adapt to different market phases, ensuring that they minimize downside risk while maximizing upside potential. Leveraging Value at Risk (VaR) models, stress testing, and [diversification strategies](../d/diversification_strategies.md) helps maintain a balanced portfolio optimized for various phases of market cycles.
 
 ## Real-World Applications and Services
 
@@ -88,11 +88,11 @@ Risk management algorithms are fine-tuned to adapt to different market phases, e
 
 Several companies specialize in providing tools and platforms optimized for algo-trading based on market cycles:
 
-- **QuantConnect**: A premium algorithmic trading platform that allows traders to backtest and deploy strategies using historical data. [QuantConnect](https://www.quantconnect.com).
+- **QuantConnect**: A premium [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to backtest and deploy strategies using historical data. [QuantConnect](https://www.quantconnect.com).
 - **Alpaca**: This commission-free trading platform features an API that's favored by algo-traders for its low latency and cutting-edge integration capabilities. [Alpaca](https://www.alpaca.markets).
-- **pQuantConnect**: A research-driven firm offering advanced algorithmic trading software solutions designed for hedge funds and trading strategists. [TradeStation](https://www.tradestation.com).
+- **pQuantConnect**: A research-driven firm offering advanced [algorithmic trading](../a/algorithmic_trading.md) software solutions designed for hedge funds and trading strategists. [TradeStation](https://www.tradestation.com).
   
 ## Conclusion
 
-Understanding market cycles is an essential skill for any trader, and it becomes even more critical when engaging in algorithmic trading. Algorithms can be specifically tailored to take advantage of each phase of the market cycle, leveraging both technical indicators and fundamental analysis. Furthermore, advances in machine learning and AI provide traders with powerful tools to predict and navigate these cycles more effectively. By incorporating these strategies into their trading systems, algo-traders can enhance their ability to generate alpha and manage risk in various market conditions.
+Understanding market cycles is an essential skill for any trader, and it becomes even more critical when engaging in [algorithmic trading](../a/algorithmic_trading.md). Algorithms can be specifically tailored to take advantage of each phase of the market cycle, leveraging both [technical indicators](../t/technical_indicators.md) and [fundamental analysis](../f/fundamental_analysis.md). Furthermore, advances in machine learning and AI provide traders with powerful tools to predict and navigate these cycles more effectively. By incorporating these strategies into their [trading systems](../t/trading_systems.md), algo-traders can enhance their ability to generate alpha and manage risk in various market conditions.
 

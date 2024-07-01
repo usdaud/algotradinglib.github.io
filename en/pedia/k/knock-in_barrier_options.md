@@ -1,6 +1,6 @@
 # Knock-In Barrier Options
 
-Knock-In Barrier Options are a type of exotic option in the derivatives market, primarily used in financial trading and risk management. They are a subset of barrier options, which are financial derivatives with payouts linked to the price movements of the underlying asset. This detailed exploration will cover the fundamental characteristics, types, pricing mechanisms, and practical applications of Knock-In Barrier Options, providing insights into their strategic importance in financial markets.
+Knock-In Barrier Options are a type of exotic option in the [derivatives](../d/derivatives.md) market, primarily used in financial trading and [risk management](../r/risk_management.md). They are a subset of barrier options, which are financial [derivatives](../d/derivatives.md) with payouts linked to the price movements of the underlying asset. This detailed exploration will cover the fundamental characteristics, types, pricing mechanisms, and practical applications of Knock-In Barrier Options, providing insights into their strategic importance in financial markets.
 
 ## Characteristics of Knock-In Barrier Options
 
@@ -24,13 +24,13 @@ There are two main types of Knock-In Barrier Options, categorized based on their
 The pricing of Knock-In Barrier Options is more complex than standard options due to the conditional trigger of the barrier level. Multiple factors contribute to their valuation:
 
 ### Black-Scholes Model
-While the Black-Scholes model provides a foundation for option pricing, it requires modifications to factor in the barrier feature:
+While the [Black-Scholes model](../b/black-scholes_model.md) provides a foundation for option pricing, it requires modifications to factor in the barrier feature:
 - **Adjusted Black-Scholes Formula:** Integrates barrier conditions into the traditional model.
 - Complex mathematics, including integral and differential equations, account for the probability of crossing the barrier.
 
 ### Monte Carlo Simulation
 This widely-used statistical method simulates numerous potential paths for the underlying asset's price, estimating the probability of hitting the barrier before expiration:
-- Generates random price paths consistent with historical volatility and other market parameters.
+- Generates random price paths consistent with [historical volatility](../h/historical_volatility.md) and other market parameters.
 - Aggregates outcomes to derive an option's expected payoff, discounted to present value.
 
 ### Binomial Model

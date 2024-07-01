@@ -25,25 +25,25 @@ where \( Y \) is the dependent variable, \( X_1, X_2, \ldots, X_k \) are the ind
 
 ### Applications in Algorithmic Trading
 
-Algorithmic trading, or "algotrading," often involves the use of complex statistical and mathematical models to make trading decisions. Partial regression can be an instrumental technique in this domain for several reasons:
+[Algorithmic trading](../a/algorithmic_trading.md), or "algotrading," often involves the use of complex statistical and mathematical models to make trading decisions. Partial regression can be an instrumental technique in this domain for several reasons:
 
 1. **Feature Selection and Importance**:
-    When developing trading algorithms, it's crucial to determine which features (independent variables, such as economic indicators, market sentiment scores, etc.) are significant for predicting price movements or other trading signals. Partial regression helps in isolating the effect of each feature while controlling for others, thus aiding in feature selection and assessing feature importance.
+    When developing [trading algorithms](../t/trading_algorithms.md), it's crucial to determine which features (independent variables, such as [economic indicators](../e/economic_indicators.md), market sentiment scores, etc.) are significant for predicting price movements or other [trading signals](../t/trading_signals.md). Partial regression helps in isolating the effect of each feature while controlling for others, thus aiding in feature selection and assessing feature importance.
 
-2. **Risk Management**:
-    Understanding the partial relationships between various market indicators and asset prices can be vital for risk management. For example, isolating the effect of interest rates on a bond's price while accounting for other factors such as inflation rates and economic growth can help in better risk assessment and mitigation.
+2. **[Risk Management](../r/risk_management.md)**:
+    Understanding the partial relationships between various market indicators and asset prices can be vital for [risk management](../r/risk_management.md). For example, isolating the effect of interest rates on a bond's price while accounting for other factors such as inflation rates and economic growth can help in better risk assessment and mitigation.
 
 3. **Model Enhancement**:
-    In algorithmic trading models, particularly those based on machine learning, partial regression can be used to refine models by identifying and adjusting for multicollinearity among predictors. This leads to more robust and reliable trading strategies.
+    In [algorithmic trading](../a/algorithmic_trading.md) models, particularly those based on machine learning, partial regression can be used to refine models by identifying and adjusting for multicollinearity among predictors. This leads to more robust and reliable [trading strategies](../t/trading_strategies.md).
 
 ### Practical Implementation
 
-Let's consider a hypothetical scenario in algorithmic trading where an analyst wants to study the effect of a specific economic indicator (let’s say inflation rate) on the stock price of a particular company, while accounting for other variables such as interest rates, GDP growth rate, and unemployment rate.
+Let's consider a hypothetical scenario in [algorithmic trading](../a/algorithmic_trading.md) where an analyst wants to study the effect of a specific economic indicator (let’s say inflation rate) on the stock price of a particular company, while accounting for other variables such as interest rates, GDP growth rate, and unemployment rate.
 
 #### Step-by-Step Process
 
 1. **Data Collection**:
-    Collect historical data on the stock price (dependent variable) and the economic indicators (independent variables).
+    Collect historical data on the stock price (dependent variable) and the [economic indicators](../e/economic_indicators.md) (independent variables).
 
 2. **Initial Regression**:
     Regress the stock price on all independent variables except the inflation rate:
@@ -101,12 +101,12 @@ In this example, we first regress the stock price on all predictors except the i
 
 ### Companies using Partial Regression in Trading
 
-Several companies in the financial sector utilize advanced statistical techniques, including partial regression, for trading and risk management. Some notable examples include:
+Several companies in the financial sector utilize advanced statistical techniques, including partial regression, for trading and [risk management](../r/risk_management.md). Some notable examples include:
 
-1. **Two Sigma**: A quantitative hedge fund that extensively uses statistical and machine learning methods in its trading strategies. [Two Sigma](https://www.twosigma.com/)
+1. **Two Sigma**: A quantitative hedge fund that extensively uses statistical and machine learning methods in its [trading strategies](../t/trading_strategies.md). [Two Sigma](https://www.twosigma.com/)
 
 2. **Renaissance Technologies**: Known for its quantitative methods in trading, this firm employs various statistical models to drive its investment strategies. [Renaissance Technologies](https://www.rentec.com/)
 
-3. **AQR Capital Management**: This firm applies quantitative analysis, including regression techniques, to manage its investment portfolios. [AQR Capital Management](https://www.aqr.com/)
+3. **AQR Capital Management**: This firm applies [quantitative analysis](../q/quantitative_analysis.md), including [regression techniques](../r/regression_techniques.md), to manage its investment portfolios. [AQR Capital Management](https://www.aqr.com/)
 
-In summary, partial regression is a valuable tool in the arsenal of quantitative analysts and traders for isolating the effect of individual predictors, thereby enhancing trading strategies and risk management practices.
+In summary, partial regression is a valuable tool in the arsenal of quantitative analysts and traders for isolating the effect of individual predictors, thereby enhancing [trading strategies](../t/trading_strategies.md) and [risk management](../r/risk_management.md) practices.
