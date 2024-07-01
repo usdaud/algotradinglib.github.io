@@ -1,4 +1,4 @@
-Algorithmic Futures Trading
+# Algorithmic Futures Trading
 
 Algorithmic futures trading is a form of trading that involves the use of complex algorithms to trade [futures contracts](../f/futures_contracts.md). This sophisticated method leverages technology to analyze market data and execute trades at high speeds, often far surpassing human capabilities. It is widely used by hedge funds, [proprietary trading](../p/proprietary_trading.md) firms, and institutional investors to gain a competitive edge in the markets. 
 

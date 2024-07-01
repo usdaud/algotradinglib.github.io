@@ -1,4 +1,4 @@
-Algorithmic Cryptocurrency Trading
+# Algorithmic Cryptocurrency Trading
 
 Algorithmic cryptocurrency trading refers to the use of advanced mathematical models and software applications to facilitate the process of trading digital currencies, such as Bitcoin, Ethereum, and other altcoins. The primary objective is to execute trades with greater speed and frequency than would be possible for a human trader, thereby taking advantage of tiny market inefficiencies to generate profit. [Algorithmic trading](../a/algorithmic_trading.md) in the context of cryptocurrencies adopts various strategies and employs sophisticated algorithms to optimize [trading performance](../t/trading_performance.md).
 

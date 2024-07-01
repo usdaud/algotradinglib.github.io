@@ -1,3 +1,5 @@
+# Algorithmic trading Wuth Genetic Algorithms
+
 [Algorithmic trading](../a/algorithmic_trading.md), commonly referred to as algo-trading, employs algorithms to execute [trading strategies](../t/trading_strategies.md) at high speed and volume. One sophisticated approach within this domain is the application of genetic algorithms (GAs). Genetic algorithms are optimization techniques inspired by the process of natural selection, which belong to the broader class of evolutionary algorithms. 
 
 **Genetic Algorithms**:

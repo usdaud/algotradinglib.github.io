@@ -1,3 +1,5 @@
+# Algorithmic Trading Software
+
 [Algorithmic trading](../a/algorithmic_trading.md), often abbreviated as algo trading, refers to the use of computer algorithms to automatically execute trading orders in financial markets. These algorithms are designed to follow a defined set of instructions for placing trades, with the goal of generating profits at a speed and frequency that is impossible for a human trader. [Algorithmic trading](../a/algorithmic_trading.md) software encompasses the tools, frameworks, and platforms used to create, test, and implement these [trading strategies](../t/trading_strategies.md). 
 
 ### The Core Components of Algorithmic Trading Software
