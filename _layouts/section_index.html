@@ -3,9 +3,16 @@ layout: base
 ---
 <h1>{{ page.title }}</h1>
 
-<ul>
+<div class="letter-grid">
   {% assign sorted_letters = page.letters | sort %}
   {% for letter in sorted_letters %}
-    <li><a href="{{ letter | append: '/' }}">{{ letter | upcase }}</a></li>
+    {% assign letter_posts = site.pages | where_exp: "item", "item.path contains page.lang" | where_exp: "item", "item.path contains page.section" | where_exp: "item", "item.path contains letter" %}
+    {% assign post_count = letter_posts | size %}
+    <div class="letter-item">
+      <a href="{{ letter | append: '/' }}">
+        <span class="letter">{{ letter | upcase }}</span>
+        <span class="count">{{ post_count }}</span>
+      </a>
+    </div>
   {% endfor %}
-</ul>
+</div>

@@ -21,10 +21,12 @@ module Jekyll
     end
 
     def process_section(site, lang, section, section_path)
-      letters = []
-      Dir.entries(section_path).select { |entry| File.directory?(File.join(section_path, entry)) && entry != '.' && entry != '..' }.each do |letter_dir|
-        letter = letter_dir.downcase
-        letters << letter
+      letters = Dir.entries(section_path)
+                   .select { |entry| File.directory?(File.join(section_path, entry)) && entry != '.' && entry != '..' }
+                   .map { |letter| [letter.downcase, count_posts(site, lang, section, letter)] }
+                   .to_h
+
+      letters.each do |letter, count|
         Jekyll.logger.info "LetterPageGenerator:", "Creating page for #{lang}/#{section}/#{letter}"
         site.pages << LetterPage.new(site, site.source, lang, section, letter)
         
@@ -58,6 +60,12 @@ module Jekyll
     def extract_title_from_content(content)
       match = content.match(/^#\s*(.+)$/)
       match ? match[1].strip : nil
+    end
+
+    def count_posts(site, lang, section, letter)
+      site.pages.count do |page|
+        page.path.start_with?("#{lang}/#{section}/#{letter}/") && page.path.end_with?('.md') && page.name != 'index.md'
+      end
     end
   end
 
