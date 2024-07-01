@@ -5,6 +5,12 @@ module Jekyll
     SECTIONS = ['pedia', 'soft', 'brokers']
 
     def generate(site)
+      Jekyll.logger.info "LetterPageGenerator:", "Total pages: #{site.pages.size}"
+
+      site.pages.each do |page|
+        Jekyll.logger.info "LetterPageGenerator:", "Page path: #{page.path}"
+      end
+
       languages = ['en', 'ru', 'zh']
       
       languages.each do |lang|
@@ -70,7 +76,7 @@ module Jekyll
         if page_path.size >= 4 && 
            page_path[0] == lang && 
            page_path[1] == section && 
-           page_path[2].downcase.start_with?(letter.downcase) && 
+           page_path[2] && page_path[2].downcase.start_with?(letter.downcase) && 
            page.path.end_with?('.md') && 
            page.name != 'index.md'
           count += 1
