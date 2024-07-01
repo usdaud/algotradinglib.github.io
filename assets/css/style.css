@@ -145,8 +145,8 @@ footer a:hover .github-icon {
 
 .letter-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
-    gap: 20px;
+    grid-template-columns: repeat(auto-fill, minmax(80px, 1fr));
+    gap: 10px;
     padding: 20px;
 }
 
@@ -155,6 +155,10 @@ footer a:hover .github-icon {
     border-radius: 10px;
     text-align: center;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
+    aspect-ratio: 1 / 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .letter-item:hover {
@@ -169,18 +173,18 @@ footer a:hover .github-icon {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    padding: 20px;
+    width: 100%;
     height: 100%;
 }
 
 .letter-item .letter {
-    font-size: 2em;
+    font-size: 1.8em;
     font-weight: bold;
     margin-bottom: 5px;
 }
 
 .letter-item .count {
-    font-size: 0.9em;
+    font-size: 0.8em;
     color: #666;
 }
 
@@ -246,12 +250,8 @@ footer a:hover .github-icon {
     }
 
     .letter-grid {
-        grid-template-columns: repeat(auto-fill, minmax(80px, 1fr));
-        gap: 10px;
-    }
-
-    .letter-item a {
-        padding: 15px;
+        grid-template-columns: repeat(auto-fill, minmax(60px, 1fr));
+        gap: 8px;
     }
 
     .letter-item .letter {
@@ -259,6 +259,6 @@ footer a:hover .github-icon {
     }
 
     .letter-item .count {
-        font-size: 0.8em;
+        font-size: 0.7em;
     }
 }
