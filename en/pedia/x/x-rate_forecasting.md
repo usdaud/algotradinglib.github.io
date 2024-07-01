@@ -1,3 +1,5 @@
+# X-Rate Forecasting
+
 X-Rate Forecasting, also known as [exchange rate forecasting](../e/exchange_rate_forecasting.md), is a specialized field within [algorithmic trading](../a/algorithmic_trading.md) and finance that focuses on predicting the future values of currency exchange rates. X-Rate Forecasting involves the use of mathematical models, statistical tools, and machine learning techniques to anticipate changes in the exchange rates between two or more currencies. Accurate forecasting can provide significant advantages for traders, investors, multinational companies, and policy makers who need to make informed decisions about currency-related transactions.
 
 ### Methods and Techniques

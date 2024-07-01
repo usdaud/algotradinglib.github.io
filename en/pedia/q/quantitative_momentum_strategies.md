@@ -1,4 +1,4 @@
-[Quantitative Momentum](../q/quantitative_momentum.md) Strategies
+# Quantitative Momentum Strategies
 
 Momentum investing is a financial strategy that aims to capitalize on the continuance of existing trends in the market. This strategy is based on the premise that stocks that have performed well in the past will continue to do well in the future, and those that have performed poorly will continue to decline. [Quantitative momentum](../q/quantitative_momentum.md) strategies, in particular, leverage mathematical models and statistical techniques to identify and invest in securities that exhibit strong momentum.
 

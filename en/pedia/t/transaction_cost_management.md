@@ -1,3 +1,5 @@
+# Transaction Cost Management
+
 Transaction cost management is a crucial aspect of [algorithmic trading](../a/algorithmic_trading.md) that focuses on minimizing the costs associated with trading, thereby maximizing the profitability of investment strategies. In the world of financial markets, transaction costs can significantly erode returns, making it essential to employ strategies that effectively manage and reduce these expenses. This document delves deep into the various components of transaction costs, methodologies for measuring and minimizing these costs, and the role of technology and institutions in optimizing transaction cost management.
 
 ### Components of Transaction Costs
