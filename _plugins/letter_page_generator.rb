@@ -76,7 +76,7 @@ module Jekyll
         if page_path.size >= 4 && 
            page_path[0] == lang && 
            page_path[1] == section && 
-           page_path[2] && letter && page_path[2].downcase.start_with?(letter.downcase) && 
+           page_path[2] && letter && page_path[2].to_s.downcase.start_with?(letter.to_s.downcase) && 
            page.path.end_with?('.md') && 
            page.name != 'index.md'
           count += 1
