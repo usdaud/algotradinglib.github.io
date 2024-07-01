@@ -1,5 +1,4 @@
-Tail Value at Risk (TVaR) in [Algorithmic Trading](../a/algorithmic_trading.md)
-==============================================
+# Tail Value at Risk (TVaR)
 
 Tail Value at Risk (TVaR), also known as Conditional Value at Risk (CVaR), is a risk assessment metric often used in the field of finance to measure the risk of loss in a portfolio. It represents the average loss that could occur in the worst-case scenario, beyond a certain confidence level. In [algorithmic trading](../a/algorithmic_trading.md), TVaR is especially useful because it provides a more comprehensive view of risk by considering not just the threshold of losses but also the tail-end of the [loss distribution](../l/loss_distribution.md).
 

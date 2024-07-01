@@ -1,3 +1,5 @@
+# Trading Models
+
 Trading models play a crucial role in [algorithmic trading](../a/algorithmic_trading.md), guiding the decision-making process and execution of trades. They combine [quantitative analysis](../q/quantitative_analysis.md), mathematical computations, and automated trading techniques to identify and exploit trading opportunities. This article delves into different types of trading models used in [algorithmic trading](../a/algorithmic_trading.md), including their components, mechanics, benefits, and limitations.
 
 # Types of Trading Models

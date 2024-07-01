@@ -1,3 +1,5 @@
+# Trend Strength Analysis
+
 Trend strength analysis is a technique used by algorithmic traders to assess the robustness and sustainability of price movements in financial markets. This helps them make informed trading decisions. Below, I provide a detailed overview of the main concepts and tools involved in trend strength analysis.
 
 ### Overview of Trend Strength Analysis
