@@ -1,3 +1,5 @@
+# Economic Cycles
+
 Economic cycles are the fluctuating states of economic growth through which a country’s economy passes. These cycles comprise various stages such as expansion, peak, contraction, and trough. They are fundamental in economic studies and are critical for policymakers, investors, and business leaders to understand. This complex and multifaceted topic spans across different economic activities, indicators, theories, and historical precedents.
 
 ### Overview of Economic Cycles

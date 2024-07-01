@@ -1,3 +1,5 @@
+# Economic Indicators
+
 Economic indicators are vital statistics about economic activities. They allow analysis of economic performance and predictions of future performance. These indicators provide statistical data regarding economic activities, business cycles, and macroeconomic trends. They include various metrics that reflect different aspects of the economy, including growth, employment, productivity, and inflation, amongst others.
 
 ### Leading Indicators

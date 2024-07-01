@@ -1,6 +1,3 @@
-[Algorithmic execution](../a/algorithmic_execution.md) quality is a critical aspect of [algorithmic trading](../a/algorithmic_trading.md) that focuses on assessing and optimizing how well an algorithm executes a particular trade. In the financial markets, [algorithmic execution](../a/algorithmic_execution.md) can significantly impact the cost and the efficiency of trading operations, affecting profitability and [risk management](../r/risk_management.md).
-
-```
 # Algorithmic Execution Quality
 
 [Algorithmic execution](../a/algorithmic_execution.md) quality is a multi-faceted metric used to evaluate how effectively a trading algorithm achieves its intended trading goals while minimizing cost and market impact. This encompasses a variety of [performance metrics](../p/performance_metrics.md) such as slippage, [transaction cost analysis](../t/transaction_cost_analysis.md) (TCA), execution speed, and fill rates. In essence, it measures how close the actual execution of trades comes to the theoretical or desired outcomes.
@@ -87,4 +84,3 @@ Future [algorithmic trading](../a/algorithmic_trading.md) systems will likely in
 ## Conclusion
 
 [Algorithmic execution](../a/algorithmic_execution.md) quality is a crucial aspect of modern trading, impacting both cost efficiency and market performance. By focusing on key metrics such as slippage, TCA, execution speed, and fill rates, traders and firms can continuously refine their algorithms to achieve better execution outcomes. Advances in technology and regulatory frameworks will continue to shape the landscape, offering new opportunities for improving execution quality in the years to come.
-```

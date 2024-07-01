@@ -1,3 +1,5 @@
+# Intraday Price Patterns
+
 Intraday [price patterns](../p/price_patterns.md) are specific repeatable movements in the prices of financial instruments within a single trading day. For those involved in [algorithmic trading](../a/algorithmic_trading.md) or "algo-trading," understanding these patterns is crucial for developing effective automated [trading strategies](../t/trading_strategies.md). These patterns can offer insights into potential market movements, helping traders make informed decisions. In this comprehensive guide, we'll delve into the various types of intraday [price patterns](../p/price_patterns.md), how they can be used in algo-trading, and the importance of [backtesting](../b/backtesting.md) strategies that rely on these patterns.
 
 ### Types of Intraday Price Patterns

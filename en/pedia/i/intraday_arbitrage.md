@@ -1,3 +1,5 @@
+# Intraday Arbitrage
+
 Intraday [arbitrage](../a/arbitrage.md) is a trading strategy that seeks to take advantage of temporary price discrepancies between identical or similar financial instruments within the same trading day. This trading strategy is based on the principle of "efficient markets," which posits that similar assets should have equivalent prices at any instant. When this condition is not met, opportunities for [arbitrage](../a/arbitrage.md) arise.
 
 ### Types of Intraday Arbitrage

@@ -1,3 +1,5 @@
+# Options Gamma Hedging
+
 Options [Gamma Hedging](../g/gamma_hedging.md), also known simply as [Gamma Hedging](../g/gamma_hedging.md), is a sophisticated and crucial technique used in options trading to manage the risk associated with changes in an option's delta over time. This method is vital for traders who aim to maintain a delta-neutral position and stabilize the potential variations in their portfolios due to the dynamic nature of delta.
 
 ### Understanding Delta

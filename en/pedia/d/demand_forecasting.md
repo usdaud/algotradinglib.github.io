@@ -1,3 +1,5 @@
+# Demand Forecasting
+
 Demand forecasting is a critical component in the field of business planning and supply chain management, essential for predicting future customer demand over a certain period. It allows companies to anticipate changes in the market, allocate resources efficiently, optimize inventory levels, and minimize costs. In the age of data-driven decision-making, demand forecasting has evolved significantly, leveraging sophisticated algorithms, artificial intelligence (AI), and machine learning (ML) models to improve accuracy and reliability.
 
 ### Key Concepts in Demand Forecasting

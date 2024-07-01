@@ -1,7 +1,3 @@
-Quantitative [Alpha Generation](../a/alpha_generation.md) is one of the fundamental objectives of [quantitative finance](../q/quantitative_finance.md) and [algorithmic trading](../a/algorithmic_trading.md). This topic involves the use of mathematical models, algorithms, and statistical methods to find and exploit inefficiencies in the financial markets to generate alpha, which is the excess return on an investment relative to the return of a benchmark index. Here is a comprehensive description of the concept:
-
----
-
 # Quantitative Alpha Generation
 
 ## Introduction
@@ -99,5 +95,3 @@ The rise of decentralized finance is opening up new markets and opportunities fo
 ## Conclusion
 
 Quantitative [Alpha Generation](../a/alpha_generation.md) is a sophisticated, multifaceted domain within [quantitative finance](../q/quantitative_finance.md) and [algorithmic trading](../a/algorithmic_trading.md). Leveraging advanced mathematical models, vast datasets, sophisticated algorithms, and cutting-edge technology, it holds immense potential for financial innovation and superior investment performance. However, it also comes with significant challenges and risks that require meticulous management and continuous adaptation to remain effective in the ever-changing financial markets.
-
----

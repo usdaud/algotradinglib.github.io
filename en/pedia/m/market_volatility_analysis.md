@@ -1,3 +1,5 @@
+# Market Volatility Analysis
+
 Market volatility refers to the degree of variation of a trading price series over time, usually measured by the standard deviation of [logarithmic returns](../l/logarithmic_returns.md). It is a statistical measure that indicates the extent of variation in the market prices or the speed at which prices change. High volatility means that prices can change dramatically over a short period in either direction, while low volatility suggests that prices change at a steadier pace over a longer timeframe.
 
 ### Key Concepts in Market Volatility Analysis
