@@ -24,7 +24,6 @@ module Jekyll
       letters = Dir.entries(section_path)
                    .select { |entry| File.directory?(File.join(section_path, entry)) && entry != '.' && entry != '..' }
                    .map { |letter| [letter.downcase, count_posts(site, lang, section, letter)] }
-                   .reject { |_, count| count == 0 }
                    .sort.to_h
 
       letters.each do |letter, count|
