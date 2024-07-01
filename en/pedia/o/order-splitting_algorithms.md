@@ -1,10 +1,10 @@
 # Order-Splitting Algorithms
 
-Order-splitting algorithms, also known as trade execution algorithms or algo trading execution strategies, are designed to enhance the efficiency, minimize market impact, and optimize the execution price of large orders in the financial markets. These algorithms split large orders into smaller, more manageable lots to execute over a period of time, aiming to reduce the price influence that a substantial order could exert on the market. This document explores various order-splitting algorithms, their principles, pros and cons, and practical applications in the world of algorithmic trading.
+Order-splitting algorithms, also known as trade [execution algorithms](../e/execution_algorithms.md) or algo trading execution strategies, are designed to enhance the efficiency, minimize market impact, and optimize the execution price of large orders in the financial markets. These algorithms split large orders into smaller, more manageable lots to execute over a period of time, aiming to reduce the price influence that a substantial order could exert on the market. This document explores various order-splitting algorithms, their principles, pros and cons, and practical applications in the world of [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Introduction to Order-Splitting Algorithms
 
-Executing large orders in financial markets poses significant challenges. A sizable order can move the market price unfavorably, lead to slippage, and increase the risk of adversarial trading strategies. Order-splitting algorithms help mitigate these risks by strategically breaking down large orders into smaller parts, trading them in a manner that minimizes their impact on the market.
+Executing large orders in financial markets poses significant challenges. A sizable order can move the market price unfavorably, lead to slippage, and increase the risk of adversarial [trading strategies](../t/trading_strategies.md). Order-splitting algorithms help mitigate these risks by strategically breaking down large orders into smaller parts, trading them in a manner that minimizes their impact on the market.
 
 ## Types of Order-Splitting Algorithms
 
@@ -33,7 +33,7 @@ TWAP algorithms aim to distribute an order evenly over a specified period of tim
 VWAP algorithms aim to execute orders in accordance with the volume traded in the market, aligning execution with the natural flow of the market to minimize impact.
 
 #### How VWAP Works
-- **Volume Profile Estimation:** The algorithm estimates the volume profile of the market based on historical or real-time data.
+- **[Volume Profile](../v/volume_profile.md) Estimation:** The algorithm estimates the [volume profile](../v/volume_profile.md) of the market based on historical or real-time data.
 - **Order Allocation:** The order is divided into smaller parts proportional to the expected volume at different times.
 - **Execution:** The smaller orders are executed at times corresponding to high market volumes, aiming to achieve an average price close to the VWAP.
 
@@ -81,7 +81,7 @@ Participation Rate or Percentage of Volume (POV) algorithms execute a trade at a
 
 ### Market Adaptive Algorithms
 
-Market Adaptive Algorithms adjust their execution strategy based on real-time market conditions and can dynamically switch between different strategies to achieve optimal execution.
+Market [Adaptive Algorithms](../a/adaptive_algorithms.md) adjust their execution strategy based on real-time market conditions and can dynamically switch between different strategies to achieve optimal execution.
 
 #### How Market Adaptive Algorithms Work
 - **Real-Time Analysis:** Continuously analyze market conditions such as liquidity, volatility, and price trends.
@@ -102,7 +102,7 @@ While order-splitting algorithms offer numerous benefits, traders must consider 
 
 ### Market Conditions
 - **Liquidity:** High liquidity markets may favor VWAP or POV strategies, while low liquidity might necessitate TWAP or Implementation Shortfall.
-- **Volatility:** Volatile markets require adaptive algorithms that can react quickly to price changes.
+- **Volatility:** Volatile markets require [adaptive algorithms](../a/adaptive_algorithms.md) that can react quickly to price changes.
 
 ### Trade Size and Urgency
 - **Order Size:** Larger orders are more likely to impact the market, necessitating sophisticated strategies like Implementation Shortfall or Market Adaptive.
@@ -112,7 +112,7 @@ While order-splitting algorithms offer numerous benefits, traders must consider 
 - **Transaction Costs:** Consider all transaction costs, including commissions, spreads, and slippage, when selecting an algorithm.
 
 ### Technology and Infrastructure
-- **Algorithmic Capabilities:** Ensure the trading infrastructure supports advanced algorithms and real-time market data analysis.
+- **Algorithmic Capabilities:** Ensure the trading infrastructure supports advanced algorithms and [real-time market data](../r/real-time_market_data.md) analysis.
 - **Monitoring and Control:** Implement robust tools to monitor algorithm performance and make adjustments as needed.
 
 ## Practical Applications and Case Studies
@@ -123,7 +123,7 @@ Institutions managing large portfolios frequently use order-splitting algorithms
 
 ### High-Frequency Trading Firms
 
-High-frequency trading (HFT) firms leverage sophisticated, market adaptive algorithms to execute trades at lightning speeds, often capitalizing on very small price inefficiencies. These firms implement complex models to decide the optimal moment to buy or sell, balancing speed and market impact.
+High-frequency trading (HFT) firms leverage sophisticated, market [adaptive algorithms](../a/adaptive_algorithms.md) to execute trades at lightning speeds, often capitalizing on very small price inefficiencies. These firms implement complex models to decide the optimal moment to buy or sell, balancing speed and market impact.
 
 For more information, you can visit some of these leading HFT firms:
 - [Citadel Securities](https://www.citadelsecurities.com/)

@@ -36,22 +36,22 @@ Several factors can influence the size of the inflation risk premium:
 
 #### Inflation-Linked Securities
 
-To mitigate the impact of inflation risk, investors can turn to inflation-linked securities, such as Treasury Inflation-Protected Securities (TIPS) in the United States. These bonds adjust their principal and interest payments based on inflation rates, effectively providing a hedge against inflation risk. While TIPS eliminate the inflation risk premium, they might still offer a lower initial yield compared to nominal bonds.
+To mitigate the impact of inflation risk, investors can turn to inflation-linked securities, such as Treasury [Inflation-Protected Securities](../i/inflation-protected_securities.md) (TIPS) in the United States. These bonds adjust their principal and interest payments based on inflation rates, effectively providing a hedge against inflation risk. While TIPS eliminate the inflation risk premium, they might still offer a lower initial yield compared to nominal bonds.
 
 More information on TIPS can be found on the [U.S. Department of the Treasury’s website](https://www.treasurydirect.gov/).
 
 #### Measuring the Inflation Risk Premium
 
-The inflation risk premium is not directly observable and must be estimated. One common approach is to compare the yields of nominal bonds with those of inflation-linked bonds of the same maturity. The difference, after adjusting for inflation expectations, gives an estimate of the inflation risk premium.
+The inflation risk premium is not directly observable and must be estimated. One common approach is to compare the yields of nominal bonds with those of [inflation-linked bonds](../i/inflation-linked_bonds.md) of the same maturity. The difference, after adjusting for inflation expectations, gives an estimate of the inflation risk premium.
 
 #### Practical Application in Algo Trading
 
-In the context of algorithmic trading, understanding and estimating the inflation risk premium is crucial for managing fixed-income portfolios and designing trading strategies. By incorporating models that account for inflation risk and its premium, algorithmic traders can better gauge the real returns of fixed-income securities, identify mispricings, and optimize their investment strategies.
+In the context of [algorithmic trading](../a/algorithmic_trading.md), understanding and estimating the inflation risk premium is crucial for managing fixed-income portfolios and designing [trading strategies](../t/trading_strategies.md). By incorporating models that account for inflation risk and its premium, algorithmic traders can better gauge the real returns of fixed-income securities, identify mispricings, and optimize their investment strategies.
 
-Algorithmic traders utilize various financial models and tools to estimate the inflation risk premium. For instance, breakeven inflation analysis, derived from the yield spreads between nominal and inflation-linked bonds, helps in computing market-based inflation expectations and the associated risk premium. Traders then use these insights to develop strategies that can hedge against inflation risk or exploit pricing inefficiencies.
+Algorithmic traders utilize various financial models and tools to estimate the inflation risk premium. For instance, breakeven inflation analysis, derived from the yield spreads between nominal and [inflation-linked bonds](../i/inflation-linked_bonds.md), helps in computing market-based inflation expectations and the associated risk premium. Traders then use these insights to develop strategies that can hedge against inflation risk or exploit pricing inefficiencies.
 
 #### Conclusion
 
-The inflation risk premium is a key concept in investment, particularly in fixed-income securities, where future cash flows are predetermined. Understanding this premium allows investors to adjust their yield requirements accordingly and protects against the eroding effects of inflation. For algorithmic traders, incorporating inflation risk premiums into trading models enhances decision-making, optimizing returns in the context of changing inflation dynamics.
+The inflation risk premium is a key concept in investment, particularly in fixed-income securities, where future cash flows are predetermined. Understanding this premium allows investors to adjust their yield requirements accordingly and protects against the eroding effects of inflation. For algorithmic traders, incorporating inflation risk premiums into [trading models](../t/trading_models.md) enhances decision-making, optimizing returns in the context of changing inflation dynamics.
 
-Moreover, inflation risk is an ongoing concern in the financial markets, and the ability to measure and respond to it through algorithmic trading provides a competitive edge. Advanced analytical techniques and real-time data incorporation ensure that trading strategies remain robust in diverse economic environments.
+Moreover, inflation risk is an ongoing concern in the financial markets, and the ability to measure and respond to it through [algorithmic trading](../a/algorithmic_trading.md) provides a competitive edge. Advanced analytical techniques and real-time data incorporation ensure that [trading strategies](../t/trading_strategies.md) remain robust in diverse economic environments.

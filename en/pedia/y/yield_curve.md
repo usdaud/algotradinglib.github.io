@@ -1,6 +1,6 @@
 # Yield Curve
 
-The yield curve is a fundamental concept in finance and economics, known for its role in predicting economic cycles and for its use in determining the rates at which different maturities of debt securities are traded. It is a graphical representation that shows the relationship between interest rates (or the cost of borrowing) and the maturity lengths of debt securities for a given issuer in a given currency. The yield curve is also known by other terms such as the term structure of interest rates.
+The yield curve is a fundamental concept in finance and economics, known for its role in predicting [economic cycles](../e/economic_cycles.md) and for its use in determining the rates at which different maturities of debt securities are traded. It is a graphical representation that shows the relationship between interest rates (or the cost of borrowing) and the maturity lengths of debt securities for a given issuer in a given currency. The yield curve is also known by other terms such as the [term structure of interest rates](../t/term_structure_of_interest_rates.md).
 
 ## Types of Yield Curves
 
@@ -24,7 +24,7 @@ Inflation has a substantial impact on the yield curve. When inflation is expecte
 Strong economic growth prospects tend to push yields higher, especially at the longer end of the curve, as investors demand higher returns for the increased risk that comes with economic expansion.
 
 ### Monetary Policy
-Central banks, like the Federal Reserve in the United States or the European Central Bank in the Eurozone, influence the yield curve through monetary policy actions, such as setting short-term interest rates or engaging in bond-buying programs (quantitative easing).
+Central banks, like the Federal Reserve in the United States or the European Central Bank in the Eurozone, influence the yield curve through monetary policy actions, such as setting short-term interest rates or engaging in bond-buying programs ([quantitative easing](../q/quantitative_easing.md)).
 
 ### Supply and Demand Dynamics
 The yield curve is also influenced by the supply and demand for various maturities of debt securities. For instance, if there is high demand for long-term bonds, their yields will decrease, potentially flattening the yield curve.
@@ -32,16 +32,16 @@ The yield curve is also influenced by the supply and demand for various maturiti
 ## Practical Applications in Algo Trading
 
 ### Interest Rate Arbitrage
-The yield curve is essential for several arbitrage strategies. For instance, traders might exploit differences between short-term and long-term interest rates to lock in risk-free profits via strategies such as yield curve arbitrage.
+The yield curve is essential for several [arbitrage](../a/arbitrage.md) strategies. For instance, traders might exploit differences between short-term and long-term interest rates to lock in risk-free profits via strategies such as yield curve [arbitrage](../a/arbitrage.md).
 
 ### Fixed-Income Strategy
 Algo traders rely on the yield curve to shape their fixed-income investment strategies. Algorithms can be designed to adjust portfolio allocations between short-term and long-term bonds based on changes in the yield curve.
 
 ### Economic Indicators
-Algo trading systems also use yield curve data to forecast economic conditions. An inverted yield curve can trigger algorithms to adopt more conservative strategies, while a steepening yield curve may indicate a more aggressive, growth-oriented approach.
+Algo [trading systems](../t/trading_systems.md) also use yield curve data to forecast economic conditions. An inverted yield curve can trigger algorithms to adopt more conservative strategies, while a steepening yield curve may indicate a more aggressive, growth-oriented approach.
 
 ### Derivative Trading
-In derivative markets, yield curves play a pivotal role. Prices for interest rate swaps, futures, and options are often derived based on the shape and movements of the yield curve, and stationary arbitrage opportunities can also arise from these movements.
+In derivative markets, yield curves play a pivotal role. Prices for [interest rate swaps](../i/interest_rate_swaps.md), futures, and options are often derived based on the shape and movements of the yield curve, and stationary [arbitrage](../a/arbitrage.md) opportunities can also arise from these movements.
 
 ## Major Market Players
 
@@ -56,4 +56,4 @@ The Federal Reserve's interest rate policies heavily influence the yield curve. 
 
 ## Conclusion
 
-Understanding the yield curve is indispensable for market participants, including algo traders, financial analysts, and portfolio managers. Its influence spans various aspects of financial markets, from interest rate dynamics and economic forecasting to trading strategies and risk management. By closely monitoring and analyzing the yield curve, traders can better navigate the complexities of the bond market and make well-informed decisions to optimize their portfolios.
+Understanding the yield curve is indispensable for market participants, including algo traders, financial analysts, and portfolio managers. Its influence spans various aspects of financial markets, from interest rate dynamics and economic forecasting to [trading strategies](../t/trading_strategies.md) and [risk management](../r/risk_management.md). By closely monitoring and analyzing the yield curve, traders can better navigate the complexities of the bond market and make well-informed decisions to optimize their portfolios.

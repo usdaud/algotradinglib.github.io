@@ -8,7 +8,7 @@ Physical delivery is a process in futures trading where the actual physical comm
 
 #### Futures Contracts
 
-Futures contracts are standardized agreements to buy or sell a specific quantity of an asset at a set price on a future date. These contracts can be based on various underlying assets, including commodities like oil, gold, and agricultural products, as well as financial instruments like bonds and currencies.
+[Futures contracts](../f/futures_contracts.md) are standardized agreements to buy or sell a specific quantity of an asset at a set price on a future date. These contracts can be based on various underlying assets, including commodities like oil, gold, and agricultural products, as well as financial instruments like bonds and currencies.
 
 #### Physical vs. Cash Settlement
 
@@ -48,9 +48,9 @@ Physical delivery ensures that the futures market remains connected to the actua
 
 ### Exchanges Facilitating Physical Delivery
 
-- **Chicago Mercantile Exchange (CME)**: Offers various commodity futures contracts with provisions for physical delivery. Website: [CME Group](https://www.cmegroup.com/)
+- **Chicago Mercantile Exchange (CME)**: Offers various [commodity futures](../c/commodity_futures.md) contracts with provisions for physical delivery. Website: [CME Group](https://www.cmegroup.com/)
   
-- **Intercontinental Exchange (ICE)**: Facilitates trading in energy, agricultural, and metal futures contracts. Website: [Intercontinental Exchange](https://www.theice.com/)
+- **Intercontinental Exchange (ICE)**: Facilitates trading in energy, agricultural, and metal [futures contracts](../f/futures_contracts.md). Website: [Intercontinental Exchange](https://www.theice.com/)
   
 - **London Metal Exchange (LME)**: Specializes in metal futures with physical delivery options. Website: [London Metal Exchange](https://www.lme.com/)
 
@@ -65,7 +65,7 @@ The logistics involved in physical delivery can be complex and costly, especiall
 
 ### Case Study: Crude Oil Delivery
 
-In April 2020, crude oil futures experienced a historic event where the price of West Texas Intermediate (WTI) crude oil futures contracts for May delivery turned negative. This situation arose due to a combination of oversupply, decreased demand due to the COVID-19 pandemic, and limited storage capacity. Traders who held long positions were forced to find storage or accept delivery, leading to a scramble that pushed prices below zero.
+In April 2020, crude oil futures experienced a historic event where the price of West Texas Intermediate (WTI) crude oil [futures contracts](../f/futures_contracts.md) for May delivery turned negative. This situation arose due to a combination of oversupply, decreased demand due to the COVID-19 pandemic, and limited storage capacity. Traders who held long positions were forced to find storage or accept delivery, leading to a scramble that pushed prices below zero.
 
 ### Conclusion
 

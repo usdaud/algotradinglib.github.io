@@ -13,7 +13,7 @@ Herd behavior is fundamentally rooted in social psychology. It is driven by the 
 1. **Information Cascades**: Traders may observe and imitate the actions of others, assuming that others have more or better information.
 2. **Fear of Missing Out (FOMO)**: A psychological phenomenon where traders feel compelled to join a trend to prevent missing potential gains.
 3. **Reputation Concerns**: Institutional traders may follow popular trends to avoid deviating from industry norms, thus protecting their professional reputation.
-4. **Loss Aversion**: The tendency of traders to prefer avoiding losses rather than acquiring comparable gains by following the crowd.
+4. **[Loss Aversion](../l/loss_aversion.md)**: The tendency of traders to prefer avoiding losses rather than acquiring comparable gains by following the crowd.
 
 ## Examples of Herd Behavior in Trading
 
@@ -29,7 +29,7 @@ Another classic case of herd behavior was the housing market bubble in the mid-2
 
 ### Momentum Trading
 
-Herd behavior forms the core of momentum trading strategies. Momentum traders capitalize on existing market trends by buying assets that have shown upward price movement and selling assets with downward price trajectories. These strategies rely on the continuation of trends, often fueled by herd behavior.
+Herd behavior forms the core of [momentum trading](../m/momentum_trading.md) strategies. Momentum traders capitalize on existing market trends by buying assets that have shown upward price movement and selling assets with downward price trajectories. These strategies rely on the continuation of trends, often fueled by herd behavior.
 
 ### Contrarian Strategies
 
@@ -37,7 +37,7 @@ Contrarian traders do the opposite of following the herd. They seek to buy under
 
 ### Risk Management
 
-Understanding herd behavior is essential for effective risk management. Herd-driven bubbles lead to increased market volatility and risk, underscoring the need for diversified portfolios and hedging strategies.
+Understanding herd behavior is essential for effective [risk management](../r/risk_management.md). Herd-driven bubbles lead to increased market volatility and risk, underscoring the need for diversified portfolios and [hedging strategies](../h/hedging_strategies.md).
 
 ## Mitigating Herd Behavior
 
@@ -47,11 +47,11 @@ Increasing traders’ awareness of herd behavior and its psychological underpinn
 
 ### Algorithmic Trading
 
-Algorithmic trading, driven by pre-programmed rules and models, can reduce the human emotional bias, including herd behavior. However, even algorithmic trading can inadvertently amplify herd behavior if multiple algorithms trigger similar trading actions simultaneously.
+[Algorithmic trading](../a/algorithmic_trading.md), driven by pre-programmed rules and models, can reduce the human emotional bias, including herd behavior. However, even [algorithmic trading](../a/algorithmic_trading.md) can inadvertently amplify herd behavior if multiple algorithms trigger similar trading actions simultaneously.
 
 ### Regulatory Measures
 
-Regulators can implement measures to reduce the potential for herd-driven bubbles. These include enforcing transparency in markets, preventing excessive speculation, and ensuring robust risk management practices within financial institutions.
+Regulators can implement measures to reduce the potential for herd-driven bubbles. These include enforcing transparency in markets, preventing excessive speculation, and ensuring robust [risk management](../r/risk_management.md) practices within financial institutions.
 
 ## Case Studies and Research
 

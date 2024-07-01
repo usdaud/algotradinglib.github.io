@@ -1,6 +1,6 @@
 # Global Bond Strategies
 
-Global bond strategies refer to investment techniques that involve the international diversification of fixed-income securities. These strategies seek to optimize returns and manage risk by investing in government, corporate, and other types of bonds from around the world. By doing so, investors can capitalize on opportunities in various interest rate environments, currency fluctuations, and economic cycles. Below is an in-depth exploration of global bond strategies, their components, benefits, challenges, and examples of institutions employing these strategies.
+Global bond strategies refer to investment techniques that involve the international diversification of fixed-income securities. These strategies seek to optimize returns and manage risk by investing in government, corporate, and other types of bonds from around the world. By doing so, investors can capitalize on opportunities in various interest rate environments, currency fluctuations, and [economic cycles](../e/economic_cycles.md). Below is an in-depth exploration of global bond strategies, their components, benefits, challenges, and examples of institutions employing these strategies.
 
 ## Components of Global Bond Strategies
 
@@ -10,7 +10,7 @@ Global bond strategies refer to investment techniques that involve the internati
 
 2. **Corporate Bonds**: Issued by companies to finance their operations, acquisitions, or other expenditures. These bonds carry higher risk than sovereign bonds but also offer higher yields.
 
-3. **Municipal Bonds**: Issued by local governments or their agencies, these bonds offer varying levels of risk and yield depending on the issuer's creditworthiness.
+3. **[Municipal Bonds](../m/municipal_bonds.md)**: Issued by local governments or their agencies, these bonds offer varying levels of risk and yield depending on the issuer's creditworthiness.
 
 4. **Supranational Bonds**: Issued by international organizations like the World Bank or the European Investment Bank, these bonds often finance projects that promote economic development.
 
@@ -40,7 +40,7 @@ Global bond strategies refer to investment techniques that involve the internati
 
 3. **Currency Risk**: The risk that changes in exchange rates will affect the value of international bond investments.
 
-4. **Liquidity Risk**: The risk that an investor may not be able to buy or sell bonds at a fair price due to market conditions.
+4. **[Liquidity Risk](../l/liquidity_risk.md)**: The risk that an investor may not be able to buy or sell bonds at a fair price due to market conditions.
 
 5. **Inflation Risk**: The risk that inflation will erode the purchasing power of bond interest and principal payments.
 
@@ -52,9 +52,9 @@ Global bond strategies refer to investment techniques that involve the internati
 
 3. **Currency Appreciation**: Investment in bonds denominated in strengthening currencies can lead to additional gains.
 
-4. **Economic Decoupling**: Different countries may experience different economic cycles, offering opportunities to benefit from varying interest rate environments.
+4. **Economic Decoupling**: Different countries may experience different [economic cycles](../e/economic_cycles.md), offering opportunities to benefit from varying interest rate environments.
 
-5. **Risk management**: Exposure to diverse markets can mitigate risks specific to any single country or region.
+5. **[Risk management](../r/risk_management.md)**: Exposure to diverse markets can mitigate risks specific to any single country or region.
 
 ## Challenges of Global Bond Strategies
 

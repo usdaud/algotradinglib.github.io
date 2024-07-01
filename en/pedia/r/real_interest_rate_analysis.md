@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Real interest rates represent the interest rates after accounting for inflation. This metric is crucial in economics and finance because it provides a more accurate picture of the true cost of borrowing and the real yield on investment. Understanding real interest rates can be especially important for algorithmic trading (algotrading), where precision in evaluating financial metrics can significantly impact trading strategies.
+Real interest rates represent the interest rates after accounting for inflation. This metric is crucial in economics and finance because it provides a more accurate picture of the true cost of borrowing and the real yield on investment. Understanding real interest rates can be especially important for [algorithmic trading](../a/algorithmic_trading.md) (algotrading), where precision in evaluating financial metrics can significantly impact [trading strategies](../t/trading_strategies.md).
 
 ## Nominal vs. Real Interest Rates
 
@@ -29,15 +29,15 @@ For a more precise calculation, the Fisher equation might also consider compound
 
 ### Investment Decisions
 
-Algorithmic trading systems often make investment decisions based on expected returns, which should reflect real interest rates rather than nominal rates. By factoring in real interest rates, algotrading algorithms can better ascertain the worthiness of an investment.
+[Algorithmic trading](../a/algorithmic_trading.md) systems often make investment decisions based on expected returns, which should reflect real interest rates rather than nominal rates. By factoring in real interest rates, algotrading algorithms can better ascertain the worthiness of an investment.
 
 ### Risk Management
 
-Real interest rates also serve as a benchmark for evaluating the risk-return trade-off. Algorithms can use real interest rates to adjust the risk parameters in their trading models, leading to more robust risk management strategies.
+Real interest rates also serve as a benchmark for evaluating the risk-return trade-off. Algorithms can use real interest rates to adjust the risk parameters in their [trading models](../t/trading_models.md), leading to more robust [risk management](../r/risk_management.md) strategies.
 
 ### Quantitative Models
 
-In quantitative finance, real interest rates are critical for models involving discounting future cash flows, valuation of bonds, and derivatives pricing. Algorithms depend heavily on these models for decision-making. For instance, the Black-Scholes model for option pricing can be adjusted to incorporate real interest rates to improve accuracy.
+In [quantitative finance](../q/quantitative_finance.md), real interest rates are critical for models involving discounting future cash flows, valuation of bonds, and [derivatives](../d/derivatives.md) pricing. Algorithms depend heavily on these models for decision-making. For instance, the [Black-Scholes model](../b/black-scholes_model.md) for option pricing can be adjusted to incorporate real interest rates to improve accuracy.
 
 ## Data Sources and Tools
 
@@ -75,7 +75,7 @@ Bond prices are sensitive to real interest rates. When real interest rates rise,
 
 ### Inflation-Protected Securities
 
-TIPS (Treasury Inflation-Protected Securities) in the U.S. and similar instruments globally are designed to protect investors from inflation. Real interest rates directly affect their valuations and yield projections. Algotrading algorithms can use real interest rates to optimize investment in these securities.
+TIPS (Treasury [Inflation-Protected Securities](../i/inflation-protected_securities.md)) in the U.S. and similar instruments globally are designed to protect investors from inflation. Real interest rates directly affect their valuations and yield projections. Algotrading algorithms can use real interest rates to optimize investment in these securities.
 
 ## Challenges in Real Interest Rate Analysis
 
@@ -93,4 +93,4 @@ Real interest rates can be affected by various factors including governmental fi
 
 ## Conclusion
 
-Understanding and analyzing real interest rates is essential for optimizing algorithmic trading strategies. By utilizing robust data sources and accounting for the intricacies of real interest rates, algorithms can achieve a more nuanced and effective approach to trading, thereby enhancing returns and managing risks more effectively.
+Understanding and analyzing real interest rates is essential for optimizing [algorithmic trading](../a/algorithmic_trading.md) strategies. By utilizing robust data sources and accounting for the intricacies of real interest rates, algorithms can achieve a more nuanced and effective approach to trading, thereby enhancing returns and managing risks more effectively.

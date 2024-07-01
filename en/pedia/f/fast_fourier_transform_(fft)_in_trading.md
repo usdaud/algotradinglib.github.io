@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Fast Fourier Transform (FFT) is a mathematical technique used for transforming time-domain data into frequency-domain data. It is widely applicable in various fields, including signal processing, image analysis, and even trading. In the realm of trading, FFT can be utilized to analyze financial time series data, identify cyclical patterns, filter noise, and make more informed trading decisions.
+Fast Fourier Transform (FFT) is a mathematical technique used for transforming time-domain data into frequency-domain data. It is widely applicable in various fields, including signal processing, image analysis, and even trading. In the realm of trading, FFT can be utilized to analyze [financial time series](../f/financial_time_series.md) data, identify cyclical patterns, filter noise, and make more informed trading decisions.
 
 ## Understanding Fourier Transform
 
@@ -37,15 +37,15 @@ FFT algorithm optimizes this process using a divide-and-conquer approach, decomp
 
 ### Noise Reduction and Smoothing
 
-Financial time series, such as stock prices, are often noisy. FFT can be used to filter out high-frequency noise, making it easier to discern underlying trends. By transforming the time series into the frequency domain, high-frequency components (noise) can be removed, and the inverse FFT can reconstruct a smoother time-domain signal.
+[Financial time series](../f/financial_time_series.md), such as stock prices, are often noisy. FFT can be used to filter out high-frequency noise, making it easier to discern underlying trends. By transforming the time series into the frequency domain, high-frequency components (noise) can be removed, and the inverse FFT can reconstruct a smoother time-domain signal.
 
 ### Cycle Detection
 
-Markets exhibit cyclical behavior due to various factors like economic cycles, seasonal effects, and investor psychology. FFT helps identify underlying cycles by decomposing the price series into its frequency components. Dominant cycles indicate repeating patterns that can be exploited for trading.
+Markets exhibit cyclical behavior due to various factors like [economic cycles](../e/economic_cycles.md), seasonal effects, and investor psychology. FFT helps identify underlying cycles by decomposing the price series into its frequency components. Dominant cycles indicate repeating patterns that can be exploited for trading.
 
 ### Predictive Analysis
 
-Traders can use FFT to analyze historical data and predict future movements. By identifying recurring patterns and cycles, FFT aids in forecasting price movements and designing trading strategies that leverage these patterns.
+Traders can use FFT to analyze historical data and predict future movements. By identifying recurring patterns and cycles, FFT aids in forecasting price movements and designing [trading strategies](../t/trading_strategies.md) that leverage these patterns.
 
 ## Practical Implementation
 
@@ -73,8 +73,8 @@ print("Reconstructed Signal: ", reconstructed_signal)
 
 ### Platforms and Services
 
-Several trading platforms incorporate FFT for technical analysis and strategy development. For example:
-- [QuantConnect](https://www.quantconnect.com/): Offers a quantitative trading platform with integrated FFT functions.
+Several trading platforms incorporate FFT for [technical analysis](../t/technical_analysis.md) and strategy development. For example:
+- [QuantConnect](https://www.quantconnect.com/): Offers a [quantitative trading](../q/quantitative_trading.md) platform with integrated FFT functions.
 - [TradeStation](https://www.tradestation.com/): Supports FFT through its EasyLanguage scripting language.
 
 ## Case Study: FFT in Algorithmic Trading
@@ -87,7 +87,7 @@ Consider a case where we apply FFT to the closing prices of a stock to detect un
 
 1. **Data Collection**: Gather historical closing prices of the stock.
 2. **FFT Application**: Apply FFT to transform the data into the frequency domain.
-3. **Frequency Analysis**: Identify dominant frequencies and corresponding cycles.
+3. **[Frequency Analysis](../f/frequency_analysis.md)**: Identify dominant frequencies and corresponding cycles.
 4. **Filter Noise**: Remove noise by filtering out high-frequency components.
 5. **Inverse FFT**: Reconstruct the smoothed time series using the inverse FFT.
 6. **Strategy Development**: Use the identified cycles to formulate a trading strategy, such as buying at cycle lows and selling at cycle highs.
@@ -156,4 +156,4 @@ In this example, we gather historical closing prices, apply FFT, and analyze the
 
 ## Conclusion
 
-The Fast Fourier Transform (FFT) is a powerful tool for analyzing financial time series data. By transforming data into the frequency domain, FFT helps traders identify underlying cycles, filter noise, and make informed trading decisions. While it offers several advantages, it also has limitations and requires careful application. As part of a robust trading strategy, FFT can significantly enhance market analysis and trading outcomes.
+The Fast Fourier Transform (FFT) is a powerful tool for analyzing [financial time series](../f/financial_time_series.md) data. By transforming data into the frequency domain, FFT helps traders identify underlying cycles, filter noise, and make informed trading decisions. While it offers several advantages, it also has limitations and requires careful application. As part of a robust trading strategy, FFT can significantly enhance market analysis and trading outcomes.

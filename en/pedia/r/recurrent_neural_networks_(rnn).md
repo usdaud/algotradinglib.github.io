@@ -1,6 +1,6 @@
 # Recurrent Neural Networks (RNN)
 
-Recurrent Neural Networks (RNNs) represent a class of artificial neural networks designed to recognize patterns in sequential data such as time series, speech, text, financial data, and more. They are distinguished by their ability to retain memory of previous elements in the sequence, making them highly effective at tasks where context and temporal dependencies are important. Unlike traditional feedforward neural networks, RNNs can use their internal state (memory) to process sequences of inputs, making them suitable for tasks where the previous input is relevant to predicting the next input.
+Recurrent Neural Networks (RNNs) represent a class of [artificial neural networks](../a/artificial_neural_networks.md) designed to recognize patterns in sequential data such as time series, speech, text, financial data, and more. They are distinguished by their ability to retain memory of previous elements in the sequence, making them highly effective at tasks where context and temporal dependencies are important. Unlike traditional [feedforward neural networks](../f/feedforward_neural_networks.md), RNNs can use their internal state (memory) to process sequences of inputs, making them suitable for tasks where the previous input is relevant to predicting the next input.
 
 ## Key Components and Structure
 
@@ -53,7 +53,7 @@ To combat overfitting and optimization challenges, several regularization techni
 RNNs are widely used for time series prediction in financial markets. By leveraging historical price data, RNNs can predict future price movements, helping traders make informed buy and sell decisions.
 
 ### Sentiment Analysis
-Incorporating textual data such as news articles, social media posts, and financial reports into trading strategies is another prevalent use case. RNNs can analyze sentiment from this unstructured data, providing valuable insights into market sentiment and potential price movements.
+Incorporating textual data such as news articles, social media posts, and financial reports into [trading strategies](../t/trading_strategies.md) is another prevalent use case. RNNs can analyze sentiment from this unstructured data, providing valuable insights into market sentiment and potential price movements.
 
 ### Portfolio Management
 RNNs can be employed to optimize portfolio allocations by predicting the returns and risks associated with different assets. This helps in creating diversified portfolios that align with investment goals and risk tolerance.
@@ -63,17 +63,17 @@ Detecting unusual patterns or anomalies in market data can prevent significant l
 
 ## Real-World Implementations
 
-Several financial institutions and fintech companies implement RNNs in their trading strategies:
+Several financial institutions and fintech companies implement RNNs in their [trading strategies](../t/trading_strategies.md):
 
-- **J.P. Morgan:** Through their AI research teams, J.P. Morgan has been integrating deep learning models, including RNNs, to enhance their trading algorithms. [Visit J.P. Morgan](https://www.jpmorgan.com/)
+- **J.P. Morgan:** Through their AI research teams, J.P. Morgan has been integrating deep learning models, including RNNs, to enhance their [trading algorithms](../t/trading_algorithms.md). [Visit J.P. Morgan](https://www.jpmorgan.com/)
 
-- **Goldman Sachs:** By leveraging RNNs for predictive analytics, Goldman Sachs has been at the forefront of employing AI in trading to maximize their market strategies. [Visit Goldman Sachs](https://www.goldmansachs.com/)
+- **Goldman Sachs:** By leveraging RNNs for [predictive analytics](../p/predictive_analytics.md), Goldman Sachs has been at the forefront of employing AI in trading to maximize their market strategies. [Visit Goldman Sachs](https://www.goldmansachs.com/)
 
-- **Hedge Funds:** Many hedge funds like Renaissance Technologies and Two Sigma have employed RNN-based models to capitalize on short-term market inefficiencies and predictive modeling. [Visit Renaissance Technologies](https://www.rentec.com/), [Visit Two Sigma](https://www.twosigma.com/)
+- **Hedge Funds:** Many hedge funds like Renaissance Technologies and Two Sigma have employed RNN-based models to capitalize on short-term market inefficiencies and [predictive modeling](../p/predictive_modeling.md). [Visit Renaissance Technologies](https://www.rentec.com/), [Visit Two Sigma](https://www.twosigma.com/)
 
 ## Future of RNNs in Trading
 
-The use of RNNs in algorithmic trading continues to evolve with advancements in deep learning and computational power. Innovations such as Attention Mechanisms and Transformers are augmenting traditional RNN approaches, providing even more sophisticated tools for traders to harness.
+The use of RNNs in [algorithmic trading](../a/algorithmic_trading.md) continues to evolve with advancements in deep learning and computational power. Innovations such as Attention Mechanisms and Transformers are augmenting traditional RNN approaches, providing even more sophisticated tools for traders to harness.
 
 ### Attention Mechanisms
 Attention mechanisms allow models to focus on specific parts of the input sequence when making predictions, leading to more accurate and contextually relevant outputs. This is especially beneficial for analyzing long sequences where RNNs might struggle.
@@ -81,4 +81,4 @@ Attention mechanisms allow models to focus on specific parts of the input sequen
 ### Transformers
 Transformers, introduced by Vaswani et al., have revolutionized sequence processing by eliminating the need for recurrent connections. Instead, they rely on self-attention mechanisms, enabling faster training and improved performance on sequence tasks. Traders are increasingly exploring transformer models to enhance predictive accuracy and execution speed.
 
-In conclusion, Recurrent Neural Networks continue to be a pivotal technology in algorithmic trading, providing robust tools for analyzing sequential data and driving more informed trading decisions. With ongoing research and development, the capabilities and applications of RNNs in financial markets are poised to expand even further.
+In conclusion, Recurrent Neural Networks continue to be a pivotal technology in [algorithmic trading](../a/algorithmic_trading.md), providing robust tools for analyzing sequential data and driving more informed trading decisions. With ongoing research and development, the capabilities and applications of RNNs in financial markets are poised to expand even further.

@@ -48,12 +48,12 @@ The Russell 2000 is frequently used as a benchmark for small-cap mutual funds an
 The Russell Midcap Index includes the smallest 800 companies in the Russell 1000 Index. It represents about 26% of the total market capitalization of the Russell 1000. The Russell Midcap provides insights into the mid-cap segment of the U.S. equity market.
 
 ### Market Characteristics
-Mid-cap stocks are often considered to offer a balance between the stability of large-cap stocks and the growth potential of small-cap stocks. Companies in this index are usually established and have higher growth prospects than large-cap firms.
+[Mid-cap stocks](../m/mid-cap_stocks.md) are often considered to offer a balance between the stability of large-cap stocks and the growth potential of small-cap stocks. Companies in this index are usually established and have higher growth prospects than large-cap firms.
 
 ## Calculation Methodology
 
 ### Market Capitalization
-Each stock in the Russell indexes is weighted by its free-float-adjusted market capitalization. This method excludes closely held shares and ensures that only the market-visible portion of a company's equity is considered.
+Each stock in the Russell indexes is weighted by its free-[float-adjusted market capitalization](../f/float-adjusted_market_capitalization.md). This method excludes closely held shares and ensures that only the market-visible portion of a company's equity is considered.
 
 ### Index Maintenance
 The FTSE Russell team employs strict criteria for inclusion in the indexes. Stocks are evaluated based on market capitalization, free-float percentage, and liquidity. The annual reconstitution process is transparent and follows a well-defined methodology.
@@ -61,10 +61,10 @@ The FTSE Russell team employs strict criteria for inclusion in the indexes. Stoc
 ## Investment Strategies
 
 ### Passive Investment
-Due to their broad market exposure, Russell indexes are frequently used in passive investment strategies, including index mutual funds and ETFs. Major financial institutions offer Russell-index-tracking products, allowing investors to gain diversified exposure to large-cap, mid-cap, and small-cap segments.
+Due to their broad market exposure, Russell indexes are frequently used in [passive investment strategies](../p/passive_investment_strategies.md), including index mutual funds and ETFs. Major financial institutions offer Russell-index-tracking products, allowing investors to gain diversified exposure to large-cap, mid-cap, and small-cap segments.
 
 ### Active Management
-While passive investment strategies focus on replicating the performance of the Russell indexes, active managers may select securities based on fundamental analysis and market conditions. The Russell 2000 is particularly popular among active managers due to its higher volatility and potential for growth.
+While [passive investment strategies](../p/passive_investment_strategies.md) focus on replicating the performance of the Russell indexes, active managers may select securities based on [fundamental analysis](../f/fundamental_analysis.md) and market conditions. The Russell 2000 is particularly popular among active managers due to its higher volatility and potential for growth.
 
 ## Russell Index-Linked Products
 
@@ -90,7 +90,7 @@ The sector composition of Russell indexes can provide insights into market trend
 ## Research and Analysis
 
 ### Quantitative Models
-Quantitative analysts use historical data from Russell indexes to build models that predict market movements. These models factor in various metrics, including market capitalization, sector performance, and economic indicators.
+Quantitative analysts use historical data from Russell indexes to build models that predict market movements. These models factor in various metrics, including market capitalization, [sector performance](../s/sector_performance.md), and [economic indicators](../e/economic_indicators.md).
 
 ### Fundamental Analysis
 Fundamental analysts may study the constituents of Russell indexes to identify undervalued or overvalued stocks. They evaluate factors such as earnings, revenue growth, and market conditions.

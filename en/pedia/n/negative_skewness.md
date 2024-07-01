@@ -1,12 +1,12 @@
 # Negative Skewness
 
-In the field of algotrading, understanding the various statistical properties of financial data is crucial for building effective trading algorithms. One such statistical measure is skewness, which helps in understanding the asymmetry of the distribution of returns. This document will focus on a specific type of skewness—negative skewness—and its implications in algorithmic trading.
+In the field of algotrading, understanding the various statistical properties of financial data is crucial for building effective [trading algorithms](../t/trading_algorithms.md). One such statistical measure is skewness, which helps in understanding the asymmetry of the distribution of returns. This document will focus on a specific type of skewness—negative skewness—and its implications in [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Understanding Skewness
 
 Skewness in statistics measures the asymmetry of the data distribution. If the data have a longer tail on one end compared to the other, the distribution is said to be skewed. Skewness can be categorized into three types:
 
-1. **Positive Skewness**: The right tail (higher values) is longer or fatter than the left tail (lower values).
+1. **[Positive Skewness](../p/positive_skewness.md)**: The right tail (higher values) is longer or fatter than the left tail (lower values).
 2. **Zero Skewness**: The tails on both ends of the distribution are balanced, indicating a normal distribution.
 3. **Negative Skewness**: The left tail (lower values) is longer or fatter than the right tail (higher values).
 
@@ -32,11 +32,11 @@ For a negatively skewed distribution, the value of skewness will be less than ze
 
 ### Implications of Negative Skewness
 
-1. **Risk Management**: One of the most significant implications of negative skewness in algorithmic trading is risk management. A negatively skewed return distribution indicates that the portfolio is more susceptible to substantial losses compared to substantial gains. Therefore, algorithms need to incorporate measures to hedge against this risk.
+1. **[Risk Management](../r/risk_management.md)**: One of the most significant implications of negative skewness in [algorithmic trading](../a/algorithmic_trading.md) is [risk management](../r/risk_management.md). A negatively skewed return distribution indicates that the portfolio is more susceptible to substantial losses compared to substantial gains. Therefore, algorithms need to incorporate measures to hedge against this risk.
 
 2. **Expected Return**: Negatively skewed asset classes often have higher expected returns as a compensation for the higher risk of substantial losses. Traders need to weigh the potential for higher returns against the higher likelihood of extreme negative outcomes.
 
-3. **Tail Risk**: Negative skewness highlights the presence of tail risk, which is the risk of rare events that lie outside the normal expectations of return distribution. Tail risk measures such as Value at Risk (VaR) and Conditional Value at Risk (CVaR) become crucial in such scenarios.
+3. **[Tail Risk](../t/tail_risk.md)**: Negative skewness highlights the presence of [tail risk](../t/tail_risk.md), which is the risk of rare events that lie outside the normal expectations of return distribution. [Tail risk](../t/tail_risk.md) measures such as Value at Risk (VaR) and Conditional Value at Risk (CVaR) become crucial in such scenarios.
 
 4. **Strategy Calibration**: Algorithms need to be calibrated to account for the negative skewness particularly under different market conditions. Machine learning models such as reinforcement learning can be trained to adaptively tailor strategies that mitigate the impact of negative skewness.
 
@@ -47,14 +47,14 @@ Consider a high-frequency trading (HFT) algorithm that exploits minute pricing i
 ### Mitigating Negative Skewness
 
 1. **Diversification**: Diversifying the portfolio across uncorrelated asset classes can help in offsetting the impact of a negatively skewed asset class.
-2. **Hedging**: Utilizing hedging strategies, including derivatives like options, can protect against large downside risks.
-3. **Algorithm Adjustment**: Tuning the algorithms to incorporate risk-adjusted metrics that penalize negative skewness can help in generating more robust trading strategies.
+2. **Hedging**: Utilizing [hedging strategies](../h/hedging_strategies.md), including [derivatives](../d/derivatives.md) like options, can protect against large downside risks.
+3. **Algorithm Adjustment**: Tuning the algorithms to incorporate risk-adjusted metrics that penalize negative skewness can help in generating more robust [trading strategies](../t/trading_strategies.md).
 
 ### Case Studies and Real-world Examples
 
 #### Renaissance Technologies
 
-Renaissance Technologies, a pioneer in the field of quantitative trading, focuses on statistical anomalies that often result in negatively skewed distributions. Through their sophisticated and proprietary algorithms, they successfully account for and manage the risks associated with negative skewness.
+Renaissance Technologies, a pioneer in the field of [quantitative trading](../q/quantitative_trading.md), focuses on statistical anomalies that often result in negatively skewed distributions. Through their sophisticated and [proprietary algorithms](../p/proprietary_algorithms.md), they successfully account for and manage the risks associated with negative skewness.
 
 For more details, visit [Renaissance Technologies](https://www.rentec.com/).
 
@@ -66,5 +66,5 @@ For more details, visit [Bridgewater Associates](https://www.bridgewater.com/).
 
 ### Conclusion
 
-Understanding negative skewness is vital for creating robust algorithmic trading strategies. Negative skewness poses unique challenges, primarily due to the higher risk of significant losses. Effective risk management, diversification, hedging, and strategy calibration are essential to mitigate these risks. As the field of algorithmic trading continues to evolve, incorporating advanced statistical measures like skewness into algorithms will be indispensable for achieving sustainable returns.
+Understanding negative skewness is vital for creating robust [algorithmic trading](../a/algorithmic_trading.md) strategies. Negative skewness poses unique challenges, primarily due to the higher risk of significant losses. Effective [risk management](../r/risk_management.md), diversification, hedging, and strategy calibration are essential to mitigate these risks. As the field of [algorithmic trading](../a/algorithmic_trading.md) continues to evolve, incorporating advanced statistical measures like skewness into algorithms will be indispensable for achieving sustainable returns.
 

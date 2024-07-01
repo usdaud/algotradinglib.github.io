@@ -6,19 +6,19 @@ The Zero Lower Bound (ZLB) is an economic theory concerning the minimum level to
 
 1. **Limits Traditional Monetary Policy Tools**: 
     - **Interest Rates**: Central banks lower interest rates to boost economic activity. At the ZLB, this tool becomes ineffective because nominal interest rates cannot go significantly below zero.
-    - **Liquidity Trap**: When the central bank injects money into the economy, but demand for money does not increase as expected, it can result in a liquidity trap. This is common when rates are near zero, reducing the effectiveness of monetary policy.
+    - **[Liquidity Trap](../l/liquidity_trap.md)**: When the central bank injects money into the economy, but demand for money does not increase as expected, it can result in a [liquidity trap](../l/liquidity_trap.md). This is common when rates are near zero, reducing the effectiveness of monetary policy.
 
 2. **Third-Party Effects**: 
     - **Banks and Financial Institutions**: Financial institutions may be hesitant to lend money at very low or negative interest rates, impacting overall economic expansion.
     - **Consumer Behavior**: Consumers may perceive near-zero interest rates as a sign of economic distress, causing them to save rather than spend, which can further stagnate economic growth.
 
 3. **Policy Actions and Economic Stability**:
-   - **Unconventional Measures**: Central banks may need to employ unconventional monetary policy tools, such as Quantitative Easing (QE), forward guidance, and negative interest rates.
+   - **Unconventional Measures**: Central banks may need to employ unconventional monetary policy tools, such as [Quantitative Easing](../q/quantitative_easing.md) (QE), forward guidance, and negative interest rates.
    - **Policy Coordination**: Coordination with fiscal policy becomes crucial to stimulate economic growth comprehensively.
 
 ### Strategies Overcoming Zero Lower Bound
 
-1. **Quantitative Easing (QE)**
+1. **[Quantitative Easing](../q/quantitative_easing.md) (QE)**
    - **Definition**: QE involves central banks purchasing longer-term securities in the open market to increase the money supply and encourage lending and investment.
    - **Implementation**: By purchasing assets, central banks inject liquidity into the economy, lowering interest rates on long-term securities and encouraging spending and investment.
 

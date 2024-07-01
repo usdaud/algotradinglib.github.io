@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Recursive filters are essential tools in the domain of algorithmic trading, particularly for their ability to process real-time streaming data efficiently. They are used primarily to smooth price series, remove noise, and generate signals based on continuous data inputs. Recursive filters apply a formula involving the current input and the previous output to calculate the current output, making them computationally feasible for high-frequency trading applications where timely and fast processing is critical.
+Recursive filters are essential tools in the domain of [algorithmic trading](../a/algorithmic_trading.md), particularly for their ability to process real-time streaming data efficiently. They are used primarily to smooth price series, remove noise, and generate signals based on continuous data inputs. Recursive filters apply a formula involving the current input and the previous output to calculate the current output, making them computationally feasible for high-frequency trading applications where timely and fast processing is critical.
 
 ## Types of Recursive Filters
 
@@ -39,7 +39,7 @@ The Kalman Filter is effective for trading as it can dynamically adjust to new m
 
 ### Butterworth Filter
 
-A Butterworth filter is designed to have a frequency response as flat as possible in the passband. It is often used in trading systems to remove high-frequency noise from stock prices.
+A Butterworth filter is designed to have a frequency response as flat as possible in the passband. It is often used in [trading systems](../t/trading_systems.md) to remove high-frequency noise from stock prices.
 
 The transfer function for an nth-order Butterworth filter is:
 
@@ -58,11 +58,11 @@ One of the primary applications of recursive filters in trading is noise reducti
 
 ### Trading Signals
 
-Recursive filters can be used to generate trading signals. For example, a common strategy is the Moving Average Crossover. When a short-term EMA crosses above a long-term EMA, it generates a buy signal. Conversely, when a short-term EMA crosses below a long-term EMA, it generates a sell signal.
+Recursive filters can be used to generate [trading signals](../t/trading_signals.md). For example, a common strategy is the Moving Average Crossover. When a short-term EMA crosses above a long-term EMA, it generates a buy signal. Conversely, when a short-term EMA crosses below a long-term EMA, it generates a sell signal.
 
 ### Predictive Modeling
 
-Filters like the Kalman Filter are used not only for noise reduction but also for predictive modeling. They estimate the state of a market variable (e.g., price, volatility) based on a combination of current and past data. This makes them suitable for forecasting and in models requiring real-time updates.
+Filters like the Kalman Filter are used not only for noise reduction but also for [predictive modeling](../p/predictive_modeling.md). They estimate the state of a market variable (e.g., price, volatility) based on a combination of current and past data. This makes them suitable for forecasting and in models requiring real-time updates.
 
 ### High-Frequency Trading
 
@@ -84,4 +84,4 @@ Markets are dynamic; hence, there’s a need for adaptive filtering techniques. 
 
 ## Conclusion
 
-Recursive filters are indispensable tools in algorithmic trading, providing capabilities for smoothing, noise reduction, and signal generation. Selecting and implementing the right filter requires understanding the underlying mechanics and careful parameter tuning. As financial markets continue to evolve, these filters will remain a cornerstone of sophisticated trading strategies, bridging the gap between raw data and actionable insights. Whether for straightforward moving averages or more complex Kalman filtering, mastering recursive filters offers a distinct edge in the fast-paced world of trading.
+Recursive filters are indispensable tools in [algorithmic trading](../a/algorithmic_trading.md), providing capabilities for smoothing, noise reduction, and signal generation. Selecting and implementing the right filter requires understanding the underlying mechanics and careful parameter tuning. As financial markets continue to evolve, these filters will remain a cornerstone of sophisticated [trading strategies](../t/trading_strategies.md), bridging the gap between raw data and actionable insights. Whether for straightforward moving averages or more complex Kalman filtering, mastering recursive filters offers a distinct edge in the fast-paced world of trading.

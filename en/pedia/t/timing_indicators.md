@@ -1,6 +1,6 @@
 # Timing Indicators
 
-Timing indicators are crucial tools used in algorithmic trading (also known as "algotrading") to determine the optimal moments for entering and exiting trades. These indicators are mathematical or statistical metrics derived from historical and real-time market data. They aim to enhance the effectiveness of trading strategies by predicting potential market movements. This document will delve into various types of timing indicators, their methodologies, how they are implemented in algorithmic trading systems, and their specific use cases.
+Timing indicators are crucial tools used in [algorithmic trading](../a/algorithmic_trading.md) (also known as "algotrading") to determine the optimal moments for entering and exiting trades. These indicators are mathematical or statistical metrics derived from historical and [real-time market data](../r/real-time_market_data.md). They aim to enhance the effectiveness of [trading strategies](../t/trading_strategies.md) by predicting potential market movements. This document will delve into various types of timing indicators, their methodologies, how they are implemented in [algorithmic trading](../a/algorithmic_trading.md) systems, and their specific use cases.
 
 ## Types of Timing Indicators
 
@@ -61,7 +61,7 @@ Where the volume is added if the closing price is higher than the previous close
 ## Implementation in Algorithmic Trading
 
 ### Data Collection and Processing
-In the context of algorithmic trading, timing indicators are implemented via computer algorithms that collect and process large datasets in real-time. These datasets include historical market data, real-time price quotes, volume information, and other relevant financial metrics.
+In the context of [algorithmic trading](../a/algorithmic_trading.md), timing indicators are implemented via computer algorithms that collect and process large datasets in real-time. These datasets include historical market data, real-time price quotes, volume information, and other relevant financial metrics.
 
 **Companies:**
 - [QuantConnect](https://www.quantconnect.com/)
@@ -87,16 +87,16 @@ Algorithms are then deployed on trading platforms that execute these strategies 
 ## Specific Use Cases
 
 ### Arbitrage
-Arbitrage strategies often use timing indicators to exploit price differences of the same asset in different markets. 
+[Arbitrage](../a/arbitrage.md) strategies often use timing indicators to exploit price differences of the same asset in different markets. 
 
 ### Mean Reversion
-Indicators like RSI are used in mean reversion strategies where the main assumption is that prices will revert to their mean over time.
+Indicators like RSI are used in [mean reversion](../m/mean_reversion.md) strategies where the main assumption is that prices will revert to their mean over time.
 
 ### Trend Following
-MACD and moving averages are often used in trend following strategies that aim to capitalize on market momentum.
+MACD and moving averages are often used in [trend following](../t/trend_following.md) strategies that aim to capitalize on market momentum.
 
 ### Risk Management
-Timing indicators also play a critical role in risk management. For instance, Bollinger Bands can help detect high volatility periods where risk is elevated.
+Timing indicators also play a critical role in [risk management](../r/risk_management.md). For instance, [Bollinger Bands](../b/bollinger_bands.md) can help detect high volatility periods where risk is elevated.
 
 ### High-Frequency Trading (HFT)
 In HFT, algorithms use sophisticated timing indicators to execute trades at sub-millisecond speeds, often profiting from minute price discrepancies.
@@ -116,7 +116,7 @@ Strategies that perform well on historical data may not necessarily be effective
 Algorithms must adhere to trading regulations and avoid practices like spoofing or layering which are illegal.
 
 ## Conclusion
-Timing indicators serve as foundational tools in the realm of algorithmic trading, offering insights into market conditions and guiding the execution of trades. Their accurate implementation can significantly influence trading outcomes, driving profitability while managing risk.
+Timing indicators serve as foundational tools in the realm of [algorithmic trading](../a/algorithmic_trading.md), offering insights into market conditions and guiding the execution of trades. Their accurate implementation can significantly influence trading outcomes, driving profitability while managing risk.
 
 For further exploration and tools:
 - [QuantInsti](https://www.quantinsti.com/)

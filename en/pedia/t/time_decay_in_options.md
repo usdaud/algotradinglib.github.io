@@ -4,7 +4,7 @@ Time decay, also known as Theta, is a critical concept in options trading that q
 
 ### Understanding Time Decay (Theta)
 
-Time decay is intrinsic to the nature of options. Options contracts are derivatives that give the holder the right, but not the obligation, to buy or sell an underlying asset at a predetermined price before or on the expiration date. The value of an option consists of intrinsic value and extrinsic value (also called time value). The intrinsic value is the difference between the underlying asset's current price and the option's strike price. The extrinsic value represents the premium paid for the option's potential to gain intrinsic value before expiration, and this part erodes over time, giving rise to time decay. 
+Time decay is intrinsic to the nature of options. Options contracts are [derivatives](../d/derivatives.md) that give the holder the right, but not the obligation, to buy or sell an underlying asset at a predetermined price before or on the expiration date. The value of an option consists of intrinsic value and extrinsic value (also called time value). The intrinsic value is the difference between the underlying asset's current price and the option's strike price. The extrinsic value represents the premium paid for the option's potential to gain intrinsic value before expiration, and this part erodes over time, giving rise to time decay. 
 
 ### Calculation of Theta
 
@@ -37,7 +37,7 @@ A calendar spread involves buying and selling options with different expiration 
 This strategy involves using multiple option contracts to profit from minimal price movement in the underlying asset. It benefits from time decay as the positions are designed to capitalize on the expiration of near-the-money options.
 
 **Iron Condors:**
-An iron condor is a more advanced strategy that consists of selling both a call spread and a put spread. It is designed to profit from low volatility and time decay as all options in the position lose value approaching expiration.
+An [iron condor](../i/iron_condor.md) is a more advanced strategy that consists of selling both a call spread and a put spread. It is designed to profit from low volatility and time decay as all options in the position lose value approaching expiration.
 
 ### Risk Management and Time Decay
 
@@ -51,14 +51,14 @@ Managing risk in the context of time decay is crucial for maintaining a successf
 
 The application of advanced analytical tools and algorithms has transformed options trading, particularly with respect to managing time decay:
 
-**Algorithmic Trading:**
-Algorithmic trading systems can efficiently monitor and respond to time decay across multiple options contracts, optimizing entry and exit points based on real-time data and mathematical models.
+**[Algorithmic Trading](../a/algorithmic_trading.md):**
+[Algorithmic trading](../a/algorithmic_trading.md) systems can efficiently monitor and respond to time decay across multiple options contracts, optimizing entry and exit points based on real-time data and mathematical models.
 
 **Theta-Optimized Trading Platforms:**
 Several trading platforms provide tools specifically designed to manage Theta. Examples include ThinkOrSwim by TD Ameritrade and OptionsHouse by E*TRADE.
 
-**Backtesting:**
-Backtesting engines allow traders to simulate different scenarios and strategies to understand the impact of time decay on potential trades.
+**[Backtesting](../b/backtesting.md):**
+[Backtesting](../b/backtesting.md) engines allow traders to simulate different scenarios and strategies to understand the impact of time decay on potential trades.
 
 ### Conclusion
 

@@ -23,9 +23,9 @@ Where:
 
 ### Application in Algorithmic Trading
 
-In algorithmic trading (algo trading), the decomposition of rate of return can help:
+In [algorithmic trading](../a/algorithmic_trading.md) (algo trading), the decomposition of rate of return can help:
 
-1. **Performance Attribution**: Identify which algo strategies performed well and why. For instance, was performance driven by capital gains or income returns?
+1. **[Performance Attribution](../p/performance_attribution.md)**: Identify which algo strategies performed well and why. For instance, was performance driven by capital gains or income returns?
 2. **Risk Assessment**: Understand the risks associated with various components of return. A high dependency on capital gains can increase volatility.
 3. **Strategy Optimization**: Modify algorithms to maximize the more reliable components of returns like income returns or to better hedge against adverse currency movements.
 
@@ -34,7 +34,7 @@ In algorithmic trading (algo trading), the decomposition of rate of return can h
 Advanced models go beyond the basic decomposition formula. They incorporate multiple layers and factors to provide a more granular view of returns. Some of these methods include:
 
 #### 1. **Factor Models**
-Factor models such as the Fama-French Three Factor Model decompose returns based on factors like:
+[Factor models](../f/factor_models.md) such as the Fama-French Three Factor Model decompose returns based on factors like:
 - Market Risk (Beta)
 - Size (Small Minus Big, SMB)
 - Value (High minus Low, HML)
@@ -46,15 +46,15 @@ This considers how returns can accrue or compound over different periods. It is 
 Attribution Analysis further breaks down returns by attributing them to specific decisions or market conditions. This analysis often covers:
 - Stock Selection
 - Sector Selection
-- Market Timing
+- [Market Timing](../m/market_timing.md)
 
 ### Real-World Applications
 
 Many financial institutions and firms provide tools and platforms for rate of return decomposition. These include:
 
 - **Bloomberg Terminal**: Widely used for its comprehensive analytical tools.
-- **Morningstar Direct**: Offers performance and risk analysis tools tailored for investment professionals.
-- **FactSet**: Provides detailed performance attribution and risk analysis capabilities.
+- **Morningstar Direct**: Offers performance and [risk analysis](../r/risk_analysis.md) tools tailored for investment professionals.
+- **FactSet**: Provides detailed [performance attribution](../p/performance_attribution.md) and [risk analysis](../r/risk_analysis.md) capabilities.
 
 For more details, check the following company pages:
 - [Bloomberg Terminal: Bloomberg Professional Services](https://www.bloomberg.com/professional/)
@@ -63,4 +63,4 @@ For more details, check the following company pages:
 
 ### Conclusion
 
-Rate of return decomposition is an indispensable tool in financial analysis and algorithmic trading. By breaking down the overall returns into their constituent parts, investors and traders can gain deeper insights, make better decisions, and enhance their trading algorithms for improved performance.
+Rate of return decomposition is an indispensable tool in financial analysis and [algorithmic trading](../a/algorithmic_trading.md). By breaking down the overall returns into their constituent parts, investors and traders can gain deeper insights, make better decisions, and enhance their [trading algorithms](../t/trading_algorithms.md) for improved performance.

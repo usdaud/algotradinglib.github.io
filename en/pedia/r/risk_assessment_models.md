@@ -1,6 +1,6 @@
 ## Risk Assessment Models in Algorithmic Trading
 
-Algorithmic trading, often referred to as algo-trading, is the use of computer algorithms to manage trading activities in financial markets. One of the most critical aspects of algorithmic trading is managing risk. Risk assessment models form the backbone of a robust risk management framework, enabling traders to anticipate potential losses and make informed decisions. This section delves into various risk assessment models used in algorithmic trading, their methodologies, and practical applications.
+[Algorithmic trading](../a/algorithmic_trading.md), often referred to as algo-trading, is the use of computer algorithms to manage trading activities in financial markets. One of the most critical aspects of [algorithmic trading](../a/algorithmic_trading.md) is managing risk. Risk assessment models form the backbone of a robust [risk management](../r/risk_management.md) framework, enabling traders to anticipate potential losses and make informed decisions. This section delves into various risk assessment models used in [algorithmic trading](../a/algorithmic_trading.md), their methodologies, and practical applications.
 
 ### Value at Risk (VaR)
 
@@ -10,7 +10,7 @@ Value at Risk (VaR) is one of the most widely used risk assessment models in fin
 
 #### Calculation Methods
 
-1. **Historical Simulation**:
+1. **[Historical Simulation](../h/historical_simulation.md)**:
    - Uses historical market data to simulate potential future losses.
    - Assumes that historical returns are indicative of future risks.
    - Advantages: Simple and easy to implement.
@@ -22,8 +22,8 @@ Value at Risk (VaR) is one of the most widely used risk assessment models in fin
    - Advantages: Computationally efficient.
    - Disadvantages: Assumes normal distribution, which may not hold true in real markets.
 
-3. **Monte Carlo Simulation**:
-   - Uses computational algorithms to generate a wide range of possible future scenarios based on random sampling.
+3. **[Monte Carlo Simulation](../m/monte_carlo_simulation.md)**:
+   - Uses [computational algorithms](../c/computational_algorithms.md) to generate a wide range of possible future scenarios based on random sampling.
    - Can handle complex, non-linear risks.
    - Advantages: Flexible and can model more complex distributions.
    - Disadvantages: Computationally intensive.
@@ -36,7 +36,7 @@ Conditional Value at Risk (CVaR), also known as Expected Shortfall, is an extens
 
 #### Calculation Methods
 
-1. **Historical Simulation**:
+1. **[Historical Simulation](../h/historical_simulation.md)**:
    - Similar to VaR, but focuses on the average of losses beyond the VaR threshold.
 
 2. **Optimized CVaR**:
@@ -47,7 +47,7 @@ Conditional Value at Risk (CVaR), also known as Expected Shortfall, is an extens
 
 #### Overview
 
-Stress testing and scenario analysis are techniques used to evaluate how trading strategies perform under extreme yet plausible market conditions. These methods help identify vulnerabilities that may not be apparent under normal market conditions.
+Stress testing and scenario analysis are techniques used to evaluate how [trading strategies](../t/trading_strategies.md) perform under extreme yet plausible market conditions. These methods help identify vulnerabilities that may not be apparent under normal market conditions.
 
 #### Types of Stress Tests
 
@@ -69,7 +69,7 @@ Stress testing and scenario analysis are techniques used to evaluate how trading
 
 #### Overview
 
-Sensitivity analysis examines how changes in market variables impact the performance of trading strategies. It helps in understanding the relationship between different risk factors and potential losses.
+Sensitivity analysis examines how changes in market variables impact the performance of [trading strategies](../t/trading_strategies.md). It helps in understanding the relationship between different risk factors and potential losses.
 
 #### Techniques
 
@@ -89,7 +89,7 @@ Sensitivity analysis examines how changes in market variables impact the perform
 
 #### Overview
 
-Credit risk models assess the likelihood of a counterparty defaulting on a financial obligation. In the context of algorithmic trading, credit risk is especially relevant for derivatives and leveraged positions.
+[Credit risk models](../c/credit_risk_models.md) assess the likelihood of a counterparty defaulting on a financial obligation. In the context of [algorithmic trading](../a/algorithmic_trading.md), credit risk is especially relevant for [derivatives](../d/derivatives.md) and leveraged positions.
 
 #### Key Models
 
@@ -105,17 +105,17 @@ Credit risk models assess the likelihood of a counterparty defaulting on a finan
 
 #### Overview
 
-Liquidity risk models assess the risk associated with the inability to quickly buy or sell assets without significantly affecting their price. Liquidity risk is crucial for algorithmic trading, particularly for high-frequency trading strategies.
+[Liquidity risk](../l/liquidity_risk.md) models assess the risk associated with the inability to quickly buy or sell assets without significantly affecting their price. [Liquidity risk](../l/liquidity_risk.md) is crucial for [algorithmic trading](../a/algorithmic_trading.md), particularly for high-frequency [trading strategies](../t/trading_strategies.md).
 
 #### Key Metrics
 
-1. **Bid-Ask Spread**:
+1. **[Bid-Ask Spread](../b/bid-ask_spread.md)**:
    - The difference between the bid price and the ask price.
-   - A wider bid-ask spread indicates higher liquidity risk.
+   - A wider [bid-ask spread](../b/bid-ask_spread.md) indicates higher [liquidity risk](../l/liquidity_risk.md).
 
 2. **Market Depth**:
    - The volume of orders at different price levels.
-   - Greater market depth implies lower liquidity risk.
+   - Greater market depth implies lower [liquidity risk](../l/liquidity_risk.md).
 
 3. **Price Impact Models**:
    - Measure the effect of trade size on asset prices.
@@ -125,7 +125,7 @@ Liquidity risk models assess the risk associated with the inability to quickly b
 
 #### Overview
 
-Operational risk models examine the risks stemming from internal processes, systems, and human errors. In algorithmic trading, operational risks include system failures, data inaccuracies, and procedural errors.
+Operational risk models examine the risks stemming from internal processes, systems, and human errors. In [algorithmic trading](../a/algorithmic_trading.md), operational risks include system failures, data inaccuracies, and procedural errors.
 
 #### Frameworks
 
@@ -139,9 +139,9 @@ Operational risk models examine the risks stemming from internal processes, syst
 
 ### Conclusion
 
-Risk assessment models are indispensable tools in algorithmic trading, providing a systematic approach to identifying, measuring, and managing various types of risks. By leveraging models such as VaR, CVaR, stress testing, sensitivity analysis, credit risk models, liquidity risk models, and operational risk models, traders can enhance their risk management practices, ensuring more stable and profitable trading strategies.
+Risk assessment models are indispensable tools in [algorithmic trading](../a/algorithmic_trading.md), providing a systematic approach to identifying, measuring, and managing various types of risks. By leveraging models such as VaR, CVaR, stress testing, sensitivity analysis, [credit risk models](../c/credit_risk_models.md), [liquidity risk](../l/liquidity_risk.md) models, and operational risk models, traders can enhance their [risk management](../r/risk_management.md) practices, ensuring more stable and profitable [trading strategies](../t/trading_strategies.md).
 
-For more information on risk assessment models and their applications in algorithmic trading, consider visiting financial firms and institutions that specialize in these areas:
+For more information on risk assessment models and their applications in [algorithmic trading](../a/algorithmic_trading.md), consider visiting financial firms and institutions that specialize in these areas:
 
 - [Goldman Sachs](https://www.goldmansachs.com/)
 - [JP Morgan](https://www.jpmorgan.com/)

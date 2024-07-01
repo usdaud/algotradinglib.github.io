@@ -1,6 +1,6 @@
 # Judgmental Forecast Error in Algo Trading
 
-Judgmental forecast error refers to the inaccuracies and biases that occur when human judgment is applied in the forecasting process. In the context of algorithmic trading (algo trading), these errors can have significant implications for market strategies, trading decisions, and overall financial performance. This document delves into various aspects of judgmental forecast error, its sources, impacts, and mitigation strategies within algo trading.
+Judgmental forecast error refers to the inaccuracies and biases that occur when human judgment is applied in the forecasting process. In the context of [algorithmic trading](../a/algorithmic_trading.md) (algo trading), these errors can have significant implications for market strategies, trading decisions, and overall financial performance. This document delves into various aspects of judgmental forecast error, its sources, impacts, and mitigation strategies within algo trading.
 
 ## Introduction to Judgmental Forecast Error
 Judgmental forecast error arises from the subjective intervention of human understanding in predictive models and data interpretation. Unlike purely statistical errors that result from model imperfections or data noise, judgmental errors stem from cognitive biases, emotional influences, and subjective reasoning. In algo trading, even minor forecast errors can lead to substantial financial losses, making it crucial to understand and address them effectively.
@@ -12,7 +12,7 @@ Several factors contribute to judgmental forecast errors. Understanding these so
 Cognitive biases refer to systematic deviations from rationality in judgment and decision-making. Common cognitive biases include:
 - **Overconfidence Bias**: Traders may overestimate their forecasting abilities, leading to overly optimistic predictions.
 - **Anchoring Bias**: Relying too heavily on initial information (anchor) can skew subsequent forecasts.
-- **Confirmation Bias**: The tendency to seek information that confirms pre-existing beliefs, ignoring contradictory data.
+- **[Confirmation Bias](../c/confirmation_bias.md)**: The tendency to seek information that confirms pre-existing beliefs, ignoring contradictory data.
 
 ### Emotional Influences
 Emotions can significantly impact judgment, often leading to irrational decisions. Factors like fear, greed, and stress can cloud judgment and lead to erroneous forecasts.
@@ -26,13 +26,13 @@ Heuristics are mental shortcuts used for problem-solving. While they can be usef
 - **Representativeness Heuristic**: Assessing the probability of an event based on its similarity to a prototype.
 
 ## Impact of Judgmental Forecast Error on Algo Trading
-In algo trading, the accuracy of forecasts directly influences trading strategies and outcomes. Here are several ways judgmental forecast error impacts algo trading:
+In algo trading, the accuracy of forecasts directly influences [trading strategies](../t/trading_strategies.md) and outcomes. Here are several ways judgmental forecast error impacts algo trading:
 
 ### Financial Losses
 Inaccurate forecasts can lead to suboptimal trading decisions, resulting in significant financial losses. For instance, overestimating the future price of an asset might lead to premature buying or holding, while underestimating it might result in missed opportunities.
 
 ### Strategy Misalignment
-Algo trading strategies rely heavily on forecast accuracy. Judgmental errors can cause a misalignment between the strategy and market conditions, leading to inefficiencies and underperformance.
+Algo [trading strategies](../t/trading_strategies.md) rely heavily on [forecast accuracy](../f/forecast_accuracy.md). Judgmental errors can cause a misalignment between the strategy and market conditions, leading to inefficiencies and underperformance.
 
 ### Increased Risk
 Foreseeing market movements inaccurately elevates risk exposure. Judgmental errors can skew risk assessments, leading to either excessive risk-taking or unnecessary risk aversion.
@@ -47,10 +47,10 @@ Given the significant impact of judgmental forecast errors, it is critical to em
 Automated systems and algorithmic models minimize human intervention, thereby reducing judgmental errors. These systems rely on data-driven algorithms, which offer objective and consistent forecasts.
 
 ### Use of Ensemble Methods
-Combining multiple forecasting models (ensemble methods) can enhance prediction accuracy. By averaging the outputs of various models, the impact of individual biases and errors is reduced.
+Combining multiple [forecasting models](../f/forecasting_models.md) (ensemble methods) can enhance prediction accuracy. By averaging the outputs of various models, the impact of individual biases and errors is reduced.
 
 ### Regular Backtesting and Validation
-Regular backtesting and validation of forecasting models help identify and correct biases and errors. This process involves comparing forecasts with actual market outcomes to assess accuracy and adjust models accordingly.
+Regular [backtesting](../b/backtesting.md) and validation of [forecasting models](../f/forecasting_models.md) help identify and correct biases and errors. This process involves comparing forecasts with actual market outcomes to assess accuracy and adjust models accordingly.
 
 ### Incorporating Human Oversight
 While automation reduces judgmental errors, incorporating human oversight ensures that subjective insights are still considered. A balance between automated systems and expert judgment can enhance forecast robustness.

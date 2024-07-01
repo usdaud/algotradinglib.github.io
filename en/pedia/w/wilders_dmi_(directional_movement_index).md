@@ -1,6 +1,6 @@
 # Wilder's Directional Movement Index (DMI)
 
-The Directional Movement Index (DMI), developed by J. Welles Wilder, is a technical indicator that estimates the strength and direction of a trend. It aids in identifying whether a security is trending and how strong that trend is. Traders often use DMI to make trading decisions and to develop trading strategies.
+The Directional Movement Index (DMI), developed by J. Welles Wilder, is a technical indicator that estimates the strength and direction of a trend. It aids in identifying whether a security is trending and how strong that trend is. Traders often use DMI to make trading decisions and to develop [trading strategies](../t/trading_strategies.md).
 
 ## Components of DMI
 
@@ -79,7 +79,7 @@ When ADX is below 20, it may be an indication of a range-bound market. Strategie
 
 The Directional Movement Index is a powerful and versatile tool for assessing trend strength and direction. While it has its limitations, when combined with other indicators and sound trading principles, it can significantly enhance trading decisions.
 
-For more detailed information on technical indicators and trading strategies, you can explore resources from financial institutions and trading platforms such as:
+For more detailed information on [technical indicators](../t/technical_indicators.md) and [trading strategies](../t/trading_strategies.md), you can explore resources from financial institutions and trading platforms such as:
 - [Investopedia](https://www.investopedia.com)
 - [TradingView](https://www.tradingview.com)
 - [StockCharts](https://stockcharts.com) 

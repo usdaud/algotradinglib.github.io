@@ -2,7 +2,7 @@ Event-driven trading is a sophisticated strategy that aims to identify and capit
 
 ### Types of Events
 
-1. **Earnings Announcements**
+1. **[Earnings Announcements](../e/earnings_announcements.md)**
     - Companies release their earnings reports quarterly, providing crucial information about their financial performance. Traders analyze these reports to ascertain whether the company has met, exceeded, or fallen short of market expectations. Natural market movements follow, as stock prices adjust to new information.
 
 2. **Mergers and Acquisitions**
@@ -25,21 +25,21 @@ Traders use advanced news analytics tools to sift through massive amounts of dat
 
 #### Event Databases
 
-Event databases compile historical and real-time event information, aiding traders' decision-making processes. These databases are integrated into trading algorithms, allowing for back-testing strategies on historical data to assess their potential success.
+Event databases compile historical and real-time event information, aiding traders' decision-making processes. These databases are integrated into [trading algorithms](../t/trading_algorithms.md), allowing for back-testing strategies on historical data to assess their potential success.
 
 #### Algorithms and Models
 
-Event-driven trading often employs complex algorithms that automate the process of detecting events and executing trades. These algorithms integrate data from news analytics, social media, and event databases to make split-second decisions. Models can be built around historical patterns, sentiment analysis, and prediction algorithms to optimize trades.
+Event-driven trading often employs complex algorithms that automate the process of detecting events and executing trades. These algorithms integrate data from news analytics, social media, and event databases to make split-second decisions. Models can be built around historical patterns, [sentiment analysis](../s/sentiment_analysis.md), and prediction algorithms to optimize trades.
 
 #### Risk Management
 
-Given the volatility associated with event-driven trading, robust risk management practices are essential. These practices might include setting stop-loss orders, diversifying portfolios, and employing hedging strategies.
+Given the volatility associated with event-driven trading, robust [risk management](../r/risk_management.md) practices are essential. These practices might include setting [stop-loss orders](../s/stop-loss_orders.md), diversifying portfolios, and employing [hedging strategies](../h/hedging_strategies.md).
 
 ### Detailed Examples
 
 #### Earnings Announcements
 
-A good example of how earnings announcements affect trading can be seen in the tech sector. When a company like Apple Inc. releases its quarterly earnings, traders keenly analyze the report for indicators such as revenue, net income, and future forecasts. If Apple exceeds expectations, its stock may see a significant uptick. Conversely, if it falls short, a rapid sell-off might follow. Algorithms can be employed to enter positions based on pre-release sentiment analysis and immediate post-release data, ensuring rapid responses to the new information.
+A good example of how [earnings announcements](../e/earnings_announcements.md) affect trading can be seen in the tech sector. When a company like Apple Inc. releases its quarterly earnings, traders keenly analyze the report for indicators such as revenue, net income, and future forecasts. If Apple exceeds expectations, its stock may see a significant uptick. Conversely, if it falls short, a rapid sell-off might follow. Algorithms can be employed to enter positions based on pre-release [sentiment analysis](../s/sentiment_analysis.md) and immediate post-release data, ensuring rapid responses to the new information.
 
 #### Mergers and Acquisitions
 
@@ -51,7 +51,7 @@ Modern event-driven strategies heavily depend on the use of advanced trading pla
 
 #### Quantitative Analysis and Machine Learning
 
-Quantitative analysis and machine learning models play a pivotal role in event-driven trading. These tools analyze vast datasets to detect patterns that human traders might miss. Platforms like [Numerai](https://numer.ai/) crowdsource intelligence from data scientists around the world to build predictive models, providing a unique way to harness collective intelligence for event-driven strategies.
+[Quantitative analysis](../q/quantitative_analysis.md) and machine learning models play a pivotal role in event-driven trading. These tools analyze vast datasets to detect patterns that human traders might miss. Platforms like [Numerai](https://numer.ai/) crowdsource intelligence from data scientists around the world to build predictive models, providing a unique way to harness collective intelligence for event-driven strategies.
 
 #### Real-Life Applications
 
@@ -71,12 +71,12 @@ High-quality, reliable data is critical. Errors or delays in data can lead to in
 
 #### Market Impact
 
-Large trades based on event-driven strategies can significantly impact the market. Traders must be cautious of this potential and often use techniques such as algorithmic execution to minimize their footprint and avoid excessive slippage and market disruption.
+Large trades based on event-driven strategies can significantly impact the market. Traders must be cautious of this potential and often use techniques such as [algorithmic execution](../a/algorithmic_execution.md) to minimize their footprint and avoid excessive slippage and market disruption.
 
 #### Regulatory Environment
 
-Event-driven trading strategies must always operate within the bounds of regulatory frameworks. Bodies like the SEC closely monitor trading activities to prevent and punish market abuse, such as insider trading. Algorithms and trading strategies are rigorously audited to ensure compliance with all applicable laws and guidelines.
+Event-driven [trading strategies](../t/trading_strategies.md) must always operate within the bounds of regulatory frameworks. Bodies like the SEC closely monitor trading activities to prevent and punish market abuse, such as insider trading. Algorithms and [trading strategies](../t/trading_strategies.md) are rigorously audited to ensure compliance with all applicable laws and guidelines.
 
 ### Conclusion
 
-Event-driven trading offers an exciting intersection between finance and technology, allowing traders to capitalize on market-moving events with precision and speed. The strategy requires a deep understanding of market mechanics, sophisticated technology, and robust risk management. As technologies like machine learning and AI continue to evolve, the capabilities and complexities of event-driven trading will likely grow, offering new opportunities and challenges for traders and financial institutions alike.
+Event-driven trading offers an exciting intersection between finance and technology, allowing traders to capitalize on market-moving events with precision and speed. The strategy requires a deep understanding of market mechanics, sophisticated technology, and robust [risk management](../r/risk_management.md). As technologies like machine learning and AI continue to evolve, the capabilities and complexities of event-driven trading will likely grow, offering new opportunities and challenges for traders and financial institutions alike.

@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Algorithmic trading, also known as algo-trading or black-box trading, leverages computer programs to execute trades at speeds and frequencies that are impossible for a human trader to achieve. This practice involves the use of automated pre-programmed trading instructions accounting for variables such as time, price, and volume. A crucial yet often overlooked aspect of algorithmic trading is unexecuted trade analysis.
+[Algorithmic trading](../a/algorithmic_trading.md), also known as algo-trading or black-box trading, leverages computer programs to execute trades at speeds and frequencies that are impossible for a human trader to achieve. This practice involves the use of automated pre-programmed trading instructions accounting for variables such as time, price, and volume. A crucial yet often overlooked aspect of [algorithmic trading](../a/algorithmic_trading.md) is unexecuted trade analysis.
 
 ## Unexecuted Trade Analysis: An Overview
 
@@ -19,7 +19,7 @@ Understanding why these trades were not executed can provide significant insight
    Latency refers to the delay between the signal generation by the algorithm and the execution of the trade. In high-frequency trading (HFT), even a millisecond delay can result in missed trading opportunities.
 
 3. **Risk Constraints**:
-   Risk management rules integrated into the trading algorithm may prevent certain trades from being executed. These constraints could be related to position sizing, stop-loss levels, or maximum permissible drawdowns.
+   [Risk management](../r/risk_management.md) rules integrated into the trading algorithm may prevent certain trades from being executed. These constraints could be related to [position sizing](../p/position_sizing.md), stop-loss levels, or maximum permissible drawdowns.
 
 4. **Order Type Limitations**:
    Different types of orders (market orders, limit orders, stop orders) have varied chances of execution. For instance, a limit order might not be filled if the market price doesn't reach the specified limit, leading to an unexecuted trade.
@@ -35,7 +35,7 @@ Understanding why these trades were not executed can provide significant insight
 2. **Slippage Analysis**:
    Analyzing the difference between expected and actual prices during periods of unexecuted trades can help quantify the impact of slippage and develop measures to mitigate it.
 
-3. **Historical Backtesting**:
+3. **Historical [Backtesting](../b/backtesting.md)**:
    Running historical backtests which include both executed and unexecuted trades can offer a comparative view of the strategy’s performance and identify potential missed opportunities.
 
 4. **Monte Carlo Simulations**:
@@ -69,7 +69,7 @@ Based on these insights:
 
 - Latency optimization strategies, including more efficient coding and hardware upgrades, were implemented.
 - A dynamic adjustment mechanism for slippage tolerance based on volatility measures was introduced.
-- Risk management parameters were adjusted to reflect more lenient constraints during periods of increased volatility.
+- [Risk management](../r/risk_management.md) parameters were adjusted to reflect more lenient constraints during periods of increased volatility.
 
 Post these amendments, the unexecuted trade rate fell from 15% to 8% in subsequent testing periods, showing a marked improvement in the algorithm’s performance.
 
@@ -84,12 +84,12 @@ Post these amendments, the unexecuted trade rate fell from 15% to 8% in subseque
 3. **Statistical Analysis Packages**:
    R, Python (with libraries such as Pandas, NumPy, and SciPy), and SAS are pivotal in conducting rigorous statistical analyses of unexecuted trades.
 
-4. **Backtesting Platforms**:
-   Platforms like QuantConnect and AlgoTrader allow for comprehensive backtesting, including unexecuted trades scenario modeling.
+4. **[Backtesting](../b/backtesting.md) Platforms**:
+   Platforms like QuantConnect and AlgoTrader allow for comprehensive [backtesting](../b/backtesting.md), including unexecuted trades scenario modeling.
 
 5. **Simulation Tools**:
-   Monte Carlo simulation frameworks can be built using Python or R and integrated into trading strategies to estimate the impact of random market conditions on unexecuted trades.
+   [Monte Carlo simulation](../m/monte_carlo_simulation.md) frameworks can be built using Python or R and integrated into [trading strategies](../t/trading_strategies.md) to estimate the impact of random market conditions on unexecuted trades.
 
 ## Conclusion
 
-Unexecuted trade analysis is an essential yet often overlooked aspect of algorithmic trading. By understanding and addressing the reasons behind unexecuted trades, traders can significantly enhance the effectiveness of their trading algorithms. This analysis requires a multi-faceted approach, employing a variety of data analysis techniques and tools to identify the root causes and implement effective solutions. Ultimately, the goal is to reduce the frequency of missed opportunities, thereby improving the overall performance and profitability of the trading strategy.
+Unexecuted trade analysis is an essential yet often overlooked aspect of [algorithmic trading](../a/algorithmic_trading.md). By understanding and addressing the reasons behind unexecuted trades, traders can significantly enhance the effectiveness of their [trading algorithms](../t/trading_algorithms.md). This analysis requires a multi-faceted approach, employing a variety of [data analysis techniques](../d/data_analysis_techniques.md) and tools to identify the root causes and implement effective solutions. Ultimately, the goal is to reduce the frequency of missed opportunities, thereby improving the overall performance and profitability of the trading strategy.

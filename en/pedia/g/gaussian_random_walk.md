@@ -1,6 +1,6 @@
 ### Gaussian Random Walk
 
-Gaussian Random Walk (GRW) is a mathematical model that describes a path consisting of a succession of random steps, where the steps are normally distributed. This model is highly relevant in various fields such as physics, finance, and econometrics. It provides a crucial underpinning to models used for predicting asset prices and is integral to the development of algorithms used in algorithmic trading (algotrading).
+Gaussian Random Walk (GRW) is a mathematical model that describes a path consisting of a succession of random steps, where the steps are normally distributed. This model is highly relevant in various fields such as physics, finance, and econometrics. It provides a crucial underpinning to models used for predicting asset prices and is integral to the development of algorithms used in [algorithmic trading](../a/algorithmic_trading.md) (algotrading).
 
 #### Mathematical Definition
 
@@ -26,26 +26,26 @@ Here, \( N(\mu, \sigma^2) \) represents a normal distribution with mean \( \mu \
 
 ##### Stock Prices and Efficient Market Hypothesis
 
-Gaussian Random Walk serves as a fundamental model for stock prices. According to the Efficient Market Hypothesis (EMH), stock prices follow a random walk, implying that price changes are random and cannot be predicted. This randomness is modeled using a Gaussian Random Walk with the assumption that stock prices respond to new information that arrives continuously and randomly.
+Gaussian Random Walk serves as a fundamental model for stock prices. According to the [Efficient Market Hypothesis](../e/efficient_market_hypothesis.md) (EMH), stock prices follow a random walk, implying that price changes are random and cannot be predicted. This randomness is modeled using a Gaussian Random Walk with the assumption that stock prices respond to new information that arrives continuously and randomly.
 
 ##### Derivatives Pricing
 
-In the realm of derivative pricing, GRW forms the basis for more sophisticated models, such as the Black-Scholes model. The Black-Scholes model uses geometric Brownian motion, a continuous-time variant of the Gaussian Random Walk, to price options.
+In the realm of derivative pricing, GRW forms the basis for more sophisticated models, such as the [Black-Scholes model](../b/black-scholes_model.md). The [Black-Scholes model](../b/black-scholes_model.md) uses [geometric Brownian motion](../g/geometric_brownian_motion.md), a continuous-time variant of the Gaussian Random Walk, to price options.
 
 #### Algorithmic Trading
 
-Algorithmic trading (algotrading) leverages mathematical models and algorithms to make trading decisions at high speeds enabled by computers. Gaussian Random Walks are employed in various strategies, including:
+[Algorithmic trading](../a/algorithmic_trading.md) (algotrading) leverages mathematical models and algorithms to make trading decisions at high speeds enabled by computers. Gaussian Random Walks are employed in various strategies, including:
 
-1. **Mean Reversion Strategies**: Identify deviations from the mean, assuming that prices will revert to their historical averages.
-2. **Statistical Arbitrage**: Utilize statistical methods to identify mispricings between correlated assets.
+1. **[Mean Reversion](../m/mean_reversion.md) Strategies**: Identify deviations from the mean, assuming that prices will revert to their historical averages.
+2. **Statistical [Arbitrage](../a/arbitrage.md)**: Utilize statistical methods to identify mispricings between correlated assets.
 
 ##### Example: Pairs Trading
 
-Pairs Trading involves matching a long position with a short position in two highly correlated stocks, assuming that any deviation from their historical correlation is temporary. Gaussian Random Walk models help in identifying and quantifying these deviations.
+[Pairs Trading](../p/pairs_trading.md) involves matching a long position with a short position in two highly correlated stocks, assuming that any deviation from their historical correlation is temporary. Gaussian Random Walk models help in identifying and quantifying these deviations.
 
 #### Practical Consideration: Parameter Estimation
 
-Accurately estimating parameters \( \mu \) and \( \sigma \) from historical data is crucial for implementing models based on Gaussian Random Walks. Techniques such as Maximum Likelihood Estimation (MLE) are frequently used.
+Accurately estimating parameters \( \mu \) and \( \sigma \) from historical data is crucial for implementing models based on Gaussian Random Walks. Techniques such as [Maximum Likelihood Estimation](../m/maximum_likelihood_estimation.md) (MLE) are frequently used.
 
 \[ \hat{\mu} = \frac{1}{n}\sum_{t=1}^n \Delta X_t \]
 \[ \hat{\sigma}^2 = \frac{1}{n-1}\sum_{t=1}^n (\Delta X_t - \hat{\mu})^2 \]
@@ -57,9 +57,9 @@ Accurately estimating parameters \( \mu \) and \( \sigma \) from historical data
 
 #### Extensions and Alternatives
 
-1. **Geometric Brownian Motion (GBM)**: Extends GRW to continuous time and multiplicative processes.
-2. **GARCH Models**: Captures volatility clustering and varying volatility over time.
-3. **Jump Diffusion Models**: Incorporates sudden jumps in asset prices, providing a more realistic alternative to the GRW model.
+1. **[Geometric Brownian Motion](../g/geometric_brownian_motion.md) (GBM)**: Extends GRW to continuous time and multiplicative processes.
+2. **[GARCH Models](../g/garch_models.md)**: Captures [volatility clustering](../v/volatility_clustering.md) and varying volatility over time.
+3. **[Jump Diffusion Models](../j/jump_diffusion_models.md)**: Incorporates sudden jumps in asset prices, providing a more realistic alternative to the GRW model.
 
 #### Implementing in Python
 
@@ -94,8 +94,8 @@ plt.show()
 #### Further Reading and Resources
 
 1. **Books**
-   - "Options, Futures, and Other Derivatives" by John C. Hull
-   - "The Concepts and Practice of Mathematical Finance" by Mark S. Joshi
+   - "Options, Futures, and Other [Derivatives](../d/derivatives.md)" by John C. Hull
+   - "The Concepts and Practice of [Mathematical Finance](../m/mathematical_finance.md)" by Mark S. Joshi
 
 2. **Online Courses**
    - Coursera: [Financial Engineering and Risk Management](https://www.coursera.org/learn/financial-engineering-risk-management)
@@ -104,4 +104,4 @@ plt.show()
 3. **Research Papers**
    - Fama, E. F. (1965). "Random Walks in Stock Market Prices". Financial Analysts Journal.
 
-By understanding the Gaussian Random Walk, traders and financial engineers can better interpret market behavior and design more effective trading strategies and models.
+By understanding the Gaussian Random Walk, traders and financial engineers can better interpret market behavior and design more effective [trading strategies](../t/trading_strategies.md) and models.

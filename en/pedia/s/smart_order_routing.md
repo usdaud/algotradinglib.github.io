@@ -1,12 +1,12 @@
 ## Smart Order Routing
 
-Smart Order Routing (SOR) is an advanced algorithmic trading strategy designed to optimize the execution of orders by routing them to the best possible trading venues based on various criteria such as price, liquidity, and speed. SOR is essential in the modern financial market landscape, where liquidity is fragmented across multiple trading venues, including stock exchanges, dark pools, and other alternative trading systems (ATS).
+Smart [Order Routing](../o/order_routing.md) (SOR) is an advanced [algorithmic trading](../a/algorithmic_trading.md) strategy designed to optimize the execution of orders by routing them to the best possible trading venues based on various criteria such as price, liquidity, and speed. SOR is essential in the modern financial market landscape, where liquidity is fragmented across multiple trading venues, including stock exchanges, [dark pools](../d/dark_pools.md), and other alternative [trading systems](../t/trading_systems.md) (ATS).
 
 ### Key Concepts
 
 1. **Order Types**: There are several types of orders in trading, including market orders, limit orders, stop orders, and more. SOR algorithms consider the specifics of these orders to optimize routing.
    
-2. **Trading Venues**: These are the marketplaces where financial instruments are bought and sold. They include major exchanges like the New York Stock Exchange (NYSE) and NASDAQ, as well as dark pools and other ATS.
+2. **Trading Venues**: These are the marketplaces where financial instruments are bought and sold. They include major exchanges like the New York Stock Exchange (NYSE) and NASDAQ, as well as [dark pools](../d/dark_pools.md) and other ATS.
    
 3. **Latency**: This refers to the time delay in the processing of trading orders. Low latency is crucial for SOR as it needs to react in real-time to market conditions.
    
@@ -14,7 +14,7 @@ Smart Order Routing (SOR) is an advanced algorithmic trading strategy designed t
    
 5. **Liquidity**: Availability of buy and sell orders in the market. SOR algorithms aim to maximize the fill rate by tapping into multiple sources of liquidity.
    
-6. **Cost**: Transaction costs, including fees and slippage, are minimized through effective order routing.
+6. **Cost**: Transaction costs, including fees and slippage, are minimized through effective [order routing](../o/order_routing.md).
 
 ### How Smart Order Routing Works
 
@@ -68,7 +68,7 @@ The operation of SOR can be broken down into several steps:
 
 ### Real-World Implementations
 
-1. **Goldman Sachs**: Known for using advanced SOR within their trading systems to ensure they meet best execution requirements for their clients. [Goldman Sachs](https://www.goldmansachs.com/)
+1. **Goldman Sachs**: Known for using advanced SOR within their [trading systems](../t/trading_systems.md) to ensure they meet best execution requirements for their clients. [Goldman Sachs](https://www.goldmansachs.com/)
 
 2. **Morgan Stanley**: Another major player with sophisticated SOR systems, allowing for efficient routing across multiple venues. [Morgan Stanley](https://www.morganstanley.com/)
 
@@ -80,7 +80,7 @@ The operation of SOR can be broken down into several steps:
 
 ### Technologies Behind Smart Order Routing
 
-1. **Algorithmic Trading Engines**: Core systems that power SOR, employing complex algorithms to analyze and execute orders in real-time.
+1. **[Algorithmic Trading](../a/algorithmic_trading.md) Engines**: Core systems that power SOR, employing complex algorithms to analyze and execute orders in real-time.
 
 2. **Low-Latency Networks**: High-speed networks that reduce the time it takes for information to travel between trading venues and the SOR system.
 
@@ -100,8 +100,8 @@ The future of SOR is intricately tied to advancements in technology and market s
 
 3. **Regulatory Developments**: Ongoing changes in market regulations could impact how SOR systems operate, necessitating continuous adaptation.
 
-4. **Market Fragmentation**: As new trading venues and alternative liquidity pools emerge, SOR systems will need to integrate and route across even more destinations.
+4. **Market Fragmentation**: As new trading venues and alternative [liquidity pools](../l/liquidity_pools.md) emerge, SOR systems will need to integrate and route across even more destinations.
 
 5. **User Interfaces**: Improvements in the interfaces will make SOR systems more accessible to a broader range of traders, including retail investors.
 
-In summary, Smart Order Routing is a critical component of modern algorithmic trading, providing substantial benefits in terms of execution quality, cost efficiency, and compliance. As technology and markets evolve, so too will the capabilities and sophistication of SOR systems, making them an indispensable tool for traders and financial institutions alike.
+In summary, Smart [Order Routing](../o/order_routing.md) is a critical component of modern [algorithmic trading](../a/algorithmic_trading.md), providing substantial benefits in terms of execution quality, cost efficiency, and compliance. As technology and markets evolve, so too will the capabilities and sophistication of SOR systems, making them an indispensable tool for traders and financial institutions alike.

@@ -1,6 +1,6 @@
 # Systematic Investment Strategies
 
-Systematic investment strategies, commonly known as "quantitative investing" or "rules-based investing," rely on pre-defined, repeatable processes for selecting and managing investments. These strategies are driven by comprehensive data analysis, sophisticated statistical models, and algorithmic trading systems that aim to identify and capitalize on market inefficiencies. Below, we dive into various aspects and components of systematic investment strategies.
+Systematic investment strategies, commonly known as "[quantitative investing](../q/quantitative_investing.md)" or "rules-based investing," rely on pre-defined, repeatable processes for selecting and managing investments. These strategies are driven by comprehensive data analysis, sophisticated statistical models, and [algorithmic trading](../a/algorithmic_trading.md) systems that aim to identify and capitalize on market inefficiencies. Below, we dive into various aspects and components of systematic investment strategies.
 
 ## Overview
 
@@ -10,10 +10,10 @@ Systematic investment strategies employ a disciplined and repeatable approach to
 
 ### Data Collection and Management
 
-Data is the lifeblood of systematic investment strategies. The quality, breadth, and timeliness of data can profoundly impact the success of these strategies. Data sources can range from traditional financial statements and price histories to alternative data sets like satellite imagery, social media sentiment, and web-scraped data.
+Data is the lifeblood of systematic investment strategies. The quality, breadth, and timeliness of data can profoundly impact the success of these strategies. Data sources can range from traditional financial statements and price histories to [alternative data](../a/alternative_data.md) sets like satellite imagery, [social media sentiment](../s/social_media_sentiment.md), and web-scraped data.
 
 - **Financial Data**: Includes traditional metrics such as stock prices, trading volumes, and financial statements.
-- **Alternative Data**: Non-traditional data such as sentiment analysis from social media, foot traffic from satellite imagery, and even web scraping e-commerce sites for inventory levels.
+- **[Alternative Data](../a/alternative_data.md)**: Non-traditional data such as [sentiment analysis](../s/sentiment_analysis.md) from social media, foot traffic from satellite imagery, and even web scraping e-commerce sites for inventory levels.
 
 ### Statistical Analysis and Modeling
 
@@ -24,14 +24,14 @@ Statistical models are used to identify patterns and relationships in the data, 
 
 ### Algorithmic Trading Systems
 
-Algorithmic trading systems automatically implement investment decisions derived from the statistical models. These systems are highly sophisticated, capable of executing trades at high speeds and volumes, often known as High-Frequency Trading (HFT).
+[Algorithmic trading](../a/algorithmic_trading.md) systems automatically implement investment decisions derived from the statistical models. These systems are highly sophisticated, capable of executing trades at high speeds and volumes, often known as High-Frequency Trading (HFT).
 
-- **Backtesting**: A crucial step where the strategy is tested against historical data to validate its effectiveness.
-- **Execution Algorithms**: Designed to carry out trades with minimal market impact and optimal pricing.
+- **[Backtesting](../b/backtesting.md)**: A crucial step where the strategy is tested against historical data to validate its effectiveness.
+- **[Execution Algorithms](../e/execution_algorithms.md)**: Designed to carry out trades with minimal market impact and optimal pricing.
 
 ### Risk Management
 
-Risk management is a critical component of systematic investing. Techniques used include value-at-risk (VaR), stress testing, scenario analysis, and diversification to manage and mitigate potential losses.
+[Risk management](../r/risk_management.md) is a critical component of systematic investing. Techniques used include value-at-risk (VaR), stress testing, scenario analysis, and diversification to manage and mitigate potential losses.
 
 - **VaR Models**: Estimate the maximum potential loss over a specific time frame with a given confidence interval.
 - **Stress Testing**: Simulate the effects of unusual market conditions on the portfolio.
@@ -49,28 +49,28 @@ Momentum investing focuses on the tendency of stock prices to continue moving in
 
 This strategy is based on the principle that asset prices will tend to revert to their historical averages over time. Strategies might buy under-performing assets and sell over-performing ones, betting on the reversion to the mean.
 
-- **Pairs Trading**: Involves matching a long position with a short position in a pair of highly correlated stocks.
+- **[Pairs Trading](../p/pairs_trading.md)**: Involves matching a long position with a short position in a pair of highly correlated stocks.
 
 ### Factor Investing
 
-Factor investing targets specific drivers of returns across asset classes. Common factors include value, size, volatility, yield, and quality.
+[Factor investing](../f/factor_investing.md) targets specific drivers of returns across asset classes. Common factors include value, size, volatility, yield, and quality.
 
-- **Value Investing**: Involves selecting stocks that appear to be undervalued based on financial analysis.
+- **[Value Investing](../v/value_investing.md)**: Involves selecting stocks that appear to be undervalued based on financial analysis.
 - **Quality Investing**: Focuses on stocks with strong financial metrics like high return on equity, low debt levels, and consistent earnings growth.
 
 ### Arbitrage Strategies
 
-Arbitrage strategies aim to profit from price disparities between related assets. Examples include statistical arbitrage, convertible arbitrage, and merger arbitrage.
+[Arbitrage](../a/arbitrage.md) strategies aim to profit from price disparities between related assets. Examples include statistical [arbitrage](../a/arbitrage.md), convertible [arbitrage](../a/arbitrage.md), and merger [arbitrage](../a/arbitrage.md).
 
-- **Statistical Arbitrage**: Uses statistical models to identify pricing inefficiencies between related securities.
-- **Convertible Arbitrage**: Involves buying convertible bonds and hedging against the associated equity risk.
+- **Statistical [Arbitrage](../a/arbitrage.md)**: Uses statistical models to identify pricing inefficiencies between related securities.
+- **Convertible [Arbitrage](../a/arbitrage.md)**: Involves buying convertible bonds and hedging against the associated equity risk.
 
 ### High-Frequency Trading (HFT)
 
 HFT involves executing a large number of orders at extremely high speeds, often capitalizing on very small price discrepancies. This requires sophisticated infrastructure and low latency environments.
 
 - **Market Making**: Involves providing liquidity to the markets by placing both buy and sell orders.
-- **Latency Arbitrage**: Exploits small price differentials that exist for very short periods.
+- **Latency [Arbitrage](../a/arbitrage.md)**: Exploits small price differentials that exist for very short periods.
 
 ## Benefits and Risks
 
@@ -84,7 +84,7 @@ HFT involves executing a large number of orders at extremely high speeds, often 
 
 - **Model Risk**: The risk that the models may be incorrect or based on flawed assumptions.
 - **Overfitting**: When a model is too closely fitted to historical data, leading to poor performance in live trading.
-- **Execution Risk**: Associated with the implementation of trades, including issues like slippage and market impact.
+- **[Execution Risk](../e/execution_risk.md)**: Associated with the implementation of trades, including issues like slippage and market impact.
 
 ## Industry Players and Technologies
 
@@ -99,7 +99,7 @@ HFT involves executing a large number of orders at extremely high speeds, often 
 
 - **Bloomberg Terminal**: Comprehensive data and analytics platform.
 - **Python/R**: Popular programming languages for data analysis and algorithm development.
-- **QuantConnect**: An open-source algorithmic trading platform that provides data and execution capabilities.
+- **QuantConnect**: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that provides data and execution capabilities.
 - **Amazon Web Services (AWS)**: Cloud services for data storage and computational power.
 
 ## Future Trends
@@ -113,7 +113,7 @@ AI and machine learning are set to revolutionize systematic investing by uncover
 
 ### Alternative Data
 
-The use of alternative data is becoming increasingly prevalent, providing new avenues for generating alpha. This includes everything from geospatial data to credit card transactions.
+The use of [alternative data](../a/alternative_data.md) is becoming increasingly prevalent, providing new avenues for generating alpha. This includes everything from geospatial data to credit card transactions.
 
 ### Quantum Computing
 

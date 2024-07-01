@@ -1,16 +1,16 @@
 # Grid Search in Trading
 
-Grid search is a hyperparameter optimization technique traditionally used in machine learning, but it has found significant application in the realm of algorithmic trading. The primary goal of grid search in trading is to optimize strategy parameters to maximize the performance metrics such as returns, Sharpe ratio, Sortino ratio, and other risk-adjusted performance measures.
+Grid search is a hyperparameter optimization technique traditionally used in machine learning, but it has found significant application in the realm of [algorithmic trading](../a/algorithmic_trading.md). The primary goal of grid search in trading is to optimize strategy parameters to maximize the [performance metrics](../p/performance_metrics.md) such as returns, [Sharpe ratio](../s/sharpe_ratio.md), [Sortino ratio](../s/sortino_ratio.md), and other risk-adjusted performance measures.
 
-Grid search involves systematically working through multiple combinations of parameter tunes, cross-validating as it goes to determine which tune gives the best performance. Below is an exhaustive dive into how grid search is applied to trading algorithms.
+Grid search involves systematically working through multiple combinations of parameter tunes, cross-validating as it goes to determine which tune gives the best performance. Below is an exhaustive dive into how grid search is applied to [trading algorithms](../t/trading_algorithms.md).
 
 ## Algorithmic Trading
 
-Algorithmic trading refers to the use of computer algorithms to trade on financial markets. The algorithms make decisions to buy or sell assets using various strategies, often based on complex mathematical models and analysis. 
+[Algorithmic trading](../a/algorithmic_trading.md) refers to the use of computer algorithms to trade on financial markets. The algorithms make decisions to buy or sell assets using various strategies, often based on complex mathematical models and analysis. 
 
 ## Parameters in Trading Strategies
 
-Parameters are integral parts of any trading strategy machine, encompassing values that the strategy uses to signal whether to buy, sell or hold an asset. These parameters could be moving average windows (short-term or long-term), thresholds, coefficients for risk management rules, and more.
+Parameters are integral parts of any trading strategy machine, encompassing values that the strategy uses to signal whether to buy, sell or hold an asset. These parameters could be moving average windows (short-term or long-term), thresholds, coefficients for [risk management](../r/risk_management.md) rules, and more.
 
 For instance, in a simple moving average crossover strategy, you might have two parameters:
 - The length of the short-term moving average (e.g., 10 days) and
@@ -28,8 +28,8 @@ Grid search is an exhaustive search algorithm where every combination of paramet
 
 1. **Parameter Selection**: Choose the strategy parameters to optimize. Specifically, decide which parameters need tuning and what range of values each parameter should take.
 2. **Grid Creation**: Create a grid of parameter combinations to be tested. For example, if parameter A can take values [1, 2, 3] and parameter B can take values [0.1, 0.2, 0.3], a 3x3 grid will be created, resulting in 9 combinations.
-3. **Backtesting**: For each combination of parameters, perform a backtest using historical data to simulate the trading performance.
-4. **Evaluation**: Evaluate the performance based on predefined metrics such as total returns, Sharpe Ratio, drawdowns, etc.
+3. **[Backtesting](../b/backtesting.md)**: For each combination of parameters, perform a backtest using historical data to simulate the [trading performance](../t/trading_performance.md).
+4. **Evaluation**: Evaluate the performance based on predefined metrics such as total returns, [Sharpe Ratio](../s/sharpe_ratio.md), drawdowns, etc.
 5. **Selection of the Best Combination**: Choose the parameters that result in the best performance according to the selected metrics.
 
 ### 3. Advantages
@@ -49,8 +49,8 @@ Grid search is an exhaustive search algorithm where every combination of paramet
 
 Several libraries and frameworks can help implement grid search for trading:
 
-- **Python's `sklearn.model_selection.GridSearchCV`**: While primarily designed for machine learning, it can be adapted for use in trading algorithms.
-- **`bt` (Backtesting Library)**: A flexible Python library for backtesting, with integration capabilities for parameter tuning.
+- **Python's `sklearn.model_selection.GridSearchCV`**: While primarily designed for machine learning, it can be adapted for use in [trading algorithms](../t/trading_algorithms.md).
+- **`bt` ([Backtesting](../b/backtesting.md) Library)**: A flexible Python library for [backtesting](../b/backtesting.md), with integration capabilities for parameter tuning.
 - **`QuantConnect`**: QuantConnect handles grid searches efficiently by distributing the workload across cloud servers. [QuantConnect](https://www.quantconnect.com/)
 
 ### 2. Example
@@ -70,9 +70,9 @@ param_grid = ParameterGrid(params)
 
 # Mock Function to backtest a strategy with given parameters
 def backtest_strategy(short_window, long_window):
-    # Here one would implement the strategy and perform backtesting
+    # Here one would implement the strategy and perform [backtesting](../b/backtesting.md)
     # We'll return a mock performance metric (e.g., annualized return)
-    return np.random.random()  # Placeholder for an actual backtesting result
+    return np.random.random()  # Placeholder for an actual [backtesting](../b/backtesting.md) result
 
 results = []
 
@@ -91,20 +91,20 @@ print(f"Best parameters: Short Window = {best_result[0]}, Long Window = {best_re
 
 ### 1. Strategy Optimization
 
-Grid search is famously used for refining various trading strategies, such as:
+Grid search is famously used for refining various [trading strategies](../t/trading_strategies.md), such as:
 
-- **Mean Reversion**
-- **Momentum Trading**
+- **[Mean Reversion](../m/mean_reversion.md)**
+- **[Momentum Trading](../m/momentum_trading.md)**
 - **Pair Trading**
 - **Options Pricing**
 
 ### 2. Risk Management
 
-Optimizing parameters for risk management rules can be performed through grid search, which helps protect capital and maximize risk-adjusted returns. For example, setting stop-loss limits, position sizing rules.
+Optimizing parameters for [risk management](../r/risk_management.md) rules can be performed through grid search, which helps protect capital and maximize risk-adjusted returns. For example, setting stop-loss limits, [position sizing](../p/position_sizing.md) rules.
 
 ### 3. High-Frequency Trading (HFT)
 
-In high-frequency trading, where algorithms trade at extremely high speeds, parameter tuning can make a difference in profitability. Algorithms might include scalping, arbitrage positions, or news-based trading.
+In high-frequency trading, where algorithms trade at extremely high speeds, parameter tuning can make a difference in profitability. Algorithms might include scalping, [arbitrage](../a/arbitrage.md) positions, or news-based trading.
 
 ### 4. Portfolio Management
 
@@ -128,7 +128,7 @@ Grid search can be time-consuming, especially for strategies that involve long c
 
 ### 1. Advanced Optimization Techniques
 
-With computational advancements, more sophisticated optimization techniques like random search, Bayesian optimization, and genetic algorithms are gaining attention. These methods are less exhaustive but can be more efficient in finding optimal parameters.
+With computational advancements, more sophisticated optimization techniques like random search, [Bayesian optimization](../b/bayesian_optimization.md), and genetic algorithms are gaining attention. These methods are less exhaustive but can be more efficient in finding optimal parameters.
 
 ### 2. Automated Trading Platforms
 
@@ -140,4 +140,4 @@ Integrating machine learning models to predict better parameter values. By train
 
 ## Conclusion
 
-Grid search remains a foundational method in hyperparameter optimization within trading algorithms. Although computationally expensive, it provides a straightforward and exhaustive means to optimize strategy parameters. As both algorithmic trading and machine learning techniques continue to evolve, grid search will likely be complemented or partially replaced by more advanced methods, but for now, it remains a valuable tool in a trader's arsenal.
+Grid search remains a foundational method in hyperparameter optimization within [trading algorithms](../t/trading_algorithms.md). Although computationally expensive, it provides a straightforward and exhaustive means to optimize strategy parameters. As both [algorithmic trading](../a/algorithmic_trading.md) and machine learning techniques continue to evolve, grid search will likely be complemented or partially replaced by more advanced methods, but for now, it remains a valuable tool in a trader's arsenal.

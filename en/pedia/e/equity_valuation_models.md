@@ -2,11 +2,11 @@
 
 Equity valuation is the process of determining the fair market value of a company's equity, and it is a cornerstone of investment analysis and strategy. This valuation is essential for various stakeholders, including individual investors, institutional investors, and corporate managers. The goal of equity valuation is to derive the intrinsic value of a stock, which can then be compared to its current market price to identify investment opportunities.
 
-Equity valuation models can be broadly classified into two categories: absolute valuation models and relative valuation models. Absolute valuation models are used to find the intrinsic value of an asset based on its fundamentals, such as dividends, earnings, and growth rates. Relative valuation models, on the other hand, estimate the value of an asset by comparing it to the valuation of other similar assets.
+Equity [valuation models](../v/valuation_models.md) can be broadly classified into two categories: absolute [valuation models](../v/valuation_models.md) and relative [valuation models](../v/valuation_models.md). Absolute [valuation models](../v/valuation_models.md) are used to find the intrinsic value of an asset based on its fundamentals, such as dividends, earnings, and growth rates. Relative [valuation models](../v/valuation_models.md), on the other hand, estimate the value of an asset by comparing it to the valuation of other similar assets.
 
 ## Absolute Valuation Models
 
-Absolute valuation models are grounded in the theory that the intrinsic value of a stock is derived from the fundamentals of the issuing company. The two most common absolute valuation methods are the Dividend Discount Model (DDM) and the Discounted Cash Flow (DCF) model.
+Absolute [valuation models](../v/valuation_models.md) are grounded in the theory that the intrinsic value of a stock is derived from the fundamentals of the issuing company. The two most common absolute valuation methods are the Dividend Discount Model (DDM) and the Discounted Cash Flow (DCF) model.
 
 ### Dividend Discount Model (DDM)
 
@@ -92,7 +92,7 @@ where:
 
 ## Relative Valuation Models
 
-Relative valuation models, also known as multiples-based valuation methods, compare the company's valuation with those of peer companies in the same industry. Common multiples include Price-to-Earnings (P/E), Price-to-Book (P/B), and Enterprise Value-to-EBITDA (EV/EBITDA).
+Relative [valuation models](../v/valuation_models.md), also known as multiples-based valuation methods, compare the company's valuation with those of peer companies in the same industry. Common multiples include Price-to-Earnings (P/E), Price-to-Book (P/B), and Enterprise Value-to-EBITDA (EV/EBITDA).
 
 ### Price-to-Earnings (P/E) Ratio
 
@@ -142,7 +142,7 @@ EVA helps in assessing whether a company generates value over and above its cost
 
 Real options provide a framework for valuing investment opportunities that accounts for the flexibility managers have in making investment decisions in response to unexpected market developments. This approach treats investment opportunities as "options" that can be exercised or deferred in the future.
 
-Valuing real options typically involves using financial option pricing models like the Black-Scholes model or binomial models.
+Valuing real options typically involves using financial [option pricing models](../o/option_pricing_models.md) like the [Black-Scholes model](../b/black-scholes_model.md) or binomial models.
 
 ### Residual Income Model
 
@@ -162,7 +162,7 @@ Sum-of-the-Parts (SOTP) valuation involves valuing each business unit or segment
 
 Equity valuation is a multifaceted field necessitating a deep understanding of finance, accounting, and market dynamics. Whether using absolute models like DDM and DCF, relative models like P/E and EV/EBITDA, or advanced techniques like EVA and real options valuation, the goal remains to determine the intrinsic value of a stock to make informed investment decisions.
 
-For further reading and resources on equity valuation models, consider visiting:
+For further reading and resources on equity [valuation models](../v/valuation_models.md), consider visiting:
 
 1. [Morningstar](https://www.morningstar.com/)
 2. [Damodaran Online](http://pages.stern.nyu.edu/~adamodar/)

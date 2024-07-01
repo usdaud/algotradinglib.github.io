@@ -1,6 +1,6 @@
 # Zero-Lower-Bound Interest Rates
 
-The concept of zero-lower-bound (ZLB) interest rates refers to the situation in which a central bank’s nominal interest rate is at or near 0%, rendering conventional monetary policy tools ineffective in stimulating economic growth. This phenomenon is crucial in the context of algotrading (algorithmic trading) as it impacts financial markets’ dynamics and the efficacy of trading strategies. Understanding the ZLB environment requires an in-depth analysis of its origins, consequences, and the unconventional measures deployed by central banks to address it.
+The concept of zero-lower-bound (ZLB) interest rates refers to the situation in which a central bank’s nominal interest rate is at or near 0%, rendering conventional monetary policy tools ineffective in stimulating economic growth. This phenomenon is crucial in the context of algotrading ([algorithmic trading](../a/algorithmic_trading.md)) as it impacts financial markets’ dynamics and the efficacy of [trading strategies](../t/trading_strategies.md). Understanding the ZLB environment requires an in-depth analysis of its origins, consequences, and the unconventional measures deployed by central banks to address it.
 
 ## Origins of Zero-Lower-Bound
 
@@ -12,17 +12,17 @@ The ZLB scenario has historical antecedents, notably during the Great Depression
 
 ## Consequences of Zero-Lower-Bound
 
-The key repercussions of ZLB interest rates include diminished profitability for banks, constraints on central banks' conventional policy tools, and profound impacts on investment decisions. The ZLB environment introduces complexities for financial markets that directly influence algorithmic trading models and strategies.
+The key repercussions of ZLB interest rates include diminished profitability for banks, constraints on central banks' conventional policy tools, and profound impacts on investment decisions. The ZLB environment introduces complexities for financial markets that directly influence [algorithmic trading](../a/algorithmic_trading.md) models and strategies.
 
 ### Reduced Central Bank Effectiveness
 
-When interest rates hit the ZLB, central banks can no longer use conventional policy tools like lowering short-term interest rates to stimulate the economy. This limitation necessitates the exploration of unconventional monetary policies, such as quantitative easing (QE) and forward guidance.
+When interest rates hit the ZLB, central banks can no longer use conventional policy tools like lowering short-term interest rates to stimulate the economy. This limitation necessitates the exploration of unconventional monetary policies, such as [quantitative easing](../q/quantitative_easing.md) (QE) and forward guidance.
 
 ### Impact on Financial Markets
 
 Financial markets are directly influenced by ZLB conditions through several channels:
 
-- **Bond Markets**: Yields on government and corporate bonds tend to be lower, making fixed-income arbitrage strategies less lucrative.
+- **Bond Markets**: Yields on government and corporate bonds tend to be lower, making fixed-income [arbitrage](../a/arbitrage.md) strategies less lucrative.
 - **Equity Markets**: Lower interest rates tend to boost equity prices, though the sustainability of such boosts in a ZLB context can be uncertain.
 - **Volatility**: The uncertainty and lower economic growth expectations can lead to increased market volatility, impacting the performance of volatility-based algotrading strategies.
 
@@ -50,7 +50,7 @@ Example: [Bank of England](https://www.bankofengland.co.uk/monetary-policy/the-i
 
 ### Yield Curve Control (YCC)
 
-YCC involves targeting specific yields on longer-term government securities, thus controlling the shape of the yield curve. This policy aims to keep longer-term borrowing costs low.
+YCC involves targeting specific yields on longer-term government securities, thus controlling the shape of the [yield curve](../y/yield_curve.md). This policy aims to keep longer-term borrowing costs low.
 
 Example: [Bank of Japan](https://www.boj.or.jp/en/mopo/mpmdeci/state_2016/k161121a.pdf)
 
@@ -66,14 +66,14 @@ Incorporating ZLB effects into algotrading models adds to their complexity. Trad
 
 ### Risk Management
 
-Risk management becomes paramount in ZLB scenarios due to potential increases in market volatility and abrupt shifts in investor sentiment. Algotraders must enhance their risk management frameworks to mitigate potential losses.
+[Risk management](../r/risk_management.md) becomes paramount in ZLB scenarios due to potential increases in market volatility and abrupt shifts in investor sentiment. Algotraders must enhance their [risk management](../r/risk_management.md) frameworks to mitigate potential losses.
 
 ### Backtesting and Simulation
 
-Algotrading strategies must undergo rigorous backtesting and simulation in ZLB environments to ensure robustness. Historical data from periods like the Global Financial Crisis can provide valuable insights for this purpose.
+Algotrading strategies must undergo rigorous [backtesting](../b/backtesting.md) and simulation in ZLB environments to ensure robustness. Historical data from periods like the Global Financial Crisis can provide valuable insights for this purpose.
 
 Example: [AlgoTrader](https://www.algotrader.com/)
 
 ## Conclusion
 
-In summarizing the key points on zero-lower-bound interest rates, we find that this economic condition poses significant challenges and opportunities for various stakeholders, including central banks, financial institutions, and algotraders. The ZLB necessitates the deployment of unconventional monetary policies and significantly influences financial markets’ dynamics. For algotraders, understanding and adapting to ZLB conditions is crucial for developing resilient trading strategies and maintaining robust risk management practices. By focusing on adaptability, model complexity, and rigorous backtesting, traders can navigate the unique challenges posed by zero-lower-bound interest rates.
+In summarizing the key points on zero-lower-bound interest rates, we find that this economic condition poses significant challenges and opportunities for various stakeholders, including central banks, financial institutions, and algotraders. The ZLB necessitates the deployment of unconventional monetary policies and significantly influences financial markets’ dynamics. For algotraders, understanding and adapting to ZLB conditions is crucial for developing resilient [trading strategies](../t/trading_strategies.md) and maintaining robust [risk management](../r/risk_management.md) practices. By focusing on adaptability, model complexity, and rigorous [backtesting](../b/backtesting.md), traders can navigate the unique challenges posed by zero-lower-bound interest rates.

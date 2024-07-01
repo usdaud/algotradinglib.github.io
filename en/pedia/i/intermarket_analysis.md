@@ -12,7 +12,7 @@ Intermarket Analysis primarily examines correlations between asset classes. Thes
 
 ## Historical Context and Development
 
-The concept of Intermarket Analysis gained traction in the 1980s with the pioneering work of market analysts like John Murphy, who published the seminal book, "Intermarket Technical Analysis: Trading Strategies for the Global Stock, Bond, Commodity, and Currency Markets." Murphy's work emphasized the importance of understanding the interplay between different markets, particularly as technological advancements and globalization began integrating economies more closely.
+The concept of Intermarket Analysis gained traction in the 1980s with the pioneering work of market analysts like John Murphy, who published the seminal book, "Intermarket [Technical Analysis](../t/technical_analysis.md): [Trading Strategies](../t/trading_strategies.md) for the Global Stock, Bond, Commodity, and Currency Markets." Murphy's work emphasized the importance of understanding the interplay between different markets, particularly as technological advancements and globalization began integrating economies more closely.
 
 ## Key Relationships in Intermarket Analysis
 
@@ -42,7 +42,7 @@ Commodities and currencies often exhibit strong relationships, particularly betw
 The relationship between currencies and bonds is driven by interest rate differentials:
 
 - **Interest Rate Policies:** Higher interest rates generally attract foreign investment, leading to stronger currencies. Lower rates, conversely, might weaken a currency. This relationship is crucial when analyzing bond yields across different countries.
-- **Central Bank Interventions:** Actions by central banks, such as quantitative easing or tightening monetary policies, directly affect bond prices and, consequently, currency values.
+- **Central Bank Interventions:** Actions by central banks, such as [quantitative easing](../q/quantitative_easing.md) or tightening monetary policies, directly affect bond prices and, consequently, currency values.
 
 ## Applying Intermarket Analysis in Trading
 
@@ -72,7 +72,7 @@ The Bloomberg Terminal offers comprehensive data, news, and analytics across fin
 
 ### 2. Reuters Eikon
 
-Reuters Eikon is another powerful tool providing real-time market data and analytics. It allows for extensive cross-market analysis, indispensable for traders engaging in Intermarket Analysis.
+Reuters Eikon is another powerful tool providing [real-time market data](../r/real-time_market_data.md) and analytics. It allows for extensive [cross-market analysis](../c/cross-market_analysis.md), indispensable for traders engaging in Intermarket Analysis.
 
 [Visit Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)
 
@@ -84,7 +84,7 @@ Trade Ideas uses artificial intelligence to help traders identify trends and tra
 
 ### 4. MetaStock
 
-MetaStock offers software solutions tailored for technical analysis, including tools specifically designed for Intermarket Analysis. It helps in identifying correlations and predictive patterns across various asset classes.
+MetaStock offers software solutions tailored for [technical analysis](../t/technical_analysis.md), including tools specifically designed for Intermarket Analysis. It helps in identifying correlations and predictive patterns across various asset classes.
 
 [Visit MetaStock](https://www.metastock.com/)
 

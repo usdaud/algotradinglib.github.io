@@ -44,7 +44,7 @@ QML algorithms combine quantum computing and machine learning techniques. Some p
 QML can significantly accelerate the process of drug discovery by quickly simulating molecular interactions and predicting binding affinities. Quantum simulations can provide more accurate models, leading to the discovery of new drugs faster than traditional methods.
 
 ### Financial Modeling
-In finance, QML can be applied to portfolio optimization, fraud detection, and option pricing. Quantum algorithms can analyze large datasets more efficiently, aiding in more accurate predictions and timely decision-making.
+In finance, QML can be applied to [portfolio optimization](../p/portfolio_optimization.md), fraud detection, and option pricing. Quantum algorithms can analyze large datasets more efficiently, aiding in more accurate predictions and timely decision-making.
 
 ### Image and Speech Recognition
 Quantum neural networks can process vast amounts of visual and auditory data more efficiently than classical neural networks, potentially revolutionizing fields like computer vision and natural language processing.

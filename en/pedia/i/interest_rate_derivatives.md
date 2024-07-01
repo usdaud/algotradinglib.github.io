@@ -1,26 +1,26 @@
 # Interest Rate Derivatives
 
-Interest Rate Derivatives (IRDs) are financial instruments whose value is derived from the movements of interest rates. They play a significant role in modern financial markets and are used extensively by institutions to manage interest rate risk, speculate on future movements in interest rates, or for arbitrage opportunities. 
+Interest Rate [Derivatives](../d/derivatives.md) (IRDs) are financial instruments whose value is derived from the movements of interest rates. They play a significant role in modern financial markets and are used extensively by institutions to manage interest rate risk, speculate on future movements in interest rates, or for [arbitrage](../a/arbitrage.md) opportunities. 
 
 ## Types of Interest Rate Derivatives
 
 ### 1. **Interest Rate Swaps (IRS)**
    
-Interest Rate Swaps are among the most common types of IRDs. In an IRS, two parties agree to exchange cash flows based on a notional principal amount. Typically, one party pays a fixed interest rate, while the other pays a floating interest rate, often tied to an index like the LIBOR (London Interbank Offered Rate).
+[Interest Rate Swaps](../i/interest_rate_swaps.md) are among the most common types of IRDs. In an IRS, two parties agree to exchange cash flows based on a notional principal amount. Typically, one party pays a fixed interest rate, while the other pays a floating interest rate, often tied to an index like the LIBOR (London Interbank Offered Rate).
 
 #### **Example**
 - A corporation may enter into an IRS to convert a fixed-rate loan into a floating-rate loan to take advantage of lower short-term interest rates.
 
 ### 2. **Interest Rate Futures**
    
-Interest Rate Futures are standardized contracts traded on exchanges to buy or sell a financial instrument at a specified future date at an agreed-upon price. They are commonly used to hedge against the risk of interest rate moves.
+[Interest Rate Futures](../i/interest_rate_futures.md) are standardized contracts traded on exchanges to buy or sell a financial instrument at a specified future date at an agreed-upon price. They are commonly used to hedge against the risk of interest rate moves.
 
 #### **Example**
 - A portfolio manager might use Treasury bond futures to lock in current interest rates to hedge against falling bond prices.
 
 ### 3. **Interest Rate Options**
    
-Interest Rate Options give the holder the right, but not the obligation, to receive or pay interest at a specified rate for a specific period.
+[Interest Rate Options](../i/interest_rate_options.md) give the holder the right, but not the obligation, to receive or pay interest at a specified rate for a specific period.
 
 #### **Types of Interest Rate Options**
 - **Caps:** Provide a ceiling on the interest rate.
@@ -64,14 +64,14 @@ By exploiting price discrepancies in different markets, arbitrageurs use IRDs to
 
 ### 1. **Commercial Banks**
    
-Commercial banks actively engage in interest rate derivatives to manage their interest rate risk and to offer hedging products to their clients.
+Commercial banks actively engage in interest rate [derivatives](../d/derivatives.md) to manage their interest rate risk and to offer hedging products to their clients.
 
 #### **Example**
 - Banks often sell interest rate caps and floors as part of their loan products.
 
 ### 2. **Investment Firms**
    
-Investment firms use IRDs extensively, both for proprietary trading and for managing the interest rate risk of their bond portfolios.
+Investment firms use IRDs extensively, both for [proprietary trading](../p/proprietary_trading.md) and for managing the interest rate risk of their bond portfolios.
 
 ### 3. **Corporations**
    
@@ -85,17 +85,17 @@ Governments may use IRDs as part of public debt management strategies to control
 
 ### 1. **Dodd-Frank Act (USA)**
    
-The Dodd-Frank Wall Street Reform and Consumer Protection Act mandates greater transparency and oversight of derivatives trading, requiring most standardized interest rate swaps to be cleared through central counterparties.
+The Dodd-Frank Wall Street Reform and Consumer Protection Act mandates greater transparency and oversight of [derivatives](../d/derivatives.md) trading, requiring most standardized [interest rate swaps](../i/interest_rate_swaps.md) to be cleared through central counterparties.
 
 ### 2. **European Market Infrastructure Regulation (EMIR)**
    
-EMIR introduces requirements aimed at reducing the risks posed by the derivatives markets in the EU, mandating reporting and centralized clearing for OTC derivatives.
+EMIR introduces requirements aimed at reducing the risks posed by the [derivatives](../d/derivatives.md) markets in the EU, mandating reporting and centralized clearing for OTC [derivatives](../d/derivatives.md).
 
 ## Key Marketplaces
 
 ### 1. **Chicago Mercantile Exchange (CME)**
    
-CME Group provides a major platform for trading interest rate futures and options.
+CME Group provides a major platform for trading [interest rate futures](../i/interest_rate_futures.md) and options.
 
 #### [CME Group](https://www.cmegroup.com/)
 
@@ -107,22 +107,22 @@ ICE offers futures and options on a wide array of interest rate products.
 
 ### 3. **Over-the-Counter (OTC) Market**
    
-The OTC market facilitates trade in bespoke interest rate derivatives that are not standardized enough to be listed on formal exchanges.
+The OTC market facilitates trade in bespoke interest rate [derivatives](../d/derivatives.md) that are not standardized enough to be listed on formal exchanges.
 
 ## Advanced Strategies
 
 ### 1. **Curve Steepening/Flattening**
    
-Traders employ this strategy to speculate on changes in the yield curve's shape. They might, for instance, go long on a short maturity bond while shorting a longer maturity bond to take advantage of expected yield curve changes.
+Traders employ this strategy to speculate on changes in the [yield curve](../y/yield_curve.md)'s shape. They might, for instance, go long on a short maturity bond while shorting a longer maturity bond to take advantage of expected [yield curve](../y/yield_curve.md) changes.
 
 ### 2. **Butterfly Spread**
    
-This involves positions in three different maturities to profit from changes in the curvature of the yield curve.
+This involves positions in three different maturities to profit from changes in the curvature of the [yield curve](../y/yield_curve.md).
 
 ### 3. **Delta Hedging in Interest Rate Options**
    
-Delta hedging involves balancing positions in options and the underlying instrument to offset changes in interest rates.
+[Delta hedging](../d/delta_hedging.md) involves balancing positions in options and the underlying instrument to offset changes in interest rates.
 
 ## Conclusion
 
-Interest Rate Derivatives are pivotal in global financial markets, providing tools for risk management, speculative opportunities, and arbitrage. They encompass a wide array of instruments including swaps, futures, options, and forward rate agreements, each serving distinct functions and applicable in diverse scenarios. As financial markets evolve, the role and complexity of IRDs continue to expand, necessitating robust regulatory frameworks to mitigate systemic risk. For market participants, a deep understanding of these instruments is essential for navigating and capitalizing on the dynamics of interest rate movements.
+Interest Rate [Derivatives](../d/derivatives.md) are pivotal in global financial markets, providing tools for [risk management](../r/risk_management.md), speculative opportunities, and [arbitrage](../a/arbitrage.md). They encompass a wide array of instruments including swaps, futures, options, and forward rate agreements, each serving distinct functions and applicable in diverse scenarios. As financial markets evolve, the role and complexity of IRDs continue to expand, necessitating robust regulatory frameworks to mitigate systemic risk. For market participants, a deep understanding of these instruments is essential for navigating and capitalizing on the dynamics of interest rate movements.

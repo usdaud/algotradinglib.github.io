@@ -15,7 +15,7 @@ Where:
 - Rp is the actual return of the portfolio.
 - Rf is the risk-free rate of return.
 - β (Beta) is the sensitivity of the portfolio's returns to the market returns.
-- Rm is the actual return of the market portfolio.
+- Rm is the actual return of the [market portfolio](../m/market_portfolio.md).
 
 In other words, Alpha is the difference between the portfolio's return and the return it should have earned based on its beta and the market's excess return over the risk-free rate.
 
@@ -29,7 +29,7 @@ Jensen's Alpha is a critical metric for evaluating the performance of investment
 
 1. **Assess Management Performance:** By determining whether portfolio managers generate returns greater than what would be expected based on their risk levels.
 2. **Make Investment Decisions:** Investors may use Alpha to identify potentially high-performing funds or portfolios.
-3. **Performance Benchmarking:** Comparing the Alpha of different funds or portfolios to choose the best-performing ones.
+3. **[Performance Benchmarking](../p/performance_benchmarking.md):** Comparing the Alpha of different funds or portfolios to choose the best-performing ones.
 
 ### Practical Examples
 Suppose a hedge fund managed a portfolio with the following characteristics over a year:
@@ -53,27 +53,27 @@ While Jensen's Alpha is a valuable tool, it comes with certain limitations which
 
 1. **Dependency on CAPM:** As it relies on the assumptions and precision of the CAPM model, any flaws or inaccuracies in CAPM can affect the reliability of Alpha.
 2. **Static Beta:** The assumption of a constant beta may not hold in reality, as a portfolio's sensitivity to the market can fluctuate over time.
-3. **Market Efficiency:** The measure assumes markets are efficient, which may not always be the case.
+3. **[Market Efficiency](../m/market_efficiency.md):** The measure assumes markets are efficient, which may not always be the case.
 4. **Historical Data Reliability:** Alpha is typically calculated using historical data, and past performance may not predict future results.
 
 ### Algotrading Implications
-In the domain of algorithmic trading (algotrading), Jensen's Alpha can serve as an essential criterion for developing and evaluating trading strategies. Algotraders use Alpha to:
+In the domain of [algorithmic trading](../a/algorithmic_trading.md) (algotrading), Jensen's Alpha can serve as an essential criterion for developing and evaluating [trading strategies](../t/trading_strategies.md). Algotraders use Alpha to:
 
-1. **Strategy Development:** Quantitative analysts and developers integrate Alpha measurement in backtesting and model optimization to craft strategies that aim to generate positive Alpha.
-2. **Performance Monitoring:** Continuous monitoring of trading algorithms against benchmark indices to ensure consistent Alpha generation.
-3. **Risk Management:** Incorporate Alpha in risk assessment models to measure and manage the risk-return profile of trading algorithms effectively.
-4. **Strategy Comparison:** Compare different algorithms or trading models to select the most efficient ones with higher Alpha generation potential.
+1. **Strategy Development:** Quantitative analysts and developers integrate Alpha measurement in [backtesting](../b/backtesting.md) and model optimization to craft strategies that aim to generate positive Alpha.
+2. **Performance Monitoring:** Continuous monitoring of [trading algorithms](../t/trading_algorithms.md) against benchmark indices to ensure consistent [Alpha generation](../a/alpha_generation.md).
+3. **[Risk Management](../r/risk_management.md):** Incorporate Alpha in [risk assessment models](../r/risk_assessment_models.md) to measure and manage the risk-return profile of [trading algorithms](../t/trading_algorithms.md) effectively.
+4. **Strategy Comparison:** Compare different algorithms or [trading models](../t/trading_models.md) to select the most efficient ones with higher [Alpha generation](../a/alpha_generation.md) potential.
 
-Algorithmic trading firms, such as [Two Sigma](https://www.twosigma.com/) and [Citadel Securities](https://www.citadelsecurities.com/), frequently leverage Alpha metrics while designing and evaluating their proprietary trading systems.
+[Algorithmic trading](../a/algorithmic_trading.md) firms, such as [Two Sigma](https://www.twosigma.com/) and [Citadel Securities](https://www.citadelsecurities.com/), frequently leverage Alpha metrics while designing and evaluating their [proprietary trading](../p/proprietary_trading.md) systems.
 
 ### Case Study: Two Sigma
-Two Sigma, an influential quantitative investment firm, employs an array of signals to craft its trading strategies. By focusing on generating positive Alpha, Two Sigma utilizes vast amounts of data and sophisticated algorithms. Their approaches include:
+Two Sigma, an influential quantitative investment firm, employs an array of signals to craft its [trading strategies](../t/trading_strategies.md). By focusing on generating positive Alpha, Two Sigma utilizes vast amounts of data and sophisticated algorithms. Their approaches include:
 
-- **Data-Driven Models:** Extensive use of big data, machine learning, and artificial intelligence to uncover insights and trends that contribute to Alpha generation.
-- **Backtesting:** Rigorous backtesting procedures ensure that strategies perform under various market conditions, aiming for consistent positive Alpha.
+- **Data-Driven Models:** Extensive use of big data, machine learning, and artificial intelligence to uncover insights and trends that contribute to [Alpha generation](../a/alpha_generation.md).
+- **[Backtesting](../b/backtesting.md):** Rigorous [backtesting](../b/backtesting.md) procedures ensure that strategies perform under various market conditions, aiming for consistent positive Alpha.
 - **Optimization:** Continuous strategy optimization, tweaking models to adapt to changing market dynamics and maintaining Alpha.
 
-Two Sigma's success in consistently generating Alpha underscores the importance and applicability of Jensen's Alpha in the landscape of algorithmic trading.
+Two Sigma's success in consistently generating Alpha underscores the importance and applicability of Jensen's Alpha in the landscape of [algorithmic trading](../a/algorithmic_trading.md).
 
 ### Conclusion
-Jensen's Alpha is a pivotal measure in finance for assessing portfolio performance against market expectations, accounting for risk. It finds significant resonance in both traditional investment management and the rapidly evolving field of algorithmic trading. As a litmus test for investment prowess, Alpha remains integral in shaping, assessing, and refining investment strategies to ensure they align with risk-adjusted performance goals.
+Jensen's Alpha is a pivotal measure in finance for assessing [portfolio performance](../p/portfolio_performance.md) against market expectations, accounting for risk. It finds significant resonance in both traditional investment management and the rapidly evolving field of [algorithmic trading](../a/algorithmic_trading.md). As a litmus test for investment prowess, Alpha remains integral in shaping, assessing, and refining investment strategies to ensure they align with risk-adjusted performance goals.

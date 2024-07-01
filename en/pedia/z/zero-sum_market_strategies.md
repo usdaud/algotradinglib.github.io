@@ -1,6 +1,6 @@
 # Zero-Sum Market Strategies in Algorithmic Trading
 
-Algorithmic trading, often referred to as "algo trading," leverages computer algorithms to automate the process of buying and selling financial instruments. In the realm of algorithmic trading, one crucial concept is zero-sum market strategies. These strategies play a pivotal role in financial markets, especially in highly competitive areas like futures and options trading. This article delves into the intricacies of zero-sum markets and the strategies applied by algorithmic traders within these markets, providing a comprehensive understanding of the concepts and practical applications.
+[Algorithmic trading](../a/algorithmic_trading.md), often referred to as "algo trading," leverages computer algorithms to automate the process of buying and selling financial instruments. In the realm of [algorithmic trading](../a/algorithmic_trading.md), one crucial concept is zero-sum market strategies. These strategies play a pivotal role in financial markets, especially in highly competitive areas like futures and options trading. This article delves into the intricacies of zero-sum markets and the strategies applied by algorithmic traders within these markets, providing a comprehensive understanding of the concepts and practical applications.
 
 ## Understanding Zero-Sum Markets
 
@@ -25,14 +25,14 @@ Market makers are entities or individuals that provide liquidity to the market b
 
 ### Speculators
 
-Speculators aim to profit from price movements within the market. They employ various strategies, ranging from short-term trading to long-term trend following. Speculators often rely on high-frequency trading (HFT) algorithms to execute trades at lightning speed, aiming to exploit minute price discrepancies.
+Speculators aim to profit from price movements within the market. They employ various strategies, ranging from [short-term trading](../s/short-term_trading.md) to long-term [trend following](../t/trend_following.md). Speculators often rely on high-frequency trading (HFT) algorithms to execute trades at lightning speed, aiming to exploit minute price discrepancies.
 
 - **Example Companies**:
   - [Renaissance Technologies](https://www.rentec.com/)
 
 ### Hedgers
 
-Hedgers use zero-sum markets to mitigate or manage their risk exposure. For instance, a corporation might use futures contracts to lock in prices for raw materials, thereby protecting itself against adverse price movements. While hedgers are not primarily profit-driven, their participation introduces liquidity and opportunities for speculators and market makers.
+Hedgers use zero-sum markets to mitigate or manage their risk exposure. For instance, a corporation might use [futures contracts](../f/futures_contracts.md) to lock in prices for raw materials, thereby protecting itself against adverse price movements. While hedgers are not primarily profit-driven, their participation introduces liquidity and opportunities for speculators and market makers.
 
 ## Algorithmic Strategies in Zero-Sum Markets
 
@@ -40,13 +40,13 @@ The zero-sum nature of certain financial markets necessitates sophisticated stra
 
 ### Market Making Algorithms
 
-Market making algorithms focus on capturing the bid-ask spread by simultaneously placing buy and sell orders. These algorithms need to quickly analyze market conditions and adjust their positions to remain profitable.
+[Market making algorithms](../m/market_making_algorithms.md) focus on capturing the [bid-ask spread](../b/bid-ask_spread.md) by simultaneously placing buy and sell orders. These algorithms need to quickly analyze market conditions and adjust their positions to remain profitable.
 
 #### Features
 
-- **High Frequency**: Market making algorithms operate at ultra-high speeds.
+- **High Frequency**: [Market making algorithms](../m/market_making_algorithms.md) operate at ultra-high speeds.
 - **Spread Capture**: The main goal is to profit from the spread between the bid and ask prices.
-- **Risk Management**: Sophisticated risk management protocols ensure that the algorithm maintains net-neutral or desired exposure.
+- **[Risk Management](../r/risk_management.md)**: Sophisticated [risk management](../r/risk_management.md) protocols ensure that the algorithm maintains net-neutral or desired exposure.
 
 #### Example Algorithms
 
@@ -55,37 +55,37 @@ Market making algorithms focus on capturing the bid-ask spread by simultaneously
 
 ### Arbitrage Strategies
 
-Arbitrage involves exploiting price discrepancies between related financial instruments or markets. In zero-sum markets, opportunities for arbitrage can be fleeting and often require advanced algorithms to detect and act upon them instantaneously.
+[Arbitrage](../a/arbitrage.md) involves exploiting price discrepancies between related financial instruments or markets. In zero-sum markets, opportunities for [arbitrage](../a/arbitrage.md) can be fleeting and often require advanced algorithms to detect and act upon them instantaneously.
 
 #### Types of Arbitrage
 
-- **Spatial Arbitrage**: Exploits price differences in the same instrument across different markets.
-- **Temporal Arbitrage**: Takes advantage of price movements over time based on a predictive model.
-- **Statistical Arbitrage**: Uses statistical models to identify price anomalies and capitalize on mean reversion patterns.
+- **Spatial [Arbitrage](../a/arbitrage.md)**: Exploits price differences in the same instrument across different markets.
+- **Temporal [Arbitrage](../a/arbitrage.md)**: Takes advantage of price movements over time based on a predictive model.
+- **Statistical [Arbitrage](../a/arbitrage.md)**: Uses statistical models to identify price anomalies and capitalize on [mean reversion](../m/mean_reversion.md) patterns.
 
 #### Example Algorithms
 
 - **Pair Trading**: This strategy involves trading pairs of correlated instruments, taking long and short positions based on their relative price movements.
-- **Triangular Arbitrage**: Common in Forex markets, this strategy involves three different currency pairs to exploit exchange rate inconsistencies.
+- **Triangular [Arbitrage](../a/arbitrage.md)**: Common in Forex markets, this strategy involves three different currency pairs to exploit exchange rate inconsistencies.
 
 ### Trend Following Algorithms
 
-Trend following strategies aim to capitalize on sustained price movements in one direction. These strategies are based on the assumption that prices tend to follow trends, and therefore aim to position themselves in the direction of the trend.
+[Trend following](../t/trend_following.md) strategies aim to capitalize on sustained price movements in one direction. These strategies are based on the assumption that prices tend to follow trends, and therefore aim to position themselves in the direction of the trend.
 
 #### Features
 
-- **Momentum Indicators**: Utilizes indicators like moving averages and relative strength index (RSI) to identify trends.
+- **[Momentum Indicators](../m/momentum_indicators.md)**: Utilizes indicators like moving averages and relative strength index (RSI) to identify trends.
 - **Breakout Strategies**: Trades are triggered when prices break out of significant support or resistance levels.
-- **Position Sizing**: Sophisticated algorithms dynamically adjust position sizes based on the strength and reliability of the trend.
+- **[Position Sizing](../p/position_sizing.md)**: Sophisticated algorithms dynamically adjust position sizes based on the strength and reliability of the trend.
 
 #### Example Algorithms
 
 - **Moving Average Crossover**: Buys or sells when a short-term moving average crosses a long-term moving average.
-- **Bollinger Bands**: Utilizes Bollinger Bands to identify overbought or oversold conditions to time market entries and exits.
+- **[Bollinger Bands](../b/bollinger_bands.md)**: Utilizes [Bollinger Bands](../b/bollinger_bands.md) to identify overbought or oversold conditions to time market entries and exits.
 
 ### Mean Reversion Algorithms
 
-Mean reversion strategies are predicated on the belief that asset prices will revert to their historical averages over time. These strategies aim to capitalize on short-term price movements that deviate significantly from the norm.
+[Mean reversion](../m/mean_reversion.md) strategies are predicated on the belief that asset prices will revert to their historical averages over time. These strategies aim to capitalize on short-term price movements that deviate significantly from the norm.
 
 #### Features
 
@@ -95,20 +95,20 @@ Mean reversion strategies are predicated on the belief that asset prices will re
 
 #### Example Algorithms
 
-- **Z-Score Trading**: Buys or sells assets when their price z-score, a measure of deviation from the mean, crosses certain thresholds.
+- **[Z-Score Trading](../z/z-score_trading.md)**: Buys or sells assets when their price z-score, a measure of deviation from the mean, crosses certain thresholds.
 - **Kalman Filter**: Utilizes the Kalman filter to predict and smooth price series, taking positions based on the filtered signals.
 
 ## Risk Management in Zero-Sum Market Strategies
 
-Effective risk management is paramount in zero-sum markets, where trading strategies can result in quick gains but also substantial losses. Various techniques are employed to manage risk:
+Effective [risk management](../r/risk_management.md) is paramount in zero-sum markets, where [trading strategies](../t/trading_strategies.md) can result in quick gains but also substantial losses. Various techniques are employed to manage risk:
 
 ### Stop-Loss Orders
 
-Stop-loss orders automatically sell a position when its price falls below a predetermined level, limiting potential losses.
+[Stop-loss orders](../s/stop-loss_orders.md) automatically sell a position when its price falls below a predetermined level, limiting potential losses.
 
 ### Position Sizing
 
-Position sizing involves adjusting the size of trades based on volatility, capital, and risk tolerance.
+[Position sizing](../p/position_sizing.md) involves adjusting the size of trades based on volatility, capital, and risk tolerance.
 
 ### Diversification
 
@@ -116,8 +116,8 @@ Diversifying across multiple markets, instruments, or strategies can mitigate ri
 
 ### Risk Metrics
 
-Advanced risk metrics such as Value at Risk (VaR) and Conditional Value at Risk (CVaR) provide quantitative measures to assess and manage potential losses.
+Advanced [risk metrics](../r/risk_metrics.md) such as Value at Risk (VaR) and Conditional Value at Risk (CVaR) provide quantitative measures to assess and manage potential losses.
 
 ## Conclusion
 
-Zero-sum market strategies are a vital component of algorithmic trading. These strategies leverage advanced algorithms, rapid execution, and sophisticated risk management to navigate highly competitive markets. Whether it's market making, arbitrage, trend following, or mean reversion, successful algo trading in zero-sum markets requires a deep understanding of market mechanics, rigorous testing, and continuous optimization. As technology and market dynamics evolve, algorithmic traders must adapt and refine their strategies to maintain an edge in these challenging environments.
+Zero-sum market strategies are a vital component of [algorithmic trading](../a/algorithmic_trading.md). These strategies leverage advanced algorithms, rapid execution, and sophisticated [risk management](../r/risk_management.md) to navigate highly competitive markets. Whether it's market making, [arbitrage](../a/arbitrage.md), [trend following](../t/trend_following.md), or [mean reversion](../m/mean_reversion.md), successful algo trading in zero-sum markets requires a deep understanding of market mechanics, rigorous testing, and continuous optimization. As technology and market dynamics evolve, algorithmic traders must adapt and refine their strategies to maintain an edge in these challenging environments.

@@ -15,7 +15,7 @@ K-Fold Cross Validation is a method used to evaluate the performance of a machin
     - For each of the K folds:
         - Use K-1 folds for training the model.
         - Use the remaining 1 fold to validate the model's performance.
-3. **Averaging Performance**: Calculate and average the performance metrics across all K trials.
+3. **Averaging Performance**: Calculate and average the [performance metrics](../p/performance_metrics.md) across all K trials.
 
 This method ensures that every data point gets a chance to be in the validation set, providing a more generalized view of the model's performance.
 
@@ -46,7 +46,7 @@ Trading data is time-series data, meaning the order of data points is essential.
 
 ### 4. **Performance Metrics**
 
-Commonly used performance metrics in trading include Sharpe Ratio, Return on Investment (ROI), Maximum Drawdown, and others. These metrics should be calculated for each fold and averaged to provide a comprehensive performance evaluation.
+Commonly used [performance metrics](../p/performance_metrics.md) in trading include [Sharpe Ratio](../s/sharpe_ratio.md), Return on Investment (ROI), Maximum Drawdown, and others. These metrics should be calculated for each fold and averaged to provide a comprehensive performance evaluation.
 
 ### 5. **Implementation in Python**
 
@@ -93,7 +93,7 @@ Ensure that the data is normalized and stationary before applying K-Fold cross v
 
 ### 2. **Feature Engineering**
 
-Incorporate feature engineering within each fold to avoid data leakage. This includes creating features such as moving averages, momentum indicators, and others within the training set of each fold.
+Incorporate feature engineering within each fold to avoid data leakage. This includes creating features such as moving averages, [momentum indicators](../m/momentum_indicators.md), and others within the training set of each fold.
 
 ### 3. **Rolling Cross Validation**
 
@@ -101,7 +101,7 @@ For time-series data, consider using Rolling Cross Validation, where the trainin
 
 ### 4. **Cross Validation and Backtesting**
 
-K-Fold cross validation complements backtesting. While backtesting provides insights on how a strategy would have performed historically, K-Fold cross validation ensures that the model is not overly fitted to any specific period. Combining both techniques provides a more robust evaluation of trading strategies.
+K-Fold cross validation complements [backtesting](../b/backtesting.md). While [backtesting](../b/backtesting.md) provides insights on how a strategy would have performed historically, K-Fold cross validation ensures that the model is not overly fitted to any specific period. Combining both techniques provides a more robust evaluation of [trading strategies](../t/trading_strategies.md).
 
 ### 5. **Handling Outliers**
 
@@ -109,7 +109,7 @@ Trading data often contains outliers. Ensure that outliers are handled appropria
 
 ## Conclusion
 
-K-Fold cross validation is a powerful technique in trading to evaluate model performance comprehensively. By ensuring that every data point is used for both training and validation, it provides a robust mechanism to prevent overfitting, maximize the use of available data, and improve model generalization. When implemented correctly, considering the nuances of trading data, K-Fold cross validation can significantly enhance the reliability and performance of trading models.
+K-Fold cross validation is a powerful technique in trading to evaluate model performance comprehensively. By ensuring that every data point is used for both training and validation, it provides a robust mechanism to prevent overfitting, maximize the use of available data, and improve model generalization. When implemented correctly, considering the nuances of trading data, K-Fold cross validation can significantly enhance the reliability and performance of [trading models](../t/trading_models.md).
 
 ## References
 

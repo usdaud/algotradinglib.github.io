@@ -4,7 +4,7 @@
 
 ### Delta (Δ)
 
-Delta represents the sensitivity of an option's price to changes in the price of the underlying asset. For instance, a delta of 0.5 implies that if the underlying asset's price increases by $1, the option's price is expected to increase by $0.50. Delta can range from -1 to 1. For call options, delta ranges from 0 to 1, while for put options, it ranges from -1 to 0.
+Delta represents the sensitivity of an option's price to changes in the price of the underlying asset. For instance, a delta of 0.5 implies that if the underlying asset's price increases by $1, the option's price is expected to increase by $0.50. Delta can range from -1 to 1. For call options, delta ranges from 0 to 1, while for [put options](../p/put_options.md), it ranges from -1 to 0.
 
 ### Gamma (Γ)
 
@@ -16,7 +16,7 @@ Theta, also known as time decay, measures the rate at which the option's value d
 
 ## The Principle of Gamma Scalping
 
-Gamma scalping involves delta-hedging an options position while taking into account the gamma exposure. The primary objective is to lock in profits from directional moves in the underlying asset by continually adjusting the hedge.
+Gamma scalping involves delta-hedging an options position while taking into account the [gamma exposure](../g/gamma_exposure.md). The primary objective is to lock in profits from directional moves in the underlying asset by continually adjusting the hedge.
 
 ### Step-by-Step Approach
 
@@ -81,11 +81,11 @@ The profits from these adjustments come from selling high and buying low, effect
 Various tools and platforms facilitate gamma scalping strategies by providing the necessary analytics and execution capabilities. Notable platforms include:
 
 1. **ThinkOrSwim by TD Ameritrade:**
-    - Offers robust options analytics including Greeks and volatility analysis.
+    - Offers robust options analytics including Greeks and [volatility analysis](../v/volatility_analysis.md).
     - [ThinkOrSwim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
 
 2. **OptionVue:**
-    - Provides advanced options software for risk management and strategy analysis.
+    - Provides advanced options software for [risk management](../r/risk_management.md) and strategy analysis.
     - [OptionVue](https://www.optionvue.com/)
 
 3. **LiveVol by Cboe Global Markets:**
@@ -102,4 +102,4 @@ Various tools and platforms facilitate gamma scalping strategies by providing th
 
 ## Conclusion
 
-Gamma scalping is a powerful options trading strategy that leverages the dynamic relationship between delta and gamma to capture profits from price movements in the underlying asset. While it requires sophisticated tools and a deep understanding of options mechanics, it offers traders the ability to profit from volatile market conditions. By carefully managing delta hedges and understanding the implications of gamma, traders can effectively employ this strategy to enhance their trading performance.
+Gamma scalping is a powerful options trading strategy that leverages the dynamic relationship between delta and gamma to capture profits from price movements in the underlying asset. While it requires sophisticated tools and a deep understanding of options mechanics, it offers traders the ability to profit from volatile market conditions. By carefully managing delta hedges and understanding the implications of gamma, traders can effectively employ this strategy to enhance their [trading performance](../t/trading_performance.md).

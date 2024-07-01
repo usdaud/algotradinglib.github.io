@@ -4,7 +4,7 @@ The Short Condor Spread is a sophisticated options trading strategy designed for
 
 ## Overview
 
-The Short Condor Spread is constructed by selling one lower strike call, buying one lower-middle strike call, buying one upper-middle strike call, and selling one upper strike call. It can alternatively be constructed with put options, involving selling one lower strike put, buying one lower-middle strike put, buying one upper-middle strike put, and selling one upper strike put. Despite the involvement of multiple options, it results in a net credit to the trader upon initiation.
+The Short Condor Spread is constructed by selling one lower strike call, buying one lower-middle strike call, buying one upper-middle strike call, and selling one upper strike call. It can alternatively be constructed with [put options](../p/put_options.md), involving selling one lower strike put, buying one lower-middle strike put, buying one upper-middle strike put, and selling one upper strike put. Despite the involvement of multiple options, it results in a net credit to the trader upon initiation.
 
 ### Components of a Short Condor Spread
 
@@ -63,7 +63,7 @@ Proper management of the Short Condor Spread involves continuous monitoring of t
 
 ## Ideal Market Conditions
 
-The Short Condor Spread thrives in low volatility conditions with the underlying asset exhibiting minimal price movement. Market conditions might be ideal if economic indicators show stable growth forecasts without significant swings.
+The Short Condor Spread thrives in low volatility conditions with the underlying asset exhibiting minimal price movement. Market conditions might be ideal if [economic indicators](../e/economic_indicators.md) show stable growth forecasts without significant swings.
 
 ## Tools and Platforms for Trading Short Condor Spread
 
@@ -71,15 +71,15 @@ Several trading platforms and tools can be employed to set up and manage Short C
 
 ### [Thinkorswim by TD Ameritrade](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
 
-Thinkorswim offers an advanced trading platform with tools for forming complex options strategies including Short Condor Spread. It provides extensive charting, risk analysis tools, and backtesting capabilities to simulate trades and understand potential outcomes.
+Thinkorswim offers an advanced trading platform with tools for forming complex options strategies including Short Condor Spread. It provides extensive charting, [risk analysis](../r/risk_analysis.md) tools, and [backtesting](../b/backtesting.md) capabilities to simulate trades and understand potential outcomes.
 
 ### [Interactive Brokers](https://www.interactivebrokers.com/en/index.php?f=1335)
 
-Interactive Brokers offers a suite of options trading tools that can help traders implement and monitor Short Condor Spreads effectively. The platform includes a robust risk navigator, real-time risk monitoring, and portfolio analysis tools.
+Interactive Brokers offers a suite of options trading tools that can help traders implement and monitor Short Condor Spreads effectively. The platform includes a robust risk navigator, real-time risk monitoring, and [portfolio analysis](../p/portfolio_analysis.md) tools.
 
 ### [TradeStation](https://www.tradestation.com/)
 
-TradeStation provides an intuitive interface for options trading with tools for strategy building, risk analysis, and also offers educational resources for traders looking to understand complex strategies like Short Condor Spreads.
+TradeStation provides an intuitive interface for options trading with tools for strategy building, [risk analysis](../r/risk_analysis.md), and also offers educational resources for traders looking to understand complex strategies like Short Condor Spreads.
 
 ## Conclusion
 

@@ -2,7 +2,7 @@
 
 ### Moving Averages (MA)
 
-Moving averages are one of the most common and useful swing trading indicators. They smooth out price data to identify the direction of the trend. The most popular types of moving averages are the Simple Moving Average (SMA) and the Exponential Moving Average (EMA). 
+Moving averages are one of the most common and useful [swing trading](../s/swing_trading.md) indicators. They smooth out price data to identify the direction of the trend. The most popular types of moving averages are the Simple Moving Average (SMA) and the Exponential Moving Average (EMA). 
 
 **Simple Moving Average (SMA)**  
 The SMA calculates the average of a selected range of prices, usually closing prices, by the number of periods in that range. For example, a 20-day SMA sums up the closing prices of the last 20 days and divides by 20.
@@ -29,7 +29,7 @@ It represents the difference between the MACD line and the signal line. When the
 
 ### Bollinger Bands
 
-Bollinger Bands consist of a middle band being an N-period moving average, and two outer bands that are N-period standard deviations away from the middle band. These bands adjust to volatility: they expand during periods of high volatility and contract during periods of low volatility.
+[Bollinger Bands](../b/bollinger_bands.md) consist of a middle band being an N-period moving average, and two outer bands that are N-period standard deviations away from the middle band. These bands adjust to volatility: they expand during periods of high volatility and contract during periods of low volatility.
 
 - **Upper Band**: SMA + 2 standard deviations
 - **Lower Band**: SMA - 2 standard deviations
@@ -40,7 +40,7 @@ This tool is used to identify potential reversal levels by plotting horizontal l
 
 ### Stochastic Oscillator
 
-The stochastic oscillator is another momentum indicator that compares a particular closing price to a range of prices over a certain period of time. The sensitivity of the oscillator to market movements can be reduced by adjusting the timeframe or by taking a moving average of the result.
+The [stochastic oscillator](../s/stochastic_oscillator.md) is another momentum indicator that compares a particular closing price to a range of prices over a certain period of time. The sensitivity of the oscillator to market movements can be reduced by adjusting the timeframe or by taking a moving average of the result.
 
 - **%K**: The current closing price compared to the high/low range over a specific period.
 - **%D**: A moving average of the %K.
@@ -55,11 +55,11 @@ OBV is a volume-based indicator that measures the buying and selling pressure. I
 
 ### Parabolic SAR
 
-The Parabolic SAR (Stop and Reverse) is a trend-following indicator that identifies potential reversals in the market. When the price is above the SAR, the trend is considered bullish, and when below, it’s considered bearish.
+The [Parabolic SAR](../p/parabolic_sar.md) (Stop and Reverse) is a trend-following indicator that identifies potential reversals in the market. When the price is above the SAR, the trend is considered bullish, and when below, it’s considered bearish.
 
 ### Ichimoku Cloud
 
-The Ichimoku Cloud, or Ichimoku Kinko Hyo, is a comprehensive indicator that defines support and resistance, trend direction, and momentum all in one view. It consists of five lines, the most important being the "cloud" or Kumo, which projects future support and resistance levels.
+The [Ichimoku Cloud](../i/ichimoku_cloud.md), or Ichimoku Kinko Hyo, is a comprehensive indicator that defines [support and resistance](../s/support_and_resistance.md), trend direction, and momentum all in one view. It consists of five lines, the most important being the "cloud" or Kumo, which projects future [support and resistance](../s/support_and_resistance.md) levels.
 
 ### Commodity Channel Index (CCI)
 

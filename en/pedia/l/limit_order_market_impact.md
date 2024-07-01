@@ -2,7 +2,7 @@
 
 **Overview**
 
-In the realm of algorithmic trading, understanding the impact of different types of orders on the market is fundamental. One critical type of order is the limit order, and comprehending its market impact can enable traders and analysts to make more informed decisions. The concept of limit order market impact delves into how these orders influence the market, the tactics employed by traders, and their overall implications.
+In the realm of [algorithmic trading](../a/algorithmic_trading.md), understanding the impact of different types of orders on the market is fundamental. One critical type of order is the limit order, and comprehending its market impact can enable traders and analysts to make more informed decisions. The concept of limit order market impact delves into how these orders influence the market, the tactics employed by traders, and their overall implications.
 
 ---
 
@@ -18,7 +18,7 @@ A limit order is an order to buy or sell a stock at a specific price or better. 
 
 - **Order Execution:** Limit orders are not guaranteed to execute immediately. They sit in the order book until a matching counterorder fills them or they are canceled. This waiting period can affect market dynamics, especially in thin markets.
 
-- **Liquidity Provision:** Limit orders can enhance market liquidity, as they represent commitments to trade at specified prices. This contrasts with market orders, which demand liquidity from the current order book.
+- **[Liquidity Provision](../l/liquidity_provision.md):** Limit orders can enhance market liquidity, as they represent commitments to trade at specified prices. This contrasts with market orders, which demand liquidity from the current order book.
 
 ---
 
@@ -29,7 +29,7 @@ The market impact of limit orders can be analyzed through various lenses:
 1. **Price Stability:** 
     - Limit orders can stabilize prices by providing a cushion against large market orders. For example, a large sell order may impact the price significantly if there are no buy limit orders close to the current market price. Conversely, a series of buy limit orders can absorb selling pressure, mitigating large price movements.
   
-2. **Order Book Dynamics:**
+2. **[Order Book Dynamics](../o/order_book_dynamics.md):**
     - The depth and distribution of limit orders in the order book can signal market sentiment. A dense order book with limit orders close to the current price indicates robust liquidity, while a sparse order book suggests potential volatility.
 
 3. **Price Discovery:**
@@ -54,7 +54,7 @@ Numerous studies and models have been developed to analyze the market impact of 
     - These models simulate the actions and interactions of autonomous agents (traders) to assess their effects on the market. They are effective in capturing the adaptive and strategic behavior of market participants.
 
 - **Empirical Analysis:**
-    - Real market data analysis helps to understand actual trading behavior and market responses to limit orders. Techniques such as regression analysis and econometric modeling are used to identify patterns and causal relationships.
+    - Real market data analysis helps to understand actual trading behavior and market responses to limit orders. Techniques such as [regression analysis](../r/regression_analysis.md) and econometric modeling are used to identify patterns and causal relationships.
 
 ---
 
@@ -72,7 +72,7 @@ Different market participants use limit orders in varying ways based on their tr
     - Employ sophisticated algorithms to rapidly place and cancel limit orders, providing liquidity and profiting from small price changes.
 
 - **Market Makers:**
-    - Use limit orders to continuously provide buy and sell quotes, ensuring liquidity and earning the bid-ask spread.
+    - Use limit orders to continuously provide buy and sell quotes, ensuring liquidity and earning the [bid-ask spread](../b/bid-ask_spread.md).
 
 ---
 
@@ -93,14 +93,14 @@ Different market participants use limit orders in varying ways based on their tr
 
 Technological advancements have significantly impacted the usage and effectiveness of limit orders:
 
-- **Algorithmic Trading Systems:**
+- **[Algorithmic Trading](../a/algorithmic_trading.md) Systems:**
     - Sophisticated algorithms analyze market conditions and strategically place limit orders. These systems can react faster than human traders, optimizing entry and exit points.
 
 - **Trading Infrastructure:**
     - Low-latency connections and high-speed trading platforms are crucial for placing and adjusting limit orders rapidly, especially in high-frequency trading.
 
 - **Real-Time Data Analytics:**
-    - Access to real-time market data enables more informed decision-making regarding limit order placements, enhancing the tactical approach to trading.
+    - Access to [real-time market data](../r/real-time_market_data.md) enables more informed decision-making regarding limit order placements, enhancing the tactical approach to trading.
 
 ---
 
@@ -108,7 +108,7 @@ Technological advancements have significantly impacted the usage and effectivene
 
 Regulations can affect how limit orders are used and their market impact:
 
-- **Trading Rules:**
+- **[Trading Rules](../t/trading_rules.md):**
     - Exchanges may impose rules on order types, limits on order size, and cancellations, affecting the deployment of limit orders.
 
 - **Transparency Requirements:**
@@ -118,7 +118,7 @@ Regulations can affect how limit orders are used and their market impact:
 
 **Implications for Market Behavior**
 
-Understanding the market impact of limit orders is essential for predicting market behavior and optimizing trading strategies. It provides insights into:
+Understanding the market impact of limit orders is essential for predicting market behavior and optimizing [trading strategies](../t/trading_strategies.md). It provides insights into:
 
 - **Liquidity Dynamics:** 
     - A healthy balance of buy and sell limit orders contributes to market stability. Imbalances can lead to significant price movements or market inefficiencies.
@@ -126,11 +126,11 @@ Understanding the market impact of limit orders is essential for predicting mark
 - **Trader Behavior:**
     - Recognizing patterns in limit order placements can help predict other traders' actions, enabling more strategic trading decisions.
 
-- **Market Efficiency:**
-    - Effective use of limit orders contributes to market efficiency by ensuring that prices reflect the true state of supply and demand.
+- **[Market Efficiency](../m/market_efficiency.md):**
+    - Effective use of limit orders contributes to [market efficiency](../m/market_efficiency.md) by ensuring that prices reflect the true state of supply and demand.
 
 ---
 
 **Conclusion**
 
-Limit orders are a vital component of the trading ecosystem, offering both advantages and challenges. Their impact on the market, from liquidity provision to price discovery and volatility control, is substantial. By leveraging empirical studies, advanced models, and strategic placements, traders can optimize their use of limit orders to achieve desired outcomes while contributing to overall market efficiency. Understanding these dynamics is crucial for anyone involved in algorithmic trading and market analysis.
+Limit orders are a vital component of the trading ecosystem, offering both advantages and challenges. Their impact on the market, from [liquidity provision](../l/liquidity_provision.md) to price discovery and volatility control, is substantial. By leveraging empirical studies, advanced models, and strategic placements, traders can optimize their use of limit orders to achieve desired outcomes while contributing to overall [market efficiency](../m/market_efficiency.md). Understanding these dynamics is crucial for anyone involved in [algorithmic trading](../a/algorithmic_trading.md) and market analysis.

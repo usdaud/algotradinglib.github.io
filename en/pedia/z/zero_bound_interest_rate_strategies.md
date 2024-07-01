@@ -8,7 +8,7 @@ The zero bound is an economic state where the short-term nominal interest rates 
 
 ### Quantitative Easing (QE)
 
-Quantitative Easing (QE) is a non-conventional monetary policy tool employed by central banks to stimulate the economy when standard policy tools have become ineffective. When central banks lower interest rates to zero or near zero, traditional monetary policy runs out of room to stimulate the economy, leading to the adoption of QE strategies. QE involves large-scale purchases of financial assets, such as government bonds and mortgage-backed securities, to inject liquidity into the financial system.
+[Quantitative Easing](../q/quantitative_easing.md) (QE) is a non-conventional monetary policy tool employed by central banks to stimulate the economy when standard policy tools have become ineffective. When central banks lower interest rates to zero or near zero, traditional monetary policy runs out of room to stimulate the economy, leading to the adoption of QE strategies. QE involves large-scale purchases of financial assets, such as government bonds and mortgage-backed securities, to inject liquidity into the financial system.
 
 **Mechanism:**
 1. **Asset Purchases:** Central banks purchase government securities or other financial assets from the market.
@@ -63,10 +63,10 @@ Forward guidance is a communication tool used by central banks to influence mark
 
 ### Yield Curve Control (YCC)
 
-Yield Curve Control (YCC) is a policy whereby a central bank targets specific yields for government bonds of various maturities. This approach aims to keep long-term interest rates low and stable, supporting economic growth and achieving inflation targets.
+[Yield Curve](../y/yield_curve.md) Control (YCC) is a policy whereby a central bank targets specific yields for government bonds of various maturities. This approach aims to keep long-term interest rates low and stable, supporting economic growth and achieving inflation targets.
 
 **Mechanism:**
-1. **Yield Targets:** Central banks set target yields for different maturities along the yield curve.
+1. **Yield Targets:** Central banks set target yields for different maturities along the [yield curve](../y/yield_curve.md).
 2. **Interventions:** The central bank buys or sells government bonds to maintain the desired yield levels.
 3. **Market Signal:** By anchoring yields, YCC can influence broader financial conditions and economic activity.
 

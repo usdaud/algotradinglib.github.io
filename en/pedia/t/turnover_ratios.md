@@ -1,6 +1,6 @@
 # Turnover Ratios in Algorithmic Trading
 
-Turnover ratios play a crucial role in algorithmic trading by measuring the efficiency and frequency at which a trading strategy buys and sells securities. High turnover ratios often indicate aggressive trading strategies, while low ratios can signify conservative approaches. This document delves deeply into the concept of turnover ratios, their calculation, implications, and how they affect the performance of algorithmic trading systems.
+Turnover ratios play a crucial role in [algorithmic trading](../a/algorithmic_trading.md) by measuring the efficiency and frequency at which a trading strategy buys and sells securities. High turnover ratios often indicate aggressive [trading strategies](../t/trading_strategies.md), while low ratios can signify conservative approaches. This document delves deeply into the concept of turnover ratios, their calculation, implications, and how they affect the performance of [algorithmic trading](../a/algorithmic_trading.md) systems.
 
 ## Definition and Importance
 
@@ -73,17 +73,17 @@ In high-frequency trading, milliseconds can be critical. HFT firms collect tick-
 ## Factors Influencing Turnover Ratios
 
 1. **Market Conditions**: Volatile markets often lead to higher turnover as strategies adapt to rapid price movements.
-2. **Algorithm Design**: Complex algorithms designed for HFT typically yield higher turnover ratios than those intended for long-term investing.
+2. **[Algorithm Design](../a/algorithm_design.md)**: Complex algorithms designed for HFT typically yield higher turnover ratios than those intended for long-term investing.
 3. **Liquidity**: Easier access to liquid assets can increase the ease and frequency of trading.
 4. **Regulatory Constraints**: Markets with higher trading regulations may inhibit frequent trading, leading to lower turnover.
 
 ## Turnover Ratios in Backtesting
 
-During backtesting, assessing turnover ratios helps evaluate a strategy’s historical effectiveness. It provides practical insights into operational costs and allows for adjustments before live trading. 
+During [backtesting](../b/backtesting.md), assessing turnover ratios helps evaluate a strategy’s historical effectiveness. It provides practical insights into operational costs and allows for adjustments before live trading. 
 
 ### Case Study
 
-Consider a hypothetical backtest of an algorithmic trading strategy:
+Consider a hypothetical backtest of an [algorithmic trading](../a/algorithmic_trading.md) strategy:
 - Over a six-month period:
   - Total bought: $2,000,000
   - Total sold: $1,800,000
@@ -99,16 +99,16 @@ This ratio helps traders understand the mechanics of transaction volumes and req
 
 ## Companies Specializing in High Turnover Strategies
 
-Several companies are leaders in deploying high-turnover algorithmic trading strategies:
+Several companies are leaders in deploying high-turnover [algorithmic trading](../a/algorithmic_trading.md) strategies:
 
-- **Citadel Securities**: Renowned for HFT and market-making, Citadel operates with high turnover ratios to maintain liquidity and market efficiency. [Visit Citadel Securities](https://www.citadelsecurities.com)
+- **Citadel Securities**: Renowned for HFT and market-making, Citadel operates with high turnover ratios to maintain liquidity and [market efficiency](../m/market_efficiency.md). [Visit Citadel Securities](https://www.citadelsecurities.com)
   
-- **Two Sigma**: Utilizes complex quantitative models and state-of-the-art technology to execute rapid trades across global markets. [Visit Two Sigma](https://www.twosigma.com)
+- **Two Sigma**: Utilizes complex [quantitative models](../q/quantitative_models.md) and state-of-the-art technology to execute rapid trades across global markets. [Visit Two Sigma](https://www.twosigma.com)
 
 - **Jane Street**: Focuses on leveraging sophisticated algorithms for trading equities and options at high frequencies. [Visit Jane Street](https://www.janestreet.com)
 
 ## Conclusion
 
-Turnover ratios are pivotal in evaluating algorithmic trading strategies' efficiency, liquidity, and risk profiles. While higher ratios can offer substantial rewards under specific conditions, they also come with increased costs and market impacts. Conversely, lower turnover ratios tend to be cost-effective but may result in missed short-term opportunities. For algorithmic traders, regular analysis and optimization of turnover ratios are crucial to maintaining a balanced and profitable trading approach.
+Turnover ratios are pivotal in evaluating [algorithmic trading](../a/algorithmic_trading.md) strategies' efficiency, liquidity, and risk profiles. While higher ratios can offer substantial rewards under specific conditions, they also come with increased costs and market impacts. Conversely, lower turnover ratios tend to be cost-effective but may result in missed short-term opportunities. For algorithmic traders, regular analysis and optimization of turnover ratios are crucial to maintaining a balanced and profitable trading approach.
 
-Understanding and leveraging turnover ratios effectively can enhance algorithmic trading performance, contributing to more informed decision-making and strategic planning in the ever-evolving financial markets.
+Understanding and leveraging turnover ratios effectively can enhance [algorithmic trading](../a/algorithmic_trading.md) performance, contributing to more informed decision-making and strategic planning in the ever-evolving financial markets.

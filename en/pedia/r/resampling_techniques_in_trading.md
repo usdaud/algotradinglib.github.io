@@ -1,24 +1,24 @@
 # Resampling Techniques in Trading
 
-Resampling techniques in trading refer to the statistical methods used to modify or analyze datasets by sampling them in various ways. These methods are crucial for traders and quantitative analysts in developing robust trading strategies, evaluating model performance, and managing risks. Resampling techniques can be broadly classified into various categories, with the most common being bootstrapping, jackknifing, and cross-validation. This document explores these techniques in depth, providing practical examples and applications in the trading domain.
+Resampling techniques in trading refer to the statistical methods used to modify or analyze datasets by sampling them in various ways. These methods are crucial for traders and quantitative analysts in developing robust [trading strategies](../t/trading_strategies.md), evaluating model performance, and managing risks. Resampling techniques can be broadly classified into various categories, with the most common being bootstrapping, jackknifing, and cross-validation. This document explores these techniques in depth, providing practical examples and applications in the trading domain.
 
 ## Bootstrapping
 
 ### What is Bootstrapping?
 
-Bootstrapping is a resampling technique that involves repeatedly drawing samples from a dataset with replacement. Each newly drawn sample, or "bootstrap sample," is used to estimate the statistical properties of the data, such as mean, variance, bias, and confidence intervals. Bootstrapping is particularly useful when the theoretical distribution of a statistic is complex or unknown.
+Bootstrapping is a resampling technique that involves repeatedly drawing samples from a dataset with replacement. Each newly drawn sample, or "bootstrap sample," is used to estimate the statistical properties of the data, such as mean, variance, bias, and [confidence intervals](../c/confidence_intervals.md). Bootstrapping is particularly useful when the theoretical distribution of a statistic is complex or unknown.
 
 ### Applications in Trading
 
 1. **Risk Estimation**: Traders often use bootstrapping to estimate the Value at Risk (VaR) and Conditional Value at Risk (CVaR) of their portfolios. By simulating numerous possible scenarios, bootstrapping helps in understanding the potential losses that could occur.
 
-2. **Model Validation**: Bootstrapping can be used to validate trading algorithms by generating various samples of historical price data and testing the algorithm's performance on each sample. This helps in gauging the robustness and generalizability of the model.
+2. **Model Validation**: Bootstrapping can be used to validate [trading algorithms](../t/trading_algorithms.md) by generating various samples of historical price data and testing the algorithm's performance on each sample. This helps in gauging the robustness and generalizability of the model.
 
-3. **Confidence Intervals**: Bootstrapping allows traders to construct confidence intervals for key performance metrics such as Sharpe ratio, sortino ratio, and alpha. This provides a probabilistic measure of the reliability of these metrics.
+3. **[Confidence Intervals](../c/confidence_intervals.md)**: Bootstrapping allows traders to construct [confidence intervals](../c/confidence_intervals.md) for key [performance metrics](../p/performance_metrics.md) such as [Sharpe ratio](../s/sharpe_ratio.md), [sortino ratio](../s/sortino_ratio.md), and alpha. This provides a probabilistic measure of the reliability of these metrics.
 
 ### Example
 
-Let's consider a simple example where we have daily returns of a stock and we want to estimate the 95% confidence interval for the mean return using bootstrapping.
+Let's consider a simple example where we have daily returns of a stock and we want to estimate the [95% confidence interval](../1/95%_confidence_interval.md) for the mean return using bootstrapping.
 
 ```python
 import numpy as np
@@ -39,7 +39,7 @@ for _ in range(num_samples):
 lower_bound = np.percentile(bootstrap_means, 2.5)
 upper_bound = np.percentile(bootstrap_means, 97.5)
 
-print(f"95% confidence interval for the mean return: [{lower_bound}, {upper_bound}]")
+print(f"[95% confidence interval](../1/95%_confidence_interval.md) for the mean return: [{lower_bound}, {upper_bound}]")
 ```
 
 ## Jackknifing
@@ -52,9 +52,9 @@ Jackknifing is a resampling technique where subsets of the data are systematical
 
 1. **Bias Estimation**: Jackknifing is often used to estimate the bias of an estimator. By excluding individual observations repeatedly, it provides insights into how sensitive a trading model is to specific data points.
 
-2. **Variance Reduction**: This method can help in reducing the variance of an estimator, leading to more stable and reliable trading strategies.
+2. **[Variance Reduction](../v/variance_reduction.md)**: This method can help in reducing the variance of an estimator, leading to more stable and reliable [trading strategies](../t/trading_strategies.md).
 
-3. **Parameter Estimation**: Jackknifing can be useful in estimating parameters of complex trading models, especially when dealing with small samples or noisy data.
+3. **Parameter Estimation**: Jackknifing can be useful in estimating parameters of complex [trading models](../t/trading_models.md), especially when dealing with small samples or noisy data.
 
 ### Example
 
@@ -163,7 +163,7 @@ While resampling techniques are excellent for model validation and improvement, 
 
 ## Conclusion
 
-Resampling techniques are indispensable tools in the arsenal of modern traders and quantitative analysts. They provide robust frameworks for model validation, risk management, and parameter estimation. By understanding and appropriately applying these techniques, traders can enhance the reliability and performance of their trading strategies, ultimately leading to better decision-making and improved financial outcomes.
+Resampling techniques are indispensable tools in the arsenal of modern traders and quantitative analysts. They provide robust frameworks for model validation, [risk management](../r/risk_management.md), and parameter estimation. By understanding and appropriately applying these techniques, traders can enhance the reliability and performance of their [trading strategies](../t/trading_strategies.md), ultimately leading to better decision-making and improved financial outcomes.
 
-For more information and practical resources regarding trading and quantitative analysis, you can visit the websites of leading financial technology companies like [QuantConnect](https://www.quantconnect.com/) and [Kaggle](https://www.kaggle.com/learn/overview).
+For more information and practical resources regarding trading and [quantitative analysis](../q/quantitative_analysis.md), you can visit the websites of leading financial technology companies like [QuantConnect](https://www.quantconnect.com/) and [Kaggle](https://www.kaggle.com/learn/overview).
 

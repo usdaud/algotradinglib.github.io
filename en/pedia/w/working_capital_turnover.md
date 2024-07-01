@@ -40,10 +40,10 @@ This means that for every dollar of working capital, XYZ Corp. generated approxi
 
 ### Industry Benchmarks
 
-Working capital turnover ratios can vary significantly across different industries. For instance:
-- **Retail**: Typically higher turnover ratios due to rapid inventory turnover and lower accounts receivable.
-- **Manufacturing**: Moderate turnover ratios as inventories and receivables take longer to convert into cash.
-- **Services**: Lower turnover ratios since these companies generally maintain lower levels of current assets and liabilities.
+Working capital [turnover ratios](../t/turnover_ratios.md) can vary significantly across different industries. For instance:
+- **Retail**: Typically higher [turnover ratios](../t/turnover_ratios.md) due to rapid inventory turnover and lower accounts receivable.
+- **Manufacturing**: Moderate [turnover ratios](../t/turnover_ratios.md) as inventories and receivables take longer to convert into cash.
+- **Services**: Lower [turnover ratios](../t/turnover_ratios.md) since these companies generally maintain lower levels of current assets and liabilities.
 
 ### Key Factors Influencing Working Capital Turnover
 
@@ -53,7 +53,7 @@ Working capital turnover ratios can vary significantly across different industri
 
 ### Variability in Ratios
 
-Working capital turnover ratios may fluctuate over time due to several reasons:
+Working capital [turnover ratios](../t/turnover_ratios.md) may fluctuate over time due to several reasons:
 - **Seasonal Variations**: Sales may be higher during certain periods, affecting the ratio.
 - **Economic Conditions**: During economic downturns, sales may decrease, impacting turnover.
 - **Operational Changes**: Changes in business operations, such as automation or process improvements, can alter working capital requirements.

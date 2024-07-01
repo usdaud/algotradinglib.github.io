@@ -16,7 +16,7 @@ The primary goal of a Zero Rate Policy is to combat deflation, spur economic gro
 Central banks have several tools at their disposal to implement a Zero Rate Policy:
 
 - **Directly Setting Rates**: The most straightforward way is for central banks to set the overnight interest rate they charge on loans to commercial banks to zero or near zero.
-- **Quantitative Easing (QE)**: Besides setting rates directly, central banks can engage in QE by purchasing government and private sector securities to increase the money supply and lower long-term interest rates.
+- **[Quantitative Easing](../q/quantitative_easing.md) (QE)**: Besides setting rates directly, central banks can engage in QE by purchasing government and private sector securities to increase the money supply and lower long-term interest rates.
 - **Forward Guidance**: Central banks may also use forward guidance to communicate their future policy intentions, which can influence financial conditions even if the current policies are unchanged.
 
 ## Economic Impact
@@ -37,7 +37,7 @@ The economic impacts of a Zero Rate Policy can be significant and multifaceted:
 
 ## Historical Examples
 
-One notable example of the Zero Rate Policy is the United States during the financial crisis of 2008-2009. In response to the severe economic downturn, the Federal Reserve reduced the federal funds rate to nearly zero by December 2008. This was complemented by several rounds of Quantitative Easing to further stimulate the economy.
+One notable example of the Zero Rate Policy is the United States during the financial crisis of 2008-2009. In response to the severe economic downturn, the Federal Reserve reduced the federal funds rate to nearly zero by December 2008. This was complemented by several rounds of [Quantitative Easing](../q/quantitative_easing.md) to further stimulate the economy.
 
 Another instance is Japan, which has had close-to-zero interest rates since the late 1990s in response to prolonged economic stagnation and deflationary pressures. The Bank of Japan has coupled low-interest rates with aggressive QE policies.
 

@@ -22,22 +22,22 @@ The quality and speed of data are paramount. Reputable real-time news services l
 ### Natural Language Processing (NLP)
 
 To harness news data effectively, the use of NLP algorithms has become increasingly common. NLP helps in:
-- **Sentiment Analysis**: Determining the market sentiment from news articles, tweets, and other text sources.
+- **[Sentiment Analysis](../s/sentiment_analysis.md)**: Determining the market sentiment from news articles, tweets, and other text sources.
 - **Trend Detection**: Identifying trending topics and gauging their potential market impact.
 - **Event Categorization**: Classifying news items based on their relevance and potential market impact.
 
 ### Market Reaction Algorithms
 
 Algorithms designed for High Impact News Trading often include:
-- **Volatility Models**: Predicting the extent of market volatility in response to specific news events.
+- **[Volatility Models](../v/volatility_models.md)**: Predicting the extent of market volatility in response to specific news events.
 - **Price Movement Projections**: Estimating the directional movement of prices post-news release.
 - **Order Execution Schemes**: Strategies for optimal order placement and execution speed.
 
 ### Risk Management
 
-Effective risk management is crucial, given the high stakes of trading around major news events. Strategies include:
+Effective [risk management](../r/risk_management.md) is crucial, given the high stakes of trading around major news events. Strategies include:
 - **Stop-Loss and Take-Profit Levels**: Predefined levels to exit positions and minimize losses.
-- **Position Sizing**: Determining the appropriate size of trades based on potential risk and return.
+- **[Position Sizing](../p/position_sizing.md)**: Determining the appropriate size of trades based on potential risk and return.
 - **Diversification**: Spreading trades across various instruments to mitigate concentrated risk.
 
 ## Case Study: Algorithmic Response to the U.S. Non-Farm Payroll (NFP) Report
@@ -52,7 +52,7 @@ One of the most anticipated news events is the monthly U.S. Non-Farm Payroll rep
 ## Companies Specialized in High Impact News Trading
 
 ### QuantConnect
-QuantConnect provides a comprehensive platform for algorithmic trading, allowing traders to collaborate, back-test, and deploy strategies across multiple asset classes. Their open-source algorithmic trading engine, Lean, supports deployment in High Impact News Trading scenarios.
+QuantConnect provides a comprehensive platform for [algorithmic trading](../a/algorithmic_trading.md), allowing traders to collaborate, back-test, and deploy strategies across multiple asset classes. Their open-source [algorithmic trading](../a/algorithmic_trading.md) engine, Lean, supports deployment in High Impact News Trading scenarios.
 
 [QuantConnect](https://www.quantconnect.com/)
 
@@ -74,7 +74,7 @@ Building a robust High Impact News Trading algorithm involves several steps:
  
 2. **Algorithm Development**: Utilize programming languages like Python or R, and incorporate machine learning techniques for analyzing news sentiment and predicting market reactions.
 
-3. **Backtesting**: Thoroughly test your algorithm against historical data to gauge its performance and refine the strategy based on the outcomes.
+3. **[Backtesting](../b/backtesting.md)**: Thoroughly test your algorithm against historical data to gauge its performance and refine the strategy based on the outcomes.
 
 4. **Live Testing**: Gradually introduce your algorithm to live trading with controlled risk limits to monitor its effectiveness and adjust as necessary.
 
@@ -82,7 +82,7 @@ Building a robust High Impact News Trading algorithm involves several steps:
 
 ## Ethical Considerations and Regulatory Compliance
 
-Given the rapid and often large-scale impact of news trading algorithms, adhering to ethical trading practices and regulatory compliance is essential. Key considerations include:
+Given the rapid and often large-scale impact of news [trading algorithms](../t/trading_algorithms.md), adhering to ethical trading practices and regulatory compliance is essential. Key considerations include:
 
 - **Market Manipulation**: Algorithms must not engage in practices that could be deemed as manipulative or disruptive to market fairness and integrity.
 - **Data Privacy**: Respecting data privacy regulations, particularly when using third-party sources and customer data.
@@ -94,8 +94,8 @@ As technology evolves, several trends are emerging which will shape the future o
 
 - **Enhanced AI Algorithms**: More sophisticated AI and machine learning models will continue to improve the accuracy and speed of news event analysis.
 - **Quantum Computing**: The advent of quantum computing could revolutionize data processing speeds and complex algorithmic computations, providing an even greater edge in news-based trading.
-- **Integration with Blockchain**: Leveraging blockchain for secure and transparent transaction processing could mitigate some ethical concerns and improve trust in algorithmic trading systems.
+- **Integration with Blockchain**: Leveraging blockchain for secure and transparent transaction processing could mitigate some ethical concerns and improve trust in [algorithmic trading](../a/algorithmic_trading.md) systems.
 
 ## Conclusion
 
-High Impact News Trading represents one of the most dynamic and potentially profitable areas of algorithmic trading. By combining advanced algorithms with real-time data and a disciplined approach to risk management, traders can capitalize on the substantial price movements caused by significant news events. Key to success in this field is a continuous commitment to technological innovation, rigorous testing, and adherence to ethical standards.
+High Impact News Trading represents one of the most dynamic and potentially profitable areas of [algorithmic trading](../a/algorithmic_trading.md). By combining advanced algorithms with real-time data and a disciplined approach to [risk management](../r/risk_management.md), traders can capitalize on the substantial price movements caused by significant news events. Key to success in this field is a continuous commitment to technological innovation, rigorous testing, and adherence to ethical standards.

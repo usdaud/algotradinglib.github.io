@@ -1,12 +1,12 @@
 ### Portfolio Allocation Models
 
-In the realm of algorithmic trading, portfolio allocation models are indispensable tools for managing and optimizing the distribution of investments within a portfolio. These models aim to balance risk and return by determining the proportion of each asset to hold in a diversified portfolio. The development and application of portfolio allocation models can involve complex mathematical and statistical techniques, and they are essential for both individual investors and institutional managers.
+In the realm of [algorithmic trading](../a/algorithmic_trading.md), portfolio allocation models are indispensable tools for managing and optimizing the distribution of investments within a portfolio. These models aim to balance risk and return by determining the proportion of each asset to hold in a diversified portfolio. The development and application of portfolio allocation models can involve complex mathematical and statistical techniques, and they are essential for both individual investors and institutional managers.
 
 This comprehensive guide covers some of the most common portfolio allocation models used in financial markets, providing a detailed look into their methodologies, advantages, limitations, and real-world applications.
 
 #### Mean-Variance Optimization (MVO)
 
-Popularized by Harry Markowitz in 1952, the Mean-Variance Optimization (MVO) model is one of the foundational models in modern portfolio theory. MVO aims to create a portfolio that maximizes return for a given level of risk or minimizes risk for a given level of return by using the mean (expected return) and variance (risk) of asset returns.
+Popularized by Harry Markowitz in 1952, the [Mean-Variance Optimization](../m/mean-variance_optimization.md) (MVO) model is one of the foundational models in modern portfolio theory. MVO aims to create a portfolio that maximizes return for a given level of risk or minimizes risk for a given level of return by using the mean (expected return) and variance (risk) of asset returns.
 
 1. **Mathematical Framework**:
     - **Expected Return (μ)**: The weighted average of the individual asset returns.
@@ -46,7 +46,7 @@ The Capital Asset Pricing Model (CAPM) extends the MVO framework by incorporatin
 
 #### Black-Litterman Model
 
-The Black-Litterman Model, introduced by Fischer Black and Robert Litterman in 1992, addresses some limitations of the MVO by incorporating investor views into the estimation of expected returns. This model blends the investor's subjective views with market equilibrium returns to produce more stable and practical portfolio weights.
+The [Black-Litterman Model](../b/black-litterman_model.md), introduced by Fischer Black and Robert Litterman in 1992, addresses some limitations of the MVO by incorporating investor views into the estimation of expected returns. This model blends the investor's subjective views with market equilibrium returns to produce more stable and practical portfolio weights.
 
 1. **Mathematical Framework**:
     - **Market Equilibrium**: Initial expected returns are derived from the equilibrium market.
@@ -67,7 +67,7 @@ The Black-Litterman Model, introduced by Fischer Black and Robert Litterman in 1
 
 #### Risk Parity
 
-The Risk Parity model aims to allocate portfolio weights such that each asset contributes equally to the overall risk of the portfolio. Unlike traditional models that focus on expected returns, Risk Parity emphasizes balancing risk contributions.
+The [Risk Parity](../r/risk_parity.md) model aims to allocate portfolio weights such that each asset contributes equally to the overall risk of the portfolio. Unlike traditional models that focus on expected returns, [Risk Parity](../r/risk_parity.md) emphasizes balancing risk contributions.
 
 1. **Mathematical Framework**:
     - **Equal Risk Contribution (ERC)**: Calculate the portfolio weights that equalize the contribution to total portfolio risk.
@@ -123,15 +123,15 @@ The Equal-Weighting model is the simplest form of portfolio allocation, where an
 
 #### Hierarchical Risk Parity (HRP)
 
-The Hierarchical Risk Parity (HRP) model is a more sophisticated approach that combines hierarchical clustering with risk parity principles. It aims to create diversified portfolios by identifying and allocating assets based on their inherent relationships and hierarchical structure.
+The Hierarchical [Risk Parity](../r/risk_parity.md) (HRP) model is a more sophisticated approach that combines hierarchical clustering with [risk parity](../r/risk_parity.md) principles. It aims to create diversified portfolios by identifying and allocating assets based on their inherent relationships and hierarchical structure.
 
 1. **Mathematical Framework**:
     - **Clustering**: Use hierarchical clustering to group assets based on their correlation structure.
-    - **Risk Parity Weights**: Apply risk parity principles within clusters to allocate weights.
+    - **[Risk Parity](../r/risk_parity.md) Weights**: Apply [risk parity](../r/risk_parity.md) principles within clusters to allocate weights.
     
 2. **Advantages**:
     - Exploits the hierarchical structure of asset relationships for better diversification.
-    - Can lead to improved out-of-sample performance compared to traditional models.
+    - Can lead to improved [out-of-sample performance](../o/out-of-sample_performance.md) compared to traditional models.
 
 3. **Limitations**:
     - Model complexity requires more advanced computational resources and expertise.
@@ -142,7 +142,7 @@ The Hierarchical Risk Parity (HRP) model is a more sophisticated approach that c
 Dynamic Portfolio Theory addresses the limitations of static models by adjusting the portfolio in response to changing market conditions. It involves continuous rebalancing and adaptation to maximize returns and control risk over time.
 
 1. **Mathematical Framework**:
-    - **Stochastic Control**: Use differential equations and stochastic control techniques to model and optimize portfolio dynamics.
+    - **[Stochastic Control](../s/stochastic_control.md)**: Use differential equations and [stochastic control](../s/stochastic_control.md) techniques to model and optimize portfolio dynamics.
     
 2. **Advantages**:
     - Can exploit short-term market opportunities.
@@ -156,12 +156,12 @@ Dynamic Portfolio Theory addresses the limitations of static models by adjusting
 
 Several financial organizations and technology firms provide tools and platforms for portfolio allocation and management, leveraging the models discussed. Notable examples include:
 
-1. **BlackRock**: A global asset management firm that utilizes advanced portfolio optimization techniques in its Aladdin platform. [BlackRock](https://www.blackrock.com)
+1. **BlackRock**: A global asset management firm that utilizes advanced [portfolio optimization](../p/portfolio_optimization.md) techniques in its Aladdin platform. [BlackRock](https://www.blackrock.com)
 
-2. **FactSet**: Provides analytics and portfolio management solutions incorporating various allocation models. [FactSet](https://www.factset.com)
+2. **FactSet**: Provides analytics and [portfolio management](../p/portfolio_management.md) solutions incorporating various allocation models. [FactSet](https://www.factset.com)
 
-3. **Morningstar**: Offers data-driven portfolio management tools, including investment research and risk assessment. [Morningstar](https://www.morningstar.com)
+3. **Morningstar**: Offers data-driven [portfolio management](../p/portfolio_management.md) tools, including investment research and risk assessment. [Morningstar](https://www.morningstar.com)
 
-4. **Axioma**: Specializes in risk management and portfolio optimization software using state-of-the-art quantitative methods. [Axioma](https://www.axioma.com)
+4. **Axioma**: Specializes in [risk management](../r/risk_management.md) and [portfolio optimization](../p/portfolio_optimization.md) software using state-of-the-art quantitative methods. [Axioma](https://www.axioma.com)
 
 In conclusion, portfolio allocation models are vital for achieving optimal investment outcomes. By understanding the methodologies, advantages, and limitations of different models, investors can make informed decisions tailored to their risk tolerance and return objectives.

@@ -19,7 +19,7 @@ Repo transactions can be broken down into a few key components:
 
 ### Repo Trading Strategies
 
-Repo trading strategies can be diverse and cater to different market conditions and investor needs. Some of the most commonly used strategies include:
+Repo [trading strategies](../t/trading_strategies.md) can be diverse and cater to different market conditions and investor needs. Some of the most commonly used strategies include:
 
 1. **Matched Book Repo Trading**: 
    - **Definition**: This strategy involves matching the term and size of reverse repo transactions with an opposite repo transaction.
@@ -37,8 +37,8 @@ Repo trading strategies can be diverse and cater to different market conditions 
    - **Definition**: In this strategy, traders focus on repos involving specific, often high-demand securities that are in short supply.
    - **Objective**: The goal is to profit from the scarcity premium that these special securities can command.
 
-5. **Term Structure Arbitrage**: 
-   - **Definition**: This strategy involves exploiting discrepancies in the yield curve by entering into repos with different maturities.
+5. **Term Structure [Arbitrage](../a/arbitrage.md)**: 
+   - **Definition**: This strategy involves exploiting discrepancies in the [yield curve](../y/yield_curve.md) by entering into repos with different maturities.
    - **Objective**: The aim is to benefit from the differences in repo rates along the term structure.
 
 6. **Collateral Optimization**: 
@@ -49,15 +49,15 @@ Repo trading strategies can be diverse and cater to different market conditions 
 
 Even though repos are usually considered low-risk due to the collateral involved, they are not without risks. Key risks include:
 
-1. **Counterparty Risk**: 
+1. **[Counterparty Risk](../c/counterparty_risk.md)**: 
    - **Description**: The risk that the counterparty may fail to fulfill its obligations, potentially leading to financial loss.
-   - **Mitigation**: This can be mitigated by the counterparty selection process and using robust risk management practices.
+   - **Mitigation**: This can be mitigated by the counterparty selection process and using robust [risk management](../r/risk_management.md) practices.
 
 2. **Collateral Risk**: 
    - **Description**: The risk that the value of the collateral may decline, potentially resulting in insufficient coverage for the loan amount.
    - **Mitigation**: Measures include frequent revaluation of collateral and applying haircuts (percentage reductions to the value of collateral).
 
-3. **Liquidity Risk**: 
+3. **[Liquidity Risk](../l/liquidity_risk.md)**: 
    - **Description**: The risk that the repo market may become illiquid, making it difficult to enter or exit positions.
    - **Mitigation**: To mitigate this, traders often rely on high-quality, highly liquid securities as collateral.
 
@@ -71,14 +71,14 @@ Even though repos are usually considered low-risk due to the collateral involved
 
 ### Technological Integration in Repo Trading
 
-The landscape of repo trading has evolved with technological advancements. Algorithmic trading, data analytics, and blockchain technology are increasingly becoming integral to this market.
+The landscape of repo trading has evolved with technological advancements. [Algorithmic trading](../a/algorithmic_trading.md), data analytics, and blockchain technology are increasingly becoming integral to this market.
 
-1. **Algorithmic Trading**: 
+1. **[Algorithmic Trading](../a/algorithmic_trading.md)**: 
    - **Innovation**: Algorithms can execute repo transactions at high speed and efficiency, analyzing vast amounts of market data to identify opportunities.
-   - **Usage**: Firms like [Citadel Securities](https://www.citadelsecurities.com) and others are pioneers in leveraging algorithmic trading in these markets.
+   - **Usage**: Firms like [Citadel Securities](https://www.citadelsecurities.com) and others are pioneers in leveraging [algorithmic trading](../a/algorithmic_trading.md) in these markets.
 
 2. **Data Analytics**: 
-   - **Innovation**: The use of advanced data analytics helps in better risk assessment and decision-making by analyzing historical data, market trends, and economic indicators.
+   - **Innovation**: The use of advanced data analytics helps in better risk assessment and decision-making by analyzing historical data, market trends, and [economic indicators](../e/economic_indicators.md).
    - **Usage**: Financial institutions such as [J.P. Morgan](https://www.jpmorgan.com) utilize big data analytics to enhance their repo trading operations.
 
 3. **Blockchain Technology**: 
@@ -103,4 +103,4 @@ Repo trading is under constant scrutiny by regulators due to its significant rol
 
 ### Conclusion
 
-Repo trading strategies play an essential role in the functioning of the financial markets by providing liquidity and facilitating efficient market operations. From matched book strategies aimed at earning spreads with minimal risk to more complex mismatch and arbitrage approaches, repo trading offers numerous avenues for profitability. Nonetheless, it requires comprehensive risk management and adaptation to technological advancements and regulatory changes to thrive in this dynamic market.
+Repo [trading strategies](../t/trading_strategies.md) play an essential role in the functioning of the financial markets by providing liquidity and facilitating efficient market operations. From matched book strategies aimed at earning spreads with minimal risk to more complex mismatch and [arbitrage](../a/arbitrage.md) approaches, repo trading offers numerous avenues for profitability. Nonetheless, it requires comprehensive [risk management](../r/risk_management.md) and adaptation to technological advancements and regulatory changes to thrive in this dynamic market.

@@ -11,15 +11,15 @@ Common gaps, also known as trading gaps, are usually insignificant and are often
 Breakaway gaps occur when the price gaps away from a consolidation area, indicating a strong shift in market sentiment. These gaps usually signify the beginning of a new trend and are often followed by significant trading volume.
 
 ### 3. Runaway Gaps
-Runaway gaps, also known as continuation gaps, happen in the middle of a price move and suggest strong conviction in the ongoing trend. These gaps often indicate that the trend will continue for some time.
+[Runaway gaps](../r/runaway_gaps.md), also known as continuation gaps, happen in the middle of a price move and suggest strong conviction in the ongoing trend. These gaps often indicate that the trend will continue for some time.
 
 ### 4. Exhaustion Gaps
-Exhaustion gaps occur near the end of a significant trend and indicate that the trend is losing momentum. These gaps can be a precursor to a trend reversal or at the very least, a significant pullback.
+Exhaustion gaps occur near the end of a significant trend and indicate that the trend is losing momentum. These gaps can be a precursor to a [trend reversal](../t/trend_reversal.md) or at the very least, a significant pullback.
 
 ## Key Concepts in Intraday Gap Trading
 
 ### 1. Gap Fill
-A "gap fill" occurs when the price moves back to the previous day's closing price after gapping up or down at the open. This is a common phenomenon and many intraday gap trading strategies are based on the expectation that gaps will fill.
+A "gap fill" occurs when the price moves back to the previous day's closing price after gapping up or down at the open. This is a common phenomenon and many intraday gap [trading strategies](../t/trading_strategies.md) are based on the expectation that gaps will fill.
 
 ### 2. Volume Analysis
 Volume plays a crucial role in validating the significance of a gap. Higher volume often indicates that the gap is meaningful and may lead to substantial price movement.
@@ -39,7 +39,7 @@ The "fade the gap" strategy involves taking a position opposite to the direction
 The "follow the gap" strategy involves taking a position in the direction of the gap. This strategy is based on the expectation that the gap indicates a strong trend that will continue throughout the day.
 
 ### 3. Gap and Go
-The "gap and go" strategy involves waiting for confirmation that the gap will continue in the direction of the gap before entering a trade. Traders using this strategy often look for additional technical indicators to confirm their entry.
+The "gap and go" strategy involves waiting for confirmation that the gap will continue in the direction of the gap before entering a trade. Traders using this strategy often look for additional [technical indicators](../t/technical_indicators.md) to confirm their entry.
 
 ### 4. Scalping the Gap
 Scalping the gap involves taking advantage of small price movements within the gap. Traders using this strategy enter and exit trades quickly, often within minutes.
@@ -53,18 +53,18 @@ Moving averages can help identify the overall trend and provide support or resis
 The RSI can help determine the momentum of the price movement and indicate whether the security is overbought or oversold.
 
 ### 3. Bollinger Bands
-Bollinger Bands can help identify volatility and potential breakouts that may coincide with gap movements.
+[Bollinger Bands](../b/bollinger_bands.md) can help identify volatility and potential breakouts that may coincide with gap movements.
 
 ### 4. Volume Indicators
-Volume indicators like On-Balance Volume (OBV) and the Volume-Weighted Average Price (VWAP) can provide insights into the strength of the gap.
+[Volume indicators](../v/volume_indicators.md) like On-Balance Volume (OBV) and the Volume-Weighted Average Price (VWAP) can provide insights into the strength of the gap.
 
 ## Risk Management in Intraday Gap Trading
 
 ### 1. Stop-Loss Orders
-Using stop-loss orders is essential to prevent significant losses. Placing a stop-loss order at a predefined level helps manage risk effectively.
+Using [stop-loss orders](../s/stop-loss_orders.md) is essential to prevent significant losses. Placing a stop-loss order at a predefined level helps manage risk effectively.
 
 ### 2. Position Sizing
-Proper position sizing ensures that a single adverse move does not wipe out a significant portion of the trading account.
+Proper [position sizing](../p/position_sizing.md) ensures that a single adverse move does not wipe out a significant portion of the trading account.
 
 ### 3. Diversification
 Diversifying across different securities and sectors can help mitigate the risks associated with intraday gap trading.
@@ -79,11 +79,11 @@ Thinkorswim by TD Ameritrade offers advanced charting tools, real-time data, and
 [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
 
 ### 2. TradeStation
-TradeStation provides robust trading tools, including automated trading capabilities, which can be beneficial for implementing intraday gap trading strategies.
+TradeStation provides robust trading tools, including automated trading capabilities, which can be beneficial for implementing intraday gap [trading strategies](../t/trading_strategies.md).
 [TradeStation](https://www.tradestation.com)
 
 ### 3. Interactive Brokers
-Interactive Brokers offers a comprehensive trading platform with advanced order types and real-time monitoring features ideal for intraday trading.
+Interactive Brokers offers a comprehensive trading platform with advanced order types and real-time monitoring features ideal for [intraday trading](../i/intraday_trading.md).
 [Interactive Brokers](https://www.interactivebrokers.com)
 
 ### 4. E*TRADE
@@ -91,7 +91,7 @@ E*TRADE’s Power E*TRADE platform provides an intuitive interface and advanced 
 [E*TRADE](https://us.etrade.com)
 
 ### 5. MetaTrader 4 and 5
-MetaTrader platforms offer a range of technical indicators and automated trading options suitable for gap trading.
+MetaTrader platforms offer a range of [technical indicators](../t/technical_indicators.md) and automated trading options suitable for gap trading.
 [MetaTrader](https://www.metatrader4.com)
 
 ## Case Studies in Intraday Gap Trading
@@ -107,4 +107,4 @@ Amazon.com Inc. frequently experiences gaps following earnings releases and majo
 
 ## Conclusion
 
-Intraday gap trading can be a lucrative strategy when executed correctly. Understanding the types of gaps, key concepts, and effective strategies is crucial for success. Utilizing the right tools and implementing robust risk management practices can help traders navigate the complexities of intraday gap trading. By staying informed and adaptable, traders can take advantage of the opportunities presented by daily price gaps in the market.
+Intraday gap trading can be a lucrative strategy when executed correctly. Understanding the types of gaps, key concepts, and effective strategies is crucial for success. Utilizing the right tools and implementing robust [risk management](../r/risk_management.md) practices can help traders navigate the complexities of intraday gap trading. By staying informed and adaptable, traders can take advantage of the opportunities presented by daily price gaps in the market.

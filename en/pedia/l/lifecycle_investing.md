@@ -8,9 +8,9 @@ The fundamental principles of lifecycle investing include:
 
 1. **Age-Based Risk Adjustment**: Younger investors traditionally have a higher risk tolerance because they have a longer time horizon to recover from potential market downturns. As investors age, their ability to recover diminishes, prompting a shift to less risky investments.
    
-2. **Asset Allocation**: At different stages of life, the mix of assets (such as stocks, bonds, real estate, and cash) within a portfolio should be adjusted. Younger investors might focus on growth-oriented assets (like equities), while older investors might prioritize income-producing and safer assets (like bonds).
+2. **[Asset Allocation](../a/asset_allocation.md)**: At different stages of life, the mix of assets (such as stocks, bonds, real estate, and cash) within a portfolio should be adjusted. Younger investors might focus on growth-oriented assets (like equities), while older investors might prioritize income-producing and safer assets (like bonds).
 
-3. **Glide Path**: This is the predetermined adjustment of asset allocation as the investor ages. For example, a glide path might recommend moving from an 80/20 stock-to-bond ratio at age 30 to a 50/50 ratio by age 60.
+3. **Glide Path**: This is the predetermined adjustment of [asset allocation](../a/asset_allocation.md) as the investor ages. For example, a glide path might recommend moving from an 80/20 stock-to-bond ratio at age 30 to a 50/50 ratio by age 60.
 
 ## Stages of Lifecycle Investing
 Lifecycle investing can typically be divided into several stages:
@@ -21,7 +21,7 @@ Lifecycle investing can typically be divided into several stages:
    - **Typical Allocation**: High percentage in stocks, potentially 80-90%.
 
 2. **Mid Career (40s to early 50s)**:
-   - **Objective**: Continued growth with some risk management.
+   - **Objective**: Continued growth with some [risk management](../r/risk_management.md).
    - **Strategy**: Balanced approach, gradually reducing risk exposure.
    - **Typical Allocation**: Moderate mix with a higher inclination towards equities, around 60-70%.
 
@@ -36,14 +36,14 @@ Lifecycle investing can typically be divided into several stages:
    - **Typical Allocation**: Higher percentage in bonds, possibly 40-50% in equities.
 
 ## Benefits of Lifecycle Investing
-- **Risk Management**: Adjusting the risk profile appropriate for each stage of life helps in mitigating potential losses during market downturns.
+- **[Risk Management](../r/risk_management.md)**: Adjusting the risk profile appropriate for each stage of life helps in mitigating potential losses during market downturns.
 - **Goal Alignment**: Aligns investment strategy with long-term financial goals, such as retirement, education, and estate planning.
 - **Simplicity**: Many find this approach easier to manage, as it provides clear guidance on how to adjust portfolios over time.
 
 ## Tools and Products
 There are specific financial products designed around the principles of lifecycle investing:
 
-1. **Target-Date Funds (TDFs)**: These are mutual funds or ETFs that automatically adjust asset allocation according to a predetermined glide path until a target retirement date. These funds start with a growth-oriented approach and gradually shift towards conservative investments as the target date approaches. Examples include the Vanguard Target Retirement Funds and Fidelity Freedom Funds.
+1. **Target-Date Funds (TDFs)**: These are mutual funds or ETFs that automatically adjust [asset allocation](../a/asset_allocation.md) according to a predetermined glide path until a target retirement date. These funds start with a growth-oriented approach and gradually shift towards conservative investments as the target date approaches. Examples include the Vanguard Target Retirement Funds and Fidelity Freedom Funds.
 
 2. **Robo-Advisors**: Online platforms such as Betterment (www.betterment.com) and Wealthfront (www.wealthfront.com) use algorithms to create and adjust portfolios based on lifecycle investing principles and individual risk tolerance.
 
@@ -64,6 +64,6 @@ While lifecycle investing has many benefits, it also faces some criticisms:
 - **Cost**: Some lifecycle investment products, like TDFs, may come with higher fees compared to custom portfolios.
 
 ## Conclusion
-Lifecycle investing is a strategic approach to managing investments over one's lifetime, tailored to the individual's evolving risk tolerance and financial objectives. By adjusting the asset allocation in alignment with the investor's stage in life, this method aims to balance growth with risk management, ultimately striving to secure financial stability and prepare for retirement.
+Lifecycle investing is a strategic approach to managing investments over one's lifetime, tailored to the individual's evolving risk tolerance and financial objectives. By adjusting the [asset allocation](../a/asset_allocation.md) in alignment with the investor's stage in life, this method aims to balance growth with [risk management](../r/risk_management.md), ultimately striving to secure financial stability and prepare for retirement.
 
 For further details, you can explore comprehensive resources and tools offered by renowned financial institutions such as Vanguard (www.vanguard.com), Betterment (www.betterment.com), and Wealthfront (www.wealthfront.com).

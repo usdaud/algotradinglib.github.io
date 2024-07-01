@@ -1,6 +1,6 @@
 # **Oversold and Overbought Conditions in Algorithmic Trading**
 
-In the context of financial markets, the terms "oversold" and "overbought" are widely used to indicate potential reversal points by identifying when assets have moved too far in a single direction. These concepts serve as crucial indicators in both manual and algorithmic trading strategies. This detailed overview will explore these conditions, how they are measured, and their application in algotrading.
+In the context of financial markets, the terms "oversold" and "overbought" are widely used to indicate potential reversal points by identifying when assets have moved too far in a single direction. These concepts serve as crucial indicators in both manual and [algorithmic trading](../a/algorithmic_trading.md) strategies. This detailed overview will explore these conditions, how they are measured, and their application in algotrading.
 
 ### Definitions
 - **Oversold Condition**: An asset is deemed "oversold" when its price has fallen sharply and to a level considered lower than its true value, often due to panic selling or extreme market reactions. This suggests that the asset might be undervalued and due for a price correction or reversal.
@@ -10,7 +10,7 @@ In the context of financial markets, the terms "oversold" and "overbought" are w
 ### Indicators to Identify Oversold and Overbought Conditions
 
 #### Relative Strength Index (RSI)
-The Relative Strength Index (RSI) is one of the most commonly used momentum oscillators for identifying overbought and oversold conditions. Developed by J. Welles Wilder Jr., RSI ranges from 0 to 100, with levels generally interpreted as follows:
+The Relative Strength Index (RSI) is one of the most commonly used [momentum oscillators](../m/momentum_oscillators.md) for identifying overbought and oversold conditions. Developed by J. Welles Wilder Jr., RSI ranges from 0 to 100, with levels generally interpreted as follows:
 - RSI above 70: Overbought
 - RSI below 30: Oversold
 
@@ -32,7 +32,7 @@ Overbought and oversold conditions in MACD are often identified by analysing the
 - A large negative MACD value indicates that the security may be oversold.
 
 #### Stochastic Oscillator
-Created by George Lane, the stochastic oscillator compares a specific closing price of a security to a range of its prices over a certain period:
+Created by George Lane, the [stochastic oscillator](../s/stochastic_oscillator.md) compares a specific closing price of a security to a range of its prices over a certain period:
 - Values above 80 typically indicate overbought conditions.
 - Values below 20 indicate oversold conditions.
 
@@ -46,7 +46,7 @@ The formula is:
 ### Application in Algorithmic Trading
 
 #### Trading Algorithms
-Algorithmic trading leverages mathematical and statistical models to execute trades based on pre-determined criteria. For detecting oversold and overbought conditions, algorithms integrate technical indicators like RSI, MACD, and stochastic oscillators within their codebase to generate trading signals. These signals can trigger buy/sell orders automatically when certain thresholds are met.
+[Algorithmic trading](../a/algorithmic_trading.md) leverages mathematical and statistical models to execute trades based on pre-determined criteria. For detecting oversold and overbought conditions, algorithms integrate [technical indicators](../t/technical_indicators.md) like RSI, MACD, and stochastic oscillators within their codebase to generate [trading signals](../t/trading_signals.md). These signals can trigger buy/sell orders automatically when certain thresholds are met.
 
 ##### Sample Algorithm Strategy
 Consider a simple strategy using the RSI:
@@ -85,7 +85,7 @@ class SimpleRSIStrategy:
 ```
 
 #### Backtesting
-Before deploying such strategies in live markets, backtesting is crucial. Backtesting involves running the algorithm against historical data to evaluate performance. High win rates or returns in backtests suggest a potentially profitable strategy when applied to future market conditions.
+Before deploying such strategies in live markets, [backtesting](../b/backtesting.md) is crucial. [Backtesting](../b/backtesting.md) involves running the algorithm against historical data to evaluate performance. High win rates or returns in backtests suggest a potentially profitable strategy when applied to future market conditions.
 
 ##### Sample Backtest Framework
 ```python
@@ -118,10 +118,10 @@ backtester.run_backtest()
 ```
 
 ### Psychological Considerations
-Traders should be aware that oversold and overbought indicators do not guarantee reversals. Market sentiment, economic factors, and unexpected news can influence prices beyond technical indicators. Therefore, incorporating risk management strategies is always essential.
+Traders should be aware that oversold and [overbought indicators](../o/overbought_indicators.md) do not guarantee reversals. Market sentiment, economic factors, and unexpected news can influence prices beyond [technical indicators](../t/technical_indicators.md). Therefore, incorporating [risk management](../r/risk_management.md) strategies is always essential.
 
 ### Notable Companies Specializing in Algorithmic Trading and Analytics
-Several companies offer platforms and tools for developing and deploying algorithmic trading strategies:
+Several companies offer platforms and tools for developing and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies:
 
 - **QuantConnect**: [https://www.quantconnect.com/](https://www.quantconnect.com/)
 - **AlgoTrader**: [https://www.algotrader.com/](https://www.algotrader.com/)
@@ -129,4 +129,4 @@ Several companies offer platforms and tools for developing and deploying algorit
 - **Kite by Zerodha**: [https://kite.zerodha.com/](https://kite.zerodha.com/)
 
 ### Conclusion
-Understanding and applying the concepts of oversold and overbought conditions in algorithmic trading can provide valuable insights and improve trading efficacy. Utilizing technical indicators like RSI, MACD, and stochastic oscillators within algorithmic systems enables traders to identify potential market reversals and make informed trading decisions. However, these indicators should be part of a broader strategy that includes risk management and thorough backtesting to enhance profitability and reduce potential losses.
+Understanding and applying the concepts of oversold and overbought conditions in [algorithmic trading](../a/algorithmic_trading.md) can provide valuable insights and improve trading efficacy. Utilizing [technical indicators](../t/technical_indicators.md) like RSI, MACD, and stochastic oscillators within algorithmic systems enables traders to identify potential market reversals and make informed trading decisions. However, these indicators should be part of a broader strategy that includes [risk management](../r/risk_management.md) and thorough [backtesting](../b/backtesting.md) to enhance profitability and reduce potential losses.

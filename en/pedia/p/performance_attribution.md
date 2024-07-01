@@ -16,7 +16,7 @@ Transaction-based attribution factors in the contributions from specific buy and
 ## Key Concepts in Performance Attribution
 
 ### Active Returns
-Active returns refer to the difference between the returns of a portfolio and its benchmark. They can be attributed to various factors, including asset allocation, security selection, market timing, and other investment strategies.
+Active returns refer to the difference between the returns of a portfolio and its benchmark. They can be attributed to various factors, including [asset allocation](../a/asset_allocation.md), [security selection](../s/security_selection.md), [market timing](../m/market_timing.md), and other investment strategies.
 
 ### Attribution Analysis
 Attribution analysis is the process of identifying the underlying sources of active returns. It involves breaking down the portfolio returns into different components attributable to specific decisions made by the portfolio manager.
@@ -25,24 +25,24 @@ Attribution analysis is the process of identifying the underlying sources of act
 The benchmark is a standard or point of reference against which a portfolio's performance can be measured. It usually consists of a broad market index that represents the investment universe of the portfolio.
 
 ### Asset Allocation
-Asset allocation is the process of distributing investments among various asset classes, such as stocks, bonds, and cash. Performance attribution can help determine how the allocation of assets affected the overall return of the portfolio.
+[Asset allocation](../a/asset_allocation.md) is the process of distributing investments among various asset classes, such as stocks, bonds, and cash. Performance attribution can help determine how the allocation of assets affected the overall return of the portfolio.
 
 ### Security Selection
-Security selection involves choosing specific securities (stocks, bonds, etc.) within a particular asset class. This factor is critical in understanding how well the portfolio manager picks individual investments compared to the benchmark.
+[Security selection](../s/security_selection.md) involves choosing specific securities (stocks, bonds, etc.) within a particular asset class. This factor is critical in understanding how well the portfolio manager picks individual investments compared to the benchmark.
 
 ### Interaction Effect
-Interaction effect measures the impact of the combined effect of asset allocation and security selection decisions. It captures the synergy (or lack thereof) between choosing the right sectors and picking the right securities within those sectors.
+Interaction effect measures the impact of the combined effect of [asset allocation](../a/asset_allocation.md) and [security selection](../s/security_selection.md) decisions. It captures the synergy (or lack thereof) between choosing the right sectors and picking the right securities within those sectors.
 
 ## Methodologies
 
 ### Brinson-Hood-Beebower (BHB) Model
-Developed by Gary P. Brinson, L. Randolph Hood, and Gilbert L. Beebower in 1986, the BHB model is one of the most widely used methods for performance attribution. It separates the performance into asset allocation, security selection, and interaction effects.
+Developed by Gary P. Brinson, L. Randolph Hood, and Gilbert L. Beebower in 1986, the BHB model is one of the most widely used methods for performance attribution. It separates the performance into [asset allocation](../a/asset_allocation.md), [security selection](../s/security_selection.md), and interaction effects.
 
 ### Brinson-Fachler Model
-This is an extension of the BHB model which includes the interaction effect in more detail. It is preferred in cases where both asset allocation and security selection decisions significantly influence portfolio performance.
+This is an extension of the BHB model which includes the interaction effect in more detail. It is preferred in cases where both [asset allocation](../a/asset_allocation.md) and [security selection](../s/security_selection.md) decisions significantly influence [portfolio performance](../p/portfolio_performance.md).
 
 ### Factor Models
-Factor models, such as the Fama-French three-factor model, extend traditional attribution techniques by incorporating multiple sources of risk and return, such as market risk, size, and value factors.
+[Factor models](../f/factor_models.md), such as the Fama-French three-factor model, extend traditional attribution techniques by incorporating multiple sources of risk and return, such as market risk, size, and value factors.
 
 ### Multi-Factor Models
 These models consider more than just the market factor and typically include additional factors such as momentum, quality, and low volatility. They aim to provide a more comprehensive attribution of returns.

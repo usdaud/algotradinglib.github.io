@@ -1,6 +1,6 @@
 ## Risk Parity
 
-Risk parity is an investment strategy that focuses on allocating risk, rather than capital, equally among the components of a portfolio. This approach contrasts with traditional asset allocation strategies, which typically distribute capital based on predefined percentages, often leading to a mismatch in risk exposure due to differences in the volatility of assets.
+Risk parity is an investment strategy that focuses on allocating risk, rather than capital, equally among the components of a portfolio. This approach contrasts with traditional [asset allocation](../a/asset_allocation.md) strategies, which typically distribute capital based on predefined percentages, often leading to a mismatch in risk exposure due to differences in the volatility of assets.
 
 ### Core Principle
 
@@ -23,7 +23,7 @@ To implement risk parity, the following steps are often used:
 
 1. **Diversification**: Risk parity can lead to better diversification because it balances the risk contributions from various asset classes.
 2. **Consistency**: By focusing on risk, the strategy can be more resilient during varying market environments, potentially leading to more stable returns.
-3. **Reduced Tail Risk**: Because risk parity tends to invest heavily in less volatile assets, it may reduce tail risk, which is the risk of rare but severe losses.
+3. **Reduced [Tail Risk](../t/tail_risk.md)**: Because risk parity tends to invest heavily in less volatile assets, it may reduce [tail risk](../t/tail_risk.md), which is the risk of rare but severe losses.
 
 ### Challenges
 
@@ -42,7 +42,7 @@ Several prominent investment firms offer funds that use the risk parity strategy
 
 #### Institutional Investors
 
-Institutional investors such as pension funds, endowments, and insurance companies often seek stable and diversified investment strategies. Risk parity portfolios appeal to these investors due to their focus on balanced risk exposure, which aligns with the long-term investment horizons and risk management needs of such institutions.
+Institutional investors such as pension funds, endowments, and insurance companies often seek stable and diversified investment strategies. Risk parity portfolios appeal to these investors due to their focus on balanced risk exposure, which aligns with the long-term investment horizons and [risk management](../r/risk_management.md) needs of such institutions.
 
 #### Retail Investors
 
@@ -54,17 +54,17 @@ To manage the inherent risks in risk parity strategies, several techniques can b
 
 1. **Dynamic Rebalancing**: Regularly reassess and adjust the asset weights based on up-to-date volatility and correlation data.
 2. **Stress Testing**: Conduct stress tests to understand how the portfolio might perform under extreme market conditions.
-3. **Use of Derivatives**: Employ derivatives like options and futures to hedge specific risks and achieve desired risk exposures.
+3. **Use of [Derivatives](../d/derivatives.md)**: Employ [derivatives](../d/derivatives.md) like options and futures to hedge specific risks and achieve desired risk exposures.
 
 ### Advanced Topics
 
 #### Machine Learning in Risk Parity
 
-Recent advances in machine learning and artificial intelligence provide sophisticated tools for enhancing risk parity strategies. Machine learning algorithms can improve volatility forecasting, optimize asset weightings more efficiently, and adapt to changing market conditions more swiftly.
+Recent advances in machine learning and artificial intelligence provide sophisticated tools for enhancing risk parity strategies. Machine learning algorithms can improve [volatility forecasting](../v/volatility_forecasting.md), optimize asset weightings more efficiently, and adapt to changing market conditions more swiftly.
 
 #### Multi-Period Optimization
 
-Traditional risk parity strategies often focus on single-period optimization. However, multi-period optimization considers the investment horizon and aims to balance risk over multiple periods. This approach can lead to trajectories that better align with long-term investment goals.
+Traditional risk parity strategies often focus on single-period optimization. However, [multi-period optimization](../m/multi-period_optimization.md) considers the investment horizon and aims to balance risk over multiple periods. This approach can lead to trajectories that better align with long-term investment goals.
 
 #### Incorporating ESG
 

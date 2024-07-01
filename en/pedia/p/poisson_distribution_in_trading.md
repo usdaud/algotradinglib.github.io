@@ -21,7 +21,7 @@ Prevalent in various fields such as telecommunications, biology, and physics, th
 
 One of the primary applications of the Poisson distribution in trading is in modeling the number of trades within a given time period. Typically, trade counts tend to be random but exhibit an average rate. For example, a stock may experience a consistent average number of trades per hour during regular market sessions. This can be modeled as a Poisson process wherein \(\lambda\) represents the average number of trades per hour.
 
-By leveraging this model, traders and analysts can forecast the likelihood of observing a specific number of trades in a forthcoming period. Such information is crucial for numerous trading strategies, including liquidity provision and high-frequency trading (HFT).
+By leveraging this model, traders and analysts can forecast the likelihood of observing a specific number of trades in a forthcoming period. Such information is crucial for numerous [trading strategies](../t/trading_strategies.md), including [liquidity provision](../l/liquidity_provision.md) and high-frequency trading (HFT).
 
 ### Arrival of Market Orders
 
@@ -31,15 +31,15 @@ For instance, if the average number of market orders arriving per minute is 5, w
 
 ### Price Jumps and Extreme Movements
 
-Price jumps or extreme movements in asset prices are another area where the Poisson distribution can be applied. These movements often occur sporadically due to unexpected news, economic releases, or large block trades. By treating the frequency of such jumps as a Poisson process, traders can estimate the probabilities of price jumps over specific intervals.
+Price jumps or extreme movements in asset prices are another area where the Poisson distribution can be applied. These movements often occur sporadically due to unexpected news, economic releases, or [large block trades](../l/large_block_trades.md). By treating the frequency of such jumps as a Poisson process, traders can estimate the probabilities of price jumps over specific intervals.
 
-An example of this application is in the modeling of "tail risk," which is concerned with the risk of extreme price movements. Knowing the likelihood of such extreme movements can aid in better risk management and hedging practices.
+An example of this application is in the modeling of "[tail risk](../t/tail_risk.md)," which is concerned with the risk of extreme price movements. Knowing the likelihood of such extreme movements can aid in better [risk management](../r/risk_management.md) and hedging practices.
 
 ### Order Book Dynamics
 
-Order book dynamics, including the placement and cancellation of limit orders, can also be modeled using Poisson processes. Since limit orders are placed and canceled independently (to a first approximation), with certain average rates, the Poisson distribution becomes a suitable tool for analyzing such phenomena.
+[Order book dynamics](../o/order_book_dynamics.md), including the placement and cancellation of limit orders, can also be modeled using Poisson processes. Since limit orders are placed and canceled independently (to a first approximation), with certain average rates, the Poisson distribution becomes a suitable tool for analyzing such phenomena.
 
-Determining the rates at which orders are placed and canceled helps in forecasting the depth and resilience of the order book under various market conditions. Such insights are vital for strategies that focus on market making and arbitrage.
+Determining the rates at which orders are placed and canceled helps in forecasting the depth and resilience of the order book under various market conditions. Such insights are vital for strategies that focus on market making and [arbitrage](../a/arbitrage.md).
 
 ## Practical Implementation
 
@@ -48,7 +48,7 @@ Determining the rates at which orders are placed and canceled helps in forecasti
 1. **Data Collection**: Gather historical trade data, including timestamps of trades or orders, prices, and volumes. High-frequency data is preferred for more granular analysis.
 2. **Rate Estimation**: Calculate the average rate (\(\lambda\)) of the occurrence of trades, orders, or price jumps over the chosen time interval. This can be computed by simply dividing the total number of events by the total duration.
 3. **Model Validation**: Validate the Poisson model by comparing the observed trade counts with the expected counts predicted by the Poisson distribution. Statistical tests, such as the Chi-squared goodness-of-fit test, can be used for this purpose.
-4. **Prediction and Strategy Formulation**: Use the Poisson model to predict the probabilities of different event counts in future intervals. Formulate trading strategies based on these probabilities.
+4. **Prediction and Strategy Formulation**: Use the Poisson model to predict the probabilities of different event counts in future intervals. Formulate [trading strategies](../t/trading_strategies.md) based on these probabilities.
 
 ### Example Code
 
@@ -80,7 +80,7 @@ plt.show()
 
 ### Real-World Implementation
 
-Many modern trading firms and platforms utilize advanced quantitative models incorporating the Poisson distribution. A notable example is [Virtu Financial](https://www.virtu.com/), a leading provider of financial services and high-frequency trading, which harnesses statistical models including Poisson processes to execute trading strategies.
+Many modern trading firms and platforms utilize advanced [quantitative models](../q/quantitative_models.md) incorporating the Poisson distribution. A notable example is [Virtu Financial](https://www.virtu.com/), a leading provider of financial services and high-frequency trading, which harnesses statistical models including Poisson processes to execute [trading strategies](../t/trading_strategies.md).
 
 ## Limitations and Considerations
 
@@ -90,8 +90,8 @@ Despite its wide applicability, the Poisson distribution comes with certain limi
 - **Constant Rate**: The model presumes a constant average rate (\(\lambda\)) over the interval. In practice, trading activity often fluctuates throughout the trading day, necessitating piecewise or time-varying Poisson models.
 - **Rare Events**: While the Poisson distribution is excellent for modeling frequent but random events, its application to rare events (like extreme market movements) may require careful calibration and consideration of fat-tailed distributions.
 
-Incorporating these factors and understanding the limitations ensures more accurate modeling and effective application of the Poisson distribution in trading strategies.
+Incorporating these factors and understanding the limitations ensures more accurate modeling and effective application of the Poisson distribution in [trading strategies](../t/trading_strategies.md).
 
 ## Conclusion
 
-The Poisson distribution serves as a powerful tool in the analytical arsenal of traders and quant analysts. Its ability to model the random and independent occurrence of events aligns well with the characteristics of trading activities such as trade counts, market order arrivals, and price jumps. By understanding and applying the Poisson distribution, traders can enhance their predictive capabilities, which in turn can inform better decision-making and refined trading strategies. The robust mathematical foundation and practical utility of the Poisson distribution make it an indispensable concept in the realm of quantitative trading.
+The Poisson distribution serves as a powerful tool in the analytical arsenal of traders and quant analysts. Its ability to model the random and independent occurrence of events aligns well with the characteristics of trading activities such as trade counts, market order arrivals, and price jumps. By understanding and applying the Poisson distribution, traders can enhance their predictive capabilities, which in turn can inform better decision-making and refined [trading strategies](../t/trading_strategies.md). The robust mathematical foundation and practical utility of the Poisson distribution make it an indispensable concept in the realm of [quantitative trading](../q/quantitative_trading.md).

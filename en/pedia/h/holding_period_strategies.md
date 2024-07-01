@@ -1,7 +1,7 @@
 ## Holding Period Strategies in Algorithmic Trading
 
 ### Introduction
-Holding period strategies are a cornerstone of algorithmic trading, focusing on the duration for which assets are held in a portfolio before being sold or traded. These strategies can significantly impact the profitability and risk profile of trades. In the world of high-frequency trading (HFT), holding periods may be measured in milliseconds, while in more traditional approaches, they could span days, months, or even years. This document delves into various types of holding period strategies, their applications, and real-world examples from leading companies in the field.
+Holding period strategies are a cornerstone of [algorithmic trading](../a/algorithmic_trading.md), focusing on the duration for which assets are held in a portfolio before being sold or traded. These strategies can significantly impact the profitability and risk profile of trades. In the world of high-frequency trading (HFT), holding periods may be measured in milliseconds, while in more traditional approaches, they could span days, months, or even years. This document delves into various types of holding period strategies, their applications, and real-world examples from leading companies in the field.
 
 ### Types of Holding Period Strategies
 
@@ -15,21 +15,21 @@ High-frequency trading involves holding periods that are extremely short, often 
   - [Citadel Securities LLC](https://www.citadelsecurities.com/)
 
 #### 2. Intraday Trading Strategies
-Intraday trading involves buying and selling securities within the same trading day. The holding period may range from a few seconds to several hours, but all positions must be closed by the end of the trading day. Intraday strategies are designed to capitalize on short-term price movements.
+[Intraday trading](../i/intraday_trading.md) involves buying and selling securities within the same trading day. The holding period may range from a few seconds to several hours, but all positions must be closed by the end of the trading day. Intraday strategies are designed to capitalize on short-term price movements.
 
 **Example Companies:**
 - **Interactive Brokers**
   - [Interactive Brokers](https://www.interactivebrokers.com/)
 
 #### 3. Swing Trading
-Swing trading strategies typically hold positions for several days to weeks. The goal is to capitalize on expected "swings" in the market, i.e., price fluctuations within a broader trend. Swing traders often rely on technical analysis to identify these swings.
+[Swing trading](../s/swing_trading.md) strategies typically hold positions for several days to weeks. The goal is to capitalize on expected "swings" in the market, i.e., price fluctuations within a broader trend. Swing traders often rely on [technical analysis](../t/technical_analysis.md) to identify these swings.
 
 **Example Companies:**
 - **eToro**
   - [eToro](https://www.etoro.com/)
 
 #### 4. Position Trading
-Position trading involves holding assets for longer periods, often ranging from several months to years. This strategy aims to benefit from long-term trends and is less concerned with short-term price fluctuations. Position trading often relies on fundamental analysis.
+Position trading involves holding assets for longer periods, often ranging from several months to years. This strategy aims to benefit from long-term trends and is less concerned with short-term price fluctuations. Position trading often relies on [fundamental analysis](../f/fundamental_analysis.md).
 
 **Example Companies:**
 - **Fidelity Investments**
@@ -41,15 +41,15 @@ Position trading involves holding assets for longer periods, often ranging from 
 Understanding the appropriate time frame is crucial for implementing a holding period strategy. Different strategies require different time horizons, and traders must tailor their approach based on their risk tolerance and investment goals.
 
 #### 2. Market Conditions
-Market conditions greatly influence the effectiveness of holding period strategies. Volatile markets may benefit short-term strategies like HFT and intraday trading, while stable, trending markets may be more suitable for swing and position trading.
+Market conditions greatly influence the effectiveness of holding period strategies. Volatile markets may benefit short-term strategies like HFT and [intraday trading](../i/intraday_trading.md), while stable, trending markets may be more suitable for swing and position trading.
 
 #### 3. Algorithm Complexity
-The complexity of the trading algorithm often correlates with the holding period. High-frequency trading algorithms are typically more complex and require significant computational power, whereas longer-term strategies may employ simpler models.
+The complexity of the trading algorithm often correlates with the holding period. [High-frequency trading algorithms](../h/high-frequency_trading_algorithms.md) are typically more complex and require significant computational power, whereas longer-term strategies may employ simpler models.
 
 ### Implementing Holding Period Strategies
 
 #### 1. Algorithm Development
-Developing algorithms for different holding periods involves extensive backtesting and optimization. This ensures that the strategy performs well across various market conditions.
+Developing algorithms for different holding periods involves extensive [backtesting](../b/backtesting.md) and optimization. This ensures that the strategy performs well across various market conditions.
 
 #### 2. Risk Management
 Different holding periods expose traders to varying levels of risk. Short-term strategies might face execution risks due to latency, whereas long-term strategies might encounter sector-specific risks.
@@ -66,7 +66,7 @@ AQR Capital Management employs a range of holding period strategies. Known for i
 - [AQR Capital Management](https://www.aqr.com/)
 
 #### 2. Renaissance Technologies
-Renaissance Technologies is famous for its Medallion Fund, which employs high-frequency trading strategies with extremely short holding periods.
+Renaissance Technologies is famous for its Medallion Fund, which employs high-frequency [trading strategies](../t/trading_strategies.md) with extremely short holding periods.
 
 **Renaissance Technologies**
 - [Renaissance Technologies](https://www.rentec.com/)

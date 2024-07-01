@@ -5,7 +5,7 @@ Short-term trading refers to the strategies and actions that involve buying and 
 ## Types of Short-Term Trading
 
 ### 1. Day Trading
-Day trading involves buying and selling financial instruments within the same trading day. Traders close all positions before the market closes to avoid overnight risks. The focus is on taking advantage of small price movements within a single day.
+[Day trading](../d/day_trading.md) involves buying and selling financial instruments within the same trading day. Traders close all positions before the market closes to avoid overnight risks. The focus is on taking advantage of small price movements within a single day.
 
 * **Example:**
   * [Interactive Brokers: Day Trading](https://www.interactivebrokers.com/en/index.php?f=4985)
@@ -17,7 +17,7 @@ Scalping is a form of high-frequency trading where traders aim to profit from sm
   * [TradeZero: Scalping](https://www.tradezero.co/)
 
 ### 3. Swing Trading
-Swing trading involves holding positions for several days to weeks. The primary aim is to capitalize on potential "swings" in the market. Swing traders analyze short- or medium-term price patterns and trends to make their trading decisions.
+[Swing trading](../s/swing_trading.md) involves holding positions for several days to weeks. The primary aim is to capitalize on potential "swings" in the market. Swing traders analyze short- or medium-term [price patterns](../p/price_patterns.md) and trends to make their trading decisions.
 
 * **Example:**
   * [SwingTrader: Swing Trading](https://swingtrader.investors.com/)
@@ -25,12 +25,12 @@ Swing trading involves holding positions for several days to weeks. The primary 
 ## Key Components of Short-Term Trading
 
 ### 1. Technical Analysis
-Technical analysis involves analyzing statistical trends from trading activity, such as price movement and volume. Short-term traders use various chart patterns, indicators, and algorithms to make trading decisions.
+[Technical analysis](../t/technical_analysis.md) involves analyzing statistical trends from trading activity, such as price movement and volume. Short-term traders use various [chart patterns](../c/chart_patterns.md), indicators, and algorithms to make trading decisions.
 
 * **Popular Tools:**
   * Moving Averages
   * Relative Strength Index (RSI)
-  * Bollinger Bands
+  * [Bollinger Bands](../b/bollinger_bands.md)
   * MACD (Moving Average Convergence Divergence)
 
 ### 2. Trading Platforms and Software
@@ -49,7 +49,7 @@ High-Frequency Trading uses sophisticated algorithms to execute a large number o
   * [Citadel Securities](https://www.citadelsecurities.com/)
 
 ### 4. Risk Management
-Risk management is critical in short-term trading due to the potentially high volatility and leverage used. This includes setting stop-loss orders, position sizing, and constant monitoring of trades.
+[Risk management](../r/risk_management.md) is critical in short-term trading due to the potentially high volatility and leverage used. This includes setting [stop-loss orders](../s/stop-loss_orders.md), [position sizing](../p/position_sizing.md), and constant monitoring of trades.
 
 ### 5. Market Sentiment
 Understanding market sentiment, news reports, and external economic factors can provide additional context for short-term trading decisions.
@@ -57,16 +57,16 @@ Understanding market sentiment, news reports, and external economic factors can 
 ## Strategies for Short-Term Trading
 
 ### Breakout Trading
-Breakout trading involves entering a position when the price breaks through a defined support or resistance level. The concept is that once these levels are breached, the price will continue in the direction of the breakout.
+[Breakout trading](../b/breakout_trading.md) involves entering a position when the price breaks through a defined support or resistance level. The concept is that once these levels are breached, the price will continue in the direction of the breakout.
 
 ### Momentum Trading
-Momentum trading focuses on stocks or other assets that are moving significantly in one direction on high volume. Traders look for assets making significant moves with the belief the momentum will continue.
+[Momentum trading](../m/momentum_trading.md) focuses on stocks or other assets that are moving significantly in one direction on high volume. Traders look for assets making significant moves with the belief the momentum will continue.
 
 ### Algorithmic Trading
-Algorithmic trading uses computer programs to execute trades based on predefined criteria. These algorithms can be based on technical indicators, statistical models, or other strategies.
+[Algorithmic trading](../a/algorithmic_trading.md) uses computer programs to execute trades based on predefined criteria. These algorithms can be based on [technical indicators](../t/technical_indicators.md), statistical models, or other strategies.
 
 ### Arbitrage
-Arbitrage involves taking advantage of price discrepancies between different markets or instruments. For instance, a trader might take a long position in one market while simultaneously taking a short position in another to profit from price differences.
+[Arbitrage](../a/arbitrage.md) involves taking advantage of price discrepancies between different markets or instruments. For instance, a trader might take a long position in one market while simultaneously taking a short position in another to profit from price differences.
 
 ### News-Based Trading
 News-based trading hinges on investing based on the information released in news reports. Positive or negative news can significantly move the market in a very short period. 
@@ -98,4 +98,4 @@ The fast-paced nature of short-term trading can be stressful. Effective stress m
 Emotional control is essential to avoid impulsive decisions that could undermine the trading strategy. Recognizing and overcoming emotional biases plays a critical role in successful short-term trading.
 
 ## Conclusion
-Short-term trading presents both extraordinary opportunities and significant challenges. Its success hinges on a thorough understanding of market dynamics, implementation of effective strategies, and rigorous risk management. Additionally, leveraging advanced tools, strategies, and maintaining psychological composure contributes to successful short-term trading experiences. Those who master these elements can potentially achieve considerable financial gains within short time frames.
+Short-term trading presents both extraordinary opportunities and significant challenges. Its success hinges on a thorough understanding of market dynamics, implementation of effective strategies, and rigorous [risk management](../r/risk_management.md). Additionally, leveraging advanced tools, strategies, and maintaining psychological composure contributes to successful short-term trading experiences. Those who master these elements can potentially achieve considerable financial gains within short time frames.

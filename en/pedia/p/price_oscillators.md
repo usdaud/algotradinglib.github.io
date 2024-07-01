@@ -2,7 +2,7 @@
 
 ### Introduction to Oscillators
 
-Price oscillators are technical analysis tools used to determine the momentum of price movements. These are indicative of overbought or oversold conditions in the financial markets, helping traders to make more informed buying and selling decisions. In algorithmic trading, oscillators are vital components in developing automated trading strategies that capitalize on market dynamics.
+Price oscillators are [technical analysis](../t/technical_analysis.md) tools used to determine the momentum of price movements. These are indicative of overbought or oversold conditions in the financial markets, helping traders to make more informed buying and selling decisions. In [algorithmic trading](../a/algorithmic_trading.md), oscillators are vital components in developing automated [trading strategies](../t/trading_strategies.md) that capitalize on market dynamics.
 
 ### Types of Price Oscillators
 
@@ -18,7 +18,7 @@ RSI was developed by J. Welles Wilder and is a momentum oscillator that measures
 
 #### Stochastic Oscillator
 
-The Stochastic Oscillator, developed by George Lane, compares a particular closing price of a security to a range of its prices over a certain period. It consists of two lines: %K and %D. %K measures the current closing price in relation to the high/low range, while %D is a simple moving average of %K.
+The [Stochastic Oscillator](../s/stochastic_oscillator.md), developed by George Lane, compares a particular closing price of a security to a range of its prices over a certain period. It consists of two lines: %K and %D. %K measures the current closing price in relation to the high/low range, while %D is a simple moving average of %K.
 
 *Stochastic Formula*:
 \[ \%K = 100 \times \left( \frac{\text{C} - \text{L}_n}{\text{H}_n - \text{L}_n} \right) \]
@@ -47,19 +47,19 @@ Where Typical Price (TP) is the average of high, low, and close prices,
 
 #### Signal Generation
 
-Price oscillators are integral to algorithmic trading strategies for generating buy and sell signals based on predefined conditions. For instance:
+Price oscillators are integral to [algorithmic trading](../a/algorithmic_trading.md) strategies for generating buy and sell signals based on predefined conditions. For instance:
 
 - **RSI**: When RSI crosses above 30, a buy signal may be initiated. Conversely, crossing below 70 may trigger a sell signal.
   
 - **MACD**: A common signal is generated when the MACD line crosses above the signal line (buy) or below it (sell).
 
-- **Stochastic Oscillator**: A buy signal is initiated when %K crosses above %D in the oversold region and a sell signal when it crosses below %D in the overbought region.
+- **[Stochastic Oscillator](../s/stochastic_oscillator.md)**: A buy signal is initiated when %K crosses above %D in the oversold region and a sell signal when it crosses below %D in the overbought region.
 
 - **CCI**: Typically, many traders watch for the CCI to move above +100 as a buy signal or below -100 as a sell signal.
 
 #### Backtesting and Optimization
 
-Algorithmic traders deploy historical data to backtest strategies based on the oscillators to determine their viability before deployment in live markets. Backtesting involves simulating trades based on historical prices to evaluate the performance metrics such as return, risk, and drawdown.
+Algorithmic traders deploy historical data to backtest strategies based on the oscillators to determine their viability before deployment in live markets. [Backtesting](../b/backtesting.md) involves simulating trades based on historical prices to evaluate the [performance metrics](../p/performance_metrics.md) such as return, risk, and drawdown.
 
 Optimization often involves adjusting the parameters of the oscillators to fine-tune the trading strategy. For example, traders might tweak the time periods for RSI, MACD, or CCI to improve the strategy's robustness across different market conditions.
 
@@ -67,13 +67,13 @@ Optimization often involves adjusting the parameters of the oscillators to fine-
 
 #### Machine Learning Integration
 
-Machine learning algorithms can be employed to enhance the efficacy of trading strategies that utilize price oscillators. For instance, supervised learning models can be trained using inputs derived from multiple oscillators to forecast future price movements.
+Machine learning algorithms can be employed to enhance the efficacy of [trading strategies](../t/trading_strategies.md) that utilize price oscillators. For instance, supervised learning models can be trained using inputs derived from multiple oscillators to forecast future price movements.
 
-Popular machine learning libraries such as TensorFlow and Scikit-Learn, when integrated with financial APIs, can retrieve real-time market data, process oscillator values, and execute trades based on predicted market scenarios.
+Popular machine learning libraries such as TensorFlow and Scikit-Learn, when integrated with financial APIs, can retrieve [real-time market data](../r/real-time_market_data.md), process oscillator values, and execute trades based on predicted market scenarios.
 
 #### Multi-oscillator Strategies
 
-Combining multiple oscillators in a single trading strategy can help mitigate false signals and improve accuracy. For instance, a synergistic approach utilizing RSI, MACD, and Stochastic Oscillator can be designed where:
+Combining multiple oscillators in a single trading strategy can help mitigate false signals and improve accuracy. For instance, a synergistic approach utilizing RSI, MACD, and [Stochastic Oscillator](../s/stochastic_oscillator.md) can be designed where:
 
 - A trade is only initiated when all three indicators converge on a signal (e.g., all indicate overbought or oversold conditions).
 
@@ -92,22 +92,22 @@ The effectiveness of oscillators can vary significantly across different market 
 
 #### Algorithm Deployment
 
-Successful deployment in live trading requires robust risk management protocols. Employing stop-loss orders and position-sizing techniques can help manage the risk associated with unexpected price movements.
+Successful deployment in live trading requires robust [risk management](../r/risk_management.md) protocols. Employing [stop-loss orders](../s/stop-loss_orders.md) and position-sizing techniques can help manage the risk associated with unexpected price movements.
 
 ### Case Studies
 
 #### Renaissance Technologies
 
-Renaissance Technologies, founded by mathematician James Simons, exemplifies the successful application of algorithms based on oscillators and other indicators. The firm's Medallion Fund has achieved unprecedented returns, largely attributed to sophisticated quantitative models.
+Renaissance Technologies, founded by mathematician James Simons, exemplifies the successful application of algorithms based on oscillators and other indicators. The firm's Medallion Fund has achieved unprecedented returns, largely attributed to sophisticated [quantitative models](../q/quantitative_models.md).
 
 **Website**: [Renaissance Technologies](https://www.ren.tech/)
 
 #### Two Sigma
 
-Two Sigma, another giant in the field of quantitative trading, uses data-driven algorithms to capture market opportunities. The firm leverages machine learning along with technical indicators, including oscillators, to develop robust trading strategies.
+Two Sigma, another giant in the field of [quantitative trading](../q/quantitative_trading.md), uses data-driven algorithms to capture market opportunities. The firm leverages machine learning along with [technical indicators](../t/technical_indicators.md), including oscillators, to develop robust [trading strategies](../t/trading_strategies.md).
 
 **Website**: [Two Sigma](https://www.twosigma.com/)
 
 ### Conclusion
 
-Price oscillators remain indispensable tools in the arsenal of algorithmic traders. From signal generation and backtesting to optimization and deployment, oscillators can significantly enhance the precision and profitability of trading strategies. However, proper application demands rigorous testing and integration with advanced technologies to adapt to ever-changing market dynamics.
+Price oscillators remain indispensable tools in the arsenal of algorithmic traders. From signal generation and [backtesting](../b/backtesting.md) to optimization and deployment, oscillators can significantly enhance the precision and profitability of [trading strategies](../t/trading_strategies.md). However, proper application demands rigorous testing and integration with advanced technologies to adapt to ever-changing market dynamics.

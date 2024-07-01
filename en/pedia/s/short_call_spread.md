@@ -1,6 +1,6 @@
 # Short Call Spread
 
-The Short Call Spread, also known as a Bear Call Spread, is an options trading strategy that involves selling a call option and simultaneously buying another call option with a higher strike price. This strategy is designed to generate a net credit and is typically used by traders who hold a neutral to bearish outlook on the underlying asset's price within a specific timeframe.
+The Short Call Spread, also known as a [Bear Call Spread](../b/bear_call_spread.md), is an options trading strategy that involves selling a call option and simultaneously buying another call option with a higher strike price. This strategy is designed to generate a net credit and is typically used by traders who hold a neutral to bearish outlook on the underlying asset's price within a specific timeframe.
 
 ## Components of a Short Call Spread
 
@@ -150,6 +150,6 @@ Several brokers and trading platforms offer tools to construct and manage Short 
 
 ## Conclusion
 
-The Short Call Spread is a sophisticated options strategy that caters to traders with a neutral to bearish market outlook. It provides a balanced approach with defined risks and rewards, making it a valuable addition to any options trader's arsenal. However, like all trading strategies, it should be employed with careful consideration of the market conditions, risk tolerances, and overall investment objectives.
+The Short Call Spread is a sophisticated options strategy that caters to traders with a neutral to bearish market outlook. It provides a balanced approach with defined risks and rewards, making it a valuable addition to any options trader's arsenal. However, like all [trading strategies](../t/trading_strategies.md), it should be employed with careful consideration of the market conditions, risk tolerances, and overall investment objectives.
 
 By understanding the dynamics of the Short Call Spread, traders can effectively harness its potential for generating income and managing risk in various market environments.

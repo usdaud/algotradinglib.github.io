@@ -7,9 +7,9 @@ In the world of finance, yield curves are crucial graphical representations of t
 
 Before diving into the techniques, it's essential to understand what yield curves represent and their different types:
 
-- **Normal Yield Curve**: This upward-sloping curve indicates that longer-term securities have higher yields compared to short-term ones, reflecting the increased risk and time preference for money.
-- **Inverted Yield Curve**: A downward-sloping curve where short-term yields are higher than long-term ones. This can signal an upcoming recession.
-- **Flat Yield Curve**: This occurs when short-term and long-term yields are very close, indicating uncertainty in the market or a transition phase in the economic cycle.
+- **Normal [Yield Curve](../y/yield_curve.md)**: This upward-sloping curve indicates that longer-term securities have higher yields compared to short-term ones, reflecting the increased risk and time preference for money.
+- **Inverted [Yield Curve](../y/yield_curve.md)**: A downward-sloping curve where short-term yields are higher than long-term ones. This can signal an upcoming recession.
+- **Flat [Yield Curve](../y/yield_curve.md)**: This occurs when short-term and long-term yields are very close, indicating uncertainty in the market or a transition phase in the economic cycle.
 
 ### 2. Theories Behind Yield Curves
 
@@ -17,13 +17,13 @@ Several theories explain the shapes of yield curves:
 
 - **Expectations Theory**: Suggests that long-term interest rates are a reflection of expected future short-term interest rates.
 - **Liquidity Preference Theory**: Argues that investors require a liquidity premium for longer maturities, leading to normally higher yields for long-term investments.
-- **Market Segmentation Theory**: Proposes that different investors have different maturity preferences, causing supply and demand imbalances at various points on the yield curve.
+- **Market Segmentation Theory**: Proposes that different investors have different maturity preferences, causing supply and demand imbalances at various points on the [yield curve](../y/yield_curve.md).
 
 ### 3. Yield Curve Construction Techniques
 
 #### Bootstrapping
 
-Bootstrapping is a method used to construct a zero-coupon yield curve.
+Bootstrapping is a method used to construct a zero-coupon [yield curve](../y/yield_curve.md).
 
 **Process**:
 1. Extract zero-coupon prices from the observed prices of coupon-bearing securities.
@@ -32,15 +32,15 @@ Bootstrapping is a method used to construct a zero-coupon yield curve.
 **Applications**:
 - Pricing new fixed-income securities.
 - Valuing existing fixed-income portfolios.
-- Risk management.
+- [Risk management](../r/risk_management.md).
 
 **Limitations**:
 - Data availability: Requires a sufficient range of bond maturities.
-- Sensitivity: Small errors in bond prices can significantly affect the derived yield curve.
+- Sensitivity: Small errors in bond prices can significantly affect the derived [yield curve](../y/yield_curve.md).
 
 #### Cubic Spline Interpolation
 
-Cubic spline interpolation smoothens the yield curve by fitting a series of cubic polynomials to the observed yields.
+Cubic spline interpolation smoothens the [yield curve](../y/yield_curve.md) by fitting a series of cubic polynomials to the observed yields.
 
 **Process**:
 1. Divide the yield data into intervals.
@@ -56,10 +56,10 @@ Cubic spline interpolation smoothens the yield curve by fitting a series of cubi
 
 #### Nelson-Siegel and Svensson Models
 
-The Nelson-Siegel and its extension, the Svensson model, provide parametric forms to fit the yield curve using a small number of parameters.
+The Nelson-Siegel and its extension, the Svensson model, provide parametric forms to fit the [yield curve](../y/yield_curve.md) using a small number of parameters.
 
 **Process**:
-1. Define yield curve mathematically using parameters that capture level, slope, and curvature effects.
+1. Define [yield curve](../y/yield_curve.md) mathematically using parameters that capture level, slope, and curvature effects.
 2. Estimate these parameters using market data.
 
 **Applications**:
@@ -74,7 +74,7 @@ The Nelson-Siegel and its extension, the Svensson model, provide parametric form
 
 #### Principal Component Analysis (PCA)
 
-PCA is a statistical technique that reduces the dimensions of the data to identify the key movements in the yield curve.
+PCA is a statistical technique that reduces the dimensions of the data to identify the key movements in the [yield curve](../y/yield_curve.md).
 
 **Process**:
 1. Calculate the covariance matrix of yield changes.
@@ -83,7 +83,7 @@ PCA is a statistical technique that reduces the dimensions of the data to identi
 
 **Applications**:
 - Understanding interest rate risks.
-- Portfolio management.
+- [Portfolio management](../p/portfolio_management.md).
 
 **Limitations**:
 - Interpretation: Principal components may not have a clear economic interpretation.
@@ -95,10 +95,10 @@ These models assume that yield curves are influenced by a few underlying factors
 
 **Process**:
 1. Identify the main factors through statistical or economic analysis.
-2. Model the yield curve as a function of these factors.
+2. Model the [yield curve](../y/yield_curve.md) as a function of these factors.
 
 **Applications**:
-- Risk management in fixed income portfolios.
+- [Risk management](../r/risk_management.md) in fixed income portfolios.
 - Scenario analysis.
 
 **Limitations**:
@@ -113,7 +113,7 @@ Machine learning techniques provide a flexible and powerful approach to yield-cu
 
 ##### Neural Networks
 
-Neural networks can capture nonlinear relationships in the yield curve data.
+Neural networks can capture nonlinear relationships in the [yield curve](../y/yield_curve.md) data.
 
 **Process**:
 1. Train a neural network on historical yield data.
@@ -135,7 +135,7 @@ SVMs are effective for classification and regression tasks in yield-curve analys
 
 **Process**:
 1. Use yield data to train the SVM.
-2. Apply the model to classify yield curve regimes or predict yields.
+2. Apply the model to classify [yield curve](../y/yield_curve.md) regimes or predict yields.
 
 **Applications**:
 - Classifying market conditions.
@@ -151,7 +151,7 @@ SVMs are effective for classification and regression tasks in yield-curve analys
 
 #### Economic Indicators
 
-Yield curves provide valuable insights into future economic activity. For instance, an inverted yield curve is often seen as a precursor to an economic recession.
+Yield curves provide valuable insights into future economic activity. For instance, an inverted [yield curve](../y/yield_curve.md) is often seen as a precursor to an economic recession.
 
 **Applications**:
 - Economic forecasting.
@@ -159,25 +159,25 @@ Yield curves provide valuable insights into future economic activity. For instan
 
 #### Bond Market Strategies
 
-Understanding the yield curve is essential for devising bond investment strategies.
+Understanding the [yield curve](../y/yield_curve.md) is essential for devising bond investment strategies.
 
 **Applications**:
-- Duration management: Adjusting bond portfolio duration based on yield curve projections.
-- Yield curve trading: Implementing strategies like bullet, barbell, and ladder based on the yield curve shape.
+- Duration management: Adjusting bond [portfolio duration](../p/portfolio_duration.md) based on [yield curve](../y/yield_curve.md) projections.
+- [Yield curve](../y/yield_curve.md) trading: Implementing strategies like bullet, barbell, and ladder based on the [yield curve](../y/yield_curve.md) shape.
 
 #### Risk Management
 
 Yield-curve analysis assists in managing interest rate risks in portfolios.
 
 **Applications**:
-- Stress testing: Evaluating portfolio performance under different yield curve scenarios.
+- Stress testing: Evaluating [portfolio performance](../p/portfolio_performance.md) under different [yield curve](../y/yield_curve.md) scenarios.
 - Hedging: Formulating strategies to mitigate interest rate risks.
 
 ### 7. Limitations and Challenges in Yield-Curve Analysis
 
 While yield-curve analysis is a powerful tool, it comes with several limitations and challenges:
 
-- **Data Quality**: Accurate yield curve construction requires high-quality, continuous data across maturities.
+- **Data Quality**: Accurate [yield curve](../y/yield_curve.md) construction requires high-quality, continuous data across maturities.
 - **Model Risk**: Incorrect model specifications or parameter assumptions can lead to erroneous conclusions.
 - **Market Conditions**: Yield curves can be influenced by external factors such as central bank interventions, which may distort market-based signals.
 

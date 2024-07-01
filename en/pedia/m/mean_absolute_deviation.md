@@ -1,6 +1,6 @@
 # Mean Absolute Deviation in Algorithmic Trading
 
-Mean Absolute Deviation (MAD), also referred to as Mean Absolute Error (MAE), is a statistical measure used in various fields, including finance, to summarize the variability or dispersion of a data set. In the context of algorithmic trading, MAD is utilized to evaluate the performance and risk of trading algorithms. This comprehensive analysis covers the definition, calculation, application, and significance of MAD in algorithmic trading.
+Mean Absolute Deviation (MAD), also referred to as Mean Absolute Error (MAE), is a statistical measure used in various fields, including finance, to summarize the variability or dispersion of a data set. In the context of [algorithmic trading](../a/algorithmic_trading.md), MAD is utilized to evaluate the performance and risk of [trading algorithms](../t/trading_algorithms.md). This comprehensive analysis covers the definition, calculation, application, and significance of MAD in [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Definition
 
@@ -33,29 +33,29 @@ To calculate MAD effectively, follow these steps:
 
 ### Risk Management
 
-In algorithmic trading, risk management is paramount. MAD is used as a tool to assess the risk associated with trading algorithms. By evaluating the average deviation of returns, traders can gauge the potential variability and establish risk thresholds. Lower MAD values indicate more consistent returns, while higher values signify greater risk and variability.
+In [algorithmic trading](../a/algorithmic_trading.md), [risk management](../r/risk_management.md) is paramount. MAD is used as a tool to assess the risk associated with [trading algorithms](../t/trading_algorithms.md). By evaluating the average deviation of returns, traders can gauge the potential variability and establish risk thresholds. Lower MAD values indicate more consistent returns, while higher values signify greater risk and variability.
 
 ### Performance Evaluation
 
-MAD assists in performance evaluation by providing a clearer view of the trading algorithm's stability. Unlike standard deviation, which squares deviations, MAD gives a more intuitive measure of average error. This robustness against outliers makes it a reliable metric for assessing the real-world performance of trading algorithms.
+MAD assists in performance evaluation by providing a clearer view of the trading algorithm's stability. Unlike standard deviation, which squares deviations, MAD gives a more intuitive measure of average error. This robustness against outliers makes it a reliable metric for assessing the real-world performance of [trading algorithms](../t/trading_algorithms.md).
 
 ### Optimization of Trading Strategies
 
-When refining and optimizing trading strategies, MAD can serve as a criterion for comparing the efficacy of different models. Trading strategies with lower MAD values are generally preferred, as they indicate tighter control over deviations from the expected performance.
+When refining and optimizing [trading strategies](../t/trading_strategies.md), MAD can serve as a criterion for comparing the efficacy of different models. [Trading strategies](../t/trading_strategies.md) with lower MAD values are generally preferred, as they indicate tighter control over deviations from the expected performance.
 
 ## Significance
 
 ### Robustness Against Outliers
 
-One of the key advantages of MAD in algorithmic trading is its robustness against outliers. While standard deviation can be heavily influenced by extreme values, MAD focuses on median deviations, providing a more stable measure of variability. This robustness is particularly valuable in volatile markets where outliers are common.
+One of the key advantages of MAD in [algorithmic trading](../a/algorithmic_trading.md) is its robustness against outliers. While standard deviation can be heavily influenced by extreme values, MAD focuses on median deviations, providing a more stable measure of variability. This robustness is particularly valuable in volatile markets where outliers are common.
 
 ### Simplicity and Interpretability
 
-The simplicity of MAD makes it highly interpretable. Unlike more complex statistical measures, MAD offers a straightforward quantification of dispersion. This intuitive understanding helps traders and analysts quickly comprehend the variability associated with different trading algorithms.
+The simplicity of MAD makes it highly interpretable. Unlike more complex statistical measures, MAD offers a straightforward quantification of dispersion. This intuitive understanding helps traders and analysts quickly comprehend the variability associated with different [trading algorithms](../t/trading_algorithms.md).
 
 ## Practical Example
 
-Consider a scenario where a trader is evaluating the performance of two trading algorithms based on their daily returns over a period of 10 days:
+Consider a scenario where a trader is evaluating the performance of two [trading algorithms](../t/trading_algorithms.md) based on their daily returns over a period of 10 days:
 
 Algorithm A returns:
 - 2%, 3%, 1%, 4%, 2%, 5%, -1%, 3%, 4%, 2%
@@ -119,12 +119,12 @@ While MAD provides a clear and straightforward measure of variability, it’s of
 
 ### Software and Tools
 
-Multiple software tools and platforms offer functionalities to compute and analyze MAD for trading algorithms. Popular platforms include:
+Multiple software tools and platforms offer functionalities to compute and analyze MAD for [trading algorithms](../t/trading_algorithms.md). Popular platforms include:
 
 - **MetaTrader**: A widely-used platform in forex and stock trading that supports custom scripting and analytics.
   [MetaTrader](https://www.metatrader4.com/en)
 
-- **QuantConnect**: An open, cloud-based algorithmic trading platform that provides a variety of statistical tools.
+- **QuantConnect**: An open, cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that provides a variety of statistical tools.
   [QuantConnect](https://www.quantconnect.com/)
 
 - **MultiCharts**: An advanced trading platform with extensive analytical capabilities.
@@ -133,8 +133,8 @@ Multiple software tools and platforms offer functionalities to compute and analy
 - **MATLAB**: A high-level language and interactive environment for numerical computation, visualization, and programming.
   [MATLAB](https://www.mathworks.com/products/matlab.html)
 
-These platforms facilitate the ease of MAD computation, enhancing the decision-making process in algorithmic trading.
+These platforms facilitate the ease of MAD computation, enhancing the decision-making process in [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Conclusion
 
-Mean Absolute Deviation serves as a foundational tool in algorithmic trading, providing crucial insights into the variability and performance of trading algorithms. Its simplicity, robustness against outliers, and straightforward interpretation make it an invaluable metric for traders aiming to optimize their strategies and manage risks effectively. By leveraging tools and platforms that support MAD analysis, traders can enhance their algorithmic trading processes, ensuring greater stability and consistency in their returns.
+Mean Absolute Deviation serves as a foundational tool in [algorithmic trading](../a/algorithmic_trading.md), providing crucial insights into the variability and performance of [trading algorithms](../t/trading_algorithms.md). Its simplicity, robustness against outliers, and straightforward interpretation make it an invaluable metric for traders aiming to optimize their strategies and manage risks effectively. By leveraging tools and platforms that support MAD analysis, traders can enhance their [algorithmic trading](../a/algorithmic_trading.md) processes, ensuring greater stability and consistency in their returns.

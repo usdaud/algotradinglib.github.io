@@ -2,13 +2,13 @@
 
 ### Introduction
 
-Global asset allocation involves the practice of distributing investments across various asset classes and geographic regions to optimize returns while minimizing risk. 
+Global [asset allocation](../a/asset_allocation.md) involves the practice of distributing investments across various asset classes and geographic regions to optimize returns while minimizing risk. 
 
 ### Core Concepts and Definitions
 
 #### Asset Allocation
 
-Asset allocation is the process of deciding how to distribute an investment portfolio across different asset categories, such as equities, bonds, real estate, and cash. Each asset class has different risk and return characteristics.
+[Asset allocation](../a/asset_allocation.md) is the process of deciding how to distribute an investment portfolio across different asset categories, such as equities, bonds, real estate, and cash. Each asset class has different risk and return characteristics.
 
 #### Importance of Diversification
 
@@ -26,7 +26,7 @@ Bonds are debt securities issued by corporations, municipalities, or governments
 
 #### Real Estate
 
-Real estate investments might include residential properties, commercial properties, or Real Estate Investment Trusts (REITs). They offer diversification benefits and potential appreciation and income from rent.
+Real estate investments might include residential properties, commercial properties, or Real Estate Investment Trusts (REITs). They offer [diversification benefits](../d/diversification_benefits.md) and potential appreciation and income from rent.
 
 #### Cash and Cash Equivalents
 
@@ -54,7 +54,7 @@ Frontier markets are less advanced than emerging markets and can offer significa
 
 #### Modern Portfolio Theory (MPT)
 
-Developed by Harry Markowitz, Modern Portfolio Theory emphasizes the benefits of diversification. According to MPT, it's possible to construct an "efficient frontier" of optimal portfolios offering the maximum possible return for a given level of risk.
+Developed by Harry Markowitz, Modern Portfolio Theory emphasizes the benefits of diversification. According to MPT, it's possible to construct an "[efficient frontier](../e/efficient_frontier.md)" of optimal portfolios offering the maximum possible return for a given level of risk.
 
 #### Capital Asset Pricing Model (CAPM)
 
@@ -62,21 +62,21 @@ The CAPM is a model that describes the relationship between expected return and 
 
 #### Black-Litterman Model
 
-The Black-Litterman model is an advanced asset allocation model that combines the expected returns from the CAPM with the investor's own views about future returns. It helps in refining predictions and making more balanced investment decisions.
+The [Black-Litterman model](../b/black-litterman_model.md) is an advanced [asset allocation](../a/asset_allocation.md) model that combines the expected returns from the CAPM with the investor's own views about future returns. It helps in refining predictions and making more balanced investment decisions.
 
 ### Strategies in Global Asset Allocation
 
 #### Strategic Asset Allocation
 
-Strategic asset allocation is a long-term investment strategy that defines a set allocation for various asset classes and periodically rebalances the portfolio to maintain these allocations.
+Strategic [asset allocation](../a/asset_allocation.md) is a long-term investment strategy that defines a set allocation for various asset classes and periodically rebalances the portfolio to maintain these allocations.
 
 #### Tactical Asset Allocation
 
-Tactical asset allocation is a more active strategy that allows for temporary deviations from the set asset allocation to take advantage of market opportunities.
+Tactical [asset allocation](../a/asset_allocation.md) is a more active strategy that allows for temporary deviations from the set [asset allocation](../a/asset_allocation.md) to take advantage of market opportunities.
 
 #### Dynamic Asset Allocation
 
-Dynamic asset allocation involves continually adjusting the mix of asset classes based on market conditions and the economic environment to minimize risk and maximize returns.
+Dynamic [asset allocation](../a/asset_allocation.md) involves continually adjusting the mix of asset classes based on market conditions and the economic environment to minimize risk and maximize returns.
 
 ### Risk Management
 
@@ -86,17 +86,17 @@ Risk assessment involves analyzing the risk-return profile of individual asset c
 
 #### Rebalancing
 
-Rebalancing is the process of realigning the weightings of a portfolio of assets to maintain a desired level of asset allocation. This involves periodically buying and selling assets to keep the portfolio aligned with the target allocation.
+Rebalancing is the process of realigning the weightings of a portfolio of assets to maintain a desired level of [asset allocation](../a/asset_allocation.md). This involves periodically buying and selling assets to keep the portfolio aligned with the target allocation.
 
 ### Tools and Technologies in Global Asset Allocation
 
 #### Software Solutions
 
-Various software solutions offer tools for asset allocation, portfolio management, and risk assessment. Key players in this domain include BlackRock’s Aladdin (www.blackrock.com/aladdin), Morningstar Direct (www.morningstar.com/products/direct), and FactSet (www.factset.com).
+Various software solutions offer tools for [asset allocation](../a/asset_allocation.md), [portfolio management](../p/portfolio_management.md), and risk assessment. Key players in this domain include BlackRock’s Aladdin (www.blackrock.com/aladdin), Morningstar Direct (www.morningstar.com/products/direct), and FactSet (www.factset.com).
 
 #### Algorithms and Automation
 
-Algorithmic trading and automation can assist in real-time portfolio management and rebalancing. Firms like Two Sigma (www.twosigma.com) and Renaissance Technologies are leaders in applying quantitative methods to asset allocation.
+[Algorithmic trading](../a/algorithmic_trading.md) and automation can assist in real-time [portfolio management](../p/portfolio_management.md) and rebalancing. Firms like Two Sigma (www.twosigma.com) and Renaissance Technologies are leaders in applying quantitative methods to [asset allocation](../a/asset_allocation.md).
 
 ### Case Studies
 
@@ -110,5 +110,5 @@ The CPPIB adopts a total portfolio approach, considering all asset classes and g
 
 ### Conclusion
 
-Global asset allocation is a dynamic process that involves understanding, selecting, and managing a variety of asset classes across different geographic regions. By utilizing modern theories, models, and tools, investors can construct well-diversified portfolios that optimize returns for a given level of risk.
+Global [asset allocation](../a/asset_allocation.md) is a dynamic process that involves understanding, selecting, and managing a variety of asset classes across different geographic regions. By utilizing modern theories, models, and tools, investors can construct well-diversified portfolios that optimize returns for a given level of risk.
 

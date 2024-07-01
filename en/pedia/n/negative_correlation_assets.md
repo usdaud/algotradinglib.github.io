@@ -38,7 +38,7 @@ Modern portfolio theory (MPT) utilizes these calculations to optimize portfolios
 
 ### Practical Application
 
-Algorithmic trading, or 'algo-trading', greatly benefits from understanding asset correlations. Algorithms can be programmed to automatically adjust portfolios by buying and selling negatively correlated assets in response to specific market conditions. These algorithms can exploit inverse relationships to hedge positions and protect against losses.
+[Algorithmic trading](../a/algorithmic_trading.md), or 'algo-trading', greatly benefits from understanding asset correlations. Algorithms can be programmed to automatically adjust portfolios by buying and selling negatively correlated assets in response to specific market conditions. These algorithms can exploit inverse relationships to hedge positions and protect against losses.
 
 For example, during a stock market crash, an algorithm might automatically increase exposure to bonds or gold to counteract falling stock prices.
 
@@ -46,12 +46,12 @@ Individuals interested in practical applications can explore algo-trading platfo
 
 ### Risks and Considerations
 
-While negatively correlated assets offer diversification benefits, they are not without their own risks. Correlations can change due to macroeconomic shifts, policy changes, and market sentiment. What was previously a negatively correlated relationship can become uncorrelated or even positively correlated under different conditions.
+While negatively correlated assets offer [diversification benefits](../d/diversification_benefits.md), they are not without their own risks. Correlations can change due to macroeconomic shifts, policy changes, and market sentiment. What was previously a negatively correlated relationship can become uncorrelated or even positively correlated under different conditions.
 
 Moreover, over-reliance on historical data can be misleading. It is essential to stay informed about market conditions and regularly adjust portfolios to ensure they align with current economic realities.
 
-Specialized financial advice and using advanced analytical tools can provide better insights into the complex dynamics of asset correlation.
+Specialized financial advice and using advanced analytical tools can provide better insights into the complex dynamics of [asset correlation](../a/asset_correlation.md).
 
 ### Conclusion
 
-Negative correlation assets are vital components of a well-diversified portfolio, offering a buffer against market volatility. By understanding and strategically employing these assets, traders and investors can optimize their returns while minimizing risk. Whether through manual investment strategies or advanced algorithmic trading, the concept of negative correlation remains a cornerstone of effective financial management.
+Negative correlation assets are vital components of a well-diversified portfolio, offering a buffer against market volatility. By understanding and strategically employing these assets, traders and investors can optimize their returns while minimizing risk. Whether through manual investment strategies or advanced [algorithmic trading](../a/algorithmic_trading.md), the concept of negative correlation remains a cornerstone of effective financial management.

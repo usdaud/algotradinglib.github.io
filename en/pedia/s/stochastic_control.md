@@ -47,7 +47,7 @@ Where \( V(\cdot) \) is the value function representing the minimal cost from an
 
 ## Applications in Finance
 
-One of the key sectors where stochastic control is extensively applied is finance, particularly in portfolio optimization and risk management.
+One of the key sectors where stochastic control is extensively applied is finance, particularly in [portfolio optimization](../p/portfolio_optimization.md) and [risk management](../r/risk_management.md).
 
 ### Portfolio Optimization
 
@@ -57,9 +57,9 @@ Involves selecting a mix of financial assets to maximize expected return while m
 
 ### Risk Management
 
-Involves designing strategies to mitigate financial risks. Stochastic control methods are used in option pricing, hedging strategies, and managing credit and market risks.
+Involves designing strategies to mitigate financial risks. Stochastic control methods are used in option pricing, [hedging strategies](../h/hedging_strategies.md), and managing credit and market risks.
 
-**Dynamic Hedging**: Uses stochastic differential equations to adjust a portfolio dynamically in response to underlying asset price movements to maintain a hedged position.
+**[Dynamic Hedging](../d/dynamic_hedging.md)**: Uses [stochastic differential equations](../s/stochastic_differential_equations.md) to adjust a portfolio dynamically in response to underlying asset price movements to maintain a hedged position.
 
 ## Applications in Engineering
 
@@ -75,7 +75,7 @@ Stochastic control is employed in autonomous robots to navigate uncertain enviro
 
 ### Power Systems
 
-Managing the operation of electrical grids involves dealing with random fluctuations in demand and supply. Stochastic optimization techniques ensure reliable grid performance and cost management.
+Managing the operation of electrical grids involves dealing with random fluctuations in demand and supply. [Stochastic optimization](../s/stochastic_optimization.md) techniques ensure reliable grid performance and cost management.
 
 ## Numerical Methods for Stochastic Control
 
@@ -101,7 +101,7 @@ Reinforcement learning (RL) is increasingly used to solve stochastic control pro
 
 ### High-Frequency Trading (HFT)
 
-Stochastic control strategies are essential in HFT to dynamically adjust trading positions based on real-time market data. Firms like Jump Trading and Virtu Financial use sophisticated stochastic algorithms for optimal decision-making.
+Stochastic control strategies are essential in HFT to dynamically adjust trading positions based on [real-time market data](../r/real-time_market_data.md). Firms like [Jump Trading](../j/jump_trading.md) and Virtu Financial use sophisticated stochastic algorithms for optimal decision-making.
 
 [@Jump Trading](https://www.jumptrading.com)
 [@Virtu Financial](https://www.virtu.com)

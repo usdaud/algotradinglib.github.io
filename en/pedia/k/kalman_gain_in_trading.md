@@ -20,7 +20,7 @@ Where:
 In the context of trading, the Kalman Filter and Kalman Gain can be utilized for various purposes including, but not limited to:
 - **Predicting Stock Prices**: Using historical price data to predict future movements.
 - **Estimating Volatility**: Filtering out the noise to estimate the actual volatility of a stock.
-- **Algorithmic Trading**: Implementing the Kalman Filter in conjunction with other trading algorithms for better signal processing and decision making.
+- **[Algorithmic Trading](../a/algorithmic_trading.md)**: Implementing the Kalman Filter in conjunction with other [trading algorithms](../t/trading_algorithms.md) for better signal processing and decision making.
 
 ### Stock Price Prediction
 Traders often use the Kalman Filter to predict future stock prices. By feeding the algorithm with historical price data, traders can produce a smoothed estimate of the stock's direction. The Kalman Gain comes into play by adjusting the weights given to new observed prices versus predicted prices. For instance, during high volatility, the Kalman Gain adjusts to put more weight on new observations.
@@ -72,17 +72,17 @@ print(filtered_prices)
 Kalman Filters can also estimate a stock's volatility by minimizing the impact of noise. This is crucial for options trading, where volatility is a key component in pricing.
 
 ### Algorithmic Trading
-In algorithmic trading, sophisticated traders incorporate Kalman Filters to improve the robustness of their models. By cleaning the data and making better-informed decisions, traders can potentially increase the profitability of their strategies.
+In [algorithmic trading](../a/algorithmic_trading.md), sophisticated traders incorporate Kalman Filters to improve the robustness of their models. By cleaning the data and making better-informed decisions, traders can potentially increase the profitability of their strategies.
 
 ## Companies Utilizing Kalman Gain in Trading
 
-1. **WorldQuant**: A quantitative asset management firm utilizing data-driven, systematic approaches, including Kalman Filters for trading strategies.
+1. **WorldQuant**: A quantitative asset management firm utilizing data-driven, systematic approaches, including Kalman Filters for [trading strategies](../t/trading_strategies.md).
    - [WorldQuant](https://www.worldquant.com/)
 
 2. **Two Sigma**: This company leverages statistical models and machine learning techniques to manage investment strategies, likely incorporating Kalman Filters.
    - [Two Sigma](https://www.twosigma.com/)
 
-3. **Citadel**: Known for its quantitative research and algorithmic trading, Citadel potentially uses Kalman Gain in refining its trading algorithms.
+3. **Citadel**: Known for its [quantitative research](../q/quantitative_research.md) and [algorithmic trading](../a/algorithmic_trading.md), Citadel potentially uses Kalman Gain in refining its [trading algorithms](../t/trading_algorithms.md).
    - [Citadel](https://www.citadel.com/)
 
 ## Advantages of Using Kalman Gain
@@ -91,7 +91,7 @@ In algorithmic trading, sophisticated traders incorporate Kalman Filters to impr
 - **Adaptability**: Adjusts dynamically to changing market conditions.
 
 ## Conclusion
-Kalman Gain plays a pivotal role in refining the predictions of the Kalman Filter, making it highly valuable in trading applications. Its ability to strike a balance between predicted and observed values helps traders make better-informed decisions. As financial markets continue to evolve with increased data and volatility, the use of sophisticated algorithms like Kalman Filters will likely become even more prevalent. For traders and financial professionals looking to enhance their trading strategies, understanding and implementing Kalman Gain offers a significant edge.
+Kalman Gain plays a pivotal role in refining the predictions of the Kalman Filter, making it highly valuable in trading applications. Its ability to strike a balance between predicted and observed values helps traders make better-informed decisions. As financial markets continue to evolve with increased data and volatility, the use of sophisticated algorithms like Kalman Filters will likely become even more prevalent. For traders and financial professionals looking to enhance their [trading strategies](../t/trading_strategies.md), understanding and implementing Kalman Gain offers a significant edge.
 ```
 
 This markdown thoroughly explains the concept of Kalman Gain, its application in trading, and the advantages it provides. Additionally, it mentions the companies leveraging this technology with appropriate references.

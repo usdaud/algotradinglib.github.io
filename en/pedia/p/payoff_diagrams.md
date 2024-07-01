@@ -4,7 +4,7 @@ Payoff diagrams are graphical representations that traders and investors use to 
 
 ## Introduction to Payoff Diagrams
 
-Payoff diagrams plot the potential profit or loss (Y-axis) against the underlying asset's price at expiration (X-axis). These diagrams are essential tools because they help traders visualize the outcomes of different positions and strategies, from simple call and put options to more complex combinations like straddles, strangles, spreads, and butterflies.
+Payoff diagrams plot the potential profit or loss (Y-axis) against the underlying asset's price at expiration (X-axis). These diagrams are essential tools because they help traders visualize the outcomes of different positions and strategies, from simple call and [put options](../p/put_options.md) to more complex combinations like straddles, strangles, spreads, and butterflies.
 
 The fundamental components of a payoff diagram include:
 - **X-axis**: Represents the price of the underlying asset at expiration.
@@ -75,9 +75,9 @@ Payoff diagrams become more complex when combining multiple options positions, o
 
 ### 1. Bull Call Spread
 
-A bull call spread involves buying a call option at a lower strike price while selling another call option at a higher strike price on the same underlying asset and expiration date.
+A [bull call spread](../b/bull_call_spread.md) involves buying a call option at a lower strike price while selling another call option at a higher strike price on the same underlying asset and expiration date.
 
-- **Shape**: The payoff diagram for a bull call spread starts with a maximum loss limited to the net premium paid if the underlying price is below the lower strike. The profit is capped between the lower and upper strikes.
+- **Shape**: The payoff diagram for a [bull call spread](../b/bull_call_spread.md) starts with a maximum loss limited to the net premium paid if the underlying price is below the lower strike. The profit is capped between the lower and upper strikes.
 - **Breakeven Point**: The lower strike price plus the net premium paid.
 - **Maximum Loss**: Limited to the net premium paid.
 - **Maximum Profit**: Limited to the difference between the strike prices minus the net premium paid.
@@ -86,9 +86,9 @@ A bull call spread involves buying a call option at a lower strike price while s
 
 ### 2. Bear Put Spread
 
-A bear put spread involves buying a put option at a higher strike price while selling another put option at a lower strike price on the same underlying asset and expiration date.
+A [bear put spread](../b/bear_put_spread.md) involves buying a put option at a higher strike price while selling another put option at a lower strike price on the same underlying asset and expiration date.
 
-- **Shape**: The payoff diagram for a bear put spread starts with the maximum potential loss limited to the net premium if the underlying price is above the higher strike. The profit is capped between the lower and higher strikes.
+- **Shape**: The payoff diagram for a [bear put spread](../b/bear_put_spread.md) starts with the maximum potential loss limited to the net premium if the underlying price is above the higher strike. The profit is capped between the lower and higher strikes.
 - **Breakeven Point**: The higher strike price minus the net premium paid.
 - **Maximum Loss**: Limited to the net premium paid.
 - **Maximum Profit**: Limited to the difference between the strike prices minus the net premium paid.
@@ -97,9 +97,9 @@ A bear put spread involves buying a put option at a higher strike price while se
 
 ### 3. Iron Condor
 
-An iron condor involves selling a call spread and a put spread with the same expiration dates but different strike prices. Typically, the sold calls and puts are closer to the underlying price, while the purchased options are further out.
+An [iron condor](../i/iron_condor.md) involves selling a call spread and a put spread with the same expiration dates but different strike prices. Typically, the sold calls and puts are closer to the underlying price, while the purchased options are further out.
 
-- **Shape**: The payoff diagram for an iron condor has a flat maximum profit region, a loss region on both sides, and capped risks at extreme price movements of the underlying asset.
+- **Shape**: The payoff diagram for an [iron condor](../i/iron_condor.md) has a flat maximum profit region, a loss region on both sides, and capped risks at extreme price movements of the underlying asset.
 - **Breakeven Points**: Two points—one between the lower sold and bought put strikes and one between the sold and bought call strikes.
 - **Maximum Loss**: Limited to the differences in strike prices minus the net premium received.
 - **Maximum Profit**: Limited to the net premium received.
@@ -108,9 +108,9 @@ An iron condor involves selling a call spread and a put spread with the same exp
 
 ### 4. Butterfly Spread
 
-A butterfly spread involves buying a call (or put) at a lower strike, selling two calls (or puts) at a middle strike, and buying another call (or put) at a higher strike. The middle strike is usually centered between the other two.
+A [butterfly spread](../b/butterfly_spread.md) involves buying a call (or put) at a lower strike, selling two calls (or puts) at a middle strike, and buying another call (or put) at a higher strike. The middle strike is usually centered between the other two.
 
-- **Shape**: The payoff diagram for a butterfly spread has a peak indicating the highest profit at the middle strike price and decreasing profit towards the wings.
+- **Shape**: The payoff diagram for a [butterfly spread](../b/butterfly_spread.md) has a peak indicating the highest profit at the middle strike price and decreasing profit towards the wings.
 - **Breakeven Points**: Two points between the lower and middle strike and the middle and upper strike.
 - **Maximum Loss**: Limited to the net premium paid.
 - **Maximum Profit**: Limited to the difference between the middle strike and either outer strike minus the net premium paid.
@@ -121,7 +121,7 @@ A butterfly spread involves buying a call (or put) at a lower strike, selling tw
 
 When using payoff diagrams, it's critical to keep in mind certain applications and considerations:
 
-- **Risk Management**: Payoff diagrams help traders assess and manage risks, setting realistic expectations for profitable and adverse outcomes.
+- **[Risk Management](../r/risk_management.md)**: Payoff diagrams help traders assess and manage risks, setting realistic expectations for profitable and adverse outcomes.
 - **Strategy Assessment**: By visualizing different strategies and combinations, traders can determine which approach aligns best with their market outlook and risk tolerance.
 - **Hedging**: Advanced strategies like protective puts or iron condors are often used for hedging existing positions.
 - **Volatility**: Understanding how volatility affects options prices (and thus payoffs) is essential for using payoff diagrams effectively.
@@ -129,4 +129,4 @@ When using payoff diagrams, it's critical to keep in mind certain applications a
 
 In conclusion, payoff diagrams are versatile tools in the arsenal of investors and traders, providing critical insights into the profit and loss potential of various strategies. By analyzing these diagrams, individuals can align their trading decisions more closely with their financial goals and risk profiles.
 
-For further information on how payoff diagrams can be used for specific trading strategies, you can explore comprehensive educational resources from options trading institutions such as [Cboe Global Markets](https://www.cboe.com/), leaders in facilitating options trading and education.
+For further information on how payoff diagrams can be used for specific [trading strategies](../t/trading_strategies.md), you can explore comprehensive educational resources from options trading institutions such as [Cboe Global Markets](https://www.cboe.com/), leaders in facilitating options trading and education.

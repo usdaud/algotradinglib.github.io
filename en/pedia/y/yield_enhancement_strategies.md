@@ -1,6 +1,6 @@
 # Yield Enhancement Strategies
 
-Yield enhancement strategies are techniques and approaches used by investors and traders to increase the return on their investments beyond the standard expectations from holding traditional assets. These strategies are integral to advanced portfolio management and are commonly employed by both institutional investors and sophisticated retail traders. This document delves into various yield enhancement strategies, covering their principles, methodologies, risks, and implementation.
+Yield enhancement strategies are techniques and approaches used by investors and traders to increase the return on their investments beyond the standard expectations from holding traditional assets. These strategies are integral to advanced [portfolio management](../p/portfolio_management.md) and are commonly employed by both institutional investors and sophisticated retail traders. This document delves into various yield enhancement strategies, covering their principles, methodologies, risks, and implementation.
 
 ## 1. Option Writing
 
@@ -8,7 +8,7 @@ Option writing involves selling options contracts, which can generate additional
 
 ### Covered Call Writing
 
-Covered call writing involves holding a long position in an asset while simultaneously selling a call option on the same asset. The premium received from selling the call option provides additional returns, or "yield." The trade-off is that the investor’s upside potential is capped at the strike price of the sold call option.
+[Covered call writing](../c/covered_call_writing.md) involves holding a long position in an asset while simultaneously selling a call option on the same asset. The premium received from selling the call option provides additional returns, or "yield." The trade-off is that the investor’s upside potential is capped at the strike price of the sold call option.
 
 **Advantages:**
 - Generates additional income through premiums.
@@ -20,7 +20,7 @@ Covered call writing involves holding a long position in an asset while simultan
 
 ### Cash-Secured Put Writing
 
-Cash-secured put writing involves selling put options on a security while holding sufficient cash to purchase the security if the put is exercised. This strategy can be profitable if the underlying security remains stable or appreciates, as the investor keeps the premium received from selling the put options.
+Cash-secured put writing involves selling [put options](../p/put_options.md) on a security while holding sufficient cash to purchase the security if the put is exercised. This strategy can be profitable if the underlying security remains stable or appreciates, as the investor keeps the premium received from selling the [put options](../p/put_options.md).
 
 **Advantages:**
 - Generates income from the premiums received.
@@ -48,7 +48,7 @@ Credit spreads are option strategies that involve buying and selling options of 
 
 ### Bull Put Spread
 
-A bull put spread involves selling a higher strike price put option and buying a lower strike price put option with the same expiration date. This strategy is used when the investor has a moderately bullish outlook on the underlying asset.
+A [bull put spread](../b/bull_put_spread.md) involves selling a higher strike price put option and buying a lower strike price put option with the same expiration date. This strategy is used when the investor has a moderately bullish outlook on the underlying asset.
 
 **Advantages:**
 - Limited risk, as the potential loss is capped by the difference between the strike prices minus the net credit received.
@@ -60,7 +60,7 @@ A bull put spread involves selling a higher strike price put option and buying a
 
 ### Bear Call Spread
 
-A bear call spread involves selling a lower strike call option and buying a higher strike call option with the same expiration date. This strategy is used when the investor has a moderately bearish outlook on the underlying asset.
+A [bear call spread](../b/bear_call_spread.md) involves selling a lower strike call option and buying a higher strike call option with the same expiration date. This strategy is used when the investor has a moderately bearish outlook on the underlying asset.
 
 **Advantages:**
 - Limited risk, as the potential loss is capped by the difference between the strike prices minus the net credit received.
@@ -72,7 +72,7 @@ A bear call spread involves selling a lower strike call option and buying a high
 
 ## 4. Iron Condor
 
-The iron condor strategy is an advanced option strategy that involves a combination of a bull put spread and a bear call spread. This strategy is typically used in a low-volatility environment where the investor expects the underlying asset to stay within a specific range.
+The [iron condor](../i/iron_condor.md) strategy is an advanced option strategy that involves a combination of a [bull put spread](../b/bull_put_spread.md) and a [bear call spread](../b/bear_call_spread.md). This strategy is typically used in a low-volatility environment where the investor expects the underlying asset to stay within a specific range.
 
 ### Construction
 
@@ -95,7 +95,7 @@ Selling volatility involves strategies that capitalize on the mean-reverting nat
 
 ### Shorting Volatility ETFs/ETNs
 
-This strategy involves short selling volatility exchange-traded funds (ETFs) or exchange-traded notes (ETNs) that track indices like the VIX.
+This strategy involves [short selling](../s/short_selling.md) volatility exchange-traded funds (ETFs) or exchange-traded notes (ETNs) that track indices like the VIX.
 
 **Advantages:**
 - Opportunity for significant gains if market volatility declines.
@@ -107,7 +107,7 @@ This strategy involves short selling volatility exchange-traded funds (ETFs) or 
 
 ### Sell Straddles/Strangles
 
-Selling straddles or strangles involves selling call and put options on the same underlying asset with the same expiration date. A straddle is constructed by selling options with the same strike price, while a strangle uses different strike prices.
+Selling straddles or strangles involves selling call and [put options](../p/put_options.md) on the same underlying asset with the same expiration date. A straddle is constructed by selling options with the same strike price, while a strangle uses different strike prices.
 
 **Advantages:**
 - Potential to profit from stable markets where the underlying asset does not move significantly.
@@ -123,7 +123,7 @@ Leveraged yield products are financial instruments that provide amplified exposu
 
 ### Leveraged ETFs
 
-Leveraged ETFs aim to deliver multiples of the daily performance of the underlying index, commodity, or asset. These ETFs can be used to enhance yield through magnified exposure.
+[Leveraged ETFs](../l/leveraged_etfs.md) aim to deliver multiples of the daily performance of the underlying index, commodity, or asset. These ETFs can be used to enhance yield through magnified exposure.
 
 **Advantages:**
 - Potential for high returns if the underlying asset moves favorably.
@@ -135,7 +135,7 @@ Leveraged ETFs aim to deliver multiples of the daily performance of the underlyi
 
 ### Leveraged Bonds
 
-Leveraged bonds are bond funds that use borrowing, derivatives, or other techniques to amplify returns.
+Leveraged bonds are bond funds that use borrowing, [derivatives](../d/derivatives.md), or other techniques to amplify returns.
 
 **Advantages:**
 - Higher yield potential compared to traditional bond funds.
@@ -147,6 +147,6 @@ Leveraged bonds are bond funds that use borrowing, derivatives, or other techniq
 
 ## Conclusion
 
-Yield enhancement strategies are diverse and can provide various opportunities for investors looking to increase their portfolio returns. However, each strategy comes with unique risks that must be carefully considered. Implementing these strategies successfully requires a thorough understanding of the underlying assets, market conditions, and risk management techniques. By doing so, investors can optimize their portfolios for better performance while mitigating potential downsides.
+Yield enhancement strategies are diverse and can provide various opportunities for investors looking to increase their portfolio returns. However, each strategy comes with unique risks that must be carefully considered. Implementing these strategies successfully requires a thorough understanding of the underlying assets, market conditions, and [risk management](../r/risk_management.md) techniques. By doing so, investors can optimize their portfolios for better performance while mitigating potential downsides.
 
 For more detailed information and specific implementations of these strategies, we recommend exploring offerings from specialized financial service providers such as [Interactive Brokers](https://www.interactivebrokers.com/), [E*TRADE](https://us.etrade.com/), and [Charles Schwab](https://www.schwab.com/), among others. These platforms provide resources, tools, and expert advice to help investors effectively employ yield enhancement strategies in their portfolios.

@@ -1,6 +1,6 @@
 ## Market Profile Analysis
 
-Market Profile Analysis is a powerful tool used by traders and market analysts to understand the underlying structure and behavior of financial markets. Originating from the commodities trading realm in the 1980s, the Market Profile was developed by J. Peter Steidlmayer, a trader at the Chicago Board of Trade (CBOT). Unlike traditional charting methods, Market Profile provides a unique way to look at price and volume distribution over a specific period, offering insights into market dynamics that can be invaluable for making trading decisions.
+Market Profile Analysis is a powerful tool used by traders and market analysts to understand the underlying structure and behavior of financial markets. Originating from the [commodities trading](../c/commodities_trading.md) realm in the 1980s, the Market Profile was developed by J. Peter Steidlmayer, a trader at the Chicago Board of Trade (CBOT). Unlike traditional charting methods, Market Profile provides a unique way to look at price and volume distribution over a specific period, offering insights into market dynamics that can be invaluable for making trading decisions.
 
 ### Basics of Market Profile
 
@@ -21,7 +21,7 @@ Consider a market opening at 100, trading as high as 110, and as low as 90, then
 
 #### Value Area (VA)
 
-The Value Area is the range of price levels where a specified percentage (typically 70%) of the trading activity took place. It signifies the area of significant market interest and helps traders identify key support and resistance levels.
+The Value Area is the range of price levels where a specified percentage (typically 70%) of the trading activity took place. It signifies the area of significant market interest and helps traders identify [key support and resistance levels](../k/key_support_and_resistance_levels.md).
 
 #### Point of Control (POC)
 
@@ -49,7 +49,7 @@ By examining the shape of the profile, traders can discern between trending and 
 
 #### Volume Profile
 
-While traditional Market Profiles use time as a constant, some traders prefer Volume Profile, which uses volume as the key metric. Volume Profile shows where significant trading volume occurred, adding an extra layer of insight into market behavior.
+While traditional Market Profiles use time as a constant, some traders prefer [Volume Profile](../v/volume_profile.md), which uses volume as the key metric. [Volume Profile](../v/volume_profile.md) shows where significant trading volume occurred, adding an extra layer of insight into market behavior.
 
 ### Practical Application
 
@@ -58,7 +58,7 @@ Market Profile analysis is widely used by institutional traders and increasingly
 #### Trading Strategy Integration
 
 1. **Breakouts and Reversals**: By identifying key levels like Initial Balance and Value Area, traders can anticipate potential breakouts or reversals.
-2. **Support and Resistance Levels**: The Point of Control and Value Area High/Low serve as pivotal levels for setting stop-loss and take-profits.
+2. **[Support and Resistance](../s/support_and_resistance.md) Levels**: The Point of Control and Value Area High/Low serve as pivotal levels for setting stop-loss and take-profits.
 3. **Trend Confirmation**: The shape of the profile helps in confirming ongoing trends or identifying exhaustion points.
 
 ### Tools and Software
@@ -74,4 +74,4 @@ Several tools and software platforms provide Market Profile charting capabilitie
 
 ### Conclusion
 
-Market Profile Analysis provides a nuanced and in-depth view of market dynamics, making it an essential tool for advanced traders. By understanding price distribution and the balance between supply and demand, traders can make more informed decisions and enhance their trading strategies.
+Market Profile Analysis provides a nuanced and in-depth view of market dynamics, making it an essential tool for advanced traders. By understanding price distribution and the balance between supply and demand, traders can make more informed decisions and enhance their [trading strategies](../t/trading_strategies.md).

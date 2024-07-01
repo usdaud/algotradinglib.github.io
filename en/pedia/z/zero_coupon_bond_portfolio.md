@@ -1,6 +1,6 @@
 # Zero Coupon Bond Portfolio
 
-Zero Coupon Bonds, also known as "zeros," are a type of bond that does not make periodic interest payments or "coupons." Instead, these bonds are issued at a significant discount from their face value, and investors are repaid the face value upon maturity. The difference between the purchase price of the bond and its face value represents the interest income for the bondholder. Zero coupon bonds are particularly attractive for specific strategies in algorithmic trading (algo trading) due to their unique characteristics, which can be incorporated into sophisticated portfolio management techniques.
+Zero Coupon Bonds, also known as "zeros," are a type of bond that does not make periodic interest payments or "coupons." Instead, these bonds are issued at a significant discount from their face value, and investors are repaid the face value upon maturity. The difference between the purchase price of the bond and its face value represents the interest income for the bondholder. Zero coupon bonds are particularly attractive for specific strategies in [algorithmic trading](../a/algorithmic_trading.md) (algo trading) due to their unique characteristics, which can be incorporated into sophisticated [portfolio management](../p/portfolio_management.md) techniques.
 
 ## Characteristics of Zero Coupon Bonds
 
@@ -10,19 +10,19 @@ Zero Coupon Bonds, also known as "zeros," are a type of bond that does not make 
 
 3. **Fixed Maturity Value**: The face value of the bond is paid in full at maturity, making the bond's final payoff predictable.
 
-4. **Interest Rate Sensitivity**: Because zero coupon bonds do not offer periodic interest payments, their prices are more sensitive to changes in interest rates compared to regular bonds. This sensitivity can be quantified using duration, a measure of a bond's price sensitivity to interest rate changes.
+4. **[Interest Rate Sensitivity](../i/interest_rate_sensitivity.md)**: Because zero coupon bonds do not offer periodic interest payments, their prices are more sensitive to changes in interest rates compared to regular bonds. This sensitivity can be quantified using duration, a measure of a bond's price sensitivity to interest rate changes.
 
 ## Advantages of Zero Coupon Bonds in an Algorithmic Trading Strategy
 
 ### Predictability
 
-- **Definitive Payoff**: Investors know exactly how much they will receive at maturity, which provides a high level of predictability for algorithmic trading models.
+- **Definitive Payoff**: Investors know exactly how much they will receive at maturity, which provides a high level of predictability for [algorithmic trading](../a/algorithmic_trading.md) models.
 - **Model Simplicity**: The absence of periodic coupon payments simplifies the cash flow calculations within a trading algorithm.
 
 ### Sensitivity to Interest Rates
 
 - **Duration**: Zero coupon bonds have a duration equal to their time to maturity, which is longer compared to coupon-bearing bonds. This makes them more sensitive to interest rate changes, an important factor for algorithms predicting rate movements.
-- **Interest Rate Arbitrage Opportunities**: The high sensitivity to interest rates can be exploited using a variety of algo trading strategies, including interest rate arbitrage.
+- **Interest Rate [Arbitrage](../a/arbitrage.md) Opportunities**: The high sensitivity to interest rates can be exploited using a variety of algo [trading strategies](../t/trading_strategies.md), including interest rate [arbitrage](../a/arbitrage.md).
 
 ## Risks and Considerations
 
@@ -53,7 +53,7 @@ Zero Coupon Bonds, also known as "zeros," are a type of bond that does not make 
 
 ### Interest Rate Arbitrage
 
-- **Definition**: Interest rate arbitrage takes advantage of the different sensitivities of zero coupon bonds to changes in interest rates.
+- **Definition**: Interest rate [arbitrage](../a/arbitrage.md) takes advantage of the different sensitivities of zero coupon bonds to changes in interest rates.
 - **Implementation**: Algorithms can identify mispricing between zero coupon bonds and other interest rate-sensitive instruments to capitalize on these discrepancies.
 
 ### Immunization Strategy
@@ -72,18 +72,18 @@ Zero Coupon Bonds, also known as "zeros," are a type of bond that does not make 
 
 ### Corporate Zeros
 
-- **Description**: Many corporations issue zero coupon bonds, providing opportunities for credit spread analysis and default risk arbitrage.
+- **Description**: Many corporations issue zero coupon bonds, providing opportunities for credit [spread analysis](../s/spread_analysis.md) and default risk [arbitrage](../a/arbitrage.md).
 - **Example**: An algo trading firm might balance a portfolio of corporate zero coupon bonds against government securities to capture yield spreads.
 
 ### Municipal Zero Coupon Bonds
 
-- **Description**: Municipal zero coupon bonds offer tax advantages and are commonly used in tax-aware algo trading strategies.
+- **Description**: Municipal zero coupon bonds offer tax advantages and are commonly used in tax-aware algo [trading strategies](../t/trading_strategies.md).
 - **Example**: Algorithms can assess the tax-equivalent yields and optimize holdings accordingly.
   
 - [Link to a municipal bond listing site](https://emma.msrb.org/)
 
 ## Conclusion
 
-Incorporating zero coupon bonds into an algorithmic trading strategy requires a solid understanding of their unique characteristics and risks. Their predictability, price sensitivity to interest rate changes, and potential for duration matching and immunization make them valuable components of an algo trading portfolio. However, managing the associated risks such as interest rate, liquidity, and issuer credit risks is crucial for successful implementation.
+Incorporating zero coupon bonds into an [algorithmic trading](../a/algorithmic_trading.md) strategy requires a solid understanding of their unique characteristics and risks. Their predictability, price sensitivity to interest rate changes, and potential for duration matching and immunization make them valuable components of an algo trading portfolio. However, managing the associated risks such as interest rate, liquidity, and issuer credit risks is crucial for successful implementation.
 
-Algorithmic trading models that effectively leverage zero coupon bonds can achieve enhanced performance through sophisticated strategies such as laddering, interest rate arbitrage, and duration matching. By using detailed market data and real-time analytics, algo traders can exploit the unique opportunities presented by zero coupon bonds while mitigating potential risks.
+[Algorithmic trading](../a/algorithmic_trading.md) models that effectively leverage zero coupon bonds can achieve enhanced performance through sophisticated strategies such as laddering, interest rate [arbitrage](../a/arbitrage.md), and duration matching. By using detailed market data and real-time analytics, algo traders can exploit the unique opportunities presented by zero coupon bonds while mitigating potential risks.

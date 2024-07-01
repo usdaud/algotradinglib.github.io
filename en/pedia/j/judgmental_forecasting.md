@@ -39,7 +39,7 @@ Cross-impact analysis involves evaluating how different events and trends might 
 
 ### Strengths
 - **Flexibility:** Judgmental forecasting can adapt quickly to new information and changing conditions.
-- **Human Insight:** Leverages the deep, contextual knowledge that experts possess, which may not be captured by quantitative models.
+- **Human Insight:** Leverages the deep, contextual knowledge that experts possess, which may not be captured by [quantitative models](../q/quantitative_models.md).
 - **Broad Application:** Useful in situations where data is limited or where qualitative factors play a significant role.
 
 ### Weaknesses
@@ -66,7 +66,7 @@ Providing experts with regular feedback on their forecasting performance and cal
 ## Real-World Applications and Case Studies
 
 ### Economic Forecasting at Central Banks
-Central banks, such as the Federal Reserve and the European Central Bank, often use judgmental forecasting in conjunction with econometric models to predict economic indicators and inform monetary policy decisions. The judgment of seasoned economists plays a vital role in interpreting model outputs and adjusting forecasts based on recent developments.
+Central banks, such as the Federal Reserve and the European Central Bank, often use judgmental forecasting in conjunction with econometric models to predict [economic indicators](../e/economic_indicators.md) and inform monetary policy decisions. The judgment of seasoned economists plays a vital role in interpreting model outputs and adjusting forecasts based on recent developments.
 
 ### Healthcare Resource Allocation During Pandemics
 During the COVID-19 pandemic, judgmental forecasting was widely used by health authorities to predict the spread of the virus, hospital admission rates, and the need for medical supplies. Expert panels combined epidemiological models with their professional judgment to develop response strategies.

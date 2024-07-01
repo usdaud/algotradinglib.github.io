@@ -40,9 +40,9 @@ Cash flow from operations (CFO) is essential for understanding the liquidity pos
 
 1. **Decision-Making Capability**: Assists investors and management in making informed decisions by providing a snapshot of current performance relative to historical trends.
 2. **Trend Identification**: Helps identify short-term and long-term trends, enabling stakeholders to strategize accordingly.
-3. **Performance Benchmarking**: Facilitates comparison with industry peers, competitors, and market standards.
+3. **[Performance Benchmarking](../p/performance_benchmarking.md)**: Facilitates comparison with industry peers, competitors, and market standards.
 4. **Investment Appraisal**: Critical for evaluating the potential of an investment by analyzing recent financial health indicators.
-5. **Seasonality Analysis**: Helps in understanding and accounting for seasonal effects on performance, aiding in more accurate forecasting.
+5. **[Seasonality Analysis](../s/seasonality_analysis.md)**: Helps in understanding and accounting for seasonal effects on performance, aiding in more accurate forecasting.
 
 ## Tools and Techniques
 
@@ -56,15 +56,15 @@ Analyzing quarterly reports involves a detailed review of key financial statemen
 
 ### Ratio Analysis
 
-Financial ratios are used to assess various aspects of a company's performance. Important ratios include:
+[Financial ratios](../f/financial_ratios.md) are used to assess various aspects of a company's performance. Important ratios include:
 
 - **Profitability Ratios**: Such as Gross Margin, Operating Margin, and Net Margin.
-- **Liquidity Ratios**: Such as Current Ratio and Quick Ratio.
-- **Leverage Ratios**: Such as Debt-to-Equity Ratio.
+- **[Liquidity Ratios](../l/liquidity_ratios.md)**: Such as Current Ratio and Quick Ratio.
+- **[Leverage Ratios](../l/leverage_ratios.md)**: Such as Debt-to-Equity Ratio.
 
 ### Trend Analysis
 
-Trend analysis involves examining financial data over multiple periods to identify patterns and trends. By plotting revenue, expenses, income, and other metrics, analysts can visualize the company's progress and predict future performance.
+[Trend analysis](../t/trend_analysis.md) involves examining financial data over multiple periods to identify patterns and trends. By plotting revenue, expenses, income, and other metrics, analysts can visualize the company's progress and predict future performance.
 
 ### Comparative Analysis
 

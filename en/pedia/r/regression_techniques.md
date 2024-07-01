@@ -1,10 +1,10 @@
 ### Regression Techniques in Algorithmic Trading
 
-Regression techniques are a cornerstone of statistical analysis and machine learning, widely used in algorithmic trading to model the relationship between a dependent variable (such as stock prices or returns) and one or more independent variables (such as economic indicators, trading volume, or other financial metrics). These techniques allow traders to make predictions about market behavior and identify patterns that can inform trading strategies. This document provides a comprehensive overview of various regression techniques and their applications in algorithmic trading.
+Regression techniques are a cornerstone of statistical analysis and machine learning, widely used in [algorithmic trading](../a/algorithmic_trading.md) to model the relationship between a dependent variable (such as stock prices or returns) and one or more independent variables (such as [economic indicators](../e/economic_indicators.md), trading volume, or other financial metrics). These techniques allow traders to make predictions about market behavior and identify patterns that can inform [trading strategies](../t/trading_strategies.md). This document provides a comprehensive overview of various regression techniques and their applications in [algorithmic trading](../a/algorithmic_trading.md).
 
 ### 1. Linear Regression
 
-**Definition:** Linear regression is a statistical method that models the relationship between a dependent variable and one or more independent variables by fitting a linear equation to observed data. The linear equation can be expressed as:
+**Definition:** [Linear regression](../l/linear_regression.md) is a statistical method that models the relationship between a dependent variable and one or more independent variables by fitting a linear equation to observed data. The linear equation can be expressed as:
 
 \[ y = \beta_0 + \beta_1 x_1 + \beta_2 x_2 + ... + \beta_n x_n + \epsilon \]
 
@@ -16,27 +16,27 @@ where:
 - \( \epsilon \) is the error term.
 
 **Applications in Trading:**
-- **Price Prediction:** Linear regression can be used to predict future stock prices based on historical price data and other influencing variables.
-- **Risk Management:** By modeling the relationship between asset returns and market factors, traders can assess the risk associated with different investments.
-- **Pairs Trading:** Identifying pairs of stocks that have historically moved together and establishing trading strategies based on their divergence and convergence patterns.
+- **Price Prediction:** [Linear regression](../l/linear_regression.md) can be used to predict future stock prices based on historical price data and other influencing variables.
+- **[Risk Management](../r/risk_management.md):** By modeling the relationship between asset returns and market factors, traders can assess the risk associated with different investments.
+- **[Pairs Trading](../p/pairs_trading.md):** Identifying pairs of stocks that have historically moved together and establishing [trading strategies](../t/trading_strategies.md) based on their divergence and convergence patterns.
 
 ### 2. Multiple Linear Regression (MLR)
 
-**Definition:** Multiple linear regression extends simple linear regression by modeling the relationship between a dependent variable and multiple independent variables. It is particularly useful in capturing the effects of multiple factors on the target variable.
+**Definition:** Multiple [linear regression](../l/linear_regression.md) extends simple [linear regression](../l/linear_regression.md) by modeling the relationship between a dependent variable and multiple independent variables. It is particularly useful in capturing the effects of multiple factors on the target variable.
 
 **Applications in Trading:**
-- **Enhanced Price Forecasting:** Utilizing multiple economic indicators and financial metrics to improve the accuracy of price predictions.
-- **Portfolio Optimization:** Analyzing the impact of different assets on portfolio returns to achieve the optimal balance between risk and return.
+- **Enhanced Price Forecasting:** Utilizing multiple [economic indicators](../e/economic_indicators.md) and financial metrics to improve the accuracy of price predictions.
+- **[Portfolio Optimization](../p/portfolio_optimization.md):** Analyzing the impact of different assets on portfolio returns to achieve the optimal balance between risk and return.
 
 ### 3. Polynomial Regression
 
-**Definition:** Polynomial regression is a form of regression analysis where the relationship between the independent variable and the dependent variable is modeled as an \( n \)-th degree polynomial. It is useful for capturing non-linear relationships that cannot be represented by simple or multiple linear regression.
+**Definition:** Polynomial regression is a form of [regression analysis](../r/regression_analysis.md) where the relationship between the independent variable and the dependent variable is modeled as an \( n \)-th degree polynomial. It is useful for capturing non-linear relationships that cannot be represented by simple or multiple [linear regression](../l/linear_regression.md).
 
 \[ y = \beta_0 + \beta_1 x + \beta_2 x^2 + ... + \beta_n x^n + \epsilon \]
 
 **Applications in Trading:**
 - **Modeling Non-linear Trends:** Polynomial regression can be used to model the curvilinear relationship between stock prices and time or other variables, providing a more accurate forecast in certain market conditions.
-- **Technical Analysis:** Identifying and modeling complex patterns in price movements that are not linear in nature.
+- **[Technical Analysis](../t/technical_analysis.md):** Identifying and modeling complex patterns in price movements that are not linear in nature.
 
 ### 4. Logistic Regression
 
@@ -89,7 +89,7 @@ where \( \lambda \) is the regularization parameter.
 where \( \tau \) represents the quantile of interest.
 
 **Applications in Trading:**
-- **Risk Analysis:** Modeling the tail behavior of asset returns to understand and manage risk more effectively.
+- **[Risk Analysis](../r/risk_analysis.md):** Modeling the tail behavior of asset returns to understand and manage risk more effectively.
 - **Heterogeneous Effects:** Capturing the differential effects of predictors on various quantiles of the response variable.
 
 ### 9. Bayesian Regression
@@ -100,7 +100,7 @@ where \( \tau \) represents the quantile of interest.
 
 **Applications in Trading:**
 - **Incorporating Prior Knowledge:** Integrating expert knowledge or historical data into the model.
-- **Uncertainty Quantification:** Providing a measure of uncertainty associated with predictions, which is valuable for decision-making under uncertainty.
+- **Uncertainty Quantification:** Providing a measure of uncertainty associated with predictions, which is valuable for [decision-making under uncertainty](../d/decision-making_under_uncertainty.md).
 
 ### 10. Stepwise Regression
 
@@ -114,4 +114,4 @@ For more information and resources, you can visit:
 - [GreenKey Technologies](https://www.greenkeytech.com/)
 - [QuantConnect](https://www.quantconnect.com/) 
 
-These resources provide tools and platforms for implementing various regression techniques and other quantitative trading strategies.
+These resources provide tools and platforms for implementing various regression techniques and other [quantitative trading](../q/quantitative_trading.md) strategies.

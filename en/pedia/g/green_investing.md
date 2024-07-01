@@ -6,7 +6,7 @@ Green Investing, also known as sustainable investing or socially responsible inv
 
 Green investing emerged as a response to growing evidence of the detrimental effects of traditional business practices on the environment and society. Investors, both individual and institutional, are increasingly seeking to allocate their capital in a way that aligns with their values. This movement has been fueled by a greater awareness of climate change, social inequality, and the need for corporate responsibility.
 
-Various financial products and strategies have been developed under the green investing umbrella, including but not limited to green bonds, renewable energy stocks, ESG funds, and impact investments. These investment vehicles aim to promote sustainability principles while still delivering competitive, if not superior, financial returns.
+Various financial products and strategies have been developed under the green investing umbrella, including but not limited to [green bonds](../g/green_bonds.md), renewable energy stocks, ESG funds, and impact investments. These investment vehicles aim to promote sustainability principles while still delivering competitive, if not superior, financial returns.
 
 ## Evolution of Green Investing
 
@@ -25,7 +25,7 @@ Several financial instruments have become synonymous with green investing. These
 
 ### Green Bonds
 
-Green bonds are fixed-income securities specifically earmarked to raise money for climate and environmental projects. They adhere to the Green Bond Principles (GBP), which ensure that the proceeds are used for environmentally sustainable activities.
+[Green bonds](../g/green_bonds.md) are fixed-income securities specifically earmarked to raise money for climate and environmental projects. They adhere to the Green Bond Principles (GBP), which ensure that the proceeds are used for environmentally sustainable activities.
 
 - **Example:** Apple Inc. issued a $1 billion green bond in 2017 to fund renewable energy projects and energy efficiency upgrades in its facilities ([Apple's Green Bond](https://www.apple.com/newsroom/2017/06/apple-issues-second-green-bond/)).
 
@@ -47,13 +47,13 @@ Investing directly in individual stocks of companies dedicated to renewable ener
 
 Several major investment firms have taken the lead in promoting green investing:
 
-- **BlackRock:** Renowned for its commitment to sustainable investing, BlackRock has integrated ESG considerations into its entire portfolio management process.
+- **BlackRock:** Renowned for its commitment to sustainable investing, BlackRock has integrated ESG considerations into its entire [portfolio management](../p/portfolio_management.md) process.
 - **Vanguard:** Another major player, Vanguard offers multiple funds and ETFs focused on ESG criteria.
 - **Goldman Sachs:** Goldman Sachs has committed billions of dollars to finance sustainable, inclusive growth, and transition to a low-carbon economy.
 
 ### Government and Multinational Organizations
 
-- **European Investment Bank (EIB):** A leader in issuing green bonds and financing climate-friendly projects.
+- **European Investment Bank (EIB):** A leader in issuing [green bonds](../g/green_bonds.md) and financing climate-friendly projects.
 - **World Bank:** Through initiatives like the International Finance Corporation (IFC), the World Bank supports sustainable development projects worldwide.
 
 ## Criteria and Metrics
@@ -87,7 +87,7 @@ Governance criteria evaluate a company’s internal practices and policies, meas
 ### Benefits
 
 - **Long-Term Performance:** Studies suggest that ESG-focused investments often deliver equal or better long-term performance compared to traditional investments.
-- **Risk Management:** Companies with high ESG scores are often better at managing risks related to environmental and social issues.
+- **[Risk Management](../r/risk_management.md):** Companies with high ESG scores are often better at managing risks related to environmental and social issues.
 - **Positive Impact:** Investment in green technologies and sustainable practices contributes to global sustainability goals.
 
 ### Challenges

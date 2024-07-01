@@ -1,6 +1,6 @@
 ### Kurtosis in Financial Modeling
 
-Kurtosis is a statistical measure that is often used in financial modeling to describe the distribution of returns for a given security or portfolio. Specifically, kurtosis measures the "tailedness" of the probability distribution — that is, it captures the extremity or frequency of extreme outcomes (fat tails) in the distribution. This can be crucial for understanding the probability and potential impact of outlier events in financial market returns, making it an invaluable tool for risk management, portfolio optimization, and trading strategies.
+Kurtosis is a statistical measure that is often used in [financial modeling](../f/financial_modeling.md) to describe the distribution of returns for a given security or portfolio. Specifically, kurtosis measures the "tailedness" of the probability distribution — that is, it captures the extremity or frequency of extreme outcomes (fat tails) in the distribution. This can be crucial for understanding the probability and potential impact of outlier events in financial market returns, making it an invaluable tool for [risk management](../r/risk_management.md), [portfolio optimization](../p/portfolio_optimization.md), and [trading strategies](../t/trading_strategies.md).
 
 #### Types of Distributions Based on Kurtosis
 
@@ -20,13 +20,13 @@ Kurtosis is a statistical measure that is often used in financial modeling to de
 
 #### Importance of Kurtosis in Financial Modeling
 
-1. **Risk Management**:
-   - By identifying and measuring extreme risks, kurtosis helps in the development of robust risk management frameworks.
+1. **[Risk Management](../r/risk_management.md)**:
+   - By identifying and measuring extreme risks, kurtosis helps in the development of robust [risk management](../r/risk_management.md) frameworks.
    - Understanding the "tails" of the distribution helps in anticipating potential market shocks and devising strategies to mitigate such risks.
 
-2. **Portfolio Management**:
+2. **[Portfolio Management](../p/portfolio_management.md)**:
    - Portfolio managers utilize kurtosis to understand the risk-return profile of portfolios, ensuring that they are not unduly exposed to extreme negative returns.
-   - It aids in optimal asset allocation by highlighting securities or portfolios that exhibit higher risk of extreme outcomes.
+   - It aids in optimal [asset allocation](../a/asset_allocation.md) by highlighting securities or portfolios that exhibit higher risk of extreme outcomes.
 
 3. **Value at Risk (VaR) Models**:
    - VaR models, which estimate the potential loss in a portfolio over a given time frame, rely heavily on the distribution of returns. Incorporating kurtosis into VaR models provides a more accurate depiction of risk.
@@ -49,29 +49,29 @@ Where:
 
 #### Application in Algorithmic Trading
 
-Algorithmic trading involves using computers to execute pre-programmed trading instructions based on various market variables. Incorporating kurtosis into algorithmic trading strategies can be beneficial in several ways:
+[Algorithmic trading](../a/algorithmic_trading.md) involves using computers to execute pre-programmed trading instructions based on various market variables. Incorporating kurtosis into [algorithmic trading](../a/algorithmic_trading.md) strategies can be beneficial in several ways:
 
 1. **Strategy Development**:
    - Algorithms can be developed to detect and respond to leptokurtic distributions, enabling traders to exploit high-probability extreme value occurrences.
-   - Pattern recognition techniques incorporating kurtosis can help in identifying market conditions where extreme movements are more likely.
+   - [Pattern recognition](../p/pattern_recognition.md) techniques incorporating kurtosis can help in identifying market conditions where extreme movements are more likely.
 
 2. **Risk Adjustments**:
-   - Algorithmic trading systems can dynamically adjust risk parameters based on real-time kurtosis calculations.
+   - [Algorithmic trading](../a/algorithmic_trading.md) systems can dynamically adjust risk parameters based on real-time kurtosis calculations.
    - For example, if an increase in kurtosis is detected, the system might reduce position sizes to mitigate potential risks associated with extreme market movements.
 
-3. **Backtesting and Simulation**:
-   - Incorporating kurtosis in backtesting helps in realistically assessing the performance of trading strategies under extreme market conditions.
+3. **[Backtesting](../b/backtesting.md) and Simulation**:
+   - Incorporating kurtosis in [backtesting](../b/backtesting.md) helps in realistically assessing the performance of [trading strategies](../t/trading_strategies.md) under extreme market conditions.
    - It improves simulation fidelity, ensuring that strategies are robust across a wide range of market scenarios.
 
 #### Practical Examples
 
 1. **Hedge Funds and High-Frequency Trading**:
-   - Firms such as Renaissance Technologies (https://www.rentec.com/) and D. E. Shaw Group (https://www.deshaw.com/) leverage sophisticated statistical models that often include kurtosis to develop advanced trading algorithms.
+   - Firms such as Renaissance Technologies (https://www.rentec.com/) and D. E. Shaw Group (https://www.deshaw.com/) leverage sophisticated statistical models that often include kurtosis to develop advanced [trading algorithms](../t/trading_algorithms.md).
    - By understanding kurtosis, these firms can better manage the risks associated with the tail events inherent in high-frequency trading.
 
-2. **Bank Risk Management**:
-   - Major investment banks such as Goldman Sachs (https://www.goldmansachs.com/) and JPMorgan Chase (https://www.jpmorganchase.com/) use kurtosis in their risk management models to anticipate and prepare for financial market shocks.
+2. **Bank [Risk Management](../r/risk_management.md)**:
+   - Major investment banks such as Goldman Sachs (https://www.goldmansachs.com/) and JPMorgan Chase (https://www.jpmorganchase.com/) use kurtosis in their [risk management](../r/risk_management.md) models to anticipate and prepare for financial market shocks.
 
 #### Conclusion
 
-Kurtosis is an essential statistical measure in financial modeling, helping to understand and predict the behavior of asset return distributions, especially in the tails. Its application spans various aspects of finance, from risk management and portfolio optimization to algorithmic trading strategies. By integrating kurtosis into their models, financial professionals can gain deeper insights into market dynamics and enhance their decision-making processes.
+Kurtosis is an essential statistical measure in [financial modeling](../f/financial_modeling.md), helping to understand and predict the behavior of asset return distributions, especially in the tails. Its application spans various aspects of finance, from [risk management](../r/risk_management.md) and [portfolio optimization](../p/portfolio_optimization.md) to [algorithmic trading](../a/algorithmic_trading.md) strategies. By integrating kurtosis into their models, financial professionals can gain deeper insights into market dynamics and enhance their decision-making processes.

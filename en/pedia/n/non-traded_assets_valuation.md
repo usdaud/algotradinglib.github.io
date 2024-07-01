@@ -1,12 +1,12 @@
 ## Non-Traded Assets Valuation
 
-Non-traded assets, also known as illiquid assets, are financial instruments that do not have an active market where they can be readily bought or sold. These assets can include private equity, real estate, over-the-counter (OTC) derivatives, venture capital, and various forms of unlisted securities. Valuing non-traded assets is a complex process due to the lack of observable market prices and the unique characteristics these assets often exhibit.
+Non-traded assets, also known as illiquid assets, are financial instruments that do not have an active market where they can be readily bought or sold. These assets can include private equity, real estate, over-the-counter (OTC) [derivatives](../d/derivatives.md), venture capital, and various forms of [unlisted securities](../u/unlisted_securities.md). Valuing non-traded assets is a complex process due to the lack of observable market prices and the unique characteristics these assets often exhibit.
 
 ### Importance of Non-Traded Assets Valuation
 Valuing non-traded assets is crucial for several reasons:
-1. **Portfolio Management**: Investors, including pension funds, hedge funds, and private equity firms, require accurate valuations to make informed decisions about their portfolios.
+1. **[Portfolio Management](../p/portfolio_management.md)**: Investors, including pension funds, hedge funds, and private equity firms, require accurate valuations to make informed decisions about their portfolios.
 2. **Regulatory Compliance**: Financial institutions must adhere to regulatory standards such as IFRS (International Financial Reporting Standards) or GAAP (Generally Accepted Accounting Principles) which necessitate fair value measurement of assets.
-3. **Risk Management**: Accurate valuation helps in assessing the risk associated with holding illiquid assets and in making strategic decisions to mitigate potential losses.
+3. **[Risk Management](../r/risk_management.md)**: Accurate valuation helps in assessing the risk associated with holding illiquid assets and in making strategic decisions to mitigate potential losses.
 4. **Investment Decisions**: Prospective investors rely on valuations to evaluate the attractiveness of investment opportunities.
 
 ### Valuation Methods for Non-Traded Assets
@@ -21,7 +21,7 @@ One of the most common methods used is the Discounted Cash Flow (DCF) analysis. 
 #### Comparable Companies Analysis (CCA)
 This method involves valuing the non-traded asset by comparing it to similar traded assets or companies. Key steps include:
 - **Identifying Comparables**: Selecting publicly traded companies or assets that are similar in terms of industry, size, growth potential, and other attributes.
-- **Valuation Multiples**: Using financial metrics such as P/E (Price to Earnings), EV/EBITDA (Enterprise Value to Earnings Before Interest, Taxes, Depreciation, and Amortization), or P/B (Price to Book) ratios derived from comparables.
+- **[Valuation Multiples](../v/valuation_multiples.md)**: Using financial metrics such as P/E (Price to Earnings), EV/EBITDA (Enterprise Value to Earnings Before Interest, Taxes, Depreciation, and Amortization), or P/B (Price to Book) ratios derived from comparables.
 - **Applying Multiples**: Applying these multiples to the financial metrics of the non-traded asset to estimate its value.
 
 #### Precedent Transactions
@@ -51,7 +51,7 @@ Real estate assets, such as commercial properties or residential developments, a
 
 ### Role of Technology in Non-Traded Assets Valuation
 Advancements in technology have significantly impacted the valuation of non-traded assets. Some notable trends include:
-- **Big Data Analytics**: Utilizing large datasets to inform valuation models and improve accuracy.
+- **Big Data Analytics**: Utilizing large datasets to inform [valuation models](../v/valuation_models.md) and improve accuracy.
 - **Machine Learning**: Implementing algorithms to identify patterns and make predictions about cash flows or market trends.
 - **Blockchain**: Enhancing transparency and reducing information asymmetry by providing immutable records of transactions and ownership.
 

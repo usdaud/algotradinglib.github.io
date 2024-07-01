@@ -28,15 +28,15 @@ Tangible Common Equity is the equity capital of a company that excludes intangib
 ### Importance of ROTE
 
 1. **Focused Evaluation**: By excluding intangible assets, ROTE focuses solely on the returns generated from tangible assets, providing a clearer picture of operational efficiency and asset productivity.
-2. **Comparative Analysis**: ROTE allows for better comparisons across companies within the same industry, especially those with significant intangible assets like tech companies or firms heavily invested in R&D.
+2. **[Comparative Analysis](../c/comparative_analysis.md)**: ROTE allows for better comparisons across companies within the same industry, especially those with significant intangible assets like tech companies or firms heavily invested in R&D.
 3. **Risk Assessment**: Intangible assets can be harder to assess and may carry higher risk. By excluding them, ROTE offers insights into the more stable and assessable portions of a company's equity.
-4. **Performance Benchmarking**: Investors and analysts use ROTE to benchmark a company's performance against its peers and historical data, aiding in investment decisions and strategic analysis.
+4. **[Performance Benchmarking](../p/performance_benchmarking.md)**: Investors and analysts use ROTE to benchmark a company's performance against its peers and historical data, aiding in investment decisions and strategic analysis.
 
 ### Limitations of ROTE
 
 1. **Ignores Intangible Value**: For companies whose value is significantly derived from intangible assets, such as tech companies, ignoring these can undervalue their true potential and performance.
 2. **Market Conditions Impact**: In volatile markets, the value of tangible assets may fluctuate, potentially distorting the ROTE calculation.
-3. **Accounting Variations**: Different accounting standards and practices can affect the valuation of tangible and intangible assets, complicating comparative analysis.
+3. **Accounting Variations**: Different accounting standards and practices can affect the valuation of tangible and intangible assets, complicating [comparative analysis](../c/comparative_analysis.md).
 
 ### Case Study: JPMorgan Chase
 

@@ -1,6 +1,6 @@
 # Volume Spread Techniques
 
-Volume Spread Analysis (VSA) is a trading methodology that focuses on analyzing the relationship between trading volume and the price spreads (the difference between the high and low prices during a specific period). VSA was initially developed by Richard D. Wyckoff in the early 1900s and later refined by Tom Williams, a former professional trader and syndicate manager. The core idea behind VSA is that the actions of smart money (large institutional investors, market makers, and other professionals) can be detected through the analysis of price and volume.
+Volume [Spread Analysis](../s/spread_analysis.md) (VSA) is a trading methodology that focuses on analyzing the relationship between trading volume and the price spreads (the difference between the high and low prices during a specific period). VSA was initially developed by Richard D. Wyckoff in the early 1900s and later refined by Tom Williams, a former professional trader and syndicate manager. The core idea behind VSA is that the actions of smart money (large institutional investors, market makers, and other professionals) can be detected through the analysis of price and volume.
 
 ## Core Concepts of VSA
 
@@ -43,7 +43,7 @@ One core technique involves analyzing whether the effort (volume) matches the re
 
 ### Test and Spring
 - **Tests**: Used to confirm market strength by pushing prices down with low volume, then seeing prices quickly return higher.
-- **Springs**: Prices quickly drop below support levels with low volume and then rise again, indicating smart money taking advantage of weak hands.
+- **Springs**: Prices quickly drop below [support levels](../s/support_levels.md) with low volume and then rise again, indicating smart money taking advantage of weak hands.
 
 ## Practical Applications
 
@@ -51,27 +51,27 @@ One core technique involves analyzing whether the effort (volume) matches the re
 Volume Spread Techniques enable identification of accumulation and distribution phases. Accumulation occurs when smart money buys large quantities of stocks at low prices without causing a significant price increase. In contrast, distribution takes place when smart money sells large quantities without causing a sharp price decline.
 
 ### Spotting Divergence
-Monitoring divergences between volume and price movement can provide early signals of potential trend reversals. A bullish divergence occurs when prices hit new lows, but the volume is receding, while bearish divergence happens when prices hit new highs, but the volume is falling.
+Monitoring divergences between volume and price movement can provide early signals of potential trend reversals. A [bullish divergence](../b/bullish_divergence.md) occurs when prices hit new lows, but the volume is receding, while [bearish divergence](../b/bearish_divergence.md) happens when prices hit new highs, but the volume is falling.
 
 ### Confirming Breakouts
-Volume Spread Techniques can confirm if breakouts from critical levels (e.g., support and resistance) are genuine. A breakout accompanied by high volume suggests strength and continuity, while a breakout on low volume may be a false signal.
+Volume Spread Techniques can confirm if breakouts from critical levels (e.g., [support and resistance](../s/support_and_resistance.md)) are genuine. A breakout accompanied by high volume suggests strength and continuity, while a breakout on low volume may be a false signal.
 
 ### Institutional Behavior
 VSA helps traders understand the movements of large institutional players. Institutions often leave footprints in the form of increased volume before significant price changes, which can be a valuable indicator for retail traders.
 
 ### Risk Management
-Using Volume Spread Techniques allows traders to refine their entry and exit points, improving overall trade efficiency and risk management. By identifying phases of accumulation or distribution, traders can better time their trades and position sizes.
+Using Volume Spread Techniques allows traders to refine their entry and exit points, improving overall trade efficiency and [risk management](../r/risk_management.md). By identifying phases of accumulation or distribution, traders can better time their trades and position sizes.
 
 ## Software Tools and Platforms
 
 ### TradeGuider
-TradeGuider (www.tradeguider.com) provides a suite of tools for implementing Volume Spread Analysis. Their VSA tools can be integrated with various trading platforms to give real-time analysis and alerts based on VSA principles.
+TradeGuider (www.tradeguider.com) provides a suite of tools for implementing Volume [Spread Analysis](../s/spread_analysis.md). Their VSA tools can be integrated with various trading platforms to give real-time analysis and alerts based on VSA principles.
 
 ### TradingView
 TradingView (www.tradingview.com) features a range of VSA-based indicators and scripts developed by the community, allowing customization and integration into your trading strategy.
 
 ### MetaStock
-MetaStock (www.metastock.com) offers plugins and systems designed around VSA concepts, providing backtesting, screening, and real-time advice based on volume spread techniques.
+MetaStock (www.metastock.com) offers plugins and systems designed around VSA concepts, providing [backtesting](../b/backtesting.md), screening, and real-time advice based on volume spread techniques.
 
 ### Sierra Chart
 Sierra Chart (www.sierrachart.com) is another platform that supports various VSA indicators and tools, enabling traders to analyze volume and price spreads efficiently.

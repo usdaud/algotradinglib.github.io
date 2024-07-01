@@ -1,6 +1,6 @@
 ### Unlisted Securities
 
-Unlisted securities, also known as over-the-counter (OTC) securities, refer to financial instruments that are not listed on formal stock exchanges like the New York Stock Exchange (NYSE) or the NASDAQ. These securities are traded in decentralized markets, via dealer networks rather than through a centralized market mechanism. The term "unlisted securities" typically includes stocks, bonds, derivatives, and innovation market assets that lack the formal registration and listing process imposed by major exchanges.
+Unlisted securities, also known as over-the-counter (OTC) securities, refer to financial instruments that are not listed on formal stock exchanges like the New York Stock Exchange (NYSE) or the NASDAQ. These securities are traded in decentralized markets, via dealer networks rather than through a centralized market mechanism. The term "unlisted securities" typically includes stocks, bonds, [derivatives](../d/derivatives.md), and innovation market assets that lack the formal registration and listing process imposed by major exchanges.
 
 #### Characteristics of Unlisted Securities
 
@@ -18,11 +18,11 @@ Unlisted securities, also known as over-the-counter (OTC) securities, refer to f
   
 2. **Bonds:** Certain bond issues, particularly from smaller companies or municipalities, may be traded over the counter rather than through centralized exchanges.
   
-3. **Derivatives:** Many derivative instruments, including options and swaps, are typically traded over the counter.
+3. **[Derivatives](../d/derivatives.md):** Many derivative instruments, including options and swaps, are typically traded over the counter.
    
 4. **IPO Stocks:** Companies that have recently gone public and whose shares have not yet started trading on a formal exchange.
    
-5. **Penny Stocks:** Highly speculative stocks with low market capitalization, often traded at very low prices and outside major exchanges.
+5. **[Penny Stocks](../p/penny_stocks.md):** Highly speculative stocks with low market capitalization, often traded at very low prices and outside major exchanges.
 
 #### Trading Mechanisms
 
@@ -34,7 +34,7 @@ Unlisted securities, also known as over-the-counter (OTC) securities, refer to f
 
 #### Legal and Regulatory Aspects
 
-Regulatory bodies like the SEC in the United States oversee unlisted securities to some extent but with less rigorous standards compared to listed securities. For instance, the reporting requirements for unlisted companies are less stringent, which can be both an advantage and a disadvantage for stakeholders. The lack of comprehensive oversight could lead to higher risks, including fraud and misinformation.
+Regulatory bodies like the SEC in the United States oversee unlisted securities to some extent but with less rigorous standards compared to listed securities. For instance, the reporting requirements for [unlisted companies](../u/unlisted_companies.md) are less stringent, which can be both an advantage and a disadvantage for stakeholders. The lack of comprehensive oversight could lead to higher risks, including fraud and misinformation.
 
 #### Risks Involved
 

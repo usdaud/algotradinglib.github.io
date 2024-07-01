@@ -68,7 +68,7 @@ The VWAP for this five-minute period is $102.05.
 
 ## Application in Trading Strategies
 
-VWAP can be applied in various trading strategies, including:
+VWAP can be applied in various [trading strategies](../t/trading_strategies.md), including:
 
 ### VWAP Trading Strategy
 
@@ -88,7 +88,7 @@ To ensure that large orders are executed around the VWAP, traders break the tota
 
 ## VWAP in Algorithmic Trading
 
-Algorithmic trading systems heavily rely on VWAP for executing orders efficiently and minimizing market impact. Let's explore common algorithms that utilize VWAP:
+[Algorithmic trading](../a/algorithmic_trading.md) systems heavily rely on VWAP for executing orders efficiently and minimizing market impact. Let's explore common algorithms that utilize VWAP:
 
 ### VWAP Algorithms
 
@@ -96,7 +96,7 @@ VWAP algorithms aim to execute trades in line with the VWAP by slicing large ord
 
 ### TWAP (Time Weighted Average Price)
 
-TWAP is a related algorithmic trading strategy where the average price of a security over a specific time period is calculated, ignoring the volume-weighted aspect. TWAP is useful for minimizing price impact for large orders and ensuring trades are spread out evenly over the trading period.
+TWAP is a related [algorithmic trading](../a/algorithmic_trading.md) strategy where the average price of a security over a specific time period is calculated, ignoring the volume-weighted aspect. TWAP is useful for minimizing price impact for large orders and ensuring trades are spread out evenly over the trading period.
 
 ## Advantages of Using VWAP
 
@@ -140,6 +140,6 @@ In less liquid markets, VWAP calculations may be less reliable due to the lower 
 
 ## Conclusion
 
-Volume Weighted Average Price (VWAP) is a vital tool in modern trading, offering an average price benchmark that considers both price and volume. Its applications span institutional trading, algorithmic strategies, and performance evaluation, providing traders with a means to execute large orders efficiently while minimizing market impact. Despite its advantages, traders should be aware of VWAP's limitations, particularly in rapidly changing markets or less liquid environments. By understanding and leveraging VWAP effectively, traders can enhance their execution strategies and improve their overall trading performance.
+Volume Weighted Average Price (VWAP) is a vital tool in modern trading, offering an average price benchmark that considers both price and volume. Its applications span institutional trading, algorithmic strategies, and performance evaluation, providing traders with a means to execute large orders efficiently while minimizing market impact. Despite its advantages, traders should be aware of VWAP's limitations, particularly in rapidly changing markets or less liquid environments. By understanding and leveraging VWAP effectively, traders can enhance their execution strategies and improve their overall [trading performance](../t/trading_performance.md).
 
-For further information on VWAP and related trading strategies, readers can refer to specialized algorithmic trading firms and platforms, such as [TradeStation](https://www.tradestation.com) and [QuantConnect](https://www.quantconnect.com), which offer tools and resources for algorithmic trading and VWAP execution.
+For further information on VWAP and related [trading strategies](../t/trading_strategies.md), readers can refer to specialized [algorithmic trading](../a/algorithmic_trading.md) firms and platforms, such as [TradeStation](https://www.tradestation.com) and [QuantConnect](https://www.quantconnect.com), which offer tools and resources for [algorithmic trading](../a/algorithmic_trading.md) and VWAP execution.

@@ -1,6 +1,6 @@
 # Price Correlation Analysis in Algorithmic Trading
 
-Price correlation analysis is an essential aspect of quantitative finance and algorithmic trading. By examining the correlations between asset prices, traders and quantitative analysts can identify patterns, hedge risks, optimize portfolio performance, and uncover arbitrage opportunities. This detailed guide delves into the specifics of price correlation analysis, exploring its mathematical foundations, practical applications, and challenges in an algorithmic trading context.
+Price [correlation analysis](../c/correlation_analysis.md) is an essential aspect of [quantitative finance](../q/quantitative_finance.md) and [algorithmic trading](../a/algorithmic_trading.md). By examining the correlations between asset prices, traders and quantitative analysts can identify patterns, hedge risks, optimize [portfolio performance](../p/portfolio_performance.md), and uncover [arbitrage](../a/arbitrage.md) opportunities. This detailed guide delves into the specifics of price [correlation analysis](../c/correlation_analysis.md), exploring its mathematical foundations, practical applications, and challenges in an [algorithmic trading](../a/algorithmic_trading.md) context.
 
 ## Introduction to Price Correlation
 
@@ -31,25 +31,25 @@ Where:
 
 ### Portfolio Optimization
 
-Correlation analysis plays a crucial role in portfolio optimization. By understanding how assets move in relation to each other, traders can construct a diversified portfolio that minimizes risk and maximizes returns. Modern Portfolio Theory (MPT) emphasizes the benefits of diversification and relies heavily on correlation matrices to achieve the optimal asset mix.
+[Correlation analysis](../c/correlation_analysis.md) plays a crucial role in [portfolio optimization](../p/portfolio_optimization.md). By understanding how assets move in relation to each other, traders can construct a diversified portfolio that minimizes risk and maximizes returns. Modern Portfolio Theory (MPT) emphasizes the benefits of diversification and relies heavily on correlation matrices to achieve the optimal asset mix.
 
 ### Risk Management
 
-Managing risk is fundamental in trading. Correlation analysis helps in identifying hedges and constructing strategies that mitigate exposure to market movements. For instance, if two assets are highly correlated, a trader can use one to hedge against the negative movements in the other.
+Managing risk is fundamental in trading. [Correlation analysis](../c/correlation_analysis.md) helps in identifying hedges and constructing strategies that mitigate exposure to market movements. For instance, if two assets are highly correlated, a trader can use one to hedge against the negative movements in the other.
 
 ### Mean Reversion Strategies
 
-Mean reversion is a trading strategy that hinges on the idea that asset prices and returns eventually move back towards the mean or average level. By analyzing price correlations, traders can identify pairs of assets that typically revert to a long-term relationship, trading long and short positions accordingly to exploit deviations from the mean.
+[Mean reversion](../m/mean_reversion.md) is a trading strategy that hinges on the idea that asset prices and returns eventually move back towards the mean or average level. By analyzing price correlations, traders can identify pairs of assets that typically revert to a long-term relationship, trading long and short positions accordingly to exploit deviations from the mean.
 
 ### Arbitrage Opportunities
 
-Statistical arbitrage, including pairs trading and basket trading, leverages price correlation analysis to uncover mispricings between correlated assets. When the price of one asset diverges from its historical correlation with another, traders can execute trades to profit from the expected convergence.
+Statistical [arbitrage](../a/arbitrage.md), including [pairs trading](../p/pairs_trading.md) and basket trading, leverages price [correlation analysis](../c/correlation_analysis.md) to uncover mispricings between correlated assets. When the price of one asset diverges from its historical correlation with another, traders can execute trades to profit from the expected convergence.
 
 ## Challenges in Price Correlation Analysis
 
 ### Non-Stationarity of Financial Time Series
 
-Financial time series data is often non-stationary, meaning its statistical properties like mean and variance change over time. This characteristic poses challenges in correlation analysis, as the relationship between assets may not be stable.
+[Financial time series](../f/financial_time_series.md) data is often non-stationary, meaning its statistical properties like mean and variance change over time. This characteristic poses challenges in [correlation analysis](../c/correlation_analysis.md), as the relationship between assets may not be stable.
 
 ### High-Dimensional Data
 
@@ -65,7 +65,7 @@ Correlations between asset prices can change due to shifts in market conditions,
 
 ### Overfitting 
 
-In algorithmic trading, overfitting occurs when a model is too closely fitted to historical data, capturing noise rather than true underlying patterns. This can lead to poor performance in out-of-sample testing and live trading.
+In [algorithmic trading](../a/algorithmic_trading.md), overfitting occurs when a model is too closely fitted to historical data, capturing noise rather than true underlying patterns. This can lead to poor performance in [out-of-sample testing](../o/out-of-sample_testing.md) and live trading.
 
 ## Advanced Topics in Correlation Analysis
 
@@ -83,10 +83,10 @@ With advancements in machine learning, techniques such as clustering, neural net
 
 ### Regime-Switching Models
 
-Regime-switching models, like Hidden Markov Models (HMMs), allow for the analysis of correlations under different market conditions or "regimes." These models can switch between different sets of parameters based on underlying changes in market dynamics, providing a more nuanced understanding of correlations.
+Regime-switching models, like [Hidden Markov Models](../h/hidden_markov_models.md) (HMMs), allow for the analysis of correlations under different market conditions or "regimes." These models can switch between different sets of parameters based on underlying changes in market dynamics, providing a more nuanced understanding of correlations.
 
 ## Conclusion
 
-Price correlation analysis is a powerful tool in the arsenal of quantitative analysts and algorithmic traders. It facilitates better decision-making in portfolio optimization, risk management, and strategy formulation. However, it comes with challenges that require careful consideration and sophisticated techniques to address. By leveraging advanced methods and keeping abreast of market dynamics, traders can effectively harness correlations to enhance their trading strategies.
+Price [correlation analysis](../c/correlation_analysis.md) is a powerful tool in the arsenal of quantitative analysts and algorithmic traders. It facilitates better decision-making in [portfolio optimization](../p/portfolio_optimization.md), [risk management](../r/risk_management.md), and strategy formulation. However, it comes with challenges that require careful consideration and sophisticated techniques to address. By leveraging advanced methods and keeping abreast of market dynamics, traders can effectively harness correlations to enhance their [trading strategies](../t/trading_strategies.md).
 
-For further reading or inquiries on their offerings in algorithmic trading solutions, you can visit companies like [QuantConnect](https://www.quantconnect.com/) or [QuantInsti](https://www.quantinsti.com/).
+For further reading or inquiries on their offerings in [algorithmic trading](../a/algorithmic_trading.md) solutions, you can visit companies like [QuantConnect](https://www.quantconnect.com/) or [QuantInsti](https://www.quantinsti.com/).

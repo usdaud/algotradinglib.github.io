@@ -101,7 +101,7 @@ The returns on savings accounts are typically tied to nominal interest rates. As
 
 ### Derivatives
 
-Interest rate derivatives, such as futures and swaps, are often pegged to nominal interest rates. Traders use these instruments to hedge or speculate on future rate movements.
+Interest rate [derivatives](../d/derivatives.md), such as futures and swaps, are often pegged to nominal interest rates. Traders use these instruments to hedge or speculate on future rate movements.
 
 ## Real-World Examples and Current Trends
 

@@ -23,7 +23,7 @@ Margin trading can be leveraged for both buying securities (long positions) and 
 When taking a long position, you're betting that the price of the security will rise. For example, if you have $10,000 and your broker has a margin requirement of 50%, you can borrow an additional $10,000 to purchase $20,000 worth of securities.
 
 #### 2.2. Short Positions
-In short selling, you're betting that the price of the security will fall. You borrow shares from your broker and sell them at the current market price, hoping to buy them back at a lower price in the future, return the borrowed shares, and pocket the difference.
+In [short selling](../s/short_selling.md), you're betting that the price of the security will fall. You borrow shares from your broker and sell them at the current market price, hoping to buy them back at a lower price in the future, return the borrowed shares, and pocket the difference.
 
 ### 3. Risks of Margin Trading
 
@@ -45,7 +45,7 @@ Margin trading increases your purchasing power, allowing you to take larger posi
 With more capital available, you can diversify your investments across a wider range of securities, potentially spreading risk.
 
 #### 4.3. Short Selling
-Margin accounts enable short selling, which isn't possible in a standard cash account. This allows for strategies that profit from declining markets.
+Margin accounts enable [short selling](../s/short_selling.md), which isn't possible in a standard cash account. This allows for strategies that profit from declining markets.
 
 ### 5. Regulations and Requirements
 
@@ -64,7 +64,7 @@ Brokerage firms may have their own additional margin requirements and policies. 
 This involves using margin to increase the size of your investment, thus potentially increasing returns. However, this strategy also increases risk.
 
 #### 6.2. Hedging
-Margin trading can be used to hedge against potential losses in your portfolio. For instance, short selling can offset long positions that may be declining in value.
+Margin trading can be used to hedge against potential losses in your portfolio. For instance, [short selling](../s/short_selling.md) can offset long positions that may be declining in value.
 
 #### 6.3. Arbitrage
 Traders often use margin to take advantage of price discrepancies between markets or securities, buying low and selling high simultaneously.
@@ -81,4 +81,4 @@ These platforms provide real-time data, advanced trading tools, and educational 
 
 ### 8. Conclusion
 
-Margin trading offers significant advantages and opportunities for investors willing to accept the associated risks. By understanding the mechanics, risks, and benefits, investors can effectively utilize margin accounts to enhance their trading strategies. However, due diligence and cautious risk management are crucial to avoid substantial financial losses.
+Margin trading offers significant advantages and opportunities for investors willing to accept the associated risks. By understanding the mechanics, risks, and benefits, investors can effectively utilize margin accounts to enhance their [trading strategies](../t/trading_strategies.md). However, due diligence and cautious [risk management](../r/risk_management.md) are crucial to avoid substantial financial losses.

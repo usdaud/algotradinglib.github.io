@@ -1,26 +1,26 @@
 # Return Analysis Frameworks in Algorithmic Trading
 
-Algorithmic trading, or "algo-trading," utilizes computer algorithms to trade financial securities at high speeds and volumes. A critical aspect of algorithmic trading is the constant evaluation and analysis of returns to ensure that the trading strategies are effective and profitable. Return analysis frameworks help traders to dissect and scrutinize the performance of their portfolios and trading algorithms. These frameworks typically include a combination of statistical measures, visual tools, and computational models to provide comprehensive insights into the returns.
+[Algorithmic trading](../a/algorithmic_trading.md), or "algo-trading," utilizes computer algorithms to trade financial securities at high speeds and volumes. A critical aspect of [algorithmic trading](../a/algorithmic_trading.md) is the constant evaluation and analysis of returns to ensure that the [trading strategies](../t/trading_strategies.md) are effective and profitable. Return analysis frameworks help traders to dissect and scrutinize the performance of their portfolios and [trading algorithms](../t/trading_algorithms.md). These frameworks typically include a combination of statistical measures, visual tools, and computational models to provide comprehensive insights into the returns.
 
 ## Components of Return Analysis Frameworks
 
 ### 1. **Performance Metrics**
 
-Return analysis begins with the calculation of key performance metrics, such as:
+Return analysis begins with the calculation of key [performance metrics](../p/performance_metrics.md), such as:
 
 - **CAGR (Compound Annual Growth Rate):** This measures the mean annual growth rate of an investment over a specified period longer than one year. It helps in understanding how well an algorithm performs against other investment opportunities by normalizing different time periods.
 
 - **Volatility:** Measures the degree of variation of trading returns over time, usually measured by the standard deviation or variance. Volatility helps in assessing the risk involved in the trading strategy.
 
-- **Sharpe Ratio:** This ratio quantifies the amount of return per unit of risk. It is calculated by subtracting the risk-free rate (e.g., Treasury bond yield) from the portfolio return and then dividing by the standard deviation of the portfolio returns.
+- **[Sharpe Ratio](../s/sharpe_ratio.md):** This ratio quantifies the amount of return per unit of risk. It is calculated by subtracting the risk-free rate (e.g., Treasury bond yield) from the portfolio return and then dividing by the standard deviation of the portfolio returns.
 
-- **Sortino Ratio:** Similar to the Sharpe Ratio, but it differentiates between harmful volatility (downside risk) and total volatility by only using the standard deviation of negative asset returns.
+- **[Sortino Ratio](../s/sortino_ratio.md):** Similar to the [Sharpe Ratio](../s/sharpe_ratio.md), but it differentiates between harmful volatility (downside risk) and total volatility by only using the standard deviation of negative asset returns.
 
 - **Maximum Drawdown:** This metric measures the maximum loss from a peak to a trough before a new peak is attained. It’s a critical measure for understanding the worst-case scenario for the portfolio.
 
 ### 2. **Risk-Adjusted Returns**
 
-Evaluating returns in isolation can be misleading if risks are not taken into account. Risk-adjusted return metrics allow investors to gauge the effectiveness of a trading strategy by considering the risks undertaken to achieve those returns. Popular risk-adjusted returns measures include:
+Evaluating returns in isolation can be misleading if risks are not taken into account. [Risk-adjusted return](../r/risk-adjusted_return.md) metrics allow investors to gauge the effectiveness of a trading strategy by considering the risks undertaken to achieve those returns. Popular risk-adjusted returns measures include:
 
 - **Treynor Ratio:** It relates excess return to the portfolio beta, considering market risk measured by beta.
 
@@ -30,11 +30,11 @@ Evaluating returns in isolation can be misleading if risks are not taken into ac
 
 Attribution analysis breaks down the return of a strategy into various components to understand which factors contribute to outperformance or underperformance. This involves:
 
-- **Factor Analysis:** Identifying the systematic factors such as market beta, size, momentum, and others that contribute to portfolio returns.
+- **[Factor Analysis](../f/factor_analysis.md):** Identifying the systematic factors such as market beta, size, momentum, and others that contribute to portfolio returns.
 
-- **Sector/Industry Analysis:** Understanding which sectors or industries drive returns enables traders to fine-tune their strategies.
+- **Sector/[Industry Analysis](../i/industry_analysis.md):** Understanding which sectors or industries drive returns enables traders to fine-tune their strategies.
 
-- **Security Selection:** Evaluating the impact of individual stock picks on the overall portfolio performance.
+- **[Security Selection](../s/security_selection.md):** Evaluating the impact of individual stock picks on the overall [portfolio performance](../p/portfolio_performance.md).
 
 ### 4. **Benchmark Comparison**
 
@@ -44,11 +44,11 @@ Comparing a strategy's performance against relevant benchmarks helps traders und
 - **MSCI World Index** for global equity portfolios.
 - **Barclays Aggregate Bond Index** for bond portfolios.
 
-Ensuring that a chosen benchmark accurately represents the trading strategy’s scope and asset allocation is crucial.
+Ensuring that a chosen benchmark accurately represents the trading strategy’s scope and [asset allocation](../a/asset_allocation.md) is crucial.
 
 ### 5. **Backtesting and Forward Testing**
 
-Backtesting involves testing a trading strategy on historical data to evaluate how it would have performed in the past. Important considerations in backtesting include:
+[Backtesting](../b/backtesting.md) involves testing a trading strategy on historical data to evaluate how it would have performed in the past. Important considerations in [backtesting](../b/backtesting.md) include:
 
 - **Data Quality:** Ensuring the historical data is clean and accurate.
 - **Robustness:** Testing the strategy across different time periods and market conditions to verify consistency.
@@ -71,20 +71,20 @@ Monte Carlo simulations generate a wide range of possible outcomes by running th
 Using visual tools to present complex return data helps traders interpret and analyze the performance more intuitively. Typical visual tools include:
 
 - **Equity Curves:** Plotting the cumulative returns over time.
-- **Rolling Returns:** Showing returns over rolling periods to highlight consistency.
+- **[Rolling Returns](../r/rolling_returns.md):** Showing returns over rolling periods to highlight consistency.
 - **Heatmaps:** Representing performance data across different assets, time frames, or other dimensions.
 
 ### **Framework Integration**
 
-Several platforms and libraries assist traders in implementing return analysis frameworks within their algorithmic trading setups.
+Several platforms and libraries assist traders in implementing return analysis frameworks within their [algorithmic trading](../a/algorithmic_trading.md) setups.
 
 #### **Python Libraries:**
 
 - **Pandas:** A data manipulation library that is essential for preparing and analyzing time-series data.
-- **NumPy:** Helps with numerical operations, an integral part of performance metrics calculations.
+- **NumPy:** Helps with numerical operations, an integral part of [performance metrics](../p/performance_metrics.md) calculations.
 - **Matplotlib and Seaborn:** Visualization libraries that enable plotting equity curves, heatmaps, and more.
 - **Pyfolio:** A comprehensive library specifically designed for portfolio and risk analytics.
-- **Backtrader:** Allows for extreme flexibility when backtesting strategies.
+- **Backtrader:** Allows for extreme flexibility when [backtesting](../b/backtesting.md) strategies.
 
 ```python
 import pandas as pd
@@ -104,9 +104,9 @@ pf.create_returns_tear_sheet(returns)
 Several platforms provide comprehensive return analysis tools for algorithmic traders:
 
 - **QuantConnect ([www.quantconnect.com](https://www.quantconnect.com)):** Offers a cloud-based, sharable environment for running strategies and performing complex return analysis.
-- **Quantopian:** Was one of the pioneers in providing online backtesting and analysis tools before its closure.
-- **Interactive Brokers ([www.interactivebrokers.com](https://www.interactivebrokers.com)):** Provides a powerful API for traders who want to integrate their algo-trading with real-time brokerage services.
+- **Quantopian:** Was one of the pioneers in providing online [backtesting](../b/backtesting.md) and analysis tools before its closure.
+- **Interactive Brokers ([www.interactivebrokers.com](https://www.interactivebrokers.com)):** Provides a powerful API for traders who want to integrate their algo-trading with real-time [brokerage services](../b/brokerage_services.md).
 
 ### Conclusion
 
-Return analysis frameworks are indispensable for understanding the effectiveness and viability of algorithmic trading strategies. They amalgamate various metrics, stress-tests, backtests, and visualizations to offer a rounded picture of performance. Incorporating these frameworks ensures that traders can make data-driven, informed decisions to refine their strategies and achieve sustainable profitability.
+Return analysis frameworks are indispensable for understanding the effectiveness and viability of [algorithmic trading](../a/algorithmic_trading.md) strategies. They amalgamate various metrics, stress-tests, backtests, and visualizations to offer a rounded picture of performance. Incorporating these frameworks ensures that traders can make data-driven, informed decisions to refine their strategies and achieve sustainable profitability.

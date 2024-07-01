@@ -29,9 +29,9 @@ For an optimization problem with uncertain parameters, the robust counterpart is
 
 #### 1. Finance
 
-Robust optimization is widely used in finance, particularly in portfolio management, where it helps manage risks associated with uncertain asset returns. Key applications include:
+Robust optimization is widely used in finance, particularly in [portfolio management](../p/portfolio_management.md), where it helps manage risks associated with uncertain asset returns. Key applications include:
 
-- **Portfolio Optimization:** Maximizing the worst-case returns or minimizing the risk for a given level of returns.
+- **[Portfolio Optimization](../p/portfolio_optimization.md):** Maximizing the worst-case returns or minimizing the risk for a given level of returns.
 - **Asset Liability Management:** Ensuring assets sufficiently cover liabilities under various economic scenarios.
 
 Example: Goldman Sachs [link to recent research or application on the company's official website].
@@ -72,7 +72,7 @@ Robust optimization theory has evolved significantly, with contributions from va
 
 - **Multi-Stage Robust Optimization:** Extends RO to sequential decision-making problems.
 - **Distributionally Robust Optimization:** Combines elements of RO with probabilistic approaches, considering the worst-case distribution within a defined set.
-- **Stochastic Robust Optimization:** Integrates stochastic processes with RO, providing a more nuanced approach to uncertainty.
+- **Stochastic Robust Optimization:** Integrates [stochastic processes](../s/stochastic_processes.md) with RO, providing a more nuanced approach to uncertainty.
 
 ### Challenges and Future Directions
 
@@ -84,4 +84,4 @@ Robust optimization faces several challenges, including high computational deman
 
 ## Conclusion
 
-Robust optimization provides a powerful framework for decision-making under uncertainty, offering solutions that are viable under a wide range of scenarios. Its applications span finance, supply chain management, engineering, and beyond, impacting how we design systems and make strategic choices in uncertain environments. As computational techniques advance and our understanding of uncertainty deepens, robust optimization will continue to play a critical role in various industries, delivering solutions that are not only optimal but also resilient to the vagaries of real-world conditions.
+Robust optimization provides a powerful framework for [decision-making under uncertainty](../d/decision-making_under_uncertainty.md), offering solutions that are viable under a wide range of scenarios. Its applications span finance, supply chain management, engineering, and beyond, impacting how we design systems and make strategic choices in uncertain environments. As computational techniques advance and our understanding of uncertainty deepens, robust optimization will continue to play a critical role in various industries, delivering solutions that are not only optimal but also resilient to the vagaries of real-world conditions.

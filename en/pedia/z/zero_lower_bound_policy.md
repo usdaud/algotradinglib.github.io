@@ -1,10 +1,10 @@
 # Zero Lower Bound Policy
 
-The Zero Lower Bound (ZLB) policy is an economic term used to describe the situation where the short-term nominal interest rate is at or near zero, causing a liquidity trap. This condition severely limits the capacity of the central bank to stimulate economic growth. It is a phenomenon that has become increasingly relevant particularly after the 2008 financial crisis and later global economic challenges.
+The [Zero Lower Bound](../z/zero_lower_bound.md) (ZLB) policy is an economic term used to describe the situation where the short-term nominal interest rate is at or near zero, causing a [liquidity trap](../l/liquidity_trap.md). This condition severely limits the capacity of the central bank to stimulate economic growth. It is a phenomenon that has become increasingly relevant particularly after the 2008 financial crisis and later global economic challenges.
 
 ## Introduction
 
-The zero lower bound on interest rates is a critical issue in monetary economics and policy. At its core, the ZLB represents the point at which traditional monetary policy becomes ineffective, as nominal interest rates cannot be reduced further to stimulate economic activity. This limitation requires central banks, such as the Federal Reserve in the United States or the European Central Bank, to explore unconventional monetary policy tools to achieve their economic objectives.
+The [zero lower bound](../z/zero_lower_bound.md) on interest rates is a critical issue in monetary economics and policy. At its core, the ZLB represents the point at which traditional monetary policy becomes ineffective, as nominal interest rates cannot be reduced further to stimulate economic activity. This limitation requires central banks, such as the Federal Reserve in the United States or the European Central Bank, to explore unconventional monetary policy tools to achieve their economic objectives.
 
 ## Understanding the Zero Lower Bound
 
@@ -14,7 +14,7 @@ The ZLB refers to the minimum level to which a central bank can set its nominal 
 
 ### Implications
 
-1. **Liquidity Trap**: When interest rates are at or near zero, monetary policy alone may be insufficient to stimulate the economy. This can lead to a liquidity trap, where people hoard cash instead of spending or investing, leading to decreased aggregate demand.
+1. **[Liquidity Trap](../l/liquidity_trap.md)**: When interest rates are at or near zero, monetary policy alone may be insufficient to stimulate the economy. This can lead to a [liquidity trap](../l/liquidity_trap.md), where people hoard cash instead of spending or investing, leading to decreased aggregate demand.
   
 2. **Monetary Policy Ineffectiveness**: The traditional tools of monetary policy, such as open market operations, become less effective. Central banks cannot cut rates further to encourage borrowing and investment.
 
@@ -30,7 +30,7 @@ The 2008 financial crisis led many advanced economies into the ZLB territory. Co
 
 ### Quantitative Easing (QE)
 
-Quantitative easing is a monetary policy whereby a central bank purchases longer-term securities from the open market to increase the money supply and encourage lending and investment. When the policy rate is at the zero lower bound, QE aims to lower long-term rates further and stimulate the economy.
+[Quantitative easing](../q/quantitative_easing.md) is a monetary policy whereby a central bank purchases longer-term securities from the open market to increase the money supply and encourage lending and investment. When the policy rate is at the [zero lower bound](../z/zero_lower_bound.md), QE aims to lower long-term rates further and stimulate the economy.
 
 ### Forward Guidance
 
@@ -102,7 +102,7 @@ Future forward guidance might become more sophisticated, incorporating state-dep
 
 ## Conclusion
 
-The zero lower bound on interest rates represents a significant challenge for traditional monetary policy frameworks. While central banks have developed several unconventional tools to address this issue, the effectiveness and long-term implications of such measures remain subjects of ongoing research and debate. As economies face new uncertainties and potential future crises, understanding and managing the ZLB will be crucial for maintaining economic stability and growth.
+The [zero lower bound](../z/zero_lower_bound.md) on interest rates represents a significant challenge for traditional monetary policy frameworks. While central banks have developed several unconventional tools to address this issue, the effectiveness and long-term implications of such measures remain subjects of ongoing research and debate. As economies face new uncertainties and potential future crises, understanding and managing the ZLB will be crucial for maintaining economic stability and growth.
 
 ## References
 

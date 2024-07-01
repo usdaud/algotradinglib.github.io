@@ -1,6 +1,6 @@
 # Simple Moving Average (SMA)
 
-The Simple Moving Average (SMA) is one of the most popular and straightforward tools in the realm of technical analysis and algorithmic trading. This indicator helps traders to smooth out price data by creating a constantly updated average price which can act as a signal for trading decisions. Below, we delve deeply into the concept, significance, calculation, applications, advantages, limitations, and real-world examples related to SMA in the context of algorithmic trading.
+The Simple Moving Average (SMA) is one of the most popular and straightforward tools in the realm of [technical analysis](../t/technical_analysis.md) and [algorithmic trading](../a/algorithmic_trading.md). This indicator helps traders to smooth out price data by creating a constantly updated average price which can act as a signal for trading decisions. Below, we delve deeply into the concept, significance, calculation, applications, advantages, limitations, and real-world examples related to SMA in the context of [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Introduction to SMA
 
@@ -16,7 +16,7 @@ Where:
 - \(P\) represents the price of the asset at different times (e.g., daily closing prices).
 - \(n\) is the number of time periods over which the SMA is calculated.
 
-For instance, a 5-day SMA is computed by summing the closing prices of the past five days and dividing by five.
+For instance, a [5-day SMA](../1/5-day_sma.md) is computed by summing the closing prices of the past five days and dividing by five.
 
 ### Example Calculation
 
@@ -27,34 +27,34 @@ Assume we have the closing prices of a stock over the last five days as follows:
 - Day 4: $154
 - Day 5: $155
 
-The 5-day SMA will be:
+The [5-day SMA](../1/5-day_sma.md) will be:
 \[SMA = \frac{150 + 152 + 153 + 154 + 155}{5} = 152.8\]
 
 ## Significance of SMA
 
-SMAs are widely used in trading strategies for several reasons:
+SMAs are widely used in [trading strategies](../t/trading_strategies.md) for several reasons:
 1. **Trend Identification**: SMAs help traders identify the primary trend over a given time period, providing a clearer picture of market direction.
-2. **Support and Resistance Levels**: SMAs often act as dynamic support and resistance levels. Prices usually hover around the SMA in a trending market.
+2. **[Support and Resistance](../s/support_and_resistance.md) Levels**: SMAs often act as dynamic [support and resistance](../s/support_and_resistance.md) levels. Prices usually hover around the SMA in a trending market.
 3. **Signal Generation**: Traders use SMA crossovers (e.g., a short-term SMA crossing above a long-term SMA) to generate buy and sell signals.
 
 ## Applications in Algorithmic Trading
 
-In algorithmic trading, SMAs are used in diverse strategies, both independently and in conjunction with other indicators.
+In [algorithmic trading](../a/algorithmic_trading.md), SMAs are used in diverse strategies, both independently and in conjunction with other indicators.
 
 ### Trend Following Strategies
 
-One basic use of the SMA in algorithmic trading is within trend-following strategies. 
+One basic use of the SMA in [algorithmic trading](../a/algorithmic_trading.md) is within trend-following strategies. 
 
-- **Golden Cross**: A bullish signal is generated when a short-term SMA (e.g., 50-day) crosses above a long-term SMA (e.g., 200-day). This crossover indicates a potential upward trend.
+- **[Golden Cross](../g/golden_cross.md)**: A bullish signal is generated when a short-term SMA (e.g., 50-day) crosses above a long-term SMA (e.g., 200-day). This crossover indicates a potential upward trend.
 - **Death Cross**: Conversely, a bearish signal is triggered when the short-term SMA crosses below the long-term SMA, indicating a potential downward trend.
 
 ### Mean Reversion Strategies
 
-SMAs also play a crucial role in mean reversion strategies, which capitalize on the tendency of prices to revert to their historical mean. Traders may look for price deviations from the SMA and trade on the assumption that the price will revert to the mean.
+SMAs also play a crucial role in [mean reversion](../m/mean_reversion.md) strategies, which capitalize on the tendency of prices to revert to their historical mean. Traders may look for price deviations from the SMA and trade on the assumption that the price will revert to the mean.
 
 ### Filtering Signals
 
-SMAs can be employed to filter signals from other technical analysis tools. For example, traders might combine SMA with RSI (Relative Strength Index) to validate signals, improving trade accuracy.
+SMAs can be employed to filter signals from other [technical analysis](../t/technical_analysis.md) tools. For example, traders might combine SMA with RSI (Relative Strength Index) to validate signals, improving trade accuracy.
 
 ## Advantages of SMA
 
@@ -64,7 +64,7 @@ SMAs can be employed to filter signals from other technical analysis tools. For 
 
 ## Limitations of SMA
 
-1. **Lagging Indicator**: SMAs are inherently lagging indicators, meaning they can be slow to respond to rapid price changes, leading to potential delays in trading signals.
+1. **Lagging Indicator**: SMAs are inherently [lagging indicators](../l/lagging_indicators.md), meaning they can be slow to respond to rapid price changes, leading to potential delays in [trading signals](../t/trading_signals.md).
 2. **Equal Weighting**: Each period in the SMA calculation is given equal weight, which might not accurately reflect recent price movements.
 
 ## Real-World Example and Tools
@@ -78,15 +78,15 @@ Many trading platforms and tools incorporate SMA indicators. Examples include:
 
 ### Algorithmic Trading Firms
 
-Algorithmic trading firms like **QuantConnect** [QuantConnect](https://www.quantconnect.com/) and **Quantitative Brokers** [Quantitative Brokers](https://www.quantitativebrokers.com/) use SMAs in various algorithmic strategies.
+[Algorithmic trading](../a/algorithmic_trading.md) firms like **QuantConnect** [QuantConnect](https://www.quantconnect.com/) and **Quantitative Brokers** [Quantitative Brokers](https://www.quantitativebrokers.com/) use SMAs in various algorithmic strategies.
 
 ### Case Study: Quantitative Brokers
 
-Quantitative Brokers, a prominent player in the algorithmic trading space, incorporates SMAs in their strategies to enhance trade execution and capture market trends effectively. By leveraging historical price data, they develop algorithms that make real-time trading decisions, ensuring optimal performance in different market conditions.
+Quantitative Brokers, a prominent player in the [algorithmic trading](../a/algorithmic_trading.md) space, incorporates SMAs in their strategies to enhance trade execution and capture market trends effectively. By leveraging historical price data, they develop algorithms that make real-time trading decisions, ensuring optimal performance in different market conditions.
 
 ## Conclusion
 
-The Simple Moving Average is an essential tool for traders and algorithmic trading strategies. Its ease of use, ability to smooth out price data, and versatility across different time frames make it valuable in various trading strategies. While it does have limitations, such as being a lagging indicator, the SMA's benefits far outweigh these drawbacks, ensuring its continued significance in financial markets.
+The Simple Moving Average is an essential tool for traders and [algorithmic trading](../a/algorithmic_trading.md) strategies. Its ease of use, ability to smooth out price data, and versatility across different time frames make it valuable in various [trading strategies](../t/trading_strategies.md). While it does have limitations, such as being a lagging indicator, the SMA's benefits far outweigh these drawbacks, ensuring its continued significance in financial markets.
 
 Sam is a long-term investor who uses a simple moving average to analyze stock market trends. He applies a 200-day SMA to see long-term movements and in addition, he uses a 50-day SMA to capture shorter trends. This combination helps him identify potential buy and sell points in the market, enabling him to make informed investment decisions.
 

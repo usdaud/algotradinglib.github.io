@@ -1,6 +1,6 @@
 # Open Range Breakout (ORB)
 
-Open Range Breakout (ORB) is a popular trading strategy used in the world of algorithmic trading. It revolves around identifying and capitalizing on price movements that occur when the trading range defined by the market's opening period is broken. This strategy can be applied to various financial instruments including stocks, futures, forex, and cryptocurrencies. This document aims to provide an in-depth look at the ORB strategy, including its underlying principles, implementation methodologies, and considerations for risk management and optimization.
+Open Range Breakout (ORB) is a popular trading strategy used in the world of [algorithmic trading](../a/algorithmic_trading.md). It revolves around identifying and capitalizing on price movements that occur when the trading range defined by the market's opening period is broken. This strategy can be applied to various financial instruments including stocks, futures, forex, and cryptocurrencies. This document aims to provide an in-depth look at the ORB strategy, including its underlying principles, implementation methodologies, and considerations for [risk management](../r/risk_management.md) and optimization.
 
 ## Background and Principles
 
@@ -70,10 +70,10 @@ Setting time filters can also improve the strategy's robustness. For instance:
 
 ## Risk Management
 
-Risk management is a critical component of any trading strategy. For ORB, consider the following:
+[Risk management](../r/risk_management.md) is a critical component of any trading strategy. For ORB, consider the following:
 
-1. **Stop-Loss Orders**: Place stop-loss orders to limit potential losses. These can be set just inside the open range boundary to prevent small whipsaws from triggering the stop.
-2. **Position Sizing**: Determine the appropriate position size based on the risk per trade, which is usually a fixed percentage of the trading capital.
+1. **[Stop-Loss Orders](../s/stop-loss_orders.md)**: Place [stop-loss orders](../s/stop-loss_orders.md) to limit potential losses. These can be set just inside the open range boundary to prevent small whipsaws from triggering the stop.
+2. **[Position Sizing](../p/position_sizing.md)**: Determine the appropriate position size based on the risk per trade, which is usually a fixed percentage of the trading capital.
 3. **Diversification**: Apply the ORB strategy across different instruments and time frames to diversify risk.
 
 ## Advantages and Disadvantages
@@ -81,7 +81,7 @@ Risk management is a critical component of any trading strategy. For ORB, consid
 ### Advantages
 
 - **Simplicity**: The strategy is straightforward, making it accessible for both novice and experienced traders.
-- **Automation**: Easy to implement in algorithmic trading systems.
+- **Automation**: Easy to implement in [algorithmic trading](../a/algorithmic_trading.md) systems.
 - **Early Start**: Traders can capitalize on early trends within the trading session.
 
 ### Disadvantages
@@ -96,7 +96,7 @@ Several financial service providers and software companies offer tools to implem
 
 ### TradeStation
 
-TradeStation is a brokerage firm that provides comprehensive tools for traders to develop, test, and deploy algorithmic trading strategies. Their platform supports custom scripting and has built-in indicators for open range breakout strategies.
+TradeStation is a brokerage firm that provides comprehensive tools for traders to develop, test, and deploy [algorithmic trading](../a/algorithmic_trading.md) strategies. Their platform supports custom scripting and has built-in indicators for open range breakout strategies.
 
 Website: [TradeStation](https://www.tradestation.com/)
 
@@ -114,4 +114,4 @@ Website: [MetaTrader](https://www.metatrader4.com/en)
 
 ## Conclusion
 
-Open Range Breakout is a potent strategy in the arsenal of an algorithmic trader, offering a disciplined approach to capturing early market trends. However, it requires diligent implementation, continuous optimization, and rigorous risk management to be effective in the long run.
+Open Range Breakout is a potent strategy in the arsenal of an algorithmic trader, offering a disciplined approach to capturing early market trends. However, it requires diligent implementation, continuous optimization, and rigorous [risk management](../r/risk_management.md) to be effective in the long run.

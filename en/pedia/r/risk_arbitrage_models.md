@@ -1,8 +1,8 @@
 # Risk Arbitrage Models
 
-Risk arbitrage, also known as merger arbitrage, is an investment strategy that seeks to profit from the likelihood of a potential merger or acquisition involving publicly listed companies. This practice involves purchasing shares in the target company while often short selling the acquirer's stock (depending on the deal specifics) after the merger or acquisition announcement. The core idea is to capitalize on the difference between the current market price of the target company's stock and the price at which the acquiring company aims to purchase it.
+Risk [arbitrage](../a/arbitrage.md), also known as merger [arbitrage](../a/arbitrage.md), is an investment strategy that seeks to profit from the likelihood of a potential merger or acquisition involving publicly listed companies. This practice involves purchasing shares in the target company while often [short selling](../s/short_selling.md) the acquirer's stock (depending on the deal specifics) after the merger or acquisition announcement. The core idea is to capitalize on the difference between the current market price of the target company's stock and the price at which the acquiring company aims to purchase it.
 
-Risk arbitrage is laden with complexity and risk, given that it relies heavily on future corporate events, regulatory outcomes, and other variables that can be highly unpredictable. To manage these complexities, various risk arbitrage models have been developed by financial analysts, quants, and investment strategists.
+Risk [arbitrage](../a/arbitrage.md) is laden with complexity and risk, given that it relies heavily on future corporate events, regulatory outcomes, and other variables that can be highly unpredictable. To manage these complexities, various risk [arbitrage](../a/arbitrage.md) models have been developed by financial analysts, quants, and investment strategists.
 
 ### Components of Risk Arbitrage
 
@@ -41,19 +41,19 @@ In a stock-for-stock merger, the acquiring company offers its own shares in exch
 
 One of the conventional approaches is to use probabilistic models that consider various outcomes and their associated probabilities. 
 
-- **Expected Value (EV)**: Calculating the expected value of the merger arbitrage trade by multiplying the potential profit or loss by the respective probability.
+- **Expected Value (EV)**: Calculating the expected value of the merger [arbitrage](../a/arbitrage.md) trade by multiplying the potential profit or loss by the respective probability.
   
   \[
   EV = P(success) \times (Offer Price - Current Price) - P(failure) \times (Current Price - Failure Price)
   \]
 
-- **Bayesian Models**: Using Bayesian inference to update the probabilities of deal success or failure as new information becomes available.
+- **Bayesian Models**: Using [Bayesian inference](../b/bayesian_inference.md) to update the probabilities of deal success or failure as new information becomes available.
 
 #### Statistical Arbitrage Models
 
-- **Time Series Analysis**: Employing statistical techniques like cointegration and mean reversion on historical price series of the target and acquirer stocks. The idea is to identify mispricings that revert to the mean over time.
+- **[Time Series Analysis](../t/time_series_analysis.md)**: Employing statistical techniques like cointegration and [mean reversion](../m/mean_reversion.md) on historical price series of the target and acquirer stocks. The idea is to identify mispricings that revert to the mean over time.
   
-- **Machine Learning Models**: Leveraging machine learning for predictive analytics using vast datasets. Features such as deal type, market conditions, and historical deal outcomes can be input into algorithms to predict the likelihood of merger completion.
+- **Machine Learning Models**: Leveraging machine learning for [predictive analytics](../p/predictive_analytics.md) using vast datasets. Features such as deal type, market conditions, and historical deal outcomes can be input into algorithms to predict the likelihood of merger completion.
 
 #### Event-Driven Models
 
@@ -63,33 +63,33 @@ Event-driven models focus on capturing the impact of corporate events such as re
 
 ### Practical Implementations and Firms
 
-Many hedge funds and specialized investment firms engage in risk arbitrage. Notable firms include:
+Many hedge funds and specialized investment firms engage in risk [arbitrage](../a/arbitrage.md). Notable firms include:
 
 - **[Citadel](https://www.citadel.com/)**
-  Citadel is one of the world's leading alternative investment management firms, with significant expertise in risk arbitrage among other strategies. The firm employs quantitative and qualitative techniques to identify profitable arbitrage opportunities.
+  Citadel is one of the world's leading alternative investment management firms, with significant expertise in risk [arbitrage](../a/arbitrage.md) among other strategies. The firm employs quantitative and qualitative techniques to identify profitable [arbitrage](../a/arbitrage.md) opportunities.
 
 - **[DE Shaw](https://www.deshaw.com/)**
-  DE Shaw is another prominent name in the hedge fund industry, known for its use of advanced mathematical models and computational algorithms in risk arbitrage and other trading strategies.
+  DE Shaw is another prominent name in the hedge fund industry, known for its use of advanced mathematical models and [computational algorithms](../c/computational_algorithms.md) in risk [arbitrage](../a/arbitrage.md) and other [trading strategies](../t/trading_strategies.md).
 
 - **[Renaissance Technologies](https://www.rentec.com/)**
-  Renaissance Technologies is famously known for its Medallion Fund, which employs a myriad of quantitative strategies, including risk arbitrage, to generate extraordinary returns.
+  Renaissance Technologies is famously known for its Medallion Fund, which employs a myriad of quantitative strategies, including risk [arbitrage](../a/arbitrage.md), to generate extraordinary returns.
 
 ### Risk Management in Risk Arbitrage
 
-Risk management is pivotal in risk arbitrage given the inherent uncertainties. Common practices include:
+[Risk management](../r/risk_management.md) is pivotal in risk [arbitrage](../a/arbitrage.md) given the inherent uncertainties. Common practices include:
 
 - **Diversification**: Spreading investments across multiple merger deals to reduce exposure to any single event.
   
-- **Use of Derivatives**: Employing options and other derivatives to hedge downside risk.
+- **Use of [Derivatives](../d/derivatives.md)**: Employing options and other [derivatives](../d/derivatives.md) to hedge downside risk.
   
-- **Stop-loss Orders**: Setting stop-loss orders to automatically exit positions if the market moves against the trade beyond a predetermined threshold.
+- **[Stop-loss Orders](../s/stop-loss_orders.md)**: Setting [stop-loss orders](../s/stop-loss_orders.md) to automatically exit positions if the market moves against the trade beyond a predetermined threshold.
 
 - **Scenario Analysis**: Performing scenario analysis to understand potential outcomes under various market conditions and deal circumstances.
 
 ### Regulatory Considerations
 
-Regulatory risk is a crucial aspect of risk arbitrage. The completion of a merger often hinges on receiving approval from relevant regulatory bodies, such as the Federal Trade Commission (FTC) in the United States or the European Commission in the European Union. Anti-trust issues, national security concerns, and compliance with industry-specific regulations can all influence the likelihood of a deal's success.
+Regulatory risk is a crucial aspect of risk [arbitrage](../a/arbitrage.md). The completion of a merger often hinges on receiving approval from relevant regulatory bodies, such as the Federal Trade Commission (FTC) in the United States or the European Commission in the European Union. Anti-trust issues, national security concerns, and compliance with industry-specific regulations can all influence the likelihood of a deal's success.
 
 ### Conclusion
 
-Risk arbitrage is a sophisticated and intricate investment strategy that requires a deep understanding of corporate finance, market dynamics, and advanced modeling techniques. Employing risk arbitrage models helps in estimating deal probabilities, understanding potential payoffs, and managing associated risks. Additionally, firms specializing in risk arbitrage leverage both traditional financial analysis and cutting-edge quantitative methods to optimize their strategies. The evolving landscape of machine learning and AI offers increasingly powerful tools, promising deeper insights and improved accuracy in predicting merger outcomes.
+Risk [arbitrage](../a/arbitrage.md) is a sophisticated and intricate investment strategy that requires a deep understanding of corporate finance, market dynamics, and advanced modeling techniques. Employing risk [arbitrage](../a/arbitrage.md) models helps in estimating deal probabilities, understanding potential payoffs, and managing associated risks. Additionally, firms specializing in risk [arbitrage](../a/arbitrage.md) leverage both traditional financial analysis and cutting-edge quantitative methods to optimize their strategies. The evolving landscape of machine learning and AI offers increasingly powerful tools, promising deeper insights and improved accuracy in predicting merger outcomes.

@@ -28,7 +28,7 @@ The total RWAs are calculated by multiplying the weight of each asset class by t
 
 ## 3. Regulatory Framework
 
-The Basel Accords (Basel I, II, and III) have established guidelines for the calculation and management of RWAs. These frameworks are designed to strengthen the regulation, supervision, and risk management of banks.
+The Basel Accords (Basel I, II, and III) have established guidelines for the calculation and management of RWAs. These frameworks are designed to strengthen the regulation, supervision, and [risk management](../r/risk_management.md) of banks.
 
 ### 3.1. Basel I
 
@@ -39,7 +39,7 @@ Introduced in 1988, Basel I focused primarily on credit risk and set minimum cap
 Published in 2004, Basel II expanded on Basel I by incorporating three pillars:
 1. Minimum Capital Requirements: Similar to Basel I but with more nuanced risk weight categories.
 2. Supervisory Review: Addressed the need for regulatory oversight.
-3. Market Discipline: Improved transparency requirements to encourage prudent risk management.
+3. Market Discipline: Improved transparency requirements to encourage prudent [risk management](../r/risk_management.md).
 
 ### 3.3. Basel III
 
@@ -74,7 +74,7 @@ By mandating capital buffers relative to the risk profile of assets, RWAs help a
 
 ### 5.2. Promoting Prudent Risk Management
 
-RWAs incentivize banks to engage in prudent risk management practices, as lower-risk assets yield lower capital requirements, encouraging better lending and investment decisions.
+RWAs incentivize banks to engage in prudent [risk management](../r/risk_management.md) practices, as lower-risk assets yield lower capital requirements, encouraging better lending and investment decisions.
 
 ### 5.3. Facilitating Supervisory Review
 
@@ -92,7 +92,7 @@ RWAs can influence a bank’s lending behavior. For instance, higher risk weight
 
 ### 6.3. Competitive Dynamics
 
-Banks with more advanced risk management systems and lower RWAs can enjoy competitive advantages, as they can operate with lower capital costs, invest more efficiently, or offer more competitive loan terms.
+Banks with more advanced [risk management](../r/risk_management.md) systems and lower RWAs can enjoy competitive advantages, as they can operate with lower capital costs, invest more efficiently, or offer more competitive loan terms.
 
 ## 7. Criticisms and Challenges
 
@@ -130,7 +130,7 @@ For more information about upcoming changes and ongoing research in RWAs, you ma
 
 ## 9. Conclusion
 
-Risk-Weighted Assets (RWAs) are a foundational element of modern financial regulation, enabling a robust method of ensuring that banks maintain adequate capital to cover potential risks. By integrating considerations for credit, market, and operational risks, RWAs support financial stability and encourage prudent risk management. Despite the complexities and challenges, ongoing advancements and regulatory developments promise to refine the approach, further securing the financial system against unforeseen shocks.
+Risk-Weighted Assets (RWAs) are a foundational element of modern financial regulation, enabling a robust method of ensuring that banks maintain adequate capital to cover potential risks. By integrating considerations for credit, market, and operational risks, RWAs support financial stability and encourage prudent [risk management](../r/risk_management.md). Despite the complexities and challenges, ongoing advancements and regulatory developments promise to refine the approach, further securing the financial system against unforeseen shocks.
 
 For further reading and detailed regulatory guidelines, you can visit the Bank for International Settlements website: [Bank for International Settlements](https://www.bis.org/).
 

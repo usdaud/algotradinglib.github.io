@@ -1,6 +1,6 @@
 ## Non-Correlation Strategies in Algorithmic Trading
 
-Algorithmic trading, commonly referred to as algo trading, is a method of executing orders using automated pre-programmed trading instructions accounting for variables such as time, price, and volume. These strategies enable traders to carry out high-frequency and high-volume trades that would be virtually impossible for human traders to execute manually. Within the realm of algorithmic trading, non-correlation strategies have gained prominence as a means to drive diversification and enhance risk-adjusted returns.
+[Algorithmic trading](../a/algorithmic_trading.md), commonly referred to as algo trading, is a method of executing orders using automated pre-programmed trading instructions accounting for variables such as time, price, and volume. These strategies enable traders to carry out high-frequency and high-volume trades that would be virtually impossible for human traders to execute manually. Within the realm of [algorithmic trading](../a/algorithmic_trading.md), non-correlation strategies have gained prominence as a means to drive diversification and enhance risk-adjusted returns.
 
 ### Understanding Non-Correlation Strategies
 
@@ -11,20 +11,20 @@ To grasp the concept, consider two assets. If Asset A tends to go up when Asset 
 ### The Importance of Non-Correlation
 
 1. **Diversification:** Non-correlated assets provide a diversification benefit, spreading out risk and lowering the likelihood that a single event will adversely impact the entire portfolio.
-2. **Reduction of Systematic Risk:** Systematic risk, which affects the entire market, can be mitigated by holding assets that do not move in sync with each other.
+2. **Reduction of [Systematic Risk](../s/systematic_risk.md):** [Systematic risk](../s/systematic_risk.md), which affects the entire market, can be mitigated by holding assets that do not move in sync with each other.
 3. **Enhanced Risk-Adjusted Returns:** By lowering the correlation between assets, traders can aim for portfolios that offer better risk/reward profiles.
 
 ### Types of Non-Correlation Strategies
 
 #### 1. Statistical Arbitrage
 
-Statistical arbitrage strategies involve taking advantage of price inefficiencies between related assets using mathematical models and statistical techniques. These strategies often employ pairs trading, where one asset is bought, and a correlated asset is sold short, to exploit mean-reverting behavior of spread between the two.
+Statistical [arbitrage](../a/arbitrage.md) strategies involve taking advantage of price inefficiencies between related assets using mathematical models and statistical techniques. These strategies often employ [pairs trading](../p/pairs_trading.md), where one asset is bought, and a correlated asset is sold short, to exploit mean-reverting behavior of spread between the two.
 
 - **Example:** Consider two stocks in the same industry with historically correlated price movements. When the price spread deviates significantly from its historical average, a trader might buy the underperforming stock and short the outperforming one, expecting the spread to revert to the mean.
 
 #### 2. Market Neutral
 
-Market neutral strategies aim to extract alpha from relative price movements of securities in long and short positions, all while maintaining a neutral exposure to market risks. This involves balancing long and short positions to create a portfolio insensitive to market movements.
+[Market neutral strategies](../m/market_neutral_strategies.md) aim to extract alpha from relative price movements of securities in long and short positions, all while maintaining a neutral exposure to market risks. This involves balancing long and short positions to create a portfolio insensitive to market movements.
 
 - **Example:** A quantitative hedge fund might employ a market neutral strategy by going long on undervalued stocks and short on overvalued stocks in the same sector. The fund intends to profit from the difference in performance between the long and short positions, independent of overall market moves.
 
@@ -44,7 +44,7 @@ Advanced machine learning techniques enable the discovery of non-correlational p
 
 1. **Two Sigma** - [Two Sigma](https://www.twosigma.com): Two Sigma employs a variety of algorithmic strategies, including those based on low correlation, to manage risks and drive returns. They leverage data science and advanced technology to develop quantitatively-driven investment strategies.
 
-2. **AQR Capital Management** - [AQR](https://www.aqr.com): AQR is known for its market-neutral and diversified hedge fund strategies. The firm uses purely quantitative models to identify non-correlational relationships across various asset classes, aiming for consistent alpha generation.
+2. **AQR Capital Management** - [AQR](https://www.aqr.com): AQR is known for its market-neutral and diversified [hedge fund strategies](../h/hedge_fund_strategies.md). The firm uses purely [quantitative models](../q/quantitative_models.md) to identify non-correlational relationships across various asset classes, aiming for consistent [alpha generation](../a/alpha_generation.md).
 
 3. **Renaissance Technologies** - Renaissance Technologies operates under the philosophy that markets are chaotic and exhibit nonlinear dynamics. They use sophisticated mathematical models to detect inefficiencies and develop non-correlated strategies, maximizing returns while minimizing risk.
 
@@ -54,19 +54,19 @@ Advanced machine learning techniques enable the discovery of non-correlational p
 
 - **Pearson Correlation Coefficient:** Measures the linear relationship between two variables, useful for identifying pairs of assets with low or negative correlations.
 - **Principal Component Analysis (PCA):** Helps in reducing dimensionality of data and understanding the major sources of variance, facilitating the construction of portfolios with non-correlated assets.
-- **Cointegration Analysis:** Identifies pairs of assets whose price series have a long-term equilibrium relationship, useful for pairs trading strategies.
+- **Cointegration Analysis:** Identifies pairs of assets whose price series have a long-term equilibrium relationship, useful for [pairs trading](../p/pairs_trading.md) strategies.
 
 #### Algorithmic Tools
 
-- **Backtesting Software:** Platforms like QuantConnect and MetaTrader provide robust environments for backtesting non-correlational strategies using historical data.
+- **[Backtesting](../b/backtesting.md) Software:** Platforms like QuantConnect and MetaTrader provide robust environments for [backtesting](../b/backtesting.md) non-correlational strategies using historical data.
 - **Machine Learning Frameworks:** Libraries such as TensorFlow and scikit-learn offer tools for building predictive models that can identify non-correlated asset relationships.
-- **API Access to Market Data:** Real-time and historical data providers, such as Bloomberg and Quandl, supply comprehensive datasets necessary for backtesting and implementing non-correlational strategies.
+- **API Access to Market Data:** Real-time and historical data providers, such as Bloomberg and Quandl, supply comprehensive datasets necessary for [backtesting](../b/backtesting.md) and implementing non-correlational strategies.
 
 ### Challenges and Considerations
 
 #### Data Quality and Availability
 
-Reliable data is paramount for developing and backtesting non-correlation algo-trading strategies. Inaccurate or incomplete data can lead to faulty models and poor trading decisions.
+Reliable data is paramount for developing and [backtesting](../b/backtesting.md) non-correlation algo-[trading strategies](../t/trading_strategies.md). Inaccurate or incomplete data can lead to faulty models and poor trading decisions.
 
 #### Model Overfitting
 
@@ -74,7 +74,7 @@ Overfitting occurs when a model is too closely fitted to historical data, captur
 
 #### Transaction Costs and Slippage
 
-High-frequency trading strategies, including those relying on non-correlational relationships, must account for transaction costs and slippage. Failure to do so can erode the potential alpha generated by the strategy.
+High-frequency [trading strategies](../t/trading_strategies.md), including those relying on non-correlational relationships, must account for transaction costs and slippage. Failure to do so can erode the potential alpha generated by the strategy.
 
 #### Regulatory and Compliance Issues
 
@@ -82,5 +82,5 @@ Algo trading operates under stringent regulatory environments. Compliance with r
 
 ### Conclusion
 
-Non-correlation strategies in algorithmic trading provide a sophisticated approach to portfolio diversification, risk management, and return optimization. By leveraging statistical arbitrage, market-neutral positioning, multi-asset diversification, and machine learning techniques, traders can construct portfolios resilient to market volatility and systemic risks. However, successful implementation requires careful consideration of data quality, model robustness, transaction costs, and regulatory compliance. As financial markets evolve, non-correlation strategies will continue to play a crucial role in the toolkit of sophisticated algo traders and institutional investors.
+Non-correlation strategies in [algorithmic trading](../a/algorithmic_trading.md) provide a sophisticated approach to [portfolio diversification](../p/portfolio_diversification.md), [risk management](../r/risk_management.md), and return optimization. By leveraging statistical [arbitrage](../a/arbitrage.md), market-neutral positioning, multi-asset diversification, and machine learning techniques, traders can construct portfolios resilient to market volatility and systemic risks. However, successful implementation requires careful consideration of data quality, model robustness, transaction costs, and regulatory compliance. As financial markets evolve, non-correlation strategies will continue to play a crucial role in the toolkit of sophisticated algo traders and institutional investors.
 

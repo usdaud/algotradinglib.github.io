@@ -12,7 +12,7 @@ To grasp the mechanics behind ZIRP, it is essential to understand several key el
 
 1. **Nominal vs. Real Interest Rates**: Nominal interest rates are the stated or observed rates without adjusting for inflation. When these rates are close to zero, the real interest rate (nominal rate minus inflation) can become negative if inflation is positive.
 
-2. **Quantitative Easing (QE)**: ZIRP is often accompanied by QE, where central banks purchase government securities and other financial assets to inject liquidity into the economy. This downplays the yield on long-term securities, further incentivizing borrowing and spending.
+2. **[Quantitative Easing](../q/quantitative_easing.md) (QE)**: ZIRP is often accompanied by QE, where central banks purchase government securities and other financial assets to inject liquidity into the economy. This downplays the yield on long-term securities, further incentivizing borrowing and spending.
 
 3. **Forward Guidance**: By indicating that interest rates will remain low for an extended period, central banks can influence economic expectations and behaviors. This guidance helps businesses and consumers make long-term financial decisions with greater confidence.
 
@@ -22,7 +22,7 @@ To grasp the mechanics behind ZIRP, it is essential to understand several key el
 
 ZIRP has profound implications for financial markets, affecting various asset classes and investment strategies. Key impacts include:
 
-1. **Bonds and Fixed Income Securities**: Lower interest rates lead to higher bond prices and lower yields. Investors may shift towards higher-yielding assets, including corporate bonds and high-yield debt, in search of better returns.
+1. **Bonds and [Fixed Income Securities](../f/fixed_income_securities.md)**: Lower interest rates lead to higher bond prices and lower yields. Investors may shift towards higher-yielding assets, including corporate bonds and high-yield debt, in search of better returns.
 
 2. **Equities**: Equities typically benefit from ZIRP due to lower borrowing costs, which can enhance corporate profitability. Furthermore, as fixed income returns diminish, equities may become relatively more attractive.
 
@@ -46,7 +46,7 @@ While ZIRP aims to stimulate economic activity, it is not without risks and crit
 
 ### Japan
 
-Japan has been one of the longest practitioners of ZIRP, having adopted near-zero interest rates since the 1990s in response to the burst of its property bubble and ensuing economic stagnation. The Bank of Japan's persistent use of ZIRP, combined with aggressive quantitative easing, has aimed to combat deflationary pressures and stimulate growth.
+Japan has been one of the longest practitioners of ZIRP, having adopted near-zero interest rates since the 1990s in response to the burst of its property bubble and ensuing economic stagnation. The Bank of Japan's persistent use of ZIRP, combined with aggressive [quantitative easing](../q/quantitative_easing.md), has aimed to combat deflationary pressures and stimulate growth.
 
 ### United States
 
@@ -60,7 +60,7 @@ The European Central Bank also implemented ZIRP in response to the financial cri
 
 ### QuantConnect
 
-QuantConnect provides a platform for algorithmic trading and supports the development of financial strategies that can adapt to different interest rate environments, including ZIRP. Users can backtest their strategies against historical data to understand potential outcomes under low-interest-rate conditions. For more information, visit [QuantConnect](https://www.quantconnect.com/).
+QuantConnect provides a platform for [algorithmic trading](../a/algorithmic_trading.md) and supports the development of financial strategies that can adapt to different interest rate environments, including ZIRP. Users can backtest their strategies against historical data to understand potential outcomes under low-interest-rate conditions. For more information, visit [QuantConnect](https://www.quantconnect.com/).
 
 ### Interactive Brokers
 

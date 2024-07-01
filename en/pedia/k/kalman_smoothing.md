@@ -1,6 +1,6 @@
 # Kalman Smoothing: Advanced Techniques in Algorithmic Trading
 
-Kalman Smoothing is an advanced statistical method used in various fields, including algorithmic trading. It builds upon the Kalman Filter, which is a recursive algorithm designed to estimate the state of a system over time. While the Kalman Filter is used for real-time estimation, Kalman Smoothing provides a way to refine these estimates by considering future observations as well. This document delves deep into the methodology, applications, advantages, and limitations of Kalman Smoothing in algorithmic trading.
+Kalman Smoothing is an advanced statistical method used in various fields, including [algorithmic trading](../a/algorithmic_trading.md). It builds upon the Kalman Filter, which is a recursive algorithm designed to estimate the state of a system over time. While the Kalman Filter is used for real-time estimation, Kalman Smoothing provides a way to refine these estimates by considering future observations as well. This document delves deep into the methodology, applications, advantages, and limitations of Kalman Smoothing in [algorithmic trading](../a/algorithmic_trading.md).
 
 ## What is Kalman Smoothing?
 
@@ -62,15 +62,15 @@ Kalman Smoothing can be particularly useful in enhancing trend-following and mea
 
 ### Volatility Estimation
 
-Accuracy in volatility estimation is crucial for risk management and option pricing. Kalman Smoothing improves volatility estimates by reducing the noise in the data, leading to better decision-making in trading and hedging strategies.
+Accuracy in [volatility estimation](../v/volatility_estimation.md) is crucial for [risk management](../r/risk_management.md) and option pricing. Kalman Smoothing improves volatility estimates by reducing the noise in the data, leading to better decision-making in trading and [hedging strategies](../h/hedging_strategies.md).
 
 ### Signal Extraction
 
-Extracting signals from noisy financial data is a common challenge in algorithmic trading. Kalman Smoothing aids in isolating these signals, making it easier to identify profitable trading opportunities based on underlying patterns.
+Extracting signals from noisy financial data is a common challenge in [algorithmic trading](../a/algorithmic_trading.md). Kalman Smoothing aids in isolating these signals, making it easier to identify profitable trading opportunities based on underlying patterns.
 
 ### Portfolio Optimization
 
-In portfolio management, accurate state estimation of multiple assets is necessary for optimal allocation. Kalman Smoothing helps in precisely estimating the expected returns and risks associated with different assets, thereby aiding in constructing an optimized portfolio.
+In [portfolio management](../p/portfolio_management.md), accurate state estimation of multiple assets is necessary for optimal allocation. Kalman Smoothing helps in precisely estimating the expected returns and risks associated with different assets, thereby aiding in constructing an optimized portfolio.
 
 ## Advantages of Kalman Smoothing
 
@@ -84,7 +84,7 @@ Financial data is notoriously noisy. Kalman Smoothing is designed to handle such
 
 ### Flexibility and Adaptability
 
-Kalman Smoothing can be adapted to various types of financial data and trading strategies, making it a versatile tool in the algorithmic trader’s toolkit.
+Kalman Smoothing can be adapted to various types of financial data and [trading strategies](../t/trading_strategies.md), making it a versatile tool in the algorithmic trader’s toolkit.
 
 ## Limitations of Kalman Smoothing
 
@@ -108,14 +108,14 @@ Renaissance Technologies, a pioneering quantitative hedge fund management firm, 
 
 ### Two Sigma
 
-Two Sigma, another leader in quantitative trading, leverages sophisticated data analysis techniques, including Kalman Smoothing, to inform its algorithmic trading strategies. [Two Sigma](https://www.twosigma.com/)
+Two Sigma, another leader in [quantitative trading](../q/quantitative_trading.md), leverages sophisticated [data analysis techniques](../d/data_analysis_techniques.md), including Kalman Smoothing, to inform its [algorithmic trading](../a/algorithmic_trading.md) strategies. [Two Sigma](https://www.twosigma.com/)
 
 ### DE Shaw
 
-DE Shaw, one of the earliest adopters of algorithmic trading, employs advanced statistical methods, possibly including Kalman Smoothing, to manage its diverse portfolio of investment strategies. [DE Shaw](https://www.deshaw.com/)
+DE Shaw, one of the earliest adopters of [algorithmic trading](../a/algorithmic_trading.md), employs advanced statistical methods, possibly including Kalman Smoothing, to manage its diverse portfolio of investment strategies. [DE Shaw](https://www.deshaw.com/)
 
 ## Conclusion
 
-Kalman Smoothing offers a powerful method for refining state estimates in dynamic systems, making it highly applicable to algorithmic trading. While it comes with certain limitations, its advantages in accuracy, noise robustness, and flexibility make it a valuable tool for extracting meaningful signals from financial data.
+Kalman Smoothing offers a powerful method for refining state estimates in dynamic systems, making it highly applicable to [algorithmic trading](../a/algorithmic_trading.md). While it comes with certain limitations, its advantages in accuracy, noise robustness, and flexibility make it a valuable tool for extracting meaningful signals from financial data.
 
 Understanding and implementing Kalman Smoothing can provide trading firms with a competitive edge, enabling more precise estimation of trends, volatilities, and other key indicators that drive profitable trading decisions.

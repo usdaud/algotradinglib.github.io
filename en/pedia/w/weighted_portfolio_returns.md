@@ -1,10 +1,10 @@
 ## Weighted Portfolio Returns
 
-Weighted portfolio returns are a fundamental concept in finance and investment management. They represent the return on a portfolio constructed from various assets, where each asset's return contributes to the overall portfolio return in proportion to its weight in the portfolio. This methodology allows investors to evaluate the performance of a mixed investment strategy that involves different asset classes such as stocks, bonds, commodities, and other securities.
+[Weighted portfolio](../w/weighted_portfolio.md) returns are a fundamental concept in finance and investment management. They represent the return on a portfolio constructed from various assets, where each asset's return contributes to the overall portfolio return in proportion to its weight in the portfolio. This methodology allows investors to evaluate the performance of a mixed investment strategy that involves different asset classes such as stocks, bonds, commodities, and other securities.
 
 ### Components of Weighted Portfolio Returns
 
-Calculating weighted portfolio returns involves a few steps and considerations. The key components in the calculation include:
+Calculating [weighted portfolio](../w/weighted_portfolio.md) returns involves a few steps and considerations. The key components in the calculation include:
 
 1. **Individual Asset Returns**: The return on each asset within the portfolio over a given period.
 2. **Weights of Assets**: The proportion of the portfolio's total value that each asset represents, often expressed as a percentage.
@@ -40,7 +40,7 @@ So the portfolio's return is 5.9%.
 
 ### Importance of Weights and Diversification
 
-In portfolio management, the weights assigned to each asset are crucial as they reflect the investment strategy and risk tolerance of the investor. Proper diversification, by appropriately weighing different assets, can reduce the overall risk of the portfolio while seeking to achieve a desirable return. Diversification works on the principle that not all assets will perform well at the same time or under the same market conditions. By spreading investments across various types of assets, the impact of poor performance by a single asset on the overall portfolio is minimized.
+In [portfolio management](../p/portfolio_management.md), the weights assigned to each asset are crucial as they reflect the investment strategy and risk tolerance of the investor. Proper diversification, by appropriately weighing different assets, can reduce the overall risk of the portfolio while seeking to achieve a desirable return. Diversification works on the principle that not all assets will perform well at the same time or under the same market conditions. By spreading investments across various types of assets, the impact of poor performance by a single asset on the overall portfolio is minimized.
 
 ### Adjusting Weights
 
@@ -52,23 +52,23 @@ Some advanced techniques for adjusting weights include the use of linear program
 
 ### Risk and Return Trade-off
 
-A key aspect of weighted portfolio returns is understanding the trade-off between risk and return. Generally, higher returns come with higher risk, and vice versa. The objective of portfolio management is to achieve the highest possible return for a given level of risk or the lowest possible risk for a given return.
+A key aspect of [weighted portfolio](../w/weighted_portfolio.md) returns is understanding the trade-off between risk and return. Generally, higher returns come with higher risk, and vice versa. The objective of [portfolio management](../p/portfolio_management.md) is to achieve the highest possible return for a given level of risk or the lowest possible risk for a given return.
 
 ### Portfolio Performance Metrics
 
-Some common metrics used to evaluate portfolio performance include:
-- **Sharpe Ratio**: Measures the excess return per unit of risk, helping compare portfolios with different risk levels.
+Some common metrics used to evaluate [portfolio performance](../p/portfolio_performance.md) include:
+- **[Sharpe Ratio](../s/sharpe_ratio.md)**: Measures the excess return per unit of risk, helping compare portfolios with different risk levels.
 - **Alpha**: Indicates the performance of a portfolio relative to a benchmark index, showing whether the portfolio manager's decisions have added value.
 - **Beta**: Measures the portfolio's volatility relative to the market, helping assess its sensitivity to market movements.
 
 ### Applications in Algorithmic Trading
 
-Weighted portfolio returns are particularly relevant in algorithmic trading, where automated systems can manage and adjust complex portfolios in real time. These systems use quantitative models to forecast returns, optimize weights, and execute trades based on predetermined rules.
+[Weighted portfolio](../w/weighted_portfolio.md) returns are particularly relevant in [algorithmic trading](../a/algorithmic_trading.md), where automated systems can manage and adjust complex portfolios in real time. These systems use [quantitative models](../q/quantitative_models.md) to forecast returns, optimize weights, and execute trades based on predetermined rules.
 
 #### Example: QuantConnect
 
-QuantConnect is an example of a platform that provides tools for designing and backtesting algorithmic trading strategies, including portfolio management. The platform allows traders to use Python or C# to implement their strategies, optimize portfolio weights, and evaluate performance. For more information, you can visit their [website](https://www.quantconnect.com).
+QuantConnect is an example of a platform that provides tools for designing and [backtesting](../b/backtesting.md) [algorithmic trading](../a/algorithmic_trading.md) strategies, including [portfolio management](../p/portfolio_management.md). The platform allows traders to use Python or C# to implement their strategies, optimize portfolio weights, and evaluate performance. For more information, you can visit their [website](https://www.quantconnect.com).
 
 ### Conclusion
 
-Weighted portfolio returns serve as an essential tool for investors seeking to diversify their investments, balance risk and return, and systematically manage their portfolios. By understanding and applying the principles of weighted returns, investors can make more informed decisions, better navigate market complexities, and potentially enhance their long-term investment outcomes.
+[Weighted portfolio](../w/weighted_portfolio.md) returns serve as an essential tool for investors seeking to diversify their investments, balance risk and return, and systematically manage their portfolios. By understanding and applying the principles of weighted returns, investors can make more informed decisions, better navigate market complexities, and potentially enhance their long-term investment outcomes.

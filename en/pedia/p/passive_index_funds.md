@@ -48,15 +48,15 @@ While passive index funds can avoid underperformance risk, they also limit the p
 
 ## Role in Modern Portfolio Theory
 
-Modern Portfolio Theory (MPT), developed by Harry Markowitz, emphasizes the importance of diversification and the efficient frontier. Passive index funds fit well within MPT, as they provide diversified exposure to broad market indices with minimal costs.
+Modern Portfolio Theory (MPT), developed by Harry Markowitz, emphasizes the importance of diversification and the [efficient frontier](../e/efficient_frontier.md). Passive index funds fit well within MPT, as they provide diversified exposure to broad market indices with minimal costs.
 
 ### Efficient Market Hypothesis (EMH)
 
-The Efficient Market Hypothesis (EMH) states that financial markets are "informationally efficient," meaning current prices reflect all available information. If markets are efficient, then passive investing is a rational strategy because it’s difficult to consistently outperform the market through stock picking and market timing.
+The [Efficient Market Hypothesis](../e/efficient_market_hypothesis.md) (EMH) states that financial markets are "informationally efficient," meaning current prices reflect all available information. If markets are efficient, then passive investing is a rational strategy because it’s difficult to consistently outperform the market through stock picking and [market timing](../m/market_timing.md).
 
 ### Asset Allocation
 
-Asset allocation is the process of determining the proportion of each asset class in an investment portfolio. Passive index funds play a crucial role in asset allocation by providing broad market exposure to various asset classes, including domestic and international equities, bonds, and commodities.
+[Asset allocation](../a/asset_allocation.md) is the process of determining the proportion of each asset class in an investment portfolio. Passive index funds play a crucial role in [asset allocation](../a/asset_allocation.md) by providing broad market exposure to various asset classes, including domestic and international equities, bonds, and commodities.
 
 ## Popular Index Funds
 

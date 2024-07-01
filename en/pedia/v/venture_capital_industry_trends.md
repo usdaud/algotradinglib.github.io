@@ -60,7 +60,7 @@ Prominent diversity-focused VC funds include:
 ### 7. The Role of Technology in VC Operations
 
 #### Data-driven Decision Making
-VC firms are adopting data analytics and predictive modeling to enhance their investment strategies. These technological tools provide insights into market trends, competitive analysis, and performance metrics, enabling more informed decision-making and risk management.
+VC firms are adopting data analytics and [predictive modeling](../p/predictive_modeling.md) to enhance their investment strategies. These technological tools provide insights into market trends, competitive analysis, and [performance metrics](../p/performance_metrics.md), enabling more informed decision-making and [risk management](../r/risk_management.md).
 
 ### 8. The Impact of COVID-19
 

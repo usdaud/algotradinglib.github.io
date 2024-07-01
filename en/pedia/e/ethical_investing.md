@@ -16,7 +16,7 @@ There are several different approaches to ethical investing, each with its own f
 
 3. **ESG Integration**: ESG stands for Environmental, Social, and Governance. ESG integration refers to the systematic inclusion of ESG factors into financial analysis and investment decision-making. This approach aims to identify risks and opportunities that traditional financial analysis might overlook.
 
-4. **Thematic Investing**: This strategy targets specific themes or sectors that align with the investor’s values, such as clean technology, affordable housing, or gender diversity.
+4. **[Thematic Investing](../t/thematic_investing.md)**: This strategy targets specific themes or sectors that align with the investor’s values, such as clean technology, affordable housing, or gender diversity.
 
 5. **Impact Investing**: Impact investing goes a step further by explicitly aiming to generate measurable social or environmental impact alongside a financial return. This could involve investing in social enterprises, affordable healthcare, or education initiatives.
 

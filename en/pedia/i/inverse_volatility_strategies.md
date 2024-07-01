@@ -1,6 +1,6 @@
 # Inverse Volatility Strategies
 
-Inverse volatility strategies are a subset of trading methodologies within the broader field of algorithmic trading (algo-trading), which leverage the dynamics of market volatility to generate trading signals and manage risk. These strategies are primarily concerned with exploiting the inverse relationship between asset prices and their volatility measures. This inverse relationship suggests that when volatility is low, assets tend to appreciate or be stable, while high volatility is associated with depreciating or unstable assets.
+Inverse volatility strategies are a subset of trading methodologies within the broader field of [algorithmic trading](../a/algorithmic_trading.md) (algo-trading), which leverage the dynamics of market volatility to generate [trading signals](../t/trading_signals.md) and manage risk. These strategies are primarily concerned with exploiting the inverse relationship between asset prices and their volatility measures. This inverse relationship suggests that when volatility is low, assets tend to appreciate or be stable, while high volatility is associated with depreciating or unstable assets.
 
 ## Understanding Volatility
 
@@ -8,9 +8,9 @@ To deeply appreciate inverse volatility strategies, it is critical to understand
 
 ### Types of Volatility
 
-1. **Historical Volatility**: This measures how much the price of an asset has varied in the past.
+1. **[Historical Volatility](../h/historical_volatility.md)**: This measures how much the price of an asset has varied in the past.
 2. **Implied Volatility**: This is derived from the market price of a market-traded derivative (option), suggesting how much the market expects the price of the asset to fluctuate in the future.
-3. **Realized Volatility**: This is the actual volatility of an asset over a specific period, calculated using historical price data.
+3. **[Realized Volatility](../r/realized_volatility.md)**: This is the actual volatility of an asset over a specific period, calculated using historical price data.
 
 ## Mechanism of Inverse Volatility Strategies
 
@@ -21,24 +21,24 @@ Inverse volatility strategies operate on the principle that periods of high vola
 These strategies often use mathematical models to measure volatility levels and make trading decisions. Common approaches include:
 
 1. **GARCH (Generalized Autoregressive Conditional Heteroskedasticity) Models**: These models are used to predict future volatility based on past periods. 
-2. **Bollinger Bands**: A technical analysis tool that uses standard deviation to measure volatility and identify overbought or oversold conditions.
+2. **[Bollinger Bands](../b/bollinger_bands.md)**: A [technical analysis](../t/technical_analysis.md) tool that uses standard deviation to measure volatility and identify overbought or oversold conditions.
 3. **Moving Average Convergence Divergence (MACD)**: A trend-following momentum indicator that shows the relationship between two moving averages of a security’s price, used to identify changes in the strength, direction, momentum, and duration of a trend.
 
 ## Strategy Implementation
 
 ### Indicator Selection
 
-Choosing the right indicators is essential. For instance, Bollinger Bands are particularly useful for mean-reverting strategies, where the trader expects the asset price to revert to its mean.
+Choosing the right indicators is essential. For instance, [Bollinger Bands](../b/bollinger_bands.md) are particularly useful for mean-reverting strategies, where the trader expects the asset price to revert to its mean.
 
 ### Signal Generation
 
-Inverse volatility strategies generate trading signals based on pre-defined rules, often incorporating thresholds of volatility levels. For example:
+Inverse volatility strategies generate [trading signals](../t/trading_signals.md) based on pre-defined rules, often incorporating thresholds of volatility levels. For example:
 - **Buy Signal**: Generated when volatility crosses a high threshold.
 - **Sell Signal**: Generated when volatility crosses a low threshold.
 
 ### Risk Management
 
-Managing risk is intrinsic to the success of inverse volatility strategies. These strategies often incorporate stop-loss mechanisms, position sizing rules, and diversification to mitigate risk.
+Managing risk is intrinsic to the success of inverse volatility strategies. These strategies often incorporate stop-loss mechanisms, [position sizing](../p/position_sizing.md) rules, and diversification to mitigate risk.
 
 ## Real-World Applications
 
@@ -65,7 +65,7 @@ Hedge funds use sophisticated inverse volatility strategies to manage portfolios
 ### Disadvantages
 
 1. **Complexity**: These strategies require a high degree of mathematical and statistical expertise.
-2. **Market Risk**: During extreme market environments, such as flash crashes, these strategies could fail to perform as expected.
+2. **Market Risk**: During extreme market environments, such as [flash crashes](../f/flash_crashes.md), these strategies could fail to perform as expected.
 3. **Slippage and Transaction Costs**: Frequent trading based on volatility signals may lead to higher transaction costs and slippage.
 
 ## Future Trends
@@ -84,6 +84,6 @@ Regulative scrutiny around volatility products is expected to increase, necessit
 
 ## Conclusion
 
-Inverse volatility strategies stand out as a sophisticated approach within the algo-trading landscape. They offer a unique perspective on trading by leveraging the non-linear and often unpredictable nature of volatility. While there are inherent risks and complexities, the strategic application of these methods, underpinned by robust mathematical models and risk management protocols, can yield high returns and serve as a vital tool for both individual traders and institutional investors.
+Inverse volatility strategies stand out as a sophisticated approach within the algo-trading landscape. They offer a unique perspective on trading by leveraging the non-linear and often unpredictable nature of volatility. While there are inherent risks and complexities, the strategic application of these methods, underpinned by robust mathematical models and [risk management](../r/risk_management.md) protocols, can yield high returns and serve as a vital tool for both individual traders and institutional investors.
 
 By continuously evolving with advancements in AI, machine learning, and statistical modeling, inverse volatility strategies are poised to play an increasingly prominent role in the future of financial markets.

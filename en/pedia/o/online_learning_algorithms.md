@@ -2,13 +2,13 @@
 
 ### Introduction
 
-Online learning algorithms are a key component in the field of algorithmic trading, representing a class of machine learning algorithms that are especially well-suited to scenarios where data arrives in a sequential manner. Unlike batch learning algorithms, which train on a fixed dataset, online learning algorithms update the model incrementally as new data arrives. This makes them particularly useful in environments where data is continuously generated, such as stock markets. Online learning algorithms can provide more timely predictions and adapt to changing market conditions, which can be crucial for maintaining profitability in algorithmic trading. 
+Online learning algorithms are a key component in the field of [algorithmic trading](../a/algorithmic_trading.md), representing a class of machine learning algorithms that are especially well-suited to scenarios where data arrives in a sequential manner. Unlike batch learning algorithms, which train on a fixed dataset, online learning algorithms update the model incrementally as new data arrives. This makes them particularly useful in environments where data is continuously generated, such as stock markets. Online learning algorithms can provide more timely predictions and adapt to changing market conditions, which can be crucial for maintaining profitability in [algorithmic trading](../a/algorithmic_trading.md). 
 
 ### Types of Online Learning Algorithms
 
 #### Gradient Descent Methods
 
-One of the foundational techniques in online learning is the stochastic gradient descent (SGD) method. In contrast to the batch gradient descent, which uses the entire dataset to compute the gradient of the loss function, SGD updates the model parameters using only a single or a small subset of data points at each step. This allows the model to be updated in real-time, making it adaptable to new data as they arrive.
+One of the foundational techniques in online learning is the [stochastic gradient descent](../s/stochastic_gradient_descent.md) (SGD) method. In contrast to the batch gradient descent, which uses the entire dataset to compute the gradient of the loss function, SGD updates the model parameters using only a single or a small subset of data points at each step. This allows the model to be updated in real-time, making it adaptable to new data as they arrive.
 
 **Key Advantages**:
 - **Scalability**: Since SGD processes one data point at a time, it is far more memory efficient than batch methods.
@@ -42,11 +42,11 @@ Online learning algorithms are highly effective for predicting short-term stock 
 
 #### Portfolio Management
 
-Portfolio management is another area where online learning algorithms excel. The algorithms continuously assess the performance of various assets, enabling dynamic reallocation of resources for optimized returns.
+[Portfolio management](../p/portfolio_management.md) is another area where online learning algorithms excel. The algorithms continuously assess the performance of various assets, enabling dynamic reallocation of resources for optimized returns.
 
 **Case Study:**
 - **Company**: [Two Sigma](https://www.twosigma.com)
-- **Application**: This hedge fund leverages online learning algorithms for real-time portfolio optimization and asset management.
+- **Application**: This hedge fund leverages online learning algorithms for real-time [portfolio optimization](../p/portfolio_optimization.md) and asset management.
 
 #### High-Frequency Trading (HFT)
 
@@ -70,7 +70,7 @@ One of the challenges with online learning is ensuring that the data used for tr
 Concept drift refers to the change in the statistical properties of the target variable, necessitating continuous adaptation by the model.
 
 **Solution**:
-- **Adaptive Algorithms**: Employ adaptive algorithms like the passive-aggressive algorithm designed to handle non-stationarity.
+- **[Adaptive Algorithms](../a/adaptive_algorithms.md)**: Employ [adaptive algorithms](../a/adaptive_algorithms.md) like the passive-aggressive algorithm designed to handle non-stationarity.
 
 ### Future Trends
 
@@ -80,7 +80,7 @@ Reinforcement learning (RL) represents a compelling future direction for online 
 
 **Key Player**:
 - **Company**: [Sentient Technologies](https://www.sentient.ai)
-- **Application**: Uses a blend of online learning and reinforcement learning to develop advanced trading algorithms.
+- **Application**: Uses a blend of online learning and reinforcement learning to develop advanced [trading algorithms](../t/trading_algorithms.md).
 
 #### AI Regulation and Ethics
 
@@ -91,4 +91,4 @@ As online learning algorithms become more prevalent in financial markets, concer
 
 ### Conclusion
 
-Online learning algorithms represent a powerful tool in the arsenal of algorithmic traders, enabling real-time data analysis and model updates. Whether it's in predicting stock prices, managing portfolios, or executing high-frequency trades, these algorithms offer distinct advantages over traditional batch learning techniques. As the field evolves, integrating online learning with other advanced technologies like reinforcement learning promises to unlock even more sophisticated trading strategies. However, challenges related to data quality and concept drift must be addressed to maximize the efficacy of these algorithms. The future of online learning in algorithmic trading looks promising, but it will require careful navigation of ethical and regulatory landscapes.
+Online learning algorithms represent a powerful tool in the arsenal of algorithmic traders, enabling [real-time data analysis](../r/real-time_data_analysis.md) and model updates. Whether it's in predicting stock prices, managing portfolios, or executing high-frequency trades, these algorithms offer distinct advantages over traditional batch learning techniques. As the field evolves, integrating online learning with other advanced technologies like reinforcement learning promises to unlock even more sophisticated [trading strategies](../t/trading_strategies.md). However, challenges related to data quality and concept drift must be addressed to maximize the efficacy of these algorithms. The future of online learning in [algorithmic trading](../a/algorithmic_trading.md) looks promising, but it will require careful navigation of ethical and regulatory landscapes.

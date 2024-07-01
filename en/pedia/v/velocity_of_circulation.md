@@ -1,6 +1,6 @@
 # Velocity of Circulation
 
-The velocity of circulation in the context of finance and economics, particularly in algorithmic trading (often referred to as "algo trading"), is a concept that pertains to the speed at which money circulates within the economy. It is a significant metric that helps in understanding the fluidity and dynamism of economic transactions. In the realm of trading, especially algo trading, this concept can extend beyond just currency exchange to the overall turnover and speed at which trades are executed in the market.
+The velocity of circulation in the context of finance and economics, particularly in [algorithmic trading](../a/algorithmic_trading.md) (often referred to as "algo trading"), is a concept that pertains to the speed at which money circulates within the economy. It is a significant metric that helps in understanding the fluidity and dynamism of economic transactions. In the realm of trading, especially algo trading, this concept can extend beyond just currency exchange to the overall turnover and speed at which trades are executed in the market.
 
 ## Definitions and Conceptual Understanding
 
@@ -35,12 +35,12 @@ A significant sub-sector of algo trading is High-Frequency Trading, where the ve
 ### Example of Companies in HFT
 
 1. [Citadel Securities](https://www.citadelsecurities.com): A global market maker that engages in high-frequency trading.
-2. [Virtu Financial](https://www.virtu.com): Known for its extensive use of automated trading systems to execute trades in fractions of a second.
+2. [Virtu Financial](https://www.virtu.com): Known for its extensive use of [automated trading systems](../a/automated_trading_systems.md) to execute trades in fractions of a second.
 
 ### Impact on Market Dynamics
 
-1. **Liquidity Provision**: With higher velocity, algo traders contribute significantly to market liquidity.
-2. **Market Efficiency**: Increased trading velocity aids in price discovery, ensuring that asset prices reflect available information quickly.
+1. **[Liquidity Provision](../l/liquidity_provision.md)**: With higher velocity, algo traders contribute significantly to market liquidity.
+2. **[Market Efficiency](../m/market_efficiency.md)**: Increased trading velocity aids in price discovery, ensuring that asset prices reflect available information quickly.
 3. **Volatility**: There is a potential increase in market volatility due to the rapid execution and high volume of trades.
 
 ## Measurement and Analysis
@@ -48,7 +48,7 @@ A significant sub-sector of algo trading is High-Frequency Trading, where the ve
 ### Data Sources
 
 1. **Transaction Volumes**: Monitoring trading volumes on exchanges provides insights into trading velocity.
-2. **Turnover Ratios**: Calculating the turnover ratio for various assets can indicate how frequently assets are traded within a specific period.
+2. **[Turnover Ratios](../t/turnover_ratios.md)**: Calculating the turnover ratio for various assets can indicate how frequently assets are traded within a specific period.
 
 ### Analytical Approaches
 
@@ -59,7 +59,7 @@ A significant sub-sector of algo trading is High-Frequency Trading, where the ve
 
 ### Algorithms
 
-1. **Statistical Arbitrage**: Uses statistical methods to determine price discrepancies and execute trades at optimal times.
+1. **Statistical [Arbitrage](../a/arbitrage.md)**: Uses statistical methods to determine price discrepancies and execute trades at optimal times.
 2. **Machine Learning Models**: Predict future price movements based on historical data and execute trades with high precision.
 
 ### Infrastructure
@@ -79,10 +79,10 @@ Regulatory bodies across the globe, such as the SEC (Securities and Exchange Com
 ### Ethical Implications
 
 1. **Market Fairness**: There are ongoing debates about whether high-frequency trading creates an unfair advantage for technologically advanced firms.
-2. **Systemic Risk**: The rapid trading environment can potentially exacerbate market reactions, leading to systemic risks.
+2. **Systemic Risk**: The rapid [trading environment](../t/trading_environment.md) can potentially exacerbate market reactions, leading to systemic risks.
 
 ## Conclusion
 
-The velocity of circulation, whether in its economic context or within the scope of algorithmic trading, is a critical factor that influences market behavior and economic health. In the fast-paced world of algo trading, understanding and optimizing the velocity of trade executions and asset turnover is essential for maintaining competitiveness and ensuring market efficiency. With advancements in technology and analytics, firms can better harness this velocity, although they must navigate regulatory and ethical landscapes carefully.
+The velocity of circulation, whether in its economic context or within the scope of [algorithmic trading](../a/algorithmic_trading.md), is a critical factor that influences market behavior and economic health. In the fast-paced world of algo trading, understanding and optimizing the velocity of trade executions and [asset turnover](../a/asset_turnover.md) is essential for maintaining competitiveness and ensuring [market efficiency](../m/market_efficiency.md). With advancements in technology and analytics, firms can better harness this velocity, although they must navigate regulatory and ethical landscapes carefully.
 
 Understanding and optimizing the velocity of circulation can provide significant strategic advantages, but it requires continuous innovation and adherence to market regulations and ethical standards.

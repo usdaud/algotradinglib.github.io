@@ -32,7 +32,7 @@ EPS is a critical component in several valuation methods:
 
 1. **Price-to-Earnings Ratio (P/E Ratio)**: The P/E ratio is computed by dividing a company's current stock price by its EPS. It offers insight into how much investors are willing to pay per dollar of earnings, helping to gauge the relative value of stocks. A high P/E ratio may indicate expectations of future growth, while a low P/E ratio could suggest undervaluation or potential risk.
 
-2. **Earnings Yield**: This is the inverse of the P/E ratio and is calculated as EPS divided by the stock price. It represents the percentage of each dollar invested that was earned back in the form of profits.
+2. **[Earnings Yield](../e/earnings_yield.md)**: This is the inverse of the P/E ratio and is calculated as EPS divided by the stock price. It represents the percentage of each dollar invested that was earned back in the form of profits.
 
 3. **Price-to-Earnings Growth Ratio (PEG Ratio)**: This ratio adjusts the P/E ratio for the expected growth rate of earnings. It is calculated by dividing the P/E ratio by the annual EPS growth rate. A PEG ratio less than 1 may indicate a stock is undervalued given its expected growth.
 
@@ -48,7 +48,7 @@ Multiple factors can affect a company's EPS:
    
 2. **Cost Management**: Efficient management of operational costs, such as reducing overhead and improving production efficiency, can increase net income and EPS.
 
-3. **Share Buybacks**: When a company buys back its own shares, the total number of outstanding shares decreases. This can artificially inflate EPS by dividing net income among fewer shares.
+3. **[Share Buybacks](../s/share_buybacks.md)**: When a company buys back its own shares, the total number of outstanding shares decreases. This can artificially inflate EPS by dividing net income among fewer shares.
 
 4. **Issuance of New Shares**: Conversely, the issuance of additional shares can dilute the EPS by spreading the same amount of net income over a larger number of shares.
 
@@ -80,8 +80,8 @@ While EPS is a valuable measure, it has some limitations:
 
 2. **One-Time Items**: One-time gains or losses, such as the sale of assets or litigation settlements, can distort EPS and may not reflect the company's ongoing profitability.
 
-3. **Share Buybacks**: Companies can influence EPS through share buybacks, which reduce the number of outstanding shares and inflate EPS without an actual increase in profitability.
+3. **[Share Buybacks](../s/share_buybacks.md)**: Companies can influence EPS through [share buybacks](../s/share_buybacks.md), which reduce the number of outstanding shares and inflate EPS without an actual increase in profitability.
 
 ### Conclusion
 
-Earnings Per Share (EPS) is a fundamental metric in financial analysis, providing insight into a company's profitability on a per-share basis. While it is instrumental in valuation and comparative analysis, investors should complement EPS with other financial metrics and qualitative assessments to gain a comprehensive understanding of a company's financial health. As an aggregate measure, EPS must be analyzed in the context of broader market conditions, industry performance, and internal company dynamics to draw meaningful conclusions.
+Earnings Per Share (EPS) is a fundamental metric in financial analysis, providing insight into a company's profitability on a per-share basis. While it is instrumental in valuation and [comparative analysis](../c/comparative_analysis.md), investors should complement EPS with other financial metrics and qualitative assessments to gain a comprehensive understanding of a company's financial health. As an aggregate measure, EPS must be analyzed in the context of broader market conditions, industry performance, and internal company dynamics to draw meaningful conclusions.

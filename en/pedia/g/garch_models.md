@@ -1,6 +1,6 @@
 ### Introduction to GARCH Models
 
-GARCH (Generalized Autoregressive Conditional Heteroskedasticity) models are a class of econometric models used to estimate the volatility of financial time series. Developed by Tim Bollerslev in 1986, GARCH models are an extension of Robert Engle's Autoregressive Conditional Heteroskedasticity (ARCH) model introduced in 1982. GARCH models are widely used in the fields of finance and economics to model time series data exhibiting volatility clustering—a phenomenon where periods of high volatility tend to cluster together, followed by periods of relative calm.
+GARCH (Generalized Autoregressive Conditional Heteroskedasticity) models are a class of econometric models used to estimate the volatility of [financial time series](../f/financial_time_series.md). Developed by Tim Bollerslev in 1986, GARCH models are an extension of Robert Engle's Autoregressive Conditional Heteroskedasticity (ARCH) model introduced in 1982. GARCH models are widely used in the fields of finance and economics to model time series data exhibiting [volatility clustering](../v/volatility_clustering.md)—a phenomenon where periods of high volatility tend to cluster together, followed by periods of relative calm.
 
 ### Theoretical Foundation of GARCH Models
 
@@ -35,7 +35,7 @@ Where:
 
 ### Parameter Estimation
 
-The parameters of a GARCH model can be estimated using Maximum Likelihood Estimation (MLE). The likelihood function for a GARCH model is formed based on the assumption that the error terms follow a particular distribution, typically normal or Student's t-distribution. The log-likelihood function is then maximized to obtain the estimates of the model parameters.
+The parameters of a GARCH model can be estimated using [Maximum Likelihood Estimation](../m/maximum_likelihood_estimation.md) (MLE). The likelihood function for a GARCH model is formed based on the assumption that the error terms follow a particular distribution, typically normal or Student's t-distribution. The log-likelihood function is then maximized to obtain the estimates of the model parameters.
 
 ### Model Selection
 
@@ -45,7 +45,7 @@ Selecting the appropriate order of a GARCH(p, q) model involves determining the 
 
 #### Financial Risk Management
 
-GARCH models are extensively used in financial risk management to estimate Value at Risk (VaR) and Expected Shortfall (ES). By modeling the conditional variance of asset returns, GARCH models provide a more accurate measure of the risk associated with holding a financial position.
+GARCH models are extensively used in [financial risk management](../f/financial_risk_management.md) to estimate Value at Risk (VaR) and Expected Shortfall (ES). By modeling the conditional variance of asset returns, GARCH models provide a more accurate measure of the risk associated with holding a financial position.
 
 #### Derivatives Pricing
 
@@ -57,7 +57,7 @@ Portfolio managers use GARCH models to forecast the volatility of asset returns,
 
 #### Algorithmic Trading
 
-Algorithmic trading strategies often rely on accurate volatility forecasts to make trading decisions. GARCH models provide these forecasts, enabling traders to develop strategies that exploit periods of high or low volatility for profit.
+[Algorithmic trading](../a/algorithmic_trading.md) strategies often rely on accurate volatility forecasts to make trading decisions. GARCH models provide these forecasts, enabling traders to develop strategies that exploit periods of high or low volatility for profit.
 
 ### Extensions of GARCH Models
 
@@ -67,7 +67,7 @@ The EGARCH model, proposed by Nelson (1991), addresses the issue of non-negativi
 
 #### GJR-GARCH
 
-The GJR-GARCH model, named after Glosten, Jagannathan, and Runkle (1993), introduces an additional term to capture asymmetries in the impact of positive and negative shocks on volatility. This model is particularly useful for modeling financial time series where negative shocks tend to increase volatility more than positive shocks.
+The GJR-GARCH model, named after Glosten, Jagannathan, and Runkle (1993), introduces an additional term to capture asymmetries in the impact of positive and negative shocks on volatility. This model is particularly useful for modeling [financial time series](../f/financial_time_series.md) where negative shocks tend to increase volatility more than positive shocks.
 
 #### IGARCH (Integrated GARCH)
 
@@ -79,7 +79,7 @@ The TARCH model, also known as the Threshold ARCH model, introduces threshold ef
 
 ### Practical Implementation
 
-GARCH models can be implemented in various software environments, including R, Python, and MATLAB. Libraries such as `rugarch` in R and `arch` in Python provide comprehensive tools for fitting GARCH models to financial time series data.
+GARCH models can be implemented in various software environments, including R, Python, and MATLAB. Libraries such as `rugarch` in R and `arch` in Python provide comprehensive tools for fitting GARCH models to [financial time series](../f/financial_time_series.md) data.
 
 #### Example in Python
 
@@ -102,5 +102,5 @@ print(fit.summary())
 
 ### Conclusion
 
-GARCH models have become a fundamental tool in the analysis of financial time series, providing valuable insights into the dynamics of volatility. Their flexibility and ability to capture volatility clustering make them indispensable in various applications, from risk management to algorithmic trading. As financial markets continue to evolve, GARCH models will remain a critical component of econometric analysis, helping practitioners navigate the complexities of financial volatility.
+GARCH models have become a fundamental tool in the analysis of [financial time series](../f/financial_time_series.md), providing valuable insights into the dynamics of volatility. Their flexibility and ability to capture [volatility clustering](../v/volatility_clustering.md) make them indispensable in various applications, from [risk management](../r/risk_management.md) to [algorithmic trading](../a/algorithmic_trading.md). As financial markets continue to evolve, GARCH models will remain a critical component of econometric analysis, helping practitioners navigate the complexities of financial volatility.
 

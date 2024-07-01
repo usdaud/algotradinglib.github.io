@@ -1,13 +1,13 @@
 ## Systematic Risk
 
-Systematic risk, also known as market risk or undiversifiable risk, is the inherent risk associated with the entire market or market segment. Unlike unsystematic risk, which affects a specific company or industry, systematic risk impacts all investments across various sectors and cannot be mitigated through diversification alone. Investors typically face systematic risk due to macroeconomic factors such as changes in interest rates, inflation, geopolitical events, or recessions. This type of risk is fundamental to the financial markets, and its management is crucial for maintaining portfolio stability and achieving long-term investment goals.
+Systematic risk, also known as market risk or undiversifiable risk, is the inherent risk associated with the entire market or market segment. Unlike unsystematic risk, which affects a specific company or industry, systematic risk impacts all investments across various sectors and cannot be mitigated through diversification alone. Investors typically face systematic risk due to macroeconomic factors such as changes in interest rates, inflation, [geopolitical events](../g/geopolitical_events.md), or recessions. This type of risk is fundamental to the financial markets, and its management is crucial for maintaining portfolio stability and achieving long-term investment goals.
 
 ### Key Characteristics of Systematic Risk
 
 1. **Broad Impact**: Systematic risk affects the overall market rather than a single stock or industry. For instance, a significant change in inflation can impact the entire economy.
-2. **Non-diversifiable**: Unlike specific company risks, systematic risk cannot be avoided through diversification. It requires different risk management strategies.
+2. **Non-diversifiable**: Unlike specific company risks, systematic risk cannot be avoided through diversification. It requires different [risk management](../r/risk_management.md) strategies.
 3. **Macro Factors**: Systematic risk arises from large-scale economic events, such as changes in fiscal policy, political instability, or natural disasters.
-4. **Market Correlation**: Investments tend to move in tandem under systematic risk conditions. For example, during a financial crisis, most asset classes may exhibit correlated declines.
+4. **[Market Correlation](../m/market_correlation.md)**: Investments tend to move in tandem under systematic risk conditions. For example, during a financial crisis, most asset classes may exhibit correlated declines.
 
 ### Sources of Systematic Risk
 
@@ -30,9 +30,9 @@ To quantify systematic risk, financial professionals often use metrics like beta
 
 Although it cannot be entirely eliminated, several strategies can be employed to manage systematic risk:
 
-1. **Asset Allocation**: Diversifying investments across various asset classes (e.g., stocks, bonds, real estate, commodities) can help reduce exposure to systematic risk.
+1. **[Asset Allocation](../a/asset_allocation.md)**: Diversifying investments across various asset classes (e.g., stocks, bonds, real estate, commodities) can help reduce exposure to systematic risk.
 2. **Hedging**: Using financial instruments such as options, futures, or swap contracts to offset potential losses can help manage systematic risk.
-3. **Global Diversification**: Investing in international markets can help mitigate the impact of country-specific systematic risks.
+3. **[Global Diversification](../g/global_diversification.md)**: Investing in international markets can help mitigate the impact of country-specific systematic risks.
 4. **Long-term View**: Adopting a long-term investment horizon can help weather short-term market volatility associated with systematic risk.
 
 ### Case Studies and Practical Applications
@@ -59,4 +59,4 @@ For further insights and resources related to systematic risk, several organizat
 
 Understanding and managing systematic risk is essential for any serious investor or financial professional. By recognizing the broad and unavoidable nature of this risk, developing appropriate strategies, and utilizing available resources, investors can better prepare for market uncertainties and work towards achieving stable, long-term investment outcomes. 
 
-Systematic risk is an intrinsic part of market activities, stemming from the interconnectedness of economies and the complex interplay of macroeconomic factors. Navigating this landscape requires a blend of analytical insight, proactive risk management, and strategic diversification, ensuring that portfolios remain robust even in the face of widespread market disruptions.
+Systematic risk is an intrinsic part of market activities, stemming from the interconnectedness of economies and the complex interplay of macroeconomic factors. Navigating this landscape requires a blend of analytical insight, proactive [risk management](../r/risk_management.md), and strategic diversification, ensuring that portfolios remain robust even in the face of widespread market disruptions.

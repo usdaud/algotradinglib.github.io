@@ -1,6 +1,6 @@
 # Market Breadth Indicators
 
-Market breadth indicators are a crucial set of tools used by traders and analysts to gauge the overall health and direction of the stock market. These indicators provide a comprehensive overview of the internal strength or weakness of the market, rather than focusing on the performance of individual stocks. By analyzing the number of advancing and declining stocks, new highs and lows, and overall market participation, market breadth indicators help traders understand whether a bull or bear market is likely to continue or reverse. This document will cover the most common market breadth indicators, their methodologies, and their applications in algorithmic trading.
+Market breadth indicators are a crucial set of tools used by traders and analysts to gauge the overall health and direction of the stock market. These indicators provide a comprehensive overview of the internal strength or weakness of the market, rather than focusing on the performance of individual stocks. By analyzing the number of advancing and declining stocks, new highs and lows, and overall market participation, market breadth indicators help traders understand whether a bull or bear market is likely to continue or reverse. This document will cover the most common market breadth indicators, their methodologies, and their applications in [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Advancers vs. Decliners
 
@@ -17,7 +17,7 @@ On a given trading day:
 - **Negative Breadth**: When the number of declining stocks exceeds the number of advancing stocks, indicating a potentially bearish market.
 
 ### Applications in Algorithmic Trading
-Algorithmic trading systems can use advancers vs. decliners data to filter stocks in bullish or bearish conditions, aiding in trend-following strategies or contrarian approaches.
+[Algorithmic trading](../a/algorithmic_trading.md) systems can use advancers vs. decliners data to filter stocks in bullish or bearish conditions, aiding in trend-following strategies or contrarian approaches.
 
 ## Advance/Decline Line (A/D Line)
 
@@ -50,7 +50,7 @@ The McClellan Oscillator is a market breadth indicator calculated using exponent
 - **Cross of Zero Line**: May signal trend reversals.
 
 ### Applications in Algorithmic Trading
-The McClellan Oscillator is valuable for identifying the short-term strength and direction of market movements, often used in mean reversion algorithms.
+The McClellan Oscillator is valuable for identifying the short-term strength and direction of market movements, often used in [mean reversion](../m/mean_reversion.md) algorithms.
 
 ## New Highs/New Lows Indicator
 
@@ -81,7 +81,7 @@ TRIN, also known as the Arms Index, measures the relationship between the number
 - **TRIN < 1**: Indicates bullish conditions (advancing stocks are receiving more volume).
 
 ### Applications in Algorithmic Trading
-TRIN can be integrated into trading algorithms to adjust position sizing, or to confirm market trends and potential reversals.
+TRIN can be integrated into [trading algorithms](../t/trading_algorithms.md) to adjust [position sizing](../p/position_sizing.md), or to confirm market trends and potential reversals.
 
 ## Bullish Percent Index (BPI)
 
@@ -96,15 +96,15 @@ The Bullish Percent Index (BPI) measures the percentage of stocks in a given ind
 - **BPI < 30%**: Indicates an oversold market condition; potential for a rally.
 
 ### Applications in Algorithmic Trading
-Traders use BPI to identify overbought or oversold conditions, ideal for contrarian trading strategies or timing market entry and exits.
+Traders use BPI to identify overbought or oversold conditions, ideal for [contrarian trading strategies](../c/contrarian_trading_strategies.md) or timing market entry and exits.
 
 ## Put/Call Ratio
 
 ### Definition
-The Put/Call Ratio compares the volume of put options traded to the volume of call options traded.
+The Put/Call Ratio compares the volume of [put options](../p/put_options.md) traded to the volume of call options traded.
 
 ### Calculation
-\[ \text{Put/Call Ratio} = \frac{\text{Volume of Put Options}}{\text{Volume of Call Options}} \]
+\[ \text{Put/Call Ratio} = \frac{\text{Volume of [Put Options](../p/put_options.md)}}{\text{Volume of Call Options}} \]
 
 ### Interpretation
 - **High Ratio (>1)**: Indicates bearish sentiment as more puts are traded.
@@ -126,7 +126,7 @@ The Cumulative Volume Index (CVI) tracks the cumulative volume flows by comparin
 - **Negative CVI Direction**: Indicates money outflow from the market.
 
 ### Applications in Algorithmic Trading
-CVI is used to confirm the strength of a trend and validate entries/exits based on volume flow analysis.
+CVI is used to confirm the strength of a trend and validate entries/exits based on [volume flow analysis](../v/volume_flow_analysis.md).
 
 ## S&P 500 Breadth Indicators
 
@@ -187,9 +187,9 @@ Traders can use the Breadth Thrust Indicator to detect significant market shifts
 
 ## Conclusion
 
-Market breadth indicators are invaluable tools for understanding the internal dynamics of the stock market, enabling traders to assess the overall market sentiment and strength. Their integration into algorithmic trading systems allows for more nuanced and informed trading decisions, enhancing the effectiveness of various trading strategies.
+Market breadth indicators are invaluable tools for understanding the internal dynamics of the stock market, enabling traders to assess the overall market sentiment and strength. Their integration into [algorithmic trading](../a/algorithmic_trading.md) systems allows for more nuanced and informed trading decisions, enhancing the effectiveness of various [trading strategies](../t/trading_strategies.md).
 
-For more information on companies providing market breadth indicators and algorithmic trading solutions, consider exploring:
+For more information on companies providing market breadth indicators and [algorithmic trading](../a/algorithmic_trading.md) solutions, consider exploring:
 - [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 - [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)
 - [TradeStation](https://www.tradestation.com/)

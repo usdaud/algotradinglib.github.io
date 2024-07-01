@@ -1,6 +1,6 @@
 # Technical Indicators
 
-Technical indicators are mathematical calculations based on the price, volume, or open interest of a security or contract. By analyzing historical data and identifying patterns, these indicators help traders forecast future price movements, thus aiding in making informed trading decisions. They form the backbone of technical analysis in trading, providing the quantitative foundation for traders to devise their strategies.
+Technical indicators are mathematical calculations based on the price, volume, or open interest of a security or contract. By analyzing historical data and identifying patterns, these indicators help traders forecast future price movements, thus aiding in making informed trading decisions. They form the backbone of [technical analysis](../t/technical_analysis.md) in trading, providing the quantitative foundation for traders to devise their strategies.
 
 ## Moving Averages
 
@@ -16,7 +16,7 @@ The Exponential Moving Average gives more weight to recent prices, unlike the SM
 RSI measures the speed and change of price movements. It oscillates between 0 and 100, and traditionally, a reading above 70 suggests an overbought condition, while a reading below 30 indicates an oversold condition.
 
 ### Stochastic Oscillator
-The Stochastic Oscillator measures the level of the close relative to the high-low range over a given period. It consists of two lines: %K (the primary line) and %D (the moving average of %K). It is useful for spotting overbought and oversold conditions.
+The [Stochastic Oscillator](../s/stochastic_oscillator.md) measures the level of the close relative to the high-low range over a given period. It consists of two lines: %K (the primary line) and %D (the moving average of %K). It is useful for spotting overbought and oversold conditions.
 
 ## Volume Indicators
 
@@ -29,27 +29,27 @@ This indicator uses both price and volume to assess the cumulative flow of money
 ## Volatility Indicators
 
 ### Bollinger Bands
-Bollinger Bands consist of a middle band (SMA) and two outer bands (standard deviations away from the SMA). They expand and contract based on market volatility. Prices tend to move towards the middle band, making it a useful indicator for identifying overbought and oversold conditions.
+[Bollinger Bands](../b/bollinger_bands.md) consist of a middle band (SMA) and two outer bands (standard deviations away from the SMA). They expand and contract based on market volatility. Prices tend to move towards the middle band, making it a useful indicator for identifying overbought and oversold conditions.
 
 ### Average True Range (ATR)
-ATR measures market volatility by decomposing the entire range of a price for a given period. It is widely used to gauge the market's volatility and helps in setting stop-loss orders.
+ATR measures market volatility by decomposing the entire range of a price for a given period. It is widely used to gauge the market's volatility and helps in setting [stop-loss orders](../s/stop-loss_orders.md).
 
 ## Trend Indicators
 
 ### Moving Average Convergence Divergence (MACD)
-MACD is a trend-following indicator that shows the relationship between two moving averages of prices. The MACD line is calculated by subtracting the 26-period EMA from the 12-period EMA, and the signal line is a 9-period EMA of the MACD line. It is useful for identifying moving average crossovers.
+MACD is a trend-following indicator that shows the relationship between two moving averages of prices. The MACD line is calculated by subtracting the 26-period EMA from the 12-period EMA, and the signal line is a 9-period EMA of the MACD line. It is useful for identifying [moving average crossovers](../m/moving_average_crossovers.md).
 
 ### Parabolic SAR
-The Parabolic SAR provides potential reversal points as it moves with higher highs in an uptrend and lower lows in a downtrend. It is plotted as dots above or below the price and helps to set trailing stop losses.
+The [Parabolic SAR](../p/parabolic_sar.md) provides potential reversal points as it moves with higher highs in an uptrend and lower lows in a downtrend. It is plotted as dots above or below the price and helps to set trailing stop losses.
 
 ## Composite Indicators
 
 ### Ichimoku Cloud
-The Ichimoku Cloud, or Ichimoku Kinko Hyo, consists of five lines that provide more data points than the standard candlestick charts. It offers insight into the potential direction, support, resistance levels, and momentum.
+The [Ichimoku Cloud](../i/ichimoku_cloud.md), or Ichimoku Kinko Hyo, consists of five lines that provide more data points than the standard candlestick charts. It offers insight into the potential direction, support, resistance levels, and momentum.
 
 ### Chaikin Money Flow (CMF)
 CMF uses the sum of recent changes in price multiplied by volume to assess money flow over a specific time. It oscillates between -1 and 1, and zero acts as the midpoint. Positive CMF values indicate buying pressure, while negative values indicate selling pressure.
 
 ## Conclusion
 
-Technical indicators play a crucial role in algorithmic trading. They offer quantitative data that can be systematically applied in trading strategies, helping traders to make more informed decisions. By understanding and effectively utilizing these indicators, traders can enhance their ability to predict market movements and improve their trading outcomes.
+Technical indicators play a crucial role in [algorithmic trading](../a/algorithmic_trading.md). They offer quantitative data that can be systematically applied in [trading strategies](../t/trading_strategies.md), helping traders to make more informed decisions. By understanding and effectively utilizing these indicators, traders can enhance their ability to predict market movements and improve their trading outcomes.

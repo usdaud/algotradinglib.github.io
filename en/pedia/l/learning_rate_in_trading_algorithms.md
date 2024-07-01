@@ -1,6 +1,6 @@
 # Learning Rate in Trading Algorithms
 
-In the context of algorithmic trading, the term "Learning Rate" often refers to the parameter that controls the speed at which a machine learning model updates its weights with respect to the loss gradient when optimizing its performance. The concept is crucial in various forms of machine learning and deep learning, including those employed in trading strategies.
+In the context of [algorithmic trading](../a/algorithmic_trading.md), the term "Learning Rate" often refers to the parameter that controls the speed at which a machine learning model updates its weights with respect to the loss gradient when optimizing its performance. The concept is crucial in various forms of machine learning and deep learning, including those employed in [trading strategies](../t/trading_strategies.md).
 
 ## Understanding Learning Rate
 
@@ -16,7 +16,7 @@ Here, \( \theta_t \) represents the parameters at iteration \( t \), \( \nabla_\
 
 ### Importance in Trading Algorithms
 
-In trading algorithms, the learning rate is critical as it directly impacts the convergence behavior of the model. Selecting an appropriate learning rate is essential for:
+In [trading algorithms](../t/trading_algorithms.md), the learning rate is critical as it directly impacts the convergence behavior of the model. Selecting an appropriate learning rate is essential for:
 
 - Ensuring that the model converges to a minimum (preferably the global minimum) of the loss function.
 - Avoiding overshooting the minimum (when the learning rate is too high) or slow convergence (when the learning rate is too low).
@@ -47,11 +47,11 @@ Adaptive optimization algorithms adjust the learning rate for each parameter ind
 
 ## Practical Considerations
 
-When implementing learning rates in trading algorithms, it is essential to consider practical aspects such as:
+When implementing learning rates in [trading algorithms](../t/trading_algorithms.md), it is essential to consider practical aspects such as:
 
 ### Backtesting and Validation
 
-Before deploying a trading algorithm in real-world markets, it is crucial to backtest it on historical data to ensure its robustness. During backtesting, various learning rates should be tested to determine the one that offers the best balance between training time and performance. Validation on a separate data set can further ensure that the model generalizes well.
+Before deploying a trading algorithm in real-world markets, it is crucial to backtest it on historical data to ensure its robustness. During [backtesting](../b/backtesting.md), various learning rates should be tested to determine the one that offers the best balance between training time and performance. Validation on a separate data set can further ensure that the model generalizes well.
 
 ### Risk Management
 
@@ -59,7 +59,7 @@ The impact of learning rate on risk-adjusted returns should also be assessed. In
 
 ## Tools and Libraries
 
-Several tools and libraries support the implementation and tuning of learning rates in trading algorithms:
+Several tools and libraries support the implementation and tuning of learning rates in [trading algorithms](../t/trading_algorithms.md):
 
 - **TensorFlow**: An open-source machine learning framework that supports various learning rate schedules and adaptive optimizers. [TensorFlow Website](https://www.tensorflow.org)
 - **PyTorch**: Another popular machine learning framework with extensive support for customizing learning rates. [PyTorch Website](https://pytorch.org)
@@ -67,4 +67,4 @@ Several tools and libraries support the implementation and tuning of learning ra
 
 ## Conclusion
 
-The learning rate is a pivotal hyperparameter in the training of machine learning models used in trading algorithms. Choosing and adjusting the learning rate appropriately can significantly influence the success of the trading strategy. By leveraging techniques such as learning rate schedules and adaptive optimizers, as well as thorough backtesting and validation, practitioners can optimize their models for better performance in ever-changing financial markets.
+The learning rate is a pivotal hyperparameter in the training of machine learning models used in [trading algorithms](../t/trading_algorithms.md). Choosing and adjusting the learning rate appropriately can significantly influence the success of the trading strategy. By leveraging techniques such as learning rate schedules and adaptive optimizers, as well as thorough [backtesting](../b/backtesting.md) and validation, practitioners can optimize their models for better performance in ever-changing financial markets.

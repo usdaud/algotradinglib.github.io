@@ -25,21 +25,21 @@ A classic strategy involving borrowing at low or negative interest rates in one 
 
 ### 2. **Yield Curve Strategies**
 
-These approaches exploit different points along the yield curve. The yield curve plots interest rates at various maturities:
+These approaches exploit different points along the [yield curve](../y/yield_curve.md). The [yield curve](../y/yield_curve.md) plots interest rates at various maturities:
 
 - **Flattener**: This strategy profits if long-term yields fall faster than short-term yields.
 - **Steepener**: This profits if the gap between short-term and long-term yields widens.
 
 ### 3. **Duration Management**
 
-In a negative yield context, managing portfolio duration becomes crucial:
+In a negative yield context, managing [portfolio duration](../p/portfolio_duration.md) becomes crucial:
 
 - **Short Duration**: Reducing interest rate exposure to mitigate losses from bond prices rising.
 - **Long Duration**: Increasing exposure to long-term bonds if further monetary easing is expected.
 
 ### 4. **Currency Hedging**
 
-Given the global nature of bond markets, strategies often include hedging currency risk, especially when engaging in carry trades or international investments.
+Given the global nature of bond markets, strategies often include [hedging currency risk](../h/hedging_currency_risk.md), especially when engaging in carry trades or international investments.
 
 ### 5. **Inflation-Indexed Bonds**
 
@@ -47,7 +47,7 @@ These bonds provide returns adjusted for inflation, potentially offering better 
 
 ### 6. **Options and Futures**: 
 
-Financial derivatives allow traders to speculate on interest rates or hedge existing bond positions effectively. By leveraging options or futures, traders can potentially profit from movements even in a negative yield scenario.
+Financial [derivatives](../d/derivatives.md) allow traders to speculate on interest rates or hedge existing bond positions effectively. By leveraging options or futures, traders can potentially profit from movements even in a negative yield scenario.
 
 ## Real-World Examples
 
@@ -89,7 +89,7 @@ Central banks and governments sometimes implement unexpected regulatory changes 
 
 Negative yield strategies represent a sophisticated approach to bond investment and trading, requiring meticulous analysis and adaptable methodologies to navigate a challenging market landscape. By understanding and implementing these strategies, investors can potentially find opportunities even in scenarios where traditional returns are elusive or nonexistent.
 
-For more insights on advanced trading strategies, consider exploring resources from leading financial institutions and trading platforms:
+For more insights on advanced [trading strategies](../t/trading_strategies.md), consider exploring resources from leading financial institutions and trading platforms:
 
 - Goldman Sachs [Goldman Sachs - Negative Yield](https://www.goldmansachs.com/)
 - JPMorgan Chase [JPMorgan Chase](https://www.jpmorganchase.com/)

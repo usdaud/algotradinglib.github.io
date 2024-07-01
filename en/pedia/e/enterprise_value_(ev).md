@@ -1,6 +1,6 @@
 # Enterprise Value (EV)
 
-Enterprise Value (EV) represents the total value of a company, factoring in both its equity value and debt obligations, while subtracting any cash on hand. It provides a comprehensive measure of a company's overall valuation, unlike market capitalization which only accounts for the company’s equity value. This metric is highly regarded in the fields of corporate finance, investment banking, and equity research as it offers a more accurate picture of a company’s valuation, especially when comparing firms with different capital structures.
+Enterprise Value (EV) represents the total value of a company, factoring in both its equity value and debt obligations, while subtracting any cash on hand. It provides a comprehensive measure of a company's overall valuation, unlike market capitalization which only accounts for the company’s equity value. This metric is highly regarded in the fields of corporate finance, investment banking, and [equity research](../e/equity_research.md) as it offers a more accurate picture of a company’s valuation, especially when comparing firms with different capital structures.
 
 ## Components of Enterprise Value
 
@@ -34,7 +34,7 @@ EV is particularly useful for comparing companies with different capital structu
 
 ### Valuation Ratios
 
-Enterprise Value is an essential component in several financial ratios used for company valuation, including EV/EBITDA and EV/Sales. These ratios are widely used to assess a company's financial health and compare it with its peers.
+Enterprise Value is an essential component in several [financial ratios](../f/financial_ratios.md) used for company valuation, including EV/EBITDA and EV/Sales. These ratios are widely used to assess a company's financial health and compare it with its peers.
 
 #### EV/EBITDA
 

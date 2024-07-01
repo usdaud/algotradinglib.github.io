@@ -1,7 +1,7 @@
 # Market Segmentation Analysis
 
 ## Introduction to Market Segmentation
-Market segmentation is a marketing strategy that involves dividing a broad target market into subsets of consumers who have common needs, preferences, and characteristics. Each segment is then targeted with specific marketing mixes designed to cater to their particular requirements. This approach enables businesses to efficiently allocate resources, enhance risk management, and achieve better customer satisfaction by addressing the unique demands of each segment.
+Market segmentation is a marketing strategy that involves dividing a broad target market into subsets of consumers who have common needs, preferences, and characteristics. Each segment is then targeted with specific marketing mixes designed to cater to their particular requirements. This approach enables businesses to efficiently allocate resources, enhance [risk management](../r/risk_management.md), and achieve better customer satisfaction by addressing the unique demands of each segment.
 
 ## Types of Market Segmentation
 Market segmentation can be broadly categorized into four main types based on different criteria:
@@ -40,7 +40,7 @@ Understanding and implementing market segmentation can yield several benefits fo
 
 1. **Enhanced Product Development**: Ability to develop products that are more likely to meet the specific needs of each segment.
 2. **Better Allocation of Resources**: More efficient use of marketing budget by focusing on high-potential segments.
-3. **Risk Management**: Diversification across multiple segments reduces risk.
+3. **[Risk Management](../r/risk_management.md)**: Diversification across multiple segments reduces risk.
 4. **Increase in Market Share**: By targeting specific niches, companies can grow their market share effectively.
 5. **Customer Retention**: Better satisfaction and engagement through personalized marketing.
 
@@ -72,11 +72,11 @@ Several tools and techniques can assist businesses in performing market segmenta
 - **Surveys and Questionnaires**: Gathering data directly from consumers.
 - **Sales Data Analysis**: Reviewing historical sales data for patterns.
 - **Focus Groups**: Conducting group discussions to gain deeper insights.
-- **Social Media Analytics**: Using social media data to understand consumer behavior.
+- **[Social Media Analytics](../s/social_media_analytics.md)**: Using social media data to understand consumer behavior.
 
 ### Statistical Methods
 - **Cluster Analysis**: Grouping consumers based on their similarities.
-- **Factor Analysis**: Identifying underlying relationships between variables.
+- **[Factor Analysis](../f/factor_analysis.md)**: Identifying underlying relationships between variables.
 - **Conjoint Analysis**: Understanding customer preferences by evaluating their trade-offs.
 
 ## Case Study: Companies Successfully Using Market Segmentation

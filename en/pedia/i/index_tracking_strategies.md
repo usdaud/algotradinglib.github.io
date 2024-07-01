@@ -13,7 +13,7 @@ There are several different approaches to index tracking, each with its own set 
 
 3. **Optimized Sampling**: This technique involves selecting a subset of index constituents that closely match the index's risk and return characteristics, often using sophisticated mathematical models to identify the optimal subset.
 
-4. **Synthetic Replication**: In this method, the fund uses financial derivatives, such as swaps, to mimic the performance of the index. This approach can be beneficial for gaining exposure to hard-to-reach markets.
+4. **Synthetic Replication**: In this method, the fund uses financial [derivatives](../d/derivatives.md), such as swaps, to mimic the performance of the index. This approach can be beneficial for gaining exposure to hard-to-reach markets.
 
 ### Methodologies
 
@@ -24,7 +24,7 @@ Index tracking strategies rely on a range of methodologies to achieve their obje
 The full replication strategy ensures that the portfolio exactly mirrors the index. This method involves:
 
 - **Exact Match Portfolio Construction**: Buying and holding every security within the index, in the exact proportions dictated by the index.
-- **Dividend Reinvestment**: Ensuring dividends from index constituents are reinvested appropriately to maintain proportionality.
+- **[Dividend Reinvestment](../d/dividend_reinvestment.md)**: Ensuring dividends from index constituents are reinvested appropriately to maintain proportionality.
 - **Corporate Actions Management**: Handling stock splits, mergers, and acquisitions to maintain alignment with the index.
 
 The primary advantage of full replication is the minimal tracking error. However, it may incur high transaction costs due to frequent rebalancing.
@@ -35,18 +35,18 @@ For indices with many securities or where some securities are illiquid:
 
 - **Statistical Sampling**: Selecting a subset of securities that statistically represent the index's performance.
 - **Risk Factor Matching**: Ensuring the selected sample matches key risk factors of the index, such as sector distribution, market capitalization, and beta.
-- **Optimization Algorithms**: Using quantitative models to minimize tracking error by optimizing the selection process, which can involve linear programming, quadratic programming, or heuristic methods.
+- **Optimization Algorithms**: Using [quantitative models](../q/quantitative_models.md) to minimize tracking error by optimizing the selection process, which can involve linear programming, quadratic programming, or heuristic methods.
 
 Optimization helps reduce transaction costs and manage illiquid securities more effectively.
 
 #### Synthetic Replication
 
-Leveraging financial derivatives:
+Leveraging financial [derivatives](../d/derivatives.md):
 
 - **Total Return Swaps**: Agreements where one party pays the total return of the index (including dividends) in exchange for a regular payment, often linked to a floating interest rate.
-- **Futures Contracts and Options**: Using futures and options to gain exposure to the index performance without physically investing in the securities.
+- **[Futures Contracts](../f/futures_contracts.md) and Options**: Using futures and options to gain exposure to the index performance without physically investing in the securities.
 
-Synthetic replication can provide efficient market access and lower operational costs but entails counterparty risk.
+Synthetic replication can provide efficient market access and lower operational costs but entails [counterparty risk](../c/counterparty_risk.md).
 
 ### Advantages of Index Tracking Strategies
 
@@ -66,7 +66,7 @@ Synthetic replication can provide efficient market access and lower operational 
 
 3. **Lack of Flexibility**: In volatile markets, index funds are unable to make tactical adjustments to avoid losses from certain stocks or sectors.
 
-4. **Counterparty Risk**: Especially relevant for synthetic replication, this involves the risk that the other party in a financial derivative defaults.
+4. **[Counterparty Risk](../c/counterparty_risk.md)**: Especially relevant for synthetic replication, this involves the risk that the other party in a financial derivative defaults.
 
 ### Key Industry Players
 
@@ -82,4 +82,4 @@ Several companies are notable for their index tracking strategies. A few of the 
 
 Index tracking strategies provide a pragmatic approach for investors seeking to achieve market returns with lower costs and higher transparency. They offer substantial benefits, including broad diversification and historical performance advantages. However, investors should also be aware of the inherent risks, such as tracking error and market risk, to make informed investment decisions.
 
-These strategies continue to evolve with advancements in financial technology and risk management practices, promising more efficient and cost-effective solutions for investors. By understanding the different methodologies and their unique advantages and risks, investors can better navigate the complex landscape of index tracking to align their investments with their financial goals.
+These strategies continue to evolve with advancements in financial technology and [risk management](../r/risk_management.md) practices, promising more efficient and cost-effective solutions for investors. By understanding the different methodologies and their unique advantages and risks, investors can better navigate the complex landscape of index tracking to align their investments with their financial goals.

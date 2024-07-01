@@ -75,15 +75,15 @@ An ECM can effectively model the short-term dynamics and long-term equilibrium r
 Several software packages provide tools for estimating ECMs, including:
 
 - **R:** Packages such as `urca` and `ecm` support ECM estimation.
-- **EViews:** Offers comprehensive tools for time series analysis, including ECM. [EViews](http://www.eviews.com/)
+- **EViews:** Offers comprehensive tools for [time series analysis](../t/time_series_analysis.md), including ECM. [EViews](http://www.eviews.com/)
 - **Stata:** Commands like `vec` are available for ECM analysis. [Stata](https://www.stata.com/)
 
 ## Companies Using ECM
 
-Financial institutions like banks and investment firms extensively use ECMs for forecasting and risk management. Examples include:
+Financial institutions like banks and investment firms extensively use ECMs for forecasting and [risk management](../r/risk_management.md). Examples include:
 1. **Goldman Sachs:** Employs sophisticated econometric models, including ECMs, for economic forecasts and financial analysis. [Goldman Sachs](https://www.goldmansachs.com/)
 2. **JP Morgan:** Utilizes ECMs in their research division to understand market dynamics and economic linkages. [JP Morgan](https://www.jpmorganchase.com/)
 
 ## Conclusion
 
-Error Correction Models are powerful tools for understanding and modeling the dynamics of economic and financial time series data. By accommodating both short-term deviations and long-term equilibrium, ECMs offer a comprehensive approach to econometric analysis. The successful application of ECMs requires careful testing for cointegration, appropriate model specification, and rigorous validation. As financial markets and economic conditions continue to evolve, the use of ECMs in econometric modeling is likely to become even more prevalent, providing valuable insights into complex economic relationships.
+Error Correction Models are powerful tools for understanding and modeling the dynamics of economic and [financial time series](../f/financial_time_series.md) data. By accommodating both short-term deviations and long-term equilibrium, ECMs offer a comprehensive approach to econometric analysis. The successful application of ECMs requires careful testing for cointegration, appropriate model specification, and rigorous validation. As financial markets and economic conditions continue to evolve, the use of ECMs in econometric modeling is likely to become even more prevalent, providing valuable insights into complex economic relationships.

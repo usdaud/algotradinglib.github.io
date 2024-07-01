@@ -1,6 +1,6 @@
 # Security Valuation Techniques
 
-Security valuation is a fundamental aspect of investment and financial analysis. It involves determining the intrinsic value of a security, such as a stock, bond, or derivative, based on financial data and fundamental analysis. Understanding security valuation techniques is crucial for investors, analysts, and financial professionals to make informed investment decisions. This document delves into various security valuation techniques, exploring their methodologies, applications, advantages, and limitations.
+[Security valuation](../s/security_valuation.md) is a fundamental aspect of investment and financial analysis. It involves determining the intrinsic value of a security, such as a stock, bond, or derivative, based on financial data and [fundamental analysis](../f/fundamental_analysis.md). Understanding [security valuation](../s/security_valuation.md) techniques is crucial for investors, analysts, and financial professionals to make informed investment decisions. This document delves into various [security valuation](../s/security_valuation.md) techniques, exploring their methodologies, applications, advantages, and limitations.
 
 ## Common Techniques in Security Valuation
 ### 1. Discounted Cash Flow (DCF) Analysis
@@ -29,7 +29,7 @@ Security valuation is a fundamental aspect of investment and financial analysis.
 
 **Methodology**:
 - **Selecting Comparable Companies**: Identify companies in the same industry with similar size, growth, and operational characteristics.
-- **Gathering Financial Metrics**: Collect relevant financial ratios and metrics for the comparable companies.
+- **Gathering Financial Metrics**: Collect relevant [financial ratios](../f/financial_ratios.md) and metrics for the comparable companies.
 - **Applying Financial Metrics**: Apply the average or median financial metrics of the comparable companies to the target company to estimate its value.
 
 **Applications**: Frequently used for IPO valuation and mergers and acquisitions (M&A).
@@ -82,14 +82,14 @@ Security valuation is a fundamental aspect of investment and financial analysis.
 
 ### 5. Earnings Mutiples/Valuation Ratios
 
-**Definition**: This technique estimates the value of a security by applying valuation multiples, such as P/E, EV/EBITDA, or P/B ratios, to the company's earnings or book value.
+**Definition**: This technique estimates the value of a security by applying [valuation multiples](../v/valuation_multiples.md), such as P/E, EV/EBITDA, or P/B ratios, to the company's earnings or book value.
 
 **Methodology**:
 - **Selecting the Appropriate Multiple**: Choose a valuation multiple based on industry norms and relevance.
 - **Calculating the Multiple**: Determine the financial metric (e.g., earnings, EBITDA) and apply the chosen multiple.
 - **Deriving the Value**: Multiply the financial metric by the multiple to estimate the security’s value.
 
-**Applications**: Widely used in equity research, financial modeling, and stock analysis.
+**Applications**: Widely used in [equity research](../e/equity_research.md), [financial modeling](../f/financial_modeling.md), and stock analysis.
 
 **Advantages**:
 - Quick and easy to use.
@@ -146,7 +146,7 @@ Security valuation is a fundamental aspect of investment and financial analysis.
 
 **Methodology**:
 - **Identifying Segments**: Break down the company into its business units or segments.
-- **Valuing Each Segment**: Apply appropriate valuation techniques (e.g., DCF, Comps) to each segment.
+- **Valuing Each Segment**: Apply appropriate [valuation techniques](../v/valuation_techniques.md) (e.g., DCF, Comps) to each segment.
 - **Summing Segment Values**: Add the values of all segments to determine the total company value.
 
 **Applications**: Suitable for conglomerates and diversified companies.
@@ -165,7 +165,7 @@ Security valuation is a fundamental aspect of investment and financial analysis.
 
 **Methodology**:
 - **Identifying Real Options**: Recognize potential investment opportunities and strategic decisions as real options (e.g., expansion, deferment).
-- **Modeling the Options**: Use financial option valuation models, such as the Black-Scholes model or binomial tree models, to value the real options.
+- **Modeling the Options**: Use financial option [valuation models](../v/valuation_models.md), such as the [Black-Scholes model](../b/black-scholes_model.md) or binomial tree models, to value the real options.
 - **Incorporating into Valuation**: Add the value of real options to the traditional valuation of the security.
 
 **Applications**: Commonly used in capital budgeting, R&D investments, and natural resource industries.
@@ -180,4 +180,4 @@ Security valuation is a fundamental aspect of investment and financial analysis.
 
 ## Conclusion
 
-Security valuation is a multifaceted discipline that involves a variety of techniques, each with its own merits and limitations. By understanding and applying these techniques, investors and financial professionals can gain a deeper insight into the true value of securities, allowing for more informed investment decisions. Each technique serves a unique purpose and is suited to different types of securities and market conditions, making it essential to select the appropriate method based on the specific context of the valuation. Understanding and mastering these valuation methods enable professionals to navigate the complexities of financial markets and enhance their investment analysis and decision-making capabilities.
+[Security valuation](../s/security_valuation.md) is a multifaceted discipline that involves a variety of techniques, each with its own merits and limitations. By understanding and applying these techniques, investors and financial professionals can gain a deeper insight into the true value of securities, allowing for more informed investment decisions. Each technique serves a unique purpose and is suited to different types of securities and market conditions, making it essential to select the appropriate method based on the specific context of the valuation. Understanding and mastering these valuation methods enable professionals to navigate the complexities of financial markets and enhance their investment analysis and decision-making capabilities.

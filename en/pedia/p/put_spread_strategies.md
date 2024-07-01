@@ -1,12 +1,12 @@
 # Put Spread Strategies
 
-Put spread strategies are a type of options trading strategy that involve the simultaneous buying and selling of put options with differing strike prices. The general goal of these strategies is to capitalize on a decline in the underlying asset's price while managing and defining the level of risk. There are various kinds of put spread strategies, each suitable for different market conditions and trader objectives. This comprehensive guide delves into the different types of put spreads, their construction, risk/reward profiles, and practical applications.
+Put spread strategies are a type of options trading strategy that involve the simultaneous buying and selling of [put options](../p/put_options.md) with differing strike prices. The general goal of these strategies is to capitalize on a decline in the underlying asset's price while managing and defining the level of risk. There are various kinds of put spread strategies, each suitable for different market conditions and trader objectives. This comprehensive guide delves into the different types of put spreads, their construction, risk/reward profiles, and practical applications.
 
 ## Types of Put Spread Strategies
 
 ### 1. Bull Put Spread
 
-A bull put spread, also known as a short put spread, is used when the trader expects the underlying asset to remain steady or increase modestly. It involves:
+A [bull put spread](../b/bull_put_spread.md), also known as a [short put spread](../s/short_put_spread.md), is used when the trader expects the underlying asset to remain steady or increase modestly. It involves:
 
 - **Writing (selling) a put option** at a higher strike price.
 - **Buying a put option** at a lower strike price.
@@ -23,7 +23,7 @@ If the stock stays above $47.50, both options expire worthless, and you keep the
 
 ### 2. Bear Put Spread
 
-A bear put spread, or long put spread, is used when the trader expects the underlying asset to decline. It involves:
+A [bear put spread](../b/bear_put_spread.md), or long put spread, is used when the trader expects the underlying asset to decline. It involves:
 
 - **Buying a put option** at a higher strike price.
 - **Selling (writing) a put option** at a lower strike price.
@@ -40,10 +40,10 @@ If the stock price falls below $40, the spread reaches its maximum value. The ma
 
 ### 3. Ratio Put Spread
 
-A ratio put spread involves buying and selling an unequal number of put options. Typically, this strategy is employed to benefit from moderate declines in the underlying asset's price and involves:
+A ratio put spread involves buying and selling an unequal number of [put options](../p/put_options.md). Typically, this strategy is employed to benefit from moderate declines in the underlying asset's price and involves:
 
 - **Buying one put option** at a higher strike price.
-- **Selling two put options** at a lower strike price.
+- **Selling two [put options](../p/put_options.md)** at a lower strike price.
 
 The primary objective is to reduce the net premium paid or to potentially receive a net credit while still benefiting from a downward move in the underlying asset.
 
@@ -51,7 +51,7 @@ The primary objective is to reduce the net premium paid or to potentially receiv
 Suppose a stock is trading at $50. You believe it will fall, but not significantly below $45. You could initiate a ratio put spread by:
 
 - Buying one put option at a $50 strike price.
-- Selling two put options at a $45 strike price.
+- Selling two [put options](../p/put_options.md) at a $45 strike price.
 
 If the stock falls to $45, gains are maximized. However, a decline significantly below $45 would result in additional obligations due to the increased exposure from selling additional puts.
 
@@ -97,7 +97,7 @@ If the stock stays at $50 or decreases slightly, the short-term put option will 
 
 ### Hedging
 
-Put spread strategies are widely used for hedging purposes. For example, an investor with a long position in a stock may use a bear put spread to protect against downside risk. By employing a bear put spread, the investor can offset potential losses from the stock without selling the stock outright and incurring potential capital gains taxes.
+Put spread strategies are widely used for hedging purposes. For example, an investor with a long position in a stock may use a [bear put spread](../b/bear_put_spread.md) to protect against downside risk. By employing a [bear put spread](../b/bear_put_spread.md), the investor can offset potential losses from the stock without selling the stock outright and incurring potential capital gains taxes.
 
 ### Speculating
 
@@ -105,7 +105,7 @@ Traders who believe a stock will experience a controlled decline or stay within 
 
 ### Income Generation
 
-Strategies like the bull put spread are often employed to generate income in relatively stable or bullish markets. By selling a higher strike put and buying a lower strike put, traders can capitalize on premium collection while defining their risk boundaries.
+Strategies like the [bull put spread](../b/bull_put_spread.md) are often employed to generate income in relatively stable or bullish markets. By selling a higher strike put and buying a lower strike put, traders can capitalize on premium collection while defining their risk boundaries.
 
 ## Execution Considerations
 
@@ -123,11 +123,11 @@ Successfully managing expiration dates is crucial, especially in calendar put sp
 
 ### Volatility Analysis
 
-Implied and historical volatility can significantly impact option pricing. Traders should consider volatility forecasts and current market sentiment to decide the optimal times for entering or exiting positions.
+Implied and [historical volatility](../h/historical_volatility.md) can significantly impact option pricing. Traders should consider volatility forecasts and current market sentiment to decide the optimal times for entering or exiting positions.
 
 ## Technological Tools
 
-Utilizing modern trading platforms and analytical tools can help in crafting and monitoring put spread strategies efficiently. Platforms like Thinkorswim, Interactive Brokers, and TradeStation offer robust tools for analyzing option data, backtesting strategies, and executing trades seamlessly.
+Utilizing modern trading platforms and analytical tools can help in crafting and monitoring put spread strategies efficiently. Platforms like Thinkorswim, Interactive Brokers, and TradeStation offer robust tools for analyzing option data, [backtesting](../b/backtesting.md) strategies, and executing trades seamlessly.
 
 ### Thinkorswim by TD Ameritrade
 Thinkorswim provides advanced charting capabilities, real-time data, and comprehensive options analytics. It allows traders to simulate trades, analyze risk profiles, and utilize various volatility metrics.
@@ -140,10 +140,10 @@ Interactive Brokers offers global market access, advanced trading tools, and sop
 [Interactive Brokers](https://www.interactivebrokers.com/en/index.php?f=612&ns=T)
 
 ### TradeStation
-TradeStation is another excellent platform, known for its robust analysis tools and backtesting capabilities. It supports various options strategies, including spreads, and provides access to a wide range of financial instruments.
+TradeStation is another excellent platform, known for its robust analysis tools and [backtesting](../b/backtesting.md) capabilities. It supports various options strategies, including spreads, and provides access to a wide range of financial instruments.
 
 [TradeStation](https://www.tradestation.com/platforms-and-tools/trader-tools/)
 
 ## Conclusion
 
-Put spread strategies offer a range of opportunities for traders to capitalize on market movements while controlling risk. The choice of strategy—whether a bull put spread, bear put spread, ratio put spread, or calendar put spread—depends largely on the trader’s market outlook, risk tolerance, and investment objectives. By utilizing sophisticated trading platforms and analytical tools, traders can effectively implement and manage these strategies to enhance their trading performance.
+Put spread strategies offer a range of opportunities for traders to capitalize on market movements while controlling risk. The choice of strategy—whether a [bull put spread](../b/bull_put_spread.md), [bear put spread](../b/bear_put_spread.md), ratio put spread, or calendar put spread—depends largely on the trader’s market outlook, risk tolerance, and investment objectives. By utilizing sophisticated trading platforms and analytical tools, traders can effectively implement and manage these strategies to enhance their [trading performance](../t/trading_performance.md).

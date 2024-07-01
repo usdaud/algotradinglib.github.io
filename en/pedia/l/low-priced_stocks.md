@@ -1,6 +1,6 @@
 # Low-Priced Stocks
 
-Low-priced stocks, commonly referred to as penny stocks, are those that trade at relatively low prices per share, typically under $5. These stocks often belong to smaller companies with lower market capitalizations, and they are generally characterized by higher volatility, more significant price fluctuations, and greater risk compared to blue-chip stocks. Despite these risks, low-priced stocks can present substantial profit-making opportunities due to their potential for rapid price movements and growth. In this detailed overview, we will delve into the various aspects of low-priced stocks, including their characteristics, market environment, trading strategies, regulatory considerations, and notable risks and rewards.
+Low-priced stocks, commonly referred to as [penny stocks](../p/penny_stocks.md), are those that trade at relatively low prices per share, typically under $5. These stocks often belong to smaller companies with lower market capitalizations, and they are generally characterized by higher volatility, more significant price fluctuations, and greater risk compared to blue-chip stocks. Despite these risks, low-priced stocks can present substantial profit-making opportunities due to their potential for rapid price movements and growth. In this detailed overview, we will delve into the various aspects of low-priced stocks, including their characteristics, market environment, [trading strategies](../t/trading_strategies.md), regulatory considerations, and notable risks and rewards.
 
 ## Characteristics of Low-Priced Stocks
 
@@ -46,19 +46,19 @@ Though less common, some low-priced stocks do trade on major exchanges like NASD
 
 ### Fundamental Analysis
 
-Fundamental analysis involves evaluating a company's financial statements, management team, business model, and competitive position to determine its intrinsic value. Investors look for undervalued stocks that have the potential for substantial growth. Key metrics include revenue, earnings per share (EPS), price-to-earnings (P/E) ratio, and debt levels.
+[Fundamental analysis](../f/fundamental_analysis.md) involves evaluating a company's financial statements, management team, business model, and competitive position to determine its intrinsic value. Investors look for undervalued stocks that have the potential for substantial growth. Key metrics include revenue, earnings per share (EPS), price-to-earnings (P/E) ratio, and debt levels.
 
 ### Technical Analysis
 
-Technical analysis focuses on statistical trends derived from trading activity, such as price movement and volume. Traders use charts and technical indicators (e.g., moving averages, Relative Strength Index (RSI), and Bollinger Bands) to identify patterns and make predictions about future price movements.
+[Technical analysis](../t/technical_analysis.md) focuses on statistical trends derived from trading activity, such as price movement and volume. Traders use charts and [technical indicators](../t/technical_indicators.md) (e.g., moving averages, Relative Strength Index (RSI), and [Bollinger Bands](../b/bollinger_bands.md)) to identify patterns and make predictions about future price movements.
 
 ### Sentiment Analysis
 
-Sentiment analysis involves gauging the overall mood of the market towards a particular stock. Traders often look at news headlines, social media trends, and discussion forums to assess sentiment. Stocks with positive sentiment may attract more buyers and drive up prices.
+[Sentiment analysis](../s/sentiment_analysis.md) involves gauging the overall mood of the market towards a particular stock. Traders often look at news headlines, social media trends, and discussion forums to assess sentiment. Stocks with positive sentiment may attract more buyers and drive up prices.
 
 ### Scalping and Day Trading
 
-Scalping and day trading are short-term strategies aimed at taking advantage of small price movements. Scalping involves making numerous small trades throughout the day to profit from tiny price changes. Day trading, on the other hand, involves buying and selling within the same trading day, avoiding the risks associated with overnight holdings.
+Scalping and [day trading](../d/day_trading.md) are short-term strategies aimed at taking advantage of small price movements. Scalping involves making numerous small trades throughout the day to profit from tiny price changes. [Day trading](../d/day_trading.md), on the other hand, involves buying and selling within the same trading day, avoiding the risks associated with overnight holdings.
 
 ## Regulatory Considerations
 
@@ -94,4 +94,4 @@ Due diligence is crucial when investing in low-priced stocks. Investors should t
 
 ## Conclusion
 
-Low-priced stocks represent a high-risk, high-reward segment of the stock market. While they offer the potential for substantial gains due to rapid price movements and growth prospects, they also come with significant risks, including high volatility and liquidity issues. Investors can enhance their chances of success by using a mix of fundamental, technical, and sentiment analysis, along with a thorough understanding of the market environment and regulatory considerations. As with any investment, due diligence is essential to navigate the complexities and mitigate the risks associated with low-priced stocks.
+Low-priced stocks represent a high-risk, high-reward segment of the stock market. While they offer the potential for substantial gains due to rapid price movements and growth prospects, they also come with significant risks, including high volatility and liquidity issues. Investors can enhance their chances of success by using a mix of fundamental, technical, and [sentiment analysis](../s/sentiment_analysis.md), along with a thorough understanding of the market environment and regulatory considerations. As with any investment, due diligence is essential to navigate the complexities and mitigate the risks associated with low-priced stocks.

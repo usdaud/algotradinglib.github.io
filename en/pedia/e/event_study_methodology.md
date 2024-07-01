@@ -2,17 +2,17 @@
 
 ## Introduction
 
-Event study methodology is a powerful statistical tool used in finance and economics to assess the impact of a specific event on the value of a security. This method examines how a particular event, such as an earnings announcement, merger, regulatory change, or macroeconomic event, affects the price of a company's stock. This study helps researchers, analysts, and investors understand the significance of events and their direct effects on asset prices, which is crucial in the realm of algorithmic trading (algo trading).
+Event study methodology is a powerful statistical tool used in finance and economics to assess the impact of a specific event on the value of a security. This method examines how a particular event, such as an earnings announcement, merger, regulatory change, or macroeconomic event, affects the price of a company's stock. This study helps researchers, analysts, and investors understand the significance of events and their direct effects on asset prices, which is crucial in the realm of [algorithmic trading](../a/algorithmic_trading.md) (algo trading).
 
 ## Concept and Theory
 
 ### Efficient Market Hypothesis (EMH)
 
-The foundation of the event study methodology lies in the Efficient Market Hypothesis (EMH), which asserts that financial markets are "informationally efficient," meaning that prices of securities reflect all available information at any given time. According to EMH, any new information, such as an earnings report or a new product launch, should be quickly incorporated into the stock price, thus making event study an appropriate method to assess the informational impact on securities.
+The foundation of the event study methodology lies in the [Efficient Market Hypothesis](../e/efficient_market_hypothesis.md) (EMH), which asserts that financial markets are "informationally efficient," meaning that prices of securities reflect all available information at any given time. According to EMH, any new information, such as an earnings report or a new product launch, should be quickly incorporated into the stock price, thus making event study an appropriate method to assess the informational impact on securities.
 
 ### Behavioral Finance
 
-While EMH supports the premise that markets efficiently incorporate all information, behavioral finance offers a contrasting theory that emphasizes human irrationality and market inefficiencies. Event studies help in reconciling the gap between these theories by empirically analyzing the actual market reactions to specific events.
+While EMH supports the premise that markets efficiently incorporate all information, [behavioral finance](../b/behavioral_finance.md) offers a contrasting theory that emphasizes human irrationality and market inefficiencies. Event studies help in reconciling the gap between these theories by empirically analyzing the actual market reactions to specific events.
 
 ## Event Study Procedure
 
@@ -60,7 +60,7 @@ Testing the significance of abnormal and cumulative abnormal returns is crucial.
 
 ### Analyzing Earnings Announcements
 
-Algo traders frequently use event studies to analyze earnings announcements. By examining the abnormal returns around the release of earnings reports, traders can fine-tune their trading algorithms to capitalize on earnings surprises.
+Algo traders frequently use event studies to analyze [earnings announcements](../e/earnings_announcements.md). By examining the abnormal returns around the release of earnings reports, traders can fine-tune their [trading algorithms](../t/trading_algorithms.md) to capitalize on [earnings surprises](../e/earnings_surprises.md).
 
 ### Reaction to Mergers and Acquisitions
 
@@ -106,7 +106,7 @@ Both R and Python offer packages and libraries specifically designed for event s
 
 ### Market Efficiency Assumption
 
-Event studies rely heavily on the assumption of market efficiency. However, markets may not always be perfectly efficient, leading to potential biases in the results.
+Event studies rely heavily on the assumption of [market efficiency](../m/market_efficiency.md). However, markets may not always be perfectly efficient, leading to potential biases in the results.
 
 ### Model Specification
 
@@ -118,5 +118,5 @@ Other events occurring simultaneously can confound the results, making it hard t
 
 ## Conclusion
 
-Event study methodology is an indispensable tool in the arsenal of financial analysts and algo traders. By systematically analyzing the impact of specific events on stock prices, it provides deep insights that can drive trading strategies and investment decisions. While it comes with limitations and assumptions, advancements in computational tools and statistical methods continue to enhance its precision and applicability across various domains.
+Event study methodology is an indispensable tool in the arsenal of financial analysts and algo traders. By systematically analyzing the impact of specific events on stock prices, it provides deep insights that can drive [trading strategies](../t/trading_strategies.md) and investment decisions. While it comes with limitations and assumptions, advancements in computational tools and statistical methods continue to enhance its precision and applicability across various domains.
 

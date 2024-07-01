@@ -1,6 +1,6 @@
 # Reverse Collar Strategy
 
-The reverse collar strategy is an advanced options trading strategy, commonly utilized by traders seeking significant upside potential while limiting their potential losses. This strategy involves simultaneously buying call options and selling put options on an underlying asset, often executed when the trader believes the asset price will move significantly but wants to hedge against downside risk. Below, we will delve into how the reverse collar strategy works, including its structure, benefits, drawbacks, and examples for better understanding.
+The reverse collar strategy is an advanced options trading strategy, commonly utilized by traders seeking significant upside potential while limiting their potential losses. This strategy involves simultaneously buying call options and selling [put options](../p/put_options.md) on an underlying asset, often executed when the trader believes the asset price will move significantly but wants to hedge against downside risk. Below, we will delve into how the reverse collar strategy works, including its structure, benefits, drawbacks, and examples for better understanding.
 
 ## 1. Structure of the Reverse Collar Strategy
 
@@ -8,7 +8,7 @@ The reverse collar strategy involves three main components executed simultaneous
 
 1. **Long Call Options**: Buying call options gives the trader the right to purchase the asset at a specified strike price before the expiration date. This becomes profitable if the underlying asset's price increases beyond the strike price plus the premium paid.
 
-2. **Short Put Options**: Selling put options obligates the trader to buy the underlying asset at a specified strike price if the buyer of the put option decides to exercise it. This generates income in the form of premiums, which can offset the cost of purchasing call options.
+2. **Short [Put Options](../p/put_options.md)**: Selling [put options](../p/put_options.md) obligates the trader to buy the underlying asset at a specified strike price if the buyer of the put option decides to exercise it. This generates income in the form of premiums, which can offset the cost of purchasing call options.
 
 3. **Short Asset Position (Optional)**: Some traders might also take a short position in the underlying asset to capitalize on the potential decrease in its price, although this is not a requirement for a reverse collar strategy.
 
@@ -18,7 +18,7 @@ The reverse collar strategy involves three main components executed simultaneous
 - Buy 1 XYZ Call Option with a strike price of $110, costing $2 per share
 - Sell 1 XYZ Put Option with a strike price of $90, earning $2 per share
 
-In this scenario, the premiums from selling the put options offset the cost of purchasing the call options, potentially creating a net-zero outlay or a net credit situation.
+In this scenario, the premiums from selling the [put options](../p/put_options.md) offset the cost of purchasing the call options, potentially creating a net-zero outlay or a net credit situation.
 
 ## 2. Benefits of the Reverse Collar Strategy
 
@@ -28,21 +28,21 @@ When the trader buys call options, they acquire the ability to profit significan
 
 ### 2.2. Limited Risk
 
-The primary advantage of the reverse collar strategy is its ability to limit potential losses. The risk is confined to the difference between the strike prices of the put option and the underlying asset's current price, less the net premium received from the put option. This means the maximum loss is predictable and capped, crucial for risk management.
+The primary advantage of the reverse collar strategy is its ability to limit potential losses. The risk is confined to the difference between the strike prices of the put option and the underlying asset's current price, less the net premium received from the put option. This means the maximum loss is predictable and capped, crucial for [risk management](../r/risk_management.md).
 
 ### 2.3. Cost Offset (Premium Collection)
 
-By selling put options, the trader receives premium income, which can partially or fully offset the cost of the purchased call options. This reduces the net cost of establishing the position, effectively providing a cost-efficient way to achieve upside exposure.
+By selling [put options](../p/put_options.md), the trader receives premium income, which can partially or fully offset the cost of the purchased call options. This reduces the net cost of establishing the position, effectively providing a cost-efficient way to achieve upside exposure.
 
 ## 3. Drawbacks of the Reverse Collar Strategy
 
 ### 3.1. Obligation to Buy the Asset
 
-Selling put options come with the obligation to purchase the underlying asset if its price falls below the strike price of the put option. This can require significant capital or margin capacity, especially if the asset's price drops significantly and the options are exercised.
+Selling [put options](../p/put_options.md) come with the obligation to purchase the underlying asset if its price falls below the strike price of the put option. This can require significant capital or margin capacity, especially if the asset's price drops significantly and the options are exercised.
 
 ### 3.2. Early Assignment Risk
 
-Traders face the risk of early assignment when selling put options. If the put options are exercised before their expiration date, the trader must buy the underlying asset at the strike price. This scenario can occur especially if the underlying asset's price falls sharply.
+Traders face the risk of early assignment when selling [put options](../p/put_options.md). If the [put options](../p/put_options.md) are exercised before their expiration date, the trader must buy the underlying asset at the strike price. This scenario can occur especially if the underlying asset's price falls sharply.
 
 ### 3.3. Limited Appreciation Potential
 
@@ -75,9 +75,9 @@ The reverse collar strategy can be particularly effective in certain market cond
 
 ## 6. Conclusion
 
-The reverse collar strategy is a sophisticated options trading approach providing traders with a balanced method to seek potential profit while managing risks. By combining long call options and short put options, traders can capture upward movements in the underlying asset's price while limiting their downside exposure. However, it comes with inherent risks, such as the obligation to buy the asset and the potential for early assignment. 
+The reverse collar strategy is a sophisticated options trading approach providing traders with a balanced method to seek potential profit while managing risks. By combining long call options and short [put options](../p/put_options.md), traders can capture upward movements in the underlying asset's price while limiting their downside exposure. However, it comes with inherent risks, such as the obligation to buy the asset and the potential for early assignment. 
 
-For those interested in implementing the reverse collar strategy, it's crucial to analyze the underlying market conditions, understand the volatility, and utilize proper risk management techniques. With these considerations in mind, traders can effectively utilize the reverse collar strategy to achieve their investment objectives.
+For those interested in implementing the reverse collar strategy, it's crucial to analyze the underlying market conditions, understand the volatility, and utilize proper [risk management](../r/risk_management.md) techniques. With these considerations in mind, traders can effectively utilize the reverse collar strategy to achieve their investment objectives.
 
 ---
 ### References

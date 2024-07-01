@@ -28,21 +28,21 @@ Zero-sum games can be classified into various categories based on certain charac
 
 1. **Poker**: A classic example of a zero-sum game. The winnings of one player equal the losses of the other players.
 2. **Chess**: Often considered a zero-sum game if we disregard draws. The win of one player is the loss of the other.
-3. **Trading**: Some aspects of trading, especially options and futures contracts, can be considered zero-sum, where the gain of one trader (or group) is the loss of another.
+3. **Trading**: Some aspects of trading, especially options and [futures contracts](../f/futures_contracts.md), can be considered zero-sum, where the gain of one trader (or group) is the loss of another.
 
 ### Zero-Sum Game in Financial Markets
 
 In financial markets, the concept of zero-sum games is applied in various trading activities. 
 
-- **Futures and Options**: These derivatives markets are often cited as examples of zero-sum games. For every profit made by a buyer of a futures contract, the seller incurs an equivalent loss, and vice versa.
-- **Algorithmic Trading**: In high-frequency trading, algorithms compete for the best execution prices. The gain from getting a favorable price is precisely the loss endured by the counterparty.
+- **Futures and Options**: These [derivatives](../d/derivatives.md) markets are often cited as examples of zero-sum games. For every profit made by a buyer of a futures contract, the seller incurs an equivalent loss, and vice versa.
+- **[Algorithmic Trading](../a/algorithmic_trading.md)**: In high-frequency trading, algorithms compete for the best execution prices. The gain from getting a favorable price is precisely the loss endured by the counterparty.
   
 ### Companies and Zero-Sum Game Concept
 
 Several companies specialize in trading and have platforms and tools that operate under the principles of zero-sum games:
 
 1. **Interactive Brokers**: Offers a wide array of trading tools that are used in futures and options markets (https://www.interactivebrokers.com)
-2. **CME Group**: The world's largest futures and options exchange, where many zero-sum trading activities take place (https://www.cmegroup.com)
+2. **CME Group**: The world's largest futures and options exchange, where many [zero-sum trading](../z/zero-sum_trading.md) activities take place (https://www.cmegroup.com)
 
 ### Criticisms and Limitations
 

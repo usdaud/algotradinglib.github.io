@@ -32,7 +32,7 @@ In financial markets, several phenomena can be modeled using the Poisson process
 1. **Order Flow**: The arrival of buy and sell orders.
 2. **Price Jumps**: Sudden, significant changes in asset prices.
 3. **Trade Executions**: The filling of limit orders or market orders.
-4. **Event-driven Trading**: The occurrence of market-moving events like economic announcements, earnings reports, etc.
+4. **[Event-driven Trading](../e/event-driven_trading.md)**: The occurrence of market-moving events like economic announcements, earnings reports, etc.
 
 ### Modeling Order Arrivals
 
@@ -42,11 +42,11 @@ Order flow in financial markets often follows a stochastic pattern. The arrival 
 
 ### Price Jumps
 
-In high-frequency trading, price jumps can greatly impact trading strategies. These jumps can be modeled as a Poisson process due to their sudden and random nature. If price jumps occur at an average rate \( \lambda_j \) per unit time, the number of jumps within the period \( [0, t] \) follows the Poisson distribution with parameter \( \lambda_j t \).
+In high-frequency trading, price jumps can greatly impact [trading strategies](../t/trading_strategies.md). These jumps can be modeled as a Poisson process due to their sudden and random nature. If price jumps occur at an average rate \( \lambda_j \) per unit time, the number of jumps within the period \( [0, t] \) follows the Poisson distribution with parameter \( \lambda_j t \).
 
 ### Risk Management
 
-Poisson processes help in risk management by providing a framework for understanding rare events such as significant price jumps or large orders. By analyzing the rate and distribution of these events, traders can better assess the risk and devise strategies to mitigate potential losses.
+Poisson processes help in [risk management](../r/risk_management.md) by providing a framework for understanding rare events such as significant price jumps or large orders. By analyzing the rate and distribution of these events, traders can better assess the risk and devise strategies to mitigate potential losses.
 
 ## Practical Applications
 
@@ -56,22 +56,22 @@ In HFT, traders execute orders at incredibly high speeds, often using algorithms
 
 For instance:
 - **Market Making**: Ensuring liquidity by constantly placing buy and sell orders. Poisson process helps estimate the arrival of opposing orders.
-- **Arbitrage Trading**: Exploiting price discrepancies between different markets or instruments. Poisson process helps model the likelihood of changes affecting these prices.
+- **[Arbitrage](../a/arbitrage.md) Trading**: Exploiting price discrepancies between different markets or instruments. Poisson process helps model the likelihood of changes affecting these prices.
 
 ### Algorithmic Trading Systems
 
-Algorithmic trading systems often rely on probabilistic models to execute trading strategies. Poisson processes are integral to these models, providing insights into order flows and price movements.
+[Algorithmic trading](../a/algorithmic_trading.md) systems often rely on probabilistic models to execute [trading strategies](../t/trading_strategies.md). Poisson processes are integral to these models, providing insights into order flows and price movements.
 
-- **Trend Analysis**: Algorithms use Poisson-based models to identify potential trends by analyzing the rate of order arrivals.
+- **[Trend Analysis](../t/trend_analysis.md)**: Algorithms use Poisson-based models to identify potential trends by analyzing the rate of order arrivals.
 - **Trade Execution**: Algorithms use Poisson models to optimize the execution time of large orders by predicting the flow of market orders.
 
 ### Real-Time Applications
 
 Modern trading platforms and systems implement Poisson processes in:
-- **Order Book Simulation**: Simulating order book dynamics by modeling the arrival of new orders and cancellations.
+- **Order Book Simulation**: Simulating [order book dynamics](../o/order_book_dynamics.md) by modeling the arrival of new orders and cancellations.
 - **Market Impact Estimation**: Predicting the impact of large orders based on the frequency of trades.
 
-Companies specializing in algorithmic trading and high-frequency trading like [Virtu Financial](https://www.virtu.com/) and [Flow Traders](https://www.flowtraders.com/) often leverage Poisson processes within their trading engines for dynamic and real-time decision-making.
+Companies specializing in [algorithmic trading](../a/algorithmic_trading.md) and high-frequency trading like [Virtu Financial](https://www.virtu.com/) and [Flow Traders](https://www.flowtraders.com/) often leverage Poisson processes within their trading engines for dynamic and real-time decision-making.
 
 ### Example in R
 
@@ -122,7 +122,7 @@ The basic Poisson process assumes a constant rate of arrival, which may not alwa
 
 #### Non-Homogeneous Poisson Process (NHPP)
 
-The NHPP allows for a time-varying rate \( \lambda(t) \), making it more flexible for modeling periods of high and low activity in the market. This is particularly useful in capturing the volatility clustering observed in financial data.
+The NHPP allows for a time-varying rate \( \lambda(t) \), making it more flexible for modeling periods of high and low activity in the market. This is particularly useful in capturing the [volatility clustering](../v/volatility_clustering.md) observed in financial data.
 
 #### Compound Poisson Process
 
@@ -130,4 +130,4 @@ In finance, the Compound Poisson Process is used to model the aggregate effect o
 
 ## Conclusion
 
-The Poisson process is a powerful tool in the arsenal of quantitative finance and algorithmic trading. By providing a robust framework for modeling random events, it enables traders to develop sophisticated strategies and risk management techniques. Whether it's order arrivals, price jumps, or other market phenomena, the applications of the Poisson process in trading are extensive and integral to modern financial markets.
+The Poisson process is a powerful tool in the arsenal of [quantitative finance](../q/quantitative_finance.md) and [algorithmic trading](../a/algorithmic_trading.md). By providing a robust framework for modeling random events, it enables traders to develop sophisticated strategies and [risk management](../r/risk_management.md) techniques. Whether it's order arrivals, price jumps, or other market phenomena, the applications of the Poisson process in trading are extensive and integral to modern financial markets.

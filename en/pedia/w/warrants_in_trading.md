@@ -1,6 +1,6 @@
 # Warrants in Trading
 
-Warrants are financial instruments that give the holder the right, but not the obligation, to buy or sell a specific amount of an underlying asset at a predetermined price before a specified expiration date. They are typically issued by companies or financial institutions and traded on exchanges or over-the-counter markets. Warrants can be an attractive investment tool due to their potential for high returns relative to the initial investment. This document aims to provide a comprehensive overview of warrants in trading, their types, how they work, their advantages and disadvantages, and key considerations for investors.
+Warrants are financial instruments that give the holder the right, but not the obligation, to buy or sell a specific amount of an underlying asset at a predetermined price before a specified expiration date. They are typically issued by companies or financial institutions and traded on exchanges or [over-the-counter markets](../o/over-the-counter_markets.md). Warrants can be an attractive investment tool due to their potential for high returns relative to the initial investment. This document aims to provide a comprehensive overview of warrants in trading, their types, how they work, their advantages and disadvantages, and key considerations for investors.
 
 ## Types of Warrants
 
@@ -28,7 +28,7 @@ Put warrants give the holder the right to sell the underlying asset at the strik
 
 ### Issuance and Trading
 
-Companies or financial institutions issue warrants, which are then traded on securities exchanges or over-the-counter markets. The price of a warrant is influenced by several factors, including the current price of the underlying asset, the strike price, time until expiration, volatility, and interest rates.
+Companies or financial institutions issue warrants, which are then traded on securities exchanges or [over-the-counter markets](../o/over-the-counter_markets.md). The price of a warrant is influenced by several factors, including the current price of the underlying asset, the strike price, time until expiration, volatility, and interest rates.
 
 ### Exercise of Warrants
 
@@ -46,7 +46,7 @@ Warrants offer significant leverage, allowing investors to control a large amoun
 
 ### Diversification
 
-Warrants can be used to diversify an investment portfolio. They provide exposure to various asset classes and can be employed in different trading strategies, including hedging and speculating on price movements.
+Warrants can be used to diversify an investment portfolio. They provide exposure to various asset classes and can be employed in different [trading strategies](../t/trading_strategies.md), including hedging and speculating on price movements.
 
 ### Long Maturity Periods
 
@@ -54,7 +54,7 @@ Compared to options, warrants usually have longer maturity periods, sometimes la
 
 ### Flexibility
 
-Warrants provide flexibility in trading strategies. They can be used to gain exposure to the underlying asset, hedge existing positions, or speculate on market movements. 
+Warrants provide flexibility in [trading strategies](../t/trading_strategies.md). They can be used to gain exposure to the underlying asset, hedge existing positions, or speculate on market movements. 
 
 ## Disadvantages of Trading Warrants
 
@@ -82,7 +82,7 @@ Investors should thoroughly understand the terms of the warrant, including the s
 
 ### Valuation
 
-Valuing warrants requires knowledge of the underlying asset and various financial models, such as the Black-Scholes model. Investors should be comfortable with these valuation techniques or seek professional advice.
+Valuing warrants requires knowledge of the underlying asset and various financial models, such as the [Black-Scholes model](../b/black-scholes_model.md). Investors should be comfortable with these [valuation techniques](../v/valuation_techniques.md) or seek professional advice.
 
 ### Market Conditions
 
@@ -108,4 +108,4 @@ Tesla's stock has experienced significant price volatility and growth, leading t
 
 ## Conclusion
 
-Warrants offer a unique set of opportunities and challenges for investors and traders. Their significant leverage potential, longer maturity periods, and flexibility make them an attractive tool for various trading strategies. However, the complexity, risk of expiration, and potential for dilution require careful consideration and understanding. Investors must thoroughly research and understand the terms, valuation techniques, market conditions, and liquidity before engaging in warrant trading. By doing so, they can better navigate the intricacies of trading warrants and make informed investment decisions.
+Warrants offer a unique set of opportunities and challenges for investors and traders. Their significant leverage potential, longer maturity periods, and flexibility make them an attractive tool for various [trading strategies](../t/trading_strategies.md). However, the complexity, risk of expiration, and potential for dilution require careful consideration and understanding. Investors must thoroughly research and understand the terms, [valuation techniques](../v/valuation_techniques.md), market conditions, and liquidity before engaging in warrant trading. By doing so, they can better navigate the intricacies of trading warrants and make informed investment decisions.

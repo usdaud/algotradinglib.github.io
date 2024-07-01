@@ -87,7 +87,7 @@ WisdomTree is another notable name in the space, offering various fundamentally 
 
 ### Charles Schwab
 
-Charles Schwab offers fundamentally weighted index funds under their Fundamental Index Funds series. These funds use fundamental metrics to determine the index composition and weightings, providing investors with diversified exposure based on economic fundamentals.
+Charles Schwab offers fundamentally [weighted index funds](../w/weighted_index_funds.md) under their Fundamental Index Funds series. These funds use fundamental metrics to determine the index composition and weightings, providing investors with diversified exposure based on economic fundamentals.
 
 [Charles Schwab](https://www.schwab.com)
 
@@ -101,15 +101,15 @@ Dimensional Fund Advisors integrates aspects of fundamental indexation in its in
 
 ### Complementary Strategy
 
-Fundamental indexation can complement traditional market-cap strategies in a diversified portfolio. It provides an additional layer of risk management and potential for alpha generation by focusing on underlying fundamentals rather than market prices alone.
+Fundamental indexation can complement traditional market-cap strategies in a diversified portfolio. It provides an additional layer of [risk management](../r/risk_management.md) and potential for [alpha generation](../a/alpha_generation.md) by focusing on underlying fundamentals rather than market prices alone.
 
 ### Smart Beta
 
-Smart beta strategies often incorporate fundamental indexation principles. Smart beta aims to exploit market inefficiencies by using alternative weighting schemes that may include fundamental metrics alongside other factors like volatility, momentum, and quality.
+[Smart beta](../s/smart_beta.md) strategies often incorporate fundamental indexation principles. [Smart beta](../s/smart_beta.md) aims to exploit market inefficiencies by using alternative weighting schemes that may include fundamental metrics alongside other factors like volatility, momentum, and quality.
 
 ### Pension Funds and Institutional Investors
 
-Many institutional investors, including pension funds, have adopted fundamental indexation as part of their asset allocation strategies. The focus on economic fundamentals aligns with the long-term investment horizons typically associated with pension fund management.
+Many institutional investors, including pension funds, have adopted fundamental indexation as part of their [asset allocation](../a/asset_allocation.md) strategies. The focus on economic fundamentals aligns with the long-term investment horizons typically associated with pension fund management.
 
 ## Future Outlook
 
@@ -129,6 +129,6 @@ By combining ESG metrics with traditional financial fundamentals, index provider
 
 ## Conclusion
 
-Fundamental indexation represents a significant shift in how indices are constructed and used in portfolio management. By focusing on financial fundamentals such as earnings, cash flows, and dividends, it offers a robust alternative to traditional market-cap weighted indices. While challenges and criticisms exist, the approach provides valuable diversification benefits, potential for improved performance, and reduced volatility. As financial markets continue to evolve, fundamental indexation is likely to play an increasingly important role in shaping investment strategies.
+Fundamental indexation represents a significant shift in how indices are constructed and used in [portfolio management](../p/portfolio_management.md). By focusing on financial fundamentals such as earnings, cash flows, and dividends, it offers a robust alternative to traditional market-cap weighted indices. While challenges and criticisms exist, the approach provides valuable [diversification benefits](../d/diversification_benefits.md), potential for improved performance, and reduced volatility. As financial markets continue to evolve, fundamental indexation is likely to play an increasingly important role in shaping investment strategies.
 
 For those interested in exploring this methodology further, leading companies such as Research Affiliates, WisdomTree, Charles Schwab, and Dimensional Fund Advisors offer valuable resources and investment products based on fundamental indexation principles.

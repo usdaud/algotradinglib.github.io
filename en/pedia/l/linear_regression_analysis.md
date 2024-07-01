@@ -1,6 +1,6 @@
 # Linear Regression Analysis
 
-Linear regression analysis is a statistical method used to understand the relationship between two continuous variables, one dependent and one independent. The goal of linear regression is to model the linear relationship between these variables and use it to predict outcomes. This technique is foundational in quantitative finance, including algorithmic trading, where predicting price movements or financial metrics from historical data can provide a competitive edge.
+[Linear regression](../l/linear_regression.md) analysis is a statistical method used to understand the relationship between two continuous variables, one dependent and one independent. The goal of [linear regression](../l/linear_regression.md) is to model the linear relationship between these variables and use it to predict outcomes. This technique is foundational in [quantitative finance](../q/quantitative_finance.md), including [algorithmic trading](../a/algorithmic_trading.md), where predicting price movements or financial metrics from historical data can provide a competitive edge.
 
 ## Fundamental Concepts
 
@@ -9,7 +9,7 @@ Linear regression analysis is a statistical method used to understand the relati
 - **Independent Variable (X):** The predictor variable or the variable that you are using to predict the dependent variable.
 
 ### The Linear Regression Model
-The basic form of a linear regression model is:
+The basic form of a [linear regression](../l/linear_regression.md) model is:
 \[ Y = \beta_0 + \beta_1 X + \epsilon \]
 where:
 - \( Y \) is the dependent variable.
@@ -19,7 +19,7 @@ where:
 - \( \epsilon \) is the error term, accounting for the variation in \( Y \) that cannot be explained by the linear relationship.
 
 ### Assumptions of Linear Regression
-Several key assumptions underpin the linear regression model:
+Several key assumptions underpin the [linear regression](../l/linear_regression.md) model:
 1. **Linearity:** The relationship between \( X \) and \( Y \) is linear.
 2. **Independence:** Observations are independently and identically distributed.
 3. **Homoscedasticity:** The variance of error terms is constant across values of \( X \).
@@ -42,7 +42,7 @@ R² measures the proportion of variance in the dependent variable that is predic
 \[ R^2 = 1 - \frac{\sum_{i=1}^{n} (Y_i - \hat{Y}_i)^2}{\sum_{i=1}^{n} (Y_i - \bar{Y})^2} \]
 
 ### Residual Analysis
-Residuals, the differences between observed and predicted values, are analyzed to check the assumptions of linear regression:
+Residuals, the differences between observed and predicted values, are analyzed to check the assumptions of [linear regression](../l/linear_regression.md):
 - **Plot of residuals vs. fitted values:** To check for homoscedasticity.
 - **QQ plot of residuals:** To check for normality.
 
@@ -52,10 +52,10 @@ Residuals, the differences between observed and predicted values, are analyzed t
 
 ## Applications in Algorithmic Trading
 
-In algorithmic trading, linear regression can be applied in various ways:
-- **Predictive Modeling:** Forecasting stock prices or returns based on historical data.
-- **Pairs Trading:** By modeling the relationship between two correlated assets to identify mispriced trades.
-- **Factor Models:** Incorporating multiple factors (independent variables) that might affect an asset's return.
+In [algorithmic trading](../a/algorithmic_trading.md), [linear regression](../l/linear_regression.md) can be applied in various ways:
+- **[Predictive Modeling](../p/predictive_modeling.md):** Forecasting stock prices or returns based on historical data.
+- **[Pairs Trading](../p/pairs_trading.md):** By modeling the relationship between two correlated assets to identify mispriced trades.
+- **[Factor Models](../f/factor_models.md):** Incorporating multiple factors (independent variables) that might affect an asset's return.
 
 ## Practical Example
 
@@ -64,7 +64,7 @@ Consider a trader who wants to predict the closing price of a stock based on its
 ### Step-by-Step Implementation
 1. **Data Collection:** Gather historical data for opening and closing prices.
 2. **Data Preparation:** Split the data into training and testing sets.
-3. **Model Training:** Fit a linear regression model on the training data.
+3. **Model Training:** Fit a [linear regression](../l/linear_regression.md) model on the training data.
 4. **Prediction:** Use the fitted model to predict on the testing data.
 5. **Evaluation:** Evaluate the model using R² and residual analysis.
 
@@ -102,7 +102,7 @@ y_pred = model.predict(X_test)
 mse = mean_squared_error(y_test, y_pred)
 r2 = r2_score(y_test, y_pred)
 
-print(f'Mean Squared Error: {mse}')
+print(f'[Mean Squared Error](../m/mean_squared_error.md): {mse}')
 print(f'R^2 Score: {r2}')
 
 # Plotting
@@ -116,13 +116,13 @@ plt.show()
 
 ## Limitations and Considerations
 
-Despite its usefulness, linear regression has limitations that must be considered:
+Despite its usefulness, [linear regression](../l/linear_regression.md) has limitations that must be considered:
 - **Linearity Assumption:** If the relationship between \( X \) and \( Y \) is not linear, predictions will be inaccurate.
-- **Outliers:** Linear regression is sensitive to outliers which can skew results.
+- **Outliers:** [Linear regression](../l/linear_regression.md) is sensitive to outliers which can skew results.
 - **Multicollinearity:** In the presence of multiple predictors, collinear variables can make estimates unstable.
 
 To address these, advanced techniques such as polynomial regression, ridge regression, lasso regression, and logistic regression might be utilized.
 
 ## Conclusion
 
-Linear regression analysis is an essential tool in the arsenal of a data scientist or quantitative trader. It allows for understanding and predicting relationships between variables, which can be pivotal in making informed trading decisions. By adhering to its assumptions and carefully evaluating the model, one can effectively leverage linear regression for various financial applications. For further insights and tools for performing linear regression in the context of trading, companies such as [Quandl](https://www.quandl.com/) and [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/) provide vast datasets and platforms for more comprehensive analysis.
+[Linear regression](../l/linear_regression.md) analysis is an essential tool in the arsenal of a data scientist or quantitative trader. It allows for understanding and predicting relationships between variables, which can be pivotal in making informed trading decisions. By adhering to its assumptions and carefully evaluating the model, one can effectively leverage [linear regression](../l/linear_regression.md) for various financial applications. For further insights and tools for performing [linear regression](../l/linear_regression.md) in the context of trading, companies such as [Quandl](https://www.quandl.com/) and [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/) provide vast datasets and platforms for more comprehensive analysis.

@@ -1,6 +1,6 @@
 # Ichimoku Cloud
 
-The Ichimoku Cloud, also known as Ichimoku Kinko Hyo, is a comprehensive trading indicator that defines support and resistance levels, identifies trend direction, gauges momentum, and provides trading signals. It is one of the more versatile and visually intriguing tools available to traders. Developed by Japanese journalist Goichi Hosoda in the late 1960s, the Ichimoku Cloud consists of five main components that together offer a holistic view of the market.
+The Ichimoku Cloud, also known as Ichimoku Kinko Hyo, is a comprehensive trading indicator that defines [support and resistance](../s/support_and_resistance.md) levels, identifies trend direction, gauges momentum, and provides [trading signals](../t/trading_signals.md). It is one of the more versatile and visually intriguing tools available to traders. Developed by Japanese journalist Goichi Hosoda in the late 1960s, the Ichimoku Cloud consists of five main components that together offer a holistic view of the market.
 
 ### Key Components
 
@@ -16,11 +16,11 @@ The Ichimoku Cloud, also known as Ichimoku Kinko Hyo, is a comprehensive trading
 
 ### The Cloud (Kumo)
 
-The area between Senkou Span A and Senkou Span B is called the Kumo or the Cloud. This region helps in identifying support and resistance zones. When the price is above the cloud, it is considered to be in an uptrend. Conversely, when the price is below the cloud, it is indicative of a downtrend. The cloud's thickness can also indicate the strength or weakness of a trend. A thicker cloud suggests a stronger trend, providing more robust support or resistance.
+The area between Senkou Span A and Senkou Span B is called the Kumo or the Cloud. This region helps in identifying [support and resistance](../s/support_and_resistance.md) zones. When the price is above the cloud, it is considered to be in an uptrend. Conversely, when the price is below the cloud, it is indicative of a downtrend. The cloud's thickness can also indicate the strength or weakness of a trend. A thicker cloud suggests a stronger trend, providing more robust support or resistance.
 
 ### Trading Signals
 
-The Ichimoku Cloud generates several types of trading signals:
+The Ichimoku Cloud generates several types of [trading signals](../t/trading_signals.md):
 
 1. **Tenkan-sen/Kijun-sen Crossover:** 
    - A bullish signal occurs when the Tenkan-sen crosses above the Kijun-sen.
@@ -54,4 +54,4 @@ The Ichimoku Cloud is widely used in multiple financial markets, including forex
 
 ### Conclusion
 
-The Ichimoku Cloud is a powerful and versatile trading tool that offers a wide range of information about market conditions. Its comprehensive nature allows traders to identify trends, support and resistance levels, and momentum in a single glance, making it a valuable addition to any trading strategy. However, like all indicators, it is not infallible and should ideally be used in conjunction with other analysis tools to confirm signals and improve trading decisions.
+The Ichimoku Cloud is a powerful and versatile trading tool that offers a wide range of information about market conditions. Its comprehensive nature allows traders to identify trends, [support and resistance](../s/support_and_resistance.md) levels, and momentum in a single glance, making it a valuable addition to any trading strategy. However, like all indicators, it is not infallible and should ideally be used in conjunction with other analysis tools to confirm signals and improve trading decisions.

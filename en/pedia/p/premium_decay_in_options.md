@@ -38,15 +38,15 @@ Several key factors influence the rate of time decay on an option's premium:
 
 ### Impacts on Different Trading Strategies
 
-Understanding premium decay is crucial across various trading strategies:
+Understanding premium decay is crucial across various [trading strategies](../t/trading_strategies.md):
 
 - **Option Writers (Sellers)**: Sellers benefit from premium decay as the option may expire worthless, allowing them to pocket the premium. This is especially significant in strategies like covered calls, naked puts/calls, and iron condors.
 
-- **Option Buyers**: Buyers are disadvantaged by premium decay unless the underlying asset moves significantly in the desired direction. Strategies such as buying long calls or puts are directly impacted by time decay, making market timing crucial.
+- **Option Buyers**: Buyers are disadvantaged by premium decay unless the underlying asset moves significantly in the desired direction. Strategies such as buying long calls or puts are directly impacted by time decay, making [market timing](../m/market_timing.md) crucial.
 
 ## Practical Applications and Examples
 
-Let's explore how premium decay affects different trading strategies with practical examples:
+Let's explore how premium decay affects different [trading strategies](../t/trading_strategies.md) with practical examples:
 
 ### Covered Calls
 
@@ -58,7 +58,7 @@ Calendar spreads involve buying a longer-term option and selling a shorter-term 
 
 ### Iron Condors
 
-An iron condor is a neutral strategy that involves selling OTM call and put options and buying further OTM call and put options to hedge the positions. The profit potential comes from the premium decay of the sold options, especially if the underlying asset stays within a specific price range.
+An [iron condor](../i/iron_condor.md) is a neutral strategy that involves selling OTM call and [put options](../p/put_options.md) and buying further OTM call and [put options](../p/put_options.md) to hedge the positions. The profit potential comes from the premium decay of the sold options, especially if the underlying asset stays within a specific price range.
 
 ### Example Calculation
 
@@ -76,7 +76,7 @@ This simplified calculation illustrates how Theta impacts an option's price over
 
 ### Volatility Skew and Smile
 
-Volatility skew and smile refer to how implied volatility varies with different strike prices and expiration dates. Options with different strike prices may exhibit varying rates of time decay due to these phenomena. Higher implied volatility typically results in slower premium decay initially.
+[Volatility skew](../v/volatility_skew.md) and smile refer to how implied volatility varies with different strike prices and expiration dates. Options with different strike prices may exhibit varying rates of time decay due to these phenomena. Higher implied volatility typically results in slower premium decay initially.
 
 ### Impact of Dividends and Interest Rates
 
@@ -92,10 +92,10 @@ Premium decay and time decay are influenced by broader market dynamics and behav
 
 ### Algorithmic Trading and Time Decay
 
-Algorithmic trading firms exploit time decay through advanced models and high-frequency trading strategies. They can rapidly assess and act on opportunities presented by premium decay, leveraging computing power and sophisticated algorithms.
+[Algorithmic trading](../a/algorithmic_trading.md) firms exploit time decay through advanced models and high-frequency [trading strategies](../t/trading_strategies.md). They can rapidly assess and act on opportunities presented by premium decay, leveraging computing power and sophisticated algorithms.
 
 For more information on how firms handle these dynamics, you can visit [Jump Trading](https://www.jumptrading.com/) or [Two Sigma](https://www.twosigma.com/).
 
 ## Conclusion
 
-Premium decay is a fundamental concept in options trading that affects both buyers and sellers. Understanding how time decay works, the factors influencing it, and how it impacts various trading strategies is crucial for anyone involved in options markets. By mastering the nuances of premium decay, traders can better position themselves to optimize returns and manage risks effectively.
+Premium decay is a fundamental concept in options trading that affects both buyers and sellers. Understanding how time decay works, the factors influencing it, and how it impacts various [trading strategies](../t/trading_strategies.md) is crucial for anyone involved in options markets. By mastering the nuances of premium decay, traders can better position themselves to optimize returns and manage risks effectively.

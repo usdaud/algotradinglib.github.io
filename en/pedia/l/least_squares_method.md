@@ -2,7 +2,7 @@
 
 ### Introduction to Least Squares Method
 
-The Least Squares Method is a standard approach in statistical regression analysis to approximate the solution of overdetermined systems. It minimizes the sum of the squares of the differences between the observed and estimated values. This method is particularly useful in predictive modeling, which is crucial for algorithmic trading, providing a means to determine the best fit line or curve to historical market data.
+The Least Squares Method is a standard approach in statistical [regression analysis](../r/regression_analysis.md) to approximate the solution of overdetermined systems. It minimizes the sum of the squares of the differences between the observed and estimated values. This method is particularly useful in [predictive modeling](../p/predictive_modeling.md), which is crucial for [algorithmic trading](../a/algorithmic_trading.md), providing a means to determine the best fit line or curve to historical market data.
 
 ### Mathematical Foundation
 
@@ -16,10 +16,10 @@ There are two main types of least squares problems:
 
 ### Application in Algorithmic Trading
 
-In algorithmic trading, the least squares method is used for various predictive models and techniques, including:
+In [algorithmic trading](../a/algorithmic_trading.md), the least squares method is used for various predictive models and techniques, including:
 - **Moving Averages**: Used to smooth out short-term fluctuations and highlight longer-term trends or cycles.
-- **Regression Analysis**: Helps in estimating the relationships among variables, identifying trends and patterns in historical data.
-- **Risk Management Models**: Quantifies and predicts risks to make informed trading decisions.
+- **[Regression Analysis](../r/regression_analysis.md)**: Helps in estimating the relationships among variables, identifying trends and patterns in historical data.
+- **[Risk Management](../r/risk_management.md) Models**: Quantifies and predicts risks to make informed trading decisions.
 - **Curve Fitting**: Fits a curve that best represents the trend in the given data, crucial for trend prediction and trading strategy development.
 
 ### Step-by-Step Application in a Trading Model
@@ -29,11 +29,11 @@ In algorithmic trading, the least squares method is used for various predictive 
 3. **Model Selection**: Choose either a linear or non-linear model based on the data's nature.
 4. **Apply Least Squares Method**: Define the function and apply the least squares computation to fit the model.
 5. **Model Validation**: Use statistical metrics like R-squared, Mean Absolute Error (MAE), and Root Mean Square Error (RMSE) to validate the model.
-6. **Implementation**: Incorporate the model into trading algorithms to make predications and execute trades.
+6. **Implementation**: Incorporate the model into [trading algorithms](../t/trading_algorithms.md) to make predications and execute trades.
 
 ### Example of Linear Regression in Trading
 
-Consider a simple linear regression model of the form:
+Consider a simple [linear regression](../l/linear_regression.md) model of the form:
 \[ y = \beta_0 + \beta_1 x + \epsilon \]
 where \( y \) is the dependent variable (e.g., asset price), \( x \) is the independent variable (e.g., time), \( \beta_0 \) is the intercept, \( \beta_1 \) is the slope, and \( \epsilon \) is the error term.
 
@@ -106,12 +106,12 @@ plt.show()
 
 ### Companies Utilizing Least Squares Method
 
-Several companies and trading platforms utilize the least squares method in their trading algorithms:
+Several companies and trading platforms utilize the least squares method in their [trading algorithms](../t/trading_algorithms.md):
 
-1. **QuantConnect**: Provides a platform for designing and testing algorithmic trading strategies. [QuantConnect](https://www.quantconnect.com/)
+1. **QuantConnect**: Provides a platform for designing and testing [algorithmic trading](../a/algorithmic_trading.md) strategies. [QuantConnect](https://www.quantconnect.com/)
 2. **Kensho Technologies**: Uses advanced analytics, including regression models, for financial intelligence. [Kensho Technologies](https://www.kensho.com/)
-3. **Quantopian**: (Now part of Robinhood) Focused on providing a platform for quantitative finance and algorithmic trading strategies. [Robinhood](https://robinhood.com/)
+3. **Quantopian**: (Now part of Robinhood) Focused on providing a platform for [quantitative finance](../q/quantitative_finance.md) and [algorithmic trading](../a/algorithmic_trading.md) strategies. [Robinhood](https://robinhood.com/)
 
 ### Conclusion
 
-The least squares method is a fundamental tool in algorithmic trading. Its ability to model and predict market behavior forms the cornerstone of many trading strategies. As markets continue to evolve, the application of least squares and other regression techniques will remain critical in developing robust and profitable trading algorithms.
+The least squares method is a fundamental tool in [algorithmic trading](../a/algorithmic_trading.md). Its ability to model and predict market behavior forms the cornerstone of many [trading strategies](../t/trading_strategies.md). As markets continue to evolve, the application of least squares and other [regression techniques](../r/regression_techniques.md) will remain critical in developing robust and profitable [trading algorithms](../t/trading_algorithms.md).

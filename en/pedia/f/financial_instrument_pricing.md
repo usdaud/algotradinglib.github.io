@@ -1,6 +1,6 @@
 # Financial Instrument Pricing
 
-Financial instrument pricing is the process of determining the fair value of a security, financial contract, or a product. The accurate valuation of financial instruments is crucial in markets because it facilitates fair trading, investment, and risk management. This process is complex and involves various models and approaches according to the type of financial instrument. Here we delve into different aspects and models of financial instrument pricing.
+Financial instrument pricing is the process of determining the fair value of a security, financial contract, or a product. The accurate valuation of financial instruments is crucial in markets because it facilitates fair trading, investment, and [risk management](../r/risk_management.md). This process is complex and involves various models and approaches according to the type of financial instrument. Here we delve into different aspects and models of financial instrument pricing.
 
 ## Categories of Financial Instruments
 
@@ -12,11 +12,11 @@ Equities represent ownership interests in companies. Common pricing models inclu
 ### Fixed Income Instruments
 Bonds and other fixed-income instruments are debt securities that provide returns in the form of fixed periodic payments and the eventual return of principal at maturity. Pricing models include:
 - **Discounted Cash Flow (DCF) Model**: This computes the present value of future cash flows.
-- **Yield Spread Analysis**: This involves comparing the yields of different bonds.
+- **Yield [Spread Analysis](../s/spread_analysis.md)**: This involves comparing the yields of different bonds.
 
 ### Derivatives
-Derivatives are financial contracts whose value is derived from underlying assets. Common derivatives include options, futures, and swaps. Key models include:
-- **Black-Scholes Model**: Used for pricing European-style options.
+[Derivatives](../d/derivatives.md) are financial contracts whose value is derived from underlying assets. Common [derivatives](../d/derivatives.md) include options, futures, and swaps. Key models include:
+- **[Black-Scholes Model](../b/black-scholes_model.md)**: Used for pricing European-style options.
 - **Binomial Model**: More flexible than Black-Scholes; useful for American-style options.
 
 ### Commodities
@@ -25,25 +25,25 @@ Commodities are raw materials or primary agricultural products. Pricing involves
 ## Pricing Models
 
 ### Arbitrage-Free Pricing Theory
-Fundamental to financial instrument pricing is the idea of arbitrage-free markets, where it's impossible to profit from price differentials without any risk. Core principles include:
-- **Law of One Price**: Identical securities should have the same price.
-- **No Arbitrage Principle**: Predictable arbitrage opportunities are quickly eliminated as traders exploit them, bringing prices back in equilibrium.
+Fundamental to financial instrument pricing is the idea of [arbitrage](../a/arbitrage.md)-free markets, where it's impossible to profit from price differentials without any risk. Core principles include:
+- **[Law of One Price](../l/law_of_one_price.md)**: Identical securities should have the same price.
+- **No [Arbitrage](../a/arbitrage.md) Principle**: Predictable [arbitrage](../a/arbitrage.md) opportunities are quickly eliminated as traders exploit them, bringing prices back in equilibrium.
 
 ### Stochastic Processes
-Financial markets are inherently unpredictable, making stochastic processes a valuable modeling tool. Key methods include:
+Financial markets are inherently unpredictable, making [stochastic processes](../s/stochastic_processes.md) a valuable modeling tool. Key methods include:
 - **Brownian Motion**: Often used in modeling stock price movements.
-- **Geometric Brownian Motion**: Ensures that prices remain positive and accounts for proportional changes.
+- **[Geometric Brownian Motion](../g/geometric_brownian_motion.md)**: Ensures that prices remain positive and accounts for proportional changes.
 
 ### Risk-Neutral Valuation
-In a risk-neutral world, every investor is indifferent to risk. This simplifies the valuation of derivatives by assuming that investors can earn the risk-free rate, allowing us to discount expected payoffs.
+In a risk-neutral world, every investor is indifferent to risk. This simplifies the valuation of [derivatives](../d/derivatives.md) by assuming that investors can earn the risk-free rate, allowing us to discount expected payoffs.
 
 ### Monte Carlo Simulation
-Monte Carlo Simulation estimates the value of financial instruments by simulating a wide range of scenarios for the price of the underlying asset. It is particularly useful for path-dependent options like Asian options, where the payoff depends on the average price over a period.
+[Monte Carlo Simulation](../m/monte_carlo_simulation.md) estimates the value of financial instruments by simulating a wide range of scenarios for the price of the underlying asset. It is particularly useful for [path-dependent options](../p/path-dependent_options.md) like Asian options, where the payoff depends on the average price over a period.
 
 ## Computational Approaches
 
 ### Numerical Methods
-For complex instruments, analytical solutions may not be possible. Numerical methods like finite difference methods and lattice models (e.g., the binomial model) are employed.
+For complex instruments, analytical solutions may not be possible. Numerical methods like [finite difference methods](../f/finite_difference_methods.md) and lattice models (e.g., the binomial model) are employed.
 
 ### Machine Learning
 Machine learning models are increasingly applied to pricing problems. Approaches include:
@@ -59,7 +59,7 @@ Firms use algorithms to trade large volumes at high speeds to take advantage of 
 Interest rates directly impact the discount rate used in pricing models, especially for bonds and other fixed-income instruments.
 
 ### Volatility
-Volatility indicates the degree of variation of a trading price series over time. It is crucial for pricing derivatives, particularly options.
+Volatility indicates the degree of variation of a trading price series over time. It is crucial for pricing [derivatives](../d/derivatives.md), particularly options.
 
 ### Economic Indicators
 Indicators such as GDP growth, unemployment rates, and consumer confidence can affect overall market sentiments.

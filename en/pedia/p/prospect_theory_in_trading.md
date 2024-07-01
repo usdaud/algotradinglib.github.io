@@ -12,7 +12,7 @@ Prospect Theory is composed of several key components that distinguish it from t
 
 ### 1. Value Function
 
-The value function in Prospect Theory is defined on deviations from a reference point (often the status quo), and it is generally concave for gains and convex for losses. It is also steeper for losses than for gains, which implies that losses loom larger than gains—a phenomenon known as loss aversion.
+The value function in Prospect Theory is defined on deviations from a reference point (often the status quo), and it is generally concave for gains and convex for losses. It is also steeper for losses than for gains, which implies that losses loom larger than gains—a phenomenon known as [loss aversion](../l/loss_aversion.md).
 
 #### Illustration:
 - If a trader gains $100, the positive utility they derive from this gain will be less than the negative utility they experience from losing $100.
@@ -30,7 +30,7 @@ Prospect Theory also incorporates a probability weighting function, which captur
 
 ### 1. Loss Aversion and Holding Losing Positions
 
-Loss aversion can cause traders to hold on to losing positions longer than they should. The emotional pain associated with realizing a loss can lead traders to delay the sale of an underperforming asset in the hope that it will rebound, even when the rational decision would be to cut their losses.
+[Loss aversion](../l/loss_aversion.md) can cause traders to hold on to losing positions longer than they should. The emotional pain associated with realizing a loss can lead traders to delay the sale of an underperforming asset in the hope that it will rebound, even when the rational decision would be to cut their losses.
 
 #### Example:
 - A trader buys a stock at $50, which then drops to $40. Despite signals that the stock might keep falling, the trader holds onto it, hoping to sell it when it rebounds to at least $50.
@@ -56,7 +56,7 @@ Understanding the implications of Prospect Theory on trading behavior can help t
 
 ### 1. Setting Predefined Rules
 
-Traders can establish predefined rules for entry and exit points, as well as stop-loss orders, to minimize the emotional influence on trading decisions. This can help avoid the biases introduced by loss aversion and the disposition effect.
+Traders can establish predefined rules for entry and exit points, as well as [stop-loss orders](../s/stop-loss_orders.md), to minimize the emotional influence on trading decisions. This can help avoid the biases introduced by [loss aversion](../l/loss_aversion.md) and the disposition effect.
 
 ### 2. Diversification
 
@@ -68,12 +68,12 @@ Ongoing education about behavioral biases and how they influence trading can hel
 
 ### 4. Using Automated Trading Systems
 
-Automated trading systems can implement strategies without the emotional biases that typically affect human traders. Algorithms can follow predefined rules objectively, reducing the impact of the biases associated with loss aversion and over-weighing probabilities.
+[Automated trading systems](../a/automated_trading_systems.md) can implement strategies without the emotional biases that typically affect human traders. Algorithms can follow predefined rules objectively, reducing the impact of the biases associated with [loss aversion](../l/loss_aversion.md) and over-weighing probabilities.
 
 ## Conclusion
 
-Prospect Theory offers a valuable framework for understanding the irrational behaviors that can influence trading decisions. By recognizing the key components of Prospect Theory, such as loss aversion and probability weighting, traders can implement strategies to mitigate these biases and make more rational financial decisions. Awareness and education are critical in fostering a more disciplined and objective approach to trading.
+Prospect Theory offers a valuable framework for understanding the irrational behaviors that can influence trading decisions. By recognizing the key components of Prospect Theory, such as [loss aversion](../l/loss_aversion.md) and probability weighting, traders can implement strategies to mitigate these biases and make more rational financial decisions. Awareness and education are critical in fostering a more disciplined and objective approach to trading.
 
 For more information about behavioral economics and Prospect Theory, consider reading the works of Daniel Kahneman, such as his book "Thinking, Fast and Slow."
 
-To learn more about automated trading systems and tools that can help implement rational trading strategies, visit [Interactive Brokers,](https://www.interactivebrokers.com/) one of the leading brokerage firms offering advanced trading technology.
+To learn more about [automated trading systems](../a/automated_trading_systems.md) and tools that can help implement rational [trading strategies](../t/trading_strategies.md), visit [Interactive Brokers,](https://www.interactivebrokers.com/) one of the leading brokerage firms offering advanced trading technology.

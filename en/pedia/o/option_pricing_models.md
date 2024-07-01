@@ -1,13 +1,13 @@
 ## Option Pricing Models
 
-Option pricing models are mathematical formulations used to determine the theoretical value of options. These models help traders and investors assess the fairness of the current market prices of options, aiding in their trading and risk management decisions. Option pricing is a cornerstone of financial derivatives, and efficient pricing models are crucial for both market makers and traders who engage in options trading. Several models have been developed over the years, each with its own set of assumptions and applications. This article provides an in-depth look at some of the most widely used option pricing models in the field of financial engineering and quantitative finance.
+Option pricing models are mathematical formulations used to determine the theoretical value of options. These models help traders and investors assess the fairness of the current market prices of options, aiding in their trading and [risk management](../r/risk_management.md) decisions. Option pricing is a cornerstone of financial [derivatives](../d/derivatives.md), and efficient pricing models are crucial for both market makers and traders who engage in options trading. Several models have been developed over the years, each with its own set of assumptions and applications. This article provides an in-depth look at some of the most widely used option pricing models in the field of [financial engineering](../f/financial_engineering.md) and [quantitative finance](../q/quantitative_finance.md).
 
 ### 1. Black-Scholes Model
 
-One of the most famous and widely used option pricing models is the Black-Scholes Model. Developed by Fischer Black, Myron Scholes, and Robert Merton in 1973, this model provides a closed-form solution for pricing European call and put options.
+One of the most famous and widely used option pricing models is the [Black-Scholes Model](../b/black-scholes_model.md). Developed by Fischer Black, Myron Scholes, and Robert Merton in 1973, this model provides a closed-form solution for pricing European call and [put options](../p/put_options.md).
 
 **Fundamental Assumptions:**
-- The stock price follows a geometric Brownian motion with constant drift and volatility.
+- The stock price follows a [geometric Brownian motion](../g/geometric_brownian_motion.md) with constant drift and volatility.
 - The option can only be exercised at expiration (European-style option).
 - No dividends are paid out during the life of the option.
 - Markets are efficient (i.e., market movements are unpredictable).
@@ -33,7 +33,7 @@ where:
 
 ### 2. Binomial Option Pricing Model
 
-The Binomial Option Pricing Model, developed by John Cox, Stephen Ross, and Mark Rubinstein in 1979, offers a discrete-time approach to option pricing. This model can be used to price American options, which can be exercised at any time before expiration.
+The [Binomial Option Pricing Model](../b/binomial_option_pricing_model.md), developed by John Cox, Stephen Ross, and Mark Rubinstein in 1979, offers a discrete-time approach to option pricing. This model can be used to price American options, which can be exercised at any time before expiration.
 
 **Fundamental Assumptions:**
 - The option's life is divided into several time intervals.
@@ -52,10 +52,10 @@ The Binomial Option Pricing Model, developed by John Cox, Stephen Ross, and Mark
 
 ### 3. Monte Carlo Simulation
 
-Monte Carlo simulation is a numerical method that uses random sampling to estimate the value of an option. It is particularly useful for pricing complex derivatives that do not have closed-form solutions.
+[Monte Carlo simulation](../m/monte_carlo_simulation.md) is a numerical method that uses random sampling to estimate the value of an option. It is particularly useful for pricing complex [derivatives](../d/derivatives.md) that do not have closed-form solutions.
 
 **Fundamental Assumptions:**
-- The underlying asset price follows a stochastic process, such as geometric Brownian motion.
+- The underlying asset price follows a stochastic process, such as [geometric Brownian motion](../g/geometric_brownian_motion.md).
 - The simulation can accommodate various features, such as path dependency and multiple sources of uncertainty.
 
 **Monte Carlo Steps:**
@@ -69,11 +69,11 @@ Monte Carlo simulation is a numerical method that uses random sampling to estima
 
 ### 4. Heston Model
 
-The Heston Model, introduced by Steven Heston in 1993, incorporates stochastic volatility to address some limitations of the Black-Scholes Model. This model assumes that volatility is not constant but follows its own stochastic process.
+The Heston Model, introduced by Steven Heston in 1993, incorporates stochastic volatility to address some limitations of the [Black-Scholes Model](../b/black-scholes_model.md). This model assumes that volatility is not constant but follows its own stochastic process.
 
 **Fundamental Assumptions:**
 - The stock price and its volatility are driven by two correlated Wiener processes.
-- Volatility exhibits mean reversion.
+- Volatility exhibits [mean reversion](../m/mean_reversion.md).
 
 **Heston Model Dynamics:**
 - Stock price: \( dS_t = \mu S_t dt + \sqrt{V_t} S_t dW_t^S \)
@@ -83,18 +83,18 @@ where:
 - \( S_t \) = Stock price at time \(t\)
 - \( V_t \) = Variance at time \(t\)
 - \( \mu \) = Drift rate of the stock price
-- \( \kappa \) = Rate of mean reversion of \( V_t \)
+- \( \kappa \) = Rate of [mean reversion](../m/mean_reversion.md) of \( V_t \)
 - \( \theta \) = Long-term mean of the variance
 - \( \sigma \) = Volatility of the variance
 - \( dW_t^S \) and \( dW_t^V \) are Wiener processes with correlation \( \rho \)
 
 ### 5. Hull-White Model
 
-The Hull-White Model, developed by John Hull and Alan White in 1987, extends the Black-Scholes framework to incorporate stochastic interest rates. This model allows for the pricing of interest rate derivatives and other financial instruments sensitive to interest rate movements.
+The Hull-White Model, developed by John Hull and Alan White in 1987, extends the Black-Scholes framework to incorporate stochastic interest rates. This model allows for the pricing of interest rate [derivatives](../d/derivatives.md) and other financial instruments sensitive to interest rate movements.
 
 **Fundamental Assumptions:**
 - The short-term interest rate follows a mean-reverting stochastic process.
-- The model can be calibrated to fit the initial term structure of interest rates.
+- The model can be calibrated to fit the initial [term structure of interest rates](../t/term_structure_of_interest_rates.md).
 
 **Hull-White Model Dynamics:**
 - Short rate: \( dr(t) = \alpha(t) [\theta(t) - r(t)] dt + \sigma(t) dW_t \)
@@ -108,11 +108,11 @@ where:
 
 ### 6. SABR Model
 
-The SABR (Stochastic Alpha, Beta, Rho) Model, introduced by Patrick Hagan, Deep Kumar, Andrew Lesniewski, and Diana Woodward in 2002, is used to model the volatility smile in the financial markets. It is particularly popular for pricing interest rate derivatives and other products that exhibit skewed or asymmetric volatility patterns.
+The SABR (Stochastic Alpha, Beta, Rho) Model, introduced by Patrick Hagan, Deep Kumar, Andrew Lesniewski, and Diana Woodward in 2002, is used to model the volatility smile in the financial markets. It is particularly popular for pricing interest rate [derivatives](../d/derivatives.md) and other products that exhibit skewed or [asymmetric volatility](../a/asymmetric_volatility.md) patterns.
 
 **Fundamental Assumptions:**
-- The underlying asset and its volatility follow correlated stochastic processes.
-- The model can capture the observed market phenomenon of volatility skew or smile.
+- The underlying asset and its volatility follow correlated [stochastic processes](../s/stochastic_processes.md).
+- The model can capture the observed market phenomenon of [volatility skew](../v/volatility_skew.md) or smile.
 
 **SABR Model Dynamics:**
 - Asset price: \( dS_t = \sigma_t S_t^\beta dW_t^S \)
@@ -127,7 +127,7 @@ where:
 
 ### 7. Bachelier Model
 
-The Bachelier Model, also known as the Normal Model, is one of the earliest option pricing models, introduced by Louis Bachelier in 1900. Unlike the Black-Scholes Model, which assumes log-normal distribution of asset prices, the Bachelier Model assumes a normal distribution of asset prices.
+The Bachelier Model, also known as the Normal Model, is one of the earliest option pricing models, introduced by Louis Bachelier in 1900. Unlike the [Black-Scholes Model](../b/black-scholes_model.md), which assumes [log-normal distribution](../l/log-normal_distribution.md) of asset prices, the Bachelier Model assumes a normal distribution of asset prices.
 
 **Fundamental Assumptions:**
 - The asset price follows an arithmetic Brownian motion with constant volatility.
@@ -142,7 +142,7 @@ For a European put option, the formula is:
 
 where:
 - \( d = \frac{S_0 - X}{\sigma \sqrt{T}} \)
-- \( n(\cdot) \) = Probability density function of the standard normal distribution
+- \( n(\cdot) \) = [Probability density function](../p/probability_density_function.md) of the standard normal distribution
 
 ### Real-World Applications and Companies
 
@@ -151,20 +151,20 @@ Several financial institutions and technology companies specialize in providing 
 1. **Bloomberg L.P.**: A global financial services company providing financial software tools, including advanced option pricing models and analytics.
    Website: [Bloomberg](https://www.bloomberg.com)
 
-2. **Intercontinental Exchange (ICE)**: Operates global exchanges and provides data services that include option pricing and risk management analytics.
+2. **Intercontinental Exchange (ICE)**: Operates global exchanges and provides data services that include option pricing and [risk management](../r/risk_management.md) analytics.
    Website: [ICE](https://www.theice.com)
 
-3. **Options Clearing Corporation (OCC)**: The world's largest equity derivatives clearing organization providing clearing and settlement services for options and other derivatives.
+3. **Options Clearing Corporation (OCC)**: The world's largest equity [derivatives](../d/derivatives.md) clearing organization providing [clearing and settlement](../c/clearing_and_settlement.md) services for options and other [derivatives](../d/derivatives.md).
    Website: [OCC](https://www.theocc.com)
 
-4. **Numerix**: A leading provider of risk management and pricing analytics for financial derivatives.
+4. **Numerix**: A leading provider of [risk management](../r/risk_management.md) and pricing analytics for financial [derivatives](../d/derivatives.md).
    Website: [Numerix](https://www.numerix.com)
 
-5. **Orc Group**: Specializes in providing electronic trading technology and services, including option pricing and risk management tools.
+5. **Orc Group**: Specializes in providing electronic trading technology and services, including option pricing and [risk management](../r/risk_management.md) tools.
    Website: [Orc Group](https://www.orc-group.com)
 
-These companies offer various platforms and tools that incorporate advanced quantitative models for pricing and risk management of options and other derivatives. Leveraging these models, traders and investors can make informed decisions, optimize their trading strategies, and manage financial risks more effectively.
+These companies offer various platforms and tools that incorporate advanced [quantitative models](../q/quantitative_models.md) for pricing and [risk management](../r/risk_management.md) of options and other [derivatives](../d/derivatives.md). Leveraging these models, traders and investors can make informed decisions, optimize their [trading strategies](../t/trading_strategies.md), and manage financial risks more effectively.
 
 ### Conclusion
 
-Option pricing models are essential tools in the world of financial derivatives, enabling traders and investors to assess the value of options accurately. From the classical Black-Scholes Model to advanced models like Heston and SABR, each model serves unique purposes and comes with its own set of assumptions and complexities. Understanding these models and their applications is crucial for anyone involved in options trading, risk management, and financial engineering. By leveraging sophisticated option pricing models, market participants can enhance their decision-making processes and navigate the complexities of the financial markets efficiently.
+Option pricing models are essential tools in the world of financial [derivatives](../d/derivatives.md), enabling traders and investors to assess the value of options accurately. From the classical [Black-Scholes Model](../b/black-scholes_model.md) to advanced models like Heston and SABR, each model serves unique purposes and comes with its own set of assumptions and complexities. Understanding these models and their applications is crucial for anyone involved in options trading, [risk management](../r/risk_management.md), and [financial engineering](../f/financial_engineering.md). By leveraging sophisticated option pricing models, market participants can enhance their decision-making processes and navigate the complexities of the financial markets efficiently.

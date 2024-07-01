@@ -4,7 +4,7 @@ A Long Condor Spread is an advanced trading strategy primarily used in options t
 
 ## Components of Long Condor Spread
 
-The Long Condor Spread can be established using either call or put options, and it involves the following components:
+The Long Condor Spread can be established using either call or [put options](../p/put_options.md), and it involves the following components:
 
 1. **Buying one in-the-money (ITM) option**: An option with a strike price lower (for calls) or higher (for puts) than the current underlying asset price.
 2. **Selling one at-the-money (ATM) option**: An option with a strike price close to the current underlying asset price.
@@ -49,7 +49,7 @@ Minus the initial net debit paid, the trader's overall profit could be calculate
 
 The rationale behind using a Long Condor Spread lies in exploiting market conditions where an underlying asset is expected to show low volatility. This strategy is preferred by traders because:
 
-1. **Risk Management**: It carries a defined risk and reward profile, making it easier for traders to manage their risk exposure.
+1. **[Risk Management](../r/risk_management.md)**: It carries a defined risk and reward profile, making it easier for traders to manage their risk exposure.
 2. **Reduced Cost**: In comparison to other strategies requiring multiple trades, the Long Condor Spread involves fewer transaction costs.
 
 Additionally, since the exposure beyond the wings is limited to the net debit paid, the strategy provides a level of safety against unpredictable market movements.
@@ -70,7 +70,7 @@ As with any multi-leg options strategy, transaction costs can significantly affe
 
 ## Examples of Usage in the Real Trading World
 
-High market participants like hedge funds and proprietary trading desks use variations of condor spreads to manage their exposure and capitalize on their specific market outlook. Tools like those provided by [ThinkOrSwim by TD Ameritrade](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.html) offer traders the ability to analyze and implement complex spread strategies, including Long Condor Spreads.
+High market participants like hedge funds and [proprietary trading](../p/proprietary_trading.md) desks use variations of condor spreads to manage their exposure and capitalize on their specific market outlook. Tools like those provided by [ThinkOrSwim by TD Ameritrade](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.html) offer traders the ability to analyze and implement complex spread strategies, including Long Condor Spreads.
 
 ## Adjusting the Long Condor Spread
 

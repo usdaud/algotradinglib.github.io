@@ -1,6 +1,6 @@
 # Order Types in Trading
 
-In the realm of trading, understanding the various types of orders available to traders is crucial for effectively managing investments and mitigating risks. Different order types serve different purposes and are suited for various trading strategies. Here, we will dive into the most commonly used order types in trading, explaining their functionalities, advantages, and potential disadvantages.
+In the realm of trading, understanding the various types of orders available to traders is crucial for effectively managing investments and mitigating risks. Different order types serve different purposes and are suited for various [trading strategies](../t/trading_strategies.md). Here, we will dive into the most commonly used order types in trading, explaining their functionalities, advantages, and potential disadvantages.
 
 ## Market Order
 
@@ -21,7 +21,7 @@ A market order is the simplest type of order. It is an order to buy or sell a se
 
 ## Limit Order
 
-A limit order is an order to buy or sell a security at a specific price or better. A buy limit order can only be executed at the limit price or lower, while a sell limit order can only be executed at the limit price or higher.
+A limit order is an order to buy or sell a security at a specific price or better. A [buy limit order](../b/buy_limit_order.md) can only be executed at the limit price or lower, while a sell limit order can only be executed at the limit price or higher.
 
 ### Characteristics of Limit Orders
 - **Price Control**: Traders can set the maximum or minimum price at which they are willing to buy or sell.
@@ -33,18 +33,18 @@ A limit order is an order to buy or sell a security at a specific price or bette
 
 ### Disadvantages
 - **Partial Fill**: The order may be partially filled if there isn’t enough liquidity at the specified price.
-- **Non-Execution Risk**: There is a risk that the order might not be executed if the market does not reach the specified price.
+- **Non-[Execution Risk](../e/execution_risk.md)**: There is a risk that the order might not be executed if the market does not reach the specified price.
 
 ## Stop Order
 
 A stop order, also known as a stop-loss order, is an order to buy or sell a security once its price reaches a specified level, known as the stop price. Once the stop price is reached, the stop order becomes a market order.
 
 ### Types of Stop Orders
-- **Buy Stop Order**: Placed above the current market price and is usually used to limit a loss or protect a profit on a short sale.
+- **[Buy Stop Order](../b/buy_stop_order.md)**: Placed above the current market price and is usually used to limit a loss or protect a profit on a short sale.
 - **Sell Stop Order**: Placed below the current market price and is typically used to protect a long position.
 
 ### Advantages
-- **Risk Management**: Helps limit losses or protect profits.
+- **[Risk Management](../r/risk_management.md)**: Helps limit losses or protect profits.
 - **Automation**: Automatically becomes a market order once the stop price is triggered.
 
 ### Disadvantages
@@ -64,7 +64,7 @@ A stop-limit order combines features of a stop order and a limit order. It becom
 - **Reduced Slippage**: Eliminates the risk of being executed at an unfavorable price.
 
 ### Disadvantages
-- **Non-Execution Risk**: The order may not be filled if the market price doesn’t reach the limit price.
+- **Non-[Execution Risk](../e/execution_risk.md)**: The order may not be filled if the market price doesn’t reach the limit price.
 - **Complexity**: More complex than standard stop or limit orders.
 
 ## Trailing Stop Order
@@ -137,7 +137,7 @@ A Good till Date (GTD) order is an order that remains active until a specified d
 
 ### Advantages
 - **Time Flexibility**: Provides a longer window for potential execution.
-- **Strategic Execution**: Suitable for longer-term trading strategies.
+- **Strategic Execution**: Suitable for longer-term [trading strategies](../t/trading_strategies.md).
 
 ### Disadvantages
 - **Risk of Non-Execution**: If the market does not reach the desired price by the expiry date, the order will not be fulfilled.
@@ -164,10 +164,10 @@ A day order is an order that is only valid for the trading day on which it is pl
 
 ### Characteristics of Day Orders
 - **Same-Day Expiry**: Valid only for the trading day.
-- **Temporal Limit**: Specific to the immediate trading environment.
+- **Temporal Limit**: Specific to the immediate [trading environment](../t/trading_environment.md).
 
 ### Advantages
-- **Day-Trading Alignment**: Suitable for intraday trading strategies.
+- **Day-Trading Alignment**: Suitable for [intraday trading](../i/intraday_trading.md) strategies.
 - **Automatic Cancellation**: Reduces the risk of unintended trades in the future.
 
 ### Disadvantages

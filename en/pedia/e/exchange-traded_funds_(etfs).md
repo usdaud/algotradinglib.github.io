@@ -1,6 +1,6 @@
 # Exchange-Traded Funds (ETFs)
 
-Exchange-Traded Funds (ETFs) are investment funds that are traded on stock exchanges, much like stocks. An ETF holds assets such as stocks, commodities, or bonds and generally operates with an arbitrage mechanism designed to keep it trading close to its net asset value, although deviations can occasionally occur.
+Exchange-Traded Funds (ETFs) are investment funds that are traded on stock exchanges, much like stocks. An ETF holds assets such as stocks, commodities, or bonds and generally operates with an [arbitrage](../a/arbitrage.md) mechanism designed to keep it trading close to its net asset value, although deviations can occasionally occur.
 
 ETFs are a popular choice among investors due to their flexibility, liquidity, and low costs. They are usually constructed to track an index, such as the S&P 500, and provide investors with a way to earn returns similar to the performance of the index without having to buy each individual stock within the index.
 
@@ -16,7 +16,7 @@ Fixed-income ETFs invest in bonds or other debt instruments. They can focus on g
 Commodity ETFs invest in physical commodities like gold, silver, oil, or agricultural products. Notable examples include the SPDR Gold Shares (GLD) and the United States Oil Fund (USO).
 
 ### Inverse and Leveraged ETFs
-Inverse ETFs are designed to profit from a decline in the value of the underlying index or asset. Leveraged ETFs aim to deliver multiples of the performance of the index they track, both on the upside and downside. Examples include the ProShares UltraPro Short S&P 500 ETF (SPXU) and the Direxion Daily Financial Bull 3x Shares (FAS).
+[Inverse ETFs](../i/inverse_etfs.md) are designed to profit from a decline in the value of the underlying index or asset. [Leveraged ETFs](../l/leveraged_etfs.md) aim to deliver multiples of the performance of the index they track, both on the upside and downside. Examples include the ProShares UltraPro Short S&P 500 ETF (SPXU) and the Direxion Daily Financial Bull 3x Shares (FAS).
 
 ### International ETFs
 International ETFs provide exposure to foreign markets and can be segmented by region (e.g., Europe, Asia) or by country. Examples include the iShares MSCI Emerging Markets ETF (EEM) and the Vanguard FTSE Europe ETF (VGK).
@@ -27,7 +27,7 @@ International ETFs provide exposure to foreign markets and can be segmented by r
 ETFs are created and redeemed through a process involving authorized participants (APs), which are typically large financial institutions. The process involves the exchange of the ETF's underlying securities for ETF shares (creation) or ETF shares for the underlying securities (redemption).
 
 ### Arbitrage Mechanism
-The arbitrage mechanism ensures the price of the ETF remains close to its net asset value (NAV). If the ETF's market price deviates from the NAV, authorized participants can take advantage of the discrepancy. If the ETF is trading at a discount, APs buy the ETF shares and sell the underlying securities. If the ETF is trading at a premium, APs buy the underlying securities and create new ETF shares to sell on the market.
+The [arbitrage](../a/arbitrage.md) mechanism ensures the price of the ETF remains close to its net asset value (NAV). If the ETF's market price deviates from the NAV, authorized participants can take advantage of the discrepancy. If the ETF is trading at a discount, APs buy the ETF shares and sell the underlying securities. If the ETF is trading at a premium, APs buy the underlying securities and create new ETF shares to sell on the market.
 
 ### Dividends and Capital Gains
 ETFs typically distribute dividends received from their underlying stocks to shareholders in the form of periodic payments. Capital gains distributions can also occur, though they are usually minimized due to the in-kind creation and redemption process that allows ETFs to manage and control taxable events.
@@ -50,7 +50,7 @@ ETFs are generally required to disclose their holdings on a daily basis, providi
 Due to the in-kind creation and redemption process, ETFs can minimize capital gains distributions, making them more tax-efficient than mutual funds. Investors can potentially defer taxes until they sell their ETF shares.
 
 ### Flexibility
-ETFs offer flexibility in terms of investment strategies. Investors can use ETFs for a variety of purposes, including hedging risk, gaining exposure to specific sectors or markets, or implementing tactical asset allocation.
+ETFs offer flexibility in terms of investment strategies. Investors can use ETFs for a variety of purposes, including hedging risk, gaining exposure to specific sectors or markets, or implementing tactical [asset allocation](../a/asset_allocation.md).
 
 ## Risks and Considerations
 
@@ -58,16 +58,16 @@ ETFs offer flexibility in terms of investment strategies. Investors can use ETFs
 Like all investments, ETFs are subject to market risk. The value of an ETF can fluctuate based on the performance of its underlying assets. Investors should be prepared for potential losses, especially in volatile markets.
 
 ### Tracking Error
-Tracking error refers to the discrepancy between the ETF's performance and the performance of the index it aims to track. Factors contributing to tracking error include management fees, trading costs, and imperfect replication of the index. 
+Tracking error refers to the discrepancy between the ETF's performance and the performance of the index it aims to track. Factors contributing to tracking error include management fees, [trading costs](../t/trading_costs.md), and imperfect replication of the index. 
 
 ### Liquidity Risk
-While many ETFs are highly liquid, some ETFs, especially those that invest in less liquid assets, can experience liquidity risk. This risk can manifest in wider bid-ask spreads and increased trading costs during periods of market stress or illiquidity.
+While many ETFs are highly liquid, some ETFs, especially those that invest in less liquid assets, can experience [liquidity risk](../l/liquidity_risk.md). This risk can manifest in wider bid-ask spreads and increased [trading costs](../t/trading_costs.md) during periods of market stress or illiquidity.
 
 ### Counterparty Risk
-ETFs that use derivatives or engage in securities lending are exposed to counterparty risk. This risk arises from the possibility that the counterparty to a transaction might default on its obligations.
+ETFs that use [derivatives](../d/derivatives.md) or engage in [securities lending](../s/securities_lending.md) are exposed to [counterparty risk](../c/counterparty_risk.md). This risk arises from the possibility that the counterparty to a transaction might default on its obligations.
 
 ### Complexity
-Some types of ETFs, such as leveraged and inverse ETFs, are more complex and might not be suitable for all investors. These ETFs require a higher level of understanding due to their unique risks and investment strategies.
+Some types of ETFs, such as leveraged and [inverse ETFs](../i/inverse_etfs.md), are more complex and might not be suitable for all investors. These ETFs require a higher level of understanding due to their unique risks and investment strategies.
 
 ## ETF Providers and Key Players
 

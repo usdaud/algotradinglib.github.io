@@ -1,6 +1,6 @@
 # Unusual Trading Patterns
 
-In the realm of financial markets, trading patterns refer to recognizable geometric shapes or movements in price charts that are consistent enough to offer predictive power for future price movements. These trading patterns are critical for traders, especially in algorithmic trading (often referred to as algo trading), where the development and backtesting of strategies are highly reliant on identifying such patterns. However, traditional trading patterns (like head and shoulders, cup and handle, etc.) are well-studied and well-understood by many traders. What sets the experts apart is their ability to recognize and leverage unusual trading patterns that aren't as widely known or acknowledged. In this context, we will explore some less conventional and more sophisticated trading patterns that can offer significant trading advantages.
+In the realm of financial markets, trading patterns refer to recognizable geometric shapes or movements in price charts that are consistent enough to offer predictive power for future price movements. These trading patterns are critical for traders, especially in [algorithmic trading](../a/algorithmic_trading.md) (often referred to as algo trading), where the development and [backtesting](../b/backtesting.md) of strategies are highly reliant on identifying such patterns. However, traditional trading patterns (like head and shoulders, cup and handle, etc.) are well-studied and well-understood by many traders. What sets the experts apart is their ability to recognize and leverage unusual trading patterns that aren't as widely known or acknowledged. In this context, we will explore some less conventional and more sophisticated trading patterns that can offer significant trading advantages.
 
 ## 1. **Abandoned Baby Pattern**
 
@@ -29,7 +29,7 @@ The 'Waterfall Decline' pattern occurs when an asset experiences a sharp, rapid 
 - Often followed by a short-term bounce or a steep decline continuation.
 
 ### Algorithmic Detection:
-Using Moving Averages and Relative Strength Index (RSI), trading algorithms can detect the sharp downward movements and trigger short-selling strategies. 
+Using Moving Averages and Relative Strength Index (RSI), [trading algorithms](../t/trading_algorithms.md) can detect the sharp downward movements and trigger short-selling strategies. 
 
 ## 3. **Diamond Top/Bottom Patterns**
 
@@ -42,7 +42,7 @@ Diamond patterns are rare but can be powerful indicators of trend reversals. A '
 4. Breakout from the narrowing range confirming the pattern.
 
 ### Practical Implementation:
-Automated trading systems can recognize diamond shapes by analyzing price peaks and troughs. After validating the symmetry and volume trends within the pattern, algorithms can execute trades anticipating the reversal.
+[Automated trading systems](../a/automated_trading_systems.md) can recognize diamond shapes by analyzing price peaks and troughs. After validating the symmetry and volume trends within the pattern, algorithms can execute trades anticipating the reversal.
 
 ## 4. **Bump and Run Reversal Pattern**
 
@@ -52,7 +52,7 @@ Described in the notable work by Thomas Bulkowski, the 'Bump and Run Reversal' p
 3. **Run Phase**: Price reverses and declines back to the Lead-in trendline.
 
 ### Trading Strategy:
-Identifying the 'bump' phase is crucial. By defining a threshold for the acceleration slope, trading algorithms can trigger alerts and position adjustments to capitalize on the forthcoming 'run' phase.
+Identifying the 'bump' phase is crucial. By defining a threshold for the acceleration slope, [trading algorithms](../t/trading_algorithms.md) can trigger alerts and position adjustments to capitalize on the forthcoming 'run' phase.
 
 ## 5. **Scallop Patterns**
 
@@ -64,7 +64,7 @@ Scallop patterns are curved formations that signify continuations or reversals, 
 3. A breakout that confirms the continuation of the prior trend.
 
 ### Automation:
-By employing polynomial regression lines, trading algorithms can fit curves to detect scallop shapes, confirming a potential continuation or reversal signal.
+By employing polynomial regression lines, [trading algorithms](../t/trading_algorithms.md) can fit curves to detect scallop shapes, confirming a potential continuation or reversal signal.
 
 ## 6. **Three-Line Strike Pattern**
 
@@ -99,7 +99,7 @@ The 'Hikkake Pattern' consists of a failed breakout, leading to a reversal. It's
 3. A subsequent bar that closes within the range of the inside bar, indicating a failed breakout.
 
 ### Strategy:
-Algorithms track inside bars and breakout failures, setting triggers when the conditions of this pattern emerge, allowing for entry against the initial breakout direction.
+Algorithms track inside bars and [breakout failures](../b/breakout_failures.md), setting triggers when the conditions of this pattern emerge, allowing for entry against the initial breakout direction.
 
 ## 9. **Wolfe Wave Pattern**
 
@@ -111,7 +111,7 @@ The 'Wolfe Wave' pattern is a natural, harmonically balanced formation created b
 3. Target lines projecting from wave one through wave four.
 
 ### Execution:
-Pattern recognition algorithms plot these waves, ensuring accuracy, especially in dynamic markets. Wolfe Waves often provide precise entry and exit points.
+[Pattern recognition](../p/pattern_recognition.md) algorithms plot these waves, ensuring accuracy, especially in dynamic markets. Wolfe Waves often provide precise entry and exit points.
 
 [AlgoTrading Company](https://www.algotradingcompany.com)
 
@@ -131,4 +131,4 @@ Algorithmic systems, leveraging Fibonacci algorithms, scan for these retracement
 
 ## Conclusion
 
-Unusual trading patterns offer sophisticated traders and algorithms significant advantages in anticipating market movements more accurately and earlier than the more traditional patterns. The ability to detect, understand, and execute trades based on these patterns involves integrating advanced pattern recognition algorithms, sophisticated backtesting, and a keen understanding of market behavior. These strategies encompass a mix of classic technical analysis augmented with cutting-edge algorithmic detection methods, providing a robust approach to exploiting market inefficiencies.
+Unusual trading patterns offer sophisticated traders and algorithms significant advantages in anticipating market movements more accurately and earlier than the more traditional patterns. The ability to detect, understand, and execute trades based on these patterns involves integrating advanced [pattern recognition](../p/pattern_recognition.md) algorithms, sophisticated [backtesting](../b/backtesting.md), and a keen understanding of market behavior. These strategies encompass a mix of classic [technical analysis](../t/technical_analysis.md) augmented with cutting-edge algorithmic detection methods, providing a robust approach to exploiting market inefficiencies.

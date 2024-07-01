@@ -1,6 +1,6 @@
 # Horizontal Spread
 
-A Horizontal Spread, also known as a Calendar Spread or Time Spread, is an options strategy involving the purchase of one option and the simultaneous sale of another option of the same underlying asset, the same strike price, but with a different expiration date. This can be executed using either call options or put options. The primary aim of a horizontal spread is to benefit from volatility and time decay while minimizing the impact of price movements in the underlying asset.
+A Horizontal Spread, also known as a Calendar Spread or Time Spread, is an options strategy involving the purchase of one option and the simultaneous sale of another option of the same underlying asset, the same strike price, but with a different expiration date. This can be executed using either call options or [put options](../p/put_options.md). The primary aim of a horizontal spread is to benefit from volatility and time decay while minimizing the impact of price movements in the underlying asset.
 
 ## Key Components of Horizontal Spread
 
@@ -12,7 +12,7 @@ A Horizontal Spread, also known as a Calendar Spread or Time Spread, is an optio
 ## Types of Horizontal Spreads
 
 1. **Call Horizontal Spread**: Involves buying and selling call options with different expiration dates.
-2. **Put Horizontal Spread**: Involves buying and selling put options with different expiration dates.
+2. **Put Horizontal Spread**: Involves buying and selling [put options](../p/put_options.md) with different expiration dates.
 
 ## Construction of a Horizontal Spread
 
@@ -59,7 +59,7 @@ Companies experience increased volatility during earnings reports. Traders can u
 
 ### Scenario 2: Capitalizing on Predictable Events
 
-Events like FDA announcements, product launches, or geopolitical events can cause volatility spikes. Traders may use horizontal spreads to potentially profit from these anticipated movements.
+Events like FDA announcements, product launches, or [geopolitical events](../g/geopolitical_events.md) can cause volatility spikes. Traders may use horizontal spreads to potentially profit from these anticipated movements.
 
 ### Key Considerations
 
@@ -71,7 +71,7 @@ Events like FDA announcements, product launches, or geopolitical events can caus
 Several tools and platforms help traders execute and manage horizontal spreads. Some notable ones include:
 
 1. **Thinkorswim by TD Ameritrade**: Offers advanced options trading capabilities and analytical tools. [TD Ameritrade](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
-2. **Interactive Brokers**: Provides robust options trading features and risk management tools. [Interactive Brokers](https://www.interactivebrokers.com)
+2. **Interactive Brokers**: Provides robust options trading features and [risk management](../r/risk_management.md) tools. [Interactive Brokers](https://www.interactivebrokers.com)
 3. **Tastyworks**: Known for its options trading tools and educational resources. [Tastyworks](https://www.tastyworks.com)
 
 ## Conclusion

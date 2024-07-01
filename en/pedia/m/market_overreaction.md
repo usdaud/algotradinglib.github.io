@@ -1,6 +1,6 @@
 # Market Overreaction
 
-Market overreaction is a phenomenon in financial markets where the price of a security dramatically inflates or deflates in response to news or events, reflecting a disproportionate reaction from investors. This behavior can cause securities to be temporarily overvalued or undervalued compared to their intrinsic values. Market overreaction is a topic of significant interest in behavioral finance, as it defies the traditional efficient market hypothesis (EMH) which asserts that asset prices always reflect all available information.
+Market overreaction is a phenomenon in financial markets where the price of a security dramatically inflates or deflates in response to news or events, reflecting a disproportionate reaction from investors. This behavior can cause securities to be temporarily overvalued or undervalued compared to their intrinsic values. Market overreaction is a topic of significant interest in [behavioral finance](../b/behavioral_finance.md), as it defies the traditional [efficient market hypothesis](../e/efficient_market_hypothesis.md) (EMH) which asserts that asset prices always reflect all available information.
 
 ## Causes of Market Overreaction
 
@@ -16,7 +16,7 @@ Market overreaction is a phenomenon in financial markets where the price of a se
 3. **Liquidity and Trading Volume**
    - A sudden increase or decrease in trading volume can result in significant price changes. Low liquidity situations can amplify these effects, leading to greater price volatility.
 
-4. **Algorithmic Trading**
+4. **[Algorithmic Trading](../a/algorithmic_trading.md)**
    - High-frequency trading (HFT) algorithms reacting to breaking news can lead to swift and substantial price movements. These algorithms can perpetuate overreactions as they are programmed to respond to market conditions in fractions of a second.
 
 ## Consequences of Market Overreaction
@@ -31,7 +31,7 @@ Market overreaction is a phenomenon in financial markets where the price of a se
    - Eventually, the market tends to correct itself when more rational analysis and calmer heads prevail, returning prices closer to their intrinsic values.
 
 4. **Impact on Investment Strategies**
-   - Investors employing strategies such as mean reversion or value investing may seek to capitalize on overreactions by taking positions opposite to the prevailing trend.
+   - Investors employing strategies such as [mean reversion](../m/mean_reversion.md) or [value investing](../v/value_investing.md) may seek to capitalize on overreactions by taking positions opposite to the prevailing trend.
    - Quantitative and fundamental analysts may adjust their models to account for potential overreaction scenarios.
 
 ## Empirical Evidence
@@ -61,7 +61,7 @@ Several academic studies have documented instances of market overreaction:
 3. **Use of Stop-Loss and Limit Orders**
    - These tools can help investors protect their portfolios from significant price swings in the short term.
 
-4. **Algorithmic Trading Adjustments**
+4. **[Algorithmic Trading](../a/algorithmic_trading.md) Adjustments**
    - Traders and firms can fine-tune their algorithmic models to recognize and either mitigate or capitalize on market overreaction.
 
 ## Case Studies
@@ -70,7 +70,7 @@ Several academic studies have documented instances of market overreaction:
    - The rapid rise and subsequent crash of internet-based companies' stock prices is a classic example of market overreaction, driven by investor euphoria and speculative trading.
 
 2. **2010 Flash Crash**
-   - On May 6, 2010, the Dow Jones Industrial Average experienced a sudden and dramatic plunge, largely attributed to algorithmic trading and a temporary overreaction to market conditions.
+   - On May 6, 2010, the Dow Jones Industrial Average experienced a sudden and dramatic plunge, largely attributed to [algorithmic trading](../a/algorithmic_trading.md) and a temporary overreaction to market conditions.
 
 3. **COVID-19 Pandemic (2020)**
    - The initial market reactions to the COVID-19 pandemic saw major stock indices plummet, followed by a significant rebound and continued volatility as new information emerged and uncertainty lingered.
@@ -78,7 +78,7 @@ Several academic studies have documented instances of market overreaction:
 ## Relevant Companies
 
 1. **Bridgewater Associates**
-   - [Bridgewater Associates](https://www.bridgewater.com/) is one of the world’s largest hedge funds and is known for using quantitative approaches to investment, including strategies to counter market overreactions.
+   - [Bridgewater Associates](https://www.bridgewater.com/) is one of the world’s largest hedge funds and is known for using [quantitative approaches](../q/quantitative_approaches.md) to investment, including strategies to counter market overreactions.
    
 2. **Two Sigma**
    - [Two Sigma](https://www.twosigma.com/) employs data science and advanced technology to manage billions of dollars, focusing on market inefficiencies including overreactions.

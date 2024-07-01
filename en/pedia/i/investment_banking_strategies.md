@@ -1,6 +1,6 @@
 ## Investment Banking Strategies
 
-**Investment Banking** is a specialized segment of banking that assists individuals, corporations, and governments in raising capital by underwriting and acting as the client's agent in the issuance of securities. They also provide ancillary services such as market making, trading of derivatives and fixed income instruments, foreign exchange, and commodities, as well as advisory services for mergers and acquisitions (M&A). Here, we delve into some of the key strategies employed in investment banking that allow financial institutions to provide superior service to their clients and capture lucrative market opportunities.
+**Investment Banking** is a specialized segment of banking that assists individuals, corporations, and governments in raising capital by underwriting and acting as the client's agent in the issuance of securities. They also provide ancillary services such as market making, trading of [derivatives](../d/derivatives.md) and fixed income instruments, foreign exchange, and commodities, as well as advisory services for mergers and acquisitions (M&A). Here, we delve into some of the key strategies employed in investment banking that allow financial institutions to provide superior service to their clients and capture lucrative market opportunities.
 
 ### 1. Mergers and Acquisitions (M&A) Advisory
 
@@ -32,27 +32,27 @@ Investment banks often provide restructuring services to organizations facing fi
 
 ### 4. Proprietary Trading
 
-Proprietary trading (or prop trading) involves the bank trading its own money in financial markets to generate profit. Unlike trades conducted on behalf of clients, these are made using the bank’s own capital.
+[Proprietary trading](../p/proprietary_trading.md) (or prop trading) involves the bank trading its own money in financial markets to generate profit. Unlike trades conducted on behalf of clients, these are made using the bank’s own capital.
 
-**Key Strategies in Proprietary Trading:**
-- **Arbitrage:** Exploiting price differences of identical or similar financial instruments on different markets.
-- **Algorithmic Trading:** Using complex algorithms and high-speed data networks to carry out high-frequency trading (HFT).
-- **Volatility Arbitrage:** Trading options and other financial instruments based on forecasted changes in market volatility.
+**Key Strategies in [Proprietary Trading](../p/proprietary_trading.md):**
+- **[Arbitrage](../a/arbitrage.md):** Exploiting price differences of identical or similar financial instruments on different markets.
+- **[Algorithmic Trading](../a/algorithmic_trading.md):** Using complex algorithms and high-speed data networks to carry out high-frequency trading (HFT).
+- **Volatility [Arbitrage](../a/arbitrage.md):** Trading options and other financial instruments based on forecasted changes in market volatility.
 
 ### 5. Market Making
 
 Market making is a service where the bank provides liquidity to the markets by buying and selling securities at specified prices at all times during market operations.
 
 **Functions of Market Makers:**
-- **Bid-Ask Spread Management:** Providing continuous buy (bid) and sell (ask) prices to facilitate market transactions.
+- **[Bid-Ask Spread](../b/bid-ask_spread.md) Management:** Providing continuous buy (bid) and sell (ask) prices to facilitate market transactions.
 - **Inventory Management:** Managing and balancing their inventory of securities to mitigate risk while ensuring liquidity.
 
 ### 6. Wealth Management and Advisory
 
-Wealth management involves providing a suite of financial services and products to high net-worth individuals (HNWIs). This includes investment management, estate planning, tax strategies, and more.
+[Wealth management](../w/wealth_management.md) involves providing a suite of financial services and products to high net-worth individuals (HNWIs). This includes investment management, estate planning, tax strategies, and more.
 
-**Services in Wealth Management:**
-- **Portfolio Management:** Crafting and managing a diverse portfolio tailored to the client's risk tolerance and investment goals.
+**Services in [Wealth Management](../w/wealth_management.md):**
+- **[Portfolio Management](../p/portfolio_management.md):** Crafting and managing a diverse portfolio tailored to the client's risk tolerance and investment goals.
 - **Retirement Planning:** Structuring financial strategies to ensure clients can sustain their lifestyles post-retirement.
 - **Philanthropic Advisory:** Assisting clients with charitable giving and establishing foundations.
 

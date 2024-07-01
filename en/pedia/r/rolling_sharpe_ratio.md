@@ -1,12 +1,12 @@
 ## Rolling Sharpe Ratio
 
-The Rolling Sharpe Ratio is a dynamic measure used in quantitative finance and algorithmic trading to assess the risk-adjusted performance of an asset or trading strategy over a specified rolling window period. Unlike the conventional Sharpe Ratio, which is static and calculated over the entire sample period, the Rolling Sharpe Ratio provides a time-series of Sharpe Ratios, allowing for a more granular view of performance fluctuations over time.
+The Rolling [Sharpe Ratio](../s/sharpe_ratio.md) is a dynamic measure used in [quantitative finance](../q/quantitative_finance.md) and [algorithmic trading](../a/algorithmic_trading.md) to assess the risk-adjusted performance of an asset or trading strategy over a specified rolling window period. Unlike the conventional [Sharpe Ratio](../s/sharpe_ratio.md), which is static and calculated over the entire sample period, the Rolling [Sharpe Ratio](../s/sharpe_ratio.md) provides a time-series of Sharpe Ratios, allowing for a more granular view of performance fluctuations over time.
 
 ### Definition and Calculation
 
-The Sharpe Ratio is defined as:
+The [Sharpe Ratio](../s/sharpe_ratio.md) is defined as:
 
-\[ \text{Sharpe Ratio} = \frac{E[R - R_f]}{\sigma} \]
+\[ \text{[Sharpe Ratio](../s/sharpe_ratio.md)} = \frac{E[R - R_f]}{\sigma} \]
 
 where:
 - \( R \) is the return of the asset or portfolio,
@@ -14,37 +14,37 @@ where:
 - \( E[R - R_f] \) is the expected excess return over the risk-free rate,
 - \( \sigma \) is the standard deviation of excess returns.
 
-The Rolling Sharpe Ratio adapts this formula into a rolling framework. If we denote the return series by \( r_t \), the risk-free rate by \( r_{f,t} \), and a window period by \( n \), the Rolling Sharpe Ratio at time \( t \) can be formulated as:
+The Rolling [Sharpe Ratio](../s/sharpe_ratio.md) adapts this formula into a rolling framework. If we denote the return series by \( r_t \), the risk-free rate by \( r_{f,t} \), and a window period by \( n \), the Rolling [Sharpe Ratio](../s/sharpe_ratio.md) at time \( t \) can be formulated as:
 
 \[ RS_t = \frac{\mu_t}{\sigma_t} \]
 
 where:
-- \( RS_t \) is the Rolling Sharpe Ratio at time \( t \),
+- \( RS_t \) is the Rolling [Sharpe Ratio](../s/sharpe_ratio.md) at time \( t \),
 - \( \mu_t \) is the mean excess return over the risk-free rate calculated over the window from \( t-n \) to \( t \),
 - \( \sigma_t \) is the standard deviation of excess returns over the same window from \( t-n \) to \( t \).
 
 ### Implementation Steps
 
-To implement the Rolling Sharpe Ratio:
+To implement the Rolling [Sharpe Ratio](../s/sharpe_ratio.md):
 
-1. **Determine the Window Size:** Choose a rolling window size \( n \). This window size defines the number of periods (days, weeks, months) over which the Sharpe Ratio will be computed.
+1. **Determine the Window Size:** Choose a rolling window size \( n \). This window size defines the number of periods (days, weeks, months) over which the [Sharpe Ratio](../s/sharpe_ratio.md) will be computed.
 2. **Calculate Excess Returns:** Compute the excess return over the risk-free rate for each period.
 3. **Rolling Mean and Standard Deviation:** For each time \( t \):
    - Calculate the mean excess return over the window period \( t-n \) to \( t \).
    - Calculate the standard deviation of excess returns over the same window.
-4. **Compute the Rolling Sharpe Ratio:** Divide the rolling mean by the rolling standard deviation for each period \( t \).
+4. **Compute the Rolling [Sharpe Ratio](../s/sharpe_ratio.md):** Divide the rolling mean by the rolling standard deviation for each period \( t \).
 
 ### Applications
 
-The Rolling Sharpe Ratio is widely used in the following contexts:
+The Rolling [Sharpe Ratio](../s/sharpe_ratio.md) is widely used in the following contexts:
 
 1. **Performance Analysis:** Investors and portfolio managers use it to track the risk-adjusted performance of an asset or portfolio over time. It provides insights into periods of underperformance and outperformance.
-2. **Strategy Evaluation:** Quantitative traders employ the Rolling Sharpe Ratio to evaluate and monitor trading strategies. It helps in identifying periods when a strategy may not be performing as expected.
-3. **Risk Management:** By analyzing the rolling performance, risk managers can identify periods of increased volatility and adjust their risk management strategies accordingly.
+2. **Strategy Evaluation:** Quantitative traders employ the Rolling [Sharpe Ratio](../s/sharpe_ratio.md) to evaluate and monitor [trading strategies](../t/trading_strategies.md). It helps in identifying periods when a strategy may not be performing as expected.
+3. **[Risk Management](../r/risk_management.md):** By analyzing the rolling performance, risk managers can identify periods of increased volatility and adjust their [risk management](../r/risk_management.md) strategies accordingly.
 
 ### Real-World Example
 
-Consider a hedge fund that wants to monitor the performance of its long/short equity strategy. The fund manager chooses a rolling window of 12 months to calculate the Rolling Sharpe Ratio. Each month, the manager calculates the one-year excess returns and their standard deviation, followed by the ratio of these two metrics to get the Rolling Sharpe Ratio.
+Consider a hedge fund that wants to monitor the performance of its long/short equity strategy. The fund manager chooses a rolling window of 12 months to calculate the Rolling [Sharpe Ratio](../s/sharpe_ratio.md). Each month, the manager calculates the one-year excess returns and their standard deviation, followed by the ratio of these two metrics to get the Rolling [Sharpe Ratio](../s/sharpe_ratio.md).
 
 ```python
 import pandas as pd
@@ -71,20 +71,20 @@ print(data[['rolling_mean', 'rolling_std', 'rolling_sharpe']].dropna())
 ### Advantages and Limitations
 
 #### Advantages:
-1. **Temporal Insights:** The Rolling Sharpe Ratio provides detailed insights into how performance and risk-adjusted returns evolve over time, capturing periods of volatility and stability.
-2. **Dynamic Risk Management:** It allows for better risk management by highlighting when the risk-adjusted performance deteriorates, prompting timely corrective measures.
+1. **Temporal Insights:** The Rolling [Sharpe Ratio](../s/sharpe_ratio.md) provides detailed insights into how performance and risk-adjusted returns evolve over time, capturing periods of volatility and stability.
+2. **Dynamic [Risk Management](../r/risk_management.md):** It allows for better [risk management](../r/risk_management.md) by highlighting when the risk-adjusted performance deteriorates, prompting timely corrective measures.
 3. **Strategy Refinement:** Traders can refine and adjust their strategies based on periods of underperformance, ensuring strategies remain robust over various market conditions.
 
 #### Limitations:
-1. **Data Intensive:** The calculation of the Rolling Sharpe Ratio requires extensive historical data, which may not always be available, especially for newer assets or markets.
-2. **Lagging Indicator:** As a backward-looking measure, the Rolling Sharpe Ratio may not fully capture imminent risks or shifts in market conditions, particularly in highly volatile markets.
+1. **Data Intensive:** The calculation of the Rolling [Sharpe Ratio](../s/sharpe_ratio.md) requires extensive historical data, which may not always be available, especially for newer assets or markets.
+2. **Lagging Indicator:** As a backward-looking measure, the Rolling [Sharpe Ratio](../s/sharpe_ratio.md) may not fully capture imminent risks or shifts in market conditions, particularly in highly volatile markets.
 3. **Choice of Window Size:** The choice of the rolling window size can significantly impact the results. Too short a window may lead to noisy estimates, while too long a window may smooth out important variations.
 
 ### Case Studies
 
 #### Hedge Fund Performance Tracking
 
-A hedge fund manager monitors the performance of their multi-strategy fund using the Rolling Sharpe Ratio with a 6-month rolling window. By analyzing the time-series of Rolling Sharpe Ratios, the manager identifies different phases in the fund’s performance:
+A hedge fund manager monitors the performance of their multi-strategy fund using the Rolling [Sharpe Ratio](../s/sharpe_ratio.md) with a 6-month rolling window. By analyzing the time-series of Rolling Sharpe Ratios, the manager identifies different phases in the fund’s performance:
 
 1. **Stable Periods:** High and consistent rolling ratios indicating strong risk-adjusted returns.
 2. **Drawdown Periods:** Declines in the rolling ratios signaling increased volatility or poor strategy performance.
@@ -94,22 +94,22 @@ Based on these insights, the manager can make informed decisions about strategy 
 
 #### Algorithmic Trading Strategy Analysis
 
-An algorithmic trading firm uses the Rolling Sharpe Ratio to evaluate the performance of its momentum-based trading strategy. They adopt a 3-month rolling window to track the strategy’s risk-adjusted returns. By doing so, they identify:
+An [algorithmic trading](../a/algorithmic_trading.md) firm uses the Rolling [Sharpe Ratio](../s/sharpe_ratio.md) to evaluate the performance of its momentum-based trading strategy. They adopt a 3-month rolling window to track the strategy’s risk-adjusted returns. By doing so, they identify:
 
-1. **In-Sample Performance:** Periods where the strategy performs well during backtesting.
+1. **In-Sample Performance:** Periods where the strategy performs well during [backtesting](../b/backtesting.md).
 2. **Out-of-Sample Evaluation:** Real-time performance monitoring to verify if the strategy maintains its effectiveness beyond the backtest period.
 3. **Market Regime Dependency:** Understanding how different market regimes (bullish, bearish, or sideways markets) impact the strategy’s performance.
 
-This allows the firm to continuously fine-tune their trading algorithms and manage risks more effectively.
+This allows the firm to continuously fine-tune their [trading algorithms](../t/trading_algorithms.md) and manage risks more effectively.
 
 ### Future Trends
 
-As the financial industry continues to evolve with advancements in technology and AI, the application and calculation of the Rolling Sharpe Ratio may see further innovations:
+As the financial industry continues to evolve with advancements in technology and AI, the application and calculation of the Rolling [Sharpe Ratio](../s/sharpe_ratio.md) may see further innovations:
 
-1. **Big Data and Machine Learning:** Leveraging big data and machine learning algorithms to predict rolling Sharpe Ratios based on a multitude of market factors and economic indicators.
+1. **Big Data and Machine Learning:** Leveraging big data and machine learning algorithms to predict rolling Sharpe Ratios based on a multitude of market factors and [economic indicators](../e/economic_indicators.md).
 2. **Real-Time Calculations:** With the advent of high-frequency trading, there may be increased use of real-time Rolling Sharpe Ratios, recalculated on very short frequencies (minutes, seconds) for intra-day performance monitoring.
-3. **Integration with Automated Trading Systems:** More sophisticated automated trading systems integrating real-time Rolling Sharpe Ratios to dynamically adjust trading strategies based on prevailing risk-adjusted performance metrics.
+3. **Integration with [Automated Trading Systems](../a/automated_trading_systems.md):** More sophisticated [automated trading systems](../a/automated_trading_systems.md) integrating real-time Rolling Sharpe Ratios to dynamically adjust [trading strategies](../t/trading_strategies.md) based on prevailing risk-adjusted [performance metrics](../p/performance_metrics.md).
 
 ### Conclusion
 
-The Rolling Sharpe Ratio is a powerful tool for continuous performance evaluation and risk management in the realm of algorithmic trading and investment management. By offering a detailed, temporal view of risk-adjusted returns, it equips traders, portfolio managers, and risk analysts with the insights necessary to make informed, dynamic decisions. The adaptability and robustness of this metric ensure its continued relevance in an ever-evolving financial landscape.
+The Rolling [Sharpe Ratio](../s/sharpe_ratio.md) is a powerful tool for continuous performance evaluation and [risk management](../r/risk_management.md) in the realm of [algorithmic trading](../a/algorithmic_trading.md) and investment management. By offering a detailed, temporal view of risk-adjusted returns, it equips traders, portfolio managers, and risk analysts with the insights necessary to make informed, dynamic decisions. The adaptability and robustness of this metric ensure its continued relevance in an ever-evolving financial landscape.

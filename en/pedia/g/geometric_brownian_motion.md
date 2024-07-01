@@ -1,6 +1,6 @@
 # Geometric Brownian Motion
 
-Geometric Brownian Motion (GBM) is a continuous-time stochastic process in which the logarithm of the randomly varying quantity follows a Brownian motion (also known as a Wiener process) with drift. GBM is widely used in financial mathematics and economics to model stock prices and other financial instruments. The mathematical formulation of GBM is crucial in the theory of option pricing and is a cornerstone in the famous Black-Scholes model. In this detailed overview, we will explore the properties, formulation, applications, and limitations of GBM, as well as relevant numerical simulation techniques.
+Geometric Brownian Motion (GBM) is a continuous-time stochastic process in which the logarithm of the randomly varying quantity follows a Brownian motion (also known as a Wiener process) with drift. GBM is widely used in financial mathematics and economics to model stock prices and other financial instruments. The mathematical formulation of GBM is crucial in the theory of option pricing and is a cornerstone in the famous [Black-Scholes model](../b/black-scholes_model.md). In this detailed overview, we will explore the properties, formulation, applications, and limitations of GBM, as well as relevant numerical [simulation techniques](../s/simulation_techniques.md).
 
 ### Mathematical Formulation
 
@@ -26,18 +26,18 @@ To solve the SDE for \( S_t \), we apply Ito's Lemma, which gives:
 where:
 - \( S_0 \) is the initial stock price at time \( t = 0 \).
 
-This solution shows that \( S_t \), the stock price, has a log-normal distribution due to the exponential of a normally distributed variable.
+This solution shows that \( S_t \), the stock price, has a [log-normal distribution](../l/log-normal_distribution.md) due to the exponential of a normally distributed variable.
 
 ### Properties of Geometric Brownian Motion
 
-1. **Log-Normal Distribution**: The prices modeled by GBM are log-normally distributed, meaning that the logarithms of the prices are normally distributed.
+1. **[Log-Normal Distribution](../l/log-normal_distribution.md)**: The prices modeled by GBM are log-normally distributed, meaning that the logarithms of the prices are normally distributed.
 2. **Non-Negativity**: GBM ensures that prices remain non-negative, a critical property for modeling real-world financial instruments.
 3. **Markov Property**: GBM is a Markov process, implying that the future price prediction depends only on the current price and not on the past prices.
 4. **Stationarity**: The increments of a GBM process, when appropriately normalized, are stationary.
 
 ### Applications of Geometric Brownian Motion
 
-1. **Option Pricing**: GBM is extensively used in the Black-Scholes model to derive the pricing of European call and put options.
+1. **Option Pricing**: GBM is extensively used in the [Black-Scholes model](../b/black-scholes_model.md) to derive the pricing of European call and [put options](../p/put_options.md).
     - Black-Scholes Formula: To price a European call option, the Black-Scholes formula takes the form:
     \[ C = S_0 N(d_1) - K e^{-rT} N(d_2) \]
 
@@ -50,8 +50,8 @@ This solution shows that \( S_t \), the stock price, has a log-normal distributi
     - \( r \) is the risk-free interest rate.
     - \( N(\cdot) \) is the cumulative distribution function of the standard normal distribution.
 
-2. **Stock Price Modeling**: GBM is used to simulate future stock prices, enabling risk assessment and portfolio management.
-3. **Risk Management**: By simulating the future distribution of asset prices, firms can quantify potential risks and set appropriate capital reserves.
+2. **Stock Price Modeling**: GBM is used to simulate future stock prices, enabling risk assessment and [portfolio management](../p/portfolio_management.md).
+3. **[Risk Management](../r/risk_management.md)**: By simulating the future distribution of asset prices, firms can quantify potential risks and set appropriate capital reserves.
 4. **Monte Carlo Simulations**: GBM is utilized to perform Monte Carlo simulations to evaluate complex derivative products and investment strategies.
 
 ### Numerical Simulation of Geometric Brownian Motion
@@ -101,17 +101,17 @@ plt.show()
 ### Limitations of Geometric Brownian Motion
 
 1. **Constant Volatility**: GBM assumes a constant volatility over time, which is unrealistic in real markets where volatility can change.
-2. **Log-Normal Distribution**: Real stock returns may have heavier tails (fat tails) than a log-normal distribution, leading to an underestimation of extreme events.
-3. **No Mean Reversion**: GBM does not account for mean reversion, a property observed in some financial instruments where prices tend to revert to a long-term mean.
+2. **[Log-Normal Distribution](../l/log-normal_distribution.md)**: Real stock returns may have heavier tails (fat tails) than a [log-normal distribution](../l/log-normal_distribution.md), leading to an underestimation of extreme events.
+3. **No [Mean Reversion](../m/mean_reversion.md)**: GBM does not account for [mean reversion](../m/mean_reversion.md), a property observed in some financial instruments where prices tend to revert to a long-term mean.
 4. **No Jumps**: GBM does not model sudden, large movements (jumps) in stock prices that can occur due to unforeseen events.
 
 ### Extensions and Alternatives to GBM
 
-1. **Stochastic Volatility Models**: Models like the Heston model incorporate stochastic volatility to address the limitation of constant volatility.
+1. **[Stochastic Volatility Models](../s/stochastic_volatility_models.md)**: Models like the Heston model incorporate stochastic volatility to address the limitation of constant volatility.
 2. **Jump-Diffusion Models**: The Merton model includes jumps in addition to the diffusion process, allowing for sudden price changes.
 3. **Mean-Reverting Processes**: Mean-reverting models like the Ornstein-Uhlenbeck process are used for assets that exhibit mean-reverting behavior.
-4. **ARCH/GARCH Models**: These models allow volatility to change over time based on past market behavior.
+4. **ARCH/[GARCH Models](../g/garch_models.md)**: These models allow volatility to change over time based on past market behavior.
 
-In conclusion, Geometric Brownian Motion is a foundational concept in financial mathematics, providing a simple yet powerful framework for modeling stock prices and other financial instruments. Despite its limitations, it serves as a building block for more sophisticated models and remains widely used in academia and industry for option pricing, risk management, and financial simulations.
+In conclusion, Geometric Brownian Motion is a foundational concept in financial mathematics, providing a simple yet powerful framework for modeling stock prices and other financial instruments. Despite its limitations, it serves as a building block for more sophisticated models and remains widely used in academia and industry for option pricing, [risk management](../r/risk_management.md), and financial simulations.
 
-For more information, you might want to delve further into resources provided by financial institutions and universities that specialize in financial mathematics and stochastic processes.
+For more information, you might want to delve further into resources provided by financial institutions and universities that specialize in financial mathematics and [stochastic processes](../s/stochastic_processes.md).

@@ -11,7 +11,7 @@ The zero bound interest rate environment is not just a theoretical possibility b
 ## Fundamental Concepts
 
 ### Zero Lower Bound (ZLB)
-Zero Lower Bound refers to the situation where short-term nominal interest rates are at or near zero, limiting the central bank’s ability to further reduce rates to stimulate the economy. This limitation poses significant policy challenges and forces central banks to consider alternative monetary tools such as quantitative easing.
+[Zero Lower Bound](../z/zero_lower_bound.md) refers to the situation where short-term nominal interest rates are at or near zero, limiting the central bank’s ability to further reduce rates to stimulate the economy. This limitation poses significant policy challenges and forces central banks to consider alternative monetary tools such as [quantitative easing](../q/quantitative_easing.md).
 
 ### Negative Interest Rate Policy (NIRP)
 In some instances, central banks have ventured into negative interest rate territory. This policy aims to encourage banks to lend more by penalizing them for holding excess reserves. While NIRP can stimulate economic activity, it also introduces complexities like affecting the profitability of banks and causing potential dislocations in financial markets.
@@ -19,7 +19,7 @@ In some instances, central banks have ventured into negative interest rate terri
 ## Major Strategies
 
 ### 1. Arbitrage Strategies
-Arbitrage strategies involve taking advantage of price differentials to earn risk-free profit. In a zero bound environment, traders look for inefficiencies in the market pricing of various financial instruments.
+[Arbitrage](../a/arbitrage.md) strategies involve taking advantage of price differentials to earn risk-free profit. In a zero bound environment, traders look for inefficiencies in the market pricing of various financial instruments.
 
 #### Convertible Bond Arbitrage
 This strategy involves purchasing convertible bonds and shorting the underlying equity. The aim is to exploit pricing inefficiencies between the bond and the stock. Convertible bonds' features make them less sensitive to interest rate changes, making this strategy particularly useful in a zero-bound environment.
@@ -28,19 +28,19 @@ This strategy involves purchasing convertible bonds and shorting the underlying 
 This strategy entails investing in companies involved in mergers or acquisitions. Traders buy stocks of the target company and, if applicable, short the stock of the acquiring company. This bets on the successful completion of the deal, where price discrepancies between the trading prices and the deal terms arise.
 
 ### 2. Yield Enhancement
-Yield enhancement strategies aim to generate additional income through alternative methods and instruments.
+[Yield enhancement strategies](../y/yield_enhancement_strategies.md) aim to generate additional income through alternative methods and instruments.
 
 #### Covered Call Writing
 This strategy involves holding a long position in an asset, such as stocks or ETFs, and writing call options on that same asset. Selling call options generates premium income, providing an additional yield over any dividends received.
 
 #### Put Selling
-Selling put options involve receiving premium income by agreeing to buy an asset at a predetermined price if the option is exercised. This approach can offer attractive returns but comes with the risk of purchasing the asset at a less-favorable price.
+Selling [put options](../p/put_options.md) involve receiving premium income by agreeing to buy an asset at a predetermined price if the option is exercised. This approach can offer attractive returns but comes with the risk of purchasing the asset at a less-favorable price.
 
 ### 3. Spread Trading
-Spread trading involves taking long and short positions in two different but related securities to profit from the “spread,” or the difference in price movements.
+[Spread trading](../s/spread_trading.md) involves taking long and short positions in two different but related securities to profit from the “spread,” or the difference in price movements.
 
 #### Domestic Interest Rate Spreads
-In this strategy, traders exploit the spread differences between various maturities of interest rate instruments like Treasury bills, notes, and bonds. This could involve taking long positions in short-term instruments while shorting long-term instruments if a yield curve steepening is anticipated, or vice versa.
+In this strategy, traders exploit the spread differences between various maturities of interest rate instruments like Treasury bills, notes, and bonds. This could involve taking long positions in short-term instruments while shorting long-term instruments if a [yield curve](../y/yield_curve.md) steepening is anticipated, or vice versa.
 
 #### International Rate Spreads
 This strategy involves taking positions based on interest rate differentials between different countries. Traders may exploit the yield differential between two nations by going long on the currency or bond of a higher-yielding country and shorting the lower-yielding counterpart.
@@ -61,18 +61,18 @@ Quantitative strategies leverage mathematical models and statistical methods to 
 This strategy involves the use of statistical models to identify pricing inefficiencies between related financial instruments. Traders move swiftly to exploit these discrepancies, often using high-frequency trading methods for quick execution.
 
 #### Machine Learning Algorithms
-Advanced machine learning algorithms can predict price movements by analyzing vast datasets, creating opportunities even in low-yield environments. These algorithms continually adapt by learning from new data, offering dynamic trading strategies that conventional models might miss.
+Advanced machine learning algorithms can predict price movements by analyzing vast datasets, creating opportunities even in low-yield environments. These algorithms continually adapt by learning from new data, offering dynamic [trading strategies](../t/trading_strategies.md) that conventional models might miss.
 
 ## Key Considerations
 
 ### Risk Management
-Zero Bound Yield Strategies often involve complex instruments and techniques, requiring robust risk management practices. Volatility, liquidity risks, and counterparty risks are particularly relevant in this context.
+Zero Bound Yield Strategies often involve complex instruments and techniques, requiring robust [risk management](../r/risk_management.md) practices. Volatility, liquidity risks, and counterparty risks are particularly relevant in this context.
 
 ### Regulatory Environment
 Different strategies might be subject to varied regulatory scrutiny. Adhering to local and international regulations is crucial to avoid penalties and ensure the long-term viability of investments.
 
 ### Technological Infrastructure
-Robust technological infrastructure is essential for executing many zero-bound strategies effectively. Systems need to be capable of handling high volumes of transactions with minimal latency, especially for high-frequency trading strategies.
+Robust technological infrastructure is essential for executing many zero-bound strategies effectively. Systems need to be capable of handling high volumes of transactions with minimal latency, especially for high-frequency [trading strategies](../t/trading_strategies.md).
 
 ## Conclusion
 

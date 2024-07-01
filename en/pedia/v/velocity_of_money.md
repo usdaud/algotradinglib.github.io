@@ -1,6 +1,6 @@
 # Velocity of Money
 
-The velocity of money (VoM) is a crucial concept in economics and finance that measures the rate at which money is exchanged in an economy. It is calculated by dividing a nation's gross domestic product (GDP) by the total money supply. An understanding of VoM is essential for financial analysts, policymakers, and especially for algorithmic traders who utilize economic indicators to inform and optimize their trading strategies. This topic has significant implications for monetary policy, financial market understanding, and the overall economic health of a country. 
+The velocity of money (VoM) is a crucial concept in economics and finance that measures the rate at which money is exchanged in an economy. It is calculated by dividing a nation's gross domestic product (GDP) by the total money supply. An understanding of VoM is essential for financial analysts, policymakers, and especially for algorithmic traders who utilize [economic indicators](../e/economic_indicators.md) to inform and optimize their [trading strategies](../t/trading_strategies.md). This topic has significant implications for monetary policy, financial market understanding, and the overall economic health of a country. 
 
 ## Definition and Formula
 
@@ -52,18 +52,18 @@ The advent of digital currencies and blockchain technology is posing new dimensi
 
 ## Implications for Algorithmic Trading
 
-The velocity of money is a pertinent factor in algorithmic trading, informing strategies based on macroeconomic indicators. Traders can use VoM data to predict economic trends, helping them make informed decisions about asset prices and market movements. Algorithms can be programmed to react to changes in VoM, adjusting positions dynamically based on economic conditions.
+The velocity of money is a pertinent factor in [algorithmic trading](../a/algorithmic_trading.md), informing strategies based on macroeconomic indicators. Traders can use VoM data to predict economic trends, helping them make informed decisions about asset prices and market movements. Algorithms can be programmed to react to changes in VoM, adjusting positions dynamically based on economic conditions.
 
 For instance, if the velocity of money is increasing, indicating a bullish economic outlook, an algorithm might increase exposure to equities. Conversely, declining VoM might prompt reducing risk exposure or shifting to more conservative assets like bonds or gold.
 
 ### Algorithms and Economic Indicators
-Algorithm creators often incorporate multiple economic indicators including VoM, alongside metrics like unemployment rates, consumer spending, and interest rates, to create a comprehensive trading strategy. Advanced machine learning models can also be trained to recognize patterns and make predictions based on historical VoM data.
+Algorithm creators often incorporate multiple [economic indicators](../e/economic_indicators.md) including VoM, alongside metrics like unemployment rates, consumer spending, and interest rates, to create a comprehensive trading strategy. Advanced machine learning models can also be trained to recognize patterns and make predictions based on historical VoM data.
 
-Several companies and platforms provide services and tools for algorithmic trading. These include:
+Several companies and platforms provide services and tools for [algorithmic trading](../a/algorithmic_trading.md). These include:
 1. **QuantConnect** - https://www.quantconnect.com
 2. **AlgoTrader** - https://www.algotrader.com
 3. **Kensho Technologies** - https://www.kensho.com
 
 ## Conclusion
 
-Understanding the velocity of money is essential for anyone involved in economic policymaking, financial market analysis, or algorithmic trading. Its role in indicating economic health, influencing policy, and informing trading strategies cannot be overstated. As technology continues to evolve, so too will the methods for measuring and leveraging the velocity of money in economic and financial applications.
+Understanding the velocity of money is essential for anyone involved in economic policymaking, financial market analysis, or [algorithmic trading](../a/algorithmic_trading.md). Its role in indicating economic health, influencing policy, and informing [trading strategies](../t/trading_strategies.md) cannot be overstated. As technology continues to evolve, so too will the methods for measuring and leveraging the velocity of money in economic and financial applications.

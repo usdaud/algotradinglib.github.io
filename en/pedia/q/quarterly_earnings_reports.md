@@ -1,6 +1,6 @@
 # Quarterly Earnings Reports in Algorithmic Trading
 
-Quarterly earnings reports are a fundamental aspect of financial analysis and algorithmic trading. These reports are released by publicly-traded companies every three months and provide detailed insights into a company's financial performance. Algorithmic traders, who rely on sophisticated algorithms to make trading decisions, use quarterly earnings reports as a key dataset to inform their strategies. This comprehensive analysis will cover the significance, content, release protocols, and impact of quarterly earnings reports on algorithmic trading.
+Quarterly earnings reports are a fundamental aspect of financial analysis and [algorithmic trading](../a/algorithmic_trading.md). These reports are released by publicly-traded companies every three months and provide detailed insights into a company's financial performance. Algorithmic traders, who rely on sophisticated algorithms to make trading decisions, use quarterly earnings reports as a key dataset to inform their strategies. This comprehensive analysis will cover the significance, content, release protocols, and impact of quarterly earnings reports on [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Significance of Quarterly Earnings Reports
 
@@ -32,17 +32,17 @@ Quarterly earnings reports are generally released in accordance with the followi
 
 ## Impact on Algorithmic Trading
 
-Algorithmic trading systems leverage quarterly earnings reports in several ways:
+[Algorithmic trading](../a/algorithmic_trading.md) systems leverage quarterly earnings reports in several ways:
 
-1. **Earnings Surprises**: Algorithms are designed to detect earnings surprises – instances when reported earnings differ significantly from analyst expectations. Positive surprises can trigger buy signals, while negative surprises may prompt selling.
-2. **Sentiment Analysis**: Natural Language Processing (NLP) techniques are used to parse the textual content of earnings reports and earnings call transcripts to gauge market sentiment.
+1. **[Earnings Surprises](../e/earnings_surprises.md)**: Algorithms are designed to detect [earnings surprises](../e/earnings_surprises.md) – instances when reported earnings differ significantly from analyst expectations. Positive surprises can trigger buy signals, while negative surprises may prompt selling.
+2. **[Sentiment Analysis](../s/sentiment_analysis.md)**: Natural Language Processing (NLP) techniques are used to parse the textual content of earnings reports and earnings call transcripts to gauge market sentiment.
 3. **Quantitative Indicators**: Algorithms analyze quantitative metrics from the reports to update financial models and investment strategies.
-4. **Pattern Recognition**: Historical earnings data is used to identify patterns and trends that can predict future stock performance.
+4. **[Pattern Recognition](../p/pattern_recognition.md)**: Historical earnings data is used to identify patterns and trends that can predict future stock performance.
 5. **Volatility Predictions**: Earnings reports often lead to increased stock volatility. Algorithms can be fine-tuned to exploit this volatility through strategies like straddles and strangles in options trading.
 
 ## Leading Companies in Earnings Report Analysis for Algorithmic Trading
 
-Several firms specialize in providing tools and services for analyzing earnings reports in the context of algorithmic trading:
+Several firms specialize in providing tools and services for analyzing earnings reports in the context of [algorithmic trading](../a/algorithmic_trading.md):
 
 1. **FactSet Research Systems Inc.**: [FactSet](https://www.factset.com) offers comprehensive financial data, including earnings reports, to assist traders in making data-driven decisions.
 2. **Bloomberg L.P.**: [Bloomberg](https://www.bloomberg.com) provides an extensive range of financial information, analytics, and trading tools, including detailed earnings reports and analysis.
@@ -50,4 +50,4 @@ Several firms specialize in providing tools and services for analyzing earnings 
 
 ## Conclusion
 
-Quarterly earnings reports play a pivotal role in the ecosystem of algorithmic trading. By offering critical financial data and insights, these reports help algo traders make informed decisions and refine their trading strategies. As algorithmic trading continues to evolve, the integration of advanced data analytics, AI, and machine learning with quarterly earnings reports will likely become even more pronounced, ultimately enhancing the efficacy and profitability of trading systems.
+Quarterly earnings reports play a pivotal role in the ecosystem of [algorithmic trading](../a/algorithmic_trading.md). By offering critical financial data and insights, these reports help algo traders make informed decisions and refine their [trading strategies](../t/trading_strategies.md). As [algorithmic trading](../a/algorithmic_trading.md) continues to evolve, the integration of advanced data analytics, AI, and machine learning with quarterly earnings reports will likely become even more pronounced, ultimately enhancing the efficacy and profitability of [trading systems](../t/trading_systems.md).

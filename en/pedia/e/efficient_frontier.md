@@ -20,11 +20,11 @@ Diversification is a key component of creating an efficient portfolio. By invest
 
 ### Capital Allocation Line (CAL)
 
-The Capital Allocation Line connects the risk-free rate of return with the efficient frontier, creating a new efficient frontier that combines risk-free assets and risky portfolios.
+The [Capital Allocation](../c/capital_allocation.md) Line connects the risk-free rate of return with the efficient frontier, creating a new efficient frontier that combines risk-free assets and risky portfolios.
 
 ### Tangency Portfolio
 
-The point where the Capital Allocation Line touches the Efficient Frontier is known as the Tangency Portfolio. This portfolio has the highest Sharpe ratio, meaning it offers the best risk-adjusted return.
+The point where the [Capital Allocation](../c/capital_allocation.md) Line touches the Efficient Frontier is known as the Tangency Portfolio. This portfolio has the highest [Sharpe ratio](../s/sharpe_ratio.md), meaning it offers the best [risk-adjusted return](../r/risk-adjusted_return.md).
 
 ### Risk-Return Trade-off
 
@@ -34,7 +34,7 @@ Investors need to decide on their risk tolerance and expected return, which will
 
 ### Mean-Variance Optimization
 
-The Efficient Frontier is derived using mean-variance optimization, which requires the calculation of the following:
+The Efficient Frontier is derived using [mean-variance optimization](../m/mean-variance_optimization.md), which requires the calculation of the following:
 
 - **Expected Return (E(R))**: The weighted average of the expected returns for the individual assets in the portfolio.
 - **Portfolio Variance (σ²_p)**: The measure of risk, representing the portfolio's total variability.
@@ -66,7 +66,7 @@ Quadratic programming is used to solve for the optimal weights of the assets in 
 
 ### MATLAB
 
-MATLAB provides functions and toolboxes for portfolio optimization and determining the Efficient Frontier. The Financial Toolbox in MATLAB includes functions for mean-variance optimization.
+MATLAB provides functions and toolboxes for [portfolio optimization](../p/portfolio_optimization.md) and determining the Efficient Frontier. The Financial Toolbox in MATLAB includes functions for [mean-variance optimization](../m/mean-variance_optimization.md).
 
 ### Python Libraries
 
@@ -76,7 +76,7 @@ MATLAB provides functions and toolboxes for portfolio optimization and determini
 - **Pandas**: Used for data manipulation in constructing portfolios.
   - [Pandas Official Site](https://pandas.pydata.org/)
 
-- **NumPy and SciPy**: Used for numerical calculations in portfolio optimization.
+- **NumPy and SciPy**: Used for numerical calculations in [portfolio optimization](../p/portfolio_optimization.md).
   - [NumPy Official Site](https://numpy.org/)
   - [SciPy Official Site](https://scipy.org/)
 

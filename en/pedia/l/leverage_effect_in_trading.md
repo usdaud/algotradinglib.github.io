@@ -9,11 +9,11 @@ When traders use leverage, they essentially borrow money to invest in the market
 ## Types of Leverage
 Different financial instruments and markets offer varying degrees of leverage. Here are some common types of leverage in trading:
 
-1. **Forex Leverage**: Forex markets often offer some of the highest leverage ratios, sometimes as high as 500:1. This means that with a relatively small margin deposit, traders can control a large position in the currency markets.
-2. **Stock Leverage**: Stock brokers usually offer lower leverage ratios, typically around 2:1 or 3:1. However, traders can also use margin accounts to leverage their positions.
-3. **Futures Leverage**: Futures contracts inherently involve leverage because traders are only required to put down a small margin relative to the value of the contract.
+1. **Forex Leverage**: Forex markets often offer some of the highest [leverage ratios](../l/leverage_ratios.md), sometimes as high as 500:1. This means that with a relatively small margin deposit, traders can control a large position in the currency markets.
+2. **Stock Leverage**: Stock brokers usually offer lower [leverage ratios](../l/leverage_ratios.md), typically around 2:1 or 3:1. However, traders can also use margin accounts to leverage their positions.
+3. **Futures Leverage**: [Futures contracts](../f/futures_contracts.md) inherently involve leverage because traders are only required to put down a small margin relative to the value of the contract.
 4. **Options Leverage**: Options also offer leverage, as options premiums are often much lower than the value of the underlying asset.
-5. **CFD Leverage**: Contracts for Difference (CFDs) allow traders to speculate on price movements with leverage, though the leverage ratios can vary significantly depending on the broker and underlying asset.
+5. **CFD Leverage**: Contracts for Difference (CFDs) allow traders to speculate on price movements with leverage, though the [leverage ratios](../l/leverage_ratios.md) can vary significantly depending on the broker and underlying asset.
 
 ## Calculating Leverage
 Leverage is calculated as the ratio of the total position size to the equity or margin required. The formula is:
@@ -36,8 +36,8 @@ For example, if a trader has $1,000 and uses it to open a $10,000 position, the 
 ## Managing Leverage
 Given the risks, managing leverage effectively is crucial for sustainable trading. Some strategies include:
 
-1. **Risk Management**: Setting stop-loss orders and using risk management tools can help limit potential losses.
-2. **Position Sizing**: Adjusting the size of positions according to the level of confidence in the trade and the acceptable risk level.
+1. **[Risk Management](../r/risk_management.md)**: Setting [stop-loss orders](../s/stop-loss_orders.md) and using [risk management](../r/risk_management.md) tools can help limit potential losses.
+2. **[Position Sizing](../p/position_sizing.md)**: Adjusting the size of positions according to the level of confidence in the trade and the acceptable risk level.
 3. **Diversification**: Spreading investments across different assets can reduce the overall risk of the trading portfolio.
 4. **Education and Training**: Ensuring adequate knowledge and understanding of the markets and leveraged trading is essential.
 5. **Regular Monitoring**: Continuously monitoring the market and the account balance to avoid unexpected margin calls.
@@ -51,7 +51,7 @@ Conversely, if the market moves against the trader by 5%, the value of the posit
 
 ## Regulatory Aspects
 Different regions have varying regulations concerning leveraged trading. For instance:
-- In the **United States**, the Commodity Futures Trading Commission (CFTC) and the National Futures Association (NFA) regulate leverage in forex trading, typically capping it at 50:1 for major currency pairs.
+- In the **United States**, the [Commodity Futures](../c/commodity_futures.md) Trading Commission (CFTC) and the National Futures Association (NFA) regulate leverage in forex trading, typically capping it at 50:1 for major currency pairs.
 - In the **European Union**, the European Securities and Markets Authority (ESMA) has set leverage limits for retail investors, generally around 30:1 for major currency pairs.
 
 ## Notable Firms Offering Leverage
@@ -63,7 +63,7 @@ Several well-known brokerage firms offer leveraged trading:
 2. **IG Group**: A prominent provider of CFDs and forex trading with various leverage options.
    Website: [IG Group](https://www.ig.com)
 
-3. **eToro**: Offers social trading and leveraged CFD trading.
+3. **eToro**: Offers [social trading](../s/social_trading.md) and leveraged CFD trading.
    Website: [eToro](https://www.etoro.com)
 
 4. **Saxo Bank**: Provides a wide range of leveraged trading products including forex, CFDs, and futures.
@@ -73,4 +73,4 @@ Several well-known brokerage firms offer leveraged trading:
    Website: [TD Ameritrade](https://www.tdameritrade.com)
 
 ## Conclusion
-The leverage effect in trading is a double-edged sword, capable of amplifying both gains and losses. Understanding how leverage works, its benefits, and its risks is fundamental for any trader looking to use it. Proper risk management, continuous education, and selecting the right brokerage platforms are critical steps towards successful leveraged trading.
+The leverage effect in trading is a double-edged sword, capable of amplifying both gains and losses. Understanding how leverage works, its benefits, and its risks is fundamental for any trader looking to use it. Proper [risk management](../r/risk_management.md), continuous education, and selecting the right brokerage platforms are critical steps towards successful leveraged trading.

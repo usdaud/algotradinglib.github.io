@@ -36,11 +36,11 @@ Decentralized exchanges like Uniswap ([source](https://uniswap.org/)) utilize sm
 
 #### **Automated Market Makers (AMMs)**
 
-Automated Market Makers, such as those used by DEXs, rely on smart contracts to manage liquidity pools and execute trades based on mathematical formulas. For instance, Uniswap's smart contract uses a “constant product” formula to determine the price of assets in a pool.
+Automated Market Makers, such as those used by DEXs, rely on smart contracts to manage [liquidity pools](../l/liquidity_pools.md) and execute trades based on mathematical formulas. For instance, Uniswap's smart contract uses a “constant product” formula to determine the price of assets in a pool.
 
 #### **Derivative Trading Platforms**
 
-Platforms like Synthetix ([source](https://synthetix.io/)) use smart contracts to digitize derivatives trading. They allow users to trade synthetic assets which mirror the value of real-world assets. The use of smart contracts ensures transparent and automated settlement of trades.
+Platforms like Synthetix ([source](https://synthetix.io/)) use smart contracts to digitize [derivatives](../d/derivatives.md) trading. They allow users to trade synthetic assets which mirror the value of real-world assets. The use of smart contracts ensures transparent and automated settlement of trades.
 
 #### **Trade Financing**
 
@@ -68,7 +68,7 @@ Future developments may focus on improving the interoperability of smart contrac
 
 #### **AI Integration**
 
-Integrating artificial intelligence with smart contracts could introduce dynamic contract terms that adapt based on real-time data analysis, making automated trading systems even more sophisticated.
+Integrating artificial intelligence with smart contracts could introduce dynamic contract terms that adapt based on [real-time data analysis](../r/real-time_data_analysis.md), making [automated trading systems](../a/automated_trading_systems.md) even more sophisticated.
 
 #### **Regulatory Compliance Tools**
 

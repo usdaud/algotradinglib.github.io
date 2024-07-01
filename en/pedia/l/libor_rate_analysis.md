@@ -12,8 +12,8 @@ Each day, a panel of banks submits their estimated interest rates. These submiss
 ## Importance of LIBOR in Financial Markets
 LIBOR plays a pivotal role in the financial markets for various reasons:
 - **Benchmark for Loans and Mortgages:** It is often used as a base rate for adjustable-rate mortgages and other consumer loans.
-- **Derivatives and Financial Products:** LIBOR underpins numerous derivatives and financial products, including interest rate swaps, forward rate agreements, and futures.
-- **Corporate Borrowing:** Companies often use LIBOR-related products for short-term borrowing and hedging interest rate risk.
+- **[Derivatives](../d/derivatives.md) and Financial Products:** LIBOR underpins numerous [derivatives](../d/derivatives.md) and financial products, including [interest rate swaps](../i/interest_rate_swaps.md), forward rate agreements, and futures.
+- **Corporate Borrowing:** Companies often use LIBOR-related products for short-term borrowing and [hedging interest rate risk](../h/hedging_interest_rate_risk.md).
 - **Syndicated Loans:** Large syndicate loans often reference LIBOR for determining interest payments.
 
 ## LIBOR Scandal and Repercussions
@@ -40,7 +40,7 @@ Financial institutions face significant challenges in transitioning from LIBOR t
 Regulatory bodies, central banks, and financial institutions worldwide are collaborating to ensure a smooth transition from LIBOR. They are also focusing on enhancing the robustness, transparency, and reliability of alternative rates.
 
 ### Ongoing Efforts
-- **Guidelines and Frameworks:** Institutions like the Financial Conduct Authority (FCA) and International Swaps and Derivatives Association (ISDA) are issuing guidelines to aid in the transition.
+- **Guidelines and Frameworks:** Institutions like the Financial Conduct Authority (FCA) and International Swaps and [Derivatives](../d/derivatives.md) Association (ISDA) are issuing guidelines to aid in the transition.
 - **Market Education:** Educating market participants about the features and functionality of alternative rates.
 - **Legacy Contracts:** Strategies are being developed to address the challenge of transitioning legacy contracts tied to LIBOR.
 

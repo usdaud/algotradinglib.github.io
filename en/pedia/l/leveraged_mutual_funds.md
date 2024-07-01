@@ -1,13 +1,13 @@
 # **Leveraged Mutual Funds**
 
-Leveraged mutual funds are a type of investment vehicle that aims to deliver multiples of the performance of the index or benchmark they track. They are designed to provide enhanced returns by using financial derivatives and debt to amplify the daily gains or losses of the underlying index. Unlike traditional mutual funds that aim for moderate and steady growth over a long period, leveraged mutual funds seek to magnify the short-term movements of index prices, making them suitable for traders and investors with a higher risk tolerance and a short-term investment horizon.
+Leveraged mutual funds are a type of investment vehicle that aims to deliver multiples of the performance of the index or benchmark they track. They are designed to provide enhanced returns by using financial [derivatives](../d/derivatives.md) and debt to amplify the daily gains or losses of the underlying index. Unlike traditional mutual funds that aim for moderate and steady growth over a long period, leveraged mutual funds seek to magnify the short-term movements of index prices, making them suitable for traders and investors with a higher risk tolerance and a short-term investment horizon.
 
 ### How Leveraged Mutual Funds Work
 
-Leveraged mutual funds typically employ sophisticated financial instruments such as options, futures contracts, and swaps to achieve their objectives. These instruments allow the funds to gain more exposure to an index than would be possible by merely investing in the underlying securities alone. Let's consider a leveraged mutual fund that aims to deliver twice (2x) the daily performance of the S&P 500 Index. If the S&P 500 rises by 1% in a day, the leveraged mutual fund would aim to rise by approximately 2%. Conversely, if the S&P 500 falls by 1%, the leveraged mutual fund would aim to fall by approximately 2%.
+Leveraged mutual funds typically employ sophisticated financial instruments such as options, [futures contracts](../f/futures_contracts.md), and swaps to achieve their objectives. These instruments allow the funds to gain more exposure to an index than would be possible by merely investing in the underlying securities alone. Let's consider a leveraged mutual fund that aims to deliver twice (2x) the daily performance of the S&P 500 Index. If the S&P 500 rises by 1% in a day, the leveraged mutual fund would aim to rise by approximately 2%. Conversely, if the S&P 500 falls by 1%, the leveraged mutual fund would aim to fall by approximately 2%.
 
 #### Key Characteristics:
-1. **Leverage Ratios**: Leveraged mutual funds are often designed with specific leverage ratios such as 2x or 3x, indicating the fund's goal to achieve two or three times the daily performance of the benchmark index respectively.
+1. **[Leverage Ratios](../l/leverage_ratios.md)**: Leveraged mutual funds are often designed with specific [leverage ratios](../l/leverage_ratios.md) such as 2x or 3x, indicating the fund's goal to achieve two or three times the daily performance of the benchmark index respectively.
 2. **Daily Rebalancing**: These funds typically rebalance their portfolios daily to maintain a consistent leverage ratio. This rebalancing process involves adjusting the fund's holdings to ensure that the exposure to the benchmark index adheres to the specified leverage ratio.
 3. **Compound Effect**: The daily rebalancing and the fact that returns are compounded magnify the differences between the leveraged fund's performance and the underlying index over longer periods. This can result in significant deviations from the expected multiple over time due to daily fluctuations in value.
 4. **Higher Costs**: Leveraged mutual funds often come with higher expense ratios compared to traditional mutual funds due to the complexities and costs associated with actively managing leverage and rebalancing the fund daily.
@@ -26,18 +26,18 @@ While leveraged mutual funds offer the potential for enhanced returns, they come
 
 1. **Volatility and Risk of Loss**: The magnified movements make these funds highly volatile. Small declines in the index can lead to substantial losses in a leveraged mutual fund, potentially more than investors bargained for.
 2. **Decay**: The daily rebalancing and compounding effect can lead to a performance decay over time, meaning that the fund might not achieve its stated leverage ratio over longer periods. This is especially true in choppy or sideways markets, where the daily rebalancing tends to diminish returns.
-3. **Higher Costs**: With the added complexity of managing leverage and derivatives, there are typically higher management fees and operational costs associated with leveraged mutual funds. These costs can eat into overall performance.
+3. **Higher Costs**: With the added complexity of managing leverage and [derivatives](../d/derivatives.md), there are typically higher management fees and operational costs associated with leveraged mutual funds. These costs can eat into overall performance.
 4. **Suitability**: Leveraged mutual funds are generally not suitable for long-term investors due to the daily rebalancing and compounding effects. They are better suited for experienced investors who understand the risks involved and can monitor their investments frequently.
 
 ### Examples of Leveraged Mutual Funds
 
 Several companies offer leveraged mutual funds aimed at different indexes and sectors. Here are a few prominent examples:
 
-1. **ProShares**: ProShares is one of the largest providers of leveraged ETFs and mutual funds. They offer a variety of leveraged products that track indices such as the S&P 500, NASDAQ, and Russell 2000.
+1. **ProShares**: ProShares is one of the largest providers of [leveraged ETFs](../l/leveraged_etfs.md) and mutual funds. They offer a variety of leveraged products that track indices such as the S&P 500, NASDAQ, and Russell 2000.
    - [ProShares](https://www.proshares.com/)
 2. **Direxion**: Direxion also provides a wide array of leveraged mutual funds aimed at various sectors and commodities. They offer both leveraged bull (long) and bear (short) funds.
    - [Direxion](https://www.direxion.com/)
-3. **Rydex Funds**: Rydex, part of Guggenheim Investments, offers mutual funds with various leverage ratios, targeting different asset classes and strategies.
+3. **Rydex Funds**: Rydex, part of Guggenheim Investments, offers mutual funds with various [leverage ratios](../l/leverage_ratios.md), targeting different asset classes and strategies.
    - [Guggenheim Investments](https://www.guggenheiminvestments.com/products/mutual-funds)
 4. **Fidelity Leveraged Index Funds**: Fidelity also offers a selection of leveraged index funds for more advanced traders.
    - [Fidelity](https://www.fidelity.com/)

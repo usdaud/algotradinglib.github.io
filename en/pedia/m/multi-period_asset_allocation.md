@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Multi-Period Asset Allocation (MPAA) is an advanced strategy in the realm of investment management and financial engineering that focuses on optimizing an investment portfolio over multiple time periods. Unlike single-period models that concentrate solely on maximizing returns or minimizing risk within a single period, MPAA considers the dynamic nature of asset returns and investor goals over extended time horizons. This approach enables investors to make more informed decisions based on future expectations, liquidity needs, and evolving market conditions.
+Multi-Period [Asset Allocation](../a/asset_allocation.md) (MPAA) is an advanced strategy in the realm of investment management and [financial engineering](../f/financial_engineering.md) that focuses on optimizing an investment portfolio over multiple time periods. Unlike single-period models that concentrate solely on maximizing returns or minimizing risk within a single period, MPAA considers the dynamic nature of asset returns and investor goals over extended time horizons. This approach enables investors to make more informed decisions based on future expectations, liquidity needs, and evolving market conditions.
 
 ## Key Concepts
 
@@ -26,7 +26,7 @@ Scenario analysis involves evaluating the portfolio under different hypothetical
 
 ### Mean-Variance Optimization
 
-Mean-variance optimization, introduced by Harry Markowitz in the 1950s, is the foundational theory for modern portfolio management. However, it primarily focuses on single-period optimization. In the context of MPAA, mean-variance analysis can be extended to multiple periods by considering the covariance of returns over time and the changing values of the portfolio.
+[Mean-variance optimization](../m/mean-variance_optimization.md), introduced by Harry Markowitz in the 1950s, is the foundational theory for modern [portfolio management](../p/portfolio_management.md). However, it primarily focuses on single-period optimization. In the context of MPAA, mean-[variance analysis](../v/variance_analysis.md) can be extended to multiple periods by considering the covariance of returns over time and the changing values of the portfolio.
 
 ### Bellman's Principle of Optimality
 
@@ -40,7 +40,7 @@ Utility theory plays a significant role in MPAA by quantifying investor preferen
 
 ### Monte Carlo Simulation
 
-Monte Carlo simulation is a computational technique that models the probability of different outcomes in a process that cannot easily be predicted. In MPAA, Monte Carlo methods are used to simulate asset returns and economic scenarios over multiple periods, providing a detailed view of potential future outcomes and aiding in the optimization process.
+[Monte Carlo simulation](../m/monte_carlo_simulation.md) is a computational technique that models the probability of different outcomes in a process that cannot easily be predicted. In MPAA, [Monte Carlo methods](../m/monte_carlo_methods.md) are used to simulate asset returns and economic scenarios over multiple periods, providing a detailed view of potential future outcomes and aiding in the optimization process.
 
 ### Dynamic Programming
 
@@ -68,11 +68,11 @@ Sovereign wealth funds, owned by governments, manage large pools of money derive
 
 ### Model Uncertainty
 
-One of the significant challenges in MPAA is dealing with model uncertainty. Predicting future market conditions, interest rates, and other economic variables with high accuracy is inherently difficult. Sensitivity analysis and robust optimization techniques are often employed to address this issue.
+One of the significant challenges in MPAA is dealing with model uncertainty. Predicting future market conditions, interest rates, and other economic variables with high accuracy is inherently difficult. Sensitivity analysis and [robust optimization](../r/robust_optimization.md) techniques are often employed to address this issue.
 
 ### Computational Complexity
 
-Multi-period optimization problems are computationally intensive. The need to evaluate numerous future scenarios and possibilities can be resource-heavy and time-consuming. Advances in computational methods and high-performance computing are gradually mitigating this challenge.
+[Multi-period optimization](../m/multi-period_optimization.md) problems are computationally intensive. The need to evaluate numerous future scenarios and possibilities can be resource-heavy and time-consuming. Advances in computational methods and high-performance computing are gradually mitigating this challenge.
 
 ### Data Quality
 
@@ -86,7 +86,7 @@ Machine learning techniques are emerging as powerful tools for enhancing MPAA st
 
 ### Real-Time Data Integration
 
-The integration of real-time data feeds into MPAA models is becoming increasingly feasible with advancements in technology. Real-time data allows for more responsive and dynamic asset allocation adjustments, helping investors to capitalize on new information as it becomes available.
+The integration of real-time data feeds into MPAA models is becoming increasingly feasible with advancements in technology. Real-time data allows for more responsive and dynamic [asset allocation](../a/asset_allocation.md) adjustments, helping investors to capitalize on new information as it becomes available.
 
 ### ESG Considerations
 
@@ -94,6 +94,6 @@ Environmental, Social, and Governance (ESG) factors are gaining importance in in
 
 ## Conclusion
 
-Multi-Period Asset Allocation represents a sophisticated and dynamic approach to portfolio management. By considering the evolving nature of markets and investor goals over multiple periods, MPAA provides a robust framework for optimizing investment strategies. While challenges remain, ongoing advancements in computational techniques and data analytics are continually enhancing the efficacy and applicability of MPAA in various investment domains.
+Multi-Period [Asset Allocation](../a/asset_allocation.md) represents a sophisticated and dynamic approach to [portfolio management](../p/portfolio_management.md). By considering the evolving nature of markets and investor goals over multiple periods, MPAA provides a robust framework for optimizing investment strategies. While challenges remain, ongoing advancements in computational techniques and data analytics are continually enhancing the efficacy and applicability of MPAA in various investment domains.
 
-For further reading and professional services in multi-period asset allocation, you may visit [BlackRock's Multi-Asset Services](https://www.blackrock.com/us/individual/products/investment-strategies/multi-asset-class-investing) and [JP Morgan Asset Management](https://am.jpmorgan.com/us/en/asset-management/institutional/investment-strategies/multi-asset-solutions/).
+For further reading and professional services in multi-period [asset allocation](../a/asset_allocation.md), you may visit [BlackRock's Multi-Asset Services](https://www.blackrock.com/us/individual/products/investment-strategies/multi-asset-class-investing) and [JP Morgan Asset Management](https://am.jpmorgan.com/us/en/asset-management/institutional/investment-strategies/multi-asset-solutions/).

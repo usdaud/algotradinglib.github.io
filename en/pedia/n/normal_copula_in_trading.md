@@ -2,7 +2,7 @@
 
 ### Introduction to Copulae
 
-A copula is a statistical tool that allows us to understand and model the dependence structure between different random variables. Essentially, it helps in understanding how different variables co-move. This is particularly useful in finance and trading, where understanding the relationships between various assets can provide deeper insights into risk and portfolio management. 
+A copula is a statistical tool that allows us to understand and model the dependence structure between different random variables. Essentially, it helps in understanding how different variables co-move. This is particularly useful in finance and trading, where understanding the relationships between various assets can provide deeper insights into risk and [portfolio management](../p/portfolio_management.md). 
 
 The word 'copula' comes from the Latin word for 'link' or 'tie'. In the context of statistics and probability theory, a copula links marginal distributions to form a joint distribution. The most notable property of a copula is that it can describe the dependence structure between random variables, independent of their marginal distributions.
 
@@ -22,15 +22,15 @@ Here, \( u_1, u_2, \ldots, u_n \) are the uniform marginals derived from the sta
 
 #### Portfolio Risk Management
 
-One of the primary applications of the Normal Copula in trading is in portfolio risk management. It allows traders and risk managers to model the joint behavior of asset returns more accurately. By doing so, they can assess the risk of extreme events (like market crashes) more effectively. The Normal Copula can help simulate joint tail events, which are critical for understanding the likelihood and impact of substantial losses across a portfolio.
+One of the primary applications of the Normal Copula in trading is in [portfolio risk management](../p/portfolio_risk_management.md). It allows traders and risk managers to model the joint behavior of asset returns more accurately. By doing so, they can assess the risk of extreme events (like market crashes) more effectively. The Normal Copula can help simulate joint tail events, which are critical for understanding the likelihood and impact of substantial losses across a portfolio.
 
 #### Pricing Financial Derivatives
 
-Copulas are also extensively used in the pricing of complex financial derivatives, particularly those whose payoffs depend on the joint movements of multiple underlying assets. For instance, in the case of a multi-asset option, the payoff depends on the prices of several underlying assets at maturity. The Normal Copula helps in modeling the joint distribution of these asset prices, which is essential for accurate pricing.
+Copulas are also extensively used in the pricing of complex financial [derivatives](../d/derivatives.md), particularly those whose payoffs depend on the joint movements of multiple underlying assets. For instance, in the case of a multi-asset option, the payoff depends on the prices of several underlying assets at maturity. The Normal Copula helps in modeling the joint distribution of these asset prices, which is essential for accurate pricing.
 
 #### Credit Risk Modeling
 
-In credit risk modeling, copulas are used to model the dependence between defaults of different entities. The Gaussian Copula, for instance, can model the correlation between different credit instruments. This is particularly useful in constructing and evaluating the risk of collateralized debt obligations (CDOs). The copula function helps assess the likelihood of simultaneous defaults, which is critical for pricing and risk management in credit derivatives.
+In credit risk modeling, copulas are used to model the dependence between defaults of different entities. The Gaussian Copula, for instance, can model the correlation between different credit instruments. This is particularly useful in constructing and evaluating the risk of collateralized debt obligations (CDOs). The copula function helps assess the likelihood of simultaneous defaults, which is critical for pricing and [risk management](../r/risk_management.md) in credit [derivatives](../d/derivatives.md).
 
 ### Advantages of Normal Copula
 
@@ -48,7 +48,7 @@ Despite its widespread usage, the Normal Copula has faced considerable criticism
 
 ### Practical Implementation
 
-To implement the Normal Copula in practical trading models, one can use various statistical libraries and tools available in programming languages like Python and R.
+To implement the Normal Copula in practical [trading models](../t/trading_models.md), one can use various statistical libraries and tools available in programming languages like Python and R.
 
 #### Python Implementation Example
 
@@ -83,4 +83,4 @@ In the above example, we:
 
 ### Conclusion
 
-The Normal Copula is a powerful tool for modeling dependencies between financial variables in trading and risk management. Despite its limitations, particularly in capturing tail dependencies, it remains widely used due to its simplicity and mathematical tractability. Understanding and implementing the Gaussian Copula can provide valuable insights into portfolio risk, pricing complex derivatives, and credit risk modeling. However, it is crucial to be aware of its limitations and consider alternative copula models when modeling extreme event dependencies is paramount.
+The Normal Copula is a powerful tool for modeling dependencies between financial variables in trading and [risk management](../r/risk_management.md). Despite its limitations, particularly in capturing tail dependencies, it remains widely used due to its simplicity and mathematical tractability. Understanding and implementing the Gaussian Copula can provide valuable insights into portfolio risk, pricing complex [derivatives](../d/derivatives.md), and credit risk modeling. However, it is crucial to be aware of its limitations and consider alternative copula models when modeling extreme event dependencies is paramount.

@@ -11,7 +11,7 @@ A simple moving average (SMA) is the average price of a security over a specific
 The exponential moving average (EMA) gives more weight to recent prices, making it more responsive to new information than the SMA. The formula adds an alpha weighting factor to increase the importance of recent data.
 
 **Application:**
-Moving averages can signal upside potential when a shorter-term moving average crosses above a longer-term moving average—a phenomenon known as a "golden cross."
+Moving averages can signal upside potential when a shorter-term moving average crosses above a longer-term moving average—a phenomenon known as a "[golden cross](../g/golden_cross.md)."
 
 #### Relative Strength Index (RSI)
 
@@ -25,7 +25,7 @@ An RSI value above 70 generally indicates that a security is overbought and coul
 
 #### Bollinger Bands
 
-Bollinger Bands consist of a middle band (usually a 20-day SMA) and two outer bands placed two standard deviations away from the middle band.
+[Bollinger Bands](../b/bollinger_bands.md) consist of a middle band (usually a 20-day SMA) and two outer bands placed two standard deviations away from the middle band.
 
 **Calculation:**
 - Middle Band = 20-day SMA
@@ -48,7 +48,7 @@ A bullish signal is generated when the MACD Line crosses above the Signal Line. 
 
 #### Fibonacci Retracement
 
-Fibonacci retracement levels are horizontal lines that indicate potential support and resistance levels where price could potentially reverse direction.
+Fibonacci retracement levels are horizontal lines that indicate potential [support and resistance](../s/support_and_resistance.md) levels where price could potentially reverse direction.
 
 **Calculation:**
 Identify major swing highs and swing lows, then use the Fibonacci ratios (23.6%, 38.2%, 50%, 61.8%, and 100%) to predict possible retracement points.
@@ -65,7 +65,7 @@ Look for high volume days when prices are rising, as it indicates strong buying 
 
 #### Parabolic SAR (Stop and Reverse)
 
-The Parabolic SAR is used to find potential points of trend reversals in the market.
+The [Parabolic SAR](../p/parabolic_sar.md) is used to find potential points of trend reversals in the market.
 
 **Calculation:**
 The formula uses the prior period’s SAR, adding the acceleration factor multiplied by the difference between the highest high and the prior period's SAR.
@@ -78,8 +78,8 @@ When the price crosses above the SAR, a buy signal is generated indicating the s
 **Data Source:**
 Real-time and historical data from financial data providers like Bloomberg or Reuters.
 
-**Backtesting:**
-Using platforms such as MetaTrader or custom-built Python scripts to simulate trading strategies based on historical data.
+**[Backtesting](../b/backtesting.md):**
+Using platforms such as MetaTrader or custom-built Python scripts to simulate [trading strategies](../t/trading_strategies.md) based on historical data.
 
 **Algorithm Development:**
 Combining multiple indicators into a single trading algorithm to authenticate bullish signals, reducing false positives.
@@ -87,8 +87,8 @@ Combining multiple indicators into a single trading algorithm to authenticate bu
 **Execution:**
 Automated trading platforms like Interactive Brokers (https://www.interactivebrokers.com) enable seamless execution of trades based on coded strategies.
 
-**Risk Management:**
-Implementing stop-loss orders and risk management rules within the algorithm to minimize potential losses.
+**[Risk Management](../r/risk_management.md):**
+Implementing [stop-loss orders](../s/stop-loss_orders.md) and [risk management](../r/risk_management.md) rules within the algorithm to minimize potential losses.
 
 Upside market indicators are valuable tools in the arsenal of both manual and algorithmic traders. By combining multiple indicators and confirming signals, traders can increase the chances of identifying and capitalizing on bullish market trends effectively.
 

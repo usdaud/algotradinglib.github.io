@@ -161,7 +161,7 @@ Understanding and respecting cultural differences can bridge gaps and foster a c
 
 ### Performance Metrics
 
-Defining clear performance metrics helps in tracking the joint venture’s success. Regular performance reviews and transparent reporting mechanisms ensure that all partners are on the same page.
+Defining clear [performance metrics](../p/performance_metrics.md) helps in tracking the joint venture’s success. Regular performance reviews and transparent reporting mechanisms ensure that all partners are on the same page.
 
 ### Exit Strategy
 
@@ -181,4 +181,4 @@ For more information on Hulu, visit: [Hulu](https://www.hulu.com/)
 
 ## Conclusion
 
-Joint ventures can be powerful tools for business growth, risk-sharing, and market entry. However, they require careful planning, clear agreements, and effective management to succeed. Understanding the types, benefits, drawbacks, and structures of joint ventures helps companies make informed decisions. Paying attention to key considerations such as strategic fit, due diligence, cultural integration, and performance metrics will enhance the likelihood of a successful joint venture. Whether in technology, telecommunications, or any other industry, joint ventures can unlock new opportunities and drive business success.
+Joint ventures can be powerful tools for business growth, risk-sharing, and market entry. However, they require careful planning, clear agreements, and effective management to succeed. Understanding the types, benefits, drawbacks, and structures of joint ventures helps companies make informed decisions. Paying attention to key considerations such as strategic fit, due diligence, cultural integration, and [performance metrics](../p/performance_metrics.md) will enhance the likelihood of a successful joint venture. Whether in technology, telecommunications, or any other industry, joint ventures can unlock new opportunities and drive business success.

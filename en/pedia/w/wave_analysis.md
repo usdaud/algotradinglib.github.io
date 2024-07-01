@@ -1,6 +1,6 @@
 ## Wave Analysis
 
-Wave Analysis, often referred to in technical trading circles as Elliott Wave Theory, is a method for predicting market cycles and trends by identifying repetitive wave patterns. This theory was developed by Ralph Nelson Elliott in the 1930s, and since then, it has become an essential tool for many traders, particularly those engaged in algorithmic trading.
+Wave Analysis, often referred to in technical trading circles as [Elliott Wave Theory](../e/elliott_wave_theory.md), is a method for predicting [market cycles](../m/market_cycles.md) and trends by identifying repetitive wave patterns. This theory was developed by Ralph Nelson Elliott in the 1930s, and since then, it has become an essential tool for many traders, particularly those engaged in [algorithmic trading](../a/algorithmic_trading.md).
 
 ### Concept of Wave Analysis
 
@@ -8,7 +8,7 @@ Wave Analysis is predicated on the belief that financial markets move in a serie
 
 ### Elliott Wave Theory
 
-Elliott Wave Theory divides market price movements into predictable wave patterns, which are broken down into two categories: impulse waves and corrective waves.
+[Elliott Wave Theory](../e/elliott_wave_theory.md) divides market price movements into predictable wave patterns, which are broken down into two categories: impulse waves and corrective waves.
 
 #### Impulse Waves
 
@@ -28,26 +28,26 @@ Corrective waves are the counter to impulse waves and are movements against the 
 
 ### Wave Degrees and Fractal Nature
 
-One of the cornerstones of Elliott Wave Theory is its fractal nature, meaning that wave patterns exist at all degrees of trend. This means that each wave within a specific degree contains lesser waves of the same basic pattern. The hierarchy of waves ranges from the largest Supercycle waves taking decades to complete, to the smallest waves that form intraday.
+One of the cornerstones of [Elliott Wave Theory](../e/elliott_wave_theory.md) is its fractal nature, meaning that wave patterns exist at all degrees of trend. This means that each wave within a specific degree contains lesser waves of the same basic pattern. The hierarchy of waves ranges from the largest Supercycle waves taking decades to complete, to the smallest waves that form intraday.
 
 ### Application of Wave Analysis in Algorithmic Trading
 
-The implementation of wave principles within algorithmic trading systems can offer significant advantages. Algorithms can be programmed to recognize wave structures in real-time, thus enabling traders to enter and exit trades at optimal points based on the identification of impulse and corrective waves.
+The implementation of wave principles within [algorithmic trading](../a/algorithmic_trading.md) systems can offer significant advantages. Algorithms can be programmed to recognize wave structures in real-time, thus enabling traders to enter and exit trades at optimal points based on the identification of impulse and corrective waves.
 
 #### Pattern Recognition Algorithms
 
-Pattern recognition is a critical aspect of wave analysis in algorithmic trading. Algorithms can be trained using historical data to recognize the repetitive wave patterns. Machine learning techniques, including neural networks and deep learning, are often used for this purpose. These algorithms analyze massive amounts of historical market data to identify and predict future wave formations.
+[Pattern recognition](../p/pattern_recognition.md) is a critical aspect of wave analysis in [algorithmic trading](../a/algorithmic_trading.md). Algorithms can be trained using historical data to recognize the repetitive wave patterns. Machine learning techniques, including neural networks and deep learning, are often used for this purpose. These algorithms analyze massive amounts of historical market data to identify and predict future wave formations.
 
 #### Risk Management Strategies
 
-Wave analysis also supports robust risk management strategies. By understanding the wave structures, traders can set stop-loss and take-profit levels more effectively. For example, if a trader identifies that the market is within Wave 3 of an impulse wave, they might set their stop-loss below the low of Wave 2.
+Wave analysis also supports robust [risk management](../r/risk_management.md) strategies. By understanding the wave structures, traders can set stop-loss and take-profit levels more effectively. For example, if a trader identifies that the market is within Wave 3 of an impulse wave, they might set their stop-loss below the low of Wave 2.
 
 ### Software and Tools for Wave Analysis
 
 Numerous software tools and trading platforms provide functionalities for Elliott Wave analysis. Some notable ones include:
 
 - **Elliott Wave International**: A comprehensive platform providing education and tools focused on Elliott Wave analysis. [Elliott Wave International](https://www.elliottwave.com/)
-- **MotiveWave**: An advanced charting platform focusing heavily on Elliott Wave theory and other technical analysis tools. [MotiveWave](https://www.motivewave.com/)
+- **MotiveWave**: An advanced charting platform focusing heavily on [Elliott Wave theory](../e/elliott_wave_theory.md) and other [technical analysis](../t/technical_analysis.md) tools. [MotiveWave](https://www.motivewave.com/)
 - **TradingView**: A flexible charting platform offering Elliott Wave drawing tools and community-generated scripts. [TradingView](https://www.tradingview.com/)
 - **MetaTrader 5 with MQL5**: Offers custom indicator development, including those based on Elliott Wave principles. [MetaTrader 5](https://www.metatrader5.com/)
 
@@ -57,4 +57,4 @@ Despite its widespread usage, wave analysis is not without criticisms. Some expe
 
 ### Summary
 
-Wave Analysis, particularly through the lens of Elliott Wave Theory, provides a robust framework for understanding market movements. It offers valuable insights for both discretionary and algorithmic traders, facilitating better prediction, entry and exit points, and risk management. However, while powerful, it requires practice and a deep understanding to apply correctly, and its subjective nature can present challenges in consistency and objectivity.
+Wave Analysis, particularly through the lens of [Elliott Wave Theory](../e/elliott_wave_theory.md), provides a robust framework for understanding market movements. It offers valuable insights for both discretionary and algorithmic traders, facilitating better prediction, entry and exit points, and [risk management](../r/risk_management.md). However, while powerful, it requires practice and a deep understanding to apply correctly, and its subjective nature can present challenges in consistency and objectivity.

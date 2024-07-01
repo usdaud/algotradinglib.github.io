@@ -16,9 +16,9 @@ The strike price is the fixed price at which the holder of an option can buy (ca
 The date on which the option contract expires and becomes void. Options can have different durations, ranging from short-term (weeklies) to long-term (LEAPS).
 
 ### In-the-Money (ITM), Out-of-the-Money (OTM), and At-the-Money (ATM)
-- **In-the-Money (ITM)**: Call options are ITM when the underlying asset's price is above the strike price; put options are ITM when the underlying asset's price is below the strike price.
-- **Out-of-the-Money (OTM)**: Call options are OTM when the underlying asset's price is below the strike price; put options are OTM when the underlying asset's price is above the strike price.
-- **At-the-Money (ATM)**: When the underlying asset’s price is equal to the strike price for both call and put options.
+- **In-the-Money (ITM)**: Call options are ITM when the underlying asset's price is above the strike price; [put options](../p/put_options.md) are ITM when the underlying asset's price is below the strike price.
+- **Out-of-the-Money (OTM)**: Call options are OTM when the underlying asset's price is below the strike price; [put options](../p/put_options.md) are OTM when the underlying asset's price is above the strike price.
+- **At-the-Money (ATM)**: When the underlying asset’s price is equal to the strike price for both call and [put options](../p/put_options.md).
 
 ## Popular Options Trading Strategies
 
@@ -38,18 +38,18 @@ A strangle involves buying a call and a put option with the same expiration date
 This strategy involves buying a call option at a lower strike price and selling another call option at a higher strike price with the same expiration date. This limits both the potential gains and the potential losses.
 
 ### Bear Put Spread
-This is similar to the bull call spread but in the opposite direction. It involves buying a put option at a higher strike price and selling another put option at a lower strike price.
+This is similar to the [bull call spread](../b/bull_call_spread.md) but in the opposite direction. It involves buying a put option at a higher strike price and selling another put option at a lower strike price.
 
 ### Iron Condor
-An iron condor is a complex strategy that involves holding both a bull put spread and a bear call spread. This strategy benefits from low volatility in the underlying asset's price and aims to capture small, consistent profits by trading within a certain price range.
+An [iron condor](../i/iron_condor.md) is a complex strategy that involves holding both a [bull put spread](../b/bull_put_spread.md) and a [bear call spread](../b/bear_call_spread.md). This strategy benefits from low volatility in the underlying asset's price and aims to capture small, consistent profits by trading within a certain price range.
 
 ### Butterfly Spread
-A butterfly spread combines a bull spread and a bear spread with three different strike prices. This strategy is employed when a trader expects minimal price movement in the underlying asset.
+A [butterfly spread](../b/butterfly_spread.md) combines a bull spread and a bear spread with three different strike prices. This strategy is employed when a trader expects minimal price movement in the underlying asset.
 
 ## Key Considerations
 
 ### Risk Management
-Options trading can be risky, and it's crucial to employ strong risk management strategies. This involves setting stop-loss orders, diversifying trades, and never investing more than one can afford to lose.
+Options trading can be risky, and it's crucial to employ strong [risk management](../r/risk_management.md) strategies. This involves setting [stop-loss orders](../s/stop-loss_orders.md), diversifying trades, and never investing more than one can afford to lose.
 
 ### Market Conditions
 Understanding current market conditions is essential. Strategies that work well in a volatile market might not be suitable for a stable market, and vice versa.
@@ -77,4 +77,4 @@ Various software applications can assist traders in analyzing options and execut
 - [Interactive Brokers](https://www.interactivebrokers.com/en/home.php)
 - [OptionsXpress by Charles Schwab](https://www.schwab.com/)
 
-In summary, options trading strategies offer a broad range of approaches to capitalize on various market conditions. Each strategy comes with its own set of risks and rewards. Traders must thoroughly understand these strategies and the associated nuances to effectively engage in options trading. Proper risk management, continuous learning, and staying updated with market trends are crucial for success in this complex but potentially rewarding field.
+In summary, options [trading strategies](../t/trading_strategies.md) offer a broad range of approaches to capitalize on various market conditions. Each strategy comes with its own set of risks and rewards. Traders must thoroughly understand these strategies and the associated nuances to effectively engage in options trading. Proper [risk management](../r/risk_management.md), continuous learning, and staying updated with market trends are crucial for success in this complex but potentially rewarding field.

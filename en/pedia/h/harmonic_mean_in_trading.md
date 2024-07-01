@@ -18,7 +18,7 @@ The price-to-earnings (P/E) ratio is a commonly used metric in trading for valui
 When dealing with financial instruments that provide different rates of return, the harmonic mean can offer a more balanced view than the arithmetic mean. For instance, when averaging rates of return on assets over multiple periods, the harmonic mean accounts for the compounding effect more effectively.
 
 ### Forex Trading
-In foreign exchange (Forex) trading, traders often deal with currency pairs. The harmonic mean can help provide a more balanced average rate in scenarios where exchange rates are extremely volatile.
+In [foreign exchange (Forex) trading](../f/foreign_exchange_(forex)_trading.md), traders often deal with currency pairs. The harmonic mean can help provide a more balanced average rate in scenarios where exchange rates are extremely volatile.
 
 ## Calculation Example
 Suppose we have three stocks with P/E ratios of 10, 15, and 25. To find the harmonic mean, follow these steps:
@@ -68,13 +68,13 @@ In Excel, you can use the `HARMEAN` function to calculate the harmonic mean of a
 
 ## Real-World Applications
 ### Algorithmic Trading
-Algorithmic trading involves using computer algorithms to make trading decisions. The harmonic mean can be used in algorithms that manage portfolios of assets. For instance, a trading algorithm might use the harmonic mean P/E ratio of the stocks in a portfolio to decide on buying or selling decisions to optimize returns.
+[Algorithmic trading](../a/algorithmic_trading.md) involves using computer algorithms to make trading decisions. The harmonic mean can be used in algorithms that manage portfolios of assets. For instance, a trading algorithm might use the harmonic mean P/E ratio of the stocks in a portfolio to decide on buying or selling decisions to optimize returns.
 
 ### Portfolio Management
-In portfolio management, the harmonic mean can help in the evaluation of performance metrics. For instance, when assessing the average expense ratio or fee structure across mutual funds, the harmonic mean provides a more accurate picture of the central tendency of these ratios.
+In [portfolio management](../p/portfolio_management.md), the harmonic mean can help in the evaluation of [performance metrics](../p/performance_metrics.md). For instance, when assessing the average expense ratio or fee structure across mutual funds, the harmonic mean provides a more accurate picture of the central tendency of these ratios.
 
 ### Risk Management
-Risk management strategies often involve analyzing and averaging various risk-related metrics such as Value at Risk (VaR) or expected shortfall. Using the harmonic mean for these sorts of metrics can help finance professionals develop more robust risk models.
+[Risk management](../r/risk_management.md) strategies often involve analyzing and averaging various risk-related metrics such as Value at Risk (VaR) or expected shortfall. Using the harmonic mean for these sorts of metrics can help finance professionals develop more robust risk models.
 
 ## Case Study
 ### Portfolio Valuation
@@ -92,4 +92,4 @@ To compute the harmonic mean of these ratios:
 In this case, the harmonic mean P/E ratio for the portfolio is approximately 12.42, which provides a balanced view considering the outlier (Stock C with a P/E ratio of 30).
 
 ## Conclusion
-The harmonic mean is a powerful tool in trading and finance, offering distinct advantages in scenarios characterized by large discrepancies or significant outliers. Its application ranges from assessing portfolio performance to algorithmic trading and risk management. Although its calculation is more complex compared to other measures of central tendency, its utility in averaging ratios and rates makes it an invaluable metric for traders and financial analysts.
+The harmonic mean is a powerful tool in trading and finance, offering distinct advantages in scenarios characterized by large discrepancies or significant outliers. Its application ranges from assessing [portfolio performance](../p/portfolio_performance.md) to [algorithmic trading](../a/algorithmic_trading.md) and [risk management](../r/risk_management.md). Although its calculation is more complex compared to other measures of central tendency, its utility in averaging ratios and rates makes it an invaluable metric for traders and financial analysts.

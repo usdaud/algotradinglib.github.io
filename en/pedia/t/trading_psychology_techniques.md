@@ -1,10 +1,10 @@
 ### Trading Psychology Techniques
 
-Trading psychology refers to the emotions and mental state that help dictate success or failure in trading securities. It represents various aspects of an individual's character and behaviors that influence their trading decisions. The psychological aspect of trading is often considered as important as fundamental and technical aspects. Understanding trading psychology can help traders maintain discipline, manage emotions, and make more rational decisions.
+[Trading psychology](../t/trading_psychology.md) refers to the emotions and mental state that help dictate success or failure in trading securities. It represents various aspects of an individual's character and behaviors that influence their trading decisions. The psychological aspect of trading is often considered as important as fundamental and technical aspects. Understanding [trading psychology](../t/trading_psychology.md) can help traders maintain discipline, manage emotions, and make more rational decisions.
 
 #### Importance of Trading Psychology
 
-Effective trading psychology helps traders:
+Effective [trading psychology](../t/trading_psychology.md) helps traders:
 
 1. **Maintain Discipline**: Stick to a trading strategy and avoid impulsive decisions.
 2. **Manage Emotions**: Control fear, greed, and other emotions that sabotage success.
@@ -21,7 +21,7 @@ Effective trading psychology helps traders:
 
 4. **Regret and Emotional Trauma**: Traders might hold onto losing trades to avoid the regret of a loss, or may be emotionally scarred from previous mistakes.
 
-5. **Loss Aversion**: The tendency to prefer avoiding losses over acquiring equivalent gains can result in holding losing positions too long and exiting winning positions too early.
+5. **[Loss Aversion](../l/loss_aversion.md)**: The tendency to prefer avoiding losses over acquiring equivalent gains can result in holding losing positions too long and exiting winning positions too early.
 
 #### Techniques to Improve Trading Psychology
 
@@ -29,7 +29,7 @@ Effective trading psychology helps traders:
 
 2. **Keep a Trading Journal**: Recording trades, emotions, and reasons for decisions helps in analyzing and learning from past actions.
 
-3. **Practice Risk Management**: Set predefined risk levels per trade to avoid significant losses.
+3. **Practice [Risk Management](../r/risk_management.md)**: Set predefined risk levels per trade to avoid significant losses.
 
 4. **Set Realistic Goals**: Having achievable targets prevents frustration and encourages consistent performance.
 
@@ -39,17 +39,17 @@ Effective trading psychology helps traders:
 
 7. **Avoid Overtrading**: Sticking to the plan and avoiding unnecessary trades can prevent the havoc caused by emotional decisions.
 
-8. **Professional Support**: Consulting trading psychologists or coaches can provide personalized strategies for improving trading psychology.
+8. **Professional Support**: Consulting trading psychologists or coaches can provide personalized strategies for improving [trading psychology](../t/trading_psychology.md).
 
 #### Renowned Companies and Figures in Trading Psychology
 
-- **Van Tharp Institute**: Dr. Van Tharp is known for his work on developing psychological techniques for traders. His institute offers various courses, workshops, and books on trading psychology. More details can be found on their [official site](https://www.vantharp.com/).
+- **Van Tharp Institute**: Dr. Van Tharp is known for his work on developing psychological techniques for traders. His institute offers various courses, workshops, and books on [trading psychology](../t/trading_psychology.md). More details can be found on their [official site](https://www.vantharp.com/).
 
-- **SMB Capital**: An innovative prop trading firm providing education and training on mental resilience and trading psychology as part of their mentoring. Additional information is available on their [website](https://www.smbcapital.com/).
+- **SMB Capital**: An innovative prop trading firm providing education and training on mental resilience and [trading psychology](../t/trading_psychology.md) as part of their mentoring. Additional information is available on their [website](https://www.smbcapital.com/).
 
-- **Brett N. Steenbarger**: An authority in the field, known for his books and blogs about trading psychology. Details can be found on his [blog page](https://traderfeed.blogspot.com/).
+- **Brett N. Steenbarger**: An authority in the field, known for his books and blogs about [trading psychology](../t/trading_psychology.md). Details can be found on his [blog page](https://traderfeed.blogspot.com/).
 
-- **Trading Psychology Edge**: Run by Dr. Gary Dayton, it offers resources and training focusing on the psychological aspects of trading. More information is on their [official site](https://tradingpsychologyedge.com/).
+- **[Trading Psychology](../t/trading_psychology.md) Edge**: Run by Dr. Gary Dayton, it offers resources and training focusing on the psychological aspects of trading. More information is on their [official site](https://tradingpsychologyedge.com/).
 
 #### Books and Publications
 
@@ -60,4 +60,4 @@ Effective trading psychology helps traders:
 
 #### Final Thoughts
 
-Trading psychology plays an integral role in a trader's success. Training the mind to handle the pressures and emotions associated with trading can significantly affect outcomes. Utilizing the techniques mentioned and seeking resources from reputable sources can help traders enhance their psychological resilience, leading to more disciplined and rational trading decisions.
+[Trading psychology](../t/trading_psychology.md) plays an integral role in a trader's success. Training the mind to handle the pressures and emotions associated with trading can significantly affect outcomes. Utilizing the techniques mentioned and seeking resources from reputable sources can help traders enhance their psychological resilience, leading to more disciplined and rational trading decisions.

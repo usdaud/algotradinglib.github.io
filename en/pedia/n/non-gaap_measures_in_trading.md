@@ -41,20 +41,20 @@ Non-GAAP (Generally Accepted Accounting Principles) measures are financial metri
 
 **Use of Non-GAAP Measures in Algo Trading**
 
-1. **Algorithm Efficiency:**
-    Non-GAAP measures can enhance the efficiency of trading algorithms by providing a cleaner dataset. For instance, filtering out non-recurring expenses can allow algorithms to focus on trends and patterns that better reflect the ongoing performance of a company.
+1. **[Algorithm Efficiency](../a/algorithm_efficiency.md):**
+    Non-GAAP measures can enhance the efficiency of [trading algorithms](../t/trading_algorithms.md) by providing a cleaner dataset. For instance, filtering out non-recurring expenses can allow algorithms to focus on trends and patterns that better reflect the ongoing performance of a company.
 
-2. **Backtesting and Strategy Development:**
-    When developing trading strategies, historical non-GAAP metrics can offer a more reliable basis for backtesting. This leads to strategies that can better predict future performance and are less likely to be thrown off by one-time events.
+2. **[Backtesting](../b/backtesting.md) and Strategy Development:**
+    When developing [trading strategies](../t/trading_strategies.md), historical non-GAAP metrics can offer a more reliable basis for [backtesting](../b/backtesting.md). This leads to strategies that can better predict future performance and are less likely to be thrown off by one-time events.
 
-3. **Risk Management:**
-    These measures can inform risk management processes by highlighting companies with more stable and predictable operational performances. For example, algorithms can factor in adjusted EBITDA to identify firms with strong underlying cash flows.
+3. **[Risk Management](../r/risk_management.md):**
+    These measures can inform [risk management](../r/risk_management.md) processes by highlighting companies with more stable and predictable operational performances. For example, algorithms can factor in adjusted EBITDA to identify firms with strong underlying cash flows.
 
-4. **Portfolio Optimization:**
-    Algorithms can utilize non-GAAP measures for portfolio optimization, selecting stocks with healthier and more consistent underlying operational performance, which is particularly important in automated or high-frequency trading environments.
+4. **[Portfolio Optimization](../p/portfolio_optimization.md):**
+    Algorithms can utilize non-GAAP measures for [portfolio optimization](../p/portfolio_optimization.md), selecting stocks with healthier and more consistent underlying operational performance, which is particularly important in automated or high-frequency trading environments.
 
-5. **Predictive Analytics:**
-    Non-GAAP measures are crucial for predictive analytics models, contributing to more accurate forecasts and insights. They provide a cleaner lens through which to view potential future performance, thereby enhancing the predictive power of trading models.
+5. **[Predictive Analytics](../p/predictive_analytics.md):**
+    Non-GAAP measures are crucial for [predictive analytics](../p/predictive_analytics.md) models, contributing to more accurate forecasts and insights. They provide a cleaner lens through which to view potential future performance, thereby enhancing the predictive power of [trading models](../t/trading_models.md).
 
 **Challenges and Criticisms**
 
@@ -83,4 +83,4 @@ Non-GAAP (Generally Accepted Accounting Principles) measures are financial metri
 
 **Conclusion**
 
-Non-GAAP measures play a critical role in trading, providing additional insights and a clearer picture of a company's operational performance. While they offer numerous advantages, including enhanced transparency, more accurate market comparisons, and improved risk management tools, they also come with challenges such as lack of standardization and potential for misuse. By understanding and appropriately employing non-GAAP measures, traders and investors can make more informed and strategic decisions. However, it remains essential to balance these insights with the structured and regulated perspective provided by GAAP measures.
+Non-GAAP measures play a critical role in trading, providing additional insights and a clearer picture of a company's operational performance. While they offer numerous advantages, including enhanced transparency, more accurate market comparisons, and improved [risk management](../r/risk_management.md) tools, they also come with challenges such as lack of standardization and potential for misuse. By understanding and appropriately employing non-GAAP measures, traders and investors can make more informed and strategic decisions. However, it remains essential to balance these insights with the structured and regulated perspective provided by GAAP measures.

@@ -24,7 +24,7 @@ It takes time for consumers and businesses to perceive changes in prices and adj
 
 **4. Currency Pass-Through:**
 
-The degree to which currency devaluation leads to changes in import and export prices will influence the J-Curve effect. If import prices increase substantially due to high pass-through, the trade balance could worsen more initially.
+The degree to which currency devaluation leads to changes in import and export prices will influence the [J-Curve effect](../j/j-curve_effect.md). If import prices increase substantially due to high pass-through, the trade balance could worsen more initially.
 
 ### Empirical Evidence 
 

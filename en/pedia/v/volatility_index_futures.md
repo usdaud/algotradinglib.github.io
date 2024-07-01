@@ -2,7 +2,7 @@
 
 ### Introduction to Volatility Index Futures
 
-Volatility Index Futures, commonly known in financial markets as VIX futures or volatility futures, are exchange-traded futures contracts that allow investors to wager on the future volatility of financial markets. The underlying asset for these contracts is the Volatility Index (VIX), which measures the market's expectation of 30-day future volatility implicit in the prices of S&P 500 index options. The VIX Index is often referred to as the "fear gauge" because it capitalizes on market sentiment and potential future risk, especially during periods of financial stress or market downturns.
+Volatility [Index Futures](../i/index_futures.md), commonly known in financial markets as VIX futures or volatility futures, are exchange-traded [futures contracts](../f/futures_contracts.md) that allow investors to wager on the future volatility of financial markets. The underlying asset for these contracts is the Volatility Index (VIX), which measures the market's expectation of 30-day future volatility implicit in the prices of S&P 500 [index options](../i/index_options.md). The VIX Index is often referred to as the "fear gauge" because it capitalizes on market sentiment and potential future risk, especially during periods of financial stress or market downturns.
 
 ### The VIX Index
 
@@ -29,15 +29,15 @@ The pricing of VIX futures differs from the actual VIX index value due to the re
 VIX futures serve multiple purposes in financial markets:
 1. **Hedging**: Investors often use VIX futures to hedge against potential declines in the value of their portfolios, as VIX levels generally increase during market downturns.
 2. **Speculation**: Traders take positions in VIX futures to profit from expected changes in market volatility.
-3. **Arbitrage**: Professional traders and institutions may engage in arbitrage strategies to exploit discrepancies between the spot VIX index and futures prices.
+3. **[Arbitrage](../a/arbitrage.md)**: Professional traders and institutions may engage in [arbitrage](../a/arbitrage.md) strategies to exploit discrepancies between the spot VIX index and futures prices.
 
 ### Strategies Involving VIX Futures
 
-Several trading strategies involve VIX futures:
+Several [trading strategies](../t/trading_strategies.md) involve VIX futures:
 - **Volatility Hedging**: To protect against market downturns, traders might buy VIX futures, benefiting if the market becomes more volatile.
-- **Spread Trading**: This involves taking positions in different VIX futures contracts to exploit the term structure, i.e., the difference between near-term and longer-term futures.
+- **[Spread Trading](../s/spread_trading.md)**: This involves taking positions in different VIX [futures contracts](../f/futures_contracts.md) to exploit the term structure, i.e., the difference between near-term and longer-term futures.
 - **Calendar Spreads**: Involves buying and selling futures of different expirations to profit from the changes in the time spread.
-- **Pairs Trading**: Combining VIX futures with other instruments, such as S&P 500 futures, to create a strategy aiming to profit from the relative movement between market indices and volatility.
+- **[Pairs Trading](../p/pairs_trading.md)**: Combining VIX futures with other instruments, such as S&P 500 futures, to create a strategy aiming to profit from the relative movement between market indices and volatility.
 
 ### Risks and Challenges
 
@@ -50,7 +50,7 @@ While VIX futures provide powerful tools for investors and traders, they come wi
 
 Key participants in the VIX futures market include:
 - **Hedge Funds**: Hedge funds use VIX futures to hedge their positions or to speculate on market movements.
-- **Institutional Investors**: Large institutional investors use these instruments as part of their risk management strategies.
+- **Institutional Investors**: Large institutional investors use these instruments as part of their [risk management](../r/risk_management.md) strategies.
 - **Retail Traders**: Individual traders and smaller funds participate in VIX futures for diversification and speculative purposes.
 
 ### Conclusion

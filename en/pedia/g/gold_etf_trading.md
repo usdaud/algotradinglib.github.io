@@ -16,8 +16,8 @@ The first gold ETF, the Gold Bullion Securities on the Australian Stock Exchange
 
 Gold ETFs operate by pooling investor funds and using them to purchase gold bullion. This bullion is stored in secure vaults by the fund manager. The value of the ETF shares fluctuates in tandem with the price of the gold held by the fund.
 
-1. **Structure**: Gold ETFs come in various structures, including physical gold-backed ETFs and futures-based ETFs. Physical gold-backed ETFs hold actual gold bullion, while futures-based ETFs invest in gold futures contracts.
-2. **Tracking Method**: Most gold ETFs aim to mirror the performance of gold prices. They achieve this by either directly purchasing and holding gold or by holding futures contracts that reflect the gold price.
+1. **Structure**: Gold ETFs come in various structures, including physical gold-backed ETFs and futures-based ETFs. Physical gold-backed ETFs hold actual gold bullion, while futures-based ETFs invest in gold [futures contracts](../f/futures_contracts.md).
+2. **Tracking Method**: Most gold ETFs aim to mirror the performance of gold prices. They achieve this by either directly purchasing and holding gold or by holding [futures contracts](../f/futures_contracts.md) that reflect the gold price.
 
 ### Leading Gold ETFs
 
@@ -35,7 +35,7 @@ Gold ETFs provide an accessible means for retail investors to invest in gold. Th
 
 ### Diversification
 
-Gold has historically been a safe-haven asset, often moving inversely to the stock market. Including gold ETFs in a portfolio can provide diversification benefits, reducing overall risk.
+Gold has historically been a safe-haven asset, often moving inversely to the stock market. Including gold ETFs in a portfolio can provide [diversification benefits](../d/diversification_benefits.md), reducing overall risk.
 
 ### Cost Efficiency
 
@@ -83,7 +83,7 @@ For short-term traders, gold ETFs provide a liquid asset that can be quickly bou
 
 ### Risk Management
 
-Investors often use gold ETFs as a risk management tool to protect against geopolitical and economic uncertainties. By including a small percentage of gold ETFs in a portfolio, investors can hedge against potential risks.
+Investors often use gold ETFs as a [risk management](../r/risk_management.md) tool to protect against geopolitical and economic uncertainties. By including a small percentage of gold ETFs in a portfolio, investors can hedge against potential risks.
 
 ## How to Trade Gold ETFs
 
@@ -105,4 +105,4 @@ After purchasing a gold ETF, investors should regularly monitor their investment
 
 ## Conclusion
 
-Gold ETFs offer a convenient and cost-effective way to invest in gold. They provide the benefits of liquidity, cost efficiency, and diversification without the complexities of managing physical gold. However, like all investments, they come with risks that need to be carefully considered. By integrating gold ETFs into a broader investment strategy, investors can potentially harness the unique properties of gold to achieve their financial goals. Whether for long-term investment, portfolio diversification, or short-term trading, gold ETFs are a versatile tool in the modern investor’s toolkit.
+Gold ETFs offer a convenient and cost-effective way to invest in gold. They provide the benefits of liquidity, cost efficiency, and diversification without the complexities of managing physical gold. However, like all investments, they come with risks that need to be carefully considered. By integrating gold ETFs into a broader investment strategy, investors can potentially harness the unique properties of gold to achieve their financial goals. Whether for long-term investment, [portfolio diversification](../p/portfolio_diversification.md), or [short-term trading](../s/short-term_trading.md), gold ETFs are a versatile tool in the modern investor’s toolkit.

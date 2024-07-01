@@ -46,7 +46,7 @@ Order flow on NASDAQ is tightly regulated to ensure fairness and transparency. K
 
 ### 7. Order Routing
 
-Order routing involves directing orders to various venues for execution. NASDAQ’s Smart Order Router (SOR) uses algorithms to find the best execution opportunities across multiple exchanges and dark pools. Order routing strategies can significantly impact execution quality and cost.
+[Order routing](../o/order_routing.md) involves directing orders to various venues for execution. NASDAQ’s Smart Order Router (SOR) uses algorithms to find the best execution opportunities across multiple exchanges and [dark pools](../d/dark_pools.md). [Order routing](../o/order_routing.md) strategies can significantly impact execution quality and cost.
 
 ### 8. Technological Innovations
 
@@ -61,9 +61,9 @@ Technological advancements are continually shaping NASDAQ order flow. Some notab
 Understanding NASDAQ order flow is invaluable for traders. Key takeaways include:
 
 - **Strategic Order Placement**: Knowledge of order types and execution mechanisms can help traders place orders more effectively.
-- **Algorithmic Trading**: Familiarity with the workings of NASDAQ can aid in the development of profitable trading algorithms.
+- **[Algorithmic Trading](../a/algorithmic_trading.md)**: Familiarity with the workings of NASDAQ can aid in the development of profitable [trading algorithms](../t/trading_algorithms.md).
 - **Regulatory Awareness**: Staying informed about regulatory changes can help traders comply with legal requirements and avoid penalties.
 
 ### 10. Conclusion
 
-Order flow on NASDAQ is a complex and dynamic process integral to the functioning of the financial markets. Advanced technology, diverse participant strategies, and strict regulatory oversight all contribute to maintaining an efficient, transparent, and liquid trading environment. For more information on NASDAQ and its operations, visit the official NASDAQ website: [NASDAQ](https://www.nasdaq.com).
+Order flow on NASDAQ is a complex and dynamic process integral to the functioning of the financial markets. Advanced technology, diverse participant strategies, and strict regulatory oversight all contribute to maintaining an efficient, transparent, and liquid [trading environment](../t/trading_environment.md). For more information on NASDAQ and its operations, visit the official NASDAQ website: [NASDAQ](https://www.nasdaq.com).

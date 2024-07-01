@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The zero-rate policy (ZRP) is a monetary policy tool used by central banks where the nominal interest rates are set at or near zero percent. This policy is typically employed during periods of economic crisis or stagnation to encourage borrowing and spending by making the cost of financing very low. The goal is to stimulate economic growth and prevent deflation. ZRP has profound implications for various facets of the economy, including consumer behavior, corporate investment, financial markets, and algorithmic trading (algotrading).
+The zero-rate policy (ZRP) is a monetary policy tool used by central banks where the nominal interest rates are set at or near zero percent. This policy is typically employed during periods of economic crisis or stagnation to encourage borrowing and spending by making the cost of financing very low. The goal is to stimulate economic growth and prevent deflation. ZRP has profound implications for various facets of the economy, including consumer behavior, corporate investment, financial markets, and [algorithmic trading](../a/algorithmic_trading.md) (algotrading).
 
 ## Understanding Zero Rate Policy
 
@@ -22,11 +22,11 @@ The principle behind ZRP is straightforward: lower interest rates reduce the cos
 
 ### Equity Markets
 
-Zero interest rate policies can have a stimulative effect on equity markets. Lower interest rates reduce the discount rate used in valuing future cash flows, making stocks more attractive on a valuation basis. This can result in higher stock prices and increased market activity. Investors may also shift from bonds to stocks in search of higher yields, pushing prices up further.
+[Zero interest rate policies](../z/zero_interest_rate_policies.md) can have a stimulative effect on equity markets. Lower interest rates reduce the discount rate used in valuing future cash flows, making stocks more attractive on a valuation basis. This can result in higher stock prices and increased market activity. Investors may also shift from bonds to stocks in search of higher yields, pushing prices up further.
 
 ### Fixed Income Markets
 
-In the bond market, ZRP leads to lower yields across the yield curve. This situation usually benefits existing bondholders, as the prices of previously issued bonds with higher rates rise. However, for those looking to invest in new bonds, the returns are significantly lower, which can push investors towards riskier assets in search of higher yields.
+In the bond market, ZRP leads to lower yields across the [yield curve](../y/yield_curve.md). This situation usually benefits existing bondholders, as the prices of previously issued bonds with higher rates rise. However, for those looking to invest in new bonds, the returns are significantly lower, which can push investors towards riskier assets in search of higher yields.
 
 ### Foreign Exchange Markets
 
@@ -34,19 +34,19 @@ The implementation of a zero-rate policy typically leads to depreciation of the 
 
 ## Influence on Algorithmic Trading Strategies
 
-Algorithmic trading, or algotrading, involves using computer algorithms to automate trading strategies based on pre-defined criteria. The introduction of a zero-rate policy can significantly impact these algorithms, requiring traders to adapt their strategies to the new monetary environment.
+[Algorithmic trading](../a/algorithmic_trading.md), or algotrading, involves using computer algorithms to automate [trading strategies](../t/trading_strategies.md) based on pre-defined criteria. The introduction of a zero-rate policy can significantly impact these algorithms, requiring traders to adapt their strategies to the new monetary environment.
 
 ### Arbitrage Opportunities
 
-A zero-rate environment can create significant arbitrage opportunities for algorithmic traders. For instance, the interest rate parity condition in foreign exchange markets can be exploited since lower domestic interest rates compared to foreign rates can lead to predictable currency movements.
+A zero-rate environment can create significant [arbitrage](../a/arbitrage.md) opportunities for algorithmic traders. For instance, the interest rate parity condition in foreign exchange markets can be exploited since lower domestic interest rates compared to foreign rates can lead to predictable currency movements.
 
 ### Volatility Strategies
 
-A ZRP can lead to a reduction in market volatility in the short term as uncertainty about interest rate changes diminishes. Algorithmic trading strategies that rely on volatility, such as certain types of options trading, need to be adjusted to account for this decrease in volatility.
+A ZRP can lead to a reduction in market volatility in the short term as uncertainty about interest rate changes diminishes. [Algorithmic trading](../a/algorithmic_trading.md) strategies that rely on volatility, such as certain types of options trading, need to be adjusted to account for this decrease in volatility.
 
 ### Risk Management
 
-With yields on safe assets like government bonds being extremely low, algorithms that manage portfolio risk may need to be recalibrated. Risk parity strategies and other asset allocation models might need to shift focus towards equities or alternative investments to maintain the desired level of portfolio returns.
+With yields on safe assets like government bonds being extremely low, algorithms that manage portfolio risk may need to be recalibrated. [Risk parity](../r/risk_parity.md) strategies and other [asset allocation](../a/asset_allocation.md) models might need to shift focus towards equities or alternative investments to maintain the desired level of portfolio returns.
 
 ## Case Studies and Examples
 
@@ -84,6 +84,6 @@ A zero-rate policy can also adversely affect savers, particularly those who rely
 
 ## Conclusion
 
-The zero-rate policy is a powerful tool deployed by central banks during periods of economic trouble. Its implications for financial markets and algorithmic trading are vast and complex. While it aims to stimulate borrowing and spending, leading to economic recovery, it also comes with potential side effects, including asset bubbles and reduced income for savers. 
+The zero-rate policy is a powerful tool deployed by central banks during periods of economic trouble. Its implications for financial markets and [algorithmic trading](../a/algorithmic_trading.md) are vast and complex. While it aims to stimulate borrowing and spending, leading to economic recovery, it also comes with potential side effects, including asset bubbles and reduced income for savers. 
 
 Algorithmic traders must adapt to the unique environment created by ZRP to maintain profitability and manage risk effectively. The historical applications of ZRP offer valuable lessons on both its benefits and limitations, informing future monetary policy and investment strategies.

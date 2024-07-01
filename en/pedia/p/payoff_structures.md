@@ -1,6 +1,6 @@
 # Payoff Structures
 
-Payoff structures form the bedrock of financial derivatives and greatly influence algorithmic trading strategies. They define the financial outcomes of derivative instruments under various underlying asset scenarios, thus enabling traders to understand potential gains and losses. A clear understanding of payoff structures is crucial for anyone involved in financial markets, particularly for those engaging in sophisticated trading techniques like algorithmic trading.
+Payoff structures form the bedrock of financial [derivatives](../d/derivatives.md) and greatly influence [algorithmic trading](../a/algorithmic_trading.md) strategies. They define the financial outcomes of derivative instruments under various underlying asset scenarios, thus enabling traders to understand potential gains and losses. A clear understanding of payoff structures is crucial for anyone involved in financial markets, particularly for those engaging in sophisticated trading techniques like [algorithmic trading](../a/algorithmic_trading.md).
 
 ## What Are Payoff Structures?
 
@@ -14,13 +14,13 @@ Payoff structures refer to the relationship between the price of a derivative an
    
 2. **Non-Linear Payoffs**: These have more complex relationships and often include options and other derivative instruments where payoffs depend on specific conditions. Examples include: 
    - **Options**: These give the holder the right, but not the obligation, to buy or sell an asset at a set price before or at expiration.
-   - **Exotic Derivatives**: Instruments like barrier options, Asian options, and digital options that have payoffs dependent on more complicated conditions.
+   - **Exotic [Derivatives](../d/derivatives.md)**: Instruments like barrier options, Asian options, and digital options that have payoffs dependent on more complicated conditions.
 
 ## Linear Payoff Structures
 
 ### Futures Contracts
 
-Futures contracts are standardized agreements to buy or sell an asset at a future date and price. The payoff for a futures contract is linear, meaning the value of the contract increases or decreases in direct proportion to the price change in the underlying asset.
+[Futures contracts](../f/futures_contracts.md) are standardized agreements to buy or sell an asset at a future date and price. The payoff for a futures contract is linear, meaning the value of the contract increases or decreases in direct proportion to the price change in the underlying asset.
 
 #### Payoff Calculation
 
@@ -43,13 +43,13 @@ Conversely, if the price falls to $45, the payoff becomes:
 
 ### Forward Contracts
 
-Forward contracts are similar to futures but are customized and traded over-the-counter (OTC), making them less liquid but more flexible. The payoff structure of forward contracts follows the same linear relationship:
+[Forward contracts](../f/forward_contracts.md) are similar to futures but are customized and traded over-the-counter (OTC), making them less liquid but more flexible. The payoff structure of [forward contracts](../f/forward_contracts.md) follows the same linear relationship:
 
 \[ \text{Payoff} = (P_t - P_0) \times Q \]
 
 ### Swaps
 
-Swaps are derivative contracts in which parties exchange cash flows or other financial metrics. The most common types are interest rate swaps and currency swaps.
+Swaps are derivative contracts in which parties exchange cash flows or other financial metrics. The most common types are [interest rate swaps](../i/interest_rate_swaps.md) and currency swaps.
 
 #### Interest Rate Swap Example
 
@@ -85,8 +85,8 @@ A put option gives the holder the right to sell an asset at a specified strike p
 #### Barrier Options
 
 Barrier options are activated or nullified when the underlying asset hits a predetermined barrier price. There are two types:
-- **Knock-In Options**: Become active only when the underlying asset reaches a barrier level.
-- **Knock-Out Options**: Expire worthless if the underlying asset hits the barrier level.
+- **[Knock-In Options](../k/knock-in_options.md)**: Become active only when the underlying asset reaches a barrier level.
+- **[Knock-Out Options](../k/knock-out_options.md)**: Expire worthless if the underlying asset hits the barrier level.
 
 #### Asian Options
 
@@ -107,11 +107,11 @@ If, for instance, the predefined condition is met, where \( Q \) is the predeter
 
 ## Implications for Algo Trading
 
-Algorithmic trading strategies must account for the complexities of various payoff structures to optimize execution and profitability. The way algorithms handle risk management, hedge positions, and optimize portfolios often relies heavily on the payoff structures of the derivatives in play.
+[Algorithmic trading](../a/algorithmic_trading.md) strategies must account for the complexities of various payoff structures to optimize execution and profitability. The way algorithms handle [risk management](../r/risk_management.md), hedge positions, and optimize portfolios often relies heavily on the payoff structures of the [derivatives](../d/derivatives.md) in play.
 
 ### Risk Management
 
-Understanding payoff structures is critical for effective risk management. Tools like Value at Risk (VaR) and stress testing can be applied more accurately when the payoff profiles of portfolio components are well understood.
+Understanding payoff structures is critical for effective [risk management](../r/risk_management.md). Tools like Value at Risk (VaR) and stress testing can be applied more accurately when the payoff profiles of portfolio components are well understood.
 
 ### Portfolio Optimization
 
@@ -119,18 +119,18 @@ Payoff structures enable traders to construct diversified portfolios that maximi
 
 ### Hedging Strategies
 
-Derivatives with complex payoff structures are often used in hedging to mitigate risk. For example, options can protect against adverse price movements in an underlying asset.
+[Derivatives](../d/derivatives.md) with complex payoff structures are often used in hedging to mitigate risk. For example, options can protect against adverse price movements in an underlying asset.
 
 ## Financial Companies Specializing in Derivatives
 
-To better understand and engage with derivatives markets, one can rely on financial institutions and service providers specializing in these instruments. Some leading companies include:
+To better understand and engage with [derivatives](../d/derivatives.md) markets, one can rely on financial institutions and service providers specializing in these instruments. Some leading companies include:
 
 - **CME Group [CME Group](https://www.cmegroup.com)**: A global markets company offering a range of derivative products including futures and options.
-- **Intercontinental Exchange (ICE) [ICE](https://www.theice.com)**: Provides trading platforms and services for commodity and financial derivatives.
-- **Goldman Sachs [Goldman Sachs](https://www.goldmansachs.com)**: An investment bank known for its expertise in derivatives trading and structured products.
+- **Intercontinental Exchange (ICE) [ICE](https://www.theice.com)**: Provides trading platforms and services for commodity and financial [derivatives](../d/derivatives.md).
+- **Goldman Sachs [Goldman Sachs](https://www.goldmansachs.com)**: An investment bank known for its expertise in [derivatives](../d/derivatives.md) trading and structured products.
   
-Each of these institutions provides various tools, platforms, and services that are essential for sophisticated trading and risk management strategies in derivatives markets.
+Each of these institutions provides various tools, platforms, and services that are essential for sophisticated trading and [risk management](../r/risk_management.md) strategies in [derivatives](../d/derivatives.md) markets.
 
 ## Conclusion
 
-Payoff structures are critical to understanding and leveraging derivative instruments in financial markets. From linear payoffs seen in futures and forwards to the more intricate payoffs in options and exotics, these structures form the basis for complex trading and risk management strategies. Whether you are a novice trader or a seasoned professional, mastering payoff structures is essential for navigating the sophisticated world of algorithmic trading.
+Payoff structures are critical to understanding and leveraging derivative instruments in financial markets. From linear payoffs seen in futures and forwards to the more intricate payoffs in options and exotics, these structures form the basis for complex trading and [risk management](../r/risk_management.md) strategies. Whether you are a novice trader or a seasoned professional, mastering payoff structures is essential for navigating the sophisticated world of [algorithmic trading](../a/algorithmic_trading.md).

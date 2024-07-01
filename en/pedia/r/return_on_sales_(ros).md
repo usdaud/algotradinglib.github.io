@@ -66,7 +66,7 @@ Companies might manipulate ROS by altering operating expenses or revenue recogni
 
 ### Signal for Profitability
 
-In algorithmic trading (algotrading), understanding a company's ROS can be instrumental in developing trading strategies. Algorithms can be programmed to recognize companies with high or improving ROS, potentially signaling an investment in profitable and efficiently managed firms.
+In [algorithmic trading](../a/algorithmic_trading.md) (algotrading), understanding a company's ROS can be instrumental in developing [trading strategies](../t/trading_strategies.md). Algorithms can be programmed to recognize companies with high or improving ROS, potentially signaling an investment in profitable and efficiently managed firms.
 
 ### Screening Stocks
 
@@ -74,7 +74,7 @@ Algotrading systems can use ROS as a screening criterion to identify stocks that
 
 ### Backtesting Strategies
 
-By incorporating ROS data into backtesting models, traders can assess the historical performance of trading strategies that focus on companies with favorable ROS values. This can provide insights into the potential effectiveness of such strategies in different market conditions.
+By incorporating ROS data into [backtesting](../b/backtesting.md) models, traders can assess the historical performance of [trading strategies](../t/trading_strategies.md) that focus on companies with favorable ROS values. This can provide insights into the potential effectiveness of such strategies in different market conditions.
 
 ## Case Studies
 
@@ -88,4 +88,4 @@ Walmart Inc. (https://www.walmart.com) illustrates the challenges of maintaining
 
 ## Conclusion
 
-Return on Sales (ROS) is a powerful metric for assessing a company's operational efficiency and profitability. It provides valuable insights into how well a company is converting its sales into profit, making it a crucial tool for investors, analysts, and algorithmic traders. By understanding ROS and incorporating it into trading strategies, market participants can make more informed decisions and potentially enhance their investment outcomes.
+Return on Sales (ROS) is a powerful metric for assessing a company's operational efficiency and profitability. It provides valuable insights into how well a company is converting its sales into profit, making it a crucial tool for investors, analysts, and algorithmic traders. By understanding ROS and incorporating it into [trading strategies](../t/trading_strategies.md), market participants can make more informed decisions and potentially enhance their investment outcomes.

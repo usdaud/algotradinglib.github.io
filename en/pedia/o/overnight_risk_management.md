@@ -1,6 +1,6 @@
 # Overnight Risk Management in Algorithmic Trading
 
-Overnight risk management is a crucial aspect of algorithmic trading. It involves mitigating the potential risks associated with holding open trade positions overnight, particularly because the financial markets can exhibit significant volatility due to news events, economic data releases, geopolitical developments, or other factors that occur after market hours. Effective overnight risk management is vital for ensuring that the trading strategy remains robust and the trading portfolio retains its value.
+Overnight [risk management](../r/risk_management.md) is a crucial aspect of [algorithmic trading](../a/algorithmic_trading.md). It involves mitigating the potential risks associated with holding open trade positions overnight, particularly because the financial markets can exhibit significant volatility due to news events, economic data releases, geopolitical developments, or other factors that occur after market hours. Effective overnight [risk management](../r/risk_management.md) is vital for ensuring that the trading strategy remains robust and the trading portfolio retains its value.
 
 ## Concepts and Importance
 
@@ -12,8 +12,8 @@ Overnight risk, also known as gap risk, is the risk that the market price of a f
 
 1. **Volatility**: Financial markets can be highly volatile, especially when they react to unexpected news or events that occur outside of trading hours.
 2. **Market Gaps**: The difference between the closing price of one day and the opening price of the next can result in gaps that might lead to substantial financial losses if positions are not managed properly.
-3. **Strategy Integrity**: For algorithmic trading strategies, maintaining their integrity is critical. Overlooking overnight risk can lead to disruptions in the trading strategy.
-4. **Capital Preservation**: Effective risk management helps preserve the capital of the trading portfolio, ensuring sustained participation in the markets over the long term.
+3. **Strategy Integrity**: For [algorithmic trading](../a/algorithmic_trading.md) strategies, maintaining their integrity is critical. Overlooking overnight risk can lead to disruptions in the trading strategy.
+4. **[Capital Preservation](../c/capital_preservation.md)**: Effective [risk management](../r/risk_management.md) helps preserve the capital of the trading portfolio, ensuring sustained participation in the markets over the long term.
 
 ## Techniques for Overnight Risk Management
 
@@ -31,7 +31,7 @@ By diversifying the portfolio across various assets and asset classes, traders c
 
 ### 4. Stop Loss and Take Profit Levels
 
-Setting stop loss and take profit levels is a standard risk management practice. These predefined levels help automatically close positions to prevent excessive losses or secure gains.
+Setting stop loss and take profit levels is a standard [risk management](../r/risk_management.md) practice. These predefined levels help automatically close positions to prevent excessive losses or secure gains.
 
 ### 5. Monitoring News and Events
 
@@ -39,7 +39,7 @@ Keeping track of major news events, economic data releases, and geopolitical dev
 
 ### 6. Overnight Trading Algorithms
 
-Some algorithmic trading strategies are specifically designed to trade during the overnight session. These algorithms can take advantage of after-hours trading opportunities while managing the associated risks.
+Some [algorithmic trading](../a/algorithmic_trading.md) strategies are specifically designed to trade during the overnight session. These algorithms can take advantage of after-hours trading opportunities while managing the associated risks.
 
 ### 7. Partial Liquidation
 
@@ -47,14 +47,14 @@ Some traders choose to partially liquidate their positions before the market clo
 
 ## Example of an Algorithmic Trading Firm
 
-One example of a firm known for its sophisticated algorithmic trading systems, including measures to manage overnight risk, is Renaissance Technologies.
+One example of a firm known for its sophisticated [algorithmic trading](../a/algorithmic_trading.md) systems, including measures to manage overnight risk, is Renaissance Technologies.
 
 ### Renaissance Technologies
 
-Renaissance Technologies is a quantitative investment management firm. Known for its reliance on mathematical and statistical methods to make investment decisions, the firm employs various risk management techniques, including those for managing overnight risk.
+Renaissance Technologies is a quantitative investment management firm. Known for its reliance on mathematical and statistical methods to make investment decisions, the firm employs various [risk management](../r/risk_management.md) techniques, including those for managing overnight risk.
 
 [Visit Renaissance Technologies](https://www.rentec.com/)
 
 ## Conclusion
 
-Overnight risk management is an indispensable component for any algorithmic trading strategy. By employing various techniques such as position sizing, hedging, and diversification, traders can effectively mitigate potential risks associated with holding overnight positions. Being vigilant and proactive in managing these risks can significantly enhance the stability and robustness of trading portfolios, ensuring long-term success in algorithmic trading.
+Overnight [risk management](../r/risk_management.md) is an indispensable component for any [algorithmic trading](../a/algorithmic_trading.md) strategy. By employing various techniques such as [position sizing](../p/position_sizing.md), hedging, and diversification, traders can effectively mitigate potential risks associated with holding overnight positions. Being vigilant and proactive in managing these risks can significantly enhance the stability and robustness of trading portfolios, ensuring long-term success in [algorithmic trading](../a/algorithmic_trading.md).

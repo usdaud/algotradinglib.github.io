@@ -1,14 +1,14 @@
 # Zero-Lower-Bound Trading Strategies
 
-Zero-Lower-Bound (ZLB) trading strategies pertain to trading mechanisms employed in financial markets where the nominal interest rates are close to zero. The concept is derived from the economic phenomenon termed the "Zero Lower Bound." This scenario poses unique challenges and opportunities for traders as the traditional monetary policy tools become less effective, forcing traders and policymakers to adopt unconventional strategies.
+Zero-Lower-Bound (ZLB) [trading strategies](../t/trading_strategies.md) pertain to trading mechanisms employed in financial markets where the nominal interest rates are close to zero. The concept is derived from the economic phenomenon termed the "[Zero Lower Bound](../z/zero_lower_bound.md)." This scenario poses unique challenges and opportunities for traders as the traditional monetary policy tools become less effective, forcing traders and policymakers to adopt unconventional strategies.
 
 ## Understanding Zero Lower Bound
 
-The Zero Lower Bound refers to the situation where the short-term nominal interest rate is at or near zero, limiting the central bank's ability to use monetary policy to stimulate economic growth. This condition can arise during periods of economic downturn, when central banks lower interest rates to encourage borrowing and investment. However, once rates approach zero, the effectiveness of traditional rate cuts diminishes, and alternative measures, such as quantitative easing or negative interest rates, are considered.
+The [Zero Lower Bound](../z/zero_lower_bound.md) refers to the situation where the short-term nominal interest rate is at or near zero, limiting the central bank's ability to use monetary policy to stimulate economic growth. This condition can arise during periods of economic downturn, when central banks lower interest rates to encourage borrowing and investment. However, once rates approach zero, the effectiveness of traditional rate cuts diminishes, and alternative measures, such as [quantitative easing](../q/quantitative_easing.md) or negative interest rates, are considered.
 
 ## Impacts on Financial Markets
 
-When interest rates are near zero, it affects various asset classes differently. Bonds particularly face a unique situation where further interest rate cuts do not substantially increase their prices. Conversely, equities might be affected positively as borrowing costs remain lower for longer periods. Understanding these dynamics is crucial for developing robust ZLB trading strategies.
+When interest rates are near zero, it affects various asset classes differently. Bonds particularly face a unique situation where further interest rate cuts do not substantially increase their prices. Conversely, equities might be affected positively as borrowing costs remain lower for longer periods. Understanding these dynamics is crucial for developing robust ZLB [trading strategies](../t/trading_strategies.md).
 
 ### Bond Markets
 
@@ -20,13 +20,13 @@ Equity markets can benefit from prolonged periods of low interest rates as the c
 
 ### Currency Markets
 
-The ZLB condition can also lead to unconventional monetary policies like quantitative easing, which can impact currency values. For instance, a central bank engaging in large-scale asset purchases might devalue its currency, influencing currency trading strategies. Traders might engage in carry trades or speculate on exchange rate movements influenced by these policies.
+The ZLB condition can also lead to unconventional monetary policies like [quantitative easing](../q/quantitative_easing.md), which can impact currency values. For instance, a central bank engaging in large-scale asset purchases might devalue its currency, influencing [currency trading strategies](../c/currency_trading_strategies.md). Traders might engage in carry trades or speculate on exchange rate movements influenced by these policies.
 
 ## Trading Strategies in ZLB Conditions
 
 ### Quantitative Easing Driven Strategies
 
-Quantitative easing (QE) is a common policy tool used when interest rates are at the ZLB. Traders can develop strategies that anticipate the effects of QE on different asset classes. For instance:
+[Quantitative easing](../q/quantitative_easing.md) (QE) is a common policy tool used when interest rates are at the ZLB. Traders can develop strategies that anticipate the effects of QE on different asset classes. For instance:
 
 - **Equity Long Positions**: Anticipating that QE will boost stock prices by increasing liquidity and lowering borrowing costs.
 - **Bond Short Positions**: Betting that long-term bond yields will eventually rise as the economy recovers from the depression phase.
@@ -34,10 +34,10 @@ Quantitative easing (QE) is a common policy tool used when interest rates are at
 
 ### Yield Curve Strategies
 
-The yield curve often flattens or inverts at the ZLB, providing trading opportunities. Possible strategies include:
+The [yield curve](../y/yield_curve.md) often flattens or inverts at the ZLB, providing trading opportunities. Possible strategies include:
 
-- **Steepener Trades**: Taking long positions in short-dated bonds and short positions in long-dated bonds, anticipating that the yield curve will steepen as the economy begins to recover.
-- **Butterfly Spreads**: Combining short and long positions at different points on the yield curve to capitalize on anomalies in yield differentials.
+- **Steepener Trades**: Taking long positions in short-dated bonds and short positions in long-dated bonds, anticipating that the [yield curve](../y/yield_curve.md) will steepen as the economy begins to recover.
+- **Butterfly Spreads**: Combining short and long positions at different points on the [yield curve](../y/yield_curve.md) to capitalize on anomalies in yield differentials.
 
 ### Negative Interest Rate Policies
 
@@ -51,7 +51,7 @@ In some cases, central banks may implement negative interest rates policies (NIR
 
 With the massive liquidity injections and low interest rates, there's a concern about future inflation. Traders may:
 
-- **Inflation-Linked Bonds**: Go long on bonds that are indexed to inflation to protect against future price level increases.
+- **[Inflation-Linked Bonds](../i/inflation-linked_bonds.md)**: Go long on bonds that are indexed to inflation to protect against future price level increases.
 - **Commodity Investments**: Invest in commodities or commodity-based ETFs that historically perform well in inflationary environments.
 
 ### Volatility Trading
@@ -65,7 +65,7 @@ ZLB conditions often result in low market volatility. But there might be spikes 
 
 ### The Great Recession (2008-2009)
 
-During the Great Recession, the Federal Reserve and other central banks slashed interest rates to near zero. The Fed also implemented several rounds of quantitative easing. Trading strategies that capitalized on the expected impacts of these policies included:
+During the Great Recession, the Federal Reserve and other central banks slashed interest rates to near zero. The Fed also implemented several rounds of [quantitative easing](../q/quantitative_easing.md). [Trading strategies](../t/trading_strategies.md) that capitalized on the expected impacts of these policies included:
 
 - **Long U.S. Equity Indexes**: Anticipating a rally driven by QE.
 - **Short U.S. Dollar**: Betting on the depreciation of the US Dollar due to extensive QE measures.
@@ -79,7 +79,7 @@ The global pandemic pushed central banks worldwide to reduce rates to near zero 
 
 ## Conclusion
 
-Zero-Lower-Bound trading strategies necessitate a deep understanding of macroeconomic policies and their impacts on different financial assets. When traditional monetary tools are exhausted, traders can look to unconventional strategies to find arbitrage opportunities and hedge against potential risks. They must remain adaptive, anticipating central bank actions and market responses to navigate successfully in ZLB conditions.
+Zero-Lower-Bound [trading strategies](../t/trading_strategies.md) necessitate a deep understanding of macroeconomic policies and their impacts on different financial assets. When traditional monetary tools are exhausted, traders can look to unconventional strategies to find [arbitrage](../a/arbitrage.md) opportunities and hedge against potential risks. They must remain adaptive, anticipating central bank actions and market responses to navigate successfully in ZLB conditions.
 
 ## Further Reading and Resources
 

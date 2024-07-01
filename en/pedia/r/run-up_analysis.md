@@ -1,8 +1,8 @@
 # Run-Up Analysis
 
-Algorithmic trading, also known as algo-trading or black-box trading, uses advanced mathematical models and software to execute trades automatically and efficiently. One of the key techniques employed in this domain is Run-Up Analysis. This analysis is critical for understanding and leveraging short-term market movements, especially after significant events or changes in asset prices.
+[Algorithmic trading](../a/algorithmic_trading.md), also known as algo-trading or black-box trading, uses advanced mathematical models and software to execute trades automatically and efficiently. One of the key techniques employed in this domain is Run-Up Analysis. This analysis is critical for understanding and leveraging short-term market movements, especially after significant events or changes in asset prices.
 
-Run-Up Analysis involves examining the price movements of a financial instrument over a specific period, usually just before, during, and after a significant price change. This technique can be used to study stock prices, commodity prices, forex rates, and any other market-traded instruments. The primary goal is to identify patterns that can be exploited for profitable trading strategies.
+Run-Up Analysis involves examining the price movements of a financial instrument over a specific period, usually just before, during, and after a significant price change. This technique can be used to study stock prices, commodity prices, forex rates, and any other market-traded instruments. The primary goal is to identify patterns that can be exploited for profitable [trading strategies](../t/trading_strategies.md).
 
 ## Key Concepts in Run-Up Analysis
 
@@ -22,30 +22,30 @@ Understanding these phases helps traders define entry and exit points to maximiz
 ### Factors Influencing Run-Ups
 
 Several factors can trigger a run-up, including:
-- **Earnings announcements**: Positive earnings reports can lead to a rapid increase in stock prices.
+- **[Earnings announcements](../e/earnings_announcements.md)**: Positive earnings reports can lead to a rapid increase in stock prices.
 - **Mergers and acquisitions (M&As)**: News of companies merging or one company acquiring another can create a buying frenzy.
 - **Market sentiment**: Overall market sentiment can play a role. Bullish markets can induce run-ups as investors become more optimistic.
-- **Macroeconomic factors**: Economic indicators like GDP growth, unemployment rates, and interest rate changes can also influence run-ups.
+- **Macroeconomic factors**: [Economic indicators](../e/economic_indicators.md) like GDP growth, unemployment rates, and interest rate changes can also influence run-ups.
 
 ### Measuring Run-Ups
 
 To measure run-ups, analysts use various methods:
 - **Percentage change**: Calculating the percentage increase from the starting price to the peak price.
 - **Absolute change**: Measuring the absolute price change over the run-up period.
-- **Volatility analysis**: Assessing the standard deviation of price changes during the run-up period.
+- **[Volatility analysis](../v/volatility_analysis.md)**: Assessing the standard deviation of price changes during the run-up period.
 
 ## Applications of Run-Up Analysis in Algo-Trading
 
 ### Strategy Development
 
-Run-Up Analysis is an essential part of developing trading strategies. By understanding the patterns and triggers of run-ups, traders can create algorithms that:
+Run-Up Analysis is an essential part of developing [trading strategies](../t/trading_strategies.md). By understanding the patterns and triggers of run-ups, traders can create algorithms that:
 - **Identify entry points**: Algorithms can be programmed to automatically buy assets at the beginning of a run-up, maximizing potential gains.
 - **Set exit criteria**: Traders can use defined metrics to exit positions before or at the peak of the run-up to lock in profits.
 
 ### Risk Management
 
 Run-Up Analysis helps in assessing and managing trading risks:
-- **Stop-Loss Orders**: Traders can set stop-loss orders at specific points to limit potential losses if the run-up reverses.
+- **[Stop-Loss Orders](../s/stop-loss_orders.md)**: Traders can set [stop-loss orders](../s/stop-loss_orders.md) at specific points to limit potential losses if the run-up reverses.
 - **Volatility-based adjustments**: By analyzing volatility patterns, traders can adjust their positions based on predicted price movements.
 
 ### Backtesting and Optimization
@@ -71,8 +71,8 @@ Sophisticated software tools help in analyzing run-up data:
 
 ### Example of a Company Utilizing Run-Up Analysis
 
-One notable company that employs Run-Up Analysis in its trading strategies is Renaissance Technologies ([https://www.rentec.com/](https://www.rentec.com/)). Known for its quantitative trading models, the firm uses advanced statistical analysis and mathematical models, including run-up analysis techniques, to achieve significant market gains.
+One notable company that employs Run-Up Analysis in its [trading strategies](../t/trading_strategies.md) is Renaissance Technologies ([https://www.rentec.com/](https://www.rentec.com/)). Known for its [quantitative trading](../q/quantitative_trading.md) models, the firm uses advanced statistical analysis and mathematical models, including run-up analysis techniques, to achieve significant market gains.
 
 ## Conclusion
 
-Run-Up Analysis is invaluable for traders in the algorithmic trading space. By comprehensively understanding the factors driving price movements and utilizing advanced analytical tools, traders can create highly effective trading algorithms. This not only maximizes their profit potential but also mitigates risks associated with market volatility.
+Run-Up Analysis is invaluable for traders in the [algorithmic trading](../a/algorithmic_trading.md) space. By comprehensively understanding the factors driving price movements and utilizing advanced analytical tools, traders can create highly effective [trading algorithms](../t/trading_algorithms.md). This not only maximizes their profit potential but also mitigates risks associated with market volatility.

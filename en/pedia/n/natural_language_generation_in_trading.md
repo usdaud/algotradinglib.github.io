@@ -14,10 +14,10 @@ NLG can be pivotal in generating real-time commentary on market scenarios. For i
 Financial institutions can utilize NLG to personalize communication with clients. By analyzing client portfolios and preferences, NLG systems can generate bespoke recommendations and updates, enhancing client engagement and satisfaction. This personalized approach ensures that clients receive relevant and timely information about their investments.
 
 ### 4. Sentiment Analysis and News Summarization
-NLG can be combined with Natural Language Processing (NLP) to summarize news articles, social media posts, and other textual data sources, providing traders with sentiment analysis and concise summaries of the latest information affecting the markets. This assists traders in making informed decisions based on the latest news and trends without having to manually sift through large volumes of text.
+NLG can be combined with Natural Language Processing (NLP) to summarize news articles, social media posts, and other textual data sources, providing traders with [sentiment analysis](../s/sentiment_analysis.md) and concise summaries of the latest information affecting the markets. This assists traders in making informed decisions based on the latest news and trends without having to manually sift through large volumes of text.
 
 ### 5. Algorithmic Trade Strategy Explanation
-For complex algorithmic trading strategies, NLG can elucidate the logic behind the algorithms to traders and other stakeholders. By translating complex quantitative data and models into understandable language, NLG systems help demystify algorithmic trading strategies and foster greater transparency and trust.
+For complex [algorithmic trading](../a/algorithmic_trading.md) strategies, NLG can elucidate the logic behind the algorithms to traders and other stakeholders. By translating complex quantitative data and models into understandable language, NLG systems help demystify [algorithmic trading](../a/algorithmic_trading.md) strategies and foster greater transparency and trust.
 
 ## Technologies Behind NLG
 
@@ -81,7 +81,7 @@ The integration of NLG with voice assistants could provide traders with voice-ac
 Combining NLG with other AI technologies such as computer vision and augmented reality could provide traders with richer, more interactive ways to interpret and act on financial data.
 
 ### 4. Autonomous Trading Systems
-NLG could play a critical role in fully autonomous trading systems, allowing for seamless interpretation and communication of data-driven decisions without human intervention.
+NLG could play a critical role in fully autonomous [trading systems](../t/trading_systems.md), allowing for seamless interpretation and communication of data-driven decisions without human intervention.
 
 ### 5. Ethical AI and Transparency
 As NLG systems become more prevalent, ensuring ethical use and transparency in how these systems generate and present information will be increasingly important. Addressing biases and ensuring accountability will be key focus areas.

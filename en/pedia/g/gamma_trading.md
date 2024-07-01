@@ -12,7 +12,7 @@ For instance, if an option has a delta of 0.5 and a gamma of 0.02, a $1 increase
 
 Gamma trading is essential for several reasons:
 
-1. **Risk Management**: Traders use gamma to manage the risk of their options portfolios. High gamma implies that delta is highly sensitive to changes in the underlying asset. Options traders, especially market makers, need to frequently adjust their positions to remain delta-neutral.
+1. **[Risk Management](../r/risk_management.md)**: Traders use gamma to manage the risk of their options portfolios. High gamma implies that delta is highly sensitive to changes in the underlying asset. Options traders, especially market makers, need to frequently adjust their positions to remain delta-neutral.
 
 2. **Profit Opportunities**: By understanding and trading gamma, traders can potentially profit from volatility. High gamma can lead to significant changes in delta, providing opportunities for gains during volatile markets.
 
@@ -28,7 +28,7 @@ Traders monitor the gamma of their portfolio to anticipate how delta will change
 
 ## Gamma Scalping
 
-Gamma scalping is a popular gamma trading strategy that involves a continuous adjustment of delta to profit from the natural movement of the underlying asset. Here’s a step-by-step outline of how gamma scalping works:
+[Gamma scalping](../g/gamma_scalping.md) is a popular gamma trading strategy that involves a continuous adjustment of delta to profit from the natural movement of the underlying asset. Here’s a step-by-step outline of how [gamma scalping](../g/gamma_scalping.md) works:
 
 1. **Establish a Delta-Neutral Position**: Begin with a delta-neutral options position. This might involve buying options and the underlying asset in proportions that neutralize the delta.
 
@@ -38,7 +38,7 @@ Gamma scalping is a popular gamma trading strategy that involves a continuous ad
 
 4. **Profit from Volatility**: The frequent buying and selling of the underlying asset allow the trader to capture small gains from the price movements. Over time, these small gains can accumulate, especially in volatile markets.
 
-Gamma scalping requires sophisticated modeling and constant monitoring, often facilitated by automated trading systems. The goal is to maintain delta-neutrality while exploiting the gamma-driven changes in delta.
+[Gamma scalping](../g/gamma_scalping.md) requires sophisticated modeling and constant monitoring, often facilitated by [automated trading systems](../a/automated_trading_systems.md). The goal is to maintain delta-neutrality while exploiting the gamma-driven changes in delta.
 
 ## Risks and Considerations
 
@@ -48,7 +48,7 @@ While gamma trading offers potential benefits, it also comes with risks:
 
 2. **Model Risk**: The effectiveness of gamma trading relies on accurate models to predict gamma and its impact on delta. If the models are flawed, the trader may not accurately hedge their positions, resulting in losses.
 
-3. **Market Conditions**: Gamma trading strategies can perform poorly in certain market conditions. For instance, in low volatility markets, there might not be enough price movement to generate profits from gamma scalping.
+3. **Market Conditions**: Gamma [trading strategies](../t/trading_strategies.md) can perform poorly in certain market conditions. For instance, in low volatility markets, there might not be enough price movement to generate profits from [gamma scalping](../g/gamma_scalping.md).
 
 4. **Complexity**: Gamma trading requires a deep understanding of options pricing and the interactions between different Greeks. It is a complex strategy that might not be suitable for all traders.
 

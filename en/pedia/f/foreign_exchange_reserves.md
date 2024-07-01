@@ -86,7 +86,7 @@ Many central banks are growing their gold reserves as a hedge against economic u
 Some countries are establishing sovereign wealth funds to manage their foreign assets more effectively. These funds typically invest in a broader range of assets, including equities and real estate.
 
 ### 4. Technological Advancements
-Technological advancements in financial markets have made it easier to manage and trade foreign exchange reserves efficiently. Automated trading systems and advanced analytics tools are becoming commonplace.
+Technological advancements in financial markets have made it easier to manage and trade foreign exchange reserves efficiently. [Automated trading systems](../a/automated_trading_systems.md) and advanced analytics tools are becoming commonplace.
 
 ## Conclusion
 

@@ -1,6 +1,6 @@
 # Non-Cyclical Stocks
 
-Non-cyclical stocks refer to shares of companies whose performance and financial outcomes are largely unaffected by economic cycles and market fluctuations. These stocks belong to industries that provide essential goods and services, ensuring that demand remains relatively consistent regardless of the economic environment. Investors often gravitate towards non-cyclical stocks during periods of economic downturn or uncertainty because these stocks tend to exhibit less volatility and provide more stable returns.
+Non-cyclical stocks refer to shares of companies whose performance and financial outcomes are largely unaffected by [economic cycles](../e/economic_cycles.md) and market fluctuations. These stocks belong to industries that provide essential goods and services, ensuring that demand remains relatively consistent regardless of the economic environment. Investors often gravitate towards non-cyclical stocks during periods of economic downturn or uncertainty because these stocks tend to exhibit less volatility and provide more stable returns.
 
 ### Characteristics of Non-Cyclical Stocks
 
@@ -45,7 +45,7 @@ Utilities include companies that provide essential services such as electricity,
 Investors should diversify their portfolios across different non-cyclical sectors to mitigate risk further. Holding a mix of consumer staples, healthcare stocks, and utilities can provide a balanced approach to stability.
 
 #### 2. Dividend Reinvestment
-Reinvesting dividends can help compound returns over time. Many non-cyclical companies offer Dividend Reinvestment Plans (DRIPs) that allow investors to automatically reinvest their dividends into additional shares.
+Reinvesting dividends can help compound returns over time. Many non-cyclical companies offer [Dividend Reinvestment](../d/dividend_reinvestment.md) Plans (DRIPs) that allow investors to automatically reinvest their dividends into additional shares.
 
 #### 3. Defensive Positioning
 During economic downturns, shifting a portion of an investment portfolio into non-cyclical stocks can protect against volatility. This defensive strategy helps preserve capital while still participating in market growth.
@@ -77,7 +77,7 @@ PepsiCo, another giant in the beverage and snack food industry, boasts a diverse
 #### Healthcare
 
 1. **Johnson & Johnson (JNJ)**:
-Johnson & Johnson is a multinational corporation that develops medical devices, pharmaceuticals, and consumer healthcare products. Their diverse product base in essential healthcare makes them less sensitive to economic cycles.
+Johnson & Johnson is a multinational corporation that develops medical devices, pharmaceuticals, and consumer healthcare products. Their diverse product base in essential healthcare makes them less sensitive to [economic cycles](../e/economic_cycles.md).
 
 2. **Pfizer (PFE)**:
 Pfizer is known for its pharmaceutical products, including life-saving drugs and vaccines. Their critical role in healthcare ensures consistent demand regardless of economic conditions.

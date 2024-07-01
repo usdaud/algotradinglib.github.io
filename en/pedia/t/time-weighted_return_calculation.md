@@ -90,7 +90,7 @@ The simplified example above is straightforward. In practice, the methodology of
 ### Examples of Software Tools
 - **Morningstar Direct**: A platform offering a variety of performance measurement tools and analytics. ([Morningstar Direct Website](https://www.morningstar.com/products/direct))
 - **Bloomberg Terminal**: Provides robust financial analytics, including performance measurement. ([Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/))
-- **Portfolio123**: Focuses on quantitative stock market research and portfolio management. ([Portfolio123 Website](https://www.portfolio123.com/))
+- **Portfolio123**: Focuses on quantitative stock market research and [portfolio management](../p/portfolio_management.md). ([Portfolio123 Website](https://www.portfolio123.com/))
   
 ## Challenges and Limitations
 
@@ -102,6 +102,6 @@ It assumes intermediate cash flows are reinvested at the same rate. Variances in
 
 ## Conclusion
 
-Time-Weighted Return is a powerful tool for eliminating the bias introduced by external cash flows, making it vital for assessing genuine investment performance. Despite its computational complexity, TWR is indispensable for fund managers, investors, and advisors aiming for accurate performance attribution.
+Time-Weighted Return is a powerful tool for eliminating the bias introduced by external cash flows, making it vital for assessing genuine investment performance. Despite its computational complexity, TWR is indispensable for fund managers, investors, and advisors aiming for accurate [performance attribution](../p/performance_attribution.md).
 
 By focusing on market returns over a specific period, TWR delivers a true reflection of investment skill and strategy effectiveness, beneficial for a multitude of financial applications.

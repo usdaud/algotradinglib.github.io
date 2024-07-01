@@ -1,6 +1,6 @@
 # Physical vs. Cash Settlement in Algorithmic Trading
 
-In the realm of financial markets, particularly in the context of derivatives such as futures and options, the terms "physical settlement" and "cash settlement" play crucial roles. Both methods of settlement define how the positions in these financial instruments are resolved upon expiration. Understanding the nuances between these two settlement methods is essential for traders, investment professionals, and anyone involved in algorithmic trading. 
+In the realm of financial markets, particularly in the context of [derivatives](../d/derivatives.md) such as futures and options, the terms "physical settlement" and "cash settlement" play crucial roles. Both methods of settlement define how the positions in these financial instruments are resolved upon expiration. Understanding the nuances between these two settlement methods is essential for traders, investment professionals, and anyone involved in [algorithmic trading](../a/algorithmic_trading.md). 
 
 ## Physical Settlement
 
@@ -18,9 +18,9 @@ Physical settlement refers to the actual delivery of the underlying asset when a
 
 ### Examples of Physical Settlement
 
-- **Commodity Futures**: In markets like the Chicago Mercantile Exchange (CME), many commodity futures contracts such as those for crude oil, gold, and wheat, typically involve physical settlement. [CME Group](https://www.cmegroup.com/)
+- **[Commodity Futures](../c/commodity_futures.md)**: In markets like the Chicago Mercantile Exchange (CME), many [commodity futures](../c/commodity_futures.md) contracts such as those for crude oil, gold, and wheat, typically involve physical settlement. [CME Group](https://www.cmegroup.com/)
   
-- **Bond Futures**: Some bond futures contracts also use physical settlement, where the buyer receives actual bonds at contract expiry.
+- **Bond Futures**: Some bond [futures contracts](../f/futures_contracts.md) also use physical settlement, where the buyer receives actual bonds at contract expiry.
 
 ## Cash Settlement
 
@@ -30,7 +30,7 @@ Cash settlement, on the other hand, does not involve the delivery of the underly
 
 1. **No Physical Delivery**: Cash settlement eliminates the need for the physical transfer of the underlying asset. This makes the settlement process faster and more straightforward.
 
-2. **Underlying Assets**: Cash settlement is often used for financial derivatives based on assets that are difficult or impractical to deliver, such as stock indices, currency pairs, and certain commodity indices.
+2. **Underlying Assets**: Cash settlement is often used for financial [derivatives](../d/derivatives.md) based on assets that are difficult or impractical to deliver, such as stock indices, currency pairs, and certain commodity indices.
 
 3. **Settlement Process**: The settlement involves calculating the difference between the final settlement price and the contract price, and then crediting or debiting the equivalent cash amount to the respective parties’ accounts.
 
@@ -38,11 +38,11 @@ Cash settlement, on the other hand, does not involve the delivery of the underly
 
 ### Examples of Cash Settlement
 
-- **Stock Index Futures**: Futures contracts based on stock indices like the S&P 500 or the Dow Jones Industrial Average typically use cash settlement. Traders receive or pay the difference between the contract price and the index closing price on the settlement date.
+- **Stock [Index Futures](../i/index_futures.md)**: [Futures contracts](../f/futures_contracts.md) based on stock indices like the S&P 500 or the Dow Jones Industrial Average typically use cash settlement. Traders receive or pay the difference between the contract price and the index closing price on the settlement date.
 
 - **Currency Futures**: Certain currency futures can also be cash-settled. An example is the Euro FX Futures traded on the CME, where settlement is in cash rather than actual currency delivery. [CME Group](https://www.cmegroup.com/)
 
-- **Commodity Indices**: Futures contracts based on commodity indices, such as the Bloomberg Commodity Index, are usually settled in cash.
+- **Commodity Indices**: [Futures contracts](../f/futures_contracts.md) based on commodity indices, such as the Bloomberg Commodity Index, are usually settled in cash.
 
 ## Comparison: Physical vs. Cash Settlement
 
@@ -72,15 +72,15 @@ Cash settlement, on the other hand, does not involve the delivery of the underly
 
 #### Physical Settlement
 
-For algorithmic trading strategies involving physical settlement, considerations include:
+For [algorithmic trading](../a/algorithmic_trading.md) strategies involving physical settlement, considerations include:
 
 - **Logistics Management**: Ensuring that all logistics for delivery are efficiently managed.
 - **Storage and Transportation**: Arranging for storage and transportation of the physical asset, which adds to the cost.
-- **Risk Management**: Managing risks associated with the physical handling and transfer of the asset.
+- **[Risk Management](../r/risk_management.md)**: Managing risks associated with the physical handling and transfer of the asset.
 
 #### Cash Settlement
 
-Algorithms focusing on cash-settled derivatives may benefit from:
+Algorithms focusing on cash-settled [derivatives](../d/derivatives.md) may benefit from:
 
 - **Simplified Execution**: Easier to automate and execute without dealing with physical delivery logistics.
 - **Focus on Price Movements**: Strategies can focus purely on price movements and difference rather than the physical asset.
@@ -88,9 +88,9 @@ Algorithms focusing on cash-settled derivatives may benefit from:
 
 ## Conclusion
 
-Both physical and cash settlement methods have their unique advantages and disadvantages that influence how algorithmic traders approach certain markets and instruments. Physical settlement is essential for commodities and other assets where actual delivery is required, despite the higher costs and logistical complexities. Conversely, cash settlement’s simplicity and lower costs make it ideal for financial derivatives based on indices, currencies, and other non-deliverable assets.
+Both physical and cash settlement methods have their unique advantages and disadvantages that influence how algorithmic traders approach certain markets and instruments. Physical settlement is essential for commodities and other assets where actual delivery is required, despite the higher costs and logistical complexities. Conversely, cash settlement’s simplicity and lower costs make it ideal for financial [derivatives](../d/derivatives.md) based on indices, currencies, and other non-deliverable assets.
 
-Ultimately, the choice between physical and cash settlement depends on the nature of the underlying asset, the market conditions, and the specific objectives of the trading strategy. For algorithmic traders, understanding these settlement mechanisms is crucial for devising effective and efficient trading strategies.
+Ultimately, the choice between physical and cash settlement depends on the nature of the underlying asset, the market conditions, and the specific objectives of the trading strategy. For algorithmic traders, understanding these settlement mechanisms is crucial for devising effective and [efficient trading strategies](../e/efficient_trading_strategies.md).
 
 To learn more about specific settlement processes or the financial products involved, detailed resources and contract specifications are often available from the exchanges where these contracts are traded. Some useful links include:
 

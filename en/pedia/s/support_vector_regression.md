@@ -29,7 +29,7 @@ Here:
 
 #### Kernel Trick
 
-SVR can handle non-linear relationships by applying the kernel trick. Kernels implicitly map the input data into a high-dimensional feature space where linear regression can be performed. Commonly used kernels include:
+SVR can handle non-linear relationships by applying the kernel trick. Kernels implicitly map the input data into a high-dimensional feature space where [linear regression](../l/linear_regression.md) can be performed. Commonly used kernels include:
 - Linear Kernel
 - Polynomial Kernel
 - Radial Basis Function (RBF) Kernel
@@ -52,7 +52,7 @@ SVR can handle non-linear relationships by applying the kernel trick. Kernels im
 
 Support Vector Regression is employed in various real-world applications, such as:
 
-- **Financial Markets**: Predicting stock prices and financial time series.
+- **Financial Markets**: Predicting stock prices and [financial time series](../f/financial_time_series.md).
 - **Weather Forecasting**: Modeling temperature, humidity, and other climatic conditions.
 - **Biomedical Engineering**: Predicting disease progression and patient outcomes.
 - **Energy Load Forecasting**: Estimating future energy consumption.
@@ -84,4 +84,4 @@ SVR is implemented in various machine learning libraries and frameworks:
 
 ### Conclusion
 
-Support Vector Regression is a versatile and powerful technique for regression analysis, capable of handling both linear and non-linear relationships through the use of various kernel functions. Its application spans numerous fields, from finance to healthcare, highlighting its utility and effectiveness. Despite some challenges in computational complexity and parameter tuning, SVR remains a valuable tool for predictive modeling in machine learning.
+Support Vector Regression is a versatile and powerful technique for [regression analysis](../r/regression_analysis.md), capable of handling both linear and non-linear relationships through the use of various kernel functions. Its application spans numerous fields, from finance to healthcare, highlighting its utility and effectiveness. Despite some challenges in computational complexity and parameter tuning, SVR remains a valuable tool for [predictive modeling](../p/predictive_modeling.md) in machine learning.

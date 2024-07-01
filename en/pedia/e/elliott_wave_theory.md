@@ -1,10 +1,10 @@
 # Elliott Wave Theory
 
-Elliott Wave Theory is a form of technical analysis that traders use to analyze financial market cycles and forecast market trends by identifying extreme price movements and investor psychology. Developed by Ralph Nelson Elliott in the 1930s, the theory posits that the market follows specific patterns or "waves" that are cyclical in nature.
+Elliott [Wave Theory](../w/wave_theory.md) is a form of [technical analysis](../t/technical_analysis.md) that traders use to analyze financial [market cycles](../m/market_cycles.md) and forecast market trends by identifying extreme price movements and investor psychology. Developed by Ralph Nelson Elliott in the 1930s, the theory posits that the market follows specific patterns or "waves" that are cyclical in nature.
 
 ## Basic Concept
 
-The Elliott Wave Theory is based on the premise that market prices unfold in specific patterns, which Elliott referred to as waves. These waves are fractal in nature, meaning they can be observed on any time frame, whether it's a 1-minute chart or a monthly chart. The theory divides price movements into two main types: motive waves and corrective waves.
+The Elliott [Wave Theory](../w/wave_theory.md) is based on the premise that market prices unfold in specific patterns, which Elliott referred to as waves. These waves are fractal in nature, meaning they can be observed on any time frame, whether it's a [1-minute chart](../1/1-minute_chart.md) or a monthly chart. The theory divides price movements into two main types: motive waves and corrective waves.
 
 ### Motive Waves
 
@@ -42,14 +42,14 @@ Diagonal triangles are a special type of impulse wave and can appear as both lea
 
 Corrective waves come in various structures:
 
-1. **Zigzags**: A sharp correction made up of three waves labeled A, B, and C. The structure often appears as a 5-3-5 wave pattern.
+1. **Zigzags**: A sharp correction made up of three waves labeled A, B, and C. The structure often appears as a [5-3-5 wave pattern](../1/5-3-5_wave_pattern.md).
 2. **Flats**: A sideways correction made up of three waves, where wave B retraces most or all of wave A, and wave C is typically equal in length to wave A. The structure often appears as a 3-3-5 wave pattern.
 3. **Triangles**: A sideways movement composed of five waves labeled A, B, C, D, and E. Triangles can be ascending, descending, or contracting, but generally take a 3-3-3-3-3 wave form.
 4. **Complex Corrections**: Combinations of the simpler types of corrections (zigzags, flats) that are more difficult to identify and analyze.
 
 ## Fibonacci Relationships
 
-A key element of Elliott Wave Theory is the use of Fibonacci numbers, which are naturally occurring ratios that Elliott found repeat within the wave structures. The most common Fibonacci ratios used in Elliott Wave Analysis are 0.618 and 1.618. Traders use these ratios to predict the lengths of future waves or retracements:
+A key element of Elliott [Wave Theory](../w/wave_theory.md) is the use of Fibonacci numbers, which are naturally occurring ratios that Elliott found repeat within the wave structures. The most common Fibonacci ratios used in Elliott [Wave Analysis](../w/wave_analysis.md) are 0.618 and 1.618. Traders use these ratios to predict the lengths of future waves or retracements:
 
 1. **Wave 2**: Often retraces 50-61.8% of Wave 1.
 2. **Wave 3**: Commonly extends 1.618 times the length of Wave 1.
@@ -58,26 +58,26 @@ A key element of Elliott Wave Theory is the use of Fibonacci numbers, which are 
 
 ## Practical Applications
 
-Traders and analysts use the Elliott Wave Theory to forecast future market movements by identifying and labeling the waves within price charts. Software programs like [Elliott Wave International's](https://www.elliottwave.com) proprietary Auto-Wave software help automate this process.
+Traders and analysts use the Elliott [Wave Theory](../w/wave_theory.md) to forecast future market movements by identifying and labeling the waves within price charts. Software programs like [Elliott Wave International's](https://www.elliottwave.com) proprietary Auto-Wave software help automate this process.
 
 ### Identifying Wave Patterns
 
-Experienced traders often combine Elliott Wave Theory with other forms of technical analysis, such as trend lines, moving averages, and momentum indicators, to increase the accuracy of their predictions. Identifying wave patterns typically involves looking for the following:
+Experienced traders often combine Elliott [Wave Theory](../w/wave_theory.md) with other forms of [technical analysis](../t/technical_analysis.md), such as trend lines, moving averages, and [momentum indicators](../m/momentum_indicators.md), to increase the accuracy of their predictions. Identifying wave patterns typically involves looking for the following:
 
 1. Completeness of wave structures: Ensuring that the current wave structure adheres to established Elliott wave rules.
 2. Fibonacci levels: Confirming that wave retracements and extensions align with Fibonacci ratios.
-3. Supporting indicators: Using volume, momentum, and other technical indicators to confirm wave counts.
+3. Supporting indicators: Using volume, momentum, and other [technical indicators](../t/technical_indicators.md) to confirm wave counts.
 
 ### Risk Management
 
-Given the fractal nature of waves, it can sometimes be challenging to accurately determine the current wave position, making risk management critical. Traders often set stop-loss orders at key Fibonacci levels or previous wave highs/lows to manage their risk.
+Given the fractal nature of waves, it can sometimes be challenging to accurately determine the current wave position, making [risk management](../r/risk_management.md) critical. Traders often set [stop-loss orders](../s/stop-loss_orders.md) at key Fibonacci levels or previous wave highs/lows to manage their risk.
 
 ### Limitations and Criticisms
 
-Despite its widespread use, Elliott Wave Theory has its critics. One primary criticism is the subjectivity involved in labeling waves, leading to different interpretations by different analysts. Others argue that the predictive power of Elliott Wave Theory can be limited by the same randomness that often characterizes financial markets.
+Despite its widespread use, Elliott [Wave Theory](../w/wave_theory.md) has its critics. One primary criticism is the subjectivity involved in labeling waves, leading to different interpretations by different analysts. Others argue that the predictive power of Elliott [Wave Theory](../w/wave_theory.md) can be limited by the same randomness that often characterizes financial markets.
 
 ## Conclusion
 
-The Elliott Wave Theory remains a popular tool among traders and analysts for forecasting market trends. Its reliance on wave patterns and Fibonacci ratios offers a structured method to predict price movements and investor behaviors. Despite its criticisms and challenges, when combined with other technical analysis tools, Elliott Wave Theory can be a powerful component of a trader's toolkit.
+The Elliott [Wave Theory](../w/wave_theory.md) remains a popular tool among traders and analysts for forecasting market trends. Its reliance on wave patterns and Fibonacci ratios offers a structured method to predict price movements and investor behaviors. Despite its criticisms and challenges, when combined with other [technical analysis](../t/technical_analysis.md) tools, Elliott [Wave Theory](../w/wave_theory.md) can be a powerful component of a trader's toolkit.
 
-For further exploration of Elliott Wave Theory, traders might consider educational resources and tools from [Elliott Wave International](https://www.elliottwave.com), a leading authority on the subject.
+For further exploration of Elliott [Wave Theory](../w/wave_theory.md), traders might consider educational resources and tools from [Elliott Wave International](https://www.elliottwave.com), a leading authority on the subject.

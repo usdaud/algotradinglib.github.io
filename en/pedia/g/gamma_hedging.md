@@ -46,7 +46,7 @@ Different techniques can be used for gamma hedging depending on the trader's obj
 
 ### Dynamic Hedging
 
-Dynamic hedging involves continuously monitoring the position and adjusting it as the price of the underlying asset changes. This technique is resource-intensive and requires constant attention but can be highly effective.
+[Dynamic hedging](../d/dynamic_hedging.md) involves continuously monitoring the position and adjusting it as the price of the underlying asset changes. This technique is resource-intensive and requires constant attention but can be highly effective.
 
 ### Using Short-Term Options
 

@@ -1,12 +1,12 @@
 # Stochastic Optimization
 
-Stochastic optimization refers to a collection of methods used for the optimization of systems that are inherently probabilistic due to random variables. These methods are essential in situations where the objective function or the constraints involve some form of randomness. This randomness can arise from various sources like noisy measurements, inherent system randomness, or uncertainties in model parameters. Stochastic optimization has a wide range of applications, including financial modeling, machine learning, operations research, and engineering.
+Stochastic optimization refers to a collection of methods used for the optimization of systems that are inherently probabilistic due to random variables. These methods are essential in situations where the objective function or the constraints involve some form of randomness. This randomness can arise from various sources like noisy measurements, inherent system randomness, or uncertainties in model parameters. Stochastic optimization has a wide range of applications, including [financial modeling](../f/financial_modeling.md), machine learning, operations research, and engineering.
 
 ## Key Concepts
 
 ### Random Variables and Stochastic Processes
 - **Random Variables**: A random variable is a variable whose value is determined by the outcome of a random phenomenon. In stochastic optimization, the objective function or constraints often depend on these random variables.
-- **Stochastic Processes**: A stochastic process is a sequence of random variables indexed by time or space. Optimization problems can involve stochastic processes where the system evolves randomly over time.
+- **[Stochastic Processes](../s/stochastic_processes.md)**: A stochastic process is a sequence of random variables indexed by time or space. Optimization problems can involve [stochastic processes](../s/stochastic_processes.md) where the system evolves randomly over time.
 
 ### Objective Functions and Constraints
 - **Objective Function**: In stochastic optimization, the objective function is typically expressed as an expected value of some function involving random variables. For instance, one might aim to minimize the expected cost or maximize the expected profit.
@@ -17,10 +17,10 @@ Stochastic optimization refers to a collection of methods used for the optimizat
 Several techniques are used in stochastic optimization, each with its strengths and weaknesses. Some of the most notable techniques include:
 
 ### 1. Stochastic Gradient Descent (SGD)
-Stochastic gradient descent is an iterative method for optimizing an objective function that is typically written as a sum of differentiable functions. It is especially useful for large-scale problems. The key idea is to use a randomly selected subset of data points to compute an approximate gradient, thus reducing the computational burden.
+[Stochastic gradient descent](../s/stochastic_gradient_descent.md) is an iterative method for optimizing an objective function that is typically written as a sum of differentiable functions. It is especially useful for large-scale problems. The key idea is to use a randomly selected subset of data points to compute an approximate gradient, thus reducing the computational burden.
 
 ### 2. Simulated Annealing
-Simulated annealing is a probabilistic technique inspired by the annealing process in metallurgy. The algorithm explores the solution space by probabilistically accepting changes that improve the objective function and occasionally accepting changes that do not, to escape local minima.
+[Simulated annealing](../s/simulated_annealing.md) is a probabilistic technique inspired by the annealing process in metallurgy. The algorithm explores the solution space by probabilistically accepting changes that improve the objective function and occasionally accepting changes that do not, to escape local minima.
 
 ### 3. Genetic Algorithms
 Genetic algorithms are search heuristics inspired by the process of natural selection. They use techniques such as inheritance, mutation, selection, and crossover to evolve solutions to optimization problems.
@@ -34,7 +34,7 @@ MDPs provide a mathematical framework for modeling decision-making in situations
 ## Applications
 
 ### Financial Modeling
-Stochastic optimization is extensively used in financial modeling to manage risks and optimize portfolios. Techniques like Monte Carlo simulation and scenario analysis are commonly employed to handle uncertainties in market conditions.
+Stochastic optimization is extensively used in [financial modeling](../f/financial_modeling.md) to manage risks and optimize portfolios. Techniques like [Monte Carlo simulation](../m/monte_carlo_simulation.md) and scenario analysis are commonly employed to handle uncertainties in market conditions.
 
 ### Machine Learning
 In machine learning, stochastic optimization techniques such as SGD are crucial for training models, especially when dealing with large datasets. These methods help in finding the optimal parameters that minimize the prediction error.

@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Transaction execution in algorithmic trading refers to the automated process of completing buy and sell orders in the financial markets according to predefined rules and strategies. This complex process encompasses a wide array of elements, including order types, execution venues, latency considerations, slippage, and risk management, all designed to optimize the execution outcomes for various trading strategies. The goal is to maximize efficiency while minimizing costs and risks.
+Transaction execution in [algorithmic trading](../a/algorithmic_trading.md) refers to the automated process of completing buy and sell orders in the financial markets according to predefined rules and strategies. This complex process encompasses a wide array of elements, including order types, execution venues, latency considerations, slippage, and [risk management](../r/risk_management.md), all designed to optimize the execution outcomes for various [trading strategies](../t/trading_strategies.md). The goal is to maximize efficiency while minimizing costs and risks.
 
 ## Order Types
 
@@ -16,15 +16,15 @@ Limit orders specify the maximum price to pay (for a buy order) or the minimum p
 
 ### Stop Orders
 
-Stop orders become market orders once a specified price threshold is reached. Stop-loss orders can help contain losses, while stop-buy orders can be used to enter positions when a certain price level is breached.
+Stop orders become market orders once a specified price threshold is reached. [Stop-loss orders](../s/stop-loss_orders.md) can help contain losses, while stop-buy orders can be used to enter positions when a certain price level is breached.
 
 ### Stop-Limit Orders
 
-Stop-limit orders combine the features of stop orders and limit orders. Once the stop price is reached, the order becomes a limit order instead of a market order. This provides more control over execution prices but sacrifices the guarantee of execution.
+[Stop-limit orders](../s/stop-limit_orders.md) combine the features of stop orders and limit orders. Once the stop price is reached, the order becomes a limit order instead of a market order. This provides more control over execution prices but sacrifices the guarantee of execution.
 
 ### Special Order Types
 
-Some advanced order types are created to fit specific trading strategies, such as:
+Some advanced order types are created to fit specific [trading strategies](../t/trading_strategies.md), such as:
 - **Fill-Or-Kill (FOK)**: The order must be fully executed immediately or it is canceled.
 - **Immediate-Or-Cancel (IOC)**: The portion of the order that can be filled immediately will be, and the rest will be canceled.
 - **Good-Til-Canceled (GTC)**: The order remains active until executed or explicitly canceled by the trader.
@@ -43,17 +43,17 @@ Website: [Instinet](https://www.instinet.com/)
 
 ### Dark Pools
 
-Dark pools are private trading venues where large block orders can be executed without revealing the order size or price to the public. This helps minimize market impact for large orders but can lack transparency.
+[Dark pools](../d/dark_pools.md) are private trading venues where large block orders can be executed without revealing the order size or price to the public. This helps minimize market impact for large orders but can lack transparency.
 
 ### Over-the-Counter (OTC) Markets
 
-OTC markets are decentralized markets where trading occurs directly between parties, often facilitated by brokers. These markets can offer bespoke trading terms but may come with higher counterparty risk.
+OTC markets are decentralized markets where trading occurs directly between parties, often facilitated by brokers. These markets can offer bespoke trading terms but may come with higher [counterparty risk](../c/counterparty_risk.md).
 
 ## Latency and High-Frequency Trading
 
 ### Importance of Low Latency
 
-In algorithmic trading, latency—the delay between the initiation of a trade and its execution—can have a substantial impact on profitability. Strategies such as high-frequency trading (HFT) rely on extremely low latency to capitalize on brief price discrepancies.
+In [algorithmic trading](../a/algorithmic_trading.md), latency—the delay between the initiation of a trade and its execution—can have a substantial impact on profitability. Strategies such as high-frequency trading (HFT) rely on extremely low latency to capitalize on brief price discrepancies.
 
 ### Techniques to Reduce Latency
 
@@ -82,20 +82,20 @@ Effective slippage management strategies include:
 ### Types of Risks
 
 - **Market Risk**: The risk of losses due to adverse market movements.
-- **Execution Risk**: The risk that orders may not be executed as intended.
-- **Liquidity Risk**: The risk associated with the inability to quickly buy or sell without affecting the price.
+- **[Execution Risk](../e/execution_risk.md)**: The risk that orders may not be executed as intended.
+- **[Liquidity Risk](../l/liquidity_risk.md)**: The risk associated with the inability to quickly buy or sell without affecting the price.
 - **Operational Risk**: Risks stemming from system failures, human errors, or technical issues.
 
 ### Mitigation Strategies
 
 - **Diversification**: Spreading investments across different assets to minimize risk.
 - **Hedging**: Using financial instruments like options and futures to offset potential losses.
-- **Stop-Loss Orders**: Containing losses by triggering an exit from a losing position.
-- **Stress Testing**: Simulating extreme market conditions to evaluate the resilience of trading strategies.
+- **[Stop-Loss Orders](../s/stop-loss_orders.md)**: Containing losses by triggering an exit from a losing position.
+- **Stress Testing**: Simulating extreme market conditions to evaluate the resilience of [trading strategies](../t/trading_strategies.md).
 
 ## Statistical Arbitrage and Transaction Execution
 
-Statistical arbitrage involves exploiting pricing inefficiencies between related financial instruments using statistical models. Effective transaction execution is crucial to the profitability of these strategies, as it depends heavily on the timing and costs associated with trades. Key considerations include:
+Statistical [arbitrage](../a/arbitrage.md) involves exploiting pricing inefficiencies between related financial instruments using statistical models. Effective transaction execution is crucial to the profitability of these strategies, as it depends heavily on the timing and costs associated with trades. Key considerations include:
 - **Speed**: Rapid execution to capitalize on temporary inefficiencies.
 - **Cost**: Minimizing transaction fees and slippage.
 - **Precision**: Accurate implementation of trades according to the model's predictions.
@@ -122,7 +122,7 @@ SOR systems automatically route orders to different execution venues to optimize
 
 ### Commercial Platforms
 
-Several commercial platforms provide robust solutions for transaction execution, including tools for backtesting, risk management, and algorithm customization. Examples include:
+Several commercial platforms provide robust solutions for transaction execution, including tools for [backtesting](../b/backtesting.md), [risk management](../r/risk_management.md), and algorithm customization. Examples include:
 - **MetaTrader**: Popular for Forex and CFDs, offering extensive tools for automated trading.
 - **QuantConnect**: Supports algorithm development and execution across various asset classes.
 
@@ -130,7 +130,7 @@ Website: [QuantConnect](https://www.quantconnect.com/)
 
 ### Proprietary Systems
 
-Many high-frequency trading firms and hedge funds develop proprietary trading systems tailored to their specific strategies and requirements. These systems typically feature advanced risk management, ultra-low latency, and bespoke algorithm implementations.
+Many high-frequency trading firms and hedge funds develop [proprietary trading](../p/proprietary_trading.md) systems tailored to their specific strategies and requirements. These systems typically feature advanced [risk management](../r/risk_management.md), ultra-low latency, and bespoke algorithm implementations.
 
 ## Compliance and Regulation
 
@@ -147,6 +147,6 @@ Transaction execution systems must adhere to various compliance requirements, in
 
 ## Conclusion
 
-Transaction execution in algorithmic trading is a multifaceted and complex field, involving a synthesis of advanced algorithms, cutting-edge technology, and rigorous risk and compliance management. Mastering transaction execution can significantly enhance the effectiveness of trading strategies, reduce costs, and ultimately improve return on investment.
+Transaction execution in [algorithmic trading](../a/algorithmic_trading.md) is a multifaceted and complex field, involving a synthesis of advanced algorithms, cutting-edge technology, and rigorous risk and compliance management. Mastering transaction execution can significantly enhance the effectiveness of [trading strategies](../t/trading_strategies.md), reduce costs, and ultimately improve return on investment.
 
-Understanding the various components—from order types and execution venues to latency and risk management—is crucial for developing robust and efficient execution strategies. As technology and markets evolve, so too will the techniques and tools for optimizing transaction execution, making it a continuously dynamic and vital aspect of algorithmic trading.
+Understanding the various components—from order types and execution venues to latency and [risk management](../r/risk_management.md)—is crucial for developing robust and efficient execution strategies. As technology and markets evolve, so too will the techniques and tools for optimizing transaction execution, making it a continuously dynamic and vital aspect of [algorithmic trading](../a/algorithmic_trading.md).

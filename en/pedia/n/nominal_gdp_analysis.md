@@ -29,7 +29,7 @@ Nominal GDP differs from Real GDP in that it does not account for changes in pri
 1. **Measuring Economic Activity**: Nominal GDP provides a snapshot of the current economic environment, giving insights into the economic health and the consumption capacity of an economy.
 2. **Policy Making**: Governments and policymakers use Nominal GDP to design economic policies, monetary policies, and fiscal strategies to manage economic growth.
 3. **International Comparisons**: Nominal GDP is often used for comparing the economic performance of different countries at current exchange rates.
-4. **Investment Decisions**: Investors analyze Nominal GDP trends to make informed decisions regarding investments, understanding economic cycles, and forecasting future market conditions.
+4. **Investment Decisions**: Investors analyze Nominal GDP trends to make informed decisions regarding investments, understanding [economic cycles](../e/economic_cycles.md), and forecasting future market conditions.
 
 ### Potential Issues with Nominal GDP
 1. **Inflation Distortion**: Since Nominal GDP does not adjust for inflation, it can overstate the growth rate of an economy during periods of high inflation.
@@ -37,7 +37,7 @@ Nominal GDP differs from Real GDP in that it does not account for changes in pri
 3. **Non-Market Transactions**: Nominal GDP does not account for non-market transactions and the underground economy, which can be significant in some countries.
 
 ### Conclusion
-Understanding Nominal GDP is fundamental for evaluating the economic performance and policy effectiveness of a nation. While it provides valuable insights into the current economic conditions, it is essential to consider Real GDP and other economic indicators for a comprehensive analysis of economic growth and stability.
+Understanding Nominal GDP is fundamental for evaluating the economic performance and policy effectiveness of a nation. While it provides valuable insights into the current economic conditions, it is essential to consider Real GDP and other [economic indicators](../e/economic_indicators.md) for a comprehensive analysis of economic growth and stability.
 
 ### Further Reading
 For more details on how Nominal GDP impacts financial markets and investment decisions, you can visit [Investopedia's Nominal GDP](https://www.investopedia.com/terms/n/nominalgdp.asp).

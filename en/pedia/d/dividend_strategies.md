@@ -2,7 +2,7 @@
 
 Dividend strategies are a class of investment strategies that focus on stocks or other financial instruments that pay dividends. Dividends are a portion of a company's earnings that are paid out to shareholders, typically on a regular basis, such as quarterly or annually. Dividend strategies leverage these payments to generate a return on investment and can be especially appealing in low-interest-rate environments or for investors seeking a steady income stream.
 
-Algorithmic trading, or algo trading, enhances dividend strategies using computer algorithms to execute trades at speed and frequencies that a human trader cannot match. By employing advanced mathematical models and theories, these algorithms can identify patterns, forecast dividend payments, and execute trades - making the dividend strategy more efficient.
+[Algorithmic trading](../a/algorithmic_trading.md), or algo trading, enhances dividend strategies using computer algorithms to execute trades at speed and frequencies that a human trader cannot match. By employing advanced mathematical models and theories, these algorithms can identify patterns, forecast dividend payments, and execute trades - making the dividend strategy more efficient.
 
 #### Key Concepts in Dividend Investing
 
@@ -28,18 +28,18 @@ Algorithmic trading, or algo trading, enhances dividend strategies using compute
 1. **Dividend Capture Strategy**: 
     This involves buying a stock just before its ex-dividend date to capture the dividend, then selling it shortly after the ex-dividend date. The goal is to collect the dividend without being exposed to longer-term stock price volatility. Algo trading makes this strategy more feasible by precisely timing trade executions.
 
-2. **Dividend Growth Investing**:
+2. **Dividend [Growth Investing](../g/growth_investing.md)**:
     This focuses on companies that not only pay dividends but are also expected to grow their dividend payments over time. Investors look for firms with a strong track record of dividend growth. Algorithms can identify such companies by analyzing historical dividend payments, payout ratios, and earnings growth.
 
 3. **High Dividend Yield Strategy**:
     This involves selecting stocks with the highest dividend yields. While high yields can offer attractive income, they also often come with higher risks. Algo trading can manage these risks by monitoring the financial health of high-yield companies and making adjustments in real-time.
 
-4. **Dividend Reinvestment Plans (DRIPs)**:
+4. **[Dividend Reinvestment](../d/dividend_reinvestment.md) Plans (DRIPs)**:
     These allow investors to automatically reinvest dividends received into more shares of the company's stock. This can benefit from compounding returns over time. Algorithms can streamline and optimize DRIPs by dynamically adjusting the reinvestment process based on market conditions and individual investment goals.
 
 #### Implementing Dividend Strategies with Algorithms
 
-The implementation of dividend strategies within the scope of algorithmic trading involves several steps:
+The implementation of dividend strategies within the scope of [algorithmic trading](../a/algorithmic_trading.md) involves several steps:
 
 1. **Data Collection**:
     Collecting historical data on dividend payments, stock prices, financial statements, and market sentiment. Sources of data might include financial news websites, stock exchanges, and data marketplaces.
@@ -47,8 +47,8 @@ The implementation of dividend strategies within the scope of algorithmic tradin
 2. **Model Development**:
     Developing mathematical models and algorithms that can predict dividend payments, assess the financial health of companies, and identify trading opportunities based on dividend events. These models might use statistical methods, machine learning, or a combination of both.
 
-3. **Backtesting**:
-    Testing the developed algorithms against historical data to evaluate their performance. Backtesting helps refine strategy parameters, manage risk, and estimate potential returns.
+3. **[Backtesting](../b/backtesting.md)**:
+    Testing the developed algorithms against historical data to evaluate their performance. [Backtesting](../b/backtesting.md) helps refine strategy parameters, manage risk, and estimate potential returns.
 
 4. **Execution**:
     Deploying the algorithm to the live market. This step involves setting up the infrastructure needed to execute trades in real-time, often connected to a broker's API. The algorithm will monitor the market and execute trades as specified by the strategy.
@@ -78,15 +78,15 @@ The implementation of dividend strategies within the scope of algorithmic tradin
 3. **Interest Rate Risk**:
     Rising interest rates can make dividend-paying stocks less attractive compared to fixed-income instruments. Algorithms can factor in interest rate trends and adjust strategies dynamically.
 
-4. **Liquidity Risk**:
+4. **[Liquidity Risk](../l/liquidity_risk.md)**:
     Dividend strategies often focus on less volatile and thus less liquid stocks. Algo trading needs to be mindful of transaction costs and potential difficulties in executing large trades.
 
 #### Leading Providers and Platforms
 
-- **QuantConnect**: [QuantConnect](https://www.quantconnect.com) offers a powerful algorithmic trading platform that supports the creation, backtesting, and live deployment of dividend strategies.
+- **QuantConnect**: [QuantConnect](https://www.quantconnect.com) offers a powerful [algorithmic trading](../a/algorithmic_trading.md) platform that supports the creation, [backtesting](../b/backtesting.md), and live deployment of dividend strategies.
 - **Quantopian**: Although no longer active, Quantopian's legacy provides valuable insights into developing dividend-focused algorithms.
 - **Alpaca**: [Alpaca](https://alpaca.markets) offers commission-free trading APIs that can be used to implement and execute algorithmic dividend strategies.
 
 #### Conclusion
 
-Dividend strategies in algorithmic trading combine the consistent income potential of dividend-paying stocks with the precision and speed of algorithmic execution. By leveraging data analytics, mathematical modeling, and real-time execution, investors can enhance their returns, manage risks, and achieve their financial goals. As technology and data availability continue to advance, the opportunities to refine and optimize dividend strategies will only grow.
+Dividend strategies in [algorithmic trading](../a/algorithmic_trading.md) combine the consistent income potential of dividend-paying stocks with the precision and speed of [algorithmic execution](../a/algorithmic_execution.md). By leveraging data analytics, mathematical modeling, and real-time execution, investors can enhance their returns, manage risks, and achieve their financial goals. As technology and data availability continue to advance, the opportunities to refine and optimize dividend strategies will only grow.

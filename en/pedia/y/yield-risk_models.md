@@ -1,7 +1,7 @@
 # Yield-Risk Models in Algorithmic Trading
 ---
 
-Yield-Risk Models are essential tools in algorithmic trading for assessing potential returns against their inherent risks. These models help traders design, evaluate, and execute trading strategies by quantitatively analyzing historical data and market conditions. This document will delve into the intricacies of Yield-Risk Models, discussing their fundamental principles, types, key components, and applications in algorithmic trading. 
+Yield-Risk Models are essential tools in [algorithmic trading](../a/algorithmic_trading.md) for assessing potential returns against their inherent risks. These models help traders design, evaluate, and execute [trading strategies](../t/trading_strategies.md) by quantitatively analyzing historical data and market conditions. This document will delve into the intricacies of Yield-Risk Models, discussing their fundamental principles, types, key components, and applications in [algorithmic trading](../a/algorithmic_trading.md). 
 
 ## Fundamental Principles
 
@@ -22,7 +22,7 @@ At their core, Yield-Risk Models aim to balance the trade-off between expected r
     \text{Portfolio Variance} = \sum_{i} \sum_{j} w_i w_j \sigma_{ij}
     \]
   - **Applications:**
-    - Portfolio diversification.
+    - [Portfolio diversification](../p/portfolio_diversification.md).
     - Adjusting the weights of assets to maximize expected return for a given level of risk.
 
 ### 2. **Capital Asset Pricing Model (CAPM)**
@@ -42,11 +42,11 @@ At their core, Yield-Risk Models aim to balance the trade-off between expected r
     E(R_i) = \alpha_i + \beta_{i1} F_1 + \beta_{i2} F_2 + \ldots + \beta_{in} F_n
     \]
   - **Applications:**
-    - Identifying and leveraging arbitrage opportunities.
+    - Identifying and leveraging [arbitrage](../a/arbitrage.md) opportunities.
     - Diversifying through multiple risk factors.
 
 ### 4. **Black-Scholes Model**
-  - A model for pricing European options and derivatives, developed by Fischer Black, Myron Scholes, and Robert Merton.
+  - A model for pricing [European options](../e/european_options.md) and [derivatives](../d/derivatives.md), developed by Fischer Black, Myron Scholes, and Robert Merton.
   - **Formula:**
     \[
     C = S_0 N(d1) - X e^{-rt} N(d2)
@@ -62,7 +62,7 @@ At their core, Yield-Risk Models aim to balance the trade-off between expected r
     \]
   - **Applications:**
     - Calculating fair prices of options.
-    - Assessing risk management strategies.
+    - Assessing [risk management](../r/risk_management.md) strategies.
 
 ### 5. **Factor Models**
   - Include Fama-French three-factor model, Carhart four-factor model, and others.
@@ -83,12 +83,12 @@ At their core, Yield-Risk Models aim to balance the trade-off between expected r
 ### Risk Metrics
   - **Volatility:** A measure of price fluctuations.
   - **Value at Risk (VaR):** The potential loss in value of an asset over a defined period for a given confidence interval.
-  - **Sharpe Ratio:** Measures risk-adjusted return. 
-  - **Beta Coefficient:** Evaluates an asset's sensitivity to market movements.
+  - **[Sharpe Ratio](../s/sharpe_ratio.md):** Measures [risk-adjusted return](../r/risk-adjusted_return.md). 
+  - **[Beta Coefficient](../b/beta_coefficient.md):** Evaluates an asset's sensitivity to market movements.
   
 ### Optimization Algorithms
   - Algorithms play a crucial role in refining model parameters.
-  - Techniques include genetic algorithms, simulated annealing, and gradient descent.
+  - Techniques include genetic algorithms, [simulated annealing](../s/simulated_annealing.md), and gradient descent.
 
 ### Machine Learning Integration
   - Machine learning models can enhance predictability and adaptability of Yield-Risk Models.
@@ -97,15 +97,15 @@ At their core, Yield-Risk Models aim to balance the trade-off between expected r
 ## Applications in Algorithmic Trading
 
 ### Strategy Design
-  - Yield-Risk Models assist in the formulation of robust trading strategies.
-  - Enable backtesting and forward testing to assess strategy viability over different market conditions.
+  - Yield-Risk Models assist in the formulation of robust [trading strategies](../t/trading_strategies.md).
+  - Enable [backtesting](../b/backtesting.md) and forward testing to assess strategy viability over different market conditions.
 
 ### Portfolio Management
-  - These models guide asset allocation decisions to achieve an optimal portfolio.
+  - These models guide [asset allocation](../a/asset_allocation.md) decisions to achieve an optimal portfolio.
   - Mitigate risks through diversification and dynamic adjustment of asset weights.
 
 ### Risk Management
-  - Help identify potential pitfalls and vulnerabilities in trading strategies.
+  - Help identify potential pitfalls and vulnerabilities in [trading strategies](../t/trading_strategies.md).
   - Implement fail-safes and hedging techniques to cushion against market volatility.
 
 ### Performance Benchmarking
@@ -127,7 +127,7 @@ At their core, Yield-Risk Models aim to balance the trade-off between expected r
   - Firms like Goldman Sachs [Goldman Sachs](https://www.goldmansachs.com) and J.P. Morgan [J.P. Morgan](https://www.jpmorgan.com) are notable examples.
 
 ### Asset Management Firms
-  - Asset managers employ these models for client portfolio management, ensuring a balance of risk and return.
+  - Asset managers employ these models for client [portfolio management](../p/portfolio_management.md), ensuring a balance of risk and return.
   - Vanguard [Vanguard](https://www.vanguard.com) and BlackRock [BlackRock](https://www.blackrock.com) are key industry players.
 
 ### Algorithmic Trading Platforms
@@ -135,7 +135,7 @@ At their core, Yield-Risk Models aim to balance the trade-off between expected r
 
 ## Conclusion
 
-Yield-Risk Models play a pivotal role in shaping successful algorithmic trading strategies by quantifying and balancing potential returns against associated risks. Their application spans various segments of the financial industry, from hedge funds to asset management. By integrating statistical analysis, optimization techniques, and advanced machine learning algorithms, these models provide a robust framework for informed decision-making and strategic planning in dynamic markets.
+Yield-Risk Models play a pivotal role in shaping successful [algorithmic trading](../a/algorithmic_trading.md) strategies by quantifying and balancing potential returns against associated risks. Their application spans various segments of the financial industry, from hedge funds to asset management. By integrating statistical analysis, optimization techniques, and advanced machine learning algorithms, these models provide a robust framework for informed decision-making and strategic planning in dynamic markets.
 
 --- 
 

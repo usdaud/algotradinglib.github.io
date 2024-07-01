@@ -1,13 +1,13 @@
 ## Index Options
 
 ### Introduction
-Index options are financial derivatives that give the holder the right, but not the obligation, to buy or sell a basket of stocks represented by a specific index at a predetermined price before or on a specified expiration date. Unlike stock options which are based on individual assets, index options are based on an entire index such as the S&P 500, NASDAQ-100, or the Dow Jones Industrial Average. These instruments are widely used for hedging, speculation, and portfolio management.
+Index options are financial [derivatives](../d/derivatives.md) that give the holder the right, but not the obligation, to buy or sell a basket of stocks represented by a specific index at a predetermined price before or on a specified expiration date. Unlike stock options which are based on individual assets, index options are based on an entire index such as the S&P 500, NASDAQ-100, or the Dow Jones Industrial Average. These instruments are widely used for hedging, speculation, and [portfolio management](../p/portfolio_management.md).
 
 ### Types of Index Options
 There are two primary types of index options:
 
 1. **Call Options:** These give the holder the right to buy the index at a specified strike price.
-2. **Put Options:** These give the holder the right to sell the index at a specified strike price.
+2. **[Put Options](../p/put_options.md):** These give the holder the right to sell the index at a specified strike price.
 
 ### Major Index Options
 Here are some of the most commonly traded index options:
@@ -28,7 +28,7 @@ The valuation of index options is driven by several factors, primarily:
 5. **Risk-Free Interest Rate:** The current risk-free interest rate, typically the yield on government bonds.
 6. **Dividends:** Expected dividends from the index components.
 
-The Black-Scholes model and the Binomial model are commonly used to price index options.
+The [Black-Scholes model](../b/black-scholes_model.md) and the Binomial model are commonly used to price index options.
 
 ### Settlement of Index Options
 Index options are typically cash-settled, which means that upon expiration, the difference between the index price and the strike price is paid in cash. The settlement can be:
@@ -47,7 +47,7 @@ Traders use various strategies to profit from or hedge using index options, incl
 ### Risks and Benefits
 
 #### Benefits:
-1. **Hedging:** Index options can be used as a risk management tool to protect against market downturns.
+1. **Hedging:** Index options can be used as a [risk management](../r/risk_management.md) tool to protect against market downturns.
 2. **Leverage:** Allows for greater exposure with less capital outlay.
 3. **Diversification:** Exposure to a broad market index can reduce individual stock risk.
 

@@ -30,7 +30,7 @@ Where:
    - **Calculation**: The EMA is calculated using the following formula:
      \[ EMA_t = Price_t \times ( \frac{2}{n+1} ) + EMA_{t-1} \times ( 1 - \frac{2}{n+1} ) \]
      where \( t \) is the time period, and \( n \) is the number of periods.
-   - **Usage**: EMA is used to identify trends in the price data, as well as to generate trading signals when different EMA lines cross.
+   - **Usage**: EMA is used to identify trends in the price data, as well as to generate [trading signals](../t/trading_signals.md) when different EMA lines cross.
 
    - **Example**: A trader might look at a 50-day and 200-day EMA to identify long-term trends and potential buy/sell signals.
 
@@ -43,17 +43,17 @@ Where:
 
 **Applications of Weighted Averages in Trading**
 
-1. **Trend Analysis**
+1. **[Trend Analysis](../t/trend_analysis.md)**
    - Weighted averages are frequently used to smooth out price data to identify underlying trends. By giving more weight to recent data, traders can respond swiftly to market changes.
    
 2. **Trade Execution**
    - VWAP is often used to benchmark trade executions. Traders aim to execute orders at prices that are more favorable than the VWAP.
 
-3. **Algorithmic Trading**
-   - Weighted averages are integral to algorithmic trading strategies, such as mean reversion, momentum, and arbitrage, where they help in filtering noise from market data to make informed trading decisions.
+3. **[Algorithmic Trading](../a/algorithmic_trading.md)**
+   - Weighted averages are integral to [algorithmic trading](../a/algorithmic_trading.md) strategies, such as [mean reversion](../m/mean_reversion.md), momentum, and [arbitrage](../a/arbitrage.md), where they help in filtering noise from market data to make informed trading decisions.
 
-4. **Risk Management**
-   - Weighted averages help in adjusting the analysis to consider the impact of high-volume trades, thereby aiding in better risk management. They allow traders to factor in the importance of more relevant data.
+4. **[Risk Management](../r/risk_management.md)**
+   - Weighted averages help in adjusting the analysis to consider the impact of high-volume trades, thereby aiding in better [risk management](../r/risk_management.md). They allow traders to factor in the importance of more relevant data.
 
 **Real-World Examples**
 
@@ -64,7 +64,7 @@ Where:
    - Forex traders commonly use EMA to gauge currency trends. The 12-day and 26-day EMAs are typically used for short-term trends, whereas the 50-day and 200-day EMAs are used for long-term trends.
 
 3. **Algorithmic Strategies by Quantitative Firms**
-   - Firms such as Renaissance Technologies ([Link](https://www.rentec.com/)) and Two Sigma ([Link](https://www.twosigma.com/)) leverage sophisticated algorithms that incorporate weighted averages to optimize their trading strategies, improve accuracy, and enhance profitability.
+   - Firms such as Renaissance Technologies ([Link](https://www.rentec.com/)) and Two Sigma ([Link](https://www.twosigma.com/)) leverage sophisticated algorithms that incorporate weighted averages to optimize their [trading strategies](../t/trading_strategies.md), improve accuracy, and enhance profitability.
    
 **Advantages of Using Weighted Averages**
 
@@ -86,7 +86,7 @@ Where:
    - Although weighted averages reduce lag compared to simple moving averages, they still introduce some degree of lag, potentially rendering them less effective in highly volatile markets.
 
 3. **Dependence on Historical Data**
-   - Weighted averages rely heavily on historical data, which may not always be a reliable predictor of future market movements, especially in the presence of sudden market changes or black swan events.
+   - Weighted averages rely heavily on historical data, which may not always be a reliable predictor of future market movements, especially in the presence of sudden market changes or [black swan events](../b/black_swan_events.md).
 
 **Conclusion**
 

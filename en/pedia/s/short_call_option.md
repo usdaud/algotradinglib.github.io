@@ -44,7 +44,7 @@ Managing a short call option involves continuous monitoring due to the potential
 
 ### Real-World Applications and Considerations
 
-Professional traders and institutions often engage in writing call options as part of more complex strategies, such as creating income portfolios or engaging in volatility arbitrage.
+Professional traders and institutions often engage in writing call options as part of more complex strategies, such as creating income portfolios or engaging in volatility [arbitrage](../a/arbitrage.md).
 
 #### Companies Offering Options Trading Platforms:
 - **Interactive Brokers** [link](https://www.interactivebrokers.com/en/index.php?f=options)

@@ -1,6 +1,6 @@
 # Options Open Interest
 
-**Options Open Interest** is a crucial concept in the domain of algorithmic trading and options trading. Essentially, it represents the total number of outstanding options contracts (both calls and puts) that exist at a given point in time for a specific security or market. These contracts have not yet been settled by an offsetting transaction (by either an exercise or assignment). This figure provides significant insights into the liquidity and potential price movements of various options.
+**Options Open Interest** is a crucial concept in the domain of [algorithmic trading](../a/algorithmic_trading.md) and options trading. Essentially, it represents the total number of outstanding options contracts (both calls and puts) that exist at a given point in time for a specific security or market. These contracts have not yet been settled by an offsetting transaction (by either an exercise or assignment). This figure provides significant insights into the liquidity and potential price movements of various options.
 
 ### Understanding Open Interest
 
@@ -26,7 +26,7 @@ Consider an option contract on a stock XYZ. On Day 1, if five new contracts are 
 For algorithmic traders, open interest is a critical factor because it helps in constructing strategies based on market sentiment and potential price movements. Algorithms can be designed to monitor changes in open interest in real-time, which helps traders make informed decisions. Here’s why open interest is vital:
 
 - **Market Sentiment**: Changes in open interest can indicate whether the market sentiment is bullish, bearish, or neutral.
-- **Support and Resistance Levels**: High open interest at certain strike prices can indicate potential support and resistance levels.
+- **[Support and Resistance](../s/support_and_resistance.md) Levels**: High open interest at certain strike prices can indicate potential [support and resistance](../s/support_and_resistance.md) levels.
 - **Predictive Power**: Historical patterns in open interest can be used to predict future price movements based on past reactions to similar conditions.
 
 ### Tools and Platforms
@@ -38,12 +38,12 @@ Several platforms and services offer tools to track open interest, providing dat
 
 ### Advanced Applications
 
-**- Quantitative Analysis**: Traders use algorithms to analyze the relationship between open interest, price, and volume to develop predictive models.
+**- [Quantitative Analysis](../q/quantitative_analysis.md)**: Traders use algorithms to analyze the relationship between open interest, price, and volume to develop predictive models.
 - **Market Making**: High-frequency trading firms and market makers monitor open interest to manage risk and provide liquidity.
-- **Arbitrage**: Changes in open interest can signal arbitrage opportunities between different options contracts or between options and their underlying assets.
+- **[Arbitrage](../a/arbitrage.md)**: Changes in open interest can signal [arbitrage](../a/arbitrage.md) opportunities between different options contracts or between options and their underlying assets.
 
 ### Conclusion
 
-Options open interest is a powerful metric that can provide deep insights into market dynamics, participant sentiment, and potential price movements. For algorithmic traders, it serves as a foundational element in constructing trading strategies, managing risk, and capitalizing on market inefficiencies. By continually analyzing open interest in conjunction with other market data, traders can enhance their decision-making processes and improve their trading performance.
+Options open interest is a powerful metric that can provide deep insights into market dynamics, participant sentiment, and potential price movements. For algorithmic traders, it serves as a foundational element in constructing [trading strategies](../t/trading_strategies.md), managing risk, and capitalizing on market inefficiencies. By continually analyzing open interest in conjunction with other market data, traders can enhance their decision-making processes and improve their [trading performance](../t/trading_performance.md).
 
 Understanding and leveraging options open interest is not just a matter of accessing data but also interpreting it correctly to gain a competitive edge in the often complex world of options trading and strategy development.

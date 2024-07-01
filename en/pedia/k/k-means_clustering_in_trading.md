@@ -1,6 +1,6 @@
 # K-Means Clustering in Trading
 
-K-Means clustering is a widely used unsupervised machine learning algorithm that partitions a dataset into K distinct, non-overlapping subsets or clusters. Each data point belongs to the cluster with the nearest mean, serving as a prototype of the cluster. In the context of trading, K-Means clustering can be used to identify patterns, segment stocks, and provide insights into market behaviors to inform trading strategies.
+K-Means clustering is a widely used unsupervised machine learning algorithm that partitions a dataset into K distinct, non-overlapping subsets or clusters. Each data point belongs to the cluster with the nearest mean, serving as a prototype of the cluster. In the context of trading, K-Means clustering can be used to identify patterns, segment stocks, and provide insights into market behaviors to inform [trading strategies](../t/trading_strategies.md).
 
 ## Introduction to K-Means Clustering
 
@@ -34,15 +34,15 @@ Example:
 - Cluster 1: Large-cap, low P/E, high dividend
 - Cluster 2: Small-cap, high P/E, low dividend
 
-This segmentation allows for targeted portfolio strategies such as creating a basket of undervalued or growth stocks.
+This segmentation allows for targeted portfolio strategies such as creating a basket of undervalued or [growth stocks](../g/growth_stocks.md).
 
 ### Pattern Recognition
 
-Traders often look for specific patterns that indicate potential buy or sell signals. K-Means can be applied to financial time series data to cluster similar price patterns, helping traders identify recurring patterns that may signify trading opportunities.
+Traders often look for specific patterns that indicate potential buy or sell signals. K-Means can be applied to [financial time series](../f/financial_time_series.md) data to cluster similar [price patterns](../p/price_patterns.md), helping traders identify recurring patterns that may signify trading opportunities.
 
 ### Risk Management
 
-Clustering can also help in risk management by identifying clusters of assets with similar risk profiles. By understanding which assets tend to move together, a trader can better diversify and manage their portfolio's risk.
+Clustering can also help in [risk management](../r/risk_management.md) by identifying clusters of assets with similar risk profiles. By understanding which assets tend to move together, a trader can better diversify and manage their portfolio's risk.
 
 ## Practical Implementation
 
@@ -83,13 +83,13 @@ plt.show()
 
 #### QuantConnect
 
-**QuantConnect** offers a cloud-based algorithmic trading platform and is an excellent resource for implementing K-Means clustering. Their platform supports multiple languages (C#, Python, F#) and offers extensive financial data, making it ideal for research and backtesting.
+**QuantConnect** offers a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform and is an excellent resource for implementing K-Means clustering. Their platform supports multiple languages (C#, Python, F#) and offers extensive financial data, making it ideal for research and [backtesting](../b/backtesting.md).
 
 [QuantConnect](https://www.quantconnect.com/)
 
 #### Alpaca
 
-**Alpaca** is another platform that provides APIs for stock trading and analysis. Users can implement clustering algorithms to analyze market data and execute trades based on the clusters identified.
+**Alpaca** is another platform that provides APIs for stock trading and analysis. Users can implement [clustering algorithms](../c/clustering_algorithms.md) to analyze market data and execute trades based on the clusters identified.
 
 [Alpaca](https://alpaca.markets/)
 
@@ -109,8 +109,8 @@ The random initialization of centroids can lead to different clustering outcomes
 
 ### Financial Market Complexity
 
-Financial markets are influenced by numerous external factors. Hence, the clusters identified may not always translate into profitable trading strategies. It's essential to validate the clusters through backtesting before live trading.
+Financial markets are influenced by numerous external factors. Hence, the clusters identified may not always translate into profitable [trading strategies](../t/trading_strategies.md). It's essential to validate the clusters through [backtesting](../b/backtesting.md) before live trading.
 
 ## Conclusion
 
-K-Means clustering offers valuable insights for traders by uncovering hidden patterns and segmenting markets. While it provides a robust framework for analyzing financial data, it should be used in conjunction with other methods and validated thoroughly before deployment. Platforms like QuantConnect and Alpaca offer ample resources and tools to implement and test K-Means clustering algorithms in trading contexts effectively.
+K-Means clustering offers valuable insights for traders by uncovering hidden patterns and segmenting markets. While it provides a robust framework for analyzing financial data, it should be used in conjunction with other methods and validated thoroughly before deployment. Platforms like QuantConnect and Alpaca offer ample resources and tools to implement and test K-Means [clustering algorithms](../c/clustering_algorithms.md) in trading contexts effectively.

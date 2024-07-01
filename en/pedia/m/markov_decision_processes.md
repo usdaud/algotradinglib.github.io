@@ -8,11 +8,11 @@ An MDP is generally defined by the following components:
 
 ### States (\(S\))
 The set of all possible states \(S\) represents every conceivable situation the agent could find itself in. Each state contains all the information needed to make a decision.
-- **Example**: In a stock trading environment, a state could be represented by the current prices of different stocks, available funds, and existing portfolio holdings.
+- **Example**: In a stock [trading environment](../t/trading_environment.md), a state could be represented by the current prices of different stocks, available funds, and existing portfolio holdings.
 
 ### Actions (\(A\))
 The set of all possible actions \(A\) includes all the decisions the agent can make in any state.
-- **Example**: In the same stock trading environment, actions might include buying, selling, or holding a stock.
+- **Example**: In the same stock [trading environment](../t/trading_environment.md), actions might include buying, selling, or holding a stock.
 
 ### Transition Probabilities (\(T\) or \(P\))
 The transition probabilities \( P(s'|s,a) \) describe the likelihood of moving from state \( s \) to state \( s' \) given action \( a \). The probabilities must satisfy the Markov property, implying that the future state depends only on the current state and action, not on the history of states and actions.
@@ -20,7 +20,7 @@ The transition probabilities \( P(s'|s,a) \) describe the likelihood of moving f
 
 ### Rewards (\(R\))
 The reward function \( R(s,a,s') \) specifies the immediate reward received after transitioning from state \( s \) to state \( s' \) due to action \( a \). This quantitatively represents the benefit of taking a particular action in a given state.
-- **Example**: In a trading environment, the reward could be the profit or loss resulting from buying or selling a stock.
+- **Example**: In a [trading environment](../t/trading_environment.md), the reward could be the profit or loss resulting from buying or selling a stock.
 
 ## Formal Definition
 An MDP can be formally defined as a tuple \( (S, A, P, R, \gamma) \), where:
@@ -80,7 +80,7 @@ Policy iteration alternates between policy evaluation (estimating the value func
 \[ \pi'(s) = \arg\max_{a \in A} \left[ R(s, a) + \gamma \sum_{s' \in S} P(s' | s, a) V^\pi(s') \right] \]
 
 ### Monte Carlo Methods
-Monte Carlo methods estimate value functions based on sample episodes from the MDP. These methods do not require knowledge of transition probabilities and are used in model-free contexts.
+[Monte Carlo methods](../m/monte_carlo_methods.md) estimate value functions based on sample episodes from the MDP. These methods do not require knowledge of transition probabilities and are used in model-free contexts.
 
 #### First-Visit MC
 First-Visit Monte Carlo updates the value function based on the first occurrence of each state or state-action pair in an episode.
@@ -89,7 +89,7 @@ First-Visit Monte Carlo updates the value function based on the first occurrence
 Every-Visit Monte Carlo updates the value function based on every occurrence of each state or state-action pair in an episode.
 
 ### Temporal Difference (TD) Learning
-Temporal difference methods combine the ideas of dynamic programming and Monte Carlo methods. TD learning updates value estimates based on the difference (temporal difference) between consecutive value estimates.
+Temporal difference methods combine the ideas of dynamic programming and [Monte Carlo methods](../m/monte_carlo_methods.md). TD learning updates value estimates based on the difference (temporal difference) between consecutive value estimates.
 
 #### TD(0)
 TD(0) is the simplest form, updating the value function using a single step lookahead.
@@ -107,19 +107,19 @@ SARSA is an on-policy TD control algorithm that updates the action-value functio
 \[ Q(s_t, a_t) \leftarrow Q(s_t, a_t) + \alpha \left[ R_{t+1} + \gamma Q(s_{t+1}, a_{t+1}) - Q(s_t, a_t) \right] \]
 
 ## Applications in Algorithmic Trading
-MDPs have significant applications in algorithmic trading, where agents must make sequential decisions under uncertainty to maximize returns. 
+MDPs have significant applications in [algorithmic trading](../a/algorithmic_trading.md), where agents must make sequential decisions under uncertainty to maximize returns. 
 
 ### Optimal Execution
 One of the key applications is optimal trade execution, wherein an agent determines the best times and quantities to trade to minimize transaction costs and market impact.
 
 ### Portfolio Management
-MDPs can be used for dynamic portfolio optimization, where the agent adjusts its holdings in response to changing market conditions to achieve a balance between risk and return.
+MDPs can be used for dynamic [portfolio optimization](../p/portfolio_optimization.md), where the agent adjusts its holdings in response to changing market conditions to achieve a balance between risk and return.
 
 ### Market Making
 Agents can use MDPs to design optimal market-making strategies, setting bid-ask spreads based on likely future price movements to maximize profit from the spread while managing inventory risk.
 
 ### Reinforcement Learning in Trading
-Reinforcement learning, encompassing many MDP solution methods, is used for developing sophisticated trading algorithms. Platforms like [Alpaca](https://alpaca.markets/) and [QuantConnect](https://www.quantconnect.com/) provide environments for testing and deploying these strategies.
+Reinforcement learning, encompassing many MDP solution methods, is used for developing sophisticated [trading algorithms](../t/trading_algorithms.md). Platforms like [Alpaca](https://alpaca.markets/) and [QuantConnect](https://www.quantconnect.com/) provide environments for testing and deploying these strategies.
 
 ## Conclusion
-Markov Decision Processes offer a robust framework for solving sequential decision-making problems in stochastic environments. With their ability to balance immediate and future rewards, they are indispensable in various fields, particularly in algorithmic trading, where they help design strategies to optimize financial returns under uncertainty. Through methods including dynamic programming, Monte Carlo, and temporal difference learning, MDPs facilitate the development of optimal policies for complex, real-world problems.
+Markov Decision Processes offer a robust framework for solving sequential decision-making problems in stochastic environments. With their ability to balance immediate and future rewards, they are indispensable in various fields, particularly in [algorithmic trading](../a/algorithmic_trading.md), where they help design strategies to optimize financial returns under uncertainty. Through methods including dynamic programming, Monte Carlo, and temporal difference learning, MDPs facilitate the development of optimal policies for complex, real-world problems.

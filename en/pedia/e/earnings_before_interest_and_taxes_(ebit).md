@@ -14,9 +14,9 @@ Alternatively, it can be derived from operating income in the income statement, 
 
 ### Importance of EBIT
 
-1. **Comparative Analysis**: EBIT enables apples-to-apples comparisons between companies differentially leveraged and operating in various tax jurisdictions.
+1. **[Comparative Analysis](../c/comparative_analysis.md)**: EBIT enables apples-to-apples comparisons between companies differentially leveraged and operating in various tax jurisdictions.
 2. **Operational Efficiency**: By excluding interest and taxes, EBIT focuses solely on the company's operational earning power.
-3. **Valuation Metric**: Many valuation multiples such as EV/EBIT (Enterprise Value to EBIT) use EBIT to help stakeholders understand a company's valuation.
+3. **Valuation Metric**: Many [valuation multiples](../v/valuation_multiples.md) such as EV/EBIT (Enterprise Value to EBIT) use EBIT to help stakeholders understand a company's valuation.
 4. **Indicator of Financial Health**: A higher EBIT suggests better operational performance, which is crucial for debt servicing capability and potential growth opportunities.
 
 ### EBIT vs. EBITDA
@@ -25,7 +25,7 @@ While EBIT is a crucial metric, it's often compared to EBITDA (Earnings Before I
 
 ### Usage in Algorithms
 
-In algorithmic trading, EBIT is one piece of the larger puzzle. Algorithms can be programmed to track EBIT trends over time, using the data to make buy or sell decisions based on the underlying performance it represents. For instance, downward trends in EBIT could trigger sell orders if the algorithm predicts continued poor performance. Conversely, upward trends might generate buy signals as the company demonstrates improving operational efficacy.
+In [algorithmic trading](../a/algorithmic_trading.md), EBIT is one piece of the larger puzzle. Algorithms can be programmed to track EBIT trends over time, using the data to make buy or sell decisions based on the underlying performance it represents. For instance, downward trends in EBIT could trigger sell orders if the algorithm predicts continued poor performance. Conversely, upward trends might generate buy signals as the company demonstrates improving operational efficacy.
 
 ### Example Companies
 
@@ -77,7 +77,7 @@ While EBIT is instrumental, it is not without drawbacks:
 
 ### Advanced Considerations
 
-In more advanced financial and algorithmic trading settings, EBIT goes beyond a mere profitability indicator. It serves as a foundational element for:
+In more advanced financial and [algorithmic trading](../a/algorithmic_trading.md) settings, EBIT goes beyond a mere profitability indicator. It serves as a foundational element for:
 1. **Credit Analysis**: Rating agencies use EBIT to assess the company's debt-servicing ability.
 2. **Economic Value Added (EVA)**: EVA calculations often use EBIT adjusted for taxes to evaluate true economic profit.
 3. **Sensitivity Analysis**: Financial models may test how changes in operational aspects impact EBIT and ultimately the stock price.
