@@ -1,4 +1,4 @@
-[Yield Curve](../y/yield_curve.md) Dynamics
+# Yield Curve Dynamics
 
 The [yield curve](../y/yield_curve.md) is a fundamental concept in finance and investing, representing the relationship between differing interest rates and the time to maturity of the debt for a given borrower, usually government bonds. [Yield curve](../y/yield_curve.md) dynamics, therefore, involves the study of how this curve evolves over time and the various factors influencing its shape. This intricate subject is integral to understanding macroeconomic conditions, investment strategies, and [risk management](../r/risk_management.md).
 

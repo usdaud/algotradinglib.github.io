@@ -1,3 +1,5 @@
+# Quantitative Credit Models
+
 Quantitative credit models are mathematical frameworks used in finance for assessing the credit risk associated with financial instruments, borrowers, or portfolios. These models leverage quantitative techniques to estimate the likelihood of default, the potential loss given default (LGD), and various other [risk metrics](../r/risk_metrics.md). Given the complexity and importance of credit risk in the financial system, the development and application of quantitative credit models are crucial for banks, financial institutions, and investors.
 
 ### Credit Risk Components

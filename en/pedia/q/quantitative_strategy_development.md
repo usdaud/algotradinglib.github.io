@@ -1,4 +1,4 @@
-Quantitative Strategy Development
+# Quantitative Strategy Development
 
 Quantitative strategy development is a cornerstone of modern [algorithmic trading](../a/algorithmic_trading.md), where traders rely on mathematical models and computational techniques to develop, test, and implement [trading strategies](../t/trading_strategies.md). Quantitative strategies are based on [quantitative analysis](../q/quantitative_analysis.md) which utilizes statistical methods and mathematical models to identify opportunities for trading financial instruments. This document will delve into the key concepts, methodologies, and processes involved in quantitative strategy development.
 

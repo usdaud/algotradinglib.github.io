@@ -1,3 +1,5 @@
+# Quantitative Strategy Backtesting
+
 Quantitative Strategy [Backtesting](../b/backtesting.md) is a crucial methodology used in the domain of [algorithmic trading](../a/algorithmic_trading.md) to validate and evaluate [trading strategies](../t/trading_strategies.md) based on historical data. Essentially, it is a simulation of a trading strategy using historical prices to determine how well the strategy could have performed. This process forms the backbone for developing robust trading methodologies, allowing traders and analysts to refine their strategies before deploying them in live markets.
 
 ### Components of Quantitative Strategy Backtesting

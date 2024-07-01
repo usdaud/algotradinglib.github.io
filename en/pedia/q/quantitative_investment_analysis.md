@@ -1,3 +1,5 @@
+# Quantitative Investment Analysis
+
 Quantitative investment analysis is a discipline that applies mathematical and statistical techniques to analyze financial markets, securities, and manage investment portfolios. It involves the use of [quantitative models](../q/quantitative_models.md) to assess investment opportunities, identify value, and manage risk. The techniques used can range from simple statistical methods to complex mathematical algorithms and high-frequency [trading strategies](../t/trading_strategies.md). The goals of quantitative investment analysis typically include improving investment performance, optimizing portfolios, and making data-driven investment decisions.
 
 ### Components of Quantitative Investment Analysis

@@ -1,4 +1,4 @@
-Quantitative [Value Investing](../v/value_investing.md)
+# Quantitative Value Investing
 
 Quantitative [Value Investing](../v/value_investing.md) is an investment strategy that combines principles from [value investing](../v/value_investing.md) with quantitative methods to identify undervalued stocks that have the potential to generate superior returns. This approach leverages numerical and statistical models to evaluate a large universe of stocks based on specific value-investing criteria such as low price-to-earnings (P/E) ratios, low price-to-book (P/B) ratios, and other financial metrics. By implementing systematic, rules-based strategies, quantitative value investors aim to remove human biases and emotions from the investment decision-making process, thereby enhancing the likelihood of achieving consistent returns.
 

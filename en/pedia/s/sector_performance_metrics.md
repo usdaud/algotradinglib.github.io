@@ -1,4 +1,4 @@
-Sector [Performance Metrics](../p/performance_metrics.md)
+# Sector Performance Metrics
 
 Sector [performance metrics](../p/performance_metrics.md) are critical analytical tools used in financial markets to evaluate and compare the performance of various sectors within an economy or market index. These metrics are utilized by individual investors, portfolio managers, and institutional investors to make informed decisions about [asset allocation](../a/asset_allocation.md), investment strategies, and [risk management](../r/risk_management.md). In this comprehensive guide, we will delve into the different types of sector [performance metrics](../p/performance_metrics.md), their significance, and how they are calculated and applied in the context of trading and investment.
 

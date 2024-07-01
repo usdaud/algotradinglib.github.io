@@ -1,4 +1,4 @@
-Quantitative [Portfolio Management](../p/portfolio_management.md)
+# Quantitative Portfolio Management
 
 Quantitative [portfolio management](../p/portfolio_management.md) is a form of investment management that employs sophisticated mathematical models, algorithms, and extensive data analysis to make investment decisions. Instead of relying on the subjective judgment of human analysts or portfolio managers, quantitative [portfolio management](../p/portfolio_management.md) leverages the power of computers and quantitative techniques to optimize the selection and weighting of investment assets in a portfolio. This approach is prevalent among hedge funds, institutional investors, and quant funds, where it has been employed to maximize returns, minimize risks, and capitalize on market inefficiencies. Here is an extensive exploration of the topic, covering a wide array of aspects intrinsic to quantitative [portfolio management](../p/portfolio_management.md). 
 
