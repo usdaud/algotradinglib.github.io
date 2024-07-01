@@ -1,3 +1,5 @@
+# Intrinsic Value Models
+
 Intrinsic value models are [fundamental analysis](../f/fundamental_analysis.md) tools used in finance to determine the value of an asset, typically a security like stocks or bonds. These models aim to estimate the true or "intrinsic" value of the asset, independent of its market price. The intrinsic value is derived through various forms of fundamental data analysis, including but not limited to financial statements, dividends, earnings growth, and interest rates.
 
 Understanding the intrinsic value is crucial for investors seeking to identify underpriced or overpriced securities. The disparity between the intrinsic value of a security and its current market price generally directs investment decisions. For instance, if the intrinsic value of a stock is higher than its market price, the stock is considered undervalued, presenting a potential buy opportunity. On the contrary, if the intrinsic value is lower than the market price, the stock is overvalued, indicating a possible sell.

@@ -1,3 +1,5 @@
+# Quantitative Benchmarking
+
 Quantitative benchmarking is an essential process in the field of [algorithmic trading](../a/algorithmic_trading.md), which involves comparing the performance of [trading algorithms](../t/trading_algorithms.md) and strategies against a predefined set of criteria or benchmark to assess their effectiveness and efficiency. This process helps in identifying strengths and weaknesses, optimizing [trading strategies](../t/trading_strategies.md), and ultimately achieving better financial outcomes. Below, we delve into various aspects of quantitative benchmarking in detail.
 
 ### Definition and Importance of Quantitative Benchmarking

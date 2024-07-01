@@ -1,4 +1,4 @@
-**Hedge Fund Leverage**
+# Hedge Fund Leverage
 
 Hedge fund leverage is a financial strategy that involves borrowing capital or using financial instruments like [derivatives](../d/derivatives.md) to amplify investment gains. This practice allows hedge funds to increase their exposure to investments beyond the level that would be possible with the capital directly available to them. While leverage can potentially enhance returns, it also increases the risk, as losses are magnified in the same proportion.
 

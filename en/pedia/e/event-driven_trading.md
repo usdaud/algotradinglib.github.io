@@ -1,3 +1,5 @@
+# Event-Driven Trading
+
 Event-driven trading is a sophisticated strategy that aims to identify and capitalize on pricing inefficiencies caused by corporate events like earnings reports, mergers and acquisitions (M&A), product launches, regulatory changes, or macroeconomic indicators. This trading strategy leverages the timely recognition of these events to enter and exit positions, often using algorithms to automate the process for speed and efficiency. Let's delve deeper into the complexities, methodologies, and key components of event-driven trading.
 
 ### Types of Events

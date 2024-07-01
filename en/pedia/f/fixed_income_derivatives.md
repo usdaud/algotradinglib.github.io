@@ -1,3 +1,5 @@
+# Fixed Income Derivatives
+
 Fixed income [derivatives](../d/derivatives.md) are financial instruments whose value is derived from a fixed income security, such as government bonds, corporate bonds, or mortgage securities. These [derivatives](../d/derivatives.md) are extensively used in the financial markets for purposes such as hedging, speculation, [arbitrage](../a/arbitrage.md), and managing interest rate risk. Given their flexibility and liquidity, fixed income [derivatives](../d/derivatives.md) have become an essential part of the toolkit for traders, portfolio managers, and risk managers.
 
 ### Types of Fixed Income Derivatives
