@@ -1,4 +1,4 @@
-## Dividend Growth Strategies
+# Dividend Growth Strategies
 
 Dividend Growth Strategies are investment approaches focused on selecting stocks that have a history and potential of consistently increasing their dividend payouts over time. These strategies appeal to investors who seek both income and long-term capital appreciation, balancing the need for regular income with the desire for growth in asset value. This specific blend of income and growth-oriented investing can be particularly attractive in a variety of market environments.
 

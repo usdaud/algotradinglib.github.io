@@ -1,4 +1,4 @@
-# Decision Trees in Algorithmic Trading
+# Decision Trees
 
 Decision Trees are a non-parametric supervised learning method used for classification and regression. The key idea behind a decision tree is to break down a complex decision-making process into a series of simpler decisions, thus providing a solution that is easy to interpret and understand. In the context of [algorithmic trading](../a/algorithmic_trading.md), decision trees can be a powerful tool for forecasting market conditions, optimizing [trading strategies](../t/trading_strategies.md), and making buy/sell decisions.
 

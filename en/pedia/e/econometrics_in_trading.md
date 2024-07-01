@@ -1,4 +1,4 @@
-# Econometrics in Trading
+# Econometrics
 
 Econometrics, the application of statistical methods to economic data, plays a crucial role in modern financial [trading strategies](../t/trading_strategies.md). It provides traders and quantitative analysts with the tools to model, estimate, and forecast financial market trends and risks. Integrating econometrics in trading involves employing a combination of linear and non-linear models, [hypothesis testing](../h/hypothesis_testing.md), [regression analysis](../r/regression_analysis.md), and [time series analysis](../t/time_series_analysis.md). This document delves into the various facets of econometrics in trading, exploring its impact and applications.
 

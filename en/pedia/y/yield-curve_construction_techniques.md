@@ -1,4 +1,4 @@
-### Yield-Curve Construction Techniques
+# Yield-Curve Construction Techniques
 
 Yield-curve construction techniques are a fundamental aspect of [fixed income analysis](../f/fixed_income_analysis.md) and [quantitative finance](../q/quantitative_finance.md), particularly in the context of [algorithmic trading](../a/algorithmic_trading.md). The [yield curve](../y/yield_curve.md) represents the relationship between the interest rates (or yields) of bonds having equal credit quality but differing maturity dates. It is a crucial tool for assessing the [term structure of interest rates](../t/term_structure_of_interest_rates.md) and for pricing various [fixed income securities](../f/fixed_income_securities.md).
 

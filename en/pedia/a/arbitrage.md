@@ -1,4 +1,4 @@
-# Arbitrage in Algorithmic Trading
+# Arbitrage
 
 Arbitrage is a fundamental concept in finance and trading, referring to the process of buying and selling assets simultaneously in different markets to profit from differences in their prices. It is a strategy that seeks to exploit inefficiencies in the market to earn risk-free profits. In [algorithmic trading](../a/algorithmic_trading.md), arbitrage strategies are automated through the use of algorithms and high-frequency [trading systems](../t/trading_systems.md), allowing traders to execute trades at speeds unattainable by humans.
 

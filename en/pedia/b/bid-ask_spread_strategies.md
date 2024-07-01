@@ -1,4 +1,4 @@
-# Bid-Ask Spread Strategies in Algorithmic Trading
+# Bid-Ask Spread Strategies
 
 ## Introduction to Bid-Ask Spread
 

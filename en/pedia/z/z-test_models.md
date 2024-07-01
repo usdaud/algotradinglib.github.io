@@ -1,4 +1,4 @@
-# Z-Test Models in Algorithmic Trading
+# Z-Test Models
 
 [Algorithmic trading](../a/algorithmic_trading.md) leverages mathematical models and statistical techniques to make trading decisions autonomously. One of the fundamental statistical tests used in this realm is the Z-Test. The Z-Test is employed to determine if there is a significant difference between sample data and a known value or between two sample means. In [algorithmic trading](../a/algorithmic_trading.md), Z-Test models play a crucial role in validating [trading strategies](../t/trading_strategies.md), conducting [hypothesis testing](../h/hypothesis_testing.md), and assessing market behavior. This document explores the intricacies of Z-Test models and their applications in [algorithmic trading](../a/algorithmic_trading.md).
 

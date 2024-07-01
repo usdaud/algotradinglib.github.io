@@ -1,5 +1,4 @@
-# GARCH Forecasting in Algorithmic Trading
-=========================================
+# GARCH Forecasting
 
 Generalized Autoregressive Conditional Heteroskedasticity (GARCH) models have become a cornerstone in the realm of financial econometrics, predominantly due to their ability to model and forecast financial market volatility. The development and application of [GARCH models](../g/garch_models.md) can be attributed to the pioneering works of Tim Bollerslev in the mid-1980s. These models are extensions of the Autoregressive Conditional Heteroskedasticity (ARCH) model developed by Robert F. Engle.
 
@@ -107,4 +106,3 @@ Researchers and practitioners continually strive to address these limitations by
 [GARCH models](../g/garch_models.md) play an indispensable role in the toolkit of financial econometrics. Their ability to model and forecast volatility underpins various aspects of [algorithmic trading](../a/algorithmic_trading.md), including [risk management](../r/risk_management.md), option pricing, and [portfolio optimization](../p/portfolio_optimization.md). Despite their limitations, [GARCH models](../g/garch_models.md) are continually refined and augmented by new advancements in the field, ensuring their continued relevance in the ever-evolving landscape of financial markets.
 
 For more detailed insights and the latest developments, exploring the resources of financial technology firms and academic publications is recommended. Notable firms like [QuantConnect](https://www.quantconnect.com/) provide platforms and resources for [algorithmic trading](../a/algorithmic_trading.md) and [quantitative research](../q/quantitative_research.md), offering practical implementations and real-world applications of models like GARCH.
-

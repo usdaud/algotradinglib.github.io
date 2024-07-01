@@ -1,4 +1,4 @@
-## Yield Calculation Techniques
+# Yield Calculation Techniques
 
 In financial markets, yield is a critical measure that indicates the income return on an investment. Yield can be calculated on various types of investments such as bonds, stocks, real estate, and others. This guide delves deeply into the different techniques used to calculate yield, providing a comprehensive overview for algorithmic traders and financial analysts.
 

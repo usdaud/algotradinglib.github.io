@@ -1,4 +1,4 @@
-## Average True Range (ATR)
+# Average True Range (ATR)
 
 Average True Range (ATR) is a [technical analysis](../t/technical_analysis.md) indicator designed to measure market volatility. J. Welles Wilder, the founder of ATR, introduced it in his 1978 book "New Concepts in Technical [Trading Systems](../t/trading_systems.md)." ATR does not provide an indication of price direction like many other indicators, but rather the degree of price movement, making it a useful tool for traders to gauge market volatility and potential price fluctuation.
 

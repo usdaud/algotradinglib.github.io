@@ -1,4 +1,4 @@
-## Zero-Coupon Bond Pricing in Algorithmic Trading
+# Zero-Coupon Bond Pricing
 
 Zero-coupon bonds are unique financial instruments that pay no periodic interest and are instead issued at a discount to their face value. Upon maturity, investors receive the bond's face value, making their profit the difference between the purchasing price and the face value. These bonds are fundamental in [financial engineering](../f/financial_engineering.md), [risk management](../r/risk_management.md), and especially in [algorithmic trading](../a/algorithmic_trading.md), where precise modeling and pricing are crucial.
 

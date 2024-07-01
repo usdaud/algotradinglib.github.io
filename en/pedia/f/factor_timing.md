@@ -1,4 +1,4 @@
-# Factor Timing in Algorithmic Trading
+# Factor Timing
 
 Factor timing is a sophisticated investment strategy that involves adjusting the exposure to various factors based on market conditions. In financial markets, factors are attributes or characteristics that can explain the return and risk of securities. Commonly used factors include value, momentum, size, quality, and volatility. Factor timing aims to exploit the time-varying nature of these factors to enhance returns and manage risks in a dynamic manner. This approach is particularly relevant in [algorithmic trading](../a/algorithmic_trading.md), where automated systems can swiftly adjust portfolio allocations based on [quantitative models](../q/quantitative_models.md).
 

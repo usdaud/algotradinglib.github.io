@@ -1,4 +1,4 @@
-# Financial Modeling in Algorithmic Trading
+# Financial Modeling
 
 Financial modeling is a crucial component of [algorithmic trading](../a/algorithmic_trading.md). It involves the creation of abstract representations of financial decision-making situations. Financial models are employed to predict future market movements, evaluate financial instruments, and perform [risk analysis](../r/risk_analysis.md). In the context of [algorithmic trading](../a/algorithmic_trading.md), these models are used to create, backtest, and implement [trading strategies](../t/trading_strategies.md) that are executed by automated systems.
 

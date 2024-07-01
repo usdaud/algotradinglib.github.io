@@ -1,4 +1,4 @@
-## 20-Period Moving Average
+# 20-Period Moving Average
 
 A 20-period moving average (MA) is a widely used [technical analysis](../t/technical_analysis.md) tool in the world of [algorithmic trading](../a/algorithmic_trading.md). This type of moving average is a statistical calculation that helps traders smooth out price data to identify trends over a specific number of periods, in this case, 20 periods. The 20-period moving average is especially popular among short-term and swing traders because it captures data over a relatively short timeframe, making it responsive to recent price changes.
 

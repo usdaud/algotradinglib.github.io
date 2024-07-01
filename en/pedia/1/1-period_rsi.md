@@ -1,4 +1,4 @@
-## 1-Period RSI in Algorithmic Trading
+# 1-Period RSI
 
 ### Overview
 

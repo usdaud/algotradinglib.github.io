@@ -1,4 +1,4 @@
-# Fast Fourier Transform (FFT) in Trading
+# Fast Fourier Transform (FFT)
 
 ## Introduction
 

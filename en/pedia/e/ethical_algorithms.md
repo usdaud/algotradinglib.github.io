@@ -1,4 +1,4 @@
-# Ethical Algorithms in Algorithmic Trading
+# Ethical Algorithms
 
 Ethical algorithms in [algorithmic trading](../a/algorithmic_trading.md) pertain to the integration of ethical principles into the design, development, and deployment of automated [trading strategies](../t/trading_strategies.md). These algorithms aim to mitigate negative impacts such as market manipulation, unfair trading practices, and systemic risk while promoting transparency, fairness, and social responsibility.
 

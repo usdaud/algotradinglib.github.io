@@ -1,4 +1,4 @@
-# Data Integration in Algorithmic Trading
+# Data Integration
 
 In the sophisticated world of [algorithmic trading](../a/algorithmic_trading.md), data is paramount. [Algorithmic trading](../a/algorithmic_trading.md), often shortened to algo-trading, is the process of using computers programmed to follow a defined set of instructions (an algorithm) to place a trade in order to generate profit with speed and frequency that is impossible for a human trader. Data integration plays a critical role in the success of [algorithmic trading](../a/algorithmic_trading.md) strategies. It involves consolidating data from multiple sources to provide a unified, accurate, and consistent view that algorithms can utilize to make informed trading decisions. 
 

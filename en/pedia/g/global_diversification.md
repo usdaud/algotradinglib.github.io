@@ -1,4 +1,4 @@
-# Global Diversification in Algorithmic Trading
+# Global Diversification
 
 ## Introduction
 

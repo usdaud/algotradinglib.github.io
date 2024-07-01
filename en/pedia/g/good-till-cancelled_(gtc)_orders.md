@@ -1,4 +1,4 @@
-## Good-Till-Cancelled (GTC) Orders
+# Good-Till-Cancelled (GTC) Orders
 
 In the realm of [algorithmic trading](../a/algorithmic_trading.md) and investing, "Good-Till-Cancelled" (GTC) orders represent a type of order to buy or sell a security that remains active until it is either executed or explicitly canceled by the trader. Unlike day orders that expire if not filled by the end of the trading day, GTC orders provide traders with the flexibility to set their trades and not worry about them expiring if the price target isn’t met within that same day.
 

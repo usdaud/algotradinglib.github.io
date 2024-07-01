@@ -1,4 +1,4 @@
-# Fractal Analysis in Trading
+# Fractal Analysis
 
 Fractal analysis is a complex and sophisticated method used in the analysis of financial markets. This approach leverages the concept of self-similarity, where patterns recur at different scales, to identify potential points of entry and exit for trades. The use of fractals in trading was popularized by Benoit B. Mandelbrot, who introduced the concept of fractals in the context of geometry and natural phenomena before it was applied to financial markets.
 

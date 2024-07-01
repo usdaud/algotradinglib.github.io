@@ -1,4 +1,4 @@
-### 3-Point Reversal in Algorithmic Trading
+# 3-Point Reversal
 
 In the realm of [algorithmic trading](../a/algorithmic_trading.md), the 3-point reversal is a [technical analysis](../t/technical_analysis.md) concept primarily used to identify potential shifts in the prevailing market trend. This method can be instrumental in the development of [trading algorithms](../t/trading_algorithms.md) that seek to capture gains from trend reversals.
 

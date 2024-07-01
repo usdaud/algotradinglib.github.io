@@ -1,4 +1,4 @@
-## 2-Year Bond Yield
+# 2-Year Bond Yield
 
 The term "2-Year Bond Yield" pertains to the return an investor can expect to earn if they purchase a government or corporate bond with a maturity of two years and hold it until maturity. Bond yields are critical indicators of the overall health of financial markets and provide insights into the expectations of interest rates, inflation, and economic growth. This yield plays a significant role in various forms of trading, including [algorithmic trading](../a/algorithmic_trading.md) (or algotrading), where investors use computer algorithms to execute trades at high speed and volume.
 

@@ -1,4 +1,4 @@
-# Digital Signal Processing (DSP) in Trading
+# Digital Signal Processing (DSP)
 
 Digital Signal Processing (DSP) is a field of study that focuses on the manipulation and analysis of signals, particularly digital signals as opposed to analog signals. Within the context of trading, DSP has found important applications, including the development of [trading algorithms](../t/trading_algorithms.md) and the enhancement of [trading strategies](../t/trading_strategies.md). This document offers a comprehensive exploration of how DSP is utilized in trading, covering various techniques, their applications, advantages, and challenges.
 

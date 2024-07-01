@@ -1,5 +1,4 @@
-# Bayesian Statistics in Trading
----
+# Bayesian Statistics
 
 Bayesian statistics, named after Thomas Bayes, is a powerful mathematical approach for updating the probability of a hypothesis as more evidence or information becomes available. This method is particularly valuable in trading, where market conditions are constantly changing, and decisions need to be made based on incomplete information. By applying Bayesian statistics, traders can update their beliefs about market conditions and make more informed decisions. This approach is instrumental in the development of [algorithmic trading](../a/algorithmic_trading.md) strategies.
 

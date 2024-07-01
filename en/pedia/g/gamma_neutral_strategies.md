@@ -1,4 +1,6 @@
-# In the realm of algorithmic trading, Gamma Neutral strategies represent a refined subset of financial tactics primarily used for options trading. These strategies aim to minimize or eliminate the risks associated with the movement of the underlying asset's price by carefully balancing the portfolio's gamma exposure. Gamma itself is a measure of the rate of change in delta (the sensitivity of an option's price to changes in the price of the underlying asset), and understanding it is pivotal for advanced options traders.
+# Gamma Neutral Strategies
+
+In the realm of algorithmic trading, Gamma Neutral strategies represent a refined subset of financial tactics primarily used for options trading. These strategies aim to minimize or eliminate the risks associated with the movement of the underlying asset's price by carefully balancing the portfolio's gamma exposure. Gamma itself is a measure of the rate of change in delta (the sensitivity of an option's price to changes in the price of the underlying asset), and understanding it is pivotal for advanced options traders.
 
 ### Gamma Overview
 Gamma (Γ) is the second-order derivative of the option's price with respect to the price of the underlying asset. It essentially measures how much the delta will change as the price of the underlying asset moves. For traders, gamma is crucial because it provides insight into how the delta, and consequently the portfolio's exposure, will evolve when market conditions change.

@@ -1,4 +1,4 @@
-### Bayesian Inference in Algorithmic Trading
+# Bayesian Inference
 
 Bayesian inference is a statistical method employed to update the probability for a hypothesis as more evidence or information becomes available. In the context of [algorithmic trading](../a/algorithmic_trading.md), Bayesian inference can be used to refine [trading strategies](../t/trading_strategies.md) and make more informed decisions based on the evolving market data. This method is named after Reverend Thomas Bayes, who provided the foundation through Bayes' Theorem, a cornerstone in probability theory.
 

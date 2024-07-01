@@ -1,4 +1,4 @@
-### Extreme Value Theory (EVT) in Algorithmic Trading
+# Extreme Value Theory (EVT)
 
 Extreme Value Theory (EVT) is a branch of statistics that deals with the extreme deviations from the median of probability distributions. It has gained considerable attention in the field of finance, particularly in [risk management](../r/risk_management.md) and [algorithmic trading](../a/algorithmic_trading.md). EVT focuses on the tail behavior of distributions and helps in understanding the probabilities of extreme events, such as market crashes or financial turmoils, which are often not explained adequately by traditional statistical methods.
 

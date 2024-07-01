@@ -1,4 +1,4 @@
-# Brokerage Services in Algorithmic Trading
+# Brokerage Services
 
 [Algorithmic trading](../a/algorithmic_trading.md), colloquially known as "algo trading," is the process of placing buy or sell orders using automated and pre-programmed trading instructions based on various variables, such as time, price, and volume. These algorithms are designed to perform trades at optimal times and prices, minimizing market impact, reducing manual errors, and allowing for the execution of intricate [trading strategies](../t/trading_strategies.md) that might be impossible for a human to implement. Brokerage services play a crucial role in facilitating this highly technical and fast-paced [trading environment](../t/trading_environment.md). 
 

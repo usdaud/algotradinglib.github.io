@@ -1,4 +1,4 @@
-# Yield-Risk Strategies in Algorithmic Trading
+# Yield-Risk Strategies
 
 [Algorithmic trading](../a/algorithmic_trading.md), commonly known as algo trading, is a method of executing orders using automated pre-programmed trading instructions accounting for variables such as time, price, and volume. Yield-risk strategies in algo trading focus on optimizing the balance between the returns (yield) and the potential risks associated with investments. These strategies employ various statistical, econometric, and machine learning models to predict market movements and make informed trading decisions.
 

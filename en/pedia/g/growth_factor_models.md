@@ -1,5 +1,4 @@
-# Growth Factor Models in Algorithmic Trading
-============================================
+# Growth Factor Models
 
 Growth [factor models](../f/factor_models.md) are a critical component in the sphere of [algorithmic trading](../a/algorithmic_trading.md), standing as a sophisticated means to predict stock movements and generate [trading signals](../t/trading_signals.md) based on various economic and financial indicators. These models harness multi-factor approaches, blending machine learning, statistical methods, and mathematical frameworks to identify trends and [performance drivers](../p/performance_drivers.md). Understanding growth [factor models](../f/factor_models.md) requires a deep dive into their anatomy and the nuances that make them both powerful and complex.
 

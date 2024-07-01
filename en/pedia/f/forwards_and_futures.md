@@ -1,4 +1,4 @@
-## Forwards and Futures in Algorithmic Trading
+## Forwards and Futures
 
 [Algorithmic trading](../a/algorithmic_trading.md) (also known as algo-trading) involves using computer algorithms to trade financial instruments based on pre-defined criteria and rules. Forwards and [futures contracts](../f/futures_contracts.md) play a significant role in this domain, providing traders with instruments to hedge risk, speculate, and [arbitrage](../a/arbitrage.md). This document explores the concepts of forwards and futures in the context of [algorithmic trading](../a/algorithmic_trading.md).
 

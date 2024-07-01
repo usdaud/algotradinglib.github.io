@@ -1,4 +1,4 @@
-# **X-11 Seasonal Adjustment**
+# X-11 Seasonal Adjustment
 
 In the realm of econometrics and [time series analysis](../t/time_series_analysis.md), the [X-11 seasonal adjustment](../x/x-11_seasonal_adjustment.md) method plays a pivotal role. Developed in the 1960s by the United States Census Bureau, the X-11 method is a widely respected approach for removing seasonal effects from monthly and quarterly economic data. The evolution of the X-11 methodology has given rise to several sophisticated versions, such as X-12 and X-13, but this document will focus on the foundation: the classic X-11 method.
 

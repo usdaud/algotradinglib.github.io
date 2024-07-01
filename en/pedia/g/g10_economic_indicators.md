@@ -1,4 +1,4 @@
-## G10 Economic Indicators
+# G10 Economic Indicators
 
 The G10, or Group of Ten, refers to a group of major advanced economies that consult and cooperate on economic, monetary, and financial matters. The group includes the following countries: Belgium, Canada, France, Germany, Italy, Japan, Netherlands, Sweden, Switzerland, the United Kingdom, and the United States. These countries are integral to the global economy, and their economic health can significantly influence global financial markets. Monitoring [economic indicators](../e/economic_indicators.md) from these countries is pivotal for [algorithmic trading](../a/algorithmic_trading.md), as they provide vital information that influences market behavior.
 

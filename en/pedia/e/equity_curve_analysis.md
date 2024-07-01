@@ -1,4 +1,4 @@
-## Equity Curve Analysis in Algorithmic Trading
+# Equity Curve Analysis
 
 Equity Curve Analysis is an essential process in the field of [algorithmic trading](../a/algorithmic_trading.md). It deals with the graphical representation and interpretation of the performance of a trading strategy over time. The equity curve is a line chart plotted to show the change in the value of a trading account. It provides traders with insights into the profitability, risk, and efficiency of their [trading strategies](../t/trading_strategies.md). This analysis is crucial for developing, optimizing, and evaluating [trading algorithms](../t/trading_algorithms.md). In this document, we will explore the various aspects of equity curve analysis, including its significance, key metrics, methods of enhancement, and practical examples.
 

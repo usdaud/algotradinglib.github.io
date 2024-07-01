@@ -1,4 +1,4 @@
-# Data Warehousing in Trading
+# Data Warehousing
 
 Data warehousing plays a pivotal role in the realm of trading, particularly [algorithmic trading](../a/algorithmic_trading.md). It involves the aggregation, storage, and management of vast quantities of data from different sources to enable effective analysis and decision-making. As [trading strategies](../t/trading_strategies.md) become increasingly data-driven, the necessity for robust data warehousing solutions has become more vital than ever.
 

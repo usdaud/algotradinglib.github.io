@@ -1,4 +1,4 @@
-### 3-Sigma Event
+# 3-Sigma Event
 
 A **3-Sigma Event** refers to a statistical occurrence in financial markets which deviates from the mean (average) by three standard deviations. This term is widely used in the context of [quantitative finance](../q/quantitative_finance.md), [risk management](../r/risk_management.md), and [algorithmic trading](../a/algorithmic_trading.md) to describe rare but significant market movements. In a normally distributed dataset, a 3-sigma event would be expected to occur with a probability of about 0.13%, meaning such events are extremely rare. [Algorithmic trading](../a/algorithmic_trading.md) systems are designed to account for these rare events to protect portfolios from extreme market movements.
 

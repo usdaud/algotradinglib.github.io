@@ -1,4 +1,4 @@
-## Economic Data Analysis in Algorithmic Trading
+# Economic Data Analysis
 
 Economic Data Analysis is a critical aspect of [Algorithmic Trading](../a/algorithmic_trading.md), integrating [economic indicators](../e/economic_indicators.md) and datasets to inform and drive [trading algorithms](../t/trading_algorithms.md). This extensive field involves the application of statistical and quantitative techniques to analyze macroeconomic and microeconomic data. The objective is to derive actionable insights that can predict market movements and inform [trading strategies](../t/trading_strategies.md).
 

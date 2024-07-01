@@ -1,4 +1,4 @@
-# Dynamic Quantitative Models in Algorithmic Trading
+# Dynamic Quantitative Models
 
 [Algorithmic trading](../a/algorithmic_trading.md), or "algo trading," involves the use of computer algorithms to automatically execute trading orders in financial markets. These algorithms are developed using [quantitative models](../q/quantitative_models.md) that analyze historical data, optimize trade execution, and manage risk. Dynamic [Quantitative Models](../q/quantitative_models.md) (DQMs) are a subclass of these algorithms that adapt to changing market conditions in real-time, providing a robust and dynamic framework for decision-making.
 

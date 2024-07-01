@@ -1,4 +1,4 @@
-# Equity Research in Algorithmic Trading
+# Equity Research
 
 Equity research involves the analysis and evaluation of stocks (equities) to provide investment recommendations. The purpose of equity research is to help investors make informed decisions about buying, selling, or holding equities based on fundamental and [technical analysis](../t/technical_analysis.md). In the context of [algorithmic trading](../a/algorithmic_trading.md), equity research plays a crucial role in developing strategies that can be systematically executed by computer algorithms.
 

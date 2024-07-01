@@ -1,4 +1,6 @@
-# Algorithmic Trading Infrastructure refers to the technological and structural setup required to implement algorithmic trading strategies effectively. It encompasses a range of components and tools that work together to ensure the seamless operation of trading algorithms, from data acquisition and processing to execution and risk management.
+# Algorithmic Trading Infrastructure
+
+Algorithmic Trading Infrastructure refers to the technological and structural setup required to implement algorithmic trading strategies effectively. It encompasses a range of components and tools that work together to ensure the seamless operation of trading algorithms, from data acquisition and processing to execution and risk management.
 
 ## Components of Algorithmic Trading Infrastructure
 

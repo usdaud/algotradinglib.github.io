@@ -1,4 +1,4 @@
-# GARCH Filtering: A Detailed Exploration
+# GARCH Filtering
 
 In the context of [algorithmic trading](../a/algorithmic_trading.md) and [quantitative finance](../q/quantitative_finance.md), GARCH (Generalized Autoregressive Conditional Heteroskedasticity) filtering is a critical technique used to model and predict the volatility of [financial time series](../f/financial_time_series.md). This discussion delves into the intricacies of [GARCH models](../g/garch_models.md), their application in financial markets, and their significance for traders and financial analysts.
 

@@ -1,4 +1,4 @@
-# Zero-Sum Game Theory in Algorithmic Trading
+# Zero-Sum Game Theory
 
 [Zero-sum game](../z/zero-sum_game.md) theory is a significant concept in various fields, including economics, political science, and evolutionary biology. In finance and [algorithmic trading](../a/algorithmic_trading.md), it represents a framework for understanding the competitive dynamics among market participants. This detailed documentation explores the theory in the context of [algorithmic trading](../a/algorithmic_trading.md), elucidating its principles, applications, and implications.
 

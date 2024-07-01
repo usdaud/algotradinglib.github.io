@@ -1,4 +1,4 @@
-## Yield Volatility Strategies
+# Yield Volatility Strategies
 
 [Yield volatility](../y/yield_volatility.md) strategies are a sophisticated subset of financial trading techniques that focus on leveraging the fluctuations in yields of various financial instruments to generate profits. These strategies are particularly prominent in the bond market, where interest rate movements and yield changes play a central role. Below, we dive into the key concepts, methodologies, and tools used in [yield volatility](../y/yield_volatility.md) strategies, along with some notable examples and their real-world applications.
 

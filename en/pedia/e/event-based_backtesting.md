@@ -1,4 +1,4 @@
-## Event-Based Backtesting
+# Event-Based Backtesting
 
 ### Introduction
 

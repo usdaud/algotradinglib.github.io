@@ -1,4 +1,4 @@
-# 1-Year Yield in Algorithmic Trading
+# 1-Year Yield
 
 The 1-year yield is a financial metric that represents the return on an investment over a one-year period, usually expressed as a percentage. It is commonly used to evaluate the performance of various financial instruments such as bonds, fixed deposits, and other investment vehicles. In the context of [algorithmic trading](../a/algorithmic_trading.md), the 1-year yield can serve as a benchmark index to gauge the effectiveness of [trading strategies](../t/trading_strategies.md) over an annual period.
 

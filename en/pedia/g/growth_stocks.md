@@ -1,4 +1,4 @@
-## Growth Stocks
+# Growth Stocks
 
 Growth stocks represent shares in companies that are expected to grow at an above-average rate compared to other firms in the market. These companies typically reinvest their earnings into business expansion, research and development, and acquisition activities instead of paying out a dividend. Growth stocks are characterized by higher rates of revenue and earnings growth. Investors are generally willing to pay higher price-to-earnings (P/E) ratios for these stocks because they believe the companies will continue to outperform their peers. Below, we'll dive deep into the characteristics, benefits, risks, examples of growth stocks, and the factors influencing their performance.
 

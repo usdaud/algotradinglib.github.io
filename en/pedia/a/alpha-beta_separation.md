@@ -1,4 +1,4 @@
-# **Alpha-Beta Separation in Algorithmic Trading**
+# Alpha-Beta Separation
 
 ### Introduction
 

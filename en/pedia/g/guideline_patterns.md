@@ -1,4 +1,4 @@
-# Guideline Patterns in Algorithmic Trading
+# Guideline Patterns
 
 [Algorithmic trading](../a/algorithmic_trading.md), often referred to as algo trading or automated trading, involves the use of computer algorithms to execute trades in financial markets with minimal human intervention. These algorithms are designed to follow a specific set of instructions or patterns, which can range from simple to highly complex, to make trading decisions. The core idea is to take advantage of the speed, accuracy, and data-processing power that computers offer. Below, we delve into various guideline patterns essential in [algorithmic trading](../a/algorithmic_trading.md).
 

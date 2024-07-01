@@ -1,4 +1,4 @@
-# Government Policies in Trading
+# Government Policies
 
 Government policies play a significant role in shaping the landscape of trading, whether it is in traditional financial markets or in the burgeoning field of [algorithmic trading](../a/algorithmic_trading.md). These policies encompass a wide array of regulations, guidelines, and legislations that aim to maintain market integrity, protect investors, and ensure fair trading practices. This comprehensive overview will delve into the various types of governmental policies that influence trading, with a specific focus on [algorithmic trading](../a/algorithmic_trading.md).
 

@@ -1,4 +1,4 @@
-# Zero-Price Change in Algorithmic Trading
+# Zero-Price Change
 
 ## Introduction
 Zero-price change refers to a trading strategy or specific market condition where the price of a security does not change over a given period. This state can be influenced by a variety of factors, including market liquidity, trading volume, and the balance of buy and sell orders. In the context of [algorithmic trading](../a/algorithmic_trading.md), the concept of zero-price change can be leveraged to develop strategies aimed at exploiting market inefficiencies or minimizing the impact of transactions.

@@ -1,4 +1,4 @@
-# Algorithm Design in Algorithmic Trading
+# Algorithm Design
 
 [Algorithmic trading](../a/algorithmic_trading.md), also known as algo trading, is the process of using computer programs and systems to execute trades in financial markets based on pre-defined criteria. Central to the success of these [trading systems](../t/trading_systems.md) is the design of the algorithms that make the decisions. In this detailed exploration, we will discuss the critical aspects of algorithm design in [algorithmic trading](../a/algorithmic_trading.md), including the types of algorithms, their components, and the challenges faced during their development and implementation.
 

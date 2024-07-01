@@ -2,8 +2,6 @@
 
 Global market analysis is a critical component of any successful trading strategy, particularly in the fast-paced world of [algorithmic trading](../a/algorithmic_trading.md), or "algo trading." This form of trading utilizes computer algorithms to automate financial transactions, allowing for high-frequency trading (HFT) and other sophisticated [trading strategies](../t/trading_strategies.md). To effectively implement these strategies, traders must have a deep understanding of the global market landscape, including [economic indicators](../e/economic_indicators.md), [geopolitical events](../g/geopolitical_events.md), and sector-specific trends. This comprehensive guide explores these essential elements in detail.
 
----
-
 ## Economic Indicators
 
 [Economic indicators](../e/economic_indicators.md) are statistics about economic activities that allow market participants to assess the overall health of an economy. These indicators can have a significant impact on market movements and are therefore crucial for global market analysis.

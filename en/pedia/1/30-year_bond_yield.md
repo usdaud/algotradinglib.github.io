@@ -1,4 +1,4 @@
-# The 30-Year Bond Yield
+# 30-Year Bond Yield
 
 The 30-year bond yield is a crucial metric in the financial markets, representing the return on investment in the U.S. government's [30-year Treasury bond](../1/30-year_treasury_bond.md). This yield is closely watched by investors, economists, and policymakers because it serves as a benchmark for long-term interest rates, influencing various aspects of the economy, including mortgage rates, corporate borrowing costs, and other interest rates.
 

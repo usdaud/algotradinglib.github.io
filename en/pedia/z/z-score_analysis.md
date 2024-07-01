@@ -1,4 +1,4 @@
-# Z-Score Analysis in Algorithmic Trading
+# Z-Score Analysis
 
 In the realm of [algorithmic trading](../a/algorithmic_trading.md), mathematical and statistical tools are foundational elements used to develop [trading strategies](../t/trading_strategies.md). One such statistical tool that stands out for its versatility and effectiveness is the Z-Score. Z-Score analysis is an essential approach for assessing the statistical significance of a trading signal, identifying [mean reversion](../m/mean_reversion.md) opportunities, and detecting anomalies in [financial time series](../f/financial_time_series.md) data. This article delves into the intricacies of Z-Score analysis, its applications in [algorithmic trading](../a/algorithmic_trading.md), mathematical foundations, and practical implementation.
 

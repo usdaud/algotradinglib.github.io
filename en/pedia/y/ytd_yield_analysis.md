@@ -1,4 +1,4 @@
-# **YTD Yield Analysis in Algorithmic Trading**
+# YTD Yield Analysis
 
 Year-to-date (YTD) [yield analysis](../y/yield_analysis.md) is a critical component in assessing the performance of [trading strategies](../t/trading_strategies.md), especially in [algorithmic trading](../a/algorithmic_trading.md). This concept involves evaluating the returns that an investment or a portfolio has generated from the beginning of the current calendar year up to the present date. It is a widely used metric by traders, fund managers, and investors to gauge how well their investments are performing relative to the beginning of the year. In [algorithmic trading](../a/algorithmic_trading.md), YTD [yield analysis](../y/yield_analysis.md) can become quite intricate due to the complexities of algorithmic strategies.
 

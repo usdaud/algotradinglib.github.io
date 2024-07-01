@@ -1,4 +1,6 @@
-# The Z-Spread, also known as the Zero-volatility spread, is a crucial concept in fixed-income analysis and algorithmic trading. It is a measure that quantifies the yield spread which, when added to the spot rate curve, will discount a bond's cash flows to its present market price. Unlike other spread measures such as the nominal spread or the option-adjusted spread (OAS), the Z-Spread provides a more accurate valuation by incorporating the entire yield curve rather than a single yield point.
+# Z-Spread Analysis
+
+The Z-Spread, also known as the Zero-volatility spread, is a crucial concept in fixed-income analysis and algorithmic trading. It is a measure that quantifies the yield spread which, when added to the spot rate curve, will discount a bond's cash flows to its present market price. Unlike other spread measures such as the nominal spread or the option-adjusted spread (OAS), the Z-Spread provides a more accurate valuation by incorporating the entire yield curve rather than a single yield point.
 
 ### Introduction to Z-Spread Analysis
 

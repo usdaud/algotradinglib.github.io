@@ -1,4 +1,4 @@
-# 30-Day Trading Volume in the Context of Algorithmic Trading
+# 30-Day Trading Volume
 
 In the realm of financial markets, the 30-[day trading](../d/day_trading.md) volume is a crucial metric that investors and algorithmic traders closely monitor. This metric represents the total volume of a particular asset that has been traded in a 30-day period. The volume can be measured in terms of the number of shares traded, total dollar value of the trades, or other relevant units depending on the type of asset. 
 

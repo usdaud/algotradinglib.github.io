@@ -1,4 +1,4 @@
-### Yield Map Analysis in Algorithmic Trading
+# Yield Map Analysis
 
 Yield map analysis is a sophisticated technique within [algorithmic trading](../a/algorithmic_trading.md) that leverages quantitative methods to assess and predict financial market movements based on various yield curves and other related data points. This analysis aims to provide traders and investment managers with critical insights to make informed trading decisions. In this document, we'll delve deeply into the specifics of yield map analysis, its methodologies, applications, and the pivotal role it plays in the landscape of [algorithmic trading](../a/algorithmic_trading.md).
 

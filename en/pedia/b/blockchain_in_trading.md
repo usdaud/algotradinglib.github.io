@@ -1,4 +1,4 @@
-# Blockchain in Trading
+# Blockchain
 
 ## Introduction
 Blockchain technology, originally the backbone of cryptocurrency networks, has quickly evolved to demonstrate far-reaching applications beyond digital currencies. One of the sectors to experience substantial innovations due to blockchain is trading. The integration of blockchain into trading encompasses various aspects, from [trading algorithms](../t/trading_algorithms.md) and systems to clearing, settlement, and regulatory compliance. This document aims to provide an in-depth understanding of the role of blockchain in trading, its benefits, challenges, and future prospects.

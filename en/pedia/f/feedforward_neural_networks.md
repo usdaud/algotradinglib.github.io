@@ -1,4 +1,4 @@
-# Feedforward Neural Networks in Algorithmic Trading
+# Feedforward Neural Networks
 
 Feedforward Neural Networks (FNNs) are one of the fundamental architectures in deep learning and are extensively used in various applications, including [algorithmic trading](../a/algorithmic_trading.md). This document aims to provide a comprehensive overview of Feedforward Neural Networks and their application in the domain of [algorithmic trading](../a/algorithmic_trading.md).
 

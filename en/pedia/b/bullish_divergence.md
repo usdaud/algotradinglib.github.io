@@ -1,4 +1,4 @@
-# Bullish Divergence in Algorithmic Trading
+# Bullish Divergence
 
 Bullish divergence is a popular concept in [technical analysis](../t/technical_analysis.md), particularly among traders who use [algorithmic trading](../a/algorithmic_trading.md) strategies. It serves as a critical signal indicating a potential upward shift in an asset's price. In this article, we will delve deeply into the concept of bullish divergence, its mathematical foundation, practical application, benefits, and limitations. We'll also explore how algorithmic traders leverage this signal to enhance their [trading strategies](../t/trading_strategies.md).
 

@@ -1,4 +1,4 @@
-# Data Analysis Techniques in Algorithmic Trading
+# Data Analysis Techniques
 
 [Algorithmic trading](../a/algorithmic_trading.md), often called "algo trading," uses computer algorithms to automate trading activities, thereby enhancing trading efficiency and reducing the impact of human greed, fear, and other behavioral biases. Data analysis is a foundational element of successful [algorithmic trading](../a/algorithmic_trading.md) strategies. In this extensive guide, we will delve deep into the techniques used for data analysis in the context of [algorithmic trading](../a/algorithmic_trading.md).
 

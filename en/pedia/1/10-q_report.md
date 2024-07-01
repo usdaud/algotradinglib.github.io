@@ -1,4 +1,6 @@
-# A 10-Q report is an essential quarterly financial report mandated by the Securities and Exchange Commission (SEC) for all publicly traded companies in the United States. This report provides a comprehensive overview of a company's financial health and performance over a specific quarter. Unlike the more detailed annual 10-K report, the 10-Q is a less extensive document but still critical for investors, analysts, and other stakeholders to evaluate a company's ongoing performance and prospects.
+# 10-Q Report
+
+A 10-Q report is an essential quarterly financial report mandated by the Securities and Exchange Commission (SEC) for all publicly traded companies in the United States. This report provides a comprehensive overview of a company's financial health and performance over a specific quarter. Unlike the more detailed annual 10-K report, the 10-Q is a less extensive document but still critical for investors, analysts, and other stakeholders to evaluate a company's ongoing performance and prospects.
 
 ## Key Components of a 10-Q Report
 

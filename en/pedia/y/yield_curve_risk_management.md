@@ -1,4 +1,4 @@
-### Yield Curve Risk Management
+# Yield Curve Risk Management
 
 [Yield curve](../y/yield_curve.md) [risk management](../r/risk_management.md) is a critical aspect of [financial risk management](../f/financial_risk_management.md), particularly for portfolios of interest rate-sensitive instruments. As a fundamental concept in fixed-income markets, the [yield curve](../y/yield_curve.md) represents the relationship between interest rates and the maturities of debt securities of equivalent credit quality. However, the [yield curve](../y/yield_curve.md) is not static; it fluctuates due to changes in macroeconomic conditions, monetary policy, investor sentiment, and other factors. These fluctuations can significantly impact the valuation of fixed-income portfolios. [Yield curve](../y/yield_curve.md) risk refers to the potential for changes in the [yield curve](../y/yield_curve.md) to impact the financial positions of these portfolios. Effective management of this risk is necessary to mitigate potential losses and to optimize the performance of fixed-income investments.
 

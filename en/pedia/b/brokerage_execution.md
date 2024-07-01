@@ -1,4 +1,4 @@
-# Brokerage Execution in Algorithmic Trading
+# Brokerage Execution
 
 Brokerage execution is a critical component of [algorithmic trading](../a/algorithmic_trading.md), focusing on the method by which trades are fulfilled in the market. It involves the processes, technologies, and strategies employed to implement trade decisions and aims to achieve optimal results in terms of speed, cost, and accuracy. This document delves into the complexities of brokerage execution and its significance in the world of [algorithmic trading](../a/algorithmic_trading.md).
 

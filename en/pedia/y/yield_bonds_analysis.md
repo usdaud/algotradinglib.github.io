@@ -1,4 +1,4 @@
-# Yield Bonds Analysis in Algorithmic Trading
+# Yield Bonds Analysis
 
 In the financial markets, bonds represent a debt investment where investors loan money to a borrower (often corporate or governmental) for a defined period at a fixed interest rate. Yield bonds, in particular, are prominent in this sphere due to their significant roles in [portfolio diversification](../p/portfolio_diversification.md), [risk management](../r/risk_management.md), and return on investment.
 

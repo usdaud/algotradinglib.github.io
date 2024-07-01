@@ -1,4 +1,4 @@
-# **Yen Hedge Strategies in Algorithmic Trading**
+# Yen Hedge Strategies
 
 In the constantly evolving world of forex markets, effective [risk management](../r/risk_management.md) strategies become indispensable, particularly when dealing with volatile currencies such as the Japanese Yen (JPY). [Algorithmic trading](../a/algorithmic_trading.md), with its blend of computational efficiency and strategic implementation, has become a chief tool for traders intending to hedge against unwanted yen fluctuations. This article delineates the key methodologies, algorithms, and best practices for yen [hedging strategies](../h/hedging_strategies.md), suited for both retail and institutional investors.
 

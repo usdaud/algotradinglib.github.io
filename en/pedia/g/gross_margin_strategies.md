@@ -1,4 +1,4 @@
-# Gross Margin Strategies in Algorithmic Trading
+# Gross Margin Strategies
 
 ## Introduction
 Gross margin is a critical financial metric that measures the percentage of revenue that exceeds the cost of goods sold (COGS). It is a key indicator of a company's financial health and profitability. In the context of [algorithmic trading](../a/algorithmic_trading.md), gross margin strategies are employed to maximize profitability by optimizing the difference between revenue earned from trades and the costs associated with executing and managing those trades.

@@ -1,4 +1,4 @@
-## Gamma Adjustment in Algorithmic Trading
+# Gamma Adjustment
 
 Gamma adjustment refers to the adjustments made to a trading strategy or portfolio to manage the exposure to gamma risk. In the context of options trading, gamma (Γ) represents the rate of change of an option's delta (Δ) with respect to changes in the underlying asset's price. A higher gamma indicates a larger change in delta for a given change in the underlying asset’s price. Effective gamma management is crucial for maintaining a balanced portfolio and ensuring that overall risk is controlled.
 

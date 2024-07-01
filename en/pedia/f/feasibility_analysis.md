@@ -1,4 +1,4 @@
-# Feasibility Analysis in Algorithmic Trading
+# Feasibility Analysis
 
 Feasibility Analysis is a critical evaluation process in [algorithmic trading](../a/algorithmic_trading.md) that involves assessing the practicality and profitability of a particular trading strategy before its full-scale implementation. This analysis helps in determining whether the strategy can meet its objectives and operate effectively within the market conditions it is designed for. The following sections elucidate the various facets of Feasibility Analysis, exploring different dimensions that need thorough investigation.
 

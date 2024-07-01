@@ -1,4 +1,4 @@
-### Buyback Strategies in Algorithmic Trading
+# Buyback Strategies
 
 Stock buybacks, or repurchases, are a method by which companies buy back their own shares from the marketplace. There are various reasons companies choose to engage in buybacks, such as returning surplus cash to shareholders, reducing the number of shares outstanding (which can increase earnings per share), and signaling confidence in the company's prospects. [Algorithmic trading](../a/algorithmic_trading.md), or algotrading, enhances buyback strategies by utilizing computer algorithms to execute trades efficiently and at optimal prices. This detailed exploration delves into various aspects of buyback strategies within the realm of [algorithmic trading](../a/algorithmic_trading.md).
 

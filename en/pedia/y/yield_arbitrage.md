@@ -1,4 +1,4 @@
-### Yield Arbitrage
+# Yield Arbitrage
 
 Yield [arbitrage](../a/arbitrage.md), a pivotal financial strategy, is typically used by traders and investors to exploit differences in yields between various financial instruments. The term "yield" generally refers to the income return on an investment, and [arbitrage](../a/arbitrage.md) is the practice of taking advantage of price differences in different markets. Combining these concepts, yield [arbitrage](../a/arbitrage.md) involves exploiting discrepancies in yield spreads to generate profit with minimal risk. Yield [arbitrage](../a/arbitrage.md) can occur in various forms, including fixed-income securities, equities, [derivatives](../d/derivatives.md), or even cryptocurrencies.
 

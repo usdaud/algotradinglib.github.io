@@ -1,4 +1,4 @@
-# **Yield Spread Strategies in Algorithmic Trading**
+# Yield Spread Strategies
 
 In the domain of [algorithmic trading](../a/algorithmic_trading.md), [yield spread](../y/yield_spread.md) strategies are a crucial method employed by traders to capitalize on the difference in yields between various bonds or other fixed-income instruments. [Yield spread](../y/yield_spread.md), by definition, is the difference between yields on different debt instruments of varying maturities, credit ratings, issuers, or risk levels. [Yield spread](../y/yield_spread.md) strategies enable traders to manage risk better and optimize returns by analyzing and trading on these differences.
 

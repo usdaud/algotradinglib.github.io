@@ -1,4 +1,4 @@
-# Average Up Strategy in Algorithmic Trading
+# Average Up Strategy
 
 The Average Up strategy is a stock trading technique employed by traders and [algorithmic trading](../a/algorithmic_trading.md) systems designed to capitalize on upward movements in stock prices. This strategy involves buying more of a stock as its price increases, based on the logic that rising prices often signify favorable market conditions that will continue pushing the stock upwards. In this detailed examination, we will break down the nuances of the Average Up strategy, its integration in [algorithmic trading](../a/algorithmic_trading.md) platforms, its advantages, disadvantages, and best practices.
 

@@ -1,4 +1,4 @@
-## Yield Curve Scenarios
+# Yield Curve Scenarios
 
 ### Introduction to Yield Curves
 

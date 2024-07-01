@@ -1,4 +1,4 @@
-# Beta Coefficient in Algorithmic Trading
+# Beta Coefficient
 
 ## Introduction
 The Beta coefficient (β or sometimes denoted as beta) is a key financial metric used in the field of finance, particularly in the Capital Asset Pricing Model (CAPM), to measure the risk of a stock or a portfolio in comparison to the market as a whole. In the context of [algorithmic trading](../a/algorithmic_trading.md), beta plays a crucial role in [risk management](../r/risk_management.md) and performance analysis. By understanding beta, traders can make informed decisions about [portfolio diversification](../p/portfolio_diversification.md), [hedging strategies](../h/hedging_strategies.md), and risk assessment.

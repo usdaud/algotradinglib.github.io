@@ -1,4 +1,4 @@
-# Factor Models in Algorithmic Trading
+# Factor Models
 
 Factor models are a cornerstone in [financial modeling](../f/financial_modeling.md) and are used extensively in [algorithmic trading](../a/algorithmic_trading.md) to analyze, interpret, and forecast asset prices and their movements. This lengthy discussion will delve into the essential aspects of factor models, their relevance in financial markets, and the practical application in [algorithmic trading](../a/algorithmic_trading.md).
 

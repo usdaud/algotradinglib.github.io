@@ -1,4 +1,4 @@
-### Bond Convexity
+# Bond Convexity
 
 Bond convexity is a [risk management](../r/risk_management.md) tool that measures the sensitivity of a bond's duration to changes in interest rates. It is a second derivative measurement that provides a more accurate representation of interest rate risk than duration alone. Bond convexity helps investors assess the non-linear relationship between bond prices and interest rate changes, thus giving a deeper insight into how bond prices are likely to fluctuate as interest rates vary.
 

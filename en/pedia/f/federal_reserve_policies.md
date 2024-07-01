@@ -1,4 +1,4 @@
-## Federal Reserve Policies
+# Federal Reserve Policies
 
 The Federal Reserve, commonly referred to as the Fed, is the central banking system of the United States. Established on December 23, 1913, with the signing of the Federal Reserve Act by President Woodrow Wilson, the Fed's purpose is to provide the country with a safe, flexible, and stable monetary and financial system. The core functions of the Federal Reserve include conducting national monetary policy, supervising and regulating banking institutions, maintaining financial system stability, and providing financial services to depository institutions, the U.S. government, and foreign official institutions.
 

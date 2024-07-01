@@ -1,4 +1,4 @@
-## Fixed Income Analysis
+# Fixed Income Analysis
 
 Fixed income analysis represents a cornerstone of investment strategy and [financial modeling](../f/financial_modeling.md), revolving around securities that pay predetermined interest or dividend payments until maturity, at which point the principal is returned to the investor. This genre of financial analysis predominantly concerns bonds—although it includes other fixed income instruments like Treasury notes, certificates of deposit (CDs), and [municipal bonds](../m/municipal_bonds.md).
 

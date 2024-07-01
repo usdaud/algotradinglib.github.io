@@ -1,4 +1,4 @@
-## The 90% Rule in Algorithmic Trading
+# 90% Rule
 
 ### Introduction
 

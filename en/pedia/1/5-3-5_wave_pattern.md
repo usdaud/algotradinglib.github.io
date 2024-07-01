@@ -1,4 +1,4 @@
-### 5-3-5 Wave Pattern
+# 5-3-5 Wave Pattern
 
 The 5-3-5 wave pattern is a fundamental concept within the [Elliott Wave Theory](../e/elliott_wave_theory.md), which is a form of [technical analysis](../t/technical_analysis.md) used to describe price movements in financial markets. Developed by Ralph Nelson Elliott in the 1930s, the theory posits that market prices unfold in specific patterns driven by investor sentiment and psychology. Understanding the 5-3-5 wave pattern can provide traders with insights into market trends and potential turning points.
 

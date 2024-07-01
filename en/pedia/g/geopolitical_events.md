@@ -1,4 +1,4 @@
-# Geopolitical Events and Their Impact on Algorithmic Trading
+# Geopolitical Events and Their Impact
 
 [Algorithmic trading](../a/algorithmic_trading.md) refers to the use of computer algorithms to execute trading instructions in financial markets with speed and precision. Algorithms are designed to break down complex decision-making processes into simple, executable instructions, allowing traders to capitalize on market opportunities in real-time. One crucial factor that significantly influences [algorithmic trading](../a/algorithmic_trading.md) is geopolitical events. These events encompass political, social, and economic developments that affect international relations and the global economy, thus impacting financial markets.
 

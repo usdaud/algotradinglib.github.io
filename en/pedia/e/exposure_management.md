@@ -1,4 +1,4 @@
-### Exposure Management in Algorithmic Trading
+# Exposure Management
 
 Exposure management is a crucial component within the domain of [algorithmic trading](../a/algorithmic_trading.md), where the objective is to oversee and mitigate potential risks associated with trading positions. Efficient exposure management ensures that the risks are kept within acceptable limits, maintaining the integrity and profitability of the trading strategy. This comprehensive guide explores various facets of exposure management, including its importance, techniques, tools, best practices, and challenges.
 

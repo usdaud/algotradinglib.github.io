@@ -1,4 +1,4 @@
-# Average-Down Strategy in Algorithmic Trading
+# Average-Down Strategy
 
 ## Introduction
 The average-down strategy is a common investment tactic employed in both manual and [algorithmic trading](../a/algorithmic_trading.md). The strategy involves purchasing additional shares of a stock or other asset as its price declines, thereby lowering the average cost per share. This method is popular among traders and investors who are confident in the long-term prospects of an asset but may need to mitigate short-term volatility. In the realm of [algorithmic trading](../a/algorithmic_trading.md), this strategy can be systematically implemented using predefined rules and algorithms.

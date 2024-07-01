@@ -1,4 +1,4 @@
-### Drawdown Analysis in Algorithmic Trading
+# Drawdown Analysis
 
 Drawdown analysis is a critical component of [risk management](../r/risk_management.md) and performance evaluation in [algorithmic trading](../a/algorithmic_trading.md). It refers to the measure of decline from a peak to a trough in the value of an investment, portfolio, or trading account, typically expressed as a percentage. Understanding drawdown is essential for traders and investors, as it highlights the risks associated with [trading strategies](../t/trading_strategies.md) and can significantly impact decision-making processes.
 

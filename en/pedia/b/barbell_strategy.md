@@ -1,4 +1,4 @@
-### Barbell Strategy in Algo Trading
+# Barbell Strategy
 
 The term "Barbell Strategy" refers to an investment approach that focuses on balancing two extremes, often involving low-risk and high-risk elements, while avoiding the middle-ground. Originally conceptualized by Nassim Nicholas Taleb, the Barbell Strategy has been widely applied in various domains, including financial markets, [portfolio management](../p/portfolio_management.md), and, crucially, [algorithmic trading](../a/algorithmic_trading.md). This strategy aims for a blend of safety and outsized growth potential by combining stable, low-risk assets with aggressive, high-risk investments.
 

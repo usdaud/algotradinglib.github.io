@@ -1,4 +1,4 @@
-# Zero-Sum Market Strategies in Algorithmic Trading
+# Zero-Sum Market Strategies
 
 [Algorithmic trading](../a/algorithmic_trading.md), often referred to as "algo trading," leverages computer algorithms to automate the process of buying and selling financial instruments. In the realm of [algorithmic trading](../a/algorithmic_trading.md), one crucial concept is zero-sum market strategies. These strategies play a pivotal role in financial markets, especially in highly competitive areas like futures and options trading. This article delves into the intricacies of zero-sum markets and the strategies applied by algorithmic traders within these markets, providing a comprehensive understanding of the concepts and practical applications.
 
