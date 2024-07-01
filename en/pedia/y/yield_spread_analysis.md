@@ -1,4 +1,4 @@
-# Yield Spread Analysis in Algorithmic Trading
+# Yield Spread Analysis
 
 Yield [spread analysis](../s/spread_analysis.md) is a fundamental concept in the world of finance that involves evaluating the difference between yields on different debt instruments or fixed-income securities. This differential, known as the [yield spread](../y/yield_spread.md), provides significant insight into a range of economic and market conditions. In [algorithmic trading](../a/algorithmic_trading.md), yield [spread analysis](../s/spread_analysis.md) is a critical tool, enabling traders to make informed decisions based on the relative attractiveness of investment opportunities in the bond markets. This topic delves into the intricacies of yield [spread analysis](../s/spread_analysis.md), its importance, methodologies, and applications in [algorithmic trading](../a/algorithmic_trading.md).
 

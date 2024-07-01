@@ -1,4 +1,4 @@
-# **Asymmetric Volatility in Financial Markets**
+# Asymmetric Volatility
 
 Asymmetric volatility is a phenomenon observed in financial markets where the volatility of asset returns exhibits different characteristics during market upswings compared to market downturns. It fundamentally challenges the assumption of symmetric behaviors in traditional financial models and has profound implications for [risk management](../r/risk_management.md), portfolio construction, and derivative pricing.
 

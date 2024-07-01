@@ -1,4 +1,4 @@
-## False Breakout in Algorithmic Trading
+# False Breakout
 
 False breakouts, sometimes known as "fakeouts," are a frequent occurrence in financial markets, often leading to significant trading losses for the unprepared. Understanding false breakouts is essential for algorithmic traders to create robust [trading strategies](../t/trading_strategies.md) that can mitigate the impact of these deceptive movements. In this detailed explanation, we will explore what false breakouts are, their causes, detection methods, implications for [trading strategies](../t/trading_strategies.md), and specific algorithmic approaches to manage them.
 

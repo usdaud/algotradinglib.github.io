@@ -1,4 +1,4 @@
-### Yield Analysis Models in Algorithmic Trading
+# Yield Analysis Models
 
 [Yield analysis](../y/yield_analysis.md) models are vital components in the realm of [algorithmic trading](../a/algorithmic_trading.md), centering on the rigorous examination of financial yields generated from investments. They serve as quantitative tools that help in evaluating the performance of various [trading strategies](../t/trading_strategies.md) by providing metrics on returns. Let's delve into the construction, types, key features, and applications of these models in detail.
 

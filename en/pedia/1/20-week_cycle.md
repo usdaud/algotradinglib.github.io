@@ -1,9 +1,11 @@
-# The 20-Week Cycle in Algorithmic Trading
+# 20-Week Cycle
 
 ## Introduction
+
 The concept of [market cycles](../m/market_cycles.md) is vital in [technical analysis](../t/technical_analysis.md) and [algorithmic trading](../a/algorithmic_trading.md). One of the notable cycles is the 20-week cycle, which is used by traders to anticipate market movements and develop [trading strategies](../t/trading_strategies.md). This cycle can be broken down into the following sections:
 
 ## Historical Background
+
 The theory of [market cycles](../m/market_cycles.md) is rooted in the [Dow Theory](../d/dow_theory.md) and [Elliott Wave Theory](../e/elliott_wave_theory.md). [Market cycles](../m/market_cycles.md) can range from intraday to multi-year cycles. The 20-week cycle falls into the intermediate-term category, typically lasting between 17 to 23 weeks.
 
 #### Key Theories

@@ -1,4 +1,4 @@
-## 2-Factor Model in Algo Trading
+# 2-Factor Model
 
 The 2-Factor Model, also known as the two-factor model, is a financial model used to explain the returns of an asset or a portfolio through two distinct factors. This model is a form of multifactor model in financial mathematics, and it belongs to a broader class of [factor models](../f/factor_models.md) designed to capture the underlying relevant factors affecting asset returns. In the context of [algorithmic trading](../a/algorithmic_trading.md), the 2-Factor Model is especially important as it helps traders and [automated trading systems](../a/automated_trading_systems.md) make more informed decisions. 
 

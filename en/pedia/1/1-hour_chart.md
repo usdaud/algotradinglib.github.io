@@ -1,4 +1,4 @@
-# 1-Hour Chart in Algorithmic Trading
+# 1-Hour Chart
 
 In the dynamic world of [algorithmic trading](../a/algorithmic_trading.md), a 1-hour chart is a powerful tool used by traders to analyze market trends and make informed decisions. This chart represents the price movements of financial instruments within each one-hour period, giving traders a detailed view of short to medium-term trends. In this article, we will delve into the intricacies of the 1-hour chart, examining its applications, benefits, and how it is utilized in [algorithmic trading](../a/algorithmic_trading.md).
 

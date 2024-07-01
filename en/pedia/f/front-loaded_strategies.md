@@ -1,5 +1,4 @@
-# Front-Loaded Strategies in Algorithmic Trading
-==============================================
+# Front-Loaded Strategies
 
 ### Introduction
 Front-loaded [trading strategies](../t/trading_strategies.md) play a critical role in the financial markets. These strategies are designed to take advantage of certain events or periods that are known, or expected, to cause significant market movements. The critical essence of front-loaded strategies is that they place a significant portion of their trades near the start of the trading period or immediately after a triggering event.

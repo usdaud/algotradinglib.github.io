@@ -1,4 +1,4 @@
-## Contrarian Trading Strategies
+# Contrarian Trading Strategies
 
 Contrarian [trading strategies](../t/trading_strategies.md) are a popular approach in financial markets that revolve around going against the prevailing market trends. The core principle is to buy when others are selling and to sell when others are buying. Contrarian traders believe that the crowd is often wrong, and by taking the opposite position, they can capitalize on the market's tendency to overreact to news and events. This guide will explore the details of contrarian [trading strategies](../t/trading_strategies.md), including their underlying principles, popular methodologies, psychological aspects, key indicators, and notable examples.
 

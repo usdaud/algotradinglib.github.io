@@ -1,4 +1,4 @@
-## Yield Spread Trading
+# Yield Spread Trading
 
 Yield [spread trading](../s/spread_trading.md) is an essential strategy in the domain of algotrading, offering investors a way to capitalize on the differences in yields between various debt instruments. This trading technique involves taking long and short positions in two different bonds or other fixed-income securities to profit from the yield differential or spread between them. To understand the intricacies of yield [spread trading](../s/spread_trading.md), it's crucial to break down the concept into its fundamental components, analyze the mechanics of the strategy, and explore the tools and techniques used by professional traders and algorithmic systems.
 

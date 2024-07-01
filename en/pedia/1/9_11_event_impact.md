@@ -1,4 +1,4 @@
-### Impact of the 9/11 Event on Algorithmic Trading
+# 9/11 Event Impact
 
 The devastating events of September 11, 2001, had profound and far-reaching impacts on various industries, including finance, markets, and [algorithmic trading](../a/algorithmic_trading.md). This tragic event not only reshaped the geopolitical landscape but also had significant implications for financial markets and technological advancements in trading mechanisms.
 

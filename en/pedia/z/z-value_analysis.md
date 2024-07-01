@@ -1,4 +1,4 @@
-# Z-Value Analysis in Algorithmic Trading
+# Z-Value Analysis
 
 ## Introduction
 In the realm of [algorithmic trading](../a/algorithmic_trading.md), the Z-Value is a critical statistical measure that aids traders in the assessment of [trading strategies](../t/trading_strategies.md). The Z-Value, also known as the Z-Score, quantifies the number of standard deviations a data point is from the mean of a data set. It is a pivotal tool in determining how unusual or typical an outcome is within a given distribution. Understanding and applying Z-Value analysis enables traders to make informed decisions based on the probability of certain trading outcomes.

@@ -1,4 +1,4 @@
-### Execution Algorithms in Algorithmic Trading
+# Execution Algorithms
 
 Execution algorithms are specialized software programs used in [algorithmic trading](../a/algorithmic_trading.md) to dynamically manage the buying or selling of financial instruments. These algorithms are designed to optimize the execution process of an order, ensuring that it is carried out in the most efficient manner to minimize costs, market impact, and exposure to market risks. Execution algorithms are essential tools for institutional traders, hedge funds, and investment banks, as they allow for the systematic and sophisticated execution of large orders.
 

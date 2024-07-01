@@ -1,4 +1,6 @@
-# Dividend reinvestment is a powerful investment strategy in which an investor uses the cash dividends paid out by a company to purchase additional shares of the same company's stock rather than receiving the dividend payments in cash. This can be executed manually by the investor or automatically through a Dividend Reinvestment Plan (DRIP) offered by many corporations and brokerage firms.
+# Dividend Reinvestment
+
+Dividend reinvestment is a powerful investment strategy in which an investor uses the cash dividends paid out by a company to purchase additional shares of the same company's stock rather than receiving the dividend payments in cash. This can be executed manually by the investor or automatically through a Dividend Reinvestment Plan (DRIP) offered by many corporations and brokerage firms.
 
 ## Overview of Dividend Reinvestment
 

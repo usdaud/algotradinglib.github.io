@@ -1,4 +1,4 @@
-# 1-Month Moving Average in Algorithmic Trading
+# 1-Month Moving Average
 
 The financial markets are intricate and constantly evolving, demanding advanced methods and strategies to navigate effectively. One such technique is the "1-Month Moving Average," an essential tool in the arsenal of algorithmic traders. This concept, while straightforward in theory, becomes a powerful indicator when combined with other elements of [technical analysis](../t/technical_analysis.md) and [trading algorithms](../t/trading_algorithms.md).
 

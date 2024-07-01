@@ -1,4 +1,4 @@
-# The 80/20 Principle in Algorithmic Trading
+# 80/20 Principle
 
 The 80/20 Principle, also known as the Pareto Principle or the Law of the Vital Few, is a concept that postulates that roughly 80% of effects come from 20% of the causes. This principle, named after the Italian economist Vilfredo Pareto, has been applied across various fields, including economics, business, and personal productivity. In the context of [algorithmic trading](../a/algorithmic_trading.md), the 80/20 Principle can provide a critical edge for traders looking to optimize their strategies and enhance their performance. This document aims to explore the applications and implications of the 80/20 Principle in [algorithmic trading](../a/algorithmic_trading.md) in detail.
 

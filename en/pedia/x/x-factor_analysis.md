@@ -1,4 +1,4 @@
-## X-Factor Analysis
+# X-Factor Analysis
 
 X-[Factor Analysis](../f/factor_analysis.md) is a sophisticated methodology used in [algorithmic trading](../a/algorithmic_trading.md) to enhance [trading strategies](../t/trading_strategies.md) by identifying and leveraging additional factors that may influence asset prices. Unlike traditional analysis that primarily focuses on financial metrics such as earnings, revenue, and P/E ratios, X-[Factor Analysis](../f/factor_analysis.md) delves deeper into non-traditional and often non-quantitative factors. These can include but are not limited to [geopolitical events](../g/geopolitical_events.md), [social media sentiment](../s/social_media_sentiment.md), technological innovations, and macroeconomic shifts.
 

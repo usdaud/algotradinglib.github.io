@@ -1,6 +1,4 @@
-# **Benchmark Comparison in Algorithmic Trading**
-
----
+# Benchmark Comparison
 
 ### Introduction
 Benchmark comparison is a critical aspect within the domain of [algorithmic trading](../a/algorithmic_trading.md), serving as a yardstick to measure the performance of [trading algorithms](../t/trading_algorithms.md). An effective benchmark comparison can facilitate an objective evaluation, aiding traders and investors in making informed decisions regarding the efficacy of their [trading strategies](../t/trading_strategies.md).
@@ -60,4 +58,3 @@ Below are examples of firms that offer robust tools for benchmarking in [algorit
 
 ### Conclusion
 Benchmark comparison is indispensable for [algorithmic trading](../a/algorithmic_trading.md), providing a necessary framework for evaluating, optimizing, and communicating the effectiveness of [trading algorithms](../t/trading_algorithms.md). With the aid of advanced analytics and robust methodologies, traders can ensure that their strategies not only achieve absolute gains but also excel relative to established standards.
-

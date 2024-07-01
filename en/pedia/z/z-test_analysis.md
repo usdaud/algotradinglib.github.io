@@ -1,4 +1,4 @@
-# Z-Test Analysis in Algorithmic Trading
+# Z-Test Analysis
 
 ## Introduction
 

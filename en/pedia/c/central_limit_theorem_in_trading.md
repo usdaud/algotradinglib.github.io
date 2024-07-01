@@ -1,4 +1,4 @@
-### Central Limit Theorem in Trading
+# Central Limit Theorem in Trading
 
 The Central Limit Theorem (CLT) is a fundamental statistical principle that establishes that, given a sufficiently large sample size, the distribution of the sum (or average) of a set of independent, identically distributed random variables will approach a normal (Gaussian) distribution, regardless of the original distribution of the variables. This characteristic becomes vitally important in various applications, including [algorithmic trading](../a/algorithmic_trading.md).
 

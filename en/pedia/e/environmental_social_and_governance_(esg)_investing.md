@@ -1,4 +1,4 @@
-### Environmental, Social, and Governance (ESG) Investing
+# Environmental, Social, and Governance (ESG) Investing
 
 Environmental, Social, and Governance (ESG) investing refers to an investment strategy that considers the environmental, social, and governance factors of companies in addition to traditional financial analysis. This approach aims to generate long-term competitive financial returns and a positive societal impact. ESG investing has gained significant momentum over the past decade as investors increasingly recognize that these non-financial factors are critical in identifying opportunities and risks that could affect a firm's financial performance.
 

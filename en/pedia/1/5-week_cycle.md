@@ -1,4 +1,4 @@
-# 5-Week Cycle in Algorithmic Trading
+# 5-Week Cycle
 
 [Algorithmic trading](../a/algorithmic_trading.md), also known as algo-trading, utilizes algorithms to make trading decisions at speeds and frequencies that are unable to be matched by human traders. One of the critical aspects that many algorithms focus on is identifying and exploiting [market cycles](../m/market_cycles.md). Among these cycles, the 5-week cycle often serves as a significant pattern that can provide traders with predictive insights.
 

@@ -1,4 +1,4 @@
-# Analyzing Trading Costs in Algorithmic Trading
+# Analyzing Trading Costs
 
 In the world of [algorithmic trading](../a/algorithmic_trading.md), successful strategies depend on a deep understanding of various components, among which analyzing [trading costs](../t/trading_costs.md) is of paramount importance. [Trading costs](../t/trading_costs.md) can have a significant impact on the profitability of [algorithmic trading](../a/algorithmic_trading.md) strategies. Therefore, an in-depth comprehension of these costs and methods to minimize them is crucial for traders.
 

@@ -1,4 +1,4 @@
-# Algorithmic trading And Regulatory Compliance
+# Algorithmic Trading And Regulatory Compliance
 
 [Algorithmic trading](../a/algorithmic_trading.md), often referred to as algo-trading or black-box trading, involves the use of computer algorithms to automate [trading strategies](../t/trading_strategies.md). This advanced trading methodology utilizes mathematical models and complex algorithms to expedite and execute trades at speeds and frequencies that surpass human capacity. While [algorithmic trading](../a/algorithmic_trading.md) has seen incredible growth due to its efficiency and profitability potential, it has also come under the scrutiny of regulatory bodies aiming to ensure market integrity and investor protection. This article delves into the realm of [algorithmic trading](../a/algorithmic_trading.md) and its intersection with regulatory compliance, providing a comprehensive overview of the key issues, regulatory frameworks, and implications for market participants.
 

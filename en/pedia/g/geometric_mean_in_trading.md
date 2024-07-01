@@ -1,5 +1,4 @@
-# Geometric Mean in Trading
-=========================
+# Geometric Mean
 
 Geometric Mean Overview
 ------------------------

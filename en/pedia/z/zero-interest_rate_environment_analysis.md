@@ -1,4 +1,4 @@
-# Analysis of a Zero-Interest Rate Environment
+# Zero-Interest Rate Environment
 
 A zero-interest rate environment (ZIRE) occurs when a country's central bank lowers short-term interest rates to near zero, a monetary policy approach primarily aimed at stimulating economic growth during periods of severe economic downturn or recessed growth. This policy is utilized in several scenarios, such as during the financial crisis of 2008 and the COVID-19 pandemic, where normal monetary policy tools become ineffective in nurturing economic activity.
 

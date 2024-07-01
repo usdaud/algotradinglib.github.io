@@ -1,4 +1,4 @@
-# **Gann Angles**
+# Gann Angles
 
 In the dynamic world of financial markets and trading, various techniques, tools, and strategies are deployed to predict market movements and make informed trading decisions. One such technique is the use of **Gann Angles**, created by the legendary trader W.D. Gann. Gann Angles represent a unique approach to market analysis and trading. This article provides an in-depth exploration of Gann Angles, covering their inception, calculation, interpretation, and application in trading.
 

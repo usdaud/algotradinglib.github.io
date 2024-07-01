@@ -1,4 +1,4 @@
-# Zero Rate Curve: An In-Depth Analysis
+# Zero Rate Curve
 
 The zero rate curve, also known as the zero-coupon [yield curve](../y/yield_curve.md) or spot rate curve, represents the yields on zero-coupon bonds of different maturities. Zero-coupon bonds are unique financial instruments that do not pay periodic interest. Instead, they are sold at a discount to their face value and mature at par. The zero rate curve is crucial in financial markets for discounting cash flows, valuing bonds, and understanding the [term structure of interest rates](../t/term_structure_of_interest_rates.md).
 

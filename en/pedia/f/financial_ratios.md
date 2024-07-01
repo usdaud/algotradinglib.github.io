@@ -1,4 +1,4 @@
-# Financial Ratios in Algorithmic Trading
+# Financial Ratios
 
 Financial ratios are essential tools for analyzing and comparing the financial performance of companies. They play a crucial role in [algorithmic trading](../a/algorithmic_trading.md) by providing quantitative metrics that can help traders make informed decisions. In this comprehensive guide, we will delve into various financial ratios, their importance, and how they are used in [algorithmic trading](../a/algorithmic_trading.md).
 

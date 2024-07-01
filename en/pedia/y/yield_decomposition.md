@@ -1,4 +1,4 @@
-# Yield Decomposition in Algorithmic Trading
+# Yield Decomposition
 
 Yield decomposition is a quantitative financial concept which seeks to deconstruct the yield of a financial instrument, such as a bond or a stock, into its constituent components. This process enables traders, investors, and fund managers to understand better the sources of a security's return or yield. Given the complexity and rapid pace of financial markets, [algorithmic trading](../a/algorithmic_trading.md) systems often incorporate yield decomposition techniques to enhance decision-making processes and optimize investment strategies.
 

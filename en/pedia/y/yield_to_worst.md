@@ -1,4 +1,4 @@
-# Yield to Worst (YTW) in Algorithmic Trading
+# Yield to Worst
 
 Yield to Worst (YTW) is a critical financial metric used in the evaluation of bonds and other fixed-income securities. It represents the lowest potential yield an investor can achieve when holding a bond without the issuer defaulting. YTW is instrumental in helping investors make informed decisions about the risks and returns associated with different debt instruments.
 

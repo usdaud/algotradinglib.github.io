@@ -1,4 +1,4 @@
-# Government Regulation Impact on Algorithmic Trading
+# Government Regulation Impact
 
 ### Introduction
 

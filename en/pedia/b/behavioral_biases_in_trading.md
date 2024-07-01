@@ -1,4 +1,4 @@
-# Behavioral Biases in Trading
+# Behavioral Biases
 
 Behavioral biases have a profound impact on trading decisions, often leading to irrational and suboptimal market behaviors. Understanding these biases is crucial for both individual traders and institutional investors who aim to enhance their [trading strategies](../t/trading_strategies.md) and improve overall performance. This document outlines some of the most common behavioral biases that affect trading, explores their implications, and discusses strategies to mitigate their impact.
 

@@ -1,4 +1,4 @@
-# **Yield Management Strategies in Algorithmic Trading**
+# Yield Management Strategies
 
 Yield management, originally developed in the airline industry, has evolved to become a cornerstone strategy in various sectors, including finance. In financial markets, yield management strategies are employed to maximize returns on investments through the effective allocation and reallocation of assets. This intricate process, when combined with [algorithmic trading](../a/algorithmic_trading.md), can lead to significant improvements in investment performance. This document aims to provide a detailed overview of yield management strategies within the context of [algorithmic trading](../a/algorithmic_trading.md).
 

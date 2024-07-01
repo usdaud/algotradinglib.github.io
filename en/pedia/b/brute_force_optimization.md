@@ -1,4 +1,4 @@
-## Brute Force Optimization in Algorithmic Trading
+# Brute Force Optimization
 
 ### Introduction
 

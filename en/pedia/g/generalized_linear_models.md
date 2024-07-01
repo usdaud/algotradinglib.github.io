@@ -1,4 +1,4 @@
-# Generalized Linear Models in Algorithmic Trading
+# Generalized Linear Models
 
 ## Introduction
 

@@ -1,4 +1,4 @@
-## Gradual Exposure Strategies
+# Gradual Exposure Strategies
 
 In the world of [algorithmic trading](../a/algorithmic_trading.md), strategies that incorporate a gradual exposure approach are gaining prominence. These strategies aim to minimize market impact and leverage favorable market conditions to optimize trade execution and enhance profitability. This document delves into the concept of gradual exposure strategies, their mechanisms, benefits, and real-world applications, providing a comprehensive view suitable for both novice and seasoned traders.
 

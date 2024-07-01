@@ -1,4 +1,4 @@
-## Z-Value in Trading
+## Z-Value
 
 In the realm of [quantitative finance](../q/quantitative_finance.md) and [algorithmic trading](../a/algorithmic_trading.md), statistical concepts play a crucial role in making informed trading decisions. One prominent metric used extensively in statistical analysis is the Z-value, also known as the Z-score. The Z-value is an important measure in understanding the statistical significance of returns, risk, and various market behaviors. This detailed examination will explore the Z-value's foundations, applications, and implications in trading, providing insights for both traders and quantitative analysts.
 

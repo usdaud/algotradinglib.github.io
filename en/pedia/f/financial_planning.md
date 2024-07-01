@@ -1,4 +1,4 @@
-# Financial Planning in Algorithmic Trading
+# Financial Planning
 
 [Algorithmic trading](../a/algorithmic_trading.md), also known as algo-trading or black-box trading, is the use of pre-programmed software or algorithms to execute trades in financial markets. Employing complex algorithms allows traders to make decisions based on vast data far faster than a human could. This approach leverages mathematical models and automated processes to execute high-frequency and complex [trading strategies](../t/trading_strategies.md).
 

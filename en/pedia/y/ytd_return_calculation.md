@@ -1,4 +1,6 @@
-# The year-to-date (YTD) return is an essential metric used in the financial markets to evaluate the performance of an investment or a portfolio over the current calendar year. This measurement allows investors, analysts, and portfolio managers to track and compare the year-to-date performance of different investments, helping them to make informed decisions. Understanding how to calculate the YTD return effectively can aid in strategic planning, performance evaluation, and risk management. This article will delve deeply into the concept of YTD return calculation, illustrated examples, its importance, and practical applications in algorithmic trading.
+# YTD Return
+
+The year-to-date (YTD) return is an essential metric used in the financial markets to evaluate the performance of an investment or a portfolio over the current calendar year. This measurement allows investors, analysts, and portfolio managers to track and compare the year-to-date performance of different investments, helping them to make informed decisions. Understanding how to calculate the YTD return effectively can aid in strategic planning, performance evaluation, and risk management. This article will delve deeply into the concept of YTD return calculation, illustrated examples, its importance, and practical applications in algorithmic trading.
 
 ## What is YTD Return?
 

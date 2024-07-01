@@ -1,4 +1,4 @@
-# Benchmarking Strategies in Algorithmic Trading
+# Benchmarking Strategies
 
 Benchmarking is an essential practice in the financial markets, particularly in the context of [algorithmic trading](../a/algorithmic_trading.md). Benchmarking strategies involve comparing a trading system's performance against a standard or benchmark to evaluate its effectiveness and efficiency. This process helps traders and portfolio managers understand whether their [trading algorithms](../t/trading_algorithms.md) are adding value and outperforming the market or other relevant benchmarks.
 

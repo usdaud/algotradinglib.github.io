@@ -1,4 +1,6 @@
-# Graph theory, a subfield of discrete mathematics, has found a wide range of applications in various domains, including biology, computer science, and social sciences. One particularly intriguing application area where graph theory has been making significant strides is in the realm of financial markets, specifically in algorithmic trading (algo-trading). Algorithmic trading involves the use of complex algorithms to execute trades at high speeds and volumes. By incorporating graph theory into algorithmic trading, market participants can uncover complex relationships and patterns that might not be evident through traditional analysis.
+# Graph theory
+
+Graph theory, a subfield of discrete mathematics, has found a wide range of applications in various domains, including biology, computer science, and social sciences. One particularly intriguing application area where graph theory has been making significant strides is in the realm of financial markets, specifically in algorithmic trading (algo-trading). Algorithmic trading involves the use of complex algorithms to execute trades at high speeds and volumes. By incorporating graph theory into algorithmic trading, market participants can uncover complex relationships and patterns that might not be evident through traditional analysis.
 
 ### Basics of Graph Theory
 

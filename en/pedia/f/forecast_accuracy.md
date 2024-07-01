@@ -1,4 +1,4 @@
-# Forecast Accuracy in Algorithmic Trading
+# Forecast Accuracy
 
 Forecast accuracy is a critical component in the realm of [algorithmic trading](../a/algorithmic_trading.md), where decisions are driven by mathematical models and [quantitative analysis](../q/quantitative_analysis.md). The goal of forecast accuracy is to predict market movements and asset prices as precisely as possible, thereby maximizing trading profits and minimizing risks. Accurate forecasting can mean the difference between a successful trading strategy and a losing one. In this detailed examination, we'll explore the fundamentals, metrics, methods, tools, and challenges involved in forecast accuracy within [algorithmic trading](../a/algorithmic_trading.md).
 

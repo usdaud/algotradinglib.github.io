@@ -1,4 +1,4 @@
-### Energy Trading
+# Energy Trading
 
 Energy trading refers to the buying and selling of energy products, including electricity, natural gas, oil, and renewable energy certificates. This type of trading is crucial for balancing supply and demand, managing risk, and ensuring the efficient delivery of energy to consumers. Energy trading can be divided into two main categories: physical trading and financial trading.
 

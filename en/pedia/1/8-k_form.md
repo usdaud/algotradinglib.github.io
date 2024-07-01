@@ -1,4 +1,4 @@
-# **8-K Form in Algo Trading**
+# 8-K Form
 
 In the financial world, staying informed of material events is crucial for making educated decisions, particularly in the domain of [algorithmic trading](../a/algorithmic_trading.md) where speed and accuracy are paramount. One of the essential tools for maintaining this awareness is the 8-K form, a report that public companies in the United States must submit to the Securities and Exchange Commission (SEC). It provides an up-to-date snapshot of significant events that could impact a company's financial health or stock performance.
 

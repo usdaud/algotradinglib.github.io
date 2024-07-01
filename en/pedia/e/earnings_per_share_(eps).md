@@ -1,4 +1,4 @@
-## Earnings Per Share (EPS)
+# Earnings Per Share (EPS)
 
 ### Definition and Importance
 

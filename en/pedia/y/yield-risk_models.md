@@ -1,5 +1,4 @@
-# Yield-Risk Models in Algorithmic Trading
----
+# Yield-Risk Models
 
 Yield-Risk Models are essential tools in [algorithmic trading](../a/algorithmic_trading.md) for assessing potential returns against their inherent risks. These models help traders design, evaluate, and execute [trading strategies](../t/trading_strategies.md) by quantitatively analyzing historical data and market conditions. This document will delve into the intricacies of Yield-Risk Models, discussing their fundamental principles, types, key components, and applications in [algorithmic trading](../a/algorithmic_trading.md). 
 

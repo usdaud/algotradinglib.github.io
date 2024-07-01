@@ -1,4 +1,4 @@
-# **Dynamic Hedging**
+# Dynamic Hedging
 
 Dynamic hedging is a financial strategy employed in trading and investment to manage risk and protect a portfolio from adverse market movements. It involves continuously adjusting the positions of derivative instruments, such as options and futures, to maintain a market-neutral or balanced portfolio. This technique enables traders and investors to mitigate potential losses and stabilize returns in the face of market volatility.
 

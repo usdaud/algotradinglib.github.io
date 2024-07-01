@@ -1,4 +1,4 @@
-# Dimensionality Reduction in Trading
+# Dimensionality Reduction
 
 Dimensionality reduction is a key concept in the field of machine learning and data analysis, especially pertinent in trading and financial markets. As financial markets produce vast amounts of data with numerous variables (or "dimensions") such as price, volume, [economic indicators](../e/economic_indicators.md), and more, managing and extracting meaningful information from this high-dimensional data can be challenging. Dimensionality reduction techniques help simplify this data, making it easier to visualize, understand, and use in predictive models for [trading strategies](../t/trading_strategies.md).
 

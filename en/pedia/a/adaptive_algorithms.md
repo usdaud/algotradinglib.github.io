@@ -1,4 +1,4 @@
-# Adaptive Algorithms in Algorithmic Trading
+# Adaptive Algorithms
 
 [Algorithmic trading](../a/algorithmic_trading.md), also known as algo trading, refers to the use of computer algorithms to manage trading activities. These algorithms can adopt complex mathematical and computational formulas to execute transactions with greater speed and precision than human traders. An advanced area within this domain is the implementation of adaptive algorithms, which are designed to modify their behavior based on changes in the market environment.
 

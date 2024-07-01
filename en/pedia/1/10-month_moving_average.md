@@ -1,4 +1,4 @@
-# 10-Month Moving Average (10MMA) in Algorithmic Trading
+# 10-Month Moving Average
 
 The 10-month moving average (10MMA) is a commonly used technical indicator in financial markets, designed to help traders smooth out price data and identify trends by calculating the average of a security's prices over the last ten months. This long-term indicator is popular in [algorithmic trading](../a/algorithmic_trading.md), where automated systems systematically apply this calculation to make trading decisions. In the following sections, we will delve into the fundamentals, computation, applications, advantages, disadvantages, and practical implementations related to the 10-month moving average.
 

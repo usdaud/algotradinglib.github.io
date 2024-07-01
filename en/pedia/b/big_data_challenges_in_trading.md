@@ -1,4 +1,4 @@
-## Big Data Challenges in Trading
+# Big Data Challenges
 
 ### Introduction to Big Data in Trading
 

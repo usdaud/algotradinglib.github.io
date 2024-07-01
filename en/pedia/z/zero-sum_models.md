@@ -1,4 +1,4 @@
-## Zero-Sum Models in Algorithmic Trading
+## Zero-Sum Models
 
 ### Introduction to Zero-Sum Models
 

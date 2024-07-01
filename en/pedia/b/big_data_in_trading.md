@@ -1,4 +1,4 @@
-# Big Data in Trading
+# Big Data
 
 Big Data refers to the vast volume of data, both structured and unstructured, that inundates businesses daily. In trading, Big Data encompasses terabytes to petabytes of data streams generated from multiple sources including stock prices, trading volumes, news articles, social media, market sentiments, [economic indicators](../e/economic_indicators.md), and more. The advent of advanced computing technologies has allowed traders and financial firms to leverage Big Data for making more informed and precise trading decisions.
 

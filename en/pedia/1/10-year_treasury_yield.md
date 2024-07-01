@@ -1,4 +1,4 @@
-# The 10-Year Treasury Yield: A Comprehensive Overview
+# 10-Year Treasury Yield
 
 The 10-year Treasury yield is a critical barometer of various economic conditions and plays a pivotal role in the financial markets. It reflects the return investors can expect by holding U.S. government debt with a 10-year maturity. This yield is often considered a proxy for investor sentiment and future inflation expectations. Its movements are closely watched by economists, investors, and policymakers alike. This comprehensive overview delves into the mechanics, significance, influencing factors, and implications of the 10-year Treasury yield.
 

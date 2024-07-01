@@ -1,5 +1,4 @@
-# Bearish Reversal Patterns in Algorithmic Trading
-================================================
+# Bearish Reversal Patterns
 
 Bearish [reversal patterns](../r/reversal_patterns.md) are critical components of [technical analysis](../t/technical_analysis.md) in identifying potential turning points in the market where an uptrend might end, and a downtrend might begin. These patterns signify investor sentiment shifts from optimism to pessimism, driving the market downward.
 

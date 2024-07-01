@@ -1,4 +1,4 @@
-## Event-Triggered Algorithms
+# Event-Triggered Algorithms
 
 In the realm of [algorithmic trading](../a/algorithmic_trading.md), one of the most advanced and rapidly evolving approaches is the use of event-triggered algorithms. These algorithms are designed to make real-time trading decisions based on specific events that occur in the market or other related contexts. Unlike traditional models that may rely purely on time-series analysis or [price patterns](../p/price_patterns.md), event-triggered algorithms react to news, social media mentions, earnings reports, [geopolitical events](../g/geopolitical_events.md), and more. They offer a dynamic and responsive mechanism that can capitalize on transient opportunities and manage risks more effectively.
 

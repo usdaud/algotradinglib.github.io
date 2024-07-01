@@ -1,4 +1,4 @@
-# Algorithmic Trading: Mechanisms, Strategies, and Impact
+# Guideline Deviations
 
 [Algorithmic trading](../a/algorithmic_trading.md), commonly known as "algo-trading," is the process of executing trades in the financial markets using pre-programmed instructions. These instructions could be based on a wide array of variables including timing, price, volume, and complex mathematical models. The primary advantage of algo-trading is the ability to automate [trading strategies](../t/trading_strategies.md) at speeds and frequencies that are impossible for a human trader. This detailed discussion will cover various aspects of [algorithmic trading](../a/algorithmic_trading.md), including its mechanisms, strategies, technological advancements, regulatory environment, and its overall impact on the financial markets.
 

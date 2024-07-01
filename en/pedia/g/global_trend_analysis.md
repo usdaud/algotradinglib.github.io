@@ -1,4 +1,4 @@
-# Global Trend Analysis in Algorithmic Trading
+# Global Trend Analysis
 
 Global [Trend Analysis](../t/trend_analysis.md) (GTA) in [algorithmic trading](../a/algorithmic_trading.md) refers to the practice of identifying and interpreting trends in global financial markets to make informed trading decisions. This analytical approach leverages a vast array of data sources, advanced statistical methods, and machine learning algorithms to uncover patterns and predict future market movements across different asset classes, including equities, commodities, currencies, and [fixed income securities](../f/fixed_income_securities.md). The ultimate goal of GTA is to optimize [trading strategies](../t/trading_strategies.md), enhance profitability, and mitigate risks. 
 

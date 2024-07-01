@@ -1,4 +1,4 @@
-# Yield Mapping Models in Algorithmic Trading
+# Yield Mapping Models
 
 Yield mapping models are crucial tools in the [algorithmic trading](../a/algorithmic_trading.md) domain, aimed at estimating the future performance or returns of financial instruments, such as bonds, stocks, commodities, or other investment vehicles. These models leverage mathematical, statistical, and computational techniques to predict yields, providing traders and investment managers with data-driven insights to make informed decisions.
 

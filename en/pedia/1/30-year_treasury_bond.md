@@ -1,4 +1,4 @@
-### 30-Year Treasury Bond
+# 30-Year Treasury Bond
 
 The 30-Year Treasury Bond, often referred to simply as the "long bond," is a debt obligation issued by the United States Department of the Treasury with a maturity of 30 years from the date of issuance. As one of the longest maturities offered by the U.S. Treasury, it has a unique role in financial markets, serving as a benchmark for long-term interest rates and being extensively used in various investment strategies, including [algorithmic trading](../a/algorithmic_trading.md) (algo trading). This bond pays interest semiannually and is considered one of the safest investments due to being backed by the full faith and credit of the United States government.
 

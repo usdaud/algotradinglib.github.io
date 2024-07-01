@@ -1,4 +1,4 @@
-# The 30-Minute Chart in Algorithmic Trading
+# 30-Minute Chart
 
 The 30-minute chart stands as a pivotal time frame for algorithmic traders, offering a balanced view that encapsulates both the immediacy of short-term moves and the broader perspective necessary for strategic planning. Understanding this crucial tool requires a deep dive into the components, techniques, and strategies that make the 30-minute chart indispensable for modern traders.
 

@@ -1,4 +1,4 @@
-### Introduction to GARCH Models
+# GARCH Models
 
 GARCH (Generalized Autoregressive Conditional Heteroskedasticity) models are a class of econometric models used to estimate the volatility of [financial time series](../f/financial_time_series.md). Developed by Tim Bollerslev in 1986, GARCH models are an extension of Robert Engle's Autoregressive Conditional Heteroskedasticity (ARCH) model introduced in 1982. GARCH models are widely used in the fields of finance and economics to model time series data exhibiting [volatility clustering](../v/volatility_clustering.md)—a phenomenon where periods of high volatility tend to cluster together, followed by periods of relative calm.
 

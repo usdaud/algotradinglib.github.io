@@ -1,4 +1,4 @@
-### 5-Day RSI (Relative Strength Index)
+# 5-Day RSI
 
 The 5-Day RSI (Relative Strength Index) is a momentum oscillator that measures the speed and change of price movements over a 5-day period. This tool was developed by J. Welles Wilder Jr. and is widely used in [technical analysis](../t/technical_analysis.md) to identify overbought or oversold conditions in a security. The RSI oscillates between 0 and 100 and typically, a security is considered overbought when the RSI is above 70 and oversold when it is below 30. 
 

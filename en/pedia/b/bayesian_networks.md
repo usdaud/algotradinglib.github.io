@@ -1,4 +1,4 @@
-# Bayesian Networks in Algorithmic Trading
+# Bayesian Networks
 
 Bayesian networks, also known as belief networks or Bayesian belief networks, are a class of probabilistic graphical models that represent a set of variables and their conditional dependencies via a directed acyclic graph (DAG). These networks are valuable in [algorithmic trading](../a/algorithmic_trading.md) because they provide a way to model uncertainty, calculate probabilities, and make predictions based on observed data. Below is a detailed exploration of how Bayesian networks can be applied in the field of [algorithmic trading](../a/algorithmic_trading.md).
 

@@ -1,4 +1,4 @@
-# The Black-Litterman Model: A Comprehensive Guide
+# Black-Litterman Model
 
 The Black-Litterman model is a sophisticated framework developed to address shortcomings in traditional [mean-variance optimization](../m/mean-variance_optimization.md), and it is particularly relevant in the context of [algorithmic trading](../a/algorithmic_trading.md). Developed in 1990 by Fischer Black and Robert Litterman of Goldman Sachs, this model integrates subjective views about asset returns with market equilibrium to generate more stable and intuitive portfolio allocations. The interplay of [quantitative models](../q/quantitative_models.md) and qualitative opinions makes this model an invaluable tool for fund managers and traders who employ algorithmic strategies.
 

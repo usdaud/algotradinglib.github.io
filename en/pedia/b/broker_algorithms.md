@@ -1,4 +1,4 @@
-# Broker Algorithms in Algorithmic Trading
+# Broker Algorithms
 
 [Algorithmic trading](../a/algorithmic_trading.md), often referred to as "algo-trading," involves using computer programs and algorithms to execute trades at high speeds and frequencies that human traders cannot match. This automation is designed to take advantage of market conditions and price inefficiencies to make trading more efficient and profitable. One crucial component of [algorithmic trading](../a/algorithmic_trading.md) is broker algorithms, which play a significant role in the execution, timing, and strategy of trades. This article delves into broker algorithms, their types, functionalities, and the advantages and drawbacks they bring to the trading landscape.
 

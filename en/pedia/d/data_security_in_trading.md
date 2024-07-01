@@ -1,4 +1,4 @@
-# Data Security in Trading
+# Data Security
 
 Data security in trading is a critical aspect of modern financial markets. It involves ensuring the confidentiality, integrity, and availability of data used in trading operations. Trading data incorporates various forms such as [proprietary algorithms](../p/proprietary_algorithms.md), market data, client information, transaction records, and sensitive financial data. Ensuring the security of such data is paramount for safeguarding against breaches, financial losses, and reputational damage. This document covers the various facets of data security in trading, including the types of data involved, potential threats, security mechanisms, regulatory requirements, and emerging trends.
 

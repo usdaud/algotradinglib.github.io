@@ -1,4 +1,4 @@
-# Diversification Strategies in Algorithmic Trading
+# Diversification Strategies
 
 Diversification is a [risk management](../r/risk_management.md) strategy that involves spreading investments across various financial instruments, industries, or other categories to reduce exposure to any single asset or risk. In the context of [algorithmic trading](../a/algorithmic_trading.md), diversification strategies are implemented through sophisticated algorithms designed to optimize [portfolio performance](../p/portfolio_performance.md) while minimizing risk. This practice is crucial for maintaining stability in an investment portfolio, especially in highly volatile markets. Below, we provide a detailed explanation of diversification strategies applied in [algorithmic trading](../a/algorithmic_trading.md).
 

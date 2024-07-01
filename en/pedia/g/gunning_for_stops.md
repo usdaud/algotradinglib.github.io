@@ -1,4 +1,4 @@
-### Gunning for Stops
+# Gunning for Stops
 
 In the high-stakes world of financial trading, various strategies are employed to maximize returns while minimizing risk. One such tactic, often shrouded in controversy, is known as "gunning for stops." This strategy involves intentionally moving the price of a security to trigger [stop-loss orders](../s/stop-loss_orders.md), thus creating significant market movements that traders can exploit. This in-depth exploration will cover the fundamentals of gunning for stops, its mechanisms, implications, and ethical considerations.
 

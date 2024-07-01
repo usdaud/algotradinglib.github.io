@@ -1,4 +1,4 @@
-### 5-Day Simple Moving Average (SMA)
+# 5-Day SMA
 
 The **5-Day Simple Moving Average (SMA)** is a type of moving average that is commonly used in the world of trading and finance. It is one of the simplest forms of [technical analysis](../t/technical_analysis.md) used to analyze and predict market trends. This measure smooths out price data to help traders and investors identify patterns or trends more easily. 
 

@@ -1,4 +1,4 @@
-## Convex Optimization: Principles, Methods, and Applications in Algorithmic Trading
+# Convex Optimization
 
 ### Introduction to Convex Optimization
 

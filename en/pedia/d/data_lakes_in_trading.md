@@ -1,4 +1,4 @@
-# Data Lakes in Trading
+# Data Lakes
 
 In the evolving landscape of financial markets, [algorithmic trading](../a/algorithmic_trading.md) has become a cornerstone for executing complex strategies at scales that were previously unimaginable. A pivotal factor driving this evolution is the effective management and utilization of data. One concept that has gained significant traction in this domain is the implementation of "Data Lakes". This section delves into the conception, architecture, benefits, challenges, and future prospects of data lakes in the context of trading.
 

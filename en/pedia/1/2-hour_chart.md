@@ -1,4 +1,4 @@
-# The 2-Hour Chart in Algorithmic Trading
+# 2-Hour Chart
 
 In the realm of [algorithmic trading](../a/algorithmic_trading.md), diverse timeframes are meticulously analyzed to inform strategies and optimize trading decisions. Among the plethora of timeframes, the 2-hour chart is highly regarded for its balance between granularity and broader market trends. This article will delve into what a 2-hour chart is, why it's critical in [algorithmic trading](../a/algorithmic_trading.md), its advantages and drawbacks, its application, and how to incorporate it into your [trading algorithms](../t/trading_algorithms.md).
 

@@ -1,4 +1,4 @@
-## Compound Annual Growth Rate (CAGR)
+# Compound Annual Growth Rate (CAGR)
 
 ### Introduction
 The Compound Annual Growth Rate (CAGR) is a metric that is used to measure the mean annual growth rate of an investment over a specified time period longer than one year. CAGR is a useful measure because it represents one of the most accurate ways to calculate and determine returns for anything that can rise or fall in value over time. Unlike average annual returns, CAGR represents one rate that, if compounded over a period of years, would yield the investment's ending value.

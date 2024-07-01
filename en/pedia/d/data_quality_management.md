@@ -1,4 +1,4 @@
-# Data Quality Management in Algorithmic Trading
+# Data Quality Management
 
 [Algorithmic trading](../a/algorithmic_trading.md) relies heavily on the quality of data used to drive [trading strategies](../t/trading_strategies.md). Data Quality Management (DQM) is crucial in ensuring that the data utilized by [trading algorithms](../t/trading_algorithms.md) is accurate, complete, timely, and consistent. Poor data quality can lead to erroneous trading decisions, resulting in financial losses and missed opportunities. This detailed discussion on DQM in the realm of [algorithmic trading](../a/algorithmic_trading.md) will explore various dimensions including data sources, data validation, data governance, and tools and technologies used for managing data quality.
 

@@ -1,5 +1,4 @@
-# Grey Box Models in Algorithmic Trading
-======================================
+# Grey Box Models
 
 ### Introduction
 
@@ -102,4 +101,3 @@ Deploy the model into the trading system and continuously monitor its performanc
 Grey Box Models offer a unique and powerful approach for [algorithmic trading](../a/algorithmic_trading.md) by blending the best of both worlds: the interpretability and theoretical foundation of traditional statistical models with the predictive prowess of machine learning algorithms. Although complex to build and maintain, they provide a flexible and robust framework for making informed trading decisions and managing risks effectively.
 
 For firms and individuals looking to stay competitive in the fast-paced world of trading, adopting Grey Box Models can provide a significant edge, combining the predictability of white box approaches with the adaptability and performance of black box methods.
-

@@ -1,4 +1,4 @@
-### Foreign Exchange Exposure
+# Foreign Exchange Exposure
 
 Foreign exchange exposure, often known as "currency risk," is the risk that a business's financial performance or position will be affected by fluctuations in exchange rates. Exchange rates are affected by various factors such as interest rates, inflation, political stability, economic performance, and speculative actions. To manage this risk, businesses and investors adopt various [hedging strategies](../h/hedging_strategies.md) and financial instruments.
 

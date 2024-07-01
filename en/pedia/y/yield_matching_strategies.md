@@ -1,4 +1,4 @@
-# Yield Matching Strategies in Algorithmic Trading
+# Yield Matching Strategies
 
 [Yield Matching](../y/yield_matching.md) Strategies are one of the essential techniques in [algorithmic trading](../a/algorithmic_trading.md), designed to ensure that the returns on investments meet or exceed predefined benchmarks or goals. These strategies are often automated through sophisticated algorithms that analyze and react to market conditions in real-time. Here, we will discuss the various aspects, methodologies, and applications of [Yield Matching](../y/yield_matching.md) Strategies, delving deep into their significance in modern financial markets.
 

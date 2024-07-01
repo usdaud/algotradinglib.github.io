@@ -1,4 +1,4 @@
-# **3-Year Average Return in Algorithmic Trading**
+# 3-Year Average Return
 
 The 3-year average return is a financial metric that serves as an indicator of the performance of an investment or portfolio over a three-year period. Specifically, it averages the annual returns generated over this timeline. This calculation is essential for investors looking to evaluate the longer-term stability and viability of an investment strategy, like [algorithmic trading](../a/algorithmic_trading.md) (often abbreviated as "algo trading").
 

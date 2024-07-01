@@ -1,4 +1,4 @@
-## Digital Currency Trading
+# Digital Currency Trading
 
 Digital currency trading refers to the buying and selling of digital currencies, also known as cryptocurrencies, using various trading techniques. This market has grown exponentially over the past decade, transforming from a niche hobby to a global financial industry worth trillions of dollars. 
 

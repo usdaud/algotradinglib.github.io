@@ -1,4 +1,4 @@
-# 4-Day Rule in Algorithmic Trading
+# 4-Day Rule
 
 The "4-Day Rule," also known as the "Pattern Day Trader (PDT) Rule," is a regulation established by the Financial Industry Regulatory Authority (FINRA) in the United States. This rule mandates that a trader who makes more than three day trades within a rolling five-business-day period is classified as a Pattern Day Trader. This classification has significant implications for the trader's account, primarily pertaining to margin requirements and minimum equity.
 

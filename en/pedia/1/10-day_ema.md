@@ -1,4 +1,4 @@
-# 10-Day EMA (Exponential Moving Average)
+# 10-Day EMA
 
 The 10-day Exponential Moving Average (EMA) is a type of moving average used in [technical analysis](../t/technical_analysis.md) to smooth out price data and identify trend directions over a short period. Unlike the Simple Moving Average (SMA), which assigns equal weight to all prices in the time period, the EMA gives more weight to recent prices, making it more responsive to new information.
 

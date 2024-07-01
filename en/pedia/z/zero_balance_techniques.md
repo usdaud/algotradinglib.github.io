@@ -1,4 +1,4 @@
-# Zero Balance Techniques in Algorithmic Trading
+# Zero Balance Techniques
 
 [Zero balance](../z/zero_balance.md) techniques in [algorithmic trading](../a/algorithmic_trading.md) refer to methods and strategies that are designed to manage equity or position levels in [trading systems](../t/trading_systems.md). These techniques ensure that at the end of a trading session, the account or the positions it holds are brought close to zero, thereby minimizing overnight exposure and associated risks. This concept is critically important for high-frequency traders, market makers, and other [short-term trading](../s/short-term_trading.md) strategies.
 

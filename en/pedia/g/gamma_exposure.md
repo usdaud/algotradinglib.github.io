@@ -1,4 +1,4 @@
-# Gamma Exposure in Algorithmic Trading
+# Gamma Exposure
 
 Gamma exposure, often referred to as "GEX," is a crucial concept in the field of options trading, particularly for traders who deal with volatility and manage large portfolios of [derivatives](../d/derivatives.md). It is a measure of the sensitivity of an option's delta to changes in the price of the underlying asset. Understanding gamma exposure is key to managing risks and optimizing [trading strategies](../t/trading_strategies.md). This comprehensive examination will delve into the intricacies of gamma exposure, its applications in [algorithmic trading](../a/algorithmic_trading.md), and its impact on market dynamics.
 

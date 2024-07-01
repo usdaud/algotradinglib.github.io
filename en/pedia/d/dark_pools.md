@@ -1,4 +1,4 @@
-## Dark Pools in Algorithmic Trading
+# Dark Pools
 
 ### Introduction
 Dark pools are private financial forums or exchanges for trading securities. They allow investors, particularly institutional investors, to trade large blocks of shares without the transactions impacting the public markets until after the trade has been executed. This feature helps investors to avoid market impact, which typically results in adverse price movements when significant trades are disclosed to the public market.

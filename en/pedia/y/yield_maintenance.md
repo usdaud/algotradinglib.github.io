@@ -1,4 +1,4 @@
-# **Yield Maintenance in Algorithmic Trading**
+# Yield Maintenance
 
 ### Introduction
 Yield maintenance is a critical concept in the world of finance and investment, particularly relevant to fixed-income securities. In the context of [algorithmic trading](../a/algorithmic_trading.md), understanding and managing yield maintenance is instrumental in optimizing investment returns while effectively managing risk. This paper delves into the specifics of yield maintenance, its importance, methodologies, and the role it plays in [algorithmic trading](../a/algorithmic_trading.md) strategies.

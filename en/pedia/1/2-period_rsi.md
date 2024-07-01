@@ -1,4 +1,4 @@
-# 2-Period RSI (Relative Strength Index)
+# 2-Period RSI
 
 The Relative Strength Index (RSI) is a well-known momentum oscillator developed by J. Welles Wilder, which measures the speed and change of price movements. The RSI oscillates between zero and 100 and is typically used to identify overbought or oversold conditions in a market. While the typical RSI calculation uses a 14-period lookback, the 2-period RSI is a variation designed for shorter time frames to provide more sensitive and frequent signals. This approach is particularly useful for active traders who engage in short-term trades.
 

@@ -1,4 +1,4 @@
-### 4-Period Exponential Moving Average (EMA)
+# 4-Period EMA
 
 The 4-period Exponential Moving Average (EMA) is a type of moving average used in [technical analysis](../t/technical_analysis.md) to identify the trend direction of a stock or any financial asset based on its price data over a specified period. Unlike the Simple Moving Average (SMA), which equally weighs all data points in the period, the EMA gives exponentially more weight to recent prices, making it more responsive to new information. This characteristic allows traders to better capture short-term price movements and trends.
 

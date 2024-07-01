@@ -1,4 +1,4 @@
-## Growth and Value Investing
+# Growth and Value Investing
 
 Growth and [value investing](../v/value_investing.md) are two primary strategies used by investors to accumulate wealth in the stock market. These investment strategies focus on different types of stocks and companies, based on distinct criteria and metrics. To understand these strategies in-depth, we will examine their definitions, methodologies, advantages, disadvantages, and some real-world applications, including notable investors and firms that specialize in each approach.
 

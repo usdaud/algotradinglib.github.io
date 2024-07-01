@@ -1,4 +1,4 @@
-# Gaussian Processes in Algorithmic Trading
+# Gaussian Processes
 
 Gaussian Processes (GPs) are a powerful statistical tool that has gained significant popularity in machine learning and data science. They offer a flexible, non-parametric approach to modeling and predicting data. In the context of [algorithmic trading](../a/algorithmic_trading.md), GPs can be particularly useful for predicting asset prices, volatility surfaces, and other financial metrics, which are often complex and noisy. This document delves into the mathematical foundations of Gaussian Processes, their implementation, and their application in [algorithmic trading](../a/algorithmic_trading.md).
 

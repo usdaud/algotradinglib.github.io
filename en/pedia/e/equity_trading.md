@@ -1,4 +1,4 @@
-## Equity Trading
+# Equity Trading
 
 Equity Trading refers to the buying and selling of company shares or stocks in financial markets. Shares represent ownership in a company, and trading them involves transferring that ownership among investors. Equity trading can be conducted on various exchanges as well as over the counter (OTC). This process plays a crucial role in the global financial system, providing liquidity and enabling the efficient allocation of resources.
 

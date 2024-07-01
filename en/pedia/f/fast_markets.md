@@ -1,4 +1,4 @@
-## Fast Markets in Algorithmic Trading
+# Fast Markets
 
 ### Introduction
 Fast markets are periods during which the amount and speed of trading activity on financial exchanges increase dramatically. These periods usually occur during significant news events, major economic data releases, or unexpected announcements from corporations and governments. This document provides a comprehensive look into fast markets, their implications, and their role in [algorithmic trading](../a/algorithmic_trading.md).

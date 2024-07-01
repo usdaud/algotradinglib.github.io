@@ -1,4 +1,4 @@
-# Empirical Analysis in Trading
+# Empirical Analysis
 
 
 Empirical analysis in trading refers to the use of data-driven methods to study market behaviors and test [trading strategies](../t/trading_strategies.md). This approach relies on historical data and statistical techniques to draw conclusions about the effectiveness of different [trading strategies](../t/trading_strategies.md) and market dynamics. Here, we'll explore the key components and methodologies of empirical analysis in trading, including data collection, statistical tools, [backtesting](../b/backtesting.md), and the interpretation of results.

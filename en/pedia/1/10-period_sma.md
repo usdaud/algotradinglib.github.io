@@ -1,4 +1,4 @@
-# 10-Period Simple Moving Average (SMA)
+# 10-Period SMA
 
 The 10-period Simple Moving Average (SMA) is a common and fundamental [technical analysis](../t/technical_analysis.md) tool used in [algorithmic trading](../a/algorithmic_trading.md). It is a type of moving average, which is a statistical calculation used to analyze data points by creating a series of averages of different subsets of the complete data set. The 10-period SMA specifically helps traders determine the average price of an asset over the last 10 periods, be that 10 days, 10 hours, or any other time frames depending on the chart's setup.
 

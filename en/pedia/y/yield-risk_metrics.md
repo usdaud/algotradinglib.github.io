@@ -1,4 +1,4 @@
-## Yield-Risk Metrics in Algorithmic Trading
+# Yield-Risk Metrics
 
 ### Introduction to Yield-Risk Metrics
 

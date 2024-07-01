@@ -1,4 +1,4 @@
-# Global Equities in Algorithmic Trading
+# Global Equities
 
 ## Introduction to Global Equities
 

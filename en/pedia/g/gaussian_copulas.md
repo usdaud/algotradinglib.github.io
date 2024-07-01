@@ -1,5 +1,4 @@
-# Gaussian Copulas in Algorithmic Trading
-=======================================
+# Gaussian Copulas
 
 A Gaussian copula is a statistical tool used to describe the correlation between multiple variables, capturing the dependency structure among them. In [algorithmic trading](../a/algorithmic_trading.md), this mathematical concept is applied to model and measure the co-movements of different assets. By understanding these relationships, traders can create more effective [trading strategies](../t/trading_strategies.md), better manage risks, and optimize their portfolios.
 

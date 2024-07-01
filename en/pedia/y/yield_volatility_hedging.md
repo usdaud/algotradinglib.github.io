@@ -1,4 +1,6 @@
-# Yield volatility hedging is a critical concept within the realm of algorithmic trading (often abbreviated as "algotrading") that directly addresses the fluctuations in the yield of investments. Yield volatility reflects the variation in the investment returns over a specific period. The primary aim of yield volatility hedging is to minimize the risk associated with these fluctuations, thereby ensuring more stable returns or, in broader terms, reducing the uncertainty in the performance of the portfolio.
+# Yield Volatility
+
+Yield volatility hedging is a critical concept within the realm of algorithmic trading (often abbreviated as "algotrading") that directly addresses the fluctuations in the yield of investments. Yield volatility reflects the variation in the investment returns over a specific period. The primary aim of yield volatility hedging is to minimize the risk associated with these fluctuations, thereby ensuring more stable returns or, in broader terms, reducing the uncertainty in the performance of the portfolio.
 
 ### Yield Volatility
 

@@ -1,4 +1,4 @@
-# Understanding the 20-Year Bond in Algorithmic Trading
+# 20-Year Bond
 
 The 20-year bond, a type of fixed-income security, is a debt instrument with a maturation period of 20 years. This bond is issued by various entities, including governments, municipalities, and corporations, and is used to raise capital for different purposes. Financial institutions and investors leverage the 20-year bond for its predictable interest payments and relative safety compared to equities. In the context of [algorithmic trading](../a/algorithmic_trading.md), the 20-year bond provides unique opportunities and challenges that necessitate sophisticated modeling and strategic considerations.
 

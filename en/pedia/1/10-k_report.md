@@ -1,4 +1,4 @@
-# The 10-K Report in Algorithmic Trading
+# 10-K Report
 
 The 10-K report is an essential document for understanding publicly-traded companies, providing a comprehensive overview of their business operations, financial condition, and managerial performance over the past fiscal year. This detailed annual report is filed by companies to the U.S. Securities and Exchange Commission (SEC) and is required under the Securities Exchange Act of 1934 for all publicly traded companies in the United States. The 10-K report stands as a cornerstone document for investors, analysts, and researchers, who rely on the depth of information it offers to make informed investment decisions. This level of detail is especially critical in the realm of [algorithmic trading](../a/algorithmic_trading.md), where quantitative data and financial metrics are used to inform [trading strategies](../t/trading_strategies.md).
 

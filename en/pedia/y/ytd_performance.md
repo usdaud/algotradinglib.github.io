@@ -1,4 +1,4 @@
-## Understanding YTD (Year-to-Date) Performance in Algo Trading
+# YTD (Year-to-Date) Performance
 
 In the realm of financial markets and trading, particularly in [algorithmic trading](../a/algorithmic_trading.md), the term "Year-to-Date" (YTD) performance holds significant importance. YTD performance gives traders, investors, and analysts a metric to analyze the profitability or performance of a trading portfolio, strategy, or financial instrument from the beginning of the current calendar year up to the current date. This metric provides valuable insights into how well an investment strategy has performed over a specific period, making it easier to compare and analyze results.
 

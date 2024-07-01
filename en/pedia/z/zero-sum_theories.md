@@ -1,4 +1,4 @@
-# Zero-Sum Theories in Algorithmic Trading
+# Zero-Sum Theories
 
 In the world of finance, and particularly in [algorithmic trading](../a/algorithmic_trading.md), zero-sum theories form a fundamental part of understanding market dynamics. This concept underpins many of the strategies and models that traders use to gain a competitive edge. Zero-sum theories propose that for one participant to gain in trading, another must lose an equivalent amount. In this extensive discussion, we will delve into the intricacies of these theories and their implications on [algorithmic trading](../a/algorithmic_trading.md).
 

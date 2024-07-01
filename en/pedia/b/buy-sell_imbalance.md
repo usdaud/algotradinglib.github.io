@@ -1,4 +1,4 @@
-# Buy-Sell Imbalance in Algorithmic Trading
+# Buy-Sell Imbalance
 
 Buy-Sell Imbalance (BSI) is a measure used by traders, particularly those involved in [algorithmic trading](../a/algorithmic_trading.md), to gauge the relative buying and selling activities in the market. Specifically, it quantifies the difference between the number of buy orders and sell orders for a particular security over a given period. This concept is crucial for understanding market sentiment, liquidity, and potential price movements. 
 

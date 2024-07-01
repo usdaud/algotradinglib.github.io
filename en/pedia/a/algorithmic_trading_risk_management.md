@@ -1,4 +1,4 @@
-## Algorithmic Trading Risk Management
+# Algorithmic Trading Risk Management
 
 [Algorithmic trading](../a/algorithmic_trading.md), often referred to as algo-trading or black-box trading, uses computer algorithms to execute trading orders at speeds and frequencies that a human trader cannot. While [algorithmic trading](../a/algorithmic_trading.md) provides numerous benefits, such as increased speed, reduced costs, and enhanced trading efficiency, it also introduces various risks that need to be meticulously managed. [Risk management](../r/risk_management.md) in [algorithmic trading](../a/algorithmic_trading.md) is crucial to prevent significant financial losses and ensure the stability of the trading system.
 

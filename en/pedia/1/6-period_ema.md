@@ -1,4 +1,4 @@
-## 6-Period EMA
+# 6-Period EMA
 
 The 6-Period Exponential Moving Average (EMA) is a [technical analysis](../t/technical_analysis.md) tool used in the financial markets, particularly in algotrading, to smooth price data and identify the direction of a trend. Unlike the simple moving average (SMA), which gives equal weight to all data points in the period, the EMA places more weight on recent prices, making it more sensitive to new information. This higher sensitivity to new data makes the EMA particularly useful for detecting short-term trends.
 

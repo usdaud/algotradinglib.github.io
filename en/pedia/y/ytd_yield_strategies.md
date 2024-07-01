@@ -1,4 +1,4 @@
-# YTD Yield Strategies in Algorithmic Trading
+# YTD Yield Strategies
 
 Yield-To-Date (YTD) is a metric used to assess the performance of an investment up to the current date within a calendar year. Yield strategies aim to maximize this yield by employing various methods and techniques. In the context of [algorithmic trading](../a/algorithmic_trading.md), YTD yield strategies use advanced algorithms and technology to exploit market opportunities and optimize returns. This document presents an in-depth exploration of YTD yield strategies, their implementation in [algorithmic trading](../a/algorithmic_trading.md), common techniques, and relevant companies using these strategies.
 

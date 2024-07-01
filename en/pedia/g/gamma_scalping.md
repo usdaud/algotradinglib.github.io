@@ -1,4 +1,6 @@
-# Gamma scalping is a sophisticated trading strategy primarily used by options traders to profit from the dynamic price movements in the underlying asset. This strategy is tightly linked with other key Greek metrics in options trading, specifically delta and gamma, and requires comprehensive knowledge of how these Greeks interact over time and with changes in the price of the underlying asset. Below is an in-depth exploration of gamma scalping, its principles, methods, and applications.
+# Gamma scalping
+
+Gamma scalping is a sophisticated trading strategy primarily used by options traders to profit from the dynamic price movements in the underlying asset. This strategy is tightly linked with other key Greek metrics in options trading, specifically delta and gamma, and requires comprehensive knowledge of how these Greeks interact over time and with changes in the price of the underlying asset. Below is an in-depth exploration of gamma scalping, its principles, methods, and applications.
 
 ## Understanding Key Concepts
 

@@ -1,4 +1,4 @@
-# Zero Dividend Strategies in Algorithmic Trading
+# Zero Dividend Strategies
 
 In the realm of [algorithmic trading](../a/algorithmic_trading.md), strategies can be as diverse as the financial products they manage. Among these strategies, zero [dividend strategies](../d/dividend_strategies.md) stand out as a specialized approach that has gained attention from both retail and institutional investors. This comprehensive discussion explores zero [dividend strategies](../d/dividend_strategies.md), their underlying principles, different methodologies, and their advantages and disadvantages. 
 

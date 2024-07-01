@@ -1,4 +1,4 @@
-# Z-Value Calculation in Algorithmic Trading
+# Z-Value Calculation
 
 The Z-value, also known as the Z-score or standard score, is a statistical measurement that describes a value's relationship to the mean of a group of values. In the context of [algorithmic trading](../a/algorithmic_trading.md), the Z-value is often used to quantify the deviation of asset price movements from their expected norm, such as to identify overbought or oversold conditions, model risk, and fine-tune [trading strategies](../t/trading_strategies.md). This metric is foundational in understanding the normal distribution of returns and the likelihood of occurrences under standard deviation band settings. 
 

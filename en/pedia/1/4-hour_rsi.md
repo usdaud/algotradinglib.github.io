@@ -1,4 +1,6 @@
-# The 4-hour Relative Strength Index (RSI) is a momentum oscillator used in technical analysis to measure the speed and change of price movements over a specified period. RSI ranges from 0 to 100, with levels above 70 indicating overbought conditions and levels below 30 indicating oversold conditions. The 4-hour RSI is a variant that analyzes price data in 4-hour intervals, providing a mid-term perspective on market momentum. This tool is particularly useful for traders who engage in short to mid-term trading strategies, including algorithmic trading.
+# 4-Hour RSI
+
+The 4-hour Relative Strength Index (RSI) is a momentum oscillator used in technical analysis to measure the speed and change of price movements over a specified period. RSI ranges from 0 to 100, with levels above 70 indicating overbought conditions and levels below 30 indicating oversold conditions. The 4-hour RSI is a variant that analyzes price data in 4-hour intervals, providing a mid-term perspective on market momentum. This tool is particularly useful for traders who engage in short to mid-term trading strategies, including algorithmic trading.
 
 ## Overview
 Relative Strength Index (RSI) is one of the most popular [technical indicators](../t/technical_indicators.md) used by traders. Developed by J. Welles Wilder, it was first introduced in his 1978 book "New Concepts in Technical [Trading Systems](../t/trading_systems.md)." RSI measures the magnitude of recent price changes to evaluate overbought or oversold conditions in the price of a stock or other asset.

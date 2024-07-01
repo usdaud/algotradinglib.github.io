@@ -1,4 +1,4 @@
-# Yield Coefficient in Algorithmic Trading
+# Yield Coefficient
 
 In the realm of [algorithmic trading](../a/algorithmic_trading.md), where trades are executed by algorithms at speeds and frequencies that are beyond human capabilities, certain mathematical and statistical measures become integral to the trading process. Among the important metrics is the yield coefficient, a parameter that quantifies the efficiency and profitability of an [algorithmic trading](../a/algorithmic_trading.md) strategy. 
 

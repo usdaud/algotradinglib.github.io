@@ -1,4 +1,4 @@
-## 9-EMA (Exponential Moving Average)
+# 9-EMA
 
 The 9-EMA, or 9-day Exponential Moving Average, is a fundamental [technical analysis](../t/technical_analysis.md) tool used extensively in [algorithmic trading](../a/algorithmic_trading.md) and other forms of market analysis. Unlike the simple moving average (SMA), which assigns equal weight to all observations over a given period, the exponential moving average gives more significance to the most recent data points, making it more responsive to new information and short-term price fluctuations.
 

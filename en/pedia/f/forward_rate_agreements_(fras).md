@@ -1,4 +1,4 @@
-### Forward Rate Agreements (FRAs)
+# Forward Rate Agreements (FRAs)
 
 Forward Rate Agreements, commonly termed as FRAs, are financial contracts between two parties to exchange interest payments on a future date, based on a notional principal amount. Essentially, they are agreements to borrow or lend at a fixed interest rate in the future. Unlike typical loans, the principal amount in FRAs is not exchanged. Instead, the parties settle the difference between the agreed fixed interest rate and the prevailing market rate at the contract inception.
 

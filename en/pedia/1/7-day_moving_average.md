@@ -1,4 +1,4 @@
-### 7-Day Moving Average in Algorithmic Trading
+# 7-Day Moving Average
 
 The 7-day moving average is a technical indicator commonly used in [algorithmic trading](../a/algorithmic_trading.md) to smooth out short-term fluctuations and highlight longer-term trends in price data. As a widely utilized tool, it helps traders and analysts make more informed decisions by filtering out the "noise" from random price movements, thereby providing a clearer view of the underlying price trajectory.
 

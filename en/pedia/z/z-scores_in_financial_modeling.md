@@ -1,4 +1,4 @@
-# **Z-Scores in Financial Modeling**
+# Z-Scores in Financial Modeling
 
 Z-scores are a statistical measurement that describe a value's relationship to the mean of a group of values. It is measured in terms of standard deviations from the mean. In [financial modeling](../f/financial_modeling.md), Z-scores are commonly used as a means to standardize returns, identify anomalies, and perform various types of [comparative analysis](../c/comparative_analysis.md). The formula for calculating a Z-score is:
 

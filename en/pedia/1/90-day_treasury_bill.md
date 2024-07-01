@@ -1,4 +1,6 @@
-# The 90-Day Treasury Bill (T-Bill) is a short-term debt obligation backed by the U.S. government with a maturity of 90 days. As a cornerstone instrument in the money markets, it provides numerous advantages and insights into economic conditions, especially in the context of algorithmic trading. Here, we delve into the intricate details of the 90-Day T-Bill, its workings, implications, and significance in the realm of algotrading.
+# 90-Day Treasury Bill
+
+The 90-Day Treasury Bill (T-Bill) is a short-term debt obligation backed by the U.S. government with a maturity of 90 days. As a cornerstone instrument in the money markets, it provides numerous advantages and insights into economic conditions, especially in the context of algorithmic trading. Here, we delve into the intricate details of the 90-Day T-Bill, its workings, implications, and significance in the realm of algotrading.
 
 ### Understanding Treasury Bills
 

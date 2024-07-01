@@ -1,4 +1,4 @@
-# The 3-Period RSI (Relative Strength Index)
+# 3-Period RSI
 
 In [algorithmic trading](../a/algorithmic_trading.md), one of the most widely used [technical indicators](../t/technical_indicators.md) for quantifying the momentum of asset prices is the Relative Strength Index (RSI). The RSI was introduced by J. Welles Wilder in his 1978 book "New Concepts in Technical [Trading Systems](../t/trading_systems.md)." The RSI is a momentum oscillator that measures the speed and change of price movements. It oscillates between 0 and 100 and is typically used to identify overbought or oversold conditions in a market. While the standard RSI calculation uses a 14-period timeframe, shorter period RSIs, such as the 3-period RSI, are also commonly employed, particularly in [short-term trading](../s/short-term_trading.md) strategies.
 

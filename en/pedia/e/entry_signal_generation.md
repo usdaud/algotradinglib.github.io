@@ -1,4 +1,4 @@
-# Entry Signal Generation in Algorithmic Trading
+# Entry Signal Generation
 
 In the domain of [algorithmic trading](../a/algorithmic_trading.md), one of the most critical components of a trading strategy is the generation of entry signals. These signals determine when a trader should enter a position in the market, whether it is to buy (long) or to sell (short). Generating reliable and accurate entry signals can be the difference between a profitable strategy and a losing one. This documentation dives into various methods, techniques, and considerations required for robust entry signal generation.
 

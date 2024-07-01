@@ -1,4 +1,4 @@
-# The 2-Day Rule in Algorithmic Trading
+# 2-Day Rule
 
 The 2-Day Rule, also known in various iterations and contexts, is a tactical guideline in financial markets and [algorithmic trading](../a/algorithmic_trading.md). It aims to leverage short-term [price patterns](../p/price_patterns.md) to predict future stock movements. This rule is based on the assumption that stock prices that have moved significantly in one direction over two days are likely to exhibit a reversal or a continuation.
 

@@ -1,4 +1,6 @@
-# Entry and exit strategies are crucial components in algorithmic trading. Successful trading requires precise and well-thought-out decisions on when to enter and exit trades. These strategies help manage risk, optimize profits, and improve trading consistency. Below are detailed explanations of various entry and exit strategies used in algorithmic trading, along with examples, advantages, and disadvantages.
+# Entry and Exit Strategies
+
+Entry and exit strategies are crucial components in algorithmic trading. Successful trading requires precise and well-thought-out decisions on when to enter and exit trades. These strategies help manage risk, optimize profits, and improve trading consistency. Below are detailed explanations of various entry and exit strategies used in algorithmic trading, along with examples, advantages, and disadvantages.
 
 ### Entry Strategies
 

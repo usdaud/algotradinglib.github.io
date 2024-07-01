@@ -1,4 +1,4 @@
-# Gaussian Distribution in Algorithmic Trading
+# Gaussian Distribution
 
 The Gaussian distribution, also known as the normal distribution, is one of the most important probability distributions in statistics and is widely used in various fields including finance and [algorithmic trading](../a/algorithmic_trading.md). Named after Carl Friedrich Gauss, it has a bell curve shape and is characterized by its mean (μ) and standard deviation (σ). In [algorithmic trading](../a/algorithmic_trading.md), understanding and applying the Gaussian distribution can help in modeling the distribution of asset returns, [risk management](../r/risk_management.md), and in constructing robust [trading algorithms](../t/trading_algorithms.md).
 

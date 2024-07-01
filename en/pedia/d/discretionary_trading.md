@@ -1,4 +1,6 @@
-# Discretionary trading is a type of trading strategy whereby buy and sell decisions are made by a human trader, as opposed to being determined by a pre-defined algorithm. This approach relies heavily on the trader's judgment, experience, and knowledge of the market to make investment decisions. In this document, we will explore the different aspects of discretionary trading, including its principles, techniques, psychological factors, advantages, challenges, and comparisons with algorithmic trading.
+# Discretionary Trading
+
+Discretionary trading is a type of trading strategy whereby buy and sell decisions are made by a human trader, as opposed to being determined by a pre-defined algorithm. This approach relies heavily on the trader's judgment, experience, and knowledge of the market to make investment decisions. In this document, we will explore the different aspects of discretionary trading, including its principles, techniques, psychological factors, advantages, challenges, and comparisons with algorithmic trading.
 
 ### Principles of Discretionary Trading
 

@@ -1,4 +1,4 @@
-# Yield Curve Analysis in Algorithmic Trading
+# Yield Curve Analysis
 
 [Yield curve](../y/yield_curve.md) analysis is a cornerstone concept in the world of fixed-income securities, particularly in bond trading. It represents the relationship between interest rates (or yields) of bonds of varying maturities, typically government bonds. The [yield curve](../y/yield_curve.md) itself is a graphical plot that shows the yields on bonds over a range of different maturities. This relationship can provide insights into future interest rate changes and economic activity. [Algorithmic trading](../a/algorithmic_trading.md), which relies heavily on mathematical models and [computational algorithms](../c/computational_algorithms.md), utilizes [yield curve](../y/yield_curve.md) analysis to inform [trading strategies](../t/trading_strategies.md). This document provides an in-depth exploration of [yield curve](../y/yield_curve.md) analysis and its applications in [algorithmic trading](../a/algorithmic_trading.md).
 

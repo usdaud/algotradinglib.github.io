@@ -1,5 +1,4 @@
 # Beta Hedging
-------------
 
 ### Introduction to Beta Hedging
 

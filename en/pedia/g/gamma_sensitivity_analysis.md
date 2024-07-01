@@ -1,4 +1,4 @@
-# Gamma Sensitivity Analysis in Algorithmic Trading
+# Gamma Sensitivity Analysis
 
 In the dynamic realm of [algorithmic trading](../a/algorithmic_trading.md), it is imperative to understand various risks and sensitivities associated with financial instruments to manage portfolios effectively. One such crucial metric is Gamma, a second-order Greek derived from options pricing models, primarily the [Black-Scholes model](../b/black-scholes_model.md). The Gamma of an option measures the rate of change of the Delta with respect to changes in the underlying asset's price. Therefore, Gamma Sensitivity Analysis allows traders to understand and manage the non-linear risks in their portfolios, fundamentally affecting their [hedging strategies](../h/hedging_strategies.md) and risk-management policies.
 

@@ -1,4 +1,4 @@
-## Clearing and Settlement in Algorithmic Trading
+# Clearing and Settlement
 
 Clearing and settlement are critical financial processes that ensure the successful completion of transactions in [algorithmic trading](../a/algorithmic_trading.md). They form the backbone of the financial markets by providing mechanisms to manage risks, confirm trade details, and ensure the exchange of securities and funds between trading parties.
 

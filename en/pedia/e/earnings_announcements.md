@@ -1,4 +1,4 @@
-## Earnings Announcements in Algorithmic Trading
+# Earnings Announcements
 
 ### Introduction
 Earnings announcements are pivotal events within the financial markets, as they provide an official public statement of a company's profitability over a specific period. They significantly influence stock prices and can induce volatility, presenting unique opportunities and challenges for traders, particularly those engaged in [algorithmic trading](../a/algorithmic_trading.md). This document explores the nuances of earnings announcements, their impact on the market, and how algorithmic traders can leverage this information to devise profitable [trading strategies](../t/trading_strategies.md).

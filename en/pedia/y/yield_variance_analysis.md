@@ -1,4 +1,4 @@
-### Yield Variance Analysis in Algorithmic Trading
+# Yield Variance Analysis
 
 Yield [Variance Analysis](../v/variance_analysis.md) (YVA) is a quantitative evaluation technique frequently utilized in the realm of [algorithmic trading](../a/algorithmic_trading.md) to analyze the differences between expected and realized yields. This process plays a critical role in facilitating successful [trading strategies](../t/trading_strategies.md) by identifying discrepancies and understanding their origins. YVA can help algorithmic traders optimize their [trading algorithms](../t/trading_algorithms.md), manage risks more effectively, and achieve more consistent performance.
 

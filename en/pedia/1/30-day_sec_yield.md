@@ -1,4 +1,4 @@
-# **30-Day SEC Yield**
+# 30-Day SEC Yield
 
 The 30-Day SEC Yield is a standardized yield calculation developed by the U.S. Securities and Exchange Commission (SEC) to provide a fair and standardized comparison of bond fund yields. It represents the net investment income earned by a fund over a specified 30-day period, expressed as an annual percentage rate based on the fund’s share price. This yield measure is widely used in the mutual fund industry to give investors a realistic and transparent look at what they might expect to gain from bond investments. Understanding the 30-Day SEC Yield involves delving into its calculation, significance, and implications for investors.
 

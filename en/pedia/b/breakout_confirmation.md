@@ -1,4 +1,4 @@
-# Breakout Confirmation in Algorithmic Trading
+# Breakout Confirmation
 
 In the realm of [algorithmic trading](../a/algorithmic_trading.md), one of the most pivotal concepts for traders is recognizing and confirming breakouts. A breakout typically refers to a price movement of an asset that exits a defined support or resistance level with increased volume. Correctly identifying and confirming breakouts can lead traders to substantial profits, while falsely identifying them, known as false breakouts or whipsaws, can lead to significant losses. This document delves deeply into the principles, methods, and techniques used to confirm breakouts in [algorithmic trading](../a/algorithmic_trading.md).
 

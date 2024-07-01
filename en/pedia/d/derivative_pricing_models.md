@@ -1,4 +1,4 @@
-# **Derivative Pricing Models**
+# Derivative Pricing Models
 
 The financial markets have evolved considerably over the years, and with that evolution has come an increasing complexity in the instruments available for trading. Among these instruments are [derivatives](../d/derivatives.md), which are financial contracts whose value is derived from the value of an underlying asset. [Derivatives](../d/derivatives.md) can be based on a variety of underlying assets including stocks, bonds, commodities, currencies, interest rates, and market indexes. Given their complexity, the pricing of [derivatives](../d/derivatives.md) requires sophisticated models that can accurately determine their value in various market conditions. This article aims to provide a comprehensive overview of some of the most prominent derivative pricing models used in the industry today.
 

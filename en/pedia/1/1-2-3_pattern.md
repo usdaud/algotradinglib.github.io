@@ -1,4 +1,4 @@
-# The 1-2-3 Pattern
+# 1-2-3 Pattern
 
 The 1-2-3 pattern is a well-known and simple yet powerful [technical analysis](../t/technical_analysis.md) tool used by traders, particularly in the realm of [algorithmic trading](../a/algorithmic_trading.md). This pattern is often employed to identify potential trend reversals in the financial markets. It consists of three distinct points forming either a pattern signifying a potential bullish or bearish reversal. Despite its simplicity, it’s a favorite among traders due to its effectiveness in recognizing turning points in price movement.
 

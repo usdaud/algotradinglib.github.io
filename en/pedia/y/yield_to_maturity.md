@@ -1,4 +1,4 @@
-### Yield to Maturity (YTM)
+# Yield to Maturity
 
 Yield to Maturity (YTM) is a critical concept in the field of finance, particularly in bond investing and [algorithmic trading](../a/algorithmic_trading.md). It represents the total return anticipated on a bond if the bond is held until it matures. YTM is often expressed as an annual percentage rate and is considered a long-term bond yield that accounts for the present value of its future coupon payments.
 

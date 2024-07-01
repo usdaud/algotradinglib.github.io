@@ -1,4 +1,6 @@
-# A Gaussian Mixture Model (GMM) is a probabilistic model that assumes all the data points are generated from a mixture of a finite number of Gaussian distributions with unknown parameters. GMMs are a type of statistical model that can be used to identify subpopulations within an overall population without requiring that an observed dataset have labeled data. The model assumes that the population is a mixture of several Gaussian distributions with unknown parameters, making it a type of generative model.
+# Gaussian Mixture Model
+
+A Gaussian Mixture Model (GMM) is a probabilistic model that assumes all the data points are generated from a mixture of a finite number of Gaussian distributions with unknown parameters. GMMs are a type of statistical model that can be used to identify subpopulations within an overall population without requiring that an observed dataset have labeled data. The model assumes that the population is a mixture of several Gaussian distributions with unknown parameters, making it a type of generative model.
 
 ### Understanding Gaussian Mixture Models
 

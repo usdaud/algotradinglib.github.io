@@ -1,4 +1,4 @@
-# Edge Ratio in Algorithmic Trading
+# Edge Ratio
 
 ## Introduction
 The Edge Ratio is a fundamental concept in [algorithmic trading](../a/algorithmic_trading.md), denoting a statistical measure used to evaluate the profitability and efficiency of [trading strategies](../t/trading_strategies.md). It is an essential tool for traders to understand their perceived advantage in the market. As trading becomes more complex with the advent of technology and increased competition, calculating an edge ratio provides a scientific approach to identifying and optimizing a profitable decision-making framework. 

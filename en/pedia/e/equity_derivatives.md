@@ -1,4 +1,4 @@
-## Equity Derivatives
+# Equity Derivatives
 
 Equity [derivatives](../d/derivatives.md) are financial instruments whose value is derived from the price movements of the underlying equity securities. They are used primarily for hedging, speculation, and [arbitrage](../a/arbitrage.md). Equity [derivatives](../d/derivatives.md) include options, futures, warrants, convertible bonds, and swaps. Each of these instruments has unique characteristics and potential uses in a variety of [trading strategies](../t/trading_strategies.md). In this comprehensive overview, we will delve into the various types of equity [derivatives](../d/derivatives.md), their functions, and their importance in financial markets.
 

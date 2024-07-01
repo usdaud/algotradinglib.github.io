@@ -1,4 +1,4 @@
-## Buy and Hold Strategy
+# Buy and Hold Strategy
 
 Buy and Hold is an investment strategy that involves purchasing securities and holding them for a long period, regardless of fluctuations in the market. This strategy is grounded in the belief that, over the long term, market prices will appreciate, and the investor will realize substantial gains. Buy and Hold is often contrasted with more active [trading strategies](../t/trading_strategies.md), where investors frequently buy and sell securities to profit from short-term price movements.
 

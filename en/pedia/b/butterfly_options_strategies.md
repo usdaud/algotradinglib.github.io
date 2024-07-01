@@ -1,4 +1,6 @@
-# Butterfly Options Strategies are a set of advanced options trading strategies that involve multiple legs (contracts) aimed at exploiting different market scenarios, typically with limited risk and controlled profit potential. The primary allure of these strategies is their capacity to allow traders to profit from a range of market conditions—whether the market is moving up, down, or staying neutral. In this guide, we will dive deep into the various types of butterfly options strategies, their construction, suitability, and practical applications.
+# Butterfly Options Strategies
+
+Butterfly Options Strategies are a set of advanced options trading strategies that involve multiple legs (contracts) aimed at exploiting different market scenarios, typically with limited risk and controlled profit potential. The primary allure of these strategies is their capacity to allow traders to profit from a range of market conditions—whether the market is moving up, down, or staying neutral. In this guide, we will dive deep into the various types of butterfly options strategies, their construction, suitability, and practical applications.
 
 ### Types of Butterfly Options Strategies
 

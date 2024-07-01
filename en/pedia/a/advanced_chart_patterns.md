@@ -1,4 +1,4 @@
-# Advanced Chart Patterns in Algorithmic Trading
+# Advanced Chart Patterns
 
 In the realm of [algorithmic trading](../a/algorithmic_trading.md), advanced [chart patterns](../c/chart_patterns.md) present a crucial component of the decision-making process. These patterns, rooted in [technical analysis](../t/technical_analysis.md), assist in forecasting future price movements based on the historical price data. Advanced [chart patterns](../c/chart_patterns.md) extend beyond the basic formations and can include complex shapes and arrangements that require sophisticated techniques to identify and interpret.
 

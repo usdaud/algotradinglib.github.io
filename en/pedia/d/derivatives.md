@@ -1,4 +1,4 @@
-# Derivatives in Algorithmic Trading
+# Derivatives
 
 Derivatives are financial contracts whose value is derived from the performance of underlying assets, indices, or rates. They are essential instruments used in various trading and [risk management](../r/risk_management.md) strategies, including [algorithmic trading](../a/algorithmic_trading.md). This extensive explanation will cover key aspects such as the types of derivatives, how they work, their role in [algorithmic trading](../a/algorithmic_trading.md), risks and benefits, and notable institutions involved in derivatives trading.
 

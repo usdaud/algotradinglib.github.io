@@ -1,4 +1,4 @@
-# Gamma Theoretical Models in Algorithmic Trading
+# Gamma Theoretical Models
 
 ## Introduction to Gamma
 Gamma is a critical concept in options trading and the broader field of financial [derivatives](../d/derivatives.md). It measures the rate of change of an option's delta with respect to changes in the underlying asset's price. As such, gamma can be thought of as the "acceleration" of an option's price sensitivity to the underlying asset. Professionals in [algorithmic trading](../a/algorithmic_trading.md) — particularly those involved with options — need a thorough understanding of gamma to optimize their strategies and manage risk effectively.

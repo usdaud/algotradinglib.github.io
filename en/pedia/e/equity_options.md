@@ -1,4 +1,4 @@
-## Equity Options
+# Equity Options
 
 An equity option is a type of derivative financial instrument that provides the holder the right, but not the obligation, to buy or sell a specific amount of shares of an underlying stock at a predetermined price within a specified timeframe. These financial instruments are pivotal in the field of [algorithmic trading](../a/algorithmic_trading.md), where complex models and strategies rely heavily on the precise understanding and manipulation of such tools.
 

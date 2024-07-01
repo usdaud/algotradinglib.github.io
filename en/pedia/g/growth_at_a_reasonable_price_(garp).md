@@ -1,5 +1,4 @@
 # Growth at a Reasonable Price (GARP)
-===================================
 
 **Growth at a Reasonable Price (GARP)** is an investment strategy that combines qualities of both [growth investing](../g/growth_investing.md) and [value investing](../v/value_investing.md). The principle behind GARP is to find stocks that are anticipated to grow earnings at an above-average rate but whose valuations are still reasonable given their growth prospects. The GARP strategy helps investors balance the potentially high returns of [growth investing](../g/growth_investing.md) with the risk mitigation of [value investing](../v/value_investing.md) by focusing on companies with solid growth potential that are not overvalued.
 

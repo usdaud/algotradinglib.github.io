@@ -1,4 +1,4 @@
-# Ensemble Learning in Algorithmic Trading
+# Ensemble Learning
 
 Ensemble learning is a powerful technique in machine learning that involves combining multiple models to improve the overall performance of a predictive system. It leverages the strengths and mitigates the weaknesses of individual models by aggregating their predictions. Ensemble methods are particularly valuable in [algorithmic trading](../a/algorithmic_trading.md), where the goal is to develop robust and accurate models for predicting market movements and making profitable trading decisions.
 

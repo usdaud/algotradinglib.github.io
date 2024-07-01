@@ -1,4 +1,4 @@
-# Beta Management in Algorithmic Trading
+# Beta Management
 
 Beta management plays a crucial role in the domain of [algorithmic trading](../a/algorithmic_trading.md). To appreciate the importance of beta management fully, it is essential to delve into the concepts of beta analysis, the methods used for beta management, the tools involved, and the ways beta management impacts investment strategies and portfolio outcomes.
 

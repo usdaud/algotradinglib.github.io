@@ -1,4 +1,4 @@
-# Dynamic Programming in Trading
+# Dynamic Programming
 
 Dynamic programming (DP) is a mathematical optimization methodology that simplifies complex problems by breaking them down into simpler subproblems. It efficiently solves these subproblems just once and stores their solutions – typically using a memory-based data structure (array, map, etc.) – to avoid the computational expense of solving the same subproblem multiple times. The core principle of dynamic programming is the principle of optimality, which posits that an optimal solution to a problem contains within it the optimal solutions to subproblems. DP has profound applications in [algorithmic trading](../a/algorithmic_trading.md), enabling traders to devise strategies that optimize for expected returns while mitigating risks.
 

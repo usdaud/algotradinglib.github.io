@@ -1,4 +1,4 @@
-## 2-Week High/Low Strategy in Algorithmic Trading
+# 2-Week High/Low Strategy
 
 ### Introduction
 

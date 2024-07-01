@@ -1,4 +1,4 @@
-# Alpha Generation in Algorithmic Trading
+# Alpha Generation
 
 Alpha generation is a crucial concept in the world of finance, particularly within the realm of [algorithmic trading](../a/algorithmic_trading.md). It refers to the ability of a trading strategy or a portfolio manager to outperform the market or a specific benchmark. Alpha is often considered the 'holy grail' of investment management, representing the value that a trader or portfolio manager adds to an investment’s returns beyond the performance of the market itself.
 

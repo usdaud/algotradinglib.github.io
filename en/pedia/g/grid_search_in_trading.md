@@ -1,4 +1,4 @@
-# Grid Search in Trading
+# Grid Search
 
 Grid search is a hyperparameter optimization technique traditionally used in machine learning, but it has found significant application in the realm of [algorithmic trading](../a/algorithmic_trading.md). The primary goal of grid search in trading is to optimize strategy parameters to maximize the [performance metrics](../p/performance_metrics.md) such as returns, [Sharpe ratio](../s/sharpe_ratio.md), [Sortino ratio](../s/sortino_ratio.md), and other risk-adjusted performance measures.
 

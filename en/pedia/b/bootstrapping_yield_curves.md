@@ -1,4 +1,4 @@
-## Bootstrapping Yield Curves in Algorithmic Trading
+# Bootstrapping Yield Curves
 
 ### Introduction
 

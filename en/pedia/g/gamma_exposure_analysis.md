@@ -1,6 +1,7 @@
-## Gamma Exposure Analysis
+# Gamma Exposure Analysis
 
 ### Introduction to Gamma Exposure
+
 [Gamma exposure](../g/gamma_exposure.md), also known as "GEX" in the world of finance, is a crucial metric for traders and investors who engage in options trading. It is fundamentally related to the concept of gamma in options trading, which is a measure of the rate of change in an option's delta (Δ) relative to changes in the price of the underlying asset. Gamma itself is the second derivative of the option's price with respect to the underlying asset's price.
 
 In essence, [gamma exposure](../g/gamma_exposure.md) analysis involves evaluating how the changes in the price of an underlying security can impact the delta of an options position and, consequently, the overall risk and potential profitability of that position. Traders analyze [gamma exposure](../g/gamma_exposure.md) to understand the potential for sudden and substantial changes in their positions due to movements in the market.

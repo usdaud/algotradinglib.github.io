@@ -1,4 +1,4 @@
-## Introduction to 30-Day RSI (Relative Strength Index)
+# 30-Day RSI
 
 The Relative Strength Index (RSI) is a momentum oscillator that measures the speed and change of price movements. Considered one of the most popular [technical analysis](../t/technical_analysis.md) tools, it was developed by J. Welles Wilder. The RSI oscillates between 0 and 100. Traditionally, an RSI reading above 70 is considered overbought, while an RSI reading below 30 is considered oversold. The 30-Day RSI is a specific application of this indicator where the calculation considers the past 30 days of data.
 

@@ -1,4 +1,4 @@
-# The 3-Day Cycle in Algorithmic Trading
+# 3-Day Cycle
   
 The 3-day cycle is a concept in [algorithmic trading](../a/algorithmic_trading.md) that revolves around the observation that certain markets, securities, or trading behaviors exhibit trends or patterns over a three-day period. This cycle can be used as a basis for developing [trading strategies](../t/trading_strategies.md) which can potentially exploit these observable patterns to make profitable trades.
   

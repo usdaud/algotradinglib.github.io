@@ -1,4 +1,4 @@
-# Data Mining in Algorithmic Trading
+# Data Mining
 
 Data mining is an essential process in [algorithmic trading](../a/algorithmic_trading.md), which involves the extraction of valuable information from large datasets to make informed trading decisions. This topic delves into the techniques, tools, and applications of data mining within the context of trading and financial markets. 
 

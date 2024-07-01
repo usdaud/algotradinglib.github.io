@@ -1,4 +1,4 @@
-# Algorithmic trading and Market Microstructure
+# Algorithmic Trading and Market Microstructure
 
 [Algorithmic trading](../a/algorithmic_trading.md), often known as algo trading, involves using computer software and algorithms to automatically trade on financial markets. This sophisticated market activity leverages high-speed, data-driven decision-making processes to execute trades faster and more efficiently than a human trader ever could. The field of [algorithmic trading](../a/algorithmic_trading.md) has grown rapidly, vastly improving trading efficiency and liquidity across global markets. It encompasses many different strategies, including market making, [arbitrage](../a/arbitrage.md), and [trend following](../t/trend_following.md).
 

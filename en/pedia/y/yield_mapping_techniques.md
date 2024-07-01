@@ -1,4 +1,4 @@
-# Yield Mapping Techniques in Algorithmic Trading
+# Yield Mapping Techniques
 
 [Algorithmic trading](../a/algorithmic_trading.md) (also known as algo-trading or black-box trading) is the process of using computer algorithms to trade financial assets. One critical aspect of [algorithmic trading](../a/algorithmic_trading.md) is yield mapping, which involves predicting the returns (yield) of various assets to execute trades effectively. Yield mapping techniques combine sophisticated mathematical models, big data analytics, and machine learning to predict asset returns. This document will explore several advanced yield mapping techniques utilized in [algorithmic trading](../a/algorithmic_trading.md).
 

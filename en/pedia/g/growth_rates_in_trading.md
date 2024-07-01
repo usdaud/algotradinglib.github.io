@@ -1,4 +1,4 @@
-# Growth Rates in Algorithmic Trading
+# Growth Rates
 
 In the world of finance, growth rates are a critical metric for evaluating the performance of investments, securities, or even entire markets. [Algorithmic trading](../a/algorithmic_trading.md), or "algotrading," leverages computer algorithms to automatically execute trades based on predefined criteria and has increasingly become a cornerstone of financial markets. Understanding growth rates within the context of [algorithmic trading](../a/algorithmic_trading.md) is vital for traders, financial engineers, and quantitative analysts. This document provides an in-depth analysis of growth rates in [algorithmic trading](../a/algorithmic_trading.md), examining their importance, methodologies for calculation, and their applications.
 

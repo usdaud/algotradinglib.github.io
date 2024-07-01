@@ -1,4 +1,4 @@
-## Bull Put Spread
+# Bull Put Spread
 
 A Bull Put Spread is a type of options trading strategy used primarily in bullish market conditions. It involves the simultaneous selling and buying of [put options](../p/put_options.md) with the same expiration date but different strike prices. This strategy, being a credit spread, generates income upfront while providing defined risk and limited profit potential. The goal is to capitalize on the underlying asset's price being above the strike price of the sold put at expiration.
 

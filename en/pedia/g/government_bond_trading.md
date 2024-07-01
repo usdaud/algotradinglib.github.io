@@ -1,4 +1,4 @@
-### Government Bond Trading
+# Government Bond Trading
 
 Government bond trading is a crucial component of the global financial markets. Governments issue bonds to raise capital for various expenditures, such as infrastructure projects, social programs, and other public services. These bonds are debt securities, which means that the government agrees to pay back the principal amount along with interest to the bondholders upon maturity. This document provides an in-depth look into government bond trading, covering essential aspects like types of government bonds, the mechanics of trading, market participants, trading platforms, as well as the risks and strategies involved.
 

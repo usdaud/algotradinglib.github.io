@@ -1,4 +1,4 @@
-# Yield Behavior in Algorithmic Trading
+# Yield Behavior
 
 Yield behavior refers to the study and prediction of the movement and changes in the yields of financial instruments, primarily bonds, based on various factors and algorithms. Yield is a crucial financial metric, representing the earnings generated and realized on an investment over a particular period, expressed as a percentage of the investment's cost, its current market value, or its face value. In the context of [algorithmic trading](../a/algorithmic_trading.md), understanding and predicting yield behavior involve leveraging statistical models, historical data, and real-time data to make informed trading decisions. 
 

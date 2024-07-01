@@ -1,4 +1,4 @@
-# Yield Analysis Tools in Algo Trading
+# Yield Analysis Tools
 
 The development of [algorithmic trading](../a/algorithmic_trading.md), where computers make trades based on pre-defined criteria, has revolutionized the financial industry. A key aspect of successful [algorithmic trading](../a/algorithmic_trading.md) is [yield analysis](../y/yield_analysis.md), which involves assessing the profitability and performance of [trading strategies](../t/trading_strategies.md). In this detailed exploration, we will delve into the tools and methodologies used in [yield analysis](../y/yield_analysis.md) within the context of algo trading.
 

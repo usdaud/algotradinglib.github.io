@@ -1,4 +1,4 @@
-# Asset Allocation in Algorithmic Trading
+# Asset Allocation
 
 Asset allocation is a fundamental concept in investment management, referring to the distribution of an investment portfolio across various asset categories, such as stocks, bonds, commodities, and real estate. The purpose of asset allocation is to optimize the balance between risk and return according to an investor's goals, risk tolerance, and investment horizon. In the context of [algorithmic trading](../a/algorithmic_trading.md), asset allocation plays a critical role in developing strategies that can systematically adjust the composition of a portfolio to achieve desired outcomes.
 

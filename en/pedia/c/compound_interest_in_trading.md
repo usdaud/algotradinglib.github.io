@@ -1,4 +1,4 @@
-## Compound Interest in Trading
+# Compound Interest in Trading
 
 Compound interest is a powerful concept in finance and investing, including trading. This principle can significantly amplify the returns on investments over time, which is why it’s crucial to understand its mechanics and applications in trading.
 

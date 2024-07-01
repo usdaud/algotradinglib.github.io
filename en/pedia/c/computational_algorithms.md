@@ -1,4 +1,4 @@
-## Computational Algorithms in Algorithmic Trading
+# Computational Algorithms
 
 [Algorithmic trading](../a/algorithmic_trading.md), often referred to as "algo trading," involves the use of computer algorithms to automatically make trading decisions, submit orders to financial markets, and manage those orders after submission. These decisions are typically based on predefined criteria or strategies that consider multiple factors, such as timing, price, quantity, and other mathematical models. Here, we explore the key computational algorithms that are foundational to algo trading, presenting an in-depth view of their roles, implementations, and effects on the trading landscape.
 

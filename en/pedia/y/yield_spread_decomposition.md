@@ -1,4 +1,4 @@
-### Yield Spread Decomposition
+# Yield Spread Decomposition
 
 [Yield Spread](../y/yield_spread.md) Decomposition is an analytical method used in finance, particularly in fixed-income and sovereign debt markets, to break down the [yield spread](../y/yield_spread.md) (the difference in yields between two bonds or other debt instruments) into its constituent components. This can help investors, traders, and analysts understand the underlying factors driving the spread and make more informed investment decisions. Let's delve into this topic with maximum detail and granularity.
 

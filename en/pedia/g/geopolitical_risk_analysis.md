@@ -1,4 +1,4 @@
-# Geopolitical Risk Analysis in Algorithmic Trading
+# Geopolitical Risk Analysis
 
 Geopolitical [risk analysis](../r/risk_analysis.md) is a critical aspect of [risk management](../r/risk_management.md) in [algorithmic trading](../a/algorithmic_trading.md). It involves assessing and quantifying the potential impact of political events, international conflicts, regulatory changes, and other geopolitical developments on financial markets. This analysis helps traders and financial institutions to anticipate market movements and mitigate potential losses that can arise from geopolitical disturbances.
 

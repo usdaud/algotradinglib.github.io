@@ -1,4 +1,4 @@
-# Zero-Lower-Bound Risk in Algorithmic Trading
+# Zero-Lower-Bound Risk
 
 The [Zero Lower Bound](../z/zero_lower_bound.md) (ZLB) risk is a crucial concept in both macroeconomics and financial markets, including [algorithmic trading](../a/algorithmic_trading.md). Essentially, the ZLB refers to the situation where nominal interest rates are at or near zero, limiting the central bank's ability to stimulate economic growth through conventional monetary policy measures. This risk has become increasingly relevant in the post-2008 financial crisis era and during the COVID-19 pandemic when central banks worldwide have slashed interest rates to historically low levels. 
 
