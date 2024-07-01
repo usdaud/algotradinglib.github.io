@@ -33,7 +33,7 @@ Illegal insider trading occurs when insiders trade based on non-public, material
 
 Detecting insider trading patterns involves sophisticated analytics and surveillance. Regulators and private firms use various techniques, including:
 
-1. **Data Mining**: Scanning vast datasets for unusual trading patterns.
+1. **[Data Mining](../d/data_mining.md)**: Scanning vast datasets for [unusual trading patterns](../u/unusual_trading_patterns.md).
 2. **Behavioral Analysis**: Assessing trading behaviors that deviate from normal patterns during significant news events.
 3. **Network Analysis**: Identifying potential networks of connected individuals who may be exchanging non-public information.
 
@@ -72,7 +72,7 @@ Corporations must establish rigorous compliance programs to prevent illegal insi
 
 1. **SAS**: Provides advanced analytics solutions for detecting fraud and insider trading. Website: [SAS](https://www.sas.com)
 2. **Palantir Technologies**: Utilizes big data analytics for tracking and identifying insider trading activities. Website: [Palantir Technologies](https://www.palantir.com)
-3. **Eventus Systems**: Specializes in trade surveillance and risk management solutions to detect illicit trading behaviors. Website: [Eventus Systems](https://www.eventussystems.com)
+3. **Eventus Systems**: Specializes in trade surveillance and [risk management](../r/risk_management.md) solutions to detect illicit trading behaviors. Website: [Eventus Systems](https://www.eventussystems.com)
 
 ## Conclusion
 

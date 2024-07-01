@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Raw Beta Analysis is a fundamental concept within the realm of financial markets and algorithmic trading. Beta is a measure of a stock's volatility in relation to the overall market. Raw Beta, in particular, reflects the measure of a stock's or portfolio's volatility as compared to a benchmark, typically without adjustments for more nuanced factors such as industry comparisons or temporal stability. This analysis is pivotal for traders, investors, and financial analysts who leverage it to assess risk, strategize asset allocation, and optimize portfolios.
+Raw Beta Analysis is a fundamental concept within the realm of financial markets and [algorithmic trading](../a/algorithmic_trading.md). Beta is a measure of a stock's volatility in relation to the overall market. Raw Beta, in particular, reflects the measure of a stock's or portfolio's volatility as compared to a benchmark, typically without adjustments for more nuanced factors such as industry comparisons or temporal stability. This analysis is pivotal for traders, investors, and financial analysts who leverage it to assess risk, strategize [asset allocation](../a/asset_allocation.md), and optimize portfolios.
 
 ## Definition and Concept
 
@@ -11,11 +11,11 @@ Beta, in general, is a statistical measure that compares the volatility of a sto
 - **Less than 1**: Indicates that the asset is less volatile than the market.
 - **Equal to 1**: Represents an asset that is as volatile as the market.
 
-Raw Beta specifically refers to the unadjusted Beta values derived from regression analysis based on historical returns data. While Raw Beta does not incorporate adjustments, such as sectoral performance or company-specific risks, it provides a fundamental insight into the inherent market-related volatility of an asset.
+Raw Beta specifically refers to the unadjusted Beta values derived from [regression analysis](../r/regression_analysis.md) based on historical returns data. While Raw Beta does not incorporate adjustments, such as sectoral performance or company-specific risks, it provides a fundamental insight into the inherent market-related volatility of an asset.
 
 ## Calculation
 
-Raw Beta is typically calculated using regression analysis, where the returns of an asset are regressed against the returns of a benchmark index over a certain period. The common mathematical formula for Beta is:
+Raw Beta is typically calculated using [regression analysis](../r/regression_analysis.md), where the returns of an asset are regressed against the returns of a benchmark index over a certain period. The common mathematical formula for Beta is:
 
 \[ \beta = \frac{\text{Cov}(R_i, R_m)}{\text{Var}(R_m)} \]
 
@@ -29,11 +29,11 @@ Where:
 
 ### Algorithmic Trading
 
-In algorithmic trading, Raw Beta is a critical input for risk management and strategy development. Traders can adjust their algorithms to mitigate risk by targeting assets with desired Beta values. For example, risk-averse algorithms may prioritize low Beta stocks to minimize exposure to market volatility.
+In [algorithmic trading](../a/algorithmic_trading.md), Raw Beta is a critical input for [risk management](../r/risk_management.md) and strategy development. Traders can adjust their algorithms to mitigate risk by targeting assets with desired Beta values. For example, risk-averse algorithms may prioritize low Beta stocks to minimize exposure to market volatility.
 
 ### Portfolio Optimization
 
-In portfolio management, Raw Beta assists in creating a balanced portfolio. By examining the Beta values of various assets, managers can devise a diversified portfolio that aligns with the investor’s risk tolerance. Combining assets with varying Beta values can help in achieving the desired level of market exposure and risk reduction.
+In [portfolio management](../p/portfolio_management.md), Raw Beta assists in creating a balanced portfolio. By examining the Beta values of various assets, managers can devise a diversified portfolio that aligns with the investor’s risk tolerance. Combining assets with varying Beta values can help in achieving the desired level of market exposure and risk reduction.
 
 ### Risk Assessment
 
@@ -58,7 +58,7 @@ Several companies offer advanced tools and platforms for Raw Beta and other fina
 
 ### Application in Funds
 
-Hedge funds and investment management firms frequently utilize Raw Beta analyses in their trading algorithms.
+Hedge funds and investment management firms frequently utilize Raw Beta analyses in their [trading algorithms](../t/trading_algorithms.md).
 
 1. **Two Sigma**: A quant-driven investment firm that utilizes statistical models, including Raw Beta in its strategies. More information can be found at [Two Sigma](https://www.twosigma.com/).
 
@@ -66,7 +66,7 @@ Hedge funds and investment management firms frequently utilize Raw Beta analyses
 
 ## Case Study: A Simple Regression Analysis
 
-Let’s consider a simplified example of Raw Beta calculation through regression analysis using historical data for a hypothetical stock and the S&P 500 index.
+Let’s consider a simplified example of Raw Beta calculation through [regression analysis](../r/regression_analysis.md) using historical data for a hypothetical stock and the S&P 500 index.
 
 - Extract monthly returns for both the stock and the S&P 500 over a period of 5 years.
 - Perform a simple ordinary least square (OLS) regression where the dependent variable is the stock's returns and the independent variable is the S&P 500's returns.

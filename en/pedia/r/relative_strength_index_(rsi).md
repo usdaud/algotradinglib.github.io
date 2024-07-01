@@ -1,6 +1,6 @@
 # Relative Strength Index (RSI)
 
-The Relative Strength Index (RSI) is one of the most widely used momentum oscillators in technical analysis. It was developed by J. Welles Wilder Jr. and introduced in his seminal book "New Concepts in Technical Trading Systems" published in 1978. The RSI measures the speed and change of price movements and is typically used to identify overbought or oversold conditions in a market.
+The Relative Strength Index (RSI) is one of the most widely used [momentum oscillators](../m/momentum_oscillators.md) in [technical analysis](../t/technical_analysis.md). It was developed by J. Welles Wilder Jr. and introduced in his seminal book "New Concepts in Technical [Trading Systems](../t/trading_systems.md)" published in 1978. The RSI measures the speed and change of price movements and is typically used to identify overbought or oversold conditions in a market.
 
 ## Calculation of RSI
 
@@ -38,11 +38,11 @@ Typically, the value of `n` is set to 14 periods for a standard RSI calculation.
 
 One significant aspect of RSI analysis involves identifying divergences. A divergence occurs when the price of the asset moves in the opposite direction of the RSI. There are two types of divergences:
 
-1. **Bullish Divergence**:
+1. **[Bullish Divergence](../b/bullish_divergence.md)**:
     - Occurs when the asset's price makes a new low but the RSI makes a higher low.
     - This can indicate that the selling momentum is weakening, potentially signaling a reversal to the upside.
 
-2. **Bearish Divergence**:
+2. **[Bearish Divergence](../b/bearish_divergence.md)**:
     - Occurs when the asset's price makes a new high but the RSI makes a lower high.
     - This can indicate that the buying momentum is weakening, potentially signaling a reversal to the downside.
 
@@ -51,7 +51,7 @@ One significant aspect of RSI analysis involves identifying divergences. A diver
 Over time, traders and analysts have developed several modifications and variants of the RSI to enhance its utility. Some of these include:
 
 1. **Stochastic RSI**:
-    - Combines elements of the Stochastic Oscillator with the RSI to generate more sensitive and potentially more timely signals.
+    - Combines elements of the [Stochastic Oscillator](../s/stochastic_oscillator.md) with the RSI to generate more sensitive and potentially more timely signals.
     - It is calculated by applying the Stochastic formula to the RSI values instead of price values.
 
 2. **RSI with Different Look-Back Periods**:
@@ -59,7 +59,7 @@ Over time, traders and analysts have developed several modifications and variant
 
 ## Applications in Trading Strategies
 
-The RSI can be employed in various trading strategies, often in conjunction with other technical indicators to enhance decision-making. Here are some common strategies:
+The RSI can be employed in various [trading strategies](../t/trading_strategies.md), often in conjunction with other [technical indicators](../t/technical_indicators.md) to enhance decision-making. Here are some common strategies:
 
 1. **RSI Overbought/Oversold Strategy**:
     - Enters buy positions when the RSI falls below 30 and subsequently rises back above it.
@@ -79,19 +79,19 @@ The RSI can be employed in various trading strategies, often in conjunction with
 
 ## Practical Implementation
 
-Implementing RSI-based strategies involves the use of trading platforms and software that support technical analysis. Some popular platforms where RSI can be utilized include:
+Implementing RSI-based strategies involves the use of trading platforms and software that support [technical analysis](../t/technical_analysis.md). Some popular platforms where RSI can be utilized include:
 
 1. **MetaTrader 4/5**:
     - Offers RSI as a standard indicator with customizable parameters.
     
 2. **TradingView**:
-    - Provides a highly interactive charting platform with RSI and other technical indicators available. [TradingView](https://www.tradingview.com)
+    - Provides a highly interactive charting platform with RSI and other [technical indicators](../t/technical_indicators.md) available. [TradingView](https://www.tradingview.com)
     
 3. **Thinkorswim** by TD Ameritrade:
-    - Includes RSI in its suite of technical analysis tools.
+    - Includes RSI in its suite of [technical analysis](../t/technical_analysis.md) tools.
     
 4. **NinjaTrader**:
-    - Offers RSI and other technical analysis indicators for advanced charting.
+    - Offers RSI and other [technical analysis](../t/technical_analysis.md) indicators for advanced charting.
 
 ## Limitations of RSI
 
@@ -108,12 +108,12 @@ While RSI is a powerful tool, it is not without limitations:
 
 ## Conclusion
 
-The Relative Strength Index (RSI) remains an essential tool in the arsenal of both novice and experienced traders. By measuring the momentum of price movements, it offers valuable insights into potential overbought or oversold conditions, trend reversals, and market divergences. However, it is crucial to combine RSI with other technical indicators and robust risk management strategies to maximize its effectiveness and minimize potential drawbacks.
+The Relative Strength Index (RSI) remains an essential tool in the arsenal of both novice and experienced traders. By measuring the momentum of price movements, it offers valuable insights into potential overbought or oversold conditions, trend reversals, and market divergences. However, it is crucial to combine RSI with other [technical indicators](../t/technical_indicators.md) and robust [risk management](../r/risk_management.md) strategies to maximize its effectiveness and minimize potential drawbacks.
 
 For further detailed analysis and application, many trading education resources and platforms provide comprehensive tutorials and examples of using RSI in real-world trading scenarios:
 
-- **Investopedia**: Offers extensive articles on RSI and its application in trading strategies. [Investopedia](https://www.investopedia.com)
+- **Investopedia**: Offers extensive articles on RSI and its application in [trading strategies](../t/trading_strategies.md). [Investopedia](https://www.investopedia.com)
 - **BabyPips**: A popular platform for learning Forex trading, including RSI strategies. [BabyPips](https://www.babypips.com)
-- **AlgoTrader**: A leading platform for algorithmic trading that offers support for implementing RSI-based strategies. [AlgoTrader](https://www.algotrader.com)
+- **AlgoTrader**: A leading platform for [algorithmic trading](../a/algorithmic_trading.md) that offers support for implementing RSI-based strategies. [AlgoTrader](https://www.algotrader.com)
 
 By understanding and appropriately applying RSI, traders can gain a competitive edge in identifying market conditions and making informed trading decisions.

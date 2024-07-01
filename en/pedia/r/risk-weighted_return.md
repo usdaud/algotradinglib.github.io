@@ -1,12 +1,12 @@
 # Risk-Weighted Return
 
-Risk-Weighted Return is a financial metric that adjusts the returns of an investment by the amount of risk taken to achieve those returns. This metric helps investors understand the efficiency of their investment strategy by comparing the returns to the potential risks involved. It is particularly important in the context of algorithmic trading (often referred to as "algo-trading" or "automated trading"), where complex trading strategies are executed using computers and quantitative models.
+Risk-Weighted Return is a financial metric that adjusts the returns of an investment by the amount of risk taken to achieve those returns. This metric helps investors understand the efficiency of their investment strategy by comparing the returns to the potential risks involved. It is particularly important in the context of [algorithmic trading](../a/algorithmic_trading.md) (often referred to as "algo-trading" or "automated trading"), where complex [trading strategies](../t/trading_strategies.md) are executed using computers and [quantitative models](../q/quantitative_models.md).
 
 ## Key Concepts
 
 ### Risk-Weighted Return
 
-At its core, Risk-Weighted Return considers the variance or volatility of returns and adjusts the performance metrics accordingly. Higher volatility implies higher risk; hence, a high return with high uncertainty may not be as attractive as a lower but stable return.
+At its core, Risk-Weighted Return considers the variance or volatility of returns and adjusts the [performance metrics](../p/performance_metrics.md) accordingly. Higher volatility implies higher risk; hence, a high return with high uncertainty may not be as attractive as a lower but stable return.
 
 ### Importance in Algo-Trading
 
@@ -16,14 +16,14 @@ In the realm of algo-trading, the use of sophisticated algorithms for making tra
 
 Several specific ratios and measurements assess Risk-Weighted Returns, each with its own method of factoring in risk:
 
-1. **Sharpe Ratio**
-2. **Sortino Ratio**
+1. **[Sharpe Ratio](../s/sharpe_ratio.md)**
+2. **[Sortino Ratio](../s/sortino_ratio.md)**
 3. **Treynor Ratio**
-4. **Information Ratio**
+4. **[Information Ratio](../i/information_ratio.md)**
 
 ## Sharpe Ratio
 
-Developed by Nobel Laureate William F. Sharpe, the Sharpe Ratio is one of the most widely used measures of risk-weighted performance. It is calculated by dividing the difference between the portfolio return and the risk-free rate by the standard deviation of the portfolio returns.
+Developed by Nobel Laureate William F. Sharpe, the [Sharpe Ratio](../s/sharpe_ratio.md) is one of the most widely used measures of risk-weighted performance. It is calculated by dividing the difference between the portfolio return and the risk-free rate by the standard deviation of the portfolio returns.
 
 ### Calculation
 
@@ -35,11 +35,11 @@ Developed by Nobel Laureate William F. Sharpe, the Sharpe Ratio is one of the mo
 
 ### Interpretation
 
-A higher Sharpe Ratio indicates better risk-adjusted return. A negative Sharpe Ratio suggests that a risk-free investment would perform better than the observed strategy.
+A higher [Sharpe Ratio](../s/sharpe_ratio.md) indicates better [risk-adjusted return](../r/risk-adjusted_return.md). A negative [Sharpe Ratio](../s/sharpe_ratio.md) suggests that a risk-free investment would perform better than the observed strategy.
 
 ## Sortino Ratio
 
-The Sortino Ratio is similar to the Sharpe Ratio but differentiates between harmful volatility (downside risk) and total volatility. It uses the standard deviation of the negative asset returns (downside deviation) rather than the standard deviation of all returns.
+The [Sortino Ratio](../s/sortino_ratio.md) is similar to the [Sharpe Ratio](../s/sharpe_ratio.md) but differentiates between harmful volatility (downside risk) and total volatility. It uses the standard deviation of the negative asset returns ([downside deviation](../d/downside_deviation.md)) rather than the standard deviation of all returns.
 
 ### Calculation
 
@@ -47,15 +47,15 @@ The Sortino Ratio is similar to the Sharpe Ratio but differentiates between harm
 
 - \( E(R) \) = Expected return of the portfolio
 - \( R_f \) = Risk-free rate
-- \( DD \) = Downside deviation
+- \( DD \) = [Downside deviation](../d/downside_deviation.md)
 
 ### Interpretation
 
-The Sortino Ratio provides a more accurate measure of an investment’s risk-adjusted return by focusing on the downside risk, making it particularly useful for evaluating investments expected to have significant downside volatility.
+The [Sortino Ratio](../s/sortino_ratio.md) provides a more accurate measure of an investment’s [risk-adjusted return](../r/risk-adjusted_return.md) by focusing on the downside risk, making it particularly useful for evaluating investments expected to have significant downside volatility.
 
 ## Treynor Ratio
 
-Named after Jack L. Treynor, the Treynor Ratio measures returns earned in excess of those that could have been earned on a risk-free investment per each unit of market risk. Unlike the Sharpe Ratio, which uses standard deviation as the risk measure, the Treynor Ratio uses beta.
+Named after Jack L. Treynor, the Treynor Ratio measures returns earned in excess of those that could have been earned on a risk-free investment per each unit of market risk. Unlike the [Sharpe Ratio](../s/sharpe_ratio.md), which uses standard deviation as the risk measure, the Treynor Ratio uses beta.
 
 ### Calculation
 
@@ -71,7 +71,7 @@ A higher Treynor Ratio indicates that the investment has provided a higher retur
 
 ## Information Ratio
 
-The Information Ratio measures portfolio returns beyond the returns of a benchmark, usually an index, compared to the volatility of those returns.
+The [Information Ratio](../i/information_ratio.md) measures portfolio returns beyond the returns of a benchmark, usually an index, compared to the volatility of those returns.
 
 ### Calculation
 
@@ -83,13 +83,13 @@ The Information Ratio measures portfolio returns beyond the returns of a benchma
 
 ### Interpretation
 
-A higher Information Ratio suggests that the portfolio manager has a higher level of skill, as they are able to generate excess returns with higher consistency.
+A higher [Information Ratio](../i/information_ratio.md) suggests that the portfolio manager has a higher level of skill, as they are able to generate excess returns with higher consistency.
 
 ## Companies Utilizing Risk-Weighted Return in Algo-Trading
 
 ### Two Sigma Investments [Link](https://www.twosigma.com/)
 
-Two Sigma uses machine learning, distributed computing, and other sophisticated technologies to find connections in global markets. They heavily rely on risk-weighted return metrics to optimize their trading strategies.
+Two Sigma uses machine learning, distributed computing, and other sophisticated technologies to find connections in global markets. They heavily rely on risk-weighted return metrics to optimize their [trading strategies](../t/trading_strategies.md).
 
 ### Renaissance Technologies [Link](https://www.rentec.com/)
 
@@ -97,7 +97,7 @@ Renaissance Technologies, known for their Medallion Fund, employs complex mathem
 
 ### AQR Capital Management [Link](https://www.aqr.com/)
 
-AQR Capital Management leverages quantitative analysis to manage risk and optimize returns. They utilize risk-weighted return metrics extensively in their multi-strategy investment approach.
+AQR Capital Management leverages [quantitative analysis](../q/quantitative_analysis.md) to manage risk and optimize returns. They utilize risk-weighted return metrics extensively in their multi-strategy investment approach.
 
 ### Citadel [Link](https://www.citadel.com/)
 
@@ -105,7 +105,7 @@ Citadel applies rigorous research and technology-driven strategies to manage a b
 
 ## Application in Portfolio Management
 
-Risk-weighted return metrics are crucial in portfolio optimization, helping investors choose a mix of assets that offer the best return for the level of risk they are willing to take.
+Risk-weighted return metrics are crucial in [portfolio optimization](../p/portfolio_optimization.md), helping investors choose a mix of assets that offer the best return for the level of risk they are willing to take.
 
 ### Example
 

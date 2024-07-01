@@ -28,7 +28,7 @@ The COVID-19 pandemic led to unprecedented job losses across the globe due to lo
 
 ### Government Policies
 
-Government interventions play a crucial role in shaping job market recovery patterns. Fiscal policies such as stimulus packages, unemployment benefits, and tax incentives can provide immediate relief and spur job creation. Monetary policies, including interest rate adjustments and quantitative easing, also influence business investment and hiring.
+Government interventions play a crucial role in shaping job market recovery patterns. Fiscal policies such as stimulus packages, unemployment benefits, and tax incentives can provide immediate relief and spur job creation. Monetary policies, including interest rate adjustments and [quantitative easing](../q/quantitative_easing.md), also influence business investment and hiring.
 
 ### Technological Advancements
 

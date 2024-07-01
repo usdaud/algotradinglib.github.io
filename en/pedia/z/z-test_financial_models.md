@@ -1,11 +1,11 @@
 # Z-Test Financial Models
 
-The Z-Test is a statistical test used to determine whether there is a significant difference between the means of two groups. It leverages the Z-distribution, which tells us how many standard deviations away from the mean a data point is. In financial models, Z-Tests can be a powerful tool for hypothesis testing, enabling traders and analysts to make data-driven decisions.
+The Z-Test is a statistical test used to determine whether there is a significant difference between the means of two groups. It leverages the Z-distribution, which tells us how many standard deviations away from the mean a data point is. In financial models, Z-Tests can be a powerful tool for [hypothesis testing](../h/hypothesis_testing.md), enabling traders and analysts to make data-driven decisions.
 
 ## Key Concepts of Z-Test
 
 ### 1. Hypothesis Testing
-Hypothesis testing is a method of making decisions using data. In the Z-Test context, it involves the formulation of two hypotheses:
+[Hypothesis testing](../h/hypothesis_testing.md) is a method of making decisions using data. In the Z-Test context, it involves the formulation of two hypotheses:
 - **Null Hypothesis (H₀)**: Assumes no effect or no difference between groups.
 - **Alternative Hypothesis (H₁ or Ha)**: Assumes some effect or a difference between groups.
 
@@ -35,10 +35,10 @@ In financial markets, analysts often compare the prices of a stock at different 
 Z-Tests can be used to compare the performance of different portfolios against a benchmark index to assess if a portfolio manager has added significant value.
 
 ### 3. Economic Indicators
-Financial analysts often use Z-Tests to compare economic indicators (e.g., GDP growth rates) between different countries or different time periods.
+Financial analysts often use Z-Tests to compare [economic indicators](../e/economic_indicators.md) (e.g., GDP growth rates) between different countries or different time periods.
 
 ### 4. Trading Strategies
-Algorithmic traders use Z-Tests to validate the performance of different trading strategies under various market conditions.
+Algorithmic traders use Z-Tests to validate the performance of different [trading strategies](../t/trading_strategies.md) under various market conditions.
 
 ### Practical Example: Z-Test for Stock Returns
 
@@ -83,19 +83,19 @@ BlackRock is one of the world’s leading asset management firms. They use sophi
 Website: [BlackRock](https://www.blackrock.com/)
 
 ### 2. Goldman Sachs
-Goldman Sachs applies statistical tests, including Z-Tests, in their algorithmic trading strategies to test hypotheses about market movements and asset prices.
+Goldman Sachs applies statistical tests, including Z-Tests, in their [algorithmic trading](../a/algorithmic_trading.md) strategies to test hypotheses about market movements and asset prices.
 Website: [Goldman Sachs](https://www.goldmansachs.com/)
 
 ### 3. JP Morgan
-JP Morgan employs advanced statistical methods like Z-Tests to evaluate economic indicators and financial instruments for better decision-making.
+JP Morgan employs advanced statistical methods like Z-Tests to evaluate [economic indicators](../e/economic_indicators.md) and financial instruments for better decision-making.
 Website: [JP Morgan](https://www.jpmorgan.com/)
 
 ### 4. Renaissance Technologies
-Renowned for their quantitative trading strategies, Renaissance Technologies extensively use statistical tests, including Z-Tests, to validate their models.
+Renowned for their [quantitative trading](../q/quantitative_trading.md) strategies, Renaissance Technologies extensively use statistical tests, including Z-Tests, to validate their models.
 Website: [Renaissance Technologies](https://www.rentec.com/)
 
 ## Conclusion
 
-The Z-Test offers a robust methodology for hypothesis testing in financial models. From stock price analysis to portfolio performance evaluation and trading strategy validation, Z-Tests enable financial analysts and traders to make informed, data-driven decisions.
+The Z-Test offers a robust methodology for [hypothesis testing](../h/hypothesis_testing.md) in financial models. From stock price analysis to [portfolio performance](../p/portfolio_performance.md) evaluation and trading strategy validation, Z-Tests enable financial analysts and traders to make informed, data-driven decisions.
 
-By incorporating Z-Tests into financial modeling, organizations can improve the accuracy of their predictions and the effectiveness of their trading strategies, thereby gaining a competitive edge in the financial markets.
+By incorporating Z-Tests into [financial modeling](../f/financial_modeling.md), organizations can improve the accuracy of their predictions and the effectiveness of their [trading strategies](../t/trading_strategies.md), thereby gaining a competitive edge in the financial markets.

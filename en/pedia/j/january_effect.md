@@ -12,7 +12,7 @@ The January Effect was first observed in the early 20th century and has been a s
 One of the primary explanations for the January Effect is tax-loss harvesting. As the year-end approaches, investors often sell off their losing investments to realize capital losses, which can be used to offset taxable capital gains. When the new year begins, these same investors may repurchase stocks, particularly those that were sold at a year-end loss, driving up prices in January.
 
 #### 2. Institutional Window Dressing
-Institutional window dressing is another factor contributing to the January Effect. Fund managers often sell off poor-performing stocks before the year ends to improve the appearance of their portfolios. These stocks might be repurchased in January, leading to price increases.
+Institutional [window dressing](../w/window_dressing.md) is another factor contributing to the January Effect. Fund managers often sell off poor-performing stocks before the year ends to improve the appearance of their portfolios. These stocks might be repurchased in January, leading to price increases.
 
 #### 3. Bonus Payments and Investment
 Many investors receive year-end bonuses in December and may invest this additional capital in January, boosting stock prices, particularly those of small-cap and historically depressed stocks.
@@ -30,11 +30,11 @@ Understanding the January Effect enables traders to develop seasonality strategi
 Investors and fund managers might make portfolio adjustments to capitalize on or hedge against the January Effect. Knowing this pattern, they might increase their exposure to small-cap stocks before January.
 
 #### 3. Risk Management
-While leveraging the January Effect, it's crucial to have a clear risk management strategy. The January Effect is a probabilistic trend, not a guarantee. Hence, diversifying investments and setting stop-loss orders can mitigate potential downsides.
+While leveraging the January Effect, it's crucial to have a clear [risk management](../r/risk_management.md) strategy. The January Effect is a probabilistic trend, not a guarantee. Hence, diversifying investments and setting [stop-loss orders](../s/stop-loss_orders.md) can mitigate potential downsides.
 
 ### Critiques and Counterarguments
 
-Despite its empirical support, the January Effect has faced skepticism and critique. Some researchers argue that market efficiency would eliminate such anomalies. Additionally, the globalization of markets and the rise of automated trading systems might diminish the January Effect's impact over time.
+Despite its empirical support, the January Effect has faced skepticism and critique. Some researchers argue that [market efficiency](../m/market_efficiency.md) would eliminate such anomalies. Additionally, the globalization of markets and the rise of [automated trading systems](../a/automated_trading_systems.md) might diminish the January Effect's impact over time.
 
 ### Recent Trends and Observations
 
@@ -42,12 +42,12 @@ In recent years, the magnitude of the January Effect has seemingly diminished, p
 
 ### Conclusion
 
-The January Effect is an intriguing market anomaly that highlights the complexities and seasonality of stock returns. While its prominence may have waned in recent years, understanding this phenomenon provides valuable insights into market behaviors and offers potential trading strategies for keen investors. 
+The January Effect is an intriguing market anomaly that highlights the complexities and seasonality of stock returns. While its prominence may have waned in recent years, understanding this phenomenon provides valuable insights into market behaviors and offers potential [trading strategies](../t/trading_strategies.md) for keen investors. 
 
 ### References
 
 - [Investopedia Explains the January Effect](https://www.investopedia.com/terms/j/januaryeffect.asp)
 - [NASDAQ on Market Seasonality](https://www.nasdaq.com/)
-- [Journal of Financial Economics Article
+- [Journal of [Financial Economics](../f/financial_economics.md) Article
 
 ](https://www.journals.elsevier.com/journal-of-financial-economics)

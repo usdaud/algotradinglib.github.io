@@ -1,6 +1,6 @@
 ## Noise Filter Techniques in Algorithmic Trading
 
-In algorithmic trading, noise filtering is an essential process to reduce market noise and improve the reliability of trading signals. Market noise refers to the random price fluctuations and insignificant movements that do not reflect the underlying trend or meaningful market activity. Effective noise filtering techniques help in distinguishing between true market signals and random noise, which aids in making better trading decisions.
+In [algorithmic trading](../a/algorithmic_trading.md), noise filtering is an essential process to reduce market noise and improve the reliability of [trading signals](../t/trading_signals.md). Market noise refers to the random price fluctuations and insignificant movements that do not reflect the underlying trend or meaningful market activity. Effective noise filtering techniques help in distinguishing between true market signals and random noise, which aids in making better trading decisions.
 
 ### Types of Noise Filter Techniques
 
@@ -24,7 +24,7 @@ Moving Averages are one of the simplest and most widely used techniques for filt
 
 #### 2. **Kalman Filters**
 
-Kalman Filters are used in algorithmic trading to predict and filter time series data. This technique is particularly useful for smoothing noisy data and accurately estimating underlying trends. The Kalman Filter operates recursively on streams of noisy input data to produce a statistically optimal estimate of the underlying system state.
+Kalman Filters are used in [algorithmic trading](../a/algorithmic_trading.md) to predict and filter time series data. This technique is particularly useful for smoothing noisy data and accurately estimating underlying trends. The Kalman Filter operates recursively on streams of noisy input data to produce a statistically optimal estimate of the underlying system state.
 
   \[
   \hat{x}_k = A \hat{x}_{k-1} + B u_k + K_k (z_k - H \hat{x}_{k-1})
@@ -41,14 +41,14 @@ Where:
 
 #### 3. **Bollinger Bands**
 
-Bollinger Bands are a volatility-based noise filtering technique that consist of a moving average and two standard deviation bands above and below it. By using this method, traders can identify periods of high and low volatility, and potential market trend reversals.
+[Bollinger Bands](../b/bollinger_bands.md) are a volatility-based noise filtering technique that consist of a moving average and two standard deviation bands above and below it. By using this method, traders can identify periods of high and low volatility, and potential market trend reversals.
 
   - The bands widen during high volatility and contract during low volatility.
   - Prices moving close to the upper band suggest overbought conditions, while prices near the lower band suggest oversold conditions.
 
 #### 4. **Fourier Transform**
 
-The Fourier Transform is used in algorithmic trading to transform time series data from the time domain to the frequency domain. This technique helps in analyzing the various frequency components within the data, enabling traders to filter out high-frequency noise and focus on significant low-frequency trends.
+The Fourier Transform is used in [algorithmic trading](../a/algorithmic_trading.md) to transform time series data from the time domain to the frequency domain. This technique helps in analyzing the various frequency components within the data, enabling traders to filter out high-frequency noise and focus on significant low-frequency trends.
 
 - **Discrete Fourier Transform (DFT):**
 
@@ -100,20 +100,20 @@ Low-pass filters allow signals with a frequency lower than a designated cutoff f
 
 ### Notable Companies Implementing Noise Filter Techniques in Trading
 
-Several companies specialize in providing algorithmic trading solutions that incorporate sophisticated noise filter techniques:
+Several companies specialize in providing [algorithmic trading](../a/algorithmic_trading.md) solutions that incorporate sophisticated noise filter techniques:
 
 - **QuantConnect**: [quantconnect.com](https://www.quantconnect.com)
-  - QuantConnect provides a cloud-based algorithmic trading platform that supports a variety of noise filtering techniques, including moving averages, Kalman filters, Bollinger Bands, and Fourier Transform-based methods.
+  - QuantConnect provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports a variety of noise filtering techniques, including moving averages, Kalman filters, [Bollinger Bands](../b/bollinger_bands.md), and Fourier Transform-based methods.
 
 - **AlgoTrader**: [algotrader.com](https://www.algotrader.com)
-  - AlgoTrader offers institutional-grade algorithmic trading software that integrates advanced noise filtering techniques to enhance trading signal accuracy and improve overall trading performance.
+  - AlgoTrader offers institutional-grade [algorithmic trading](../a/algorithmic_trading.md) software that integrates advanced noise filtering techniques to enhance trading signal accuracy and improve overall [trading performance](../t/trading_performance.md).
 
 - **Kensho Technologies**: [kensho.com](https://www.kensho.com)
   - Kensho Technologies uses artificial intelligence and advanced analytics, including noise filtering techniques like Wavelet Transform, to offer refined and actionable market insights.
 
 - **Numerai**: [numer.ai](https://numer.ai)
-  - Numerai leverages collective intelligence and machine learning, incorporating noise filtering processes to create more robust trading models.
+  - Numerai leverages collective intelligence and machine learning, incorporating noise filtering processes to create more robust [trading models](../t/trading_models.md).
 
 ### Conclusion
 
-Noise filtering is crucial in algorithmic trading to improve signal quality by separating meaningful market data from random price fluctuations. Using techniques like moving averages, Kalman filters, Bollinger Bands, Fourier Transform, Wavelet Transform, and low-pass filters, traders can enhance the reliability of their trading strategies. Companies specializing in trading technology continuously innovate in these areas to provide sophisticated solutions for professional traders and institutions.
+Noise filtering is crucial in [algorithmic trading](../a/algorithmic_trading.md) to improve signal quality by separating meaningful market data from random price fluctuations. Using techniques like moving averages, Kalman filters, [Bollinger Bands](../b/bollinger_bands.md), Fourier Transform, Wavelet Transform, and low-pass filters, traders can enhance the reliability of their [trading strategies](../t/trading_strategies.md). Companies specializing in trading technology continuously innovate in these areas to provide sophisticated solutions for professional traders and institutions.

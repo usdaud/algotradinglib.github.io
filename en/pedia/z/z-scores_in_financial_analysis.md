@@ -30,7 +30,7 @@ The Z-score indicates how many standard deviations an element is from the mean. 
 Z-scores are valuable in financial analysis for several reasons:
 - **Risk Assessment**: Identifying how much a particular security deviates from the market average.
 - **Performance Measurement**: Comparing the historical performance of stocks, funds, or portfolios.
-- **Anomaly Detection**: Spotting unusual or outlier behavior in financial data which may indicate errors, fraudulent activity, or extreme market conditions.
+- **[Anomaly Detection](../a/anomaly_detection.md)**: Spotting unusual or outlier behavior in financial data which may indicate errors, fraudulent activity, or extreme market conditions.
 
 ### Case Study: Altman Z-Score
 
@@ -54,11 +54,11 @@ Where:
 
 #### Algorithmic Trading
 
-In algorithmic trading, Z-scores can be utilized for statistical arbitrage and mean reversion strategies. Traders use Z-scores to identify the relative value of stocks compared to a benchmark or the entire market. When a stock's Z-score deviates significantly from the mean, it may indicate an overbought or oversold condition, suggesting a potential trade.
+In [algorithmic trading](../a/algorithmic_trading.md), Z-scores can be utilized for statistical [arbitrage](../a/arbitrage.md) and [mean reversion](../m/mean_reversion.md) strategies. Traders use Z-scores to identify the relative value of stocks compared to a benchmark or the entire market. When a stock's Z-score deviates significantly from the mean, it may indicate an overbought or oversold condition, suggesting a potential trade.
 
 #### Risk Management
 
-Risk managers use Z-scores to calculate Value at Risk (VaR) and stress testing scenarios. By establishing baseline Z-scores for different assets or portfolios, they can determine the probability of extreme losses and take pre-emptive measures.
+Risk managers use Z-scores to calculate Value at Risk (VaR) and [stress testing scenarios](../s/stress_testing_scenarios.md). By establishing baseline Z-scores for different assets or portfolios, they can determine the probability of extreme losses and take pre-emptive measures.
 
 #### Performance Benchmarking
 
@@ -85,4 +85,4 @@ A Z-score of 1 indicates that the stock's return is one standard deviation above
 
 ### Conclusion
 
-Z-scores serve as a powerful statistical tool in financial analysis, helping analysts, traders, and risk managers to assess risk, performance, and anomalies in financial data. Their simplicity and robustness make them a staple in quantitative finance, despite some inherent limitations. Understanding and effectively applying Z-scores can provide significant insights and competitive advantages in the complex landscape of financial markets.
+Z-scores serve as a powerful statistical tool in financial analysis, helping analysts, traders, and risk managers to assess risk, performance, and anomalies in financial data. Their simplicity and robustness make them a staple in [quantitative finance](../q/quantitative_finance.md), despite some inherent limitations. Understanding and effectively applying Z-scores can provide significant insights and competitive advantages in the complex landscape of financial markets.

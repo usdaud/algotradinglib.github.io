@@ -4,7 +4,7 @@
 
 ### Introduction to Williams %R
 
-Williams %R is a momentum-based technical analysis indicator, developed by Larry Williams in the 1970s. It’s designed to gauge whether a security is overbought or oversold by comparing its closing price to its high-low range over a certain period. This oscillator ranges from 0 to -100; typically, readings above -20 suggest that the instrument is overbought, while readings below -80 indicate that it’s oversold. The Williams %R is instrumental in algorithmic trading strategies due to its predictive power and adaptability.
+Williams %R is a momentum-based [technical analysis](../t/technical_analysis.md) indicator, developed by Larry Williams in the 1970s. It’s designed to gauge whether a security is overbought or oversold by comparing its closing price to its high-low range over a certain period. This oscillator ranges from 0 to -100; typically, readings above -20 suggest that the instrument is overbought, while readings below -80 indicate that it’s oversold. The Williams %R is instrumental in [algorithmic trading](../a/algorithmic_trading.md) strategies due to its predictive power and adaptability.
 
 ---
 
@@ -31,7 +31,7 @@ Williams %R is a leading indicator in that it provides signals ahead of price ch
 
 1. **Overbought Conditions**:
    - When %R is above -20, the asset is considered overbought. It suggests that the price might see a correction soon.
-   - Algorithms might trigger sell signals or stop-loss orders in this zone.
+   - Algorithms might trigger sell signals or [stop-loss orders](../s/stop-loss_orders.md) in this zone.
 
 2. **Oversold Conditions**:
    - When %R is below -80, the asset is considered oversold. It indicates that the price could rebound.
@@ -46,7 +46,7 @@ Williams %R is a leading indicator in that it provides signals ahead of price ch
 
 #### Mean Reversion Strategy
 
-A mean reversion strategy assumes that asset prices will revert to their historical mean. Williams %R is well-suited for such strategies due to its overbought and oversold signals.
+A [mean reversion](../m/mean_reversion.md) strategy assumes that asset prices will revert to their historical mean. Williams %R is well-suited for such strategies due to its overbought and oversold signals.
 
 **Pseudo-code Example**:
 
@@ -127,7 +127,7 @@ print(signal)
 
 #### Combining Williams %R with Other Indicators
 
-While Williams %R provides valuable insights, combining it with other indicators such as Moving Averages (MAs), Relative Strength Index (RSI), or Bollinger Bands can enhance the reliability of trading signals.
+While Williams %R provides valuable insights, combining it with other indicators such as Moving Averages (MAs), Relative Strength Index (RSI), or [Bollinger Bands](../b/bollinger_bands.md) can enhance the reliability of [trading signals](../t/trading_signals.md).
 
 For example, an algo-trader could use Williams %R in conjunction with a Moving Average to filter out noise and confirm true signals:
 
@@ -169,14 +169,14 @@ For example, firms like Citadel Securities and Virtu Financial may incorporate W
 
 #### Quantitative Hedge Funds
 
-Quantitative hedge funds often use a multitude of indicators to optimize strategies. Firms like Renaissance Technologies might integrate Williams %R with advanced statistical methods to enhance predictive models. For more details, check out [Renaissance Technologies](https://www.rentec.com).
+[Quantitative hedge funds](../q/quantitative_hedge_funds.md) often use a multitude of indicators to optimize strategies. Firms like Renaissance Technologies might integrate Williams %R with advanced statistical methods to enhance predictive models. For more details, check out [Renaissance Technologies](https://www.rentec.com).
 
 #### Retail Investors
 
-Platforms like MetaTrader or TradeStation allow retail investors to implement Williams %R in their custom algorithms. These platforms typically provide backtesting tools to validate strategies before deployment.
+Platforms like MetaTrader or TradeStation allow retail investors to implement Williams %R in their custom algorithms. These platforms typically provide [backtesting](../b/backtesting.md) tools to validate strategies before deployment.
 
 ---
 
 ### Conclusion
 
-Williams %R is a versatile and powerful indicator that holds tremendous value in the realm of algorithmic trading. Its ability to signal overbought and oversold conditions, combined with its simplicity, makes it an indispensable tool for both novice and experienced traders. By integrating Williams %R with other technical indicators and employing robust backtesting methodologies, traders can enhance their strategies’ accuracy and profitability.
+Williams %R is a versatile and powerful indicator that holds tremendous value in the realm of [algorithmic trading](../a/algorithmic_trading.md). Its ability to signal overbought and oversold conditions, combined with its simplicity, makes it an indispensable tool for both novice and experienced traders. By integrating Williams %R with other [technical indicators](../t/technical_indicators.md) and employing robust [backtesting](../b/backtesting.md) methodologies, traders can enhance their strategies’ accuracy and profitability.

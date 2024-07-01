@@ -12,8 +12,8 @@ Yield-adjusted return is critical for investors focused on income-generating ass
 
 Yield represents the earnings generated and realized on an investment over a particular period, typically expressed as a percentage. For bonds, the yield is calculated based on the face value, purchase price, interest payments (coupons), and time to maturity. Yield can be classified into multiple types:
 - **Current Yield**: The annual income (interest or dividends) divided by the current price of the security.
-- **Yield to Maturity (YTM)**: The total return anticipated on a bond if it is held until it matures.
-- **Yield to Call (YTC)**: The yield of a bond or note if you were to buy and hold the security until the call date.
+- **[Yield to Maturity](../y/yield_to_maturity.md) (YTM)**: The total return anticipated on a bond if it is held until it matures.
+- **[Yield to Call](../y/yield_to_call.md) (YTC)**: The yield of a bond or note if you were to buy and hold the security until the call date.
 
 ### Adjustment Factors
 
@@ -51,7 +51,7 @@ This adjustment helps in understanding the actual return on purchasing power.
 ## Yield-Adjusted Return in Portfolio Management
 
 In managing a portfolio, especially one with income-generating assets, yield-adjusted return is crucial. It assists in constructing and balancing a portfolio that meets the investor's specific return requirements after adjusting for various influential factors.
-1. **Diversification**: This metric allows for better diversification strategies by comparing the effective returns on different types of investments, taking into account their unique characteristics.
+1. **Diversification**: This metric allows for better [diversification strategies](../d/diversification_strategies.md) by comparing the effective returns on different types of investments, taking into account their unique characteristics.
 2. **Risk Assessment**: It aids in evaluating the risk-return trade-offs by providing a clearer picture of actual returns adjusted for taxes, inflation, and other relevant factors.
 3. **Performance Comparison**: Yield-adjusted returns facilitate more accurate comparisons between different securities and asset classes by normalizing heterogeneous factors.
 

@@ -47,7 +47,7 @@ Since MFA integrates trading volume into its calculations, it provides a more nu
 
 Several trading platforms and financial software offer tools to perform Money Flow Analysis. Some notable examples include:
 
-- **MetaTrader 4/5**: Popular trading platforms that offer built-in tools for money flow analysis and technical indicators.
+- **MetaTrader 4/5**: Popular trading platforms that offer built-in tools for money flow analysis and [technical indicators](../t/technical_indicators.md).
 - **ThinkOrSwim by TD Ameritrade**: A professional trading platform with advanced charting tools for Money Flow Analysis.
 - **MetaStock**: Advanced software for traders that include money flow indicators.
 - **TradingView**: An online charting platform that offers Money Flow Index and other related indicators. [Visit TradingView](https://www.tradingview.com)
@@ -58,8 +58,8 @@ Several trading platforms and financial software offer tools to perform Money Fl
 Consider a trader who is analyzing the stock of Apple Inc. (AAPL). By using Money Flow Analysis, the trader observes that the MFI has been steadily increasing and has crossed the 80 mark, signaling an overbought condition. Concurrently, Apple’s stock price has been reaching new highs. Based on this analysis, the trader might decide to sell or short the stock in anticipation of a price correction.
 
 ### Example 2: Cryptocurrency Markets
-A cryptocurrency trader is analyzing the Money Flow of Bitcoin (BTC). The trader notices that while the price of Bitcoin has been dropping, the MFI is showing higher lows, indicating a potential bullish divergence. This could signal that sellers are losing momentum, and a price rebound may be on the horizon. The trader might decide to buy Bitcoin based on this analysis.
+A cryptocurrency trader is analyzing the Money Flow of Bitcoin (BTC). The trader notices that while the price of Bitcoin has been dropping, the MFI is showing higher lows, indicating a potential [bullish divergence](../b/bullish_divergence.md). This could signal that sellers are losing momentum, and a price rebound may be on the horizon. The trader might decide to buy Bitcoin based on this analysis.
 
 ## Conclusion
 
-Money Flow Analysis is an essential tool for traders and investors seeking to understand market dynamics better. By incorporating both price and volume data, MFA provides a more detailed picture of market sentiment, helping to identify potential trends, reversals, and overbought/oversold conditions. With the aid of modern trading platforms and software, conducting Money Flow Analysis has become more accessible, allowing traders to make more informed decisions and enhance their trading strategies.
+Money Flow Analysis is an essential tool for traders and investors seeking to understand market dynamics better. By incorporating both price and volume data, MFA provides a more detailed picture of market sentiment, helping to identify potential trends, reversals, and overbought/oversold conditions. With the aid of modern trading platforms and software, conducting Money Flow Analysis has become more accessible, allowing traders to make more informed decisions and enhance their [trading strategies](../t/trading_strategies.md).

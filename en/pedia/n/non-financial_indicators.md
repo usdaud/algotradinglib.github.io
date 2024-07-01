@@ -1,10 +1,10 @@
 # Non-Financial Indicators in Algorithmic Trading
 
-Algorithmic trading, often referred to as algo-trading, involves using computer algorithms to automate trading decisions with seamless precision. The primary goal of these algorithms is to maximize profits and minimize risks based on historical data, market conditions, and various indicators. Traditionally, many game-changing strategies used in algorithmic trading have focused on financial indicators, such as price movement, volume, and other market-related figures. However, non-financial indicators—i.e., factors not directly tied to pure market data—are becoming increasingly popular for their ability to provide a more holistic view of the market dynamics. These indicators can range from social sentiment, news metrics, to even environmental factors. Here, we explore these non-financial indicators comprehensively.
+[Algorithmic trading](../a/algorithmic_trading.md), often referred to as algo-trading, involves using computer algorithms to automate trading decisions with seamless precision. The primary goal of these algorithms is to maximize profits and minimize risks based on historical data, market conditions, and various indicators. Traditionally, many game-changing strategies used in [algorithmic trading](../a/algorithmic_trading.md) have focused on financial indicators, such as price movement, volume, and other market-related figures. However, non-financial indicators—i.e., factors not directly tied to pure market data—are becoming increasingly popular for their ability to provide a more holistic view of the market dynamics. These indicators can range from social sentiment, news metrics, to even environmental factors. Here, we explore these non-financial indicators comprehensively.
 
 ## Social Sentiment Indicators
 
-Social sentiment indicators assess the mood of the market based on public opinion, news stories, and social media feeds. Social sentiment analysis employs Natural Language Processing (NLP) and machine learning algorithms to gauge sentiment from vast amounts of textual data.
+Social [sentiment indicators](../s/sentiment_indicators.md) assess the mood of the market based on public opinion, news stories, and social media feeds. Social [sentiment analysis](../s/sentiment_analysis.md) employs Natural Language Processing (NLP) and machine learning algorithms to gauge sentiment from vast amounts of textual data.
 
 ### Key Players in Social Sentiment Analytics
 
@@ -13,11 +13,11 @@ Social sentiment indicators assess the mood of the market based on public opinio
 
 ### Application in Trading
 
-Social sentiment indicators can help identify early signals of market movements. For example, if a particular stock is generating a lot of buzz with predominantly positive sentiment, it may be set for a price rise. Conversely, negative sentiment could signal a decline.
+Social [sentiment indicators](../s/sentiment_indicators.md) can help identify early signals of market movements. For example, if a particular stock is generating a lot of buzz with predominantly positive sentiment, it may be set for a price rise. Conversely, negative sentiment could signal a decline.
 
 ### Risks and Challenges
 
-The accuracy of social sentiment indicators can be influenced by several factors. The internet is rife with misinformation and targeted campaigns that can skew data. Sentiment analysis data also often faces difficulties with sarcasm, idioms, and evolving slang, which can mislead algorithms.
+The accuracy of social [sentiment indicators](../s/sentiment_indicators.md) can be influenced by several factors. The internet is rife with misinformation and targeted campaigns that can skew data. [Sentiment analysis](../s/sentiment_analysis.md) data also often faces difficulties with sarcasm, idioms, and evolving slang, which can mislead algorithms.
 
 ## News Analytics
 
@@ -25,7 +25,7 @@ News analytics involves monitoring news articles, press releases, and other publ
 
 ### Leading Providers of News Analytics
 
-1. **Thomson Reuters News Analytics**: This firm offers news sentiment analysis, enabling traders to make informed decisions. More information can be found [here](https://www.refinitiv.com/en).
+1. **Thomson Reuters News Analytics**: This firm offers news [sentiment analysis](../s/sentiment_analysis.md), enabling traders to make informed decisions. More information can be found [here](https://www.refinitiv.com/en).
 2. **Bloomberg Terminal**: Bloomberg’s service offers extensive news analytics that can provide real-time insights into market movements. Explore Bloomberg Terminal [here](https://www.bloomberg.com/professional/solution/bloomberg-terminal/).
 
 ### Application in Trading
@@ -61,8 +61,8 @@ Natural disasters (earthquakes, floods) and man-made events (terrorist attacks, 
 
 Algorithms that integrate information from early warning systems, government announcements, and historical impacts of similar incidents can adjust trades in real-time. 
 
-1. **Riskpulse**: Provides predictive analytics focusing on weather and climate risk. More information [here](https://www.riskpulse.com).
-2. **Athenium Analytics**: Specializes in risk assessment and predictive analytics for natural catastrophes. Learn more [here](https://www.athenium.com).
+1. **Riskpulse**: Provides [predictive analytics](../p/predictive_analytics.md) focusing on weather and climate risk. More information [here](https://www.riskpulse.com).
+2. **Athenium Analytics**: Specializes in risk assessment and [predictive analytics](../p/predictive_analytics.md) for natural catastrophes. Learn more [here](https://www.athenium.com).
 
 ### Application in Trading
 
@@ -83,7 +83,7 @@ Geopolitical factors like government policies, international relations, and poli
 
 ### Application in Trading
 
-Geopolitical indicators can help in understanding the broader economic environment. For instance, new trade tariffs can affect multiple industries and provide trading signals.
+Geopolitical indicators can help in understanding the broader economic environment. For instance, new trade tariffs can affect multiple industries and provide [trading signals](../t/trading_signals.md).
 
 ### Risks and Challenges
 
@@ -108,4 +108,4 @@ Emerging technologies can be speculative, and not all innovations succeed in mar
 
 ## Conclusion
 
-Non-financial indicators offer rich, untapped potential to inform and optimize algorithmic trading strategies. These indicators—ranging from social sentiment, news analytics, ESG factors, disaster impacts, geopolitical dynamics, to technological disruptions—complement financial data and can provide a more nuanced understanding of market behaviors. However, their adoption requires sophisticated algorithms, robust data validation mechanisms, and a keen understanding of the underlying challenges to unlock their full potential.
+Non-financial indicators offer rich, untapped potential to inform and optimize [algorithmic trading](../a/algorithmic_trading.md) strategies. These indicators—ranging from social sentiment, news analytics, ESG factors, disaster impacts, geopolitical dynamics, to technological disruptions—complement financial data and can provide a more nuanced understanding of market behaviors. However, their adoption requires sophisticated algorithms, robust data validation mechanisms, and a keen understanding of the underlying challenges to unlock their full potential.

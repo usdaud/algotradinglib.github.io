@@ -4,16 +4,16 @@ In the context of finance and specifically options pricing, skewness refers to t
 
 #### Types of Skewness
 
-- **Positive Skewness**: In a positively skewed distribution, the right tail (higher returns) is longer or fatter than the left tail (lower returns). This suggests a higher probability of extreme positive returns.
-- **Negative Skewness**: In a negatively skewed distribution, the left tail (lower returns) is longer or fatter than the right tail (higher returns). This indicates a higher probability of extreme negative returns.
+- **[Positive Skewness](../p/positive_skewness.md)**: In a positively skewed distribution, the right tail (higher returns) is longer or fatter than the left tail (lower returns). This suggests a higher probability of extreme positive returns.
+- **[Negative Skewness](../n/negative_skewness.md)**: In a negatively skewed distribution, the left tail (lower returns) is longer or fatter than the right tail (higher returns). This indicates a higher probability of extreme negative returns.
 
 #### Importance of Skewness in Options Pricing
 
-1. **Risk Management**: Skewness helps in assessing the likelihood of extreme market moves. For example, a negatively skewed asset indicates a higher risk of significant downward movements.
+1. **[Risk Management](../r/risk_management.md)**: Skewness helps in assessing the likelihood of extreme market moves. For example, a negatively skewed asset indicates a higher risk of significant downward movements.
   
-2. **Volatility Skew**: Traditional models like the Black-Scholes assume constant volatility, but market observations reveal a smile or skew in implied volatility. This means implied volatility varies with strike prices and expiration dates, often linked to the skewness of the asset return distribution.
+2. **[Volatility Skew](../v/volatility_skew.md)**: Traditional models like the Black-Scholes assume constant volatility, but market observations reveal a smile or skew in implied volatility. This means implied volatility varies with strike prices and expiration dates, often linked to the skewness of the asset return distribution.
   
-3. **Strategy Selection**: Traders use skewness to select appropriate options strategies. For instance, strategies may differ when trading options on assets with positive skewness versus those with negative skewness.
+3. **Strategy Selection**: Traders use skewness to select appropriate options strategies. For instance, strategies may differ when trading options on assets with [positive skewness](../p/positive_skewness.md) versus those with [negative skewness](../n/negative_skewness.md).
 
 #### Measuring Skewness
 
@@ -32,26 +32,26 @@ There are several statistical measures to calculate skewness:
 
 #### Skewness in Implied Volatility
 
-**Implied Volatility Skew**:
+**Implied [Volatility Skew](../v/volatility_skew.md)**:
   
-Implied volatility skew refers to the pattern that emerges when plotting implied volatilities at various strike prices for a given expiration date. This “smile” or “smirk” often reflects the skewness of the underlying asset's return distribution. For example:
+Implied [volatility skew](../v/volatility_skew.md) refers to the pattern that emerges when plotting implied volatilities at various strike prices for a given expiration date. This “smile” or “smirk” often reflects the skewness of the underlying asset's return distribution. For example:
 
-- **Equity Options**: Often show a "volatility smirk," where out-of-the-money put options have higher implied volatilities compared to out-of-the-money calls, reflecting a commonly observed negative skew in equity returns.
+- **[Equity Options](../e/equity_options.md)**: Often show a "volatility smirk," where out-of-the-money [put options](../p/put_options.md) have higher implied volatilities compared to out-of-the-money calls, reflecting a commonly observed negative skew in equity returns.
   
-- **Commodity Options**: May show a different skew pattern depending on the commodity, reflecting the balance of supply and demand, among other factors.
+- **[Commodity Options](../c/commodity_options.md)**: May show a different skew pattern depending on the commodity, reflecting the balance of supply and demand, among other factors.
 
 #### Models Incorporating Skewness
 
 Traditional Black-Scholes models are ill-equipped to handle skewness, leading to the development of advanced models:
 
-- **Stochastic Volatility Models**: These models, like the Heston model, allow volatility to change over time and can incorporate skewness in returns.
+- **[Stochastic Volatility Models](../s/stochastic_volatility_models.md)**: These models, like the Heston model, allow volatility to change over time and can incorporate [skewness in returns](../s/skewness_in_returns.md).
   
   - Heston Model:
   
     \( dS_t = \mu S_t dt + \sqrt{\nu_t} S_t dW_t^1 \)
     \( d\nu_t = \kappa(\theta - \nu_t)dt + \sigma \sqrt{\nu_t} dW_t^2 \)
   
-- **Jump-Diffusion Models**: Introduced by Merton, these models include sudden jumps in asset prices, capturing skewness and kurtosis.
+- **Jump-Diffusion Models**: Introduced by Merton, these models include sudden jumps in asset prices, capturing [skewness and kurtosis](../s/skewness_and_kurtosis.md).
   
   - Merton’s Jump-Diffusion:
   
@@ -63,10 +63,10 @@ Traditional Black-Scholes models are ill-equipped to handle skewness, leading to
 
 2. **Risk Assessment**: Financial analysts use skewness to assess the risk profiles of portfolios. This can be crucial in stress testing and scenario analyses.
 
-3. **Quantitative Models**: Quantitative finance programs incorporate skewness into their models to more accurately reflect market behavior and improve the robustness of their predictions.
+3. **[Quantitative Models](../q/quantitative_models.md)**: [Quantitative finance](../q/quantitative_finance.md) programs incorporate skewness into their models to more accurately reflect market behavior and improve the robustness of their predictions.
 
 #### Conclusion
 
-Skewness is a pivotal concept in the pricing of options and the analysis of risk. By understanding the direction and magnitude of skewness in asset return distributions, traders and risk managers can more accurately price options, select suitable trading strategies, and manage risk more effectively. As markets continue to evolve, the importance of skewness and its integration into pricing models and financial strategies is likely to grow, making it an indispensable tool in modern finance.
+Skewness is a pivotal concept in the pricing of options and the analysis of risk. By understanding the direction and magnitude of skewness in asset return distributions, traders and risk managers can more accurately price options, select suitable [trading strategies](../t/trading_strategies.md), and manage risk more effectively. As markets continue to evolve, the importance of skewness and its integration into pricing models and financial strategies is likely to grow, making it an indispensable tool in modern finance.
 
-For more information on firms that provide tools and platforms for options trading and risk management, you can visit [Interactive Brokers](https://www.interactivebrokers.com), a comprehensive brokerage and trading firm with robust options analysis tools. 
+For more information on firms that provide tools and platforms for options trading and [risk management](../r/risk_management.md), you can visit [Interactive Brokers](https://www.interactivebrokers.com), a comprehensive brokerage and trading firm with robust options analysis tools. 

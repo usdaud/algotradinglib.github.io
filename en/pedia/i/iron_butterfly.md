@@ -37,7 +37,7 @@ The maximum profit is achieved when the underlying asset closes exactly at the m
 
 \( \text{Max Profit} = \text{Net Premium Received} \)
 
-The Net Premium Received is the total premium collected from selling the middle strike call and put, minus the premium paid for buying the out-of-the-money call and put options.
+The Net Premium Received is the total premium collected from selling the middle strike call and put, minus the premium paid for buying the out-of-the-money call and [put options](../p/put_options.md).
 
 ### Maximum Loss
 
@@ -85,22 +85,22 @@ While the Iron Butterfly offers defined risk, several considerations must be kep
 
 Professional traders often tweak the Iron Butterfly to suit specific market conditions or risk tolerance levels. Some common modifications include:
 
-- **Iron Condor**: Similar to Iron Butterfly but with different middle strike prices for sold options, providing a wider range of profitability.
+- **[Iron Condor](../i/iron_condor.md)**: Similar to Iron Butterfly but with different middle strike prices for sold options, providing a wider range of profitability.
 - **Broken Wing Butterfly**: Adjusting strike prices to create asymmetry where one wing is further out-of-the-money than the other, modifying risk and reward profiles.
 
 ## Using Technology for Iron Butterfly
 
-Modern trading platforms and software provide tools for constructing and managing Iron Butterfly strategies. For instance:
+Modern trading platforms and software provide tools for constructing and managing [Iron Butterfly strategies](../i/iron_butterfly_strategies.md). For instance:
 
-- **ThinkOrSwim by TD Ameritrade**: Provides tools for options trade execution, risk analysis, and automatic alerts for managing Iron Butterfly positions.
+- **ThinkOrSwim by TD Ameritrade**: Provides tools for options trade execution, [risk analysis](../r/risk_analysis.md), and automatic alerts for managing Iron Butterfly positions.
   
   More information can be found at: [TD Ameritrade ThinkOrSwim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
 
-- **Interactive Brokers**: Offers a robust options trading interface with analysis tools to implement and monitor Iron Butterfly strategies effectively.
+- **Interactive Brokers**: Offers a robust options trading interface with analysis tools to implement and monitor [Iron Butterfly strategies](../i/iron_butterfly_strategies.md) effectively.
   
   More information can be found at: [Interactive Brokers](https://www.interactivebrokers.com/en/index.php?f=options-trading)
 
-- **TradeStation**: Known for its advanced analytical tools and strategy automation, TradeStation supports complex options strategies including Iron Butterfly with detailed performance analytics.
+- **TradeStation**: Known for its advanced analytical tools and strategy automation, TradeStation supports complex options strategies including Iron Butterfly with detailed [performance analytics](../p/performance_analytics.md).
   
   More information can be found at: [TradeStation](https://www.tradestation.com/pricing/options/)
 

@@ -2,7 +2,7 @@
 
 ## Introduction to Intelligent Agents
 
-Intelligent agents in the context of trading refer to autonomous systems that make trading decisions, execute trades, and manage portfolios with minimal human intervention. These systems use advanced algorithms, machine learning techniques, and vast amounts of historical and real-time data to analyze market conditions, predict price movements, and optimize trading strategies. The goal of intelligent agents is to enhance trading efficiency, minimize risks, and maximize returns.
+Intelligent agents in the context of trading refer to autonomous systems that make trading decisions, execute trades, and manage portfolios with minimal human intervention. These systems use advanced algorithms, machine learning techniques, and vast amounts of historical and real-time data to analyze market conditions, predict price movements, and optimize [trading strategies](../t/trading_strategies.md). The goal of intelligent agents is to enhance trading efficiency, minimize risks, and maximize returns.
 
 ## Types of Intelligent Agents in Trading
 
@@ -12,21 +12,21 @@ There are several types of intelligent agents used in trading, each with its own
 These agents operate based on predefined rules and logical conditions. For example, a rule-based agent might automatically buy a stock if its price falls below a certain threshold.
 
 ### 2. Machine Learning Agents
-These agents use various machine learning algorithms to identify patterns and make predictions. Techniques such as regression models, decision trees, and neural networks are common.
+These agents use various machine learning algorithms to identify patterns and make predictions. Techniques such as regression models, [decision trees](../d/decision_trees.md), and neural networks are common.
 
 ### 3. Evolutionary Agents
-Inspired by biological evolution, these agents use algorithms like genetic algorithms to evolve and optimize trading strategies over time.
+Inspired by biological evolution, these agents use algorithms like genetic algorithms to evolve and optimize [trading strategies](../t/trading_strategies.md) over time.
 
 ### 4. Reinforcement Learning Agents
-These agents learn optimal trading strategies by interacting with the market environment and receiving feedback in the form of rewards or penalties.
+These agents learn optimal [trading strategies](../t/trading_strategies.md) by interacting with the market environment and receiving feedback in the form of rewards or penalties.
 
 ## Key Components of Intelligent Trading Agents
 
 ### 1. Data Ingestion and Processing
-Intelligent agents require large datasets to function effectively. This includes real-time data, historical data, economic indicators, social media sentiment, and more. Advanced data processing techniques are used to clean and normalize the data for analysis.
+Intelligent agents require large datasets to function effectively. This includes real-time data, historical data, [economic indicators](../e/economic_indicators.md), [social media sentiment](../s/social_media_sentiment.md), and more. Advanced data processing techniques are used to clean and normalize the data for analysis.
 
 ### 2. Feature Extraction and Selection
-Identifying relevant features from the data is crucial for building effective trading models. This involves techniques like principal component analysis (PCA) to reduce dimensionality and select the most informative features.
+Identifying relevant features from the data is crucial for building effective [trading models](../t/trading_models.md). This involves techniques like principal component analysis (PCA) to reduce dimensionality and select the most informative features.
 
 ### 3. Model Building and Training
 Using machine learning and statistical methods, intelligent agents build predictive models. Training involves adjusting model parameters to minimize errors in predictions.
@@ -40,7 +40,7 @@ Once deployed, intelligent agents execute trades based on their models’ predic
 ## Algorithms Used in Intelligent Trading Agents
 
 ### 1. Time Series Analysis
-Time series analysis involves techniques like ARIMA (AutoRegressive Integrated Moving Average) and GARCH (Generalized Autoregressive Conditional Heteroskedasticity), which are crucial for modeling and forecasting market prices.
+[Time series analysis](../t/time_series_analysis.md) involves techniques like ARIMA (AutoRegressive Integrated Moving Average) and GARCH (Generalized Autoregressive Conditional Heteroskedasticity), which are crucial for modeling and forecasting market prices.
 
 ### 2. Deep Learning
 Deep learning techniques, particularly Long Short-Term Memory (LSTM) networks and Convolutional Neural Networks (CNNs), are used to capture intricate patterns in large datasets.
@@ -57,7 +57,7 @@ NLP techniques help in analyzing textual data such as news articles, earnings re
 HFT involves making thousands of trades per second using sophisticated algorithms. Intelligent agents play a crucial role in this domain by executing trades at lightning speed and with high precision.
 
 ### 2. Algorithmic Trading
-Intelligent agents are widely used in algorithmic trading to automatically implement trading strategies based on various quantitative models.
+Intelligent agents are widely used in [algorithmic trading](../a/algorithmic_trading.md) to automatically implement [trading strategies](../t/trading_strategies.md) based on various [quantitative models](../q/quantitative_models.md).
 
 ### 3. Portfolio Management
 Agents help in dynamically adjusting the composition of investment portfolios based on market conditions, risk tolerance, and investment goals.
@@ -88,7 +88,7 @@ Securing the systems against cyber threats is crucial to protect sensitive finan
 ## Leading Companies in Intelligent Trading Agents
 
 ### 1. Two Sigma Investments
-Two Sigma uses machine learning and distributed computing to derive insights from vast amounts of data and develop innovative trading strategies.
+Two Sigma uses machine learning and distributed computing to derive insights from vast amounts of data and develop innovative [trading strategies](../t/trading_strategies.md).
 Website: [Two Sigma](https://www.twosigma.com/)
 
 ### 2. Renaissance Technologies
@@ -119,7 +119,7 @@ Quantum computing holds the potential to solve complex trading problems at unpre
 Blockchain technology could provide transparent and secure transaction records, improving trust and efficiency in trading activities managed by intelligent agents.
 
 ### 4. Enhanced Natural Language Processing
-Advancements in NLP will enable better extraction of insights from unstructured data like news and social media, improving sentiment analysis and decision-making.
+Advancements in NLP will enable better extraction of insights from unstructured data like news and social media, improving [sentiment analysis](../s/sentiment_analysis.md) and decision-making.
 
 ### 5. Ethical and Transparent AI
 As intelligent agents become more prevalent, ensuring that their operations are ethical, transparent, and free from biases will be crucial to maintain market stability and fairness.

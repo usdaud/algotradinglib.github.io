@@ -29,16 +29,16 @@ Central to order-driven markets is the order book, which is a record of all buy 
 The matching engine is the core of an order-driven market. It is the algorithm that processes incoming orders, matches them according to price and time priority, and executes trades. The matching engine is responsible for ensuring that orders are matched fairly and efficiently. It employs various rules and mechanisms to determine the order of execution, including the following:
 
 - **Price-Time Priority:** Orders are matched based on the best price first. If multiple orders have the same price, the order entered first is matched first.
-- **Order Matching Algorithms:** Different markets may use different matching algorithms, such as FIFO (First In, First Out), Pro-rata, or a hybrid approach combining elements of both.
+- **[Order Matching Algorithms](../o/order_matching_algorithms.md):** Different markets may use different matching algorithms, such as FIFO (First In, First Out), Pro-rata, or a hybrid approach combining elements of both.
 
 ### Market Participants
 
-Order-driven markets are characterized by a diverse range of participants, including individual retail investors, institutional investors, proprietary trading firms, and algorithmic traders. These participants use various strategies to achieve their investment objectives, such as:
+Order-driven markets are characterized by a diverse range of participants, including individual retail investors, institutional investors, [proprietary trading](../p/proprietary_trading.md) firms, and algorithmic traders. These participants use various strategies to achieve their investment objectives, such as:
 
 - **Market Making:** Providing liquidity by continuously placing buy and sell orders at different prices.
-- **Arbitrage:** Exploiting price discrepancies between different markets or instruments.
-- **Momentum Trading:** Attempting to profit from short-term price movements based on market trends.
-- **Mean Reversion:** Betting that prices will revert to their historical averages.
+- **[Arbitrage](../a/arbitrage.md):** Exploiting price discrepancies between different markets or instruments.
+- **[Momentum Trading](../m/momentum_trading.md):** Attempting to profit from short-term price movements based on market trends.
+- **[Mean Reversion](../m/mean_reversion.md):** Betting that prices will revert to their historical averages.
 
 ### Liquidity and Depth
 
@@ -89,14 +89,14 @@ Prominent stock exchanges that utilize order-driven market structures include:
 
 ### Futures Markets
 
-Futures exchanges such as the Chicago Mercantile Exchange (CME) and the Intercontinental Exchange (ICE) use order-driven market structures for trading futures contracts.
+Futures exchanges such as the Chicago Mercantile Exchange (CME) and the Intercontinental Exchange (ICE) use order-driven market structures for trading [futures contracts](../f/futures_contracts.md).
 
-- **CME Group:** [CME Group](https://www.cmegroup.com) is a leading derivatives marketplace that employs an electronic order-driven market model.
+- **CME Group:** [CME Group](https://www.cmegroup.com) is a leading [derivatives](../d/derivatives.md) marketplace that employs an electronic order-driven market model.
 - **ICE:** [Intercontinental Exchange](https://www.theice.com) operates various futures exchanges with order-driven trading mechanisms.
 
 ### Electronic Communication Networks (ECNs)
 
-ECNs are automated systems that match buy and sell orders for securities. They operate as order-driven markets and are widely used in forex and equity trading.
+ECNs are automated systems that match buy and sell orders for securities. They operate as order-driven markets and are widely used in forex and [equity trading](../e/equity_trading.md).
 
 - **Instinet:** [Instinet](https://www.instinet.com) is an early pioneer of ECNs and provides electronic trading solutions for institutional clients.
 - **Bats Global Markets:** [Bats Global Markets](https://www.markets.cboe.com) is a major operator of stock exchanges and ECNs, now part of Cboe Global Markets.

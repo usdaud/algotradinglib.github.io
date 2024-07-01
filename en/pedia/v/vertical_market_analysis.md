@@ -20,7 +20,7 @@ Identifying key players, their market share, strengths, weaknesses, and strategi
 Profiling the target audience in a vertical market includes understanding their needs, preferences, purchasing behaviors, and pain points. This information can be gathered through surveys, focus groups, and customer interviews, providing a holistic view of customer personas.
 
 ### Regulatory Environment
-Vertical markets often operate under specific regulatory frameworks. For instance, pharmaceuticals must comply with FDA regulations, while financial services must adhere to SEC guidelines. Awareness of these regulations is critical for compliance and risk management.
+Vertical markets often operate under specific regulatory frameworks. For instance, pharmaceuticals must comply with FDA regulations, while financial services must adhere to SEC guidelines. Awareness of these regulations is critical for compliance and [risk management](../r/risk_management.md).
 
 ### Technological Advancements
 Keeping abreast of technological advancements within the vertical can offer competitive advantages. For example, in fintech, developments in blockchain and AI are revolutionary, while in healthcare, advancements in telemedicine are significant.

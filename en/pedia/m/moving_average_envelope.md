@@ -1,16 +1,16 @@
 # Moving Average Envelope
 
-The Moving Average Envelope (MAE) is a technical analysis tool used in financial markets to identify possible trading ranges and market trends. It is constructed by plotting two bands around a moving average, creating an envelope-like structure. These bands are typically set at a fixed percentage above and below the moving average. This technique helps traders to determine overbought and oversold conditions, as well as potential breakout points.
+The Moving Average Envelope (MAE) is a [technical analysis](../t/technical_analysis.md) tool used in financial markets to identify possible trading ranges and market trends. It is constructed by plotting two bands around a moving average, creating an envelope-like structure. These bands are typically set at a fixed percentage above and below the moving average. This technique helps traders to determine overbought and oversold conditions, as well as potential breakout points.
 
 ## How it Works
 
-The Moving Average Envelope is based on the idea that markets move within a certain range most of the time. When the price action moves outside of this range, it could indicate a potential breakout or a trend reversal. The underlying assumption is that prices will revert to the mean unless a major event or a strong trend pushes them further away from the moving average.
+The Moving Average Envelope is based on the idea that markets move within a certain range most of the time. When the price action moves outside of this range, it could indicate a potential breakout or a [trend reversal](../t/trend_reversal.md). The underlying assumption is that prices will revert to the mean unless a major event or a strong trend pushes them further away from the moving average.
 
 ### Key Components
 
 1. **Moving Average**: The central line of the envelope is a moving average, which is a statistical calculation used to analyze data points by creating a series of averages of different subsets of the full data set. It can be a Simple Moving Average (SMA), Exponential Moving Average (EMA), or any other type of moving average.
 
-2. **Envelope Bands**: The upper and lower bands are calculated as a percentage distance from the moving average. For example, if the moving average is set at 20 days and the envelope percentage is 2%, the upper band will be 2% above the 20-day moving average, and the lower band will be 2% below the 20-day moving average.
+2. **Envelope Bands**: The upper and lower bands are calculated as a percentage distance from the moving average. For example, if the moving average is set at 20 days and the envelope percentage is 2%, the upper band will be 2% above the [20-day moving average](../1/20-day_moving_average.md), and the lower band will be 2% below the [20-day moving average](../1/20-day_moving_average.md).
 
 ## Calculating Moving Average Envelope
 
@@ -42,7 +42,7 @@ When the price moves to the upper band, the market might be considered overbough
 
 ### Generating Trading Signals
 
-MAE can generate buy or sell signals based on price actions near the bands. A price crossing above the upper band could be a sell signal, while a price crossing below the lower band could be a buy signal. However, it is advisable to use MAE in conjunction with other technical indicators to confirm these signals.
+MAE can generate buy or sell signals based on price actions near the bands. A price crossing above the upper band could be a sell signal, while a price crossing below the lower band could be a buy signal. However, it is advisable to use MAE in conjunction with other [technical indicators](../t/technical_indicators.md) to confirm these signals.
 
 ## Examples of MAE Application
 
@@ -66,6 +66,6 @@ While MAE is a useful tool, it has its limitations:
 
 ## Conclusion
 
-The Moving Average Envelope is a straightforward yet powerful tool in the arsenal of technical analysts and traders. It helps in identifying trends, detecting overbought and oversold conditions, and generating trading signals. However, like any technical indicator, it should not be used in isolation. Combining MAE with other technical tools and performing thorough market analysis can enhance trading decisions and reduce risks.
+The Moving Average Envelope is a straightforward yet powerful tool in the arsenal of technical analysts and traders. It helps in identifying trends, detecting overbought and oversold conditions, and generating [trading signals](../t/trading_signals.md). However, like any technical indicator, it should not be used in isolation. Combining MAE with other technical tools and performing thorough market analysis can enhance trading decisions and reduce risks.
 
 For more detailed information, traders can visit financial analysis platforms that provide tools for creating and analyzing MAE, such as [TradingView](https://www.tradingview.com) or [MetaStock](https://www.metastock.com).

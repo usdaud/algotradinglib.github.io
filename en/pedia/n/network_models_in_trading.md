@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In the modern financial market, trading has emerged as predominantly automated with the proliferation of high-frequency trading (HFT), algorithmic trading, and quantitative trading strategies. Network models have become crucial tools for traders and firms to understand, predict, and exploit asset price movements. By using these models, trading entities can better grasp the complex relationships between different market variables and improve prediction accuracy, enhance decision-making, and optimize trading strategies.
+In the modern financial market, trading has emerged as predominantly automated with the proliferation of high-frequency trading (HFT), [algorithmic trading](../a/algorithmic_trading.md), and [quantitative trading](../q/quantitative_trading.md) strategies. Network models have become crucial tools for traders and firms to understand, predict, and exploit asset price movements. By using these models, trading entities can better grasp the complex relationships between different market variables and improve prediction accuracy, enhance decision-making, and optimize [trading strategies](../t/trading_strategies.md).
 
 Network models leverage concepts from graph theory, machine learning, and statistical analysis to provide detailed insights into market dynamics. They help traders identify patterns, relationships, and anomalies in financial data that human traders might overlook. This document explores the intricacies of network models in trading, their applications, key methodologies, and benefits.
 
@@ -40,7 +40,7 @@ Network models can be instrumental in managing risks, as they help in identifyin
 
 ### Portfolio Optimization
 
-Portfolio optimization benefits significantly from network models by allowing traders to understand the relationships between different assets. This understanding helps in constructing diversified portfolios that maximize returns while minimizing risks. By focusing on less correlated assets, traders can achieve better risk-adjusted returns.
+[Portfolio optimization](../p/portfolio_optimization.md) benefits significantly from network models by allowing traders to understand the relationships between different assets. This understanding helps in constructing diversified portfolios that maximize returns while minimizing risks. By focusing on less correlated assets, traders can achieve better risk-adjusted returns.
 
 ### Market Sentiment Analysis
 
@@ -52,7 +52,7 @@ Network models can be used to detect anomalies and potential fraud in trading ac
 
 ### High-Frequency Trading (HFT)
 
-In HFT, milliseconds matter. Network models can enhance trading algorithms by providing real-time insights into market dynamics and relationships. This information can be used to make split-second decisions that can result in significant gains.
+In HFT, milliseconds matter. Network models can enhance [trading algorithms](../t/trading_algorithms.md) by providing real-time insights into market dynamics and relationships. This information can be used to make split-second decisions that can result in significant gains.
 
 ## Methodologies
 
@@ -60,11 +60,11 @@ In HFT, milliseconds matter. Network models can enhance trading algorithms by pr
 
 1. **Graph Convolutional Networks (GCNs)**: Used to analyze data structured as graphs. GCNs can capture the spatial dependencies between nodes, making them powerful tools for analyzing networked financial data.
 2. **Recurrent Neural Networks (RNNs)**: Can model the temporal dependencies in financial data. When applied to network models, RNNs can help in predicting future trends and relationships based on historical patterns.
-3. **Clustering Algorithms**: Such as K-means and DBSCAN, can be used to identify communities within the network. This helps in understanding the structure and segmentation of the market.
+3. **[Clustering Algorithms](../c/clustering_algorithms.md)**: Such as K-means and DBSCAN, can be used to identify communities within the network. This helps in understanding the structure and segmentation of the market.
 
 ### Statistical Methods
 
-1. **Correlation Analysis**: Used to construct correlation networks by measuring the linear relationship between different financial variables.
+1. **[Correlation Analysis](../c/correlation_analysis.md)**: Used to construct correlation networks by measuring the linear relationship between different financial variables.
 2. **Granger Causality**: Determines whether one time series can predict another. This is useful for constructing causal networks.
 3. **Principal Component Analysis (PCA)**: Reduces the dimensionality of the data, making it easier to visualize and analyze complex network structures.
 
@@ -72,13 +72,13 @@ In HFT, milliseconds matter. Network models can enhance trading algorithms by pr
 
 ### JPMorgan Chase
 
-JPMorgan Chase uses network models for risk management and market trend analysis. The firm's quantitative research wing leverages these models to enhance trading strategies and manage portfolio risks effectively. The bank's strategies are heavily reliant on network models to stay ahead in the competitive financial market.
+JPMorgan Chase uses network models for [risk management](../r/risk_management.md) and [market trend analysis](../m/market_trend_analysis.md). The firm's [quantitative research](../q/quantitative_research.md) wing leverages these models to enhance [trading strategies](../t/trading_strategies.md) and manage portfolio risks effectively. The bank's strategies are heavily reliant on network models to stay ahead in the competitive financial market.
 
 **Reference**: [JPMorgan Chase](https://www.jpmorganchase.com)
 
 ### Two Sigma
 
-Two Sigma, a quantitative investment firm, employs advanced network models to perfect their trading algorithms. By using machine learning and big data analytics, Two Sigma creates robust network models that provide deep insights into market behavior.
+Two Sigma, a quantitative investment firm, employs advanced network models to perfect their [trading algorithms](../t/trading_algorithms.md). By using machine learning and big data analytics, Two Sigma creates robust network models that provide deep insights into market behavior.
 
 **Reference**: [Two Sigma](https://www.twosigma.com)
 

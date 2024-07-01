@@ -1,12 +1,12 @@
 ## Global Macro Strategies in Trading
 
-Global macro strategies are an investment approach that utilizes broad and diversified economic and political views on a global scale to inform trading decisions. These strategies often encompass various asset classes including currencies, interest rates, commodities, equities, and bonds. By capitalizing on worldwide economic trends and geopolitical events, global macro strategies aim to generate substantial returns regardless of overall market direction.
+Global macro strategies are an investment approach that utilizes broad and diversified economic and political views on a global scale to inform trading decisions. These strategies often encompass various asset classes including currencies, interest rates, commodities, equities, and bonds. By capitalizing on worldwide economic trends and [geopolitical events](../g/geopolitical_events.md), global macro strategies aim to generate substantial returns regardless of overall market direction.
 
 ### Fundamental Concepts
 
 #### Economic Indicators
 
-Global macro traders heavily rely on economic indicators to predict future market movements. Key indicators include:
+Global macro traders heavily rely on [economic indicators](../e/economic_indicators.md) to predict future market movements. Key indicators include:
 
 - **GDP (Gross Domestic Product):** Represents the total value of goods and services produced in a country.
 - **Inflation Rates:** Measures how fast prices for goods and services are rising.
@@ -21,13 +21,13 @@ Geopolitical stability or unrest can significantly impact markets:
 - **Elections:** Changes in political leadership can lead to policy shifts affecting economic outlooks.
 - **Trade Wars:** Tariffs and trade barriers between countries can disrupt global supply chains.
 - **Conflicts and Sanctions:** Political conflicts and sanctions can create risks and opportunities in commodity and currency markets.
-- **Monetary Policies:** Central bank decisions on interest rates and quantitative easing influence global money flow.
+- **Monetary Policies:** Central bank decisions on interest rates and [quantitative easing](../q/quantitative_easing.md) influence global money flow.
 
 ### Tactical Approaches
 
 #### Top-Down Analysis
 
-Top-down analysis involves assessing the big picture of global economies and markets to select investment opportunities. This method starts with a macroeconomic viewpoint before drilling down into individual sectors or assets.
+[Top-down analysis](../t/top-down_analysis.md) involves assessing the big picture of global economies and markets to select investment opportunities. This method starts with a macroeconomic viewpoint before drilling down into individual sectors or assets.
 
 - **Global Economic Growth:** Identifying regions or countries with strong economic growth prospects.
 - **Sectoral Performance:** Selecting sectors expected to outperform based on economic conditions (e.g., technology vs. energy).
@@ -38,7 +38,7 @@ Top-down analysis involves assessing the big picture of global economies and mar
 Less common in global macro, bottom-up analysis focuses on the fundamentals of individual securities. While primarily used in equity strategies, it can complement macro views:
 
 - **Company Financials:** In-depth analysis of financial statements and earnings potential.
-- **Valuation Metrics:** Evaluating price-to-earnings, price-to-book, and other valuation multiples.
+- **Valuation Metrics:** Evaluating price-to-earnings, price-to-book, and other [valuation multiples](../v/valuation_multiples.md).
 - **Competitive Advantage:** Assessing a company’s market position and business model.
 
 ### Trading Instruments
@@ -48,8 +48,8 @@ Less common in global macro, bottom-up analysis focuses on the fundamentals of i
 Global macro strategies often involve trading currencies to capitalize on economic and political shifts. Key pairs include EUR/USD, USD/JPY, GBP/USD, and more exotic currencies.
 
 - **Carry Trades:** Borrowing in a currency with low interest rates to invest in a currency with higher rates.
-- **Trend Following:** Identifying and following long-term trends in currency movements.
-- **Range Trading:** Trading within defined price ranges based on fundamental support and resistance levels.
+- **[Trend Following](../t/trend_following.md):** Identifying and following long-term trends in currency movements.
+- **[Range Trading](../r/range_trading.md):** Trading within defined price ranges based on fundamental [support and resistance](../s/support_and_resistance.md) levels.
 
 #### Fixed Income & Interest Rates
 
@@ -63,8 +63,8 @@ Interest rate movements are a cornerstone in global macro strategies:
 
 While not the primary focus, equities can be part of a diversified global macro portfolio:
 
-- **Index Futures:** Trading futures on global equity indices (e.g., S&P 500, Nikkei 225).
-- **Sector Rotation:** Allocating to specific sectors based on macroeconomic views.
+- **[Index Futures](../i/index_futures.md):** Trading futures on global equity indices (e.g., S&P 500, Nikkei 225).
+- **[Sector Rotation](../s/sector_rotation.md):** Allocating to specific sectors based on macroeconomic views.
 - **Long/Short Positions:** Taking long positions in undervalued stocks and short positions in overvalued ones.
 
 #### Commodities
@@ -77,12 +77,12 @@ Commodity markets such as oil, gold, and agricultural products are highly respon
 
 ### Risk Management
 
-Risk management is crucial in global macro strategies due to the vast scope and potential volatility. Techniques include:
+[Risk management](../r/risk_management.md) is crucial in global macro strategies due to the vast scope and potential volatility. Techniques include:
 
 - **Diversification:** Spreading investments across various assets and geographies to mitigate risk.
-- **Hedging:** Using derivatives like options and futures to protect against adverse movements.
-- **Position Sizing:** Calculating an optimal position size relative to the total portfolio to limit exposure.
-- **Stop-Loss Orders:** Automatically selling a position at a predetermined price to cap losses.
+- **Hedging:** Using [derivatives](../d/derivatives.md) like options and futures to protect against adverse movements.
+- **[Position Sizing](../p/position_sizing.md):** Calculating an optimal position size relative to the total portfolio to limit exposure.
+- **[Stop-Loss Orders](../s/stop-loss_orders.md):** Automatically selling a position at a predetermined price to cap losses.
 - **Leverage Use:** Employing leverage cautiously to enhance returns without disproportionate risk.
 
 ### Notable Global Macro Funds
@@ -97,4 +97,4 @@ Several hedge funds and asset management companies are renowned for their global
 
 ### Conclusion
 
-Global macro strategies represent a sophisticated and dynamic approach to trading that leverages comprehensive economic and geopolitical analysis to make investment decisions. By utilizing a diverse set of instruments and robust risk management practices, traders and funds aiming to implement these strategies try to navigate and profit from complex global markets, often achieving significant returns in both volatile and stable environments.
+Global macro strategies represent a sophisticated and dynamic approach to trading that leverages comprehensive economic and geopolitical analysis to make investment decisions. By utilizing a diverse set of instruments and robust [risk management](../r/risk_management.md) practices, traders and funds aiming to implement these strategies try to navigate and profit from complex global markets, often achieving significant returns in both volatile and stable environments.

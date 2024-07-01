@@ -1,10 +1,10 @@
 # Weighted Least Squares (WLS)
 
-Weighted Least Squares (WLS) is an important statistical method used to perform linear regression when the standard assumptions of ordinary least squares (OLS) are not met. Specifically, WLS addresses situations where heteroscedasticity is present, that is, when the variance of the errors varies across observations. It assigns different weights to different data points based on the certainty of the measurements, thereby improving the accuracy and reliability of the regression model.
+Weighted Least Squares (WLS) is an important statistical method used to perform [linear regression](../l/linear_regression.md) when the standard assumptions of ordinary least squares (OLS) are not met. Specifically, WLS addresses situations where heteroscedasticity is present, that is, when the variance of the errors varies across observations. It assigns different weights to different data points based on the certainty of the measurements, thereby improving the accuracy and reliability of the regression model.
 
 ## Introduction to Regression Analysis
 
-Regression analysis is a statistical technique for examining the relationship between a dependent variable and one or more independent variables. The most common form of regression analysis is linear regression, where the relationship is modeled by a linear function.
+[Regression analysis](../r/regression_analysis.md) is a statistical technique for examining the relationship between a dependent variable and one or more independent variables. The most common form of [regression analysis](../r/regression_analysis.md) is [linear regression](../l/linear_regression.md), where the relationship is modeled by a linear function.
 
 ### Ordinary Least Squares (OLS)
 
@@ -50,7 +50,7 @@ Where each weight \( w_i \) is typically \( \frac{1}{\sigma_i^2} \), with \( \si
 
 ## Mathematical Formulation of WLS
 
-Consider the linear regression model:
+Consider the [linear regression](../l/linear_regression.md) model:
 \[ \mathbf{Y} = \mathbf{X} \boldsymbol{\beta} + \boldsymbol{\epsilon} \]
 
 With \( \mathbf{Y} \) being the vector of observed values, \( \mathbf{X} \) the matrix of independent variables, \( \boldsymbol{\beta} \) the vector of regression coefficients, and \( \boldsymbol{\epsilon} \) the error terms.
@@ -70,13 +70,13 @@ Where \( \mathbf{W} \) is the diagonal weight matrix.
 
 ## Application in Algo Trading
 
-Algo trading, or algorithmic trading, involves using algorithms to automate trading strategies. In such a dynamic environment, accurate modeling of the relationships between various financial indicators is crucial.
+Algo trading, or [algorithmic trading](../a/algorithmic_trading.md), involves using algorithms to automate [trading strategies](../t/trading_strategies.md). In such a dynamic environment, accurate modeling of the relationships between various financial indicators is crucial.
 
 ### Use of WLS in Algo Trading
 
 1. **Address Heteroscedasticity**: Financial data often exhibits heteroscedasticity due to varying market volatility. WLS helps in creating more reliable models.
-2. **Improve Model Accuracy**: By assigning appropriate weights, WLS improves the precision of the predictive models used in trading algorithms.
-3. **Enhance Risk Management**: Better model accuracy translates to more effective risk management strategies in trading.
+2. **Improve Model Accuracy**: By assigning appropriate weights, WLS improves the precision of the predictive models used in [trading algorithms](../t/trading_algorithms.md).
+3. **Enhance [Risk Management](../r/risk_management.md)**: Better model accuracy translates to more effective [risk management](../r/risk_management.md) strategies in trading.
 
 ## Practical Example
 
@@ -94,6 +94,6 @@ By incorporating WLS, the analyst achieves a model that better adjusts to varyin
 
 ## Conclusion
 
-Weighted Least Squares is a powerful extension of ordinary least squares, providing robustness to heteroscedasticity and improving model accuracy. Its application is particularly valuable in fields like algorithmic trading, where precision and reliability are paramount. Understanding and applying WLS equips analysts and traders with the tools to address real-world data complexities, leading to more informed and effective decision-making.
+Weighted Least Squares is a powerful extension of ordinary least squares, providing robustness to heteroscedasticity and improving model accuracy. Its application is particularly valuable in fields like [algorithmic trading](../a/algorithmic_trading.md), where precision and reliability are paramount. Understanding and applying WLS equips analysts and traders with the tools to address real-world data complexities, leading to more informed and effective decision-making.
 
 For further information or in-depth examples, consulting specialized statistical texts or comprehensive resources such as econometrics literature is recommended.

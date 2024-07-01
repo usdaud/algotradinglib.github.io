@@ -1,6 +1,6 @@
 ### Input-Output Analysis in Trading
 
-Input-Output Analysis (IOA) is an economic model that represents the interdependencies between different sectors of an economy. It was originally developed by Wassily Leontief, a pioneer in economic theory, to analyze the flow of goods and services within an economy. In the context of trading, this analysis can be applied to understand the intricate relationships between various financial instruments, markets, and economic indicators. This helps traders and analysts to make informed decisions based on the interdependencies and flow of capital within the trading ecosystem.
+Input-Output Analysis (IOA) is an economic model that represents the interdependencies between different sectors of an economy. It was originally developed by Wassily Leontief, a pioneer in economic theory, to analyze the flow of goods and services within an economy. In the context of trading, this analysis can be applied to understand the intricate relationships between various financial instruments, markets, and [economic indicators](../e/economic_indicators.md). This helps traders and analysts to make informed decisions based on the interdependencies and flow of capital within the trading ecosystem.
 
 #### Origins of Input-Output Analysis
 
@@ -22,11 +22,11 @@ In trading, IOA can be adapted to quantify and navigate the complex relationship
 
    The supply chain of a company involves several sectors. By applying IOA, traders can analyze how disruptions in one part of the supply chain affect the company’s stock price. For example, a shortage of semiconductors impacts numerous industries from automotive to electronics. Understanding these connections helps traders in making strategic decisions.
 
-4. **Portfolio Optimization**
+4. **[Portfolio Optimization](../p/portfolio_optimization.md)**
 
-   IOA aids traders in portfolio diversification by identifying less correlated assets. By mapping out interdependencies, traders can construct a portfolio that minimizes risk while maximizing returns. For example, if a trader understands that certain sectors are inversely related, they can balance their portfolio to mitigate potential losses.
+   IOA aids traders in [portfolio diversification](../p/portfolio_diversification.md) by identifying less correlated assets. By mapping out interdependencies, traders can construct a portfolio that minimizes risk while maximizing returns. For example, if a trader understands that certain sectors are inversely related, they can balance their portfolio to mitigate potential losses.
 
-5. **Risk Management**
+5. **[Risk Management](../r/risk_management.md)**
 
    Through IOA, traders can identify systemic risks that might not be evident through traditional analysis. For example, during the 2008 financial crisis, understanding the interdependencies in the housing market and financial institutions could have highlighted vulnerabilities earlier. IOA helps in identifying such hidden risks.
 
@@ -50,13 +50,13 @@ In trading, IOA can be adapted to quantify and navigate the complex relationship
    [BlackRock](https://www.blackrock.com) integrates advanced analytics, including IOA, to manage its vast portfolio of assets. By leveraging these models, the company can make informed decisions, optimizing performance and managing risks.
 
 2. **Goldman Sachs**
-   [Goldman Sachs](https://www.goldmansachs.com) uses sophisticated models that include IOA principles to understand market dynamics and client portfolios. This helps in offering tailored investment strategies and risk management solutions.
+   [Goldman Sachs](https://www.goldmansachs.com) uses sophisticated models that include IOA principles to understand market dynamics and client portfolios. This helps in offering tailored investment strategies and [risk management](../r/risk_management.md) solutions.
 
 3. **JP Morgan**
-   [JP Morgan](https://www.jpmorgan.com) employs IOA among other advanced analytical techniques to assess the impact of economic changes on different sectors, aiding in developing robust trading strategies.
+   [JP Morgan](https://www.jpmorgan.com) employs IOA among other advanced analytical techniques to assess the impact of economic changes on different sectors, aiding in developing robust [trading strategies](../t/trading_strategies.md).
 
 4. **Citadel**
-   [Citadel](https://www.citadel.com) applies a variety of quantitative analysis methods including IOA to execute high-frequency trading strategies and manage a diverse portfolio across different asset classes.
+   [Citadel](https://www.citadel.com) applies a variety of [quantitative analysis](../q/quantitative_analysis.md) methods including IOA to execute high-frequency [trading strategies](../t/trading_strategies.md) and manage a diverse portfolio across different asset classes.
 
 #### Challenges and Limitations
 

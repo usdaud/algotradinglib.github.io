@@ -1,6 +1,6 @@
 # Stochastic Gradient Descent (SGD)
 
-Stochastic Gradient Descent (SGD) is a powerful optimization technique widely used in the field of machine learning and data mining, particularly for training large-scale models and algorithms. In the context of algorithmic trading, SGD is pivotal in optimizing trading strategies, calibrating model parameters, and refining machine learning models to increase the predictive power and profitability of trading systems. This extensive exploration will cover the core concepts, mathematical formulation, variants, applications, and practical implementations of SGD in algorithmic trading.
+Stochastic Gradient Descent (SGD) is a powerful optimization technique widely used in the field of machine learning and [data mining](../d/data_mining.md), particularly for training large-scale models and algorithms. In the context of [algorithmic trading](../a/algorithmic_trading.md), SGD is pivotal in optimizing [trading strategies](../t/trading_strategies.md), calibrating model parameters, and refining machine learning models to increase the predictive power and profitability of [trading systems](../t/trading_systems.md). This extensive exploration will cover the core concepts, mathematical formulation, variants, applications, and practical implementations of SGD in [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Core Concepts and Mathematical Formulation
 
@@ -90,13 +90,13 @@ v_{t+1} = \beta v_t + \eta \cdot \nabla f(\theta_t - \beta v_t)
 
 ### Predictive Models
 
-SGD is instrumental in calibrating predictive models used in algorithmic trading. These models can include:
-- **Time Series Forecasting:** Predicting stock prices.
+SGD is instrumental in calibrating predictive models used in [algorithmic trading](../a/algorithmic_trading.md). These models can include:
+- **[Time Series Forecasting](../t/time_series_forecasting.md):** Predicting stock prices.
 - **Classification Models:** Identifying bullish or bearish trends.
 
 ### Trading Strategy Optimization
 
-Using SGD, one can optimize trading strategies by minimizing the loss function associated with the trading rules:
+Using SGD, one can optimize [trading strategies](../t/trading_strategies.md) by minimizing the loss function associated with the [trading rules](../t/trading_rules.md):
 \[
 L(\theta) = -R(\theta) + \lambda ||\theta||^2
 \]
@@ -104,7 +104,7 @@ where \(R(\theta)\) is the return function dependent on the strategy parameters 
 
 ### Risk Management
 
-SGD can also be applied to enhance risk management models by minimizing the expected loss due to risks:
+SGD can also be applied to enhance [risk management](../r/risk_management.md) models by minimizing the expected loss due to risks:
 \[
 \text{Risk}(\theta) = \mathbb{E}[L(\theta)]
 \]
@@ -202,4 +202,4 @@ print(validation_output[:10])
 
 ## Conclusion
 
-Stochastic Gradient Descent and its variants are foundational in the realm of optimization for machine learning models, playing a crucial role in algorithmic trading. The adaptability, efficiency, and convergence capabilities of SGD make it an ideal choice for training large-scale predictive models, optimizing trading strategies, and enhancing risk management techniques. Understanding these concepts and their practical implementations enables algorithmic traders and quants to harness the full potential of cutting-edge machine learning technologies.
+Stochastic Gradient Descent and its variants are foundational in the realm of optimization for machine learning models, playing a crucial role in [algorithmic trading](../a/algorithmic_trading.md). The adaptability, efficiency, and convergence capabilities of SGD make it an ideal choice for training large-scale predictive models, optimizing [trading strategies](../t/trading_strategies.md), and enhancing [risk management](../r/risk_management.md) techniques. Understanding these concepts and their practical implementations enables algorithmic traders and quants to harness the full potential of cutting-edge machine learning technologies.

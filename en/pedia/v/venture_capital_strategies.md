@@ -62,7 +62,7 @@ Buyouts occur when the company's management or another investor group buys out t
 ## Risk Management in Venture Capital
 
 ### Diversification
-Diversification is a key risk management strategy in venture capital. By investing in a diverse portfolio of companies across different industries and stages, investors can minimize the impact of any single investment's failure. Diversification helps spread risk and increase the likelihood of achieving overall positive returns.
+Diversification is a key [risk management](../r/risk_management.md) strategy in venture capital. By investing in a diverse portfolio of companies across different industries and stages, investors can minimize the impact of any single investment's failure. Diversification helps spread risk and increase the likelihood of achieving overall positive returns.
 
 ### Due Diligence
 Thorough due diligence is essential for managing risk in venture capital investments. This process involves a comprehensive evaluation of the target company's business model, financial health, market potential, and management team. Conducting due diligence helps investors identify potential red flags and make informed investment decisions.

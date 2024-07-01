@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The Weighted Moving Average (WMA) is a financial indicator used in the analysis of time-series data, particularly in the financial markets. It is a type of moving average that assigns more weight to the most recent data points, hence, reacting more quickly to changes compared to a Simple Moving Average (SMA). This characteristic makes it a valuable tool in algorithmic trading, where timely decision-making is crucial.
+The Weighted Moving Average (WMA) is a financial indicator used in the analysis of time-series data, particularly in the financial markets. It is a type of moving average that assigns more weight to the most recent data points, hence, reacting more quickly to changes compared to a Simple Moving Average (SMA). This characteristic makes it a valuable tool in [algorithmic trading](../a/algorithmic_trading.md), where timely decision-making is crucial.
 
 ## Weighted Moving Average: An Overview
 
@@ -16,11 +16,11 @@ where \( Price_i \) is the price at the ith time period, and \( Weight_i \) repr
 
 ### Importance in Algorithmic Trading
 
-Algorithmic trading involves automated trading decisions based on pre-defined strategies. Since WMA can react faster to recent price changes, it plays a vital role in:
+[Algorithmic trading](../a/algorithmic_trading.md) involves automated trading decisions based on pre-defined strategies. Since WMA can react faster to recent price changes, it plays a vital role in:
 
 1. **Trend Identification**: By placing more emphasis on recent data, WMA helps in detecting the trend direction more swiftly.
-2. **Signal Generation**: Strategies involving moving average crossovers often use WMA to generate buy/sell signals.
-3. **Risk Management**: Faster reaction times allow for more timely adjustments to stop-loss and take-profit levels.
+2. **Signal Generation**: Strategies involving [moving average crossovers](../m/moving_average_crossovers.md) often use WMA to generate buy/sell signals.
+3. **[Risk Management](../r/risk_management.md)**: Faster reaction times allow for more timely adjustments to stop-loss and take-profit levels.
 
 ## Strategies Involving Weighted Moving Averages
 
@@ -40,7 +40,7 @@ This strategy involves using multiple WMAs of different periods to signal market
 
 ### 2. WMA and Relative Strength Index (RSI) Strategy
 
-Combining WMA with Relative Strength Index (RSI) can enhance trading signals by filtering out false signals and confirming trend strength.
+Combining WMA with Relative Strength Index (RSI) can enhance [trading signals](../t/trading_signals.md) by filtering out false signals and confirming trend strength.
 
 #### Implementation Steps
 
@@ -65,13 +65,13 @@ Scalping involves making numerous trades within a trading day to capitalize on s
 
 ### 4. WMA and Bollinger Bands Strategy
 
-Bollinger Bands are a technical analysis tool that depicts price volatility. Combining them with WMA can help in recognizing overbought and oversold conditions.
+[Bollinger Bands](../b/bollinger_bands.md) are a [technical analysis](../t/technical_analysis.md) tool that depicts price volatility. Combining them with WMA can help in recognizing overbought and oversold conditions.
 
 #### Implementation Steps
 
 1. **Calculate WMA**: Compute WMA for a chosen period.
-2. **Construct Bollinger Bands**:
-   - Use a standard 20-period moving average to center the bands.
+2. **Construct [Bollinger Bands](../b/bollinger_bands.md)**:
+   - Use a standard [20-period moving average](../1/20-period_moving_average.md) to center the bands.
    - Bands are plotted at 2 standard deviations above and below this moving average.
 3. **Strategy**:
    - **Buy Signal**: When the price is close to the lower Bollinger Band and above the WMA.
@@ -94,11 +94,11 @@ A pullback strategy aims to buy during a temporary price dip within an uptrend a
 
 ### Backtesting
 
-Before deploying any WMA-based strategy, thorough backtesting is crucial. This involves running the strategy on historical data to evaluate its performance. Considerations during backtesting include:
+Before deploying any WMA-based strategy, thorough [backtesting](../b/backtesting.md) is crucial. This involves running the strategy on historical data to evaluate its performance. Considerations during [backtesting](../b/backtesting.md) include:
 
 - **Data Quality**: Ensure the data used is of high quality and covers various market conditions.
 - **Optimization**: Adjust parameters (e.g., WMA periods) to optimize performance while being cautious of overfitting.
-- **Performance Metrics**: Evaluate metrics such as Sharpe ratio, drawdown, win rate, and profit factor.
+- **[Performance Metrics](../p/performance_metrics.md)**: Evaluate metrics such as [Sharpe ratio](../s/sharpe_ratio.md), drawdown, win rate, and [profit factor](../p/profit_factor.md).
 
 ### Real-Time Implementation
 
@@ -106,15 +106,15 @@ For real-time trading, careful implementation is necessary to manage risks and e
 
 - **Latency**: Choose a platform and broker with low latency to execute trades promptly.
 - **Automation**: Use robust automation tools. Popular platforms include MetaTrader (https://www.metatrader4.com/), NinjaTrader (https://ninjatrader.com/), and QuantConnect (https://www.quantconnect.com/).
-- **Risk Management**: Implement rigorous risk management protocols, including stop-loss orders and position sizing.
+- **[Risk Management](../r/risk_management.md)**: Implement rigorous [risk management](../r/risk_management.md) protocols, including [stop-loss orders](../s/stop-loss_orders.md) and [position sizing](../p/position_sizing.md).
 
 ### Continuous Monitoring and Adjustment
 
-Algorithmic trading strategies are not a set-and-forget solution. Continuous monitoring and adjustments may be needed to adapt to changing market conditions.
+[Algorithmic trading](../a/algorithmic_trading.md) strategies are not a set-and-forget solution. Continuous monitoring and adjustments may be needed to adapt to changing market conditions.
 
 - **Performance Review**: Regularly review strategy performance and make necessary adjustments.
 - **Market Conditions**: Remain aware of broader market conditions and news events that could impact strategy effectiveness.
 
 ## Conclusion
 
-Weighted Moving Averages offer a versatile toolset for algorithmic trading. Their ability to adapt quickly to recent price changes makes them invaluable for trend identification, signal generation, and risk management. However, as with any trading strategy, rigorous testing, careful implementation, and continuous monitoring are paramount to success.
+Weighted Moving Averages offer a versatile toolset for [algorithmic trading](../a/algorithmic_trading.md). Their ability to adapt quickly to recent price changes makes them invaluable for trend identification, signal generation, and [risk management](../r/risk_management.md). However, as with any trading strategy, rigorous testing, careful implementation, and continuous monitoring are paramount to success.

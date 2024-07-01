@@ -53,7 +53,7 @@ One way to mitigate the risks associated with short calls is to use them in conj
 
 #### Institutional Use
 
-Many institutional investors and hedge funds employ short call strategies as part of broader market-neutral or hedge strategies. These institutions often have advanced risk management systems and substantial capital reserves to manage the risks involved.
+Many institutional investors and hedge funds employ short call strategies as part of broader market-neutral or hedge strategies. These institutions often have advanced [risk management](../r/risk_management.md) systems and substantial capital reserves to manage the risks involved.
 
 #### Individual Traders
 
@@ -61,7 +61,7 @@ While individual traders can engage in short call strategies, they must exercise
 
 #### Case Study: Large Financial Institutions
 
-Institutions such as **Goldman Sachs**, **JP Morgan** employ sophisticated algorithmic trading systems that incorporate options strategies, including short calls, into their broader trading activities. These systems analyze market data to identify profitable opportunities and manage risks more effectively.
+Institutions such as **Goldman Sachs**, **JP Morgan** employ sophisticated [algorithmic trading](../a/algorithmic_trading.md) systems that incorporate options strategies, including short calls, into their broader trading activities. These systems analyze market data to identify profitable opportunities and manage risks more effectively.
 
 Links for Reference:
 - Goldman Sachs: [Goldman Sachs](https://www.goldmansachs.com/)
@@ -69,6 +69,6 @@ Links for Reference:
 
 ### Conclusion
 
-Short call strategies can potentially offer attractive returns, primarily through the premiums collected by writing options. However, they come with a high level of risk, and traders must be diligent in managing these risks through various methods, including using margin accounts and combining short calls with other positions like covered calls. As with any trading strategy, a thorough understanding and robust risk management approach are crucial for success. The ability to anticipate and respond to market movements helps traders use short call strategies to their advantage.
+Short call strategies can potentially offer attractive returns, primarily through the premiums collected by writing options. However, they come with a high level of risk, and traders must be diligent in managing these risks through various methods, including using margin accounts and combining short calls with other positions like covered calls. As with any trading strategy, a thorough understanding and robust [risk management](../r/risk_management.md) approach are crucial for success. The ability to anticipate and respond to market movements helps traders use short call strategies to their advantage.
 
 In the modern trading landscape, both institutional and individual traders use short call strategies as part of their broader toolbox, leveraging technology and advanced analytics to manage the inherent risks and aim for profitable outcomes.

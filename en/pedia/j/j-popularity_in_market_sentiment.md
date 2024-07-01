@@ -2,7 +2,7 @@
 
 **J-Popularity** refers to the widespread acceptance and influence of Japanese pop culture elements, such as **J-Pop music**, **anime**, **manga**, and **video games**, which have gained a significant following both domestically in Japan and internationally. This phenomenon has not only cultural but also substantial economic impacts. In the context of **market sentiment**, J-Popularity can be an influential factor, often reflected in the stock prices of companies related to Japanese pop culture.
 
-Market sentiment is the overall attitude of investors towards a particular security or financial market. It involves the psychology and emotions of market participants, which can drive market movements independent of fundamental factors. **Sentiment analysis**, particularly focusing on J-Popularity, can be a powerful tool for **algo-trading strategies**.
+Market sentiment is the overall attitude of investors towards a particular security or financial market. It involves the psychology and emotions of market participants, which can drive market movements independent of fundamental factors. **[Sentiment analysis](../s/sentiment_analysis.md)**, particularly focusing on J-Popularity, can be a powerful tool for **algo-[trading strategies](../t/trading_strategies.md)**.
 
 ## Influence of J-Popularity on Market Sentiment
 
@@ -30,25 +30,25 @@ Bandai Namco is a major player in the video game industry, producing popular fra
 ## Sentiment Analysis in Algo-Trading
 
 ### Data Sources and Tools
-**Sentiment analysis** for algo-trading involves various data sources, such as:
+**[Sentiment analysis](../s/sentiment_analysis.md)** for algo-trading involves various data sources, such as:
 - **Social Media**: Platforms like Twitter, Instagram, and Reddit are rich with real-time discussions and trends around J-Pop culture.
 - **News Articles and Press Releases**: Sentiment can be gauged from news around corporate announcements, new releases, earnings reports, and scandals.
 - **Fan Forums and Websites**: Websites like MyAnimeList (an online community and database about anime and manga) provide insights into the popularity and reception of different series and artists.
 
-Tools and techniques used in sentiment analysis include:
+Tools and techniques used in [sentiment analysis](../s/sentiment_analysis.md) include:
 - **Natural Language Processing (NLP)**: Algorithms that parse and analyze text data to determine the sentiment expressed.
 - **Machine Learning**: Models trained on historical data to predict future sentiment trends.
 - **API Access**: Integrating data from various platforms using APIs for real-time analysis.
 
 ### Strategies
 
-1. **Event-Driven Trading**: Identifying key events such as new anime releases, concert announcements, or award wins can provide trading signals. For instance, a surge in social media buzz around a new album release by a major J-Pop idol can indicate a potential rise in stock price for their music label.
+1. **[Event-Driven Trading](../e/event-driven_trading.md)**: Identifying key events such as new anime releases, concert announcements, or award wins can provide [trading signals](../t/trading_signals.md). For instance, a surge in social media buzz around a new album release by a major J-Pop idol can indicate a potential rise in stock price for their music label.
 
-2. **Trend Analysis**: Long-term sentiment trends can be identified to predict the future performance of stocks. Analyzing the gradual increase in international anime viewership or J-Pop music streams can signal long-term bullish opportunities.
+2. **[Trend Analysis](../t/trend_analysis.md)**: Long-term sentiment trends can be identified to predict the future performance of stocks. Analyzing the gradual increase in international anime viewership or J-Pop music streams can signal long-term bullish opportunities.
 
-3. **Scalping and Day Trading**: Short-term sentiment shifts due to immediate news or social media trends can be exploited for quick profits. Algorithms can track real-time updates and execute trades within seconds.
+3. **Scalping and [Day Trading](../d/day_trading.md)**: Short-term sentiment shifts due to immediate news or social media trends can be exploited for quick profits. Algorithms can track real-time updates and execute trades within seconds.
 
-4. **Correlation Analysis**: Assessing the correlation between sentiment indicators and stock price movements. For instance, a high positive sentiment around anime releases could be correlated with increased stock performance of animation studios.
+4. **[Correlation Analysis](../c/correlation_analysis.md)**: Assessing the correlation between [sentiment indicators](../s/sentiment_indicators.md) and stock price movements. For instance, a high positive sentiment around anime releases could be correlated with increased stock performance of animation studios.
 
 ### Case Study: Aiming Inc.
 
@@ -61,9 +61,9 @@ Aiming is a Japanese game development company well-known for its RPG mobile game
 ## Challenges and Considerations
 
 1. **Data Quality and Interpretation**: Sentiment data can be noisy and ambiguous. Differentiating between genuine sentiment shifts and transient spikes due to isolated events requires sophisticated models.
-2. **Market Volatility**: Market sentiment is inherently volatile and can be influenced by a myriad of factors beyond J-Popularity, including economic indicators and geopolitical events.
-3. **Ethical Concerns**: Using sentiment analysis, particularly from social media, involves ethical considerations around privacy and data usage.
+2. **Market Volatility**: Market sentiment is inherently volatile and can be influenced by a myriad of factors beyond J-Popularity, including [economic indicators](../e/economic_indicators.md) and [geopolitical events](../g/geopolitical_events.md).
+3. **Ethical Concerns**: Using [sentiment analysis](../s/sentiment_analysis.md), particularly from social media, involves ethical considerations around privacy and data usage.
 
 ## Conclusion
 
-The influence of J-Popularity on market sentiment presents unique opportunities for algo-trading strategies. By leveraging sentiment analysis tools and understanding the correlation between popular culture trends and market movements, traders can gain a competitive edge. However, successful implementation requires robust data analysis techniques, careful consideration of broader market factors, and adherence to ethical standards. As J-Popularity continues to grow globally, its impact on market sentiment will likely become even more pronounced, offering valuable insights for savvy investors and traders.
+The influence of J-Popularity on market sentiment presents unique opportunities for algo-[trading strategies](../t/trading_strategies.md). By leveraging [sentiment analysis](../s/sentiment_analysis.md) tools and understanding the correlation between popular culture trends and market movements, traders can gain a competitive edge. However, successful implementation requires robust [data analysis techniques](../d/data_analysis_techniques.md), careful consideration of broader market factors, and adherence to ethical standards. As J-Popularity continues to grow globally, its impact on market sentiment will likely become even more pronounced, offering valuable insights for savvy investors and traders.

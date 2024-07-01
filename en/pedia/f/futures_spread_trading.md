@@ -1,6 +1,6 @@
 # Futures Spread Trading
 
-Futures spread trading is a sophisticated form of trading in the futures markets where traders simultaneously go long (buy) and short (sell) on related futures contracts to profit from the changes in the price difference between the two contracts, rather than from the absolute price movements of the individual contracts. This strategy is also known as spread betting, and it capitalizes on the relative movement of prices between two futures contracts rather than speculating on the direction of a single futures market.
+Futures [spread trading](../s/spread_trading.md) is a sophisticated form of trading in the futures markets where traders simultaneously go long (buy) and short (sell) on related [futures contracts](../f/futures_contracts.md) to profit from the changes in the price difference between the two contracts, rather than from the absolute price movements of the individual contracts. This strategy is also known as [spread betting](../s/spread_betting.md), and it capitalizes on the relative movement of prices between two [futures contracts](../f/futures_contracts.md) rather than speculating on the direction of a single futures market.
 
 ## Understanding Futures Spreads
 
@@ -28,7 +28,7 @@ At its core, a futures spread involves the purchase of one futures contract and 
 
 #### Margin Requirements
 
-One of the appeals of spread trading is the reduced margin requirements compared to outright futures positions. This reduced margin is a reflection of the lower risk associated with spread positions. Exchanges typically offer reduced margin rates for spreads because the simultaneous long and short positions in correlated contracts offset each other's risk.
+One of the appeals of [spread trading](../s/spread_trading.md) is the reduced margin requirements compared to outright futures positions. This reduced margin is a reflection of the lower risk associated with spread positions. Exchanges typically offer reduced margin rates for spreads because the simultaneous long and short positions in correlated contracts offset each other's risk.
 
 #### Spread Quotations
 
@@ -55,7 +55,7 @@ Some commodities show seasonal price tendencies, and traders capitalize on these
 
 ### Statistical Arbitrage
 
-This involves using quantitative models and statistical methods to identify and exploit temporary deviations from the normal relationships between futures prices. Traders use historical data to build models predicting typical spread behavior and then trade deviations from this norm.
+This involves using [quantitative models](../q/quantitative_models.md) and statistical methods to identify and exploit temporary deviations from the normal relationships between futures prices. Traders use historical data to build models predicting typical spread behavior and then trade deviations from this norm.
 
 ## Advantages of Futures Spread Trading
 
@@ -63,19 +63,19 @@ This involves using quantitative models and statistical methods to identify and 
 2. **Reduced Margin Requirements**: Exchanges recognize the lower risk profile of spread trades and, therefore, offer significantly lower margin requirements.
 3. **Reduced Volatility**: Spreads are generally less volatile than outright futures positions because the movement in one leg of the spread is often partially offset by movement in the other leg.
 4. **Diversification**: Spreads allow traders to diversify by taking positions in different but related markets. This reduces the risk of drastic losses.
-5. **Exploiting Market Inefficiencies**: Spread trading can exploit inefficiencies in the market pricing of related futures contracts, offering opportunities for profit that are not available through outright positions.
+5. **Exploiting Market Inefficiencies**: [Spread trading](../s/spread_trading.md) can exploit inefficiencies in the market pricing of related [futures contracts](../f/futures_contracts.md), offering opportunities for profit that are not available through outright positions.
 
 ## Risks in Futures Spread Trading
 
-1. **Execution Risk**: Manual execution of spreads can lead to execution risk, where one leg of the spread is filled and the other is not, leading to potential unwanted outright exposure.
+1. **[Execution Risk](../e/execution_risk.md)**: Manual execution of spreads can lead to [execution risk](../e/execution_risk.md), where one leg of the spread is filled and the other is not, leading to potential unwanted outright exposure.
 2. **Unexpected Correlations**: Although spread trades are designed to benefit from correlated movements, those correlations can break down, leading to unexpected losses.
-3. **Liquidity Risk**: Not all spreads are equally liquid. The ease of entering and exiting spread positions can vary significantly, potentially leading to difficulties in managing trades, especially in volatile markets.
+3. **[Liquidity Risk](../l/liquidity_risk.md)**: Not all spreads are equally liquid. The ease of entering and exiting spread positions can vary significantly, potentially leading to difficulties in managing trades, especially in volatile markets.
 
 ## Technological Aspects in Futures Spread Trading
 
 ### Algorithmic Trading in Spreads
 
-Algorithmic trading, or algo-trading, uses computer algorithms to trade spreads efficiently. These algorithms can automatically identify, execute, and manage spread positions based on pre-defined criteria without human intervention.
+[Algorithmic trading](../a/algorithmic_trading.md), or algo-trading, uses computer algorithms to trade spreads efficiently. These algorithms can automatically identify, execute, and manage spread positions based on pre-defined criteria without human intervention.
 
 ### High-Frequency Trading (HFT)
 
@@ -85,9 +85,9 @@ High-frequency trading firms use advanced technology to execute trades at extrem
 
 Several technological platforms provide tools for spread traders, including real-time spread charts, analytics, historical data, and automated trading capabilities. Examples include:
 
-- **CQG**: Offers advanced charting and analytics specifically tailored for spread trading. More information can be found on their official website [here](https://www.cqg.com).
-- **Trading Technologies (TT)**: Known for its robust spread trading functionalities and execution tools. Their products cater extensively to professional spread traders. Visit their website [here](https://www.tradingtechnologies.com).
+- **CQG**: Offers advanced charting and analytics specifically tailored for [spread trading](../s/spread_trading.md). More information can be found on their official website [here](https://www.cqg.com).
+- **Trading Technologies (TT)**: Known for its robust [spread trading](../s/spread_trading.md) functionalities and execution tools. Their products cater extensively to professional spread traders. Visit their website [here](https://www.tradingtechnologies.com).
 
 ## Conclusion
 
-Futures spread trading offers a blend of opportunities and challenges, appealing to traders who are looking for sophisticated, risk-managed approaches to profiting from the futures markets. By trading the price differential between related contracts, spread traders can take advantage of market inefficiencies, seasonal trends, and other predictive patterns while potentially reducing their risk exposure. With advances in technology and algorithmic trading, the landscape of futures spread trading continues to evolve, offering even more precision and opportunities for skilled traders.
+Futures [spread trading](../s/spread_trading.md) offers a blend of opportunities and challenges, appealing to traders who are looking for sophisticated, risk-managed approaches to profiting from the futures markets. By trading the price differential between related contracts, spread traders can take advantage of market inefficiencies, seasonal trends, and other predictive patterns while potentially reducing their risk exposure. With advances in technology and [algorithmic trading](../a/algorithmic_trading.md), the landscape of futures [spread trading](../s/spread_trading.md) continues to evolve, offering even more precision and opportunities for skilled traders.

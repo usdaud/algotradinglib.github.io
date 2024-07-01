@@ -27,14 +27,14 @@ Here, \( x_i \) are the decision variables, \( c_i \) are the coefficients of th
 
 Linear programming can be applied in numerous ways within the trading domain, including but not limited to:
 
-1. **Portfolio Optimization**
-2. **Arbitrage Detection**
-3. **Risk Management**
-4. **Asset Allocation**
+1. **[Portfolio Optimization](../p/portfolio_optimization.md)**
+2. **[Arbitrage](../a/arbitrage.md) Detection**
+3. **[Risk Management](../r/risk_management.md)**
+4. **[Asset Allocation](../a/asset_allocation.md)**
 
 #### Portfolio Optimization
 
-One of the primary uses of linear programming in trading is portfolio optimization. The objective is to maximize the expected return while adhering to various constraints such as risk tolerance, budget limits, and regulatory requirements. A typical linear programming model for portfolio optimization can be expressed as:
+One of the primary uses of linear programming in trading is [portfolio optimization](../p/portfolio_optimization.md). The objective is to maximize the expected return while adhering to various constraints such as risk tolerance, budget limits, and regulatory requirements. A typical linear programming model for [portfolio optimization](../p/portfolio_optimization.md) can be expressed as:
 
 Maximize:  
 \[ \sum_{i=1}^{n} R_i x_i \]
@@ -48,7 +48,7 @@ Here, \( R_i \) represents the expected return of asset \( i \), \( \sigma_{ij} 
 
 #### Arbitrage Detection
 
-Arbitrage opportunities can also be identified using linear programming. The objective is to determine a set of trades that can yield a risk-free profit by taking advantage of price discrepancies between different markets or financial instruments. The model for arbitrage detection is often framed as:
+[Arbitrage](../a/arbitrage.md) opportunities can also be identified using linear programming. The objective is to determine a set of trades that can yield a risk-free profit by taking advantage of price discrepancies between different markets or financial instruments. The model for [arbitrage](../a/arbitrage.md) detection is often framed as:
 
 Maximize:  
 \[ \sum_{i=1}^{n} p_i x_i \]
@@ -74,7 +74,7 @@ In this model, \( \sigma_i \) represents the risk associated with asset \( i \),
 
 #### Asset Allocation
 
-Linear programming is also used to determine the optimal allocation of resources among different assets. The objective is often to maximize expected utility or returns, while conforming to various constraints imposed by market conditions or investment guidelines. A typical asset allocation model is:
+Linear programming is also used to determine the optimal allocation of resources among different assets. The objective is often to maximize expected utility or returns, while conforming to various constraints imposed by market conditions or investment guidelines. A typical [asset allocation](../a/asset_allocation.md) model is:
 
 Maximize:  
 \[ \sum_{i=1}^{n} U_i x_i \]
@@ -106,19 +106,19 @@ Some popular solvers for linear programming include:
 
 #### Asset Management Firms
 
-Asset management firms extensively use linear programming for portfolio optimization. For instance, BlackRock, one of the largest asset management firms globally, employs sophisticated linear programming models to optimize their vast range of investment portfolios. The use of LP helps in achieving their target returns while managing risk effectively. 
+Asset management firms extensively use linear programming for [portfolio optimization](../p/portfolio_optimization.md). For instance, BlackRock, one of the largest asset management firms globally, employs sophisticated linear programming models to optimize their vast range of investment portfolios. The use of LP helps in achieving their target returns while managing risk effectively. 
 
 Visit BlackRock here: [BlackRock](https://www.blackrock.com/)
 
 #### Hedge Funds
 
-Hedge funds like Renaissance Technologies use linear programming to devise trading strategies that exploit market inefficiencies. Linear programming models enable these firms to dynamically adjust their portfolios and trading positions in response to real-time market data.
+Hedge funds like Renaissance Technologies use linear programming to devise [trading strategies](../t/trading_strategies.md) that exploit market inefficiencies. Linear programming models enable these firms to dynamically adjust their portfolios and trading positions in response to [real-time market data](../r/real-time_market_data.md).
 
 For more information, visit: [Renaissance Technologies](https://www.rentec.com/)
 
 #### Algorithmic Trading Platforms
 
-Algorithmic trading platforms, such as QuantConnect and Quantopian, integrate linear programming algorithms to offer users sophisticated tools for backtesting and executing trading strategies. These platforms provide APIs and libraries to implement and solve LP models efficiently.
+[Algorithmic trading](../a/algorithmic_trading.md) platforms, such as QuantConnect and Quantopian, integrate linear programming algorithms to offer users sophisticated tools for [backtesting](../b/backtesting.md) and executing [trading strategies](../t/trading_strategies.md). These platforms provide APIs and libraries to implement and solve LP models efficiently.
 
 Visit QuantConnect here: [QuantConnect](https://www.quantconnect.com/)  
 Visit Quantopian here: [Quantopian](https://www.quantopian.com/)
@@ -139,4 +139,4 @@ Although linear programming offers considerable benefits in trading, it also fac
 
 ### Conclusion
 
-Linear programming has proven to be an invaluable tool in trading, providing robust and efficient solutions for a wide array of problems, from portfolio optimization to risk management. With the continuous evolution of algorithms and computational power, the applications of linear programming in trading are poised to expand, offering even more sophisticated and dynamic decision-making tools. As we move forward, integrating linear programming with machine learning and artificial intelligence promises to unlock new frontiers in trading and financial optimization.
+Linear programming has proven to be an invaluable tool in trading, providing robust and efficient solutions for a wide array of problems, from [portfolio optimization](../p/portfolio_optimization.md) to [risk management](../r/risk_management.md). With the continuous evolution of algorithms and computational power, the applications of linear programming in trading are poised to expand, offering even more sophisticated and dynamic decision-making tools. As we move forward, integrating linear programming with machine learning and artificial intelligence promises to unlock new frontiers in trading and financial optimization.

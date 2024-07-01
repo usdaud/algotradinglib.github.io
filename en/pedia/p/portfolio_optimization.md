@@ -6,15 +6,15 @@ Portfolio optimization is a crucial concept in finance that involves selecting t
 
 ### Modern Portfolio Theory (MPT)
 
-Introduced by Harry Markowitz in the 1950s, Modern Portfolio Theory is one of the foundational frameworks for portfolio optimization. According to MPT, it is possible to construct an "efficient frontier" of optimal portfolios offering the highest expected return for a given level of risk.
+Introduced by Harry Markowitz in the 1950s, Modern Portfolio Theory is one of the foundational frameworks for portfolio optimization. According to MPT, it is possible to construct an "[efficient frontier](../e/efficient_frontier.md)" of optimal portfolios offering the highest expected return for a given level of risk.
 
 **Key Assumptions:**
 1. Investors are rational and risk-averse.
 2. Markets are efficient.
 3. Investors aim to maximize the expected utility of their portfolio's return.
 
-**Efficient Frontier:**
-The efficient frontier is a graphical representation of optimal portfolios. Each point on the graph represents a portfolio with the highest return given its level of risk, measured by standard deviation. Portfolios below the efficient frontier are sub-optimal because they don't offer enough return for their level of risk.
+**[Efficient Frontier](../e/efficient_frontier.md):**
+The [efficient frontier](../e/efficient_frontier.md) is a graphical representation of optimal portfolios. Each point on the graph represents a portfolio with the highest return given its level of risk, measured by standard deviation. Portfolios below the [efficient frontier](../e/efficient_frontier.md) are sub-optimal because they don't offer enough return for their level of risk.
 
 **Mathematical Foundation:**
 The expected return of a portfolio, \( E(R_p) \), and its risk (volatility), \( \sigma_p \), are calculated as follows:
@@ -37,7 +37,7 @@ The Capital Asset Pricing Model extends MPT by explaining how individual assets 
 
 ### Mean-Variance Optimization
 
-Mean-Variance Optimization (MVO) is a quantitative approach stemming from MPT that helps investors construct a portfolio to maximize expected return for a given level of risk.
+[Mean-Variance Optimization](../m/mean-variance_optimization.md) (MVO) is a quantitative approach stemming from MPT that helps investors construct a portfolio to maximize expected return for a given level of risk.
 
 **Process:**
 1. **Define the investment universe:** Select the range of assets to be considered.
@@ -75,7 +75,7 @@ print("Optimal Weights:", optimal_weights)
 
 ### Black-Litterman Model
 
-The Black-Litterman model is an advanced portfolio optimization method that addresses some of the shortcomings of MVO by combining market equilibrium with investor views.
+The [Black-Litterman model](../b/black-litterman_model.md) is an advanced portfolio optimization method that addresses some of the shortcomings of MVO by combining market equilibrium with investor views.
 
 **Key Concepts:**
 - **Market Equilibrium:** A baseline forecast of returns based on cap-weighted market portfolios.
@@ -89,11 +89,11 @@ where \( \Pi \) is the implied equilibrium return, \( \Sigma \) is the covarianc
 
 ### Risk Parity
 
-Risk Parity is another approach to portfolio optimization that focuses on allocating risk equally across all portfolio components rather than focusing on the expected returns.
+[Risk Parity](../r/risk_parity.md) is another approach to portfolio optimization that focuses on allocating risk equally across all portfolio components rather than focusing on the expected returns.
 
 **Key Concepts:**
 - **Equal Risk Contribution:** Each asset in the portfolio contributes equally to the overall portfolio risk.
-- **Leverage:** Often used in risk parity portfolios to scale up low-risk assets.
+- **Leverage:** Often used in [risk parity](../r/risk_parity.md) portfolios to scale up low-risk assets.
 
 ```python
 from scipy.optimize import minimize
@@ -115,7 +115,7 @@ constraints = {'type': 'eq', 'fun': lambda x: np.sum(x) - 1}
 
 optimal_risk_parity = minimize(risk_parity_objective, initial_weights, args=(cov_matrix,), 
                                method='SLSQP', bounds=bounds, constraints=constraints)
-print("Optimal Risk Parity Weights:", optimal_risk_parity.x)
+print("Optimal [Risk Parity](../r/risk_parity.md) Weights:", optimal_risk_parity.x)
 ```
 
 ## Applications of Portfolio Optimization
@@ -126,7 +126,7 @@ Mutual funds and Exchange Traded Funds (ETFs) often use portfolio optimization t
 
 ### Hedge Funds
 
-Hedge funds use sophisticated portfolio optimization techniques, including leverage and derivatives, to achieve high returns. Techniques such as the Black-Litterman model and risk parity are commonly employed.
+Hedge funds use sophisticated portfolio optimization techniques, including leverage and [derivatives](../d/derivatives.md), to achieve high returns. Techniques such as the [Black-Litterman model](../b/black-litterman_model.md) and [risk parity](../r/risk_parity.md) are commonly employed.
 
 ### Robo-Advisors
 

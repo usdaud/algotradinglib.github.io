@@ -22,7 +22,7 @@ Oil and gas trading forms a critical segment of the global commodities market, f
 Spot trading involves the purchase or sale of commodities for immediate delivery. In the oil and gas market, this usually means the physical delivery of the commodity within a few days of the trade date.
 
 ### Futures and Options
-The backbone of the oil and gas trading sector, futures contracts allow traders to buy or sell a specific quantity of a commodity at a predetermined price at a future date. Options provide the right, but not the obligation, to buy or sell at a specific price.
+The backbone of the oil and gas trading sector, [futures contracts](../f/futures_contracts.md) allow traders to buy or sell a specific quantity of a commodity at a predetermined price at a future date. Options provide the right, but not the obligation, to buy or sell at a specific price.
 
 ### Swaps and Derivatives
 Financial instruments like swaps allow for the exchange of financial outcomes without the exchange of the underlying commodity. For instance, a company worried about gas price fluctuations might enter into a swap to pay a fixed price in place of the actual fluctuating market price.
@@ -40,16 +40,16 @@ Financial instruments like swaps allow for the exchange of financial outcomes wi
 3. **Glencore**: Operates significant trading operations in crude oil and refined products. [Glencore](https://www.glencore.com/)
 
 ### Financial Institutions 
-1. **Goldman Sachs**: A prominent player providing market liquidity and derivatives for oil and gas trading. [Goldman Sachs](https://www.goldmansachs.com/)
+1. **Goldman Sachs**: A prominent player providing market liquidity and [derivatives](../d/derivatives.md) for oil and gas trading. [Goldman Sachs](https://www.goldmansachs.com/)
 2. **Morgan Stanley**: Active in trading energy commodities to hedge risk and provide client services. [Morgan Stanley](https://www.morganstanley.com/)
 
 ## Regulatory Environment
 
 ### Dodd-Frank Act
-In the United States, the Dodd-Frank Wall Street Reform and Consumer Protection Act imposes stringent requirements on derivatives markets, directly affecting oil and gas trading. These regulations aim to reduce systemic risk and enhance transparency.
+In the United States, the Dodd-Frank Wall Street Reform and Consumer Protection Act imposes stringent requirements on [derivatives](../d/derivatives.md) markets, directly affecting oil and gas trading. These regulations aim to reduce systemic risk and enhance transparency.
 
 ### European Market Infrastructure Regulation (EMIR)
-EMIR mandates reporting of all derivatives contracts to trade repositories and poses risk mitigation protocols. This regulation impacts European companies involved in derivatives trading.
+EMIR mandates reporting of all [derivatives](../d/derivatives.md) contracts to trade repositories and poses risk mitigation protocols. This regulation impacts European companies involved in [derivatives](../d/derivatives.md) trading.
 
 ## Tools and Technology
 
@@ -58,8 +58,8 @@ EMIR mandates reporting of all derivatives contracts to trade repositories and p
 2. **Bloomberg Terminal**: Offers unparalleled data analytics, news, and trading capabilities. [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
 ### Risk Management Software
-1. **Openlink**: A comprehensive solution for trading, risk management, and operations across commodities. [Openlink](https://www.iongroup.com/openlink/)
-2. **Allegro**: Provides robust ETRM (Energy Trading and Risk Management) solutions. [Allegro](https://www.allegrodev.com/)
+1. **Openlink**: A comprehensive solution for trading, [risk management](../r/risk_management.md), and operations across commodities. [Openlink](https://www.iongroup.com/openlink/)
+2. **Allegro**: Provides robust ETRM ([Energy Trading](../e/energy_trading.md) and [Risk Management](../r/risk_management.md)) solutions. [Allegro](https://www.allegrodev.com/)
 
 ### Data Analytics Tools
 1. **Kpler**: Offers valuable insights through real-time tracking of oil, gas, and various commodities. [Kpler](https://www.kpler.com/)
@@ -69,8 +69,8 @@ EMIR mandates reporting of all derivatives contracts to trade repositories and p
 
 ### Supply and Demand Factors
 1. **OPEC Decisions**: Policies and production levels set by the Organization of the Petroleum Exporting Countries can heavily influence prices.
-2. **Geopolitical Events**: Conflicts or political instability in key oil-producing regions can cause supply disruptions and price spikes.
-3. **Economic Data**: Economic indicators such as GDP growth rates, employment statistics, and industrial production influence energy demand forecasts.
+2. **[Geopolitical Events](../g/geopolitical_events.md)**: Conflicts or political instability in key oil-producing regions can cause supply disruptions and price spikes.
+3. **Economic Data**: [Economic indicators](../e/economic_indicators.md) such as GDP growth rates, employment statistics, and industrial production influence energy demand forecasts.
 
 ### Technological Advancements
 1. **Shale Revolution**: The advent of hydraulic fracturing (“fracking”) has dramatically increased US oil and gas production.
@@ -82,4 +82,4 @@ EMIR mandates reporting of all derivatives contracts to trade repositories and p
 
 ## Conclusion
 
-Oil and gas trading is a multifaceted arena driven by global supply and demand, technological advancements, and socio-political factors. Traders must navigate complex financial instruments and regulatory landscapes to manage risk and capitalize on market movements. Whether through direct trading, financial derivatives, or advanced analytics and technological platforms, participants in this market wield significant influence over global economic conditions.
+Oil and gas trading is a multifaceted arena driven by global supply and demand, technological advancements, and socio-political factors. Traders must navigate complex financial instruments and regulatory landscapes to manage risk and capitalize on market movements. Whether through direct trading, financial [derivatives](../d/derivatives.md), or advanced analytics and technological platforms, participants in this market wield significant influence over global economic conditions.

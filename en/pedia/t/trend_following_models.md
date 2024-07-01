@@ -2,11 +2,11 @@
 
 ## Introduction
 
-Trend following is a strategy that aims to capitalize on the continuation of existing market trends. Whether the market is bullish or bearish, trend-following models seek to enter trades at opportune times to follow the direction of the market. This method has stood the test of time, consistently producing substantial returns for those who have mastered its application.
+[Trend following](../t/trend_following.md) is a strategy that aims to capitalize on the continuation of existing market trends. Whether the market is bullish or bearish, trend-following models seek to enter trades at opportune times to follow the direction of the market. This method has stood the test of time, consistently producing substantial returns for those who have mastered its application.
 
 ## Core Concept
 
-At its heart, trend following relies on the belief that prices will continue to move in the same direction they have been moving rather than reversing course. This approach contrasts with mean reversion strategies, which bet that prices will return to a long-term average.
+At its heart, [trend following](../t/trend_following.md) relies on the belief that prices will continue to move in the same direction they have been moving rather than reversing course. This approach contrasts with [mean reversion](../m/mean_reversion.md) strategies, which bet that prices will return to a long-term average.
 
 ## Key Components
 
@@ -28,7 +28,7 @@ Indicators are essential tools in identifying trends. Some popular indicators in
 
 ### Algorithms
 
-Algorithms are at the core of trend following in algorithmic trading. These are rule-based systems designed to automatically implement the trading strategy.
+Algorithms are at the core of [trend following](../t/trend_following.md) in [algorithmic trading](../a/algorithmic_trading.md). These are rule-based systems designed to automatically implement the trading strategy.
 
 ## Trend Following Models
 
@@ -56,7 +56,7 @@ def moving_average_crossover(prices, short_window, long_window):
 ### Bollinger Bands
 
 **Description**:
-Bollinger Bands consist of a middle band (simple moving average) and two outer bands that are calculated using standard deviations. When the price hits the lower band, a buy signal is generated. When the price hits the upper band, a sell signal is generated.
+[Bollinger Bands](../b/bollinger_bands.md) consist of a middle band (simple moving average) and two outer bands that are calculated using standard deviations. When the price hits the lower band, a buy signal is generated. When the price hits the upper band, a sell signal is generated.
 
 **Code Example**:
 ```python
@@ -109,11 +109,11 @@ def relative_strength_index(prices, window):
 
 ## Risk Management
 
-Effective trend-following involves robust risk management techniques, including:
+Effective trend-following involves robust [risk management](../r/risk_management.md) techniques, including:
 
 - **Stop Losses**: Setting predetermined levels to close out losing trades to prevent excessive losses.
-- **Position Sizing**: Determining the size of each trade based on account size and risk tolerance.
+- **[Position Sizing](../p/position_sizing.md)**: Determining the size of each trade based on account size and risk tolerance.
 
 ## Conclusion
 
-Trend-following models are foundational strategies in the world of algorithmic trading. By understanding and implementing different types of trend-following models, such as Moving Average Crossover, Bollinger Bands, and RSI, traders can make informed decisions and potentially capitalize on existing market trends.
+Trend-following models are foundational strategies in the world of [algorithmic trading](../a/algorithmic_trading.md). By understanding and implementing different types of trend-following models, such as Moving Average Crossover, [Bollinger Bands](../b/bollinger_bands.md), and RSI, traders can make informed decisions and potentially capitalize on existing market trends.

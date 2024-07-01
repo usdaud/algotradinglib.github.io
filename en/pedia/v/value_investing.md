@@ -1,6 +1,6 @@
 # Value Investing
 
-Value investing is a systematic approach to investing that involves buying securities that appear underpriced by some form of fundamental analysis. It is a strategy used by investors to seek out and purchase stocks that are believed to be trading for less than their intrinsic or book value. This strategy hinges on the idea that the market, while often efficient, can misprice assets temporarily, providing opportunities for investors to acquire good companies at bargain prices.
+Value investing is a systematic approach to investing that involves buying securities that appear underpriced by some form of [fundamental analysis](../f/fundamental_analysis.md). It is a strategy used by investors to seek out and purchase stocks that are believed to be trading for less than their intrinsic or book value. This strategy hinges on the idea that the market, while often efficient, can misprice assets temporarily, providing opportunities for investors to acquire good companies at bargain prices.
 
 ## Key Principles of Value Investing
 
@@ -14,7 +14,7 @@ The margin of safety principle aims to mitigate risk by ensuring that the price 
 Value investors typically focus on the long-term potential of their investments. This approach involves holding securities for several years to allow their market prices to adjust to their intrinsic values. It counters the short-term speculation that often drives stock price volatility.
 
 ### 4. Fundamental Analysis
-Fundamental analysis is the examination of a company's financial statements, including its balance sheet, income statement, and cash flow statement. Value investors analyze these documents to gauge the company's financial health and calculate its intrinsic value.
+[Fundamental analysis](../f/fundamental_analysis.md) is the examination of a company's financial statements, including its balance sheet, income statement, and cash flow statement. Value investors analyze these documents to gauge the company's financial health and calculate its intrinsic value.
 
 ### 5. Contrarian Thinking
 Value investing often involves a contrarian approach, where investors buy stocks that are currently unpopular or undervalued instead of following prevailing market trends. This approach requires a high level of discipline and independence of thought.
@@ -39,7 +39,7 @@ FCF is the cash that a company generates after accounting for cash outflows to s
 ## Famous Value Investors
 
 ### 1. Benjamin Graham
-Often referred to as the "father of value investing," Benjamin Graham laid the foundational principles of this investment strategy. His seminal works, "Security Analysis" and "The Intelligent Investor," are considered bibles of value investing.
+Often referred to as the "father of value investing," Benjamin Graham laid the foundational principles of this investment strategy. His seminal works, "[Security Analysis](../s/security_analysis.md)" and "The Intelligent Investor," are considered bibles of value investing.
 
 ### 2. Warren Buffett
 Warren Buffett, a disciple of Benjamin Graham, is perhaps the most well-known value investor. As the chairman and CEO of Berkshire Hathaway, Buffett has achieved tremendous success using the principles of value investing. His annual letters to shareholders are widely read and respected.
@@ -48,7 +48,7 @@ Warren Buffett, a disciple of Benjamin Graham, is perhaps the most well-known va
 Charlie Munger, the vice-chairman of Berkshire Hathaway, is another influential figure in value investing. He collaborates closely with Warren Buffett and is known for his philosophical approach to investing.
 
 ### 4. Seth Klarman
-Seth Klarman, the author of "Margin of Safety: Risk-Averse Value Investing Strategies for the Thoughtful Investor," is a prominent value investor. He manages the Baupost Group, one of the largest hedge funds practicing value investing.
+Seth Klarman, the author of "Margin of Safety: Risk-Averse [Value Investing Strategies](../v/value_investing_strategies.md) for the Thoughtful Investor," is a prominent value investor. He manages the Baupost Group, one of the largest hedge funds practicing value investing.
 
 ## Critical Analysis of Value Investing
 
@@ -62,19 +62,19 @@ Seth Klarman, the author of "Margin of Safety: Risk-Averse Value Investing Strat
 
 ### Disadvantages
 
-1. **Time-Consuming:** Thorough fundamental analysis requires substantial effort and dedication.
+1. **Time-Consuming:** Thorough [fundamental analysis](../f/fundamental_analysis.md) requires substantial effort and dedication.
    
 2. **Requires Patience:** Value investing is a long-term strategy, which may not appeal to those looking for quick gains.
    
-3. **Market Efficiency:** In highly efficient markets, opportunities for finding undervalued stocks may be limited.
+3. **[Market Efficiency](../m/market_efficiency.md):** In highly efficient markets, opportunities for finding undervalued stocks may be limited.
 
 ## Technology and Value Investing
 
 ### Algotrading Tools
-Algorithmic trading has increasingly found its place in value investing through advanced computational tools. Modern value investors often leverage algorithmic models to analyze large datasets and identify undervalued stocks more efficiently.
+[Algorithmic trading](../a/algorithmic_trading.md) has increasingly found its place in value investing through advanced computational tools. Modern value investors often leverage algorithmic models to analyze large datasets and identify undervalued stocks more efficiently.
 
 ### Data Analytics
-Advanced data analytics can enhance the fundamental analysis process, allowing investors to scrutinize financial statements and market trends with greater precision.
+Advanced data analytics can enhance the [fundamental analysis](../f/fundamental_analysis.md) process, allowing investors to scrutinize financial statements and market trends with greater precision.
 
 ### Machine Learning
 Machine learning algorithms can predict the intrinsic value of a stock more accurately by analyzing patterns within vast amounts of data. Training these models on historical data helps in recognizing potential investment opportunities.
@@ -82,7 +82,7 @@ Machine learning algorithms can predict the intrinsic value of a stock more accu
 ## Value Investing in a Digital Age
 
 ### Online Brokers
-Platforms like [E*TRADE](https://us.etrade.com/home) and [TD Ameritrade](https://www.tdameritrade.com/home.page) provide tools for retail investors to practice value investing without the need for traditional brokerage services.
+Platforms like [E*TRADE](https://us.etrade.com/home) and [TD Ameritrade](https://www.tdameritrade.com/home.page) provide tools for retail investors to practice value investing without the need for traditional [brokerage services](../b/brokerage_services.md).
 
 ### Robo-Advisors
 Robo-advisors such as [Betterment](https://www.betterment.com/) and [Wealthfront](https://www.wealthfront.com/) use algorithms to create and manage diversified portfolios, often incorporating principles of value investing.

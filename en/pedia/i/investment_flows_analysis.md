@@ -1,6 +1,6 @@
 # Investment Flows Analysis
 
-Investment flows analysis is a critical aspect of finance and macroeconomics, focusing on the movement of capital between various investment vehicles, asset classes, geographical regions, and sectors. Investment flows can be analyzed in several dimensions, including equity trading, debt securities, real estate investments, and foreign direct investments (FDIs). This comprehensive guide explores the methodologies, tools, significance, and applications of investment flows analysis in various contexts, including market predictions, portfolio management, and economic policy-making.
+Investment flows analysis is a critical aspect of finance and macroeconomics, focusing on the movement of capital between various investment vehicles, asset classes, geographical regions, and sectors. Investment flows can be analyzed in several dimensions, including [equity trading](../e/equity_trading.md), debt securities, real estate investments, and foreign direct investments (FDIs). This comprehensive guide explores the methodologies, tools, significance, and applications of investment flows analysis in various contexts, including market predictions, [portfolio management](../p/portfolio_management.md), and economic policy-making.
 
 ## Understanding Investment Flows
 
@@ -29,11 +29,11 @@ Investment flows are often tracked to understand investor sentiment, market tren
 
 ### Qualitative Methods
 
-1. **Investor Sentiment Surveys:** Collecting and analyzing investor sentiment through surveys to gauge market expectations and future investment behaviors.
+1. **Investor [Sentiment Surveys](../s/sentiment_surveys.md):** Collecting and analyzing investor sentiment through surveys to gauge market expectations and future investment behaviors.
 
 2. **Market Reports and Analyses:** Reviewing financial analyses and reports from institutions like Bloomberg, Goldman Sachs, and others to understand broader market trends (Links: [Bloomberg](https://www.bloomberg.com/), [Goldman Sachs](https://www.goldmansachs.com/) ).
 
-3. **Economic Indicators:** Assessing economic indicators such as GDP growth rates, inflation rates, and interest rates to infer investment flows.
+3. **[Economic Indicators](../e/economic_indicators.md):** Assessing [economic indicators](../e/economic_indicators.md) such as GDP growth rates, inflation rates, and interest rates to infer investment flows.
 
 ## Applications and Importance
 
@@ -43,7 +43,7 @@ Investment flows analysis helps predict market movements. Understanding where in
 
 ### Portfolio Management
 
-Portfolio managers utilize investment flows analysis to optimize asset allocation and rebalance portfolios. By understanding the flow of funds across various asset classes, managers can make informed decisions to maximize returns and manage risks.
+Portfolio managers utilize investment flows analysis to optimize [asset allocation](../a/asset_allocation.md) and rebalance portfolios. By understanding the flow of funds across various asset classes, managers can make informed decisions to maximize returns and manage risks.
 
 ### Economic Policy-Making
 
@@ -73,7 +73,7 @@ This case study examines the investment flows into emerging markets during perio
 
 ### Case Study 2: Impact of Quantitative Easing on Investment Flows
 
-This study explores the effect of quantitative easing by central banks on investment flows into different asset classes. By assessing investment trends before and after policy announcements, analysts can determine the effectiveness of such monetary policies in stimulating economic growth.
+This study explores the effect of [quantitative easing](../q/quantitative_easing.md) by central banks on investment flows into different asset classes. By assessing investment trends before and after policy announcements, analysts can determine the effectiveness of such monetary policies in stimulating economic growth.
 
 ## Challenges and Considerations
 

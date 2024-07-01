@@ -1,10 +1,10 @@
 # Least Absolute Deviations (LAD)
 
-Least Absolute Deviations (LAD) is an optimization technique used in statistical modeling and regression analysis which minimizes the sum of the absolute differences (errors) between the observed values and the predicted values. This method is particularly useful in cases where the data contains outliers or is not normally distributed, as LAD is more robust to outliers compared to methods like ordinary least squares (OLS), which minimize the sum of squared differences.
+Least Absolute Deviations (LAD) is an optimization technique used in statistical modeling and [regression analysis](../r/regression_analysis.md) which minimizes the sum of the absolute differences (errors) between the observed values and the predicted values. This method is particularly useful in cases where the data contains outliers or is not normally distributed, as LAD is more robust to outliers compared to methods like ordinary least squares (OLS), which minimize the sum of squared differences.
 
 ### Introduction
 
-In financial markets, especially in algorithmic trading, models need to accurately predict asset prices, returns, or other key indicators. The precision of these predictions relies heavily on the underlying statistical method used for building the model. Traditional methods like ordinary least squares regression may not adequately perform when data is prone to outliers or heavy-tailed distributions. Least Absolute Deviations regression, on the other hand, offers a robust alternative by minimizing the sum of absolute errors rather than the sum of squared errors.
+In financial markets, especially in [algorithmic trading](../a/algorithmic_trading.md), models need to accurately predict asset prices, returns, or other key indicators. The precision of these predictions relies heavily on the underlying statistical method used for building the model. Traditional methods like ordinary [least squares regression](../l/least_squares_regression.md) may not adequately perform when data is prone to outliers or heavy-tailed distributions. Least Absolute Deviations regression, on the other hand, offers a robust alternative by minimizing the sum of absolute errors rather than the sum of squared errors.
 
 ### Mathematical Formulation
 
@@ -20,7 +20,7 @@ Here, \(y_i\) represents the observed value and \( \beta_0 + \beta_1 x_{i1} + \b
    
 2. **Better Performance with Fat-Tails**: Financial data often exhibit heavy tails (extreme deviations from the mean are more frequent than in a normal distribution). LAD can handle such data distributions more effectively.
 
-3. **Scalability**: Contemporary algorithmic trading systems require models that scale well with high-dimensional data. LAD can be computationally efficient, especially with advanced optimization algorithms.
+3. **Scalability**: Contemporary [algorithmic trading](../a/algorithmic_trading.md) systems require models that scale well with high-dimensional data. LAD can be computationally efficient, especially with advanced optimization algorithms.
 
 ### Computing Least Absolute Deviations
 
@@ -34,20 +34,20 @@ The optimization problem posed by LAD is non-differentiable due to the absolute 
 
 ### Applications in Algorithmic Trading
 
-- **Trend Following Models**: By emphasizing prediction accuracy over managing error squared, LAD can improve trend-following models which are critical in algorithmic trading strategies like momentum trading.
+- **[Trend Following](../t/trend_following.md) Models**: By emphasizing prediction accuracy over managing error squared, LAD can improve trend-following models which are critical in [algorithmic trading](../a/algorithmic_trading.md) strategies like [momentum trading](../m/momentum_trading.md).
   
-- **Risk Management**: In risk management models, minimizing absolute losses may better reflect real-world scenarios where outliers can heavily impact financial decisions.
+- **[Risk Management](../r/risk_management.md)**: In [risk management](../r/risk_management.md) models, minimizing absolute losses may better reflect real-world scenarios where outliers can heavily impact financial decisions.
 
-- **Portfolio Optimization**: LAD can be integrated within portfolio optimization frameworks to minimize risk profiles that emphasize tail-risk measures rather than variance.
+- **[Portfolio Optimization](../p/portfolio_optimization.md)**: LAD can be integrated within [portfolio optimization](../p/portfolio_optimization.md) frameworks to minimize risk profiles that emphasize tail-risk measures rather than variance.
 
 ### Examples of Companies Implementing LAD
 
-1. **AQR Capital Management**: AQR is known for its quantitative analysis and robust modeling techniques which could involve sophisticated methods like LAD. More info at [AQR](https://www.aqr.com/).
+1. **AQR Capital Management**: AQR is known for its [quantitative analysis](../q/quantitative_analysis.md) and robust modeling techniques which could involve sophisticated methods like LAD. More info at [AQR](https://www.aqr.com/).
 
-2. **Two Sigma**: This hedge fund relies heavily on data science and statistical methods. While their public documentation is limited, their emphasis on robust predictive modeling aligns with LAD principles. More details can be found at [Two Sigma](https://www.twosigma.com/).
+2. **Two Sigma**: This hedge fund relies heavily on data science and statistical methods. While their public documentation is limited, their emphasis on robust [predictive modeling](../p/predictive_modeling.md) aligns with LAD principles. More details can be found at [Two Sigma](https://www.twosigma.com/).
 
-3. **Renaissance Technologies**: Another leading name in quantitative finance, Renaissance Technologies might leverage robust statistical techniques like LAD to minimize model inaccuracies in the face of market anomalies. Visit [Renaissance Technologies](https://www.rentech.com/) for more information.
+3. **Renaissance Technologies**: Another leading name in [quantitative finance](../q/quantitative_finance.md), Renaissance Technologies might leverage robust statistical techniques like LAD to minimize model inaccuracies in the face of [market anomalies](../m/market_anomalies.md). Visit [Renaissance Technologies](https://www.rentech.com/) for more information.
 
 ### Conclusion
 
-Least Absolute Deviations offer a robust alternative to traditional least squares methods, making it valuable for algorithmic trading applications. Its ability to handle outliers and fat-tailed distributions makes it particularly well-suited for the kinds of data encountered in financial markets. Companies like AQR, Two Sigma, and Renaissance Technologies may use such methods to enhance their predictive models, ensuring greater accuracy and better risk management in their trading strategies.
+Least Absolute Deviations offer a robust alternative to traditional least squares methods, making it valuable for [algorithmic trading](../a/algorithmic_trading.md) applications. Its ability to handle outliers and fat-tailed distributions makes it particularly well-suited for the kinds of data encountered in financial markets. Companies like AQR, Two Sigma, and Renaissance Technologies may use such methods to enhance their predictive models, ensuring greater accuracy and better [risk management](../r/risk_management.md) in their [trading strategies](../t/trading_strategies.md).

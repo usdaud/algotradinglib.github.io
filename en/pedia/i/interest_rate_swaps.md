@@ -39,7 +39,7 @@ Corporations and financial institutions use interest rate swaps to hedge against
 Traders and hedge funds may enter into interest rate swaps to profit from anticipated movements in interest rates. By taking a position in the swap market, they can gain exposure to interest rate changes without needing to hold the underlying debt instruments.
 
 #### Arbitrage
-Arbitrage opportunities may arise if there are discrepancies between the swap market and other interest rate markets. Traders can exploit these differences to generate riskless profit.
+[Arbitrage](../a/arbitrage.md) opportunities may arise if there are discrepancies between the swap market and other interest rate markets. Traders can exploit these differences to generate riskless profit.
 
 ### Valuation of Interest Rate Swaps
 
@@ -47,7 +47,7 @@ Arbitrage opportunities may arise if there are discrepancies between the swap ma
 The valuation of an interest rate swap involves calculating the present value of the fixed leg and the floating leg. For the fixed leg, the present value is the sum of the discounted future fixed payments. For the floating leg, it is the sum of the discounted expected future floating payments.
 
 #### Discount Factors
-Interest rate swaps are typically valued using discount factors derived from the zero-coupon yield curve. These factors reflect the time value of money and the term structure of interest rates.
+Interest rate swaps are typically valued using discount factors derived from the zero-coupon [yield curve](../y/yield_curve.md). These factors reflect the time value of money and the [term structure of interest rates](../t/term_structure_of_interest_rates.md).
 
 #### Market Value
 The market value of an interest rate swap is the difference between the present value of the fixed leg and the present value of the floating leg. If this value is positive, the fixed-rate payer has a gain; if negative, a loss.
@@ -58,7 +58,7 @@ The market value of an interest rate swap is the difference between the present 
 For swaps used as hedging instruments, companies can apply hedge accounting to match the timing of the swap gains or losses with the hedged item. This treatment helps to minimize earnings volatility.
 
 #### Regulation
-Interest rate swaps are subject to various regulations depending on the jurisdiction, such as the Dodd-Frank Act in the United States, which mandates central clearing and reporting of swaps to increase transparency and reduce counterparty risk.
+Interest rate swaps are subject to various regulations depending on the jurisdiction, such as the Dodd-Frank Act in the United States, which mandates central clearing and reporting of swaps to increase transparency and reduce [counterparty risk](../c/counterparty_risk.md).
 
 ### Key Players in the Interest Rate Swap Market
 
@@ -70,7 +70,7 @@ Investment banks such as Goldman Sachs, JPMorgan Chase, and Morgan Stanley are m
 - [Morgan Stanley](https://www.morganstanley.com)
 
 #### Clearinghouses
-Central clearinghouses such as LCH and CME Clearing play a crucial role in reducing counterparty risk by acting as intermediaries in swap transactions. They guarantee the performance of the swap contract by requiring collateral and marking positions to market daily.
+Central clearinghouses such as LCH and CME Clearing play a crucial role in reducing [counterparty risk](../c/counterparty_risk.md) by acting as intermediaries in swap transactions. They guarantee the performance of the swap contract by requiring collateral and marking positions to market daily.
 
 - [LCH](https://www.lch.com)
 - [CME Clearing](https://www.cmegroup.com/clearing/financial-and-otc-clearing.html)
@@ -78,7 +78,7 @@ Central clearinghouses such as LCH and CME Clearing play a crucial role in reduc
 ### Challenges and Risks
 
 #### Counterparty Risk
-Interest rate swaps are subject to counterparty risk, the risk that the other party in the contract will default on their obligations. Central clearing reduces but does not eliminate this risk entirely.
+Interest rate swaps are subject to [counterparty risk](../c/counterparty_risk.md), the risk that the other party in the contract will default on their obligations. Central clearing reduces but does not eliminate this risk entirely.
 
 #### Interest Rate Risk
 While swaps can hedge against interest rate risk, they also expose parties to basis risk if the floating rate does not perfectly match the underlying exposure. Additionally, unanticipated movements in interest rates can lead to significant mark-to-market losses.
@@ -88,4 +88,4 @@ Changes in regulatory frameworks can impact the economics and attractiveness of 
 
 ### Conclusion
 
-Interest rate swaps are versatile and widely used financial derivatives that allow parties to manage interest rate exposure, speculate on rate movements, and achieve preferred financing structures. Understanding their mechanics, applications, and risks is crucial for financial professionals engaged in the borrowing, lending, or investing activities that involve interest rate exposure. With the involvement of key players such as investment banks and clearinghouses, and under a continuously evolving regulatory environment, interest rate swaps remain a fundamental component of global financial markets.
+Interest rate swaps are versatile and widely used financial [derivatives](../d/derivatives.md) that allow parties to manage interest rate exposure, speculate on rate movements, and achieve preferred financing structures. Understanding their mechanics, applications, and risks is crucial for financial professionals engaged in the borrowing, lending, or investing activities that involve interest rate exposure. With the involvement of key players such as investment banks and clearinghouses, and under a continuously evolving regulatory environment, interest rate swaps remain a fundamental component of global financial markets.

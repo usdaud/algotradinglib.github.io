@@ -6,7 +6,7 @@ Intermarket Momentum is a concept in financial trading that involves analyzing t
 
 ### Asset Classes
 
-Intermarket analysis typically involves looking at four primary asset classes to identify potential trading opportunities:
+[Intermarket analysis](../i/intermarket_analysis.md) typically involves looking at four primary asset classes to identify potential trading opportunities:
 
 1. **Equities**: This includes stock indices, individual stocks, and sectors.
 2. **Commodities**: Gold, oil, agricultural products, and other physical goods.
@@ -27,14 +27,14 @@ Intermarket momentum can be quantified and analyzed using various models and ind
 
 1. **Relative Strength Index (RSI)**: This measures the magnitude of recent price changes to evaluate overbought or oversold conditions.
 2. **Moving Averages**: Simple or exponential moving averages can help identify trends and reversals.
-3. **Momentum Indicators**: Tools like the Momentum Indicator and MACD (Moving Average Convergence Divergence) are commonly used to gauge the strength of market trends.
+3. **[Momentum Indicators](../m/momentum_indicators.md)**: Tools like the Momentum Indicator and MACD (Moving Average Convergence Divergence) are commonly used to gauge the strength of market trends.
 4. **Correlation Matrices**: These can be used to visually interpret the correlation coefficient between different asset classes.
 
 ## Practical Applications
 
 ### Portfolio Diversification
 
-Intermarket momentum analysis can aid in portfolio diversification. By understanding how different asset classes interact, traders and investors can build diversified portfolios that spread risk across multiple markets. If one asset underperforms, others may compensate for the loss.
+Intermarket [momentum analysis](../m/momentum_analysis.md) can aid in [portfolio diversification](../p/portfolio_diversification.md). By understanding how different asset classes interact, traders and investors can build diversified portfolios that spread risk across multiple markets. If one asset underperforms, others may compensate for the loss.
 
 ### Risk Management
 
@@ -42,15 +42,15 @@ Understanding the relationships between different markets helps in assessing pot
 
 ### Trading Strategies
 
-Several trading strategies rely on intermarket momentum:
+Several [trading strategies](../t/trading_strategies.md) rely on intermarket momentum:
 
 - **Pair Trading**: This involves taking long and short positions in two correlated assets. For example, if gold and the U.S. Dollar typically move inversely, a trader might go long on gold and short on the U.S. Dollar.
-- **Sector Rotation**: Investors can shift their focus between different sectors based on intermarket momentum indicators. For example, when bond yields increase, sectors like utilities and real estate might underperform, while financial stocks could benefit.
-- **Cross-Market Arbitrage**: This strategy takes advantage of price differentials between related markets. If a commodity is disproportionately priced compared to its respective currency, arbitrage opportunities could arise.
+- **[Sector Rotation](../s/sector_rotation.md)**: Investors can shift their focus between different sectors based on intermarket [momentum indicators](../m/momentum_indicators.md). For example, when bond yields increase, sectors like utilities and real estate might underperform, while financial stocks could benefit.
+- **Cross-Market [Arbitrage](../a/arbitrage.md)**: This strategy takes advantage of price differentials between related markets. If a commodity is disproportionately priced compared to its respective currency, [arbitrage](../a/arbitrage.md) opportunities could arise.
 
 ### Algorithmic Trading
 
-Intermarket momentum is increasingly being incorporated into algorithmic trading systems. Advanced algorithms can analyze real-time data from multiple markets, identify patterns, and execute trades much faster than human traders. These algorithms often rely on machine learning and artificial intelligence to improve their accuracy and performance over time.
+Intermarket momentum is increasingly being incorporated into [algorithmic trading](../a/algorithmic_trading.md) systems. Advanced algorithms can analyze real-time data from multiple markets, identify patterns, and execute trades much faster than human traders. These algorithms often rely on machine learning and artificial intelligence to improve their accuracy and performance over time.
 
 ## Case Studies and Examples
 
@@ -68,19 +68,19 @@ Oil prices often influence specific sectors within the equity markets. For examp
 
 ## Tools and Software
 
-Various tools and platforms facilitate intermarket momentum analysis:
+Various tools and platforms facilitate intermarket [momentum analysis](../m/momentum_analysis.md):
 
 1. **Bloomberg Terminal**: Offers comprehensive data and analytics for multiple asset classes. 
    - [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-2. **Thomson Reuters Eikon**: Provides extensive market data and tools for intermarket analysis.
+2. **Thomson Reuters Eikon**: Provides extensive market data and tools for [intermarket analysis](../i/intermarket_analysis.md).
    - [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)
-3. **TradingView**: A popular platform among retail traders for charting and technical analysis, offering various intermarket analysis tools.
+3. **TradingView**: A popular platform among retail traders for charting and [technical analysis](../t/technical_analysis.md), offering various [intermarket analysis](../i/intermarket_analysis.md) tools.
    - [TradingView](https://www.tradingview.com/)
-4. **MetaTrader**: Widely used trading platform that supports various intermarket analysis indicators and custom algorithm implementation.
+4. **MetaTrader**: Widely used trading platform that supports various [intermarket analysis](../i/intermarket_analysis.md) indicators and custom algorithm implementation.
    - [MetaTrader](https://www.metatrader4.com/en)
-5. **MultiCharts**: Advanced trading platform offering robust intermarket analysis capabilities.
+5. **MultiCharts**: Advanced trading platform offering robust [intermarket analysis](../i/intermarket_analysis.md) capabilities.
    - [MultiCharts](https://www.multicharts.com/)
 
 ## Final Thoughts
 
-Intermarket momentum offers a holistic approach to financial trading by allowing traders and investors to consider multiple markets and their interrelationships. By leveraging sophisticated tools and strategies, one can gain comprehensive insights and potentially enhance trading performance. Whether you're a retail trader or an institutional investor, understanding intermarket momentum is essential for navigating today's complex financial landscape.
+Intermarket momentum offers a holistic approach to financial trading by allowing traders and investors to consider multiple markets and their interrelationships. By leveraging sophisticated tools and strategies, one can gain comprehensive insights and potentially enhance [trading performance](../t/trading_performance.md). Whether you're a retail trader or an institutional investor, understanding intermarket momentum is essential for navigating today's complex financial landscape.

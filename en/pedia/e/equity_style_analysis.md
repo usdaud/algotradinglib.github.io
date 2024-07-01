@@ -14,8 +14,8 @@ A fundamental component of Equity Style Analysis is the "style box," a nine-squa
 
 ### Investment Style
 
-1. **Value**: Investments in companies perceived to be undervalued based on fundamental analysis. Value stocks typically have lower price-to-earnings ratios and higher dividend yields.
-2. **Growth**: Investments in companies expected to grow faster than the market average. Growth stocks usually have higher price-to-earnings ratios and reinvest earnings into expansion.
+1. **Value**: Investments in companies perceived to be undervalued based on [fundamental analysis](../f/fundamental_analysis.md). Value stocks typically have lower price-to-earnings ratios and higher dividend yields.
+2. **Growth**: Investments in companies expected to grow faster than the market average. [Growth stocks](../g/growth_stocks.md) usually have higher price-to-earnings ratios and reinvest earnings into expansion.
 3. **Blend**: Investments that do not fit neatly into either value or growth categories, often encompassing elements of both.
 
 ## Quantitative Measures in Equity Style Analysis
@@ -40,7 +40,7 @@ Beta measures a stock's volatility relative to the overall market. A beta greate
 
 ## Applying Equity Style Analysis to Portfolio Management
 
-Equity Style Analysis is crucial for portfolio diversification, risk management, and performance assessment. Investors can apply this approach to achieve various objectives.
+Equity Style Analysis is crucial for [portfolio diversification](../p/portfolio_diversification.md), [risk management](../r/risk_management.md), and performance assessment. Investors can apply this approach to achieve various objectives.
 
 ### Diversification
 
@@ -52,7 +52,7 @@ Understanding the style characteristics of investments helps in identifying and 
 
 ### Performance Evaluation
 
-Equity Style Analysis enables investors to evaluate portfolio performance against relevant style benchmarks, providing insights into manager skill and investment efficacy.
+Equity Style Analysis enables investors to evaluate [portfolio performance](../p/portfolio_performance.md) against relevant style benchmarks, providing insights into manager skill and investment efficacy.
 
 ## Tools and Platforms for Equity Style Analysis
 
@@ -60,11 +60,11 @@ Various tools and platforms facilitate Equity Style Analysis, offering investors
 
 ### Morningstar Direct
 
-[Morningstar Direct](https://www.morningstar.com/products/direct) is a comprehensive investment analysis platform providing detailed style analysis, performance metrics, and fund ratings.
+[Morningstar Direct](https://www.morningstar.com/products/direct) is a comprehensive investment analysis platform providing detailed style analysis, [performance metrics](../p/performance_metrics.md), and fund ratings.
 
 ### FactSet
 
-[FactSet](https://www.factset.com) offers powerful analytical tools for portfolio style analysis, risk management, and performance attribution, helping investors make data-driven decisions.
+[FactSet](https://www.factset.com) offers powerful analytical tools for portfolio style analysis, [risk management](../r/risk_management.md), and [performance attribution](../p/performance_attribution.md), helping investors make data-driven decisions.
 
 ### MSCI Barra
 
@@ -96,4 +96,4 @@ Equity Style Analysis often relies on historical performance data, which may not
 
 ## Conclusion
 
-Equity Style Analysis is an invaluable framework for classifying, evaluating, and managing investment portfolios. By understanding the distinct characteristics of different market segments and investment styles, investors can make informed decisions, optimize diversification, manage risk, and assess performance effectively. Despite its challenges and limitations, the integration of advanced tools and data analytics continues to enhance the precision and utility of Equity Style Analysis in modern portfolio management.
+Equity Style Analysis is an invaluable framework for classifying, evaluating, and managing investment portfolios. By understanding the distinct characteristics of different market segments and investment styles, investors can make informed decisions, optimize diversification, manage risk, and assess performance effectively. Despite its challenges and limitations, the integration of advanced tools and data analytics continues to enhance the precision and utility of Equity Style Analysis in modern [portfolio management](../p/portfolio_management.md).

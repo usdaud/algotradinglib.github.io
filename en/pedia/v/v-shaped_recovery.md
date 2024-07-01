@@ -32,7 +32,7 @@ Governments often implement expansive fiscal policies to support businesses and 
 
 #### Monetary Policies
 
-Central banks may lower interest rates or engage in quantitative easing to inject liquidity into the economy. These measures help in reducing borrowing costs and encouraging investment and spending, thereby aiding recovery.
+Central banks may lower interest rates or engage in [quantitative easing](../q/quantitative_easing.md) to inject liquidity into the economy. These measures help in reducing borrowing costs and encouraging investment and spending, thereby aiding recovery.
 
 #### Structural Reforms
 
@@ -64,7 +64,7 @@ The COVID-19 pandemic caused an unprecedented global economic contraction as cou
 
 #### Policy Response
 
-Countries around the world implemented aggressive fiscal and monetary policies to mitigate the economic impact. For example, the United States passed several stimulus packages totaling trillions of dollars. Central banks lowered interest rates and engaged in various forms of quantitative easing.
+Countries around the world implemented aggressive fiscal and monetary policies to mitigate the economic impact. For example, the United States passed several stimulus packages totaling trillions of dollars. Central banks lowered interest rates and engaged in various forms of [quantitative easing](../q/quantitative_easing.md).
 
 #### Economic Indicators
 

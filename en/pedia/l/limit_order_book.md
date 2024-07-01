@@ -1,6 +1,6 @@
 # Limit Order Book
 
-The Limit Order Book (LOB) is a fundamental concept in financial markets, specifically in the domain of algorithmic trading. It is a record of all outstanding limit orders in a given market or exchange. These orders are placed by market participants who specify the quantity of shares they wish to buy or sell and the minimum or maximum price they are willing to transact at.
+The Limit Order Book (LOB) is a fundamental concept in financial markets, specifically in the domain of [algorithmic trading](../a/algorithmic_trading.md). It is a record of all outstanding limit orders in a given market or exchange. These orders are placed by market participants who specify the quantity of shares they wish to buy or sell and the minimum or maximum price they are willing to transact at.
 
 A limit order to buy is placed below the current market price, while a limit order to sell is placed above the current market price. The LOB aggregates these orders and is continually updated as new orders are placed, executed, or cancelled. It provides a transparent view of the supply and demand for a particular security and is crucial for price discovery and liquidity.
 
@@ -28,11 +28,11 @@ The LOB is sorted by price levels, with the highest bid prices at the top of the
   
 - **Best Ask**: The lowest price at which someone is willing to sell an asset.
 
-The difference between the best bid and the best ask is known as the **bid-ask spread**. A narrower spread typically indicates higher liquidity.
+The difference between the best bid and the best ask is known as the **[bid-ask spread](../b/bid-ask_spread.md)**. A narrower spread typically indicates higher liquidity.
 
 ### Order Matching
 
-Exchanges use order matching algorithms to pair buy and sell orders. When a market order is placed, it is executed against the best available limit orders in the LOB. For example, a market buy order will match with the lowest ask prices.
+Exchanges use [order matching algorithms](../o/order_matching_algorithms.md) to pair buy and sell orders. When a market order is placed, it is executed against the best available limit orders in the LOB. For example, a market buy order will match with the lowest ask prices.
 
 ### Depth of Book
 
@@ -40,11 +40,11 @@ The depth of the book refers to the number of orders at each price level. It pro
 
 ## Importance in Algorithmic Trading
 
-The LOB plays a critical role in algorithmic trading. Algorithms use the information from the LOB to make informed trading decisions based on current market depth, liquidity, and price levels. Key strategies involving the LOB include:
+The LOB plays a critical role in [algorithmic trading](../a/algorithmic_trading.md). Algorithms use the information from the LOB to make informed trading decisions based on current market depth, liquidity, and price levels. Key strategies involving the LOB include:
 
 ### Market Making
 
-Market makers provide liquidity by placing both buy and sell limit orders. They profit from the bid-ask spread by buying low and selling high. By continuously updating their orders based on the LOB, they help maintain an orderly market.
+Market makers provide liquidity by placing both buy and sell limit orders. They profit from the [bid-ask spread](../b/bid-ask_spread.md) by buying low and selling high. By continuously updating their orders based on the LOB, they help maintain an orderly market.
 
 ### Arbitrage
 
@@ -52,13 +52,13 @@ Arbitrageurs exploit price discrepancies between different markets or instrument
 
 ### High-Frequency Trading (HFT)
 
-HFT firms rely heavily on the LOB to execute large volumes of trades at very high speeds. They use advanced algorithms to analyze the LOB in real-time and make split-second trading decisions. HFT strategies often include market making, arbitrage, and statistical arbitrage.
+HFT firms rely heavily on the LOB to execute large volumes of trades at very high speeds. They use advanced algorithms to analyze the LOB in real-time and make split-second trading decisions. HFT strategies often include market making, [arbitrage](../a/arbitrage.md), and statistical [arbitrage](../a/arbitrage.md).
 
 ## Real-World Examples and Applications
 
 ### NASDAQ
 
-The NASDAQ exchange operates an electronic limit order book where all buy and sell orders are organized and matched. NASDAQ provides detailed LOB data to traders and firms for analytical purposes, helping them devise trading strategies based on the order flow and depth.
+The NASDAQ exchange operates an electronic limit order book where all buy and sell orders are organized and matched. NASDAQ provides detailed LOB data to traders and firms for analytical purposes, helping them devise [trading strategies](../t/trading_strategies.md) based on the order flow and depth.
 
 Website: [NASDAQ](http://www.nasdaq.com/)
 
@@ -90,8 +90,8 @@ The LOB generates massive amounts of data, especially in highly liquid markets. 
 
 ### Algorithmic Risks
 
-Reliance on algorithms also introduces risks, such as the potential for flawed coding or unforeseen market conditions triggering large, unintended trades. Robust risk management and continuous monitoring are essential to mitigate these risks.
+Reliance on algorithms also introduces risks, such as the potential for flawed coding or unforeseen market conditions triggering large, unintended trades. Robust [risk management](../r/risk_management.md) and continuous monitoring are essential to mitigate these risks.
 
 ## Conclusion
 
-The Limit Order Book is a cornerstone of modern financial markets, providing transparency, liquidity, and a framework for price discovery. It is essential for various trading strategies, including market making, arbitrage, and high-frequency trading. Understanding the structure and operations of the LOB is crucial for traders and firms looking to navigate the complexities of today’s electronic markets.
+The Limit Order Book is a cornerstone of modern financial markets, providing transparency, liquidity, and a framework for price discovery. It is essential for various [trading strategies](../t/trading_strategies.md), including market making, [arbitrage](../a/arbitrage.md), and high-frequency trading. Understanding the structure and operations of the LOB is crucial for traders and firms looking to navigate the complexities of today’s electronic markets.

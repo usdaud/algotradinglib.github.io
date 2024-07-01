@@ -33,7 +33,7 @@ To formalize General Equilibrium, economists often rely on a system of equations
 
 where \( D_{ij} \) is agent \( i \)'s demand for good \( j \), and \( E_{ij} \) is agent \( i \)'s endowment of good \( j \).
 
-2. The utility maximization for each agent given their budget constraint:
+2. The [utility maximization](../u/utility_maximization.md) for each agent given their budget constraint:
 \[ \max U_i(x_{i1}, x_{i2}, ..., x_{in}) \]
 \[ \text{subject to} \sum_{j=1}^n p_j x_{ij} = I_i \]
 
@@ -107,7 +107,7 @@ Equilibrium models assess the economic impact of environmental policies, such as
 
 ### 9.4. Financial Markets
 
-GET provides insights into the functioning of financial markets, asset pricing, and the systemic risks in interconnected economies. It forms the basis for more advanced models in financial economics.
+GET provides insights into the functioning of financial markets, asset pricing, and the systemic risks in interconnected economies. It forms the basis for more advanced models in [financial economics](../f/financial_economics.md).
 
 ## 10. Prominent Organizations and Research Centers
 

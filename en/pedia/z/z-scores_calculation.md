@@ -2,7 +2,7 @@
 
 ### Introduction to Z-Scores
 
-In the realm of statistics and data analysis, Z-scores play a pivotal role in understanding the relative positioning of data points within a dataset. Specifically, in the context of algorithmic trading (often abbreviated as 'algo trading'), Z-scores are instrumental in creating trading strategies that identify anomalies, outliers, and potential trading signals.
+In the realm of statistics and data analysis, Z-scores play a pivotal role in understanding the relative positioning of data points within a dataset. Specifically, in the context of [algorithmic trading](../a/algorithmic_trading.md) (often abbreviated as 'algo trading'), Z-scores are instrumental in creating [trading strategies](../t/trading_strategies.md) that identify anomalies, outliers, and potential [trading signals](../t/trading_signals.md).
 
 ### Definition of Z-Score
 
@@ -19,7 +19,7 @@ Where:
 
 ### Importance of Z-Scores in Algorithmic Trading
 
-In algorithmic trading, Z-scores are employed to standardize financial data, identify overbought or oversold conditions, and construct mean-reversion strategies. By converting price data into Z-scores, traders can better understand how far prices deviate from their historical mean, allowing for more informed trading decisions.
+In [algorithmic trading](../a/algorithmic_trading.md), Z-scores are employed to standardize financial data, identify overbought or oversold conditions, and construct mean-reversion strategies. By converting price data into Z-scores, traders can better understand how far prices deviate from their historical mean, allowing for more informed trading decisions.
 
 ### Calculating Z-Scores: Step-by-Step
 
@@ -78,7 +78,7 @@ Z_{10} &= \frac{99 - 100.6}{3.623} = -0.44 \\
 
 #### Mean-Reversion Strategy
 
-Mean-reversion trading strategies hinge on the principle that prices and returns eventually move back towards the mean or average level. In this context, Z-scores help identify when an asset is overbought (high positive Z-score) or oversold (high negative Z-score), thus presenting potential trading opportunities.
+Mean-reversion [trading strategies](../t/trading_strategies.md) hinge on the principle that prices and returns eventually move back towards the mean or average level. In this context, Z-scores help identify when an asset is overbought (high positive Z-score) or oversold (high negative Z-score), thus presenting potential trading opportunities.
 
 #### Example
 
@@ -86,7 +86,7 @@ If the Z-score of a stock's price exceeds +2, it might be considered overbought 
 
 #### Statistical Arbitrage
 
-In statistical arbitrage, pairs trading or basket trading leverages Z-scores by identifying relationships between correlated securities. By monitoring the Z-scores of the price spreads between pairs, traders can execute trades that exploit perceived mispricings.
+In statistical [arbitrage](../a/arbitrage.md), [pairs trading](../p/pairs_trading.md) or basket trading leverages Z-scores by identifying relationships between correlated securities. By monitoring the Z-scores of the price spreads between pairs, traders can execute trades that exploit perceived mispricings.
 
 ### Tools and Software for Z-Score Calculation
 
@@ -100,7 +100,7 @@ Several trading platforms and software tools provide functionalities to calculat
   # Assume df is a DataFrame with a 'price' column
   df['z_score'] = (df['price'] - df['price'].mean()) / df['price'].std()
   ```
-- **R (quantmod package)**: Widely used in quantitative finance for time series analysis and trading:
+- **R (quantmod package)**: Widely used in [quantitative finance](../q/quantitative_finance.md) for [time series analysis](../t/time_series_analysis.md) and trading:
   ```R
   library(quantmod)
   prices <- c(101, 102, 103, 100, 98, 105, 107, 95, 96, 99)
@@ -114,8 +114,8 @@ Several trading platforms and software tools provide functionalities to calculat
 ### Case Study: Use of Z-Scores by Algorithmic Trading Firms
 
 **Hudson River Trading (HRT)**:
-Hudson River Trading (HRT) [https://www.hudsonrivertrading.com/] relies heavily on quantitative research and advanced algorithms. Z-scores are part of their statistical models to identify and execute profitable trades. 
+Hudson River Trading (HRT) [https://www.hudsonrivertrading.com/] relies heavily on [quantitative research](../q/quantitative_research.md) and advanced algorithms. Z-scores are part of their statistical models to identify and execute profitable trades. 
 
 ### Conclusion
 
-Z-scores are a potent statistical tool in algorithmic trading, offering insights into market conditions and enabling traders to design robust trading strategies. Whether for mean-reversion, statistical arbitrage, or other quantitative strategies, understanding and calculating Z-scores is indispensable for modern traders seeking to harness the power of data-driven decision-making.
+Z-scores are a potent statistical tool in [algorithmic trading](../a/algorithmic_trading.md), offering insights into market conditions and enabling traders to design robust [trading strategies](../t/trading_strategies.md). Whether for mean-reversion, statistical [arbitrage](../a/arbitrage.md), or other quantitative strategies, understanding and calculating Z-scores is indispensable for modern traders seeking to harness the power of data-driven decision-making.

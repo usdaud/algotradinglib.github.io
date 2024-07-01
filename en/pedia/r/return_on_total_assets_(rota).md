@@ -18,7 +18,7 @@ The result is expressed as a percentage, indicating how much profit is generated
 
 1. **Efficiency Assessment**: ROTA helps investors assess how efficiently a company utilizes its assets to generate earnings. Higher ROTA values indicate more efficient use of assets.
 
-2. **Comparative Analysis**: It allows for comparison between companies with different capital structures. Since ROTA accounts for both equity and debt, it provides a level playing field for comparing firms regardless of how they are financed.
+2. **[Comparative Analysis](../c/comparative_analysis.md)**: It allows for comparison between companies with different capital structures. Since ROTA accounts for both equity and debt, it provides a level playing field for comparing firms regardless of how they are financed.
 
 3. **Investment Decisions**: For investors, a higher ROTA can signal better management performance and more effective asset utilization, making the company a potentially more attractive investment.
 

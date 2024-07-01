@@ -1,6 +1,6 @@
 # Historical Relative Strength
 
-Relative Strength (RS) is a classic technical analysis metric which compares the performance of a stock or other financial instrument against a benchmark or index, typically over a specified time period, to determine how it is performing relative to other assets. In the context of historical relative strength, we are specifically focused on examining this performance metric over historical periods to identify patterns, trends, and potentially predictive signals that can be utilized in algorithmic trading.
+Relative Strength (RS) is a classic [technical analysis](../t/technical_analysis.md) metric which compares the performance of a stock or other financial instrument against a benchmark or index, typically over a specified time period, to determine how it is performing relative to other assets. In the context of historical relative strength, we are specifically focused on examining this performance metric over historical periods to identify patterns, trends, and potentially predictive signals that can be utilized in [algorithmic trading](../a/algorithmic_trading.md).
 
 ## What Is Relative Strength?
 
@@ -31,16 +31,16 @@ To calculate historical RS, one must gather the historical price data for both t
 Various tools can be employed to analyze historical RS:
 
 - **Charts and Graphs**: Visual representations that plot RS over time.
-- **Statistical Methods**: Techniques such as moving averages and regression analysis to smooth out and analyze data trends.
+- **Statistical Methods**: Techniques such as moving averages and [regression analysis](../r/regression_analysis.md) to smooth out and analyze data trends.
 - **Machine Learning**: Advanced techniques to identify patterns and make predictive analyses.
 
 ## Applications in Algorithmic Trading
 
-Algorithmic trading leverages historical RS data to construct algorithms that can make high-frequency, automated trades based on the relative strength trends. Algorithms can be designed to:
+[Algorithmic trading](../a/algorithmic_trading.md) leverages historical RS data to construct algorithms that can make high-frequency, automated trades based on the relative strength trends. Algorithms can be designed to:
 
 - **Identify Breakouts**: By looking for significant increases in RS.
 - **Signal Overbought/Oversold Conditions**: By setting threshold values for RSI.
-- **Trend Following**: By analyzing RS over different periods to confirm a trend.
+- **[Trend Following](../t/trend_following.md)**: By analyzing RS over different periods to confirm a trend.
 
 ### Integrating with Trading Systems
 
@@ -76,4 +76,4 @@ Accurate historical data is paramount. Inaccurate or incomplete data can lead to
 
 ## Conclusion
 
-Historical Relative Strength is a powerful tool in the arsenal of both traditional and algorithmic traders. By understanding and leveraging RS, traders and investors can gain valuable insights into which assets are outperforming or underperforming relative to benchmarks. This, in turn, can inform better trading strategies and decisions. However, like all tools, it is most effective when used in conjunction with other analysis methods and a comprehensive understanding of market conditions.
+Historical Relative Strength is a powerful tool in the arsenal of both traditional and algorithmic traders. By understanding and leveraging RS, traders and investors can gain valuable insights into which assets are outperforming or underperforming relative to benchmarks. This, in turn, can inform better [trading strategies](../t/trading_strategies.md) and decisions. However, like all tools, it is most effective when used in conjunction with other analysis methods and a comprehensive understanding of market conditions.

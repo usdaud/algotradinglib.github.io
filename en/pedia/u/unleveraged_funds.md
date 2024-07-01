@@ -1,6 +1,6 @@
 # Unleveraged Funds
 
-Unleveraged funds, also known as unleveraged investment funds, are financial products that aim to generate returns for investors without using borrowed money or derivatives to amplify profits or losses. Unlike leveraged funds that use borrowed capital to increase the potential return on investments, unleveraged funds rely solely on the actual capital invested. This conservative approach appeals to investors who prioritize stability and reduced risk over potentially higher but more volatile returns.
+Unleveraged funds, also known as unleveraged investment funds, are financial products that aim to generate returns for investors without using borrowed money or [derivatives](../d/derivatives.md) to amplify profits or losses. Unlike leveraged funds that use borrowed capital to increase the potential return on investments, unleveraged funds rely solely on the actual capital invested. This conservative approach appeals to investors who prioritize stability and reduced risk over potentially higher but more volatile returns.
 
 ## Characteristics of Unleveraged Funds
 
@@ -30,7 +30,7 @@ These funds invest in short-term, high-quality investments issued by government 
 
 ## Advantages of Unleveraged Funds
 
-1. **Risk Management:** Lower risk as there is no borrowing involved.
+1. **[Risk Management](../r/risk_management.md):** Lower risk as there is no borrowing involved.
 2. **Stable Returns:** More stable returns which are less susceptible to market volatility.
 3. **Transparency:** Easier for investors to understand.
 4. **Lower Costs:** Reduced management fees and no interest expenditure.

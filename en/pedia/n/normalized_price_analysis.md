@@ -1,6 +1,6 @@
 # Normalized Price Analysis
 
-Normalized Price Analysis is a vital concept in algorithmic trading, where traders and systems utilize statistical techniques to compare and analyze the prices of various securities over time. Normalization of price data helps in creating a level playing field, allowing for more accurate comparisons, performance evaluations, and strategic decisions.
+Normalized Price Analysis is a vital concept in [algorithmic trading](../a/algorithmic_trading.md), where traders and systems utilize statistical techniques to compare and analyze the prices of various securities over time. Normalization of price data helps in creating a level playing field, allowing for more accurate comparisons, performance evaluations, and strategic decisions.
 
 ## What is Normalized Price?
 
@@ -11,15 +11,15 @@ Normalized price refers to the process of adjusting the raw prices of financial 
 1. **Percentage Changes**: Calculating the percentage change from a base value to track relative performance over time.
 2. **Z-Scores**: Transforming price data into z-scores, which represent the number of standard deviations away from the mean price.
 3. **Min-Max Scaling**: Rescaling prices to a specific range, often between 0 and 1, to standardize data for comparison.
-4. **Logarithmic Returns**: Utilizing the natural logarithm of price relatives to normalize data.
+4. **[Logarithmic Returns](../l/logarithmic_returns.md)**: Utilizing the natural logarithm of price relatives to normalize data.
 
 ### Importance in Algorithmic Trading
 
-In algorithmic trading, normalized price analysis allows for:
+In [algorithmic trading](../a/algorithmic_trading.md), normalized price analysis allows for:
 
-- **Comparative Analysis**: Directly comparing the performance of multiple securities, regardless of their original price scales.
-- **Pattern Recognition**: Identifying patterns and trends that are consistent across different assets.
-- **Risk Management**: Assessing relative volatility and risk more accurately.
+- **[Comparative Analysis](../c/comparative_analysis.md)**: Directly comparing the performance of multiple securities, regardless of their original price scales.
+- **[Pattern Recognition](../p/pattern_recognition.md)**: Identifying patterns and trends that are consistent across different assets.
+- **[Risk Management](../r/risk_management.md)**: Assessing relative volatility and risk more accurately.
 
 ## Techniques in Detail
 
@@ -49,7 +49,7 @@ Where \( X \) is the original price, \( X_{min} \) and \( X_{max} \) are the min
 
 ### Logarithmic Returns
 
-Logarithmic returns offer a continuous compounding perspective:
+[Logarithmic returns](../l/logarithmic_returns.md) offer a continuous compounding perspective:
 
 \[ \text{Log Return} = \ln \left( \frac{P_t}{P_{t-1}} \right) \]
 
@@ -63,7 +63,7 @@ Normalization allows traders and algorithms to assess the performance of various
 
 ### Strategy Backtesting
 
-When backtesting trading strategies, normalized prices ensure that the strategies are evaluated on a consistent basis, enabling more accurate and meaningful results.
+When [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md), normalized prices ensure that the strategies are evaluated on a consistent basis, enabling more accurate and meaningful results.
 
 ### Multi-Asset Strategies
 
@@ -75,7 +75,7 @@ Normalization helps in understanding and managing the relative risk of various a
 
 ## Tools and Libraries
 
-Several tools and libraries facilitate normalized price analysis in algorithmic trading:
+Several tools and libraries facilitate normalized price analysis in [algorithmic trading](../a/algorithmic_trading.md):
 
 - **Pandas**: A powerful data manipulation library in Python, useful for handling and normalizing large datasets.
   [Pandas](https://pandas.pydata.org/)
@@ -83,7 +83,7 @@ Several tools and libraries facilitate normalized price analysis in algorithmic 
   [NumPy](https://numpy.org/)
 - **Scikit-learn**: Includes tools for machine learning and data preprocessing, including normalization techniques.
   [Scikit-learn](https://scikit-learn.org/)
-- **Trading Platforms**: Many trading platforms have built-in functions for price normalization and comparative analysis.
+- **Trading Platforms**: Many trading platforms have built-in functions for price normalization and [comparative analysis](../c/comparative_analysis.md).
 
 ## Example Workflow
 
@@ -124,8 +124,8 @@ plt.legend()
 plt.show()
 ```
 
-This script loads price data, applies various normalization techniques, and visualizes the normalized data for analysis. Such workflows are essential in algorithmic trading to create robust, data-driven strategies.
+This script loads price data, applies various normalization techniques, and visualizes the normalized data for analysis. Such workflows are essential in [algorithmic trading](../a/algorithmic_trading.md) to create robust, data-driven strategies.
 
 ## Conclusion
 
-Normalized Price Analysis is a cornerstone of algorithmic trading, providing a standardized method to evaluate and compare different financial instruments. By utilizing techniques such as percentage changes, z-scores, min-max scaling, and logarithmic returns, traders can gain deeper insights into market dynamics, build effective strategies, and manage risk more efficiently. The use of advanced tools and libraries further enhances the precision and effectiveness of normalized price analysis in modern trading systems.
+Normalized Price Analysis is a cornerstone of [algorithmic trading](../a/algorithmic_trading.md), providing a standardized method to evaluate and compare different financial instruments. By utilizing techniques such as percentage changes, z-scores, min-max scaling, and [logarithmic returns](../l/logarithmic_returns.md), traders can gain deeper insights into market dynamics, build effective strategies, and manage risk more efficiently. The use of advanced tools and libraries further enhances the precision and effectiveness of normalized price analysis in modern [trading systems](../t/trading_systems.md).

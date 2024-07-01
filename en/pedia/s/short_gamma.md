@@ -1,6 +1,6 @@
 ## Short Gamma
 
-Short Gamma is a concept related to options trading, which is integral to the larger field of algorithmic trading (or algo-trading). This term is most often discussed in the context of delta-hedging and risk management strategies employed by traders, market makers, and institutional investors. Understanding Short Gamma involves delving into key concepts like options greeks, the mechanics of options pricing, and hedging strategies.
+Short Gamma is a concept related to options trading, which is integral to the larger field of [algorithmic trading](../a/algorithmic_trading.md) (or algo-trading). This term is most often discussed in the context of delta-hedging and [risk management](../r/risk_management.md) strategies employed by traders, market makers, and institutional investors. Understanding Short Gamma involves delving into key concepts like options greeks, the mechanics of options pricing, and [hedging strategies](../h/hedging_strategies.md).
 
 ### Options Basics
 
@@ -17,7 +17,7 @@ An option is a financial derivative that gives the holder the right, but not the
 
 Options greeks are a set of risk measures that describe how sensitive the price of an option is to various factors. The most commonly discussed greeks include Delta, Gamma, Theta, Vega, and Rho. For the purposes of understanding Short Gamma, the most relevant greeks are Delta and Gamma.
 
-- **Delta (Δ)**: Delta measures the rate of change of the option's price with respect to changes in the price of the underlying asset. For call options, delta ranges from 0 to 1, while for put options, delta ranges from -1 to 0.
+- **Delta (Δ)**: Delta measures the rate of change of the option's price with respect to changes in the price of the underlying asset. For call options, delta ranges from 0 to 1, while for [put options](../p/put_options.md), delta ranges from -1 to 0.
 - **Gamma (Γ)**: Gamma measures the rate of change of delta with respect to changes in the price of the underlying asset. In other words, gamma indicates how delta will change when the underlying asset’s price changes.
 
 ### What is Short Gamma?
@@ -38,7 +38,7 @@ Short Gamma refers to a position in options trading where the gamma is negative.
 
 Delta-hedging is a strategy used to mitigate the directional risk associated with options. For traders with a short gamma position, delta-hedging can be challenging:
 
-- **Dynamic Hedging**: Since gamma measures the change in delta, a short gamma position requires frequent adjustments to the hedge (buying or selling the underlying asset) to remain delta-neutral, especially in volatile markets.
+- **[Dynamic Hedging](../d/dynamic_hedging.md)**: Since gamma measures the change in delta, a short gamma position requires frequent adjustments to the hedge (buying or selling the underlying asset) to remain delta-neutral, especially in volatile markets.
 
 - **Costly Adjustments**: Frequent adjustments can result in high transaction costs, making short gamma positions costly to maintain.
 
@@ -46,8 +46,8 @@ Delta-hedging is a strategy used to mitigate the directional risk associated wit
 
 Managing the risks associated with short gamma positions involves:
 
-- **Proper Position Sizing**: Limiting the size of the short gamma positions to manageable levels.
-- **Volatility Forecasting**: Utilising advanced models to forecast volatility and adjust positions accordingly.
+- **Proper [Position Sizing](../p/position_sizing.md)**: Limiting the size of the short gamma positions to manageable levels.
+- **[Volatility Forecasting](../v/volatility_forecasting.md)**: Utilising advanced models to forecast volatility and adjust positions accordingly.
 - **Diversification**: Avoiding concentration in any single position to reduce systemic risk.
 
 ### Practical Applications
@@ -64,10 +64,10 @@ Market makers, who provide liquidity by constantly buying and selling options, o
 Institutional investors such as hedge funds may take short gamma positions as part of their broader strategy:
 
 - **Volatility Selling**: Selling volatility (premium collection through short gamma) can be part of a broader balanced portfolio.
-- **Income Generation**: Seeking income through the collection of option premiums, while employing sophisticated risk management techniques.
+- **Income Generation**: Seeking income through the collection of option premiums, while employing sophisticated [risk management](../r/risk_management.md) techniques.
 
 ### Conclusion
 
-Short Gamma is a nuanced concept in options trading that encapsulates significant risk and reward dynamics. Traders and investors engaged in short gamma positions must employ sophisticated risk management strategies, leverage advanced algorithmic models, and continuously adjust their hedges to mitigate the inherent risks. Understanding the intricacies of gamma, delta-hedging, and market volatility is crucial for successfully navigating short gamma positions in the ever-evolving landscape of financial markets. 
+Short Gamma is a nuanced concept in options trading that encapsulates significant risk and reward dynamics. Traders and investors engaged in short gamma positions must employ sophisticated [risk management](../r/risk_management.md) strategies, leverage advanced algorithmic models, and continuously adjust their hedges to mitigate the inherent risks. Understanding the intricacies of gamma, delta-hedging, and market volatility is crucial for successfully navigating short gamma positions in the ever-evolving landscape of financial markets. 
 
-For more detailed information, algorithmic traders often rely on tools and platforms provided by professional financial services firms, such as [Goldman Sachs](https://www.goldmansachs.com/) and [JP Morgan](https://www.jpmorgan.com/), which offer advanced trading platforms and risk management solutions.
+For more detailed information, algorithmic traders often rely on tools and platforms provided by professional financial services firms, such as [Goldman Sachs](https://www.goldmansachs.com/) and [JP Morgan](https://www.jpmorgan.com/), which offer advanced trading platforms and [risk management](../r/risk_management.md) solutions.

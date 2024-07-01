@@ -1,8 +1,8 @@
 # Wilder’s Smoothing Techniques
 
-Wilder’s smoothing techniques refer to the methods of smoothing and filtering financial data developed by J. Welles Wilder, an influential figure in technical analysis. These techniques are used by algorithmic traders and technical analysts to smooth out price data, reduce the impact of short-term fluctuations, and reveal underlying trends in financial markets.
+Wilder’s smoothing techniques refer to the methods of smoothing and filtering financial data developed by J. Welles Wilder, an influential figure in [technical analysis](../t/technical_analysis.md). These techniques are used by algorithmic traders and technical analysts to smooth out price data, reduce the impact of short-term fluctuations, and reveal underlying trends in financial markets.
 
-J. Welles Wilder Jr. introduced several key indicators and methods in his seminal work, "New Concepts in Technical Trading Systems" (1978). Among his contributions are popular indicators such as the Relative Strength Index (RSI), Average True Range (ATR), Parabolic SAR (Stop and Reverse), and the Directional Movement Index (DMI). Let’s dive into the specifics of some of these smoothing techniques and their applications in algorithmic trading.
+J. Welles Wilder Jr. introduced several key indicators and methods in his seminal work, "New Concepts in Technical [Trading Systems](../t/trading_systems.md)" (1978). Among his contributions are popular indicators such as the Relative Strength Index (RSI), Average True Range (ATR), [Parabolic SAR](../p/parabolic_sar.md) (Stop and Reverse), and the Directional Movement Index (DMI). Let’s dive into the specifics of some of these smoothing techniques and their applications in [algorithmic trading](../a/algorithmic_trading.md).
 
 ### Relative Strength Index (RSI)
 
@@ -49,14 +49,14 @@ The ATR is calculated as follows:
 
 \[ \text{ATR}_{\text{New}} = \frac{(\text{Previous ATR} \times 13) + \text{Current TR}}{14} \]
 
-The ATR gives traders an idea of the historical price volatility, which can help in setting stop-loss levels, position sizing, and identifying potential breakout points.
+The ATR gives traders an idea of the [historical price volatility](../h/historical_price_volatility.md), which can help in setting stop-loss levels, [position sizing](../p/position_sizing.md), and identifying potential breakout points.
 
 ### Parabolic SAR (Stop and Reverse)
 
-The Parabolic SAR is a trend-following indicator that indicates potential reversal points in the market. It plots points on the chart that define the price trend direction.
+The [Parabolic SAR](../p/parabolic_sar.md) is a trend-following indicator that indicates potential reversal points in the market. It plots points on the chart that define the price trend direction.
 
 #### Calculation
-The Parabolic SAR is computed as:
+The [Parabolic SAR](../p/parabolic_sar.md) is computed as:
 
 1. For an uptrend:
 
@@ -108,13 +108,13 @@ The ADX line helps distinguish trending from non-trending conditions, while the 
 
 Algorithmic traders utilize Wilder's smoothing techniques in various strategies, including:
 
-1. **Mean Reversion Strategies**: Using RSI to identify overbought or oversold conditions for triggering buy or sell signals.
-2. **Trend Following Strategies**: Implementing Parabolic SAR and ADX to determine entry and exit points in line with prevailing trends.
-3. **Volatility-Based Strategies**: Leveraging ATR to dynamically set stop-loss levels and adjust position sizing according to market volatility.
+1. **[Mean Reversion](../m/mean_reversion.md) Strategies**: Using RSI to identify overbought or oversold conditions for triggering buy or sell signals.
+2. **[Trend Following](../t/trend_following.md) Strategies**: Implementing [Parabolic SAR](../p/parabolic_sar.md) and ADX to determine entry and exit points in line with prevailing trends.
+3. **Volatility-Based Strategies**: Leveraging ATR to dynamically set stop-loss levels and adjust [position sizing](../p/position_sizing.md) according to market volatility.
 
-These techniques provide a robust framework for systematic trading due to their ability to filter out noise and focus on significant price movements and trends.
+These techniques provide a robust framework for [systematic trading](../s/systematic_trading.md) due to their ability to filter out noise and focus on significant price movements and trends.
 
-For more information about their applications in modern trading systems, consider reviewing resources provided by financial market education services or professional trading firms that specialize in algorithmic trading.
+For more information about their applications in modern [trading systems](../t/trading_systems.md), consider reviewing resources provided by financial market education services or professional trading firms that specialize in [algorithmic trading](../a/algorithmic_trading.md).
 
 - [Investopedia: Relative Strength Index (RSI)](https://www.investopedia.com/terms/r/rsi.asp)
 - [Investopedia: Average True Range (ATR)](https://www.investopedia.com/terms/a/atr.asp)

@@ -8,7 +8,7 @@ The term "liquidity trap" was popularized by John Maynard Keynes in his 1936 boo
 
 ### Characteristics of a Liquidity Trap
 
-1. **Interest Rates Near Zero:** In a liquidity trap, nominal interest rates are already at or near zero (the zero lower bound), so traditional monetary policy tools like lowering interest rates further become ineffective.
+1. **Interest Rates Near Zero:** In a liquidity trap, nominal interest rates are already at or near zero (the [zero lower bound](../z/zero_lower_bound.md)), so traditional monetary policy tools like lowering interest rates further become ineffective.
 
 2. **High Savings Rates:** Consumers and businesses prefer to hold cash rather than spend or invest it, often due to expectations of future economic problems or deflation.
 
@@ -36,7 +36,7 @@ The term "liquidity trap" was popularized by John Maynard Keynes in his 1936 boo
 
 Economists have proposed various ways to escape a liquidity trap:
 
-1. **Quantitative Easing:** Central banks can purchase financial assets to increase the money supply and encourage lending and investment. The Federal Reserve used this approach during the Global Financial Crisis.
+1. **[Quantitative Easing](../q/quantitative_easing.md):** Central banks can purchase financial assets to increase the money supply and encourage lending and investment. The Federal Reserve used this approach during the Global Financial Crisis.
 
 2. **Fiscal Policy:** Government spending and tax cuts can directly increase aggregate demand, bypassing the ineffectiveness of monetary policy. Keynes himself advocated for this during his discussions on liquidity traps.
 
@@ -44,7 +44,7 @@ Economists have proposed various ways to escape a liquidity trap:
 
 ### Criticisms and Debates
 
-1. **Effectiveness of Quantitative Easing:** Some argue that while quantitative easing can provide a temporary boost, it may not be able to fully counteract the forces of a liquidity trap.
+1. **Effectiveness of [Quantitative Easing](../q/quantitative_easing.md):** Some argue that while [quantitative easing](../q/quantitative_easing.md) can provide a temporary boost, it may not be able to fully counteract the forces of a liquidity trap.
 
 2. **Sustainability of Fiscal Stimulus:** There are concerns about the long-term impacts of increased government spending and borrowing, leading to debates on the sustainability and potential inflationary effects of such policies.
 

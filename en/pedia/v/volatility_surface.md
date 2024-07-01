@@ -1,6 +1,6 @@
 # Volatility Surface
 
-Volatility surface is a three-dimensional graph that depicts the implied volatility of an option at various strike prices and maturities. It's a crucial concept in options trading and financial modeling as it provides a comprehensive view of the market's expectations for an asset's future volatility.
+Volatility surface is a three-dimensional graph that depicts the implied volatility of an option at various strike prices and maturities. It's a crucial concept in options trading and [financial modeling](../f/financial_modeling.md) as it provides a comprehensive view of the market's expectations for an asset's future volatility.
 
 ## Key Concepts
 
@@ -20,7 +20,7 @@ The expiration date is the date on which an option contract becomes void. Differ
 
 ### Skew
 
-Volatility skew refers to the pattern of implied volatilities across different strike prices but for a fixed expiration date. A "normal" skew would have lower implied volatilities for at-the-money (ATM) options and higher implied volatilities for out-of-the-money (OTM) and in-the-money (ITM) options. This pattern is often due to investor demand for protection against extreme price movements.
+[Volatility skew](../v/volatility_skew.md) refers to the pattern of implied volatilities across different strike prices but for a fixed expiration date. A "normal" skew would have lower implied volatilities for at-the-money (ATM) options and higher implied volatilities for out-of-the-money (OTM) and in-the-money (ITM) options. This pattern is often due to investor demand for protection against extreme price movements.
 
 ### Term Structure
 
@@ -34,7 +34,7 @@ Fitting a volatility surface involves using mathematical models to interpolate a
 
 ### Options Pricing
 
-A well-constructed volatility surface is essential for accurate options pricing. Models like the Black-Scholes model require an input of volatility, and a dynamic volatility surface ensures that the volatility used in pricing is reflective of current market conditions.
+A well-constructed volatility surface is essential for accurate options pricing. Models like the [Black-Scholes model](../b/black-scholes_model.md) require an input of volatility, and a dynamic volatility surface ensures that the volatility used in pricing is reflective of current market conditions.
 
 ### Risk Management
 
@@ -42,7 +42,7 @@ By analyzing the volatility surface, traders and risk managers can better unders
 
 ### Arbitrage Opportunities
 
-A mispriced volatility surface can indicate potential arbitrage opportunities. Traders can exploit these discrepancies by constructing strategies that profit from the differential between estimated and actual market prices.
+A mispriced volatility surface can indicate potential [arbitrage](../a/arbitrage.md) opportunities. Traders can exploit these discrepancies by constructing strategies that profit from the differential between estimated and actual market prices.
 
 ### Scenario Analysis
 
@@ -56,11 +56,11 @@ The first step is to collect market data for options prices across various strik
 
 ### Calculation of Implied Volatility
 
-Next, implied volatilities are calculated for each option using models like the Black-Scholes model. The calculated IVs are used as data points for constructing the volatility surface.
+Next, implied volatilities are calculated for each option using models like the [Black-Scholes model](../b/black-scholes_model.md). The calculated IVs are used as data points for constructing the volatility surface.
 
 ### Interpolation and Extrapolation
 
-Once the data points of implied volatilities are available, interpolation techniques (like splines) and extrapolation methods are used to create a continuous surface. The goal is to capture the nuances of the market's implied volatility structure accurately.
+Once the data points of implied volatilities are available, interpolation techniques (like splines) and extrapolation methods are used to create a continuous surface. The goal is to capture the nuances of the market's implied [volatility structure](../v/volatility_structure.md) accurately.
 
 ### Calibration and Validation
 
@@ -70,7 +70,7 @@ The constructed surface must be calibrated and validated using out-of-sample dat
 
 ### SABR Model
 
-The SABR (Stochastic Alpha, Beta, Rho) model is a popular approach for capturing the dynamics of the volatility surface. It extends the classic Black-Scholes model by introducing stochastic volatility components. This model is particularly effective in capturing the volatility skew and term structure.
+The SABR (Stochastic Alpha, Beta, Rho) model is a popular approach for capturing the dynamics of the volatility surface. It extends the classic [Black-Scholes model](../b/black-scholes_model.md) by introducing stochastic volatility components. This model is particularly effective in capturing the [volatility skew](../v/volatility_skew.md) and term structure.
 
 ### Heston Model
 
@@ -96,5 +96,5 @@ Recent advancements in machine learning have led to the development of models th
 
 ## Conclusion
 
-Understanding and accurately modeling the volatility surface is critical for options trading, risk management, and financial modeling. It provides a detailed picture of market expectations and helps traders make more informed decisions. By leveraging advanced techniques and comprehensive data, traders and risk managers can construct robust volatility surfaces that enhance their strategies and improve their understanding of market dynamics.
+Understanding and accurately modeling the volatility surface is critical for options trading, [risk management](../r/risk_management.md), and [financial modeling](../f/financial_modeling.md). It provides a detailed picture of market expectations and helps traders make more informed decisions. By leveraging advanced techniques and comprehensive data, traders and risk managers can construct robust volatility surfaces that enhance their strategies and improve their understanding of market dynamics.
 

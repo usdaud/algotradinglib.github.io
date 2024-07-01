@@ -58,7 +58,7 @@ IoT devices can provide real-time data on the location and condition of goods in
 
 ### 5.3 Artificial Intelligence (AI)
 
-AI can optimize various aspects of supply chain management including demand forecasting, route planning, and inventory management. Machine learning algorithms analyze historical data to predict future trends and make informed decisions.
+AI can optimize various aspects of supply chain management including [demand forecasting](../d/demand_forecasting.md), route planning, and inventory management. Machine learning algorithms analyze historical data to predict future trends and make informed decisions.
 
 ### 5.4 Automation and Robotics
 
@@ -86,7 +86,7 @@ While globalization remains a trend, there is also a move towards localization t
 
 ### 7.3 Advanced Analytics
 
-Advanced analytics will play a significant role in the future of supply chains. Big data and predictive analytics will help companies optimize operations, reduce costs, and improve decision-making.
+Advanced analytics will play a significant role in the future of supply chains. Big data and [predictive analytics](../p/predictive_analytics.md) will help companies optimize operations, reduce costs, and improve decision-making.
 
 ### 7.4 3D Printing
 

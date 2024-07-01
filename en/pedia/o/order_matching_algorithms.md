@@ -9,12 +9,12 @@ Order matching algorithms are a cornerstone of financial markets, acting as the 
 1. **Market Orders**: Orders to buy or sell immediately at the best available current price.
 2. **Limit Orders**: Orders to buy or sell at a specified price or better.
 3. **Stop Orders**: Orders that become market orders when a particular price level is reached.
-4. **Stop-Limit Orders**: A combination of stop orders and limit orders.
+4. **[Stop-Limit Orders](../s/stop-limit_orders.md)**: A combination of stop orders and limit orders.
 5. **Iceberg Orders**: Large orders divided into smaller visible chunks to avoid market impact.
 
 ### Market Structures
 
-1. **Order-Driven Markets**: Rely purely on posted orders to determine prices (e.g., most stock exchanges).
+1. **[Order-Driven Markets](../o/order-driven_markets.md)**: Rely purely on posted orders to determine prices (e.g., most stock exchanges).
 2. **Quote-Driven Markets**: Use market makers who provide buy and sell quotes (e.g., Forex markets).
 3. **Hybrid Markets**: Combine features of both order-driven and quote-driven markets (e.g., NYSE).
 
@@ -55,7 +55,7 @@ Measures the difference between the decision price and the execution price, aimi
 
 ### Dark Pools
 
-Dark pools use specialized matching algorithms that enable trades without displaying the order book to the public, thus reducing market impact but raising concerns about transparency.
+[Dark pools](../d/dark_pools.md) use specialized matching algorithms that enable trades without displaying the order book to the public, thus reducing market impact but raising concerns about transparency.
 
 ## Specific Algorithm Implementations
 
@@ -69,7 +69,7 @@ The New York Stock Exchange (NYSE) uses a hybrid market model combining human de
 
 ### Cboe Global Markets
 
-Cboe offers a wide range of order matching services, including proprietary algorithms and customizable solutions for different types of traders. Further details can be accessed on their [website](https://www.cboe.com).
+Cboe offers a wide range of order matching services, including [proprietary algorithms](../p/proprietary_algorithms.md) and customizable solutions for different types of traders. Further details can be accessed on their [website](https://www.cboe.com).
 
 ## Algorithm Performance Metrics
 
@@ -105,6 +105,6 @@ Though still in its infancy, quantum computing holds the potential to revolution
 
 ### Regulatory Changes
 
-Continuously evolving regulations pose a challenge for order matching systems as they must adapt to new rules while maintaining performance and fairness.
+Continuously evolving regulations pose a challenge for [order matching systems](../o/order_matching_systems.md) as they must adapt to new rules while maintaining performance and fairness.
 
 In conclusion, order matching algorithms are integral to the functioning of modern financial markets. They balance the need for speed, efficiency, and fairness, adapting to the evolving landscape of trading through technological advancements and regulatory compliance. Understanding these algorithms is essential for anyone involved in trading, whether they are retail traders, institutional investors, or market regulators.

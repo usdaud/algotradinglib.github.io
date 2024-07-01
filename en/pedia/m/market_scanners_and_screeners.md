@@ -1,22 +1,22 @@
 # Market Scanners and Screeners in Algorithmic Trading
 
-**Market scanners** and **screeners** are fundamental tools utilized in algorithmic trading to identify trading opportunities based on predefined criteria. They automate the process of searching through thousands of stocks, ETFs, mutual funds, futures, forex, or other financial instruments to find those that exhibit desirable characteristics for trading strategies.
+**[Market scanners](../m/market_scanners.md)** and **screeners** are fundamental tools utilized in [algorithmic trading](../a/algorithmic_trading.md) to identify trading opportunities based on predefined criteria. They automate the process of searching through thousands of stocks, ETFs, mutual funds, futures, forex, or other financial instruments to find those that exhibit desirable characteristics for [trading strategies](../t/trading_strategies.md).
 
 ## Key Concepts of Market Scanners and Screeners
 
 1. **Market Scanner**: A market scanner continuously monitors multiple markets and assets in real-time to identify opportunities as soon as they arise. The scanner often operates on a tick-by-tick basis or at set intervals to update traders with the latest actionable data.
 
-2. **Screener**: A screener is used to filter through a large database of stocks or other financial instruments based on specific criteria set by the user. These criteria can include financial ratios, price patterns, volume data, technical indicators, or fundamental metrics. Unlike scanners, screeners are usually run manually at specified times rather than continuously.
+2. **Screener**: A screener is used to filter through a large database of stocks or other financial instruments based on specific criteria set by the user. These criteria can include [financial ratios](../f/financial_ratios.md), [price patterns](../p/price_patterns.md), volume data, [technical indicators](../t/technical_indicators.md), or fundamental metrics. Unlike scanners, screeners are usually run manually at specified times rather than continuously.
 
 ## Types of Market Scanners and Screeners
 
 1. **Technical Scanners**:
-   - Utilize various technical indicators such as moving averages, MACD, RSI, Bollinger Bands, etc., to identify patterns and signals.
-   - Often applied in day trading to capture short-term price movements.
+   - Utilize various [technical indicators](../t/technical_indicators.md) such as moving averages, MACD, RSI, [Bollinger Bands](../b/bollinger_bands.md), etc., to identify patterns and signals.
+   - Often applied in [day trading](../d/day_trading.md) to capture short-term price movements.
 
 2. **Fundamental Screeners**:
-   - Based on fundamental analysis criteria like P/E ratio, EPS growth, revenue growth, dividend yield, and other financial health indicators.
-   - Commonly used in value investing or long-term investment strategies.
+   - Based on [fundamental analysis](../f/fundamental_analysis.md) criteria like P/E ratio, EPS growth, revenue growth, dividend yield, and other financial health indicators.
+   - Commonly used in [value investing](../v/value_investing.md) or long-term investment strategies.
 
 3. **Hybrid Scanners and Screeners**:
    - Combine both technical and fundamental criteria to provide a more comprehensive analysis.
@@ -28,7 +28,7 @@
     - Users define the set of rules or metrics that the scanner or screener will use to filter or identify trading opportunities.
 
 2. **Data Feed**:
-    - High-quality and real-time data feeds are essential for the effectiveness of scanners and screeners, including historical data for backtesting.
+    - High-quality and real-time data feeds are essential for the effectiveness of scanners and screeners, including historical data for [backtesting](../b/backtesting.md).
 
 3. **Processing Engine**:
     - The processing engine applies the defined criteria to the incoming data to generate signals or alerts. It needs to be fast and efficient to handle large datasets.
@@ -40,7 +40,7 @@
 
 1. **TradingView**:
    - [TradingView](https://www.tradingview.com/)
-   - Offers a powerful charting platform with built-in screening tools for both technical and fundamental analysis. Users can customize screeners using Pine Script programming language.
+   - Offers a powerful charting platform with built-in screening tools for both technical and [fundamental analysis](../f/fundamental_analysis.md). Users can customize screeners using Pine Script programming language.
 
 2. **Finviz**:
    - [Finviz](https://finviz.com/)
@@ -56,7 +56,7 @@
 
 5. **MetaStock**:
    - [MetaStock](https://www.metastock.com/)
-   - An advanced charting and technical analysis software that includes powerful scanning tools and backtesting capabilities.
+   - An advanced charting and [technical analysis](../t/technical_analysis.md) software that includes powerful scanning tools and [backtesting](../b/backtesting.md) capabilities.
 
 ## Benefits of Using Market Scanners and Screeners
 
@@ -70,7 +70,7 @@
    - Traders can tailor the tools to fit their specific strategies, risk tolerance, and investment goals.
 
 4. **Real-time Monitoring**:
-   - Market scanners provide real-time monitoring of markets, ensuring that traders do not miss out on quick-moving opportunities.
+   - [Market scanners](../m/market_scanners.md) provide real-time monitoring of markets, ensuring that traders do not miss out on quick-moving opportunities.
 
 ## Challenges and Limitations
 
@@ -85,4 +85,4 @@
 
 ## Conclusion
 
-Market scanners and screeners are indispensable tools in the arsenal of algorithmic traders. They provide a systematic and efficient way to identify trading opportunities, manage risks, and refine trading strategies. By leveraging technology and advanced algorithms, these tools can significantly enhance trading performance and decision-making processes. However, it is crucial to continually review and adjust the screening criteria to adapt to changing market conditions and ensure sustained effectiveness.
+[Market scanners](../m/market_scanners.md) and screeners are indispensable tools in the arsenal of algorithmic traders. They provide a systematic and efficient way to identify trading opportunities, manage risks, and refine [trading strategies](../t/trading_strategies.md). By leveraging technology and advanced algorithms, these tools can significantly enhance [trading performance](../t/trading_performance.md) and decision-making processes. However, it is crucial to continually review and adjust the screening criteria to adapt to changing market conditions and ensure sustained effectiveness.

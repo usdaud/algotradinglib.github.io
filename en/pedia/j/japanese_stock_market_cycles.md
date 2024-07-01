@@ -1,6 +1,6 @@
 # Japanese Stock Market Cycles
 
-The Japanese stock market, like other global financial markets, exhibits a series of cycles characterized by periods of rising and falling stock prices. These cycles are influenced by a complex interplay of economic, political, and social factors specific to Japan as well as broader global trends. This document will explore the major stock market cycles in Japan, examining the underlying causes and the impacts on investors and the economy. Additionally, we will delve into historical data, major economic events, and key indicators that have influenced these cycles over time.
+The Japanese stock market, like other global financial markets, exhibits a series of cycles characterized by periods of rising and falling stock prices. These cycles are influenced by a complex interplay of economic, political, and social factors specific to Japan as well as broader global trends. This document will explore the major stock [market cycles](../m/market_cycles.md) in Japan, examining the underlying causes and the impacts on investors and the economy. Additionally, we will delve into historical data, major economic events, and key indicators that have influenced these cycles over time.
 
 ## Historical Context
 
@@ -54,18 +54,18 @@ Abenomics had a significant impact on the Japanese stock market, with the Nikkei
 
 ## Key Economic Indicators Influencing Japanese Stock Market Cycles
 
-Several key economic indicators play a crucial role in influencing the Japanese stock market cycles. These indicators include:
+Several key [economic indicators](../e/economic_indicators.md) play a crucial role in influencing the Japanese stock [market cycles](../m/market_cycles.md). These indicators include:
 
 - **GDP Growth**: The overall economic growth of Japan, measured by its Gross Domestic Product (GDP), is a critical driver of stock market performance.
 - **Interest Rates**: The interest rate policies of the Bank of Japan impact borrowing costs, consumer spending, and investment activities, all of which influence stock prices.
 - **Inflation**: Inflation rates and expectations affect consumer purchasing power and corporate profitability, thereby impacting stock valuations.
 - **Corporate Earnings**: The financial performance of Japanese companies, particularly major corporations listed on the Tokyo Stock Exchange, is closely monitored by investors.
 - **Foreign Exchange Rates**: The value of the Japanese yen relative to other currencies impacts export competitiveness and the profitability of multinational corporations.
-- **Global Economic Conditions**: Japan's economy is closely linked to global trade and economic conditions, making international factors such as trade tensions, economic growth in major trading partners, and geopolitical events significant influences on the stock market.
+- **Global Economic Conditions**: Japan's economy is closely linked to global trade and economic conditions, making international factors such as trade tensions, economic growth in major trading partners, and [geopolitical events](../g/geopolitical_events.md) significant influences on the stock market.
 
 ## Conclusion
 
-The Japanese stock market has undergone several significant cycles, each shaped by a unique set of economic, political, and social factors. From the rapid growth of the post-war period to the challenges of the Lost Decade and the recent recovery driven by Abenomics, the stock market cycles in Japan offer valuable insights for investors, policymakers, and economists. Understanding these cycles and the underlying factors that drive them is essential for making informed investment decisions and developing strategies to navigate the complexities of the Japanese and global financial markets.
+The Japanese stock market has undergone several significant cycles, each shaped by a unique set of economic, political, and social factors. From the rapid growth of the post-war period to the challenges of the Lost Decade and the recent recovery driven by Abenomics, the stock [market cycles](../m/market_cycles.md) in Japan offer valuable insights for investors, policymakers, and economists. Understanding these cycles and the underlying factors that drive them is essential for making informed investment decisions and developing strategies to navigate the complexities of the Japanese and global financial markets.
 
 For more information, you can visit:
 - Tokyo Stock Exchange (TSE): [https://www.jpx.co.jp/english/](https://www.jpx.co.jp/english/)

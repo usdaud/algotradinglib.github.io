@@ -10,7 +10,7 @@ Given that options are wasting assets, they eventually expire worthless unless t
 
 ## Calculation of Theta
 
-Theta is generally derived using complex mathematical formulas underpinned by the Black-Scholes model, the Binomial model, or other sophisticated pricing models. These models take into account several factors including the current stock price, strike price, volatility, time to expiration, and interest rates. The typical expression for Theta in the Black-Scholes model for a European call option is:
+Theta is generally derived using complex mathematical formulas underpinned by the [Black-Scholes model](../b/black-scholes_model.md), the Binomial model, or other sophisticated pricing models. These models take into account several factors including the current stock price, strike price, volatility, time to expiration, and interest rates. The typical expression for Theta in the [Black-Scholes model](../b/black-scholes_model.md) for a European call option is:
 
 \[ \Theta = - \frac{S \sigma N'(d_1)}{2 \sqrt{T}} - r K e^{-rT} N(d_2)  \]
 
@@ -26,7 +26,7 @@ Where:
 - \( T \) = Time to expiration
 - \( r \) = Risk-free interest rate
 - \( K \) = Strike price
-- \( d_1 \) and \( d_2 \) are intermediary calculations defined under the Black-Scholes model.
+- \( d_1 \) and \( d_2 \) are intermediary calculations defined under the [Black-Scholes model](../b/black-scholes_model.md).
 
 ## Factors Influencing Theta
 
@@ -40,7 +40,7 @@ Several key factors influence the Theta value of an option:
 
 4. **Strike Price Relative to Current Stock Price:** Options that are deeply ITM or OTM will have a lower Theta compared to those that are ATM.
 
-5. **Interest Rates and Dividends:** Both factors can influence the present value of the strike price and hence the Theta of an option. For instance, an increase in interest rates can marginally increase the Theta for call options and decrease it for put options.
+5. **Interest Rates and Dividends:** Both factors can influence the present value of the strike price and hence the Theta of an option. For instance, an increase in interest rates can marginally increase the Theta for call options and decrease it for [put options](../p/put_options.md).
 
 ## Theta Decay Over Time
 
@@ -52,32 +52,32 @@ Theta decay is not linear. Instead, it follows a curve-shaped pattern, accelerat
 
 ## Practical Application of Theta in Algorithmic Trading
 
-Algorithmic trading strategies often incorporate Greek metrics, including Theta, to design and optimize trading models. These strategies can be broadly classified into two types: **Directional** and **Non-Directional.**
+[Algorithmic trading](../a/algorithmic_trading.md) strategies often incorporate Greek metrics, including Theta, to design and optimize [trading models](../t/trading_models.md). These strategies can be broadly classified into two types: **Directional** and **Non-Directional.**
 
 ### Directional Strategies
 
-These strategies bet on the movement of the underlying asset and utilize Theta as a supplemental risk management tool. They include:
+These strategies bet on the movement of the underlying asset and utilize Theta as a supplemental [risk management](../r/risk_management.md) tool. They include:
 
-1. **Long Call or Long Put:** Buying call options expecting upward movement or buying put options expecting a downward movement. Theta is a critical metric here, as an adverse price move will be detrimental not only because of the directional loss but also because of the time decay.
+1. **Long Call or Long Put:** Buying call options expecting upward movement or buying [put options](../p/put_options.md) expecting a downward movement. Theta is a critical metric here, as an adverse price move will be detrimental not only because of the directional loss but also because of the time decay.
 
 ### Non-Directional Strategies
 
 These strategies do not rely on the price movement of the underlying asset and often capitalize on Theta decay. They include:
 
-1. **Iron Condor:** This strategy involves selling an OTM call and put, while simultaneously buying further OTM options to hedge. The primary goal is to profit from Theta decay, as the options remain out-of-the-money and expire worthless.
+1. **[Iron Condor](../i/iron_condor.md):** This strategy involves selling an OTM call and put, while simultaneously buying further OTM options to hedge. The primary goal is to profit from Theta decay, as the options remain out-of-the-money and expire worthless.
 
 2. **Calendar Spreads:** This involves the simultaneous purchase and sale of two options of the same type (calls or puts) at the same strike price but with different expiration dates. Traders benefit if Theta decay on the short-term option exceeds that on the long-term option.
 
 ### Automated Theta Analysis Tools
 
-Given Theta's importance, several automated tools and platforms are available to help traders integrate Theta into their algorithmic trading strategies:
+Given Theta's importance, several automated tools and platforms are available to help traders integrate Theta into their [algorithmic trading](../a/algorithmic_trading.md) strategies:
 
-- **QuantConnect**: [QuantConnect](https://www.quantconnect.com/) is an algorithmic trading platform providing backtesting and live trading support. It allows integration of custom Theta analyses into strategy formulations.
+- **QuantConnect**: [QuantConnect](https://www.quantconnect.com/) is an [algorithmic trading](../a/algorithmic_trading.md) platform providing [backtesting](../b/backtesting.md) and live trading support. It allows integration of custom Theta analyses into strategy formulations.
 
 - **TAS (Trading Analysis Suite)**: Offered by TradingAnalysis, [TAS](https://tradinganalysis.com/) provides detailed Greek analytics tools that can be used to gauge Theta impact on various options strategies.
 
-- **Orats (Option Research & Technology Services)**: [Orats](https://orats.com/) offers comprehensive options analytics, including Theta analysis, to facilitate sophisticated options trading strategies.
+- **Orats (Option Research & Technology Services)**: [Orats](https://orats.com/) offers comprehensive options analytics, including Theta analysis, to facilitate sophisticated [options trading strategies](../o/options_trading_strategies.md).
 
 ## Conclusion
 
-Theta's role in options trading, particularly in the realm of algorithmic strategies, cannot be overstated. Understanding Theta and its interplay with other Greeks allows traders to refine their strategies and better manage risk. Algorithmic trading platforms and tools further enhance the ability to systematically incorporate Theta into trading models, ultimately driving more informed and potentially lucrative trading decisions.
+Theta's role in options trading, particularly in the realm of algorithmic strategies, cannot be overstated. Understanding Theta and its interplay with other Greeks allows traders to refine their strategies and better manage risk. [Algorithmic trading](../a/algorithmic_trading.md) platforms and tools further enhance the ability to systematically incorporate Theta into [trading models](../t/trading_models.md), ultimately driving more informed and potentially lucrative trading decisions.

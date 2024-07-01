@@ -18,15 +18,15 @@ In the context of trading, X and Y could represent the returns of two different 
 
 #### Portfolio Diversification
 
-One of the primary applications of joint entropy in trading is in portfolio diversification. By assessing the joint entropy between different assets, traders and portfolio managers can better understand the level of diversification within their portfolios. A portfolio with low joint entropy indicates that the assets are highly correlated, which could lead to higher risk since the assets may move together during market events. Conversely, a portfolio with high joint entropy suggests a more diversified set of assets with lower overall risk.
+One of the primary applications of joint entropy in trading is in [portfolio diversification](../p/portfolio_diversification.md). By assessing the joint entropy between different assets, traders and portfolio managers can better understand the level of diversification within their portfolios. A portfolio with low joint entropy indicates that the assets are highly correlated, which could lead to higher risk since the assets may move together during market events. Conversely, a portfolio with high joint entropy suggests a more diversified set of assets with lower overall risk.
 
 #### Risk Management
 
-Joint entropy can also be used for risk management. By evaluating the joint entropy of returns between various financial instruments, traders can identify potential risks associated with asset interdependencies. For instance, during periods of market stress, seemingly uncorrelated assets might exhibit increased correlation, thereby reducing the effectiveness of diversification. Understanding these joint entropies allows for the proactive management of such risks.
+Joint entropy can also be used for [risk management](../r/risk_management.md). By evaluating the joint entropy of returns between various financial instruments, traders can identify potential risks associated with asset interdependencies. For instance, during periods of market stress, seemingly [uncorrelated assets](../u/uncorrelated_assets.md) might exhibit increased correlation, thereby reducing the effectiveness of diversification. Understanding these joint entropies allows for the proactive management of such risks.
 
 #### Algorithmic Trading Strategies
 
-Algorithmic trading strategies, such as pairs trading or statistical arbitrage, can benefit from the use of joint entropy. In pairs trading, the strategy involves trading two assets with the assumption that their price movements will converge or move together over time. By calculating the joint entropy of these asset pairs, traders can better select pairs with stronger interdependent movements, potentially increasing the strategy's profitability.
+[Algorithmic trading](../a/algorithmic_trading.md) strategies, such as [pairs trading](../p/pairs_trading.md) or statistical [arbitrage](../a/arbitrage.md), can benefit from the use of joint entropy. In [pairs trading](../p/pairs_trading.md), the strategy involves trading two assets with the assumption that their price movements will converge or move together over time. By calculating the joint entropy of these asset pairs, traders can better select pairs with stronger interdependent movements, potentially increasing the strategy's profitability.
 
 ### Calculating Joint Entropy in Trading
 
@@ -83,4 +83,4 @@ Several programming languages and libraries can facilitate the calculation of jo
 
 ### Conclusion
 
-Joint entropy is a powerful metric in trading, providing crucial insights into the interdependencies between different financial assets. It aids in portfolio diversification, risk management, and the development of algorithmic trading strategies. By understanding and applying joint entropy, traders and portfolio managers can make more informed decisions, ultimately leading to better-performing and more robust trading strategies.
+Joint entropy is a powerful metric in trading, providing crucial insights into the interdependencies between different financial assets. It aids in [portfolio diversification](../p/portfolio_diversification.md), [risk management](../r/risk_management.md), and the development of [algorithmic trading](../a/algorithmic_trading.md) strategies. By understanding and applying joint entropy, traders and portfolio managers can make more informed decisions, ultimately leading to better-performing and more robust [trading strategies](../t/trading_strategies.md).

@@ -50,10 +50,10 @@ Several high-profile cases illustrate the significant role of writedowns in trad
 Companies can take several proactive measures to manage and potentially avoid writedowns:
 
 1. **Regular Asset Valuation:** Continuously monitoring and assessing the value of assets to make timely adjustments.
-2. **Hedging Strategies:** Using financial derivatives to hedge against market risks that can lead to asset devaluation.
+2. **[Hedging Strategies](../h/hedging_strategies.md):** Using financial [derivatives](../d/derivatives.md) to hedge against market risks that can lead to asset devaluation.
 3. **Diversification:** Maintaining a diversified portfolio to minimize the impact of sector-specific downturns.
 4. **Impairment Testing:** Conducting regular impairment tests, especially for goodwill and intangible assets, to identify early signs of value decline.
-5. **Robust Risk Management:** Developing comprehensive risk management frameworks to identify and mitigate factors that could lead to asset impairment.
+5. **Robust [Risk Management](../r/risk_management.md):** Developing comprehensive [risk management](../r/risk_management.md) frameworks to identify and mitigate factors that could lead to asset impairment.
 
 ### Conclusion
 

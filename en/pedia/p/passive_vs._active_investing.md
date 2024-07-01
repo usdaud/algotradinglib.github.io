@@ -12,7 +12,7 @@ Passive investing is an investment strategy that aims to maximize returns over t
 
 ### Key Characteristics
 
-1. **Low Costs**: Passive investments typically have lower fees and expenses since they require minimal transaction activity. There are fewer management fees and trading costs, making it cost-effective over time.
+1. **Low Costs**: Passive investments typically have lower fees and expenses since they require minimal transaction activity. There are fewer management fees and [trading costs](../t/trading_costs.md), making it cost-effective over time.
 
 2. **Diversification**: Passive investors often use index funds or ETFs, which inherently diversify risk across a wide array of assets. Diversification reduces the impact of any single security's poor performance on the overall portfolio.
 
@@ -51,7 +51,7 @@ ETFs operate similarly to index funds but trade on an exchange like a stock. The
 
 ### Definition and Overview
 
-Active investing involves continuously monitoring and managing a portfolio to outperform the market or achieve specific investment goals. This strategy relies on research, market forecasting, and timing to make frequent buy and sell decisions.
+Active investing involves continuously monitoring and managing a portfolio to outperform the market or achieve specific investment goals. This strategy relies on research, [market forecasting](../m/market_forecasting.md), and timing to make frequent buy and sell decisions.
 
 ### Key Characteristics
 
@@ -61,7 +61,7 @@ Active investing involves continuously monitoring and managing a portfolio to ou
 
 3. **Flexibility**: Active managers can quickly adjust holdings in response to market conditions, economic changes, or emerging opportunities.
 
-4. **Research-Driven**: Extensive research, analysis, and market forecasting are central to active investing.
+4. **Research-Driven**: Extensive research, analysis, and [market forecasting](../m/market_forecasting.md) are central to active investing.
 
 5. **Higher Tax Implications**: Increased trading activity often results in higher capital gains taxes and potential short-term gains, which are taxed at a higher rate.
 
@@ -75,7 +75,7 @@ Active mutual funds have managers who actively select securities to buy and sell
 
 #### Stock Picking and Market Timing
 
-Individual investors or portfolio managers may employ strategies such as stock picking (selecting individual stocks expected to perform well) or market timing (trying to buy low and sell high).
+Individual investors or portfolio managers may employ strategies such as stock picking (selecting individual stocks expected to perform well) or [market timing](../m/market_timing.md) (trying to buy low and sell high).
 
 ### Advantages
 
@@ -106,7 +106,7 @@ Passive investing distributes risk across a broad index, reducing exposure to in
 ### Investor Suitability
 
 - **Passive Investing**: Ideal for investors seeking a low-cost, low-maintenance method with predictable market-aligned returns. Suitable for long-term goals like retirement savings.
-- **Active Investing**: Suited for investors willing to take higher risks for the potential of higher returns and who have the resources or expertise to engage in active portfolio management.
+- **Active Investing**: Suited for investors willing to take higher risks for the potential of higher returns and who have the resources or expertise to engage in [active portfolio management](../a/active_portfolio_management.md).
 
 ## Conclusion
 

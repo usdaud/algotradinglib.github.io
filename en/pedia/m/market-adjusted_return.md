@@ -1,6 +1,6 @@
 # Market-Adjusted Return
 
-Market-adjusted return is a crucial concept in the realm of finance, specifically in portfolio management and performance measurement. This metric serves as a means to evaluate the performance of an investment asset by comparing it relative to a benchmark index that represents the overall market. Essentially, market-adjusted return helps investors understand how well or poorly an investment has performed after accounting for the general movements of the market. This is particularly vital when it comes to isolating the performance attributed to the investment's unique characteristics and the competence of the portfolio manager, rather than the movements of the market as a whole.
+Market-adjusted return is a crucial concept in the realm of finance, specifically in [portfolio management](../p/portfolio_management.md) and performance measurement. This metric serves as a means to evaluate the performance of an investment asset by comparing it relative to a benchmark index that represents the overall market. Essentially, market-adjusted return helps investors understand how well or poorly an investment has performed after accounting for the general movements of the market. This is particularly vital when it comes to isolating the performance attributed to the investment's unique characteristics and the competence of the portfolio manager, rather than the movements of the market as a whole.
 
 ### Definition and Importance
 
@@ -41,25 +41,25 @@ This indicates that XYZ Corp outperformed the NASDAQ Composite by 5% over the on
 
 ### Applications in Algoritmic Trading
 
-Algorithmic trading involves the use of automated systems and algorithms to execute trades based on pre-defined criteria. Market-adjusted return is particularly useful in this context for several reasons:
+[Algorithmic trading](../a/algorithmic_trading.md) involves the use of automated systems and algorithms to execute trades based on pre-defined criteria. Market-adjusted return is particularly useful in this context for several reasons:
 
-1. **Performance Benchmarking:** Algorithms can be designed to seek investments that provide market-adjusted returns exceeding a certain threshold. Using market-adjusted returns ensures the algorithm focuses on truly high-performing assets.
+1. **[Performance Benchmarking](../p/performance_benchmarking.md):** Algorithms can be designed to seek investments that provide market-adjusted returns exceeding a certain threshold. Using market-adjusted returns ensures the algorithm focuses on truly high-performing assets.
    
-2. **Risk Management:** By evaluating market-adjusted returns, algorithms can identify whether superior returns are due to skill in selecting investments or merely a rising market, thus aiding in risk assessment.
+2. **[Risk Management](../r/risk_management.md):** By evaluating market-adjusted returns, algorithms can identify whether superior returns are due to skill in selecting investments or merely a rising market, thus aiding in risk assessment.
    
-3. **Strategy Optimization:** Continuous feedback from market-adjusted return calculations can improve the trading algorithms by adjusting parameters to focus on strategies with historical success in generating alpha.
+3. **Strategy Optimization:** Continuous feedback from market-adjusted return calculations can improve the [trading algorithms](../t/trading_algorithms.md) by adjusting parameters to focus on strategies with historical success in generating alpha.
 
 ### Companies Utilizing Market-Adjusted Returns
 
 Many investment firms and hedge funds integrate market-adjusted return metrics into their performance evaluation frameworks. Some of these firms include:
 
-- **Bridgewater Associates:** As one of the largest hedge funds, Bridgewater uses complex algorithms that incorporate market-adjusted returns to optimize portfolio performance.
+- **Bridgewater Associates:** As one of the largest hedge funds, Bridgewater uses complex algorithms that incorporate market-adjusted returns to optimize [portfolio performance](../p/portfolio_performance.md).
   - [Bridgewater Associates](https://www.bridgewater.com/)
 
-- **Two Sigma:** This investment firm uses advanced data analytics and algorithmic trading, leveraging market-adjusted returns to fine-tune their trading strategies.
+- **Two Sigma:** This investment firm uses advanced data analytics and [algorithmic trading](../a/algorithmic_trading.md), leveraging market-adjusted returns to fine-tune their [trading strategies](../t/trading_strategies.md).
   - [Two Sigma](https://www.twosigma.com/)
 
-- **Citadel:** Known for its use of quantitative strategies, Citadel incorporates market-adjusted return metrics to evaluate and enhance algorithmic trading performance.
+- **Citadel:** Known for its use of quantitative strategies, Citadel incorporates market-adjusted return metrics to evaluate and enhance [algorithmic trading](../a/algorithmic_trading.md) performance.
   - [Citadel](https://www.citadel.com/)
 
 ### Market-Adjusted Return vs. Other Metrics
@@ -68,7 +68,7 @@ It is important to distinguish market-adjusted return from other popular financi
 
 - **Alpha:** While market-adjusted return provides a raw measure of outperformance, alpha goes a step further by adjusting for risk. Essentially, market-adjusted return is one component of alpha.
   
-- **Sharpe Ratio:** This metric assesses the risk-adjusted return of an investment, considering both the return relative to a risk-free asset and the investment’s volatility. The market-adjusted return does not account for risk-free rates or the investment’s standard deviation.
+- **[Sharpe Ratio](../s/sharpe_ratio.md):** This metric assesses the [risk-adjusted return](../r/risk-adjusted_return.md) of an investment, considering both the return relative to a risk-free asset and the investment’s volatility. The market-adjusted return does not account for risk-free rates or the investment’s standard deviation.
   
 - **Beta:** This measures an investment’s sensitivity to market movements. High-beta investments are more volatile relative to the market. Market-adjusted return, on the other hand, focuses on the excess returns, irrespective of volatility metrics.
 

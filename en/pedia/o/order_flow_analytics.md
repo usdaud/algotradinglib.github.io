@@ -1,6 +1,6 @@
 # Order Flow Analytics
 
-Order Flow Analytics, also known as Order Flow Trading, is a method used by professional traders to make fast and informed trading decisions based on the real-time analysis of the flow of orders in the market. This article delves deep into the various components, techniques, and strategies involved in order flow analytics and how it is applied in algorithmic trading.
+Order Flow Analytics, also known as Order Flow Trading, is a method used by professional traders to make fast and informed trading decisions based on the real-time analysis of the flow of orders in the market. This article delves deep into the various components, techniques, and strategies involved in order flow analytics and how it is applied in [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Introduction to Order Flow
 
@@ -26,11 +26,11 @@ The Time and Sales window lists all trades that have occurred, showing the time,
 
 ### Footprint Charts
 
-Footprint charts display volume at each price level and provide a visual representation of the actual traded volume, helping traders identify significant levels of support and resistance.
+Footprint charts display volume at each price level and provide a visual representation of the actual traded volume, helping traders identify significant levels of [support and resistance](../s/support_and_resistance.md).
 
 ### Volume Profile
 
-A volume profile shows the amount of trading activity at each price level, allowing traders to identify areas of high trading interest, which can act as significant support or resistance levels.
+A [volume profile](../v/volume_profile.md) shows the amount of trading activity at each price level, allowing traders to identify areas of high trading interest, which can act as significant support or resistance levels.
 
 ### Imbalance Indicators
 
@@ -38,7 +38,7 @@ Imbalance indicators show the difference between the number of buy and sell orde
 
 ## Importance of Order Flow in Algorithmic Trading
 
-Order flow analytics offers several advantages in algorithmic trading, such as:
+Order flow analytics offers several advantages in [algorithmic trading](../a/algorithmic_trading.md), such as:
 
 1. **Enhanced Market Insight**: Order flow provides a more granular view of market activity, allowing traders to see the actual supply and demand in real time.
 2. **Improved Trade Execution**: By understanding the flow of orders, traders can make more informed decisions about when to enter and exit trades, reducing the risk of adverse price movements.
@@ -51,7 +51,7 @@ Order flow analytics can be performed using various techniques, each offering un
 
 ### Bid-Ask Spread Analysis
 
-The bid-ask spread is the difference between the highest price a buyer is willing to pay (bid) and the lowest price a seller is willing to accept (ask). By analyzing changes in the bid-ask spread, traders can infer the market's liquidity and potential for price movement.
+The [bid-ask spread](../b/bid-ask_spread.md) is the difference between the highest price a buyer is willing to pay (bid) and the lowest price a seller is willing to accept (ask). By analyzing changes in the [bid-ask spread](../b/bid-ask_spread.md), traders can infer the market's liquidity and potential for price movement.
 
 ### Order Book Dynamics
 
@@ -75,19 +75,19 @@ Bookmap is a trading platform known for its detailed visualization of order book
 
 ### Jigsaw Trading
 
-Jigsaw Trading offers advanced order flow analysis tools, such as depth and sales, reconstructed tape, and the ability to filter and highlight important market data. [Jigsaw Trading](https://www.jigsawtrading.com/) is used by professional traders for its extensive analytical capabilities.
+Jigsaw Trading offers advanced [order flow analysis](../o/order_flow_analysis.md) tools, such as depth and sales, reconstructed tape, and the ability to filter and highlight important market data. [Jigsaw Trading](https://www.jigsawtrading.com/) is used by professional traders for its extensive analytical capabilities.
 
 ### Sierra Chart
 
-Sierra Chart is a professional trading platform that supports advanced order flow analytics, including detailed volume profiles, footprint charts, and analysis of market depth. [Sierra Chart](https://www.sierrachart.com/) provides traders with comprehensive tools for order flow analysis.
+Sierra Chart is a professional trading platform that supports advanced order flow analytics, including detailed volume profiles, footprint charts, and analysis of market depth. [Sierra Chart](https://www.sierrachart.com/) provides traders with comprehensive tools for [order flow analysis](../o/order_flow_analysis.md).
 
 ### Quantower
 
-Quantower offers a suite of advanced trading tools, including detailed order book and footprint charts, enabling traders to perform in-depth order flow analysis. [Quantower](https://www.quantower.com/) caters to both retail and professional traders with its powerful analytical features.
+Quantower offers a suite of advanced trading tools, including detailed order book and footprint charts, enabling traders to perform in-depth [order flow analysis](../o/order_flow_analysis.md). [Quantower](https://www.quantower.com/) caters to both retail and professional traders with its powerful analytical features.
 
 ## Application of Order Flow Analytics in Trading Strategies
 
-Order flow analytics can be applied to a variety of trading strategies to enhance their effectiveness. Below are some popular strategies that leverage order flow data:
+Order flow analytics can be applied to a variety of [trading strategies](../t/trading_strategies.md) to enhance their effectiveness. Below are some popular strategies that leverage order flow data:
 
 ### Scalping
 
@@ -95,7 +95,7 @@ Scalping involves making numerous small trades to profit from minor price change
 
 ### Swing Trading
 
-Swing trading focuses on capturing price moves over several days to weeks. By analyzing order flow, swing traders can identify potential reversal points or areas of strong support and resistance, enhancing their entry and exit decision-making process.
+[Swing trading](../s/swing_trading.md) focuses on capturing price moves over several days to weeks. By analyzing order flow, swing traders can identify potential reversal points or areas of strong [support and resistance](../s/support_and_resistance.md), enhancing their entry and exit decision-making process.
 
 ### Market Making
 
@@ -103,7 +103,7 @@ Market makers provide liquidity by placing both buy and sell orders in the marke
 
 ### Momentum Trading
 
-Momentum trading strategies involve entering trades based on the strength of a trend. Order flow data helps momentum traders confirm trend strength by analyzing the volume and aggressiveness of buy and sell orders.
+[Momentum trading](../m/momentum_trading.md) strategies involve entering trades based on the strength of a trend. Order flow data helps momentum traders confirm trend strength by analyzing the volume and aggressiveness of buy and sell orders.
 
 ## Challenges in Order Flow Analytics
 
@@ -129,7 +129,7 @@ Order flow analytics involves complex calculations and data analysis, requiring 
 
 Order Flow Analytics is an essential tool for modern traders, offering unparalleled insights into market dynamics. By understanding and analyzing the flow of orders, traders can make more informed and timely trading decisions, improving their chances of success in the competitive financial markets. With the advancement of technology and the availability of sophisticated trading platforms, order flow analytics has become accessible to both professional and retail traders, empowering them to navigate the complexities of the market with greater confidence.
 
-For more information on order flow analysis and the tools mentioned, visit their websites:
+For more information on [order flow analysis](../o/order_flow_analysis.md) and the tools mentioned, visit their websites:
 
 - [Bookmap](https://bookmap.com/)
 - [Jigsaw Trading](https://www.jigsawtrading.com/)

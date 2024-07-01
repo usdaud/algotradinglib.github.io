@@ -1,6 +1,6 @@
 # Principal Component Analysis (PCA)
 
-Principal Component Analysis (PCA) is a statistical technique and one of the most commonly used methods in data processing, dimensionality reduction, and multivariate analysis. Initially introduced by Karl Pearson in 1901, PCA’s primary objective is to transform a set of correlated variables into a set of uncorrelated variables, called principal components. These components are orthogonal to each other and are ordered such that the first few retain most of the variation present in the original dataset.
+Principal Component Analysis (PCA) is a statistical technique and one of the most commonly used methods in data processing, dimensionality reduction, and [multivariate analysis](../m/multivariate_analysis.md). Initially introduced by Karl Pearson in 1901, PCA’s primary objective is to transform a set of correlated variables into a set of uncorrelated variables, called principal components. These components are orthogonal to each other and are ordered such that the first few retain most of the variation present in the original dataset.
 
 ## Core Concepts
 
@@ -36,7 +36,7 @@ For any given dataset with multiple features, constructing the covariance matrix
 
 ## Applications in Algor Trading
 
-PCA plays a pivotal role in algorithmic trading by aiding in:
+PCA plays a pivotal role in [algorithmic trading](../a/algorithmic_trading.md) by aiding in:
 - **Dimensionality Reduction:**
   In trading, it’s common to deal with large sets of features, such as different indicators or asset prices. PCA helps reduce the complexity by focusing on the most informative aspects.
   
@@ -44,14 +44,14 @@ PCA plays a pivotal role in algorithmic trading by aiding in:
   By understanding the primary components that affect market movements, traders can refine their models to focus on the most critical factors, hence improving model performance and reducing overfitting.
 
 - **Noise Reduction:**
-  Financial data is often noisy. PCA can help in reducing this noise by filtering out unnecessary components, leading to more robust trading signals.
+  Financial data is often noisy. PCA can help in reducing this noise by filtering out unnecessary components, leading to more robust [trading signals](../t/trading_signals.md).
 
 ### Example: Quantitative Trading Software
 
-PCA is integrated into many quantitative trading software platforms. One notable example is QuantConnect, an open-source algorithmic trading platform:
+PCA is integrated into many [quantitative trading](../q/quantitative_trading.md) software platforms. One notable example is QuantConnect, an open-source [algorithmic trading](../a/algorithmic_trading.md) platform:
 - **Website:** [QuantConnect](https://www.quantconnect.com)
 
-QuantConnect provides tools for backtesting and live trading, where PCA can be employed to analyze financial data and derive trading strategies.
+QuantConnect provides tools for [backtesting](../b/backtesting.md) and live trading, where PCA can be employed to analyze financial data and derive [trading strategies](../t/trading_strategies.md).
 
 ## Mathematical Representation
 
@@ -102,8 +102,8 @@ Visualizing the results of PCA helps in understanding the transformed data. Two 
 
 Principal Component Analysis (PCA) represents a crucial tool in the arsenal of data scientists and quantitative traders alike, offering a methodical approach to simplifying complex datasets. While it has its limitations, the benefits PCA brings in terms of dimensionality reduction, noise filtering, and enhanced interpretability make it indispensable.
 
-For those seeking more in-depth insights and applications in algorithmic trading, further readings can include:
+For those seeking more in-depth insights and applications in [algorithmic trading](../a/algorithmic_trading.md), further readings can include:
 - "The Elements of Statistical Learning" by Hastie, Tibshirani, and Friedman
 - "Machine Learning for Asset Managers" by Marcos López de Prado.
 
-For practical algorithmic trading implementations, exploring platforms like [QuantConnect](https://www.quantconnect.com) for hands-on experience with PCA in trading strategies is highly recommended.
+For practical [algorithmic trading](../a/algorithmic_trading.md) implementations, exploring platforms like [QuantConnect](https://www.quantconnect.com) for hands-on experience with PCA in [trading strategies](../t/trading_strategies.md) is highly recommended.

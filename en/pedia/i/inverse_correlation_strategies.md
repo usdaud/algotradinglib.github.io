@@ -1,6 +1,6 @@
 # Inverse Correlation Strategies
 
-Inverse correlation strategies, also known as anti-correlated asset strategies, are a class of investment strategies that seek to take advantage of assets whose prices move in opposite directions. This approach leverages the negative correlation between assets to create a portfolio that can potentially lower risk and increase returns. In this detailed exploration, we will cover the mechanisms, benefits, risks, statistical foundations, and practical applications of inverse correlation strategies in algorithmic trading.
+Inverse correlation strategies, also known as anti-correlated asset strategies, are a class of investment strategies that seek to take advantage of assets whose prices move in opposite directions. This approach leverages the negative correlation between assets to create a portfolio that can potentially lower risk and increase returns. In this detailed exploration, we will cover the mechanisms, benefits, risks, statistical foundations, and practical applications of inverse correlation strategies in [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Understanding Correlation
 
@@ -17,21 +17,21 @@ Inverse correlation, specifically, refers to scenarios where the correlation bet
 
 The first step in employing an inverse correlation strategy is to identify pairs or groups of assets that exhibit negative correlation. This can involve:
 - **Statistical Analysis**: Using historical price data and statistical tools to calculate the correlation coefficient between potential asset pairs.
-- **Economic Indicators**: Reviewing economic indicators and sector performances that inherently push certain assets in opposite directions.
+- **[Economic Indicators](../e/economic_indicators.md)**: Reviewing [economic indicators](../e/economic_indicators.md) and sector performances that inherently push certain assets in opposite directions.
   
 For example, during times of economic uncertainty, assets like gold and stocks often exhibit negative correlation. As uncertainty rises, investors flock to safe-haven assets like gold, while riskier assets like stocks may see declines.
 
 ### Portfolio Construction
 
 Constructing a portfolio with inverse correlation involves strategically allocating capital to ensure that the movements in one asset offset the movements in another. This can be done through:
-- **Hedging**: Using derivatives such as options and futures to hedge against potential losses in asset prices.
+- **Hedging**: Using [derivatives](../d/derivatives.md) such as options and futures to hedge against potential losses in asset prices.
 - **Pair Trading**: Identifying a long position in one asset and a short position in an anti-correlated asset.
 
 ### Algorithmic Implementation
 
-Algorithmic trading systems can be designed to automatically identify and exploit inverse correlations. These algorithms use advanced statistical techniques and machine learning models to continuously monitor and adjust portfolios in real-time. Key tasks include:
+[Algorithmic trading](../a/algorithmic_trading.md) systems can be designed to automatically identify and exploit inverse correlations. These algorithms use advanced statistical techniques and machine learning models to continuously monitor and adjust portfolios in real-time. Key tasks include:
 - **Data Collection**: Aggregating and preprocessing historical and real-time asset price data.
-- **Signal Generation**: Using statistical models to detect correlation patterns and generate trading signals.
+- **Signal Generation**: Using statistical models to detect correlation patterns and generate [trading signals](../t/trading_signals.md).
 - **Execution**: Implementing high-frequency trading (HFT) strategies to quickly execute trades based on generated signals.
 
 ## Benefits of Inverse Correlation Strategies
@@ -60,7 +60,7 @@ Correlations between assets are not static and can change over time due to vario
 
 ### Execution Risk
 
-Algorithmic trading often involves high-frequency trades where execution speed is crucial. Any delays or technical issues can lead to missed opportunities and significant losses.
+[Algorithmic trading](../a/algorithmic_trading.md) often involves high-frequency trades where execution speed is crucial. Any delays or technical issues can lead to missed opportunities and significant losses.
 
 ## Statistical Foundations
 
@@ -78,11 +78,11 @@ Where:
 
 ### Rolling Correlation
 
-To adapt to changing market conditions, rolling correlation windows can be used. Instead of computing a single correlation value over the entire dataset, rolling correlations compute the correlation over a moving window of time, providing a dynamic view of relationship changes.
+To adapt to changing market conditions, [rolling correlation](../r/rolling_correlation.md) windows can be used. Instead of computing a single correlation value over the entire dataset, rolling correlations compute the correlation over a moving window of time, providing a dynamic view of relationship changes.
 
 ### Cointegration
 
-Pair trading strategies often leverage cointegration, a statistical property of two or more time series. Even if two assets are not always correlated in the short term, they might share a long-term statistical relationship, moving towards a common equilibrium. Cointegration tests and error correction models can help identify such relationships.
+Pair [trading strategies](../t/trading_strategies.md) often leverage cointegration, a statistical property of two or more time series. Even if two assets are not always correlated in the short term, they might share a long-term statistical relationship, moving towards a common equilibrium. Cointegration tests and [error correction models](../e/error_correction_models.md) can help identify such relationships.
 
 ### Autoregressive Integrated Moving Average (ARIMA) Models
 
@@ -90,11 +90,11 @@ ARIMA models can predict future values of a time series based on its own past va
 
 ## Practical Applications in Algorithmic Trading
 
-Several real-world applications of inverse correlation strategies stand out in the realm of algorithmic trading. Companies like [Two Sigma](https://www.twosigma.com/), [Citadel](https://www.citadel.com/), and [DE Shaw](https://www.deshaw.com/) have integrated sophisticated models to exploit these strategies.
+Several real-world applications of inverse correlation strategies stand out in the realm of [algorithmic trading](../a/algorithmic_trading.md). Companies like [Two Sigma](https://www.twosigma.com/), [Citadel](https://www.citadel.com/), and [DE Shaw](https://www.deshaw.com/) have integrated sophisticated models to exploit these strategies.
 
 ### Case Study: Gold and Equity Indices
 
-Algorithmic trading systems can trade assets like gold and equity indices (e.g., S&P 500). Given their historically inverse relationship, models can be designed to go long on gold futures when market indices signal downward trends and short on indices when market signals are positive.
+[Algorithmic trading](../a/algorithmic_trading.md) systems can trade assets like gold and equity indices (e.g., S&P 500). Given their historically inverse relationship, models can be designed to go long on gold futures when market indices signal downward trends and short on indices when market signals are positive.
 
 ### Forex Market
 
@@ -106,4 +106,4 @@ Event-driven inverse correlation strategies involve exploiting market-moving eve
 
 ## Conclusion
 
-Inverse correlation strategies offer a vital tool for reducing risk and potentially enhancing returns through diversification. By adeptly identifying and trading negatively correlated assets, these strategies can enable investors and algorithmic trading systems to navigate complex market environments. However, their success hinges on rigorous statistical analysis, continuous monitoring, and adaptive models to manage the inherent risks and dynamics of financial markets.
+Inverse correlation strategies offer a vital tool for reducing risk and potentially enhancing returns through diversification. By adeptly identifying and trading negatively correlated assets, these strategies can enable investors and [algorithmic trading](../a/algorithmic_trading.md) systems to navigate complex market environments. However, their success hinges on rigorous statistical analysis, continuous monitoring, and adaptive models to manage the inherent risks and dynamics of financial markets.

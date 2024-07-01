@@ -1,6 +1,6 @@
 # **Quick Ratio Analysis**
 
-In the field of finance and investment, one of the crucial aspects of evaluating a company's financial health is through liquidity ratios. Liquidity ratios provide insights into a company's ability to meet its short-term obligations without needing to sell its inventory. Among various liquidity ratios, one of the most widely used is the Quick Ratio. This ratio is also known as the acid-test ratio and serves as a key metric for investors, analysts, and managers to gauge a company's short-term liquidity position.
+In the field of finance and investment, one of the crucial aspects of evaluating a company's financial health is through [liquidity ratios](../l/liquidity_ratios.md). [Liquidity ratios](../l/liquidity_ratios.md) provide insights into a company's ability to meet its short-term obligations without needing to sell its inventory. Among various [liquidity ratios](../l/liquidity_ratios.md), one of the most widely used is the Quick Ratio. This ratio is also known as the acid-test ratio and serves as a key metric for investors, analysts, and managers to gauge a company's short-term liquidity position.
 
 ### Definition and Importance of the Quick Ratio
 

@@ -1,18 +1,18 @@
 ### Robust Regression in Trading
 
-Robust regression is a vital concept in algorithmic trading, an area focused on creating and executing trading strategies using mathematical models and algorithms. Unlike traditional linear regression, robust regression aims to be resilient to outliers and deviations from standard assumptions, making it particularly valuable in volatile financial markets.
+Robust regression is a vital concept in [algorithmic trading](../a/algorithmic_trading.md), an area focused on creating and executing [trading strategies](../t/trading_strategies.md) using mathematical models and algorithms. Unlike traditional [linear regression](../l/linear_regression.md), robust regression aims to be resilient to outliers and deviations from standard assumptions, making it particularly valuable in volatile financial markets.
 
 #### Basic Concepts of Regression
 
-Regression analysis is a statistical method for modeling the relationship between a dependent variable and one or more independent variables. Linear regression, a common type, assumes a straight-line relationship between the dependent and independent variables. However, linear models often fail in the presence of outliers or non-normal error distributions, which are frequent in financial data.
+[Regression analysis](../r/regression_analysis.md) is a statistical method for modeling the relationship between a dependent variable and one or more independent variables. [Linear regression](../l/linear_regression.md), a common type, assumes a straight-line relationship between the dependent and independent variables. However, linear models often fail in the presence of outliers or non-normal error distributions, which are frequent in financial data.
 
 #### Introduction to Robust Regression
 
-Robust regression techniques address the shortcomings of traditional regression by reducing the influence of outliers. These methods employ different estimating techniques like M-estimators, which replace the traditional least squares approach with alternative functions to minimize the impact of anomalies.
+Robust [regression techniques](../r/regression_techniques.md) address the shortcomings of traditional regression by reducing the influence of outliers. These methods employ different estimating techniques like M-estimators, which replace the traditional least squares approach with alternative functions to minimize the impact of anomalies.
 
 #### Importance in Trading
 
-In trading, we're often dealing with noisy, erratic data due to market anomalies, unexpected macroeconomic news, or sudden market panic. Robust regression models help in accurately identifying underlying trends and signals in such chaotic environments. They help traders and quantitative analysts build more reliable predictive models for asset prices, returns, and other financial metrics.
+In trading, we're often dealing with noisy, erratic data due to [market anomalies](../m/market_anomalies.md), unexpected macroeconomic news, or sudden market panic. Robust regression models help in accurately identifying underlying trends and signals in such chaotic environments. They help traders and quantitative analysts build more reliable predictive models for asset prices, returns, and other financial metrics.
 
 #### Types of Robust Regression Techniques
 
@@ -26,7 +26,7 @@ In trading, we're often dealing with noisy, erratic data due to market anomalies
 
 #### Implementation in Algorithmic Trading
 
-Algorithmic trading strategies can leverage robust regression models to make more informed decisions. For instance, in time-series forecasting, robust regression can improve the accuracy of stock price predictions. Technical indicators like moving averages or volatility forecasts can be enhanced with robust methods to avoid false signals caused by noisy data.
+[Algorithmic trading](../a/algorithmic_trading.md) strategies can leverage robust regression models to make more informed decisions. For instance, in time-series forecasting, robust regression can improve the accuracy of stock price predictions. [Technical indicators](../t/technical_indicators.md) like moving averages or volatility forecasts can be enhanced with robust methods to avoid false signals caused by noisy data.
 
 ##### Example: Algorithmic Trading Strategy Using Robust Regression
 
@@ -73,11 +73,11 @@ In the example, a robust regression model is trained to predict the next day's r
 
 #### Benefits of Robust Regression in Trading
 
-1. **Improved Prediction Accuracy**: By mitigating the influence of outliers, robust regression models improve the accuracy of predictive analytics.
+1. **Improved Prediction Accuracy**: By mitigating the influence of outliers, robust regression models improve the accuracy of [predictive analytics](../p/predictive_analytics.md).
 
-2. **Better Risk Management**: More reliable models lead to better risk assessments, as unexpected large losses are less likely to skew forecasts.
+2. **Better [Risk Management](../r/risk_management.md)**: More reliable models lead to better risk assessments, as unexpected large losses are less likely to skew forecasts.
 
-3. **Enhanced Strategy Robustness**: Trading strategies built with robust regression techniques are generally more resilient to market anomalies.
+3. **Enhanced Strategy Robustness**: [Trading strategies](../t/trading_strategies.md) built with robust [regression techniques](../r/regression_techniques.md) are generally more resilient to [market anomalies](../m/market_anomalies.md).
 
 #### Challenges and Limitations
 
@@ -89,8 +89,8 @@ In the example, a robust regression model is trained to predict the next day's r
 
 #### Case Studies and Applications
 
-Several proprietary trading firms and hedge funds have integrated robust regression techniques into their trading models. For instance, [Two Sigma](https://www.twosigma.com/) and [Citadel](https://www.citadel.com/) are known for their advanced quantitative trading strategies that likely leverage various robust statistical methods.
+Several [proprietary trading](../p/proprietary_trading.md) firms and hedge funds have integrated robust [regression techniques](../r/regression_techniques.md) into their [trading models](../t/trading_models.md). For instance, [Two Sigma](https://www.twosigma.com/) and [Citadel](https://www.citadel.com/) are known for their advanced [quantitative trading](../q/quantitative_trading.md) strategies that likely leverage various robust statistical methods.
 
 ### Conclusion
 
-Robust regression offers a powerful toolkit for algorithmic traders dealing with noisy and volatile market data. By incorporating robuste regression techniques, one can build more reliable and resilient trading strategies, enhancing both prediction accuracy and risk management. Despite its challenges, the benefits make it a valuable asset in the arsenal of modern quantitative finance professionals.
+Robust regression offers a powerful toolkit for algorithmic traders dealing with noisy and volatile market data. By incorporating robuste [regression techniques](../r/regression_techniques.md), one can build more reliable and resilient [trading strategies](../t/trading_strategies.md), enhancing both prediction accuracy and [risk management](../r/risk_management.md). Despite its challenges, the benefits make it a valuable asset in the arsenal of modern [quantitative finance](../q/quantitative_finance.md) professionals.

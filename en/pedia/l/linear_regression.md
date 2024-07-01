@@ -1,22 +1,22 @@
 ## Linear Regression in Algorithmic Trading
 
-Linear Regression is a statistical method that examines the linear relationship between two or more variables. It is extensively employed in algorithmic trading to predict asset prices, identify trends, and make informed trading decisions. In this context, linear regression serves as a cornerstone technique for traders and quants who aim to develop systematic strategies based on historical data.
+Linear Regression is a statistical method that examines the linear relationship between two or more variables. It is extensively employed in [algorithmic trading](../a/algorithmic_trading.md) to predict asset prices, identify trends, and make informed trading decisions. In this context, linear regression serves as a cornerstone technique for traders and quants who aim to develop systematic strategies based on historical data.
 
 ### Basics of Linear Regression
 
-Linear regression aims to model the relationship between a dependent variable \( Y \) and one or more independent variables \( X \). The simplest form is the **simple linear regression**, which involves one dependent and one independent variable:
+Linear regression aims to model the relationship between a dependent variable \( Y \) and one or more independent variables \( X \). The simplest form is the **[simple linear regression](../s/simple_linear_regression.md)**, which involves one dependent and one independent variable:
 
 \[ Y = \beta_0 + \beta_1 X + \epsilon \]
 
 Here, \( \beta_0 \) is the intercept, \( \beta_1 \) is the slope of the line, and \( \epsilon \) signifies the error term.
 
-For multiple variables, you can use **multiple linear regression**:
+For multiple variables, you can use **[multiple linear regression](../m/multiple_linear_regression.md)**:
 
 \[ Y = \beta_0 + \beta_1 X_1 + \beta_2 X_2 + ... + \beta_n X_n + \epsilon \]
 
 ### Key Concepts in Linear Regression
 
-Several key concepts form the backbone of linear regression analysis.
+Several key concepts form the backbone of [linear regression analysis](../l/linear_regression_analysis.md).
 
 - **Coefficiency (β-coefficients):** These represent the slopes of the line, i.e., how much change in \( Y \) is caused by a unit change in \( X \).
 
@@ -77,7 +77,7 @@ y_pred = model.predict(X_test)
 
 #### 5. Model Evaluation
 
-Evaluate the model's performance using metrics such as Mean Squared Error (MSE), and R-squared score:
+Evaluate the model's performance using metrics such as [Mean Squared Error](../m/mean_squared_error.md) (MSE), and R-squared score:
 
 ```python
 from sklearn.metrics import mean_squared_error, r2_score
@@ -85,7 +85,7 @@ from sklearn.metrics import mean_squared_error, r2_score
 mse = mean_squared_error(y_test, y_pred)
 r2 = r2_score(y_test, y_pred)
 
-print(f'Mean Squared Error: {mse}')
+print(f'[Mean Squared Error](../m/mean_squared_error.md): {mse}')
 print(f'R-squared Score: {r2}')
 ```
 
@@ -97,24 +97,24 @@ Use the linear regression model to predict future prices based on historical dat
 
 #### Pair Trading
 
-Identify pairs of assets with prices that move together. Use multiple linear regression to establish a relationship and trade on deviations from this relationship.
+Identify pairs of assets with prices that move together. Use [multiple linear regression](../m/multiple_linear_regression.md) to establish a relationship and trade on deviations from this relationship.
 
 #### Risk Management
 
-Assess the risk of trading strategies by analyzing the residuals (errors) of the regression model. Large or volatile residuals may indicate a riskier strategy.
+Assess the risk of [trading strategies](../t/trading_strategies.md) by analyzing the residuals (errors) of the regression model. Large or volatile residuals may indicate a riskier strategy.
 
 #### Quantitative Analysis
 
-Leverage regression models for quantitative analysis, integrating them with other predictive models and strategies for comprehensive trading systems.
+Leverage regression models for [quantitative analysis](../q/quantitative_analysis.md), integrating them with other predictive models and strategies for comprehensive [trading systems](../t/trading_systems.md).
 
 ### Real-World Examples
 
-1. [QuantConnect](https://www.quantconnect.com/): Provides a platform for developing algorithmic trading strategies using various methods, including linear regression.
+1. [QuantConnect](https://www.quantconnect.com/): Provides a platform for developing [algorithmic trading](../a/algorithmic_trading.md) strategies using various methods, including linear regression.
 
 2. [AlgoTrader](https://www.algotrader.com/): AlgoTrader users can integrate linear regression models into their strategies to enhance predictive accuracy.
 
-3. [QuantInsti](https://www.quantinsti.com/): Offers courses and materials on using linear regression for algorithmic trading.
+3. [QuantInsti](https://www.quantinsti.com/): Offers courses and materials on using linear regression for [algorithmic trading](../a/algorithmic_trading.md).
 
 ### Conclusion
 
-Linear regression is a powerful tool in the field of algorithmic trading, enabling traders to model relationships between variables and make data-driven decisions. Its effectiveness depends largely on the quality of data, the relevance of selected features, and adherence to underlying assumptions. When implemented correctly, it can significantly enhance trading strategies, risk management, and overall performance in financial markets.
+Linear regression is a powerful tool in the field of [algorithmic trading](../a/algorithmic_trading.md), enabling traders to model relationships between variables and make data-driven decisions. Its effectiveness depends largely on the quality of data, the relevance of selected features, and adherence to underlying assumptions. When implemented correctly, it can significantly enhance [trading strategies](../t/trading_strategies.md), [risk management](../r/risk_management.md), and overall performance in financial markets.

@@ -11,7 +11,7 @@ The term "long-only" refers specifically to investment strategies that involve p
 Several foundational principles guide long-only investment strategies:
 
 ### 1. Market Trends and Fundamentals
-Investors leveraging long-only strategies rely heavily on market trends and asset fundamentals. Fundamental analysis involves evaluating a company's financial health, including metrics such as earnings, revenue, and profit margins to assess its intrinsic value.
+Investors leveraging long-only strategies rely heavily on market trends and asset fundamentals. [Fundamental analysis](../f/fundamental_analysis.md) involves evaluating a company's financial health, including metrics such as earnings, revenue, and profit margins to assess its intrinsic value.
 
 ### 2. Diversification
 Diversification mitigates risk by spreading investments across various assets, sectors, or geographical regions. A well-diversified portfolio reduces the impact of any single asset's poor performance on the overall portfolio.
@@ -22,7 +22,7 @@ Investment decisions are often influenced by the investor's risk tolerance and t
 ## Types of Long-Only Strategies
 
 ### 1. Value Investing
-Value investing focuses on identifying undervalued securities that trade below their intrinsic value. One of the key proponents of value investing, Warren Buffett, has successfully employed this strategy over the years. Investors search for stocks with solid fundamentals but are temporarily undervalued by the market.
+[Value investing](../v/value_investing.md) focuses on identifying undervalued securities that trade below their intrinsic value. One of the key proponents of [value investing](../v/value_investing.md), Warren Buffett, has successfully employed this strategy over the years. Investors search for stocks with solid fundamentals but are temporarily undervalued by the market.
 
 ### 2. Growth Investing
 Growth investors target companies expected to grow at an above-average rate compared to their industry or the market. This strategy emphasizes companies with potential for earnings growth, often ignoring the current valuation. It focuses on sectors like technology, biotechnology, and emerging industries.
@@ -37,7 +37,7 @@ Index investing involves replicating the performance of a specific index (e.g., 
 Sector investing focuses on particular sectors expected to outperform. Investors might concentrate on technology, healthcare, energy, or other sectors based on economic forecasts, market conditions, or specific trends.
 
 ### 6. Thematic Investing
-Thematic investing involves targeting mega-trends like environmental sustainability, demographic shifts, or technological innovation. Investors aim to capitalize on societal changes and trends that are expected to generate significant economic impact over the long term.
+[Thematic investing](../t/thematic_investing.md) involves targeting mega-trends like environmental sustainability, demographic shifts, or technological innovation. Investors aim to capitalize on societal changes and trends that are expected to generate significant economic impact over the long term.
 
 ## Advantages of Long-Only Strategies
 
@@ -54,7 +54,7 @@ Historically, equity markets display a long-term upward bias due to economic gro
 Long investors benefit from dividend payments, providing a source of regular income and enhancing overall returns.
 
 ### 5. Easier to Manage
-Managing a long-only portfolio is less demanding than managing a long-short portfolio. There is no need for margin accounts or combating the potential for a short squeeze, simplifying portfolio maintenance.
+Managing a long-only portfolio is less demanding than managing a long-short portfolio. There is no need for margin accounts or combating the potential for a [short squeeze](../s/short_squeeze.md), simplifying portfolio maintenance.
 
 ## Disadvantages of Long-Only Strategies
 
@@ -82,7 +82,7 @@ ETFs offer a practical way to implement long-only strategies with the added adva
 Investors may apply long-only strategies by picking individual stocks based on analysis. This approach involves more research and monitoring but offers potential for higher returns through active management.
 
 ### 4. Managed Investment Accounts
-Investors can leverage long-only strategies through managed accounts provided by financial advisors or wealth management firms. Managed accounts allow for tailored strategies specifically aligned with the investor’s goals and risk tolerance.
+Investors can leverage long-only strategies through managed accounts provided by financial advisors or [wealth management](../w/wealth_management.md) firms. Managed accounts allow for tailored strategies specifically aligned with the investor’s goals and risk tolerance.
 
 ## Companies Offering Long-Only Investment Services
 
@@ -93,7 +93,7 @@ Vanguard Group is renowned for its mutual funds and ETFs, offering a broad range
 BlackRock, the world’s largest asset manager, offers numerous ETFs and investment funds adhering to long-only strategies. BlackRock’s iShares family of ETFs is particularly popular. [BlackRock](https://www.blackrock.com)
 
 ### 3. Fidelity Investments
-Fidelity provides a wide array of mutual funds and brokerage services tailored to long-only strategies, backed by extensive research and active management. [Fidelity](https://www.fidelity.com)
+Fidelity provides a wide array of mutual funds and [brokerage services](../b/brokerage_services.md) tailored to long-only strategies, backed by extensive research and active management. [Fidelity](https://www.fidelity.com)
 
 ### 4. Charles Schwab
 Charles Schwab offers various investment products, including ETFs, mutual funds, and advisory services focused on long-only strategies to suit different investor profiles. [Charles Schwab](https://www.schwab.com)

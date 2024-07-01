@@ -1,6 +1,6 @@
 ### Vector Autoregression (VAR)
 
-Vector Autoregression (VAR) is a statistical model used in econometrics and financial modeling to capture the linear interdependencies among multiple time series data. This method extends the univariate autoregressive model by allowing for more than one evolving variable. VAR models are adept at forecasting systems of interrelated time series and analyzing the dynamic impact of random disturbances on the system of variables.
+Vector Autoregression (VAR) is a statistical model used in econometrics and [financial modeling](../f/financial_modeling.md) to capture the linear interdependencies among multiple time series data. This method extends the univariate autoregressive model by allowing for more than one evolving variable. VAR models are adept at forecasting systems of interrelated time series and analyzing the dynamic impact of random disturbances on the system of variables.
 
 #### Key Components of VAR
 
@@ -35,13 +35,13 @@ Estimating a VAR model typically involves:
 
 2. **Parameter Estimation**: Using methods such as Ordinary Least Squares (OLS) to estimate the coefficients of the model.
 
-3. **Diagnostic Checking**: Residual analysis to check for autocorrelation, stability, and adequacy of the model fit.
+3. **Diagnostic Checking**: Residual analysis to check for [autocorrelation](../a/autocorrelation.md), stability, and adequacy of the model fit.
 
 #### Applications in Financial Modeling
 
 The VAR model is extensively utilized in financial markets for various purposes:
 
-- **Forecasting**: Predicting future values of financial time series such as stock prices, interest rates, and GDP growth.
+- **Forecasting**: Predicting future values of [financial time series](../f/financial_time_series.md) such as stock prices, interest rates, and GDP growth.
 - **Impulse Response Analysis**: Examining the effect of a one-time shock to one of the innovations on current and future values of the endogenous variables.
 - **Variance Decomposition**: Breaking down the variance of an error term to understand the contribution of each variable's shock to the system.
 - **Granger Causality Testing**: Identifying whether one time series can forecast another, thereby providing insights into causal relationships.

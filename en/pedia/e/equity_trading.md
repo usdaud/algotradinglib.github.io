@@ -29,21 +29,21 @@ Equity Trading refers to the buying and selling of company shares or stocks in f
    - **Long Positions**: Buying stocks expected to increase in value.
    - **Short Positions**: Selling borrowed stocks expected to decrease in value, with the aim of buying them back at a lower price.
 
-2. **Arbitrage**
-   - **Statistical Arbitrage**: Utilizing statistical models to identify price discrepancies between related securities and profiting from these differences.
-   - **Merger Arbitrage**: Buying and selling stocks of companies involved in mergers and acquisitions to benefit from expected price movements.
+2. **[Arbitrage](../a/arbitrage.md)**
+   - **Statistical [Arbitrage](../a/arbitrage.md)**: Utilizing statistical models to identify price discrepancies between related securities and profiting from these differences.
+   - **Merger [Arbitrage](../a/arbitrage.md)**: Buying and selling stocks of companies involved in mergers and acquisitions to benefit from expected price movements.
 
-3. **Event-Driven Trading**
-   - **Earnings Announcements**: Trading based on expectations or reactions to a company's earnings reports.
+3. **[Event-Driven Trading](../e/event-driven_trading.md)**
+   - **[Earnings Announcements](../e/earnings_announcements.md)**: Trading based on expectations or reactions to a company's earnings reports.
    - **Corporate Actions**: Reacting to actions such as stock splits, dividends, and other company announcements.
 
-4. **Algorithmic Trading**
+4. **[Algorithmic Trading](../a/algorithmic_trading.md)**
    - **High-Frequency Trading (HFT)**: Using advanced algorithms and high-speed data networks to execute trades at extremely high speeds.
-   - **Quantitative Trading**: Employing mathematical models and extensive data analysis to make trading decisions.
+   - **[Quantitative Trading](../q/quantitative_trading.md)**: Employing mathematical models and extensive data analysis to make trading decisions.
 
 ### Equity Derivatives
 
-Equity trading often involves derivatives, financial instruments whose value is derived from the underlying stock. Common equity derivatives include:
+Equity trading often involves [derivatives](../d/derivatives.md), financial instruments whose value is derived from the underlying stock. Common equity [derivatives](../d/derivatives.md) include:
 
 - **Options**: Contracts giving the holder the right, but not the obligation, to buy or sell stock at a specified price within a certain timeframe.
 - **Futures**: Agreements to buy or sell an asset at a predetermined future date and price.
@@ -65,7 +65,7 @@ Equity trading is subject to strict regulations to ensure fairness, transparency
 Advancements in technology have transformed equity trading. Key developments include:
 
 - **Electronic Trading Platforms**: Systems like Electronic Communication Networks (ECNs) that facilitate faster and more efficient trading.
-- **Artificial Intelligence (AI)**: Utilized for predictive analytics and developing sophisticated trading algorithms.
+- **Artificial Intelligence (AI)**: Utilized for [predictive analytics](../p/predictive_analytics.md) and developing sophisticated [trading algorithms](../t/trading_algorithms.md).
 - **Blockchain Technology**: Provides enhanced security and transparency in trading through distributed ledger technology.
 
 ### Influential Companies in Equity Trading Technology
@@ -82,7 +82,7 @@ Advancements in technology have transformed equity trading. Key developments inc
 ### Risks in Equity Trading
 
 1. **Market Risk**: The potential for investors to experience losses due to market fluctuations.
-2. **Liquidity Risk**: The risk of not being able to buy or sell securities quickly enough to prevent a loss.
+2. **[Liquidity Risk](../l/liquidity_risk.md)**: The risk of not being able to buy or sell securities quickly enough to prevent a loss.
 3. **Credit Risk**: The risk that a counterparty may default on a contractual obligation.
 4. **Operational Risk**: Risks arising from failures in internal processes, systems, or compliance.
 

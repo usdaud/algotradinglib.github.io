@@ -1,7 +1,7 @@
 # Insider Transaction Analysis in Algorithmic Trading
 
 ## Introduction
-Insider transaction analysis refers to the study of trading activities by company insiders—such as executives, directors, and employees—who have access to privileged information about the company's operations, financial condition, or strategic initiatives. Understanding insider transactions can provide valuable insights into the company's future performance and is an important aspect of algorithmic trading strategies.
+Insider transaction analysis refers to the study of trading activities by company insiders—such as executives, directors, and employees—who have access to privileged information about the company's operations, financial condition, or strategic initiatives. Understanding insider transactions can provide valuable insights into the company's future performance and is an important aspect of [algorithmic trading](../a/algorithmic_trading.md) strategies.
 
 ## Definition of Insiders
 Insiders are individuals or entities that have access to non-public information about a company due to their position or relationship with the company. They typically include:
@@ -47,10 +47,10 @@ Studies have shown that insider transactions can be a predictor of future stock 
 Insider buying and selling patterns can serve as a sentiment gauge, providing an indication of insider confidence or concern about the company’s prospects.
 
 ### Momentum Strategies
-Insider transaction data can be incorporated into momentum trading strategies. Positive insider activity can support buy signals, while significant selling might trigger sell signals.
+Insider transaction data can be incorporated into [momentum trading](../m/momentum_trading.md) strategies. Positive insider activity can support buy signals, while significant selling might trigger sell signals.
 
 ### Signal Filtering
-Algorithmic trading systems can filter signals based on the size and frequency of insider trades, focusing on substantial transactions by top executives as more reliable indicators.
+[Algorithmic trading](../a/algorithmic_trading.md) systems can filter signals based on the size and frequency of insider trades, focusing on substantial transactions by top executives as more reliable indicators.
 
 ## Quantitative Analysis Techniques
 ### Event Studies

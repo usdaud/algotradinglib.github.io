@@ -1,6 +1,6 @@
 # Grid Trading
 
-Grid trading is a popular quantitative trading strategy where orders are placed above and below a set price, creating a grid of trades regardless of the market's movement. It's predominantly used in foreign exchange (Forex) and cryptocurrency markets. The underlying concept is to profit from the volatility of the market without trying to predict the exact direction or trend. Here's an in-depth breakdown of how grid trading works, its benefits, risks, and examples of its application.
+Grid trading is a popular [quantitative trading](../q/quantitative_trading.md) strategy where orders are placed above and below a set price, creating a grid of trades regardless of the market's movement. It's predominantly used in foreign exchange (Forex) and cryptocurrency markets. The underlying concept is to profit from the volatility of the market without trying to predict the exact direction or trend. Here's an in-depth breakdown of how grid trading works, its benefits, risks, and examples of its application.
 
 ## Components and Setup
 
@@ -65,7 +65,7 @@ Grid trading is a popular quantitative trading strategy where orders are placed 
    - [Pionex](https://www.pionex.com/)
 
 ### **2. **Bitsgap**
-   - Offers trading bots compatible with multiple exchanges and includes grid trading strategies.
+   - Offers trading bots compatible with multiple exchanges and includes grid [trading strategies](../t/trading_strategies.md).
    - [Bitsgap](https://bitsgap.com/)
 
 ### **3. **3Commas**

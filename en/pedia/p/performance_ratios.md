@@ -1,34 +1,34 @@
 # Performance Ratios in Algorithmic Trading
 
 ## Introduction
-Performance ratios are crucial metrics in algorithmic trading used to evaluate the efficiency, profitability, and risk-adjusted returns of trading algorithms. They help traders and investors compare trading strategies and make informed decisions. This document explores some of the most common performance ratios used in algorithmic trading.
+Performance ratios are crucial metrics in [algorithmic trading](../a/algorithmic_trading.md) used to evaluate the efficiency, profitability, and risk-adjusted returns of [trading algorithms](../t/trading_algorithms.md). They help traders and investors compare [trading strategies](../t/trading_strategies.md) and make informed decisions. This document explores some of the most common performance ratios used in [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Sharpe Ratio
-The Sharpe Ratio is one of the most widely used metrics to measure the risk-adjusted return of an investment. It is defined as the ratio of the excess return (return above the risk-free rate) to the standard deviation of the investment returns.
+The [Sharpe Ratio](../s/sharpe_ratio.md) is one of the most widely used metrics to measure the [risk-adjusted return](../r/risk-adjusted_return.md) of an investment. It is defined as the ratio of the excess return (return above the risk-free rate) to the standard deviation of the investment returns.
 
-\[ \text{Sharpe Ratio} = \frac{\text{Rp} - \text{Rf}}{\text{σp}} \]
+\[ \text{[Sharpe Ratio](../s/sharpe_ratio.md)} = \frac{\text{Rp} - \text{Rf}}{\text{σp}} \]
 
 Where:
 - Rp = Return of the portfolio
 - Rf = Risk-free rate
 - σp = Standard deviation of the portfolio returns
 
-The higher the Sharpe Ratio, the better the risk-adjusted performance of the portfolio or trading strategy.
+The higher the [Sharpe Ratio](../s/sharpe_ratio.md), the better the risk-adjusted performance of the portfolio or trading strategy.
 
 ## Sortino Ratio
-The Sortino Ratio is a variation of the Sharpe Ratio that differentiates harmful volatility from overall volatility. It assesses the return of an investment relative to the downside risk.
+The [Sortino Ratio](../s/sortino_ratio.md) is a variation of the [Sharpe Ratio](../s/sharpe_ratio.md) that differentiates harmful volatility from overall volatility. It assesses the return of an investment relative to the downside risk.
 
-\[ \text{Sortino Ratio} = \frac{\text{Rp} - \text{Rf}}{\text{σd}} \]
+\[ \text{[Sortino Ratio](../s/sortino_ratio.md)} = \frac{\text{Rp} - \text{Rf}}{\text{σd}} \]
 
 Where:
 - Rp = Return of the portfolio
 - Rf = Risk-free rate
-- σd = Downside deviation of the portfolio returns
+- σd = [Downside deviation](../d/downside_deviation.md) of the portfolio returns
 
-The downside deviation considers only the returns falling below a minimum acceptable return (MAR), providing a more realistic measure of risk.
+The [downside deviation](../d/downside_deviation.md) considers only the returns falling below a minimum acceptable return (MAR), providing a more realistic measure of risk.
 
 ## Calmar Ratio
-The Calmar Ratio measures the risk-adjusted return of an investment by comparing the average annual compounded rate of return to the maximum drawdown over the same period.
+The Calmar Ratio measures the [risk-adjusted return](../r/risk-adjusted_return.md) of an investment by comparing the average annual compounded rate of return to the maximum drawdown over the same period.
 
 \[ \text{Calmar Ratio} = \frac{\text{CAGR}}{\text{Max Drawdown}} \]
 
@@ -51,16 +51,16 @@ Where:
 A higher Treynor Ratio indicates better utilization of market risk in generating returns.
 
 ## Information Ratio
-The Information Ratio measures a portfolio manager's ability to generate excess returns relative to a benchmark, adjusted for the risk taken.
+The [Information Ratio](../i/information_ratio.md) measures a portfolio manager's ability to generate excess returns relative to a benchmark, adjusted for the risk taken.
 
-\[ \text{Information Ratio} = \frac{\text{Rp} - \text{Rb}}{\text{Tracking Error}} \]
+\[ \text{[Information Ratio](../i/information_ratio.md)} = \frac{\text{Rp} - \text{Rb}}{\text{Tracking Error}} \]
 
 Where:
 - Rp = Return of the portfolio
 - Rb = Return of the benchmark
 - Tracking Error = Standard deviation of the difference between portfolio returns and benchmark returns
 
-A higher Information Ratio suggests better performance of the trading strategy compared to its benchmark.
+A higher [Information Ratio](../i/information_ratio.md) suggests better performance of the trading strategy compared to its benchmark.
 
 ## Omega Ratio
 The Omega Ratio evaluates the ratio of gains to losses above a threshold return level, providing a more comprehensive view of risk and return.
@@ -87,6 +87,6 @@ Maximum Drawdown (MDD) quantifies the largest peak-to-trough decline in the valu
 A smaller MDD is preferred, as it indicates less potential loss from peak to trough.
 
 ## Conclusion
-Understanding and applying these performance ratios allow algorithmic traders to better evaluate their trading strategies, manage risks, and improve returns. These ratios are integral to ensuring a coherent and comprehensive analysis of algorithm performance in the complex landscape of financial markets.
+Understanding and applying these performance ratios allow algorithmic traders to better evaluate their [trading strategies](../t/trading_strategies.md), manage risks, and improve returns. These ratios are integral to ensuring a coherent and comprehensive analysis of algorithm performance in the complex landscape of financial markets.
 
-For further details and practical applications of these ratios, consider exploring resources and tools provided by companies specializing in algorithmic trading and financial analytics, such as [QuantConnect](https://www.quantconnect.com/), which offers an integrated environment for algorithmic trading research and testing.
+For further details and practical applications of these ratios, consider exploring resources and tools provided by companies specializing in [algorithmic trading](../a/algorithmic_trading.md) and financial analytics, such as [QuantConnect](https://www.quantconnect.com/), which offers an integrated environment for [algorithmic trading](../a/algorithmic_trading.md) research and testing.

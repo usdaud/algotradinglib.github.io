@@ -11,11 +11,11 @@ Under these laws, insiders are prohibited from trading based on material non-pub
 1. **Event Studies**
    - Event studies analyze the impact of insider trading announcements on stock prices. By examining the price and volume changes around the event date, analysts can infer the information content and market reaction to insider trades.
 
-2. **Data Mining and Machine Learning**
+2. **[Data Mining](../d/data_mining.md) and Machine Learning**
    - Advanced algorithms and machine learning techniques are employed to detect patterns and anomalies that might suggest illegal insider trading. For instance, natural language processing (NLP) can scan regulatory filings and news articles for insider activity.
 
 3. **Statistical Analysis**
-   - Various statistical methods are used to assess the likelihood that a particular trading pattern is the result of insider knowledge. This includes regression analysis and hypothesis testing to compare the performance of insider trades against benchmarks.
+   - Various statistical methods are used to assess the likelihood that a particular trading pattern is the result of insider knowledge. This includes [regression analysis](../r/regression_analysis.md) and [hypothesis testing](../h/hypothesis_testing.md) to compare the performance of insider trades against benchmarks.
 
 ### Tools for Insider Trading Analysis
 
@@ -27,23 +27,23 @@ Several tools and platforms aid in the detection and analysis of insider trading
 2. **Insider Buy/Sell Trackers**
    - Tools like Insider Monkey and GuruFocus offer real-time tracking and analysis of insider trading activities. These platforms often aggregate data from multiple sources to provide comprehensive insights.
 
-3. **Financial Modeling and Analysis Software**
-   - Bloomberg Terminal, FactSet, and Thomson Reuters Eikon offer sophisticated financial modeling tools that can be used to analyze insider trading data alongside other market data.
+3. **[Financial Modeling](../f/financial_modeling.md) and Analysis Software**
+   - Bloomberg Terminal, FactSet, and Thomson Reuters Eikon offer sophisticated [financial modeling](../f/financial_modeling.md) tools that can be used to analyze insider trading data alongside other market data.
 
 ### Real-World Applications
 
 1. **Investment Strategies**
    - Savvy investors can incorporate insider trading analysis into their investment strategies. For example, following the trades of executives and directors can provide signals about a company's future performance.
 
-2. **Compliance and Risk Management**
+2. **Compliance and [Risk Management](../r/risk_management.md)**
    - Financial institutions employ insider trading analysis to ensure compliance with regulatory requirements and to manage the risk associated with potential legal and reputational damage.
 
 3. **Academic Research**
-   - Universities and financial research institutions conduct studies on insider trading to understand its impact on market efficiency and investor behavior.
+   - Universities and financial research institutions conduct studies on insider trading to understand its impact on [market efficiency](../m/market_efficiency.md) and investor behavior.
 
 ### Ethical Considerations
 
-Insider trading raises significant ethical issues. While some argue that it undermines market fairness, others contend that it can actually contribute to market efficiency by making information reflect more quickly in prices. Ethical concerns are also tied to the potential harm caused to regular investors who do not have access to the same information.
+Insider trading raises significant ethical issues. While some argue that it undermines market fairness, others contend that it can actually contribute to [market efficiency](../m/market_efficiency.md) by making information reflect more quickly in prices. Ethical concerns are also tied to the potential harm caused to regular investors who do not have access to the same information.
 
 ### Conclusion
 

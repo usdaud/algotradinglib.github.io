@@ -2,14 +2,14 @@
 
 ## Introduction
 
-A Short Butterfly Spread is an options trading strategy that is primarily used when a trader expects minimal movement in the price of the underlying asset. This strategy involves the simultaneous buying and selling of options with three different strike prices, forming a butterfly shape when graphed according to payoff at different price points at expiration. Particularly well-suited for traders who predict low volatility, the Short Butterfly Spread aims to capitalize on the passage of time and the associated decay in option premiums.
+A Short [Butterfly Spread](../b/butterfly_spread.md) is an options trading strategy that is primarily used when a trader expects minimal movement in the price of the underlying asset. This strategy involves the simultaneous buying and selling of options with three different strike prices, forming a butterfly shape when graphed according to payoff at different price points at expiration. Particularly well-suited for traders who predict low volatility, the Short [Butterfly Spread](../b/butterfly_spread.md) aims to capitalize on the passage of time and the associated decay in option premiums.
 
 ## Components of Short Butterfly Spread
 
 ### Key Elements:
 
 1. **Underlying Asset**: The financial instrument on which options are written, such as a stock, index, or commodity.
-2. **Options**: Financial derivatives that provide the buyer with the right, but not the obligation, to buy or sell the underlying asset at a predetermined price before or on a specific date.
+2. **Options**: Financial [derivatives](../d/derivatives.md) that provide the buyer with the right, but not the obligation, to buy or sell the underlying asset at a predetermined price before or on a specific date.
 3. **Strike Prices**: Prices at which options may be exercised.
 4. **Expiration Date**: The date on which the option expires.
 
@@ -30,7 +30,7 @@ Assume the underlying asset is trading at $100:
 
 ### Maximum Loss:
 
-The maximum loss occurs if the underlying asset's price is either below the lower strike price or above the higher strike price at expiration. The loss is limited to the net premium paid to establish the Short Butterfly Spread.
+The maximum loss occurs if the underlying asset's price is either below the lower strike price or above the higher strike price at expiration. The loss is limited to the net premium paid to establish the Short [Butterfly Spread](../b/butterfly_spread.md).
 
 ### Maximum Profit:
 
@@ -46,7 +46,7 @@ The breakeven points are derived from the net premium and the strike prices. The
 
 ### Limited Risk:
 
-One of the primary advantages of the Short Butterfly Spread is its limited risk. Unlike naked options or short straddles, the trader's potential loss is capped, making this strategy appealing for those with a lower risk tolerance.
+One of the primary advantages of the Short [Butterfly Spread](../b/butterfly_spread.md) is its limited risk. Unlike naked options or short straddles, the trader's potential loss is capped, making this strategy appealing for those with a lower risk tolerance.
 
 ### Low Volatility Environment:
 
@@ -54,13 +54,13 @@ This strategy thrives in low volatility markets. When asset prices aren't expect
 
 ### Defined Profit and Loss:
 
-The well-defined nature of potential profits and losses appeals to disciplined traders. It allows for precise planning and risk management.
+The well-defined nature of potential profits and losses appeals to disciplined traders. It allows for precise planning and [risk management](../r/risk_management.md).
 
 ## Potential Drawbacks
 
 ### Complex Strategy:
 
-Constructing and managing a Short Butterfly Spread requires a good understanding of options pricing and behavior. Novice traders might find it complex compared to simpler strategies like covered calls or naked puts.
+Constructing and managing a Short [Butterfly Spread](../b/butterfly_spread.md) requires a good understanding of options pricing and behavior. Novice traders might find it complex compared to simpler strategies like covered calls or naked puts.
 
 ### Limited Profit Potential:
 
@@ -70,11 +70,11 @@ Despite offering defined profits, the potential gains from Short Butterfly Sprea
 
 ### Market Predictions:
 
-A practical scenario for using a Short Butterfly Spread is when a trader believes that a stock will not undergo significant price movements in the short term. For instance, during stable economic periods when companies are performing predictably, this strategy can be beneficial.
+A practical scenario for using a Short [Butterfly Spread](../b/butterfly_spread.md) is when a trader believes that a stock will not undergo significant price movements in the short term. For instance, during stable economic periods when companies are performing predictably, this strategy can be beneficial.
 
 ### Earnings Season:
 
-Stocks tend to be more volatile around earnings announcements. However, if a trader believes that there will be minimal movement, a Short Butterfly Spread can be strategically placed just before the earnings release.
+Stocks tend to be more volatile around [earnings announcements](../e/earnings_announcements.md). However, if a trader believes that there will be minimal movement, a Short [Butterfly Spread](../b/butterfly_spread.md) can be strategically placed just before the earnings release.
 
 ## Tools and Platforms
 
@@ -87,6 +87,6 @@ Several trading platforms and tools facilitate the creation and management of Sh
 
 ## Conclusion
 
-The Short Butterfly Spread is a nuanced yet powerful strategy for traders comfortable working with options in a low-volatility environment. By combining options with three different strike prices, traders can benefit from minimal price movements and the natural time decay of option premiums. While the potential for profit is capped, so too is the risk of loss, providing a balanced approach to options trading.
+The Short [Butterfly Spread](../b/butterfly_spread.md) is a nuanced yet powerful strategy for traders comfortable working with options in a low-volatility environment. By combining options with three different strike prices, traders can benefit from minimal price movements and the natural time decay of option premiums. While the potential for profit is capped, so too is the risk of loss, providing a balanced approach to options trading.
 
-Understanding and effectively utilizing the Short Butterfly Spread requires a solid understanding of options dynamics, but when executed correctly, it can be a profitable strategy for traders who anticipate little price movement in the underlying asset.
+Understanding and effectively utilizing the Short [Butterfly Spread](../b/butterfly_spread.md) requires a solid understanding of options dynamics, but when executed correctly, it can be a profitable strategy for traders who anticipate little price movement in the underlying asset.

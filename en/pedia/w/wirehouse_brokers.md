@@ -2,7 +2,7 @@
 
 ## Overview
 
-Wirehouse brokers are full-service brokerage firms that have national or worldwide presence and offer a wide range of investment products and services. They often operate in a multi-channel environment that includes online trading, financial advisory services, and personalized wealth management. Historically, the term "wirehouse" comes from the period when brokers used telegraph wires to send orders to and from the stock exchanges.
+Wirehouse brokers are full-service brokerage firms that have national or worldwide presence and offer a wide range of investment products and services. They often operate in a multi-channel environment that includes online trading, financial advisory services, and personalized [wealth management](../w/wealth_management.md). Historically, the term "wirehouse" comes from the period when brokers used telegraph wires to send orders to and from the stock exchanges.
 
 ## History and Evolution
 
@@ -24,19 +24,19 @@ Several firms dominate the wirehouse brokerage space, and they often are part of
 
 ### Merrill Lynch
 
-Merrill Lynch, now a division of Bank of America, is one of the most well-known wirehouse brokers. Founded in 1914, it has become a major player in wealth management and financial advisory services.
+Merrill Lynch, now a division of Bank of America, is one of the most well-known wirehouse brokers. Founded in 1914, it has become a major player in [wealth management](../w/wealth_management.md) and financial advisory services.
 
 - Website: [Merrill Lynch](https://www.ml.com/)
 
 ### Morgan Stanley
 
-Morgan Stanley is another significant player, offering a wide array of investment banking, securities, wealth management, and investment management services. The firm has a robust presence in both institutional and retail financial services.
+Morgan Stanley is another significant player, offering a wide array of investment banking, securities, [wealth management](../w/wealth_management.md), and investment management services. The firm has a robust presence in both institutional and retail financial services.
 
 - Website: [Morgan Stanley](https://www.morganstanley.com/)
 
 ### UBS Financial Services
 
-UBS Financial Services is the U.S. based arm of the Swiss multinational investment bank and financial services company UBS Group AG. It offers wealth management, asset management, and investment banking services.
+UBS Financial Services is the U.S. based arm of the Swiss multinational investment bank and financial services company UBS Group AG. It offers [wealth management](../w/wealth_management.md), asset management, and investment banking services.
 
 - Website: [UBS](https://www.ubs.com/)
 
@@ -52,7 +52,7 @@ Wirehouse brokers offer a comprehensive range of financial services, including b
 
 ### Wealth Management
 
-These firms provide personalized financial planning and investment management services. Advisors work closely with clients to create customized investment strategies based on their financial goals, risk tolerance, and time horizon.
+These firms provide personalized [financial planning](../f/financial_planning.md) and investment management services. Advisors work closely with clients to create customized investment strategies based on their financial goals, risk tolerance, and time horizon.
 
 ### Investment Banking
 
@@ -64,11 +64,11 @@ Many wirehouses maintain extensive research departments that produce in-depth ma
 
 ### Trading Services
 
-Wirehouses offer a variety of trading services, including equities, fixed income, commodities, and derivatives. They cater to both retail clients and institutional investors, providing robust trading platforms and execution services.
+Wirehouses offer a variety of trading services, including equities, fixed income, commodities, and [derivatives](../d/derivatives.md). They cater to both retail clients and institutional investors, providing robust trading platforms and execution services.
 
 ### Financial Planning
 
-Comprehensive financial planning services include retirement planning, estate planning, tax planning, and insurance. These services aim to create a holistic financial strategy that addresses all aspects of a client's financial life.
+Comprehensive [financial planning](../f/financial_planning.md) services include retirement planning, estate planning, tax planning, and insurance. These services aim to create a holistic financial strategy that addresses all aspects of a client's financial life.
 
 ## Business Model
 
@@ -104,7 +104,7 @@ In addition to federal oversight, state regulators also play a role in supervisi
 
 ### High Net Worth Individuals (HNWIs)
 
-Wirehouse brokers often target high net worth individuals who require sophisticated financial planning and investment strategies. These clients typically have investable assets in excess of $1 million.
+Wirehouse brokers often target high net worth individuals who require sophisticated [financial planning](../f/financial_planning.md) and investment strategies. These clients typically have investable assets in excess of $1 million.
 
 ### Institutional Investors
 

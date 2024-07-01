@@ -1,7 +1,7 @@
 # Median Price Analysis in Algorithmic Trading
 ===========================================
 
-Median price analysis is a pivotal concept within the field of algorithmic trading, a domain that combines financial markets with computer science and statistical methods to optimize trading strategies. This method provides traders with significant insights into the price behavior of financial instruments and aids in making informed trading decisions.
+Median price analysis is a pivotal concept within the field of [algorithmic trading](../a/algorithmic_trading.md), a domain that combines financial markets with computer science and statistical methods to optimize [trading strategies](../t/trading_strategies.md). This method provides traders with significant insights into the price behavior of financial instruments and aids in making informed trading decisions.
 
 ## Understanding Median Price
 
@@ -17,9 +17,9 @@ The simplicity of median price calculation belies its potency; it serves to filt
 
 2. **Trend Identification**: The median price is instrumental in identifying market trends. When visualized on a chart, it helps in demarcating bullish and bearish phases more clearly compared to other price metrics like the closing price.
 
-3. **Support and Resistance**: The median price often acts as a natural support or resistance level. The market shows tendencies to hover around these medians, helping traders in predicting potential price reversals or continuations.
+3. **[Support and Resistance](../s/support_and_resistance.md)**: The median price often acts as a natural support or resistance level. The market shows tendencies to hover around these medians, helping traders in predicting potential price reversals or continuations.
 
-4. **Improved Backtesting**: Using the median price smoothes out backtesting results, making the historical performance metrics of trading strategies more realistic and less prone to extreme variations.
+4. **Improved [Backtesting](../b/backtesting.md)**: Using the median price smoothes out [backtesting](../b/backtesting.md) results, making the historical [performance metrics](../p/performance_metrics.md) of [trading strategies](../t/trading_strategies.md) more realistic and less prone to extreme variations.
 
 ## Implementing Median Price in Trading Algorithms
 
@@ -28,7 +28,7 @@ The simplicity of median price calculation belies its potency; it serves to filt
 1. **Data Gathering**: Collect the high and low prices for the time frame under consideration.
 2. **Median Calculation**: Compute the median price for each time period using the formula provided.
 3. **Charting**: Plot the median price on a price chart to visualize trends and patterns.
-4. **Strategy Development**: Integrate the median price into trading algorithms, such as moving averages, oscillators, and other technical indicators.
+4. **Strategy Development**: Integrate the median price into [trading algorithms](../t/trading_algorithms.md), such as moving averages, oscillators, and other [technical indicators](../t/technical_indicators.md).
 
 ### Algorithm Example
 
@@ -56,11 +56,11 @@ print(data)
 
 ### Advanced Usage
 
-For more advanced applications, traders can use the median price in conjunction with other indicators such as Bollinger Bands, the Relative Strength Index (RSI), and Moving Averages to build sophisticated trading models.
+For more advanced applications, traders can use the median price in conjunction with other indicators such as [Bollinger Bands](../b/bollinger_bands.md), the Relative Strength Index (RSI), and Moving Averages to build sophisticated [trading models](../t/trading_models.md).
 
 ### Example 1: Bollinger Bands with Median Price
 
-Bollinger Bands consist of a middle band (usually a simple moving average) and two outer bands (standard deviations away from the middle band). By using the median price as the middle band, traders can develop a band that dynamically adjusts itself to market volatility without being heavily influenced by transient price spikes.
+[Bollinger Bands](../b/bollinger_bands.md) consist of a middle band (usually a simple moving average) and two outer bands (standard deviations away from the middle band). By using the median price as the middle band, traders can develop a band that dynamically adjusts itself to market volatility without being heavily influenced by transient price spikes.
 
 ```python
 import numpy as np
@@ -116,14 +116,14 @@ print(data)
 
 #### Hedge Funds
 
-Hedge funds frequently use median price analysis to develop their proprietary trading strategies. By employing advanced statistical methods alongside median price calculations, these funds can efficiently manage risks and enhance returns. For instance, Renaissance Technologies and Two Sigma extensively utilize algorithmic trading models incorporating median price analysis.
+Hedge funds frequently use median price analysis to develop their [proprietary trading](../p/proprietary_trading.md) strategies. By employing advanced statistical methods alongside median price calculations, these funds can efficiently manage risks and enhance returns. For instance, Renaissance Technologies and Two Sigma extensively utilize [algorithmic trading](../a/algorithmic_trading.md) models incorporating median price analysis.
 
 - [Renaissance Technologies](https://www.rentec.com/)
 - [Two Sigma](https://www.twosigma.com/)
 
 #### High-Frequency Trading Firms
 
-High-frequency trading (HFT) firms capitalize on tiny price discrepancies at extremely high speeds. Median price analysis aids in creating algorithms that are less sensitive to noise and more consistent in identifying genuine trading signals. Firms like Citadel Securities and DRW benefit from integrating median price statistics into their trading models.
+High-frequency trading (HFT) firms capitalize on tiny price discrepancies at extremely high speeds. Median price analysis aids in creating algorithms that are less sensitive to noise and more consistent in identifying genuine [trading signals](../t/trading_signals.md). Firms like Citadel Securities and DRW benefit from integrating median price statistics into their [trading models](../t/trading_models.md).
 
 - [Citadel Securities](https://www.citadelsecurities.com/)
 - [DRW Trading](https://drw.com/)
@@ -136,4 +136,4 @@ High-frequency trading (HFT) firms capitalize on tiny price discrepancies at ext
 
 ## Conclusion
 
-Median price analysis stands as a cornerstone of algorithmic trading, offering traders a simplified yet effective method to navigate the complexities of financial markets. By understanding and implementing median price calculations, traders can enhance their strategies, reduce risks, and potentially achieve superior returns. As algorithmic trading continues to evolve, the integration of median price analysis is likely to become even more pervasive, driving innovations and efficiencies across the financial trading landscape.
+Median price analysis stands as a cornerstone of [algorithmic trading](../a/algorithmic_trading.md), offering traders a simplified yet effective method to navigate the complexities of financial markets. By understanding and implementing median price calculations, traders can enhance their strategies, reduce risks, and potentially achieve superior returns. As [algorithmic trading](../a/algorithmic_trading.md) continues to evolve, the integration of median price analysis is likely to become even more pervasive, driving innovations and efficiencies across the financial trading landscape.

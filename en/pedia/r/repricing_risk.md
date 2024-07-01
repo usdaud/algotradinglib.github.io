@@ -36,16 +36,16 @@ Repricing risk can have significant impacts on the financial health and performa
 Managing repricing risk involves a combination of strategic and tactical actions:
 
 1. **Asset-Liability Management (ALM):** ALM strategies aim to synchronize the maturities and repricing schedules of assets and liabilities. This is often conducted by specialized ALM committees within financial institutions.
-2. **Hedging:** Using financial derivatives such as interest rate swaps, options, or futures to mitigate potential adverse impacts from interest rate movements.
+2. **Hedging:** Using financial [derivatives](../d/derivatives.md) such as [interest rate swaps](../i/interest_rate_swaps.md), options, or futures to mitigate potential adverse impacts from interest rate movements.
 3. **Diversification:** Reducing reliance on any single source of interest-sensitive funding or income.
 
 ## Tools and Software for Repricing Risk Management
 
 Several specialized tools and software solutions are available to aid in the analysis and management of repricing risk.
 
-1. **QRM (Quantitative Risk Management):** [QRM](https://www.qrm.com/) offers a comprehensive ALM and risk management platform known for its advanced analytical capabilities in managing interest rate risk.
-2. **Z-Score Risk Management:** Focuses on providing software for financial risk, including repricing risk, using advanced algorithmic models.
-3. **Fiserv:** [Fiserv](https://www.fiserv.com/) offers technology solutions that integrate ALM and interest rate risk management.
+1. **QRM ([Quantitative Risk Management](../q/quantitative_risk_management.md)):** [QRM](https://www.qrm.com/) offers a comprehensive ALM and [risk management](../r/risk_management.md) platform known for its advanced analytical capabilities in managing interest rate risk.
+2. **Z-Score [Risk Management](../r/risk_management.md):** Focuses on providing software for financial risk, including repricing risk, using advanced algorithmic models.
+3. **Fiserv:** [Fiserv](https://www.fiserv.com/) offers technology solutions that integrate ALM and [interest rate risk management](../i/interest_rate_risk_management.md).
 
 ## Real-World Examples
 
@@ -55,8 +55,8 @@ In periods of fluctuating interest rates, banks like SVB must constantly adjust 
 
 ### Example 2: RBC Royal Bank
 
-[Royal Bank of Canada](https://www.rbc.com) (RBC) uses sophisticated gap analysis and duration measures to monitor and manage repricing risk. Through the use of interest rate swaps and other derivative instruments, RBC effectively hedges against potential mismatches that could affect its profitability.
+[Royal Bank of Canada](https://www.rbc.com) (RBC) uses sophisticated gap analysis and duration measures to monitor and manage repricing risk. Through the use of [interest rate swaps](../i/interest_rate_swaps.md) and other derivative instruments, RBC effectively hedges against potential mismatches that could affect its profitability.
 
 ## Conclusion
 
-Repricing risk represents a critical challenge for financial institutions involved in interest-sensitive activities. Effective management requires a thorough understanding of the timing and magnitude of potential interest rate changes and a strategy to align assets and liabilities appropriately. By employing advanced analytical tools and strategic risk management practices, institutions can mitigate the adverse effects of repricing risk, thereby enhancing their stability and profitability.
+Repricing risk represents a critical challenge for financial institutions involved in interest-sensitive activities. Effective management requires a thorough understanding of the timing and magnitude of potential interest rate changes and a strategy to align assets and liabilities appropriately. By employing advanced analytical tools and strategic [risk management](../r/risk_management.md) practices, institutions can mitigate the adverse effects of repricing risk, thereby enhancing their stability and profitability.

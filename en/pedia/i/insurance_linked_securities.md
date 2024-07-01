@@ -35,14 +35,14 @@ These involve securitizing the cash flows from life insurance policies. They can
 
 1. **Diversification**: ILS offer investors exposure to natural catastrophe risks, which have low correlation with traditional financial markets.
 2. **Capital Efficiency**: They help insurers manage their capital more efficiently by transferring risks to the capital markets.
-3. **Risk Management**: Permit insurers to manage and mitigate risk associated with large-scale catastrophic events.
+3. **[Risk Management](../r/risk_management.md)**: Permit insurers to manage and mitigate risk associated with large-scale catastrophic events.
 4. **High-Yield Potential**: Historically, ILS have provided attractive returns compared to traditional fixed-income instruments.
 
 ## Risks of ILS
 
 1. **Event Risk**: As with any investment, there's the potential for a triggering event that may lead to loss of principal.
 2. **Model Risk**: Relies heavily on risk models, which may not fully capture the complexity of real-world events.
-3. **Liquidity Risk**: Some ILS can be difficult to sell in secondary markets.
+3. **[Liquidity Risk](../l/liquidity_risk.md)**: Some ILS can be difficult to sell in secondary markets.
 4. **Regulatory and Legal Risks**: Varying regulatory environments can influence the structure and performance of ILS.
 
 ## Market Participants
@@ -82,4 +82,4 @@ Website: [Aon Securities](https://www.aon.com/aon-securities/)
 
 ## Conclusion
 
-Insurance-Linked Securities represent a sophisticated means of transferring risk from insurance companies to the capital markets. They provide an alternative investment option that is not only diverse but also has the potential for high returns. However, like all investments, they come with their own set of risks, requiring careful evaluation and due diligence. As the market continues to evolve, ILS will likely play an increasingly central role in both risk management and investment portfolios.
+Insurance-Linked Securities represent a sophisticated means of transferring risk from insurance companies to the capital markets. They provide an alternative investment option that is not only diverse but also has the potential for high returns. However, like all investments, they come with their own set of risks, requiring careful evaluation and due diligence. As the market continues to evolve, ILS will likely play an increasingly central role in both [risk management](../r/risk_management.md) and investment portfolios.

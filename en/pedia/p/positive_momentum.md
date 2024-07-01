@@ -1,6 +1,6 @@
 ## Positive Momentum
 
-Positive momentum is a crucial concept in both traditional and algorithmic trading. It refers to the idea that assets which have performed well in the past will continue to perform well in the near future. This phenomenon is based on the tendency of securities to exhibit autocorrelation — their past returns can be predictive of future returns. Positive momentum is often contrasted with mean reversion, which is the idea that assets will return to a long-term average over time.
+Positive momentum is a crucial concept in both traditional and [algorithmic trading](../a/algorithmic_trading.md). It refers to the idea that assets which have performed well in the past will continue to perform well in the near future. This phenomenon is based on the tendency of securities to exhibit [autocorrelation](../a/autocorrelation.md) — their past returns can be predictive of future returns. Positive momentum is often contrasted with [mean reversion](../m/mean_reversion.md), which is the idea that assets will return to a long-term average over time.
 
 ### Measuring Positive Momentum
 
@@ -8,7 +8,7 @@ The measurement of positive momentum often involves a look-back period during wh
 
 #### Momentum Indicators
 
-Several technical indicators are used to measure momentum in trading, including:
+Several [technical indicators](../t/technical_indicators.md) are used to measure momentum in trading, including:
 
 1. **Relative Strength Index (RSI):**
    - RSI measures the magnitude of recent price changes to evaluate overbought or oversold conditions. An RSI value above 70 is typically considered overbought, while below 30 is considered oversold.
@@ -22,15 +22,15 @@ Several technical indicators are used to measure momentum in trading, including:
    - ROC measures the percentage change between the current price and the price n periods ago. High positive values of ROC indicate strong positive momentum.
    - More on ROC: [Investopedia on ROC](https://www.investopedia.com/terms/r/rateofchange.asp).
 
-4. **Stochastic Oscillator:**
+4. **[Stochastic Oscillator](../s/stochastic_oscillator.md):**
    - This indicator compares a particular closing price of a security to a range of its prices over a certain period. It is useful to identify potential reversals in the market.
-   - More on Stochastic Oscillator: [Investopedia on Stochastic Oscillator](https://www.investopedia.com/terms/s/stochasticoscillator.asp).
+   - More on [Stochastic Oscillator](../s/stochastic_oscillator.md): [Investopedia on Stochastic Oscillator](https://www.investopedia.com/terms/s/stochasticoscillator.asp).
 
 ### Theories Behind Positive Momentum
 
 #### Behavioral Finance
 
-Behavioral finance suggests that positive momentum results from psychological factors like herding behavior, where investors follow the actions of their peers. This can cause assets that have been performing well to attract more buyers, pushing prices even higher.
+[Behavioral finance](../b/behavioral_finance.md) suggests that positive momentum results from psychological factors like herding behavior, where investors follow the actions of their peers. This can cause assets that have been performing well to attract more buyers, pushing prices even higher.
 
 #### Market Inefficiencies
 
@@ -44,7 +44,7 @@ Some theories propose that higher risk is rewarded with higher return, implying 
 
 #### Simple Momentum Strategy
 
-A straightforward approach is to buy assets that have had high returns over a chosen look-back period and sell those that have had low returns. This can be implemented in various timescales, from day trading to long-term investment.
+A straightforward approach is to buy assets that have had high returns over a chosen look-back period and sell those that have had low returns. This can be implemented in various timescales, from [day trading](../d/day_trading.md) to long-term investment.
 
 #### Momentum Crash Strategy
 
@@ -58,7 +58,7 @@ Cross-sectional momentum involves ranking assets relative to each other based on
 
 #### Data Collection and Processing
 
-Accurate data collection is foundational to any algorithmic trading strategy. Historical price data, volume, and other relevant metrics need to be fetched from reliable data sources. Providers like Yahoo Finance, Quandl, and Bloomberg offer such data.
+Accurate data collection is foundational to any [algorithmic trading](../a/algorithmic_trading.md) strategy. Historical price data, volume, and other relevant metrics need to be fetched from reliable data sources. Providers like Yahoo Finance, Quandl, and Bloomberg offer such data.
 
 - Quandl API: [Visit Quandl](https://www.quandl.com/tools/api)
 
@@ -71,10 +71,10 @@ Designing a positive momentum algorithm involves various steps:
    - Connect to data sources and fetch historical price data.
 
 2. **Calculate Momentum:**
-   - Compute momentum indicators such as RSI, MACD, ROC, etc.
+   - Compute [momentum indicators](../m/momentum_indicators.md) such as RSI, MACD, ROC, etc.
    - Normalize and store these values for comparison.
 
-3. **Backtesting:**
+3. **[Backtesting](../b/backtesting.md):**
    - Apply historical data to the designed algorithm to see how well it would have performed. 
    - Tools like Backtrader and QuantConnect can be very effective.
 
@@ -82,14 +82,14 @@ Designing a positive momentum algorithm involves various steps:
    - Adjust parameters to optimize returns while minimizing risks.
 
 5. **Implementation:**
-   - Set up a live trading environment, integrating with brokerage APIs (e.g., Alpaca, Interactive Brokers).
+   - Set up a live [trading environment](../t/trading_environment.md), integrating with brokerage APIs (e.g., Alpaca, Interactive Brokers).
    - Regularly rebalance the portfolio based on the momentum signals.
 
 #### Risk Management
 
-Effective risk management is critical. Techniques include:
+Effective [risk management](../r/risk_management.md) is critical. Techniques include:
 
-- Setting stop-loss orders to limit potential losses.
+- Setting [stop-loss orders](../s/stop-loss_orders.md) to limit potential losses.
 - Diversification across different assets and sectors.
 - Regular rebalancing based on updated momentum signals.
 
@@ -115,12 +115,12 @@ Overfitting occurs when a model is excessively complex and captures noise along 
 
 #### Market Conditions
 
-Momentum strategies may underperform during sideways or volatile markets. It's important to adapt strategies or employ them in conjunction with other trading models.
+Momentum strategies may underperform during sideways or volatile markets. It's important to adapt strategies or employ them in conjunction with other [trading models](../t/trading_models.md).
 
 #### Regulatory Concerns
 
-Algorithmic trading strategies, including those based on positive momentum, must comply with regulatory standards, such as those established by the Securities and Exchange Commission (SEC) in the U.S.
+[Algorithmic trading](../a/algorithmic_trading.md) strategies, including those based on positive momentum, must comply with regulatory standards, such as those established by the Securities and Exchange Commission (SEC) in the U.S.
 
 ### Summary
 
-Positive momentum is a cornerstone of many trading strategies, particularly in the sphere of algorithmic trading. While the concept is straightforward, its implementation requires a comprehensive understanding of market behavior, technical indicators, risk management, and algorithm development. Traders who effectively harness positive momentum can potentially achieve significant returns, though they must remain vigilant to risks and continually adapt their strategies to changing market conditions.
+Positive momentum is a cornerstone of many [trading strategies](../t/trading_strategies.md), particularly in the sphere of [algorithmic trading](../a/algorithmic_trading.md). While the concept is straightforward, its implementation requires a comprehensive understanding of market behavior, [technical indicators](../t/technical_indicators.md), [risk management](../r/risk_management.md), and algorithm development. Traders who effectively harness positive momentum can potentially achieve significant returns, though they must remain vigilant to risks and continually adapt their strategies to changing market conditions.

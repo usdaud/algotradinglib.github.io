@@ -1,6 +1,6 @@
 # Portfolio Performance Metrics
 
-In the realm of algorithmic trading and finance, the efficacy and health of a portfolio are judged by a wide array of performance metrics. These metrics help both individual investors and institutional traders assess the risk and return characteristics of their investments. This detailed exploration will delve into key metrics, how they are calculated, and their significance in evaluating a portfolio.
+In the realm of [algorithmic trading](../a/algorithmic_trading.md) and finance, the efficacy and health of a portfolio are judged by a wide array of [performance metrics](../p/performance_metrics.md). These metrics help both individual investors and institutional traders assess the risk and return characteristics of their investments. This detailed exploration will delve into key metrics, how they are calculated, and their significance in evaluating a portfolio.
 
 ## 1. Total Return
 
@@ -48,7 +48,7 @@ Volatility is crucial for understanding the risk associated with a portfolio, as
 
 ## 4. Sharpe Ratio
 
-The Sharpe Ratio measures the risk-adjusted return of the portfolio by adjusting the return by the risk-free rate and dividing it by the portfolio's standard deviation.
+The [Sharpe Ratio](../s/sharpe_ratio.md) measures the [risk-adjusted return](../r/risk-adjusted_return.md) of the portfolio by adjusting the return by the risk-free rate and dividing it by the portfolio's standard deviation.
 
 **Formula:**
 
@@ -63,16 +63,16 @@ Developed by Nobel laureate William F. Sharpe, this ratio helps investors unders
 
 ## 5. Sortino Ratio
 
-An improvement over the Sharpe Ratio, the Sortino Ratio distinguishes between harmful volatility and total volatility by considering only the downside risk.
+An improvement over the [Sharpe Ratio](../s/sharpe_ratio.md), the [Sortino Ratio](../s/sortino_ratio.md) distinguishes between harmful volatility and total volatility by considering only the downside risk.
 
 **Formula:**
 
 \[ S = \frac{R_p - R_f}{\sigma_d} \]
 
 Where:
-- \( \sigma_d \) is the standard deviation of only negative returns (downside deviation)
+- \( \sigma_d \) is the standard deviation of only negative returns ([downside deviation](../d/downside_deviation.md))
 
-The Sortino Ratio provides a clearer picture of the portfolio's performance by focusing on adverse risk.
+The [Sortino Ratio](../s/sortino_ratio.md) provides a clearer picture of the portfolio's performance by focusing on adverse risk.
 
 ## 6. Beta
 
@@ -108,7 +108,7 @@ A positive Alpha indicates that the portfolio has outperformed its benchmark, sh
 
 ## 8. Information Ratio
 
-The Information Ratio (IR) evaluates portfolio returns above the benchmark return, adjusted for tracking error (the standard deviation of the difference between portfolio and benchmark returns).
+The [Information Ratio](../i/information_ratio.md) (IR) evaluates portfolio returns above the benchmark return, adjusted for tracking error (the standard deviation of the difference between portfolio and benchmark returns).
 
 **Formula:**
 
@@ -119,7 +119,7 @@ Where:
 - \( R_b \) is the benchmark return
 - \( \sigma_e \) is the tracking error
 
-The Information Ratio helps gauge the consistency and skill of the portfolio manager in outperforming the benchmark.
+The [Information Ratio](../i/information_ratio.md) helps gauge the consistency and skill of the portfolio manager in outperforming the benchmark.
 
 ## 9. Maximum Drawdown
 
@@ -133,7 +133,7 @@ Maximum Drawdown provides insight into the worst-case scenario for the portfolio
 
 ## 10. Calmar Ratio
 
-The Calmar Ratio compares the portfolio’s annualized return to its maximum drawdown, providing a measure of risk-adjusted return.
+The Calmar Ratio compares the portfolio’s annualized return to its maximum drawdown, providing a measure of [risk-adjusted return](../r/risk-adjusted_return.md).
 
 **Formula:**
 
@@ -153,7 +153,7 @@ Where:
 - \( R_p \) is the portfolio return
 - \( R_f \) is the risk-free rate
 
-The Treynor Ratio, like the Sharpe Ratio, helps in assessing risk-adjusted returns but uses systematic risk as the denominator.
+The Treynor Ratio, like the [Sharpe Ratio](../s/sharpe_ratio.md), helps in assessing risk-adjusted returns but uses [systematic risk](../s/systematic_risk.md) as the denominator.
 
 ## 12. R-Squared
 
@@ -172,25 +172,25 @@ An R-Squared value close to 1 indicates a high correlation between the portfolio
 
 ## 13. Jensen's Alpha
 
-Jensen's Alpha calculates the excess return of the portfolio over the expected return based on the Capital Asset Pricing Model (CAPM).
+[Jensen's Alpha](../j/jensen's_alpha.md) calculates the excess return of the portfolio over the expected return based on the Capital Asset Pricing Model (CAPM).
 
 **Formula:**
 
 \[ \alpha_j = R_p - \left( R_f + \beta (R_m - R_f) \right) \]
 
 Where:
-- \( \alpha_j \) is Jensen's Alpha
+- \( \alpha_j \) is [Jensen's Alpha](../j/jensen's_alpha.md)
 - \( R_p \) is the portfolio return
 - \( R_f \) is the risk-free rate
 - \( \beta \) is the portfolio's Beta
 - \( R_m \) is the market return
 
-Jensen's Alpha is used to measure the risk-adjusted performance and is often favored in assessing the performance of fund managers.
+[Jensen's Alpha](../j/jensen's_alpha.md) is used to measure the risk-adjusted performance and is often favored in assessing the performance of fund managers.
 
 ## Conclusion
 
-Portfolio performance metrics provide vital insights into the risk and return profile of an investment portfolio. They help investors and portfolio managers make informed decisions, benchmark performance, and adjust strategies to achieve financial goals. By understanding and applying these metrics effectively, traders can optimize their investment approach and enhance their chances of achieving superior returns.
+Portfolio [performance metrics](../p/performance_metrics.md) provide vital insights into the risk and return profile of an investment portfolio. They help investors and portfolio managers make informed decisions, benchmark performance, and adjust strategies to achieve financial goals. By understanding and applying these metrics effectively, traders can optimize their investment approach and enhance their chances of achieving superior returns.
 
 ---
 
-For more information on these metrics and how to apply them in your portfolio management strategies, visit [Morningstar](https://www.morningstar.com/) or [MSCI](https://www.msci.com/).
+For more information on these metrics and how to apply them in your [portfolio management](../p/portfolio_management.md) strategies, visit [Morningstar](https://www.morningstar.com/) or [MSCI](https://www.msci.com/).

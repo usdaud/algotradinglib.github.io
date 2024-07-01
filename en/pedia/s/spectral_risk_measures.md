@@ -1,6 +1,6 @@
 # Spectral Risk Measures
 
-Spectral risk measures constitute a sophisticated framework used in the field of financial risk management, quantitative finance, and, specifically, algorithmic trading (algotrading). These risk measures are extensions of coherent risk measures and provide an elegant methodology to account for the risk preferences of individual investors. Spectral risk measures address the limitations of traditional methods (such as Value at Risk (VaR) or Expected Shortfall (ES)) by incorporating a weight function that represents the risk aversion of an investor.
+Spectral risk measures constitute a sophisticated framework used in the field of [financial risk management](../f/financial_risk_management.md), [quantitative finance](../q/quantitative_finance.md), and, specifically, [algorithmic trading](../a/algorithmic_trading.md) (algotrading). These risk measures are extensions of coherent risk measures and provide an elegant methodology to account for the risk preferences of individual investors. Spectral risk measures address the limitations of traditional methods (such as Value at Risk (VaR) or Expected Shortfall (ES)) by incorporating a weight function that represents the risk aversion of an investor.
 
 ## Introduction to Risk Measures
 
@@ -14,7 +14,7 @@ Spectral risk measures come in as a more nuanced and flexible alternative, integ
 
 ## Definition and Mathematical Formulation
 
-A spectral risk measure is a coherent risk measure associated with a spectrum, represented by a function, that weights different quantiles of the loss distribution. Mathematically, a spectral risk measure can be defined via the following steps:
+A spectral risk measure is a coherent risk measure associated with a spectrum, represented by a function, that weights different quantiles of the [loss distribution](../l/loss_distribution.md). Mathematically, a spectral risk measure can be defined via the following steps:
 
 1. **Weight Function**: Define a weighting function, denoted as φ(α), where α lies in the interval [0, 1], representing the level of risk aversion:
     - φ(α) must be non-negative.
@@ -24,7 +24,7 @@ A spectral risk measure is a coherent risk measure associated with a spectrum, r
       \int_0^1 \phi(\alpha) d\alpha = 1
       \]
 
-2. **Loss Distribution**: Let L be a random variable representing the loss of a portfolio.
+2. **[Loss Distribution](../l/loss_distribution.md)**: Let L be a random variable representing the loss of a portfolio.
 
 3. **Quantile Function**: Denote the quantile function of L as \( q_L(α) \), which is the inverse of the cumulative distribution function (CDF) of L.
 
@@ -33,7 +33,7 @@ A spectral risk measure is a coherent risk measure associated with a spectrum, r
     \rho(L) = \int_0^1 q_L(\alpha) \, \phi(\alpha) d\alpha
     \]
 
-Here, q_L(α) represents the quantiles of the loss distribution, and φ(α) weights those quantiles according to the investor's risk attitude.
+Here, q_L(α) represents the quantiles of the [loss distribution](../l/loss_distribution.md), and φ(α) weights those quantiles according to the investor's risk attitude.
 
 ## Properties of Spectral Risk Measures
 
@@ -59,11 +59,11 @@ Several specific spectral risk measures are frequently discussed and applied in 
 
 ## Applications of Spectral Risk Measures in Algotrading
 
-Spectral risk measures are particularly attractive in the realm of algorithmic trading due to their flexibility and alignment with investor preferences. Here’s how they find application:
+Spectral risk measures are particularly attractive in the realm of [algorithmic trading](../a/algorithmic_trading.md) due to their flexibility and alignment with investor preferences. Here’s how they find application:
 
 ### Risk Management
 
-Algorithmic trading strategies often involve multiple positions across various financial instruments. Spectral risk measures help in estimating the potential risks of complex portfolios more accurately by considering investor-specific risk aversion profiles. This results in better risk-adjusted returns and compliance with regulatory standards.
+[Algorithmic trading](../a/algorithmic_trading.md) strategies often involve multiple positions across various financial instruments. Spectral risk measures help in estimating the potential risks of complex portfolios more accurately by considering investor-specific risk aversion profiles. This results in better risk-adjusted returns and compliance with regulatory standards.
 
 ### Portfolio Optimization
 
@@ -75,28 +75,28 @@ Spectral risk measures enable more granular stress testing by assigning differen
 
 ### Algorithm Calibration
 
-The parameters of trading algorithms often need to be calibrated to ensure they perform well under realistic market conditions. Spectral risk measures help in fine-tuning these parameters since they provide a comprehensive risk assessment that aligns with the risk appetite of stakeholders.
+The parameters of [trading algorithms](../t/trading_algorithms.md) often need to be calibrated to ensure they perform well under realistic market conditions. Spectral risk measures help in fine-tuning these parameters since they provide a comprehensive risk assessment that aligns with the risk appetite of stakeholders.
 
 ## Real-world Examples and Case Studies
 
-Several financial institutions and hedge funds have adopted spectral risk measures to enhance their risk management practices and optimize trading strategies. Companies like [MSCI](https://www.msci.com/), which provides risk management tools, have integrated complex risk measures including spectral measures into their product offerings. Another example is [Axioma](https://www.axioma.com/), known for its advanced risk modeling and portfolio construction solutions.
+Several financial institutions and hedge funds have adopted spectral risk measures to enhance their [risk management](../r/risk_management.md) practices and optimize [trading strategies](../t/trading_strategies.md). Companies like [MSCI](https://www.msci.com/), which provides [risk management](../r/risk_management.md) tools, have integrated complex risk measures including spectral measures into their product offerings. Another example is [Axioma](https://www.axioma.com/), known for its advanced risk modeling and portfolio construction solutions.
 
-In practice, the adoption of spectral risk measures helps these firms offer more personalized and accurate risk assessments, boosting investor confidence and promoting more sophisticated trading strategies.
+In practice, the adoption of spectral risk measures helps these firms offer more personalized and accurate risk assessments, boosting investor confidence and promoting more sophisticated [trading strategies](../t/trading_strategies.md).
 
 ### Axioma
 
-Axioma is a notable provider of risk and portfolio management tools that incorporate advanced risk measures, including spectral risk measures. Their solutions allow traders and risk managers to tailor their risk assessments to the specific risk aversion profiles of their investors, improving overall decision-making processes.
+Axioma is a notable provider of risk and [portfolio management](../p/portfolio_management.md) tools that incorporate advanced risk measures, including spectral risk measures. Their solutions allow traders and risk managers to tailor their risk assessments to the specific risk aversion profiles of their investors, improving overall decision-making processes.
 
 For more details, visit: [https://www.axioma.com/](https://www.axioma.com/)
 
 ### MSCI
 
-MSCI provides a wide range of tools and analytics for risk management. The adoption of spectral risk measures allows MSCI clients to achieve a higher degree of precision in their risk evaluations, especially when dealing with complex portfolios in volatile markets.
+MSCI provides a wide range of tools and analytics for [risk management](../r/risk_management.md). The adoption of spectral risk measures allows MSCI clients to achieve a higher degree of precision in their risk evaluations, especially when dealing with complex portfolios in volatile markets.
 
 For more details, visit: [https://www.msci.com/](https://www.msci.com/)
 
 ## Conclusion
 
-Spectral risk measures represent an advanced and flexible approach to risk management, particularly in the context of algorithmic trading. By incorporating investor-specific risk aversion profiles through a weighted function, these measures offer a refined method to assess and manage potential financial losses.
+Spectral risk measures represent an advanced and flexible approach to [risk management](../r/risk_management.md), particularly in the context of [algorithmic trading](../a/algorithmic_trading.md). By incorporating investor-specific risk aversion profiles through a weighted function, these measures offer a refined method to assess and manage potential financial losses.
 
-The adoption of spectral risk measures can lead to more robust risk management, improved portfolio optimization, and enhanced regulatory compliance. As the financial markets evolve and become more complex, the refined capabilities of spectral risk measures are likely to become increasingly indispensable for traders and risk managers alike.
+The adoption of spectral risk measures can lead to more robust [risk management](../r/risk_management.md), improved [portfolio optimization](../p/portfolio_optimization.md), and enhanced regulatory compliance. As the financial markets evolve and become more complex, the refined capabilities of spectral risk measures are likely to become increasingly indispensable for traders and risk managers alike.

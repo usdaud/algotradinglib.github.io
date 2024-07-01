@@ -116,7 +116,7 @@ Investment multiples are valuable tools for assessing a company's past and curre
 Investors use these metrics to make informed decisions, balancing potential returns against the risks associated with a particular stock or portfolio.
 
 ### 4. Valuation Analysis
-Investment multiples are integral in equity research and valuation models, helping analysts establish target prices and investment ratings.
+Investment multiples are integral in [equity research](../e/equity_research.md) and [valuation models](../v/valuation_models.md), helping analysts establish target prices and investment ratings.
 
 ### Example of Practical Application:
 For institutional investors, a high P/E ratio might signal the need for deeper due diligence to understand growth assumptions, while a low EV/EBITDA in a leveraged buyout (LBO) scenario might make a company an attractive acquisition target.

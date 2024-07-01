@@ -1,6 +1,6 @@
 # G7 Economic Indicators
 
-The Group of Seven (G7) is an organization of seven of the world's largest advanced economies: Canada, France, Germany, Italy, Japan, the United Kingdom, and the United States. These countries represent significant portions of the global economy, and their economic indicators are closely watched by investors, policymakers, and economists worldwide. Understanding G7 economic indicators is crucial for grasping the broader economic health and trends that influence global markets. 
+The Group of Seven (G7) is an organization of seven of the world's largest advanced economies: Canada, France, Germany, Italy, Japan, the United Kingdom, and the United States. These countries represent significant portions of the global economy, and their [economic indicators](../e/economic_indicators.md) are closely watched by investors, policymakers, and economists worldwide. Understanding G7 [economic indicators](../e/economic_indicators.md) is crucial for grasping the broader economic health and trends that influence global markets. 
 
 ## GDP (Gross Domestic Product)
 
@@ -124,4 +124,4 @@ Government debt as a percentage of GDP is a measure of a country's ability to re
 
 ## Conclusion
 
-Monitoring G7 economic indicators provides valuable insights into the economic health and trends of some of the world's most powerful economies. These indicators help policymakers, investors, and economists make informed decisions and predictions about future economic conditions and strategies. The links to official statistical agencies and institutions offer access to accurate and up-to-date data for further analysis and understanding.
+Monitoring G7 [economic indicators](../e/economic_indicators.md) provides valuable insights into the economic health and trends of some of the world's most powerful economies. These indicators help policymakers, investors, and economists make informed decisions and predictions about future economic conditions and strategies. The links to official statistical agencies and institutions offer access to accurate and up-to-date data for further analysis and understanding.

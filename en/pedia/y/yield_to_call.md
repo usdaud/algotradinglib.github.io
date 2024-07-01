@@ -46,7 +46,7 @@ Thus, the Yield to Call for this bond is approximately 5.85%.
 
 Understanding Yield to Call is particularly important for investors in callable bonds because these bonds carry the risk that they might be called when interest rates decline. If the bonds are called, investors receive their principal back but are deprived of some future interest payments they might have otherwise received if the bond had matured.
 
-Investors use YTC to compare the return of callable bonds to non-callable bonds, allowing them to make informed investment decisions based on potential returns and risks. A higher YTC might be attractive, but investors should consider the likelihood of the bond being called, especially in a declining interest rate environment.
+Investors use YTC to compare the return of callable bonds to [non-callable bonds](../n/non-callable_bonds.md), allowing them to make informed investment decisions based on potential returns and risks. A higher YTC might be attractive, but investors should consider the likelihood of the bond being called, especially in a declining interest rate environment.
 
 ### Callable Bonds in the Market
 
@@ -62,10 +62,10 @@ Several factors can influence the YTC of a bond:
 
 ### Yield to Call vs. Yield to Maturity
 
-Yield to Call differs from Yield to Maturity (YTM) in that YTM assumes the bond will be held until its maturity date, while YTC considers that the bond might be called at an earlier date. Investors need to consider both yields when assessing callable bonds, weighing the likelihood of the bond being called against the yields offered.
+Yield to Call differs from [Yield to Maturity](../y/yield_to_maturity.md) (YTM) in that YTM assumes the bond will be held until its maturity date, while YTC considers that the bond might be called at an earlier date. Investors need to consider both yields when assessing callable bonds, weighing the likelihood of the bond being called against the yields offered.
 
 ### Conclusion
 
-Yield to Call is an essential tool for investors dealing with callable bonds. It allows them to measure potential returns accurately, considering the possibility of early redemption by the issuer. By evaluating the YTC alongside other metrics like Yield to Maturity, investors can make more informed decisions, balancing their portfolios for optimal returns with manageable risks.
+Yield to Call is an essential tool for investors dealing with callable bonds. It allows them to measure potential returns accurately, considering the possibility of early redemption by the issuer. By evaluating the YTC alongside other metrics like [Yield to Maturity](../y/yield_to_maturity.md), investors can make more informed decisions, balancing their portfolios for optimal returns with manageable risks.
 
 In the sophisticated world of bond investing, particularly with callable bonds issued by major financial institutions or corporations, understanding the subtleties of Yield to Call can significantly influence one’s investment strategy and overall financial health.

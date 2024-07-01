@@ -4,7 +4,7 @@ The J-curve is a phenomenon in economics and investing that refers to the initia
 
 ### Understanding the J-Curve
 
-The J-curve effect occurs when the short-term impact of an event or policy leads to a worse performance measure before things get better. This can be observed in various scenarios such as the performance of new investments, macroeconomic policy changes, or treatments in the medical field.
+The [J-curve effect](../j/j-curve_effect.md) occurs when the short-term impact of an event or policy leads to a worse performance measure before things get better. This can be observed in various scenarios such as the performance of new investments, macroeconomic policy changes, or treatments in the medical field.
 
 #### Key Features of the J-Curve
 
@@ -14,7 +14,7 @@ The J-curve effect occurs when the short-term impact of an event or policy leads
 
 ### J-Curve in Private Equity
 
-In the context of private equity, the J-curve effect is a common occurrence. Initially, when capital is invested in a private equity fund, fund expenses and early-stage investments often lead to negative returns. Over time, as the investments mature and start generating positive returns, the performance of the fund improves.
+In the context of private equity, the [J-curve effect](../j/j-curve_effect.md) is a common occurrence. Initially, when capital is invested in a private equity fund, fund expenses and early-stage investments often lead to negative returns. Over time, as the investments mature and start generating positive returns, the performance of the fund improves.
 
 #### Detailed Phases
 
@@ -24,7 +24,7 @@ In the context of private equity, the J-curve effect is a common occurrence. Ini
 
 ### J-Curve in Venture Capital
 
-Venture capital also experiences a J-curve effect. Initial capital outflows are met with little to no income as startups typically need time to develop and scale. Losses are common during the early years, but successful startups can later contribute to significant returns.
+Venture capital also experiences a [J-curve effect](../j/j-curve_effect.md). Initial capital outflows are met with little to no income as startups typically need time to develop and scale. Losses are common during the early years, but successful startups can later contribute to significant returns.
 
 ### J-Curve in Economics
 
@@ -35,7 +35,7 @@ Economically, the J-curve often describes the effects of currency devaluation. I
 #### Private Equity Firms
 
 1. **Blackstone Group**:
-   [Blackstone Group](https://www.blackstone.com/) is a prominent private equity firm that frequently uses the J-curve theory to explain the performance trajectory of its funds.
+   [Blackstone Group](https://www.blackstone.com/) is a prominent private equity firm that frequently uses the [J-curve theory](../j/j-curve_theory.md) to explain the performance trajectory of its funds.
 2. **The Carlyle Group**:
    [The Carlyle Group](https://www.carlyle.com/) leverages the J-curve when portraying the expected returns to potential investors, acknowledging the initial dip and later gains.
 
@@ -56,5 +56,5 @@ Professional investors employ several techniques to manage the J-curve:
 
 ### Conclusion
 
-The J-curve illustrates an important concept in investment and macroeconomics, emphasizing the temporality of initial losses followed by subsequent gains. This concept aids investors and policymakers in setting expectations and developing strategies to manage the initial adversities for long-term profitability. Understanding the J-curve allows for better risk management, investment planning, and policy-making.
+The J-curve illustrates an important concept in investment and macroeconomics, emphasizing the temporality of initial losses followed by subsequent gains. This concept aids investors and policymakers in setting expectations and developing strategies to manage the initial adversities for long-term profitability. Understanding the J-curve allows for better [risk management](../r/risk_management.md), investment planning, and policy-making.
 

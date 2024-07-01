@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Uncovered Call Writing is a sophisticated options trading strategy employed predominantly by experienced investors to generate additional income. Unlike covered call writing, where the investor owns the underlying asset, uncovered call writing involves selling call options without holding the corresponding security. This approach comes with high risk, but it can be profitable if executed skillfully. This document elaborates on the various aspects of uncovered call writing, including its definition, mechanics, advantages, disadvantages, strategies, and real-world application.
+Uncovered Call Writing is a sophisticated options trading strategy employed predominantly by experienced investors to generate additional income. Unlike [covered call writing](../c/covered_call_writing.md), where the investor owns the underlying asset, uncovered call writing involves selling call options without holding the corresponding security. This approach comes with high risk, but it can be profitable if executed skillfully. This document elaborates on the various aspects of uncovered call writing, including its definition, mechanics, advantages, disadvantages, strategies, and real-world application.
 
 ## Definition and Basics
 
@@ -39,7 +39,7 @@ The key components involved in uncovered call writing include:
 ## Strategies and Techniques
 
 ### Technical Analysis
-Using technical analysis can help in identifying potential levels where the underlying stock may face resistance, thereby reducing the probability that the stock will rise significantly above the strike price.
+Using [technical analysis](../t/technical_analysis.md) can help in identifying potential levels where the underlying stock may face resistance, thereby reducing the probability that the stock will rise significantly above the strike price.
 
 ### Position Sizing
 Managing the size of the positions is crucial to limit exposure and potential losses. Experienced traders often use a small percentage of their capital for uncovered call writing.
@@ -62,7 +62,7 @@ Uncovered call writing is primarily used by institutional investors and hedge fu
 Retail traders with substantial experience in options trading and a deep understanding of market dynamics may use uncovered calls to generate income, though the high-risk nature of the strategy means it is less common.
 
 ### Educational Institutions
-Organizations like the Options Industry Council (OIC) (https://www.optionseducation.org/) provide education about options trading strategies, including uncovered call writing.
+Organizations like the Options Industry Council (OIC) (https://www.optionseducation.org/) provide education about [options trading strategies](../o/options_trading_strategies.md), including uncovered call writing.
 
 ## Conclusion
 

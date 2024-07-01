@@ -30,11 +30,11 @@ Municipal bonds, often referred to as "munis," are debt securities issued by sta
 - **Interest Rate Risk:** Changes in interest rates can affect the market value of existing bonds. If rates rise, the value of existing bonds may fall.
 - **Market Risk:** Economic conditions and events can impact the demand for municipal bonds, thereby affecting their prices and yields.
 - **Call Risk:** Some municipal bonds are callable, meaning the issuer can repay them before maturity, which can affect the expected return.
-- **Liquidity Risk:** Some municipal bonds may not be easily tradable in the market, making it difficult to sell them promptly without impacting the price.
+- **[Liquidity Risk](../l/liquidity_risk.md):** Some municipal bonds may not be easily tradable in the market, making it difficult to sell them promptly without impacting the price.
 
 **Market and Trading of Municipal Bonds**
 
-Municipal bonds are predominantly traded over-the-counter (OTC) rather than on exchanges. Key platforms supporting municipal bond trading and pricing include:
+Municipal bonds are predominantly traded over-the-counter (OTC) rather than on exchanges. Key platforms supporting [municipal bond trading](../m/municipal_bond_trading.md) and pricing include:
 - **Electronic Municipal Market Access (EMMA):** Managed by the Municipal Securities Rulemaking Board (MSRB), EMMA provides market transparency by offering free public access to municipal securities trading data, official disclosures, and educational materials.
   
   [EMMA](https://emma.msrb.org/)

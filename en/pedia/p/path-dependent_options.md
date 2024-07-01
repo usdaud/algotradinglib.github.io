@@ -1,6 +1,6 @@
 ## Path-Dependent Options
 
-Path-dependent options are a type of derivatives where the payoff depends not only on the final price of the underlying asset at expiration but also on the path the asset price takes to reach that final price. This contrasts with traditional options, where the payoff is determined solely based on the underlying asset's price at expiration. Path-dependent options are often used in a range of financial strategies due to their flexibility and the ability to tailor risk and reward profiles more precisely.
+Path-dependent options are a type of [derivatives](../d/derivatives.md) where the payoff depends not only on the final price of the underlying asset at expiration but also on the path the asset price takes to reach that final price. This contrasts with traditional options, where the payoff is determined solely based on the underlying asset's price at expiration. Path-dependent options are often used in a range of financial strategies due to their flexibility and the ability to tailor risk and reward profiles more precisely.
 
 ### Types of Path-Dependent Options
 
@@ -8,7 +8,7 @@ There are several types of path-dependent options, each with unique characterist
 
 1. **Asian Options**
 2. **Barrier Options**
-3. **Lookback Options**
+3. **[Lookback Options](../l/lookback_options.md)**
 4. **Cliquet Options**
 5. **Shout Options**
 
@@ -29,8 +29,8 @@ Barrier options are activated or deactivated if the underlying asset's price tou
 
 **Types of Barrier Options:**
 
-- **Knock-In Options:** These options become active only if the underlying asset's price reaches a certain barrier level.
-- **Knock-Out Options:** These options become void if the underlying asset's price reaches a certain barrier level.
+- **[Knock-In Options](../k/knock-in_options.md):** These options become active only if the underlying asset's price reaches a certain barrier level.
+- **[Knock-Out Options](../k/knock-out_options.md):** These options become void if the underlying asset's price reaches a certain barrier level.
 
 **Further Classification:**
 
@@ -43,12 +43,12 @@ Example: A Down-and-Out Put Option with a barrier at $45 and a strike price of $
 
 #### Lookback Options
 
-Lookback options allow the holder to "look back" over time to determine the payoff, based on the optimal (highest or lowest) price of the underlying asset during the option's life. These are especially useful for hedging purposes when market timing is uncertain.
+[Lookback options](../l/lookback_options.md) allow the holder to "look back" over time to determine the payoff, based on the optimal (highest or lowest) price of the underlying asset during the option's life. These are especially useful for hedging purposes when [market timing](../m/market_timing.md) is uncertain.
 
-**Types of Lookback Options:**
+**Types of [Lookback Options](../l/lookback_options.md):**
 
-- **Fixed Lookback Options:** The payoff is based on the difference between the strike price and the optimal price of the underlying asset during the option's life.
-- **Floating Lookback Options:** The payoff is determined by the difference between the optimal price of the underlying asset and the market price at maturity.
+- **Fixed [Lookback Options](../l/lookback_options.md):** The payoff is based on the difference between the strike price and the optimal price of the underlying asset during the option's life.
+- **Floating [Lookback Options](../l/lookback_options.md):** The payoff is determined by the difference between the optimal price of the underlying asset and the market price at maturity.
 
 Example: For a Floating Lookback Call Option, if the highest price of the underlying asset during the option's life is $60, and the price at maturity is $55, the payoff would be $5 if the strike is $50.
 
@@ -63,28 +63,28 @@ Example: A cliquet option with annual resets might have a series of three call o
 Path-dependent options offer several advantages in financial strategies:
 
 1. **Hedging:** Investors can use path-dependent options to hedge against specific risks more efficiently. For example, a company with exposure to commodity prices might use Asian options to mitigate the impact of price volatility over time.
-2. **Customized Payoff Structures:** Traders can tailor path-dependent options to create payoff structures that align closely with their market outlook or investment goals.
+2. **Customized [Payoff Structures](../p/payoff_structures.md):** Traders can tailor path-dependent options to create [payoff structures](../p/payoff_structures.md) that align closely with their market outlook or investment goals.
 3. **Reduction of Market Manipulation Risk:** Since the payoff of path-dependent options often depends on average prices or price behavior over time, they are less susceptible to manipulation attempts at expiration.
 4. **Enhanced Returns:** Certain types of path-dependent options, such as lookback and cliquet options, can provide enhanced returns by effectively capturing the best price movements over time.
 
 ### Pricing Path-Dependent Options
 
-The complexity of path-dependent options means that their pricing involves more sophisticated methods than traditional options. Numerical methods, such as Monte Carlo simulation and finite difference methods, are commonly used to price these derivatives. These models take into account the stochastic nature of asset prices and the specific conditions of each option type.
+The complexity of path-dependent options means that their pricing involves more sophisticated methods than traditional options. Numerical methods, such as [Monte Carlo simulation](../m/monte_carlo_simulation.md) and [finite difference methods](../f/finite_difference_methods.md), are commonly used to price these [derivatives](../d/derivatives.md). These models take into account the stochastic nature of asset prices and the specific conditions of each option type.
 
-**Monte Carlo Simulation:** This is a popular method for pricing path-dependent options by simulating a large number of possible price paths for the underlying asset and computing the average payoff. It is particularly useful for options with complex paths and features.
+**[Monte Carlo Simulation](../m/monte_carlo_simulation.md):** This is a popular method for pricing path-dependent options by simulating a large number of possible price paths for the underlying asset and computing the average payoff. It is particularly useful for options with complex paths and features.
 
-**Finite Difference Methods:** These methods solve the partial differential equations (PDEs) associated with the option's pricing model. Finite difference methods are generally used for simpler path-dependent options with well-defined boundaries.
+**[Finite Difference Methods](../f/finite_difference_methods.md):** These methods solve the partial differential equations (PDEs) associated with the option's pricing model. [Finite difference methods](../f/finite_difference_methods.md) are generally used for simpler path-dependent options with well-defined boundaries.
 
 ### Example of a Monte Carlo Simulation for Pricing an Asian Option
 
-Below is an example of how Monte Carlo simulation can be used to price an Asian Option in Python:
+Below is an example of how [Monte Carlo simulation](../m/monte_carlo_simulation.md) can be used to price an Asian Option in Python:
 
 ```python
 import numpy as np
 
 def monte_carlo_asian_option_price(S0, K, T, r, sigma, n, M, option_type='call'):
     """
-    Monte Carlo simulation for pricing an Asian option
+    [Monte Carlo simulation](../m/monte_carlo_simulation.md) for pricing an Asian option
     S0: initial stock price
     K: strike price
     T: time to maturity
@@ -135,4 +135,4 @@ Despite their advantages, path-dependent options come with certain challenges:
 
 ### Conclusion
 
-Path-dependent options provide sophisticated tools for investors and traders to manage risk and enhance returns. Their unique characteristic of depending on the price path of the underlying asset allows for the creation of customized payoff structures that can address specific investment needs and market conditions. While they offer substantial benefits, the complexity and potential challenges necessitate careful consideration and robust modeling techniques to ensure their effective use in financial strategies.
+Path-dependent options provide sophisticated tools for investors and traders to manage risk and enhance returns. Their unique characteristic of depending on the price path of the underlying asset allows for the creation of customized [payoff structures](../p/payoff_structures.md) that can address specific investment needs and market conditions. While they offer substantial benefits, the complexity and potential challenges necessitate careful consideration and robust modeling techniques to ensure their effective use in financial strategies.

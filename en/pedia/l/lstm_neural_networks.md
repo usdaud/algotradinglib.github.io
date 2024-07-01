@@ -76,15 +76,15 @@ Several variations and enhancements to the standard LSTM architecture have been 
 
 LSTM networks have shown remarkable performance across diverse domains:
 
-1. **Time Series Forecasting**: Useful for stock market prediction, weather forecasting, and other time-dependent data analysis. Example of companies employing LSTM for time series forecasting include [Numerai](https://numer.ai/) and [QuantConnect](https://www.quantconnect.com/).
+1. **[Time Series Forecasting](../t/time_series_forecasting.md)**: Useful for stock market prediction, weather forecasting, and other time-dependent data analysis. Example of companies employing LSTM for [time series forecasting](../t/time_series_forecasting.md) include [Numerai](https://numer.ai/) and [QuantConnect](https://www.quantconnect.com/).
 
 2. **Natural Language Processing (NLP)**: Applications range from language modeling, machine translation, to text summarization. Companies like [Google](https://ai.google/research/) and [OpenAI](https://www.openai.com/) utilize LSTM networks for various NLP tasks.
 
 3. **Speech Recognition**: LSTM networks are foundational in transforming speech to text accurately, used by products like Google's Voice Assistant and Apple's Siri.
 
-4. **Anomaly Detection**: In cybersecurity and fault detection in industrial systems, where identifying abnormal patterns in sequences is crucial. Companies like [Darktrace](https://www.darktrace.com/) apply LSTMs for these purposes.
+4. **[Anomaly Detection](../a/anomaly_detection.md)**: In cybersecurity and fault detection in industrial systems, where identifying abnormal patterns in sequences is crucial. Companies like [Darktrace](https://www.darktrace.com/) apply LSTMs for these purposes.
 
-5. **Healthcare**: Predictive modeling in patient health records, early detection of diseases, and genomics. [IBM Watson Health](https://www.ibm.com/watson-health) is an example.
+5. **Healthcare**: [Predictive modeling](../p/predictive_modeling.md) in patient health records, early detection of diseases, and genomics. [IBM Watson Health](https://www.ibm.com/watson-health) is an example.
 
 ### Conclusion
 

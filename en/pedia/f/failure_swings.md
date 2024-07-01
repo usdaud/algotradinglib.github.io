@@ -1,6 +1,6 @@
 # Failure Swings
 
-Failure swings are a crucial concept in technical analysis, specifically in the context of relative strength index (RSI), one of the most widely used indicators in algorithmic trading. Failure swings provide a signal that can indicate the potential reversal of a current trend or the continuation of an existing trend under certain conditions. This document explores the intricacies of failure swings, their significance in trading, and ways traders can incorporate these signals into algorithmic trading strategies.
+Failure swings are a crucial concept in [technical analysis](../t/technical_analysis.md), specifically in the context of relative strength index (RSI), one of the most widely used indicators in [algorithmic trading](../a/algorithmic_trading.md). Failure swings provide a signal that can indicate the potential reversal of a current trend or the continuation of an existing trend under certain conditions. This document explores the intricacies of failure swings, their significance in trading, and ways traders can incorporate these signals into [algorithmic trading](../a/algorithmic_trading.md) strategies.
 
 ## Introduction to Failure Swings
 
@@ -26,39 +26,39 @@ There are two main types of failure swings:
     - The RSI moves below 30, indicating oversold conditions.
     - RSI then rebounds, often reaching around 50, but fails to reach the overbought zone (above 70).
     - RSI turns downwards again but halts before hitting 30 and then moves upwards beyond the recent high.
-    - These movements suggest that the selling pressure is weakening, and buying might resume, indicating a potential trend reversal to the upside.
+    - These movements suggest that the selling pressure is weakening, and buying might resume, indicating a potential [trend reversal](../t/trend_reversal.md) to the upside.
 
 2. **Bearish Failure Swing**: This takes place during a downtrend and involves:
     - The RSI moves above 70, signaling overbought conditions.
     - RSI drops back, often reaching around 50, but fails to drop to the oversold area (below 30).
     - RSI then moves upwards again but doesn’t hit 70 and then reverses direction to move downwards past the recent low.
-    - These moves suggest that the buying pressure is weakening, and selling may resume, implying a possible trend reversal to the downside.
+    - These moves suggest that the buying pressure is weakening, and selling may resume, implying a possible [trend reversal](../t/trend_reversal.md) to the downside.
 
 ## Identifying and Using Failure Swings
 
-Identifying failure swings requires monitoring RSI movements closely. Traders need to set thresholds based on historical data and specific trading strategies. The practical steps for identifying a bullish or bearish failure swing encompass:
+Identifying failure swings requires monitoring RSI movements closely. Traders need to set thresholds based on historical data and specific [trading strategies](../t/trading_strategies.md). The practical steps for identifying a bullish or bearish failure swing encompass:
 
 1. **Observe Overbought/Oversold Conditions**: Traders first identify if the RSI has breached the standard overbought (above 70) or oversold (below 30) thresholds.
 
 2. **Track RSI Rebounds and Pullbacks**: Following the initial signal, traders then monitor RSI rebounds or pullbacks to identify if the index halts before re-entering the overbought or oversold zones.
 
-3. **Confirmation of Failure Swing**: The move beyond the recent high or low, post the halt, signals a potential failure swing and thus a possible trend reversal.
+3. **Confirmation of Failure Swing**: The move beyond the recent high or low, post the halt, signals a potential failure swing and thus a possible [trend reversal](../t/trend_reversal.md).
 
 ## Integrating Failure Swings into Algorithmic Trading
 
-Algorithmic trading relies heavily on automation and predefined strategies. Here's how failure swings can be integrated into these systems:
+[Algorithmic trading](../a/algorithmic_trading.md) relies heavily on automation and predefined strategies. Here's how failure swings can be integrated into these systems:
 
 1. **Algorithm Development**: Write scripts or algorithms to automate the identification of failure swings based on historical data and RSI calculations. These scripts should be capable of monitoring RSI values real-time and triggering alerts or trades based on identified patterns.
 
-2. **Backtesting**: Before deploying any algorithm, perform rigorous backtesting using historical data to ensure that the algorithm behaves as expected under different market conditions. This will help in refining the thresholds and signals further.
+2. **[Backtesting](../b/backtesting.md)**: Before deploying any algorithm, perform rigorous [backtesting](../b/backtesting.md) using historical data to ensure that the algorithm behaves as expected under different market conditions. This will help in refining the thresholds and signals further.
 
-3. **Real-time Monitoring**: Utilize real-time data feeds to monitor market conditions. Tools like `Alpha Vantage` or `Quandl` provide live market data that can be integrated into trading algorithms.
+3. **Real-time Monitoring**: Utilize real-time data feeds to monitor market conditions. Tools like `Alpha Vantage` or `Quandl` provide live market data that can be integrated into [trading algorithms](../t/trading_algorithms.md).
 
-4. **Risk Management**: Incorporate risk management rules within the algorithm to handle unexpected market volatility. This includes setting stop-loss orders, defining maximum risk per trade, and deciding on position sizes.
+4. **[Risk Management](../r/risk_management.md)**: Incorporate [risk management](../r/risk_management.md) rules within the algorithm to handle unexpected market volatility. This includes setting [stop-loss orders](../s/stop-loss_orders.md), defining maximum risk per trade, and deciding on position sizes.
 
 ## Case Study: Implementing Failure Swings with Python
 
-One way to practically implement failure swings in an algorithmic trading system is by using programming languages like Python. Here's a simplified example of how you might go about it:
+One way to practically implement failure swings in an [algorithmic trading](../a/algorithmic_trading.md) system is by using programming languages like Python. Here's a simplified example of how you might go about it:
 
 ```python
 import pandas as pd
@@ -109,12 +109,12 @@ print('Bearish Failure Swings:', bearish_failure_swings)
 
 ## Practical Considerations
 
-- **Market Cycles**: Consider the phase of the market cycle before acting on failure swings. These signals can be more reliable in volatile markets than in stable, trending markets without significant price actions.
+- **[Market Cycles](../m/market_cycles.md)**: Consider the phase of the market cycle before acting on failure swings. These signals can be more reliable in volatile markets than in stable, trending markets without significant price actions.
 
 - **Multiple Time Frames**: Use multiple time frames to confirm failure swings. For instance, confirming a failure swing in daily data with weekly data can strengthen the signal.
 
-- **Combination with Other Indicators**: Failure swings should not be used in isolation. Combining them with other indicators such as moving averages, MACD (Moving Average Convergence Divergence), or Bollinger Bands can enhance the reliability of signals.
+- **Combination with Other Indicators**: Failure swings should not be used in isolation. Combining them with other indicators such as moving averages, MACD (Moving Average Convergence Divergence), or [Bollinger Bands](../b/bollinger_bands.md) can enhance the reliability of signals.
 
 ## Conclusion
 
-Failure swings provide valuable insights into potential trend reversals in the market, based on RSI movements. They can be instrumental for traders looking to capitalize on buying or selling opportunities before the rest of the market catches on. By integrating failure swings into algorithmic trading strategies, traders can automate the process and react promptly to market changes, gaining a competitive edge. Proper implementation requires thorough understanding, backtesting, and a blend of other technical indicators to maximize the efficacy of failure swing signals.
+Failure swings provide valuable insights into potential trend reversals in the market, based on RSI movements. They can be instrumental for traders looking to capitalize on buying or selling opportunities before the rest of the market catches on. By integrating failure swings into [algorithmic trading](../a/algorithmic_trading.md) strategies, traders can automate the process and react promptly to market changes, gaining a competitive edge. Proper implementation requires thorough understanding, [backtesting](../b/backtesting.md), and a blend of other [technical indicators](../t/technical_indicators.md) to maximize the efficacy of failure swing signals.

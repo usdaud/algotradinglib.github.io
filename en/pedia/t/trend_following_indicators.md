@@ -1,6 +1,6 @@
 # Trend Following Indicators
 
-Trend following is a widely respected methodology in the world of algorithmic trading that focuses on identifying the general direction of market prices. Trend-following strategies aim to profit by riding the wave of the market’s momentum. This section dives deep into the various trend-following indicators that traders utilize to make data-driven decisions. These indicators are potent tools that help traders to confirm existing trends and make predictions about future price movements.
+[Trend following](../t/trend_following.md) is a widely respected methodology in the world of [algorithmic trading](../a/algorithmic_trading.md) that focuses on identifying the general direction of market prices. Trend-following strategies aim to profit by riding the wave of the market’s momentum. This section dives deep into the various trend-following indicators that traders utilize to make data-driven decisions. These indicators are potent tools that help traders to confirm existing trends and make predictions about future price movements.
 
 ## Moving Averages (MA)
 
@@ -12,7 +12,7 @@ Moving Averages are perhaps the most commonly used trend-following indicators. T
 
 ### Application in Trading
 
-Traders use crossovers of MAs to generate buy/sell signals. For instance, a common strategy is the Golden Cross, where the 50-day SMA crosses above the 200-day SMA, signaling a potential uptrend. Conversely, a Death Cross occurs when the 50-day SMA crosses below the 200-day SMA, suggesting a potential downtrend.
+Traders use crossovers of MAs to generate buy/sell signals. For instance, a common strategy is the [Golden Cross](../g/golden_cross.md), where the 50-day SMA crosses above the 200-day SMA, signaling a potential uptrend. Conversely, a Death Cross occurs when the 50-day SMA crosses below the 200-day SMA, suggesting a potential downtrend.
 
 ## Moving Average Convergence Divergence (MACD)
 
@@ -39,7 +39,7 @@ The ADX is a trend strength indicator, not a trend direction indicator. It consi
 
 ## Bollinger Bands
 
-Bollinger Bands consist of a middle band being an N-period SMA (simple moving average), an upper band at K times an N-period standard deviation above the middle band, and a lower band at K times an N-period standard deviation below the middle band.
+[Bollinger Bands](../b/bollinger_bands.md) consist of a middle band being an N-period SMA (simple moving average), an upper band at K times an N-period standard deviation above the middle band, and a lower band at K times an N-period standard deviation below the middle band.
 
 ### Utilization in Strategies
 
@@ -48,7 +48,7 @@ Bollinger Bands consist of a middle band being an N-period SMA (simple moving av
 
 ## Ichimoku Cloud
 
-Also called the Ichimoku Kinko Hyo, this tool is often used for identifying future areas of support and resistance. It is composed of five main components:
+Also called the Ichimoku Kinko Hyo, this tool is often used for identifying future areas of [support and resistance](../s/support_and_resistance.md). It is composed of five main components:
 
 1. **Tenkan-sen (Conversion Line)**: The average of the highest high and the lowest low over the last 9 periods.
 2. **Kijun-sen (Base Line)**: The average of the highest high and the lowest low over the last 26 periods.
@@ -90,7 +90,7 @@ Donchian Channels were developed by Richard Donchian and consist of three lines:
 
 ## Turtle Trading Strategy
 
-Developed by Richard Dennis and William Eckhardt, this system employs breakout strategies to determine entry and exit points. This strategy heavily depends on Donchian Channels for trade signals and has specific rules for position sizing and risk management.
+Developed by Richard Dennis and William Eckhardt, this system employs breakout strategies to determine entry and exit points. This strategy heavily depends on Donchian Channels for trade signals and has specific rules for [position sizing](../p/position_sizing.md) and [risk management](../r/risk_management.md).
 
 ### Rules
 

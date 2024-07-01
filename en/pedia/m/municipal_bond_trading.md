@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Municipal bonds, often referred to as "munis," are debt securities issued by states, municipalities, or counties to finance public projects such as schools, highways, and hospitals. Municipal bond trading involves the buying and selling of these bonds in both primary and secondary markets. This article provides an in-depth exploration of municipal bond trading, including the types of municipal bonds, the mechanisms of trading, the key players involved, and the role of algorithmic trading in this niche market.
+[Municipal bonds](../m/municipal_bonds.md), often referred to as "munis," are debt securities issued by states, municipalities, or counties to finance public projects such as schools, highways, and hospitals. Municipal bond trading involves the buying and selling of these bonds in both primary and secondary markets. This article provides an in-depth exploration of municipal bond trading, including the types of [municipal bonds](../m/municipal_bonds.md), the mechanisms of trading, the key players involved, and the role of [algorithmic trading](../a/algorithmic_trading.md) in this niche market.
 
 ### Types of Municipal Bonds
 
@@ -20,13 +20,13 @@ Assessment Bonds are repaid through assessments on the properties that benefit f
 
 #### Taxable Municipal Bonds
 
-While most municipal bonds are tax-exempt, some are taxable, meaning the interest earned is subject to federal and possibly state and local taxes. These are usually issued for projects that do not qualify for tax-exempt status under federal laws.
+While most [municipal bonds](../m/municipal_bonds.md) are tax-exempt, some are taxable, meaning the interest earned is subject to federal and possibly state and local taxes. These are usually issued for projects that do not qualify for tax-exempt status under federal laws.
 
 ### The Trading Process
 
 #### Primary Market
 
-In the primary market, municipal bonds are issued and sold to investors for the first time. The process generally involves the following steps:
+In the primary market, [municipal bonds](../m/municipal_bonds.md) are issued and sold to investors for the first time. The process generally involves the following steps:
 
 1. **Issuance Proposal**: The issuing authority proposes a bond issue to finance a project.
 2. **Approval Process**: The proposal is reviewed and approved, often requiring voter approval through a referendum.
@@ -36,13 +36,13 @@ In the primary market, municipal bonds are issued and sold to investors for the 
 
 #### Secondary Market
 
-In the secondary market, previously issued municipal bonds are bought and sold among investors. Trading can occur over-the-counter (OTC) or through electronic trading platforms. The secondary market provides liquidity, allowing investors to buy and sell bonds before they reach maturity.
+In the secondary market, previously issued [municipal bonds](../m/municipal_bonds.md) are bought and sold among investors. Trading can occur over-the-counter (OTC) or through electronic trading platforms. The secondary market provides liquidity, allowing investors to buy and sell bonds before they reach maturity.
 
 ### Key Market Participants
 
 #### Issuers
 
-Entities such as state governments, local municipalities, and special purpose districts issue municipal bonds to fund public projects.
+Entities such as state governments, local municipalities, and special purpose districts issue [municipal bonds](../m/municipal_bonds.md) to fund public projects.
 
 #### Underwriters
 
@@ -54,7 +54,7 @@ These include individual investors, mutual funds, insurance companies, and pensi
 
 #### Rating Agencies
 
-Agencies like Moody's, Standard & Poor's, and Fitch provide credit ratings for municipal bonds, assessing their risk level and informing investors.
+Agencies like Moody's, Standard & Poor's, and Fitch provide credit ratings for [municipal bonds](../m/municipal_bonds.md), assessing their risk level and informing investors.
 
 #### Dealers and Brokers
 
@@ -62,7 +62,7 @@ Entities that facilitate the buying and selling of bonds in the secondary market
 
 ### Role of Algorithmic Trading
 
-Algorithmic trading uses mathematical models and automated algorithms to execute trades at high speeds and volumes, often without human intervention. In the municipal bond market, algorithmic trading can enhance efficiency, pricing accuracy, and liquidity. Firms like BlackRock (https://www.blackrock.com/) and Two Sigma (https://www.twosigma.com/) are known for employing advanced technologies in their trading strategies.
+[Algorithmic trading](../a/algorithmic_trading.md) uses mathematical models and automated algorithms to execute trades at high speeds and volumes, often without human intervention. In the municipal bond market, [algorithmic trading](../a/algorithmic_trading.md) can enhance efficiency, pricing accuracy, and liquidity. Firms like BlackRock (https://www.blackrock.com/) and Two Sigma (https://www.twosigma.com/) are known for employing advanced technologies in their [trading strategies](../t/trading_strategies.md).
 
 #### Advantages of Algorithmic Trading
 
@@ -93,4 +93,4 @@ FINRA enforces the rules set by the MSRB and the SEC, conducting oversight and d
 
 ### Conclusion
 
-Municipal bond trading is a complex but vital part of the financial markets, providing essential funding for public projects and offering diverse investment opportunities. The emergence of algorithmic trading has significantly influenced this market, improving efficiency but also introducing new challenges. Understanding the intricacies of municipal bond trading, from the types of bonds to the regulatory environment, is crucial for investors and market participants alike.
+Municipal bond trading is a complex but vital part of the financial markets, providing essential funding for public projects and offering diverse investment opportunities. The emergence of [algorithmic trading](../a/algorithmic_trading.md) has significantly influenced this market, improving efficiency but also introducing new challenges. Understanding the intricacies of municipal bond trading, from the types of bonds to the regulatory environment, is crucial for investors and market participants alike.

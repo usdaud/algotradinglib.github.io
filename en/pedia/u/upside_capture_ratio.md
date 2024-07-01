@@ -19,8 +19,8 @@ Here:
 ## Importance in Performance Assessment
 
 The Upside Capture Ratio is essential for understanding how well an investment (such as a mutual fund, ETF, etc.) performs in favorable market conditions:
-- **Benchmark Comparison**: It offers a direct comparison to a benchmark, highlighting whether the manager is adding excess returns during upswings.
-- **Risk Management**: Balancing UCR with the Downside Capture Ratio (DCR) helps investors understand how a fund performs in both positive and negative market conditions.
+- **[Benchmark Comparison](../b/benchmark_comparison.md)**: It offers a direct comparison to a benchmark, highlighting whether the manager is adding excess returns during upswings.
+- **[Risk Management](../r/risk_management.md)**: Balancing UCR with the Downside Capture Ratio (DCR) helps investors understand how a fund performs in both positive and negative market conditions.
 - **Investment Decisions**: Allows investors to choose funds that are more likely to deliver higher returns in rising markets.
 
 ## Interpreting the Ratio

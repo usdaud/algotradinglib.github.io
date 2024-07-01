@@ -20,7 +20,7 @@ Growth stocks represent shares in companies that are expected to grow at an abov
 
 1. **Capital Appreciation**: The most prominent benefit of growth stocks is the potential for capital appreciation. If the company's earnings and revenues increase as expected, the stock price is also likely to rise, generating significant returns.
 
-2. **Portfolio Diversification**: Including growth stocks in a diversified investment portfolio can offer high return potential and balance the stable, yet lower-growth investments typically found in value or income stocks.
+2. **[Portfolio Diversification](../p/portfolio_diversification.md)**: Including growth stocks in a diversified investment portfolio can offer high return potential and balance the stable, yet lower-growth investments typically found in value or income stocks.
 
 3. **Aligning with Market Trends**: Growth stocks often align with current market and technological trends, allowing investors to capitalize on broader economic shifts and innovations.
 

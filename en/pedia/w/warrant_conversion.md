@@ -44,22 +44,22 @@ The conversion of a warrant involves exercising the right to purchase the underl
 
 #### Algorithmic Trading Strategies Involving Warrants
 
-1. **Arbitrage:**
-   Algorithmic trading can exploit price differences between the warrant and the underlying stock for arbitrage opportunities. This involves simultaneously buying the warrant and shorting the stock or vice versa.
+1. **[Arbitrage](../a/arbitrage.md):**
+   [Algorithmic trading](../a/algorithmic_trading.md) can exploit price differences between the warrant and the underlying stock for [arbitrage](../a/arbitrage.md) opportunities. This involves simultaneously buying the warrant and shorting the stock or vice versa.
 
-2. **Delta Hedging:**
-   Since warrants derive their value from the underlying stock, algorithms can perform delta hedging to manage the risk associated with the price movements of the underlying asset. This involves adjusting the portfolio to maintain a delta-neutral position, calculated based on the warrant’s delta.
+2. **[Delta Hedging](../d/delta_hedging.md):**
+   Since warrants derive their value from the underlying stock, algorithms can perform [delta hedging](../d/delta_hedging.md) to manage the risk associated with the price movements of the underlying asset. This involves adjusting the portfolio to maintain a delta-neutral position, calculated based on the warrant’s delta.
 
-3. **Gamma Scalping:**
-   Algorithms can execute gamma scalping strategies, which involve dynamically adjusting delta-hedged positions to profit from volatility in the underlying stock price. The algorithms continuously buy low and sell high to capture profit.
+3. **[Gamma Scalping](../g/gamma_scalping.md):**
+   Algorithms can execute [gamma scalping](../g/gamma_scalping.md) strategies, which involve dynamically adjusting delta-hedged positions to profit from volatility in the underlying stock price. The algorithms continuously buy low and sell high to capture profit.
 
-4. **Statistical Arbitrage:**
+4. **Statistical [Arbitrage](../a/arbitrage.md):**
    This strategy involves algorithms trading based on historical statistical relationships between the warrant and the underlying stock. It typically uses complex mathematical models to identify mispricings and execute trades.
 
 #### Leading Companies in Warrant Conversion Process
 
 1. **Interactive Brokers:** 
-   Interactive Brokers provides a platform for trading and converting warrants through its brokerage services.
+   Interactive Brokers provides a platform for trading and converting warrants through its [brokerage services](../b/brokerage_services.md).
    [Interactive Brokers](https://www.interactivebrokers.com/)
 
 2. **E*TRADE:**
@@ -87,4 +87,4 @@ The conversion of a warrant involves exercising the right to purchase the underl
 
 #### Conclusion
 
-Warrant conversion is a sophisticated financial mechanism providing lucrative opportunities for both issuers and investors. In the realm of algorithmic trading, warrant conversion opens up a variety of strategies aimed at exploiting market inefficiencies and managing risk. As technology and financial markets evolve, the interplay between warrants and algorithmic trading is likely to become increasingly complex and integral to advanced trading strategies. Understanding the mechanics of warrant conversion, economic implications, and regulatory landscape is crucial for anyone involved in these dynamic aspects of financial markets.
+Warrant conversion is a sophisticated financial mechanism providing lucrative opportunities for both issuers and investors. In the realm of [algorithmic trading](../a/algorithmic_trading.md), warrant conversion opens up a variety of strategies aimed at exploiting market inefficiencies and managing risk. As technology and financial markets evolve, the interplay between warrants and [algorithmic trading](../a/algorithmic_trading.md) is likely to become increasingly complex and integral to advanced [trading strategies](../t/trading_strategies.md). Understanding the mechanics of warrant conversion, economic implications, and regulatory landscape is crucial for anyone involved in these dynamic aspects of financial markets.

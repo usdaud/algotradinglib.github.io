@@ -3,7 +3,7 @@
 
 ### Understanding Risk Budgeting
 
-Risk budgeting is a comprehensive approach to risk management that helps traders, especially those engaged in algorithmic trading, allocate their risk capital in an efficient manner. Essentially, risk budgeting involves setting risk limits for various aspects of a trading portfolio and ensuring that the total risk does not exceed the predetermined risk capacity. This approach ensures that risks are diversified and balanced, preventing significant losses from any single trade.
+Risk budgeting is a comprehensive approach to [risk management](../r/risk_management.md) that helps traders, especially those engaged in [algorithmic trading](../a/algorithmic_trading.md), allocate their risk capital in an efficient manner. Essentially, risk budgeting involves setting risk limits for various aspects of a trading portfolio and ensuring that the total risk does not exceed the predetermined risk capacity. This approach ensures that risks are diversified and balanced, preventing significant losses from any single trade.
 
 ### Core Concepts of Risk Budgeting
 
@@ -18,7 +18,7 @@ Risk budgeting is a comprehensive approach to risk management that helps traders
 
 ### Importance in Algorithmic Trading
 
-Algorithmic trading relies heavily on quantitative models and automated systems to execute trades. These systems can process large volumes of data at high speeds, allowing for more efficient trading. However, this also comes with significant risks. Here's why risk budgeting is crucial:
+[Algorithmic trading](../a/algorithmic_trading.md) relies heavily on [quantitative models](../q/quantitative_models.md) and automated systems to execute trades. These systems can process large volumes of data at high speeds, allowing for more efficient trading. However, this also comes with significant risks. Here's why risk budgeting is crucial:
 
 - **Preventing Overexposure**: 
   Automated systems can place thousands of trades in a short period. Without proper risk limits, this can lead to substantial losses.
@@ -35,13 +35,13 @@ Algorithmic trading relies heavily on quantitative models and automated systems 
     - VaR is a statistical measure that estimates the maximum potential loss of a portfolio over a specific time frame at a given confidence level. It is a popular technique in risk budgeting as it quantifies risk in monetary terms.
 
 2. **Conditional Value at Risk (CVaR)**:
-    - CVaR, also known as Expected Shortfall, provides an estimate of the average loss beyond the VaR threshold. It helps in understanding the tail risk and is used to set more stringent risk limits.
+    - CVaR, also known as Expected Shortfall, provides an estimate of the average loss beyond the VaR threshold. It helps in understanding the [tail risk](../t/tail_risk.md) and is used to set more stringent risk limits.
 
 3. **Beta Adjusted Positions**:
     - Beta measures the sensitivity of a portfolio to market movements. By adjusting positions based on their beta, traders can control their market exposure. This technique ensures that the risk budget remains within limits during volatile market conditions.
 
 4. **Stress Testing and Scenario Analysis**:
-    - Stress testing involves evaluating the impact of extreme market conditions on a portfolio. Scenario analysis, on the other hand, assesses the impact of specific hypothetical events. Together, they help in understanding the potential risks that aren't captured by standard risk metrics.
+    - Stress testing involves evaluating the impact of extreme market conditions on a portfolio. Scenario analysis, on the other hand, assesses the impact of specific hypothetical events. Together, they help in understanding the potential risks that aren't captured by standard [risk metrics](../r/risk_metrics.md).
 
 ### Practical Implementation
 
@@ -51,10 +51,10 @@ To implement risk budgeting effectively, traders and institutions employ various
     - Traders must clearly define their financial objectives and any constraints (such as regulatory requirements or liquidity needs). This forms the basis for setting risk budgets.
 
 2. **Portfolio Construction**:
-    - Using quantitative models, traders construct a portfolio that aligns with the defined risk budget. This involves selecting assets and strategies that fit within the allocated risk.
+    - Using [quantitative models](../q/quantitative_models.md), traders construct a portfolio that aligns with the defined risk budget. This involves selecting assets and strategies that fit within the allocated risk.
 
 3. **Continuous Monitoring**:
-    - Risk management is an ongoing process. Traders must continuously monitor their portfolios to ensure they remain within the set risk limits. Automated systems and alert mechanisms are often used for this purpose.
+    - [Risk management](../r/risk_management.md) is an ongoing process. Traders must continuously monitor their portfolios to ensure they remain within the set risk limits. Automated systems and alert mechanisms are often used for this purpose.
 
 4. **Rebalancing**:
     - Periodic rebalancing is necessary to keep the portfolio aligned with the risk budget. This might involve adjusting positions based on market conditions or changes in the underlying assets’ risk profile.
@@ -64,10 +64,10 @@ To implement risk budgeting effectively, traders and institutions employ various
 Various software and platforms are available to traders and institutions to aid in risk budgeting. Here are some notable examples:
 
 - **QuantConnect**:
-  - QuantConnect provides algorithmic trading and backtesting platforms. Their advanced risk management tools help in setting and monitoring risk budgets effectively. Visit [QuantConnect](https://www.quantconnect.com/) for more details.
+  - QuantConnect provides [algorithmic trading](../a/algorithmic_trading.md) and [backtesting](../b/backtesting.md) platforms. Their advanced [risk management](../r/risk_management.md) tools help in setting and monitoring risk budgets effectively. Visit [QuantConnect](https://www.quantconnect.com/) for more details.
 
 - **AlgoTrader**: 
-  - AlgoTrader is another prominent platform offering comprehensive tools for algorithmic trading, including risk budgeting features. They provide real-time risk management and monitoring solutions. Explore more at [AlgoTrader](https://www.algotrader.com/).
+  - AlgoTrader is another prominent platform offering comprehensive tools for [algorithmic trading](../a/algorithmic_trading.md), including risk budgeting features. They provide real-time [risk management](../r/risk_management.md) and monitoring solutions. Explore more at [AlgoTrader](https://www.algotrader.com/).
 
 ### Case Studies and Real-World Examples
 
@@ -75,14 +75,14 @@ Various software and platforms are available to traders and institutions to aid 
     - Bridgewater Associates, one of the largest hedge funds globally, employs risk budgeting at the core of its investment strategy. By diversifying risks across different asset classes and geographic regions, they have consistently achieved balanced returns. Learn more about their approach on the [Bridgewater official website](https://www.bridgewater.com/).
 
 2. **AQR Capital Management**: 
-    - AQR uses sophisticated quantitative models and risk budgeting techniques to manage its diverse portfolio. They focus on efficiently allocating risk to capture alpha while adhering to strict risk limits. More details can be found on their site [AQR Capital](https://www.aqr.com/).
+    - AQR uses sophisticated [quantitative models](../q/quantitative_models.md) and risk budgeting techniques to manage its diverse portfolio. They focus on efficiently allocating risk to capture alpha while adhering to strict risk limits. More details can be found on their site [AQR Capital](https://www.aqr.com/).
 
 ### Challenges in Risk Budgeting
 
-While risk budgeting provides a structured and disciplined approach to risk management, it also comes with challenges:
+While risk budgeting provides a structured and disciplined approach to [risk management](../r/risk_management.md), it also comes with challenges:
 
 - **Model Risk**:
-  The reliance on quantitative models means there is a risk if the models are incorrect or fail to predict market behavior accurately.
+  The reliance on [quantitative models](../q/quantitative_models.md) means there is a risk if the models are incorrect or fail to predict market behavior accurately.
 
 - **Data Quality**:
   Accurate data is crucial for effective risk budgeting. Poor data quality or incomplete datasets can lead to erroneous risk assessments.
@@ -92,7 +92,7 @@ While risk budgeting provides a structured and disciplined approach to risk mana
 
 ### Conclusion
 
-Risk budgeting is an indispensable part of algorithmic trading. It ensures that risk is systematically allocated and managed, preventing significant losses and optimizing returns. By employing techniques like VaR, CVaR, and stress testing, traders can create resilient portfolios capable of withstanding market volatility. Despite the challenges, the use of advanced software and platforms makes risk budgeting accessible and effective for both individual traders and large institutions.
+Risk budgeting is an indispensable part of [algorithmic trading](../a/algorithmic_trading.md). It ensures that risk is systematically allocated and managed, preventing significant losses and optimizing returns. By employing techniques like VaR, CVaR, and stress testing, traders can create resilient portfolios capable of withstanding market volatility. Despite the challenges, the use of advanced software and platforms makes risk budgeting accessible and effective for both individual traders and large institutions.
 
 ### References
 

@@ -1,6 +1,6 @@
 ## Z-Value in Financial Models
 
-Z-value, also known as a Z-score or standard score, is a statistical measurement that describes a value's relationship to the mean of a group of values. The Z-value is measured in terms of standard deviations from the mean. For example, a Z-score of 1 means the value is one standard deviation away from the mean. In financial models, the Z-value is used for various purposes including risk assessment, anomaly detection, and statistical inference.
+Z-value, also known as a Z-score or standard score, is a statistical measurement that describes a value's relationship to the mean of a group of values. The Z-value is measured in terms of standard deviations from the mean. For example, a Z-score of 1 means the value is one standard deviation away from the mean. In financial models, the Z-value is used for various purposes including risk assessment, [anomaly detection](../a/anomaly_detection.md), and statistical inference.
 
 ### Definition and Calculation
 
@@ -27,7 +27,7 @@ Z-scores are also instrumental in detecting outliers or anomalies within a datas
 
 #### Statistical Inference
 
-In hypothesis testing, Z-values help determine the likelihood that a given hypothesis is true. For example, in the context of stock returns, a high absolute Z-value could indicate that the return is significantly different from the average, thereby providing evidence against a null hypothesis of no difference.
+In [hypothesis testing](../h/hypothesis_testing.md), Z-values help determine the likelihood that a given hypothesis is true. For example, in the context of stock returns, a high absolute Z-value could indicate that the return is significantly different from the average, thereby providing evidence against a null hypothesis of no difference.
 
 ### Case Study: Altman's Z-Score
 
@@ -46,19 +46,19 @@ A Z-score below 1.8 indicates a high probability of bankruptcy, while a score ab
 
 ### Practical Implementation
 
-Z-scores are calculated and used by various financial platforms and trading algorithms. Many of these platforms also offer tools for calculating Z-scores and integrating them into broader financial models.
+Z-scores are calculated and used by various financial platforms and [trading algorithms](../t/trading_algorithms.md). Many of these platforms also offer tools for calculating Z-scores and integrating them into broader financial models.
 
 #### QuantConnect
 
-QuantConnect is a cloud-based algorithmic trading platform that allows traders to build, backtest, and deploy trading strategies. Their API capabilities include calculation of various statistical measures including Z-scores. For more information, you can visit [QuantConnect](https://www.quantconnect.com).
+QuantConnect is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to build, backtest, and deploy [trading strategies](../t/trading_strategies.md). Their API capabilities include calculation of various statistical measures including Z-scores. For more information, you can visit [QuantConnect](https://www.quantconnect.com).
 
 #### AlphaVantage
 
-AlphaVantage offers APIs for accessing a wide array of financial data. Their tools can be used to fetch the necessary data for calculating Z-scores and integrating them into trading algorithms. Learn more at [AlphaVantage](https://www.alphavantage.co).
+AlphaVantage offers APIs for accessing a wide array of financial data. Their tools can be used to fetch the necessary data for calculating Z-scores and integrating them into [trading algorithms](../t/trading_algorithms.md). Learn more at [AlphaVantage](https://www.alphavantage.co).
 
 #### Bloomberg Terminal
 
-Bloomberg Terminal offers extensive functionality for financial analysis, including the ability to calculate and analyze Z-scores. Bloomberg Terminal is widely used by financial professionals for real-time data, market analytics, and predictive modeling. More information can be found on the [Bloomberg Terminal site](https://www.bloomberg.com/professional/solution/bloomberg-terminal/).
+Bloomberg Terminal offers extensive functionality for financial analysis, including the ability to calculate and analyze Z-scores. Bloomberg Terminal is widely used by financial professionals for real-time data, market analytics, and [predictive modeling](../p/predictive_modeling.md). More information can be found on the [Bloomberg Terminal site](https://www.bloomberg.com/professional/solution/bloomberg-terminal/).
 
 ### Limitations
 
@@ -66,4 +66,4 @@ While Z-scores are extremely useful, they are not without limitations. They assu
 
 ### Conclusion
 
-The Z-value is a versatile statistical measure that has wide-ranging applications in financial modeling. From risk assessment to anomaly detection to statistical inference, Z-scores help professionals make informed decisions backed by data. Despite its limitations, when used correctly, it provides critical insights that can enhance trading strategies and risk management practices.
+The Z-value is a versatile statistical measure that has wide-ranging applications in [financial modeling](../f/financial_modeling.md). From risk assessment to [anomaly detection](../a/anomaly_detection.md) to statistical inference, Z-scores help professionals make informed decisions backed by data. Despite its limitations, when used correctly, it provides critical insights that can enhance [trading strategies](../t/trading_strategies.md) and [risk management](../r/risk_management.md) practices.

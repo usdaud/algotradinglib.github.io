@@ -19,7 +19,7 @@ NAV premium, therefore, occurs when the market price of the fund’s shares is h
    - **Fund Liquidity:** Less liquid funds might have a greater disparity.
    - **Market Sentiment:** Positive sentiment can lead to premiums, while negative sentiment can result in discounts.
 
-4. **Arbitrage Mechanism in ETFs:**
+4. **[Arbitrage](../a/arbitrage.md) Mechanism in ETFs:**
    - Authorized Participants (APs) can create or redeem shares to exploit price differences and bring ETF prices closer to NAV.
    
 ### Detailed Analysis: Factors Affecting NAV Premiums and Discounts
@@ -37,7 +37,7 @@ These operational costs are factored into the NAV but not necessarily reflected 
 Periodic distributions and dividends paid to shareholders affect the NAV. On the ex-dividend date, the NAV decreases by the amount of the declared dividend while the market price might not adjust immediately, potentially creating a temporary premium.
 
 #### 5. Regional and Sector Influences
-Geopolitical events, regulatory changes, and sector-specific news can significantly impact the demand for ETFs within those regions or sectors, leading to premiums or discounts. For instance, a technological breakthrough might propel tech ETFs to a premium, while regulatory scrutiny might push them into a discount.
+[Geopolitical events](../g/geopolitical_events.md), regulatory changes, and sector-specific news can significantly impact the demand for ETFs within those regions or sectors, leading to premiums or discounts. For instance, a technological breakthrough might propel tech ETFs to a premium, while regulatory scrutiny might push them into a discount.
 
 ### Practical Examples and Case Studies
 
@@ -45,7 +45,7 @@ Geopolitical events, regulatory changes, and sector-specific news can significan
 EEM, managed by BlackRock, frequently trades at a premium or discount to its NAV. This ETF tracks emerging markets, which naturally have higher volatility and less liquidity compared to developed markets. During periods of economic growth in emerging markets, EEM might trade at a significant premium due to investor optimism. Conversely, during geopolitical tensions or economic downturns, the ETF could trade at a discount.
 
 #### Example 2: Vanguard Total Stock Market ETF (VTI)
-VTI, offered by Vanguard, typically trades very close to its NAV. This is attributed to its highly liquid portfolio consisting of a broad array of U.S. stocks, which are easier to price and trade. The efficient arbitrage mechanism facilitated by Authorized Participants ensures that any significant premium or discount is swiftly corrected.
+VTI, offered by Vanguard, typically trades very close to its NAV. This is attributed to its highly liquid portfolio consisting of a broad array of U.S. stocks, which are easier to price and trade. The efficient [arbitrage](../a/arbitrage.md) mechanism facilitated by Authorized Participants ensures that any significant premium or discount is swiftly corrected.
 
 ### Tools for NAV Premium Analysis
 
@@ -62,4 +62,4 @@ Several online platforms and tools provide real-time data on NAV premiums and di
 
 ### Conclusion
 
-NAV premium analysis plays an important role in the decision-making process for investing in ETFs and mutual funds. By understanding the underlying factors that cause NAVs to deviate from market prices, investors can make more informed choices, identify potential arbitrage opportunities, and better gauge market sentiment. Moreover, tools like Morningstar and ETF.com provide essential data that supports this analysis, enabling both institutional and retail investors to navigate the complexities of NAV premiums and discounts effectively. While advanced algorithms and trading strategies are employed in the background to correct these deviations, a solid grasp of NAV premium analysis remains invaluable for achieving consistent investment outcomes.
+NAV premium analysis plays an important role in the decision-making process for investing in ETFs and mutual funds. By understanding the underlying factors that cause NAVs to deviate from market prices, investors can make more informed choices, identify potential [arbitrage](../a/arbitrage.md) opportunities, and better gauge market sentiment. Moreover, tools like Morningstar and ETF.com provide essential data that supports this analysis, enabling both institutional and retail investors to navigate the complexities of NAV premiums and discounts effectively. While advanced algorithms and [trading strategies](../t/trading_strategies.md) are employed in the background to correct these deviations, a solid grasp of NAV premium analysis remains invaluable for achieving consistent investment outcomes.

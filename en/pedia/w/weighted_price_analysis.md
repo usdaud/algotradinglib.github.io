@@ -1,6 +1,6 @@
 # Weighted Price Analysis
 
-Weighted Price Analysis (WPA) is an advanced method used in the field of algorithmic trading that involves the application of different weights to various price points in the market data to compute a more representative price level. This approach allows traders to better understand market dynamics by focusing on the most relevant price movements rather than treating all price movements equally.
+Weighted Price Analysis (WPA) is an advanced method used in the field of [algorithmic trading](../a/algorithmic_trading.md) that involves the application of different weights to various price points in the market data to compute a more representative price level. This approach allows traders to better understand market dynamics by focusing on the most relevant price movements rather than treating all price movements equally.
 
 ## Introduction to Weighted Price Analysis
 
@@ -31,7 +31,7 @@ where:
 
 Weighted Price Analysis is particularly useful in identifying:
 - **Fair market value**: By focusing on where the majority of volume has traded, WPA can help identify areas where the market finds value.
-- **Support and resistance levels**: Volume-weighted analysis can highlight price levels that have acted as support or resistance in the past.
+- **[Support and resistance](../s/support_and_resistance.md) levels**: Volume-weighted analysis can highlight price levels that have acted as support or resistance in the past.
 - **Trend confirmation**: Exponential and time-weighted analyses can help confirm trends by emphasizing more recent price movements.
 
 ## Tools and Platforms Supporting Weighted Price Analysis
@@ -44,7 +44,7 @@ The Bloomberg Terminal is a comprehensive platform used by financial professiona
 
 ### 2. **MetaTrader 5**
 
-MetaTrader 5 offers extensive tools for technical analysis and supports custom scripting, allowing traders to implement WPA strategies effectively. Find more at [MetaTrader 5](https://www.metatrader5.com/).
+MetaTrader 5 offers extensive tools for [technical analysis](../t/technical_analysis.md) and supports custom scripting, allowing traders to implement WPA strategies effectively. Find more at [MetaTrader 5](https://www.metatrader5.com/).
 
 ### 3. **TradeStation**
 
@@ -52,7 +52,7 @@ TradeStation provides a robust platform for algorithmic traders, including tools
 
 ### 4. **NinjaTrader**
 
-NinjaTrader is another popular platform that supports complex trading strategies, including those based on WPA. With its advanced charting tools and customizable scripts, it is widely utilized by algorithmic traders. Check out [NinjaTrader](https://ninjatrader.com/).
+NinjaTrader is another popular platform that supports complex [trading strategies](../t/trading_strategies.md), including those based on WPA. With its advanced charting tools and customizable scripts, it is widely utilized by algorithmic traders. Check out [NinjaTrader](https://ninjatrader.com/).
 
 ## Practical Implementation
 
@@ -78,8 +78,8 @@ One of the most common applications of WPA is the Volume-Weighted Average Price 
    - Divide the total products by the total volume: \( \frac{76580}{750} = 102.11 \)
    - VWAP = 102.11
 
-By using VWAP, traders can identify the average price a security has traded at over a given time period, weighted by volume, which is an essential metric for understanding market efficiency and trend direction.
+By using VWAP, traders can identify the average price a security has traded at over a given time period, weighted by volume, which is an essential metric for understanding [market efficiency](../m/market_efficiency.md) and trend direction.
 
 ## Conclusion
 
-Weighted Price Analysis offers a sophisticated approach to understanding market dynamics by focusing on the most significant price movements. By applying different weights to various price points, traders can gain a clearer, more nuanced view of market trends, identifying key support and resistance levels, and making more informed trading decisions. Utilizing platforms like Bloomberg Terminal, MetaTrader 5, TradeStation, and NinjaTrader can facilitate the implementation of WPA, enhancing the precision and effectiveness of trading strategies.
+Weighted Price Analysis offers a sophisticated approach to understanding market dynamics by focusing on the most significant price movements. By applying different weights to various price points, traders can gain a clearer, more nuanced view of market trends, identifying [key support and resistance levels](../k/key_support_and_resistance_levels.md), and making more informed trading decisions. Utilizing platforms like Bloomberg Terminal, MetaTrader 5, TradeStation, and NinjaTrader can facilitate the implementation of WPA, enhancing the precision and effectiveness of [trading strategies](../t/trading_strategies.md).

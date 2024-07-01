@@ -31,7 +31,7 @@ LBO transactions can be broadly categorized into three main types, each with its
 
 Several factors drive the prevalence and success of leveraged buyouts, making them a favored strategy for private equity firms and other financial sponsors:
 
-1. **Value Creation Through Financial Engineering**: LBOs can create value through various financial engineering techniques, such as optimizing the capital structure, reducing tax liabilities through interest deductions, and generating high returns on equity.
+1. **Value Creation Through [Financial Engineering](../f/financial_engineering.md)**: LBOs can create value through various [financial engineering](../f/financial_engineering.md) techniques, such as optimizing the capital structure, reducing tax liabilities through interest deductions, and generating high returns on equity.
 
 2. **Operational Improvements**: Financial sponsors often implement operational improvements in the target company to enhance its profitability and overall performance. This can include cost-cutting measures, efficiency improvements, and strategic realignments.
 
@@ -87,7 +87,7 @@ Financial sponsors, typically private equity firms, play an integral role in orc
 
 1. **Deal Origination and Sourcing**: Identifying suitable LBO candidates requires an in-depth understanding of industry dynamics, market trends, and financial performance. Financial sponsors leverage their network, industry expertise, and research capabilities to source potential targets.
 
-2. **Due Diligence and Valuation**: Comprehensive due diligence is essential to assess the target company’s financial health, operational efficiency, and growth prospects. The valuation process involves detailed financial modeling, scenario analysis, and sensitivity testing to determine the appropriate purchase price and financing structure.
+2. **Due Diligence and Valuation**: Comprehensive due diligence is essential to assess the target company’s financial health, operational efficiency, and growth prospects. The valuation process involves detailed [financial modeling](../f/financial_modeling.md), scenario analysis, and sensitivity testing to determine the appropriate purchase price and financing structure.
 
 3. **Structuring and Negotiation**: Structuring the deal involves determining the optimal mix of debt and equity financing. Financial sponsors negotiate with lenders, investors, and the target company’s stakeholders to finalize the terms of the transaction.
 
@@ -95,6 +95,6 @@ Financial sponsors, typically private equity firms, play an integral role in orc
 
 ## Conclusion
 
-Leveraged Buyouts (LBOs) represent a powerful financial strategy that has shaped the landscape of private equity and corporate acquisitions. By leveraging substantial debt financing and strategic value creation, LBOs provide financial sponsors with opportunities for significant returns on investment. However, the inherent risks associated with high leverage, operational challenges, and market dynamics necessitate meticulous planning, robust due diligence, and prudent risk management.
+Leveraged Buyouts (LBOs) represent a powerful financial strategy that has shaped the landscape of private equity and corporate acquisitions. By leveraging substantial debt financing and strategic value creation, LBOs provide financial sponsors with opportunities for significant returns on investment. However, the inherent risks associated with high leverage, operational challenges, and market dynamics necessitate meticulous planning, robust due diligence, and prudent [risk management](../r/risk_management.md).
 
 Through successful LBO transactions, financial sponsors can unlock value, revitalizing companies, and contributing to their long-term success. Despite the complexities and risks, the allure of LBOs continues to drive innovation and evolution in the world of finance, offering a compelling avenue for growth, profitability, and strategic transformation.

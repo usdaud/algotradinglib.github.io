@@ -6,7 +6,7 @@ Venture Capital (VC) investment is a form of private equity financing that is pr
 
 ### High Risk, High Reward
 
-Venture Capital investments are inherently high-risk. Many startups fail, but those that succeed can provide substantial returns. The potential for high rewards is often what drives VCs to invest despite the risks. Venture Capitalists mitigate these risks through a combination of due diligence, portfolio diversification, and active involvement in the management and strategic direction of the companies they invest in.
+Venture Capital investments are inherently high-risk. Many startups fail, but those that succeed can provide substantial returns. The potential for high rewards is often what drives VCs to invest despite the risks. Venture Capitalists mitigate these risks through a combination of due diligence, [portfolio diversification](../p/portfolio_diversification.md), and active involvement in the management and strategic direction of the companies they invest in.
 
 ### Stages of Investment
 
@@ -72,7 +72,7 @@ Following due diligence, the VC offers a term sheet outlining the investment ter
 Venture Capitalists often take an active role in the companies they invest in. This involvement can include:
 
 - **Strategic Guidance**: Offering insights on scaling, market entry, and long-term strategy.
-- **Operational Support**: Assisting with operations, financial planning, and human resources.
+- **Operational Support**: Assisting with operations, [financial planning](../f/financial_planning.md), and human resources.
 - **Networking**: Facilitating connections with industry experts, potential customers, and future investors.
 - **Governance**: Participating in boards of directors to steer company governance.
 

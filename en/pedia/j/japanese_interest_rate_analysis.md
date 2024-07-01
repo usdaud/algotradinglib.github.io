@@ -6,7 +6,7 @@ Japanese interest rate analysis involves the study and evaluation of the interes
 
 The Bank of Japan, founded in 1882, is Japan’s central bank and is primarily responsible for the country’s monetary policy, including interest rate decisions. BOJ’s mission is to maintain price stability and support the sound development of the financial system. One of the principal tools for achieving these objectives is the manipulation of interest rates. 
 
-The BOJ employs various monetary policy tools such as the policy interest rate, the quantitative and qualitative monetary easing (QQE), and yield curve control (YCC). The official site of the Bank of Japan can be visited [here](https://www.boj.or.jp/en/).
+The BOJ employs various monetary policy tools such as the policy interest rate, the quantitative and qualitative monetary easing (QQE), and [yield curve](../y/yield_curve.md) control (YCC). The official site of the Bank of Japan can be visited [here](https://www.boj.or.jp/en/).
 
 ## Policy Interest Rate
 
@@ -22,13 +22,13 @@ These measures are intended to lower long-term interest rates, increase liquidit
 
 ## Yield Curve Control (YCC)
 
-Introduced in September 2016, Yield Curve Control (YCC) is another significant policy measure wherein the BOJ aims to control the shape of the yield curve by setting target levels for short-term and long-term interest rates. The objective is to keep the 10-year JGB yield around 0%, while short-term rates are set at -0.1%.
+Introduced in September 2016, [Yield Curve](../y/yield_curve.md) Control (YCC) is another significant policy measure wherein the BOJ aims to control the shape of the [yield curve](../y/yield_curve.md) by setting target levels for short-term and long-term interest rates. The objective is to keep the 10-year JGB yield around 0%, while short-term rates are set at -0.1%.
 
-This policy is designed to influence overall financial conditions by stabilizing long-term interest rates, thereby ensuring that inflation expectations are anchored towards the BOJ’s target. By controlling both ends of the yield curve, the BOJ aims to manage borrowing costs and foster a stable economic environment conducive to growth and investment.
+This policy is designed to influence overall financial conditions by stabilizing long-term interest rates, thereby ensuring that inflation expectations are anchored towards the BOJ’s target. By controlling both ends of the [yield curve](../y/yield_curve.md), the BOJ aims to manage borrowing costs and foster a stable economic environment conducive to growth and investment.
 
 ## Economic Indicators Influencing Japanese Interest Rates
 
-Several economic indicators heavily influence the BOJ’s decisions regarding interest rates. Key among these are:
+Several [economic indicators](../e/economic_indicators.md) heavily influence the BOJ’s decisions regarding interest rates. Key among these are:
 
 ### Inflation Rate
 
@@ -52,7 +52,7 @@ Japanese interest rates have far-reaching implications, not just for domestic bu
 
 ### Carry Trade
 
-One of the most prominent strategies influenced by Japanese interest rates is the carry trade. Investors borrow funds in low-yielding currencies like the yen and invest in higher-yielding assets elsewhere. This strategy is predicated on stable or appreciating target currencies and can lead to substantial capital flows impacting global financial stability.
+One of the most prominent strategies influenced by Japanese interest rates is the [carry trade](../c/carry_trade.md). Investors borrow funds in low-yielding currencies like the yen and invest in higher-yielding assets elsewhere. This strategy is predicated on stable or appreciating target currencies and can lead to substantial capital flows impacting global financial stability.
 
 ### Bond Yields
 

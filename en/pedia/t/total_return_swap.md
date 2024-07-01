@@ -37,7 +37,7 @@ At the end of each period, if the total return from the stock index is higher th
 3. **Flexibility**: TRS can be structured to meet specific needs of the contracting parties, including details on payment frequency, duration, and types of returns exchanged.
 
 ### Disadvantages:
-1. **Counterparty Risk**: The total return receiver is exposed to the credit risk of the total return payer.
+1. **[Counterparty Risk](../c/counterparty_risk.md)**: The total return receiver is exposed to the credit risk of the total return payer.
 2. **Complexity**: The structure and terms of TRS can be complex and may require sophisticated financial understanding and management.
 3. **Regulatory Issues**: TRS are often subject to stringent regulations which can vary by jurisdiction.
 
@@ -51,7 +51,7 @@ At the end of each period, if the total return from the stock index is higher th
 
 Given the complexity and potential risks associated with TRS, they are closely monitored and regulated by financial authorities. Regulations can vary by country, but often include requirements for disclosure, reporting, and adherence to capital adequacy standards.
 
-For instance, in the United States, the Dodd-Frank Act has enhanced regulatory oversight for various derivatives, including TRS. In Europe, regulations such as EMIR (European Market Infrastructure Regulation) provide guidelines for the clearing and reporting of derivative contracts.
+For instance, in the United States, the Dodd-Frank Act has enhanced regulatory oversight for various [derivatives](../d/derivatives.md), including TRS. In Europe, regulations such as EMIR (European Market Infrastructure Regulation) provide guidelines for the clearing and reporting of derivative contracts.
 
 ### Notable Institutions
 
@@ -65,5 +65,5 @@ These institutions provide various TRS products and services, facilitating trade
 
 ## Conclusion
 
-A Total Return Swap serves as a powerful financial tool for those looking to manage or gain exposure to the returns of various assets without the need to own the assets outright. While highly beneficial due to the leverage and flexibility they offer, TRS also come with risks, particularly related to counterparty and regulatory concerns. Therefore, they are chiefly employed by sophisticated investors and institutions that possess a comprehensive understanding of the financial markets and derivatives.
+A Total Return Swap serves as a powerful financial tool for those looking to manage or gain exposure to the returns of various assets without the need to own the assets outright. While highly beneficial due to the leverage and flexibility they offer, TRS also come with risks, particularly related to counterparty and regulatory concerns. Therefore, they are chiefly employed by sophisticated investors and institutions that possess a comprehensive understanding of the financial markets and [derivatives](../d/derivatives.md).
 

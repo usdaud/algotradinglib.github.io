@@ -1,17 +1,17 @@
 # Least Squares Monte Carlo (LSMC)
 
-Least Squares Monte Carlo (LSMC) is a simulation-based method for estimating the value of financial derivatives, particularly American-style options, which provide the holder with the right to exercise at multiple points before the expiry. This technique blends elements of Monte Carlo simulation and least squares regression, offering a powerful tool for handling complex derivative pricing where analytical solutions are often infeasible.
+Least Squares Monte Carlo (LSMC) is a simulation-based method for estimating the value of financial [derivatives](../d/derivatives.md), particularly American-style options, which provide the holder with the right to exercise at multiple points before the expiry. This technique blends elements of [Monte Carlo simulation](../m/monte_carlo_simulation.md) and [least squares regression](../l/least_squares_regression.md), offering a powerful tool for handling complex derivative pricing where analytical solutions are often infeasible.
 
 ### Background and Context
-The valuation of American options signifies a notable complexity due to the embedded feature of early exercise. Traditional methods like the Black-Scholes formulacmanage European options but fall short for American counterparts. Least Squares Monte Carlo addresses this gap effectively by providing a numerical method to estimate the optimal exercise strategy and the corresponding option value.
+The valuation of American options signifies a notable complexity due to the embedded feature of early exercise. Traditional methods like the Black-Scholes formulacmanage [European options](../e/european_options.md) but fall short for American counterparts. Least Squares Monte Carlo addresses this gap effectively by providing a numerical method to estimate the optimal exercise strategy and the corresponding option value.
 
 The method was first introduced by Francis Longstaff and Eduardo Schwartz in their seminal paper "Valuing American Options by Simulation: A Simple Least-Squares Approach" in 2001. This pioneering work laid the foundation for LSMC and demonstrated its efficacy in pricing high-dimensional American options.
 
 ### Core Concepts
 
-1. **Monte Carlo Simulation**: Monte Carlo methods are computational algorithms that use repeated random sampling to obtain numerical results. Primarily, they are used to model the probability of different outcomes in a process that is not easily predictable due to the intervention of random variables. Monte Carlo simulation for option pricing involves simulating the paths of the underlying asset's price.
+1. **[Monte Carlo Simulation](../m/monte_carlo_simulation.md)**: [Monte Carlo methods](../m/monte_carlo_methods.md) are [computational algorithms](../c/computational_algorithms.md) that use repeated random sampling to obtain numerical results. Primarily, they are used to model the probability of different outcomes in a process that is not easily predictable due to the intervention of random variables. [Monte Carlo simulation](../m/monte_carlo_simulation.md) for option pricing involves simulating the paths of the underlying asset's price.
 
-2. **Least Squares Regression**: Least Squares Regression is a statistical method used to determine the line of best fit by minimizing the sum of squares of the residuals (the differences between observed and estimated values). In the context of LSMC, regression aids in estimating the conditional expectation of continuation values.
+2. **[Least Squares Regression](../l/least_squares_regression.md)**: [Least Squares Regression](../l/least_squares_regression.md) is a statistical method used to determine the line of best fit by minimizing the sum of squares of the residuals (the differences between observed and estimated values). In the context of LSMC, regression aids in estimating the conditional expectation of continuation values.
 
 ### Detailed Process of LSMC
 
@@ -19,7 +19,7 @@ The method was first introduced by Francis Longstaff and Eduardo Schwartz in the
 
 2. **Backward Induction**: Start from the final time step (maturity) and move backward. At maturity, the payoff of the option is known. For preceding time steps, the optimal decision (exercise or continue) needs to be determined.
 
-3. **Regression to Estimate Conditional Expectation**: For each simulated path at each time step, use least squares regression to estimate the conditional expectation of the option's continuation value based on the current state of the underlying asset. The regression typically uses a basis set of functions of the underlying asset price (e.g., polynomials).
+3. **Regression to Estimate Conditional Expectation**: For each simulated path at each time step, use [least squares regression](../l/least_squares_regression.md) to estimate the conditional expectation of the option's continuation value based on the current state of the underlying asset. The regression typically uses a basis set of functions of the underlying asset price (e.g., polynomials).
 
 4. **Determine Exercise Strategy**: Compare the immediate exercise value to the continuation value (estimated using regression). Opt for exercise if the immediate exercise value exceeds the conditional expectation of the continuation value.
 
@@ -29,7 +29,7 @@ The method was first introduced by Francis Longstaff and Eduardo Schwartz in the
 
 - **Flexibility**: LSMC can handle various underlying asset dynamics and payoffs which are difficult to address using closed-form solutions.
 - **High-Dimensional Problems**: It is particularly effective in dealing with multi-dimensional problems, such as basket options or scenarios with multiple state variables.
-- **Dynamic Hedging Insights**: The method provides useful insights for dynamic hedging strategies by revealing the exercise boundary and continuation values.
+- **[Dynamic Hedging](../d/dynamic_hedging.md) Insights**: The method provides useful insights for [dynamic hedging](../d/dynamic_hedging.md) strategies by revealing the exercise boundary and continuation values.
 
 ### Challenges and Mitigations
 While LSMC is versatile and powerful, it does carry certain complexities and computational requirements:
@@ -38,12 +38,12 @@ While LSMC is versatile and powerful, it does carry certain complexities and com
 
 2. **Regression Specifications**: The choice of regression basis functions significantly impacts the accuracy of the method. Polynomial approximations are common, but the selection should consider the problem's specific characteristics to avoid overfitting or underfitting.
 
-3. **Path Dependencies**: For path-dependent options (like Asian options), adjustments in the simulated paths and regression procedures are necessary.
+3. **Path Dependencies**: For [path-dependent options](../p/path-dependent_options.md) (like Asian options), adjustments in the simulated paths and regression procedures are necessary.
 
 ### Practical Applications
-LSMC has wide applications in financial markets, particularly in sectors dealing with derivatives and risk management.
+LSMC has wide applications in financial markets, particularly in sectors dealing with [derivatives](../d/derivatives.md) and [risk management](../r/risk_management.md).
 
-1. **Equity Options**: Pricing of American-style stock options where early exercise possibilities significantly influence the option's value.
+1. **[Equity Options](../e/equity_options.md)**: Pricing of American-style stock options where early exercise possibilities significantly influence the option's value.
 2. **Fixed-Income Securities**: Valuation of callable bonds, where issuers have the right to redeem the bonds before maturity.
 3. **Energy Markets**: Valuing swing options in energy markets which allow holders to exercise multiple times.
 4. **Real Options**: Assessing investment projects with embedded managerial flexibilities such as options to expand, delay, or abandon.
@@ -57,7 +57,7 @@ Consider the task of pricing an American put option. The steps would include:
    import numpy as np
    
    def simulate_asset_paths(S0, r, sigma, T, M, I):
-       """ Generate asset paths using geometric Brownian motion. """
+       """ Generate asset paths using [geometric Brownian motion](../g/geometric_brownian_motion.md). """
        dt = T / M
        paths = np.zeros((M + 1, I))
        paths[0] = S0
@@ -103,10 +103,10 @@ This example provides a simplified illustration of LSMC applied to an American p
 
 ### LSMC in the Industry
 
-Renowned financial institutions and quantitative finance firms leverage LSMC for derivative pricing and risk management. Companies such as Goldman Sachs, Morgan Stanley, and JPMorgan Chase often employ advanced methods like LSMC to maintain their competitive edge in trading and risk assessment.
+Renowned financial institutions and [quantitative finance](../q/quantitative_finance.md) firms leverage LSMC for derivative pricing and [risk management](../r/risk_management.md). Companies such as Goldman Sachs, Morgan Stanley, and JPMorgan Chase often employ advanced methods like LSMC to maintain their competitive edge in trading and risk assessment.
 
 **Example: QuantConnect**
-QuantConnect (https://www.quantconnect.com/) offers an algorithmic trading platform and has extensive resources, including tutorials and libraries, that leverage LSMC techniques for derivative pricing and other quantitative finance applications.
+QuantConnect (https://www.quantconnect.com/) offers an [algorithmic trading](../a/algorithmic_trading.md) platform and has extensive resources, including tutorials and libraries, that leverage LSMC techniques for derivative pricing and other [quantitative finance](../q/quantitative_finance.md) applications.
 
 **Example: Financial Modelling Agencies**
 Agencies like PRMIA (Professional Risk Managers' International Association) provide guidance and training on implementing LSMC and other advanced financial modelling techniques.
@@ -116,8 +116,8 @@ Agencies like PRMIA (Professional Risk Managers' International Association) prov
 The dynamics of financial markets present ongoing challenges and necessitate continuous innovations in derivative pricing methodologies. LSMC remains a cornerstone technique, with future advancements likely focusing on:
 
 1. **Enhanced Computational Tools**: Development of more efficient algorithms and utilization of GPU computing to tackle the computational intensity of LSMC.
-2. **Hybrid Models**: Integration of LSMC with other numerical methods (e.g., finite difference methods) to improve accuracy and computational efficiency.
+2. **Hybrid Models**: Integration of LSMC with other numerical methods (e.g., [finite difference methods](../f/finite_difference_methods.md)) to improve accuracy and computational efficiency.
 3. **Machine Learning Integration**: Employing machine learning techniques to refine regression steps and optimize the basis functions for better estimation of continuation values.
-4. **Stochastic Volatility and Jump Processes**: Extending LSMC to accommodate more complex stochastic processes involving volatility clustering or jumps in asset prices.
+4. **Stochastic Volatility and Jump Processes**: Extending LSMC to accommodate more complex [stochastic processes](../s/stochastic_processes.md) involving [volatility clustering](../v/volatility_clustering.md) or jumps in asset prices.
 
 In conclusion, Least Squares Monte Carlo remains an indispensable technique in the toolbox of financial engineers and quantitative analysts, offering a robust framework for tackling the intricacies of American option pricing and beyond.

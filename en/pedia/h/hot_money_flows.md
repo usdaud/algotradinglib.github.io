@@ -29,7 +29,7 @@ The effects of hot money can be profound, influencing multiple aspects of an eco
 
 #### Historical Examples
 
-1. **Asian Financial Crisis (1997-1998)**: Hot money played a significant role when speculators rapidly withdrew funds from Southeast Asian economies, leading to massive currency devaluations, reduced foreign exchange reserves, and economic chaos.
+1. **Asian Financial Crisis (1997-1998)**: Hot money played a significant role when speculators rapidly withdrew funds from Southeast Asian economies, leading to massive currency devaluations, reduced [foreign exchange reserves](../f/foreign_exchange_reserves.md), and economic chaos.
 2. **Dot-com Bubble (late 1990s - early 2000s)**: Large inflows of speculative capital into technology stocks drove prices to unsustainable levels, which eventually crashed.
 3. **European Sovereign Debt Crisis (2010-2012)**: Speculative hot money movements exacerbated the economic distress in countries like Greece, Spain, and Portugal, affecting bond yields and economic stability.
 
@@ -43,10 +43,10 @@ Governments and central banks employ several strategies to manage and control th
 
 #### Role of Technology in Hot Money Flows
 
-Advances in technology, particularly in financial technology (fintech), have made it easier and faster to move capital globally. High-frequency trading (HFT) and algorithmic trading platforms allow investors to exploit minor discrepancies in markets around the world within milliseconds.
+Advances in technology, particularly in financial technology (fintech), have made it easier and faster to move capital globally. High-frequency trading (HFT) and [algorithmic trading](../a/algorithmic_trading.md) platforms allow investors to exploit minor discrepancies in markets around the world within milliseconds.
 
-- **Algorithmic Trading**: Computers using complex algorithms can make thousands of trades in seconds based on predetermined criteria, often contributing to hot money flows.
-    - **Example**: Renaissance Technologies, a hedge fund known for its quantitative and algorithmic trading strategies. [Renaissance Technologies](https://www.rentec.com)
+- **[Algorithmic Trading](../a/algorithmic_trading.md)**: Computers using complex algorithms can make thousands of trades in seconds based on predetermined criteria, often contributing to hot money flows.
+    - **Example**: Renaissance Technologies, a hedge fund known for its quantitative and [algorithmic trading](../a/algorithmic_trading.md) strategies. [Renaissance Technologies](https://www.rentec.com)
 
 #### Future Trends
 

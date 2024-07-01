@@ -44,21 +44,21 @@ Comparing the company's quarterly revenue against industry peers provides contex
 
 ### Financial Ratios
 
-Using financial ratios, such as profit margins, return on investment (ROI), and earnings before interest, taxes, depreciation, and amortization (EBITDA), can provide a clearer picture of the company's financial health and operational efficiency.
+Using [financial ratios](../f/financial_ratios.md), such as profit margins, return on investment (ROI), and earnings before interest, taxes, depreciation, and amortization (EBITDA), can provide a clearer picture of the company's financial health and operational efficiency.
 
 ## Methods of Analyzing Quarterly Revenue
 
 ### Time Series Analysis
 
-Time series analysis involves examining revenue data points at successive intervals to identify patterns, trends, and seasonality over time. This method helps in predicting future revenue based on historical data.
+[Time series analysis](../t/time_series_analysis.md) involves examining revenue data points at successive intervals to identify patterns, trends, and seasonality over time. This method helps in predicting future revenue based on historical data.
 
 ### Comparative Analysis
 
-Comparative analysis looks at the company's performance relative to past quarters or against competitors. This helps identify performance gaps and areas of improvement.
+[Comparative analysis](../c/comparative_analysis.md) looks at the company's performance relative to past quarters or against competitors. This helps identify performance gaps and areas of improvement.
 
 ### Regression Analysis
 
-Regression analysis helps in understanding the relationship between revenue and various factors, such as marketing spend, economic conditions, or consumer behavior. This analysis can help in forecasting future revenues and making data-driven decisions.
+[Regression analysis](../r/regression_analysis.md) helps in understanding the relationship between revenue and various factors, such as marketing spend, economic conditions, or consumer behavior. This analysis can help in forecasting future revenues and making data-driven decisions.
 
 ### Scenario Analysis
 

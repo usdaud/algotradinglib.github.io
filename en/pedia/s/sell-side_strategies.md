@@ -1,10 +1,10 @@
 ### Sell-Side Strategies in Algorithmic Trading
 
-Sell-side refers to the part of the financial industry involved in the creation, promotion, analysis, and sale of securities to the public. Sell-side firms include investment banks, advisory firms, and other entities that facilitate transactions and provide market-making services. Sell-side strategies in algorithmic trading are sophisticated methodologies employed by these institutions to execute orders on behalf of their clients (such as institutional investors) or to trade on their own accounts. These strategies are designed to minimize market impact, reduce transaction costs, and maximize trading efficiency.
+Sell-side refers to the part of the financial industry involved in the creation, promotion, analysis, and sale of securities to the public. Sell-side firms include investment banks, advisory firms, and other entities that facilitate transactions and provide market-making services. Sell-side strategies in [algorithmic trading](../a/algorithmic_trading.md) are sophisticated methodologies employed by these institutions to execute orders on behalf of their clients (such as institutional investors) or to trade on their own accounts. These strategies are designed to minimize market impact, reduce transaction costs, and maximize trading efficiency.
 
 #### 1. Market Making
 
-Market making is a core sell-side strategy wherein firms provide liquidity to the market by being willing to buy and sell a particular security at any time, thereby facilitating smoother trading and tighter spreads. Market makers post both buy and sell orders, profiting from the bid-ask spread.
+Market making is a core sell-side strategy wherein firms provide liquidity to the market by being willing to buy and sell a particular security at any time, thereby facilitating smoother trading and tighter spreads. Market makers post both buy and sell orders, profiting from the [bid-ask spread](../b/bid-ask_spread.md).
 
 - **Key Features:**
   - Continuous presence in the market.
@@ -17,9 +17,9 @@ Companies Involved:
 
 #### 2. Execution Algorithms
 
-These algorithms are designed to manage the timing, price, and quantity of trades in order to achieve better execution prices and reduce market impact when executing large orders on behalf of clients. Common types of execution algorithms include:
+These algorithms are designed to manage the timing, price, and quantity of trades in order to achieve better execution prices and reduce market impact when executing large orders on behalf of clients. Common types of [execution algorithms](../e/execution_algorithms.md) include:
 
-- **VWAP (Volume Weighted Average Price):** Executes orders proportionally to the historical trading volume profile, aiming to match the average price for the day.
+- **VWAP (Volume Weighted Average Price):** Executes orders proportionally to the historical trading [volume profile](../v/volume_profile.md), aiming to match the average price for the day.
 - **TWAP (Time Weighted Average Price):** Breaks down large orders into smaller ones that are executed at regular intervals over a specified period.
 - **Implementation Shortfall:** Seeks to minimize the difference between the decision price and the final execution price, balancing market impact and opportunity cost.
 
@@ -29,11 +29,11 @@ Companies Involved:
 
 #### 3. Statistical Arbitrage
 
-Statistical arbitrage involves using quantitative models to identify and exploit price inefficiencies between related financial instruments. By simultaneously buying and selling different securities, firms can profit from temporary price discrepancies while minimizing risk exposure.
+Statistical [arbitrage](../a/arbitrage.md) involves using [quantitative models](../q/quantitative_models.md) to identify and exploit price inefficiencies between related financial instruments. By simultaneously buying and selling different securities, firms can profit from temporary price discrepancies while minimizing risk exposure.
 
 - **Key Techniques:**
-  - Pairs Trading: Involves trading pairs of securities that are historically correlated. When their price correlation temporarily diverges, the strategy predicts their convergence.
-  - Mean Reversion: Based on the assumption that asset prices will revert to their historical mean over time.
+  - [Pairs Trading](../p/pairs_trading.md): Involves trading pairs of securities that are historically correlated. When their price correlation temporarily diverges, the strategy predicts their convergence.
+  - [Mean Reversion](../m/mean_reversion.md): Based on the assumption that asset prices will revert to their historical mean over time.
   - Machine Learning: Utilizes advanced data analysis and machine learning techniques to identify patterns and predict price movements.
 
 Companies Involved:
@@ -47,7 +47,7 @@ These strategies aim to enhance market liquidity by supplying or taking liquidit
 - **Key Concepts:**
   - Passive Orders: Orders that add liquidity to the market, often placed at the bid or ask price.
   - Active Orders: Orders that take liquidity, typically executed at the current market price.
-  - Dark Pools: Private exchanges where orders are matched without revealing the order size and identity of the parties involved, thus minimizing market impact.
+  - [Dark Pools](../d/dark_pools.md): Private exchanges where orders are matched without revealing the order size and identity of the parties involved, thus minimizing market impact.
 
 Companies Involved:
 - **Barclays** [Website](https://home.barclays/)
@@ -58,9 +58,9 @@ Companies Involved:
 High-frequency trading involves executing a large number of orders at extremely high speeds, often in fractions of a second. HFT strategies rely on cutting-edge technology and low-latency communication networks to gain a competitive edge in the marketplace.
 
 - **Core Components:**
-  - Algorithmic Execution: Leveraging proprietary algorithms to identify trading opportunities and execute orders.
+  - [Algorithmic Execution](../a/algorithmic_execution.md): Leveraging [proprietary algorithms](../p/proprietary_algorithms.md) to identify trading opportunities and execute orders.
   - Co-location: Placing trading servers in close proximity to exchange servers to reduce latency.
-  - Latency Arbitrage: Profiting from small price discrepancies that exist for very short time periods due to differences in the speed of data dissemination.
+  - Latency [Arbitrage](../a/arbitrage.md): Profiting from small price discrepancies that exist for very short time periods due to differences in the speed of data dissemination.
 
 Companies Involved:
 - **DRW Trading** [Website](https://drw.com/)
@@ -68,11 +68,11 @@ Companies Involved:
 
 #### 6. Smart Order Routing (SOR)
 
-Smart order routing systems automatically decide the best way to execute client orders across multiple trading venues, seeking the best price and liquidity. SOR algorithms analyze real-time market data and route orders to achieve optimal execution outcomes.
+Smart [order routing](../o/order_routing.md) systems automatically decide the best way to execute client orders across multiple trading venues, seeking the best price and liquidity. SOR algorithms analyze [real-time market data](../r/real-time_market_data.md) and route orders to achieve optimal execution outcomes.
 
 - **Key Features:**
-  - Real-time Data Analysis: Continuously assessing market conditions to determine the best execution venue.
-  - Adaptive Strategies: Adjusting routing behavior based on market dynamics, order size, and client preferences.
+  - [Real-time Data Analysis](../r/real-time_data_analysis.md): Continuously assessing market conditions to determine the best execution venue.
+  - [Adaptive Strategies](../a/adaptive_strategies.md): Adjusting routing behavior based on market dynamics, order size, and client preferences.
   - Multi-Asset Routing: Capable of handling orders across different asset classes and trading venues.
 
 Companies Involved:
@@ -81,11 +81,11 @@ Companies Involved:
 
 #### 7. Risk Management Algorithms
 
-These algorithms help sell-side firms manage the risks associated with large order executions and proprietary trading. They monitor and limit exposure to various types of risk, including market risk, credit risk, and operational risk.
+These algorithms help sell-side firms manage the risks associated with large order executions and [proprietary trading](../p/proprietary_trading.md). They monitor and limit exposure to various types of risk, including market risk, credit risk, and operational risk.
 
 - **Key Techniques:**
   - Real-Time Risk Monitoring: Continuously tracking positions, trades, and market conditions to identify and mitigate potential risks.
-  - Scenario Analysis: Simulating different market scenarios to assess the impact on portfolios and adjust trading strategies accordingly.
+  - Scenario Analysis: Simulating different market scenarios to assess the impact on portfolios and adjust [trading strategies](../t/trading_strategies.md) accordingly.
   - Value at Risk (VaR): Quantifying the maximum potential loss over a specified period with a given confidence level.
 
 Companies Involved:
@@ -94,4 +94,4 @@ Companies Involved:
 
 ### Conclusion
 
-Sell-side strategies in algorithmic trading encompass a diverse range of methodologies aimed at optimizing trade execution, providing liquidity, profiting from market inefficiencies, and managing risk. By leveraging advanced algorithms and cutting-edge technology, sell-side firms enhance market efficiency and deliver superior trading outcomes for their clients and themselves. The continuous innovation in algorithmic trading strategies and technology will further shape the landscape of financial markets in the years to come.
+Sell-side strategies in [algorithmic trading](../a/algorithmic_trading.md) encompass a diverse range of methodologies aimed at optimizing trade execution, providing liquidity, profiting from market inefficiencies, and managing risk. By leveraging advanced algorithms and cutting-edge technology, sell-side firms enhance [market efficiency](../m/market_efficiency.md) and deliver superior trading outcomes for their clients and themselves. The continuous innovation in [algorithmic trading](../a/algorithmic_trading.md) strategies and technology will further shape the landscape of financial markets in the years to come.

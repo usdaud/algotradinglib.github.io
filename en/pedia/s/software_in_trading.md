@@ -12,11 +12,11 @@ Front-end platforms are the most commonly known trading software, providing a gr
 
 1. **Interactive Brokers' Trader Workstation (TWS)**
    - Website: [Interactive Brokers TWS](https://www.interactivebrokers.com/en/trading/tws.php)
-   - Features: Advanced charting, customizable dashboards, real-time data and news, algorithmic trading capabilities.
+   - Features: Advanced charting, customizable dashboards, real-time data and news, [algorithmic trading](../a/algorithmic_trading.md) capabilities.
 
 2. **MetaTrader 4 (MT4) and MetaTrader 5 (MT5)**
    - Website: [MetaTrader](https://www.metatrader4.com/)
-   - Features: Forex, CFD and futures trading, automated trading through Expert Advisors (EAs), charting tools, technical analysis.
+   - Features: Forex, CFD and futures trading, automated trading through Expert Advisors (EAs), charting tools, [technical analysis](../t/technical_analysis.md).
 
 3. **Thinkorswim by TD Ameritrade**
    - Website: [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.html)
@@ -24,7 +24,7 @@ Front-end platforms are the most commonly known trading software, providing a gr
 
 4. **eToro Platform**
    - Website: [eToro](https://www.etoro.com/)
-   - Features: Social trading, copy trading, diverse asset classes including cryptocurrencies, straightforward interface.
+   - Features: [Social trading](../s/social_trading.md), copy trading, diverse asset classes including cryptocurrencies, straightforward interface.
 
 ### Back-End Systems
 
@@ -43,15 +43,15 @@ Algorithmic or automated trading has seen rapid development in recent years. Thi
 
 1. **TradeStation**
    - Website: [TradeStation](https://www.tradestation.com/)
-   - Features: Strategy automation, custom scripting (EasyLanguage), extensive APIs for algorithmic trading.
+   - Features: Strategy automation, custom scripting (EasyLanguage), extensive APIs for [algorithmic trading](../a/algorithmic_trading.md).
 
 2. **QuantConnect**
    - Website: [QuantConnect](https://www.quantconnect.com/)
-   - Features: Open-source algorithmic trading, supports multiple languages including Python and C#, backtesting, and cloud-based execution.
+   - Features: Open-source [algorithmic trading](../a/algorithmic_trading.md), supports multiple languages including Python and C#, [backtesting](../b/backtesting.md), and cloud-based execution.
 
 3. **NinjaTrader**
    - Website: [NinjaTrader](https://ninjatrader.com/)
-   - Features: Algorithmic and discretionary trading, advanced charting, C# development for custom strategies.
+   - Features: Algorithmic and [discretionary trading](../d/discretionary_trading.md), advanced charting, C# development for custom strategies.
 
 ### High-Frequency Trading (HFT) Software
 
@@ -71,11 +71,11 @@ These tools help traders and investors track performance, analyze risk, and make
 
 1. **Morningstar Direct**
    - Website: [Morningstar Direct](https://www.morningstar.com/products/direct)
-   - Features: Investment research, portfolio analysis, risk management, multi-asset coverage.
+   - Features: Investment research, [portfolio analysis](../p/portfolio_analysis.md), [risk management](../r/risk_management.md), multi-asset coverage.
 
 2. **FactSet**
    - Website: [FactSet](https://www.factset.com/)
-   - Features: Financial data integration, portfolio analytics, risk assessment, market insights.
+   - Features: Financial [data integration](../d/data_integration.md), portfolio analytics, risk assessment, market insights.
 
 3. **Bloomberg Terminal**
    - Website: [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
@@ -85,15 +85,15 @@ These tools help traders and investors track performance, analyze risk, and make
 
 ### Real-Time Market Data
 
-A crucial feature of any trading software is the ability to provide real-time market data. This includes live prices, quotes, and trading volumes, enabling traders to make informed decisions in real time.
+A crucial feature of any trading software is the ability to provide [real-time market data](../r/real-time_market_data.md). This includes live prices, quotes, and trading volumes, enabling traders to make informed decisions in real time.
 
 ### Advanced Charting Tools
 
-Charting tools allow traders to visualize market data and conduct technical analysis. Features often include multiple chart types, drawing tools, technical indicators, and the ability to customize time frames and scales.
+Charting tools allow traders to visualize market data and conduct [technical analysis](../t/technical_analysis.md). Features often include multiple chart types, drawing tools, [technical indicators](../t/technical_indicators.md), and the ability to customize time frames and scales.
 
 ### Order Execution
 
-Order execution capabilities are essential for entering and exiting trades. This includes support for various order types (e.g., market, limit, stop), as well as advanced order routing and execution algorithms to ensure optimal trade placement.
+Order execution capabilities are essential for entering and exiting trades. This includes support for various order types (e.g., market, limit, stop), as well as advanced [order routing](../o/order_routing.md) and [execution algorithms](../e/execution_algorithms.md) to ensure optimal trade placement.
 
 ### Customizable Interface
 
@@ -101,11 +101,11 @@ A customizable interface allows traders to tailor the platform to their specific
 
 ### Backtesting Capabilities
 
-Backtesting involves testing trading strategies against historical market data to evaluate their performance. This feature is particularly important for algorithmic traders who need to validate their models before deploying them in live markets.
+[Backtesting](../b/backtesting.md) involves testing [trading strategies](../t/trading_strategies.md) against historical market data to evaluate their performance. This feature is particularly important for algorithmic traders who need to validate their models before deploying them in live markets.
 
 ### Risk Management Tools
 
-Risk management tools help traders manage their exposure and limit potential losses. Features can include setting stop-loss orders, calculating position sizes based on risk tolerance, and monitoring portfolio risk metrics.
+[Risk management](../r/risk_management.md) tools help traders manage their exposure and limit potential losses. Features can include setting [stop-loss orders](../s/stop-loss_orders.md), calculating position sizes based on risk tolerance, and monitoring portfolio [risk metrics](../r/risk_metrics.md).
 
 ## Security and Compliance
 
@@ -127,7 +127,7 @@ Trading software often needs to integrate with other systems and tools to provid
 
 ### API Integration
 
-APIs (Application Programming Interfaces) allow trading software to connect and interact with other applications, such as market data providers, analytics tools, or custom trading algorithms.
+APIs (Application Programming Interfaces) allow trading software to connect and interact with other applications, such as market data providers, analytics tools, or custom [trading algorithms](../t/trading_algorithms.md).
 
 ### Plugin Support
 
@@ -141,7 +141,7 @@ For institutional traders and brokers, integrating trading software with Custome
 
 ### Latency
 
-Latency, or the delay between an action and its execution, can significantly impact trading performance, especially in high-frequency and algorithmic trading. Traders must choose platforms that offer low-latency execution and optimize their network infrastructure to minimize delays.
+Latency, or the delay between an action and its execution, can significantly impact [trading performance](../t/trading_performance.md), especially in high-frequency and [algorithmic trading](../a/algorithmic_trading.md). Traders must choose platforms that offer low-latency execution and optimize their network infrastructure to minimize delays.
 
 ### Reliability and Uptime
 
@@ -161,6 +161,6 @@ Access to customer support and educational resources is vital for both novice an
 
 ## Conclusion
 
-Trading software plays a pivotal role in modern financial markets, offering tools and features that cater to a wide range of trading styles and strategies. From real-time data and advanced charting to algorithmic trading and portfolio management, these platforms empower traders to make informed decisions and optimize their trading performance.
+Trading software plays a pivotal role in modern financial markets, offering tools and features that cater to a wide range of trading styles and strategies. From real-time data and advanced charting to [algorithmic trading](../a/algorithmic_trading.md) and [portfolio management](../p/portfolio_management.md), these platforms empower traders to make informed decisions and optimize their [trading performance](../t/trading_performance.md).
 
 As technology continues to evolve, trading software will likely become even more sophisticated, incorporating advanced analytics, machine learning, and artificial intelligence to further enhance trading capabilities and streamline operations. By staying informed about the latest developments and choosing the right platform, traders can stay competitive and maximize their potential in the financial markets.

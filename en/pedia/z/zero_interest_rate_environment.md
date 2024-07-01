@@ -15,7 +15,7 @@ The term ZIRP gained prominence during the late 20th and early 21st centuries. N
 ### Central Bank Actions
 When implementing a ZIRP, central banks utilize various mechanisms:
 1. **Setting the Policy Rate to Zero:** This influences other interest rates within the economy, including those on savings, loans, and mortgages.
-2. **Quantitative Easing (QE):** Central banks buy government securities or other financial assets to inject liquidity into the economy.
+2. **[Quantitative Easing](../q/quantitative_easing.md) (QE):** Central banks buy government securities or other financial assets to inject liquidity into the economy.
 3. **Forward Guidance:** Communicating future policy intentions to shape economic expectations.
 
 ### Impact on Monetary Policy Tools
@@ -38,7 +38,7 @@ In a deflationary environment, ZIRP aims to increase spending by making saving l
 ## Implications for Financial Markets
 
 ### Equity Markets
-Low interest rates generally boost stock markets as they lower the discount rate used in equity valuation models, inflate asset prices, and improve corporate profitability via cheaper borrowing costs.
+Low interest rates generally boost stock markets as they lower the discount rate used in [equity valuation models](../e/equity_valuation_models.md), inflate asset prices, and improve corporate profitability via cheaper borrowing costs.
 
 ### Bond Markets
 Yields on bonds, especially government securities, tend to fall. Investors seeking higher returns may shift to longer-term and riskier assets, compressing the risk premiums.

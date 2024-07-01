@@ -11,7 +11,7 @@ Zero coupon bonds are sold at a significant discount to their face value. For ex
 The lump-sum payment at maturity is a key feature of zero coupon bonds. The investor receives the bond's face value in full upon maturity. For instance, an investor who purchased a zero coupon bond for $600 will receive $1,000 when the bond matures. This lump-sum payment reflects the accumulation of interest over the bond's life.
 
 ### Implied Interest Rate
-Although zero coupon bonds do not make periodic interest payments, they have an implied interest rate, which can be computed using the purchase price, face value, and time to maturity. This implied interest rate is also known as the bond's yield to maturity (YTM).
+Although zero coupon bonds do not make periodic interest payments, they have an implied interest rate, which can be computed using the purchase price, face value, and time to maturity. This implied interest rate is also known as the bond's [yield to maturity](../y/yield_to_maturity.md) (YTM).
 
 ### Long Duration
 Because zero coupon bonds typically have a long duration, they are more sensitive to changes in interest rates compared to bonds with shorter durations. Investors should carefully consider the interest rate risk associated with zero coupon bonds, especially in a rising interest rate environment.
@@ -23,10 +23,10 @@ The value of a zero coupon bond is determined by discounting its face value to t
 
 \[ P = \dfrac{F}{(1 + r)^n} \]
 
-where \( P \) is the present value (purchase price) of the bond, \( F \) is the face value, \( r \) is the yield to maturity (interest rate), and \( n \) is the number of periods until maturity.
+where \( P \) is the present value (purchase price) of the bond, \( F \) is the face value, \( r \) is the [yield to maturity](../y/yield_to_maturity.md) (interest rate), and \( n \) is the number of periods until maturity.
 
 ### Yield to Maturity
-The yield to maturity (YTM) for zero coupon bonds is the interest rate that equates the present value of the bond's future cash flow (face value at maturity) to its current price. It is an important measure for investors to assess the return on investment for zero coupon bonds.
+The [yield to maturity](../y/yield_to_maturity.md) (YTM) for zero coupon bonds is the interest rate that equates the present value of the bond's future cash flow (face value at maturity) to its current price. It is an important measure for investors to assess the return on investment for zero coupon bonds.
 
 ### Duration and Convexity
 Zero coupon bonds have longer durations compared to coupon bonds with similar maturities. Duration measures the sensitivity of a bond's price to changes in interest rates. Convexity is a measure that accounts for the curvature in the relationship between bond prices and interest rates. Zero coupon bonds have high convexity, meaning their prices are more sensitive to interest rate changes, but the effect is less linear.
@@ -37,7 +37,7 @@ Zero coupon bonds have longer durations compared to coupon bonds with similar ma
 For tax purposes, zero coupon bondholders may be required to report "imputed interest" as it accrues annually, even though they do not receive periodic interest payments. This is known as the accrual method of accounting for interest and can result in a tax liability each year, despite the bondholder not receiving actual cash payments until maturity.
 
 ### Original Issue Discount (OID)
-The original issue discount (OID) represents the difference between the bond's face value and its discounted purchase price. Investors are required to include a portion of the OID in their taxable income each year, which is calculated based on the bond's yield to maturity. This taxation can impact the overall return on investment for zero coupon bonds.
+The original issue discount (OID) represents the difference between the bond's face value and its discounted purchase price. Investors are required to include a portion of the OID in their taxable income each year, which is calculated based on the bond's [yield to maturity](../y/yield_to_maturity.md). This taxation can impact the overall return on investment for zero coupon bonds.
 
 ## Investment Strategies
 
@@ -59,7 +59,7 @@ As with all bonds, zero coupon bonds are subject to interest rate risk. Given th
 The risk of default by the issuer is a consideration for zero coupon bonds, just as it is for other types of bonds. High-quality issuers, such as the U.S. Treasury, typically have lower credit risk, while corporate zero coupon bonds may carry a higher risk of default.
 
 ### Inflation Risk
-Zero coupon bonds can be negatively impacted by inflation, which erodes the purchasing power of the lump-sum payment received at maturity. Inflation-adjusted bonds, or TIPS (Treasury Inflation-Protected Securities), offer an alternative that mitigates this risk by adjusting the face value for inflation.
+Zero coupon bonds can be negatively impacted by inflation, which erodes the purchasing power of the lump-sum payment received at maturity. Inflation-adjusted bonds, or TIPS (Treasury [Inflation-Protected Securities](../i/inflation-protected_securities.md)), offer an alternative that mitigates this risk by adjusting the face value for inflation.
 
 ## Real-World Applications
 
@@ -77,10 +77,10 @@ Municipal zero coupon bonds are issued by state and local governments and often 
 ### Advantages
 - **Predictable Return**: The predetermined lump-sum payment at maturity makes zero coupon bonds attractive for goal-oriented investments (e.g., education, retirement).
 - **No Reinvestment Risk**: Since zero coupon bonds do not pay periodic interest, there is no risk associated with reinvesting interest payments at potentially lower rates.
-- **Potential for High Yield**: The discount offered on zero coupon bonds can result in a higher yield to maturity, especially for longer-term bonds.
+- **Potential for High Yield**: The discount offered on zero coupon bonds can result in a higher [yield to maturity](../y/yield_to_maturity.md), especially for longer-term bonds.
 
 ### Disadvantages
-- **Interest Rate Sensitivity**: Zero coupon bonds are highly sensitive to interest rate changes due to their long duration.
+- **[Interest Rate Sensitivity](../i/interest_rate_sensitivity.md)**: Zero coupon bonds are highly sensitive to interest rate changes due to their long duration.
 - **Taxable Imputed Interest**: The requirement to pay taxes on accrued interest each year can reduce the overall return on investment.
 - **Inflation Impact**: The fixed payment at maturity may lose purchasing power in an inflationary environment.
 

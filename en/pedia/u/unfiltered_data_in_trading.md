@@ -1,10 +1,10 @@
 # Unfiltered Data in Trading
 
-Unfiltered data in trading refers to raw or unprocessed data that has not been cleansed, aggregated, or interpreted. This type of data can include a diverse range of inputs such as price quotes, trade volumes, news feeds, social media updates, economic indicators, and other financial metrics directly as they come from their respective sources. In this exhaustive exploration, we will delve into the significance, applications, challenges, and best practices associated with unfiltered data in the trading domain.
+Unfiltered data in trading refers to raw or unprocessed data that has not been cleansed, aggregated, or interpreted. This type of data can include a diverse range of inputs such as price quotes, trade volumes, news feeds, social media updates, [economic indicators](../e/economic_indicators.md), and other financial metrics directly as they come from their respective sources. In this exhaustive exploration, we will delve into the significance, applications, challenges, and best practices associated with unfiltered data in the trading domain.
 
 ## Significance of Unfiltered Data
 
-1. **Direct Source of Truth**: Unfiltered data provides the most immediate and direct insight into market conditions. It is the "source of truth" before any analytical processing or transformations, making it highly valuable for certain types of trading strategies.
+1. **Direct Source of Truth**: Unfiltered data provides the most immediate and direct insight into market conditions. It is the "source of truth" before any analytical processing or transformations, making it highly valuable for certain types of [trading strategies](../t/trading_strategies.md).
 
 2. **Enhanced Transparency**: Without any modifications, unfiltered data ensures that traders have a transparent and unbiased view of the market. This can be crucial for strategies that depend on anomalous or minute-by-minute changes in data which might get lost or smoothed in processed data.
 
@@ -12,11 +12,11 @@ Unfiltered data in trading refers to raw or unprocessed data that has not been c
 
 ## Applications of Unfiltered Data
 
-1. **Algorithmic Trading**: Algorithms can be designed to parse and analyze unfiltered data, making momentous trading decisions in real-time. This application is vital for exploiting arbitrage opportunities and reacting to market shifts with pinpoint accuracy.
+1. **[Algorithmic Trading](../a/algorithmic_trading.md)**: Algorithms can be designed to parse and analyze unfiltered data, making momentous trading decisions in real-time. This application is vital for exploiting [arbitrage](../a/arbitrage.md) opportunities and reacting to market shifts with pinpoint accuracy.
 
-2. **Quantitative Analysis**: Quant analysts may use unfiltered data to backtest trading models on historical data or to build forecasts. The pristine nature of the data ensures that their models can capture all market anomalies and micro-structures that might be smoothed out in processed data.
+2. **[Quantitative Analysis](../q/quantitative_analysis.md)**: Quant analysts may use unfiltered data to backtest [trading models](../t/trading_models.md) on historical data or to build forecasts. The pristine nature of the data ensures that their models can capture all [market anomalies](../m/market_anomalies.md) and micro-structures that might be smoothed out in processed data.
 
-3. **Real-time Market Analytics**: Analysts can gain insights into current market conditions by using unfiltered data streams. This involves monitoring price trends, trade volumes, and order book dynamics as they evolve every moment.
+3. **Real-time Market Analytics**: Analysts can gain insights into current market conditions by using unfiltered data streams. This involves monitoring price trends, trade volumes, and [order book dynamics](../o/order_book_dynamics.md) as they evolve every moment.
 
 ## Challenges in Using Unfiltered Data
 
@@ -42,14 +42,14 @@ Unfiltered data in trading refers to raw or unprocessed data that has not been c
 
 ## Leading Platforms and Solutions
 
-1. **Bloomberg Terminal**: [Bloomberg Terminal](https://www.bloomberg.com/professional/product/the-bloomberg-terminal/) offers a comprehensive suite of unfiltered financial data, including news, price quotes, and economic indicators, as they become available in real-time.
+1. **Bloomberg Terminal**: [Bloomberg Terminal](https://www.bloomberg.com/professional/product/the-bloomberg-terminal/) offers a comprehensive suite of unfiltered financial data, including news, price quotes, and [economic indicators](../e/economic_indicators.md), as they become available in real-time.
 
-2. **Thomson Reuters Eikon**: [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software) provides access to unfiltered market data, helping financial professionals perform high-speed trading and comprehensive market analysis.
+2. **Thomson Reuters Eikon**: [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software) provides access to [unfiltered market data](../u/unfiltered_market_data.md), helping financial professionals perform high-speed trading and comprehensive market analysis.
 
-3. **Quandl**: [Quandl](https://www.quandl.com/) is a platform that supplies a wide array of unfiltered and alternative data sources for financial markets, enabling quantitative research and algorithmic trading development.
+3. **Quandl**: [Quandl](https://www.quandl.com/) is a platform that supplies a wide array of unfiltered and [alternative data](../a/alternative_data.md) sources for financial markets, enabling [quantitative research](../q/quantitative_research.md) and [algorithmic trading](../a/algorithmic_trading.md) development.
 
-4. **Xignite**: [Xignite](https://www.xignite.com/) offers financial market data APIs with unfiltered access to a variety of data sets, including equity prices, forex, derivatives, and commodities.
+4. **Xignite**: [Xignite](https://www.xignite.com/) offers financial market data APIs with unfiltered access to a variety of data sets, including equity prices, forex, [derivatives](../d/derivatives.md), and commodities.
 
 ## Conclusion
 
-Unfiltered data serves as a cornerstone for modern trading strategies, especially in contexts requiring utmost precision and rapid decision-making. While it offers unparalleled advantages in terms of transparency, freshness, and detail, it also presents several challenges that need meticulous handling. By adopting best practices and leveraging state-of-the-art data solutions, traders and financial analysts can harness the full potential of unfiltered data, enabling them to stay ahead in the highly competitive landscape of financial markets.
+Unfiltered data serves as a cornerstone for modern [trading strategies](../t/trading_strategies.md), especially in contexts requiring utmost precision and rapid decision-making. While it offers unparalleled advantages in terms of transparency, freshness, and detail, it also presents several challenges that need meticulous handling. By adopting best practices and leveraging state-of-the-art data solutions, traders and financial analysts can harness the full potential of unfiltered data, enabling them to stay ahead in the highly competitive landscape of financial markets.

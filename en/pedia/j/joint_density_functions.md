@@ -4,7 +4,7 @@ In probability theory and statistics, joint density functions are a crucial conc
 
 ## Joint Probability Density Function (PDF)
 
-The joint probability density function of two continuous random variables \(X\) and \(Y\) is denoted as \(f_{X,Y}(x, y)\). This function gives the probability that \(X\) falls within an infinitesimal range around \(x\) and \(Y\) falls within an infinitesimal range around \(y\). Mathematically, it is defined as:
+The joint [probability density function](../p/probability_density_function.md) of two continuous random variables \(X\) and \(Y\) is denoted as \(f_{X,Y}(x, y)\). This function gives the probability that \(X\) falls within an infinitesimal range around \(x\) and \(Y\) falls within an infinitesimal range around \(y\). Mathematically, it is defined as:
 
 \[ P(a \leq X \leq b, c \leq Y \leq d) = \int_{a}^{b} \int_{c}^{d} f_{X,Y}(x, y) \, dy \, dx \]
 
@@ -70,19 +70,19 @@ where \(\sigma_X\) and \(\sigma_Y\) are the standard deviations of \(X\) and \(Y
 
 ## Applications in Algorithmic Trading
 
-In algorithmic trading, joint density functions can be employed in various ways, including:
+In [algorithmic trading](../a/algorithmic_trading.md), joint density functions can be employed in various ways, including:
 
-1. **Risk Management**: Understanding the joint distribution of asset returns is crucial for portfolio optimization and risk assessment. For example, the joint density function of stock returns and market indices helps in identifying hedging strategies.
+1. **[Risk Management](../r/risk_management.md)**: Understanding the joint distribution of asset returns is crucial for [portfolio optimization](../p/portfolio_optimization.md) and risk assessment. For example, the joint density function of stock returns and market indices helps in identifying [hedging strategies](../h/hedging_strategies.md).
   
 2. **Option Pricing**: The valuation of multi-asset options can rely on the joint distribution of underlying asset prices. Models like the multivariate Black-Scholes use joint densities to price basket options.
 
-3. **Statistical Arbitrage**: Joint densities can be used to identify and exploit statistical relationships between different assets or financial instruments.
+3. **Statistical [Arbitrage](../a/arbitrage.md)**: Joint densities can be used to identify and exploit statistical relationships between different assets or financial instruments.
 
-4. **Machine Learning Models**: In financial modeling, joint density estimation can improve the performance of models predicting asset prices by capturing dependencies between variables.
+4. **Machine Learning Models**: In [financial modeling](../f/financial_modeling.md), joint density estimation can improve the performance of models predicting asset prices by capturing dependencies between variables.
 
 ### Example: Gaussian Copula
 
-One popular method for modeling joint distributions in algorithmic trading is the Gaussian copula, which captures the dependency structure between multiple variables. It is particularly useful for simulating correlated asset returns.
+One popular method for modeling joint distributions in [algorithmic trading](../a/algorithmic_trading.md) is the Gaussian copula, which captures the dependency structure between multiple variables. It is particularly useful for simulating correlated asset returns.
 
 The joint density function for a bivariate Gaussian copula with correlation \(\rho\) is given by:
 
@@ -92,4 +92,4 @@ Here, \(X\) and \(Y\) follow standard normal distributions but are correlated wi
 
 ## Conclusion
 
-Understanding joint density functions is foundational for dealing with multivariate data in probability and statistics. In the context of algorithmic trading, these concepts are vital for modeling asset returns, developing trading strategies, and managing risk effectively. The ability to analyze and comprehend the joint behavior of multiple financial variables offers a significant advantage in the competitive landscape of algorithmic trading.
+Understanding joint density functions is foundational for dealing with multivariate data in probability and statistics. In the context of [algorithmic trading](../a/algorithmic_trading.md), these concepts are vital for modeling asset returns, developing [trading strategies](../t/trading_strategies.md), and managing risk effectively. The ability to analyze and comprehend the joint behavior of multiple financial variables offers a significant advantage in the competitive landscape of [algorithmic trading](../a/algorithmic_trading.md).

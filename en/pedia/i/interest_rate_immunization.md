@@ -41,7 +41,7 @@ Interest rate immunization techniques are employed in various financial contexts
 Successfully implementing interest rate immunization requires a deep understanding of financial markets, interest rate behaviors, and bond mathematics. Here are the steps involved:
 
 1. **Determine the Investment Horizon:** Understanding the duration over which the portfolio needs protection.
-2. **Calculate Portfolio Duration:** Use Macaulay or Modified Duration to measure the sensitivity of the bond portfolio to interest rates.
+2. **Calculate [Portfolio Duration](../p/portfolio_duration.md):** Use Macaulay or Modified Duration to measure the sensitivity of the bond portfolio to interest rates.
 3. **Match Duration to Horizon:** Construct the portfolio so its duration matches the investment horizon.
 4. **Monitor and Rebalance:** Regularly review the portfolio to ensure that its duration remains in alignment with the changing investment horizon as interest rates fluctuate and bonds mature.
 
@@ -50,7 +50,7 @@ Successfully implementing interest rate immunization requires a deep understandi
 Interest rate immunization is not without its challenges. Investors must consider factors such as:
 
 1. **Transaction Costs:** Frequent rebalancing can incur significant costs.
-2. **Interest Rate Forecasting:** Accurate interest rate predictions are crucial for effective immunization.
+2. **[Interest Rate Forecasting](../i/interest_rate_forecasting.md):** Accurate interest rate predictions are crucial for effective immunization.
 3. **Credit Risk:** Changes in the credit quality of bonds can impact their duration and yield.
 
 ### Conclusion

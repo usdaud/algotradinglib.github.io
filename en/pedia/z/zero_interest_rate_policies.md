@@ -36,7 +36,7 @@ While ZIRP can provide substantial economic support, it is not without its risks
 #### Alternatives and Complementary Policies
 Central banks often use ZIRP in conjunction with other monetary policy tools to enhance its effectiveness. These may include:
 
-1. **Quantitative Easing (QE)**: Central banks purchase large amounts of financial assets, such as government bonds, to inject liquidity into the economy.
+1. **[Quantitative Easing](../q/quantitative_easing.md) (QE)**: Central banks purchase large amounts of financial assets, such as government bonds, to inject liquidity into the economy.
 2. **Forward Guidance**: Communicating future policy intentions to influence market expectations and economic behavior.
 3. **Negative Interest Rate Policies (NIRP)**: Setting nominal interest rates below zero to further encourage lending and investment.
 4. **Fiscal Policy Coordination**: Complementary government spending and tax policies to bolster economic activity alongside ZIRP.

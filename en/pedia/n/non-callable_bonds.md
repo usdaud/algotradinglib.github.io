@@ -47,7 +47,7 @@ Many government bonds are non-callable. For instance, U.S. Treasury bonds typica
 Some corporations issue non-callable bonds to attract investors seeking stability and predictability. These bonds might have varying credit qualities depending on the financial health of the issuing corporation.
 
 ### 3. Municipal Bonds
-Certain municipal bonds issued by local-government entities are non-callable, making them attractive to investors looking for tax-advantaged fixed-income securities.
+Certain [municipal bonds](../m/municipal_bonds.md) issued by local-government entities are non-callable, making them attractive to investors looking for tax-advantaged fixed-income securities.
 
 ## Examples of Non-Callable Bond Offerings
 

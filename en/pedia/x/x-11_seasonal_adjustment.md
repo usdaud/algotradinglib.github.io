@@ -1,12 +1,12 @@
 # X-11 Seasonal Adjustment
 
-X-11 Seasonal Adjustment (X-11) is a time series analysis technique developed for the purpose of identifying and removing seasonal components from data. Given its detailed methodology and practical applications, X-11 has been extensively utilized in various fields such as economics, finance, and meteorology to make the underlying trends and patterns in data more prominent.
+X-11 Seasonal Adjustment (X-11) is a [time series analysis](../t/time_series_analysis.md) technique developed for the purpose of identifying and removing seasonal components from data. Given its detailed methodology and practical applications, X-11 has been extensively utilized in various fields such as economics, finance, and meteorology to make the underlying trends and patterns in data more prominent.
 
 ## Introduction to Seasonal Adjustment
 
-Seasonal adjustment is crucial in time series analysis because it helps in eradicating the effects of seasonal variations, making the data easier to analyze for other trends and cyclical movements. Seasonal variations are systematic and calendar-related movements that repeat over a year, such as increased retail sales during holiday seasons or fluctuations in weather patterns.
+Seasonal adjustment is crucial in [time series analysis](../t/time_series_analysis.md) because it helps in eradicating the effects of seasonal variations, making the data easier to analyze for other trends and cyclical movements. Seasonal variations are systematic and calendar-related movements that repeat over a year, such as increased retail sales during holiday seasons or fluctuations in weather patterns.
 
-X-11, a part of the X-11 family of techniques which also includes X-12 and X-13-ARIMA-SEATS, was initially developed by the United States Census Bureau in the 1950s and 1960s. Its algorithm has paved the way for more sophisticated seasonal adjustment techniques but remains a cornerstone in time series analysis.
+X-11, a part of the X-11 family of techniques which also includes X-12 and X-13-ARIMA-SEATS, was initially developed by the United States Census Bureau in the 1950s and 1960s. Its algorithm has paved the way for more sophisticated seasonal adjustment techniques but remains a cornerstone in [time series analysis](../t/time_series_analysis.md).
 
 ## The X-11 Methodology
 
@@ -30,10 +30,10 @@ Once the seasonal factors are refined, they are again applied to the original se
 ## Implementation and Usages
 
 ### Government and Economic Agencies
-Government and economic agencies, such as statistical bureaus and central banks, use X-11 for monthly and quarterly data to publish seasonally adjusted economic indicators like GDP, unemployment rates, and industrial production indices. By adjusting for seasonality, these agencies can provide more accurate representations of economic conditions, leading to better policy-making decisions.
+Government and economic agencies, such as statistical bureaus and central banks, use X-11 for monthly and quarterly data to publish seasonally adjusted [economic indicators](../e/economic_indicators.md) like GDP, unemployment rates, and industrial production indices. By adjusting for seasonality, these agencies can provide more accurate representations of economic conditions, leading to better policy-making decisions.
 
 ### Financial Institutions
-Financial institutions employ X-11 for analyzing market trends and forecasting price movements. Removing seasonal effects from financial time series like stock prices or interest rates enables analysts to better perceive cycles and trends, critical for making informed trading decisions.
+Financial institutions employ X-11 for analyzing market trends and forecasting price movements. Removing seasonal effects from [financial time series](../f/financial_time_series.md) like stock prices or interest rates enables analysts to better perceive cycles and trends, critical for making informed trading decisions.
 
 ### E-Commerce and Retail
 In the retail sector, businesses utilize X-11 to seasonally adjust sales data, allowing for a more precise understanding of sales performance and inventory management. This helps in differentiating regular sales trends from seasonal sales booms associated with holidays or events.
@@ -59,4 +59,4 @@ EViews is another econometric software offering X-11 seasonal adjustment as one 
 
 ## Conclusion
 
-The X-11 Seasonal Adjustment methodology remains a fundamental technique in time series analysis for removing seasonal components and revealing underlying trends. Its extensive application across diverse fields underscores its importance and versatility. Despite the advent of newer and more sophisticated techniques like X-12-ARIMA and X-13-ARIMA-SEATS, X-11 retains its significance due to its robustness, simplicity, and effectiveness.
+The X-11 Seasonal Adjustment methodology remains a fundamental technique in [time series analysis](../t/time_series_analysis.md) for removing seasonal components and revealing underlying trends. Its extensive application across diverse fields underscores its importance and versatility. Despite the advent of newer and more sophisticated techniques like X-12-ARIMA and X-13-ARIMA-SEATS, X-11 retains its significance due to its robustness, simplicity, and effectiveness.

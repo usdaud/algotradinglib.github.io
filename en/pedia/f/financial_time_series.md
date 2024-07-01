@@ -1,6 +1,6 @@
 # Financial Time Series
 
-**Financial time series** refers to the sequence of data points pertaining to financial indices, exchanges, commodity prices, interest rates, or other financial metrics, ordered in time. This type of data is typically indexed in regular intervals such as daily, hourly, or even by the minute, and is crucial for the analysis and modeling in quantitative finance and algotrading. Here we provide a comprehensive overview of the various aspects of financial time series in the context of algorithmic trading.
+**Financial time series** refers to the sequence of data points pertaining to financial indices, exchanges, commodity prices, interest rates, or other financial metrics, ordered in time. This type of data is typically indexed in regular intervals such as daily, hourly, or even by the minute, and is crucial for the analysis and modeling in [quantitative finance](../q/quantitative_finance.md) and algotrading. Here we provide a comprehensive overview of the various aspects of financial time series in the context of [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Introduction to Financial Time Series
 
@@ -19,13 +19,13 @@ Financial time series data is characterized by:
 1. **Non-Stationarity**: Financial time series data often exhibit trends and seasonal effects.
 2. **Volatility**: Financial markets can experience high levels of volatility.
 3. **Auto-correlation**: Past values can influence future values.
-4. **External factors**: Events like economic news, geopolitical events, or earnings reports can cause sudden movements.
+4. **External factors**: Events like economic news, [geopolitical events](../g/geopolitical_events.md), or earnings reports can cause sudden movements.
 
 ### Importance in Algorithmic Trading
 
-Algorithmic trading relies on financial time series analysis to:
+[Algorithmic trading](../a/algorithmic_trading.md) relies on financial [time series analysis](../t/time_series_analysis.md) to:
 
-- Develop and backtest trading strategies.
+- Develop and backtest [trading strategies](../t/trading_strategies.md).
 - Forecast future prices or market directions.
 - Assess the risk-return profile of assets or portfolios.
 
@@ -33,7 +33,7 @@ Algorithmic trading relies on financial time series analysis to:
 
 ### Historical Data
 
-Historical data is essential for backtesting trading strategies. Sources include:
+Historical data is essential for [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md). Sources include:
 
 - **Exchanges and market data providers**: Providing raw data feeds (e.g., NYSE [link](https://www.nyse.com/), NASDAQ [link](https://www.nasdaq.com/)).
 - **Third-party services**: Platforms like Bloomberg [link](https://www.bloomberg.com/), Reuters [link](https://www.reuters.com/), and Quandl [link](https://www.quandl.com/) offer extensive financial databases.
@@ -75,7 +75,7 @@ ARIMA is a popular model for analyzing and forecasting financial time series. It
 
 ### GARCH (Generalized Autoregressive Conditional Heteroskedasticity)
 
-GARCH models, such as GARCH(1,1), are used to model and forecast changing variances and are especially useful for volatility estimation in financial markets.
+[GARCH models](../g/garch_models.md), such as GARCH(1,1), are used to model and forecast changing variances and are especially useful for [volatility estimation](../v/volatility_estimation.md) in financial markets.
 
 ### Machine Learning Methods
 
@@ -89,7 +89,7 @@ Recent advances include the application of machine learning models:
 
 ### Risk Metrics
 
-Proper risk management is vital in algorithmic trading. Key metrics include:
+Proper [risk management](../r/risk_management.md) is vital in [algorithmic trading](../a/algorithmic_trading.md). Key metrics include:
 
 - **Value at Risk (VaR)**: Measures potential loss over a specified time frame at a given confidence level.
 - **Drawdown**: Represents the peak-to-trough decline during a specific period.
@@ -98,8 +98,8 @@ Proper risk management is vital in algorithmic trading. Key metrics include:
 
 Assessing strategy performance typically involves:
 
-- **Sharpe Ratio**: Measures risk-adjusted return.
-- **Sortino Ratio**: Variation of Sharpe Ratio that considers downside risk.
+- **[Sharpe Ratio](../s/sharpe_ratio.md)**: Measures [risk-adjusted return](../r/risk-adjusted_return.md).
+- **[Sortino Ratio](../s/sortino_ratio.md)**: Variation of [Sharpe Ratio](../s/sharpe_ratio.md) that considers downside risk.
 - **Alpha**: Measures the strategy's excess return relative to a benchmark.
 
 ## Tools and Platforms
@@ -111,11 +111,11 @@ Assessing strategy performance typically involves:
 
 ### Trading Platforms and Software
 
-- **MetaTrader**: Widely used for forex and CFDs trading, with support for algorithmic trading scripts.
+- **MetaTrader**: Widely used for forex and CFDs trading, with support for [algorithmic trading](../a/algorithmic_trading.md) scripts.
 - **NinjaTrader**: Integrated platform for futures and forex trading.
-- **QuantConnect**: Cloud-based algorithmic trading platform.
-- **Interactive Brokers**: Offers a trading API allowing for algorithmic execution.
+- **QuantConnect**: Cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform.
+- **Interactive Brokers**: Offers a trading API allowing for [algorithmic execution](../a/algorithmic_execution.md).
 
 ## Conclusion
 
-The study and application of financial time series are foundational to the development of sophisticated trading algorithms. Understanding the nuances of data collection, preprocessing, modeling, and analysis equips traders and financial analysts to develop strategies that can adapt to market conditions, yielding important insights and potential financial gains.
+The study and application of financial time series are foundational to the development of sophisticated [trading algorithms](../t/trading_algorithms.md). Understanding the nuances of data collection, preprocessing, modeling, and analysis equips traders and financial analysts to develop strategies that can adapt to market conditions, yielding important insights and potential financial gains.

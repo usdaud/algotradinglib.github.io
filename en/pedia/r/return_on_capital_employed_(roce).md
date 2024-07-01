@@ -110,7 +110,7 @@ Improving operational efficiency through better resource management, cost contro
 
 ### Effective Capital Management
 
-Strategic decisions regarding capital investments, asset utilization, and working capital management can positively influence Capital Employed, leading to a higher ROCE.
+Strategic decisions regarding capital investments, asset utilization, and [working capital management](../w/working_capital_management.md) can positively influence Capital Employed, leading to a higher ROCE.
 
 ### Debt Management
 
@@ -118,7 +118,7 @@ Maintaining an optimal balance between debt and equity financing can reduce inte
 
 ### Asset Turnover
 
-Increasing asset turnover by generating higher sales with the same asset base can significantly improve ROCE. This can be achieved through enhanced marketing strategies, product innovation, and market expansion.
+Increasing [asset turnover](../a/asset_turnover.md) by generating higher sales with the same asset base can significantly improve ROCE. This can be achieved through enhanced marketing strategies, product innovation, and market expansion.
 
 ## Conclusion
 

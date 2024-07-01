@@ -50,7 +50,7 @@ When data is not linearly separable, SVM can still be used through the applicati
 
 ### SVM for Regression (SVR)
 
-Support Vector Regression (SVR) is an extension of SVM for regression tasks. SVR aims to find a function that deviates from the actual observed targets by a value no greater than a specified margin. The goal is to ensure that the predicted value lies within a certain distance from the actual value, defined by a threshold parameter \( \epsilon \).
+[Support Vector Regression](../s/support_vector_regression.md) (SVR) is an extension of SVM for regression tasks. SVR aims to find a function that deviates from the actual observed targets by a value no greater than a specified margin. The goal is to ensure that the predicted value lies within a certain distance from the actual value, defined by a threshold parameter \( \epsilon \).
 
 #### Formulation
 
@@ -62,7 +62,7 @@ Where \( L_{\epsilon} \) is the epsilon-insensitive loss function:
 
 ### SVM for Outlier Detection
 
-One-Class SVM, an extension of SVM, is particularly useful for outlier detection and anomaly detection. It fits an SVM model to the 'normal' data and identifies outliers that fall outside the learned decision boundary.
+One-Class SVM, an extension of SVM, is particularly useful for outlier detection and [anomaly detection](../a/anomaly_detection.md). It fits an SVM model to the 'normal' data and identifies outliers that fall outside the learned decision boundary.
 
 ## Implementation of SVM
 
@@ -71,7 +71,7 @@ One-Class SVM, an extension of SVM, is particularly useful for outlier detection
 1. **scikit-learn**: A popular Python library for machine learning, which provides robust support for SVM through its `svm` module. [scikit-learn](https://scikit-learn.org/stable/modules/svm.html)
 2. **LIBSVM**: A library for Support Vector Machines that is widely used for SVM implementation. [LIBSVM](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
 3. **TensorFlow**: An open-source library for machine learning that also supports SVM implementations. [TensorFlow SVM](https://www.tensorflow.org/overview)
-4. **KERAS**: An open-source software library that provides a Python interface for artificial neural networks and also has modules to integrate SVM. [KERAS](https://keras.io/)
+4. **KERAS**: An open-source software library that provides a Python interface for [artificial neural networks](../a/artificial_neural_networks.md) and also has modules to integrate SVM. [KERAS](https://keras.io/)
 
 ### Example Code in Python
 
@@ -105,7 +105,7 @@ print("Accuracy: ", clf.score(X_test, y_test))
 
 ### Financial Market Prediction
 
-SVMs are extensively used in the finance industry for stock price prediction, risk management, and algorithmic trading. They can model complex relationships in financial data and provide robust predictive capabilities.
+SVMs are extensively used in the finance industry for stock price prediction, [risk management](../r/risk_management.md), and [algorithmic trading](../a/algorithmic_trading.md). They can model complex relationships in financial data and provide robust predictive capabilities.
 
 ### Medical Diagnosis
 
@@ -121,7 +121,7 @@ SVMs are widely used in image and speech recognition systems. They help in handw
 
 ### Text Categorization
 
-Support Vector Machines can efficiently categorize text, such as emails, news articles, and social media posts, into predefined categories. They are useful in spam detection, sentiment analysis, and topic classification.
+Support Vector Machines can efficiently categorize text, such as emails, news articles, and social media posts, into predefined categories. They are useful in spam detection, [sentiment analysis](../s/sentiment_analysis.md), and topic classification.
 
 ## Challenges with SVM
 

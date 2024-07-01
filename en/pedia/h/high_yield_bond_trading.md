@@ -1,8 +1,8 @@
 # **High Yield Bond Trading**
 
-High yield bond trading, often referred to as "junk bond trading," involves the buying and selling of bonds that have been rated below investment grade by established credit rating agencies such as Moody's, Standard & Poor's, and Fitch Ratings. These bonds carry higher risk due to the issuing company's higher chance of default but offer higher potential returns as compensation for that risk. High yield bonds are typically rated BB+ or lower by Standard & Poor's and Fitch, and Ba1 or lower by Moody's. 
+High yield bond trading, often referred to as "[junk bond trading](../j/junk_bond_trading.md)," involves the buying and selling of bonds that have been rated below investment grade by established credit rating agencies such as Moody's, Standard & Poor's, and Fitch Ratings. These bonds carry higher risk due to the issuing company's higher chance of default but offer higher potential returns as compensation for that risk. High yield bonds are typically rated BB+ or lower by Standard & Poor's and Fitch, and Ba1 or lower by Moody's. 
 
-High yield bond trading is an intricate field that attracts a spectrum of traders, from individual investors to institutional investors such as mutual funds, hedge funds, and insurance companies. The primary reasons for engaging in high yield bond trading include the pursuit of higher income through coupon payments, capital appreciation opportunities, and portfolio diversification.
+High yield bond trading is an intricate field that attracts a spectrum of traders, from individual investors to institutional investors such as mutual funds, hedge funds, and insurance companies. The primary reasons for engaging in high yield bond trading include the pursuit of higher income through coupon payments, capital appreciation opportunities, and [portfolio diversification](../p/portfolio_diversification.md).
 
 ### Characteristics of High Yield Bonds
 
@@ -22,15 +22,15 @@ High yield bond trading is an intricate field that attracts a spectrum of trader
 
 ### Strategies for High Yield Bond Trading
 
-**1. Fundamental Analysis:** Evaluating the financial health of the issuer, industry conditions, and macroeconomic factors are critical. This includes analyzing financial statements, credit rating reports, and market conditions.
+**1. [Fundamental Analysis](../f/fundamental_analysis.md):** Evaluating the financial health of the issuer, industry conditions, and macroeconomic factors are critical. This includes analyzing financial statements, credit rating reports, and market conditions.
 
-**2. Technical Analysis:** Analyzing price charts, dealing with past price movements, and using statistical measures to predict future price movements.
+**2. [Technical Analysis](../t/technical_analysis.md):** Analyzing price charts, dealing with past price movements, and using statistical measures to predict future price movements.
 
 **3. Diversification:** Spreading investments across different issuers, sectors, and regions to mitigate risk.
 
 **4. Active Management:** Actively monitoring and adjusting the portfolio in response to changes in the market or the creditworthiness of issuers.
 
-**5. Opportunistic Trading:** Taking advantage of market inefficiencies and mispricings, often achieved through advanced trading algorithms and models (algo-trading).
+**5. Opportunistic Trading:** Taking advantage of market inefficiencies and mispricings, often achieved through advanced [trading algorithms](../t/trading_algorithms.md) and models (algo-trading).
 
 ### High Yield Bond Funds
 
@@ -54,7 +54,7 @@ Investors who prefer not to invest directly in individual high yield bonds might
 
 **2. Interest Rate Risk:** Changes in interest rates can affect the value of high yield bonds. Rising rates generally lead to falling bond prices and vice versa.
 
-**3. Liquidity Risk:** High yield bonds can be less liquid than investment grade bonds, making it more difficult to buy or sell without affecting the price.
+**3. [Liquidity Risk](../l/liquidity_risk.md):** High yield bonds can be less liquid than investment grade bonds, making it more difficult to buy or sell without affecting the price.
 
 **4. Economic Risk:** Economic downturns can lead to higher default rates and reduced market demand for high yield bonds.
 

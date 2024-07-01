@@ -34,7 +34,7 @@ Several factors influence the returns on venture capital investments:
 Returns in venture capital are determined mainly through two metrics:
    
 1. **Internal Rate of Return (IRR)**:
-   - This is the annualized rate of return on an investment that accounts for the time value of money. It is one of the most common metrics used to assess venture capital performance.
+   - This is the annualized rate of return on an investment that accounts for the time value of money. It is one of the most common metrics used to assess [venture capital performance](../v/venture_capital_performance.md).
    - **Calculation Example**:
      ```math
      IRR = ∑ [Cash Inflow / (1 + rate)^n] - Initial Investment = 0
@@ -63,16 +63,16 @@ Benchmarking venture capital returns is challenging due to the variability in in
 
 ## Risk Management in Venture Capital
 
-Returns from venture capital are highly volatile and tied closely to risk management practices:
+Returns from venture capital are highly volatile and tied closely to [risk management](../r/risk_management.md) practices:
 
-1. **Portfolio Diversification**:
+1. **[Portfolio Diversification](../p/portfolio_diversification.md)**:
    - **Sector Diversification**: Investing across multiple sectors reduces exposure to industry-specific risks.
    - **Stage Diversification**: Balancing investments across different stages can mitigate risks associated with startup lifecycle stages.
 
 2. **Due Diligence**:
    - Thorough vetting of potential investments reduces the risk of failure. This includes assessing the business model, market potential, and the management team's competencies.
 
-3. **Active Portfolio Management**:
+3. **[Active Portfolio Management](../a/active_portfolio_management.md)**:
    - Engaging with portfolio companies to aid growth and navigate challenges can improve venture performance and enhance returns.
 
 ## Notable Venture Capital Firms
@@ -108,7 +108,7 @@ Examining real-world case studies can illustrate the potential and variability o
 
 ## Conclusion
 
-Venture capital returns offer the potential for substantial gains but demand a keen understanding of the involved risks, diligent portfolio management, and strategic investment selections across various stages and sectors. By leveraging industry benchmarks, managing risks effectively, and learning from both successes and failures, investors can enhance their prospects for achieving high returns in the volatile venture capital landscape.
+Venture capital returns offer the potential for substantial gains but demand a keen understanding of the involved risks, diligent [portfolio management](../p/portfolio_management.md), and strategic investment selections across various stages and sectors. By leveraging industry benchmarks, managing risks effectively, and learning from both successes and failures, investors can enhance their prospects for achieving high returns in the volatile venture capital landscape.
 
 **Sources**:
 - Sequoia Capital: [Sequoia Capital](https://www.sequoiacap.com/)

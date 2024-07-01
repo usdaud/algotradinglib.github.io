@@ -1,6 +1,6 @@
 ### JGB (Japanese Government Bonds) Trading
 
-Japanese Government Bonds (JGBs) are debt securities issued by the Japanese government. These bonds play a crucial role in the Japanese financial system and are a significant component of the country's debt market. JGBs are used by the Japanese government to raise funds for various public expenditures, including infrastructure projects, social welfare programs, and other public services. This document provides an in-depth look at JGB trading, covering the various types of JGBs, their market dynamics, and the role of algorithmic trading in this market.
+Japanese Government Bonds (JGBs) are debt securities issued by the Japanese government. These bonds play a crucial role in the Japanese financial system and are a significant component of the country's debt market. JGBs are used by the Japanese government to raise funds for various public expenditures, including infrastructure projects, social welfare programs, and other public services. This document provides an in-depth look at JGB trading, covering the various types of JGBs, their market dynamics, and the role of [algorithmic trading](../a/algorithmic_trading.md) in this market.
 
 #### Types of Japanese Government Bonds
 
@@ -26,7 +26,7 @@ The JGB market is one of the largest and most liquid bond markets in the world. 
 
 1. **Economic Data:** Indicators such as GDP growth, unemployment rates, and industrial production can impact investor sentiment and influence JGB yields.
 
-2. **Monetary Policy:** The Bank of Japan's (BoJ) monetary policy, including interest rate decisions and quantitative easing measures, has a significant impact on JGB yields.
+2. **Monetary Policy:** The Bank of Japan's (BoJ) monetary policy, including interest rate decisions and [quantitative easing](../q/quantitative_easing.md) measures, has a significant impact on JGB yields.
 
 3. **Global Financial Markets:** Movements in global financial markets, particularly the US Treasury market, can affect JGB yields due to the interconnected nature of global capital flows.
 
@@ -36,15 +36,15 @@ The JGB market is one of the largest and most liquid bond markets in the world. 
 
 #### Algorithmic Trading in the JGB Market
 
-Algorithmic trading, or algo-trading, involves the use of automated systems to execute trades based on predefined criteria. In the JGB market, algorithmic trading has become increasingly prevalent due to the market's liquidity and the need for efficient trade execution. There are several key strategies and technologies used in JGB algo-trading:
+[Algorithmic trading](../a/algorithmic_trading.md), or algo-trading, involves the use of automated systems to execute trades based on predefined criteria. In the JGB market, [algorithmic trading](../a/algorithmic_trading.md) has become increasingly prevalent due to the market's liquidity and the need for efficient trade execution. There are several key strategies and technologies used in JGB algo-trading:
 
 ##### 1. Market Making
 
-Market-making algorithms provide liquidity by continuously quoting buy and sell prices for JGBs. These algorithms aim to profit from the bid-ask spread while managing inventory risk. Market-making algos use sophisticated models to price JGBs and dynamically adjust their quotes based on market conditions.
+Market-making algorithms provide liquidity by continuously quoting buy and sell prices for JGBs. These algorithms aim to profit from the [bid-ask spread](../b/bid-ask_spread.md) while managing inventory risk. Market-making algos use sophisticated models to price JGBs and dynamically adjust their quotes based on market conditions.
 
 ##### 2. Arbitrage
 
-Arbitrage strategies seek to exploit price discrepancies between different JGB instruments or between JGBs and related financial products, such as futures or options. These strategies require high-speed execution and sophisticated risk management to capture small, fleeting price differences.
+[Arbitrage](../a/arbitrage.md) strategies seek to exploit price discrepancies between different JGB instruments or between JGBs and related financial products, such as futures or options. These strategies require high-speed execution and sophisticated [risk management](../r/risk_management.md) to capture small, fleeting price differences.
 
 ##### 3. Trend Following
 
@@ -52,22 +52,22 @@ Trend-following algorithms identify and capitalize on momentum in JGB price move
 
 ##### 4. Statistical Arbitrage
 
-Statistical arbitrage strategies use quantitative models to identify and exploit statistical relationships between JGB prices and other financial variables. These strategies often involve complex mathematical models and require significant computational power to identify profitable opportunities.
+Statistical [arbitrage](../a/arbitrage.md) strategies use [quantitative models](../q/quantitative_models.md) to identify and exploit statistical relationships between JGB prices and other financial variables. These strategies often involve complex mathematical models and require significant computational power to identify profitable opportunities.
 
 #### Key Players in the JGB Algo-Trading Market
 
 Several firms are prominent in the JGB algo-trading space, offering advanced trading platforms and services. Here are some key players:
 
-1. **Nomura Securities** - [Nomura Securities](https://www.nomura.com/) is a leading financial services group and global investment bank, providing a wide range of services, including algorithmic trading solutions for JGBs.
+1. **Nomura Securities** - [Nomura Securities](https://www.nomura.com/) is a leading financial services group and global investment bank, providing a wide range of services, including [algorithmic trading](../a/algorithmic_trading.md) solutions for JGBs.
 
-2. **Daiwa Securities** - [Daiwa Securities](https://www.daiwa-grp.jp/english/) is another major player in the Japanese financial market, offering algorithmic trading and other advanced trading services.
+2. **Daiwa Securities** - [Daiwa Securities](https://www.daiwa-grp.jp/english/) is another major player in the Japanese financial market, offering [algorithmic trading](../a/algorithmic_trading.md) and other advanced trading services.
 
 3. **Monex Group** - [Monex Group](https://www.monexgroup.jp/en/) provides online trading services and has a strong presence in the JGB market through its algo-trading platforms.
 
-4. **SMBC Nikko Securities** - [SMBC Nikko Securities](https://www.smbcnikko.co.jp/en/index.html) offers a range of financial services, including sophisticated algorithmic trading solutions for institutional investors.
+4. **SMBC Nikko Securities** - [SMBC Nikko Securities](https://www.smbcnikko.co.jp/en/index.html) offers a range of financial services, including sophisticated [algorithmic trading](../a/algorithmic_trading.md) solutions for institutional investors.
 
 #### Conclusion
 
-The trading of Japanese Government Bonds (JGBs) is a critical component of Japan's financial markets, offering a range of investment opportunities for both domestic and international investors. The advent of algorithmic trading has transformed the JGB market, enabling more efficient and sophisticated trading strategies. As technology continues to evolve, the role of algo-trading in the JGB market is likely to grow, offering new opportunities and challenges for market participants.
+The trading of Japanese Government Bonds (JGBs) is a critical component of Japan's financial markets, offering a range of investment opportunities for both domestic and international investors. The advent of [algorithmic trading](../a/algorithmic_trading.md) has transformed the JGB market, enabling more efficient and sophisticated [trading strategies](../t/trading_strategies.md). As technology continues to evolve, the role of algo-trading in the JGB market is likely to grow, offering new opportunities and challenges for market participants.
 
 For more information on Japanese Government Bonds and trading opportunities, consider visiting the websites of the key players mentioned above.

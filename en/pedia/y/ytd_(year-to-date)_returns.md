@@ -1,6 +1,6 @@
 # YTD (Year-to-Date) Returns
 
-"Year-to-Date" (YTD) returns is a financial term that refers to the profit or loss an investment has generated since the beginning of the current calendar year until the present date. This measurement is used broadly in various contexts, including personal investing, portfolio management, and corporate finances, to assess performance.
+"Year-to-Date" (YTD) returns is a financial term that refers to the profit or loss an investment has generated since the beginning of the current calendar year until the present date. This measurement is used broadly in various contexts, including personal investing, [portfolio management](../p/portfolio_management.md), and corporate finances, to assess performance.
 
 ## Understanding YTD Returns
 
@@ -26,7 +26,7 @@ YTD returns are essential for benchmarking the performance of individual investm
 
 ### Strategic Decision Making
 
-Investors, fund managers, and corporate decision-makers use YTD returns to make more informed decisions regarding future investments or financial strategies. By examining YTD returns, one can identify trends and adjust allocations to improve portfolio performance.
+Investors, fund managers, and corporate decision-makers use YTD returns to make more informed decisions regarding future investments or financial strategies. By examining YTD returns, one can identify trends and adjust allocations to improve [portfolio performance](../p/portfolio_performance.md).
 
 ### Performance Reporting
 
@@ -58,4 +58,4 @@ Various companies and financial institutions utilize YTD returns in their perfor
 
 ## Conclusion
 
-YTD returns serve as a critical metric for investors, financial analysts, and corporate decision-makers to evaluate and compare the performance of investments within the current calendar year. While it offers valuable insights, it is essential to consider its limitations and complement it with other performance metrics for thorough financial analysis.
+YTD returns serve as a critical metric for investors, financial analysts, and corporate decision-makers to evaluate and compare the performance of investments within the current calendar year. While it offers valuable insights, it is essential to consider its limitations and complement it with other [performance metrics](../p/performance_metrics.md) for thorough financial analysis.

@@ -48,7 +48,7 @@ Ethical investment management demands transparency and honesty. Window dressing 
 Various mutual funds and hedge funds have been known to engage in window dressing. Here are a few known instances:
 
 ### Mutual Fund Managers
-Many mutual fund managers engage in window dressing at the end of an accounting period. Gregory J. Phelps, a noted financial advisor, points out that “window dressing is a key reason why investors should be skeptical of short-term fund performance.” (Phelps, Financial Planning Association, 2021)
+Many mutual fund managers engage in window dressing at the end of an accounting period. Gregory J. Phelps, a noted financial advisor, points out that “window dressing is a key reason why investors should be skeptical of short-term fund performance.” (Phelps, [Financial Planning](../f/financial_planning.md) Association, 2021)
 
 ### Brussel-Boek, Inc.
 Brussel-Boek, a hedge fund management company, provides insight into its methods to avoid window dressing. They emphasize a long-term investment strategy and transparency in their annual reports.
@@ -57,4 +57,4 @@ For more information on their approach, visit their [official website](https://w
 
 ## Conclusion
 
-Window dressing is a common practice in financial markets aimed at improving the appearance of a portfolio's performance. While it can temporarily boost the appeal of a fund, it also carries risks related to misleading reporting, short-term focus, and investor trust issues. Ethical and regulatory considerations play a significant role in how window dressing is perceived and managed. It is essential for investors to understand these practices and be skeptical of short-term performance metrics, focusing instead on long-term results and transparency.
+Window dressing is a common practice in financial markets aimed at improving the appearance of a portfolio's performance. While it can temporarily boost the appeal of a fund, it also carries risks related to misleading reporting, short-term focus, and investor trust issues. Ethical and regulatory considerations play a significant role in how window dressing is perceived and managed. It is essential for investors to understand these practices and be skeptical of short-term [performance metrics](../p/performance_metrics.md), focusing instead on long-term results and transparency.

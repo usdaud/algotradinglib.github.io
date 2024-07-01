@@ -6,7 +6,7 @@ Portfolio duration is a financial metric used to assess the sensitivity of a por
 
 ### Definition
 
-Duration measures the weighted average time it takes to receive the cash flows (both interest and principal payments) from an investment. It is expressed in years. The concept of duration is pivotal because it provides a measure of the price sensitivity of a bond or a bond portfolio to changes in interest rates. When applied at the portfolio level, it helps manage the overall interest rate sensitivity of the portfolio.
+Duration measures the weighted average time it takes to receive the cash flows (both interest and principal payments) from an investment. It is expressed in years. The concept of duration is pivotal because it provides a measure of the price sensitivity of a bond or a bond portfolio to changes in interest rates. When applied at the portfolio level, it helps manage the overall [interest rate sensitivity](../i/interest_rate_sensitivity.md) of the portfolio.
 
 There are different types of duration:
 1. **Macaulay Duration**: This is the weighted average time until the cash flows are received and is used primarily for academic purposes.
@@ -51,7 +51,7 @@ Finally, sum these weighted durations to get the portfolio duration:
 
 ### Risk Management
 
-Portfolio duration is a critical measure in risk management as it helps investors understand how changes in interest rates will affect the overall value of their bond holdings. A higher duration implies greater sensitivity to interest rate changes, meaning the portfolio's value will fluctuate more with interest rate movements.
+Portfolio duration is a critical measure in [risk management](../r/risk_management.md) as it helps investors understand how changes in interest rates will affect the overall value of their bond holdings. A higher duration implies greater sensitivity to interest rate changes, meaning the portfolio's value will fluctuate more with interest rate movements.
 
 ### Asset Liability Matching
 
@@ -59,7 +59,7 @@ Financial institutions such as banks, pension funds, and insurance companies use
 
 ### Yield Curve Positioning
 
-Investors can use duration to position their portfolios along the yield curve. By adjusting the duration, an investor can take advantage of expectations about future interest rate movements. For example, if rates are expected to rise, an investor might shorten the duration to reduce price sensitivity.
+Investors can use duration to position their portfolios along the [yield curve](../y/yield_curve.md). By adjusting the duration, an investor can take advantage of expectations about future interest rate movements. For example, if rates are expected to rise, an investor might shorten the duration to reduce price sensitivity.
 
 ### Performance Measurement
 
@@ -69,7 +69,7 @@ Portfolio duration is also a key factor in performance measurement and attributi
 
 ### Limitations
 
-While portfolio duration is a useful tool, it has limitations. Duration assumes a linear relationship between price changes and yield changes, which may not hold true for large interest rate movements. Additionally, duration does not account for changes in the shape of the yield curve (non-parallel shifts).
+While portfolio duration is a useful tool, it has limitations. Duration assumes a linear relationship between price changes and yield changes, which may not hold true for large interest rate movements. Additionally, duration does not account for changes in the shape of the [yield curve](../y/yield_curve.md) (non-parallel shifts).
 
 ### Duration Targeting
 
@@ -101,4 +101,4 @@ For further insights into PIMCO's approach, visit their [official site](https://
 
 ## Conclusion
 
-Portfolio duration is an indispensable tool in fixed-income portfolio management. It provides valuable insights into interest rate risk, assists in asset-liability matching, aids in yield curve positioning, and contributes to performance measurement. By understanding and applying duration concepts, investors can make more informed decisions, better manage risk, and enhance their portfolios' overall performance.
+Portfolio duration is an indispensable tool in fixed-income [portfolio management](../p/portfolio_management.md). It provides valuable insights into interest rate risk, assists in asset-liability matching, aids in [yield curve](../y/yield_curve.md) positioning, and contributes to performance measurement. By understanding and applying duration concepts, investors can make more informed decisions, better manage risk, and enhance their portfolios' overall performance.

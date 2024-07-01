@@ -1,6 +1,6 @@
 # Exponential Smoothing
 
-Exponential Smoothing is a time series forecasting method for univariate data that can be extended to support data with a systematic trend or seasonal component. The technique weights past observations with exponentially decreasing weights to forecast future values, providing smoothed time series data by diminishing the significance of old data points.
+Exponential Smoothing is a [time series forecasting](../t/time_series_forecasting.md) method for univariate data that can be extended to support data with a systematic trend or seasonal component. The technique weights past observations with exponentially decreasing weights to forecast future values, providing smoothed time series data by diminishing the significance of old data points.
 
 ## Principle of Exponential Smoothing
 
@@ -76,7 +76,7 @@ where:
 
 ## Limitations of Exponential Smoothing
 
-1. **Limited to Univariate Time Series**:
+1. **Limited to [Univariate Time Series](../u/univariate_time_series.md)**:
    - The method primarily handles a single time series and does not account for multivariate data.
 
 2. **Smoothing Parameter Selection**:
@@ -87,14 +87,14 @@ where:
 
 ## Application in Algorithmic Trading
 
-In algorithmic trading, exponential smoothing is often used for price prediction, volatility forecasting, and signal generation. By smoothing past price data, traders can generate buy and sell signals based on smoothed trend lines, predicting potential future movements.
+In [algorithmic trading](../a/algorithmic_trading.md), exponential smoothing is often used for price prediction, [volatility forecasting](../v/volatility_forecasting.md), and signal generation. By smoothing past price data, traders can generate buy and sell signals based on smoothed trend lines, predicting potential future movements.
 
 **Example Application**:
 
-Many algorithmic trading platforms like [AQR Capital Management](https://www.aqr.com/) and [Two Sigma](https://www.twosigma.com/) employ various time series forecasting methods, including exponential smoothing, for strategy development, risk management, and decision-making processes.
+Many [algorithmic trading](../a/algorithmic_trading.md) platforms like [AQR Capital Management](https://www.aqr.com/) and [Two Sigma](https://www.twosigma.com/) employ various [time series forecasting](../t/time_series_forecasting.md) methods, including exponential smoothing, for strategy development, [risk management](../r/risk_management.md), and decision-making processes.
 
 These quantitative investment firms leverage historical price data to build models that can predict future price movements with a degree of confidence, thereby enabling them to execute high-frequency trades.
 
 ## Conclusion
 
-Exponential Smoothing is a versatile and straightforward forecasting technique that finds applications not only in algorithmic trading but also in various fields requiring time series analytics. By addressing different components of time series data—level, trend, and seasonality—exponential smoothing provides a robust mechanism to forecast future values and detect trends, assisting traders and analysts in making informed decisions.
+Exponential Smoothing is a versatile and straightforward forecasting technique that finds applications not only in [algorithmic trading](../a/algorithmic_trading.md) but also in various fields requiring time series analytics. By addressing different components of time series data—level, trend, and seasonality—exponential smoothing provides a robust mechanism to forecast future values and detect trends, assisting traders and analysts in making informed decisions.

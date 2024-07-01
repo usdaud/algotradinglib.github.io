@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Global Tactical Asset Allocation (GTAA) is an investment strategy that actively adjusts the asset allocation of a portfolio across various asset classes, regions, or sectors to achieve superior risk-adjusted returns. This strategy leverages macroeconomic analysis, market timing, and asset selection to capitalize on the short-term mispricings and inefficiencies in the global financial markets. Unlike Strategic Asset Allocation (SAA), which maintains a fixed allocation to different asset classes, GTAA is more dynamic and opportunistic.
+Global Tactical [Asset Allocation](../a/asset_allocation.md) (GTAA) is an investment strategy that actively adjusts the [asset allocation](../a/asset_allocation.md) of a portfolio across various asset classes, regions, or sectors to achieve superior risk-adjusted returns. This strategy leverages macroeconomic analysis, [market timing](../m/market_timing.md), and asset selection to capitalize on the short-term mispricings and inefficiencies in the global financial markets. Unlike Strategic [Asset Allocation](../a/asset_allocation.md) (SAA), which maintains a fixed allocation to different asset classes, GTAA is more dynamic and opportunistic.
 
 ## Key Concepts in GTAA
 
@@ -22,25 +22,25 @@ Unlike a static approach, GTAA dynamically shifts allocations based on market co
 
 ### Risk Management
 
-GTAA places a strong emphasis on risk management. This involves:
+GTAA places a strong emphasis on [risk management](../r/risk_management.md). This involves:
 
 - **Diversification**: Spreading investments across various assets and regions.
-- **Hedging**: Using derivatives to guard against adverse price movements.
+- **Hedging**: Using [derivatives](../d/derivatives.md) to guard against adverse price movements.
 - **Stress Testing**: Simulating different market conditions to ensure the portfolio can withstand shocks.
 
 ### Performance Measurement
 
-Key performance metrics in GTAA include:
+Key [performance metrics](../p/performance_metrics.md) in GTAA include:
 
 - **Alpha**: Measure of excess returns produced by the strategy over its benchmark.
-- **Sharpe Ratio**: Risk-adjusted return metric.
-- **Sortino Ratio**: Similar to the Sharpe ratio but focuses only on downside risk.
+- **[Sharpe Ratio](../s/sharpe_ratio.md)**: [Risk-adjusted return](../r/risk-adjusted_return.md) metric.
+- **[Sortino Ratio](../s/sortino_ratio.md)**: Similar to the [Sharpe ratio](../s/sharpe_ratio.md) but focuses only on downside risk.
 
 ## Methodologies
 
 ### Macro Analysis
 
-Fundamental analysis of macroeconomic indicators, such as GDP growth, inflation rates, and employment data, is crucial. Understanding how these factors interact globally helps in predicting asset price movements.
+[Fundamental analysis](../f/fundamental_analysis.md) of macroeconomic indicators, such as GDP growth, inflation rates, and employment data, is crucial. Understanding how these factors interact globally helps in predicting asset price movements.
 
 ### Quantitative Models
 
@@ -63,8 +63,8 @@ These strategies are driven by in-depth economic research and data analysis. For
 
 Rely primarily on price charts and indicators. These include:
 
-- **Trend Following**: Identifying and capitalizing on prevailing market trends.
-- **Mean Reversion**: Investing based on the belief that asset prices will revert to their historical averages.
+- **[Trend Following](../t/trend_following.md)**: Identifying and capitalizing on prevailing market trends.
+- **[Mean Reversion](../m/mean_reversion.md)**: Investing based on the belief that asset prices will revert to their historical averages.
 
 ### Combined Approaches
 
@@ -74,12 +74,12 @@ Many GTAA strategies combine both fundamental and technical analyses to gain a c
 
 ### Bridgewater Associates
 
-Bridgewater Associates utilizes a GTAA strategy, known for its all-weather portfolio designed to perform under various economic conditions. The strategy blends a deep understanding of economic cycles with robust quantitative models.
+Bridgewater Associates utilizes a GTAA strategy, known for its all-weather portfolio designed to perform under various economic conditions. The strategy blends a deep understanding of [economic cycles](../e/economic_cycles.md) with robust [quantitative models](../q/quantitative_models.md).
 Website: [Bridgewater Associates](https://www.bridgewater.com)
 
 ### GMO (Grantham, Mayo, & van Otterloo)
 
-GMO is renowned for its GTAA strategy, focusing on value investing principles across multiple asset classes. They combine historical data analysis with macroeconomic insights.
+GMO is renowned for its GTAA strategy, focusing on [value investing](../v/value_investing.md) principles across multiple asset classes. They combine [historical data analysis](../h/historical_data_analysis.md) with macroeconomic insights.
 Website: [GMO](https://www.gmo.com)
 
 ### BlackRock Multi-Asset Strategies
@@ -117,4 +117,4 @@ Sovereign wealth funds use GTAA to manage national savings and generate returns 
 
 ## Conclusion
 
-Global Tactical Asset Allocation is a sophisticated investment approach designed to navigate the complexities of the global financial landscape. By dynamically adjusting asset allocations based on comprehensive analyses, GTAA aims to enhance returns and manage risks more effectively than static investment strategies. However, it requires a high level of expertise, robust analytical tools, and an in-depth understanding of global markets. As financial markets continue to evolve, GTAA strategies are likely to play an increasingly pivotal role in portfolio management.
+Global Tactical [Asset Allocation](../a/asset_allocation.md) is a sophisticated investment approach designed to navigate the complexities of the global financial landscape. By dynamically adjusting asset allocations based on comprehensive analyses, GTAA aims to enhance returns and manage risks more effectively than static investment strategies. However, it requires a high level of expertise, robust analytical tools, and an in-depth understanding of global markets. As financial markets continue to evolve, GTAA strategies are likely to play an increasingly pivotal role in [portfolio management](../p/portfolio_management.md).

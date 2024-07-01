@@ -2,13 +2,13 @@
 
 ## Overview
 
-Horizontal spread strategies, also known as calendar spreads, involve the simultaneous purchase and sale of two options of the same class (calls or puts) with the same strike price but different expiration dates. These strategies are designed to profit from time decay and changes in volatility and can be a critical component of an algorithmic trader's toolkit.
+[Horizontal spread](../h/horizontal_spread.md) strategies, also known as calendar spreads, involve the simultaneous purchase and sale of two options of the same class (calls or puts) with the same strike price but different expiration dates. These strategies are designed to profit from time decay and changes in volatility and can be a critical component of an algorithmic trader's toolkit.
 
 ## Basic Concepts
 
 ### Options
 
-Options are financial derivatives that give the holder the right, but not the obligation, to buy or sell an underlying asset at a specified strike price before a specified expiration date. They can be broadly classified into calls and puts:
+Options are financial [derivatives](../d/derivatives.md) that give the holder the right, but not the obligation, to buy or sell an underlying asset at a specified strike price before a specified expiration date. They can be broadly classified into calls and puts:
 - **Calls:** Give the owner the right to buy the underlying asset.
 - **Puts:** Give the owner the right to sell the underlying asset.
 
@@ -24,7 +24,7 @@ Volatility is another critical parameter in options pricing. It represents the d
 
 ### Long Calendar Spread
 
-A long calendar spread involves buying a long-term option and selling a short-term option with the same strike price. The strategy aims to benefit from the quicker time decay of the short-term option compared to the long-term option.
+A [long calendar spread](../l/long_calendar_spread.md) involves buying a long-term option and selling a short-term option with the same strike price. The strategy aims to benefit from the quicker time decay of the short-term option compared to the long-term option.
 
 #### Example
 
@@ -52,7 +52,7 @@ Changes in implied volatility can significantly impact the profitability of hori
 
 ### Time Decay
 
-Horizontal spreads are heavily influenced by the rate of time decay of the options involved. In a long calendar spread, for instance, the idea is to benefit from the faster decay of the near-term sold option.
+Horizontal spreads are heavily influenced by the rate of time decay of the options involved. In a [long calendar spread](../l/long_calendar_spread.md), for instance, the idea is to benefit from the faster decay of the near-term sold option.
 
 ### Underlying Asset Price Movement
 
@@ -60,11 +60,11 @@ The underlying asset's price movement can introduce risk to horizontal spreads. 
 
 ## Algorithmic Implementation
 
-Incorporating horizontal spread strategies into algorithms involves a few critical steps:
+Incorporating [horizontal spread](../h/horizontal_spread.md) strategies into algorithms involves a few critical steps:
 
 ### Market Scanning and Opportunities Identification
 
-Algorithmic trading systems can scan multiple underlying assets to identify potential horizontal spread opportunities. This involves evaluating factors like implied volatility discrepancies and time decay rates.
+[Algorithmic trading](../a/algorithmic_trading.md) systems can scan multiple underlying assets to identify potential [horizontal spread](../h/horizontal_spread.md) opportunities. This involves evaluating factors like implied volatility discrepancies and time decay rates.
 
 ### Option Selection Criteria
 
@@ -80,7 +80,7 @@ Efficient execution is crucial to minimize slippage and transaction costs. Algor
 
 ### Risk Management
 
-Risk management parameters need to be defined to protect against adverse moves in the underlying asset's price or volatility. This can include setting stop-loss levels, position sizing, and dynamic hedging.
+[Risk management](../r/risk_management.md) parameters need to be defined to protect against adverse moves in the underlying asset's price or volatility. This can include setting stop-loss levels, [position sizing](../p/position_sizing.md), and [dynamic hedging](../d/dynamic_hedging.md).
 
 ## Advantages
 
@@ -90,7 +90,7 @@ One of the most significant advantages of horizontal spreads is the ability to l
 
 ### Minimal Initial Investment
 
-Horizontal spreads often require a minimal initial investment compared to outright buying or selling options or other trading strategies, making them accessible to various traders.
+Horizontal spreads often require a minimal initial investment compared to outright buying or selling options or other [trading strategies](../t/trading_strategies.md), making them accessible to various traders.
 
 ### Flexibility
 
@@ -114,7 +114,7 @@ Efficient execution is crucial for the profitability of horizontal spreads. Poor
 
 ### Case Study 1: Apple Inc. (AAPL)
 
-A trader implementing a long calendar spread on Apple might choose the following options:
+A trader implementing a [long calendar spread](../l/long_calendar_spread.md) on Apple might choose the following options:
 - **Buy 1 AAPL Dec 150 Call**
 - **Sell 1 AAPL Oct 150 Call**
 
@@ -130,10 +130,10 @@ Here, the trader expects a significant downward movement in Tesla's stock price 
 
 ## Conclusion
 
-Horizontal spread strategies offer traders a way to capitalize on time decay and volatility discrepancies between options with the same strike price but different expiration dates. While these strategies can be complex, they provide a flexible and potentially profitable approach for those who understand the intricacies of options trading. Leveraging algorithmic systems can further enhance the efficiency of executing these strategies, making them viable for both individual traders and institutional investors.
+[Horizontal spread](../h/horizontal_spread.md) strategies offer traders a way to capitalize on time decay and volatility discrepancies between options with the same strike price but different expiration dates. While these strategies can be complex, they provide a flexible and potentially profitable approach for those who understand the intricacies of options trading. Leveraging algorithmic systems can further enhance the efficiency of executing these strategies, making them viable for both individual traders and institutional investors.
 
 For further professional reading and tools for implementation, professionals may refer to:
 - [Option Strategies Insider](https://optionstrategiesinsider.com/)
 - [Cboe Global Markets](https://www.cboe.com/)
 
-By employing a well-calibrated approach and advanced algorithmic systems, traders can effectively manage risks and enhance returns using horizontal spread strategies. The blend of theoretical knowledge and practical execution is key to mastering these sophisticated trading techniques.
+By employing a well-calibrated approach and advanced algorithmic systems, traders can effectively manage risks and enhance returns using [horizontal spread](../h/horizontal_spread.md) strategies. The blend of theoretical knowledge and practical execution is key to mastering these sophisticated trading techniques.

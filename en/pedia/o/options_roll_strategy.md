@@ -1,15 +1,15 @@
 # Options Roll Strategy
 
-Options roll strategy is an advanced position management technique in options trading that involves closing an existing options position and simultaneously opening a new one to extend the trade's duration or improve its strategic alignment. This technique is used by traders to adjust their options exposure in response to market conditions, changes in their portfolio, or to take advantage of new opportunities.
+Options roll strategy is an advanced [position management](../p/position_management.md) technique in options trading that involves closing an existing options position and simultaneously opening a new one to extend the trade's duration or improve its strategic alignment. This technique is used by traders to adjust their options exposure in response to market conditions, changes in their portfolio, or to take advantage of new opportunities.
 
 ## Key Components and Concepts
 
 ### Understanding Options
 
 Before diving into the specifics of the rolling strategy, it is important to understand what options are and how they function:
-- **Options**: Financial derivatives that give the holder the right, but not the obligation, to buy or sell an underlying asset at a specified price (strike price) before a certain date (expiration date).
+- **Options**: Financial [derivatives](../d/derivatives.md) that give the holder the right, but not the obligation, to buy or sell an underlying asset at a specified price (strike price) before a certain date (expiration date).
 - **Call Options**: Give the right to buy the underlying asset.
-- **Put Options**: Give the right to sell the underlying asset.
+- **[Put Options](../p/put_options.md)**: Give the right to sell the underlying asset.
 
 ### Reasons for Rolling Options
 
@@ -37,7 +37,7 @@ A common example of rolling strategy involves rolling a covered call:
 
 ### Rolling a Put Option
 
-Similarly, traders might roll put options:
+Similarly, traders might roll [put options](../p/put_options.md):
 1. **Initial Position**: A trader buys a put option.
 2. **Roll Process**:
    - **Sell the Existing Put**: Close the current long put position.
@@ -65,22 +65,22 @@ By rolling options, traders can adjust their delta exposure to maintain a desire
 
 In highly volatile markets, rolling strategies might become more complex as traders need to frequently adjust positions to manage risk:
 - **Frequent Adjustments**: Constantly monitoring and adjusting option positions to respond to rapidly changing prices.
-- **Volatility Skew**: Considering the impact of volatility on different strike prices and expiration dates.
+- **[Volatility Skew](../v/volatility_skew.md)**: Considering the impact of volatility on different strike prices and expiration dates.
 
 ## Risks and Considerations
 
 Rolling options involves specific risks and considerations which traders must account for:
 - **Transaction Costs**: Each roll involves closing an existing position and opening a new one, leading to additional transaction costs.
-- **Market Timing**: Poor market timing can lead to losses, as rolling at the wrong time can result in unfavorable position adjustments.
+- **[Market Timing](../m/market_timing.md)**: Poor [market timing](../m/market_timing.md) can lead to losses, as rolling at the wrong time can result in unfavorable position adjustments.
 - **Complexity**: Managing multiple rolling positions can be complex and requires a deep understanding of options strategies and market dynamics.
-- **Liquidity Risk**: Lack of liquidity in certain options can make rolling difficult or expensive.
+- **[Liquidity Risk](../l/liquidity_risk.md)**: Lack of liquidity in certain options can make rolling difficult or expensive.
 
 ## Practical Applications and Tools
 
 Several financial tools and platforms can facilitate the implementation of rolling strategies:
 - **Brokerage Platforms**: Many online brokerage platforms, such as [Interactive Brokers](https://www.interactivebrokers.com), provide advanced tools for options trading and rolling.
 - **Option Analytics Software**: Tools such as [OptionsAI](https://www.optionsai.com) provide analytics and visualizations to help traders plan and execute rolling strategies.
-- **Risk Management Tools**: Software that can simulate various rolling scenarios to help traders understand potential outcomes and manage risk effectively.
+- **[Risk Management](../r/risk_management.md) Tools**: Software that can simulate various rolling scenarios to help traders understand potential outcomes and manage risk effectively.
 
 ### Case Study: Rolling Strategy During Earnings Season
 
@@ -95,4 +95,4 @@ This strategic adjustment allows the trader to maintain exposure through a perio
 
 ## Conclusion
 
-Options roll strategy is a versatile tool in the arsenal of options traders. By understanding and effectively implementing rolling techniques, traders can manage risk, extend their trading horizon, and align their positions with ever-changing market conditions. However, it requires careful consideration of transaction costs, market timing, and potential complexities involved. With the right tools and strategies, rolling options can be a powerful method to adapt and thrive in dynamic markets.
+Options roll strategy is a versatile tool in the arsenal of options traders. By understanding and effectively implementing rolling techniques, traders can manage risk, extend their trading horizon, and align their positions with ever-changing market conditions. However, it requires careful consideration of transaction costs, [market timing](../m/market_timing.md), and potential complexities involved. With the right tools and strategies, rolling options can be a powerful method to adapt and thrive in dynamic markets.

@@ -16,7 +16,7 @@ When the annual dividends per share are zero, the dividend yield is zero. This i
 
 2. **Debt Repayment**: Some companies prioritize repaying their financial obligations over distributing earnings to shareholders. By reducing debt, these companies might be aiming to strengthen their balance sheets and reduce interest expenses, which can benefit the company and shareholders in the long run.
 
-3. **Capital Preservation**: Companies in volatile or uncertain markets may retain earnings rather than paying dividends to preserve capital. This can help them maintain financial flexibility to navigate business risks and opportunities.
+3. **[Capital Preservation](../c/capital_preservation.md)**: Companies in volatile or uncertain markets may retain earnings rather than paying dividends to preserve capital. This can help them maintain financial flexibility to navigate business risks and opportunities.
 
 4. **Tax Considerations**: Dividends are subject to taxation, and in certain jurisdictions, they are taxed at higher rates compared to capital gains. By not issuing dividends, companies can enhance the value of their stocks, which may result in capital gains for shareholders that could be taxed at a lower rate.
 

@@ -1,6 +1,6 @@
 # Valuation Models in Algorithmic Trading
 
-Valuation models are essential tools used in finance to determine the fair value of an asset, be it stocks, bonds, or any other financial instrument. These models are crucial for investors and traders to make informed decisions about buying, selling, or holding assets. In the context of algorithmic trading, valuation models help automate the process of asset valuation, allowing traders to execute strategies with precision and speed. This document delves into various valuation models, their methodologies, and their applications within algorithmic trading.
+Valuation models are essential tools used in finance to determine the fair value of an asset, be it stocks, bonds, or any other financial instrument. These models are crucial for investors and traders to make informed decisions about buying, selling, or holding assets. In the context of [algorithmic trading](../a/algorithmic_trading.md), valuation models help automate the process of asset valuation, allowing traders to execute strategies with precision and speed. This document delves into various valuation models, their methodologies, and their applications within [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Discounted Cash Flow (DCF) Model
 
@@ -22,10 +22,10 @@ Where:
 - \( TV \) = Terminal value
 
 ### Application in Algorithmic Trading
-In algorithmic trading, DCF can be implemented to automate investment decisions. Algorithms can continuously update cash flow projections and discount rates based on real-time data, ensuring the valuation reflects current market conditions. Traders can use this to build strategies that identify undervalued or overvalued stocks.
+In [algorithmic trading](../a/algorithmic_trading.md), DCF can be implemented to automate investment decisions. Algorithms can continuously update cash flow projections and discount rates based on real-time data, ensuring the valuation reflects current market conditions. Traders can use this to build strategies that identify undervalued or overvalued stocks.
 
 ### Example
-- QuantConnect offers DCF modeling as part of their algorithmic trading platform, providing tools to automate these valuations. More information can be found at [QuantConnect](https://www.quantconnect.com/).
+- QuantConnect offers DCF modeling as part of their [algorithmic trading](../a/algorithmic_trading.md) platform, providing tools to automate these valuations. More information can be found at [QuantConnect](https://www.quantconnect.com/).
 
 ## Comparable Company Analysis (CCA)
 
@@ -38,7 +38,7 @@ CCA values an asset by comparing it to similar entities based on multiples. Comm
 3. **Apply Multiples**: Use the multiples to estimate the value of the target asset.
 
 ### Application in Algorithmic Trading
-Automation of CCA involves collecting real-time data on comparable companies and their multiples. Algorithms can identify discrepancies between the valuation of the target asset and its peers, providing trading signals for investment decisions.
+Automation of CCA involves collecting real-time data on comparable companies and their multiples. Algorithms can identify discrepancies between the valuation of the target asset and its peers, providing [trading signals](../t/trading_signals.md) for investment decisions.
 
 ### Example
 - Alpha Vantage offers APIs that facilitate the execution of CCA by providing up-to-date market data and financial metrics. More information can be found at [Alpha Vantage](https://www.alphavantage.co/).
@@ -66,7 +66,7 @@ Where:
 Algorithms can continuously update book values, net income, and cost of equity based on financial statements and market data. This dynamic updating process ensures the valuations remain timely and accurate.
 
 ### Example
-- FactSet provides extensive financial data and tools, facilitating the implementation of RIM in algorithmic trading strategies. More information can be found at [FactSet](https://www.factset.com/).
+- FactSet provides extensive financial data and tools, facilitating the implementation of RIM in [algorithmic trading](../a/algorithmic_trading.md) strategies. More information can be found at [FactSet](https://www.factset.com/).
 
 ## Dividend Discount Model (DDM)
 
@@ -90,7 +90,7 @@ Where:
 Algorithms can automate the projection of future dividends and adjust for changes in growth rates and required returns, providing an efficient way to value dividend-paying stocks.
 
 ### Example
-- Bloomberg Terminal provides robust tools for dividend discount modeling, aiding in the creation of automated trading strategies. More information can be found at [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/).
+- Bloomberg Terminal provides robust tools for dividend discount modeling, aiding in the creation of automated [trading strategies](../t/trading_strategies.md). More information can be found at [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/).
 
 ## Earnings Power Value (EPV) Model
 
@@ -109,11 +109,11 @@ Where:
 - \( WACC \) = Weighted Average Cost of Capital
 
 ### Application in Algorithmic Trading
-In algorithmic trading, EPV can be used to quickly assess whether a stock is trading at, above, or below its intrinsic value based on current earnings. Real-time data integration ensures that the valuation is current and reflective of any significant market changes.
+In [algorithmic trading](../a/algorithmic_trading.md), EPV can be used to quickly assess whether a stock is trading at, above, or below its intrinsic value based on current earnings. Real-time [data integration](../d/data_integration.md) ensures that the valuation is current and reflective of any significant market changes.
 
 ### Example
 - Tradestation offers platforms that support EPV calculations through real-time data and analysis tools. More information can be found at [Tradestation](https://www.tradestation.com/).
 
 ## Conclusion
 
-In the realm of algorithmic trading, valuation models serve as the backbone for making informed and systematic trading decisions. By automating the process of asset valuation, traders can ensure they are always operating with the most up-to-date and accurate information. Whether it's through DCF, CCA, RIM, DDM, or EPV, each model offers unique insights and applications that can enhance trading strategies and potentially improve returns. With the aid of advanced trading platforms and APIs, integrating these valuation models into automated systems has never been easier.
+In the realm of [algorithmic trading](../a/algorithmic_trading.md), valuation models serve as the backbone for making informed and [systematic trading](../s/systematic_trading.md) decisions. By automating the process of asset valuation, traders can ensure they are always operating with the most up-to-date and accurate information. Whether it's through DCF, CCA, RIM, DDM, or EPV, each model offers unique insights and applications that can enhance [trading strategies](../t/trading_strategies.md) and potentially improve returns. With the aid of advanced trading platforms and APIs, integrating these valuation models into automated systems has never been easier.

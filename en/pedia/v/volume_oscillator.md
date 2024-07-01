@@ -1,6 +1,6 @@
 # The Volume Oscillator: A Comprehensive Study
 
-In the realm of technical analysis, the Volume Oscillator (VO) is a crucial tool used by traders to measure the relationship between two volume moving averages. It assists in identifying the momentum of a given asset by highlighting the differences between a shorter-term and a longer-term volume average. This fluctuations of volume can signal trading opportunities as they often precede important price movements.
+In the realm of [technical analysis](../t/technical_analysis.md), the Volume Oscillator (VO) is a crucial tool used by traders to measure the relationship between two volume moving averages. It assists in identifying the momentum of a given asset by highlighting the differences between a shorter-term and a longer-term volume average. This fluctuations of volume can signal trading opportunities as they often precede important price movements.
 
 ## Volume Oscillator Basics
 
@@ -12,7 +12,7 @@ Where:
 - `Short-term Avg Vol` is the shorter period volume moving average.
 - `Long-term Avg Vol` is the longer period volume moving average.
 
-The conventional periods used for these averages are typically 14 days for the short-term and 28 days for the long-term averages. However, these periods can be adjusted based on specific trading strategies and asset class behaviors.
+The conventional periods used for these averages are typically 14 days for the short-term and 28 days for the long-term averages. However, these periods can be adjusted based on specific [trading strategies](../t/trading_strategies.md) and asset class behaviors.
 
 ## Interpreting the Volume Oscillator
 
@@ -35,13 +35,13 @@ Volume spikes and dips are significant because they often precede large price mo
 
 ### 3. **Divergences**
 
-Divergences between price and the VO can be powerful signals. A bullish divergence occurs when prices are making lower lows while the VO is making higher lows, suggesting a potential upward reversal. Similarly, a bearish divergence happens when prices make higher highs while the VO makes lower highs, indicating possible downward pressure.
+Divergences between price and the VO can be powerful signals. A [bullish divergence](../b/bullish_divergence.md) occurs when prices are making lower lows while the VO is making higher lows, suggesting a potential upward reversal. Similarly, a [bearish divergence](../b/bearish_divergence.md) happens when prices make higher highs while the VO makes lower highs, indicating possible downward pressure.
 
 ## Implementing Volume Oscillator in Various Trading Strategies
 
 ### A. **Trend Following Strategies**
 
-Trend following traders can use the Volume Oscillator to ensure that their entries are supported by strong volume. For example, when initiating a long position, a trader would prefer to see the VO positive, indicating strong buying interest.
+[Trend following](../t/trend_following.md) traders can use the Volume Oscillator to ensure that their entries are supported by strong volume. For example, when initiating a long position, a trader would prefer to see the VO positive, indicating strong buying interest.
 
 ### B. **Reversal Traders**
 
@@ -53,11 +53,11 @@ Breakout traders watch the VO for spikes to identify strong moves. A sudden incr
 
 ## Integrating with Other Indicators
 
-The VO is rarely used in isolation. To improve the accuracy of its signals, it can be combined with other technical indicators, such as:
+The VO is rarely used in isolation. To improve the accuracy of its signals, it can be combined with other [technical indicators](../t/technical_indicators.md), such as:
 
 - **Moving Average Convergence Divergence (MACD):** To confirm trend strength and potential reversals.
 - **Relative Strength Index (RSI):** To gauge overbought or oversold conditions.
-- **Bollinger Bands:** For identifying breakout points when combined with volume integration from VO.
+- **[Bollinger Bands](../b/bollinger_bands.md):** For identifying breakout points when combined with volume integration from VO.
 
 ## Example: Real-World Application in Algorithmic Trading
 
@@ -70,7 +70,7 @@ Let's consider a simple algorithm that utilizes the Volume Oscillator for tradin
     - Buy signal when VO crosses above zero.
     - Sell signal when VO crosses below zero.
 5. **Backtest**: Run the algorithm on historical data to validate performance.
-6. **Deploy**: Implement the algorithm in a live trading environment, ensuring it integrates with risk management protocols.
+6. **Deploy**: Implement the algorithm in a live [trading environment](../t/trading_environment.md), ensuring it integrates with [risk management](../r/risk_management.md) protocols.
 
 ### Example Code (Python Syntax):
 
@@ -93,7 +93,7 @@ df['Sell_Signal'] = df['VO'] <= 0
 
 ### A. **TRADING APPLICATIONS**
 
-- **TradeStation**: A comprehensive trading platform that includes an array of technical analysis tools, including custom volume oscillators. More details can be found at [TradeStation](http://www.tradestation.com/).
+- **TradeStation**: A comprehensive trading platform that includes an array of [technical analysis](../t/technical_analysis.md) tools, including custom volume oscillators. More details can be found at [TradeStation](http://www.tradestation.com/).
   
 - **MetaTrader 4 and 5**: Popular trading platforms used extensively in forex, CFDs, and stock markets. They offer the capability to script custom indicators such as the Volume Oscillator. Visit [MetaTrader](https://www.metatrader4.com/) for more details.
 
@@ -112,4 +112,4 @@ df['Sell_Signal'] = df['VO'] <= 0
 - **National Association of Securities Dealers Automated Quotations (NASDAQ)**: Provides educational resources and analytical tools for traders of all levels.
   Visit [NASDAQ](https://www.nasdaq.com/) for more information.
 
-In conclusion, the Volume Oscillator is a multi-dimensional tool in technical analysis, offering insights into volume dynamics and assisting traders in making informed decisions. Its flexibility in various trading strategies from trend following to breakout and reversal strategies makes it indispensable. Whether you're an individual trader or an institutional player, mastering the VO can significantly enhance your analytic capabilities and improve your trading outcomes.
+In conclusion, the Volume Oscillator is a multi-dimensional tool in [technical analysis](../t/technical_analysis.md), offering insights into volume dynamics and assisting traders in making informed decisions. Its flexibility in various [trading strategies](../t/trading_strategies.md) from [trend following](../t/trend_following.md) to breakout and reversal strategies makes it indispensable. Whether you're an individual trader or an institutional player, mastering the VO can significantly enhance your analytic capabilities and improve your trading outcomes.

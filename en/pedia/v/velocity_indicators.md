@@ -1,7 +1,7 @@
 # Velocity Indicators in Algorithmic Trading
 
 ## Overview
-Velocity indicators are a crucial set of tools in algorithmic trading, used to measure the rate of change in price or volume. These indicators help traders identify the momentum of the market, enabling them to make more informed trading decisions. Velocity indicators can be derived from various statistical measures and technical analysis techniques. In the context of algorithmic trading, these indicators can be incorporated into trading algorithms to automate the decision-making process.
+Velocity indicators are a crucial set of tools in [algorithmic trading](../a/algorithmic_trading.md), used to measure the rate of change in price or volume. These indicators help traders identify the momentum of the market, enabling them to make more informed trading decisions. Velocity indicators can be derived from various statistical measures and [technical analysis](../t/technical_analysis.md) techniques. In the context of [algorithmic trading](../a/algorithmic_trading.md), these indicators can be incorporated into [trading algorithms](../t/trading_algorithms.md) to automate the decision-making process.
 
 ## Types of Velocity Indicators
 
@@ -38,27 +38,27 @@ An RSI above 70 generally indicates overbought conditions, while an RSI below 30
 ## Application in Algorithmic Trading
 
 ### Signal Generation
-Velocity indicators are used to generate buy and sell signals in algorithmic trading systems. For instance, a trading algorithm might generate a buy signal when the ROC crosses above a certain threshold, indicating strong bullish momentum.
+Velocity indicators are used to generate buy and sell signals in [algorithmic trading](../a/algorithmic_trading.md) systems. For instance, a trading algorithm might generate a buy signal when the ROC crosses above a certain threshold, indicating strong bullish momentum.
 
 ### Risk Management
-Velocity indicators can aid in risk management by identifying periods of high volatility. For example, an algorithm might reduce position sizes or exit trades when the ATR exceeds a specified level, signaling increased market risk.
+Velocity indicators can aid in [risk management](../r/risk_management.md) by identifying periods of high volatility. For example, an algorithm might reduce position sizes or exit trades when the ATR exceeds a specified level, signaling increased market risk.
 
 ### Trend Identification
-Algorithms can use velocity indicators to identify and confirm market trends. For example, a sustained positive momentum reading can confirm an uptrend, while a persistent negative reading may confirm a downtrend.
+Algorithms can use velocity indicators to identify and confirm market trends. For example, a sustained [positive momentum](../p/positive_momentum.md) reading can confirm an uptrend, while a persistent negative reading may confirm a downtrend.
 
 ### Strategy Optimization
-In algorithmic trading, optimizing strategies for maximum efficiency is crucial. Velocity indicators can help fine-tune entry and exit points, improving the overall performance of the trading strategy.
+In [algorithmic trading](../a/algorithmic_trading.md), optimizing strategies for maximum efficiency is crucial. Velocity indicators can help fine-tune entry and exit points, improving the overall performance of the trading strategy.
 
 ## Examples of Algorithmic Trading Firms Using Velocity Indicators
 
 ### Citadel Securities
-Citadel Securities, a leading market maker and algorithmic trading firm, leverages various quantitative strategies, including those that utilize velocity indicators. For more information, visit their [website](https://www.citadelsecurities.com/).
+Citadel Securities, a leading market maker and [algorithmic trading](../a/algorithmic_trading.md) firm, leverages various quantitative strategies, including those that utilize velocity indicators. For more information, visit their [website](https://www.citadelsecurities.com/).
 
 ### Two Sigma
-Two Sigma is another prominent quant trading firm that employs advanced mathematical models and velocity indicators to enhance its trading algorithms. More details can be found on their [official site](https://www.twosigma.com/).
+Two Sigma is another prominent quant trading firm that employs advanced mathematical models and velocity indicators to enhance its [trading algorithms](../t/trading_algorithms.md). More details can be found on their [official site](https://www.twosigma.com/).
 
 ### Renaissance Technologies
 Renaissance Technologies, known for its Medallion Fund, uses sophisticated algorithms that likely include velocity measurements to stay ahead in the market. Learn more on their [website](https://www.rentec.com/).
 
 ## Conclusion
-Velocity indicators are indispensable tools in the realm of algorithmic trading, providing insights into market momentum and helping traders make more informed decisions. By integrating these indicators into trading algorithms, firms can improve signal accuracy, manage risk better, and enhance overall strategy performance.
+Velocity indicators are indispensable tools in the realm of [algorithmic trading](../a/algorithmic_trading.md), providing insights into market momentum and helping traders make more informed decisions. By integrating these indicators into [trading algorithms](../t/trading_algorithms.md), firms can improve signal accuracy, manage risk better, and enhance overall strategy performance.

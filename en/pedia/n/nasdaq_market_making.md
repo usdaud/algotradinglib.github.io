@@ -4,7 +4,7 @@ NASDAQ market making refers to the role and activities of market makers on the N
 
 ### Objectives of Market Makers
 
-1. **Liquidity Provision**: Market makers are committed to providing liquidity in the securities they cover. They do this by maintaining buy and sell limit orders in the market, which helps ensure that investors can execute trades promptly.
+1. **[Liquidity Provision](../l/liquidity_provision.md)**: Market makers are committed to providing liquidity in the securities they cover. They do this by maintaining buy and sell limit orders in the market, which helps ensure that investors can execute trades promptly.
 
 2. **Reducing Volatility**: By providing liquidity, market makers help reduce volatility in the market. They do this by smoothing out fluctuations in supply and demand for securities.
 
@@ -28,13 +28,13 @@ Market makers are subject to stringent regulations designed to ensure the integr
 
 - **FINRA Rules**: Market makers must adhere to various FINRA rules, such as maintaining fair and orderly markets, providing accurate and timely trade reports, and avoiding conflicts of interest.
 
-- **SEC Rule 15c3-5**: This rule requires market makers to implement risk management controls and supervisory procedures to limit financial exposure.
+- **SEC Rule 15c3-5**: This rule requires market makers to implement [risk management](../r/risk_management.md) controls and supervisory procedures to limit financial exposure.
 
 ### Technology in Market Making
 
-Market making on NASDAQ has evolved significantly with technology. High-frequency trading (HFT) and advanced algorithms are now common in market making. These technologies enable market makers to react to market conditions in microseconds, analyze vast amounts of data, and execute complex trading strategies with high precision.
+Market making on NASDAQ has evolved significantly with technology. High-frequency trading (HFT) and advanced algorithms are now common in market making. These technologies enable market makers to react to market conditions in microseconds, analyze vast amounts of data, and execute complex [trading strategies](../t/trading_strategies.md) with high precision.
 
-- **Algorithmic Trading**: Algorithmic trading systems enable market makers to analyze market data, detect trading opportunities, and execute trades at superior speed and efficiency.
+- **[Algorithmic Trading](../a/algorithmic_trading.md)**: [Algorithmic trading](../a/algorithmic_trading.md) systems enable market makers to analyze market data, detect trading opportunities, and execute trades at superior speed and efficiency.
 
 - **High-Frequency Trading**: HFT leverages sophisticated algorithms and state-of-the-art technology to execute a large number of orders at extremely high speeds. Market makers using HFT can benefit from small price discrepancies in highly liquid securities.
 
@@ -50,12 +50,12 @@ Market making on NASDAQ has evolved significantly with technology. High-frequenc
 
 Some prominent market makers on NASDAQ include:
 
-- **Citadel Securities**: Known for its dominant role in equity and options market making. (Website: [Citadel Securities](https://www.citadelsecurities.com/))
+- **Citadel Securities**: Known for its dominant role in equity and [options market making](../o/options_market_making.md). (Website: [Citadel Securities](https://www.citadelsecurities.com/))
 
 - **Virtu Financial**: One of the largest electronic market makers globally, active across numerous asset classes. (Website: [Virtu Financial](https://www.virtu.com/))
 
-- **Jane Street**: Renowned for quantitative research-driven trading and market making across various financial instruments. (Website: [Jane Street](https://www.janestreet.com/))
+- **Jane Street**: Renowned for [quantitative research](../q/quantitative_research.md)-driven trading and market making across various financial instruments. (Website: [Jane Street](https://www.janestreet.com/))
 
 ### Conclusion
 
-NASDAQ market making is instrumental in maintaining liquidity, price stability, and efficient operation of the exchange. With the shift towards electronic and algorithmic trading, market makers have become even more sophisticated in their strategies and technology, ensuring that the market functions smoothly and effectively for all participants.
+NASDAQ market making is instrumental in maintaining liquidity, price stability, and efficient operation of the exchange. With the shift towards electronic and [algorithmic trading](../a/algorithmic_trading.md), market makers have become even more sophisticated in their strategies and technology, ensuring that the market functions smoothly and effectively for all participants.

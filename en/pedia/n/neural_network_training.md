@@ -1,6 +1,6 @@
 # Neural Network Training
 
-Neural network training is a pivotal process in the realm of artificial intelligence, particularly within the subset of machine learning that focuses on creating and refining models to perform various tasks. Neural networks are computational models inspired by the human brain's architecture, comprising numerous interconnected 'neurons' that can process and learn from data. This document provides an extensive look into neural network training, its methodologies, challenges, and applications, especially in algorithmic trading (algotrading).
+Neural network training is a pivotal process in the realm of artificial intelligence, particularly within the subset of machine learning that focuses on creating and refining models to perform various tasks. Neural networks are computational models inspired by the human brain's architecture, comprising numerous interconnected 'neurons' that can process and learn from data. This document provides an extensive look into neural network training, its methodologies, challenges, and applications, especially in [algorithmic trading](../a/algorithmic_trading.md) (algotrading).
 
 ### Overview of Neural Networks
 
@@ -28,7 +28,7 @@ The training process of neural networks involves the following key steps:
    - Input data is passed through the network, and computations are performed at each node to generate the output.
 
 #### 3. **Loss Calculation**
-   - The output is compared to the expected result using a loss function. Common loss functions include Mean Squared Error (MSE) for regression tasks and Cross-Entropy Loss for classification tasks.
+   - The output is compared to the expected result using a loss function. Common loss functions include [Mean Squared Error](../m/mean_squared_error.md) (MSE) for regression tasks and Cross-Entropy Loss for classification tasks.
 
 #### 4. **Backpropagation**
    - The core mechanism for training, where the error is propagated back through the network to adjust the weights. Gradient descent and its variants (SGD, Adam, RMSprop, etc.) are used to minimize the loss.
@@ -43,7 +43,7 @@ The training process of neural networks involves the following key steps:
 
 #### 2. **Optimizers**
    - Algorithms designed to adjust the model's parameters to minimize the loss function. Widely used optimizers include:
-     - **Stochastic Gradient Descent (SGD)**
+     - **[Stochastic Gradient Descent](../s/stochastic_gradient_descent.md) (SGD)**
      - **Adam Optimizer**
      - **RMSprop**
 
@@ -62,15 +62,15 @@ The training process of neural networks involves the following key steps:
    - Training deep neural networks requires significant computational power and memory. Utilizing GPUs and TPUs, as well as techniques like mini-batch training, help address this challenge.
 
 #### 4. **Choosing Hyperparameters**
-   - Hyperparameters, such as learning rate, number of layers, and number of neurons, significantly impact the model's performance. Techniques like grid search, random search, and Bayesian optimization are employed for tuning hyperparameters.
+   - Hyperparameters, such as learning rate, number of layers, and number of neurons, significantly impact the model's performance. Techniques like grid search, random search, and [Bayesian optimization](../b/bayesian_optimization.md) are employed for tuning hyperparameters.
 
 ### Neural Network Training in Algotrading
 
 #### 1. **Predictive Models**
-   - Neural networks are employed to forecast stock prices, volatility, or trading signals based on historical data and other pertinent factors.
+   - Neural networks are employed to forecast stock prices, volatility, or [trading signals](../t/trading_signals.md) based on historical data and other pertinent factors.
 
 #### 2. **Feature Extraction**
-   - Convolutional networks can automatically extract significant features from financial time series data, leading to more robust predictions.
+   - Convolutional networks can automatically extract significant features from [financial time series](../f/financial_time_series.md) data, leading to more robust predictions.
 
 #### 3. **Sentiment Analysis**
    - Natural Language Processing (NLP) models based on neural networks analyze news articles, social media, and other textual sources to gauge market sentiment.
@@ -98,4 +98,4 @@ The training process of neural networks involves the following key steps:
 
 ### Conclusion
 
-Neural network training is a complex yet profoundly impactful process, transforming various fields by enabling machines to learn, adapt, and make decisions. From improving algorithmic trading models to advancing AI research, the methodologies and challenges inherent in training neural networks are fundamental to harnessing their full potential. Continued research and development, coupled with burgeoning computational power, promise even more sophisticated applications and breakthroughs in the near future.
+Neural network training is a complex yet profoundly impactful process, transforming various fields by enabling machines to learn, adapt, and make decisions. From improving [algorithmic trading](../a/algorithmic_trading.md) models to advancing AI research, the methodologies and challenges inherent in training neural networks are fundamental to harnessing their full potential. Continued research and development, coupled with burgeoning computational power, promise even more sophisticated applications and breakthroughs in the near future.

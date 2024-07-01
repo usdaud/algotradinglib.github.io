@@ -68,7 +68,7 @@ Advanced traders may employ adjustments if the market moves unfavorably, such as
 ## Real-World Applications
 
 ### Usage by Professional Traders
-Professional traders, including hedge funds and proprietary trading firms, regularly use vertical credit spreads as part of complex trading systems. These institutions rely on sophisticated models to predict market movements and optimize their spread strategies.
+Professional traders, including hedge funds and [proprietary trading](../p/proprietary_trading.md) firms, regularly use vertical credit spreads as part of complex [trading systems](../t/trading_systems.md). These institutions rely on sophisticated models to predict market movements and optimize their spread strategies.
 
 For instance, **TD Ameritrade** provides comprehensive resources for options trading, including educational materials on strategies like vertical credit spreads. (Visit: [TD Ameritrade](https://www.tdameritrade.com))
 
@@ -89,4 +89,4 @@ Yes, a margin account is typically required for trading vertical credit spreads 
 ### How do dividends and other corporate actions affect vertical credit spreads?
 Dividends and corporate actions can affect the underlying stock price, which may in turn impact the value and performance of a vertical credit spread.
 
-Understanding and executing a vertical credit spread strategy effectively requires knowledge of options markets, careful planning, and ongoing position management. By mastering this strategy, traders can potentially enhance their portfolios with steady income and controlled risk.
+Understanding and executing a vertical credit spread strategy effectively requires knowledge of options markets, careful planning, and ongoing [position management](../p/position_management.md). By mastering this strategy, traders can potentially enhance their portfolios with steady income and controlled risk.

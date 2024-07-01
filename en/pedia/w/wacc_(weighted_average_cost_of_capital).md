@@ -30,7 +30,7 @@ where:
 
 ### Calculation of Cost of Debt (Rd)
 
-The cost of debt (\( Rd \)) is the effective rate that a company pays on its borrowed funds. It is calculated by taking the average yield to maturity (YTM) on the firm’s existing debt. Since interest expenses are tax-deductible, the after-tax cost of debt is:
+The cost of debt (\( Rd \)) is the effective rate that a company pays on its borrowed funds. It is calculated by taking the average [yield to maturity](../y/yield_to_maturity.md) (YTM) on the firm’s existing debt. Since interest expenses are tax-deductible, the after-tax cost of debt is:
 
 \[ \text{After-tax Rd} = Rd \times (1 - Tc) \]
 
@@ -43,7 +43,7 @@ The cost of debt (\( Rd \)) is the effective rate that a company pays on its bor
 
 ### Factors Influencing WACC
 
-- **Market Conditions**: Interest rates, economic cycles, and market volatility can impact the components of WACC.
+- **Market Conditions**: Interest rates, [economic cycles](../e/economic_cycles.md), and market volatility can impact the components of WACC.
 - **Company Performance**: Profitability, growth prospects, and financial stability influence the cost of equity and debt.
 - **Capital Structure**: The proportion of debt and equity financing affects WACC, with debt being typically cheaper but riskier.
 - **Tax Rates**: Changes in corporate tax rates impact the after-tax cost of debt.

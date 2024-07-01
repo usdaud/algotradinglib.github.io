@@ -1,10 +1,10 @@
 # Feedback Loops in Trading
 
-In the domain of algorithmic trading, feedback loops are a fundamental concept integral to system performance, optimization, and risk management. Feedback loops are mechanisms where outputs of a system are circled back as inputs, significantly influencing the mode and efficiency of the algorithm.
+In the domain of [algorithmic trading](../a/algorithmic_trading.md), feedback loops are a fundamental concept integral to system performance, optimization, and [risk management](../r/risk_management.md). Feedback loops are mechanisms where outputs of a system are circled back as inputs, significantly influencing the mode and efficiency of the algorithm.
 
 ## Types and Mechanisms of Feedback Loops
 
-There are primarily two categories of feedback loops in trading: positive feedback loops and negative feedback loops, each playing a distinct role in trading strategies.
+There are primarily two categories of feedback loops in trading: positive feedback loops and negative feedback loops, each playing a distinct role in [trading strategies](../t/trading_strategies.md).
 
 ### Positive Feedback Loops
 
@@ -24,7 +24,7 @@ An example could be the use of an Exponential Moving Average (EMA) crossover str
 
 ### Adaptive Learning
 
-Machine learning algorithms utilize feedback loops extensively. An underlying model trained on historical data predicts market movements, and the feedback loop governs the ongoing learning process by adjusting the model based on real-time performance metrics, thereby improving prediction accuracy over time.
+Machine learning algorithms utilize feedback loops extensively. An underlying model trained on historical data predicts market movements, and the feedback loop governs the ongoing learning process by adjusting the model based on real-time [performance metrics](../p/performance_metrics.md), thereby improving prediction accuracy over time.
 
 Recurrent Neural Networks (RNNs) and Long Short-Term Memory (LSTM) networks are particularly adept at handling time-series data inherent to trading, consistently learning and adapting through feedback mechanisms.
 
@@ -44,7 +44,7 @@ A prevalent issue in feedback-driven systems is overfitting. When an algorithm i
 
 ### Latency
 
-The speed at which feedback is incorporated affects the loop’s efficacy. Latency in data acquisition and processing can lead to delayed responses, adversely affecting trading performance. Employing high-frequency trading (HFT) technologies can mitigate this by ensuring near-instantaneous processing and response times.
+The speed at which feedback is incorporated affects the loop’s efficacy. Latency in data acquisition and processing can lead to delayed responses, adversely affecting [trading performance](../t/trading_performance.md). Employing high-frequency trading (HFT) technologies can mitigate this by ensuring near-instantaneous processing and response times.
 
 ### Risk of Self-Feeding Loops
 
@@ -62,4 +62,4 @@ The integration of advanced AI, encompassing deep learning and reinforcement lea
 
 ## Conclusion
 
-Feedback loops are quintessential for the evolution and functionality of algorithmic trading systems. They govern the continuous improvement cycle, enabling adaptive, robust, and efficient trading strategies. As technology progresses, the integration and sophistication of feedback mechanisms within trading will undoubtedly evolve, pushing the boundaries of what can be achieved in financial markets.
+Feedback loops are quintessential for the evolution and functionality of [algorithmic trading](../a/algorithmic_trading.md) systems. They govern the continuous improvement cycle, enabling adaptive, robust, and [efficient trading strategies](../e/efficient_trading_strategies.md). As technology progresses, the integration and sophistication of feedback mechanisms within trading will undoubtedly evolve, pushing the boundaries of what can be achieved in financial markets.

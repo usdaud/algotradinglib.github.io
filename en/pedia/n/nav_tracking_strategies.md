@@ -1,6 +1,6 @@
 # NAV Tracking Strategies in Algorithmic Trading
 
-In the realm of algorithmic trading, one of the sophisticated techniques that traders employ to ensure superior performance and risk management is the use of NAV (Net Asset Value) tracking strategies. This approach caters to trading strategies involving ETFs (Exchange-Traded Funds), mutual funds, and other investment vehicles where maintaining alignment or balance with the underlying assets or benchmarks is crucial.
+In the realm of [algorithmic trading](../a/algorithmic_trading.md), one of the sophisticated techniques that traders employ to ensure superior performance and [risk management](../r/risk_management.md) is the use of NAV (Net Asset Value) tracking strategies. This approach caters to [trading strategies](../t/trading_strategies.md) involving ETFs (Exchange-Traded Funds), mutual funds, and other investment vehicles where maintaining alignment or balance with the underlying assets or benchmarks is crucial.
 
 ## What is NAV?
 
@@ -34,7 +34,7 @@ Basket trading involves trading a group (or "basket") of securities to mimic the
 
 #### Methodology
 - **Creation and Redemption Mechanism**: Authorized participants (APs) create or redeem ETF shares by exchanging a basket of underlying securities.
-- **Arbitrage Opportunities**: APs exploit arbitrage opportunities when there is a discrepancy between the ETF's market price and its NAV.
+- **[Arbitrage](../a/arbitrage.md) Opportunities**: APs exploit [arbitrage](../a/arbitrage.md) opportunities when there is a discrepancy between the ETF's market price and its NAV.
 - **Close Matching**: Ensuring the basket of securities closely matches the composition and weightings of the fund’s portfolio.
 
 ### 3. Index Replication
@@ -45,37 +45,37 @@ Index replication involves building a portfolio that exactly or approximately ma
 #### Methodology
 - **Full Replication**: Holding all the securities in the same proportions as the index.
 - **Sampling**: Holding a representative sample of securities that match the index’s risk and return characteristics.
-- **Optimization Models**: Using quantitative models to minimize tracking errors while managing transaction costs.
+- **Optimization Models**: Using [quantitative models](../q/quantitative_models.md) to minimize tracking errors while managing transaction costs.
 
 ### 4. Dynamic Hedging
 
 #### Description
-Dynamic hedging involves adjusting the position sizes of underlying securities or derivatives to maintain alignment with the NAV.
+[Dynamic hedging](../d/dynamic_hedging.md) involves adjusting the position sizes of underlying securities or [derivatives](../d/derivatives.md) to maintain alignment with the NAV.
 
 #### Methodology
 - **Continuous Rebalancing**: Frequently adjusting the portfolio to reflect changes in the market value of underlying assets.
-- **Risk Management**: Using derivatives like futures or options to hedge against market movements.
+- **[Risk Management](../r/risk_management.md)**: Using [derivatives](../d/derivatives.md) like futures or options to hedge against market movements.
 - **Algorithmic Adjustments**: Employing algorithms to automate hedging decisions based on predefined criteria.
 
 ### 5. Statistical Arbitrage
 
 #### Description
-Statistical arbitrage utilizes statistical and mathematical models to identify mispriced assets expected to converge to their fair value over time.
+Statistical [arbitrage](../a/arbitrage.md) utilizes statistical and mathematical models to identify mispriced assets expected to converge to their fair value over time.
 
 #### Methodology
-- **Mean Reversion**: Betting that the price of a mispriced security will revert to its historical mean.
-- **Pairs Trading**: Simultaneously buying and selling correlated securities to exploit relative price movements.
-- **Machine Learning**: Implementing machine learning algorithms to predict price movements and optimize trading strategies.
+- **[Mean Reversion](../m/mean_reversion.md)**: Betting that the price of a mispriced security will revert to its historical mean.
+- **[Pairs Trading](../p/pairs_trading.md)**: Simultaneously buying and selling correlated securities to exploit relative price movements.
+- **Machine Learning**: Implementing machine learning algorithms to predict price movements and optimize [trading strategies](../t/trading_strategies.md).
 
 ## Technological and Analytical Tools
 
 ### High-frequency Trading (HFT) Systems
 
-HFT systems are integral to NAV tracking strategies, providing the computational power and speed necessary for real-time data analysis and execution.
+HFT systems are integral to NAV tracking strategies, providing the computational power and speed necessary for [real-time data analysis](../r/real-time_data_analysis.md) and execution.
 
 ### Quantitative Models
 
-Quantitative models, including those built on statistical, econometric, and machine learning techniques, form the backbone of NAV tracking and adjustments.
+[Quantitative models](../q/quantitative_models.md), including those built on statistical, econometric, and machine learning techniques, form the backbone of NAV tracking and adjustments.
 
 ### Data Feeds and APIs
 
@@ -89,7 +89,7 @@ ETFs and mutual funds use NAV tracking strategies to maintain alignment with the
 
 ### Hedge Funds
 
-Hedge funds may employ NAV tracking within more complex strategies to manage risk and enhance returns through precise asset valuation and arbitrage opportunities.
+Hedge funds may employ NAV tracking within more complex strategies to manage risk and enhance returns through precise asset valuation and [arbitrage](../a/arbitrage.md) opportunities.
 
 ## Companies Specializing in NAV Tracking Technologies
 
@@ -117,7 +117,7 @@ FactSet offers financial data and analytics, including real-time NAV computation
 
 ### Market Volatility
 
-Rapid market movements can pose challenges to maintaining accurate NAV tracking, necessitating sophisticated risk management strategies.
+Rapid market movements can pose challenges to maintaining accurate NAV tracking, necessitating sophisticated [risk management](../r/risk_management.md) strategies.
 
 ### Data Quality
 
@@ -129,5 +129,5 @@ Developing and maintaining complex algorithmic models require significant expert
 
 ## Conclusion
 
-NAV tracking strategies are an essential aspect of algorithmic trading, providing traders and fund managers with the tools needed for fair valuation, performance measurement, and efficient market operations. Leveraging advanced technologies and methodologies, these strategies help maintain the alignment between market prices and the true value of underlying assets, fostering trust and confidence among investors. As technology evolves, NAV tracking strategies will continue to play a critical role in the landscape of modern trading and fund management.
+NAV tracking strategies are an essential aspect of [algorithmic trading](../a/algorithmic_trading.md), providing traders and fund managers with the tools needed for fair valuation, performance measurement, and efficient market operations. Leveraging advanced technologies and methodologies, these strategies help maintain the alignment between market prices and the true value of underlying assets, fostering trust and confidence among investors. As technology evolves, NAV tracking strategies will continue to play a critical role in the landscape of modern trading and fund management.
 

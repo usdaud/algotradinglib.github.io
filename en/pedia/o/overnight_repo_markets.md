@@ -58,7 +58,7 @@ An Overnight Repo Market is a financial market where participants engage in shor
 
 ### Risks
 
-1. **Counterparty Risk:**
+1. **[Counterparty Risk](../c/counterparty_risk.md):**
    The risk that one party in the repo transaction may default, leading to potential financial losses for the other party.
 
 2. **Collateral Risk:**
@@ -110,7 +110,7 @@ An Overnight Repo Market is a financial market where participants engage in shor
    The ECB uses repo transactions to provide liquidity to Eurozone banks, ensuring the stability and smooth functioning of the financial system. More information can be found at: [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html)
 
 3. **Clearing Corporations:**
-   Entities like the Fixed Income Clearing Corporation (FICC) provide matching and clearing services for repo transactions, enhancing efficiency and reducing counterparty risk. See: [FICC](https://www.dtcc.com/clearing-services/ficc)
+   Entities like the Fixed Income Clearing Corporation (FICC) provide matching and clearing services for repo transactions, enhancing efficiency and reducing [counterparty risk](../c/counterparty_risk.md). See: [FICC](https://www.dtcc.com/clearing-services/ficc)
 
 4. **Tri-party Repo Platforms:**
    These platforms, such as those offered by the Bank of New York Mellon and JPMorgan Chase, facilitate the execution and settlement of repo transactions by acting as intermediaries. More information available at: 

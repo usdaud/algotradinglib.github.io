@@ -1,6 +1,6 @@
 # Kalman Filter Trading Models
 
-Kalman Filter is a widely used algorithm in various fields like robotics, aerospace, navigation, and economics. In the context of trading and financial markets, the Kalman Filter offers significant advantages for estimation and prediction of dynamic systems. Kalman Filter Trading Models leverage the mathematical foundation of the Kalman Filter to create predictive models for trading stocks, commodities, forex, and other financial instruments. This article will provide an in-depth exploration of Kalman Filter Trading Models, covering their mathematical framework, application in trading, and practical implementation examples.
+Kalman Filter is a widely used algorithm in various fields like robotics, aerospace, navigation, and economics. In the context of trading and financial markets, the Kalman Filter offers significant advantages for estimation and prediction of dynamic systems. Kalman Filter [Trading Models](../t/trading_models.md) leverage the mathematical foundation of the Kalman Filter to create predictive models for trading stocks, commodities, forex, and other financial instruments. This article will provide an in-depth exploration of Kalman Filter [Trading Models](../t/trading_models.md), covering their mathematical framework, application in trading, and practical implementation examples.
 
 ## Introduction to the Kalman Filter
 
@@ -68,18 +68,18 @@ The Kalman Filter algorithm involves two steps: Predict and Update.
 
 ## Kalman Filter in Trading
 
-In financial markets, Kalman Filters are used to estimate and predict various parameters such as asset prices, volatility, and market liquidity. The filter helps in smoothing and forecasting the financial time series, which can be further utilized for developing trading strategies.
+In financial markets, Kalman Filters are used to estimate and predict various parameters such as asset prices, volatility, and market liquidity. The filter helps in smoothing and forecasting the [financial time series](../f/financial_time_series.md), which can be further utilized for developing [trading strategies](../t/trading_strategies.md).
 
 ### Application in Trading Strategies
 
-1. **Mean Reversion Strategy**
+1. **[Mean Reversion](../m/mean_reversion.md) Strategy**
 
    Kalman Filters are effective in modeling mean-reverting behavior of financial instruments. In a mean-reversion strategy, the filter can estimate the mean value, deviation, and the speed at which prices revert to the mean. 
 
    **Implementation Steps:**
    - Model the price or spread as a state-space system.
    - Utilize the Kalman Filter to estimate the mean and variance.
-   - Generate trading signals when the observed value deviates significantly from the estimated mean.
+   - Generate [trading signals](../t/trading_signals.md) when the observed value deviates significantly from the estimated mean.
 
 2. **Pair Trading**
 
@@ -90,14 +90,14 @@ In financial markets, Kalman Filters are used to estimate and predict various pa
    - Apply the Kalman Filter to estimate the parameters of the spread.
    - Initiate long/short positions when the spread moves away from its estimated equilibrium.
 
-3. **Trend Following Strategy**
+3. **[Trend Following](../t/trend_following.md) Strategy**
 
-   Trend following strategies seek to capitalize on market momentum. Kalman Filters can smooth price series and capture underlying trends by filtering out short-term fluctuations.
+   [Trend following](../t/trend_following.md) strategies seek to capitalize on market momentum. Kalman Filters can smooth price series and capture underlying trends by filtering out short-term fluctuations.
 
    **Implementation Steps:**
    - Model the price series with a state-space model incorporating the trend component.
    - Use the Kalman Filter to estimate the trend and residual noise.
-   - Generate trading signals based on the direction and strength of the trend estimate.
+   - Generate [trading signals](../t/trading_signals.md) based on the direction and strength of the trend estimate.
 
 ### Case Study: Kalman Filter for ETF Trading
 
@@ -112,7 +112,7 @@ Exchange-Traded Funds (ETFs) often consist of multiple underlying assets whose c
 
 ### Tools and Libraries
 
-Several tools and libraries facilitate the implementation of Kalman Filter Trading Models. These include:
+Several tools and libraries facilitate the implementation of Kalman Filter [Trading Models](../t/trading_models.md). These include:
 
 1. **Python**:
    - `pykalman` - A library that implements Kalman Filters in Python.
@@ -166,14 +166,14 @@ plt.show()
 
 ### Real-World Applications
 
-Several financial institutions and hedge funds utilize Kalman Filter models in their trading algorithms. These include:
+Several financial institutions and hedge funds utilize Kalman Filter models in their [trading algorithms](../t/trading_algorithms.md). These include:
 
-- **J.P. Morgan**: Incorporates advanced filtering techniques, including Kalman Filters, for asset management and proprietary trading [J.P. Morgan Asset Management](https://am.jpmorgan.com).
+- **J.P. Morgan**: Incorporates advanced filtering techniques, including Kalman Filters, for asset management and [proprietary trading](../p/proprietary_trading.md) [J.P. Morgan Asset Management](https://am.jpmorgan.com).
 
-- **Goldman Sachs**: Utilizes mathematical models and Kalman Filters for quantitative trading strategies [Goldman Sachs](https://www.goldmansachs.com).
+- **Goldman Sachs**: Utilizes mathematical models and Kalman Filters for [quantitative trading](../q/quantitative_trading.md) strategies [Goldman Sachs](https://www.goldmansachs.com).
 
-- **Two Sigma**: Employs sophisticated models, including state-space techniques, in their algorithmic trading [Two Sigma](https://www.twosigma.com).
+- **Two Sigma**: Employs sophisticated models, including state-space techniques, in their [algorithmic trading](../a/algorithmic_trading.md) [Two Sigma](https://www.twosigma.com).
 
 ## Conclusion
 
-Kalman Filter Trading Models provide a robust framework for estimating unknown parameters and predicting future states in financial markets. They are versatile, capable of handling various trading strategies, including mean reversion, pair trading, and trend following. By leveraging the power of Kalman Filters, traders and financial institutions can develop sophisticated trading algorithms that offer an edge in today's dynamic markets. The implementation tools, such as Python, R, and MATLAB, make it accessible for practitioners to adopt these models in real-world trading scenarios.
+Kalman Filter [Trading Models](../t/trading_models.md) provide a robust framework for estimating unknown parameters and predicting future states in financial markets. They are versatile, capable of handling various [trading strategies](../t/trading_strategies.md), including [mean reversion](../m/mean_reversion.md), pair trading, and [trend following](../t/trend_following.md). By leveraging the power of Kalman Filters, traders and financial institutions can develop sophisticated [trading algorithms](../t/trading_algorithms.md) that offer an edge in today's dynamic markets. The implementation tools, such as Python, R, and MATLAB, make it accessible for practitioners to adopt these models in real-world trading scenarios.

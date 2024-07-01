@@ -6,7 +6,7 @@ Yield-driven investment, often referred to as yield hunting, revolves around the
 
 The core principle of yield-driven investment is straightforward: investors aim to maximize their periodic income—whether it's interest payments, dividends, or rental income—relative to the purchase price of the asset. High yields are particularly attractive to income-focused investors, such as retirees or institutions with fixed liabilities, because they offer a steady cash flow that can help meet ongoing financial obligations.
 
-1. **Bonds**: Yield-driven investors often look for bonds with higher coupon rates. This could include corporate bonds, municipal bonds, or high-yield "junk" bonds. Bonds with higher yields typically carry higher risk, including credit risk and interest rate risk. For instance, during economic downturns, investors might pile into high-yield bonds (junk bonds) for their lucrative returns but face a higher probability of default.
+1. **Bonds**: Yield-driven investors often look for bonds with higher coupon rates. This could include corporate bonds, [municipal bonds](../m/municipal_bonds.md), or high-yield "junk" bonds. Bonds with higher yields typically carry higher risk, including credit risk and interest rate risk. For instance, during economic downturns, investors might pile into high-yield bonds (junk bonds) for their lucrative returns but face a higher probability of default.
 
 2. **Dividend-Paying Stocks**: Equities that pay out substantial dividends can be attractive to yield-seeking investors. Companies in industries like utilities, telecommunications, and consumer staples are known for paying consistent, high dividends. These stocks are also sometimes referred to as "income stocks". While dividends provide regular income, equity investments carry the added benefits (and risks) of capital appreciation or depreciation.
 
@@ -22,19 +22,19 @@ While the lure of higher yields can be compelling, yield-driven investment strat
    
 3. **Market Risk**: Yield-driven equities like high-dividend stocks are still subject to market risk. A downturn in the stock market could erode any income gains from dividends.
    
-4. **Liquidity Risk**: Some high-yield investments might be less liquid, making it difficult to sell the asset at the desired time without substantial price concessions.
+4. **[Liquidity Risk](../l/liquidity_risk.md)**: Some high-yield investments might be less liquid, making it difficult to sell the asset at the desired time without substantial price concessions.
 
 ### Yield-Driven Investment Strategies
 
 Several specific strategies can be used to execute a yield-driven investment approach:
 
-1. **Barbell Strategy**: This involves investing in both high-risk, high-yield and low-risk, low-yield securities. The goal is to balance the risk and reward by having exposure to both ends of the yield spectrum.
+1. **[Barbell Strategy](../b/barbell_strategy.md)**: This involves investing in both high-risk, high-yield and low-risk, low-yield securities. The goal is to balance the risk and reward by having exposure to both ends of the yield spectrum.
    
 2. **Ladder Strategy**: Primarily used in bond investing, this strategy involves building a portfolio of bonds with different maturities. This helps manage interest rate risk because as some bonds mature, investors can reinvest at prevailing rates.
    
 3. **Credit Spread Investing**: This strategy focuses on bonds issued by companies with different credit ratings. Investors might take advantage of the spread between high-yield (lower-rated) and investment-grade (higher-rated) bonds to maximize yield.
    
-4. **Dividend Reinvestment**: Investors reinvest dividends received from high-dividend stocks to purchase more shares, thus compounding their investment.
+4. **[Dividend Reinvestment](../d/dividend_reinvestment.md)**: Investors reinvest dividends received from high-dividend stocks to purchase more shares, thus compounding their investment.
 
 ### Example of Yield-Driven Investment Firms
 
@@ -44,7 +44,7 @@ PIMCO (Pacific Investment Management Company, LLC) is one of the leading active 
 For more information, visit [PIMCO's official website](https://www.pimco.com/).
 
 #### BlackRock
-BlackRock is another major player in yield-driven investing, particularly through its iShares ETFs. BlackRock offers a variety of bond ETFs and mutual funds that aim to provide higher yields. With their extensive research and risk management capabilities, BlackRock stands out as a reliable choice for those pursuing yield-driven strategies.
+BlackRock is another major player in yield-driven investing, particularly through its iShares ETFs. BlackRock offers a variety of bond ETFs and mutual funds that aim to provide higher yields. With their extensive research and [risk management](../r/risk_management.md) capabilities, BlackRock stands out as a reliable choice for those pursuing yield-driven strategies.
 
 For additional details, visit [BlackRock's official website](https://www.blackrock.com/).
 

@@ -9,7 +9,7 @@ Fixed income securities, sometimes referred to as bonds or debt securities, are 
    - **Gilts:** Issued by the UK government.
    - **Bunds:** Issued by the German government.
 
-2. **Municipal Bonds:** Issued by states, cities, or other local government entities as a way to finance public projects like building schools, highways, or sewer systems. They are often exempt from federal taxes.
+2. **[Municipal Bonds](../m/municipal_bonds.md):** Issued by states, cities, or other local government entities as a way to finance public projects like building schools, highways, or sewer systems. They are often exempt from federal taxes.
 
 3. **Corporate Bonds:** These are issued by companies to raise capital for expansion, acquisitions, or other business activities. They come in various forms:
    - **Investment Grade Bonds:** Issued by companies with high credit ratings.
@@ -19,7 +19,7 @@ Fixed income securities, sometimes referred to as bonds or debt securities, are 
 
 5. **Convertible Bonds:** These can be converted into a predefined number of common stock shares of the issuing company, offering potential for asset appreciation.
 
-6. **Inflation-Linked Bonds:** These protect investors from inflation as the principal is indexed to an inflation rate. An example is the U.S. Treasury Inflation-Protected Securities (TIPS).
+6. **[Inflation-Linked Bonds](../i/inflation-linked_bonds.md):** These protect investors from inflation as the principal is indexed to an inflation rate. An example is the U.S. Treasury [Inflation-Protected Securities](../i/inflation-protected_securities.md) (TIPS).
 
 ## Key Features of Fixed Income Securities
 
@@ -28,8 +28,8 @@ Fixed income securities, sometimes referred to as bonds or debt securities, are 
 3. **Principal (Face Value):** The amount of money the bondholder will receive back once the bond matures.
 4. **Yield:** The return that the bondholder earns on the bond.
    - **Current Yield:** Annual coupon payments divided by the current market price.
-   - **Yield to Maturity (YTM):** Total return anticipated on a bond if held until maturity.
-   - **Yield to Call (YTC):** Yield calculated considering the bond might be called before maturity.
+   - **[Yield to Maturity](../y/yield_to_maturity.md) (YTM):** Total return anticipated on a bond if held until maturity.
+   - **[Yield to Call](../y/yield_to_call.md) (YTC):** Yield calculated considering the bond might be called before maturity.
 
 5. **Credit Quality:** Indicates the bond issuer's ability to repay its debt.
 6. **Liquidity:** Ease with which the bond can be sold before maturity without affecting its price significantly.
@@ -46,7 +46,7 @@ Rating agencies assess the creditworthiness of the bond issuers. The ratings ran
 1. **Interest Rate Risk:** The risk that changes in interest rates will affect the bond’s value.
 2. **Credit Risk:** The risk that the bond issuer will default.
 3. **Inflation Risk:** The risk that inflation will erode the purchasing power of the bond's future payments.
-4. **Liquidity Risk:** The risk that the bondholder will not be able to sell the bond when desired without a significant price concession.
+4. **[Liquidity Risk](../l/liquidity_risk.md):** The risk that the bondholder will not be able to sell the bond when desired without a significant price concession.
 5. **Reinvestment Risk:** The risk that the proceeds from a bond will be reinvested at a lower interest rate.
 
 ## Fixed Income Markets

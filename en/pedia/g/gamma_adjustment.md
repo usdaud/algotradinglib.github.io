@@ -17,33 +17,33 @@ Gamma is crucial in understanding how the delta of an option will change as the 
 
 Gamma adjustment is essential for traders who employ delta-neutral strategies. A delta-neutral strategy aims to offset the directional risk of the underlying asset. However, since delta itself changes with movements in the underlying asset (as indicated by gamma), a strategy that is initially delta-neutral can quickly become delta-positive or delta-negative without gamma adjustment.
 
-In algorithmic trading, gamma adjustment involves dynamically rebalancing the portfolio to maintain the desired level of delta-neutrality. This can be done using various methods:
+In [algorithmic trading](../a/algorithmic_trading.md), gamma adjustment involves dynamically rebalancing the portfolio to maintain the desired level of delta-neutrality. This can be done using various methods:
 
-- **Delta Hedging**: This involves purchasing or selling the underlying asset to offset the delta of the option positions. As the delta of the options change (due to movements in the underlying asset’s price), the trader must continually adjust the positions in the underlying asset to maintain delta neutrality.
-- **Using Options**: In addition to trading the underlying asset, traders can buy or sell additional options to adjust the gamma of their portfolio. For instance, a trader might purchase options with high gamma to offset the gamma exposure from existing positions.
+- **[Delta Hedging](../d/delta_hedging.md)**: This involves purchasing or selling the underlying asset to offset the delta of the option positions. As the delta of the options change (due to movements in the underlying asset’s price), the trader must continually adjust the positions in the underlying asset to maintain delta neutrality.
+- **Using Options**: In addition to trading the underlying asset, traders can buy or sell additional options to adjust the gamma of their portfolio. For instance, a trader might purchase options with high gamma to offset the [gamma exposure](../g/gamma_exposure.md) from existing positions.
 
 ### Factors Influencing Gamma Adjustment
 
-1. **Market Volatility**: The level of market volatility significantly impacts the gamma of options. Higher volatility typically increases the gamma of at-the-money options while reducing the gamma of deep in-the-money or out-of-the-money options.
-2. **Option's Time to Expiration**: Gamma tends to be highest for at-the-money options as they approach expiration. As a result, gamma exposure and the need for gamma adjustment can increase significantly as options near their expiration dates.
+1. **Market Volatility**: The level of market volatility significantly impacts the gamma of options. Higher volatility typically increases the gamma of at-the-money options while reducing the gamma of deep in-the-money or [out-of-the-money options](../o/out-of-the-money_options.md).
+2. **Option's Time to Expiration**: Gamma tends to be highest for at-the-money options as they approach expiration. As a result, [gamma exposure](../g/gamma_exposure.md) and the need for gamma adjustment can increase significantly as options near their expiration dates.
 3. **Underlying Asset Price Movements**: Large price movements in the underlying asset can lead to substantial changes in the delta of options, necessitating frequent adjustments to maintain a delta-neutral position.
 
 ### Gamma Adjustment Techniques in Algorithmic Trading
 
-Algorithmic trading platforms and strategies often incorporate gamma adjustment techniques to manage risk and optimize performance. Some of the common techniques include:
+[Algorithmic trading](../a/algorithmic_trading.md) platforms and strategies often incorporate gamma adjustment techniques to manage risk and optimize performance. Some of the common techniques include:
 
-- **Portfolio Rebalancing Algorithms**: These algorithms automatically adjust the positions in the portfolio to maintain the desired delta-neutral status. They continuously monitor the delta and gamma exposures and execute trades in the underlying asset or options to rebalance the portfolio as needed.
-- **Dynamic Hedging Models**: Dynamic hedging models use advanced statistical and mathematical techniques to predict the future behavior of the underlying asset and adjust the portfolio accordingly. These models can incorporate factors such as historical volatility, current market conditions, and option Greeks to optimize gamma adjustment.
+- **[Portfolio Rebalancing](../p/portfolio_rebalancing.md) Algorithms**: These algorithms automatically adjust the positions in the portfolio to maintain the desired delta-neutral status. They continuously monitor the delta and gamma exposures and execute trades in the underlying asset or options to rebalance the portfolio as needed.
+- **[Dynamic Hedging](../d/dynamic_hedging.md) Models**: [Dynamic hedging](../d/dynamic_hedging.md) models use advanced statistical and mathematical techniques to predict the future behavior of the underlying asset and adjust the portfolio accordingly. These models can incorporate factors such as [historical volatility](../h/historical_volatility.md), current market conditions, and [option Greeks](../o/option_greeks.md) to optimize gamma adjustment.
 - **Machine Learning Algorithms**: Machine learning techniques, including regression models, neural networks, and reinforcement learning, can be employed to predict changes in delta and gamma and suggest optimal adjustments to the portfolio. These algorithms can learn from historical data and adapt to changing market conditions in real-time.
 
 ### Real-World Gamma Adjustment Applications
 
-Several companies and trading platforms specialize in providing tools and services for gamma adjustment in algorithmic trading. Some noteworthy examples include:
+Several companies and trading platforms specialize in providing tools and services for gamma adjustment in [algorithmic trading](../a/algorithmic_trading.md). Some noteworthy examples include:
 
-- **QuantConnect**: QuantConnect [website](https://www.quantconnect.com/) provides a cloud-based algorithmic trading platform that supports options trading and gamma adjustment. Traders can use QuantConnect's extensive libraries and data feeds to develop and test strategies that incorporate gamma adjustment techniques.
-- **Numerix**: Numerix [website](https://www.numerix.com/) offers software solutions for risk management and derivatives pricing. Their tools include advanced analytics for managing gamma exposure and optimizing option strategies.
-- **OptionsPlay**: OptionsPlay [website](https://www.optionsplay.com/) provides a suite of trading tools and analytics for options traders, including features for managing gamma and other option Greeks.
+- **QuantConnect**: QuantConnect [website](https://www.quantconnect.com/) provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports options trading and gamma adjustment. Traders can use QuantConnect's extensive libraries and data feeds to develop and test strategies that incorporate gamma adjustment techniques.
+- **Numerix**: Numerix [website](https://www.numerix.com/) offers software solutions for [risk management](../r/risk_management.md) and [derivatives](../d/derivatives.md) pricing. Their tools include advanced analytics for managing [gamma exposure](../g/gamma_exposure.md) and optimizing option strategies.
+- **OptionsPlay**: OptionsPlay [website](https://www.optionsplay.com/) provides a suite of trading tools and analytics for options traders, including features for managing gamma and other [option Greeks](../o/option_greeks.md).
 
 ### Conclusion
 
-Gamma adjustment is a critical aspect of options trading and risk management in algorithmic trading. By understanding the dynamics of gamma and implementing effective adjustment techniques, traders can maintain delta-neutral positions, mitigate risk, and optimize portfolio performance. Advances in technology, particularly in algorithmic trading platforms and machine learning, have made gamma adjustment more accessible and efficient, enabling traders to enhance their strategies and achieve better outcomes in the fast-paced world of financial markets.
+Gamma adjustment is a critical aspect of options trading and [risk management](../r/risk_management.md) in [algorithmic trading](../a/algorithmic_trading.md). By understanding the dynamics of gamma and implementing effective adjustment techniques, traders can maintain delta-neutral positions, mitigate risk, and optimize [portfolio performance](../p/portfolio_performance.md). Advances in technology, particularly in [algorithmic trading](../a/algorithmic_trading.md) platforms and machine learning, have made gamma adjustment more accessible and efficient, enabling traders to enhance their strategies and achieve better outcomes in the fast-paced world of financial markets.

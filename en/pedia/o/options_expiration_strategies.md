@@ -23,7 +23,7 @@ Opposite to the covered call, a protective put involves holding an underlying as
 
 ### 2. Iron Condors
 
-An iron condor strategy combines two vertical spreads: selling a lower strike put and buying an even lower strike put, along with selling an upper strike call and buying an even higher strike call. This complex positioning profits from minimal price movements of the underlying asset within a tight range, benefiting from the time decay of the options as expiration nears.
+An [iron condor](../i/iron_condor.md) strategy combines two vertical spreads: selling a lower strike put and buying an even lower strike put, along with selling an upper strike call and buying an even higher strike call. This complex positioning profits from minimal price movements of the underlying asset within a tight range, benefiting from the time decay of the options as expiration nears.
 
 ### 3. Butterflies and Condors
 
@@ -39,7 +39,7 @@ Similar to butterflies but with wider strike prices, offering more flexibility. 
 Involves purchasing both a call and put option with the same strike price and expiration date. This strategy wagers on the underlying asset exhibiting significant volatility, where the magnitude of directional movement supersedes the initial cost of the options.
 
 **Strangles**:
-Similar to straddles but involves buying out-of-the-money call and put options. While cheaper than straddles, strangles require a more substantial price movement of the underlying asset to be profitable.
+Similar to straddles but involves buying out-of-the-money call and [put options](../p/put_options.md). While cheaper than straddles, strangles require a more substantial price movement of the underlying asset to be profitable.
 
 ### 5. Calendar and Diagonal Spreads
 
@@ -51,7 +51,7 @@ A variation that involves different strike prices along with different expiratio
 
 ## Managing Risks During Expiration
 
-Effective risk management is paramount during options expiration. Here are critical considerations:
+Effective [risk management](../r/risk_management.md) is paramount during options expiration. Here are critical considerations:
 1. **Close or Roll Positions**: Closing or rolling forward expiring options can prevent unintended assignment and mitigate risk.
 2. **Monitor Open Interest and Volatility**: High open interest and implied volatility can impact your strategies. Tools like the VIX provide insights into market sentiment.
 3. **Exercise and Assignment Risks**: Understand the risks of being assigned early, especially with American-style options which can be exercised anytime before expiration.
@@ -60,10 +60,10 @@ Effective risk management is paramount during options expiration. Here are criti
 
 Modern trading platforms offer sophisticated tools for options expiration strategies. Among the noteworthy ones are:
 - **ThinkOrSwim by TD Ameritrade**: Renowned for its comprehensive options analysis tools and customizable strategies (source: [TD Ameritrade](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)).
-- **Interactive Brokers (IBKR)**: Offers a robust set of tools for options trading, including options analytics and risk management features (source: [Interactive Brokers](https://www.interactivebrokers.com/en/index.php?f=optionshedgehog&p=options)).
+- **Interactive Brokers (IBKR)**: Offers a robust set of tools for options trading, including options analytics and [risk management](../r/risk_management.md) features (source: [Interactive Brokers](https://www.interactivebrokers.com/en/index.php?f=optionshedgehog&p=options)).
 - **Tastyworks**: Designed specifically for options traders, providing intuitive tools and commission-free trading (source: [Tastyworks](https://tastyworks.com/)).
 
 ## Conclusion
 
-Navigating options expiration with well-devised strategies can significantly enhance trading efficacy and profitability. Understanding each strategy's mechanics, potential payoffs, and risks, combined with effective risk management, is essential for success. As financial instruments and markets evolve, so too will the opportunities and strategies available to traders, continually reshaping the landscape of options trading.
+Navigating options expiration with well-devised strategies can significantly enhance trading efficacy and profitability. Understanding each strategy's mechanics, potential payoffs, and risks, combined with effective [risk management](../r/risk_management.md), is essential for success. As financial instruments and markets evolve, so too will the opportunities and strategies available to traders, continually reshaping the landscape of options trading.
 

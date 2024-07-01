@@ -1,16 +1,16 @@
 # Order Management Systems in Algorithmic Trading
 
-Order Management Systems (OMS) are integral tools in the realm of algorithmic trading, providing traders with sophisticated means to handle and streamline the execution of trading orders. An OMS acts as a centralized system that facilitates and automates the process of managing orders efficiently throughout their entire lifecycle, from initial order input to execution and eventual settlement. This comprehensive exploration will delve into the various aspects of OMS, including their functionalities, benefits, architecture, and key vendors offering such systems.
+Order Management Systems (OMS) are integral tools in the realm of [algorithmic trading](../a/algorithmic_trading.md), providing traders with sophisticated means to handle and streamline the execution of trading orders. An OMS acts as a centralized system that facilitates and automates the process of managing orders efficiently throughout their entire lifecycle, from initial order input to execution and eventual settlement. This comprehensive exploration will delve into the various aspects of OMS, including their functionalities, benefits, architecture, and key vendors offering such systems.
 
 ## Key Functionalities
 
 ### Order Entry and Management
 
-An OMS allows traders to enter, modify, and cancel orders in a seamless manner. It supports different types of orders such as market orders, limit orders, stop orders, and more complex algorithmic orders, enhancing the flexibility and precision of trading strategies.
+An OMS allows traders to enter, modify, and cancel orders in a seamless manner. It supports different types of orders such as market orders, limit orders, stop orders, and more complex algorithmic orders, enhancing the flexibility and precision of [trading strategies](../t/trading_strategies.md).
 
 ### Routing and Execution
 
-OMS provides intelligent order routing capabilities, determining the optimal path and venue for order execution. This involves leveraging market data and predefined rules to decide the best strategy, ensuring minimum latency and maximum efficiency in trade execution.
+OMS provides intelligent [order routing](../o/order_routing.md) capabilities, determining the optimal path and venue for order execution. This involves leveraging market data and predefined rules to decide the best strategy, ensuring minimum latency and maximum efficiency in trade execution.
 
 ### Execution Analytics
 
@@ -18,7 +18,7 @@ To aid in decision-making and strategy refinement, an OMS typically includes rob
 
 ### Compliance and Risk Management
 
-Compliance with regulatory requirements is crucial in trading. An OMS supports this by incorporating risk management and compliance checks, ensuring that all trading activity adheres to legal and organizational standards. This includes pre-trade and post-trade risk assessments.
+Compliance with regulatory requirements is crucial in trading. An OMS supports this by incorporating [risk management](../r/risk_management.md) and compliance checks, ensuring that all trading activity adheres to legal and organizational standards. This includes pre-trade and post-trade risk assessments.
 
 ### Order Allocation
 
@@ -28,11 +28,11 @@ For portfolio managers, an OMS includes features for allocating executed orders 
 
 ### Efficiency and Accuracy
 
-Automating order management processes reduces the likelihood of human error and accelerates trade execution. This efficiency is critical in the fast-paced environment of algorithmic trading.
+Automating order management processes reduces the likelihood of human error and accelerates trade execution. This efficiency is critical in the fast-paced environment of [algorithmic trading](../a/algorithmic_trading.md).
 
 ### Cost Reduction
 
-By optimizing order routing and execution, an OMS can significantly reduce trading costs. This includes direct costs such as transaction fees and indirect costs like market impact.
+By optimizing [order routing](../o/order_routing.md) and execution, an OMS can significantly reduce [trading costs](../t/trading_costs.md). This includes direct costs such as transaction fees and indirect costs like market impact.
 
 ### Data Integration
 
@@ -40,7 +40,7 @@ An OMS can integrate with various data sources and trading platforms, providing 
 
 ### Scalability
 
-Modern OMSs are designed to handle large volumes of trading activity and can scale according to the growth of a trading firm. They can support multi-asset trading across numerous markets and geographies.
+Modern OMSs are designed to handle large volumes of trading activity and can scale according to the growth of a trading firm. They can support [multi-asset trading](../m/multi-asset_trading.md) across numerous markets and geographies.
 
 ## Architecture of an OMS
 
@@ -50,7 +50,7 @@ The front-end interface of an OMS is designed for user accessibility, providing 
 
 ### Middle Layer
 
-The middle layer includes the core processing engine of the OMS. It handles order validation, routing rules, execution algorithms, and risk management protocols. This layer is responsible for the real-time processing of orders and interactions with trading venues.
+The middle layer includes the core processing engine of the OMS. It handles order validation, routing rules, [execution algorithms](../e/execution_algorithms.md), and [risk management](../r/risk_management.md) protocols. This layer is responsible for the real-time processing of orders and interactions with trading venues.
 
 ### Back-End
 
@@ -60,7 +60,7 @@ The back-end comprises the data storage and management systems. It stores histor
 
 ### Bloomberg OMS
 
-Bloomberg offers an extensive OMS solution known as Bloomberg AIM. It is designed for buy-side institutions and integrates with Bloomberg's renowned data and analytics services. This OMS supports multi-asset trading and provides extensive compliance and risk management features.
+Bloomberg offers an extensive OMS solution known as Bloomberg AIM. It is designed for buy-side institutions and integrates with Bloomberg's renowned data and analytics services. This OMS supports [multi-asset trading](../m/multi-asset_trading.md) and provides extensive compliance and [risk management](../r/risk_management.md) features.
 
 [Learn more about Bloomberg AIM](https://www.bloomberg.com/professional/product/aim/)
 
@@ -72,7 +72,7 @@ Charles River Development, a subsidiary of State Street, offers the Charles Rive
 
 ### Eze Software
 
-Eze Software provides the Eze OMS, which integrates with their suite of trading, portfolio management, and compliance tools. This OMS is designed to offer flexible, efficient, and compliant order management solutions for investment firms.
+Eze Software provides the Eze OMS, which integrates with their suite of trading, [portfolio management](../p/portfolio_management.md), and compliance tools. This OMS is designed to offer flexible, efficient, and compliant order management solutions for investment firms.
 
 [Learn more about Eze Software](https://www.ezesoft.com/solutions/order-management/)
 
@@ -84,10 +84,10 @@ Fidessa, part of ION Group, offers an advanced OMS known for its high-performanc
 
 ### SS&C Eze
 
-SS&C Technologies provides the SS&C Eze OMS, a solution built to streamline order routing, execution, allocation, and compliance.
+SS&C Technologies provides the SS&C Eze OMS, a solution built to streamline [order routing](../o/order_routing.md), execution, allocation, and compliance.
 
 [Learn more about SS&C Eze](https://www.ezesoft.com/solutions/order-management-system)
 
 ## Conclusion
 
-Order Management Systems are indispensable in modern algorithmic trading, providing the necessary tools to manage orders efficiently, comply with regulations, and optimize trading performance. With the growing complexity and scale of financial markets, the role of OMS solutions continues to evolve, becoming more advanced and integral to the trading strategy and operational infrastructure of financial institutions.
+Order Management Systems are indispensable in modern [algorithmic trading](../a/algorithmic_trading.md), providing the necessary tools to manage orders efficiently, comply with regulations, and optimize [trading performance](../t/trading_performance.md). With the growing complexity and scale of financial markets, the role of OMS solutions continues to evolve, becoming more advanced and integral to the trading strategy and operational infrastructure of financial institutions.

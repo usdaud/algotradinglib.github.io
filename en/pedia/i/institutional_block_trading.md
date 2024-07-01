@@ -16,14 +16,14 @@ Institutional block trading refers to the buying or selling of a large block of 
 
 - **Institutional Investors:** These include pension funds, mutual funds, insurance companies, hedge funds, and investment banks.
 - **Brokers and Dealers:** Institutions often use brokers or dealers who specialize in block trading to find counterparties and execute trades efficiently.
-- **Dark Pools and Private Trading Venues:** To avoid market impact, many block trades are conducted in alternative trading systems (ATS) or dark pools.
+- **[Dark Pools](../d/dark_pools.md) and Private Trading Venues:** To avoid market impact, many block trades are conducted in alternative [trading systems](../t/trading_systems.md) (ATS) or [dark pools](../d/dark_pools.md).
 
 ### Trading Venues
 
 Institutional block trades are conducted on various venues:
  
 - **Exchanges:** Public exchanges offer transparency but less privacy, often resulting in price moves due to large trades.
-- **Dark Pools:** These private venues allow for large trades without exposing the details to the public market, thus reducing the risk of price movements.
+- **[Dark Pools](../d/dark_pools.md):** These private venues allow for large trades without exposing the details to the public market, thus reducing the risk of price movements.
 - **Over-The-Counter (OTC) Markets:** Here trades are negotiated directly between two parties, providing maximum privacy and flexibility but potentially less liquidity.
 
 ### Trading Strategies
@@ -32,13 +32,13 @@ Institutional block trades are conducted on various venues:
   
 2. **TWAP (Time Weighted Average Price):** This strategy involves breaking down a large order into smaller ones over a specific time period, reducing the risk of market impact.
 
-3. **Algos and Smart Order Routing:** Advanced algorithms and smart order routing technologies assist in finding liquidity across multiple venues to achieve the best possible execution price.
+3. **Algos and Smart [Order Routing](../o/order_routing.md):** Advanced algorithms and smart [order routing](../o/order_routing.md) technologies assist in finding liquidity across multiple venues to achieve the best possible execution price.
 
 ### Role of Technology
 
 Technology plays a critical role in institutional block trading:
 
-- **Algorithmic Trading:** Advanced algorithms help in executing trades efficiently by analyzing market data in real-time.
+- **[Algorithmic Trading](../a/algorithmic_trading.md):** Advanced algorithms help in executing trades efficiently by analyzing market data in real-time.
   
 - **High-Frequency Trading (HFT):** Techniques within HFT can facilitate the fast execution of large trades to capture the best prices available.
 
@@ -56,15 +56,15 @@ Institutional block trading is subject to rigorous regulatory scrutiny to ensure
 
 - **Market Impact:** Large trades can move markets, affecting the execution price.
   
-- **Liquidity Risk:** Finding counterparties for large trades can be challenging, leading to potential delays or unfavorable pricing.
+- **[Liquidity Risk](../l/liquidity_risk.md):** Finding counterparties for large trades can be challenging, leading to potential delays or unfavorable pricing.
 
 - **Operational Risk:** Complex trades involve multiple steps and participants, increasing the likelihood of errors.
 
 ### Case Studies and Examples
 
-- **Example 1: T. Rowe Price and Dark Pools:** T. Rowe Price, a renowned mutual fund manager, frequently uses dark pools to execute large trades without impacting public market prices. This allows the firm to protect the interests of its clients by minimizing price movements.
+- **Example 1: T. Rowe Price and [Dark Pools](../d/dark_pools.md):** T. Rowe Price, a renowned mutual fund manager, frequently uses [dark pools](../d/dark_pools.md) to execute large trades without impacting public market prices. This allows the firm to protect the interests of its clients by minimizing price movements.
   
-- **Example 2: Renaissance Technologies and Algorithmic Trading:** Renaissance Technologies employs sophisticated algorithms to execute block trades, leveraging quantitative data to achieve superior trade execution.
+- **Example 2: Renaissance Technologies and [Algorithmic Trading](../a/algorithmic_trading.md):** Renaissance Technologies employs sophisticated algorithms to execute block trades, leveraging quantitative data to achieve superior trade execution.
 
 ### Key Market Players
 

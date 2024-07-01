@@ -8,7 +8,7 @@ Preferred stocks have unique attributes that differentiate them from common stoc
 
 1. **Dividend Priority**: Preferred shareholders receive dividends before common shareholders. These dividends are generally fixed and are paid at regular intervals, making preferred stocks attractive to income-focused investors.
 
-2. **Fixed Dividends**: Unlike common stock dividends, which can fluctuate based on the company's profitability, preferred stock dividends are typically fixed. This makes them similar to bond interest payments.
+2. **Fixed Dividends**: Unlike common stock dividends, which can fluctuate based on the company's profitability, [preferred stock dividends](../p/preferred_stock_dividends.md) are typically fixed. This makes them similar to bond interest payments.
 
 3. **Par Value**: Preferred stocks are issued with a par value, which is the amount the investor receives in the event of liquidation. This par value plays a crucial role in determining the fixed dividend payment.
 
@@ -99,7 +99,7 @@ Telecommunications giant AT&T Inc. issues various preferred securities to raise 
 
 ## Conclusion
 
-Preferred securities represent a significant category within the capital market, offering a blend of attributes from both debt and equity instruments. Their unique characteristics, including fixed dividends, priority in liquidation, and potential conversion privileges, make them attractive to a certain segment of investors. However, they also pose risks such as interest rate sensitivity and credit risk that investors must carefully consider.
+Preferred securities represent a significant category within the capital market, offering a blend of attributes from both debt and equity instruments. Their unique characteristics, including fixed dividends, priority in liquidation, and potential conversion privileges, make them attractive to a certain segment of investors. However, they also pose risks such as [interest rate sensitivity](../i/interest_rate_sensitivity.md) and credit risk that investors must carefully consider.
 
 As financial instruments, preferred securities serve essential roles for both issuing entities and investors. Companies leverage preferred stock to optimize their capital structure and fund operations, while investors benefit from relatively stable income streams and priority in asset claims. Through careful analysis and consideration of their attributes and market conditions, investors can effectively incorporate preferred securities into their investment portfolios, achieving a balance of income and relative safety.
 

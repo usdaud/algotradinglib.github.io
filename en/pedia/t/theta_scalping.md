@@ -19,15 +19,15 @@ Theta scalping as an algorithmic strategy involves automating the buying and sel
 ### Steps to Implement Theta Scalping
 
 1. **Strategy Design**: Define the criteria for entering and exiting trades, considering factors like the selection of underlying assets, strike prices, expiration dates, and the timing for opening and closing positions.
-2. **Backtesting**: Test the strategy against historical data to evaluate its performance, profitability, and risk metrics.
+2. **[Backtesting](../b/backtesting.md)**: Test the strategy against historical data to evaluate its performance, profitability, and [risk metrics](../r/risk_metrics.md).
 3. **Parameter Optimization**: Fine-tune the algorithm to optimize its parameters, ensuring that it performs well under different market conditions.
-4. **Risk Management**: Implement robust risk management rules to protect the trading capital, such as position sizing, stop losses, and hedging techniques.
+4. **[Risk Management](../r/risk_management.md)**: Implement robust [risk management](../r/risk_management.md) rules to protect the trading capital, such as [position sizing](../p/position_sizing.md), stop losses, and hedging techniques.
 5. **Execution**: Deploy the algorithm on a trading platform, ensuring it can execute trades swiftly and accurately.
 
 ### Example Algorithms
 
-1. **Short Strangles**: Selling out-of-the-money (OTM) call and put options simultaneously. The strategy profits from the rapid theta decay of short positions.
-2. **Iron Condors**: Combining two short strangles with long options to limit risk. This involves selling OTM call and put options, while buying further OTM call and put options as a hedge.
+1. **Short Strangles**: Selling out-of-the-money (OTM) call and [put options](../p/put_options.md) simultaneously. The strategy profits from the rapid theta decay of short positions.
+2. **Iron Condors**: Combining two short strangles with long options to limit risk. This involves selling OTM call and [put options](../p/put_options.md), while buying further OTM call and [put options](../p/put_options.md) as a hedge.
 3. **Calendar Spreads**: Buying longer-term options and selling shorter-term options of the same strike price. This strategy benefits from the faster time decay of the short-term options.
 
 ## Considerations in Theta Scalping
@@ -46,9 +46,9 @@ Frequent trading inherent in theta scalping can lead to substantial transaction 
 
 ## Tools and Platforms
 
-Various software platforms offer tools and APIs for developing, backtesting, and executing theta scalping algorithms. Some of the popular options include:
+Various software platforms offer tools and APIs for developing, [backtesting](../b/backtesting.md), and executing theta scalping algorithms. Some of the popular options include:
 
-- **QuantConnect**: An open-source algorithmic trading platform that allows for backtesting and deploying trading strategies. [QuantConnect](https://www.quantconnect.com/)
+- **QuantConnect**: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that allows for [backtesting](../b/backtesting.md) and deploying [trading strategies](../t/trading_strategies.md). [QuantConnect](https://www.quantconnect.com/)
 - **Tradier**: An API-integrated trading platform providing access to options markets and real-time data. [Tradier](https://www.tradier.com/)
 - **Interactive Brokers**: Provides APIs and robust trading mechanisms for implementing options trades. [Interactive Brokers](https://www.interactivebrokers.com/)
 
@@ -56,7 +56,7 @@ Various software platforms offer tools and APIs for developing, backtesting, and
 
 ### Successful Implementation
 
-An example of successful theta scalping can be seen in the implementation by certain hedge funds and proprietary trading firms, which utilize sophisticated algorithms to automate and optimize the process. This includes managing large volumes of options trades, dynamically adjusting positions based on market conditions, and employing advanced risk management techniques.
+An example of successful theta scalping can be seen in the implementation by certain hedge funds and [proprietary trading](../p/proprietary_trading.md) firms, which utilize sophisticated algorithms to automate and optimize the process. This includes managing large volumes of options trades, dynamically adjusting positions based on market conditions, and employing advanced [risk management](../r/risk_management.md) techniques.
 
 ### Challenges Faced
 
@@ -64,6 +64,6 @@ However, certain market disruptions, such as the volatility spikes during the CO
 
 ## Conclusion
 
-Theta scalping is a powerful strategy in algorithmic trading, leveraging the inevitable time decay of options to generate consistent profits. By automating the process, traders can effectively manage multiple positions and capitalize on small price erosions over time. However, the strategy requires careful consideration of volatility, market conditions, and transaction costs to ensure long-term success.
+Theta scalping is a powerful strategy in [algorithmic trading](../a/algorithmic_trading.md), leveraging the inevitable time decay of options to generate consistent profits. By automating the process, traders can effectively manage multiple positions and capitalize on small price erosions over time. However, the strategy requires careful consideration of volatility, market conditions, and transaction costs to ensure long-term success.
 
-While theta scalping can offer lucrative opportunities, it demands a thorough understanding of options mechanics, robust algorithm design, and continuous monitoring to adapt to ever-changing market dynamics.
+While theta scalping can offer lucrative opportunities, it demands a thorough understanding of options mechanics, robust [algorithm design](../a/algorithm_design.md), and continuous monitoring to adapt to ever-changing market dynamics.

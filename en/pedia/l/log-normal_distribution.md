@@ -8,7 +8,7 @@ Mathematically, a positive random variable \( X \) follows a log-normal distribu
 - \( \mu \) (mu): the mean of the natural logarithm of \( X \)
 - \( \sigma \) (sigma): the standard deviation of the natural logarithm of \( X \)
 
-The probability density function (PDF) of a log-normal distribution is given by:
+The [probability density function](../p/probability_density_function.md) (PDF) of a log-normal distribution is given by:
 
 \[ f(x; \mu, \sigma) = \frac{1}{x\sigma\sqrt{2\pi}} \exp\left( -\frac{(\ln(x) - \mu)^2}{2\sigma^2} \right) \]
 
@@ -36,15 +36,15 @@ for \( x > 0 \).
 
 ## Applications in Algorithmic Trading
 
-Algorithmic trading relies heavily on statistical and mathematical models to design trading strategies. The log-normal distribution is widely used in the following aspects of algorithmic trading:
+[Algorithmic trading](../a/algorithmic_trading.md) relies heavily on statistical and mathematical models to design [trading strategies](../t/trading_strategies.md). The log-normal distribution is widely used in the following aspects of [algorithmic trading](../a/algorithmic_trading.md):
 
 ### 1. Stock Prices and Returns
 
-Stock prices are often modeled as geometric Brownian motion, where the percentage change in prices follows a normal distribution. Therefore, stock prices themselves can be modeled using a log-normal distribution. This is because the logarithm of the stock prices follows a normal distribution.
+Stock prices are often modeled as [geometric Brownian motion](../g/geometric_brownian_motion.md), where the percentage change in prices follows a normal distribution. Therefore, stock prices themselves can be modeled using a log-normal distribution. This is because the logarithm of the stock prices follows a normal distribution.
 
 ### 2. Option Pricing Models
 
-The Black-Scholes option pricing model uses the assumption that the underlying asset's price follows a log-normal distribution. The model's key formula for pricing European call and put options is derived using log-normal properties. 
+The Black-Scholes option pricing model uses the assumption that the underlying asset's price follows a log-normal distribution. The model's key formula for pricing European call and [put options](../p/put_options.md) is derived using log-normal properties. 
 
 ### 3. Risk Management
 
@@ -86,7 +86,7 @@ plt.show()
 
 ## Conclusion
 
-The log-normal distribution plays a crucial role in financial modeling and algorithmic trading. Its properties make it suitable for modeling a wide range of financial variables and phenomena. Understanding and applying the log-normal distribution can provide traders and risk managers with valuable insights and robust mathematical tools for making informed decisions.
+The log-normal distribution plays a crucial role in [financial modeling](../f/financial_modeling.md) and [algorithmic trading](../a/algorithmic_trading.md). Its properties make it suitable for modeling a wide range of financial variables and phenomena. Understanding and applying the log-normal distribution can provide traders and risk managers with valuable insights and robust mathematical tools for making informed decisions.
 
 For more information, you can visit the following link:
 - [SciPy Log-Normal Distribution Documentation](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.lognorm.html)

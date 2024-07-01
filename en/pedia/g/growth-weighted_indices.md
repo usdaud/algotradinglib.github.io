@@ -100,11 +100,11 @@ Investors can use exchange-traded funds (ETFs) and mutual funds that track growt
 
 ### Active Management
 
-Some investors prefer active management, where fund managers select high-growth stocks based on detailed analysis. This can enhance returns but also increases risk and management costs.
+Some investors prefer active management, where fund managers select high-[growth stocks](../g/growth_stocks.md) based on detailed analysis. This can enhance returns but also increases risk and management costs.
 
 ### Thematic Investing
 
-Growth-weighted indices align well with thematic investing, where investors focus on trends like technological innovation, clean energy, or biotechnology. These themes often possess high growth potential and can be reflected in the weighting of growth indices.
+Growth-weighted indices align well with [thematic investing](../t/thematic_investing.md), where investors focus on trends like technological innovation, clean energy, or biotechnology. These themes often possess high growth potential and can be reflected in the weighting of growth indices.
 
 ## Conclusion
 

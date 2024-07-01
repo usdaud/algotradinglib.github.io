@@ -14,7 +14,7 @@ Several practical reasons lead companies to enact reverse stock splits:
 
 1. **Compliance with Stock Exchange Rules**: Stock exchanges often have minimum bid price requirements for listing. For example, the NASDAQ requires a minimum bid price of $1. Companies whose stock prices fall below this threshold may face delisting. A reverse stock split helps in maintaining compliance with these rules. More about NASDAQ listing requirements can be found [here](https://listingcenter.nasdaq.com/assets/initialguide.pdf).
 
-2. **Attracting Institutional Investors**: Many institutional investors, including mutual funds and hedge funds, have policies against buying low-priced stocks. By raising the stock price through a reverse split, companies hope to attract more institutional investment.
+2. **Attracting Institutional Investors**: Many institutional investors, including mutual funds and hedge funds, have policies against buying [low-priced stocks](../l/low-priced_stocks.md). By raising the stock price through a reverse split, companies hope to attract more institutional investment.
 
 3. **Reducing Shareholder Dilution**: When a company has a large number of outstanding shares, each share represents a smaller portion of the company. A reverse split consolidates the shares, potentially making each share more valuable and less diluted.
 
@@ -54,7 +54,7 @@ Reverse stock splits serve as a strategic tool for companies to meet regulatory 
 
 1. **Historical Performance**: Investigate how the company's stock has performed historically, particularly before and after significant events such as reverse splits.
 
-2. **Fundamental Analysis**: Evaluate the company's fundamentals, rather than relying solely on stock price movements, to gauge its true value and potential for future growth.
+2. **[Fundamental Analysis](../f/fundamental_analysis.md)**: Evaluate the company's fundamentals, rather than relying solely on stock price movements, to gauge its true value and potential for future growth.
 
 3. **Market Conditions**: Consider broader market conditions and industry-specific factors that may influence the success and impact of a reverse stock split.
    

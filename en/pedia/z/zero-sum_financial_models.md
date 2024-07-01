@@ -1,16 +1,16 @@
 # Zero-Sum Financial Models
 
-Zero-sum financial models are a fundamental concept in financial trading and economic theory, particularly in the context of markets where gains and losses balance out among participants. The term "zero-sum" comes from game theory, reflecting situations where one participant's gain or loss is exactly balanced by the losses or gains of other participants. These models are crucial for understanding competitive and adversarial strategies in trading, risk management, and portfolio construction. This document will delve into the specifics of zero-sum models, their applications, implications, and real-world instances where they are most relevant.
+Zero-sum financial models are a fundamental concept in financial trading and economic theory, particularly in the context of markets where gains and losses balance out among participants. The term "zero-sum" comes from game theory, reflecting situations where one participant's gain or loss is exactly balanced by the losses or gains of other participants. These models are crucial for understanding competitive and adversarial strategies in trading, [risk management](../r/risk_management.md), and portfolio construction. This document will delve into the specifics of [zero-sum models](../z/zero-sum_models.md), their applications, implications, and real-world instances where they are most relevant.
 
 ## Introduction to Zero-Sum Financial Models
 
 Zero-sum financial models represent scenarios in financial markets where the total wealth does not change; instead, it merely shifts from one participant to another. This contrasts with non-zero-sum situations, where the total wealth can increase or decrease, leading to scenarios where all parties can either gain or lose together.
 
-In a zero-sum game, the profit of each participant is inversely related to the profit of another participant. Within financial markets, this could be seen in direct trading environments such as futures and options markets, where for every winner, there is an equivalent loser.
+In a [zero-sum game](../z/zero-sum_game.md), the profit of each participant is inversely related to the profit of another participant. Within financial markets, this could be seen in direct trading environments such as futures and options markets, where for every winner, there is an equivalent loser.
 
 ### Examples of Zero-Sum Models
 
-- **Futures Contracts**: In futures trading, buyers and sellers enter into agreements to trade an asset at a predetermined future date and price. If the asset's price rises above the contract price, the buyer profits while the seller loses an equivalent amount, and vice versa.
+- **[Futures Contracts](../f/futures_contracts.md)**: In futures trading, buyers and sellers enter into agreements to trade an asset at a predetermined future date and price. If the asset's price rises above the contract price, the buyer profits while the seller loses an equivalent amount, and vice versa.
 
 - **Options Trading**: Similar to futures, options involve a buyer and a seller engaging in a contract where the buyer has the right, but not the obligation, to buy or sell an asset at a set price. The payoff profile of one party is directly counterbalanced by the other's loss.
 
@@ -26,7 +26,7 @@ Game theory provides the mathematical framework for analyzing zero-sum games. Ke
 
 ## Applications in Algorithmic Trading
 
-Algorithmic trading leverages zero-sum models to design strategies that capitalize on market inefficiencies. Algorithms can quickly identify and react to pricing discrepancies, effectively engaging in zero-sum transactions. 
+[Algorithmic trading](../a/algorithmic_trading.md) leverages [zero-sum models](../z/zero-sum_models.md) to design strategies that capitalize on market inefficiencies. Algorithms can quickly identify and react to pricing discrepancies, effectively engaging in zero-sum transactions. 
 
 ### Market Making
 
@@ -34,15 +34,15 @@ Market makers play a critical role in ensuring liquidity in financial markets. T
 
 ### Statistical Arbitrage
 
-Statistical arbitrage strategies involve identifying and exploiting statistical mispricings between related financial instruments. Such strategies rely heavily on the zero-sum nature, as profits made on one side of the trade are offset by losses on the other.
+Statistical [arbitrage](../a/arbitrage.md) strategies involve identifying and exploiting statistical mispricings between related financial instruments. Such strategies rely heavily on the zero-sum nature, as profits made on one side of the trade are offset by losses on the other.
 
 ## Implications for Risk Management
 
-Understanding zero-sum dynamics is essential for effective risk management. Firms must recognize that the gains of one market participant come at the expense of another, which influences how they hedge their positions and manage risk.
+Understanding zero-sum dynamics is essential for effective [risk management](../r/risk_management.md). Firms must recognize that the gains of one market participant come at the expense of another, which influences how they hedge their positions and manage risk.
 
 ### Hedging Techniques
 
-Hedging strategies often involve zero-sum thinking. For example:
+[Hedging strategies](../h/hedging_strategies.md) often involve zero-sum thinking. For example:
 
 - **Options Hedging**: Using options to hedge against potential price movements involves zero-sum calculus, where the options seller's liability is balanced by the options buyer's potential gain.
 
@@ -50,12 +50,12 @@ Hedging strategies often involve zero-sum thinking. For example:
 
 ## Real-World Instances
 
-Several prominent financial firms utilize zero-sum models in their trading strategies:
+Several prominent financial firms utilize [zero-sum models](../z/zero-sum_models.md) in their [trading strategies](../t/trading_strategies.md):
 
-- **Jane Street** (https://www.janestreet.com/): A quantitative trading firm specializing in arbitrage and market making where zero-sum strategies are frequently employed.
-- **DRW Trading** (https://drw.com/): Another significant player in algorithmic trading employing zero-sum models to optimize trading strategies.
+- **Jane Street** (https://www.janestreet.com/): A [quantitative trading](../q/quantitative_trading.md) firm specializing in [arbitrage](../a/arbitrage.md) and market making where zero-sum strategies are frequently employed.
+- **DRW Trading** (https://drw.com/): Another significant player in [algorithmic trading](../a/algorithmic_trading.md) employing [zero-sum models](../z/zero-sum_models.md) to optimize [trading strategies](../t/trading_strategies.md).
 - **Renaissance Technologies** (https://www.rentec.com/): Known for their Medallion Fund, which employs sophisticated mathematical models, including zero-sum principles, to achieve market-beating returns.
 
 ## Conclusion
 
-Zero-sum financial models are integral to various aspects of trading, from futures and options to forex and algorithmic trading. Understanding these models helps traders and firms develop strategies that optimize gains while managing risks effectively. By recognizing the zero-sum nature of specific markets, participants can better navigate the competitive landscape, ensuring informed decision-making in their trading and risk management activities.
+Zero-sum financial models are integral to various aspects of trading, from futures and options to forex and [algorithmic trading](../a/algorithmic_trading.md). Understanding these models helps traders and firms develop strategies that optimize gains while managing risks effectively. By recognizing the zero-sum nature of specific markets, participants can better navigate the competitive landscape, ensuring informed decision-making in their trading and [risk management](../r/risk_management.md) activities.

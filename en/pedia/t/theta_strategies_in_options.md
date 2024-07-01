@@ -1,6 +1,6 @@
 # Theta Strategies in Options
 
-Options trading is a complex field with numerous strategies based on different aspects of option pricing models. One of the most significant aspects of options trading is understanding "theta," a Greek letter representing the time decay of an option's premium. Theta measures how much the price of an option will decrease as the time to expiration approaches, all other factors remaining constant. Strategies centered around theta are crucial for both option buyers and sellers to optimize their gains or minimize their losses. In this article, we dive deep into theta strategies in options trading.
+Options trading is a complex field with numerous strategies based on different aspects of [option pricing models](../o/option_pricing_models.md). One of the most significant aspects of options trading is understanding "theta," a Greek letter representing the time decay of an option's premium. Theta measures how much the price of an option will decrease as the time to expiration approaches, all other factors remaining constant. Strategies centered around theta are crucial for both option buyers and sellers to optimize their gains or minimize their losses. In this article, we dive deep into theta strategies in options trading.
 
 ## Understanding Theta in Options
 
@@ -14,7 +14,7 @@ Traders need to understand theta for several reasons:
 
 - **Time Sensitivity**: The closer an option gets to its expiration date, the faster it loses value due to the diminishing time premium.
 - **Volatility Sensitivity**: Theta interplay with other Greeks like gamma and vega can help traders craft more effective strategies.
-- **Position Management**: Knowing theta helps traders decide whether to close, hold, or hedge an option position.
+- **[Position Management](../p/position_management.md)**: Knowing theta helps traders decide whether to close, hold, or hedge an option position.
 
 ## Basic Theta Strategies
 
@@ -42,7 +42,7 @@ Selling options involves selling time premium, making theta a potential profit c
 
 Credit spreads involve selling one option and buying another of the same type with different strike prices. This strategy aims to capture premium.
 
-**Example**: A bull put spread involves selling a higher strike put and buying a lower strike put.
+**Example**: A [bull put spread](../b/bull_put_spread.md) involves selling a higher strike put and buying a lower strike put.
 
 **Key Points:**
 
@@ -51,7 +51,7 @@ Credit spreads involve selling one option and buying another of the same type wi
 
 ### Calendar Spreads
 
-A calendar spread, or horizontal spread, involves buying and selling options of the same type and strike price but with different expiration dates. This strategy benefits from a slower decay of the longer-term option compared to the shorter-term option.
+A calendar spread, or [horizontal spread](../h/horizontal_spread.md), involves buying and selling options of the same type and strike price but with different expiration dates. This strategy benefits from a slower decay of the longer-term option compared to the shorter-term option.
 
 **Key Points:**
 
@@ -84,7 +84,7 @@ Beyond the basic strategies, seasoned traders often employ more complex methods 
 
 Butterflies and condors utilize multiple legs to create a position with limited risk and reward. These strategies are highly sensitive to theta, and their profitability depends on the underlying asset remaining within a certain range.
 
-**Butterfly Spread**: Involves buying and selling various strike prices of the same expiration.
+**[Butterfly Spread](../b/butterfly_spread.md)**: Involves buying and selling various strike prices of the same expiration.
 
 **Condor Spread**: Similar to butterfly but with different strike prices for each leg.
 
@@ -94,7 +94,7 @@ To mitigate risks associated with theta decay, traders frequently adjust their p
 
 **Rolling Positions**: Involves closing an existing position and opening a new one with a later expiration date.
 
-**Delta Hedging**: Ensures the portfolio remains neutral to price changes in the underlying asset, making it easier to focus solely on theta decay.
+**[Delta Hedging](../d/delta_hedging.md)**: Ensures the portfolio remains neutral to price changes in the underlying asset, making it easier to focus solely on theta decay.
 
 ### Theta-Optimized Portfolios
 
@@ -102,16 +102,16 @@ Some traders go as far as creating entire portfolios optimized for theta decay. 
 
 **Theta Harvesting**: Involves strategically selecting options to capture the maximum time decay.
 
-**Risk Management**: Continuous monitoring and adjusting to keep the portfolio’s theta balance optimized.
+**[Risk Management](../r/risk_management.md)**: Continuous monitoring and adjusting to keep the portfolio’s theta balance optimized.
 
 
 ## Tools and Platforms for Theta Strategies
 
-Several tools and platforms can help traders execute theta strategies effectively. These platforms often offer features like real-time data, risk analysis, and automated trading capabilities. Here are some widely used ones:
+Several tools and platforms can help traders execute theta strategies effectively. These platforms often offer features like real-time data, [risk analysis](../r/risk_analysis.md), and automated trading capabilities. Here are some widely used ones:
 
 ### Thinkorswim by TD Ameritrade
 
-Thinkorswim is a comprehensive trading platform that offers advanced charting, screening, and risk analysis tools, making it a favorite for theta strategies.
+Thinkorswim is a comprehensive trading platform that offers advanced charting, screening, and [risk analysis](../r/risk_analysis.md) tools, making it a favorite for theta strategies.
 
 [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
 
@@ -139,7 +139,7 @@ While theta strategies offer numerous opportunities, they are not without risks.
 
 ### Market Volatility
 
-Unexpected volatility can significantly impact theta-based strategies. For example, a long calendar spread may suffer losses if volatility drops sharply.
+Unexpected volatility can significantly impact theta-based strategies. For example, a [long calendar spread](../l/long_calendar_spread.md) may suffer losses if volatility drops sharply.
 
 ### Assignment Risk
 

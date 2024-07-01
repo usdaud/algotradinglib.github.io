@@ -1,10 +1,10 @@
 # Volatility Index Options
 
-Volatility Index Options, often referred to simply as "VIX Options," are financial instruments that utilize the Chicago Board Options Exchange (CBOE) Volatility Index as their underlying asset. These options provide investors with a way to trade or hedge against market volatility, a concept inherently tied to the perceived risk in the financial markets. The VIX itself is often called the "fear gauge" because it tends to spike during periods of market instability or stress. This extensive discussion will cover various aspects of VIX Options, from their definitions and calculation methods to their trading strategies and market impact.
+Volatility [Index Options](../i/index_options.md), often referred to simply as "VIX Options," are financial instruments that utilize the Chicago Board Options Exchange (CBOE) Volatility Index as their underlying asset. These options provide investors with a way to trade or hedge against market volatility, a concept inherently tied to the perceived risk in the financial markets. The VIX itself is often called the "fear gauge" because it tends to spike during periods of market instability or stress. This extensive discussion will cover various aspects of VIX Options, from their definitions and calculation methods to their [trading strategies](../t/trading_strategies.md) and market impact.
 
 ## Understanding the VIX
 
-The Volatility Index, or VIX, is a real-time index that represents the market's expectations for volatility over the coming 30 days. It is derived from the implied volatilities of a wide range of S&P 500 index options, both calls and puts. Essentially, the VIX measures the market sentiment and the expected fluctuation range of the S&P 500, making it a significant indicator for investors and traders alike. 
+The Volatility Index, or VIX, is a real-time index that represents the market's expectations for volatility over the coming 30 days. It is derived from the implied volatilities of a wide range of S&P 500 [index options](../i/index_options.md), both calls and puts. Essentially, the VIX measures the market sentiment and the expected fluctuation range of the S&P 500, making it a significant indicator for investors and traders alike. 
 
 The calculation of the VIX involves complex mathematics, computing a weighted sum of specific options, and this data is updated constantly during trading hours. Due to its complexity, not many retail investors go into the details of the VIX's computation, but understanding its directional movement is crucial for utilizing VIX Options effectively.
 
@@ -12,11 +12,11 @@ More information about the VIX and its calculation can be found on the [CBOE web
 
 ## Types of VIX Options
 
-VIX Options come in two primary types: call options and put options. 
+VIX Options come in two primary types: call options and [put options](../p/put_options.md). 
 
 1. **VIX Call Options**: These give the holder the right, but not the obligation, to buy the VIX at a predetermined strike price on or before a specified expiration date. Investors utilize call options when they predict that market volatility will increase, typically during times of economic uncertainty or market downturns.
 
-2. **VIX Put Options**: These grant the holder the right to sell the VIX at a predefined strike price on or before the option's expiration date. Traders opt for put options when they believe volatility will decrease, which often corresponds with the stabilizing of the market.
+2. **VIX [Put Options](../p/put_options.md)**: These grant the holder the right to sell the VIX at a predefined strike price on or before the option's expiration date. Traders opt for [put options](../p/put_options.md) when they believe volatility will decrease, which often corresponds with the stabilizing of the market.
 
 ## Using VIX Options
 
@@ -28,7 +28,7 @@ One of the primary uses of VIX Options is to hedge against potential losses in a
 
 ### Speculation
 
-Speculating with VIX Options allows traders to place bets on future market conditions. For example, an investor might purchase VIX Call Options ahead of an anticipated economic report that is expected to increase market volatility. Conversely, they might buy VIX Put Options if they expect tranquility in the markets.
+Speculating with VIX Options allows traders to place bets on future market conditions. For example, an investor might purchase VIX Call Options ahead of an anticipated economic report that is expected to increase market volatility. Conversely, they might buy VIX [Put Options](../p/put_options.md) if they expect tranquility in the markets.
 
 ### Portfolio Diversification
 
@@ -42,7 +42,7 @@ A long VIX Call strategy involves buying call options on the VIX. This position 
 
 ### Long VIX Put
 
-Buying put options on the VIX can be advantageous when an investor expects a period of low volatility. This bearish stance on the VIX allows for profits if the VIX drops below the strike price by expiration. This strategy is typically less common but can be beneficial in stable market conditions.
+Buying [put options](../p/put_options.md) on the VIX can be advantageous when an investor expects a period of low volatility. This bearish stance on the VIX allows for profits if the VIX drops below the strike price by expiration. This strategy is typically less common but can be beneficial in stable market conditions.
 
 ### VIX Call Spread
 
@@ -50,7 +50,7 @@ A VIX Call Spread entails buying call options at a lower strike price while simu
 
 ### VIX Put Spread
 
-Similar to the Call Spread, a VIX Put Spread involves purchasing put options at a higher strike price while selling puts at a lower strike. This strategy profits from a modest decrease in volatility, limiting potential gains and losses to predefined levels.
+Similar to the Call Spread, a VIX Put Spread involves purchasing [put options](../p/put_options.md) at a higher strike price while selling puts at a lower strike. This strategy profits from a modest decrease in volatility, limiting potential gains and losses to predefined levels.
 
 ## Calculation and Settlement
 
@@ -61,7 +61,7 @@ VIX Options are European-style, meaning they can only be exercised at expiration
 ### Advantages
 
 1. **Hedging Capabilities**: VIX Options provide a powerful hedging tool, allowing investors to protect against market downturns.
-2. **Diversification**: They add a non-correlated asset to portfolios, enhancing risk management.
+2. **Diversification**: They add a non-correlated asset to portfolios, enhancing [risk management](../r/risk_management.md).
 3. **Liquidity**: VIX Options are highly liquid, ensuring tight spreads and efficient price execution.
 
 ### Risks
@@ -76,6 +76,6 @@ The introduction of VIX Options has significantly impacted the financial markets
 
 ## Conclusion
 
-Volatility Index Options offer unique opportunities for investors aiming to speculate on or hedge against market volatility. While they are complex instruments requiring a good understanding of the underlying concepts, their flexibility and the risk management tools they provide are invaluable. Whether used for hedging, speculation, or diversification, VIX Options have become an essential component of modern financial markets, reflecting the ever-evolving landscape of trading strategies and risk management.
+Volatility [Index Options](../i/index_options.md) offer unique opportunities for investors aiming to speculate on or hedge against market volatility. While they are complex instruments requiring a good understanding of the underlying concepts, their flexibility and the [risk management](../r/risk_management.md) tools they provide are invaluable. Whether used for hedging, speculation, or diversification, VIX Options have become an essential component of modern financial markets, reflecting the ever-evolving landscape of [trading strategies](../t/trading_strategies.md) and [risk management](../r/risk_management.md).
 
 For more details on VIX Options, visit the [CBOE website](https://www.cboe.com/tradable_products/vix/). 

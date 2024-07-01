@@ -1,10 +1,10 @@
 # Value Drivers in Trading
 
-In the broad scope of financial markets and trading, understanding the key value drivers is paramount for both traders and investors. Value drivers in trading refer to the core elements or variables that have a significant impact on the valuation of financial assets and investment returns. These drivers can differ depending on the market, asset class, and trading strategy but generally fall into several main categories: economic indicators, market sentiment, company fundamentals, and technological factors.
+In the broad scope of financial markets and trading, understanding the key value drivers is paramount for both traders and investors. Value drivers in trading refer to the core elements or variables that have a significant impact on the valuation of financial assets and investment returns. These drivers can differ depending on the market, asset class, and trading strategy but generally fall into several main categories: [economic indicators](../e/economic_indicators.md), market sentiment, company fundamentals, and technological factors.
 
 ## Economic Indicators
 
-Economic indicators are statistical metrics used to gauge the health and direction of the economy. These indicators are critical for traders as they provide insights into future market movements. Key economic indicators include:
+[Economic indicators](../e/economic_indicators.md) are statistical metrics used to gauge the health and direction of the economy. These indicators are critical for traders as they provide insights into future market movements. Key [economic indicators](../e/economic_indicators.md) include:
 
 1. **Gross Domestic Product (GDP)**:
    - Measures the total value of goods and services produced over a specific time period.
@@ -59,14 +59,14 @@ When it comes to individual equities, company fundamentals are crucial value dri
 
 ## Technological Factors
 
-The significance of technology in trading cannot be understated, with advancements in this field contributing substantially to market efficiency and trading strategies. These technological drivers include:
+The significance of technology in trading cannot be understated, with advancements in this field contributing substantially to [market efficiency](../m/market_efficiency.md) and [trading strategies](../t/trading_strategies.md). These technological drivers include:
 
-1. **Algorithmic Trading**:
+1. **[Algorithmic Trading](../a/algorithmic_trading.md)**:
    - Utilizes advanced mathematical models and automated systems to execute trades.
    - Examples include high-frequency trading (HFT) firms like Citadel Securities (https://www.citadelsecurities.com/).
 
 2. **Artificial Intelligence**:
-   - Machine learning algorithms can analyze vast amounts of data and identify trading signals.
+   - Machine learning algorithms can analyze vast amounts of data and identify [trading signals](../t/trading_signals.md).
    - Companies such as BlackRock (https://www.blackrock.com/) integrate AI to enhance trading decisions.
 
 3. **Blockchain Technology**:
@@ -77,7 +77,7 @@ The significance of technology in trading cannot be understated, with advancemen
 
 Several additional factors can drive value in trading:
 
-1. **Geopolitical Events**:
+1. **[Geopolitical Events](../g/geopolitical_events.md)**:
    - International relations and political stability can have significant impacts on financial markets.
    - Traders closely monitor events like elections, trade agreements, and geopolitical tensions.
 

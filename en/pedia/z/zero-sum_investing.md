@@ -4,13 +4,13 @@ Zero-sum investing is a concept originating primarily in gaming and finance to d
 
 ## The Basics of Zero-Sum Investing
 
-In simple terms, a zero-sum game is a situation in which the total amount of rewards is fixed, meaning that one participant's gain must be equivalent to another's loss. This concept is crucial in understanding market dynamics, where profit potential for one trader typically comes at the expense of another. The aggregate wealth in a given market does not increase simply due to trading activities; rather, it is merely redistributed among market participants.
+In simple terms, a [zero-sum game](../z/zero-sum_game.md) is a situation in which the total amount of rewards is fixed, meaning that one participant's gain must be equivalent to another's loss. This concept is crucial in understanding market dynamics, where profit potential for one trader typically comes at the expense of another. The aggregate wealth in a given market does not increase simply due to trading activities; rather, it is merely redistributed among market participants.
 
 Several financial instruments and markets embody the zero-sum nature. These include:
 
-- **Futures contracts**: Two parties agree to buy and sell an asset at a future date for a predetermined price. If the price of the asset changes, one party's gain is the other's loss.
-- **Options**: Similar to futures contracts, the value fluctuation of options contracts leads to gains for one party and losses for the other.
-- **Foreign exchange (Forex) trading**: The currency market, where currencies are traded in pairs, is another classic example of a zero-sum game. The appreciation of one currency directly corresponds to the depreciation of another.
+- **[Futures contracts](../f/futures_contracts.md)**: Two parties agree to buy and sell an asset at a future date for a predetermined price. If the price of the asset changes, one party's gain is the other's loss.
+- **Options**: Similar to [futures contracts](../f/futures_contracts.md), the value fluctuation of options contracts leads to gains for one party and losses for the other.
+- **[Foreign exchange (Forex) trading](../f/foreign_exchange_(forex)_trading.md)**: The currency market, where currencies are traded in pairs, is another classic example of a [zero-sum game](../z/zero-sum_game.md). The appreciation of one currency directly corresponds to the depreciation of another.
 
 ## Game Theory and Zero-Sum Games
 
@@ -46,10 +46,10 @@ Foreign exchange markets, where currencies are traded in pairs, exhibit a classi
 
 Zero-sum investing environments dictate that not everyone can win; the profits of successful traders come at the expense of others. This competitive framework implies several practical takeaways for participants in these markets:
 
-- **Skill and Strategy**: Successful traders must cultivate a deep understanding of market dynamics, develop robust trading strategies, and maintain psychological fortitude.
+- **Skill and Strategy**: Successful traders must cultivate a deep understanding of market dynamics, develop robust [trading strategies](../t/trading_strategies.md), and maintain psychological fortitude.
 - **Information Asymmetry**: In zero-sum markets, having superior information or analysis can create a competitive edge.
 - **Liquidity and Execution**: Efficient trading operations and the ability to execute trades swiftly can help secure advantageous outcomes.
-- **Risk Management**: Given the inherent risk, effective risk management practices are essential to safeguard against substantial losses.
+- **[Risk Management](../r/risk_management.md)**: Given the inherent risk, effective [risk management](../r/risk_management.md) practices are essential to safeguard against substantial losses.
 
 ## Zero-Sum Markets vs. Non-Zero-Sum Markets
 
@@ -62,11 +62,11 @@ While zero-sum markets involve direct competition, many financial markets are no
 
 Several companies operate in markets closely associated with zero-sum dynamics, providing platforms and services for traders. Examples include:
 
-- **CME Group**: Operating one of the largest derivatives trading platforms, CME Group facilitates trading in futures and options. [Visit CME Group](https://www.cmegroup.com/)
+- **CME Group**: Operating one of the largest [derivatives](../d/derivatives.md) trading platforms, CME Group facilitates trading in futures and options. [Visit CME Group](https://www.cmegroup.com/)
 - **Intercontinental Exchange (ICE)**: A prominent global network of exchanges and clearinghouses, ICE also provides platforms for futures and options trading. [Visit ICE](https://www.theice.com/)
-- **Euronext**: Another major exchange offering a diverse range of financial derivatives contracts. [Visit Euronext](https://www.euronext.com/)
+- **Euronext**: Another major exchange offering a diverse range of financial [derivatives](../d/derivatives.md) contracts. [Visit Euronext](https://www.euronext.com/)
 - **Forex.com**: A leading platform for forex trading, offering various tools and resources for currency traders. [Visit Forex.com](https://www.forex.com/)
 
 ## Conclusion
 
-Zero-sum investing encapsulates the competitive essence of certain financial markets, where the gains of one participant are precisely offset by the losses of another. Recognizing the zero-sum nature of specific trading environments is crucial for traders and investors, as it underpins the importance of skill, strategy, and risk management in achieving success. While not all financial markets are zero-sum, understanding the dynamics of those that are can provide valuable insights into the competitive landscape of trading and investment activities.
+Zero-sum investing encapsulates the competitive essence of certain financial markets, where the gains of one participant are precisely offset by the losses of another. Recognizing the zero-sum nature of specific trading environments is crucial for traders and investors, as it underpins the importance of skill, strategy, and [risk management](../r/risk_management.md) in achieving success. While not all financial markets are zero-sum, understanding the dynamics of those that are can provide valuable insights into the competitive landscape of trading and investment activities.

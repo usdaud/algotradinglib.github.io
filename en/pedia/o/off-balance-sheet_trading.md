@@ -4,15 +4,15 @@ Off-balance-sheet (OBS) trading refers to the practice of keeping certain assets
 
 ## Definition and Fundamentals
 
-Off-balance-sheet trading encompasses financial agreements, transactions, and instruments that do not appear on the balance sheet. These can include derivatives, joint ventures, operating leases, and special purpose vehicles (SPVs). While these components are legally recognized, they are not recorded as assets or liabilities on the balance sheet, thereby potentially skewing a company’s transparency and financial integrity.
+Off-balance-sheet trading encompasses financial agreements, transactions, and instruments that do not appear on the balance sheet. These can include [derivatives](../d/derivatives.md), joint ventures, operating leases, and special purpose vehicles (SPVs). While these components are legally recognized, they are not recorded as assets or liabilities on the balance sheet, thereby potentially skewing a company’s transparency and financial integrity.
 
-In the domain of algorithmic trading, OBS items are significant because algos often rely on balance sheet data to generate trading signals. Misrepresentation or lack of transparency can lead to erroneous decisions by trading algorithms.
+In the domain of [algorithmic trading](../a/algorithmic_trading.md), OBS items are significant because algos often rely on balance sheet data to generate [trading signals](../t/trading_signals.md). Misrepresentation or lack of transparency can lead to erroneous decisions by [trading algorithms](../t/trading_algorithms.md).
 
 ## Types of Off-Balance-Sheet Items
 
 ### 1. Derivatives
 
-Derivatives are financial contracts whose value is derived from an underlying asset, index, or interest rate. Common types include futures, options, and swaps. Given the speculative nature and high leveraged positions, they often stay off the balance sheet to limit the perception of risk.
+[Derivatives](../d/derivatives.md) are financial contracts whose value is derived from an underlying asset, index, or interest rate. Common types include futures, options, and swaps. Given the speculative nature and high leveraged positions, they often stay off the balance sheet to limit the perception of risk.
 
 #### Example: J.P. Morgan Chase & Co.
 Visit: [J.P. Morgan](https://www.jpmorganchase.com/)
@@ -62,19 +62,19 @@ In the U.S., the FASB stipulates standards for financial reporting, including ho
 
 ## Implications for Algorithmic Trading
 
-In algorithmic trading, balance sheet information is paramount for many quantitative models. When off-balance-sheet items are not adequately disclosed or assessed, it can lead to several implications:
+In [algorithmic trading](../a/algorithmic_trading.md), balance sheet information is paramount for many [quantitative models](../q/quantitative_models.md). When off-balance-sheet items are not adequately disclosed or assessed, it can lead to several implications:
 
 ### 1. Data Integrity
 
-Algorithms depend on precise and accurate data. Off-balance-sheet trading can distort key financial metrics, such as leverage ratios, risk exposure, and profitability, leading to misinformed trading decisions.
+Algorithms depend on precise and accurate data. Off-balance-sheet trading can distort key financial metrics, such as [leverage ratios](../l/leverage_ratios.md), risk exposure, and profitability, leading to misinformed trading decisions.
 
 ### 2. Risk Management
 
-The hidden risks associated with off-balance-sheet transactions can undermine an algorithm's risk assessment models. This discrepancy can result in unexpected losses and heightened volatility.
+The hidden risks associated with off-balance-sheet transactions can undermine an algorithm's [risk assessment models](../r/risk_assessment_models.md). This discrepancy can result in unexpected losses and heightened volatility.
 
 ### 3. Transparency and Trust
 
-Market participants rely on companies’ financial reports to assess their stability and profitability. Persistent off-balance-sheet activities can erode trust, leading to reduced liquidity and increased spreads in the market, indirectly impacting algorithmic trading strategies.
+Market participants rely on companies’ financial reports to assess their stability and profitability. Persistent off-balance-sheet activities can erode trust, leading to reduced liquidity and increased spreads in the market, indirectly impacting [algorithmic trading](../a/algorithmic_trading.md) strategies.
 
 ## Case Studies: Real-World Impact
 
@@ -102,6 +102,6 @@ Staying abreast of regulatory changes is crucial. Algorithms can be adapted to c
 
 ## Conclusion
 
-Off-balance-sheet trading presents unique challenges and opportunities within the realm of algorithmic trading. By understanding the intricacies of these financial instruments and regulations, and incorporating comprehensive data analysis, traders can better navigate the complexities and mitigate associated risks. Companies that maintain high transparency in their financial reporting will continue to build trust and stability in the markets, providing a more robust foundation for algorithmic strategies.
+Off-balance-sheet trading presents unique challenges and opportunities within the realm of [algorithmic trading](../a/algorithmic_trading.md). By understanding the intricacies of these financial instruments and regulations, and incorporating comprehensive data analysis, traders can better navigate the complexities and mitigate associated risks. Companies that maintain high transparency in their financial reporting will continue to build trust and stability in the markets, providing a more robust foundation for algorithmic strategies.
 
 For more detailed references and real-time updates on companies involved in off-balance-sheet activities, visit their respective investor relations web pages and consult regulatory bodies like the SEC and IFRS.

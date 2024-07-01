@@ -41,7 +41,7 @@ Growth Rate Analysis is a critical aspect of financial and economic analysis tha
 
 3. **Month-over-Month (MoM) Growth**
 
-   MoM growth measures the change in value from one month to the next. This is particularly useful for short-term analysis, often used in tracking performance metrics for rapidly changing industries.
+   MoM growth measures the change in value from one month to the next. This is particularly useful for short-term analysis, often used in tracking [performance metrics](../p/performance_metrics.md) for rapidly changing industries.
 
    Formula:
    ```markdown
@@ -62,7 +62,7 @@ Growth Rate Analysis is a critical aspect of financial and economic analysis tha
 
 2. **Investment Analysis**
 
-   Investors rely on growth rates to identify potential investment opportunities. Companies with high and consistent growth rates are often seen as attractive investments. For example, growth stocks in technology sectors often exhibit high growth rates, attracting investors seeking capital appreciation.
+   Investors rely on growth rates to identify potential investment opportunities. Companies with high and consistent growth rates are often seen as attractive investments. For example, [growth stocks](../g/growth_stocks.md) in technology sectors often exhibit high growth rates, attracting investors seeking capital appreciation.
 
 3. **Economic Analysis**
 
@@ -70,42 +70,42 @@ Growth Rate Analysis is a critical aspect of financial and economic analysis tha
 
 ### Methodologies
 
-1. **Historical Data Analysis**
+1. **[Historical Data Analysis](../h/historical_data_analysis.md)**
 
    This involves reviewing historical growth rates to identify trends and forecast future growth. Analysts use various statistical tools and software to conduct this analysis. It's essential in industries where historical performance can be a strong indicator of future prospects.
 
-2. **Regression Analysis**
+2. **[Regression Analysis](../r/regression_analysis.md)**
 
-   Regression analysis helps in understanding the relationship between different variables and their impact on growth rates. For example, a company's revenue growth can be analyzed against factors like marketing spend, economic conditions, and competition.
+   [Regression analysis](../r/regression_analysis.md) helps in understanding the relationship between different variables and their impact on growth rates. For example, a company's revenue growth can be analyzed against factors like marketing spend, economic conditions, and competition.
 
 3. **Scenario Analysis**
 
-   This method involves evaluating different scenarios to predict growth rates based on varying assumptions. It helps in risk management and strategic planning by considering best-case, worst-case, and most-likely scenarios.
+   This method involves evaluating different scenarios to predict growth rates based on varying assumptions. It helps in [risk management](../r/risk_management.md) and strategic planning by considering best-case, worst-case, and most-likely scenarios.
 
 ### Tools and Software
 
 1. **Microsoft Excel**
 
-   Excel is a versatile tool used by analysts for growth rate calculations and data visualization. It offers functions and templates for CAGR, YoY, and MoM analysis.
+   Excel is a versatile tool used by analysts for growth rate calculations and [data visualization](../d/data_visualization.md). It offers functions and templates for CAGR, YoY, and MoM analysis.
 
    [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/excel)
 
 2. **Tableau**
 
-   Tableau is a powerful data visualization tool used to create interactive and shareable dashboards. It helps in analyzing and visualizing growth data effectively.
+   Tableau is a powerful [data visualization](../d/data_visualization.md) tool used to create interactive and shareable dashboards. It helps in analyzing and visualizing growth data effectively.
 
    [Tableau](https://www.tableau.com/)
 
 3. **R and Python**
 
-   These programming languages are popular in data analysis and finance for performing complex growth rate calculations, regression analysis, and creating visualizations.
+   These programming languages are popular in data analysis and finance for performing complex growth rate calculations, [regression analysis](../r/regression_analysis.md), and creating visualizations.
 
    - [R](https://www.r-project.org/)
    - [Python](https://www.python.org/)
 
 4. **Bloomberg Terminal**
 
-   Bloomberg Terminal provides real-time data, news, and analytics for financial professionals. It includes tools for growth rate analysis, economic indicators, and market trends.
+   Bloomberg Terminal provides real-time data, news, and analytics for financial professionals. It includes tools for growth rate analysis, [economic indicators](../e/economic_indicators.md), and market trends.
 
    [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
@@ -133,7 +133,7 @@ Growth Rate Analysis is a critical aspect of financial and economic analysis tha
 
 1. **Market Volatility**
 
-   Growth rates can be significantly affected by market volatility, especially in industries sensitive to economic cycles and geopolitical events.
+   Growth rates can be significantly affected by market volatility, especially in industries sensitive to [economic cycles](../e/economic_cycles.md) and [geopolitical events](../g/geopolitical_events.md).
 
 2. **Data Accuracy**
 

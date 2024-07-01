@@ -1,6 +1,6 @@
 ## Performance Metrics in Trading
 
-In the domain of algorithmic trading, quantitative analysis is vital for ensuring the profitability and robustness of trading strategies. Performance metrics are essential tools traders use to assess, compare, and fine-tune their trading strategies. This document delves into the various performance metrics used in trading, providing an in-depth look at their importance, calculation methods, and implications for trading strategies.
+In the domain of [algorithmic trading](../a/algorithmic_trading.md), [quantitative analysis](../q/quantitative_analysis.md) is vital for ensuring the profitability and robustness of [trading strategies](../t/trading_strategies.md). [Performance metrics](../p/performance_metrics.md) are essential tools traders use to assess, compare, and fine-tune their [trading strategies](../t/trading_strategies.md). This document delves into the various [performance metrics](../p/performance_metrics.md) used in trading, providing an in-depth look at their importance, calculation methods, and implications for [trading strategies](../t/trading_strategies.md).
 
 ### 1. Rate of Return
 
@@ -28,33 +28,33 @@ In the domain of algorithmic trading, quantitative analysis is vital for ensurin
 
 ### 3. Sharpe Ratio
 
-**Definition**: The Sharpe Ratio measures the performance of an investment compared to a risk-free asset, after adjusting for its risk.
+**Definition**: The [Sharpe Ratio](../s/sharpe_ratio.md) measures the performance of an investment compared to a risk-free asset, after adjusting for its risk.
 
 **Calculation**:
-\[ \text{Sharpe Ratio} = \frac{\text{R} - \text{R}_f}{\sigma} \]
+\[ \text{[Sharpe Ratio](../s/sharpe_ratio.md)} = \frac{\text{R} - \text{R}_f}{\sigma} \]
 
 - \( R \) = Return of the portfolio.
 - \( R_f \) = Risk-free rate.
 - \( \sigma \) = Standard deviation of the portfolio's excess return.
 
 **Importance**:
-- Assesses the risk-adjusted return.
-- A higher Sharpe Ratio indicates better risk-adjusted performance.
+- Assesses the [risk-adjusted return](../r/risk-adjusted_return.md).
+- A higher [Sharpe Ratio](../s/sharpe_ratio.md) indicates better risk-adjusted performance.
 
 ### 4. Sortino Ratio
 
-**Definition**: The Sortino Ratio is a variation of the Sharpe Ratio that differentiates harmful volatility from overall volatility by using the standard deviation of negative asset returns.
+**Definition**: The [Sortino Ratio](../s/sortino_ratio.md) is a variation of the [Sharpe Ratio](../s/sharpe_ratio.md) that differentiates harmful volatility from overall volatility by using the standard deviation of negative asset returns.
 
 **Calculation**:
-\[ \text{Sortino Ratio} = \frac{R - R_f}{\sigma_d} \]
+\[ \text{[Sortino Ratio](../s/sortino_ratio.md)} = \frac{R - R_f}{\sigma_d} \]
 
 - \( R \) = Return of the portfolio.
 - \( R_f \) = Risk-free rate.
-- \( \sigma_d \) = Downside deviation.
+- \( \sigma_d \) = [Downside deviation](../d/downside_deviation.md).
 
 **Importance**:
 - Focuses on downside risk.
-- Provides a better measure of risk-adjusted return for portfolios or strategies that do not have normally distributed returns.
+- Provides a better measure of [risk-adjusted return](../r/risk-adjusted_return.md) for portfolios or strategies that do not have normally distributed returns.
 
 ### 5. Maximum Drawdown
 
@@ -105,7 +105,7 @@ R-squared values range between 0 to 1, often expressed as percentages. An R-squa
 
 ### 9. Beta
 
-**Definition**: Beta measures the volatility or systematic risk of an investment compared to the market as a whole.
+**Definition**: Beta measures the volatility or [systematic risk](../s/systematic_risk.md) of an investment compared to the market as a whole.
 
 **Calculation**:
 \[ \text{Beta} = \frac{\text{Cov}(R_i, R_m)}{\text{Var}(R_m)} \]
@@ -121,10 +121,10 @@ R-squared values range between 0 to 1, often expressed as percentages. An R-squa
 
 ### 10. Information Ratio
 
-**Definition**: The Information Ratio measures portfolio returns above the returns of a benchmark, usually an index, relative to the volatility of those returns.
+**Definition**: The [Information Ratio](../i/information_ratio.md) measures portfolio returns above the returns of a benchmark, usually an index, relative to the volatility of those returns.
 
 **Calculation**:
-\[ \text{Information Ratio} = \frac{R_p - R_b}{\text{Tracking Error}} \]
+\[ \text{[Information Ratio](../i/information_ratio.md)} = \frac{R_p - R_b}{\text{Tracking Error}} \]
 
 - \( R_p \) = Return of the portfolio.
 - \( R_b \) = Return of the benchmark.
@@ -136,7 +136,7 @@ R-squared values range between 0 to 1, often expressed as percentages. An R-squa
 
 ### Conclusion
 
-In algorithmic trading, the application of these performance metrics is crucial for the success and sustainability of trading strategies. They provide valuable insights into the strengths and weaknesses of different strategies, allowing traders to make informed decisions and adjustments.
+In [algorithmic trading](../a/algorithmic_trading.md), the application of these [performance metrics](../p/performance_metrics.md) is crucial for the success and sustainability of [trading strategies](../t/trading_strategies.md). They provide valuable insights into the strengths and weaknesses of different strategies, allowing traders to make informed decisions and adjustments.
 
-For further exploration and tools for calculating these metrics, visiting [QuantConnect](https://www.quantconnect.com/) or [Kensho](https://www.kensho.com/) may prove beneficial. These platforms offer robust quantitative analysis tools for traders and quantitative analysts.
+For further exploration and tools for calculating these metrics, visiting [QuantConnect](https://www.quantconnect.com/) or [Kensho](https://www.kensho.com/) may prove beneficial. These platforms offer robust [quantitative analysis](../q/quantitative_analysis.md) tools for traders and quantitative analysts.
 

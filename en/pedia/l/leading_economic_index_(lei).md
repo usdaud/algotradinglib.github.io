@@ -1,6 +1,6 @@
 ### Leading Economic Index (LEI)
 
-The Leading Economic Index (LEI) is a composite index published monthly by the Conference Board, an independent research association. It is designed to anticipate changes in the economic cycle and forecast future economic activity. As a crucial tool in economic analysis, it aggregates multiple economic indicators that historically have moved before changes in the overall economy, hence the term “leading.”
+The Leading Economic Index (LEI) is a composite index published monthly by the Conference Board, an independent research association. It is designed to anticipate changes in the economic cycle and forecast future economic activity. As a crucial tool in economic analysis, it aggregates multiple [economic indicators](../e/economic_indicators.md) that historically have moved before changes in the overall economy, hence the term “leading.”
 
 ### Components of LEI
 
@@ -19,7 +19,7 @@ As of the latest methodology update, the LEI comprises ten components:
 
 ### Purpose and Use
 
-The LEI's primary purpose is to predict economic activity over the next 3 to 12 months by providing a broad view that combines various leading indicators. It is particularly useful for identifying turning points in the economy, such as troughs and peaks. Economists, businesses, and policymakers use the LEI for purposes such as:
+The LEI's primary purpose is to predict economic activity over the next 3 to 12 months by providing a broad view that combines various [leading indicators](../l/leading_indicators.md). It is particularly useful for identifying turning points in the economy, such as troughs and peaks. Economists, businesses, and policymakers use the LEI for purposes such as:
 
 - **Economic Forecasting:** Analysts integrate LEI data into economic models to enhance their forecasts.
 - **Business Planning:** Corporations and businesses utilize the LEI to strategize investments, production, staffing, and other planning efforts.
@@ -27,7 +27,7 @@ The LEI's primary purpose is to predict economic activity over the next 3 to 12 
 
 ### Methodology
 
-The Conference Board periodically reviews and updates the methodology of the LEI to ensure it captures the most relevant leading indicators. The methodology involves several steps:
+The Conference Board periodically reviews and updates the methodology of the LEI to ensure it captures the most relevant [leading indicators](../l/leading_indicators.md). The methodology involves several steps:
 
 1. **Selection of Components:** Indicators are selected based on economic theory, empirical results, and statistical robustness.
 2. **Normalization and Smoothing:** Data are normalized to account for different magnitudes and smoothed to reduce volatility.
@@ -48,8 +48,8 @@ As of the most recent reports, the LEI in the United States has shown mixed sign
 
 ### Global Variants
 
-While the Conference Board’s LEI for the United States is the most widely known, there are similar indices for other economies which also serve as leading indicators for their respective economic cycles. Examples include:
-- **UK LEI:** Similar to its US counterpart, it includes components like manufacturing orders, housing permits, and financial market indicators.
+While the Conference Board’s LEI for the United States is the most widely known, there are similar indices for other economies which also serve as [leading indicators](../l/leading_indicators.md) for their respective [economic cycles](../e/economic_cycles.md). Examples include:
+- **UK LEI:** Similar to its US counterpart, it includes components like manufacturing orders, housing permits, and [financial market indicators](../f/financial_market_indicators.md).
 - **Euro Area LEI:** Covers major economies within the Eurozone and includes a blend of industrial, financial, and business confidence indicators.
 - **China LEI:** Focuses on elements such as real estate activity, manufacturing output, and consumer expectations.
 
@@ -58,10 +58,10 @@ While the Conference Board’s LEI for the United States is the most widely know
 Despite its widespread use, the LEI is not without criticisms:
 - **Lag Effect:** Some argue that the publication lag reduces its effectiveness in real-time decision-making.
 - **Component Changes:** Frequent revisions to component methodologies can introduce inconsistencies over time.
-- **Data Revisions:** Updates and revisions to underlying data can result in retrospective changes to the LEI, complicating backtesting and historical analysis.
+- **Data Revisions:** Updates and revisions to underlying data can result in retrospective changes to the LEI, complicating [backtesting](../b/backtesting.md) and historical analysis.
 
 ### Conclusion
 
-The Leading Economic Index is an invaluable tool for predicting economic activity, offering a synthesis of various leading economic indicators into a single, cohesive measure. Its broad application across economic forecasting, business planning, and policy formulation underscores its significance. However, users must be cautious of its limitations and use it in conjunction with other analytical tools for the best results.
+The Leading Economic Index is an invaluable tool for predicting economic activity, offering a synthesis of various leading [economic indicators](../e/economic_indicators.md) into a single, cohesive measure. Its broad application across economic forecasting, business planning, and policy formulation underscores its significance. However, users must be cautious of its limitations and use it in conjunction with other analytical tools for the best results.
 
 For more information, visit the Conference Board’s official website: [The Conference Board](https://www.conference-board.org/).

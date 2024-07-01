@@ -71,7 +71,7 @@ Financial intermediaries play a crucial role in the FRN market:
 The valuation involves calculating the present value of the expected future cash flows from the FRN, which includes periodic coupon payments and the principal repayment at maturity.
 
 ### 2. **Discount Rate**
-Determining the appropriate discount rate is crucial. The rate often reflects the risk-free rate plus a spread for credit risk and liquidity risk. Given the floating nature, discount rates may adjust with the reference rate changes.
+Determining the appropriate discount rate is crucial. The rate often reflects the risk-free rate plus a spread for credit risk and [liquidity risk](../l/liquidity_risk.md). Given the floating nature, discount rates may adjust with the reference rate changes.
 
 ### 3. **Market Conditions**
 Market supply and demand dynamics influence the price of FRNs, with higher demand potentially driving up prices and vice versa.
@@ -89,4 +89,4 @@ Many European financial institutions and governments issue FRNs tied to EURIBOR.
 
 ## Conclusion
 
-Floating Rate Notes offer a dynamic investment option that combines the features of fixed and variable income instruments. Their inherent flexibility in adjusting to interest rate changes makes them an attractive option in a diversified investment portfolio, particularly in uncertain or rising interest rate environments. Understanding their structure, benefits, risks, and market mechanics is essential for potential investors to make informed decisions. By exploring the specific features and market dynamics of FRNs, investors can better leverage their unique characteristics to enhance portfolio performance and manage interest rate risks effectively.
+Floating Rate Notes offer a dynamic investment option that combines the features of fixed and variable income instruments. Their inherent flexibility in adjusting to interest rate changes makes them an attractive option in a diversified investment portfolio, particularly in uncertain or rising interest rate environments. Understanding their structure, benefits, risks, and market mechanics is essential for potential investors to make informed decisions. By exploring the specific features and market dynamics of FRNs, investors can better leverage their unique characteristics to enhance [portfolio performance](../p/portfolio_performance.md) and manage interest rate risks effectively.

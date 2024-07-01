@@ -1,10 +1,10 @@
 ## Technical Indicators in Trading
 
-Technical indicators are mathematical calculations based on the historical price, volume, or open interest of a security or contract. Traders use these indicators in technical analysis to predict future price movements in the markets. Here, we will discuss some of the most commonly used technical indicators in trading, their calculation methods, and how traders can use them to develop trading strategies.
+[Technical indicators](../t/technical_indicators.md) are mathematical calculations based on the historical price, volume, or open interest of a security or contract. Traders use these indicators in [technical analysis](../t/technical_analysis.md) to predict future price movements in the markets. Here, we will discuss some of the most commonly used [technical indicators](../t/technical_indicators.md) in trading, their calculation methods, and how traders can use them to develop [trading strategies](../t/trading_strategies.md).
 
 ### Moving Averages
 
-Moving Averages (MAs) are one of the most popular technical indicators used by traders. They smooth out price data to create a single flowing line, making it easier to identify the direction of the trend. 
+Moving Averages (MAs) are one of the most popular [technical indicators](../t/technical_indicators.md) used by traders. They smooth out price data to create a single flowing line, making it easier to identify the direction of the trend. 
 
 #### Simple Moving Average (SMA)
 
@@ -45,22 +45,22 @@ The MACD is a trend-following momentum indicator that shows the relationship bet
 3. Subtract the 26-day EMA from the 12-day EMA to get the MACD line
 4. Calculate the 9-day EMA of the MACD line to get the signal line
 
-Trading signals are generated when the MACD line crosses the signal line. 
+[Trading signals](../t/trading_signals.md) are generated when the MACD line crosses the signal line. 
 
 ### Bollinger Bands
 
-Bollinger Bands consist of three lines: a middle band (moving average usually set at 20 periods), and an upper and lower band. The distance between the bands is based on the standard deviation of price changes.
+[Bollinger Bands](../b/bollinger_bands.md) consist of three lines: a middle band (moving average usually set at 20 periods), and an upper and lower band. The distance between the bands is based on the standard deviation of price changes.
 
 **Formula:**
 - Middle Band: 20-day SMA
 - Upper Band: 20-day SMA + (2 * Standard Deviation)
 - Lower Band: 20-day SMA - (2 * Standard Deviation)
 
-Bollinger Bands are used to identify overbought and oversold conditions.
+[Bollinger Bands](../b/bollinger_bands.md) are used to identify overbought and oversold conditions.
 
 ### Stochastic Oscillator
 
-The Stochastic Oscillator is a momentum indicator that compares a particular closing price to a range of prices over a specific period. It oscillates between 0 and 100.
+The [Stochastic Oscillator](../s/stochastic_oscillator.md) is a momentum indicator that compares a particular closing price to a range of prices over a specific period. It oscillates between 0 and 100.
 
 **Formula:**
 \[ \%K = \frac{(C - L14)}{(H14 - L14)} \times 100 \]
@@ -69,13 +69,13 @@ where:
 - \( L14 \) is the lowest price over the last 14 periods
 - \( H14 \) is the highest price over the last 14 periods
 
-The \%K line and \%D line (3-period moving average of \%K) are used to generate trading signals.
+The \%K line and \%D line (3-period moving average of \%K) are used to generate [trading signals](../t/trading_signals.md).
 
 ### Fibonacci Retracement
 
 Fibonacci retracement is based on the idea that markets will retrace a predictable portion of a move, after which they will continue to move in the original direction. Common Fibonacci retracement levels are 23.6%, 38.2%, 50%, 61.8%, and 100%.
 
-Traders use these levels as potential support and resistance areas.
+Traders use these levels as potential [support and resistance](../s/support_and_resistance.md) areas.
 
 ### Average Directional Index (ADX)
 
@@ -89,7 +89,7 @@ The Average Directional Index is used to quantify trend strength. It ranges from
 
 ### Volume Indicators
 
-Volume indicators use volume data to analyze market strength or weakness.
+[Volume indicators](../v/volume_indicators.md) use volume data to analyze market strength or weakness.
 
 #### On-Balance Volume (OBV)
 
@@ -111,14 +111,14 @@ where:
 
 ### Companies Providing Technical Analysis Tools
 
-Several companies provide platforms and tools that help traders use these technical indicators. Here are a few notable ones:
+Several companies provide platforms and tools that help traders use these [technical indicators](../t/technical_indicators.md). Here are a few notable ones:
 
-- **TradingView**: A popular charting platform that provides numerous technical indicators and drawing tools. More info: [TradingView](https://www.tradingview.com/)
+- **TradingView**: A popular charting platform that provides numerous [technical indicators](../t/technical_indicators.md) and drawing tools. More info: [TradingView](https://www.tradingview.com/)
   
-- **MetaTrader**: A widely used trading platform offering a range of technical indicators. More info: [MetaTrader](https://www.metatrader4.com/)
+- **MetaTrader**: A widely used trading platform offering a range of [technical indicators](../t/technical_indicators.md). More info: [MetaTrader](https://www.metatrader4.com/)
 
-- **Thinkorswim by TD Ameritrade**: An advanced trading platform with customizable technical indicators. More info: [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
+- **Thinkorswim by TD Ameritrade**: An advanced trading platform with customizable [technical indicators](../t/technical_indicators.md). More info: [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
 
 ### Conclusion
 
-Technical indicators are essential tools in a trader’s arsenal. They provide insights into price trends, momentum, volatility, and volume, helping traders make informed decisions. While each indicator has its strengths and weaknesses, combining them can create a more comprehensive trading strategy.
+[Technical indicators](../t/technical_indicators.md) are essential tools in a trader’s arsenal. They provide insights into price trends, momentum, volatility, and volume, helping traders make informed decisions. While each indicator has its strengths and weaknesses, combining them can create a more comprehensive trading strategy.

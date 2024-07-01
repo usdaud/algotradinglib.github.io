@@ -1,6 +1,6 @@
 # Reversion to Mean in Algorithmic Trading
 
-Reversion to the Mean (RTM) is a financial theory asserting that asset prices and historical returns eventually revert to the long-run average or mean level of the entire dataset. This concept is fundamentally rooted in the statistical hypothesis that in a majority of cases, price levels and returns will return to the average over time. Reversion to the mean plays an essential role in various investment strategies, including algorithmic trading.
+Reversion to the Mean (RTM) is a financial theory asserting that asset prices and historical returns eventually revert to the long-run average or mean level of the entire dataset. This concept is fundamentally rooted in the statistical hypothesis that in a majority of cases, price levels and returns will return to the average over time. Reversion to the mean plays an essential role in various investment strategies, including [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Understanding Reversion to Mean
 
@@ -14,7 +14,7 @@ Key concepts include:
   
 ## Applications in Algorithmic Trading
 
-In algorithmic trading, the principle of reversion to the mean can be quantified and used to structure trading strategies. Sophisticated models and algorithms detect deviations from the mean and place trades anticipating the return to average levels. Here are some common strategies applied:
+In [algorithmic trading](../a/algorithmic_trading.md), the principle of reversion to the mean can be quantified and used to structure [trading strategies](../t/trading_strategies.md). Sophisticated models and algorithms detect deviations from the mean and place trades anticipating the return to average levels. Here are some common strategies applied:
 
 ### Mean Reversion Strategy
 
@@ -26,7 +26,7 @@ One of the simplest RTM strategies involves identifying assets that are trading 
 
 ### Pairs Trading
 
-Pairs trading is a popular RTM strategy that involves matching a long position with a short position in two highly correlated assets. The steps include:
+[Pairs trading](../p/pairs_trading.md) is a popular RTM strategy that involves matching a long position with a short position in two highly correlated assets. The steps include:
 
 1. **Identify Pairs**: Selecting pairs of assets with historical price correlation.
 2. **Monitor Spreads**: Analyzing deviations in the price spread between the two assets.
@@ -34,9 +34,9 @@ Pairs trading is a popular RTM strategy that involves matching a long position w
 
 ### Statistical Arbitrage
 
-Statistical arbitrage incorporates RTM through complex algorithms and short-term trading strategies that leverage high-frequency trading:
+Statistical [arbitrage](../a/arbitrage.md) incorporates RTM through complex algorithms and [short-term trading](../s/short-term_trading.md) strategies that leverage high-frequency trading:
 
-1. **Algorithms and Indicators**: Utilizing advanced statistical models and indicators like Bollinger Bands, moving averages, or z-scores to detect mean deviation.
+1. **Algorithms and Indicators**: Utilizing advanced statistical models and indicators like [Bollinger Bands](../b/bollinger_bands.md), moving averages, or z-scores to detect mean deviation.
 2. **High-Frequency Execution**: Placing thousands of trades rapidly to exploit small reversion opportunities.
 
 ## Key Considerations for RTM Strategies
@@ -55,11 +55,11 @@ High-frequency RTM strategies are sensitive to transaction costs. Implementing t
 
 ### Risk Management
 
-Careful risk management is paramount. Tools like stop-loss orders and position sizing help mitigate risks associated with unexpected adverse price movements and market anomalies.
+Careful [risk management](../r/risk_management.md) is paramount. Tools like [stop-loss orders](../s/stop-loss_orders.md) and [position sizing](../p/position_sizing.md) help mitigate risks associated with unexpected adverse price movements and [market anomalies](../m/market_anomalies.md).
 
 ## Example Companies Leveraging RTM Strategies
 
-Some prominent hedge funds and trading firms leverage RTM strategies using sophisticated algorithmic trading systems:
+Some prominent hedge funds and trading firms leverage RTM strategies using sophisticated [algorithmic trading](../a/algorithmic_trading.md) systems:
 
 ### Renaissance Technologies
 
@@ -67,7 +67,7 @@ Some prominent hedge funds and trading firms leverage RTM strategies using sophi
 
 ### Two Sigma Investments
 
-[Two Sigma Investments](https://www.twosigma.com/) uses data science and technology to capitalize on market anomalies. Employing machine learning and large datasets, the firm remains at the forefront of statistical arbitrage and other RTM-related strategies.
+[Two Sigma Investments](https://www.twosigma.com/) uses data science and technology to capitalize on [market anomalies](../m/market_anomalies.md). Employing machine learning and large datasets, the firm remains at the forefront of statistical [arbitrage](../a/arbitrage.md) and other RTM-related strategies.
 
 ### AQR Capital Management
 
@@ -75,6 +75,6 @@ Some prominent hedge funds and trading firms leverage RTM strategies using sophi
 
 ## Conclusion
 
-Reversion to the Mean is a fundamental concept in statistics that finds practical application in algorithmic trading. It underpins several sophisticated trading strategies aiming to capitalize on predictable patterns where asset prices revert to the historical mean. While promising, successful implementation requires a deep understanding of the financial markets, advanced computational tools, and robust risk management practices.
+Reversion to the Mean is a fundamental concept in statistics that finds practical application in [algorithmic trading](../a/algorithmic_trading.md). It underpins several sophisticated [trading strategies](../t/trading_strategies.md) aiming to capitalize on predictable patterns where asset prices revert to the historical mean. While promising, successful implementation requires a deep understanding of the financial markets, advanced computational tools, and robust [risk management](../r/risk_management.md) practices.
 
 By leveraging RTM strategies, traders can exploit market inefficiencies and enhance their portfolio's performance, provided they navigate the associated risks and transaction costs effectively.

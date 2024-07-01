@@ -1,6 +1,6 @@
 # Market Classification in Algorithmic Trading
 
-Market classification plays a crucial role in algorithmic trading. It involves categorizing markets or assets based on various parameters such as market type, liquidity, volatility, and capitalization. Understanding these classifications helps algorithmic traders develop strategies that are tailored to specific market conditions.
+Market classification plays a crucial role in [algorithmic trading](../a/algorithmic_trading.md). It involves categorizing markets or assets based on various parameters such as market type, liquidity, volatility, and capitalization. Understanding these classifications helps algorithmic traders develop strategies that are tailored to specific market conditions.
 
 ## Types of Markets
 
@@ -45,7 +45,7 @@ Liquidity refers to how easily an asset can be bought or sold in the market with
 ### 2. **By Volatility**
 Volatility measures the rate at which the price of a security increases or decreases for a given set of returns.
 
-- **High Volatility Markets**: These include cryptocurrency markets and commodity futures markets.
+- **High Volatility Markets**: These include cryptocurrency markets and [commodity futures](../c/commodity_futures.md) markets.
 - **Low Volatility Markets**: Examples include government bonds and blue-chip stocks.
 
 ### 3. **By Market Capitalization**
@@ -71,7 +71,7 @@ Markets like cryptocurrency are heavily influenced by technological innovations.
 Algorithmic traders use market classification to develop strategies that are more focused. For instance, different algorithms are designed for high-liquidity markets compared to low-liquidity markets.
 
 ### 2. **Risk Management**
-Different market classifications help in assessing risk more accurately. High-volatility markets demand more robust risk management strategies.
+Different market classifications help in assessing risk more accurately. High-volatility markets demand more robust [risk management](../r/risk_management.md) strategies.
 
 ### 3. **Performance Metrics**
 Algorithmic performance can be measured differently in various markets. For instance, the metrics used to evaluate a trading algorithm in the Forex market may differ from those used in the stock market.
@@ -85,7 +85,7 @@ Algorithmic performance can be measured differently in various markets. For inst
 5. [Jump Trading](https://www.jumptrading.com/)
 
 ### 1. **Jane Street Capital**
-Jane Street Capital is a firm known for its expertise in quantitative trading and research.
+Jane Street Capital is a firm known for its expertise in [quantitative trading](../q/quantitative_trading.md) and research.
 
 ### 2. **Two Sigma Investments**
 Two Sigma leverages machine learning, distributed computing, and other technologies to make investment decisions.
@@ -97,6 +97,6 @@ Citadel is a global financial institution with a diverse range of investments ac
 Established in 1988, DE Shaw operates at the intersection of technology and finance.
 
 ### 5. **Jump Trading**
-Jump Trading is known for its sophisticated trading algorithms and technological infrastructure.
+[Jump Trading](../j/jump_trading.md) is known for its sophisticated [trading algorithms](../t/trading_algorithms.md) and technological infrastructure.
 
-Understanding market classification is essential for successful algorithmic trading. It helps traders create more precise and effective trading strategies while managing risk better. As the financial markets continue to evolve, the importance of accurate market classification will only grow, further shaping the future of algorithmic trading.
+Understanding market classification is essential for successful [algorithmic trading](../a/algorithmic_trading.md). It helps traders create more precise and effective [trading strategies](../t/trading_strategies.md) while managing risk better. As the financial markets continue to evolve, the importance of accurate market classification will only grow, further shaping the future of [algorithmic trading](../a/algorithmic_trading.md).

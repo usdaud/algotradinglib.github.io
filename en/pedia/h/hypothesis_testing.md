@@ -1,6 +1,6 @@
 # Hypothesis Testing
 
-Hypothesis testing is a statistical method that allows traders to make inferences or draw conclusions about a population based on data collected from a sample. This method is particularly crucial in algorithmic trading (also known as algo-trading), where decisions based on large datasets and statistical models can lead to significant financial gains or losses. Hypothesis testing helps to validate strategies, quantify risks, and enhance the robustness of trading algorithms. 
+Hypothesis testing is a statistical method that allows traders to make inferences or draw conclusions about a population based on data collected from a sample. This method is particularly crucial in [algorithmic trading](../a/algorithmic_trading.md) (also known as algo-trading), where decisions based on large datasets and statistical models can lead to significant financial gains or losses. Hypothesis testing helps to validate strategies, quantify risks, and enhance the robustness of [trading algorithms](../t/trading_algorithms.md). 
 
 ### Understanding Hypothesis Testing
 
@@ -16,12 +16,12 @@ At its core, hypothesis testing involves the following steps:
 Several types of hypothesis tests are applicable in the context of algo-trading, each suited for different scenarios:
 1. **Z-test**: Used when the sample size is large (n > 30) and the population variance is known.
 2. **T-test**: Used when the sample size is small (n < 30) and the population variance is unknown.
-3. **Chi-Square Test**: Used for testing relationships between categorical variables.
+3. **[Chi-Square Test](../c/chi-square_test.md)**: Used for testing relationships between categorical variables.
 4. **ANOVA (Analysis of Variance)**: Used to compare means across three or more samples.
 
 ### Formulating Hypotheses
 
-In algorithmic trading, hypotheses often revolve around the effectiveness of a trading strategy or the presence of a market anomaly. An example might be:
+In [algorithmic trading](../a/algorithmic_trading.md), hypotheses often revolve around the effectiveness of a trading strategy or the presence of a market anomaly. An example might be:
 - **Null Hypothesis (\(H_0\))**: The new trading algorithm does not provide a higher return than the existing one.
 - **Alternative Hypothesis (\(H_1\))**: The new trading algorithm provides a higher return than the existing one.
 
@@ -46,7 +46,7 @@ The test statistic selected depends on the data type, sample size, and whether p
 
 ### Execution in Algo-Trading
 
-In practice, hypothesis testing in algorithmic trading involves several steps:
+In practice, hypothesis testing in [algorithmic trading](../a/algorithmic_trading.md) involves several steps:
 
 #### Data Collection and Preprocessing
 Gathering financial data is the first step. This can be done through APIs provided by financial service providers such as:
@@ -90,22 +90,22 @@ Based on the p-value obtained from the test statistic:
 Hypothesis testing fares extremely well in multiple trading scenarios, including but not limited to:
 
 #### Strategy Development
-Traders use hypothesis testing to compare various trading strategies. For example, to verify if one strategy performs better in a bull market while another excels in a bear market.
+Traders use hypothesis testing to compare various [trading strategies](../t/trading_strategies.md). For example, to verify if one strategy performs better in a bull market while another excels in a bear market.
 
 #### Market Anomalies Detection
-Hypothesis testing can verify the existence of market anomalies like the January effect or the weekend effect.
+Hypothesis testing can verify the existence of [market anomalies](../m/market_anomalies.md) like the [January effect](../j/january_effect.md) or the weekend effect.
 
 #### Model Validation
 Before implementing a trading model, hypothesis testing ensures its robustness and validity based on historical data.
 
 ### Tools for Hypothesis Testing
 
-Several tools and platforms facilitate hypothesis testing in algorithmic trading:
+Several tools and platforms facilitate hypothesis testing in [algorithmic trading](../a/algorithmic_trading.md):
 
-1. **QuantConnect**: An algorithmic trading platform that provides backtesting, data analysis, and hypothesis testing capabilities. Visit [QuantConnect](https://www.quantconnect.com/) for more information.
-2. **Zipline**: An open-source backtesting library for Python. Find it at [Zipline GitHub](https://github.com/quantopian/zipline).
-3. **Quantlib**: Provides a comprehensive suite for quantitative analysis and trading systems development. Visit [Quantlib](https://www.quantlib.org/).
+1. **QuantConnect**: An [algorithmic trading](../a/algorithmic_trading.md) platform that provides [backtesting](../b/backtesting.md), data analysis, and hypothesis testing capabilities. Visit [QuantConnect](https://www.quantconnect.com/) for more information.
+2. **Zipline**: An open-source [backtesting](../b/backtesting.md) library for Python. Find it at [Zipline GitHub](https://github.com/quantopian/zipline).
+3. **Quantlib**: Provides a comprehensive suite for [quantitative analysis](../q/quantitative_analysis.md) and [trading systems](../t/trading_systems.md) development. Visit [Quantlib](https://www.quantlib.org/).
 
 ### Conclusion
 
-Hypothesis testing is a vital component of algorithmic trading, addressing the empirical rigor needed to validate trading strategies and models. Whether testing a new strategy or validating an existing one, hypothesis testing ensures that traders make informed, data-driven decisions that align with their risk tolerance and investment goals.
+Hypothesis testing is a vital component of [algorithmic trading](../a/algorithmic_trading.md), addressing the empirical rigor needed to validate [trading strategies](../t/trading_strategies.md) and models. Whether testing a new strategy or validating an existing one, hypothesis testing ensures that traders make informed, data-driven decisions that align with their risk tolerance and investment goals.

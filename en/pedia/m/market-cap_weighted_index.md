@@ -24,7 +24,7 @@ The **Current Market Value of the Index** is the sum of the market values of all
 
 ### Examples of Market-Cap Weighted Indexes
 
-Market-cap weighted indexes are prevalent and form the backbone of stock market performance analysis. Here are some major examples:
+Market-cap weighted indexes are prevalent and form the backbone of stock [market performance analysis](../m/market_performance_analysis.md). Here are some major examples:
 
 #### S&P 500
 

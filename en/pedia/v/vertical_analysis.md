@@ -1,6 +1,6 @@
 # Vertical Analysis in Algo Trading
 
-Vertical analysis, sometimes referred to as common-size financial statement analysis, is an important financial statement analysis tool used to evaluate the proportional size of different financial statement line items within a single accounting period. This relative size analysis is crucial in algorithms and automated trading systems for making informed decisions based on the financial health and performance of a company. For algo trading, vertical analysis is employed to scale financial data to a common size, enabling the comparison of financial statements across various periods or between companies of different sizes.
+Vertical analysis, sometimes referred to as common-size [financial statement analysis](../f/financial_statement_analysis.md), is an important [financial statement analysis](../f/financial_statement_analysis.md) tool used to evaluate the proportional size of different financial statement line items within a single accounting period. This relative size analysis is crucial in algorithms and [automated trading systems](../a/automated_trading_systems.md) for making informed decisions based on the financial health and performance of a company. For algo trading, vertical analysis is employed to scale financial data to a common size, enabling the comparison of financial statements across various periods or between companies of different sizes.
 
 ## Understanding Vertical Analysis
 
@@ -15,7 +15,7 @@ Algo trading involves the use of algorithms and automated systems to execute tra
 1. **Profitability**: By analyzing the percentage of revenue invested in COGS (Cost of Goods Sold), operating expenses, and net income, algorithms can gauge the profitability of a company.
 2. **Efficiency**: Assessing the costs relative to revenue can highlight how effectively a company is managing its resources.
 3. **Solvency and Liquidity**: In the balance sheet, vertical analysis can reveal the proportion of current assets to total assets to understand liquidity, or the proportion of debt to total assets to evaluate financial risk.
-4. **Trend Analysis**: By comparing vertical analysis percentages over multiple periods, algorithms can identify trends and patterns that are crucial for long-term decision making.
+4. **[Trend Analysis](../t/trend_analysis.md)**: By comparing vertical analysis percentages over multiple periods, algorithms can identify trends and patterns that are crucial for long-term decision making.
 
 ### Example Implementation in an Algorithm
 
@@ -76,13 +76,13 @@ print(decision)
 
 1. **Simplified Comparison**: With everything scaled to a common size, it is easier to compare line items across different companies irrespective of their sizes.
 2. **Enhanced Detection**: Vertical analysis can help in detecting trends and anomalies that may not be visible in raw numbers.
-3. **Informed Decision Making**: Provides a clearer picture of a company’s financial health which can feed into better trading strategies.
+3. **Informed Decision Making**: Provides a clearer picture of a company’s financial health which can feed into better [trading strategies](../t/trading_strategies.md).
 4. **Efficiency**: Automated vertical analysis can quickly process large volumes of financial data, making algo trading more efficient.
 
 ### Real-life Application and Performance
 
-Algo trading firms and platforms frequently incorporate vertical analysis into their algorithms. One example is [Two Sigma](https://www.twosigma.com/), an investment management firm that heavily relies on data science and technology for their trading strategies. By integrating vertical analysis into their algorithms, they can better understand the financial statements of potential investments and execute trades based on this relative performance evaluation.
+Algo trading firms and platforms frequently incorporate vertical analysis into their algorithms. One example is [Two Sigma](https://www.twosigma.com/), an investment management firm that heavily relies on data science and technology for their [trading strategies](../t/trading_strategies.md). By integrating vertical analysis into their algorithms, they can better understand the financial statements of potential investments and execute trades based on this relative performance evaluation.
 
 ### Conclusion
 
-Vertical analysis is a powerful tool that helps in simplifying the comparison of financial statements. By integrating vertical analysis with algorithmic trading, traders can enhance their strategies to make more informed and effective trading decisions. The ability to see beyond raw numbers and analyze proportions provides a significant edge in the competitive world of algo trading.
+Vertical analysis is a powerful tool that helps in simplifying the comparison of financial statements. By integrating vertical analysis with [algorithmic trading](../a/algorithmic_trading.md), traders can enhance their strategies to make more informed and effective trading decisions. The ability to see beyond raw numbers and analyze proportions provides a significant edge in the competitive world of algo trading.

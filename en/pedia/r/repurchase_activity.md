@@ -2,7 +2,7 @@
 
 Repurchase activity, often referred to as stock buybacks, is a corporate action where a company buys back its own outstanding shares from the marketplace. The company essentially reabsorbs a portion of its ownership that was previously distributed among public and private investors. 
 
-This activity can have profound implications on the company’s stock price, earnings per share (EPS), and overall market perception. In the context of algorithmic trading, understanding repurchase activity is crucial as it can provide predictive signals and trading opportunities.
+This activity can have profound implications on the company’s stock price, earnings per share (EPS), and overall market perception. In the context of [algorithmic trading](../a/algorithmic_trading.md), understanding repurchase activity is crucial as it can provide predictive signals and trading opportunities.
 
 ## Reasons for Repurchase Activity
 
@@ -79,16 +79,16 @@ Alphabet, the parent company of Google, has also engaged in substantial buybacks
 
 ## Algorithmic Trading and Repurchase Activity
 
-Algorithmic trading strategies often seek to capitalize on price movements and liquidity changes associated with repurchase activities. Advanced models analyze historical data, market conditions, and company-specific announcements to predict buyback events and their likely market impact.
+[Algorithmic trading](../a/algorithmic_trading.md) strategies often seek to capitalize on price movements and liquidity changes associated with repurchase activities. Advanced models analyze historical data, market conditions, and company-specific announcements to predict buyback events and their likely market impact.
 
 ### 1. **Event-Driven Strategies**
 These strategies focus on trading around specific corporate actions, including buybacks. Algorithms can analyze patterns and predict the likelihood of a buyback announcement, positioning trades to benefit from the anticipated price movements.
 
 ### 2. **Sentiment Analysis**
-Sentiment analysis algorithms can process news articles, social media, and other text sources to gauge market sentiment regarding a company’s repurchase activity. Positive sentiment may indicate a stronger likelihood of a favorable market reaction.
+[Sentiment analysis](../s/sentiment_analysis.md) algorithms can process news articles, social media, and other text sources to gauge market sentiment regarding a company’s repurchase activity. Positive sentiment may indicate a stronger likelihood of a favorable market reaction.
 
 ### 3. **Quantitative Models**
-Quantitative models can incorporate a variety of factors, such as financial ratios, historical buyback effectiveness, and overall market conditions, to predict the impact of a buyback on the company’s stock price.
+[Quantitative models](../q/quantitative_models.md) can incorporate a variety of factors, such as [financial ratios](../f/financial_ratios.md), historical buyback effectiveness, and overall market conditions, to predict the impact of a buyback on the company’s stock price.
 
 ### 4. **Machine Learning Approaches**
 Machine learning models can learn from vast amounts of historical data to identify patterns and signals that may precede repurchase announcements or influence their market impact. These models continuously improve as they ingest more data, enhancing their predictive accuracy.
@@ -111,4 +111,4 @@ Critics also worry that buybacks can be used to artificially inflate stock price
 
 ## Conclusion
 
-Repurchase activity is a powerful tool in corporate finance with significant implications for investors, market analysts, and algorithmic traders. Understanding the motivations, methods, and effects of stock buybacks is crucial for navigating the complexities of modern financial markets. By leveraging advanced trading strategies and staying informed about regulatory and ethical considerations, market participants can effectively respond to and capitalize on these influential corporate actions.
+Repurchase activity is a powerful tool in corporate finance with significant implications for investors, market analysts, and algorithmic traders. Understanding the motivations, methods, and effects of stock buybacks is crucial for navigating the complexities of modern financial markets. By leveraging advanced [trading strategies](../t/trading_strategies.md) and staying informed about regulatory and ethical considerations, market participants can effectively respond to and capitalize on these influential corporate actions.

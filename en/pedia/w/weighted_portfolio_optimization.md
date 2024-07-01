@@ -1,6 +1,6 @@
 # Weighted Portfolio Optimization
 
-Weighted Portfolio Optimization is a critical process in financial management, wherein an investor aims to construct an optimized portfolio of various financial instruments to maximize returns while minimizing risks. This concept is deeply seated within Modern Portfolio Theory (MPT), pioneered by Harry Markowitz in 1952. The theory emphasizes the idea that an investor can construct a portfolio of multiple assets which, when combined, reduce the overall risk through diversification.
+Weighted [Portfolio Optimization](../p/portfolio_optimization.md) is a critical process in financial management, wherein an investor aims to construct an optimized portfolio of various financial instruments to maximize returns while minimizing risks. This concept is deeply seated within Modern Portfolio Theory (MPT), pioneered by Harry Markowitz in 1952. The theory emphasizes the idea that an investor can construct a portfolio of multiple assets which, when combined, reduce the overall risk through diversification.
 
 ## Key Concepts and Definitions
 
@@ -45,7 +45,7 @@ Where:
 
 ### Step 1: Define Investment Universe
 
-The first step in weighted portfolio optimization is defining the universe of potential investments. This could include equities, bonds, commodities, and other types of assets. 
+The first step in weighted [portfolio optimization](../p/portfolio_optimization.md) is defining the universe of potential investments. This could include equities, bonds, commodities, and other types of assets. 
 
 ### Step 2: Gather Historical Data
 
@@ -61,11 +61,11 @@ Construct the covariance matrix based on the estimated returns and risks. The co
 
 ### Step 5: Solve the Optimization Problem
 
-Use mathematical optimization techniques to solve the portfolio optimization problem. Common objective functions include maximizing return for a given level of risk, or minimizing risk for a given level of expected return.
+Use mathematical optimization techniques to solve the [portfolio optimization](../p/portfolio_optimization.md) problem. Common objective functions include maximizing return for a given level of risk, or minimizing risk for a given level of expected return.
 
 #### Mean-Variance Optimization
 
-Mean-Variance Optimization, a cornerstone of MPT, involves solving the following quadratic programming problem:
+[Mean-Variance Optimization](../m/mean-variance_optimization.md), a cornerstone of MPT, involves solving the following quadratic programming problem:
 
 \[ \text{Minimize } \frac{1}{2} w^T \Sigma w - \lambda w^T \mu \]
 
@@ -83,33 +83,33 @@ Where:
 
 #### Black-Litterman Model
 
-For more refined estimated returns, the Black-Litterman Model combines equilibrium market returns with the investor’s views. This approach adjusts the inputted expected returns before solving the Mean-Variance Optimization problem.
+For more refined estimated returns, the [Black-Litterman Model](../b/black-litterman_model.md) combines equilibrium market returns with the investor’s views. This approach adjusts the inputted expected returns before solving the [Mean-Variance Optimization](../m/mean-variance_optimization.md) problem.
 
 ## Advanced Techniques
 
 ### Robust Optimization
 
-Robust Optimization deals with uncertainty in the data by optimizing worst-case scenarios, ensuring that the portfolio performs well under a variety of conditions.
+[Robust Optimization](../r/robust_optimization.md) deals with uncertainty in the data by optimizing worst-case scenarios, ensuring that the portfolio performs well under a variety of conditions.
 
 ### Bayesian Methods
 
-Bayesian methods incorporate prior distributions and update the beliefs about the returns based on the observed data, providing a probabilistic framework for portfolio optimization.
+Bayesian methods incorporate prior distributions and update the beliefs about the returns based on the observed data, providing a probabilistic framework for [portfolio optimization](../p/portfolio_optimization.md).
 
 ### Machine Learning Approaches
 
-With the advent of AI, machine learning approaches such as Reinforcement Learning, Genetic Algorithms, and Deep Learning are increasingly used for portfolio optimization.
+With the advent of AI, machine learning approaches such as Reinforcement Learning, Genetic Algorithms, and Deep Learning are increasingly used for [portfolio optimization](../p/portfolio_optimization.md).
 
 ## Practical Applications
 
 ### Asset Management Companies
-Many asset management companies use portfolio optimization to offer bespoke investment products tailored to clients' risk preferences and financial goals. Examples include:
+Many asset management companies use [portfolio optimization](../p/portfolio_optimization.md) to offer bespoke investment products tailored to clients' risk preferences and financial goals. Examples include:
 
 - [BlackRock](https://www.blackrock.com/)
 - [Vanguard](https://investor.vanguard.com/)
 - [Fidelity Investments](https://www.fidelity.com/)
 
 ### Robo-Advisors
-Robo-advisors are digital platforms that provide automated, algorithm-driven financial planning services with minimal human supervision. They use portfolio optimization algorithms to construct and manage investment portfolios. Examples include:
+Robo-advisors are digital platforms that provide automated, algorithm-driven [financial planning](../f/financial_planning.md) services with minimal human supervision. They use [portfolio optimization](../p/portfolio_optimization.md) algorithms to construct and manage investment portfolios. Examples include:
 
 - [Betterment](https://www.betterment.com/)
 - [Wealthfront](https://www.wealthfront.com/)
@@ -126,11 +126,11 @@ Hedge funds often leverage complex optimization models to generate alpha while m
 The accuracy of optimization outputs heavily depends on the quality of input data. Historical data may not always predict future trends accurately, leading to estimation errors.
 
 ### Model Risk
-Relying entirely on quantitative models can expose portfolios to model risk. Thus, incorporating expert judgment and qualitative factors is crucial.
+Relying entirely on [quantitative models](../q/quantitative_models.md) can expose portfolios to model risk. Thus, incorporating expert judgment and qualitative factors is crucial.
 
 ### Market Conditions
 Changing market conditions and asset correlations can impact optimized portfolios. Continuous monitoring and rebalancing are necessary to maintain optimal performance.
 
 ## Conclusion
 
-Weighted Portfolio Optimization remains a quintessential tool for investors aiming to maximize returns and minimize risks through strategic asset allocation. By rigorously applying quantitative techniques and leveraging modern computational methods, investors can construct robust portfolios that stand resilient against market volatilities. The advancements in AI and machine learning further propel the capabilities of optimization models, offering nuanced and adaptive strategies for portfolio management.
+Weighted [Portfolio Optimization](../p/portfolio_optimization.md) remains a quintessential tool for investors aiming to maximize returns and minimize risks through strategic [asset allocation](../a/asset_allocation.md). By rigorously applying quantitative techniques and leveraging modern computational methods, investors can construct robust portfolios that stand resilient against market volatilities. The advancements in AI and machine learning further propel the capabilities of optimization models, offering nuanced and [adaptive strategies](../a/adaptive_strategies.md) for [portfolio management](../p/portfolio_management.md).

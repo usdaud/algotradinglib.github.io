@@ -1,6 +1,6 @@
 # Unusual Market Activity
 
-Unusual Market Activity, often abbreviated as UMA, refers to patterns or behaviors in financial markets that deviate significantly from normal or expected trading activities. This phenomenon can include sudden spikes or drops in trading volume, unexpected price changes, or other atypical movements that cannot be immediately explained by common factors such as news releases or scheduled economic reports. UMA is a critical area of focus for regulators, traders, and automated trading systems, as it can often signal market manipulation, insider trading, or other forms of illicit activities. 
+Unusual Market Activity, often abbreviated as UMA, refers to patterns or behaviors in financial markets that deviate significantly from normal or expected trading activities. This phenomenon can include sudden spikes or drops in trading volume, unexpected price changes, or other atypical movements that cannot be immediately explained by common factors such as news releases or scheduled economic reports. UMA is a critical area of focus for regulators, traders, and [automated trading systems](../a/automated_trading_systems.md), as it can often signal market manipulation, insider trading, or other forms of illicit activities. 
 
 UMA can be driven by a variety of factors, including but not limited to, the dissemination of false or misleading information, coordinated trading efforts by multiple parties, or the exploitation of low liquidity during off-peak hours. Given the potential implications for market integrity and investor confidence, both regulatory bodies and financial institutions invest substantial resources in monitoring and managing UMA.
 
@@ -50,11 +50,11 @@ Regulators such as the Securities and Exchange Commission (SEC) in the United St
 
 ### 1. The Flash Crash of 2010
 
-On May 6, 2010, U.S. stock markets experienced a rapid and severe crash, with the Dow Jones Industrial Average dropping almost 1,000 points within minutes before quickly recovering. This event, known as the Flash Crash, was attributed to a combination of factors, including algorithmic trading and market fragmentation. The crash highlighted the need for better monitoring and regulation of algorithmic trading.
+On May 6, 2010, U.S. stock markets experienced a rapid and severe crash, with the Dow Jones Industrial Average dropping almost 1,000 points within minutes before quickly recovering. This event, known as the Flash Crash, was attributed to a combination of factors, including [algorithmic trading](../a/algorithmic_trading.md) and market fragmentation. The crash highlighted the need for better monitoring and regulation of [algorithmic trading](../a/algorithmic_trading.md).
 
 ### 2. Volkswagen Short Squeeze
 
-In October 2008, Volkswagen's stock experienced a dramatic spike due to a short squeeze. This was precipitated by Porsche's announcement that it had effectively gained control of 74% of Volkswagen shares, leaving a limited number of shares available for trading. Short sellers, who had bet that Volkswagen's price would decline, were forced to buy shares at inflated prices to cover their positions, leading to unusual market activity.
+In October 2008, Volkswagen's stock experienced a dramatic spike due to a [short squeeze](../s/short_squeeze.md). This was precipitated by Porsche's announcement that it had effectively gained control of 74% of Volkswagen shares, leaving a limited number of shares available for trading. Short sellers, who had bet that Volkswagen's price would decline, were forced to buy shares at inflated prices to cover their positions, leading to unusual market activity.
 
 ### 3. Herbalife and Activist Investors
 
@@ -76,10 +76,10 @@ The New York Stock Exchange's Pillar trading platform includes built-in surveill
 
 ### 3. FINRA's Automated Surveillance
 
-The Financial Industry Regulatory Authority (FINRA) employs an array of automated surveillance systems to monitor trading activity and detect instances of UMA. These systems use data analysis and pattern recognition to identify anomalous trading behaviors.
+The Financial Industry Regulatory Authority (FINRA) employs an array of automated surveillance systems to monitor trading activity and detect instances of UMA. These systems use data analysis and [pattern recognition](../p/pattern_recognition.md) to identify anomalous trading behaviors.
 
 [Learn more about FINRA Surveillance](https://www.finra.org/rules-guidance/key-topics/market-surveillance)
 
 ## Conclusion
 
-Unusual Market Activity is a complex phenomenon that can be triggered by a variety of factors including market manipulation, insider trading, algorithmic trading, and external events. Monitoring and addressing UMA is critical for ensuring the integrity and stability of financial markets. Advanced technologies such as real-time surveillance systems, data analytics, and machine learning are increasingly being deployed to detect and analyze UMA. Regulatory bodies and financial institutions continue to refine their approaches to managing UMA to protect investors and maintain market confidence.
+Unusual Market Activity is a complex phenomenon that can be triggered by a variety of factors including market manipulation, insider trading, [algorithmic trading](../a/algorithmic_trading.md), and external events. Monitoring and addressing UMA is critical for ensuring the integrity and stability of financial markets. Advanced technologies such as real-time surveillance systems, data analytics, and machine learning are increasingly being deployed to detect and analyze UMA. Regulatory bodies and financial institutions continue to refine their approaches to managing UMA to protect investors and maintain market confidence.

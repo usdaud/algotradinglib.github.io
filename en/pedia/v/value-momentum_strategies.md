@@ -2,16 +2,16 @@
 
 ## Introduction to Value and Momentum Investing
 
-Value and Momentum are two predominant strategies in quantitative finance that have been extensively researched and implemented by traders and financial institutions. Value investing aims to identify undervalued securities based on fundamental metrics, such as earnings, book value, or cash flow, with the expectation that the market will eventually recognize their true value. Momentum investing, on the other hand, focuses on securities that have exhibited strong performance in the past, under the assumption that they will continue to perform well in the near future.
+Value and Momentum are two predominant strategies in [quantitative finance](../q/quantitative_finance.md) that have been extensively researched and implemented by traders and financial institutions. [Value investing](../v/value_investing.md) aims to identify undervalued securities based on fundamental metrics, such as earnings, book value, or cash flow, with the expectation that the market will eventually recognize their true value. Momentum investing, on the other hand, focuses on securities that have exhibited strong performance in the past, under the assumption that they will continue to perform well in the near future.
 
 ## Definition of Value Investing
 
-Value investing involves picking stocks that appear to be trading for less than their intrinsic or book value. Pioneered by Benjamin Graham and David Dodd, this strategy advocates buying undervalued stocks and holding them until their price reflects their intrinsic worth. Key metrics often used in value investing include:
+[Value investing](../v/value_investing.md) involves picking stocks that appear to be trading for less than their intrinsic or book value. Pioneered by Benjamin Graham and David Dodd, this strategy advocates buying undervalued stocks and holding them until their price reflects their intrinsic worth. Key metrics often used in [value investing](../v/value_investing.md) include:
 
 - **Price-to-Earnings (P/E) Ratio**: A low P/E ratio can indicate that a stock is undervalued.
 - **Price-to-Book (P/B) Ratio**: A low P/B ratio suggests that the stock is undervalued relative to its book value.
 - **Dividend Yield**: Higher dividend yields can be a sign of undervaluation.
-- **Earnings Yield**: The reciprocal of the P/E ratio, a higher earnings yield signals that a stock might be undervalued.
+- **[Earnings Yield](../e/earnings_yield.md)**: The reciprocal of the P/E ratio, a higher [earnings yield](../e/earnings_yield.md) signals that a stock might be undervalued.
 
 ## Definition of Momentum Investing
 
@@ -19,14 +19,14 @@ Momentum investing involves capitalizing on market trends by buying securities t
 
 - **Relative Strength Index (RSI)**: Measures the speed and change of price movements to identify overbought or oversold conditions.
 - **12-Month Price Return**: Stocks with high past returns over 12 months are considered to have strong momentum.
-- **Moving Averages**: Used to identify trends; for example, a 50-day moving average crossing above a 200-day moving average is a bullish signal.
+- **Moving Averages**: Used to identify trends; for example, a [50-day moving average](../1/50-day_moving_average.md) crossing above a [200-day moving average](../1/200-day_moving_average.md) is a bullish signal.
 
 ## Value-Momentum Combination Strategy
 
 The Value-Momentum strategy combines the principles of both value and momentum investing. The rationale is to capture the best of both worlds: the long-term outperformance of undervalued stocks and the short- to medium-term gains from trending stocks. Key steps in implementing this combination strategy include:
 
 1. **Screening for Value Stocks**: Identify a universe of undervalued stocks using fundamental metrics such as low P/E, low P/B, and high dividend yield.
-2. **Applying Momentum Filters**: Within the value stocks, apply momentum indicators to select stocks that are exhibiting strong trends.
+2. **Applying Momentum Filters**: Within the value stocks, apply [momentum indicators](../m/momentum_indicators.md) to select stocks that are exhibiting strong trends.
 3. **Portfolio Construction**: Allocate capital to selected stocks, balancing the weight between value and momentum factors.
 
 ## Historical Performance
@@ -39,18 +39,18 @@ Implementing a Value-Momentum strategy requires robust data analysis and computa
 
 - **Data Collection**: Gather historical price data, financial statements, and other relevant market data.
 - **Factor Calculation**: Compute value and momentum metrics for a large universe of stocks.
-- **Backtesting**: Test the strategy on historical data to assess its performance and robustness.
-- **Optimization and Risk Management**: Optimize the portfolio weights and implement risk management techniques such as stop-loss orders and asset diversification.
+- **[Backtesting](../b/backtesting.md)**: Test the strategy on historical data to assess its performance and robustness.
+- **Optimization and [Risk Management](../r/risk_management.md)**: Optimize the portfolio weights and implement [risk management](../r/risk_management.md) techniques such as [stop-loss orders](../s/stop-loss_orders.md) and asset diversification.
 
 ## Examples of Value-Momentum Strategies
 
 ### Example 1: Dual Momentum Strategy
 
-A simple implementation involves ranking stocks based on momentum indicators and filtering them by value metrics. For example, select the top 20% of stocks based on 12-month price returns, then filter out those with the lowest P/E ratios.
+A simple implementation involves ranking stocks based on [momentum indicators](../m/momentum_indicators.md) and filtering them by value metrics. For example, select the top 20% of stocks based on 12-month price returns, then filter out those with the lowest P/E ratios.
 
 ### Example 2: Factor-Based ETFs
 
-Several ETFs employ value-momentum strategies, providing investors with a turn-key solution. For instance, the "iShares Edge MSCI USA Value Factor ETF" (VLUE) combines value and momentum factors ([iShares](https://www.ishares.com/us/products/239726/ishares-msci-usa-momentum-factor-etf)).
+Several ETFs employ value-momentum strategies, providing investors with a turn-key solution. For instance, the "iShares Edge MSCI USA [Value Factor](../v/value_factor.md) ETF" (VLUE) combines value and momentum factors ([iShares](https://www.ishares.com/us/products/239726/ishares-msci-usa-momentum-factor-etf)).
 
 ## Challenges and Risks
 
@@ -82,8 +82,8 @@ Combining additional factors such as quality, low volatility, and size can furth
 
 ## Conclusion
 
-Value-Momentum strategies offer a compelling approach to investing by integrating the principles of value and momentum. Through rigorous data analysis, risk management, and continuous optimization, these strategies can provide robust risk-adjusted returns across different market conditions. As technology and data analytics continue to evolve, the efficacy and implementation of value-momentum strategies are likely to become even more sophisticated.
+Value-Momentum strategies offer a compelling approach to investing by integrating the principles of value and momentum. Through rigorous data analysis, [risk management](../r/risk_management.md), and continuous optimization, these strategies can provide robust risk-adjusted returns across different market conditions. As technology and data analytics continue to evolve, the efficacy and implementation of value-momentum strategies are likely to become even more sophisticated.
 
 **References:**
 - "Value and Momentum Everywhere" by AQR Capital Management: [AQR Capital Management](https://www.aqr.com/Insights/Research/White-Papers/Value-and-Momentum-Everywhere)
-- "iShares Edge MSCI USA Value Factor ETF": [iShares](https://www.ishares.com/us/products/239726/ishares-msci-usa-momentum-factor-etf)
+- "iShares Edge MSCI USA [Value Factor](../v/value_factor.md) ETF": [iShares](https://www.ishares.com/us/products/239726/ishares-msci-usa-momentum-factor-etf)

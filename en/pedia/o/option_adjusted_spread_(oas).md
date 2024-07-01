@@ -1,6 +1,6 @@
 ## Option Adjusted Spread (OAS)
 
-The Option Adjusted Spread (OAS) is a measurement used in the financial markets to assess the yield differential between a fixed-income security like a bond and the corresponding risk-free rate, while accounting for the embedded options within the bond. This metric is crucial for investors and portfolio managers looking to understand the true yield of an investment relative to its inherent risks, especially when the bond includes features such as call or put options.
+The Option Adjusted Spread (OAS) is a measurement used in the financial markets to assess the yield differential between a fixed-income security like a bond and the corresponding risk-free rate, while accounting for the embedded options within the bond. This metric is crucial for investors and portfolio managers looking to understand the true yield of an investment relative to its inherent risks, especially when the bond includes features such as call or [put options](../p/put_options.md).
 
 ### Basics of Fixed-Income Securities
 
@@ -8,14 +8,14 @@ Fixed-income securities are investment instruments that provide returns in the f
 
 ### Understanding the Yield Spread
 
-The yield spread is the difference between the yield on a fixed-income security and the yield on a risk-free benchmark, such as U.S. Treasury bonds. This spread compensates investors for the additional risks associated with the non-risk-free security, including credit risk, liquidity risk, and other factors.
+The [yield spread](../y/yield_spread.md) is the difference between the yield on a fixed-income security and the yield on a risk-free benchmark, such as U.S. Treasury bonds. This spread compensates investors for the additional risks associated with the non-risk-free security, including credit risk, [liquidity risk](../l/liquidity_risk.md), and other factors.
 
 ### Embedded Options in Bonds
 
 Many bonds come with options embedded in their structure. Common types of embedded options include:
 
 1. **Call Options**: Allow the issuer to repurchase the bond before its maturity date at a predetermined price.
-2. **Put Options**: Give the bondholder the right to sell the bond back to the issuer before maturity at a predetermined price.
+2. **[Put Options](../p/put_options.md)**: Give the bondholder the right to sell the bond back to the issuer before maturity at a predetermined price.
 3. **Convertible Options**: Enable the bondholder to convert the bond into a predefined number of shares of the issuer's equity.
 
 These options add complexity to the valuation of bonds because they introduce additional risks and rewards that must be accounted for.
@@ -28,8 +28,8 @@ The OAS adjusts the nominal spread between the bond yield and the risk-free rate
 
 1. **Model the Bond's Cash Flows**: Estimate the bond's expected cash flows, including coupon payments and principal repayment, accounting for the likelihood of the options being exercised.
 2. **Discounting Cash Flows**: Use an interest rate model to discount these cash flows at varying rates across different scenarios, reflecting the interest rate volatility and the timing of potential option exercises.
-3. **Compute the Nominal Spread**: Determine the nominal yield spread of the bond over a risk-free benchmark.
-4. **Adjust for Embedded Options**: Subtract the additional yield provided by the embedded options from the nominal yield spread to arrive at the OAS.
+3. **Compute the Nominal Spread**: Determine the nominal [yield spread](../y/yield_spread.md) of the bond over a risk-free benchmark.
+4. **Adjust for Embedded Options**: Subtract the additional yield provided by the embedded options from the nominal [yield spread](../y/yield_spread.md) to arrive at the OAS.
 
 The resulting OAS represents the yield differential attributable solely to credit and liquidity risks, excluding the distortion from options.
 
@@ -37,7 +37,7 @@ The resulting OAS represents the yield differential attributable solely to credi
 
 The OAS is extensively used by professional investors, including portfolio managers, traders, and analysts, for various applications:
 
-1. **Comparative Analysis**: By isolating the impact of embedded options, investors can more accurately compare bonds with different structure and risk profiles.
+1. **[Comparative Analysis](../c/comparative_analysis.md)**: By isolating the impact of embedded options, investors can more accurately compare bonds with different structure and risk profiles.
 2. **Valuation and Pricing**: OAS helps in pricing bonds more precisely by removing the complexity added by embedded options.
 3. **Risk Assessment**: Investors can better assess the credit and liquidity risks of a bond by focusing on the OAS.
 4. **Performance Measurement**: Portfolio managers use OAS to evaluate the performance of fixed-income portfolios, ensuring that they are compensated appropriately for the risks taken.
@@ -46,12 +46,12 @@ The OAS is extensively used by professional investors, including portfolio manag
 
 1. **Holistic View of Yield**: OAS provides a more complete and accurate representation of a bond's yield after accounting for embedded options.
 2. **Improved Decision Making**: By using OAS, investors can make more informed decisions regarding bond investments.
-3. **Better Risk Management**: OAS allows for a clearer assessment of the risks inherent in bonds, leading to better risk management practices.
+3. **Better [Risk Management](../r/risk_management.md)**: OAS allows for a clearer assessment of the risks inherent in bonds, leading to better [risk management](../r/risk_management.md) practices.
 
 ### Limitations of OAS
 
 1. **Complexity**: Calculating OAS involves complex mathematical models and assumptions, which can be a barrier for some investors.
-2. **Model Dependency**: The accuracy of OAS calculations depends heavily on the interest rate models and assumptions used.
+2. **Model Dependency**: The accuracy of OAS calculations depends heavily on the [interest rate models](../i/interest_rate_models.md) and assumptions used.
 
 ### Key Players in OAS Analysis
 

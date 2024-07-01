@@ -2,7 +2,7 @@
 
 ## Introduction to Wavelet Volatility
 
-Wavelet volatility represents a technique in financial modeling that employs wavelet transforms to determine and forecast the volatility in financial markets. Wavelet analysis is like a microscope for data: it provides a multi-scale view of data, allowing analysts to identify patterns on different time scales. Through the wavelet transform, analysts can capture both stationery and non-stationary processes, making it highly useful for financial time series that commonly exhibit such characteristics.
+Wavelet volatility represents a technique in [financial modeling](../f/financial_modeling.md) that employs wavelet transforms to determine and forecast the volatility in financial markets. [Wavelet analysis](../w/wavelet_analysis.md) is like a microscope for data: it provides a multi-scale view of data, allowing analysts to identify patterns on different time scales. Through the wavelet transform, analysts can capture both stationery and non-stationary processes, making it highly useful for [financial time series](../f/financial_time_series.md) that commonly exhibit such characteristics.
 
 ## Basics of Wavelet Transform
 
@@ -36,7 +36,7 @@ In finance, volatility is a measure of the rate at which the price of a financia
 #### Steps in Volatility Estimation
 
 1. **Data Collection**: Gather historical price data or return series of the financial asset.
-2. **Wavelet Decomposition**: Apply wavelet transform to break down the time series.
+2. **[Wavelet Decomposition](../w/wavelet_decomposition.md)**: Apply wavelet transform to break down the time series.
 3. **Volatility Calculation**: Calculate volatility at each scale (frequency) component separated by the wavelet transform.
 4. **Aggregation**: Combine multiscale volatilities to get an overall volatility measure for short-term and long-term predictions.
 
@@ -54,7 +54,7 @@ In stock markets, wavelet volatility can decipher the different dynamic behavior
 
 #### Use in Risk Management
 
-Wavelet-based volatility measures are valuable in risk management, assisting in the calibration of risk metrics like Value at Risk (VaR) at different time scales.
+Wavelet-based volatility measures are valuable in [risk management](../r/risk_management.md), assisting in the calibration of [risk metrics](../r/risk_metrics.md) like Value at Risk (VaR) at different time scales.
 
 #### Real-World Example
 
@@ -64,18 +64,18 @@ Wavelet-based volatility measures are valuable in risk management, assisting in 
 
 ### Emerging Trends
 
-The integration of wavelet volatility in algorithmic trading is gaining traction:
+The integration of wavelet volatility in [algorithmic trading](../a/algorithmic_trading.md) is gaining traction:
 - **High-Frequency Trading**: Improved algorithms that adapt to volatility shifts at different time scales.
 - **Hybrid Models**: Combining wavelet-based models with machine learning for more accurate forecasts.
   
 ## Challenges and Limitations
 
-Despite its advantages, wavelet volatility analysis faces some challenges:
+Despite its advantages, wavelet [volatility analysis](../v/volatility_analysis.md) faces some challenges:
 - **Complexity**: Requires advanced mathematical understanding and computational resources.
 - **Choice of Wavelets**: The selection of appropriate mother wavelets can significantly affect results.
 - **Interdisciplinary Expertise**: Combines finance, statistics, and signal processing, demanding broad expertise.
 
 ## Conclusion
 
-Wavelet volatility provides a robust framework for capturing and analyzing the complex nature of financial market volatility. By allowing multi-scale analysis, it offers insights not available through traditional methods, hence proving instrumental in both financial modeling and algorithmic trading. As computational methods advance, the application and accuracy of wavelet techniques are expected to enhance financial analysis further.
+Wavelet volatility provides a robust framework for capturing and analyzing the complex nature of financial market volatility. By allowing multi-scale analysis, it offers insights not available through traditional methods, hence proving instrumental in both [financial modeling](../f/financial_modeling.md) and [algorithmic trading](../a/algorithmic_trading.md). As computational methods advance, the application and accuracy of wavelet techniques are expected to enhance financial analysis further.
 

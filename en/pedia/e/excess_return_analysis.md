@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Excess return, also known as alpha, is a concept used in the finance and investment world to describe the return of an investment relative to a benchmark or risk-free rate. This benchmark could be a market index like the S&P 500, while the risk-free rate is often represented by the yield on government securities such as U.S. Treasury bonds. Excess return analysis is a crucial metric in evaluating the performance of investment strategies, including algorithmic trading strategies.
+Excess return, also known as alpha, is a concept used in the finance and investment world to describe the return of an investment relative to a benchmark or risk-free rate. This benchmark could be a market index like the S&P 500, while the risk-free rate is often represented by the yield on government securities such as U.S. Treasury bonds. Excess return analysis is a crucial metric in evaluating the performance of investment strategies, including [algorithmic trading](../a/algorithmic_trading.md) strategies.
 
 ## The Concept of Excess Return
 
@@ -22,7 +22,7 @@ For example, if an investment returned 10% over a period and the benchmark index
 
 ### Importance in Algorthmic Trading
 
-Excess return analysis is vital in the context of algorithmic trading for several reasons:
+Excess return analysis is vital in the context of [algorithmic trading](../a/algorithmic_trading.md) for several reasons:
 
 1. **Performance Evaluation**: It helps quantify the value added by the trading strategy above and beyond what could be achieved by investing in a market index.
 2. **Risk Adjustment**: It offers a clearer picture when assessing risk-adjusted returns. By comparing with a benchmark, traders can better understand if the strategy justifies its risk.
@@ -35,7 +35,7 @@ Benchmark selection is pivotal in calculating excess returns. The accuracy of ex
 ### Common Benchmarks
 
 1. **Stock Market Indices**: Indices like the S&P 500, NASDAQ, or Russell 2000 are commonly used. Each index reflects trends and movements within specific market segments.
-2. **Sector Indices**: For strategies focused on specific sectors (e.g., technology, healthcare), sector-specific indices offer more precise benchmarking.
+2. **[Sector Indices](../s/sector_indices.md)**: For strategies focused on specific sectors (e.g., technology, healthcare), sector-specific indices offer more precise benchmarking.
 3. **Custom Benchmarks**: In some cases, a custom benchmark that closely aligns with the strategy's objectives and risk profile may be used.
 
 ### Selection Criteria
@@ -64,15 +64,15 @@ This indicates that the strategy generated a 6% return above the risk-free rate.
 
 ## Sharpe Ratio and Alpha
 
-Excess return is closely related to key financial metrics like the Sharpe Ratio and Alpha, both of which fine-tune the analysis of investment performance.
+Excess return is closely related to key financial metrics like the [Sharpe Ratio](../s/sharpe_ratio.md) and Alpha, both of which fine-tune the analysis of investment performance.
 
 ### Sharpe Ratio
 
-The Sharpe Ratio measures the risk-adjusted return of an investment.
+The [Sharpe Ratio](../s/sharpe_ratio.md) measures the [risk-adjusted return](../r/risk-adjusted_return.md) of an investment.
 
-\[ \text{Sharpe Ratio} = \frac{\text{Excess Return}}{\text{Standard Deviation of Excess Return}} \]
+\[ \text{[Sharpe Ratio](../s/sharpe_ratio.md)} = \frac{\text{Excess Return}}{\text{Standard Deviation of Excess Return}} \]
 
-A higher Sharpe Ratio indicates that the portfolio's returns are higher per unit of risk.
+A higher [Sharpe Ratio](../s/sharpe_ratio.md) indicates that the portfolio's returns are higher per unit of risk.
 
 ### Alpha
 
@@ -86,15 +86,15 @@ The Beta (\(\beta\)) coefficient indicates the systemic risk of the strategy rel
 
 ### Backtesting
 
-Excess return analysis is integral during the backtesting phase of algorithmic trading. It allows traders to evaluate historical performance against benchmarks, helping to fine-tune the algorithm before deploying it in live markets.
+Excess return analysis is integral during the [backtesting](../b/backtesting.md) phase of [algorithmic trading](../a/algorithmic_trading.md). It allows traders to evaluate historical performance against benchmarks, helping to fine-tune the algorithm before deploying it in live markets.
 
 ### Performance Attribution
 
-Performance attribution helps in breaking down the sources of excess return. Understanding whether returns are due to stock selection, market timing, or sector allocation is critical for improving and optimizing algorithms.
+[Performance attribution](../p/performance_attribution.md) helps in breaking down the sources of excess return. Understanding whether returns are due to stock selection, [market timing](../m/market_timing.md), or sector allocation is critical for improving and optimizing algorithms.
 
 ### Continuous Monitoring
 
-Continuous monitoring of excess return ensures that the strategy remains aligned with market conditions and adjusts for unexpected risk factors. This ongoing analysis is essential for high-frequency trading algorithms where market conditions can change rapidly.
+Continuous monitoring of excess return ensures that the strategy remains aligned with market conditions and adjusts for unexpected risk factors. This ongoing analysis is essential for [high-frequency trading algorithms](../h/high-frequency_trading_algorithms.md) where market conditions can change rapidly.
 
 ## Leading Firms in Excess Return Analysis
 
@@ -106,12 +106,12 @@ Several firms specialize in providing tools and analytics for excess return anal
 
 ### Bloomberg
 
-[Bloomberg](https://www.bloomberg.com) provides comprehensive benchmarking and performance metrics, including tools for calculating and analyzing excess returns for a wide variety of investment strategies.
+[Bloomberg](https://www.bloomberg.com) provides comprehensive benchmarking and [performance metrics](../p/performance_metrics.md), including tools for calculating and analyzing excess returns for a wide variety of investment strategies.
 
 ### MSCI
 
-[MSCI](https://www.msci.com) offers indices and performance analytics that aid in excess return calculation, allowing for rigorous performance evaluation and risk management.
+[MSCI](https://www.msci.com) offers indices and [performance analytics](../p/performance_analytics.md) that aid in excess return calculation, allowing for rigorous performance evaluation and [risk management](../r/risk_management.md).
 
 ## Conclusion
 
-Excess return analysis is more than just a performance metric; it is a critical tool in the arsenal of both algorithmic traders and traditional investors. By providing nuanced insights into the value added by an investment strategy or trading algorithm, it enables better decision-making, risk assessment, and strategy optimization. Whether evaluating past performance through backtesting, monitoring current performance in real-time, or benchmarking against market indices, excess return analysis is indispensable for achieving superior risk-adjusted returns.
+Excess return analysis is more than just a performance metric; it is a critical tool in the arsenal of both algorithmic traders and traditional investors. By providing nuanced insights into the value added by an investment strategy or trading algorithm, it enables better decision-making, risk assessment, and strategy optimization. Whether evaluating past performance through [backtesting](../b/backtesting.md), monitoring current performance in real-time, or benchmarking against market indices, excess return analysis is indispensable for achieving superior risk-adjusted returns.

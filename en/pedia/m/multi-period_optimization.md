@@ -1,6 +1,6 @@
 # Multi-Period Optimization in Algorithmic Trading
 
-Multi-period optimization is a sophisticated strategy and mathematical approach aimed at enhancing portfolio performance, accounting for investment goals, constraints, and market dynamics over multiple periods. It strengthens the decision-making process for traders and investors who seek to balance returns and risks in a systematic manner over an extended horizon. This concept expands beyond single-period models, addressing the dynamic complexities and intertemporal trade-offs inherent in the financial markets.
+Multi-period optimization is a sophisticated strategy and mathematical approach aimed at enhancing [portfolio performance](../p/portfolio_performance.md), accounting for investment goals, constraints, and market dynamics over multiple periods. It strengthens the decision-making process for traders and investors who seek to balance returns and risks in a systematic manner over an extended horizon. This concept expands beyond single-period models, addressing the dynamic complexities and intertemporal trade-offs inherent in the financial markets.
 
 ## Basics of Multi-Period Optimization
 
@@ -10,21 +10,21 @@ Unlike single-period optimization, which focuses on a one-time decision based on
 - **Rebalancing Constraints**: Managing the frequency and impact of adjusting the portfolio to align with target allocations.
 - **Path Dependency**: Incorporating the effects of previous decisions and how they influence future allocations.
 
-Mathematically, multi-period optimization models can be described using dynamic programming principles or through stochastic control frameworks.
+Mathematically, multi-period optimization models can be described using dynamic programming principles or through [stochastic control](../s/stochastic_control.md) frameworks.
 
 ## Key Features and Benefits
 
 - **Forward-Looking**: Accounts for expected changes in asset returns, volatilities, and correlations.
 - **Flexibility**: Adapts to evolving investment goals, market conditions, and regulatory environments.
-- **Risk Management**: Provides a framework for controlling risk through time, balancing short-term losses against long-term gains.
+- **[Risk Management](../r/risk_management.md)**: Provides a framework for controlling risk through time, balancing short-term losses against long-term gains.
 
 ## Applications in Algorithmic Trading
 
-Algorithmic trading leverages multi-period optimization to automate and refine trading strategies. Common applications include:
+[Algorithmic trading](../a/algorithmic_trading.md) leverages multi-period optimization to automate and refine [trading strategies](../t/trading_strategies.md). Common applications include:
 
-- **Portfolio Rebalancing**: Periodically adjusting the portfolio to maintain target asset allocation while minimizing transaction costs and taxes.
-- **Dynamic Hedging**: Continuously updating hedge positions to protect against adverse market movements.
-- **Execution Algorithms**: Using predictive models to decide the timing and quantity of trades to minimize market impact and slippage.
+- **[Portfolio Rebalancing](../p/portfolio_rebalancing.md)**: Periodically adjusting the portfolio to maintain target [asset allocation](../a/asset_allocation.md) while minimizing transaction costs and taxes.
+- **[Dynamic Hedging](../d/dynamic_hedging.md)**: Continuously updating hedge positions to protect against adverse market movements.
+- **[Execution Algorithms](../e/execution_algorithms.md)**: Using predictive models to decide the timing and quantity of trades to minimize market impact and slippage.
 
 ## Mathematical Formulation
 
@@ -43,7 +43,7 @@ Where:
 
 ### Stochastic Control Approach
 
-Another method involves stochastic control, where asset prices and portfolio weights are modeled as stochastic processes.
+Another method involves [stochastic control](../s/stochastic_control.md), where asset prices and portfolio weights are modeled as [stochastic processes](../s/stochastic_processes.md).
 
 Consider the state variable \( X_t \) evolving according to:
 
@@ -71,10 +71,10 @@ The implementation of multi-period optimization offers various significant impli
 
 Several platforms and companies provide tools and solutions for multi-period optimization. For example:
 
-- **QuantConnect**: Offers a comprehensive algorithmic trading and research platform, catering to multi-period optimization needs. [QuantConnect](https://www.quantconnect.com)
-- **Quantitative Brokers**: Specializes in execution algorithms using multi-period optimization techniques to enhance trading performance. [Quantitative Brokers](https://www.quantitativebrokers.com)
+- **QuantConnect**: Offers a comprehensive [algorithmic trading](../a/algorithmic_trading.md) and research platform, catering to multi-period optimization needs. [QuantConnect](https://www.quantconnect.com)
+- **Quantitative Brokers**: Specializes in [execution algorithms](../e/execution_algorithms.md) using multi-period optimization techniques to enhance [trading performance](../t/trading_performance.md). [Quantitative Brokers](https://www.quantitativebrokers.com)
 
 ## Summary
 
-Multi-period optimization is an advanced framework that enhances the decision-making process in investment and trading. It incorporates dynamics and intertemporality, providing robust solutions to balance risk and return over extended horizons. This method is crucial for sophisticated algorithmic trading strategies and practical portfolio management.
+Multi-period optimization is an advanced framework that enhances the decision-making process in investment and trading. It incorporates dynamics and intertemporality, providing robust solutions to balance risk and return over extended horizons. This method is crucial for sophisticated [algorithmic trading](../a/algorithmic_trading.md) strategies and practical [portfolio management](../p/portfolio_management.md).
 

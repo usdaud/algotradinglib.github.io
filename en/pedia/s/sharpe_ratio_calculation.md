@@ -1,12 +1,12 @@
 # Sharpe Ratio Calculation
 
-The Sharpe Ratio, named after Nobel laureate William F. Sharpe, is a measure that helps investors and portfolio managers understand the return of an investment compared to its risk. It serves to analyze the risk-adjusted return or to benchmark the performance of different asset classes or investment strategies.
+The [Sharpe Ratio](../s/sharpe_ratio.md), named after Nobel laureate William F. Sharpe, is a measure that helps investors and portfolio managers understand the return of an investment compared to its risk. It serves to analyze the [risk-adjusted return](../r/risk-adjusted_return.md) or to benchmark the performance of different asset classes or investment strategies.
 
 ## Definition
 
-Mathematically, the Sharpe Ratio is defined as:
+Mathematically, the [Sharpe Ratio](../s/sharpe_ratio.md) is defined as:
 
-\[ \text{Sharpe Ratio} = \frac{E[R_p - R_f]}{\sigma_p} \]
+\[ \text{[Sharpe Ratio](../s/sharpe_ratio.md)} = \frac{E[R_p - R_f]}{\sigma_p} \]
 
 Where:
 - \( E[R_p - R_f] \) is the expected excess return of the portfolio over the risk-free rate.
@@ -68,7 +68,7 @@ Determine the standard deviation of the excess returns across the periods.
 
 Divide the average excess return by the standard deviation of excess returns.
 
-\[ \text{Sharpe Ratio} = \frac{\text{Average Excess Return}}{\sigma_p} \]
+\[ \text{[Sharpe Ratio](../s/sharpe_ratio.md)} = \frac{\text{Average Excess Return}}{\sigma_p} \]
 
 ## Practical Application Example
 
@@ -85,46 +85,46 @@ Next, compute the excess return by subtracting the risk-free rate from each mont
 
 Calculate the average excess return from these values, let’s assume it’s 0.7333%, and then determine the standard deviation for these excess returns. Suppose the standard deviation comes out to 0.6%.
 
-Finally, compute the Sharpe Ratio:
+Finally, compute the [Sharpe Ratio](../s/sharpe_ratio.md):
 
-\[ \text{Sharpe Ratio} = \frac{0.7333\%}{0.6\%} = 1.222 \]
+\[ \text{[Sharpe Ratio](../s/sharpe_ratio.md)} = \frac{0.7333\%}{0.6\%} = 1.222 \]
 
-A Sharpe Ratio of 1.222 indicates that Portfolio X provides 1.222 units of extra return per unit of risk, suggesting that the portfolio manager is generating excellent returns for the assumed level of risk.
+A [Sharpe Ratio](../s/sharpe_ratio.md) of 1.222 indicates that Portfolio X provides 1.222 units of extra return per unit of risk, suggesting that the portfolio manager is generating excellent returns for the assumed level of risk.
 
 ## Sharpe Ratio in Algorithmic Trading
 
-In algorithmic trading, system inefficiencies are captured by algorithms that execute trades to capitalize on slight price differences. Effective algorithms should aim for a high Sharpe Ratio by achieving significant returns with minimal risk. This is often done using techniques such as:
-- **Backtesting:** Calculating Sharpe Ratios on historical data to gauge expected performance.
-- **Risk Management:** Adjusting position sizes, stop losses, and other risk parameters to minimize portfolio volatility.
+In [algorithmic trading](../a/algorithmic_trading.md), system inefficiencies are captured by algorithms that execute trades to capitalize on slight price differences. Effective algorithms should aim for a high [Sharpe Ratio](../s/sharpe_ratio.md) by achieving significant returns with minimal risk. This is often done using techniques such as:
+- **[Backtesting](../b/backtesting.md):** Calculating Sharpe Ratios on historical data to gauge expected performance.
+- **[Risk Management](../r/risk_management.md):** Adjusting position sizes, stop losses, and other risk parameters to minimize portfolio volatility.
 
 ## Limitations of Sharpe Ratio
 
 ### Assumption of Normally Distributed Returns
 
-The calculation presumes normal distribution of returns, which isn’t always true. Asymmetrical return distributions affect the reliability of the Sharpe Ratio.
+The calculation presumes normal distribution of returns, which isn’t always true. Asymmetrical return distributions affect the reliability of the [Sharpe Ratio](../s/sharpe_ratio.md).
 
 ### Risk-Free Rate Consistency
 
-Choosing an appropriate risk-free rate is critical. Mismatches between the investment horizon and the risk-free instrument’s maturity can distort the Sharpe Ratio measurement.
+Choosing an appropriate risk-free rate is critical. Mismatches between the investment horizon and the risk-free instrument’s maturity can distort the [Sharpe Ratio](../s/sharpe_ratio.md) measurement.
 
 ### Time Variation
 
-The Sharpe Ratio might not be consistent over different periods. A strategy yielding a high Sharpe Ratio in a bull market may falter in a bear market or vice versa.
+The [Sharpe Ratio](../s/sharpe_ratio.md) might not be consistent over different periods. A strategy yielding a high [Sharpe Ratio](../s/sharpe_ratio.md) in a bull market may falter in a bear market or vice versa.
 
 ## Case Studies
 
 ### Renaissance Technologies
 
-Renaissance Technologies boasts some of the highest Sharpe Ratios in the industry, largely due to their Medallion Fund. The fund leverages advanced mathematical models to trade equities, derivatives, and other financial instruments.
+Renaissance Technologies boasts some of the highest Sharpe Ratios in the industry, largely due to their Medallion Fund. The fund leverages advanced mathematical models to trade equities, [derivatives](../d/derivatives.md), and other financial instruments.
 
 - **Renaissance Technologies**: [RenTech](https://www.rentec.com/)
 
 ### Two Sigma
 
-Two Sigma utilizes machine learning and big data to develop trading algorithms, with their strategies often achieving considerable Sharpe Ratios over diverse timeframes and market conditions.
+Two Sigma utilizes machine learning and big data to develop [trading algorithms](../t/trading_algorithms.md), with their strategies often achieving considerable Sharpe Ratios over diverse timeframes and market conditions.
 
 - **Two Sigma**: [Two Sigma](https://www.twosigma.com/)
 
 ## Conclusion
 
-Understanding and computing the Sharpe Ratio provides valuable insights into an investment's risk-adjusted return. For algorithmic traders, optimizing algorithms to achieve a higher Sharpe Ratio can enhance the robustness and profitability of trading strategies. Nonetheless, investors should be mindful of its limitations and consider complementing the Sharpe Ratio with other metrics to achieve a comprehensive assessment of performance.
+Understanding and computing the [Sharpe Ratio](../s/sharpe_ratio.md) provides valuable insights into an investment's [risk-adjusted return](../r/risk-adjusted_return.md). For algorithmic traders, optimizing algorithms to achieve a higher [Sharpe Ratio](../s/sharpe_ratio.md) can enhance the robustness and profitability of [trading strategies](../t/trading_strategies.md). Nonetheless, investors should be mindful of its limitations and consider complementing the [Sharpe Ratio](../s/sharpe_ratio.md) with other metrics to achieve a comprehensive assessment of performance.

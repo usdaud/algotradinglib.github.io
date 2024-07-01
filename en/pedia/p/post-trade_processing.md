@@ -14,7 +14,7 @@ Trade capture is the initial step in the post-trade processing sequence, wherein
 
 - **Trade Recording**: Capturing the details such as the security type, quantity, price, trade date, and counterparty information.
 - **Verification**: Ensuring the captured information matches the trade execution report.
-- **Storage**: Safely storing the trade details within the trading systems or databases for future reference and processing.
+- **Storage**: Safely storing the trade details within the [trading systems](../t/trading_systems.md) or databases for future reference and processing.
 
 ## Trade Confirmation
 
@@ -32,7 +32,7 @@ Trade confirmation is the process of verifying that both parties involved in the
 
 ### Definition and Importance
 
-Trade allocation involves distributing the executed trade among various accounts or clients, as specified by the investment manager or trading entity. This process is crucial for portfolio management and accurate record-keeping of investment activities for different clients.
+Trade allocation involves distributing the executed trade among various accounts or clients, as specified by the investment manager or trading entity. This process is crucial for [portfolio management](../p/portfolio_management.md) and accurate record-keeping of investment activities for different clients.
 
 ### Key Activities
 
@@ -44,7 +44,7 @@ Trade allocation involves distributing the executed trade among various accounts
 
 ### Definition and Importance
 
-Clearing is the process that involves the preparation, validation, and finalization of trade details before settling the trade. It bridges the gap between trade execution and settlement, reducing counterparty risk by ensuring that both the buyer and seller can fulfill their obligations.
+Clearing is the process that involves the preparation, validation, and finalization of trade details before settling the trade. It bridges the gap between trade execution and settlement, reducing [counterparty risk](../c/counterparty_risk.md) by ensuring that both the buyer and seller can fulfill their obligations.
 
 ### Key Activities
 
@@ -94,8 +94,8 @@ In the realm of post-trade processing, regulatory compliance is paramount. Compl
 
 ### Key Regulations and Standards
 
-- **Dodd-Frank Act**: A U.S. regulation that impacts various aspects of post-trade processing, including central clearing and reporting of derivatives.
-- **EMIR (European Market Infrastructure Regulation)**: An EU regulation focusing on the clearing and reporting of over-the-counter derivatives.
+- **Dodd-Frank Act**: A U.S. regulation that impacts various aspects of post-trade processing, including central clearing and reporting of [derivatives](../d/derivatives.md).
+- **EMIR (European Market Infrastructure Regulation)**: An EU regulation focusing on the clearing and reporting of over-the-counter [derivatives](../d/derivatives.md).
 - **MiFID II (Markets in Financial Instruments Directive)**: An EU directive that addresses transparency and reporting requirements for trade execution and post-trade processes.
 
 ### Institutions and Links
@@ -107,12 +107,12 @@ In the realm of post-trade processing, regulatory compliance is paramount. Compl
 
 ### Importance in Post-Trade Processing
 
-Risk management is an integral part of post-trade processing. Effective risk management ensures the smooth functioning of financial markets by mitigating counterparty, operational, and settlement risks. 
+[Risk management](../r/risk_management.md) is an integral part of post-trade processing. Effective [risk management](../r/risk_management.md) ensures the smooth functioning of financial markets by mitigating counterparty, operational, and settlement risks. 
 
 ### Key Risk Management Strategies
 
-- **Counterparty Risk Mitigation**: Use of central counterparties (CCPs) and margin requirements to reduce the risk of default.
-- **Operational Risk Management**: Implementation of robust systems and processes to handle errors, system failures, and human mistakes.
+- **[Counterparty Risk](../c/counterparty_risk.md) Mitigation**: Use of central counterparties (CCPs) and margin requirements to reduce the risk of default.
+- **[Operational Risk Management](../o/operational_risk_management.md)**: Implementation of robust systems and processes to handle errors, system failures, and human mistakes.
 - **Settlement Risk Mitigation**: Use of delivery versus payment (DvP) mechanisms to ensure that the transfer of securities occurs only if the payment is made.
 
 ### Link to Risk Management Tools and Services
@@ -129,7 +129,7 @@ Technology and automation are revolutionizing post-trade processing by enhancing
 ### Key Technologies
 
 - **Blockchain**: Distributed ledger technology that provides an immutable record of transactions, enhancing transparency and security.
-- **Artificial Intelligence (AI)**: Leveraging AI and machine learning for predictive analytics, anomaly detection, and process optimization.
+- **Artificial Intelligence (AI)**: Leveraging AI and machine learning for [predictive analytics](../p/predictive_analytics.md), [anomaly detection](../a/anomaly_detection.md), and process optimization.
 - **Robotic Process Automation (RPA)**: Use of software robots to automate rule-based tasks such as data entry, validation, and reconciliation.
 
 ### Link to Technology Providers
@@ -139,4 +139,4 @@ Technology and automation are revolutionizing post-trade processing by enhancing
 
 ## Conclusion
 
-Post-trade processing is a cornerstone of modern financial markets, ensuring that trades are completed efficiently, accurately, and in compliance with regulatory standards. By integrating advanced technologies, adhering to stringent regulations, and implementing robust risk management strategies, the financial industry continues to enhance its post-trade workflows, fostering greater trust and stability in global markets.
+Post-trade processing is a cornerstone of modern financial markets, ensuring that trades are completed efficiently, accurately, and in compliance with regulatory standards. By integrating advanced technologies, adhering to stringent regulations, and implementing robust [risk management](../r/risk_management.md) strategies, the financial industry continues to enhance its post-trade workflows, fostering greater trust and stability in global markets.

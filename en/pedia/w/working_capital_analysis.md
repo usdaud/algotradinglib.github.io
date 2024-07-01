@@ -24,7 +24,7 @@ Current liabilities are a company's obligations that are due within a year. Thes
 
 ## Importance of Working Capital
 
-Effective working capital management ensures that a company can continue its operations without financial disruptions. A positive working capital means that a company can easily handle its short-term liabilities with its short-term assets. Conversely, negative working capital signals potential liquidity problems, indicating that the company may struggle to meet its short-term obligations.
+Effective [working capital management](../w/working_capital_management.md) ensures that a company can continue its operations without financial disruptions. A positive working capital means that a company can easily handle its short-term liabilities with its short-term assets. Conversely, negative working capital signals potential liquidity problems, indicating that the company may struggle to meet its short-term obligations.
 
 ## Working Capital Cycle
 
@@ -44,7 +44,7 @@ A shorter cycle indicates better liquidity and operational efficiency.
 
 ## Measures of Working Capital
 
-Several metrics help in assessing a company's working capital management:
+Several metrics help in assessing a company's [working capital management](../w/working_capital_management.md):
 
 ### Working Capital Ratio (Current Ratio)
 
@@ -68,19 +68,19 @@ This ratio shows how well a company can meet its short-term obligations with its
 
 ### Working Capital Turnover
 
-Working capital turnover measures how efficiently a company uses its working capital to generate sales:
+[Working capital turnover](../w/working_capital_turnover.md) measures how efficiently a company uses its working capital to generate sales:
 
 ```
-Working Capital Turnover = Net Sales / Average Working Capital
+[Working Capital Turnover](../w/working_capital_turnover.md) = Net Sales / Average Working Capital
 ```
 
 A high turnover ratio indicates efficient use of working capital to generate revenue.
 
 ## Challenges in Working Capital Management
 
-Effective working capital management is fraught with challenges, which include:
+Effective [working capital management](../w/working_capital_management.md) is fraught with challenges, which include:
 
-- **Seasonality:** Businesses in sectors like retail often experience seasonal fluctuations, which can complicate working capital management.
+- **Seasonality:** Businesses in sectors like retail often experience seasonal fluctuations, which can complicate [working capital management](../w/working_capital_management.md).
 - **Credit Policies:** Extending credit to customers can impact cash flow and working capital. Striking a balance between attracting customers and maintaining healthy cash flow is crucial.
 - **Supply Chain Disruptions:** Disruptions in the supply chain can delay inventory replenishment, impact production schedules, and strain working capital.
 
@@ -102,20 +102,20 @@ Negotiating favorable payment terms with suppliers can help extend the payables 
 
 ## Case Studies of Effective Working Capital Management
 
-Several companies are renowned for their effective working capital management. Let’s delve into a few notable examples:
+Several companies are renowned for their effective [working capital management](../w/working_capital_management.md). Let’s delve into a few notable examples:
 
 ### Apple Inc.
 
-Apple Inc. is often cited for its robust working capital management practices. Despite maintaining a large inventory, Apple efficiently manages its accounts receivable and payable, ensuring a healthy cash flow. The company’s strategic supplier relationships and efficient inventory turnover are key pillars of its working capital management.
+Apple Inc. is often cited for its robust [working capital management](../w/working_capital_management.md) practices. Despite maintaining a large inventory, Apple efficiently manages its accounts receivable and payable, ensuring a healthy cash flow. The company’s strategic supplier relationships and efficient inventory turnover are key pillars of its [working capital management](../w/working_capital_management.md).
 
 More details can be found on their official website: [Apple Inc.](https://www.apple.com/)
 
 ### Toyota
 
-Toyota’s adoption of the Just-In-Time (JIT) inventory system has revolutionized inventory management. The company maintains minimal inventory levels, reducing holding costs and improving cash flow. This approach is integral to Toyota’s efficient working capital management.
+Toyota’s adoption of the Just-In-Time (JIT) inventory system has revolutionized inventory management. The company maintains minimal inventory levels, reducing holding costs and improving cash flow. This approach is integral to Toyota’s efficient [working capital management](../w/working_capital_management.md).
 
 More details can be found on their official website: [Toyota](https://www.toyota-global.com/)
 
 ## Conclusion
 
-Working capital analysis is indispensable for companies aiming for operational efficiency and financial stability. By continually monitoring and managing their current assets and liabilities, businesses can ensure they have the liquidity to meet short-term obligations, invest in growth opportunities, and navigate market uncertainties. Effective working capital management not only enhances a company’s profitability but also its overall value and competitive positioning in the market.
+Working capital analysis is indispensable for companies aiming for operational efficiency and financial stability. By continually monitoring and managing their current assets and liabilities, businesses can ensure they have the liquidity to meet short-term obligations, invest in growth opportunities, and navigate market uncertainties. Effective [working capital management](../w/working_capital_management.md) not only enhances a company’s profitability but also its overall value and competitive positioning in the market.

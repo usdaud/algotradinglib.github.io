@@ -2,7 +2,7 @@
 
 **Introduction**
 
-Key Economic Indicators (KEIs) are statistics that provide valuable insights into the economic performance, health, and future trends of a country. They are essential tools used by policymakers, investors, economists, and analysts to make informed decisions. These indicators cover various aspects of the economy, including inflation, employment, production, and others. This article explores some of the most crucial KEIs and their implications.
+Key [Economic Indicators](../e/economic_indicators.md) (KEIs) are statistics that provide valuable insights into the economic performance, health, and future trends of a country. They are essential tools used by policymakers, investors, economists, and analysts to make informed decisions. These indicators cover various aspects of the economy, including inflation, employment, production, and others. This article explores some of the most crucial KEIs and their implications.
 
 ## Gross Domestic Product (GDP)
 
@@ -127,7 +127,7 @@ The Balance of Payments (BOP) is a statement that summarizes a country’s econo
 
 ### Importance
 
-The BOP provides a comprehensive picture of a country’s international economic position. A surplus indicates a net inflow of money, while a deficit suggests a net outflow, impacting currency value and foreign exchange reserves.
+The BOP provides a comprehensive picture of a country’s international economic position. A surplus indicates a net inflow of money, while a deficit suggests a net outflow, impacting currency value and [foreign exchange reserves](../f/foreign_exchange_reserves.md).
 
 ## Household Income
 
@@ -145,4 +145,4 @@ Household income is a key indicator of economic well-being. Rising incomes sugge
 
 ## Conclusion
 
-Key Economic Indicators provide crucial insights into a country's economic health and future prospects. They are indispensable tools for policymakers, investors, and economists to make informed decisions. Understanding these indicators helps anticipate economic trends and adapt strategies accordingly. Accurate and timely economic data is essential for the stability and growth of any economy.
+Key [Economic Indicators](../e/economic_indicators.md) provide crucial insights into a country's economic health and future prospects. They are indispensable tools for policymakers, investors, and economists to make informed decisions. Understanding these indicators helps anticipate economic trends and adapt strategies accordingly. Accurate and timely economic data is essential for the stability and growth of any economy.

@@ -2,41 +2,41 @@
 
 ## Introduction
 
-Quantitative trading, often referred to as algo-trading or algorithmic trading, involves the use of mathematical models, algorithms, and statistical methodologies to execute trades. These methods leverage market inefficiencies and exploit patterns in trading data to achieve superior returns. Unlike discretionary trading, which relies on the trader's intuition and judgment, quantitative trading methods employ systematic, rules-based approaches to make trading decisions.
+[Quantitative trading](../q/quantitative_trading.md), often referred to as algo-trading or [algorithmic trading](../a/algorithmic_trading.md), involves the use of mathematical models, algorithms, and statistical methodologies to execute trades. These methods leverage market inefficiencies and exploit patterns in trading data to achieve superior returns. Unlike [discretionary trading](../d/discretionary_trading.md), which relies on the trader's intuition and judgment, [quantitative trading](../q/quantitative_trading.md) methods employ systematic, rules-based approaches to make trading decisions.
 
 ## Types of Quantitative Approaches
 
 ### 1. Statistical Arbitrage
 
-Statistical arbitrage (or stat-arb) is a trading strategy based on mean reversion theory and statistical relationships between different financial instruments. This involves identifying price discrepancies between assets that are believed to have a long-term equilibrium relationship. If the prices deviate from this equilibrium, traders take long and short positions anticipating a revert to the mean.
+Statistical [arbitrage](../a/arbitrage.md) (or stat-arb) is a trading strategy based on [mean reversion](../m/mean_reversion.md) theory and statistical relationships between different financial instruments. This involves identifying price discrepancies between assets that are believed to have a long-term equilibrium relationship. If the prices deviate from this equilibrium, traders take long and short positions anticipating a revert to the mean.
 
-- **Pairs Trading**: One of the most common forms of stat-arb. It involves the identification of two securities with historical price correlation. When the prices diverge beyond a certain threshold, traders short the overperforming security and buy the underperforming one, betting that prices will converge.
-- **Index Arbitrage**: This strategy involves taking advantage of price differences between the individual components of a stock index and the index itself.
+- **[Pairs Trading](../p/pairs_trading.md)**: One of the most common forms of stat-arb. It involves the identification of two securities with historical price correlation. When the prices diverge beyond a certain threshold, traders short the overperforming security and buy the underperforming one, betting that prices will converge.
+- **Index [Arbitrage](../a/arbitrage.md)**: This strategy involves taking advantage of price differences between the individual components of a stock index and the index itself.
   
 ### 2. Momentum Trading
 
-Momentum trading capitalizes on trends in the market. The idea is that assets that have performed well in the past will continue to do so for some time, and those that have performed poorly will continue to decline. Quantitative momentum strategies involve mathematical analyses of an asset's price history to identify such trends.
+[Momentum trading](../m/momentum_trading.md) capitalizes on trends in the market. The idea is that assets that have performed well in the past will continue to do so for some time, and those that have performed poorly will continue to decline. [Quantitative momentum](../q/quantitative_momentum.md) strategies involve mathematical analyses of an asset's price history to identify such trends.
 
 - **Moments Metrics**: Metrics like Moving Averages (MA), Relative Strength Index (RSI), and MACD (Moving Average Convergence Divergence) are often used.
-- **Risk Management**: Utilizing stop-loss orders to manage the risk associated with sudden trend reversals.
+- **[Risk Management](../r/risk_management.md)**: Utilizing [stop-loss orders](../s/stop-loss_orders.md) to manage the risk associated with sudden trend reversals.
 
 ### 3. High-Frequency Trading (HFT)
 
 HFT involves executing a high number of trades at extremely fast speeds, often measured in microseconds. These strategies require sophisticated technology infrastructure and are characterized by very short holding periods.
 
-- **Market Making**: This involves placing limit orders to buy and sell simultaneously. The strategy profits from the bid-ask spread.
-- **Latency Arbitrage**: Profiting from price discrepancies across different exchanges or trading platforms by executing trades faster than competitors.
+- **Market Making**: This involves placing limit orders to buy and sell simultaneously. The strategy profits from the [bid-ask spread](../b/bid-ask_spread.md).
+- **Latency [Arbitrage](../a/arbitrage.md)**: Profiting from price discrepancies across different exchanges or trading platforms by executing trades faster than competitors.
   
 ### 4. Machine Learning and AI
 
-The integration of machine learning (ML) and artificial intelligence (AI) into quantitative trading is transforming the landscape by enabling the processing and analysis of large datasets to make predictions and decisions.
+The integration of machine learning (ML) and artificial intelligence (AI) into [quantitative trading](../q/quantitative_trading.md) is transforming the landscape by enabling the processing and analysis of large datasets to make predictions and decisions.
 
-- **Supervised Learning**: Algorithms are trained on historical data to predict future prices. Techniques include linear regression, support vector machines, and neural networks.
-- **Unsupervised Learning**: These algorithms identify patterns without predefined labels. Clustering techniques and anomaly detection are prevalent here.
+- **Supervised Learning**: Algorithms are trained on historical data to predict future prices. Techniques include [linear regression](../l/linear_regression.md), support vector machines, and neural networks.
+- **Unsupervised Learning**: These algorithms identify patterns without predefined labels. Clustering techniques and [anomaly detection](../a/anomaly_detection.md) are prevalent here.
 
 ### 5. Sentiment Analysis
 
-Sentiment analysis involves analyzing textual data from news articles, social media, and financial reports to gauge the general investor sentiment toward an asset. This information is then used to make informed trading decisions.
+[Sentiment analysis](../s/sentiment_analysis.md) involves analyzing textual data from news articles, social media, and financial reports to gauge the general investor sentiment toward an asset. This information is then used to make informed trading decisions.
 
 - **NLP Techniques**: Natural Language Processing (NLP) techniques such as tokenization, sentiment scoring, and named entity recognition are commonly used.
   
@@ -44,19 +44,19 @@ Sentiment analysis involves analyzing textual data from news articles, social me
 
 ### 1. Renaissance Technologies
 
-Founded by Jim Simons, Renaissance Technologies is a pioneer in quantitative trading. Their Medallion Fund is one of the most profitable hedge funds in history, largely due to its advanced mathematical models and algorithms.
+Founded by Jim Simons, Renaissance Technologies is a pioneer in [quantitative trading](../q/quantitative_trading.md). Their Medallion Fund is one of the most profitable hedge funds in history, largely due to its advanced mathematical models and algorithms.
 
 **Website**: [Renaissance Technologies](https://www.rentec.com/)
 
 ### 2. Two Sigma
 
-Another significant player in the quantitative trading space is Two Sigma. They leverage machine learning, distributed computing, and big data to build predictive models for trading.
+Another significant player in the [quantitative trading](../q/quantitative_trading.md) space is Two Sigma. They leverage machine learning, distributed computing, and big data to build predictive models for trading.
 
 **Website**: [Two Sigma](https://www.twosigma.com/)
 
 ### 3. D.E. Shaw & Co.
 
-D.E. Shaw & Co. combines quantitative and qualitative strategies to achieve high returns. They employ sophisticated tools for quantitative research and trading strategies.
+D.E. Shaw & Co. combines quantitative and qualitative strategies to achieve high returns. They employ sophisticated tools for [quantitative research](../q/quantitative_research.md) and [trading strategies](../t/trading_strategies.md).
 
 **Website**: [D.E. Shaw](https://www.deshaw.com/)
 
@@ -68,17 +68,17 @@ A high-level language and interactive environment used by quantitative traders f
 
 ### 2. Python
 
-Python is highly favored in the quant community due to its extensive libraries like NumPy, pandas, matplotlib, and scikit-learn, which are instrumental in quantitative analysis.
+Python is highly favored in the quant community due to its extensive libraries like NumPy, pandas, matplotlib, and scikit-learn, which are instrumental in [quantitative analysis](../q/quantitative_analysis.md).
 
 ### 3. R
 
-R is another statistical computing language used extensively for data analysis and visualization in quantitative trading.
+R is another statistical computing language used extensively for data analysis and visualization in [quantitative trading](../q/quantitative_trading.md).
 
 ## Challenges and Risks
 
 ### 1. Model Risk
 
-Quantitative models are built on historical data. They're based on assumptions that may not hold in the future, leading to model breakdowns.
+[Quantitative models](../q/quantitative_models.md) are built on historical data. They're based on assumptions that may not hold in the future, leading to model breakdowns.
 
 ### 2. Overfitting
 
@@ -90,8 +90,8 @@ Strategies can be rendered ineffective if there is not enough liquidity in the m
 
 ### 4. Regulatory Risk
 
-Regulatory changes can impact trading strategies and their profitability. For example, the imposition of transaction taxes could eat into the profits of high-frequency trading firms.
+Regulatory changes can impact [trading strategies](../t/trading_strategies.md) and their profitability. For example, the imposition of transaction taxes could eat into the profits of high-frequency trading firms.
 
 ## Conclusion
 
-Quantitative trading represents a sophisticated, technology-driven approach to financial markets. With the continuous advancements in artificial intelligence, machine learning, and computational technology, the landscape of quant trading is expected to evolve even further. However, successful quantitative trading requires not only advanced mathematical models but also robust risk management and adaptability to changing market conditions.
+[Quantitative trading](../q/quantitative_trading.md) represents a sophisticated, technology-driven approach to financial markets. With the continuous advancements in artificial intelligence, machine learning, and computational technology, the landscape of quant trading is expected to evolve even further. However, successful [quantitative trading](../q/quantitative_trading.md) requires not only advanced mathematical models but also robust [risk management](../r/risk_management.md) and adaptability to changing market conditions.

@@ -1,6 +1,6 @@
 # J-Curve Effect
 
-The J-Curve effect is an economic hypothesis that describes the time lags and eventual improvement in the trade balance or other economic indicators following a significant devaluation or depreciation of a country's currency. The concept is widely studied and utilized in various financial and economic models, particularly in the contexts of international trade, currency exchange rates, and economic policies. The name "J-Curve" is derived from the shape of the line that appears when the net trade balance or another economic indicator is plotted over time following a currency depreciation; initially, the indicator worsens before gradually improving, forming a shape similar to the letter "J".
+The J-Curve effect is an economic hypothesis that describes the time lags and eventual improvement in the trade balance or other [economic indicators](../e/economic_indicators.md) following a significant devaluation or depreciation of a country's currency. The concept is widely studied and utilized in various financial and economic models, particularly in the contexts of international trade, currency exchange rates, and economic policies. The name "J-Curve" is derived from the shape of the line that appears when the net trade balance or another economic indicator is plotted over time following a currency depreciation; initially, the indicator worsens before gradually improving, forming a shape similar to the letter "J".
 
 ## The Mechanics of the J-Curve Effect
 
@@ -28,11 +28,11 @@ In international trade, the J-Curve effect is of particular interest because it 
 
 ### Corporate Finance and Investment Strategies
 
-For multinational corporations and investors, the J-Curve effect can inform strategies in currency hedging and portfolio allocation. Knowing that currency depreciation might initially harm but later benefit the trade balance helps in structuring investments to exploit these dynamics. For instance, investors might look to invest in export-oriented companies in a country that has recently devalued its currency, anticipating eventual gains from increased exports.
+For multinational corporations and investors, the J-Curve effect can inform strategies in [currency hedging](../c/currency_hedging.md) and portfolio allocation. Knowing that currency depreciation might initially harm but later benefit the trade balance helps in structuring investments to exploit these dynamics. For instance, investors might look to invest in export-oriented companies in a country that has recently devalued its currency, anticipating eventual gains from increased exports.
 
 ### Economic Policy and Macroeconomic Management
 
-Economic policymakers use the J-Curve effect as a predictive tool for planning fiscal and monetary policies. Understanding that devaluation may initially worsen economic indicators, measures can be put in place to mitigate these short-term adverse effects, while efforts are made to expedite the positive outcomes anticipated in the longer term.
+Economic policymakers use the J-Curve effect as a predictive tool for planning fiscal and monetary policies. Understanding that devaluation may initially worsen [economic indicators](../e/economic_indicators.md), measures can be put in place to mitigate these short-term adverse effects, while efforts are made to expedite the positive outcomes anticipated in the longer term.
 
 ## Empirical Evidence and Research
 

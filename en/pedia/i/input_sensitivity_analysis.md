@@ -1,16 +1,16 @@
 # Input Sensitivity Analysis in Algorithmic Trading
 
-Input Sensitivity Analysis (ISA) is a technique used to determine how variation in the input of a model impacts the model's output. This kind of analysis is particularly crucial in fields like algorithmic trading, where even small changes in input parameters can significantly affect trading strategies and outcomes.
+Input Sensitivity Analysis (ISA) is a technique used to determine how variation in the input of a model impacts the model's output. This kind of analysis is particularly crucial in fields like [algorithmic trading](../a/algorithmic_trading.md), where even small changes in input parameters can significantly affect [trading strategies](../t/trading_strategies.md) and outcomes.
 
 ## Introduction to Input Sensitivity Analysis
 
 ### What is Input Sensitivity Analysis?
 
-Input Sensitivity Analysis involves systematically changing inputs to a model or system to observe the changes in outputs. This method helps in understanding which inputs are the most critical and how they interact with each other. In algorithmic trading, ISA can be used to evaluate the robustness and reliability of trading algorithms by assessing how sensitive their performance is to various input parameters.
+Input Sensitivity Analysis involves systematically changing inputs to a model or system to observe the changes in outputs. This method helps in understanding which inputs are the most critical and how they interact with each other. In [algorithmic trading](../a/algorithmic_trading.md), ISA can be used to evaluate the robustness and reliability of [trading algorithms](../t/trading_algorithms.md) by assessing how sensitive their performance is to various input parameters.
 
 ### Importance in Algorithmic Trading
 
-Algorithmic trading relies heavily on complex models that use various inputs for making trading decisions. These inputs could include market data, financial indicators, economic data, and more. Sensitivity analysis helps traders and developers to:
+[Algorithmic trading](../a/algorithmic_trading.md) relies heavily on complex models that use various inputs for making trading decisions. These inputs could include market data, financial indicators, economic data, and more. Sensitivity analysis helps traders and developers to:
 
 1. **Identify critical inputs**: Understand which inputs have the most significant impact on the trading strategy's performance.
 2. **Gauge robustness**: Determine how resilient the trading strategy is to changes in model inputs.
@@ -19,7 +19,7 @@ Algorithmic trading relies heavily on complex models that use various inputs for
 
 ## Techniques for Performing Input Sensitivity Analysis
 
-Several techniques can be employed to perform sensitivity analysis in trading models. Here are some of the most common ones:
+Several techniques can be employed to perform sensitivity analysis in [trading models](../t/trading_models.md). Here are some of the most common ones:
 
 ### 1. One-at-a-Time (OAT) Sensitivity Analysis
 
@@ -35,15 +35,15 @@ Unlike OAT, global sensitivity analysis varies all input parameters simultaneous
 
 ### 4. Gradient-Based Sensitivity Analysis
 
-Gradient-based methods use the derivatives of the output with respect to input parameters to measure sensitivity. These methods can provide precise sensitivity information but require the model to be differentiable and can be computationally intensive.
+Gradient-based methods use the [derivatives](../d/derivatives.md) of the output with respect to input parameters to measure sensitivity. These methods can provide precise sensitivity information but require the model to be differentiable and can be computationally intensive.
 
 ### 5. Scenario Analysis
 
-In scenario analysis, the inputs are varied to reflect different hypothetical scenarios of interest. This approach helps in stress-testing the model against extreme but plausible scenarios, which is crucial for risk management.
+In scenario analysis, the inputs are varied to reflect different hypothetical scenarios of interest. This approach helps in stress-testing the model against extreme but plausible scenarios, which is crucial for [risk management](../r/risk_management.md).
 
 ## Applications of Input Sensitivity Analysis in Algorithmic Trading
 
-ISA can be applied across various stages of trading algorithm development and deployment:
+ISA can be applied across various stages of [trading algorithm development](../t/trading_algorithm_development.md) and deployment:
 
 ### 1. Model Development
 
@@ -59,7 +59,7 @@ Before deploying a trading strategy, sensitivity analysis is used to validate it
 
 ### 4. Risk Management
 
-ISA helps in identifying potential risks associated with input variability and model uncertainty. By understanding how sensitive the strategy is to different inputs, traders can devise better risk management practices and contingency plans.
+ISA helps in identifying potential risks associated with input variability and model uncertainty. By understanding how sensitive the strategy is to different inputs, traders can devise better [risk management](../r/risk_management.md) practices and contingency plans.
 
 ## Illustration Using a Simple Moving Average Trading Strategy
 
@@ -77,12 +77,12 @@ Assume we have the following input parameters:
 First, we perform an OAT sensitivity analysis by varying S and keeping L constant:
 
 - S = 5 days, 10 days, 15 days, 20 days, 25 days
-- Observe the changes in strategy performance metrics like return, Sharpe ratio, and maximum drawdown.
+- Observe the changes in strategy [performance metrics](../p/performance_metrics.md) like return, [Sharpe ratio](../s/sharpe_ratio.md), and maximum drawdown.
 
 Next, we vary L and keep S constant:
 
 - L = 40 days, 50 days, 60 days, 70 days, 80 days
-- Again observe the changes in performance metrics.
+- Again observe the changes in [performance metrics](../p/performance_metrics.md).
 
 ### Monte Carlo Simulations
 
@@ -91,11 +91,11 @@ For Monte Carlo simulations, we define probability distributions for S and L:
 - S: Uniform distribution between 5 and 25 days
 - L: Uniform distribution between 40 and 80 days
 
-We then generate random samples for S and L and run the trading strategy for each sample to observe the distribution of performance metrics.
+We then generate random samples for S and L and run the trading strategy for each sample to observe the distribution of [performance metrics](../p/performance_metrics.md).
 
 ### Global Sensitivity Analysis
 
-Using Sobol indices, we analyze the contribution of S and L to the variance in performance metrics. This method gives more comprehensive insights into how the uncertainties in S and L impact the overall strategy performance.
+Using Sobol indices, we analyze the contribution of S and L to the variance in [performance metrics](../p/performance_metrics.md). This method gives more comprehensive insights into how the uncertainties in S and L impact the overall strategy performance.
 
 ### Scenario Analysis
 
@@ -109,7 +109,7 @@ For each market condition, vary S and L to observe how the strategy adapts and p
 
 ## Advanced Applications of ISA in Complex Trading Models
 
-In more sophisticated trading models, ISA is equally important and often more complex. Some advanced applications include:
+In more sophisticated [trading models](../t/trading_models.md), ISA is equally important and often more complex. Some advanced applications include:
 
 ### High-Frequency Trading (HFT)
 
@@ -117,15 +117,15 @@ In HFT strategies, input sensitivity analysis is used to fine-tune algorithm par
 
 ### Machine Learning Models
 
-Machine learning models for trading involve multiple hyperparameters and features. Sensitivity analysis helps in understanding the feature importance and hyperparameter tuning, thereby improving the model's predictive accuracy and trading performance.
+Machine learning models for trading involve multiple hyperparameters and features. Sensitivity analysis helps in understanding the feature importance and hyperparameter tuning, thereby improving the model's predictive accuracy and [trading performance](../t/trading_performance.md).
 
 ### Multi-Asset Trading
 
-In strategies dealing with multiple asset classes, sensitivity analysis can identify how variations in input parameters for different asset classes impact the overall portfolio performance. This helps in constructing balanced portfolios that are robust to input variations.
+In strategies dealing with multiple asset classes, sensitivity analysis can identify how variations in input parameters for different asset classes impact the overall [portfolio performance](../p/portfolio_performance.md). This helps in constructing balanced portfolios that are robust to input variations.
 
 ## Tools and Software for Input Sensitivity Analysis
 
-Several tools and software platforms can facilitate input sensitivity analysis for trading strategies:
+Several tools and software platforms can facilitate input sensitivity analysis for [trading strategies](../t/trading_strategies.md):
 
 ### Python Libraries
 
@@ -139,11 +139,11 @@ Several tools and software platforms can facilitate input sensitivity analysis f
 ### Commercial Tools
 
 - **MATLAB**: Provides comprehensive tools for sensitivity analysis, including Simulink for model-based analysis [MATLAB](https://www.mathworks.com/products/matlab.html).
-- **PortfolioEffect**: A commercial platform offering advanced analytics for trading strategies, including sensitivity analysis [PortfolioEffect](https://www.portfolioeffect.com/).
+- **PortfolioEffect**: A commercial platform offering advanced analytics for [trading strategies](../t/trading_strategies.md), including sensitivity analysis [PortfolioEffect](https://www.portfolioeffect.com/).
 
 ## Challenges in Input Sensitivity Analysis
 
-Despite its benefits, performing sensitivity analysis in trading models comes with several challenges:
+Despite its benefits, performing sensitivity analysis in [trading models](../t/trading_models.md) comes with several challenges:
 
 ### Computational Complexity
 
@@ -163,4 +163,4 @@ Sensitivity analysis can be challenging when inputs are interdependent. Traditio
 
 ## Conclusion
 
-Input Sensitivity Analysis is a crucial tool in the development, validation, and optimization of trading models. By understanding how changes in input parameters affect a trading strategy's performance, traders and developers can build more robust, reliable, and profitable algorithms. Despite the challenges, the benefits of conducting thorough sensitivity analysis far outweigh the complexities involved, making it an indispensable part of algorithmic trading.
+Input Sensitivity Analysis is a crucial tool in the development, validation, and optimization of [trading models](../t/trading_models.md). By understanding how changes in input parameters affect a trading strategy's performance, traders and developers can build more robust, reliable, and profitable algorithms. Despite the challenges, the benefits of conducting thorough sensitivity analysis far outweigh the complexities involved, making it an indispensable part of [algorithmic trading](../a/algorithmic_trading.md).

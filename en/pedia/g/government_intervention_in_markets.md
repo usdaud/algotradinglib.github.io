@@ -38,7 +38,7 @@ Government intervention in markets refers to the actions taken by various govern
 3. **Monetary Policies**: Central banks manage money supply and interest rates to control inflation and promote economic growth.
 
     - **Interest Rates**: Lowering interest rates to encourage borrowing and investment or raising them to cool down an overheating economy.
-    - **Quantitative Easing**: Increasing the money supply by purchasing government securities to inject liquidity into the economy.
+    - **[Quantitative Easing](../q/quantitative_easing.md)**: Increasing the money supply by purchasing government securities to inject liquidity into the economy.
 
 4. **Trade Policies**: Governments use various tools to control international trade.
 
@@ -53,7 +53,7 @@ Government intervention in markets refers to the actions taken by various govern
 
 ### Examples and Case Studies
 
-1. **The 2008 Financial Crisis**: The global financial crisis prompted unprecedented government interventions. For example, the U.S. government enacted the Troubled Asset Relief Program (TARP) to bail out troubled banks and automotive companies. The Federal Reserve also implemented quantitative easing to stabilize financial markets.
+1. **The 2008 Financial Crisis**: The global financial crisis prompted unprecedented government interventions. For example, the U.S. government enacted the Troubled Asset Relief Program (TARP) to bail out troubled banks and automotive companies. The Federal Reserve also implemented [quantitative easing](../q/quantitative_easing.md) to stabilize financial markets.
 
     - More information: [Federal Reserve](https://www.federalreserve.gov)
 

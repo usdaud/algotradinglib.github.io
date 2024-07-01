@@ -1,6 +1,6 @@
 # Key Performance Indicators (KPIs) in Trading
 
-Key Performance Indicators (KPIs) are essential metrics used to evaluate the performance of trading strategies, systems, and financial investments. In the context of trading, KPIs provide an objective measure to track efficiency, performance, and profitability, and they help traders make informed decisions. This detailed document outlines various KPIs used in trading, their importance, and how to calculate them.
+Key [Performance Indicators](../p/performance_indicators.md) (KPIs) are essential metrics used to evaluate the performance of [trading strategies](../t/trading_strategies.md), systems, and financial investments. In the context of trading, KPIs provide an objective measure to track efficiency, performance, and profitability, and they help traders make informed decisions. This detailed document outlines various KPIs used in trading, their importance, and how to calculate them.
 
 ## 1. Return on Investment (ROI)
 Return on Investment (ROI) measures the amount of return on an investment relative to the investment’s cost. It is a straightforward indicator used to evaluate the profitability of an investment.
@@ -12,21 +12,21 @@ Return on Investment (ROI) measures the amount of return on an investment relati
 ROI is expressed as a percentage and provides a clear indicator of the efficiency of an investment.
 
 ## 2. Risk-adjusted Return
-Risk-adjusted return measures the return of an investment relative to the level of risk taken. Common risk-adjusted performance measures include the Sharpe Ratio and the Sortino Ratio:
+[Risk-adjusted return](../r/risk-adjusted_return.md) measures the return of an investment relative to the level of risk taken. Common risk-adjusted performance measures include the [Sharpe Ratio](../s/sharpe_ratio.md) and the [Sortino Ratio](../s/sortino_ratio.md):
 
 ### Sharpe Ratio
-The Sharpe Ratio indicates the average return earned in excess of the risk-free rate per unit of volatility or total risk.
+The [Sharpe Ratio](../s/sharpe_ratio.md) indicates the average return earned in excess of the risk-free rate per unit of volatility or total risk.
 
 **Formula**:
 
-\[ Sharpe Ratio = \frac{(Mean Portfolio Return - Risk-free Rate)}{Standard Deviation of Portfolio Return} \]
+\[ [Sharpe Ratio](../s/sharpe_ratio.md) = \frac{(Mean Portfolio Return - Risk-free Rate)}{Standard Deviation of Portfolio Return} \]
 
 ### Sortino Ratio
-The Sortino Ratio adjusts the Sharpe Ratio by differentiating harmful volatility from overall volatility, focusing instead on negative deviation.
+The [Sortino Ratio](../s/sortino_ratio.md) adjusts the [Sharpe Ratio](../s/sharpe_ratio.md) by differentiating harmful volatility from overall volatility, focusing instead on negative deviation.
 
 **Formula**:
 
-\[ Sortino Ratio = \frac{(Mean Portfolio Return - Risk-free Rate)}{Downside Deviation} \]
+\[ Sortino Ratio = \frac{(Mean Portfolio Return - Risk-free Rate)}{[Downside Deviation](../d/downside_deviation.md)} \]
 
 ## 3. Maximum Drawdown
 Maximum Drawdown (MDD) is a risk measure that indicates the largest single drop from peak to trough in the value of a portfolio, assuming no other withdrawals or deposit contributions.
@@ -38,7 +38,7 @@ Maximum Drawdown (MDD) is a risk measure that indicates the largest single drop 
 A lower MDD indicates better performance with lower risk.
 
 ## 4. Win Rate
-Win Rate, or Success Rate, measures the percentage of trades that result in a profit. It is applicable for both automated and manual trading strategies.
+Win Rate, or Success Rate, measures the percentage of trades that result in a profit. It is applicable for both automated and manual [trading strategies](../t/trading_strategies.md).
 
 **Formula**:
 
@@ -47,13 +47,13 @@ Win Rate, or Success Rate, measures the percentage of trades that result in a pr
 A higher win rate usually signifies a more profitable strategy.
 
 ## 5. Profit Factor
-Profit Factor is the ratio of gross profit to the gross loss expressed in absolute terms. It indicates how many times the strategy returns profit relative to losses.
+[Profit Factor](../p/profit_factor.md) is the ratio of gross profit to the gross loss expressed in absolute terms. It indicates how many times the strategy returns profit relative to losses.
 
 **Formula**:
 
-\[ Profit Factor = \frac{Gross Profit}{Gross Loss} \]
+\[ [Profit Factor](../p/profit_factor.md) = \frac{Gross Profit}{Gross Loss} \]
 
-A Profit Factor greater than 1 indicates a profitable trading strategy.
+A [Profit Factor](../p/profit_factor.md) greater than 1 indicates a profitable trading strategy.
 
 ## 6. Average Profit and Loss
 Average Profit and Loss measures the mean profit and loss per trade over a period.
@@ -90,7 +90,7 @@ Value at Risk quantifies the potential loss in value of a portfolio at a given c
 
 \[ VaR = (Volatility of Portfolio \times Z-Score) \times \sqrt{Holding Period} \]
 
-VaR provides a probable loss threshold and is essential for risk management.
+VaR provides a probable loss threshold and is essential for [risk management](../r/risk_management.md).
 
 ## Conclusion
-Key Performance Indicators in trading are critical tools for evaluating the effectiveness, profitability, and risk associated with trading strategies. By understanding and regularly monitoring these KPIs, traders can optimize their strategies, manage risk effectively, and improve their overall performance.
+Key [Performance Indicators](../p/performance_indicators.md) in trading are critical tools for evaluating the effectiveness, profitability, and risk associated with [trading strategies](../t/trading_strategies.md). By understanding and regularly monitoring these KPIs, traders can optimize their strategies, manage risk effectively, and improve their overall performance.

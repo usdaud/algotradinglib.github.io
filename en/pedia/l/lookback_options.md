@@ -1,6 +1,6 @@
 # **Lookback Options**
 
-Lookback options are a type of exotic options in financial markets that allow the holder to "look back" over time to determine the optimal exercise price. This unique feature distinguishes lookback options from standard options, where the exercise price is predetermined at the start of the contract. Because of their flexibility and potential for providing significant advantages to the holder, lookback options are considered more complex and thus more expensive than their vanilla counterparts.
+Lookback options are a type of [exotic options](../e/exotic_options.md) in financial markets that allow the holder to "look back" over time to determine the optimal exercise price. This unique feature distinguishes lookback options from standard options, where the exercise price is predetermined at the start of the contract. Because of their flexibility and potential for providing significant advantages to the holder, lookback options are considered more complex and thus more expensive than their vanilla counterparts.
 
 ### Types of Lookback Options
 
@@ -40,17 +40,17 @@ Lookback options are particularly useful in volatile markets where predicting fu
 
 1. **Hedging**: Investors and companies may use lookback options to hedge against unfavorable price movements. For instance, a company expecting significant revenue in the future can use lookback options to lock in the best possible exchange rate for currency translation.
 2. **Speculation**: Traders can speculate on the maximum potential profit by taking advantage of price swings without worrying about the exact entry point.
-3. **Portfolio Management**: Portfolio managers can use these options to enhance return profiles and mitigate risks associated with market entry timing.
+3. **[Portfolio Management](../p/portfolio_management.md)**: Portfolio managers can use these options to enhance return profiles and mitigate risks associated with market entry timing.
 
 ### Pricing of Lookback Options
 
 Pricing lookback options is more complex than pricing standard options due to their path-dependent nature. Some factors influencing the pricing include:
-- **Historical Volatility**: Higher volatility increases the likelihood of favorable price points, raising the cost of lookback options.
+- **[Historical Volatility](../h/historical_volatility.md)**: Higher volatility increases the likelihood of favorable price points, raising the cost of lookback options.
 - **Time to Maturity**: Longer durations increase the window for optimal price points to occur, making lookback options more expensive.
 - **Interest Rates**: As with other options, prevailing interest rates impact the discounting of future payoffs.
 
 Pricing models often used include:
-- **Monte Carlo Simulation**: This method involves running numerous simulations to forecast the behavior of the underlying price and determine the optimal exercise price.
+- **[Monte Carlo Simulation](../m/monte_carlo_simulation.md)**: This method involves running numerous simulations to forecast the behavior of the underlying price and determine the optimal exercise price.
 - **Binomial Models**: This involves constructing a price tree and evaluating possible price paths.
 - **Closed-form Solutions**: For specific types of lookback options, closed-form analytical solutions, such as the Black-Scholes-based models, are also available.
 
@@ -70,8 +70,8 @@ Pricing models often used include:
 
 Several financial institutions and brokerage firms offer lookback options, either directly or via over-the-counter (OTC) mechanisms. Some of the well-known providers include:
 - **Goldman Sachs**: As a global investment bank, Goldman Sachs provides structured products, including lookback options. More details can be found on their [official website](https://www.goldmansachs.com/).
-- **J.P. Morgan**: Another prominent institution offering various exotic options, including lookback options. Visit their [official site for more information](https://www.jpmorgan.com/).
-- **Barclays**: This financial group provides services in derivatives and offers customized exotic options. Their [official website](https://home.barclays/) offers more insights.
+- **J.P. Morgan**: Another prominent institution offering various [exotic options](../e/exotic_options.md), including lookback options. Visit their [official site for more information](https://www.jpmorgan.com/).
+- **Barclays**: This financial group provides services in [derivatives](../d/derivatives.md) and offers customized [exotic options](../e/exotic_options.md). Their [official website](https://home.barclays/) offers more insights.
 
 ### Conclusion
 

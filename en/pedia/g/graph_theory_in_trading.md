@@ -43,19 +43,19 @@ A fundamental use of graph theory in trading is market network analysis, where s
 
 #### 2. Risk Management
 
-Graph theory can also play a crucial role in risk management by helping to map out and understand systemic risk. Financial institutions and markets are interconnected, and the failure of one entity can propagate through the system. By modeling these connections as a graph, it's possible to identify critical nodes and potential points of failure.
+Graph theory can also play a crucial role in [risk management](../r/risk_management.md) by helping to map out and understand systemic risk. Financial institutions and markets are interconnected, and the failure of one entity can propagate through the system. By modeling these connections as a graph, it's possible to identify critical nodes and potential points of failure.
 
 - **Default Risk Networks:** Nodes represent financial entities (banks, institutions) and directed edges represent default dependencies. If one institution defaults, it may impact another connected institution. By analyzing these networks, regulators and institutions can prepare for and mitigate systemic risk.
 
 #### 3. Optimal Execution Strategies
 
-Another significant application is in finding optimal execution strategies. Traders need to execute large orders without significantly impacting the market price. This problem can be framed as finding an optimal path in a weighted graph, where weights represent the impact on the market.
+Another significant application is in finding [optimal execution strategies](../o/optimal_execution_strategies.md). Traders need to execute large orders without significantly impacting the market price. This problem can be framed as finding an optimal path in a weighted graph, where weights represent the impact on the market.
 
 - **Order Book Graphs:** The order book of a security can be represented as a graph where nodes are price levels and edges represent possible trades between these levels. Using shortest-path algorithms, one can find an optimal execution route with minimal market impact.
 
 #### 4. Sentiment Analysis and News Impact
 
-Graph theory is also useful in sentiment analysis and the impact of news on trading. By constructing semantic graphs from news articles or social media posts, traders can quantify sentiment and its potential impact on market movements.
+Graph theory is also useful in [sentiment analysis](../s/sentiment_analysis.md) and the impact of news on trading. By constructing semantic graphs from news articles or social media posts, traders can quantify sentiment and its potential impact on market movements.
 
 - **Sentiment Graphs:** Nodes represent words or phrases, and edges represent co-occurrences or relationships. Sentiment scores can be propagated through the graph to gauge overall market sentiment.
 
@@ -63,7 +63,7 @@ Graph theory is also useful in sentiment analysis and the impact of news on trad
 
 In HFT, the speed and volume of trades necessitate advanced techniques for data analysis and decision-making. Graph theory can help in understanding the microstructural properties of the market, such as the structure of limit order books and trade networks.
 
-- **Trade-Order Networks:** Represent individual trades as nodes and the sequence of trades as directed edges. By analyzing the network, HFT algorithms can detect patterns such as arbitrage opportunities or optimal trading times.
+- **Trade-Order Networks:** Represent individual trades as nodes and the sequence of trades as directed edges. By analyzing the network, HFT algorithms can detect patterns such as [arbitrage](../a/arbitrage.md) opportunities or optimal trading times.
 
 ### Companies and Tools
 
@@ -77,7 +77,7 @@ Website: [Kx Systems](https://kx.com/)
 
 #### 2. **Graphistry**
 
-Graphistry offers a visual investigation platform that uses GPU-accelerated graph analytics to transform complex data into easy-to-understand graph visualizations. This can be particularly useful for detecting anomalies and pattern recognition in trading data.
+Graphistry offers a visual investigation platform that uses GPU-accelerated graph analytics to transform complex data into easy-to-understand graph visualizations. This can be particularly useful for detecting anomalies and [pattern recognition](../p/pattern_recognition.md) in trading data.
 
 Website: [Graphistry](https://www.graphistry.com/)
 
@@ -95,4 +95,4 @@ Website: [Quantexa](https://www.quantexa.com/)
 
 ### Conclusion
 
-Graph theory is a powerful tool that offers immense potential in the domain of algo-trading. From market network analysis to optimal execution strategies and sentiment analysis, the applications are numerous and varied. Companies like Kx Systems, Graphistry, Neo4j, and Quantexa are at the forefront of incorporating graph analytics into trading platforms, providing traders and institutions with the tools they need to stay competitive in a fast-evolving market. As financial markets continue to grow in complexity, the importance of advanced mathematical and computational techniques, including graph theory, is only likely to increase.
+Graph theory is a powerful tool that offers immense potential in the domain of algo-trading. From market network analysis to [optimal execution strategies](../o/optimal_execution_strategies.md) and [sentiment analysis](../s/sentiment_analysis.md), the applications are numerous and varied. Companies like Kx Systems, Graphistry, Neo4j, and Quantexa are at the forefront of incorporating graph analytics into trading platforms, providing traders and institutions with the tools they need to stay competitive in a fast-evolving market. As financial markets continue to grow in complexity, the importance of advanced mathematical and computational techniques, including graph theory, is only likely to increase.

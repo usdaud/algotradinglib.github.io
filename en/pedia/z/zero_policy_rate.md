@@ -22,7 +22,7 @@ Central banks use several tools to implement and sustain a ZPR:
 
 - **Open Market Operations**: Buying and selling government securities to influence the supply of money and thus the interest rate.
 - **Forward Guidance**: Communicating future policy intentions to manage market expectations and influence economic decisions.
-- **Quantitative Easing (QE)**: Purchasing longer-term securities to lower long-term interest rates and support financial markets.
+- **[Quantitative Easing](../q/quantitative_easing.md) (QE)**: Purchasing longer-term securities to lower long-term interest rates and support financial markets.
   
 ## Historical Instances of Zero Policy Rate 
 
@@ -49,7 +49,7 @@ Following the 2008 financial crisis, central banks in the United States, Eurozon
 
 The pandemic in 2020 led to a renewed global shift towards ZIRP as central banks sought to mitigate the economic fallout:
 
-**Federal Reserve**: Slashed rates to near zero in March 2020 and embarked on unprecedented levels of quantitative easing.
+**Federal Reserve**: Slashed rates to near zero in March 2020 and embarked on unprecedented levels of [quantitative easing](../q/quantitative_easing.md).
 
 **European Central Bank**: Maintained its already low rates and expanded its pandemic emergency purchase program (PEPP).
 

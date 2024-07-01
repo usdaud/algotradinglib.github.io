@@ -1,7 +1,7 @@
 ## Simple Moving Average Strategies
 
 ### Introduction
-Algorithmic trading, or "algotrading," leverages computer algorithms to conduct trades based on pre-defined criteria. Among the various strategies employed in algorithmic trading, Simple Moving Average (SMA) strategies remain some of the most popular due to their simplicity and reliability. SMA strategies involve calculating the average of an asset's price over a specified number of periods to smooth out price data and identify trends. This article delves deep into the various SMA strategies, their implementation, and their advantages and drawbacks.
+[Algorithmic trading](../a/algorithmic_trading.md), or "algotrading," leverages computer algorithms to conduct trades based on pre-defined criteria. Among the various strategies employed in [algorithmic trading](../a/algorithmic_trading.md), Simple Moving Average (SMA) strategies remain some of the most popular due to their simplicity and reliability. SMA strategies involve calculating the average of an asset's price over a specified number of periods to smooth out price data and identify trends. This article delves deep into the various SMA strategies, their implementation, and their advantages and drawbacks.
 
 ### What is a Simple Moving Average (SMA)?
 A Simple Moving Average is a statistical calculation that takes the average closing price of a security over a specific number of periods. The moving average gets its name because it slides, or moves, across the chart as new prices are added and old prices are removed.
@@ -13,10 +13,10 @@ Where:
 - \( P \) represents the price of the asset at each time period.
 - \( n \) is the number of periods over which the average is calculated.
 
-For example, a 5-day SMA of a stock would be the average of the closing prices of the last 5 days.
+For example, a [5-day SMA](../1/5-day_sma.md) of a stock would be the average of the closing prices of the last 5 days.
 
 ### Types of SMA Strategies
-Simple Moving Averages provide a wide variety of trading strategies. Here, we will cover some of the most commonly used ones:
+Simple Moving Averages provide a wide variety of [trading strategies](../t/trading_strategies.md). Here, we will cover some of the most commonly used ones:
 
 1. **Single SMA Crossover Strategy**
 2. **Dual SMA Crossover Strategy**
@@ -137,9 +137,9 @@ print(data)
 ### Popular Platforms for Algortihmic Trading
 Several platforms and companies provide tools for implementing and testing SMA strategies. Some notable ones include:
 
-- **QuantConnect**: Provides a cloud-based algorithmic trading platform with a wide range of tools for backtesting and deployment. [QuantConnect](https://www.quantconnect.com/)
-- **Quantiacs**: A marketplace for trading algorithms where developers can design, backtest, and deploy their models. [Quantiacs](https://quantiacs.com/)
-- **MetaTrader**: Offers a popular trading platform with robust support for algorithmic trading via MetaQuotes Language (MQL). [MetaTrader](https://www.metatrader5.com/en)
+- **QuantConnect**: Provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform with a wide range of tools for [backtesting](../b/backtesting.md) and deployment. [QuantConnect](https://www.quantconnect.com/)
+- **Quantiacs**: A marketplace for [trading algorithms](../t/trading_algorithms.md) where developers can design, backtest, and deploy their models. [Quantiacs](https://quantiacs.com/)
+- **MetaTrader**: Offers a popular trading platform with robust support for [algorithmic trading](../a/algorithmic_trading.md) via MetaQuotes Language (MQL). [MetaTrader](https://www.metatrader5.com/en)
 
 ### Conclusion
-Simple Moving Average strategies offer a reliable and accessible way to engage in algorithmic trading. By understanding and implementing various SMA strategies, traders can improve their market analysis and decision-making processes. While these strategies come with certain limitations, their straightforward nature makes them a valuable tool in the trader's toolkit.
+Simple [Moving Average strategies](../m/moving_average_strategies.md) offer a reliable and accessible way to engage in [algorithmic trading](../a/algorithmic_trading.md). By understanding and implementing various SMA strategies, traders can improve their market analysis and decision-making processes. While these strategies come with certain limitations, their straightforward nature makes them a valuable tool in the trader's toolkit.

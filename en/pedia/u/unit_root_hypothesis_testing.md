@@ -1,6 +1,6 @@
 # Unit Root Hypothesis Testing
 
-Unit Root Hypothesis testing is a fundamental concept in the domain of time series econometrics, particularly crucial for algorithmic trading and financial modeling. This form of hypothesis testing is essential in diagnosing whether a time series is stationary or contains a unit root, which implies non-stationarity. The presence of a unit root in a time series can drastically impact predictive models and their interpretations, making this testing a critical step in various financial algorithms and economic forecasts.
+Unit Root [Hypothesis testing](../h/hypothesis_testing.md) is a fundamental concept in the domain of time series econometrics, particularly crucial for [algorithmic trading](../a/algorithmic_trading.md) and [financial modeling](../f/financial_modeling.md). This form of [hypothesis testing](../h/hypothesis_testing.md) is essential in diagnosing whether a time series is stationary or contains a unit root, which implies non-stationarity. The presence of a unit root in a time series can drastically impact predictive models and their interpretations, making this testing a critical step in various financial algorithms and economic forecasts.
 
 ## Understanding Unit Roots
 
@@ -22,9 +22,9 @@ If \( \rho = 1 \), the series has a unit root and is non-stationary.
 
 For financial and economic models, the stationarity of a time series is a vital assumption. Many statistical models, including regression, ARIMA, and machine learning algorithms, rely on the assumption of stationarity. A non-stationary series can lead to spurious results and misinterpretations, as typical statistical properties (mean, variance) are not constant over time.
 
-Unit root testing helps in:
+[Unit root testing](../u/unit_root_testing.md) helps in:
 - Identifying whether a model should be differenced or transformed to achieve stationarity.
-- Ensuring that the properties of models used in algorithmic trading hold true.
+- Ensuring that the properties of models used in [algorithmic trading](../a/algorithmic_trading.md) hold true.
 - Aiding in the proper specification of econometric models for forecasting and analysis.
 
 ## Common Unit Root Tests
@@ -45,7 +45,7 @@ The null hypothesis (\( H_0 \)) is that there is a unit root (\( \gamma = 0 \)),
 
 ### 2. Phillips-Perron (PP) Test
 
-The Phillips-Perron test is another tool for testing the unit root hypothesis. Unlike the ADF test, the PP test accounts for serial correlation and heteroskedasticity in the error terms without adding lagged difference terms. It modifies the Dickey-Fuller test statistics to account for these issues.
+The Phillips-Perron test is another tool for testing the [unit root hypothesis](../u/unit_root_hypothesis.md). Unlike the ADF test, the PP test accounts for serial correlation and heteroskedasticity in the error terms without adding lagged difference terms. It modifies the Dickey-Fuller test statistics to account for these issues.
 
 The test essentially adjusts the t-statistic of the \(\gamma\) coefficient in the Dickey-Fuller regression.
 
@@ -74,42 +74,42 @@ where \( D_t \) is a shift dummy variable, and \( DT_t \) represents a shift in 
 
 The Ng-Perron test improves upon the power and size properties of the ADF and PP tests by using generalized least squares detrending to account for finite sample sizes.
 
-The test involves computing modified forms of the Phillips-Perron statistics, designed to have better size and power properties, minimizing the likelihood of type I and type II errors in unit root testing.
+The test involves computing modified forms of the Phillips-Perron statistics, designed to have better size and power properties, minimizing the likelihood of type I and type II errors in [unit root testing](../u/unit_root_testing.md).
 
 ## Implementation in Algorithmic Trading
 
-In algorithmic trading, unit root testing forms a critical part of the pre-processing pipeline. Financial data often exhibits trends, seasonality, and volatility clustering—features that challenge the assumption of stationarity. Here’s how unit root testing is integrated into algorithmic trading workflows:
+In [algorithmic trading](../a/algorithmic_trading.md), [unit root testing](../u/unit_root_testing.md) forms a critical part of the pre-processing pipeline. Financial data often exhibits trends, seasonality, and [volatility clustering](../v/volatility_clustering.md)—features that challenge the assumption of stationarity. Here’s how [unit root testing](../u/unit_root_testing.md) is integrated into [algorithmic trading](../a/algorithmic_trading.md) workflows:
 
-1. **Data Transformation**: Many quantitative trading strategies require transformed data, such as taking first differences or log returns, to ensure stationarity.
-2. **Model Selection**: Accurate unit root testing informs the choice between models like ARIMA (which requires stationarity) versus ARIMA with differencing.
-3. **Risk Management**: Understanding the persistence of shocks (whether they are temporary or permanent) helps in better risk assessment and management.
-4. **Forecasting**: Reliable forecasts depend on the stationarity of the time series data. Persistent, trend-following behavior might be suitable for momentum strategies, while mean-reverting series are critical for pairs trading strategies.
+1. **Data Transformation**: Many [quantitative trading](../q/quantitative_trading.md) strategies require transformed data, such as taking first differences or log returns, to ensure stationarity.
+2. **Model Selection**: Accurate [unit root testing](../u/unit_root_testing.md) informs the choice between models like ARIMA (which requires stationarity) versus ARIMA with differencing.
+3. **[Risk Management](../r/risk_management.md)**: Understanding the persistence of shocks (whether they are temporary or permanent) helps in better risk assessment and management.
+4. **Forecasting**: Reliable forecasts depend on the stationarity of the time series data. Persistent, trend-following behavior might be suitable for momentum strategies, while mean-reverting series are critical for [pairs trading](../p/pairs_trading.md) strategies.
 
 ## Key Companies and Tools for Unit Root Testing
 
-Several companies and platforms offer tools and frameworks for conducting unit root hypothesis testing, especially tailored for financial markets and algorithmic trading.
+Several companies and platforms offer tools and frameworks for conducting unit root [hypothesis testing](../h/hypothesis_testing.md), especially tailored for financial markets and [algorithmic trading](../a/algorithmic_trading.md).
 
 ### Python and R Libraries
 
 - **statsmodels**: A Python library providing classes and functions for the estimation of many different statistical models, including unit root tests such as ADF and KPSS.
   - [statsmodels.org](https://www.statsmodels.org/stable/index.html)
-- **tseries**: Part of the R language's base of time series analysis tools, tseries includes functions for ADF, PP, and KPSS tests.
+- **tseries**: Part of the R language's base of [time series analysis](../t/time_series_analysis.md) tools, tseries includes functions for ADF, PP, and KPSS tests.
   - [CRAN - tseries](https://cran.r-project.org/web/packages/tseries/index.html)
 
 ### Financial Data Providers
 
-- **Bloomberg**: Offers comprehensive time series data and advanced econometric analysis tools, including unit root testing functionalities.
+- **Bloomberg**: Offers comprehensive time series data and advanced econometric analysis tools, including [unit root testing](../u/unit_root_testing.md) functionalities.
   - [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-- **Thomson Reuters**: Provides extensive financial data and analytics services, incorporating time series analysis tools useful for unit root testing.
+- **Thomson Reuters**: Provides extensive financial data and analytics services, incorporating [time series analysis](../t/time_series_analysis.md) tools useful for [unit root testing](../u/unit_root_testing.md).
   - [Thomson Reuters](https://www.refinitiv.com/en)
 
 ### Algorithmic Trading Platforms
 
-- **QuantConnect**: An algorithmic trading platform that integrates with Python, allowing for extensive data analysis, including unit root testing.
+- **QuantConnect**: An [algorithmic trading](../a/algorithmic_trading.md) platform that integrates with Python, allowing for extensive data analysis, including [unit root testing](../u/unit_root_testing.md).
   - [QuantConnect](https://www.quantconnect.com/)
-- **QuantLib**: A comprehensive library for quantitative finance in C++ that can be used along with time series testing methods.
+- **QuantLib**: A comprehensive library for [quantitative finance](../q/quantitative_finance.md) in C++ that can be used along with time series testing methods.
   - [QuantLib](https://www.quantlib.org/)
 
 ## Conclusion
 
-Unit root hypothesis testing is a cornerstone of time series analysis, crucial for the integrity of financial models and trading algorithms. By ensuring that time series data is appropriately pre-processed and understood, traders and financial analysts can build robust, reliable models that adapt to the intrinsic characteristics of financial markets. The suite of tests such as ADF, PP, KPSS, among others, provides a versatile toolkit to rigorously check for unit roots, thereby enhancing the efficacy and accuracy of econometric models and trading strategies.
+Unit root [hypothesis testing](../h/hypothesis_testing.md) is a cornerstone of [time series analysis](../t/time_series_analysis.md), crucial for the integrity of financial models and [trading algorithms](../t/trading_algorithms.md). By ensuring that time series data is appropriately pre-processed and understood, traders and financial analysts can build robust, reliable models that adapt to the intrinsic characteristics of financial markets. The suite of tests such as ADF, PP, KPSS, among others, provides a versatile toolkit to rigorously check for unit roots, thereby enhancing the efficacy and accuracy of econometric models and [trading strategies](../t/trading_strategies.md).

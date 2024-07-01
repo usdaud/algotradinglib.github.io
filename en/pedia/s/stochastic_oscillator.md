@@ -1,6 +1,6 @@
 # The Stochastic Oscillator: A Detailed Exploration
 
-The Stochastic Oscillator is a widely used momentum indicator in the field of technical analysis that compares a particular closing price of a security to a range of its prices over a certain period of time. This oscillator is specifically designed to predict market trends and potential reversal points. Developed by George C. Lane in the late 1950s, it is particularly valued for its ability to identify overbought and oversold conditions. 
+The Stochastic Oscillator is a widely used momentum indicator in the field of [technical analysis](../t/technical_analysis.md) that compares a particular closing price of a security to a range of its prices over a certain period of time. This oscillator is specifically designed to predict market trends and potential reversal points. Developed by George C. Lane in the late 1950s, it is particularly valued for its ability to identify overbought and oversold conditions. 
 
 ### Understanding the Stochastic Oscillator
 
@@ -32,7 +32,7 @@ These components oscillate between values of 0 and 100. The most common settings
 - **Buy Signal**: Typically generated when the %K line crosses above the %D line in the oversold region.
 - **Sell Signal**: Typically generated when the %K line crosses below the %D line in the overbought region.
 
-One of the oscillator's strengths is its ability to preempt price changes. By using both %K and %D lines, traders can derive a wide array of trading signals.
+One of the oscillator's strengths is its ability to preempt price changes. By using both %K and %D lines, traders can derive a wide array of [trading signals](../t/trading_signals.md).
 
 ### Practical Application
 
@@ -40,7 +40,7 @@ The stochastic oscillator is particularly useful in shorter time frames, making 
 
 ### Usage in Algorithmic Trading
 
-In the realm of algorithmic trading, the stochastic oscillator can be seamlessly incorporated into automated trading systems. By coding the buying and selling conditions based on the oscillator's signals, algo-traders can exploit small price movements in high-frequency trading environments. Here’s a basic example of how one might implement this in Python using popular libraries like pandas and numpy:
+In the realm of [algorithmic trading](../a/algorithmic_trading.md), the stochastic oscillator can be seamlessly incorporated into [automated trading systems](../a/automated_trading_systems.md). By coding the buying and selling conditions based on the oscillator's signals, algo-traders can exploit small price movements in high-frequency trading environments. Here’s a basic example of how one might implement this in Python using popular libraries like pandas and numpy:
 
 ```python
 import pandas as pd
@@ -73,6 +73,6 @@ print(df[['%K', '%D']])
 
 ### Conclusion
 
-Overall, the stochastic oscillator remains a crucial tool for traders aiming to optimize entry and exit points. It offers clarity in visualizing market momentum and navigating potential market reversals. Although no single indicator is foolproof, the stochastic oscillator's robust methodology and ease of integration into different trading strategies make it an indispensable part of any trader’s toolkit. 
+Overall, the stochastic oscillator remains a crucial tool for traders aiming to optimize entry and exit points. It offers clarity in visualizing market momentum and navigating potential market reversals. Although no single indicator is foolproof, the stochastic oscillator's robust methodology and ease of integration into different [trading strategies](../t/trading_strategies.md) make it an indispensable part of any trader’s toolkit. 
 
 For a more in-depth perspective or specialized stochastic oscillator tools, companies like TradingView (https://www.tradingview.com) offer comprehensive charting resources and community discussions for avid traders.

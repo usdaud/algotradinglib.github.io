@@ -6,7 +6,7 @@
 
 Unit trusts are managed by fund managers who make decisions about the portfolio based on the trust deed and the investment goals. The value of the unit trust is determined by the net asset value (NAV) of its holdings, and it fluctuates based on the performance of the underlying securities.
 
-When it comes to **algorithmic trading (algo trading)**, unit trusts can leverage sophisticated algorithms to manage their portfolios. Algorithms can assist in executing trades at optimal prices, managing risks, and maintaining the portfolio's desired asset allocation. This approach can increase efficiency and potentially enhance returns by capitalizing on market opportunities and minimizing human error.
+When it comes to **[algorithmic trading](../a/algorithmic_trading.md) (algo trading)**, unit trusts can leverage sophisticated algorithms to manage their portfolios. Algorithms can assist in executing trades at optimal prices, managing risks, and maintaining the portfolio's desired [asset allocation](../a/asset_allocation.md). This approach can increase efficiency and potentially enhance returns by capitalizing on market opportunities and minimizing human error.
 
 ## Structure and Mechanics of Unit Trusts
 
@@ -26,15 +26,15 @@ The unit trust's NAV is calculated by subtracting the trust's liabilities from i
 
 ### Integration of Algorithms
 
-Unit trusts have increasingly integrated algorithmic trading to manage their portfolios. The integration primarily focuses on two areas:
+Unit trusts have increasingly integrated [algorithmic trading](../a/algorithmic_trading.md) to manage their portfolios. The integration primarily focuses on two areas:
 
 1. **Trade Execution**: Algorithms can execute trades quickly and efficiently, which is critical in volatile markets. They can split large orders into smaller parts to minimize market impact or use real-time data to optimize the timing and price of trades.
 
-2. **Portfolio Management**: Algorithms can continuously monitor the portfolio's performance and make adjustments to meet the trust's investment objectives. This includes rebalancing the portfolio, managing liquidity, and controlling exposure to various risks.
+2. **[Portfolio Management](../p/portfolio_management.md)**: Algorithms can continuously monitor the portfolio's performance and make adjustments to meet the trust's investment objectives. This includes rebalancing the portfolio, managing liquidity, and controlling exposure to various risks.
 
 ### Advantages of Algo Trading in Unit Trusts
 
-There are several advantages to incorporating algorithmic trading in unit trusts:
+There are several advantages to incorporating [algorithmic trading](../a/algorithmic_trading.md) in unit trusts:
 
 1. **Efficiency**: Algorithms can process large amounts of data and execute trades faster than human traders, ensuring that opportunities are not missed.
 
@@ -42,11 +42,11 @@ There are several advantages to incorporating algorithmic trading in unit trusts
 
 3. **Consistency**: Algorithms follow predefined rules and strategies, ensuring consistent application without emotional biases.
 
-4. **Risk Management**: Algorithms can identify and react to risk factors in real-time, allowing for proactive risk management strategies.
+4. **[Risk Management](../r/risk_management.md)**: Algorithms can identify and react to risk factors in real-time, allowing for proactive [risk management](../r/risk_management.md) strategies.
 
 ### Case Studies
 
-Several unit trusts have successfully adopted algorithmic trading strategies. For example:
+Several unit trusts have successfully adopted [algorithmic trading](../a/algorithmic_trading.md) strategies. For example:
 
 - **Vanguard**: Vanguard employs sophisticated algorithms to assist in managing its ETFs and mutual funds, enhancing efficiency and ensuring optimal trade execution. Learn more about their approach on their [website](https://investor.vanguard.com/etf/).
 
@@ -60,13 +60,13 @@ While the benefits of using algorithms in unit trusts are significant, there are
 
 2. **Regulatory Compliance**: Algorithms must comply with financial regulations and market rules, which require ongoing monitoring and updates.
 
-3. **Market Risks**: While algorithms can manage risks, they are not immune to market anomalies and can still be affected by unexpected events and market conditions.
+3. **Market Risks**: While algorithms can manage risks, they are not immune to [market anomalies](../m/market_anomalies.md) and can still be affected by unexpected events and market conditions.
 
 4. **Model Risk**: Algorithms are only as good as the models and assumptions they are built on. Flawed models can lead to significant losses.
 
 ## Conclusion
 
-Unit trusts benefit from the integration of algorithmic trading, which enhances their ability to manage portfolios efficiently and effectively. By leveraging sophisticated algorithms, unit trusts can improve trade execution, manage risks proactively, and uphold consistent investment strategies. However, the adoption of algo trading must be accompanied by a careful consideration of technical, regulatory, and market risks to maximize its potential benefits.
+Unit trusts benefit from the integration of [algorithmic trading](../a/algorithmic_trading.md), which enhances their ability to manage portfolios efficiently and effectively. By leveraging sophisticated algorithms, unit trusts can improve trade execution, manage risks proactively, and uphold consistent investment strategies. However, the adoption of algo trading must be accompanied by a careful consideration of technical, regulatory, and market risks to maximize its potential benefits.
 
 For further inquiries and detailed information, one can explore the specific approaches and technological advancements undertaken by leading investment firms like Vanguard and BlackRock, as provided in their respective links.
 

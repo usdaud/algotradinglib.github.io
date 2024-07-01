@@ -1,7 +1,7 @@
 ## Unlisted Stock Market
 
 ### Introduction
-The unlisted stock market pertains to the realm of securities that are not available on formal exchanges such as the New York Stock Exchange (NYSE) or NASDAQ. This market plays a crucial role in the financial ecosystem, providing opportunities for businesses to raise capital and for investors to diversify their portfolios. Unlisted stocks are often traded in over-the-counter (OTC) markets or through alternative trading systems (ATS).
+The unlisted stock market pertains to the realm of securities that are not available on formal exchanges such as the New York Stock Exchange (NYSE) or NASDAQ. This market plays a crucial role in the financial ecosystem, providing opportunities for businesses to raise capital and for investors to diversify their portfolios. Unlisted stocks are often traded in over-the-counter (OTC) markets or through alternative [trading systems](../t/trading_systems.md) (ATS).
 
 ### Characteristics of Unlisted Stocks
 Unlisted stocks differ from their listed counterparts in several distinct ways:
@@ -11,12 +11,12 @@ Unlisted stocks differ from their listed counterparts in several distinct ways:
 4. **Valuation**: Valuing unlisted stocks can be more complex due to the lack of readily available market prices and comprehensive financial data.
 
 ### Methods of Trading Unlisted Stocks
-Unlisted stocks can be traded through two primary methods: over-the-counter (OTC) markets and alternative trading systems (ATS).
+Unlisted stocks can be traded through two primary methods: over-the-counter (OTC) markets and alternative [trading systems](../t/trading_systems.md) (ATS).
 
 #### Over-The-Counter (OTC) Markets
 OTC markets involve the trading of securities directly between parties without a central exchange. Examples of OTC markets include:
 - **OTC Bulletin Board (OTCBB)**: A regulated quotation medium for mainly small or microcap companies, which are subject to more regulations than those on the Pink Sheets.
-- **Pink Sheets**: This platform lists a wide array of securities including penny stocks. Companies listed on Pink Sheets are not required to meet any specific standards or file any specific reports, making it riskier for investors.
+- **Pink Sheets**: This platform lists a wide array of securities including [penny stocks](../p/penny_stocks.md). Companies listed on Pink Sheets are not required to meet any specific standards or file any specific reports, making it riskier for investors.
 
 #### Alternative Trading Systems (ATS)
 ATS are non-exchange trading venues that match buyers and sellers of securities. They are regulated as broker-dealers. One significant example is the **Electronic Communication Network (ECN)**, which provides an automated system for larger investors to trade unlisted stocks.
@@ -35,13 +35,13 @@ ATS are non-exchange trading venues that match buyers and sellers of securities.
 ### Risks and Considerations
 Investing in unlisted stocks comes with unique risks:
 - **Lack of Information**: Limited access to financial and operational information increases the difficulty of making informed investment decisions.
-- **Sales Restrictions**: Shares in unlisted companies often have restrictions on transfer and sale, limiting secondary market liquidity.
+- **Sales Restrictions**: Shares in [unlisted companies](../u/unlisted_companies.md) often have restrictions on transfer and sale, limiting secondary market liquidity.
 - **Pricing Inefficiencies**: Due to infrequent trading and lower transparency, prices can be more volatile and inefficient.
 
 ### Advantages
 Despite the risks, unlisted stocks offer several advantages:
 - **Growth Potential**: Investing in unlisted stocks can provide opportunities to be part of early-stage companies with significant growth potential.
-- **Diversification**: Including unlisted stocks in a portfolio can offer diversification benefits, particularly as these stocks might not correlate closely with listed securities.
+- **Diversification**: Including unlisted stocks in a portfolio can offer [diversification benefits](../d/diversification_benefits.md), particularly as these stocks might not correlate closely with listed securities.
 - **Access to Startups**: Investors can access high-potential startups and small-to-medium-sized enterprises that are not yet ready or willing to go public.
 
 ### Regulatory Environment

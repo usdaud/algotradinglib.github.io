@@ -12,7 +12,7 @@ The mechanical process of QE generally follows these steps:
 1. **Asset Purchases**: The central bank buys government bonds or other financial assets from commercial banks and other financial institutions.
 2. **Balance Sheet Expansion**: These purchases increase the central bank's balance sheet and inject money into the banking system.
 3. **Interest Rate Reduction**: By increasing the demand for long-term securities, QE lowers their yield, thus reducing long-term interest rates.
-4. **Portfolio Rebalancing**: With lower returns from safe assets, investors are driven to invest in higher-risk assets like stocks, corporate bonds, and real estate.
+4. **[Portfolio Rebalancing](../p/portfolio_rebalancing.md)**: With lower returns from safe assets, investors are driven to invest in higher-risk assets like stocks, corporate bonds, and real estate.
 5. **Credit Easing**: The increased liquidity and lower interest rates are intended to make borrowing cheaper for businesses and individuals, encouraging spending and investment.
 
 ### Objectives of Quantitative Easing
@@ -70,7 +70,7 @@ Quantitative Easing has a profound impact not only on domestic markets but also 
 
 With the experience gained from past implementations, central banks have refined their QE strategies, focusing on transparency, forward guidance, and the balance between various asset types. Futures strategies may include:
 - **Collaboration with Fiscal Policy**: Combining monetary policy with fiscal measures to achieve more robust economic recovery.
-- **Targeted QE**: Designing QE to benefit specific sectors, such as green bonds to support environmental initiatives.
+- **Targeted QE**: Designing QE to benefit specific sectors, such as [green bonds](../g/green_bonds.md) to support environmental initiatives.
 
 As global economies navigate post-pandemic recovery, QE remains an essential tool in the monetary policy arsenal. Policymakers continue to explore its limits, effectiveness, and long-term implications for sustainable economic growth.
 

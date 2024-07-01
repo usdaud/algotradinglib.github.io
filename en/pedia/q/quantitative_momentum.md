@@ -6,15 +6,15 @@ Quantitative Momentum is an investment strategy that seeks to capitalize on the 
 
 ### Core Principles
 
-The core principles of Quantitative Momentum investing involve systematic data analysis, backtesting, and disciplined execution. The following are the essential principles that underpin this approach:
+The core principles of Quantitative Momentum investing involve systematic data analysis, [backtesting](../b/backtesting.md), and disciplined execution. The following are the essential principles that underpin this approach:
 
 1. **Empirical Evidence**: The strategy is grounded in extensive empirical research, suggesting that stocks that have performed well in the past will continue to outperform. 
 
-2. **Factor Models**: Quantitative Momentum often utilizes factor models, such as the Fama-French three-factor model, incorporating factors like size, value, and momentum to construct portfolios.
+2. **[Factor Models](../f/factor_models.md)**: Quantitative Momentum often utilizes [factor models](../f/factor_models.md), such as the Fama-French three-factor model, incorporating factors like size, value, and momentum to construct portfolios.
 
-3. **Risk Management**: Effective risk control mechanisms, such as stop-loss orders and diversification, are crucial to manage potential drawdowns.
+3. **[Risk Management](../r/risk_management.md)**: Effective risk control mechanisms, such as [stop-loss orders](../s/stop-loss_orders.md) and diversification, are crucial to manage potential drawdowns.
 
-4. **Automation and Algorithms**: Given the quantitative nature, automated trading systems and algorithms are deployed to execute trades efficiently.
+4. **Automation and Algorithms**: Given the quantitative nature, [automated trading systems](../a/automated_trading_systems.md) and algorithms are deployed to execute trades efficiently.
 
 ### Data and Metrics
 
@@ -48,9 +48,9 @@ Constructing a Quantitative Momentum model involves several steps:
 
 3. **Ranking**: Rank the filtered stocks according to their momentum metrics.
 
-4. **Portfolio Construction**: Select the top-ranked stocks while ensuring proper diversification and risk management.
+4. **Portfolio Construction**: Select the top-ranked stocks while ensuring proper diversification and [risk management](../r/risk_management.md).
 
-5. **Backtesting**: Test the strategy on historical data to evaluate its performance and refine parameters.
+5. **[Backtesting](../b/backtesting.md)**: Test the strategy on historical data to evaluate its performance and refine parameters.
 
 ### Implementation
 
@@ -64,7 +64,7 @@ Implementing a Quantitative Momentum strategy involves:
 
 ### Case Studies and Examples
 
-Several investment firms and hedge funds have successfully implemented Quantitative Momentum strategies. 
+Several investment firms and hedge funds have successfully implemented [Quantitative Momentum strategies](../q/quantitative_momentum_strategies.md). 
 
 - **AQR Capital Management**: A leading global investment management firm that uses quantitative techniques in its investment strategies, including momentum. Their momentum-focused strategy can be explored at [AQR CM](https://www.aqr.com).
 
@@ -84,7 +84,7 @@ Several investment firms and hedge funds have successfully implemented Quantitat
 
 - **Drawdowns**: Momentum strategies can suffer significant drawdowns during market reversals.
 
-- **Data Overfitting**: Backtesting may lead to overfitting, where models perform well on historical data but poorly in real scenarios.
+- **Data Overfitting**: [Backtesting](../b/backtesting.md) may lead to overfitting, where models perform well on historical data but poorly in real scenarios.
 
 - **Market Impact**: High-frequency trading based on momentum can impact market prices, potentially reducing strategy effectiveness.
 
@@ -94,11 +94,11 @@ The field of Quantitative Momentum is continuously evolving with advancements in
 
 - **Artificial Intelligence (AI) and Machine Learning**: Integrating AI and machine learning to enhance model accuracy and adaptability.
   
-- **Alternative Data**: Leveraging alternative data sources, such as social media sentiment and economic indicators, to refine momentum models.
+- **[Alternative Data](../a/alternative_data.md)**: Leveraging [alternative data](../a/alternative_data.md) sources, such as [social media sentiment](../s/social_media_sentiment.md) and [economic indicators](../e/economic_indicators.md), to refine momentum models.
 
-- **Global Markets**: Expanding the application of Quantitative Momentum strategies across global markets to uncover new opportunities.
+- **Global Markets**: Expanding the application of [Quantitative Momentum strategies](../q/quantitative_momentum_strategies.md) across global markets to uncover new opportunities.
 
 ### Conclusion
 
-Quantitative Momentum represents a systematic and data-driven approach to investing, leveraging historical price patterns to predict future performance. By utilizing advanced statistical techniques and automation, investors can potentially achieve superior returns while managing risks. As technology continues to advance, Quantitative Momentum strategies will likely become even more sophisticated, offering enhanced predictive power and efficiency.
+Quantitative Momentum represents a systematic and data-driven approach to investing, leveraging [historical price patterns](../h/historical_price_patterns.md) to predict future performance. By utilizing advanced statistical techniques and automation, investors can potentially achieve superior returns while managing risks. As technology continues to advance, [Quantitative Momentum strategies](../q/quantitative_momentum_strategies.md) will likely become even more sophisticated, offering enhanced predictive power and efficiency.
 

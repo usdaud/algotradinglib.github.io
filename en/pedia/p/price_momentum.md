@@ -1,17 +1,17 @@
 # Price Momentum in Algorithmic Trading
 =====================
 
-Price momentum is a crucial concept in the world of financial markets, particularly in the realm of algorithmic trading. It is one of the fundamental principles that traders and quantitative analysts use to develop strategies aimed at capitalizing on market inefficiencies. This document delves into the intricacies of price momentum, examining its theoretical foundations, practical applications, and the role it plays in algorithmic trading. 
+Price momentum is a crucial concept in the world of financial markets, particularly in the realm of [algorithmic trading](../a/algorithmic_trading.md). It is one of the fundamental principles that traders and quantitative analysts use to develop strategies aimed at capitalizing on market inefficiencies. This document delves into the intricacies of price momentum, examining its theoretical foundations, practical applications, and the role it plays in [algorithmic trading](../a/algorithmic_trading.md). 
 
 ### Overview
 
-Price momentum refers to the empirical observation that securities that have performed well in the past tend to continue performing well in the future, while those that have performed poorly tend to underperform. This concept is derived from behavioral finance, which suggests that investors often exhibit herd behavior, causing trends in stock prices to persist over time.
+Price momentum refers to the empirical observation that securities that have performed well in the past tend to continue performing well in the future, while those that have performed poorly tend to underperform. This concept is derived from [behavioral finance](../b/behavioral_finance.md), which suggests that investors often exhibit herd behavior, causing trends in stock prices to persist over time.
 
 ### Theoretical Foundations
 
 The principle of price momentum can be traced back to the early work of **Eugene Fama** and **Kenneth French**, and later expanded upon by **Narasimhan Jegadeesh** and **Sheridan Titman**. They discovered that portfolios composed of stocks that had performed well over the past three to twelve months continued to outperform for several months into the future.
 
-**Behavioral Theories**: Behavioral finance offers several explanations for the persistence of price momentum:
+**Behavioral Theories**: [Behavioral finance](../b/behavioral_finance.md) offers several explanations for the persistence of price momentum:
 
 - *Herd Behavior*: Investors tend to follow the actions of others, leading to trends in stock prices.
 - *Underreaction*: Investors often underreact to new information, causing prices to adjust gradually.
@@ -21,33 +21,33 @@ The principle of price momentum can be traced back to the early work of **Eugene
 
 ### Quantitative Models
 
-Quantitative models incorporate price momentum by developing metrics and signals that can predict future price movements based on past performance. Common approaches include:
+[Quantitative models](../q/quantitative_models.md) incorporate price momentum by developing metrics and signals that can predict future price movements based on past performance. Common approaches include:
 
-- **Moving Averages**: Simple and exponential moving averages (SMA and EMA) are used to smooth out price data and generate trading signals.
+- **Moving Averages**: Simple and exponential moving averages (SMA and EMA) are used to smooth out price data and generate [trading signals](../t/trading_signals.md).
   - *Example*: A typical crossover strategy might buy stocks when the short-term moving average crosses above the long-term moving average and sell when the opposite occurs.
 
 - **Relative Strength Index (RSI)**: Developed by J. Welles Wilder, RSI measures the speed and change of price movements. A stock is considered overbought when the RSI is above 70 and oversold when below 30.
   - *Application*: Traders might look for divergence between the RSI and price to anticipate reversals.
 
-- **Momentum Indicators**: These include rate of change (ROC), MOM (momentum), and others that measure the velocity of price changes.
+- **[Momentum Indicators](../m/momentum_indicators.md)**: These include rate of change (ROC), MOM (momentum), and others that measure the velocity of price changes.
 
 ### Practical Applications
 
-Algorithmic trading harnesses these quantitative models to create trading strategies that execute trades based on price momentum. These strategies often fall into one of the following categories:
+[Algorithmic trading](../a/algorithmic_trading.md) harnesses these [quantitative models](../q/quantitative_models.md) to create [trading strategies](../t/trading_strategies.md) that execute trades based on price momentum. These strategies often fall into one of the following categories:
 
-- **Trend Following**: These strategies capitalize on sustained trends in price movements. They involve buying securities that are trending upwards and selling those that are trending downwards. 
-  - *Example*: Managed futures funds often employ trend-following strategies to achieve diversification and potentially high returns.
+- **[Trend Following](../t/trend_following.md)**: These strategies capitalize on sustained trends in price movements. They involve buying securities that are trending upwards and selling those that are trending downwards. 
+  - *Example*: [Managed futures](../m/managed_futures.md) funds often employ trend-following strategies to achieve diversification and potentially high returns.
 
-- **Mean Reversion**: Contrary to trend following, mean reversion strategies assume that prices will revert to their historical averages. These strategies involve selling securities that have recently increased in price and buying those that have decreased.
-  - *Example*: Pairs trading, where two correlated stocks are traded based on the assumption that their price spread will revert to the mean.
+- **[Mean Reversion](../m/mean_reversion.md)**: Contrary to [trend following](../t/trend_following.md), [mean reversion](../m/mean_reversion.md) strategies assume that prices will revert to their historical averages. These strategies involve selling securities that have recently increased in price and buying those that have decreased.
+  - *Example*: [Pairs trading](../p/pairs_trading.md), where two correlated stocks are traded based on the assumption that their price spread will revert to the mean.
 
 ### Case Studies
 
 #### AQR Capital Management
-[AQR Capital Management](https://www.aqr.com) is a prominent investment management firm that extensively utilizes quantitative research in its trading strategies. AQR's Momentum Fund specifically targets stocks with strong price momentum, aiming to capture returns associated with this anomaly.
+[AQR Capital Management](https://www.aqr.com) is a prominent investment management firm that extensively utilizes [quantitative research](../q/quantitative_research.md) in its [trading strategies](../t/trading_strategies.md). AQR's Momentum Fund specifically targets stocks with strong price momentum, aiming to capture returns associated with this anomaly.
 
 #### Renaissance Technologies
-Renaissance Technologies, founded by Jim Simons, is another leader in the field of quantitative trading. Their Medallion Fund is famously known for using complex algorithms that include momentum strategies among various other quantitative approaches.
+Renaissance Technologies, founded by Jim Simons, is another leader in the field of [quantitative trading](../q/quantitative_trading.md). Their Medallion Fund is famously known for using complex algorithms that include momentum strategies among various other [quantitative approaches](../q/quantitative_approaches.md).
 
 ### Risk Management
 
@@ -55,18 +55,18 @@ Like all investment strategies, those based on price momentum are not without ri
 
 - **Market Reversals**: Rapid changes in market conditions can lead to abrupt reversals, causing significant losses for momentum-based strategies.
 - **Overfitting**: The reliance on historical data can lead to models that perform well in sample but poorly out of sample.
-- **Liquidity Risk**: Momentum strategies often require frequent trading, which can lead to high transaction costs and liquidity issues, particularly in less liquid markets.
+- **[Liquidity Risk](../l/liquidity_risk.md)**: Momentum strategies often require frequent trading, which can lead to high transaction costs and liquidity issues, particularly in less liquid markets.
 
 ### Enhancements and Innovations
 
 Innovations in data science and machine learning have opened new avenues for enhancing momentum strategies:
 
-- **Natural Language Processing (NLP)**: Analyzing news and social media sentiment to enhance momentum signals.
+- **Natural Language Processing (NLP)**: Analyzing news and [social media sentiment](../s/social_media_sentiment.md) to enhance momentum signals.
 - **Deep Learning**: Utilizing neural networks to detect complex patterns in price data that are not visible through traditional methods.
 
 ### Conclusion
 
-Price momentum remains a powerful concept within algorithmic trading, offering significant opportunities for profit. However, it requires meticulous strategy design, rigorous testing, and robust risk management to harness effectively. As technology evolves, so too will the methods and models used to capture price momentum, ensuring its place as a cornerstone of quantitative finance.
+Price momentum remains a powerful concept within [algorithmic trading](../a/algorithmic_trading.md), offering significant opportunities for profit. However, it requires meticulous strategy design, rigorous testing, and robust [risk management](../r/risk_management.md) to harness effectively. As technology evolves, so too will the methods and models used to capture price momentum, ensuring its place as a cornerstone of [quantitative finance](../q/quantitative_finance.md).
 
 ### References
 

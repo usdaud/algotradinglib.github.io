@@ -44,7 +44,7 @@ The MFI is typically calculated over a 14-day period and ranges between 0 and 10
 When the MFI crosses below 20, it indicates that the security is potentially oversold and could be a buying opportunity. Conversely, when the MFI exceeds 80, the security could be overbought and present a selling opportunity. This concept can be especially useful for swing traders.
 
 #### Divergences
-Detected divergences between the MFI and the price can serve as a signal for traders. For instance, if a stock price is reaching higher highs but the MFI is not, this bearish divergence might suggest that the upward momentum could be weakening. 
+Detected divergences between the MFI and the price can serve as a signal for traders. For instance, if a stock price is reaching higher highs but the MFI is not, this [bearish divergence](../b/bearish_divergence.md) might suggest that the upward momentum could be weakening. 
 
 ### Example Calculation
 
@@ -106,7 +106,7 @@ Using the MFI, traders can compare multiple securities to identify relative stre
 
 ### MFI in Algorithmic Trading
 
-In algorithmic trading, the MFI can be incorporated into trading algorithms to automate buy or sell decisions based on predefined threshold levels. Here are some simplified protocol steps:
+In [algorithmic trading](../a/algorithmic_trading.md), the MFI can be incorporated into [trading algorithms](../t/trading_algorithms.md) to automate buy or sell decisions based on predefined threshold levels. Here are some simplified protocol steps:
 
 - **Data Input:** Fetch daily high, low, close, and volume data for the target security.
 - **MFI Calculation:** Implement the MFI calculation formula within the trading system.
@@ -117,7 +117,7 @@ In algorithmic trading, the MFI can be incorporated into trading algorithms to a
   elif MFI > 80:
       Sell()
   ```
-- **Backtesting:** Test the strategy using historical data to validate its effectiveness.
+- **[Backtesting](../b/backtesting.md):** Test the strategy using historical data to validate its effectiveness.
 
 ### Popular Platforms and Tools
 
@@ -126,7 +126,7 @@ Several trading platforms and tools offer built-in MFI indicators, such as:
 - **MetaTrader 4 & 5:** Popular choices among forex traders that offer MFI as a default indicator.
 - **TradingView:** An online trading platform known for its user-friendly interface and integrated MFI indicator.
 - **Thinkorswim by TD Ameritrade:** A powerful trading platform that includes MFI indicators.
-- **Python Libraries:** Libraries like `ta-lib` can be used for calculating MFI within custom trading algorithms.
+- **Python Libraries:** Libraries like `ta-lib` can be used for calculating MFI within custom [trading algorithms](../t/trading_algorithms.md).
 
 ### References and Resources
 
@@ -136,4 +136,4 @@ Several trading platforms and tools offer built-in MFI indicators, such as:
 
 ### Conclusion
 
-The Money Flow Index (MFI) is a compelling tool that blends price and volume to give traders insights into the strength of market movements. Its application in identifying overbought or oversold conditions, along with potential divergences, makes it a valuable addition to any trader’s toolkit. Be it for manual or algorithmic trading, understanding and utilizing the MFI can help in making more informed and potentially profitable trading decisions.
+The Money Flow Index (MFI) is a compelling tool that blends price and volume to give traders insights into the strength of market movements. Its application in identifying overbought or oversold conditions, along with potential divergences, makes it a valuable addition to any trader’s toolkit. Be it for manual or [algorithmic trading](../a/algorithmic_trading.md), understanding and utilizing the MFI can help in making more informed and potentially profitable trading decisions.

@@ -61,7 +61,7 @@ Just like in any investment strategy, diversification helps in spreading risk. A
 VC funds often take board seats and remain actively involved in the strategic decision-making processes of their portfolio companies. This enables better oversight and quicker corrective actions when necessary.
 
 ### Structured Exits
-Planning structured exits, whether through IPOs, mergers, or acquisitions, is integral to venture capital strategies. Timely and well-structured exits ensure liquidity and returns on investment for the fund.
+Planning structured exits, whether through IPOs, mergers, or acquisitions, is integral to [venture capital strategies](../v/venture_capital_strategies.md). Timely and well-structured exits ensure liquidity and returns on investment for the fund.
 
 ### Due Diligence
 Rigorous due diligence procedures, involving deep dives into financials, market research, and legal checks, reduce investment risks. Due diligence helps in validating the viability and suitability of potential investments.
@@ -119,4 +119,4 @@ With advancements in genomics, personalized medicine, and telehealth, biotech an
 
 Venture capital is an engine for economic growth and innovation, providing essential funding and resources to startups that have the potential to grow into industry leaders. The strategies employed by VC funds are crucial for both mitigating risks and maximizing returns. From sector specialization and geographical focus to active involvement and rigorous due diligence, these strategies provide a structured approach to venture capital investing.
 
-As the industry evolves, emerging trends such as impact investing, AI integration, and a focus on disruptive technologies will continue to shape venture capital strategies. By understanding and leveraging these strategies, venture capitalists can better navigate the complexities of investing in high-growth potential startups, thereby driving innovation and economic progress globally.
+As the industry evolves, emerging trends such as impact investing, AI integration, and a focus on disruptive technologies will continue to shape [venture capital strategies](../v/venture_capital_strategies.md). By understanding and leveraging these strategies, venture capitalists can better navigate the complexities of investing in high-growth potential startups, thereby driving innovation and economic progress globally.

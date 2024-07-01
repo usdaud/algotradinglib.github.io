@@ -1,13 +1,13 @@
 # Options Delta Hedging
 
-Options Delta Hedging is a fundamental strategy used in options trading to manage and mitigate the risk associated with price movements in the underlying asset. It is primarily concerned with neutralizing the delta, which measures the sensitivity of the option's price to changes in the price of the underlying asset. By creating a delta-neutral portfolio, traders can insulate themselves from small price fluctuations, thus managing the risk effectively.
+Options [Delta Hedging](../d/delta_hedging.md) is a fundamental strategy used in options trading to manage and mitigate the risk associated with price movements in the underlying asset. It is primarily concerned with neutralizing the delta, which measures the sensitivity of the option's price to changes in the price of the underlying asset. By creating a delta-neutral portfolio, traders can insulate themselves from small price fluctuations, thus managing the risk effectively.
 
 ## Understanding Delta
 
 Delta (Δ) is one of the key Greeks used in options trading. It represents the rate of change of the option's price in relation to the price change of the underlying asset. For example, a delta of 0.5 implies that if the underlying asset increases in price by $1, the price of the option will increase by $0.50.
 
 - **Call Options**: Delta ranges from 0 to 1.
-- **Put Options**: Delta ranges from -1 to 0.
+- **[Put Options](../p/put_options.md)**: Delta ranges from -1 to 0.
 
 Delta can also be viewed as the equivalent of holding a certain quantity of the underlying asset. For instance, an option with a delta of 0.5 can be thought of as being equivalent to holding 0.5 shares of the underlying asset.
 
@@ -39,25 +39,25 @@ As the price of the underlying asset and the option's delta change, you need to 
 
 ### Delta Decay
 
-Delta decays over time, as the option approaches expiration. This is especially prominent for out-of-the-money options.
+Delta decays over time, as the option approaches expiration. This is especially prominent for [out-of-the-money options](../o/out-of-the-money_options.md).
 
 ## Real-world Application
 
 ### Institutions and Professional Traders
 
-Professional traders, such as market makers and hedge funds, frequently engage in delta hedging to manage large portfolios of options effectively. It enables them to maintain liquidity and mitigate risk in volatile markets.
+Professional traders, such as market makers and hedge funds, frequently engage in [delta hedging](../d/delta_hedging.md) to manage large portfolios of options effectively. It enables them to maintain liquidity and mitigate risk in volatile markets.
 
 ### Algorithmic Trading
 
-With the advent of high-frequency trading (HFT) and sophisticated algorithms, delta hedging can be automated. Algorithmic trading platforms can execute delta-neutral strategies in milliseconds, taking advantage of market inefficiencies and reducing human error.
+With the advent of high-frequency trading (HFT) and sophisticated algorithms, [delta hedging](../d/delta_hedging.md) can be automated. [Algorithmic trading](../a/algorithmic_trading.md) platforms can execute delta-neutral strategies in milliseconds, taking advantage of market inefficiencies and reducing human error.
 
-- **Automated Platforms**: Companies like [QuantConnect](https://www.quantconnect.com/) and [AlgoTrader](https://www.algotrader.com/) provide platforms for developing and deploying algorithmic trading strategies, including delta hedging.
+- **Automated Platforms**: Companies like [QuantConnect](https://www.quantconnect.com/) and [AlgoTrader](https://www.algotrader.com/) provide platforms for developing and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies, including [delta hedging](../d/delta_hedging.md).
 
 ## Benefits and Challenges
 
 ### Benefits
 
-1. **Risk Management**: Reduces exposure to the underlying asset's price movements.
+1. **[Risk Management](../r/risk_management.md)**: Reduces exposure to the underlying asset's price movements.
 2. **Liquidity**: Maintains liquidity in the options market.
 3. **Profit Potential**: Can still realize profits from time decay (theta) and volatility changes (vega).
 
@@ -69,6 +69,6 @@ With the advent of high-frequency trading (HFT) and sophisticated algorithms, de
 
 ## Conclusion
 
-Options Delta Hedging is an essential strategy for managing risk in options trading. By achieving a delta-neutral position, traders can insulate themselves from small price movements in the underlying asset. While it offers significant benefits, such as reduced risk and improved liquidity, it also presents challenges like high transaction costs and the need for continuous rebalancing. In modern trading, advanced algorithms and automated platforms have made delta hedging more accessible, enabling traders to execute these strategies with greater precision and speed.
+Options [Delta Hedging](../d/delta_hedging.md) is an essential strategy for managing risk in options trading. By achieving a delta-neutral position, traders can insulate themselves from small price movements in the underlying asset. While it offers significant benefits, such as reduced risk and improved liquidity, it also presents challenges like high transaction costs and the need for continuous rebalancing. In modern trading, advanced algorithms and automated platforms have made [delta hedging](../d/delta_hedging.md) more accessible, enabling traders to execute these strategies with greater precision and speed.
 
-For those looking to implement Delta Hedging strategies programmatically, platforms like [QuantConnect](https://www.quantconnect.com/) and [AlgoTrader](https://www.algotrader.com/) offer the necessary tools and infrastructure.
+For those looking to implement [Delta Hedging](../d/delta_hedging.md) strategies programmatically, platforms like [QuantConnect](https://www.quantconnect.com/) and [AlgoTrader](https://www.algotrader.com/) offer the necessary tools and infrastructure.

@@ -13,8 +13,8 @@ Momentum crashes typically occur due to:
 3. **Liquidity Constraints**: During periods of financial stress, liquidating large positions becomes challenging, exacerbating price declines.
 4. **Behavioral Factors**: Herd behavior and overreaction among investors can amplify the speed and magnitude of the crash.
 
-**Risk Management in Momentum Strategies**
-To mitigate the impact of momentum crashes, traders and portfolio managers can employ various risk management techniques:
+**[Risk Management](../r/risk_management.md) in Momentum Strategies**
+To mitigate the impact of momentum crashes, traders and portfolio managers can employ various [risk management](../r/risk_management.md) techniques:
 1. **Diversification**: Combining momentum strategies with other investment approaches can reduce dependency on any single strategy's performance.
 2. **Dynamic Allocation**: Adjusting allocation to momentum strategies based on market conditions or signals can help manage risk.
 3. **Volatility Control**: Implementing volatility scaling where the exposure to momentum strategies is reduced during high volatility periods.
@@ -24,22 +24,22 @@ To mitigate the impact of momentum crashes, traders and portfolio managers can e
 2. **Post-Dotcom Bubble**: Similar phenomena occurred after the bursting of the dotcom bubble in the early 2000s, where tech-related momentum strategies faced significant drawdowns.
 
 **Contributing Factors from an Algorithmic Perspective**
-In algorithmic trading, momentum strategies are often implemented using quantitative models that analyze price trends. However, these models may fail to account for:
+In [algorithmic trading](../a/algorithmic_trading.md), momentum strategies are often implemented using [quantitative models](../q/quantitative_models.md) that analyze price trends. However, these models may fail to account for:
 1. **Model Risk**: Inaccurate assumptions or overfitting can lead to poor performance during regime shifts.
-2. **Execution Risk**: During crashes, the actual execution prices can deviate substantially from model predictions due to market impact and liquidity issues.
+2. **[Execution Risk](../e/execution_risk.md)**: During crashes, the actual execution prices can deviate substantially from model predictions due to market impact and liquidity issues.
 3. **Parameter Sensitivity**: Momentum models are often sensitive to parameter choices like look-back periods and rebalancing frequencies, leading to unpredictability in different market conditions.
 
 **Regulatory and Structural Influences**
 Regulatory changes and market structure developments can also impact momentum crashes:
-1. **High-Frequency Trading (HFT)**: The rise of HFT can exacerbate momentum crashes as rapid trading algorithms react to market orders, increasing price volatility.
-2. **Market Microstructure**: Changes in market-making rules and the presence of off-exchange trading can contribute to liquidity issues, amplifying momentum crashes.
+1. **High-Frequency Trading (HFT)**: The rise of HFT can exacerbate momentum crashes as rapid [trading algorithms](../t/trading_algorithms.md) react to market orders, increasing price volatility.
+2. **[Market Microstructure](../m/market_microstructure.md)**: Changes in market-making rules and the presence of [off-exchange trading](../o/off-exchange_trading.md) can contribute to liquidity issues, amplifying momentum crashes.
 3. **Regulatory Interventions**: Regulatory actions aimed at stabilizing markets during crises (e.g., short-selling bans) can unintentionally impact momentum strategies.
 
 **Lessons Learned and Future Implications**
-Investors and researchers continue to study momentum crashes to understand their underlying causes and develop better risk management practices. Some key takeaways include:
+Investors and researchers continue to study momentum crashes to understand their underlying causes and develop better [risk management](../r/risk_management.md) practices. Some key takeaways include:
 1. **Importance of Adaptability**: Strategies should be adaptable to changing market conditions to minimize the impact of sudden reversals.
 2. **Focus on Robustness**: Building more robust models that can withstand various market environments is crucial.
 3. **Awareness of Market Dynamics**: Understanding the broader market dynamics and external influences can help preempt potential crashes.
 
 **Conclusion**
-Momentum crashes, though rare, pose significant risks to momentum-based investment strategies. Recognizing the signs of building momentum bubbles, employing effective risk management techniques, and maintaining a diversified approach can help mitigate these risks. The continuous study of momentum crashes will pave the way for more resilient trading strategies in the future.
+Momentum crashes, though rare, pose significant risks to momentum-based investment strategies. Recognizing the signs of building momentum bubbles, employing effective [risk management](../r/risk_management.md) techniques, and maintaining a diversified approach can help mitigate these risks. The continuous study of momentum crashes will pave the way for more resilient [trading strategies](../t/trading_strategies.md) in the future.

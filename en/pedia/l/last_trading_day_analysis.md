@@ -6,7 +6,7 @@ The last trading day of the month, quarter, or year often behaves differently co
 
 ### Window Dressing 
 
-*Window dressing* refers to the strategy employed by fund managers to improve the appearance of a fund's performance before presenting it to investors. Managers buy high-performing stocks and sell poorly performing ones to make the portfolio look more attractive at the end of a reporting period. This buying pressure can lead to abnormal price movements and increased volatility.
+*[Window dressing](../w/window_dressing.md)* refers to the strategy employed by fund managers to improve the appearance of a fund's performance before presenting it to investors. Managers buy high-performing stocks and sell poorly performing ones to make the portfolio look more attractive at the end of a reporting period. This buying pressure can lead to abnormal price movements and increased volatility.
 
 ### Volume Spikes
 
@@ -34,7 +34,7 @@ Examine historic end-of-day patterns to identify trends that frequently occur on
 
 ### Arbitrage Opportunities
 
-Seasoned traders may look to exploit price discrepancies caused by end-of-day trading activities. For instance, a spike in buying pressure can create a temporary overvaluation, presenting an arbitrage opportunity when combined with after-hours trading insights.
+Seasoned traders may look to exploit price discrepancies caused by end-of-[day trading](../d/day_trading.md) activities. For instance, a spike in buying pressure can create a temporary overvaluation, presenting an [arbitrage](../a/arbitrage.md) opportunity when combined with after-hours trading insights.
 
 ### Scalping
 
@@ -42,7 +42,7 @@ The increased volume and volatility create an ideal environment for scalping str
 
 ### Swing Trading
 
-Swing traders can take advantage of the exaggerated movements on the last trading day to set up positions for the next trading period. By identifying stocks that have been unduly affected by window dressing, swing traders can anticipate price corrections.
+Swing traders can take advantage of the exaggerated movements on the last trading day to set up positions for the next trading period. By identifying stocks that have been unduly affected by [window dressing](../w/window_dressing.md), swing traders can anticipate price corrections.
 
 ### Hedging
 
@@ -52,21 +52,21 @@ Institutional investors might place hedging trades to protect their portfolios f
 
 ### Algorithmic Trading
 
-Algorithmic trading systems can be particularly effective on the last trading day by executing numerous small trades at high speeds, capitalizing on volatility and high volume. Algorithms can also identify statistical irregularities and patterns that human traders might miss.
+[Algorithmic trading](../a/algorithmic_trading.md) systems can be particularly effective on the last trading day by executing numerous small trades at high speeds, capitalizing on volatility and high volume. Algorithms can also identify statistical irregularities and patterns that human traders might miss.
 
 ### Order Flow Analysis
 
-Order flow analysis tools help traders understand the real-time dynamics of buying and selling pressure. By analyzing order book data, traders can identify large volumes of hidden liquidity and predict market movements more accurately.
+[Order flow analysis](../o/order_flow_analysis.md) tools help traders understand the real-time dynamics of buying and selling pressure. By analyzing order book data, traders can identify large volumes of [hidden liquidity](../h/hidden_liquidity.md) and predict market movements more accurately.
 
 ### Machine Learning
 
-Machine learning models can be trained to identify historical patterns and predict end-of-day price movements. These models can consider an array of factors including historical price data, sentiment analysis, and macroeconomic indicators.
+Machine learning models can be trained to identify historical patterns and predict end-of-day price movements. These models can consider an array of factors including historical price data, [sentiment analysis](../s/sentiment_analysis.md), and macroeconomic indicators.
 
 ## Case Studies
 
 ### December 31, 2018
 
-On the last trading day of 2018, there was significant market activity as traders reacted to a volatile year. The Dow Jones Industrial Average saw substantial price fluctuations as end-of-year window dressing took place. By examining the trading volumes, price movements, and sentiment data, one can gain a deeper understanding of the last trading day phenomena.
+On the last trading day of 2018, there was significant market activity as traders reacted to a volatile year. The Dow Jones Industrial Average saw substantial price fluctuations as end-of-year [window dressing](../w/window_dressing.md) took place. By examining the trading volumes, price movements, and sentiment data, one can gain a deeper understanding of the last trading day phenomena.
 
 ### March 29, 2019 (Brexit Uncertainty)
 
@@ -84,4 +84,4 @@ Transparency in trading activities is crucial for a fair market. Traders and inv
 
 ## Conclusion
 
-Analyzing the last trading day is essential for traders and investors aiming to optimize their strategies and capitalize on unique market conditions. By understanding the behavior, indicators, and effective strategies associated with the last trading day, participants can enhance their trading performance and better navigate the financial markets. Leveraging advanced technologies like algorithmic trading and machine learning further improves the chances of successful trades in such a complex and high-stakes environment.
+Analyzing the last trading day is essential for traders and investors aiming to optimize their strategies and capitalize on unique market conditions. By understanding the behavior, indicators, and effective strategies associated with the last trading day, participants can enhance their [trading performance](../t/trading_performance.md) and better navigate the financial markets. Leveraging advanced technologies like [algorithmic trading](../a/algorithmic_trading.md) and machine learning further improves the chances of successful trades in such a complex and high-stakes environment.

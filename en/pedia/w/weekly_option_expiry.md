@@ -1,6 +1,6 @@
 # Weekly Option Expiry in Algorithmic Trading
 
-In the realm of financial markets, options trading provides investors with avenues for hedging, speculation, and income generation. Among the various types of options available, weekly options have gained significant traction, especially within the scope of algorithmic trading. Unlike monthly options, which have a standardized expiration at the end of each month, weekly options expire every Friday. This frequent expiration provides unique opportunities and challenges for traders.
+In the realm of financial markets, options trading provides investors with avenues for hedging, speculation, and income generation. Among the various types of options available, weekly options have gained significant traction, especially within the scope of [algorithmic trading](../a/algorithmic_trading.md). Unlike monthly options, which have a standardized expiration at the end of each month, weekly options expire every Friday. This frequent expiration provides unique opportunities and challenges for traders.
 
 ## Characteristics of Weekly Options
 
@@ -14,7 +14,7 @@ Weekly options have the following distinct characteristics:
 
 ## Algorithmic Strategies for Weekly Options
 
-Algorithmic trading, or trading with the assistance of algorithms, is a prevalent approach in managing weekly options. Several trading strategies can be employed:
+[Algorithmic trading](../a/algorithmic_trading.md), or trading with the assistance of algorithms, is a prevalent approach in managing weekly options. Several [trading strategies](../t/trading_strategies.md) can be employed:
 
 ### 1. **Delta Neutral Strategies**
 
@@ -33,7 +33,7 @@ Traders can exploit the rapid time decay of weekly options:
 
 Algorithms can identify discrepancies in implied volatility and trade accordingly:
 
-- **Volatility Skew Trading**: By analyzing the volatility skew, which is the difference in implied volatility across different strike prices, traders can identify mispricings and place trades to capitalize on these.
+- **[Volatility Skew](../v/volatility_skew.md) Trading**: By analyzing the [volatility skew](../v/volatility_skew.md), which is the difference in implied volatility across different strike prices, traders can identify mispricings and place trades to capitalize on these.
 
 ### 4. **Statistical Arbitrage**
 
@@ -43,22 +43,22 @@ This strategy leverages statistical and econometric techniques to exploit correl
 
 ## Key Players in Weekly Options Algorithmic Trading
 
-Several companies and trading platforms are at the forefront of algorithmic trading in weekly options:
+Several companies and trading platforms are at the forefront of [algorithmic trading](../a/algorithmic_trading.md) in weekly options:
 
-- **QuantConnect**: A cloud-based algorithmic trading platform that allows users to design, backtest, and deploy trading algorithms. [Visit QuantConnect](https://www.quantconnect.com/)
-- **QuantInsti**: Provides professional training and certification in algorithmic trading, empowering traders with the necessary skills to navigate weekly options trading. [Visit QuantInsti](https://www.quantinsti.com/)
-- **Two Sigma**: A highly respected quantitative hedge fund known for its advanced algorithmic trading strategies. [Visit Two Sigma](https://www.twosigma.com/)
-- **Interactive Brokers**: Offers extensive tools and platforms for algorithmic trading, including options trading. [Visit Interactive Brokers](https://www.interactivebrokers.com/)
+- **QuantConnect**: A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to design, backtest, and deploy [trading algorithms](../t/trading_algorithms.md). [Visit QuantConnect](https://www.quantconnect.com/)
+- **QuantInsti**: Provides professional training and certification in [algorithmic trading](../a/algorithmic_trading.md), empowering traders with the necessary skills to navigate weekly options trading. [Visit QuantInsti](https://www.quantinsti.com/)
+- **Two Sigma**: A highly respected quantitative hedge fund known for its advanced [algorithmic trading](../a/algorithmic_trading.md) strategies. [Visit Two Sigma](https://www.twosigma.com/)
+- **Interactive Brokers**: Offers extensive tools and platforms for [algorithmic trading](../a/algorithmic_trading.md), including options trading. [Visit Interactive Brokers](https://www.interactivebrokers.com/)
 
 ## Risk Management in Weekly Options Trading
 
-Risk management is crucial when dealing with weekly options due to their volatile nature and high leverage. Important considerations include:
+[Risk management](../r/risk_management.md) is crucial when dealing with weekly options due to their volatile nature and high leverage. Important considerations include:
 
-- **Position Sizing**: Determining the appropriate position size relative to the total portfolio to minimize risk.
-- **Stop-Loss Orders**: Implementing stop-loss orders to cap potential losses.
+- **[Position Sizing](../p/position_sizing.md)**: Determining the appropriate position size relative to the total portfolio to minimize risk.
+- **[Stop-Loss Orders](../s/stop-loss_orders.md)**: Implementing [stop-loss orders](../s/stop-loss_orders.md) to cap potential losses.
 - **Hedging**: Use of other financial instruments to offset potential losses from unfavorable movements.
 - **Diversity in Strategies**: Employing a blend of different strategies to spread risk.
 
 ## Conclusion
 
-Weekly option expiry opens a realm of potential for algorithmic traders, presenting opportunities for short-term gains, volatility trading, and premium collection. With their distinct characteristics, such as rapid time decay and lower premiums, weekly options demand sophisticated risk management and a deep understanding of market dynamics. Algorithmic trading platforms and key quantitative firms are continuing to innovate, providing robust tools and strategies to navigate this complex yet lucrative space.
+Weekly option expiry opens a realm of potential for algorithmic traders, presenting opportunities for short-term gains, volatility trading, and premium collection. With their distinct characteristics, such as rapid time decay and lower premiums, weekly options demand sophisticated [risk management](../r/risk_management.md) and a deep understanding of market dynamics. [Algorithmic trading](../a/algorithmic_trading.md) platforms and key quantitative firms are continuing to innovate, providing robust tools and strategies to navigate this complex yet lucrative space.

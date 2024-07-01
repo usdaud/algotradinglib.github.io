@@ -1,8 +1,8 @@
 # Limit Order Optimization
 
-Limit order optimization is a crucial strategy in algorithmic trading that aims to enhance the performance of limit orders by optimizing their placement and execution. A limit order is an order to buy or sell a security at a specific price or better. Unlike market orders, which execute immediately at the current market price, limit orders wait until the market reaches the specified price. This type of order is favored by traders who wish to control the price they pay or receive when trading securities. 
+Limit order optimization is a crucial strategy in [algorithmic trading](../a/algorithmic_trading.md) that aims to enhance the performance of limit orders by optimizing their placement and execution. A limit order is an order to buy or sell a security at a specific price or better. Unlike market orders, which execute immediately at the current market price, limit orders wait until the market reaches the specified price. This type of order is favored by traders who wish to control the price they pay or receive when trading securities. 
 
-Optimizing limit orders involves a series of sophisticated techniques and considerations designed to execute trades more efficiently, reduce trading costs, and improve returns. This subject intertwines multiple disciplines such as finance, computer science, mathematics, and behavioral economics.
+Optimizing limit orders involves a series of sophisticated techniques and considerations designed to execute trades more efficiently, reduce [trading costs](../t/trading_costs.md), and improve returns. This subject intertwines multiple disciplines such as finance, computer science, mathematics, and behavioral economics.
 
 ## Key Concepts and Components
 
@@ -14,7 +14,7 @@ Optimizing limit orders involves a series of sophisticated techniques and consid
 ### 2. Factors Influencing Limit Order Placement
    - **Order Book Status**: The current state of buy and sell orders queued in the order book.
    - **Market Volatility**: The extent of price variation in the market.
-   - **Bid-Ask Spread**: The difference between the highest price a buyer is willing to pay and the lowest price a seller is willing to accept.
+   - **[Bid-Ask Spread](../b/bid-ask_spread.md)**: The difference between the highest price a buyer is willing to pay and the lowest price a seller is willing to accept.
    - **Market Liquidity**: Availability of trading opportunities without causing significant price changes.
 
 ### 3. Objective Measures
@@ -43,7 +43,7 @@ Optimizing limit orders involves a series of sophisticated techniques and consid
 
 ### 1. Trading Platforms and Bots
    - **Interactive Brokers**: Offers sophisticated trading tools and algorithms for limit order optimization. [Interactive Brokers](https://www.interactivebrokers.com/)
-   - **QuantConnect**: A quantitative trading platform supporting algorithm creation and backtesting. [QuantConnect](https://www.quantconnect.com/)
+   - **QuantConnect**: A [quantitative trading](../q/quantitative_trading.md) platform supporting algorithm creation and [backtesting](../b/backtesting.md). [QuantConnect](https://www.quantconnect.com/)
 
 ### 2. Data Analytics Tools
    - **Pandas**: A Python library for data analysis, instrumental in processing stock market data.
@@ -69,8 +69,8 @@ Optimizing limit orders involves a series of sophisticated techniques and consid
    Reliable data are crucial for accurate predictive models and successful limit order optimization.
 
 ### 3. Regulatory Compliance
-   Adherence to trading regulations and acting within the legal frameworks is essential for any algorithmic trading strategy.
+   Adherence to trading regulations and acting within the legal frameworks is essential for any [algorithmic trading](../a/algorithmic_trading.md) strategy.
 
 ## Conclusion
 
-Limit order optimization is a pivotal aspect of algorithmic trading, offering traders a strategic advantage in controlling trade execution price and timing. While it is a complex field requiring robust analytical and computational skills, the potential benefits in terms of increased profitability and reduced costs make it a worthwhile endeavor for both retail and institutional traders.
+Limit order optimization is a pivotal aspect of [algorithmic trading](../a/algorithmic_trading.md), offering traders a strategic advantage in controlling trade execution price and timing. While it is a complex field requiring robust analytical and computational skills, the potential benefits in terms of increased profitability and reduced costs make it a worthwhile endeavor for both retail and institutional traders.

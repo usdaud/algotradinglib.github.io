@@ -33,11 +33,11 @@ When there is no apparent relationship between the variables, the data points wi
 
 ## Technical Applications in Algo-Trading
 
-In the context of algo-trading (algorithmic trading), X-Y scatter plots are particularly useful for:
+In the context of algo-trading ([algorithmic trading](../a/algorithmic_trading.md)), X-Y scatter plots are particularly useful for:
 
-1. **Pair Trading Strategies:** Scatter plots can help identify the linear relationship between two securities. Traders can model the spread of two correlated securities and plot their prices to identify mispricings.
-2. **Assessing Accuracy of Trading Models:** Traders verify predicted versus actual trading results by plotting them on scatter graphs to see how closely their models follow market patterns.
-3. **Parameter Optimization:** When tuning algorithm parameters, scatter plots illustrate the impact of different variables on trading performance or risk, aiding in visual convergence toward optimal settings.
+1. **Pair [Trading Strategies](../t/trading_strategies.md):** Scatter plots can help identify the linear relationship between two securities. Traders can model the spread of two correlated securities and plot their prices to identify mispricings.
+2. **Assessing Accuracy of [Trading Models](../t/trading_models.md):** Traders verify predicted versus actual trading results by plotting them on scatter graphs to see how closely their models follow market patterns.
+3. **Parameter Optimization:** When tuning algorithm parameters, scatter plots illustrate the impact of different variables on [trading performance](../t/trading_performance.md) or risk, aiding in visual convergence toward optimal settings.
 
 ## Example in Algorithmic Trading
 
@@ -47,7 +47,7 @@ In an example involving moving averages, an X-Y scatter plot could be used to ex
 
 ### Financial Institutions and Tools
 
-Several financial institutions and algorithmic trading platforms provide robust tools to generate X-Y scatter plots, some of which include:
+Several financial institutions and [algorithmic trading](../a/algorithmic_trading.md) platforms provide robust tools to generate X-Y scatter plots, some of which include:
 
 1. **Bloomberg Terminal:** A computerized system providing financial data widely used globally [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/).
 2. **Thomson Reuters Eikon:** A professional-grade software suite for financial analysis [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software).
@@ -73,4 +73,4 @@ plt.show()
 
 ## Conclusion
 
-X-Y scatter plots are invaluable for visualizing the relationships between two variables, identifying correlations, trends, and outliers. In the domain of algorithmic trading, they facilitate the assessment of trading strategies, model validations, and parameter optimizations. Tools like Bloomberg Terminal and Python's `matplotlib` offer sophisticated means to construct these plots, proving indispensable in data analysis workflows.
+X-Y scatter plots are invaluable for visualizing the relationships between two variables, identifying correlations, trends, and outliers. In the domain of [algorithmic trading](../a/algorithmic_trading.md), they facilitate the assessment of [trading strategies](../t/trading_strategies.md), model validations, and parameter optimizations. Tools like Bloomberg Terminal and Python's `matplotlib` offer sophisticated means to construct these plots, proving indispensable in data analysis workflows.

@@ -1,10 +1,10 @@
 # Kalman Filter Algorithm Implementation
 
-The Kalman filter, named after Rudolf E. Kálmán, is an algorithm that uses a series of measurements observed over time, containing statistical noise and other inaccuracies, and produces estimates of unknown variables that tend to be more precise than those based on a single measurement alone. It is widely used in various fields such as navigation, control systems, and signal processing. This document will delve into the implementation details of the Kalman filter within the context of algorithmic trading.
+The Kalman filter, named after Rudolf E. Kálmán, is an algorithm that uses a series of measurements observed over time, containing statistical noise and other inaccuracies, and produces estimates of unknown variables that tend to be more precise than those based on a single measurement alone. It is widely used in various fields such as navigation, control systems, and signal processing. This document will delve into the implementation details of the Kalman filter within the context of [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Introduction
 
-In algorithmic trading, the goal is to develop various models to predict price movements or other market variables. These models can benefit significantly from using the Kalman filter due to its ability to estimate the state of a process in a way that minimizes the mean of the squared error. This section covers the basics of the Kalman filter, including its mathematical underpinnings, before proceeding to its specific application in trading algorithms.
+In [algorithmic trading](../a/algorithmic_trading.md), the goal is to develop various models to predict price movements or other market variables. These models can benefit significantly from using the Kalman filter due to its ability to estimate the state of a process in a way that minimizes the mean of the squared error. This section covers the basics of the Kalman filter, including its mathematical underpinnings, before proceeding to its specific application in [trading algorithms](../t/trading_algorithms.md).
 
 ## Kalman Filter Basics
 
@@ -168,6 +168,6 @@ These metrics will provide a quantitative measure of how well the Kalman filter 
 
 ## Conclusion
 
-The Kalman filter's application to algorithmic trading illustrates its versatility and power in improving prediction accuracy by filtering out the noise and capturing the underlying stochastic processes. Understanding its mathematical foundation and implementing it in code gains you a powerful tool for time-series prediction in finance.
+The Kalman filter's application to [algorithmic trading](../a/algorithmic_trading.md) illustrates its versatility and power in improving prediction accuracy by filtering out the noise and capturing the underlying [stochastic processes](../s/stochastic_processes.md). Understanding its mathematical foundation and implementing it in code gains you a powerful tool for time-series prediction in finance.
 
 For more details on specific implementations, you may visit companies that focus on financial technology and market prediction, such as [Numerai](https://numer.ai/) and [QuantConnect](https://www.quantconnect.com/).

@@ -86,7 +86,7 @@ The valuation of ZDP shares generally follows a specified model considering the 
 
 #### Comparative Performance
 
-Compare the historical performance of ZDP shares against traditional dividend-paying stocks and bonds to determine relative effectiveness. Specific market scenarios and economic cycles can make ZDP shares more favorable at certain times.
+Compare the historical performance of ZDP shares against traditional dividend-paying stocks and bonds to determine relative effectiveness. Specific market scenarios and [economic cycles](../e/economic_cycles.md) can make ZDP shares more favorable at certain times.
 
 ### Conclusion
 

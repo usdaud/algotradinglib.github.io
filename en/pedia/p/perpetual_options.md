@@ -16,7 +16,7 @@ Perpetual options, also known as everlasting options, are a class of options tha
 
 4. **Premium Decay**: While there is no intrinsic time decay, the value of a perpetual option may still erode due to carrying costs or market conditions over time.
 
-5. **Complex Pricing Model**: Pricing perpetual options is more complex than traditional options due to their indefinite nature and the valuation models that do not rely on an expiry date.
+5. **Complex Pricing Model**: Pricing perpetual options is more complex than traditional options due to their indefinite nature and the [valuation models](../v/valuation_models.md) that do not rely on an expiry date.
 
 ## Advantages of Perpetual Options
 
@@ -34,7 +34,7 @@ Time decay is a silent killer for many option positions. Perpetual options elimi
 
 ### Strategic Applications
 
-For institutional investors or large hedge funds, perpetual options can be used in a range of complex trading strategies without the constant need to roll over positions as with traditional options.
+For institutional investors or large hedge funds, perpetual options can be used in a range of complex [trading strategies](../t/trading_strategies.md) without the constant need to roll over positions as with traditional options.
 
 ## Challenges and Risks
 
@@ -52,18 +52,18 @@ Valuating perpetual options is inherently complex and may require advanced mathe
 
 ## Valuation and Pricing of Perpetual Options
 
-Since perpetual options do not have an expiration date, the traditional Black-Scholes Model, which requires an expiry date as an input, cannot be directly applied. Instead, perpetual options are often priced using alternative approaches that derive from solving differential equations under certain assumptions about the underlying asset's behavior.
+Since perpetual options do not have an expiration date, the traditional [Black-Scholes Model](../b/black-scholes_model.md), which requires an expiry date as an input, cannot be directly applied. Instead, perpetual options are often priced using alternative approaches that derive from solving differential equations under certain assumptions about the underlying asset's behavior.
 
 ### Simplified Valuation Model
 
 One simplified approach involves evaluating the option based on the present value of expected payoffs, considering the payoff can potentially happen at any point in time. The pricing often starts with understanding the payoff structure:
 
 1. **Call Options**: The value of a perpetual call option can be thought of as the present value of the expected difference between the asset's price and the strike price.
-2. **Put Options**: Similarly, for a put option, the value is derived from the expected difference between the strike price and the asset's price.
+2. **[Put Options](../p/put_options.md)**: Similarly, for a put option, the value is derived from the expected difference between the strike price and the asset's price.
 
 ### Advanced Models
 
-More sophisticated models, including those based on stochastic calculus or Monte Carlo simulations, may also be employed. These models take into account the underlying asset's volatility, dividend yields, and other relevant factors to compute the price more precisely.
+More sophisticated models, including those based on [stochastic calculus](../s/stochastic_calculus.md) or Monte Carlo simulations, may also be employed. These models take into account the underlying asset's volatility, dividend yields, and other relevant factors to compute the price more precisely.
 
 ## Strategic Uses
 
@@ -87,4 +87,4 @@ While still not mainstream, perpetual options have found niche applications with
 
 ## Conclusion
 
-Perpetual options present a distinct and flexible tool for both traders and investors. The elimination of expiry-related pressure, combined with the strategic advantages, renders them a valuable addition to the financial derivatives landscape. However, their complexity and cost mean that they might not be suitable for all market participants. Understanding the fundamental aspects of valuation and strategic application is crucial for anyone considering the use of perpetual options in their trading or investment strategy.
+Perpetual options present a distinct and flexible tool for both traders and investors. The elimination of expiry-related pressure, combined with the strategic advantages, renders them a valuable addition to the financial [derivatives](../d/derivatives.md) landscape. However, their complexity and cost mean that they might not be suitable for all market participants. Understanding the fundamental aspects of valuation and strategic application is crucial for anyone considering the use of perpetual options in their trading or investment strategy.

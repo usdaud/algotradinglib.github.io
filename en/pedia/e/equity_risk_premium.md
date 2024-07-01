@@ -1,6 +1,6 @@
 # Equity Risk Premium
 
-The Equity Risk Premium (ERP) is a critical concept in finance, particularly in the realm of investment and portfolio management. It essentially represents the excess return that investing in the stock market provides over a risk-free rate. This premium compensates investors for taking on the higher risk associated with equity investments compared to risk-free assets, such as government bonds.
+The Equity Risk Premium (ERP) is a critical concept in finance, particularly in the realm of investment and [portfolio management](../p/portfolio_management.md). It essentially represents the excess return that investing in the stock market provides over a risk-free rate. This premium compensates investors for taking on the higher risk associated with equity investments compared to risk-free assets, such as government bonds.
 
 To understand ERP comprehensively, it is important to grasp the following aspects:
 
@@ -23,8 +23,8 @@ ERP can be calculated using historical or predictive approaches:
 ERP is used in several crucial financial models and practices, such as:
 
 - **Capital Asset Pricing Model (CAPM):** The ERP is a key component of the CAPM, which is used to determine the expected return on an investment by accounting for its risk relative to the market.
-- **Cost of Equity:** ERP helps in estimating the cost of equity, which is vital for corporate finance decisions, including valuation, fundraising, and capital allocation.
-- **Portfolio Management:** Investors and portfolio managers use ERP to balance the trade-off between risk and return when constructing and managing investment portfolios.
+- **Cost of Equity:** ERP helps in estimating the cost of equity, which is vital for corporate finance decisions, including valuation, fundraising, and [capital allocation](../c/capital_allocation.md).
+- **[Portfolio Management](../p/portfolio_management.md):** Investors and portfolio managers use ERP to balance the trade-off between risk and return when constructing and managing investment portfolios.
 
 ## Methods of Estimating ERP
 
@@ -93,18 +93,18 @@ ERP plays a pivotal role in various financial applications, including:
 
 ### Investment Decisions
 
-1. **Portfolio Construction:** Investors use ERP to guide asset allocation decisions, balancing their portfolios to achieve an optimal risk-return trade-off.
-2. **Investment Strategies:** ERP influences the selection of investment strategies, such as value investing, growth investing, or momentum investing.
+1. **Portfolio Construction:** Investors use ERP to guide [asset allocation](../a/asset_allocation.md) decisions, balancing their portfolios to achieve an optimal risk-return trade-off.
+2. **Investment Strategies:** ERP influences the selection of investment strategies, such as [value investing](../v/value_investing.md), [growth investing](../g/growth_investing.md), or momentum investing.
 
 ### Corporate Finance
 
 1. **Valuation:** ERP is used to discount future cash flows when valuing companies and projects, impacting both equity valuation and the assessment of investment opportunities.
-2. **Capital Budgeting:** Firms use ERP to determine the cost of equity when evaluating potential capital projects, influencing decisions on project selection and capital allocation.
+2. **Capital Budgeting:** Firms use ERP to determine the cost of equity when evaluating potential capital projects, influencing decisions on project selection and [capital allocation](../c/capital_allocation.md).
 
 ### Risk Management
 
 1. **Stress Testing:** Financial institutions incorporate ERP into stress tests to assess the resilience of their portfolios under adverse market conditions.
-2. **Hedging Strategies:** ERP helps in designing hedging strategies to manage equity market risk, ensuring that portfolios are protected against downside scenarios.
+2. **[Hedging Strategies](../h/hedging_strategies.md):** ERP helps in designing [hedging strategies](../h/hedging_strategies.md) to manage equity market risk, ensuring that portfolios are protected against downside scenarios.
 
 ## ERP in Different Markets
 
@@ -117,7 +117,7 @@ ERP can vary significantly across different markets due to variations in economi
 
 ### Global Diversification
 
-Global diversification strategies take advantage of different ERPs across markets to optimize portfolio performance. By investing in multiple markets, investors can spread risk and potentially achieve higher returns.
+Global [diversification strategies](../d/diversification_strategies.md) take advantage of different ERPs across markets to optimize [portfolio performance](../p/portfolio_performance.md). By investing in multiple markets, investors can spread risk and potentially achieve higher returns.
 
 ## Notable Studies and Research
 

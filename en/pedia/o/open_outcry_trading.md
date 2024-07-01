@@ -4,7 +4,7 @@ Open Outcry Trading is a traditional method of communication between professiona
 
 ## Introduction to Open Outcry Trading
 
-Open Outcry is a method for trading commodities, stocks, or derivatives where traders shout and use hand gestures to communicate buy and sell orders on a trading floor. This technique was widely used in stock and futures exchanges before the advent of electronic trading systems. The primary goal of Open Outcry is to facilitate clear and transparent communication among market participants to ensure efficient price discovery and order matching.
+Open Outcry is a method for trading commodities, stocks, or [derivatives](../d/derivatives.md) where traders shout and use hand gestures to communicate buy and sell orders on a trading floor. This technique was widely used in stock and futures exchanges before the advent of electronic [trading systems](../t/trading_systems.md). The primary goal of Open Outcry is to facilitate clear and transparent communication among market participants to ensure efficient price discovery and order matching.
 
 ## Mechanics of Open Outcry Trading
 
@@ -50,7 +50,7 @@ Despite its transparency, Open Outcry Trading is prone to human error. Miscommun
 
 ### Speed
 
-With the rise of electronic trading systems, Open Outcry Trading has been overshadowed by faster, more efficient alternatives. Electronic systems can process trades in milliseconds, whereas human traders in an Open Outcry environment cannot match this speed, making the latter less competitive in modern markets.
+With the rise of electronic [trading systems](../t/trading_systems.md), Open Outcry Trading has been overshadowed by faster, more efficient alternatives. Electronic systems can process trades in milliseconds, whereas human traders in an Open Outcry environment cannot match this speed, making the latter less competitive in modern markets.
 
 ## Modern-Day Relevance of Open Outcry Trading
 
@@ -58,7 +58,7 @@ While the prevalence of Open Outcry Trading has significantly diminished with th
 
 ### Chicago Mercantile Exchange (CME)
 
-The CME Group, known for its rich history in Open Outcry Trading, still operates some trading pits in Chicago. These pits are primarily used for trading options on futures contracts. More information can be found on their official website: [CME Group](https://www.cmegroup.com/).
+The CME Group, known for its rich history in Open Outcry Trading, still operates some trading pits in Chicago. These pits are primarily used for trading options on [futures contracts](../f/futures_contracts.md). More information can be found on their official website: [CME Group](https://www.cmegroup.com/).
 
 ### London Metal Exchange (LME)
 

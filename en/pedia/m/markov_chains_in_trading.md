@@ -1,6 +1,6 @@
 ## Markov Chains in Trading
 
-Markov Chains are a powerful mathematical framework that can be applied to a variety of fields, including finance and trading. Named after the Russian mathematician Andrey Markov, these chains describe systems that transition from one state to another in a probabilistic manner. In trading, Markov Chains can be utilized to model and predict the behavior of financial markets, guiding decision-making processes in algorithmic trading strategies.
+Markov Chains are a powerful mathematical framework that can be applied to a variety of fields, including finance and trading. Named after the Russian mathematician Andrey Markov, these chains describe systems that transition from one state to another in a probabilistic manner. In trading, Markov Chains can be utilized to model and predict the behavior of financial markets, guiding decision-making processes in [algorithmic trading](../a/algorithmic_trading.md) strategies.
 
 ### Understanding Markov Chains
 
@@ -48,12 +48,12 @@ In the context of trading, Markov Chains can be employed in several ways:
 
 1. **Market State Modeling**: Financial markets can be modeled as Markov Chains, where each state represents a different market condition (e.g., rising, falling, stable). The transition probabilities can be estimated from historical market data.
 2. **Price Prediction**: Predict future price movements by modeling the price states as a Markov Chain. Each state corresponds to a certain price range, and transitions reflect the likelihood of price changes.
-3. **Risk Management**: Assessing the risk of different market states can help in formulating risk management strategies. For example, transition probabilities can guide the adjustment of portfolio allocation depending on predicted market conditions.
-4. **Algorithmic Trading Systems**: Integrate Markov Chains into trading algorithms to make probabilistic decisions based on the current state of the market. This can enhance the robustness and adaptability of the trading strategy.
+3. **[Risk Management](../r/risk_management.md)**: Assessing the risk of different market states can help in formulating [risk management](../r/risk_management.md) strategies. For example, transition probabilities can guide the adjustment of portfolio allocation depending on predicted market conditions.
+4. **[Algorithmic Trading](../a/algorithmic_trading.md) Systems**: Integrate Markov Chains into [trading algorithms](../t/trading_algorithms.md) to make probabilistic decisions based on the current state of the market. This can enhance the robustness and adaptability of the trading strategy.
 
 ### Case Study: Applying Markov Chains in Algorithmic Trading
 
-Consider an algorithmic trading system designed to operate in a stock market. The system's objective is to decide whether to buy, sell, or hold a stock based on the current market state modeled as a Markov Chain.
+Consider an [algorithmic trading](../a/algorithmic_trading.md) system designed to operate in a stock market. The system's objective is to decide whether to buy, sell, or hold a stock based on the current market state modeled as a Markov Chain.
 
 #### Step 1: Define States and Transitions
 
@@ -88,7 +88,7 @@ The trading algorithm will consider the current state and the transition probabi
 
 #### Step 3: Implement and Test
 
-The algorithm can be implemented and back-tested using historical data to evaluate its performance. Adjustments to the transition matrix and trading rules can be made based on the back-testing results to improve profitability and robustness.
+The algorithm can be implemented and back-tested using historical data to evaluate its performance. Adjustments to the transition matrix and [trading rules](../t/trading_rules.md) can be made based on the back-testing results to improve profitability and robustness.
 
 ### Challenges and Considerations
 
@@ -99,6 +99,6 @@ The algorithm can be implemented and back-tested using historical data to evalua
 
 ### Conclusion
 
-Markov Chains offer a robust mathematical framework for modeling and predicting market behavior in trading. By defining states and transition probabilities, traders can develop sophisticated algorithmic trading strategies that adapt to changing market conditions. Despite the challenges, the application of Markov Chains in trading holds significant potential for enhancing decision-making and improving trading outcomes.
+Markov Chains offer a robust mathematical framework for modeling and predicting market behavior in trading. By defining states and transition probabilities, traders can develop sophisticated [algorithmic trading](../a/algorithmic_trading.md) strategies that adapt to changing market conditions. Despite the challenges, the application of Markov Chains in trading holds significant potential for enhancing decision-making and improving trading outcomes.
 
-For further details and advanced applications in algorithmic trading, companies like [Numerai](https://numer.ai) and [Two Sigma](https://www.twosigma.com) offer insights and tools that leverage Markov Chains and other statistical models in financial markets.
+For further details and advanced applications in [algorithmic trading](../a/algorithmic_trading.md), companies like [Numerai](https://numer.ai) and [Two Sigma](https://www.twosigma.com) offer insights and tools that leverage Markov Chains and other statistical models in financial markets.

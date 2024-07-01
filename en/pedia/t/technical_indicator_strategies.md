@@ -1,6 +1,6 @@
 # Technical Indicator Strategies
 
-**Technical indicators** are mathematical calculations based on the price, volume, or open interest of a security or contract. They are vital tools used in the discipline of technical analysis for forecasting the direction of prices. These indicators can vary from simple to complex formulas, and they help traders in making informed decisions. This guide delves into some of the most widely used technical indicator strategies in algorithmic trading, explaining their mathematical foundations, practical implementations, and integrations into trading systems.
+**[Technical indicators](../t/technical_indicators.md)** are mathematical calculations based on the price, volume, or open interest of a security or contract. They are vital tools used in the discipline of [technical analysis](../t/technical_analysis.md) for forecasting the direction of prices. These indicators can vary from simple to complex formulas, and they help traders in making informed decisions. This guide delves into some of the most widely used technical indicator strategies in [algorithmic trading](../a/algorithmic_trading.md), explaining their mathematical foundations, practical implementations, and integrations into [trading systems](../t/trading_systems.md).
 
 ## Moving Averages (MA)
 
@@ -8,7 +8,7 @@ A moving average smoothens price data to create a single flowing line, making it
 
 ### Simple Moving Average (SMA)
 
-The SMA is the arithmetic mean of a given set of values over a specific period. For instance, a 10-day SMA is the average of the closing prices over the last 10 days.
+The SMA is the arithmetic mean of a given set of values over a specific period. For instance, a [10-day SMA](../1/10-day_sma.md) is the average of the closing prices over the last 10 days.
 
 **Formula:**
 \[
@@ -64,7 +64,7 @@ The MACD is a trend-following momentum indicator that shows the relationship bet
 
 ## Bollinger Bands
 
-Bollinger Bands consist of a middle band (SMA) and two outer bands (standard deviations above and below the middle band). They measure market volatility and are useful for identifying potential overbought and oversold conditions.
+[Bollinger Bands](../b/bollinger_bands.md) consist of a middle band (SMA) and two outer bands (standard deviations above and below the middle band). They measure market volatility and are useful for identifying potential overbought and oversold conditions.
 
 **Formula:**
 1. Middle Band: \( \text{SMA}(n) \)
@@ -76,7 +76,7 @@ where:
 
 ## Stochastic Oscillator
 
-The Stochastic Oscillator compares a particular closing price of a security to a range of its prices over a certain period. The sensitivity of the oscillator can be reduced by adjusting the time period or taking a moving average of the result.
+The [Stochastic Oscillator](../s/stochastic_oscillator.md) compares a particular closing price of a security to a range of its prices over a certain period. The sensitivity of the oscillator can be reduced by adjusting the time period or taking a moving average of the result.
 
 **Formula:**
 \[
@@ -94,7 +94,7 @@ where:
 
 ### Tool Selection
 
-Given that many brokers and financial platforms offer APIs that support algorithmic trading, it is essential to select the right tools and platforms for implementing technical indicator strategies. Examples of popular platforms include:
+Given that many brokers and financial platforms offer APIs that support [algorithmic trading](../a/algorithmic_trading.md), it is essential to select the right tools and platforms for implementing technical indicator strategies. Examples of popular platforms include:
 
 - [Interactive Brokers](https://www.interactivebrokers.com)
 - [Alpaca](https://alpaca.markets)
@@ -132,8 +132,8 @@ print(signals.head())
 
 ### Backtesting
 
-Backtesting assesses the effectiveness of a trading strategy by testing it on historical data. Many platforms offer comprehensive backtesting capabilities. For instance, QuantConnect offers a cloud-based backtesting environment compatible with various asset classes.
+[Backtesting](../b/backtesting.md) assesses the effectiveness of a trading strategy by testing it on historical data. Many platforms offer comprehensive [backtesting](../b/backtesting.md) capabilities. For instance, QuantConnect offers a cloud-based [backtesting](../b/backtesting.md) environment compatible with various asset classes.
 
 ## Conclusion
 
-Technical indicators are indispensable tools in algorithmic trading, offering deeper insights into market dynamics and empowering traders with data-driven decision-making capabilities. By mastering these indicators and their implementation, traders can significantly enhance their trading strategies, leading to better performance and risk management.
+[Technical indicators](../t/technical_indicators.md) are indispensable tools in [algorithmic trading](../a/algorithmic_trading.md), offering deeper insights into market dynamics and empowering traders with data-driven decision-making capabilities. By mastering these indicators and their implementation, traders can significantly enhance their [trading strategies](../t/trading_strategies.md), leading to better performance and [risk management](../r/risk_management.md).

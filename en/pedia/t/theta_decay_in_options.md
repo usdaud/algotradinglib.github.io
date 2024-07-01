@@ -10,7 +10,7 @@ In simpler terms, if you own an option, every day that passes, the value of your
 
 ## Why is Theta Decay Important?
 
-Theta decay is especially relevant in the context of time-sensitive trading strategies. Understanding theta can help traders develop and manage strategies that take advantage or hedge against the natural erosion of options' value due to the passage of time.
+Theta decay is especially relevant in the context of time-sensitive [trading strategies](../t/trading_strategies.md). Understanding theta can help traders develop and manage strategies that take advantage or hedge against the natural erosion of options' value due to the passage of time.
 
 - **Impact on Option Prices**: The value of an option is composed of intrinsic value and extrinsic value. The extrinsic value includes time value, which is directly affected by theta decay.
 - **Strategic Planning**: Traders who write (sell) options often benefit from theta decay because the option they sold loses value over time, allowing them to buy it back at a lower price or let it expire worthless.
@@ -20,7 +20,7 @@ Theta decay is especially relevant in the context of time-sensitive trading stra
 
 Theta is usually expressed as a negative number and is calculated on a per-day basis. For example, a theta value of -0.05 indicates that the option will lose $0.05 in value each day. 
 
-The calculation of theta is complex and typically requires the use of mathematical models, such as the Black-Scholes model, to estimate. The primary factors influencing theta are:
+The calculation of theta is complex and typically requires the use of mathematical models, such as the [Black-Scholes model](../b/black-scholes_model.md), to estimate. The primary factors influencing theta are:
 
 1. **Time to Expiration**: The closer the option is to expiration, the higher the theta.
 2. **Volatility**: Options on more volatile securities tend to have higher theta.
@@ -33,7 +33,7 @@ The calculation of theta is complex and typically requires the use of mathematic
 Theta decay is not linear; it accelerates as the expiration date approaches. For at-the-money options, theta decay is relatively small when the option has several months until expiration. However, in the final weeks and days leading up to expiration, theta decay accelerates significantly.
 
 ### Different Effect on Calls and Puts
-The impact of theta is roughly similar for both call and put options. However, market conditions and other Greeks (like Delta and Vega) might cause slight variations between the decay rates of calls and puts.
+The impact of theta is roughly similar for both call and [put options](../p/put_options.md). However, market conditions and other Greeks (like Delta and Vega) might cause slight variations between the decay rates of calls and puts.
 
 ### Time Spread Strategies
 Theta decay is a critical factor in time spread (calendar spread) strategies, where traders sell an option with a near-term expiration and buy another option of the same type with a longer-term expiration. The trader aims to profit from the rapid theta decay of the near-term option.

@@ -1,12 +1,12 @@
 # Gaussian Processes in Algorithmic Trading
 
-Gaussian Processes (GPs) are a powerful statistical tool that has gained significant popularity in machine learning and data science. They offer a flexible, non-parametric approach to modeling and predicting data. In the context of algorithmic trading, GPs can be particularly useful for predicting asset prices, volatility surfaces, and other financial metrics, which are often complex and noisy. This document delves into the mathematical foundations of Gaussian Processes, their implementation, and their application in algorithmic trading.
+Gaussian Processes (GPs) are a powerful statistical tool that has gained significant popularity in machine learning and data science. They offer a flexible, non-parametric approach to modeling and predicting data. In the context of [algorithmic trading](../a/algorithmic_trading.md), GPs can be particularly useful for predicting asset prices, volatility surfaces, and other financial metrics, which are often complex and noisy. This document delves into the mathematical foundations of Gaussian Processes, their implementation, and their application in [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Mathematical Foundations of Gaussian Processes
 
 ### Definition
 
-A Gaussian Process is a collection of random variables, any finite number of which have a joint Gaussian distribution. Essentially, a GP defines a distribution over functions and can be used to predict the distribution of an unknown function given some known values. 
+A Gaussian Process is a collection of random variables, any finite number of which have a joint [Gaussian distribution](../g/gaussian_distribution.md). Essentially, a GP defines a distribution over functions and can be used to predict the distribution of an unknown function given some known values. 
 
 ### Gaussian Process Regression
 
@@ -70,19 +70,19 @@ print(y_pred)
 
 ### Price Prediction
 
-Gaussian Processes can be utilized to predict future asset prices. The flexibility of GPs makes them ideal for capturing the nonlinear and non-stationary nature of financial time series.
+Gaussian Processes can be utilized to predict future asset prices. The flexibility of GPs makes them ideal for capturing the nonlinear and non-stationary nature of [financial time series](../f/financial_time_series.md).
 
 ### Volatility Modeling
 
-Volatility is a crucial aspect of option pricing and risk management. GPs can model the volatility surface to provide accurate forecasts, aiding in better hedging strategies and pricing options.
+Volatility is a crucial aspect of option pricing and [risk management](../r/risk_management.md). GPs can model the [volatility surface](../v/volatility_surface.md) to provide accurate forecasts, aiding in better [hedging strategies](../h/hedging_strategies.md) and pricing options.
 
 ### Risk Management
 
-In risk management, GPs can model tail risks and extreme events by predicting the distribution of returns. This approach helps in constructing portfolios that are robust to market crashes.
+In [risk management](../r/risk_management.md), GPs can model tail risks and extreme events by predicting the distribution of returns. This approach helps in constructing portfolios that are robust to market crashes.
 
 ### Sentiment Analysis
 
-GPs can be used in conjunction with natural language processing to measure market sentiment from news articles, social media, and other textual data. This sentiment can be incorporated into trading algorithms to improve prediction accuracy.
+GPs can be used in conjunction with natural language processing to measure market sentiment from news articles, social media, and other textual data. This sentiment can be incorporated into [trading algorithms](../t/trading_algorithms.md) to improve prediction accuracy.
 
 ## Challenges and Limitations
 
@@ -107,7 +107,7 @@ These models extend GPs to handle multiple related tasks simultaneously, sharing
 
 ## Conclusion
 
-Gaussian Processes offer a highly flexible and powerful framework for modeling and predicting financial time series in algorithmic trading. While they come with computational challenges and require careful tuning, their ability to provide probabilistic predictions makes them invaluable for various financial applications, from price prediction to risk management.
+Gaussian Processes offer a highly flexible and powerful framework for modeling and predicting [financial time series](../f/financial_time_series.md) in [algorithmic trading](../a/algorithmic_trading.md). While they come with computational challenges and require careful tuning, their ability to provide probabilistic predictions makes them invaluable for various financial applications, from price prediction to [risk management](../r/risk_management.md).
 
 For more information on companies and further reading:
 

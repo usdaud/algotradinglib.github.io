@@ -1,7 +1,7 @@
 # NASDAQ Liquidity Analysis
 
 ## Introduction
-NASDAQ, or the National Association of Securities Dealers Automated Quotations, is one of the largest stock exchanges globally. Established in 1971, it is renowned for its sophisticated electronic trading system, which has revolutionized the way securities are traded. One key factor that affects trading on the NASDAQ is liquidity, a concept central to financial markets. Liquidity refers to the degree to which an asset can be quickly bought or sold in the market without affecting its price. High liquidity implies that there are many buyers and sellers, ensuring smoother and more efficient markets. In this article, we will dive deep into NASDAQ liquidity, exploring its sources, determining factors, metrics for its analysis, and its impact on trading strategies, especially in algorithmic trading.
+NASDAQ, or the National Association of Securities Dealers Automated Quotations, is one of the largest stock exchanges globally. Established in 1971, it is renowned for its sophisticated electronic trading system, which has revolutionized the way securities are traded. One key factor that affects trading on the NASDAQ is liquidity, a concept central to financial markets. Liquidity refers to the degree to which an asset can be quickly bought or sold in the market without affecting its price. High liquidity implies that there are many buyers and sellers, ensuring smoother and more efficient markets. In this article, we will dive deep into NASDAQ liquidity, exploring its sources, determining factors, metrics for its analysis, and its impact on [trading strategies](../t/trading_strategies.md), especially in [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Sources of Liquidity
 Liquidity on NASDAQ primarily comes from the following sources:
@@ -42,7 +42,7 @@ The total number of shares traded over a specified period. Higher volumes usuall
 The quantity of buy and sell orders at various price levels. A deeper order book indicates that more transactions can occur without significant price changes.
 
 ### 4. **Turnover Ratio**
-Calculated as the volume of shares traded divided by the total number of outstanding shares. High turnover ratios signify active trading and, thus, higher liquidity.
+Calculated as the volume of shares traded divided by the total number of outstanding shares. High [turnover ratios](../t/turnover_ratios.md) signify active trading and, thus, higher liquidity.
 
 ### 5. **Amihud Illiquidity Ratio**
 This ratio measures the price impact of trading. It is calculated by dividing the absolute return of a stock by its trading volume. Lower values indicate higher liquidity.
@@ -51,7 +51,7 @@ This ratio measures the price impact of trading. It is calculated by dividing th
 Reflects the price impact per unit of trading volume. It's often used in econometric models to analyze liquidity.
 
 ## Impact on Algorithmic Trading
-Algorithmic trading, or algo-trading, utilizes computer programs to execute trades based on predefined strategies. NASDAQ's liquidity directly affects several aspects of algorithmic trading:
+[Algorithmic trading](../a/algorithmic_trading.md), or algo-trading, utilizes computer programs to execute trades based on predefined strategies. NASDAQ's liquidity directly affects several aspects of [algorithmic trading](../a/algorithmic_trading.md):
 
 ### Execution Speed
 Well-liquid markets facilitate faster trade execution, a crucial factor for high-frequency trading (HFT) algorithms where milliseconds matter.
@@ -63,25 +63,25 @@ Slippage refers to the difference between the expected price of a trade and the 
 This term describes how a trader's own orders can affect the market price. In liquid markets, large orders can be absorbed with minimal price movement, reducing the market impact.
 
 ### Strategy Performance
-The effectiveness of certain trading strategies is tied to liquidity. For instance, market-making algorithms require high liquidity to continuously buy and sell securities profitably.
+The effectiveness of certain [trading strategies](../t/trading_strategies.md) is tied to liquidity. For instance, market-making algorithms require high liquidity to continuously buy and sell securities profitably.
 
 ### Risk Management
-Higher liquidity allows for better risk management by providing easier entry and exit points in the market. This is especially important for algorithms designed to hedge positions or execute stop-loss orders.
+Higher liquidity allows for better [risk management](../r/risk_management.md) by providing easier entry and exit points in the market. This is especially important for algorithms designed to hedge positions or execute [stop-loss orders](../s/stop-loss_orders.md).
 
 ## Tools and Platforms for Analyzing NASDAQ Liquidity
 Several tools and platforms aid traders in analyzing liquidity on NASDAQ:
 
-1. **Bloomberg Terminal**: Offers comprehensive data on trading volumes, bid-ask spreads, order book depth, and other liquidity metrics. (https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+1. **Bloomberg Terminal**: Offers comprehensive data on trading volumes, bid-ask spreads, [order book depth](../o/order_book_depth.md), and other liquidity metrics. (https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
 2. **Thomson Reuters Eikon**: Provides in-depth analysis on market conditions, including liquidity indicators. (https://www.refinitiv.com/en/products/eikon-trading-software)
 
 3. **NASDAQ TotalView**: An advanced market data solution that provides insight into the full depth of the market by showing price levels for NASDAQ-listed securities. (https://www.nasdaq.com/solutions/nasdaq-totalview)
 
-4. **AlgoTrader**: A platform for quantitative research and algorithmic trading that includes robust tools for liquidity analysis. (https://www.algotrader.com/)
+4. **AlgoTrader**: A platform for [quantitative research](../q/quantitative_research.md) and [algorithmic trading](../a/algorithmic_trading.md) that includes robust tools for [liquidity analysis](../l/liquidity_analysis.md). (https://www.algotrader.com/)
 
-5. **QuantConnect**: An open-source algorithmic trading platform that supports back-testing and live trading, providing access to extensive market data. (https://www.quantconnect.com/)
+5. **QuantConnect**: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports back-testing and live trading, providing access to extensive market data. (https://www.quantconnect.com/)
 
-6. **Python Libraries**: Libraries such as pandas, NumPy, and matplotlib can be used for custom liquidity analysis by accessing NASDAQ's raw data through APIs.
+6. **Python Libraries**: Libraries such as pandas, NumPy, and matplotlib can be used for custom [liquidity analysis](../l/liquidity_analysis.md) by accessing NASDAQ's raw data through APIs.
 
 ## Conclusion
-Liquidity analysis is pivotal for understanding and navigating the NASDAQ market. It affects not just individual trading strategies but the overall efficiency and stability of the financial markets. By leveraging advanced tools and staying aware of the factors influencing liquidity, traders—particularly those employing algorithmic strategies—can optimize their performance and align with market conditions more effectively. Understanding the nuances of liquidity on NASDAQ helps in minimizing costs, reducing market impact, and ultimately achieving more favorable trading outcomes.
+[Liquidity analysis](../l/liquidity_analysis.md) is pivotal for understanding and navigating the NASDAQ market. It affects not just individual [trading strategies](../t/trading_strategies.md) but the overall efficiency and stability of the financial markets. By leveraging advanced tools and staying aware of the factors influencing liquidity, traders—particularly those employing algorithmic strategies—can optimize their performance and align with market conditions more effectively. Understanding the nuances of liquidity on NASDAQ helps in minimizing costs, reducing market impact, and ultimately achieving more favorable trading outcomes.

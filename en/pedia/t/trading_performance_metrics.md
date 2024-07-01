@@ -1,6 +1,6 @@
 # Trading Performance Metrics
 
-In the field of algorithmic trading, evaluating the performance of trading strategies is of paramount importance. Trading performance metrics are essential as they allow traders and investors to assess and compare the profitability, risk, and efficiency of various trading strategies. This documentation presents an in-depth exploration of the key trading performance metrics used by professionals in the industry.
+In the field of [algorithmic trading](../a/algorithmic_trading.md), evaluating the performance of [trading strategies](../t/trading_strategies.md) is of paramount importance. Trading [performance metrics](../p/performance_metrics.md) are essential as they allow traders and investors to assess and compare the profitability, risk, and efficiency of various [trading strategies](../t/trading_strategies.md). This documentation presents an in-depth exploration of the key trading [performance metrics](../p/performance_metrics.md) used by professionals in the industry.
 
 ## Gross Profit and Gross Loss
 
@@ -40,21 +40,21 @@ Average drawdown provides an average of drawdown percentage values and helps in 
 
 ## Sharpe Ratio
 
-The Sharpe Ratio measures the excess return per unit of risk. It is calculated by subtracting the risk-free rate from the strategy’s return and dividing it by the standard deviation of the returns.
+The [Sharpe Ratio](../s/sharpe_ratio.md) measures the excess return per unit of risk. It is calculated by subtracting the risk-free rate from the strategy’s return and dividing it by the standard deviation of the returns.
 
-\[ \text{Sharpe Ratio} = \frac{\text{Average Portfolio Return} - \text{Risk-Free Rate}}{\text{Standard Deviation of Portfolio Return}} \]
+\[ \text{[Sharpe Ratio](../s/sharpe_ratio.md)} = \frac{\text{Average Portfolio Return} - \text{Risk-Free Rate}}{\text{Standard Deviation of Portfolio Return}} \]
 
 ## Sortino Ratio
 
-Sortino Ratio modifies the Sharpe Ratio by using only downside volatility (i.e., it takes into account only negative returns), thus providing a better measure of risk-adjusted performance for strategies that may be asymmetrical.
+[Sortino Ratio](../s/sortino_ratio.md) modifies the [Sharpe Ratio](../s/sharpe_ratio.md) by using only downside volatility (i.e., it takes into account only negative returns), thus providing a better measure of risk-adjusted performance for strategies that may be asymmetrical.
 
-\[ \text{Sortino Ratio} = \frac{\text{Average Portfolio Return} - \text{Risk-Free Rate}}{\text{Downside Deviation}} \]
+\[ \text{Sortino Ratio} = \frac{\text{Average Portfolio Return} - \text{Risk-Free Rate}}{\text{[Downside Deviation](../d/downside_deviation.md)}} \]
 
 ## Profit Factor
 
-Profit Factor is the ratio of gross profit to gross loss. A profit factor greater than 1 indicates that the strategy is profitable.
+[Profit Factor](../p/profit_factor.md) is the ratio of gross profit to gross loss. A [profit factor](../p/profit_factor.md) greater than 1 indicates that the strategy is profitable.
 
-\[ \text{Profit Factor} = \frac{\text{Gross Profit}}{\text{Gross Loss}} \]
+\[ \text{[Profit Factor](../p/profit_factor.md)} = \frac{\text{Gross Profit}}{\text{Gross Loss}} \]
 
 ## Win Rate
 
@@ -82,7 +82,7 @@ Expectancy measures the average amount a trader can expect to win or lose per tr
 
 ## Average Trade Duration
 
-Average Trade Duration measures how long positions are typically held, offering insight into the trading strategy's style (i.e., day trading vs. swing trading).
+Average Trade Duration measures how long positions are typically held, offering insight into the trading strategy's style (i.e., [day trading](../d/day_trading.md) vs. [swing trading](../s/swing_trading.md)).
 
 ## Risk-Reward Ratio
 
@@ -110,4 +110,4 @@ Alpha measures the excess return of the trading strategy relative to the return 
 
 ## Conclusion
 
-Understanding and utilizing trading performance metrics is crucial for the assessment and comparison of algorithmic trading strategies. These metrics not only help in quantifying profitability but also in managing and mitigating risk effectively.
+Understanding and utilizing trading [performance metrics](../p/performance_metrics.md) is crucial for the assessment and comparison of [algorithmic trading](../a/algorithmic_trading.md) strategies. These metrics not only help in quantifying profitability but also in managing and mitigating risk effectively.

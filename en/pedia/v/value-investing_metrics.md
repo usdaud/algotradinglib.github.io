@@ -1,6 +1,6 @@
 # **Value-Investing Metrics in Algorithmic Trading**
 
-Value investing is a strategy where investors select stocks that they believe are undervalued by the market and therefore have a higher potential for growth. This approach is in contrast to growth investing, where investors focus on companies that are believed to have strong future growth potential. In the realm of algorithmic trading, value-investing metrics play a crucial role in the development of algorithms designed to identify and exploit these undervalued securities. Below is a detailed explanation of various value-investing metrics commonly used in algorithmic trading.
+[Value investing](../v/value_investing.md) is a strategy where investors select stocks that they believe are undervalued by the market and therefore have a higher potential for growth. This approach is in contrast to [growth investing](../g/growth_investing.md), where investors focus on companies that are believed to have strong future growth potential. In the realm of [algorithmic trading](../a/algorithmic_trading.md), value-investing metrics play a crucial role in the development of algorithms designed to identify and exploit these undervalued securities. Below is a detailed explanation of various value-investing metrics commonly used in [algorithmic trading](../a/algorithmic_trading.md).
 
 ### Price-to-Earnings (P/E) Ratio
 
@@ -25,12 +25,12 @@ A lower P/B ratio can indicate that a stock is undervalued relative to its book 
 ### Earnings Yield
 
 #### Definition
-Earnings yield is the inverse of the P/E ratio and is calculated as:
+[Earnings yield](../e/earnings_yield.md) is the inverse of the P/E ratio and is calculated as:
 
-\[ \text{Earnings Yield} = \frac{\text{EPS}}{\text{Market Price per Share}} \]
+\[ \text{[Earnings Yield](../e/earnings_yield.md)} = \frac{\text{EPS}}{\text{Market Price per Share}} \]
 
 #### Significance
-A higher earnings yield indicates a potentially undervalued stock. In algorithmic trading, this metric can be used as a filter to identify attractive investment opportunities.
+A higher [earnings yield](../e/earnings_yield.md) indicates a potentially undervalued stock. In [algorithmic trading](../a/algorithmic_trading.md), this metric can be used as a filter to identify attractive investment opportunities.
 
 ### Dividend Yield
 
@@ -100,7 +100,7 @@ The PEG ratio is the P/E ratio divided by the growth rate of the company’s ear
 \[ \text{PEG Ratio} = \frac{\text{P/E Ratio}}{\text{Earnings Growth Rate}} \]
 
 #### Significance
-A PEG ratio below 1 may suggest that a stock is undervalued relative to its growth potential, making it an attractive target for algorithmic trading strategies.
+A PEG ratio below 1 may suggest that a stock is undervalued relative to its growth potential, making it an attractive target for [algorithmic trading](../a/algorithmic_trading.md) strategies.
 
 ### Enterprise Value to EBITDA (EV/EBITDA)
 
@@ -110,12 +110,12 @@ The EV/EBITDA ratio compares the enterprise value of a company to its earnings b
 \[ \text{EV/EBITDA} = \frac{\text{Enterprise Value}}{\text{EBITDA}} \]
 
 #### Significance
-A lower EV/EBITDA ratio may indicate that a company is undervalued relative to its EBITDA, making it a useful metric in valuation-based algorithmic trading.
+A lower EV/EBITDA ratio may indicate that a company is undervalued relative to its EBITDA, making it a useful metric in valuation-based [algorithmic trading](../a/algorithmic_trading.md).
 
 ### Implementing Value-Investing Metrics in Algorithmic Trading
 
 #### Data Collection
-The first step in implementing value-investing metrics in algorithmic trading is data collection. Various financial data providers like Bloomberg, Reuters, and other specialized platforms offer real-time and historical data on these metrics.
+The first step in implementing value-investing metrics in [algorithmic trading](../a/algorithmic_trading.md) is data collection. Various financial data providers like Bloomberg, Reuters, and other specialized platforms offer real-time and historical data on these metrics.
 
 #### Screening and Filtering
 Algorithms can be programmed to screen and filter stocks based on one or more of the above value-investing metrics. Stocks that meet specific criteria, such as having a P/E ratio below a certain threshold, can be shortlisted for further analysis.
@@ -124,7 +124,7 @@ Algorithms can be programmed to screen and filter stocks based on one or more of
 Advanced algorithms might incorporate multiple metrics into a single trading model. For instance, a multi-parameter model could filter stocks that have low P/E ratios, high dividend yields, and strong ROE simultaneously, thus creating a more holistic view of value.
 
 #### Backtesting
-Backtesting involves running the algorithm on historical data to evaluate its performance over various market conditions. This step is crucial for verifying the algorithm's effectiveness before deploying it in a live trading environment.
+[Backtesting](../b/backtesting.md) involves running the algorithm on historical data to evaluate its performance over various market conditions. This step is crucial for verifying the algorithm's effectiveness before deploying it in a live [trading environment](../t/trading_environment.md).
 
 #### Real-time Monitoring and Adjustment
 Once deployed, the algorithm needs to be monitored in real-time to ensure it adapts to market changes. This might involve recalibrating the algorithm based on recent performance and market conditions.
@@ -132,18 +132,18 @@ Once deployed, the algorithm needs to be monitored in real-time to ensure it ada
 ### Use Cases
 
 #### Quantitative Hedge Funds
-Quantitative hedge funds like Renaissance Technologies and Two Sigma often use value-investing metrics as part of broader algorithmic trading strategies. Both firms leverage sophisticated algorithms that analyze these metrics in real-time to make trading decisions.
+[Quantitative hedge funds](../q/quantitative_hedge_funds.md) like Renaissance Technologies and Two Sigma often use value-investing metrics as part of broader [algorithmic trading](../a/algorithmic_trading.md) strategies. Both firms leverage sophisticated algorithms that analyze these metrics in real-time to make trading decisions.
 
 - [Renaissance Technologies](https://www.rentec.com/)
 - [Two Sigma](https://www.twosigma.com/)
 
 #### Retail Algorithmic Trading Platforms
-Retail trading platforms like QuantConnect and Alpaca provide APIs that enable individual traders to implement value-investing metrics in their trading algorithms.
+Retail trading platforms like QuantConnect and Alpaca provide APIs that enable individual traders to implement value-investing metrics in their [trading algorithms](../t/trading_algorithms.md).
 
 - [QuantConnect](https://www.quantconnect.com/)
 - [Alpaca](https://alpaca.markets/)
 
 ### Conclusion
 
-Value-investing metrics are fundamental tools in the world of algorithmic trading. They provide a quantifiable means to assess whether a stock is undervalued, offering various angles of analysis from earnings and book values to cash flows and dividends. While each metric has its own limitations, a composite approach that utilizes multiple metrics can enhance the robustness of algorithmic trading strategies. By systematically incorporating these metrics, traders and investment firms can create algorithms that identify undervalued stocks, optimize trading decisions, and ultimately improve returns.
+Value-investing metrics are fundamental tools in the world of [algorithmic trading](../a/algorithmic_trading.md). They provide a quantifiable means to assess whether a stock is undervalued, offering various angles of analysis from earnings and book values to cash flows and dividends. While each metric has its own limitations, a composite approach that utilizes multiple metrics can enhance the robustness of [algorithmic trading](../a/algorithmic_trading.md) strategies. By systematically incorporating these metrics, traders and investment firms can create algorithms that identify undervalued stocks, optimize trading decisions, and ultimately improve returns.
 

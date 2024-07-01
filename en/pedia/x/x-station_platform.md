@@ -4,7 +4,7 @@ The world of financial trading has undergone a significant transformation over t
 
 ## Overview
 
-X-Station is a proprietary trading platform developed by XTB (X-Trade Brokers), a leading global brokerage firm. The platform is designed to offer traders an advanced and user-friendly interface, providing access to a variety of financial instruments, including Forex, commodities, indices, cryptocurrencies, and stocks. X-Station is known for its speed, reliability, and range of analytical tools, making it a preferred choice for both novice and experienced traders. 
+X-Station is a [proprietary trading](../p/proprietary_trading.md) platform developed by XTB (X-Trade Brokers), a leading global brokerage firm. The platform is designed to offer traders an advanced and user-friendly interface, providing access to a variety of financial instruments, including Forex, commodities, indices, cryptocurrencies, and stocks. X-Station is known for its speed, reliability, and range of analytical tools, making it a preferred choice for both novice and experienced traders. 
 
 ## Key Features
 
@@ -15,13 +15,13 @@ X-Station boasts an intuitive and user-friendly interface that makes navigation 
 One of the standout features of the X-Station platform is its speed. Trades are executed quickly, minimizing latency and ensuring that traders can take advantage of market opportunities as they arise. The platform's reliability is also noteworthy, with minimal downtime reported.
 
 ### 3. Comprehensive Charting Tools
-X-Station offers a range of chart types and timeframes, allowing traders to perform detailed technical analysis. The platform supports multiple chart types, such as candlestick, bar, and line charts. Additionally, traders can use a variety of technical indicators and drawing tools to analyze market trends and make informed decisions.
+X-Station offers a range of chart types and timeframes, allowing traders to perform detailed [technical analysis](../t/technical_analysis.md). The platform supports multiple chart types, such as candlestick, bar, and line charts. Additionally, traders can use a variety of [technical indicators](../t/technical_indicators.md) and drawing tools to analyze market trends and make informed decisions.
 
 ### 4. Advanced Trading Tools
-The platform includes several advanced trading tools that enhance the trading experience. These include features like one-click trading, which allows for fast and efficient trade execution. X-Station also offers a trading calculator to help traders determine potential profits, losses, and margin requirements.
+The platform includes several advanced trading tools that enhance the trading experience. These include features like [one-click trading](../o/one-click_trading.md), which allows for fast and efficient trade execution. X-Station also offers a trading calculator to help traders determine potential profits, losses, and margin requirements.
 
 ### 5. Market Sentiment Analysis
-X-Station provides real-time market sentiment analysis, showing the percentage of traders who are buying or selling a particular asset. This can be a valuable tool for understanding market dynamics and making informed trading decisions.
+X-Station provides real-time [market sentiment analysis](../m/market_sentiment_analysis.md), showing the percentage of traders who are buying or selling a particular asset. This can be a valuable tool for understanding market dynamics and making informed trading decisions.
 
 ### 6. Educational Resources
 For novice traders, X-Station offers a wealth of educational resources. These include tutorials, webinars, and market analysis conducted by experts. This educational content helps traders improve their skills and stay updated with market trends.
@@ -30,7 +30,7 @@ For novice traders, X-Station offers a wealth of educational resources. These in
 In addition to the desktop version, X-Station is available as a mobile app for both iOS and Android devices. This ensures that traders can manage their investments and execute trades on the go, providing flexibility and convenience.
 
 ### 8. Risk Management Tools
-Effective risk management is crucial in trading, and X-Station provides several tools to help traders manage their risks. These include stop-loss and take-profit orders, which can help protect gains and limit losses. Trailing stops are also available, allowing trades to remain open and profit as long as the market moves in the trader's favor.
+Effective [risk management](../r/risk_management.md) is crucial in trading, and X-Station provides several tools to help traders manage their risks. These include stop-loss and take-profit orders, which can help protect gains and limit losses. Trailing stops are also available, allowing trades to remain open and profit as long as the market moves in the trader's favor.
 
 ### 9. News and Economic Calendar
 Staying updated with market news and events is essential for traders. X-Station integrates a news feed and an economic calendar into the platform, providing real-time updates on economic events, earnings reports, and other factors that can impact the markets.
@@ -49,14 +49,14 @@ Another significant aspect of the X-Station platform is its user support. XTB pr
 
 ## Integration with Algorithmic Trading
 
-For traders interested in algorithmic trading, X-Station offers features that support the development and deployment of automated trading strategies. Although X-Station does not natively support custom scripting in the way that platforms like MetaTrader 4 or 5 do, it can be integrated with external applications and trading bots via APIs. This allows advanced users to implement their algorithms and take advantage of the platform’s execution speed and reliability.
+For traders interested in [algorithmic trading](../a/algorithmic_trading.md), X-Station offers features that support the development and deployment of automated [trading strategies](../t/trading_strategies.md). Although X-Station does not natively support custom scripting in the way that platforms like MetaTrader 4 or 5 do, it can be integrated with external applications and trading bots via APIs. This allows advanced users to implement their algorithms and take advantage of the platform’s execution speed and reliability.
 
 ## A Brief Look at XTB
 
-XTB, the company behind X-Station, is one of the largest stock exchange-listed FX and CFD brokers in the world. With its headquarters in Warsaw, Poland, XTB has grown to serve clients in over 13 countries, including major financial centers like London and Frankfurt. The company is known for its high-quality brokerage services, extensive range of tradable assets, and commitment to transparency and security.
+XTB, the company behind X-Station, is one of the largest stock exchange-listed FX and CFD brokers in the world. With its headquarters in Warsaw, Poland, XTB has grown to serve clients in over 13 countries, including major financial centers like London and Frankfurt. The company is known for its high-quality [brokerage services](../b/brokerage_services.md), extensive range of tradable assets, and commitment to transparency and security.
 
 For more detailed information about XTB and the X-Station platform, you can visit their official website: [XTB](https://www.xtb.com).
 
 ## Conclusion
 
-In summary, the X-Station platform represents a powerful and user-friendly tool for traders of all experience levels. Its combination of advanced trading tools, comprehensive charting capabilities, and robust risk management features makes it a versatile choice for traders looking to navigate the complexities of the financial markets. With the added backing of a reputable brokerage like XTB, users of X-Station can trade with confidence, supported by a platform that prioritizes speed, reliability, and security.
+In summary, the X-Station platform represents a powerful and user-friendly tool for traders of all experience levels. Its combination of advanced trading tools, comprehensive charting capabilities, and robust [risk management](../r/risk_management.md) features makes it a versatile choice for traders looking to navigate the complexities of the financial markets. With the added backing of a reputable brokerage like XTB, users of X-Station can trade with confidence, supported by a platform that prioritizes speed, reliability, and security.

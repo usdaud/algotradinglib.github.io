@@ -22,7 +22,7 @@ Growth investing is an investment strategy focused on capital appreciation throu
 ## Characteristics of Growth Stocks
 
 1. **High Price-to-Earnings (P/E) Ratios:**
-   Growth stocks generally have higher P/E ratios compared to value stocks, reflecting the market’s expectations of future earnings growth.
+   [Growth stocks](../g/growth_stocks.md) generally have higher P/E ratios compared to value stocks, reflecting the market’s expectations of future earnings growth.
 
 2. **Lower Dividends:**
    Growth companies often do not pay dividends but instead reinvest any earnings back into the business to fuel growth.
@@ -54,7 +54,7 @@ ARK Invest, led by Cathie Wood, is one of the most well-known growth-focused inv
 - **Website:** [ARK Invest](https://ark-invest.com/)
 
 ### 2. T. Rowe Price
-T. Rowe Price has a significant focus on growth stocks through various mutual funds and strategies, targeting companies with strong growth prospects.
+T. Rowe Price has a significant focus on [growth stocks](../g/growth_stocks.md) through various mutual funds and strategies, targeting companies with strong growth prospects.
 - **Website:** [T. Rowe Price](https://www.troweprice.com/)
 
 ### 3. Baillie Gifford
@@ -67,7 +67,7 @@ This Scottish investment firm is another key player in growth investing. Baillie
    The primary advantage is the potential for significant capital gains as companies grow their earnings over time.
 
 2. **Inflation Hedge:**
-   Growth stocks, given their potential to produce higher returns, can act as a hedge against inflation.
+   [Growth stocks](../g/growth_stocks.md), given their potential to produce higher returns, can act as a hedge against inflation.
 
 3. **Investment in Innovation:**
    Growth investing often means supporting innovative companies driving future technological and economic developments.
@@ -75,12 +75,12 @@ This Scottish investment firm is another key player in growth investing. Baillie
 ## Risks of Growth Investing
 
 1. **Valuation Risk:**
-   High valuation multiples can lead to significant price corrections if the expected growth does not materialize.
+   High [valuation multiples](../v/valuation_multiples.md) can lead to significant price corrections if the expected growth does not materialize.
 
 2. **Market Risk:**
-   Growth stocks can be more sensitive to market fluctuations and economic downturns, leading to higher volatility.
+   [Growth stocks](../g/growth_stocks.md) can be more sensitive to market fluctuations and economic downturns, leading to higher volatility.
 
-3. **Execution Risk:**
+3. **[Execution Risk](../e/execution_risk.md):**
    Companies may face risks in executing their growth strategies, including operational challenges or competitive pressures.
 
 ## Conclusion

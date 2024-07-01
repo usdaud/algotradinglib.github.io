@@ -1,6 +1,6 @@
 # Rolling Correlation in Algorithmic Trading
 
-Rolling correlation is a statistical technique used extensively in the domain of financial analysis and algorithmic trading. This method entails calculating the correlation coefficient for overlapping sub-periods within a larger time series. By doing so, it captures the time-varying relationships between different securities or financial assets. Correlation, in this context, measures how two securities move in relation to each other, crucial for portfolio risk management, diversification, and strategic asset allocation.
+Rolling correlation is a statistical technique used extensively in the domain of financial analysis and [algorithmic trading](../a/algorithmic_trading.md). This method entails calculating the correlation coefficient for overlapping sub-periods within a larger time series. By doing so, it captures the time-varying relationships between different securities or financial assets. Correlation, in this context, measures how two securities move in relation to each other, crucial for [portfolio risk management](../p/portfolio_risk_management.md), diversification, and strategic [asset allocation](../a/asset_allocation.md).
 
 ## Understanding Correlation
 
@@ -10,11 +10,11 @@ Before delving into rolling correlation, it's essential to understand the basics
 - **-1** indicates perfect negative correlation: if one asset increases, the other decreases proportionally.
 - **0** indicates no correlation: the movements of the two assets are completely uncorrelated.
 
-In finance, correlation is essential for diversification and risk management. Assets that are less correlated with each other reduce overall portfolio risk as their combined movements are less predictable.
+In finance, correlation is essential for diversification and [risk management](../r/risk_management.md). Assets that are less correlated with each other reduce overall portfolio risk as their combined movements are less predictable.
 
 ## Why Rolling Correlation?
 
-Static correlation measurements have limitations because they provide a single correlation value over an entire historical period, ignoring potential changes over time. Financial markets are dynamic, and relationships between securities can evolve due to various factors like economic cycles, market events, or changing investor behavior. Rolling correlation addresses this limitation by providing a series of correlation values over time.
+Static correlation measurements have limitations because they provide a single correlation value over an entire historical period, ignoring potential changes over time. Financial markets are dynamic, and relationships between securities can evolve due to various factors like [economic cycles](../e/economic_cycles.md), market events, or changing investor behavior. Rolling correlation addresses this limitation by providing a series of correlation values over time.
 
 ## Calculating Rolling Correlation
 
@@ -44,27 +44,27 @@ where \( \bar{x} \) and \( \bar{y} \) are the mean returns of the two assets wit
 
 Rolling correlation helps in constructing diversified portfolios by selecting assets that exhibit low or negative correlation over time. Dynamic adjustments based on evolving correlations improve risk-adjusted returns:
 
-- **Adaptive Asset Allocation**: Modify portfolio weights based on recent correlation changes to maintain diversification.
+- **Adaptive [Asset Allocation](../a/asset_allocation.md)**: Modify portfolio weights based on recent correlation changes to maintain diversification.
   
 ### 2. **Risk Management**
 
 Time-varying correlations aid in identifying periods of increased systemic risk when historically low-correlated assets suddenly move together:
 
-- **Stress Testing**: Use rolling correlation to simulate portfolio performance under different market scenarios.
+- **Stress Testing**: Use rolling correlation to simulate [portfolio performance](../p/portfolio_performance.md) under different market scenarios.
   
 ### 3. **Pairs Trading**
 
-Pairs trading strategies benefit from monitoring the rolling correlation between asset pairs to identify trading opportunities when deviations from historical correlation occur:
+[Pairs trading](../p/pairs_trading.md) strategies benefit from monitoring the rolling correlation between asset pairs to identify trading opportunities when deviations from historical correlation occur:
 
-- **Mean Reversion**: Trade on the assumption that correlated asset prices will revert to their historical relationship.
+- **[Mean Reversion](../m/mean_reversion.md)**: Trade on the assumption that correlated asset prices will revert to their historical relationship.
 
 ### 4. **Hedging Strategies**
 
-Dynamic hedging strategies can utilize rolling correlation to adjust hedge ratios in response to changing correlations between the portfolio and hedging instruments.
+[Dynamic hedging](../d/dynamic_hedging.md) strategies can utilize rolling correlation to adjust hedge ratios in response to changing correlations between the portfolio and hedging instruments.
 
 ### 5. **Signal Generation**
 
-Algorithmic trading strategies can incorporate rolling correlation as a signal for trade execution. For instance, increased correlation between a stock and market index might signal heightened systematic risk, prompting defensive measures.
+[Algorithmic trading](../a/algorithmic_trading.md) strategies can incorporate rolling correlation as a signal for trade execution. For instance, increased correlation between a stock and market index might signal heightened [systematic risk](../s/systematic_risk.md), prompting defensive measures.
 
 ## Practical Implementation in Python
 
@@ -95,13 +95,13 @@ print(rolling_corr)
 
 ### 1. **BlackRock**
 
-BlackRock, one of the world’s largest asset managers, uses sophisticated quantitative models incorporating rolling correlation for portfolio construction and risk management.
+BlackRock, one of the world’s largest asset managers, uses sophisticated [quantitative models](../q/quantitative_models.md) incorporating rolling correlation for portfolio construction and [risk management](../r/risk_management.md).
 
 Link: [BlackRock](https://www.blackrock.com/)
 
 ### 2. **Two Sigma Investments**
 
-Two Sigma, a prominent quantitative hedge fund, leverages advanced statistical techniques, including rolling correlation, to develop algorithmic trading strategies.
+Two Sigma, a prominent quantitative hedge fund, leverages advanced statistical techniques, including rolling correlation, to develop [algorithmic trading](../a/algorithmic_trading.md) strategies.
 
 Link: [Two Sigma](https://www.twosigma.com/)
 
@@ -113,4 +113,4 @@ Link: [Bloomberg](https://www.bloomberg.com/)
 
 ## Conclusion
 
-Rolling correlation is a powerful tool in the arsenal of financial analysts and algorithmic traders. By capturing the dynamic relationships between assets, it offers valuable insights for portfolio management, risk assessment, and strategy development. As markets continue to evolve, the ability to adapt to changing correlations will remain a critical advantage in achieving superior risk-adjusted returns.
+Rolling correlation is a powerful tool in the arsenal of financial analysts and algorithmic traders. By capturing the dynamic relationships between assets, it offers valuable insights for [portfolio management](../p/portfolio_management.md), risk assessment, and strategy development. As markets continue to evolve, the ability to adapt to changing correlations will remain a critical advantage in achieving superior risk-adjusted returns.

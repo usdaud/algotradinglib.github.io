@@ -6,7 +6,7 @@ Natural Language Processing (NLP) is a subfield of artificial intelligence (AI) 
 
 #### Sentiment Analysis
 
-Sentiment analysis involves determining the sentiment expressed in a piece of text—whether it is positive, negative, or neutral. In trading, sentiment analysis is commonly applied to news articles, social media posts, and financial reports to gauge market sentiment. For example, a positive sentiment around a particular stock in the news might suggest a potential buying opportunity.
+[Sentiment analysis](../s/sentiment_analysis.md) involves determining the sentiment expressed in a piece of text—whether it is positive, negative, or neutral. In trading, [sentiment analysis](../s/sentiment_analysis.md) is commonly applied to news articles, social media posts, and financial reports to gauge market sentiment. For example, a positive sentiment around a particular stock in the news might suggest a potential buying opportunity.
 
 #### News Analytics
 
@@ -36,11 +36,11 @@ Named Entity Recognition is used to identify and classify entities within the te
 
 #### Part-of-Speech Tagging (POS)
 
-POS tagging involves assigning parts of speech to each token, such as nouns, verbs, adjectives, and so on. This helps in understanding the grammatical structure of the sentence, which is important for tasks like sentiment analysis.
+POS tagging involves assigning parts of speech to each token, such as nouns, verbs, adjectives, and so on. This helps in understanding the grammatical structure of the sentence, which is important for tasks like [sentiment analysis](../s/sentiment_analysis.md).
 
 #### Topic Modeling
 
-Topic modeling techniques, such as Latent Dirichlet Allocation (LDA), are used to discover abstract topics within a large corpus of text. This helps in identifying the main themes in news articles, financial reports, or social media posts, which can then be linked to market trends.
+Topic modeling techniques, such as [Latent Dirichlet Allocation](../l/latent_dirichlet_allocation.md) (LDA), are used to discover abstract topics within a large corpus of text. This helps in identifying the main themes in news articles, financial reports, or social media posts, which can then be linked to market trends.
 
 #### Word Embeddings
 
@@ -84,7 +84,7 @@ NLP helps in identifying potential risks by monitoring negative sentiments, frau
 
 ### Examples of NLP in Trading Platforms
 
-Several trading platforms and financial institutions have integrated NLP into their systems to enhance their trading strategies.
+Several trading platforms and financial institutions have integrated NLP into their systems to enhance their [trading strategies](../t/trading_strategies.md).
 
 #### Bloomberg Terminal
 
@@ -100,8 +100,8 @@ AlphaSense is a market intelligence platform that leverages NLP to analyze a wid
 
 #### RavenPack
 
-RavenPack uses NLP to convert unstructured data into structured formats, helping financial professionals gain insights from news, social media, and other textual sources. Their analytics facilitate better trading strategies and risk management. [RavenPack](https://www.ravenpack.com/)
+RavenPack uses NLP to convert unstructured data into structured formats, helping financial professionals gain insights from news, social media, and other textual sources. Their analytics facilitate better [trading strategies](../t/trading_strategies.md) and [risk management](../r/risk_management.md). [RavenPack](https://www.ravenpack.com/)
 
 ### Conclusion
 
-Natural Language Processing has revolutionized the trading landscape by enabling traders to extract valuable insights from vast amounts of textual data. From sentiment analysis and news analytics to social media monitoring and fraud detection, NLP offers numerous applications that enhance decision-making, improve efficiency, and provide a competitive edge. However, implementing NLP in trading is not without challenges, such as ensuring data quality, handling complex financial language, and navigating ethical concerns. Despite these challenges, the benefits of NLP in trading make it a powerful tool for modern financial markets.
+Natural Language Processing has revolutionized the trading landscape by enabling traders to extract valuable insights from vast amounts of textual data. From [sentiment analysis](../s/sentiment_analysis.md) and news analytics to social media monitoring and fraud detection, NLP offers numerous applications that enhance decision-making, improve efficiency, and provide a competitive edge. However, implementing NLP in trading is not without challenges, such as ensuring data quality, handling complex financial language, and navigating ethical concerns. Despite these challenges, the benefits of NLP in trading make it a powerful tool for modern financial markets.

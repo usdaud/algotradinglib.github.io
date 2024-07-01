@@ -1,6 +1,6 @@
 # Off-Exchange Trading
 
-Off-exchange trading, also known as over-the-counter (OTC) trading, refers to the process of trading financial instruments directly between two parties without the supervision of an exchange. Traditionally, this type of trading was prevalent among institutional investors for large block trades or illiquid assets that could not easily be executed on public exchanges. In recent years, it has grown to include a wider range of financial products and participants, driven by technological advancements and regulatory changes. The main financial instruments traded off-exchange include stocks, bonds, derivatives, and forex.
+Off-exchange trading, also known as [over-the-counter (OTC) trading](../o/over-the-counter_(otc)_trading.md), refers to the process of trading financial instruments directly between two parties without the supervision of an exchange. Traditionally, this type of trading was prevalent among institutional investors for [large block trades](../l/large_block_trades.md) or illiquid assets that could not easily be executed on public exchanges. In recent years, it has grown to include a wider range of financial products and participants, driven by technological advancements and regulatory changes. The main financial instruments traded off-exchange include stocks, bonds, [derivatives](../d/derivatives.md), and forex.
 
 ## Key Characteristics of Off-Exchange Trading
 
@@ -24,7 +24,7 @@ Off-exchange trading is subject to different regulatory oversight compared to ex
 
 ### 1. Equity Trading
 
-Off-exchange equity trading is often referred to as "dark pool" trading. Dark pools are private forums where buyers and sellers can trade large quantities of stocks without revealing their intentions to the broader market. This can help minimize the price impact of large trades. Some well-known dark pool operators include:
+Off-exchange [equity trading](../e/equity_trading.md) is often referred to as "dark pool" trading. [Dark pools](../d/dark_pools.md) are private forums where buyers and sellers can trade large quantities of stocks without revealing their intentions to the broader market. This can help minimize the price impact of large trades. Some well-known dark pool operators include:
 
 - **Instinet** - [Instinet](https://www.instinet.com)
 - **Liquidnet** - [Liquidnet](https://www.liquidnet.com)
@@ -32,13 +32,13 @@ Off-exchange equity trading is often referred to as "dark pool" trading. Dark po
 
 ### 2. Fixed Income Trading
 
-Off-exchange trading is especially common in the fixed income market, where bonds and other debt instruments are often traded directly between institutional investors. The OTC market for fixed income securities is typically less liquid and more fragmented than the equity markets, requiring specialized knowledge and connections to navigate effectively.
+Off-exchange trading is especially common in the fixed income market, where bonds and other debt instruments are often traded directly between institutional investors. The OTC market for [fixed income securities](../f/fixed_income_securities.md) is typically less liquid and more fragmented than the equity markets, requiring specialized knowledge and connections to navigate effectively.
 
 - **Tradeweb** - [Tradeweb](https://www.tradeweb.com)
 
 ### 3. Derivatives Trading
 
-Derivatives, such as options, futures, and swaps, are also commonly traded off-exchange. OTC derivatives can be highly customized to meet the specific risk management or speculative needs of the counterparties involved. This market is typically dominated by large financial institutions and corporations seeking to hedge various risks or gain exposure to different asset classes.
+[Derivatives](../d/derivatives.md), such as options, futures, and swaps, are also commonly traded off-exchange. OTC [derivatives](../d/derivatives.md) can be highly customized to meet the specific [risk management](../r/risk_management.md) or speculative needs of the counterparties involved. This market is typically dominated by large financial institutions and corporations seeking to hedge various risks or gain exposure to different asset classes.
 
 ### 4. Forex Trading
 
@@ -95,7 +95,7 @@ Electronic trading platforms have revolutionized the OTC market by providing mor
 
 ### 2. Algorithmic Trading
 
-Algorithmic trading involves the use of computer algorithms to automate trading decisions and execute orders based on predefined criteria. This has significantly enhanced the efficiency and accuracy of off-exchange trading, enabling traders to capitalize on market opportunities more effectively.
+[Algorithmic trading](../a/algorithmic_trading.md) involves the use of computer algorithms to automate trading decisions and execute orders based on predefined criteria. This has significantly enhanced the efficiency and accuracy of off-exchange trading, enabling traders to capitalize on market opportunities more effectively.
 
 ### 3. Distributed Ledger Technology (DLT)
 

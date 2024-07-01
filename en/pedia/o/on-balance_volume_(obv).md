@@ -1,7 +1,7 @@
 # On-Balance Volume (OBV)
 
 ## Introduction
-On-Balance Volume (OBV) is a technical analysis indicator that forecasts the price movement of assets by measuring the buying and selling pressure. The OBV was developed by Joe Granville and introduced in his 1963 book "Granville's New Key to Stock Market Profits." It has since become a widely utilized tool among traders to identify trends and predict price movements in financial markets.
+On-Balance Volume (OBV) is a [technical analysis](../t/technical_analysis.md) indicator that forecasts the price movement of assets by measuring the buying and selling pressure. The OBV was developed by Joe Granville and introduced in his 1963 book "Granville's New Key to Stock Market Profits." It has since become a widely utilized tool among traders to identify trends and predict price movements in financial markets.
 
 ## Definition of OBV
 The On-Balance Volume indicator accumulates volume data and adds or subtracts the daily volume depending on the closing price movement. If the closing price of a stock or commodity increases, the volume for that day is added to the cumulative OBV. Conversely, if the closing price decreases, the volume for that day is subtracted. This accumulation delivers a running total of trading volume that provides insights into the underlying strength of price movements.
@@ -26,8 +26,8 @@ Conversely, a falling OBV suggests that selling pressure exceeds buying pressure
 
 ### Divergence
 Divergence between OBV and price can be a critical indicator:
-- **Bullish Divergence:** Occurs when the price makes new lows but the OBV does not follow suit and makes higher lows. This can indicate an upcoming price reversal to the upside.
-- **Bearish Divergence:** Occurs when the price makes new highs, but the OBV does not make corresponding new highs, signaling potential price reversal to the downside.
+- **[Bullish Divergence](../b/bullish_divergence.md):** Occurs when the price makes new lows but the OBV does not follow suit and makes higher lows. This can indicate an upcoming price reversal to the upside.
+- **[Bearish Divergence](../b/bearish_divergence.md):** Occurs when the price makes new highs, but the OBV does not make corresponding new highs, signaling potential price reversal to the downside.
 
 ## Applications of OBV
 ### Trend Confirmation
@@ -49,7 +49,7 @@ OBV is versatile and can be applied across various financial markets, including 
 ## Disadvantages of OBV
 - **Sensitivity to Skew:** OBV might be overly sensitive to high or low volume days, which can cause misleading signals.
 - **False Signals:** Significant volume spikes due to one-off events might distort the OBV, leading to potential false signals.
-- **Supplementary Tool:** OBV should be used in conjunction with other technical indicators for better reliability, as it might not always be accurate on its own.
+- **Supplementary Tool:** OBV should be used in conjunction with other [technical indicators](../t/technical_indicators.md) for better reliability, as it might not always be accurate on its own.
 
 ## Practical Example
 Consider a hypothetical stock XYZ. On Monday, the stock closes at $100 with a volume of 1,000,000 shares. On Tuesday, the price increases to $105 with a volume of 1,200,000 shares. The OBV calculation for these two days would be:
@@ -69,7 +69,7 @@ Let's consider Google (Alphabet Inc.) as a case study for OBV application. Suppo
 On the other hand, consider Tesla Inc., where the stock price is in a consolidation phase, moving sideways. If the OBV starts to increase significantly during this period without a corresponding price rise, it might hint at an impending upward breakout.
 
 ## Companies Utilizing OBV
-Many hedge funds and trading firms integrate OBV into their automated trading algorithms to enhance the prediction accuracy of their models. Companies like Renaissance Technologies ([Renaissance Technologies](https://www.rentec.com/)) and Two Sigma ([Two Sigma](https://www.twosigma.com/)) are known for their advanced algorithmic trading strategies, which may incorporate volume-based indicators such as OBV.
+Many hedge funds and trading firms integrate OBV into their automated [trading algorithms](../t/trading_algorithms.md) to enhance the prediction accuracy of their models. Companies like Renaissance Technologies ([Renaissance Technologies](https://www.rentec.com/)) and Two Sigma ([Two Sigma](https://www.twosigma.com/)) are known for their advanced [algorithmic trading](../a/algorithmic_trading.md) strategies, which may incorporate volume-based indicators such as OBV.
 
 ## Conclusion
-On-Balance Volume (OBV) is a powerful tool in technical analysis that provides valuable insights into price movements by focusing on volume data. Despite its limitations, OBV remains a popular indicator due to its simplicity and effectiveness in forecasting trends. When used alongside other technical indicators, OBV can significantly enhance trading strategies and decision-making processes, ultimately supporting traders in navigating the complexities of financial markets.
+On-Balance Volume (OBV) is a powerful tool in [technical analysis](../t/technical_analysis.md) that provides valuable insights into price movements by focusing on volume data. Despite its limitations, OBV remains a popular indicator due to its simplicity and effectiveness in forecasting trends. When used alongside other [technical indicators](../t/technical_indicators.md), OBV can significantly enhance [trading strategies](../t/trading_strategies.md) and decision-making processes, ultimately supporting traders in navigating the complexities of financial markets.

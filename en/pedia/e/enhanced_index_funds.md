@@ -1,6 +1,6 @@
 # Enhanced Index Funds
 
-Enhanced index funds, also known as index-plus funds or active index funds, represent a sophisticated financial strategy combining elements of both passive and active fund management. These funds aim to outperform traditional index funds by leveraging various active management techniques while maintaining the core foundation of a passively managed index. The goal is to provide investors with a better risk-adjusted return compared to standard index funds.
+Enhanced index funds, also known as index-plus funds or active index funds, represent a sophisticated financial strategy combining elements of both passive and active fund management. These funds aim to outperform traditional index funds by leveraging various active management techniques while maintaining the core foundation of a passively managed index. The goal is to provide investors with a better [risk-adjusted return](../r/risk-adjusted_return.md) compared to standard index funds.
 
 ## Core Concepts of Enhanced Index Funds
 
@@ -8,10 +8,10 @@ Enhanced index funds, also known as index-plus funds or active index funds, repr
 The fundamental principle of enhanced index funds is their reliance on a standard benchmark index, such as the S&P 500. This passive foundation ensures that the fund maintains a diversified portfolio that tracks the performance of the chosen index.
 
 ### 2. Active Management Overlay
-Enhanced index funds incorporate active management strategies to add value over and above the benchmark index returns. This may include strategies like stock selection, sector rotation, quantitative analysis, and other proprietary methods developed by the fund managers.
+Enhanced index funds incorporate active management strategies to add value over and above the benchmark index returns. This may include strategies like stock selection, [sector rotation](../s/sector_rotation.md), [quantitative analysis](../q/quantitative_analysis.md), and other proprietary methods developed by the fund managers.
 
 ### 3. Risk Management
-One of the critical aspects of enhanced index funds is risk management. Managers employ various tools and techniques to manage and mitigate risks, ensuring that the fund does not deviate significantly from the benchmark index's risk profile.
+One of the critical aspects of enhanced index funds is [risk management](../r/risk_management.md). Managers employ various tools and techniques to manage and mitigate risks, ensuring that the fund does not deviate significantly from the benchmark index's risk profile.
 
 ## Comparing Enhanced Index Funds to Traditional Index Funds
 
@@ -24,13 +24,13 @@ One of the critical aspects of enhanced index funds is risk management. Managers
 ## Strategies Employed in Enhanced Index Funds
 
 ### 1. Quantitative Models
-Fund managers may utilize quantitative models that analyze statistical data to inform investment decisions. These models can uncover patterns and trends that human analysts might miss, providing a systematic approach to enhancing returns.
+Fund managers may utilize [quantitative models](../q/quantitative_models.md) that analyze statistical data to inform investment decisions. These models can uncover patterns and trends that human analysts might miss, providing a systematic approach to enhancing returns.
 
 ### 2. Fundamental Analysis
 This involves analyzing a company's financial health, including metrics such as earnings, revenue, and profit margins, to identify undervalued stocks within the index that might offer better returns.
 
 ### 3. Technical Analysis
-Technical analysis looks at historical market data, primarily price and volume, to forecast future price movements. This can help in timing investments and identifying entry and exit points for specific stocks.
+[Technical analysis](../t/technical_analysis.md) looks at historical market data, primarily price and volume, to forecast future price movements. This can help in timing investments and identifying entry and exit points for specific stocks.
 
 ### 4. Factor Investing
 This strategy involves targeting specific factors such as value, momentum, size, and volatility that have historically been associated with higher returns. Enhanced index funds might overweight or underweight these factors relative to the benchmark index.
@@ -41,7 +41,7 @@ Managers might shift the fund's weighting among different sectors of the economy
 ## Benefits of Enhanced Index Funds
 
 - **Potential for Higher Returns:** By incorporating active management strategies, enhanced index funds offer the potential to outperform traditional index funds.
-- **Diversification:** These funds still provide the broad market exposure and diversification benefits inherent in standard index funds.
+- **Diversification:** These funds still provide the broad market exposure and [diversification benefits](../d/diversification_benefits.md) inherent in standard index funds.
 - **Cost Efficiency:** Enhanced index funds typically have lower fees compared to fully active funds, making them a cost-effective way to pursue higher returns.
 - **Defined Benchmark:** Investors benefit from the clarity of a defined benchmark index, which aids in measuring performance and managing expectations.
 

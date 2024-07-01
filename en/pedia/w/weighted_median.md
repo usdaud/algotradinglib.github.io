@@ -1,6 +1,6 @@
 # Weighted Median
 
-In the realm of algorithmic trading, various statistical measures are employed to make data-driven decisions. One such measure is the "weighted median," which extends the concept of a median to weighted data points. This sophisticated concept is essential for certain financial models and algorithms that prioritize some data points over others based on their significance or reliability.
+In the realm of [algorithmic trading](../a/algorithmic_trading.md), various statistical measures are employed to make data-driven decisions. One such measure is the "weighted median," which extends the concept of a median to weighted data points. This sophisticated concept is essential for certain financial models and algorithms that prioritize some data points over others based on their significance or reliability.
 
 ## Definition
 
@@ -44,10 +44,10 @@ The weighted median is particularly useful in the finance domain for various tas
 Investment portfolios often contain assets with varying levels of risk and return. The weighted median can help in constructing a robust portfolio by placing more emphasis on reliable assets with higher weights. This assists in minimizing the impact of outlier data points or assets with lower reliability.
 
 ### 2. Outlier Detection
-In trading algorithms, outlier detection is crucial for preventing anomalies from skewing analysis. The weighted median is a robust measure more resilient to outliers compared to the mean. If certain trades or data points have higher confidence, they are assigned greater weight, thereby reducing the noise from less reliable data.
+In [trading algorithms](../t/trading_algorithms.md), outlier detection is crucial for preventing anomalies from skewing analysis. The weighted median is a robust measure more resilient to outliers compared to the mean. If certain trades or data points have higher confidence, they are assigned greater weight, thereby reducing the noise from less reliable data.
 
 ### 3. Signal Smoothing
-Trading signals often exhibit volatility. By considering weighted data points, the weighted median smooths these signals, making it easier to discern the underlying trends. This contributes to more consistent and accurate trading decisions.
+[Trading signals](../t/trading_signals.md) often exhibit volatility. By considering weighted data points, the weighted median smooths these signals, making it easier to discern the underlying trends. This contributes to more consistent and accurate trading decisions.
 
 ### 4. Risk Management
 Different financial instruments have varying degrees of risk associated with them. By applying weights corresponding to risk levels, the weighted median helps in making informed decisions about risk exposure, leading to better risk-adjusted returns.
@@ -63,7 +63,7 @@ This algorithm follows the steps mentioned in the calculation section and typica
 This algorithm leverages the partition-based selection method, similar to Quickselect used for finding the k-th smallest element. It has an average-case time complexity of \(O(n)\) but can be more complex to implement.
 
 ### Heaps and Balanced Trees
-Data structures like heaps and balanced binary search trees may also be used to maintain data points and their cumulative weights dynamically. These structures allow efficient insertion, deletion, and median finding, especially useful for real-time applications in algorithmic trading.
+Data structures like heaps and balanced binary search trees may also be used to maintain data points and their cumulative weights dynamically. These structures allow efficient insertion, deletion, and median finding, especially useful for real-time applications in [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Pseudocode: Sorting-Based Algorithm
 
@@ -104,4 +104,4 @@ For an in-depth understanding and advanced methods, consult the following resour
 - [Algorithmic Trading Insights from QuantInsti](https://www.quantinsti.com/blog/algorithmic-trading)
 - [Risk and Portfolio Management](https://www.riskportfolio.com)
 
-In summary, the weighted median is a powerful statistical measure, enhancing the robustness and reliability of trading algorithms by giving priority to more significant data points. Its applications in portfolio management, outlier detection, signal processing, and risk management make it an indispensable tool in the algorithmic trader's toolkit.
+In summary, the weighted median is a powerful statistical measure, enhancing the robustness and reliability of [trading algorithms](../t/trading_algorithms.md) by giving priority to more significant data points. Its applications in [portfolio management](../p/portfolio_management.md), outlier detection, signal processing, and [risk management](../r/risk_management.md) make it an indispensable tool in the algorithmic trader's toolkit.

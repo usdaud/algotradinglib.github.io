@@ -11,10 +11,10 @@ Value at Risk (VaR) is a widely-used risk measure that estimates the maximum pot
 
 - **Historical VaR:** Uses historical data to estimate potential future losses by looking at the distribution of past returns.
 - **Parametric VaR:** Assumes that returns are normally distributed and uses statistical measures like mean and standard deviation to calculate risk.
-- **Monte Carlo Simulation VaR:** Generates a large number of potential future price scenarios to calculate potential losses.
+- **[Monte Carlo Simulation](../m/monte_carlo_simulation.md) VaR:** Generates a large number of potential future price scenarios to calculate potential losses.
 
 #### Conditional Value at Risk (CVaR)
-Conditional Value at Risk (CVaR), also known as Expected Shortfall (ES), goes beyond VaR by considering the tail-end of the loss distribution. It provides an average of the worst losses after the VaR point, offering a more comprehensive understanding of tail risks.
+Conditional Value at Risk (CVaR), also known as Expected Shortfall (ES), goes beyond VaR by considering the tail-end of the [loss distribution](../l/loss_distribution.md). It provides an average of the worst losses after the VaR point, offering a more comprehensive understanding of tail risks.
 
 ### Components of Risk Models
 
@@ -27,7 +27,7 @@ Credit risk refers to the risk of losses due to a counterparty's failure to meet
 - **CreditMetrics:** Developed by JP Morgan, CreditMetrics evaluates the risk of changes in credit quality.
 
 #### Liquidity Risk
-Liquidity risk is the difficulty of buying or selling assets without causing significant price changes. Models assess liquidity risk by analyzing bid-ask spreads, market depth, and transaction costs.
+[Liquidity risk](../l/liquidity_risk.md) is the difficulty of buying or selling assets without causing significant price changes. Models assess [liquidity risk](../l/liquidity_risk.md) by analyzing bid-ask spreads, market depth, and transaction costs.
 
 #### Operational Risk
 Operational risk covers losses from internal process failures, human errors, and technical issues. Scenario analysis and key risk indicators (KRIs) are commonly used to model operational risk.
@@ -38,29 +38,29 @@ Operational risk covers losses from internal process failures, human errors, and
 Stress testing involves subjecting a portfolio to extreme economic scenarios to evaluate its resilience. Scenarios may include financial crises, market crashes, or geopolitical uncertainties.
 
 #### Scenario Analysis
-Scenario analysis explores various hypothetical events to understand their impact on portfolio performance. Unlike stress testing, which is often extreme, scenario analysis includes a range of potential future states, from very optimistic to very pessimistic.
+Scenario analysis explores various hypothetical events to understand their impact on [portfolio performance](../p/portfolio_performance.md). Unlike stress testing, which is often extreme, scenario analysis includes a range of potential future states, from very optimistic to very pessimistic.
 
 #### Monte Carlo Simulation
-Monte Carlo Simulation uses random sampling methods to generate numerous possible future states of the market. This technique helps to model the probability distribution of potential outcomes.
+[Monte Carlo Simulation](../m/monte_carlo_simulation.md) uses random sampling methods to generate numerous possible future states of the market. This technique helps to model the probability distribution of potential outcomes.
 
 ### Applications of Risk Models
 
 #### Portfolio Optimization
-Risk models aid in portfolio optimization by balancing risk and return. The goal is to maximize returns for a given level of risk, or minimize risk for a given level of return, often using the mean-variance optimization framework developed by Harry Markowitz.
+Risk models aid in [portfolio optimization](../p/portfolio_optimization.md) by balancing risk and return. The goal is to maximize returns for a given level of risk, or minimize risk for a given level of return, often using the [mean-variance optimization](../m/mean-variance_optimization.md) framework developed by Harry Markowitz.
 
 #### Regulatory Compliance
 Financial institutions use risk models to comply with regulatory requirements like Basel III, which mandates specific capital reserves to cover different types of risks.
 
 #### Performance Measurement
-Risk-adjusted performance metrics like the Sharpe ratio, Treynor ratio, and Jensen's alpha rely on risk models to provide more accurate evaluations of portfolio performance.
+Risk-adjusted [performance metrics](../p/performance_metrics.md) like the [Sharpe ratio](../s/sharpe_ratio.md), Treynor ratio, and [Jensen's alpha](../j/jensen's_alpha.md) rely on risk models to provide more accurate evaluations of [portfolio performance](../p/portfolio_performance.md).
 
 ### Risk Modeling Software
 
 **BlackRock Aladdin**
-BlackRock Aladdin provides comprehensive risk analytics, involving detailed scenario analysis, stress testing, and portfolio management tools. More details at [BlackRock Aladdin](https://www.blackrock.com/aladdin).
+BlackRock Aladdin provides comprehensive risk analytics, involving detailed scenario analysis, stress testing, and [portfolio management](../p/portfolio_management.md) tools. More details at [BlackRock Aladdin](https://www.blackrock.com/aladdin).
 
 **Bloomberg Risk Terminal**
-Bloomberg offers robust risk management tools through its Bloomberg Terminal. The platform includes a wide array of risk analytics, including VaR, CVaR, and stress testing capabilities. More information available at [Bloomberg Professional Services](https://www.bloomberg.com/professional/solution/market-risk/).
+Bloomberg offers robust [risk management](../r/risk_management.md) tools through its Bloomberg Terminal. The platform includes a wide array of risk analytics, including VaR, CVaR, and stress testing capabilities. More information available at [Bloomberg Professional Services](https://www.bloomberg.com/professional/solution/market-risk/).
 
 ### Challenges in Risk Modeling
 

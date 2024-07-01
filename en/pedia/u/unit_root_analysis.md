@@ -1,10 +1,10 @@
 # Unit Root Analysis
 
-Unit root analysis is a crucial concept in econometrics and time series analysis, especially in the context of financial modeling and algorithmic trading. This statistical property of time series data indicates whether a series is stationary or possesses a unit root, implying non-stationarity. Time series data with a unit root can exhibit persistent, stochastic trends, which makes traditional models less effective, thereby necessitating specialized techniques to ensure accurate forecasting and analysis.
+Unit root analysis is a crucial concept in econometrics and [time series analysis](../t/time_series_analysis.md), especially in the context of [financial modeling](../f/financial_modeling.md) and [algorithmic trading](../a/algorithmic_trading.md). This statistical property of time series data indicates whether a series is stationary or possesses a unit root, implying non-stationarity. Time series data with a unit root can exhibit persistent, stochastic trends, which makes traditional models less effective, thereby necessitating specialized techniques to ensure accurate forecasting and analysis.
 
 ## Importance in Algorithmic Trading
 
-In algorithmic trading, where financial decisions are made based on historical price data, it's vital to determine whether the data is stationary or non-stationary. Non-stationary data can lead to unreliable model estimates and spurious regression results. Unit root analysis helps in identifying such characteristics and thereby prepares the data for more accurate model application, enhancing the performance and reliability of trading algorithms.
+In [algorithmic trading](../a/algorithmic_trading.md), where financial decisions are made based on historical price data, it's vital to determine whether the data is stationary or non-stationary. Non-stationary data can lead to unreliable model estimates and spurious regression results. Unit root analysis helps in identifying such characteristics and thereby prepares the data for more accurate model application, enhancing the performance and reliability of [trading algorithms](../t/trading_algorithms.md).
 
 ## Overview of Unit Root
 
@@ -46,7 +46,7 @@ The KPSS test is often used in conjunction with the ADF and PP tests to confirm 
 
 ## Implications for Time Series Modelling
 
-The presence of a unit root has significant implications for time series modeling in financial markets:
+The presence of a unit root has significant implications for [time series modeling](../t/time_series_modeling.md) in financial markets:
 
 ### Model Appropriateness 
 
@@ -54,18 +54,18 @@ If a time series is found to have a unit root, models that assume stationarity, 
 
 ### Forecast Accuracy
 
-Accurate forecasting in financial markets requires reducing non-stationarity. Techniques such as differencing and transformation (logarithmic, seasonal adjustment) are essential to enhance the stationarity of a series, thereby improving forecast accuracy.
+Accurate forecasting in financial markets requires reducing non-stationarity. Techniques such as differencing and transformation (logarithmic, seasonal adjustment) are essential to enhance the stationarity of a series, thereby improving [forecast accuracy](../f/forecast_accuracy.md).
 
 ## Case Study: Application in Financial Markets
 
 ### Stock Price Analysis
 
-Consider the case of an algorithmic trading strategy aimed at forecasting stock prices. Stock prices typically exhibit non-stationary behavior due to trends, seasonality, and economic events.
+Consider the case of an [algorithmic trading](../a/algorithmic_trading.md) strategy aimed at forecasting stock prices. Stock prices typically exhibit non-stationary behavior due to trends, seasonality, and economic events.
 
 1. **Identify Data Characteristics**: By conducting unit root analysis, traders can identify whether stock prices display unit root behavior.
 2. **Transformation**: Apply transformations like logarithmic differences to convert the non-stationary series to a stationary one.
 3. **Model Selection**: Use ARIMA or other models suited for non-stationary data to forecast future prices.
-4. **Backtesting**: Test the model against historical data to validate its predictive power before implementation.
+4. **[Backtesting](../b/backtesting.md)**: Test the model against historical data to validate its predictive power before implementation.
 
 ### Forex Trading
 
@@ -81,7 +81,7 @@ Various statistical software and programming libraries offer tools to conduct un
 
 ### R
 
-- `urca` package: Provides functions for unit root testing, including ADF, PP, and KPSS tests.
+- `urca` package: Provides functions for [unit root testing](../u/unit_root_testing.md), including ADF, PP, and KPSS tests.
   [urca package documentation](https://cran.r-project.org/web/packages/urca/urca.pdf)
 
 ### Python
@@ -96,4 +96,4 @@ EViews offers comprehensive tools for unit root analysis, including graphical re
 
 ## Conclusion
 
-Unit root analysis is indispensable for time series analysis and modeling in algorithmic trading. By accurately identifying and addressing non-stationarity in financial data, traders and analysts can enhance model reliability and forecast accuracy, ultimately leading to more informed trading decisions and optimized strategies.
+Unit root analysis is indispensable for [time series analysis](../t/time_series_analysis.md) and modeling in [algorithmic trading](../a/algorithmic_trading.md). By accurately identifying and addressing non-stationarity in financial data, traders and analysts can enhance model reliability and [forecast accuracy](../f/forecast_accuracy.md), ultimately leading to more informed trading decisions and optimized strategies.

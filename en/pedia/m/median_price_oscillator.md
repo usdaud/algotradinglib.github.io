@@ -1,6 +1,6 @@
 # Median Price Oscillator
 
-The Median Price Oscillator (MPO) is a momentum-based technical analysis tool used primarily in the realm of algorithmic trading. The MPO helps traders visualize and analyze the momentum of securities by tracing the variation between the median price of an asset and its smoothed exponential moving average (EMA). This indicator belongs to the oscillatory category, providing cues on overbought or oversold conditions, the overall strength of a trend, and potential reversal points. 
+The Median Price Oscillator (MPO) is a momentum-based [technical analysis](../t/technical_analysis.md) tool used primarily in the realm of [algorithmic trading](../a/algorithmic_trading.md). The MPO helps traders visualize and analyze the momentum of securities by tracing the variation between the median price of an asset and its smoothed exponential moving average (EMA). This indicator belongs to the oscillatory category, providing cues on overbought or oversold conditions, the overall strength of a trend, and potential reversal points. 
 
 ## Understanding the Median Price
 
@@ -49,11 +49,11 @@ The Median Price Oscillator oscillates around a zero line, providing a visual re
 
 - **Above Zero:** When the MPO is above zero, it suggests that the median price is higher than its EMA, indicating upward momentum.
 - **Below Zero:** When the MPO is below zero, it indicates that the median price is below its EMA, suggesting downward momentum.
-- **Crossing Zero:** A crossover of the zero line can signify a potential trend reversal. If the MPO moves from below to above zero, it may be a bullish signal, while a move from above to below zero could be seen as a bearish signal.
+- **Crossing Zero:** A crossover of the zero line can signify a potential [trend reversal](../t/trend_reversal.md). If the MPO moves from below to above zero, it may be a bullish signal, while a move from above to below zero could be seen as a bearish signal.
 
 ## Practical Applications in Algorithmic Trading
 
-The Median Price Oscillator is valuable in algorithmic trading for its momentum-based insights. Algorithms can use this data to execute strategies such as:
+The Median Price Oscillator is valuable in [algorithmic trading](../a/algorithmic_trading.md) for its momentum-based insights. Algorithms can use this data to execute strategies such as:
 
 - **Reversal Strategies:** Detect trend reversals by identifying zero-line crossovers.
 - **Trend Confirmation:** Use the MPO to confirm the strength and direction of price trends, improving accuracy for trend-following strategies.
@@ -83,14 +83,14 @@ While MPO is a powerful tool, it is important to consider certain limitations an
 
 ## Software Tools and Platforms
 
-Several trading platforms and software tools provide integrated MPO indicators, facilitating its use in algorithmic trading:
+Several trading platforms and software tools provide integrated MPO indicators, facilitating its use in [algorithmic trading](../a/algorithmic_trading.md):
 
 - **MetaTrader 4/5:** Popular among retail traders, MetaTrader offers custom indicators and automated trading capabilities, including the Median Price Oscillator.
-- **NinjaTrader:** This platform supports a wide range of technical indicators including MPO, with the ability to develop, test, and execute automated trading strategies.
+- **NinjaTrader:** This platform supports a wide range of [technical indicators](../t/technical_indicators.md) including MPO, with the ability to develop, test, and execute automated [trading strategies](../t/trading_strategies.md).
 - **TradingView:** Known for its user-friendly interface, TradingView provides scripting capabilities and a community-driven environment to create and share MPO-based strategies.
 
 ## Conclusion
 
-The Median Price Oscillator is a versatile and insightful tool in the toolkit of algorithmic traders. With its ability to gauge momentum and signal potential trend reversals, it aids in making more informed trading decisions. However, like all technical indicators, it should be used in conjunction with other tools and methods to maximize its effectiveness. Understanding its calculation, interpretation, and application can significantly enhance trading algorithms, enabling traders to navigate financial markets with greater precision.
+The Median Price Oscillator is a versatile and insightful tool in the toolkit of algorithmic traders. With its ability to gauge momentum and signal potential trend reversals, it aids in making more informed trading decisions. However, like all [technical indicators](../t/technical_indicators.md), it should be used in conjunction with other tools and methods to maximize its effectiveness. Understanding its calculation, interpretation, and application can significantly enhance [trading algorithms](../t/trading_algorithms.md), enabling traders to navigate financial markets with greater precision.
 
-For those looking to dive deeper into MPO and develop customized trading strategies around it, exploring comprehensive trading platforms like [MetaTrader](https://www.metatrader4.com) or [NinjaTrader](https://www.ninjatrader.com/) is highly recommended.
+For those looking to dive deeper into MPO and develop customized [trading strategies](../t/trading_strategies.md) around it, exploring comprehensive trading platforms like [MetaTrader](https://www.metatrader4.com) or [NinjaTrader](https://www.ninjatrader.com/) is highly recommended.

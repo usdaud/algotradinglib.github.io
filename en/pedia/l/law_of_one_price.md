@@ -1,20 +1,20 @@
 # Law of One Price
 
-The Law of One Price (LOP) is a fundamental concept in economics, finance, and trading that asserts that in an efficient market, identical goods or securities should have only one price when expressed in a common currency, when there are no transportation costs and no differential taxes applied in the two markets. The Law of One Price is particularly important in the context of global financial markets, foreign exchange trading, and arbitrage.
+The Law of One Price (LOP) is a fundamental concept in economics, finance, and trading that asserts that in an efficient market, identical goods or securities should have only one price when expressed in a common currency, when there are no transportation costs and no differential taxes applied in the two markets. The Law of One Price is particularly important in the context of global financial markets, foreign exchange trading, and [arbitrage](../a/arbitrage.md).
 
 The concept is rooted in the idea that goods or securities should be traded in such a way that prevents the existence of price differentials, and any such differentials, if they exist, are quickly exploited and neutralized by arbitrageurs.
 
 ## Theoretical Foundations of the Law of One Price
 
-The Law of One Price is underpinned by the principles of arbitrage and market efficiency.
+The Law of One Price is underpinned by the principles of [arbitrage](../a/arbitrage.md) and [market efficiency](../m/market_efficiency.md).
 
 ### Arbitrage
 
-Arbitrage involves the simultaneous purchase and sale of an asset in different markets to exploit price differentials and make a profit. Arbitrage is the mechanism that enforces the Law of One Price. When price differences for the same asset exist in different markets, arbitrageurs will buy the asset in the cheaper market and sell it in the more expensive one, earning a risk-free profit. This activity will continue until the prices converge and the price differential is eliminated.
+[Arbitrage](../a/arbitrage.md) involves the simultaneous purchase and sale of an asset in different markets to exploit price differentials and make a profit. [Arbitrage](../a/arbitrage.md) is the mechanism that enforces the Law of One Price. When price differences for the same asset exist in different markets, arbitrageurs will buy the asset in the cheaper market and sell it in the more expensive one, earning a risk-free profit. This activity will continue until the prices converge and the price differential is eliminated.
 
 ### Market Efficiency
 
-Market efficiency is the idea that financial markets are "informationally efficient," meaning that prices at any given time reflect all available information about assets. In an efficient market, asset prices should adjust immediately to new information, eliminating opportunities for arbitrage and ensuring that the Law of One Price holds.
+[Market efficiency](../m/market_efficiency.md) is the idea that financial markets are "informationally efficient," meaning that prices at any given time reflect all available information about assets. In an efficient market, asset prices should adjust immediately to new information, eliminating opportunities for [arbitrage](../a/arbitrage.md) and ensuring that the Law of One Price holds.
 
 ## Empirical Evidence for the Law of One Price
 
@@ -26,7 +26,7 @@ In the foreign exchange market, the Law of One Price is observed through the con
 
 ### Commodity Markets
 
-Commodity markets often exhibit adherence to the Law of One Price. For example, gold traded on different exchanges around the world should have the same price when adjusted for exchange rates and transportation costs. Any significant price differences would lead to arbitrage opportunities, causing traders to buy gold in cheaper markets and sell in more expensive ones, thereby aligning prices.
+Commodity markets often exhibit adherence to the Law of One Price. For example, gold traded on different exchanges around the world should have the same price when adjusted for exchange rates and transportation costs. Any significant price differences would lead to [arbitrage](../a/arbitrage.md) opportunities, causing traders to buy gold in cheaper markets and sell in more expensive ones, thereby aligning prices.
 
 ### Equity and Bond Markets
 
@@ -54,41 +54,41 @@ Market sentiment and behavioral factors, such as investor biases and irrational 
 
 ### Legal and Institutional Constraints
 
-Legal and institutional constraints, such as capital controls, trading restrictions, and differential tax treatments, can also create barriers to arbitrage, causing price differentials to persist.
+Legal and institutional constraints, such as capital controls, trading restrictions, and differential tax treatments, can also create barriers to [arbitrage](../a/arbitrage.md), causing price differentials to persist.
 
 ## Practical Applications of the Law of One Price
 
-The Law of One Price has important practical applications in the world of trading and investment, particularly in the context of algorithmic trading and arbitrage strategies.
+The Law of One Price has important practical applications in the world of trading and investment, particularly in the context of [algorithmic trading](../a/algorithmic_trading.md) and [arbitrage](../a/arbitrage.md) strategies.
 
 ### Algorithmic Trading
 
-Algorithmic trading involves the use of computer algorithms to execute trades based on predefined criteria. Algorithms can be designed to identify and exploit price differentials across markets, ensuring adherence to the Law of One Price. For example, high-frequency trading (HFT) firms use sophisticated algorithms to detect and capitalize on minute price differences across exchanges within milliseconds.
+[Algorithmic trading](../a/algorithmic_trading.md) involves the use of computer algorithms to execute trades based on predefined criteria. Algorithms can be designed to identify and exploit price differentials across markets, ensuring adherence to the Law of One Price. For example, high-frequency trading (HFT) firms use sophisticated algorithms to detect and capitalize on minute price differences across exchanges within milliseconds.
 
 ### Arbitrage Strategies
 
-Arbitrage strategies rely on the Law of One Price to generate risk-free profits. Examples of arbitrage strategies include:
+[Arbitrage](../a/arbitrage.md) strategies rely on the Law of One Price to generate risk-free profits. Examples of [arbitrage](../a/arbitrage.md) strategies include:
 
-- **Statistical Arbitrage:** This strategy uses quantitative models to identify mispriced securities based on historical price relationships. When securities deviate from their expected price relationships, arbitrageurs execute trades to profit from the eventual convergence of prices.
+- **Statistical [Arbitrage](../a/arbitrage.md):** This strategy uses [quantitative models](../q/quantitative_models.md) to identify mispriced securities based on historical price relationships. When securities deviate from their expected price relationships, arbitrageurs execute trades to profit from the eventual convergence of prices.
 
-- **Triangular Arbitrage:** In the foreign exchange market, triangular arbitrage involves exploiting price discrepancies between three currency pairs. By simultaneously buying and selling currencies in a way that capitalizes on mispricing, traders can lock in risk-free profits.
+- **Triangular [Arbitrage](../a/arbitrage.md):** In the foreign exchange market, triangular [arbitrage](../a/arbitrage.md) involves exploiting price discrepancies between three currency pairs. By simultaneously buying and selling currencies in a way that capitalizes on mispricing, traders can lock in risk-free profits.
 
-- **Commodity Arbitrage:** Traders exploit price differences between the same commodity on different exchanges. For example, buying gold on one exchange and selling it on another where the price is higher.
+- **Commodity [Arbitrage](../a/arbitrage.md):** Traders exploit price differences between the same commodity on different exchanges. For example, buying gold on one exchange and selling it on another where the price is higher.
 
 ## Notable Firms and Platforms
 
-Several prominent firms and platforms are involved in arbitrage and algorithmic trading, leveraging the principles of the Law of One Price:
+Several prominent firms and platforms are involved in [arbitrage](../a/arbitrage.md) and [algorithmic trading](../a/algorithmic_trading.md), leveraging the principles of the Law of One Price:
 
 ### Jane Street
 
-Jane Street is a quantitative trading firm known for its high-frequency trading and arbitrage strategies. The firm operates globally and applies sophisticated algorithms to ensure efficient market pricing. [Jane Street](https://www.janestreet.com/)
+Jane Street is a [quantitative trading](../q/quantitative_trading.md) firm known for its high-frequency trading and [arbitrage](../a/arbitrage.md) strategies. The firm operates globally and applies sophisticated algorithms to ensure efficient market pricing. [Jane Street](https://www.janestreet.com/)
 
 ### Citadel Securities
 
-Citadel Securities is a leading market maker and liquidity provider. The firm engages in algorithmic trading and arbitrage across various asset classes, including equities, options, and fixed income. [Citadel Securities](https://www.citadelsecurities.com/)
+Citadel Securities is a leading market maker and liquidity provider. The firm engages in [algorithmic trading](../a/algorithmic_trading.md) and [arbitrage](../a/arbitrage.md) across various asset classes, including equities, options, and fixed income. [Citadel Securities](https://www.citadelsecurities.com/)
 
 ### Virtu Financial
 
-Virtu Financial is a global electronic market maker and liquidity provider. The firm leverages technology to execute high-frequency trading and arbitrage strategies, ensuring adherence to the Law of One Price across markets. [Virtu Financial](https://www.virtu.com/)
+Virtu Financial is a global electronic market maker and liquidity provider. The firm leverages technology to execute high-frequency trading and [arbitrage](../a/arbitrage.md) strategies, ensuring adherence to the Law of One Price across markets. [Virtu Financial](https://www.virtu.com/)
 
 ### XTX Markets
 
@@ -96,6 +96,6 @@ XTX Markets is a quantitative-driven electronic market maker that provides liqui
 
 ## Conclusion
 
-The Law of One Price is a cornerstone concept in economics and finance, grounded in the principles of arbitrage and market efficiency. While real-world deviations from the Law of One Price can occur due to transaction costs, market frictions, information asymmetry, behavioral factors, and legal constraints, these deviations are generally temporary and present opportunities for arbitrage.
+The Law of One Price is a cornerstone concept in economics and finance, grounded in the principles of [arbitrage](../a/arbitrage.md) and [market efficiency](../m/market_efficiency.md). While real-world deviations from the Law of One Price can occur due to transaction costs, market frictions, information asymmetry, behavioral factors, and legal constraints, these deviations are generally temporary and present opportunities for [arbitrage](../a/arbitrage.md).
 
-Algorithmic trading and arbitrage strategies, employed by sophisticated trading firms and platforms, play a crucial role in enforcing the Law of One Price and ensuring efficient market pricing. The practical applications of the Law of One Price, particularly in the context of algorithmic trading, demonstrate its relevance and importance in modern financial markets.
+[Algorithmic trading](../a/algorithmic_trading.md) and [arbitrage](../a/arbitrage.md) strategies, employed by sophisticated trading firms and platforms, play a crucial role in enforcing the Law of One Price and ensuring efficient market pricing. The practical applications of the Law of One Price, particularly in the context of [algorithmic trading](../a/algorithmic_trading.md), demonstrate its relevance and importance in modern financial markets.

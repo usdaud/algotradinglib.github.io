@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In the world of financial markets and algorithmic trading, statistical tests, including the Z-Test, play a crucial role in making data-driven decisions. The Z-Test is a type of statistical test that determines whether there is a significant difference between the means of two datasets. In trading, it helps in validating trading strategies, comparing returns, and assessing the performance of trading algorithms.
+In the world of financial markets and [algorithmic trading](../a/algorithmic_trading.md), statistical tests, including the Z-Test, play a crucial role in making data-driven decisions. The Z-Test is a type of statistical test that determines whether there is a significant difference between the means of two datasets. In trading, it helps in validating [trading strategies](../t/trading_strategies.md), comparing returns, and assessing the performance of [trading algorithms](../t/trading_algorithms.md).
 
 ## Understanding Z-Test
 
@@ -33,17 +33,17 @@ In trading, a two-sample Z-Test is more common, where two sets of data are compa
 
 ### Validating Trading Strategies
 
-One of the primary uses of the Z-Test in trading is to validate trading strategies. Traders use historical data to backtest strategies. The Z-Test can help determine if the observed performance of a trading strategy is significantly different from random chance.
+One of the primary uses of the Z-Test in trading is to validate [trading strategies](../t/trading_strategies.md). Traders use historical data to backtest strategies. The Z-Test can help determine if the observed performance of a trading strategy is significantly different from random chance.
 
-For instance, if a trader implements a new algorithmic trading strategy and obtains a sample of daily returns, they can compare the mean returns of this sample to a benchmark (e.g., S&P 500 returns) using the Z-Test. This helps to ascertain if the strategy genuinely outperforms the benchmark or if the observed performance is due to randomness.
+For instance, if a trader implements a new [algorithmic trading](../a/algorithmic_trading.md) strategy and obtains a sample of daily returns, they can compare the mean returns of this sample to a benchmark (e.g., S&P 500 returns) using the Z-Test. This helps to ascertain if the strategy genuinely outperforms the benchmark or if the observed performance is due to randomness.
 
 ### Performance Comparison
 
-The Z-Test is also useful in comparing the performance of different trading algorithms. For example, if a trader wants to compare the returns of two different trading bots, a two-sample Z-Test can be applied to see if there is a statistically significant difference in their mean returns.
+The Z-Test is also useful in comparing the performance of different [trading algorithms](../t/trading_algorithms.md). For example, if a trader wants to compare the returns of two different trading bots, a two-sample Z-Test can be applied to see if there is a statistically significant difference in their mean returns.
 
 ### Risk Assessment
 
-In addition to returns, traders can use the Z-Test to compare risk metrics such as volatility. By comparing the standard deviations of two trading strategies, a Z-Test can reveal if one strategy is significantly less volatile than another.
+In addition to returns, traders can use the Z-Test to compare [risk metrics](../r/risk_metrics.md) such as volatility. By comparing the standard deviations of two [trading strategies](../t/trading_strategies.md), a Z-Test can reveal if one strategy is significantly less volatile than another.
 
 ### Market Analysis
 
@@ -131,8 +131,8 @@ Various software tools support Z-Test calculations, including:
 
 ## Conclusion
 
-The Z-Test is a powerful statistical tool in the arsenal of algorithmic traders. It helps them validate strategies, compare performance, and make informed decisions based on quantitative data. By understanding and appropriately applying the Z-Test, traders can enhance their trading systems and improve their risk management practices.
+The Z-Test is a powerful statistical tool in the arsenal of algorithmic traders. It helps them validate strategies, compare performance, and make informed decisions based on quantitative data. By understanding and appropriately applying the Z-Test, traders can enhance their [trading systems](../t/trading_systems.md) and improve their [risk management](../r/risk_management.md) practices.
 
 For more detailed information and resources, you can refer to statistical and financial analysis platforms such as [QuantConnect](https://www.quantconnect.com/), or educational resources from [Khan Academy](https://www.khanacademy.org/).
 
-By employing the Z-Test, traders are better positioned to understand market dynamics and enhance their trading strategies through rigorous data analysis and hypothesis testing.
+By employing the Z-Test, traders are better positioned to understand market dynamics and enhance their [trading strategies](../t/trading_strategies.md) through rigorous data analysis and [hypothesis testing](../h/hypothesis_testing.md).

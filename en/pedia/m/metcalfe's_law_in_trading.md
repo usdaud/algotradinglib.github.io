@@ -23,11 +23,11 @@ Ethereum's network value can also be analyzed through the lens of Metcalfe's Law
 
 ### Social Trading Platforms
 
-Social trading platforms like eToro utilize the principles of Metcalfe's Law to increase their value. As more traders join the platform, the variety of available trading strategies and the potential for knowledge sharing and signal copying increase. This network effect creates a more valuable and dynamic trading environment.
+[Social trading](../s/social_trading.md) platforms like eToro utilize the principles of Metcalfe's Law to increase their value. As more traders join the platform, the variety of available [trading strategies](../t/trading_strategies.md) and the potential for knowledge sharing and signal copying increase. This network effect creates a more valuable and dynamic [trading environment](../t/trading_environment.md).
 
 #### eToro
 
-eToro is a social trading and multi-asset brokerage company that provides services for trading and investing in various financial instruments. The platform allows users to follow and copy the trades of successful traders, leveraging the collective wisdom of the crowd. The increasing number of users enhances the platform's value, making it a prime example of Metcalfe's Law in action within trading.
+eToro is a [social trading](../s/social_trading.md) and multi-asset brokerage company that provides services for trading and investing in various financial instruments. The platform allows users to follow and copy the trades of successful traders, leveraging the collective wisdom of the crowd. The increasing number of users enhances the platform's value, making it a prime example of Metcalfe's Law in action within trading.
 
 [Visit eToro](https://www.etoro.com/)
 
@@ -37,13 +37,13 @@ Decentralized exchanges are another example where Metcalfe's Law applies. DEXs l
 
 #### Uniswap
 
-Uniswap is a decentralized trading protocol known for its role in facilitating automated trading of decentralized finance (DeFi) tokens. The platform uses an automated market making (AMM) system, and its value increases as more users provide liquidity and participate in trading.
+Uniswap is a decentralized trading protocol known for its role in facilitating automated trading of decentralized finance (DeFi) tokens. The platform uses an [automated market making](../a/automated_market_making.md) (AMM) system, and its value increases as more users provide liquidity and participate in trading.
 
 [Visit Uniswap](https://uniswap.org/)
 
 ### Impact on Trading Algorithms
 
-Algorithmic trading systems can also benefit from the principles of Metcalfe's Law. As more data points and market participants are available, trading algorithms have richer data sets to analyze, leading to more robust and profitable trading strategies. Network effects can enhance the predictive power and efficiency of trading algorithms.
+[Algorithmic trading](../a/algorithmic_trading.md) systems can also benefit from the principles of Metcalfe's Law. As more data points and market participants are available, [trading algorithms](../t/trading_algorithms.md) have richer data sets to analyze, leading to more robust and profitable [trading strategies](../t/trading_strategies.md). Network effects can enhance the predictive power and efficiency of [trading algorithms](../t/trading_algorithms.md).
 
 ### Limitations and Criticisms
 

@@ -29,41 +29,41 @@ Negative gamma strategies capitalize on the unique attributes of negative gamma 
 
 ### Types of Negative Gamma Strategies
 
-1. **Short Straddle**
+1. **[Short Straddle](../s/short_straddle.md)**
 
-A short straddle involves selling both a call option and a put option with the same strike price and expiration date. This strategy profits from minimal movement in the underlying asset's price, as the premiums collected from selling the options will exceed any losses if the price remains stable.
+A [short straddle](../s/short_straddle.md) involves selling both a call option and a put option with the same strike price and expiration date. This strategy profits from minimal movement in the underlying asset's price, as the premiums collected from selling the options will exceed any losses if the price remains stable.
 
     - **Risk/Reward Profile**: While the potential profit is limited to the premiums received, the risk can be substantial if the underlying price moves significantly in either direction.
     - **Example**: Selling a call and put option on XYZ stock, both with a strike price of $100 and expiration in one month, aiming to profit from low volatility in XYZ’s stock price.
 
-2. **Short Strangle**
+2. **[Short Strangle](../s/short_strangle.md)**
 
-A short strangle involves selling an out-of-the-money call and an out-of-the-money put with different strike prices but the same expiration date. This strategy also benefits from low volatility, but it provides a larger range within which the underlying asset’s price can move without causing a loss.
+A [short strangle](../s/short_strangle.md) involves selling an out-of-the-money call and an out-of-the-money put with different strike prices but the same expiration date. This strategy also benefits from low volatility, but it provides a larger range within which the underlying asset’s price can move without causing a loss.
 
-    - **Risk/Reward Profile**: Similar to a short straddle, but with a potentially wider profit range and correspondingly lower premiums collected compared to a straddle.
+    - **Risk/Reward Profile**: Similar to a [short straddle](../s/short_straddle.md), but with a potentially wider profit range and correspondingly lower premiums collected compared to a straddle.
     - **Example**: Selling a call option on XYZ stock with a strike price of $110 and a put option with a strike price of $90, both expiring in one month.
 
-3. **Iron Condor**
+3. **[Iron Condor](../i/iron_condor.md)**
 
-An iron condor involves selling an out-of-the-money call and an out-of-the-money put while simultaneously buying a further out-of-the-money call and a further out-of-the-money put. This creates a position with limited risk and limited profit potential, benefiting from low volatility in the underlying asset’s price.
+An [iron condor](../i/iron_condor.md) involves selling an out-of-the-money call and an out-of-the-money put while simultaneously buying a further out-of-the-money call and a further out-of-the-money put. This creates a position with limited risk and limited profit potential, benefiting from low volatility in the underlying asset’s price.
 
     - **Risk/Reward Profile**: The maximum profit is achieved if the underlying price remains between the two strike prices of the sold options, with the maximum loss limited to the difference between the strike prices of the sold and bought options minus the net premium received.
     - **Example**: Selling a call option on XYZ stock with a strike price of $105 and a put option with a strike price of $95, while buying a call option with a strike price of $110 and a put with a strike price of $90, all expiring in one month.
 
 4. **Short Call or Put Spread**
 
-A short call spread involves selling a call option and buying another call option with a higher strike price and the same expiration date. Similarly, a short put spread involves selling a put option and buying another put option with a lower strike price.
+A [short call spread](../s/short_call_spread.md) involves selling a call option and buying another call option with a higher strike price and the same expiration date. Similarly, a [short put spread](../s/short_put_spread.md) involves selling a put option and buying another put option with a lower strike price.
 
     - **Risk/Reward Profile**: These spreads limit both the potential profit and potential loss, making them a more controlled negative gamma strategy compared to outright short options positions.
     - **Example**: Selling a call option on XYZ stock with a strike price of $100 and buying a call option with a strike price of $105, both expiring in one month.
 
 ### Managing Risk in Negative Gamma Strategies
 
-Negative gamma strategies inherently involve significant risks, particularly in volatile market conditions. Effective risk management techniques include:
+Negative gamma strategies inherently involve significant risks, particularly in volatile market conditions. Effective [risk management](../r/risk_management.md) techniques include:
 
 - **Diversification**: Holding a broad range of positions across different assets and strike prices to mitigate the impact of adverse price movements.
-- **Dynamic Hedging**: Actively adjusting the delta of the portfolio to maintain a desired exposure level. This involves buying or selling the underlying asset to counterbalance changes in delta resulting from movements in the asset’s price.
-- **Using Stop-Loss Orders**: Placing stop-loss orders to automatically close out positions at predefined loss levels.
+- **[Dynamic Hedging](../d/dynamic_hedging.md)**: Actively adjusting the delta of the portfolio to maintain a desired exposure level. This involves buying or selling the underlying asset to counterbalance changes in delta resulting from movements in the asset’s price.
+- **Using [Stop-Loss Orders](../s/stop-loss_orders.md)**: Placing [stop-loss orders](../s/stop-loss_orders.md) to automatically close out positions at predefined loss levels.
 - **Limiting Position Size**: Ensuring that individual positions do not constitute a disproportionate share of the overall portfolio, thereby reducing the impact of any single adverse price move.
 
 ## Real-World Applications
@@ -74,17 +74,17 @@ Market makers, such as Virtu Financial [https://www.virtu.com/] and Citadel Secu
 
 ### Hedge Funds
 
-Hedge funds specializing in volatility arbitrage, like those managed by AQR Capital Management [https://www.aqr.com/] and options-focused funds, often utilize negative gamma strategies to exploit differences between implied and realized volatility. These funds deploy sophisticated algorithms and risk management frameworks to capture premiums from writing options while controlling gamma exposure.
+Hedge funds specializing in volatility [arbitrage](../a/arbitrage.md), like those managed by AQR Capital Management [https://www.aqr.com/] and options-focused funds, often utilize negative gamma strategies to exploit differences between implied and realized volatility. These funds deploy sophisticated algorithms and risk management frameworks to capture premiums from writing options while controlling [gamma exposure](../g/gamma_exposure.md).
 
 ### Proprietary Trading Firms
 
-Proprietary trading firms, such as Jane Street [https://www.janestreet.com/] and DRW [https://drw.com/], leverage their advanced trading systems and large capital bases to implement negative gamma strategies effectively. These firms utilize high-frequency trading algorithms to dynamically hedge their gamma exposure in real-time.
+[Proprietary trading](../p/proprietary_trading.md) firms, such as Jane Street [https://www.janestreet.com/] and DRW [https://drw.com/], leverage their advanced trading systems and large capital bases to implement negative gamma strategies effectively. These firms utilize high-frequency trading algorithms to dynamically hedge their [gamma exposure](../g/gamma_exposure.md) in real-time.
 
 ## Advanced Considerations
 
 ### Volatility Skew
 
-Understanding volatility skew, the pattern of varying implied volatility across different strike prices, is crucial for successfully implementing negative gamma strategies. Traders must consider how skewness affects option pricing and adjust their strategies to account for higher or lower premiums at different strikes.
+Understanding [volatility skew](../v/volatility_skew.md), the pattern of varying implied volatility across different strike prices, is crucial for successfully implementing negative gamma strategies. Traders must consider how skewness affects option pricing and adjust their strategies to account for higher or lower premiums at different strikes.
 
 ### Impact of Dividends and Corporate Actions
 
@@ -92,8 +92,8 @@ Dividends and other corporate actions can significantly influence the behavior o
 
 ### Utilization of Exotic Options
 
-Exotic options, such as binary options or barrier options, can be incorporated into negative gamma strategies to create more complex payoff profiles. These options provide additional flexibility in managing gamma exposure and tailoring risk-reward characteristics to specific market conditions.
+[Exotic options](../e/exotic_options.md), such as binary options or barrier options, can be incorporated into negative gamma strategies to create more complex payoff profiles. These options provide additional flexibility in managing [gamma exposure](../g/gamma_exposure.md) and tailoring risk-reward characteristics to specific market conditions.
 
 ## Conclusion
 
-Negative gamma strategies offer sophisticated traders opportunities to profit from periods of low volatility by writing options and managing their delta exposure dynamically. While these strategies carry substantial risk, especially in volatile markets, diligent risk management and an in-depth understanding of gamma behavior can lead to consistent profits. Advanced applications by market makers, hedge funds, and proprietary trading firms highlight the versatility and potential of negative gamma strategies in various trading environments.
+Negative gamma strategies offer sophisticated traders opportunities to profit from periods of low volatility by writing options and managing their delta exposure dynamically. While these strategies carry substantial risk, especially in volatile markets, diligent [risk management](../r/risk_management.md) and an in-depth understanding of gamma behavior can lead to consistent profits. Advanced applications by market makers, hedge funds, and [proprietary trading](../p/proprietary_trading.md) firms highlight the versatility and potential of negative gamma strategies in various trading environments.

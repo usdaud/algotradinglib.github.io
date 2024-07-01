@@ -27,10 +27,10 @@ Backpropagation is an algorithm used for training neural networks by minimizing 
 
 ## Applications in Algotrading
 
-Neural network predictive models have several applications in algorithmic trading, where they can be leveraged for tasks such as:
+Neural network predictive models have several applications in [algorithmic trading](../a/algorithmic_trading.md), where they can be leveraged for tasks such as:
 
 ### 1. **Price Prediction**
-Estimating future prices of stocks or other financial instruments based on historical data, sentiment analysis, and technical indicators.
+Estimating future prices of stocks or other financial instruments based on historical data, [sentiment analysis](../s/sentiment_analysis.md), and [technical indicators](../t/technical_indicators.md).
 
 ### 2. **Trend Analysis**
 Identifying market trends and momentum by analyzing time series data to make better trading decisions.
@@ -44,16 +44,16 @@ Optimizing portfolios by predicting the performance of various assets and findin
 ## Example Companies Utilizing Neural Network Predictive Models in Algotrading
 
 ### 1. **Kensho Technologies**
-[Kensho](https://www.kensho.com/) utilizes machine learning and neural networks to analyze vast amounts of structured and unstructured financial data, offering predictive analytics and actionable insights for trading and investment strategies.
+[Kensho](https://www.kensho.com/) utilizes machine learning and neural networks to analyze vast amounts of structured and unstructured financial data, offering [predictive analytics](../p/predictive_analytics.md) and actionable insights for trading and investment strategies.
 
 ### 2. **Kavout**
-[Kavout](https://www.kavout.com/) combines neural networks with big data analytics to provide predictive models specifically designed for stock market analysis and financial forecasting.
+[Kavout](https://www.kavout.com/) combines neural networks with big data analytics to provide predictive models specifically designed for stock market analysis and [financial forecasting](../f/financial_forecasting.md).
 
 ### 3. **Numerai**
 [Numerai](https://numer.ai/) integrates data science and neural networks to crowdsource predictions from a decentralized community of data scientists, using ensemble models to manage a global equity fund.
 
 ### 4. **SigOpt**
-[SigOpt](https://sigopt.com/) offers an optimization platform that helps traders and investors to enhance the performance of their trading models by optimizing their hyperparameters using advanced machine learning algorithms and neural networks.
+[SigOpt](https://sigopt.com/) offers an optimization platform that helps traders and investors to enhance the performance of their [trading models](../t/trading_models.md) by optimizing their hyperparameters using advanced machine learning algorithms and neural networks.
 
 ## Model Training and Optimization
 
@@ -64,7 +64,7 @@ Neural networks require extensive amounts of high-quality data. This includes cl
 Data is typically divided into training and validation sets. The training set is used to train the neural network, while the validation set helps to evaluate its performance and adjust hyperparameters.
 
 ### 3. **Hyperparameter Tuning**
-Hyperparameters such as the number of layers, number of neurons per layer, learning rate, and dropout rate significantly affect the model's performance. Techniques like grid search, random search, and Bayesian optimization are employed to find the optimal hyperparameters.
+Hyperparameters such as the number of layers, number of neurons per layer, learning rate, and dropout rate significantly affect the model's performance. Techniques like grid search, random search, and [Bayesian optimization](../b/bayesian_optimization.md) are employed to find the optimal hyperparameters.
 
 ### 4. **Regularization**
 Regularization techniques such as L1 and L2 regularization, dropout, and batch normalization are used to prevent overfitting and enhance the model's generalization capabilities.
@@ -85,6 +85,6 @@ The area under the receiver operating characteristic curve, estimated to assess 
 
 ## Conclusion
 
-Neural network predictive models represent a cutting-edge approach in the field of algorithmic trading. By mimicking the human brain's decision-making process, these models can interpret complex financial data and deliver high-accuracy predictions. Companies leveraging these technologies are not only improving their trading strategies but also shaping the future of the financial industry by incorporating deep learning innovations.
+Neural network predictive models represent a cutting-edge approach in the field of [algorithmic trading](../a/algorithmic_trading.md). By mimicking the human brain's decision-making process, these models can interpret complex financial data and deliver high-accuracy predictions. Companies leveraging these technologies are not only improving their [trading strategies](../t/trading_strategies.md) but also shaping the future of the financial industry by incorporating deep learning innovations.
 
-Visit [Kensho](https://www.kensho.com/), [Kavout](https://www.kavout.com/), [Numerai](https://numer.ai/), and [SigOpt](https://sigopt.com/) for more information on their pioneering work in neural network predictive models for algorithmic trading.
+Visit [Kensho](https://www.kensho.com/), [Kavout](https://www.kavout.com/), [Numerai](https://numer.ai/), and [SigOpt](https://sigopt.com/) for more information on their pioneering work in neural network predictive models for [algorithmic trading](../a/algorithmic_trading.md).

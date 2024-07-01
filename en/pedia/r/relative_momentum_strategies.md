@@ -6,7 +6,7 @@ Relative Momentum Strategies involve ranking assets based on their past returns 
 
 #### Momentum Effect
 
-The concept of momentum is grounded in the observation that past winners tend to continue performing well in the future, while past losers tend to underperform. This contradicts the Efficient Market Hypothesis (EMH), which posits that all available information is already reflected in asset prices. Momentum effects have been documented in various markets, including equities, commodities, and foreign exchange.
+The concept of momentum is grounded in the observation that past winners tend to continue performing well in the future, while past losers tend to underperform. This contradicts the [Efficient Market Hypothesis](../e/efficient_market_hypothesis.md) (EMH), which posits that all available information is already reflected in asset prices. Momentum effects have been documented in various markets, including equities, commodities, and foreign exchange.
 
 #### Relative vs. Absolute Momentum
 
@@ -45,12 +45,12 @@ The ranking can be based on raw returns or risk-adjusted returns.
 After ranking, the top-performing assets are selected for inclusion in the portfolio. Various methods can be applied in this step:
 
 1. **Equal Weighting**: Allocating an equal amount of capital to each selected asset.
-2. **Risk Parity**: Allocating capital based on the risk of each asset, aiming to balance the overall portfolio risk.
+2. **[Risk Parity](../r/risk_parity.md)**: Allocating capital based on the risk of each asset, aiming to balance the overall portfolio risk.
 3. **Proportional Allocation**: Allocating capital in proportion to the rank or past performance of each asset.
 
 #### Rebalancing
 
-Portfolios need periodic rebalancing to maintain the desired allocation and adapt to changing market conditions. Rebalancing frequency can vary:
+Portfolios need periodic rebalancing to maintain the desired allocation and adapt to changing market conditions. [Rebalancing frequency](../r/rebalancing_frequency.md) can vary:
 
 1. **Monthly**
 2. **Quarterly**
@@ -60,7 +60,7 @@ Rebalancing too frequently can lead to higher transaction costs, while rebalanci
 
 ### Quantitative Models
 
-Relative momentum strategies can be implemented using various quantitative models, including:
+Relative momentum strategies can be implemented using various [quantitative models](../q/quantitative_models.md), including:
 
 #### Time-Series Momentum
 
@@ -80,13 +80,13 @@ Some strategies use a combination of time-series and cross-sectional momentum to
 
 ### Backtesting and Simulation
 
-Before deploying a relative momentum strategy in live trading, it is crucial to perform robust backtesting and simulation. This involves:
+Before deploying a relative momentum strategy in live trading, it is crucial to perform robust [backtesting](../b/backtesting.md) and simulation. This involves:
 
 1. **Historical Performance Analysis**: Testing the strategy on historical data to evaluate its performance.
-2. **Out-of-Sample Testing**: Using unseen data to test the strategy's robustness.
+2. **[Out-of-Sample Testing](../o/out-of-sample_testing.md)**: Using unseen data to test the strategy's robustness.
 3. **Simulation**: Running the strategy in a simulated environment to assess its performance under various market conditions.
 
-Backtesting platforms include:
+[Backtesting](../b/backtesting.md) platforms include:
 
 - [QuantConnect](https://www.quantconnect.com/)
 - [Trading Blox](https://tradingblox.com/)
@@ -95,7 +95,7 @@ Backtesting platforms include:
 
 ### Risk Management
 
-Effective risk management is crucial for the success of relative momentum strategies. Key techniques include:
+Effective [risk management](../r/risk_management.md) is crucial for the success of relative momentum strategies. Key techniques include:
 
 #### Position Sizing
 
@@ -119,10 +119,10 @@ Transaction costs can significantly impact the performance of relative momentum 
 
 ### Performance Metrics
 
-Key performance metrics to evaluate the effectiveness of a relative momentum strategy include:
+Key [performance metrics](../p/performance_metrics.md) to evaluate the effectiveness of a relative momentum strategy include:
 
 1. **CAGR (Compound Annual Growth Rate)**: Measures the rate of return on investment over time.
-2. **Sharpe Ratio**: A risk-adjusted measure of return.
+2. **[Sharpe Ratio](../s/sharpe_ratio.md)**: A risk-adjusted measure of return.
 3. **Maximum Drawdown**: The largest peak-to-trough decline in the portfolio value.
 4. **Win Rate**: The proportion of trades that are profitable.
 
@@ -168,7 +168,7 @@ The integration of machine learning techniques to enhance momentum signals and i
 
 #### Alternative Data
 
-Incorporating alternative data sources, such as social media sentiment and news analytics, to refine momentum signals.
+Incorporating [alternative data](../a/alternative_data.md) sources, such as [social media sentiment](../s/social_media_sentiment.md) and news analytics, to refine momentum signals.
 
 #### Dynamic Allocation
 
@@ -176,5 +176,5 @@ Developing dynamic allocation models that adapt to changing market conditions in
 
 ### Conclusion
 
-Relative momentum strategies offer a robust framework for identifying and capitalizing on trends in various asset classes. Through careful data analysis, rigorous backtesting, and effective risk management, these strategies can significantly enhance portfolio performance.
+Relative momentum strategies offer a robust framework for identifying and capitalizing on trends in various asset classes. Through careful data analysis, rigorous [backtesting](../b/backtesting.md), and effective [risk management](../r/risk_management.md), these strategies can significantly enhance [portfolio performance](../p/portfolio_performance.md).
 

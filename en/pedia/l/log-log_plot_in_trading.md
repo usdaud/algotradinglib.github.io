@@ -25,11 +25,11 @@ This linear appearance makes it simpler to determine the exponent \(k\) and the 
 
 ### Measuring Market Frictions
 
-Market frictions such as transaction costs, bid-ask spreads, and liquidity constraints can also be analyzed using log-log plots. By plotting measures of market quality or trading costs against trading volumes or other relevant variables on a log-log scale, traders and researchers can identify how these frictions scale with market activity.
+Market frictions such as transaction costs, bid-ask spreads, and liquidity constraints can also be analyzed using log-log plots. By plotting measures of market quality or [trading costs](../t/trading_costs.md) against trading volumes or other relevant variables on a log-log scale, traders and researchers can identify how these frictions scale with market activity.
 
 ### Risk Management and Fitting Distributions
 
-Log-log plots are critical in risk management, especially for fitting and analyzing the distribution tails of financial returns. Extreme returns, or tail risks, often exhibit heavy-tail behavior, and a log-log plot can help in fitting suitable distributions (e.g., Pareto or Cauchy distributions) to these tails. This is crucial for understanding and managing the risks of rare but impactful market events.
+Log-log plots are critical in [risk management](../r/risk_management.md), especially for fitting and analyzing the distribution tails of financial returns. Extreme returns, or tail risks, often exhibit heavy-tail behavior, and a log-log plot can help in fitting suitable distributions (e.g., Pareto or Cauchy distributions) to these tails. This is crucial for understanding and managing the risks of rare but impactful market events.
 
 ## Practical Examples
 
@@ -76,7 +76,7 @@ plt.show()
 
 ### Real-Time Market Data
 
-For traders who need real-time data analysis, many trading platforms and APIs provide ways to integrate real-time market data into log-log plots. For instance, using APIs from brokers like Interactive Brokers [IBKR API](https://www.interactivebrokers.com/en/index.php?f=5041) or platforms like Bloomberg Terminal enables real-time data retrieval and plotting.
+For traders who need [real-time data analysis](../r/real-time_data_analysis.md), many trading platforms and APIs provide ways to integrate [real-time market data](../r/real-time_market_data.md) into log-log plots. For instance, using APIs from brokers like Interactive Brokers [IBKR API](https://www.interactivebrokers.com/en/index.php?f=5041) or platforms like Bloomberg Terminal enables real-time data retrieval and plotting.
 
 **Integrating Real-Time Data Example:**
 ```python
@@ -99,7 +99,7 @@ times = np.array([item['timestamp'] for item in data])
 # Plotting real-time data on a log-log scale
 plt.figure(figsize=(10, 6))
 plt.loglog(times, prices, marker='o')
-plt.title('Log-Log Plot of Real-Time Market Data')
+plt.title('Log-Log Plot of [Real-Time Market Data](../r/real-time_market_data.md)')
 plt.xlabel('Log of Time')
 plt.ylabel('Log of Price')
 plt.grid(True, which="both", ls="--")
@@ -122,4 +122,4 @@ plt.show()
 
 ## Conclusion
 
-Log-log plots are an invaluable tool in trading, offering profound insights into price movements, power laws, market frictions, and risk distributions. By transforming data to logarithmic scales, traders and analysts can easily visualize and understand complex financial phenomena. Whether used for historical data analysis, real-time monitoring, or risk management, log-log plots provide a robust framework for exploring the multiplicative relationships inherent in financial markets.
+Log-log plots are an invaluable tool in trading, offering profound insights into price movements, power laws, market frictions, and risk distributions. By transforming data to logarithmic scales, traders and analysts can easily visualize and understand complex financial phenomena. Whether used for [historical data analysis](../h/historical_data_analysis.md), real-time monitoring, or [risk management](../r/risk_management.md), log-log plots provide a robust framework for exploring the multiplicative relationships inherent in financial markets.

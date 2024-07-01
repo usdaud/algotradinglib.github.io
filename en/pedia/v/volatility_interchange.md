@@ -1,6 +1,6 @@
 # Volatility Interchange
 
-Volatility interchange is a financial concept and a sophisticated strategy used predominantly in the domain of algorithmic trading and quantitative finance. It involves constructing and managing complex portfolios to exploit the differences in implied volatility, realized volatility, and other volatility metrics across various financial instruments. The primary goal of volatility interchange strategies is to generate returns by taking advantage of the mispricings and inefficiencies in the volatility markets.
+Volatility interchange is a financial concept and a sophisticated strategy used predominantly in the domain of [algorithmic trading](../a/algorithmic_trading.md) and [quantitative finance](../q/quantitative_finance.md). It involves constructing and managing complex portfolios to exploit the differences in implied volatility, [realized volatility](../r/realized_volatility.md), and other volatility metrics across various financial instruments. The primary goal of volatility interchange strategies is to generate returns by taking advantage of the mispricings and inefficiencies in the volatility markets.
 
 ## Fundamentals of Volatility
 
@@ -15,24 +15,24 @@ Implied volatility (IV) is a crucial metric in options trading that reflects the
   
 ### Realized Volatility
 
-Realized volatility, also known as historical volatility, measures the actual observed volatility of a security's price over a past period. It is typically calculated using the standard deviation of the logarithmic returns of the securities.
+[Realized volatility](../r/realized_volatility.md), also known as [historical volatility](../h/historical_volatility.md), measures the actual observed volatility of a security's price over a past period. It is typically calculated using the standard deviation of the [logarithmic returns](../l/logarithmic_returns.md) of the securities.
 
-* **Components of Realized Volatility:**
+* **Components of [Realized Volatility](../r/realized_volatility.md):**
   * **Temporal Resolution:** Can be calculated over various time frames, e.g., daily, weekly, monthly.
-  * **Data Frequency:** High-frequency data provides a more precise measure of realized volatility.
+  * **Data Frequency:** High-frequency data provides a more precise measure of [realized volatility](../r/realized_volatility.md).
 
 ### Volatility Risk Premium
 
-The volatility risk premium represents the difference between implied volatility and realized volatility. This premium compensates investors for bearing the risk of holding a security that may be more volatile than anticipated.
+The [volatility risk](../v/volatility_risk.md) premium represents the difference between implied volatility and [realized volatility](../r/realized_volatility.md). This premium compensates investors for bearing the risk of holding a security that may be more volatile than anticipated.
 
 ## Strategies in Volatility Interchange
 
 ### Volatility Arbitrage
 
-Volatility arbitrage is a trading strategy that looks to exploit differences between implied and realized volatility.
+Volatility [arbitrage](../a/arbitrage.md) is a trading strategy that looks to exploit differences between implied and [realized volatility](../r/realized_volatility.md).
 
 * **Common Techniques:**
-  * **Statistical Arbitrage:** Utilizing statistical models to identify inefficiencies.
+  * **Statistical [Arbitrage](../a/arbitrage.md):** Utilizing statistical models to identify inefficiencies.
   * **Delta-Neutral Hedging:** Creating a delta-neutral portfolio to manage risk while profiting from volatility discrepancies.
 
 ### Dispersion Trading
@@ -45,7 +45,7 @@ Calendar spreads exploit the difference in implied volatilities across different
 
 ### Variance Swaps
 
-A variance swap is an over-the-counter financial derivative that allows one to trade future realized volatility against current implied volatility. 
+A [variance swap](../v/variance_swap.md) is an over-the-counter financial derivative that allows one to trade future [realized volatility](../r/realized_volatility.md) against current implied volatility. 
 
 * **Mechanics:**
   * **Variance Notional:** Defines the payoff, depending on the difference between realized and implied volatility.
@@ -65,19 +65,19 @@ Model risk arises from the potential of models to misrepresent the underlying dy
 
 ### Liquidity Risk
 
-Liquidity risk is the risk that a trader may not be able to execute trades without causing a significant impact on the market price. Liquidity can dry up quickly, especially in times of stress, exacerbating the difficulty of managing volatility exposure.
+[Liquidity risk](../l/liquidity_risk.md) is the risk that a trader may not be able to execute trades without causing a significant impact on the market price. Liquidity can dry up quickly, especially in times of stress, exacerbating the difficulty of managing volatility exposure.
 
 ## Applications in Algorithmic Trading
 
-Algorithmic trading platforms significantly enhance the execution of volatility interchange strategies by automating complex processes and implementing sophisticated models in real-time.
+[Algorithmic trading](../a/algorithmic_trading.md) platforms significantly enhance the execution of volatility interchange strategies by automating complex processes and implementing sophisticated models in real-time.
 
 ### High-Frequency Trading (HFT)
 
-HFT firms leverage ultra-low latency systems to exploit fleeting volatility arbitrage opportunities. The ability to process vast amounts of data and execute trades within microseconds is crucial.
+HFT firms leverage ultra-low latency systems to exploit fleeting volatility [arbitrage](../a/arbitrage.md) opportunities. The ability to process vast amounts of data and execute trades within microseconds is crucial.
 
 ### Machine Learning and AI
 
-Machine learning and artificial intelligence (AI) techniques are increasingly employed to identify patterns and predict volatility more accurately, thereby optimizing trading strategies.
+Machine learning and artificial intelligence (AI) techniques are increasingly employed to identify patterns and predict volatility more accurately, thereby optimizing [trading strategies](../t/trading_strategies.md).
 
 ## Industry Participants
 
@@ -85,7 +85,7 @@ Several firms specialize in volatility trading and related strategies. Here are 
 
 ### Citadel LLC
 
-Citadel is a leading financial institution that engages in multiple strategies, including volatility arbitrage and high-frequency trading. [Citadel LLC](https://www.citadel.com/)
+Citadel is a leading financial institution that engages in multiple strategies, including volatility [arbitrage](../a/arbitrage.md) and high-frequency trading. [Citadel LLC](https://www.citadel.com/)
 
 ### Two Sigma Investments
 

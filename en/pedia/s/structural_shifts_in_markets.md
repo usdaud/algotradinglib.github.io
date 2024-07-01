@@ -18,15 +18,15 @@ High-frequency trading, which involves the use of complex algorithms to execute 
 
 **3. Artificial Intelligence (AI) and Machine Learning**
 
-Artificial Intelligence and machine learning have enabled traders to analyze massive datasets and execute strategies that were previously impossible. Hedge funds such as Renaissance Technologies (https://www.rentec.com/) employ AI to uncover patterns and make predictive models, fundamentally changing how trading strategies are developed and executed.
+Artificial Intelligence and machine learning have enabled traders to analyze massive datasets and execute strategies that were previously impossible. Hedge funds such as Renaissance Technologies (https://www.rentec.com/) employ AI to uncover patterns and make predictive models, fundamentally changing how [trading strategies](../t/trading_strategies.md) are developed and executed.
 
 **Regulatory Changes**
 
-Regulatory changes can also precipitate structural shifts. New laws and regulations can alter market operations, risk management, and the overall behavior of market participants.
+Regulatory changes can also precipitate structural shifts. New laws and regulations can alter market operations, [risk management](../r/risk_management.md), and the overall behavior of market participants.
 
 **1. Dodd-Frank Act**
 
-The Dodd-Frank Wall Street Reform and Consumer Protection Act, enacted in 2010 in response to the financial crisis, imposed new regulations on financial institutions aimed at increasing transparency and reducing systemic risk. This led to significant changes in the derivatives market, notably through the requirement of central clearing.
+The Dodd-Frank Wall Street Reform and Consumer Protection Act, enacted in 2010 in response to the financial crisis, imposed new regulations on financial institutions aimed at increasing transparency and reducing systemic risk. This led to significant changes in the [derivatives](../d/derivatives.md) market, notably through the requirement of central clearing.
 
 **2. MiFID II**
 
@@ -36,9 +36,9 @@ The Markets in Financial Instruments Directive II (MiFID II), implemented in the
 
 Economic developments, such as changes in interest rates, inflation, or global trade patterns, can also drive structural shifts. These changes often reflect broader economic trends that can drastically alter market dynamics.
 
-**1. Quantitative Easing**
+**1. [Quantitative Easing](../q/quantitative_easing.md)**
 
-Quantitative easing (QE) programs initiated by central banks, such as those by the Federal Reserve, have injected liquidity into the markets, reducing interest rates and encouraging investment in riskier assets. The prolonged period of low-interest rates has led to structural shifts favoring equity markets and other higher-yielding assets over traditional fixed income.
+[Quantitative easing](../q/quantitative_easing.md) (QE) programs initiated by central banks, such as those by the Federal Reserve, have injected liquidity into the markets, reducing interest rates and encouraging investment in riskier assets. The prolonged period of low-interest rates has led to structural shifts favoring equity markets and other higher-yielding assets over traditional fixed income.
 
 **2. Global Trade Patterns**
 
@@ -50,11 +50,11 @@ Shifts in investor behavior can also result in significant structural changes in
 
 **1. Rise of Passive Investing**
 
-Over the past few decades, there has been a substantial shift from active to passive investing. This trend is exemplified by the rise of index funds and ETFs, managed by companies like Vanguard (https://www.vanguard.com/). This shift has implications for market efficiency and volatility, as passive funds tend to follow market trends rather than exploit inefficiencies.
+Over the past few decades, there has been a substantial shift from active to passive investing. This trend is exemplified by the rise of index funds and ETFs, managed by companies like Vanguard (https://www.vanguard.com/). This shift has implications for [market efficiency](../m/market_efficiency.md) and volatility, as passive funds tend to follow market trends rather than exploit inefficiencies.
 
 **2. ESG Investing**
 
-Environmental, Social, and Governance (ESG) investing has gained prominence, driven by increasing awareness of corporate sustainability and ethical considerations. Asset managers like BlackRock (https://www.blackrock.com/) have incorporated ESG criteria into their investment strategies, leading to structural shifts in capital allocation and corporate behavior.
+[Environmental, Social, and Governance (ESG) investing](../e/environmental,_social,_and_governance_(esg)_investing.md) has gained prominence, driven by increasing awareness of corporate sustainability and ethical considerations. Asset managers like BlackRock (https://www.blackrock.com/) have incorporated ESG criteria into their investment strategies, leading to structural shifts in [capital allocation](../c/capital_allocation.md) and corporate behavior.
 
 **Consequences for Market Participants**
 
@@ -66,7 +66,7 @@ For retail investors, increased access to markets and information has democratiz
 
 **2. Institutional Investors**
 
-Institutional investors have had to adapt to the new landscape by leveraging technology and adopting more sophisticated strategies. Hedge funds and asset managers are increasingly using AI and machine learning to maintain a competitive edge. Risk management has also become more complex due to the interconnected nature of global markets.
+Institutional investors have had to adapt to the new landscape by leveraging technology and adopting more sophisticated strategies. Hedge funds and asset managers are increasingly using AI and machine learning to maintain a competitive edge. [Risk management](../r/risk_management.md) has also become more complex due to the interconnected nature of global markets.
 
 **3. Market Makers**
 

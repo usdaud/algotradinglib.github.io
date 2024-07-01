@@ -12,19 +12,19 @@ The concept of the Fear and Greed Index was popularized by CNNMoney. It aims to 
 
 The index is derived from seven different indicators:
 
-1. **Stock Price Momentum (S&P 500)**: This compares the stock market's performance against its 125-day average. A higher gap between the current level and the average indicates greed, while a lower gap or negative performance signifies fear.
+1. **Stock [Price Momentum](../p/price_momentum.md) (S&P 500)**: This compares the stock market's performance against its 125-day average. A higher gap between the current level and the average indicates greed, while a lower gap or negative performance signifies fear.
 
 2. **Stock Price Strength**: This measures the number of stocks hitting 52-week highs versus lows on the New York Stock Exchange (NYSE). More new highs than lows suggest greed, and more lows than highs suggest fear.
 
 3. **Stock Price Breadth**: This component evaluates the trading volume of stocks advancing relative to those declining. A widespread advancement with higher volume points to greed, while widespread declines indicate fear.
 
-4. **Put and Call Options**: This examines the volume of put options (bets that stock prices will fall) versus call options (bets that stock prices will rise). A higher put volume signifies fear, whereas a higher call volume points to greed.
+4. **Put and Call Options**: This examines the volume of [put options](../p/put_options.md) (bets that stock prices will fall) versus call options (bets that stock prices will rise). A higher put volume signifies fear, whereas a higher call volume points to greed.
 
 5. **Market Volatility (CBOE Volatility Index - VIX)**: This indicator measures volatility expectations. Higher volatility is a sign of fear, while lower volatility suggests complacency or greed.
 
 6. **Safe Haven Demand**: This compares the returns of stocks versus Treasury bonds. When stocks are outperforming bonds significantly, it indicates greed, and when bonds are in demand over stocks, it signifies fear.
 
-7. **Junk Bond Demand**: This assesses the yield spread between junk bonds and safer Treasury bonds. Narrowing spreads suggest a high demand for junk bonds, indicating greed, while widening spreads show risk aversion, indicating fear.
+7. **Junk Bond Demand**: This assesses the [yield spread](../y/yield_spread.md) between junk bonds and safer Treasury bonds. Narrowing spreads suggest a high demand for junk bonds, indicating greed, while widening spreads show risk aversion, indicating fear.
 
 ## Calculation and Interpretation
 
@@ -58,7 +58,7 @@ Despite its popularity, the Fear and Greed Index has its limitations:
 
 - **Lagging Indicator**: Some critics argue that the index is a lagging indicator as it reflects past data and may not predict future market movements accurately.
 - **Over-simplification**: The financial market is influenced by numerous factors, and reducing it to a single index might oversimplify the complexities involved.
-- **Market Context**: The index should not be used in isolation. It is crucial to consider the broader economic context and other fundamental and technical indicators when making investment decisions.
+- **Market Context**: The index should not be used in isolation. It is crucial to consider the broader economic context and other fundamental and [technical indicators](../t/technical_indicators.md) when making investment decisions.
 - **Emotional Influence**: Ironically, the index itself can influence investor sentiment. If widely followed, it could lead to self-fulfilling prophecies where fear or greed perpetuates further due to collective behavior.
 
 ## Case Studies
@@ -73,6 +73,6 @@ The onset of the COVID-19 pandemic in early 2020 saw the Fear and Greed Index dr
 
 ## Conclusion
 
-The Fear and Greed Index serves as a valuable tool for gauging market sentiment. While it is not an infallible predictor of market movements, it provides a snapshot of prevailing investor emotions and can help in making informed investment decisions. By understanding and leveraging this index, investors can better navigate the complexities of market cycles, manage risks more effectively, and potentially enhance their investment returns.
+The Fear and Greed Index serves as a valuable tool for gauging market sentiment. While it is not an infallible predictor of market movements, it provides a snapshot of prevailing investor emotions and can help in making informed investment decisions. By understanding and leveraging this index, investors can better navigate the complexities of [market cycles](../m/market_cycles.md), manage risks more effectively, and potentially enhance their investment returns.
 
 For more information and the latest updated Fear and Greed Index, you can visit [CNN Business Fear & Greed Index](https://money.cnn.com/data/fear-and-greed/).

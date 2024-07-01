@@ -87,7 +87,7 @@ Impact investing focuses on generating positive environmental and social impacts
 
 ### Green Bonds
 
-Green bonds are fixed-income securities issued to finance projects that have positive environmental benefits. These bonds provide a stable income stream while supporting green initiatives such as renewable energy, energy efficiency, and sustainable infrastructure.
+[Green bonds](../g/green_bonds.md) are fixed-income securities issued to finance projects that have positive environmental benefits. These bonds provide a stable income stream while supporting green initiatives such as renewable energy, energy efficiency, and sustainable infrastructure.
 
 ## Future Outlook for Green Technology Investments
 

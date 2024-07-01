@@ -1,6 +1,6 @@
 ## Equity Options
 
-An equity option is a type of derivative financial instrument that provides the holder the right, but not the obligation, to buy or sell a specific amount of shares of an underlying stock at a predetermined price within a specified timeframe. These financial instruments are pivotal in the field of algorithmic trading, where complex models and strategies rely heavily on the precise understanding and manipulation of such tools.
+An equity option is a type of derivative financial instrument that provides the holder the right, but not the obligation, to buy or sell a specific amount of shares of an underlying stock at a predetermined price within a specified timeframe. These financial instruments are pivotal in the field of [algorithmic trading](../a/algorithmic_trading.md), where complex models and strategies rely heavily on the precise understanding and manipulation of such tools.
 
 ### Types of Equity Options
 
@@ -10,7 +10,7 @@ Equity options generally fall into two categories:
    - *Definition*: A call option gives the holder the right to buy an underlying asset at a specified strike price within a specified period.
    - *Example*: If you own a call option for Company X with a strike price of $50, and the stock price rises to $70, you can buy the stock at $50 and potentially sell it at $70, thus making a profit.
 
-2. **Put Options**
+2. **[Put Options](../p/put_options.md)**
    - *Definition*: A put option gives the holder the right to sell an underlying asset at a specified strike price within a specified period.
    - *Example*: If you own a put option for Company Y with a strike price of $100, and the stock price falls to $60, you can sell the stock at $100, mitigating your losses.
 
@@ -30,7 +30,7 @@ Equity options generally fall into two categories:
 
 ### Pricing Models for Equity Options
 
-The pricing of equity options involves sophisticated mathematical models. The most well-known of these is the Black-Scholes model, which uses several variables, including the current stock price, the option's strike price, time until expiration, risk-free interest rate, and the volatility of the underlying stock.
+The pricing of equity options involves sophisticated mathematical models. The most well-known of these is the [Black-Scholes model](../b/black-scholes_model.md), which uses several variables, including the current stock price, the option's strike price, time until expiration, risk-free interest rate, and the volatility of the underlying stock.
 
 #### Black-Scholes Model Formula
 
@@ -59,17 +59,17 @@ Where:
 4. **Strangle**
    - Involves buying a call and put option with different strike prices but the same expiration date, also betting on significant price movement.
 
-5. **Iron Condor**
+5. **[Iron Condor](../i/iron_condor.md)**
    - Involves selling a lower-strike put and a higher-strike call while buying a further lower-strike put and higher-strike call.
 
 ### Uses in Algorithmic Trading
 
-In algorithmic trading, equity options are vital due to their flexibility and potential for complex, quantitative strategies. Algorithms can be designed to:
+In [algorithmic trading](../a/algorithmic_trading.md), equity options are vital due to their flexibility and potential for complex, quantitative strategies. Algorithms can be designed to:
 
 - **Price Options**: Using advanced models like Black-Scholes or binomial trees to determine fair option prices.
 - **Execute Complex Strategies**: Automatically initiating and managing strategies like straddles, strangles, and iron condors.
 - **Hedge Portfolios**: Using options to reduce risk across various positions within the portfolio.
-- **Capture Arbitrage Opportunities**: Identifying and exploiting price discrepancies in the options market.
+- **Capture [Arbitrage](../a/arbitrage.md) Opportunities**: Identifying and exploiting price discrepancies in the options market.
 
 ### Notable Platforms and Firms
 
@@ -80,7 +80,7 @@ Several platforms and trading firms specialize in options trading and cater to b
    - Website: [Robinhood](https://robinhood.com/)
 
 2. **Interactive Brokers**
-   - Known for its sophisticated trading platform that supports complex option strategies and algorithmic trading.
+   - Known for its sophisticated trading platform that supports complex option strategies and [algorithmic trading](../a/algorithmic_trading.md).
    - Website: [Interactive Brokers](https://www.interactivebrokers.com/)
 
 3. **TD Ameritrade's thinkorswim**
@@ -89,4 +89,4 @@ Several platforms and trading firms specialize in options trading and cater to b
 
 ### Conclusion
 
-Equity options stand as a formidable component in the arsenal of a seasoned algorithmic trader. Their inherent versatility and the abundance of strategic opportunities they offer make them indispensable for hedging, speculation, and portfolio management. Employing models like Black-Scholes and leveraging advanced trading platforms, traders and firms can craft intricate strategies aimed at maximizing returns while managing risk levels effectively.
+Equity options stand as a formidable component in the arsenal of a seasoned algorithmic trader. Their inherent versatility and the abundance of strategic opportunities they offer make them indispensable for hedging, speculation, and [portfolio management](../p/portfolio_management.md). Employing models like Black-Scholes and leveraging advanced trading platforms, traders and firms can craft intricate strategies aimed at maximizing returns while managing risk levels effectively.

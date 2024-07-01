@@ -1,6 +1,6 @@
 # Stochastic Differential Equations
 
-Stochastic Differential Equations (SDEs) are differential equations in which one or more of the terms are stochastic processes, leading to solutions that are also stochastic processes. These equations are a natural extension of ordinary differential equations (ODEs) and partial differential equations (PDEs) to include random effects, making them particularly useful in various fields such as physics, finance, biology, and engineering.
+Stochastic Differential Equations (SDEs) are differential equations in which one or more of the terms are [stochastic processes](../s/stochastic_processes.md), leading to solutions that are also [stochastic processes](../s/stochastic_processes.md). These equations are a natural extension of ordinary differential equations (ODEs) and partial differential equations (PDEs) to include random effects, making them particularly useful in various fields such as physics, finance, biology, and engineering.
 
 ## Basic Concepts and Definitions
 
@@ -13,7 +13,7 @@ A stochastic process is a collection of random variables indexed by time or spac
 
 ### Differential Equations
 
-A differential equation is an equation involving a function and its derivatives. ODEs involve derivatives with respect to a single variable, typically time. PDEs involve partial derivatives with respect to multiple variables.
+A differential equation is an equation involving a function and its [derivatives](../d/derivatives.md). ODEs involve [derivatives](../d/derivatives.md) with respect to a single variable, typically time. PDEs involve partial [derivatives](../d/derivatives.md) with respect to multiple variables.
 
 ### Stochastic Differential Equations
 
@@ -40,7 +40,7 @@ SDEs can be interpreted using different types of stochastic integrals:
 
 ### Ito's Lemma
 
-A fundamental result in stochastic calculus, Ito's Lemma, provides a rule for differentiating functions of stochastic processes. Given a function \(f(X_t, t)\), Ito's Lemma states:
+A fundamental result in [stochastic calculus](../s/stochastic_calculus.md), Ito's Lemma, provides a rule for differentiating functions of [stochastic processes](../s/stochastic_processes.md). Given a function \(f(X_t, t)\), Ito's Lemma states:
 
 $$
 df(X_t, t) = \left(\frac{\partial f}{\partial t} + \mu \frac{\partial f}{\partial x} + \frac{1}{2} \sigma^2 \frac{\partial^2 f}{\partial x^2}\right)dt + \sigma \frac{\partial f}{\partial x} dW_t
@@ -50,7 +50,7 @@ $$
 
 ### Mathematical Finance
 
-SDEs play a critical role in mathematical finance, particularly in the modeling of asset prices and derivatives. The Black-Scholes Model, for instance, is an SDE representing the evolution of stock prices. Given \(S_t\), the stock price at time \(t\):
+SDEs play a critical role in [mathematical finance](../m/mathematical_finance.md), particularly in the modeling of asset prices and [derivatives](../d/derivatives.md). The [Black-Scholes Model](../b/black-scholes_model.md), for instance, is an SDE representing the evolution of stock prices. Given \(S_t\), the stock price at time \(t\):
 
 $$
 dS_t = \mu S_t dt + \sigma S_t dW_t
@@ -102,7 +102,7 @@ Several software packages and libraries support the simulation and numerical sol
 
 - **SDE Toolbox for MATLAB**: A comprehensive suite for numerically solving SDEs and implementing various methods (https://www.mathworks.com/matlabcentral/fileexchange/26586-sde-toolbox).
 - **Stochastic Differential Equations in Python (SDEPy)**: A Python library for SDE simulation and analysis (https://github.com/RJT1990/pySDE).
-- **QuantLib**: An open-source library for quantitative finance, providing tools for pricing derivatives and managing financial models, including SDEs (https://www.quantlib.org/).
+- **QuantLib**: An open-source library for [quantitative finance](../q/quantitative_finance.md), providing tools for pricing [derivatives](../d/derivatives.md) and managing financial models, including SDEs (https://www.quantlib.org/).
 
 ## Challenges and Future Directions
 
@@ -114,7 +114,7 @@ Many real-world systems involve numerous interacting components, leading to high
 
 ### Parameter Estimation
 
-Estimating the parameters (\(\mu\) and \(\sigma\)) in SDEs from observed data is a complex task. Techniques such as maximum likelihood estimation, Bayesian inference, and particle filtering are actively researched.
+Estimating the parameters (\(\mu\) and \(\sigma\)) in SDEs from observed data is a complex task. Techniques such as [maximum likelihood estimation](../m/maximum_likelihood_estimation.md), [Bayesian inference](../b/bayesian_inference.md), and particle filtering are actively researched.
 
 ### Multiscale Models
 
@@ -122,7 +122,7 @@ Systems operating over multiple temporal and spatial scales require specialized 
 
 ### Machine Learning Integration
 
-The integration of machine learning and SDEs offers promising avenues for advancing model accuracy and computational efficiency. Neural SDEs, for example, combine neural networks with stochastic modeling, providing flexible and powerful tools for various applications.
+The integration of machine learning and SDEs offers promising avenues for advancing model accuracy and computational efficiency. Neural SDEs, for example, combine neural networks with [stochastic modeling](../s/stochastic_modeling.md), providing flexible and powerful tools for various applications.
 
 ## Conclusion
 

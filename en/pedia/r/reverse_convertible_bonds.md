@@ -39,7 +39,7 @@ RCBs are debt securities issued by financial institutions, which, unlike traditi
 3. **Credit Risk**:
     - As with any bond, there is the risk that the issuer may default, making it crucial to consider the creditworthiness of the issuing institution.
 
-4. **Liquidity Risk**:
+4. **[Liquidity Risk](../l/liquidity_risk.md)**:
     - RCBs may have lower liquidity than traditional bonds, meaning investors might face challenges selling the bonds in secondary markets.
 
 ### Market Participants

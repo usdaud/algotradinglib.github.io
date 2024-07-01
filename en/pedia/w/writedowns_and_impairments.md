@@ -67,14 +67,14 @@ Writedowns and impairments can significantly impact a company's financial metric
 - **Operating Income:** As these are often recorded as operating expenses, they reduce operating income and operating margins.
 
 ### Asset Turnover Ratios
-- **Total Asset Turnover:** A reduction in total assets can lead to a temporarily higher asset turnover ratio, assuming revenues remain constant.
+- **Total [Asset Turnover](../a/asset_turnover.md):** A reduction in total assets can lead to a temporarily higher [asset turnover](../a/asset_turnover.md) ratio, assuming revenues remain constant.
 
 ### Valuation Metrics
 - **Price-to-Earnings (P/E) Ratio:** Lower net income reduces EPS, potentially raising the P/E ratio if the stock price doesn’t adjust downwards.
 - **Book Value:** Reduced asset values lower the company's book value, impacting book value per share.
 
 ### Debt Covenants
-Writedowns and impairments can also affect a company's compliance with debt covenants. These covenants often include requirements to maintain certain financial ratios, and unexpected impairments may lead to breaches, triggering adverse consequences such as loan renegotiations or increased borrowing costs.
+Writedowns and impairments can also affect a company's compliance with debt covenants. These covenants often include requirements to maintain certain [financial ratios](../f/financial_ratios.md), and unexpected impairments may lead to breaches, triggering adverse consequences such as loan renegotiations or increased borrowing costs.
 
 ## Real-world Examples
 

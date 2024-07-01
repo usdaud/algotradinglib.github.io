@@ -1,6 +1,6 @@
 # Kurtosis Risk in Algorithmic Trading
 
-Kurtosis risk is a term used in statistics and finance to describe the risk associated with the presence of fat tails in the distribution of returns. Unlike other statistical measures that assume a normal distribution, kurtosis provides insight into the extremities of the actual distribution. In the world of algorithmic trading, where strategies are often built based on assumptions about return distributions, neglecting kurtosis can lead to underestimating risks and potential losses.
+Kurtosis risk is a term used in statistics and finance to describe the risk associated with the presence of fat tails in the distribution of returns. Unlike other statistical measures that assume a normal distribution, kurtosis provides insight into the extremities of the actual distribution. In the world of [algorithmic trading](../a/algorithmic_trading.md), where strategies are often built based on assumptions about return distributions, neglecting kurtosis can lead to underestimating risks and potential losses.
 
 ## Understanding Kurtosis
 
@@ -21,25 +21,25 @@ In a normal distribution, the kurtosis value is typically 3, often referred to a
 
 ## Implications for Algorithmic Trading
 
-Algorithmic trading relies heavily on mathematical models to predict price movements and execute trades. If the model assumes a normal distribution of returns, it may not account for the extreme returns that occur more frequently in financial markets due to fat tails.
+[Algorithmic trading](../a/algorithmic_trading.md) relies heavily on mathematical models to predict price movements and execute trades. If the model assumes a normal distribution of returns, it may not account for the extreme returns that occur more frequently in financial markets due to fat tails.
 
 ### Risk Management
 
-1. **Tail Risk**: With high kurtosis, extreme market movements are more likely than predicted by a normal distribution. Algorithms need to incorporate tail risk management strategies to mitigate potential losses from such extreme events.
+1. **[Tail Risk](../t/tail_risk.md)**: With high kurtosis, extreme market movements are more likely than predicted by a normal distribution. Algorithms need to incorporate tail [risk management](../r/risk_management.md) strategies to mitigate potential losses from such extreme events.
 2. **VaR (Value at Risk)**: Standard VaR models often underestimate risk when they assume normal distributions. Incorporating kurtosis in these models can provide a more accurate risk measure.
 3. **Stress Testing**: Algorithmic traders should perform stress tests that consider scenarios involving fat tails to ensure their strategies are robust against extreme market movements.
 
 ### Strategy Development
 
-1. **Hedge Design**: Strategies can be designed to hedge against the risk of extreme movements by using options and other derivatives that provide protection against fat-tail events.
-2. **Portfolio Optimization**: When optimizing portfolios, it's important to consider assets' kurtosis to avoid those with high kurtosis unless adequately compensated by high returns.
+1. **Hedge Design**: Strategies can be designed to hedge against the risk of extreme movements by using options and other [derivatives](../d/derivatives.md) that provide protection against fat-tail events.
+2. **[Portfolio Optimization](../p/portfolio_optimization.md)**: When optimizing portfolios, it's important to consider assets' kurtosis to avoid those with high kurtosis unless adequately compensated by high returns.
 3. **Algorithm Calibration**: Algorithms need to be calibrated using data that reflects the actual distribution of returns, including fat tails, to ensure their predictive accuracy.
 
 ## Key Considerations in Modeling Kurtosis
 
 1. **Distribution Fitting**: Appropriate distribution fitting methods should be used for financial data, such as the Generalized Pareto Distribution or Student’s t-distribution, which can capture fat tails better.
 2. **Bootstrapping and Simulation**: Techniques like bootstrapping and Monte Carlo simulations can help model the impact of kurtosis by generating data samples that match the empirical distribution’s kurtosis.
-3. **Historical Analysis**: Historical return data should be analyzed for kurtosis to understand the extent of tail risk present in the data.
+3. **Historical Analysis**: Historical return data should be analyzed for kurtosis to understand the extent of [tail risk](../t/tail_risk.md) present in the data.
 
 ## Real-World Examples
 
@@ -59,15 +59,15 @@ Instances like the Flash Crash of 2010, where the US stock market plunged and th
 
 ### Diversification
 
-Diversifying across uncorrelated assets can help reduce the impact of extreme events on a portfolio. However, during market stress, correlations can increase, diminishing the benefits of diversification.
+Diversifying across [uncorrelated assets](../u/uncorrelated_assets.md) can help reduce the impact of extreme events on a portfolio. However, during market stress, correlations can increase, diminishing the benefits of diversification.
 
 ### Dynamic Risk Management
 
-Adopting a dynamic approach to risk management by continuously monitoring and adjusting for changes in the kurtosis of asset returns can provide better protection against tail risk.
+Adopting a dynamic approach to [risk management](../r/risk_management.md) by continuously monitoring and adjusting for changes in the kurtosis of asset returns can provide better protection against [tail risk](../t/tail_risk.md).
 
 ### Use of Derivatives
 
-Options and other derivatives can be used to hedge against potential large movements in asset prices. Strategies such as buying out-of-the-money put options can offer protection against significant downside risk.
+Options and other [derivatives](../d/derivatives.md) can be used to hedge against potential large movements in asset prices. Strategies such as buying out-of-the-money [put options](../p/put_options.md) can offer protection against significant downside risk.
 
 ### Advanced Analytical Tools
 
@@ -75,7 +75,7 @@ Leveraging advanced analytical tools that incorporate kurtosis and other higher 
 
 ## Conclusion
 
-Kurtosis risk represents a crucial aspect of risk management in algorithmic trading that cannot be overlooked. As financial markets frequently exhibit fat tails, incorporating kurtosis into risk models and trading strategies is vital. By acknowledging and addressing kurtosis risk, algorithmic traders can better prepare for extreme events, improving the resilience and performance of their trading systems over time.
+Kurtosis risk represents a crucial aspect of [risk management](../r/risk_management.md) in [algorithmic trading](../a/algorithmic_trading.md) that cannot be overlooked. As financial markets frequently exhibit fat tails, incorporating kurtosis into risk models and [trading strategies](../t/trading_strategies.md) is vital. By acknowledging and addressing kurtosis risk, algorithmic traders can better prepare for extreme events, improving the resilience and performance of their [trading systems](../t/trading_systems.md) over time.
 
-For further reading and in-depth research, visiting specific trading platforms and financial analytics companies that emphasize risk management and advanced statistical modeling is recommended. These include [Numerix](https://www.numerix.com) and [QuantConnect](https://www.quantconnect.com).
+For further reading and in-depth research, visiting specific trading platforms and financial analytics companies that emphasize [risk management](../r/risk_management.md) and advanced statistical modeling is recommended. These include [Numerix](https://www.numerix.com) and [QuantConnect](https://www.quantconnect.com).
 

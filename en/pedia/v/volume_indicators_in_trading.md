@@ -1,6 +1,6 @@
 # Volume Indicators in Trading
 
-Volume indicators play a critical role in trading, offering insights into the strength and sustainability of a trend, the intensity of buying and selling pressure, and potential reversals. These indicators are built upon the volume of trading transactions over a certain period and provide additional context to price movements. Traders and investors use volume indicators to validate trends, predict reversals, and make informed decisions. This comprehensive guide explores the most widely used volume indicators, their interpretation, and their application in trading.
+[Volume indicators](../v/volume_indicators.md) play a critical role in trading, offering insights into the strength and sustainability of a trend, the intensity of buying and selling pressure, and potential reversals. These indicators are built upon the volume of trading transactions over a certain period and provide additional context to price movements. Traders and investors use [volume indicators](../v/volume_indicators.md) to validate trends, predict reversals, and make informed decisions. This comprehensive guide explores the most widely used [volume indicators](../v/volume_indicators.md), their interpretation, and their application in trading.
 
 ## 1. On-Balance Volume (OBV)
 
@@ -27,7 +27,7 @@ The Volume Price Trend (VPT) indicator combines price and volume to determine th
 \[ VPT = VPT_{\text{previous}} + \left( \frac{\text{Close}_{\text{today}} - \text{Close}_{\text{yesterday}}}{\text{Close}_{\text{yesterday}}} \right) \times \text{Volume} \]
 
 ### Interpretation:
-- **Uptrend Confirmation:** VPT rises with increasing price and volume.
+- **[Uptrend Confirmation](../u/uptrend_confirmation.md):** VPT rises with increasing price and volume.
 - **Downtrend Confirmation:** VPT falls with decreasing price and volume.
 - **Divergence:** Similar to OBV, divergence between VPT and price can signal potential reversals.
 
@@ -105,10 +105,10 @@ The PVI adjust only on days when the volume increases:
 
 ## 8. Volume Oscillator
 
-The Volume Oscillator employs the relationship between two moving averages to determine the level of volume and discern trend strength.
+The [Volume Oscillator](../v/volume_oscillator.md) employs the relationship between two moving averages to determine the level of volume and discern trend strength.
 
 ### Calculation:
-\[ \text{Volume Oscillator} = \text{Short-term Volume MA} - \text{Long-term Volume MA} \]
+\[ \text{[Volume Oscillator](../v/volume_oscillator.md)} = \text{Short-term Volume MA} - \text{Long-term Volume MA} \]
 
 ### Interpretation:
 - **Positive Oscillator:** Indicates an increase in volume, suggesting stronger trends.
@@ -117,7 +117,7 @@ The Volume Oscillator employs the relationship between two moving averages to de
 
 ## 9. Klinger Oscillator
 
-Developed by Stephen Klinger, the Klinger Oscillator aims to show long-term money flow trends while remaining sensitive enough to detect short-term fluctuations.
+Developed by Stephen Klinger, the [Klinger Oscillator](../k/klinger_oscillator.md) aims to show long-term money flow trends while remaining sensitive enough to detect short-term fluctuations.
 
 ### Calculation:
 \[ KO = EMA_{34}(\text{Volume} \times \text{T}) - EMA_{55}(\text{Volume} \times \text{T}) \]
@@ -126,10 +126,10 @@ Where:
 \[ \text{T} = \left( 2 \times (\text{Close} - \text{Low} - \text{High})) / (\text{High} - \text{Low}) \right) \]
 
 ### Interpretation:
-- **Bullish Klinger:** When the Klinger Oscillator is positive and rising, it indicates money flow is entering the market.
-- **Bearish Klinger:** When the Klinger Oscillator is negative and falling, it indicates money flow is leaving the market.
-- **Divergence:** As usual, divergence between the Klinger Oscillator and price movements can indicate potential reversals.
+- **Bullish Klinger:** When the [Klinger Oscillator](../k/klinger_oscillator.md) is positive and rising, it indicates money flow is entering the market.
+- **Bearish Klinger:** When the [Klinger Oscillator](../k/klinger_oscillator.md) is negative and falling, it indicates money flow is leaving the market.
+- **Divergence:** As usual, divergence between the [Klinger Oscillator](../k/klinger_oscillator.md) and price movements can indicate potential reversals.
 
 ## Conclusion
 
-Volume indicators are essential tools in trading, providing insights that price movements alone cannot. By incorporating volume analysis into their trading strategies, traders can gain a deeper understanding of market dynamics, confirm trends, and anticipate potential reversals. Each volume indicator has its unique strengths and usages, and traders often use a combination of multiple indicators to increase the robustness of their analysis.
+[Volume indicators](../v/volume_indicators.md) are essential tools in trading, providing insights that price movements alone cannot. By incorporating [volume analysis](../v/volume_analysis.md) into their [trading strategies](../t/trading_strategies.md), traders can gain a deeper understanding of market dynamics, confirm trends, and anticipate potential reversals. Each volume indicator has its unique strengths and usages, and traders often use a combination of multiple indicators to increase the robustness of their analysis.

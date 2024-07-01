@@ -1,6 +1,6 @@
 # Sentiment Trading Strategies
 
-Sentiment trading strategies are a subset of algorithmic trading methods that leverage market sentiment data to inform trading decisions. Unlike traditional trading strategies that rely heavily on quantitative data (like price, volume, and other market statistics), sentiment-based strategies attempt to quantify and systematically integrate investor emotions and opinions into the trading process.
+Sentiment [trading strategies](../t/trading_strategies.md) are a subset of [algorithmic trading](../a/algorithmic_trading.md) methods that leverage market sentiment data to inform trading decisions. Unlike traditional [trading strategies](../t/trading_strategies.md) that rely heavily on quantitative data (like price, volume, and other market statistics), sentiment-based strategies attempt to quantify and systematically integrate investor emotions and opinions into the trading process.
 
 ## Understanding Market Sentiment
 
@@ -13,7 +13,7 @@ There are various ways to gauge market sentiment, and the advancement of technol
 ### 1. **News Articles and Media**
    - **Description**: News articles from financial websites, blogs, and other media outlets are parsed and analyzed for positive or negative sentiment.
    - **Tools**: Natural Language Processing (NLP) algorithms can be employed to scan these texts for sentiment cues.
-   - **Example**: Sentdex (https://sentdex.com) offers sentiment analysis specifically geared towards financial markets.
+   - **Example**: Sentdex (https://sentdex.com) offers [sentiment analysis](../s/sentiment_analysis.md) specifically geared towards financial markets.
 
 ### 2. **Social Media**
    - **Description**: Platforms like Twitter, Reddit, and StockTwits are rich sources of real-time sentiment data.
@@ -23,10 +23,10 @@ There are various ways to gauge market sentiment, and the advancement of technol
 ### 3. **Discussion Forums**
    - **Description**: Websites like Reddit and specialized forums such as Seeking Alpha have active user bases discussing stocks and markets.
    - **Tools**: NLP and machine learning can extract sentiment from posts and comments.
-   - **Example**: Reddit API accessed via Python or other programming languages for sentiment analysis.
+   - **Example**: Reddit API accessed via Python or other programming languages for [sentiment analysis](../s/sentiment_analysis.md).
 
 ### 4. **Surveys and Polls**
-   - **Description**: Sentiment surveys like the American Association of Individual Investors (AAII) sentiment survey gauge investor sentiment.
+   - **Description**: [Sentiment surveys](../s/sentiment_surveys.md) like the American Association of Individual Investors (AAII) sentiment survey gauge investor sentiment.
    - **Tools**: These can be aggregated and analyzed to form part of a sentiment-based strategy.
    - **Example**: AAII Sentiment Survey (https://www.aaii.com/sentimentsurvey).
 
@@ -39,7 +39,7 @@ There are various ways to gauge market sentiment, and the advancement of technol
 
 ### 1. **Natural Language Processing (NLP)**
    - **Description**: NLP algorithms are central to extracting sentiment from unstructured text data. Techniques include tokenization, sentiment scoring, and text classification.
-   - **Tools**: Libraries such as NLTK, spaCy, and TextBlob in Python can be used to perform sentiment analysis.
+   - **Tools**: Libraries such as NLTK, spaCy, and TextBlob in Python can be used to perform [sentiment analysis](../s/sentiment_analysis.md).
    - **Example**: TextBlob (https://textblob.readthedocs.io/en/dev/) provides simple API for NLP tasks.
 
 ### 2. **Machine Learning**
@@ -60,7 +60,7 @@ There are various ways to gauge market sentiment, and the advancement of technol
 
 ### 2. **Data Cleaning**
    - **Description**: Sentiment data from raw sources can be noisy, requiring preprocessing to improve analysis accuracy.
-   - **Tools**: Python's Pandas library can be effective for data cleaning.
+   - **Tools**: Python's Pandas library can be effective for [data cleaning](../d/data_cleaning.md).
    - **Example**: Using Pandas (https://pandas.pydata.org) to clean and preprocess data.
 
 ### 3. **Sentiment Scoring**
@@ -75,7 +75,7 @@ There are various ways to gauge market sentiment, and the advancement of technol
 ### 5. **Backtesting**
    - **Description**: Testing the strategy against historical data to evaluate performance.
    - **Tools**: Backtrader, QuantConnect.
-   - **Example**: QuantConnect (https://www.quantconnect.com) for backtesting and live trading.
+   - **Example**: QuantConnect (https://www.quantconnect.com) for [backtesting](../b/backtesting.md) and live trading.
 
 ### 6. **Live Trading**
    - **Description**: Implementing the strategy in real-time trading.
@@ -89,8 +89,8 @@ There are various ways to gauge market sentiment, and the advancement of technol
    - **Example**: Detecting a shift in sentiment on Twitter before a stock price movement occurs.
 
 ### 2. **Diversification**
-   - **Description**: Sentiment analysis adds another layer to traditional technical and fundamental analysis, offering additional diversification.
-   - **Example**: Integrating sentiment data with quantitative models to reduce risk.
+   - **Description**: [Sentiment analysis](../s/sentiment_analysis.md) adds another layer to traditional technical and [fundamental analysis](../f/fundamental_analysis.md), offering additional diversification.
+   - **Example**: Integrating sentiment data with [quantitative models](../q/quantitative_models.md) to reduce risk.
 
 ### 3. **Adaptability**
    - **Description**: Algorithms can adapt to new sources of sentiment data, making them versatile in changing markets.
@@ -112,4 +112,4 @@ There are various ways to gauge market sentiment, and the advancement of technol
 
 ## Conclusion
 
-Sentiment trading strategies offer a promising complement to traditional trading methods. By leveraging advancements in NLP and machine learning, traders can quantify and systematically incorporate market sentiment into their strategies. As technology and data sources evolve, sentiment trading is likely to become an increasingly vital tool in the algorithmic trading toolkit.
+Sentiment [trading strategies](../t/trading_strategies.md) offer a promising complement to traditional trading methods. By leveraging advancements in NLP and machine learning, traders can quantify and systematically incorporate market sentiment into their strategies. As technology and data sources evolve, sentiment trading is likely to become an increasingly vital tool in the [algorithmic trading](../a/algorithmic_trading.md) toolkit.

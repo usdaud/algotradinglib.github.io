@@ -10,13 +10,13 @@ Unlisted equities are shares of companies that do not trade on formal stock exch
 ### Characteristics of Unlisted Equities
 
 #### Limited Liquidity
-One of the primary characteristics of unlisted equities is limited liquidity. Since these shares are not traded on a public exchange, finding a buyer or seller can be more difficult and time-consuming. Liquidity risk is higher compared to listed equities, making it a crucial factor for potential investors to consider.
+One of the primary characteristics of unlisted equities is limited liquidity. Since these shares are not traded on a public exchange, finding a buyer or seller can be more difficult and time-consuming. [Liquidity risk](../l/liquidity_risk.md) is higher compared to listed equities, making it a crucial factor for potential investors to consider.
 
 #### Valuation Challenges
 Valuation of unlisted equities is a complex task due to the lack of readily available market prices. Investors often rely on financial statements, comparable company analysis, and discounted cash flow models, but these can be opaque and subject to manipulation.
 
 #### Governance and Transparency
-Unlisted companies are generally not required to disclose financial and operational information to the public. This lack of transparency can make it more difficult for investors to make informed decisions and is a potential risk factor.
+[Unlisted companies](../u/unlisted_companies.md) are generally not required to disclose financial and operational information to the public. This lack of transparency can make it more difficult for investors to make informed decisions and is a potential risk factor.
 
 #### Potential for High Returns
 Unlisted equities often offer substantial growth potential, especially if the company is in its early stages or has a unique market position. Early investors in now-prominent companies like Facebook and Google saw significant returns once these firms went public.
@@ -27,7 +27,7 @@ Unlisted equities often offer substantial growth potential, especially if the co
 Private placements involve the sale of securities to a relatively small number of select investors without an offering prospectus. These investors are often institutional clients like pension funds, mutual funds, or accredited investors.
 
 #### Venture Capital and Private Equity
-Venture capital (VC) and private equity (PE) funds specialize in investing in unlisted companies. These funds raise capital from limited partners and actively manage a portfolio of companies, often taking a significant equity stake and a hands-on role in strategic decisions.
+Venture capital (VC) and private equity (PE) funds specialize in investing in [unlisted companies](../u/unlisted_companies.md). These funds raise capital from limited partners and actively manage a portfolio of companies, often taking a significant equity stake and a hands-on role in strategic decisions.
 
 #### Direct Investment
 High-net-worth individuals or family offices sometimes engage in direct investments by purchasing shares directly from the company or its early investors. Direct investments usually entail extensive due diligence and a clear understanding of the company's long-term strategy.
@@ -38,12 +38,12 @@ High-net-worth individuals or family offices sometimes engage in direct investme
 In many countries, only accredited investors can participate in the purchase of unlisted equities. The definition of an accredited investor varies, but generally includes individuals with a high net worth or significant annual income, and institutions like banks and insurance companies.
 
 #### Disclosure and Registration Requirements
-While unlisted companies are not subject to the same level of scrutiny as public companies, they still must comply with certain disclosure and registration requirements, often set by the Securities and Exchange Commission (SEC) or its counterparts in other countries.
+While [unlisted companies](../u/unlisted_companies.md) are not subject to the same level of scrutiny as public companies, they still must comply with certain disclosure and registration requirements, often set by the Securities and Exchange Commission (SEC) or its counterparts in other countries.
 
 ### Risks and Rewards
 
 #### Risks
-- **Liquidity Risk**: Difficulty in buying or selling shares.
+- **[Liquidity Risk](../l/liquidity_risk.md)**: Difficulty in buying or selling shares.
 - **Valuation Risk**: Challenges in determining the company’s true value.
 - **Regulatory Risk**: Changes in regulations that might affect the investment.
 - **Information Risk**: Lack of transparency and public data.

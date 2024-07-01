@@ -1,6 +1,6 @@
 # Online Algorithm Design
 
-Online algorithm design is a subfield of computer science and applied mathematics that involves algorithms which process their input piece-by-piece, without knowing the future input values. This is in contrast to offline algorithms, which have access to the entire input from the beginning. Online algorithms make decisions at each step while the input is revealed piece by piece, typically aiming to provide solutions that are competitive with the optimal offline algorithm.
+Online [algorithm design](../a/algorithm_design.md) is a subfield of computer science and applied mathematics that involves algorithms which process their input piece-by-piece, without knowing the future input values. This is in contrast to offline algorithms, which have access to the entire input from the beginning. Online algorithms make decisions at each step while the input is revealed piece by piece, typically aiming to provide solutions that are competitive with the optimal offline algorithm.
 
 ## Key Concepts
 
@@ -61,7 +61,7 @@ In cloud computing, resource management involves the dynamic allocation of compu
 
 ### Stock Market Trading
 
-Algorithmic trading involves making transactions in financial markets using pre-programmed codes, where decisions must be made in real time in response to market movements. Companies such as Two Sigma and Renaissance Technologies utilize sophisticated online algorithms to manage portfolios and execute trades ([Two Sigma](https://www.twosigma.com), [Renaissance Technologies](https://www.rentec.com)).
+[Algorithmic trading](../a/algorithmic_trading.md) involves making transactions in financial markets using pre-programmed codes, where decisions must be made in real time in response to market movements. Companies such as Two Sigma and Renaissance Technologies utilize sophisticated online algorithms to manage portfolios and execute trades ([Two Sigma](https://www.twosigma.com), [Renaissance Technologies](https://www.rentec.com)).
 
 ## Example Algorithms and Their Competitive Ratios
 
@@ -83,4 +83,4 @@ Algorithmic trading involves making transactions in financial markets using pre-
 
 ## Summary
 
-Online algorithm design plays a crucial role in situations where decisions must be made sequentially without complete knowledge of future events. By employing techniques like competitive analysis and considering various adversarial models, researchers and practitioners can develop online strategies that perform well compared to optimal offline solutions. These algorithms are essential in a wide range of applications today, from internet advertising to resource management in cloud computing and financial trading.
+Online [algorithm design](../a/algorithm_design.md) plays a crucial role in situations where decisions must be made sequentially without complete knowledge of future events. By employing techniques like competitive analysis and considering various adversarial models, researchers and practitioners can develop online strategies that perform well compared to optimal offline solutions. These algorithms are essential in a wide range of applications today, from internet advertising to resource management in cloud computing and financial trading.

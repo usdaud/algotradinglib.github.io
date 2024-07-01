@@ -43,7 +43,7 @@ In an equal-weighted index, all constituents are allocated the same weight regar
 These indexes use fundamental metrics such as earnings, dividends, book value, or cash flow to determine the weight of each constituent.
 
 #### Advantages
-- Potential for better return characteristics through fundamental analysis.
+- Potential for better return characteristics through [fundamental analysis](../f/fundamental_analysis.md).
 - Reduces the risk of speculative bubbles affecting the index.
 
 #### Disadvantages
@@ -52,7 +52,7 @@ These indexes use fundamental metrics such as earnings, dividends, book value, o
 
 ## Algorithmic Trading Strategies Utilizing Weighted Index Funds
 
-Algorithmic trading involves the use of complex algorithms and mathematical models to decide the timing, price, and volume of trades. When applied to weighted index funds, several strategies can be employed:
+[Algorithmic trading](../a/algorithmic_trading.md) involves the use of complex algorithms and mathematical models to decide the timing, price, and volume of trades. When applied to weighted index funds, several strategies can be employed:
 
 ### Mean Reversion
 This strategy assumes that asset prices will revert to their historical mean levels. In the context of weighted index funds, an algorithm may identify overbought or oversold conditions and execute trades to capture the reversion to the mean.
@@ -61,7 +61,7 @@ This strategy assumes that asset prices will revert to their historical mean lev
 Algorithms can be designed to capitalize on existing trends in the market. For weighted index funds, this might involve analyzing historical performance and buying into funds that have recently performed well, assuming that the trend will continue.
 
 ### Arbitrage Opportunities
-Arbitrage strategies aim to exploit inefficiencies in the market. For instance, if the weighted index fund's price deviates from the underlying assets' calculated value, an algorithm could execute trades to profit from the discrepancy.
+[Arbitrage](../a/arbitrage.md) strategies aim to exploit inefficiencies in the market. For instance, if the weighted index fund's price deviates from the underlying assets' calculated value, an algorithm could execute trades to profit from the discrepancy.
 
 ### Statistical Arbitrage
 This involves the use of advanced statistical models to find and exploit price inefficiencies between correlated assets. In weighted index funds, it would involve trading based on predicted temporary mispricings in the fund relative to its underlying components.
@@ -85,4 +85,4 @@ Charles Schwab provides a variety of index funds, including equally-weighted and
 
 ## Conclusion
 
-Weighted index funds offer a range of strategies to investors, each with its benefits and drawbacks. When coupled with algorithmic trading, these investment vehicles can become potent tools for both retail and institutional investors. The advent of technology and machine learning continues to evolve the landscape, presenting new opportunities and challenges in the realm of weighted index funds.
+Weighted index funds offer a range of strategies to investors, each with its benefits and drawbacks. When coupled with [algorithmic trading](../a/algorithmic_trading.md), these investment vehicles can become potent tools for both retail and institutional investors. The advent of technology and machine learning continues to evolve the landscape, presenting new opportunities and challenges in the realm of weighted index funds.

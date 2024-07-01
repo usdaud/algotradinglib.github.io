@@ -1,7 +1,7 @@
 # Median Filter in Trading
 ========================
 
-The median filter is a non-linear digital filtering technique, often used to remove noise from a signal or data series. In trading, the median filter can be used for smoothing price series and identifying trends without the lag associated with traditional moving averages. This document explores the theoretical underpinnings, practical applications, and variations of the median filter in the context of algorithmic trading.
+The median filter is a non-linear digital filtering technique, often used to remove noise from a signal or data series. In trading, the median filter can be used for smoothing price series and identifying trends without the lag associated with traditional moving averages. This document explores the theoretical underpinnings, practical applications, and variations of the median filter in the context of [algorithmic trading](../a/algorithmic_trading.md).
 
 ### Theoretical Background
 
@@ -21,7 +21,7 @@ The median filter is a non-linear digital filtering technique, often used to rem
 
 2. **Trend Identification**: By smoothing the price data, traders can more easily detect underlying trends. The median filter helps in identifying these trends without introducing lag, which is a common drawback of moving averages.
 
-3. **Anomaly Detection**: Sharp, isolated spikes in price data can be mistaken as market signals when relying on other averages. The median filter can effectively eliminate such outliers, reducing the risk of false signals.
+3. **[Anomaly Detection](../a/anomaly_detection.md)**: Sharp, isolated spikes in price data can be mistaken as market signals when relying on other averages. The median filter can effectively eliminate such outliers, reducing the risk of false signals.
 
 ### Implementing the Median Filter
 
@@ -32,7 +32,7 @@ The median filter is a non-linear digital filtering technique, often used to rem
    - Mirroring the series around the edges.
    - Using smaller windows at the edges.
 
-3. **Algorithm Efficiency**: The median computation can be expensive. Efficient algorithms and data structures (such as heaps or trees) can reduce computation time, particularly for large datasets.
+3. **[Algorithm Efficiency](../a/algorithm_efficiency.md)**: The median computation can be expensive. Efficient algorithms and data structures (such as heaps or trees) can reduce computation time, particularly for large datasets.
 
 ### Example Code
 Here is a basic implementation of the median filter in Python:
@@ -58,14 +58,14 @@ print(smoothed_series)
     
 2. **Hybrid Filters**: Combining median filters with other techniques (e.g., wavelet transforms) can enhance their effectiveness.
 
-3. **Performance Monitoring**: Continuous monitoring and adjustment of the filter parameters based on performance metrics is crucial for maintaining efficacy.
+3. **Performance Monitoring**: Continuous monitoring and adjustment of the filter parameters based on [performance metrics](../p/performance_metrics.md) is crucial for maintaining efficacy.
 
 ### Real-World Case Studies
 
-1. **Algorithmic Trading Firms**: Companies like [Two Sigma](https://www.twosigma.com/) and [Virtu Financial](https://www.virtu.com/) utilize sophisticated filtering techniques, including median filters, to enhance signal processing in their trading strategies.
+1. **[Algorithmic Trading](../a/algorithmic_trading.md) Firms**: Companies like [Two Sigma](https://www.twosigma.com/) and [Virtu Financial](https://www.virtu.com/) utilize sophisticated filtering techniques, including median filters, to enhance signal processing in their [trading strategies](../t/trading_strategies.md).
 
-2. **Academic Research**: Numerous studies have examined the effectiveness of median filters in trading. For instance, the paper "Median Filtering as a Preprocessing Tool in Financial Time Series Prediction" investigates its use in machine learning models for predictive trading.
+2. **Academic Research**: Numerous studies have examined the effectiveness of median filters in trading. For instance, the paper "Median Filtering as a Preprocessing Tool in [Financial Time Series](../f/financial_time_series.md) Prediction" investigates its use in machine learning models for predictive trading.
 
 ### Conclusion
 
-The median filter is a powerful tool for traders looking to enhance their data preprocessing pipelines. By effectively reducing noise and preserving important data features, it supports more robust trend identification and anomaly detection. Careful consideration of the window size and edge handling methods, along with continuous performance monitoring, can significantly enhance its utility in algorithmic trading.
+The median filter is a powerful tool for traders looking to enhance their data preprocessing pipelines. By effectively reducing noise and preserving important data features, it supports more robust trend identification and [anomaly detection](../a/anomaly_detection.md). Careful consideration of the window size and edge handling methods, along with continuous performance monitoring, can significantly enhance its utility in [algorithmic trading](../a/algorithmic_trading.md).

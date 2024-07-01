@@ -15,9 +15,9 @@ In the context of a venture fund, the assets include investments in portfolio co
 Internal Rate of Return (IRR) is a crucial performance metric that measures the profitability of investments. Gross IRR estimates the return before fees and costs, whereas Net IRR accounts for these deductions. It’s calculated as the discount rate that sets the Net Present Value (NPV) of all future cash flows (both inflows and outflows) to zero.
 
 ### 3. Realized and Unrealized Gains
-Valuation also considers realized and unrealized gains:
+Valuation also considers realized and [unrealized gains](../u/unrealized_gains.md):
 - **Realized Gains**: Profits obtained from the sale or successful exit of investments.
-- **Unrealized Gains (or Paper Gains)**: Potential profits from investments that have not yet been liquidated or exited.
+- **[Unrealized Gains](../u/unrealized_gains.md) (or Paper Gains)**: Potential profits from investments that have not yet been liquidated or exited.
 
 ### 4. Residual Value to Paid-in-Capital (RVPI)
 This ratio measures the remaining value of the portfolio relative to the capital that has been invested by Limited Partners (LPs). It’s expressed as:
@@ -35,10 +35,10 @@ DCF analysis involves projecting future cash flows and discounting them back to 
 Where \(CF_t\) represents cash flows at time \(t\), and \(r\) stands for the discount rate.
 
 ### 2. Comparable Company Analysis (CCA)
-CCA involves comparing the venture fund's portfolio companies to similar publicly traded companies to derive valuation multiples. These multiples are then applied to the fund’s companies to estimate their value. Common multiples include Price-to-Earnings (P/E), Enterprise Value-to-Revenue (EV/R), and EV/EBITDA.
+CCA involves comparing the venture fund's portfolio companies to similar publicly traded companies to derive [valuation multiples](../v/valuation_multiples.md). These multiples are then applied to the fund’s companies to estimate their value. Common multiples include Price-to-Earnings (P/E), Enterprise Value-to-Revenue (EV/R), and EV/EBITDA.
 
 ### 3. Precedent Transactions Analysis (PTA)
-This method examines prices paid in prior transactions for similar companies. The data from these transactions are used to derive valuation multiples which are then applied to the companies in the venture fund’s portfolio.
+This method examines prices paid in prior transactions for similar companies. The data from these transactions are used to derive [valuation multiples](../v/valuation_multiples.md) which are then applied to the companies in the venture fund’s portfolio.
 
 ### 4. Market Approach
 The market approach relies on current market conditions to value investments. It often uses recent financing rounds or market comparable transactions to establish valuation benchmarks.
@@ -58,7 +58,7 @@ Startups and early-stage companies typically exhibit high volatility, which can 
 Startup investments are generally illiquid, meaning that the venture capital firm cannot easily sell its shares in the company. Illiquid assets are harder to value as there are fewer market comparables.
 
 ### 4. Subjectivity
-Valuation models often involve subjective assumptions, such as revenue growth rates and discount rates, which can vary widely between analysts.
+[Valuation models](../v/valuation_models.md) often involve subjective assumptions, such as revenue growth rates and discount rates, which can vary widely between analysts.
 
 ## Examples of Firms Specializing in Venture Fund Valuation
 
@@ -69,4 +69,4 @@ Valuation models often involve subjective assumptions, such as revenue growth ra
 5. **Duff & Phelps (https://www.duffandphelps.com)** - Specializes in valuation and corporate finance advisory.
 
 ## Conclusion
-Valuing a venture fund requires a deep understanding of both traditional and specialized valuation techniques. The unique characteristics of venture investments, such as high volatility, illiquidity, and information asymmetry, pose additional challenges. Despite these challenges, accurate valuation is critical for making informed investment decisions and assessing the performance of venture funds. Employing a combination of methods and continuously refining assumptions in light of new data can provide a more accurate and comprehensive valuation.
+Valuing a venture fund requires a deep understanding of both traditional and specialized [valuation techniques](../v/valuation_techniques.md). The unique characteristics of venture investments, such as high volatility, illiquidity, and information asymmetry, pose additional challenges. Despite these challenges, accurate valuation is critical for making informed investment decisions and assessing the performance of venture funds. Employing a combination of methods and continuously refining assumptions in light of new data can provide a more accurate and comprehensive valuation.

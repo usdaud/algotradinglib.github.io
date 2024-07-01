@@ -38,7 +38,7 @@ Several tools can be employed to calculate and visualize rolling returns:
 - **Excel**: Use formulas and pivot tables to perform rolling return calculations.
 - **Python**: Libraries like pandas and matplotlib make it easy to calculate and plot rolling returns.
 - **MATLAB**: Provides functions like `movmean` or custom scripts for rolling return calculations.
-- **R**: Libraries like `zoo` and `xts` are specifically designed for handling time series analysis.
+- **R**: Libraries like `zoo` and `xts` are specifically designed for handling [time series analysis](../t/time_series_analysis.md).
 
 ## Companies Using Rolling Returns
 Rolling returns are widely used by various financial institutions, investment firms, and analysis companies. Some of the notable companies include:
@@ -50,7 +50,7 @@ Each of these companies uses rolling returns to present comprehensive performanc
 
 ## Advantages of Rolling Returns
 - **Consistency**: By smoothing out short-term volatility, rolling returns can demonstrate the consistency of an investment's performance over different periods.
-- **Comparative Analysis**: They allow for better comparison of different assets or funds over identical time frames.
+- **[Comparative Analysis](../c/comparative_analysis.md)**: They allow for better comparison of different assets or funds over identical time frames.
 - **Risk Assessment**: Rolling returns help in understanding the risk and volatility associated with an investment over time.
 
 ## Challenges and Limitations

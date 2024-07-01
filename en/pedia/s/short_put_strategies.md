@@ -65,7 +65,7 @@ Executing a short put strategy in a bearish market—or when the underlying asse
 
 ## Margin Requirements
 
-Selling put options typically requires the trader to maintain a margin account because the potential losses can exceed the initial premium received. Margin requirements ensure that the trader can fulfill their obligation if the options are exercised.
+Selling [put options](../p/put_options.md) typically requires the trader to maintain a margin account because the potential losses can exceed the initial premium received. Margin requirements ensure that the trader can fulfill their obligation if the options are exercised.
 
 ## Managing Short Puts
 
@@ -79,12 +79,12 @@ If the underlying asset's price starts to approach the strike price, the trader 
 
 ### Risk Management
 
-Using stops, limits, and predefined exit points can help manage risk in a short put strategy. It's crucial to have a risk management plan to limit potential losses, especially in volatile markets.
+Using stops, limits, and predefined exit points can help manage risk in a short put strategy. It's crucial to have a [risk management](../r/risk_management.md) plan to limit potential losses, especially in volatile markets.
 
 ## Real-World Application
 
-Many professional traders and financial institutions utilize short put strategies to generate income and improve portfolio returns. Companies like TD Ameritrade (https://www.tdameritrade.com/), E*TRADE (https://us.etrade.com/home), and Interactive Brokers (https://www.interactivebrokers.com/en/home.php) offer platforms and tools to facilitate such options trading strategies.
+Many professional traders and financial institutions utilize short put strategies to generate income and improve portfolio returns. Companies like TD Ameritrade (https://www.tdameritrade.com/), E*TRADE (https://us.etrade.com/home), and Interactive Brokers (https://www.interactivebrokers.com/en/home.php) offer platforms and tools to facilitate such [options trading strategies](../o/options_trading_strategies.md).
 
 ## Conclusion
 
-Short put strategies can be an effective way to generate income, especially in bullish or neutral markets. However, they come with significant risks, particularly in bearish markets. It's crucial to understand the risk/reward profile, employ stringent risk management practices, and stay informed about market conditions. By doing so, traders can leverage short put strategies to enhance their portfolio's performance.
+Short put strategies can be an effective way to generate income, especially in bullish or neutral markets. However, they come with significant risks, particularly in bearish markets. It's crucial to understand the risk/reward profile, employ stringent [risk management](../r/risk_management.md) practices, and stay informed about market conditions. By doing so, traders can leverage short put strategies to enhance their portfolio's performance.

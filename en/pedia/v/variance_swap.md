@@ -6,7 +6,7 @@ A variance swap is a type of derivative financial instrument that allows investo
 
 ### 1. **Realized Variance and Volatility**
 - **Realized Variance:** The actual variance of a financial instrument's returns over a given period. It is calculated as the average of the squared returns, typically annualized.
-- **Realized Volatility:** Often more intuitive for market participants, realized volatility is the square root of the realized variance. It is typically expressed in annualized terms and reflects the degree of variation in an asset's returns over time.
+- **[Realized Volatility](../r/realized_volatility.md):** Often more intuitive for market participants, [realized volatility](../r/realized_volatility.md) is the square root of the realized variance. It is typically expressed in annualized terms and reflects the degree of variation in an asset's returns over time.
 
 ### 2. **Implied Volatility**
 - Implied volatility is an estimate of the future volatility of an asset's return as implied by the price of its options. It represents the market's forecast of a likely movement in the asset's price and is an essential input in the pricing of options.
@@ -48,19 +48,19 @@ Traders can speculate on changes in market volatility by taking a position in va
 Arbitrageurs can exploit mispricings between variance swaps and other volatility instruments such as options. By constructing complex strategies, they can lock in risk-free profits from discrepancies in the pricing of realized and implied volatility.
 
 ## Pricing and Valuation
-The pricing of variance swaps hinges on the relationship between implied and realized volatility. The value at the inception of the swap (when no volatility has been realized yet) is typically zero, meaning the strike price is set so that the expected payoff is zero for both parties. However, ongoing valuation of an existing variance swap involves:
+The pricing of variance swaps hinges on the relationship between implied and [realized volatility](../r/realized_volatility.md). The value at the inception of the swap (when no volatility has been realized yet) is typically zero, meaning the strike price is set so that the expected payoff is zero for both parties. However, ongoing valuation of an existing variance swap involves:
 
 ### 1. **Replication via Options**
 A variance swap can be synthetically replicated using a portfolio of options. This portfolio typically consists of a strip of European-style calls and puts across various strikes. The key is to hold a delta-neutral (insensitive to small price changes) position that captures the changes in variance.
 
 ### 2. **Numerical Methods**
-When analytical solutions are impractical, numerical techniques such as Monte Carlo simulations or finite difference methods may be employed to estimate the fair value of a variance swap.
+When analytical solutions are impractical, numerical techniques such as Monte Carlo simulations or [finite difference methods](../f/finite_difference_methods.md) may be employed to estimate the fair value of a variance swap.
 
 ## Variance Swaps vs. Volatility Swaps
 While the terms might be used interchangeably, variance swaps and volatility swaps have distinct differences:
 
 - **Variance Swaps:** The payoff depends on the squared returns, making it sensitive to extreme price movements (large deviations contribute more to the realized variance).
-- **Volatility Swaps:** The payoff depends on the realized volatility (the square root of variance), offering a more direct hedge against volatility and typically more intuitive for traders.
+- **Volatility Swaps:** The payoff depends on the [realized volatility](../r/realized_volatility.md) (the square root of variance), offering a more direct hedge against volatility and typically more intuitive for traders.
 
 ## Examples of Market Use
 
@@ -90,7 +90,7 @@ As with any derivative contract, there is the risk that one party may default. M
 Several financial institutions and trading firms offer variance swap products to their clients. Notable players in this space include:
 
 ### 1. **Goldman Sachs**
-Goldman Sachs provides variance swaps as part of its suite of equity derivatives and structured products. The firm leverages its market-making and risk management expertise to facilitate these trades.
+Goldman Sachs provides variance swaps as part of its suite of equity [derivatives](../d/derivatives.md) and structured products. The firm leverages its market-making and [risk management](../r/risk_management.md) expertise to facilitate these trades.
 [Goldman Sachs Equity Derivatives](https://www.goldmansachs.com/what-we-do/securities/equity-derivatives/)
 
 ### 2. **J.P. Morgan**
@@ -102,7 +102,7 @@ Morgan Stanley's equity derivative operations include variance swaps, providing 
 [Morgan Stanley Equity Derivatives](https://www.morganstanley.com/im/en-us/capital-securities-strategies/equity/index.html)
 
 ### 4. **Barclays**
-Barclays facilitates variance swaps through its equity derivatives platform, enabling seamless execution and innovative volatility trading strategies.
+Barclays facilitates variance swaps through its equity [derivatives](../d/derivatives.md) platform, enabling seamless execution and innovative volatility [trading strategies](../t/trading_strategies.md).
 [Barclays Markets & Research - Equity Derivatives](https://www.cib.barclays/markets/equity-derivatives/)
 
-In conclusion, variance swaps represent a sophisticated tool for trading and managing volatility risk. They offer market participants a direct and efficient way to gain exposure to or hedge against changes in realized variance, distinct from traditional option-based strategies. As with any financial instrument, a thorough understanding of their features, applications, and risks is essential for effective utilization.
+In conclusion, variance swaps represent a sophisticated tool for trading and managing [volatility risk](../v/volatility_risk.md). They offer market participants a direct and efficient way to gain exposure to or hedge against changes in realized variance, distinct from traditional option-based strategies. As with any financial instrument, a thorough understanding of their features, applications, and risks is essential for effective utilization.

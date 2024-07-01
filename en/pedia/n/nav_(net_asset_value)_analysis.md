@@ -52,16 +52,16 @@ The NAV is crucial in determining the price at which shares can be bought from o
 
 ### NAV in Algo Trading
 
-Algo trading, or algorithmic trading, involves the use of algorithms and computational power to execute trades at speeds and frequencies that a human trader cannot match. NAV plays a significant role in the world of algo trading in several ways:
+Algo trading, or [algorithmic trading](../a/algorithmic_trading.md), involves the use of algorithms and computational power to execute trades at speeds and frequencies that a human trader cannot match. NAV plays a significant role in the world of algo trading in several ways:
 
 #### Real-time NAV Calculations
-In algo trading, real-time NAV calculations are invaluable. By continuously calculating the NAV through algorithmic means, traders can quickly identify opportunities for arbitrage or response to price discrepancies.
+In algo trading, real-time NAV calculations are invaluable. By continuously calculating the NAV through algorithmic means, traders can quickly identify opportunities for [arbitrage](../a/arbitrage.md) or response to price discrepancies.
 
 #### Arbitrage Opportunities
 Algo traders can capitalize on the price discrepancies between the NAV of an ETF and its market price. For example, an ETF might trade at a price different from its NAV due to market inefficiencies. Algorithmic strategies can quickly identify these discrepancies, buying undervalued shares or selling overvalued ones to earn a profit.
 
 #### Efficient Portfolio Management
-Algorithms that monitor and adjust portfolios frequently rely on up-to-date NAV calculations. By keeping precise track of NAV, these algorithms can rebalance portfolios to maintain optimal asset allocation and risk profiles.
+Algorithms that monitor and adjust portfolios frequently rely on up-to-date NAV calculations. By keeping precise track of NAV, these algorithms can rebalance portfolios to maintain optimal [asset allocation](../a/asset_allocation.md) and risk profiles.
 
 ### Challenges in NAV Analysis
 
@@ -69,7 +69,7 @@ Algorithms that monitor and adjust portfolios frequently rely on up-to-date NAV 
 Accurately valuing the assets held by a fund is critical for determining the NAV. This can be challenging, especially for illiquid or thinly-traded securities, or in markets where prices are volatile.
 
 #### Frequent Valuation
-For algo trading and daily investor updates, frequent valuation of the NAV is necessary. This requires sophisticated technology and data integration to ensure timely and precise calculations.
+For algo trading and daily investor updates, frequent valuation of the NAV is necessary. This requires sophisticated technology and [data integration](../d/data_integration.md) to ensure timely and precise calculations.
 
 #### Currency and Market Variations
 For funds holding international assets, currency fluctuations and varying market conditions across different regions can complicate NAV calculations. Algorithms need to account for these variations to ensure accurate valuations.
@@ -84,5 +84,5 @@ BlackRock, another leading global investment management corporation, emphasizes 
 
 ### Conclusion
 
-Net Asset Value (NAV) remains a fundamental concept in the investment world, offering a transparent and accurate measure of a fund's value. For investors, NAV provides a foundation for evaluating and comparing different funds. In algo trading, real-time NAV calculations unlock opportunities for arbitrage, efficient portfolio management, and strategic trading. Understanding NAV's calculation, significance, and application facilitates a deeper comprehension of investment fund dynamics and their role in modern trading strategies.
+Net Asset Value (NAV) remains a fundamental concept in the investment world, offering a transparent and accurate measure of a fund's value. For investors, NAV provides a foundation for evaluating and comparing different funds. In algo trading, real-time NAV calculations unlock opportunities for [arbitrage](../a/arbitrage.md), efficient [portfolio management](../p/portfolio_management.md), and strategic trading. Understanding NAV's calculation, significance, and application facilitates a deeper comprehension of investment fund dynamics and their role in modern [trading strategies](../t/trading_strategies.md).
 

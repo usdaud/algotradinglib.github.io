@@ -1,6 +1,6 @@
 # Weighted Volatility
 
-Weighted Volatility is a financial metric used in the field of quantitative trading and risk management to measure the variation of a security’s price over a specified period, giving different importance (weights) to different time periods or data points. It is a more refined version of traditional volatility measures, providing a nuanced perspective on price fluctuations and aiding in more accurate predictions and decisions in algorithmic trading strategies.
+Weighted Volatility is a financial metric used in the field of [quantitative trading](../q/quantitative_trading.md) and [risk management](../r/risk_management.md) to measure the variation of a security’s price over a specified period, giving different importance (weights) to different time periods or data points. It is a more refined version of traditional volatility measures, providing a nuanced perspective on price fluctuations and aiding in more accurate predictions and decisions in [algorithmic trading](../a/algorithmic_trading.md) strategies.
 
 ## Understanding Volatility
 
@@ -26,11 +26,11 @@ The calculation involves several steps:
 
 ### 3. **Applications in Algorithmic Trading**
 
-Weighted Volatility is utilized in various quantitative trading strategies, including:
+Weighted Volatility is utilized in various [quantitative trading](../q/quantitative_trading.md) strategies, including:
 
-- **Risk Management**: Helps in identifying the underlying risk by focusing more on recent or significant data points.
-- **Portfolio Optimization**: Balances the portfolio by adjusting weights and allocations based on the weighted volatility of holdings, thus mitigating potential risks.
-- **Trading Signals**: Generate more accurate buy/sell signals by considering the weighted price movements rather than raw price data.
+- **[Risk Management](../r/risk_management.md)**: Helps in identifying the underlying risk by focusing more on recent or significant data points.
+- **[Portfolio Optimization](../p/portfolio_optimization.md)**: Balances the portfolio by adjusting weights and allocations based on the weighted volatility of holdings, thus mitigating potential risks.
+- **[Trading Signals](../t/trading_signals.md)**: Generate more accurate buy/sell signals by considering the weighted price movements rather than raw price data.
 - **Market Predictions**: More precise forecasts of future volatilities by giving relevant importance to different historical data points.
 
 ### 4. **Advantages of Weighted Volatility**
@@ -49,13 +49,13 @@ Weighted Volatility is utilized in various quantitative trading strategies, incl
 
 ### Example: XTX Markets
 
-XTX Markets, a leading algorithmic trading firm, incorporates advanced volatility measures including weighted volatility in their trading strategies. XTX’s approach to volatility assessment helps in maintaining high-frequency trading algorithms' adaptability to current market conditions. Their detailed methodology ensures that they remain competitive by making data-driven decisions in real time. 
+XTX Markets, a leading [algorithmic trading](../a/algorithmic_trading.md) firm, incorporates advanced volatility measures including weighted volatility in their [trading strategies](../t/trading_strategies.md). XTX’s approach to volatility assessment helps in maintaining [high-frequency trading algorithms](../h/high-frequency_trading_algorithms.md)' adaptability to current market conditions. Their detailed methodology ensures that they remain competitive by making data-driven decisions in real time. 
 
 For more information about XTX Markets, please visit their [official website](https://www.xtxmarkets.com).
 
 ### Example: Renaissance Technologies
 
-Renaissance Technologies, operated by the acclaimed Medallion Fund, also utilizes sophisticated volatility measures, including weighted volatility, to calibrate their trading models. By doing so, they can effectively hedge risks and optimize portfolio allocations, contributing to their unparalleled returns.
+Renaissance Technologies, operated by the acclaimed Medallion Fund, also utilizes sophisticated volatility measures, including weighted volatility, to calibrate their [trading models](../t/trading_models.md). By doing so, they can effectively hedge risks and optimize portfolio allocations, contributing to their unparalleled returns.
 
 For more details, visit the Renaissance Technologies [website](https://www.rentec.com).
 
@@ -71,4 +71,4 @@ Several software tools and platforms facilitate the computation and analysis of 
 
 Weighted Volatility is a vital tool in the arsenal of algorithmic traders and financial analysts. By incorporating weights into volatility calculations, traders can obtain a more relevant and responsive measure of market risk, improving their decision-making capabilities. While it offers significant advantages over traditional volatility metrics, it requires careful consideration of the weighting scheme and an understanding of its underlying complexities.
 
-As quantitative trading continues to evolve, the accurate assessment of risk and price behavior using metrics like weighted volatility will hold paramount importance, ensuring better risk-adjusted returns and a more profound understanding of market mechanics.
+As [quantitative trading](../q/quantitative_trading.md) continues to evolve, the accurate assessment of risk and price behavior using metrics like weighted volatility will hold paramount importance, ensuring better risk-adjusted returns and a more profound understanding of market mechanics.

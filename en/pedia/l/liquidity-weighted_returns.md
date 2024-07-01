@@ -1,6 +1,6 @@
 # Liquidity-Weighted Returns
 
-Liquidity-weighted returns are a sophisticated concept in the realm of financial trading and portfolio management. They represent a method of adjusting the returns of a trading strategy by taking into account the liquidity of the assets involved. This method is particularly useful in algorithmic trading, where the goal is to create strategies that not only generate high returns but also are feasible to execute in real-world markets without causing significant price slippage or incurring large transaction costs.
+Liquidity-weighted returns are a sophisticated concept in the realm of financial trading and [portfolio management](../p/portfolio_management.md). They represent a method of adjusting the returns of a trading strategy by taking into account the liquidity of the assets involved. This method is particularly useful in [algorithmic trading](../a/algorithmic_trading.md), where the goal is to create strategies that not only generate high returns but also are feasible to execute in real-world markets without causing significant price slippage or incurring large transaction costs.
 
 ## Introduction to Liquidity
 
@@ -8,7 +8,7 @@ Liquidity, in financial markets, refers to the ease with which an asset can be b
 
 ### Key Metrics of Liquidity
 
-1. **Bid-Ask Spread**: The difference between the price at which one can buy (ask) and sell (bid) an asset. A narrower spread indicates higher liquidity.
+1. **[Bid-Ask Spread](../b/bid-ask_spread.md)**: The difference between the price at which one can buy (ask) and sell (bid) an asset. A narrower spread indicates higher liquidity.
 2. **Market Depth**: The quantity of buy and sell orders at various price levels in the market. Higher market depth suggests better liquidity.
 3. **Volume**: The total number of shares or contracts traded for an asset over a particular time period. Higher volumes typically signify higher liquidity.
 4. **Price Impact**: The effect of a trade on the price of an asset. Lower price impact is characteristic of more liquid assets.
@@ -21,7 +21,7 @@ Returns in finance refer to the gains or losses made on an investment over a per
 
 1. **Absolute Returns**: The simple increase or decrease in the value of an investment.
 2. **Relative Returns**: Returns compared to a benchmark index or other standard.
-3. **Risk-Adjusted Returns**: Returns that factor in the risk taken to achieve them, such as Sharpe Ratio.
+3. **Risk-Adjusted Returns**: Returns that factor in the risk taken to achieve them, such as [Sharpe Ratio](../s/sharpe_ratio.md).
 4. **Liquidity-Weighted Returns**: Returns adjusted for the liquidity of the assets involved.
 
 ## Liquidity-Weighted Returns
@@ -32,7 +32,7 @@ Liquidity-weighted returns adjust traditional returns by incorporating the liqui
 
 The calculation of liquidity-weighted returns involves several steps:
 
-1. **Identify Liquidity Metrics**: Determine which liquidity metrics (e.g., bid-ask spread, market depth, volume) will be used.
+1. **Identify Liquidity Metrics**: Determine which liquidity metrics (e.g., [bid-ask spread](../b/bid-ask_spread.md), market depth, volume) will be used.
 2. **Adjust Returns for Liquidity**: Modify the traditional return measures based on liquidity. This can involve:
    - **Transaction Cost Adjustment**: Deducing estimated transaction costs based on liquidity.
    - **Impact Adjustment**: Adjusting returns for the price impact caused by trades.
@@ -47,7 +47,7 @@ A simplified formula for liquidity-weighted returns might look like:
 Where:
 - \( R_{LW} \) is the liquidity-weighted return.
 - \( R_t \) is the traditional return at time t.
-- Transaction Costs are costs incurred due to the bid-ask spread and other fees.
+- Transaction Costs are costs incurred due to the [bid-ask spread](../b/bid-ask_spread.md) and other fees.
 - Price Impact is the change in asset price due to executed trades.
 - Liquidity Metric is the chosen measure of liquidity, such as volume or market depth.
 
@@ -55,18 +55,18 @@ Where:
 
 ### Algorithm Design
 
-When creating an algorithmic trading strategy, incorporating liquidity considerations can enhance performance by ensuring the strategy is deployable in real markets. This involves:
+When creating an [algorithmic trading](../a/algorithmic_trading.md) strategy, incorporating liquidity considerations can enhance performance by ensuring the strategy is deployable in real markets. This involves:
 
 1. **Liquidity Filters**: Screening assets based on liquidity criteria to avoid those with insufficient market depth or high spread.
-2. **Dynamic Position Sizing**: Adjusting trade sizes based on current liquidity to minimize price impact and transaction costs.
-3. **Execution Algorithms**: Using smart order routing and trading algorithms designed to minimize market impact.
+2. **Dynamic [Position Sizing](../p/position_sizing.md)**: Adjusting trade sizes based on current liquidity to minimize price impact and transaction costs.
+3. **[Execution Algorithms](../e/execution_algorithms.md)**: Using smart [order routing](../o/order_routing.md) and [trading algorithms](../t/trading_algorithms.md) designed to minimize market impact.
 
 ### Tools and Platforms
 
-Several platforms and tools are available to assist with integrating liquidity considerations into trading algorithms. These may include:
+Several platforms and tools are available to assist with integrating liquidity considerations into [trading algorithms](../t/trading_algorithms.md). These may include:
 
-- **QuantConnect**: Provides tools for backtesting and live trading with access to liquidity data.
-- **AlgoTrader**: An institutional-grade algorithmic trading platform that supports liquidity-adjusted trading strategies. [Website](https://www.algotrader.com)
+- **QuantConnect**: Provides tools for [backtesting](../b/backtesting.md) and live trading with access to liquidity data.
+- **AlgoTrader**: An institutional-grade [algorithmic trading](../a/algorithmic_trading.md) platform that supports liquidity-adjusted [trading strategies](../t/trading_strategies.md). [Website](https://www.algotrader.com)
 - **Kx Systems**: Known for its high-performance time-series database, kdb+, which can help manage large sets of trading and liquidity data. [Website](https://kx.com)
 
 ## Benefits and Challenges
@@ -85,4 +85,4 @@ Several platforms and tools are available to assist with integrating liquidity c
 
 ## Conclusion
 
-Liquidity-weighted returns offer a compelling enhancement over traditional return metrics by providing a more nuanced and executable measure of trading performance. While integrating these adjustments presents challenges, the benefits in terms of realistic assessment and improved execution make it a valuable approach in the sophisticated world of algorithmic trading. Adopting liquidity-weighted returns requires access to detailed liquidity data, advanced analytical tools, and a thorough understanding of market microstructure, but it can significantly enhance the robustness and feasibility of trading strategies.
+Liquidity-weighted returns offer a compelling enhancement over traditional return metrics by providing a more nuanced and executable measure of [trading performance](../t/trading_performance.md). While integrating these adjustments presents challenges, the benefits in terms of realistic assessment and improved execution make it a valuable approach in the sophisticated world of [algorithmic trading](../a/algorithmic_trading.md). Adopting liquidity-weighted returns requires access to detailed liquidity data, advanced analytical tools, and a thorough understanding of [market microstructure](../m/market_microstructure.md), but it can significantly enhance the robustness and feasibility of [trading strategies](../t/trading_strategies.md).

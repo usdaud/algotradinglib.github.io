@@ -1,6 +1,6 @@
 # Overnight Trading Strategies
 
-Overnight trading strategies involve taking positions in financial markets that are opened just before the market closes and closed the next morning when the market reopens. This trading style leverages market behaviors and external factors that influence asset prices outside of regular trading hours. These strategies aim to capitalize on overnight price movements and are popular among traders who aim to avoid the daytime market volatility. Let's delve deeper into various aspects of overnight trading strategies, their benefits, risks, and specific approaches.
+Overnight [trading strategies](../t/trading_strategies.md) involve taking positions in financial markets that are opened just before the market closes and closed the next morning when the market reopens. This trading style leverages market behaviors and external factors that influence asset prices outside of regular trading hours. These strategies aim to capitalize on overnight price movements and are popular among traders who aim to avoid the daytime market volatility. Let's delve deeper into various aspects of overnight [trading strategies](../t/trading_strategies.md), their benefits, risks, and specific approaches.
 
 ## Key Concepts of Overnight Trading
 
@@ -10,7 +10,7 @@ Markets operate in defined trading sessions. For example, the New York Stock Exc
 
 ### Overnight Trading Opportunities
 
-Daytime activities, such as economic announcements, earnings reports, and geopolitical events, can heavily influence overnight trading. Traders seek to predict how these factors will affect market sentiment and asset prices by the next morning.
+Daytime activities, such as economic announcements, earnings reports, and [geopolitical events](../g/geopolitical_events.md), can heavily influence overnight trading. Traders seek to predict how these factors will affect market sentiment and asset prices by the next morning.
 
 ### Types of Overnight Strategies
 
@@ -24,7 +24,7 @@ Daytime activities, such as economic announcements, earnings reports, and geopol
 
 ### Market Gaps
 
-Traders endeavor to profit from "market gaps," which refer to the differences between a security’s closing price and its opening price the next day. Positive earnings reports or geopolitical events can create upward gaps, while adverse news may cause downward gaps.
+Traders endeavor to profit from "market gaps," which refer to the differences between a security’s closing price and its opening price the next day. Positive earnings reports or [geopolitical events](../g/geopolitical_events.md) can create upward gaps, while adverse news may cause downward gaps.
 
 ### Reduced Market Noise
 
@@ -60,7 +60,7 @@ Tools such as the Forex Factory Calendar provide details on upcoming economic an
 
 ### Earnings Reports and Calendars
 
-Calendars from platforms like Nasdaq (https://www.nasdaq.com/market-activity/earnings) list upcoming earnings announcements, helping traders anticipate overnight price movements in stocks.
+Calendars from platforms like Nasdaq (https://www.nasdaq.com/market-activity/earnings) list upcoming [earnings announcements](../e/earnings_announcements.md), helping traders anticipate overnight price movements in stocks.
 
 ### Volatility Index (VIX)
 
@@ -90,6 +90,6 @@ Given the differing time zones of the U.S. and Japan, the USD/JPY forex pair oft
 
 ## Conclusion
 
-Overnight trading strategies offer unique opportunities for traders to benefit from price moves driven by after-hours news and market gaps. However, these strategies also come with inherent risks due to lower liquidity and volatility. Proper risk management, thorough research, and the use of relevant tools and indicators are essential for success in overnight trading.
+Overnight [trading strategies](../t/trading_strategies.md) offer unique opportunities for traders to benefit from price moves driven by after-hours news and market gaps. However, these strategies also come with inherent risks due to lower liquidity and volatility. Proper [risk management](../r/risk_management.md), thorough research, and the use of relevant tools and indicators are essential for success in overnight trading.
 
-Traders must continuously adapt to changing market conditions and keep abreast of news events to effectively capitalize on overnight market moves. By carefully balancing the risks and rewards, overnight trading can serve as a profitable complement to intraday trading activities.
+Traders must continuously adapt to changing market conditions and keep abreast of news events to effectively capitalize on overnight market moves. By carefully balancing the risks and rewards, overnight trading can serve as a profitable complement to [intraday trading](../i/intraday_trading.md) activities.

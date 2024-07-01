@@ -1,6 +1,6 @@
 ## Yen Swap Strategies
 
-In the dynamic world of financial markets, derivatives play an indispensable role in the efficient management of risks and the facilitation of investment strategies. Among these derivatives, interest rate swaps hold a prominent place, and when dealing with the yen (JPY), Yen Swap strategies become particularly pertinent.
+In the dynamic world of financial markets, [derivatives](../d/derivatives.md) play an indispensable role in the efficient management of risks and the facilitation of investment strategies. Among these [derivatives](../d/derivatives.md), [interest rate swaps](../i/interest_rate_swaps.md) hold a prominent place, and when dealing with the yen (JPY), Yen Swap strategies become particularly pertinent.
 
 ### Understanding Interest Rate Swaps
 
@@ -8,7 +8,7 @@ An interest rate swap (IRS) is a financial derivative contract in which two part
 
 ### Yen Interest Rate Swaps
 
-Yen Interest Rate Swaps involve the exchange of interest rate payments denominated in Japanese Yen (JPY). Given Japan's unique monetary policy environment characterized by extended periods of low or negative interest rates, Yen Swap strategies require specialized considerations:
+Yen [Interest Rate Swaps](../i/interest_rate_swaps.md) involve the exchange of interest rate payments denominated in Japanese Yen (JPY). Given Japan's unique monetary policy environment characterized by extended periods of low or negative interest rates, Yen Swap strategies require specialized considerations:
 
 1. **Fixed-for-Floating Yen Swap**: Most commonly, one party pays a fixed interest rate while receiving a floating interest rate pegged to benchmarks such as the Japanese Yen LIBOR, the Tokyo Interbank Offered Rate (TIBOR), or more recently, the Tokyo Overnight Average Rate (TONAR).
 
@@ -20,7 +20,7 @@ Yen Interest Rate Swaps involve the exchange of interest rate payments denominat
 
 - **Notional Principal**: The amount upon which the exchanged interest payments are based.
 - **Swap Spread**: The difference between the fixed rate in a swap and the yield of a similar maturity government bond.
-- **Collateralization**: Often interest rate swaps involve collateral agreements to mitigate the counterparty risk.
+- **Collateralization**: Often [interest rate swaps](../i/interest_rate_swaps.md) involve collateral agreements to mitigate the [counterparty risk](../c/counterparty_risk.md).
 - **Valuation**: Swap valuation requires the calculation of the net present value (NPV) of future cash flows.
 
 ### Strategies Using Yen Swaps
@@ -35,15 +35,15 @@ Traders may use yen swaps to speculate on changes in the Japanese interest rate 
 
 #### Arbitrage Opportunities
 
-Arbitrage strategies might involve exploiting discrepancies between yen swap rates and corresponding interest rate futures or bond prices. Traders might look for pricing inefficiencies across different maturities or instruments.
+[Arbitrage](../a/arbitrage.md) strategies might involve exploiting discrepancies between yen swap rates and corresponding [interest rate futures](../i/interest_rate_futures.md) or bond prices. Traders might look for pricing inefficiencies across different maturities or instruments.
 
 ### Impact of Japanese Monetary Policy
 
-The BoJ’s monetary policy significantly influences yen swap markets. For decades, Japan has maintained low-interest rates to combat deflation and stimulate economic growth. More recently, the BoJ has adopted unconventional measures like negative interest rate policy (NIRP) and yield curve control (YCC).
+The BoJ’s monetary policy significantly influences yen swap markets. For decades, Japan has maintained low-interest rates to combat deflation and stimulate economic growth. More recently, the BoJ has adopted unconventional measures like negative interest rate policy (NIRP) and [yield curve](../y/yield_curve.md) control (YCC).
 
 1. **Negative Interest Rate Policy (NIRP)**: Introduced in 2016, it has resulted in negative yields on many short-term yen instruments, complicating the valuation and attractiveness of yen swaps.
    
-2. **Yield Curve Control (YCC)**: Since 2016, the BoJ has targeted a zero percent yield on 10-year Japanese Government Bonds (JGBs), affecting long-term swap rates and their spreads relative to government bonds.
+2. **[Yield Curve](../y/yield_curve.md) Control (YCC)**: Since 2016, the BoJ has targeted a zero percent yield on 10-year Japanese Government Bonds (JGBs), affecting long-term swap rates and their spreads relative to government bonds.
 
 ### Yen Swap Curve
 
@@ -81,7 +81,7 @@ Banks and other financial institutions often employ complex yen swap strategies 
 
 ### Conclusion
 
-Yen Swap strategies are integral tools in modern financial markets, particularly for managing interest rate risk, speculating on rate movements, and optimizing financial performance. The unique interest rate environment in Japan, influenced by the BoJ's policies, necessitates a deep understanding of yen-specific dynamics for effective utilization of these derivatives.
+Yen Swap strategies are integral tools in modern financial markets, particularly for managing interest rate risk, speculating on rate movements, and optimizing financial performance. The unique interest rate environment in Japan, influenced by the BoJ's policies, necessitates a deep understanding of yen-specific dynamics for effective utilization of these [derivatives](../d/derivatives.md).
 
 ### Reference Links
 

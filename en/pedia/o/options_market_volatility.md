@@ -10,21 +10,21 @@ Volatility refers to the degree of variation of a trading price series over time
 
 Volatility can be classified into several types, each offering different insights:
 
-- **Historical Volatility:** This type measures the fluctuations of the underlying asset's price over a set time period in the past. It is typically calculated using standard deviation or variance from the mean price.
+- **[Historical Volatility](../h/historical_volatility.md):** This type measures the fluctuations of the underlying asset's price over a set time period in the past. It is typically calculated using standard deviation or variance from the mean price.
 
-- **Implied Volatility:** Unlike historical volatility, which is based on past price movements, implied volatility is a forward-looking measure. It reflects the market's expectations of future volatility as implied by the prices of options contracts.
+- **Implied Volatility:** Unlike [historical volatility](../h/historical_volatility.md), which is based on past price movements, implied volatility is a forward-looking measure. It reflects the market's expectations of future volatility as implied by the prices of options contracts.
 
-- **Realized Volatility:** This form of volatility is calculated using actual price movements of the underlying asset over a specified period. It often serves as a benchmark against which implied volatility is evaluated.
+- **[Realized Volatility](../r/realized_volatility.md):** This form of volatility is calculated using actual price movements of the underlying asset over a specified period. It often serves as a benchmark against which implied volatility is evaluated.
 
 - **Market Volatility:** This general term refers to the expected volatility of overall market indexes rather than individual securities.
 
 ## 2. Measurement of Volatility
 
-Quantifying volatility is essential for accurate pricing and risk management in options trading. Several statistical techniques and models can be employed to measure volatility:
+Quantifying volatility is essential for accurate pricing and [risk management](../r/risk_management.md) in options trading. Several statistical techniques and models can be employed to measure volatility:
 
 ### 2.1 Standard Deviation
 
-Standard deviation is a basic statistical measure used to estimate historical volatility. It quantifies how much the asset's returns can deviate from the average return.
+Standard deviation is a basic statistical measure used to estimate [historical volatility](../h/historical_volatility.md). It quantifies how much the asset's returns can deviate from the average return.
 
 ### 2.2 Variance
 
@@ -40,7 +40,7 @@ An extension of the ARCH model, GARCH incorporates more past periods (lags) in t
 
 ### 2.5 Implied Volatility Index (VIX)
 
-Often termed the "fear index," the VIX measures implied volatility on the S&P 500 index options. It provides a gauge of market sentiment and expected price fluctuations for the index.
+Often termed the "fear index," the VIX measures implied volatility on the S&P 500 [index options](../i/index_options.md). It provides a gauge of market sentiment and expected price fluctuations for the index.
 
 ## 3. Practical Implications in Options Trading
 
@@ -48,19 +48,19 @@ Volatility plays a vital role in options pricing and strategy formulation. Under
 
 ### 3.1 Options Pricing
 
-The Black-Scholes model, one of the most commonly used options pricing models, uses volatility as a key input. High implied volatility typically leads to higher premiums for options contracts, as the likelihood of large price swings increases.
+The [Black-Scholes model](../b/black-scholes_model.md), one of the most commonly used options pricing models, uses volatility as a key input. High implied volatility typically leads to higher premiums for options contracts, as the likelihood of large price swings increases.
 
 ### 3.2 Volatility Skew
 
-Volatility skew refers to the pattern that implied volatility tends to be higher for options that are deep in-the-money or out-of-the-money compared to at-the-money options. This phenomenon helps traders identify market sentiment and gauge where traders expect significant price movements.
+[Volatility skew](../v/volatility_skew.md) refers to the pattern that implied volatility tends to be higher for options that are deep in-the-money or out-of-the-money compared to at-the-money options. This phenomenon helps traders identify market sentiment and gauge where traders expect significant price movements.
 
 ### 3.3 Volatility Strategies
 
 - **Straddles:** In a straddle strategy, traders buy a call and put option with the same strike price and expiration date. This strategy profits from significant price movements in either direction.
 
-- **Strangles:** Similar to straddles, except the call and put options have different strike prices. This strategy is cheaper but requires a higher price movement for profitability.
+- **Strangles:** Similar to straddles, except the call and [put options](../p/put_options.md) have different strike prices. This strategy is cheaper but requires a higher price movement for profitability.
 
-- **Iron Condor:** A more complex strategy involving four options with different strike prices. This strategy profits from lower volatility and generates income from the premiums.
+- **[Iron Condor](../i/iron_condor.md):** A more complex strategy involving four options with different strike prices. This strategy profits from lower volatility and generates income from the premiums.
 
 ### 3.4 Hedging
 
@@ -68,18 +68,18 @@ Volatility can be both a boon and a bane in options trading. While it offers opp
 
 ## 4. Tools and Resources
 
-Various tools are available to help options traders evaluate volatility and incorporate it into their trading strategies.
+Various tools are available to help options traders evaluate volatility and incorporate it into their [trading strategies](../t/trading_strategies.md).
 
 ### 4.1 Trading Platforms
 
-Modern trading platforms offer built-in volatility analysis tools, providing traders with real-time data and historical trends. Platforms like TD Ameritrade's thinkorswim and Interactive Brokers provide comprehensive volatility analytics.
+Modern trading platforms offer built-in [volatility analysis](../v/volatility_analysis.md) tools, providing traders with real-time data and historical trends. Platforms like TD Ameritrade's thinkorswim and Interactive Brokers provide comprehensive volatility analytics.
 
 - **TD Ameritrade's thinkorswim:** [Link](https://www.tdameritrade.com/tools-and-platforms/thinkorswim/desktop.page)
 - **Interactive Brokers:** [Link](https://www.interactivebrokers.com/en/index.php?f=1406)
 
 ### 4.2 Financial Models
 
-Advanced financial models and software, such as MATLAB and R, allow users to create custom volatility models tailored to specific trading strategies.
+Advanced financial models and software, such as MATLAB and R, allow users to create custom [volatility models](../v/volatility_models.md) tailored to specific [trading strategies](../t/trading_strategies.md).
 
 ### 4.3 Market Data Providers
 

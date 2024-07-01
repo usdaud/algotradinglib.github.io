@@ -1,6 +1,6 @@
 # Real Options Analysis
 
-Real Options Analysis (ROA) is a sophisticated financial modeling technique used to evaluate and manage the various choices available to managers in volatile and uncertain markets. Unlike traditional discounted cash flow (DCF) methods that provide a static valuation based on expected future cash flows, ROA incorporates flexibility and strategic decision-making, similar to financial options, allowing for dynamic management of investments.
+Real Options Analysis (ROA) is a sophisticated [financial modeling](../f/financial_modeling.md) technique used to evaluate and manage the various choices available to managers in volatile and uncertain markets. Unlike traditional discounted cash flow (DCF) methods that provide a static valuation based on expected future cash flows, ROA incorporates flexibility and strategic decision-making, similar to financial options, allowing for dynamic management of investments.
 
 ## Key Concepts in Real Options Analysis
 
@@ -15,9 +15,9 @@ Real Options Analysis (ROA) is a sophisticated financial modeling technique used
     - **Option to Switch**: The flexibility to switch between different project inputs or outputs in response to market changes.
 
 3. **Valuation Methods**:
-    - **Binomial Lattice Models**: A simple and flexible method that represents the potential evolution of project value over time as a recombining tree, similar to the binomial option pricing model used for financial options.
-    - **Black-Scholes Model**: A continuous-time model that can be adapted to value real options, particularly when project value follows a lognormal distribution.
-    - **Monte Carlo Simulation**: A computational technique used to model the probability distributions of project outcomes and capture the complexities associated with multiple interacting options.
+    - **Binomial Lattice Models**: A simple and flexible method that represents the potential evolution of project value over time as a recombining tree, similar to the [binomial option pricing model](../b/binomial_option_pricing_model.md) used for financial options.
+    - **[Black-Scholes Model](../b/black-scholes_model.md)**: A continuous-time model that can be adapted to value real options, particularly when project value follows a lognormal distribution.
+    - **[Monte Carlo Simulation](../m/monte_carlo_simulation.md)**: A computational technique used to model the probability distributions of project outcomes and capture the complexities associated with multiple interacting options.
 
 4. **Application Areas**:
     - **Natural Resources**: In the mining, oil, and gas sectors, companies use ROA to evaluate the timing of exploration, development, and drilling activities.
@@ -34,7 +34,7 @@ Real Options Analysis (ROA) is a sophisticated financial modeling technique used
 
 - **Flexibility**: Accounts for managerial flexibility in decision-making.
 - **Dynamic**: Provides a framework for adjusting strategies as new information becomes available.
-- **Risk Management**: Helps in identifying and mitigating risks by considering various scenarios and outcomes.
+- **[Risk Management](../r/risk_management.md)**: Helps in identifying and mitigating risks by considering various scenarios and outcomes.
 - **Enhanced Valuation**: Often results in a higher valuation than traditional methods by acknowledging the value of future decision-making capability.
 
 ## Challenges and Limitations
@@ -54,7 +54,7 @@ Real Options Analysis (ROA) is a sophisticated financial modeling technique used
 - **Microsoft Excel**: With advanced plugins like Crystal Ball or @Risk.
 - **TreePlan**: An add-in for Microsoft Excel used for decision tree analysis.
 - **MATLAB**: Widely used for building customized computational models.
-- **Palisade Decision Tools Suite**: Includes tools like @Risk and PrecisionTree for risk analysis and decision-making.
+- **Palisade Decision Tools Suite**: Includes tools like @Risk and PrecisionTree for [risk analysis](../r/risk_analysis.md) and decision-making.
 
 ## Conclusion
 

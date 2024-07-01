@@ -30,9 +30,9 @@ The Federal Reserve’s most crucial function is conducting monetary policy. The
 
 The Federal Reserve plays a critical role in overseeing and regulating the banking system to ensure its safety and soundness, as well as protecting consumers’ credit rights. Key supervisory and regulatory functions include:
 
-1. **Bank Examinations**: The Fed conducts regular examinations of member banks to evaluate their financial health, risk management practices, and compliance with laws and regulations.
+1. **Bank Examinations**: The Fed conducts regular examinations of member banks to evaluate their financial health, [risk management](../r/risk_management.md) practices, and compliance with laws and regulations.
 
-2. **Regulatory Framework**: The Fed establishes regulations that cover various aspects of banking activities, such as capital requirements, liquidity standards, and risk management protocols.
+2. **Regulatory Framework**: The Fed establishes regulations that cover various aspects of banking activities, such as capital requirements, liquidity standards, and [risk management](../r/risk_management.md) protocols.
 
 3. **Consumer Protection**: The Fed enforces consumer protection laws and regulations that ensure fair and transparent treatment of consumers by financial institutions.
 
@@ -60,7 +60,7 @@ The Federal Reserve provides a range of financial services to ensure the smooth 
 
 #### Quantitative Easing (QE)
 
-Quantitative easing is an unconventional monetary policy tool used by the Federal Reserve to stimulate the economy when traditional monetary policy tools, such as lowering interest rates, become ineffective. QE involves large-scale purchases of longer-term government securities and other financial assets to inject liquidity into the economy and lower long-term interest rates.
+[Quantitative easing](../q/quantitative_easing.md) is an unconventional monetary policy tool used by the Federal Reserve to stimulate the economy when traditional monetary policy tools, such as lowering interest rates, become ineffective. QE involves large-scale purchases of longer-term government securities and other financial assets to inject liquidity into the economy and lower long-term interest rates.
 
 The Federal Reserve implemented several rounds of QE following the 2008 financial crisis and during the COVID-19 pandemic to support economic recovery. These interventions helped stabilize financial markets, lower borrowing costs, and boost consumer and business confidence.
 
@@ -94,7 +94,7 @@ Forward guidance and communication from the Fed also play a critical role in sha
 
 #### Banking and Credit Conditions
 
-The Federal Reserve’s regulatory and supervisory functions aim to ensure the stability and soundness of the banking system. By setting capital and liquidity requirements, conducting stress tests, and monitoring risk management practices, the Fed helps prevent bank failures and financial crises. These measures enhance the resilience of the banking system, ensuring that banks can continue to lend and support economic activity even during adverse conditions.
+The Federal Reserve’s regulatory and supervisory functions aim to ensure the stability and soundness of the banking system. By setting capital and liquidity requirements, conducting stress tests, and monitoring [risk management](../r/risk_management.md) practices, the Fed helps prevent bank failures and financial crises. These measures enhance the resilience of the banking system, ensuring that banks can continue to lend and support economic activity even during adverse conditions.
 
 Furthermore, the Fed’s monetary policy decisions directly influence credit conditions. Lower interest rates reduce borrowing costs for consumers and businesses, encouraging spending and investment. Conversely, higher interest rates increase borrowing costs, potentially slowing down credit growth and economic activity.
 
@@ -116,7 +116,7 @@ The Fed’s dual mandate of promoting maximum employment and stable prices prese
 
 ### Conclusion
 
-The Federal Reserve plays a central role in shaping the economic landscape of the United States through its monetary policy, regulatory functions, and financial stability initiatives. By adjusting interest rates, implementing quantitative easing, providing forward guidance, and ensuring a stable banking system, the Fed influences economic growth, financial markets, and credit conditions.
+The Federal Reserve plays a central role in shaping the economic landscape of the United States through its monetary policy, regulatory functions, and financial stability initiatives. By adjusting interest rates, implementing [quantitative easing](../q/quantitative_easing.md), providing forward guidance, and ensuring a stable banking system, the Fed influences economic growth, financial markets, and credit conditions.
 
 While the Fed’s policies have contributed to economic stability and growth, they also face criticisms and challenges. The ongoing evolution of the economic environment, financial markets, and societal expectations will continue to shape the Fed’s approach to policymaking. Understanding Federal Reserve policies and their implications is essential for market participants, policymakers, and the broader public in navigating the complexities of the modern economy.
 

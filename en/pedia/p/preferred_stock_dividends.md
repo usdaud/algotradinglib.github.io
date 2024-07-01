@@ -55,7 +55,7 @@ Preferred stock dividends offer several benefits for investors:
 
 Nevertheless, investors should be aware of potential risks:
 
-- **Interest Rate Sensitivity**: Preferred stocks are sensitive to interest rate changes. Rising interest rates can reduce the market value of preferred shares.
+- **[Interest Rate Sensitivity](../i/interest_rate_sensitivity.md)**: Preferred stocks are sensitive to interest rate changes. Rising interest rates can reduce the market value of preferred shares.
 - **Dividend Risk**: Non-cumulative preferred stocks carry the risk of missed dividends without any future recuperation.
 
 ## Case Study: Preferred Stock Dividends in Practice

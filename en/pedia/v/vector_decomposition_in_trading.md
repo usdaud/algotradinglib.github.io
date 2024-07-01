@@ -1,6 +1,6 @@
 # Vector Decomposition in Trading
 
-Vector decomposition is a mathematical technique that involves breaking down a vector into multiple component vectors. In the context of trading, vector decomposition can be used to analyze and forecast market movements, optimize portfolios, and develop sophisticated trading strategies. This document will explore the principles of vector decomposition, its applications in trading, various methods, and practical examples to provide a comprehensive understanding of the subject.
+Vector decomposition is a mathematical technique that involves breaking down a vector into multiple component vectors. In the context of trading, vector decomposition can be used to analyze and forecast market movements, optimize portfolios, and develop sophisticated [trading strategies](../t/trading_strategies.md). This document will explore the principles of vector decomposition, its applications in trading, various methods, and practical examples to provide a comprehensive understanding of the subject.
 
 ## Principles of Vector Decomposition
 
@@ -12,19 +12,19 @@ where **v₁**, **v₂**, ..., **vₙ** are the component vectors. These compone
 
 ### Orthogonal Decomposition
 
-Orthogonal decomposition is a common method where the components are mutually perpendicular. The advantage of orthogonal decomposition is that each component can be analyzed independently. This property is beneficial in trading when examining uncorrelated assets or factors.
+Orthogonal decomposition is a common method where the components are mutually perpendicular. The advantage of orthogonal decomposition is that each component can be analyzed independently. This property is beneficial in trading when examining [uncorrelated assets](../u/uncorrelated_assets.md) or factors.
 
 ## Applications in Trading
 
-Vector decomposition has several applications in trading, ranging from technical analysis to risk management. Below are some key applications:
+Vector decomposition has several applications in trading, ranging from [technical analysis](../t/technical_analysis.md) to [risk management](../r/risk_management.md). Below are some key applications:
 
 ### 1. Technical Analysis
 
-In technical analysis, vector decomposition can help analyze the price movements in multiple dimensions. It can decompose price action into trends and cycles, aiding in better understanding and prediction.
+In [technical analysis](../t/technical_analysis.md), vector decomposition can help analyze the price movements in multiple dimensions. It can decompose price action into trends and cycles, aiding in better understanding and prediction.
 
 ### 2. Portfolio Optimization
 
-By decomposing asset returns into different factors, traders can isolate the contributions of various sources of risk and return. This can lead to more efficient portfolio construction and improved asset allocation.
+By decomposing asset returns into different factors, traders can isolate the contributions of various sources of risk and return. This can lead to more efficient portfolio construction and improved [asset allocation](../a/asset_allocation.md).
 
 ### 3. Risk Management
 
@@ -32,7 +32,7 @@ Vector decomposition allows risk managers to decompose the total risk of a portf
 
 ### 4. Factor Analysis
 
-Decomposition techniques like the Principal Component Analysis (PCA) can identify underlying factors that drive asset returns. These factors can then be used to create more robust trading models.
+Decomposition techniques like the Principal Component Analysis (PCA) can identify underlying factors that drive asset returns. These factors can then be used to create more robust [trading models](../t/trading_models.md).
 
 ## Methods of Vector Decomposition
 
@@ -44,7 +44,7 @@ In eigendecomposition, a matrix is decomposed into its eigenvalues and eigenvect
 
 ### 2. Singular Value Decomposition (SVD)
 
-SVD decomposes a matrix into three other matrices, revealing the underlying structure. This method is particularly useful in noise reduction and feature extraction in trading algorithms.
+SVD decomposes a matrix into three other matrices, revealing the underlying structure. This method is particularly useful in noise reduction and feature extraction in [trading algorithms](../t/trading_algorithms.md).
 
 ### 3. Fourier Transform
 
@@ -68,22 +68,22 @@ Suppose a trader has a portfolio of various assets. By applying PCA to the histo
 
 ### Example 3: Risk Management Using Orthogonal Decomposition
 
-Assume a portfolio has exposure to different risk factors. By orthogonally decomposing the returns, the risk manager can isolate the impact of each factor. This aids in precise hedging strategies to mitigate specific risks without affecting the entire portfolio.
+Assume a portfolio has exposure to different risk factors. By orthogonally decomposing the returns, the risk manager can isolate the impact of each factor. This aids in precise [hedging strategies](../h/hedging_strategies.md) to mitigate specific risks without affecting the entire portfolio.
 
 ## Companies Utilizing Vector Decomposition in Trading
 
 ### 1. Two Sigma
 
-Two Sigma is a hedge fund that leverages advanced mathematical techniques, including vector decomposition, to build trading algorithms and strategies. More information can be found at [Two Sigma](https://www.twosigma.com/).
+Two Sigma is a hedge fund that leverages advanced mathematical techniques, including vector decomposition, to build [trading algorithms](../t/trading_algorithms.md) and strategies. More information can be found at [Two Sigma](https://www.twosigma.com/).
 
 ### 2. Renaissance Technologies
 
-Renaissance Technologies applies quantitative models and sophisticated algorithms, potentially involving vector decomposition, to exploit market inefficiencies. Learn more at [Renaissance Technologies](https://www.rentec.com/).
+Renaissance Technologies applies [quantitative models](../q/quantitative_models.md) and sophisticated algorithms, potentially involving vector decomposition, to exploit market inefficiencies. Learn more at [Renaissance Technologies](https://www.rentec.com/).
 
 ### 3. AQR Capital Management
 
-AQR Capital Management uses quantitative strategies that likely incorporate vector decomposition to enhance trade decisions and portfolio management. Visit [AQR Capital Management](https://www.aqr.com/).
+AQR Capital Management uses quantitative strategies that likely incorporate vector decomposition to enhance trade decisions and [portfolio management](../p/portfolio_management.md). Visit [AQR Capital Management](https://www.aqr.com/).
 
 ## Conclusion
 
-Vector decomposition is a powerful tool in modern trading, providing deep insights into market behavior, portfolio optimization, and risk management. By breaking down complex vectors into simpler components, traders and analysts can better understand and predict market dynamics, ultimately leading to more informed and effective trading decisions.
+Vector decomposition is a powerful tool in modern trading, providing deep insights into market behavior, [portfolio optimization](../p/portfolio_optimization.md), and [risk management](../r/risk_management.md). By breaking down complex vectors into simpler components, traders and analysts can better understand and predict market dynamics, ultimately leading to more informed and effective trading decisions.

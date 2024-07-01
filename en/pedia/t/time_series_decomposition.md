@@ -1,6 +1,6 @@
 # Time Series Decomposition
 
-Time series decomposition is a powerful analytical approach that breaks down a time series into several distinct components, each representing different aspects of the original data. This method allows analysts to gain deeper insights into the nature of their data by identifying underlying patterns, trends, seasonal variations, and random noise components. Time series decomposition is particularly important in fields like finance, economics, meteorology, and any domain where forecasting and trend analysis are crucial.
+Time series decomposition is a powerful analytical approach that breaks down a time series into several distinct components, each representing different aspects of the original data. This method allows analysts to gain deeper insights into the nature of their data by identifying underlying patterns, trends, seasonal variations, and random noise components. Time series decomposition is particularly important in fields like finance, economics, meteorology, and any domain where forecasting and [trend analysis](../t/trend_analysis.md) are crucial.
 
 ## Components of Time Series Decomposition
 
@@ -36,7 +36,7 @@ This method is used when the seasonal variations are proportional to the level o
 Classical decomposition uses moving averages to estimate the trend component and then calculates the seasonal component by averaging the detrended series. The irregular component is obtained by subtracting the trend and seasonal components from the original series.
 
 ### STL (Seasonal and Trend decomposition using Loess)
-STL is a robust and flexible method for decomposing a time series, especially when dealing with complex seasonal patterns. It relies on locally weighted regression (Loess) to estimate the trend and seasonal components. STL is particularly useful for non-linear trends and varying seasonal cycles.
+STL is a robust and flexible method for decomposing a time series, especially when dealing with complex seasonal patterns. It relies on locally [weighted regression](../w/weighted_regression.md) (Loess) to estimate the trend and seasonal components. STL is particularly useful for non-linear trends and varying seasonal cycles.
 
 ### X-12-ARIMA/SEATS
 The X-12-ARIMA and SEATS (Seasonal Extraction in ARIMA Time Series) methods are advanced statistical techniques developed by the U.S. Census Bureau and the Bank of Spain, respectively. These methods involve fitting autoregressive integrated moving average (ARIMA) models to the time series and extracting the seasonal component. They are used extensively in official economic statistics and are known for their robustness and reliability.
@@ -46,7 +46,7 @@ The X-12-ARIMA and SEATS (Seasonal Extraction in ARIMA Time Series) methods are 
 Time series decomposition is widely applied across various domains to enhance the understanding of data and improve forecasting accuracy. Some of the key applications include:
 
 ### Financial Market Analysis
-In finance, decomposing time series data from stock prices, exchange rates, and other financial instruments helps analysts uncover underlying trends and seasonal patterns, aiding in better investment decisions and risk management.
+In finance, decomposing time series data from stock prices, exchange rates, and other financial instruments helps analysts uncover underlying trends and seasonal patterns, aiding in better investment decisions and [risk management](../r/risk_management.md).
 
 ### Economic Forecasting
 Economists use time series decomposition to analyze macroeconomic indicators like GDP, inflation rates, and unemployment rates. By isolating the trend and seasonal components, policymakers can make informed decisions and predict future economic conditions.
@@ -62,7 +62,7 @@ Meteorologists and environmental scientists decompose time series data from temp
 Several tools and software packages are available to perform time series decomposition, offering a range of functionalities for different levels of complexity and user expertise. Some popular options include:
 
 ### R
-R is a statistical programming language widely used for time series analysis. Packages like `stats`, `forecast`, and `STL` provide comprehensive functions for time series decomposition.
+R is a statistical programming language widely used for [time series analysis](../t/time_series_analysis.md). Packages like `stats`, `forecast`, and `STL` provide comprehensive functions for time series decomposition.
 
 ### Python
 Python, with libraries such as `statsmodels`, `pandas`, and `seasonal`, offers powerful tools for time series decomposition. `statsmodels.tsa.seasonal_decompose` is a commonly used function for classical decomposition in Python.
@@ -71,7 +71,7 @@ Python, with libraries such as `statsmodels`, `pandas`, and `seasonal`, offers p
 Microsoft Excel offers basic time series decomposition capabilities through built-in functions and add-ins, suitable for simple and quick analyses.
 
 ### SAS
-SAS provides advanced time series analysis tools, including decomposition techniques, extensively used in industrial and academic research.
+SAS provides advanced [time series analysis](../t/time_series_analysis.md) tools, including decomposition techniques, extensively used in industrial and academic research.
 
 ## Challenges and Considerations
 

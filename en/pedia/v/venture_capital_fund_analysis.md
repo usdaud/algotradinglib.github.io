@@ -17,7 +17,7 @@ VC funds are typically organized as limited partnerships.
 A typical VC fund has a lifecycle of about 10 years, which includes:
 1. **Fundraising (1-2 years)**: During this phase, GPs raise capital commitments from LPs.
 2. **Investment Period (3-5 years)**: The GPs invest the raised capital in portfolio companies. This period involves deal sourcing, due diligence, and capital deployment.
-3. **Portfolio Management (5-7 years)**: GPs actively engage with portfolio companies to help them grow and achieve successful exits. 
+3. **[Portfolio Management](../p/portfolio_management.md) (5-7 years)**: GPs actively engage with portfolio companies to help them grow and achieve successful exits. 
 4. **Exiting (5-10 years)**: The fund seeks exits to return capital to LPs, commonly through mergers and acquisitions (M&A) or initial public offerings (IPOs).
 
 ## Stages of Venture Capital Investment

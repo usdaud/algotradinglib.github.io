@@ -1,6 +1,6 @@
 # Wave Theory in Algo Trading
 
-Wave theory, also known as Elliott Wave Theory, is a form of technical analysis that is used to analyze financial market cycles and forecast market trends by identifying extremes in investor psychology, highs and lows in prices, and other collective activities. This theory was developed by Ralph Nelson Elliott in the 1930s. Through a detailed study of 75 years of stock market data, Elliott discovered that stock markets, thought to behave in a somewhat chaotic manner, actually traded in repetitive cycles. These cycles were discovered to be a reflection of the predominant emotions of investors and traders over time.
+Wave theory, also known as [Elliott Wave Theory](../e/elliott_wave_theory.md), is a form of [technical analysis](../t/technical_analysis.md) that is used to analyze financial [market cycles](../m/market_cycles.md) and forecast market trends by identifying extremes in investor psychology, highs and lows in prices, and other collective activities. This theory was developed by Ralph Nelson Elliott in the 1930s. Through a detailed study of 75 years of stock market data, Elliott discovered that stock markets, thought to behave in a somewhat chaotic manner, actually traded in repetitive cycles. These cycles were discovered to be a reflection of the predominant emotions of investors and traders over time.
 
 ## Key Concepts of Wave Theory
 
@@ -33,27 +33,27 @@ Elliott laid down three cardinal rules for interpreting the wave structure:
 Elliott noted the Fibonacci sequence’s influence on the wave count. The Fibonacci sequence is a series of numbers where each number is the sum of the two preceding ones, usually starting with 0 and 1. The common sequence is 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, etc. The golden ratio, approximately 1.618, is also a critical component in analyzing wave lengths. Waves often form in lengths that are Fibonacci numbers and their extensions or retracements.
 
 ## Application in Algo Trading
-Algorithmic trading, or algo trading, uses computer programs and systems to trade securities by following a defined set of instructions, known as an algorithm. Wave Theory can be incorporated into algo trading strategies to predict potential reversals and continuations in financial markets. By programming the rules and structures of Elliott Wave Theory into trading algorithms, traders can automate the recognition of wave patterns and make informed trading decisions.
+[Algorithmic trading](../a/algorithmic_trading.md), or algo trading, uses computer programs and systems to trade securities by following a defined set of instructions, known as an algorithm. Wave Theory can be incorporated into algo [trading strategies](../t/trading_strategies.md) to predict potential reversals and continuations in financial markets. By programming the rules and structures of [Elliott Wave Theory](../e/elliott_wave_theory.md) into [trading algorithms](../t/trading_algorithms.md), traders can automate the recognition of wave patterns and make informed trading decisions.
 
 ### Example of Algorithm Implementation
 A simple application could involve creating an algorithm that identifies and trades based on wave patterns:
 1. **Data Collection**: Collect historical price data for the asset.
 2. **Wave Identification**: Implement an algorithm to identify possible waves. This could include functions to detect the formation of impulse and corrective waves.
-3. **Pattern Recognition**: Use pattern recognition to determine the current position within a wave cycle.
+3. **[Pattern Recognition](../p/pattern_recognition.md)**: Use [pattern recognition](../p/pattern_recognition.md) to determine the current position within a wave cycle.
 4. **Decision Making**: Based on the identified pattern and wave count, make trading decisions (e.g., enter a trade during a wave 2 retracement, exit at the peak of wave 5).
-5. **Risk Management**: Include stops and limits based on Fibonacci retracement and extension levels.
+5. **[Risk Management](../r/risk_management.md)**: Include stops and limits based on Fibonacci retracement and extension levels.
 
 ### Tools and Software
 There are several tools and software platforms available that help traders apply Wave Theory to algo trading. Some of them include:
 
-- **Elliott Wave International**: They provide detailed analysis and educational resources on applying Elliott Wave Theory. Their software tool, EWAVES, automates wave counting and analysis. [Website](https://www.elliottwave.com)
-- **TradingView**: A popular technical analysis platform offering various charting tools, including Elliott Wave drawing tools and script customization for algo trading. [Website](https://www.tradingview.com)
+- **Elliott Wave International**: They provide detailed analysis and educational resources on applying [Elliott Wave Theory](../e/elliott_wave_theory.md). Their software tool, EWAVES, automates wave counting and analysis. [Website](https://www.elliottwave.com)
+- **TradingView**: A popular [technical analysis](../t/technical_analysis.md) platform offering various charting tools, including Elliott Wave drawing tools and script customization for algo trading. [Website](https://www.tradingview.com)
 - **MetaTrader 4/5 (MT4/MT5)**: These platforms support custom indicators and scripts, which can be coded using MQL4/MQL5 to identify and trade waves. [Website](https://www.metatrader4.com)
 
 ## Criticisms and Challenges
 
 ### Subjectivity
-One of the primary criticisms of Elliott Wave Theory is its subjectivity. Analysts may interpret the same market differently, leading to different wave counts.
+One of the primary criticisms of [Elliott Wave Theory](../e/elliott_wave_theory.md) is its subjectivity. Analysts may interpret the same market differently, leading to different wave counts.
 
 ### Complexity
 Using Wave Theory effectively requires a deep understanding and experience, which can be difficult for novice traders.
@@ -62,4 +62,4 @@ Using Wave Theory effectively requires a deep understanding and experience, whic
 Wave patterns might not always be clear, especially in volatile or irregular markets. This makes it challenging to create algorithms that can consistently identify and act on these patterns accurately.
 
 ## Conclusion
-Wave Theory offers a potent framework for understanding market cycles and predicting future price movements. By integrating Wave Theory into algorithmic trading systems, traders can create automated strategies that leverage historical price patterns and collective investor behavior. However, the subjective nature of wave identification and the complexity involved mean that successful implementation requires careful programming, robust data analysis, and constant tweaking to adapt to changing market conditions.
+Wave Theory offers a potent framework for understanding [market cycles](../m/market_cycles.md) and predicting future price movements. By integrating Wave Theory into [algorithmic trading](../a/algorithmic_trading.md) systems, traders can create automated strategies that leverage [historical price patterns](../h/historical_price_patterns.md) and collective investor behavior. However, the subjective nature of wave identification and the complexity involved mean that successful implementation requires careful programming, robust data analysis, and constant tweaking to adapt to changing market conditions.

@@ -10,7 +10,7 @@ Liability-Driven Investment (LDI) is a strategy primarily used by pension funds 
 
 2. **Duration and Convexity**:
     - Duration measures the sensitivity of the price of an asset or liability to changes in interest rates. Matching the duration of liabilities with assets helps stabilize the portfolio against interest rate changes.
-    - Convexity further refines this by considering the sensitivity of the duration itself to interest rate changes, providing a more comprehensive risk management tool.
+    - Convexity further refines this by considering the sensitivity of the duration itself to interest rate changes, providing a more comprehensive [risk management](../r/risk_management.md) tool.
 
 3. **Immunization**:
     - Immunization is a strategy to construct a portfolio such that it neutralizes interest rate risk completely.
@@ -21,7 +21,7 @@ Liability-Driven Investment (LDI) is a strategy primarily used by pension funds 
     - Unlike traditional investment strategies that may follow broad market benchmarks, LDI benchmarks are designed to reflect the specific risk and return characteristics of the liability stream.
 
 5. **Derivative Instruments**:
-    - Derivative instruments such as interest rate swaps, futures, options, and credit default swaps play a crucial role in LDI.
+    - Derivative instruments such as [interest rate swaps](../i/interest_rate_swaps.md), futures, options, and [credit default swaps](../c/credit_default_swaps.md) play a crucial role in LDI.
     - They provide flexibility in managing interest rate risks and fine-tuning the duration and convexity of the investment portfolio without necessitating large shifts in underlying physical assets.
 
 ### LDI Strategies and Approaches
@@ -33,9 +33,9 @@ Liability-Driven Investment (LDI) is a strategy primarily used by pension funds 
     - A passive LDI approach aims for a one-time setup where assets are selected to match the liabilities as closely as possible.
     - This method involves minimal trading and attempts to hedge against risks through initial asset selection and allocation, reducing management costs.
 
-3. **Hedging Strategies**:
+3. **[Hedging Strategies](../h/hedging_strategies.md)**:
     - Hedging is central to LDI, focusing on reducing the impact of interest rate changes on the value of liabilities.
-    - Interest rate swaps and other derivatives are common tools used to hedge the liability risks.
+    - [Interest rate swaps](../i/interest_rate_swaps.md) and other [derivatives](../d/derivatives.md) are common tools used to hedge the liability risks.
 
 4. **Cash Flow Matching**:
     - Cash flow matching involves selecting and holding bonds or other fixed-income securities with maturities and cash flows that coincide with liability payouts.
@@ -55,7 +55,7 @@ Liability-Driven Investment (LDI) is a strategy primarily used by pension funds 
     - This customization offers better control and management over the portfolio's performance relative to the defined liabilities.
 
 3. **Regulatory Compliance**:
-    - Pension funds and insurance companies often operate under stringent regulatory requirements regarding funding status and risk management.
+    - Pension funds and insurance companies often operate under stringent regulatory requirements regarding funding status and [risk management](../r/risk_management.md).
     - LDI provides a structured framework to meet these regulatory standards, ensuring compliance and reducing the risk of punitive measures.
 
 ### Challenges of LDI
@@ -81,7 +81,7 @@ Liability-Driven Investment (LDI) is a strategy primarily used by pension funds 
     - This selection may include bonds, derivative instruments, and other fixed-income securities.
 
 3. **Hedging Strategy**:
-    - Develop a hedging strategy using derivatives to mitigate interest rate risk and other market factors that could impact the liabilities.
+    - Develop a hedging strategy using [derivatives](../d/derivatives.md) to mitigate interest rate risk and other market factors that could impact the liabilities.
     - This involves selecting instruments that provide the needed protection and aligning them with the overall investment strategy.
 
 4. **Monitoring and Adjustment**:
@@ -99,4 +99,4 @@ Liability-Driven Investment (LDI) is a strategy primarily used by pension funds 
     - Mercer specializes in LDI consulting, offering customized strategies and solutions to help clients manage their liabilities ([Mercer LDI](https://www.mercer.com)).
 
 ### Conclusion
-Liability-Driven Investment is a critical strategy for institutional investors seeking to manage their portfolios in alignment with their liabilities. By focusing on matching assets with liabilities, utilizing hedging strategies, and continuously monitoring the market environment, LDI helps mitigate risks and ensure the ability to meet future obligations. As market conditions evolve and regulatory requirements become more stringent, the importance of LDI in financial management continues to grow, offering tailored solutions to meet the unique needs of each investor.
+Liability-Driven Investment is a critical strategy for institutional investors seeking to manage their portfolios in alignment with their liabilities. By focusing on matching assets with liabilities, utilizing [hedging strategies](../h/hedging_strategies.md), and continuously monitoring the market environment, LDI helps mitigate risks and ensure the ability to meet future obligations. As market conditions evolve and regulatory requirements become more stringent, the importance of LDI in financial management continues to grow, offering tailored solutions to meet the unique needs of each investor.

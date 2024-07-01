@@ -29,7 +29,7 @@
    OIS spreads are used as a measure of credit risk in the banking sector. A widening OIS spread indicates increased credit risk or decreased liquidity in the interbank market.
 
 3. **Benchmarking and Pricing**:
-   The OIS rate serves as a benchmark for other financial instruments. For instance, the OIS curve is used to discount cash flows in the valuation of interest rate derivatives.
+   The OIS rate serves as a benchmark for other financial instruments. For instance, the OIS curve is used to discount cash flows in the valuation of interest rate [derivatives](../d/derivatives.md).
 
 ### Calculation of OIS Payments
 
@@ -62,23 +62,23 @@ The compounded interest continues for the rest of the 30 days. At the end of the
 Several major financial institutions, exchanges, and clearinghouses play pivotal roles in the OIS market. Some notable entities include:
 
 1. **Bloomberg LP**:
-   [Bloomberg](https://www.bloomberg.com/) provides a wide range of financial data and analytics platforms, including tools for OIS analysis and trading. Bloomberg's systems are widely used by traders and analysts for real-time market data and pricing.
+   [Bloomberg](https://www.bloomberg.com/) provides a wide range of financial data and analytics platforms, including tools for OIS analysis and trading. Bloomberg's systems are widely used by traders and analysts for [real-time market data](../r/real-time_market_data.md) and pricing.
 
 2. **Intercontinental Exchange (ICE)**:
-   [Intercontinental Exchange](https://www.theice.com/) offers various financial products and services, including trading platforms for interest rate swaps. ICE provides clearing and risk management services for OIS transactions.
+   [Intercontinental Exchange](https://www.theice.com/) offers various financial products and services, including trading platforms for [interest rate swaps](../i/interest_rate_swaps.md). ICE provides clearing and [risk management](../r/risk_management.md) services for OIS transactions.
 
 3. **LCH Limited**:
-   [LCH](https://www.lch.com/) is one of the world’s leading clearinghouses and offers comprehensive clearing services for interest rate swaps among other products. LCH's SwapClear service is widely used for OIS clearing.
+   [LCH](https://www.lch.com/) is one of the world’s leading clearinghouses and offers comprehensive clearing services for [interest rate swaps](../i/interest_rate_swaps.md) among other products. LCH's SwapClear service is widely used for OIS clearing.
 
 4. **CME Group**:
-   [CME Group](https://www.cmegroup.com/) provides futures and options trading services along with robust clearing and settlement for interest rate swap transactions, including OIS.
+   [CME Group](https://www.cmegroup.com/) provides futures and options trading services along with robust [clearing and settlement](../c/clearing_and_settlement.md) for interest rate swap transactions, including OIS.
 
 ### Risks and Considerations
 
-1. **Counterparty Risk**:
-   Since OIS are over-the-counter (OTC) transactions, they carry counterparty risk. The possibility that one party may default on its obligations is a significant risk factor. Clearinghouses like LCH reduce this risk by standing between the two counterparties and guaranteeing the transaction.
+1. **[Counterparty Risk](../c/counterparty_risk.md)**:
+   Since OIS are over-the-counter (OTC) transactions, they carry [counterparty risk](../c/counterparty_risk.md). The possibility that one party may default on its obligations is a significant risk factor. Clearinghouses like LCH reduce this risk by standing between the two counterparties and guaranteeing the transaction.
 
-2. **Liquidity Risk**:
+2. **[Liquidity Risk](../l/liquidity_risk.md)**:
    While highly liquid for short maturities, OIS can be less liquid for longer maturities. This can make it difficult to enter or exit positions without impacting the market price.
 
 3. **Model Risk**:
@@ -92,6 +92,6 @@ Several major financial institutions, exchanges, and clearinghouses play pivotal
 
 ### Conclusion
 
-Overnight Index Swaps are crucial financial instruments used for hedging, benchmarking, and risk management in the interest rate markets. With their floating rate typically linked to a central bank's overnight rate, OIS provide a relatively straightforward mechanism for managing short-term interest rate exposure. Despite the various risks associated with OIS, the widespread use of central clearing and robust financial infrastructures helps mitigate many of these concerns. Financial institutions, corporate treasuries, and investors rely on OIS not only for direct financial management but also as a key component in the broader landscape of financial derivatives and interest rate markets.
+Overnight Index Swaps are crucial financial instruments used for hedging, benchmarking, and [risk management](../r/risk_management.md) in the interest rate markets. With their floating rate typically linked to a central bank's overnight rate, OIS provide a relatively straightforward mechanism for managing short-term interest rate exposure. Despite the various risks associated with OIS, the widespread use of central clearing and robust financial infrastructures helps mitigate many of these concerns. Financial institutions, corporate treasuries, and investors rely on OIS not only for direct financial management but also as a key component in the broader landscape of financial [derivatives](../d/derivatives.md) and interest rate markets.
 
-Given the complexity and technical aspects of OIS, ongoing education, sophisticated modeling, and robust risk management practices are essential for anyone looking to effectively utilize these instruments. Through platforms provided by entities like Bloomberg, ICE, LCH, and CME Group, participants can engage in OIS trading with confidence and accuracy.
+Given the complexity and technical aspects of OIS, ongoing education, sophisticated modeling, and robust [risk management](../r/risk_management.md) practices are essential for anyone looking to effectively utilize these instruments. Through platforms provided by entities like Bloomberg, ICE, LCH, and CME Group, participants can engage in OIS trading with confidence and accuracy.

@@ -48,7 +48,7 @@ Zero-coupon bonds may suffer from lower liquidity compared to bonds that pay reg
 
 ### Calculating the Yield to Maturity (YTM)
 
-Understanding how to calculate the yield to maturity for a zero-coupon bond is crucial for evaluating its attractiveness as an investment. The YTM is the interest rate that equates the present value of the bond's future cash flow (the face value) to its current market price.
+Understanding how to calculate the [yield to maturity](../y/yield_to_maturity.md) for a zero-coupon bond is crucial for evaluating its attractiveness as an investment. The YTM is the interest rate that equates the present value of the bond's future cash flow (the face value) to its current market price.
 
 The formula for calculating the YTM is:
 \[ YTM = \left( \frac{F}{P} \right)^{\frac{1}{n}} - 1 \]
@@ -63,4 +63,4 @@ For example, if you purchase a zero-coupon bond for $600 with a face value of $1
 
 ### Conclusion
 
-Zero-coupon bonds offer a compelling investment opportunity for investors seeking long-term growth and predictability. Their unique structure, which involves no periodic interest payments and is issued at a discount, allows investors to lock in a fixed return over the bond's life. However, these bonds come with risks, particularly interest rate risk and, in the case of corporate and municipal bonds, credit risk. Investors need to carefully consider their investment horizon, tax situation, and risk tolerance before investing in zero-coupon bonds. By understanding the mechanics and implications of zero-coupon bonds, investors can make informed decisions and effectively incorporate these instruments into their investment portfolios.
+Zero-coupon bonds offer a compelling investment opportunity for investors seeking long-term growth and predictability. Their unique structure, which involves no periodic interest payments and is issued at a discount, allows investors to lock in a fixed return over the bond's life. However, these bonds come with risks, particularly interest rate risk and, in the case of corporate and [municipal bonds](../m/municipal_bonds.md), credit risk. Investors need to carefully consider their investment horizon, tax situation, and risk tolerance before investing in zero-coupon bonds. By understanding the mechanics and implications of zero-coupon bonds, investors can make informed decisions and effectively incorporate these instruments into their investment portfolios.

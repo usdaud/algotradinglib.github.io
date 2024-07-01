@@ -4,7 +4,7 @@
 
 #### Gaussian Distribution Basics
 
-To comprehend how GMMs work, it's key to first understand Gaussian distributions, which are also known as normal distributions. A Gaussian distribution is a continuous probability distribution characterized by a symmetric bell-shaped curve, described mathematically by its mean (μ) and standard deviation (σ). The probability density function (PDF) of a Gaussian distribution is defined as follows:
+To comprehend how GMMs work, it's key to first understand Gaussian distributions, which are also known as normal distributions. A [Gaussian distribution](../g/gaussian_distribution.md) is a continuous probability distribution characterized by a symmetric bell-shaped curve, described mathematically by its mean (μ) and standard deviation (σ). The [probability density function](../p/probability_density_function.md) (PDF) of a [Gaussian distribution](../g/gaussian_distribution.md) is defined as follows:
 
 \[ f(x|\mu,\sigma^2) = \frac{1}{\sqrt{2\pi\sigma^2}} e^{-\frac{(x-\mu)^2}{2\sigma^2}} \]
 
@@ -61,9 +61,9 @@ Gaussian Mixture Models have wide applications in various fields:
 
 1. **Clustering**: GMMs are commonly used for data clustering. Unlike K-means clustering, which assigns each data point to exactly one cluster, GMMs assign probabilities to the cluster memberships, allowing more flexibility and accounting for overlap between clusters.
 
-2. **Density Estimation**: GMMs can be used to model the probability density function of a dataset. This is especially useful in situations where the data distribution is multimodal or does not conform to a single Gaussian distribution.
+2. **Density Estimation**: GMMs can be used to model the [probability density function](../p/probability_density_function.md) of a dataset. This is especially useful in situations where the data distribution is multimodal or does not conform to a single [Gaussian distribution](../g/gaussian_distribution.md).
 
-3. **Anomaly Detection**: By learning the distribution of the data, GMMs can be used to detect anomalies or outliers. In a trained GMM, data points that have low probability under the model can be considered anomalies.
+3. **[Anomaly Detection](../a/anomaly_detection.md)**: By learning the distribution of the data, GMMs can be used to detect anomalies or outliers. In a trained GMM, data points that have low probability under the model can be considered anomalies.
 
 4. **Dimensionality Reduction**: GMMs can be used in conjunction with methods like Principal Component Analysis (PCA) to reduce the dimensionality of data, retaining only the most important components for further analysis.
 
@@ -119,6 +119,6 @@ While GMMs are powerful, they come with several challenges and considerations:
 
 ### Conclusion
 
-Gaussian Mixture Models provide a flexible and powerful framework for clustering, density estimation, anomaly detection, and more. They leverage the probabilistic nature of Gaussian distributions to model data in a way that can capture underlying patterns and relationships. Despite their potential complexity and computational demands, GMMs' versatility makes them a valuable tool in the data scientist's toolkit.
+Gaussian Mixture Models provide a flexible and powerful framework for clustering, density estimation, [anomaly detection](../a/anomaly_detection.md), and more. They leverage the probabilistic nature of Gaussian distributions to model data in a way that can capture underlying patterns and relationships. Despite their potential complexity and computational demands, GMMs' versatility makes them a valuable tool in the data scientist's toolkit.
 
 For more information, you can explore [scikit-learn's documentation for Gaussian Mixture Models](https://scikit-learn.org/stable/modules/mixture.html) to see more examples and in-depth explanations.

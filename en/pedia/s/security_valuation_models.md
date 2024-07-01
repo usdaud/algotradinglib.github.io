@@ -1,10 +1,10 @@
 ## Security Valuation Models
 
-Security valuation models are essential tools in the field of finance and investment. These models are used to determine the intrinsic value of various securities, such as stocks, bonds, derivatives, and other financial instruments. By accurately valuing these assets, investors can make informed decisions, mitigate risks, and optimize their portfolios. The following sections provide a comprehensive overview of the primary security valuation models, exploring their methodologies, applications, strengths, and limitations.
+[Security valuation](../s/security_valuation.md) models are essential tools in the field of finance and investment. These models are used to determine the intrinsic value of various securities, such as stocks, bonds, [derivatives](../d/derivatives.md), and other financial instruments. By accurately valuing these assets, investors can make informed decisions, mitigate risks, and optimize their portfolios. The following sections provide a comprehensive overview of the primary [security valuation](../s/security_valuation.md) models, exploring their methodologies, applications, strengths, and limitations.
 
 ### Discounted Cash Flow (DCF) Model
 
-The Discounted Cash Flow (DCF) model is one of the most widely used valuation models. It estimates the value of an investment based on its expected future cash flows, which are discounted to their present value using a discount rate. The core principle behind the DCF model is that the value of an asset is equal to the present value of its future cash flows.
+The Discounted Cash Flow (DCF) model is one of the most widely used [valuation models](../v/valuation_models.md). It estimates the value of an investment based on its expected future cash flows, which are discounted to their present value using a discount rate. The core principle behind the DCF model is that the value of an asset is equal to the present value of its future cash flows.
 
 **Methodology:**
 
@@ -43,7 +43,7 @@ The Dividend Discount Model (DDM) is specifically designed for valuing dividend-
 
 **Applications:**
 - Valuing mature, dividend-paying companies.
-- Portfolio management and stock selection.
+- [Portfolio management](../p/portfolio_management.md) and stock selection.
 
 **Strengths:**
 - Simple and straightforward for dividend-paying stocks.
@@ -60,12 +60,12 @@ Comparable Company Analysis (CCA) is a relative valuation method that estimates 
 **Methodology:**
 
 1. **Select Comparable Companies:** Identify companies with similar characteristics, such as size, industry, and growth prospects.
-2. **Calculate Valuation Multiples:** Determine key financial ratios (e.g., P/E, EV/EBITDA) for the comparable companies.
+2. **Calculate [Valuation Multiples](../v/valuation_multiples.md):** Determine key [financial ratios](../f/financial_ratios.md) (e.g., P/E, EV/EBITDA) for the comparable companies.
 3. **Apply Multiples to Target:** Use the multiples to estimate the value of the target company.
 
 **Applications:**
 - Valuing private companies and IPOs.
-- Supplementary method to other valuation models.
+- Supplementary method to other [valuation models](../v/valuation_models.md).
 
 **Strengths:**
 - Provides market-driven valuation benchmarks.
@@ -77,13 +77,13 @@ Comparable Company Analysis (CCA) is a relative valuation method that estimates 
 
 ### Earnings Power Value (EPV)
 
-Earnings Power Value (EPV) is a valuation method that focuses on a company's sustainable earnings power, assuming no growth. It calculates the value of a company based on its normalized earnings and cost of capital.
+Earnings Power Value (EPV) is a valuation method that focuses on a company's sustainable earnings power, assuming no growth. It calculates the value of a company based on its [normalized earnings](../n/normalized_earnings.md) and cost of capital.
 
 **Methodology:**
 
 1. **Normalize Earnings:** Adjust earnings to reflect sustainable, ongoing performance.
 2. **Determine Cost of Capital:** Choose the appropriate discount rate reflecting the company's risk profile.
-3. **Calculate EPV:** Divide normalized earnings by the cost of capital to determine the intrinsic value.
+3. **Calculate EPV:** Divide [normalized earnings](../n/normalized_earnings.md) by the cost of capital to determine the intrinsic value.
 
 **Applications:**
 - Valuing mature, stable companies.
@@ -121,12 +121,12 @@ Asset-Based Valuation estimates the value of a company based on the value of its
 
 ### Real Options Valuation (ROV)
 
-Real Options Valuation (ROV) is a sophisticated approach that values investment opportunities by considering the flexibility and potential choices available to management. It extends traditional valuation models by incorporating the value of managerial decisions, such as delaying, expanding, or abandoning a project.
+Real Options Valuation (ROV) is a sophisticated approach that values investment opportunities by considering the flexibility and potential choices available to management. It extends traditional [valuation models](../v/valuation_models.md) by incorporating the value of managerial decisions, such as delaying, expanding, or abandoning a project.
 
 **Methodology:**
 
 1. **Identify Real Options:** Determine the various strategic choices available to management.
-2. **Model Option Scenarios:** Use financial modeling techniques to estimate the value of each option under different scenarios.
+2. **Model Option Scenarios:** Use [financial modeling](../f/financial_modeling.md) techniques to estimate the value of each option under different scenarios.
 3. **Calculate Option Value:** Apply option pricing methods (e.g., Black-Scholes or binomial models) to value the options.
 
 **Applications:**
@@ -143,7 +143,7 @@ Real Options Valuation (ROV) is a sophisticated approach that values investment 
 
 ### Conclusion
 
-Security valuation models are crucial for investors seeking to make informed decisions based on the intrinsic value of assets. By understanding and applying models such as DCF, DDM, CCA, EPV, Asset-Based Valuation, and ROV, investors and financial analysts can better assess investment opportunities, optimize portfolios, and manage risk. Each model has its strengths and limitations, and the choice of model depends on the specific characteristics of the security and the context in which it is being valued.
+[Security valuation](../s/security_valuation.md) models are crucial for investors seeking to make informed decisions based on the intrinsic value of assets. By understanding and applying models such as DCF, DDM, CCA, EPV, Asset-Based Valuation, and ROV, investors and financial analysts can better assess investment opportunities, optimize portfolios, and manage risk. Each model has its strengths and limitations, and the choice of model depends on the specific characteristics of the security and the context in which it is being valued.
 
 ### References
 

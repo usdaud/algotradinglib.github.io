@@ -24,17 +24,17 @@ When interest rates hit the zero bound, the central banks can no longer use this
 
 The arrival at the zero bound presents several significant challenges for policymakers:
 
-1. **Limited Monetary Policy Tools**: Traditional monetary policies become ineffective, forcing central banks to explore unconventional monetary policies such as quantitative easing (QE) or negative interest rates.
+1. **Limited Monetary Policy Tools**: Traditional monetary policies become ineffective, forcing central banks to explore unconventional monetary policies such as [quantitative easing](../q/quantitative_easing.md) (QE) or negative interest rates.
    
 2. **Deflationary Risks**: When the zero bound is reached, there is a heightened risk of deflation. Deflation can lead to decreased consumer spending, as people may expect prices to continue falling.
    
-3. **Liquidity Trap**: A situation where monetary policy becomes ineffective because people hoard cash rather than investing or spending it.
+3. **[Liquidity Trap](../l/liquidity_trap.md)**: A situation where monetary policy becomes ineffective because people hoard cash rather than investing or spending it.
 
 ## Responses to Zero Bound Interest Rates
 
 ### Quantitative Easing (QE)
 
-Quantitative easing is a non-traditional monetary policy tool used by central banks to increase the money supply and promote lending and investment. Central banks purchase long-term securities, such as government bonds, from the open market to lower long-term interest rates and increase the money supply.
+[Quantitative easing](../q/quantitative_easing.md) is a non-traditional monetary policy tool used by central banks to increase the money supply and promote lending and investment. Central banks purchase long-term securities, such as government bonds, from the open market to lower long-term interest rates and increase the money supply.
 
 #### Case Studies
 
@@ -64,7 +64,7 @@ Central banks communicate future intentions regarding interest rates and monetar
 
 ### Keynesian Economics
 
-Keynesian economics plays a significant role in the analysis of zero bound interest rates. John Maynard Keynes’s concept of the liquidity trap describes a scenario where interest rates are so low that people prefer holding cash over investing in bonds, rendering monetary policy ineffective.
+Keynesian economics plays a significant role in the analysis of zero bound interest rates. John Maynard Keynes’s concept of the [liquidity trap](../l/liquidity_trap.md) describes a scenario where interest rates are so low that people prefer holding cash over investing in bonds, rendering monetary policy ineffective.
 
 ### Neo-Fisherian Approach
 
@@ -114,7 +114,7 @@ Several alternative policy tools have been proposed to deal with the challenges 
 
 ## Conclusion
 
-Zero Bound Interest Rates present a significant challenge for central banks and policymakers. Their limited ability to use traditional monetary policy tools has led to the adoption of unconventional methods like quantitative easing, negative interest rates, and forward guidance. The effectiveness of these measures remains a topic of intense debate, as does the search for new tools to manage economies when interest rates are at or near zero. The global economic landscape continues to evolve, responding to the complex interplay of these policies, with far-reaching implications for investors, financial markets, and everyday citizens.
+Zero Bound Interest Rates present a significant challenge for central banks and policymakers. Their limited ability to use traditional monetary policy tools has led to the adoption of unconventional methods like [quantitative easing](../q/quantitative_easing.md), negative interest rates, and forward guidance. The effectiveness of these measures remains a topic of intense debate, as does the search for new tools to manage economies when interest rates are at or near zero. The global economic landscape continues to evolve, responding to the complex interplay of these policies, with far-reaching implications for investors, financial markets, and everyday citizens.
 
 For more information on monetary policy tools used by central banks, visit the following pages:
 - [Federal Reserve](https://www.federalreserve.gov)

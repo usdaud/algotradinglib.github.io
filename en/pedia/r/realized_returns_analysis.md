@@ -21,9 +21,9 @@ Where:
 
 2. **Risk Assessment**: By analyzing realized returns, investors can assess the volatility and risk associated with their investments. This helps in understanding the risk-return trade-off.
 
-3. **Strategy Evaluation**: For algorithmic traders, realized returns analysis helps in evaluating the performance of their trading algorithms in real market conditions.
+3. **Strategy Evaluation**: For algorithmic traders, realized returns analysis helps in evaluating the performance of their [trading algorithms](../t/trading_algorithms.md) in real market conditions.
 
-4. **Portfolio Management**: It assists portfolio managers in allocating assets efficiently by providing insights into which assets have historically provided good returns.
+4. **[Portfolio Management](../p/portfolio_management.md)**: It assists portfolio managers in allocating assets efficiently by providing insights into which assets have historically provided good returns.
 
 ### How Realized Returns are Calculated
 
@@ -55,7 +55,7 @@ Realized Return = \frac{150 + 10 - 100 - 5}{100} = \frac{55}{100} = 0.55 \text{ 
 ### Factors Affecting Realized Returns
 
 #### Market Conditions 
-Market volatility, economic indicators, and political stability can significantly impact realized returns. The rise and fall of market indices reflect changes in the market value of investments.
+Market volatility, [economic indicators](../e/economic_indicators.md), and political stability can significantly impact realized returns. The rise and fall of market indices reflect changes in the market value of investments.
 
 #### Interest Rates
 Higher interest rates generally lead to lower asset prices, thereby reducing realized returns. Conversely, lower interest rates usually boost asset prices.
@@ -72,7 +72,7 @@ Higher transaction costs can significantly reduce realized returns. These includ
 ### Applications of Realized Returns Analysis
 
 #### Algorithmic Trading Strategies
-Realized returns analysis is vital for backtesting algorithmic trading strategies. It helps in understanding how algorithms perform in real market conditions and aids in fine-tuning them.
+Realized returns analysis is vital for [backtesting](../b/backtesting.md) [algorithmic trading](../a/algorithmic_trading.md) strategies. It helps in understanding how algorithms perform in real market conditions and aids in fine-tuning them.
 
 #### Portfolio Optimization
 Portfolio managers use realized returns data to optimize portfolios for better risk-adjusted returns. It involves reallocating assets based on historical performance to achieve an optimal balance of risk and return.
@@ -84,9 +84,9 @@ Realized returns are used to calculate the growth of retirement savings over tim
 
 1. **Data Accuracy**: Ensuring the accuracy of the historical price data, dividends, and transaction costs is crucial. Inaccurate data can lead to misleading conclusions.
 
-2. **Market Anomalies**: Realized returns can be affected by market anomalies such as sudden shocks and black swan events, which are not regular occurrences.
+2. **[Market Anomalies](../m/market_anomalies.md)**: Realized returns can be affected by [market anomalies](../m/market_anomalies.md) such as sudden shocks and [black swan events](../b/black_swan_events.md), which are not regular occurrences.
 
-3. **Survivorship Bias**: Focusing on only those investments that have survived over the period can give a skewed picture of realized returns, as it neglects the failed investments.
+3. **[Survivorship Bias](../s/survivorship_bias.md)**: Focusing on only those investments that have survived over the period can give a skewed picture of realized returns, as it neglects the failed investments.
 
 4. **Inflation Impact**: Inflation can erode the real value of realized returns. Analyzing returns in real terms, which adjusts for inflation, is sometimes necessary.
 

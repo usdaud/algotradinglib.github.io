@@ -1,6 +1,6 @@
 # Warrant Trading Strategies
 
-Warrant trading strategies are based on the buying and selling of warrants, which are financial instruments that give the holder the right, but not the obligation, to buy or sell an underlying asset, typically a stock, at a specific price before a certain date. Warrants are similar to options but usually have longer maturities and are often issued by the company whose stock underlies the warrant. Warrant trading strategies can be sophisticated and require an understanding of the factors influencing the value of warrants.
+Warrant [trading strategies](../t/trading_strategies.md) are based on the buying and selling of warrants, which are financial instruments that give the holder the right, but not the obligation, to buy or sell an underlying asset, typically a stock, at a specific price before a certain date. Warrants are similar to options but usually have longer maturities and are often issued by the company whose stock underlies the warrant. Warrant [trading strategies](../t/trading_strategies.md) can be sophisticated and require an understanding of the factors influencing the value of warrants.
 
 ## Types of Warrants
 
@@ -36,7 +36,7 @@ The time value is the portion of the warrant's price that exceeds its intrinsic 
 Warrants allow traders to leverage their positions with a smaller amount of capital compared to buying actual shares. This can amplify gains but also increases potential losses. Traders often use leverage to maximize their returns on bullish or bearish market movements.
 
 ### Arbitrage Strategy
-Arbitrage involves simultaneously buying and selling the warrant and the underlying asset to exploit price discrepancies between the two. This strategy aims to lock in risk-free profits, though it requires sophisticated tools and quick execution.
+[Arbitrage](../a/arbitrage.md) involves simultaneously buying and selling the warrant and the underlying asset to exploit price discrepancies between the two. This strategy aims to lock in risk-free profits, though it requires sophisticated tools and quick execution.
 
 ### Hedging Strategy
 Investors might use warrants to hedge their existing positions in the underlying asset. For example, if an investor holds shares in a company, they might buy a put warrant to protect against downside risk.
@@ -75,10 +75,10 @@ Many financial institutions and brokers offer platforms for trading warrants. Th
 - [TD Ameritrade](https://www.tdameritrade.com/)
 
 ### Analytical Software
-Advanced analytical software can help traders model various scenarios and assess the potential profitability of warrant trades. These tools typically offer real-time data, historical price charts, volatility metrics, and option pricing models.
+Advanced analytical software can help traders model various scenarios and assess the potential profitability of warrant trades. These tools typically offer real-time data, historical price charts, volatility metrics, and [option pricing models](../o/option_pricing_models.md).
 
 ### Educational Resources
-Many online platforms and institutions offer educational courses, webinars, and materials on warrant trading strategies. Educating oneself continuously is crucial in this domain given the complexity and risk involved.
+Many online platforms and institutions offer educational courses, webinars, and materials on warrant [trading strategies](../t/trading_strategies.md). Educating oneself continuously is crucial in this domain given the complexity and risk involved.
 
 ## Conclusion
-Warrant trading strategies offer opportunities for both high returns and significant risk. Understanding the mechanics of warrants, along with the factors influencing their value, can help traders to effectively employ various strategies such as leverage, arbitrage, hedging, speculation, and income generation. Using reliable resources, tools, and continuously educating oneself are essential components for success in warrant trading.
+Warrant [trading strategies](../t/trading_strategies.md) offer opportunities for both high returns and significant risk. Understanding the mechanics of warrants, along with the factors influencing their value, can help traders to effectively employ various strategies such as leverage, [arbitrage](../a/arbitrage.md), hedging, speculation, and income generation. Using reliable resources, tools, and continuously educating oneself are essential components for success in warrant trading.

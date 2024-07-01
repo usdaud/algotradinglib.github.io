@@ -8,7 +8,7 @@ Wash Trading is a form of market manipulation wherein an investor simultaneously
 Wash trading is executed when a trader buys and sells the same asset simultaneously. This practice is illegal in most regulated markets because it distorts the market's true supply and demand, giving an inaccurate representation of market conditions.
 
 #### History and Regulation
-The practice of wash trading has been around since the inception of stock markets. The U.S. Securities and Exchange Commission (SEC) and other regulatory bodies around the world have stringent regulations in place to prevent wash trading. The Commodity Futures Trading Commission (CFTC) has also played a significant role in curbing wash trading, particularly in the commodities and futures markets.
+The practice of wash trading has been around since the inception of stock markets. The U.S. Securities and Exchange Commission (SEC) and other regulatory bodies around the world have stringent regulations in place to prevent wash trading. The [Commodity Futures](../c/commodity_futures.md) Trading Commission (CFTC) has also played a significant role in curbing wash trading, particularly in the commodities and futures markets.
 
 - **SEC:** https://www.sec.gov/
 - **CFTC:** https://www.cftc.gov/
@@ -31,7 +31,7 @@ Engaging in wash trading can lead to severe legal consequences including fines, 
 
 #### Trade Surveillance Mechanisms
 Financial markets employ sophisticated surveillance systems to detect wash trading activities. These systems monitor various parameters such as:
-- **Trading Patterns:** Unusual trading patterns that look like non-market behavior.
+- **Trading Patterns:** [Unusual trading patterns](../u/unusual_trading_patterns.md) that look like non-market behavior.
 - **Volume Anomalies:** Sudden spikes in volume that do not align with legitimate market activity.
 - **Order Flow:** Analysis of the order flow to detect patterns that may indicate wash trading.
 
@@ -54,13 +54,13 @@ In recent years, wash trading has become increasingly common in cryptocurrency m
 
 #### Machine Learning and AI
 Modern surveillance systems employ machine learning and artificial intelligence to detect patterns and anomalies that signify wash trading. These technologies enable:
-- **Predictive Analytics:** Using historical data to predict and detect unusual trading behaviors.
-- **Pattern Recognition:** Identifying complex patterns that are indicative of wash trading.
+- **[Predictive Analytics](../p/predictive_analytics.md):** Using historical data to predict and detect unusual trading behaviors.
+- **[Pattern Recognition](../p/pattern_recognition.md):** Identifying complex patterns that are indicative of wash trading.
 
 #### Blockchain and Distributed Ledger Technology (DLT)
 In the realm of cryptocurrency and digital assets, blockchain technology offers enhanced transparency and traceability. By using immutable ledgers:
 - **Traceability:** Every transaction is recorded and can be traced, making it difficult for traders to hide wash trading activities.
-- **Smart Contracts:** Automated and transparent execution of trading rules can help in reducing the chances of wash trading.
+- **Smart Contracts:** Automated and transparent execution of [trading rules](../t/trading_rules.md) can help in reducing the chances of wash trading.
 
 ### Conclusion
 

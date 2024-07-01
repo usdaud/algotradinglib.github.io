@@ -18,8 +18,8 @@ Intraday liquidity refers to the funds that financial institutions can access to
 4. **Intraday Credit:**
    To facilitate the smooth operation of payment systems, central banks and financial institutions often provide intraday credit. This temporary credit allows institutions to meet their payment obligations throughout the day without facing disruptions due to timing mismatches between incoming and outgoing payments.
 
-5. **Collateral Management:**
-   Effective collateral management is essential for accessing intraday liquidity. Financial institutions must ensure that they have adequate collateral to secure intraday credit and meet margin requirements for trading activities. Collateral typically includes high-quality assets such as government bonds and other liquid securities.
+5. **[Collateral Management](../c/collateral_management.md):**
+   Effective [collateral management](../c/collateral_management.md) is essential for accessing intraday liquidity. Financial institutions must ensure that they have adequate collateral to secure intraday credit and meet margin requirements for trading activities. Collateral typically includes high-quality assets such as government bonds and other liquid securities.
 
 ### Importance of Intraday Liquidity
 
@@ -31,8 +31,8 @@ Managing intraday liquidity effectively is vital for several reasons:
 2. **Operational Efficiency:**
    Efficient management of intraday liquidity optimizes the use of available funds, reducing the need for costly borrowing and minimizing the opportunity cost of holding excess liquidity.
 
-3. **Risk Management:**
-   Adequate intraday liquidity helps financial institutions manage various types of risk, including settlement risk, credit risk, and liquidity risk. This, in turn, contributes to the overall stability and resilience of the financial system.
+3. **[Risk Management](../r/risk_management.md):**
+   Adequate intraday liquidity helps financial institutions manage various types of risk, including settlement risk, credit risk, and [liquidity risk](../l/liquidity_risk.md). This, in turn, contributes to the overall stability and resilience of the financial system.
 
 4. **Regulatory Compliance:**
    Financial institutions must comply with various regulatory requirements related to liquidity management. Effective intraday liquidity management ensures compliance with standards such as the Liquidity Coverage Ratio (LCR) and supports adherence to best practices set by regulatory bodies.
@@ -70,11 +70,11 @@ Despite its importance, managing intraday liquidity presents several challenges:
    Meeting the evolving regulatory requirements related to liquidity management can be challenging. Institutions must stay abreast of new regulations and ensure that their liquidity management practices align with regulatory expectations.
 
 4. **Operational Risks:**
-   Intraday liquidity management involves various operational risks, including system failures, cyberattacks, and human errors. Robust risk management frameworks and contingency plans are essential to mitigate these risks.
+   Intraday liquidity management involves various operational risks, including system failures, cyberattacks, and human errors. Robust [risk management](../r/risk_management.md) frameworks and contingency plans are essential to mitigate these risks.
 
 ### Conclusion
 
-Intraday liquidity is a critical component of the financial system, enabling the smooth functioning of payment and settlement processes. Effective management of intraday liquidity ensures payment system stability, operational efficiency, risk management, and regulatory compliance. Financial institutions must adopt robust strategies and technologies to navigate the complexities and challenges associated with intraday liquidity management. With the right tools and practices, institutions can optimize their liquidity positions, enhance financial stability, and support the overall health of the financial markets.
+Intraday liquidity is a critical component of the financial system, enabling the smooth functioning of payment and settlement processes. Effective management of intraday liquidity ensures payment system stability, operational efficiency, [risk management](../r/risk_management.md), and regulatory compliance. Financial institutions must adopt robust strategies and technologies to navigate the complexities and challenges associated with intraday liquidity management. With the right tools and practices, institutions can optimize their liquidity positions, enhance financial stability, and support the overall health of the financial markets.
 
 For more information on intraday liquidity management, you can visit the websites of the following organizations:
 

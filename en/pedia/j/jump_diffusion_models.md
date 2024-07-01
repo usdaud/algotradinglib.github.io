@@ -1,6 +1,6 @@
 # Jump Diffusion Models
 
-In quantitative finance, jump diffusion models are used to describe the dynamical behavior of various financial instruments. These models incorporate the traditional continuous-time stochastic process with discrete jumps, providing a more realistic representation of financial markets, which often experience sudden, significant movements in prices.
+In [quantitative finance](../q/quantitative_finance.md), jump diffusion models are used to describe the dynamical behavior of various financial instruments. These models incorporate the traditional continuous-time stochastic process with discrete jumps, providing a more realistic representation of financial markets, which often experience sudden, significant movements in prices.
 
 ## Overview
 
@@ -53,39 +53,39 @@ This formulation allows the model to incorporate random jumps in the price, prov
 
 Jump diffusion models are widely used in option pricing to capture the observed market phenomena more accurately:
 
-- **Merton’s Jump Diffusion Model**: One of the earliest and most influential models, introduced by Robert C. Merton in 1976, extends the Black-Scholes model by incorporating jumps.
+- **Merton’s Jump Diffusion Model**: One of the earliest and most influential models, introduced by Robert C. Merton in 1976, extends the [Black-Scholes model](../b/black-scholes_model.md) by incorporating jumps.
   - Reference: [Merton's work](https://www.nobelprize.org/prizes/economic-sciences/1997/merton/facts/)
 - **Double Exponential Jump Diffusion Model**: Developed by Kou, it uses a double-exponential distribution for jump sizes, providing better empirical fitting for asset returns.
   - Reference: [Steven Kou's profile](https://www.isye.gatech.edu/people/faculty/steven-kou)
 
 ### Risk Management
 
-In risk management, jump diffusion models help in the estimation of risk measures such as Value at Risk (VaR) and Conditional Value at Risk (CVaR), accounting for extreme events:
+In [risk management](../r/risk_management.md), jump diffusion models help in the estimation of risk measures such as Value at Risk (VaR) and Conditional Value at Risk (CVaR), accounting for extreme events:
 
-- **Credit Risk Modeling**: Jump diffusion models capture sudden defaults in the credit market, aiding in the valuation of credit derivatives.
+- **Credit Risk Modeling**: Jump diffusion models capture sudden defaults in the credit market, aiding in the valuation of credit [derivatives](../d/derivatives.md).
 - **Insurance**: In the insurance industry, these models help in understanding and pricing catastrophic events.
 
 ### Algorithmic Trading
 
-In the domain of algorithmic trading, jump diffusion models inform the development of trading strategies that are robust to sudden market movements:
+In the domain of [algorithmic trading](../a/algorithmic_trading.md), jump diffusion models inform the development of [trading strategies](../t/trading_strategies.md) that are robust to sudden market movements:
 
-- **High-Frequency Trading (HFT)**: Traders design algorithms to exploit minute arbitrage opportunities, and incorporating jump risk leads to more resilient strategies.
+- **High-Frequency Trading (HFT)**: Traders design algorithms to exploit minute [arbitrage](../a/arbitrage.md) opportunities, and incorporating jump risk leads to more resilient strategies.
   - Reference: [Virtu Financial](https://www.virtu.com/), [Citadel Securities](https://www.citadelsecurities.com/)
 
 ### Economic and Financial Research
 
 Jump diffusion models contribute to the deeper understanding of market mechanics, informing both academic research and practical application:
 
-- **Empirical Analysis**: Researchers use these models to study the impact of macroeconomic news, earnings announcements, and geopolitical events on market prices.
-- **Behavioral Finance**: Examines how sudden market movements affect investor behavior and market psychology.
+- **Empirical Analysis**: Researchers use these models to study the impact of macroeconomic news, [earnings announcements](../e/earnings_announcements.md), and [geopolitical events](../g/geopolitical_events.md) on market prices.
+- **[Behavioral Finance](../b/behavioral_finance.md)**: Examines how sudden market movements affect investor behavior and market psychology.
 
 ## Calibration and Estimation
 
 Calibrating jump diffusion models to market data involves estimating parameters such as drift, volatility, jump intensity, and jump size distribution:
 
-- **Maximum Likelihood Estimation (MLE)**: A statistical method used to estimate the parameters that maximize the likelihood of observed data.
+- **[Maximum Likelihood Estimation](../m/maximum_likelihood_estimation.md) (MLE)**: A statistical method used to estimate the parameters that maximize the likelihood of observed data.
 - **Generalized Method of Moments (GMM)**: Utilized when the exact likelihood function is complex to derive.
-- **Bayesian Inference**: Incorporates prior knowledge along with observed data to estimate parameters.
+- **[Bayesian Inference](../b/bayesian_inference.md)**: Incorporates prior knowledge along with observed data to estimate parameters.
 
 ## Challenges and Limitations
 
@@ -97,5 +97,5 @@ Despite their advantages, jump diffusion models face several challenges:
 
 ## Conclusion
 
-Jump diffusion models represent a significant advancement in the modeling of financial markets, bridging the gap between theoretical finance and real-world observations. They offer robust tools for option pricing, risk management, and algorithmic trading, despite their computational and estimation challenges. Ongoing research continues to refine these models, improving their accuracy and applicability across various domains in finance.
+Jump diffusion models represent a significant advancement in the modeling of financial markets, bridging the gap between theoretical finance and real-world observations. They offer robust tools for option pricing, [risk management](../r/risk_management.md), and [algorithmic trading](../a/algorithmic_trading.md), despite their computational and estimation challenges. Ongoing research continues to refine these models, improving their accuracy and applicability across various domains in finance.
 

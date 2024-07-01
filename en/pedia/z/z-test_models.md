@@ -1,18 +1,18 @@
 # Z-Test Models in Algorithmic Trading
 
-Algorithmic trading leverages mathematical models and statistical techniques to make trading decisions autonomously. One of the fundamental statistical tests used in this realm is the Z-Test. The Z-Test is employed to determine if there is a significant difference between sample data and a known value or between two sample means. In algorithmic trading, Z-Test models play a crucial role in validating trading strategies, conducting hypothesis testing, and assessing market behavior. This document explores the intricacies of Z-Test models and their applications in algorithmic trading.
+[Algorithmic trading](../a/algorithmic_trading.md) leverages mathematical models and statistical techniques to make trading decisions autonomously. One of the fundamental statistical tests used in this realm is the Z-Test. The Z-Test is employed to determine if there is a significant difference between sample data and a known value or between two sample means. In [algorithmic trading](../a/algorithmic_trading.md), Z-Test models play a crucial role in validating [trading strategies](../t/trading_strategies.md), conducting [hypothesis testing](../h/hypothesis_testing.md), and assessing market behavior. This document explores the intricacies of Z-Test models and their applications in [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Table of Contents
 1. Introduction to Z-Test
 2. Types of Z-Tests
 3. Z-Score Calculation
 4. Assumptions in Z-Tests
-5. Z-Tests in Hypothesis Testing
-6. Applications of Z-Tests in Algorithmic Trading
+5. Z-Tests in [Hypothesis Testing](../h/hypothesis_testing.md)
+6. Applications of Z-Tests in [Algorithmic Trading](../a/algorithmic_trading.md)
     1. Strategy Validation
-    2. Market Efficiency Testing
-    3. Risk Management
-    4. Performance Attribution
+    2. [Market Efficiency](../m/market_efficiency.md) Testing
+    3. [Risk Management](../r/risk_management.md)
+    4. [Performance Attribution](../p/performance_attribution.md)
 7. Implementation of Z-Test Models
     1. Python for Z-Tests
     2. Case Studies
@@ -64,25 +64,25 @@ For a two-sample Z-test, the formula is slightly adjusted to account for two sam
 
 ### Strategy Validation
 
-Algorithmic traders use Z-tests to validate their trading strategies by comparing the returns of their algorithm against a benchmark. For example, if a trader wants to ascertain whether their new high-frequency trading (HFT) algorithm produces significantly higher returns than the S&P 500 index, they can use a one-sample Z-test.
+Algorithmic traders use Z-tests to validate their [trading strategies](../t/trading_strategies.md) by comparing the returns of their algorithm against a benchmark. For example, if a trader wants to ascertain whether their new high-frequency trading (HFT) algorithm produces significantly higher returns than the S&P 500 index, they can use a one-sample Z-test.
 
 ### Market Efficiency Testing
 
-Z-tests can be used to test market efficiency by comparing expected and actual returns. If the returns significantly deviate from the expected returns based on fundamental or technical analysis, it may indicate inefficiencies that can be exploited.
+Z-tests can be used to test [market efficiency](../m/market_efficiency.md) by comparing expected and actual returns. If the returns significantly deviate from the expected returns based on fundamental or [technical analysis](../t/technical_analysis.md), it may indicate inefficiencies that can be exploited.
 
 ### Risk Management
 
-In risk management, Z-tests help in assessing the risk-adjusted performance of trading portfolios. By testing the mean returns against a risk-free rate or a benchmark, traders can evaluate whether their portfolios are underperforming or outperforming.
+In [risk management](../r/risk_management.md), Z-tests help in assessing the risk-adjusted performance of trading portfolios. By testing the mean returns against a risk-free rate or a benchmark, traders can evaluate whether their portfolios are underperforming or outperforming.
 
 ### Performance Attribution
 
-Traders often use Z-tests for performance attribution to determine if the excess returns are due to the skill of the trader or random chance. By comparing the returns of multiple periods, traders can statistically ascertain the consistency and reliability of their performance.
+Traders often use Z-tests for [performance attribution](../p/performance_attribution.md) to determine if the excess returns are due to the skill of the trader or random chance. By comparing the returns of multiple periods, traders can statistically ascertain the consistency and reliability of their performance.
 
 ## Implementation of Z-Test Models
 
 ### Python for Z-Tests
 
-Python, a leading language in the field of data science and algorithmic trading, offers robust libraries such as SciPy and Statsmodels to perform Z-tests. Below is a simple example of a one-sample Z-test using Python:
+Python, a leading language in the field of data science and [algorithmic trading](../a/algorithmic_trading.md), offers robust libraries such as SciPy and Statsmodels to perform Z-tests. Below is a simple example of a one-sample Z-test using Python:
 
 ```python
 from scipy import stats
@@ -107,9 +107,9 @@ print("P-Value:", p_value)
 
 ### Case Studies
 
-Several algorithmic trading firms and hedge funds implement Z-Test models to optimize their trading strategies. For instance:
+Several [algorithmic trading](../a/algorithmic_trading.md) firms and hedge funds implement Z-Test models to optimize their [trading strategies](../t/trading_strategies.md). For instance:
 
-- **WorldQuant**: This firm extensively uses statistical tests, including Z-Tests, to develop and validate its trading models. More information can be found on their [official website](https://www.worldquant.com).
+- **WorldQuant**: This firm extensively uses statistical tests, including Z-Tests, to develop and validate its [trading models](../t/trading_models.md). More information can be found on their [official website](https://www.worldquant.com).
 - **Two Sigma**: Two Sigma employs sophisticated algorithms and statistical methodologies, including Z-Tests, to derive insights and make trading decisions. Additional details are available on their [official website](https://www.twosigma.com).
 
 ## Limitations of Z-Tests in Trading

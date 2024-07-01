@@ -53,7 +53,7 @@ The classic Kalman filter assumes linearity in the process and measurement model
 
 ### Applications in Algorithmic Trading
 
-Kalman filters are extensively used in financial contexts, particularly in algorithmic trading:
+Kalman filters are extensively used in financial contexts, particularly in [algorithmic trading](../a/algorithmic_trading.md):
 
 1. **Prediction of Market Variables**
    - Forecasting prices, volatility, and other relevant market indicators.
@@ -61,15 +61,15 @@ Kalman filters are extensively used in financial contexts, particularly in algor
 2. **Noise Reduction**
    - Filtering out market noise to extract underlying trends and signals.
 
-3. **Pairs Trading**
+3. **[Pairs Trading](../p/pairs_trading.md)**
    - Estimating the dynamic relationship between two co-integrated assets to identify divergence from a mean reverting spread.
 
 ### Implementation in Trading Strategies
 
-The application of Kalman filters in trading strategies requires careful consideration of model parameters and state representations:
+The application of Kalman filters in [trading strategies](../t/trading_strategies.md) requires careful consideration of model parameters and state representations:
 
 1. **State Vector Representation**
-   - Constructing the state vector to include relevant trading signals, such as moving averages, momentum indicators, or lagged price values.
+   - Constructing the state vector to include relevant [trading signals](../t/trading_signals.md), such as moving averages, [momentum indicators](../m/momentum_indicators.md), or lagged price values.
 
 2. **Transition and Measurement Matrices**
    - Designing the transition and measurement matrices to reflect assumptions on market dynamics and observation processes.
@@ -77,14 +77,14 @@ The application of Kalman filters in trading strategies requires careful conside
 ### Practical Considerations
 
 1. **Computational Efficiency**
-   - Ensuring the algorithm's computational demands align with real-time trading systems.
+   - Ensuring the algorithm's computational demands align with [real-time trading systems](../r/real-time_trading_systems.md).
 
 2. **Parameter Estimation**
    - Continuously updating estimates of the process and measurement noise covariances (`Q` and `R`) to adapt to changing market conditions.
 
 ### Conclusion
 
-The Kalman filter's adaptability, recursive nature, and proficient handling of uncertainty make it an invaluable tool in algorithmic trading. Understanding its mechanisms, extensions, and practical implementation nuances is crucial for deploying robust financial models.
+The Kalman filter's adaptability, recursive nature, and proficient handling of uncertainty make it an invaluable tool in [algorithmic trading](../a/algorithmic_trading.md). Understanding its mechanisms, extensions, and practical implementation nuances is crucial for deploying robust financial models.
 
 ### References
 

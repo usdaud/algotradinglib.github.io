@@ -26,7 +26,7 @@ Unemployment rate analysis is vital for several reasons:
 
 1. **Economic Health Indicator**: A high unemployment rate can signify economic distress, while a low rate usually indicates economic stability and growth.
 2. **Policy Making**: Governments use unemployment data to formulate policies aimed at improving employment levels, such as stimulus packages, training programs, and unemployment benefits.
-3. **Labor Market Dynamics**: Understanding unemployment trends helps economists and businesses understand the dynamics of the labor market, wage trends, and worker mobility.
+3. **Labor Market Dynamics**: Understanding [unemployment trends](../u/unemployment_trends.md) helps economists and businesses understand the dynamics of the labor market, wage trends, and worker mobility.
 
 ## Factors Influencing Unemployment Rate
 Several factors can influence the unemployment rate:

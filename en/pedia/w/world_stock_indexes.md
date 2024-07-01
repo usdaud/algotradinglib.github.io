@@ -160,7 +160,7 @@ Indexes reflect the general market sentiment at a glance. A rising index indicat
 
 ##### 3.3 Economic Indicators
 
-Indexes also function as leading economic indicators. For example, a steady rise in stock indexes often precedes economic growth, whereas a consistent decline might signal an upcoming recession.
+Indexes also function as leading [economic indicators](../e/economic_indicators.md). For example, a steady rise in stock indexes often precedes economic growth, whereas a consistent decline might signal an upcoming recession.
 
 ##### 3.4 Trading and Investment Products
 

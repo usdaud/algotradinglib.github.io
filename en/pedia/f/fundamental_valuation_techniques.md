@@ -1,6 +1,6 @@
 # Fundamental Valuation Techniques
 
-Fundamental valuation techniques are methodologies used to determine the intrinsic value of an asset, typically a financial security, by examining related economic, financial, and other qualitative and quantitative factors. These factors include company earnings, revenue, economic indicators, industry statistics, and qualitative information like management quality. Fundamental analysis aims to forecast a security's future price movements based on underlying business performance and economic conditions. Here we delve into the primary fundamental valuation techniques commonly used in financial analysis:
+Fundamental [valuation techniques](../v/valuation_techniques.md) are methodologies used to determine the intrinsic value of an asset, typically a financial security, by examining related economic, financial, and other qualitative and quantitative factors. These factors include company earnings, revenue, [economic indicators](../e/economic_indicators.md), industry statistics, and qualitative information like management quality. [Fundamental analysis](../f/fundamental_analysis.md) aims to forecast a security's future price movements based on underlying business performance and economic conditions. Here we delve into the primary fundamental [valuation techniques](../v/valuation_techniques.md) commonly used in financial analysis:
 
 ### 1. Discounted Cash Flow (DCF) Analysis
 
@@ -69,7 +69,7 @@ By discounting FCFE, one can estimate the equity value of the company.
 
 ### 7. Relative Valuation
 
-Relative valuation compares a company’s metrics to those of similar companies or the industry average. Common relative valuation multiples include P/E, P/B, EV/EBITDA, and Price-to-Sales (P/S). This approach helps identify whether a stock is over- or undervalued relative to its peers.
+Relative valuation compares a company’s metrics to those of similar companies or the industry average. Common relative [valuation multiples](../v/valuation_multiples.md) include P/E, P/B, EV/EBITDA, and Price-to-Sales (P/S). This approach helps identify whether a stock is over- or undervalued relative to its peers.
 
 ### 8. Economic Value Added (EVA)
 
@@ -101,12 +101,12 @@ Where \( P_0 \) is the current stock price, \( D_1 \) is the dividend in the nex
 
 ### Real-World Applications 
 
-Several financial institutions and companies utilize these fundamental valuation techniques extensively:
+Several financial institutions and companies utilize these fundamental [valuation techniques](../v/valuation_techniques.md) extensively:
 
-- **Morningstar**: Known for their detailed equity research and valuation analysis. Visit [Morningstar](https://www.morningstar.com/)
-- **FactSet**: Offers tools and data for financial professionals to perform fundamental analysis. Visit [FactSet](https://www.factset.com/)
+- **Morningstar**: Known for their detailed [equity research](../e/equity_research.md) and [valuation analysis](../v/valuation_analysis.md). Visit [Morningstar](https://www.morningstar.com/)
+- **FactSet**: Offers tools and data for financial professionals to perform [fundamental analysis](../f/fundamental_analysis.md). Visit [FactSet](https://www.factset.com/)
 - **S&P Global**: Provides essential insights for credit risk research and fundamental valuation. Visit [S&P Global](https://www.spglobal.com/)
 
 ### Conclusion
 
-Fundamental valuation techniques are crucial tools for investors and analysts aiming to determine the intrinsic value of an asset. By utilizing methodologies like DCF, P/E ratios, EV/EBITDA, and others, these techniques help in making informed investment decisions based on the underlying strength and potential of businesses. Each method has its unique focus and applicability, and often, multiple techniques are employed together to get a comprehensive valuation. This holistic approach aids in understanding an asset's worth and aligning investment strategies accordingly.
+Fundamental [valuation techniques](../v/valuation_techniques.md) are crucial tools for investors and analysts aiming to determine the intrinsic value of an asset. By utilizing methodologies like DCF, P/E ratios, EV/EBITDA, and others, these techniques help in making informed investment decisions based on the underlying strength and potential of businesses. Each method has its unique focus and applicability, and often, multiple techniques are employed together to get a comprehensive valuation. This holistic approach aids in understanding an asset's worth and aligning investment strategies accordingly.

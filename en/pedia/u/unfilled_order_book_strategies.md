@@ -1,6 +1,6 @@
 # Unfilled Order Book Strategies in Algorithmic Trading
 
-In the realm of algorithmic trading, unfilled order book strategies hold critical importance. These strategies are concerned with the management, analysis, and tactical deployment of unexecuted orders within a trading book. Understanding these strategies involves delving into the nuances of order types, market microstructure, execution algorithms, and the precise mechanics of how orders interact within electronic trading platforms.
+In the realm of [algorithmic trading](../a/algorithmic_trading.md), unfilled order book strategies hold critical importance. These strategies are concerned with the management, analysis, and tactical deployment of [unexecuted orders](../u/unexecuted_orders.md) within a trading book. Understanding these strategies involves delving into the nuances of order types, [market microstructure](../m/market_microstructure.md), [execution algorithms](../e/execution_algorithms.md), and the precise mechanics of how orders interact within electronic trading platforms.
 
 ## Understanding the Order Book
 
@@ -34,23 +34,23 @@ Large orders broken down into smaller chunks to minimize market impact. The full
 
 ## Unfilled Orders and Trading Strategies
 
-Unfilled or outstanding orders are those that have been placed in the order book but have not yet been executed. These unfilled orders can be instrumental in various trading strategies:
+Unfilled or outstanding orders are those that have been placed in the order book but have not yet been executed. These [unfilled orders](../u/unfilled_orders.md) can be instrumental in various [trading strategies](../t/trading_strategies.md):
 
 ### Liquidity Discovery
 
-Understanding where major buy or sell interest lies can inform traders about significant support and resistance levels. Monitoring unfilled orders helps in liquidity discovery, indicating potential price movements.
+Understanding where major buy or sell interest lies can inform traders about significant [support and resistance](../s/support_and_resistance.md) levels. Monitoring [unfilled orders](../u/unfilled_orders.md) helps in liquidity discovery, indicating potential price movements.
 
 ### Order Flow Analysis
 
-Order flow analysis involves tracking the flow of orders to make educated predictions on price movements. Analyzing unfilled orders provides insights into the momentum and intent of market participants.
+[Order flow analysis](../o/order_flow_analysis.md) involves tracking the flow of orders to make educated predictions on price movements. Analyzing [unfilled orders](../u/unfilled_orders.md) provides insights into the momentum and intent of market participants.
 
 ### Scalping Strategies
 
-Scalpers may use unfilled orders to identify short-term price discrepancies. By placing orders at specific levels and reacting to the resultant changes in the order book, scalpers can make quick profits off tiny price changes.
+Scalpers may use [unfilled orders](../u/unfilled_orders.md) to identify short-term price discrepancies. By placing orders at specific levels and reacting to the resultant changes in the order book, scalpers can make quick profits off tiny price changes.
 
 ### Spread Capture
 
-Market makers place buy and sell limit orders at different levels to capture the bid-ask spread. Understanding the unfilled orders helps in optimizing these levels and maximizing profits.
+Market makers place buy and sell limit orders at different levels to capture the [bid-ask spread](../b/bid-ask_spread.md). Understanding the [unfilled orders](../u/unfilled_orders.md) helps in optimizing these levels and maximizing profits.
 
 ## Implementation of Unfilled Order Book Strategies
 
@@ -68,7 +68,7 @@ These algorithms can leverage unfilled order data to optimize execution and redu
 
 ### Machine Learning
 
-Machine learning models are increasingly used for pattern recognition within unfilled order data. Models can predict future price movements based on historical order book data, providing a quantitative edge.
+Machine learning models are increasingly used for [pattern recognition](../p/pattern_recognition.md) within unfilled order data. Models can predict future price movements based on historical order book data, providing a quantitative edge.
 
 ## Challenges and Risks
 
@@ -91,9 +91,9 @@ Unfilled order strategies must comply with regulations. For instance, in the U.S
 Several companies specialize in providing the tools and platforms required to implement sophisticated order book strategies:
 
 - **Citadel Securities**: A leading market maker and trading firm which uses advanced algorithms to optimize order execution. [Link](https://www.citadelsecurities.com)
-- **Virtu Financial**: Known for its high-frequency trading strategies that leverage order book data. [Link](https://www.virtu.com)
-- **QuantConnect**: An open-source platform that provides tools for developing and backtesting algorithmic trading strategies. [Link](https://www.quantconnect.com)
+- **Virtu Financial**: Known for its high-frequency [trading strategies](../t/trading_strategies.md) that leverage order book data. [Link](https://www.virtu.com)
+- **QuantConnect**: An open-source platform that provides tools for developing and [backtesting](../b/backtesting.md) [algorithmic trading](../a/algorithmic_trading.md) strategies. [Link](https://www.quantconnect.com)
 
 ## Conclusion
 
-Unfilled order book strategies hold substantial potential for traders looking to leverage detailed market data for better execution and strategic positioning. By understanding the intricacies of unfilled orders, traders can develop highly responsive strategies tailored to specific market conditions, ultimately yielding superior trading performance.
+Unfilled order book strategies hold substantial potential for traders looking to leverage detailed market data for better execution and strategic positioning. By understanding the intricacies of [unfilled orders](../u/unfilled_orders.md), traders can develop highly responsive strategies tailored to specific market conditions, ultimately yielding superior [trading performance](../t/trading_performance.md).

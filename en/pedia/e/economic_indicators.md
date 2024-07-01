@@ -39,12 +39,12 @@ An increase in business inventories can indicate that products are not being sol
 ### Example of Companies Utilizing Economic Indicators in Algorithmic Trading
 
 1. **Two Sigma** (https://www.twosigma.com/)
-Two Sigma is known for using a variety of economic indicators in its algorithmic trading strategies. By analyzing a vast array of data, including economic indicators, they create predictive models to inform trading decisions.
+Two Sigma is known for using a variety of economic indicators in its [algorithmic trading](../a/algorithmic_trading.md) strategies. By analyzing a vast array of data, including economic indicators, they create predictive models to inform trading decisions.
 
 2. **Renaissance Technologies** (https://www.rentech.com/)
-Renaissance Technologies uses quantitative models based on mathematical and statistical methods to predict changes in financial markets. Economic indicators are a significant part of the data input into these models.
+Renaissance Technologies uses [quantitative models](../q/quantitative_models.md) based on mathematical and statistical methods to predict changes in financial markets. Economic indicators are a significant part of the data input into these models.
 
 3. **D.E. Shaw Group** (https://www.deshaw.com/)
-This firm utilizes economic indicators amongst other data points in their trading algorithms. Their strategies aim to capitalize on market inefficiencies using sophisticated computational techniques.
+This firm utilizes economic indicators amongst other data points in their [trading algorithms](../t/trading_algorithms.md). Their strategies aim to capitalize on market inefficiencies using sophisticated computational techniques.
 
-Economic Indicators serve as a backbone for developing and refining algorithmic trading strategies. Their timely analysis can help in anticipating market movements and making informed trading decisions.
+Economic Indicators serve as a backbone for developing and refining [algorithmic trading](../a/algorithmic_trading.md) strategies. Their timely analysis can help in anticipating market movements and making informed trading decisions.

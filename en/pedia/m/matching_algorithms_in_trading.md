@@ -31,7 +31,7 @@ LIFO matches the newest orders first, which is generally unsuitable for ensuring
 ### 2.5. Algorithmic/HFT Matching
 
 High-frequency trading (HFT) demands extremely high-speed matching algorithms. These systems use sophisticated techniques such as:
-- **Statistical Arbitrage:** Identifying price discrepancies between related securities.
+- **Statistical [Arbitrage](../a/arbitrage.md):** Identifying price discrepancies between related securities.
 - **Momentum-Based Strategies:** Leveraging market movements to match orders based on trends.
 
 ## 3. Real-World Examples
@@ -58,7 +58,7 @@ As a leading cryptocurrency exchange, Binance utilizes its custom-built matching
 
 ### 3.4. CME Group
 
-The Chicago Mercantile Exchange (CME) employs the world's largest derivatives marketplace matching engine. Its advanced algorithmic trading systems support diverse and high-volume trading activities across various asset classes.
+The Chicago Mercantile Exchange (CME) employs the world's largest [derivatives](../d/derivatives.md) marketplace matching engine. Its advanced [algorithmic trading](../a/algorithmic_trading.md) systems support diverse and high-volume trading activities across various asset classes.
 
 [Explore CME Group’s trading technology](https://www.cmegroup.com)
 
@@ -97,7 +97,7 @@ Matching algorithms must adhere to stringent regulatory requirements to ensure m
 
 - **Transparency:** Exchanges must provide transparent access to order books and trade information.
 - **Non-Discrimination:** Matching algorithms should treat all orders fairly without bias toward specific participants.
-- **Auditability:** Regulatory bodies require the ability to audit trading systems and algorithms to ensure compliance and investigate irregularities.
+- **Auditability:** Regulatory bodies require the ability to audit [trading systems](../t/trading_systems.md) and algorithms to ensure compliance and investigate irregularities.
 
 ## 7. Future Trends
 
@@ -113,7 +113,7 @@ Although still in its infancy, quantum computing holds potential for revolutioni
 
 ### 7.3. Blockchain Technology
 
-Blockchain can enhance the transparency and security of trading systems by providing a decentralized ledger for verifying transactions.
+Blockchain can enhance the transparency and security of [trading systems](../t/trading_systems.md) by providing a decentralized ledger for verifying transactions.
 
 ### 7.4. Enhancing Fairness and Market Integrity
 

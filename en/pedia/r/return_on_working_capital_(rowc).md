@@ -14,7 +14,7 @@ Where:
 ROWC is a significant indicator for various reasons:
 1. **Efficiency Measurement**: It assesses how efficiently a company uses its short-term assets and liabilities to support its day-to-day operations.
 2. **Profitability Indicator**: By showing the return generated per unit of working capital, it helps to measure the profitability of the company's operational activities.
-3. **Comparative Analysis**: Investors use ROWC to compare performance across different companies within the same industry. A higher ROWC suggests better operational efficiency.
+3. **[Comparative Analysis](../c/comparative_analysis.md)**: Investors use ROWC to compare performance across different companies within the same industry. A higher ROWC suggests better operational efficiency.
 4. **Strategic Decisions**: Companies use ROWC to make decisions regarding asset management, debt financing, and investments in operational improvements.
 
 ### Practical Examples

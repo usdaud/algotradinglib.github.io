@@ -1,6 +1,6 @@
 # Stochastic Calculus
 
-Stochastic calculus is a branch of mathematics that operates on stochastic processes. It provides tools for modeling and analyzing systems that evolve over time with random elements. This field is essential in various domains, including financial mathematics, physics, engineering, and biology, but it is particularly significant in the domain of algorithmic trading or "algo trading." In algo trading, stochastic calculus is applied to model the seemingly random behavior of asset prices in the financial markets and to develop algorithms for trading strategies.
+Stochastic calculus is a branch of mathematics that operates on [stochastic processes](../s/stochastic_processes.md). It provides tools for modeling and analyzing systems that evolve over time with random elements. This field is essential in various domains, including financial mathematics, physics, engineering, and biology, but it is particularly significant in the domain of [algorithmic trading](../a/algorithmic_trading.md) or "algo trading." In algo trading, stochastic calculus is applied to model the seemingly random behavior of asset prices in the financial markets and to develop algorithms for [trading strategies](../t/trading_strategies.md).
 
 ## Foundations of Stochastic Calculus
 
@@ -18,7 +18,7 @@ In mathematical notation, a Brownian motion \( W(t) \) can be described by:
 
 ### Stochastic Differential Equations (SDEs)
 
-Stochastic Differential Equations (SDEs) extend the concept of ordinary differential equations (ODEs) to include terms representing random effects. The generic form of an SDE can be written as:
+[Stochastic Differential Equations](../s/stochastic_differential_equations.md) (SDEs) extend the concept of ordinary differential equations (ODEs) to include terms representing random effects. The generic form of an SDE can be written as:
 \[ dX_t = \mu(X_t, t) dt + \sigma(X_t, t) dW_t \]
 
 where:
@@ -29,7 +29,7 @@ where:
 
 ### Ito's Lemma
 
-Ito's Lemma, named after Kiyoshi Itô, is a fundamental result in stochastic calculus that provides a way to differentiate functions of stochastic processes. If \( X_t \) is an Itô process with the form:
+Ito's Lemma, named after Kiyoshi Itô, is a fundamental result in stochastic calculus that provides a way to differentiate functions of [stochastic processes](../s/stochastic_processes.md). If \( X_t \) is an Itô process with the form:
 \[ dX_t = \mu(X_t, t) dt + \sigma(X_t, t) dW_t \]
 and \( f(X_t, t) \) is a twice-differentiable function, then \( f(X_t, t) \) follows:
 \[ df(X_t, t) = \left( \frac{\partial f}{\partial t} + \mu \frac{\partial f}{\partial X_t} + \frac{1}{2} \sigma^2 \frac{\partial^2 f}{\partial X_t^2} \right) dt + \sigma \frac{\partial f}{\partial X_t} dW_t \]
@@ -38,7 +38,7 @@ and \( f(X_t, t) \) is a twice-differentiable function, then \( f(X_t, t) \) fol
 
 ### Black-Scholes Model
 
-One of the most famous applications of stochastic calculus in finance is the Black-Scholes model, which is used for option pricing. The model assumes that the price of the underlying asset follows a geometric Brownian motion:
+One of the most famous applications of stochastic calculus in finance is the [Black-Scholes model](../b/black-scholes_model.md), which is used for option pricing. The model assumes that the price of the underlying asset follows a [geometric Brownian motion](../g/geometric_brownian_motion.md):
 \[ dS_t = \mu S_t dt + \sigma S_t dW_t \]
 
 Using this assumption, the Black-Scholes formula allows the calculation of a theoretical value for European-style options. The formula involves the following parameters:
@@ -50,21 +50,21 @@ Using this assumption, the Black-Scholes formula allows the calculation of a the
 
 ### Trading Algorithms Based on Mean Reversion
 
-Mean reversion is the financial theory that asset prices and historical returns will eventually revert to their long-term mean or average level. Stochastic differential equations are used to model mean-reverting processes, and one such model is the Ornstein-Uhlenbeck process:
+[Mean reversion](../m/mean_reversion.md) is the financial theory that asset prices and historical returns will eventually revert to their long-term mean or average level. [Stochastic differential equations](../s/stochastic_differential_equations.md) are used to model mean-reverting processes, and one such model is the Ornstein-Uhlenbeck process:
 \[ dX_t = \theta (\mu - X_t) dt + \sigma dW_t \]
 where \( \theta \) governs the speed of reversion, \( \mu \) is the long-term mean level, and \( \sigma \) is the volatility.
 
 ### Statistical Arbitrage Strategies
 
-Statistical arbitrage involves techniques that use mean reversion models to identify pricing inefficiencies between related financial instruments. Stochastic calculus provides the tools for specifying and solving the models used in these strategies, allowing traders to implement automated trading systems that exploit these inefficiencies with precise and mathematically sound methods.
+Statistical [arbitrage](../a/arbitrage.md) involves techniques that use [mean reversion](../m/mean_reversion.md) models to identify pricing inefficiencies between related financial instruments. Stochastic calculus provides the tools for specifying and solving the models used in these strategies, allowing traders to implement [automated trading systems](../a/automated_trading_systems.md) that exploit these inefficiencies with precise and mathematically sound methods.
 
 ### Portfolio Optimization
 
-Dynamic portfolio optimization uses stochastic calculus to manage a portfolio of assets over time. The goal is often to maximize the expected return for a given level of risk, and this involves the solution of stochastic control problems. The Hamilton-Jacobi-Bellman (HJB) equation is one such formulation widely used in portfolio optimization.
+Dynamic [portfolio optimization](../p/portfolio_optimization.md) uses stochastic calculus to manage a portfolio of assets over time. The goal is often to maximize the expected return for a given level of risk, and this involves the solution of [stochastic control](../s/stochastic_control.md) problems. The Hamilton-Jacobi-Bellman (HJB) equation is one such formulation widely used in [portfolio optimization](../p/portfolio_optimization.md).
 
 ### Risk Management
 
-In its application to risk management, stochastic calculus helps in modeling the dynamic behavior of various risk factors and quantifying the risk associated with financial portfolios. Value-at-Risk (VaR) metrics and sensitivities like Greek letters (Delta, Gamma, Vega, etc.) are often derived using models based on stochastic processes.
+In its application to [risk management](../r/risk_management.md), stochastic calculus helps in modeling the dynamic behavior of various risk factors and quantifying the risk associated with financial portfolios. Value-at-Risk (VaR) metrics and sensitivities like Greek letters (Delta, Gamma, Vega, etc.) are often derived using models based on [stochastic processes](../s/stochastic_processes.md).
 
 ## Tools and Libraries
 
@@ -81,22 +81,22 @@ Several computational tools and libraries are available for implementing stochas
 - **Pandas**: Library providing data structures and data analysis tools for Python.
   - [Pandas](https://pandas.pydata.org/)
 
-- **QuantLib**: Open-source library for quantitative finance.
+- **QuantLib**: Open-source library for [quantitative finance](../q/quantitative_finance.md).
   - [QuantLib](https://www.quantlib.org/)
 
 ### MATLAB
 
-MATLAB is extensively used in the financial industry for developing quantitative trading models. It includes toolboxes designed explicitly for implementing stochastic processes and simulations.
+MATLAB is extensively used in the financial industry for developing [quantitative trading](../q/quantitative_trading.md) models. It includes toolboxes designed explicitly for implementing [stochastic processes](../s/stochastic_processes.md) and simulations.
   - [MATLAB](https://www.mathworks.com/products/matlab.html)
 
 ### R
 
-R is another popular language used for statistical computing and graphics. It offers multiple packages for stochastic modeling and quantitative finance.
+R is another popular language used for statistical computing and graphics. It offers multiple packages for [stochastic modeling](../s/stochastic_modeling.md) and [quantitative finance](../q/quantitative_finance.md).
   - [R Project](https://www.r-project.org/)
 
 ### Julia
 
-Julia is also gaining traction in quantitative finance due to its high-performance capabilities and ease of use.
+Julia is also gaining traction in [quantitative finance](../q/quantitative_finance.md) due to its high-performance capabilities and ease of use.
   - [Julia](https://julialang.org/)
 
 ## Advanced Topics in Stochastic Calculus
@@ -107,7 +107,7 @@ Lévy processes extend the concept of Brownian motion by allowing jumps, making 
 
 ### Stochastic Control
 
-Stochastic control theory deals with decision-making in stochastic environments. It extends optimal control theory to cases where uncertainty is modeled by stochastic processes.
+[Stochastic control](../s/stochastic_control.md) theory deals with decision-making in stochastic environments. It extends optimal control theory to cases where uncertainty is modeled by [stochastic processes](../s/stochastic_processes.md).
 
 ### Stochastic Volatility Models
 
@@ -119,4 +119,4 @@ Fractional Brownian motion (fBm) generalizes Brownian motion by incorporating de
 
 ## Conclusion
 
-Stochastic calculus plays a critical role in modern quantitative finance and algorithmic trading. It provides the mathematical foundation for modeling asset prices, developing trading strategies, optimizing portfolios, and managing financial risk. With the continued advancement of computational tools and libraries, the implementation of stochastic calculus methods in algorithmic trading will only become more accessible and sophisticated.
+Stochastic calculus plays a critical role in modern [quantitative finance](../q/quantitative_finance.md) and [algorithmic trading](../a/algorithmic_trading.md). It provides the mathematical foundation for modeling asset prices, developing [trading strategies](../t/trading_strategies.md), optimizing portfolios, and managing financial risk. With the continued advancement of computational tools and libraries, the implementation of stochastic calculus methods in [algorithmic trading](../a/algorithmic_trading.md) will only become more accessible and sophisticated.

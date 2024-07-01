@@ -39,7 +39,7 @@ Despite their benefits, preferred stocks carry certain risks:
 - **Interest Rate Risk**: As with bonds, the value of preferred stocks can decline when interest rates rise.
 - **Credit Risk**: If the issuing company encounters financial difficulties, it may suspend dividend payments.
 - **Limited Capital Appreciation**: Preferred stocks generally offer less potential for price appreciation compared to common stocks.
-- **Liquidity Risk**: Preferred stocks may be less liquid than common stocks, making it harder to buy or sell them quickly.
+- **[Liquidity Risk](../l/liquidity_risk.md)**: Preferred stocks may be less liquid than common stocks, making it harder to buy or sell them quickly.
 
 #### Preferred Stock Trading Strategies
 
@@ -63,4 +63,4 @@ Notable issuers of preferred stocks include major banks, utilities, and other st
 
 Preferred stock trading represents a valuable opportunity for investors seeking stable income and lower volatility compared to common stock investments. While they come with specific risks, the advantages of preferred stocks, such as fixed dividends and priority in bankruptcy, make them a compelling component of a diversified portfolio. By understanding the characteristics, benefits, and risks associated with preferred stocks, traders can develop strategies that align with their financial goals and risk tolerance.
 
-Trading preferred stocks requires careful consideration and a comprehensive understanding of the market. Utilizing various trading strategies and leveraging reputable platforms can help investors optimize their returns and navigate the complexities of preferred stock investments. Whether for income generation or as part of a risk management strategy, preferred stock trading offers unique opportunities within the broader financial market landscape.
+Trading preferred stocks requires careful consideration and a comprehensive understanding of the market. Utilizing various [trading strategies](../t/trading_strategies.md) and leveraging reputable platforms can help investors optimize their returns and navigate the complexities of preferred stock investments. Whether for income generation or as part of a [risk management](../r/risk_management.md) strategy, preferred stock trading offers unique opportunities within the broader financial market landscape.

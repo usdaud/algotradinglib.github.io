@@ -2,7 +2,7 @@
 
 In the world of finance, bonds and other fixed-income securities are fundamental components for both issuers and investors. Among these instruments, zero-coupon bonds occupy a unique position due to their distinctive structure and investment benefits. Zero-coupon bonds, typically referred to as zeroes, are fixed-income securities that do not pay periodic interest (coupons). Instead, they are issued at a significant discount to their face value and mature at par value, the difference representing the interest earned by the bondholder.
 
-Zero-coupon bonds provide unique challenges and opportunities in terms of yield analysis. Understanding these instruments requires a deep dive into the techniques used to analyze their yields, the implications of these methods, and the broader applications in financial strategy.
+Zero-coupon bonds provide unique challenges and opportunities in terms of [yield analysis](../y/yield_analysis.md). Understanding these instruments requires a deep dive into the techniques used to analyze their yields, the implications of these methods, and the broader applications in financial strategy.
 
 ### Characteristics of Zero-Coupon Bonds
 
@@ -16,9 +16,9 @@ Zero-coupon bonds are one of the purest forms of fixed-income products because t
 
 ### Yield Measures
 
-Yield analysis for zero-coupon bonds is slightly different from that of coupon-bearing bonds. Key yield measures used in evaluating zero-coupon bonds include:
+[Yield analysis](../y/yield_analysis.md) for zero-coupon bonds is slightly different from that of coupon-bearing bonds. Key yield measures used in evaluating zero-coupon bonds include:
 
-1. **Yield to Maturity (YTM)**:
+1. **[Yield to Maturity](../y/yield_to_maturity.md) (YTM)**:
     - **Definition**: The internal rate of return (IRR) if the bond is held until it matures. Since there are no periodic payments, YTM reflects the total return an investor can expect.
     - **Calculation**: \( YTM = \left( \frac{FV}{PV} \right)^{\frac{1}{t}} - 1 \)
       where \(FV\) is the face value, \(PV\) is the present value or purchase price, and \(t\) is the time to maturity in years.
@@ -38,17 +38,17 @@ Analysts employ various techniques to assess the yield and performance of zero-c
     - Analysts use DCF analysis to calculate the present value of the bond's face value to determine its current worth based on the desired discount rate.
     - **Formula**: \( PV = \frac{FV}{(1 + r)^t} \).
 
-2. **Yield Curve Analysis**:
-    - Since zero-coupon bonds are sensitive to interest rate changes, yield curve analysis is crucial. Analysts examine the yield curve to understand the term structure of interest rates.
+2. **[Yield Curve](../y/yield_curve.md) Analysis**:
+    - Since zero-coupon bonds are sensitive to interest rate changes, [yield curve](../y/yield_curve.md) analysis is crucial. Analysts examine the [yield curve](../y/yield_curve.md) to understand the [term structure of interest rates](../t/term_structure_of_interest_rates.md).
 
 3. **Duration and Convexity**:
     - **Duration**: Measures the bond's sensitivity to changes in interest rates, especially important for zero-coupon bonds with long maturities.
-    - **Convexity**: Provides a more accurate measure of interest rate sensitivity by accounting for the curvature in the price-yield relationship.
+    - **Convexity**: Provides a more accurate measure of [interest rate sensitivity](../i/interest_rate_sensitivity.md) by accounting for the curvature in the price-yield relationship.
 
 4. **Scenario Analysis and Stress Testing**:
-    - Evaluates how zero-coupon bonds perform under different economic conditions. This includes assessing the impact of varying interest rates and economic cycles on bond prices.
+    - Evaluates how zero-coupon bonds perform under different economic conditions. This includes assessing the impact of varying interest rates and [economic cycles](../e/economic_cycles.md) on bond prices.
 
-5. **Comparative Analysis**:
+5. **[Comparative Analysis](../c/comparative_analysis.md)**:
     - Comparing the yields of zero-coupon bonds with other fixed-income securities or instruments with similar risk profiles provides context for investment decisions.
 
 ### Applications in Investment Strategies
@@ -61,7 +61,7 @@ Zero-coupon bonds offer strategic advantages in various investment contexts:
 2. **Tax Planning**:
     - Despite the annual tax on imputed interest, strategic tax planning can optimize returns. Investors in tax-advantaged accounts (like IRAs) can defer taxes, thereby maximizing growth.
 
-3. **Portfolio Diversification**:
+3. **[Portfolio Diversification](../p/portfolio_diversification.md)**:
     - Including zero-coupon bonds in a portfolio can help diversify interest rate risk, especially in portfolios heavily weighted with income-generating bonds.
 
 4. **Matching Liabilities**:

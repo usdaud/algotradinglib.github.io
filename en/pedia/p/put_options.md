@@ -2,7 +2,7 @@
 
 ## Introduction to Put Options
 
-Put options represent a versatile financial instrument utilized in various strategies for hedging, speculation, and portfolio management. Primarily, a put option is a derivative contract that gives the holder the right, but not the obligation, to sell an underlying asset at a specified price (the strike price) within a predetermined time frame. Traders leverage put options in algorithmic trading to capitalize on price declines, protect existing positions, or engage in complex trading strategies.
+Put options represent a versatile financial instrument utilized in various strategies for hedging, speculation, and [portfolio management](../p/portfolio_management.md). Primarily, a put option is a derivative contract that gives the holder the right, but not the obligation, to sell an underlying asset at a specified price (the strike price) within a predetermined time frame. Traders leverage put options in [algorithmic trading](../a/algorithmic_trading.md) to capitalize on price declines, protect existing positions, or engage in complex [trading strategies](../t/trading_strategies.md).
 
 ## Components of a Put Option
 
@@ -20,7 +20,7 @@ A put option consists of several key elements:
 
 The valuation of put options involves complex models involving multiple variables:
 
-- **Black-Scholes Model**: A widely used model for pricing European-style options, incorporating factors such as the underlying asset price, strike price, time to expiration, risk-free interest rate, and volatility.
+- **[Black-Scholes Model](../b/black-scholes_model.md)**: A widely used model for pricing European-style options, incorporating factors such as the underlying asset price, strike price, time to expiration, risk-free interest rate, and volatility.
 - **Binomial Model**: A flexible option pricing method that constructs a binomial tree to estimate the underlying asset's price path, accommodating American-style options which can be exercised before expiration.
 
 ## Put Option Strategies
@@ -45,11 +45,11 @@ This strategy involves selling a put option at a higher strike price while simul
 
 ### Bear Put Spread
 
-Conversely, a bear put spread involves buying a put option at a higher strike price while selling a put option at a lower strike price. This strategy profits from a decline in the underlying asset's price while capping potential losses and gains.
+Conversely, a [bear put spread](../b/bear_put_spread.md) involves buying a put option at a higher strike price while selling a put option at a lower strike price. This strategy profits from a decline in the underlying asset's price while capping potential losses and gains.
 
 ## Algorithmic Trading and Put Options
 
-Algorithmic trading, or algo trading, involves using computer algorithms to execute trades based on predefined criteria. When integrated with put options, algo trading offers enhanced precision, speed, and the ability to manage complex strategies with minimal human intervention.
+[Algorithmic trading](../a/algorithmic_trading.md), or algo trading, involves using computer algorithms to execute trades based on predefined criteria. When integrated with put options, algo trading offers enhanced precision, speed, and the ability to manage complex strategies with minimal human intervention.
 
 ### Hedging
 
@@ -61,20 +61,20 @@ Algorithmic systems can act as market makers, both buying and selling put option
 
 ### Statistical Arbitrage
 
-Statistical arbitrage algorithms identify and exploit price inefficiencies in put options markets. For instance, they may trade put options against corresponding call options (a form of options arbitrage) or apply mean reversion strategies to capture small profit margins.
+Statistical [arbitrage](../a/arbitrage.md) algorithms identify and exploit price inefficiencies in put options markets. For instance, they may trade put options against corresponding call options (a form of options [arbitrage](../a/arbitrage.md)) or apply [mean reversion](../m/mean_reversion.md) strategies to capture small profit margins.
 
 ### Sentiment Analysis
 
-Advanced algorithms incorporate sentiment analysis to gauge market sentiment from news feeds, social media, and other data sources. By evaluating the sentiment around the underlying asset, these algorithms position themselves accordingly in the put options market.
+Advanced algorithms incorporate [sentiment analysis](../s/sentiment_analysis.md) to gauge market sentiment from news feeds, social media, and other data sources. By evaluating the sentiment around the underlying asset, these algorithms position themselves accordingly in the put options market.
 
 ## Key Players and Platforms
 
-Several leading financial institutions and platforms support algorithmic trading with put options:
+Several leading financial institutions and platforms support [algorithmic trading](../a/algorithmic_trading.md) with put options:
 
-- **Citadel Securities**: Known for its market-making prowess, Citadel Securities employs sophisticated algorithms to trade a vast array of derivatives, including put options. [Citadel Securities](https://www.citadelsecurities.com/)
-- **DRW Trading**: A proprietary trading firm that integrates technology and risk management to trade options across various markets. [DRW Trading](https://drw.com/)
-- **Interactive Brokers**: A popular trading platform offering API access for automated trading strategies, including put options. [Interactive Brokers](https://www.interactivebrokers.com/)
+- **Citadel Securities**: Known for its market-making prowess, Citadel Securities employs sophisticated algorithms to trade a vast array of [derivatives](../d/derivatives.md), including put options. [Citadel Securities](https://www.citadelsecurities.com/)
+- **DRW Trading**: A [proprietary trading](../p/proprietary_trading.md) firm that integrates technology and [risk management](../r/risk_management.md) to trade options across various markets. [DRW Trading](https://drw.com/)
+- **Interactive Brokers**: A popular trading platform offering API access for automated [trading strategies](../t/trading_strategies.md), including put options. [Interactive Brokers](https://www.interactivebrokers.com/)
 
 ## Conclusion
 
-Put options serve as a vital tool in the domain of algorithmic trading, offering numerous strategies to manage risk, speculate on price movements, and enhance portfolio performance. The integration of advanced pricing models, robust trading algorithms, and sophisticated platforms ensures that traders can efficiently harness the potential of put options in increasingly complex financial markets.
+Put options serve as a vital tool in the domain of [algorithmic trading](../a/algorithmic_trading.md), offering numerous strategies to manage risk, speculate on price movements, and enhance [portfolio performance](../p/portfolio_performance.md). The integration of advanced pricing models, robust [trading algorithms](../t/trading_algorithms.md), and sophisticated platforms ensures that traders can efficiently harness the potential of put options in increasingly complex financial markets.

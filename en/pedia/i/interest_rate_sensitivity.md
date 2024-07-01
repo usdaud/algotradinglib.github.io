@@ -19,7 +19,7 @@ Convexity further refines the approximation provided by duration. It describes h
 ## Mathematical Models
 
 ### Yield to Maturity (YTM)
-Yield to Maturity is the total return anticipated on a bond if held until it matures. YTM is considered a long-term bond yield expressed as an annual rate. It is the internal rate of return (IRR) of the bond's cash flows.
+[Yield to Maturity](../y/yield_to_maturity.md) is the total return anticipated on a bond if held until it matures. YTM is considered a long-term bond yield expressed as an annual rate. It is the internal rate of return (IRR) of the bond's cash flows.
 
 ### Discounted Cash Flow (DCF)
 DCF analysis is used to estimate the attractiveness of an investment opportunity by discounting future cash flows to present value using the bond's interest rate.
@@ -41,7 +41,7 @@ While equities are not as directly influenced by interest rates as bonds, they c
 In equities, a stock's beta measures its sensitivity to the market, but in fixed income, the beta of a bond or bond portfolio against a benchmark index can elucidate its interest rate sensitivity.
 
 ### Key Rate Duration (KRD)
-KRD measures the sensitivity of bonds to interest rate changes at specific maturity points on the yield curve, allowing for pinpointing certain segments of the curve that might impact the bond's price the most.
+KRD measures the sensitivity of bonds to interest rate changes at specific maturity points on the [yield curve](../y/yield_curve.md), allowing for pinpointing certain segments of the curve that might impact the bond's price the most.
 
 ## Practical Applications
 
@@ -49,10 +49,10 @@ KRD measures the sensitivity of bonds to interest rate changes at specific matur
 Portfolio managers use interest rate sensitivity to balance expected returns against risk exposure. Diversified portfolios might blend duration- and convexity-focused strategies to optimize performance under varying interest rate environments.
 
 ### Hedging
-Investors can hedge interest rate risk through derivative instruments such as interest rate swaps or options. By locking in interest rates, investors mitigate the risk of adverse rate movements.
+Investors can hedge interest rate risk through derivative instruments such as [interest rate swaps](../i/interest_rate_swaps.md) or options. By locking in interest rates, investors mitigate the risk of adverse rate movements.
 
 ### Algorithmic Trading
-In algorithmic trading, predefined rules and models adjust bond portfolios in response to interest rate shifts. These models may use historical data to predict changes and set trading signals.
+In [algorithmic trading](../a/algorithmic_trading.md), predefined rules and models adjust bond portfolios in response to interest rate shifts. These models may use historical data to predict changes and set [trading signals](../t/trading_signals.md).
 
 ## Case Studies and Examples
 
@@ -68,5 +68,5 @@ Visit [PIMCO](https://www.pimco.com) for more information.
 
 ## Conclusion
 
-Interest rate sensitivity is a pivotal concept in fixed income markets, influencing investment strategies, portfolio management, and risk assessment. By mastering tools like duration and convexity and understanding their implications across different securities, investors can navigate the complexities of interest rate movements to achieve more resilient portfolios.
+Interest rate sensitivity is a pivotal concept in fixed income markets, influencing investment strategies, [portfolio management](../p/portfolio_management.md), and risk assessment. By mastering tools like duration and convexity and understanding their implications across different securities, investors can navigate the complexities of interest rate movements to achieve more resilient portfolios.
 

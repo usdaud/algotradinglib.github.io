@@ -1,12 +1,12 @@
 # Pivot Reversal Strategy
 
-The Pivot Reversal Strategy is a popular technical analysis tool used primarily in algorithmic trading to identify potential reverse points in the price movements of financial instruments such as stocks, currencies, commodities, and indices. This strategy relies on pivot points—specific price levels that act as indicators of support and resistance. Traders and algo developers use these pivot points as reference points to make trading decisions. In this comprehensive article, we will delve into the technical intricacies of the Pivot Reversal Strategy, explore its components, and understand how it is implemented in an algorithmic trading framework.
+The Pivot Reversal Strategy is a popular [technical analysis](../t/technical_analysis.md) tool used primarily in [algorithmic trading](../a/algorithmic_trading.md) to identify potential reverse points in the price movements of financial instruments such as stocks, currencies, commodities, and indices. This strategy relies on [pivot points](../p/pivot_points.md)—specific price levels that act as indicators of [support and resistance](../s/support_and_resistance.md). Traders and algo developers use these [pivot points](../p/pivot_points.md) as reference points to make trading decisions. In this comprehensive article, we will delve into the technical intricacies of the Pivot Reversal Strategy, explore its components, and understand how it is implemented in an [algorithmic trading](../a/algorithmic_trading.md) framework.
 
 ## 1. Fundamentals of Pivot Points
 
 ### Definition and Calculation
 
-Pivot points represent prices where the market trend is expected to change direction. They are calculated based on the high, low, and closing prices of the previous trading period. The most common method is the standard pivot point formula:
+[Pivot points](../p/pivot_points.md) represent prices where the market trend is expected to change direction. They are calculated based on the high, low, and closing prices of the previous trading period. The most common method is the standard pivot point formula:
 
 ```
 Pivot Point (P) = (High + Low + Close) / 3
@@ -39,7 +39,7 @@ Each type may appeal to different trading styles and may be chosen based on spec
 
 ### Overview
 
-The Pivot Reversal Strategy is designed to capitalize on anticipated price reversals at pivot points. The core concept revolves around buying low near support levels and selling high near resistance levels, essentially using overbought/oversold conditions to determine trade entry and exit points. 
+The Pivot Reversal Strategy is designed to capitalize on anticipated price reversals at [pivot points](../p/pivot_points.md). The core concept revolves around buying low near [support levels](../s/support_levels.md) and selling high near resistance levels, essentially using overbought/oversold conditions to determine trade entry and exit points. 
 
 ### Entry and Exit Signals
 
@@ -55,10 +55,10 @@ The Pivot Reversal Strategy is designed to capitalize on anticipated price rever
 
 ### Risk Management
 
-Effective risk management is crucial for the success of the Pivot Reversal Strategy. Some common techniques include:
+Effective [risk management](../r/risk_management.md) is crucial for the success of the Pivot Reversal Strategy. Some common techniques include:
 
-- **Stop-Loss Orders**: Placing stop-loss orders below the support level for buy positions or above the resistance level for sell positions to limit potential losses.
-- **Position Sizing**: Calculating position size based on account size, risk tolerance, and distance to the stop-loss level.
+- **[Stop-Loss Orders](../s/stop-loss_orders.md)**: Placing [stop-loss orders](../s/stop-loss_orders.md) below the support level for buy positions or above the resistance level for sell positions to limit potential losses.
+- **[Position Sizing](../p/position_sizing.md)**: Calculating position size based on account size, risk tolerance, and distance to the stop-loss level.
 - **Trailing Stops**: Implementing trailing stops to lock in profits and protect against reversals after a trade has moved favorably.
 
 ## 3. Implementation in Algorithmic Trading
@@ -67,11 +67,11 @@ Effective risk management is crucial for the success of the Pivot Reversal Strat
 
 An algorithm based on the Pivot Reversal Strategy typically includes:
 
-- **Data Collection**: Aggregating historical price data (high, low, close) for calculating pivot points.
-- **Indicator Calculation**: Computing pivot points and corresponding support and resistance levels.
-- **Signal Generation**: Identifying buy and sell signals based on price action at pivot points.
+- **Data Collection**: Aggregating historical price data (high, low, close) for calculating [pivot points](../p/pivot_points.md).
+- **Indicator Calculation**: Computing [pivot points](../p/pivot_points.md) and corresponding [support and resistance](../s/support_and_resistance.md) levels.
+- **Signal Generation**: Identifying buy and sell signals based on price action at [pivot points](../p/pivot_points.md).
 - **Order Execution**: Automating the placement of buy and sell orders based on generated signals.
-- **Risk Management**: Integrating stop-loss and take-profit rules to manage risk.
+- **[Risk Management](../r/risk_management.md)**: Integrating stop-loss and take-profit rules to manage risk.
 
 ### Example in Python
 
@@ -112,11 +112,11 @@ generate_signals(df)
 
 ### Platforms and Tools
 
-Several trading platforms and companies offer support for implementing and backtesting the Pivot Reversal Strategy:
+Several trading platforms and companies offer support for implementing and [backtesting](../b/backtesting.md) the Pivot Reversal Strategy:
 
-- **MetaTrader**: Provides tools for algorithmic trading and custom indicator creation (https://www.metatrader4.com/).
-- **QuantConnect**: Offers a cloud-based algorithm trading platform for backtesting and live trading in various asset classes (https://www.quantconnect.com/).
-- **NinjaTrader**: A trading platform with an extensive range of technical indicators and automated trading tools (https://ninjatrader.com/).
+- **MetaTrader**: Provides tools for [algorithmic trading](../a/algorithmic_trading.md) and custom indicator creation (https://www.metatrader4.com/).
+- **QuantConnect**: Offers a cloud-based algorithm trading platform for [backtesting](../b/backtesting.md) and live trading in various asset classes (https://www.quantconnect.com/).
+- **NinjaTrader**: A trading platform with an extensive range of [technical indicators](../t/technical_indicators.md) and automated trading tools (https://ninjatrader.com/).
 
 ## 4. Advantages and Limitations
 
@@ -124,14 +124,14 @@ Several trading platforms and companies offer support for implementing and backt
 
 - **Simplicity**: The Pivot Reversal Strategy is relatively simple to understand and implement, making it accessible for beginners.
 - **Versatility**: Can be applied to various asset classes and trading timeframes.
-- **Objective Decision-Making**: Provides clear entry and exit criteria based on predefined pivot points.
+- **Objective Decision-Making**: Provides clear entry and exit criteria based on predefined [pivot points](../p/pivot_points.md).
 
 ### Limitations
 
 - **False Signals**: The strategy can produce false signals in highly volatile or trending markets, leading to potential losses.
-- **Dependence on Past Data**: Pivot points rely on historical price data, which may not always accurately predict future price movements.
-- **Requires Confirmation**: Effective use of the strategy often requires additional confirmation from other technical indicators or patterns.
+- **Dependence on Past Data**: [Pivot points](../p/pivot_points.md) rely on historical price data, which may not always accurately predict future price movements.
+- **Requires Confirmation**: Effective use of the strategy often requires additional confirmation from other [technical indicators](../t/technical_indicators.md) or patterns.
 
 ## 5. Conclusion
 
-The Pivot Reversal Strategy is a well-regarded approach in technical analysis and algorithmic trading, known for its robust framework based on pivot points. By identifying potential reversal levels, traders can make strategic decisions to enter or exit positions, potentially enhancing profitability. While it has its limitations, the strategy's simplicity and adaptability make it a valuable tool in the arsenal of both novice and experienced traders. As with any trading strategy, thorough backtesting and risk management are essential for achieving consistent success in the markets.
+The Pivot Reversal Strategy is a well-regarded approach in [technical analysis](../t/technical_analysis.md) and [algorithmic trading](../a/algorithmic_trading.md), known for its robust framework based on [pivot points](../p/pivot_points.md). By identifying potential reversal levels, traders can make strategic decisions to enter or exit positions, potentially enhancing profitability. While it has its limitations, the strategy's simplicity and adaptability make it a valuable tool in the arsenal of both novice and experienced traders. As with any trading strategy, thorough [backtesting](../b/backtesting.md) and [risk management](../r/risk_management.md) are essential for achieving consistent success in the markets.

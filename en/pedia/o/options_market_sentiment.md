@@ -6,9 +6,9 @@ Options market sentiment represents the collective mood or outlook of participan
 
 ### 1. Put-Call Ratio
 
-The put-call ratio is a widely-used indicator to gauge market sentiment. It is calculated by dividing the number of traded put options by the number of traded call options. This ratio provides insights into whether investors are predominantly buying more calls (bullish sentiment) or more puts (bearish sentiment).
+The put-call ratio is a widely-used indicator to gauge market sentiment. It is calculated by dividing the number of traded [put options](../p/put_options.md) by the number of traded call options. This ratio provides insights into whether investors are predominantly buying more calls (bullish sentiment) or more puts (bearish sentiment).
 
-- **Formula:** Put-Call Ratio = \(\frac{\text{Volume of Put Options}}{\text{Volume of Call Options}}\)
+- **Formula:** Put-Call Ratio = \(\frac{\text{Volume of [Put Options](../p/put_options.md)}}{\text{Volume of Call Options}}\)
 - **Interpretation:**
   - A high put-call ratio suggests a bearish sentiment as more puts are being bought.
   - A low put-call ratio indicates a bullish sentiment as more calls are being bought.
@@ -18,7 +18,7 @@ The put-call ratio is a widely-used indicator to gauge market sentiment. It is c
 Implied volatility (IV) is a metric that reflects the market's expectation of the future volatility of an asset's price. Higher implied volatility suggests that the market expects significant price movements (often associated with uncertainty or upcoming events), whereas lower implied volatility suggests a more stable outlook.
 
 - **Sources:**
-  - **CBOE Volatility Index (VIX):** Often referred to as the "fear gauge," the VIX measures the implied volatility of S&P 500 index options and is a popular indicator of market sentiment.
+  - **CBOE Volatility Index (VIX):** Often referred to as the "fear gauge," the VIX measures the implied volatility of S&P 500 [index options](../i/index_options.md) and is a popular indicator of market sentiment.
     - [CBOE VIX Information](https://www.cboe.com/tradable_products/vix/)
 
 ### 3. Open Interest
@@ -31,7 +31,7 @@ Open interest refers to the total number of outstanding options contracts (calls
 
 ### 4. Skew
 
-The skew, or volatility skew, refers to the difference in implied volatility between out-of-the-money (OTM) puts, at-the-money (ATM) options, and OTM calls. The skew provides insights into the relative demand for protection against downside risks (put options) compared to upside potential (call options).
+The skew, or [volatility skew](../v/volatility_skew.md), refers to the difference in implied volatility between out-of-the-money (OTM) puts, at-the-money (ATM) options, and OTM calls. The skew provides insights into the relative demand for protection against downside risks ([put options](../p/put_options.md)) compared to upside potential (call options).
 
 - **Skew Index:**
   - Measures the implied volatility of OTM puts relative to OTM calls.
@@ -45,7 +45,7 @@ A volatility smile is a graphical representation of implied volatility across di
 
 ### 6. Sentiment Surveys
 
-Sentiment surveys, such as the Investors Intelligence Survey or the AAII Investor Sentiment Survey, gather data from investors and market participants about their market outlook. These surveys provide a qualitative measure of market sentiment.
+[Sentiment surveys](../s/sentiment_surveys.md), such as the Investors Intelligence Survey or the AAII Investor Sentiment Survey, gather data from investors and market participants about their market outlook. These surveys provide a qualitative measure of market sentiment.
 
 - **AAII Investor Sentiment Survey:**
   - [AAII Sentiment Survey](https://www.aaii.com/sentimentsurvey)
@@ -68,29 +68,29 @@ Analysts also observe volume and price action to discern market sentiment. Highe
 
 ## Applications of Options Market Sentiment
 
-Options market sentiment analysis has diverse applications, including hedging strategies, trading, risk management, and financial modeling.
+Options [market sentiment analysis](../m/market_sentiment_analysis.md) has diverse applications, including [hedging strategies](../h/hedging_strategies.md), trading, [risk management](../r/risk_management.md), and [financial modeling](../f/financial_modeling.md).
 
 ### Trading Strategies
 
-Traders utilize sentiment indicators to develop trading strategies that capitalize on the predicted market direction. For example, a trader might use a low put-call ratio to go long on the asset, anticipating a bullish market trend. Conversely, a high put-call ratio might prompt short-selling or the purchase of protective puts.
+Traders utilize [sentiment indicators](../s/sentiment_indicators.md) to develop [trading strategies](../t/trading_strategies.md) that capitalize on the predicted market direction. For example, a trader might use a low put-call ratio to go long on the asset, anticipating a bullish market trend. Conversely, a high put-call ratio might prompt short-selling or the purchase of protective puts.
 
 ### Hedging and Risk Management
 
-Understanding market sentiment helps in devising effective hedging strategies. For instance, a risk manager sensing a bearish sentiment might increase the portfolio's protective puts or adjust asset allocations to mitigate potential downturns.
+Understanding market sentiment helps in devising effective [hedging strategies](../h/hedging_strategies.md). For instance, a risk manager sensing a bearish sentiment might increase the portfolio's protective puts or adjust asset allocations to mitigate potential downturns.
 
 ### Market Timing
 
-Investors and fund managers employ sentiment analysis for market timing, deciding when to enter or exit positions based on prevailing sentiment indicators. This approach can enhance portfolio performance by aligning with broader market trends.
+Investors and fund managers employ [sentiment analysis](../s/sentiment_analysis.md) for [market timing](../m/market_timing.md), deciding when to enter or exit positions based on prevailing [sentiment indicators](../s/sentiment_indicators.md). This approach can enhance [portfolio performance](../p/portfolio_performance.md) by aligning with broader market trends.
 
 ### Investor Psychology
 
-Sentiment analysis delves into the psychological aspect of the market, reflecting collective investor behavior and emotional drivers behind market movements. Recognizing these psychological patterns can lead to better-informed investment decisions.
+[Sentiment analysis](../s/sentiment_analysis.md) delves into the psychological aspect of the market, reflecting collective investor behavior and emotional drivers behind market movements. Recognizing these psychological patterns can lead to better-informed investment decisions.
 
 ## Conclusion
 
-The understanding of options market sentiment is a vital tool for traders, analysts, and investors. By analyzing indicators such as the put-call ratio, implied volatility, open interest, and skew, market participants can gain valuable insights into future market direction and investor sentiment. Incorporating these insights into trading strategies, risk management, and market timing enhances decision-making and can lead to more effective portfolio management.
+The understanding of options market sentiment is a vital tool for traders, analysts, and investors. By analyzing indicators such as the put-call ratio, implied volatility, open interest, and skew, market participants can gain valuable insights into future market direction and investor sentiment. Incorporating these insights into [trading strategies](../t/trading_strategies.md), [risk management](../r/risk_management.md), and [market timing](../m/market_timing.md) enhances decision-making and can lead to more effective [portfolio management](../p/portfolio_management.md).
 
-For further reading and real-time sentiment analysis tools, traders and investors can explore resources from financial market platforms and institutions, such as the Chicago Board Options Exchange (CBOE) and the American Association of Individual Investors (AAII).
+For further reading and real-time [sentiment analysis](../s/sentiment_analysis.md) tools, traders and investors can explore resources from financial market platforms and institutions, such as the Chicago Board Options Exchange (CBOE) and the American Association of Individual Investors (AAII).
 
 - **CBOE Options Institute:** [CBOE Educational Resources](https://www.cboe.com/learncenter/)
 - **AAII:** [AAII](https://www.aaii.com/)

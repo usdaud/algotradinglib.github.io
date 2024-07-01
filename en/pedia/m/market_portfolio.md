@@ -4,7 +4,7 @@ The market portfolio is a theoretical bundle of investments that includes every 
 
 ## Theory and Origin
 
-The concept of the market portfolio is heavily grounded in the Capital Asset Pricing Model (CAPM), a foundational principle in modern finance theory. The CAPM states that the expected return of a portfolio equals the rate on a risk-free security plus a risk premium. This risk premium is proportional to the risk (as measured by the variation in portfolio return) and the amount of risk (as measured by the beta coefficient of the asset relative to the market portfolio).
+The concept of the market portfolio is heavily grounded in the Capital Asset Pricing Model (CAPM), a foundational principle in modern finance theory. The CAPM states that the expected return of a portfolio equals the rate on a risk-free security plus a risk premium. This risk premium is proportional to the risk (as measured by the variation in portfolio return) and the amount of risk (as measured by the [beta coefficient](../b/beta_coefficient.md) of the asset relative to the market portfolio).
 
 ## Mathematical Representation
 
@@ -36,7 +36,7 @@ For example:
 
 ## Diversification Benefits
 
-The market portfolio exemplifies perfect diversification, eliminating unsystematic risk (specific to individual assets). The remaining risk is the systematic risk inherent to the market.
+The market portfolio exemplifies perfect diversification, eliminating unsystematic risk (specific to individual assets). The remaining risk is the [systematic risk](../s/systematic_risk.md) inherent to the market.
 
 ## Role in Portfolio Management
 
@@ -46,7 +46,7 @@ For portfolio managers, the market portfolio serves as:
 
 ## Efficient Frontier and Market Portfolio
 
-In the context of the efficient frontier, the market portfolio lies on the Capital Market Line (CML), representing the best possible risk-return combination obtainable by investing in a mix of the risk-free asset and the market portfolio.
+In the context of the [efficient frontier](../e/efficient_frontier.md), the market portfolio lies on the Capital Market Line (CML), representing the best possible risk-return combination obtainable by investing in a mix of the risk-free asset and the market portfolio.
 
 \[ CML: E(R_p) = R_f + \frac{E(R_m) - R_f}{\sigma_m} \times \sigma_p \]
 
@@ -55,24 +55,24 @@ Where:
 
 ## Sharpe Ratio
 
-A key performance measure using the market portfolio is the Sharpe Ratio, which assesses excess return per unit of risk. For the market portfolio:
+A key performance measure using the market portfolio is the [Sharpe Ratio](../s/sharpe_ratio.md), which assesses excess return per unit of risk. For the market portfolio:
 
-\[ \text{Sharpe Ratio} = \frac{E(R_m) - R_f}{\sigma_m} \]
+\[ \text{[Sharpe Ratio](../s/sharpe_ratio.md)} = \frac{E(R_m) - R_f}{\sigma_m} \]
 
 ## Market Portfolio in Asset Pricing
 
-Asset pricing models utilize the market portfolio to determine the appropriate expected returns on risky securities. It's a cornerstone in:
+[Asset pricing models](../a/asset_pricing_models.md) utilize the market portfolio to determine the appropriate expected returns on risky securities. It's a cornerstone in:
 
 1. **Security Market Line (SML)**: Represents the relationship between the risk (beta) and expected return of the assets.
-2. **Arbitrage Pricing Theory (APT)**: Uses multiple factors including the market portfolio to explain returns.
+2. **[Arbitrage](../a/arbitrage.md) Pricing Theory (APT)**: Uses multiple factors including the market portfolio to explain returns.
 
 ## Limitations
 
 Despite its theoretical importance, the market portfolio faces several practical challenges:
 1. **Uniqueness and Definition**: Difficulties in accurately quantifying and accessing all available global assets.
-2. **Assumption Dependencies**: Relies on the assumption of market efficiency, which may not always hold true.
+2. **Assumption Dependencies**: Relies on the assumption of [market efficiency](../m/market_efficiency.md), which may not always hold true.
 
 ## Conclusion
 
-The market portfolio remains a vital theoretical construct in finance, offering insights into diversification, risk management, and asset pricing. While its real-world exactitude is unattainable, proxies and models derived from its principles continue to guide investors and academia in understanding market dynamics and investment strategies.
+The market portfolio remains a vital theoretical construct in finance, offering insights into diversification, [risk management](../r/risk_management.md), and asset pricing. While its real-world exactitude is unattainable, proxies and models derived from its principles continue to guide investors and academia in understanding market dynamics and investment strategies.
 
