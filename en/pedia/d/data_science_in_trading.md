@@ -1,6 +1,4 @@
-Data Science in Trading
-
----
+# Data Science in Trading
 
 ## Introduction to Data Science in Trading
 
@@ -124,5 +122,3 @@ For more information on companies specializing in data science for trading, refe
 - [Numerai](https://numer.ai/): A hedge fund that crowdsources data science and machine learning to create stock market predictions.
 - [Kensho Technologies](https://www.kensho.com/): Develops data analytics and machine learning solutions for financial markets.
 - [QuantConnect](https://www.quantconnect.com/): An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that integrates data science and cloud computing.
-
----

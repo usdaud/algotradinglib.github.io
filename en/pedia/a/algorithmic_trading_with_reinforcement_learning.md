@@ -1,3 +1,5 @@
+# Algorithmic Trading With Reinforcement Learning
+
 [Algorithmic trading](../a/algorithmic_trading.md), or simply algotrading, refers to the use of computer algorithms to automate the process of trading financial instruments at high speeds and frequencies. These algorithms make decisions and execute trades based on pre-programmed criteria. The goal is to profit from market opportunities that are often transient and cannot be exploited through manual trading.
 
 One fascinating and evolving aspect of [algorithmic trading](../a/algorithmic_trading.md) is the use of reinforcement learning (RL), a subfield of artificial intelligence. This document explores the intricate relationship between reinforcement learning and [algorithmic trading](../a/algorithmic_trading.md), unveiling its potential, strategies, benefits, and challenges.

@@ -1,3 +1,5 @@
+# Algorithmic execution
+
 Algorithmic execution refers to the use of computer algorithms to carry out trading orders with minimum market impact and often at the most advantageous prices possible. This technique is prevalently used in financial markets by institutional investors, hedge funds, and trading firms to achieve efficient trading outcomes. The algorithms are designed to determine various parameters of trading orders such as timing, pricing, and quantity, thereby automating the process that would traditionally be handled manually by traders. Algorithmic execution aims to minimize [trading costs](../t/trading_costs.md) and mitigate the risks associated with human error, ensuring higher consistency and accuracy.
 
 Algorithmic execution can be classified into various strategies, each designed to optimize different aspects of trading. Key strategies include:

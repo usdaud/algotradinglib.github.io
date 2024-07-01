@@ -1,4 +1,4 @@
-Algorithmic Volatility Trading
+# Algorithmic Volatility Trading
 
 Algorithmic Volatility Trading involves using algorithms to exploit price variations arising from market volatility. This specialized form of trading leverages complex mathematical models and statistical techniques to predict and profit from fluctuations in market prices. It plays a crucial role in enhancing [market efficiency](../m/market_efficiency.md), reducing [trading costs](../t/trading_costs.md), and providing liquidity. In this article, we will explore the techniques, models, tools, and key players in algorithmic volatility trading as well as its benefits and challenges.
 

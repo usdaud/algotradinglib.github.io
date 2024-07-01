@@ -1,3 +1,5 @@
+# Algorithmic Trading in Derivatives Markets
+
 [Algorithmic trading](../a/algorithmic_trading.md), also known as automated trading, black-box trading, or algo-trading, involves the use of computer algorithms to execute a large volume of trades at very high speeds. These algorithms are designed to follow pre-defined set of rules or instructions based on timing, price, quantity, or other mathematical models. [Algorithmic trading](../a/algorithmic_trading.md) is widely used in various financial markets, including the [derivatives](../d/derivatives.md) markets. A derivative is a financial security with a value that is reliant upon, or derived from, an underlying asset or group of assets—a benchmark. The derivative itself is a contract between two or more parties based upon the asset or assets. Its price is determined by fluctuations in the underlying asset.
 
 ### Key Concepts in Algorithmic Trading in Derivatives Markets

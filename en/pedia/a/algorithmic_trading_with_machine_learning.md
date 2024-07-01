@@ -1,3 +1,5 @@
+# Algorithmic Trading With Matchine Learning
+
 [Algorithmic trading](../a/algorithmic_trading.md), commonly referred to as algo-trading, leverages computer algorithms to automatically make trading decisions and execute orders based on predefined criteria. Over the last decade, machine learning (ML) has significantly enhanced the capabilities of [algorithmic trading](../a/algorithmic_trading.md) by allowing systems to continuously learn from data and improve their performance. This document explores the intersection between [algorithmic trading](../a/algorithmic_trading.md) and machine learning, providing a detailed examination of various elements involved.
 
 ## Introduction to Algorithmic Trading

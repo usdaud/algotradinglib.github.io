@@ -1,3 +1,5 @@
+# Automated Chart Pattern Recognition
+
 Automated Chart [Pattern Recognition](../p/pattern_recognition.md) is a major subset of [algorithmic trading](../a/algorithmic_trading.md) that focuses on the utilization of algorithms for identifying patterns in financial charts. This technology enables traders to execute trades based on both historical and [real-time data analysis](../r/real-time_data_analysis.md). Here’s a detailed description of the key concepts, techniques, and applications in Automated Chart [Pattern Recognition](../p/pattern_recognition.md).
 
 ## Introduction
