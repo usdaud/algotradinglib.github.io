@@ -1,4 +1,4 @@
-Algorithmic Exchange-Traded Fund (ETF) Trading
+# Algorithmic ETF Trading
 
 ### Overview
 [Algorithmic trading](../a/algorithmic_trading.md), also known as algo trading, is a method of executing orders using automated, pre-programmed trading instructions accounting for variables such as time, price, and volume. This sophisticated form of trading has gained significant traction in various markets, including the trading of Exchange-Traded Funds (ETFs).

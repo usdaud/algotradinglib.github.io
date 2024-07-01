@@ -1,3 +1,5 @@
+# Algorithm Efficiency
+
 Algorithm efficiency refers to a measure of the amount of computational resources an algorithm uses to complete a task. In [algorithmic trading](../a/algorithmic_trading.md), the efficiency of algorithms is crucial as it directly impacts the performance of [trading strategies](../t/trading_strategies.md). Efficient algorithms can handle more data, execute trades faster, and make better decisions in real-time, thus providing a competitive edge in financial markets. The efficiency of an algorithm is often evaluated based on its time complexity, space complexity, and in some cases, other metrics such as energy consumption. 
 
 ### Time Complexity

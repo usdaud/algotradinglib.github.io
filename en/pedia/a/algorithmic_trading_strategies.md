@@ -1,5 +1,3 @@
-[Algorithmic trading](../a/algorithmic_trading.md), also known as algotrading, employs computer programs to trade in modern financial markets. Algorithms use rules and predetermined instructions coded into software to automatically make trading decisions. It leverages technology to execute orders containing multiple variables more efficiently than human traders. [Algorithmic trading](../a/algorithmic_trading.md) enables high-frequency trading (HFT), where transactions can be executed at blistering speeds, sometimes completing in mere milliseconds. This automated trading often results in lower transaction costs and improved market liquidity. Understanding various [algorithmic trading](../a/algorithmic_trading.md) strategies is key to benefiting from this technological advancement.
-
 # Algorithmic Trading Strategies
 
 ## 1. Trend Following Strategies

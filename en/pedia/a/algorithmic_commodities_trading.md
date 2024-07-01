@@ -1,4 +1,4 @@
-Algorithmic [Commodities Trading](../c/commodities_trading.md)
+# Algorithmic Commodities Trading
 
 Algorithmic [commodities trading](../c/commodities_trading.md), commonly referred to as "algo trading," involves using computer programs and algorithms to trade commodities based on pre-defined criteria. These criteria can include price, volume, time, and other market factors. By leveraging advanced mathematical models and fast computing power, [algorithmic trading](../a/algorithmic_trading.md) systems can make decisions and execute trades far more quickly and accurately than a human trader could.
 
