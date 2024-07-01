@@ -4,12 +4,23 @@ title: Algorithmic Trading
 lang: en
 ---
 
-<section id="brokers">
-  <h2><a href="brokers/">Brokers and exchanges</a></h2>
-</section>
-<section id="soft">
-  <h2><a href="soft/">Software</a></h2>
-</section>
-<section id="pedia">
-  <h2><a href="pedia/">Encyclopedia</a></h2>
-</section>
+<div class="section-grid">
+  <div class="section-item" id="brokers">
+    <a href="brokers/">
+      <i class="fas fa-exchange-alt"></i>
+      <h2>Brokers and exchanges</h2>
+    </a>
+  </div>
+  <div class="section-item" id="soft">
+    <a href="soft/">
+      <i class="fas fa-laptop-code"></i>
+      <h2>Software</h2>
+    </a>
+  </div>
+  <div class="section-item" id="pedia">
+    <a href="pedia/">
+      <i class="fas fa-book"></i>
+      <h2>Encyclopedia</h2>
+    </a>
+  </div>
+</div>
