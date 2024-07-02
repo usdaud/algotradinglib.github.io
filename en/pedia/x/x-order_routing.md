@@ -1,4 +1,4 @@
-# X-Order Routing in Algorithmic Trading
+# X-Order Routing
 
 In the ever-competitive world of [algorithmic trading](../a/algorithmic_trading.md), maintaining an edge over competitors is a constant challenge. One of the technological advancements that have significantly contributed to this field's evolution is X-[Order Routing](../o/order_routing.md). X-[Order Routing](../o/order_routing.md) is an advanced order-matching and execution algorithm designed to optimally direct trade orders to achieve the best possible outcome in terms of price, speed, and overall execution quality. This document delves into the intricacies of X-[Order Routing](../o/order_routing.md), exploring its mechanics, benefits, challenges, and the major players leveraging this technology.
 

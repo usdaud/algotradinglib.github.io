@@ -1,4 +1,4 @@
-# X-Normal Returns in Algorithmic Trading
+# X-Normal Returns
 
 X-Normal Returns are a crucial concept in the realm of [algorithmic trading](../a/algorithmic_trading.md), which involves using computer algorithms to automatically execute trades based on predefined criteria. The term "X-Normal Returns" has its roots in financial statistics and refers to returns that have been normalized or adjusted in some way to better understand their distribution, shed light on the performance of an investment relative to a benchmark, or highlight discrepancies and opportunities.
 

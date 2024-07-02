@@ -1,4 +1,4 @@
-# Winning Edge in Trading
+# Winning Edge
 
 In the world of financial markets, having a winning edge is crucial for consistent profitability. A winning edge in trading can be defined as a systematic and measurable advantage that a trader or trading system has over the market or other participants. This edge can stem from various sources including superior knowledge, advanced technology, unique [trading strategies](../t/trading_strategies.md), or a deep psychological understanding of market behavior. Here's an in-depth exploration of different types of edges and how they can be leveraged in trading.
 

@@ -1,4 +1,4 @@
-## Wicks in Candlestick Patterns
+# Wicks in Candlestick Patterns
 
 ### Introduction to Candlestick Patterns
 

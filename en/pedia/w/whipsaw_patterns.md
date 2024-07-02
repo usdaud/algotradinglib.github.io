@@ -1,4 +1,4 @@
-## Whipsaw Patterns in Algorithmic Trading
+# Whipsaw Patterns
 
 In the world of financial trading, a "whipsaw" refers to a particularly volatile market condition characterized by a sharp price movement in one direction followed by a strong move in the opposite direction. In [algorithmic trading](../a/algorithmic_trading.md) (algo-trading), understanding and managing whipsaw patterns is crucial because such patterns can generate false signals, leading to suboptimal trade executions and financial losses. This document seeks to provide a comprehensive overview of whipsaw patterns, their implications in algo-trading, and strategies to mitigate their effects.
 

@@ -1,4 +1,4 @@
-# Wage Growth Impact on Algorithmic Trading
+# Wage Growth Impact
 
 Wage growth refers to the rate at which the average income of workers in an economy increases over time. It is a critical indicator of economic health and plays a significant role in influencing various financial markets, including the stock market. In recent years, [algorithmic trading](../a/algorithmic_trading.md) (algotrading) has become increasingly prevalent in these markets, driven by the potential for higher efficiency and profitability. This document will delve into the intricate dynamics of how wage growth impacts [algorithmic trading](../a/algorithmic_trading.md), exploring the reasons behind these effects, the methods used by algotrading systems to account for wage growth, and the ways in which different sectors and financial instruments respond.
 

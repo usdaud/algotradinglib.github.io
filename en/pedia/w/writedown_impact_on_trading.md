@@ -1,4 +1,4 @@
-# Writedown Impact on Trading
+# Writedown Impact
 
 A writedown is an accounting action in which the book value of an asset is reduced because it is overvalued compared to the market value. This can happen for various reasons, including depreciation, market conditions, or obsolescence. Writedowns can significantly affect trading activities, investor sentiments, and overall market dynamics. This discussion will delve into the different facets of writedown impacts on trading, covering financial metrics, market reactions, psychological aspects, and long-term implications.
 

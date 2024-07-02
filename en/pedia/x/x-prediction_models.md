@@ -1,4 +1,4 @@
-# X-Prediction Models in Algorithmic Trading
+# X-Prediction Models
 
 In the domain of [algorithmic trading](../a/algorithmic_trading.md), X-prediction models refer to advanced predictive models designed to forecast future price movements or financial market trends. These models leverage machine learning, statistical, and computational techniques to identify patterns and make predictions based on historical and real-time data.
 

@@ -1,4 +1,4 @@
-# **Williams %R: A Detailed Exploration of the Williams Percent Range Indicator in Algo Trading**
+# Williams %R
 
 ---
 

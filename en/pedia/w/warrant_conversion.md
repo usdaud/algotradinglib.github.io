@@ -1,4 +1,4 @@
-### Warrant Conversion in Algorithmic Trading
+# Warrant Conversion
 
 #### Definition of Warrants
 

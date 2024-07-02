@@ -1,4 +1,4 @@
-## Winning Trade Ratios in Algorithmic Trading
+# Winning Trade Ratios
 
 ### Introduction
 Winning Trade Ratios (WTR) is a crucial metric in [algorithmic trading](../a/algorithmic_trading.md) that quantitively assesses the percentage of profitable trades executed by a trading strategy or software. It is used by traders and quantitative analysts to evaluate the effectiveness of their [trading algorithms](../t/trading_algorithms.md). The higher the winning trade ratio, the better the performance of the trading strategy.

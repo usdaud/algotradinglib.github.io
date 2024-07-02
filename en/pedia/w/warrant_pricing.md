@@ -1,4 +1,4 @@
-### Warrant Pricing
+# Warrant Pricing
 
 In the realm of financial instruments, a warrant is a derivative that confers the right (but not the obligation) to purchase a company's stock at a specified price before a certain date. Warrant pricing becomes a critical component in their valuation, determining their appeal to investors and their impact on market dynamics. To accurately price warrants, several models and factors need to be accounted for, drawing from areas like financial [derivatives](../d/derivatives.md), statistics, and economic theories. 
 

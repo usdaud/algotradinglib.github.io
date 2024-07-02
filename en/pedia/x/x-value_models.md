@@ -1,4 +1,4 @@
-# X-Value Models in Algorithmic Trading
+# X-Value Models
 
 [Algorithmic trading](../a/algorithmic_trading.md), often simply referred to as algo trading, leverages computer algorithms to buy and sell financial securities based on a predefined set of rules. These rules are designed to maximize trading efficiency and profitability while minimizing human error and emotional decision-making. An integral part of many [algorithmic trading](../a/algorithmic_trading.md) strategies is the use of X-Value Models (XVM), which are financial models used to value securities, identify trading opportunities, and manage risk. This extensive overview will delve into the concept, methodologies, applications, and implications of X-Value Models in the realm of [algorithmic trading](../a/algorithmic_trading.md).
 

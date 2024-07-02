@@ -1,4 +1,4 @@
-# **X-Price Modeling in Algorithmic Trading**
+# X-Price Modeling
 
 X-Price modeling is an advanced analytical technique used in [algorithmic trading](../a/algorithmic_trading.md) to predict future price movements of various financial instruments. This modeling relies on a combination of mathematical and statistical tools to create highly sophisticated algorithms capable of making precise trading decisions. Here's a comprehensive look into the various components, methodologies, and applications of X-Price modeling in [algorithmic trading](../a/algorithmic_trading.md).
 

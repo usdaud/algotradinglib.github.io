@@ -1,4 +1,4 @@
-# X-Time Series Models in Algorithmic Trading
+# X-Time Series Models
 
 Time series models are indispensable tools in the realm of [algorithmic trading](../a/algorithmic_trading.md). They allow traders to predict future values based on previously observed data, making them pivotal for developing [trading strategies](../t/trading_strategies.md), managing risk, and optimizing portfolios. Leveraging time series models increases the precision and potential profitability of trades by accounting for temporal dependencies in financial data.
 

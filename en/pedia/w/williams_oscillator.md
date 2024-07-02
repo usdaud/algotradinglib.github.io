@@ -1,4 +1,4 @@
-### Williams %R Oscillator: A Comprehensive Overview
+# Williams %R Oscillator
 
 #### Introduction
 The [Williams %R](../w/williams_%r.md) oscillator, developed by famed trader Larry Williams, is a momentum-based [technical analysis](../t/technical_analysis.md) indicator that helps traders identify overbought and oversold market conditions. Unlike other oscillators, such as the Relative Strength Index (RSI) and the [Stochastic Oscillator](../s/stochastic_oscillator.md), the [Williams %R](../w/williams_%r.md) operates on a negative scale and is primarily used to pinpoint market turning points. It is highly regarded for its simplicity and effectiveness in a variety of trading scenarios.

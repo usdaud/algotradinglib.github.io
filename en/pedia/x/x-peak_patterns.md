@@ -1,4 +1,4 @@
-# X-Peak Patterns in Algorithmic Trading
+# X-Peak Patterns
 
 ## Introduction
 

@@ -1,4 +1,4 @@
-# X-Order Management in Algorithmic Trading
+# X-Order Management
 
 ## Introduction to X-Order Management
 

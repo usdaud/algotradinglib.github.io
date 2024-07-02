@@ -1,4 +1,4 @@
-### X-Signal Processing in Algorithmic Trading
+# X-Signal Processing
 
 #### Introduction to X-Signal Processing
 

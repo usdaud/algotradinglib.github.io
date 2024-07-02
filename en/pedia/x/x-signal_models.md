@@ -1,4 +1,4 @@
-### X-Signal Models in Algorithmic Trading
+# X-Signal Models
 
 X-Signal Models represent advanced quantitative methods used in [algorithmic trading](../a/algorithmic_trading.md) to generate predictive signals based on complex data analytics. These models use machine learning techniques, statistical methods, and high-performance computing to detect patterns and trends in massive datasets, effectively capturing the market's intricacies to identify profitable trading opportunities. 
 

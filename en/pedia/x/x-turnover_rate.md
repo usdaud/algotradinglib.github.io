@@ -1,4 +1,4 @@
-# X-Turnover Rate in Algorithmic Trading
+# X-Turnover Rate
 
 In the realm of [algorithmic trading](../a/algorithmic_trading.md), the turnover rate is a critical metric employed to evaluate the frequency with which a trading strategy opens and closes positions within a specific period. The X-Turnover Rate, in particular, offers a nuanced interpretation of this concept, providing profound insights into the performance and characteristics of [algorithmic trading](../a/algorithmic_trading.md) systems.
 

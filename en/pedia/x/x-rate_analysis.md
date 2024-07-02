@@ -1,4 +1,4 @@
-# X-Rate Analysis in Algorithmic Trading
+# X-Rate Analysis
 
 When it comes to the realm of [algorithmic trading](../a/algorithmic_trading.md), there are various sophisticated methods employed to maximize profits and minimize risks. One such technique is the analysis of cross-exchange rates or X-rate analysis. This method involves the scrutiny and arbitration of currency pairs across different markets and platforms. In this comprehensive guide, we’ll dive deep into the intricacies of X-rate analysis, discussing the fundamental concepts, practical applications, as well as the cutting-edge technologies that facilitate it.
 

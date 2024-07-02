@@ -1,4 +1,4 @@
-## X-Order Flow in Algorithmic Trading
+# X-Order Flow
 
 ### Introduction
 The concept of X-Order Flow refers to the analysis and interpretation of order flow data to make informed trading decisions in the realm of [algorithmic trading](../a/algorithmic_trading.md). Order flow is the transaction history reflecting the buy and sell orders executed in the marketplace. It offers profound insights into market sentiment, liquidity, and the forces driving price movements.

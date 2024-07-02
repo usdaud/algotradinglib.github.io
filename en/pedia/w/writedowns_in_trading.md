@@ -1,4 +1,4 @@
-## Writedowns in Trading
+# Writedowns
 
 Writedowns in trading are significant accounting and financial mechanisms that often impact companies' financial statements, valuations of assets, and ultimately shareholders' wealth. Given their importance in the financial world, let’s delve into a comprehensive exploration of writedowns, including their nature, causes, effects, and examples in trading and broader financial contexts.
 

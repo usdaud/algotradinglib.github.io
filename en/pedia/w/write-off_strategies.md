@@ -1,4 +1,4 @@
-# Write-Off Strategies in Algorithmic Trading
+# Write-Off Strategies
 
 ## Introduction
 

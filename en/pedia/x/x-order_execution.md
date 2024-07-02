@@ -1,4 +1,4 @@
-### X-Order Execution in Algorithmic Trading
+# X-Order Execution
 
 **[Algorithmic trading](../a/algorithmic_trading.md)**, commonly referred to as **algo trading**, involves using automated algorithmic tools to execute trades on financial markets. Within this larger framework, **X-Order Execution** represents a critical and sophisticated component essential for achieving optimal trading results. This guide delves deep into the intricacies of X-Order Execution, explaining its methodology, significance, and the cutting-edge strategies it employs.
 

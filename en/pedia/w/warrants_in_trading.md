@@ -1,4 +1,4 @@
-# Warrants in Trading
+# Warrants
 
 Warrants are financial instruments that give the holder the right, but not the obligation, to buy or sell a specific amount of an underlying asset at a predetermined price before a specified expiration date. They are typically issued by companies or financial institutions and traded on exchanges or [over-the-counter markets](../o/over-the-counter_markets.md). Warrants can be an attractive investment tool due to their potential for high returns relative to the initial investment. This document aims to provide a comprehensive overview of warrants in trading, their types, how they work, their advantages and disadvantages, and key considerations for investors.
 

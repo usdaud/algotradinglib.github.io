@@ -1,4 +1,4 @@
-# **X-Turnover Analysis in Algorithmic Trading**
+# X-Turnover Analysis
 
 [Algorithmic trading](../a/algorithmic_trading.md) has become a dominant force in the financial markets, leveraging mathematical models and electronic systems to execute trades at speeds and frequencies that human traders cannot match. One crucial aspect of [algorithmic trading](../a/algorithmic_trading.md) that investors and analysts focus on is the concept of X-turnover, as it provides an insightful measure into the trading efficiency and behavior of algorithmic operations.
 

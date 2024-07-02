@@ -1,4 +1,4 @@
-## Wash Sale Rule
+# Wash Sale Rule
 
 The Wash Sale Rule is a regulation set forth by the Internal Revenue Service (IRS) in the United States, aimed at preventing taxpayers from claiming a tax deduction for a security sold in a wash sale. A wash sale occurs when an investor sells a security at a loss and then repurchases the same or substantially identical security within 30 days before or after the sale. This rule can be confusing and has significant implications for individual traders and [algorithmic trading](../a/algorithmic_trading.md) strategies alike. 
 

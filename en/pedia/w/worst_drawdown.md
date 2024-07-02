@@ -1,4 +1,4 @@
-# Worst Drawdown in Algorithmic Trading
+# Worst Drawdown
 
 In the realm of [algorithmic trading](../a/algorithmic_trading.md), the concept of "drawdown" is of paramount importance to both traders and risk managers. A drawdown is typically expressed as the percentage decline from the peak value of an investment portfolio to its trough value over a specific period. However, when we talk about "worst drawdown" or "maximum drawdown," we're referring to the largest such decline an investment has experienced.
 

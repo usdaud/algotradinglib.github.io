@@ -1,4 +1,4 @@
-# Wavelet Analysis in Algorithmic Trading
+# Wavelet Analysis
 
 ## Introduction to Wavelet Analysis
 

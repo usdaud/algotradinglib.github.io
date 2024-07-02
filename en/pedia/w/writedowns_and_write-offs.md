@@ -1,4 +1,4 @@
-# Writedowns and Write-offs in Algorithmic Trading
+# Writedowns and Write-offs
 
 ## Introduction
 

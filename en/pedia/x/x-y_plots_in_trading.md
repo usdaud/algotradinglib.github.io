@@ -1,4 +1,4 @@
-# X-Y Plots in Trading
+# X-Y Plots
 
 ## Introduction
 In the realm of alogtrading, X-Y plots serve as fundamental visualization tools to represent the relationship between two variables. These plots, which are a core component of statistical analysis and [quantitative finance](../q/quantitative_finance.md), allow traders to visually interpret data, identify patterns, and make informed decisions based on the visual representation. This detailed exploration delves into the importance of X-Y plots in trading, their applications, and examples of how they can be utilized to enhance [trading strategies](../t/trading_strategies.md).

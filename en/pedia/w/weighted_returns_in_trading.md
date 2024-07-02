@@ -1,4 +1,4 @@
-# Weighted Returns in Trading
+# Weighted Returns
 
 In the domain of [algorithmic trading](../a/algorithmic_trading.md), "weighted returns" refers to a method of evaluating and balancing the returns of different assets in a portfolio based on several influencing factors, such as risk, capital invested, and individual asset performance. This approach helps in creating a diversified portfolio that aims to optimize returns while managing risks effectively. In this detailed guide, we will explore various aspects of weighted returns in trading, their importance, methods of calculating them, and tools used by traders to implement weighted returns strategies.
 

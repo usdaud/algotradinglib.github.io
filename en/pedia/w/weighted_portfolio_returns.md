@@ -1,4 +1,4 @@
-## Weighted Portfolio Returns
+# Weighted Portfolio Returns
 
 [Weighted portfolio](../w/weighted_portfolio.md) returns are a fundamental concept in finance and investment management. They represent the return on a portfolio constructed from various assets, where each asset's return contributes to the overall portfolio return in proportion to its weight in the portfolio. This methodology allows investors to evaluate the performance of a mixed investment strategy that involves different asset classes such as stocks, bonds, commodities, and other securities.
 

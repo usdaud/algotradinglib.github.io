@@ -1,4 +1,4 @@
-## X-Trend Following in Algorithmic Trading
+# X-Trend Following
 
 ### Introduction
 [Trend following](../t/trend_following.md) is a popular trading strategy that attempts to capture gains through the analysis of an asset's momentum in a particular direction. X-[Trend Following](../t/trend_following.md) is an advanced variant of this strategy that incorporates complex algorithms, machine learning models, and other sophisticated techniques to enhance the predictive capabilities and profitability of trend-following systems.

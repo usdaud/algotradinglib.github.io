@@ -1,4 +1,4 @@
-# X-Trade Execution in Algorithmic Trading
+# X-Trade Execution
 
 X-Trade Execution, or Cross-Trade Execution, is a sophisticated process in the realm of [algorithmic trading](../a/algorithmic_trading.md), which involves the concurrent buying and selling of financial instruments between participants via algorithms or trading desks. This technique efficiently matches orders to minimize market impact and transaction costs, ultimately improving trade performance. This document provides an in-depth exploration of the fundamental aspects of X-Trade Execution, including its mechanics, advantages, challenges, and application in modern financial markets.
 

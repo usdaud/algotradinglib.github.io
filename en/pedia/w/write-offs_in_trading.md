@@ -1,4 +1,4 @@
-## Write-Offs in Trading
+# Write-Offs
 
 ### Understanding Write-Offs
 
