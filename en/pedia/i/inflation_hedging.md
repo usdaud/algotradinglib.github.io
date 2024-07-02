@@ -1,4 +1,4 @@
-# **Inflation Hedging in Algorithmic Trading**
+# Inflation Hedging
 
 Inflation is the rate at which the general level of prices for goods and services is rising, and subsequently, purchasing power is falling. Central banks attempt to limit inflation, and avoid deflation, in order to keep the economy running smoothly. Inflation hedging involves strategies that help investors protect their portfolios from inflation's eroding effects. 
 

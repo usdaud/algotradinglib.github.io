@@ -1,4 +1,4 @@
-# J-Curve Dynamics in Trading
+# J-Curve Dynamics
 
 The concept of J-Curve Dynamics is a crucial framework within the realm of trading and finance, illustrating the progression of investment returns over time, often observed in [algorithmic trading](../a/algorithmic_trading.md) strategies. This term, originating from economic studies, is also highly relevant when applied to the performance and dynamics of trading portfolios and strategies.
 

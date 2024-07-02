@@ -1,4 +1,4 @@
-# Jensen's Inequality in Trading
+# Jensen's Inequality
 
 ## Introduction to Jensen's Inequality
 

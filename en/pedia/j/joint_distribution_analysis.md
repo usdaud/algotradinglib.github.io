@@ -1,4 +1,4 @@
-# Joint Distribution Analysis in Algorithmic Trading
+# Joint Distribution Analysis
 
 Joint distribution analysis is a fundamental concept in statistics, particularly relevant for [algorithmic trading](../a/algorithmic_trading.md). It involves studying the probability distribution of two or more random variables simultaneously. In the context of financial markets, this analysis can help traders understand the relationships and dependencies between different assets, thereby informing [trading strategies](../t/trading_strategies.md) and [risk management](../r/risk_management.md).
 

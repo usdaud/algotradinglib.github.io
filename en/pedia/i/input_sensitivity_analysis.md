@@ -1,4 +1,4 @@
-# Input Sensitivity Analysis in Algorithmic Trading
+# Input Sensitivity Analysis
 
 Input Sensitivity Analysis (ISA) is a technique used to determine how variation in the input of a model impacts the model's output. This kind of analysis is particularly crucial in fields like [algorithmic trading](../a/algorithmic_trading.md), where even small changes in input parameters can significantly affect [trading strategies](../t/trading_strategies.md) and outcomes.
 

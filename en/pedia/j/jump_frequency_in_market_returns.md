@@ -1,5 +1,4 @@
 # Jump Frequency in Market Returns
-================================
 
 **Overview**
 ---------------

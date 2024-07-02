@@ -1,4 +1,4 @@
-# **Index Correlation Analysis**
+# Index Correlation Analysis
 
 Index [correlation analysis](../c/correlation_analysis.md) is a crucial tool in financial markets and investment strategies, particularly for those involved in [algorithmic trading](../a/algorithmic_trading.md) (also known as algo-trading). This type of analysis involves evaluating the statistical relationships between various market indices to understand and forecast market movements, optimize portfolio allocation, and mitigate risks. Essentially, [correlation analysis](../c/correlation_analysis.md) provides insights into how different indices move in relation to each other, which can be extremely valuable for decision-making processes in trading and [portfolio management](../p/portfolio_management.md).
 

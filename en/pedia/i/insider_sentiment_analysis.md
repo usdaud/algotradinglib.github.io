@@ -1,4 +1,4 @@
-# **Insider Sentiment Analysis in Algorithmic Trading**
+# Insider Sentiment Analysis
 
 Insider [sentiment analysis](../s/sentiment_analysis.md) involves the scrutiny of internal trading activities and related insider behaviors to gauge potential future performance and derive [trading signals](../t/trading_signals.md). This approach leverages the unique insights of company insiders, who have access to non-public, material information about their organization's financial health and strategic directions. When systematically analyzed and integrated into algorithmic models, insider sentiment can significantly enhance [trading strategies](../t/trading_strategies.md) by providing a more profound understanding of the firms under observation.
 

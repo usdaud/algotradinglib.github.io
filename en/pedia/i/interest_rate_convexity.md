@@ -1,4 +1,4 @@
-### Interest Rate Convexity
+# Interest Rate Convexity
 
 Interest rate convexity is a key concept in fixed income and bond trading, critical for understanding the price sensitivity of bonds and other fixed-income securities to changes in interest rates. This concept becomes especially important in the context of algo trading ([algorithmic trading](../a/algorithmic_trading.md)), where precise modeling of interest rate movements and bond price reactions can significantly impact [trading strategies](../t/trading_strategies.md) and outcomes. 
 

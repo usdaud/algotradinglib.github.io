@@ -1,5 +1,4 @@
 # Index Tracking Strategies
-==========================
 
 In the financial world, index tracking strategies or index funds have gained significant popularity due to their relatively low costs, transparent strategies, and historical performance advantages over actively managed funds. These strategies aim to replicate the performance of a specific financial index, such as the S&P 500, the FTSE 100, or the MSCI World Index. This document delves into the intricate details of index tracking strategies, discussing their types, methodologies, advantages, risks, and key players in the industry.
 

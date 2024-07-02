@@ -1,4 +1,6 @@
-# Interest rate models are mathematical models used to describe the evolution of interest rates over time. These models are crucial in finance for the valuation of interest rate derivatives, risk management, and portfolio management. This document provides a detailed examination of several popular interest rate models, their applications, and their theoretical foundations.
+# Interest Rate Models
+
+Interest rate models are mathematical models used to describe the evolution of interest rates over time. These models are crucial in finance for the valuation of interest rate derivatives, risk management, and portfolio management. This document provides a detailed examination of several popular interest rate models, their applications, and their theoretical foundations.
 
 ## Vasicek Model
 

@@ -1,4 +1,4 @@
-### Inflation Risk Premium
+# Inflation Risk Premium
 
 The inflation risk premium, also known as the inflation premium, refers to the extra yield or return that investors demand to compensate for the potential risk that inflation will erode the purchasing power of their investment returns. This premium is a critical component of fixed-income securities, particularly in the context of government and corporate bonds, where future cash flows are more certain, but their real value can be significantly affected by changes in inflation rates.
 

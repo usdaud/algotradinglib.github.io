@@ -1,4 +1,4 @@
-## Joint Spectral Analysis in Trading
+# Joint Spectral Analysis
 
 Joint [Spectral Analysis](../s/spectral_analysis.md) (JSA) is a sophisticated method that examines the relationship between multiple time series by studying their spectral properties, which refer to the frequencies at which they oscillate. In the context of trading, this analysis can be used to uncover hidden patterns and correlations between different financial instruments, such as stocks, commodities, or indices, which could help algorithmic traders enhance their [trading strategies](../t/trading_strategies.md) and improve their predictive models.
 

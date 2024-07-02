@@ -1,4 +1,4 @@
-# Judgmental Biases in Trading
+# Judgmental Biases
 
 ## Introduction
 

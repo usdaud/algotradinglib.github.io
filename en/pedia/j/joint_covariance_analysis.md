@@ -1,4 +1,4 @@
-# Joint Covariance Analysis in Algorithmic Trading
+# Joint Covariance Analysis
 
 In the realm of [algorithmic trading](../a/algorithmic_trading.md), one of the essential statistical methods used for [portfolio optimization](../p/portfolio_optimization.md), [risk management](../r/risk_management.md), and [predictive modeling](../p/predictive_modeling.md) is Joint Covariance Analysis (JCA). Joint Covariance Analysis deals with understanding and quantifying the relationship between different financial instruments. By analyzing the covariances—how two asset prices move together—traders and financial modelers can gain deep insights into market dynamics, hedge portfolios, and develop strategies that can enhance returns while minimizing risk.
 

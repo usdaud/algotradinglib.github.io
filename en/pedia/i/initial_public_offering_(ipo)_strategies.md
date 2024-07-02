@@ -1,4 +1,4 @@
-## Initial Public Offering (IPO) Strategies
+# Initial Public Offering (IPO) Strategies
 
 An Initial Public Offering (IPO) is the process by which a private company becomes publicly traded on a stock exchange. An IPO allows a company to raise capital from public investors. Algorithms in trading (or algotrading) have a profound impact on IPO strategies, influencing the investment decisions of institutional and individual traders alike. In this comprehensive guide, we explore different IPO strategies within the context of [algorithmic trading](../a/algorithmic_trading.md).
 

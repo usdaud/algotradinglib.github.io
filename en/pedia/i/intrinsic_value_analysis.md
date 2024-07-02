@@ -1,4 +1,4 @@
-# Intrinsic Value Analysis in Algorithmic Trading
+# Intrinsic Value Analysis
 
 Intrinsic value analysis seeks to determine the inherent worth of a financial asset, often a stock, based on [fundamental analysis](../f/fundamental_analysis.md) without regard for its current market price. This process is essential in the field of [algorithmic trading](../a/algorithmic_trading.md), where quantitative strategies often require an accurate assessment of an asset's intrinsic value to make informed trading decisions or to identify potential [arbitrage](../a/arbitrage.md) opportunities.
 

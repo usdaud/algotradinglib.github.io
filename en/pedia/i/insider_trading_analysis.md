@@ -1,4 +1,6 @@
-# Insider trading analysis is a sophisticated and often controversial aspect of financial markets that involves studying trading activities conducted by individuals who have access to non-public, material information about a company. This analysis can provide valuable insights into market behavior, regulatory compliance, and potential investment opportunities. This document dives deep into the intricacies of insider trading analysis, examining its legal framework, methodologies, tools, and real-world applications, as well as ethical considerations.
+# Insider Trading Analysis
+
+Insider trading analysis is a sophisticated and often controversial aspect of financial markets that involves studying trading activities conducted by individuals who have access to non-public, material information about a company. This analysis can provide valuable insights into market behavior, regulatory compliance, and potential investment opportunities. This document dives deep into the intricacies of insider trading analysis, examining its legal framework, methodologies, tools, and real-world applications, as well as ethical considerations.
 
 ### Legal Framework of Insider Trading
 
