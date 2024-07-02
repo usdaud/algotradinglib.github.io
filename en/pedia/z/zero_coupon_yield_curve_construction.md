@@ -1,4 +1,4 @@
-## Zero Coupon Yield Curve Construction
+# Zero Coupon Yield Curve Construction
 
 Zero coupon [yield curve](../y/yield_curve.md) construction is a fundamental process in financial markets, providing a framework for understanding the [term structure of interest rates](../t/term_structure_of_interest_rates.md). This detailed discussion will cover various methods used to construct the zero coupon [yield curve](../y/yield_curve.md), analyzing their strengths and weaknesses. By understanding these methods, investors and financial professionals can enhance their ability to price bonds, assess interest rate risk, and manage portfolios.
 

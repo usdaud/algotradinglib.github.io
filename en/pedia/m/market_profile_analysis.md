@@ -1,4 +1,4 @@
-## Market Profile Analysis
+# Market Profile Analysis
 
 Market Profile Analysis is a powerful tool used by traders and market analysts to understand the underlying structure and behavior of financial markets. Originating from the [commodities trading](../c/commodities_trading.md) realm in the 1980s, the Market Profile was developed by J. Peter Steidlmayer, a trader at the Chicago Board of Trade (CBOT). Unlike traditional charting methods, Market Profile provides a unique way to look at price and volume distribution over a specific period, offering insights into market dynamics that can be invaluable for making trading decisions.
 

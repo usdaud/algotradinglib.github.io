@@ -1,4 +1,4 @@
-## Zero Inflation Bond
+# Zero Inflation Bond
 
 ### Introduction
 A Zero Inflation Bond, also known as a zero-coupon inflation-linked bond, is a type of financial instrument that provides protection against inflation while offering no periodic interest payments. These bonds are particularly attractive for investors seeking a hedge against inflationary pressures while preferring a lump sum payout at maturity. This type of bond ensures that the purchasing power of the invested capital is preserved, making it a strategic choice for long-term investors concerned with inflation erosion.

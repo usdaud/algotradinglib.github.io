@@ -1,4 +1,4 @@
-## Zero Interest Policy
+# Zero Interest Policy
 
 A Zero Interest Policy (ZIP) is an economic policy tool used by central banks, where the nominal interest rate is set at or near 0%. This measure is designed to stimulate economic growth by making borrowing cheaper, thereby encouraging businesses and individuals to take loans and invest or spend money. However, it can also present significant risks and challenges within financial markets, especially in the realm of [algorithmic trading](../a/algorithmic_trading.md) (algotrading).
 

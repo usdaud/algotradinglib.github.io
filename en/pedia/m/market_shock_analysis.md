@@ -1,4 +1,4 @@
-## Market Shock Analysis
+# Market Shock Analysis
 
 Market shock analysis is a critical aspect of [risk management](../r/risk_management.md) within the realm of [algorithmic trading](../a/algorithmic_trading.md) and financial markets. It involves quantitatively assessing the potential impacts of sudden, severe, and unexpected events on market conditions. These events, known as market shocks, can be triggered by a variety of factors including [geopolitical events](../g/geopolitical_events.md), economic data releases, natural disasters, or financial crises. The purpose of market shock analysis is to prepare and mitigate losses by understanding and managing the risks associated with these sudden changes in market behavior.
 

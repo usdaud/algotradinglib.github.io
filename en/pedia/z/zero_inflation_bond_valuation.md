@@ -1,4 +1,4 @@
-## Zero Inflation Bond Valuation
+# Zero Inflation Bond Valuation
 
 ### Introduction
 Zero Inflation Bonds, also known as Inflation-Indexed Bonds or [Inflation-Linked Bonds](../i/inflation-linked_bonds.md) (ILBs), are a type of fixed-income security designed to protect investors from inflation. Unlike traditional bonds, which pay a fixed nominal interest rate, the principal and interest payments of Zero Inflation Bonds are adjusted for inflation, typically linked to a widely recognized inflation index such as the Consumer Price Index (CPI). This ensures that the purchasing power of the bond's returns remains stable, regardless of inflationary pressures.

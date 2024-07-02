@@ -1,5 +1,4 @@
 # Zero Coupon Yield Analysis
----
 
 Zero Coupon [Yield Analysis](../y/yield_analysis.md) is a methodology used to evaluate the yield of zero-coupon bonds, which are a type of debt security that does not make periodic interest payments, or coupons, to the bondholder. Instead, zero-coupon bonds are issued at a substantial discount from their face value (par value), and the return to the investor is the difference between the purchase price and the amount received at maturity.
 

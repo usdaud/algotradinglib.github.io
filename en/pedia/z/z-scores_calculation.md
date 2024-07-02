@@ -1,4 +1,4 @@
-## Z-Scores Calculation
+# Z-Scores Calculation
 
 ### Introduction to Z-Scores
 

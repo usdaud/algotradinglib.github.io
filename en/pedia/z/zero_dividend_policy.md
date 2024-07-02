@@ -1,4 +1,4 @@
-### Zero Dividend Policy
+# Zero Dividend Policy
 
 Zero Dividend Policy, also known as a "no dividend policy," is a corporate decision where a company decides not to distribute any of its earnings as dividends to shareholders. Instead, the firm retains all of its quarterly or annual profits for reinvestment into the business, paying off debts, or other corporate purposes. This policy contrasts with a traditional dividend policy where companies distribute a part of their earnings to shareholders in the form of dividends.
 

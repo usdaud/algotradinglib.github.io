@@ -1,4 +1,4 @@
-# The Jump Diffusion Process in Options
+# Jump Diffusion Process in Options
 
 [Jump diffusion models](../j/jump_diffusion_models.md) have gained significant prominence in the field of financial mathematics, particularly in the domain of options pricing and [risk management](../r/risk_management.md). These models extend the classic Black-Scholes framework to capture the empirical phenomenon of asset price jumps, which are often observed in real financial markets. This comprehensive article explores the theoretical foundations, mathematical formulations, practical implementations, and implications of jump diffusion processes in options.
 
