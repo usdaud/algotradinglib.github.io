@@ -1,4 +1,4 @@
-# Understanding High Impact News Trading
+# High Impact News Trading
 
 High Impact News Trading is a sophisticated strategy employed by traders who leverage the timeliness and significance of economic news releases to make quick trading decisions. This approach harnesses the power of advanced algorithms to analyze and act on information faster than human capacity, providing a critical edge in the fast-paced world of financial markets.
 
