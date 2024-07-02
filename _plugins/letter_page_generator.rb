@@ -73,16 +73,23 @@ module Jekyll
       count = 0
       site.pages.each do |page|
         page_path = page.path.split('/')
+        starts_with_letter = page_path[2] && letter && page_path[2].to_s.downcase.start_with?(letter.to_s.downcase)
+
         if page_path.size >= 4 && 
            page_path[0] == lang && 
            page_path[1] == section && 
-           page_path[2] && letter && page_path[2].to_s.downcase.start_with?(letter.to_s.downcase) && 
+           starts_with_letter && 
            page.path.end_with?('.md') && 
            page.name != 'index.md'
           count += 1
           Jekyll.logger.info "LetterPageGenerator:", "Matched post: #{page.path}"
         else
-          Jekyll.logger.info "LetterPageGenerator:", "Not matched: #{page.path}, conditions: lang=#{page_path[0] == lang}, section=#{page_path[1] == section}, letter=#{page_path[2].downcase.start_with?(letter.downcase)}, md=#{page.path.end_with?('.md')}, not_index=#{page.name != 'index.md'}"
+          Jekyll.logger.info "LetterPageGenerator:", "Not matched: #{page.path}, " \
+            "conditions: lang=#{page_path[0] == lang}, " \
+            "section=#{page_path[1] == section}, " \
+            "letter=#{starts_with_letter}, " \
+            "md=#{page.path.end_with?('.md')}, " \
+            "not_index=#{page.name != 'index.md'}"
         end
       end
       Jekyll.logger.info "LetterPageGenerator:", "Counting posts for #{lang}/#{section}/#{letter}: #{count}"
