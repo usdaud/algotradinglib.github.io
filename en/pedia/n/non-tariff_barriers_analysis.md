@@ -1,4 +1,4 @@
-# Non-Tariff Barriers (NTBs) Analysis in Algorithmic Trading
+# Non-Tariff Barriers (NTBs) Analysis
 
 Non-tariff barriers (NTBs) are trade barriers that restrict the import or export of goods through mechanisms other than the simple imposition of tariffs. In the context of [algorithmic trading](../a/algorithmic_trading.md), NTBs can influence market access, create artificial supply constraints, and affect the pricing and availability of financial instruments. This comprehensive analysis will delve into the intricacies of NTBs, their types, and their implications for [algorithmic trading](../a/algorithmic_trading.md) strategies.
 

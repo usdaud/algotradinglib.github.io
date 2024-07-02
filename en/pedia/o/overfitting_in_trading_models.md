@@ -1,4 +1,4 @@
-## Overfitting in Trading Models
+# Overfitting in Trading Models
 
 Overfitting is a critical issue in the realm of [algorithmic trading](../a/algorithmic_trading.md) and [quantitative finance](../q/quantitative_finance.md). It occurs when a trading model or algorithm is excessively complex and describes random error or noise in the training data rather than underlying patterns or trends. This leads to poor generalization and often bad performance in real-world trading. In the context of [algorithmic trading](../a/algorithmic_trading.md), overfitting is particularly dangerous because it can result in misleading strategies that appear successful based on historical data but fail in live trading.
 

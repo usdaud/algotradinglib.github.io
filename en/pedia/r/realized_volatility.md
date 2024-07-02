@@ -1,4 +1,4 @@
-## Realized Volatility
+# Realized Volatility
 
 ### Introduction to Volatility
 

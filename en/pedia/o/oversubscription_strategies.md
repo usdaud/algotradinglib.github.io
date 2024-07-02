@@ -1,4 +1,4 @@
-## Oversubscription Strategies in Algorithmic Trading
+# Oversubscription Strategies
 
 Oversubscription in the context of financial markets typically refers to a situation where the demand for an offering, such as a new security or an initial public offering (IPO), exceeds the number of securities available. This phenomenon can also be applied to [algorithmic trading](../a/algorithmic_trading.md), where demand exceeds capacity in terms of orders processed or executed. In [algorithmic trading](../a/algorithmic_trading.md), oversubscription strategies aim to adeptly manage demand and capacity to optimize trading outcomes. These strategies can include technical solutions, priority algorithms, and innovative [trading models](../t/trading_models.md) designed to handle oversubscription efficiently.
 

@@ -1,4 +1,4 @@
-# Price Target Setting in Algorithmic Trading
+# Price Target Setting
 
 Price target setting is a crucial aspect of [algorithmic trading](../a/algorithmic_trading.md), which involves the use of advanced mathematical models and software to make trading decisions. In this context, price target setting refers to the practice of determining the optimal prices at which to buy or sell financial assets, such as stocks, bonds, or [derivatives](../d/derivatives.md), to achieve desired financial outcomes. This process incorporates various statistical techniques, algorithms, and data analysis to predict future price movements and set actionable entry and exit points.
 

@@ -1,4 +1,4 @@
-## NAV Correlation Analysis
+# NAV Correlation Analysis
 
 NAV, or Net Asset Value, is a critical concept in the world of finance and investment, particularly in relation to mutual funds, ETFs (Exchange-Traded Funds), and hedge funds. NAV represents the per-share value of a fund’s assets minus its liabilities. [Correlation analysis](../c/correlation_analysis.md), on the other hand, is a statistical method used to measure and interpret the strength and direction of the linear relationship between two variables. When applied to NAV, [correlation analysis](../c/correlation_analysis.md) can provide investors with valuable insights into the performance and behavior of different funds or assets, enabling them to make more informed investment decisions.
 

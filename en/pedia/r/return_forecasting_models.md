@@ -1,4 +1,4 @@
-### Return Forecasting Models in Algorithmic Trading
+# Return Forecasting Models
 
 In [mathematical finance](../m/mathematical_finance.md), return [forecasting models](../f/forecasting_models.md) are crucial tools used to predict future price movements and returns of financial assets. These models leverage historical data, statistical techniques, and sometimes machine learning algorithms to inform [trading strategies](../t/trading_strategies.md). Return forecasting is a cornerstone of [algorithmic trading](../a/algorithmic_trading.md), where automated systems execute trades based on predetermined criteria and forecasts. Below, we delve into several common return [forecasting models](../f/forecasting_models.md) used in the industry.
 

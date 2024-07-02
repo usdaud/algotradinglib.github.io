@@ -1,4 +1,4 @@
-# Overlay Tactics in Algorithmic Trading
+# Overlay Tactics
 
 Overlay tactics in [algorithmic trading](../a/algorithmic_trading.md) refer to additional layers of [trading strategies](../t/trading_strategies.md) that are placed on top of an existing trading framework to improve performance, manage risk, and exploit new opportunities. These tactics can involve various sophisticated techniques, such as [quantitative analysis](../q/quantitative_analysis.md), statistical models, and machine learning algorithms, to make more informed trading decisions.
 

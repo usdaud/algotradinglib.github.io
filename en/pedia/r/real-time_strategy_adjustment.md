@@ -1,4 +1,4 @@
-# Real-Time Strategy Adjustment in Algorithmic Trading
+# Real-Time Strategy Adjustment
 
 [Algorithmic trading](../a/algorithmic_trading.md), also known as algo trading, involves the use of computer algorithms to execute trades in financial markets. These algorithms are designed to make trading decisions and execute trades at speeds and frequencies that are impossible for human traders to match. One crucial aspect of [algorithmic trading](../a/algorithmic_trading.md) is real-time strategy adjustment, a process that allows [trading algorithms](../t/trading_algorithms.md) to adapt and respond to changing market conditions on the fly.
 

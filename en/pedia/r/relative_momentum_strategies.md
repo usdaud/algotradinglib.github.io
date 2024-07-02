@@ -1,4 +1,4 @@
-### Relative Momentum Strategies in Algorithmic Trading
+# Relative Momentum Strategies
 
 Relative Momentum Strategies involve ranking assets based on their past returns and allocating capital to the top-performing assets over a specific period. Unlike absolute momentum strategies that look at the performance of each asset alone, relative momentum strategies compare different assets against one another to determine the allocation.
 

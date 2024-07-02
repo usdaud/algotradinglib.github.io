@@ -1,4 +1,4 @@
-## Rebalancing Frequency in Algorithmic Trading
+# Rebalancing Frequency
 
 Rebalancing frequency refers to the periodic adjustment of the weightings of assets in an investment portfolio to maintain a desired level of [asset allocation](../a/asset_allocation.md) or risk exposure. This is a critical aspect of [portfolio management](../p/portfolio_management.md) and plays a pivotal role in determining investment performance, risk, and return dynamics. In the context of [algorithmic trading](../a/algorithmic_trading.md), rebalancing frequency can vary significantly based on the trading strategy, asset class, market conditions, and overall investment objectives.
 

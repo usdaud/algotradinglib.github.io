@@ -1,4 +1,4 @@
-# Multi-Period Optimization in Algorithmic Trading
+# Multi-Period Optimization
 
 Multi-period optimization is a sophisticated strategy and mathematical approach aimed at enhancing [portfolio performance](../p/portfolio_performance.md), accounting for investment goals, constraints, and market dynamics over multiple periods. It strengthens the decision-making process for traders and investors who seek to balance returns and risks in a systematic manner over an extended horizon. This concept expands beyond single-period models, addressing the dynamic complexities and intertemporal trade-offs inherent in the financial markets.
 

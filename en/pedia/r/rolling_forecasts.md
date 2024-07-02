@@ -1,4 +1,4 @@
-## Rolling Forecasts in Algorithmic Trading
+# Rolling Forecasts
 
 In the realm of [algorithmic trading](../a/algorithmic_trading.md), rolling forecasts play a pivotal role in [predictive modeling](../p/predictive_modeling.md) and decision-making processes. Rolling forecasts refer to continual updating of forecasts based on the most recent data, enabling traders to have an ongoing prediction model that adapates to new information as it's available. This technique is particularly valuable in fast-paced financial markets, where conditions and variables can change rapidly.
 

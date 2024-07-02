@@ -1,4 +1,4 @@
-# **Price Action Trading: A Deep Dive into Market Behavior**
+# Price Action Trading
 
 Price Action Trading (PAT) is a trading technique that utilizes historical market prices, typically the open, high, low, and close (OHLC) of a price bar or candlestick, to make trading decisions. Unlike other [trading strategies](../t/trading_strategies.md) that rely on [lagging indicators](../l/lagging_indicators.md) or complex algorithms, price action traders focus on the raw price data. This approach aims to make sense of the immediate market behavior and predict future price movements based on patterns that repeat over time.
 

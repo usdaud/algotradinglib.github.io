@@ -1,4 +1,4 @@
-## Risk Capital Management in Algorithmic Trading
+# Risk Capital Management
 
 Risk capital management, a cornerstone of financial trading and investment, holds particular significance in [algorithmic trading](../a/algorithmic_trading.md). It's a systemic approach to identifying, assessing, and mitigating risks associated with financial market activities, which is crucial for ensuring longevity, profitability, and stability in [algorithmic trading](../a/algorithmic_trading.md) strategies.
 

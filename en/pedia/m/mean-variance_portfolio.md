@@ -1,4 +1,4 @@
-### Mean-Variance Portfolio
+# Mean-Variance Portfolio
 
 Mean-variance portfolio theory, introduced by Harry Markowitz in his seminal paper "Portfolio Selection" published in 1952, is a mathematical framework for constructing an investment portfolio in such a way that for a given level of expected return, the risk (variance) is minimized, or equivalently, for a given level of risk, the expected return is maximized. This theory marked the origin of modern portfolio theory (MPT).
 

@@ -1,4 +1,4 @@
-# Quantitative Strategies in Trading
+# Quantitative Strategies
 
 Quantitative strategies in trading involve leveraging mathematical models, statistical techniques, and [computational algorithms](../c/computational_algorithms.md) to identify trading opportunities and execute trades. These strategies utilize vast amounts of historical data and diverse sources of financial information to develop predictive models. They have transformed the landscape of financial trading, enabling traders to make more informed and precise decisions. This document provides a comprehensive overview of [quantitative trading](../q/quantitative_trading.md) strategies, encompassing the key components, types of strategies, mathematical models, infrastructural requirements, regulations, and future trends.
 

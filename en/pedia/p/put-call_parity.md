@@ -1,4 +1,4 @@
-# Put-Call Parity in Algorithmic Trading
+# Put-Call Parity
 
 Put-call parity is a foundational principle in options pricing that defines a specific relationship between the prices of European put and call options with the same strike price and expiration date. This principle provides a basis for understanding how options are priced and ensures that there is no [arbitrage](../a/arbitrage.md) opportunity in a frictionless market. In the context of [algorithmic trading](../a/algorithmic_trading.md), put-call parity serves as a critical tool for developing [trading strategies](../t/trading_strategies.md), assessing risk, and identifying potential mispricings in the options market.
 

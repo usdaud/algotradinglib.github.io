@@ -1,4 +1,4 @@
-# Non-Financial Market Data in Algorithmic Trading
+# Non-Financial Market Data
 
 ## Introduction
 [Algorithmic trading](../a/algorithmic_trading.md), also known as algo-trading, refers to the use of computer algorithms to automate trading decisions and actions in financial markets. While the primary inputs for these algorithms have traditionally been financial data like stock prices, volume, and [trading signals](../t/trading_signals.md), an increasing number of traders and firms are incorporating non-financial market data into their algorithms to gain an edge in predicting market movements and identifying opportunities. 

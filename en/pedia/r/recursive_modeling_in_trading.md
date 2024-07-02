@@ -1,5 +1,4 @@
-# Recursive Modeling in Trading
-===================================
+# Recursive Modeling
 
 **Introduction**
 

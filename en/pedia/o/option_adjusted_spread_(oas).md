@@ -1,4 +1,4 @@
-## Option Adjusted Spread (OAS)
+# Option Adjusted Spread (OAS)
 
 The Option Adjusted Spread (OAS) is a measurement used in the financial markets to assess the yield differential between a fixed-income security like a bond and the corresponding risk-free rate, while accounting for the embedded options within the bond. This metric is crucial for investors and portfolio managers looking to understand the true yield of an investment relative to its inherent risks, especially when the bond includes features such as call or [put options](../p/put_options.md).
 

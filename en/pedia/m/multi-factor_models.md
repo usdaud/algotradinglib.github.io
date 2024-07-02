@@ -1,4 +1,4 @@
-# Multi-Factor Models in Algorithmic Trading
+# Multi-Factor Models
 
 ---
 

@@ -1,4 +1,4 @@
-# Return Distribution Analysis in Algorithmic Trading
+# Return Distribution Analysis
 
 Return distribution analysis is a crucial aspect of [algorithmic trading](../a/algorithmic_trading.md) that revolves around understanding the behavior, characteristics, and statistical properties of investment returns. By comprehensively analyzing the return distribution, traders and analysts can make informed decisions, quantify risks, optimize [trading strategies](../t/trading_strategies.md), and improve overall [portfolio performance](../p/portfolio_performance.md). This article delves into various facets of return distribution analysis, including its importance, methodologies, key metrics, and practical applications in [algorithmic trading](../a/algorithmic_trading.md).
 

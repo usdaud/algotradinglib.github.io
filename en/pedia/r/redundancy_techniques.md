@@ -1,4 +1,4 @@
-# Redundancy Techniques in Algorithmic Trading
+# Redundancy Techniques
 
 In [algorithmic trading](../a/algorithmic_trading.md), "redundancy" refers to the practice of incorporating multiple backups and fail-safes to ensure continuous and accurate trading operations, even in the face of hardware failures, network issues, or other unexpected disruptions. Redundancy techniques are crucial for mitigating risks and ensuring uninterrupted trading activities. This detailed exploration will cover various redundancy techniques used in [algorithmic trading](../a/algorithmic_trading.md), their importance, and how they are typically implemented.
 

@@ -1,4 +1,4 @@
-# Non-Stationary Data Analysis in Algorithmic Trading
+# Non-Stationary Data Analysis
 
 Non-stationary data refers to a sequence of data points that do not have constant statistical properties over time. This is a critical concept in [algorithmic trading](../a/algorithmic_trading.md) because financial markets are typically non-stationary environments. Here, we will explore the various aspects of non-stationary data analysis, its implications for financial markets, and methodologies to address non-stationarity.
 

@@ -1,4 +1,4 @@
-# Rolling Correlation in Algorithmic Trading
+# Rolling Correlation
 
 Rolling correlation is a statistical technique used extensively in the domain of financial analysis and [algorithmic trading](../a/algorithmic_trading.md). This method entails calculating the correlation coefficient for overlapping sub-periods within a larger time series. By doing so, it captures the time-varying relationships between different securities or financial assets. Correlation, in this context, measures how two securities move in relation to each other, crucial for [portfolio risk management](../p/portfolio_risk_management.md), diversification, and strategic [asset allocation](../a/asset_allocation.md).
 

@@ -1,4 +1,4 @@
-### Option Greeks
+# Option Greeks
 
 In the world of options trading, one key concept that traders must grasp is the "Option Greeks." The Greeks are a collection of risk measures that describe how the price of an option changes in response to various factors. Understanding these metrics is crucial for effective options trading and [risk management](../r/risk_management.md). The main Greeks are Delta, Gamma, Theta, Vega, and Rho. Each of these provides insight into different aspects of an option's risk and potential profitability.
 

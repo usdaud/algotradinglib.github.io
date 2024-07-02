@@ -1,4 +1,4 @@
-# Risk Allocation Models in Algorithmic Trading
+# Risk Allocation Models
 
 [Algorithmic trading](../a/algorithmic_trading.md), often termed "algo trading," leverages computer algorithms to automate trading decisions and executions. One crucial aspect in this field is risk allocation—deciding how to distribute risk across different assets, strategies, or portfolios. Effective risk allocation models help in maximizing returns while minimizing potential losses. This article provides a comprehensive overview of various risk allocation models used in [algorithmic trading](../a/algorithmic_trading.md).
 

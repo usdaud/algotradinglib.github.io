@@ -1,4 +1,4 @@
-### Understanding Oversubscription in IPOs
+# Oversubscription in IPOs
 
 **Initial Public Offering (IPO)** is a critical event in the lifecycle of a company. When a company decides to go public by offering its shares for the first time to the general public, it is said to be making an IPO. During this process, the company offers a set number of shares for sale in the primary market. However, not all IPOs are created equal. Some attract more investor interest than others. When the demand for shares exceeds the number of shares offered in an IPO, it is known as **oversubscription**. This phenomenon is not uncommon, especially in cases where the issuing company's prospects are highly promising, leading to high investor enthusiasm.
 

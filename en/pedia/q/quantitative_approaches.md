@@ -1,4 +1,4 @@
-# Quantitative Approaches in Algorithmic Trading
+# Quantitative Approaches
 
 ## Introduction
 

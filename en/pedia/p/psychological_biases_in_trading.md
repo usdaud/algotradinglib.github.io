@@ -1,4 +1,4 @@
-# Psychological Biases in Trading
+# Psychological Biases
 
 In the world of trading, particularly [algorithmic trading](../a/algorithmic_trading.md), understanding psychological biases is crucial. These biases, often subconscious, can significantly impact decision-making processes, leading to sub-optimal outcomes. Below, we delve deeply into the various psychological biases that affect traders and how these biases manifest in trading environments.
 

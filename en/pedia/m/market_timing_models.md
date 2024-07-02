@@ -1,4 +1,4 @@
-# Market Timing Models in Algorithmic Trading
+# Market Timing Models
 
 [Market timing](../m/market_timing.md) models are analytical tools used by traders and investors to predict future price movements and decide the optimal times to enter or exit financial markets. These models rely on various types of data, including historical prices, volume, [economic indicators](../e/economic_indicators.md), and more, to formulate strategies aimed at maximizing returns or minimizing risks. In the context of [algorithmic trading](../a/algorithmic_trading.md), [market timing](../m/market_timing.md) models are implemented in software algorithms that automatically execute trades based on predefined rules. This detailed overview explores various [market timing](../m/market_timing.md) models, their theoretical foundations, practical applications, and the technology supporting their implementation in [algorithmic trading](../a/algorithmic_trading.md).
 

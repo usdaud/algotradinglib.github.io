@@ -1,4 +1,4 @@
-# Nobel Prize Theories in Trading
+# Nobel Prize Theories
 
 The field of trading and finance has been significantly influenced by a number of theories developed by Nobel Prize laureates. These theories have provided frameworks and insights that underpin much of modern trading, investment strategies, and financial market analysis. Below are several pivotal theories and contributions by Nobel Prize winners that are often referenced in the context of trading:
 

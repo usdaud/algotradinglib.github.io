@@ -1,4 +1,4 @@
-# Quantitative Performance Metrics in Algorithmic Trading
+# Quantitative Performance Metrics
 
 Quantitative [performance metrics](../p/performance_metrics.md) are crucial in the landscape of [algorithmic trading](../a/algorithmic_trading.md) as they provide the essential criteria for assessing the effectiveness, efficiency, and risk profile of [trading strategies](../t/trading_strategies.md). In this detailed exploration, we will delve into various quantitative metrics, their importance, and applications in monitoring and evaluating [trading algorithms](../t/trading_algorithms.md).
 

@@ -1,4 +1,4 @@
-# Performance Metrics in Algorithmic Trading
+# Performance Metrics
 
 In [algorithmic trading](../a/algorithmic_trading.md), the evaluation of investment strategies and the performance of [trading algorithms](../t/trading_algorithms.md) is critical for understanding their effectiveness and reliability. Performance metrics provide a way to measure, compare, and optimize [trading strategies](../t/trading_strategies.md). This comprehensive guide will delve into various performance metrics commonly used in [algorithmic trading](../a/algorithmic_trading.md).
 

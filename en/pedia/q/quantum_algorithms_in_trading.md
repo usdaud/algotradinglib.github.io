@@ -1,4 +1,4 @@
-# Quantum Algorithms in Trading
+# Quantum Algorithms
 
 ## Introduction
 Quantum technology is gradually moving from theoretical physics labs to practical applications in various industries, including finance. One of the promising areas where quantum computing holds potential is [algorithmic trading](../a/algorithmic_trading.md) — the automated trading of financial instruments using pre-programmed strategies. This document explores the impact and potential of quantum algorithms in trading.

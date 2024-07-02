@@ -1,4 +1,4 @@
-## Quantitative Easing
+# Quantitative Easing
 
 Quantitative Easing (QE) refers to an unconventional monetary policy tool utilized by central banks to stimulate the economy when conventional monetary policy has become ineffective. This technique involves the purchase of long-term securities from the open market to increase the money supply and encourage lending and investment.
 

@@ -1,4 +1,4 @@
-### Momentum Trading
+# Momentum Trading
 
 Momentum trading is a strategy in which traders buy securities that are rising in price and sell them in the future at a higher price. The core principle behind momentum trading is that securities which have shown recent strong performance will continue to perform in the same manner until the momentum weakens. Essentially, it leverages the idea that "the trend is your friend." 
 

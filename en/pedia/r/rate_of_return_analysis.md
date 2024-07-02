@@ -1,4 +1,4 @@
-# Rate of Return Analysis in Algorithmic Trading
+# Rate of Return Analysis
 
 ## Introduction
 

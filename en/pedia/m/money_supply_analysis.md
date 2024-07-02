@@ -1,4 +1,4 @@
-# Money Supply Analysis in Algorithmic Trading
+# Money Supply Analysis
 
 **Introduction**
 

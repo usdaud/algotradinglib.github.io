@@ -1,4 +1,4 @@
-## Money Flow Index (MFI)
+# Money Flow Index (MFI)
 
 The Money Flow Index (MFI) is a momentum indicator that uses both price and volume data to identify overbought or oversold conditions in an asset. It is similar to the Relative Strength Index (RSI) but includes volume, whereas the RSI considers only price. The MFI is a useful tool for traders and investors to gauge market sentiment and potential reversal points in the market.
 

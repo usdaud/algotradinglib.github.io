@@ -1,4 +1,4 @@
-# **Return on Total Assets (ROTA)**
+# Return on Total Assets (ROTA)
 
 Return on Total Assets (ROTA) is a financial metric that measures a company's ability to generate earnings relative to its total assets. This ratio is an indicator of how effectively a company is using its assets to produce profit. ROTA is commonly used by investors and analysts to evaluate the efficiency of asset utilization within a corporation. Unlike Return on Equity (ROE) which measures profitability relative to shareholders' equity, ROTA includes both debt and equity in the denominator, providing a more comprehensive view of asset efficiency.
 

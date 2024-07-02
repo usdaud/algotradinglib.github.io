@@ -1,4 +1,4 @@
-# Order Management Systems in Algorithmic Trading
+# Order Management Systems
 
 Order Management Systems (OMS) are integral tools in the realm of [algorithmic trading](../a/algorithmic_trading.md), providing traders with sophisticated means to handle and streamline the execution of trading orders. An OMS acts as a centralized system that facilitates and automates the process of managing orders efficiently throughout their entire lifecycle, from initial order input to execution and eventual settlement. This comprehensive exploration will delve into the various aspects of OMS, including their functionalities, benefits, architecture, and key vendors offering such systems.
 

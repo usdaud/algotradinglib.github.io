@@ -1,4 +1,4 @@
-# **Order Routing in Algorithmic Trading**
+# Order Routing
 
 Order routing is a crucial aspect of [algorithmic trading](../a/algorithmic_trading.md), a method characterized by using computer algorithms to trade financial securities quickly and efficiently. In the securities market, order routing refers to the process where orders for buying and selling assets such as stocks, options, futures, and other financial instruments are directed to specific venues for execution. These venues may include exchanges, electronic communication networks (ECNs), [dark pools](../d/dark_pools.md), and other market centers.
 

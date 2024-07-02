@@ -1,5 +1,4 @@
-# Rate of Return Metrics in Algorithmic Trading
----------------------------------------------
+# Rate of Return Metrics
 
 In the realm of financial markets, understanding investment performance is crucial. This is especially pertinent in [algorithmic trading](../a/algorithmic_trading.md), where decisions are made based on quantitative analyses and [trading strategies](../t/trading_strategies.md) executed by algorithms. Rate of return metrics are fundamental for assessing the success of [trading strategies](../t/trading_strategies.md). 
 

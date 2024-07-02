@@ -1,4 +1,4 @@
-# Maximum Entropy Methods in Algorithmic Trading
+# Maximum Entropy Methods
 
 ## Overview
 The Maximum Entropy Principle is a fundamental concept in probability theory, statistics, and machine learning. Initially proposed by E.T. Jaynes in the 1950s, it provides a method for deriving probability distributions under conditions of incomplete information. In the context of [algorithmic trading](../a/algorithmic_trading.md), the Maximum Entropy Principle can be applied to create models that make the least biased predictions, thereby helping to manage uncertainty and make better-informed trading decisions.

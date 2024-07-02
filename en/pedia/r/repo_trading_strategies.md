@@ -1,4 +1,4 @@
-# **Repo Trading Strategies**
+# Repo Trading Strategies
 
 A repo, or repurchase agreement, is a financial transaction in which one party sells a security to another party with an agreement to buy it back at a higher price at a future date. The difference between the purchase price and the repurchase price represents the interest paid for the loan, commonly known as the repo rate. Repo trading is a fundamental component in the financial markets, providing liquidity and facilitating the efficient functioning of markets such as those for government securities.
 

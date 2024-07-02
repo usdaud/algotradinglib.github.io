@@ -1,4 +1,4 @@
-# Predictive Analytics in Algorithmic Trading
+# Predictive Analytics
 
 Predictive analytics involves using statistical techniques, machine learning, and [data mining](../d/data_mining.md) to analyze historical data and make predictions about future events. In the context of [algorithmic trading](../a/algorithmic_trading.md), predictive analytics plays a critical role in developing [trading strategies](../t/trading_strategies.md), identifying profitable trades, and managing risks. This document covers various aspects of predictive analytics in [algorithmic trading](../a/algorithmic_trading.md), including key techniques, applications, and case studies.
 

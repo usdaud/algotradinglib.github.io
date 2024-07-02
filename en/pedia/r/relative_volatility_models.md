@@ -1,4 +1,4 @@
-# Relative Volatility Models in Algorithmic Trading
+# Relative Volatility Models
 
 Relative [Volatility Models](../v/volatility_models.md) (RVM) play a significant role in [algorithmic trading](../a/algorithmic_trading.md) strategies. These models do not only aid in [risk management](../r/risk_management.md) but also in optimizing the execution of trades. By leveraging historical data and statistical metrics, relative [volatility models](../v/volatility_models.md) help traders predict and respond to market conditions with greater accuracy.
 

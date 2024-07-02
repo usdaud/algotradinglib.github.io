@@ -1,4 +1,4 @@
-# Price Trends Analysis in Algorithmic Trading
+# Price Trends Analysis
 
 ## Introduction
 

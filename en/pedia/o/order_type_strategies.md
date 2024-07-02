@@ -1,4 +1,4 @@
-### Order Type Strategies in Algorithmic Trading
+# Order Type Strategies
 
 [Algorithmic trading](../a/algorithmic_trading.md) has transformed the financial markets by introducing sophisticated [trading strategies](../t/trading_strategies.md) that can execute orders with minimal human intervention. At the core of these strategies are different order types, each designed to optimize trades based on a variety of factors, such as price, time, and volume. Understanding these order types and their strategic applications is crucial for anyone involved in [algorithmic trading](../a/algorithmic_trading.md). This article provides an in-depth analysis of various order type strategies commonly used in [algorithmic trading](../a/algorithmic_trading.md).
 

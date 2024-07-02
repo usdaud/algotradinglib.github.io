@@ -1,4 +1,4 @@
-# Rule Development in Trading
+# Rule Development
 
 [Algorithmic trading](../a/algorithmic_trading.md), or "algo trading," refers to the method of executing trades using pre-programmed instructions accounting for variables such as timing, price, and volume. Rule development sits at the core of this approach, where traders define a set of rules that the algorithm must follow to execute trades. These rules can be based on various [trading strategies](../t/trading_strategies.md) that aim to exploit market inefficiencies or to automate and optimize repetitive trading tasks. Below is a comprehensive look at the process of rule development in trading, vital for anyone looking to engage in algo trading.
 

@@ -1,4 +1,4 @@
-## Reverse Stock Splits
+# Reverse Stock Splits
 
 ### Introduction
 

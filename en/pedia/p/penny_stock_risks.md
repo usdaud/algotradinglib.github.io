@@ -1,4 +1,4 @@
-### Penny Stock Risks
+# Penny Stock Risks
 
 [Penny stocks](../p/penny_stocks.md), often referred to as micro-cap or nano-cap stocks, are shares of small public companies that trade at low prices per share, typically below $5. They are typically issued by smaller companies, those with market capitalizations under $300 million. While [penny stocks](../p/penny_stocks.md) can offer significant returns due to their low cost and high potential for growth, they come with substantial risks that traders and investors must consider. Below is an in-depth examination of the various risks associated with trading in [penny stocks](../p/penny_stocks.md).
 

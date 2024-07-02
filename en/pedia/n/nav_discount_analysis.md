@@ -1,4 +1,4 @@
-## NAV Discount Analysis
+# NAV Discount Analysis
 
 Net Asset Value (NAV) is a fundamental metric used predominantly in the context of mutual funds, hedge funds, and exchange-traded funds (ETFs). NAV represents the per-share value of the fund's assets minus its liabilities. The formula to calculate NAV is:
 

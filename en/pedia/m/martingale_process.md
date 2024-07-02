@@ -1,4 +1,4 @@
-# Martingale Process in the Context of Algorithmic Trading
+# Martingale Process
 
 ## Introduction
 

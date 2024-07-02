@@ -1,4 +1,4 @@
-### Risk Adjusted Performance
+# Risk Adjusted Performance
 
 Risk-adjusted performance is a concept within finance and investment that attempts to measure the profitability of an investment in relation to the amount of risk taken to achieve that profitability. This metric is crucial for investors looking to understand whether an investment's returns are commensurate with the risks taken. It helps in making an apples-to-apples comparison of different investments or investment strategies.
 

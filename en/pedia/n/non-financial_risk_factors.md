@@ -1,4 +1,4 @@
-## Non-Financial Risk Factors in Algorithmic Trading
+# Non-Financial Risk Factors
 
 ### Introduction
 

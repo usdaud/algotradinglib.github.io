@@ -1,4 +1,4 @@
-### Nominal Return Analysis in Algorithmic Trading
+# Nominal Return Analysis
 
 Nominal return analysis is a fundamental concept in [algorithmic trading](../a/algorithmic_trading.md) and finance. This analysis involves evaluating the percentage change in an investment's value without adjusting for inflation or other external factors. Understanding nominal returns is crucial for traders and investors because it provides insights into the performance of various securities, [trading strategies](../t/trading_strategies.md), and overall [portfolio management](../p/portfolio_management.md).
 

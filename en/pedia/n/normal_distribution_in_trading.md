@@ -1,4 +1,4 @@
-# Normal Distribution in Trading
+# Normal Distribution
 
 The normal distribution, also known as the [Gaussian distribution](../g/gaussian_distribution.md), is a continuous probability distribution that is symmetric around its mean, describing data that clusters around the mean. It is characterized by its bell-shaped curve and is defined mathematically by two parameters: the mean (μ) and the standard deviation (σ). This distribution plays a crucial role in various fields, including trading, where it is used to model and analyze the behavior of asset prices.
 

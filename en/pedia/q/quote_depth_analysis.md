@@ -1,4 +1,4 @@
-# Quote Depth Analysis in Algorithmic Trading
+# Quote Depth Analysis
 
 Quote Depth Analysis is a critical aspect of [algorithmic trading](../a/algorithmic_trading.md). It involves examining the depth of the market, which refers to the quantity of buy and sell orders at various price levels for a particular security. The analysis provides valuable insights into the liquidity and potential price movements of assets, helping traders to make informed decisions.
 

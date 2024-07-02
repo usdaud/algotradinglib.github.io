@@ -1,4 +1,4 @@
-# Return Analysis Frameworks in Algorithmic Trading
+# Return Analysis Frameworks
 
 [Algorithmic trading](../a/algorithmic_trading.md), or "algo-trading," utilizes computer algorithms to trade financial securities at high speeds and volumes. A critical aspect of [algorithmic trading](../a/algorithmic_trading.md) is the constant evaluation and analysis of returns to ensure that the [trading strategies](../t/trading_strategies.md) are effective and profitable. Return analysis frameworks help traders to dissect and scrutinize the performance of their portfolios and [trading algorithms](../t/trading_algorithms.md). These frameworks typically include a combination of statistical measures, visual tools, and computational models to provide comprehensive insights into the returns.
 

@@ -1,4 +1,4 @@
-## Neural Network Backtesting
+# Neural Network Backtesting
 
 Neural network [backtesting](../b/backtesting.md) is a critical process in [algorithmic trading](../a/algorithmic_trading.md) where historical market data is used to evaluate the performance of [trading strategies](../t/trading_strategies.md) driven by neural networks. The aim of [backtesting](../b/backtesting.md) is to understand how well a neural network-based trading strategy would have performed in past market conditions. This helps in validating the robustness and profitability of the strategy before deploying it in real, live trading environments.
 

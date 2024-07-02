@@ -1,4 +1,4 @@
-# Risk Analysis in Algorithmic Trading
+# Risk Analysis
 
 [Algorithmic trading](../a/algorithmic_trading.md), or algo-trading, leverages complex mathematical models and strategies to make high-speed trading decisions. While [algorithmic trading](../a/algorithmic_trading.md) offers several benefits such as increased execution speed, reduced transaction costs, and the ability to backtest strategies, it also necessitates rigorous risk analysis to safeguard against potential losses. This article delves into the various methodologies and strategies used in risk analysis within the context of [algorithmic trading](../a/algorithmic_trading.md).
 

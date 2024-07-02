@@ -1,4 +1,4 @@
-## Markov Chains in Trading
+# Markov Chains
 
 Markov Chains are a powerful mathematical framework that can be applied to a variety of fields, including finance and trading. Named after the Russian mathematician Andrey Markov, these chains describe systems that transition from one state to another in a probabilistic manner. In trading, Markov Chains can be utilized to model and predict the behavior of financial markets, guiding decision-making processes in [algorithmic trading](../a/algorithmic_trading.md) strategies.
 

@@ -1,4 +1,4 @@
-# Regression Methods in Trading
+# Regression Methods
 
 ## Introduction
 Regression methods are foundational techniques in statistical analysis, specifically designed to model and analyze relationships between dependent and independent variables. In the context of trading, regression methods are invaluable for understanding and forecasting market trends, price movements, and the relationships between different financial instruments.

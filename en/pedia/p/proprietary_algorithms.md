@@ -1,4 +1,4 @@
-## Proprietary Algorithms
+# Proprietary Algorithms
 
 Proprietary algorithms in the context of [algorithmic trading](../a/algorithmic_trading.md) represent a highly specialized and secret set of rules and procedures developed exclusively by firms or individual traders. These algorithms are the fruits of extensive research, testing, and fine-tuning, designed to gain a competitive edge in financial markets. Their core aim is to maximize profits by executing trades more efficiently and effectively than human traders or standard algorithms.
 

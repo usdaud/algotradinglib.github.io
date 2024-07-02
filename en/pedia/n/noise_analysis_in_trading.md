@@ -1,4 +1,4 @@
-# Noise Analysis in Trading
+# Noise Analysis
 
 ## Understanding Noise in Financial Markets
 

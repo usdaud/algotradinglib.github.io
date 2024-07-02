@@ -1,4 +1,4 @@
-### Robust Regression in Trading
+# Robust Regression
 
 Robust regression is a vital concept in [algorithmic trading](../a/algorithmic_trading.md), an area focused on creating and executing [trading strategies](../t/trading_strategies.md) using mathematical models and algorithms. Unlike traditional [linear regression](../l/linear_regression.md), robust regression aims to be resilient to outliers and deviations from standard assumptions, making it particularly valuable in volatile financial markets.
 

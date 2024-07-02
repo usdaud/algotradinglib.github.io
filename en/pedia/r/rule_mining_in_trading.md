@@ -1,4 +1,4 @@
-# Rule Mining in Trading
+# Rule Mining
 
 Rule mining in trading is a powerful technique used to discover patterns and rules within large sets of trading data. These patterns and rules can be employed to build [trading strategies](../t/trading_strategies.md) that predict price movements and to automate trading decisions. In the context of [algorithmic trading](../a/algorithmic_trading.md), rule mining can enhance the efficiency and profitability of trading activities by automating the identification of beneficial [trading signals](../t/trading_signals.md) and opportunities. This document explores the fundamentals of rule mining in trading, the methods and algorithms used, application areas, benefits, and challenges.
 

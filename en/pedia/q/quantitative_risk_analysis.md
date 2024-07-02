@@ -1,4 +1,4 @@
-# Quantitative Risk Analysis in Algorithmic Trading
+# Quantitative Risk Analysis
 
 Quantitative [risk analysis](../r/risk_analysis.md) is a pivotal discipline within the realm of finance, particularly in [algorithmic trading](../a/algorithmic_trading.md). It employs mathematical models, statistical methods, and computational techniques to assess, quantify, and manage the risks associated with [trading strategies](../t/trading_strategies.md). In the highly competitive and fast-paced world of [algorithmic trading](../a/algorithmic_trading.md), understanding and managing risk is crucial for maintaining profitability and avoiding catastrophic losses.
 

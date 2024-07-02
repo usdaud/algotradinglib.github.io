@@ -1,4 +1,4 @@
-# Non-Financial Indicators in Algorithmic Trading
+# Non-Financial Indicators
 
 [Algorithmic trading](../a/algorithmic_trading.md), often referred to as algo-trading, involves using computer algorithms to automate trading decisions with seamless precision. The primary goal of these algorithms is to maximize profits and minimize risks based on historical data, market conditions, and various indicators. Traditionally, many game-changing strategies used in [algorithmic trading](../a/algorithmic_trading.md) have focused on financial indicators, such as price movement, volume, and other market-related figures. However, non-financial indicators—i.e., factors not directly tied to pure market data—are becoming increasingly popular for their ability to provide a more holistic view of the market dynamics. These indicators can range from social sentiment, news metrics, to even environmental factors. Here, we explore these non-financial indicators comprehensively.
 

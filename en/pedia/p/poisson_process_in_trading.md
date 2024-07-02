@@ -1,4 +1,4 @@
-# Poisson Process in Trading
+# Poisson Process
 
 ## Introduction to Poisson Process
 

@@ -1,4 +1,4 @@
-### Redundancy Analysis in Trading
+# Redundancy Analysis
 
 Redundancy analysis in trading refers to identifying and managing redundancy within [trading systems](../t/trading_systems.md). Redundancy can have both positive and negative implications, depending on how it is handled. In this context, redundancy pertains to duplicate or overlapping parts within a trading strategy, algorithm, or infrastructure that may not contribute additional value or might even detract from performance.
 

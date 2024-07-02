@@ -1,4 +1,4 @@
-## Quantitative Market Analysis
+# Quantitative Market Analysis
 
 Quantitative Market Analysis (QMA) is a data-driven approach to understanding and predicting market movements and trends. It involves the application of statistical models, mathematics, and computational techniques to analyze financial data. This type of analysis is essential for traders, investment managers, and financial analysts who aim to optimize their investment strategies and automate trading processes. 
 

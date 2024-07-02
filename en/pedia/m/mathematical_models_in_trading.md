@@ -1,4 +1,4 @@
-### Mathematical Models in Trading
+# Mathematical Models
 
 ---
 

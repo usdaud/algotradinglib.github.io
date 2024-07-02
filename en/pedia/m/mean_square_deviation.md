@@ -1,4 +1,4 @@
-### Mean Square Deviation (MSD) in Algorithmic Trading
+# Mean Square Deviation
 
 Mean Square Deviation (MSD), also commonly referred to as [Mean Squared Error](../m/mean_squared_error.md) (MSE) or Mean Squared Deviation, is a common metric used to assess the accuracy of models in various domains, including [algorithmic trading](../a/algorithmic_trading.md). It helps in quantifying the difference between predicted values and actual values, giving traders and analysts a way to measure the performance and reliability of their [trading algorithms](../t/trading_algorithms.md).
 

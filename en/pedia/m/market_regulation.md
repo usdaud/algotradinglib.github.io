@@ -1,4 +1,4 @@
-# **Market Regulation in Algorithmic Trading**
+# Market Regulation
 
 [Algorithmic trading](../a/algorithmic_trading.md) has rapidly evolved, transforming the landscape of financial markets globally. However, with its growth, the necessity to ensure fair, transparent, and efficient markets has become paramount. Market regulation in [algorithmic trading](../a/algorithmic_trading.md) constitutes a comprehensive framework encompassing rules, practices, and legal requirements imposed by regulatory bodies to maintain market integrity and protect investors.
 

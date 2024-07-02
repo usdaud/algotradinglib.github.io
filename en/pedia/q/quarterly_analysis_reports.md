@@ -1,4 +1,4 @@
-# Quarterly Analysis Reports in Algorithmic Trading
+# Quarterly Analysis Reports
 
 Quarterly analysis reports play a crucial role in the sphere of [algorithmic trading](../a/algorithmic_trading.md) by offering investors, analysts, and trading firms valuable insights into market performance, [trading strategies](../t/trading_strategies.md), and economic trends on a three-month basis. These reports help in identifying patterns, adjusting strategies, and making informed decisions. Below, we delve into various aspects of quarterly analysis reports in the context of [algorithmic trading](../a/algorithmic_trading.md).
 

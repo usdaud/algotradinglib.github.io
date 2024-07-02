@@ -1,4 +1,4 @@
-# Order Types in Trading
+# Order Types
 
 In the realm of trading, understanding the various types of orders available to traders is crucial for effectively managing investments and mitigating risks. Different order types serve different purposes and are suited for various [trading strategies](../t/trading_strategies.md). Here, we will dive into the most commonly used order types in trading, explaining their functionalities, advantages, and potential disadvantages.
 

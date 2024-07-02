@@ -1,4 +1,4 @@
-# Neural Network Applications in Algorithmic Trading
+# Neural Network Applications
 
 Neural Networks, inspired by the structure and function of the human brain, have carved an indelible mark across various domains, including the financial sector. In the realm of [algorithmic trading](../a/algorithmic_trading.md), these networks have showcased exceptional capabilities, driving complex [trading strategies](../t/trading_strategies.md) and yielding substantial profits. This document delves into the intricacies of neural network applications in [algorithmic trading](../a/algorithmic_trading.md), highlighting key concepts, techniques, and real-world implementations.
 

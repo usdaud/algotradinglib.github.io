@@ -1,4 +1,4 @@
-# Neural Networks in Trading
+# Neural Networks
 
 ## Introduction
 Neural Networks (NNs) are a subset of machine learning algorithms inspired by the structure and function of the human brain. They are designed to recognize patterns, make decisions, and predict outcomes based on data inputs. NNs have revolutionized many industries, including trading, where they are used to analyze vast amounts of financial data, identify trends, and execute trades with high precision.

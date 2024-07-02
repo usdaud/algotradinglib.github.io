@@ -1,5 +1,4 @@
-# Risk Budgeting in Algorithmic Trading
--------------------------------------
+# Risk Budgeting
 
 ### Understanding Risk Budgeting
 

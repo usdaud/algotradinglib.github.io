@@ -1,4 +1,4 @@
-# Non-Gaussian Models in Algorithmic Trading
+# Non-Gaussian Models
 
 [Algorithmic trading](../a/algorithmic_trading.md) (algo trading) involves the use of complex algorithms and mathematical models to execute trades at high speed and frequency based on predefined criteria. One of the key requirements in developing these algorithms is accurately modeling the behavior of asset prices. Traditional models often rely on the assumption that returns are normally distributed, i.e., they follow a [Gaussian distribution](../g/gaussian_distribution.md). However, empirical evidence suggests that financial returns exhibit properties such as skewness, kurtosis, fat tails, and [volatility clustering](../v/volatility_clustering.md) - characteristics that are not adequately captured by Gaussian distributions. Hence, the need arises for non-Gaussian models to better reflect the realities of financial markets.
 

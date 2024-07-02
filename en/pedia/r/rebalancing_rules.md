@@ -1,4 +1,4 @@
-# Rebalancing Rules in Algorithmic Trading
+# Rebalancing Rules
 
 Rebalancing is a crucial concept in the domain of investment [portfolio management](../p/portfolio_management.md) and [algorithmic trading](../a/algorithmic_trading.md). It involves adjusting the weights of assets within a portfolio to maintain a desired level of [asset allocation](../a/asset_allocation.md) or risk. This activity ensures that the portfolio remains aligned with the investor's target allocation, strategy, and risk tolerance over time.
 

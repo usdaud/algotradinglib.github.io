@@ -1,4 +1,4 @@
-# Regime Shifts in Trading
+# Regime Shifts
 
 In the world of [algorithmic trading](../a/algorithmic_trading.md), detecting regime shifts is a crucial aspect for maintaining and enhancing the performance of [trading strategies](../t/trading_strategies.md). A regime shift refers to a fundamental change in the underlying dynamics of a financial market. These shifts can manifest as changes in volatility, trends, or correlations between assets. Identifying when these shifts occur and adapting [trading strategies](../t/trading_strategies.md) accordingly is essential for staying profitable in dynamic markets.
 

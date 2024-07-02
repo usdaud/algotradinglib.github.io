@@ -1,4 +1,4 @@
-## Operational Hedge Strategies
+# Operational Hedge Strategies
 
 Operational hedge strategies are techniques employed by businesses to mitigate risks related to their operational activities, often including foreign exchange, commodity price volatility, interest rate fluctuations, and other financial uncertainties. In the context of [algorithmic trading](../a/algorithmic_trading.md) (algotrading), operational hedge strategies take on an advanced dimension where computer algorithms optimize and execute trades to manage these risks.
 

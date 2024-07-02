@@ -1,4 +1,4 @@
-# **Microstructure Theory in Algorithmic Trading**
+# Microstructure Theory
 
 Microstructure theory is a branch of [financial economics](../f/financial_economics.md) that examines the process and outcomes of exchanging assets under explicit [trading rules](../t/trading_rules.md). It focuses on the details of how transactions are executed and the mechanisms through which prices are determined in financial markets. The field of microstructure theory attempts to understand the intricacies of order flow, the role of different types of market participants, and the impact of market design and structure on trading outcomes. In the context of [algorithmic trading](../a/algorithmic_trading.md), microstructure theory provides crucial insights into how algorithms can be designed to optimize [trading performance](../t/trading_performance.md) while minimizing market impact and execution costs. This comprehensive overview explores the foundational concepts, key components, real-world applications, and advanced topics in microstructure theory as it pertains to [algorithmic trading](../a/algorithmic_trading.md).
 

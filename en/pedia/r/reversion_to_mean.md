@@ -1,4 +1,4 @@
-# Reversion to Mean in Algorithmic Trading
+# Reversion to Mean
 
 Reversion to the Mean (RTM) is a financial theory asserting that asset prices and historical returns eventually revert to the long-run average or mean level of the entire dataset. This concept is fundamentally rooted in the statistical hypothesis that in a majority of cases, price levels and returns will return to the average over time. Reversion to the mean plays an essential role in various investment strategies, including [algorithmic trading](../a/algorithmic_trading.md).
 

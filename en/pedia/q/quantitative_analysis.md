@@ -1,4 +1,4 @@
-# Quantitative Analysis in Algorithmic Trading
+# Quantitative Analysis
 
 Quantitative analysis is the use of mathematical and statistical methods to analyze financial data and make investment decisions. This approach is particularly prevalent in [algorithmic trading](../a/algorithmic_trading.md), where [trading strategies](../t/trading_strategies.md) are executed by computer programs with high speed and precision, often without manual intervention. Here, we'll delve deep into various aspects of quantitative analysis in [algorithmic trading](../a/algorithmic_trading.md), discussing its fundamental principles, methodologies, key players, and applications.
 

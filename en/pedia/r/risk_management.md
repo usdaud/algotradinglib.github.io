@@ -1,4 +1,4 @@
-# Risk Management in Algorithmic Trading
+# Risk Management
 
 Risk management is a crucial component of [algorithmic trading](../a/algorithmic_trading.md), a domain where advanced mathematical models, statistical analyses, and automated systems are utilized to execute trades. Algos, as these automated systems are commonly known, are tasked with making rapid and high-volume trades to capitalize on market inefficiencies. However, this speed and volume introduce significant risks. Effective risk management strategies are essential to mitigate potential losses and to ensure long-term profitability.
 

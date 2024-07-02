@@ -1,4 +1,4 @@
-# Profit Margin Analysis in Algorithmic Trading
+# Profit Margin Analysis
 
 Profit Margin Analysis is a critical financial metric used to gauge the profitability of a company or trading strategy relative to its revenue. In the context of [algorithmic trading](../a/algorithmic_trading.md), this analysis becomes even more nuanced due to the automated, high-frequency nature of the trades, which can significantly affect profitability. This document delves into the concept, its components, and its relevance to [algorithmic trading](../a/algorithmic_trading.md).
 

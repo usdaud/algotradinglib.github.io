@@ -1,4 +1,4 @@
-### Negative Interest Rate Strategies
+# Negative Interest Rate Strategies
 
 The concept of negative interest rates has become increasingly relevant in the modern financial landscape. This strategy has primarily been adopted by central banks in efforts to combat deflationary pressures and stimulate economic growth. While traditionally interest rates hover above zero, negative interest rates imply that depositors must pay to keep their money in banks, effectively charging interest on deposits. This strategy, though unconventional, has practical implementations and significant effects, particularly within the realm of [algorithmic trading](../a/algorithmic_trading.md) (algo trading).
 

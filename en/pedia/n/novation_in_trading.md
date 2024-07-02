@@ -1,4 +1,4 @@
-# **Novation in Trading**
+# Novation
 
 Novation is a critical concept in the financial markets, particularly in the trading of [derivatives](../d/derivatives.md). It involves substituting a new contract or party in place of an original contract or party. Novation is commonly used to manage [counterparty risk](../c/counterparty_risk.md), ensure liquidity, and enhance the overall stability and efficiency of [trading systems](../t/trading_systems.md). This detailed explanation covers various aspects of novation in trading, its application, benefits, and challenges.
 

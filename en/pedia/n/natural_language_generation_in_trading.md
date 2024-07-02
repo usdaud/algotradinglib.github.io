@@ -1,4 +1,4 @@
-# Natural Language Generation in Trading
+# Natural Language Generation
 
 Natural Language Generation (NLG) is a subfield of artificial intelligence focusing on creating natural language from a given set of data. It involves the automatic generation of coherent and contextually relevant textual content that resembles human language. In the trading domain, NLG can be utilized for various purposes such as generating trading reports, summarizing financial news, and automating investment advice. This comprehensive overview covers the integral aspects of NLG in trading, including its applications, technologies, challenges, and key players.
 

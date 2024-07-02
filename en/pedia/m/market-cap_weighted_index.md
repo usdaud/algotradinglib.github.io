@@ -1,4 +1,4 @@
-## Market-Cap Weighted Index
+# Market-Cap Weighted Index
 
 A **market-cap weighted index**, also known as a capitalization-weighted index, is a type of stock market index in which individual components are weighted according to their market capitalization—meaning, the total market value of a company's outstanding shares. This means that the stocks with the largest market caps have the greatest influence on the performance of the index.
 

@@ -1,4 +1,4 @@
-# Out-of-Sample Testing in Algorithmic Trading
+# Out-of-Sample Testing
 
 Out-of-sample testing is an essential concept in [algorithmic trading](../a/algorithmic_trading.md), helping traders evaluate the robustness and predictability of their [trading strategies](../t/trading_strategies.md). It involves evaluating the performance of a trading strategy on data that was not used during the model development phase. This process ensures that the strategy can generalize well to unknown data, reducing the risk of overfitting and increasing the confidence a trader can have in its future performance.
 

@@ -1,4 +1,4 @@
-# Rolling Volatility in Algorithmic Trading
+# Rolling Volatility
 
 ### Introduction
 Rolling volatility is a statistical measure used in financial markets to assess the change in the level of price variation for a given security or market over time. Unlike static volatility measurements, which analyze data over a fixed period, rolling volatility provides a dynamic picture by continually updating the period under review. This makes it an invaluable tool for [algorithmic trading](../a/algorithmic_trading.md) strategies where adapting to market conditions in real-time is crucial.

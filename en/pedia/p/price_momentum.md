@@ -1,5 +1,4 @@
-# Price Momentum in Algorithmic Trading
-=====================
+# Price Momentum
 
 Price momentum is a crucial concept in the world of financial markets, particularly in the realm of [algorithmic trading](../a/algorithmic_trading.md). It is one of the fundamental principles that traders and quantitative analysts use to develop strategies aimed at capitalizing on market inefficiencies. This document delves into the intricacies of price momentum, examining its theoretical foundations, practical applications, and the role it plays in [algorithmic trading](../a/algorithmic_trading.md). 
 

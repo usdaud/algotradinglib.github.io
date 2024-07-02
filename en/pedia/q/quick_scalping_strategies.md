@@ -1,4 +1,6 @@
-# When it comes to algorithmic trading, "Quick Scalping Strategies" form a significant and intriguing subset. This form of trading focuses on making a high number of small profits within short time frames—often minutes or even seconds—capitalizing on very brief market movements. This guide delves into the intricacies, methodologies, tools, and risks associated with quick scalping strategies in algorithmic trading.
+# Quick Scalping Strategies
+
+When it comes to algorithmic trading, "Quick Scalping Strategies" form a significant and intriguing subset. This form of trading focuses on making a high number of small profits within short time frames—often minutes or even seconds—capitalizing on very brief market movements. This guide delves into the intricacies, methodologies, tools, and risks associated with quick scalping strategies in algorithmic trading.
 
 ### 1. Introduction to Scalping
 

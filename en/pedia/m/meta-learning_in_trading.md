@@ -1,4 +1,4 @@
-# Meta-Learning in Trading
+# Meta-Learning
 
 Meta-learning, or "learning to learn," is an advanced machine learning technique where algorithms are designed to learn how to adapt to new tasks and environments more efficiently than traditional methods. In the context of trading, meta-learning can be particularly impactful because financial markets are dynamic and require continuous adaptation to new conditions.
 

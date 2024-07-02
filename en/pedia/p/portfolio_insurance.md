@@ -1,4 +1,4 @@
-### Portfolio Insurance
+# Portfolio Insurance
 
 Portfolio insurance is a method used in the financial markets to hedge the downside risk of a portfolio of assets. The main goal of portfolio insurance is to limit the potential losses of a portfolio while preserving the potential for upside gains. This can be particularly useful during periods of market volatility or economic uncertainty.
 

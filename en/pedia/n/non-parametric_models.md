@@ -1,4 +1,4 @@
-# Non-Parametric Models in Algo Trading
+# Non-Parametric Models
 
 Non-parametric models are a class of statistical models that do not assume a fixed functional form for the relationship between the predictors and the response variable. This flexibility makes them particularly useful in the context of [algorithmic trading](../a/algorithmic_trading.md), where market dynamics can be complex and non-linear. Unlike parametric models, which require assumptions about the functional form and parameters, non-parametric models are more data-driven and can adapt to the structure revealed by the data.
 

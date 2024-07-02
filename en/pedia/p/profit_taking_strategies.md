@@ -1,4 +1,4 @@
-# Profit Taking Strategies in Algorithmic Trading
+# Profit Taking Strategies
 
 Profit taking strategies are essential components of a comprehensive trading plan, especially in the realm of [algorithmic trading](../a/algorithmic_trading.md). These strategies outline when and how profits should be secured and are crucial for optimizing returns while minimizing risk. [Algorithmic trading](../a/algorithmic_trading.md), which employs high-speed computers and complex mathematical models to execute trades, benefits greatly from well-defined, systematic profit-taking approaches.
 

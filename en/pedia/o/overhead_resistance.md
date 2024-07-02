@@ -1,4 +1,4 @@
-# Overhead Resistance in Algorithmic Trading
+# Overhead Resistance
 
 ## Introduction
 In financial markets, particularly in the context of [technical analysis](../t/technical_analysis.md), the term **overhead resistance** refers to a specific price level at which a stock or other traded asset faces significant selling pressure. This selling pressure is often due to a large number of traders who had previously bought at that level and are looking to sell their positions. Understanding overhead resistance is crucial for traders, especially those who employ [algorithmic trading](../a/algorithmic_trading.md) (also known as algo-trading). [Algorithmic trading](../a/algorithmic_trading.md) involves the use of computer algorithms to execute [trading strategies](../t/trading_strategies.md) based on predefined criteria. Overhead resistance plays a vital role in shaping these algorithms' rules and strategies.

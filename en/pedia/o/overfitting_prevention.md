@@ -1,4 +1,4 @@
-## Overfitting Prevention in Algorithmic Trading
+# Overfitting Prevention
 
 Overfitting is a critical issue in [algorithmic trading](../a/algorithmic_trading.md) and [computational finance](../c/computational_finance.md). It occurs when a trading model is excessively complex, capturing noise rather than the underlying pattern in the data. While such a model might perform exceptionally well on historical data, it typically fails to generalize to new, unseen data, leading to poor investment decisions and financial losses. Overfitting prevention is therefore essential for the development of robust and reliable [trading algorithms](../t/trading_algorithms.md).
 

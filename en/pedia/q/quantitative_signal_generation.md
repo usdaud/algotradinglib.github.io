@@ -1,4 +1,4 @@
-# **Quantitative Signal Generation**
+# Quantitative Signal Generation
 
 Quantitative signal generation is a cornerstone concept in [algorithmic trading](../a/algorithmic_trading.md), where mathematical models and statistical techniques are utilized to make trading decisions. This technique involves analyzing historical data and market variables to generate signals that indicate when to buy or sell financial instruments. The adoption of quantitative strategies helps in making systematic, emotion-free decisions and can involve complex methods spanning multiple disciplines, including statistics, econometrics, machine learning, and computer science.
 

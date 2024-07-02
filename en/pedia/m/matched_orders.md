@@ -1,4 +1,4 @@
-# Matched Orders in Algorithmic Trading
+# Matched Orders
 
 In the realm of financial markets, particularly within the context of [algorithmic trading](../a/algorithmic_trading.md), the term "matched orders" represents a critical concept. Matched orders are pairs of buy and sell orders that align perfectly in terms of price and quantity within a trading platform. This alignment allows for the immediate execution of trades, facilitating liquidity and [market efficiency](../m/market_efficiency.md). In [algorithmic trading](../a/algorithmic_trading.md), matched orders are often the result of sophisticated algorithms designed to find the best possible matches for trade execution in real-time.
 

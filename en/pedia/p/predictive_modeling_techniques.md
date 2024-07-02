@@ -1,4 +1,4 @@
-# Predictive Modeling Techniques in Algorithmic Trading
+# Predictive Modeling Techniques
 
 [Predictive modeling](../p/predictive_modeling.md) is an essential aspect of [algorithmic trading](../a/algorithmic_trading.md) where mathematical and computational techniques are employed to forecast future market movements based on historical data. This involves analyzing patterns, trends, and relationships within data to make informed predictions about potential future price actions, effectively guiding [trading strategies](../t/trading_strategies.md). Algorithmic traders leverage various [predictive modeling](../p/predictive_modeling.md) techniques to enhance decision-making, optimize [trading performance](../t/trading_performance.md), and improve overall profitability.
 

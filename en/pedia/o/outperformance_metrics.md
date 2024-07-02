@@ -1,4 +1,4 @@
-# Outperformance Metrics in Algorithmic Trading
+# Outperformance Metrics
 
 In the realm of [algorithmic trading](../a/algorithmic_trading.md), the ability to measure the performance of [trading strategies](../t/trading_strategies.md) is paramount. Outperformance metrics, also known as [performance metrics](../p/performance_metrics.md) or performance measures, are key tools used by traders, analysts, and portfolio managers to evaluate how well a trading strategy has performed relative to a benchmark or its expected return. This detailed examination covers various outperformance metrics vital in [algorithmic trading](../a/algorithmic_trading.md).
 

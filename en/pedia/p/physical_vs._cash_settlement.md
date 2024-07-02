@@ -1,4 +1,4 @@
-# Physical vs. Cash Settlement in Algorithmic Trading
+# Physical vs. Cash Settlement
 
 In the realm of financial markets, particularly in the context of [derivatives](../d/derivatives.md) such as futures and options, the terms "physical settlement" and "cash settlement" play crucial roles. Both methods of settlement define how the positions in these financial instruments are resolved upon expiration. Understanding the nuances between these two settlement methods is essential for traders, investment professionals, and anyone involved in [algorithmic trading](../a/algorithmic_trading.md). 
 
