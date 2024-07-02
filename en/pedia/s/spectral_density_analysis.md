@@ -1,4 +1,4 @@
-# Spectral Density Analysis in Algorithmic Trading
+# Spectral Density Analysis
 
 Spectral density analysis is a powerful tool from signal processing used extensively in [algorithmic trading](../a/algorithmic_trading.md). It involves studying the power distribution of different frequency components within a time series. In finance, it helps uncover periodicities, cyclic patterns, or quasi-cyclic behaviors of market data that are not easily detectable in the time domain.
 

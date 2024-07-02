@@ -1,4 +1,4 @@
-# Turnover Ratios in Trading
+# Turnover Ratios
 
 [Turnover ratios](../t/turnover_ratios.md) are critical metrics in trading, which measure the efficiency and activity level of a portfolio or trading strategy. These ratios provide insights into how frequently assets are bought and sold within a specific period and are essential for portfolio managers, traders, and investors for various reasons. This article delves deep into [turnover ratios](../t/turnover_ratios.md), exploring their significance, types, calculation methods, implications, and real-world applications.
 

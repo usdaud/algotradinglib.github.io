@@ -1,4 +1,4 @@
-# Velocity Indicators in Algorithmic Trading
+# Velocity Indicators
 
 ## Overview
 Velocity indicators are a crucial set of tools in [algorithmic trading](../a/algorithmic_trading.md), used to measure the rate of change in price or volume. These indicators help traders identify the momentum of the market, enabling them to make more informed trading decisions. Velocity indicators can be derived from various statistical measures and [technical analysis](../t/technical_analysis.md) techniques. In the context of [algorithmic trading](../a/algorithmic_trading.md), these indicators can be incorporated into [trading algorithms](../t/trading_algorithms.md) to automate the decision-making process.

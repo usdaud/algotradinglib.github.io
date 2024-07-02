@@ -1,4 +1,4 @@
-# Short Position Analysis in Algorithmic Trading
+# Short Position Analysis
 
 ## Introduction
 In [algorithmic trading](../a/algorithmic_trading.md), a short position refers to the practice of selling a security that the seller does not own, with the intention of buying it back at a lower price in the future. This method is often employed by traders to capitalize on anticipated declines in the price of a particular asset. [Short selling](../s/short_selling.md) is inherently risky because it involves the potential for unlimited losses; prices can increase indefinitely, unlike long positions where the maximum loss is capped at the amount invested. This analysis delves into the intricacies of initiating and managing short positions within [algorithmic trading](../a/algorithmic_trading.md) strategies.

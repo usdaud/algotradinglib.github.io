@@ -1,4 +1,4 @@
-# **Seasonality Indicators in Algorithmic Trading**
+# Seasonality Indicators
 
 ### Introduction
 Seasonality refers to periodic fluctuations in market prices or [economic indicators](../e/economic_indicators.md) that recur with regularity over a fixed period, typically within a year. Seasonality can be influenced by various factors, such as weather conditions, holidays, and business cycles. In financial markets, seasonal patterns can be exploited using [algorithmic trading](../a/algorithmic_trading.md) to optimize [trading strategies](../t/trading_strategies.md) and improve returns.

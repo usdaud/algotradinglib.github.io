@@ -1,4 +1,4 @@
-# Utility Function Optimization in Algorithmic Trading
+# Utility Function Optimization
 
 In the realm of [algorithmic trading](../a/algorithmic_trading.md), optimizing utility functions is critical for maximizing the performance of [trading strategies](../t/trading_strategies.md). A utility function essentially measures the satisfaction or value derived from a particular portfolio or set of outcomes. Understanding and optimizing utility is fundamental to making decisions that align with a trader's risk tolerance and investment goals.
 

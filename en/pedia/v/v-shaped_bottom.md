@@ -1,4 +1,4 @@
-# V-Shaped Bottom in Algo Trading
+# V-Shaped Bottom
 
 A **V-shaped bottom** is a [technical analysis](../t/technical_analysis.md) pattern that indicates a sharp, marked reversal in the price of a security or asset. Commonly found in financial charts, this pattern exhibits a sharp downtrend followed by an equally sharp uptrend, forming a characteristic "V" shape. Understanding and recognizing this pattern is crucial for [algorithmic trading](../a/algorithmic_trading.md) strategies aiming to capitalize on rapid market movements.
 

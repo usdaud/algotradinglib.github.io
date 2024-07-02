@@ -1,5 +1,4 @@
-# Value and Growth Analysis in Algorithmic Trading
-------------------------------------------------
+# Value and Growth Analysis
 
 Value and [growth investing](../g/growth_investing.md) are two fundamental approaches in evaluating and selecting stocks in the financial markets. These investment strategies have long been utilized by fund managers, institutional investors, and individual traders. With the emergence of [algorithmic trading](../a/algorithmic_trading.md), these methodologies have been transformed, automated, and optimized using advanced computational models. This document delves into the concepts of value and growth analysis, explores how they are integrated into [algorithmic trading](../a/algorithmic_trading.md) systems, and highlights some of the leading companies in this domain.
 

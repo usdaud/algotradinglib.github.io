@@ -1,4 +1,4 @@
-## Trend Indicators in Algorithmic Trading
+# Trend Indicators
 
 [Algorithmic trading](../a/algorithmic_trading.md), also known as algo-trading or black-box trading, is a technological advancement where complex algorithms execute trades at high speed and frequency. The cornerstone of many [algorithmic trading](../a/algorithmic_trading.md) strategies is the utilization of trend indicators. These indicators help in identifying market trends, gauging their strength, and predicting future price movements. In this detailed write-up, we will explore various trend indicators, their mechanisms, benefits, drawbacks, and their applications in [algorithmic trading](../a/algorithmic_trading.md).
 

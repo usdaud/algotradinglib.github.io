@@ -1,4 +1,4 @@
-## Smart Order Routing
+# Smart Order Routing
 
 Smart [Order Routing](../o/order_routing.md) (SOR) is an advanced [algorithmic trading](../a/algorithmic_trading.md) strategy designed to optimize the execution of orders by routing them to the best possible trading venues based on various criteria such as price, liquidity, and speed. SOR is essential in the modern financial market landscape, where liquidity is fragmented across multiple trading venues, including stock exchanges, [dark pools](../d/dark_pools.md), and other alternative [trading systems](../t/trading_systems.md) (ATS).
 

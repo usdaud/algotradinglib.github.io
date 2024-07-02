@@ -1,4 +1,4 @@
-# Support and Resistance in Algorithmic Trading
+# Support and Resistance
 
 ## Introduction to Support and Resistance
 Support and resistance are fundamental concepts in [technical analysis](../t/technical_analysis.md). They represent specific price levels on charts that tend to act as barriers, preventing the price of an asset from moving in a certain direction. 

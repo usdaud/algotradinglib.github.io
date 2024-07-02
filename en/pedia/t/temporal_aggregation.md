@@ -1,4 +1,4 @@
-## Temporal Aggregation in Algorithmic Trading
+# Temporal Aggregation
 
 Temporal aggregation is a technique used in various fields, including finance and [algorithmic trading](../a/algorithmic_trading.md), to process time-series data by summarizing or transforming it into a more manageable form. The objective is to extract meaningful insights, enhance data analysis, and facilitate decision-making processes. In the context of [algorithmic trading](../a/algorithmic_trading.md), temporal aggregation involves compressing or consolidating financial data, often captured at high frequencies, into larger time intervals. This aggregated data serves multiple purposes, such as reducing noise, identifying trends, and optimizing [trading strategies](../t/trading_strategies.md).
 

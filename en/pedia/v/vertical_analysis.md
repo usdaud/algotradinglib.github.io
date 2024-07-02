@@ -1,4 +1,4 @@
-# Vertical Analysis in Algo Trading
+# Vertical Analysis
 
 Vertical analysis, sometimes referred to as common-size [financial statement analysis](../f/financial_statement_analysis.md), is an important [financial statement analysis](../f/financial_statement_analysis.md) tool used to evaluate the proportional size of different financial statement line items within a single accounting period. This relative size analysis is crucial in algorithms and [automated trading systems](../a/automated_trading_systems.md) for making informed decisions based on the financial health and performance of a company. For algo trading, vertical analysis is employed to scale financial data to a common size, enabling the comparison of financial statements across various periods or between companies of different sizes.
 

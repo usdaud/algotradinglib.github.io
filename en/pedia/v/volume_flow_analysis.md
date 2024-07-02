@@ -1,5 +1,4 @@
-# Volume Flow Analysis in Algorithmic Trading
----
+# Volume Flow Analysis
 
 Volume Flow Analysis (VFA) is a sophisticated trading strategy used primarily in [algorithmic trading](../a/algorithmic_trading.md) to assess the buying and selling pressures in the market. It quantifies the net flow of volume into or out of a stock, enabling traders to make informed decisions about market direction, potential reversals, and the strength of price movements.
 

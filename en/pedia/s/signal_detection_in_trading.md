@@ -1,4 +1,4 @@
-# Signal Detection in Trading
+# Signal Detection
 
 Signal detection in trading is a critical component of [algorithmic trading](../a/algorithmic_trading.md), which involves the use of computer programs and systems to trade financial instruments at speeds and frequencies that a human trader cannot match. Signals in the context of trading are identifiable patterns or trends in historical price data that can indicate the optimal times to buy or sell assets. These signals are typically generated through a combination of technical and [fundamental analysis](../f/fundamental_analysis.md). The process of signal detection involves multiple methodologies, tools, and algorithms to forecast market movements accurately.
 

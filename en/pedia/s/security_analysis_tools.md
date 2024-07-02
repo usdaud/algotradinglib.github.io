@@ -1,4 +1,4 @@
-# Security Analysis Tools in Algorithmic Trading
+# Security Analysis Tools
 
 [Security analysis](../s/security_analysis.md) tools play a critical role in the realm of [algorithmic trading](../a/algorithmic_trading.md), enabling traders and institutions to assess and make informed decisions about investments. These tools leverage various forms of analysis, including technical, quantitative, and [fundamental analysis](../f/fundamental_analysis.md), to evaluate the potential of securities. In this detailed exploration, we will delve into several key categories of [security analysis](../s/security_analysis.md) tools, including software platforms, [quantitative analysis](../q/quantitative_analysis.md) libraries, data services, [backtesting](../b/backtesting.md) platforms, and [sentiment analysis](../s/sentiment_analysis.md) tools.
 

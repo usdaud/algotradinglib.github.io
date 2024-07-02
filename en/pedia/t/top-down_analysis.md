@@ -1,4 +1,4 @@
-# Top-Down Analysis in Algorithmic Trading
+# Top-Down Analysis
 
 Top-down analysis is a strategic approach in financial analysis, applied particularly in the fields of investment management and [algorithmic trading](../a/algorithmic_trading.md). It involves evaluating broad macroeconomic indicators before progressing to microeconomic elements, such as individual securities. This method is predominantly used to identify opportunities based on economic conditions, industry trends, and other larger scale forces that can influence financial markets and individual asset prices. This document provides a comprehensive understanding of top-down analysis and its applications in [algorithmic trading](../a/algorithmic_trading.md).
 

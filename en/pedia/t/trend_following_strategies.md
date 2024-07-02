@@ -1,4 +1,4 @@
-# Trend Following Strategies in Algorithmic Trading
+# Trend Following Strategies
 
 ## Introduction
 [Trend following](../t/trend_following.md) is a popular trading strategy employed in the realm of [algorithmic trading](../a/algorithmic_trading.md). Unlike other [trading strategies](../t/trading_strategies.md) that focus on predicting market reversals or identifying undervalued stocks, [trend following](../t/trend_following.md) strategies concentrate on market momentum by identifying and capitalizing on the direction in which the market is moving. The core principle behind [trend following](../t/trend_following.md) is that prices, whether of stocks, commodities, currencies, or other assets, tend to follow trends. Once a trend is identified, traders can benefit by entering positions in the direction of that trend until there are indications of a reversal.

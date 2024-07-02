@@ -1,5 +1,4 @@
-# Unified Market Theory in Algorithmic Trading
----
+# Unified Market Theory
 
 ### Introduction to Unified Market Theory
 

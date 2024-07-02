@@ -1,4 +1,4 @@
-# Technical Analysis Methods in Algorithmic Trading
+# Technical Analysis Methods
 
 ## Introduction
 

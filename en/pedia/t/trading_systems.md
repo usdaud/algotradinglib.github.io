@@ -1,4 +1,4 @@
-# Trading Systems in Algorithmic Trading
+# Trading Systems
 
 [Algorithmic trading](../a/algorithmic_trading.md), often referred to as "algo trading," utilizes automated, pre-programmed trading instructions to execute orders on financial markets. These instructions are based on various criteria, including time, price, and volume. Trading systems are the frameworks that support these automated [trading strategies](../t/trading_strategies.md).
 

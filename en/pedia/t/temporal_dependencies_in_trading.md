@@ -1,4 +1,4 @@
-# Temporal Dependencies in Trading
+# Temporal Dependencies
 
 Temporal dependencies in trading refer to the relationships and patterns that exist between financial data points over time. These dependencies are critical for developing predictive models and algorithms in [algorithmic trading](../a/algorithmic_trading.md) (algo-trading). Understanding, identifying, and leveraging these temporal dependencies can significantly enhance the accuracy and effectiveness of [trading strategies](../t/trading_strategies.md). This document provides an exhaustive exploration of temporal dependencies in trading, covering various aspects including statistical models, machine learning techniques, and practical applications in the finance sector.
 

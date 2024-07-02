@@ -1,4 +1,4 @@
-# Stochastic Processes in Algorithmic Trading
+# Stochastic Processes
 
 ## Introduction
 Stochastic processes are mathematical objects used to model systems or phenomena that evolve over time in a probabilistic manner. In [algorithmic trading](../a/algorithmic_trading.md), stochastic processes are fundamental in understanding and modeling the unpredictable nature of financial markets. This allows traders and financial researchers to create models and algorithms that can predict price changes, assess risks, and optimize portfolios.

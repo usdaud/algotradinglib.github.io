@@ -1,4 +1,4 @@
-# Value Growth Analysis in Algorithmic Trading
+# Value Growth Analysis
 
 Value Growth Analysis (VGA) is a sophisticated method used in the realm of [algorithmic trading](../a/algorithmic_trading.md) to optimize [portfolio management](../p/portfolio_management.md) and enhance profitability. This approach combines principles from both [value investing](../v/value_investing.md) and [growth investing](../g/growth_investing.md), leveraging algorithmic analysis to identify undervalued stocks with potential for substantial growth. By integrating vast datasets and employing complex models, VGA aims to make informed investment decisions that outperform traditional strategies.
 

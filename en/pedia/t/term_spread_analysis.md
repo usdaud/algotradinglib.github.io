@@ -1,4 +1,4 @@
-### Term Spread Analysis in Algorithmic Trading
+# Term Spread Analysis
 
 #### Introduction to Term Spread
 

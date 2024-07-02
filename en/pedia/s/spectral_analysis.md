@@ -1,4 +1,4 @@
-# Spectral Analysis in Algorithmic Trading
+# Spectral Analysis
 
 Spectral analysis, also known as frequency domain analysis, is a mathematical tool used to break down complex signals into their constituent sine and cosine components. This tool is commonly employed in various fields such as physics, engineering, and finance. In the realm of [algorithmic trading](../a/algorithmic_trading.md), spectral analysis has gained prominence for its ability to extract hidden periodicities and patterns within time-series data, which can be instrumental for designing and optimizing [trading strategies](../t/trading_strategies.md).
 

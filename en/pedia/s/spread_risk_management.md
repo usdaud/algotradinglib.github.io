@@ -1,4 +1,4 @@
-# Spread Risk Management in Algorithmic Trading
+# Spread Risk Management
 
 Spread [risk management](../r/risk_management.md) is a critical aspect of [algorithmic trading](../a/algorithmic_trading.md) that focuses on the mitigation of risks associated with bid-ask spreads in financial markets. The [bid-ask spread](../b/bid-ask_spread.md) is the difference between the highest price a buyer is willing to pay (bid) and the lowest price a seller is willing to accept (ask). Effective management of this spread is crucial for optimizing [trading strategies](../t/trading_strategies.md) and ensuring profitability. Below is a detailed exploration of spread [risk management](../r/risk_management.md) techniques, their importance, and their application in the context of [algorithmic trading](../a/algorithmic_trading.md).
 

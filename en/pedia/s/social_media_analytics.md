@@ -1,4 +1,4 @@
-# Social Media Analytics in Algorithmic Trading
+# Social Media Analytics
 
 ## Introduction
 

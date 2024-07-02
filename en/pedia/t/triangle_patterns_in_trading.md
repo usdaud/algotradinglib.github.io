@@ -1,4 +1,4 @@
-# Triangle Patterns in Trading
+# Triangle Patterns
 
 In the realm of trading, [technical analysis](../t/technical_analysis.md) serves as a significant tool for traders to forecast future price movements based on historical data. Among various [chart patterns](../c/chart_patterns.md) that traders analyze, triangle patterns hold a special place due to their frequent occurrence and reliable predictive power. Triangle patterns are considered [continuation patterns](../c/continuation_patterns.md), which means they suggest that the existing trend is likely to continue once the pattern is complete. However, they can also indicate potential reversals, which adds an element of complexity to their interpretation. This document provides an exhaustive look at triangle patterns in trading, their types, formation, significance, and how to effectively trade them.
 

@@ -1,4 +1,4 @@
-# Stress Test Implementation in Algorithmic Trading
+# Stress Test Implementation
 
 Stress testing is a critical procedure used in [algorithmic trading](../a/algorithmic_trading.md) to evaluate the robustness and resilience of [trading algorithms](../t/trading_algorithms.md) under extreme market conditions. Such tests help traders and financial institutions to anticipate potential failures and to understand the vulnerabilities in their [trading strategies](../t/trading_strategies.md). This document delves into various aspects of stress test implementation in [algorithmic trading](../a/algorithmic_trading.md), covering methodologies, tools, scenarios, and case studies.
 

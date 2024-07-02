@@ -1,4 +1,4 @@
-# Utility Maximization in Algorithmic Trading
+# Utility Maximization
 
 Utility maximization is a foundational concept in economics and financial theory that involves optimizing the allocation of resources to achieve the highest possible level of satisfaction or utility. In the context of [algorithmic trading](../a/algorithmic_trading.md), this theory is leveraged to design [automated trading systems](../a/automated_trading_systems.md) that maximize the expected utility of returns while minimizing associated risks. 
 

@@ -1,4 +1,4 @@
-# Survivorship Effect in Algorithmic Trading
+# Survivorship Effect
 
 [Survivorship bias](../s/survivorship_bias.md) is a critical phenomenon to understand in the context of [algorithmic trading](../a/algorithmic_trading.md) and financial research. It occurs when analyses are skewed by focusing on entities that survived a certain process while disregarding those that did not. This becomes particularly relevant when dealing with historical data, [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md), or conducting empirical financial research. 
 

@@ -1,4 +1,4 @@
-# Tail Risk Premium in Algorithmic Trading
+# Tail Risk Premium
 
 **Introduction**
 

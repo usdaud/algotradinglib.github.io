@@ -1,4 +1,4 @@
-# Unusual Volume in Algorithmic Trading
+# Unusual Volume
 
 Unusual volume is a critical term in the realm of financial markets and [algorithmic trading](../a/algorithmic_trading.md). It often signals opportunities and risks, making it a key indicator for traders who rely on quantitative methods to make trading decisions. Understanding unusual volume can provide insights into market movements and assist in the development of more effective [trading strategies](../t/trading_strategies.md).
 

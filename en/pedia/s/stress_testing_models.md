@@ -1,4 +1,4 @@
-### Stress Testing Models in Algorithmic Trading
+# Stress Testing Models
 
 Stress testing models are a crucial component of [risk management](../r/risk_management.md) in [algorithmic trading](../a/algorithmic_trading.md). These models are designed to evaluate the robustness of [trading algorithms](../t/trading_algorithms.md) under extreme market conditions. The primary objective is to ensure that in the face of unpredictable and adverse events, [trading algorithms](../t/trading_algorithms.md) can maintain functionality and not incur disproportionate losses.
 

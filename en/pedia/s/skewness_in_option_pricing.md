@@ -1,4 +1,4 @@
-### Skewness in Option Pricing
+# Skewness in Option Pricing
 
 In the context of finance and specifically options pricing, skewness refers to the asymmetry of the return distribution of an underlying asset. While traditional financial models often assume that asset returns are normally distributed with a symmetrical bell curve, real market data frequently exhibits skewness, meaning the distribution leans more heavily to one side. Understanding and accounting for skewness in options pricing is critical for traders and risk managers to accurately price options and understand potential risks and returns.
 

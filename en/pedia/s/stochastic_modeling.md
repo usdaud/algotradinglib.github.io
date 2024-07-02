@@ -1,4 +1,4 @@
-# Stochastic Modeling in Algorithmic Trading
+# Stochastic Modeling
 
 Stochastic modeling is a form of mathematical modeling that utilizes random variables and processes to represent systems or phenomena that are inherently unpredictable. In the context of [algorithmic trading](../a/algorithmic_trading.md), stochastic models are used to forecast price movements, asset returns, and to develop [trading strategies](../t/trading_strategies.md). This documentation provides an in-depth look into the principles, methods, and applications of stochastic modeling in the financial markets.
 

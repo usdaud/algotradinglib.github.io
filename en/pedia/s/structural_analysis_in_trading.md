@@ -1,4 +1,4 @@
-# Structural Analysis in Trading
+# Structural Analysis
 
 ## Introduction
 Structural analysis in trading refers to the formal and quantitative examination of market data to identify, understand, and exploit patterns, relationships, and structures within financial markets. This analytical approach leverages various mathematical, statistical, and computational techniques to uncover inherent market mechanics that can inform [trading strategies](../t/trading_strategies.md) and improve decision-making processes. It is used extensively in [algorithmic trading](../a/algorithmic_trading.md), where automated systems execute trades based on pre-defined rules derived from structural market patterns.

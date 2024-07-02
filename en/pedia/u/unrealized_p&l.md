@@ -1,4 +1,4 @@
-## Unrealized P&L
+# Unrealized P&L
 
 Unrealized P&L, also known as Unrealized Profit and Loss or [Unrealized Gains](../u/unrealized_gains.md) and Losses, pertains to the profit or loss that an investor has on paper from their investments but has not yet actualized by selling the financial instruments. This concept is crucial for traders and investors, especially those engaging in [algorithmic trading](../a/algorithmic_trading.md) (or "algo trading"), as it can significantly influence their decision-making processes and the management of their portfolios.
 

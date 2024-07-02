@@ -1,4 +1,4 @@
-# Simulation Models in Algorithmic Trading
+# Simulation Models
 
 Simulation models, also known as simulation-based models, are essential tools in the realm of [algorithmic trading](../a/algorithmic_trading.md). These models enable traders and researchers to replicate and analyze market conditions without real financial risk. By creating synthetic scenarios that mimic real-world attributes, simulation models allow for exhaustive testing of [trading strategies](../t/trading_strategies.md) under varied conditions.
 

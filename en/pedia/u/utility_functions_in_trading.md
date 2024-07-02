@@ -1,4 +1,4 @@
-# Utility Functions in Trading
+# Utility Functions
 
 Utility functions are a crucial concept in trading, particularly in the realm of [algorithmic trading](../a/algorithmic_trading.md). They represent the preferences of investors concerning various trading outcomes, making them essential for decision-making processes. This article delves into the importance, types, and applications of utility functions in trading, particularly in the context of [algorithmic trading](../a/algorithmic_trading.md) systems.
 

@@ -1,4 +1,4 @@
-# Software Tools for Trading
+# Software Tools
 
 ## Introduction
 

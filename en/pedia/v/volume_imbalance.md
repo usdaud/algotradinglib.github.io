@@ -1,4 +1,4 @@
-# Volume Imbalance in Algorithmic Trading
+# Volume Imbalance
 
 Volume imbalance is a critical concept in the domain of [algorithmic trading](../a/algorithmic_trading.md), referring to the asymmetry between buy and sell orders of a particular asset. It provides insights into the market sentiment and can indicate potential price movements. Traders use volume imbalances to anticipate short-term price changes, develop [trading strategies](../t/trading_strategies.md), and automate trade execution. Understanding volume imbalances involves dissecting various components like [order book imbalances](../o/order_book_imbalances.md), trade [volume analysis](../v/volume_analysis.md), and how these factors integrate into [trading algorithms](../t/trading_algorithms.md). In this comprehensive examination, we delve into the multifaceted aspects of volume imbalance and its implications in [algorithmic trading](../a/algorithmic_trading.md).
 

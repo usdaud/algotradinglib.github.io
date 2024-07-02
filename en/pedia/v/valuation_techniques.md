@@ -1,4 +1,4 @@
-# Valuation Techniques in Algorithmic Trading
+# Valuation Techniques
 
 In the realm of [algorithmic trading](../a/algorithmic_trading.md), creating effective [trading algorithms](../t/trading_algorithms.md) depends not just on sophisticated strategies for entering and exiting trades, but also on accurately valuing the underlying assets. Valuation techniques are fundamental—whether it’s for stocks, options, futures, or other financial instruments. These techniques help traders make educated decisions by providing insights into the true worth of securities, thus enabling more efficient and profitable trades. Below, we delve into various valuation techniques commonly employed in [algorithmic trading](../a/algorithmic_trading.md).
 

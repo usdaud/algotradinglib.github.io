@@ -1,4 +1,4 @@
-# Support Vector Machines in Trading
+# Support Vector Machines
 
 Support Vector Machines (SVMs) are supervised learning models frequently used in classification and regression tasks. SVMs are known for their versatility and accuracy, and have found significant applications in various fields including finance and trading. This document will delve into the functionality of SVMs, their role in [trading algorithms](../t/trading_algorithms.md), the process of implementing SVM-based strategies, and real-world applications.
 

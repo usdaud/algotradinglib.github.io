@@ -1,4 +1,4 @@
-### Trading Discipline Techniques
+# Trading Discipline Techniques
 
 In the world of [algorithmic trading](../a/algorithmic_trading.md), precision, strategy, and discipline are paramount. [Trading discipline](../t/trading_discipline.md) is the foundation upon which successful [trading strategies](../t/trading_strategies.md) are built. While a meticulously programmed algorithm can help make data-driven decisions, human oversight still plays a critical role. This topic delves into various techniques traders and institutions implement to maintain discipline in [algorithmic trading](../a/algorithmic_trading.md).
 

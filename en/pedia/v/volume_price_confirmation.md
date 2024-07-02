@@ -1,4 +1,4 @@
-## Volume Price Confirmation in Algorithmic Trading
+# Volume Price Confirmation
 
 ### Introduction
 

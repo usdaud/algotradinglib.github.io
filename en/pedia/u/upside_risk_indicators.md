@@ -1,4 +1,4 @@
-# Upside Risk Indicators in Algorithmic Trading
+# Upside Risk Indicators
 
 ## Introduction to Upside Risk
 

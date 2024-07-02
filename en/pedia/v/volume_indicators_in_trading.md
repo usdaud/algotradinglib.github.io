@@ -1,4 +1,4 @@
-# Volume Indicators in Trading
+# Volume Indicators
 
 [Volume indicators](../v/volume_indicators.md) play a critical role in trading, offering insights into the strength and sustainability of a trend, the intensity of buying and selling pressure, and potential reversals. These indicators are built upon the volume of trading transactions over a certain period and provide additional context to price movements. Traders and investors use [volume indicators](../v/volume_indicators.md) to validate trends, predict reversals, and make informed decisions. This comprehensive guide explores the most widely used [volume indicators](../v/volume_indicators.md), their interpretation, and their application in trading.
 

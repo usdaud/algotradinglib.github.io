@@ -1,4 +1,4 @@
-# Temporal Correlation in Algorithmic Trading
+# Temporal Correlation
 
 Temporal correlation, also known as serial correlation or [autocorrelation](../a/autocorrelation.md), refers to the relationship between values of a time series at different points in time. In the context of [algorithmic trading](../a/algorithmic_trading.md), understanding and utilizing temporal correlations can be critical for predicting future price movements, designing effective [trading strategies](../t/trading_strategies.md), and performing accurate [risk management](../r/risk_management.md).
 

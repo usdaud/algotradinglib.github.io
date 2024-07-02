@@ -1,4 +1,4 @@
-# Unfilled Order Strategy in Algo Trading
+# Unfilled Order Strategy
 
 ## Introduction
 In financial markets, orders are instructions given by traders to brokers to buy or sell an asset or security. Orders can either be market orders that execute immediately at current market prices or limit orders that specify a price threshold beyond which the trade should not be executed. Often, limit orders are used in algo-[trading strategies](../t/trading_strategies.md), leading to situations where orders may go unfilled if market conditions are not met. The "Unfilled Order Strategy" is a notable tactic in [algorithmic trading](../a/algorithmic_trading.md) where traders develop and use algorithms to handle and capitalize on [unfilled orders](../u/unfilled_orders.md). This comprehensive guide examines what [unfilled orders](../u/unfilled_orders.md) are, their implications on a trading strategy, and how traders and institutions can leverage them.

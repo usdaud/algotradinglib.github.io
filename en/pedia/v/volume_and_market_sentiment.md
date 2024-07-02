@@ -1,4 +1,4 @@
-# **Volume and Market Sentiment in Algo Trading**
+# Volume and Market Sentiment
 
 **Introduction**
 

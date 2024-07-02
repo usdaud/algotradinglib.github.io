@@ -1,4 +1,4 @@
-# Sector Correlation in Algorithmic Trading
+# Sector Correlation
 
 ## Introduction to Sector Correlation
 

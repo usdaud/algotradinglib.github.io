@@ -1,4 +1,4 @@
-# Uncertainty in Trading
+# Uncertainty
 
 Uncertainty is a fundamental aspect of financial markets and trading. It stems from the inability to predict future market movements with absolute precision due to the myriad of influencing factors. In this detailed exploration, we will delve into the different dimensions of uncertainty in trading, the sources and types of uncertainty, methods of measuring and managing uncertainty, and the implications it has on [trading strategies](../t/trading_strategies.md), especially in the context of [algorithmic trading](../a/algorithmic_trading.md).
 

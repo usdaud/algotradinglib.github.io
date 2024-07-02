@@ -1,4 +1,4 @@
-# Simulated Annealing in Algorithmic Trading
+# Simulated Annealing
 
 Simulated annealing is a probabilistic technique for approximating the global optimum of a given function. It is often used when the search space is discrete, for instance, in combinatorial optimization problems, and finds extensive application in fields such as network design, circuit layout, and most importantly, in [algorithmic trading](../a/algorithmic_trading.md). [Algorithmic trading](../a/algorithmic_trading.md) (or "algo trading") utilizes computer algorithms to automatically make trading decisions, submitting orders, and managing trades in financial markets. 
 

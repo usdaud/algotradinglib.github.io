@@ -1,5 +1,4 @@
-# Sentiment Surveys in Algorithmic Trading
-=========================================
+# Sentiment Surveys
 
 Sentiment surveys play a crucial role in the world of [algorithmic trading](../a/algorithmic_trading.md) due to their ability to capture market psychology and investor sentiment. By quantifying the sentiment of the market, these surveys offer insights that can predict market movements, thus serving as valuable inputs for [trading algorithms](../t/trading_algorithms.md).
 

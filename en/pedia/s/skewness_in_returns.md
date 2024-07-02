@@ -1,4 +1,4 @@
-# **Skewness in Returns**
+# Skewness in Returns
 
 Skewness in returns is a statistical measure that describes the distribution of returns for a security or portfolio over a given period of time. It provides insight into the asymmetry of the return distribution, indicating whether the returns are skewed towards more positive or negative outcomes. Understanding skewness is crucial for algorithmic traders (commonly known as algo traders) because it influences [risk management](../r/risk_management.md), [hedging strategies](../h/hedging_strategies.md), and the overall portfolio allocation.
 

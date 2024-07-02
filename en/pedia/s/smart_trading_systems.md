@@ -1,4 +1,4 @@
-# Smart Trading Systems in Algorithmic Trading
+# Smart Trading Systems
 
 ## Introduction
 

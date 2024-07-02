@@ -1,4 +1,4 @@
-## Top-Down Portfolio Management
+# Top-Down Portfolio Management
 
 ### Introduction
 Top-down [portfolio management](../p/portfolio_management.md) is an investment strategy where decisions are based on macroeconomic factors, broad [economic indicators](../e/economic_indicators.md), and overarching themes before drilling down to specific stocks or securities. This approach contrasts with bottom-up [portfolio management](../p/portfolio_management.md), where the focus is on individual company fundamentals regardless of the broader market or economic conditions.
