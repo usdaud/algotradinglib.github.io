@@ -1,4 +1,6 @@
-# Kurtosis Adjustment in Portfolio Theory is a sophisticated subject that involves the incorporation of higher-order moments in the assessment of portfolio performance and risk management. Portfolio theory, traditionally, rests on the assumption that asset returns are normally distributed—and hence can be sufficiently described by their mean (expected return) and variance (risk). However, actual asset returns often exhibit deviations from normality, characterized by skewness and kurtosis.
+# Kurtosis Adjustment in Portfolio Theory
+
+Kurtosis Adjustment in Portfolio Theory is a sophisticated subject that involves the incorporation of higher-order moments in the assessment of portfolio performance and risk management. Portfolio theory, traditionally, rests on the assumption that asset returns are normally distributed—and hence can be sufficiently described by their mean (expected return) and variance (risk). However, actual asset returns often exhibit deviations from normality, characterized by skewness and kurtosis.
 
 ### Understanding Kurtosis
 

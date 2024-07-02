@@ -1,4 +1,4 @@
-# Low-Frequency Data Analysis in Algorithmic Trading
+# Low-Frequency Data Analysis
 
 In the realm of [algorithmic trading](../a/algorithmic_trading.md), low-frequency data analysis refers to the analysis of financial data that is updated infrequently, often on a daily, weekly, or monthly basis. This stands in stark contrast to high-frequency trading (HFT), which involves analyzing data that can be updated multiple times per second. [Low-frequency trading](../l/low-frequency_trading.md) strategies generally involve longer time horizons and lower turnover rates compared to high-frequency strategies, which make them appealing to different types of investors.
 

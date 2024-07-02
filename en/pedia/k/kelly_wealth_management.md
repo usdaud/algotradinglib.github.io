@@ -1,4 +1,4 @@
-# **Kelly Wealth Management**
+# Kelly Wealth Management
 
 Kelly [Wealth Management](../w/wealth_management.md) is a [proprietary trading](../p/proprietary_trading.md) firm and investment advisory company leveraging the principles of algo trading and financial management to maximize investor returns and portfolio growth. Given the increasingly complex market environment and the technological advancements in trading, Kelly [Wealth Management](../w/wealth_management.md) has positioned itself as a leader in the sector by utilizing advanced algorithms, machine learning techniques, robust [risk management](../r/risk_management.md) frameworks, and expert financial advisory services.
 

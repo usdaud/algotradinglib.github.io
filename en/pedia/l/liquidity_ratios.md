@@ -1,4 +1,4 @@
-# **Liquidity Ratios in Algorithmic Trading**
+# Liquidity Ratios
 
 Liquidity ratios are financial metrics used to evaluate a company's ability to meet its short-term debt obligations. These ratios are critical in understanding a company's short-term financial health and operational efficiency. In the context of [algorithmic trading](../a/algorithmic_trading.md), liquidity ratios play a vital role in guiding [trading strategies](../t/trading_strategies.md), [risk management](../r/risk_management.md), and [financial modeling](../f/financial_modeling.md). This article delves into the various types of liquidity ratios, their calculations, implications in algo trading, and their integration within automated [trading algorithms](../t/trading_algorithms.md).
 

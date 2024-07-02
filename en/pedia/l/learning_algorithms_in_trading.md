@@ -1,4 +1,4 @@
-# Learning Algorithms in Trading
+# Learning Algorithms
 
 [Algorithmic trading](../a/algorithmic_trading.md), often abbreviated as algo-trading, involves using computer algorithms to automate trading decisions, usually at speeds and frequencies that are impossible for human traders. Learning algorithms, a subset of the broader machine learning and artificial intelligence (AI) fields, are increasingly transforming how trading is conducted on financial markets. These algorithms analyze data, generate predictive models, and often execute trades without human intervention. This document delves into various learning algorithms applied in the trading sector, their types, methodologies, practical applications, and the ethical considerations associated with their use.
 

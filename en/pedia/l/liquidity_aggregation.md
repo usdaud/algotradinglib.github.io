@@ -1,4 +1,4 @@
-# Liquidity Aggregation in Algorithmic Trading
+# Liquidity Aggregation
 
 Liquidity aggregation is a crucial concept in [algorithmic trading](../a/algorithmic_trading.md) that involves consolidating liquidity from multiple sources to improve trade execution efficiency. This practice is essential for minimizing slippage, reducing transaction costs, and ensuring optimal trade execution, which can significantly impact the profitability and [risk management](../r/risk_management.md) of [trading strategies](../t/trading_strategies.md).
 

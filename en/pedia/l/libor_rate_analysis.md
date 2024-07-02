@@ -1,4 +1,4 @@
-# Understanding the LIBOR Rate: An In-depth Analysis
+# LIBOR Rate
 
 ## Introduction to LIBOR
 The London Interbank Offered Rate (LIBOR) is a globally recognized benchmark interest rate that represents the average rate at which major global banks are willing to lend to one another in the international interbank market for short-term loans. It is determined daily and serves as a fundamental reference for a variety of financial instruments and contracts.

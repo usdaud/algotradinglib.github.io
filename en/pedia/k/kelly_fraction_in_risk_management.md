@@ -1,5 +1,4 @@
 # The Kelly Fraction in Risk Management
--------------------------------------
 
 The Kelly fraction, also known as the [Kelly criterion](../k/kelly_criterion.md), is a formula used in [risk management](../r/risk_management.md) and bet sizing to determine the optimal size of a series of bets or investments. This mathematical approach aims to maximize the logarithm of wealth over the long run by balancing potential returns against the risk of financial ruin. The [Kelly criterion](../k/kelly_criterion.md) is extensively utilized in fields like finance, gambling, and stock trading, most notably within algorithms and high-frequency trading contexts.
 

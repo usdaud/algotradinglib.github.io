@@ -1,4 +1,4 @@
-### Lunar Cycle Analysis in Trading
+# Lunar Cycle Analysis
 
 Lunar [cycle analysis](../c/cycle_analysis.md) is an unconventional yet intriguing aspect of trading that explores the potential correlation between the phases of the moon and market activity. This approach falls under the broader category of astrological or celestial financial analysis. It is rooted in the hypothesis that the lunar cycle, which has influenced human behavior and agricultural practices for millennia, might also affect financial markets.
 

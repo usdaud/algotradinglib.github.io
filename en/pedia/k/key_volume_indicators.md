@@ -1,4 +1,4 @@
-# Key Volume Indicators in Algorithmic Trading
+# Key Volume Indicators
 
 ### Introduction to Volume Indicators
 Volume in financial markets refers to the total quantity of shares or contracts traded for a specified security during a given period. [Volume indicators](../v/volume_indicators.md) are pivotal tools in [technical analysis](../t/technical_analysis.md), employed by traders and [algorithmic trading](../a/algorithmic_trading.md) systems to gauge the strength of a price movement, identify potential reversals, and validate trends. By analyzing volume data, traders can make more informed decisions and improve their strategies' overall efficiency.

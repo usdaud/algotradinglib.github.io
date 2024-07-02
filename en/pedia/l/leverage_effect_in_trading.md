@@ -1,4 +1,4 @@
-# Leverage Effect in Trading
+# Leverage Effect
 
 ## Introduction
 Leverage in trading refers to the use of borrowed capital to increase the potential return of an investment. It allows traders to open positions that are larger than their initial capital. The leverage effect, however, comes with both potential rewards and risks. Understanding this concept is crucial for anyone considering engaging in leveraged trading, as it can amplify not only the gains but also the losses.

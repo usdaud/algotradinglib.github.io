@@ -1,4 +1,4 @@
-## Liquidity Trap
+# Liquidity Trap
 
 A liquidity trap is a situation in which interest rates are low and savings rates are high, rendering monetary policy ineffective. During a liquidity trap, people hoard cash because they expect adverse events such as deflation, insufficient aggregate demand, or financial instability. This concept is important in the field of macroeconomics and is especially relevant in discussions about the effectiveness of monetary policy. 
 

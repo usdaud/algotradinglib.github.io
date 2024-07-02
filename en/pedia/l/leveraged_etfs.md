@@ -1,4 +1,4 @@
-### Leveraged ETFs
+# Leveraged ETFs
 
 #### Overview
 

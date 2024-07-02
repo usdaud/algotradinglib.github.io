@@ -1,4 +1,4 @@
-# Keynesian Economics in Trading
+# Keynesian Economics
 
 Keynesian economics, named after its founder, the British economist John Maynard Keynes, revolutionized economic thought in the 20th century. At its core, Keynesian economics emphasizes the total spending in the economy (aggregate demand) and its effects on output and inflation. It's fundamentally different from classical economics, which focuses more on the supply side of the economy. In the context of trading, Keynesian principles can provide valuable insights into market behavior, government policies, and the impact of [economic cycles](../e/economic_cycles.md) on [trading strategies](../t/trading_strategies.md).
 

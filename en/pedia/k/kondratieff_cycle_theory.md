@@ -1,4 +1,4 @@
-### Kondratieff Cycle Theory
+# Kondratieff Cycle Theory
 
 Kondratieff Cycle Theory, also known as K-waves, is a concept introduced by the Russian economist Nikolai Kondratieff in the 1920s. This theory posits that capitalist economies experience long-term, cyclical patterns of boom and bust periods that last approximately 40 to 60 years. These cycles are driven by technological innovations, changes in investment and consumption patterns, and broader socio-economic shifts. The Kondratieff cycles are usually divided into four distinct phases: expansion, stagnation, recession, and recovery. Each phase has its own characteristics and impacts on the economy, influencing aspects such as inflation, employment, and technological progress.
 

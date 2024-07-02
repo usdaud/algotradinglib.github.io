@@ -1,4 +1,4 @@
-## Kurtosis Adjustment in Algorithmic Trading
+# Kurtosis Adjustment
 
 Kurtosis adjustment is an advanced statistical technique frequently employed in the domain of [algorithmic trading](../a/algorithmic_trading.md). This method relies on kurtosis, a statistical measure used to describe the "tailedness" or extremity frequency of the probability distribution of a real-valued random variable. Understanding and adjusting for kurtosis is essential for developing robust [trading strategies](../t/trading_strategies.md) and managing risk effectively.
 

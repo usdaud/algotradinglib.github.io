@@ -1,4 +1,4 @@
-### Kondratieff Long Waves in Trading
+# Kondratieff Long Waves
 
 Kondratieff long waves, also known as K-waves or supercycles, refer to long-term [economic cycles](../e/economic_cycles.md) that last between 40 to 60 years. These cycles are named after Russian economist Nikolai Kondratieff, who first proposed the theory in the 1920s. Kondratieff's work suggested that capitalist economies experience long-term cycles of growth and contraction, influenced by technological innovations and major shifts in economic structure.
 

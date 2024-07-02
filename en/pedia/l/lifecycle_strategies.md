@@ -1,4 +1,4 @@
-# Lifecycle Strategies in Algorithmic Trading
+# Lifecycle Strategies
 
 [Algorithmic trading](../a/algorithmic_trading.md), often referred to as "algo trading," involves using computer programs and algorithms to execute trades based on predetermined criteria. As the market dynamics and trader's strategies evolve, a comprehensive understanding of lifecycle strategies is essential to navigate this high-tech domain effectively. Lifecycle strategies in [algorithmic trading](../a/algorithmic_trading.md) encompass the phases and methodologies employed throughout the entire trading process, from idea conception to deployment, and eventually to monitoring and optimization.
 

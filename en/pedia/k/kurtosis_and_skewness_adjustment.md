@@ -1,4 +1,4 @@
-## Kurtosis and Skewness Adjustment in Algorithmic Trading
+# Kurtosis and Skewness Adjustment
 
 ### Introduction
 [Algorithmic trading](../a/algorithmic_trading.md), or algo trading, leverages complex mathematical models and algorithms to make trading decisions at speeds and frequencies that human traders cannot match. Among the myriad of statistical tools and techniques used in developing these algorithms, kurtosis and skewness adjustments are paramount in fine-tuning and optimizing [trading strategies](../t/trading_strategies.md). These statistical measures offer deep insights into the distribution characteristics of asset returns, significantly influencing [risk management](../r/risk_management.md), [portfolio optimization](../p/portfolio_optimization.md), and overall [trading performance](../t/trading_performance.md).

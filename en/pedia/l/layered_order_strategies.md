@@ -1,4 +1,4 @@
-## Layered Order Strategies in Algorithmic Trading
+# Layered Order Strategies
 
 [Algorithmic trading](../a/algorithmic_trading.md), often referred to as "algo-trading," involves using complex algorithms to execute [trading strategies](../t/trading_strategies.md) at speeds and frequencies that human traders cannot match. One advanced strategy within this field is known as "layered order strategies," which can significantly enhance the efficiency and effectiveness of trading tactics. This document delves into the intricacies of layered order strategies, their applications, benefits, potential pitfalls, and relevant real-world examples.
 

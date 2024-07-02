@@ -1,4 +1,4 @@
-# Logistic Regression in Trading
+# Logistic Regression
 
 Logistic regression is a statistical method that is widely used in various fields, including finance and trading. It is a type of [regression analysis](../r/regression_analysis.md) used for predicting the outcome of a categorical dependent variable based on one or more independent variables. In finance, this can be used to model binary outcomes such as buy/sell decisions, the success or failure of a particular trade, or whether the market will go up or down.
 

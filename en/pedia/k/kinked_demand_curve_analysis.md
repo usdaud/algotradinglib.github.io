@@ -1,4 +1,4 @@
-### Kinked Demand Curve Analysis
+# Kinked Demand Curve Analysis
 
 The kinked demand curve is a concept in economics and marketing that explains a certain phenomenon observed in some oligopolistic markets. It describes a situation where the demand curve for a product or service has a "kink" at the current price level, leading to unique implications for price setting and competition. This concept is crucial in understanding how firms behave in oligopolistic markets, where a few dominant firms exist, and the actions of one firm can significantly affect the others.
 

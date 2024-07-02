@@ -1,4 +1,4 @@
-# **Kurtosis-Based Risk Management**
+# Kurtosis-Based Risk Management
 
 In the realm of [quantitative finance](../q/quantitative_finance.md) and [algorithmic trading](../a/algorithmic_trading.md), [risk management](../r/risk_management.md) is a paramount concern. Traditional measures of risk, such as standard deviation and Value at Risk (VaR), often fail to capture the complexities and subtleties of financial market data. One advanced concept that has garnered attention is kurtosis-based [risk management](../r/risk_management.md). This method leverages higher moments of statistical distributions to provide a more nuanced understanding of risk, particularly in dealing with the "fat tails" or extreme events that can devastate standard [risk metrics](../r/risk_metrics.md).
 

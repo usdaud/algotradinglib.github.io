@@ -1,4 +1,4 @@
-# Knowledge Graphs in Trading
+# Knowledge Graphs
 
 Knowledge Graphs represent a way of organizing information into a network of nodes and connections that can be used to understand complex relationships among data points. In the context of trading, utilizing knowledge graphs can offer significant advantages in making sense of vast amounts of data, identifying patterns, and facilitating more informed decision-making.
 

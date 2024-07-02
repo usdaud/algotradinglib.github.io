@@ -1,4 +1,4 @@
-## Liability-Driven Investment (LDI)
+# Liability-Driven Investment (LDI)
 
 ### Overview
 Liability-Driven Investment (LDI) is a strategy primarily used by pension funds and insurance companies to manage their assets in such a way that they meet current and future liabilities. The primary goal of LDI is to ensure that the liabilities are matched with appropriate assets to mitigate the risk of a funding shortfall. This strategy places a heavy emphasis on understanding the nature and timing of these liabilities to construct a robust investment portfolio that aims to cover them.
