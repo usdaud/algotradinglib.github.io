@@ -1,4 +1,6 @@
-# Interest rate options (IROs) are sophisticated financial derivatives that provide traders with the right, but not the obligation, to either pay or receive a certain interest rate on a predetermined notional amount of principal. These options are valuable tools in the hedging and speculation strategies employed by financial institutions, corporations, and individual investors. This comprehensive explanation will delve into the mechanics, types, applications, valuation techniques, and risks associated with interest rate options.
+# Interest Rate Options
+
+Interest rate options (IROs) are sophisticated financial derivatives that provide traders with the right, but not the obligation, to either pay or receive a certain interest rate on a predetermined notional amount of principal. These options are valuable tools in the hedging and speculation strategies employed by financial institutions, corporations, and individual investors. This comprehensive explanation will delve into the mechanics, types, applications, valuation techniques, and risks associated with interest rate options.
 
 ### Introduction to Interest Rate Options
 

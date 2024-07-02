@@ -1,4 +1,4 @@
-# Ichimoku Strategies in Algorithmic Trading
+# Ichimoku Strategies
 
 Ichimoku Kinko Hyo, often referred to as Ichimoku or [Ichimoku Cloud](../i/ichimoku_cloud.md), is a comprehensive trading indicator that identifies [support and resistance](../s/support_and_resistance.md) levels, momentum, and trend direction. Created by Goichi Hosoda in the late 1930s, this tool has become an essential part of the toolkit for many traders, especially in [algorithmic trading](../a/algorithmic_trading.md). It is not just a combination of indicators but a robust system that helps make informed trading decisions.
 

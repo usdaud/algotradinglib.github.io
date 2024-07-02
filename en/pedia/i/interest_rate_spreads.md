@@ -1,4 +1,4 @@
-### Interest Rate Spreads
+# Interest Rate Spreads
 
 Interest rate spreads are a fundamental concept in the world of finance, particularly in the domain of [algorithmic trading](../a/algorithmic_trading.md). They represent the difference between the interest rates on different financial instruments, such as bonds, loans, deposits, or other interest-bearing assets. Understanding and analyzing interest rate spreads is crucial for traders, investors, and financial institutions, as they often indicate market conditions, risk levels, and investment opportunities. This article delves into the intricacies of interest rate spreads, their significance, and their application in [algorithmic trading](../a/algorithmic_trading.md).
 

@@ -1,4 +1,4 @@
-# Interest Rate Forecasting in Algorithmic Trading
+# Interest Rate Forecasting
 
 Interest rate forecasting is a critical component of [algorithmic trading](../a/algorithmic_trading.md), especially in financial markets where the cost of borrowing and the yield on investments are tightly linked to interest rates. Forecasting interest rates accurately can give traders a significant edge in the market, allowing for better decision-making and optimization of portfolios. The purpose of this document is to explore the various techniques, challenges, and applications of interest rate forecasting in the context of [algorithmic trading](../a/algorithmic_trading.md).
 

@@ -1,4 +1,4 @@
-# Investment Cycles in Algorithmic Trading
+# Investment Cycles
 
 Investment cycles, known as economic or business cycles within macroeconomics, refer to the fluctuations experienced in economic activity over several months or years. This concept is immensely relevant in [algorithmic trading](../a/algorithmic_trading.md), where understanding and anticipating these cycles can provide traders with considerable strategic advantages. [Algorithmic trading](../a/algorithmic_trading.md), or algo-trading, involves using complex algorithms to make high-speed trading decisions in financial markets. The ability to forecast and respond to investment cycles is a critical factor in the success of these algorithms.
 

@@ -1,4 +1,4 @@
-## Joule-Thomson Effect in Trading
+# Joule-Thomson Effect
 
 ### Introduction
 The Joule-Thomson effect, named after James Prescott Joule and William Thomson (Lord Kelvin), typically refers to the temperature change of a real gas when it is allowed to expand or is compressed at constant enthalpy. In the field of trading, this principle can be loosely adapted as an analogy to describe certain market phenomena and [algorithmic trading](../a/algorithmic_trading.md) strategies. 

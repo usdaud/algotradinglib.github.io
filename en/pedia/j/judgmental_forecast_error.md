@@ -1,4 +1,4 @@
-# Judgmental Forecast Error in Algo Trading
+# Judgmental Forecast Error
 
 Judgmental forecast error refers to the inaccuracies and biases that occur when human judgment is applied in the forecasting process. In the context of [algorithmic trading](../a/algorithmic_trading.md) (algo trading), these errors can have significant implications for market strategies, trading decisions, and overall financial performance. This document delves into various aspects of judgmental forecast error, its sources, impacts, and mitigation strategies within algo trading.
 

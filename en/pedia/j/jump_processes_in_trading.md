@@ -1,5 +1,4 @@
-# Jump Processes in Trading
-==========================
+# Jump Processes
 
 Introduction to Jump Processes
 -------------------------------

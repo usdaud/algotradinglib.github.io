@@ -1,4 +1,4 @@
-# Joint Hazard Rates in Trading
+# Joint Hazard Rates
 
 In the domain of financial trading, particularly within high-frequency trading (HFT) and [algorithmic trading](../a/algorithmic_trading.md), understanding the joint dynamics of multiple assets is crucial for constructing robust [trading strategies](../t/trading_strategies.md). One concept that captures the dependency between multiple financial events is joint hazard rates, an advanced statistical measure used to model the relationship between the occurrences of events.
 

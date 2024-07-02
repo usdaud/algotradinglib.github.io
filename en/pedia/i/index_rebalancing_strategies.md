@@ -1,4 +1,4 @@
-## Index Rebalancing Strategies
+# Index Rebalancing Strategies
 
 ### Introduction to Index Rebalancing
 

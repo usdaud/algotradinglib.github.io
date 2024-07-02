@@ -1,4 +1,4 @@
-## Index Options
+# Index Options
 
 ### Introduction
 Index options are financial [derivatives](../d/derivatives.md) that give the holder the right, but not the obligation, to buy or sell a basket of stocks represented by a specific index at a predetermined price before or on a specified expiration date. Unlike stock options which are based on individual assets, index options are based on an entire index such as the S&P 500, NASDAQ-100, or the Dow Jones Industrial Average. These instruments are widely used for hedging, speculation, and [portfolio management](../p/portfolio_management.md).

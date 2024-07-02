@@ -1,4 +1,4 @@
-### Jump Event Strategies in Algorithmic Trading
+# Jump Event Strategies
 
 #### Introduction to Jump Events
 

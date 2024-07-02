@@ -1,4 +1,4 @@
-# **January Effect: Unraveling the Market Anomaly**
+# January Effect
 
 In the financial world, certain patterns and phenomena draw the attention of both seasoned traders and academic scholars. One such phenomenon is the January Effect. This term encapsulates the market anomaly where stock prices, particularly those of smaller-cap companies, tend to exhibit an upward movement in January. Below is a comprehensive analysis of the January Effect, its historical context, underlying causes, implications for traders, and empirical evidence.
 

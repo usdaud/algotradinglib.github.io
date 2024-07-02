@@ -1,4 +1,4 @@
-## Interest Rate Immunization
+# Interest Rate Immunization
 
 Interest Rate Immunization is a strategic approach used primarily by financial institutions, portfolio managers, and investment professionals to manage interest rate risk. The goal of interest rate immunization is to ensure that the value of a portfolio remains relatively stable in the face of fluctuating interest rates. This technique can provide a safeguard against the adverse effects of interest rate volatility on the returns of fixed-income investments. Here's an in-depth look at the principles, methodologies, and applications of interest rate immunization.
 

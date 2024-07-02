@@ -1,4 +1,4 @@
-# Judgmental Sampling in Algorithmic Trading
+# Judgmental Sampling
 
 ### Introduction
 

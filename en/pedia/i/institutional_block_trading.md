@@ -1,4 +1,4 @@
-## Institutional Block Trading
+# Institutional Block Trading
 
 Institutional block trading is a significant component of the financial markets, dealing with large orders of securities. Reserved primarily for major institutional investors, such trades can move markets due to their size and are often executed using specialized strategies and venues to minimize their impact on prices. This comprehensive guide examines the fundamental elements of institutional block trading, including its mechanics, key participants, strategies, and the technological advancements facilitating these trades.
 

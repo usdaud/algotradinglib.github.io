@@ -1,4 +1,4 @@
-# Insider Transaction Analysis in Algorithmic Trading
+# Insider Transaction Analysis
 
 ## Introduction
 Insider transaction analysis refers to the study of trading activities by company insiders—such as executives, directors, and employees—who have access to privileged information about the company's operations, financial condition, or strategic initiatives. Understanding insider transactions can provide valuable insights into the company's future performance and is an important aspect of [algorithmic trading](../a/algorithmic_trading.md) strategies.

@@ -1,4 +1,4 @@
-# Joint Probability Models in Algorithmic Trading
+# Joint Probability Models
 
 ## Introduction
 

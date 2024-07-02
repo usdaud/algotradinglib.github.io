@@ -1,4 +1,4 @@
-### Input-Output Analysis in Trading
+# Input-Output Analysis
 
 Input-Output Analysis (IOA) is an economic model that represents the interdependencies between different sectors of an economy. It was originally developed by Wassily Leontief, a pioneer in economic theory, to analyze the flow of goods and services within an economy. In the context of trading, this analysis can be applied to understand the intricate relationships between various financial instruments, markets, and [economic indicators](../e/economic_indicators.md). This helps traders and analysts to make informed decisions based on the interdependencies and flow of capital within the trading ecosystem.
 

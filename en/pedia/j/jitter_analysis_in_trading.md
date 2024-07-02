@@ -1,4 +1,4 @@
-# Jitter Analysis in Trading
+# Jitter Analysis
 
 Jitter, in the context of trading, refers to the variability in time delays in data communication over a network. This phenomenon can have significant implications in the realm of [algorithmic trading](../a/algorithmic_trading.md), where speed and consistency are critical. The fluctuations caused by jitter can affect the timely reception of market data, order execution, and overall [trading performance](../t/trading_performance.md). This comprehensive exploration aims to elucidate the concept of jitter in trading, its sources, implications, and potential mitigation strategies.
 

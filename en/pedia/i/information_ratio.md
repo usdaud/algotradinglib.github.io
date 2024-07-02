@@ -1,4 +1,4 @@
-## Information Ratio
+# Information Ratio
 
 The Information Ratio (IR) is a key performance metric in [portfolio management](../p/portfolio_management.md) and trading, particularly within the realm of [algorithmic trading](../a/algorithmic_trading.md). This ratio measures the [risk-adjusted return](../r/risk-adjusted_return.md) of an investment strategy, often used to evaluate the efficiency of a portfolio manager or the performance of an [algorithmic trading](../a/algorithmic_trading.md) strategy. The formula for calculating the Information Ratio is:
 

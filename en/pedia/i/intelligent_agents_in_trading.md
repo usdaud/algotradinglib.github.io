@@ -1,4 +1,4 @@
-# Intelligent Agents in Trading
+# Intelligent Agents
 
 ## Introduction to Intelligent Agents
 

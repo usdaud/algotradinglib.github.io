@@ -1,4 +1,4 @@
-### JGB (Japanese Government Bonds) Trading
+# JGB (Japanese Government Bonds) Trading
 
 Japanese Government Bonds (JGBs) are debt securities issued by the Japanese government. These bonds play a crucial role in the Japanese financial system and are a significant component of the country's debt market. JGBs are used by the Japanese government to raise funds for various public expenditures, including infrastructure projects, social welfare programs, and other public services. This document provides an in-depth look at JGB trading, covering the various types of JGBs, their market dynamics, and the role of [algorithmic trading](../a/algorithmic_trading.md) in this market.
 

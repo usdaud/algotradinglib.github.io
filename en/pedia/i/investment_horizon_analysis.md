@@ -1,4 +1,4 @@
-## Investment Horizon Analysis in Algorithmic Trading
+# Investment Horizon Analysis
 
 Investment Horizon Analysis is a critical parameter in the design and implementation of [algorithmic trading](../a/algorithmic_trading.md) strategies. The investment horizon determines the timeframe over which an investment or trade is expected to be held before being liquidated. It is a fundamental aspect of [financial planning](../f/financial_planning.md) and decision-making, impacting the assessment of risks, potential returns, and the choice of [trading strategies](../t/trading_strategies.md).
 

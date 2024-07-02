@@ -1,4 +1,4 @@
-# Information Processing in Trading
+# Information Processing
 
 In the realm of trading, particularly [algorithmic trading](../a/algorithmic_trading.md), information processing forms the bedrock upon which [trading strategies](../t/trading_strategies.md) are built and executed. Successful [algorithmic trading](../a/algorithmic_trading.md) relies heavily on the efficient processing of vast amounts of data to make informed decisions in real-time. This document delves into various aspects of information processing in trading, elucidating the complexities, methodologies, tools, and technologies that power modern [trading systems](../t/trading_systems.md).
 

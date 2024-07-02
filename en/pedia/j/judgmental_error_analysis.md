@@ -1,4 +1,4 @@
-# Judgmental Error Analysis in Algorithmic Trading
+# Judgmental Error Analysis
 
 Introduction
 ------------------

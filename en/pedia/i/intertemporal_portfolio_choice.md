@@ -1,4 +1,4 @@
-# **Intertemporal Portfolio Choice**
+# Intertemporal Portfolio Choice
 
 Intertemporal portfolio choice refers to the decision-making process that investors use to allocate their wealth among various investment opportunities over multiple periods of time. This approach to investment strategy is central to understanding how investors can optimize their portfolios not just for immediate returns, but also with an eye toward future considerations such as changing risk profiles, investment opportunities, and expected future returns.
 
