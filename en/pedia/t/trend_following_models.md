@@ -1,4 +1,4 @@
-# Trend Following Models in Algorithmic Trading
+# Trend Following Models
 
 ## Introduction
 

@@ -1,4 +1,4 @@
-### Unemployment Claims Analysis in Algorithmic Trading
+# Unemployment Claims Analysis
 
 Unemployment claims are [economic indicators](../e/economic_indicators.md) that provide insights into the health of the labor market and broader economic conditions. In [algorithmic trading](../a/algorithmic_trading.md), understanding these claims can significantly impact [trading strategies](../t/trading_strategies.md) through the anticipation of market movements in response to labor market data releases.
 

@@ -1,4 +1,4 @@
-# Support and Resistance Zones in Algorithmic Trading
+# Support and Resistance Zones
 
 [Support and resistance](../s/support_and_resistance.md) are foundational concepts in [technical analysis](../t/technical_analysis.md) and [algorithmic trading](../a/algorithmic_trading.md), serving as critical indicators for price action predictions and [trading strategies](../t/trading_strategies.md). Understanding these zones can significantly enhance the effectiveness of an [algorithmic trading](../a/algorithmic_trading.md) system by helping identify key levels where the price of an asset is likely to experience a reversal or continuation of a trend.
 

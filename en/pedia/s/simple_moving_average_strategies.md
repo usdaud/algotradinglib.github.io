@@ -1,4 +1,4 @@
-## Simple Moving Average Strategies
+# Simple Moving Average Strategies
 
 ### Introduction
 [Algorithmic trading](../a/algorithmic_trading.md), or "algotrading," leverages computer algorithms to conduct trades based on pre-defined criteria. Among the various strategies employed in [algorithmic trading](../a/algorithmic_trading.md), Simple Moving Average (SMA) strategies remain some of the most popular due to their simplicity and reliability. SMA strategies involve calculating the average of an asset's price over a specified number of periods to smooth out price data and identify trends. This article delves deep into the various SMA strategies, their implementation, and their advantages and drawbacks.

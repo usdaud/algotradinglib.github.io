@@ -1,4 +1,4 @@
-# Sentiment Analysis in Algorithmic Trading
+# Sentiment Analysis
 
 Sentiment analysis, also known as opinion mining, is a subfield of natural language processing (NLP) that entails determining the sentiments or opinions behind a series of texts. In the context of [algorithmic trading](../a/algorithmic_trading.md), sentiment analysis involves analyzing large volumes of textual data such as news articles, tweets, and financial reports to gauge the market sentiment and make informed trading decisions. This technology has gained immense popularity as financial markets are highly influenced by investor sentiment, news events, and social media chatter.
 

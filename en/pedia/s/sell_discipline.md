@@ -1,4 +1,4 @@
-## Sell Discipline in Algorithmic Trading
+# Sell Discipline
 
 Sell discipline in the context of [algorithmic trading](../a/algorithmic_trading.md) refers to the systematic approach and strategic framework that traders and investment algorithms follow to determine the appropriate time and conditions under which to exit an investment or close a trading position. This entails a set of pre-defined criteria and rules aimed at minimizing losses, locking in gains, and optimizing the overall performance of [trading strategies](../t/trading_strategies.md). 
 

@@ -1,4 +1,4 @@
-# **Uptick Analysis in Algorithmic Trading**
+# Uptick Analysis
 
 Uptick analysis is a method used by traders to identify the precise moments when a security's price moves upward. This technique is crucial in [algorithmic trading](../a/algorithmic_trading.md), where decisions are often executed within fractions of a second. Upticks refer to the smallest increments by which a stock price can increase, and analyzing these upticks can provide insights into market sentiment, liquidity, and potential future movements.
 

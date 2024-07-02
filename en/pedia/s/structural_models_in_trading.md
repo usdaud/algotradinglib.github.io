@@ -1,4 +1,4 @@
-# Structural Models in Trading
+# Structural Models
 
 ## Introduction
 Structural models in trading are mathematical frameworks used to understand and predict the behavior of financial markets. These models are grounded in economic theory and integrate fundamental variables and processes that drive asset prices. Unlike purely statistical or machine learning models, structural models leverage economic intuition and theoretical constructs to provide more robust and interpretable predictions.

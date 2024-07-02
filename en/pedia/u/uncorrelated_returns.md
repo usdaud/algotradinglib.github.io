@@ -1,4 +1,4 @@
-## Uncorrelated Returns
+# Uncorrelated Returns
 
 ### Introduction
 Uncorrelated returns refer to the performance of an asset, investment strategy, or trading algorithm that does not show a consistent, predictable relationship with the performance of other assets or strategies. In the context of [algorithmic trading](../a/algorithmic_trading.md) (or "algo trading"), achieving uncorrelated returns is highly desirable, as it can provide [diversification benefits](../d/diversification_benefits.md) and reduce overall portfolio risk.

@@ -1,4 +1,4 @@
-# Survivorship Analysis in Algorithmic Trading
+# Survivorship Analysis
 
 Survivorship analysis is a vital concept in both academic finance and practical [trading strategies](../t/trading_strategies.md). It deals with the phenomenon of [survivorship bias](../s/survivorship_bias.md), which occurs when only the "survivors" of a particular process are considered in a data analysis. In the world of finance, this typically means focusing only on companies that are currently listed without taking into account those that have failed, been delisted, or merged. The consequence of ignoring these entities can lead to skewed and overly optimistic dataset results, which can consequently distort [backtesting](../b/backtesting.md) results and future performance predictions of [trading strategies](../t/trading_strategies.md).
 

@@ -1,4 +1,4 @@
-# Trading Signal Filters in Algorithmic Trading
+# Trading Signal Filters
 
 [Algorithmic trading](../a/algorithmic_trading.md), also known as "algo-trading," involves the use of computer algorithms to automate [trading strategies](../t/trading_strategies.md). Trading Signal Filters are a crucial component in this ecosystem, designed to refine raw [trading signals](../t/trading_signals.md) and improve the performance of [trading systems](../t/trading_systems.md). This article delves into the various aspects of trading signal filters, their types, and their importance in enhancing [algorithmic trading](../a/algorithmic_trading.md) strategies.
 

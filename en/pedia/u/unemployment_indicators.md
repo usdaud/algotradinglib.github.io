@@ -1,4 +1,4 @@
-# Unemployment Indicators in Algorithmic Trading
+# Unemployment Indicators
 
 In the realm of [algorithmic trading](../a/algorithmic_trading.md), the deployment of sophisticated algorithms that analyze market data and execute trades at high speed is crucial. Among the myriad factors influencing market dynamics, [economic indicators](../e/economic_indicators.md) play a pivotal role. One such category of [economic indicators](../e/economic_indicators.md) that significantly impacts [algorithmic trading](../a/algorithmic_trading.md) strategies is unemployment indicators.
 

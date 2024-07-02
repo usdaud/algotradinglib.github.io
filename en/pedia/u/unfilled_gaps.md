@@ -1,4 +1,4 @@
-# Unfilled Gaps in Algorithmic Trading
+# Unfilled Gaps
 
 ## Introduction
 

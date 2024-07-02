@@ -1,4 +1,4 @@
-# Sector Volatility in Algorithmic Trading
+# Sector Volatility
 
 ## Introduction
 Sector volatility refers to the variability or fluctuations in the price levels of stocks or financial instruments within a specific sector. These sectors could range from technology, healthcare, and consumer goods to energy, utilities, and financial services. Understanding and analyzing sector volatility is crucial for [algorithmic trading](../a/algorithmic_trading.md) as it helps in constructing diversified portfolios, managing risks, and identifying potential investment opportunities.

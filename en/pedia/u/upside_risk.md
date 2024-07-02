@@ -1,4 +1,4 @@
-# **Upside Risk**
+# Upside Risk
 
 Upside risk is a concept in finance, particularly in the realm of investing and [algorithmic trading](../a/algorithmic_trading.md), and it refers to the potential for returns on an investment to be higher than expected. Contrary to downside risk, which measures potential losses, upside risk focuses on the positive deviation from a targeted or expected return. Understanding and managing upside risk is crucial for investors, portfolio managers, and traders who seek to maximize returns while balancing the risk-reward ratio.
 

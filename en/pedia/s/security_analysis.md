@@ -1,4 +1,4 @@
-# **Security Analysis in Algorithmic Trading**
+# Security Analysis
 
 ### Introduction to Security Analysis
 

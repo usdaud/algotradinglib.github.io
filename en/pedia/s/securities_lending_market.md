@@ -1,4 +1,4 @@
-## Securities Lending Market
+# Securities Lending Market
 
 ### Introduction to Securities Lending
 

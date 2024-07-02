@@ -1,4 +1,4 @@
-# Top-Down Approach in Trading
+# Top-Down Approach
 
 ## Introduction
 The top-down approach in trading is a strategic method where investors or traders begin their analysis from a macro-level perspective, focusing on the broader economy and general market conditions before narrowing down to specific sectors, industries, and individual securities. This approach contrasts with the bottom-up method, where analysis starts at the company level, concentrating on specific stocks or securities first.

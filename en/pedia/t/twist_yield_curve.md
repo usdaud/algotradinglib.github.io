@@ -1,4 +1,4 @@
-### Twist Yield Curve
+# Twist Yield Curve
 
 The concept of the "twist [yield curve](../y/yield_curve.md)" refers to a strategy employed within the realm of [fixed income securities](../f/fixed_income_securities.md), particularly treasury bonds, in which the [yield curve](../y/yield_curve.md) experiences a change that is not parallel. Essentially, it is an investment strategy used by financial authorities to manage the interest rates across different maturities with the intention of influencing the macroeconomic environment. 
 

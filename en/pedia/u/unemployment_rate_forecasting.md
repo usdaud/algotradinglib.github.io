@@ -1,4 +1,4 @@
-## Unemployment Rate Forecasting
+# Unemployment Rate Forecasting
 
 Unemployment rate forecasting is a critical area in economic research and policy making. It involves the prediction of the future unemployment rate based on a variety of [economic indicators](../e/economic_indicators.md) and statistical models. Accurate forecasting can help governments and businesses make informed decisions regarding fiscal policy, labor markets, and social welfare.
 

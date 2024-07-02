@@ -1,4 +1,4 @@
-## Utility Theory in Portfolio Management
+# Utility Theory in Portfolio Management
 
 ### Introduction
 Utility Theory is a fundamental concept in economics and finance, particularly relevant to [portfolio management](../p/portfolio_management.md). It provides a framework for understanding how investors make decisions under conditions of uncertainty, balancing the trade-offs between risk and return. At its core, Utility Theory helps to explain how investors derive satisfaction or "utility" from different investment choices, guiding them in constructing optimal portfolios that align with their individual preferences and risk tolerance.

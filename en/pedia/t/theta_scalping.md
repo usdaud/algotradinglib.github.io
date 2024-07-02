@@ -1,4 +1,4 @@
-# Theta Scalping in Algorithmic Trading
+# Theta Scalping
 
 **Theta scalping**, also known as **option scalping**, is a trading strategy that actively manages the time decay of options, particularly focusing on generating profits from the daily depreciation of an option's extrinsic value. This strategy primarily involves a combination of buying and selling options, leveraging the concept of theta (Θ) in options pricing, to secure small, yet consistent profits.
 

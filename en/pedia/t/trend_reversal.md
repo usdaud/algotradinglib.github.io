@@ -1,4 +1,4 @@
-# Trend Reversal in Algorithmic Trading
+# Trend Reversal
 
 ## Introduction
 Trend reversal is a fundamental concept in the world of trading, particularly in [algorithmic trading](../a/algorithmic_trading.md). It refers to the process by which the price direction of an asset changes, inverting from an upward (bullish) trend to a downward (bearish) trend, or vice versa. Understanding and identifying trend reversals accurately can significantly impact the profitability of a trading strategy. This document delves into the intricacies of trend reversals, including their types, indicators, strategies, and potential risks.

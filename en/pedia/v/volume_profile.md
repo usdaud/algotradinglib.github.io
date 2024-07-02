@@ -1,4 +1,4 @@
-# Volume Profile: An In-Depth Guide to Understanding and Utilizing a Powerful Trading Tool
+# Volume Profile
 
 Volume Profile is a charting tool that provides a dynamic view of traded volume distributed over price levels within a specified time frame. It enables traders to visualize and analyze the price levels where the most trading activity has occurred, which can reveal significant patterns and potential market directions. 
 

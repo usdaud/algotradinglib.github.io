@@ -1,4 +1,4 @@
-# Time Series Modeling in Algorithmic Trading
+# Time Series Modeling
 
 Time series modeling is an essential aspect of [algorithmic trading](../a/algorithmic_trading.md), a field where mathematical models and algorithms are used to analyze historical time series data of financial instruments like stocks, bonds, commodities, and forex. This modeling helps traders forecast future movements and make informed trading decisions. Here, we delve deep into the various facets of time series modeling and its applications in [algorithmic trading](../a/algorithmic_trading.md).
 

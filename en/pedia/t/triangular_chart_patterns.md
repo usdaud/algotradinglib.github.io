@@ -1,4 +1,4 @@
-## Triangular Chart Patterns
+# Triangular Chart Patterns
 
 In the world of [algorithmic trading](../a/algorithmic_trading.md) and [technical analysis](../t/technical_analysis.md), [chart patterns](../c/chart_patterns.md) play a crucial role in identifying potential trading opportunities. Triangular [chart patterns](../c/chart_patterns.md) are among the most popular and widely analyzed formations. These patterns are often indicative of a continuation or reversal in market trends and can provide valuable insights for traders looking to develop [automated trading systems](../a/automated_trading_systems.md). In this article, we will delve into the various types of triangular [chart patterns](../c/chart_patterns.md), their characteristics, how they are formed, and their significance in [algorithmic trading](../a/algorithmic_trading.md).
 

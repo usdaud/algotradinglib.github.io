@@ -1,4 +1,4 @@
-# Simulated Market Scenarios in Algorithmic Trading
+# Simulated Market Scenarios
 
 [Algorithmic trading](../a/algorithmic_trading.md) relies heavily on [simulation techniques](../s/simulation_techniques.md) to evaluate the potential performance of [trading strategies](../t/trading_strategies.md). Simulated market scenarios allow traders to "backtest" their algorithms against historical data, adjust their parameters based on simulated outcomes, and refine their models before deploying them in live markets.
 

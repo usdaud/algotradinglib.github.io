@@ -1,4 +1,4 @@
-# Timing Models in Trading
+# Timing Models
 
 In the world of finance, where fortunes are made and lost in the blink of an eye, timing is everything. [Timing models](../t/timing_models.md) in trading represent a sophisticated approach that seeks to optimize the entry and exit points of trades to maximize returns and minimize risk. This comprehensive guide will delve into the nuances of [timing models](../t/timing_models.md), exploring various strategies, their components, and their applications in the realm of [algorithmic trading](../a/algorithmic_trading.md).
 

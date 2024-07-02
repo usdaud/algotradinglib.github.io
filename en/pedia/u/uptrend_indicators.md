@@ -1,4 +1,4 @@
-# Uptrend Indicators in Algorithmic Trading
+# Uptrend Indicators
 
 [Algorithmic trading](../a/algorithmic_trading.md), a sophisticated intersection of computer science and financial markets, relies heavily on the ability to discern market trends. One of the vital components in this domain is the identification and usage of uptrend indicators. These indicators are pivotal for [trading strategies](../t/trading_strategies.md) designed to exploit upward market movements. In essence, uptrend indicators help traders identify periods when the market is more likely to rise than fall, empowering them to make informed decisions, optimize entry and exit points, and enhance profitability.
 

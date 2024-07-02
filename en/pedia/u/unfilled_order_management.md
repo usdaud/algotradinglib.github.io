@@ -1,4 +1,4 @@
-# Unfilled Order Management in Algorithmic Trading
+# Unfilled Order Management
 
 ## Introduction to Unfilled Order Management
 

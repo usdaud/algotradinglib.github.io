@@ -1,4 +1,4 @@
-## Seasonality Patterns in Algorithmic Trading
+# Seasonality Patterns
 
 Seasonality in financial markets refers to the tendency of certain securities or asset classes to perform better or worse during specific times of the year. These timings are often predictable and recur with some level of regularity. Seasonality patterns are of immense importance to algorithmic traders who seek to exploit these cyclical trends to enhance their [trading strategies](../t/trading_strategies.md).
 

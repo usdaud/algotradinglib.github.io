@@ -1,4 +1,4 @@
-# Unit Volume Analysis in Algorithmic Trading
+# Unit Volume Analysis
 
 Unit [Volume Analysis](../v/volume_analysis.md) (UVA) is a sophisticated [volume analysis](../v/volume_analysis.md) approach used in [algorithmic trading](../a/algorithmic_trading.md) to decode market dynamics, predict price movements, and optimize [trading strategies](../t/trading_strategies.md). Recognized for its utility in dissecting the intricacies of trading volume, UVA provides insights beyond conventional [volume analysis](../v/volume_analysis.md) by focusing on the granularity of trade executions and their impact on price. This document explores the concept of UVA, its methodology, significance, and application in enhancing [algorithmic trading](../a/algorithmic_trading.md) strategies.
 

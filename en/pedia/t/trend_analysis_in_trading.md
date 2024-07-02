@@ -1,4 +1,4 @@
-# Trend Analysis in Trading
+# Trend Analysis
 
 [Trend analysis](../t/trend_analysis.md) is a crucial aspect of trading, and it involves the use of various tools and techniques to predict future movements in financial markets. By understanding and identifying trends, traders can make more informed decisions, minimize risks, and maximize their returns. In this comprehensive guide, we will explore the different aspects of [trend analysis](../t/trend_analysis.md), including its importance, types, tools, indicators, and strategies.
 

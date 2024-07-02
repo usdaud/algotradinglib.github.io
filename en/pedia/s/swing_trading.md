@@ -1,4 +1,4 @@
-# Swing Trading in Algorithmic Trading
+# Swing Trading
 
 Swing trading is a strategy that focuses on capturing gains in a stock or any financial instrument within an overnight hold to several weeks. Unlike [day trading](../d/day_trading.md), which requires positions to be closed within the same day, swing [trading strategies](../t/trading_strategies.md) hold positions for a more extended period, making it more suitable for those who cannot devote all their time to trading.
 

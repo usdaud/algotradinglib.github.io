@@ -1,4 +1,4 @@
-# **Value Factor Investing**
+# Value Factor Investing
 
 Value [factor investing](../f/factor_investing.md), also known simply as [value investing](../v/value_investing.md), is a strategy that involves selecting stocks that appear to be trading for less than their intrinsic or book value. Value investors actively seek stocks of companies that they believe the market has undervalued. They believe that the market overreacts to good and bad news, resulting in stock price movements that do not correspond to a company's long-term fundamentals, leading to opportunities for investors to profit by purchasing when the price is deflated.
 

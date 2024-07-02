@@ -1,4 +1,4 @@
-### Time-Weighted Returns
+# Time-Weighted Returns
 
 In the realm of investment performance evaluation, the Time-Weighted Return (TWR), also known as the geometric mean return, is a vital metric. This method of return calculation eliminates the effects of cash inflows and outflows, providing a fair assessment of an investment manager's performance over multiple periods. The TWR is especially relevant in the context of performance measurement and comparison, where contributions and withdrawals can unduly influence the results.
 

@@ -1,4 +1,4 @@
-# Volume Price Trend (VPT) in Algo Trading
+# Volume Price Trend (VPT)
 
 ## Introduction to Volume Price Trend Strategy
 

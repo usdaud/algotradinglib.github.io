@@ -1,5 +1,4 @@
-# Volatility Models in Algorithmic Trading
-======================================
+# Volatility Models
 
 Volatility models are an essential aspect of [algorithmic trading](../a/algorithmic_trading.md), designed to measure and predict the fluctuations in the financial markets. Traders and quantitative analysts rely heavily on these models to develop strategies, manage risks, and identify potential trading opportunities. Below is a detailed examination of some of the most widely used volatility models in the realm of [algorithmic trading](../a/algorithmic_trading.md).
 

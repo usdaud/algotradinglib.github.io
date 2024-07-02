@@ -1,4 +1,4 @@
-## Variance-Covariance Method
+# Variance-Covariance Method
 
 ### Introduction
 

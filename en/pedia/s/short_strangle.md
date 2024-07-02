@@ -1,4 +1,4 @@
-## Short Strangle in Algorithmic Trading
+# Short Strangle
 
 A short strangle is a sophisticated options trading strategy employed in the financial markets, primarily by options traders who expect a stock or any underlying asset to remain within a certain price range. This strategy involves selling an out-of-the-money (OTM) call option and an out-of-the-money (OTM) put option simultaneously on the same underlying asset with the same expiration date. The goal is to capitalize on the lack of significant price movement in the underlying asset, thereby profiting from the premiums received from selling the two options.
 

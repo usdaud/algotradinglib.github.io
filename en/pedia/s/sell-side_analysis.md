@@ -1,4 +1,4 @@
-## Sell-Side Analysis in Algo Trading
+# Sell-Side Analysis
 
 ### Introduction
 Sell-side analysis plays a critical role in the financial markets, providing research, insights, and recommendations to help investors make informed decisions. The "sell-side" typically refers to investment banks, brokerage firms, and other organizations that sell investment services to asset managers, hedge funds, and other institutional investors. These organizations produce detailed reports, [forecasting models](../f/forecasting_models.md), and market analysis to guide their clients.

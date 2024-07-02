@@ -1,4 +1,4 @@
-# Triple Candlestick Patterns in Algo-Trading
+# Triple Candlestick Patterns
 
 Triple [candlestick patterns](../c/candlestick_patterns.md) are a distinctive group of [chart patterns](../c/chart_patterns.md) that offer vital clues to traders regarding potential market reversals or continuations. They are formed over three trading sessions and often signal a stronger market movement compared to single or double [candlestick patterns](../c/candlestick_patterns.md). Algo-traders frequently incorporate these patterns into their [trading strategies](../t/trading_strategies.md) due to their reliability and predictive power.
 

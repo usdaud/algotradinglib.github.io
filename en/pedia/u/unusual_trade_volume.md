@@ -1,4 +1,4 @@
-## Unusual Trade Volume
+# Unusual Trade Volume
 
 ### Introduction
 In financial markets, unusual trade volume often serves as an important indicator for traders and investors. Volume refers to the number of shares or contracts traded in a given security or market over a specified period of time. Unusual Trade Volume (UTV) occurs when the trading volume of a security is significantly higher or lower than its average daily volume. This phenomenon could indicate potential upcoming price movements and serve as a signal for entering or exiting positions. In [algorithmic trading](../a/algorithmic_trading.md), UTV can be critical for developing strategies, refining [trading algorithms](../t/trading_algorithms.md), and improving [risk management](../r/risk_management.md).

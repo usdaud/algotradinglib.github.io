@@ -1,4 +1,4 @@
-### Vertical Market Trends in Algorithmic Trading
+# Vertical Market Trends
 
 #### Introduction to Algorithmic Trading
 

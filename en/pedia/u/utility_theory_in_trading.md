@@ -1,4 +1,4 @@
-## Utility Theory in Trading
+# Utility Theory
 
 Utility theory is a critical concept in trading and financial decision-making. It originates from the field of economics and helps to understand how investors and traders make choices based on their preferences for certain types of outcomes or levels of wealth. The theory attempts to quantify the satisfaction or utility that an individual derives from a particular decision, enabling the analysis of behavior under uncertainty.
 

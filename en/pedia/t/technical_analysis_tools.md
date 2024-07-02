@@ -1,4 +1,4 @@
-# Technical Analysis Tools in Algorithmic Trading
+# Technical Analysis Tools
 
 [Technical Analysis](../t/technical_analysis.md) (TA) involves evaluating securities through statistical analysis derived from market activity, such as past prices and volume. Traders leverage this evaluation primarily using charts and other tools provided by TA to forecast future [price patterns](../p/price_patterns.md). [Technical analysis](../t/technical_analysis.md) tools are critical components in [algorithmic trading](../a/algorithmic_trading.md), where predefined rules and algorithms are used to automate [trading strategies](../t/trading_strategies.md). Below, we delve into the most predominant [technical analysis](../t/technical_analysis.md) tools utilized in [algorithmic trading](../a/algorithmic_trading.md), examining how they function and contribute to [trading strategies](../t/trading_strategies.md).
 

@@ -1,4 +1,4 @@
-# Swing High and Low in Algorithmic Trading
+# Swing High and Low
 
 Swing high and low are critical concepts in [technical analysis](../t/technical_analysis.md) and [algorithmic trading](../a/algorithmic_trading.md). They are used to identify potential turning points in the market and to pinpoint entry and exit points for trades.
 

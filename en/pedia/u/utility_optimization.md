@@ -1,5 +1,4 @@
-# Utility Optimization in Algorithmic Trading
-------------------------------------------------
+# Utility Optimization
 
 Utility Optimization is a fundamental concept in both economics and finance, and it plays a critical role in the field of [algorithmic trading](../a/algorithmic_trading.md). In essence, utility optimization involves making decisions that maximize the expected utility of an agent, typically an investor, given certain constraints and preferences. In the context of [algorithmic trading](../a/algorithmic_trading.md), this translates into designing [trading algorithms](../t/trading_algorithms.md) that maximize the returns or utility of a trading strategy while minimizing risks and costs.
 

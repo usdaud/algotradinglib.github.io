@@ -1,4 +1,4 @@
-## Technical Indicators in Trading
+# Technical Indicators
 
 [Technical indicators](../t/technical_indicators.md) are mathematical calculations based on the historical price, volume, or open interest of a security or contract. Traders use these indicators in [technical analysis](../t/technical_analysis.md) to predict future price movements in the markets. Here, we will discuss some of the most commonly used [technical indicators](../t/technical_indicators.md) in trading, their calculation methods, and how traders can use them to develop [trading strategies](../t/trading_strategies.md).
 

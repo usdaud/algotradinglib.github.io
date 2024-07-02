@@ -1,4 +1,4 @@
-# Stress Testing in Trading
+# Stress Testing
 
 Stress testing, a crucial [risk management](../r/risk_management.md) tool employed in trading, assesses the resilience of financial portfolios and institutions under extreme but plausible market conditions. Unlike traditional risk measurements such as Value at Risk (VaR) which often relies on historical data and normal market variations, stress testing is designed to evaluate the impact of adverse scenarios that could occur, particularly those that have not been historically observed but are theoretically possible. In trading, stress testing helps firms understand potential vulnerabilities and prepare for unexpected events.
 

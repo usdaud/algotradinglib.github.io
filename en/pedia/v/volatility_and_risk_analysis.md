@@ -1,4 +1,4 @@
-# Volatility and Risk Analysis in Algorithmic Trading
+# Volatility and Risk Analysis
 
 ## Introduction
 

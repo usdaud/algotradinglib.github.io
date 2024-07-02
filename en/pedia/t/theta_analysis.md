@@ -1,4 +1,4 @@
-# Theta Analysis in Algorithmic Trading
+# Theta Analysis
 
 ## Introduction to Theta
 

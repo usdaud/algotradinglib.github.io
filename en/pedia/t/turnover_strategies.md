@@ -1,4 +1,4 @@
-# Turnover Strategies in Algorithmic Trading
+# Turnover Strategies
 
 Turnover strategies in [algorithmic trading](../a/algorithmic_trading.md) refer to the rate at which a portfolio's assets are traded over a specific period, typically expressed as a percentage of the portfolio's total assets. Turnover can be a crucial metric because it reflects the activity level within a portfolio, which can influence both returns and transaction costs. High turnover strategies often involve frequent buying and selling of assets, while low turnover strategies involve a more passive approach.
 

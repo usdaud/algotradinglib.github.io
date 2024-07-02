@@ -1,4 +1,4 @@
-# Social Media Sentiment in Algorithmic Trading
+# Social Media Sentiment
 
 ## Introduction
 Social media sentiment, particularly from platforms like Twitter, Facebook, Reddit, and LinkedIn, has increasingly become a critical input in [algorithmic trading](../a/algorithmic_trading.md). The reasoning behind this development is rooted in the fact that social media provides real-time data about public opinion, news, and trends. These sentiments can influence stock prices, market movements, and even the success or failure of individual companies. [Algorithmic trading](../a/algorithmic_trading.md), which relies on [quantitative analysis](../q/quantitative_analysis.md) and automated execution of trades, can harness this unstructured data to achieve better trading outcomes.

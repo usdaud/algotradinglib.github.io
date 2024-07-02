@@ -1,4 +1,6 @@
-# The **Sortino Ratio** is a financial metric that differentiates between good and bad volatility in the assessment of an investment's risk-adjusted returns. While the widely-used Sharpe Ratio considers all variability in returns as risk, the Sortino Ratio focuses specifically on downside risk, providing a more nuanced view of an investment's performance. This is particularly useful for investors who are more concerned about downside events than upside variability. 
+# Sortino Ratio Calculation
+
+The **Sortino Ratio** is a financial metric that differentiates between good and bad volatility in the assessment of an investment's risk-adjusted returns. While the widely-used Sharpe Ratio considers all variability in returns as risk, the Sortino Ratio focuses specifically on downside risk, providing a more nuanced view of an investment's performance. This is particularly useful for investors who are more concerned about downside events than upside variability. 
 
 ### Components of the Sortino Ratio
 

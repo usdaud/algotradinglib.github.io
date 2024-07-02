@@ -1,4 +1,4 @@
-### Vega Risk Management
+# Vega Risk Management
 
 Vega [risk management](../r/risk_management.md) is an essential component of options and [derivatives](../d/derivatives.md) trading, focusing specifically on the risks associated with the volatility of the underlying asset. In options trading, "Vega" represents the sensitivity of an option's price to changes in the volatility of the underlying asset. Unlike Delta, Gamma, Theta, and Rho, Vega is not an actual Greek letter, but it is critical for understanding the implications of volatility in the pricing and [risk management](../r/risk_management.md) of options.
 

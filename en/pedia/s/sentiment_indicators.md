@@ -1,4 +1,4 @@
-# Sentiment Indicators in Algorithmic Trading
+# Sentiment Indicators
 
 Sentiment indicators are a vital component in [algorithmic trading](../a/algorithmic_trading.md). They provide a way to gauge the mood or sentiment of the market, which can, in turn, influence trading decisions. Unlike traditional indicators that rely on historical price data and volume, sentiment indicators gain insights from news, social media, and other textual data streams. This makes them particularly useful for predicting short-term market movements, as they capture the psychological aspect of trading.
 

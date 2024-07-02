@@ -1,4 +1,4 @@
-# Tail Risk Hedging in Algorithmic Trading
+# Tail Risk Hedging
 
 [Tail risk](../t/tail_risk.md) hedging is a sophisticated financial strategy aimed at protecting an investment portfolio from extreme market movements or events that occur at the "tail" ends of the probability distribution. These rare events, although infrequent, can have disproportionately large negative impacts on portfolios. While traditional [risk management](../r/risk_management.md) techniques primarily focus on more frequent market fluctuations, [tail risk](../t/tail_risk.md) hedging specifically targets the mitigation of catastrophic and less predictable risks.
 

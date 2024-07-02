@@ -1,4 +1,4 @@
-# Vector Decomposition in Trading
+# Vector Decomposition
 
 Vector decomposition is a mathematical technique that involves breaking down a vector into multiple component vectors. In the context of trading, vector decomposition can be used to analyze and forecast market movements, optimize portfolios, and develop sophisticated [trading strategies](../t/trading_strategies.md). This document will explore the principles of vector decomposition, its applications in trading, various methods, and practical examples to provide a comprehensive understanding of the subject.
 

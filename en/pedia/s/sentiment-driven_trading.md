@@ -1,5 +1,4 @@
 # Sentiment-Driven Trading
-========================
 
 Sentiment-driven trading, also known as [sentiment analysis](../s/sentiment_analysis.md) or sentiment-based trading, involves making trading decisions based on the mood or tone of market participants. This strategy leverages the analysis of textual data, social media posts, news articles, blogs, and other sources of public opinion to gauge market sentiment and predict potential market movements. By understanding the general mood of the market, traders can identify trends, anticipate reversals, and make more informed trading decisions.
 

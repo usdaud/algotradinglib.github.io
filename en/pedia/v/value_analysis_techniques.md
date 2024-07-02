@@ -1,4 +1,4 @@
-# Value Analysis Techniques in Algorithmic Trading
+# Value Analysis Techniques
 
 Value analysis in [algorithmic trading](../a/algorithmic_trading.md) involves systematically evaluating different variables to ascertain the intrinsic value of financial assets. By using a combination of quantitative methods, market analysis, and financial metrics, traders can make well-informed decisions on buying or selling securities. This comprehensive guide explores various value analysis techniques employed in [algorithmic trading](../a/algorithmic_trading.md).
 

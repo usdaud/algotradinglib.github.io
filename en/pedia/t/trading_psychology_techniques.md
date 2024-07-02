@@ -1,4 +1,4 @@
-### Trading Psychology Techniques
+# Trading Psychology Techniques
 
 [Trading psychology](../t/trading_psychology.md) refers to the emotions and mental state that help dictate success or failure in trading securities. It represents various aspects of an individual's character and behaviors that influence their trading decisions. The psychological aspect of trading is often considered as important as fundamental and technical aspects. Understanding [trading psychology](../t/trading_psychology.md) can help traders maintain discipline, manage emotions, and make more rational decisions.
 

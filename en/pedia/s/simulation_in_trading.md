@@ -1,4 +1,4 @@
-### Simulation in Trading
+# Simulation
 
 #### Introduction
 

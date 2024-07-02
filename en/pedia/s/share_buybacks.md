@@ -1,4 +1,4 @@
-# Share Buybacks in Algorithmic Trading
+# Share Buybacks
 
 **Share buybacks**, also known as stock repurchases, are when a company buys back its own shares from the marketplace. This action reduces the number of outstanding shares, basically consolidating ownership and potentially increasing the value of remaining shares. For algorithmic traders, understanding share buybacks and their implications can be crucial, as such actions often lead to significant price movements and trading opportunities.
 

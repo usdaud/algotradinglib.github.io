@@ -1,4 +1,4 @@
-## Triple Top
+# Triple Top
 
 The Triple Top is a type of chart pattern used in [technical analysis](../t/technical_analysis.md) of financial markets. It is characterized by three peaks at roughly the same price level and is typically seen as a reversal pattern, indicating a possible change in trend direction. Traders and analysts consider this pattern as a bearish signal, representing the exhaustion of an upward trend and the potential for a downward movement in prices.
 

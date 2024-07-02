@@ -1,5 +1,4 @@
-# Volume Analysis Tools in Algorithmic Trading
----
+# Volume Analysis Tools
 
 [Volume analysis](../v/volume_analysis.md) is a crucial aspect of [technical analysis](../t/technical_analysis.md) in financial markets. It involves studying the trading volume of a security to understand its price movements and forecast future trends. [Volume analysis](../v/volume_analysis.md) tools help traders make more informed decisions by providing insights into the underlying activity of the market. These tools are essential in [algorithmic trading](../a/algorithmic_trading.md), where decisions are made rapidly based on quantitative data. This document will delve into various [volume analysis](../v/volume_analysis.md) tools used in [algorithmic trading](../a/algorithmic_trading.md), their features, applications, and how they contribute to the efficiency of [trading strategies](../t/trading_strategies.md).
 

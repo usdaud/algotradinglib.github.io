@@ -1,4 +1,4 @@
-# Trend Analysis in Algorithmic Trading
+# Trend Analysis
 
 Trend analysis in [algorithmic trading](../a/algorithmic_trading.md) is a systematic approach used to identify and predict the movement of financial markets. This process involves the use of mathematical models, statistical techniques, and computer algorithms to analyze past market data and determine the general direction in which prices or market indices are moving. Understanding trends is critical for traders as it helps them make informed decisions about when to enter or exit trades, thereby optimizing their investment strategies. Here's an in-depth look into the various aspects of trend analysis in [algorithmic trading](../a/algorithmic_trading.md):
 

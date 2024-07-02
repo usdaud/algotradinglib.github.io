@@ -1,4 +1,4 @@
-## Variance Modeling in Trading
+# Variance Modeling
 
 Variance modeling is a fundamental concept in [quantitative finance](../q/quantitative_finance.md) and [algorithmic trading](../a/algorithmic_trading.md). It deals with the statistical measure of the dispersion of returns for a given security or market index. In trading, variance is used to understand the level of risk and volatility associated with a financial asset.
 

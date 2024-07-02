@@ -1,5 +1,4 @@
-# Triangle Chart Patterns in Algorithmic Trading
-================================================
+# Triangle Chart Patterns
 
 Triangle [chart patterns](../c/chart_patterns.md) are a [technical analysis](../t/technical_analysis.md) tool used by traders to predict future price movements in financial markets. Triangles are formed when the price of an asset moves within converging trendlines. These patterns signify that the market is in a period of consolidation before it eventually continues its previous trend or reverses. Triangle [chart patterns](../c/chart_patterns.md) are particularly popular in forex, stock, and cryptocurrency markets.
 

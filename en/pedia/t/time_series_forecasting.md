@@ -1,4 +1,4 @@
-# Time Series Forecasting in Algorithmic Trading
+# Time Series Forecasting
 
 Time series forecasting is a critical component in the realm of [algorithmic trading](../a/algorithmic_trading.md). Traders and financial institutions rely heavily on [forecasting models](../f/forecasting_models.md) to predict market movements, optimize portfolios, and execute strategies in an automated manner. In this detailed exploration, we'll delve into the fundamentals of time series forecasting, methods employed, applications in [algorithmic trading](../a/algorithmic_trading.md), and some key companies providing these services.
 

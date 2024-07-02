@@ -1,4 +1,4 @@
-## Value-Growth Spread in Algorithmic Trading
+# Value-Growth Spread
 
 The concept of the Value-Growth Spread is deeply embedded in financial markets and investment strategies. This spread reflects the performance differential between value stocks and [growth stocks](../g/growth_stocks.md), which are categorized based on their intrinsic characteristics and market expectations. In [algorithmic trading](../a/algorithmic_trading.md), where [quantitative models](../q/quantitative_models.md) and [technical indicators](../t/technical_indicators.md) guide investment decisions, understanding the Value-Growth Spread can be pivotal for crafting effective strategies.
 

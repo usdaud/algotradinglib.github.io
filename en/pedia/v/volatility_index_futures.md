@@ -1,4 +1,4 @@
-## Understanding Volatility Index Futures
+# Volatility Index Futures
 
 ### Introduction to Volatility Index Futures
 

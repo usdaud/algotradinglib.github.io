@@ -1,4 +1,4 @@
-# Turnover Analysis in Algorithmic Trading
+# Turnover Analysis
 
 Turnover analysis is a critical aspect of evaluating [trading strategies](../t/trading_strategies.md) in [algorithmic trading](../a/algorithmic_trading.md). It refers to the total volume of assets that are bought and sold within a given period. High turnover rates can lead to increased transaction costs, potentially reducing the profitability of a trading strategy. This analysis helps traders manage and optimize their [trading strategies](../t/trading_strategies.md), ensuring they are both efficient and effective. Below, we delve deeply into the various facets of turnover analysis.
 

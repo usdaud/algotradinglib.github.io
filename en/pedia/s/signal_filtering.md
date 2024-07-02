@@ -1,4 +1,4 @@
-# Signal Filtering in Algorithmic Trading
+# Signal Filtering
 
 Signal filtering is a crucial concept in [algorithmic trading](../a/algorithmic_trading.md), employed to refine raw market data and identify actionable [trading signals](../t/trading_signals.md). The main goal is to eliminate noise from data to make more accurate predictions and decisions. This process involves various techniques, ranging from basic statistical methods to advanced machine learning algorithms. The effectiveness of these filtering methods can significantly influence the performance of [trading strategies](../t/trading_strategies.md).
 

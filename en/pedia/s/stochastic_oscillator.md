@@ -1,4 +1,4 @@
-# The Stochastic Oscillator: A Detailed Exploration
+# Stochastic Oscillator
 
 The Stochastic Oscillator is a widely used momentum indicator in the field of [technical analysis](../t/technical_analysis.md) that compares a particular closing price of a security to a range of its prices over a certain period of time. This oscillator is specifically designed to predict market trends and potential reversal points. Developed by George C. Lane in the late 1950s, it is particularly valued for its ability to identify overbought and oversold conditions. 
 

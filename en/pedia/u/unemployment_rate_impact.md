@@ -1,4 +1,4 @@
-# Unemployment Rate Impact on Algorithmic Trading
+# Unemployment Rate Impact
 
 ## Introduction
 

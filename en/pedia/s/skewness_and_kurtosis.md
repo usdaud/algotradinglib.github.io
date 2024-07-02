@@ -1,4 +1,4 @@
-# Skewness and Kurtosis in Algo Trading
+# Skewness and Kurtosis
 
 In the domain of statistical analysis and [financial modeling](../f/financial_modeling.md), skewness and kurtosis are essential descriptors of data distribution that can have profound implications in [algorithmic trading](../a/algorithmic_trading.md). They provide deeper insights beyond simple measures like mean and variance, thereby equipping traders and quantitative analysts with nuances that can significantly influence [trading strategies](../t/trading_strategies.md) and [risk management](../r/risk_management.md).
 

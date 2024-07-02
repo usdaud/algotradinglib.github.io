@@ -1,4 +1,4 @@
-### Sector Analysis
+# Sector Analysis
 
 Sector analysis is a method of examining industries within the financial market to identify trends, opportunities, risks, and the overall health of different parts of the economy. This analysis is crucial for both individual and institutional investors looking to optimize their portfolio by investing in sectors that are expected to perform well. In the context of [algorithmic trading](../a/algorithmic_trading.md), sector analysis can be automated to quickly adapt to market changes and to select equities or assets that align with the trader's strategy or risk tolerance.
 

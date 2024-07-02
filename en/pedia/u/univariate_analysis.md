@@ -1,4 +1,4 @@
-# Univariate Analysis in Algorithmic Trading
+# Univariate Analysis
 
 Univariate analysis refers to the examination and interpretation of a single variable in a dataset. In the context of [algorithmic trading](../a/algorithmic_trading.md), univariate analysis focuses on analyzing individual financial metrics, such as stock price, trading volume, or rate of return, to understand their distribution, trends, and implications for [trading strategies](../t/trading_strategies.md). This analysis is essential for generating insights, detecting anomalies, and developing [trading algorithms](../t/trading_algorithms.md). Here, we will explore various aspects and techniques of univariate analysis and their applications in [algorithmic trading](../a/algorithmic_trading.md).
 

@@ -1,5 +1,4 @@
-# Trendline Analysis in Algorithmic Trading
----
+# Trendline Analysis
 
 ### Introduction to Trendline Analysis
 

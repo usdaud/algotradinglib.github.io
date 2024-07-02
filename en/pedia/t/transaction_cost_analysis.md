@@ -1,4 +1,4 @@
-## Transaction Cost Analysis
+# Transaction Cost Analysis
 
 Transaction Cost Analysis (TCA) refers to the methodology of analyzing the costs involved in executing trades, which includes the overt fees such as commissions and taxes, as well as the more subtle costs like the price impact of executing large orders and the opportunity costs. TCA is crucial for investors, traders, and portfolio managers because it helps them understand the true cost of trading, optimize [trading strategies](../t/trading_strategies.md), and evaluate the performance of broker-dealers.
 

@@ -1,4 +1,4 @@
-## Short Gamma
+# Short Gamma
 
 Short Gamma is a concept related to options trading, which is integral to the larger field of [algorithmic trading](../a/algorithmic_trading.md) (or algo-trading). This term is most often discussed in the context of delta-hedging and [risk management](../r/risk_management.md) strategies employed by traders, market makers, and institutional investors. Understanding Short Gamma involves delving into key concepts like options greeks, the mechanics of options pricing, and [hedging strategies](../h/hedging_strategies.md).
 

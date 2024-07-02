@@ -1,4 +1,4 @@
-# Support Levels in Algo Trading
+# Support Levels
 
 In the world of financial markets, support levels are a critical concept in [technical analysis](../t/technical_analysis.md), an area particularly important in [algorithmic trading](../a/algorithmic_trading.md). These levels are psychological price points where a downtrend can be expected to pause or rebound due to a concentration of buying interest. Recognizing and effectively utilizing these points can provide algorithmic traders with a significant edge. This document covers the various aspects of support levels, including identification methods, significance in [trading algorithms](../t/trading_algorithms.md), application strategies, and the challenges encountered in real-world scenarios.
 

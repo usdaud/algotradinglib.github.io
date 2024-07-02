@@ -1,4 +1,4 @@
-# Unfilled Orders in Algorithmic Trading
+# Unfilled Orders
 
 In the realm of [algorithmic trading](../a/algorithmic_trading.md), unfilled orders represent a critical aspect that traders need to understand and manage effectively. Unfilled orders can have significant implications for the performance of [trading strategies](../t/trading_strategies.md) and the overall profitability of trading operations. This article explores the various facets of unfilled orders, including their causes, impact, and management strategies.
 

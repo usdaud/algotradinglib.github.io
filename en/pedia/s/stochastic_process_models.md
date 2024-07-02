@@ -1,5 +1,4 @@
-# Stochastic Process Models in Algorithmic Trading
-================================================
+# Stochastic Process Models
 
 [Algorithmic trading](../a/algorithmic_trading.md), also known as "algo-trading" or "black-box trading," utilizes advanced mathematical and statistical models to make trading decisions. Within this domain, stochastic process models play a critical role in modeling and predicting the uncertain behavior of financial instruments. A stochastic process is a mathematical object defined as a collection of random variables representing the evolution of some system of values over time.
 

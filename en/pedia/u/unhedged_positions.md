@@ -1,4 +1,4 @@
-# Unhedged Positions in Algorithmic Trading
+# Unhedged Positions
 
 In the realm of [algorithmic trading](../a/algorithmic_trading.md), participants often encounter the term "unhedged positions." This concept, which stands at the intersection of [risk management](../r/risk_management.md) and [trading strategies](../t/trading_strategies.md), refers to market positions that are exposed to potential losses because they lack corresponding offsetting positions or hedging instruments.
 

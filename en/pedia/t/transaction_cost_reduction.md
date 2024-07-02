@@ -1,4 +1,4 @@
-# Transaction Cost Reduction in Algorithmic Trading
+# Transaction Cost Reduction
 
 Transaction cost reduction is a vital aspect of [algorithmic trading](../a/algorithmic_trading.md), reflecting the efforts to minimize the expenses incurred when executing trades. These costs can significantly erode the profitability of [trading strategies](../t/trading_strategies.md), making their management essential for any successful trading operation.
 

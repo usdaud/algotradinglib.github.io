@@ -1,4 +1,4 @@
-# Volatility Cone: An In-Depth Analysis in the Context of Algorithmic Trading
+# Volatility Cone
 
 Volatility Cone: Understanding the Concept
 

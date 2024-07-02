@@ -1,6 +1,4 @@
-# **Triangle Consolidation Patterns**
-
----
+# Triangle Consolidation Patterns
 
 ### Introduction
 

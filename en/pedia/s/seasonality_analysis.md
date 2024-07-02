@@ -1,4 +1,4 @@
-# Seasonality Analysis in Algorithmic Trading
+# Seasonality Analysis
 
 Seasonality analysis is a critical component of [algorithmic trading](../a/algorithmic_trading.md) which pertains to the assessment and prediction of financial asset performance based on historical patterns that tend to recur at specific times of the year. These patterns can be influential in devising [trading algorithms](../t/trading_algorithms.md) that aim to enhance returns by exploiting predictable variations in asset prices.
 

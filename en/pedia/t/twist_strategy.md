@@ -1,4 +1,4 @@
-# Twist Strategy in Algorithmic Trading
+# Twist Strategy
 
 ## Introduction
 The “Twist Strategy” in [algorithmic trading](../a/algorithmic_trading.md) is an advanced and nuanced method used by traders to outperform conventional investment strategies. Its basis lies in exploiting market inefficiencies, harnessing data-driven insights, and leveraging high-speed transactions. This composite strategy integrates principles from various trading paradigms, including statistical [arbitrage](../a/arbitrage.md), [market microstructure](../m/market_microstructure.md) models, machine learning, and artificial intelligence.

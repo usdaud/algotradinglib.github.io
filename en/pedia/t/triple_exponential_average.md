@@ -1,4 +1,4 @@
-### Triple Exponential Average (TRIX)
+# Triple Exponential Average (TRIX)
 
 The Triple Exponential Average (TRIX) is a momentum indicator that displays the percent rate of change of a triple exponentially smoothed moving average of a security's closing price. The indicator was developed by Jack Hutson in the early 1980s. It is designed to keep traders from reacting prematurely to price fluctuations by filtering out the "noise" that is inherent in securities trading. 
 

@@ -1,4 +1,4 @@
-## Unemployment Rate Effects in Algorithmic Trading
+# Unemployment Rate Effects
 
 The unemployment rate is a critical economic indicator that reflects the percentage of the labor force that is unemployed and actively seeking employment. It is a key gauge of the health of an economy and can have profound implications for financial markets, particularly in the realm of [algorithmic trading](../a/algorithmic_trading.md). [Algorithmic trading](../a/algorithmic_trading.md), or alog trading, involves using pre-programmed strategies based on [quantitative analysis](../q/quantitative_analysis.md) to execute trades at speeds and frequencies that would be impossible for a human trader. Understanding the impact of the unemployment rate on [algorithmic trading](../a/algorithmic_trading.md) requires a deep dive into both the mechanisms of unemployment statistics and the dynamics of financial markets.
 

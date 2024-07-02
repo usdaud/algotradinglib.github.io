@@ -1,4 +1,4 @@
-# Variance Modeling Techniques in Algorithmic Trading
+# Variance Modeling Techniques
 
 In the domain of [algorithmic trading](../a/algorithmic_trading.md), variance modeling plays an essential role as it helps in understanding and predicting price volatility, critical for crafting [risk management](../r/risk_management.md) strategies, pricing [derivatives](../d/derivatives.md), and optimizing [trading algorithms](../t/trading_algorithms.md). This article will cover various techniques employed for variance modeling in [algorithmic trading](../a/algorithmic_trading.md).
 

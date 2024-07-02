@@ -1,4 +1,4 @@
-# Volume Profile Strategies in Algorithmic Trading
+# Volume Profile Strategies
 
 [Volume Profile](../v/volume_profile.md) is a powerful tool in [algorithmic trading](../a/algorithmic_trading.md) that offers a complete breakdown of price activity at specific volume levels over a specified period. Unlike traditional indicators that solely focus on price and time, [Volume Profile](../v/volume_profile.md) incorporates the third dimension, volume, providing traders detailed insights into price distribution and market structures. This data is invaluable for making informed trading decisions, especially in automated trading environments.
 

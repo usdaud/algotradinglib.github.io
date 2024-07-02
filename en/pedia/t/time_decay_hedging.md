@@ -1,4 +1,4 @@
-# **Time Decay Hedging**
+# Time Decay Hedging
 
 Time decay, also known as theta decay, is an essential concept in options trading, referring to the erosion of the value of options as time passes. The term theta, often used to quantify this decay, measures the rate at which the price of options declines as expiration approaches, assuming all other factors remain constant. Time decay hedging is the strategy employed by options traders and portfolio managers to mitigate the adverse effects of time decay on options' value, ensuring that their investments remain protected and aligned with their financial goals.
 

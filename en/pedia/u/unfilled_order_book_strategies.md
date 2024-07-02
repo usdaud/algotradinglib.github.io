@@ -1,4 +1,4 @@
-# Unfilled Order Book Strategies in Algorithmic Trading
+# Unfilled Order Book Strategies
 
 In the realm of [algorithmic trading](../a/algorithmic_trading.md), unfilled order book strategies hold critical importance. These strategies are concerned with the management, analysis, and tactical deployment of [unexecuted orders](../u/unexecuted_orders.md) within a trading book. Understanding these strategies involves delving into the nuances of order types, [market microstructure](../m/market_microstructure.md), [execution algorithms](../e/execution_algorithms.md), and the precise mechanics of how orders interact within electronic trading platforms.
 

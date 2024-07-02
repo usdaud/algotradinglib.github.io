@@ -1,4 +1,4 @@
-# Support Vector Classifier in Algorithmic Trading
+# Support Vector Classifier
 
 ## Introduction
 

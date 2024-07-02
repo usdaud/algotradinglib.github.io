@@ -1,4 +1,4 @@
-# Volume Divergence in Algorithmic Trading
+# Volume Divergence
 
 ## Introduction to Volume Divergence
 

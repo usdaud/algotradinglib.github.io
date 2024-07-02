@@ -1,4 +1,4 @@
-# Signal Processing in Trading
+# Signal Processing
 
 Signal processing is a critical component of [algorithmic trading](../a/algorithmic_trading.md), a form of trading where sophisticated algorithms execute orders on the financial markets. This concept, borrowed from engineering and data science, involves the extraction, analysis, and interpretation of signals to make informed trading decisions. In the context of [algorithmic trading](../a/algorithmic_trading.md), signal processing includes techniques to identify trading opportunities, manage risks, and optimize [trading strategies](../t/trading_strategies.md). This comprehensive exploration delves into the various methodologies, tools, and applications of signal processing in trading.
 

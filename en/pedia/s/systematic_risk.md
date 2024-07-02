@@ -1,4 +1,4 @@
-## Systematic Risk
+# Systematic Risk
 
 Systematic risk, also known as market risk or undiversifiable risk, is the inherent risk associated with the entire market or market segment. Unlike unsystematic risk, which affects a specific company or industry, systematic risk impacts all investments across various sectors and cannot be mitigated through diversification alone. Investors typically face systematic risk due to macroeconomic factors such as changes in interest rates, inflation, [geopolitical events](../g/geopolitical_events.md), or recessions. This type of risk is fundamental to the financial markets, and its management is crucial for maintaining portfolio stability and achieving long-term investment goals.
 

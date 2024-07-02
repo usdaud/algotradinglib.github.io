@@ -1,4 +1,4 @@
-# Unexecuted Trade Analysis in Algorithmic Trading
+# Unexecuted Trade Analysis
 
 ## Introduction
 

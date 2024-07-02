@@ -1,4 +1,4 @@
-## Skewness Adjustment in Algorithmic Trading
+# Skewness Adjustment
 
 In the realm of [algorithmic trading](../a/algorithmic_trading.md), skewness adjustment refers to the process of modifying [trading strategies](../t/trading_strategies.md) and [risk management](../r/risk_management.md) techniques to account for the skewness of asset return distributions. Skewness measures the asymmetry of the probability distribution of returns around its mean. It provides critical insights into the potential risk and reward profiles of trading assets.
 

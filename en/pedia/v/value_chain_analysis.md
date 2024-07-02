@@ -1,4 +1,4 @@
-# Value Chain Analysis in Algorithmic Trading
+# Value Chain Analysis
 
 Value Chain Analysis (VCA) is a strategic tool used to evaluate the various activities a company performs to deliver a valuable product or service. It helps in identifying ways to create more value for the customer and optimize the efficiency of resource use. In the context of [algorithmic trading](../a/algorithmic_trading.md) (algotrading), VCA can reveal significant insights into how different components of the trading process contribute to the overall value generated.
 

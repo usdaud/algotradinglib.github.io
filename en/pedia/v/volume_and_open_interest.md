@@ -1,4 +1,4 @@
-# Volume and Open Interest in Algorithmic Trading
+# Volume and Open Interest
 
 Volume and Open Interest are two of the most critical metrics in the field of [technical analysis](../t/technical_analysis.md) and [algorithmic trading](../a/algorithmic_trading.md). Understanding these metrics can provide traders with substantial insights into market dynamics, helping them to make informed decisions. This document will delve into what these terms mean, their significance, how they are calculated, and how they can be applied in [algorithmic trading](../a/algorithmic_trading.md) strategies. 
 

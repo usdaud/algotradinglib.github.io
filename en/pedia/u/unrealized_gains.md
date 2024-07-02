@@ -1,4 +1,4 @@
-# Unrealized Gains in Algorithmic Trading
+# Unrealized Gains
 
 In the dynamic landscape of financial markets, the concept of unrealized gains plays a critical role, especially in the context of [algorithmic trading](../a/algorithmic_trading.md). Unrealized gains, also known as paper profits, refer to the increase in the value of an asset or investment that has not yet been sold for a profit. These gains are "unrealized" because the holder retains the asset and has not benefited from the profit materially. The concept is essential for traders and investors as it impacts portfolio value assessments and decision-making processes. 
 

@@ -1,4 +1,4 @@
-# Valuation Models in Algorithmic Trading
+# Valuation Models
 
 Valuation models are essential tools used in finance to determine the fair value of an asset, be it stocks, bonds, or any other financial instrument. These models are crucial for investors and traders to make informed decisions about buying, selling, or holding assets. In the context of [algorithmic trading](../a/algorithmic_trading.md), valuation models help automate the process of asset valuation, allowing traders to execute strategies with precision and speed. This document delves into various valuation models, their methodologies, and their applications within [algorithmic trading](../a/algorithmic_trading.md).
 

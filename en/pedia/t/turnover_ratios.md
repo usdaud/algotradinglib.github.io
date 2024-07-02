@@ -1,4 +1,4 @@
-# Turnover Ratios in Algorithmic Trading
+# Turnover Ratios
 
 Turnover ratios play a crucial role in [algorithmic trading](../a/algorithmic_trading.md) by measuring the efficiency and frequency at which a trading strategy buys and sells securities. High turnover ratios often indicate aggressive [trading strategies](../t/trading_strategies.md), while low ratios can signify conservative approaches. This document delves deeply into the concept of turnover ratios, their calculation, implications, and how they affect the performance of [algorithmic trading](../a/algorithmic_trading.md) systems.
 

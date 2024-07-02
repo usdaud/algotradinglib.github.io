@@ -1,4 +1,4 @@
-# Trend Analysis Techniques in Algorithmic Trading
+# Trend Analysis Techniques
 
 [Trend analysis](../t/trend_analysis.md) is a critical technique in [algorithmic trading](../a/algorithmic_trading.md), used to identify and predict the direction of market movements. Through various methods, traders and data scientists can gain insights into market trends to make informed decisions. Here, we delve into some of the most prominent [trend analysis](../t/trend_analysis.md) techniques used in the domain.
 

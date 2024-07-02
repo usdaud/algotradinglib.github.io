@@ -1,4 +1,4 @@
-# Upside Risk Management in Algorithmic Trading
+# Upside Risk Management
 
 [Algorithmic trading](../a/algorithmic_trading.md) (or "algo trading") incorporates sophisticated mathematical models and algorithms to make high-frequency and low-latency trading decisions. While most discussions of [risk management](../r/risk_management.md) in trading focus on mitigating potential losses, upside [risk management](../r/risk_management.md) specifically concerns the optimal management of strategies to maximize potential gains while balancing various risk factors.
 

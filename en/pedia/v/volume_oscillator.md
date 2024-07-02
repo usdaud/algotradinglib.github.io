@@ -1,4 +1,4 @@
-# The Volume Oscillator: A Comprehensive Study
+# Volume Oscillator
 
 In the realm of [technical analysis](../t/technical_analysis.md), the Volume Oscillator (VO) is a crucial tool used by traders to measure the relationship between two volume moving averages. It assists in identifying the momentum of a given asset by highlighting the differences between a shorter-term and a longer-term volume average. This fluctuations of volume can signal trading opportunities as they often precede important price movements.
 

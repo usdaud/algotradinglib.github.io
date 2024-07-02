@@ -1,4 +1,4 @@
-## Software Platforms for Trading
+# Software Platforms
 
 [Algorithmic trading](../a/algorithmic_trading.md), often abbreviated as algo trading or automated trading, refers to the use of computer algorithms to automate the process of buying and selling financial assets in the market. These algorithms are designed to follow predefined rules that range from simple decision-making criteria to complex mathematical models. To implement and execute these algorithms efficiently, traders and financial institutions leverage various software platforms specifically designed for trading. This document explores some of the most prominent software platforms used in [algorithmic trading](../a/algorithmic_trading.md).
 

@@ -1,4 +1,4 @@
-## Unlisted Equities
+# Unlisted Equities
 
 ### Introduction
 Unlisted equities represent shares of a company that are not listed on a formal stock exchange. These types of investments are often more challenging to find and trade than their publicly-traded counterparts as they are not subject to the same regulatory and reporting standards. However, they can provide unique opportunities and substantial returns for those who know how to access and analyze them.

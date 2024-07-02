@@ -1,4 +1,4 @@
-# **Value-Investing Metrics in Algorithmic Trading**
+# Value-Investing Metrics
 
 [Value investing](../v/value_investing.md) is a strategy where investors select stocks that they believe are undervalued by the market and therefore have a higher potential for growth. This approach is in contrast to [growth investing](../g/growth_investing.md), where investors focus on companies that are believed to have strong future growth potential. In the realm of [algorithmic trading](../a/algorithmic_trading.md), value-investing metrics play a crucial role in the development of algorithms designed to identify and exploit these undervalued securities. Below is a detailed explanation of various value-investing metrics commonly used in [algorithmic trading](../a/algorithmic_trading.md).
 

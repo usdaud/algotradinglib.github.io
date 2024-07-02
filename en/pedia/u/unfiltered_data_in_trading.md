@@ -1,4 +1,4 @@
-# Unfiltered Data in Trading
+# Unfiltered Data
 
 Unfiltered data in trading refers to raw or unprocessed data that has not been cleansed, aggregated, or interpreted. This type of data can include a diverse range of inputs such as price quotes, trade volumes, news feeds, social media updates, [economic indicators](../e/economic_indicators.md), and other financial metrics directly as they come from their respective sources. In this exhaustive exploration, we will delve into the significance, applications, challenges, and best practices associated with unfiltered data in the trading domain.
 

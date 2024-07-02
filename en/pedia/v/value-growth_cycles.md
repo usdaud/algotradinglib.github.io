@@ -1,4 +1,4 @@
-# Value-Growth Cycles in Algorithmic Trading
+# Value-Growth Cycles
 
 Value-Growth cycles are a recurrent theme in financial markets, representing the oscillation between value and [growth investing](../g/growth_investing.md) strategies. Understanding these cycles is critical for algorithmic traders who aim to optimize their [trading strategies](../t/trading_strategies.md) by leveraging data and analytics. 
 

@@ -1,4 +1,4 @@
-# Vertical Spread Optimization in Algorithmic Trading
+# Vertical Spread Optimization
 
 ## Introduction
 

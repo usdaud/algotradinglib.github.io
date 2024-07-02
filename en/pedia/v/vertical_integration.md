@@ -1,4 +1,4 @@
-# **Vertical Integration in Algorithmic Trading**
+# Vertical Integration
 
 Vertical integration is a strategy that companies use to gain control over their industry's supply chain. It involves the consolidation of multiple steps in the production or distribution process under a single firm's control. In the context of [algorithmic trading](../a/algorithmic_trading.md), vertical integration can be understood as the process by which a trading firm consolidates different stages of its trading processes—from data acquisition and algorithm development to order execution and [post-trade analysis](../p/post-trade_analysis.md)—within its own organizational structure.
 

@@ -1,4 +1,4 @@
-# Variance Reduction in Algorithmic Trading
+# Variance Reduction
 
 Variance reduction is a crucial concept in [algorithmic trading](../a/algorithmic_trading.md), where the primary goal is to maximize returns while minimizing risk. It involves techniques and strategies to reduce the variability or volatility of an investment portfolio's returns. This practice becomes particularly important in [trading strategies](../t/trading_strategies.md) that rely on statistical and mathematical models, as high variance can lead to significant deviations from expected outcomes.
 

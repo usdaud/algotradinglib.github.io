@@ -1,4 +1,4 @@
-# Volatility and Skew Analysis in Algorithmic Trading
+# Volatility and Skew Analysis
 
 Volatility and skew analysis are critical components in the domain of [algorithmic trading](../a/algorithmic_trading.md), influencing [trading strategies](../t/trading_strategies.md), [portfolio management](../p/portfolio_management.md), and risk assessment. In this comprehensive guide, we will delve into the definitions, measurements, influences, and applications of volatility and skew in the context of [algorithmic trading](../a/algorithmic_trading.md).
 

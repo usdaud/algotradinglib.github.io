@@ -1,4 +1,4 @@
-# Valuation Approaches in Algorithmic Trading
+# Valuation Approaches
 
 Valuation is the process of determining the present value of an asset or a company. In the realm of [algorithmic trading](../a/algorithmic_trading.md), valuation approaches are critical as they provide the foundational data and insights essential for creating effective [trading strategies](../t/trading_strategies.md). There are several valuation approaches used in [algorithmic trading](../a/algorithmic_trading.md), each with its own set of methodologies and applications. Below, we provide a detailed examination of the primary valuation methods, their underpinnings, and their integration into [algorithmic trading](../a/algorithmic_trading.md) systems.
 

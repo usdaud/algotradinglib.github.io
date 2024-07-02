@@ -1,4 +1,4 @@
-## Security Valuation Models
+# Security Valuation Models
 
 [Security valuation](../s/security_valuation.md) models are essential tools in the field of finance and investment. These models are used to determine the intrinsic value of various securities, such as stocks, bonds, [derivatives](../d/derivatives.md), and other financial instruments. By accurately valuing these assets, investors can make informed decisions, mitigate risks, and optimize their portfolios. The following sections provide a comprehensive overview of the primary [security valuation](../s/security_valuation.md) models, exploring their methodologies, applications, strengths, and limitations.
 

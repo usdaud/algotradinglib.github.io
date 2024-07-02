@@ -1,4 +1,4 @@
-## Short Call Option
+# Short Call Option
 
 In the realm of options trading, a **short call option** is a financial position where an investor sells (writes) a call option, which provides the buyer the right, but not the obligation, to purchase a specific asset at a predetermined price (the strike price) within a set time period. This is considered a bearish strategy in the market, as the seller of the call expects the asset’s price to decline or remain below the strike price. Here, we will delve deeply into the mechanics, strategies, risks, and potential rewards of a short call option.
 

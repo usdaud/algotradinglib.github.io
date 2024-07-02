@@ -1,4 +1,4 @@
-## Underlying Security Analysis in Algorithmic Trading
+# Underlying Security Analysis
 
 ### Introduction
 Underlying [security analysis](../s/security_analysis.md) is a critical component of the financial markets, particularly for those involved in [algorithmic trading](../a/algorithmic_trading.md). It involves the evaluation and assessment of the inherent value, performance, and risks associated with a financial security, such as stocks, bonds, commodities, or [derivatives](../d/derivatives.md). The goal is to understand the fundamental factors that drive the price movements and to make informed trading decisions based on these insights. This detailed exploration elucidates the various components and methodologies involved in underlying [security analysis](../s/security_analysis.md) in the context of [algorithmic trading](../a/algorithmic_trading.md).

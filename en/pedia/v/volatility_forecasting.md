@@ -1,4 +1,4 @@
-# Volatility Forecasting in Algorithmic Trading
+# Volatility Forecasting
 
 Volatility forecasting is a crucial aspect of [algorithmic trading](../a/algorithmic_trading.md), which involves the use of sophisticated mathematical models and [computational algorithms](../c/computational_algorithms.md) to predict the fluctuation patterns of asset prices. Accurate volatility forecasting enables traders to make informed decisions about their [trading strategies](../t/trading_strategies.md), [risk management](../r/risk_management.md), and [portfolio optimization](../p/portfolio_optimization.md). This document provides a comprehensive overview of the key concepts, methods, and applications of volatility forecasting in the context of [algorithmic trading](../a/algorithmic_trading.md).
 

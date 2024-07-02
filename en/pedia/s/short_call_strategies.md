@@ -1,4 +1,4 @@
-## Short Call Strategies
+# Short Call Strategies
 
 In the world of options trading, the concept of a **short call**—also known as a **naked call**—is a popular yet risky strategy employed by traders to profit from a decline in the price of the underlying asset. The short call strategy involves selling (or "writing") call options without holding the underlying asset. This guide aims to provide an in-depth understanding of short call strategies, including their mechanics, potential risks, rewards, and real-world applications.
 

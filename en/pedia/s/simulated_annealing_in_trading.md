@@ -1,5 +1,4 @@
-# Simulated Annealing in Trading
----
+# Simulated Annealing
 
 [Simulated annealing](../s/simulated_annealing.md) (SA) is a probabilistic technique for approximating the global optimum of a given function. It was first introduced in the early 1980s in the context of optimization problems in physics but has since found a wide array of applications in various fields, including trading and finance. In trading, [simulated annealing](../s/simulated_annealing.md) is used to optimize [trading strategies](../t/trading_strategies.md), thereby maximizing returns or minimizing risk.
 

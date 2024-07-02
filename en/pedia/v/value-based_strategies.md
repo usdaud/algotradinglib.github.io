@@ -1,4 +1,4 @@
-# **Value-Based Strategies in Algorithmic Trading**
+# Value-Based Strategies
 
 [Algorithmic trading](../a/algorithmic_trading.md), often referred to as algo-trading, encapsulates the use of algorithms and advanced mathematical models to execute trades at high speeds and volumes, leveraging computational power to make split-second decisions. Among the myriad of strategies employed in this domain, value-based strategies hold a distinguished position due to their reliance on fundamental, rather than just technical, analysis. These strategies seek to identify discrepancies between an asset's market price and its intrinsic value, capitalizing on markets' tendencies to revert to fundamental values over time.
 

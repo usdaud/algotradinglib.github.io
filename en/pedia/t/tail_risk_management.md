@@ -1,4 +1,4 @@
-# **Tail Risk Management in Algorithmic Trading**
+# Tail Risk Management
 
 In the realm of [algorithmic trading](../a/algorithmic_trading.md), one of the most critical aspects of [risk management](../r/risk_management.md) is the mitigation of [tail risk](../t/tail_risk.md). [Tail risk](../t/tail_risk.md) refers to the risk of asset price movements that are more than three standard deviations from the mean in a normal distribution, usually associated with profoundly negative impacts on a portfolio's value. These rare but highly disruptive events make managing [tail risk](../t/tail_risk.md) an essential component of sustaining long-term profitability in [algorithmic trading](../a/algorithmic_trading.md).
 

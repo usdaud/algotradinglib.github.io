@@ -1,4 +1,4 @@
-# Security Selection in Algorithmic Trading
+# Security Selection
 
 Security selection is a pivotal element of [algorithmic trading](../a/algorithmic_trading.md), involving the identification and selection of financial instruments such as stocks, bonds, commodities, or other assets that an [algorithmic trading](../a/algorithmic_trading.md) system will buy or sell. This intricate process is driven by various factors and methodologies aimed at achieving superior returns, improving diversification, or managing risk. The efficacy of security selection profoundly impacts the overall performance of an [algorithmic trading](../a/algorithmic_trading.md) strategy, making it a cornerstone of any successful [algorithmic trading](../a/algorithmic_trading.md) system.
 

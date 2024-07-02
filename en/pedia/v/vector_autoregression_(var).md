@@ -1,4 +1,4 @@
-### Vector Autoregression (VAR)
+# Vector Autoregression (VAR)
 
 Vector Autoregression (VAR) is a statistical model used in econometrics and [financial modeling](../f/financial_modeling.md) to capture the linear interdependencies among multiple time series data. This method extends the univariate autoregressive model by allowing for more than one evolving variable. VAR models are adept at forecasting systems of interrelated time series and analyzing the dynamic impact of random disturbances on the system of variables.
 

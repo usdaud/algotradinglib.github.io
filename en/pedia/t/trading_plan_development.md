@@ -1,4 +1,4 @@
-## Trading Plan Development
+# Trading Plan Development
 
 In the world of [algorithmic trading](../a/algorithmic_trading.md), the development of a well-structured trading plan is crucial for achieving consistent profitability and managing risks effectively. A trading plan serves as a comprehensive blueprint detailing the trader's strategy, goals, [risk management](../r/risk_management.md) protocols, and the guidelines necessary to navigate the financial markets. Here we'll cover the key elements and steps involved in developing a robust trading plan.
 

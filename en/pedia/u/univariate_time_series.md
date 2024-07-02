@@ -1,4 +1,4 @@
-# Univariate Time Series in Algorithmic Trading
+# Univariate Time Series
 
 ## Introduction
 

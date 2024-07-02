@@ -1,4 +1,4 @@
-# Twist Spread Analysis in Algorithmic Trading
+# Twist Spread Analysis
 
 Twist [Spread Analysis](../s/spread_analysis.md) (TSA) is an advanced technique used in [algorithmic trading](../a/algorithmic_trading.md) to measure and interpret the changes in [yield curve](../y/yield_curve.md) spreads. The [yield curve](../y/yield_curve.md) represents the relationship between interest rates and the maturity dates of debt securities, such as bonds. Traders and analysts closely monitor the [yield curve](../y/yield_curve.md) to forecast economic conditions, interest rate changes, and to devise [trading strategies](../t/trading_strategies.md). Twist [Spread Analysis](../s/spread_analysis.md) plays a crucial role in this context by providing a deeper insight into the dynamics of yield curves and their implications on various securities.
 

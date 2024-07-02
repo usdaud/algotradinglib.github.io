@@ -1,4 +1,4 @@
-# Spread Options in Algorithmic Trading
+# Spread Options
 
 Spread options represent one of the more sophisticated instruments utilized in [algorithmic trading](../a/algorithmic_trading.md), designed to profit from the differential—or "spread"—between the prices of two or more assets. This approach allows traders to hedge risks or leverage their strategies for greater returns by making more nuanced bets on market movements. Let's delve into the intricate details surrounding spread options, including their types, methodologies, applications, and real-world examples.
 

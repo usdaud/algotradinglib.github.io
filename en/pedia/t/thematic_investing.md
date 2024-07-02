@@ -1,4 +1,4 @@
-# Thematic Investing in Algo Trading
+# Thematic Investing
 
 Thematic investing is an investment approach that focuses on specific themes or trends expected to drive growth and innovation in the market. This can include everything from technological advancements, such as artificial intelligence or renewable energy, to demographic shifts like aging populations or urbanization. When combined with [algorithmic trading](../a/algorithmic_trading.md), thematic investing offers unique opportunities for profitability by leveraging data-driven strategies and [automated trading systems](../a/automated_trading_systems.md).
 

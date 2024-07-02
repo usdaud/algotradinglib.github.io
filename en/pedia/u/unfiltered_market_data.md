@@ -1,4 +1,4 @@
-# Unfiltered Market Data in Algorithmic Trading
+# Unfiltered Market Data
 
 ## Introduction
 In the realm of financial trading, data is power. Market participants, including algorithmic traders, rely heavily on real-time information to make split-second decisions. Market data comes in various forms and can be processed in multiple ways to meet different trading objectives. One particularly significant type of data is unfiltered market data. This comprehensive guide aims to elaborate on what unfiltered market data is, its importance, how it is used in [algorithmic trading](../a/algorithmic_trading.md), and the challenges associated with its utilization.

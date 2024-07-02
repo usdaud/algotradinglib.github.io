@@ -1,4 +1,4 @@
-# Transaction Execution in Algorithmic Trading
+# Transaction Execution
 
 ## Introduction
 

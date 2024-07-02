@@ -1,4 +1,4 @@
-# **Spinning Top Patterns in Algorithmic Trading**
+# Spinning Top Patterns
 
 In the realm of [algorithmic trading](../a/algorithmic_trading.md), [chart patterns](../c/chart_patterns.md) serve as vital tools that traders use to predict future price movements. One such pattern is the "spinning top." Spinning top patterns, a subset of candlestick [chart patterns](../c/chart_patterns.md), are crucial in providing traders with indications of market indecision, potential reversals, or trend continuations. This extensive guide delves into the intricacies of spinning top patterns, exploring their formation, the role they play in [algorithmic trading](../a/algorithmic_trading.md), and the methodologies to leverage them effectively.
 

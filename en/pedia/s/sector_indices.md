@@ -1,4 +1,4 @@
-# Sector Indices: A Detailed Overview
+# Sector Indices
 
 Sector indices are a critical aspect of financial markets, providing a means to track the performance of specific segments of the economy. These indices, often used in [algorithmic trading](../a/algorithmic_trading.md), offer insight into how different sectors perform relative to the broader market. Understanding sector indices is essential for investors looking to create targeted investment strategies and for traders seeking to capitalize on specific market movements.
 
