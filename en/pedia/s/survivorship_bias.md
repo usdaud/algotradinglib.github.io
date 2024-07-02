@@ -1,4 +1,4 @@
-### Survivorship Bias
+# Survivorship Bias
 
 Survivorship Bias is a logical error that concentrates on the people or things that "survived" some process and inadvertently overlooks those that did not because of their lack of visibility. This bias can skew various types of analyses and conclusions. The term is widely discussed in the context of finance, especially in [algorithmic trading](../a/algorithmic_trading.md) and investment strategies. Let's delve deeper into its definition, implications, and its significant role in the realm of [algorithmic trading](../a/algorithmic_trading.md).
 

@@ -1,4 +1,4 @@
-# Trading Costs in Algorithmic Trading
+# Trading Costs
 
 [Algorithmic trading](../a/algorithmic_trading.md), often referred to as algo trading, involves using computer algorithms to automate the process of buying and selling financial assets. These algorithms can execute orders at speeds and frequencies that a human trader cannot match. While the potential for increased efficiency and profitability is substantial, an often-overlooked aspect of [algorithmic trading](../a/algorithmic_trading.md) is the various costs associated with executing trades. These costs can significantly impact the overall performance of [trading strategies](../t/trading_strategies.md). This article delves into the different types of trading costs, their sources, and their implications for algo trading.
 

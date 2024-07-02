@@ -1,4 +1,4 @@
-### Volume Indicators in Algorithmic Trading
+# Volume Indicators
 
 Volume indicators are essential tools in [technical analysis](../t/technical_analysis.md) that gauge the strength or weakness of a market move based on the volume of trading activity. By analyzing volume, traders can infer the conviction of market participants behind a price movement, making volume indicators crucial for the development of [algorithmic trading](../a/algorithmic_trading.md) strategies. 
 

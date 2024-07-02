@@ -1,4 +1,4 @@
-# Volatility Analysis in Algorithmic Trading
+# Volatility Analysis
 
 ## Introduction to Volatility
 

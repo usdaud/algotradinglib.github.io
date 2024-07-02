@@ -1,4 +1,4 @@
-# Simple Linear Regression: An In-depth Exploration
+# Simple Linear Regression
 
 Simple [Linear Regression](../l/linear_regression.md) is a fundamental statistical method used in [predictive modeling](../p/predictive_modeling.md) to understand the relationship between two continuous variables: a predictor (independent variable) and a response (dependent variable). Its primary goal is to create a linear equation that best describes this dependency, enabling predictions for the response variable based on given values of the predictor variable.
 

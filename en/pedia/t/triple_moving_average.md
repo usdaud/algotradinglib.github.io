@@ -1,4 +1,4 @@
-## Triple Moving Average
+# Triple Moving Average
 
 The Triple Moving Average (TMA) is a [technical analysis](../t/technical_analysis.md) tool used in [algorithmic trading](../a/algorithmic_trading.md) to identify trends and generate trade signals. It relies on three separate moving averages of different lengths to smooth out price data, reduce noise, and provide a clearer view of market trends. This approach is often implemented in [automated trading systems](../a/automated_trading_systems.md) to make decisions based on quantitative criteria.
 

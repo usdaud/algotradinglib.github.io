@@ -1,4 +1,4 @@
-# Timing Models in Algorithmic Trading
+# Timing Models
 
 Timing models in [algorithmic trading](../a/algorithmic_trading.md) are strategies used to decide when to buy or sell financial instruments to take advantage of expected market movements. These models are crucial for maximizing returns and minimizing risks, as trading too early or too late can severely impact profitability. Below is a comprehensive discussion of various timing models, their methodologies, and their applications in [algorithmic trading](../a/algorithmic_trading.md).
 

@@ -1,4 +1,4 @@
-# Spectral Methods in Algorithmic Trading
+# Spectral Methods
 
 Spectral methods refer to a class of techniques used in various fields, including [algorithmic trading](../a/algorithmic_trading.md), to analyze the properties and structures of signals in different domains—primarily the frequency domain. These methods leverage mathematical transformations such as the Fourier Transform to decompose signals into their constituent frequencies. In [algorithmic trading](../a/algorithmic_trading.md), spectral methods are leveraged to identify periodicities, trends, and other structural features in time-series data that are not readily observable in the time domain.
 

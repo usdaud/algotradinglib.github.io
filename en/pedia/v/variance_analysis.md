@@ -1,4 +1,4 @@
-# Variance Analysis in Algorithmic Trading
+# Variance Analysis
 
 Variance analysis is a vital concept used in [algorithmic trading](../a/algorithmic_trading.md) to understand the differences between expected and actual performance. This concept can be applied to different metrics such as returns, risk, and transaction costs. The ultimate goal is to identify, quantify, and manage sources of variation to enhance [trading strategies](../t/trading_strategies.md). This comprehensive guide delves into the intricacies of variance analysis, providing insights into its application in [algorithmic trading](../a/algorithmic_trading.md).
 

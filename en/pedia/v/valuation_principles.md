@@ -1,4 +1,4 @@
-### Valuation Principles in Algorithmic Trading
+# Valuation Principles
 
 [Algorithmic trading](../a/algorithmic_trading.md) (or alqotrade) is the usage of computer algorithms to execute [trading strategies](../t/trading_strategies.md) at high speed and volumes, often in a quest to capitalize on very short-lived market opportunities. An essential component of successful [algorithmic trading](../a/algorithmic_trading.md) is the robust valuation of assets, which guides the decision-making process. Valuation principles in [algorithmic trading](../a/algorithmic_trading.md) cover a broad range of techniques and theories dedicated to determining the fair value of securities. This ensures that trades are executed based on scientifically grounded criteria rather than random metrics or emotional bias.
 

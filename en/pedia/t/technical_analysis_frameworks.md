@@ -1,4 +1,4 @@
-## Technical Analysis Frameworks in Algorithmic Trading
+# Technical Analysis Frameworks
 
 [Technical analysis](../t/technical_analysis.md) is an essential component of [algorithmic trading](../a/algorithmic_trading.md), where historical market data is analyzed to predict future price movements. Unlike [fundamental analysis](../f/fundamental_analysis.md) that considers [economic indicators](../e/economic_indicators.md) and financial statements, [technical analysis](../t/technical_analysis.md) focuses solely on price charts, trading volume, and other market-generated data. This document delves into various popular [technical analysis](../t/technical_analysis.md) frameworks employed in [algorithmic trading](../a/algorithmic_trading.md).
 

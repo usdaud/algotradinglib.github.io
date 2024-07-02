@@ -1,4 +1,4 @@
-# Volume and Price Analysis in Algorithmic Trading
+# Volume and Price Analysis
 
 Volume and price analysis are two fundamental aspects of market behavior that algorithmic traders utilize to make informed trading decisions. This comprehensive guide will dive into the intricate details of volume and price analysis, exploring different methodologies, tools, and applications in the context of [algorithmic trading](../a/algorithmic_trading.md).
 

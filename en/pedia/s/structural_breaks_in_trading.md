@@ -1,4 +1,4 @@
-# Structural Breaks in Trading
+# Structural Breaks
 
 Structural breaks, also known as regime shifts, refer to sudden and significant changes in the underlying statistical properties of time series data. These shifts can affect mean, variance, and correlations of the data sets, often causing traditional models to fail in their predictive capabilities. In the context of trading, recognizing and adapting to structural breaks is essential for maintaining the reliability and robustness of [trading algorithms](../t/trading_algorithms.md).
 

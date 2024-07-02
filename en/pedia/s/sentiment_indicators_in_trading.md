@@ -1,4 +1,4 @@
-# Sentiment Indicators in Trading
+# Sentiment Indicators
 
 In financial markets, [sentiment indicators](../s/sentiment_indicators.md) are tools that investors and traders use to gauge the overall mood or sentiment of the market, which can offer insights into potential future market movements. These sentiments may pertain to a wide variety of market participants including retail traders, institutional investors, analysts, and even media outlets. Here, we will delve into the concept of [sentiment indicators](../s/sentiment_indicators.md), types, how they are used in trading, and some popular [sentiment indicators](../s/sentiment_indicators.md) available today.
 

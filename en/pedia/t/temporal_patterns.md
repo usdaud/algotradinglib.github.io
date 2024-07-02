@@ -1,4 +1,4 @@
-# Temporal Patterns in Algorithmic Trading
+# Temporal Patterns
 
 ## Introduction
 

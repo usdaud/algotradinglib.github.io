@@ -1,4 +1,4 @@
-# Trading Rules in Algorithmic Trading
+# Trading Rules
 
 [Algorithmic trading](../a/algorithmic_trading.md), often referred to as "algo trading," utilizes advanced mathematical models, automated systems, and high-speed data exchanges to execute trades. It represents a significant shift from manual trading, allowing traders to execute large orders and complex strategies with precision and efficiency. However, successful [algorithmic trading](../a/algorithmic_trading.md) hinges on a set of well-defined trading rules. These rules guide the creation, execution, and management of [trading algorithms](../t/trading_algorithms.md) and systems, ensuring they operate correctly and reduce the risk of significant losses. This document explores the different facets of trading rules in [algorithmic trading](../a/algorithmic_trading.md), providing a comprehensive overview for novice and experienced traders alike.
 

@@ -1,4 +1,4 @@
-# Unrealized Losses in Algorithmic Trading
+# Unrealized Losses
 
 In the realm of financial markets and [algorithmic trading](../a/algorithmic_trading.md), the terminology "unrealized losses," also known as "paper losses," plays a crucial role in [portfolio management](../p/portfolio_management.md) and performance assessment. An unrealized loss refers to the decrease in the value of an asset or a portfolio that an investor holds but has not yet sold. Unlike realized losses which are locked in when the asset is sold at a price lower than its purchase price, unrealized losses remain theoretical until the sale is executed. This concept is instrumental for both individual traders and institutional investors employing algorithmic strategies.
 

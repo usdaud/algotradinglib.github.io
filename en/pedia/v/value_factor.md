@@ -1,4 +1,4 @@
-# Value Factor in Algo Trading
+# Value Factor
 
 The **value factor** is a fundamental concept in the world of [quantitative finance](../q/quantitative_finance.md) and [algorithmic trading](../a/algorithmic_trading.md). It essentially refers to a type of investment strategy that prioritizes securities which appear to be undervalued according to certain financial metrics. This type of strategy is often contrasted with [growth investing](../g/growth_investing.md), which focuses on stocks that are expected to grow at an above-average rate.
 

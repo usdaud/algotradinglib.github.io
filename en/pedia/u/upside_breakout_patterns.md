@@ -1,4 +1,4 @@
-# Upside Breakout Patterns in Algorithmic Trading
+# Upside Breakout Patterns
 
 ## Introduction
 An upside breakout pattern represents a significant price movement of a security that breaches a previously established resistance level, signaling a strong upward trend. In the context of [algorithmic trading](../a/algorithmic_trading.md), identifying and leveraging such patterns can provide substantial opportunities for trading profits. This discussion delves into various types of upside breakout patterns, their implications, and how algorithms can be structured to detect and trade these patterns efficiently. 

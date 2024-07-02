@@ -1,4 +1,4 @@
-# Total Return Benchmarks in Algorithmic Trading
+# Total Return Benchmarks
 
 In the world of finance and investments, [algorithmic trading](../a/algorithmic_trading.md) has taken a prominent position due to its ability to utilize computing power and advanced algorithms to execute trades at high speeds. An integral aspect of assessing performance in [algorithmic trading](../a/algorithmic_trading.md), as well as traditional [trading strategies](../t/trading_strategies.md), is the use of benchmarks. One specific type of benchmark is the Total Return Benchmark, which measures the performance of a portfolio or investment strategy, including all price returns and dividends or interest payments.
 

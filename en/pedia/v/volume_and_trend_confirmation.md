@@ -1,4 +1,4 @@
-# Volume and Trend Confirmation in Algo Trading
+# Volume and Trend Confirmation
 
 One of the fundamental aspects of [algorithmic trading](../a/algorithmic_trading.md) (or algo trading) is the utilization of signals and indicators to execute trades based on predefined criteria. Among the myriad of indicators, volume and trend confirmation stand out as essential elements in affirming the strength and validity of a trend. Let's delve into each component and explore how they intertwine to reinforce trading decisions.
 

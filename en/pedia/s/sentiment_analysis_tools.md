@@ -1,4 +1,4 @@
-# Sentiment Analysis Tools in Algorithmic Trading
+# Sentiment Analysis Tools
 
 [Sentiment analysis](../s/sentiment_analysis.md), also known as opinion mining, is a method used to determine whether data points towards a positive, neutral, or negative sentiment. This technique is incredibly powerful when applied to financial markets, especially in the field of [algorithmic trading](../a/algorithmic_trading.md). By leveraging [sentiment analysis](../s/sentiment_analysis.md) tools, traders can develop automated systems that parse through vast quantities of unstructured data like news articles, social media feeds, and other sources of financial news to make informed trading decisions. This document provides an in-depth look into several [sentiment analysis](../s/sentiment_analysis.md) tools and platforms that are widely used in [algorithmic trading](../a/algorithmic_trading.md).
 

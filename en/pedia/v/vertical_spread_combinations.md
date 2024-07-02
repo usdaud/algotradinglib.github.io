@@ -1,4 +1,4 @@
-# **Vertical Spread Combinations in Algorithmic Trading**
+# Vertical Spread Combinations
 
 [Vertical spread](../v/vertical_spread.md) combinations are a type of options strategy in [algorithmic trading](../a/algorithmic_trading.md) that involve buying and selling two options of the same class (both calls or both puts) with the same underlying asset and same expiration date but different strike prices. These strategies are typically used to capitalize on expectations of the directional movement of the underlying asset, manage risk, and increase the probability of obtaining profits from specific market conditions.
 

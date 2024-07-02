@@ -1,4 +1,4 @@
-# Turnover Rate Analysis in Algorithmic Trading
+# Turnover Rate Analysis
 
 [Algorithmic trading](../a/algorithmic_trading.md), commonly known as "algo-trading," involves using computer algorithms to automate and optimize trading decisions. One key metric used in analyzing and evaluating [trading strategies](../t/trading_strategies.md) in [algorithmic trading](../a/algorithmic_trading.md) is the turnover rate. Turnover rate is a measure of how frequently the assets or securities in a portfolio are bought and sold over a specific period of time.
 

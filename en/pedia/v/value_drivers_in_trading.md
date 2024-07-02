@@ -1,4 +1,4 @@
-# Value Drivers in Trading
+# Value Drivers
 
 In the broad scope of financial markets and trading, understanding the key value drivers is paramount for both traders and investors. Value drivers in trading refer to the core elements or variables that have a significant impact on the valuation of financial assets and investment returns. These drivers can differ depending on the market, asset class, and trading strategy but generally fall into several main categories: [economic indicators](../e/economic_indicators.md), market sentiment, company fundamentals, and technological factors.
 

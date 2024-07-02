@@ -1,4 +1,4 @@
-# Short Box Spread in Algorithmic Trading
+# Short Box Spread
 
 ## Introduction
 

@@ -1,4 +1,4 @@
-## Sortino Ratio
+# Sortino Ratio
 
 The Sortino Ratio is a modification of the [Sharpe Ratio](../s/sharpe_ratio.md) that differentiates harmful volatility from total overall volatility by using the asset's standard deviation of negative asset returns—otherwise known as [downside deviation](../d/downside_deviation.md). The Sortino Ratio is a popular metric used by traders, investors, and portfolio managers in the field of [algorithmic trading](../a/algorithmic_trading.md) (algo-trading) to assess the [risk-adjusted return](../r/risk-adjusted_return.md) of an investment or trading strategy.
 

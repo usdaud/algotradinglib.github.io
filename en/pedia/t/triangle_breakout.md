@@ -1,4 +1,4 @@
-# Triangle Breakout in Algorithmic Trading
+# Triangle Breakout
 
 In the domain of [algorithmic trading](../a/algorithmic_trading.md), a "triangle breakout" is a significant [technical analysis](../t/technical_analysis.md) pattern that traders use to forecast potential price movements in financial markets. These patterns are formed on the price chart when the price action of a security converges into a triangle shape, leading to a breakout. Understanding triangle breakouts, their types, and how to effectively implement [trading strategies](../t/trading_strategies.md) based on these patterns can provide traders with a strategic edge.
 

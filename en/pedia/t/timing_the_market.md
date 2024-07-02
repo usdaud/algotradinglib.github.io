@@ -1,4 +1,4 @@
-## Timing the Market
+# Timing the Market
 
 Timing the market is a trading strategy in which investors attempt to predict future market price movements and make buying or selling decisions based on those predictions. The objective is to enter the market during the best times—when stock prices are anticipated to rise—and exit during the worst times—when stock prices are expected to fall. Although simple in theory, timing the market is challenging and often controversial.
 

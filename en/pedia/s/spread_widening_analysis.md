@@ -1,4 +1,4 @@
-# Spread Widening Analysis in Algorithmic Trading
+# Spread Widening Analysis
 
 Spread widening is a critical concept in both traditional and [algorithmic trading](../a/algorithmic_trading.md). It refers to the phenomenon where the [bid-ask spread](../b/bid-ask_spread.md) of a security increases, which can be due to various market conditions and events. Understanding and analyzing spread widening is essential for algorithmic traders as it can significantly influence [trading strategies](../t/trading_strategies.md), execution efficiency, and overall profitability.
 

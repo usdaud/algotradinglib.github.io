@@ -1,4 +1,4 @@
-### Velocity of Market Movements in Algorithmic Trading
+# Velocity of Market Movements
 
 #### Introduction
 

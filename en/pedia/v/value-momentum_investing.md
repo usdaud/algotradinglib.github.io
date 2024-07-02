@@ -1,4 +1,4 @@
-### Value-Momentum Investing
+# Value-Momentum Investing
 
 Value-Momentum Investing is a hybrid investment strategy that combines two prominent approaches in the field of finance: [value investing](../v/value_investing.md) and momentum investing. This strategy aims to leverage the strengths of both methodologies to optimize returns and manage risk effectively.
 

@@ -1,4 +1,4 @@
-### Understanding Underlying Financials in Algorithmic Trading
+# Underlying Financials
 
 [Algorithmic trading](../a/algorithmic_trading.md) leverages financial models to facilitate the buying and selling of securities at exceptionally high speeds and with minimal human intervention. Within this sophisticated realm, one pivotal element that traders analyze is the "underlying financials" related to various assets. This term encompasses the fundamental financial metrics and [performance indicators](../p/performance_indicators.md) of the entities to which these [trading algorithms](../t/trading_algorithms.md) are applied.
 

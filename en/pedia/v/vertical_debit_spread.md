@@ -1,4 +1,4 @@
-# Vertical Debit Spread in Algorithmic Trading
+# Vertical Debit Spread
 
 In the world of options trading, a Vertical Debit Spread is a strategy that is used to capitalize on the movement of stock prices within a specific range. It is a type of [vertical spread](../v/vertical_spread.md), which involves simultaneously buying and selling options of the same class (calls or puts) with the same expiration date but with different strike prices. The term "debit" signifies that the trader must pay an upfront cost to establish the position because the bought option has a higher premium than the sold option. Vertical Debit Spreads can be executed using either calls or puts, resulting in Bull Call Spreads or Bear Put Spreads, respectively, depending on the market sentiment.
 

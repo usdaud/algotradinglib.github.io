@@ -1,4 +1,4 @@
-# Unemployment Trends in Algorithmic Trading: Analysis and Implications
+# Unemployment Trends
 
 Unemployment is a critical indicator of economic health, often influenced by a myriad of factors including technological advancements. One such advancement, [algorithmic trading](../a/algorithmic_trading.md), has significantly reshaped financial markets and employment landscapes within these markets. This document provides a detailed examination of unemployment trends as impacted by [algorithmic trading](../a/algorithmic_trading.md), analyzing the implications for various stakeholders.
 

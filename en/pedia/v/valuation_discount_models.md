@@ -1,4 +1,4 @@
-# Valuation Discount Models in Algorithmic Trading
+# Valuation Discount Models
 
 In the realm of financial markets, valuation discount models play a crucial role in determining the value of financial securities, particularly stocks, relative to their intrinsic or fair values. This relative valuation forms a critical component in [algorithmic trading](../a/algorithmic_trading.md) strategies, helping traders make informed decisions based on the perceived under or overvaluation of assets. Here, we will delve deep into various valuation discount models used in [algorithmic trading](../a/algorithmic_trading.md), their theoretical underpinnings, practical applications, and implications on [trading strategies](../t/trading_strategies.md).
 

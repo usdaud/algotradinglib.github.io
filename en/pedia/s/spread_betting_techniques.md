@@ -1,4 +1,4 @@
-# **Spread Betting Techniques**
+# Spread Betting Techniques
 
 In the realm of financial markets, [spread betting](../s/spread_betting.md) represents a popular and potentially lucrative strategy for traders. It involves wagering on the future movement of various financial assets’ prices without actually owning the underlying assets themselves. This method of trading offers an array of strategies and techniques designed to maximize profit while managing the inherent risks. In this discussion, we will dive deep into the various [spread betting](../s/spread_betting.md) techniques, their applications, advantages, and challenges.
 

@@ -1,4 +1,4 @@
-## Venture Capital Trends
+# Venture Capital Trends
 
 ### Introduction
 

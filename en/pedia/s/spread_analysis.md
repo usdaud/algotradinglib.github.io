@@ -1,4 +1,4 @@
-# Spread Analysis in Algorithmic Trading
+# Spread Analysis
 
 Spread analysis is a fundamental concept in the world of trading and investment. It involves examining the difference between the bid price and the ask price of an asset, commonly referred to as the "spread." In [algorithmic trading](../a/algorithmic_trading.md), spread analysis plays a crucial role in developing strategies that can exploit these differences to generate profits. Below, we delve into various aspects of spread analysis, including its importance, methods, quantitative techniques, and applications in [algorithmic trading](../a/algorithmic_trading.md).
 

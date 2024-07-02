@@ -1,4 +1,4 @@
-### Triple Exponential Moving Average (TEMA)
+# Triple Exponential Moving Average (TEMA)
 
 The Triple Exponential Moving Average (TEMA) is a complex [technical analysis](../t/technical_analysis.md) tool used in financial markets for smoothing price data and identifying trends with reduced lag compared to traditional moving averages. Developed by Patrick Mulloy in 1994, TEMA is designed to address the lagging issue prevalent in Simple Moving Averages (SMA) and Exponential Moving Averages (EMA) by incorporating multiple EMA calculations into a single indicator.
 

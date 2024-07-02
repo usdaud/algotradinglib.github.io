@@ -1,4 +1,4 @@
-## Utility-Based Trading
+# Utility-Based Trading
 
 Utility-Based Trading is an advanced financial strategy in the realm of [algorithmic trading](../a/algorithmic_trading.md) which revolves around maximizing the trader's utility function rather than merely profits. This approach incorporates an investor's risk tolerance and other personal preferences into the decision-making process.
 

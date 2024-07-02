@@ -1,4 +1,4 @@
-# Stop-Limit Orders in Algorithmic Trading
+# Stop-Limit Orders
 
 Stop-limit orders are a type of advanced order utilized extensively in [algorithmic trading](../a/algorithmic_trading.md) to manage risks and optimize trade execution. They are designed to provide traders with greater control over the price at which a trade is executed, ensuring that trades are performed only within specified price parameters. This functionality makes them particularly valuable in volatile markets where price swings can be rapid and significant.
 

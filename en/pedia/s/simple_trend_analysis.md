@@ -1,4 +1,4 @@
-# Simple Trend Analysis in Algorithmic Trading
+# Simple Trend Analysis
 
 In the realm of financial markets, understanding and identifying trends is crucial for traders who aim to maximize their returns. Trends manifest as persistent movements in a particular direction, whether upward, downward, or sideways. Simple [Trend Analysis](../t/trend_analysis.md) involves the systematic evaluation of financial assets to determine their movement patterns. This process is often automated in [algorithmic trading](../a/algorithmic_trading.md) to enhance efficiency and accuracy.
 

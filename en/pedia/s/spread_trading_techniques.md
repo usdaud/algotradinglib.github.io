@@ -1,4 +1,4 @@
-### Spread Trading Techniques
+# Spread Trading Techniques
 
 [Spread trading](../s/spread_trading.md), also known as relative value trading or pair trading, is an investment strategy that involves the simultaneous purchase and sale of two related securities. This technique is driven by the anticipation that the price difference between the two securities will either widen or narrow over time. [Spread trading](../s/spread_trading.md) is predominantly employed by professional traders, hedge funds, and other institutional investors due to its potential profitability and its capacity to mitigate certain types of risk.
 

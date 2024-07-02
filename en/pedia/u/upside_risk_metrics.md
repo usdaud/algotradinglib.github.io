@@ -1,4 +1,4 @@
-# **Upside Risk Metrics in Algorithmic Trading**
+# Upside Risk Metrics
 
 In the realm of [algorithmic trading](../a/algorithmic_trading.md), risk assessment is pivotal to creating a balanced and potentially profitable trading strategy. One critical component of risk assessment is understanding and quantifying [upside risk](../u/upside_risk.md). While downside risk addresses the potential losses in a trading strategy, [upside risk](../u/upside_risk.md) focuses on the potential for gains. Upside [risk metrics](../r/risk_metrics.md) help traders and investors evaluate the positive deviation of returns from a specific threshold or benchmark, providing a more holistic view of a strategy's performance. This document will explore various upside [risk metrics](../r/risk_metrics.md), their significance, and how they can be used in [algorithmic trading](../a/algorithmic_trading.md).
 

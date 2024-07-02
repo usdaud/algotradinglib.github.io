@@ -1,4 +1,4 @@
-# Unit Trusts in Algo Trading
+# Unit Trusts
 
 ## Definition and Overview
 

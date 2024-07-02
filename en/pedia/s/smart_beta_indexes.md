@@ -1,4 +1,4 @@
-### Smart Beta Indexes
+# Smart Beta Indexes
 
 [Smart Beta](../s/smart_beta.md) indexes, also known as alternative beta or strategic beta indexes, represent a modern approach to investing that blends aspects of traditional passive and active investment strategies. Unlike standard market-capitalization-weighted indexes, which assign weights to their constituent securities based purely on their market capitalization, [smart beta](../s/smart_beta.md) indexes use alternative weighting schemes and factor-based selection criteria to generate improved risk-adjusted returns. This indexing approach aims to capture investment factors or characteristics that can potentially enhance [portfolio performance](../p/portfolio_performance.md), such as low volatility, momentum, size, quality, and value.
 

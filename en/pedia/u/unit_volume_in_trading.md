@@ -1,5 +1,4 @@
-# Unit Volume in Trading
-=======================
+# Unit Volume
 
 In financial trading, the term "unit volume" refers to the number of units of a particular financial instrument, such as stocks, bonds, or commodities, that are traded during a specified period. This metric is crucial for traders, investors, and analysts as it provides insight into the liquidity and activity levels of the asset in question. This discussion will delve into the concept of unit volume, its significance, how it's measured, and its applications in [algorithmic trading](../a/algorithmic_trading.md), often referred to as "algo trading."
 

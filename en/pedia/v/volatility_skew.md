@@ -1,4 +1,4 @@
-## Volatility Skew
+# Volatility Skew
 
 Volatility skew refers to the pattern in which implied volatility (IV) varies with respect to the strike price and expiration of options. This concept is a critical aspect of options trading and is closely watched by traders as it reveals information about market sentiment, expectations, and hedging activities. Understanding volatility skew can aid in more accurate pricing of options and improved [risk management](../r/risk_management.md) strategies.
 

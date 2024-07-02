@@ -1,4 +1,4 @@
-# Social Sentiment Analysis in Algorithmic Trading
+# Social Sentiment Analysis
 
 Social [Sentiment Analysis](../s/sentiment_analysis.md) refers to the process of analyzing and interpreting the emotions, opinions, and attitudes expressed in online communications, predominantly found on social media platforms, forums, blogs, and news articles. In the context of [algorithmic trading](../a/algorithmic_trading.md), social [sentiment analysis](../s/sentiment_analysis.md) aims to predict the movement of financial markets based on the collective sentiment extracted from textual data.
 

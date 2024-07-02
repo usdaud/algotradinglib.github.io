@@ -1,4 +1,6 @@
-# In the world of algorithmic trading, accurately calculating the total return of an investment is of paramount importance. The total return includes not only the capital appreciation or depreciation but also any income earned over the investment period, such as dividends or interest. Understanding how to properly calculate total return can help investors assess the performance of their strategies more accurately. This detailed exploration will cover the core concepts, methodologies, pros and cons, and practical applications of different total return calculation methods.
+# Total Return Calculation Methods
+
+In the world of algorithmic trading, accurately calculating the total return of an investment is of paramount importance. The total return includes not only the capital appreciation or depreciation but also any income earned over the investment period, such as dividends or interest. Understanding how to properly calculate total return can help investors assess the performance of their strategies more accurately. This detailed exploration will cover the core concepts, methodologies, pros and cons, and practical applications of different total return calculation methods.
 
 ### 1. Simple Price Return
 

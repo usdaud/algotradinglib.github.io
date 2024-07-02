@@ -1,4 +1,4 @@
-## V-Shaped Recovery
+# V-Shaped Recovery
 
 A V-Shaped Recovery refers to a specific type of economic recession and recovery pattern that resembles the shape of the letter "V" on a chart. This pattern depicts a sharp decline in the economy followed by a swift and robust recovery. The key characteristics of a V-Shaped Recovery include a rapid fall in economic activity, followed by an equally rapid and strong return to pre-recession levels of output and employment.
 

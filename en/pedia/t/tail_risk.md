@@ -1,4 +1,4 @@
-### Introduction to Tail Risk
+# Tail Risk
 
 Tail risk refers to the risk of an asset or portfolio of assets moving more than three standard deviations from its current price, or in simpler terms, the risk of an extreme event occurring. These are rare events that lie in the "tails" of a normal distribution curve. In the context of financial markets, tail risk events are often catastrophic and lead to substantial negative returns. Though such events are infrequent, their impact can be devastating, making the assessment and management of tail risk a critical aspect of [risk management](../r/risk_management.md) in [trading strategies](../t/trading_strategies.md), especially [algorithmic trading](../a/algorithmic_trading.md) (algotrading).
 

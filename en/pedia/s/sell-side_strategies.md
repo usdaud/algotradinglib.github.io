@@ -1,4 +1,4 @@
-### Sell-Side Strategies in Algorithmic Trading
+# Sell-Side Strategies
 
 Sell-side refers to the part of the financial industry involved in the creation, promotion, analysis, and sale of securities to the public. Sell-side firms include investment banks, advisory firms, and other entities that facilitate transactions and provide market-making services. Sell-side strategies in [algorithmic trading](../a/algorithmic_trading.md) are sophisticated methodologies employed by these institutions to execute orders on behalf of their clients (such as institutional investors) or to trade on their own accounts. These strategies are designed to minimize market impact, reduce transaction costs, and maximize trading efficiency.
 

@@ -1,4 +1,4 @@
-# Unified Trading Platforms in Algorithmic Trading
+# Unified Trading Platforms
 
 ## Introduction to Unified Trading Platforms
 

@@ -1,4 +1,4 @@
-# Volatility Estimation in Algorithmic Trading
+# Volatility Estimation
 
 In the realm of [algorithmic trading](../a/algorithmic_trading.md), understanding and estimating financial market volatility is crucial for designing robust [trading strategies](../t/trading_strategies.md). Volatility refers to the degree of variation in the price of a trading instrument over time. Higher volatility indicates a greater degree of variation in prices and is often associated with higher risk and potential reward in trading. In this in-depth exploration, we will cover various methods and models used for volatility estimation, the practical applications of volatility in [algorithmic trading](../a/algorithmic_trading.md), and the challenges and future trends in the field.
 

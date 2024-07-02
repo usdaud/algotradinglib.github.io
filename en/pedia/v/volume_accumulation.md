@@ -1,4 +1,4 @@
-# Volume Accumulation in Algorithmic Trading
+# Volume Accumulation
 
 Volume Accumulation is a pivotal concept in the realm of [algorithmic trading](../a/algorithmic_trading.md), helping traders to discern market movements and make data-driven decisions. It encapsulates the cumulative buying and selling activity over a specific period and can reveal potential trends by displaying the volume of transactions behind price movements.
 

@@ -1,4 +1,4 @@
-# Sector Performance in Algorithmic Trading
+# Sector Performance
 
 In the realm of [algorithmic trading](../a/algorithmic_trading.md), sector performance analysis is a crucial aspect of developing successful [trading strategies](../t/trading_strategies.md). Sector performance refers to the relative performance of different industry sectors within the financial markets, typically measured over specific periods. Traders and analysts use sector performance data to identify trends, compare different sectors, and make informed decisions about which sectors to invest in or avoid. This detailed analysis helps in designing algorithms that can systematically exploit inefficiencies and opportunities in the markets. 
 

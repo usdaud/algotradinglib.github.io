@@ -1,4 +1,4 @@
-### Volume Distribution Analysis
+# Volume Distribution Analysis
 
 Volume Distribution Analysis is a pivotal concept in [algorithmic trading](../a/algorithmic_trading.md), where traders and analysts study the distribution of trading volume across different price levels, time periods, or other dimensions. Understanding volume distribution can provide insights into market sentiment, potential [support and resistance](../s/support_and_resistance.md) levels, and the strength of ongoing trends. This analysis can significantly enhance [trading strategies](../t/trading_strategies.md), offering additional layers of confirmation and enhancing decision-making processes.
 

@@ -1,4 +1,4 @@
-## Vector Error Correction Model (VECM)
+# Vector Error Correction Model (VECM)
 
 The Vector Error Correction Model (VECM) is an econometric model used in [time series analysis](../t/time_series_analysis.md) to understand the long-run relationships between integrated variables. It is particularly useful when the non-stationary time series are cointegrated, meaning they share a long-term equilibrium despite having short-term deviations. VECM combines short-term dynamics with long-term equilibrium adjustment to provide a comprehensive tool for analyzing complex time series data, making it especially valuable in fields such as economics, finance, and [algorithmic trading](../a/algorithmic_trading.md).
 

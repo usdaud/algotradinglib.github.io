@@ -1,4 +1,4 @@
-### Short Strangle Strategies
+# Short Strangle Strategies
 
 A [Short Strangle](../s/short_strangle.md) is an advanced options trading strategy aimed at profiting from a narrow trading range of an underlying asset. This strategy involves selling an out-of-the-money (OTM) call option and an out-of-the-money (OTM) put option simultaneously. Unlike a straddle, which involves at-the-money options, a strangle uses options that are further out-of-the-money, making it inherently less risky and less costly but also capping potential profit and loss.
 

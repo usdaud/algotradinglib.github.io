@@ -1,4 +1,4 @@
-### Introduction to Smart Contracts in Trading
+# Smart Contracts
 
 Smart contracts are self-executing contracts where the terms of the agreement or conditions are written directly into lines of code. When these terms or conditions are met, the contract self-executes. Smart contracts operate on blockchain technology, ensuring security, transparency, and immutability. In the context of trading, smart contracts can revolutionize how transactions occur, providing benefits such as automation, reduced fraud, and increased efficiency.
 

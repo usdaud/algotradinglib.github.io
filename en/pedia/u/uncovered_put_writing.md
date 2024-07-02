@@ -1,4 +1,4 @@
-## Uncovered Put Writing in Algorithmic Trading
+# Uncovered Put Writing
 
 Uncovered put writing, also known as [naked put writing](../n/naked_put_writing.md), is a sophisticated options trading strategy that involves selling [put options](../p/put_options.md) without having a corresponding short position in the underlying asset. This practice can generate income through the collection of option premiums but also exposes the trader to potentially substantial losses if the underlying asset's price decreases significantly. In the context of [algorithmic trading](../a/algorithmic_trading.md), uncovered put writing becomes more systematic, data-driven, and can be optimized through various advanced techniques.
 

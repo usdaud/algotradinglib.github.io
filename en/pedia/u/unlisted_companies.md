@@ -1,4 +1,4 @@
-# Unlisted Companies in Algorithmic Trading
+# Unlisted Companies
 
 [Algorithmic trading](../a/algorithmic_trading.md), commonly known as "algotrading," is a method of executing orders using automated pre-programmed trading instructions accounting for variables such as time, price, and volume. This trading practice is not limited to listed companies but has also extended to unlisted companies, which often make considerable impacts in the financial markets. In this context, it's crucial to understand the role, significance, and dynamics of unlisted companies in [algorithmic trading](../a/algorithmic_trading.md).
 

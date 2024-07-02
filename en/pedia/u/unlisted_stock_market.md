@@ -1,4 +1,4 @@
-## Unlisted Stock Market
+# Unlisted Stock Market
 
 ### Introduction
 The unlisted stock market pertains to the realm of securities that are not available on formal exchanges such as the New York Stock Exchange (NYSE) or NASDAQ. This market plays a crucial role in the financial ecosystem, providing opportunities for businesses to raise capital and for investors to diversify their portfolios. Unlisted stocks are often traded in over-the-counter (OTC) markets or through alternative [trading systems](../t/trading_systems.md) (ATS).

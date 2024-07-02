@@ -1,4 +1,4 @@
-# **Time Decay in Options**
+# Time Decay in Options
 
 Time decay, also known as Theta, is a critical concept in options trading that quantifies the reduction in the value of an options contract as it approaches its expiration date. This decay reflects the decreasing likelihood of the option ending up in-the-money as time progresses. 
 

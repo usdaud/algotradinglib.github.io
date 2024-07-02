@@ -1,4 +1,4 @@
-# Algorithmic Trading: Mechanisms, Strategies, and Platforms
+# Algorithmic Trading
 
 [Algorithmic trading](../a/algorithmic_trading.md), often referred to as "algo trading" or "automated trading," is the process of using computers programmed to follow a defined set of instructions (an algorithm) for placing trades in order to generate profits at a speed and frequency that is impossible for a human trader to achieve. The defined sets of instructions are based on timing, price, quantity, or any mathematical model. Apart from creating opportunities for profit, algo trading makes markets more liquid and trading more systematic by ruling out the impact of human emotions on trading activities.
 
