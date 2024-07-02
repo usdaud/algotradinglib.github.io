@@ -1,4 +1,4 @@
-# **Weighted Returns Calculation**
+# Weighted Returns Calculation
 
 In the realm of investment and [portfolio management](../p/portfolio_management.md), understanding the precise return on investments is paramount. Calculating returns can be straightforward; however, when dealing with a portfolio composed of multiple assets, each with different investment sizes, it becomes necessary to use the concept of weighted returns. Weighted returns take into account the varying sizes of investments within a portfolio, providing a more accurate measure of overall performance. This article explores the concept of weighted returns, their significance in financial analysis, and the methodologies for calculating them.
 

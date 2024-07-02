@@ -1,4 +1,4 @@
-# X-Y Charts in Algorithmic Trading
+# X-Y Charts
 
 In [algorithmic trading](../a/algorithmic_trading.md), visualization tools play a fundamental role in analyzing data, performing backtests, and making informed trading decisions. One of the most commonly used visualization tools is the X-Y chart, also known as scatter plots or correlation charts. An X-Y chart is a type of graph that uses Cartesian coordinates to display values for typically two variables for a set of data. It’s instrumental in identifying patterns, trends, and correlation between the variables, which can be pivotal in [algorithmic trading](../a/algorithmic_trading.md) strategies.
 

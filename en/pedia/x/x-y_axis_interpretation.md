@@ -1,4 +1,4 @@
-### X-Y Axis Interpretation in Algorithmic Trading
+# X-Y Axis Interpretation
 
 #### Introduction
 In the realm of [algorithmic trading](../a/algorithmic_trading.md), the interpretation and utilization of x-y axis plots are crucial for making informed decisions. Whether you're analyzing price movements over time, examining [backtesting](../b/backtesting.md) results, or optimizing [trading strategies](../t/trading_strategies.md), understanding how to interpret and leverage these plots can give you a significant edge.

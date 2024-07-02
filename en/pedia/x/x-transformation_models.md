@@ -1,4 +1,4 @@
-# X-Transformation Models in Algorithmic Trading
+# X-Transformation Models
 
 In the realm of [quantitative finance](../q/quantitative_finance.md) and [algorithmic trading](../a/algorithmic_trading.md), X-Transformation models represent a sophisticated and highly nuanced approach to modeling and predicting financial market behaviors. These models, often deeply rooted in advanced mathematics and computational techniques, use a variety of transformations and modifications to traditional data and statistical methods to better capture the complexities and nonlinearities inherent in financial data. Below is a comprehensive exploration of the topic.
 

@@ -1,4 +1,4 @@
-# **X-Statistical Models in Algorithmic Trading**
+# X-Statistical Models
 
 ### What Are X-Statistical Models?
 

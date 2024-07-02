@@ -1,4 +1,4 @@
-### Introduction
+# Window Dressing Strategies
 
 [Window dressing](../w/window_dressing.md) is a common strategy used by fund managers and institutional investors to present their portfolios in a more favorable light at the end of a reporting period. This term refers to the process of making a financial statement or portfolio look more attractive before it's presented to clients or shareholders. Typically, this strategy involves actions like selling underperforming stocks and purchasing high-flying stocks near the end of a quarter or fiscal year. While this practice is widespread, it's also controversial because it can be seen as providing a misleading picture of a fund's actual performance.
 

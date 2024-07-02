@@ -1,4 +1,4 @@
-# X-Signal Generation in Algorithmic Trading
+# X-Signal Generation
 
 [Algorithmic trading](../a/algorithmic_trading.md), also known as "algo trading" or "black-box trading," involves the use of computer algorithms to automatically execute [trading strategies](../t/trading_strategies.md). One of the critical aspects of [algorithmic trading](../a/algorithmic_trading.md) is generating [trading signals](../t/trading_signals.md), often referred to as X-Signals. These signals indicate the optimal moments to buy or sell financial instruments, enabling trades to be executed at the best possible prices. X-Signal generation is an essential component of any well-functioning trading algorithm, as it directly influences [trading performance](../t/trading_performance.md) and profitability.
 

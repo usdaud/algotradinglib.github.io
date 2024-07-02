@@ -1,4 +1,4 @@
-# **Weighted Beta in Algorithmic Trading**
+# Weighted Beta
 
 Within the domain of finance and, more specifically, [algorithmic trading](../a/algorithmic_trading.md), the concept of beta is crucial for understanding the risk behavior of stocks in relation to the market. Beta (β) measures the volatility of an individual security or portfolio in comparison to the entire market, providing insights into its [systematic risk](../s/systematic_risk.md). Weighted beta, a nuanced adaptation of beta, allows traders and analysts to refine their risk assessment and strategy development by taking into account the relative size or importance of assets or factors in their portfolio.
 

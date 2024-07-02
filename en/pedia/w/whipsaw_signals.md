@@ -1,4 +1,4 @@
-# Whipsaw Signals in Algorithmic Trading
+# Whipsaw Signals
 
 ### Introduction
 Whipsaw signals are a vital concept in the realm of [algorithmic trading](../a/algorithmic_trading.md). Characterized by rapid price movements that trigger buy and sell signals leading to potential losses, whipsaw signals manifest in highly volatile market scenarios. Understanding Whipsaw signals is crucial not just for market technicians but also for traders looking to optimize their algorithmic strategies.

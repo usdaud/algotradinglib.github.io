@@ -1,4 +1,4 @@
-### World Stock Indexes
+# World Stock Indexes
 
 #### 1. Introduction to Stock Indexes
 

@@ -1,4 +1,4 @@
-# X-Risk Management in Algorithmic Trading
+# X-Risk Management
 
 [Algorithmic trading](../a/algorithmic_trading.md), the practice of using computers to execute trades at high speeds based on predefined criteria, has revolutionized financial markets over the past few decades. As technology has advanced, so too has the complexity and potential risk of these [trading algorithms](../t/trading_algorithms.md). One of the critical aspects to address in this domain is X-[risk management](../r/risk_management.md)—managing and mitigating the extreme risks associated with [algorithmic trading](../a/algorithmic_trading.md). This document delves into the multilayered nature of X-[risk management](../r/risk_management.md), exploring strategies, tools, practices, and cases related to managing extreme risks in [algorithmic trading](../a/algorithmic_trading.md).
 

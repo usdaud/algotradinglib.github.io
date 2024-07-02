@@ -1,4 +1,4 @@
-# Window Dressing Impact in Algorithmic Trading
+# Window Dressing Impact
 
 [Window dressing](../w/window_dressing.md) is a technique used by fund managers to improve the appearance of their portfolios before presenting them to clients or regulatory bodies. This practice involves buying high-performing stocks and selling off poor performers just before reporting periods, such as the end of a quarter or fiscal year. While the fundamental objective of [window dressing](../w/window_dressing.md) is often driven by the desire to attract or retain investors, its impact on [algorithmic trading](../a/algorithmic_trading.md) is multifaceted and complex. In this detailed analysis, we will delve into the different dimensions of [window dressing](../w/window_dressing.md), its direct and indirect effects on [algorithmic trading](../a/algorithmic_trading.md), and how algorithms are designed to detect and possibly exploit these [market anomalies](../m/market_anomalies.md).
 

@@ -1,4 +1,4 @@
-# Weighted Moving Average Strategies in Algorithmic Trading
+# Weighted Moving Average Strategies
 
 ## Introduction
 

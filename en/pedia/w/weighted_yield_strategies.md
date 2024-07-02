@@ -1,4 +1,4 @@
-# **Weighted Yield Strategies in Algorithmic Trading**
+# Weighted Yield Strategies
 
 [Algorithmic trading](../a/algorithmic_trading.md) leverages computer programs to automate the execution of trades based on predefined criteria. Within this domain, Weighted Yield Strategies (WYS) serve as a sophisticated approach to optimize the earning potential through a weighted allocation methodology. Below, we explore the key components, mechanics, and considerations of Weighted Yield Strategies, providing in-depth insights into their application and effectiveness.
 

@@ -1,4 +1,4 @@
-## White Noise in Trading
+# White Noise
 
 ### Introduction to White Noise
 

@@ -1,4 +1,4 @@
-## X-Liquidity Analysis
+# X-Liquidity Analysis
 
 X-[Liquidity Analysis](../l/liquidity_analysis.md) is a specialized form of evaluating liquidity that focuses on a set of cross-asset metrics, enabling traders and financial institutions to assess how liquid a particular asset is relative to other assets across different markets. Given the complexity and interconnectivity of modern financial markets, understanding liquidity in isolation is often insufficient. This is where X-[Liquidity Analysis](../l/liquidity_analysis.md) comes into play, providing a more comprehensive view that encompasses multiple assets, markets, and trading environments.
 

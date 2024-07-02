@@ -1,4 +1,4 @@
-# Winning Streaks in Algorithmic Trading
+# Winning Streaks
 
 Winning streaks are a fascinating aspect of both human and [algorithmic trading](../a/algorithmic_trading.md) psychology. In the context of [algorithmic trading](../a/algorithmic_trading.md), a winning streak is a series of consecutive profitable trades executed by a trading algorithm. These streaks can significantly affect the perception and behavior of traders and investors, regardless of whether they are driven by human intuition or pre-programmed algorithmic strategies. To understand winning streaks, it is crucial to delve into their impact, the psychology behind them, various methodologies to identify and analyze them, and the ways they can be leveraged or mitigated in the complex world of trading.
 

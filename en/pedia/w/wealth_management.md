@@ -1,4 +1,4 @@
-# Wealth Management in Algorithmic Trading
+# Wealth Management
 
 Wealth management is a professional service wherein financial advisers provide a combination of financial and investment advice, retirement planning, and more specific strategies for wealth growth and preservation. In the context of [algorithmic trading](../a/algorithmic_trading.md), wealth management utilizes sophisticated algorithms to manage clients' portfolios with a primary objective of achieving optimal returns while mitigating risks.
 

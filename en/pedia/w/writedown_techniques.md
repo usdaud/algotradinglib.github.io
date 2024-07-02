@@ -1,4 +1,4 @@
-# Writedown Techniques in Algorithmic Trading
+# Writedown Techniques
 
 ## Introduction
 

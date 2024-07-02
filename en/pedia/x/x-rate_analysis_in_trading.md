@@ -1,4 +1,4 @@
-# X-Rate Analysis in Trading
+# X-Rate Analysis
 
 ## Introduction
 

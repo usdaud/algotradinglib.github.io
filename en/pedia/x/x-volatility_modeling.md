@@ -1,4 +1,4 @@
-# X-Volatility Modeling in Algorithmic Trading
+# X-Volatility Modeling
 
 ## Introduction to Volatility 
 

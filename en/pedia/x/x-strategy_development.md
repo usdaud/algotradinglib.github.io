@@ -1,4 +1,4 @@
-# X-Strategy Development in Algorithmic Trading
+# X-Strategy Development
 
 [Algorithmic trading](../a/algorithmic_trading.md), also known as algo-trading, employs complex algorithms to make trading decisions at high speed and frequency. One key and specialized approach within this realm is X-Strategy development. The term "X-Strategy" is a broad and adaptable concept that can represent a variety of algorithmic strategies, each tailored to optimize specific objectives within the market. X-Strategies can encompass various types of trading methods, brought together under a singular theme of leveraging data, computational power, and advanced models to enhance [trading performance](../t/trading_performance.md).
 

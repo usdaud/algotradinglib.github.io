@@ -1,4 +1,4 @@
-### X-Peak Identification in Algorithmic Trading
+# X-Peak Identification
 
 X-Peak Identification is a sophisticated technique within the domain of [algorithmic trading](../a/algorithmic_trading.md) used to detect significant peaks in the price data of financial instruments. This method is a crucial aspect of [technical analysis](../t/technical_analysis.md), aimed at identifying potential market turning points which can signal profitable trading opportunities.
 

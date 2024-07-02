@@ -1,4 +1,4 @@
-# Wash Rule Strategies in Algorithmic Trading
+# Wash Rule Strategies
 
 ## Introduction to the Wash Sale Rule
 

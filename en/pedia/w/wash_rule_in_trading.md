@@ -1,4 +1,4 @@
-# The Wash Sale Rule in Trading
+# Wash Rule
 
 The [wash sale rule](../w/wash_sale_rule.md) is a regulation in the United States designed to prevent investors from creating tax deductions by selling at a loss and then repurchasing the same or substantially identical security within a short period. This rule is crucial for both individual and institutional traders, including those engaged in [algorithmic trading](../a/algorithmic_trading.md), to understand and comply with. The purpose of this document is to provide a detailed examination of the [wash sale rule](../w/wash_sale_rule.md), its implications, and how it interacts with [algorithmic trading](../a/algorithmic_trading.md) systems.
 

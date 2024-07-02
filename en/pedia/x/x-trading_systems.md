@@ -1,4 +1,4 @@
-# X-Trading Systems: Unleashing the Power of Algorithmic Trading
+# X-Trading Systems
 
 In the dynamic world of financial markets, X-[Trading Systems](../t/trading_systems.md) stands as a paragon of [algorithmic trading](../a/algorithmic_trading.md) ingenuity. This company specializes in creating sophisticated software solutions that harness the capabilities of [algorithmic trading](../a/algorithmic_trading.md), allowing traders and financial institutions to automate the execution of trades with precision and speed.
 

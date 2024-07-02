@@ -1,4 +1,4 @@
-# X-Trend Indicators in Algorithmic Trading
+# X-Trend Indicators
 
 X-[Trend Indicators](../t/trend_indicators.md) are an advanced set of [technical analysis](../t/technical_analysis.md) tools used in [algorithmic trading](../a/algorithmic_trading.md). These indicators help traders to analyze market trends and make informed decisions based on quantitative data. They blend traditional [technical analysis](../t/technical_analysis.md) with modern computing techniques, offering a sophisticated means to identify and capitalize on market trends.
 

@@ -1,4 +1,4 @@
-# Writedowns and Impairments in Financial Accounting
+# Writedowns and Impairments
 
 ## Introduction 
 Writedowns and impairments are crucial concepts in financial accounting and corporate finance. They pertain to the reduction in the book value of an asset when it becomes worth less than its carrying amount on the company's balance sheet. This markdown can result from several factors, such as changes in market conditions, technology, obsolescence, or economic downturns. Understanding these concepts is essential for investors, analysts, accountants, and financial managers, as they have a significant impact on a company's financial statements and ratios.

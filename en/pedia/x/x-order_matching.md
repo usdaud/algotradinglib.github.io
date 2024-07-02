@@ -1,4 +1,4 @@
-### X-Order Matching
+# X-Order Matching
 
 In the realm of [algorithmic trading](../a/algorithmic_trading.md), X-Order matching represents an advanced mechanism employed by trading platforms to match buy and sell orders. This type of system is pivotal in maintaining market liquidity, ensuring fair trade practices, and optimizing the speed and efficiency of the execution of trades. Let's delve deeper into the intricacies and functionalities associated with X-Order Matching.
 

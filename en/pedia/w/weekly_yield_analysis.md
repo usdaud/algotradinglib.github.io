@@ -1,4 +1,4 @@
-## Weekly Yield Analysis in Algorithmic Trading
+# Weekly Yield Analysis
 
 Weekly [Yield Analysis](../y/yield_analysis.md) is a critical aspect of [algorithmic trading](../a/algorithmic_trading.md), focusing on the evaluation and optimization of [trading strategies](../t/trading_strategies.md) based on their weekly performance. Unlike traditional trading methods that often rely on monthly or quarterly assessments, a weekly analysis provides a more granular and dynamic insight into the efficiency and profitability of [trading algorithms](../t/trading_algorithms.md).
 

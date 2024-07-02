@@ -1,4 +1,4 @@
-# X-Risk Adjustment in Algorithmic Trading
+# X-Risk Adjustment
 
 In the world of [algorithmic trading](../a/algorithmic_trading.md), one of the critical components that traders must consider is the management of risk. [Algorithmic trading](../a/algorithmic_trading.md) involves the use of computer algorithms to execute [trading strategies](../t/trading_strategies.md) at speeds and frequencies that are impossible for a human trader to match. While this offers the potential for high returns, it also introduces various risks, especially those associated with extreme, or "X," market conditions. This document explores the concept of X-Risk Adjustment in the context of [algorithmic trading](../a/algorithmic_trading.md), with a focus on identifying, assessing, and managing such risks to optimize [trading performance](../t/trading_performance.md) and ensure financial stability.
 

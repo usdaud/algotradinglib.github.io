@@ -1,4 +1,4 @@
-# Wedge Patterns in Algorithmic Trading
+# Wedge Patterns
 
 Wedge patterns are a significant aspect of [technical analysis](../t/technical_analysis.md), especially in [algorithmic trading](../a/algorithmic_trading.md), where large volumes of data are analyzed to make trading decisions. These patterns, which are formed by converging trendlines on a price chart, signal potential reversals or continuations in the market.
 

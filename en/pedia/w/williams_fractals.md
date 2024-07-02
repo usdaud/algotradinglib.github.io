@@ -1,4 +1,4 @@
-# Williams Fractals: An In-Depth Analysis
+# Williams Fractals
 
 Williams Fractals is a [technical analysis](../t/technical_analysis.md) tool developed by the renowned trader and author Bill Williams. This trading indicator is part of his comprehensive trading strategy, which also includes tools like the Alligator, Awesome Oscillator, and Market Facilitation Index. Williams Fractals are used to identify potential reversal points in the market by spotting local highs and lows. Understanding this concept requires a detailed exploration of its components, application in [trading strategies](../t/trading_strategies.md), and its effectiveness in various market conditions.
 

@@ -1,4 +1,4 @@
-### Wavelet Transform in Trading
+# Wavelet Transform
 
 Wavelet transform is a mathematical technique used to decompose a given function or data set into different scale components, allowing for both time and [frequency analysis](../f/frequency_analysis.md). Unlike the Fourier transform, which decomposes data into a series of sine and cosine waves, wavelet transform uses wavelets, which are functions localized in both time and frequency. This localization property makes wavelets an excellent tool for analyzing financial data, which often contains localized and transient features that are not well-represented by traditional Fourier methods. In trading, wavelet transform can be applied to price series and other financial indicators to enhance [trading strategies](../t/trading_strategies.md) and extract useful insights.
 

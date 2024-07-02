@@ -1,4 +1,4 @@
-# Wave Theory in Algo Trading
+# Wave Theory
 
 Wave theory, also known as [Elliott Wave Theory](../e/elliott_wave_theory.md), is a form of [technical analysis](../t/technical_analysis.md) that is used to analyze financial [market cycles](../m/market_cycles.md) and forecast market trends by identifying extremes in investor psychology, highs and lows in prices, and other collective activities. This theory was developed by Ralph Nelson Elliott in the 1930s. Through a detailed study of 75 years of stock market data, Elliott discovered that stock markets, thought to behave in a somewhat chaotic manner, actually traded in repetitive cycles. These cycles were discovered to be a reflection of the predominant emotions of investors and traders over time.
 

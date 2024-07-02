@@ -1,4 +1,4 @@
-## Warrant Pricing Models
+# Warrant Pricing Models
 
 Warrants are financial instruments that give the holder the right, but not the obligation, to purchase a company's stock at a specific price before a certain expiration date. They share similarities with stock options, but there are unique features and differences that necessitate specialized pricing models. This comprehensive exploration delves into various [warrant pricing](../w/warrant_pricing.md) models, offering insight into their theoretical foundation, practical applications, and the underlying mathematics.
 

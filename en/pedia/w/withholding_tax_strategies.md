@@ -1,4 +1,4 @@
-# Withholding Tax Strategies in Algorithmic Trading
+# Withholding Tax Strategies
 
 In the complex world of [algorithmic trading](../a/algorithmic_trading.md), managing tax obligations can be as crucial as developing profitable [trading algorithms](../t/trading_algorithms.md). One key aspect of taxation that traders need to be aware of is the concept of withholding tax. Withholding tax strategies are important for reducing tax liabilities, ensuring compliance with tax regulations, and maximizing net returns. This document will delve deep into the strategies and considerations for dealing with withholding taxes in [algorithmic trading](../a/algorithmic_trading.md).
 

@@ -1,4 +1,4 @@
-# Weighted Regression in Algorithmic Trading
+# Weighted Regression
 
 ## Introduction
 Weighted Regression, a statistical method widely deployed in [algorithmic trading](../a/algorithmic_trading.md), is a pivotal technique used to handle various types of data anomalies, heteroscedasticity, and to refine model accuracy. Unlike ordinary least squares (OLS) regression, which treats all data points equally, weighted regression assigns different weights to data points based on their importance or reliability. This potency of focusing on more critical data points makes weighted regression an invaluable tool in the development of sophisticated [trading algorithms](../t/trading_algorithms.md).

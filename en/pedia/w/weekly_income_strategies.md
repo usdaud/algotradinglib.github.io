@@ -1,4 +1,4 @@
-# Weekly Income Strategies in Algorithmic Trading
+# Weekly Income Strategies
 
 [Algorithmic trading](../a/algorithmic_trading.md), also referred to as algo trading or black-box trading, involves using computer software to execute trades based on predefined criteria. These criteria can be statistical models, [technical indicators](../t/technical_indicators.md), or even complex machine learning algorithms. Weekly income strategies in [algorithmic trading](../a/algorithmic_trading.md) focus on generating consistent returns over weekly periods. This detailed analysis explores various strategies and methods employed, key concepts, popular tools, [risk management](../r/risk_management.md) techniques, and case studies related to weekly income strategies in [algorithmic trading](../a/algorithmic_trading.md).
 

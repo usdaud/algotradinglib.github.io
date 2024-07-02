@@ -1,4 +1,4 @@
-# **Window Analysis in Trading**
+# Window Analysis
 
 Window analysis in trading refers to the examination of market data within specific time frames or "windows" to make informed trading decisions. This approach is widely used in [algorithmic trading](../a/algorithmic_trading.md) to analyze trends, identify patterns, and predict future price movements. The window analysis technique involves breaking down the trading data into smaller segments, making it easier to understand and analyze trends more effectively.
 

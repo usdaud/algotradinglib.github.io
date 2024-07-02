@@ -1,4 +1,4 @@
-# X-Y Chart Interpretation in Algorithmic Trading
+# X-Y Chart Interpretation
 
 In the realm of [algorithmic trading](../a/algorithmic_trading.md), [data visualization](../d/data_visualization.md) is crucial for making informed decisions. One of the most fundamental tools in this process is the X-Y chart, commonly known as the scatter plot. This chart helps traders visualize relationships between two variables, identifying trends, correlations, and outliers that might not be immediately apparent from raw data alone. 
 

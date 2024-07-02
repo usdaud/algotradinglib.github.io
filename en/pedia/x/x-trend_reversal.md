@@ -1,4 +1,4 @@
-### X-Trend Reversal: A Deep Dive into Algorithmic Trading Strategies
+# X-Trend Reversal
 
 [Algorithmic trading](../a/algorithmic_trading.md), often referred to as "algo-trading," has transformed the landscape of financial markets. One advanced concept within this domain is the X-[Trend Reversal](../t/trend_reversal.md) strategy. This method focuses on identifying and capitalizing on points where an asset's price trend changes direction. This comprehensive guide explores the mechanics, mathematics, and practical applications of the X-[Trend Reversal](../t/trend_reversal.md) in algo-trading.
 

@@ -1,4 +1,4 @@
-## X-Speculative Trades
+# X-Speculative Trades
 
 **X-Speculative Trades** represent a unique approach within the domain of [algorithmic trading](../a/algorithmic_trading.md), focusing on exploiting short-term movements in the financial markets through the use of sophisticated mathematical models and computer algorithms. This method is especially prevalent among hedge funds, investment banks, and [proprietary trading](../p/proprietary_trading.md) firms that seek to outperform traditional investment strategies by leveraging advanced technology and quantitative techniques.
 

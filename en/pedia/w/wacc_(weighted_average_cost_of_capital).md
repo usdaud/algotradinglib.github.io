@@ -1,4 +1,4 @@
-# **Weighted Average Cost of Capital (WACC)**
+# Weighted Average Cost of Capital (WACC)
 
 Weighted Average Cost of Capital (WACC) is a critical financial metric that represents a firm's overall cost of capital from all sources, including equity and debt. It is a pivotal concept in finance because it serves as the discount rate for a firm's future cash flows and is essential in investment decision-making, corporate finance, and valuation processes. By calculating WACC, companies can determine the minimum return they must achieve to satisfy shareholders, debt holders, and other capital providers. 
 

@@ -1,4 +1,4 @@
-## Whipsaw Patterns Identification
+# Whipsaw Patterns Identification
 
 In the realm of [algorithmic trading](../a/algorithmic_trading.md), identifying and responding to [whipsaw patterns](../w/whipsaw_patterns.md) is crucial for maintaining profitable [trading strategies](../t/trading_strategies.md). A whipsaw pattern refers to a market condition where a security's price exhibits a sudden change—often in contrasting directions—within a short period of time. This volatility can lead to substantial losses if not properly managed or identified early.
 

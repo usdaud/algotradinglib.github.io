@@ -1,4 +1,4 @@
-# X-Volume Analysis Techniques in Algo Trading
+# X-Volume Analysis Techniques
 
 X-[Volume Analysis](../v/volume_analysis.md) is an advanced technique used in [algorithmic trading](../a/algorithmic_trading.md) to analyze and interpret the volume data associated with trading activities. Volume is one of the fundamental aspects of the market that reflects the number of shares or contracts traded in a security or market during a given period. Understanding [volume patterns](../v/volume_patterns.md) can offer insights into market sentiment, liquidity, and price movements. This comprehensive discussion on X-[Volume Analysis](../v/volume_analysis.md) Techniques will cover sophisticated methods and tools used by traders and institutions to make informed trading decisions.
 

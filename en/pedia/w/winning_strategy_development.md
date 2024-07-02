@@ -1,4 +1,4 @@
-# Winning Strategy Development in Algorithmic Trading
+# Winning Strategy Development
 
 [Algorithmic trading](../a/algorithmic_trading.md), often known as algo-trading, is the use of computer algorithms to execute [trading strategies](../t/trading_strategies.md) at speeds and frequencies that humans cannot match. The primary motive behind [algorithmic trading](../a/algorithmic_trading.md) is to make trading more systematic, by removing human emotions and biases while maximizing efficiency and profitability. Developing a winning strategy in this space is complex, and requires multidisciplinary knowledge in finance, mathematics, computer science, and data analysis. 
 

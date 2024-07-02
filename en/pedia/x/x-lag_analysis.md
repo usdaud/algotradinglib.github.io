@@ -1,4 +1,4 @@
-# X-Lag Analysis in Algorithmic Trading
+# X-Lag Analysis
 
 In the realm of [algorithmic trading](../a/algorithmic_trading.md), X-Lag Analysis stands as an innovative and sophisticated method for predicting future price movements by analyzing the time-lags in the impact of various indicators and signals. This technique enables traders to fine-tune their strategies by understanding the temporal relationship between different variables and how they affect the market over time.
 

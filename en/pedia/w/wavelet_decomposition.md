@@ -1,4 +1,4 @@
-# Wavelet Decomposition in Algorithmic Trading
+# Wavelet Decomposition
 
 ## Introduction
 

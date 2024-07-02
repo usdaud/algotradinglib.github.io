@@ -1,4 +1,4 @@
-# **X-Patterns in Trading**
+# X-Patterns
 
 X-Patterns are a type of [technical analysis](../t/technical_analysis.md) tool used in financial markets to help predict future price movements based on historical data. These patterns belong to a broader category of [chart patterns](../c/chart_patterns.md), which are formations created by the price movements of a security on a chart. X-Patterns are significant for traders who use [algorithmic trading](../a/algorithmic_trading.md) strategies because they help in identifying potential reversal or continuation signals. In this article, we will delve into the various types of X-Patterns, their significance, how to identify them, and how they can be incorporated into [algorithmic trading](../a/algorithmic_trading.md) strategies.
 

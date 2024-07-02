@@ -1,4 +1,6 @@
-# The Williams %R Indicator, also known as Williams Percent Range or simply %R, is a momentum indicator that measures overbought and oversold levels in a financial market. It was developed by the famous technical analyst Larry Williams. The indicator oscillates between 0 and -100 and is designed to identify potential reversal points, helping traders to make buy and sell decisions. Here is an extensive examination of the Williams %R Indicator:
+# Williams %R Indicator
+
+The Williams %R Indicator, also known as Williams Percent Range or simply %R, is a momentum indicator that measures overbought and oversold levels in a financial market. It was developed by the famous technical analyst Larry Williams. The indicator oscillates between 0 and -100 and is designed to identify potential reversal points, helping traders to make buy and sell decisions. Here is an extensive examination of the Williams %R Indicator:
 
 ### Definition and Calculation
 The [Williams %R](../w/williams_%r.md) Indicator is calculated using the following formula:

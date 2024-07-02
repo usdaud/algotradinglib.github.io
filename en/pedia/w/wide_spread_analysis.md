@@ -1,4 +1,4 @@
-# Wide Spread Analysis in Algorithmic Trading
+# Wide Spread Analysis
 
 Wide [spread analysis](../s/spread_analysis.md) is a critical concept in [algorithmic trading](../a/algorithmic_trading.md) that refers to the study of bid-ask spreads in financial markets. The [bid-ask spread](../b/bid-ask_spread.md) is the difference between the highest price a buyer is willing to pay for an asset (the bid) and the lowest price a seller is willing to accept (the ask). Wide spreads can have significant implications for traders, as they affect the cost of executing trades and the overall market liquidity. This analysis is essential for developing accurate [trading strategies](../t/trading_strategies.md), optimizing order execution, and enhancing the overall profitability of trading activities.
 
