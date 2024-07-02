@@ -1,4 +1,4 @@
-## Leverage Analysis in Algorithmic Trading
+# Leverage Analysis
 
 Leverage refers to the use of borrowed capital or financial [derivatives](../d/derivatives.md) to increase the potential return of an investment. It allows traders to control a larger position than they could with their own capital alone. Leverage is a crucial concept in [algorithmic trading](../a/algorithmic_trading.md), as it significantly affects [risk management](../r/risk_management.md) and returns.
 

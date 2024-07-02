@@ -1,4 +1,4 @@
-# Kurtosis Risk in Algorithmic Trading
+# Kurtosis Risk
 
 Kurtosis risk is a term used in statistics and finance to describe the risk associated with the presence of fat tails in the distribution of returns. Unlike other statistical measures that assume a normal distribution, kurtosis provides insight into the extremities of the actual distribution. In the world of [algorithmic trading](../a/algorithmic_trading.md), where strategies are often built based on assumptions about return distributions, neglecting kurtosis can lead to underestimating risks and potential losses.
 

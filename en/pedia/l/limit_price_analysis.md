@@ -1,4 +1,4 @@
-## Limit Price Analysis in Algorithmic Trading
+# Limit Price Analysis
 
 ### What is Limit Price?
 

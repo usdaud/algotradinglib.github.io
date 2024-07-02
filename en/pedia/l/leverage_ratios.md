@@ -1,4 +1,4 @@
-# **Leverage Ratios in Algorithmic Trading**
+# Leverage Ratios
 
 Leverage ratios are fundamental metrics used in financial analysis, particularly in [algorithmic trading](../a/algorithmic_trading.md), to assess the level of debt undertaken by a firm relative to its assets or equity. Traders and financial analysts examine leverage ratios to understand a company's financial structure, risk, and potential return on investments. Given the fast-paced and automated nature of [algorithmic trading](../a/algorithmic_trading.md), leverage ratios play a critical role in decision-making processes, enabling traders to evaluate the viability and risk associated with various [trading strategies](../t/trading_strategies.md). This detailed examination will cover the primary types of leverage ratios, their significance, and their application within the scope of [algorithmic trading](../a/algorithmic_trading.md).
 

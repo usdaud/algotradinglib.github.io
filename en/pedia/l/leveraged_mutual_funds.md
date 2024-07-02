@@ -1,4 +1,4 @@
-# **Leveraged Mutual Funds**
+# Leveraged Mutual Funds
 
 Leveraged mutual funds are a type of investment vehicle that aims to deliver multiples of the performance of the index or benchmark they track. They are designed to provide enhanced returns by using financial [derivatives](../d/derivatives.md) and debt to amplify the daily gains or losses of the underlying index. Unlike traditional mutual funds that aim for moderate and steady growth over a long period, leveraged mutual funds seek to magnify the short-term movements of index prices, making them suitable for traders and investors with a higher risk tolerance and a short-term investment horizon.
 

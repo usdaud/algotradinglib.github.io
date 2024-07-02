@@ -1,4 +1,4 @@
-## Learning Curves in Trading
+# Learning Curves
 
 In the field of [algorithmic trading](../a/algorithmic_trading.md), learning curves represent the process of gradually improving the performance of [trading algorithms](../t/trading_algorithms.md) through experience and the accumulation of data over time. These curves are essential in understanding how quickly a trading algorithm can adapt to new market conditions and optimize its strategies. Learning curves are not only a conceptual framework for traders and data scientists but also a critical analysis tool for assessing the effectiveness of various [trading models](../t/trading_models.md).
 

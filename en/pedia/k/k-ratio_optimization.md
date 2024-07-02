@@ -1,4 +1,4 @@
-## K-Ratio Optimization in Algorithmic Trading
+# K-Ratio Optimization
 
 ### Introduction 
 [Algorithmic trading](../a/algorithmic_trading.md), or algo trading, involves using computer programs to trade financial securities based on pre-defined criteria. One of the key challenges in algo trading is to develop strategies that are not only profitable but also consistently so over time. One metric that is particularly useful in evaluating and optimizing [trading strategies](../t/trading_strategies.md) is the K-Ratio. The K-Ratio considers both the growth of an equity curve and its consistency, making it a comprehensive tool for traders and quantitative analysts alike.

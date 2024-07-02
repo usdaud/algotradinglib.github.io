@@ -1,4 +1,4 @@
-## Kurtosis and Skewness Analysis in Algorithmic Trading
+# Kurtosis and Skewness Analysis
 
 In the realm of [algorithmic trading](../a/algorithmic_trading.md), [risk management](../r/risk_management.md) and statistical analysis play vital roles in formulating successful strategies. Kurtosis and skewness are critical statistical metrics that traders use to understand the behavior and distribution of asset returns. These metrics can provide deeper insights into [market anomalies](../m/market_anomalies.md), guiding the development of more robust [trading algorithms](../t/trading_algorithms.md).
 

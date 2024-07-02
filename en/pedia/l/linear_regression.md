@@ -1,4 +1,4 @@
-## Linear Regression in Algorithmic Trading
+# Linear Regression
 
 Linear Regression is a statistical method that examines the linear relationship between two or more variables. It is extensively employed in [algorithmic trading](../a/algorithmic_trading.md) to predict asset prices, identify trends, and make informed trading decisions. In this context, linear regression serves as a cornerstone technique for traders and quants who aim to develop systematic strategies based on historical data.
 

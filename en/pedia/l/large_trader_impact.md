@@ -1,4 +1,4 @@
-# Large Trader Impact in Algorithmic Trading
+# Large Trader Impact
 
 In the world of [algorithmic trading](../a/algorithmic_trading.md), the presence and actions of large traders can have a significant impact on market dynamics. This document delves into a variety of aspects related to the influence of large traders, including their strategies, the market impact, how other traders adapt, and implications for [market regulation](../m/market_regulation.md) and technology.
 

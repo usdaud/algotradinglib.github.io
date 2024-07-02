@@ -1,4 +1,4 @@
-# Key Performance Indicators (KPIs) in Trading
+# Key Performance Indicators (KPIs)
 
 Key [Performance Indicators](../p/performance_indicators.md) (KPIs) are essential metrics used to evaluate the performance of [trading strategies](../t/trading_strategies.md), systems, and financial investments. In the context of trading, KPIs provide an objective measure to track efficiency, performance, and profitability, and they help traders make informed decisions. This detailed document outlines various KPIs used in trading, their importance, and how to calculate them.
 

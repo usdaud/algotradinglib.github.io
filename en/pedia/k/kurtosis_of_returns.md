@@ -1,4 +1,4 @@
-# **Kurtosis of Returns**
+# Kurtosis of Returns
 
 In the realm of financial markets and trading, understanding the distribution of returns is fundamental to assessing risk and strategizing investments. One key statistical measure used in this domain is kurtosis, specifically the kurtosis of returns. This measure provides insight into the tails of the return distribution, indicating the likelihood of extreme outcomes relative to a normal distribution. Kurtosis is particularly important in [algorithmic trading](../a/algorithmic_trading.md) where models heavily depend on accurate statistical assumptions of return distributions.
 

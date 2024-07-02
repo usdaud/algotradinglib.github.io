@@ -1,4 +1,4 @@
-# Leading Indicators in Algorithmic Trading
+# Leading Indicators
 
 In the field of [algorithmic trading](../a/algorithmic_trading.md), leading indicators are crucial tools for predicting future price movements and trends in the financial markets. These indicators provide signals before the actual movement happens, allowing traders to make informed decisions and potentially achieve higher profits. This section delves into the various aspects of leading indicators and their applications in [algorithmic trading](../a/algorithmic_trading.md).
 

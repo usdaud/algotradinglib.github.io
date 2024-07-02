@@ -1,5 +1,4 @@
-# Kahneman-Tversky Heuristics in Trading
-======================================
+# Kahneman-Tversky Heuristics
 
 ## Introduction to Kahneman-Tversky Heuristics
 

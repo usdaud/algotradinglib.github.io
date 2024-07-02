@@ -1,4 +1,4 @@
-# Layered Investment Strategies in Algorithmic Trading
+# Layered Investment Strategies
 
 Layered investment strategies represent a sophisticated approach to managing and optimizing a portfolio. These strategies involve using multiple layers or tiers of decision-making processes to enhance returns, reduce risks, and meet investment goals. In [algorithmic trading](../a/algorithmic_trading.md), leveraging these strategies is essential for creating robust, dynamic, and adaptive [trading systems](../t/trading_systems.md). Below, we'll delve into the various aspects and components of layered investment strategies and how they apply to [algorithmic trading](../a/algorithmic_trading.md).
 

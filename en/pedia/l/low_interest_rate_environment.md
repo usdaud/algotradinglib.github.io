@@ -1,4 +1,4 @@
-## Low Interest Rate Environment
+# Low Interest Rate Environment
 
 ### Introduction
 A low interest rate environment (LIRE) refers to a period when central banks maintain lower-than-average interest rates. This financial landscape significantly influences economies, investment strategies, and the behavior of various financial market participants, particularly in the realm of [algorithmic trading](../a/algorithmic_trading.md). In a LIRE, understanding the macroeconomic factors, investment implications, and specific [trading strategies](../t/trading_strategies.md) becomes essential for traders and investors to navigate the financial markets effectively.

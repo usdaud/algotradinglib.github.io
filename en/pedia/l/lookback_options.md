@@ -1,4 +1,4 @@
-# **Lookback Options**
+# Lookback Options
 
 Lookback options are a type of [exotic options](../e/exotic_options.md) in financial markets that allow the holder to "look back" over time to determine the optimal exercise price. This unique feature distinguishes lookback options from standard options, where the exercise price is predetermined at the start of the contract. Because of their flexibility and potential for providing significant advantages to the holder, lookback options are considered more complex and thus more expensive than their vanilla counterparts.
 

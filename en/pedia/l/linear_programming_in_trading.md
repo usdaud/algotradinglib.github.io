@@ -1,4 +1,4 @@
-# Linear Programming in Trading
+# Linear Programming
 
 Linear programming (LP) is a mathematical approach utilized for optimization problems where the goal is to maximize or minimize a linear objective function subject to a set of linear constraints. Developed by George Dantzig in 1947, LP has since found widespread applications across various fields, including trading and finance. This article delves into the application of linear programming in trading, exploring its fundamentals, methodologies, and significant utilizations.
 

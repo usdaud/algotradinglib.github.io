@@ -1,4 +1,4 @@
-## Loss Carryforward
+# Loss Carryforward
 
 Loss carryforward, also known as tax loss carryforward or net operating loss (NOL) carryforward, is a provision within tax regulations that allows businesses and individuals to carry over a tax loss to future years in order to offset taxable income and reduce their tax liability. This mechanism can be particularly beneficial during periods of financial difficulty, as it helps stabilize taxable income across different fiscal periods. Here's a detailed exploration of loss carryforward:
 

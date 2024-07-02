@@ -1,4 +1,4 @@
-## Understanding Limit Order Execution in Algorithmic Trading
+# Limit Order Execution
 
 Limit order execution is a fundamental aspect of trading in financial markets. Unlike market orders, which are executed immediately at the best available current price, limit orders allow traders to set a specific price at which they wish to execute a trade. Limit orders provide control over the entry and exit points of a trade, which is crucial in maximizing profitability and managing risk in [algorithmic trading](../a/algorithmic_trading.md). This document explores the intricate details of limit order execution, its importance, and how it integrates with [algorithmic trading](../a/algorithmic_trading.md) strategies.
 

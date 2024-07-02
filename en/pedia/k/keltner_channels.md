@@ -1,4 +1,4 @@
-## Keltner Channels
+# Keltner Channels
 
 ### Overview
 

@@ -1,4 +1,4 @@
-# Kalman Gain in Trading
+# Kalman Gain
 
 ## Introduction to Kalman Filter
 The Kalman Filter is an algorithm that uses a series of measurements observed over time, containing statistical noise and other inaccuracies, and produces estimates of unknown variables that tend to be more accurate than those based on a single measurement alone. The algorithm works in a two-step process: **predict** and **update**.

@@ -1,4 +1,4 @@
-# Long Gamma Exposure in Algorithmic Trading
+# Long Gamma Exposure
 
 ## Introduction to Gamma in Options Trading
 

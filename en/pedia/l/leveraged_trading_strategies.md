@@ -1,4 +1,4 @@
-## Leveraged Trading Strategies
+# Leveraged Trading Strategies
 
 Leveraged trading, also known as [margin trading](../m/margin_trading.md), is a popular method in financial markets that allows traders to amplify significant positions by using borrowed funds. This strategy can enhance returns on successful trades but also magnifies potential losses, demanding careful management and risk assessment. Leveraged trading is particularly prevalent in markets such as stocks, forex, and cryptocurrencies.
 

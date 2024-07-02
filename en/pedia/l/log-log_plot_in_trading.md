@@ -1,4 +1,4 @@
-# Log-Log Plot in Trading
+# Log-Log Plot
 
 A log-log plot is a two-dimensional graph of numerical data that uses logarithmic scales on both the horizontal and vertical axes. Log-log plots are especially useful for examining data that spans several orders of magnitude and for identifying power laws, which are relationships where one quantity varies as a power of another. In the trading world, log-log plots are utilized for various analyses, including the study of price movements, returns distributions, and market frictions. This detailed examination provides comprehensive insights into the topic of log-log plotting in trading and its practical applications.
 

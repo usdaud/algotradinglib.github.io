@@ -1,4 +1,4 @@
-# Knowledge-Driven Trading Systems in Algorithmic Trading
+# Knowledge-Driven Trading Systems
 
 In the fast-paced world of financial markets, the ability to make informed and timely trading decisions is crucial. Knowledge-driven [trading systems](../t/trading_systems.md) are [algorithmic trading](../a/algorithmic_trading.md) frameworks that leverage advanced data analytics, artificial intelligence, and domain expertise to execute trades with precision. These systems incorporate diverse sources of information, ranging from historical price data to news [sentiment analysis](../s/sentiment_analysis.md), to craft robust [trading strategies](../t/trading_strategies.md). This document explores the foundational concepts, technologies, and applications of knowledge-driven [trading systems](../t/trading_systems.md) in algo trading.
 

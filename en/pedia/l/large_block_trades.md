@@ -1,4 +1,4 @@
-# Large Block Trades in Algorithmic Trading
+# Large Block Trades
 
 Large block trades are an essential concept in financial markets and particularly relevant in the context of [algorithmic trading](../a/algorithmic_trading.md). A block trade refers to the purchase or sale of a large quantity of securities, typically involving a substantial dollar amount. Due to their size, these trades can significantly impact the market price of a security, making their execution more complicated compared to smaller trades. This document delves into the intricacies of large block trades, exploring how they are executed using [algorithmic trading](../a/algorithmic_trading.md), addressing the challenges, and elaborating on the strategies involved.
 
