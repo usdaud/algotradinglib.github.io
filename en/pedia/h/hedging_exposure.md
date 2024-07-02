@@ -1,4 +1,4 @@
-# Hedging Exposure in Algorithmic Trading
+# Hedging Exposure
 
 Hedging is a [risk management](../r/risk_management.md) strategy employed to offset potential losses in investments by taking an opposite position in a related asset. In financial markets, exposure refers to the amount one stands to lose in an investment. Hedging exposure in the context of [algorithmic trading](../a/algorithmic_trading.md) involves using automated [trading strategies](../t/trading_strategies.md) to manage risk and protect portfolios from adverse price movements. Below, we’ll explore the fundamental concepts, tools, and strategies used to hedge exposure, particularly through algorithmic means.
 

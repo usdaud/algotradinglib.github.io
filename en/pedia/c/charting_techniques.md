@@ -1,4 +1,4 @@
-# Charting Techniques in Algorithmic Trading
+# Charting Techniques
 
 Charting techniques are pivotal in the field of [algorithmic trading](../a/algorithmic_trading.md). They provide traders with visual tools to analyze historical data, identify market trends, and make informed trading decisions. The use of historical price data, along with mathematical indicators, helps in predicting future price movements. This document delves into several popular charting techniques used in [algorithmic trading](../a/algorithmic_trading.md), providing detailed explanations for each.
 

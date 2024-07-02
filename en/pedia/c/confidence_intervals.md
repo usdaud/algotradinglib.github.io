@@ -1,4 +1,4 @@
-# Confidence Intervals in Algorithmic Trading
+# Confidence Intervals
 
 In [algorithmic trading](../a/algorithmic_trading.md), confidence intervals are a crucial statistical concept that can help traders make more informed decisions, manage risks, and evaluate the performance of their [trading algorithms](../t/trading_algorithms.md). This comprehensive guide covers what confidence intervals are, how they are used in [algorithmic trading](../a/algorithmic_trading.md), their advantages and disadvantages, and some practical examples.
 

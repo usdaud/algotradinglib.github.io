@@ -1,4 +1,4 @@
-# Cost Averaging Strategies in Algorithmic Trading
+# Cost Averaging Strategies
 
 ## Introduction to Cost Averaging
 

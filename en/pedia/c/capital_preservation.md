@@ -1,4 +1,4 @@
-# **Capital Preservation in Algorithmic Trading**
+# Capital Preservation
 
 Capital preservation is a critical objective for traders and investors alike, aiming to safeguard the principal amount of an investment against potential losses. In [algorithmic trading](../a/algorithmic_trading.md), where decisions are executed based on pre-set rules and algorithms, capital preservation strategies become even more essential. This detailed examination will shed light on capital preservation in the context of [algorithmic trading](../a/algorithmic_trading.md), its importance, the tactics employed, and notable companies and tools offering solutions and services related to capital preservation.
 

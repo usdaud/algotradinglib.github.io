@@ -1,4 +1,4 @@
-## Holding Period Strategies in Algorithmic Trading
+# Holding Period Strategies
 
 ### Introduction
 Holding period strategies are a cornerstone of [algorithmic trading](../a/algorithmic_trading.md), focusing on the duration for which assets are held in a portfolio before being sold or traded. These strategies can significantly impact the profitability and risk profile of trades. In the world of high-frequency trading (HFT), holding periods may be measured in milliseconds, while in more traditional approaches, they could span days, months, or even years. This document delves into various types of holding period strategies, their applications, and real-world examples from leading companies in the field.

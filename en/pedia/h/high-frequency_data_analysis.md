@@ -1,4 +1,4 @@
-# High-Frequency Data Analysis in Algorithmic Trading
+# High-Frequency Data Analysis
 
 High-Frequency Data Analysis (HFDA) is a critical component of [algorithmic trading](../a/algorithmic_trading.md) that involves processing and analyzing vast amounts of financial market data in extremely short timeframes. This practice facilitates the rapid execution of trades and the development of advanced [trading strategies](../t/trading_strategies.md). With the advent of technology and the proliferation of trading platforms, high-frequency data analysis has become a focal point for quants, traders, and financial institutions aiming to gain an edge in highly competitive markets. This document comprehensively explores the subject of High-Frequency Data Analysis in the context of [algorithmic trading](../a/algorithmic_trading.md).
 

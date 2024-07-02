@@ -1,4 +1,4 @@
-# Holdings Turnover in Algorithmic Trading
+# Holdings Turnover
 
 The term "Holdings Turnover" is a critical concept in the world of [algorithmic trading](../a/algorithmic_trading.md) and [portfolio management](../p/portfolio_management.md). It refers to the rate at which securities are bought and sold within a portfolio over a particular period, typically expressed as a percentage. High holdings turnover indicates a more active trading strategy, while lower turnover suggests a more passive approach.
 

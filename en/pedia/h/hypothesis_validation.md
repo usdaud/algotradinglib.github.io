@@ -1,4 +1,4 @@
-# Hypothesis Validation in Algorithmic Trading
+# Hypothesis Validation
 
 [Algorithmic trading](../a/algorithmic_trading.md), or algo-trading, uses computer algorithms to execute [trading strategies](../t/trading_strategies.md). One of the critical steps in developing a successful [algorithmic trading](../a/algorithmic_trading.md) strategy is hypothesis validation. This process involves testing the core assumptions of a trading strategy to ensure its effectiveness and reliability. Hypothesis validation is integral as it helps traders and developers confirm that their strategies can withstand real-market conditions and yield profits.
 

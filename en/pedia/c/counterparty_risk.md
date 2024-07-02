@@ -1,4 +1,4 @@
-# Counterparty Risk in Algorithmic Trading
+# Counterparty Risk
 
 Counterparty risk, also known as default risk or counterparty credit risk, refers to the possibility that the counterparty to a financial transaction will fail to fulfill their contractual obligation. This form of risk is particularly pertinent in the sphere of [algorithmic trading](../a/algorithmic_trading.md), where transactions are executed at high speeds and high volumes, often across different jurisdictions and with a wide array of financial instruments.
 

@@ -1,4 +1,4 @@
-# Heatmaps in Trading
+# Heatmaps
 
 Heatmaps are advanced visualization tools used in trading to represent data graphically. Unlike traditional charts, heatmaps use color variations to indicate the intensities or frequency of data points. This can provide traders with a more intuitive understanding of market movements and underlying data trends.
 

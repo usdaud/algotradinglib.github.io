@@ -1,4 +1,4 @@
-# Cumulative Distribution Function in Trading
+# Cumulative Distribution Function
 
 The Cumulative Distribution Function (CDF) is a statistical tool widely used in trading and [quantitative finance](../q/quantitative_finance.md) for analyzing the probability distribution of a random variable. In the context of trading, the CDF provides traders and analysts with critical insights into market data, helping them to make informed decisions and to evaluate the risk and return of various [trading strategies](../t/trading_strategies.md).
 

@@ -1,4 +1,4 @@
-# Capital Allocation in Algorithmic Trading
+# Capital Allocation
 
 Capital allocation refers to the process by which an organization decides how to distribute its financial resources across various investments, projects, or business units. In the context of [algorithmic trading](../a/algorithmic_trading.md), capital allocation is the process of distributing trading capital across different strategies, asset classes, and positions to optimize the overall performance and manage risk effectively. Efficient capital allocation is crucial for maximizing returns and ensuring the robustness of an [algorithmic trading](../a/algorithmic_trading.md) system.
 

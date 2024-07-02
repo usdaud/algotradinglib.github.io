@@ -1,4 +1,4 @@
-# Heatmap Visualization in Algorithmic Trading
+# Heatmap Visualization
 
 Heatmap visualization is a powerful tool used in various fields for data analysis and representation. In [algorithmic trading](../a/algorithmic_trading.md), it is particularly useful for visualizing financial data and extracting crucial insights from large datasets. This document aims to provide a comprehensive overview of heatmap visualization, its application in [algorithmic trading](../a/algorithmic_trading.md), and how it can be effectively utilized to enhance [trading strategies](../t/trading_strategies.md).
 

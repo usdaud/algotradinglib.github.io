@@ -1,4 +1,6 @@
-# Currency trading, also known as forex trading or FX trading, involves the buying and selling of currencies on the global foreign exchange market with the aim of making a profit. Traders, institutions, governments, and other entities participate in this marketplace to exchange currencies needed for business transactions, travel, or speculative purposes. Currency trading strategies are developed to guide traders in making informed decisions regarding when to enter and exit trades, which currency pairs to trade, and how to manage risk. This comprehensive guide explores various currency trading strategies used by forex traders.
+# Currency Trading
+
+Currency trading, also known as forex trading or FX trading, involves the buying and selling of currencies on the global foreign exchange market with the aim of making a profit. Traders, institutions, governments, and other entities participate in this marketplace to exchange currencies needed for business transactions, travel, or speculative purposes. Currency trading strategies are developed to guide traders in making informed decisions regarding when to enter and exit trades, which currency pairs to trade, and how to manage risk. This comprehensive guide explores various currency trading strategies used by forex traders.
 
 ## Fundamental Analysis
 

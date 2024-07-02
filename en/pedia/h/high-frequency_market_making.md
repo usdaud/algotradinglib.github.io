@@ -1,4 +1,4 @@
-## High-Frequency Market Making
+# High-Frequency Market Making
 
 High-Frequency Market Making (HFMM) is an advanced trading strategy that leverages high-speed algorithms to provide liquidity to financial markets. This practice involves placing a large number of small, buy-and-sell limit orders to facilitate trading for other market participants. HFMM is a sub-field of High-Frequency Trading (HFT), and its primary role is to capture the [bid-ask spread](../b/bid-ask_spread.md), earning profits through rapid trading cycles.
 

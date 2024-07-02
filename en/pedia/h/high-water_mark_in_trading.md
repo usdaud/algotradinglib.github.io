@@ -1,4 +1,4 @@
-## High-Water Mark in Trading
+# High-Water Mark
 
 The concept of a High-Water Mark (HWM) is pivotal in the realm of trading, particularly in hedge funds, private equity funds, and other investment vehicles where performance incentives are a key component. At its core, a High-Water Mark ensures that fund managers are only compensated for performance fees once the fund's value surpasses its previous peak. This mechanism acts as a performance benchmark, safeguarding investors from paying fees on the same gains more than once.
 

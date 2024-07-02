@@ -1,4 +1,4 @@
-## Hurst Exponent
+# Hurst Exponent
 
 The Hurst exponent, denoted as H, is a measure used to classify a time series as either a random walk, a trend-reinforcing series, or an anti-persistent series. It was originally introduced by Harold Edwin Hurst, a British hydrologist, in his study of the long-term storage capacity of reservoirs.
 

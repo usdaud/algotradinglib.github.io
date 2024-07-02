@@ -1,4 +1,4 @@
-# **High Probability Trading Strategies**
+# High Probability Trading Strategies
 
 **Introduction**
 

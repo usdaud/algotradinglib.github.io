@@ -1,4 +1,4 @@
-# **Head Fake in Trading**
+# Head Fake
 
 In trading, particularly in the context of stock and cryptocurrency markets, a "head fake" refers to a situation where the price of a trading instrument makes a move in one direction, convincing traders that it will continue moving in that direction, and then reverses course significantly. This phenomenon can trap traders on the wrong side of the market, leading to potential losses. Head fakes are often used in algorithms, market manipulation tactics, or might occur naturally in highly volatile markets.
 

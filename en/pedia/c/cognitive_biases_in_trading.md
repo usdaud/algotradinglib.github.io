@@ -1,4 +1,4 @@
-# Cognitive Biases in Trading
+# Cognitive Biases
 
 Cognitive biases are systematic patterns of deviation from norm or rationality in judgment, which often occur due to the way our brain processes information. In the field of trading, cognitive biases can significantly affect decision-making processes, leading to suboptimal results. Understanding these cognitive biases is crucial for traders who aim to minimize errors and improve their [trading performance](../t/trading_performance.md).
 

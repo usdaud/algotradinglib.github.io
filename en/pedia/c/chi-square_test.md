@@ -1,4 +1,4 @@
-# Chi-Square Test in Algorithmic Trading
+# Chi-Square Test
 
 The Chi-Square test is a statistical method widely used to assess the goodness of fit or to test relationships between categorical variables. In the context of [algorithmic trading](../a/algorithmic_trading.md), this test can be employed to evaluate if a particular trading strategy's performance is independent of market conditions or other categorical variables. This document provides a comprehensive exploration of the Chi-Square test, its applications in [algorithmic trading](../a/algorithmic_trading.md), and how you can implement it to enhance [trading strategies](../t/trading_strategies.md).
 

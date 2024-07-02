@@ -1,4 +1,4 @@
-# Curve Fitting in Trading
+# Curve Fitting
 
 Curve fitting is a powerful but often misunderstood concept in [algorithmic trading](../a/algorithmic_trading.md). It involves creating a mathematical model that best fits a series of data points. In the context of trading, these data points are usually historical price data, volume, or other market indicators. The goal is to develop a trading strategy that maximizes predictive performance based on historical data. However, excessive curve fitting can lead to overfitting, where the model becomes too tailored to past data and performs poorly on new, unseen data. In this article, we’ll delve deep into the concept of curve fitting, its applications in trading, the potential pitfalls, and best practices to avoid common mistakes.
 

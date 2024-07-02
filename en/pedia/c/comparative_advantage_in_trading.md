@@ -1,4 +1,4 @@
-# Comparative Advantage in Trading
+# Comparative Advantage
 
 ## Introduction
 
