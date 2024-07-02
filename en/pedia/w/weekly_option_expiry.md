@@ -1,4 +1,4 @@
-# Weekly Option Expiry in Algorithmic Trading
+# Weekly Option Expiry
 
 In the realm of financial markets, options trading provides investors with avenues for hedging, speculation, and income generation. Among the various types of options available, weekly options have gained significant traction, especially within the scope of [algorithmic trading](../a/algorithmic_trading.md). Unlike monthly options, which have a standardized expiration at the end of each month, weekly options expire every Friday. This frequent expiration provides unique opportunities and challenges for traders.
 

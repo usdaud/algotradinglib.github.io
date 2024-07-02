@@ -1,4 +1,4 @@
-### X-Sector Rotation
+# X-Sector Rotation
 
 **X-[Sector Rotation](../s/sector_rotation.md)** is a specialized investment strategy employed predominantly in the field of [algorithmic trading](../a/algorithmic_trading.md). It involves the dynamic allocation of capital among various sectors of the economy to capitalize on the varying performance trends across these sectors over given periods. The concept hinges on the principle that different sectors perform differently under various economic conditions and [market cycles](../m/market_cycles.md).
 

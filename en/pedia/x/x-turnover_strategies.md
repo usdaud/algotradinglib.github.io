@@ -1,4 +1,4 @@
-## X-Turnover Strategies in Algorithmic Trading
+# X-Turnover Strategies
 
 ### Introduction to Algorithmic Trading
 

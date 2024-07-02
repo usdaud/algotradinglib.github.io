@@ -1,4 +1,4 @@
-# **Window Dressing Effects in Algorithmic Trading**
+# Window Dressing Effects
 
 [Window dressing](../w/window_dressing.md) is a term used in the finance and investment industry to describe a strategy employed by fund managers and portfolio managers to improve the appearance of a fund's performance before presenting a report to clients or shareholders. [Window dressing](../w/window_dressing.md) typically occurs at the end of a financial period, such as the end of a quarter, year, or any other reporting period. This practice can have significant effects in the world of [algorithmic trading](../a/algorithmic_trading.md), where decisions are often made by automated systems based on market data and [performance metrics](../p/performance_metrics.md).
 

@@ -1,4 +1,4 @@
-# X-Trade Simulation in Algorithmic Trading
+# X-Trade Simulation
 
 ## Introduction
 

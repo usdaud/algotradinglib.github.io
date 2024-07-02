@@ -1,4 +1,4 @@
-# X-Y Data Plotting in Algorithmic Trading
+# X-Y Data Plotting
 
 X-Y data plotting is a fundamental aspect of [algorithmic trading](../a/algorithmic_trading.md), facilitating the visualization and analysis of relationships between two variables. This process primarily involves creating graphs where data points are plotted on a two-dimensional coordinate system, with one variable on the X-axis (horizontal axis) and the other on the Y-axis (vertical axis).
 

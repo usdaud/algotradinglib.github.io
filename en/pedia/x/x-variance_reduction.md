@@ -1,4 +1,4 @@
-# X-Variance Reduction in Algorithmic Trading
+# X-Variance Reduction
 
 X-[Variance Reduction](../v/variance_reduction.md) (XVR) is a term often used in the context of [algorithmic trading](../a/algorithmic_trading.md) to describe techniques aimed at reducing the variance or volatility of a trading algorithm's [performance metrics](../p/performance_metrics.md). By mitigating the unpredictability inherent in financial markets, traders and quantitative analysts aim to achieve more consistent and reliable returns.
 

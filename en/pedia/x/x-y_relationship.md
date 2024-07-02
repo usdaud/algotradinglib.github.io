@@ -1,4 +1,4 @@
-# Understanding the X-Y Relationship in Algorithmic Trading
+# X-Y Relationship
 
 The X-Y Relationship is a fundamental concept in various fields, including statistical analysis, machine learning, and [algorithmic trading](../a/algorithmic_trading.md). In the context of [algorithmic trading](../a/algorithmic_trading.md), understanding and leveraging the X-Y Relationship is crucial for developing models that can predict financial market movements and optimize [trading strategies](../t/trading_strategies.md). This detailed overview will explore the significance, methods, and applications of the X-Y Relationship in [algorithmic trading](../a/algorithmic_trading.md).
 

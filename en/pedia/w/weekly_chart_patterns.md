@@ -1,4 +1,4 @@
-# Weekly Chart Patterns in Algorithmic Trading
+# Weekly Chart Patterns
 
 [Algorithmic trading](../a/algorithmic_trading.md), commonly known as algo-trading, involves using complex algorithms and software to trade financial assets. One important aspect of successful [algorithmic trading](../a/algorithmic_trading.md) is the application of [technical analysis](../t/technical_analysis.md). Within [technical analysis](../t/technical_analysis.md), [chart patterns](../c/chart_patterns.md) play a pivotal role in predicting future price movements. This article delves into various weekly [chart patterns](../c/chart_patterns.md) that are essential for algorithmic traders.
 

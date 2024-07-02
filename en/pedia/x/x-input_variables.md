@@ -1,4 +1,4 @@
-# X-Input Variables in Algorithmic Trading
+# X-Input Variables
 
 [Algorithmic trading](../a/algorithmic_trading.md) has become a dominant force in financial markets, driven by the use of automated systems to execute trades at speeds and frequencies beyond human capabilities. Central to the design and performance of these systems are X-Input variables, also known as features or predictors, which feed into the machine learning models or [trading algorithms](../t/trading_algorithms.md) to make informed decisions. These variables play a crucial role in determining the success of an [algorithmic trading](../a/algorithmic_trading.md) strategy. Below is an extensive exploration of X-Input variables, their importance, types, and examples of how they are used in practice.
 

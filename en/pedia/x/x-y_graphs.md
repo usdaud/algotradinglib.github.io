@@ -1,4 +1,4 @@
-# X-Y Graphs in Algorithmic Trading
+# X-Y Graphs
 
 X-Y graphs, commonly known as scatter plots or Cartesian coordinate systems, are integral to the field of [algorithmic trading](../a/algorithmic_trading.md). These visual representations on a two-dimensional plane display the relationship between two quantifiable variables. X-Y graphs enable traders and analysts to observe, interpret, and respond to complex financial data trends and correlations.
 

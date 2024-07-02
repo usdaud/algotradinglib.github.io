@@ -1,4 +1,4 @@
-## X-Quant Model Testing in Algorithmic Trading
+# X-Quant Model Testing
 
 ### Introduction
 

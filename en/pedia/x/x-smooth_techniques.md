@@ -1,4 +1,4 @@
-# X-Smooth Techniques in Algorithmic Trading
+# X-Smooth Techniques
 
 In the realm of [algorithmic trading](../a/algorithmic_trading.md), the efficiency and effectiveness of [trading algorithms](../t/trading_algorithms.md) heavily rely on sophisticated mathematical techniques to predict future market behavior. One such advanced technique employed is X-Smooth, a method that ensures smooth and consistent data series. This document delves into the concepts, methodologies, and applications of X-Smooth techniques in [algorithmic trading](../a/algorithmic_trading.md).
 

@@ -1,4 +1,4 @@
-# **Working Capital Turnover**
+# Working Capital Turnover
 
 Working Capital Turnover is a financial metric that quantifies how efficiently a company utilizes its working capital to generate sales. In essence, it is a measure of a company's operational efficiency and short-term financial health. The formula for calculating working capital turnover is:
 

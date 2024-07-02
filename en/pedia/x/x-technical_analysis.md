@@ -1,4 +1,6 @@
-# Technical analysis is a methodology used to evaluate and predict the future price movements of financial securities, such as stocks, currencies, commodities, and cryptocurrencies. Unlike fundamental analysis, which considers the inherent value of a security based on economic and financial factors, technical analysis focuses solely on historical price and volume data. This approach relies on the idea that historical price movements are indicative of future trends and that patterns will repeat over time.
+# X-Technical analysis
+
+Technical analysis is a methodology used to evaluate and predict the future price movements of financial securities, such as stocks, currencies, commodities, and cryptocurrencies. Unlike fundamental analysis, which considers the inherent value of a security based on economic and financial factors, technical analysis focuses solely on historical price and volume data. This approach relies on the idea that historical price movements are indicative of future trends and that patterns will repeat over time.
 
 ## Key Concepts in Technical Analysis
 

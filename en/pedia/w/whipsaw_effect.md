@@ -1,4 +1,4 @@
-# Whipsaw Effect in Algorithmic Trading
+# Whipsaw Effect
 
 The Whipsaw Effect is a phenomenon often encountered in financial trading, particularly in [algorithmic trading](../a/algorithmic_trading.md). It refers to a situation where a security's price is seen to move in one direction but then quickly reverses and moves in the opposite direction. This pattern can be particularly frustrating and confusing for traders, as it can lead to significant losses if trades are made based on the initial price movement.
 

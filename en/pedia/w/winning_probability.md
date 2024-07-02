@@ -1,4 +1,4 @@
-# Winning Probability in Algorithmic Trading
+# Winning Probability
 
 ## Introduction
 In the realm of [algorithmic trading](../a/algorithmic_trading.md), the concept of winning probability plays a crucial role. Winning probability denotes the likelihood of achieving a successful trade based on a pre-defined algorithm or strategy. It is a quantitative measure that helps traders to assess the potential success rate of their [trading strategies](../t/trading_strategies.md) over a given period. This metric is instrumental in the decision-making process, assessing the performance of [trading algorithms](../t/trading_algorithms.md), and optimizing [trading strategies](../t/trading_strategies.md).

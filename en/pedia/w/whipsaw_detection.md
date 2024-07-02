@@ -1,4 +1,4 @@
-# Whipsaw Detection in Algorithmic Trading
+# Whipsaw Detection
 
 Whipsaw detection is a critical aspect of [algorithmic trading](../a/algorithmic_trading.md) whereby algorithms are designed to identify and mitigate the effects of whipsaws on [trading strategies](../t/trading_strategies.md). A whipsaw in financial markets refers to a condition where the price of an asset shows a volatile movement in one direction but then reverses sharply, often causing significant financial losses to traders who entered positions at the extremes. Here, we'll delve into the concepts behind whipsaw events, common indicators to detect them, algorithmic strategies for their detection and mitigation, and prominent challenges faced.
 

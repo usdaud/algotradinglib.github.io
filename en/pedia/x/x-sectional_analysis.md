@@ -1,4 +1,4 @@
-# Cross-Sectional Analysis in Algorithmic Trading
+# X-Sectional Analysis
 
 ## Introduction
 Cross-sectional analysis is a methodology used extensively in finance and investment research to evaluate and compare different companies or assets at a particular point in time. This approach contrasts with time-series analysis, which examines the behavior of a single entity over a specific period. In the context of [algorithmic trading](../a/algorithmic_trading.md), cross-sectional analysis is employed to identify trading opportunities, construct portfolios, and manage risk by leveraging the relative performance and characteristics of various securities.

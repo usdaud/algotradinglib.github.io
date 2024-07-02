@@ -1,4 +1,4 @@
-# X-Pattern Recognition in Algorithmic Trading
+# X-Pattern Recognition
 
 ## Introduction to X-Pattern Recognition
 

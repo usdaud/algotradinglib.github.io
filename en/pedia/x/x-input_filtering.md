@@ -1,4 +1,4 @@
-# X-Input Filtering in Algorithmic Trading
+# X-Input Filtering
 
 [Algorithmic trading](../a/algorithmic_trading.md), also known as algo trading, uses computer algorithms to automate trading decisions and execute orders rapidly and efficiently. One of the critical components in making these algorithms effective is the use of various data inputs. X-Input Filtering refers to a process used to refine these inputs to enhance the precision of [trading algorithms](../t/trading_algorithms.md).
 

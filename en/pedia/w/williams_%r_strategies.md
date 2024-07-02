@@ -1,4 +1,4 @@
-### Williams %R Strategies
+# Williams %R Strategies
 
 [Williams %R](../w/williams_%r.md), also known as the [Williams Percent Range](../w/williams_percent_range.md), is a momentum-based [technical analysis](../t/technical_analysis.md) oscillator that helps traders identify overbought and oversold conditions in a market. It was developed by Larry Williams in 1973 and is particularly effective in ranging markets.
 

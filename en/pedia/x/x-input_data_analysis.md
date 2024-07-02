@@ -1,4 +1,4 @@
-# X-Input Data Analysis in Algorithmic Trading
+# X-Input Data Analysis
 
 In the realm of [algorithmic trading](../a/algorithmic_trading.md), analyzing input data, particularly the X-input data, is pivotal in developing strategies that can effectively predict market movements and execute trades. This comprehensive examination covers various facets of X-input data, its extraction, processing techniques, and its critical role in [trading algorithms](../t/trading_algorithms.md).
 

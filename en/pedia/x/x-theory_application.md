@@ -1,4 +1,4 @@
-### X-Theory Application in Algorithmic Trading
+# X-Theory Application
 
 #### Introduction to X-Theory
 

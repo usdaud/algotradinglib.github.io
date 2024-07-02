@@ -1,4 +1,4 @@
-# Worst-Case Scenario Analysis in Algorithmic Trading
+# Worst-Case Scenario Analysis
 
 Worst-case scenario analysis (WCS) is a critical component in the field of [algorithmic trading](../a/algorithmic_trading.md), seeking to evaluate the potential maximum financial loss an algorithm might incur under the most adverse conditions. By identifying these extreme scenarios, traders and financial institutions can implement [risk management](../r/risk_management.md) strategies and take preemptive actions to mitigate or avoid catastrophic losses.
 

@@ -1,4 +1,4 @@
-# Windowing Techniques in Trading
+# Windowing Techniques
 
 ## Introduction
 Windowing techniques in trading involve analyzing subsets of data within a specific time frame or "window" to make informed trading decisions. These techniques are critical in both traditional and [algorithmic trading](../a/algorithmic_trading.md) as they help uncover patterns, trends, and anomalies that can influence [trading strategies](../t/trading_strategies.md).

@@ -1,4 +1,4 @@
-# Weekly Return Analysis in Algorithmic Trading
+# Weekly Return Analysis
 
 ## Introduction
 

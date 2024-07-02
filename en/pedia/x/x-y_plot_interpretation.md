@@ -1,4 +1,4 @@
-# X-Y Plot Interpretation in Algorithmic Trading
+# X-Y Plot Interpretation
 
 [Algorithmic trading](../a/algorithmic_trading.md) has undoubtedly revolutionized financial markets by leveraging [computational algorithms](../c/computational_algorithms.md) to execute trades at speeds and frequencies that human traders cannot match. One essential tool in the arsenal of [algorithmic trading](../a/algorithmic_trading.md) is the X-Y plot. This fundamental diagram aids traders in visualizing and interpreting complex relationships between two quantitative variables. By doing so, they can uncover underlying patterns, trends, and anomalies that might influence [trading strategies](../t/trading_strategies.md). In this article, we will delve into the concept of X-Y plot interpretation, focusing on its significance in [algorithmic trading](../a/algorithmic_trading.md), various types of X-Y plots used, common patterns, and practical applications.
 

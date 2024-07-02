@@ -1,4 +1,4 @@
-# X-Volatility Strategies in Algorithmic Trading
+# X-Volatility Strategies
 
 [Algorithmic trading](../a/algorithmic_trading.md), often referred to as algo trading, involves the use of computer algorithms to automate the process of buying and selling financial instruments. A significant subset of [algorithmic trading](../a/algorithmic_trading.md) focuses on strategies that capitalize on market volatility. Volatility, in a financial context, is a measure of the price variation of a financial instrument over a specific period of time. The term "X-Volatility Strategies" refers to a diverse suite of trading approaches that leverage volatility to generate profits.
 

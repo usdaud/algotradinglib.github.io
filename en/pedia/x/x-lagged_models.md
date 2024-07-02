@@ -1,4 +1,4 @@
-# X-Lagged Models in Algorithmic Trading
+# X-Lagged Models
 
 In the realm of [algorithmic trading](../a/algorithmic_trading.md), the prediction and modeling of [financial time series](../f/financial_time_series.md) data are crucial. X-Lagged Models are a sophisticated approach to predicting such data. These models utilize lagged variables, meaning past data points are used to forecast future values. In this document, we will delve into the intricacies of X-Lagged Models, their implementation, advantages, and potential limitations.
 

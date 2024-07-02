@@ -1,4 +1,4 @@
-## Wave Analysis
+# Wave Analysis
 
 Wave Analysis, often referred to in technical trading circles as [Elliott Wave Theory](../e/elliott_wave_theory.md), is a method for predicting [market cycles](../m/market_cycles.md) and trends by identifying repetitive wave patterns. This theory was developed by Ralph Nelson Elliott in the 1930s, and since then, it has become an essential tool for many traders, particularly those engaged in [algorithmic trading](../a/algorithmic_trading.md).
 

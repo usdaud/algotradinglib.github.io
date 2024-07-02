@@ -1,4 +1,4 @@
-# X-Seasonal Patterns in Algorithmic Trading
+# X-Seasonal Patterns
 
 In the realm of [algorithmic trading](../a/algorithmic_trading.md), the term "X-Seasonal Patterns" refers to recurring trends or cycles that manifest in financial markets over time. These patterns can be based on various timeframes such as daily, weekly, monthly, quarterly, or even annually. Recognizing and capitalizing on these patterns can provide traders with significant trading opportunities and help in constructing profitable [trading algorithms](../t/trading_algorithms.md).
 

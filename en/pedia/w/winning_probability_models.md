@@ -1,4 +1,4 @@
-# Winning Probability Models in Algorithmic Trading
+# Winning Probability Models
 
 [Algorithmic trading](../a/algorithmic_trading.md), also known as algo-trading, refers to the use of computer algorithms to automate trading decisions and execute orders in financial markets. One critical aspect of [algorithmic trading](../a/algorithmic_trading.md) is the ability to predict the [winning probability](../w/winning_probability.md) of trades. [Winning probability](../w/winning_probability.md) models are statistical tools that assess the likelihood that a given trading strategy will result in a profitable outcome. These models incorporate various quantitative methods to improve the accuracy and reliability of trade predictions.
 

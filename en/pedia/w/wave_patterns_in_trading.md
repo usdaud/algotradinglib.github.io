@@ -1,4 +1,4 @@
-## Wave Patterns in Trading
+# Wave Patterns
 
 Wave patterns in trading are significant [technical analysis](../t/technical_analysis.md) tools traders use to understand market movements and make predictions. Primarily guided by the principles of the [Elliott Wave Theory](../e/elliott_wave_theory.md), wave patterns are visual representations delineating the cyclical nature of price movements in financial markets. In this article, we'll delve into the basics of wave patterns, their psychological foundations, types, practical applications, and the influence they wield in [algorithmic trading](../a/algorithmic_trading.md).
 

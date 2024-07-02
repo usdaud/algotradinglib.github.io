@@ -1,4 +1,4 @@
-# X-Price Forecasting in Algorithmic Trading
+# X-Price Forecasting
 
 ## Introduction
 X-Price Forecasting refers to the use of advanced computational and statistical techniques to predict future prices of financial instruments. In [algorithmic trading](../a/algorithmic_trading.md), these forecasts are critical for making informed trading decisions. Modern forecasting methods leverage a combination of machine learning, [time series analysis](../t/time_series_analysis.md), and deep learning to achieve high levels of accuracy. This document provides a comprehensive overview of X-Price Forecasting, including its importance, methodologies, challenges, and real-world application.

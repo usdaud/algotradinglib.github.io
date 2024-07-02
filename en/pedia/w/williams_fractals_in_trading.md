@@ -1,4 +1,4 @@
-# Williams Fractals in Trading
+# Williams Fractals
 
 ## Introduction
 [Williams Fractals](../w/williams_fractals.md) are a [technical analysis](../t/technical_analysis.md) tool developed by Bill Williams, a renowned trader and author. They are used in the realm of [algorithmic trading](../a/algorithmic_trading.md) to identify potential reversal points in the market by highlighting local highs and lows in price movements. This toolkit is instrumental for traders aiming to predict market changes more accurately, allowing them to make informed trading decisions.

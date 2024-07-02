@@ -1,5 +1,4 @@
-# Weighted Index Funds in Algorithmic Trading
-============================================
+# Weighted Index Funds
 
 Weighted index funds are a type of investment fund which aims to replicate and track the performance of a specified index. Rather than selecting specific stocks, these funds allocate their resources in a way that mirrors the composition of a stock market index. The "weighted" aspect refers to the strategy employed to determine the proportion of each asset in the fund.
 

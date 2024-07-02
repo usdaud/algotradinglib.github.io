@@ -1,4 +1,4 @@
-## X-Signal Detection in Algorithmic Trading
+# X-Signal Detection
 
 [Algorithmic trading](../a/algorithmic_trading.md), often referred to as algo-trading or black-box trading, involves the use of computer algorithms and systems to execute [trading strategies](../t/trading_strategies.md) with minimal human intervention. One of the advanced aspects of [algorithmic trading](../a/algorithmic_trading.md) is the concept of "X-Signal Detection." This term typically refers to the identification of unique or extraordinary signals that can provide traders with a significant edge in the marketplace. These signals are derived from a wide array of data sources, leveraging sophisticated analytics and machine learning techniques to uncover hidden patterns or anomalies that are not easily visible through traditional [technical analysis](../t/technical_analysis.md).
 

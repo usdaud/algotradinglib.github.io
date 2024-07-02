@@ -1,5 +1,4 @@
-# Weighted Averages in Trading
-===========================================
+# Weighted Averages
 
 **Introduction**
 
