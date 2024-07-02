@@ -1,4 +1,4 @@
-## K-Ratio for Risk-Adjusted Performance
+# K-Ratio for Risk-Adjusted Performance
 
 K-Ratio is an advanced metric used in [financial risk management](../f/financial_risk_management.md) and [algorithmic trading](../a/algorithmic_trading.md) to evaluate the performance of an investment strategy by considering both its return and the risk-adjusted time. It offers a comprehensive view of the effectiveness of a trading algorithm by providing insights into the trade-offs between returns, time horizons, and associated volatilities.
 

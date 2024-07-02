@@ -1,4 +1,4 @@
-# **Key Rate Risk Management**
+# Key Rate Risk Management
 
 In the realm of finance and fixed-income securities, managing interest rate risk is critical to preserving an investment portfolio’s value. One sophisticated approach for such [risk management](../r/risk_management.md) is **Key Rate [Risk Management](../r/risk_management.md)**. This method goes beyond traditional duration and convexity analysis to provide a more granular assessment of interest rate exposure. Key Rate [Risk Management](../r/risk_management.md) involves analyzing the sensitivities of a bond or a portfolio to changes in interest rates at specific maturity points or "key rates" on the [yield curve](../y/yield_curve.md). 
 

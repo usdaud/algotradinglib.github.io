@@ -1,4 +1,4 @@
-## Least Squares Method in Algorithmic Trading
+# Least Squares Method
 
 ### Introduction to Least Squares Method
 

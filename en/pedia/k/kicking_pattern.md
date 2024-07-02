@@ -1,4 +1,4 @@
-## Kicking Pattern in Algorithmic Trading
+# Kicking Pattern
 
 ### Introduction to Kicking Pattern
 

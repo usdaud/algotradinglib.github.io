@@ -1,4 +1,4 @@
-# Latent Dirichlet Allocation in Algorithmic Trading
+# Latent Dirichlet Allocation
 
 ## Introduction
 

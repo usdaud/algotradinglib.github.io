@@ -1,4 +1,4 @@
-# LSTM Applications in Trading
+# LSTM Applications
 
 Long Short-Term Memory (LSTM) networks are a specialized form of Recurrent Neural Networks (RNNs) designed to handle time series data and sequences where relationships between data points can span long durations. LSTMs have shown significant promise in various domains, including natural language processing, speech recognition, and notably, financial trading. In trading, LSTM networks are utilized to predict stock prices, manage portfolios, and develop automatic [trading strategies](../t/trading_strategies.md). This document explores the essentials of LSTMs, how they work, and their specific applications in the trading world.
 

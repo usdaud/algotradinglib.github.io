@@ -1,4 +1,4 @@
-# Latent Variable Models in Algorithmic Trading
+# Latent Variable Models
 
 Latent variable models (LVMs) are powerful statistical tools that allow us to infer and predict hidden, unobserved variables from observed data. In the field of [algorithmic trading](../a/algorithmic_trading.md), these models provide a sophisticated methodology to uncover hidden patterns and relationships within [financial time series](../f/financial_time_series.md) data, enabling traders to make more informed decisions and create more effective [trading strategies](../t/trading_strategies.md).
 

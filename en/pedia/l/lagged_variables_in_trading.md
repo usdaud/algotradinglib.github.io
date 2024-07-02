@@ -1,4 +1,4 @@
-### Lagged Variables in Trading
+# Lagged Variables
 
 In the field of [algorithmic trading](../a/algorithmic_trading.md), lagged variables play a critical role in understanding market movements and developing predictive [trading strategies](../t/trading_strategies.md). Lagged variables refer to prior values of a variable of interest, often used in [time series analysis](../t/time_series_analysis.md) and [forecasting models](../f/forecasting_models.md). These historical values can provide insights into trends, patterns, and potential future movements of a given asset.
 

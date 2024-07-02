@@ -1,4 +1,4 @@
-# K-Fold Cross Validation in Trading
+# K-Fold Cross Validation
 
 ## Introduction
 

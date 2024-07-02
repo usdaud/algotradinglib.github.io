@@ -1,4 +1,4 @@
-# K-Ratio in Trading
+# K-Ratio
 
 The K-Ratio is a performance metric commonly used in the world of trading and investment management to evaluate the performance consistency and growth of equity curves. It was introduced by Lars Kestner, a noted expert in trading and [quantitative analysis](../q/quantitative_analysis.md), in his book "[Quantitative Trading](../q/quantitative_trading.md) Strategies." Here, we'll delve deeply into the K-Ratio, its calculation, application, advantages, limitations, and examples of its use in both algorithmic and [discretionary trading](../d/discretionary_trading.md).
 

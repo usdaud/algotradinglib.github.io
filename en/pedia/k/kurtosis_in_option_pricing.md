@@ -1,4 +1,4 @@
-### Kurtosis in Option Pricing
+# Kurtosis in Option Pricing
 
 Kurtosis is a statistical measure that describes the shape of a distribution's tails in relation to its overall shape. In the context of finance and, more specifically, option pricing, kurtosis helps traders and financial engineers to understand the likelihood of extreme events and the potential for significant gains or losses. This measure can be crucial when building and testing [option pricing models](../o/option_pricing_models.md), as it allows for a more accurate representation of market behaviors that deviate from the normal distribution assumptions. It is particularly relevant in the evaluation of asset returns and the structuring of [risk management](../r/risk_management.md) strategies.
 

@@ -1,4 +1,4 @@
-### Knock-Out Barrier Options
+# Knock-Out Barrier Options
 
 Knock-out barrier options are a type of exotic option in financial markets that become void if the underlying asset hits a predetermined barrier level. These sophisticated financial instruments are used by traders and hedgers to take advantage of specific market conditions while managing risk. Knock-out barrier options are part of a broader category of barrier options, which also includes [knock-in options](../k/knock-in_options.md).
 

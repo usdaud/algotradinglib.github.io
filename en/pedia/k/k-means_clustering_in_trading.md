@@ -1,4 +1,4 @@
-# K-Means Clustering in Trading
+# K-Means Clustering
 
 K-Means clustering is a widely used unsupervised machine learning algorithm that partitions a dataset into K distinct, non-overlapping subsets or clusters. Each data point belongs to the cluster with the nearest mean, serving as a prototype of the cluster. In the context of trading, K-Means clustering can be used to identify patterns, segment stocks, and provide insights into market behaviors to inform [trading strategies](../t/trading_strategies.md).
 

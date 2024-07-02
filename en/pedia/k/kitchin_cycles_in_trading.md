@@ -1,4 +1,4 @@
-# Kitchin Cycles in Trading
+# Kitchin Cycles
 
 ## Introduction
 Kitchin Cycles, also known as inventory cycles, represent a type of economic cycle lasting approximately 3 to 5 years, observed within the economic or financial indicators such as GDP, stock prices, and interest rates. Named after the British economist Joseph Kitchin, who proposed their existence in the 1920s, these cycles are particularly relevant to the field of trading, especially [algorithmic trading](../a/algorithmic_trading.md) (algotrading). Understanding these cycles can provide valuable insights to traders, enabling them to time their trades more effectively.

@@ -1,4 +1,4 @@
-### Low-Risk Investing in Algorithmic Trading
+# Low-Risk Investing
 
 Low-risk investing, particularly in the context of [algorithmic trading](../a/algorithmic_trading.md), revolves around strategies that aim to minimize the potential for significant losses while seeking consistent, albeit often smaller, gains. This approach is essential for investors looking to preserve capital and achieve steady growth over time. This document covers various aspects of low-risk investing within the realm of [algorithmic trading](../a/algorithmic_trading.md), including strategies, technologies, companies, and key considerations.
 

@@ -1,4 +1,4 @@
-# Lambda in Portfolio Optimization: A Comprehensive Analysis
+# Lambda in Portfolio Optimization
 
 ## Introduction
 

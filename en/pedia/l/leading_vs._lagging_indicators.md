@@ -1,4 +1,4 @@
-### Leading vs. Lagging Indicators in Algorithmic Trading
+# Leading vs. Lagging Indicators
 
 [Algorithmic trading](../a/algorithmic_trading.md), or algotrading, involves the use of computer algorithms to automate trading decisions and execute orders in financial markets. To make informed trading decisions, traders and algorithms alike rely on a variety of indicators to analyze market data. These indicators are typically categorized into two types: [leading indicators](../l/leading_indicators.md) and [lagging indicators](../l/lagging_indicators.md). Understanding the differences between these two types of indicators and how they can be used in [trading strategies](../t/trading_strategies.md) is crucial for anyone involved in [algorithmic trading](../a/algorithmic_trading.md). 
 

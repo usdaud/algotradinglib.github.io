@@ -1,4 +1,4 @@
-# **Libor Options**
+# Libor Options
 
 Libor options, also known as London Interbank Offered Rate options, are derivative instruments that derive their value from the Libor, an interest rate benchmark that reflects the rates at which banks lend to each other in the international interbank market. These options represent a key segment of the financial [derivatives](../d/derivatives.md) market, and play a crucial role in interest rate hedging, speculating, and arbitraging strategies pursued by various financial institutions. 
 

@@ -1,4 +1,4 @@
-# Key Reversal Patterns in Algorithmic Trading
+# Key Reversal Patterns
 
 ## Introduction to Key Reversal Patterns
 Key [Reversal Patterns](../r/reversal_patterns.md) are crucial [chart patterns](../c/chart_patterns.md) used in [technical analysis](../t/technical_analysis.md) to predict potential reversals in price trends. In [algorithmic trading](../a/algorithmic_trading.md), recognizing these patterns can significantly enhance the accuracy of [trading strategies](../t/trading_strategies.md). Unlike other [reversal indicators](../r/reversal_indicators.md), Key [Reversal Patterns](../r/reversal_patterns.md) rely on distinct price movements within a short period, usually a single trading day, to signal potential trend reversals.

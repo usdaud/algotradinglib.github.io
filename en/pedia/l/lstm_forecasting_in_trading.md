@@ -1,4 +1,4 @@
-# LSTM Forecasting in Trading
+# LSTM Forecasting
 
 Long Short-Term Memory (LSTM) networks are a special kind of recurrent neural network (RNN) capable of learning long-term dependencies. Introduced by Hochreiter and Schmidhuber (1997), LSTMs have been refined and popularized by numerous researchers. They work tremendously well on a large variety of problems and are now widely used across different sectors, including finance and trading.
 

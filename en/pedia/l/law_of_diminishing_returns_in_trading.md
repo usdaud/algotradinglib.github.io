@@ -1,4 +1,4 @@
-## Law of Diminishing Returns in Trading
+# Law of Diminishing Returns
 
 ### Introduction
 

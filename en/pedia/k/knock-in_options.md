@@ -1,4 +1,4 @@
-## Knock-In Options
+# Knock-In Options
 
 Knock-In options are a type of exotic option in financial markets, distinct from the more traditional vanilla options like European or American options. These options only become active, or "knock-in", if a certain underlying asset price reaches a predefined barrier level during the option's life. This barrier can be either higher (up-and-in option) or lower (down-and-in option) than the current price of the underlying asset.
 

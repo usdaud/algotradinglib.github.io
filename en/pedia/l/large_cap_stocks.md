@@ -1,4 +1,4 @@
-# **Large-Cap Stocks in Algorithmic Trading**
+# Large-Cap Stocks
 
 Large-cap stocks, often referred to as "blue-chip stocks," are shares of companies with a market capitalization of $10 billion or more. These companies are typically well-established, financially stable, and have a significant influence in their respective industries. Market capitalization (market cap) is calculated by multiplying the current share price by the total number of outstanding shares. Investing in large-cap stocks is often considered less risky than investing in mid-cap or small-cap stocks due to the companies' stability, consistent earnings, and generally lower volatility. 
 

@@ -1,4 +1,4 @@
-### Kalman Filter in Trading
+# Kalman Filter
 
 The Kalman Filter is a mathematical algorithm that provides estimates of some unknown variables given the measurements observed over time. Originally developed by Rudolf E. Kálmán in the 1960s for use in aerospace engineering, it has found widespread application in numerous other fields, including finance and trading.
 

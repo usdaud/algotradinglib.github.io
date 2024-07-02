@@ -1,4 +1,4 @@
-# Kalman Smoothing: Advanced Techniques in Algorithmic Trading
+# Kalman Smoothing
 
 Kalman Smoothing is an advanced statistical method used in various fields, including [algorithmic trading](../a/algorithmic_trading.md). It builds upon the Kalman Filter, which is a recursive algorithm designed to estimate the state of a system over time. While the Kalman Filter is used for real-time estimation, Kalman Smoothing provides a way to refine these estimates by considering future observations as well. This document delves deep into the methodology, applications, advantages, and limitations of Kalman Smoothing in [algorithmic trading](../a/algorithmic_trading.md).
 

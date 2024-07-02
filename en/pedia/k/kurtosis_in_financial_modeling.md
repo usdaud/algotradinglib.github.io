@@ -1,4 +1,4 @@
-### Kurtosis in Financial Modeling
+# Kurtosis in Financial Modeling
 
 Kurtosis is a statistical measure that is often used in [financial modeling](../f/financial_modeling.md) to describe the distribution of returns for a given security or portfolio. Specifically, kurtosis measures the "tailedness" of the probability distribution — that is, it captures the extremity or frequency of extreme outcomes (fat tails) in the distribution. This can be crucial for understanding the probability and potential impact of outlier events in financial market returns, making it an invaluable tool for [risk management](../r/risk_management.md), [portfolio optimization](../p/portfolio_optimization.md), and [trading strategies](../t/trading_strategies.md).
 

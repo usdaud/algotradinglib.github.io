@@ -1,4 +1,4 @@
-# Latent Semantic Analysis (LSA) in Algorithmic Trading
+# Latent Semantic Analysis (LSA)
 
 Latent Semantic Analysis (LSA) is a powerful natural language processing (NLP) technique that is primarily used to analyze relationships between a set of documents and the terms they contain. As an unsupervised machine learning algorithm, LSA employs singular value decomposition (SVD) to reduce the dimensionality of term-document matrices, uncovering the latent relationships and patterns present in the data. This approach is particularly useful in text mining, information retrieval, and information indexing.
 

@@ -1,4 +1,4 @@
-# Kalman Filter Applications in Algorithmic Trading
+# Kalman Filter Applications
 
 The Kalman filter is a mathematical tool commonly used in control systems and signal processing. It is named after Rudolf E. Kalman who is one of the primary developers of its theory. Within the realm of [algorithmic trading](../a/algorithmic_trading.md), the Kalman filter serves as a powerful tool to predict market movements and adjust [trading strategies](../t/trading_strategies.md) effectively. This article will delve into the various applications of the Kalman filter in the financial domain and explore its utility in enhancing [trading algorithms](../t/trading_algorithms.md).
 

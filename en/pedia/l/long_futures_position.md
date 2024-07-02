@@ -1,4 +1,4 @@
-## Long Futures Position
+# Long Futures Position
 
 ### Introduction
 A long futures position is a critical concept in the realm of financial trading, specifically within the scope of [futures contracts](../f/futures_contracts.md). This concept involves buying a futures contract with the anticipation that the underlying asset's price will rise in the future. If the price increases, the value of the futures contract also rises, leading to potential profits for the investor. This strategy contrasts with a short futures position, where the trader expects the underlying asset's price to decline.

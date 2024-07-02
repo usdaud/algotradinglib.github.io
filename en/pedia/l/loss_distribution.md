@@ -1,4 +1,4 @@
-# Loss Distribution in Algorithmic Trading
+# Loss Distribution
 
 In the realm of [algorithmic trading](../a/algorithmic_trading.md), understanding the distribution of losses is crucial for the development, optimization, and [risk management](../r/risk_management.md) of [trading strategies](../t/trading_strategies.md). Loss distribution refers to the statistical spread of possible losses a trading strategy might incur over a certain period. This concept helps traders and quantitative analysts anticipate potential drawdowns and create more resilient systems.
 

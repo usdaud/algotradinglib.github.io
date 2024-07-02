@@ -1,5 +1,4 @@
-# Knowledge-Based Systems in Trading
-==================================
+# Knowledge-Based Systems
 
 ### Introduction
 

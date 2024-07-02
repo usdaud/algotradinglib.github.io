@@ -1,4 +1,4 @@
-## Least Squares Regression in Algorithmic Trading
+# Least Squares Regression
 
 Least squares regression is a statistical method used to determine the line of best fit by minimizing the sum of squares of the differences between observed and estimated values. This method has a significant place in [algorithmic trading](../a/algorithmic_trading.md), where it helps traders make informed decisions based on historical data and predictive models. 
 

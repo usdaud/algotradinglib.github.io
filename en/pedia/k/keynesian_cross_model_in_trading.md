@@ -1,4 +1,4 @@
-# The Keynesian Cross Model in Trading: An In-Depth Exploration
+# Keynesian Cross Model
 
 ## Introduction
 The Keynesian Cross Model, developed by British economist John Maynard Keynes, is a foundational concept in macroeconomics that represents the equilibrium between aggregate expenditure and real GDP. Though traditionally used to illustrate macroeconomic principles, its concepts can also be applied in the realm of trading, particularly in [algorithmic trading](../a/algorithmic_trading.md), to enhance decision-making processes. This exploration delves into the complexities of the Keynesian Cross Model and how its principles can be adapted for use in [trading strategies](../t/trading_strategies.md).

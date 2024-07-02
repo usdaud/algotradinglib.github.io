@@ -1,4 +1,4 @@
-# **Last In, First Out (LIFO) Method in Algo Trading**
+# Last In, First Out (LIFO) Method
 
 The Last In, First Out (LIFO) method is an inventory evaluation technique frequently used in financial accounting and taxation. However, its application in [algorithmic trading](../a/algorithmic_trading.md) (algo trading) can play a significant role in trade execution strategies, impacting the financial performance of a trading system. This topic will dissect LIFO’s role in algo trading, examining its advantages, limitations, practical implementation, and surrounding regulatory and market environments. 
 

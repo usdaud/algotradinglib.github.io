@@ -1,4 +1,4 @@
-# Law of Large Numbers in Trading
+# Law of Large Numbers
 
 The Law of Large Numbers (LLN) is a fundamental principle in probability theory and statistics, which states that as the size of a sample increases, the sample mean will get closer to the expected value. In the context of trading, particularly [algorithmic trading](../a/algorithmic_trading.md), the LLN has significant implications for strategy development, [risk management](../r/risk_management.md), and the evaluation of [trading performance](../t/trading_performance.md). This article provides a detailed exposition of the LLN and its application in trading.
 

@@ -1,4 +1,4 @@
-# **Kurtosis in Financial Returns**
+# Kurtosis in Financial Returns
 
 Kurtosis is a statistical measure that describes the distribution of data points within a data set in relation to the shape of a normal distribution. In the context of financial returns, kurtosis is used to assess the presence of extreme values—often referred to as "outliers"—in return distributions. It helps in understanding the likelihood of extreme outcomes and is a critical metric in [risk management](../r/risk_management.md) and [quantitative finance](../q/quantitative_finance.md), especially in [algorithmic trading](../a/algorithmic_trading.md) where mathematical models and statistical methods are heavily relied upon.
 

@@ -1,4 +1,4 @@
-## Lattice Tree Models in Algorithmic Trading
+# Lattice Tree Models
 
 Lattice tree models are a class of [computational algorithms](../c/computational_algorithms.md) used in financial mathematics and [algorithmic trading](../a/algorithmic_trading.md) to model the evolution of various financial instruments over time. They provide a method to value [derivatives](../d/derivatives.md), manage risk, and optimize portfolios under uncertain conditions. This document will delve into the intricacies of lattice tree models, detailing their fundamental principles, types, applications, implementation strategies, and their importance in the field of [algorithmic trading](../a/algorithmic_trading.md).
 

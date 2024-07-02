@@ -1,4 +1,4 @@
-## Low Beta Strategies in Algorithmic Trading
+# Low Beta Strategies
 
 In the realm of finance and investment, the [beta coefficient](../b/beta_coefficient.md) is a measure of the volatility, or [systematic risk](../s/systematic_risk.md), of a security or portfolio in comparison to the market as a whole. A beta of less than one indicates that the security will be less volatile than the market. Conversely, a beta of greater than one indicates higher volatility. Low beta strategies involve selecting stocks or financial instruments that have a lower beta, aiming for a less volatile investment that still offers reasonable returns. This approach can be particularly useful in [algorithmic trading](../a/algorithmic_trading.md), where the goal is to use automated software to follow specific [trading strategies](../t/trading_strategies.md).
 

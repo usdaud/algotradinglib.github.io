@@ -1,4 +1,4 @@
-# Liquidity Risk in Algorithmic Trading
+# Liquidity Risk
 
 Liquidity risk is a critical concept in the realm of finance, and it becomes particularly complex and multifaceted when discussed in the context of [algorithmic trading](../a/algorithmic_trading.md). Essentially, liquidity risk refers to the risk that a given security or asset cannot be traded quickly enough in the market without impacting its price. This inability to liquidate assets promptly can lead to significant financial losses, especially for high-frequency trading (HFT) firms and various other market participants who rely on the ability to execute trades rapidly and efficiently.
 

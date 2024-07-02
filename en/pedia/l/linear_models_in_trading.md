@@ -1,4 +1,4 @@
-# Linear Models in Trading
+# Linear Models
 
 In the context of financial markets and [algorithmic trading](../a/algorithmic_trading.md), linear models are a cornerstone for predicting prices, modeling risks, and optimizing [trading strategies](../t/trading_strategies.md). Linear models refer to a broad category of approaches that can be summarized by the concept that the best-fitting relationship between a dependent variable (e.g., the price of a stock) and one or more independent variables (predictors, such as time, various [economic indicators](../e/economic_indicators.md), or other stock prices) is a linear function. This discussion will encompass the primary types of linear models used in trading, their practical applications, and the inherent benefits and limitations they present.
 

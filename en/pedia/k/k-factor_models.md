@@ -1,4 +1,4 @@
-## K-Factor Models in Algorithmic Trading
+# K-Factor Models
 
 ### Introduction to K-Factor Models
 

@@ -1,4 +1,4 @@
-# **Key Rate Duration in Algo-Trading**
+# Key Rate Duration
 
 In the specialized domain of finance and trading, particularly in [algorithmic trading](../a/algorithmic_trading.md) (algo-trading), volatility and precision are critical. Key Rate Duration (KRD) is an essential tool for bond portfolio managers and algo-traders who need to measure interest rate risk effectively. Understanding KRD can aid in constructing portfolios that are less susceptible to adverse interest rate movements—an invaluable skill in the high-speed, data-driven world of [algorithmic trading](../a/algorithmic_trading.md).
 

@@ -1,4 +1,4 @@
-# Lambda Value in Trading
+# Lambda Value
 
 Lambda value, also known as the lambda parameter, is a crucial element in various [quantitative finance](../q/quantitative_finance.md) and [algorithmic trading](../a/algorithmic_trading.md) strategies. Understanding the lambda value allows traders to optimize their high-frequency [trading systems](../t/trading_systems.md), manage risks more effectively, and enhance their overall [trading performance](../t/trading_performance.md).
 

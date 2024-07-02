@@ -1,4 +1,4 @@
-# Knowledge Extraction in Trading
+# Knowledge Extraction
 
 Knowledge extraction in trading refers to the process of retrieving, filtering, and interpreting vast quantities of financial and market-related data to generate insights that support financial decisions, including [algorithmic trading](../a/algorithmic_trading.md). This involves using various technologies and methodologies from data science, machine learning, and natural language processing to transform raw data into actionable knowledge.
 

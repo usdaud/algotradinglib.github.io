@@ -1,4 +1,4 @@
-# Key Price Levels in Algorithmic Trading
+# Key Price Levels
 
 Key price levels are pivotal in the analysis and execution of trades in financial markets. In the realm of [algorithmic trading](../a/algorithmic_trading.md), these levels often form the backbone of [trading strategies](../t/trading_strategies.md), affecting decisions on entry, exit, and the placement of [stop-loss orders](../s/stop-loss_orders.md). Understanding key price levels, their identification, and their importance can significantly enhance the efficiency and effectiveness of an [algorithmic trading](../a/algorithmic_trading.md) system.
 

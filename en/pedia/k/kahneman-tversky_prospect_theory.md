@@ -1,4 +1,4 @@
-# **Kahneman-Tversky Prospect Theory**
+# Kahneman-Tversky Prospect Theory
 
 Kahneman-Tversky Prospect Theory, developed by psychologists Daniel Kahneman and Amos Tversky, provides a robust framework for understanding decision-making under risk and uncertainty. Published in their seminal 1979 paper "Prospect Theory: An Analysis of Decision under Risk," the theory challenges the long-standing Expected Utility Theory (EUT) by incorporating psychological insights into economic models.
 

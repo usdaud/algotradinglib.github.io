@@ -1,4 +1,4 @@
-# Liquidity Analysis in Algorithmic Trading
+# Liquidity Analysis
 
 Liquidity analysis in [algorithmic trading](../a/algorithmic_trading.md) is a critical aspect for traders and investors alike. Understanding the depth and stability of the market through liquidity metrics determines the ease of executing large transactions without impacting the market price. This document delves into various facets of liquidity analysis, its importance, methods, metrics, and tools used in the context of [algorithmic trading](../a/algorithmic_trading.md).
 

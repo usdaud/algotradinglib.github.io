@@ -1,4 +1,4 @@
-## Understanding Liquidity Squeeze in Algo Trading
+# Liquidity Squeeze
 
 Liquidity squeeze, also known as a liquidity crisis, is a complex and impactful phenomenon in financial markets, particularly of interest to those involved in [algorithmic trading](../a/algorithmic_trading.md). It occurs when there is a sudden reduction in the ability to buy or sell assets without causing a significant impact on asset prices. In simpler terms, it is a situation where market participants struggle to find sufficient buyers or sellers, leading to increased volatility and potential financial losses.
 

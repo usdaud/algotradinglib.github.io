@@ -1,4 +1,4 @@
-### Leading Economic Index (LEI)
+# Leading Economic Index (LEI)
 
 The Leading Economic Index (LEI) is a composite index published monthly by the Conference Board, an independent research association. It is designed to anticipate changes in the economic cycle and forecast future economic activity. As a crucial tool in economic analysis, it aggregates multiple [economic indicators](../e/economic_indicators.md) that historically have moved before changes in the overall economy, hence the term “leading.”
 

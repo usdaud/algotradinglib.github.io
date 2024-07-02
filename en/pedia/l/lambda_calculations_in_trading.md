@@ -1,5 +1,4 @@
-# Lambda Calculations in Trading
-===================================
+# Lambda Calculations
 
 ## Introduction to Lambda Calculations
 

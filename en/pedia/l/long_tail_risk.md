@@ -1,4 +1,4 @@
-# Long Tail Risk in Algorithmic Trading
+# Long Tail Risk
 
 ## Introduction
 Long [tail risk](../t/tail_risk.md) is a critical concept in finance, especially in [algorithmic trading](../a/algorithmic_trading.md). It refers to the risk of rare events that have a significant impact on investment portfolios. These events are not well captured by traditional [risk management](../r/risk_management.md) models, which usually assume a normal distribution of returns. Long tail events can lead to substantial losses, posing a severe threat to traders and investors. Understanding long [tail risk](../t/tail_risk.md) involves examining statistical distributions, historical market events, and the tools used to mitigate these risks.

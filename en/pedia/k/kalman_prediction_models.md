@@ -1,4 +1,4 @@
-# Kalman Prediction Models in Algorithmic Trading
+# Kalman Prediction Models
 
 Kalman Prediction Models, deriving from the Kalman Filter, play a crucial role in the domain of [algorithmic trading](../a/algorithmic_trading.md). These models are employed for predicting and estimating the internal states of systems over time—crucial capabilities in financial markets characterized by noise and uncertainty.
 

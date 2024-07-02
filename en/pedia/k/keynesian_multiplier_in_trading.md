@@ -1,5 +1,4 @@
-# The Keynesian Multiplier in Trading
-=================================
+# Keynesian Multiplier
 
 The Keynesian multiplier is a concept rooted in macroeconomic theory, originally formulated by the economist John Maynard Keynes. While it primarily applies to fiscal policy and the overall economy, understanding its principles and their implications can be valuable for traders and investors looking to comprehend market dynamics more deeply. In this comprehensive explanation, we will delve into the Keynesian multiplier, its fundamental principles, and how it can be applied to trading and financial markets.
 

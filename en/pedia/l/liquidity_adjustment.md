@@ -1,4 +1,4 @@
-# Liquidity Adjustment in Algorithmic Trading
+# Liquidity Adjustment
 
 In the landscape of financial markets, liquidity is a fundamental concept that influences the ease with which assets can be bought or sold without causing a significant impact on the asset's price. One of the advanced techniques in the realm of [algorithmic trading](../a/algorithmic_trading.md) is the adjustment for liquidity, often referred to as Liquidity Adjustment. This process is crucial for both institutional and retail traders to ensure that their [trading strategies](../t/trading_strategies.md) do not adversely affect the market and to optimize execution costs. This article delves into the intricate details of Liquidity Adjustment, its importance, methodologies, and implementation in [algorithmic trading](../a/algorithmic_trading.md).
 
