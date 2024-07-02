@@ -1,4 +1,4 @@
-### Zero Interest Rate Policies (ZIRP)
+# Zero Interest Rate Policies (ZIRP)
 
 Zero Interest Rate Policy (ZIRP) refers to a type of monetary policy in which a central bank sets nominal interest rates at or near 0% per annum. This policy is typically employed to stimulate the economy during periods of very low inflation or deflation, and it is considered an unconventional monetary policy tool.
 

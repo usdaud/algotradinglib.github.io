@@ -1,4 +1,4 @@
-# Z-Scores in Trading
+# Z-Scores
 
 Z-Scores are a popular statistical measure used in trading to identify the number of standard deviations a data point is from the mean of a dataset. This concept is crucial for traders who wish to understand the probability of extreme market events, calculate risk, and develop automated [trading algorithms](../t/trading_algorithms.md) (algorithms) based on statistical properties of financial data.
 

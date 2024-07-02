@@ -1,4 +1,4 @@
-## Yield Curve Fitting
+# Yield Curve Fitting
 
 [Yield curve](../y/yield_curve.md) fitting is a fundamental technique in [financial modeling](../f/financial_modeling.md), particularly in the domains of [fixed income securities](../f/fixed_income_securities.md) and interest rate [derivatives](../d/derivatives.md). The [yield curve](../y/yield_curve.md), which represents the relationship between the interest rates (or yields) of bonds with differing maturities, is a crucial tool for assessing economic conditions, valuing investments, and managing risk. In this comprehensive overview, we will dive deep into the concepts, methodologies, and applications of [yield curve](../y/yield_curve.md) fitting.
 

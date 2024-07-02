@@ -1,4 +1,4 @@
-## Z-Value in Financial Models
+# Z-Value in Financial Models
 
 Z-value, also known as a Z-score or standard score, is a statistical measurement that describes a value's relationship to the mean of a group of values. The Z-value is measured in terms of standard deviations from the mean. For example, a Z-score of 1 means the value is one standard deviation away from the mean. In financial models, the Z-value is used for various purposes including risk assessment, [anomaly detection](../a/anomaly_detection.md), and statistical inference.
 

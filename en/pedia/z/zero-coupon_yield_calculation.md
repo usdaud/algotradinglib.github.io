@@ -1,4 +1,4 @@
-## Zero-Coupon Yield Calculation
+# Zero-Coupon Yield Calculation
 
 Zero-coupon bonds, also known as discount bonds or deep discount bonds, are bonds that are issued at a significant discount from their face value and do not pay periodic interest payments (coupons). Instead, they are redeemed at face value at the time of maturity. The return on zero-coupon bonds is derived from the difference between the purchase price and the face value, which becomes payable at maturity.
 

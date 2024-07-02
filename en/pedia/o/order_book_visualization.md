@@ -1,4 +1,4 @@
-# Order Book Visualization in Algorithmic Trading
+# Order Book Visualization
 
 Order book visualization is a crucial tool within the realm of [algorithmic trading](../a/algorithmic_trading.md), allowing traders to monitor and analyze the depth of the market in real-time. An order book provides a detailed insight into the buy and sell orders for a particular asset at various price levels. This visualization aids in understanding market sentiment, liquidity, and potential price movements. Below, we delve into the fundamentals of order book visualization, its significance, various techniques, and practical applications.
 
