@@ -1,4 +1,4 @@
-# **Commodity Options**
+# Commodity Options
 
 Commodity options are a type of derivative instrument that gives the holder the right, but not the obligation, to buy or sell a particular commodity at a predetermined price before a certain date. They are widely used in futures markets for hedging, speculation, and income generation.
 

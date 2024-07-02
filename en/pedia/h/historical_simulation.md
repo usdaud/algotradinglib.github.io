@@ -1,4 +1,4 @@
-# Historical Simulation in Algorithmic Trading
+# Historical Simulation
 
 Historical simulation, often referred to as [backtesting](../b/backtesting.md), is a crucial method employed in [algorithmic trading](../a/algorithmic_trading.md) to evaluate the performance of a trading strategy or model using historical data. This technique helps in determining how well a strategy would have performed in the past, which can provide insights into its potential future performance. The ultimate objective of historical simulation is to estimate the risk and return metrics of a trading strategy by applying it to historical price data.
 

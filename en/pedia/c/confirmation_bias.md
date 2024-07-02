@@ -1,4 +1,4 @@
-# Confirmation Bias in Algorithmic Trading
+# Confirmation Bias
 
 Confirmation bias is a cognitive bias that manifests as the tendency for individuals to favor information that confirms their preconceptions or hypotheses, independently of whether the information is true. This psychological tendency can be particularly impactful in the context of [algorithmic trading](../a/algorithmic_trading.md), where decisions are heavily dependent on data analysis and [pattern recognition](../p/pattern_recognition.md).
 

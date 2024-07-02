@@ -1,4 +1,6 @@
-# The **Concentration Ratio** (CR) is a measure used in financial economics and particularly in the context of market structure analysis. It is designed to quantify the degree of market concentration, which indicates how much of a market's total output is produced by its largest firms. High concentration ratios can suggest less competitive markets with potential market power exerted by the largest firms, while lower ratios typically indicate more competitive environments with numerous players.
+# Concentration Ratio
+
+The **Concentration Ratio** (CR) is a measure used in financial economics and particularly in the context of market structure analysis. It is designed to quantify the degree of market concentration, which indicates how much of a market's total output is produced by its largest firms. High concentration ratios can suggest less competitive markets with potential market power exerted by the largest firms, while lower ratios typically indicate more competitive environments with numerous players.
 
 ## Understanding the Concentration Ratio
 

@@ -1,4 +1,4 @@
-### Hot Money Flows
+# Hot Money Flows
 
 Hot money flows refer to the movement of large sums of money from one country to another in search of the best short-term returns. This type of capital is highly speculative and can be quickly pulled out of an economy as easily as it was injected, leading to significant volatility in financial markets. Generally, hot money can include funds moved by institutional investors, multinational corporations, hedge funds, and even individual day traders.
 

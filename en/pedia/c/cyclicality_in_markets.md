@@ -1,4 +1,6 @@
-# Cyclicality in financial markets refers to the tendency of these markets to follow identifiable cycles or patterns over time. These cycles can be influenced by various economic, financial, and even psychological factors and can range from short-term movements to long-term trends. Understanding cyclicality is crucial for algorithmic trading (algotrading) strategies, as it allows traders to develop algorithms that can predict and exploit these patterns.
+# Cyclicality in Markets
+
+Cyclicality in financial markets refers to the tendency of these markets to follow identifiable cycles or patterns over time. These cycles can be influenced by various economic, financial, and even psychological factors and can range from short-term movements to long-term trends. Understanding cyclicality is crucial for algorithmic trading (algotrading) strategies, as it allows traders to develop algorithms that can predict and exploit these patterns.
 
 ## Economic Cycles
 

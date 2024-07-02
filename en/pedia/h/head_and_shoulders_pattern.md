@@ -1,4 +1,4 @@
-### Head and Shoulders Pattern
+# Head and Shoulders Pattern
 
 The Head and Shoulders pattern is a financial market analysis chart pattern that predicts a bullish-to-bearish [trend reversal](../t/trend_reversal.md). It is one of the most reliable and frequently encountered trading patterns and is used by traders across a variety of asset classes, including equities, commodities, and forex.
 

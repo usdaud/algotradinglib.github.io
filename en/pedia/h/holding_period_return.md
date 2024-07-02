@@ -1,4 +1,4 @@
-## Holding Period Return (HPR)
+# Holding Period Return
 
 The Holding Period Return (HPR) is a measure of the total return earned on an investment over the period for which the investment is held. This method of calculating returns is particularly useful in finance and investment management, as it provides investors with a percentage rate of return relative to their investment's initial and final value, inclusive of income received from dividends, interest, or other distributions. HPR can be applied to a variety of financial instruments such as stocks, bonds, mutual funds, and real estate investments. 
 

@@ -1,4 +1,4 @@
-# Hidden Markov Models in Algorithmic Trading
+# Hidden Markov Models
 
 Hidden Markov Models (HMMs) are a powerful statistical tool widely used in various fields like speech recognition, bioinformatics, and [financial modeling](../f/financial_modeling.md). In the realm of [algorithmic trading](../a/algorithmic_trading.md), HMMs provide traders with a framework to model and predict asset prices and market conditions based on observed sequences of data. This detailed exploration will delve into the structure of HMMs, their application in [algorithmic trading](../a/algorithmic_trading.md), and practical considerations for implementing these models.
 

@@ -1,4 +1,4 @@
-## Heikin-Ashi Strategies in Algo Trading
+# Heikin-Ashi Strategies
 
 ### Introduction
 

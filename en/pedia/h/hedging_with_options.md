@@ -1,4 +1,4 @@
-### Hedging with Options
+# Hedging with Options
 
 Hedging with options is a sophisticated strategy used by investors and traders to protect their portfolios from substantial losses. This technique involves the use of financial [derivatives](../d/derivatives.md) known as options, which grant the holder the right, but not the obligation, to buy or sell an underlying asset at a predetermined price before a specified expiration date. In this comprehensive exploration, we will delve into the various components, mechanisms, and strategies involved in hedging with options.
 

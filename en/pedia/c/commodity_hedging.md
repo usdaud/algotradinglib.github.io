@@ -1,4 +1,6 @@
-# Commodity hedging is a risk management strategy employed by producers, consumers, traders, and investors to protect against adverse price movements in the commodity markets. As one of the core principles within financial derivatives and risk management domains, commodity hedging involves taking offsetting positions in derivatives like futures, options, and swaps to mitigate or eliminate the impact of price volatility on physical commodity exposure. This document will provide an in-depth exploration of the concept, techniques, participants, benefits, and limitations of commodity hedging within the context of algorithmic trading (algotrading).
+# Commodity Hedging
+
+Commodity hedging is a risk management strategy employed by producers, consumers, traders, and investors to protect against adverse price movements in the commodity markets. As one of the core principles within financial derivatives and risk management domains, commodity hedging involves taking offsetting positions in derivatives like futures, options, and swaps to mitigate or eliminate the impact of price volatility on physical commodity exposure. This document will provide an in-depth exploration of the concept, techniques, participants, benefits, and limitations of commodity hedging within the context of algorithmic trading (algotrading).
 
 ## Understanding Commodity Hedging
 

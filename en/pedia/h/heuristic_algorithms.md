@@ -1,4 +1,4 @@
-# Heuristic Algorithms in Algorithmic Trading
+# Heuristic Algorithms
 
 [Algorithmic trading](../a/algorithmic_trading.md), commonly known as algo-trading, leverages computer programs to trade stocks and other financial instruments at high speeds and with minimal human intervention. One critical component of this area is heuristic algorithms, which are designed to solve complex problems more quickly than traditional methods by employing practical techniques and rules of thumb. This article explores heuristic algorithms, their applications in algo-trading, and how they enhance market strategies.
 

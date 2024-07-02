@@ -1,4 +1,4 @@
-# Collateral Management in Algorithmic Trading
+# Collateral Management
 
 ### Introduction
 Collateral management is a critical function in the financial industry that involves the efficient management of collateral to mitigate credit risk in various trading activities, particularly in [derivatives](../d/derivatives.md) and [securities lending](../s/securities_lending.md). In the context of [algorithmic trading](../a/algorithmic_trading.md), collateral management refers to the automated processes and techniques used to manage the collateral associated with complex [trading strategies](../t/trading_strategies.md).

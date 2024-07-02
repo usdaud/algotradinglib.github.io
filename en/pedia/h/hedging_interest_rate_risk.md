@@ -1,4 +1,4 @@
-# **Hedging Interest Rate Risk**
+# Hedging Interest Rate Risk
 
 Interest rate risk is a fundamental financial risk faced by various market participants, including banks, corporations, investors, and even governments. It refers to the potential variability in the value of investments and financial instruments due to changes in interest rates. Given the importance of managing this risk, various [hedging strategies](../h/hedging_strategies.md) and financial instruments have been developed. This document provides a comprehensive analysis of hedging interest rate risk, discussing the types of interest rate risk, hedging instruments, strategies, and the role of technology and financial institutions in managing this risk.
 

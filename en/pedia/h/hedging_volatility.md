@@ -1,4 +1,4 @@
-# Hedging Volatility in Algorithmic Trading
+# Hedging Volatility
 
 ## Overview
 Hedging volatility is a vital concept in [algorithmic trading](../a/algorithmic_trading.md) that pertains to strategies used to mitigate the risk associated with the unpredictable nature of financial markets. Volatility, which represents the degree of variation in trading prices over a period, can lead to significant gains as well as losses. Efficiently managing this risk can protect portfolios from adverse price movements, ensuring more stable and predictable returns. This topic covers the fundamental principles, strategies, tools, and considerations involved in hedging volatility in the context of [algorithmic trading](../a/algorithmic_trading.md).

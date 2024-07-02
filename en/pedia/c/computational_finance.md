@@ -1,4 +1,4 @@
-# **Computational Finance: Advanced Overview**
+# Computational Finance
 
 **Introduction**
 

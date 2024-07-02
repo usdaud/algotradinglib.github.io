@@ -1,4 +1,4 @@
-## Hybrid Trading Systems
+# Hybrid Trading Systems
 
 Hybrid [trading systems](../t/trading_systems.md) represent a blend of both human [discretionary trading](../d/discretionary_trading.md) and [algorithmic trading](../a/algorithmic_trading.md). These systems leverage the strengths of human intuition and experience alongside the precision and speed of automated [trading algorithms](../t/trading_algorithms.md). In combining these elements, hybrid [trading systems](../t/trading_systems.md) aim to enhance market analysis, execution efficiency, and decision-making flexibility, addressing the limitations inherent in purely human or purely algorithmic approaches.
 

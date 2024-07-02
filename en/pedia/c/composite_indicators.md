@@ -1,4 +1,4 @@
-# Composite Indicators in Algorithmic Trading
+# Composite Indicators
 
 In the realm of [algorithmic trading](../a/algorithmic_trading.md), composite indicators are highly advanced tools that combine multiple individual indicators to form a single metric. These indicators are designed to provide a holistic view of the market’s condition, taking into account various factors that may not be apparent when using single indicators in isolation. Composite indicators are particularly useful for quantitative analysts and traders who need to filter out noise and focus on actionable data.
 

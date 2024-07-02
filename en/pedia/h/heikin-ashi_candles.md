@@ -1,4 +1,4 @@
-# Heikin-Ashi Candles: A Comprehensive Guide
+# Heikin-Ashi Candles
 
 Heikin-Ashi candles are a type of candlestick chart used in trading, primarily in the field of [algorithmic trading](../a/algorithmic_trading.md). They offer a different approach to charting compared to traditional Japanese candlesticks, aiming to filter out market noise and provide a smoother visual representation of price trends. This guide explores the intricacies of Heikin-Ashi candles, their calculation, advantages, limitations, and their application in [algorithmic trading](../a/algorithmic_trading.md).
 

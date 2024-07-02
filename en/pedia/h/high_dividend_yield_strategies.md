@@ -1,4 +1,4 @@
-# High Dividend Yield Strategies in Algorithmic Trading
+# High Dividend Yield Strategies
 
 ## Overview
 

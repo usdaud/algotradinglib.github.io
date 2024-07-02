@@ -1,4 +1,4 @@
-# Convolutional Neural Networks (CNN) in Trading
+# Convolutional Neural Networks (CNN)
 
 Convolutional Neural Networks (CNN), primarily known as a tool in the field of computer vision, have provided groundbreaking advancements in many other domains. One such domain is trading. This comprehensive explanation details how CNNs operate, their application in trading, notable examples, the potential and challenges of using CNNs, and future trends.
 

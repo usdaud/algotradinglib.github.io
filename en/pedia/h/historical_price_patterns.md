@@ -1,4 +1,4 @@
-# Historical Price Patterns in Algorithmic Trading
+# Historical Price Patterns
 
 ## Introduction to Historical Price Patterns
 

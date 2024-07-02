@@ -1,4 +1,4 @@
-# Comparative Analysis in Algorithmic Trading
+# Comparative Analysis
 
 [Algorithmic trading](../a/algorithmic_trading.md), often referred to as "algo trading," involves the use of computer programs and systems to execute trades in financial markets according to predefined criteria. It leverages mathematical models and complex algorithms to make high-frequency and high-volume trades that would be impossible for human traders to execute manually. The purpose of this comprehensive comparative analysis is to explore the various aspects of [algorithmic trading](../a/algorithmic_trading.md), its methodologies, [performance metrics](../p/performance_metrics.md), advantages and disadvantages, as well as a look into some of the leading companies in the space.
 

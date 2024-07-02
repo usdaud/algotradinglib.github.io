@@ -1,4 +1,4 @@
-# Classification Algorithms in Algorithmic Trading
+# Classification Algorithms
 
 ### Introduction
 Classification algorithms are a type of supervised learning algorithms that are used to categorize or classify data into specific categories or classes. In the context of [algorithmic trading](../a/algorithmic_trading.md), these algorithms help traders make decisions by classifying financial data into different categories, such as "buy", "sell", or "hold" signals. They are essential for predicting the direction of price movements, identifying trading opportunities, and [risk management](../r/risk_management.md).

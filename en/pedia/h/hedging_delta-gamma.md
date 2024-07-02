@@ -1,4 +1,4 @@
-## Hedging Delta-Gamma
+# Hedging Delta-Gamma
 
 [Hedging Delta](../h/hedging_delta.md)-Gamma is a sophisticated [risk management](../r/risk_management.md) strategy used extensively in option trading and [portfolio management](../p/portfolio_management.md). This technique focuses on mitigating risks associated with the non-linear sensitivity of an option's price to changes in the underlying asset's price and its volatility. The strategy requires a deep understanding of options Greeks, particularly Delta and Gamma, and involves complex mathematical models and real-time adjustments to maintain a balanced and neutral portfolio.
 

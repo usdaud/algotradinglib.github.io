@@ -1,4 +1,4 @@
-# Change Point Detection in Algorithmic Trading
+# Change Point Detection
 
 Change Point Detection (CPD) refers to the process of identifying points in time where the statistical properties of a sequence of observations change. In the context of [algorithmic trading](../a/algorithmic_trading.md), change point detection can be crucial for identifying changes in market regimes, volatility shifts, or other significant events that could affect [trading strategies](../t/trading_strategies.md).
 

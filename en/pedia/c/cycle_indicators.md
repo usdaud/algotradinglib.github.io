@@ -1,4 +1,4 @@
-# Cycle Indicators in Algorithmic Trading
+# Cycle Indicators
 
 Cycle indicators are a sophisticated class of tools used in [technical analysis](../t/technical_analysis.md) to identify recurring [price patterns](../p/price_patterns.md) in asset prices. These tools help traders predict future price movements based on historical cycles, thus offering a potential edge in trading. Let’s delve deep into the realm of cycle indicators, their types, significance, and how they impact [algorithmic trading](../a/algorithmic_trading.md).
 

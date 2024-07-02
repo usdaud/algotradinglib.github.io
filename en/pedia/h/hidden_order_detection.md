@@ -1,4 +1,4 @@
-# Hidden Order Detection in Algorithmic Trading
+# Hidden Order Detection
 
 Hidden order detection is a critical aspect of [algorithmic trading](../a/algorithmic_trading.md), where advanced techniques are utilized to uncover large orders placed in the market that are not readily visible to the public. This practice is essential for traders to understand the market dynamics better, avoid adverse price movements, and capitalize on the detected large orders to achieve favorable trading outcomes.
 

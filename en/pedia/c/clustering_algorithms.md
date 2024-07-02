@@ -1,4 +1,4 @@
-# Clustering Algorithms in Algo Trading
+# Clustering Algorithms
 
 ## What is Clustering?
 
