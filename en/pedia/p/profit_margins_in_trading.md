@@ -1,4 +1,4 @@
-# Profit Margins in Trading
+# Profit Margins
 
 Profit margins in trading represent the percentage of revenue that exceeds the costs of trading activities. They are a crucial measure of profitability and efficiency within any trading strategy or business. Profit margins are important not just for companies, but also for individual traders who aim to maximize returns while minimizing risks and costs.
 

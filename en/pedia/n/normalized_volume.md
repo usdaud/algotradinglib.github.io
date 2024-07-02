@@ -1,4 +1,4 @@
-# Normalized Volume in Algorithmic Trading
+# Normalized Volume
 
 Normalized volume is a significant concept in [algorithmic trading](../a/algorithmic_trading.md), an area of finance where trading decisions are made through intricate computer algorithms. This method pertains to adjusting the trading volume data to a common scale, enabling traders to make more informed decisions by analyzing patterns and anomalies. Normalized volume is critical in the analysis of stock movements and is often employed to detect unusual trading activity that may precede significant price changes.
 

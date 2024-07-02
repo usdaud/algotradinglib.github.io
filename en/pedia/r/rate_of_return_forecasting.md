@@ -1,4 +1,4 @@
-### Rate of Return Forecasting in Algorithmic Trading
+# Rate of Return Forecasting
 
 Rate of return forecasting is a critical component in the realm of [algorithmic trading](../a/algorithmic_trading.md). This subject spans several sophisticated techniques and methodologies designed to predict the future returns of various financial instruments. Accurate forecasting is essential for developing effective [trading strategies](../t/trading_strategies.md), [risk management](../r/risk_management.md), and [portfolio optimization](../p/portfolio_optimization.md). In this comprehensive overview, we will delve into the key concepts, methods, and advancements in rate of return forecasting.
 

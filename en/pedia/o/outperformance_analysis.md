@@ -1,4 +1,4 @@
-# Outperformance Analysis in Algorithmic Trading
+# Outperformance Analysis
 
 Outperformance Analysis is a critical facet in the domain of [algorithmic trading](../a/algorithmic_trading.md) that involves quantifying and understanding the performance of a trading strategy relative to a benchmark or a set of benchmarks. This process enables traders and financial analysts to discern the efficacy of their algorithms and make data-driven decisions to optimize their [trading strategies](../t/trading_strategies.md).
 

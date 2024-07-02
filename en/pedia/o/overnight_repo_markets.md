@@ -1,4 +1,4 @@
-## Overnight Repo Markets
+# Overnight Repo Markets
 
 An Overnight Repo Market is a financial market where participants engage in short-term borrowing and lending of securities, usually government bonds, through repurchase agreements (repos). In such transactions, the borrower sells securities to a lender with the agreement to repurchase them at a specified price on the following day. The difference between the sale and repurchase price reflects the interest cost of borrowing. This market plays a crucial role in financial stability and liquidity management for financial institutions, central banks, and other market participants.
 

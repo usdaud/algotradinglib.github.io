@@ -1,4 +1,4 @@
-## Pattern Matching in Trading
+# Pattern Matching
 
 Pattern matching in trading refers to the use of algorithms to identify similar patterns in historical price data and use those patterns to predict future price movements. This technique is a key component of [algorithmic trading](../a/algorithmic_trading.md) strategies, where trading decisions are made automatically by sophisticated computer algorithms without human intervention. Pattern matching can involve various types of price behaviors, including trends, reversals, and specific formations such as head and shoulders, double tops, or other [chart patterns](../c/chart_patterns.md). This article delves deep into the intricacies of pattern matching in trading and its significance in [algorithmic trading](../a/algorithmic_trading.md).
 

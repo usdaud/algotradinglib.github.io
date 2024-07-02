@@ -1,4 +1,4 @@
-## Relative Value Arbitrage
+# Relative Value Arbitrage
 
 Relative Value [Arbitrage](../a/arbitrage.md) is a financial trading strategy that involves identifying and exploiting small price discrepancies between related financial instruments. This strategy seeks to profit from the convergence of the relative prices of these instruments. Typically, traders use complex mathematical models and algorithms to identify these discrepancies and to execute trades that capitalize on them. Relative Value [Arbitrage](../a/arbitrage.md) is commonly used in hedge funds and other forms of institutional trading.
 

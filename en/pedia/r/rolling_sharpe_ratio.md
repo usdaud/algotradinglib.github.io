@@ -1,4 +1,4 @@
-## Rolling Sharpe Ratio
+# Rolling Sharpe Ratio
 
 The Rolling [Sharpe Ratio](../s/sharpe_ratio.md) is a dynamic measure used in [quantitative finance](../q/quantitative_finance.md) and [algorithmic trading](../a/algorithmic_trading.md) to assess the risk-adjusted performance of an asset or trading strategy over a specified rolling window period. Unlike the conventional [Sharpe Ratio](../s/sharpe_ratio.md), which is static and calculated over the entire sample period, the Rolling [Sharpe Ratio](../s/sharpe_ratio.md) provides a time-series of Sharpe Ratios, allowing for a more granular view of performance fluctuations over time.
 

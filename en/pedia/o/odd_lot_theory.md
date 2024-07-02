@@ -1,4 +1,4 @@
-# Odd Lot Theory in Algorithmic Trading
+# Odd Lot Theory
 
 Odd Lot Theory is a market sentiment hypothesis that speculates that small investors (those who typically execute odd-lot transactions) are generally misguided in their buy and sell decisions. According to this theory, when these small investors are predominantly selling odd lots, it may indicate that the market is about to rise, as they are usually considered wrong in their timing. Conversely, if these investors are predominantly buying odd lots, it could signify a market downturn.
 

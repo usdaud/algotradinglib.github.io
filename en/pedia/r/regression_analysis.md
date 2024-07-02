@@ -1,4 +1,4 @@
-# Regression Analysis in Algorithmic Trading
+# Regression Analysis
 
 Regression analysis is a sophisticated statistical method used in [algorithmic trading](../a/algorithmic_trading.md) to understand the relationships between different financial variables. In the context of trading, it helps in predicting future price movements, identifying trading opportunities, and optimizing [trading strategies](../t/trading_strategies.md). Regression models can range from simple linear regressions to complex multivariate and non-linear models. This comprehensive guide delves into the various facets of regression analysis, its applications in [algorithmic trading](../a/algorithmic_trading.md), and how traders and quants can leverage it to gain a competitive edge.
 

@@ -1,4 +1,4 @@
-# Performance Analytics in Algorithmic Trading
+# Performance Analytics
 
 Performance analytics is an essential component of [algorithmic trading](../a/algorithmic_trading.md). It involves the evaluation, measurement, and monitoring of the performance of [trading strategies](../t/trading_strategies.md) and algorithms. The goal is to understand the efficacy of [trading strategies](../t/trading_strategies.md), detect issues, and optimize performance. Below, we will explore various aspects of performance analytics in the context of [algorithmic trading](../a/algorithmic_trading.md), covering metrics, tools, methodologies, and case studies.
 

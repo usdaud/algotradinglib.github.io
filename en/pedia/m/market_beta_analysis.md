@@ -1,4 +1,4 @@
-# **Market Beta Analysis**
+# Market Beta Analysis
 
 Market beta analysis is a crucial concept in the field of finance, particularly within the realm of investment strategies and [risk management](../r/risk_management.md). Beta, denoted by the Greek letter β, is a measure of the volatility or [systematic risk](../s/systematic_risk.md) of a security or portfolio in comparison to the market as a whole. In essence, beta indicates how much the price of an asset moves in relation to movements in the overall market. This analysis is pivotal for investors, portfolio managers, and financial analysts seeking to understand the risk profile of assets and to construct diversified portfolios that align with their risk tolerance and return expectations.
 

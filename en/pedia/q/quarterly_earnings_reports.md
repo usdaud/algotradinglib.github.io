@@ -1,4 +1,4 @@
-# Quarterly Earnings Reports in Algorithmic Trading
+# Quarterly Earnings Reports
 
 Quarterly earnings reports are a fundamental aspect of financial analysis and [algorithmic trading](../a/algorithmic_trading.md). These reports are released by publicly-traded companies every three months and provide detailed insights into a company's financial performance. Algorithmic traders, who rely on sophisticated algorithms to make trading decisions, use quarterly earnings reports as a key dataset to inform their strategies. This comprehensive analysis will cover the significance, content, release protocols, and impact of quarterly earnings reports on [algorithmic trading](../a/algorithmic_trading.md).
 

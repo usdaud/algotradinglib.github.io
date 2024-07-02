@@ -1,4 +1,4 @@
-# Overbought Indicators in Algorithmic Trading
+# Overbought Indicators
 
 ## Introduction
 

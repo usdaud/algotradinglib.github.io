@@ -1,4 +1,4 @@
-## Risk Parity
+# Risk Parity
 
 Risk parity is an investment strategy that focuses on allocating risk, rather than capital, equally among the components of a portfolio. This approach contrasts with traditional [asset allocation](../a/asset_allocation.md) strategies, which typically distribute capital based on predefined percentages, often leading to a mismatch in risk exposure due to differences in the volatility of assets.
 

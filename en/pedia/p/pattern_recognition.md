@@ -1,4 +1,4 @@
-# **Pattern Recognition in Algorithmic Trading**
+# Pattern Recognition
 
 Pattern recognition in [algorithmic trading](../a/algorithmic_trading.md) is the process of identifying regularities in financial market data which can then be used to predict future movements or identify profitable trading opportunities. This is a crucial aspect of modern [quantitative finance](../q/quantitative_finance.md) and involves using advanced mathematical models, statistical techniques, and machine learning algorithms to dissect and interpret vast amounts of market data.
 

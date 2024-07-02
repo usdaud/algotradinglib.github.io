@@ -1,4 +1,4 @@
-# Networked Trading Systems in Algorithmic Trading
+# Networked Trading Systems
 
 Networked [trading systems](../t/trading_systems.md) play a critical role in the world of [algorithmic trading](../a/algorithmic_trading.md) by enabling efficient, high-frequency transactions and bridging communication gaps between different trading platforms and financial markets. These systems contribute significantly to the speed, precision, and reliability of trading operations. This document provides an in-depth exploration of networked [trading systems](../t/trading_systems.md), their architecture, components, technologies, and impact on [algorithmic trading](../a/algorithmic_trading.md).
 

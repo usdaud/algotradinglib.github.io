@@ -1,4 +1,4 @@
-## Return on Tangible Equity (ROTE)
+# Return on Tangible Equity (ROTE)
 
 ### Introduction
 

@@ -1,4 +1,4 @@
-## Non-Central T Distribution
+# Non-Central T Distribution
 
 The Non-Central T Distribution is a generalization of the Student's T Distribution, widely used in statistical inference and [hypothesis testing](../h/hypothesis_testing.md). The non-central t distribution arises when the data has a non-zero mean, i.e., when the population mean is not assumed to be zero. It has applications spanning various domains including finance, particularly in areas like [algorithmic trading](../a/algorithmic_trading.md) (algotrading), where it plays a role in performance analysis, [risk management](../r/risk_management.md), and [backtesting](../b/backtesting.md) of [trading strategies](../t/trading_strategies.md).
 

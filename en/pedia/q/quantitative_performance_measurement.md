@@ -1,4 +1,4 @@
-## Quantitative Performance Measurement
+# Quantitative Performance Measurement
 
 Quantitative Performance Measurement (QPM) is a systematic approach to assessing and evaluating the effectiveness and performance of [trading strategies](../t/trading_strategies.md), financial models, and investment portfolios using quantitative metrics and statistical analysis. In the context of [algorithmic trading](../a/algorithmic_trading.md) and financial markets, QPM is essential for understanding the strengths and weaknesses of different [trading strategies](../t/trading_strategies.md), ensuring [risk management](../r/risk_management.md), and improving returns. This document will delve into various aspects of QPM, focusing on key metrics, methodologies, tools, and best practices.
 

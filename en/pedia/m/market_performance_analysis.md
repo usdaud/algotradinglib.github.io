@@ -1,4 +1,4 @@
-# Market Performance Analysis in Algorithmic Trading
+# Market Performance Analysis
 
 Market performance analysis in [algorithmic trading](../a/algorithmic_trading.md) involves evaluating the effectiveness of [trading algorithms](../t/trading_algorithms.md) or strategies based on various [performance metrics](../p/performance_metrics.md). This is crucial for traders and investors to optimize [trading strategies](../t/trading_strategies.md), manage risk, and achieve better returns. Below, we will delve into key aspects of market performance analysis, including primary metrics, methods of [backtesting](../b/backtesting.md), optimization techniques, and real-world applications.
 

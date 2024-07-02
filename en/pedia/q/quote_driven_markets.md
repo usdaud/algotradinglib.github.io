@@ -1,4 +1,4 @@
-# **Quote Driven Markets**
+# Quote Driven Markets
 
 Quote driven markets, also referred to as dealer markets, are financial markets in which market makers provide continuous buy and sell prices (quotes) for a specific set of securities. These market makers are typically financial institutions or brokerage firms that stand ready to buy or sell securities from their own inventories. Let's dive deeper into the intricacies of quote-driven markets and the mechanisms that make them function efficiently.
 

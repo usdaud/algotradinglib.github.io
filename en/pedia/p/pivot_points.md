@@ -1,4 +1,4 @@
-# Pivot Points in Algorithmic Trading
+# Pivot Points
 
 Pivot Points are widely used [technical analysis](../t/technical_analysis.md) tools in the financial markets, especially by day traders, to identify potential [support and resistance](../s/support_and_resistance.md) levels. These levels are derived from the previous day’s high, low, and closing prices, providing a framework for [trading strategies](../t/trading_strategies.md) in the current trading session. Their significance lies in their ability to predict market movements, making them valuable for both traditional and [algorithmic trading](../a/algorithmic_trading.md). 
 

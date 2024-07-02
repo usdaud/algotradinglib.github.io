@@ -1,4 +1,4 @@
-# Overnight Risk Management in Algorithmic Trading
+# Overnight Risk Management
 
 Overnight [risk management](../r/risk_management.md) is a crucial aspect of [algorithmic trading](../a/algorithmic_trading.md). It involves mitigating the potential risks associated with holding open trade positions overnight, particularly because the financial markets can exhibit significant volatility due to news events, economic data releases, geopolitical developments, or other factors that occur after market hours. Effective overnight [risk management](../r/risk_management.md) is vital for ensuring that the trading strategy remains robust and the trading portfolio retains its value.
 

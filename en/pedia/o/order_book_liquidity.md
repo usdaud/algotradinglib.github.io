@@ -1,4 +1,4 @@
-# Order Book Liquidity in Algorithmic Trading
+# Order Book Liquidity
 
 Order book liquidity is a critical concept in the realm of [algorithmic trading](../a/algorithmic_trading.md), impacting the effectiveness of trade execution and overall market stability. In this document, we'll explore the intricacies of order book liquidity, its measurement, significance, and the various factors influencing it.
 

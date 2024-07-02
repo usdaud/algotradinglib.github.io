@@ -1,4 +1,4 @@
-# Noise Reduction Techniques in Algorithmic Trading
+# Noise Reduction Techniques
 
 [Algorithmic trading](../a/algorithmic_trading.md), or algo-trading, involves using computer programs to automate the process of buying and selling financial securities. One of the significant challenges in [algorithmic trading](../a/algorithmic_trading.md) is handling the "noise" in financial market data. Noise refers to all the non-relevant data points and fluctuations that obscure the true underlying trends in the financial markets. Effective noise reduction techniques are crucial for enhancing prediction accuracy, reducing trading risks, and improving overall [trading performance](../t/trading_performance.md).
 

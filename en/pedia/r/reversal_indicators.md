@@ -1,4 +1,4 @@
-### Reversal Indicators in Algorithmic Trading
+# Reversal Indicators
 
 In the intricate world of trading, particularly [algorithmic trading](../a/algorithmic_trading.md), reversal indicators play a critical role. Reversal indicators are tools used by traders to predict potential changes in market trends. They help identify the points at which the current market trend (upward or downward) may be likely to reverse direction. This document delves deeply into various reversal indicators, their applications, benefits, and potential pitfalls.
 

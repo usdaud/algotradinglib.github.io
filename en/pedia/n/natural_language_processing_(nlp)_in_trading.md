@@ -1,4 +1,4 @@
-## Natural Language Processing (NLP) in Trading
+# Natural Language Processing
 
 Natural Language Processing (NLP) is a subfield of artificial intelligence (AI) that focuses on the interaction between computers and human language. In the context of trading, NLP is used to analyze and interpret large volumes of unstructured text data, such as news articles, social media posts, earnings reports, and more. This analysis helps in making informed trading decisions by extracting actionable insights from textual data. Below, we dive into various aspects of NLP in trading, including its applications, techniques, challenges, and benefits.
 

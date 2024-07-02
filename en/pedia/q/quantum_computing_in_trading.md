@@ -1,5 +1,4 @@
-# Quantum Computing in Trading
-===================================
+# Quantum Computing
 
 **Introduction**
 

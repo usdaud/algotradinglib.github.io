@@ -1,4 +1,4 @@
-# Non-Directional Trading in Algorithmic Trading
+# Non-Directional Trading
 
 Non-directional trading, also known as market-neutral trading, is a sophisticated strategy commonly employed in [algorithmic trading](../a/algorithmic_trading.md) that seeks to exploit market inefficiencies and generate profits regardless of the direction of the underlying market or security. This approach involves creating a balanced portfolio with both long and short positions to offset market movements, aiming for a zero net market exposure. Unlike traditional [trading strategies](../t/trading_strategies.md) that rely on predicting the market direction, non-directional trading focuses on relative performance between selected assets, aiming to minimize risk and maximize returns through diversification and hedging techniques.
 

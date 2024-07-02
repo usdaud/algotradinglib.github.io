@@ -1,4 +1,4 @@
-# Quasi-Random Sequences in Trading
+# Quasi-Random Sequences
 
 ## Introduction
 Quasi-random sequences, also known as low-discrepancy sequences, are widely used in various fields of [computational finance](../c/computational_finance.md), including the domain of [algorithmic trading](../a/algorithmic_trading.md). Low-discrepancy sequences offer a reliable alternative to pseudo-random number generators, such as the ones found in traditional [Monte Carlo simulation](../m/monte_carlo_simulation.md) methods. Their application in trading enhances the precision and efficiency of modeling complex financial phenomena, ultimately leading to more informed [trading strategies](../t/trading_strategies.md) and decisions.

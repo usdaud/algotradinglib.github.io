@@ -1,4 +1,4 @@
-# Non-Convergence in Trading
+# Non-Convergence
 
 Non-convergence is a critical and often perplexing phenomenon in the domain of trading, particularly in [algorithmic trading](../a/algorithmic_trading.md). It deals with situations where [trading strategies](../t/trading_strategies.md) or financial models fail to stabilize or converge to a reliable outcome over time, leading to inconsistent results. This concept has profound implications for traders, quantitative analysts, and financial engineers who rely on algorithmic models to execute high-frequency trades, manage portfolios, or conduct risk assessments.
 

@@ -1,4 +1,4 @@
-# Real-Time Volatility in Algorithmic Trading
+# Real-Time Volatility
 
 Real-time volatility is a crucial concept in the realm of [algorithmic trading](../a/algorithmic_trading.md), referring to the instantaneous measurement and analysis of price fluctuations of financial instruments. This parameter is essential for traders and algorithms that rely on high-frequency trading (HFT) and automated decision-making, where the speed of execution and the accuracy of market predictions significantly impact profitability.
 

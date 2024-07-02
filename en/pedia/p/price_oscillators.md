@@ -1,4 +1,4 @@
-## Price Oscillators in Algorithmic Trading
+# Price Oscillators
 
 ### Introduction to Oscillators
 

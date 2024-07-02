@@ -1,4 +1,4 @@
-### Understanding Return on Assets (ROA) in Algorithmic Trading
+# Return on Assets
 
 Return on Assets (ROA) is a crucial financial metric that quantifies a company's profitability in relation to its total assets. It represents the efficiency with which a company can manage its assets to generate earnings. This metric is particularly valuable in the context of [algorithmic trading](../a/algorithmic_trading.md), where automated systems rely on various financial indicators to make informed trading decisions. In this comprehensive guide, we will delve into the intricacies of ROA, how it is calculated, its significance in [algorithmic trading](../a/algorithmic_trading.md), and the factors influencing it. We'll also explore some case studies and examples involving companies that are pivotal in this domain.
 

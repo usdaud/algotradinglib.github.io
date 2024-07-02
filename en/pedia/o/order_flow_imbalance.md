@@ -1,4 +1,4 @@
-## Order Flow Imbalance
+# Order Flow Imbalance
 
 Order flow imbalance is a quantitative metric used in financial markets, particularly in [algorithmic trading](../a/algorithmic_trading.md), to analyze and predict price movements based on the volume of buy and sell orders. This imbalance can provide critical insights into the supply and demand dynamics of an asset, offering traders valuable information to optimize their [trading strategies](../t/trading_strategies.md).
 

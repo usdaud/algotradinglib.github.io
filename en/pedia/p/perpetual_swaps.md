@@ -1,4 +1,4 @@
-# Perpetual Swaps in Algorithmic Trading
+# Perpetual Swaps
 
 ## Introduction
 Perpetual swaps are a type of derivative instrument that has gained significant popularity in the realm of cryptocurrency trading and [algorithmic trading](../a/algorithmic_trading.md). Unlike traditional [futures contracts](../f/futures_contracts.md), perpetual swaps do not have an expiry date, allowing traders to hold their positions indefinitely. They were first introduced by BitMEX and have since become a staple product on many major cryptocurrency exchanges.

@@ -1,4 +1,4 @@
-# Quantitative Models in Algorithmic Trading
+# Quantitative Models
 
 [Algorithmic trading](../a/algorithmic_trading.md), often referred to as "algo trading," is the process of using computers programmed to follow a defined set of instructions (an algorithm) for placing a trade in order to generate profits at a speed and frequency that is impossible for a human trader. One of the core components of [algorithmic trading](../a/algorithmic_trading.md) is the use of quantitative models, which are mathematical models used for identifying trading opportunities and making trade decisions.
 

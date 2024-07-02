@@ -1,4 +1,4 @@
-# Risk Management Techniques in Algorithmic Trading
+# Risk Management Techniques
 
 [Risk management](../r/risk_management.md) is a critical component of any trading strategy, especially in [algorithmic trading](../a/algorithmic_trading.md) where automated systems execute trades at high speeds with potentially significant volumes. This section explores various techniques and tools to manage risk effectively in [algorithmic trading](../a/algorithmic_trading.md).
 

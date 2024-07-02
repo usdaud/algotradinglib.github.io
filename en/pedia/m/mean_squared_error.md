@@ -1,4 +1,4 @@
-# Mean Squared Error (MSE)
+# Mean Squared Error
 
 Mean Squared Error (MSE) is a standard way to measure the error of a quantitative prediction model. It is widely used in the field of statistics, signal processing, econometrics, machine learning, and many other disciplines. In the context of [algorithmic trading](../a/algorithmic_trading.md), MSE can be an essential tool for evaluating the accuracy of predictive models concerning financial data.
 

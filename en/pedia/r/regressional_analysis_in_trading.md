@@ -1,4 +1,4 @@
-# Regressional Analysis in Trading
+# Regressional Analysis
 
 [Regression analysis](../r/regression_analysis.md) is a powerful statistical method that allows you to examine the relationship between two or more variables of interest. While it is usually applied in various fields such as economics, finance, biology, and engineering, it has also become an indispensable tool in trading, specifically in [algorithmic trading](../a/algorithmic_trading.md) (algo-trading). Algo-trading leverages the speed and decisiveness of algorithms to execute trading decisions based on pre-defined criteria. This document provides a detailed explanation of how [regression analysis](../r/regression_analysis.md) is utilized in the trading world.
 

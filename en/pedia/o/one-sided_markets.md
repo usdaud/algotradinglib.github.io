@@ -1,4 +1,4 @@
-# One-Sided Markets in Algorithmic Trading
+# One-Sided Markets
 
 ## Introduction to One-Sided Markets
 

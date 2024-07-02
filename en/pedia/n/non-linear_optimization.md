@@ -1,4 +1,4 @@
-# Non-Linear Optimization in Algorithmic Trading
+# Non-Linear Optimization
 
 Non-linear optimization is a crucial aspect of [algorithmic trading](../a/algorithmic_trading.md), involving mathematical techniques used to find the best outcome in a model with non-linear constraints. Unlike its linear counterpart, non-linear optimization deals with problems where the relationship between variables is non-linear, making it more complex and computationally intensive. This complexity, however, allows for more flexible and accurate models that can better capture the intricacies of financial markets.
 

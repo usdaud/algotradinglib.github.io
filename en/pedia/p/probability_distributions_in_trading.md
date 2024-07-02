@@ -1,5 +1,4 @@
-# Probability Distributions in Trading
-====================================
+# Probability Distributions
 
 Understanding probability distributions is crucial in the field of [quantitative finance](../q/quantitative_finance.md) and [algorithmic trading](../a/algorithmic_trading.md). These distributions help traders and financial analysts assess the potential outcomes of trades, manage risk, and develop robust [trading strategies](../t/trading_strategies.md). In this deep dive, we will explore the key types of probability distributions that are frequently employed in trading, explain their significance, and discuss how they are applied in the [algorithmic trading](../a/algorithmic_trading.md) domain.
 

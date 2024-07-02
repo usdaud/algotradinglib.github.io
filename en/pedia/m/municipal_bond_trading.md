@@ -1,4 +1,4 @@
-# Municipal Bond Trading: A Comprehensive Guide
+# Municipal Bond Trading
 
 ### Introduction
 

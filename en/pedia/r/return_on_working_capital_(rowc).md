@@ -1,4 +1,5 @@
-## Return on Working Capital (ROWC)
+# Return on Working Capital (ROWC)
+
 Return on Working Capital (ROWC) is an important financial metric used by businesses and investors to evaluate the efficiency and profitability of a company's use of its working capital. Calculated by dividing a company's operating income by its working capital, this metric provides critical insights into how well a company is utilizing its available resources to generate earnings before interest and taxes (EBIT). 
 
 ### Definition and Calculation

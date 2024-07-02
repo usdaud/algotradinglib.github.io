@@ -1,4 +1,4 @@
-## Noise Filter Techniques in Algorithmic Trading
+# Noise Filter Techniques
 
 In [algorithmic trading](../a/algorithmic_trading.md), noise filtering is an essential process to reduce market noise and improve the reliability of [trading signals](../t/trading_signals.md). Market noise refers to the random price fluctuations and insignificant movements that do not reflect the underlying trend or meaningful market activity. Effective noise filtering techniques help in distinguishing between true market signals and random noise, which aids in making better trading decisions.
 

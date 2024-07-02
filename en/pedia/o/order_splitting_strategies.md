@@ -1,4 +1,4 @@
-# Order Splitting Strategies in Algorithmic Trading
+# Order Splitting Strategies
 
 Order splitting strategies are critical techniques in [algorithmic trading](../a/algorithmic_trading.md), designed to minimize market impact and optimize trade execution. When traders execute large orders, they can significantly affect the market price. By breaking these large orders into smaller ones, the impact on the market can be mitigated, leading to better execution prices and reduced slippage.
 

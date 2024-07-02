@@ -1,4 +1,4 @@
-# Regression Trees in Trading
+# Regression Trees
 
 Regression trees are a type of machine learning algorithm used for predicting continuous values. In the context of trading, regression trees can be instrumental in forecasting stock prices, asset volatility, and other financial metrics. They are a non-parametric supervised learning method used both for classification and regression. In finance, regression trees are often utilized due to their simplicity, interpretability, and ability to handle non-linear relationships between inputs and outputs.
 

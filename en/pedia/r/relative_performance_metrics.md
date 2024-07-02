@@ -1,4 +1,4 @@
-### Relative Performance Metrics
+# Relative Performance Metrics
 
 In the realm of [algorithmic trading](../a/algorithmic_trading.md), evaluating the performance of [trading algorithms](../t/trading_algorithms.md) is crucial. Relative [performance metrics](../p/performance_metrics.md) are a set of measures designed to assess how well a trading strategy performs compared to a benchmark or other strategies. These metrics are particularly useful for fund managers, individual investors, and traders to ensure that their [trading models](../t/trading_models.md) generate maximum returns while managing risk effectively. Below are some of the most widely used relative [performance metrics](../p/performance_metrics.md) in [algorithmic trading](../a/algorithmic_trading.md), their calculation methodologies, and their implications.
 

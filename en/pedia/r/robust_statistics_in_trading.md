@@ -1,4 +1,4 @@
-# Robust Statistics in Trading
+# Robust Statistics
 
 Robust statistics is a branch of statistics that focuses on techniques that remain reliable and accurate even when the assumptions of traditional statistical methods are violated. In the context of trading, robust statistical methods provide tools to manage outliers, noise, and non-normality in market data, ensuring more reliable and resilient [trading strategies](../t/trading_strategies.md). This discourse delves deeply into the primary concepts, methodologies, and practical implementations of robust statistics in trading, underpinned by real-world applications and insights from the field.
 

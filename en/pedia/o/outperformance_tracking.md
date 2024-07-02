@@ -1,4 +1,4 @@
-# Outperformance Tracking in Algorithmic Trading
+# Outperformance Tracking
 
 Outperformance tracking is an intricate and critical function in [algorithmic trading](../a/algorithmic_trading.md) aimed at gauging the effectiveness of [trading strategies](../t/trading_strategies.md). The primary goal is to exceed a predefined benchmark or market index. This extensive process involves various methods, technologies, and tools to track and analyze the performance of investments relative to predefined benchmarks. Outperformance tracking hinges on numerous metrics, analytics, and assessment techniques to identify whether a given trading strategy surpasses the market or selected index.
 

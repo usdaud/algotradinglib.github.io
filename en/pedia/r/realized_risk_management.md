@@ -1,4 +1,4 @@
-## Realized Risk Management
+# Realized Risk Management
 
 Realized [risk management](../r/risk_management.md) is a critical aspect of [algorithmic trading](../a/algorithmic_trading.md) that focuses on assessing, addressing, and managing the risks associated with [trading strategies](../t/trading_strategies.md) after trades have been executed. Proper [risk management](../r/risk_management.md) ensures the sustainability and profitability of trading operations by minimizing potential losses and optimizing returns.
 

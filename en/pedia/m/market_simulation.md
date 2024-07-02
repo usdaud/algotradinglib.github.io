@@ -1,4 +1,4 @@
-# **Market Simulation**
+# Market Simulation
 
 Market simulation is a detailed model of a financial market used to replicate the [trading environment](../t/trading_environment.md), economic conditions, and behavior of market participants. These simulations are utilized by financial institutions, traders, and researchers to test [trading algorithms](../t/trading_algorithms.md), [risk management](../r/risk_management.md) strategies, and understand market dynamics without exposing real capital to risk.
 

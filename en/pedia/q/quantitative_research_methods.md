@@ -1,4 +1,4 @@
-# Quantitative Research Methods in Algorithmic Trading
+# Quantitative Research Methods
 
 [Quantitative research](../q/quantitative_research.md) methods in [algorithmic trading](../a/algorithmic_trading.md) involve the systematic analysis of numerical data to develop, test, and deploy [trading strategies](../t/trading_strategies.md) based on quantifiable factors. Having robust quantitative methods is crucial for creating algorithms that can make informed trading decisions. This document delves into various aspects of [quantitative research](../q/quantitative_research.md) methods used in [algorithmic trading](../a/algorithmic_trading.md).
 

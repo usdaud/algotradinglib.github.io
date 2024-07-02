@@ -1,4 +1,4 @@
-# Occupancy Rates in Trading
+# Occupancy Rates
 
 ## Introduction
 Occupancy rates are a critical metric in trading, particularly in highly competitive and capital-intensive markets such as equities, commodities, forex, and [derivatives](../d/derivatives.md). While the term is more commonly associated with real estate and hospitality, in a trading context, occupancy rates refer to the utilization and efficiency of capital resources, [trading strategies](../t/trading_strategies.md), and infrastructure. Understanding and optimizing occupancy rates can provide a competitive edge, improve profitability, and mitigate risks.

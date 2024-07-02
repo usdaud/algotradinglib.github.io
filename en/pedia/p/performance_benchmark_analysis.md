@@ -1,4 +1,4 @@
-# Performance Benchmark Analysis in Algorithmic Trading
+# Performance Benchmark Analysis
 
 Performance benchmark analysis in [algorithmic trading](../a/algorithmic_trading.md) refers to the process of evaluating the performance of [trading algorithms](../t/trading_algorithms.md) relative to a predefined benchmark. This is crucial for traders and developers to understand the effectiveness of their [trading strategies](../t/trading_strategies.md), make necessary adjustments, and optimize for better returns. This document will dive deep into various aspects of performance benchmark analysis in [algorithmic trading](../a/algorithmic_trading.md), including common benchmarks, [performance metrics](../p/performance_metrics.md), tools, and best practices.
 

@@ -1,4 +1,4 @@
-## Portfolio Performance in Algorithmic Trading
+# Portfolio Performance
 
 Portfolio performance is a critical aspect of [algorithmic trading](../a/algorithmic_trading.md), which involves the use of computer algorithms to automatically make trading decisions and execute trades. [Algorithmic trading](../a/algorithmic_trading.md) leverages statistical and mathematical models to manage and optimize portfolios, aiming to maximize returns while controlling for risk. This document delves into the intricacies of assessing portfolio performance, highlighting key metrics, methodologies, and strategies employed by traders and quantitative analysts.
 

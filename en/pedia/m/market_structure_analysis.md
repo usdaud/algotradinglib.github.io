@@ -1,4 +1,4 @@
-# Market Structure Analysis in Algorithmic Trading
+# Market Structure Analysis
 
 Market structure analysis is a crucial aspect of [algorithmic trading](../a/algorithmic_trading.md) that involves understanding the various elements and characteristics that define the financial markets where trading activities take place. This analysis helps in identifying opportunities, understanding risks, optimizing strategies, and enhancing the performance of [algorithmic trading](../a/algorithmic_trading.md) systems. 
 

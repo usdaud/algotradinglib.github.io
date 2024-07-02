@@ -1,4 +1,4 @@
-# Realized Gains and Losses in Algorithmic Trading
+# Realized Gains and Losses
 
 ## Introduction
 [Algorithmic trading](../a/algorithmic_trading.md), also known as algo trading, involves the use of algorithms to automate trading decisions based on pre-defined criteria. One of the critical aspects for any trader, whether using algorithmic strategies or manual methods, is understanding their realized gains and losses. Realized gains and losses are essential for assessing performance, calculating taxes, and making informed future trading decisions.

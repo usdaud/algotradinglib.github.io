@@ -1,4 +1,4 @@
-# **Multivariate Analysis in Algorithmic Trading**
+# Multivariate Analysis
 
 Multivariate analysis is a cornerstone technique in data analysis that involves the observation and analysis of more than one statistical outcome variable at a time. It is a method used to understand relationships between multiple variables and how they contribute to the outcomes of interest. While it has broad applications across various fields such as biology, medicine, and social sciences, its importance is acutely felt in the domain of finance, particularly in [algorithmic trading](../a/algorithmic_trading.md). [Algorithmic trading](../a/algorithmic_trading.md) involves the use of computer algorithms to trade a large number of stocks based on predetermined criteria. To make profitable trading decisions, it is crucial to understand and analyze multiple market variables simultaneously which is where multivariate analysis comes into play.
 

@@ -1,4 +1,4 @@
-# Mean Absolute Deviation in Algorithmic Trading
+# Mean Absolute Deviation
 
 Mean Absolute Deviation (MAD), also referred to as Mean Absolute Error (MAE), is a statistical measure used in various fields, including finance, to summarize the variability or dispersion of a data set. In the context of [algorithmic trading](../a/algorithmic_trading.md), MAD is utilized to evaluate the performance and risk of [trading algorithms](../t/trading_algorithms.md). This comprehensive analysis covers the definition, calculation, application, and significance of MAD in [algorithmic trading](../a/algorithmic_trading.md).
 

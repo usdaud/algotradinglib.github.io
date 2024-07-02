@@ -1,4 +1,4 @@
-## Positive Momentum
+# Positive Momentum
 
 Positive momentum is a crucial concept in both traditional and [algorithmic trading](../a/algorithmic_trading.md). It refers to the idea that assets which have performed well in the past will continue to perform well in the near future. This phenomenon is based on the tendency of securities to exhibit [autocorrelation](../a/autocorrelation.md) — their past returns can be predictive of future returns. Positive momentum is often contrasted with [mean reversion](../m/mean_reversion.md), which is the idea that assets will return to a long-term average over time.
 

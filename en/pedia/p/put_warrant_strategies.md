@@ -1,4 +1,4 @@
-### Put Warrant Strategies
+# Put Warrant Strategies
 
 A put warrant is a type of financial instrument that gives the holder the right, but not the obligation, to sell a specified amount of an underlying security at a predetermined price before the warrant expires. Put warrants are similar to [put options](../p/put_options.md), but they are typically issued by financial institutions rather than exchanges. They can be a powerful tool for hedging, speculation, and leveraged trading. In this article, we will explore several strategies involving put warrants that traders and investors can employ in different market scenarios.
 

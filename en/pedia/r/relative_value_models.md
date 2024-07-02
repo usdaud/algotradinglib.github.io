@@ -1,5 +1,4 @@
-# Relative Value Models in Algorithmic Trading
-=================================================
+# Relative Value Models
 
 **Introduction**
 

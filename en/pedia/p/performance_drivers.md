@@ -1,4 +1,4 @@
-### Performance Drivers in Algorithmic Trading
+# Performance Drivers
 
 [Algorithmic trading](../a/algorithmic_trading.md), or algo trading, relies heavily on the performance of the algorithms being utilized. Several key factors, or "performance drivers," determine the success and efficiency of these [trading systems](../t/trading_systems.md). This comprehensive examination of performance drivers provides insights into their influence on algo trading and the strategies traders can employ to optimize these factors.
 

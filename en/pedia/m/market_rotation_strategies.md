@@ -1,5 +1,4 @@
 # Market Rotation Strategies
-===========================
 
 Market rotation strategies are a subset of investment strategies that involve shifting asset allocations between different sectors, industries, or asset classes based on changing economic conditions or market performance trends. The primary goal of market rotation is to capitalize on varying phases of the economic cycle and improve [portfolio performance](../p/portfolio_performance.md) by overweighting sectors poised for growth and underweighting those likely to underperform. 
 

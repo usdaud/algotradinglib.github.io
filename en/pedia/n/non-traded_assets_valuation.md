@@ -1,4 +1,4 @@
-## Non-Traded Assets Valuation
+# Non-Traded Assets Valuation
 
 Non-traded assets, also known as illiquid assets, are financial instruments that do not have an active market where they can be readily bought or sold. These assets can include private equity, real estate, over-the-counter (OTC) [derivatives](../d/derivatives.md), venture capital, and various forms of [unlisted securities](../u/unlisted_securities.md). Valuing non-traded assets is a complex process due to the lack of observable market prices and the unique characteristics these assets often exhibit.
 

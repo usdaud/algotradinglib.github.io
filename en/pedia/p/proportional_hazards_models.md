@@ -1,4 +1,4 @@
-# Proportional Hazards Models in the Context of Algorithmic Trading
+# Proportional Hazards Models
 
 ## Introduction
 Proportional hazards models are a class of statistical models primarily used to analyze and interpret time-to-event data. These models are particularly beneficial when dealing with censored data, a common occurrence in financial datasets where not all events have been observed due to the truncation of the study period. In [algorithmic trading](../a/algorithmic_trading.md), proportional hazards models can be utilized to predict the likelihood of certain market events, such as price drops or the failure of a trading strategy within particular time frames. 

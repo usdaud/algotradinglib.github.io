@@ -1,4 +1,4 @@
-# Path Dependency in Trading
+# Path Dependency
 
 Path dependency is a fundamental concept in the field of finance and trading, particularly in the realm of [derivatives](../d/derivatives.md) and [algorithmic trading](../a/algorithmic_trading.md). It refers to financial instruments whose value is dependent not just on the final outcome but on the specific sequence of events that lead to that outcome. Understanding path dependency is crucial for traders, quants, and financial engineers who design and manage complex [trading strategies](../t/trading_strategies.md). This comprehensive overview delves into the nature of path dependency, its implications, and its applications in the trading domain.
 

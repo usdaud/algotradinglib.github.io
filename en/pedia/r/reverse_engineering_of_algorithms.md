@@ -1,4 +1,4 @@
-## Reverse Engineering of Algorithms in Algo Trading
+# Reverse Engineering of Algorithms
 
 Reverse engineering, in the context of [algorithmic trading](../a/algorithmic_trading.md), involves deconstructing a trading algorithm to understand its architectural, functional, and data flow characteristics. The goal of this practice can vary, from improving one’s own [trading strategies](../t/trading_strategies.md) and gaining insights into market movements, to identifying weaknesses and potential risks in existing algorithms. Reverse engineering in the financial domain, particularly in algo trading, is a sophisticated task given the complexity of [trading algorithms](../t/trading_algorithms.md) and the secrecy with which financial institutions guard their [proprietary algorithms](../p/proprietary_algorithms.md).
 

@@ -1,4 +1,4 @@
-# Order Matching Systems in Algorithmic Trading
+# Order Matching Systems
 
 In the landscape of financial markets, the order matching system is a pivotal component that acts as the backbone for executing trades. These systems, sometimes referred to as Electronic Communication Networks (ECNs) or Matching Engines, are responsible for ensuring that buy and sell orders are paired at equitable prices. This document aims to provide a comprehensive overview of order matching systems, their significance in [algorithmic trading](../a/algorithmic_trading.md), and their operational mechanics.
 

@@ -1,4 +1,6 @@
-# Portfolio diversification is a risk management strategy that mixes a wide variety of investments within a portfolio. The rationale is that a diversified portfolio will, on average, yield higher returns and pose a lower risk than any individual investment found within the portfolio. Diversification strives to smooth out unsystematic risks in a portfolio, so the positive performance of some investments neutralizes the negative performance of others.
+# Portfolio Diversification
+
+Portfolio diversification is a risk management strategy that mixes a wide variety of investments within a portfolio. The rationale is that a diversified portfolio will, on average, yield higher returns and pose a lower risk than any individual investment found within the portfolio. Diversification strives to smooth out unsystematic risks in a portfolio, so the positive performance of some investments neutralizes the negative performance of others.
 
 ### Principles of Diversification
 

@@ -1,4 +1,4 @@
-## Realized Returns Analysis
+# Realized Returns Analysis
 
 Realized returns analysis is a crucial aspect of financial analytics that focuses on evaluating the actual gains or losses made from investments over a specific period. Unlike expected returns, which are based on predictions and modeling, realized returns provide concrete data based on historical performance. This analysis is essential for traders, investors, and financial institutions to assess the performance of their investment strategies and make informed decisions. 
 

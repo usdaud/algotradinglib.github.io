@@ -1,4 +1,4 @@
-### Maximum Return Strategies in Algorithmic Trading
+# Maximum Return Strategies
 
 [Algorithmic trading](../a/algorithmic_trading.md), also known as algo-trading or automated trading, involves the use of computer algorithms to execute [trading strategies](../t/trading_strategies.md) at speeds and frequencies that are impossible for human traders. One of the primary goals of these algorithms is to achieve the maximum possible return on investment (ROI). Maximum return strategies are designed to optimize the profit potentials while mitigating risks as much as possible.
 

@@ -1,4 +1,6 @@
-# A runaway gap is a concept in technical analysis used predominantly in stock trading, but it also applies to various financial markets, including forex, commodities, and cryptocurrencies. It is one of the types of gaps identified by technical analysts to make trading decisions based on price patterns. Understanding runaway gaps can significantly enhance an algorithmic trader's strategy by allowing them to better interpret and act on market movements.
+# Runaway Gaps
+
+A runaway gap is a concept in technical analysis used predominantly in stock trading, but it also applies to various financial markets, including forex, commodities, and cryptocurrencies. It is one of the types of gaps identified by technical analysts to make trading decisions based on price patterns. Understanding runaway gaps can significantly enhance an algorithmic trader's strategy by allowing them to better interpret and act on market movements.
 
 ### Understanding Runaway Gaps
 

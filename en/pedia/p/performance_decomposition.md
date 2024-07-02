@@ -1,4 +1,4 @@
-# Performance Decomposition in Algorithmic Trading
+# Performance Decomposition
 
 Performance decomposition is an essential aspect of [algorithmic trading](../a/algorithmic_trading.md), allowing traders and researchers to break down and analyze the various elements that contribute to the overall performance of a trading strategy. By dissecting performance into its components, traders can identify strengths and weaknesses, optimize their strategies, and ultimately improve their trading outcomes. This detailed analysis can provide insights into [risk management](../r/risk_management.md), execution efficiency, market conditions, and other critical factors that influence trading success.
 

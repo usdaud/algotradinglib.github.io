@@ -1,4 +1,4 @@
-# Number of Trades Analysis in Algorithmic Trading
+# Number of Trades Analysis
 
 [Algorithmic trading](../a/algorithmic_trading.md), or "algo trading," utilizes computer algorithms to execute trading orders at high speeds and greater frequencies than a human trader could achieve manually. One critical aspect of algo trading is the number of trades an algorithm executes, as it provides a wealth of information about the strategy's performance, efficiency, and potential profitability. This analysis involves understanding various metrics, methodologies, and tools designed to optimize the number and quality of trades executed.
 

@@ -1,4 +1,4 @@
-# Mean Change Analysis in Algorithmic Trading
+# Mean Change Analysis
 
 Mean change analysis is a statistical technique widely used in the field of [algorithmic trading](../a/algorithmic_trading.md). In essence, it involves examining the changes in the mean values of financial instruments over time to make informed trading decisions. This method capitalizes on the concept of [mean reversion](../m/mean_reversion.md), which implies that asset prices or other financial variables tend to revert to their historical average levels.
 

@@ -1,4 +1,4 @@
-## Return and Risk Analysis in Algorithmic Trading
+# Return and Risk Analysis
 
 ### Introduction
 

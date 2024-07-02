@@ -1,8 +1,4 @@
-# ---
-title: "Risk [Capital Allocation](../c/capital_allocation.md) in [Algorithmic Trading](../a/algorithmic_trading.md)"
-author: "OpenAI"
-date: "2023"
----
+# Risk Capital Allocation
 
 ## Introduction
 

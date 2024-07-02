@@ -1,4 +1,4 @@
-# Position Management in Algorithmic Trading
+# Position Management
 
 ## Introduction to Position Management
 

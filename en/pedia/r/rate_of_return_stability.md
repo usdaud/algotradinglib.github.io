@@ -1,4 +1,4 @@
-# Rate of Return Stability in Algorithmic Trading
+# Rate of Return Stability
 
 ## Introduction
 

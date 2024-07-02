@@ -1,4 +1,4 @@
-# Predictive Indicators in Algorithmic Trading
+# Predictive Indicators
 
 Predictive indicators are tools or frameworks used in [algorithmic trading](../a/algorithmic_trading.md) to anticipate future price movements, market trends, and trading opportunities. These indicators are derived from historical data and statistical techniques to forecast potential [price patterns](../p/price_patterns.md) or market behaviors. The primary aim is to provide a trader with quantitative signals that may influence trading decisions. This document explores the major types of predictive indicators, their functionalities, and applications in the realm of [algorithmic trading](../a/algorithmic_trading.md).
 

@@ -1,4 +1,4 @@
-# NAV Tracking Strategies in Algorithmic Trading
+# NAV Tracking Strategies
 
 In the realm of [algorithmic trading](../a/algorithmic_trading.md), one of the sophisticated techniques that traders employ to ensure superior performance and [risk management](../r/risk_management.md) is the use of NAV (Net Asset Value) tracking strategies. This approach caters to [trading strategies](../t/trading_strategies.md) involving ETFs (Exchange-Traded Funds), mutual funds, and other investment vehicles where maintaining alignment or balance with the underlying assets or benchmarks is crucial.
 

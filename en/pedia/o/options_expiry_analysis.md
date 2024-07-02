@@ -1,5 +1,4 @@
-# Options Expiry Analysis in Algorithmic Trading
-==============================================
+# Options Expiry Analysis
 
 Options are financial instruments that derive their value from the price of an underlying asset, such as stocks, indices, commodities, or currencies. They provide the buyer with the right, but not the obligation, to buy or sell the underlying asset at a predetermined price (strike price) before or at expiration. The expiration date is a critical factor in options trading because it determines the point at which the option contracts must be settled. Here, we will analyze the concept of options expiry and its implications in an [algorithmic trading](../a/algorithmic_trading.md) context.
 

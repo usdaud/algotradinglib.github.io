@@ -1,4 +1,4 @@
-# Performance Benchmarking in Algorithmic Trading
+# Performance Benchmarking
 
 Performance benchmarking in [algorithmic trading](../a/algorithmic_trading.md) involves measuring the speed and effectiveness of [trading algorithms](../t/trading_algorithms.md) under various conditions. This intricate process ensures that the [trading systems](../t/trading_systems.md) can handle [real-time market data](../r/real-time_market_data.md), execute trades efficiently, and meet the targeted financial outcomes. Here, we'll explore performance benchmarking from several perspectives, including latency, throughput, correctness, and stability.
 

@@ -1,4 +1,4 @@
-# Performance Indicators in Algorithmic Trading
+# Performance Indicators
 
 In the context of [algorithmic trading](../a/algorithmic_trading.md), performance indicators are critical metrics used to evaluate the effectiveness and efficiency of [trading algorithms](../t/trading_algorithms.md). These indicators help traders and quants (quantitative analysts) to assess the risks, returns, and overall robustness of their [trading strategies](../t/trading_strategies.md). Below are the most common performance indicators used in [algorithmic trading](../a/algorithmic_trading.md):
 

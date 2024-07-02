@@ -1,4 +1,4 @@
-# Relative Performance Indicators in Algorithmic Trading
+# Relative Performance Indicators
 
 Relative [performance indicators](../p/performance_indicators.md) (RPIs) are essential tools in the domain of [algorithmic trading](../a/algorithmic_trading.md). These indicators offer traders insights into how a particular security or portfolio is performing compared to a benchmark, peer group, or the market itself. Unlike absolute [performance metrics](../p/performance_metrics.md) that look at returns in isolation, RPIs provide context by comparing returns to a relevant reference point. This helps to better understand whether an investment strategy is working as expected or if adjustments are required.
 
