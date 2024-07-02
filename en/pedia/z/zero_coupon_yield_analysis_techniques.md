@@ -1,4 +1,4 @@
-## Zero Coupon Yield Analysis Techniques
+# Zero Coupon Yield Analysis Techniques
 
 In the world of finance, bonds and other fixed-income securities are fundamental components for both issuers and investors. Among these instruments, zero-coupon bonds occupy a unique position due to their distinctive structure and investment benefits. Zero-coupon bonds, typically referred to as zeroes, are fixed-income securities that do not pay periodic interest (coupons). Instead, they are issued at a significant discount to their face value and mature at par value, the difference representing the interest earned by the bondholder.
 

@@ -1,4 +1,4 @@
-## Zero Coupon Bond Techniques
+# Zero Coupon Bond Techniques
 
 Zero Coupon Bonds (ZCBs), also known as discount bonds or pure discount bonds, are a type of fixed-income security that does not pay interest (coupons) periodically. Instead, they are issued at a discount to their face value and the investor receives the face value upon maturity. The difference between the purchase price and the face value represents the investor's return on the bond. Zero Coupon Bonds are widely used in financial markets for various purposes including investment, [risk management](../r/risk_management.md), and financial structuring.
 

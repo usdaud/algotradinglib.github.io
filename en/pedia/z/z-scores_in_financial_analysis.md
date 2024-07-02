@@ -1,4 +1,4 @@
-## Z-Scores in Financial Analysis
+# Z-Scores in Financial Analysis
 
 Z-scores are a statistical measurement that describe a value's relationship to the mean of a group of values. They are expressed in terms of standard deviations from the mean. In financial analysis, Z-scores are used as a tool for assessing the risk and performance of stocks, portfolios, or any other financial instruments. This extensive exploration will cover the calculation, interpretation, practical applications, limitations, and specific uses of Z-scores in the realm of financial analysis.
 

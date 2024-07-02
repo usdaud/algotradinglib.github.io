@@ -1,4 +1,4 @@
-## Zero Bound Rate Strategies
+# Zero Bound Rate Strategies
 
 Zero Bound Rate Strategies refer to the suite of investment and trading methodologies tailored for economic environments where central bank interest rates are at or near zero. These strategies have gained prominence in the wake of the global financial crisis in 2008 and the COVID-19 pandemic, both of which saw central banks worldwide, such as the Federal Reserve, the European Central Bank, and the Bank of Japan, driving interest rates down to stimulate economic activity. 
 

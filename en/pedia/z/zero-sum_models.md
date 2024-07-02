@@ -1,4 +1,4 @@
-## Zero-Sum Models
+# Zero-Sum Models
 
 ### Introduction to Zero-Sum Models
 

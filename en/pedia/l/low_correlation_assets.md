@@ -1,4 +1,4 @@
-## Low Correlation Assets
+# Low Correlation Assets
 
 In the domain of financial trading, particularly [algorithmic trading](../a/algorithmic_trading.md) (algotrading), the concept of low correlation assets plays a pivotal role in [portfolio management](../p/portfolio_management.md) and risk diversification. Low correlation assets are financial instruments or investment vehicles that do not move in tandem with each other, offering the potential to reduce overall portfolio risk and enhance returns. Understanding and leveraging low correlation assets can help traders and investors create robust and resilient portfolios.
 

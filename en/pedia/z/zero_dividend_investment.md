@@ -1,4 +1,4 @@
-### Zero Dividend Investment
+# Zero Dividend Investment
 
 ### Overview
 

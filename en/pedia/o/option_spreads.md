@@ -1,4 +1,4 @@
-## Option Spreads: An In-Depth Guide for Algorithmic Traders
+# Option Spreads
 
 In the realm of [algorithmic trading](../a/algorithmic_trading.md), understanding various options strategies is pivotal for enhancing profitability and managing risk. One such sophisticated strategy involves the use of option spreads. This section will delve deeply into the concept of option spreads, their types, and how they can be effectively utilized in [algorithmic trading](../a/algorithmic_trading.md).
 

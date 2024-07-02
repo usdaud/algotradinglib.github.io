@@ -1,4 +1,4 @@
-## Yen Swap Strategies
+# Yen Swap Strategies
 
 In the dynamic world of financial markets, [derivatives](../d/derivatives.md) play an indispensable role in the efficient management of risks and the facilitation of investment strategies. Among these [derivatives](../d/derivatives.md), [interest rate swaps](../i/interest_rate_swaps.md) hold a prominent place, and when dealing with the yen (JPY), Yen Swap strategies become particularly pertinent.
 

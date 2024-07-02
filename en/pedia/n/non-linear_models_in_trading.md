@@ -1,4 +1,4 @@
-# Non-Linear Models in Trading
+# Non-Linear Models
 
 Non-[linear models in trading](../l/linear_models_in_trading.md) refer to mathematical and statistical approaches that do not assume a linear relationship between input and output variables. These models are more flexible compared to linear models and can capture more complex patterns and relationships present in financial data. In trading, where market dynamics are intricate and behaviors of prices, volumes, and other trading indicators display non-linear characteristics, such models can provide a more accurate representation and prediction power.
 

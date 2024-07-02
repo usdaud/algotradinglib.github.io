@@ -1,4 +1,4 @@
-### Yield Curve Techniques in Algorithmic Trading
+# Yield Curve Techniques
 
 In the world of finance, the [yield curve](../y/yield_curve.md) is a critical concept that illustrates the relationship between interest rates (or bond yields) and different maturity dates. Analyzing the [yield curve](../y/yield_curve.md) provides insights into future economic activity, potential price changes, and market expectations. [Yield curve](../y/yield_curve.md) techniques, therefore, play an essential role in [algorithmic trading](../a/algorithmic_trading.md). These techniques aim to utilize various aspects of the [yield curve](../y/yield_curve.md) to make data-driven trading decisions, helping to anticipate market movements and optimize [portfolio management](../p/portfolio_management.md).
 

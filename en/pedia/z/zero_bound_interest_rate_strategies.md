@@ -1,4 +1,4 @@
-## Zero Bound Interest Rate Strategies
+# Zero Bound Interest Rate Strategies
 
 In the realm of financial markets, the concept of the "zero bound" plays a critical role, particularly in the context of monetary policy and interest rate strategies. The zero bound refers to the situation in which the nominal interest rate has been lowered to zero, leaving central banks with limited conventional monetary tools to stimulate the economy. This condition prompts the exploration of alternative strategies and unconventional monetary policies to manage economic activities. Here, we delve into various zero bound interest rate strategies, noting their mechanisms, implications, and effectiveness.
 

@@ -1,4 +1,4 @@
-## Swing Trade Indicators
+# Swing Trade Indicators
 
 ### Moving Averages (MA)
 

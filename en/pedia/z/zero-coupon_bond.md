@@ -1,4 +1,4 @@
-## Zero-Coupon Bond
+# Zero-Coupon Bond
 
 A zero-coupon bond, also known as a discount bond or deep discount bond, is a type of bond that does not pay periodic interest payments, also referred to as coupon payments. Instead, it is issued at a significant discount to its face value (also known as par value), and the bondholder receives the face value at the time of maturity. The difference between the purchase price of the bond and its face value represents the investor's return from this investment, which effectively is the interest earned over the bond's term.
 

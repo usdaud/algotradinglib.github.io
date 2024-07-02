@@ -1,4 +1,4 @@
-### Zero Bound Yield Curve
+# Zero Bound Yield Curve
 
 The Zero Bound [Yield Curve](../y/yield_curve.md) is a concept found within the realm of finance and economics, particularly in relation to the behavior of interest rates and bond yields when they approach zero, a phenomenon that has significant implications for monetary policy, investing strategies, and financial markets.
 

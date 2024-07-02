@@ -1,4 +1,4 @@
-# Sortino Ratio in Trading
+# Sortino Ratio
 
 The [Sortino Ratio](../s/sortino_ratio.md) is a popular metric used by investors and traders to measure the performance of an investment relative to its risk, particularly downside risk. It is a refinement of the [Sharpe Ratio](../s/sharpe_ratio.md), which is widely used in the finance industry for the same purpose. The primary difference between the two is that while the [Sharpe Ratio](../s/sharpe_ratio.md) takes into account both upside and downside volatility, the [Sortino Ratio](../s/sortino_ratio.md) focuses only on the downside, which is more relevant to investors concerned about potential losses.
 

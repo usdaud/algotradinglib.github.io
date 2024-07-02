@@ -1,4 +1,4 @@
-## Zero Coupon Bond Trading
+# Zero Coupon Bond Trading
 
 Zero coupon bonds, also known as discount bonds or zeroes, are a type of debt security that doesn't pay periodic interest or coupon payments. Instead, these bonds are sold at a significant discount to their face value and mature at par value, making them a compelling choice for certain types of investors, including those utilizing [algorithmic trading](../a/algorithmic_trading.md) strategies. This document delves deeply into zero coupon bond trading, shedding light on the fundamental aspects, strategies, advantages, and the role of [algorithmic trading](../a/algorithmic_trading.md) in this context.
 
