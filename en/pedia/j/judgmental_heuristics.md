@@ -1,4 +1,4 @@
-# Judgmental Heuristics in Algorithmic Trading
+# Judgmental Heuristics
 
 Judgmental heuristics are mental shortcuts that people use to make decisions quickly and efficiently. They are part of human cognition that allows for rapid problem solving with a minimal cognitive load. These heuristics often arise in situations of uncertainty when decisions need to be made with limited information or under time constraints. While they can lead to effective decision-making in many scenarios, they may also introduce biases and systematic errors.
 

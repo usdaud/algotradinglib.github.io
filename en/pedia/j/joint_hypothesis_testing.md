@@ -1,4 +1,4 @@
-# Joint Hypothesis Testing in Algorithmic Trading
+# Joint Hypothesis Testing
 
 Joint [hypothesis testing](../h/hypothesis_testing.md) is a statistical method that simultaneously tests multiple hypotheses to determine their validity. In the context of [algorithmic trading](../a/algorithmic_trading.md), joint [hypothesis testing](../h/hypothesis_testing.md) becomes a crucial tool for understanding market behavior and for validating [trading strategies](../t/trading_strategies.md). This method allows traders and analysts to examine various facets and elements of their [trading algorithms](../t/trading_algorithms.md) at the same time, ultimately refining and improving their models for better performance.
 

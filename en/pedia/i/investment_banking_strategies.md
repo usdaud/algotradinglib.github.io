@@ -1,4 +1,4 @@
-## Investment Banking Strategies
+# Investment Banking Strategies
 
 **Investment Banking** is a specialized segment of banking that assists individuals, corporations, and governments in raising capital by underwriting and acting as the client's agent in the issuance of securities. They also provide ancillary services such as market making, trading of [derivatives](../d/derivatives.md) and fixed income instruments, foreign exchange, and commodities, as well as advisory services for mergers and acquisitions (M&A). Here, we delve into some of the key strategies employed in investment banking that allow financial institutions to provide superior service to their clients and capture lucrative market opportunities.
 

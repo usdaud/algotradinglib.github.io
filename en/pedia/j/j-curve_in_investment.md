@@ -1,4 +1,4 @@
-### J-Curve in Investment
+# J-Curve in Investment
 
 The J-curve is a phenomenon in economics and investing that refers to the initial negative returns followed by a significant rise to profitability and stability over time. The name derives from the shape of the graph that plots this scenario, which resembles the letter "J". This concept is prevalent in a variety of fields, including private equity, venture capital, economics, and international trade.
 

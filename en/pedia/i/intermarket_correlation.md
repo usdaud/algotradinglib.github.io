@@ -1,4 +1,4 @@
-# Intermarket Correlation in Algorithmic Trading
+# Intermarket Correlation
 
 Intermarket correlation refers to the statistical relationship between different financial markets and assets. In the context of [algorithmic trading](../a/algorithmic_trading.md), understanding and analyzing these correlations is crucial as they can significantly affect [trading strategies](../t/trading_strategies.md), [risk management](../r/risk_management.md), and [portfolio diversification](../p/portfolio_diversification.md). Let's explore this concept in detail, covering the theoretical aspects, practical applications, quantitative measures, and some relevant examples from the industry.
 

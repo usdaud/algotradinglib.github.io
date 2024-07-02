@@ -1,4 +1,4 @@
-## Interest Rate Term Structure
+# Interest Rate Term Structure
 
 Interest Rate Term Structure, also known as the [yield curve](../y/yield_curve.md), is a fundamental concept in both finance and economics that depicts the relationship between interest rates (or bond yields) and different maturities. This concept is not only central to understanding bond pricing and valuation but also vital for making informed decisions in the field of [algorithmic trading](../a/algorithmic_trading.md) (algotrading). This document dives deep into the intricacies of the [term structure of interest rates](../t/term_structure_of_interest_rates.md), its significance, its various types, and its implications in algotrading.
 

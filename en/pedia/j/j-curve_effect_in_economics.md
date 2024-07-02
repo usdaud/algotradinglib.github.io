@@ -1,4 +1,4 @@
-### J-Curve Effect in Economics
+# J-Curve Effect
 
 The [J-Curve effect](../j/j-curve_effect.md) in economics describes a phenomenon where, following a devaluation or depreciation of a country's currency, there is a period during which the trade balance deteriorates before it improves. This effect is named after the shape of the letter "J" as it graphically represents the trend of the trade balance over time following the currency change.
 

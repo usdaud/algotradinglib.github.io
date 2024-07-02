@@ -1,4 +1,4 @@
-# Joint Tail Dependence in Trading
+# Joint Tail Dependence
 
 Joint tail dependence is a significant consideration in the realm of [quantitative finance](../q/quantitative_finance.md), especially in the context of [algorithmic trading](../a/algorithmic_trading.md). It refers to the phenomenon where extreme values in one or more financial instruments occur simultaneously or near-simultaneously. This concept is crucial in understanding the risk and co-movement between financial assets, especially during periods of market stress. Here's a comprehensive analysis of joint tail dependence in trading.
 

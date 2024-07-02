@@ -1,4 +1,4 @@
-###### Institutional Order Flow
+# Institutional Order Flow
 
 In the realm of financial markets, "Institutional Order Flow" refers to the buying and selling activities executed by large financial institutions, such as mutual funds, pension funds, insurance companies, hedge funds, and other big players in the market. These institutions typically deal in significant volume and can have a profound impact on market prices due to the sheer size and influence of their trades. Understanding and analyzing institutional order flow is crucial for traders looking to gain insights into market trends and potential movements.
 

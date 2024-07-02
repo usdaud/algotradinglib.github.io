@@ -1,4 +1,4 @@
-## Inflation Forecasting
+# Inflation Forecasting
 
 ### Introduction
 

@@ -1,4 +1,4 @@
-# Iron Condor Strategies in Algorithmic Trading
+# Iron Condor Strategies
 
 An [Iron Condor](../i/iron_condor.md) strategy is a popular options trading strategy that involves four different options contracts. Essentially, it is a market-neutral strategy, which means that it is designed to profit primarily through the passage of time and decreased volatility, rather than market direction. In [algorithmic trading](../a/algorithmic_trading.md), the strategy is often programmed into [automated trading systems](../a/automated_trading_systems.md) to capitalize on defined risk and reward scenarios.
 

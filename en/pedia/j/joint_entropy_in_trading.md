@@ -1,4 +1,4 @@
-## Joint Entropy in Trading
+# Joint Entropy
 
 ### Introduction to Entropy in Trading
 

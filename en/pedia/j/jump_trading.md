@@ -1,4 +1,4 @@
-## Jump Trading
+# Jump Trading
 
 Jump Trading is a globally recognized [proprietary trading](../p/proprietary_trading.md) firm that focuses on algorithmic and high-frequency trading. It was founded in 1999 by three partners, with an initial focus on futures trading. Over the years, Jump Trading has evolved into one of the leading firms in the world in the field of [quantitative trading](../q/quantitative_trading.md). The firm operates on a global scale with offices in Chicago, New York, London, and Singapore, among others.
 

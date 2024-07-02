@@ -1,4 +1,4 @@
-# J-Curve Risk in Algorithmic Trading
+# J-Curve Risk
 
 ## Introduction
 The J-Curve risk is a significant and fascinating concept in the world of finance and investment, particularly within [algorithmic trading](../a/algorithmic_trading.md). It refers to the phenomenon where the initial returns of an investment project or trading strategy are negative before turning positive. This pattern can be likened to the shape of the letter "J," where the line first dips down before rising above the starting point. Understanding J-Curve risk is imperative for traders, investors, and financial analysts looking to optimize performance and manage risk effectively.

@@ -1,4 +1,4 @@
-# Informational Efficiency in Algo Trading
+# Informational Efficiency
 
 Informational efficiency is a vital concept in the financial markets and is particularly relevant to [algorithmic trading](../a/algorithmic_trading.md). It refers to the extent to which market prices of securities fully reflect all available information. An informationally efficient market is one where prices at any given time represent the true intrinsic value of securities, considering all public and private information. This is the essence of the [Efficient Market Hypothesis](../e/efficient_market_hypothesis.md) (EMH), first formulated by economist Eugene Fama. 
 

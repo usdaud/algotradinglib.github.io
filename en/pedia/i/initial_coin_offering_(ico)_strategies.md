@@ -1,4 +1,4 @@
-### Initial Coin Offering (ICO) Strategies
+# Initial Coin Offering (ICO) Strategies
 
 #### Introduction to ICOs
 Initial Coin Offerings (ICOs) have evolved as a popular fundraising mechanism, predominantly utilized by blockchain-based startups. Unlike traditional funding mechanisms such as Initial Public Offerings (IPOs), ICOs leverage cryptocurrencies and blockchain technology to raise capital from a global pool of investors. In essence, ICOs offer tokens, which are akin to a company's shares, to early investors in exchange for established cryptocurrencies like Bitcoin (BTC) or Ethereum (ETH).

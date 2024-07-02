@@ -1,4 +1,4 @@
-## J-Curve Theory in Algorithmic Trading
+# J-Curve Theory
 
 ### Introduction to J-Curve Theory
 

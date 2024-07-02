@@ -1,4 +1,4 @@
-## Indicator Divergence in Algorithmic Trading
+# Indicator Divergence
 
 ### Introduction
 

@@ -1,4 +1,4 @@
-## Japanese GDP Analysis
+# Japanese GDP Analysis
 
 ### Introduction to GDP
 Gross Domestic Product (GDP) is the total monetary or market value of all the finished goods and services produced within a country’s borders in a specific time period. It functions as a comprehensive scorecard of a country’s economic health. GDP can be calculated using three primary approaches: production (or output) approach, income approach, and expenditure approach. 

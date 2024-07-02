@@ -1,5 +1,4 @@
 # Jensen's Alpha
-====================
 
 Jensen's Alpha, also referred to merely as Alpha in financial contexts, is a measure of the excess return that a portfolio or an investment generates over its expected return, given its risk, as defined by the Capital Asset Pricing Model (CAPM). In essence, it quantifies the value-added or subtracted by the portfolio manager, reflecting the performance of an investment against a benchmark index or the overall market. The concept is named after Michael Jensen, who introduced it in 1968.
 
