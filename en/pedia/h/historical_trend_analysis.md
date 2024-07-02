@@ -1,4 +1,4 @@
-# Historical Trend Analysis in Algorithmic Trading
+# Historical Trend Analysis
 
 Historical [trend analysis](../t/trend_analysis.md) is a critical component of [algorithmic trading](../a/algorithmic_trading.md), where past market behavior is studied to forecast future price movements. This technique relies on historical data to identify patterns and trends in the financial markets that can be used to inform trading decisions. By analyzing historical performance, algorithmic traders aim to develop strategies that can exploit these identified trends for profit. This document will delve into the various aspects of historical [trend analysis](../t/trend_analysis.md) in the context of [algorithmic trading](../a/algorithmic_trading.md), covering its methodology, tools, advantages, and challenges.
 

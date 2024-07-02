@@ -1,4 +1,4 @@
-# Commodity Spread Trading: An In-Depth Analysis
+# Commodity Spread Trading
 
 **Introduction**
 

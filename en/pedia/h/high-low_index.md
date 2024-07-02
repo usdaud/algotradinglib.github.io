@@ -1,4 +1,4 @@
-# The High-Low Index in Algorithmic Trading
+# High-Low Index
 
 The High-Low Index is a technical indicator used in the finance and trading industries, particularly in [algorithmic trading](../a/algorithmic_trading.md). This index provides traders with crucial insights into the momentum trends of a market by comparing the number of stocks reaching new 52-week highs to those reaching new 52-week lows. Understanding the dynamics of the High-Low Index can be especially beneficial for [algorithmic trading](../a/algorithmic_trading.md) systems, as it offers a quantitative approach to gauging the overall health of the market.
 

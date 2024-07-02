@@ -1,4 +1,4 @@
-# Hypothesis Generation in Algo Trading
+# Hypothesis Generation
 
 Hypothesis Generation is a crucial initial step in the [algorithmic trading](../a/algorithmic_trading.md) process. It involves formulating ideas and theories that can be tested through [quantitative analysis](../q/quantitative_analysis.md) and subsequently implemented as [trading strategies](../t/trading_strategies.md). In the context of [algorithmic trading](../a/algorithmic_trading.md), hypotheses often revolve around market behavior, price movements, and trading patterns.
 

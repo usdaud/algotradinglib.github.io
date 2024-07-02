@@ -1,4 +1,4 @@
-# Chart Patterns in Algorithmic Trading
+# Chart Patterns
 
 Chart patterns are a key component in the [technical analysis](../t/technical_analysis.md) used in [algorithmic trading](../a/algorithmic_trading.md). They represent the graphical illustrations of historical price movements that can be used to forecast future price direction. Understanding these patterns is crucial because they provide insights into the psychological and emotional state of the market participants.
 

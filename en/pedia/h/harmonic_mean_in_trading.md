@@ -1,4 +1,5 @@
-# Harmonic Mean in Trading
+# Harmonic Mean
+
 The harmonic mean is a type of average, a specific kind of measure of central tendency that is commonly used in various fields including finance and trading. It is distinct from the more commonly known arithmetic mean, providing different kinds of insights into data sets, especially those characterized by very small or very large values.
 
 ## Definition and Formula

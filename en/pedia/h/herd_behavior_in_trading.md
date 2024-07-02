@@ -1,4 +1,4 @@
-# Herd Behavior in Trading
+# Herd Behavior
 
 ## Introduction
 

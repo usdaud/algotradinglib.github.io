@@ -1,4 +1,4 @@
-# Hedging Strategies in Algorithmic Trading
+# Hedging Strategies
 
 In the realm of finance, hedging refers to the practice of taking measures to reduce, mitigate, or eliminate the risk of adverse price movements in an asset. Traders and investors implement hedging strategies to protect their investments from market volatility and uncertainties. In the context of [algorithmic trading](../a/algorithmic_trading.md), where trades are executed based on pre-determined rules and algorithms, hedging strategies become even more crucial as they can be executed precisely and swiftly without human intervention.
 

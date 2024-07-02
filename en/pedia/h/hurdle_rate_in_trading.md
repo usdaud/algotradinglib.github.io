@@ -1,4 +1,4 @@
-# Hurdle Rate in Trading
+# Hurdle Rate
 
 ## Introduction
 

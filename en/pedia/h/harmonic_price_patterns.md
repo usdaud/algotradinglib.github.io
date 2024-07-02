@@ -1,4 +1,4 @@
-# Harmonic Price Patterns in Algorithmic Trading
+# Harmonic Price Patterns
 
 Harmonic [price patterns](../p/price_patterns.md) play a crucial role in [algorithmic trading](../a/algorithmic_trading.md), relying on geometric structures to identify potential market reversals. These patterns are defined by specific Fibonacci levels, which are ratios derived from the Fibonacci sequence and used for price predictions. Unlike other [charting techniques](../c/charting_techniques.md), harmonic trading identifies precise turning points for highly accurate trades. This document delves into various harmonic [price patterns](../p/price_patterns.md) and their application in [algorithmic trading](../a/algorithmic_trading.md), touching upon the mathematical underpinnings, implementation strategies, and real-world applications. 
 

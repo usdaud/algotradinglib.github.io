@@ -1,4 +1,4 @@
-# Horizontal Spread Strategies in Algorithmic Trading
+# Horizontal Spread Strategies
 
 ## Overview
 

@@ -1,4 +1,4 @@
-# Cross-Market Analysis in Algorithmic Trading
+# Cross-Market Analysis
 
 Cross-market analysis in [algorithmic trading](../a/algorithmic_trading.md) involves the examination and comparison of different financial markets or segments to make well-informed trading decisions. It leverages patterns, trends, and discrepancies between varying market segments to predict their individual and collective behavior. This comprehensive approach helps traders identify cross-asset correlations, divergences, and [arbitrage](../a/arbitrage.md) opportunities that may not be apparent when focusing on a single market. Here, we delve into the foundational concepts, methods, tools, and practical applications of cross-market analysis in [algorithmic trading](../a/algorithmic_trading.md).
 

@@ -1,4 +1,4 @@
-# Harmonic Wave Patterns in Algorithmic Trading
+# Harmonic Wave Patterns
 
 Harmonic wave patterns are a set of specific price movements that repeatedly occur in financial markets. These patterns are identified using Fibonacci retracement and extension levels. Harmonic trading, developed by Scott Carney in the late 1990s, is based on the idea that market movements are harmonic in nature and that they conform to specific patterns dictated by Fibonacci ratios. [Harmonic patterns](../h/harmonic_patterns.md) are predictive by nature, as opposed to reactive, offering traders an advance warning of a potential reversal in price. 
 

@@ -1,4 +1,4 @@
-# Cost-Benefit Analysis in Trading
+# Cost-Benefit Analysis
 
 Cost-Benefit Analysis (CBA) is a systematic approach to estimating the strengths and weaknesses of alternatives used to determine options that provide the best approach to achieving benefits while preserving savings. In the context of trading, particularly [algorithmic trading](../a/algorithmic_trading.md) (or algo-trading), applying CBA helps traders and trading firms evaluate the potential costs and benefits associated with implementing various [trading strategies](../t/trading_strategies.md), technologies, and methods. This analysis aids in making data-driven decisions to optimize trading processes and profitability.
 

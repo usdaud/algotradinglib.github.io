@@ -1,4 +1,4 @@
-# **High Yield Bond Trading**
+# High Yield Bond Trading
 
 High yield bond trading, often referred to as "[junk bond trading](../j/junk_bond_trading.md)," involves the buying and selling of bonds that have been rated below investment grade by established credit rating agencies such as Moody's, Standard & Poor's, and Fitch Ratings. These bonds carry higher risk due to the issuing company's higher chance of default but offer higher potential returns as compensation for that risk. High yield bonds are typically rated BB+ or lower by Standard & Poor's and Fitch, and Ba1 or lower by Moody's. 
 

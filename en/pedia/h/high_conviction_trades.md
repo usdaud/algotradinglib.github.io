@@ -1,4 +1,4 @@
-# High Conviction Trades (HCT) in Algorithmic Trading
+# High Conviction Trades (HCT)
 
 High Conviction Trades (HCT) are a fundamental concept in the world of finance and particularly in [algorithmic trading](../a/algorithmic_trading.md). These trades refer to investment decisions or positions that a trader or an algorithm has a strong belief in. High conviction trades often stem from comprehensive market analysis, robust research, and sometimes even privileged or proprietary information. The key aspect of HCT is the strong confidence that the anticipated outcome will materialize, warranting significant [capital allocation](../c/capital_allocation.md).
 

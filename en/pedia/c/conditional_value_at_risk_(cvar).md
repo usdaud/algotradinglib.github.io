@@ -1,4 +1,4 @@
-# **Conditional Value at Risk (CVaR)**
+# Conditional Value at Risk (CVaR)
 
 Conditional Value at Risk (CVaR), also known as Expected Shortfall (ES), is a risk assessment metric commonly used in finance and economics to measure the risk of loss in investments and portfolios. CVaR is particularly useful in scenarios where the distribution of returns is not normal and is skewed. It provides a more comprehensive risk measure than the traditional Value at Risk (VaR) by focusing not only on the threshold value but also on the average losses that occur beyond this threshold.
 

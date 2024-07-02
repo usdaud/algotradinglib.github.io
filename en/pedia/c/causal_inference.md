@@ -1,4 +1,4 @@
-# Causal Inference in Algorithmic Trading
+# Causal Inference
 
 Causal inference is the process of determining the cause-and-effect relationships between variables. In the context of [algorithmic trading](../a/algorithmic_trading.md), causal inference involves analyzing financial data to identify the factors that cause movements in asset prices. This understanding can lead to the development of [trading strategies](../t/trading_strategies.md) that exploit these causal relationships.
 

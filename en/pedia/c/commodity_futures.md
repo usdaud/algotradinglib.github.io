@@ -1,4 +1,6 @@
-# Commodity futures are standardized contracts to buy or sell a specific commodity at a predetermined price at a specific time in the future. These financial instruments are commonly traded on exchanges and are used by various market participants including producers, consumers, and speculators to hedge against price risk or to profit from price changes.
+# Commodity Futures
+
+Commodity futures are standardized contracts to buy or sell a specific commodity at a predetermined price at a specific time in the future. These financial instruments are commonly traded on exchanges and are used by various market participants including producers, consumers, and speculators to hedge against price risk or to profit from price changes.
 
 ## Key Concepts in Commodity Futures
 

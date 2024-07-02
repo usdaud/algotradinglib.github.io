@@ -1,4 +1,4 @@
-# Cross-Border Trading in Algorithmic Trading
+# Cross-Border Trading
 
 Cross-border trading refers to the buying and selling of financial instruments such as stocks, bonds, and currencies across different global markets. With the advent of globalization and advanced technology, cross-border trading has become a significant aspect of the financial markets. This process includes navigating various time zones, currencies, and regulatory environments, which adds layers of complexity that [algorithmic trading](../a/algorithmic_trading.md) is well-suited to handle.
 

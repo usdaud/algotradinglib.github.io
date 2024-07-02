@@ -1,4 +1,4 @@
-# Co-integration in Algorithmic Trading
+# Co-integration
 
 ## Introduction to Co-integration
 

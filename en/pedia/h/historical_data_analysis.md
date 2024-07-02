@@ -1,4 +1,4 @@
-# Historical Data Analysis in Algorithmic Trading
+# Historical Data Analysis
 
 Historical data analysis is a crucial component of [algorithmic trading](../a/algorithmic_trading.md), involving the collection, examination, and interpretation of past market data to inform [trading strategies](../t/trading_strategies.md) and decisions. This analysis helps traders to backtest their strategies, optimize their algorithms, and gain insights into market behavior under different conditions. Below, we delve into the various aspects of historical data analysis, its significance, tools, methodologies, and real-world applications.
 

@@ -1,4 +1,4 @@
-# Credit Spread Trading in Algorithmic Trading
+# Credit Spread Trading
 
 Credit [spread trading](../s/spread_trading.md) is a popular trading strategy among options traders due to its potential to provide steady income with limited risk. In [algorithmic trading](../a/algorithmic_trading.md), credit spreads are utilized to capitalize on the automated execution of [trading strategies](../t/trading_strategies.md) that aim to profit from the difference in premiums between two options. This type of trading strategy is particularly appealing to traders who have a good understanding of the factors that influence options pricing and market volatility. This article provides a comprehensive overview of credit [spread trading](../s/spread_trading.md) within the context of [algorithmic trading](../a/algorithmic_trading.md), examining its mechanics, benefits, risks, and implementation.
 

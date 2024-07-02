@@ -1,4 +1,4 @@
-# Cycle Analysis in Algorithmic Trading
+# Cycle Analysis
 
 Cycle analysis is a sophisticated approach used in [algorithmic trading](../a/algorithmic_trading.md) and financial markets to understand and predict the oscillations in market prices. This concept involves identifying recurring waves or cycles in trading data, which can be leveraged to enhance [trading strategies](../t/trading_strategies.md), predict price movements, and ultimately improve profitability.
 
