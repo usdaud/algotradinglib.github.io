@@ -1,4 +1,4 @@
-## Numerical Differentiation in Trading
+# Numerical Differentiation
 
 Numerical differentiation is a computational technique used to estimate the [derivatives](../d/derivatives.md) of functions based on discrete data points. In the context of trading, it allows us to analyze the rate of change of asset prices, momentum, or other financial metrics, which is essential for the development and implementation of [algorithmic trading](../a/algorithmic_trading.md) strategies. This approach is particularly useful when dealing with high-frequency trading data, where continuous functions are represented by their discrete counterparts.
 

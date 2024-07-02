@@ -1,4 +1,4 @@
-# Objective Functions in Trading
+# Objective Functions
 
 In the domain of [algorithmic trading](../a/algorithmic_trading.md), objective functions play a crucial role in guiding the decision-making process. They serve as mathematical representations of the goals that traders or automated systems strive to achieve, whether it's maximizing returns, minimizing risk, or optimizing a balance between the two. Understanding and designing effective objective functions is fundamental for developing successful [trading algorithms](../t/trading_algorithms.md). This document delves into the intricacies of objective functions, exploring their types, purpose, implementation, and impact on [trading strategies](../t/trading_strategies.md).
 

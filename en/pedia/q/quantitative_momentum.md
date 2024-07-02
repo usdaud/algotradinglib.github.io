@@ -1,4 +1,4 @@
-## Quantitative Momentum
+# Quantitative Momentum
 
 ### Definition and Overview
 

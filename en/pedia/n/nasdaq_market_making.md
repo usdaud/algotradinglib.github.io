@@ -1,4 +1,4 @@
-### Overview of NASDAQ Market Making
+# NASDAQ Market Making
 
 NASDAQ market making refers to the role and activities of market makers on the NASDAQ stock market. Market makers are crucial participants in the financial markets as they provide liquidity by being ready to buy and sell securities at publicly quoted prices. On NASDAQ, multiple market makers might be involved in trading a single security, and their competition can lead to tighter bid-ask spreads and more efficient price discovery. This documentation will delve into the objectives, functions, regulations, and impacts of market making on NASDAQ.
 

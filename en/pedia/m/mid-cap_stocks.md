@@ -1,4 +1,4 @@
-### Mid-Cap Stocks
+# Mid-Cap Stocks
 
 Mid-cap stocks, short for "mid-capitalization stocks", represent a segment of publicly traded companies that fall within a particular range of market capitalization. They are typically defined as companies with a market capitalization between $2 billion and $10 billion. These stocks occupy the middle ground between small-cap stocks (companies with a market capitalization under $2 billion) and large-cap stocks (companies with a market capitalization over $10 billion). Mid-cap stocks are often seen as offering a balance between growth potential and stability.
 

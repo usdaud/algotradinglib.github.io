@@ -1,4 +1,4 @@
-# Open Order Analysis in Algorithmic Trading
+# Open Order Analysis
 
 Open Order Analysis is a crucial component of [algorithmic trading](../a/algorithmic_trading.md), involving the detailed examination and management of open orders within the trading process. This practice is essential for traders, portfolio managers, and algo [trading systems](../t/trading_systems.md) to make informed decisions and optimize their [trading strategies](../t/trading_strategies.md). Below, we delve into various aspects of Open Order Analysis, including its definition, significance, methodologies, tools, and practical applications in [algorithmic trading](../a/algorithmic_trading.md).
 

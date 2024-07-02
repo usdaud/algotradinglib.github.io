@@ -1,5 +1,4 @@
-# Median Price Analysis in Algorithmic Trading
-===========================================
+# Median Price Analysis
 
 Median price analysis is a pivotal concept within the field of [algorithmic trading](../a/algorithmic_trading.md), a domain that combines financial markets with computer science and statistical methods to optimize [trading strategies](../t/trading_strategies.md). This method provides traders with significant insights into the price behavior of financial instruments and aids in making informed trading decisions.
 

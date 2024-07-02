@@ -1,4 +1,4 @@
-### Melt-Up Market Analysis
+# Melt-Up Market Analysis
 
 #### What is a Melt-Up Market?
 

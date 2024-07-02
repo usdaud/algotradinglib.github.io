@@ -1,4 +1,4 @@
-# Reciprocal Trading in Algorithmic Trading
+# Reciprocal Trading
 
 Reciprocal trading, often referred to as "reciprocity," is a term that describes a strategic agreement between two parties to exchange financial instruments, services, or goods to achieve mutual benefits. In the context of [algorithmic trading](../a/algorithmic_trading.md), reciprocal trading involves the use of advanced algorithms and high-frequency trading (HFT) strategies to execute these exchanges efficiently and profitably. This comprehensive overview delves into the mechanics, benefits, regulations, and technological advancements surrounding reciprocal trading within the realm of [algorithmic trading](../a/algorithmic_trading.md).
 

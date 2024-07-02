@@ -1,4 +1,4 @@
-# Market Scanners in Algorithmic Trading
+# Market Scanners
 
 Market scanners are sophisticated tools used in the realm of [algorithmic trading](../a/algorithmic_trading.md) to automatically monitor financial markets and identify trading opportunities. These tools leverage advanced algorithms and technologies to sift through vast amounts of market data and provide traders with actionable insights. Market scanners play a crucial role in speeding up the decision-making process, reducing human error, and capitalizing on fleeting market opportunities. In this discussion, we will delve deep into the various aspects of market scanners, including their types, functionality, key features, and their significance in [algorithmic trading](../a/algorithmic_trading.md).
 

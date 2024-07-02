@@ -1,4 +1,4 @@
-## Parabolic SAR
+# Parabolic SAR
 
 The Parabolic SAR (Stop and Reverse) is a [technical analysis](../t/technical_analysis.md) indicator developed by J. Welles Wilder, a prominent figure in the field of trading and [technical analysis](../t/technical_analysis.md). The Parabolic SAR is designed to identify potential reversals in the market direction and provide signals for entry and exit points in trading. It is often used in trending markets to capture the entire trend, riding the waves as long as the trend continues. 
 

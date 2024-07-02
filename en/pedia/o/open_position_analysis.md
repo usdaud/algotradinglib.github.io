@@ -1,4 +1,4 @@
-# Open Position Analysis in Algorithmic Trading
+# Open Position Analysis
 
 Open Position Analysis is a pivotal concept in the field of [algorithmic trading](../a/algorithmic_trading.md), referring to the examination and oversight of active trades that have not yet been settled or closed. This involves continuous monitoring of trades to assess their performance, risk exposure, and alignment with [trading strategies](../t/trading_strategies.md). Open position analysis employs various statistical tools, real-time data, and algorithmic models to make informed decisions about maintaining, adjusting, or terminating positions. This detailed discussion explores the principles, methodologies, tools, and implications of open position analysis in the context of [algorithmic trading](../a/algorithmic_trading.md).
 

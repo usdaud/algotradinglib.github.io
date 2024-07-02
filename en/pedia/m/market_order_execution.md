@@ -1,4 +1,4 @@
-# Market Order Execution in Algorithmic Trading
+# Market Order Execution
 
 Market order execution is a critical concept in both traditional and [algorithmic trading](../a/algorithmic_trading.md). In essence, a market order is an instruction by a trader to buy or sell a security immediately at the best available current price. This form of order is contrasted with limit orders, which set a specific price at which the trade must occur. Market orders are primary tools for traders who require speedy execution, ensuring that an order is filled as promptly as possible. 
 

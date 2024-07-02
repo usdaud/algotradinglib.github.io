@@ -1,4 +1,4 @@
-# Non-Linear Dynamics in Algorithmic Trading
+# Non-Linear Dynamics
 
 ## Introduction
 Non-linear dynamics is a branch of mathematics focusing on systems governed by equations more complex than linear equations. These systems are prevalent in numerous fields, including physics, biology, economics, and finance, particularly in [algorithmic trading](../a/algorithmic_trading.md). [Algorithmic trading](../a/algorithmic_trading.md) involves using computer programs to trade financial securities at speeds and frequencies that human traders cannot match. Non-linear dynamics introduces an added layer of complexity and sophistication to these algorithms, increasing their predictive accuracy and robustness.

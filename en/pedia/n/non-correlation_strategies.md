@@ -1,4 +1,4 @@
-## Non-Correlation Strategies in Algorithmic Trading
+# Non-Correlation Strategies
 
 [Algorithmic trading](../a/algorithmic_trading.md), commonly referred to as algo trading, is a method of executing orders using automated pre-programmed trading instructions accounting for variables such as time, price, and volume. These strategies enable traders to carry out high-frequency and high-volume trades that would be virtually impossible for human traders to execute manually. Within the realm of [algorithmic trading](../a/algorithmic_trading.md), non-correlation strategies have gained prominence as a means to drive diversification and enhance risk-adjusted returns.
 

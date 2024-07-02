@@ -1,4 +1,4 @@
-# Position Sizing in Algorithmic Trading
+# Position Sizing
 
 Position sizing is a critical concept in [algorithmic trading](../a/algorithmic_trading.md), determining the number of units or contracts to trade in any given position. Correct position sizing helps manage risk, maximize returns, and ensure the longevity of the trading strategy. It's a blend of mathematical rigor, statistical insight, and [risk management](../r/risk_management.md) principles.
 

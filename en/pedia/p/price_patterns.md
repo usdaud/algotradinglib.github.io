@@ -1,4 +1,4 @@
-# Price Patterns in Algorithmic Trading
+# Price Patterns
 
 ## Introduction
 

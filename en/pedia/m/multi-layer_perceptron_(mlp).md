@@ -1,4 +1,4 @@
-## Multi-Layer Perceptron (MLP)
+# Multi-Layer Perceptron (MLP)
 
 A Multi-Layer Perceptron (MLP) is a class of feedforward [artificial neural networks](../a/artificial_neural_networks.md) (ANN). It consists of at least three layers of nodes: an input layer, a hidden layer, and an output layer. Except for the input nodes, each node is a neuron that uses a nonlinear activation function. MLP utilizes a supervised learning technique called backpropagation for training the network. It is a foundational model in deep learning and has applications in various domains, including [algorithmic trading](../a/algorithmic_trading.md).
 

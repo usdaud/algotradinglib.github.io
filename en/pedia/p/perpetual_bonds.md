@@ -1,4 +1,4 @@
-## Perpetual Bonds
+# Perpetual Bonds
 
 ### Introduction
 Perpetual bonds, also known as "perps," are a type of fixed-income security with no maturity date. They continue to pay interest indefinitely and are not redeemable by the holder or the issuer. This concept is particularly intriguing in financial markets, especially in the context of algorithms and high-frequency trading. Perpetual bonds combine elements of both equity and debt, offering unique opportunities and challenges for traders and investors.

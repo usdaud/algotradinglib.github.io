@@ -1,4 +1,4 @@
-### Options Put-Call Parity
+# Options Put-Call Parity
 
 Options trading is a sophisticated financial domain that plays a critical role in the landscape of modern finance. One of the foundational principles within options trading is the concept of [put-call parity](../p/put-call_parity.md). This principle is crucial for traders and investors to understand as it presents an essential relationship between the prices of put and call options. In this detailed discussion, we will delve into the mechanics of [put-call parity](../p/put-call_parity.md), its mathematical formulation, assumptions, implications, and real-world applications.
 

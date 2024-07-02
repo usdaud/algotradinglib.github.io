@@ -1,4 +1,4 @@
-### Out-of-Sample Performance
+# Out-of-Sample Performance
 
 Out-of-sample performance is a critical concept in [algorithmic trading](../a/algorithmic_trading.md) and [quantitative finance](../q/quantitative_finance.md). It refers to the evaluation of a trading strategy or predictive model using data that was not employed in the creation, training, or optimization of the model. The idea is to ensure that the strategy generalizes well to new, unseen market conditions rather than being overfitted to historical data.
 

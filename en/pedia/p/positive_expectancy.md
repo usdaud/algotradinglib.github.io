@@ -1,4 +1,4 @@
-# Positive Expectancy in Algorithmic Trading
+# Positive Expectancy
 
 [Algorithmic trading](../a/algorithmic_trading.md), often referred to as algo-trading or automated trading, is a method of executing a large order (too large to fill all at once) using automated pre-programmed trading instructions accounting variables such as time, price, and volume. One of the primary objectives in algo-trading is to develop [trading strategies](../t/trading_strategies.md) that have a high probability of success over time. A crucial concept in evaluating such strategies is positive expectancy. 
 

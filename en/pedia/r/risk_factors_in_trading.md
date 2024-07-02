@@ -1,4 +1,4 @@
-# Risk Factors in Trading
+# Risk Factors
 
 Trading in financial markets, whether it is in stocks, bonds, commodities, forex, or [derivatives](../d/derivatives.md), involves a variety of risk factors that traders must carefully assess and manage. Understanding these risk factors is critical for both individual and institutional traders to make informed decisions and protect their investments. Here, we delve into the various risk factors associated with trading, categorizing them into market risks, credit risks, liquidity risks, operational risks, and systemic risks.
 

@@ -1,4 +1,4 @@
-# Over-The-Counter (OTC) Markets in Algorithmic Trading
+# Over-The-Counter (OTC) Markets
 
 The term `Over-The-Counter (OTC) Markets` refers to financial markets where trading of securities is done directly between two parties without the supervision of an exchange. This contrasts with exchange-traded markets, where various regulatory bodies oversee activities, ensuring compliance and protecting investor interests. OTC markets are decentralised and involve the trading of financial instruments like stocks, bonds, commodities, [derivatives](../d/derivatives.md), and currencies directly between parties.
 

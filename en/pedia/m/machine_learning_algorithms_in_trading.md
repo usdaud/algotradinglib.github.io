@@ -1,4 +1,4 @@
-### Machine Learning Algorithms in Trading
+# Machine Learning Algorithms
 
 Machine Learning (ML) has revolutionized numerous industries, and trading is no exception. As markets become more complex, the need for rapid, data-driven decision-making grows. Machine learning provides traders with advanced methodologies to analyze historical data, uncover hidden patterns, and predict future market movements.
 

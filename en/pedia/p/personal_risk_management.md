@@ -1,4 +1,4 @@
-# Personal Risk Management in Algorithmic Trading
+# Personal Risk Management
 
 [Algorithmic trading](../a/algorithmic_trading.md), often referred to as "algo trading," involves using computer algorithms to automate [trading strategies](../t/trading_strategies.md) with the objective of generating profits. While algo trading offers various advantages, such as speed, precision, and the ability to handle large volumes of data, it also comes with inherent risks. Personal [risk management](../r/risk_management.md) is a crucial aspect that traders must focus on to ensure their trading activities do not result in substantial financial losses. This comprehensive detailing addresses the various facets of personal [risk management](../r/risk_management.md) in [algorithmic trading](../a/algorithmic_trading.md).
 

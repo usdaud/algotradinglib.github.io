@@ -1,5 +1,4 @@
 # Momentum Analysis
-=================
 
 Momentum analysis is a key concept in the field of [quantitative finance](../q/quantitative_finance.md) and [technical analysis](../t/technical_analysis.md), particularly in the practice of [algorithmic trading](../a/algorithmic_trading.md) (often referred to as "algo trading" or "automated trading"). It involves the examination and interpretation of market data to predict future movements based on current trends. This technique is grounded in the principle that securities that have performed well in the past will continue to do so in the near future, and those that have performed poorly will continue to decline.
 

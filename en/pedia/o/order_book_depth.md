@@ -1,4 +1,4 @@
-## Order Book Depth
+# Order Book Depth
 
 In the world of financial markets, the term "Order Book Depth" holds significant importance, specifically in the domain of [algorithmic trading](../a/algorithmic_trading.md). Order book depth refers to the number and size of outstanding buy and sell orders for a particular financial instrument at different price levels. This information is crucial for traders as it provides a comprehensive view of market liquidity, order flow, and potential price movements.
 

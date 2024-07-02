@@ -1,4 +1,4 @@
-# Post-Trade Settlement in Algorithmic Trading
+# Post-Trade Settlement
 
 Post-trade settlement is a critical component of the securities trading lifecycle, especially in the context of [algorithmic trading](../a/algorithmic_trading.md). This process occurs after a trade has been executed and involves confirming the transaction details, calculating the obligations of both parties involved in the trade, and facilitating the necessary exchange of assets and funds. Herein, I will explore the intricacies and importance of post-trade settlement in [algorithmic trading](../a/algorithmic_trading.md), delve into its various components, and examine the role of technology and regulatory frameworks in ensuring efficient and secure settlements.
 

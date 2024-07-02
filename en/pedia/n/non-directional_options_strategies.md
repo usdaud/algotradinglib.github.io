@@ -1,4 +1,6 @@
-# Non-Directional Options Strategies refer to a set of options trading techniques that aim to profit from the movement of an asset without the need to predict the direction of its price. This is particularly useful in markets that are expected to exhibit less volatility or are perceived to be neutral. Unlike directional strategies, which rely on price movement in a specific direction (up or down), non-directional strategies benefit from the characteristics of options contracts such as decay, volatility, and price range.
+# Non-Directional Options Strategies
+
+Non-Directional Options Strategies refer to a set of options trading techniques that aim to profit from the movement of an asset without the need to predict the direction of its price. This is particularly useful in markets that are expected to exhibit less volatility or are perceived to be neutral. Unlike directional strategies, which rely on price movement in a specific direction (up or down), non-directional strategies benefit from the characteristics of options contracts such as decay, volatility, and price range.
 
 ## Key Concepts 
 

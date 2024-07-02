@@ -1,4 +1,4 @@
-### Normalized Returns
+# Normalized Returns
 
 In the world of [algorithmic trading](../a/algorithmic_trading.md), the concept of normalized returns is pivotal for comparing the performance of different investment strategies, securities, or financial instruments on a level playing field. Normalized returns allow traders and investors to assess and juxtapose returns across different assets or time periods without the distortion caused by varying scales, volatilities, or capital needs. This article delves deep into what normalized returns are, their importance, how they are calculated, and their application in [algorithmic trading](../a/algorithmic_trading.md).
 

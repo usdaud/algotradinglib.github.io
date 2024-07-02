@@ -1,4 +1,4 @@
-# Multicollinearity in Trading
+# Multicollinearity
 
 Multicollinearity is a statistical phenomenon in which two or more independent variables in a regression model are highly correlated. This implies that one variable can be linearly predicted from the others with a certain degree of accuracy. Multicollinearity is often seen as problematic because it can distort the results of regression analyses, making it difficult to determine the individual effect of each predictor variable on the dependent variable. In the context of trading, dealing with multicollinearity is vital as it impacts model reliability, prediction accuracy, and [risk management](../r/risk_management.md).
 

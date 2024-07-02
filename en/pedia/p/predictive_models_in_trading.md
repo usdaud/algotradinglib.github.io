@@ -1,4 +1,4 @@
-## Predictive Models in Trading
+# Predictive Models
 
 Predictive models in trading are statistical techniques employed to forecast future market movements based on historical data. By analyzing various factors and identifying patterns, these models aim to support traders in making informed decisions. Predictive models have become an integral part of [algorithmic trading](../a/algorithmic_trading.md), where trades are executed based on pre-defined criteria without human intervention. The advancements in computational power and data analytics have significantly enhanced the accuracy and efficiency of these models.
 

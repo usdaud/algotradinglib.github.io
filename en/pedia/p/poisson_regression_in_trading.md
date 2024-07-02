@@ -1,5 +1,4 @@
-# Poisson Regression in Trading
-================================
+# Poisson Regression
 
 **Introduction to Poisson Regression**
 

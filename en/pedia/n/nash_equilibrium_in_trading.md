@@ -1,4 +1,4 @@
-# Nash Equilibrium in Trading
+# Nash Equilibrium
 
 ## Introduction to Nash Equilibrium
 Nash Equilibrium, named after the mathematician John Nash, is a fundamental concept in game theory. It describes a situation where, in a game involving two or more players, each player has found a strategy that they are unlikely to deviate from unilaterally, given the strategies of the other players. In other words, every player's strategy is optimal when considering the strategies of the other players. This equilibrium occurs when no player can improve their payoff by changing their strategy while the other players' strategies remain the same.

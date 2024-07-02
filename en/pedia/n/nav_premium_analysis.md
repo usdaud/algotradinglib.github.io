@@ -1,4 +1,4 @@
-# **NAV Premium Analysis**
+# NAV Premium Analysis
 
 Net Asset Value (NAV) premium analysis is a crucial aspect of understanding the valuation of investment funds, specifically exchange-traded funds (ETFs) and mutual funds. NAV represents the total value of a fund’s assets minus its liabilities, normalized per share. The NAV per share is calculated as the closing market value of all securities comprising the fund’s portfolio, plus any other assets, minus all liabilities, divided by the total number of shares outstanding.
 

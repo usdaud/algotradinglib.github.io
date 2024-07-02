@@ -1,4 +1,4 @@
-# Prospect Theory in Trading
+# Prospect Theory
 
 ## Introduction to Prospect Theory
 

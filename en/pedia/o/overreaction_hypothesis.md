@@ -1,4 +1,4 @@
-# Overreaction Hypothesis in Algorithmic Trading
+# Overreaction Hypothesis
 
 ## Introduction
 

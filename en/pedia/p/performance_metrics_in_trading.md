@@ -1,4 +1,4 @@
-## Performance Metrics in Trading
+# Performance Metrics
 
 In the domain of [algorithmic trading](../a/algorithmic_trading.md), [quantitative analysis](../q/quantitative_analysis.md) is vital for ensuring the profitability and robustness of [trading strategies](../t/trading_strategies.md). [Performance metrics](../p/performance_metrics.md) are essential tools traders use to assess, compare, and fine-tune their [trading strategies](../t/trading_strategies.md). This document delves into the various [performance metrics](../p/performance_metrics.md) used in trading, providing an in-depth look at their importance, calculation methods, and implications for [trading strategies](../t/trading_strategies.md).
 

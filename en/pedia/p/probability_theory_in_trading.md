@@ -1,4 +1,4 @@
-## Probability Theory in Trading
+# Probability Theory
 
 ### Overview
 Probability theory forms the bedrock of modern [trading strategies](../t/trading_strategies.md), especially in the realm of [algorithmic trading](../a/algorithmic_trading.md). By leveraging mathematical frameworks to quantify uncertainty, traders can make informed decisions about future market behavior. This section explores the fundamental concepts of probability theory and their application in trading.

@@ -1,4 +1,4 @@
-## Order Book Reconstruction
+# Order Book Reconstruction
 
 Order book reconstruction is a critical technique in high-frequency trading and [algorithmic trading](../a/algorithmic_trading.md) that involves rebuilding the historical state of an order book using publicly available data. An order book is a dynamic, constantly updating list of buy and sell orders for a particular financial instrument, typically maintained by the exchange. Being able to accurately reconstruct this order book gives traders significant insights into market behavior, allowing them to develop and backtest [algorithmic trading](../a/algorithmic_trading.md) strategies.
 

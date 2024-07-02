@@ -1,4 +1,4 @@
-## Path-Dependent Options
+# Path-Dependent Options
 
 Path-dependent options are a type of [derivatives](../d/derivatives.md) where the payoff depends not only on the final price of the underlying asset at expiration but also on the path the asset price takes to reach that final price. This contrasts with traditional options, where the payoff is determined solely based on the underlying asset's price at expiration. Path-dependent options are often used in a range of financial strategies due to their flexibility and the ability to tailor risk and reward profiles more precisely.
 

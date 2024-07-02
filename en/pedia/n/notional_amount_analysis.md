@@ -1,4 +1,4 @@
-### Notional Amount Analysis
+# Notional Amount Analysis
 
 Notional amount, also referred to as the notional principal, notional value, or face value, is a key concept in the field of finance, particularly in the context of derivative contracts and financial instruments. It represents the total value of a leveraged position's assets. Unlike actual amounts, which reflect the real amount of money exchanged in a transaction, the notional amount serves as a basis for calculating payments or allocations in various financial instruments.
 

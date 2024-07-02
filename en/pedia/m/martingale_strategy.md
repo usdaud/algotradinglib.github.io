@@ -1,4 +1,4 @@
-# The Martingale Strategy in algo trading
+# The Martingale Strategy
 
 The Martingale strategy is a system that was originally developed for gambling, specifically for games of chance where the outcome is binary (win or lose). Over time, this strategy has been adapted to financial markets, including algo trading, where it continues to generate interest as well as controversy. The essence of the Martingale strategy lies in doubling down on a losing bet to recover previous losses and achieve a profit when a win eventually occurs. In financial terms, this means increasing the position size after a loss in the hope that a future trade will turn out to be profitable, thereby recovering all previous losses and securing a small profit.
 

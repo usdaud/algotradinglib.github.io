@@ -1,4 +1,4 @@
-## Performance Ratio Analysis
+# Performance Ratio Analysis
 
 Performance ratio analysis is an essential aspect of [algorithmic trading](../a/algorithmic_trading.md) that involves evaluating and interpreting various [financial ratios](../f/financial_ratios.md) to measure the efficacy, efficiency, and overall performance of [trading algorithms](../t/trading_algorithms.md). It helps traders and investors understand the strengths and weaknesses of their [trading strategies](../t/trading_strategies.md), make informed decisions, and optimize their [trading systems](../t/trading_systems.md). This comprehensive guide will delve into the key [performance ratios](../p/performance_ratios.md) used in [algorithmic trading](../a/algorithmic_trading.md), including their definitions, significance, and applications.
 

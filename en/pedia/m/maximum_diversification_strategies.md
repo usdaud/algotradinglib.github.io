@@ -1,4 +1,4 @@
-# **Maximum Diversification Strategies**
+# Maximum Diversification Strategies
 
 Maximum [Diversification Strategies](../d/diversification_strategies.md) (MDS) are a crucial aspect of [algorithmic trading](../a/algorithmic_trading.md), focusing on the principle that a well-diversified portfolio can outperform non-diversified portfolios in terms of risk-adjusted returns. These strategies are built upon the foundational theories of finance, such as modern portfolio theory (MPT) introduced by Harry Markowitz, and involve advanced quantitative methods to optimize [asset allocation](../a/asset_allocation.md) processes. This document will cover the fundamental concepts, methodologies, applications, and real-world examples of MDS in depth.
 

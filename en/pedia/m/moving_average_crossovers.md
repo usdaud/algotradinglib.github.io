@@ -1,4 +1,4 @@
-## Moving Average Crossovers
+# Moving Average Crossovers
 
 In the realm of [algorithmic trading](../a/algorithmic_trading.md), moving average crossovers are one of the most utilized and time-tested strategies for identifying potential buy and sell signals. This method leverages the mathematical concepts of moving averages to determine shifts in market trends and to make informed trading decisions. Moving averages are statistical measurements that take the average price of a security over a specified number of periods, providing a smoother perspective on price trends, uncontaminated by random price movements. When two different moving averages, usually a short-term and a long-term average, intersect or "cross over," they give signals that can guide trading actions.
 

@@ -1,4 +1,4 @@
-### Regression Techniques in Algorithmic Trading
+# Regression Techniques
 
 Regression techniques are a cornerstone of statistical analysis and machine learning, widely used in [algorithmic trading](../a/algorithmic_trading.md) to model the relationship between a dependent variable (such as stock prices or returns) and one or more independent variables (such as [economic indicators](../e/economic_indicators.md), trading volume, or other financial metrics). These techniques allow traders to make predictions about market behavior and identify patterns that can inform [trading strategies](../t/trading_strategies.md). This document provides a comprehensive overview of various regression techniques and their applications in [algorithmic trading](../a/algorithmic_trading.md).
 

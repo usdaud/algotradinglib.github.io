@@ -1,5 +1,4 @@
-# Metcalfe's Law in Trading
-==========================
+# Metcalfe's Law
 
 ### Introduction to Metcalfe's Law
 

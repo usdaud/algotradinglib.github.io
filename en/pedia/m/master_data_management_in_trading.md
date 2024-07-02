@@ -1,4 +1,4 @@
-# Master Data Management in Trading
+# Master Data Management
 
 Master Data Management (MDM) is a comprehensive method for defining and managing the critical data of an organization to provide, with [data integration](../d/data_integration.md), a single point of reference. This comprehensive approach to managing an organization's most critical data has far-reaching implications for various industries, particularly in trading. The effective implementation of MDM in trading ensures data accuracy, consistency, and accessibility, which are essential for driving agile and informed decisions.
 

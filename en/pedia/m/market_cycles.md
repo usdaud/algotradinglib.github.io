@@ -1,4 +1,4 @@
-# Market Cycles in Algorithmic Trading
+# Market Cycles
 
 [Algorithmic trading](../a/algorithmic_trading.md), commonly known as algo-trading, leverages computer algorithms to execute trade orders at incredible speeds and with high efficiency. A key element to succeeding in [algorithmic trading](../a/algorithmic_trading.md) is understanding market cycles, as these cycles influence market behavior and, consequently, [trading strategies](../t/trading_strategies.md). Market cycles are recurring patterns in the movement of financial markets, manifested through phases of economic expansion—and contraction—alongside corresponding shifts in investor sentiment.
 

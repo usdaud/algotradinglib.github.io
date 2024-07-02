@@ -1,4 +1,4 @@
-# Phased Withdrawal Strategies in Algorithmic Trading
+# Phased Withdrawal Strategies
 
 Phased withdrawal strategies are commonly used in financial management and retirement planning. These strategies aim to systematically withdraw assets over time to provide a sustainable income stream while balancing risks. In [algorithmic trading](../a/algorithmic_trading.md), phased withdrawal strategies can help traders manage capital exposure, risks, and rewards. By strategically withdrawing funds or reducing positions, traders aim to protect profits, reduce risk exposure, and ensure long-term portfolio sustainability.
 

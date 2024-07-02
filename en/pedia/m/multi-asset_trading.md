@@ -1,4 +1,4 @@
-# **Multi-Asset Trading**
+# Multi-Asset Trading
 
 Multi-asset trading refers to the practice of trading multiple types of financial instruments across various asset classes, such as equities, bonds, commodities, currencies, and [derivatives](../d/derivatives.md), through a single platform or trading system. This approach allows investors and traders to diversify their portfolios, manage risk more effectively, and exploit [arbitrage](../a/arbitrage.md) opportunities across different markets.
 

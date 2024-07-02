@@ -1,4 +1,4 @@
-# Recession-Proof Strategies in Algorithmic Trading
+# Recession-Proof Strategies
 
 [Algorithmic trading](../a/algorithmic_trading.md), commonly referred to as "algo-trading", involves the use of computer algorithms to trade financial securities based on predetermined criteria. Algo-trading manages many variables, including timing, price, and volume, leveraging historical data, statistical models, and real-time market trends to make informed trading decisions. During periods of economic downturns or recessions, these strategies are modified to ensure they are more resistant to adverse market conditions. This document examines the recession-proof strategies in [algorithmic trading](../a/algorithmic_trading.md), providing a detailed exploration of approaches that traders can utilize to safeguard their investments.
 

@@ -1,4 +1,4 @@
-### Principal Components in Trading
+# Principal Components
 
 Principal Component Analysis (PCA) is a statistical procedure that uses orthogonal transformation to convert a set of possibly correlated variables into a set of values of linearly uncorrelated variables called principal components. In the context of trading, PCA can be used to simplify the complexity of financial markets by reducing the dimensionality of datasets while retaining as much variability as possible.
 

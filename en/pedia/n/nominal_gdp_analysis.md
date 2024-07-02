@@ -1,4 +1,4 @@
-## Nominal GDP Analysis
+# Nominal GDP Analysis
 
 ### Introduction to Nominal GDP
 Nominal Gross Domestic Product (Nominal GDP) represents the market value of all final goods and services produced in a country without adjusting for inflation. It is a crucial macroeconomic metric that helps in understanding the economic performance and size of an economy. Unlike Real GDP, which is adjusted for inflation to reflect the true value of goods and services, Nominal GDP uses current prices to measure the economic output. As a result, it includes the effects of inflation and can sometimes give a skewed picture of economic growth if not analyzed correctly.

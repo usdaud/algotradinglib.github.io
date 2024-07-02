@@ -1,4 +1,4 @@
-# **Noise in Financial Data**
+# Noise in Financial Data
 
 Noise in financial data refers to the random, unpredictable, and often irrelevant fluctuations that occur in financial markets. These fluctuations can obscure the true underlying patterns and trends in asset prices, making it difficult for traders and analysts to make informed decisions. Understanding and managing noise is one of the key challenges in the field of [quantitative finance](../q/quantitative_finance.md) and [algorithmic trading](../a/algorithmic_trading.md).
 

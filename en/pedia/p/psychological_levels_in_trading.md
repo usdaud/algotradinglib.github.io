@@ -1,5 +1,4 @@
-# Psychological Levels in Trading
-===============================
+# Psychological Levels
 
 **Introduction**
 ----------------

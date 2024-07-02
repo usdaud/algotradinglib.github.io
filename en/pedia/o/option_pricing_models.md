@@ -1,4 +1,4 @@
-## Option Pricing Models
+# Option Pricing Models
 
 Option pricing models are mathematical formulations used to determine the theoretical value of options. These models help traders and investors assess the fairness of the current market prices of options, aiding in their trading and [risk management](../r/risk_management.md) decisions. Option pricing is a cornerstone of financial [derivatives](../d/derivatives.md), and efficient pricing models are crucial for both market makers and traders who engage in options trading. Several models have been developed over the years, each with its own set of assumptions and applications. This article provides an in-depth look at some of the most widely used option pricing models in the field of [financial engineering](../f/financial_engineering.md) and [quantitative finance](../q/quantitative_finance.md).
 

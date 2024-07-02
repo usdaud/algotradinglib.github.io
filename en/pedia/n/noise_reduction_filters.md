@@ -1,4 +1,4 @@
-# Noise Reduction Filters in Algorithmic Trading
+# Noise Reduction Filters
 
 [Algorithmic trading](../a/algorithmic_trading.md), the practice of using computer algorithms to execute [trading strategies](../t/trading_strategies.md), relies heavily on the accurate processing of financial data. However, financial markets are inherently noisy, with price movements influenced by a multitude of factors that create volatility and irregular trading patterns. Noise reduction filters are essential tools that traders and quantitative analysts use to clean the data and extract meaningful signals from this noise, ultimately aiding in the development and execution of [trading strategies](../t/trading_strategies.md).
 

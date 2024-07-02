@@ -1,4 +1,4 @@
-# Price Sensitivity Analysis in Algorithmic Trading
+# Price Sensitivity Analysis
 
 Price sensitivity analysis, also known as elasticity analysis, is a method used to determine how price changes impact the quantity demanded or supplied of financial assets and securities. This analysis is instrumental in understanding market dynamics and is widely employed in the field of [algorithmic trading](../a/algorithmic_trading.md). [Algorithmic trading](../a/algorithmic_trading.md) involves using computer algorithms to trade financial instruments at high speeds and volumes. By incorporating price sensitivity analysis, traders can make more informed decisions based on the projected impacts of price changes on trade volume and market reactions.
 

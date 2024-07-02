@@ -1,5 +1,4 @@
-# Non-GAAP Measures in Trading
-=============================
+# Non-GAAP Measures
 
 **Overview**
 

@@ -1,4 +1,4 @@
-# Price-Volume Trends (PVT) in Algorithmic Trading
+# Price-Volume Trends
 
 Price-Volume Trend (PVT) is a [technical analysis](../t/technical_analysis.md) indicator that combines price and volume data to form a cumulative line. Similar to the On-Balance Volume (OBV) indicator, the PVT helps traders identify the direction and strength of a trend through the relationship between price movements and trading volume. The PVT indicator is thought to provide more nuance and detail because it scales volume by the relative price change rather than simply adding or subtracting the entire volume figure based on whether the price closed up or down on the day.
 

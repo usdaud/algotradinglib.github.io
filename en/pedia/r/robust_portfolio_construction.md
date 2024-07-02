@@ -1,5 +1,4 @@
-# Robust Portfolio Construction in Algorithmic Trading
-==================================================
+# Robust Portfolio Construction
 
 In the context of [algorithmic trading](../a/algorithmic_trading.md), robust portfolio construction is a critical element that ensures a portfolio's resilience to market fluctuations, model uncertainties, and data discrepancies. This approach promotes a level of surety in the performance outcomes by employing a set of methodologies designed to withstand various market conditions and unforeseen events. This detailed exposition will delve into the nuances of robust portfolio construction, covering key principles, strategies, and tools effectively used in this domain.
 

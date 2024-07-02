@@ -1,4 +1,4 @@
-### Prospect Theory Heuristics
+# Prospect Theory Heuristics
 
 Prospect Theory is a foundational concept in behavioral economics that explains how people make decisions under conditions of risk and uncertainty. Developed by Daniel Kahneman and Amos Tversky in the late 1970s, this theory challenges the expected utility theory, which is a cornerstone of classical economics. Expected utility theory assumes that individuals act rationally to maximize their expected utility. However, Kahneman and Tversky demonstrated that real-world decision-making often deviates from this rationality due to cognitive biases and heuristics.
 

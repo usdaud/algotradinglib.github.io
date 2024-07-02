@@ -1,4 +1,4 @@
-## Network Analysis in Trading
+# Network Analysis
 
 Network analysis in trading involves the application of network theory to understand and analyze financial markets. It helps traders, analysts, and investors to uncover relationships, patterns, and dynamics that are not immediately obvious through conventional analysis methods. This approach leverages the interconnectedness of assets, market participants, and informational flows to gain deeper insights into market behavior and optimize [trading strategies](../t/trading_strategies.md).
 

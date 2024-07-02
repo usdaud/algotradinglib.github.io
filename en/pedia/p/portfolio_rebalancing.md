@@ -1,4 +1,4 @@
-# Portfolio Rebalancing in Algorithmic Trading
+# Portfolio Rebalancing
 
 ## Introduction
 Portfolio rebalancing is a crucial process in financial management that helps maintain a desired [asset allocation](../a/asset_allocation.md) and risk profile over time. As market conditions change, the values of different assets within a portfolio can shift, causing the original allocation strategy to drift. Rebalancing involves periodically buying and selling assets to restore the portfolio to its target allocation.

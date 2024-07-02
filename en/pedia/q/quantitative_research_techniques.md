@@ -1,4 +1,4 @@
-# Quantitative Research Techniques in Algorithmic Trading
+# Quantitative Research Techniques
 
 [Quantitative research](../q/quantitative_research.md) techniques are fundamental to [algorithmic trading](../a/algorithmic_trading.md), as they provide the backbone for developing, testing, and optimizing [trading strategies](../t/trading_strategies.md). This document delves into various [quantitative research](../q/quantitative_research.md) methods employed by professional traders and financial institutions. The techniques discussed include statistical analysis, machine learning, and [data mining](../d/data_mining.md) among others, highlighting their application in the realm of [algorithmic trading](../a/algorithmic_trading.md).
 

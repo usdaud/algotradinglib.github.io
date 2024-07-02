@@ -1,4 +1,4 @@
-# Parabolic Curve Patterns in Algorithmic Trading
+# Parabolic Curve Patterns
 
 Parabolic curve patterns are a type of chart formation commonly seen in financial markets, and they are especially important in [algorithmic trading](../a/algorithmic_trading.md) due to their predictive potential for asset price movements. These patterns typically occur during extreme bull or bear markets and are characterized by an accelerating rate of price change. Understanding these patterns can provide critical insights for developing and optimizing [trading algorithms](../t/trading_algorithms.md).
 

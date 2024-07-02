@@ -1,5 +1,4 @@
-# Residual Analysis in Trading
----
+# Residual Analysis
 
 Residual analysis in trading refers to the examination and interpretation of residuals – the differences between observed values and the values predicted by a trading model. This method is pivotal in identifying whether a trading strategy is performing well or if there are patterns left unexplained by the model. Below, we delve deeper into the aspects of residual analysis in trading, its importance, steps involved, and practical applications. 
 

@@ -1,4 +1,4 @@
-# Number Theory in Trading
+# Number Theory
 
 Number theory, a branch of pure mathematics dealing with the properties and relationships of numbers, has significant applications in various fields, including the world of trading. This document explores the intersection of number theory with trading, highlighting how number theoretic concepts are utilized in [algorithmic trading](../a/algorithmic_trading.md) and financial analysis.
 

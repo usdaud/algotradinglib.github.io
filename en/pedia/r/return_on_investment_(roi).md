@@ -1,4 +1,4 @@
-# Return on Investment (ROI) in Algorithmic Trading
+# Return on Investment (ROI)
 
 ## Introduction to ROI
 

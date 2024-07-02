@@ -1,4 +1,4 @@
-## Quarterly Rebalancing in Algorithmic Trading
+# Quarterly Rebalancing
 
 ### Introduction
 

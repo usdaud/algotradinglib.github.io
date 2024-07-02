@@ -1,4 +1,4 @@
-# Poisson Distribution in Trading
+# Poisson Distribution
 
 ## Introduction to Poisson Distribution
 

@@ -1,4 +1,4 @@
-# Rebalancing Strategies in Algorithmic Trading
+# Rebalancing Strategies
 
 Rebalancing strategies play a critical role in [algorithmic trading](../a/algorithmic_trading.md), providing a mechanism to maintain a desired [asset allocation](../a/asset_allocation.md) in the face of market volatility. These strategies involve adjusting the weights of a portfolio's components to keep the portfolio in line with its target [asset allocation](../a/asset_allocation.md). Below, we delve into the conceptual framework, types, methodologies, and practical considerations of rebalancing strategies used in [algorithmic trading](../a/algorithmic_trading.md).
 

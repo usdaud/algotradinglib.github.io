@@ -1,4 +1,4 @@
-# Quasi-Newton Methods in Algorithmic Trading
+# Quasi-Newton Methods
 
 Quasi-Newton methods are an essential class of optimization algorithms widely used in various scientific and engineering fields, including [algorithmic trading](../a/algorithmic_trading.md). These methods are designed to solve nonlinear optimization problems more efficiently compared to the classical Newton's method. In the context of [algorithmic trading](../a/algorithmic_trading.md), quasi-Newton methods can play a critical role in parameter optimization, risk minimization, and improving predictive models for better market strategies.
 

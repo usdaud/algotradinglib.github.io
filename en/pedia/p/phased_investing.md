@@ -1,4 +1,4 @@
-# Phased Investing in Algorithmic Trading
+# Phased Investing
 
 Phased Investing is a strategic investment methodology often employed in the domain of [algorithmic trading](../a/algorithmic_trading.md). This technique involves dividing the investment capital into smaller, incremental phases rather than committing the entire sum at once. Each phase is characterized by its investment strategies, risk assessments, and performance evaluations. The incremental nature of Phased Investing allows investors to fine-tune their approaches based on [real-time market data](../r/real-time_market_data.md) and [performance metrics](../p/performance_metrics.md), thereby minimizing risks and maximizing returns over time.
 

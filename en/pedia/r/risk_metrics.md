@@ -1,5 +1,4 @@
-# Risk Metrics in Algorithmic Trading
-===================================
+# Risk Metrics
 
 [Algorithmic trading](../a/algorithmic_trading.md), often referred to as "algo trading," involves the use of complex algorithms to automatically execute trading orders on financial markets. While this sophisticated approach offers numerous advantages, such as executing trades at high speed and efficiency, it also introduces various risks that need to be meticulously managed. This is where risk metrics come into play. Risk metrics are crucial in evaluating, managing, and mitigating the risks associated with [algorithmic trading](../a/algorithmic_trading.md) strategies. This article provides an in-depth examination of the different types of risk metrics used in [algorithmic trading](../a/algorithmic_trading.md).
 

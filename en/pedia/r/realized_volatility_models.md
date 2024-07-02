@@ -1,4 +1,4 @@
-## Realized Volatility Models
+# Realized Volatility Models
 
 [Realized volatility](../r/realized_volatility.md) models are crucial tools in financial econometrics, particularly within the domain of [algorithmic trading](../a/algorithmic_trading.md). [Realized volatility](../r/realized_volatility.md) measures the actual [historical volatility](../h/historical_volatility.md) of a financial instrument based on intraday price data, providing a more accurate depiction of market dynamics than traditional models that often rely on daily closing prices. This detailed exploration will delve into the types of [realized volatility](../r/realized_volatility.md) models, their mathematical formulations, applications, and the implications for [trading strategies](../t/trading_strategies.md).
 

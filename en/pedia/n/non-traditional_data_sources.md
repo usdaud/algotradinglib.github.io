@@ -1,4 +1,4 @@
-# Non-Traditional Data Sources in Algorithmic Trading
+# Non-Traditional Data Sources
 
 In recent years, the landscape of [algorithmic trading](../a/algorithmic_trading.md) has evolved significantly, driven not just by advancements in computational technology but also by the increasing adoption of non-traditional data sources. These data sources, often referred to as [alternative data](../a/alternative_data.md), provide a competitive edge to traders by offering insights that are not readily available through traditional financial datasets. 
 

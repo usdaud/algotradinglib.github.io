@@ -1,4 +1,4 @@
-## Normalized Earnings
+# Normalized Earnings
 
 Normalized earnings, also known as regularized or adjusted earnings, are an important financial metric that adjusts earnings to remove the effects of non-recurring or one-time items, providing a clearer, more consistent view of a company's long-term financial performance. The goal is to present earnings that reflect a company's usual trajectory without the influence of atypical events. This allows investors, analysts, and other stakeholders to make better comparisons between different time periods and companies by neutralizing the financial statement irregularities.
 

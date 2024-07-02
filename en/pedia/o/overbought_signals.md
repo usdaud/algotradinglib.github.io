@@ -1,4 +1,4 @@
-# Overbought Signals in Algorithmic Trading
+# Overbought Signals
 
 In the ever-evolving world of financial trading, [algorithmic trading](../a/algorithmic_trading.md) has taken a pivotal role, enabling faster transactions and more complex [trading strategies](../t/trading_strategies.md). A significant concept within [algorithmic trading](../a/algorithmic_trading.md) is the identification of "overbought signals." These signals can indicate potential opportunities for traders to optimize their strategies, and understanding them is key to successful trading.
 

@@ -1,4 +1,4 @@
-## Introduction to Money Management Strategies in Algorithmic Trading
+# Money Management Strategies
 
 Money management is a critical aspect of trading, particularly in [algorithmic trading](../a/algorithmic_trading.md), where strategies are implemented in an automated manner. Effective money management strategies ensure that traders not only protect their capital but also optimize their [trading performance](../t/trading_performance.md) by managing risk, maximizing profit, and minimizing losses. This document explores various money management strategies, their importance, and how they can be applied in the context of [algorithmic trading](../a/algorithmic_trading.md).
 

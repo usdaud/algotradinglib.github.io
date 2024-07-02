@@ -1,4 +1,4 @@
-## Reverse Calendar Spread
+# Reverse Calendar Spread
 
 A Reverse Calendar Spread, also known as a reverse time spread or contra-calendar spread, is an advanced options trading strategy that serves as a speculative play on volatility. Unlike a traditional calendar spread, where an investor typically buys a longer-term option and sells a shorter-term option of the same type and strike price, the reverse calendar spread involves selling a longer-term option and buying a shorter-term option.
 

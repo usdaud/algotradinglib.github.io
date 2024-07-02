@@ -1,4 +1,4 @@
-# Personal Finance in Trading
+# Personal Finance
 
 Personal finance refers to the management of an individual's financial activities, which includes budgeting, saving, investing, and planning for the future. When it comes to trading, personal finance becomes even more crucial as traders need to carefully manage their funds to ensure long-term sustainability and profitability. This article delves into various aspects of personal finance in trading, offering a comprehensive guide on how to manage finances effectively as a trader.
 

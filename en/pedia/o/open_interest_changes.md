@@ -1,4 +1,4 @@
-# Open Interest Changes in Algorithmic Trading
+# Open Interest Changes
 
 Open interest is a crucial metric in the world of trading, particularly within [derivatives](../d/derivatives.md) markets, such as options and futures. It refers to the total number of outstanding derivative contracts, such as options or futures, that have not yet been settled. These contracts can be initiated either through creating new positions or liquidating existing ones. Open interest offers valuable insights into the trading activity and market sentiment, which can be extremely beneficial for traders, especially those involved in [algorithmic trading](../a/algorithmic_trading.md).
 

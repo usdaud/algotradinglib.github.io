@@ -1,4 +1,4 @@
-# **Maximum Drawdown Analysis in Algorithmic Trading**
+# Maximum Drawdown Analysis
 
 In the realm of [algorithmic trading](../a/algorithmic_trading.md), the evaluation and management of risk are paramount to ensuring the longevity and success of [trading strategies](../t/trading_strategies.md). One crucial metric in this context is the Maximum Drawdown (MDD). This metric provides vital insights into the risk characteristics of a trading strategy, allowing traders to make informed decisions about its viability and robustness.
 

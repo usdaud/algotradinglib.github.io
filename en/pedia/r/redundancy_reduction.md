@@ -1,4 +1,4 @@
-# Redundancy Reduction in Algorithmic Trading
+# Redundancy Reduction
 
 In [algorithmic trading](../a/algorithmic_trading.md), redundancy reduction is a critical concept, focusing on minimizing unnecessary or duplicated data to enhance efficiency and streamline computational processes. Redundancy reduction involves the use of various techniques to ensure that [trading algorithms](../t/trading_algorithms.md) manage data optimally, improving both the speed and accuracy of trade execution. This practice is paramount in large-scale trading environments where vast amounts of data are processed continually and swiftly.
 

@@ -1,4 +1,4 @@
-# **Margin Trading**
+# Margin Trading
 
 Margin trading is a financial investment strategy where investors trade assets using borrowed funds from a broker, allowing them to leverage their positions. This means that investors can purchase more securities than they could with just their available capital, amplifying both potential gains and potential losses. Here's a comprehensive overview of margin trading, its mechanisms, risks, benefits, and regulations.
 

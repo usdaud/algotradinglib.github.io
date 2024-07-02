@@ -1,4 +1,4 @@
-### Repo Rate Analysis
+# Repo Rate Analysis
 
 **Repo Rate** (short for Repurchase Agreement Rate) is a critical component in the financial markets, primarily within the fixed-income segment. Repo transactions are pivotal to the operations of financial institutions, central banks, and other market participants. Understanding the repo rate and its impact forms a crucial aspect of [quantitative finance](../q/quantitative_finance.md) and [algorithmic trading](../a/algorithmic_trading.md) strategies.
 

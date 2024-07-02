@@ -1,4 +1,4 @@
-## Quantitative Forecasting
+# Quantitative Forecasting
 
 Quantitative forecasting is a technique that relies on historical numerical data to predict future values or trends. It employs statistical models and mathematical formulas to analyze and interpret data, generating forecasts that are data-driven and objective. These methods are widely used across various industries such as finance, supply chain management, economics, and weather forecasting, among others. In this document, we'll delve deeper into the methodologies, applications, challenges, and recent advancements in quantitative forecasting.
 

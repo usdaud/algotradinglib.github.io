@@ -1,4 +1,4 @@
-# Price Level Analysis in Algorithmic Trading
+# Price Level Analysis
 
 Price level analysis is an essential component of [algorithmic trading](../a/algorithmic_trading.md), enabling traders and automated systems to identify and react to significant price points where buying or selling pressures are historically high. These price levels can be used to set entry and exit points, as well as to identify potential reversals and support/resistance zones. In this document, we will delve deeply into the concept of price level analysis, its significance, methodologies, and implementation within the realm of [algorithmic trading](../a/algorithmic_trading.md).
 

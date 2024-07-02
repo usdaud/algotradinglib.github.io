@@ -1,4 +1,4 @@
-# Matching Algorithms in Trading
+# Matching Algorithms
 
 In the world of electronic financial markets, trades are executed by matching buy and sell orders. The mechanism behind this is known as a matching engine, which utilizes various algorithms to ensure that orders are fulfilled efficiently and in accordance with market regulations. Let's dive into the details of matching algorithms, how they work, and the specific ways they influence trading.
 

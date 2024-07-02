@@ -1,4 +1,4 @@
-# Numerical Methods in Trading
+# Numerical Methods
 
 ## Introduction
 Numerical methods are computational techniques used to solve mathematical problems that may be too complex for analytical solutions. In the context of trading, these methods are applied to optimize strategies, analyze financial data, and forecast market trends. They play a key role in [algorithmic trading](../a/algorithmic_trading.md), where decisions are executed by computer algorithms based on [quantitative analysis](../q/quantitative_analysis.md).

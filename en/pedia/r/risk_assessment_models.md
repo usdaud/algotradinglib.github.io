@@ -1,4 +1,4 @@
-## Risk Assessment Models in Algorithmic Trading
+# Risk Assessment Models
 
 [Algorithmic trading](../a/algorithmic_trading.md), often referred to as algo-trading, is the use of computer algorithms to manage trading activities in financial markets. One of the most critical aspects of [algorithmic trading](../a/algorithmic_trading.md) is managing risk. Risk assessment models form the backbone of a robust [risk management](../r/risk_management.md) framework, enabling traders to anticipate potential losses and make informed decisions. This section delves into various risk assessment models used in [algorithmic trading](../a/algorithmic_trading.md), their methodologies, and practical applications.
 

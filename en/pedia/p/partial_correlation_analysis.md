@@ -1,4 +1,4 @@
-## Partial Correlation Analysis in Algorithmic Trading
+# Partial Correlation Analysis
 
 Partial correlation measures the degree of association between two variables while controlling for the effect of one or more additional variables. This statistical tool is particularly useful in fields like [algorithmic trading](../a/algorithmic_trading.md), where analysts and traders are always looking for innovative methods to understand complex market dynamics and identify trading opportunities. [Algorithmic trading](../a/algorithmic_trading.md) relies on mathematical models and statistical measures to make automated trading decisions, and partial correlation can be one of those valuable tools.
 

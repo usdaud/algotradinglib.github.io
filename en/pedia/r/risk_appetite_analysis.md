@@ -1,4 +1,4 @@
-# Risk Appetite Analysis in Algorithmic Trading
+# Risk Appetite Analysis
 
 Risk appetite refers to the extent of risk that an organization or individual is willing to take in pursuit of their financial goals. This concept is incredibly critical in the field of [algorithmic trading](../a/algorithmic_trading.md), where decisions are driven by pre-programmed instructions and [real-time data analysis](../r/real-time_data_analysis.md). Risk appetite analysis is crucial for developing strategies that balance potential profits against potential losses, ensuring that the trading activities align with the overall risk tolerance of the trader or institution.
 

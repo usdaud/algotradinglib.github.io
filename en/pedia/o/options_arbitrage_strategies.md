@@ -1,4 +1,4 @@
-## Options Arbitrage Strategies
+# Options Arbitrage Strategies
 
 Options [arbitrage](../a/arbitrage.md) strategies are trading techniques that exploit price inefficiencies between related securities in options markets to generate risk-free profits. These strategies are a type of advanced trading strategy typically used by professional traders and hedge funds. Options themselves are financial instruments that derive value from an underlying asset, such as stocks, indices, or commodities. Below, we will explore the most popular types of options [arbitrage](../a/arbitrage.md) strategies, along with examples and explanations of how they work.
 

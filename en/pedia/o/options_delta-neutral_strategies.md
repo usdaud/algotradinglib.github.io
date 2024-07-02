@@ -1,4 +1,4 @@
-# **Options Delta-Neutral Strategies**
+# Options Delta-Neutral Strategies
 
 In the realm of options trading, delta-neutral strategies are an essential concept, especially for traders seeking to hedge their portfolios or implement advanced trading tactics. A delta-neutral strategy is designed to neutralize the directional risk associated with the price movement of the underlying asset. This is achieved by creating a position where the overall delta—the measure of an option's sensitivity to changes in the price of the underlying asset—is zero or close to zero.
 

@@ -1,4 +1,6 @@
-# Regression-based strategies in algorithmic trading leverage statistical methods to predict the future price movements of financial assets. These strategies utilize regression analysis to model the relationship between different financial variables and the price of the asset of interest. By analyzing historical data, traders aim to identify patterns and correlations that can suggest profitable trades. There are several types of regression methods used in algorithmic trading, including linear regression, logistic regression, polynomial regression, and ridge regression, among others. This article delves into the intricacies of each type, their applications, advantages, and limitations in the context of trading.
+# Regression-Based Strategies
+
+Regression-based strategies in algorithmic trading leverage statistical methods to predict the future price movements of financial assets. These strategies utilize regression analysis to model the relationship between different financial variables and the price of the asset of interest. By analyzing historical data, traders aim to identify patterns and correlations that can suggest profitable trades. There are several types of regression methods used in algorithmic trading, including linear regression, logistic regression, polynomial regression, and ridge regression, among others. This article delves into the intricacies of each type, their applications, advantages, and limitations in the context of trading.
 
 ### Linear Regression
 

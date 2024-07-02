@@ -1,4 +1,4 @@
-# Residual Risk Management in Algorithmic Trading
+# Residual Risk Management
 
 Residual risk, often referred to as "leftover risk," emerges after all possible steps have been taken to mitigate the primary and secondary risks associated with a particular trading strategy or investment. In [algorithmic trading](../a/algorithmic_trading.md), managing residual risk becomes a critical aspect for ensuring the robustness and effectiveness of [trading models](../t/trading_models.md). This comprehensive discussion explores the concept of residual [risk management](../r/risk_management.md), its relevance in [algorithmic trading](../a/algorithmic_trading.md), techniques used to address it, and real-world applications.
 

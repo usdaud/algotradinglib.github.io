@@ -1,4 +1,4 @@
-# **Oversold and Overbought Conditions in Algorithmic Trading**
+# Oversold and Overbought Conditions
 
 In the context of financial markets, the terms "oversold" and "overbought" are widely used to indicate potential reversal points by identifying when assets have moved too far in a single direction. These concepts serve as crucial indicators in both manual and [algorithmic trading](../a/algorithmic_trading.md) strategies. This detailed overview will explore these conditions, how they are measured, and their application in algotrading.
 

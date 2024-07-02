@@ -1,4 +1,4 @@
-# Performance Risk Analysis in Algorithmic Trading
+# Performance Risk Analysis
 
 Performance [risk analysis](../r/risk_analysis.md) is a crucial aspect of [algorithmic trading](../a/algorithmic_trading.md), aiming to assess and manage the various risks involved in the effectiveness and efficiency of [trading algorithms](../t/trading_algorithms.md). This analytical process is integral to ensuring that the [trading strategies](../t/trading_strategies.md) yield the intended returns without unexpected losses.
 

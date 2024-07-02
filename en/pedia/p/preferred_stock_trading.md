@@ -1,4 +1,4 @@
-### Preferred Stock Trading
+# Preferred Stock Trading
 
 Preferred stock trading is a specialized niche within the broader realm of stock trading that focuses on the buying and selling of preferred shares. Preferred stocks, or preference shares, are a class of equity that possess characteristics of both debt and equity. They typically offer fixed dividends and have a higher claim on assets and earnings than common stock, but they generally do not come with voting rights.
 

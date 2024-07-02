@@ -1,4 +1,4 @@
-## Normal Copula in Trading
+# Normal Copula
 
 ### Introduction to Copulae
 

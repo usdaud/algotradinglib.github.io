@@ -1,4 +1,4 @@
-## Rolling Window Analysis
+# Rolling Window Analysis
 
 In the domain of [algorithmic trading](../a/algorithmic_trading.md), the analysis and prediction of financial markets require robust statistical techniques. One such technique is the "Rolling Window Analysis," a powerful tool used by traders and quantitative analysts to assess and forecast time series data, accounting for evolving market conditions. This technique involves the application of statistical or econometric models on a moving subset of data to continuously update and refine predictions. By examining the behavior of financial instruments over multiple, overlapping periods, analysts can gain insight into recent trends and adjust their [trading strategies](../t/trading_strategies.md) dynamically.
 

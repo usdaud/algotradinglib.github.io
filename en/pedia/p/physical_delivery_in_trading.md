@@ -1,4 +1,4 @@
-## Physical Delivery in Trading
+# Physical Delivery
 
 ### Overview
 

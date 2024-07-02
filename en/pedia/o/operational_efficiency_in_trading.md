@@ -1,4 +1,4 @@
-## Operational Efficiency in Trading
+# Operational Efficiency
 
 Operational efficiency in trading refers to the capability of a trading operation to maximize outputs (like profits) from a given set of inputs (like capital and resources) while minimizing waste and errors. This is not just a matter of reducing costs but also involves improving the overall effectiveness and speed of trading operations, thus ensuring better returns on investments. 
 

@@ -1,4 +1,6 @@
-# Predictive modeling is a process used in machine learning and statistical techniques to create, test, and validate a model that can predict future outcomes based on historical data. It is widely applied in various domains, including finance, healthcare, marketing, and more. In the context of algorithmic trading, predictive modeling aims to forecast future market movements, asset prices, or trading volumes to make informed and strategic trading decisions.
+# Predictive Modeling
+
+Predictive modeling is a process used in machine learning and statistical techniques to create, test, and validate a model that can predict future outcomes based on historical data. It is widely applied in various domains, including finance, healthcare, marketing, and more. In the context of algorithmic trading, predictive modeling aims to forecast future market movements, asset prices, or trading volumes to make informed and strategic trading decisions.
 
 ### Core Concepts of Predictive Modeling
 

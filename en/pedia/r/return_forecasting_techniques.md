@@ -1,4 +1,4 @@
-# Return Forecasting Techniques in Algorithmic Trading
+# Return Forecasting Techniques
 
 [Algorithmic trading](../a/algorithmic_trading.md) involves using computer algorithms to automate trading decisions. One of the essential components of this process is return forecasting, which is the prediction of future asset returns. Accurate return forecasting can significantly enhance the performance of [trading strategies](../t/trading_strategies.md). Here, we provide a detailed examination of various return forecasting techniques commonly used in [algorithmic trading](../a/algorithmic_trading.md).
 

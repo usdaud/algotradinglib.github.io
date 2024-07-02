@@ -1,4 +1,4 @@
-# Non-Parametric Statistics in Algorithmic Trading
+# Non-Parametric Statistics
 
 Non-parametric statistics refers to a branch of statistics that does not assume a specific distribution for the data. This is particularly useful in [algorithmic trading](../a/algorithmic_trading.md), where financial data often exhibit properties that violate assumptions of parametric tests, such as normality. Non-parametric methods can provide more flexible and robust tools for analyzing such data.
 

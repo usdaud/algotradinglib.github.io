@@ -1,4 +1,4 @@
-### Portfolio Allocation Models
+# Portfolio Allocation Models
 
 In the realm of [algorithmic trading](../a/algorithmic_trading.md), portfolio allocation models are indispensable tools for managing and optimizing the distribution of investments within a portfolio. These models aim to balance risk and return by determining the proportion of each asset to hold in a diversified portfolio. The development and application of portfolio allocation models can involve complex mathematical and statistical techniques, and they are essential for both individual investors and institutional managers.
 

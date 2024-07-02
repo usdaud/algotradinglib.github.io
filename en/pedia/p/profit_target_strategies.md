@@ -1,4 +1,4 @@
-# Profit Target Strategies in Algorithmic Trading
+# Profit Target Strategies
 
 In the world of [algorithmic trading](../a/algorithmic_trading.md), profit target strategies play a crucial role in defining the conditions under which a trading position should be exited to secure a desired level of profit. Essentially, profit targets are pre-defined price levels at which traders expect to exit a trade. These strategies help traders manage risk, improve discipline, and ensure that profits are realized before market conditions adversely change. This article delves deep into profit target strategies, discussing various methods, their advantages, potential drawbacks, and practical applications.
 

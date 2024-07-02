@@ -1,4 +1,4 @@
-## Negative Correlation Strategies in Algorithmic Trading
+# Negative Correlation Strategies
 
 [Algorithmic trading](../a/algorithmic_trading.md), commonly referred to as "algotrading," utilizes computer algorithms to execute trades at speeds and frequencies that are impossible for a human trader. Within this broader framework, Negative Correlation Strategies represent a fascinating and complex niche focusing on exploiting the inherent relationships between different assets to achieve risk-adjusted returns.
 

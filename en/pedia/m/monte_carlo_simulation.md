@@ -1,4 +1,4 @@
-# Monte Carlo Simulation in Algorithmic Trading
+# Monte Carlo Simulation
 
 ## Introduction
 Monte Carlo Simulation (MCS) is a mathematical technique that allows us to account for risk and uncertainty in [quantitative analysis](../q/quantitative_analysis.md) and decision making. Since its inception during World War II, this method has found applications in a wide range of fields, including finance, engineering, supply chain management, and various other domains that require risk assessment and outcome forecasting.

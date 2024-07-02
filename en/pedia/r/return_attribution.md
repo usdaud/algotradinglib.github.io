@@ -1,4 +1,4 @@
-# Return Attribution in Algo-Trading
+# Return Attribution
 
 Return attribution is a critical concept in financial analysis and [quantitative trading](../q/quantitative_trading.md). It involves the decomposing or breaking down of investment returns into distinct factors that contributed to the overall performance. This process provides insights into the sources of returns and helps in understanding the efficiency and effectiveness of the trading strategy. In [algorithmic trading](../a/algorithmic_trading.md) (algo-trading), return attribution is particularly significant due to the complex nature of these strategies, which often involve multiple asset classes, instruments, and methodologies.
 

@@ -1,4 +1,4 @@
-### Pairs Trading Signals
+# Pairs Trading Signals
 
 [Pairs trading](../p/pairs_trading.md) is a market-neutral trading strategy that matches a long position with a short position in a pair of highly correlated instruments, such as two stocks, exchange-traded funds (ETFs), or commodities. The idea behind [pairs trading](../p/pairs_trading.md) is to exploit relative differences in price movements between the paired instruments.
 

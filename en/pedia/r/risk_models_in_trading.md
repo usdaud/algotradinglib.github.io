@@ -1,5 +1,4 @@
-# Risk Models in Trading
-=======================
+# Risk Models
 
 ### Introduction
 Risk models in trading are mathematical frameworks designed to quantify the uncertainty in investment returns over a given period. Traders use these models to forecast potential losses or gains, manage risks efficiently, and optimize portfolios. Several types of risk models exist, each tailored to different aspects of trading and investment.

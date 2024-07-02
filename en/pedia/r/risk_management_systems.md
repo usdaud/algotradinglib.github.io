@@ -1,4 +1,4 @@
-# Risk Management Systems in Algorithmic Trading
+# Risk Management Systems
 
 [Algorithmic trading](../a/algorithmic_trading.md), often shortened to algo-trading, refers to the use of computer algorithms to automatically make trading decisions, submit orders, and manage trades in the financial markets. These algorithms are designed to follow a set of pre-defined instructions to execute trades at speeds and frequencies that are impossible for human traders. While [algorithmic trading](../a/algorithmic_trading.md) offers significant advantages, including efficiency, speed, and the ability to process large volumes of data, it also introduces various forms of risk. Effective [Risk Management](../r/risk_management.md) Systems (RMS) are essential to mitigate these risks and ensure the stability and profitability of trading operations.
 

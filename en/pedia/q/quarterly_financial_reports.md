@@ -1,4 +1,4 @@
-# Quarterly Financial Reports in Algorithmic Trading
+# Quarterly Financial Reports
 
 Quarterly financial reports, commonly known as earnings reports, are fundamental documents that publicly traded companies must file with the United States Securities and Exchange Commission (SEC). These reports are crucial for maintaining transparency and providing shareholders and potential investors with a clear view of a company's financial health and operational performance over a three-month period.
 

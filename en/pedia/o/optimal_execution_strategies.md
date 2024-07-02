@@ -1,4 +1,4 @@
-# Optimal Execution Strategies in Algorithmic Trading
+# Optimal Execution Strategies
 
 ## Introduction
 

@@ -1,4 +1,4 @@
-# Partial Moment Analysis in Algorithmic Trading
+# Partial Moment Analysis
 
 Partial Moment Analysis is a statistical method used to understand the behavior of asset returns, focusing on the parts of the distribution—especially the tails—that are of most interest to investors. Unlike the standard moments (mean, variance, skewness, and kurtosis), partial moments allow for a more directed analysis of risk and reward, enabling investors to make decisions based on specific financial goals or risk tolerances.
 

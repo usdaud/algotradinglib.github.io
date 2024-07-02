@@ -1,4 +1,4 @@
-## Introduction to Quantitative Risk Management
+# Quantitative Risk Management
 
 Quantitative [Risk Management](../r/risk_management.md) (QRM) is a field that involves the application of mathematical models and statistical techniques to assess and manage risk in financial markets. This discipline leverages technology, computer science, and advanced analytics to quantify risk factors, manage exposure, and improve decision-making in various sectors, mainly within finance and insurance.
 

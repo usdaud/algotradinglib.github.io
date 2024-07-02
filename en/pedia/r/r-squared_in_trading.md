@@ -1,4 +1,4 @@
-# R-Squared in Trading
+# R-Squared
 
 R-squared is a statistical measure that represents the proportion of the variance for a dependent variable that's explained by an independent variable or variables in a regression model. In the context of trading, R-squared is used to determine the strength and direction of the relationship between a portfolio's performance and the benchmark performance (usually a market index). The value of R-squared ranges from 0 to 1, where 0 signifies no correlation and 1 signifies perfect correlation.
 

@@ -1,4 +1,4 @@
-## NASDAQ Order Flow
+# NASDAQ Order Flow
 
 Order flow refers to the process by which buy and sell orders are matched in financial markets. In the context of NASDAQ, one of the largest and most active stock exchanges in the world, order flow involves significant technological infrastructure and algorithmic processes to ensure transactions are executed efficiently and at the best possible prices.
 

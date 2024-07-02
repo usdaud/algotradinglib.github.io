@@ -1,4 +1,4 @@
-# **Outperformance vs. Benchmark**
+# Outperformance vs. Benchmark
 
 In the realm of [algorithmic trading](../a/algorithmic_trading.md), the concept of outperformance relative to a benchmark is a critical measure of success and skill. It allows traders, financial analysts, and portfolio managers to evaluate the effectiveness of their [trading strategies](../t/trading_strategies.md) and investment decisions. Understanding this concept in depth involves delving into the metrics, methodologies, and practical implications of striving to beat a benchmark.
 

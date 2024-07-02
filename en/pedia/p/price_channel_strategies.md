@@ -1,4 +1,4 @@
-# Price Channel Strategies in Algorithmic Trading
+# Price Channel Strategies
 
 ## Introduction
 

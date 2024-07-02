@@ -1,4 +1,4 @@
-# Reversal Patterns in Algorithmic Trading
+# Reversal Patterns
 
 In financial markets, one of the fundamental analytical approaches is the study of [chart patterns](../c/chart_patterns.md) to predict future price movements. Reversal patterns are specific formations on price charts that signal a change in the prevailing trend. Identifying these patterns allows traders to anticipate reversals in stock, forex, or commodity prices. This guide will delve into the various types of reversal patterns used in [algorithmic trading](../a/algorithmic_trading.md), the principles behind their formations, and how they are integrated into algorithms for effective [trading strategies](../t/trading_strategies.md).
 

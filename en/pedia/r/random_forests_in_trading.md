@@ -1,4 +1,4 @@
-# Random Forests in Trading
+# Random Forests
 
 Random forests are an [ensemble learning](../e/ensemble_learning.md) method used for classification, regression, and other tasks by constructing multiple [decision trees](../d/decision_trees.md) during training time and outputting the mode of the classes (classification) or mean prediction (regression) of the individual trees. Random Forests are known for their high accuracy, ability to handle large datasets with higher dimensionality, and their robustness to overfitting. This makes them particularly suitable for the domain of [algorithmic trading](../a/algorithmic_trading.md), which often involves analyzing vast amounts of financial data to make predictions and trading decisions.
 

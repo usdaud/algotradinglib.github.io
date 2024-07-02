@@ -1,4 +1,4 @@
-## Moving Average Strategies in Algorithmic Trading
+# Moving Average Strategies
 
 In [algorithmic trading](../a/algorithmic_trading.md), moving average strategies are widely used due to their simplicity and effectiveness. Moving averages (MAs) are statistical tools used to analyze the price trends of securities over a specific period by smoothing out price data to identify the direction of the trend. This document explores different types of moving averages, various strategies that incorporate them, and their applications in [algorithmic trading](../a/algorithmic_trading.md).
 

@@ -1,4 +1,4 @@
-# Performance Ratios in Algorithmic Trading
+# Performance Ratios
 
 ## Introduction
 Performance ratios are crucial metrics in [algorithmic trading](../a/algorithmic_trading.md) used to evaluate the efficiency, profitability, and risk-adjusted returns of [trading algorithms](../t/trading_algorithms.md). They help traders and investors compare [trading strategies](../t/trading_strategies.md) and make informed decisions. This document explores some of the most common performance ratios used in [algorithmic trading](../a/algorithmic_trading.md).

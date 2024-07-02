@@ -1,4 +1,4 @@
-# Market Classification in Algorithmic Trading
+# Market Classification
 
 Market classification plays a crucial role in [algorithmic trading](../a/algorithmic_trading.md). It involves categorizing markets or assets based on various parameters such as market type, liquidity, volatility, and capitalization. Understanding these classifications helps algorithmic traders develop strategies that are tailored to specific market conditions.
 

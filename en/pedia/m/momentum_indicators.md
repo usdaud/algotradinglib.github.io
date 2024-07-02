@@ -1,4 +1,4 @@
-### Momentum Indicators
+# Momentum Indicators
 
 Momentum indicators are a vital part of [technical analysis](../t/technical_analysis.md) used in [algorithmic trading](../a/algorithmic_trading.md) to gauge the speed at which the price of a security changes. They measure the momentum of price movements, helping traders to identify potential buy and sell signals. It's important to note that momentum indicators themselves do not predict price direction but rather the strength of current price movements. When applied correctly, they can be powerful tools for making trading decisions.
 

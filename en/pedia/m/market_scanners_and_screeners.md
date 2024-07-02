@@ -1,4 +1,4 @@
-# Market Scanners and Screeners in Algorithmic Trading
+# Market Scanners and Screeners
 
 **[Market scanners](../m/market_scanners.md)** and **screeners** are fundamental tools utilized in [algorithmic trading](../a/algorithmic_trading.md) to identify trading opportunities based on predefined criteria. They automate the process of searching through thousands of stocks, ETFs, mutual funds, futures, forex, or other financial instruments to find those that exhibit desirable characteristics for [trading strategies](../t/trading_strategies.md).
 

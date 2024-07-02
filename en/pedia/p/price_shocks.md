@@ -1,4 +1,4 @@
-# Price Shocks in Algorithmic Trading
+# Price Shocks
 
 Price shocks are sudden and significant changes in the price of financial instruments, often occurring without clear immediate cause or due to unexpected news and events. These abrupt movements can happen in various asset classes, such as stocks, commodities, currencies, and bonds, and can result from factors like economic announcements, [geopolitical events](../g/geopolitical_events.md), natural disasters, or large institutional trades. The sequence of price shocks is critical for algorithmic traders, as their algorithms must be robust enough to handle such volatility and unpredictable market behavior.
 

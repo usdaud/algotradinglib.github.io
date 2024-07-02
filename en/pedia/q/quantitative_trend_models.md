@@ -1,4 +1,4 @@
-# Quantitative Trend Models in Algorithmic Trading
+# Quantitative Trend Models
 
 Quantitative trend models are a critical aspect of [algorithmic trading](../a/algorithmic_trading.md). These models use mathematical, statistical, and computational techniques to identify and exploit market trends. In this extensive discussion, we will delve into the various types of quantitative trend models, their components, techniques used, and practical applications within the financial markets.
 

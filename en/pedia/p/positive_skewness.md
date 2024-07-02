@@ -1,4 +1,4 @@
-# Positive Skewness in Algorithmic Trading
+# Positive Skewness
 
 Skewness is a statistical measure that describes the asymmetry of the distribution of data points in a dataset. In the context of financial markets and algotrading, skewness is used to understand the behavior and characteristics of asset returns. Positive skewness, in particular, plays a significant role in [risk management](../r/risk_management.md), strategy development, and evaluating the probability of extreme market movements.
 

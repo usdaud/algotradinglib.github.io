@@ -1,4 +1,4 @@
-# Pivot Point Strategies in Algorithmic Trading
+# Pivot Point Strategies
 
 Pivot Point strategies are a widely used approach in [algorithmic trading](../a/algorithmic_trading.md) to identify potential [support and resistance](../s/support_and_resistance.md) levels in the market. These strategies revolve around the calculation and use of [Pivot Points](../p/pivot_points.md), which are derived from the previous trading day's high, low, and closing prices. [Pivot Points](../p/pivot_points.md) provide traders with potential entry and exit points for their trades and are especially popular among day traders and scalpers. Below is an in-depth exploration of Pivot Point strategies, their calculation, implementation, and application in [algorithmic trading](../a/algorithmic_trading.md).
 

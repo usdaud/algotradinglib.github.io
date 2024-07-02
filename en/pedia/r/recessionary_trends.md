@@ -1,4 +1,4 @@
-# Recessionary Trends in Algorithmic Trading
+# Recessionary Trends
 
 ## Introduction
 

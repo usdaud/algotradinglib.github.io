@@ -1,4 +1,4 @@
-# Market Impact Costs in Algorithmic Trading
+# Market Impact Costs
 
 Market impact costs refer to the unintended price changes that occur as a direct result of executing large orders in financial markets. This phenomenon is of particular interest in [algorithmic trading](../a/algorithmic_trading.md), where massive transaction volumes and high-speed trading can significantly affect asset prices, ultimately impacting the profitability of [trading strategies](../t/trading_strategies.md).
 

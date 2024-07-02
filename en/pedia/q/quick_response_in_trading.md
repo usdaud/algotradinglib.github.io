@@ -1,4 +1,4 @@
-## Quick Response in Trading
+# Quick Response
 
 Quick response in trading, often called low-latency trading, refers to the speed and efficiency with which traders are able to execute orders in financial markets. This topic is particularly crucial in high-frequency trading (HFT), where the ability to respond to market conditions within milliseconds can significantly impact profitability. This discussion explores various aspects of quick response in trading, including the technology, strategies, and key players involved.
 

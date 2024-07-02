@@ -1,4 +1,4 @@
-# Price Correlation Analysis in Algorithmic Trading
+# Price Correlation Analysis
 
 Price [correlation analysis](../c/correlation_analysis.md) is an essential aspect of [quantitative finance](../q/quantitative_finance.md) and [algorithmic trading](../a/algorithmic_trading.md). By examining the correlations between asset prices, traders and quantitative analysts can identify patterns, hedge risks, optimize [portfolio performance](../p/portfolio_performance.md), and uncover [arbitrage](../a/arbitrage.md) opportunities. This detailed guide delves into the specifics of price [correlation analysis](../c/correlation_analysis.md), exploring its mathematical foundations, practical applications, and challenges in an [algorithmic trading](../a/algorithmic_trading.md) context.
 

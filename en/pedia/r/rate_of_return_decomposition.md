@@ -1,4 +1,4 @@
-### Rate of Return Decomposition
+# Rate of Return Decomposition
 
 Rate of return decomposition is a crucial concept in financial analysis and algo trading. It involves breaking down the overall rate of return of a portfolio or an investment into its constituent components to better understand the sources of performance. This decomposition is valuable for investors, traders, and portfolio managers as it enables them to identify which factors contributed to gains or losses, make more informed decisions, and optimize future strategies.
 

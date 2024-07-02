@@ -1,4 +1,4 @@
-# Network Models in Trading
+# Network Models
 
 ## Introduction
 

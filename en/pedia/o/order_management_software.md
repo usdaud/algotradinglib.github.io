@@ -1,4 +1,4 @@
-# Order Management Software in Algorithmic Trading
+# Order Management Software
 
 Order Management Software (OMS) is integral to the realm of [algorithmic trading](../a/algorithmic_trading.md), as it provides the necessary tools to manage and execute trade orders efficiently. [Algorithmic trading](../a/algorithmic_trading.md) involves the use of computer algorithms to automate [trading strategies](../t/trading_strategies.md), and OMS is a critical component in ensuring these algorithms interact seamlessly with the broader [trading environment](../t/trading_environment.md). In this comprehensive overview, we will delve into the core functionalities of OMS, its importance in [algorithmic trading](../a/algorithmic_trading.md), the types of OMS available, key features, leading providers, and the future outlook of OMS in the evolving landscape of financial markets.
 

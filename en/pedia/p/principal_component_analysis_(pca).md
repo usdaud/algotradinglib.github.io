@@ -1,4 +1,4 @@
-# Principal Component Analysis (PCA)
+# Principal Component Analysis
 
 Principal Component Analysis (PCA) is a statistical technique and one of the most commonly used methods in data processing, dimensionality reduction, and [multivariate analysis](../m/multivariate_analysis.md). Initially introduced by Karl Pearson in 1901, PCA’s primary objective is to transform a set of correlated variables into a set of uncorrelated variables, called principal components. These components are orthogonal to each other and are ordered such that the first few retain most of the variation present in the original dataset.
 

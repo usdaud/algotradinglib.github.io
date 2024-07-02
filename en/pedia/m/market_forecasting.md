@@ -1,4 +1,4 @@
-# Market Forecasting in Algorithmic Trading
+# Market Forecasting
 
 Market forecasting in [algorithmic trading](../a/algorithmic_trading.md) is a complex and multifaceted process that involves the use of mathematical models, statistical tools, and computer algorithms to predict future market movements. Below, we delve into the essential components and concepts of market forecasting within the realm of [algorithmic trading](../a/algorithmic_trading.md).
 

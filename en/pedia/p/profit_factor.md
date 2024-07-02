@@ -1,4 +1,4 @@
-## Profit Factor
+# Profit Factor
 
 Profit Factor is a key performance metric often used in the field of [algorithmic trading](../a/algorithmic_trading.md), designed to measure the profitability of a trading strategy. This metric is calculated by dividing the total gross profit of a trading strategy by the total gross loss. The formula looks like this:
 

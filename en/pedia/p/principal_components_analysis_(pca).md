@@ -1,5 +1,4 @@
-# Principal Components Analysis (PCA) in Algorithmic Trading
-==========================================================
+# Principal Components Analysis
 
 Principal Components Analysis (PCA) is a statistical procedure that uses orthogonal transformation to convert a set of possibly correlated variables into a set of values of linearly uncorrelated variables called principal components. In [algorithmic trading](../a/algorithmic_trading.md), PCA is leveraged to simplify the complexity of trading data to make more robust and [efficient trading strategies](../e/efficient_trading_strategies.md). Below is a comprehensive discussion on PCA, its application in [algorithmic trading](../a/algorithmic_trading.md), examples, benefits, limitations, and notable companies in the industry.
 

@@ -1,4 +1,4 @@
-# Recursive Filter in Trading
+# Recursive Filter
 
 ## Introduction
 

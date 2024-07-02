@@ -1,4 +1,4 @@
-# Overlay Strategies in Algorithmic Trading
+# Overlay Strategies
 
 ## Overview
 

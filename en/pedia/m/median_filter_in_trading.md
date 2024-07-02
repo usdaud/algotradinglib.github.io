@@ -1,5 +1,4 @@
-# Median Filter in Trading
-========================
+# Median Filter
 
 The median filter is a non-linear digital filtering technique, often used to remove noise from a signal or data series. In trading, the median filter can be used for smoothing price series and identifying trends without the lag associated with traditional moving averages. This document explores the theoretical underpinnings, practical applications, and variations of the median filter in the context of [algorithmic trading](../a/algorithmic_trading.md).
 

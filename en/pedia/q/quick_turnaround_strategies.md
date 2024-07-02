@@ -1,4 +1,4 @@
-# Quick Turnaround Strategies in Algorithmic Trading
+# Quick Turnaround Strategies
 
 ## Introduction
 Quick Turnaround Strategies (QTS) are high-frequency [trading strategies](../t/trading_strategies.md) that aim to capitalize on short-term market movements. These strategies leverage [computational algorithms](../c/computational_algorithms.md) and high-speed data feeds to identify and exploit inefficiencies or opportunities in the market. The automation and speed offered by algorithms allow traders to execute large volumes of trades within milliseconds, ensuring they can take advantage of fleeting [arbitrage](../a/arbitrage.md) opportunities or short-lived price discrepancies.

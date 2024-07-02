@@ -1,4 +1,4 @@
-# Quarterly Risk Assessment in Algorithmic Trading
+# Quarterly Risk Assessment
 
 ## Introduction
 **Quarterly Risk Assessment (QRA)** in [algorithmic trading](../a/algorithmic_trading.md) is a crucial practice aimed at managing and mitigating risks that arise from the deployment of automated [trading strategies](../t/trading_strategies.md). This assessment is performed every quarter to identify potential vulnerabilities, evaluate the performance of [trading algorithms](../t/trading_algorithms.md), ensure compliance with regulatory requirements, and make necessary adjustments to minimize financial losses. 

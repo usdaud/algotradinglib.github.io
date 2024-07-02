@@ -1,4 +1,4 @@
-# Rebalancing Risk in Algorithmic Trading
+# Rebalancing Risk
 
 Rebalancing risk is a crucial concept in the realm of [algorithmic trading](../a/algorithmic_trading.md). It pertains to the risks associated with the process of adjusting the weights of assets in a portfolio to maintain a desired allocation. This practice aims to manage risk and ensure that a portfolio is aligned with an investor’s or algorithm’s strategic objectives. The act of rebalancing can introduce various risks, including market risk, [execution risk](../e/execution_risk.md), and operational risk. This document delves into the multifaceted nature of rebalancing risk, the methodologies employed to mitigate it, and the impact of technology and algorithms in modern [rebalancing strategies](../r/rebalancing_strategies.md).
 

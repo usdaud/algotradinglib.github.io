@@ -1,4 +1,4 @@
-# Order Imbalance in Algorithmic Trading
+# Order Imbalance
 
 ## Introduction to Order Imbalance
 

@@ -1,4 +1,4 @@
-# Quick Liquidity Analysis in Algorithmic Trading
+# Quick Liquidity Analysis
 
 Quick [liquidity analysis](../l/liquidity_analysis.md) in [algorithmic trading](../a/algorithmic_trading.md) is a nuanced and vital aspect that determines how easily assets can be bought or sold in the market without affecting their price significantly. In financial markets, the term 'liquidity' refers to the ability of an asset to be quickly converted into cash or another asset without a substantial degradation in value. Here we delve deeply into the significance, methodologies, and implications of quick [liquidity analysis](../l/liquidity_analysis.md) in the realm of [algorithmic trading](../a/algorithmic_trading.md).
 

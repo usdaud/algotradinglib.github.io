@@ -1,4 +1,4 @@
-# **Noise Measurement in Trading**
+# Noise Measurement
 
 Noise measurement in trading refers to the process of distinguishing between relevant market signals and irrelevant or random market movements. This differentiation is crucial because financial markets are inundated with data, and not all of it is useful for predicting future price movements. Effective noise measurement can enhance [algorithmic trading](../a/algorithmic_trading.md) strategies by allowing traders to focus on true market signals rather than being misled by noise.
 

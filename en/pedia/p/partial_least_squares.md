@@ -1,4 +1,6 @@
-# Partial Least Squares (PLS) is a powerful statistical method that is extensively used in fields such as chemometrics, bioinformatics, and particularly in financial modeling and algorithmic trading. PLS is designed to handle situations where the predictive variables are highly collinear, and it works by projecting the original predictors into a new space of mutually orthogonal components. This is particularly useful in datasets where the number of predictors is large compared to the number of observations.
+# Partial Least Squares
+
+Partial Least Squares (PLS) is a powerful statistical method that is extensively used in fields such as chemometrics, bioinformatics, and particularly in financial modeling and algorithmic trading. PLS is designed to handle situations where the predictive variables are highly collinear, and it works by projecting the original predictors into a new space of mutually orthogonal components. This is particularly useful in datasets where the number of predictors is large compared to the number of observations.
 
 ### Introduction to Partial Least Squares
 

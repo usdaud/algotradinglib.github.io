@@ -1,4 +1,4 @@
-# Put Options in Algorithmic Trading
+# Put Options
 
 ## Introduction to Put Options
 

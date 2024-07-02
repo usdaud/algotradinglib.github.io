@@ -1,4 +1,4 @@
-# Profit and Loss (P&L) Analysis in Algorithmic Trading
+# Profit and Loss (P&L) Analysis
 
 Profit and Loss (P&L) analysis is a fundamental aspect of [algorithmic trading](../a/algorithmic_trading.md). It involves the detailed examination of revenue earned and expenses incurred to assess the overall performance of [trading strategies](../t/trading_strategies.md). Proper P&L analysis not only helps in understanding the profitability of a trading system but also provides insights into areas that may require improvement. This documentation delves into various components, methodologies, and considerations of P&L analysis in the context of [algorithmic trading](../a/algorithmic_trading.md).
 

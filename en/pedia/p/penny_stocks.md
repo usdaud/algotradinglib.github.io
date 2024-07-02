@@ -1,4 +1,4 @@
-# Penny Stocks in Algorithmic Trading
+# Penny Stocks
 
 ## Introduction to Penny Stocks
 Penny stocks generally refer to the shares of small public companies that trade for less than $5 per share. They are often known for their volatility and potential for significant short-term gains. However, they also come with pronounced risk due to their volatility and perceived lack of liquidity compared to more established stocks. Characteristically, these stocks are touted by younger or less established companies in higher-risk industries.

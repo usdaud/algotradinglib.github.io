@@ -1,4 +1,4 @@
-# Resampling Techniques in Trading
+# Resampling Techniques
 
 Resampling techniques in trading refer to the statistical methods used to modify or analyze datasets by sampling them in various ways. These methods are crucial for traders and quantitative analysts in developing robust [trading strategies](../t/trading_strategies.md), evaluating model performance, and managing risks. Resampling techniques can be broadly classified into various categories, with the most common being bootstrapping, jackknifing, and cross-validation. This document explores these techniques in depth, providing practical examples and applications in the trading domain.
 

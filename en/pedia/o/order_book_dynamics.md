@@ -1,4 +1,4 @@
-# Order Book Dynamics in Algorithmic Trading
+# Order Book Dynamics
 
 Order book dynamics form a critical part of understanding market mechanics and implementing effective [algorithmic trading](../a/algorithmic_trading.md) strategies. The order book is a real-time, continuously updated record of buy and sell orders for a particular financial instrument, often displayed as a list of the quantities of securities being bid for or offered at each price level. This includes various types of orders such as limit orders, market orders, and stop orders. Understanding the intricacies of order book dynamics helps traders anticipate market movements, manage risk, and optimize execution strategies.
 

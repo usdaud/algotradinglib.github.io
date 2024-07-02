@@ -1,4 +1,4 @@
-### Out-of-the-Money Options
+# Out-of-the-Money Options
 
 #### Introduction
 In the world of financial [derivatives](../d/derivatives.md), options are a pivotal tool for investors. They provide the right, but not the obligation, to buy (in the case of a call option) or sell (in the case of a put option) an underlying asset at a specified price on or before a particular date. Among these options, an important concept is that of "Out-of-the-Money" (OTM) options. This term describes a specific situation where the strike price of an option is not advantageous compared to the current market price of the underlying asset.

@@ -1,4 +1,4 @@
-# Operational Risk Management in Algorithmic Trading
+# Operational Risk Management
 
 ## Introduction
 

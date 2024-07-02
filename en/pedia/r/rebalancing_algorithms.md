@@ -1,4 +1,4 @@
-## Rebalancing Algorithms in Algorithmic Trading
+# Rebalancing Algorithms
 
 Rebalancing algorithms are a critical aspect of maintaining an investment portfolio's strategy and [risk management](../r/risk_management.md). In the context of [algorithmic trading](../a/algorithmic_trading.md), rebalancing is the process of realigning the weightings of a portfolio of assets. This involves periodically buying or selling assets to maintain an original or desired level of [asset allocation](../a/asset_allocation.md) or risk. This document explores the intricacies of rebalancing algorithms, their types, methodologies, benefits, and challenges in detail.
 
