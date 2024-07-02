@@ -1,4 +1,4 @@
-# Introduction to Yield Forecasting Models
+# Yield Forecasting Models
 
 Yield [forecasting models](../f/forecasting_models.md) play a crucial role in the financial industry, particularly in the realms of agriculture, finance, and [commodities trading](../c/commodities_trading.md). These models are designed to predict the potential yield of various assets over a given period. Their importance lies in the ability to provide investors, traders, and policymakers with pertinent information that can influence trading decisions, investment strategies, and policy formulations.
 

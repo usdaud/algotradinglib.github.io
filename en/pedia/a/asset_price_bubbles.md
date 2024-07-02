@@ -1,4 +1,4 @@
-# Understanding Asset Price Bubbles
+# Asset Price Bubbles
 
 Asset price bubbles are financial phenomena where the prices of assets, such as stocks, real estate, or commodities, inflate beyond their intrinsic value, driven primarily by exuberant market behavior rather than fundamental factors. When the bubble bursts, prices plummet, often leading to severe economic repercussions. This comprehensive discussion explores the dynamics, causes, historical examples, and ramifications of asset price bubbles within the context of [algorithmic trading](../a/algorithmic_trading.md).
 
