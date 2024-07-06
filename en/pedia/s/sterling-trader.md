@@ -1,6 +1,6 @@
-﻿# Sterling Trader
+# Sterling Trader
 
-Sterling Trader is a suite of professional-grade electronic trading platforms designed for active traders, proprietary trading groups, and institutional clients. Developed by Sterling Trading Tech, these platforms are known for their robust features, reliability, and customization options.
+Sterling Trader is a suite of professional-grade electronic trading platforms designed for active traders, [proprietary trading](../p/proprietary_trading.md) groups, and institutional clients. Developed by Sterling Trading Tech, these platforms are known for their robust features, reliability, and customization options.
 
 ## Key Products
 
@@ -21,7 +21,7 @@ The flagship product of the suite, Sterling Trader Pro is a powerful, broker-neu
   - Customizable hotkeys
   - Basket trading capabilities
 
-2. **Real-Time Market Data**
+2. **[Real-Time Market Data](../r/real-time_market_data.md)**
   - Level I and Level II quotes
   - Time & Sales window
   - Customizable watchlists
@@ -29,18 +29,18 @@ The flagship product of the suite, Sterling Trader Pro is a powerful, broker-neu
 
 3. **Charting**
   - Multiple chart types and timeframes
-  - Technical indicators and drawing tools
+  - [Technical indicators](../t/technical_indicators.md) and drawing tools
   - Customizable layouts
 
-4. **Risk Management**
+4. **[Risk Management](../r/risk_management.md)**
   - Real-time position tracking
   - P&L monitoring
   - Customizable alerts and notifications
 
-5. **Order Routing**
+5. **[Order Routing](../o/order_routing.md)**
   - Direct market access (DMA)
-  - Smart order routing
-  - Access to dark pools and ECNs
+  - Smart [order routing](../o/order_routing.md)
+  - Access to [dark pools](../d/dark_pools.md) and ECNs
 
 6. **Customization**
   - Fully customizable interface
@@ -56,7 +56,7 @@ An enhanced version of Pro, designed for high-frequency traders and institutions
 
 ### Additional Features:
 - Co-location options for reduced latency
-- Advanced algorithmic trading capabilities
+- Advanced [algorithmic trading](../a/algorithmic_trading.md) capabilities
 - More extensive API access
 
 ## Sterling Trader® Web
@@ -66,15 +66,15 @@ A browser-based version offering core trading functionalities without requiring 
 ### Key Features:
 - Access from any internet-connected device
 - Real-time quotes and charts
-- Basic order entry and position management
+- Basic order entry and [position management](../p/position_management.md)
 
 ## Sterling Trader® Mobile
 
 Mobile application for iOS and Android, allowing traders to monitor markets and manage positions on-the-go.
 
 ### Key Features:
-- Real-time market data and watchlists
-- Basic order entry and position management
+- [Real-time market data](../r/real-time_market_data.md) and watchlists
+- Basic order entry and [position management](../p/position_management.md)
 - Push notifications for alerts
 
 ## Technology Infrastructure
@@ -86,7 +86,7 @@ Mobile application for iOS and Android, allowing traders to monitor markets and 
 ## Target Audience
 
 - Professional day traders
-- Proprietary trading firms
+- [Proprietary trading](../p/proprietary_trading.md) firms
 - Hedge funds
 - Institutional trading desks
 - Broker-dealers
@@ -99,7 +99,7 @@ Mobile application for iOS and Android, allowing traders to monitor markets and 
 
 ## Compliance and Regulation
 
-- Adheres to SEC, FINRA, and other regulatory requirements
+- Adheres to SEC, [FINRA](../f/finra.md), and other regulatory requirements
 - Built-in tools for trade surveillance and reporting
 
-Sterling Trader platforms are known for their stability, speed, and comprehensive feature set, making them a popular choice among professional traders who require reliable and powerful tools for executing complex trading strategies in fast-paced market environments.
+Sterling Trader platforms are known for their stability, speed, and comprehensive feature set, making them a popular choice among professional traders who require reliable and powerful tools for executing complex [trading strategies](../t/trading_strategies.md) in fast-paced market environments.

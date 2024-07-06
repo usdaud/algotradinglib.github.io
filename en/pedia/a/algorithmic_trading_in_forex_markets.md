@@ -47,7 +47,7 @@ Forex [algorithmic trading](../a/algorithmic_trading.md) involves the use of com
 
 - **Programming Languages**: Python, R, C++, and Java are commonly used for developing [trading algorithms](../t/trading_algorithms.md).
 - **Data Processing Platforms**: Apache Kafka, Hadoop, and Spark.
-- **Trade Execution Platforms**: MetaTrader, NinjaTrader, FIX Protocol.
+- **Trade Execution Platforms**: MetaTrader, [NinjaTrader](../n/ninjatrader.md), FIX Protocol.
 - **Cloud and Hosting Services**: AWS, Google Cloud, and Azure.
 - **Machine Learning Libraries**: TensorFlow, PyTorch, Scikit-Learn.
 

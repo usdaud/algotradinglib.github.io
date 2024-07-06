@@ -122,7 +122,7 @@ Algorithms can use real-time data to validate signals against historical pattern
 
 *Example*:
 ```python
-import backtrader as bt
+import [backtrader](../b/backtrader.md) as bt
 
 class TriangleStrategy(bt.Strategy):
     def __init__(self):
@@ -146,9 +146,9 @@ cerebro.run()
 ## Real-World Applications and Companies
 Several companies specialize in providing tools and platforms for algo-trading with sophisticated [pattern recognition](../p/pattern_recognition.md) capabilities:
 
-- **QuantConnect:** Offers a cloud-based platform for [algorithmic trading](../a/algorithmic_trading.md) https://www.quantconnect.com
-- **Kinetick:** Provides market data services https://kinetick.com
-- **TradeStation:** Integrated trading and analysis platform https://www.tradestation.com
+- **[QuantConnect](../q/quantconnect.md):** Offers a cloud-based platform for [algorithmic trading](../a/algorithmic_trading.md) https://www.[quantconnect](../q/quantconnect.md).com
+- **[Kinetick](../k/kinetick.md):** Provides market data services https://[kinetick](../k/kinetick.md).com
+- **[TradeStation](../t/tradestation.md):** Integrated trading and analysis platform https://www.[tradestation](../t/tradestation.md).com
 
 ## Conclusion
 Triangle formations are pivotal in [technical analysis](../t/technical_analysis.md) and algo-trading. Understanding symmetrical, ascending, and descending triangles equips traders with the tools necessary for predicting price movements with higher accuracy. By integrating advanced algorithms and robust [risk management](../r/risk_management.md) strategies, traders can effectively exploit these patterns, maximizing their [trading performance](../t/trading_performance.md). Furthermore, evolving technologies such as machine learning and deep learning present exciting opportunities for enhancements in detecting and trading triangle formations.

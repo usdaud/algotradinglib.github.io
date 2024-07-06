@@ -43,10 +43,10 @@ Reliable connectivity solutions ensure that [trading systems](../t/trading_syste
 ## Prominent X-Order Management Solutions and Providers
 
 ### 1. Bloomberg EMSX
-[Bloomberg Execution Management System (EMSX)](https://www.bloomberg.com/professional/solution/execution-management-system/) is a multi-asset order management and execution platform that integrates Bloomberg’s market data and analytics. It provides advanced functionalities for [order routing](../o/order_routing.md), execution, and real-time performance monitoring.
+[Bloomberg Execution Management System (EMSX)](https://www.bloomberg.com/professional/solution/execution-management-system/) is a multi-asset order management and execution platform that integrates [Bloomberg](../b/bloomberg.md)’s market data and analytics. It provides advanced functionalities for [order routing](../o/order_routing.md), execution, and real-time performance monitoring.
 
 ### 2. FactSet OMS
-[FactSet Order Management System (OMS)](https://www.factset.com/products/oms) offers comprehensive tools for order generation, execution, and compliance. It integrates seamlessly with FactSet’s other analytics and data products, providing a unified platform for asset managers and hedge funds.
+[FactSet Order Management System (OMS)](https://www.factset.com/products/oms) offers comprehensive tools for order generation, execution, and compliance. It integrates seamlessly with [FactSet](../f/factset.md)’s other analytics and data products, providing a unified platform for asset managers and hedge funds.
 
 ### 3. FlexTrade
 [FlexTrade Systems](https://flextrade.com/) delivers customized trading solutions for equities, FX, options, futures, and fixed income. Their FlexTRADER EMS is renowned for its advanced multi-asset capabilities, robust [trading algorithms](../t/trading_algorithms.md), and real-time analytics.

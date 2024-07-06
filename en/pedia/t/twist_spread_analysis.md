@@ -47,7 +47,7 @@ For instance, if the yield of a 2-year bond is 2% and the yield of a [10-year bo
 ### Developing Trading Algorithms
 
 [Trading algorithms](../t/trading_algorithms.md) designed for Twist [Spread Analysis](../s/spread_analysis.md) often involve:
-1. **Data Collection**: Gathering historical yield data for various maturities from financial databases such as Bloomberg and Reuters.
+1. **Data Collection**: Gathering historical yield data for various maturities from financial databases such as [Bloomberg](../b/bloomberg.md) and [Reuters](../r/reuters.md).
 2. **[Data Normalization](../d/data_normalization.md)**: Cleaning and structuring data to ensure accuracy and consistency.
 3. **Model Building**: Using statistical software (R, Python) to develop models that predict [yield curve](../y/yield_curve.md) movements.
 4. **[Backtesting](../b/backtesting.md)**: Simulating the performance of [trading strategies](../t/trading_strategies.md) on historical data to evaluate their effectiveness.

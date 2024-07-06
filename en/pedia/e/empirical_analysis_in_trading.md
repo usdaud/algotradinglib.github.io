@@ -7,7 +7,7 @@ Empirical analysis in trading refers to the use of data-driven methods to study 
 
 The foundation of empirical analysis in trading is high-quality data. This data typically comes from several sources including:
 
-1. **Market Data**: This includes historical prices, volume, and other market metrics for various financial instruments such as stocks, bonds, currencies, and commodities. Sources for this data include exchanges (like NYSE or NASDAQ), financial data providers (such as Bloomberg, Thomson Reuters), and brokerage firms.
+1. **Market Data**: This includes historical prices, volume, and other market metrics for various financial instruments such as stocks, bonds, currencies, and commodities. Sources for this data include exchanges (like NYSE or NASDAQ), financial data providers (such as [Bloomberg](../b/bloomberg.md), Thomson [Reuters](../r/reuters.md)), and brokerage firms.
 
 2. **Economic Data**: Macroeconomic indicators such as GDP, unemployment rates, interest rates, and inflation can significantly influence market movements. These data are often sourced from government publications (like those from the U.S. Federal Reserve), international organizations (like the IMF), and private sector reports.
 

@@ -43,7 +43,7 @@ The quality and granularity of data used in estimating winning probability are c
 ## Companies Providing Winning Probability Solutions
 
 ### QuantConnect
-QuantConnect is a platform that allows traders to design, backtest, and execute [trading strategies](../t/trading_strategies.md). It provides extensive historical data and computational tools to help users calculate and analyze the winning probabilities of their algorithms. More information can be found on their [website](https://www.quantconnect.com).
+[QuantConnect](../q/quantconnect.md) is a platform that allows traders to design, backtest, and execute [trading strategies](../t/trading_strategies.md). It provides extensive historical data and computational tools to help users calculate and analyze the winning probabilities of their algorithms. More information can be found on their [website](https://www.quantconnect.com).
 
 ### MetaTrader
 MetaTrader, known for its popular trading platforms MetaTrader 4 and MetaTrader 5, offers tools for [backtesting](../b/backtesting.md) and analyzing [trading strategies](../t/trading_strategies.md). Traders can utilize MetaTrader's extensive features to calculate winning probabilities and optimize their strategies. Visit the [MetaTrader website](https://www.metatrader5.com) for more details.

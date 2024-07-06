@@ -58,8 +58,8 @@ Implementing a unified trading framework presents several challenges, including:
 
 Numerous companies offer solutions and services to support the implementation of a unified trading framework. Some of the leading providers include:
 
-- **QuantConnect**: [QuantConnect](https://www.quantconnect.com/) offers an open-source [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools for strategy development, [backtesting](../b/backtesting.md), and deployment.
-- **AlgoTrader**: [AlgoTrader](https://www.algotrader.com/) provides a comprehensive [algorithmic trading](../a/algorithmic_trading.md) platform with features for data acquisition, strategy development, execution, and [risk management](../r/risk_management.md).
+- **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](https://www.quantconnect.com/) offers an open-source [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools for strategy development, [backtesting](../b/backtesting.md), and deployment.
+- **[AlgoTrader](../a/algotrader.md)**: [AlgoTrader](https://www.algotrader.com/) provides a comprehensive [algorithmic trading](../a/algorithmic_trading.md) platform with features for data acquisition, strategy development, execution, and [risk management](../r/risk_management.md).
 - **QuantHouse**: [QuantHouse](https://www.quanthouse.com/) delivers end-to-end solutions for market data, trading infrastructure, and algo execution.
 - **Numerai**: [Numerai](https://numer.ai/) is a hedge fund powered by a global network of data scientists who develop machine learning models for trading.
 - **Kdb+**: [Kx Systems](https://kx.com/), known for its kdb+ database, is widely used in financial institutions for time-series data analysis and high-frequency trading applications.

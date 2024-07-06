@@ -96,13 +96,13 @@ Several financial service providers and software companies offer tools to implem
 
 ### TradeStation
 
-TradeStation is a brokerage firm that provides comprehensive tools for traders to develop, test, and deploy [algorithmic trading](../a/algorithmic_trading.md) strategies. Their platform supports custom scripting and has built-in indicators for open range breakout strategies.
+[TradeStation](../t/tradestation.md) is a brokerage firm that provides comprehensive tools for traders to develop, test, and deploy [algorithmic trading](../a/algorithmic_trading.md) strategies. Their platform supports custom scripting and has built-in indicators for open range breakout strategies.
 
 Website: [TradeStation](https://www.tradestation.com/)
 
 ### NinjaTrader
 
-NinjaTrader offers advanced charting and analysis tools, including capabilities to implement and backtest open range breakout strategies. It's a popular platform among retail and institutional traders for its flexibility and robustness.
+[NinjaTrader](../n/ninjatrader.md) offers advanced charting and analysis tools, including capabilities to implement and backtest open range breakout strategies. It's a popular platform among retail and institutional traders for its flexibility and robustness.
 
 Website: [NinjaTrader](https://www.ninjatrader.com/)
 

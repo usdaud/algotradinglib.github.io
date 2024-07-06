@@ -94,7 +94,7 @@ MATLAB is widely used in engineering and finance for numerical computing. It off
 
 - **MetaTrader**: Popular among retail traders for [algorithmic trading](../a/algorithmic_trading.md) in Forex and stock markets. Supports MQL scripting for custom indicators and automated [trading strategies](../t/trading_strategies.md).
   
-- **QuantConnect**: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports Python and C#. Allows [backtesting](../b/backtesting.md) and live trading with various financial data providers.
+- **[QuantConnect](../q/quantconnect.md)**: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports Python and C#. Allows [backtesting](../b/backtesting.md) and live trading with various financial data providers.
   [QuantConnect](https://www.quantconnect.com/)
 
 - **[Algorithmic Trading](../a/algorithmic_trading.md) Group**: Provides infrastructure and tools for developing and deploying [trading algorithms](../t/trading_algorithms.md).

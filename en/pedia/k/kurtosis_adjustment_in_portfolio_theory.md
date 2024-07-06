@@ -1,6 +1,6 @@
 # Kurtosis Adjustment in Portfolio Theory
 
-Kurtosis Adjustment in Portfolio Theory is a sophisticated subject that involves the incorporation of higher-order moments in the assessment of portfolio performance and risk management. Portfolio theory, traditionally, rests on the assumption that asset returns are normally distributed—and hence can be sufficiently described by their mean (expected return) and variance (risk). However, actual asset returns often exhibit deviations from normality, characterized by skewness and kurtosis.
+[Kurtosis Adjustment](../k/kurtosis_adjustment.md) in Portfolio Theory is a sophisticated subject that involves the incorporation of higher-order moments in the assessment of [portfolio performance](../p/portfolio_performance.md) and [risk management](../r/risk_management.md). Portfolio theory, traditionally, rests on the assumption that asset returns are normally distributed—and hence can be sufficiently described by their mean (expected return) and variance (risk). However, actual asset returns often exhibit deviations from normality, characterized by [skewness and kurtosis](../s/skewness_and_kurtosis.md).
 
 ### Understanding Kurtosis
 
@@ -52,7 +52,7 @@ LTCM's collapse in 1998 is a pertinent example of the perils of ignoring kurtosi
 
 #### Application: Portfolio Optimization Tools
 
-Companies like **RiskMetrics Group** [Link](https://www.msci.com/riskmetrics) and **Bloomberg** [Link](https://www.bloomberg.com/professional/product/risk-modeling/) offer advanced [risk management](../r/risk_management.md) and [portfolio optimization](../p/portfolio_optimization.md) tools that consider higher-order moments, including [skewness and kurtosis](../s/skewness_and_kurtosis.md), for a more holistic risk assessment.
+Companies like **RiskMetrics Group** [Link](https://www.msci.com/riskmetrics) and **[Bloomberg](../b/bloomberg.md)** [Link](https://www.bloomberg.com/professional/product/risk-modeling/) offer advanced [risk management](../r/risk_management.md) and [portfolio optimization](../p/portfolio_optimization.md) tools that consider higher-order moments, including [skewness and kurtosis](../s/skewness_and_kurtosis.md), for a more holistic risk assessment.
 
 ### Real-World Implications
 

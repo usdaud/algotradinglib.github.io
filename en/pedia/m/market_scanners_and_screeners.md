@@ -38,7 +38,7 @@
 
 ## Popular Market Scanners and Screeners
 
-1. **TradingView**:
+1. **[TradingView](../t/tradingview.md)**:
    - [TradingView](https://www.tradingview.com/)
    - Offers a powerful charting platform with built-in screening tools for both technical and [fundamental analysis](../f/fundamental_analysis.md). Users can customize screeners using Pine Script programming language.
 

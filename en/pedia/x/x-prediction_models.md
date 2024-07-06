@@ -62,7 +62,7 @@ Post-evaluation, the model is deployed in a live [trading environment](../t/trad
 ## Real-World Applications and Examples
 
 ### QuantConnect
-QuantConnect is a platform that offers [algorithmic trading](../a/algorithmic_trading.md) solutions, including implementation and [backtesting](../b/backtesting.md) of X-prediction models. They provide access to financial data and resources to develop, test, and deploy [trading algorithms](../t/trading_algorithms.md).
+[QuantConnect](../q/quantconnect.md) is a platform that offers [algorithmic trading](../a/algorithmic_trading.md) solutions, including implementation and [backtesting](../b/backtesting.md) of X-prediction models. They provide access to financial data and resources to develop, test, and deploy [trading algorithms](../t/trading_algorithms.md).
 
 Link: [QuantConnect](https://www.quantconnect.com/)
 

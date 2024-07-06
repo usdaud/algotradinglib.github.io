@@ -34,7 +34,7 @@ Machine Learning (ML) and Artificial Intelligence (AI) algorithms can process la
 
 Effective data-driven [trading strategies](../t/trading_strategies.md) rely on high-quality data sourced from diverse channels. Some primary sources include:
 
-- **Market Data Providers:** Companies like Bloomberg (https://www.bloomberg.com/), Thomson Reuters (https://www.thomsonreuters.com/), and Quandl (https://www.quandl.com/) offer extensive financial market data.
+- **Market Data Providers:** Companies like [Bloomberg](../b/bloomberg.md) (https://www.[bloomberg](../b/bloomberg.md).com/), Thomson [Reuters](../r/reuters.md) (https://www.thomsonreuters.com/), and [Quandl](../q/quandl.md) (https://www.[quandl](../q/quandl.md).com/) offer extensive financial market data.
 - **News and Social Media:** Platforms like AlphaSense (https://www.alpha-sense.com/) and Dataminr (https://www.dataminr.com/) provide news and [social media analytics](../s/social_media_analytics.md).
 - **[Economic Indicators](../e/economic_indicators.md):** Governments and organizations like the Federal Reserve (https://www.federalreserve.gov/), Bureau of Economic Analysis (https://www.bea.gov/), and Eurostat (https://ec.europa.eu/eurostat) publish economic data that can be valuable for event-driven strategies.
 
@@ -44,13 +44,13 @@ Effective data-driven [trading strategies](../t/trading_strategies.md) rely on h
 Before implementing any strategy, it is essential to collect and clean data. Data must be accurate, consistent, and free from errors. Techniques like interpolation, outlier detection, and normalization are commonly used in this phase.
 
 ### 2. **Model Building**
-Building a trading model involves selecting the appropriate statistical or machine learning techniques to analyze the data. This phase includes feature selection, parameter tuning, and model validation. Software tools such as Python, R, and specialized platforms like QuantConnect (https://www.quantconnect.com/) and Quantopian can be valuable for this purpose.
+Building a trading model involves selecting the appropriate statistical or machine learning techniques to analyze the data. This phase includes feature selection, parameter tuning, and model validation. Software tools such as Python, R, and specialized platforms like [QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/) and Quantopian can be valuable for this purpose.
 
 ### 3. **Backtesting**
 [Backtesting](../b/backtesting.md) allows traders to test their models on historical data to evaluate performance. This step is crucial for understanding the efficacy and robustness of a trading strategy before deploying it in live markets.
 
 ### 4. **Execution and Automation**
-With a validated model, the next step is to execute trades. Automated trading platforms like MetaTrader (https://www.metatrader4.com/) and Interactive Brokers (https://www.interactivebrokers.com/) enable seamless trade execution. Implementing [risk management](../r/risk_management.md) protocols, such as [stop-loss orders](../s/stop-loss_orders.md) and [position sizing](../p/position_sizing.md), is also vital.
+With a validated model, the next step is to execute trades. Automated trading platforms like MetaTrader (https://www.[metatrader4](../m/metatrader4.md).com/) and Interactive Brokers (https://www.interactivebrokers.com/) enable seamless trade execution. Implementing [risk management](../r/risk_management.md) protocols, such as [stop-loss orders](../s/stop-loss_orders.md) and [position sizing](../p/position_sizing.md), is also vital.
 
 ### 5. **Performance Monitoring**
 Even after deployment, continuous monitoring is essential to ensure that the strategy performs as expected. Metrics like [Sharpe ratio](../s/sharpe_ratio.md), drawdown, and alpha should be regularly evaluated.
@@ -94,7 +94,7 @@ Financial markets are influenced by numerous unpredictable factors like politica
 In high-frequency trading, even a millisecond delay can impact profitability. Hence, minimizing latency through optimized code and efficient algorithms is crucial.
 
 ### 5. **Regulatory Compliance**
-Traders must comply with regulations imposed by agencies like the SEC (https://www.sec.gov/) and FINRA (https://www.finra.org/). Non-compliance can lead to legal ramifications and financial penalties.
+Traders must comply with regulations imposed by agencies like the SEC (https://www.sec.gov/) and [FINRA](../f/finra.md) (https://www.[finra](../f/finra.md).org/). Non-compliance can lead to legal ramifications and financial penalties.
 
 ## Future Trends
 

@@ -34,8 +34,8 @@ Various metrics are utilized to benchmark [algorithmic trading](../a/algorithmic
 
 Several tools and platforms are available to assist traders in benchmarking their [algorithmic trading](../a/algorithmic_trading.md) strategies:
 
-1. **QuantConnect**: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports [backtesting](../b/backtesting.md) and live trading. QuantConnect provides detailed analytics and benchmarking tools. [QuantConnect](https://www.quantconnect.com)
-2. **AlgoTrader**: A comprehensive platform for developing, testing, and deploying [trading strategies](../t/trading_strategies.md), which also includes extensive benchmarking capabilities. [AlgoTrader](https://www.algotrader.com)
+1. **[QuantConnect](../q/quantconnect.md)**: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports [backtesting](../b/backtesting.md) and live trading. [QuantConnect](../q/quantconnect.md) provides detailed analytics and benchmarking tools. [QuantConnect](https://www.quantconnect.com)
+2. **[AlgoTrader](../a/algotrader.md)**: A comprehensive platform for developing, testing, and deploying [trading strategies](../t/trading_strategies.md), which also includes extensive benchmarking capabilities. [AlgoTrader](https://www.algotrader.com)
 3. **MetaTrader**: Widely used for forex and stock trading, MetaTrader includes built-in benchmarking features to evaluate strategy performance against various metrics. [MetaTrader](https://www.metatrader4.com)
 
 ## Steps to Benchmarking

@@ -86,7 +86,7 @@ Several trading platforms and financial institutions incorporate the 10-DMA in t
   Interactive Brokers offers advanced trading tools and platforms like Trader Workstation (TWS), where traders can apply moving averages and analyze their impact.
   [Interactive Brokers](https://www.interactivebrokers.com)
 
-- **QuantConnect:**
+- **[QuantConnect](../q/quantconnect.md):**
   This platform provides a cloud-based algo [trading environment](../t/trading_environment.md) where traders can backtest and implement strategies that include the 10-DMA.
   [QuantConnect](https://www.quantconnect.com)
 

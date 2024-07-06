@@ -59,7 +59,7 @@ Implementing YTD [yield analysis](../y/yield_analysis.md) in [algorithmic tradin
    
 2. **Utilize Advanced Technologies:** Employ advanced AI and machine learning techniques. These technologies can process vast amounts of data, recognizing patterns that humans might miss, thus enhancing the predictive accuracy of algorithms.
    
-3. **Automate Data Processing:** From data collection to real-time signal processing, automating data handling ensures accuracy and timeliness, which are crucial for precise YTD yield calculations. Platforms like QuantConnect or Alpaca can be employed for this purpose.
+3. **Automate Data Processing:** From data collection to real-time signal processing, automating data handling ensures accuracy and timeliness, which are crucial for precise YTD yield calculations. Platforms like [QuantConnect](../q/quantconnect.md) or Alpaca can be employed for this purpose.
 
 4. **Regular Monitoring and Adjustment:** Continuous monitoring of the YTD yield is essential. Setting up a dashboard that tracks key [performance indicators](../p/performance_indicators.md) (KPIs) and alerts for significant deviations can help in proactive strategy adjustments.
 

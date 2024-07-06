@@ -13,7 +13,7 @@ The first step in historical [trend analysis](../t/trend_analysis.md) is the col
 - **Financial Reports:** Earnings reports, balance sheets, and other financial statements.
 - **News and Events:** Information on historical events that could have impacted market movements, such as economic reports, [geopolitical events](../g/geopolitical_events.md), and corporate announcements.
 
-Sources of such data can range from public financial reports to specialized data vendors like Bloomberg ([Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)) and Thomson Reuters. 
+Sources of such data can range from public financial reports to specialized data vendors like [Bloomberg](../b/bloomberg.md) ([Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)) and Thomson [Reuters](../r/reuters.md). 
 
 ### Data Cleaning and Preprocessing
 
@@ -51,7 +51,7 @@ Several tools and technologies are available to facilitate historical [trend ana
 - **Python and R:** Popular programming languages with extensive libraries for data analysis and machine learning, such as pandas, scikit-learn, and TensorFlow.
 - **MATLAB:** A high-level technical computing environment that includes functions for statistical analysis, visualization, and algorithm development.
 - **[Data Visualization](../d/data_visualization.md) Tools:** Tools like Tableau and Power BI for creating visual representations of data to identify trends more easily.
-- **Trading Platforms:** Specialized platforms like MetaTrader and TradingView that offer built-in [technical indicators](../t/technical_indicators.md) and charting tools.
+- **Trading Platforms:** Specialized platforms like MetaTrader and [TradingView](../t/tradingview.md) that offer built-in [technical indicators](../t/technical_indicators.md) and charting tools.
 
 ## Advantages of Historical Trend Analysis
 

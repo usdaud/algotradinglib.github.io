@@ -60,7 +60,7 @@ RSI measures the magnitude of recent price changes to evaluate overbought or ove
 ## Implementing VSA with Modern Tools
 
 ### Trading Platforms
-Several trading platforms offer tools and indicators designed for VSA analysis. Platforms such as MetaTrader, NinjaTrader, and TradeStation provide customizable charts and [volume indicators](../v/volume_indicators.md) compatible with VSA principles.
+Several trading platforms offer tools and indicators designed for VSA analysis. Platforms such as MetaTrader, [NinjaTrader](../n/ninjatrader.md), and [TradeStation](../t/tradestation.md) provide customizable charts and [volume indicators](../v/volume_indicators.md) compatible with VSA principles.
 
 ### Automated Trading Systems
 [Automated trading systems](../a/automated_trading_systems.md) can incorporate VSA principles to execute trades based on predefined criteria. These systems can monitor volume, price, and spread relationships in real-time to detect accumulation, distribution, and other key patterns automatically.

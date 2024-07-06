@@ -4,7 +4,7 @@ Institutional block trading is a significant component of the financial markets,
 
 ### Definition and Scale
 
-Institutional block trading refers to the buying or selling of a large block of securities (usually stocks or bonds) by institutional investors. These trades are typically far larger than what retail investors would handle or even than regular trades executed on exchanges. The Financial Industry Regulatory Authority (FINRA) in the U.S. defines a block trade as a single transaction involving 10,000 shares or more of common stock, or options representing comparable value. However, what constitutes a block trade can vary across different markets and asset classes.
+Institutional block trading refers to the buying or selling of a large block of securities (usually stocks or bonds) by institutional investors. These trades are typically far larger than what retail investors would handle or even than regular trades executed on exchanges. The Financial Industry Regulatory Authority ([FINRA](../f/finra.md)) in the U.S. defines a block trade as a single transaction involving 10,000 shares or more of common stock, or options representing comparable value. However, what constitutes a block trade can vary across different markets and asset classes.
 
 ### Objectives and Advantages
 
@@ -48,7 +48,7 @@ Technology plays a critical role in institutional block trading:
 
 Institutional block trading is subject to rigorous regulatory scrutiny to ensure fairness and transparency in the financial markets. Regulations can vary by country but generally include:
 
-- **Reporting Requirements:** In the U.S., large trades must be reported to FINRA. In Europe, traders must comply with MiFID II regulations.
+- **Reporting Requirements:** In the U.S., large trades must be reported to [FINRA](../f/finra.md). In Europe, traders must comply with MiFID II regulations.
   
 - **Market Surveillance:** Regulators monitor trading activity to prevent market manipulation and ensure compliance with best execution standards.
 

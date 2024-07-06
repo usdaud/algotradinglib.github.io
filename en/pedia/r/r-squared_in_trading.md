@@ -41,12 +41,12 @@ MATLAB offers various financial toolboxes for [quantitative analysis](../q/quant
 Link: [MathWorks - MATLAB Financial Toolbox](https://www.mathworks.com/products/finance.html)
 
 ### Bloomberg Terminal
-The Bloomberg Terminal provides comprehensive tools for traders to analyze [portfolio performance](../p/portfolio_performance.md), including R-squared statistical modeling.
+The [Bloomberg](../b/bloomberg.md) Terminal provides comprehensive tools for traders to analyze [portfolio performance](../p/portfolio_performance.md), including R-squared statistical modeling.
 
 Link: [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
 ### QuantConnect
-QuantConnect is an open platform for [algorithmic trading](../a/algorithmic_trading.md) and provides extensive resources for [backtesting](../b/backtesting.md) which include R-squared calculations. 
+[QuantConnect](../q/quantconnect.md) is an open platform for [algorithmic trading](../a/algorithmic_trading.md) and provides extensive resources for [backtesting](../b/backtesting.md) which include R-squared calculations. 
 
 Link: [QuantConnect](https://www.quantconnect.com/)
 

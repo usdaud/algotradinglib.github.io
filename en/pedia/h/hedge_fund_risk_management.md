@@ -36,7 +36,7 @@ Hedge fund [risk management](../r/risk_management.md) is a critical component of
 
 **[Risk Management](../r/risk_management.md) Software and Platforms**: Comprehensive software solutions streamline risk assessment and reporting. Notable examples include:
 - **BlackRock’s Aladdin**: [Aladdin](https://www.blackrock.com/aladdin)
-- **Bloomberg’s PORT**: [PORT](https://www.bloomberg.com/professional/product/port/)
+- **[Bloomberg](../b/bloomberg.md)’s PORT**: [PORT](https://www.bloomberg.com/professional/product/port/)
 
 ### Regulatory Landscape
 

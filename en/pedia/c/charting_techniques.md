@@ -79,10 +79,10 @@ Fibonacci retracement uses horizontal lines to indicate areas of support or resi
 
 There are several platforms and companies that provide advanced charting tools integrated with [algorithmic trading](../a/algorithmic_trading.md) capabilities.
 
-- **MetaTrader**: A widely used trading platform (https://www.metatrader4.com/)
-- **TradingView**: Offers extensive charting tools and social networking for traders (https://www.tradingview.com/)
-- **Thinkorswim by TD Ameritrade**: Provides professional-grade trading tools (https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
-- **QuantConnect**: An [algorithmic trading](../a/algorithmic_trading.md) platform with [backtesting](../b/backtesting.md) and live trading capabilities (https://www.quantconnect.com/)
+- **MetaTrader**: A widely used trading platform (https://www.[metatrader4](../m/metatrader4.md).com/)
+- **[TradingView](../t/tradingview.md)**: Offers extensive charting tools and social networking for traders (https://www.[tradingview](../t/tradingview.md).com/)
+- **[Thinkorswim](../t/thinkorswim.md) by TD Ameritrade**: Provides professional-grade trading tools (https://www.tdameritrade.com/tools-and-platforms/[thinkorswim](../t/thinkorswim.md).page)
+- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform with [backtesting](../b/backtesting.md) and live trading capabilities (https://www.[quantconnect](../q/quantconnect.md).com/)
 
 ## Conclusion
 

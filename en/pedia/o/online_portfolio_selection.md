@@ -35,7 +35,7 @@ Recently, deep learning models have gained prominence in OPS for their ability t
 Several platforms and tools facilitate OPS:
 
 ### QuantConnect
-QuantConnect provides an open-source cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports a variety of asset classes and research environments. Users can backtest strategies on historical data and deploy them in live trading.
+[QuantConnect](../q/quantconnect.md) provides an open-source cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports a variety of asset classes and research environments. Users can backtest strategies on historical data and deploy them in live trading.
 
 Website: [QuantConnect](https://www.quantconnect.com/)
 

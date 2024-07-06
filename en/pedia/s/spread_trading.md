@@ -38,10 +38,10 @@ For example, statistical [arbitrage](../a/arbitrage.md) models often underpin [p
 
 Several companies provide platforms and tools for spread trading in the [algorithmic trading](../a/algorithmic_trading.md) space:
 
-- **QuantConnect**: A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform offering data, research, and execution capabilities. Both back-testing and live trading are supported, enabling traders to deploy algorithmic spread [trading strategies](../t/trading_strategies.md) effectively.
+- **[QuantConnect](../q/quantconnect.md)**: A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform offering data, research, and execution capabilities. Both back-testing and live trading are supported, enabling traders to deploy algorithmic spread [trading strategies](../t/trading_strategies.md) effectively.
   [QuantConnect](https://www.quantconnect.com/)
 
-- **AlgoTrader**: A comprehensive [algorithmic trading](../a/algorithmic_trading.md) software solution that supports multiple asset classes and markets. The platform includes robust features for spread trading, from strategy development to live execution.
+- **[AlgoTrader](../a/algotrader.md)**: A comprehensive [algorithmic trading](../a/algorithmic_trading.md) software solution that supports multiple asset classes and markets. The platform includes robust features for spread trading, from strategy development to live execution.
   [AlgoTrader](https://www.algotrader.com/)
 
 - **MetaTrader 5 (MT5)**: A popular multi-asset platform that provides powerful tools for developing and implementing [algorithmic trading](../a/algorithmic_trading.md) strategies, including spread trading.

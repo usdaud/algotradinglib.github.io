@@ -74,7 +74,7 @@ Broader economic conditions, including interest rates, economic growth, and infl
 
 ### Trading Platforms
 
-Popular trading platforms like MetaTrader, Interactive Brokers, and TradeStation offer resources and tools for [algorithmic trading](../a/algorithmic_trading.md) of NVIDIA stocks. These platforms provide APIs, historical data, and [real-time market data](../r/real-time_market_data.md) crucial for [algorithmic trading](../a/algorithmic_trading.md).
+Popular trading platforms like MetaTrader, Interactive Brokers, and [TradeStation](../t/tradestation.md) offer resources and tools for [algorithmic trading](../a/algorithmic_trading.md) of NVIDIA stocks. These platforms provide APIs, historical data, and [real-time market data](../r/real-time_market_data.md) crucial for [algorithmic trading](../a/algorithmic_trading.md).
 
 #### MetaTrader
 MetaTrader is widely used for its robust [technical analysis](../t/technical_analysis.md) and automated trading capabilities. [MetaTrader](https://www.metatrader4.com/).
@@ -89,9 +89,9 @@ Known for its powerful testing capabilities and flexibility for custom algorithm
 
 High-quality, real-time, and historical data are the backbone of successful [algorithmic trading](../a/algorithmic_trading.md). Some prominent data providers include:
 
-- **Bloomberg**: Provides detailed financial data covering various aspects of NVIDIA.
-- **Thomson Reuters**: Offers extensive market data and financial information.
-- **Quandl**: Known for offering diverse data sets, including [alternative data](../a/alternative_data.md) relevant to NVIDIA’s performance. [Quandl](https://www.quandl.com/).
+- **[Bloomberg](../b/bloomberg.md)**: Provides detailed financial data covering various aspects of NVIDIA.
+- **Thomson [Reuters](../r/reuters.md)**: Offers extensive market data and financial information.
+- **[Quandl](../q/quandl.md)**: Known for offering diverse data sets, including [alternative data](../a/alternative_data.md) relevant to NVIDIA’s performance. [Quandl](https://www.quandl.com/).
 
 ### Coding Languages
 

@@ -72,8 +72,8 @@ Before deploying, [trading strategies](../t/trading_strategies.md) are backteste
 
 Numerous companies utilize trend indicators in their [algorithmic trading](../a/algorithmic_trading.md) platforms:
 
-- **AlgoTrader**: [www.algotrader.com](https://www.algotrader.com)
-- **QuantConnect**: [www.quantconnect.com](https://www.quantconnect.com)
+- **[AlgoTrader](../a/algotrader.md)**: [www.algotrader.com](https://www.algotrader.com)
+- **[QuantConnect](../q/quantconnect.md)**: [www.quantconnect.com](https://www.quantconnect.com)
 - **Trading Technologies**: [www.tradingtechnologies.com](https://www.tradingtechnologies.com)
 - **Kavout**: [www.kavout.com](https://www.kavout.com)
 - **RQuant**: [www.rquant.com](https://www.rquant.com)

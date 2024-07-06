@@ -51,7 +51,7 @@ Hedge funds and [proprietary trading](../p/proprietary_trading.md) firms are lea
 
 ### Technology Providers
 Several technology companies specialize in providing the tools and infrastructure needed for X-Tactical Trading. These include:
-- **Bloomberg**: Provides comprehensive data services and trading platforms. More information is available on their [website](https://www.bloomberg.com/).
+- **[Bloomberg](../b/bloomberg.md)**: Provides comprehensive data services and trading platforms. More information is available on their [website](https://www.bloomberg.com/).
 - **Refinitiv**: Offers data analytics and trading solutions. Visit their [website](https://www.refinitiv.com/en) for more details.
 
 ## Risks and Challenges

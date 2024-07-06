@@ -13,7 +13,7 @@ The first index fund was created by Vanguard's founder, John Bogle, in 1976. Nam
 ### Types of Index Funds
 Index funds can be based on a variety of indices:
 - Stock market indices (e.g., S&P 500, Dow Jones Industrial Average)
-- Bond market indices (e.g., Bloomberg Barclays U.S. Aggregate Bond Index)
+- Bond market indices (e.g., [Bloomberg](../b/bloomberg.md) Barclays U.S. Aggregate Bond Index)
 - Sector-specific indices (e.g., Nasdaq Biotechnology Index)
 - International indices (e.g., MSCI EAFE Index)
 

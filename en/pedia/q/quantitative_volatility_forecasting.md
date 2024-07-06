@@ -116,7 +116,7 @@ Quantitative [volatility forecasting](../v/volatility_forecasting.md) is impleme
 
 ### Examples of Companies
 
-**Quantconnect**: They offer a platform for [algorithmic trading](../a/algorithmic_trading.md) and [quantitative research](../q/quantitative_research.md) that includes tools for [volatility forecasting](../v/volatility_forecasting.md). Their platform supports multiple programming languages and provides historical data for [backtesting](../b/backtesting.md) models.
+**[Quantconnect](../q/quantconnect.md)**: They offer a platform for [algorithmic trading](../a/algorithmic_trading.md) and [quantitative research](../q/quantitative_research.md) that includes tools for [volatility forecasting](../v/volatility_forecasting.md). Their platform supports multiple programming languages and provides historical data for [backtesting](../b/backtesting.md) models.
 [Visit Quantconnect](https://www.quantconnect.com/)
 
 **Numerai**: An AI-run, crowdsourced hedge fund, Numerai utilizes machine learning models submitted by data scientists around the world to forecast market volatility and manage portfolios.

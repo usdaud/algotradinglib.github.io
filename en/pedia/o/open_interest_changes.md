@@ -90,10 +90,10 @@ Link: [NASDAQ](https://www.nasdaq.com)
 
 Several trading platforms and software providers offer advanced tools and features for analyzing open interest data. Some notable names include:
 
-- **Bloomberg**: Provides extensive market data, including open interest, along with powerful analytical tools.
+- **[Bloomberg](../b/bloomberg.md)**: Provides extensive market data, including open interest, along with powerful analytical tools.
   Link: [Bloomberg](https://www.bloomberg.com)
 
-- **Thomson Reuters**: Offers comprehensive market data and analytics, including open interest information.
+- **Thomson [Reuters](../r/reuters.md)**: Offers comprehensive market data and analytics, including open interest information.
   Link: [Thomson Reuters](https://www.thomsonreuters.com)
 
 - **MetaTrader**: A popular trading platform that supports [open interest analysis](../o/open_interest_analysis.md) through custom indicators and expert advisors.

@@ -1,24 +1,24 @@
-﻿# Trading Economics
+# Trading Economics
 
 ## Overview
 Trading Economics is a comprehensive data platform that provides economic and financial market data, covering a wide range of indicators from over 196 countries. The platform offers real-time and historical data, forecasts, news, and advanced analytics tools, catering to economists, analysts, investors, and researchers. Trading Economics aims to deliver accurate and timely data to support informed decision-making and economic analysis.
 
 ## Features
-1. **Economic Indicators**: Access to a vast array of economic indicators, including GDP, inflation, employment, interest rates, and more.
+1. **[Economic Indicators](../e/economic_indicators.md)**: Access to a vast array of [economic indicators](../e/economic_indicators.md), including GDP, inflation, employment, interest rates, and more.
 2. **Financial Market Data**: Real-time and historical data for equities, bonds, commodities, and currencies.
 3. **Global Coverage**: Data from over 196 countries, providing a comprehensive view of global economic and financial markets.
 4. **Forecasts**: Economic forecasts based on rigorous statistical models and expert analysis.
 5. **News and Analysis**: Real-time economic news, market analysis, and reports to stay informed about global events.
 6. **Customizable Charts**: Advanced charting tools to visualize data trends and comparisons.
-7. **API Access**: Developer-friendly APIs for seamless data integration and automated retrieval.
+7. **API Access**: Developer-friendly APIs for seamless [data integration](../d/data_integration.md) and automated retrieval.
 8. **Data Export**: Options to export data in various formats, including Excel, CSV, and JSON.
 9. **Alerts and Notifications**: Customizable alerts for specific economic events and market conditions.
 10. **Analytics Tools**: Tools for data analysis, economic modeling, and scenario analysis.
 
 ## Key Components
-- **Economic Data**: Comprehensive database of economic indicators from global sources.
+- **Economic Data**: Comprehensive database of [economic indicators](../e/economic_indicators.md) from global sources.
 - **Market Data**: Real-time and historical data for financial markets, including stocks, bonds, commodities, and forex.
-- **Forecasting Models**: Economic forecasts generated from advanced statistical models.
+- **[Forecasting Models](../f/forecasting_models.md)**: Economic forecasts generated from advanced statistical models.
 - **News Service**: Real-time news feeds and analysis on economic and financial market developments.
 - **Charting and Visualization**: Tools for creating detailed charts and visualizations of economic and market data.
 - **API and Data Export**: Robust APIs and data export options for integrating Trading Economics data into applications and research.
@@ -37,7 +37,7 @@ Trading Economics offers extensive support through detailed documentation, user 
 
 ## Use Cases
 - **Economists**: Utilized by economists for accessing comprehensive economic data and forecasts for research and analysis.
-- **Financial Analysts**: Provides analysts with market data and economic indicators to support investment decisions and market analysis.
+- **Financial Analysts**: Provides analysts with market data and [economic indicators](../e/economic_indicators.md) to support investment decisions and market analysis.
 - **Investors**: Assists investors in understanding economic trends and market conditions to inform investment strategies.
 - **Researchers**: Enables academic and market researchers to conduct in-depth studies and analysis using high-quality data.
 - **Policy Makers**: Supports policy makers with accurate economic data and forecasts for informed decision-making.

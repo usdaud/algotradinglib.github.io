@@ -37,8 +37,8 @@ Accurate and timely economic data is crucial for effective analysis. Some of the
 - **International Monetary Fund (IMF)**: https://www.imf.org
 - **World Bank**: https://www.worldbank.org
 - **Federal Reserve Economic Data (FRED)**: https://fred.stlouisfed.org
-- **Bloomberg**: https://www.bloomberg.com
-- **Reuters**: https://www.reuters.com
+- **[Bloomberg](../b/bloomberg.md)**: https://www.[bloomberg](../b/bloomberg.md).com
+- **[Reuters](../r/reuters.md)**: https://www.[reuters](../r/reuters.md).com
 - **Bureau of Economic Analysis (BEA)**: https://www.bea.gov
 
 ### 4. Statistical Techniques and Models

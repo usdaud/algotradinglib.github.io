@@ -66,7 +66,7 @@ MATLAB is a high-level language and environment for numerical computation, visua
 
 ### QuantConnect
 
-QuantConnect is an open-source [algorithmic trading](../a/algorithmic_trading.md) platform that provides cloud-based infrastructure for designing, testing, and deploying [trading strategies](../t/trading_strategies.md). They offer extensive data libraries and integration with multiple brokers.
+[QuantConnect](../q/quantconnect.md) is an open-source [algorithmic trading](../a/algorithmic_trading.md) platform that provides cloud-based infrastructure for designing, testing, and deploying [trading strategies](../t/trading_strategies.md). They offer extensive data libraries and integration with multiple brokers.
 [QuantConnect](https://www.quantconnect.com/)
 
 ### MetaTrader

@@ -97,7 +97,7 @@ Zero-coupon bonds are issued by various entities, including governments, corpora
 
 ### Bloomberg Terminal
 
-Bloomberg Terminal provides comprehensive data and tools for [zero-coupon bond](../z/zero-coupon_bond.md) analysis, including:
+[Bloomberg](../b/bloomberg.md) Terminal provides comprehensive data and tools for [zero-coupon bond](../z/zero-coupon_bond.md) analysis, including:
 - [Yield curve](../y/yield_curve.md) construction
 - Duration and sensitivity analysis
 - [Risk management](../r/risk_management.md) tools
@@ -106,20 +106,20 @@ Bloomberg Terminal provides comprehensive data and tools for [zero-coupon bond](
 
 ### Thomson Reuters Eikon
 
-Thomson Reuters Eikon offers similar functionalities, with advanced data analytics and integration for [algorithmic trading](../a/algorithmic_trading.md).
+Thomson [Reuters](../r/reuters.md) Eikon offers similar functionalities, with advanced data analytics and integration for [algorithmic trading](../a/algorithmic_trading.md).
 
 **Link**: [Refinitiv Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)
 
 ### QuantConnect
 
-QuantConnect is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports [backtesting](../b/backtesting.md) and live [trading strategies](../t/trading_strategies.md), with libraries for fixed income analytics.
+[QuantConnect](../q/quantconnect.md) is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports [backtesting](../b/backtesting.md) and live [trading strategies](../t/trading_strategies.md), with libraries for fixed income analytics.
 
 **Link**: [QuantConnect](https://www.quantconnect.com/)
 
 ### MATLAB and Python Libraries
 
 MATLAB and Python offer libraries specifically designed for financial computation and [zero-coupon bond](../z/zero-coupon_bond.md) analysis:
-- **QuantLib**: An open-source library for [quantitative finance](../q/quantitative_finance.md)
+- **[QuantLib](../q/quantlib.md)**: An open-source library for [quantitative finance](../q/quantitative_finance.md)
 - **FixedIncome Toolbox**: MATLAB toolbox for bond valuation and analysis
 
 **Link**: [QuantLib](https://www.quantlib.org/)

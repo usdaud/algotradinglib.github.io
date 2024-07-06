@@ -75,11 +75,11 @@ Once the model has been rigorously tested, it's time to implement it. This invol
 
 ### Companies Specializing in Algo-Trading
 
-1. **QuantConnect**: (https://www.quantconnect.com/)
-   - QuantConnect provides a cloud-based algorithm trading platform. It allows users to backtest, optimize, and deploy [trading algorithms](../t/trading_algorithms.md) across multiple asset classes.
+1. **[QuantConnect](../q/quantconnect.md)**: (https://www.[quantconnect](../q/quantconnect.md).com/)
+   - [QuantConnect](../q/quantconnect.md) provides a cloud-based algorithm trading platform. It allows users to backtest, optimize, and deploy [trading algorithms](../t/trading_algorithms.md) across multiple asset classes.
 
-2. **AlgoTrader**: (https://www.algotrader.com/)
-   - AlgoTrader offers [algorithmic trading](../a/algorithmic_trading.md) software for [quantitative research](../q/quantitative_research.md), trading strategy development, [backtesting](../b/backtesting.md), optimization, and execution.
+2. **[AlgoTrader](../a/algotrader.md)**: (https://www.[algotrader](../a/algotrader.md).com/)
+   - [AlgoTrader](../a/algotrader.md) offers [algorithmic trading](../a/algorithmic_trading.md) software for [quantitative research](../q/quantitative_research.md), trading strategy development, [backtesting](../b/backtesting.md), optimization, and execution.
 
 3. **WorldQuant**: (https://www.worldquant.com/)
    - WorldQuant is a global quantitative investment management firm that uses mathematical and statistical methods, analysis, distinct [trading algorithms](../t/trading_algorithms.md) to manage global investment portfolios.

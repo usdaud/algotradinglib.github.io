@@ -128,11 +128,11 @@ Several tools and software solutions are available to facilitate yield gap analy
 
 ### Bloomberg Terminal
 
-The Bloomberg Terminal is an advanced platform that provides real-time financial data, including bond yields, yield curves, and [economic indicators](../e/economic_indicators.md). It is widely used by investment professionals to conduct yield gap analysis.
+The [Bloomberg](../b/bloomberg.md) Terminal is an advanced platform that provides real-time financial data, including bond yields, yield curves, and [economic indicators](../e/economic_indicators.md). It is widely used by investment professionals to conduct yield gap analysis.
 
 ### Reuters Eikon
 
-Reuters Eikon offers a comprehensive suite of tools for financial analysis, including yield gap analysis. It provides up-to-date data on bond yields, market news, and economic events.
+[Reuters](../r/reuters.md) Eikon offers a comprehensive suite of tools for financial analysis, including yield gap analysis. It provides up-to-date data on bond yields, market news, and economic events.
 
 ### Finbox
 
@@ -144,7 +144,7 @@ MATLAB’s Financial Toolbox provides advanced functions for [yield curve](../y/
 
 ### QuantConnect
 
-QuantConnect is an [algorithmic trading](../a/algorithmic_trading.md) platform that enables developers to create, backtest, and deploy [trading algorithms](../t/trading_algorithms.md). It supports yield gap analysis by providing access to a wealth of financial data and modeling tools.
+[QuantConnect](../q/quantconnect.md) is an [algorithmic trading](../a/algorithmic_trading.md) platform that enables developers to create, backtest, and deploy [trading algorithms](../t/trading_algorithms.md). It supports yield gap analysis by providing access to a wealth of financial data and modeling tools.
 
 ## Conclusion
 

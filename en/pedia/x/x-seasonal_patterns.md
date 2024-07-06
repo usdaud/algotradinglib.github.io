@@ -62,7 +62,7 @@ Once patterns are identified, algorithmic strategies can be developed. This invo
 
 ### 5. Implementation
 
-Once the strategy is backtested and refined, it can be implemented using [algorithmic trading](../a/algorithmic_trading.md) platforms like MetaTrader, NinjaTrader, or custom-built systems.
+Once the strategy is backtested and refined, it can be implemented using [algorithmic trading](../a/algorithmic_trading.md) platforms like MetaTrader, [NinjaTrader](../n/ninjatrader.md), or custom-built systems.
 
 ## Advantages and Challenges
 
@@ -84,7 +84,7 @@ Once the strategy is backtested and refined, it can be implemented using [algori
 
 ### 1. Financial Data Providers
 
-Data from reputable financial data providers like Bloomberg, Reuters, and Quandl is instrumental for analysis. These platforms offer comprehensive historical data.
+Data from reputable financial data providers like [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), and [Quandl](../q/quandl.md) is instrumental for analysis. These platforms offer comprehensive historical data.
 
 ### 2. Statistical Tools
 
@@ -94,7 +94,7 @@ Software like R, Python's Pandas and NumPy libraries, and dedicated financial an
 
 - **MetaTrader**: A popular platform for [algorithmic trading](../a/algorithmic_trading.md) that provides robust tools for [backtesting](../b/backtesting.md) and live trading.
   
-- **NinjaTrader**: Another well-known trading platform that supports advanced algorithms and strategy development.
+- **[NinjaTrader](../n/ninjatrader.md)**: Another well-known trading platform that supports advanced algorithms and strategy development.
 
 ### 4. Research Papers and Journals
 

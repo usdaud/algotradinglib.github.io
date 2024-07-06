@@ -62,11 +62,11 @@ To implement risk budgeting effectively, traders and institutions employ various
 
 Various software and platforms are available to traders and institutions to aid in risk budgeting. Here are some notable examples:
 
-- **QuantConnect**:
-  - QuantConnect provides [algorithmic trading](../a/algorithmic_trading.md) and [backtesting](../b/backtesting.md) platforms. Their advanced [risk management](../r/risk_management.md) tools help in setting and monitoring risk budgets effectively. Visit [QuantConnect](https://www.quantconnect.com/) for more details.
+- **[QuantConnect](../q/quantconnect.md)**:
+  - [QuantConnect](../q/quantconnect.md) provides [algorithmic trading](../a/algorithmic_trading.md) and [backtesting](../b/backtesting.md) platforms. Their advanced [risk management](../r/risk_management.md) tools help in setting and monitoring risk budgets effectively. Visit [QuantConnect](https://www.quantconnect.com/) for more details.
 
-- **AlgoTrader**: 
-  - AlgoTrader is another prominent platform offering comprehensive tools for [algorithmic trading](../a/algorithmic_trading.md), including risk budgeting features. They provide real-time [risk management](../r/risk_management.md) and monitoring solutions. Explore more at [AlgoTrader](https://www.algotrader.com/).
+- **[AlgoTrader](../a/algotrader.md)**: 
+  - [AlgoTrader](../a/algotrader.md) is another prominent platform offering comprehensive tools for [algorithmic trading](../a/algorithmic_trading.md), including risk budgeting features. They provide real-time [risk management](../r/risk_management.md) and monitoring solutions. Explore more at [AlgoTrader](https://www.algotrader.com/).
 
 ### Case Studies and Real-World Examples
 

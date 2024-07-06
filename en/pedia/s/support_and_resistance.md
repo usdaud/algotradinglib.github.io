@@ -44,7 +44,7 @@ Market volatility can influence the strength and frequency of support and resist
 
 ## Tools and Software
 ### Trading Platforms
-Trading platforms like MetaTrader, NinjaTrader, and Thinkorswim provide tools for identifying support and resistance levels. These platforms may offer built-in indicators or allow for custom script programming to create personalized tools.
+Trading platforms like MetaTrader, [NinjaTrader](../n/ninjatrader.md), and [Thinkorswim](../t/thinkorswim.md) provide tools for identifying support and resistance levels. These platforms may offer built-in indicators or allow for custom script programming to create personalized tools.
 
 ### API Integration
 Many trading platforms offer APIs (Application Programming Interfaces) that algorithmic traders can use to develop custom software solutions. These APIs facilitate the integration of support and resistance identification tools directly into [trading algorithms](../t/trading_algorithms.md).

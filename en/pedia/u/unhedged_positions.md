@@ -64,7 +64,7 @@ Several trading platforms offer tools and features that assist in managing unhed
 
 2. **Interactive Brokers:** This platform provides a range of [risk management](../r/risk_management.md) tools, including options for creating hedged strategies, even if the primary position is unhedged. [Interactive Brokers](https://www.interactivebrokers.com)
 
-3. **QuantConnect:** A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports [backtesting](../b/backtesting.md) and live trading while allowing customization to manage unhedged positions. [QuantConnect](https://www.quantconnect.com)
+3. **[QuantConnect](../q/quantconnect.md):** A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports [backtesting](../b/backtesting.md) and live trading while allowing customization to manage unhedged positions. [QuantConnect](https://www.quantconnect.com)
 
 ### Risk Management Tools
 Several companies specialize in offering [risk management](../r/risk_management.md) solutions to mitigate the exposure of unhedged positions:
@@ -73,7 +73,7 @@ Several companies specialize in offering [risk management](../r/risk_management.
 
 2. **RiskMetrics:** Known for its risk assessment tools, RiskMetrics helps traders and financial institutions evaluate the potential impact of unhedged positions. [RiskMetrics](https://www.msci.com/riskmetrics)
 
-3. **Bloomberg Terminal:** Offers comprehensive [risk management](../r/risk_management.md) tools, analytics, and real-time data to help traders manage their unhedged positions effectively. [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+3. **[Bloomberg](../b/bloomberg.md) Terminal:** Offers comprehensive [risk management](../r/risk_management.md) tools, analytics, and real-time data to help traders manage their unhedged positions effectively. [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
 ## Conclusion
 Unhedged positions in [algorithmic trading](../a/algorithmic_trading.md) present a significant risk-reward scenario, demanding a thorough understanding and effective [risk management](../r/risk_management.md) strategies. Through the use of advanced tools, simulations, and regulatory guidelines, traders can navigate the complexities of unhedged positions, aiming to maximize returns while mitigating potential losses. As the field of [algorithmic trading](../a/algorithmic_trading.md) continues to evolve, the approach to managing unhedged positions will likely become more sophisticated, integrating cutting-edge technologies and financial insights.

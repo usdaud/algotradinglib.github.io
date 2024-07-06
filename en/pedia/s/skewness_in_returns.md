@@ -42,7 +42,7 @@ Traditional [performance metrics](../p/performance_metrics.md) like the [Sharpe 
 
 #### QuantConnect’s Algorithm Module
 
-QuantConnect is an [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools for [backtesting](../b/backtesting.md) and deploying [trading strategies](../t/trading_strategies.md). One of its [algorithm modules](https://www.quantconnect.com) can be used to assess the skewness of a trading strategy's returns, enabling traders to refine their models based on the skewness parameter.
+[QuantConnect](../q/quantconnect.md) is an [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools for [backtesting](../b/backtesting.md) and deploying [trading strategies](../t/trading_strategies.md). One of its [algorithm modules](https://www.quantconnect.com) can be used to assess the skewness of a trading strategy's returns, enabling traders to refine their models based on the skewness parameter.
 
 ### Mathematical Context
 

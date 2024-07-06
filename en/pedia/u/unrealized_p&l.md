@@ -45,7 +45,7 @@ Interactive Brokers offers a range of tools for algotrading and detailed reporti
 
 #### QuantConnect
 
-QuantConnect’s [algorithmic trading](../a/algorithmic_trading.md) platform includes robust analytical tools to evaluate Unrealized P&L among other [performance metrics](../p/performance_metrics.md). This helps traders fine-tune their algorithms for better results. For more information, visit the [QuantConnect website](https://www.quantconnect.com/).
+[QuantConnect](../q/quantconnect.md)’s [algorithmic trading](../a/algorithmic_trading.md) platform includes robust analytical tools to evaluate Unrealized P&L among other [performance metrics](../p/performance_metrics.md). This helps traders fine-tune their algorithms for better results. For more information, visit the [QuantConnect website](https://www.quantconnect.com/).
 
 ### Strategies Impacted by Unrealized P&L Analysis
 
@@ -80,6 +80,6 @@ To effectively manage and utilize Unrealized P&L in algo trading, consider these
 
 ### Conclusion
 
-Unrealized P&L is an essential aspect of both traditional and [algorithmic trading](../a/algorithmic_trading.md). It provides a snapshot of the potential profitability or losses of current positions if they were to be liquidated at present market prices. Understanding and effectively managing Unrealized P&L allows traders to make more informed decisions, optimize their [trading strategies](../t/trading_strategies.md), and manage risks more efficiently. Platforms like Interactive Brokers and QuantConnect offer robust tools to assist traders in monitoring and managing their Unrealized P&L to enhance [trading performance](../t/trading_performance.md).
+Unrealized P&L is an essential aspect of both traditional and [algorithmic trading](../a/algorithmic_trading.md). It provides a snapshot of the potential profitability or losses of current positions if they were to be liquidated at present market prices. Understanding and effectively managing Unrealized P&L allows traders to make more informed decisions, optimize their [trading strategies](../t/trading_strategies.md), and manage risks more efficiently. Platforms like Interactive Brokers and [QuantConnect](../q/quantconnect.md) offer robust tools to assist traders in monitoring and managing their Unrealized P&L to enhance [trading performance](../t/trading_performance.md).
 
 By closely watching Unrealized P&L, algo traders can better navigate market volatility and refine their strategies for consistent and improved trading results.

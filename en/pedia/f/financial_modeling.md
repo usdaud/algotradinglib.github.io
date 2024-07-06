@@ -5,7 +5,7 @@ Financial modeling is a crucial component of [algorithmic trading](../a/algorith
 ## Components of Financial Modeling
 
 ### Data Collection and Cleaning
-Data is the cornerstone of financial modeling. The comprehensive historical and real-time data must be collected, cleaned, and normalized to create effective models. Sources for such data include exchanges like NYSE and NASDAQ, financial institutions, and specialized data providers such as Bloomberg and Reuters. Clean data minimizes inaccuracies and reduces noise in the models.
+Data is the cornerstone of financial modeling. The comprehensive historical and real-time data must be collected, cleaned, and normalized to create effective models. Sources for such data include exchanges like NYSE and NASDAQ, financial institutions, and specialized data providers such as [Bloomberg](../b/bloomberg.md) and [Reuters](../r/reuters.md). Clean data minimizes inaccuracies and reduces noise in the models.
 
 ### Statistical Analysis
 Statistical methods are used to analyze data for patterns and relationships. This includes measures such as mean, median, variance, and standard deviation. Techniques like [regression analysis](../r/regression_analysis.md), [time series analysis](../t/time_series_analysis.md), and [hypothesis testing](../h/hypothesis_testing.md) are routinely employed.
@@ -39,7 +39,7 @@ Portfolio models are used to optimize the mix of assets in a portfolio to maximi
 ## Applications in Algorithmic Trading
 
 ### Backtesting
-[Backtesting](../b/backtesting.md) involves testing [trading strategies](../t/trading_strategies.md) on historical data to evaluate their performance. This is essential to validate the predictive power of financial models before deploying them in live trading. Tools like QuantConnect and MetaTrader facilitate extensive [backtesting](../b/backtesting.md).
+[Backtesting](../b/backtesting.md) involves testing [trading strategies](../t/trading_strategies.md) on historical data to evaluate their performance. This is essential to validate the predictive power of financial models before deploying them in live trading. Tools like [QuantConnect](../q/quantconnect.md) and MetaTrader facilitate extensive [backtesting](../b/backtesting.md).
 
 ### Risk Management
 Financial models help in assessing and mitigating risks associated with [trading strategies](../t/trading_strategies.md). Value at Risk (VaR) and Conditional Value at Risk (CVaR) are common metrics used in [risk management](../r/risk_management.md) models. These models assess the potential losses in a portfolio over a specific period.
@@ -59,7 +59,7 @@ MATLAB is widely used for financial modeling due to its powerful mathematical an
 R and Python are popular programming languages for financial modeling. They offer extensive libraries for data analysis, statistical modeling, and machine learning. Libraries like Pandas, NumPy, and scikit-learn are particularly useful in Python, while R has libraries like ggplot2 and dplyr.
 
 ### Specialized Platforms
-Platforms like Quantlib and FINCAD offer specialized tools and libraries for financial modeling and [derivatives](../d/derivatives.md) pricing.
+Platforms like [Quantlib](../q/quantlib.md) and FINCAD offer specialized tools and libraries for financial modeling and [derivatives](../d/derivatives.md) pricing.
 
 ## Industry Use Cases
 

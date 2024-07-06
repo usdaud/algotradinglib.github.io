@@ -75,7 +75,7 @@ Data from balance sheets, income statements, and cash flow statements of compani
 ### C++
 - **Kx Systems' kdb+:** High-performance time series database
 - **Boost:** Collection of portable C++ source libraries
-- **QuantLib:** Comprehensive library for [quantitative finance](../q/quantitative_finance.md)
+- **[QuantLib](../q/quantlib.md):** Comprehensive library for [quantitative finance](../q/quantitative_finance.md)
 
 ## Key Metrics in Quantitative Trading
 1. **[Sharpe Ratio](../s/sharpe_ratio.md):** Measures [risk-adjusted return](../r/risk-adjusted_return.md).

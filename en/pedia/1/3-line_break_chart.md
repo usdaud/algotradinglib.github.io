@@ -45,9 +45,9 @@ Algo trading involves using algorithms to make trading decisions based on predef
 
 Several trading platforms and software support 3-line break charts, integrating them seamlessly into their systems:
 
-1. **MetaTrader**: This well-known trading platform supports 3-line break charts and allows traders to set custom timeframes for their analysis (https://www.metatrader4.com/).
-2. **TradingView**: Widely used for its comprehensive charting tools and community-driven insights, TradingView offers 3-line break charts (https://www.tradingview.com/).
-3. **NinjaTrader**: This platform also offers a variety of charting options, including 3-line break charts, which are essential for many algo traders (https://ninjatrader.com/).
+1. **MetaTrader**: This well-known trading platform supports 3-line break charts and allows traders to set custom timeframes for their analysis (https://www.[metatrader4](../m/metatrader4.md).com/).
+2. **[TradingView](../t/tradingview.md)**: Widely used for its comprehensive charting tools and community-driven insights, [TradingView](../t/tradingview.md) offers 3-line break charts (https://www.[tradingview](../t/tradingview.md).com/).
+3. **[NinjaTrader](../n/ninjatrader.md)**: This platform also offers a variety of charting options, including 3-line break charts, which are essential for many algo traders (https://[ninjatrader](../n/ninjatrader.md).com/).
 
 #### Conclusion
 

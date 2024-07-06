@@ -58,14 +58,14 @@ During the 2008 financial crisis, many traders who were involved in naked option
 Various platforms facilitate trading and risk assessment for options, including the possibility for naked option writing, providing tools for analysis, [risk management](../r/risk_management.md), and more:
 
 - **Interactive Brokers**: Known for sophisticated trading tools and global reach, it caters to experienced traders and professionals. [Interactive Brokers](https://www.interactivebrokers.com)
-- **TD Ameritrade’s thinkorswim**: Offers advanced charting, screening tools, and educational content suitable for high-level [trading strategies](../t/trading_strategies.md). [TD Ameritrade](https://www.tdameritrade.com)
+- **TD Ameritrade’s [thinkorswim](../t/thinkorswim.md)**: Offers advanced charting, screening tools, and educational content suitable for high-level [trading strategies](../t/trading_strategies.md). [TD Ameritrade](https://www.tdameritrade.com)
 
 ### Algorithmic Trading and Risk Management
 
 Advancements in [algorithmic trading](../a/algorithmic_trading.md) have also intersected with the world of options trading. These algorithms can help manage and mitigate risks associated with naked option writing by automating trade execution based on predefined criteria. [Algorithmic trading](../a/algorithmic_trading.md) platforms and libraries offering such functionalities include:
 
-- **QuantConnect**: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports [backtesting](../b/backtesting.md), live trading, and various asset classes, including options. [QuantConnect](https://www.quantconnect.com)
-- **AlgoTrader**: A comprehensive [algorithmic trading](../a/algorithmic_trading.md) software for hedge funds, asset managers, and [proprietary trading](../p/proprietary_trading.md) firms. [AlgoTrader](https://www.algotrader.com)
+- **[QuantConnect](../q/quantconnect.md)**: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports [backtesting](../b/backtesting.md), live trading, and various asset classes, including options. [QuantConnect](https://www.quantconnect.com)
+- **[AlgoTrader](../a/algotrader.md)**: A comprehensive [algorithmic trading](../a/algorithmic_trading.md) software for hedge funds, asset managers, and [proprietary trading](../p/proprietary_trading.md) firms. [AlgoTrader](https://www.algotrader.com)
 
 ## Alternatives to Naked Option Writing
 

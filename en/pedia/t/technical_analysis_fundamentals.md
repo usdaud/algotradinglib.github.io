@@ -71,7 +71,7 @@ Many traders use a combination of different indicators and tools to make informe
 [Technical analysis](../t/technical_analysis.md) informs various [trading strategies](../t/trading_strategies.md), including [day trading](../d/day_trading.md), [swing trading](../s/swing_trading.md), and position trading. Each strategy has its own time frame and uses different tools to achieve its objectives.
 
 ### Software and Platforms
-Utilizing software and trading platforms is essential for effective [technical analysis](../t/technical_analysis.md). These tools offer advanced charting capabilities, a wide range of indicators, and the ability to automate [trading strategies](../t/trading_strategies.md). Some popular platforms include MetaTrader, TradeStation, and Thinkorswim.
+Utilizing software and trading platforms is essential for effective [technical analysis](../t/technical_analysis.md). These tools offer advanced charting capabilities, a wide range of indicators, and the ability to automate [trading strategies](../t/trading_strategies.md). Some popular platforms include MetaTrader, [TradeStation](../t/tradestation.md), and [Thinkorswim](../t/thinkorswim.md).
 
 By understanding and applying the fundamentals of [technical analysis](../t/technical_analysis.md), traders can make more informed decisions and improve their [trading performance](../t/trading_performance.md). Here are some companies that provide [advanced technical analysis](../a/advanced_technical_analysis.md) tools and platforms:
 

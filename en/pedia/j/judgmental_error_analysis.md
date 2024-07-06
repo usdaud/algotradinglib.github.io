@@ -38,9 +38,9 @@ Case Studies of Judgmental Error in Algo-Trading
 
 Modern Tools for Judgmental Error Analysis
 ----------------------------------------------
-1. **AlgoTrader**: Provides [backtesting](../b/backtesting.md) and [algorithmic trading](../a/algorithmic_trading.md) strategy development capabilities with rigorous validation procedures to mitigate judgmental errors. [Visit AlgoTrader](https://www.algotrader.com)
+1. **[AlgoTrader](../a/algotrader.md)**: Provides [backtesting](../b/backtesting.md) and [algorithmic trading](../a/algorithmic_trading.md) strategy development capabilities with rigorous validation procedures to mitigate judgmental errors. [Visit AlgoTrader](https://www.algotrader.com)
 
-2. **QuantConnect**: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that offers extensive tools for validating and testing [trading algorithms](../t/trading_algorithms.md) to identify potential judgmental errors. [Visit QuantConnect](https://www.quantconnect.com)
+2. **[QuantConnect](../q/quantconnect.md)**: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that offers extensive tools for validating and testing [trading algorithms](../t/trading_algorithms.md) to identify potential judgmental errors. [Visit QuantConnect](https://www.quantconnect.com)
 
 3. **Tradeworx**: Specializing in high-frequency trading and extensive [backtesting](../b/backtesting.md) to reduce risks associated with judgmental errors. [Visit Tradeworx](http://www.tradeworx.com)
 

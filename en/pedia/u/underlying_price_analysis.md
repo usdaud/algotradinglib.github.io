@@ -47,7 +47,7 @@ The `underlying asset` is the financial asset upon which a derivative's price is
 ## Tools and Software for Underlying Price Analysis
 
 ### Bloomberg Terminal
-Bloomberg Terminal provides real-time financial data, news feeds, and trading analytics.
+[Bloomberg](../b/bloomberg.md) Terminal provides real-time financial data, news feeds, and trading analytics.
 
 - [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 

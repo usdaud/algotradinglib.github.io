@@ -32,9 +32,9 @@ When [backtesting](../b/backtesting.md) a trading strategy, several metrics can 
 Several software solutions are available that simplify the [backtesting](../b/backtesting.md) process. Popular platforms include:
 
 - **MetaTrader**: A widely-used platform for forex and CFD trading that includes [backtesting](../b/backtesting.md) capabilities.
-- **TradeStation**: A trading platform that offers advanced [backtesting](../b/backtesting.md) and optimization tools.
-- **QuantConnect**: An open-source platform that supports [backtesting](../b/backtesting.md) for multiple asset classes.
-- **Amibroker**: A comprehensive charting and analysis software that provides powerful [backtesting](../b/backtesting.md) features.
+- **[TradeStation](../t/tradestation.md)**: A trading platform that offers advanced [backtesting](../b/backtesting.md) and optimization tools.
+- **[QuantConnect](../q/quantconnect.md)**: An open-source platform that supports [backtesting](../b/backtesting.md) for multiple asset classes.
+- **[Amibroker](../a/amibroker.md)**: A comprehensive charting and analysis software that provides powerful [backtesting](../b/backtesting.md) features.
 
 ### Best Practices
 To ensure the reliability of [backtesting](../b/backtesting.md) results, traders should follow best practices, such as:

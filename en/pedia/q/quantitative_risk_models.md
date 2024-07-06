@@ -56,7 +56,7 @@ Quantitative risk models are essential for identifying and assessing the risks i
 1. **MATLAB**: Widely used for developing algorithms and implementing advanced [quantitative models](../q/quantitative_models.md).
 2. **Python**: With libraries like pandas, NumPy, and scikit-learn, Python is a go-to choice for developing risk models.
 3. **R**: Known for its statistical capabilities, R is extensively used for [risk analysis](../r/risk_analysis.md) and modeling.
-4. **[Algorithmic Trading](../a/algorithmic_trading.md) Platforms**: Software such as MetaTrader, NinjaTrader, and proprietary platforms often incorporate [risk management](../r/risk_management.md) tools too.
+4. **[Algorithmic Trading](../a/algorithmic_trading.md) Platforms**: Software such as MetaTrader, [NinjaTrader](../n/ninjatrader.md), and proprietary platforms often incorporate [risk management](../r/risk_management.md) tools too.
 
 ### Applications in Financial Contexts
 

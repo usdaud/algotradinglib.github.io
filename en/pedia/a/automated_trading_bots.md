@@ -100,7 +100,7 @@ Automated trading bots are sophisticated programs that interact with financial m
    AlphaVantage provides financial market data and is widely used by trading bots to collect essential information.
    [AlphaVantage](https://www.alphavantage.co/)
 
-2. **QuantConnect**
+2. **[QuantConnect](../q/quantconnect.md)**
 
    An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that offers tools for [backtesting](../b/backtesting.md) and live trading.
    [QuantConnect](https://www.quantconnect.com/)

@@ -48,7 +48,7 @@ MarkitSERV is a suite of services for automating the processing of bond trades, 
 [MarkitSERV](https://ihsmarkit.com/products/markitserv.html)
 
 ### 3. Bloomberg Terminal
-The Bloomberg Terminal offers extensive capabilities for bond trading, including access to real-time data, analytics, and electronic trading:
+The [Bloomberg](../b/bloomberg.md) Terminal offers extensive capabilities for bond trading, including access to real-time data, analytics, and electronic trading:
 [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
 ## Techniques Used in Bond Trading Algorithms
@@ -74,8 +74,8 @@ Effective [risk management](../r/risk_management.md) is crucial in bond trading.
 ## Real-time Data and Market Access
 Real-time data is vital for the effective functioning of bond [trading algorithms](../t/trading_algorithms.md). Sources include:
 
-- **Market Data Feeds**: Platforms like Bloomberg, Reuters, and Tradeweb offer real-time bond prices, yield curves, and [economic indicators](../e/economic_indicators.md).
-- **Electronic Trading Platforms**: Some platforms, such as MarketAxess and Tradeweb, facilitate direct access to bond markets, enabling the execution of trades based on algorithmic decisions.
+- **Market Data Feeds**: Platforms like [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), and Tradeweb offer real-time bond prices, yield curves, and [economic indicators](../e/economic_indicators.md).
+- **Electronic Trading Platforms**: Some platforms, such as [MarketAxess](../m/marketaxess.md) and Tradeweb, facilitate direct access to bond markets, enabling the execution of trades based on algorithmic decisions.
 
 ## Challenges in Bond Trading Algorithms
 

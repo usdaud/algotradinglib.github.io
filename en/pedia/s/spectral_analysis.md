@@ -29,7 +29,7 @@ In [algorithmic trading](../a/algorithmic_trading.md), spectral analysis can be 
 
 ### Collecting Data
 
-To perform spectral analysis, traders need time-series data such as historical price, volume, and other relevant indicators. Data can be sourced from multiple financial data providers like Bloomberg, Reuters, or Yahoo Finance.
+To perform spectral analysis, traders need time-series data such as historical price, volume, and other relevant indicators. Data can be sourced from multiple financial data providers like [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), or Yahoo Finance.
 
 ### Applying Fourier Transform
 
@@ -142,7 +142,7 @@ HHT is another advanced method combining empirical mode decomposition (EMD) and 
 
 Several financial technology companies offer platforms and APIs integrating spectral analysis for traders. Examples include:
 
-1. **QuantConnect**: A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform providing data, [backtesting](../b/backtesting.md), and execution capabilities, along with advanced analytics tools including spectral analysis.
+1. **[QuantConnect](../q/quantconnect.md)**: A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform providing data, [backtesting](../b/backtesting.md), and execution capabilities, along with advanced analytics tools including spectral analysis.
    - [QuantConnect](https://www.quantconnect.com)
 
 2. **Alpaca**: API for [algorithmic trading](../a/algorithmic_trading.md) with features for data analysis and strategy implementation, supporting a variety of analytical methods including spectral analysis.

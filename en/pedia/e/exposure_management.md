@@ -32,13 +32,13 @@ Different techniques are employed to manage exposure effectively in [algorithmic
 
 Several tools and platforms facilitate effective exposure management in [algorithmic trading](../a/algorithmic_trading.md):
 
-1. **[Risk Management](../r/risk_management.md) Software:** Tools like AlgoTrader (https://www.algotrader.com/) and QuantConnect (https://www.quantconnect.com/) provide comprehensive risk analytics and management features.
+1. **[Risk Management](../r/risk_management.md) Software:** Tools like [AlgoTrader](../a/algotrader.md) (https://www.[algotrader](../a/algotrader.md).com/) and [QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/) provide comprehensive risk analytics and management features.
 
 2. **[Portfolio Management](../p/portfolio_management.md) Systems:** Solutions like BlackRock's Aladdin (https://www.blackrock.com/aladdin) offer advanced features for managing exposure across multiple asset classes.
 
-3. **Market Data Feeds:** Providers such as Bloomberg (https://www.bloomberg.com/professional/solution/market-data/) and Thomson Reuters supply real-time data crucial for dynamic exposure management.
+3. **Market Data Feeds:** Providers such as [Bloomberg](../b/bloomberg.md) (https://www.[bloomberg](../b/bloomberg.md).com/professional/solution/market-data/) and Thomson [Reuters](../r/reuters.md) supply real-time data crucial for dynamic exposure management.
 
-4. **[Backtesting](../b/backtesting.md) Platforms:** Tools like MATLAB, R, and Python libraries (e.g., Backtrader) enable extensive testing of strategies under different market conditions to assess exposure.
+4. **[Backtesting](../b/backtesting.md) Platforms:** Tools like MATLAB, R, and Python libraries (e.g., [Backtrader](../b/backtrader.md)) enable extensive testing of strategies under different market conditions to assess exposure.
 
 #### Best Practices in Exposure Management
 

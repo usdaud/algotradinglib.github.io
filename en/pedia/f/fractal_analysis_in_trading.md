@@ -81,13 +81,13 @@ MetaTrader platforms offer built-in fractal indicators. Traders can easily apply
 
 ### TradingView
 
-TradingView provides a wide range of fractal indicators that traders can apply to various types of charts and markets.
+[TradingView](../t/tradingview.md) provides a wide range of fractal indicators that traders can apply to various types of charts and markets.
 
 - [TradingView](https://www.tradingview.com/)
 
 ### NinjaTrader
 
-NinjaTrader is another robust trading platform that offers fractal analysis tools, allowing traders to integrate fractals into their [trading strategies](../t/trading_strategies.md).
+[NinjaTrader](../n/ninjatrader.md) is another robust trading platform that offers fractal analysis tools, allowing traders to integrate fractals into their [trading strategies](../t/trading_strategies.md).
 
 - [NinjaTrader](https://ninjatrader.com/)
 

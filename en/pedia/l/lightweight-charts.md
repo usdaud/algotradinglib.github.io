@@ -1,7 +1,7 @@
-﻿# Lightweight Charts
+# Lightweight Charts
 
 ## Overview
-Lightweight Charts is an open-source charting library developed by TradingView, designed to provide high-performance, interactive charts for financial applications. It focuses on delivering a lightweight, easy-to-use solution for creating responsive and visually appealing charts, suitable for both web and mobile platforms.
+Lightweight Charts is an open-source charting library developed by [TradingView](../t/tradingview.md), designed to provide high-performance, interactive charts for financial applications. It focuses on delivering a lightweight, easy-to-use solution for creating responsive and visually appealing charts, suitable for both web and mobile platforms.
 
 ## Features
 1. **High Performance**: Optimized for performance, ensuring fast rendering and smooth interactions even with large datasets.
@@ -10,7 +10,7 @@ Lightweight Charts is an open-source charting library developed by TradingView, 
 4. **Customizable**: Highly customizable with a range of configuration options to match the look and feel of your application.
 5. **Responsive Design**: Automatically adjusts to different screen sizes and resolutions, ensuring a consistent user experience across devices.
 6. **Multiple Chart Types**: Supports various chart types, including line, area, bar, and candlestick charts.
-7. **Technical Indicators**: Includes a selection of built-in technical indicators, with the ability to add custom indicators.
+7. **[Technical Indicators](../t/technical_indicators.md)**: Includes a selection of built-in [technical indicators](../t/technical_indicators.md), with the ability to add custom indicators.
 8. **Open Source**: Free to use and modify under the Apache 2.0 license, with an active community of contributors.
 
 ## Key Components
@@ -39,6 +39,6 @@ Lightweight Charts is supported by a vibrant community of developers and users. 
 - **Financial Applications**: Used in financial applications for displaying stock, forex, and cryptocurrency charts.
 - **Trading Platforms**: Integrated into trading platforms for real-time market analysis and strategy visualization.
 - **Market Research Tools**: Helps analysts and researchers visualize market data and trends.
-- **Educational Platforms**: Used in educational tools to teach technical analysis and financial concepts.
+- **Educational Platforms**: Used in educational tools to teach [technical analysis](../t/technical_analysis.md) and financial concepts.
 
 Lightweight Charts provides a powerful yet simple solution for adding high-performance, interactive charts to web and mobile applications, making it a preferred choice for developers in the financial sector.

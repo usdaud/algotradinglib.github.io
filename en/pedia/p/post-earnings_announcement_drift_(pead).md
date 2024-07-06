@@ -42,10 +42,10 @@ Numerous [trading strategies](../t/trading_strategies.md) have been developed to
 
 Several companies and platforms offer tools and services to help traders exploit PEAD:
 
-1. **QuantConnect:** An open [algorithmic trading](../a/algorithmic_trading.md) platform offering data, cloud computing, and libraries to backtest and deploy PEAD strategies. [QuantConnect](https://www.quantconnect.com/)
+1. **[QuantConnect](../q/quantconnect.md):** An open [algorithmic trading](../a/algorithmic_trading.md) platform offering data, cloud computing, and libraries to backtest and deploy PEAD strategies. [QuantConnect](https://www.quantconnect.com/)
 2. **Kensho Technologies:** Provides analytics and data tools to identify and act on PEAD through natural language processing and machine learning. [Kensho](https://www.kensho.com/)
-3. **Bloomberg Terminal:** A professional financial data and software tool providing extensive data on earnings and stock performance to allow traders to track PEAD. [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-4. **FactSet:** Offers earnings data, predictions, and analytics tools geared towards identifying and leveraging PEAD opportunities. [FactSet](https://www.factset.com/)
+3. **[Bloomberg](../b/bloomberg.md) Terminal:** A professional financial data and software tool providing extensive data on earnings and stock performance to allow traders to track PEAD. [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+4. **[FactSet](../f/factset.md):** Offers earnings data, predictions, and analytics tools geared towards identifying and leveraging PEAD opportunities. [FactSet](https://www.factset.com/)
 
 ### Challenges and Risks
 

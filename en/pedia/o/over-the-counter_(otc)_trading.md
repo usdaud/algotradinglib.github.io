@@ -78,7 +78,7 @@ The bespoke nature of OTC trades can result in higher transaction costs. This in
 ## Regulation of OTC Markets
 
 ### United States
-In the United States, OTC trading is regulated by the Financial Industry Regulatory Authority (FINRA) and the Securities and Exchange Commission (SEC). Broker-dealers operating in the OTC market must adhere to FINRA rules and SEC regulations to ensure market integrity and protect investors.
+In the United States, OTC trading is regulated by the Financial Industry Regulatory Authority ([FINRA](../f/finra.md)) and the Securities and Exchange Commission (SEC). Broker-dealers operating in the OTC market must adhere to [FINRA](../f/finra.md) rules and SEC regulations to ensure market integrity and protect investors.
 
 ### Europe
 In Europe, OTC trading falls under the purview of the European Securities and Markets Authority (ESMA) and national regulators. The Markets in Financial Instruments Directive (MiFID II) introduced stricter transparency and reporting requirements for OTC trades.
@@ -92,7 +92,7 @@ Globally, the International Organization of Securities Commissions (IOSCO) sets 
 OTC Markets Group operates financial markets for securities not listed on national exchanges. Their platforms include OTCQX, OTCQB, and Pink, offering various levels of disclosure and regulation. More information can be found on their [website](https://www.otcmarkets.com).
 
 ### Bloomberg
-Bloomberg provides OTC trading solutions through its Bloomberg Terminal, offering access to a wide range of financial instruments and real-time data. Institutional clients use Bloomberg for price discovery, trade execution, and [risk management](../r/risk_management.md).
+[Bloomberg](../b/bloomberg.md) provides OTC trading solutions through its [Bloomberg](../b/bloomberg.md) Terminal, offering access to a wide range of financial instruments and real-time data. Institutional clients use [Bloomberg](../b/bloomberg.md) for price discovery, trade execution, and [risk management](../r/risk_management.md).
 
 ### Tradeweb
 Tradeweb offers electronic trading platforms for fixed income, [derivatives](../d/derivatives.md), and other OTC financial products. Their platforms provide transparency, efficiency, and access to a global network of liquidity providers. For more details, visit [Tradeweb's website](https://www.tradeweb.com).

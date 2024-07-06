@@ -85,11 +85,11 @@ Several companies specialize in providing tools and services to help traders man
 
 ### AlgoTrader [AlgoTrader](https://www.algotrader.com/)
 
-AlgoTrader offers an institutional-grade [algorithmic trading](../a/algorithmic_trading.md) software that allows traders to implement, test, and deploy [trading strategies](../t/trading_strategies.md). The platform includes tools for managing market volatility and mitigating the effects of whipsaw.
+[AlgoTrader](../a/algotrader.md) offers an institutional-grade [algorithmic trading](../a/algorithmic_trading.md) software that allows traders to implement, test, and deploy [trading strategies](../t/trading_strategies.md). The platform includes tools for managing market volatility and mitigating the effects of whipsaw.
 
 ### QuantConnect [QuantConnect](https://www.quantconnect.com/)
 
-QuantConnect provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that offers access to financial data, [backtesting](../b/backtesting.md) engines, and research tools. Traders can use these resources to develop strategies that are resilient to whipsaw conditions.
+[QuantConnect](../q/quantconnect.md) provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that offers access to financial data, [backtesting](../b/backtesting.md) engines, and research tools. Traders can use these resources to develop strategies that are resilient to whipsaw conditions.
 
 ### Numerai [Numerai](https://numer.ai/)
 
@@ -97,4 +97,4 @@ Numerai is a hedge fund that crowdsources [trading algorithms](../t/trading_algo
 
 ## Conclusion
 
-The whipsaw effect presents a significant challenge in [algorithmic trading](../a/algorithmic_trading.md), leading to potential losses and increased transaction costs. Understanding its causes and characteristics is crucial for developing effective [trading strategies](../t/trading_strategies.md) and algorithms that can withstand rapid and unpredictable market movements. By employing [technical analysis](../t/technical_analysis.md) tools, diversification, [stop-loss orders](../s/stop-loss_orders.md), and volatility filters, traders can better manage the risks associated with whipsaw and improve their overall [trading performance](../t/trading_performance.md). Companies like AlgoTrader, QuantConnect, and Numerai are at the forefront of providing solutions to help mitigate these challenges, offering platforms and tools specifically designed to handle the complexities of modern financial markets.
+The whipsaw effect presents a significant challenge in [algorithmic trading](../a/algorithmic_trading.md), leading to potential losses and increased transaction costs. Understanding its causes and characteristics is crucial for developing effective [trading strategies](../t/trading_strategies.md) and algorithms that can withstand rapid and unpredictable market movements. By employing [technical analysis](../t/technical_analysis.md) tools, diversification, [stop-loss orders](../s/stop-loss_orders.md), and volatility filters, traders can better manage the risks associated with whipsaw and improve their overall [trading performance](../t/trading_performance.md). Companies like [AlgoTrader](../a/algotrader.md), [QuantConnect](../q/quantconnect.md), and Numerai are at the forefront of providing solutions to help mitigate these challenges, offering platforms and tools specifically designed to handle the complexities of modern financial markets.

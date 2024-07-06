@@ -84,7 +84,7 @@ When implementing LSTM models in trading, there are several considerations to ke
 Several platforms and frameworks facilitate the development and deployment of LSTM models for trading:
 
 - **TensorFlow and Keras:** Popular deep learning frameworks that provide powerful tools for building and training LSTM models.
-- **QuantConnect ([quantconnect.com](https://www.quantconnect.com/)):** An [algorithmic trading](../a/algorithmic_trading.md) platform that supports the integration of machine learning models, including LSTMs.
+- **[QuantConnect](../q/quantconnect.md) ([quantconnect.com](https://www.quantconnect.com/)):** An [algorithmic trading](../a/algorithmic_trading.md) platform that supports the integration of machine learning models, including LSTMs.
 - **Alpaca ([alpaca.markets](https://alpaca.markets/)):** A commission-free trading platform that offers APIs to integrate custom [trading algorithms](../t/trading_algorithms.md), such as those based on LSTM predictions.
 - **Interactive Brokers ([interactivebrokers.com](https://www.interactivebrokers.com/)):** A brokerage that provides extensive API support for [algorithmic trading](../a/algorithmic_trading.md).
 

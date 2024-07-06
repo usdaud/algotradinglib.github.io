@@ -1,6 +1,6 @@
 # Commodity Trading Advisors
 
-Commodity Trading Advisors (CTAs) are professional investment managers who specialize in trading futures and options on futures contracts. A CTA typically employs a range of strategies to generate returns for their clients, using either systematic (quantitative) or discretionary (qualitative) approaches. Below, we will explore their definitions, roles, operations, strategies, regulations, and key figures in substantial detail.
+Commodity Trading Advisors (CTAs) are professional investment managers who specialize in trading futures and options on [futures contracts](../f/futures_contracts.md). A CTA typically employs a range of strategies to generate returns for their clients, using either systematic (quantitative) or discretionary (qualitative) approaches. Below, we will explore their definitions, roles, operations, strategies, regulations, and key figures in substantial detail.
 
 ### Definition and Role
 
@@ -75,7 +75,7 @@ A number of firms have established themselves as leaders in the CTA space:
 
 CTAs leverage a range of advanced technologies and tools to support their trading activities, including:
 
-1. **[Algorithmic Trading](../a/algorithmic_trading.md) Platforms**: These platforms enable the development, [backtesting](../b/backtesting.md), and execution of [trading algorithms](../t/trading_algorithms.md). Examples include MetaTrader and QuantConnect.
+1. **[Algorithmic Trading](../a/algorithmic_trading.md) Platforms**: These platforms enable the development, [backtesting](../b/backtesting.md), and execution of [trading algorithms](../t/trading_algorithms.md). Examples include MetaTrader and [QuantConnect](../q/quantconnect.md).
 2. **Data Analytics Software**: Tools like Python, R, and MATLAB are frequently used to analyze market data and build [quantitative models](../q/quantitative_models.md).
 3. **[Risk Management](../r/risk_management.md) Systems**: Specialized software such as RiskMetrics or proprietary [risk management](../r/risk_management.md) systems to monitor and mitigate risk.
 

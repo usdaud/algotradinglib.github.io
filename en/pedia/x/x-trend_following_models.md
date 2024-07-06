@@ -104,15 +104,15 @@ Various platforms and tools aid in the implementation of these models within an 
 
 1. **MetaTrader 4/5** - Offers a comprehensive environment for building and [backtesting](../b/backtesting.md) [trading algorithms](../t/trading_algorithms.md) using MQL scripting languages. [MetaTrader](https://www.metatrader4.com/en)
 
-2. **NinjaTrader** - Another platform that supports building and executing [algorithmic trading](../a/algorithmic_trading.md) strategies with powerful analysis tools. [NinjaTrader](https://www.ninjatrader.com/)
+2. **[NinjaTrader](../n/ninjatrader.md)** - Another platform that supports building and executing [algorithmic trading](../a/algorithmic_trading.md) strategies with powerful analysis tools. [NinjaTrader](https://www.ninjatrader.com/)
 
-3. **QuantConnect** - Provides cloud-based services for [backtesting](../b/backtesting.md) and deploying [trading algorithms](../t/trading_algorithms.md) using multiple programming languages like C#, Python. [QuantConnect](https://www.quantconnect.com/)
+3. **[QuantConnect](../q/quantconnect.md)** - Provides cloud-based services for [backtesting](../b/backtesting.md) and deploying [trading algorithms](../t/trading_algorithms.md) using multiple programming languages like C#, Python. [QuantConnect](https://www.quantconnect.com/)
 
 4. **Interactive Brokers** - An electronic trading platform that provides APIs for [algorithmic trading](../a/algorithmic_trading.md). [Interactive Brokers](https://www.interactivebrokers.com/)
 
-5. **TradeStation** - Known for its easy-to-use charting and analysis tools, offering a platform for automating trades. [TradeStation](https://www.tradestation.com/)
+5. **[TradeStation](../t/tradestation.md)** - Known for its easy-to-use charting and analysis tools, offering a platform for automating trades. [TradeStation](https://www.tradestation.com/)
 
-6. **AlgoTrader** - A professional-grade [algorithmic trading](../a/algorithmic_trading.md) software for hedge funds and [proprietary trading](../p/proprietary_trading.md) groups. [AlgoTrader](https://www.algotrader.com/)
+6. **[AlgoTrader](../a/algotrader.md)** - A professional-grade [algorithmic trading](../a/algorithmic_trading.md) software for hedge funds and [proprietary trading](../p/proprietary_trading.md) groups. [AlgoTrader](https://www.algotrader.com/)
 
 37. **QuantInsti** - An educational platform providing courses and certification in [algorithmic trading](../a/algorithmic_trading.md). [QuantInsti](https://www.quantinsti.com/)
 

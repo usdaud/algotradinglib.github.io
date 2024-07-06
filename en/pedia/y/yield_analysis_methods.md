@@ -6,7 +6,7 @@
 
 Historical performance analysis involves examining past data to evaluate the effectiveness of a trading algorithm. This technique helps in understanding how the strategy performed in various market conditions and is fundamental in predicting future performance.
 
-- **[Backtesting](../b/backtesting.md):** This is the most common method, where historical market data is used to simulate trades based on the algorithm. Platforms like MetaTrader, QuantConnect, and Zipline allow traders to backtest their strategies comprehensively.
+- **[Backtesting](../b/backtesting.md):** This is the most common method, where historical market data is used to simulate trades based on the algorithm. Platforms like MetaTrader, [QuantConnect](../q/quantconnect.md), and Zipline allow traders to backtest their strategies comprehensively.
   
     - [QuantConnect](https://www.quantconnect.com)
     - [Zipline](https://www.zipline.io)

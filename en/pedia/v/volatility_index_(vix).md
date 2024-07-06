@@ -53,7 +53,7 @@ Several trading firms and hedge funds specialize in employing VIX-based strategi
 - [AQR Capital](https://www.aqr.com/)
 
 ### Financial Platforms and Services
-Trading platforms such as Interactive Brokers and ThinkOrSwim by TD Ameritrade offer tools and products for trading VIX options and futures. They provide sophisticated interfaces and APIs that allow algorithmic traders to implement VIX-based strategies.
+Trading platforms such as Interactive Brokers and [ThinkOrSwim](../t/thinkorswim.md) by TD Ameritrade offer tools and products for trading VIX options and futures. They provide sophisticated interfaces and APIs that allow algorithmic traders to implement VIX-based strategies.
 
 - [Interactive Brokers](https://www.interactivebrokers.com/)
 - [ThinkOrSwim](https://www.thinkorswim.com/)

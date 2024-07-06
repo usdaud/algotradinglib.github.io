@@ -63,7 +63,7 @@ Machine learning provides advanced tools for [pattern recognition](../p/pattern_
 Platforms like Interactive Brokers offer tools and data feeds that help retail traders to identify and capitalize on temporal patterns. Learn more from the [Interactive Brokers website](https://www.interactivebrokers.com/).
 
 ### 3. Algorithmic Trading Software
-Software solutions like MetaTrader and NinjaTrader provide built-in [technical indicators](../t/technical_indicators.md) and custom scripting capabilities to develop pattern-detection algorithms. For more information, visit the [MetaTrader website](https://www.metatrader4.com/) and the [NinjaTrader website](https://ninjatrader.com/).
+Software solutions like MetaTrader and [NinjaTrader](../n/ninjatrader.md) provide built-in [technical indicators](../t/technical_indicators.md) and custom scripting capabilities to develop pattern-detection algorithms. For more information, visit the [MetaTrader website](https://www.metatrader4.com/) and the [NinjaTrader website](https://ninjatrader.com/).
 
 ## Conclusion
 

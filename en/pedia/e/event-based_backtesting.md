@@ -91,9 +91,9 @@ Once the backtest is complete, detailed analysis can be conducted to evaluate th
 
 Several tools and libraries can aid in implementing event-based [backtesting](../b/backtesting.md) systems. For example:
 
-- **Backtrader**: https://www.backtrader.com/
+- **[Backtrader](../b/backtrader.md)**: https://www.[backtrader](../b/backtrader.md).com/
 - **Zipline**: https://www.zipline.io/
-- **QuantConnect**: https://www.quantconnect.com/
+- **[QuantConnect](../q/quantconnect.md)**: https://www.[quantconnect](../q/quantconnect.md).com/
 
 These platforms provide frameworks for setting up event loops, handling market data, managing orders, and tracking performance.
 

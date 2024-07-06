@@ -62,7 +62,7 @@ Penny stocks generally refer to the shares of small public companies that trade 
 
 ### Major Regulatory Bodies
 1. **SEC**: The U.S. Securities and Exchange Commission.
-2. **FINRA**: The Financial Industry Regulatory Authority.
+2. **[FINRA](../f/finra.md)**: The Financial Industry Regulatory Authority.
 
 ## Case Studies and Successes
 ### Examples
@@ -74,8 +74,8 @@ Penny stocks generally refer to the shares of small public companies that trade 
 2. **Citadel Securities**: [Citadel Securities](https://www.citadelsecurities.com/)
 
 ## Tools and Frameworks for Algotrading
-1. **QuantConnect**: Cloud-based algo trading platform.
-2. **AlgoTrader**: Comprehensive system for [quantitative research](../q/quantitative_research.md) and automated trading.
+1. **[QuantConnect](../q/quantconnect.md)**: Cloud-based algo trading platform.
+2. **[AlgoTrader](../a/algotrader.md)**: Comprehensive system for [quantitative research](../q/quantitative_research.md) and automated trading.
 
 ## Future Trends in Algotrading Penny Stocks
 ### Machine Learning

@@ -18,7 +18,7 @@ The term "X-Price" refers to a critical price level that acts as a trigger for a
 
 For accurate X-Price Analysis, large volumes of historical and real-time data are needed. This data often comes from a variety of sources:
 
-- **Market Data Providers**: Companies like Bloomberg or Reuters.
+- **Market Data Providers**: Companies like [Bloomberg](../b/bloomberg.md) or [Reuters](../r/reuters.md).
 - **Exchanges**: Directly from stock exchanges like NYSE, NASDAQ, etc.
 - **Proprietary Data Feeds**: From individual brokers or trading firms.
 
@@ -57,11 +57,11 @@ The final step is executing the algorithm-based trades in the live market. [Exec
 
 Various companies specialize in providing platforms and tools tailored to X-Price Analysis. Some prominent names include:
 
-- **QuantConnect**
+- **[QuantConnect](../q/quantconnect.md)**
   [QuantConnect](https://www.quantconnect.com/)
 - **Alpaca**
   [Alpaca](https://alpaca.markets/)
-- **TradeStation**
+- **[TradeStation](../t/tradestation.md)**
   [TradeStation](https://www.tradestation.com/)
 - **Quantopian** (Note: Quantopian shut down in 2020, but it played a significant role in the past)
 - **MetaTrader**

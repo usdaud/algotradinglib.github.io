@@ -58,7 +58,7 @@ Several financial institutions and trading platforms provide tools and resources
 
 1. **Interactive Brokers**: Offers a robust platform for options trading, including tools for managing and analyzing Greeks. [Interactive Brokers](https://www.interactivebrokers.com/en/home.php)
 
-2. **Thinkorswim by TD Ameritrade**: Provides advanced options analysis tools that include gamma and other Greeks calculations. [TD Ameritrade](https://www.tdameritrade.com/tools-and-platforms/thinkorswim/desktop.html)
+2. **[Thinkorswim](../t/thinkorswim.md) by TD Ameritrade**: Provides advanced options analysis tools that include gamma and other Greeks calculations. [TD Ameritrade](https://www.tdameritrade.com/tools-and-platforms/thinkorswim/desktop.html)
 
 3. **Cboe Global Markets**: One of the world's largest options markets, providing educational resources and trading platforms for options traders. [Cboe](https://www.cboe.com/)
 

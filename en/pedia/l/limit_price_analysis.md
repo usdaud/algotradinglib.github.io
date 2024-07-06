@@ -57,7 +57,7 @@ Implementing limit price analysis helps mitigate various trading risks, includin
 
 ### Tools and Platforms for Limit Price Analysis
 
-1. **Bloomberg Terminal**:  
+1. **[Bloomberg](../b/bloomberg.md) Terminal**:  
    Provides real-time data, financial analytics, and trading capabilities essential for sophisticated limit price analysis.
    [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal)
 
@@ -66,7 +66,7 @@ Implementing limit price analysis helps mitigate various trading risks, includin
    [MetaTrader 5](https://www.metatrader5.com/en)
 
 3. **[Algorithmic Trading](../a/algorithmic_trading.md) Platforms**:  
-   Specialized platforms like QuantConnect and Rithmic offer tools for developing and testing algorithmic strategies incorporating limit price analysis.
+   Specialized platforms like [QuantConnect](../q/quantconnect.md) and [Rithmic](../r/rithmic.md) offer tools for developing and testing algorithmic strategies incorporating limit price analysis.
    - [QuantConnect](https://www.quantconnect.com/)
    - [Rithmic](https://rithmic.com/)
 

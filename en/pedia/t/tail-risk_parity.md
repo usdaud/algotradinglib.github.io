@@ -78,7 +78,7 @@ MSCI offers a suite of tools and indices that help in managing and analyzing tai
 RiskMetrics, now a part of MSCI, has been a pioneer in [risk management](../r/risk_management.md) solutions, including tools to measure and manage tail risks. Visit them here: [RiskMetrics](https://www.msci.com/riskmetrics).
 
 ### 5. Bloomberg
-Bloomberg offers comprehensive analytics and data services that include tools for assessing and managing tail risks in financial portfolios. Detailed information can be accessed on their website: [Bloomberg](https://www.bloomberg.com).
+[Bloomberg](../b/bloomberg.md) offers comprehensive analytics and data services that include tools for assessing and managing tail risks in financial portfolios. Detailed information can be accessed on their website: [Bloomberg](https://www.bloomberg.com).
 
 ## Conclusion
 

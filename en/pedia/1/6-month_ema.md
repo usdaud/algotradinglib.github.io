@@ -1,6 +1,6 @@
 # 6-Month EMA
 
-The 6-Month Exponential Moving Average (EMA) is a popular technical indicator used by traders and analysts in the financial markets, particularly in algorithmic trading. This indicator helps to smooth out price data to identify trends more clearly by giving greater weight to more recent prices. In this detailed analysis, we will explore the concept, calculation, applications, advantages, and limitations of the 6-Month EMA, along with its role in algorithmic trading strategies.
+The 6-Month Exponential Moving Average (EMA) is a popular technical indicator used by traders and analysts in the financial markets, particularly in [algorithmic trading](../a/algorithmic_trading.md). This indicator helps to smooth out price data to identify trends more clearly by giving greater weight to more recent prices. In this detailed analysis, we will explore the concept, calculation, applications, advantages, and limitations of the 6-Month EMA, along with its role in [algorithmic trading](../a/algorithmic_trading.md) strategies.
 
 ### Concept and Importance
 

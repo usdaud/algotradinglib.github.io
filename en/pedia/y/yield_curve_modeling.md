@@ -74,17 +74,17 @@ The [yield curve](../y/yield_curve.md) serves as a benchmark for credit spreads,
 
 ### 1. Bloomberg L.P.
 
-Bloomberg provides comprehensive financial data services, including advanced tools for [yield curve](../y/yield_curve.md) modeling and analysis. Bloomberg Terminal, widely used in the financial industry, offers real-time [yield curve](../y/yield_curve.md) data, sophisticated analytical tools, and customizable models for [yield curve](../y/yield_curve.md) construction.
+[Bloomberg](../b/bloomberg.md) provides comprehensive financial data services, including advanced tools for [yield curve](../y/yield_curve.md) modeling and analysis. [Bloomberg](../b/bloomberg.md) Terminal, widely used in the financial industry, offers real-time [yield curve](../y/yield_curve.md) data, sophisticated analytical tools, and customizable models for [yield curve](../y/yield_curve.md) construction.
 [Learn More](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
 ### 2. Thomson Reuters (Refinitiv)
 
-Refinitiv, previously part of Thomson Reuters, offers robust financial data solutions, including tools for [yield curve](../y/yield_curve.md) modeling. Their Eikon platform provides extensive fixed-income analytics, real-time data, and proprietary models for [yield curve](../y/yield_curve.md) analysis.
+Refinitiv, previously part of Thomson [Reuters](../r/reuters.md), offers robust financial data solutions, including tools for [yield curve](../y/yield_curve.md) modeling. Their Eikon platform provides extensive fixed-income analytics, real-time data, and proprietary models for [yield curve](../y/yield_curve.md) analysis.
 [Learn More](https://www.refinitiv.com/en/products/refinitiv-eikon)
 
 ### 3. QuantLib
 
-QuantLib is an open-source library for [quantitative finance](../q/quantitative_finance.md), offering tools and functions for [yield curve](../y/yield_curve.md) modeling. It provides code for bootstrapping, spline interpolation, and advanced models like Nelson-Siegel and Svensson, supporting the development of custom [yield curve](../y/yield_curve.md) solutions.
+[QuantLib](../q/quantlib.md) is an open-source library for [quantitative finance](../q/quantitative_finance.md), offering tools and functions for [yield curve](../y/yield_curve.md) modeling. It provides code for bootstrapping, spline interpolation, and advanced models like Nelson-Siegel and Svensson, supporting the development of custom [yield curve](../y/yield_curve.md) solutions.
 [Learn More](https://www.quantlib.org/)
 
 ### 4. FINCAD

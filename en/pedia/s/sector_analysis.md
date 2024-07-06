@@ -35,19 +35,19 @@ Sector analysis is a method of examining industries within the financial market 
 
 #### Tools and Platforms for Sector Analysis
 
-1. **Bloomberg Terminal:**
+1. **[Bloomberg](../b/bloomberg.md) Terminal:**
    Provides comprehensive financial data, news, and analytics, including robust tools for sector analysis.
    [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
-2. **Thomson Reuters Eikon:**
+2. **Thomson [Reuters](../r/reuters.md) Eikon:**
    Offers data, insights, and analytics for various sectors.
    [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)
 
-3. **Morningstar Direct:**
+3. **[Morningstar](../m/morningstar.md) Direct:**
    Provides investment analysis tools and research for different sectors.
    [Morningstar Direct](https://www.morningstar.com/products/direct)
 
-4. **FactSet:**
+4. **[FactSet](../f/factset.md):**
    A financial data and software company offering tools for sector analysis.
    [FactSet](https://www.factset.com/)
 

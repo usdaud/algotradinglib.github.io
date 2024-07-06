@@ -73,7 +73,7 @@ print(f"Forward Rate: {forward}")
 Several companies and platforms specialize in [algorithmic trading](../a/algorithmic_trading.md) strategies, providing tools and marketplaces for implementing sophisticated yen [hedging strategies](../h/hedging_strategies.md).
 
 #### 1. QuantConnect
-QuantConnect is an open-source [algorithmic trading](../a/algorithmic_trading.md) platform enabling quantitative strategies development. It supports multiple asset classes, including forex, allowing traders to backtest and deploy yen hedging algorithms.
+[QuantConnect](../q/quantconnect.md) is an open-source [algorithmic trading](../a/algorithmic_trading.md) platform enabling quantitative strategies development. It supports multiple asset classes, including forex, allowing traders to backtest and deploy yen hedging algorithms.
 [QuantConnect](https://www.quantconnect.com)
 
 #### 2. MetaTrader 5

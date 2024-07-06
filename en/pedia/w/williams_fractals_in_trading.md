@@ -29,10 +29,10 @@ In [algorithmic trading](../a/algorithmic_trading.md), the use of [Williams Frac
 - **Combination with Other Indicators**: Fractals often work best when combined with other [technical analysis](../t/technical_analysis.md) tools like Moving Averages, MACD, or the Alligator Indicator (another tool developed by Bill Williams).
 
 ## Using Williams Fractals on Trading Platforms
-Most modern trading platforms, such as MetaTrader, TradingView, and NinjaTrader, provide built-in functions to apply [Williams Fractals](../w/williams_fractals.md) to price charts:
+Most modern trading platforms, such as MetaTrader, [TradingView](../t/tradingview.md), and [NinjaTrader](../n/ninjatrader.md), provide built-in functions to apply [Williams Fractals](../w/williams_fractals.md) to price charts:
 - **MetaTrader**: Available under the 'Insert -> Indicators -> Bill Williams' section.
-- **TradingView**: Use the built-in Fractals indicator under the 'Indicators' tab.
-- **NinjaTrader**: Accessible through the 'Indicators' panel, with customizable settings.
+- **[TradingView](../t/tradingview.md)**: Use the built-in Fractals indicator under the 'Indicators' tab.
+- **[NinjaTrader](../n/ninjatrader.md)**: Accessible through the 'Indicators' panel, with customizable settings.
 
 ## Case Study: Implementation in Python
 Algorithmic traders often implement fractal detection algorithms within their [trading systems](../t/trading_systems.md). Here’s a simplified example of how [Williams Fractals](../w/williams_fractals.md) can be identified using Python:

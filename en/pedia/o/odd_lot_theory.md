@@ -56,7 +56,7 @@ Odd-lot transactions may contribute to significant amounts of noise in trading d
 
 ### Regulatory Changes
 
-Regulations such as the Markets in Financial Instruments Directive II (MiFID II) in Europe and the Financial Industry Regulatory Authority (FINRA) rules in the United States have implications for data transparency and the availability of odd-lot data. Staying compliant while extracting maximum value from this data requires adherence to evolving regulatory standards.
+Regulations such as the Markets in Financial Instruments Directive II (MiFID II) in Europe and the Financial Industry Regulatory Authority ([FINRA](../f/finra.md)) rules in the United States have implications for data transparency and the availability of odd-lot data. Staying compliant while extracting maximum value from this data requires adherence to evolving regulatory standards.
 
 ## Practical Applications
 

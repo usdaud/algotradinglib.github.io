@@ -86,7 +86,7 @@ Renaissance Technologies is another prominent player known for its advanced [dat
 ## Tools and Platforms for X-Input Data Analysis
 
 ### 1. Bloomberg Terminal
-The Bloomberg Terminal is a powerful tool that provides comprehensive financial data, news, and analytics. It supports data extraction, analysis, and visualization, making it indispensable for many traders.
+The [Bloomberg](../b/bloomberg.md) Terminal is a powerful tool that provides comprehensive financial data, news, and analytics. It supports data extraction, analysis, and visualization, making it indispensable for many traders.
 
 ### 2. Python and R
 Python and R are popular programming languages for data analysis. Libraries like Pandas, NumPy, Scikit-learn, and TensorFlow in Python, and Tidyverse and caret in R, facilitate advanced data analysis and machine learning tasks.

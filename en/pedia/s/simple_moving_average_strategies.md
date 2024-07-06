@@ -137,7 +137,7 @@ print(data)
 ### Popular Platforms for Algortihmic Trading
 Several platforms and companies provide tools for implementing and testing SMA strategies. Some notable ones include:
 
-- **QuantConnect**: Provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform with a wide range of tools for [backtesting](../b/backtesting.md) and deployment. [QuantConnect](https://www.quantconnect.com/)
+- **[QuantConnect](../q/quantconnect.md)**: Provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform with a wide range of tools for [backtesting](../b/backtesting.md) and deployment. [QuantConnect](https://www.quantconnect.com/)
 - **Quantiacs**: A marketplace for [trading algorithms](../t/trading_algorithms.md) where developers can design, backtest, and deploy their models. [Quantiacs](https://quantiacs.com/)
 - **MetaTrader**: Offers a popular trading platform with robust support for [algorithmic trading](../a/algorithmic_trading.md) via MetaQuotes Language (MQL). [MetaTrader](https://www.metatrader5.com/en)
 

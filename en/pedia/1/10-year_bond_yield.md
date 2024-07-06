@@ -71,7 +71,7 @@ The liquidity and the global demand for U.S. Treasury bonds can impact their yie
 
 ### Bloomberg Terminal
 
-The Bloomberg Terminal is an advanced tool used by financial professionals to track and analyze the [10-year bond](../1/10-year_bond.md) yield among other financial instruments. [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+The [Bloomberg](../b/bloomberg.md) Terminal is an advanced tool used by financial professionals to track and analyze the [10-year bond](../1/10-year_bond.md) yield among other financial instruments. [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
 ### U.S. Treasury Website
 

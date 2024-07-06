@@ -50,7 +50,7 @@ Several companies and platforms offer tools and services to help investors and b
 
 - **BlackRock**: As one of the world's largest asset management firms, BlackRock incorporates EPU measures into its risk assessment and investment strategies. BlackRock's tools help investors navigate uncertain economic climates. [BlackRock](https://www.blackrock.com/)
 
-- **Bloomberg**: Bloomberg terminals offer extensive data on economic policies, news, and analysis, enabling traders to integrate EPU into their decision-making processes. [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+- **[Bloomberg](../b/bloomberg.md)**: [Bloomberg](../b/bloomberg.md) terminals offer extensive data on economic policies, news, and analysis, enabling traders to integrate EPU into their decision-making processes. [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
 - **Refinitiv**: A global provider of financial markets data and infrastructure, Refinitiv offers tools that help analyze economic policy impacts on financial markets. [Refinitiv](https://www.refinitiv.com/)
 

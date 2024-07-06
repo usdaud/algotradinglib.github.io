@@ -69,10 +69,10 @@ Institutional investors often use short interest data to manage risk, understand
 
 Several companies specialize in providing detailed short interest data:
 
-1. **FINRA (Financial Industry Regulatory Authority):** They publish short interest reports for over 4,000 Nasdaq and NYSE stocks. For more insights, visit [FINRA](https://www.finra.org/).
+1. **[FINRA](../f/finra.md) (Financial Industry Regulatory Authority):** They publish short interest reports for over 4,000 Nasdaq and NYSE stocks. For more insights, visit [FINRA](https://www.finra.org/).
 2. **Nasdaq:** They offer short interest data and provide updates on short interest movements in various listed stocks. More information can be found at [Nasdaq](https://www.nasdaq.com/).
 3. **NYSE:** The New York Stock Exchange also provides short interest data for its listed companies. For more details, visit [NYSE](https://www.nyse.com/).
-4. **Market Data Vendors:** Companies like Bloomberg, Reuters, and Morningstar offer extensive short interest data through their subscription services.
+4. **Market Data Vendors:** Companies like [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), and [Morningstar](../m/morningstar.md) offer extensive short interest data through their subscription services.
 
 ## Conclusion
 

@@ -30,7 +30,7 @@ To optimize [trading strategies](../t/trading_strategies.md), traders need acces
 
 ### Bloomberg Terminal
 
-The Bloomberg Terminal is one of the most comprehensive and widely used unified trading platforms in the financial industry. It provides access to a vast amount of financial data, news, and analytics. Bloomberg Terminal supports [multi-asset trading](../m/multi-asset_trading.md), algorithmic strategies, and offers advanced [risk management](../r/risk_management.md) tools. For more information, visit [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/).
+The [Bloomberg](../b/bloomberg.md) Terminal is one of the most comprehensive and widely used unified trading platforms in the financial industry. It provides access to a vast amount of financial data, news, and analytics. [Bloomberg](../b/bloomberg.md) Terminal supports [multi-asset trading](../m/multi-asset_trading.md), algorithmic strategies, and offers advanced [risk management](../r/risk_management.md) tools. For more information, visit [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/).
 
 ### MetaTrader 5
 
@@ -42,15 +42,15 @@ Interactive Brokers' Trader Workstation (TWS) is a powerful unified trading plat
 
 ### TradeStation
 
-TradeStation is a unified trading platform that is particularly popular among active traders and algorithm developers. It supports [multi-asset trading](../m/multi-asset_trading.md) and offers extensive [algorithmic trading](../a/algorithmic_trading.md) features through its EasyLanguage programming environment. TradeStation also provides advanced charting, market analysis, and [backtesting](../b/backtesting.md) tools. For more information, visit [TradeStation](https://www.tradestation.com/).
+[TradeStation](../t/tradestation.md) is a unified trading platform that is particularly popular among active traders and algorithm developers. It supports [multi-asset trading](../m/multi-asset_trading.md) and offers extensive [algorithmic trading](../a/algorithmic_trading.md) features through its EasyLanguage programming environment. [TradeStation](../t/tradestation.md) also provides advanced charting, market analysis, and [backtesting](../b/backtesting.md) tools. For more information, visit [TradeStation](https://www.tradestation.com/).
 
 ### NinjaTrader
 
-NinjaTrader is a versatile unified trading platform designed for active traders and algorithm developers. It offers comprehensive trading tools, including charting, market analysis, and [backtesting](../b/backtesting.md). NinjaTrader supports trading in various asset classes and facilitates the development and execution of [trading algorithms](../t/trading_algorithms.md). For more information, visit [NinjaTrader](https://ninjatrader.com/).
+[NinjaTrader](../n/ninjatrader.md) is a versatile unified trading platform designed for active traders and algorithm developers. It offers comprehensive trading tools, including charting, market analysis, and [backtesting](../b/backtesting.md). [NinjaTrader](../n/ninjatrader.md) supports trading in various asset classes and facilitates the development and execution of [trading algorithms](../t/trading_algorithms.md). For more information, visit [NinjaTrader](https://ninjatrader.com/).
 
 ### QuantConnect
 
-QuantConnect is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to design, backtest, and deploy [trading algorithms](../t/trading_algorithms.md) in multiple asset classes. It offers extensive data access, advanced machine learning integration, and collaborative features for research and development. For more information, visit [QuantConnect](https://www.quantconnect.com/).
+[QuantConnect](../q/quantconnect.md) is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to design, backtest, and deploy [trading algorithms](../t/trading_algorithms.md) in multiple asset classes. It offers extensive data access, advanced machine learning integration, and collaborative features for research and development. For more information, visit [QuantConnect](https://www.quantconnect.com/).
 
 ## Benefits of Using Unified Trading Platforms in Algorithmic Trading
 

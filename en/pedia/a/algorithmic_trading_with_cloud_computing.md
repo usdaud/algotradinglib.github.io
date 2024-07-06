@@ -144,7 +144,7 @@ High-frequency trading (HFT) requires ultra-low latency, often in microseconds. 
 
 ### Regulatory Compliance
 
-Financial markets are heavily regulated, and algo traders must adhere to compliance requirements. Ensuring that cloud deployments comply with regulations like GDPR, MiFID II, or FINRA is crucial. Cloud providers often have specific compliance certifications, but traders must implement additional measures as needed.
+Financial markets are heavily regulated, and algo traders must adhere to compliance requirements. Ensuring that cloud deployments comply with regulations like GDPR, MiFID II, or [FINRA](../f/finra.md) is crucial. Cloud providers often have specific compliance certifications, but traders must implement additional measures as needed.
 
 ### Data Security and Privacy
 

@@ -77,7 +77,7 @@ The automating of [Triple Bottom](../t/triple_bottom.md) [pattern recognition](.
 
 Use algorithms that specifically identify [Triple Bottom](../t/triple_bottom.md) patterns on price charts by scanning historical and real-time data. These algorithms rely on predefined criteria such as price movements, duration, and volume to filter out significant patterns from noise.
 
-- Example Platforms: TradingView, NinjaTrader, MetaTrader.
+- Example Platforms: [TradingView](../t/tradingview.md), [NinjaTrader](../n/ninjatrader.md), MetaTrader.
 - Customize with conditions: Define parameters for lows, highs, and acceptable variation.
 
 ### 2. Backtesting Strategies
@@ -90,7 +90,7 @@ Once a [Triple Bottom](../t/triple_bottom.md) pattern is identified, [backtestin
 
 Develop or use existing trading bots that execute trades based on [Triple Bottom](../t/triple_bottom.md) patterns. These bots can incorporate machine learning techniques to continuously improve [pattern recognition](../p/pattern_recognition.md) and optimize trading decisions.
 
-- Example: Alpaca (https://alpaca.markets/), QuantConnect (https://www.quantconnect.com/).
+- Example: Alpaca (https://alpaca.markets/), [QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/).
 
 ## Real-world Examples
 

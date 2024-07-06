@@ -78,9 +78,9 @@ Ensemble methods combine the predictions of multiple models to improve predictiv
 
 Several companies and platforms offer tools and services to help traders with curve fitting and [algorithmic trading](../a/algorithmic_trading.md). For instance:
 
-- **QuantConnect**: [QuantConnect](https://www.quantconnect.com/) provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to develop, backtest, and optimize [trading strategies](../t/trading_strategies.md).
+- **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](https://www.quantconnect.com/) provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to develop, backtest, and optimize [trading strategies](../t/trading_strategies.md).
 - **Quantopian**: Although now closed, Quantopian was another popular platform that offered similar services.
-- **AlgoTrader**: [AlgoTrader](https://www.algotrader.com/) provides tools for [quantitative trading](../q/quantitative_trading.md) and allows traders to use machine learning techniques to develop and backtest strategies.
+- **[AlgoTrader](../a/algotrader.md)**: [AlgoTrader](https://www.algotrader.com/) provides tools for [quantitative trading](../q/quantitative_trading.md) and allows traders to use machine learning techniques to develop and backtest strategies.
 
 ## Conclusion
 

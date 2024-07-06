@@ -68,8 +68,8 @@ UMA systems must be designed to adapt to various regulatory requirements across 
 
 Several leading technology and financial services companies offer UMA solutions to traders and firms:
 
-- **Bloomberg**  
-  Bloomberg provides comprehensive financial software tools and enterprise applications, including UMA capabilities, to streamline trading operations.  
+- **[Bloomberg](../b/bloomberg.md)**  
+  [Bloomberg](../b/bloomberg.md) provides comprehensive financial software tools and enterprise applications, including UMA capabilities, to streamline trading operations.  
   [Bloomberg](https://www.bloomberg.com)
 
 - **Refinitiv**  

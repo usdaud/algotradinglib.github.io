@@ -46,9 +46,9 @@ Algorithmic traders and quants often use lagged variables in their models to cap
 
 Various software and platforms provide functionalities to incorporate lagged variables in [trading strategies](../t/trading_strategies.md). Some of these are:
 
-1. **QuantConnect**: A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports [backtesting](../b/backtesting.md) and deployment. [QuantConnect](https://www.quantconnect.com)
+1. **[QuantConnect](../q/quantconnect.md)**: A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports [backtesting](../b/backtesting.md) and deployment. [QuantConnect](https://www.quantconnect.com)
 
-2. **Quantlib**: An open-source library for [quantitative finance](../q/quantitative_finance.md), which can be used to implement models using lagged data. [Quantlib on GitHub](https://github.com/lballabio/QuantLib)
+2. **[Quantlib](../q/quantlib.md)**: An open-source library for [quantitative finance](../q/quantitative_finance.md), which can be used to implement models using lagged data. [Quantlib on GitHub](https://github.com/lballabio/QuantLib)
 
 3. **Python's statsmodels**: A Python module that offers classes and functions to estimate many different statistical models. It includes extensive support for [time series analysis](../t/time_series_analysis.md). [Statsmodels](https://www.statsmodels.org)
 

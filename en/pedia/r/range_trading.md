@@ -84,11 +84,11 @@ MetaTrader is a widely used trading platform that supports [algorithmic trading]
 
 #### TradeStation
 
-TradeStation offers a robust platform for [algorithmic trading](../a/algorithmic_trading.md) with its EasyLanguage programming language. Traders can create and backtest range [trading strategies](../t/trading_strategies.md) with ease.
+[TradeStation](../t/tradestation.md) offers a robust platform for [algorithmic trading](../a/algorithmic_trading.md) with its EasyLanguage programming language. Traders can create and backtest range [trading strategies](../t/trading_strategies.md) with ease.
 
 #### NinjaTrader
 
-NinjaTrader provides advanced charting, [backtesting](../b/backtesting.md), and automated trading capabilities. Its extensive library of indicators and strategies makes it a popular choice for range traders.
+[NinjaTrader](../n/ninjatrader.md) provides advanced charting, [backtesting](../b/backtesting.md), and automated trading capabilities. Its extensive library of indicators and strategies makes it a popular choice for range traders.
 
 [MetaTrader](https://www.metatrader5.com/)
 [TradeStation](https://www.tradestation.com/)

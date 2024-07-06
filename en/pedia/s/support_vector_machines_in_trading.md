@@ -76,7 +76,7 @@ Once the model is trained and evaluated, it can be integrated into a trading sys
 
 Numerous investment firms and hedge funds incorporate SVMs into their [trading algorithms](../t/trading_algorithms.md). Below are a few examples:
 
-1. **QuantConnect**: An [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools to build, backtest, and deploy [trading strategies](../t/trading_strategies.md). QuantConnect offers resources and examples of using SVMs in trading. More info: [QuantConnect](https://www.quantconnect.com/).
+1. **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools to build, backtest, and deploy [trading strategies](../t/trading_strategies.md). [QuantConnect](../q/quantconnect.md) offers resources and examples of using SVMs in trading. More info: [QuantConnect](https://www.quantconnect.com/).
 
 2. **Two Sigma**: A hedge fund that leverages machine learning, including SVMs, for building sophisticated [trading models](../t/trading_models.md): [Two Sigma](https://www.twosigma.com/).
 

@@ -103,8 +103,8 @@ Where \( P_0 \) is the current stock price, \( D_1 \) is the dividend in the nex
 
 Several financial institutions and companies utilize these fundamental [valuation techniques](../v/valuation_techniques.md) extensively:
 
-- **Morningstar**: Known for their detailed [equity research](../e/equity_research.md) and [valuation analysis](../v/valuation_analysis.md). Visit [Morningstar](https://www.morningstar.com/)
-- **FactSet**: Offers tools and data for financial professionals to perform [fundamental analysis](../f/fundamental_analysis.md). Visit [FactSet](https://www.factset.com/)
+- **[Morningstar](../m/morningstar.md)**: Known for their detailed [equity research](../e/equity_research.md) and [valuation analysis](../v/valuation_analysis.md). Visit [Morningstar](https://www.morningstar.com/)
+- **[FactSet](../f/factset.md)**: Offers tools and data for financial professionals to perform [fundamental analysis](../f/fundamental_analysis.md). Visit [FactSet](https://www.factset.com/)
 - **S&P Global**: Provides essential insights for credit risk research and fundamental valuation. Visit [S&P Global](https://www.spglobal.com/)
 
 ### Conclusion

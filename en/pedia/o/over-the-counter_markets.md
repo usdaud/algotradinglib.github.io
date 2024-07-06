@@ -16,7 +16,7 @@ The term `Over-The-Counter (OTC) Markets` refers to financial markets where trad
 
 ### Types of OTC Markets
 
-1. **OTC Bulletin Board (OTCBB)**: A regulated electronic trading service offered by the Financial Industry Regulatory Authority (FINRA) that lists smaller companies that do not meet the requirements to be listed on major exchanges.
+1. **OTC Bulletin Board (OTCBB)**: A regulated electronic trading service offered by the Financial Industry Regulatory Authority ([FINRA](../f/finra.md)) that lists smaller companies that do not meet the requirements to be listed on major exchanges.
 
 2. **Pink Sheets**: An electronic quotation system that provides quotes on stocks (mostly [penny stocks](../p/penny_stocks.md)) that are not listed on a major exchange. Companies listed here may have fewer regulatory requirements, potentially amplifying both opportunities and risks.
 
@@ -34,7 +34,7 @@ The term `Over-The-Counter (OTC) Markets` refers to financial markets where trad
 
 ### Regulatory Environment
 
-- **FINRA (Financial Industry Regulatory Authority)**: In the United States, FINRA oversees brokerage firms and exchange markets, aiming to protect investors and ensure the integrity of the markets. The OTC Bulletin Board is one of the platforms regulated by FINRA.
+- **[FINRA](../f/finra.md) (Financial Industry Regulatory Authority)**: In the United States, [FINRA](../f/finra.md) oversees brokerage firms and exchange markets, aiming to protect investors and ensure the integrity of the markets. The OTC Bulletin Board is one of the platforms regulated by [FINRA](../f/finra.md).
 
 - **Other Global Regulations**: Various countries have their own regulatory bodies governing OTC markets. For instance, the Financial Conduct Authority (FCA) oversees OTC activities in the UK.
 

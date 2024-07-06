@@ -71,7 +71,7 @@ Several companies and platforms offer tools and services for variance and volati
 
 1. **QuantInsti**: QuantInsti provides training and resources on [algorithmic trading](../a/algorithmic_trading.md) and [financial engineering](../f/financial_engineering.md), including modules on variance and volatility modeling. [QuantInsti](https://www.quantinsti.com/)
 2. **Numerix**: Numerix offers advanced analytics for pricing, managing risk, and valuation of [derivatives](../d/derivatives.md), focusing heavily on variance and [volatility models](../v/volatility_models.md). [Numerix](https://www.numerix.com/)
-3. **QuantConnect**: QuantConnect offers a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform with extensive libraries for implementing variance models. [QuantConnect](https://www.quantconnect.com/)
+3. **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](../q/quantconnect.md) offers a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform with extensive libraries for implementing variance models. [QuantConnect](https://www.quantconnect.com/)
 4. **Kx Systems**: Kx Systems provides high-performance software solutions for processing real-time and historical data, useful for variance estimation and modeling. [Kx Systems](https://kx.com/)
 
 ### Conclusion

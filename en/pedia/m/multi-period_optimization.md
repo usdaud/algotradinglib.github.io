@@ -71,7 +71,7 @@ The implementation of multi-period optimization offers various significant impli
 
 Several platforms and companies provide tools and solutions for multi-period optimization. For example:
 
-- **QuantConnect**: Offers a comprehensive [algorithmic trading](../a/algorithmic_trading.md) and research platform, catering to multi-period optimization needs. [QuantConnect](https://www.quantconnect.com)
+- **[QuantConnect](../q/quantconnect.md)**: Offers a comprehensive [algorithmic trading](../a/algorithmic_trading.md) and research platform, catering to multi-period optimization needs. [QuantConnect](https://www.quantconnect.com)
 - **Quantitative Brokers**: Specializes in [execution algorithms](../e/execution_algorithms.md) using multi-period optimization techniques to enhance [trading performance](../t/trading_performance.md). [Quantitative Brokers](https://www.quantitativebrokers.com)
 
 ## Summary

@@ -51,10 +51,10 @@ HFT strategies involve executing a large number of trades at high speeds to expl
 
 ### 1. Algorithmic Execution Platforms
 
-Platforms like **QuantConnect** and **AlgoTrader** provide the infrastructure needed for implementing [zero balance](../z/zero_balance.md) techniques. They offer back-testing, live trading, and extensive libraries of algorithms.
+Platforms like **[QuantConnect](../q/quantconnect.md)** and **[AlgoTrader](../a/algotrader.md)** provide the infrastructure needed for implementing [zero balance](../z/zero_balance.md) techniques. They offer back-testing, live trading, and extensive libraries of algorithms.
 
-- **QuantConnect**: https://www.quantconnect.com/
-- **AlgoTrader**: https://www.algotrader.com/
+- **[QuantConnect](../q/quantconnect.md)**: https://www.[quantconnect](../q/quantconnect.md).com/
+- **[AlgoTrader](../a/algotrader.md)**: https://www.[algotrader](../a/algotrader.md).com/
 
 ### 2. Risk Management Systems
 

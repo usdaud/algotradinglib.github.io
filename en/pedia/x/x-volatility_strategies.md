@@ -74,13 +74,13 @@
 
 **Programming Languages:** Python, R, C++, and Java are commonly used for developing [trading algorithms](../t/trading_algorithms.md). Python is especially popular due to its extensive libraries like Pandas, NumPy, and Scikit-learn.
 
-**[Backtesting](../b/backtesting.md) Frameworks:** Before deploying strategies in live markets, traders often backtest using historical data. Tools like QuantConnect, Backtrader, and Zipline are prevalent in the industry.
+**[Backtesting](../b/backtesting.md) Frameworks:** Before deploying strategies in live markets, traders often backtest using historical data. Tools like [QuantConnect](../q/quantconnect.md), [Backtrader](../b/backtrader.md), and Zipline are prevalent in the industry.
 
 ### Risk Management and Compliance
 
 **[Risk Management](../r/risk_management.md):** Effective [risk management](../r/risk_management.md) involves setting [stop-loss orders](../s/stop-loss_orders.md), [position sizing](../p/position_sizing.md), and diversifying strategies to mitigate potential losses.
 
-**Compliance:** Regulatory scrutiny is increasing. Adhering to rules set by bodies like the SEC, FINRA, and ESMA is crucial. 
+**Compliance:** Regulatory scrutiny is increasing. Adhering to rules set by bodies like the SEC, [FINRA](../f/finra.md), and ESMA is crucial. 
 
 ## Conclusion
 

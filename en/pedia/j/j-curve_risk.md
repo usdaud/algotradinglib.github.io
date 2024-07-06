@@ -55,7 +55,7 @@ Two Sigma applies data science to find connections in the world's data. They hav
 Several software tools can help manage J-Curve risk by offering capabilities for back-testing, simulation, and real-time monitoring. These include:
 
 ### 1. QuantConnect
-QuantConnect provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform with features for back-testing and live trading. It allows developers to simulate different market conditions to prepare algorithms for real-world performance.
+[QuantConnect](../q/quantconnect.md) provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform with features for back-testing and live trading. It allows developers to simulate different market conditions to prepare algorithms for real-world performance.
 [Learn More](https://www.quantconnect.com/)
 
 ### 2. Algorithmic Trading Group (ATG)

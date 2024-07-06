@@ -62,10 +62,10 @@ The use of machine learning and AI has revolutionized underlying [security analy
 
 Several tools and software platforms help traders conduct underlying [security analysis](../s/security_analysis.md) and implement [algorithmic trading](../a/algorithmic_trading.md) strategies. Some prominent ones include:
 
-- **Bloomberg Terminal:** A widely used platform providing comprehensive financial data, analytics, and trading tools. [Bloomberg](https://www.bloomberg.com/)
+- **[Bloomberg](../b/bloomberg.md) Terminal:** A widely used platform providing comprehensive financial data, analytics, and trading tools. [Bloomberg](https://www.bloomberg.com/)
 - **MetaStock:** Tools for charting, [technical analysis](../t/technical_analysis.md), and [automated trading systems](../a/automated_trading_systems.md). [MetaStock](https://www.metastock.com/)
-- **TradeStation:** A platform for trading and analysis offering custom scripting language EasyLanguage for strategy development. [TradeStation](https://www.tradestation.com/)
-- **QuantConnect:** An [algorithmic trading](../a/algorithmic_trading.md) platform supporting research, [backtesting](../b/backtesting.md), and live trading. [QuantConnect](https://www.quantconnect.com/)
+- **[TradeStation](../t/tradestation.md):** A platform for trading and analysis offering custom scripting language EasyLanguage for strategy development. [TradeStation](https://www.tradestation.com/)
+- **[QuantConnect](../q/quantconnect.md):** An [algorithmic trading](../a/algorithmic_trading.md) platform supporting research, [backtesting](../b/backtesting.md), and live trading. [QuantConnect](https://www.quantconnect.com/)
 - **Python Libraries:** Libraries like NumPy, Pandas, Scikit-learn, and TensorFlow for building custom models.
 
 ### Conclusion

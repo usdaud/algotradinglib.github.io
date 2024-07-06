@@ -72,7 +72,7 @@ Given the fast-paced nature of NASDAQ trading, [execution risk](../e/execution_r
 
 ### 3. Regulatory Risk
 
-Traders must comply with regulatory requirements, such as those imposed by the SEC and FINRA. Non-compliance can result in hefty fines and other penalties.
+Traders must comply with regulatory requirements, such as those imposed by the SEC and [FINRA](../f/finra.md). Non-compliance can result in hefty fines and other penalties.
 
 ## Conclusion
 

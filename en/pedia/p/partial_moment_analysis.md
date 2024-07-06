@@ -88,7 +88,7 @@ print(f"LPM1: {lpm1}, UPM1: {upm1}")
 
 There are also specialized libraries and tools designed to facilitate partial moment analysis:
 
-- **QuantLib**: Provides capabilities for various financial and [risk metrics](../r/risk_metrics.md), including partial moments.
+- **[QuantLib](../q/quantlib.md)**: Provides capabilities for various financial and [risk metrics](../r/risk_metrics.md), including partial moments.
 - **SciPy**: With its powerful statistical tools, it can be leveraged to compute partial moment metrics.
   
 ## Case Studies

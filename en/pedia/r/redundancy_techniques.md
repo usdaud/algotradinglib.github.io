@@ -66,10 +66,10 @@ Redundancy techniques are vital in [algorithmic trading](../a/algorithmic_tradin
 
 ### Examples of Companies Utilizing Redundancy Techniques
 
-1. **QuantConnect**: QuantConnect offers cloud-based [algorithmic trading](../a/algorithmic_trading.md) [backtesting](../b/backtesting.md) services, utilizing AWS for redundancy.
+1. **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](../q/quantconnect.md) offers cloud-based [algorithmic trading](../a/algorithmic_trading.md) [backtesting](../b/backtesting.md) services, utilizing AWS for redundancy.
    [QuantConnect](https://www.quantconnect.com/)
 
-2. **AlgoTrader**: Provides [algorithmic trading](../a/algorithmic_trading.md) software that includes several redundancy features like failover mechanisms.
+2. **[AlgoTrader](../a/algotrader.md)**: Provides [algorithmic trading](../a/algorithmic_trading.md) software that includes several redundancy features like failover mechanisms.
    [AlgoTrader](https://www.algotrader.com/)
 
 3. **Kensho Technologies**: Uses advanced redundancy techniques for data management and [algorithmic trading](../a/algorithmic_trading.md).

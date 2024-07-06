@@ -50,7 +50,7 @@ Z-scores are calculated and used by various financial platforms and [trading alg
 
 #### QuantConnect
 
-QuantConnect is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to build, backtest, and deploy [trading strategies](../t/trading_strategies.md). Their API capabilities include calculation of various statistical measures including Z-scores. For more information, you can visit [QuantConnect](https://www.quantconnect.com).
+[QuantConnect](../q/quantconnect.md) is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to build, backtest, and deploy [trading strategies](../t/trading_strategies.md). Their API capabilities include calculation of various statistical measures including Z-scores. For more information, you can visit [QuantConnect](https://www.quantconnect.com).
 
 #### AlphaVantage
 
@@ -58,7 +58,7 @@ AlphaVantage offers APIs for accessing a wide array of financial data. Their too
 
 #### Bloomberg Terminal
 
-Bloomberg Terminal offers extensive functionality for financial analysis, including the ability to calculate and analyze Z-scores. Bloomberg Terminal is widely used by financial professionals for real-time data, market analytics, and [predictive modeling](../p/predictive_modeling.md). More information can be found on the [Bloomberg Terminal site](https://www.bloomberg.com/professional/solution/bloomberg-terminal/).
+[Bloomberg](../b/bloomberg.md) Terminal offers extensive functionality for financial analysis, including the ability to calculate and analyze Z-scores. [Bloomberg](../b/bloomberg.md) Terminal is widely used by financial professionals for real-time data, market analytics, and [predictive modeling](../p/predictive_modeling.md). More information can be found on the [Bloomberg Terminal site](https://www.bloomberg.com/professional/solution/bloomberg-terminal/).
 
 ### Limitations
 

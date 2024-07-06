@@ -68,13 +68,13 @@ Several platforms and software are available to assist traders in timing the mar
 
 - **MetaTrader**: A widely-used platform for trading and [technical analysis](../t/technical_analysis.md).
 - [MetaTrader](https://www.metatrader4.com/)
-- **Bloomberg Terminal**: Offers [real-time market data](../r/real-time_market_data.md), news, and analytics.
+- **[Bloomberg](../b/bloomberg.md) Terminal**: Offers [real-time market data](../r/real-time_market_data.md), news, and analytics.
 - [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-- **TradeStation**: Provides sophisticated tools for [technical analysis](../t/technical_analysis.md) and [algorithmic trading](../a/algorithmic_trading.md).
+- **[TradeStation](../t/tradestation.md)**: Provides sophisticated tools for [technical analysis](../t/technical_analysis.md) and [algorithmic trading](../a/algorithmic_trading.md).
 - [TradeStation](https://www.tradestation.com/)
-- **QuantConnect**: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple asset classes.
+- **[QuantConnect](../q/quantconnect.md)**: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple asset classes.
 - [QuantConnect](https://www.quantconnect.com/)
-- **Thinkorswim**: A trading platform from TD Ameritrade that offers advanced charting, analysis, and trading tools.
+- **[Thinkorswim](../t/thinkorswim.md)**: A trading platform from TD Ameritrade that offers advanced charting, analysis, and trading tools.
 - [Thinkorswim](https://www.thinkorswim.com/)
 
 ### Conclusion

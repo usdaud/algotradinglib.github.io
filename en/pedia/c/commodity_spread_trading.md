@@ -61,9 +61,9 @@ High-Frequency Trading (HFT) firms such as *Virtu Financial* (https://www.virtu.
 
 Numerous trading platforms and software tools specialize in [spread trading](../s/spread_trading.md):
 
-1. **CQG Spreader:**
+1. **[CQG](../c/cqg.md) Spreader:**
    
-   CQG provides a powerful spreader tool that offers great flexibility and speed for creating and executing spread strategies. The platform allows traders to customize spread strategies and execute them across multiple exchanges and brokerages.
+   [CQG](../c/cqg.md) provides a powerful spreader tool that offers great flexibility and speed for creating and executing spread strategies. The platform allows traders to customize spread strategies and execute them across multiple exchanges and brokerages.
 
 2. **Trading Technologies (TT) Autospreader:**
    

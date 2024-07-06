@@ -51,13 +51,13 @@ The 20-year bond, a type of fixed-income security, is a debt instrument with a m
 
 ### Algorithmic Trading Platforms
 
-1. **QuantConnect:** An open-source, cloud-based platform providing extensive tools for [backtesting](../b/backtesting.md) and deploying [trading algorithms](../t/trading_algorithms.md) [https://www.quantconnect.com/](https://www.quantconnect.com/).
-2. **MultiCharts:** A professional trade analysis and strategy [backtesting](../b/backtesting.md) software designed for advanced traders [https://www.multicharts.com/](https://www.multicharts.com/).
+1. **[QuantConnect](../q/quantconnect.md):** An open-source, cloud-based platform providing extensive tools for [backtesting](../b/backtesting.md) and deploying [trading algorithms](../t/trading_algorithms.md) [https://www.quantconnect.com/](https://www.quantconnect.com/).
+2. **[MultiCharts](../m/multicharts.md):** A professional trade analysis and strategy [backtesting](../b/backtesting.md) software designed for advanced traders [https://www.multicharts.com/](https://www.multicharts.com/).
 
 ### Data Providers
 
-1. **Bloomberg Terminal:** A leading source for real-time financial data, news, and analytics, extensively used in the trading community [https://www.bloomberg.com/professional/solution/bloomberg-terminal/](https://www.bloomberg.com/professional/solution/bloomberg-terminal/).
-2. **Thomson Reuters Eikon:** Offers a comprehensive suite of financial data, analytics, and trading capabilities [https://www.refinitiv.com/en/products/eikon-trading-software](https://www.refinitiv.com/en/products/eikon-trading-software).
+1. **[Bloomberg](../b/bloomberg.md) Terminal:** A leading source for real-time financial data, news, and analytics, extensively used in the trading community [https://www.bloomberg.com/professional/solution/bloomberg-terminal/](https://www.bloomberg.com/professional/solution/bloomberg-terminal/).
+2. **Thomson [Reuters](../r/reuters.md) Eikon:** Offers a comprehensive suite of financial data, analytics, and trading capabilities [https://www.refinitiv.com/en/products/eikon-trading-software](https://www.refinitiv.com/en/products/eikon-trading-software).
 
 ## Case Studies and Real-World Applications
 

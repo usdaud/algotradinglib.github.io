@@ -75,7 +75,7 @@ For strategies, particularly in HFT, execution latency can significantly impact 
 Unforeseen market events or systemic risks may invalidate the underlying assumptions of an X-Strategy, leading to losses.
 
 ### 5. **Regulatory Issues**
-Regulatory scrutiny in algo-trading is intensifying. Compliance with laws and regulations, such as those stipulated by bodies like FINRA or the SEC, is paramount.
+Regulatory scrutiny in algo-trading is intensifying. Compliance with laws and regulations, such as those stipulated by bodies like [FINRA](../f/finra.md) or the SEC, is paramount.
 
 ## Success Stories
 

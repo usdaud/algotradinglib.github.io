@@ -65,9 +65,9 @@ RSI is often used in conjunction with other indicators to improve the robustness
 Several platforms and software offer tools for implementing and [backtesting](../b/backtesting.md) RSI-based strategies:
 
 - **MetaTrader 4/5**: A popular trading platform that supports automated trading through Expert Advisors (EAs).
-- **NinjaTrader**: Offers advanced charting and [backtesting](../b/backtesting.md) capabilities.
-- **QuantConnect**: A cloud-based platform allowing [algorithmic trading](../a/algorithmic_trading.md) in multiple languages, including Python.
-- **TradingView**: Provides scripting tools (Pine Script) for creating and testing custom RSI strategies.
+- **[NinjaTrader](../n/ninjatrader.md)**: Offers advanced charting and [backtesting](../b/backtesting.md) capabilities.
+- **[QuantConnect](../q/quantconnect.md)**: A cloud-based platform allowing [algorithmic trading](../a/algorithmic_trading.md) in multiple languages, including Python.
+- **[TradingView](../t/tradingview.md)**: Provides scripting tools (Pine Script) for creating and testing custom RSI strategies.
 
 ## Real-World Usage
 

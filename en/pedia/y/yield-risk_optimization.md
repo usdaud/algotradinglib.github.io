@@ -42,8 +42,8 @@ Yield-risk optimization often involves solving complex mathematical problems. Co
 ### 7. Tools and Platforms
 
 Several tools and platforms facilitate yield-risk optimization in [algorithmic trading](../a/algorithmic_trading.md), including:
-- **QuantConnect**: An open-source platform providing [algorithmic trading](../a/algorithmic_trading.md) and [backtesting](../b/backtesting.md) capabilities.
-- **Quantlib**: A [quantitative finance](../q/quantitative_finance.md) library for modeling, trading, and [risk management](../r/risk_management.md).
+- **[QuantConnect](../q/quantconnect.md)**: An open-source platform providing [algorithmic trading](../a/algorithmic_trading.md) and [backtesting](../b/backtesting.md) capabilities.
+- **[Quantlib](../q/quantlib.md)**: A [quantitative finance](../q/quantitative_finance.md) library for modeling, trading, and [risk management](../r/risk_management.md).
 - **MATLAB**: Offers robust tools for mathematical modeling, including optimization toolboxes.
 - **Python Libraries**: Pandas, NumPy, SciPy, and PyPortfolioOpt are commonly used for financial data analysis and optimization.
 

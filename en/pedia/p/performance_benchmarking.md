@@ -34,7 +34,7 @@ Algorithms are benchmarked to ensure they operate within the desired parameters,
 
 ### 3.1 Simulators
 
-Simulation environments mimic real-market conditions, allowing the testing of [trading algorithms](../t/trading_algorithms.md) in a controlled setting. Tools like **AlgoTrader** ([AlgoTrader](https://www.algotrader.com)) provide comprehensive simulation environments suitable for performance benchmarking.
+Simulation environments mimic real-market conditions, allowing the testing of [trading algorithms](../t/trading_algorithms.md) in a controlled setting. Tools like **[AlgoTrader](../a/algotrader.md)** ([AlgoTrader](https://www.algotrader.com)) provide comprehensive simulation environments suitable for performance benchmarking.
 
 ### 3.2 Real-Time Monitoring Tools
 

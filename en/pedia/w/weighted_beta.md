@@ -68,9 +68,9 @@ For example, BlackRock employs sophisticated risk models incorporating weighted 
 ### Tools and Software
 
 Various financial software tools and platforms assist traders in computing and utilizing weighted beta:
-- **Bloomberg Terminal:** Offers integrated beta calculation tools accommodating custom-weighting schemes.
+- **[Bloomberg](../b/bloomberg.md) Terminal:** Offers integrated beta calculation tools accommodating custom-weighting schemes.
 - **R and Python Libraries:** [Financial modeling](../f/financial_modeling.md) libraries such as `quantmod` in R and `pandas`/`numpy` in Python provide functionalities for beta calculation and [portfolio analysis](../p/portfolio_analysis.md).
-- **QuantConnect and MetaTrader:** [Algorithmic trading](../a/algorithmic_trading.md) platforms that support the integration of custom financial metrics, including weighted beta.
+- **[QuantConnect](../q/quantconnect.md) and MetaTrader:** [Algorithmic trading](../a/algorithmic_trading.md) platforms that support the integration of custom financial metrics, including weighted beta.
 
 ### Conclusion
 

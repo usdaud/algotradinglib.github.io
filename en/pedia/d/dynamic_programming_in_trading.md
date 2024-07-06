@@ -50,7 +50,7 @@ For more information, visit: [LYNX Trading](https://www.lynxtrading.com/)
 
 ### 2. QuantConnect
 
-QuantConnect is a platform that offers [algorithmic trading](../a/algorithmic_trading.md) and [quantitative finance](../q/quantitative_finance.md) tools. They provide infrastructure and resources for developing and [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md), where dynamic programming plays a crucial role in optimization problems.
+[QuantConnect](../q/quantconnect.md) is a platform that offers [algorithmic trading](../a/algorithmic_trading.md) and [quantitative finance](../q/quantitative_finance.md) tools. They provide infrastructure and resources for developing and [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md), where dynamic programming plays a crucial role in optimization problems.
 
 For more information, visit: [QuantConnect](https://www.quantconnect.com/)
 

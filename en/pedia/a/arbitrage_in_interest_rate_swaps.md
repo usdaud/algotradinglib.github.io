@@ -54,7 +54,7 @@ The regulatory framework for [interest rate swaps](../i/interest_rate_swaps.md) 
 
 ### Bloomberg [Bloomberg](https://www.bloomberg.com/)
 
-Bloomberg provides comprehensive financial data services, including real-time data and analytics for [interest rate swaps](../i/interest_rate_swaps.md). Their platform is widely used for identifying [arbitrage](../a/arbitrage.md) opportunities.
+[Bloomberg](../b/bloomberg.md) provides comprehensive financial data services, including real-time data and analytics for [interest rate swaps](../i/interest_rate_swaps.md). Their platform is widely used for identifying [arbitrage](../a/arbitrage.md) opportunities.
 
 ### Tradeweb [Tradeweb](https://www.tradeweb.com/)
 

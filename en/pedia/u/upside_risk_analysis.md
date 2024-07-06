@@ -81,14 +81,14 @@ Professional traders and financial analysts employ a variety of tools to conduct
 1. **Python and R**:
    These programming languages are popular for their robust libraries (e.g., NumPy, pandas, SciPy, quantmod) that facilitate statistical analysis and model building.
 
-2. **QuantConnect**:
+2. **[QuantConnect](../q/quantconnect.md)**:
    An [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to build, backtest, and deploy [trading strategies](../t/trading_strategies.md). It provides extensive data and analytical tools for examining upside potential.
 
-3. **Quantlib**:
+3. **[Quantlib](../q/quantlib.md)**:
    An open-source library for [quantitative finance](../q/quantitative_finance.md), offering tools for analyzing the risk and return of different financial instruments, including upside risks.
 
-4. **Bloomberg Terminal**:
-   A comprehensive financial software system that offers advanced analytics, including tools for [upside risk](../u/upside_risk.md) assessment. Bloomberg's Risk Analytics suite can be particularly useful.
+4. **[Bloomberg](../b/bloomberg.md) Terminal**:
+   A comprehensive financial software system that offers advanced analytics, including tools for [upside risk](../u/upside_risk.md) assessment. [Bloomberg](../b/bloomberg.md)'s Risk Analytics suite can be particularly useful.
 
 ### Future Trends
 

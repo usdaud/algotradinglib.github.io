@@ -89,7 +89,7 @@ The MSRB regulates the municipal securities market, setting rules for brokers, d
 
 #### Financial Industry Regulatory Authority (FINRA)
 
-FINRA enforces the rules set by the MSRB and the SEC, conducting oversight and disciplinary actions to maintain market integrity.
+[FINRA](../f/finra.md) enforces the rules set by the MSRB and the SEC, conducting oversight and disciplinary actions to maintain market integrity.
 
 ### Conclusion
 

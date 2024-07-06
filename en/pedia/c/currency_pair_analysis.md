@@ -57,7 +57,7 @@ Currency pair analysis is an essential component of forex trading and [algorithm
 
 1. **Developing [Trading Algorithms](../t/trading_algorithms.md)**: Algorithms are coded using programming languages like Python, R, or C++. These algorithms incorporate various [trading strategies](../t/trading_strategies.md) and rules based on technical or [fundamental analysis](../f/fundamental_analysis.md).
 
-2. **[Backtesting](../b/backtesting.md)**: Before deploying [trading algorithms](../t/trading_algorithms.md), they are tested on historical data to evaluate their performance and identify potential improvements. Tools and platforms like MetaTrader, QuantConnect, and NinjaTrader facilitate [backtesting](../b/backtesting.md).
+2. **[Backtesting](../b/backtesting.md)**: Before deploying [trading algorithms](../t/trading_algorithms.md), they are tested on historical data to evaluate their performance and identify potential improvements. Tools and platforms like MetaTrader, [QuantConnect](../q/quantconnect.md), and [NinjaTrader](../n/ninjatrader.md) facilitate [backtesting](../b/backtesting.md).
 
 3. **Optimization**: Fine-tuning algorithm parameters to enhance performance based on historical trading data. Overfitting must be avoided to ensure algorithms perform well in real market conditions.
 
@@ -69,7 +69,7 @@ Currency pair analysis is an essential component of forex trading and [algorithm
 
 1. **Economic Calendars**: Tools that provide schedules of upcoming economic events and data releases. Websites like [Investing.com](https://www.investing.com) and [Forex Factory](https://www.forexfactory.com) offer comprehensive economic calendars.
 
-2. **Trading Platforms**: Software that facilitates trading and analysis of currency pairs. Popular platforms include MetaTrader 4/5, TradingView, and cTrader.
+2. **Trading Platforms**: Software that facilitates trading and analysis of currency pairs. Popular platforms include MetaTrader 4/5, [TradingView](../t/tradingview.md), and [cTrader](../c/ctrader.md).
 
 3. **Data Providers**: Access to historical and real-time forex data is essential for analysis and algorithm development. T providers like [Quandl](https://www.quandl.com), [OANDA](https://www.oanda.com), and [Alpha Vantage](https://www.alphavantage.co) offer forex data.
 

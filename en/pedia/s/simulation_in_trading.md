@@ -11,13 +11,13 @@ Simulation in trading is a critical component in the development and testing of 
    - **Purpose:** This helps in understanding the past performance and tweaking the strategy for improved future performance.
    - **Tools and Platforms:** 
      - **MetaTrader:** [MetaTrader](https://www.metatrader4.com/en/trading-platform)
-     - **QuantConnect:** [QuantConnect](https://www.quantconnect.com/)
+     - **[QuantConnect](../q/quantconnect.md):** [QuantConnect](https://www.quantconnect.com/)
 
 2. **Paper Trading:**
    - **Definition:** Paper trading is the practice of simulating trades without real money, often using a demo account provided by online trading platforms.
    - **Purpose:** This acts as a bridge between theoretical [backtesting](../b/backtesting.md) and live trading, providing insights into real-time performance without financial risk.
    - **Tools and Platforms:** 
-     - **Thinkorswim:** [Thinkorswim](https://www.thinkorswim.com/)
+     - **[Thinkorswim](../t/thinkorswim.md):** [Thinkorswim](https://www.thinkorswim.com/)
 
 3. **Forward Testing / Walk-Forward Testing:**
    - **Definition:** Involves testing a trading strategy over a future period, compared against new, unseen market data.
@@ -72,17 +72,17 @@ Simulation in trading is a critical component in the development and testing of 
    - **Usage:** Widely used for complex [financial modeling](../f/financial_modeling.md) and Monte Carlo simulations.
    - **Link:** [MathWorks](https://www.mathworks.com/products/matlab.html)
 
-2. **QuantConnect:**
+2. **[QuantConnect](../q/quantconnect.md):**
    - **Features:** Supports algorithm creation, collaborative research, and [backtesting](../b/backtesting.md) on a shared environment.
    - **Usage:** Highly suitable for [quantitative trading](../q/quantitative_trading.md) strategy development and [historical data analysis](../h/historical_data_analysis.md).
    - **Link:** [QuantConnect](https://www.quantconnect.com/)
 
-3. **TradingView:**
+3. **[TradingView](../t/tradingview.md):**
    - **Features:** Offers broad market coverage, [technical analysis](../t/technical_analysis.md) tools, and in-depth [backtesting](../b/backtesting.md).
    - **Usage:** User-friendly and popular among retail traders for strategy development and testing.
    - **Link:** [TradingView](https://www.tradingview.com/)
 
-4. **Amibroker:**
+4. **[Amibroker](../a/amibroker.md):**
    - **Features:** Powerful charting, analytics, and [backtesting](../b/backtesting.md) tool.
    - **Usage:** Used for both stock analysis and the development of sophisticated [trading strategies](../t/trading_strategies.md).
    - **Link:** [Amibroker](http://www.amibroker.com/)

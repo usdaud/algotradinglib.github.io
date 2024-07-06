@@ -53,7 +53,7 @@ Data forms the backbone of WYS. Accurate, real-time data is critical for making 
 **Simulation**: Running the strategy in a simulated environment resembling real market conditions to understand its real-time performance.
 
 #### 3. Execution
-**[Automated Trading Systems](../a/automated_trading_systems.md)**: Platforms like MetaTrader, QuantConnect, and proprietary systems are used to execute trades automatically based on the algorithm's signals.
+**[Automated Trading Systems](../a/automated_trading_systems.md)**: Platforms like MetaTrader, [QuantConnect](../q/quantconnect.md), and proprietary systems are used to execute trades automatically based on the algorithm's signals.
 
 ### Considerations and Challenges
 

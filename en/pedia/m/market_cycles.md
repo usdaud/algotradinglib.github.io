@@ -88,7 +88,7 @@ Advanced algorithms scan news articles, social media, and other textual data to 
 
 Several companies specialize in providing tools and platforms optimized for algo-trading based on market cycles:
 
-- **QuantConnect**: A premium [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to backtest and deploy strategies using historical data. [QuantConnect](https://www.quantconnect.com).
+- **[QuantConnect](../q/quantconnect.md)**: A premium [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to backtest and deploy strategies using historical data. [QuantConnect](https://www.quantconnect.com).
 - **Alpaca**: This commission-free trading platform features an API that's favored by algo-traders for its low latency and cutting-edge integration capabilities. [Alpaca](https://www.alpaca.markets).
 - **pQuantConnect**: A research-driven firm offering advanced [algorithmic trading](../a/algorithmic_trading.md) software solutions designed for hedge funds and trading strategists. [TradeStation](https://www.tradestation.com).
   

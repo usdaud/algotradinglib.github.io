@@ -59,5 +59,5 @@ The interpretation of X-Y plots finds numerous practical applications in the rea
 
 The X-Y plot is an indispensable tool in the landscape of [algorithmic trading](../a/algorithmic_trading.md), facilitating the visualization and interpretation of complex data relationships. By recognizing patterns, validating models, managing risks, and optimizing portfolios, X-Y plots empower traders to make informed decisions and enhance their [trading strategies](../t/trading_strategies.md). Whether through scatter plots, line plots, or heatmaps, the insights gained from these visualizations can significantly elevate the efficacy and precision of [algorithmic trading](../a/algorithmic_trading.md) endeavors.
 
-For more detailed understanding and tutorials on trading and algorithm development, you can visit QuantConnect at [QuantConnect](https://www.quantconnect.com/).
+For more detailed understanding and tutorials on trading and algorithm development, you can visit [QuantConnect](../q/quantconnect.md) at [QuantConnect](https://www.quantconnect.com/).
 

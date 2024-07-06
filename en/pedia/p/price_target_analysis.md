@@ -63,11 +63,11 @@ Advanced machine learning models like [regression analysis](../r/regression_anal
 [TipRanks](https://www.tipranks.com/) offers a unique platform that aggregates, evaluates, and remunerates financial analysts, bloggers, and insiders. It provides stock price targets based on aggregated analyst estimates.
 
 ### FactSet
-[FactSet](https://www.factset.com/) delivers financial data and analytics that help analysts and traders make well-informed decisions. Through FactSet, users can access detailed price target reports and [predictive analytics](../p/predictive_analytics.md).
+[FactSet](https://www.factset.com/) delivers financial data and analytics that help analysts and traders make well-informed decisions. Through [FactSet](../f/factset.md), users can access detailed price target reports and [predictive analytics](../p/predictive_analytics.md).
 
 ### Refinitiv
 [Refinitiv](https://www.refinitiv.com/) provides financial data, analytics, and trading platforms, aiding in accurate price target estimations with advanced tools and comprehensive datasets.
 
 ## Conclusion
 
-Price Target Analysis is a multifaceted approach combining [fundamental analysis](../f/fundamental_analysis.md), [technical analysis](../t/technical_analysis.md), [quantitative models](../q/quantitative_models.md), and [sentiment analysis](../s/sentiment_analysis.md). By integrating these methodologies, analysts and traders can make more informed predictions about the future price movements of securities. This holistic approach is particularly significant in the realm of algotrading, where precise and timely decisions are crucial. Companies like Zacks, TipRanks, FactSet, and Refinitiv are at the forefront, offering sophisticated tools and platforms to facilitate effective price target analysis.
+Price Target Analysis is a multifaceted approach combining [fundamental analysis](../f/fundamental_analysis.md), [technical analysis](../t/technical_analysis.md), [quantitative models](../q/quantitative_models.md), and [sentiment analysis](../s/sentiment_analysis.md). By integrating these methodologies, analysts and traders can make more informed predictions about the future price movements of securities. This holistic approach is particularly significant in the realm of algotrading, where precise and timely decisions are crucial. Companies like Zacks, TipRanks, [FactSet](../f/factset.md), and Refinitiv are at the forefront, offering sophisticated tools and platforms to facilitate effective price target analysis.

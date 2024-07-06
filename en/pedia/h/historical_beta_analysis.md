@@ -52,13 +52,13 @@ A macro hedge fund manager fears a potential market downturn. By analyzing histo
 
 Several financial tools and platforms assist in conducting historical beta analysis, some of which include:
 
-- **Bloomberg Terminal**: Offers comprehensive beta analysis tools and extensive market data. [Bloomberg](https://www.bloomberg.com/)
+- **[Bloomberg](../b/bloomberg.md) Terminal**: Offers comprehensive beta analysis tools and extensive market data. [Bloomberg](https://www.bloomberg.com/)
   
-- **Morningstar**: Provides beta values along with extensive historical performance data for stocks and funds. [Morningstar](https://www.morningstar.com/)
+- **[Morningstar](../m/morningstar.md)**: Provides beta values along with extensive historical performance data for stocks and funds. [Morningstar](https://www.morningstar.com/)
   
 - **Yahoo Finance**: A free resource that provides basic beta analysis and historical stock performance data. [Yahoo Finance](https://finance.yahoo.com/)
   
-- **TradingView**: Features advanced charting tools and indicators to perform beta analysis. [TradingView](https://www.tradingview.com/)
+- **[TradingView](../t/tradingview.md)**: Features advanced charting tools and indicators to perform beta analysis. [TradingView](https://www.tradingview.com/)
 
 ## Limitations of Historical Beta Analysis
 

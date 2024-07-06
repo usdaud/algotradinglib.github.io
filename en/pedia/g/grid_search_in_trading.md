@@ -51,7 +51,7 @@ Several libraries and frameworks can help implement grid search for trading:
 
 - **Python's `sklearn.model_selection.GridSearchCV`**: While primarily designed for machine learning, it can be adapted for use in [trading algorithms](../t/trading_algorithms.md).
 - **`bt` ([Backtesting](../b/backtesting.md) Library)**: A flexible Python library for [backtesting](../b/backtesting.md), with integration capabilities for parameter tuning.
-- **`QuantConnect`**: QuantConnect handles grid searches efficiently by distributing the workload across cloud servers. [QuantConnect](https://www.quantconnect.com/)
+- **`[QuantConnect](../q/quantconnect.md)`**: [QuantConnect](../q/quantconnect.md) handles grid searches efficiently by distributing the workload across cloud servers. [QuantConnect](https://www.quantconnect.com/)
 
 ### 2. Example
 
@@ -132,7 +132,7 @@ With computational advancements, more sophisticated optimization techniques like
 
 ### 2. Automated Trading Platforms
 
-Platforms like QuantConnect are enabling traders to easily implement complex algorithms and distribute grid search tasks across multiple CPUs, speeding up the optimization process. [QuantConnect](https://www.quantconnect.com/)
+Platforms like [QuantConnect](../q/quantconnect.md) are enabling traders to easily implement complex algorithms and distribute grid search tasks across multiple CPUs, speeding up the optimization process. [QuantConnect](https://www.quantconnect.com/)
 
 ### 3. Machine Learning Integration
 

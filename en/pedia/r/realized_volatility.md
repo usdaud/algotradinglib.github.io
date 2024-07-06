@@ -146,13 +146,13 @@ Professionals in finance and trading use various tools and platforms to estimate
 
 Several online platforms offer tools and services for [volatility analysis](../v/volatility_analysis.md):
 
-1. **QuantConnect**: An [algorithmic trading](../a/algorithmic_trading.md) platform that provides extensive historical data and [backtesting](../b/backtesting.md) capabilities. Users can develop and test volatility-based [trading strategies](../t/trading_strategies.md).
+1. **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that provides extensive historical data and [backtesting](../b/backtesting.md) capabilities. Users can develop and test volatility-based [trading strategies](../t/trading_strategies.md).
    - [QuantConnect](https://www.quantconnect.com/)
 
 2. **Kensho Technologies**: Offers actionable analytics and insights, including [volatility analysis](../v/volatility_analysis.md), for institutional investors.
    - [Kensho Technologies](https://www.kensho.com/)
 
-3. **Bloomberg Terminal**: Provides comprehensive tools for financial data analysis, including volatility tracking and [risk management](../r/risk_management.md) modules.
+3. **[Bloomberg](../b/bloomberg.md) Terminal**: Provides comprehensive tools for financial data analysis, including volatility tracking and [risk management](../r/risk_management.md) modules.
 
 ### Conclusion
 

@@ -67,7 +67,7 @@ Before deploying these strategies in live trading, rigorous [backtesting](../b/b
 - **[Sentdex](https://sentdex.com/):** Offers [sentiment analysis](../s/sentiment_analysis.md) tools and APIs for analyzing sentiment from social media and other unstructured data sources for financial trading.
 
 ### Quantconnect
-Quantconnect is a [quantitative trading](../q/quantitative_trading.md) platform that allows users to design, backtest, and deploy algorithms. They offer APIs and datasets for [sentiment analysis](../s/sentiment_analysis.md), including social media sentiment data.
+[Quantconnect](../q/quantconnect.md) is a [quantitative trading](../q/quantitative_trading.md) platform that allows users to design, backtest, and deploy algorithms. They offer APIs and datasets for [sentiment analysis](../s/sentiment_analysis.md), including social media sentiment data.
 
 ## Conclusion
 The integration of social media sentiment into [algorithmic trading](../a/algorithmic_trading.md) enriches the toolkit of quantitative traders by providing real-time insights into market moods and trends. As tools and techniques for [sentiment analysis](../s/sentiment_analysis.md) continue to evolve, the potential for more sophisticated and accurate [trading models](../t/trading_models.md) only increases. This intersection of social media and financial markets illustrates the growing relevance of unstructured data in a traditionally structured domain.

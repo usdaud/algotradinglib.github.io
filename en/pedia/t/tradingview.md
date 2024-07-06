@@ -1,4 +1,4 @@
-﻿# TradingView
+# TradingView
 
 TradingView is a cloud-based charting and social networking platform for traders and investors. Known for its user-friendly interface, advanced charting capabilities, and vibrant community, TradingView has become one of the most popular financial analysis tools worldwide.
 
@@ -7,12 +7,12 @@ TradingView is a cloud-based charting and social networking platform for traders
 ### 1. Advanced Charting
 
 - HTML5 charts with 50+ drawing tools
-- 100+ pre-built technical indicators
+- 100+ pre-built [technical indicators](../t/technical_indicators.md)
 - Custom indicator creation using Pine Script
 - Multi-timeframe analysis
 - Comparison charts for multiple assets
-- Extended trading hours visibility
-- Volume profile and market profile tools
+- [Extended trading hours](../e/extended_trading_hours.md) visibility
+- [Volume profile](../v/volume_profile.md) and market profile tools
 
 ### 2. Screeners and Market Analysis
 
@@ -20,7 +20,7 @@ TradingView is a cloud-based charting and social networking platform for traders
 - Economic calendar
 - Customizable watchlists
 - Heat maps for visual market analysis
-- Technical analysis summary and ratings
+- [Technical analysis](../t/technical_analysis.md) summary and ratings
 
 ### 3. Social Networking
 
@@ -34,7 +34,7 @@ TradingView is a cloud-based charting and social networking platform for traders
 
 - Proprietary scripting language for custom indicators and strategies
 - Extensive library of community-created scripts
-- Backtesting capabilities for trading strategies
+- [Backtesting](../b/backtesting.md) capabilities for [trading strategies](../t/trading_strategies.md)
 
 ### 5. Data Coverage
 
@@ -86,7 +86,7 @@ TradingView is a cloud-based charting and social networking platform for traders
   - Real-time data for select markets
   - Multiple charts per layout
   - Ad-free experience
-  - Extended trading hours data
+  - [Extended trading hours](../e/extended_trading_hours.md) data
 
 3. **Pro+**
   - Additional data and features
@@ -143,4 +143,4 @@ TradingView is a cloud-based charting and social networking platform for traders
 - Continuous improvements to Pine Script capabilities
 - Introduction of new data types and sources
 
-TradingView has gained significant popularity due to its balance of professional-grade tools and user-friendly interface. Its community-driven approach, combined with powerful technical analysis capabilities, makes it appealing to both novice and experienced traders. The platform's continuous evolution and responsiveness to user feedback have helped it maintain a leading position in the retail trading and analysis space.
+TradingView has gained significant popularity due to its balance of professional-grade tools and user-friendly interface. Its community-driven approach, combined with powerful [technical analysis](../t/technical_analysis.md) capabilities, makes it appealing to both novice and experienced traders. The platform's continuous evolution and responsiveness to user feedback have helped it maintain a leading position in the retail trading and analysis space.

@@ -52,8 +52,8 @@ Tesla's stock price in 2020 also exhibited a parabolic curve pattern. Starting f
 
 Several [algorithmic trading](../a/algorithmic_trading.md) platforms offer tools and features specifically for recognizing and trading parabolic curve patterns:
 
-1. **QuantConnect**: [QuantConnect](https://www.quantconnect.com/) is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools for [backtesting](../b/backtesting.md) and live trading. It offers extensive [technical indicators](../t/technical_indicators.md) and custom coding options to identify parabolic patterns.
-2. **AlgoTrader**: [AlgoTrader](https://www.algotrader.com/) is another comprehensive platform for [algorithmic trading](../a/algorithmic_trading.md). It provides a wide range of features for strategy development, including [technical analysis](../t/technical_analysis.md) tools for detecting parabolic curves.
+1. **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](https://www.quantconnect.com/) is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools for [backtesting](../b/backtesting.md) and live trading. It offers extensive [technical indicators](../t/technical_indicators.md) and custom coding options to identify parabolic patterns.
+2. **[AlgoTrader](../a/algotrader.md)**: [AlgoTrader](https://www.algotrader.com/) is another comprehensive platform for [algorithmic trading](../a/algorithmic_trading.md). It provides a wide range of features for strategy development, including [technical analysis](../t/technical_analysis.md) tools for detecting parabolic curves.
 3. **MetaTrader 5**: [MetaTrader 5](https://www.metatrader5.com/) is a widely-used trading platform that supports automated trading. It allows for the creation of custom indicators and expert advisors to identify and trade parabolic curve patterns.
 
 ## Conclusion

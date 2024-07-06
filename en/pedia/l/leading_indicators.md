@@ -40,8 +40,8 @@ Leading indicators are statistical tools used to predict changes in the stock ma
 Several platforms and tools enable the use of leading indicators in [algorithmic trading](../a/algorithmic_trading.md):
 
 - **MetaTrader 4/5:** Popular trading software offering a range of [technical indicators](../t/technical_indicators.md) that can be used for algorithm development.
-- **QuantConnect:** A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform providing access to data, [backtesting](../b/backtesting.md), and deployment. (https://www.quantconnect.com/)
-- **TradingView:** A charting platform offering a variety of built-in indicators and scripts that can be used in [algorithmic trading](../a/algorithmic_trading.md). (https://www.tradingview.com/)
+- **[QuantConnect](../q/quantconnect.md):** A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform providing access to data, [backtesting](../b/backtesting.md), and deployment. (https://www.[quantconnect](../q/quantconnect.md).com/)
+- **[TradingView](../t/tradingview.md):** A charting platform offering a variety of built-in indicators and scripts that can be used in [algorithmic trading](../a/algorithmic_trading.md). (https://www.[tradingview](../t/tradingview.md).com/)
 - **Algorithm Lab by Interactive Brokers:** A tool that allows users to create, test, and implement [trading algorithms](../t/trading_algorithms.md) using various indicators. (https://www.interactivebrokers.com/en/index.php?f=2078)
 
 ## Future Trends

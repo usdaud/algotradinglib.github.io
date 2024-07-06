@@ -51,15 +51,15 @@ VTI, offered by Vanguard, typically trades very close to its NAV. This is attrib
 
 Several online platforms and tools provide real-time data on NAV premiums and discounts:
 
-1. **Morningstar:**
+1. **[Morningstar](../m/morningstar.md):**
    - Offers detailed reports and analytics on NAV premiums and discounts for a wide range of funds. [Morningstar](https://www.morningstar.com).
 
 2. **ETF.com:**
    - Provides daily insights into ETF premiums and discounts among other critical ETF data. [ETF.com](https://www.etf.com).
 
-3. **Bloomberg Terminal:**
+3. **[Bloomberg](../b/bloomberg.md) Terminal:**
    - A professional tool offering comprehensive financial data, including real-time NAV and market prices for ETFs and mutual funds.
 
 ### Conclusion
 
-NAV premium analysis plays an important role in the decision-making process for investing in ETFs and mutual funds. By understanding the underlying factors that cause NAVs to deviate from market prices, investors can make more informed choices, identify potential [arbitrage](../a/arbitrage.md) opportunities, and better gauge market sentiment. Moreover, tools like Morningstar and ETF.com provide essential data that supports this analysis, enabling both institutional and retail investors to navigate the complexities of NAV premiums and discounts effectively. While advanced algorithms and [trading strategies](../t/trading_strategies.md) are employed in the background to correct these deviations, a solid grasp of NAV premium analysis remains invaluable for achieving consistent investment outcomes.
+NAV premium analysis plays an important role in the decision-making process for investing in ETFs and mutual funds. By understanding the underlying factors that cause NAVs to deviate from market prices, investors can make more informed choices, identify potential [arbitrage](../a/arbitrage.md) opportunities, and better gauge market sentiment. Moreover, tools like [Morningstar](../m/morningstar.md) and ETF.com provide essential data that supports this analysis, enabling both institutional and retail investors to navigate the complexities of NAV premiums and discounts effectively. While advanced algorithms and [trading strategies](../t/trading_strategies.md) are employed in the background to correct these deviations, a solid grasp of NAV premium analysis remains invaluable for achieving consistent investment outcomes.

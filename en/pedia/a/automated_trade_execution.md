@@ -6,8 +6,8 @@ Automated trade execution is a technological process wherein trading orders are 
 
 ### 1. **Market Data Feeds**
 [Automated trading systems](../a/automated_trading_systems.md) depend on [real-time market data](../r/real-time_market_data.md) feeds for accurate decision-making. These feeds provide real-time information on prices, volumes, trades, order books, and other relevant metrics. Examples of data feed providers include:
-- **Thomson Reuters**: [Thomson Reuters Market Data](https://www.refinitiv.com/en/market-data)
-- **Bloomberg**: [Bloomberg Market Data Feeds](https://www.bloomberg.com/professional/solution/market-data/)
+- **Thomson [Reuters](../r/reuters.md)**: [Thomson Reuters Market Data](https://www.refinitiv.com/en/market-data)
+- **[Bloomberg](../b/bloomberg.md)**: [Bloomberg Market Data Feeds](https://www.bloomberg.com/professional/solution/market-data/)
 
 ### 2. **Trading Algorithms**
 [Trading algorithms](../t/trading_algorithms.md) are coded strategies that automatically execute trades based on predefined rules and conditions. These might involve [technical analysis](../t/technical_analysis.md), statistical models, or machine learning methods to predict price movements. [Trading algorithms](../t/trading_algorithms.md) can range from simple (e.g., [moving average crossovers](../m/moving_average_crossovers.md)) to highly complex strategies.
@@ -87,7 +87,7 @@ Modern banks deploy [automated trading systems](../a/automated_trading_systems.m
 ### 5. **Technology Providers**
 Tech companies provide the infrastructure, software, and services required for automated trade execution. Examples include:
 - **Kx Systems**: [Kx Systems](https://kx.com/)
-- **QuantConnect**: [QuantConnect](https://www.quantconnect.com/)
+- **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](https://www.quantconnect.com/)
 
 ## Future Trends
 

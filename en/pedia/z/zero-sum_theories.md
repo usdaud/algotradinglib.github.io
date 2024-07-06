@@ -51,7 +51,7 @@ Several companies offer [algorithmic trading](../a/algorithmic_trading.md) platf
 
 #### QuantConnect
 
-QuantConnect provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform, allowing users to design and backtest [trading strategies](../t/trading_strategies.md). Their platform supports multiple languages and markets, facilitating the development of strategies that can thrive in zero-sum environments. More information can be found at [QuantConnect](https://www.quantconnect.com/).
+[QuantConnect](../q/quantconnect.md) provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform, allowing users to design and backtest [trading strategies](../t/trading_strategies.md). Their platform supports multiple languages and markets, facilitating the development of strategies that can thrive in zero-sum environments. More information can be found at [QuantConnect](https://www.quantconnect.com/).
 
 #### Alpaca
 
@@ -59,7 +59,7 @@ Alpaca offers commission-free API-first stock trading. Their platform enables tr
 
 #### AlgoTrader
 
-AlgoTrader is an institutional [algorithmic trading](../a/algorithmic_trading.md) software for [quantitative research](../q/quantitative_research.md), strategy development, and automated trading. It supports trading across various asset classes, incorporating [risk management](../r/risk_management.md) and market-making capabilities — both rooted in zero-sum logic. Details can be found at [AlgoTrader](https://www.algotrader.com/).
+[AlgoTrader](../a/algotrader.md) is an institutional [algorithmic trading](../a/algorithmic_trading.md) software for [quantitative research](../q/quantitative_research.md), strategy development, and automated trading. It supports trading across various asset classes, incorporating [risk management](../r/risk_management.md) and market-making capabilities — both rooted in zero-sum logic. Details can be found at [AlgoTrader](https://www.algotrader.com/).
 
 ### Criticisms and Limitations
 

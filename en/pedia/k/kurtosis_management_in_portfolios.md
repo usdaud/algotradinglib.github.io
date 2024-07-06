@@ -54,7 +54,7 @@ Leverage can be employed judiciously to manage kurtosis, although it must be don
 
 Several software tools and platforms can help in managing and analyzing kurtosis within portfolios. For instance:
 
-- **Bloomberg Terminal**: Offers extensive analytics and data to assess the kurtosis of individual assets and portfolios ([link](https://www.bloomberg.com/professional/product/analytics/)).
+- **[Bloomberg](../b/bloomberg.md) Terminal**: Offers extensive analytics and data to assess the kurtosis of individual assets and portfolios ([link](https://www.bloomberg.com/professional/product/analytics/)).
 - **MATLAB**: Provides financial toolkits that can compute kurtosis and integrate higher moments into [portfolio optimization](../p/portfolio_optimization.md) engines ([link](https://www.mathworks.com/products/financial-instruments-portfolio.html)).
 - **Python Libraries**: Libraries like `numpy`, `pandas`, and `scipy` can compute kurtosis, while packages like `PyPortfolioOpt` can assist in higher moment [portfolio optimization](../p/portfolio_optimization.md) ([link](https://pyportfolioopt.readthedocs.io/en/latest/)).
 

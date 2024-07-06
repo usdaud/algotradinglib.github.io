@@ -73,7 +73,7 @@ print(df)
 Many trading platforms and [algorithmic trading](../a/algorithmic_trading.md) services provide built-in tools to calculate and utilize SMAs. For instance:
 
 - MetaTrader 4 (MT4) and MetaTrader 5 (MT5) allow traders to use SMAs through their in-built [technical indicators](../t/technical_indicators.md).
-- QuantConnect is an [algorithmic trading](../a/algorithmic_trading.md) platform that supports extensive [backtesting](../b/backtesting.md) and execution of SMA-based strategies. (https://www.quantconnect.com/)
+- [QuantConnect](../q/quantconnect.md) is an [algorithmic trading](../a/algorithmic_trading.md) platform that supports extensive [backtesting](../b/backtesting.md) and execution of SMA-based strategies. (https://www.[quantconnect](../q/quantconnect.md).com/)
 - Interactive Brokers offers APIs that traders can use to develop Python scripts that calculate SMAs and execute trades based on crossover signals. (https://www.interactivebrokers.com/)
 
 ## Key Advantages and Limitations
@@ -94,6 +94,6 @@ Many trading platforms and [algorithmic trading](../a/algorithmic_trading.md) se
 
 The 10-period Simple Moving Average (SMA) is a valuable tool in the realm of [algorithmic trading](../a/algorithmic_trading.md). It simplifies trend detection, assists in the creation of effective [trading strategies](../t/trading_strategies.md), and can be easily implemented in various trading platforms and programming environments. While it has its limitations, especially in fast-moving markets, its simplicity and effectiveness make it a staple in the toolkit of both novice and experienced algorithmic traders.
 
-For further exploration, you might find tools and platforms such as QuantConnect and Interactive Brokers useful for [backtesting](../b/backtesting.md) and implementing SMA-based strategies in live trading scenarios. Resources like MetaTrader provide accessible ways for traders to deploy SMA indicators without extensive programming knowledge. 
+For further exploration, you might find tools and platforms such as [QuantConnect](../q/quantconnect.md) and Interactive Brokers useful for [backtesting](../b/backtesting.md) and implementing SMA-based strategies in live trading scenarios. Resources like MetaTrader provide accessible ways for traders to deploy SMA indicators without extensive programming knowledge. 
 
 By integrating the 10-period SMA into their systems, traders can enhance their ability to make informed, [systematic trading](../s/systematic_trading.md) decisions.

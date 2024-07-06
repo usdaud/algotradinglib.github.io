@@ -89,11 +89,11 @@ MAs can confirm signals from other [technical indicators](../t/technical_indicat
 
 - **MetaTrader**: Popular for forex trading, MetaTrader provides built-in tools for implementing and [backtesting](../b/backtesting.md) moving average strategies. [MetaTrader](https://www.metatrader4.com/)
 
-- **QuantConnect**: An online platform for [algorithmic trading](../a/algorithmic_trading.md) that supports Python and C#. QuantConnect offers extensive libraries and data sources for [backtesting](../b/backtesting.md) and live trading moving average strategies. [QuantConnect](https://www.quantconnect.com/)
+- **[QuantConnect](../q/quantconnect.md)**: An online platform for [algorithmic trading](../a/algorithmic_trading.md) that supports Python and C#. [QuantConnect](../q/quantconnect.md) offers extensive libraries and data sources for [backtesting](../b/backtesting.md) and live trading moving average strategies. [QuantConnect](https://www.quantconnect.com/)
 
 - **Interactive Brokers**: Through its API, Interactive Brokers allows the execution of moving average strategies with direct market access. [Interactive Brokers](https://www.interactivebrokers.com/en/home.php)
 
-- **NinjaTrader**: Provides advanced charting and trading feature-set, supporting multi-time frame strategy development including moving average algorithms. [NinjaTrader](https://www.ninjatrader.com/)
+- **[NinjaTrader](../n/ninjatrader.md)**: Provides advanced charting and trading feature-set, supporting multi-time frame strategy development including moving average algorithms. [NinjaTrader](https://www.ninjatrader.com/)
 
 ### Backtesting Moving Average Strategies
 

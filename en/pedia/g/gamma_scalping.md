@@ -82,7 +82,7 @@ The profits from these adjustments come from selling high and buying low, effect
 
 Various tools and platforms facilitate gamma scalping strategies by providing the necessary analytics and execution capabilities. Notable platforms include:
 
-1. **ThinkOrSwim by TD Ameritrade:**
+1. **[ThinkOrSwim](../t/thinkorswim.md) by TD Ameritrade:**
     - Offers robust options analytics including Greeks and [volatility analysis](../v/volatility_analysis.md).
     - [ThinkOrSwim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
 
@@ -90,7 +90,7 @@ Various tools and platforms facilitate gamma scalping strategies by providing th
     - Provides advanced options software for [risk management](../r/risk_management.md) and strategy analysis.
     - [OptionVue](https://www.optionvue.com/)
 
-3. **LiveVol by Cboe Global Markets:**
+3. **[LiveVol](../l/livevol.md) by Cboe Global Markets:**
     - Delivers advanced options trading and analysis tools, including greeks monitoring.
     - [LiveVol](https://marketdata.cboe.com/livevol-portal/)
 
@@ -98,7 +98,7 @@ Various tools and platforms facilitate gamma scalping strategies by providing th
     - Offers comprehensive tools for options traders, including real-time risk evaluations.
     - [Interactive Brokers](https://www.interactivebrokers.com/)
 
-5. **Bloomberg Terminal:**
+5. **[Bloomberg](../b/bloomberg.md) Terminal:**
     - Provides a wide array of tools for professional traders, including options pricing models and greeks calculators.
     - [Bloomberg Professional Services](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 

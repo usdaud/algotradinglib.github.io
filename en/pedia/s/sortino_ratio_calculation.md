@@ -1,6 +1,6 @@
 # Sortino Ratio Calculation
 
-The **Sortino Ratio** is a financial metric that differentiates between good and bad volatility in the assessment of an investment's risk-adjusted returns. While the widely-used Sharpe Ratio considers all variability in returns as risk, the Sortino Ratio focuses specifically on downside risk, providing a more nuanced view of an investment's performance. This is particularly useful for investors who are more concerned about downside events than upside variability. 
+The **[Sortino Ratio](../s/sortino_ratio.md)** is a financial metric that differentiates between good and bad volatility in the assessment of an investment's risk-adjusted returns. While the widely-used [Sharpe Ratio](../s/sharpe_ratio.md) considers all variability in returns as risk, the [Sortino Ratio](../s/sortino_ratio.md) focuses specifically on downside risk, providing a more nuanced view of an investment's performance. This is particularly useful for investors who are more concerned about downside events than upside variability. 
 
 ### Components of the Sortino Ratio
 
@@ -126,7 +126,7 @@ A higher [Sortino Ratio](../s/sortino_ratio.md) indicates a lower probability of
 Several online tools and financial software can help compute the [Sortino Ratio](../s/sortino_ratio.md) efficiently:
 
 - **Portfolio Visualizer**: An online tool that provides detailed [portfolio analysis](../p/portfolio_analysis.md), including the [Sortino Ratio](../s/sortino_ratio.md) (https://www.portfoliovisualizer.com/).
-- **[Financial Planning](../f/financial_planning.md) Software**: Many platforms like **Morningstar**, **Bloomberg**, and **Mint** offer risk-adjusted [performance metrics](../p/performance_metrics.md), including the [Sortino Ratio](../s/sortino_ratio.md) (https://www.morningstar.com/, https://www.bloomberg.com/, https://www.mint.com/).
+- **[Financial Planning](../f/financial_planning.md) Software**: Many platforms like **[Morningstar](../m/morningstar.md)**, **[Bloomberg](../b/bloomberg.md)**, and **Mint** offer risk-adjusted [performance metrics](../p/performance_metrics.md), including the [Sortino Ratio](../s/sortino_ratio.md) (https://www.[morningstar](../m/morningstar.md).com/, https://www.[bloomberg](../b/bloomberg.md).com/, https://www.mint.com/).
 
 ### Conclusion
 

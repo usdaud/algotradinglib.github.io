@@ -58,7 +58,7 @@ Implementing systems for real-time monitoring of liquidity metrics, with alerts 
 Several companies and platforms specialize in [liquidity analysis](../l/liquidity_analysis.md) and provide tools for X-[Liquidity Analysis](../l/liquidity_analysis.md):
 
 - **ACI Worldwide**: Specializes in real-time trading and liquidity monitoring systems. [Visit ACI Worldwide](https://www.aciworldwide.com/)
-- **Bloomberg Terminal**: Offers advanced analytics and real-time data for liquidity assessment. [Visit Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+- **[Bloomberg](../b/bloomberg.md) Terminal**: Offers advanced analytics and real-time data for liquidity assessment. [Visit Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 - **Refinitiv Eikon**: Provides comprehensive financial data and analytics tools for liquidity evaluation. [Visit Refinitiv](https://eikon.thomsonreuters.com/)
 - **IHS Markit**: Delivers data and insights for [liquidity risk](../l/liquidity_risk.md) management. [Visit IHS Markit](https://ihsmarkit.com/products/liquidity-risk.html)
 

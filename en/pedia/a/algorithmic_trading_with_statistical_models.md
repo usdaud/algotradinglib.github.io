@@ -71,14 +71,14 @@ Implementing [algorithmic trading](../a/algorithmic_trading.md) strategies requi
 
 - **MetaTrader**: Widely used for Forex trading with built-in tools for developing and [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md).
 - **Interactive Brokers**: Provides API access for custom [algorithmic trading](../a/algorithmic_trading.md).
-- **Bloomberg Terminal**: A comprehensive tool for market data, news, and analytics.
+- **[Bloomberg](../b/bloomberg.md) Terminal**: A comprehensive tool for market data, news, and analytics.
 
 ### Data Sources
 
 Accurate and timely data is crucial for effective [algorithmic trading](../a/algorithmic_trading.md). Reliable data feeds can be obtained from sources like:
 
-- **Reuters**: Offers [real-time market data](../r/real-time_market_data.md).
-- **Quandl**: Provides various financial and economic datasets.
+- **[Reuters](../r/reuters.md)**: Offers [real-time market data](../r/real-time_market_data.md).
+- **[Quandl](../q/quandl.md)**: Provides various financial and economic datasets.
 - **Yahoo Finance**: Offers historical data useful for [backtesting](../b/backtesting.md).
 
 ## Challenges and Considerations
@@ -104,7 +104,7 @@ Overfitting occurs when a model describes random noise instead of underlying pat
 [Algorithmic trading](../a/algorithmic_trading.md) is subject to regulatory oversight to prevent market manipulation and ensure fair trading practices. Traders must adhere to guidelines set by bodies such as:
 
 - **SEC (Securities and Exchange Commission)**: Regulates securities markets in the U.S.
-- **FINRA (Financial Industry Regulatory Authority)**: Oversees brokerage firms and exchange markets in the U.S.
+- **[FINRA](../f/finra.md) (Financial Industry Regulatory Authority)**: Oversees brokerage firms and exchange markets in the U.S.
 
 ## Case Studies
 

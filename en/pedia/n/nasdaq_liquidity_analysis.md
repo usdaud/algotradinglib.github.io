@@ -71,15 +71,15 @@ Higher liquidity allows for better [risk management](../r/risk_management.md) by
 ## Tools and Platforms for Analyzing NASDAQ Liquidity
 Several tools and platforms aid traders in analyzing liquidity on NASDAQ:
 
-1. **Bloomberg Terminal**: Offers comprehensive data on trading volumes, bid-ask spreads, [order book depth](../o/order_book_depth.md), and other liquidity metrics. (https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+1. **[Bloomberg](../b/bloomberg.md) Terminal**: Offers comprehensive data on trading volumes, bid-ask spreads, [order book depth](../o/order_book_depth.md), and other liquidity metrics. (https://www.[bloomberg](../b/bloomberg.md).com/professional/solution/[bloomberg](../b/bloomberg.md)-terminal/)
 
-2. **Thomson Reuters Eikon**: Provides in-depth analysis on market conditions, including liquidity indicators. (https://www.refinitiv.com/en/products/eikon-trading-software)
+2. **Thomson [Reuters](../r/reuters.md) Eikon**: Provides in-depth analysis on market conditions, including liquidity indicators. (https://www.refinitiv.com/en/products/eikon-trading-software)
 
 3. **NASDAQ TotalView**: An advanced market data solution that provides insight into the full depth of the market by showing price levels for NASDAQ-listed securities. (https://www.nasdaq.com/solutions/nasdaq-totalview)
 
-4. **AlgoTrader**: A platform for [quantitative research](../q/quantitative_research.md) and [algorithmic trading](../a/algorithmic_trading.md) that includes robust tools for [liquidity analysis](../l/liquidity_analysis.md). (https://www.algotrader.com/)
+4. **[AlgoTrader](../a/algotrader.md)**: A platform for [quantitative research](../q/quantitative_research.md) and [algorithmic trading](../a/algorithmic_trading.md) that includes robust tools for [liquidity analysis](../l/liquidity_analysis.md). (https://www.[algotrader](../a/algotrader.md).com/)
 
-5. **QuantConnect**: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports back-testing and live trading, providing access to extensive market data. (https://www.quantconnect.com/)
+5. **[QuantConnect](../q/quantconnect.md)**: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports back-testing and live trading, providing access to extensive market data. (https://www.[quantconnect](../q/quantconnect.md).com/)
 
 6. **Python Libraries**: Libraries such as pandas, NumPy, and matplotlib can be used for custom [liquidity analysis](../l/liquidity_analysis.md) by accessing NASDAQ's raw data through APIs.
 

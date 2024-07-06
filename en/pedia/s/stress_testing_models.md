@@ -61,9 +61,9 @@ Stress testing models are a crucial component of [risk management](../r/risk_man
 #### Tools and Vendors
 
 - **MSCI**: Provides multi-asset class risk analytics and stress testing tools. [MSCI](https://www.msci.com/)
-- **FactSet**: Supplies integrated financial information and analytical applications. Their [risk management](../r/risk_management.md) tools incorporate stress testing functionality. [FactSet](https://www.factset.com/)
-- **Bloomberg**: Offers comprehensive stress testing capabilities within their risk and analytics suite. [Bloomberg](https://www.bloomberg.com/)
+- **[FactSet](../f/factset.md)**: Supplies integrated financial information and analytical applications. Their [risk management](../r/risk_management.md) tools incorporate stress testing functionality. [FactSet](https://www.factset.com/)
+- **[Bloomberg](../b/bloomberg.md)**: Offers comprehensive stress testing capabilities within their risk and analytics suite. [Bloomberg](https://www.bloomberg.com/)
 - **RiskMetrics**: Known for its extensive [risk management](../r/risk_management.md) and stress testing tools. [RiskMetrics](https://www.msci.com/riskmetrics)
-- **QuantConnect**: Provides an open, cloud-based [backtesting](../b/backtesting.md) and [algorithmic trading](../a/algorithmic_trading.md) platform with built-in tools for stress testing. [QuantConnect](https://www.quantconnect.com/)
+- **[QuantConnect](../q/quantconnect.md)**: Provides an open, cloud-based [backtesting](../b/backtesting.md) and [algorithmic trading](../a/algorithmic_trading.md) platform with built-in tools for stress testing. [QuantConnect](https://www.quantconnect.com/)
 
 Stress testing remains an evolving field with continuous improvements in techniques and models. As financial markets become increasingly complex and interlinked, the importance of robust stress testing models in safeguarding [trading strategies](../t/trading_strategies.md) and financial stability cannot be understated.

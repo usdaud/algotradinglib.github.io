@@ -91,9 +91,9 @@ Portfolios often undergo periodic rebalancing to maintain desired weights. Rebal
 
 Many financial tools and software solutions facilitate weighted return calculations. Some notable platforms include:
 
-- **Bloomberg Terminal**: A powerful tool for financial analysis and data management.
+- **[Bloomberg](../b/bloomberg.md) Terminal**: A powerful tool for financial analysis and data management.
   [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-- **Morningstar Direct**: Provides comprehensive [portfolio analysis](../p/portfolio_analysis.md), including weighted return calculations.
+- **[Morningstar](../m/morningstar.md) Direct**: Provides comprehensive [portfolio analysis](../p/portfolio_analysis.md), including weighted return calculations.
   [Morningstar](https://www.morningstar.com/products/direct)
 - **Yahoo Finance**: Offers basic [portfolio management](../p/portfolio_management.md) features and weighted return calculations.
   [Yahoo Finance](https://finance.yahoo.com/)

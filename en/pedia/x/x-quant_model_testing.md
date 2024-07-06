@@ -67,10 +67,10 @@ When evaluating a [quantitative trading](../q/quantitative_trading.md) model, th
 
 There are numerous tools and platforms available for X-Quant Model Testing, each offering various features for different aspects of testing:
 
-- **QuantConnect**: An [algorithmic trading](../a/algorithmic_trading.md) platform that provides cloud-based [backtesting](../b/backtesting.md), integrated data feeds, and a live [trading environment](../t/trading_environment.md). [QuantConnect](https://www.quantconnect.com/)
-- **TradingView**: Offers advanced charting tools, [social trading](../s/social_trading.md) features, and [backtesting](../b/backtesting.md) capabilities. [TradingView](https://www.tradingview.com/)
-- **Quantlib**: An open-source library for [quantitative finance](../q/quantitative_finance.md) that includes tools for pricing, [risk management](../r/risk_management.md), and model testing. [Quantlib](https://www.quantlib.org/)
-- **MultiCharts**: A professional trading platform offering advanced analysis tools and high-precision [backtesting](../b/backtesting.md) capabilities. [MultiCharts](https://www.multicharts.com/)
+- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that provides cloud-based [backtesting](../b/backtesting.md), integrated data feeds, and a live [trading environment](../t/trading_environment.md). [QuantConnect](https://www.quantconnect.com/)
+- **[TradingView](../t/tradingview.md)**: Offers advanced charting tools, [social trading](../s/social_trading.md) features, and [backtesting](../b/backtesting.md) capabilities. [TradingView](https://www.tradingview.com/)
+- **[Quantlib](../q/quantlib.md)**: An open-source library for [quantitative finance](../q/quantitative_finance.md) that includes tools for pricing, [risk management](../r/risk_management.md), and model testing. [Quantlib](https://www.quantlib.org/)
+- **[MultiCharts](../m/multicharts.md)**: A professional trading platform offering advanced analysis tools and high-precision [backtesting](../b/backtesting.md) capabilities. [MultiCharts](https://www.multicharts.com/)
 
 ### Conclusion
 

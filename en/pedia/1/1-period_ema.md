@@ -81,8 +81,8 @@ double calculateEMA(double price, int period) {
 ### Trading Platforms
 
 1. **MetaTrader**: Popular among forex traders, MetaTrader 4/5 supports custom indicators and expert advisors.
-2. **NinjaTrader**: Widely used in futures and forex markets.
-3. **TradingView**: Offers comprehensive charting tools and scriptability via Pine Script.
+2. **[NinjaTrader](../n/ninjatrader.md)**: Widely used in futures and forex markets.
+3. **[TradingView](../t/tradingview.md)**: Offers comprehensive charting tools and scriptability via Pine Script.
 
 ## Advantages and Disadvantages
 

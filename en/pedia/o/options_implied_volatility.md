@@ -108,19 +108,19 @@ Several financial platforms and tools assist traders in analyzing implied volati
 
 ### 1. **Bloomberg Terminal**
 
-Bloomberg Terminal provides comprehensive access to detailed IV data, options chains, and analytical tools. It helps traders visualize and analyze implied volatility while offering advanced charting capabilities.
+[Bloomberg](../b/bloomberg.md) Terminal provides comprehensive access to detailed IV data, options chains, and analytical tools. It helps traders visualize and analyze implied volatility while offering advanced charting capabilities.
 
 For more information, visit the [Bloomberg website](https://www.bloomberg.com/professional/solution/bloomberg-terminal/).
 
 ### 2. **Thinkorswim**
 
-Thinkorswim, a trading platform by TD Ameritrade, provides powerful tools for options traders. It includes features to analyze implied volatility, strategies, and greeks, helping traders make informed decisions.
+[Thinkorswim](../t/thinkorswim.md), a trading platform by TD Ameritrade, provides powerful tools for options traders. It includes features to analyze implied volatility, strategies, and greeks, helping traders make informed decisions.
 
 Learn more at [Thinkorswim](https://www.thinkorswim.com/).
 
 ### 3. **TradeStation**
 
-TradeStation offers a suite of tools for analyzing implied volatility, including advanced options charting and customizable analytical tools. It supports both novice and professional traders in their trading endeavors.
+[TradeStation](../t/tradestation.md) offers a suite of tools for analyzing implied volatility, including advanced options charting and customizable analytical tools. It supports both novice and professional traders in their trading endeavors.
 
 Explore more on the [TradeStation website](https://www.tradestation.com/).
 

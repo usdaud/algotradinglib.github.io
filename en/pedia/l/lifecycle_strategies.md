@@ -64,7 +64,7 @@ Several well-known [trading strategies](../t/trading_strategies.md) can be coded
 The lifecycle of [algorithmic trading](../a/algorithmic_trading.md) strategies relies heavily on various technologies and tools:
 
 1. **Programming Languages**: Languages like Python, R, and C++ are commonly used due to their robust libraries and performance capabilities.
-2. **[Backtesting](../b/backtesting.md) Platforms**: Tools like QuantConnect, Backtrader, and Zipline provide robust frameworks for [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md).
+2. **[Backtesting](../b/backtesting.md) Platforms**: Tools like [QuantConnect](../q/quantconnect.md), [Backtrader](../b/backtrader.md), and Zipline provide robust frameworks for [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md).
 3. **Data Feeds**: Access to high-quality, low-latency data feeds is crucial. Providers like [Quandl](https://www.quandl.com/) and [Bloomberg](https://www.bloomberg.com/professional/product/market-data/) offer comprehensive data services.
 4. **Visualization Tools**: Platforms like Tableau and Power BI for visualizing [performance metrics](../p/performance_metrics.md) and uncovering trends in trading data.
 

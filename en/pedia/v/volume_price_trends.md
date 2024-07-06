@@ -37,9 +37,9 @@ Where:
 ### Platform and Tools
 Several trading platforms and tools support VPT integration:
 - **MetaTrader**: Popular for retail traders, it supports custom indicators, including VPT, through its programming languages, MQL4 and MQL5.
-- **NinjaTrader**: Offers advanced charting and automated trading capabilities with support for custom indicators, including VPT.
-- **QuantConnect**: An open-source [algorithmic trading](../a/algorithmic_trading.md) engine that supports development in Python and C#, enabling sophisticated VPT strategies. [QuantConnect](https://www.quantconnect.com/)
-- **TradeStation**: Provides robust tools for developing, [backtesting](../b/backtesting.md), and deploying VPT-based [trading strategies](../t/trading_strategies.md). [TradeStation](https://www.tradestation.com/)
+- **[NinjaTrader](../n/ninjatrader.md)**: Offers advanced charting and automated trading capabilities with support for custom indicators, including VPT.
+- **[QuantConnect](../q/quantconnect.md)**: An open-source [algorithmic trading](../a/algorithmic_trading.md) engine that supports development in Python and C#, enabling sophisticated VPT strategies. [QuantConnect](https://www.quantconnect.com/)
+- **[TradeStation](../t/tradestation.md)**: Provides robust tools for developing, [backtesting](../b/backtesting.md), and deploying VPT-based [trading strategies](../t/trading_strategies.md). [TradeStation](https://www.tradestation.com/)
 
 ## Real-World Examples and Case Studies
 
@@ -49,7 +49,7 @@ Several hedge funds and [proprietary trading](../p/proprietary_trading.md) firms
 - **Two Sigma**: Another quantitative hedge fund that employs a variety of data-driven strategies, likely incorporating volume-based indicators like the VPT. [Two Sigma](https://www.twosigma.com/)
 
 ### Retail Traders
-Retail traders also take advantage of VPT through methodology shared on trading blogs and forums. [Automated trading bots](../a/automated_trading_bots.md), programmed using platforms like MetaTrader and QuantConnect, allow individual traders to exploit VPT without needing extensive financial or programming knowledge.
+Retail traders also take advantage of VPT through methodology shared on trading blogs and forums. [Automated trading bots](../a/automated_trading_bots.md), programmed using platforms like MetaTrader and [QuantConnect](../q/quantconnect.md), allow individual traders to exploit VPT without needing extensive financial or programming knowledge.
 
 ## Advantages and Limitations of VPT
 

@@ -70,9 +70,9 @@ Many financial institutions and trading platforms incorporate interest rate spre
 
 2. **JP Morgan:** [JP Morgan](https://www.jpmorgan.com/) uses advanced analytics and algorithms to trade interest rate products and manage risk.
 
-3. **AlgoTrader:** [AlgoTrader](https://www.algotrader.com/) provides a comprehensive platform for developing and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies, including those based on interest rate spreads.
+3. **[AlgoTrader](../a/algotrader.md):** [AlgoTrader](https://www.algotrader.com/) provides a comprehensive platform for developing and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies, including those based on interest rate spreads.
 
-4. **QuantConnect:** [QuantConnect](https://www.quantconnect.com/) offers a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform where traders can develop and backtest strategies that incorporate interest rate spreads.
+4. **[QuantConnect](../q/quantconnect.md):** [QuantConnect](https://www.quantconnect.com/) offers a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform where traders can develop and backtest strategies that incorporate interest rate spreads.
 
 #### Regulatory and Ethical Considerations
 

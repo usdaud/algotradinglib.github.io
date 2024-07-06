@@ -61,9 +61,9 @@ In [algorithmic trading](../a/algorithmic_trading.md), it's critical to adapt va
 #### Companies and Tools
 Various companies offer platforms and tools that help in the valuation and execution of [algorithmic trading](../a/algorithmic_trading.md) strategies.
 
-- **QuantConnect**: [quantconnect.com](https://www.quantconnect.com)
+- **[QuantConnect](../q/quantconnect.md)**: [quantconnect.com](https://www.quantconnect.com)
 - **Alpaca Markets**: [alpaca.markets](https://alpaca.markets)
 - **Numerai**: [numer.ai](https://numer.ai)
-- **Bloomberg Terminal**: Offers real-time data analytics, which can be essential for valuation in [algorithmic trading](../a/algorithmic_trading.md). [bloomberg.com/professional/solution/bloomberg-terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+- **[Bloomberg](../b/bloomberg.md) Terminal**: Offers real-time data analytics, which can be essential for valuation in [algorithmic trading](../a/algorithmic_trading.md). [bloomberg.com/professional/solution/bloomberg-terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
 In conclusion, valuation principles in [algorithmic trading](../a/algorithmic_trading.md) are multifaceted, intertwining fundamental, technical, and quantitative analyses along with real-time data processing to derive fair valuation metrics and making informed trading decisions. By leveraging these principles effectively, traders aim to identify lucrative opportunities and maintain a competitive edge in fast-moving markets.

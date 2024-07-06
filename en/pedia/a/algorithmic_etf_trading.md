@@ -31,11 +31,11 @@ An Exchange-Traded Fund (ETF) is a marketable security that tracks an index, a c
 ### Key Players and Platforms
 Several notable firms and platforms specialize in algorithmic ETF trading. These include:
 
-1. **QuantConnect:**
+1. **[QuantConnect](../q/quantconnect.md):**
    An open-source cloud-based platform allowing for the development and [backtesting](../b/backtesting.md) of [algorithmic trading](../a/algorithmic_trading.md) strategies. More information can be found on their official website: [QuantConnect](https://www.quantconnect.com/).
 
-2. **AlgoTrader:**
-   A comprehensive [algorithmic trading](../a/algorithmic_trading.md) software that supports multiple asset classes, including ETFs. AlgoTrader provides solutions for both [quantitative research](../q/quantitative_research.md) and live trading. More details are available at their website: [AlgoTrader](https://www.algotrader.com/).
+2. **[AlgoTrader](../a/algotrader.md):**
+   A comprehensive [algorithmic trading](../a/algorithmic_trading.md) software that supports multiple asset classes, including ETFs. [AlgoTrader](../a/algotrader.md) provides solutions for both [quantitative research](../q/quantitative_research.md) and live trading. More details are available at their website: [AlgoTrader](https://www.algotrader.com/).
 
 3. **Two Sigma:**
    An investment management firm that leverages data science and technology for [quantitative trading](../q/quantitative_trading.md) strategies, including ETF trading. Learn more about Two Sigma at their official site: [Two Sigma](https://www.twosigma.com/).
@@ -47,16 +47,16 @@ Implementing [algorithmic trading](../a/algorithmic_trading.md) strategies for E
    Popular languages include Python, C++, and Java due to their computational efficiency and extensive library support for financial data analysis.
 
 2. **Data Feeds:**
-   Real-time and historical market data are crucial. Providers such as Bloomberg, Thomson Reuters, and Quandl offer comprehensive financial datasets.
+   Real-time and historical market data are crucial. Providers such as [Bloomberg](../b/bloomberg.md), Thomson [Reuters](../r/reuters.md), and [Quandl](../q/quandl.md) offer comprehensive financial datasets.
 
 3. **Execution Management Systems (EMS):**
    EMS platforms streamline order execution while ensuring compliance with pre-defined [trading rules](../t/trading_rules.md). Examples include FlexTrade, InfoReach, and TradingScreen.
 
 4. **[Risk Management](../r/risk_management.md) Systems:**
-   Effective algorithms necessitate integrated [risk management](../r/risk_management.md) frameworks to identify and mitigate potential risks. Tools like AlgoTrader’s integrated [risk management](../r/risk_management.md) module are essential.
+   Effective algorithms necessitate integrated [risk management](../r/risk_management.md) frameworks to identify and mitigate potential risks. Tools like [AlgoTrader](../a/algotrader.md)’s integrated [risk management](../r/risk_management.md) module are essential.
 
 5. **[Backtesting](../b/backtesting.md) Frameworks:**
-   [Backtesting](../b/backtesting.md) allows the validation of [trading strategies](../t/trading_strategies.md) using historical data before deploying them in live markets. Popular [backtesting](../b/backtesting.md) frameworks include QuantConnect, Backtrader, and Zipline.
+   [Backtesting](../b/backtesting.md) allows the validation of [trading strategies](../t/trading_strategies.md) using historical data before deploying them in live markets. Popular [backtesting](../b/backtesting.md) frameworks include [QuantConnect](../q/quantconnect.md), [Backtrader](../b/backtrader.md), and Zipline.
 
 ### Benefits of Algorithmic ETF Trading
 1. **Enhanced Execution Speed:**

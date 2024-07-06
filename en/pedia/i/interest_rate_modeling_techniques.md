@@ -80,7 +80,7 @@ Calibration is a critical step in interest rate modeling, ensuring that the mode
 
 Several companies specialize in providing tools and services for interest rate modeling:
 
-- **Bloomberg L.P.:** A global financial services, software, and media company providing financial software tools and analytics. [Bloomberg L.P.](https://www.bloomberg.com/)
+- **[Bloomberg](../b/bloomberg.md) L.P.:** A global financial services, software, and media company providing financial software tools and analytics. [Bloomberg L.P.](https://www.bloomberg.com/)
 - **Numerix:** A leading provider of [risk management](../r/risk_management.md) and [derivatives](../d/derivatives.md) pricing technology. [Numerix](https://www.numerix.com/)
 - **FIS:** Offers comprehensive software solutions for financial services, including interest rate modeling. [FIS](https://www.fisglobal.com/)
 - **Quantifi:** Provides risk, analytics, and trading solutions for the global financial markets. [Quantifi](https://www.quantifisolutions.com/)

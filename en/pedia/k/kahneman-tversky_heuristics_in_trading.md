@@ -93,8 +93,8 @@ Traders and firms can draw several practical insights from the application of he
 
 Various tools and software platforms can assist traders and researchers in analyzing and exploiting heuristics in trading:
 
-- **[Sentiment Analysis](../s/sentiment_analysis.md) Tools**: Platforms like RavenPack and Lexalytics provide [sentiment analysis](../s/sentiment_analysis.md) tools that can help algotraders incorporate market sentiment driven by heuristics.
-- **[Backtesting](../b/backtesting.md) Software**: Tools like QuantConnect and TradingView offer [backtesting](../b/backtesting.md) capabilities that can be used to simulate the impact of behavioral biases on [trading strategies](../t/trading_strategies.md).
+- **[Sentiment Analysis](../s/sentiment_analysis.md) Tools**: Platforms like [RavenPack](../r/ravenpack.md) and Lexalytics provide [sentiment analysis](../s/sentiment_analysis.md) tools that can help algotraders incorporate market sentiment driven by heuristics.
+- **[Backtesting](../b/backtesting.md) Software**: Tools like [QuantConnect](../q/quantconnect.md) and [TradingView](../t/tradingview.md) offer [backtesting](../b/backtesting.md) capabilities that can be used to simulate the impact of behavioral biases on [trading strategies](../t/trading_strategies.md).
 - **Educational Resources**: Courses and materials from institutions like Coursera and the CFA Institute offer in-depth education on [behavioral finance](../b/behavioral_finance.md) and its applications in trading.
 
 ## Conclusion

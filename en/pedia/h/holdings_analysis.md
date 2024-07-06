@@ -39,15 +39,15 @@ Several techniques and tools are employed in holdings analysis:
 
 Several software platforms provide tools for holdings analysis in [algorithmic trading](../a/algorithmic_trading.md), such as:
 
-- **Bloomberg Terminal**: Offers comprehensive data and analytical capabilities for portfolio holdings analysis.
-- **Morningstar Direct**: Provides advanced analytics and reporting tools for detailed performance and risk assessments.
+- **[Bloomberg](../b/bloomberg.md) Terminal**: Offers comprehensive data and analytical capabilities for portfolio holdings analysis.
+- **[Morningstar](../m/morningstar.md) Direct**: Provides advanced analytics and reporting tools for detailed performance and risk assessments.
 - **MATLAB**: Often used to develop custom algorithms for performance and [risk analysis](../r/risk_analysis.md) of holdings.
 
 ### Software and Algorithm Platforms
 
-- **QuantConnect**: An [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to backtest and deploy strategies, incorporating holdings analysis.
+- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to backtest and deploy strategies, incorporating holdings analysis.
    [QuantConnect](https://www.quantconnect.com/)
-- **AlgoTrader**: A comprehensive [algorithmic trading](../a/algorithmic_trading.md) software platform that supports multi-asset and multi-venue trading.
+- **[AlgoTrader](../a/algotrader.md)**: A comprehensive [algorithmic trading](../a/algorithmic_trading.md) software platform that supports multi-asset and multi-venue trading.
    [AlgoTrader](https://www.algotrader.com/)
 - **MetaTrader 5**: A popular trading platform known for its automated trading capabilities and analytical tools.
    [MetaTrader 5](https://www.metatrader5.com/)

@@ -60,10 +60,10 @@ Sensitivity Analysis examines how the output of a trading strategy varies with c
 Several tools and software platforms facilitate performance analytics in [algorithmic trading](../a/algorithmic_trading.md):
 
 ### 1. **QuantConnect**
-QuantConnect is an [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools for [backtesting](../b/backtesting.md), live trading, and performance analytics. It supports multiple programming languages like C#, Python, and F#. [QuantConnect](https://www.quantconnect.com/)
+[QuantConnect](../q/quantconnect.md) is an [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools for [backtesting](../b/backtesting.md), live trading, and performance analytics. It supports multiple programming languages like C#, Python, and F#. [QuantConnect](https://www.quantconnect.com/)
 
 ### 2. **QuantLib**
-QuantLib is an open-source library that supports [quantitative finance](../q/quantitative_finance.md) research, including tools for performance analytics. It offers a vast collection of mathematical functions for financial analytics. [QuantLib](https://www.quantlib.org/)
+[QuantLib](../q/quantlib.md) is an open-source library that supports [quantitative finance](../q/quantitative_finance.md) research, including tools for performance analytics. It offers a vast collection of mathematical functions for financial analytics. [QuantLib](https://www.quantlib.org/)
 
 ### 3. **MATLAB**
 MATLAB provides extensive toolboxes for financial analysis, including performance analytics. It features robust visualization and computational capabilities that are essential for evaluating [trading strategies](../t/trading_strategies.md). [MATLAB](https://www.mathworks.com/)
@@ -75,7 +75,7 @@ R is a statistical programming language that offers numerous packages for financ
 Python has increasingly become popular for [algorithmic trading](../a/algorithmic_trading.md), supported by libraries like `Pandas`, `NumPy`, `SciPy`, `Matplotlib`, and `TA-Lib`. These libraries facilitate various performance analytics tasks.
 
 ### 6. **Multicharts**
-Multicharts is a professional trading software that provides advanced charting, [backtesting](../b/backtesting.md), and performance analysis. It is highly regarded among traders for its reliability and functionality. [MultiCharts](https://www.multicharts.com/)
+[Multicharts](../m/multicharts.md) is a professional trading software that provides advanced charting, [backtesting](../b/backtesting.md), and performance analysis. It is highly regarded among traders for its reliability and functionality. [MultiCharts](https://www.multicharts.com/)
 
 ## Case Studies
 

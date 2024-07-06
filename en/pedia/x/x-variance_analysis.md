@@ -53,7 +53,7 @@ High-Frequency Trading firms leverage X-[Variance Analysis](../v/variance_analys
 
 Several companies provide tools and services dedicated to advanced [variance analysis](../v/variance_analysis.md) in financial markets. Some of these are:
 
-- **QuantConnect**: A platform offering [algorithmic trading](../a/algorithmic_trading.md) and [quantitative finance](../q/quantitative_finance.md) solutions. [QuantConnect](https://www.quantconnect.com/)
+- **[QuantConnect](../q/quantconnect.md)**: A platform offering [algorithmic trading](../a/algorithmic_trading.md) and [quantitative finance](../q/quantitative_finance.md) solutions. [QuantConnect](https://www.quantconnect.com/)
 - **Kensho Technologies**: Known for their AI-powered analytics and financial intelligence solutions. [Kensho](https://www.kensho.com/)
 - **Two Sigma**: An investment management firm that leverages cutting-edge technology and data science for [alpha generation](../a/alpha_generation.md). [Two Sigma](https://www.twosigma.com/)
 

@@ -110,7 +110,7 @@ Big data technologies like Apache Hadoop, Apache Spark, and NoSQL databases (Mon
 
 ### 4. **APIs and Data Feeds**
 
-APIs from brokers and data providers like Alpha Vantage, IEX Cloud, and Quandl facilitate real-time data acquisition and trading.
+APIs from brokers and data providers like Alpha Vantage, IEX Cloud, and [Quandl](../q/quandl.md) facilitate real-time data acquisition and trading.
 
 ## Ethical Considerations
 

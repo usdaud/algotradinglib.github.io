@@ -59,7 +59,7 @@ In [algorithmic trading](../a/algorithmic_trading.md), complex market scenarios 
    - **Distributed Systems**: For handling large-scale computations and data storage.
 
 3. **Tools and Platforms**
-   - **QuantConnect**: An [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple languages and provides historical data.
+   - **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple languages and provides historical data.
    - **Kdb+/q**: A database system and programming language designed for high-frequency trading.
 
 ### Case Studies

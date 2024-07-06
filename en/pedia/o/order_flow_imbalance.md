@@ -21,7 +21,7 @@ The magnitude and direction of this imbalance can indicate potential upward or d
 
 ### Sources of Data
 
-Order flow data is typically obtained from Level II market data feeds, also known as the order book, which provide detailed information on all buy and sell orders, including their prices and volumes. Key sources of this data include stock exchanges such as the New York Stock Exchange (NYSE) and Nasdaq, as well as data providers like Bloomberg and Reuters.
+Order flow data is typically obtained from Level II market data feeds, also known as the order book, which provide detailed information on all buy and sell orders, including their prices and volumes. Key sources of this data include stock exchanges such as the New York Stock Exchange (NYSE) and Nasdaq, as well as data providers like [Bloomberg](../b/bloomberg.md) and [Reuters](../r/reuters.md).
 
 ### Importance in Algorithmic Trading
 

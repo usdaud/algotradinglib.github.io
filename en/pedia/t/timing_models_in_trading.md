@@ -68,7 +68,7 @@ High-frequency trading relies heavily on [timing models](../t/timing_models.md) 
 
 [Automated trading systems](../a/automated_trading_systems.md) embed [timing models](../t/timing_models.md) into their architecture to facilitate autonomous trading. These systems handle everything from signal generation to order execution, and they continuously monitor and adjust positions based on [real-time market data](../r/real-time_market_data.md).
 
-**Example**: Trading platforms like MetaTrader (https://www.metatrader4.com) offer automated trading capabilities, allowing traders to implement their [timing models](../t/timing_models.md) through Expert Advisors (EAs).
+**Example**: Trading platforms like MetaTrader (https://www.[metatrader4](../m/metatrader4.md).com) offer automated trading capabilities, allowing traders to implement their [timing models](../t/timing_models.md) through Expert Advisors (EAs).
 
 ## Challenges and Limitations
 

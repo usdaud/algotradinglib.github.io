@@ -42,7 +42,7 @@ Knowing that a trading strategy has been rigorously tested and has shown promisi
 
 The first step in the automated [backtesting](../b/backtesting.md) process is to collect and preprocess historical data. This involves accessing historical price data, cleaning it to remove anomalies, and structuring it in a manner suitable for [backtesting](../b/backtesting.md).
 
-1. **Data Sources**: Data can be sourced from various providers, including exchanges, financial data vendors, and APIs (e.g., Alpha Vantage, Quandl, Yahoo Finance).
+1. **Data Sources**: Data can be sourced from various providers, including exchanges, financial data vendors, and APIs (e.g., Alpha Vantage, [Quandl](../q/quandl.md), Yahoo Finance).
 2. **[Data Cleaning](../d/data_cleaning.md)**: Removing outliers, filling missing data, and ensuring time-series continuity are essential tasks in the preprocessing phase.
 
 ### Strategy Implementation
@@ -71,9 +71,9 @@ Analyze the performance of the backtested strategy using various metrics. Perfor
 
 Several tools and platforms are available that facilitate automated [backtesting](../b/backtesting.md) of [trading strategies](../t/trading_strategies.md). These platforms provide the necessary infrastructure and tools to simplify the [backtesting](../b/backtesting.md) process.
 
-1. **QuantConnect**: An [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple asset classes and provides extensive datasets for [backtesting](../b/backtesting.md). [QuantConnect](https://www.quantconnect.com/)
-2. **Backtrader**: A Python-based open-source [backtesting](../b/backtesting.md) framework that allows easy strategy development and extensive analytics. [Backtrader](https://www.backtrader.com/)
-3. **TradingView**: An online platform that provides powerful charting tools and scriptable [backtesting](../b/backtesting.md) capabilities through its Pine Script language. [TradingView](https://www.tradingview.com/)
+1. **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple asset classes and provides extensive datasets for [backtesting](../b/backtesting.md). [QuantConnect](https://www.quantconnect.com/)
+2. **[Backtrader](../b/backtrader.md)**: A Python-based open-source [backtesting](../b/backtesting.md) framework that allows easy strategy development and extensive analytics. [Backtrader](https://www.backtrader.com/)
+3. **[TradingView](../t/tradingview.md)**: An online platform that provides powerful charting tools and scriptable [backtesting](../b/backtesting.md) capabilities through its Pine Script language. [TradingView](https://www.tradingview.com/)
 4. **MetaTrader 5 (MT5)**: A popular trading platform that offers robust [backtesting](../b/backtesting.md) facilities for forex and other asset classes. [MetaTrader 5](https://www.metatrader5.com/)
 
 ## Best Practices in Automated Backtesting

@@ -82,9 +82,9 @@ High-frequency data analysis powers several [algorithmic trading](../a/algorithm
 
 Several companies and platforms specialize in high-frequency data analysis and offer services and tools for traders and financial institutions:
 
-- **QuantConnect**: [QuantConnect](https://www.quantconnect.com/) provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to design, test, and deploy [trading strategies](../t/trading_strategies.md) using high-frequency data.
+- **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](https://www.quantconnect.com/) provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to design, test, and deploy [trading strategies](../t/trading_strategies.md) using high-frequency data.
 - **Kdb+ by Kx Systems**: [Kx Systems](https://kx.com/) offers kdb+, a high-performance time-series database designed for real-time, high-frequency data processing.
-- **AlgoTrader**: [AlgoTrader](https://www.algotrader.com/) provides an institutional-grade [algorithmic trading](../a/algorithmic_trading.md) software solution that includes high-frequency data analysis tools.
+- **[AlgoTrader](../a/algotrader.md)**: [AlgoTrader](https://www.algotrader.com/) provides an institutional-grade [algorithmic trading](../a/algorithmic_trading.md) software solution that includes high-frequency data analysis tools.
 
 ## Conclusion
 

@@ -67,13 +67,13 @@ MetaTrader 5 (MT5) is a popular trading platform that offers a wide range of [te
 
 ### TradingView
 
-TradingView is a web-based charting platform that offers a multitude of [technical indicators](../t/technical_indicators.md), including custom wave oscillators. It provides powerful charting tools, social networking features, and a scripting language called Pine Script, which allows traders to create and backtest custom strategies.
+[TradingView](../t/tradingview.md) is a web-based charting platform that offers a multitude of [technical indicators](../t/technical_indicators.md), including custom wave oscillators. It provides powerful charting tools, social networking features, and a scripting language called Pine Script, which allows traders to create and backtest custom strategies.
 
 **Website**: [TradingView](https://www.tradingview.com)
 
 ### NinjaTrader
 
-NinjaTrader is a trading platform that provides advanced charting, [backtesting](../b/backtesting.md), and trade simulation features. It supports [algorithmic trading](../a/algorithmic_trading.md) through its NinjaScript programming language and offers a variety of [technical indicators](../t/technical_indicators.md), including wave oscillators.
+[NinjaTrader](../n/ninjatrader.md) is a trading platform that provides advanced charting, [backtesting](../b/backtesting.md), and trade simulation features. It supports [algorithmic trading](../a/algorithmic_trading.md) through its NinjaScript programming language and offers a variety of [technical indicators](../t/technical_indicators.md), including wave oscillators.
 
 **Website**: [NinjaTrader](https://www.ninjatrader.com)
 

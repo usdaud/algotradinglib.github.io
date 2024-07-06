@@ -147,7 +147,7 @@ plt.show()
 
 Once the X-Trading model is optimized, it needs to be deployed on a trading platform for live trading. This involves:
 
-1. **Choosing a Trading Platform**: Platforms like MetaTrader, QuantConnect, and Alpaca provide APIs for [algorithmic trading](../a/algorithmic_trading.md).
+1. **Choosing a Trading Platform**: Platforms like MetaTrader, [QuantConnect](../q/quantconnect.md), and Alpaca provide APIs for [algorithmic trading](../a/algorithmic_trading.md).
 2. **Connecting to Brokers**: Integrate with brokers offering API access for real-time data and trade execution.
 3. **Monitoring and Maintenance**: Continuously monitor the algorithm's performance and make necessary adjustments based on changing market conditions. Utilize logging and alert mechanisms to detect anomalies.
 

@@ -1,6 +1,6 @@
 # Gamma Neutral Strategies
 
-In the realm of algorithmic trading, Gamma Neutral strategies represent a refined subset of financial tactics primarily used for options trading. These strategies aim to minimize or eliminate the risks associated with the movement of the underlying asset's price by carefully balancing the portfolio's gamma exposure. Gamma itself is a measure of the rate of change in delta (the sensitivity of an option's price to changes in the price of the underlying asset), and understanding it is pivotal for advanced options traders.
+In the realm of [algorithmic trading](../a/algorithmic_trading.md), Gamma Neutral strategies represent a refined subset of financial tactics primarily used for options trading. These strategies aim to minimize or eliminate the risks associated with the movement of the underlying asset's price by carefully balancing the portfolio's [gamma exposure](../g/gamma_exposure.md). Gamma itself is a measure of the rate of change in delta (the sensitivity of an option's price to changes in the price of the underlying asset), and understanding it is pivotal for advanced options traders.
 
 ### Gamma Overview
 Gamma (Γ) is the second-order derivative of the option's price with respect to the price of the underlying asset. It essentially measures how much the delta will change as the price of the underlying asset moves. For traders, gamma is crucial because it provides insight into how the delta, and consequently the portfolio's exposure, will evolve when market conditions change.
@@ -41,7 +41,7 @@ Implementing gamma neutral strategies algorithmically involves several crucial s
 
 1. **Data Collection and Analysis:** 
    - Continuously gather market data such as prices, volatility, and [option Greeks](../o/option_greeks.md).
-   - Utilize robust databases for historical and real-time data (e.g., Bloomberg, Reuters [Refinitiv](https://www.refinitiv.com/), etc.).
+   - Utilize robust databases for historical and real-time data (e.g., [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md) [Refinitiv](https://www.refinitiv.com/), etc.).
 
 2. **[Algorithm Design](../a/algorithm_design.md):**
    - Develop algorithms to calculate the current gamma of the portfolio.

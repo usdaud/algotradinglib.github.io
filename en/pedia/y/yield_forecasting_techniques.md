@@ -53,9 +53,9 @@ Event-driven strategies focus on [yield forecasting](../y/yield_forecasting.md) 
 
 Several tools and platforms help implement [yield forecasting](../y/yield_forecasting.md) techniques effectively. Some of the notable ones include:
 
-- **Bloomberg Terminal:** [Bloomberg L.P.](https://www.bloomberg.com/professional/solution/bloomberg-terminal/) provides comprehensive data and analytics for financial professionals. 
-- **Reuters Eikon:** [Refinitiv Eikon](https://eikon.thomsonreuters.com/index.html) offers powerful tools for financial analysis, including [yield forecasting](../y/yield_forecasting.md).
-- **QuantConnect:** [QuantConnect](https://www.quantconnect.com/) provides an open platform for [algorithmic trading](../a/algorithmic_trading.md) and financial analysis.
+- **[Bloomberg](../b/bloomberg.md) Terminal:** [Bloomberg L.P.](https://www.bloomberg.com/professional/solution/bloomberg-terminal/) provides comprehensive data and analytics for financial professionals. 
+- **[Reuters](../r/reuters.md) Eikon:** [Refinitiv Eikon](https://eikon.thomsonreuters.com/index.html) offers powerful tools for financial analysis, including [yield forecasting](../y/yield_forecasting.md).
+- **[QuantConnect](../q/quantconnect.md):** [QuantConnect](https://www.quantconnect.com/) provides an open platform for [algorithmic trading](../a/algorithmic_trading.md) and financial analysis.
 - **Kensho:** [Kensho](https://www.kensho.com/) employs artificial intelligence to provide actionable insights and real-time [yield forecasting](../y/yield_forecasting.md).
 
 ## Conclusion

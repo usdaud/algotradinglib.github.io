@@ -46,8 +46,8 @@ Financial institutions employ Utility Theory extensively in client advisory serv
 
 #### Software Tools
 Several advanced software tools and platforms incorporate Utility Theory for [portfolio optimization](../p/portfolio_optimization.md) and [asset allocation](../a/asset_allocation.md):
-- **Morningstar Direct**: A comprehensive investment analysis platform that allows portfolio managers to incorporate utility-based analysis in their decision-making processes. More information is available at [Morningstar Direct](https://www.morningstar.com/products/direct).
-- **FactSet**: Provides portfolio analytics tools that include utility-based frameworks for evaluating and optimizing portfolios. Explore more at [FactSet](https://www.factset.com/).
+- **[Morningstar](../m/morningstar.md) Direct**: A comprehensive investment analysis platform that allows portfolio managers to incorporate utility-based analysis in their decision-making processes. More information is available at [Morningstar Direct](https://www.morningstar.com/products/direct).
+- **[FactSet](../f/factset.md)**: Provides portfolio analytics tools that include utility-based frameworks for evaluating and optimizing portfolios. Explore more at [FactSet](https://www.factset.com/).
 
 ### Conclusion
 Utility Theory is a pivotal concept in the realm of [portfolio management](../p/portfolio_management.md), offering insights into how investors make decisions amidst risk and uncertainty. By understanding and applying Utility Theory, portfolio managers can better tailor their strategies to align with investor preferences, ultimately leading to more efficient and satisfying investment outcomes.

@@ -77,15 +77,15 @@ HFT strategies often rely on detecting and exploiting volume imbalances within m
 
 ### Algorithmic Trading Platforms
 
-Many [algorithmic trading](../a/algorithmic_trading.md) platforms offer built-in tools for analyzing volume imbalances. These platforms integrate order book data, historical volume profiles, and real-time trade data to help traders develop and execute strategies. Examples include MetaTrader, QuantConnect, and NinjaTrader.
+Many [algorithmic trading](../a/algorithmic_trading.md) platforms offer built-in tools for analyzing volume imbalances. These platforms integrate order book data, historical volume profiles, and real-time trade data to help traders develop and execute strategies. Examples include MetaTrader, [QuantConnect](../q/quantconnect.md), and [NinjaTrader](../n/ninjatrader.md).
 
 ### Custom Indicators
 
-Traders often develop custom indicators to track volume imbalances. These indicators can be programmed using popular trading platforms’ scripting languages like MetaQuotes Language (MQL5 for MetaTrader), Pine Script for TradingView, or Python libraries.
+Traders often develop custom indicators to track volume imbalances. These indicators can be programmed using popular trading platforms’ scripting languages like MetaQuotes Language (MQL5 for MetaTrader), Pine Script for [TradingView](../t/tradingview.md), or Python libraries.
 
 ### Third-Party Data Providers
 
-Several third-party providers offer volume imbalance data and analytical tools. Companies like Quandl, Alpha Vantage, and TradeStation provide comprehensive market data services, which include volume imbalance metrics.
+Several third-party providers offer volume imbalance data and analytical tools. Companies like [Quandl](../q/quandl.md), Alpha Vantage, and [TradeStation](../t/tradestation.md) provide comprehensive market data services, which include volume imbalance metrics.
 
 ## Case Studies and Applications
 
@@ -95,7 +95,7 @@ Institutions like hedge funds and asset managers use volume imbalance analysis t
 
 ### Retail Trading
 
-Retail traders leverage volume imbalance insights to enhance their [trading strategies](../t/trading_strategies.md). Tools like TradingView provide retail traders with access to sophisticated [volume analysis](../v/volume_analysis.md), previously available only to institutional players.
+Retail traders leverage volume imbalance insights to enhance their [trading strategies](../t/trading_strategies.md). Tools like [TradingView](../t/tradingview.md) provide retail traders with access to sophisticated [volume analysis](../v/volume_analysis.md), previously available only to institutional players.
 
 ### Real-Life Example: XTX Markets
 

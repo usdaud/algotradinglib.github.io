@@ -58,8 +58,8 @@ Risk-adjusted [performance metrics](../p/performance_metrics.md) like the [Sharp
 **BlackRock Aladdin**
 BlackRock Aladdin provides comprehensive risk analytics, involving detailed scenario analysis, stress testing, and [portfolio management](../p/portfolio_management.md) tools. More details at [BlackRock Aladdin](https://www.blackrock.com/aladdin).
 
-**Bloomberg Risk Terminal**
-Bloomberg offers robust [risk management](../r/risk_management.md) tools through its Bloomberg Terminal. The platform includes a wide array of risk analytics, including VaR, CVaR, and stress testing capabilities. More information available at [Bloomberg Professional Services](https://www.bloomberg.com/professional/solution/market-risk/).
+**[Bloomberg](../b/bloomberg.md) Risk Terminal**
+[Bloomberg](../b/bloomberg.md) offers robust [risk management](../r/risk_management.md) tools through its [Bloomberg](../b/bloomberg.md) Terminal. The platform includes a wide array of risk analytics, including VaR, CVaR, and stress testing capabilities. More information available at [Bloomberg Professional Services](https://www.bloomberg.com/professional/solution/market-risk/).
 
 ### Challenges in Risk Modeling
 

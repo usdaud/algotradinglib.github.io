@@ -55,7 +55,7 @@ Upside volume breakouts are significant because they indicate a strong demand fo
 
 To effectively trade upside volume breakouts, various tools and resources can be utilized:
 
-1. **Trading Platforms**: Platforms like MetaTrader, Thinkorswim, and TradeStation offer advanced charting and analysis tools essential for identifying and trading breakouts.
+1. **Trading Platforms**: Platforms like MetaTrader, [Thinkorswim](../t/thinkorswim.md), and [TradeStation](../t/tradestation.md) offer advanced charting and analysis tools essential for identifying and trading breakouts.
 2. **[Market Scanners](../m/market_scanners.md)**: Tools such as Trade-Ideas, Finviz, and StockFetcher help scan for stocks showing potential breakout patterns.
 3. **Educational Resources**: Websites like Investopedia, BabyPips, and specialized trading courses (e.g., through websites like [Investimonials](https://investimonials.com) or financial educators like Timothy Sykes) provide valuable insights and strategies.
 

@@ -98,16 +98,16 @@ Several companies and platforms offer tools and frameworks for conducting unit r
 
 ### Financial Data Providers
 
-- **Bloomberg**: Offers comprehensive time series data and advanced econometric analysis tools, including [unit root testing](../u/unit_root_testing.md) functionalities.
+- **[Bloomberg](../b/bloomberg.md)**: Offers comprehensive time series data and advanced econometric analysis tools, including [unit root testing](../u/unit_root_testing.md) functionalities.
   - [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-- **Thomson Reuters**: Provides extensive financial data and analytics services, incorporating [time series analysis](../t/time_series_analysis.md) tools useful for [unit root testing](../u/unit_root_testing.md).
+- **Thomson [Reuters](../r/reuters.md)**: Provides extensive financial data and analytics services, incorporating [time series analysis](../t/time_series_analysis.md) tools useful for [unit root testing](../u/unit_root_testing.md).
   - [Thomson Reuters](https://www.refinitiv.com/en)
 
 ### Algorithmic Trading Platforms
 
-- **QuantConnect**: An [algorithmic trading](../a/algorithmic_trading.md) platform that integrates with Python, allowing for extensive data analysis, including [unit root testing](../u/unit_root_testing.md).
+- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that integrates with Python, allowing for extensive data analysis, including [unit root testing](../u/unit_root_testing.md).
   - [QuantConnect](https://www.quantconnect.com/)
-- **QuantLib**: A comprehensive library for [quantitative finance](../q/quantitative_finance.md) in C++ that can be used along with time series testing methods.
+- **[QuantLib](../q/quantlib.md)**: A comprehensive library for [quantitative finance](../q/quantitative_finance.md) in C++ that can be used along with time series testing methods.
   - [QuantLib](https://www.quantlib.org/)
 
 ## Conclusion

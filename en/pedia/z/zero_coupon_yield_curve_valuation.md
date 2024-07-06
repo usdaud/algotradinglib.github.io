@@ -77,9 +77,9 @@ Algorithmic traders use zero coupon yield curves to identify [arbitrage](../a/ar
 
 Several financial platforms and companies provide tools and services for zero coupon [yield curve](../y/yield_curve.md) construction and valuation. These platforms use advanced algorithms and financial models to offer precise valuations and [risk management](../r/risk_management.md). Some prominent companies in this domain include:
 
-1. **Bloomberg**: Bloomberg provides comprehensive financial data and analytics, including tools for constructing and analyzing zero coupon yield curves. More information can be found on their [official website](https://www.bloomberg.com/).
-2. **Refinitiv (formerly Thomson Reuters)**: Refinitiv offers financial data and analytics solutions, including [yield curve](../y/yield_curve.md) analysis tools. Their services are widely used by financial professionals. For more details, visit their [website](https://www.refinitiv.com/).
-3. **FactSet**: FactSet provides financial data, analytics, and trading solutions, including tools for [yield curve](../y/yield_curve.md) construction and analysis. Additional information is available on their [website](https://www.factset.com/).
+1. **[Bloomberg](../b/bloomberg.md)**: [Bloomberg](../b/bloomberg.md) provides comprehensive financial data and analytics, including tools for constructing and analyzing zero coupon yield curves. More information can be found on their [official website](https://www.bloomberg.com/).
+2. **Refinitiv (formerly Thomson [Reuters](../r/reuters.md))**: Refinitiv offers financial data and analytics solutions, including [yield curve](../y/yield_curve.md) analysis tools. Their services are widely used by financial professionals. For more details, visit their [website](https://www.refinitiv.com/).
+3. **[FactSet](../f/factset.md)**: [FactSet](../f/factset.md) provides financial data, analytics, and trading solutions, including tools for [yield curve](../y/yield_curve.md) construction and analysis. Additional information is available on their [website](https://www.factset.com/).
 4. **Moody's Analytics**: Moody's Analytics offers [financial risk management](../f/financial_risk_management.md) solutions, including [yield curve](../y/yield_curve.md) models and analytics. More information can be found on their [website](https://www.moodysanalytics.com/).
 
 ## Conclusion

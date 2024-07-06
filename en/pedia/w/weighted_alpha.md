@@ -39,8 +39,8 @@ print("Weighted Alpha:", weighted_alpha)
 
 ### Example Companies Utilizing Weighted Alpha
 
-1. **TradeStation**: Known for its advanced [algorithmic trading](../a/algorithmic_trading.md) platforms, TradeStation allows the implementation of custom strategies that can utilize Weighted Alpha. [TradeStation](https://www.tradestation.com/)
-2. **QuantConnect**: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports a range of indicators and metrics, including Weighted Alpha. [QuantConnect](https://www.quantconnect.com/)
+1. **[TradeStation](../t/tradestation.md)**: Known for its advanced [algorithmic trading](../a/algorithmic_trading.md) platforms, [TradeStation](../t/tradestation.md) allows the implementation of custom strategies that can utilize Weighted Alpha. [TradeStation](https://www.tradestation.com/)
+2. **[QuantConnect](../q/quantconnect.md)**: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports a range of indicators and metrics, including Weighted Alpha. [QuantConnect](https://www.quantconnect.com/)
 3. **Alpha Architect**: This company uses data-driven strategies and tools that may include metrics like Weighted Alpha for better investment decisions. [Alpha Architect](https://alphaarchitect.com/)
 4. **Two Sigma**: A quantitative investment management firm that employs advanced analytics and models, which potentially use metrics like Weighted Alpha. [Two Sigma](https://www.twosigma.com/)
 5. **Renaissance Technologies**: One of the most successful hedge funds that uses [quantitative models](../q/quantitative_models.md) for trading, possibly incorporating metrics like Weighted Alpha. [Renaissance Technologies](https://www.rentec.com/)

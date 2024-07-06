@@ -75,8 +75,8 @@ Various tools and platforms are available for signal detection in trading:
 ### 1. **Software Platforms**
 
 - **MetaTrader 4/5**: Widely used trading platforms offering [technical analysis](../t/technical_analysis.md) tools. [MetaTrader](https://www.metatrader4.com/en)
-- **NinjaTrader**: Provides advanced charting and market analytics. [NinjaTrader](https://ninjatrader.com/)
-- **TradingView**: Offers extensive charting and [social trading](../s/social_trading.md) features. [TradingView](https://www.tradingview.com/)
+- **[NinjaTrader](../n/ninjatrader.md)**: Provides advanced charting and market analytics. [NinjaTrader](https://ninjatrader.com/)
+- **[TradingView](../t/tradingview.md)**: Offers extensive charting and [social trading](../s/social_trading.md) features. [TradingView](https://www.tradingview.com/)
 
 ### 2. **Programming Languages**
 
@@ -87,7 +87,7 @@ Various tools and platforms are available for signal detection in trading:
 
 - **Alpha Vantage API**: Provides real-time and historical market data. [Alpha Vantage](https://www.alphavantage.co/)
 - **Yahoo Finance API**: For retrieving stock prices and other financial data. [Yahoo Finance](https://www.yahoofinanceapi.com/)
-- **Quandl API**: Offers a plethora of financial and economic data. [Quandl](https://www.quandl.com/)
+- **[Quandl](../q/quandl.md) API**: Offers a plethora of financial and economic data. [Quandl](https://www.quandl.com/)
 
 ## Case Studies
 

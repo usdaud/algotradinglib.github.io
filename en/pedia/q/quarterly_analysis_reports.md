@@ -67,7 +67,7 @@ Based on the analysis, recommendations for optimizing [trading strategies](../t/
 ## Importance of Data in Quarterly Analysis Reports
 
 The quality of a quarterly analysis report heavily depends on the data used. Accurate historical and real-time data allows for more precise analysis and forecasting. Reliable data sources include:
-- Financial Market Data Providers: Bloomberg, Thomson Reuters, etc.
+- Financial Market Data Providers: [Bloomberg](../b/bloomberg.md), Thomson [Reuters](../r/reuters.md), etc.
 - Economic Data: Data from government and economic agencies (e.g., U.S. Bureau of Labor Statistics).
 - Proprietary Data: Data generated internally by trading firms.
 

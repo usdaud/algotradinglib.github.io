@@ -78,13 +78,13 @@ Hedging is crucial in financial markets for several reasons:
 
 ### 4.1 Automated Trading Platforms
 
-Automated trading platforms like MetaTrader, QtTrader, and ThinkOrSwim support the implementation of complex [hedging strategies](../h/hedging_strategies.md). These platforms provide the infrastructure for executing automated trades, [backtesting](../b/backtesting.md) algorithms, and integrating with various exchanges.
+Automated trading platforms like MetaTrader, QtTrader, and [ThinkOrSwim](../t/thinkorswim.md) support the implementation of complex [hedging strategies](../h/hedging_strategies.md). These platforms provide the infrastructure for executing automated trades, [backtesting](../b/backtesting.md) algorithms, and integrating with various exchanges.
 
 ### 4.2 Risk Management Software
 
-[Risk management](../r/risk_management.md) software like AlgoTrader and Hedgetec offers comprehensive tools for portfolio and [risk management](../r/risk_management.md). They include features for real-time risk assessment, stress testing, and scenario analysis.
+[Risk management](../r/risk_management.md) software like [AlgoTrader](../a/algotrader.md) and Hedgetec offers comprehensive tools for portfolio and [risk management](../r/risk_management.md). They include features for real-time risk assessment, stress testing, and scenario analysis.
 
-- **AlgoTrader:** [AlgoTrader](https://www.algotrader.com)
+- **[AlgoTrader](../a/algotrader.md):** [AlgoTrader](https://www.algotrader.com)
 - **Hedgetec:** [Hedgetec](https://www.hedgetec.com)
 
 ### 4.3 APIs and Integration

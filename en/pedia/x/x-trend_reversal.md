@@ -29,7 +29,7 @@ Developing an X-[Trend Reversal](../t/trend_reversal.md) algorithm involves seve
 
 - **Signal Generation**: The algorithm generates buy or sell signals based on the confluence of indicators, patterns, and volume changes. 
 
-- **[Backtesting](../b/backtesting.md)**: The strategy is tested on historical data to verify its performance. Libraries like `Backtrader` or platforms like [MetaTrader](https://www.metatrader.com/) are popular for [backtesting](../b/backtesting.md).
+- **[Backtesting](../b/backtesting.md)**: The strategy is tested on historical data to verify its performance. Libraries like `[Backtrader](../b/backtrader.md)` or platforms like [MetaTrader](https://www.metatrader.com/) are popular for [backtesting](../b/backtesting.md).
 
 - **Optimization**: Parameters are fine-tuned to enhance the strategy's efficacy. Optimization techniques like genetic algorithms or [Bayesian Optimization](../b/bayesian_optimization.md) can be useful.
 

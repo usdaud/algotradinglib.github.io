@@ -85,10 +85,10 @@ wma = calculate_wma(data, 3)
 
 ### Backtesting
 
-[Backtesting](../b/backtesting.md) is crucial for assessing the efficiency of [moving average strategies](../m/moving_average_strategies.md). Libraries like Backtrader and Zipline offer robust frameworks for [backtesting](../b/backtesting.md):
+[Backtesting](../b/backtesting.md) is crucial for assessing the efficiency of [moving average strategies](../m/moving_average_strategies.md). Libraries like [Backtrader](../b/backtrader.md) and Zipline offer robust frameworks for [backtesting](../b/backtesting.md):
 
 ```python
-import backtrader as bt
+import [backtrader](../b/backtrader.md) as bt
 
 class MovingAverageStrategy(bt.SignalStrategy):
     def __init__(self):
@@ -116,28 +116,28 @@ cerebro.plot()
 
 ### QuantConnect
 
-QuantConnect provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform adhering to institutional standards. The platform supports diverse financial instruments and programming languages, including Python and C#.
+[QuantConnect](../q/quantconnect.md) provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform adhering to institutional standards. The platform supports diverse financial instruments and programming languages, including Python and C#.
 
 [QuantConnect](https://www.quantconnect.com/)
 
 ### Bloomberg Terminal
 
-Bloomberg Terminal offers robust analytics tools facilitating the implementation of [moving average strategies](../m/moving_average_strategies.md). The terminal is widely used in the finance industry for [real-time data analysis](../r/real-time_data_analysis.md) and trading operations.
+[Bloomberg](../b/bloomberg.md) Terminal offers robust analytics tools facilitating the implementation of [moving average strategies](../m/moving_average_strategies.md). The terminal is widely used in the finance industry for [real-time data analysis](../r/real-time_data_analysis.md) and trading operations.
 
 [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
 ### AlgoTrader
 
-AlgoTrader is a comprehensive [algorithmic trading](../a/algorithmic_trading.md) platform supporting multiple [trading strategies](../t/trading_strategies.md), including moving averages. The platform offers extensive [backtesting](../b/backtesting.md) capabilities and connectivity to various liquidity providers.
+[AlgoTrader](../a/algotrader.md) is a comprehensive [algorithmic trading](../a/algorithmic_trading.md) platform supporting multiple [trading strategies](../t/trading_strategies.md), including moving averages. The platform offers extensive [backtesting](../b/backtesting.md) capabilities and connectivity to various liquidity providers.
 
 [AlgoTrader](https://www.algotrader.com/)
 
 ### TradingView
 
-TradingView is an online platform that provides charting tools and moving average indicators for traders. It supports scripting in Pine Script for custom strategy development and [backtesting](../b/backtesting.md).
+[TradingView](../t/tradingview.md) is an online platform that provides charting tools and moving average indicators for traders. It supports scripting in Pine Script for custom strategy development and [backtesting](../b/backtesting.md).
 
 [TradingView](https://www.tradingview.com/)
 
 ## Conclusion
 
-Running average strategies serve as a foundational element in [algorithmic trading](../a/algorithmic_trading.md), offering numerous applications, from simple crossover techniques to advanced analytics like adaptive moving averages. Their versatility and ease of integration make them indispensable tools for traders seeking to leverage historical data for predictive insights. Whether utilizing platforms like QuantConnect or employing custom Python scripts, these strategies continue to play a pivotal role in modern trading environments.
+Running average strategies serve as a foundational element in [algorithmic trading](../a/algorithmic_trading.md), offering numerous applications, from simple crossover techniques to advanced analytics like adaptive moving averages. Their versatility and ease of integration make them indispensable tools for traders seeking to leverage historical data for predictive insights. Whether utilizing platforms like [QuantConnect](../q/quantconnect.md) or employing custom Python scripts, these strategies continue to play a pivotal role in modern trading environments.

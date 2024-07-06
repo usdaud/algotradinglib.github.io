@@ -83,8 +83,8 @@ Convertible bond [arbitrage](../a/arbitrage.md) is subject to various regulatory
 - **Securities and Exchange Commission (SEC):**
    - The SEC oversees and enforces securities laws in the United States, impacting how convertible bonds and [arbitrage](../a/arbitrage.md) activities are conducted.
    
-- **Financial Industry Regulatory Authority (FINRA):**
-   - FINRA regulates brokerage firms and exchange markets, ensuring the integrity of convertible bond trading activities.
+- **Financial Industry Regulatory Authority ([FINRA](../f/finra.md)):**
+   - [FINRA](../f/finra.md) regulates brokerage firms and exchange markets, ensuring the integrity of convertible bond trading activities.
 
 - **International Regulations:**
    - Different countries have their regulatory bodies and frameworks, such as the Financial Conduct Authority (FCA) in the UK, which oversees market practices and protects investors.

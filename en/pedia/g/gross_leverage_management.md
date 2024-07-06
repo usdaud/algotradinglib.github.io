@@ -38,7 +38,7 @@ Gross Leverage = ($200,000 + $100,000) / $100,000 = 3x
 
 In [algorithmic trading](../a/algorithmic_trading.md), various tools and technologies can be employed to manage gross leverage effectively:
 
-1. **[Risk Management](../r/risk_management.md) Software**: Platforms like QuantConnect offer [risk management](../r/risk_management.md) tools that help in setting and monitoring leverage limits. [QuantConnect](https://www.quantconnect.com/)
+1. **[Risk Management](../r/risk_management.md) Software**: Platforms like [QuantConnect](../q/quantconnect.md) offer [risk management](../r/risk_management.md) tools that help in setting and monitoring leverage limits. [QuantConnect](https://www.quantconnect.com/)
 2. **[Portfolio Management](../p/portfolio_management.md) Systems**: Advanced [portfolio management](../p/portfolio_management.md) systems such as Portfolio123 allow traders to track performance and adjust leverage dynamically. [Portfolio123](https://www.portfolio123.com/)
 3. **Automated Trading Platforms**: Platforms like MetaTrader 5 support automated trading and [risk management](../r/risk_management.md) scripts, facilitating better leverage control. [MetaTrader 5](https://www.metatrader5.com/)
 4. **Data Analytics and Visualization Tools**: Using analytics platforms like Tableau to visualize and analyze [leverage ratios](../l/leverage_ratios.md) can provide deeper insights into leverage management. [Tableau](https://www.tableau.com/)

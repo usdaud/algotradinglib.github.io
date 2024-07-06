@@ -51,7 +51,7 @@ Market making involves continuously submitting buy and sell orders for various s
 Common programming languages in computational trading include Python, C++, Java, and R. Python is particularly popular for its data analysis libraries such as pandas and NumPy, while C++ is favored for its execution speed.
 
 ### Data Feeds
-Real-time data feeds are crucial for computational trading. Companies like Bloomberg and Thomson Reuters provide comprehensive data services, including historical tick data, news feeds, and [real-time market data](../r/real-time_market_data.md).
+Real-time data feeds are crucial for computational trading. Companies like [Bloomberg](../b/bloomberg.md) and Thomson [Reuters](../r/reuters.md) provide comprehensive data services, including historical tick data, news feeds, and [real-time market data](../r/real-time_market_data.md).
 
 ### Computing Hardware
 To achieve low-latency trading, high-performance computing (HPC) hardware, including Field-Programmable Gate Arrays (FPGAs) and Graphics Processing Units (GPUs), is often used. Some firms also employ custom-built servers and co-location services to mitigate latency.

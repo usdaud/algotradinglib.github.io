@@ -57,7 +57,7 @@ HPC enables the processing of vast amounts of data at high speeds. Components in
 #### 4. Financial APIs
 APIs facilitate the integration of various data sources and trading platforms. Key APIs include:
 - **Trading APIs**: Provided by brokers and exchanges like Interactive Brokers, TD Ameritrade, and Alpaca.
-- **Market Data APIs**: Offered by providers like Bloomberg, Refinitiv, and Alpha Vantage.
+- **Market Data APIs**: Offered by providers like [Bloomberg](../b/bloomberg.md), Refinitiv, and Alpha Vantage.
 - **[Alternative Data](../a/alternative_data.md) APIs**: Sources like Twitter, Foursquare, and various satellite data providers.
 
 ### Companies in X-Systems Development
@@ -75,7 +75,7 @@ Goldman Sachs employs sophisticated [algorithmic trading](../a/algorithmic_tradi
 [Website](https://www.goldmansachs.com/)
 
 #### 4. QuantConnect
-QuantConnect is an open-source [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools for [backtesting](../b/backtesting.md) and deploying [trading algorithms](../t/trading_algorithms.md) in live markets.
+[QuantConnect](../q/quantconnect.md) is an open-source [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools for [backtesting](../b/backtesting.md) and deploying [trading algorithms](../t/trading_algorithms.md) in live markets.
 [Website](https://www.quantconnect.com/)
 
 #### 5. Alpaca

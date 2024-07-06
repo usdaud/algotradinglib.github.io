@@ -69,12 +69,12 @@ Many trading platforms offer tools for pattern recognition using [technical anal
    - Provides numerous built-in [technical indicators](../t/technical_indicators.md) and pattern recognition tools.
    - [MetaTrader](https://www.metatrader4.com/)
 
-2. **TradingView**:
+2. **[TradingView](../t/tradingview.md)**:
    - Known for its powerful charting and screening capabilities.
    - Includes community scripts that highlight patterns like head and shoulders, double tops, triangles, etc.
    - [TradingView](https://www.tradingview.com/)
 
-3. **Bloomberg Terminal**:
+3. **[Bloomberg](../b/bloomberg.md) Terminal**:
    - Offers advanced analytical tools for professional traders.
    - Includes modules for [technical analysis](../t/technical_analysis.md) and pattern recognition.
    - [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)

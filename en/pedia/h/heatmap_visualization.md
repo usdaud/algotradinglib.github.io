@@ -54,7 +54,7 @@ Python, a popular programming language in finance and data science, offers sever
 
 Many trading platforms provide built-in heatmap visualization tools:
 
-- **TradingView**: Offers a wide range of charting tools, including heatmaps for visualizing price movements and market conditions. You can explore their tools at [TradingView](https://www.tradingview.com).
+- **[TradingView](../t/tradingview.md)**: Offers a wide range of charting tools, including heatmaps for visualizing price movements and market conditions. You can explore their tools at [TradingView](https://www.tradingview.com).
 - **MetaTrader**: A popular platform among forex traders, MetaTrader includes heatmap indicators for visualizing market trends. Visit [MetaTrader](https://www.metatrader4.com) for more information.
 
 ### Custom Solutions

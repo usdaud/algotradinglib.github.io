@@ -109,14 +109,14 @@ MetaTrader 5 is a multi-asset platform that allows trading Forex, stocks, and fu
 Visit MetaTrader [here](https://www.metatrader5.com/en).
 
 ### TradingView
-TradingView is a social network for traders and investors, offering live quotes, stock charts, and expert trading ideas. It also provides a wide range of [technical analysis](../t/technical_analysis.md) tools and indicators to aid in trading decisions.
+[TradingView](../t/tradingview.md) is a social network for traders and investors, offering live quotes, stock charts, and expert trading ideas. It also provides a wide range of [technical analysis](../t/technical_analysis.md) tools and indicators to aid in trading decisions.
 
-Visit TradingView [here](https://www.tradingview.com/).
+Visit [TradingView](../t/tradingview.md) [here](https://www.tradingview.com/).
 
 ### QuantConnect
-QuantConnect is an [algorithmic trading](../a/algorithmic_trading.md) platform that provides data, broker integrations, and an IDE to design and backtest [trading strategies](../t/trading_strategies.md) in multiple programming languages. It supports the development of indicators to be utilized in custom [trading algorithms](../t/trading_algorithms.md).
+[QuantConnect](../q/quantconnect.md) is an [algorithmic trading](../a/algorithmic_trading.md) platform that provides data, broker integrations, and an IDE to design and backtest [trading strategies](../t/trading_strategies.md) in multiple programming languages. It supports the development of indicators to be utilized in custom [trading algorithms](../t/trading_algorithms.md).
 
-Visit QuantConnect [here](https://www.quantconnect.com/).
+Visit [QuantConnect](../q/quantconnect.md) [here](https://www.quantconnect.com/).
 
 ## Conclusion
 

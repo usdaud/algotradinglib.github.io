@@ -1,6 +1,6 @@
 # Trend following
 
-Trend following is a type of trading strategy that aims to capitalize on the upward or downward market trends. Unlike other trading strategies that rely on predicting market movements, trend followers believe trends persist and that prices will continue moving in the same direction until a reversal occurs. This strategy has been widely used in various financial markets, including stocks, commodities, forex, and more.
+Trend following is a type of trading strategy that aims to capitalize on the upward or downward market trends. Unlike other [trading strategies](../t/trading_strategies.md) that rely on predicting market movements, trend followers believe trends persist and that prices will continue moving in the same direction until a reversal occurs. This strategy has been widely used in various financial markets, including stocks, commodities, forex, and more.
 
 ## Origins and Philosophy
 

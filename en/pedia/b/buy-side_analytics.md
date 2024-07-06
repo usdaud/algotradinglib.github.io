@@ -62,10 +62,10 @@ Contribution analysis identifies the impact of each asset or strategy on the ove
 Various technologies and tools play a crucial role in enabling sophisticated buy-side analytics. These include:
 
 ### 1. Data Platforms and APIs
-Data platforms and APIs (Application Programming Interfaces) provide access to vast repositories of market and [alternative data](../a/alternative_data.md). Examples include Bloomberg Terminal, Refinitiv Eikon, and Quandl, which aggregate diverse data sets and offer them through user-friendly interfaces and APIs.
+Data platforms and APIs (Application Programming Interfaces) provide access to vast repositories of market and [alternative data](../a/alternative_data.md). Examples include [Bloomberg](../b/bloomberg.md) Terminal, Refinitiv Eikon, and [Quandl](../q/quandl.md), which aggregate diverse data sets and offer them through user-friendly interfaces and APIs.
 
 ### 2. Quantitative Analysis Software
-[Quantitative analysis](../q/quantitative_analysis.md) software like MATLAB, R, Python (with libraries such as Pandas, NumPy, SciPy), and specialized platforms such as QuantConnect and QuantLib are used to develop, test, and implement [trading models](../t/trading_models.md) and algorithms.
+[Quantitative analysis](../q/quantitative_analysis.md) software like MATLAB, R, Python (with libraries such as Pandas, NumPy, SciPy), and specialized platforms such as [QuantConnect](../q/quantconnect.md) and [QuantLib](../q/quantlib.md) are used to develop, test, and implement [trading models](../t/trading_models.md) and algorithms.
 
 #### a. Python for Finance
 Python, with its extensive libraries (e.g., pandas, NumPy, scikit-learn), is widely used in the finance industry for data analysis, machine learning, and algorithm development. The simplicity and versatility of Python make it an attractive choice for building and [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md).

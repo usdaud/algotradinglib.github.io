@@ -16,9 +16,9 @@ Historical data serves as the foundation for market [forecasting models](../f/fo
 
 Reliable data sources are crucial for accurate market forecasting. These sources can include stock exchanges, financial news providers, and specialized data vendors. Some well-known data providers include:
 
-- **Bloomberg**: [Bloomberg](https://www.bloomberg.com/)
-- **Thomson Reuters**: [Thomson Reuters](https://www.thomsonreuters.com/)
-- **Quandl (now part of Nasdaq)**: [Quandl](https://www.quandl.com/)
+- **[Bloomberg](../b/bloomberg.md)**: [Bloomberg](https://www.bloomberg.com/)
+- **Thomson [Reuters](../r/reuters.md)**: [Thomson Reuters](https://www.thomsonreuters.com/)
+- **[Quandl](../q/quandl.md) (now part of Nasdaq)**: [Quandl](https://www.quandl.com/)
 
 ### 2.3. Data Cleaning and Preprocessing
 

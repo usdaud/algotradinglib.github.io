@@ -97,7 +97,7 @@ While complex models can capture intricate patterns, they may lack interpretabil
 Numerix (https://www.numerix.com/) offers advanced analytics and financial technology solutions, including [regression analysis](../r/regression_analysis.md) tools, for [risk management](../r/risk_management.md) and trading.
 
 ### 2. QuantConnect
-QuantConnect (https://www.quantconnect.com/) provides [algorithmic trading](../a/algorithmic_trading.md) platforms with built-in support for various regression models and tools for strategy development and [backtesting](../b/backtesting.md).
+[QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/) provides [algorithmic trading](../a/algorithmic_trading.md) platforms with built-in support for various regression models and tools for strategy development and [backtesting](../b/backtesting.md).
 
 ### 3. Ayasdi
 Ayasdi (https://www.ayasdi.com/) specializes in machine learning and artificial intelligence for financial services, with robust [regression analysis](../r/regression_analysis.md) capabilities.

@@ -89,10 +89,10 @@ Several trading platforms and software tools allow traders to employ the 50-DMA 
 - **MetaTrader 4/5:** Popular among retail traders for forex and [commodities trading](../c/commodities_trading.md).
 [MetaTrader Website](https://www.metatrader4.com)
 
-- **ThinkorSwim:** Offered by TD Ameritrade, this platform allows for complex analyses including the 50-DMA.
+- **[ThinkorSwim](../t/thinkorswim.md):** Offered by TD Ameritrade, this platform allows for complex analyses including the 50-DMA.
 [ThinkorSwim Website](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
 
-- **NinjaTrader:** Known for its [algorithmic trading](../a/algorithmic_trading.md) capabilities.
+- **[NinjaTrader](../n/ninjatrader.md):** Known for its [algorithmic trading](../a/algorithmic_trading.md) capabilities.
 [NinjaTrader Website](https://ninjatrader.com)
 
 ## Conclusion

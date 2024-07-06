@@ -82,7 +82,7 @@ Reliable market data for the selected instruments is critical. Any inaccuracy ca
 
 ### Software and Tools
 
-Software solutions, such as Bloomberg Terminal (www.bloomberg.com) or Reuters Eikon (www.refinitiv.com/en/products/eikon-trading-software), are essential for accessing market data and performing complex calculations.
+Software solutions, such as [Bloomberg](../b/bloomberg.md) Terminal (www.[bloomberg](../b/bloomberg.md).com) or [Reuters](../r/reuters.md) Eikon (www.refinitiv.com/en/products/eikon-trading-software), are essential for accessing market data and performing complex calculations.
 
 ### Model Assumptions
 

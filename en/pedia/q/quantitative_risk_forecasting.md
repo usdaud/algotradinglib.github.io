@@ -39,7 +39,7 @@ Python and R are the predominant programming languages used in quantitative risk
 MATLAB is another powerful tool used for [quantitative analysis](../q/quantitative_analysis.md), providing robust toolboxes like the Financial Toolbox, which is tailored for [risk management](../r/risk_management.md) applications.
 
 ### 3. Bloomberg Terminal
-The Bloomberg Terminal is a vital tool in the finance industry, offering extensive financial data, analytics, and advanced risk modeling capabilities.
+The [Bloomberg](../b/bloomberg.md) Terminal is a vital tool in the finance industry, offering extensive financial data, analytics, and advanced risk modeling capabilities.
 
 ### 4. Risk Metrics
 RiskMetrics offers [risk management](../r/risk_management.md) software and datasets essential for risk forecasting, including volatility indices, benchmark data, and risk models.

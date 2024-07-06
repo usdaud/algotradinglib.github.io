@@ -71,7 +71,7 @@ PIMCO, a renowned investment management firm, specializes in [fixed income secur
 
 ### Bloomberg
 
-Bloomberg provides robust financial data and analytics tools that include detailed [bond convexity](../b/bond_convexity.md) metrics. Their platform helps investors and traders analyze and manage the convexity of their bond portfolios, facilitating better-informed decision-making. Bloomberg's services can be accessed on their [official website](https://www.bloomberg.com).
+[Bloomberg](../b/bloomberg.md) provides robust financial data and analytics tools that include detailed [bond convexity](../b/bond_convexity.md) metrics. Their platform helps investors and traders analyze and manage the convexity of their bond portfolios, facilitating better-informed decision-making. [Bloomberg](../b/bloomberg.md)'s services can be accessed on their [official website](https://www.bloomberg.com).
 
 ## Conclusion
 

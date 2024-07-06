@@ -18,7 +18,7 @@ The dynamic nature of the markets calls for traders to have a clear picture of t
 
 Some major data sources for order book information include:
 - **Exchange-provided APIs**: Many exchanges provide [real-time market data](../r/real-time_market_data.md) via APIs, such as the NASDAQ TotalView ITCH, NYSE's OpenBook, and more.
-- **Market Data Vendors**: Companies like **Refinitiv** (formerly Thomson Reuters) [Refinitiv](https://www.refinitiv.com/) and **Bloomberg** provide extensive market data, including order book data.
+- **Market Data Vendors**: Companies like **Refinitiv** (formerly Thomson [Reuters](../r/reuters.md)) [Refinitiv](https://www.refinitiv.com/) and **[Bloomberg](../b/bloomberg.md)** provide extensive market data, including order book data.
 - **Cryptocurrency Exchanges**: Platforms like **Binance** [Binance](https://www.binance.com/) and **Coinbase** [Coinbase](https://www.coinbase.com/) also offer real-time and historical order book data.
 
 ### Steps in Order Book Reconstruction

@@ -127,10 +127,10 @@ Implied and [historical volatility](../h/historical_volatility.md) can significa
 
 ## Technological Tools
 
-Utilizing modern trading platforms and analytical tools can help in crafting and monitoring put spread strategies efficiently. Platforms like Thinkorswim, Interactive Brokers, and TradeStation offer robust tools for analyzing option data, [backtesting](../b/backtesting.md) strategies, and executing trades seamlessly.
+Utilizing modern trading platforms and analytical tools can help in crafting and monitoring put spread strategies efficiently. Platforms like [Thinkorswim](../t/thinkorswim.md), Interactive Brokers, and [TradeStation](../t/tradestation.md) offer robust tools for analyzing option data, [backtesting](../b/backtesting.md) strategies, and executing trades seamlessly.
 
 ### Thinkorswim by TD Ameritrade
-Thinkorswim provides advanced charting capabilities, real-time data, and comprehensive options analytics. It allows traders to simulate trades, analyze risk profiles, and utilize various volatility metrics.
+[Thinkorswim](../t/thinkorswim.md) provides advanced charting capabilities, real-time data, and comprehensive options analytics. It allows traders to simulate trades, analyze risk profiles, and utilize various volatility metrics.
 
 [TD Ameritrade](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
 
@@ -140,7 +140,7 @@ Interactive Brokers offers global market access, advanced trading tools, and sop
 [Interactive Brokers](https://www.interactivebrokers.com/en/index.php?f=612&ns=T)
 
 ### TradeStation
-TradeStation is another excellent platform, known for its robust analysis tools and [backtesting](../b/backtesting.md) capabilities. It supports various options strategies, including spreads, and provides access to a wide range of financial instruments.
+[TradeStation](../t/tradestation.md) is another excellent platform, known for its robust analysis tools and [backtesting](../b/backtesting.md) capabilities. It supports various options strategies, including spreads, and provides access to a wide range of financial instruments.
 
 [TradeStation](https://www.tradestation.com/platforms-and-tools/trader-tools/)
 

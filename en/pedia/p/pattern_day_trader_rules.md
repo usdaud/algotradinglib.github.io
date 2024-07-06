@@ -1,16 +1,16 @@
 # Pattern Day Trader Rules
 
-In the United States, [day trading](../d/day_trading.md) is defined as the buying and selling of the same security on the same day in a margin account. The Financial Industry Regulatory Authority (FINRA) has established particular rules and requirements for traders who engage in [day trading](../d/day_trading.md) activities, specifically those who fall under the category of Pattern Day Traders (PDT). These rules are designed to mitigate risk and ensure that traders have enough capital in their accounts to cover the frequent trades that they execute.
+In the United States, [day trading](../d/day_trading.md) is defined as the buying and selling of the same security on the same day in a margin account. The Financial Industry Regulatory Authority ([FINRA](../f/finra.md)) has established particular rules and requirements for traders who engage in [day trading](../d/day_trading.md) activities, specifically those who fall under the category of Pattern Day Traders (PDT). These rules are designed to mitigate risk and ensure that traders have enough capital in their accounts to cover the frequent trades that they execute.
 
 ## Defining Pattern Day Trader
 
 A Pattern Day Trader (PDT) is any trader who executes four or more day trades within a rolling five-business-day period in a margin account. It's essential to note that it's not the number of shares or contracts traded that characterizes a PDT, but rather the number of trades. For example, if a trader buys and sells the same stock three times in one day, those would count as three trades.
 
-Once a trader is classified as a PDT, they are subject to specific regulatory requirements and must adhere to the rules established by FINRA.
+Once a trader is classified as a PDT, they are subject to specific regulatory requirements and must adhere to the rules established by [FINRA](../f/finra.md).
 
 ## The $25,000 Minimum Equity Requirement
 
-One of the primary rules for Pattern Day Traders is the minimum equity requirement. As per FINRA regulations, a PDT must maintain a minimum of $25,000 in their margin account at all times on any day that the customer day trades. The $25,000 must be in the form of cash or securities.
+One of the primary rules for Pattern Day Traders is the minimum equity requirement. As per [FINRA](../f/finra.md) regulations, a PDT must maintain a minimum of $25,000 in their margin account at all times on any day that the customer day trades. The $25,000 must be in the form of cash or securities.
 
 If the account value falls below this threshold, the trader will be prohibited from [day trading](../d/day_trading.md) until the minimum equity level is restored either through depositing additional cash or securities, or by selling existing positions (not exceeding the [day trading](../d/day_trading.md) limits).
 
@@ -40,11 +40,11 @@ However, if this buying power is exceeded, the trader will receive a Reg T margi
 
 ## Monitoring and Brokerage Requirements
 
-FINRA regulations require brokers to monitor their clients' activities to identify patterns characteristic of a PDT. If a client is identified as a PDT, the brokerage must enforce the FINRA rules appropriately. This includes ensuring the $25,000 minimum equity requirement is met, managing margin calls, and restricting trading activities if necessary.
+[FINRA](../f/finra.md) regulations require brokers to monitor their clients' activities to identify patterns characteristic of a PDT. If a client is identified as a PDT, the brokerage must enforce the [FINRA](../f/finra.md) rules appropriately. This includes ensuring the $25,000 minimum equity requirement is met, managing margin calls, and restricting trading activities if necessary.
 
 ### Broker's Responsibility
 
-Brokerages are required to provide reports to FINRA that detail the trading activities of their clients. They must also notify clients when they are designated as PDTs and explain the implications of this designation.
+Brokerages are required to provide reports to [FINRA](../f/finra.md) that detail the trading activities of their clients. They must also notify clients when they are designated as PDTs and explain the implications of this designation.
 
 Moreover, brokers must offer trading platforms and tools that allow clients to track their day trades, account balances, and compliance with PDT regulations. This transparency is vital in helping traders manage their activities and adhere to regulatory requirements.
 
@@ -86,4 +86,4 @@ Another nuanced strategy involves order splitting and staggered trade execution,
 
 Pattern Day Trader Rules are an essential component of the U.S. financial regulatory framework designed to control risk in the realm of [day trading](../d/day_trading.md). While these rules impose significant requirements and restrictions, they play a crucial role in maintaining market integrity and protecting both traders and brokerages from undue risk. Understanding and adhering to these rules is vital for anyone engaging in [day trading](../d/day_trading.md) activities in a margin account.
 
-More information on FINRA and its regulations can be found on their official website [FINRA](https://www.finra.org).
+More information on [FINRA](../f/finra.md) and its regulations can be found on their official website [FINRA](https://www.finra.org).

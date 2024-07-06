@@ -100,7 +100,7 @@ In a fast-moving market, the speed and efficiency of trade execution can signifi
 ## Regulation and Compliance
 
 ### SEC and FINRA
-In the United States, the Securities and Exchange Commission (SEC) and the Financial Industry Regulatory Authority (FINRA) oversee the regulation of trading activities, including [algorithmic trading](../a/algorithmic_trading.md) and asset allocation.
+In the United States, the Securities and Exchange Commission (SEC) and the Financial Industry Regulatory Authority ([FINRA](../f/finra.md)) oversee the regulation of trading activities, including [algorithmic trading](../a/algorithmic_trading.md) and asset allocation.
 
 ### MiFID II
 The Markets in Financial Instruments Directive II (MiFID II) is a regulatory framework in the European Union that impacts [algorithmic trading](../a/algorithmic_trading.md) by enforcing transparency and reducing systemic risk.

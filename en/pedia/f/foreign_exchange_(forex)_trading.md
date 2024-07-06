@@ -99,7 +99,7 @@ Machine learning models can be developed to predict price movements by training 
 Several platforms cater specifically to forex trading, offering real-time trading capabilities, charting tools, and algorithm integration. Popular platforms include:
 - **MetaTrader 4 (MT4)**: [MetaTrader 4](https://www.metatrader4.com/)
 - **MetaTrader 5 (MT5)**: [MetaTrader 5](https://www.metatrader5.com/)
-- **cTrader**: [cTrader](https://www.ctrader.com/)
+- **[cTrader](../c/ctrader.md)**: [cTrader](https://www.ctrader.com/)
 
 ### Broker Services
 

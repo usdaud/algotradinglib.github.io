@@ -17,7 +17,7 @@ Conversely, a bearish abandoned baby involves:
 Since the pattern in itself shows extensive gaps indicating a sudden change in the market momentum, algorithms can be programmed to identify such gaps and execute trades accordingly.
 
 Web Resources:
-- **TradingView** [Abandoned Baby Guide](https://www.tradingview.com/chart-patterns/abandoned-baby/)
+- **[TradingView](../t/tradingview.md)** [Abandoned Baby Guide](https://www.tradingview.com/chart-patterns/abandoned-baby/)
 
 ## 2. **Waterfall Decline Pattern**
 

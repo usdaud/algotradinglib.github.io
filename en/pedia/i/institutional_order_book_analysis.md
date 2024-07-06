@@ -61,8 +61,8 @@ Institutional traders must navigate a complex regulatory landscape. Regulations 
 ### Real-World Application
 Many companies offer tools and platforms for institutional [order book analysis](../o/order_book_analysis.md). For instance:
 
-- **Bloomberg** offers advanced analytics tools for [order book analysis](../o/order_book_analysis.md). [Bloomberg Analytics](https://www.bloomberg.com/professional/)
-- **Thomson Reuters** provides market data and trading tools. [Refinitiv](https://www.refinitiv.com/en/financial-data)
+- **[Bloomberg](../b/bloomberg.md)** offers advanced analytics tools for [order book analysis](../o/order_book_analysis.md). [Bloomberg Analytics](https://www.bloomberg.com/professional/)
+- **Thomson [Reuters](../r/reuters.md)** provides market data and trading tools. [Refinitiv](https://www.refinitiv.com/en/financial-data)
 - **NASDAQ** offers data feeds and trading technology solutions. [NASDAQ Trading Services](https://business.nasdaq.com/trade/)
 
 ### Conclusion

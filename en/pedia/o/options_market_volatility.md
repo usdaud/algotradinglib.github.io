@@ -72,9 +72,9 @@ Various tools are available to help options traders evaluate volatility and inco
 
 ### 4.1 Trading Platforms
 
-Modern trading platforms offer built-in [volatility analysis](../v/volatility_analysis.md) tools, providing traders with real-time data and historical trends. Platforms like TD Ameritrade's thinkorswim and Interactive Brokers provide comprehensive volatility analytics.
+Modern trading platforms offer built-in [volatility analysis](../v/volatility_analysis.md) tools, providing traders with real-time data and historical trends. Platforms like TD Ameritrade's [thinkorswim](../t/thinkorswim.md) and Interactive Brokers provide comprehensive volatility analytics.
 
-- **TD Ameritrade's thinkorswim:** [Link](https://www.tdameritrade.com/tools-and-platforms/thinkorswim/desktop.page)
+- **TD Ameritrade's [thinkorswim](../t/thinkorswim.md):** [Link](https://www.tdameritrade.com/tools-and-platforms/thinkorswim/desktop.page)
 - **Interactive Brokers:** [Link](https://www.interactivebrokers.com/en/index.php?f=1406)
 
 ### 4.2 Financial Models
@@ -83,10 +83,10 @@ Advanced financial models and software, such as MATLAB and R, allow users to cre
 
 ### 4.3 Market Data Providers
 
-Real-time and historical market data from providers like Bloomberg and Reuters can furnish traders with up-to-date information on volatility metrics.
+Real-time and historical market data from providers like [Bloomberg](../b/bloomberg.md) and [Reuters](../r/reuters.md) can furnish traders with up-to-date information on volatility metrics.
 
-- **Bloomberg:** [Link](https://www.bloomberg.com/professional/)
-- **Reuters:** [Link](https://www.reuters.com/markets/companies/)
+- **[Bloomberg](../b/bloomberg.md):** [Link](https://www.bloomberg.com/professional/)
+- **[Reuters](../r/reuters.md):** [Link](https://www.reuters.com/markets/companies/)
 
 ## 5. Conclusion
 

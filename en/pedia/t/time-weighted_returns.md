@@ -90,6 +90,6 @@ Time-Weighted Returns are widely used by mutual funds, hedge funds, and investme
 
 - **Vanguard**: Vanguard, a major player in the mutual fund industry, reports TWR for its wide array of funds, allowing investors to gauge performance objectively. [Vanguard Performance Reporting](https://investor.vanguard.com/performance)
 - **Fidelity**: Fidelity Investment uses TWR to provide comparative [performance metrics](../p/performance_metrics.md) across their offerings, ensuring that investors can make informed decisions. [Fidelity Performance Data](https://www.fidelity.com/mutual-funds/investment-options/performance)
-- **Morningstar**: Morningstar, a leading investment research firm, incorporates TWR in its fund analysis and ratings, enhancing the comparability and reliability of its data. [Morningstar Methodology](https://www.morningstar.com/learn/glossary/time-weighted-rate-of-return)
+- **[Morningstar](../m/morningstar.md)**: [Morningstar](../m/morningstar.md), a leading investment research firm, incorporates TWR in its fund analysis and ratings, enhancing the comparability and reliability of its data. [Morningstar Methodology](https://www.morningstar.com/learn/glossary/time-weighted-rate-of-return)
 
 Overall, Time-Weighted Returns are indispensable in the financial industry for providing unbiased [performance metrics](../p/performance_metrics.md). It remains a cornerstone in performance evaluation, ensuring transparency and fairness in the reporting of investment returns.

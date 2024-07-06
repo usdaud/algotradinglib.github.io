@@ -32,7 +32,7 @@ Several software tools and platforms help traders identify [seasonality patterns
    [SeasonalCharts](https://www.seasonalcharts.com/)
 2. **Moore Research Center, Inc. (MRCI)**: Offers seasonal studies and [trading strategies](../t/trading_strategies.md) for futures and commodities.
    [Moore Research](http://www.mrci.com/)
-3. **TradeStation**: A popular trading platform that includes tools for seasonal analysis.
+3. **[TradeStation](../t/tradestation.md)**: A popular trading platform that includes tools for seasonal analysis.
    [TradeStation](https://www.tradestation.com/)
 
 ### Integrating Seasonality in Algorithmic Trading

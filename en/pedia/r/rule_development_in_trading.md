@@ -87,8 +87,8 @@ Integration of platforms like [TensorFlow](https://www.tensorflow.org/) for Pyth
 
 Numerous frameworks help simplify rule development and algo trading:
 
-- **QuantConnect:** An open-source platform that supports multiple languages and connects to live markets for automated trading.
-- **Quantlib:** A free/open-source library for [quantitative finance](../q/quantitative_finance.md).
+- **[QuantConnect](../q/quantconnect.md):** An open-source platform that supports multiple languages and connects to live markets for automated trading.
+- **[Quantlib](../q/quantlib.md):** A free/open-source library for [quantitative finance](../q/quantitative_finance.md).
 - **ib_insync:** A Pythonic wrapper for the Interactive Brokers API that simplifies rule implementation.
 
 ### Regulatory Considerations

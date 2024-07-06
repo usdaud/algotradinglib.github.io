@@ -61,17 +61,17 @@ Incorporating [volume indicators](../v/volume_indicators.md) into [trading algor
 
 ### Example Companies Utilizing Volume Indicator Analysis 
 
-1. **TradeStation**
+1. **[TradeStation](../t/tradestation.md)**
    - [TradeStation](https://www.tradestation.com)
-   - TradeStation provides advanced trading platforms that include [volume analysis](../v/volume_analysis.md) tools for both manual and algorithmic traders. Their software supports various [volume indicators](../v/volume_indicators.md) which can be used to develop and test [trading strategies](../t/trading_strategies.md).
+   - [TradeStation](../t/tradestation.md) provides advanced trading platforms that include [volume analysis](../v/volume_analysis.md) tools for both manual and algorithmic traders. Their software supports various [volume indicators](../v/volume_indicators.md) which can be used to develop and test [trading strategies](../t/trading_strategies.md).
 
 2. **MetaTrader 5 (MetaQuotes)**
    - [MetaTrader 5](https://www.metatrader5.com)
    - MetaTrader 5, developed by MetaQuotes, is a popular trading platform that supports automated trading. It includes various [volume indicators](../v/volume_indicators.md) such as OBV, MFI, and A/D Line, which can be integrated into trading robots (Expert Advisors).
 
-3. **QuantConnect**
+3. **[QuantConnect](../q/quantconnect.md)**
    - [QuantConnect](https://www.quantconnect.com)
-   - QuantConnect is an [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to develop, backtest, and deploy [trading algorithms](../t/trading_algorithms.md). It provides various [volume indicators](../v/volume_indicators.md) which can be used within their Python-based algorithm development environment.
+   - [QuantConnect](../q/quantconnect.md) is an [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to develop, backtest, and deploy [trading algorithms](../t/trading_algorithms.md). It provides various [volume indicators](../v/volume_indicators.md) which can be used within their Python-based algorithm development environment.
 
 4. **Interactive Brokers**
    - [Interactive Brokers](https://www.interactivebrokers.com)

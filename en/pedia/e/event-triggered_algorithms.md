@@ -9,7 +9,7 @@ Event-triggered algorithms operate by continuously monitoring various data sourc
 #### Data Sources and Event Types
 
 1. **News Feeds and Financial Reports:**
-   Event-triggered algorithms often utilize real-time news feeds from sources like Bloomberg, Reuters, and Dow Jones. These feeds provide timely updates on market-moving events such as changes in interest rates, corporate earnings, and [economic indicators](../e/economic_indicators.md). Financial reports and SEC filings are also crucial, as they provide detailed insights into company performance and can trigger significant price movements.
+   Event-triggered algorithms often utilize real-time news feeds from sources like [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), and Dow Jones. These feeds provide timely updates on market-moving events such as changes in interest rates, corporate earnings, and [economic indicators](../e/economic_indicators.md). Financial reports and SEC filings are also crucial, as they provide detailed insights into company performance and can trigger significant price movements.
 
 2. **Social Media and [Sentiment Analysis](../s/sentiment_analysis.md):**
    Platforms like Twitter, Reddit, and StockTwits have become valuable sources of information. Algorithms analyze social media chatter to gauge market sentiment and identify potential trading opportunities. For example, a sudden surge in positive mentions of a stock on Twitter could signal an upcoming price increase.
@@ -72,13 +72,13 @@ Despite their advantages, event-triggered algorithms face several challenges:
 
 Several companies specialize in developing and providing tools for event-triggered algorithms:
 
-1. **Thomson Reuters:** 
+1. **Thomson [Reuters](../r/reuters.md):** 
    Provides news analytics and machine-readable news services that help in developing event-triggered [trading strategies](../t/trading_strategies.md). More about their services can be found on their [official website](https://www.thomsonreuters.com).
 
-2. **Bloomberg:**
+2. **[Bloomberg](../b/bloomberg.md):**
    Offers a range of data feeds, news services, and analytics tailored for [event-driven trading](../e/event-driven_trading.md). Their solutions are extensively used by traders aiming to leverage real-time events. Details can be found on their [website](https://www.bloomberg.com).
 
-3. **RavenPack:**
+3. **[RavenPack](../r/ravenpack.md):**
    A leader in big data analytics for finance, their platforms offer tools for event detection and [sentiment analysis](../s/sentiment_analysis.md), aiding in the development of event-triggered algorithms. Additional information is available on their [website](https://www.ravenpack.com).
 
 4. **Newsquawk:**

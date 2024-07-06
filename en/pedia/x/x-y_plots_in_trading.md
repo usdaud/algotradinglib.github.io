@@ -48,7 +48,7 @@ Traders may plot different moving averages on an X-Y plot to see how short-term 
 ## Tools and Software
 Several tools and platforms provide functionalities for creating and analyzing X-Y plots in trading:
 - **MetaTrader 5**: Offers advanced charting features, including the ability to create custom X-Y plots. [MetaTrader 5](https://www.metatrader5.com)
-- **TradingView**: An online platform that provides extensive charting and [technical analysis](../t/technical_analysis.md) tools, including scatter plots for traders. [TradingView](https://www.tradingview.com)
+- **[TradingView](../t/tradingview.md)**: An online platform that provides extensive charting and [technical analysis](../t/technical_analysis.md) tools, including scatter plots for traders. [TradingView](https://www.tradingview.com)
 - **MATLAB**: Used for more advanced statistical and [quantitative analysis](../q/quantitative_analysis.md), MATLAB's plotting capabilities are essential for complex data visualizations in trading. [MATLAB](https://www.mathworks.com/products/matlab.html)
 - **Python Libraries**: Libraries such as Matplotlib and Seaborn enable traders to create custom X-Y plots for detailed analysis. [Matplotlib](https://matplotlib.org), [Seaborn](https://seaborn.pydata.org)
 

@@ -31,7 +31,7 @@ Suppose you have an investment with an initial value of $10,000, and after one y
 ## Tools and Platforms
 
 ### QuantConnect
-QuantConnect offers a comprehensive platform for designing, [backtesting](../b/backtesting.md), and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies. The platform supports multiple programming languages and provides robust tools for analyzing [performance metrics](../p/performance_metrics.md), including the 1-year yield.
+[QuantConnect](../q/quantconnect.md) offers a comprehensive platform for designing, [backtesting](../b/backtesting.md), and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies. The platform supports multiple programming languages and provides robust tools for analyzing [performance metrics](../p/performance_metrics.md), including the 1-year yield.
 
 [QuantConnect](https://www.quantconnect.com/)
 

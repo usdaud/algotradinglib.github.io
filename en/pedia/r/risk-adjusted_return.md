@@ -74,7 +74,7 @@ In [algorithmic trading](../a/algorithmic_trading.md), the [Sortino ratio](../s/
 ### Algotrading Firms
 Several [algorithmic trading](../a/algorithmic_trading.md) firms utilize risk-adjusted return metrics in their day-to-day operations to ensure their strategies are both profitable and sustainable in terms of risk:
 
-1. **QuantConnect**: An open-source, cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform where users backtest and deploy strategies using various [risk metrics](../r/risk_metrics.md) including Sharpe and Sortino ratios. [QuantConnect](https://www.quantconnect.com/)
+1. **[QuantConnect](../q/quantconnect.md)**: An open-source, cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform where users backtest and deploy strategies using various [risk metrics](../r/risk_metrics.md) including Sharpe and Sortino ratios. [QuantConnect](https://www.quantconnect.com/)
    
 2. **Kensho Technologies**: A technology company providing machine learning and analytics platforms for algotrading and other financial fields. Kensho leverages risk-adjusted return metrics to enhance [trading algorithms](../t/trading_algorithms.md). [Kensho Technologies](https://www.kensho.com/)
 

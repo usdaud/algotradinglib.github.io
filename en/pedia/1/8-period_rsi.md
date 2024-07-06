@@ -78,8 +78,8 @@ The 8-period RSI is shorter-term and more sensitive to recent price movements co
 Numerous platforms and tools are available to help traders develop, backtest, and implement RSI-based algorithms:
 
 - **MetaTrader 4 & 5**: Popular trading platforms that support automated trading through Expert Advisors (EAs). 
-- **NinjaTrader**: Offers advanced charting and [algorithmic trading](../a/algorithmic_trading.md) capabilities.
-- **QuantConnect**: A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that allows [backtesting](../b/backtesting.md) and live trading using Python and C#.
+- **[NinjaTrader](../n/ninjatrader.md)**: Offers advanced charting and [algorithmic trading](../a/algorithmic_trading.md) capabilities.
+- **[QuantConnect](../q/quantconnect.md)**: A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that allows [backtesting](../b/backtesting.md) and live trading using Python and C#.
 - **Interactive Brokers API**: Allows for direct access to market data and trading operations through custom-built algorithms.
 
 ## Real-World Example

@@ -62,17 +62,17 @@ In bond analysis, fundamental analysts assess the issuing entity’s ability to 
 Some notable companies who provide tools and services for fundamental analysis include:
 
 ### 1. Bloomberg L.P.
-Bloomberg is a global leader in business and financial data, providing a wide array of tools for fundamental analysis through its Bloomberg Terminal.
+[Bloomberg](../b/bloomberg.md) is a global leader in business and financial data, providing a wide array of tools for fundamental analysis through its [Bloomberg](../b/bloomberg.md) Terminal.
 
 [Learn more about Bloomberg](https://www.bloomberg.com)
 
 ### 2. Morningstar
-Morningstar offers in-depth independent analysis on a wide range of investment products, including stocks, bonds, and mutual funds.
+[Morningstar](../m/morningstar.md) offers in-depth independent analysis on a wide range of investment products, including stocks, bonds, and mutual funds.
 
 [Learn more about Morningstar](https://www.morningstar.com)
 
 ### 3. FactSet
-FactSet provides integrated financial information and analytical applications to the global investment community, aiding in fundamental analysis.
+[FactSet](../f/factset.md) provides integrated financial information and analytical applications to the global investment community, aiding in fundamental analysis.
 
 [Learn more about FactSet](https://www.factset.com)
 

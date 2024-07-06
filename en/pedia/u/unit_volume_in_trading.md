@@ -14,7 +14,7 @@ Unit volume is commonly reported in the following ways:
  
 ### Data Sources and Tools
 To measure unit volume, traders use various platforms and services like:
-- **Bloomberg Terminal**: Offers comprehensive trading information including unit volumes for a wide range of assets.
+- **[Bloomberg](../b/bloomberg.md) Terminal**: Offers comprehensive trading information including unit volumes for a wide range of assets.
 - **Yahoo Finance**: Provides free access to historical and current trading volumes.
 - **Google Finance**: Another source for obtaining data on unit volumes easily accessible online.
   

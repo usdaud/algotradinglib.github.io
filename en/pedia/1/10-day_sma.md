@@ -128,14 +128,14 @@ MetaTrader 4 is one of the most popular trading platforms that allow traders to 
 
 ### TradeStation
 
-TradeStation provides robust tools for incorporating the 10-Day SMA in [trading algorithms](../t/trading_algorithms.md):
+[TradeStation](../t/tradestation.md) provides robust tools for incorporating the 10-Day SMA in [trading algorithms](../t/trading_algorithms.md):
 
-1. **EasyLanguage**: Write scripts in TradeStation’s proprietary EasyLanguage to define buy and sell conditions based on the 10-Day SMA.
-2. **[Backtesting](../b/backtesting.md)**: Use TradeStation’s [backtesting](../b/backtesting.md) capabilities to evaluate the historical performance of your 10-Day SMA strategy.
+1. **EasyLanguage**: Write scripts in [TradeStation](../t/tradestation.md)’s proprietary EasyLanguage to define buy and sell conditions based on the 10-Day SMA.
+2. **[Backtesting](../b/backtesting.md)**: Use [TradeStation](../t/tradestation.md)’s [backtesting](../b/backtesting.md) capabilities to evaluate the historical performance of your 10-Day SMA strategy.
 
 ### QuantConnect
 
-QuantConnect is an open-source trading platform that supports [algorithmic trading](../a/algorithmic_trading.md) with Python. Here’s how to implement the 10-Day SMA:
+[QuantConnect](../q/quantconnect.md) is an open-source trading platform that supports [algorithmic trading](../a/algorithmic_trading.md) with Python. Here’s how to implement the 10-Day SMA:
 
 1. **Define the Universe**: Select the assets for trading.
 2. **Add Indicator**: Use the `SMA` function to create a 10-Day Simple Moving Average.

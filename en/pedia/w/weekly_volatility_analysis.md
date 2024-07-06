@@ -66,9 +66,9 @@ To conduct a weekly [volatility analysis](../v/volatility_analysis.md):
 
 Several tools and platforms specialize in [volatility analysis](../v/volatility_analysis.md) and can be integrated into [algorithmic trading](../a/algorithmic_trading.md) systems:
 
-1. **Bloomberg Terminal**: Provides extensive financial data, including [volatility analysis](../v/volatility_analysis.md) tools. [Bloomberg](https://www.bloomberg.com/enterprise/what-is-the-bloomberg-terminal/)
+1. **[Bloomberg](../b/bloomberg.md) Terminal**: Provides extensive financial data, including [volatility analysis](../v/volatility_analysis.md) tools. [Bloomberg](https://www.bloomberg.com/enterprise/what-is-the-bloomberg-terminal/)
 2. **Python Libraries**: Libraries like Pandas, NumPy, and SciPy are widely used for volatility calculations and analysis.
-3. **Financial APIs**: Services like Alpha Vantage and Quandl provide historical price data suitable for volatility calculations.
+3. **Financial APIs**: Services like Alpha Vantage and [Quandl](../q/quandl.md) provide historical price data suitable for volatility calculations.
 
 ## Example Python Implementation
 

@@ -1,25 +1,25 @@
-﻿# Livevol
+# Livevol
 
 ## Overview
 Livevol is a comprehensive options trading and analysis platform designed to provide traders with advanced tools for market analysis, strategy development, and trading execution. Acquired by Cboe Global Markets, Livevol offers a suite of services that cater to both retail and institutional traders, focusing on options trading and data analytics.
 
 ## Features
 1. **Options Analytics**: Advanced tools for analyzing options markets, including volatility surfaces, skew charts, and implied volatility analytics.
-2. **Real-Time Data**: Streaming real-time market data for options, stocks, and futures.
-3. **Historical Data**: Extensive historical data for backtesting and market analysis.
-4. **Strategy Development**: Tools for creating, testing, and optimizing options trading strategies.
+2. **Real-Time Data**: Streaming [real-time market data](../r/real-time_market_data.md) for options, stocks, and futures.
+3. **Historical Data**: Extensive historical data for [backtesting](../b/backtesting.md) and market analysis.
+4. **Strategy Development**: Tools for creating, testing, and optimizing [options trading strategies](../o/options_trading_strategies.md).
 5. **Execution**: Integration with brokerage accounts for direct trading execution.
 6. **Customizable Dashboards**: User-configurable dashboards to monitor markets, strategies, and positions.
-7. **Volatility Analysis**: Detailed volatility analysis tools to help traders understand market sentiment and price movements.
+7. **[Volatility Analysis](../v/volatility_analysis.md)**: Detailed [volatility analysis](../v/volatility_analysis.md) tools to help traders understand market sentiment and price movements.
 8. **Alerts and Notifications**: Customizable alerts for price movements, volatility changes, and other market events.
 9. **Educational Resources**: Access to educational materials and resources to enhance trading knowledge and skills.
 
 ## Key Components
 - **Livevol X**: The main trading and analysis platform offering a comprehensive suite of tools for options traders.
 - **Livevol Pro**: An advanced options analytics platform designed for professional traders and institutions.
-- **Historical Data Services**: Provides historical options data for backtesting and research purposes.
+- **Historical Data Services**: Provides historical options data for [backtesting](../b/backtesting.md) and research purposes.
 - **Volatility Surfaces**: Tools for analyzing implied volatility across different strikes and expirations.
-- **Risk Management**: Tools for monitoring and managing trading risks.
+- **[Risk Management](../r/risk_management.md)**: Tools for monitoring and managing trading risks.
 
 ## Integrations
 Livevol integrates with various brokerage platforms and data providers to offer a seamless trading experience. Some notable integrations include:
@@ -35,7 +35,7 @@ Livevol provides robust support through detailed documentation, user guides, and
 - **Retail Options Traders**: Utilized by retail traders for its advanced options analytics and strategy development tools.
 - **Institutional Traders**: Supports institutional traders with professional-grade tools for market analysis and trading execution.
 - **Market Analysts**: Used by analysts to study market trends, volatility, and options pricing.
-- **Quantitative Researchers**: Helps researchers backtest trading strategies and analyze historical market data.
+- **Quantitative Researchers**: Helps researchers backtest [trading strategies](../t/trading_strategies.md) and analyze historical market data.
 - **Educational Purposes**: Provides educational resources for learning about options trading and market analysis.
 
-Livevol’s comprehensive features and advanced analytics make it an ideal platform for traders and analysts looking to gain deeper insights into the options markets and improve their trading performance.
+Livevol’s comprehensive features and advanced analytics make it an ideal platform for traders and analysts looking to gain deeper insights into the options markets and improve their [trading performance](../t/trading_performance.md).

@@ -68,7 +68,7 @@ Using Volume Spread Techniques allows traders to refine their entry and exit poi
 TradeGuider (www.tradeguider.com) provides a suite of tools for implementing Volume [Spread Analysis](../s/spread_analysis.md). Their VSA tools can be integrated with various trading platforms to give real-time analysis and alerts based on VSA principles.
 
 ### TradingView
-TradingView (www.tradingview.com) features a range of VSA-based indicators and scripts developed by the community, allowing customization and integration into your trading strategy.
+[TradingView](../t/tradingview.md) (www.[tradingview](../t/tradingview.md).com) features a range of VSA-based indicators and scripts developed by the community, allowing customization and integration into your trading strategy.
 
 ### MetaStock
 MetaStock (www.metastock.com) offers plugins and systems designed around VSA concepts, providing [backtesting](../b/backtesting.md), screening, and real-time advice based on volume spread techniques.
@@ -78,4 +78,4 @@ Sierra Chart (www.sierrachart.com) is another platform that supports various VSA
 
 ## Conclusion
 
-Volume Spread Techniques provide a nuanced way to analyze market movements, particularly looking for the footprints of smart money. By examining the relationships between volume and price spreads, traders can infer the underlying strength or weakness in a market, identify potential reversals, and better manage their trades. Platforms like TradeGuider, TradingView, MetaStock, and Sierra Chart offer sophisticated tools to apply these techniques in real-time trading.
+Volume Spread Techniques provide a nuanced way to analyze market movements, particularly looking for the footprints of smart money. By examining the relationships between volume and price spreads, traders can infer the underlying strength or weakness in a market, identify potential reversals, and better manage their trades. Platforms like TradeGuider, [TradingView](../t/tradingview.md), MetaStock, and Sierra Chart offer sophisticated tools to apply these techniques in real-time trading.

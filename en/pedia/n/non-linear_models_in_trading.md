@@ -90,7 +90,7 @@ Kensho provides analytical solutions leveraging machine learning and non-linear 
 Alpaca offers an API platform for [algorithmic trading](../a/algorithmic_trading.md), allowing traders to deploy and backtest non-linear models easily.
 
 ### 4. **QuantConnect** ([link](https://www.quantconnect.com/))
-QuantConnect is an [algorithmic trading](../a/algorithmic_trading.md) platform that supports a variety of non-linear models for developing and [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md).
+[QuantConnect](../q/quantconnect.md) is an [algorithmic trading](../a/algorithmic_trading.md) platform that supports a variety of non-linear models for developing and [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md).
 
 ### 5. **Two Sigma** ([link](https://www.twosigma.com/))
 Two Sigma uses advanced non-linear models and machine learning techniques to identify market trends and develop [quantitative trading](../q/quantitative_trading.md) strategies.

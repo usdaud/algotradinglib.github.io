@@ -90,7 +90,7 @@ In high-frequency trading (HFT), precise and rapid execution is crucial. By inco
 
 ### Case Study 3: Retail Trader Using QuantConnect
 
-A retail trader using the QuantConnect platform implemented a Gamma Weighted algorithm. The trader could effectively balance their options portfolio, leading to a more stable return profile with less sensitivity to sudden market movements. Through continuous [backtesting](../b/backtesting.md) and adjustments, the algorithm improved the trader’s overall performance.
+A retail trader using the [QuantConnect](../q/quantconnect.md) platform implemented a Gamma Weighted algorithm. The trader could effectively balance their options portfolio, leading to a more stable return profile with less sensitivity to sudden market movements. Through continuous [backtesting](../b/backtesting.md) and adjustments, the algorithm improved the trader’s overall performance.
 
 ### Case Study 4: Market Making
 

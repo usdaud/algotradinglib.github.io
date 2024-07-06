@@ -100,7 +100,7 @@ Various software and tools are available for constructing and analyzing the zero
 
 ### Bloomberg Terminal
 
-Bloomberg provides comprehensive tools for [yield curve](../y/yield_curve.md) analysis, including data on different fixed-income instruments and advanced curve fitting models. For more information, visit [Bloomberg](https://www.bloomberg.com/).
+[Bloomberg](../b/bloomberg.md) provides comprehensive tools for [yield curve](../y/yield_curve.md) analysis, including data on different fixed-income instruments and advanced curve fitting models. For more information, visit [Bloomberg](https://www.bloomberg.com/).
 
 ### Thomson Reuters Eikon
 
@@ -108,7 +108,7 @@ Eikon offers a wide range of tools for [yield curve](../y/yield_curve.md) constr
 
 ### QuantLib
 
-QuantLib is an open-source library for [quantitative finance](../q/quantitative_finance.md), including tools for [yield curve](../y/yield_curve.md) construction, bond pricing, and [risk management](../r/risk_management.md). For more information, visit [QuantLib](https://www.quantlib.org/).
+[QuantLib](../q/quantlib.md) is an open-source library for [quantitative finance](../q/quantitative_finance.md), including tools for [yield curve](../y/yield_curve.md) construction, bond pricing, and [risk management](../r/risk_management.md). For more information, visit [QuantLib](https://www.quantlib.org/).
 
 ## Conclusion
 

@@ -63,7 +63,7 @@ In this case, the total premium collected is $4. If the stock price remains betw
 
 Several trading platforms provide tools and resources to execute [Short Strangle](../s/short_strangle.md) strategies effectively. Some popular platforms include:
 
-- **Thinkorswim by TD Ameritrade**: Known for its advanced trading tools and robust options analytics.
+- **[Thinkorswim](../t/thinkorswim.md) by TD Ameritrade**: Known for its advanced trading tools and robust options analytics.
   
   [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
   

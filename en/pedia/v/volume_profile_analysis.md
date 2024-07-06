@@ -43,9 +43,9 @@ In [algorithmic trading](../a/algorithmic_trading.md), [Volume Profile](../v/vol
 
 Several trading platforms and tools offer [Volume Profile](../v/volume_profile.md) capabilities. Some widely used ones include:
 
-- **ThinkOrSwim (TOS)**: Provided by TD Ameritrade, it offers comprehensive [Volume Profile](../v/volume_profile.md) analysis tools. (https://www.tdameritrade.com/tools-and-platforms/thinkorswim/personal-trading.html)
-- **TradingView**: An advanced charting platform with [Volume Profile](../v/volume_profile.md) tools available for more in-depth market analysis. (https://www.tradingview.com/)
-- **NinjaTrader**: A trading platform known for its advanced [Volume Profile](../v/volume_profile.md) indicators. (https://ninjatrader.com/)
+- **[ThinkOrSwim](../t/thinkorswim.md) (TOS)**: Provided by TD Ameritrade, it offers comprehensive [Volume Profile](../v/volume_profile.md) analysis tools. (https://www.tdameritrade.com/tools-and-platforms/[thinkorswim](../t/thinkorswim.md)/personal-trading.html)
+- **[TradingView](../t/tradingview.md)**: An advanced charting platform with [Volume Profile](../v/volume_profile.md) tools available for more in-depth market analysis. (https://www.[tradingview](../t/tradingview.md).com/)
+- **[NinjaTrader](../n/ninjatrader.md)**: A trading platform known for its advanced [Volume Profile](../v/volume_profile.md) indicators. (https://[ninjatrader](../n/ninjatrader.md).com/)
 
 ### Conclusion
 

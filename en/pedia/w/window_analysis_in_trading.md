@@ -56,7 +56,7 @@ Window analysis is critical in trading for several reasons:
 
 ### Case Studies and Examples
 
-1. **QuantConnect**:
+1. **[QuantConnect](../q/quantconnect.md)**:
     [QuantConnect](https://www.quantconnect.com/) is a platform that offers [algorithmic trading](../a/algorithmic_trading.md) and [backtesting](../b/backtesting.md) solutions. It supports window analysis through its extensive library of financial data and tools, enabling traders to implement and test window analysis strategies.
 
 2. **Kaggle Competitions**:

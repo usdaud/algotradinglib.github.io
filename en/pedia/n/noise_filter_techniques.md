@@ -102,11 +102,11 @@ Low-pass filters allow signals with a frequency lower than a designated cutoff f
 
 Several companies specialize in providing [algorithmic trading](../a/algorithmic_trading.md) solutions that incorporate sophisticated noise filter techniques:
 
-- **QuantConnect**: [quantconnect.com](https://www.quantconnect.com)
-  - QuantConnect provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports a variety of noise filtering techniques, including moving averages, Kalman filters, [Bollinger Bands](../b/bollinger_bands.md), and Fourier Transform-based methods.
+- **[QuantConnect](../q/quantconnect.md)**: [quantconnect.com](https://www.quantconnect.com)
+  - [QuantConnect](../q/quantconnect.md) provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports a variety of noise filtering techniques, including moving averages, Kalman filters, [Bollinger Bands](../b/bollinger_bands.md), and Fourier Transform-based methods.
 
-- **AlgoTrader**: [algotrader.com](https://www.algotrader.com)
-  - AlgoTrader offers institutional-grade [algorithmic trading](../a/algorithmic_trading.md) software that integrates advanced noise filtering techniques to enhance trading signal accuracy and improve overall [trading performance](../t/trading_performance.md).
+- **[AlgoTrader](../a/algotrader.md)**: [algotrader.com](https://www.algotrader.com)
+  - [AlgoTrader](../a/algotrader.md) offers institutional-grade [algorithmic trading](../a/algorithmic_trading.md) software that integrates advanced noise filtering techniques to enhance trading signal accuracy and improve overall [trading performance](../t/trading_performance.md).
 
 - **Kensho Technologies**: [kensho.com](https://www.kensho.com)
   - Kensho Technologies uses artificial intelligence and advanced analytics, including noise filtering techniques like Wavelet Transform, to offer refined and actionable market insights.

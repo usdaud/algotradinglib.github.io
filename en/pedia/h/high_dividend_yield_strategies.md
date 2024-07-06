@@ -114,10 +114,10 @@ Once the strategy is validated, it can be deployed in a live [trading environmen
 
 Several firms and platforms specialize in facilitating [algorithmic trading](../a/algorithmic_trading.md), including high [dividend yield strategies](../d/dividend_yield_strategies.md):
 
-1. **QuantConnect**: An [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to write, test, and deploy [trading algorithms](../t/trading_algorithms.md) in multiple asset classes.
+1. **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to write, test, and deploy [trading algorithms](../t/trading_algorithms.md) in multiple asset classes.
    - [QuantConnect](https://www.quantconnect.com/)
 
-2. **TradeStation**: A broker-dealer and futures commission merchant offering advanced trading solutions, including for algorithmic strategies.
+2. **[TradeStation](../t/tradestation.md)**: A broker-dealer and futures commission merchant offering advanced trading solutions, including for algorithmic strategies.
    - [TradeStation](https://www.tradestation.com/)
 
 3. **Interactive Brokers**: A comprehensive trading platform offering advanced tools and APIs for automated trading.

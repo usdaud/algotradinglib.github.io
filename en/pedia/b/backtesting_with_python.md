@@ -19,7 +19,7 @@ Several Python libraries offer comprehensive tools for [backtesting](../b/backte
 
 ### 1. Backtrader
 
-Backtrader is a versatile framework for [backtesting](../b/backtesting.md) and trading. It supports multiple data feeds, indicators, and more, making it a highly robust solution.
+[Backtrader](../b/backtrader.md) is a versatile framework for [backtesting](../b/backtesting.md) and trading. It supports multiple data feeds, indicators, and more, making it a highly robust solution.
 
 - Documentation: [Backtrader](https://www.backtrader.com/docu/)
 
@@ -43,7 +43,7 @@ BT is a flexible Python [backtesting](../b/backtesting.md) library that focuses 
 
 ### 5. QuantConnect
 
-QuantConnect provides a comprehensive [algorithmic trading](../a/algorithmic_trading.md) platform with extensive [backtesting](../b/backtesting.md) capabilities built-in. It’s not purely a Python library but offers integrations.
+[QuantConnect](../q/quantconnect.md) provides a comprehensive [algorithmic trading](../a/algorithmic_trading.md) platform with extensive [backtesting](../b/backtesting.md) capabilities built-in. It’s not purely a Python library but offers integrations.
 
 - Documentation: [QuantConnect](https://www.quantconnect.com/)
 
@@ -72,10 +72,10 @@ Here's a simplified workflow for [backtesting](../b/backtesting.md) a trading st
 
 ### Example: A Simple Moving Average Crossover Strategy
 
-Below is an example of implementing a simple moving average crossover strategy using Backtrader:
+Below is an example of implementing a simple moving average crossover strategy using [Backtrader](../b/backtrader.md):
 
 ```python
-import backtrader as bt
+import [backtrader](../b/backtrader.md) as bt
 import datetime
 
 # Create a Strategy

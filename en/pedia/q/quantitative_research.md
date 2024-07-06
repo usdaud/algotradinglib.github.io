@@ -88,8 +88,8 @@ Hedge funds employing quantitative strategies leverage these research techniques
 ### Quantitative Research Platforms and Tools
 
 Several platforms and tools support the rigorous demands of quantitative research:
-- **QuantConnect**: An [algorithmic trading](../a/algorithmic_trading.md) platform providing data and [backtesting](../b/backtesting.md) tools ([link](https://www.quantconnect.com/)).
-- **Quantlib**: Open-source library for [quantitative finance](../q/quantitative_finance.md) ([link](https://www.quantlib.org/)).
+- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform providing data and [backtesting](../b/backtesting.md) tools ([link](https://www.quantconnect.com/)).
+- **[Quantlib](../q/quantlib.md)**: Open-source library for [quantitative finance](../q/quantitative_finance.md) ([link](https://www.quantlib.org/)).
 
 ### Machine Learning in Quantitative Research
 

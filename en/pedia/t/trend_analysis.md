@@ -49,13 +49,13 @@ Trend analysis in [algorithmic trading](../a/algorithmic_trading.md) is a system
 1. **MetaTrader 4/5**: Popular trading platforms that offer automated trading capabilities and [technical analysis](../t/technical_analysis.md) tools.
    - [MetaTrader](https://www.metatrader4.com/)
 
-2. **QuantConnect**: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports [backtesting](../b/backtesting.md) and live trading with multiple data sources.
+2. **[QuantConnect](../q/quantconnect.md)**: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports [backtesting](../b/backtesting.md) and live trading with multiple data sources.
    - [QuantConnect](https://www.quantconnect.com/)
 
-3. **AlgoTrader**: A comprehensive [algorithmic trading](../a/algorithmic_trading.md) software solution that covers the entire trading lifecycle.
+3. **[AlgoTrader](../a/algotrader.md)**: A comprehensive [algorithmic trading](../a/algorithmic_trading.md) software solution that covers the entire trading lifecycle.
    - [AlgoTrader](https://www.algotrader.com/)
 
-4. **TradeStation**: A trading platform featuring advanced charting, strategy [backtesting](../b/backtesting.md), and automated trading solutions.
+4. **[TradeStation](../t/tradestation.md)**: A trading platform featuring advanced charting, strategy [backtesting](../b/backtesting.md), and automated trading solutions.
    - [TradeStation](https://www.tradestation.com/)
 
 5. **Interactive Brokers**: Offers a powerful API for executing [algorithmic trading](../a/algorithmic_trading.md) strategies alongside their trading platform.
@@ -63,13 +63,13 @@ Trend analysis in [algorithmic trading](../a/algorithmic_trading.md) is a system
 
 ### Data Sources
 
-1. **Bloomberg Terminal**: Offers robust financial data and analytics tools for professional traders and investors.
+1. **[Bloomberg](../b/bloomberg.md) Terminal**: Offers robust financial data and analytics tools for professional traders and investors.
    - [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
-2. **Thomson Reuters Eikon**: Provides financial market data, news, and analytics tools.
+2. **Thomson [Reuters](../r/reuters.md) Eikon**: Provides financial market data, news, and analytics tools.
    - [Refinitiv](https://www.refinitiv.com/en/products/eikon-trading-software)
 
-3. **Quandl**: A data platform that provides financial and economic data for investment professionals.
+3. **[Quandl](../q/quandl.md)**: A data platform that provides financial and economic data for investment professionals.
    - [Quandl](https://www.quandl.com/)
 
 4. **Alpha Vantage**: Provides free APIs for real-time and historical market data.

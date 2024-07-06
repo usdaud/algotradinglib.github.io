@@ -28,13 +28,13 @@ Capital allocation refers to the process by which an organization decides how to
 
 ## Tools and Technologies for Capital Allocation
 
-1. **[Portfolio Management](../p/portfolio_management.md) Software**: Specialized software that provides functionality for capital allocation, performance measurement, and [risk management](../r/risk_management.md). Examples include Bloomberg Terminal, FactSet, and Portfolio123.
+1. **[Portfolio Management](../p/portfolio_management.md) Software**: Specialized software that provides functionality for capital allocation, performance measurement, and [risk management](../r/risk_management.md). Examples include [Bloomberg](../b/bloomberg.md) Terminal, [FactSet](../f/factset.md), and Portfolio123.
 
 2. **Programming Languages**: Languages such as Python, R, and MATLAB are commonly used for developing and testing capital allocation algorithms. These languages offer extensive libraries for data analysis, machine learning, and optimization.
 
 3. **[Risk Management](../r/risk_management.md) Platforms**: Tools like RiskMetrics, Axioma, and [Algorithmic Trading](../a/algorithmic_trading.md) Management Systems (ATMS) provide risk analytics and tools to support capital allocation decisions.
 
-4. **Simulation and [Backtesting](../b/backtesting.md) Engines**: Platforms like QuantConnect, TradingView, and MetaTrader allow traders to simulate and backtest their allocation strategies using historical data to evaluate performance before deploying them in live markets.
+4. **Simulation and [Backtesting](../b/backtesting.md) Engines**: Platforms like [QuantConnect](../q/quantconnect.md), [TradingView](../t/tradingview.md), and MetaTrader allow traders to simulate and backtest their allocation strategies using historical data to evaluate performance before deploying them in live markets.
 
 ## Practical Examples of Capital Allocation in Algorithmic Trading
 

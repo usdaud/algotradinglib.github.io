@@ -28,11 +28,11 @@ Algorithmic traders employ various strategies to utilize Volume Price Confirmati
 
 In [algorithmic trading](../a/algorithmic_trading.md), several tools and platforms facilitate the integration of [volume analysis](../v/volume_analysis.md):
 
-1. **TradeStation:** TradeStation provides comprehensive tools for [volume analysis](../v/volume_analysis.md), including advanced charting capabilities and custom scripting.
+1. **[TradeStation](../t/tradestation.md):** [TradeStation](../t/tradestation.md) provides comprehensive tools for [volume analysis](../v/volume_analysis.md), including advanced charting capabilities and custom scripting.
    
    [TradeStation](https://www.tradestation.com/)
 
-2. **NinjaTrader:** This platform offers extensive [volume analysis](../v/volume_analysis.md) features such as the VWAP, [volume profile](../v/volume_profile.md), and other volume-based indicators.
+2. **[NinjaTrader](../n/ninjatrader.md):** This platform offers extensive [volume analysis](../v/volume_analysis.md) features such as the VWAP, [volume profile](../v/volume_profile.md), and other volume-based indicators.
 
    [NinjaTrader](https://ninjatrader.com/)
 
@@ -40,7 +40,7 @@ In [algorithmic trading](../a/algorithmic_trading.md), several tools and platfor
 
    [MetaTrader 5](https://www.metatrader5.com/)
 
-4. **QuantConnect:** QuantConnect provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform with data libraries and tools to perform volume-based analysis.
+4. **[QuantConnect](../q/quantconnect.md):** [QuantConnect](../q/quantconnect.md) provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform with data libraries and tools to perform volume-based analysis.
 
    [QuantConnect](https://www.quantconnect.com/)
 

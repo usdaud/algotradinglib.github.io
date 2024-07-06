@@ -68,7 +68,7 @@ Several tools and software platforms are essential for conducting positive retur
 
 ### QuantConnect
 
-QuantConnect is an open-source, cloud-based platform that supports algorithmic strategy development, [backtesting](../b/backtesting.md), and live trading. It integrates with multiple brokerages and provides extensive market data. QuantConnect's [website](https://www.quantconnect.com/) offers more details.
+[QuantConnect](../q/quantconnect.md) is an open-source, cloud-based platform that supports algorithmic strategy development, [backtesting](../b/backtesting.md), and live trading. It integrates with multiple brokerages and provides extensive market data. [QuantConnect](../q/quantconnect.md)'s [website](https://www.quantconnect.com/) offers more details.
 
 ### MetaTrader
 
@@ -84,4 +84,4 @@ Interactive Brokers provides a robust API that allows traders to integrate their
 
 ## Conclusion
 
-Positive return analysis is a multifaceted approach that involves statistical evaluation, [backtesting](../b/backtesting.md), performance measurement, and continuous optimization to develop profitable [trading algorithms](../t/trading_algorithms.md). Despite the challenges, firms like Renaissance Technologies demonstrate that sustained positive returns are achievable through rigorous analysis and sophisticated algorithms. Utilizing advanced tools like QuantConnect, MetaTrader, and Interactive Brokers API can significantly aid in this process, providing the infrastructure and data necessary to refine and optimize [trading strategies](../t/trading_strategies.md) continuously.
+Positive return analysis is a multifaceted approach that involves statistical evaluation, [backtesting](../b/backtesting.md), performance measurement, and continuous optimization to develop profitable [trading algorithms](../t/trading_algorithms.md). Despite the challenges, firms like Renaissance Technologies demonstrate that sustained positive returns are achievable through rigorous analysis and sophisticated algorithms. Utilizing advanced tools like [QuantConnect](../q/quantconnect.md), MetaTrader, and Interactive Brokers API can significantly aid in this process, providing the infrastructure and data necessary to refine and optimize [trading strategies](../t/trading_strategies.md) continuously.

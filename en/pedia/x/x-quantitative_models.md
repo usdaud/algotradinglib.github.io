@@ -59,14 +59,14 @@ Implementation often requires a robust technology stack, typically involving:
 
 Data is the backbone of any quantitative model. Sources include:
 
-- **Market Data Providers**: Firms such as Bloomberg and Thomson Reuters offer comprehensive market data.
+- **Market Data Providers**: Firms such as [Bloomberg](../b/bloomberg.md) and Thomson [Reuters](../r/reuters.md) offer comprehensive market data.
 - **[Alternative Data](../a/alternative_data.md)**: Includes satellite imagery, [social media sentiment](../s/social_media_sentiment.md), and transaction data to gain unique market insights.
 
 ### Model Development and Backtesting
 
 Model development involves coding the quantitative strategy in a selected programming language, while [backtesting](../b/backtesting.md) involves testing the model’s performance on historical data:
 
-- **Backtrader (Python)**: A popular [backtesting](../b/backtesting.md) library.
+- **[Backtrader](../b/backtrader.md) (Python)**: A popular [backtesting](../b/backtesting.md) library.
 - **Zipline (Python)**: An open-source library for developing and testing [quantitative trading](../q/quantitative_trading.md) strategies.
 
 ### Risk Management

@@ -67,11 +67,11 @@ By analyzing price movements on a 1-hour chart, traders can achieve improved acc
 
 ### Data Sources
 
-Reliable historical and real-time data is crucial for constructing accurate 1-hour charts. Data providers such as Bloomberg (https://www.bloomberg.com) and Reuters (https://www.reuters.com) offer comprehensive market data services that algorithmic traders rely on.
+Reliable historical and real-time data is crucial for constructing accurate 1-hour charts. Data providers such as [Bloomberg](../b/bloomberg.md) (https://www.[bloomberg](../b/bloomberg.md).com) and [Reuters](../r/reuters.md) (https://www.[reuters](../r/reuters.md).com) offer comprehensive market data services that algorithmic traders rely on.
 
 ### Trading Platforms
 
-Modern trading platforms like MetaTrader 5 (https://www.metatrader5.com) and TradeStation (https://www.tradestation.com) offer built-in charting tools and [technical analysis](../t/technical_analysis.md) capabilities that support 1-hour charts. These platforms also provide APIs for developing custom algorithms.
+Modern trading platforms like MetaTrader 5 (https://www.[metatrader5](../m/metatrader5.md).com) and [TradeStation](../t/tradestation.md) (https://www.[tradestation](../t/tradestation.md).com) offer built-in charting tools and [technical analysis](../t/technical_analysis.md) capabilities that support 1-hour charts. These platforms also provide APIs for developing custom algorithms.
 
 ### Backtesting
 

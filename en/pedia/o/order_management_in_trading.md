@@ -80,10 +80,10 @@ Trades must be reported to regulatory authorities to ensure market transparency 
 OMS are software solutions that facilitate the end-to-end order lifecycle, enabling traders and institutions to manage orders efficiently. These systems can be integrated with execution management systems (EMS), [risk management](../r/risk_management.md) systems, and other trading infrastructure. Notable OMS providers include:
 
 - **Fidessa**: [Fidessa](https://www.fidessa.com/)
-- **Bloomberg EMSX**: [Bloomberg EMSX](https://www.bloomberg.com/professional/product/emsx/)
+- **[Bloomberg](../b/bloomberg.md) EMSX**: [Bloomberg EMSX](https://www.bloomberg.com/professional/product/emsx/)
 - **Charles River Development**: [Charles River Development](https://www.crd.com/)
 - **ION**: [ION](https://iongroup.com/)
-- **FactSet**: [Factset](https://www.factset.com/)
+- **[FactSet](../f/factset.md)**: [Factset](https://www.factset.com/)
 
 ## 6. Risk Management in Order Processing
 

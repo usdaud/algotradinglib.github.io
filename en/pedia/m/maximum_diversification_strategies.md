@@ -36,7 +36,7 @@ Optimization algorithms such as Genetic Algorithms, Particle Swarm Optimization,
 Several software and platforms provide tools to implement Maximum [Diversification Strategies](../d/diversification_strategies.md):
 
 - **Portfolio123**: A platform offering advanced tools for [backtesting](../b/backtesting.md) and optimizing diversified portfolios. [Portfolio123](https://www.portfolio123.com/)
-- **QuantConnect**: Provides an open-source [algorithmic trading](../a/algorithmic_trading.md) platform with extensive resources for implementing [diversification strategies](../d/diversification_strategies.md). [QuantConnect](https://www.quantconnect.com/)
+- **[QuantConnect](../q/quantconnect.md)**: Provides an open-source [algorithmic trading](../a/algorithmic_trading.md) platform with extensive resources for implementing [diversification strategies](../d/diversification_strategies.md). [QuantConnect](https://www.quantconnect.com/)
 - **Alphalens by Quantopian**: A performance analysis tool for alpha factors — essential for assessing diversification effectiveness in portfolios. [Quantopian](https://www.quantopian.com/)
 
 ### 5. Real-World Applications of Maximum Diversification

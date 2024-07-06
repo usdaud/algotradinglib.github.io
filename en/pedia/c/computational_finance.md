@@ -31,13 +31,13 @@ Computational finance is a discipline that combines computer science, finance, s
 **Key Players and Tools**
 
 1. **Open Source Libraries:**
-   - **QuantLib:** A free/open-source financial library for modeling, trading, and [risk management](../r/risk_management.md) in real-life. It provides tools for pricing derivative instruments, managing portfolios, and simulating market scenarios.
+   - **[QuantLib](../q/quantlib.md):** A free/open-source financial library for modeling, trading, and [risk management](../r/risk_management.md) in real-life. It provides tools for pricing derivative instruments, managing portfolios, and simulating market scenarios.
    - **Link:** [QuantLib](https://www.quantlib.org/)
 
 2. **Commercial Software:**
    - **MATLAB:** Widely used in academics and industry for mathematical modeling, analysis, and simulation.
    - **Link:** [MATLAB](https://www.mathworks.com/products/matlab.html)
-   - **Bloomberg Terminal:** Provides [real-time market data](../r/real-time_market_data.md), news, and analytics. It is an essential tool for financial professionals.
+   - **[Bloomberg](../b/bloomberg.md) Terminal:** Provides [real-time market data](../r/real-time_market_data.md), news, and analytics. It is an essential tool for financial professionals.
    - **Link:** [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
 3. **Financial Institutions:**

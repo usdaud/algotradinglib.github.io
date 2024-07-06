@@ -49,16 +49,16 @@ Consider a scenario where a trading firm uses yield map analysis to navigate the
 
 Several companies and tools specialize in providing advanced solutions for yield map analysis:
 
-- **Bloomberg Terminal:** A widely used tool providing comprehensive financial data, analytics, and trading capabilities.
+- **[Bloomberg](../b/bloomberg.md) Terminal:** A widely used tool providing comprehensive financial data, analytics, and trading capabilities.
   [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
   
 - **Refinitiv Eikon:** Offers a suite of financial data and insights for in-depth analysis and [trading strategies](../t/trading_strategies.md).
   [Refinitiv Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)
   
-- **Morningstar Direct:** Provides investment analysis tools and comprehensive financial data for professional asset managers.
+- **[Morningstar](../m/morningstar.md) Direct:** Provides investment analysis tools and comprehensive financial data for professional asset managers.
   [Morningstar Direct](https://www.morningstar.com/products/direct)
   
-- **QuantConnect:** Platform for designing, testing, and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies using data-driven methods.
+- **[QuantConnect](../q/quantconnect.md):** Platform for designing, testing, and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies using data-driven methods.
   [QuantConnect](https://www.quantconnect.com/)
   
 - **Numerai:** A hedge fund leveraging data science and machine learning to drive trading decisions.

@@ -27,12 +27,12 @@ The effectiveness of [algorithmic trading](../a/algorithmic_trading.md) is heavi
 #### Trading Platforms
 Key trading platforms provide essential infrastructure for executing algorithmic trades:
 - **MetaTrader**: Popular for forex and contract for difference (CFD) trading with robust algo-trading capabilities.
-- **NinjaTrader**: Provides tools and platforms for futures, forex, and options trading.
+- **[NinjaTrader](../n/ninjatrader.md)**: Provides tools and platforms for futures, forex, and options trading.
 
 #### Data Feeds
 Accurate and high-speed data feeds are essential for successful [algorithmic trading](../a/algorithmic_trading.md). These include market data feeds, historical data, and news feeds. Providers include:
-- **Bloomberg Terminal**: Offers real-time and historical market data across a wide range of asset classes.
-- **Reuters Eikon**: Provides similar features to the Bloomberg Terminal.
+- **[Bloomberg](../b/bloomberg.md) Terminal**: Offers real-time and historical market data across a wide range of asset classes.
+- **[Reuters](../r/reuters.md) Eikon**: Provides similar features to the [Bloomberg](../b/bloomberg.md) Terminal.
 
 #### Colocation Services
 Colocation involves placing your trading servers in close proximity to the exchange’s data centers to minimize latency, which is crucial for high-frequency trading. Key providers include:

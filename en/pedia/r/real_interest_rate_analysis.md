@@ -51,10 +51,10 @@ Central banks are primary sources for both nominal interest rates and inflation 
 
 ### Financial Terminals
 
-Bloomberg Terminal and Reuters Eikon are widely used among financial professionals for real-time data and comprehensive analytics. These platforms offer tools to track interest rates, inflation, and perform automated calculations to derive real interest rates.
+[Bloomberg](../b/bloomberg.md) Terminal and [Reuters](../r/reuters.md) Eikon are widely used among financial professionals for real-time data and comprehensive analytics. These platforms offer tools to track interest rates, inflation, and perform automated calculations to derive real interest rates.
 
-- Bloomberg Terminal: [https://www.bloomberg.com/professional/solution/bloomberg-terminal/](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-- Reuters Eikon: [https://www.refinitiv.com/en/products/eikon-trading-software](https://www.refinitiv.com/en/products/eikon-trading-software)
+- [Bloomberg](../b/bloomberg.md) Terminal: [https://www.bloomberg.com/professional/solution/bloomberg-terminal/](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+- [Reuters](../r/reuters.md) Eikon: [https://www.refinitiv.com/en/products/eikon-trading-software](https://www.refinitiv.com/en/products/eikon-trading-software)
 
 ### Online Databases
 

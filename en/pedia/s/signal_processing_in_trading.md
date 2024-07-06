@@ -61,7 +61,7 @@ Several tools and software packages are available for signal processing in tradi
 - **Matlab:** Widely used for data analysis and algorithm development
 - **Python Libraries:** Libraries like NumPy, SciPy, pandas, and scikit-learn provide robust tools for signal processing and machine learning
 - **R:** Statistical computing software with packages for [time series analysis](../t/time_series_analysis.md) and signal processing
-- **Trading Platforms:** Platforms like MetaTrader, NinjaTrader, and QuantConnect offer built-in tools for signal processing and algorithm development
+- **Trading Platforms:** Platforms like MetaTrader, [NinjaTrader](../n/ninjatrader.md), and [QuantConnect](../q/quantconnect.md) offer built-in tools for signal processing and algorithm development
 
 ### Case Studies
 

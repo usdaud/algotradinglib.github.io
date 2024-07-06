@@ -61,8 +61,8 @@ HFT firms apply yield mapping models to execute a large number of trades at ultr
 
 ### Retail Trading
 Advanced yield mapping tools are increasingly available to individual traders, allowing them to leverage sophisticated models previously accessible only to institutional players. Examples of platforms offering such tools include:
-- **QuantConnect**: Provides a cloud-based [trading algorithm development](../t/trading_algorithm_development.md) platform [QuantConnect](https://www.quantconnect.com).
-- **AlgoTrader**: Offers an institutional-grade [algorithmic trading](../a/algorithmic_trading.md) software [AlgoTrader](https://www.algotrader.com).
+- **[QuantConnect](../q/quantconnect.md)**: Provides a cloud-based [trading algorithm development](../t/trading_algorithm_development.md) platform [QuantConnect](https://www.quantconnect.com).
+- **[AlgoTrader](../a/algotrader.md)**: Offers an institutional-grade [algorithmic trading](../a/algorithmic_trading.md) software [AlgoTrader](https://www.algotrader.com).
 
 ## Challenges and Considerations
 

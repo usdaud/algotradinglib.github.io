@@ -68,25 +68,25 @@
 
 Various platforms and companies provide advanced [volume analysis](../v/volume_analysis.md) tools and software for algorithmic traders. Some of the leading providers include:
 
-- **TradingView**
+- **[TradingView](../t/tradingview.md)**
 
-  TradingView offers a range of [volume indicators](../v/volume_indicators.md) and customizable charts. Its platform is widely used by individual traders and professionals for its user-friendly interface and advanced analysis tools. [TradingView](https://www.tradingview.com/).
+  [TradingView](../t/tradingview.md) offers a range of [volume indicators](../v/volume_indicators.md) and customizable charts. Its platform is widely used by individual traders and professionals for its user-friendly interface and advanced analysis tools. [TradingView](https://www.tradingview.com/).
 
 - **MetaTrader 4 and 5 (MT4/MT5)**
 
   MetaTrader is a popular trading platform that supports a wide range of [volume indicators](../v/volume_indicators.md) and automated [trading strategies](../t/trading_strategies.md). It is used by many forex and CFD traders for its robust features and extensive community support. [MetaTrader](https://www.metatrader4.com/).
 
-- **NinjaTrader**
+- **[NinjaTrader](../n/ninjatrader.md)**
 
-  NinjaTrader provides powerful [volume analysis](../v/volume_analysis.md) tools, including advanced charting and strategy development features. It is favored by futures and forex traders for its comprehensive data and analysis capabilities. [NinjaTrader](https://www.ninjatrader.com/).
+  [NinjaTrader](../n/ninjatrader.md) provides powerful [volume analysis](../v/volume_analysis.md) tools, including advanced charting and strategy development features. It is favored by futures and forex traders for its comprehensive data and analysis capabilities. [NinjaTrader](https://www.ninjatrader.com/).
 
-- **Thinkorswim by TD Ameritrade**
+- **[Thinkorswim](../t/thinkorswim.md) by TD Ameritrade**
 
-  Thinkorswim offers sophisticated [volume analysis](../v/volume_analysis.md) tools and real-time data, making it ideal for active traders. Its platform is known for its robustness and extensive educational resources. [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page).
+  [Thinkorswim](../t/thinkorswim.md) offers sophisticated [volume analysis](../v/volume_analysis.md) tools and real-time data, making it ideal for active traders. Its platform is known for its robustness and extensive educational resources. [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page).
 
-- **QuantConnect**
+- **[QuantConnect](../q/quantconnect.md)**
 
-  QuantConnect provides an [algorithmic trading](../a/algorithmic_trading.md) platform with access to volume data and extensive [backtesting](../b/backtesting.md) capabilities. It supports multiple asset classes and is used by quants and developers to build and test [trading strategies](../t/trading_strategies.md). [QuantConnect](https://www.quantconnect.com/).
+  [QuantConnect](../q/quantconnect.md) provides an [algorithmic trading](../a/algorithmic_trading.md) platform with access to volume data and extensive [backtesting](../b/backtesting.md) capabilities. It supports multiple asset classes and is used by quants and developers to build and test [trading strategies](../t/trading_strategies.md). [QuantConnect](https://www.quantconnect.com/).
 
 ### Conclusion
 

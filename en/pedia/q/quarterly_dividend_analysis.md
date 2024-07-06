@@ -42,7 +42,7 @@ Several online platforms and tools can facilitate quarterly dividend analysis, p
 
 - **Seeking Alpha**: Offers comprehensive analysis and forecasts for dividend-paying stocks.
 - **Yahoo Finance**: Provides historical dividend data, financial statements, and analyst ratings.
-- **Morningstar**: Features detailed financial data, analyst reports, and dividend sustainability scores.
+- **[Morningstar](../m/morningstar.md)**: Features detailed financial data, analyst reports, and dividend sustainability scores.
 
 ## Case Study: Analyzing Apple Inc. (AAPL)
 ### Historical Dividend Growth

@@ -100,7 +100,7 @@ Algorithmic trading, also known as "algo trading" or "black-box trading," refers
    - High-performance computing (HPC) systems, including GPUs (Graphical Processing Units) and FPGAs (Field-Programmable Gate Arrays), are often used to enhance processing speeds.
 
 2. **Software**
-   - Specialized trading platforms and software frameworks designed for algorithmic trading. Examples include MetaTrader, NinjaTrader, and proprietary platforms developed by trading firms.
+   - Specialized trading platforms and software frameworks designed for algorithmic trading. Examples include MetaTrader, [NinjaTrader](../n/ninjatrader.md), and proprietary platforms developed by trading firms.
 
 3. **Network Latency**
    - Minimizing network latency is crucial in algorithmic trading. Colocation services, where trading servers are placed close to exchange servers, are commonly used to reduce latency.

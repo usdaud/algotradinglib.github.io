@@ -38,7 +38,7 @@ Alpaca offers commission-free trading APIs that allow algorithmic traders to dev
 
 #### [QuantConnect](https://www.quantconnect.com)
 
-QuantConnect provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform, allowing users to design, backtest, and deploy [trading algorithms](../t/trading_algorithms.md). Their platform supports multiple asset classes and integrates various data sources, empowering traders with robust knowledge-based systems for formulating and executing trades.
+[QuantConnect](../q/quantconnect.md) provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform, allowing users to design, backtest, and deploy [trading algorithms](../t/trading_algorithms.md). Their platform supports multiple asset classes and integrates various data sources, empowering traders with robust knowledge-based systems for formulating and executing trades.
 
 #### [Kensho Technologies](https://www.kensho.com)
 
@@ -58,4 +58,4 @@ While Knowledge-Based Systems offer numerous advantages, their implementation in
 
 ### Conclusion
 
-Knowledge-Based Systems represent a significant advancement in trading technology, offering unprecedented capabilities in data processing, [pattern recognition](../p/pattern_recognition.md), and decision-making. By simulating the expertise of human traders and applying sophisticated AI techniques, KBS can enhance the efficiency and profitability of trading operations. As technology continues to evolve, the role of KBS in trading is likely to expand, offering even more sophisticated tools and capabilities for traders. Companies like Alpaca, QuantConnect, and Kensho Technologies exemplify the ongoing integration and benefits of KBS in the financial markets.
+Knowledge-Based Systems represent a significant advancement in trading technology, offering unprecedented capabilities in data processing, [pattern recognition](../p/pattern_recognition.md), and decision-making. By simulating the expertise of human traders and applying sophisticated AI techniques, KBS can enhance the efficiency and profitability of trading operations. As technology continues to evolve, the role of KBS in trading is likely to expand, offering even more sophisticated tools and capabilities for traders. Companies like Alpaca, [QuantConnect](../q/quantconnect.md), and Kensho Technologies exemplify the ongoing integration and benefits of KBS in the financial markets.

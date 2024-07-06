@@ -47,9 +47,9 @@ The Halloween Indicator suggests that stock returns are higher between November 
 
 ## Software and Platforms
 Several software tools and platforms facilitate seasonality analysis in [algorithmic trading](../a/algorithmic_trading.md):
-1. **TradeStation:** A comprehensive trading platform offering tools for seasonality analysis.
-2. **QuantConnect:** A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports [backtesting](../b/backtesting.md) of seasonal strategies.
-3. **Bloomberg Terminal:** Provides advanced analytics and historical data for seasonality studies.
+1. **[TradeStation](../t/tradestation.md):** A comprehensive trading platform offering tools for seasonality analysis.
+2. **[QuantConnect](../q/quantconnect.md):** A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports [backtesting](../b/backtesting.md) of seasonal strategies.
+3. **[Bloomberg](../b/bloomberg.md) Terminal:** Provides advanced analytics and historical data for seasonality studies.
 4. **MetaTrader 4/5:** Popular trading platforms with plugins for seasonality analysis.
 
 For more information on these platforms, visit their respective websites:

@@ -68,8 +68,8 @@ Designing and implementing a trading algorithm involves multiple steps:
 - **C++:** Preferred for [execution algorithms](../e/execution_algorithms.md) due to its speed and efficiency.
 
 ### Backtesting Frameworks
-- **QuantConnect:** Offers cloud-based [backtesting](../b/backtesting.md) and strategy development.
-  - Website: https://www.quantconnect.com/
+- **[QuantConnect](../q/quantconnect.md):** Offers cloud-based [backtesting](../b/backtesting.md) and strategy development.
+  - Website: https://www.[quantconnect](../q/quantconnect.md).com/
 - **Zipline:** Open-source Python library for [algorithmic trading](../a/algorithmic_trading.md) simulation.
   - Website: https://www.zipline.io/
 

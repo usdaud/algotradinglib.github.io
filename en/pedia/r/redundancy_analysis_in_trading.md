@@ -47,7 +47,7 @@ Effective redundancy analysis aims to balance the need for backup systems with t
         - **Cross-Validation**: Splitting data into training and testing sets to evaluate algorithm performance.
         - **Walk-Forward Analysis**: Continually testing the algorithm with new data to ensure it adapts well to market changes.
     - **Tools**:
-        - **QuantConnect**: [QuantConnect](https://www.quantconnect.com/) provides a platform for algo traders to backtest and deploy strategies.
+        - **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](https://www.quantconnect.com/) provides a platform for algo traders to backtest and deploy strategies.
         - **MetaTrader**: Offers [backtesting](../b/backtesting.md) capabilities through its Strategy Tester tool.
 
 3. **System Redundancy Planning**:

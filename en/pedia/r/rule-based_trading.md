@@ -58,7 +58,7 @@ Several frameworks and tools are available for developing rule-based [trading sy
 
 - **Python:** Popular libraries like Pandas, NumPy, and TA-Lib are used for data manipulation and [technical analysis](../t/technical_analysis.md).
 - **MetaTrader:** This trading platform supports MQL for developing automated [trading strategies](../t/trading_strategies.md).
-- **QuantConnect:** An open-source platform offering resources and a community for [algorithmic trading](../a/algorithmic_trading.md).
+- **[QuantConnect](../q/quantconnect.md):** An open-source platform offering resources and a community for [algorithmic trading](../a/algorithmic_trading.md).
 
 **URL:** [QuantConnect](https://www.quantconnect.com/)
 

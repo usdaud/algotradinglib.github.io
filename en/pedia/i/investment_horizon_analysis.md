@@ -60,11 +60,11 @@ The choice of an investment horizon is intrinsically linked to [risk management]
 
 Several companies and platforms have developed sophisticated solutions to analyze and optimize investment horizons within their [algorithmic trading](../a/algorithmic_trading.md) frameworks:
 
-1. **QuantConnect**: [QuantConnect](https://www.quantconnect.com) provides a robust [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple programming languages and offers extensive historical data, allowing users to backtest and deploy strategies across various horizons.
+1. **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](https://www.quantconnect.com) provides a robust [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple programming languages and offers extensive historical data, allowing users to backtest and deploy strategies across various horizons.
 
-2. **AlgoTrader**: [AlgoTrader](https://www.algotrader.com) is an institutional-grade [algorithmic trading](../a/algorithmic_trading.md) software that enables the development, testing, and execution of automated [trading strategies](../t/trading_strategies.md) for different investment horizons, including high-frequency trading.
+2. **[AlgoTrader](../a/algotrader.md)**: [AlgoTrader](https://www.algotrader.com) is an institutional-grade [algorithmic trading](../a/algorithmic_trading.md) software that enables the development, testing, and execution of automated [trading strategies](../t/trading_strategies.md) for different investment horizons, including high-frequency trading.
 
-3. **TradeStation**: [TradeStation](https://www.tradestation.com) offers advanced trading technology and [brokerage services](../b/brokerage_services.md), supporting a wide range of [algorithmic trading](../a/algorithmic_trading.md) strategies tailored to different investment horizons.
+3. **[TradeStation](../t/tradestation.md)**: [TradeStation](https://www.tradestation.com) offers advanced trading technology and [brokerage services](../b/brokerage_services.md), supporting a wide range of [algorithmic trading](../a/algorithmic_trading.md) strategies tailored to different investment horizons.
 
 4. **Interactive Brokers**: [Interactive Brokers](https://www.interactivebrokers.com) provides a comprehensive trading platform with [algorithmic trading](../a/algorithmic_trading.md) capabilities, allowing traders to execute strategies across various timeframes and asset classes.
 

@@ -115,7 +115,7 @@ Triangles are a significant subset of [continuation patterns](../c/continuation_
 Incorporating price patterns in real-time trading involves continuous monitoring and execution based on identified patterns. Key components include:
 
 1. **Real-Time Data Feeds:**
-   - **Market Data Providers:** Subscribing to reliable real-time data feeds from providers like Bloomberg [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/) and Thomson Reuters [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software).
+   - **Market Data Providers:** Subscribing to reliable real-time data feeds from providers like [Bloomberg](../b/bloomberg.md) [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/) and Thomson [Reuters](../r/reuters.md) [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software).
    - **Data Accuracy:** Ensuring the data feed is accurate, up-to-date, and capable of promptly identifying price patterns.
 
 2. **[Execution Algorithms](../e/execution_algorithms.md):**

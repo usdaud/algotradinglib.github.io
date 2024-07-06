@@ -60,11 +60,11 @@ Diversification involves spreading investments across various assets, sectors, o
 
 ### Algorithmic Trading Platforms
 
-[Algorithmic trading](../a/algorithmic_trading.md) platforms use computer programs to execute trades based on predefined criteria. These platforms can analyze vast amounts of data, identify trading opportunities, and execute trades at high speed. Popular [algorithmic trading](../a/algorithmic_trading.md) platforms include MetaTrader, TradeStation, and NinjaTrader.
+[Algorithmic trading](../a/algorithmic_trading.md) platforms use computer programs to execute trades based on predefined criteria. These platforms can analyze vast amounts of data, identify trading opportunities, and execute trades at high speed. Popular [algorithmic trading](../a/algorithmic_trading.md) platforms include MetaTrader, [TradeStation](../t/tradestation.md), and [NinjaTrader](../n/ninjatrader.md).
 
 ### Technical Analysis Software
 
-[Technical analysis](../t/technical_analysis.md) software provides tools for charting, analyzing, and interpreting market data. Features include real-time data feeds, customizable charts, and [technical indicators](../t/technical_indicators.md). Examples include TradingView, Eikon, and ThinkorSwim.
+[Technical analysis](../t/technical_analysis.md) software provides tools for charting, analyzing, and interpreting market data. Features include real-time data feeds, customizable charts, and [technical indicators](../t/technical_indicators.md). Examples include [TradingView](../t/tradingview.md), Eikon, and [ThinkorSwim](../t/thinkorswim.md).
 
 ### Risk Management Tools
 

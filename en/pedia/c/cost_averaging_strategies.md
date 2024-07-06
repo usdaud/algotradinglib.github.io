@@ -68,7 +68,7 @@ An algorithm might be programmed to invest more heavily in stable blue-chip stoc
 
 Several platforms offer capabilities for implementing cost averaging strategies in [algorithmic trading](../a/algorithmic_trading.md). These include:
 
-- **QuantConnect**: Provides extensive libraries and datasets for developing cost averaging algorithms.
+- **[QuantConnect](../q/quantconnect.md)**: Provides extensive libraries and datasets for developing cost averaging algorithms.
 - **Interactive Brokers**: Offers APIs for automating [trading strategies](../t/trading_strategies.md), including DCA and VA.
 - **Alpaca**: A commission-free trading API that supports [algorithmic trading](../a/algorithmic_trading.md) for various cost averaging strategies.
 
@@ -124,7 +124,7 @@ while True:
 
 ### Risk Management and Backtesting
 
-[Backtesting](../b/backtesting.md) is crucial to validate the performance of cost averaging strategies. By analyzing historical data, investors can gauge the potential success of their strategies before deploying real capital. Platforms like QuantConnect and Interactive Brokers offer [backtesting](../b/backtesting.md) tools that can simulate cost averaging strategies under various market conditions.
+[Backtesting](../b/backtesting.md) is crucial to validate the performance of cost averaging strategies. By analyzing historical data, investors can gauge the potential success of their strategies before deploying real capital. Platforms like [QuantConnect](../q/quantconnect.md) and Interactive Brokers offer [backtesting](../b/backtesting.md) tools that can simulate cost averaging strategies under various market conditions.
 
 ### Real-Time Monitoring and Adjustments
 
@@ -132,6 +132,6 @@ Once deployed, algorithms should be monitored in real-time to ensure they functi
 
 ## Conclusion
 
-Cost averaging strategies like Dollar-Cost Averaging, [Value Averaging](../v/value_averaging.md), and Risk-Based Averaging offer robust methodologies to mitigate risks and optimize returns in volatile markets. When integrated with [algorithmic trading](../a/algorithmic_trading.md), these strategies can be automated, disciplined, and highly responsive to market conditions. By leveraging platforms like QuantConnect, Interactive Brokers, and Alpaca, investors can harness advanced tools and APIs to implement and enhance their cost averaging strategies.
+Cost averaging strategies like Dollar-Cost Averaging, [Value Averaging](../v/value_averaging.md), and Risk-Based Averaging offer robust methodologies to mitigate risks and optimize returns in volatile markets. When integrated with [algorithmic trading](../a/algorithmic_trading.md), these strategies can be automated, disciplined, and highly responsive to market conditions. By leveraging platforms like [QuantConnect](../q/quantconnect.md), Interactive Brokers, and Alpaca, investors can harness advanced tools and APIs to implement and enhance their cost averaging strategies.
 
 For more information on Alpaca, visit [Alpaca](https://alpaca.markets/).

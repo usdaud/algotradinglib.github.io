@@ -53,7 +53,7 @@ In the mid-2000s, Goldman Sachs faced allegations of front-running related to it
 
 ### Barclays
 
-In 2014, Barclays was fined by the Financial Industry Regulatory Authority (FINRA) for front-running customer orders in its dark pool trading venue. The firm was found routing specific customer orders in a way that allowed them to anticipate and capitalize on market movements before executing client orders.
+In 2014, Barclays was fined by the Financial Industry Regulatory Authority ([FINRA](../f/finra.md)) for front-running customer orders in its dark pool trading venue. The firm was found routing specific customer orders in a way that allowed them to anticipate and capitalize on market movements before executing client orders.
 
 For more information, you can visit Barclays' website directly at [Barclays](https://home.barclays/).
 

@@ -51,7 +51,7 @@ Several key players and technological innovations have shaped the landscape of q
    - [AQR Capital Management](https://www.aqr.com)
    - [DE Shaw Group](https://www.deshaw.com)
 
-2. **Data Providers**: Access to high-quality data is essential for quant investing. Firms such as Bloomberg, Reuters, and Quandl provide comprehensive financial data feeds that quant investors utilize for their models.
+2. **Data Providers**: Access to high-quality data is essential for quant investing. Firms such as [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), and [Quandl](../q/quandl.md) provide comprehensive financial data feeds that quant investors utilize for their models.
 
    - [Bloomberg](https://www.bloomberg.com)
    - [Reuters](https://www.reuters.com)

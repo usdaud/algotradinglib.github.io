@@ -1,6 +1,6 @@
 # 1-period SMA
 
-The 1-period Simple Moving Average (SMA) is a basic technical analysis tool commonly used in algorithmic trading. The SMA represents the arithmetic mean of a specified number of data points, providing a smoother line that mitigates fluctuations and highlights trends. The 1-period SMA is unique in that it represents the average over a single period, which can be a day, hour, or any specified interval.
+The 1-period Simple Moving Average (SMA) is a basic [technical analysis](../t/technical_analysis.md) tool commonly used in [algorithmic trading](../a/algorithmic_trading.md). The SMA represents the arithmetic mean of a specified number of data points, providing a smoother line that mitigates fluctuations and highlights trends. The 1-period SMA is unique in that it represents the average over a single period, which can be a day, hour, or any specified interval.
 
 ### Understanding SMA
 

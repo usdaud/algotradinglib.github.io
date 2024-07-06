@@ -70,8 +70,8 @@ Market makers or liquidity providers might use imbalance information to place or
 
 Modern technology and trading platforms offer tools to track and react to order imbalances in real-time. These technologies often include:
 
-- **Real-Time Data Feeds**: Providers like *Bloomberg* and *Thomson Reuters* offer real-time order book data to monitor imbalances.
-- **[Algorithmic Trading](../a/algorithmic_trading.md) Platforms**: Platforms such as *QuantConnect* and *AlgoTrader* enable traders to build, backtest, and deploy strategies that detect and react to imbalances.
+- **Real-Time Data Feeds**: Providers like *[Bloomberg](../b/bloomberg.md)* and *Thomson [Reuters](../r/reuters.md)* offer real-time order book data to monitor imbalances.
+- **[Algorithmic Trading](../a/algorithmic_trading.md) Platforms**: Platforms such as *[QuantConnect](../q/quantconnect.md)* and *[AlgoTrader](../a/algotrader.md)* enable traders to build, backtest, and deploy strategies that detect and react to imbalances.
 - **Machine Learning Models**: Advanced machine learning algorithms can analyze massive datasets to predict and capitalize on imbalances more precisely.
 
 ## Case Studies and Real-World Examples

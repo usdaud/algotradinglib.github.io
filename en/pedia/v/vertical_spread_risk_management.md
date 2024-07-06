@@ -36,7 +36,7 @@ Hedging involves taking a position in a related instrument to offset potential l
 ## Tools and Platforms
 
 ### ThinkOrSwim by TD Ameritrade
-ThinkOrSwim is a professional-level trading platform offering comprehensive tools for options trading, including sophisticated charting, probability analysis, and a wide range of [risk management](../r/risk_management.md) features. [ThinkOrSwim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
+[ThinkOrSwim](../t/thinkorswim.md) is a professional-level trading platform offering comprehensive tools for options trading, including sophisticated charting, probability analysis, and a wide range of [risk management](../r/risk_management.md) features. [ThinkOrSwim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
 
 ### Interactive Brokers TWS
 Interactive Brokers offers the Trader Workstation (TWS), which provides advanced [risk management](../r/risk_management.md) tools, real-time monitoring, and a variety of options trading features. [Interactive Brokers](https://www.interactivebrokers.com/en/index.php?f=1010)

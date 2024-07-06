@@ -108,7 +108,7 @@ The Basel III framework introduces stricter capital and liquidity requirements f
 
 ### Electronic Trading Platforms
 
-The evolution of electronic trading platforms has enhanced efficiency and transparency in the OTC [derivatives](../d/derivatives.md) market. Platforms such as Bloomberg, Tradeweb, and MarketAxess facilitate trade execution and connectivity among market participants.
+The evolution of electronic trading platforms has enhanced efficiency and transparency in the OTC [derivatives](../d/derivatives.md) market. Platforms such as [Bloomberg](../b/bloomberg.md), Tradeweb, and [MarketAxess](../m/marketaxess.md) facilitate trade execution and connectivity among market participants.
 
 ### Blockchain and Distributed Ledger Technology (DLT)
 

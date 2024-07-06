@@ -44,7 +44,7 @@ By focusing on reducing these costs, traders can enhance their net returns.
 1. **[Transaction Cost Analysis](../t/transaction_cost_analysis.md) (TCA)**
    TCA tools analyze [trading costs](../t/trading_costs.md) in detail, providing insights into slippage, spread, and other factors. They help in identifying inefficiencies in [trading strategies](../t/trading_strategies.md) and processes.
 
-   For instance, tools like Bloomberg’s BTCA provide advanced metrics and visualizations to help traders understand and reduce their transaction costs.
+   For instance, tools like [Bloomberg](../b/bloomberg.md)’s BTCA provide advanced metrics and visualizations to help traders understand and reduce their transaction costs.
 
 2. **[Backtesting](../b/backtesting.md) and Simulation**
    Running [trading strategies](../t/trading_strategies.md) through historical data to evaluate their performance and cost implications can lead to better strategy adjustments. Simulations help in understanding potential costs and tweaking strategies before real market implementation.

@@ -69,15 +69,15 @@ Various trading platforms and software offer features to help traders identify a
 
 ### TradingView
 
-TradingView [https://www.tradingview.com/] provides advanced charting tools and customizable scripts to programmatically identify Key Reversal Days. Traders can use the platform's Pine Script language to create custom indicators and alerts based on Key Reversal Day criteria.
+[TradingView](../t/tradingview.md) [https://www.[tradingview](../t/tradingview.md).com/] provides advanced charting tools and customizable scripts to programmatically identify Key Reversal Days. Traders can use the platform's Pine Script language to create custom indicators and alerts based on Key Reversal Day criteria.
 
 ### MetaTrader
 
-MetaTrader [https://www.metatrader4.com/] (both MT4 and MT5) is widely used in forex and CFD trading. Traders can install custom indicators or develop their own using MQL4 or MQL5 programming languages to detect and act on Key Reversal Days.
+MetaTrader [https://www.[metatrader4](../m/metatrader4.md).com/] (both MT4 and MT5) is widely used in forex and CFD trading. Traders can install custom indicators or develop their own using MQL4 or MQL5 programming languages to detect and act on Key Reversal Days.
 
 ### NinjaTrader
 
-NinjaTrader [https://ninjatrader.com/] is renowned for its powerful [backtesting](../b/backtesting.md) and automated trading capabilities. Traders can script strategies in C# to incorporate Key Reversal Day conditions and conduct extensive backtests to refine their algorithms.
+[NinjaTrader](../n/ninjatrader.md) [https://ninjatrader.com/] is renowned for its powerful [backtesting](../b/backtesting.md) and automated trading capabilities. Traders can script strategies in C# to incorporate Key Reversal Day conditions and conduct extensive backtests to refine their algorithms.
 
 ### Interactive Brokers
 

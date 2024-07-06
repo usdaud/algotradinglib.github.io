@@ -46,7 +46,7 @@ Implementing Yield-Adjusted Duration in [algorithmic trading](../a/algorithmic_t
 
 1. **Data Acquisition**: Acquire real-time and historical bond data, including prices, yields, and yield curves. It's advisable to source this data from reputable providers like [Bloomberg](https://www.bloomberg.com) or [Thomson Reuters](https://www.refinitiv.com). 
 
-2. **Calculation Engine**: Develop a calculation engine capable of computing Yield-Adjusted Duration. This engine should incorporate advanced financial libraries and algorithms to ensure precision and speed. Python libraries like QuantLib or PyAlgo can be useful.
+2. **Calculation Engine**: Develop a calculation engine capable of computing Yield-Adjusted Duration. This engine should incorporate advanced financial libraries and algorithms to ensure precision and speed. Python libraries like [QuantLib](../q/quantlib.md) or PyAlgo can be useful.
 
 3. **Integration into [Trading Systems](../t/trading_systems.md)**: Integrate the calculation engine into the broader trading system. Ensure that the Yield-Adjusted Duration metrics are accessible by the algorithms responsible for executing trades, [portfolio rebalancing](../p/portfolio_rebalancing.md), and risk assessment.
 

@@ -32,7 +32,7 @@
 
 **[Sentiment analysis](../s/sentiment_analysis.md)** strategies use natural language processing (NLP) and other machine learning techniques to gauge market sentiment from news, social media, and other sources.
 
-- **News-Based Trading**: Algorithms scan news sources like Bloomberg or Reuters for market-moving news. If favorable, a buy order might be triggered; if unfavorable, a sell order might be issued.
+- **News-Based Trading**: Algorithms scan news sources like [Bloomberg](../b/bloomberg.md) or [Reuters](../r/reuters.md) for market-moving news. If favorable, a buy order might be triggered; if unfavorable, a sell order might be issued.
 
 - **[Social Media Analytics](../s/social_media_analytics.md)**: Algorithms scrape data from social media platforms like Twitter or stock forums to analyze public sentiment. Positive sentiment may trigger a buy, whereas negative sentiment may trigger a sell.
 

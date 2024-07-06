@@ -115,8 +115,8 @@ OTC trading involves direct transactions between parties, typically facilitated 
 Numerous electronic platforms cater to the bond trading community. Some well-known ones include:
 
 1. **Tradeweb**: [Website](https://www.tradeweb.com)
-2. **MarketAxess**: [Website](https://www.marketaxess.com)
-3. **Bloomberg Terminal**: [Website](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+2. **[MarketAxess](../m/marketaxess.md)**: [Website](https://www.marketaxess.com)
+3. **[Bloomberg](../b/bloomberg.md) Terminal**: [Website](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
 ## Trading Strategies for Investment Grade Bonds
 

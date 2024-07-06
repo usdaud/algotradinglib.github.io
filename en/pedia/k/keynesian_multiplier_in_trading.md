@@ -83,13 +83,13 @@ Various software and tools are available to help traders analyze the potential i
 
 ### Bloomberg Terminal
 
-The Bloomberg Terminal provides extensive data on [economic indicators](../e/economic_indicators.md), fiscal policies, and market reactions. Traders use this tool to stay informed about government spending announcements and their potential multiplier effects on different sectors.
+The [Bloomberg](../b/bloomberg.md) Terminal provides extensive data on [economic indicators](../e/economic_indicators.md), fiscal policies, and market reactions. Traders use this tool to stay informed about government spending announcements and their potential multiplier effects on different sectors.
 
 Website: [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
 ### Reuters Eikon
 
-Reuters Eikon is another powerful tool that offers real-time data and analytics on global markets, including detailed information on fiscal policies and [economic indicators](../e/economic_indicators.md). Traders use Eikon to track the Keynesian multiplier's potential impact in various markets and adjust their strategies accordingly.
+[Reuters](../r/reuters.md) Eikon is another powerful tool that offers real-time data and analytics on global markets, including detailed information on fiscal policies and [economic indicators](../e/economic_indicators.md). Traders use Eikon to track the Keynesian multiplier's potential impact in various markets and adjust their strategies accordingly.
 
 Website: [Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)
 

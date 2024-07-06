@@ -79,16 +79,16 @@ During the period of extreme volatility in early 2020 due to the COVID-19 pandem
 
 ### Trading Platforms
 
-- **Thinkorswim by TD Ameritrade**: A powerful tool for options traders offering real-time Gamma and Delta monitoring. [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
+- **[Thinkorswim](../t/thinkorswim.md) by TD Ameritrade**: A powerful tool for options traders offering real-time Gamma and Delta monitoring. [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
 - **Interactive Brokers**: Provides advanced options analytics and real-time monitoring tools. [Interactive Brokers](https://www.interactivebrokers.com/en/home.php)
 
 ### Analytics Tools
 - **OptionVue**: Delivers robust options analysis including Gamma and Delta projections. [OptionVue](https://optionvue.com)
-- **Bloomberg Terminal**: Industry-standard tool for comprehensive financial analytics including options greeks and volatility tracking. [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+- **[Bloomberg](../b/bloomberg.md) Terminal**: Industry-standard tool for comprehensive financial analytics including options greeks and volatility tracking. [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
 ### Algorithmic Trading Systems
-- **QuantConnect**: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that allows for the [backtesting](../b/backtesting.md) and implementation of complex [trading strategies](../t/trading_strategies.md) including Reverse [Gamma Hedging](../g/gamma_hedging.md). [QuantConnect](https://www.quantconnect.com)
-- **AlgoTrader**: Provides a comprehensive suite for developing and executing [algorithmic trading](../a/algorithmic_trading.md) strategies. [AlgoTrader](https://www.algotrader.com)
+- **[QuantConnect](../q/quantconnect.md)**: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that allows for the [backtesting](../b/backtesting.md) and implementation of complex [trading strategies](../t/trading_strategies.md) including Reverse [Gamma Hedging](../g/gamma_hedging.md). [QuantConnect](https://www.quantconnect.com)
+- **[AlgoTrader](../a/algotrader.md)**: Provides a comprehensive suite for developing and executing [algorithmic trading](../a/algorithmic_trading.md) strategies. [AlgoTrader](https://www.algotrader.com)
 
 ## Conclusion
 

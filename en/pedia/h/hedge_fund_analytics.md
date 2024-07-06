@@ -45,7 +45,7 @@ Hedge funds use numerous data sources and analytical tools to support decision-m
 - **[Alternative Data](../a/alternative_data.md)**: [Non-traditional data sources](../n/non-traditional_data_sources.md) like satellite images, social media activity, and credit card transactions.
 
 #### Tools:
-- **Bloomberg Terminal**: A software system that provides financial data, analytics, and trading tools.
+- **[Bloomberg](../b/bloomberg.md) Terminal**: A software system that provides financial data, analytics, and trading tools.
 - **Python & R**: Programming languages widely used for statistical analysis and [data visualization](../d/data_visualization.md).
 - **MATLAB**: A numerical computing environment used for algorithm development, data analysis, and visualization.
 

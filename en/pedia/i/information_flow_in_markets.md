@@ -8,7 +8,7 @@ In financial markets, information flow refers to the dissemination and assimilat
 
 ### News Agencies
 
-Financial news agencies like Bloomberg [bloomberg.com](https://www.bloomberg.com) and Reuters [reuters.com](https://www.reuters.com) are primary sources of real-time market information. They provide a constant flow of updates related to [economic indicators](../e/economic_indicators.md), corporate earnings, policy changes, and [geopolitical events](../g/geopolitical_events.md). Robust news algorithms and API services from these agencies can be integrated into [trading systems](../t/trading_systems.md) for real-time data feeds.
+Financial news agencies like [Bloomberg](../b/bloomberg.md) [bloomberg.com](https://www.bloomberg.com) and [Reuters](../r/reuters.md) [reuters.com](https://www.reuters.com) are primary sources of real-time market information. They provide a constant flow of updates related to [economic indicators](../e/economic_indicators.md), corporate earnings, policy changes, and [geopolitical events](../g/geopolitical_events.md). Robust news algorithms and API services from these agencies can be integrated into [trading systems](../t/trading_systems.md) for real-time data feeds.
 
 ### Economic Reports
 
@@ -46,7 +46,7 @@ Event-driven strategies involve trading on significant events such as mergers, a
 
 ### Sentiment Analysis
 
-[Sentiment analysis](../s/sentiment_analysis.md) involves gauging the emotional tone behind texts, particularly in financial news and social media. Tools like RavenPack [ravenpack.com](https://www.ravenpack.com) and StockTwits [stocktwits.com](https://stocktwits.com) provide platforms for [sentiment analysis](../s/sentiment_analysis.md), helping traders to interpret the collective mood and its potential impact on asset prices.
+[Sentiment analysis](../s/sentiment_analysis.md) involves gauging the emotional tone behind texts, particularly in financial news and social media. Tools like [RavenPack](../r/ravenpack.md) [ravenpack.com](https://www.ravenpack.com) and StockTwits [stocktwits.com](https://stocktwits.com) provide platforms for [sentiment analysis](../s/sentiment_analysis.md), helping traders to interpret the collective mood and its potential impact on asset prices.
 
 ## Challenges and Considerations
 

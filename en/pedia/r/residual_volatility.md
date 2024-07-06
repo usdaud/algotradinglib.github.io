@@ -47,14 +47,14 @@ The variance of the residuals \( \sigma(\epsilon) \) represents the residual vol
 
 [Quantitative analysis](../q/quantitative_analysis.md), including the calculation of residual volatility, is facilitated by sophisticated tools and platforms. Notable platforms include:
 
-1. **QuantConnect**: An open-source, cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that provides access to robust data and computational resources. [Visit QuantConnect](https://www.quantconnect.com/)
+1. **[QuantConnect](../q/quantconnect.md)**: An open-source, cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that provides access to robust data and computational resources. [Visit QuantConnect](https://www.quantconnect.com/)
 2. **AlphaVantage**: Offers comprehensive financial data APIs that support the [quantitative analysis](../q/quantitative_analysis.md) required to calculate residual volatility. [Visit AlphaVantage](https://www.alphavantage.co/)
-3. **Quantlib**: An open-source library for [quantitative finance](../q/quantitative_finance.md) that supports advanced pricing and [risk management](../r/risk_management.md) methodologies, including residual volatility calculations. [Visit Quantlib](https://www.quantlib.org/)
+3. **[Quantlib](../q/quantlib.md)**: An open-source library for [quantitative finance](../q/quantitative_finance.md) that supports advanced pricing and [risk management](../r/risk_management.md) methodologies, including residual volatility calculations. [Visit Quantlib](https://www.quantlib.org/)
 
 ### Academic and Industry References
 
 1. **Research Papers**: Numerous academic papers provide insights into the nuances of residual volatility and its implications for trading and [risk management](../r/risk_management.md). Publications such as the “Journal of [Financial Economics](../f/financial_economics.md)” often feature studies on residual volatility.
-2. **Industry Reports**: Financial institutions and analytics firms like Bloomberg and Refinitiv publish reports and white papers that explore the practical applications of residual volatility in various [trading strategies](../t/trading_strategies.md).
+2. **Industry Reports**: Financial institutions and analytics firms like [Bloomberg](../b/bloomberg.md) and Refinitiv publish reports and white papers that explore the practical applications of residual volatility in various [trading strategies](../t/trading_strategies.md).
 
 ### Conclusion
 

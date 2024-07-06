@@ -61,11 +61,11 @@ Transaction Cost Analysis (TCA) refers to the methodology of analyzing the costs
 
 1. **TCA Platforms**:
    - Specialized software platforms that provide comprehensive TCA services.
-   - Examples: Bloomberg Transaction Cost Analysis (BTCA), ITG TCA, Abel Noser Solutions.
+   - Examples: [Bloomberg](../b/bloomberg.md) Transaction Cost Analysis (BTCA), ITG TCA, Abel Noser Solutions.
 
 2. **Data Feeds and Analytics**:
    - [Real-time market data](../r/real-time_market_data.md) feeds and advanced analytics tools for monitoring trades and market conditions.
-   - Examples: Thomson Reuters DataScope, FactSet.
+   - Examples: Thomson [Reuters](../r/reuters.md) DataScope, [FactSet](../f/factset.md).
 
 3. **Machine Learning and AI**:
    - Leveraging machine learning and artificial intelligence to predict market impact and optimize [trading strategies](../t/trading_strategies.md).
@@ -82,7 +82,7 @@ Transaction Cost Analysis (TCA) refers to the methodology of analyzing the costs
 
 Transaction Cost Analysis is an essential practice for anyone involved in trading securities. By understanding and analyzing the various costs associated with trades, traders and investors can significantly improve their execution strategies and overall performance. Leveraging modern technology, data analytics, and regulatory frameworks ensures that trading activities are not only cost-efficient but also compliant with industry standards.
 
-For more comprehensive TCA solutions and services, firms like Bloomberg and ITG offer detailed resources and platforms tailored to meet the needs of sophisticated institutional traders.
-- Bloomberg Terminal: [Bloomberg TCA](https://www.bloomberg.com/professional/product/transaction-cost-analysis/)
+For more comprehensive TCA solutions and services, firms like [Bloomberg](../b/bloomberg.md) and ITG offer detailed resources and platforms tailored to meet the needs of sophisticated institutional traders.
+- [Bloomberg](../b/bloomberg.md) Terminal: [Bloomberg TCA](https://www.bloomberg.com/professional/product/transaction-cost-analysis/)
 - ITG (now part of Virtu Financial): [Virtu ITG Transaction Cost Analytics](https://www.virtu.com/solutions/analytics/transaction-cost-analytics/)
 - Abel Noser: [Abel Noser Solutions](https://www.abelnoser.com/)

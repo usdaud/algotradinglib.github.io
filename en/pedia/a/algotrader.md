@@ -1,22 +1,22 @@
-﻿# AlgoTrader
+# AlgoTrader
 
 ## Overview
-AlgoTrader is a comprehensive algorithmic trading software platform designed to support the full lifecycle of quantitative trading strategies. It provides the necessary tools and infrastructure for the development, backtesting, and deployment of algorithmic trading strategies.
+AlgoTrader is a comprehensive [algorithmic trading](../a/algorithmic_trading.md) software platform designed to support the full lifecycle of [quantitative trading](../q/quantitative_trading.md) strategies. It provides the necessary tools and infrastructure for the development, [backtesting](../b/backtesting.md), and deployment of [algorithmic trading](../a/algorithmic_trading.md) strategies.
 
 ## Features
 1. **Multi-Asset Class Support**: AlgoTrader supports trading across various asset classes including equities, forex, futures, options, and cryptocurrencies.
-2. **Automated Trading**: Allows for fully automated trading strategies execution.
-3. **Backtesting**: Comprehensive backtesting capabilities to test strategies against historical data.
-4. **Real-Time Data**: Integrates with multiple market data providers to offer real-time market data.
-5. **Risk Management**: In-built risk management tools to help manage trading risks effectively.
-6. **Order Management**: Advanced order management and execution algorithms.
+2. **Automated Trading**: Allows for fully automated [trading strategies](../t/trading_strategies.md) execution.
+3. **[Backtesting](../b/backtesting.md)**: Comprehensive [backtesting](../b/backtesting.md) capabilities to test strategies against historical data.
+4. **Real-Time Data**: Integrates with multiple market data providers to offer [real-time market data](../r/real-time_market_data.md).
+5. **[Risk Management](../r/risk_management.md)**: In-built [risk management](../r/risk_management.md) tools to help manage trading risks effectively.
+6. **Order Management**: Advanced order management and [execution algorithms](../e/execution_algorithms.md).
 7. **Connectivity**: Offers connectivity to a wide range of exchanges and brokers.
 
 ## Key Components
 - **Strategy Development**: Provides a robust development environment with support for multiple programming languages, including Java and Python.
-- **Backtesting Engine**: High-performance backtesting engine that can simulate trading strategies using historical market data.
+- **[Backtesting](../b/backtesting.md) Engine**: High-performance [backtesting](../b/backtesting.md) engine that can simulate [trading strategies](../t/trading_strategies.md) using historical market data.
 - **Live Trading**: Real-time trading engine that can execute trades based on the pre-defined strategies.
-- **Data Management**: Efficient management and storage of large datasets required for quantitative analysis.
+- **Data Management**: Efficient management and storage of large datasets required for [quantitative analysis](../q/quantitative_analysis.md).
 
 ## Integrations
 AlgoTrader integrates with various market data providers, brokers, and exchanges to ensure seamless data flow and trading execution. Some of the notable integrations include:

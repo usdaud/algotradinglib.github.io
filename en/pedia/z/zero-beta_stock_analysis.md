@@ -54,7 +54,7 @@ Tools such as [regression analysis](../r/regression_analysis.md) and scatter plo
 
 ### Screening Software
 
-Various financial software and platforms offer screening tools to identify zero-beta stocks. For example, platforms like Bloomberg, Reuters, and Yahoo Finance provide functionalities to screen stocks based on their beta.
+Various financial software and platforms offer screening tools to identify zero-beta stocks. For example, platforms like [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), and Yahoo Finance provide functionalities to screen stocks based on their beta.
 
 ## Analysis Techniques
 

@@ -69,11 +69,11 @@ Several tools and software platforms are widely used in the industry to create a
 - **R**: Offers powerful packages like ggplot2 for creating detailed scatter plots.
 - **Excel**: Despite being basic, Excel’s charting capabilities can be useful for quick and simple X-Y chart generation.
 - **Tableau**: Known for its robust [data visualization](../d/data_visualization.md) capabilities and interactive charts.
-- **QuantConnect and Zipline**: [Algorithmic trading](../a/algorithmic_trading.md) platforms that allow for extensive [data visualization](../d/data_visualization.md), including scatter plots, integrated into their [backtesting](../b/backtesting.md) engines.
+- **[QuantConnect](../q/quantconnect.md) and Zipline**: [Algorithmic trading](../a/algorithmic_trading.md) platforms that allow for extensive [data visualization](../d/data_visualization.md), including scatter plots, integrated into their [backtesting](../b/backtesting.md) engines.
 
 ### Example Companies
 
-- **QuantConnect**: [QuantConnect](https://www.quantconnect.com)
+- **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](https://www.quantconnect.com)
 - **Zipline (Quantopian)**: No longer active, but previously integrated robust [data visualization](../d/data_visualization.md).
 
 ## Practical Example

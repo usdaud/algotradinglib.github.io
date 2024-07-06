@@ -102,7 +102,7 @@ Numerous tools and platforms support [algorithmic trading](../a/algorithmic_trad
 
 ### 6.1. Trading Platforms
 
-Platforms like MetaTrader, Interactive Brokers, and Thinkorswim offer sophisticated tools for creating and executing [algorithmic trading](../a/algorithmic_trading.md) strategies.
+Platforms like MetaTrader, Interactive Brokers, and [Thinkorswim](../t/thinkorswim.md) offer sophisticated tools for creating and executing [algorithmic trading](../a/algorithmic_trading.md) strategies.
 
 #### Links:
 - [MetaTrader](https://www.metatrader5.com/en)
@@ -111,7 +111,7 @@ Platforms like MetaTrader, Interactive Brokers, and Thinkorswim offer sophistica
 
 ### 6.2. Algorithmic Trading Software
 
-Sophisticated software solutions like QuantConnect, AlgoTrader, and NinjaTrader allow the development, [backtesting](../b/backtesting.md), and deployment of short hedge strategies.
+Sophisticated software solutions like [QuantConnect](../q/quantconnect.md), [AlgoTrader](../a/algotrader.md), and [NinjaTrader](../n/ninjatrader.md) allow the development, [backtesting](../b/backtesting.md), and deployment of short hedge strategies.
 
 #### Links:
 - [QuantConnect](https://www.quantconnect.com/)

@@ -40,7 +40,7 @@ In [algorithmic trading](../a/algorithmic_trading.md), massive amounts of data a
 [Algorithmic trading](../a/algorithmic_trading.md) platforms employ various models to automate intrinsic value calculations. Key aspects include:
 
 - **Programming Languages**: Common languages include Python, R, C++, and Java due to their strong libraries and performance capabilities.
-- **APIs and Data Feeds**: Real-time and historical data are accessed through APIs from financial data providers like Bloomberg (https://www.bloomberg.com/professional/product/api/), Alpha Vantage (https://www.alphavantage.co/documentation/), and IEX Cloud (https://iexcloud.io/docs/api/).
+- **APIs and Data Feeds**: Real-time and historical data are accessed through APIs from financial data providers like [Bloomberg](../b/bloomberg.md) (https://www.[bloomberg](../b/bloomberg.md).com/professional/product/api/), Alpha Vantage (https://www.alphavantage.co/documentation/), and IEX Cloud (https://iexcloud.io/docs/api/).
 - **Machine Learning Algorithms**: These algorithms improve the accuracy of intrinsic value predictions by identifying patterns in large datasets.
 
 #### Strategy Development
@@ -58,7 +58,7 @@ With intrinsic value estimates, traders can develop and backtest various [tradin
 Several firms successfully integrate intrinsic value analysis into their [trading algorithms](../t/trading_algorithms.md):
 
 1. **Two Sigma**: A hedge fund using machine learning, distributed computing, and massive datasets to identify market inefficiencies (https://www.twosigma.com/).
-2. **QuantConnect**: An [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to build, backtest, and deploy strategies, offering a wide range of tools for [fundamental analysis](../f/fundamental_analysis.md) (https://www.quantconnect.com/).
+2. **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to build, backtest, and deploy strategies, offering a wide range of tools for [fundamental analysis](../f/fundamental_analysis.md) (https://www.[quantconnect](../q/quantconnect.md).com/).
 3. **Kensho Technologies**: Uses natural language processing and machine learning to analyze fundamental data and predict stock movements (https://www.kensho.com/).
 
 #### Performance Metrics

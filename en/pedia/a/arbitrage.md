@@ -50,15 +50,15 @@ Arbitrage is a fundamental concept in finance and trading, referring to the proc
 
 Several specialized software and algorithms are used to facilitate arbitrage trading. Some popular tools include:
 
-1. **QuantConnect**: A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple asset classes and provides tools for [backtesting](../b/backtesting.md) and live trading. [QuantConnect](https://www.quantconnect.com)
+1. **[QuantConnect](../q/quantconnect.md)**: A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple asset classes and provides tools for [backtesting](../b/backtesting.md) and live trading. [QuantConnect](https://www.quantconnect.com)
 
-2. **Quantlib**: An open-source library for [quantitative finance](../q/quantitative_finance.md), offering tools for pricing [derivatives](../d/derivatives.md), managing risk, and implementing advanced [trading strategies](../t/trading_strategies.md). [Quantlib](https://www.quantlib.org)
+2. **[Quantlib](../q/quantlib.md)**: An open-source library for [quantitative finance](../q/quantitative_finance.md), offering tools for pricing [derivatives](../d/derivatives.md), managing risk, and implementing advanced [trading strategies](../t/trading_strategies.md). [Quantlib](https://www.quantlib.org)
 
-3. **MultiCharts**: A professional charting and trading platform supporting advanced analysis and high-frequency [trading strategies](../t/trading_strategies.md). [MultiCharts](https://www.multicharts.com)
+3. **[MultiCharts](../m/multicharts.md)**: A professional charting and trading platform supporting advanced analysis and high-frequency [trading strategies](../t/trading_strategies.md). [MultiCharts](https://www.multicharts.com)
 
 4. **Interactive Brokers**: A brokerage firm that provides a robust API for automated trading, allowing the implementation of various arbitrage strategies. [Interactive Brokers](https://www.interactivebrokers.com)
 
-5. **TradeStation**: A trading platform that offers extensive support for [algorithmic trading](../a/algorithmic_trading.md), including tools for [backtesting](../b/backtesting.md) and strategy optimization. [TradeStation](https://www.tradestation.com)
+5. **[TradeStation](../t/tradestation.md)**: A trading platform that offers extensive support for [algorithmic trading](../a/algorithmic_trading.md), including tools for [backtesting](../b/backtesting.md) and strategy optimization. [TradeStation](https://www.tradestation.com)
 
 ### Conclusion
 

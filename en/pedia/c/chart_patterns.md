@@ -89,7 +89,7 @@ Chart patterns are more effective when combined with other [technical indicators
 
 Several companies and platforms specialize in providing [algorithmic trading](../a/algorithmic_trading.md) solutions that incorporate chart [pattern recognition](../p/pattern_recognition.md):
 
-- **TradingView:** Provides a robust platform for chart pattern analysis and is equipped with various tools for integrating these patterns into [algorithmic trading](../a/algorithmic_trading.md) strategies ([TradingView](https://www.tradingview.com/)).
+- **[TradingView](../t/tradingview.md):** Provides a robust platform for chart pattern analysis and is equipped with various tools for integrating these patterns into [algorithmic trading](../a/algorithmic_trading.md) strategies ([TradingView](https://www.tradingview.com/)).
   
 - **MetaStock:** Offers an array of software solutions for [technical analysis](../t/technical_analysis.md), including [pattern recognition](../p/pattern_recognition.md) tools ([MetaStock](https://www.metastock.com/)).
   

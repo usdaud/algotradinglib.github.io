@@ -24,7 +24,7 @@ Different time horizons for historical analysis can yield different insights:
 
 ### Calculation and Data Sources
 
-To calculate historical RS, one must gather the historical price data for both the stock and the benchmark. This data can often be retrieved from financial data providers like Bloomberg, Reuters, or even via APIs of stock exchanges.
+To calculate historical RS, one must gather the historical price data for both the stock and the benchmark. This data can often be retrieved from financial data providers like [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), or even via APIs of stock exchanges.
 
 ### Tools and Techniques
 
@@ -47,8 +47,8 @@ Various tools can be employed to analyze historical RS:
 To implement historical RS analysis within a trading system, you may use:
 
 - **Custom Scripts**: Written in languages like Python or R.
-- **Trading Platforms**: Many platforms like MetaTrader or thinkorswim provide tools for RS analysis.
-- **Third-Party Services**: Services from providers like QuantConnect (https://www.quantconnect.com/) or TradeStation (https://www.tradestation.com/) offer APIs and pre-built tools.
+- **Trading Platforms**: Many platforms like MetaTrader or [thinkorswim](../t/thinkorswim.md) provide tools for RS analysis.
+- **Third-Party Services**: Services from providers like [QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/) or [TradeStation](../t/tradestation.md) (https://www.[tradestation](../t/tradestation.md).com/) offer APIs and pre-built tools.
 
 ## Case Studies
 

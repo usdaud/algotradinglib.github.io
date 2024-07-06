@@ -77,8 +77,8 @@ Machine learning systems, on the other hand, are more dynamic and adapt by learn
 Various [algorithmic trading](../a/algorithmic_trading.md) platforms offer trendline analysis features, including:
 
 - **MetaTrader**: An extensive trading platform that allows automated trendline [trading strategies](../t/trading_strategies.md).
-- **TradingView**: Offers robust trendline drawing tools with an API for automation.
-- **AlgoTrader (https://www.algotrader.com/)**: Provides a comprehensive suite for developing and [backtesting](../b/backtesting.md) trendline-based strategies.
+- **[TradingView](../t/tradingview.md)**: Offers robust trendline drawing tools with an API for automation.
+- **[AlgoTrader](../a/algotrader.md) (https://www.[algotrader](../a/algotrader.md).com/)**: Provides a comprehensive suite for developing and [backtesting](../b/backtesting.md) trendline-based strategies.
 
 ### Conclusion
 

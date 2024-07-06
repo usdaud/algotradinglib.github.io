@@ -70,8 +70,8 @@ While the 5-day moving average is responsive, it still lags behind actual price 
 Various trading platforms and algo-trading services offer tools and APIs to calculate and implement moving averages, including the 5-day moving average. Some popular platforms are:
 
 - **MetaTrader 4/5**: A widely-used trading platform offering built-in indicators and scriptwriting capabilities for custom [trading algorithms](../t/trading_algorithms.md).
-- **TradingView**: An online platform that offers advanced charting tools and a scripting language called Pine Script for custom indicators and strategies.
-- **QuantConnect**: An [algorithmic trading](../a/algorithmic_trading.md) platform that provides [backtesting](../b/backtesting.md), optimization, and deployment tools for custom [trading strategies](../t/trading_strategies.md). [QuantConnect](https://www.quantconnect.com/)
+- **[TradingView](../t/tradingview.md)**: An online platform that offers advanced charting tools and a scripting language called Pine Script for custom indicators and strategies.
+- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that provides [backtesting](../b/backtesting.md), optimization, and deployment tools for custom [trading strategies](../t/trading_strategies.md). [QuantConnect](https://www.quantconnect.com/)
 - **Interactive Brokers’ API**: Allows traders to create custom [trading strategies](../t/trading_strategies.md) on the Interactive Brokers platform using various programming languages, including Python and Java. [Interactive Brokers](https://www.interactivebrokers.com/)
 
 ## Example Code

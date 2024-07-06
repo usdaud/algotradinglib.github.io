@@ -48,7 +48,7 @@ During bear markets or periods of economic recession, low beta stocks often outp
 
 There are various tools and platforms available for implementing [algorithmic trading](../a/algorithmic_trading.md) strategies, including low beta strategies. Here are a few prominent ones:
 
-- **QuantConnect**: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to design, test, and deploy their [trading strategies](../t/trading_strategies.md). QuantConnect supports coding in Python and C#.
+- **[QuantConnect](../q/quantconnect.md)**: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to design, test, and deploy their [trading strategies](../t/trading_strategies.md). [QuantConnect](../q/quantconnect.md) supports coding in Python and C#.
   - [QuantConnect](https://www.quantconnect.com/)
 
 - **Alpha Vantage**: Provides free APIs for financial data and is widely used in the [algorithmic trading](../a/algorithmic_trading.md) community.

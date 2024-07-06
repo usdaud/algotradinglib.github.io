@@ -15,7 +15,7 @@
 Python is an ideal choice for [algorithmic trading](../a/algorithmic_trading.md) for several reasons:
 1. **Ease of Use**: Python is known for its straightforward syntax and readability, making it accessible for beginners.
 2. **Extensive Libraries**: Libraries such as Pandas, NumPy, and SciPy are highly optimized for numerical calculations and data manipulation.
-3. **[Backtesting](../b/backtesting.md) Libraries**: Libraries like Backtrader and Zipline offer robust frameworks for testing [trading strategies](../t/trading_strategies.md) on past data.
+3. **[Backtesting](../b/backtesting.md) Libraries**: Libraries like [Backtrader](../b/backtrader.md) and Zipline offer robust frameworks for testing [trading strategies](../t/trading_strategies.md) on past data.
 4. **[Data Visualization](../d/data_visualization.md)**: Libraries such as Matplotlib and Seaborn provide tools for plotting and visualizing trading data.
 5. **APIs for Trading Platforms**: Python modules such as ccxt or Alpaca-py make it easier to connect and trade through various exchange’s APIs.
 
@@ -66,10 +66,10 @@ slope, intercept, r_value, p_value, std_err = linregress(x, y)
 
 ### Backtrader
 
-Backtrader is a Python library that allows for [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md).
+[Backtrader](../b/backtrader.md) is a Python library that allows for [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md).
 
 ```python
-import backtrader as bt
+import [backtrader](../b/backtrader.md) as bt
 
 class MyStrategy(bt.Strategy):
     def next(self):
@@ -115,7 +115,7 @@ def handle_data(context, data):
 start = pd.Timestamp('2017-01-01', tz=pytz.UTC)
 end = pd.Timestamp('2018-01-01', tz=pytz.UTC)
 
-results = run_algorithm(start=start, end=end, initialize=initialize, handle_data=handle_data, capital_base=10000, data_frequency='daily', bundle='quantopian-quandl')
+results = run_algorithm(start=start, end=end, initialize=initialize, handle_data=handle_data, capital_base=10000, data_frequency='daily', bundle='quantopian-[quandl](../q/quandl.md)')
 ```
 
 ## APIs for Real-Time Trading
@@ -195,10 +195,10 @@ def sma_strategy(data, short_window=40, long_window=100):
 
 ### Step 3: Backtesting
 
-Backtest the strategy using Backtrader or a custom [backtesting](../b/backtesting.md) script.
+Backtest the strategy using [Backtrader](../b/backtrader.md) or a custom [backtesting](../b/backtesting.md) script.
 
 ```python
-import backtrader as bt
+import [backtrader](../b/backtrader.md) as bt
 import yfinance as yf
 from datetime import datetime
 

@@ -42,7 +42,7 @@ Several tools and technologies are used in predictive analytics for [algorithmic
    
 4. **TensorFlow and PyTorch**: Deep learning frameworks used to build complex neural network models.
    
-5. **QuantConnect and Quantiacs**: Platforms that offer tools and datasets for [algorithmic trading](../a/algorithmic_trading.md) development.
+5. **[QuantConnect](../q/quantconnect.md) and Quantiacs**: Platforms that offer tools and datasets for [algorithmic trading](../a/algorithmic_trading.md) development.
    - [QuantConnect](https://www.quantconnect.com/)
    - [Quantiacs](https://quantiacs.com/)
 

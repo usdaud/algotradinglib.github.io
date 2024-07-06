@@ -74,8 +74,8 @@ Oil trading is a complex and multifaceted endeavor that involves the buying and 
 
 ### Notable Companies in Algorithmic Trading
 
-- **QuantConnect**: Offers a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports a wide range of asset classes, including oil. [QuantConnect](https://www.quantconnect.com/)
-- **AlgoTrader**: Provides an institutional-grade [algorithmic trading](../a/algorithmic_trading.md) software solution for trading multiple asset classes, including commodities. [AlgoTrader](https://www.algotrader.com/)
+- **[QuantConnect](../q/quantconnect.md)**: Offers a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports a wide range of asset classes, including oil. [QuantConnect](https://www.quantconnect.com/)
+- **[AlgoTrader](../a/algotrader.md)**: Provides an institutional-grade [algorithmic trading](../a/algorithmic_trading.md) software solution for trading multiple asset classes, including commodities. [AlgoTrader](https://www.algotrader.com/)
 
 ## Options Trading
 

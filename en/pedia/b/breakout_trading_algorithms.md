@@ -91,7 +91,7 @@ High-frequency trading (HFT) firms leverage breakout algorithms to make numerous
 
 ### 3. Retail Traders
 
-With the proliferation of trading platforms and software, retail traders can now implement [breakout trading](../b/breakout_trading.md) algorithms using tools like MetaTrader and TradeStation.
+With the proliferation of trading platforms and software, retail traders can now implement [breakout trading](../b/breakout_trading.md) algorithms using tools like MetaTrader and [TradeStation](../t/tradestation.md).
 
 ## Conclusion
 

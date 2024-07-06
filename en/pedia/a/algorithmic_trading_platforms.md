@@ -34,14 +34,14 @@ MetaTrader is one of the most widely used platforms in the retail trading world.
 - MetaTrader [Website](https://www.metatrader4.com/en)
 
 ### NinjaTrader
-NinjaTrader is a popular platform offering advanced charting, market analysis, and trading automation. It supports C# for scripting [trading strategies](../t/trading_strategies.md) and has a strong community of developers providing add-ons and plugins.
+[NinjaTrader](../n/ninjatrader.md) is a popular platform offering advanced charting, market analysis, and trading automation. It supports C# for scripting [trading strategies](../t/trading_strategies.md) and has a strong community of developers providing add-ons and plugins.
 
-- NinjaTrader [Website](https://www.ninjatrader.com/)
+- [NinjaTrader](../n/ninjatrader.md) [Website](https://www.ninjatrader.com/)
 
 ### QuantConnect
-QuantConnect is a cloud-based platform for [quantitative trading](../q/quantitative_trading.md) and research. It supports multiple programming languages, including C#, Python, and F#. The platform also offers a vast amount of historical data and integrates with various brokerage accounts for live trading.
+[QuantConnect](../q/quantconnect.md) is a cloud-based platform for [quantitative trading](../q/quantitative_trading.md) and research. It supports multiple programming languages, including C#, Python, and F#. The platform also offers a vast amount of historical data and integrates with various brokerage accounts for live trading.
 
-- QuantConnect [Website](https://www.quantconnect.com/)
+- [QuantConnect](../q/quantconnect.md) [Website](https://www.quantconnect.com/)
 
 ### Interactive Brokers
 Interactive Brokers (IB) is a well-known brokerage that offers its own trading platform called Trader Workstation (TWS). TWS supports [algorithmic trading](../a/algorithmic_trading.md) through its API, which can be used with various programming languages like Java, Python, and C++.
@@ -49,9 +49,9 @@ Interactive Brokers (IB) is a well-known brokerage that offers its own trading p
 - Interactive Brokers [Website](https://www.interactivebrokers.com/)
 
 ### TradeStation
-TradeStation offers a comprehensive suite of tools for [algorithmic trading](../a/algorithmic_trading.md), with a focus on customization and advanced analytics. It features EasyLanguage, a proprietary scripting language designed to simplify the development of [trading strategies](../t/trading_strategies.md).
+[TradeStation](../t/tradestation.md) offers a comprehensive suite of tools for [algorithmic trading](../a/algorithmic_trading.md), with a focus on customization and advanced analytics. It features EasyLanguage, a proprietary scripting language designed to simplify the development of [trading strategies](../t/trading_strategies.md).
 
-- TradeStation [Website](https://www.tradestation.com/)
+- [TradeStation](../t/tradestation.md) [Website](https://www.tradestation.com/)
 
 ### Alpaca
 Alpaca is an API-first stock and crypto brokerage platform. It is known for providing commission-free trading and offering robust API support for automated trading. It supports multiple programming languages including Python and JavaScript.
@@ -64,9 +64,9 @@ Interactive Brokers offers a powerful API that allows traders to build custom tr
 - Interactive Brokers API [Website](https://www.interactivebrokers.com/en/software/api/api.htm)
 
 ### TDAmeritrade ThinkOrSwim
-ThinkOrSwim is the trading platform offered by TDAmeritrade. Known for its rich feature set, it supports scripting through its proprietary ThinkScript language, enabling the development of complex [trading strategies](../t/trading_strategies.md). It also offers robust analysis tools and detailed data feeds.
+[ThinkOrSwim](../t/thinkorswim.md) is the trading platform offered by TDAmeritrade. Known for its rich feature set, it supports scripting through its proprietary ThinkScript language, enabling the development of complex [trading strategies](../t/trading_strategies.md). It also offers robust analysis tools and detailed data feeds.
 
-- ThinkOrSwim [Website](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
+- [ThinkOrSwim](../t/thinkorswim.md) [Website](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
 
 ## Conclusion
 [Algorithmic trading](../a/algorithmic_trading.md) platforms play a critical role in modern financial markets by providing the tools necessary for automated trading. These platforms combine advanced technologies, rich data access, and efficient execution capabilities to help traders implement and manage their strategies effectively. With a wide array of options available, traders can choose a platform that best fits their needs and trading styles.

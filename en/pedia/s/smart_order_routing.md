@@ -74,7 +74,7 @@ The operation of SOR can be broken down into several steps:
 
 3. **Virtu Financial**: Specializes in high-frequency trading and employs cutting-edge SOR to manage their order flows. [Virtu Financial](https://www.virtu.com/)
 
-4. **Bloomberg Tradebook**: Provides a trading platform with integrated SOR to optimize order execution. [Bloomberg Tradebook](https://www.bloomberg.com/professional/product/tradebook/)
+4. **[Bloomberg](../b/bloomberg.md) Tradebook**: Provides a trading platform with integrated SOR to optimize order execution. [Bloomberg Tradebook](https://www.bloomberg.com/professional/product/tradebook/)
 
 5. **Citadel Securities**: Utilizes advanced SOR algorithms to ensure high-quality trade execution for their market-making operations. [Citadel Securities](https://www.citadelsecurities.com/)
 

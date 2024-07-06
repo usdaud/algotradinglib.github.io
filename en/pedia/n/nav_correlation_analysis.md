@@ -58,9 +58,9 @@ Mutual fund managers utilize NAV [correlation analysis](../c/correlation_analysi
 
 Several tools and software platforms are available for conducting NAV [correlation analysis](../c/correlation_analysis.md). These include:
 
-- **Bloomberg Terminal**: Offers a comprehensive suite of analytical tools, including [correlation analysis](../c/correlation_analysis.md) functionalities.
+- **[Bloomberg](../b/bloomberg.md) Terminal**: Offers a comprehensive suite of analytical tools, including [correlation analysis](../c/correlation_analysis.md) functionalities.
 - [**Morningstar Direct**](https://www.morningstar.com/products/direct): Provides data and analytics on investment portfolios, including correlation metrics.
-- **FactSet**: An integrated financial data platform that includes [correlation analysis](../c/correlation_analysis.md) tools.
+- **[FactSet](../f/factset.md)**: An integrated financial data platform that includes [correlation analysis](../c/correlation_analysis.md) tools.
 - [**Portfolio Visualizer**](https://www.portfoliovisualizer.com): An online tool that provides [portfolio analysis](../p/portfolio_analysis.md), including correlation calculations.
 
 ### Conclusion

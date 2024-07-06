@@ -109,15 +109,15 @@ MetaTrader platforms offer extensive support for [algorithmic trading](../a/algo
 
 ### QuantConnect
 
-QuantConnect is a cloud-based platform for [algorithmic trading](../a/algorithmic_trading.md) that supports multiple languages including C#, Python, and F#. It offers extensive [backtesting](../b/backtesting.md) capabilities and integration with various brokerages for live trading.
+[QuantConnect](../q/quantconnect.md) is a cloud-based platform for [algorithmic trading](../a/algorithmic_trading.md) that supports multiple languages including C#, Python, and F#. It offers extensive [backtesting](../b/backtesting.md) capabilities and integration with various brokerages for live trading.
 
 ### TradeStation
 
-TradeStation provides a robust platform for developing, testing, and executing [algorithmic trading](../a/algorithmic_trading.md) strategies. It supports EasyLanguage, a programming language designed for [trading strategies](../t/trading_strategies.md).
+[TradeStation](../t/tradestation.md) provides a robust platform for developing, testing, and executing [algorithmic trading](../a/algorithmic_trading.md) strategies. It supports EasyLanguage, a programming language designed for [trading strategies](../t/trading_strategies.md).
 
 ### NinjaTrader
 
-NinjaTrader offers advanced charting tools, strategy development, and [backtesting](../b/backtesting.md) features. It supports C# for developing custom indicators and strategies.
+[NinjaTrader](../n/ninjatrader.md) offers advanced charting tools, strategy development, and [backtesting](../b/backtesting.md) features. It supports C# for developing custom indicators and strategies.
 
 ## Benefits and Risks of Price Channel Strategies
 

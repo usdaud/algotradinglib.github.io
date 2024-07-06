@@ -70,7 +70,7 @@ Central banks play a critical role in addressing ZLB challenges through unconven
 ## Companies and Tools
 Several companies and financial technology tools support [algorithmic trading](../a/algorithmic_trading.md) in ZLB environments:
 - **Numerai**: Offers a platform where traders can develop and test ML-driven [trading algorithms](../t/trading_algorithms.md) (https://numer.ai/).
-- **QuantConnect**: Provides a cloud-based [backtesting](../b/backtesting.md) and trading platform, supporting various algorithms and asset classes (https://www.quantconnect.com/).
+- **[QuantConnect](../q/quantconnect.md)**: Provides a cloud-based [backtesting](../b/backtesting.md) and trading platform, supporting various algorithms and asset classes (https://www.[quantconnect](../q/quantconnect.md).com/).
 - **Kensho Technologies**: Delivers AI-powered analytics for financial markets, aiding traders in extracting actionable insights (https://www.kensho.com/).
 
 ## Conclusion

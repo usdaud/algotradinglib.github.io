@@ -48,7 +48,7 @@ Post-trade TCA assesses the actual [trading costs](../t/trading_costs.md) incurr
 VWAP is a trading benchmark that calculates the average price at which a security has traded throughout the day, based on both volume and price. It is used to assess the quality of trade executions.
 
 **Example:**
-Bloomberg provides VWAP and other trading analytics tools, details of which can be found on [their website](https://www.bloomberg.com/professional/product/execution-management-system/).
+[Bloomberg](../b/bloomberg.md) provides VWAP and other trading analytics tools, details of which can be found on [their website](https://www.bloomberg.com/professional/product/execution-management-system/).
 
 ### 3. Implementation Shortfall
 Implementation shortfall measures the difference between the theoretical price at the decision time and the actual execution price. It encapsulates various [trading costs](../t/trading_costs.md) including market impact and slippage.
