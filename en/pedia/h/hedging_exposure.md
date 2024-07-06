@@ -89,11 +89,11 @@ Automated trading platforms like MetaTrader, QtTrader, and [ThinkOrSwim](../t/th
 
 ### 4.3 APIs and Integration
 
-Application Programming Interfaces (APIs) allow for seamless integration of [trading algorithms](../t/trading_algorithms.md) with brokerages and data providers. Popular APIs include Interactive Brokers API, Alpaca API, and TD Ameritrade API.
+Application Programming Interfaces (APIs) allow for seamless integration of [trading algorithms](../t/trading_algorithms.md) with brokerages and data providers. Popular APIs include Interactive Brokers API, [Alpaca](../a/alpaca.md) API, and TD [Ameritrade](../a/ameritrade.md) API.
 
 - **Interactive Brokers:** [Interactive Brokers API](https://www.interactivebrokers.com)
-- **Alpaca:** [Alpaca API](https://alpaca.markets)
-- **TD Ameritrade:** [TD Ameritrade API](https://www.tdameritrade.com)
+- **[Alpaca](../a/alpaca.md):** [Alpaca API](https://alpaca.markets)
+- **TD [Ameritrade](../a/ameritrade.md):** [TD Ameritrade API](https://www.tdameritrade.com)
 
 ### 4.4 Machine Learning and AI
 

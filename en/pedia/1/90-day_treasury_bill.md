@@ -52,7 +52,7 @@ Over the decades, the yield on 90-Day T-Bills has fluctuated significantly, refl
 Various online trading platforms facilitate the buying and selling of T-Bills directly. Examples include:
 
 - **TreasuryDirect**: A platform managed by the U.S. Department of the Treasury allowing direct purchase of T-Bills (https://www.treasurydirect.gov/).
-- **TD Ameritrade**: Provides an avenue for trading T-Bills along with a suite of tools for bonds and other fixed-income investments (https://www.tdameritrade.com/).
+- **TD [Ameritrade](../a/ameritrade.md)**: Provides an avenue for trading T-Bills along with a suite of tools for bonds and other fixed-income investments (https://www.tdameritrade.com/).
 - **Fidelity Investments**: Offers T-Bill trading and extensive research tools to help investors in their decision-making process (https://www.fidelity.com/).
 
 ### Integrating T-Bills in Algotrading Strategies

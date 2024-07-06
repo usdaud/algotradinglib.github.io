@@ -66,12 +66,12 @@ The conversion of a warrant involves exercising the right to purchase the underl
    E*TRADE offers warrant conversion facilities and allows individual and institutional investors to engage in warrant trading.
    [E*TRADE](https://us.etrade.com/home)
 
-3. **Charles Schwab:**
-   Under Charles Schwab, investors can trade and convert warrants. The broker provides extensive resources and platforms for these activities.
+3. **[Charles Schwab](../c/charles_schwab.md):**
+   Under [Charles Schwab](../c/charles_schwab.md), investors can trade and convert warrants. The broker provides extensive resources and platforms for these activities.
    [Charles Schwab](https://www.schwab.com/)
 
-4. **TD Ameritrade:**
-   TD Ameritrade offers services for warrant conversion and trading through its advanced trading platforms.
+4. **TD [Ameritrade](../a/ameritrade.md):**
+   TD [Ameritrade](../a/ameritrade.md) offers services for warrant conversion and trading through its advanced trading platforms.
    [TD Ameritrade](https://www.tdameritrade.com/home.html)
 
 #### Regulations and Compliance

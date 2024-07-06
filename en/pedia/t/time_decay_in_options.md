@@ -55,7 +55,7 @@ The application of advanced analytical tools and algorithms has transformed opti
 [Algorithmic trading](../a/algorithmic_trading.md) systems can efficiently monitor and respond to time decay across multiple options contracts, optimizing entry and exit points based on real-time data and mathematical models.
 
 **Theta-Optimized Trading Platforms:**
-Several trading platforms provide tools specifically designed to manage Theta. Examples include [ThinkOrSwim](../t/thinkorswim.md) by TD Ameritrade and OptionsHouse by E*TRADE.
+Several trading platforms provide tools specifically designed to manage Theta. Examples include [ThinkOrSwim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md) and OptionsHouse by E*TRADE.
 
 **[Backtesting](../b/backtesting.md):**
 [Backtesting](../b/backtesting.md) engines allow traders to simulate different scenarios and strategies to understand the impact of time decay on potential trades.

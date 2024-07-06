@@ -44,7 +44,7 @@ Decision Support Systems (DSS) are specialized information systems designed to s
 
 3. **[QuantConnect](../q/quantconnect.md)**: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that provides data and models for [backtesting](../b/backtesting.md) and live trading. Their platform can be integrated into DSS for developing and testing [trading strategies](../t/trading_strategies.md). [QuantConnect](https://www.quantconnect.com/)
 
-4. **Alpaca**: Offers a commission-free trading API that can be integrated with various DSS to execute trades programmatically. Their focus on API-driven trading makes them a valuable partner for [algorithmic trading](../a/algorithmic_trading.md) solutions. [Alpaca](https://alpaca.markets/)
+4. **[Alpaca](../a/alpaca.md)**: Offers a commission-free trading API that can be integrated with various DSS to execute trades programmatically. Their focus on API-driven trading makes them a valuable partner for [algorithmic trading](../a/algorithmic_trading.md) solutions. [Alpaca](https://alpaca.markets/)
 
 5. **[AlgoTrader](../a/algotrader.md)**: Provides institutional-grade [algorithmic trading](../a/algorithmic_trading.md) software that includes features for strategy design, [backtesting](../b/backtesting.md), and automated trading. Their comprehensive platform is an excellent example of an integrated DSS. [AlgoTrader](https://www.algotrader.com/)
 

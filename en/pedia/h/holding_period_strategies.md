@@ -25,7 +25,7 @@ High-frequency trading involves holding periods that are extremely short, often 
 [Swing trading](../s/swing_trading.md) strategies typically hold positions for several days to weeks. The goal is to capitalize on expected "swings" in the market, i.e., price fluctuations within a broader trend. Swing traders often rely on [technical analysis](../t/technical_analysis.md) to identify these swings.
 
 **Example Companies:**
-- **eToro**
+- **[eToro](../e/etoro.md)**
   - [eToro](https://www.etoro.com/)
 
 #### 4. Position Trading

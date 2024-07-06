@@ -80,7 +80,7 @@ Various platforms and companies provide advanced [volume analysis](../v/volume_a
 
   [NinjaTrader](../n/ninjatrader.md) provides powerful [volume analysis](../v/volume_analysis.md) tools, including advanced charting and strategy development features. It is favored by futures and forex traders for its comprehensive data and analysis capabilities. [NinjaTrader](https://www.ninjatrader.com/).
 
-- **[Thinkorswim](../t/thinkorswim.md) by TD Ameritrade**
+- **[Thinkorswim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md)**
 
   [Thinkorswim](../t/thinkorswim.md) offers sophisticated [volume analysis](../v/volume_analysis.md) tools and real-time data, making it ideal for active traders. Its platform is known for its robustness and extensive educational resources. [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page).
 

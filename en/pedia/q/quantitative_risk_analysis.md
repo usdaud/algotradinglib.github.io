@@ -85,7 +85,7 @@ With advancements in technology, real-time risk monitoring has become possible. 
 Several specialized software platforms are used to perform quantitative [risk analysis](../r/risk_analysis.md). These platforms offer tools for data analysis, risk assessment, and [algorithmic trading](../a/algorithmic_trading.md) strategy development.
 
 #### Notable Platforms
-- **Alpaca [www.alpaca.markets](https://www.alpaca.markets):** Provides API for [algorithmic trading](../a/algorithmic_trading.md) and [backtesting](../b/backtesting.md).
+- **[Alpaca](../a/alpaca.md) [www.alpaca.markets](https://www.alpaca.markets):** Provides API for [algorithmic trading](../a/algorithmic_trading.md) and [backtesting](../b/backtesting.md).
 - **QuantInsti [www.quantinsti.com](https://www.quantinsti.com):** Offers courses and platforms for learning [quantitative trading](../q/quantitative_trading.md).
 - **RiskWatch [www.riskwatch.com](https://www.riskwatch.com):** Software tools for real-time risk monitoring and management.
 

@@ -8,7 +8,7 @@ In the realm of [algorithmic trading](../a/algorithmic_trading.md), an essential
 Commissions are the fees that brokers charge for executing trades on behalf of traders. This is the most visible cost in trading and can vary widely depending on the broker, the market, and the volume of trading.
 
 **Example:**
-TD Ameritrade provides detailed information on their commission structures on [their website](https://www.tdameritrade.com/pricing.page).
+TD [Ameritrade](../a/ameritrade.md) provides detailed information on their commission structures on [their website](https://www.tdameritrade.com/pricing.page).
 
 ### 2. Exchange Fees
 Exchanges impose fees for the execution of trades, which can be influenced by the trading venue, transaction sizes, and frequency.

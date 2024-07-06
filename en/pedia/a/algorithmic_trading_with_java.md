@@ -14,7 +14,7 @@ To start developing [algorithmic trading](../a/algorithmic_trading.md) systems w
 
 3. **Maven or Gradle**: These are powerful build automation tools used for dependency management. Integrating a build tool with your project can significantly streamline the development process. Maven can be downloaded and installed from the [Apache Maven website](https://maven.apache.org/download.cgi).
 
-4. **APIs and Libraries**: To interact with financial markets and retrieve real-time data, you will need APIs and libraries such as Yahoo Finance API, Alpha Vantage, or even proprietary APIs offered by specific trading platforms. For instance, Alpaca offers an API specifically designed for algo trading which can be found [here](https://alpaca.markets/docs/api-documentation/).
+4. **APIs and Libraries**: To interact with financial markets and retrieve real-time data, you will need APIs and libraries such as Yahoo Finance API, Alpha Vantage, or even proprietary APIs offered by specific trading platforms. For instance, [Alpaca](../a/alpaca.md) offers an API specifically designed for algo trading which can be found [here](https://alpaca.markets/docs/api-documentation/).
 
 ## Data Collection and Preparation
 
@@ -134,14 +134,14 @@ After successful [backtesting](../b/backtesting.md) and refining of your strateg
 ### Example: Live Trading with Alpaca API
 
 ```java
-import io.github.mainstringargs.alpaca.AlpacaAPI;
-import io.github.mainstringargs.alpaca.enums.OrderSide;
-import io.github.mainstringargs.alpaca.rest.AlpacaAPI;
+import io.github.mainstringargs.[alpaca](../a/alpaca.md).AlpacaAPI;
+import io.github.mainstringargs.[alpaca](../a/alpaca.md).enums.OrderSide;
+import io.github.mainstringargs.[alpaca](../a/alpaca.md).rest.AlpacaAPI;
 
 public class LiveTrading {
 
     public static void main(String[] args) {
-        AlpacaAPI alpacaAPI = new AlpacaAPI("your-api-key", "your-api-secret", "https://paper-api.alpaca.markets");
+        AlpacaAPI alpacaAPI = new AlpacaAPI("your-api-key", "your-api-secret", "https://paper-api.[alpaca](../a/alpaca.md).markets");
         
         try {
             placeOrder(alpacaAPI, "AAPL", 10, OrderSide.BUY);

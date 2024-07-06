@@ -43,7 +43,7 @@ Optimization techniques, often based on mean-[variance analysis](../v/variance_a
 Machine learning models can dynamically adjust to new information and continually refine their predictions. These models can be used for risk estimation, fraud detection, and in optimizing [trading algorithms](../t/trading_algorithms.md). Companies like [QuantConnect](../q/quantconnect.md) offer platforms to integrate machine learning in [algorithmic trading](../a/algorithmic_trading.md) strategies (https://www.[quantconnect](../q/quantconnect.md).com/).
 
 ### 6. Real-Time Risk Monitoring
-Advanced software platforms and dashboards provide real-time monitoring of [risk metrics](../r/risk_metrics.md) such as VaR, beta, position sizes, and [stop-loss orders](../s/stop-loss_orders.md). Continuous monitoring enables swift corrective actions to be undertaken when risk parameters are breached. Alpaca provides API-based trading and risk management tools for better real-time intervention (https://alpaca.markets/).
+Advanced software platforms and dashboards provide real-time monitoring of [risk metrics](../r/risk_metrics.md) such as VaR, beta, position sizes, and [stop-loss orders](../s/stop-loss_orders.md). Continuous monitoring enables swift corrective actions to be undertaken when risk parameters are breached. [Alpaca](../a/alpaca.md) provides API-based trading and risk management tools for better real-time intervention (https://[alpaca](../a/alpaca.md).markets/).
 
 ## Risk Management in Different Types of Algorithmic Strategies
 

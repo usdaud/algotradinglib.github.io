@@ -110,7 +110,7 @@ Automated trading bots are sophisticated programs that interact with financial m
    It provides API access for automated trading bots to execute trades in real-time.
    [Interactive Brokers](https://www.interactivebrokers.com/)
 
-4. **Alpaca**
+4. **[Alpaca](../a/alpaca.md)**
 
    A commission-free trading platform with API support for various trading bots.
    [Alpaca](https://alpaca.markets/)

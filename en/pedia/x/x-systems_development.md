@@ -56,7 +56,7 @@ HPC enables the processing of vast amounts of data at high speeds. Components in
 
 #### 4. Financial APIs
 APIs facilitate the integration of various data sources and trading platforms. Key APIs include:
-- **Trading APIs**: Provided by brokers and exchanges like Interactive Brokers, TD Ameritrade, and Alpaca.
+- **Trading APIs**: Provided by brokers and exchanges like Interactive Brokers, TD [Ameritrade](../a/ameritrade.md), and [Alpaca](../a/alpaca.md).
 - **Market Data APIs**: Offered by providers like [Bloomberg](../b/bloomberg.md), Refinitiv, and Alpha Vantage.
 - **[Alternative Data](../a/alternative_data.md) APIs**: Sources like Twitter, Foursquare, and various satellite data providers.
 
@@ -79,7 +79,7 @@ Goldman Sachs employs sophisticated [algorithmic trading](../a/algorithmic_tradi
 [Website](https://www.quantconnect.com/)
 
 #### 5. Alpaca
-Alpaca offers commission-free trading and a robust API that enables users to build and execute [algorithmic trading](../a/algorithmic_trading.md) strategies.
+[Alpaca](../a/alpaca.md) offers commission-free trading and a robust API that enables users to build and execute [algorithmic trading](../a/algorithmic_trading.md) strategies.
 [Website](https://alpaca.markets/)
 
 ### Conclusion

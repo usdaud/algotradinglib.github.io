@@ -56,7 +56,7 @@ Some argue that momentum profits are a compensation for risk. For example, stock
 
 ### Algorithmic Trading Platforms
 
-Momentum strategies are commonly implemented on [algorithmic trading](../a/algorithmic_trading.md) platforms that use sophisticated algorithms to identify and exploit momentum patterns. Platforms like [QuantConnect](../q/quantconnect.md), Alpaca, and Interactive Brokers offer tools and APIs for developing and executing momentum-based [trading strategies](../t/trading_strategies.md).
+Momentum strategies are commonly implemented on [algorithmic trading](../a/algorithmic_trading.md) platforms that use sophisticated algorithms to identify and exploit momentum patterns. Platforms like [QuantConnect](../q/quantconnect.md), [Alpaca](../a/alpaca.md), and Interactive Brokers offer tools and APIs for developing and executing momentum-based [trading strategies](../t/trading_strategies.md).
 
 ### Exchange-Traded Funds (ETFs)
 

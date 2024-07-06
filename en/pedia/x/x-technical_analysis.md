@@ -81,7 +81,7 @@ Several platforms and tools are available for traders to perform [technical anal
 
 - **[TradingView](../t/tradingview.md):** A widely used charting platform that offers a range of [technical analysis](../t/technical_analysis.md) tools, indicators, and social features. Visit: [TradingView](https://www.tradingview.com/)
 - **MetaTrader 4/5:** Popular trading platforms that offer advanced charting and [technical analysis](../t/technical_analysis.md) tools. Visit: [MetaTrader](https://www.metatrader5.com/)
-- **[Thinkorswim](../t/thinkorswim.md) by TD Ameritrade:** A comprehensive trading platform that provides [advanced technical analysis](../a/advanced_technical_analysis.md) tools and educational resources. Visit: [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
+- **[Thinkorswim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md):** A comprehensive trading platform that provides [advanced technical analysis](../a/advanced_technical_analysis.md) tools and educational resources. Visit: [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
 
 ## Conclusion
 

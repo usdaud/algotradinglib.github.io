@@ -108,7 +108,7 @@ Several tools and platforms provide market capitalization data and analysis:
 
 ### **Algorithmic Trading Platforms**
 - **[QuantConnect](../q/quantconnect.md)**: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform supporting multiple asset classes and strategies. [QuantConnect](https://www.quantconnect.com/)
-- **Alpaca**: A commission-free trading platform with APIs for [algorithmic trading](../a/algorithmic_trading.md). [Alpaca](https://alpaca.markets/)
+- **[Alpaca](../a/alpaca.md)**: A commission-free trading platform with APIs for [algorithmic trading](../a/algorithmic_trading.md). [Alpaca](https://alpaca.markets/)
 
 ## Conclusion
 

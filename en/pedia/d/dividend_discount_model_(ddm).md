@@ -140,7 +140,7 @@ Several companies and platforms offer tools and services to implement dividend d
 - **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple financial models, including DDM, and offers extensive historical market data and a collaborative research environment.
   Website: [QuantConnect](https://www.quantconnect.com/)
 
-- **Alpaca**: A commission-free trading platform with robust API support for automating [trading strategies](../t/trading_strategies.md) based on [fundamental analysis](../f/fundamental_analysis.md) models like DDM.
+- **[Alpaca](../a/alpaca.md)**: A commission-free trading platform with robust API support for automating [trading strategies](../t/trading_strategies.md) based on [fundamental analysis](../f/fundamental_analysis.md) models like DDM.
   Website: [Alpaca](https://alpaca.markets/)
 
 ## Conclusion

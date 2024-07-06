@@ -65,7 +65,7 @@ Many trading platforms and software include TEMA as part of their built-in [tech
 - **MetaTrader:** Widely used for forex and stock trading, MetaTrader allows users to apply TEMA directly on price charts.
   - Website: [MetaTrader](https://www.metatrader5.com/)
   
-- **[Thinkorswim](../t/thinkorswim.md):** Offered by TD Ameritrade, this platform provides TEMA along with various customization options for [technical analysis](../t/technical_analysis.md).
+- **[Thinkorswim](../t/thinkorswim.md):** Offered by TD [Ameritrade](../a/ameritrade.md), this platform provides TEMA along with various customization options for [technical analysis](../t/technical_analysis.md).
   - Website: [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.html)
   
 - **[TradingView](../t/tradingview.md):** Known for its ease of use, [TradingView](../t/tradingview.md) supports TEMA and lets users backtest strategies.

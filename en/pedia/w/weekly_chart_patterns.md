@@ -95,8 +95,8 @@ Several platforms and tools support weekly chart pattern analysis for [algorithm
 To execute trades based on weekly [chart patterns](../c/chart_patterns.md), traders can integrate their algorithms with brokerage APIs:
 
 - **Interactive Brokers**: Offers an API for executing trades directly from algorithmic strategies. [Interactive Brokers API](https://www.interactivebrokers.com/en/index.php?f=5041)
-- **TD Ameritrade**: Provides [algorithmic trading](../a/algorithmic_trading.md) capabilities through its [thinkorswim](../t/thinkorswim.md) platform. [TD Ameritrade API](https://developer.tdameritrade.com/)
-- **Alpaca**: A commission-free trading platform with API access. [Alpaca API](https://alpaca.markets/docs/api-documentation/)
+- **TD [Ameritrade](../a/ameritrade.md)**: Provides [algorithmic trading](../a/algorithmic_trading.md) capabilities through its [thinkorswim](../t/thinkorswim.md) platform. [TD Ameritrade API](https://developer.tdameritrade.com/)
+- **[Alpaca](../a/alpaca.md)**: A commission-free trading platform with API access. [Alpaca API](https://alpaca.markets/docs/api-documentation/)
 
 ### 5. **Risk Mitigation**
 

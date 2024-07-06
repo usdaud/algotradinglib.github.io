@@ -62,7 +62,7 @@ In [algorithmic trading](../a/algorithmic_trading.md), it's critical to adapt va
 Various companies offer platforms and tools that help in the valuation and execution of [algorithmic trading](../a/algorithmic_trading.md) strategies.
 
 - **[QuantConnect](../q/quantconnect.md)**: [quantconnect.com](https://www.quantconnect.com)
-- **Alpaca Markets**: [alpaca.markets](https://alpaca.markets)
+- **[Alpaca](../a/alpaca.md) Markets**: [alpaca.markets](https://alpaca.markets)
 - **Numerai**: [numer.ai](https://numer.ai)
 - **[Bloomberg](../b/bloomberg.md) Terminal**: Offers real-time data analytics, which can be essential for valuation in [algorithmic trading](../a/algorithmic_trading.md). [bloomberg.com/professional/solution/bloomberg-terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 

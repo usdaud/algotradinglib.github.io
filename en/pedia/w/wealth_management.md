@@ -37,7 +37,7 @@ Several advanced tools and platforms have been developed to aid wealth managemen
 
 - **Wealthfront:** An automated investment service aimed at providing sophisticated investment strategies through algorithms. [Wealthfront](https://www.wealthfront.com)
 - **Betterment:** Another leading automated investing service that uses modern portfolio theory to optimize portfolio allocations. [Betterment](https://www.betterment.com)
-- **Charles Schwab Intelligent Portfolios:** A robo-advisory offering that uses algorithms to build, monitor, and rebalance diversified portfolios. [Charles Schwab](https://intelligent.schwab.com)
+- **[Charles Schwab](../c/charles_schwab.md) Intelligent Portfolios:** A robo-advisory offering that uses algorithms to build, monitor, and rebalance diversified portfolios. [Charles Schwab](https://intelligent.schwab.com)
 
 ## Regulatory Considerations
 

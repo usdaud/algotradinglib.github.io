@@ -39,7 +39,7 @@ Several software tools and platforms help traders perform uptick [volume analysi
 
 - **[Bloomberg](../b/bloomberg.md) Terminal**: Provides comprehensive market data, including uptick volumes (https://www.[bloomberg](../b/bloomberg.md).com/professional/solution/[bloomberg](../b/bloomberg.md)-terminal/)
 - **MetaTrader**: A popular trading platform with tools for [volume analysis](../v/volume_analysis.md) (https://www.[metatrader4](../m/metatrader4.md).com/)
-- **[Thinkorswim](../t/thinkorswim.md)**: An advanced trading platform by TD Ameritrade with robust [volume analysis](../v/volume_analysis.md) tools (https://www.tdameritrade.com/tools-and-platforms/[thinkorswim](../t/thinkorswim.md)/desktop.html)
+- **[Thinkorswim](../t/thinkorswim.md)**: An advanced trading platform by TD [Ameritrade](../a/ameritrade.md) with robust [volume analysis](../v/volume_analysis.md) tools (https://www.tdameritrade.com/tools-and-platforms/[thinkorswim](../t/thinkorswim.md)/desktop.html)
 
 ## Applications of Uptick Volume Analysis
 

@@ -73,7 +73,7 @@ Even after deployment, continuous monitoring is essential to ensure that the str
 - **Simulation:** Run the algorithm on historical data to simulate trades and assess performance.
 
 ### Execution
-- **Trading Platform:** Implement the strategy using an API from platforms like Alpaca (https://alpaca.markets/) or QuantInsti (https://www.quantinsti.com/algorithmic-trading-platform).
+- **Trading Platform:** Implement the strategy using an API from platforms like [Alpaca](../a/alpaca.md) (https://[alpaca](../a/alpaca.md).markets/) or QuantInsti (https://www.quantinsti.com/algorithmic-trading-platform).
 - **Order Types:** Use limit orders to ensure trades are executed at desired prices.
 
 ### Monitoring
@@ -108,6 +108,6 @@ The rise of blockchain technology and DeFi presents new opportunities and challe
 There's a growing focus on environmental, social, and governance (ESG) factors in [trading strategies](../t/trading_strategies.md). Combining data-driven methods with ESG criteria can identify socially responsible investment opportunities.
 
 ### 4. **Increased Democratization**
-Platforms like Robinhood (https://www.robinhood.com/) are making trading more accessible to retail investors. As a result, there is likely to be a surge in the adoption of data-driven strategies among individual traders.
+Platforms like [Robinhood](../r/robinhood.md) (https://www.[robinhood](../r/robinhood.md).com/) are making trading more accessible to retail investors. As a result, there is likely to be a surge in the adoption of data-driven strategies among individual traders.
 
 In summary, data-driven [trading strategies](../t/trading_strategies.md) represent a confluence of quantitative methods, computational power, and [real-time data analysis](../r/real-time_data_analysis.md). While there are inherent challenges, the potential for high returns and [risk management](../r/risk_management.md) makes it an attractive domain for traders and investors alike.

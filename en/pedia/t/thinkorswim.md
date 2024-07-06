@@ -1,6 +1,6 @@
 # ThinkOrSwim (TOS)
 
-ThinkOrSwim, often abbreviated as TOS, is a comprehensive trading platform developed and offered by TD Ameritrade. Known for its robust features and advanced capabilities, ThinkOrSwim caters to both novice and experienced traders across various asset classes.
+ThinkOrSwim, often abbreviated as TOS, is a comprehensive trading platform developed and offered by TD [Ameritrade](../a/ameritrade.md). Known for its robust features and advanced capabilities, ThinkOrSwim caters to both novice and experienced traders across various asset classes.
 
 ## Key Features
 
@@ -120,7 +120,7 @@ ThinkOrSwim, often abbreviated as TOS, is a comprehensive trading platform devel
 
 ## Pricing and Requirements
 
-- Free to TD Ameritrade account holders
+- Free to TD [Ameritrade](../a/ameritrade.md) account holders
 - No additional fees for platform use
 - Minimum system requirements:
  - Windows 10 or macOS 10.13 or higher
@@ -140,7 +140,7 @@ ThinkOrSwim, often abbreviated as TOS, is a comprehensive trading platform devel
 
 - API access for [algorithmic trading](../a/algorithmic_trading.md) (requires approval)
 - Data export capabilities for further analysis
-- Integration with TD Ameritrade accounts and services
+- Integration with TD [Ameritrade](../a/ameritrade.md) accounts and services
 
 ## Community and Support
 
@@ -156,6 +156,6 @@ ThinkOrSwim, often abbreviated as TOS, is a comprehensive trading platform devel
 3. No additional costs for real-time data or platform use
 4. Powerful customization through thinkScript
 5. Robust paper [trading environment](../t/trading_environment.md)
-6. Integration with TD Ameritrade's extensive educational resources
+6. Integration with TD [Ameritrade](../a/ameritrade.md)'s extensive educational resources
 
-ThinkOrSwim stands out for its combination of advanced features, ease of use, and integration with TD Ameritrade's broader ecosystem. It's particularly favored by options traders and those seeking a platform that can grow with their trading sophistication. The platform's continuous updates and improvements, along with its strong community support, make it a top choice for many retail traders in the United States.
+ThinkOrSwim stands out for its combination of advanced features, ease of use, and integration with TD [Ameritrade](../a/ameritrade.md)'s broader ecosystem. It's particularly favored by options traders and those seeking a platform that can grow with their trading sophistication. The platform's continuous updates and improvements, along with its strong community support, make it a top choice for many retail traders in the United States.

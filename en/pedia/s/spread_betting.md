@@ -87,7 +87,7 @@ Scalping is a high-frequency trading strategy where traders make numerous small 
 
 ### CMC Markets
 
-[CMC Markets](https://www.cmcmarkets.com) provides a comprehensive spread betting platform with access to thousands of markets, including indices, forex, commodities, and stocks. Established in 1989, CMC Markets is known for its robust trading interface and customer support.
+[CMC Markets](https://www.cmcmarkets.com) provides a comprehensive spread betting platform with access to thousands of markets, including indices, forex, commodities, and stocks. Established in 1989, [CMC Markets](../c/cmc_markets.md) is known for its robust trading interface and customer support.
 
 ### Spreadex
 

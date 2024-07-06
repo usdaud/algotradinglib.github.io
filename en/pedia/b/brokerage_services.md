@@ -47,7 +47,7 @@ Interactive Brokers is one of the premier brokerage firms offering comprehensive
 - [Interactive Brokers](https://www.interactivebrokers.com)
 
 ### Charles Schwab
-Charles Schwab integrates sophisticated trading tools and APIs suitable for algo trading, appealing to both retail and institutional traders.
+[Charles Schwab](../c/charles_schwab.md) integrates sophisticated trading tools and APIs suitable for algo trading, appealing to both retail and institutional traders.
 - [Charles Schwab](https://www.schwab.com)
 
 ### TradeStation
@@ -55,7 +55,7 @@ Charles Schwab integrates sophisticated trading tools and APIs suitable for algo
 - [TradeStation](https://www.tradestation.com)
 
 ### TD Ameritrade
-TD Ameritrade provides a highly customizable trading platform, [thinkorswim](../t/thinkorswim.md), which offers features suitable for algorithmic traders, such as advanced charting and [risk management](../r/risk_management.md) tools.
+TD [Ameritrade](../a/ameritrade.md) provides a highly customizable trading platform, [thinkorswim](../t/thinkorswim.md), which offers features suitable for algorithmic traders, such as advanced charting and [risk management](../r/risk_management.md) tools.
 - [TD Ameritrade](https://www.tdameritrade.com)
 
 ### Fidelity Investments

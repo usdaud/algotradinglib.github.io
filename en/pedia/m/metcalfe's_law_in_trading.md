@@ -22,11 +22,11 @@ Ethereum's network value can also be analyzed through the lens of Metcalfe's Law
 
 ### Social Trading Platforms
 
-[Social trading](../s/social_trading.md) platforms like eToro utilize the principles of Metcalfe's Law to increase their value. As more traders join the platform, the variety of available [trading strategies](../t/trading_strategies.md) and the potential for knowledge sharing and signal copying increase. This network effect creates a more valuable and dynamic [trading environment](../t/trading_environment.md).
+[Social trading](../s/social_trading.md) platforms like [eToro](../e/etoro.md) utilize the principles of Metcalfe's Law to increase their value. As more traders join the platform, the variety of available [trading strategies](../t/trading_strategies.md) and the potential for knowledge sharing and signal copying increase. This network effect creates a more valuable and dynamic [trading environment](../t/trading_environment.md).
 
 #### eToro
 
-eToro is a [social trading](../s/social_trading.md) and multi-asset brokerage company that provides services for trading and investing in various financial instruments. The platform allows users to follow and copy the trades of successful traders, leveraging the collective wisdom of the crowd. The increasing number of users enhances the platform's value, making it a prime example of Metcalfe's Law in action within trading.
+[eToro](../e/etoro.md) is a [social trading](../s/social_trading.md) and multi-asset brokerage company that provides services for trading and investing in various financial instruments. The platform allows users to follow and copy the trades of successful traders, leveraging the collective wisdom of the crowd. The increasing number of users enhances the platform's value, making it a prime example of Metcalfe's Law in action within trading.
 
 [Visit eToro](https://www.etoro.com/)
 

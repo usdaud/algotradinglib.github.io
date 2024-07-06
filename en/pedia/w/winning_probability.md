@@ -49,7 +49,7 @@ The quality and granularity of data used in estimating winning probability are c
 MetaTrader, known for its popular trading platforms MetaTrader 4 and MetaTrader 5, offers tools for [backtesting](../b/backtesting.md) and analyzing [trading strategies](../t/trading_strategies.md). Traders can utilize MetaTrader's extensive features to calculate winning probabilities and optimize their strategies. Visit the [MetaTrader website](https://www.metatrader5.com) for more details.
 
 ### Quantopian (Now Part of Robinhood)
-Quantopian was a platform that provided tools for developing, testing, and deploying [trading algorithms](../t/trading_algorithms.md). It specialized in providing resources for calculating winning probabilities and optimizing [trading strategies](../t/trading_strategies.md). Although Quantopian has now been integrated into Robinhood, many of their tools and methodologies can still be found through Robinhood's [algorithmic trading](../a/algorithmic_trading.md) services. More information can be found on the [Robinhood website](https://www.robinhood.com).
+Quantopian was a platform that provided tools for developing, testing, and deploying [trading algorithms](../t/trading_algorithms.md). It specialized in providing resources for calculating winning probabilities and optimizing [trading strategies](../t/trading_strategies.md). Although Quantopian has now been integrated into [Robinhood](../r/robinhood.md), many of their tools and methodologies can still be found through [Robinhood](../r/robinhood.md)'s [algorithmic trading](../a/algorithmic_trading.md) services. More information can be found on the [Robinhood website](https://www.robinhood.com).
 
 ## Practical Application and Example
 

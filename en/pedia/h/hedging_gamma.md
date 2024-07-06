@@ -77,7 +77,7 @@ Hedging gamma, while beneficial, comes with its own set of challenges and consid
 In modern trading, numerous software tools and platforms can assist in [gamma hedging](../g/gamma_hedging.md), providing real-time analytics and automated [trading algorithms](../t/trading_algorithms.md):
 
 - **[Bloomberg](../b/bloomberg.md) Terminal**: A popular choice among professional traders, offering comprehensive options analytics and real-time data.
-- **[Thinkorswim](../t/thinkorswim.md) by TD Ameritrade**: A powerful trading platform that includes advanced [options Greeks analysis](../o/options_greeks_analysis.md) tools.
+- **[Thinkorswim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md)**: A powerful trading platform that includes advanced [options Greeks analysis](../o/options_greeks_analysis.md) tools.
 - **[TradeStation](../t/tradestation.md)**: Offers robust tools for options trading and Greeks analysis to help in [gamma hedging](../g/gamma_hedging.md).
 - **Orats**: Provides advanced options research and [trading strategies](../t/trading_strategies.md) to optimize [gamma hedging](../g/gamma_hedging.md).
 

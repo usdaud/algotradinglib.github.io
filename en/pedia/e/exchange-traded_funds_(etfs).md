@@ -84,7 +84,7 @@ State Street Global Advisors is another major player in the ETF market with thei
 Invesco offers a wide range of ETFs under the PowerShares brand. These ETFs cover various equity, fixed income, and commodity indices, catering to both retail and institutional investors. Detailed information can be found on their [website](https://www.invesco.com/us/financial-products/etfs).
 
 ### Charles Schwab
-Charles Schwab provides a broad selection of ETFs with competitive expense ratios and commission-free trading for Schwab clients. Schwab ETFs aim to offer investors a cost-effective way to diversify their portfolios. More details can be found on their [website](https://www.schwab.com/etfs).
+[Charles Schwab](../c/charles_schwab.md) provides a broad selection of ETFs with competitive expense ratios and commission-free trading for Schwab clients. Schwab ETFs aim to offer investors a cost-effective way to diversify their portfolios. More details can be found on their [website](https://www.schwab.com/etfs).
 
 ## Conclusion
 

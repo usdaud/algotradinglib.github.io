@@ -42,7 +42,7 @@ To mitigate the risks associated with [whipsaw patterns](../w/whipsaw_patterns.m
 
 ### Examples of Whipsaw Mitigation in Algorithmic Trading
 
-Several companies specialize in providing advanced [trading algorithms](../t/trading_algorithms.md) designed to handle [whipsaw patterns](../w/whipsaw_patterns.md). For example, **Alpaca Trading** (https://alpaca.markets/) offers a range of API-enabled trading tools that help developers create algorithms capable of identifying and reacting to rapid market changes.
+Several companies specialize in providing advanced [trading algorithms](../t/trading_algorithms.md) designed to handle [whipsaw patterns](../w/whipsaw_patterns.md). For example, **[Alpaca](../a/alpaca.md) Trading** (https://[alpaca](../a/alpaca.md).markets/) offers a range of API-enabled trading tools that help developers create algorithms capable of identifying and reacting to rapid market changes.
 
 ### Conclusion
 

@@ -94,12 +94,12 @@ def adjust_trailing_stop(current_price, highest_price, trailing_pct):
 
 #### 3. **Integrating with Trading Platforms**
 
-Many platforms offer APIs to place and manage stop-loss orders. Libraries like `alpaca-trade-api` for Alpaca (https://alpaca.markets/) or `ccxt` for various exchanges can be used.
+Many platforms offer APIs to place and manage stop-loss orders. Libraries like `[alpaca](../a/alpaca.md)-trade-api` for [Alpaca](../a/alpaca.md) (https://[alpaca](../a/alpaca.md).markets/) or `ccxt` for various exchanges can be used.
 
 ```python
 import alpaca_trade_api as tradeapi
 
-api = tradeapi.REST('<API_KEY>', '<SECRET_KEY>', base_url='https://paper-api.alpaca.markets')
+api = tradeapi.REST('<API_KEY>', '<SECRET_KEY>', base_url='https://paper-api.[alpaca](../a/alpaca.md).markets')
 
 # Place a stop-loss order
 order = api.submit_order(

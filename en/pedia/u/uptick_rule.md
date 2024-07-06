@@ -70,7 +70,7 @@ While the initial repeal of the Uptick Rule was met with skepticism, the introdu
 
 ### Brokerage Firms
 
-- **Charles Schwab**: A prominent brokerage firm that has implemented necessary systems and procedures to comply with [short selling](../s/short_selling.md) regulations, providing retail and institutional traders with compliant trading platforms. [Charles Schwab](https://www.schwab.com/)
+- **[Charles Schwab](../c/charles_schwab.md)**: A prominent brokerage firm that has implemented necessary systems and procedures to comply with [short selling](../s/short_selling.md) regulations, providing retail and institutional traders with compliant trading platforms. [Charles Schwab](https://www.schwab.com/)
 
 - **Fidelity Investments**: Another major brokerage firm offering trading services with built-in compliance measures for [short selling](../s/short_selling.md) rules, ensuring clients adhere to regulatory requirements. [Fidelity](https://www.fidelity.com/)
 

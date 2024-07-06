@@ -103,7 +103,7 @@ def moving_average_crossover_strategy(prices, short_window=40, long_window=100):
 Website: [QuantConnect](https://www.quantconnect.com)
 
 ### 2. Alpaca
-Alpaca offers commission-free trading and [portfolio management](../p/portfolio_management.md) APIs. Their platform supports [algorithmic trading](../a/algorithmic_trading.md) strategies, including those based on uptrend analysis.
+[Alpaca](../a/alpaca.md) offers commission-free trading and [portfolio management](../p/portfolio_management.md) APIs. Their platform supports [algorithmic trading](../a/algorithmic_trading.md) strategies, including those based on uptrend analysis.
 
 Website: [Alpaca](https://alpaca.markets)
 

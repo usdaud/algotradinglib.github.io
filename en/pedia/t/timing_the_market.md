@@ -74,7 +74,7 @@ Several platforms and software are available to assist traders in timing the mar
 - [TradeStation](https://www.tradestation.com/)
 - **[QuantConnect](../q/quantconnect.md)**: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple asset classes.
 - [QuantConnect](https://www.quantconnect.com/)
-- **[Thinkorswim](../t/thinkorswim.md)**: A trading platform from TD Ameritrade that offers advanced charting, analysis, and trading tools.
+- **[Thinkorswim](../t/thinkorswim.md)**: A trading platform from TD [Ameritrade](../a/ameritrade.md) that offers advanced charting, analysis, and trading tools.
 - [Thinkorswim](https://www.thinkorswim.com/)
 
 ### Conclusion

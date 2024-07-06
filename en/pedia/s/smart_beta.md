@@ -59,7 +59,7 @@ Yield-focused [Smart Beta strategies](../s/smart_beta_strategies.md) allocate in
 4. **WisdomTree**: Specializing in dividend-paying stocks and other factor-based strategies, WisdomTree offers a diverse range of Smart Beta products. 
    - [WisdomTree](https://www.wisdomtree.com/etfs/equity)
 
-5. **Charles Schwab**: Provides a suite of Smart Beta ETFs designed to focus on specific investment factors like low volatility and fundamental indexing.
+5. **[Charles Schwab](../c/charles_schwab.md)**: Provides a suite of Smart Beta ETFs designed to focus on specific investment factors like low volatility and fundamental indexing.
    - [Schwab ETFs](https://www.schwab.com/schwab-etfs)
 
 ## Conclusion

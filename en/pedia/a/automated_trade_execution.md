@@ -71,7 +71,7 @@ Automated trade execution systems are vulnerable to cyber attacks, which can lea
 
 ### 2. **Brokerage Firms**
 Brokerage firms offer automated trading services to their clients, enabling them to participate in the financial markets efficiently. Examples include:
-- **TD Ameritrade**: [TD Ameritrade](https://www.tdameritrade.com/)
+- **TD [Ameritrade](../a/ameritrade.md)**: [TD Ameritrade](https://www.tdameritrade.com/)
 - **E*TRADE**: [E*TRADE](https://us.etrade.com/)
 
 ### 3. **Hedge Funds**

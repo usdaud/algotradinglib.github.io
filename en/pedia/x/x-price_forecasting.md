@@ -66,9 +66,9 @@ HFT firms use X-Price [Forecasting models](../f/forecasting_models.md) to make r
 Hedge funds and asset managers use sophisticated [forecasting models](../f/forecasting_models.md) to devise long-term investment strategies and manage portfolios. Two Sigma, for instance, employs machine learning and AI-driven models to forecast market movements (https://www.twosigma.com).
 
 ### Retail Trading Platforms
-Retail trading platforms integrate forecasting tools to assist individual traders. Platforms like Robinhood and eToro offer [predictive analytics](../p/predictive_analytics.md) and tools to guide user trading decisions.
-- Robinhood: https://www.robinhood.com
-- eToro: https://www.etoro.com
+Retail trading platforms integrate forecasting tools to assist individual traders. Platforms like [Robinhood](../r/robinhood.md) and [eToro](../e/etoro.md) offer [predictive analytics](../p/predictive_analytics.md) and tools to guide user trading decisions.
+- [Robinhood](../r/robinhood.md): https://www.[robinhood](../r/robinhood.md).com
+- [eToro](../e/etoro.md): https://www.[etoro](../e/etoro.md).com
 
 ### Market Research and Analytics
 Financial research firms provide forecasting services and tools to analyze market trends and inform investment reports. [Bloomberg](../b/bloomberg.md)'s Terminal is an example offering extensive market data and [predictive analytics](../p/predictive_analytics.md) tools (https://www.[bloomberg](../b/bloomberg.md).com/professional/solution/[bloomberg](../b/bloomberg.md)-terminal).

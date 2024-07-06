@@ -44,7 +44,7 @@ In equity markets, companies like Goldman Sachs (https://www.goldmansachs.com) a
 In the world of cryptocurrency trading, platforms like Coinbase (https://www.coinbase.com) and Binance (https://www.binance.com) also rely heavily on the 30-[day trading](../d/day_trading.md) volume. The high volatility and unique trading patterns of cryptocurrencies make [volume analysis](../v/volume_analysis.md) even more critical. Algorithmic traders in this domain often integrate multiple volume-related metrics to enhance their strategies' precision.
 
 ### Forex Markets
-In forex markets, firms like OANDA (https://www.oanda.com) and Forex.com (https://www.forex.com) apply sophisticated [algorithmic trading](../a/algorithmic_trading.md) methodologies that incorporate the 30-[day trading](../d/day_trading.md) volume of currency pairs. Given the high leverage and speed of forex markets, understanding the [volume patterns](../v/volume_patterns.md) can be key to successfully scaling in and out of positions.
+In forex markets, firms like [OANDA](../o/oanda.md) (https://www.[oanda](../o/oanda.md).com) and Forex.com (https://www.forex.com) apply sophisticated [algorithmic trading](../a/algorithmic_trading.md) methodologies that incorporate the 30-[day trading](../d/day_trading.md) volume of currency pairs. Given the high leverage and speed of forex markets, understanding the [volume patterns](../v/volume_patterns.md) can be key to successfully scaling in and out of positions.
 
 ## Challenges and Considerations
 

@@ -82,7 +82,7 @@ Designing a positive momentum algorithm involves various steps:
    - Adjust parameters to optimize returns while minimizing risks.
 
 5. **Implementation:**
-   - Set up a live [trading environment](../t/trading_environment.md), integrating with brokerage APIs (e.g., Alpaca, Interactive Brokers).
+   - Set up a live [trading environment](../t/trading_environment.md), integrating with brokerage APIs (e.g., [Alpaca](../a/alpaca.md), Interactive Brokers).
    - Regularly rebalance the portfolio based on the momentum signals.
 
 #### Risk Management

@@ -64,7 +64,7 @@ Sierra Chart is a professional trading platform offering high-performance charti
 
 ### Alpaca
 
-Alpaca is a recent entrant into the world of stock and crypto trading, and it is API-first. Alpaca provides commission-free trading and focuses heavily on providing robust API access for [algorithmic trading](../a/algorithmic_trading.md). Developers can use Python and other languages via Alpaca’s REST API to build, backtest, and deploy their [trading algorithms](../t/trading_algorithms.md). Alpaca also integrates well with other data providers and platforms like [QuantConnect](../q/quantconnect.md), making it flexible and accessible.
+[Alpaca](../a/alpaca.md) is a recent entrant into the world of stock and crypto trading, and it is API-first. [Alpaca](../a/alpaca.md) provides commission-free trading and focuses heavily on providing robust API access for [algorithmic trading](../a/algorithmic_trading.md). Developers can use Python and other languages via [Alpaca](../a/alpaca.md)’s REST API to build, backtest, and deploy their [trading algorithms](../t/trading_algorithms.md). [Alpaca](../a/alpaca.md) also integrates well with other data providers and platforms like [QuantConnect](../q/quantconnect.md), making it flexible and accessible.
 
 - [Alpaca](https://alpaca.markets/)
 

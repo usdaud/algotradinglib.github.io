@@ -63,7 +63,7 @@ Several frameworks and tools are available for developing rule-based [trading sy
 **URL:** [QuantConnect](https://www.quantconnect.com/)
 
 ### Integration with Brokers
-Integration with brokers is essential for the execution of [trading strategies](../t/trading_strategies.md). Many brokers offer APIs that allow direct communication between rule-based systems and trading platforms. Popular broker APIs include those from Interactive Brokers, Alpaca, and TD Ameritrade.
+Integration with brokers is essential for the execution of [trading strategies](../t/trading_strategies.md). Many brokers offer APIs that allow direct communication between rule-based systems and trading platforms. Popular broker APIs include those from Interactive Brokers, [Alpaca](../a/alpaca.md), and TD [Ameritrade](../a/ameritrade.md).
 
 **URL:** [Interactive Brokers](https://www.interactivebrokers.com/)
 

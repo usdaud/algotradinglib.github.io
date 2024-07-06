@@ -70,7 +70,7 @@ Several sophisticated platforms and tools can assist traders in implementing and
 
 ### Trading Platforms
 
-- **[Thinkorswim](../t/thinkorswim.md) by TD Ameritrade**: An advanced platform offering powerful tools for options trading, including analysis and strategy building.
+- **[Thinkorswim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md)**: An advanced platform offering powerful tools for options trading, including analysis and strategy building.
   - Website: [Thinkorswim](https://www.thinkorswim.com)
   
 - **Interactive Brokers**: Known for low-cost trading, it offers extensive tools for options traders.

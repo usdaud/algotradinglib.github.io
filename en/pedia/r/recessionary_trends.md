@@ -74,7 +74,7 @@ During economic downturns, institutional investors often dominate the trading la
 
 ### Democratization of Algotrading
 
-Despite the dominance of institutional players, the rise of user-friendly [algorithmic trading](../a/algorithmic_trading.md) platforms has helped democratize access to these tools. Platforms such as [QuantConnect](../q/quantconnect.md) and Alpaca allow retail investors to develop and deploy their own [trading algorithms](../t/trading_algorithms.md). Although these platforms do not offer the same level of sophistication as institutional tools, they empower individual traders to participate in algotrading during recessions.
+Despite the dominance of institutional players, the rise of user-friendly [algorithmic trading](../a/algorithmic_trading.md) platforms has helped democratize access to these tools. Platforms such as [QuantConnect](../q/quantconnect.md) and [Alpaca](../a/alpaca.md) allow retail investors to develop and deploy their own [trading algorithms](../t/trading_algorithms.md). Although these platforms do not offer the same level of sophistication as institutional tools, they empower individual traders to participate in algotrading during recessions.
 
 ## Technological Advancements
 
@@ -116,7 +116,7 @@ DE Shaw & Co. is a global investment and technology development firm that focuse
 
 ### Alpaca
 
-Alpaca is a technology company that offers a commission-free trading platform with an emphasis on [algorithmic trading](../a/algorithmic_trading.md). The platform provides APIs that allow users to create and deploy their own [trading strategies](../t/trading_strategies.md). Visit [Alpaca](https://alpaca.markets/) for more information.
+[Alpaca](../a/alpaca.md) is a technology company that offers a commission-free trading platform with an emphasis on [algorithmic trading](../a/algorithmic_trading.md). The platform provides APIs that allow users to create and deploy their own [trading strategies](../t/trading_strategies.md). Visit [Alpaca](https://alpaca.markets/) for more information.
 
 ### QuantConnect
 

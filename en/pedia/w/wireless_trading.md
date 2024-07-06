@@ -20,7 +20,7 @@ Mobile trading platforms are specialized software applications that facilitate w
 Examples of prominent mobile trading platforms include:
   - **MetaTrader 4 and 5:** These platforms are popular among retail traders for their user-friendly interfaces and comprehensive trading tools.
   - **[TradingView](../t/tradingview.md):** Known for its advanced charting capabilities and [social trading](../s/social_trading.md) features.
-  - **TD Ameritrade’s [thinkorswim](../t/thinkorswim.md):** Offers extensive analysis tools and live market data.
+  - **TD [Ameritrade](../a/ameritrade.md)’s [thinkorswim](../t/thinkorswim.md):** Offers extensive analysis tools and live market data.
 
 **3. Secure Transaction Protocols:**
 Security remains paramount in wireless trading due to the sensitive nature of financial transactions. Secure Sockets Layer (SSL) encryption, multi-factor authentication (MFA), and secure APIs (Application Programming Interfaces) are some of the security measures implemented to protect users' data and ensure secure trading environments.
@@ -31,9 +31,9 @@ Wireless trading finds applications across various segments of the trading indus
 
 **1. Retail Trading:**
 Retail traders, individuals who trade for their accounts, benefit significantly from wireless trading. They can monitor market movements, access trading opportunities, and execute orders without being tethered to a desktop computer. Popular retail brokers that offer mobile trading apps include:
-  - **Robinhood:** Focused on commission-free trades with a simple, user-friendly mobile app.
+  - **[Robinhood](../r/robinhood.md):** Focused on commission-free trades with a simple, user-friendly mobile app.
   - **E*TRADE:** Provides comprehensive tools and resources for retail investors.
-  - **Charles Schwab:** Delivers robust mobile trading features with extensive research tools.
+  - **[Charles Schwab](../c/charles_schwab.md):** Delivers robust mobile trading features with extensive research tools.
 
 **2. Institutional Trading:**
 Institutional traders, including hedge funds, investment banks, and pension funds, also leverage wireless trading for speed and efficiency in executing large-volume trades. Institutional trading platforms often offer more features and integrations to cater to complex trading needs.

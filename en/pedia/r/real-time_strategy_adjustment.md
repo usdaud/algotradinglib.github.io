@@ -78,7 +78,7 @@ Institutional investors, such as hedge funds and investment banks, use real-time
 
 Retail trading platforms are increasingly incorporating real-time strategy adjustment features to cater to individual traders. These platforms provide tools and algorithms that enable retail traders to adapt their strategies based on live market conditions.
 
-- [Robinhood](https://www.robinhood.com/): Robinhood is a popular retail trading platform that offers [algorithmic trading](../a/algorithmic_trading.md) features. Their platform provides [real-time market data](../r/real-time_market_data.md) and execution capabilities, allowing retail traders to implement and adjust [trading strategies](../t/trading_strategies.md) dynamically.
+- [Robinhood](https://www.robinhood.com/): [Robinhood](../r/robinhood.md) is a popular retail trading platform that offers [algorithmic trading](../a/algorithmic_trading.md) features. Their platform provides [real-time market data](../r/real-time_market_data.md) and execution capabilities, allowing retail traders to implement and adjust [trading strategies](../t/trading_strategies.md) dynamically.
 
 ## Challenges and Future Trends
 

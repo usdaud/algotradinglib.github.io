@@ -48,7 +48,7 @@ The choice of a robust trading platform is crucial for full-time day traders due
 
 **Popular Platforms:**
 - **MetaTrader 4/5:** Advanced charting and tools for [algorithmic trading](../a/algorithmic_trading.md).
-- **[Thinkorswim](../t/thinkorswim.md) by TD Ameritrade:** Comprehensive analytical capabilities for diverse asset classes.
+- **[Thinkorswim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md):** Comprehensive analytical capabilities for diverse asset classes.
 - **[NinjaTrader](../n/ninjatrader.md):** Focuses on futures & forex trading with extensive [backtesting](../b/backtesting.md) and automation options.
 
 ### Automated Trading Systems
@@ -126,7 +126,7 @@ Be aware of short-term capital gains tax implications and the need for accurate 
 Choosing a reliable broker that ensures regulatory compliance, effective customer service, and the best execution policies can impact trading success.
 
 **Prominent Brokers:**
-- **Charles Schwab [schwab.com](https://www.schwab.com/):** Known for its strong customer support and extensive educational resources.
+- **[Charles Schwab](../c/charles_schwab.md) [schwab.com](https://www.schwab.com/):** Known for its strong customer support and extensive educational resources.
 - **E*TRADE [etrade.com](https://www.etrade.com/):** Offers a range of investment tools and a user-friendly trading platform.
 
 ## Community and Network
