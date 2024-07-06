@@ -63,7 +63,7 @@ Advancements in machine learning and artificial intelligence have enabled the de
 
 ### Trading Platforms
 
-Modern trading platforms provide traders with real-time data, analytical tools, and the ability to execute trades efficiently. Examples include Trading Technologies and Bloomberg Terminal.
+Modern trading platforms provide traders with real-time data, analytical tools, and the ability to execute trades efficiently. Examples include Trading Technologies and [Bloomberg](../b/bloomberg.md) Terminal.
 
 ## Regulatory Considerations
 

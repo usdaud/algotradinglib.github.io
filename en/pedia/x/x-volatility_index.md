@@ -56,8 +56,8 @@ While the XVIX shares similarities with other volatility indices like the VIX, t
 
 Accessing XVIX data typically involves subscriptions to specialized financial data providers or platforms that offer advanced volatility metrics. Some popular providers include:
 
-- **Bloomberg:** With comprehensive market data and analytical tools, Bloomberg offers XVIX data and related analytics for algorithmic traders.
-- **Thomson Reuters:** Known for its extensive financial data services, Thomson Reuters provides access to XVIX and other volatility indices.
+- **[Bloomberg](../b/bloomberg.md):** With comprehensive market data and analytical tools, [Bloomberg](../b/bloomberg.md) offers XVIX data and related analytics for algorithmic traders.
+- **Thomson [Reuters](../r/reuters.md):** Known for its extensive financial data services, Thomson [Reuters](../r/reuters.md) provides access to XVIX and other volatility indices.
 - **CBOE:** The Chicago Board Options Exchange (CBOE) offers various volatility indices, including the customized XVIX tailored for different asset classes.
 
 ## Implementing XVIX in Trading Algorithms

@@ -69,15 +69,15 @@ Advancements in technology have revolutionized financial planning in [algorithmi
 
 These tools provide a comprehensive view of all [trading strategies](../t/trading_strategies.md), allowing for real-time tracking and rebalancing. Examples include:
 
-- **MetaTrader**: A popular platform providing powerful tools for trading and [technical analysis](../t/technical_analysis.md) (https://www.metatrader4.com/)
-- **QuantConnect**: An [algorithmic trading](../a/algorithmic_trading.md) platform that provides a [backtesting](../b/backtesting.md) and research environment (https://www.quantconnect.com/)
+- **MetaTrader**: A popular platform providing powerful tools for trading and [technical analysis](../t/technical_analysis.md) (https://www.[metatrader4](../m/metatrader4.md).com/)
+- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that provides a [backtesting](../b/backtesting.md) and research environment (https://www.[quantconnect](../q/quantconnect.md).com/)
 
 ### Risk Management Systems
 
 [Risk management](../r/risk_management.md) systems help traders quantify and manage the risk of their portfolios. Some common solutions are:
 
 - **RiskMetrics**: A suite of [financial risk management](../f/financial_risk_management.md) software that quantifies multiple types of financial risk (https://www.riskmetrics.com/)
-- **AlgoTrader**: An institutional-grade [algorithmic trading](../a/algorithmic_trading.md) software that offers integrated [risk management](../r/risk_management.md) tools (https://www.algotrader.com/)
+- **[AlgoTrader](../a/algotrader.md)**: An institutional-grade [algorithmic trading](../a/algorithmic_trading.md) software that offers integrated [risk management](../r/risk_management.md) tools (https://www.[algotrader](../a/algotrader.md).com/)
 
 ### Data Analytics Tools
 

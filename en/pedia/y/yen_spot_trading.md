@@ -80,9 +80,9 @@ Several platforms and tools are available for yen spot trading, offering feature
 
 - **MetaTrader 4 and 5 (MT4/MT5)**: Popular platforms among forex traders offering robust analytical tools and automated trading capabilities. [MetaTrader](https://www.metatrader4.com/)
   
-- **TradingView**: Provides advanced charting tools with a wide range of [technical indicators](../t/technical_indicators.md) and a strong community sharing trading ideas. [TradingView](https://www.tradingview.com/)
+- **[TradingView](../t/tradingview.md)**: Provides advanced charting tools with a wide range of [technical indicators](../t/technical_indicators.md) and a strong community sharing trading ideas. [TradingView](https://www.tradingview.com/)
   
-- **Bloomberg Terminal**: Offers comprehensive market data, analytics, and trading functionalities for professional traders. [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+- **[Bloomberg](../b/bloomberg.md) Terminal**: Offers comprehensive market data, analytics, and trading functionalities for professional traders. [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
 ## Conclusion
 

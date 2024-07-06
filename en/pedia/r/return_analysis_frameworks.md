@@ -84,7 +84,7 @@ Several platforms and libraries assist traders in implementing return analysis f
 - **NumPy:** Helps with numerical operations, an integral part of [performance metrics](../p/performance_metrics.md) calculations.
 - **Matplotlib and Seaborn:** Visualization libraries that enable plotting equity curves, heatmaps, and more.
 - **Pyfolio:** A comprehensive library specifically designed for portfolio and risk analytics.
-- **Backtrader:** Allows for extreme flexibility when [backtesting](../b/backtesting.md) strategies.
+- **[Backtrader](../b/backtrader.md):** Allows for extreme flexibility when [backtesting](../b/backtesting.md) strategies.
 
 ```python
 import pandas as pd
@@ -103,7 +103,7 @@ pf.create_returns_tear_sheet(returns)
 
 Several platforms provide comprehensive return analysis tools for algorithmic traders:
 
-- **QuantConnect ([www.quantconnect.com](https://www.quantconnect.com)):** Offers a cloud-based, sharable environment for running strategies and performing complex return analysis.
+- **[QuantConnect](../q/quantconnect.md) ([www.quantconnect.com](https://www.quantconnect.com)):** Offers a cloud-based, sharable environment for running strategies and performing complex return analysis.
 - **Quantopian:** Was one of the pioneers in providing online [backtesting](../b/backtesting.md) and analysis tools before its closure.
 - **Interactive Brokers ([www.interactivebrokers.com](https://www.interactivebrokers.com)):** Provides a powerful API for traders who want to integrate their algo-trading with real-time [brokerage services](../b/brokerage_services.md).
 

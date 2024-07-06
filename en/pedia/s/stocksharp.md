@@ -1,17 +1,17 @@
-﻿# StockSharp
+# StockSharp
 
-StockSharp, often abbreviated as S#, is an open-source trading platform that provides a comprehensive set of tools for the development of automated trading systems. It is designed to cater to a wide range of traders, from beginners to professional algorithmic traders and financial institutions.
+StockSharp, often abbreviated as S#, is an open-source trading platform that provides a comprehensive set of tools for the development of [automated trading systems](../a/automated_trading_systems.md). It is designed to cater to a wide range of traders, from beginners to professional algorithmic traders and financial institutions.
 
 ## Core Features and Components
 
 ### 1. Designer
 
-S#.Designer is a visual strategy designer that allows traders to create trading strategies without writing code.
+S#.Designer is a visual strategy designer that allows traders to create [trading strategies](../t/trading_strategies.md) without writing code.
 
 Key features:
 - Drag-and-drop interface for strategy creation
 - Large library of pre-built elements (indicators, trading functions, etc.)
-- Visual backtesting and optimization tools
+- Visual [backtesting](../b/backtesting.md) and optimization tools
 - Real-time strategy testing
 - Export strategies to C# code
 
@@ -31,9 +31,9 @@ Key features:
 The main application that integrates all StockSharp components into a single trading terminal.
 
 Key features:
-- Real-time market data display
+- [Real-time market data](../r/real-time_market_data.md) display
 - Order management and execution
-- Portfolio tracking and risk management
+- Portfolio tracking and [risk management](../r/risk_management.md)
 - Strategy monitoring and control
 - Customizable user interface
 
@@ -71,40 +71,40 @@ StockSharp offers integration with numerous brokers, exchanges, and data provide
 - Poloniex
 - QUIK
 - Alpaca
-- IQFeed
+- [IQFeed](../i/iqfeed.md)
 - Many others (50+ connections in total)
 
 ## Strategy Development
 
-StockSharp provides multiple ways to develop trading strategies:
+StockSharp provides multiple ways to develop [trading strategies](../t/trading_strategies.md):
 
 1. **Visual Designer**: For non-programmers, using S#.Designer
 2. **C# Programming**: Using S#.API for custom strategy development
 3. **Hybrid Approach**: Combining visual design with custom C# code
 
 Features for strategy development include:
-- Backtesting engine with detailed performance analytics
+- [Backtesting](../b/backtesting.md) engine with detailed [performance analytics](../p/performance_analytics.md)
 - Walk-forward and Monte Carlo testing
 - Optimization tools (including genetic algorithms)
 - Real-time paper trading for strategy validation
 
 ## Risk Management
 
-StockSharp includes various risk management tools:
+StockSharp includes various [risk management](../r/risk_management.md) tools:
 
 - Real-time position tracking
 - P&L monitoring
 - Customizable risk limits and alerts
 - Slippage and commission modeling
-- Correlation analysis tools
+- [Correlation analysis](../c/correlation_analysis.md) tools
 
 ## Market Analysis Tools
 
-- Technical indicators library (100+ indicators)
+- [Technical indicators](../t/technical_indicators.md) library (100+ indicators)
 - Custom indicator development
 - Charting tools with multiple timeframes
-- Volume analysis tools
-- Market depth analysis
+- [Volume analysis](../v/volume_analysis.md) tools
+- [Market depth analysis](../m/market_depth_analysis.md)
 
 ## Algorithmic Trading Features
 

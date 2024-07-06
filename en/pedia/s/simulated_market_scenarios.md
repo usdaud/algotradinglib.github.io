@@ -21,22 +21,22 @@ Several trading platforms provide built-in features for simulated market scenari
 - **MetaTrader 4/5**: Offers a strategy tester for [backtesting](../b/backtesting.md) trading robots with historical data.
   - [MetaTrader Website](https://www.metatrader4.com/)
   
-- **QuantConnect**: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform with [backtesting](../b/backtesting.md) and live-trading capabilities.
+- **[QuantConnect](../q/quantconnect.md)**: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform with [backtesting](../b/backtesting.md) and live-trading capabilities.
   - [QuantConnect Website](https://www.quantconnect.com/)
   
-- **TradingView**: Provides a [backtesting](../b/backtesting.md) feature and a paper trading option for strategy optimization.
+- **[TradingView](../t/tradingview.md)**: Provides a [backtesting](../b/backtesting.md) feature and a paper trading option for strategy optimization.
   - [TradingView Website](https://www.tradingview.com/)
   
 ### Data Providers
 Accurate historical data is crucial for effective simulation:
 
-- **Quandl**: A comprehensive platform providing financial, economic, and [alternative data](../a/alternative_data.md).
+- **[Quandl](../q/quandl.md)**: A comprehensive platform providing financial, economic, and [alternative data](../a/alternative_data.md).
   - [Quandl Website](https://www.quandl.com/)
   
 - **Alpha Vantage**: Offers free APIs for real-time and historical market data.
   - [Alpha Vantage Website](https://www.alphavantage.co/)
   
-- **Tiingo**: Provides historical price data, news feeds, and comprehensive financial stats.
+- **[Tiingo](../t/tiingo.md)**: Provides historical price data, news feeds, and comprehensive financial stats.
   - [Tiingo Website](https://www.tiingo.com/)
 
 ### Programming Libraries
@@ -45,10 +45,10 @@ Various libraries facilitate the creation of market simulations:
 - **Pandas**: A Python library with powerful data manipulation tools suitable for handling time series data.
   - [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
   
-- **Backtrader**: A Python library specifically designed for [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md).
+- **[Backtrader](../b/backtrader.md)**: A Python library specifically designed for [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md).
   - [Backtrader Website](https://www.backtrader.com/)
   
-- **Quantlib**: A comprehensive library for [quantitative finance](../q/quantitative_finance.md), supporting option pricing, [financial modeling](../f/financial_modeling.md), and trading simulations.
+- **[Quantlib](../q/quantlib.md)**: A comprehensive library for [quantitative finance](../q/quantitative_finance.md), supporting option pricing, [financial modeling](../f/financial_modeling.md), and trading simulations.
   - [Quantlib Website](https://www.quantlib.org/)
 
 ### Methodologies

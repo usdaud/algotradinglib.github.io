@@ -43,7 +43,7 @@ To set up your environment for [algorithmic trading](../a/algorithmic_trading.md
 
 ## Data Collection
 
-Accessing accurate and timely financial data is critical for [algorithmic trading](../a/algorithmic_trading.md). Several sources provide financial data, but for this example, we will use Quandl and Yahoo Finance for simplicity.
+Accessing accurate and timely financial data is critical for [algorithmic trading](../a/algorithmic_trading.md). Several sources provide financial data, but for this example, we will use [Quandl](../q/quandl.md) and Yahoo Finance for simplicity.
 
 ### Using Quantmod for Data Collection
 
@@ -59,20 +59,20 @@ In this example, the `getSymbols` function downloads historical stock data for A
 
 ### Using APIs for Data Collection
 
-For more complex data needs, you can use financial APIs such as the Quandl API:
+For more complex data needs, you can use financial APIs such as the [Quandl](../q/quandl.md) API:
 
-1. **Install Quandl Package:** Install and load the package:
+1. **Install [Quandl](../q/quandl.md) Package:** Install and load the package:
    ```r
-   install.packages("Quandl")
-   library(Quandl)
+   install.packages("[Quandl](../q/quandl.md)")
+   library([Quandl](../q/quandl.md))
    ```
 
 2. **Get API Key:** Register for an API key from [Quandl’s website](https://www.quandl.com/tools/api).
 
 3. **Fetch Data:**
    ```r
-   Quandl.api_key("your_api_key_here")
-   data <- Quandl("WIKI/AAPL", start_date = "2020-01-01", end_date = "2023-01-01")
+   [Quandl](../q/quandl.md).api_key("your_api_key_here")
+   data <- [Quandl](../q/quandl.md)("WIKI/AAPL", start_date = "2020-01-01", end_date = "2023-01-01")
    head(data)
    ```
 

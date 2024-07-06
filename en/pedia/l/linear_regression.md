@@ -111,7 +111,7 @@ Leverage regression models for [quantitative analysis](../q/quantitative_analysi
 
 1. [QuantConnect](https://www.quantconnect.com/): Provides a platform for developing [algorithmic trading](../a/algorithmic_trading.md) strategies using various methods, including linear regression.
 
-2. [AlgoTrader](https://www.algotrader.com/): AlgoTrader users can integrate linear regression models into their strategies to enhance predictive accuracy.
+2. [AlgoTrader](https://www.algotrader.com/): [AlgoTrader](../a/algotrader.md) users can integrate linear regression models into their strategies to enhance predictive accuracy.
 
 3. [QuantInsti](https://www.quantinsti.com/): Offers courses and materials on using linear regression for [algorithmic trading](../a/algorithmic_trading.md).
 

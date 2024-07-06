@@ -62,7 +62,7 @@ Programming languages like Python and R have numerous libraries and packages des
 
 ### 2. QuantConnect
 
-QuantConnect (https://www.quantconnect.com/) is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that offers tools for [backtesting](../b/backtesting.md), research, and live trading. It includes features for performance analysis and decomposition, enabling traders to dissect the performance of their strategies.
+[QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/) is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that offers tools for [backtesting](../b/backtesting.md), research, and live trading. It includes features for performance analysis and decomposition, enabling traders to dissect the performance of their strategies.
 
 ### 3. Quantopian
 
@@ -70,11 +70,11 @@ Although no longer operational, Quantopian was a popular platform for [algorithm
 
 ### 4. Bloomberg Terminal
 
-The Bloomberg Terminal (https://www.bloomberg.com/professional/solution/bloomberg-terminal/) is a comprehensive tool widely used in the finance industry, offering advanced functionalities for performance analysis and decomposition. It provides access to real-time data, news, and analytics, crucial for thorough performance assessment.
+The [Bloomberg](../b/bloomberg.md) Terminal (https://www.[bloomberg](../b/bloomberg.md).com/professional/solution/[bloomberg](../b/bloomberg.md)-terminal/) is a comprehensive tool widely used in the finance industry, offering advanced functionalities for performance analysis and decomposition. It provides access to real-time data, news, and analytics, crucial for thorough performance assessment.
 
 ### 5. Portfolio Management Software
 
-Software such as Morningstar Direct, FactSet, and MSCI Barra are popular for their capabilities in performance analysis and decomposition. They offer features tailored for institutional investors to dissect [portfolio performance](../p/portfolio_performance.md) systematically.
+Software such as [Morningstar](../m/morningstar.md) Direct, [FactSet](../f/factset.md), and MSCI Barra are popular for their capabilities in performance analysis and decomposition. They offer features tailored for institutional investors to dissect [portfolio performance](../p/portfolio_performance.md) systematically.
 
 ## Case Studies in Performance Decomposition
 

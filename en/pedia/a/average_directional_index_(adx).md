@@ -108,15 +108,15 @@ print(adx_values)
 Several financial platforms and tools support the ADX indicator. Notable examples include:
 
 1. **MetaTrader**: One of the most popular trading platforms that offer ADX built-in indicators.
-2. **TradeStation**: A comprehensive trading platform that supports advanced indicator scripting, including ADX.
-3. **TradingView**: An online platform known for its powerful charting tools and extensive indicator library, including ADX.
+2. **[TradeStation](../t/tradestation.md)**: A comprehensive trading platform that supports advanced indicator scripting, including ADX.
+3. **[TradingView](../t/tradingview.md)**: An online platform known for its powerful charting tools and extensive indicator library, including ADX.
 
 Each of these platforms provides customization features allowing traders to tweak ADX settings to fit their [trading strategies](../t/trading_strategies.md).
 
 **MetaTrader**: [MetaTrader](https://www.metatrader4.com/)
 
-**TradeStation**: [TradeStation](https://www.tradestation.com/)
+**[TradeStation](../t/tradestation.md)**: [TradeStation](https://www.tradestation.com/)
 
-**TradingView**: [TradingView](https://www.tradingview.com/)
+**[TradingView](../t/tradingview.md)**: [TradingView](https://www.tradingview.com/)
 
 In conclusion, the Average Directional Index (ADX) is an essential tool in the arsenal of both manual and algorithmic traders. It provides a quantitative measure of trend strength, helping traders make informed decisions on market entry and exit points. While it has its limitations, when used correctly, the ADX can significantly enhance the effectiveness of a trading strategy.

@@ -82,14 +82,14 @@ Algorithmic traders often use EMAs, including the 4-period EMA, to develop [trad
 Several tools and software platforms provide the capability to calculate and use EMAs for trading. Some notable examples include:
 
 - **MetaTrader 4 (MT4)**: A popular trading platform among forex traders that offers built-in EMA indicators.
-- **TradingView**: A comprehensive charting platform that includes customizable EMA indicators.
-- **NinjaTrader**: An advanced trading platform offering various [technical analysis](../t/technical_analysis.md) tools, including EMAs.
+- **[TradingView](../t/tradingview.md)**: A comprehensive charting platform that includes customizable EMA indicators.
+- **[NinjaTrader](../n/ninjatrader.md)**: An advanced trading platform offering various [technical analysis](../t/technical_analysis.md) tools, including EMAs.
 
 ### Execution of EMA-Based Strategies
 
-[Algorithmic trading](../a/algorithmic_trading.md) platforms like MetaTrader 4, TradingView, and more sophisticated platforms like QuantConnect and Alpaca Markets allow traders to automate EMA-based strategies. For instance:
+[Algorithmic trading](../a/algorithmic_trading.md) platforms like MetaTrader 4, [TradingView](../t/tradingview.md), and more sophisticated platforms like [QuantConnect](../q/quantconnect.md) and Alpaca Markets allow traders to automate EMA-based strategies. For instance:
 
-- **QuantConnect**: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that lets users backtest and implement EMA-based strategies using Python (URL: [QuantConnect](https://www.quantconnect.com)).
+- **[QuantConnect](../q/quantconnect.md)**: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that lets users backtest and implement EMA-based strategies using Python (URL: [QuantConnect](https://www.quantconnect.com)).
 - **Alpaca Markets**: Provides a commission-free trading API that supports the implementation of algorithmic strategies, including those utilizing the 4-period EMA (URL: [Alpaca Markets](https://alpaca.markets)).
 
 ### Limitations of EMA

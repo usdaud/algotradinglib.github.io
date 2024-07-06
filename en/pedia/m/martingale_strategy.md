@@ -55,10 +55,10 @@ In the context of [algorithmic trading](../a/algorithmic_trading.md), implementi
 
 ## Example in Python
 
-Here is a simple implementation of the Martingale strategy in Python, using a [backtesting](../b/backtesting.md) library such as Backtrader:
+Here is a simple implementation of the Martingale strategy in Python, using a [backtesting](../b/backtesting.md) library such as [Backtrader](../b/backtrader.md):
 
 ```python
-import backtrader as bt
+import [backtrader](../b/backtrader.md) as bt
 
 class MartingaleStrategy(bt.Strategy):
     def __init__(self):
@@ -95,7 +95,7 @@ cerebro.adddata(data)
 cerebro.run()
 ```
 
-This example assumes usage of the Backtrader library for [backtesting](../b/backtesting.md) and demonstrates a simple Martingale strategy framework. The calculate_size method determines position size based on the loss streak, and notify_order keeps track of the order results.
+This example assumes usage of the [Backtrader](../b/backtrader.md) library for [backtesting](../b/backtesting.md) and demonstrates a simple Martingale strategy framework. The calculate_size method determines position size based on the loss streak, and notify_order keeps track of the order results.
 
 ## Conclusion
 

@@ -57,11 +57,11 @@ Breakout strategies involve entering a trade when the price breaks through prede
 
 1. **MetaTrader 4/5:** MetaTrader is a widely used platform offering custom indicators and automated trading via Expert Advisors (EAs). There are numerous Heikin-Ashi indicators and EAs available for MT4 and MT5.
    - [MetaTrader](https://www.metatrader4.com)
-2. **NinjaTrader:** NinjaTrader supports a variety of third-party Heikin-Ashi indicators and strategies, and allows for the development of custom automated [trading strategies](../t/trading_strategies.md).
+2. **[NinjaTrader](../n/ninjatrader.md):** [NinjaTrader](../n/ninjatrader.md) supports a variety of third-party Heikin-Ashi indicators and strategies, and allows for the development of custom automated [trading strategies](../t/trading_strategies.md).
    - [NinjaTrader](https://ninjatrader.com/)
-3. **TradingView:** TradingView is a popular charting platform known for its community scripts and indicators, including Heikin-Ashi. The Pine Script language allows for easy customization and automation of [trading strategies](../t/trading_strategies.md).
+3. **[TradingView](../t/tradingview.md):** [TradingView](../t/tradingview.md) is a popular charting platform known for its community scripts and indicators, including Heikin-Ashi. The Pine Script language allows for easy customization and automation of [trading strategies](../t/trading_strategies.md).
    - [TradingView](https://www.tradingview.com)
-4. **QuantConnect:** QuantConnect provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform supporting multiple programming languages, including Python and C#. It facilitates [backtesting](../b/backtesting.md) and live trading of Heikin-Ashi strategies.
+4. **[QuantConnect](../q/quantconnect.md):** [QuantConnect](../q/quantconnect.md) provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform supporting multiple programming languages, including Python and C#. It facilitates [backtesting](../b/backtesting.md) and live trading of Heikin-Ashi strategies.
    - [QuantConnect](https://www.quantconnect.com)
 
 ### Risk Management in Heikin-Ashi Strategies
@@ -97,6 +97,6 @@ Heikin-Ashi strategies provide a unique and effective way to smoothen price data
 ### Additional Resources
 
 1. **MetaTrader Heikin-Ashi EA:** [MetaTrader Market](https://www.mql5.com/en/market/product/40802)
-2. **NinjaTrader Heikin-Ashi Indicator:** [NinjaTrader Ecosystem](https://ninjatraderecosystem.com/user-app-share-download/heikin-ashi-candles/)
-3. **Heikin-Ashi Pine Script on TradingView:** [TradingView Script](https://www.tradingview.com/script/VbQ4US1y-Heikin-Ashi/)
-4. **QuantConnect Algorithm with Heikin-Ashi:** [QuantConnect Example](https://www.quantconnect.com/tutorials/strategy-library/heikin-ashi-strategy)
+2. **[NinjaTrader](../n/ninjatrader.md) Heikin-Ashi Indicator:** [NinjaTrader Ecosystem](https://ninjatraderecosystem.com/user-app-share-download/heikin-ashi-candles/)
+3. **Heikin-Ashi Pine Script on [TradingView](../t/tradingview.md):** [TradingView Script](https://www.tradingview.com/script/VbQ4US1y-Heikin-Ashi/)
+4. **[QuantConnect](../q/quantconnect.md) Algorithm with Heikin-Ashi:** [QuantConnect Example](https://www.quantconnect.com/tutorials/strategy-library/heikin-ashi-strategy)

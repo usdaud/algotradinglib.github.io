@@ -97,7 +97,7 @@ Modern trading platforms offer sophisticated tools for personal [risk management
 
 #### Examples:
 - **MetaTrader:** A popular trading platform that offers advanced [risk management](../r/risk_management.md) tools such as stop-loss and take-profit orders.
-- **NinjaTrader:** A trading platform known for its comprehensive [risk management](../r/risk_management.md) features and customization options.
+- **[NinjaTrader](../n/ninjatrader.md):** A trading platform known for its comprehensive [risk management](../r/risk_management.md) features and customization options.
 
 ### 2. **Risk Management Software**
 

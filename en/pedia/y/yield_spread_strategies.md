@@ -64,19 +64,19 @@ Several software platforms and tools are used for implementing [yield spread](..
 
 #### 1. **Bloomberg Terminal**
 
-The Bloomberg Terminal (https://bloomberg.com/professional/solution/market-data/) provides comprehensive data and analytics tools for yield [spread analysis](../s/spread_analysis.md) and trading.
+The [Bloomberg](../b/bloomberg.md) Terminal (https://[bloomberg](../b/bloomberg.md).com/professional/solution/market-data/) provides comprehensive data and analytics tools for yield [spread analysis](../s/spread_analysis.md) and trading.
 
 #### 2. **Thomson Reuters Eikon**
 
-Thomson Reuters Eikon (https://refinitiv.com/en/products/eikon-trading-software) offers real-time data, news, and analytical tools for fixed-income [trading strategies](../t/trading_strategies.md).
+Thomson [Reuters](../r/reuters.md) Eikon (https://refinitiv.com/en/products/eikon-trading-software) offers real-time data, news, and analytical tools for fixed-income [trading strategies](../t/trading_strategies.md).
 
 #### 3. **MultiCharts**
 
-MultiCharts (https://www.multicharts.com/) is a trading platform known for its advanced analytical capabilities and robust [algorithmic trading](../a/algorithmic_trading.md) infrastructure.
+[MultiCharts](../m/multicharts.md) (https://www.[multicharts](../m/multicharts.md).com/) is a trading platform known for its advanced analytical capabilities and robust [algorithmic trading](../a/algorithmic_trading.md) infrastructure.
 
 #### 4. **QuantConnect**
 
-QuantConnect (https://www.quantconnect.com/) is an [algorithmic trading](../a/algorithmic_trading.md) platform offering a comprehensive environment for developing and [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md).
+[QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/) is an [algorithmic trading](../a/algorithmic_trading.md) platform offering a comprehensive environment for developing and [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md).
 
 ### Conclusion
 

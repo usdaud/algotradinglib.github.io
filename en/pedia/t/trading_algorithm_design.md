@@ -7,7 +7,7 @@ Trading [algorithm design](../a/algorithm_design.md) is a critical domain within
 ### 1. Market Data Acquisition and Handling
 Market data is the backbone of [algorithmic trading](../a/algorithmic_trading.md), comprising real-time and historical information on prices, volumes, and other market indicators. Effective acquisition and handling of market data involve the following:
 
-- **Real-Time Data Feeds**: Continuous streams of market data provided by exchanges and third-party providers such as Bloomberg (https://www.bloomberg.com/), Thomson Reuters (now Refinitiv) (https://www.refinitiv.com/), and Quandl (https://www.quandl.com/).
+- **Real-Time Data Feeds**: Continuous streams of market data provided by exchanges and third-party providers such as [Bloomberg](../b/bloomberg.md) (https://www.[bloomberg](../b/bloomberg.md).com/), Thomson [Reuters](../r/reuters.md) (now Refinitiv) (https://www.refinitiv.com/), and [Quandl](../q/quandl.md) (https://www.[quandl](../q/quandl.md).com/).
 - **Historical Data Storage**: Maintenance of repositories for past market data to backtest algorithms and identify trends.
 - **[Data Cleaning](../d/data_cleaning.md)**: Removing inconsistencies and ensuring data accuracy.
 

@@ -39,7 +39,7 @@ The implementation of [trend following](../t/trend_following.md) strategies in [
 Accurate and high-quality historical and [real-time market data](../r/real-time_market_data.md) is essential for developing and executing [trend following](../t/trend_following.md) strategies. This includes price data, volume data, and other relevant financial metrics.
 
 ### Indicator Calculation
-Once the data is collected, the next step is to calculate the relevant [technical indicators](../t/technical_indicators.md). This requires the use of programming languages such as Python, R, or financial platforms like MetaTrader and TradeStation.
+Once the data is collected, the next step is to calculate the relevant [technical indicators](../t/technical_indicators.md). This requires the use of programming languages such as Python, R, or financial platforms like MetaTrader and [TradeStation](../t/tradestation.md).
 
 ### Signal Generation
 Based on the calculated indicators, [trading signals](../t/trading_signals.md) are generated. These signals dictate when to enter or exit positions. For example, a common signal might be to buy when the price crosses above a moving average and sell when it crosses below.

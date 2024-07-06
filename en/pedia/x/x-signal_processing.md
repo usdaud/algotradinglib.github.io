@@ -29,7 +29,7 @@ The success of X-signal processing depends significantly on the tools used. Here
 2. **R**: Praised for statistical analysis with packages like forecast, caret, and xts.
 3. **MATLAB**: Powerful for complex computations and has built-in signal processing capabilities.
 4. **Platforms**:
-    - **QuantConnect**: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform (https://www.quantconnect.com/).
+    - **[QuantConnect](../q/quantconnect.md)**: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform (https://www.[quantconnect](../q/quantconnect.md).com/).
     - **Quantopian**: Another notable platform providing a community-driven approach (now closed, but its remnants influence others).
     - **Alpaca**: Commission-free trading with API access for [algorithmic trading](../a/algorithmic_trading.md) (https://alpaca.markets/).
 

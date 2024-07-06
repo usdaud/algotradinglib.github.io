@@ -55,8 +55,8 @@ Several tools and platforms facilitate quantitative market analysis, including:
 
 - **Python and R:** Popular programming languages for statistical analysis and machine learning.
 - **MATLAB:** A high-level language and interactive environment for numerical computation and visualization.
-- **Bloomberg Terminal:** Provides real-time financial data, news, and analytics.
-- **QuantConnect:** An [algorithmic trading](../a/algorithmic_trading.md) platform for designing and testing [trading algorithms](../t/trading_algorithms.md).
+- **[Bloomberg](../b/bloomberg.md) Terminal:** Provides real-time financial data, news, and analytics.
+- **[QuantConnect](../q/quantconnect.md):** An [algorithmic trading](../a/algorithmic_trading.md) platform for designing and testing [trading algorithms](../t/trading_algorithms.md).
   [QuantConnect](https://www.quantconnect.com)
 - **Alpaca:** An API for [algorithmic trading](../a/algorithmic_trading.md).
   [Alpaca](https://alpaca.markets)

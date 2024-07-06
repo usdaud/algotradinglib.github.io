@@ -56,8 +56,8 @@ While historical simulation is a powerful tool, it has several limitations:
 Several software platforms and tools are available for performing historical simulations. These tools range from basic to advanced and often include features for data handling, strategy coding, and performance analysis.
 
 - **MetaTrader**: Popular among retail traders, MetaTrader allows for [backtesting](../b/backtesting.md) of [trading strategies](../t/trading_strategies.md) using historical data. [MetaTrader](https://www.metatrader5.com/en)
-- **QuantConnect**: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that provides access to historical data and a powerful [backtesting](../b/backtesting.md) engine. [QuantConnect](https://www.quantconnect.com)
-- **TradeStation**: Offers a comprehensive platform for [backtesting](../b/backtesting.md) and automated trading. [TradeStation](https://www.tradestation.com)
+- **[QuantConnect](../q/quantconnect.md)**: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that provides access to historical data and a powerful [backtesting](../b/backtesting.md) engine. [QuantConnect](https://www.quantconnect.com)
+- **[TradeStation](../t/tradestation.md)**: Offers a comprehensive platform for [backtesting](../b/backtesting.md) and automated trading. [TradeStation](https://www.tradestation.com)
 
 ## Conclusion
 

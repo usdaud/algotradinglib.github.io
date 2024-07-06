@@ -47,15 +47,15 @@ Intraday price pattern strategies can also be integrated into [risk management](
 The quality of the data used in algo-[trading systems](../t/trading_systems.md) is crucial. Intraday patterns rely on high-frequency data collected throughout the trading day. Poor-quality or lagging data can result in ineffective [trading strategies](../t/trading_strategies.md) and significant financial losses. [Real-time data analysis](../r/real-time_data_analysis.md) is another key component, as [intraday trading](../i/intraday_trading.md) requires quick decision-making based on the most current market conditions.
 
 #### Data Sources
-Numerous providers offer high-quality intraday data, such as Bloomberg, Reuters, and NASDAQ. Traders and developers often rely on these data sources to feed their algorithms and ensure timely trading decisions.
+Numerous providers offer high-quality intraday data, such as [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), and NASDAQ. Traders and developers often rely on these data sources to feed their algorithms and ensure timely trading decisions.
 
 ### Notable Companies in Intraday Algo-Trading
 
 #### 1. **QuantConnect**
-QuantConnect provides an open-source [algorithmic trading](../a/algorithmic_trading.md) engine that allows traders to design, backtest, and deploy strategies across multiple markets. They offer extensive documentation and data for developing intraday price pattern strategies.
+[QuantConnect](../q/quantconnect.md) provides an open-source [algorithmic trading](../a/algorithmic_trading.md) engine that allows traders to design, backtest, and deploy strategies across multiple markets. They offer extensive documentation and data for developing intraday price pattern strategies.
 
 #### 2. **AlgoTrader**
-AlgoTrader is a comprehensive [algorithmic trading](../a/algorithmic_trading.md) platform that supports both [backtesting](../b/backtesting.md) and live trading. Designed for professional traders, it offers real-time data feeds and can execute complex [intraday trading](../i/intraday_trading.md) strategies.
+[AlgoTrader](../a/algotrader.md) is a comprehensive [algorithmic trading](../a/algorithmic_trading.md) platform that supports both [backtesting](../b/backtesting.md) and live trading. Designed for professional traders, it offers real-time data feeds and can execute complex [intraday trading](../i/intraday_trading.md) strategies.
 
 #### 3. **MetaTrader 5**
 MetaTrader 5 (MT5) is one of the most popular trading platforms globally, known for its advanced charting tools, [algorithmic trading](../a/algorithmic_trading.md) capabilities, and [real-time market data](../r/real-time_market_data.md). It's widely used for implementing intraday price pattern strategies.

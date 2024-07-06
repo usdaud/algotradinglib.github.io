@@ -70,7 +70,7 @@ A thorough fixed income analysis necessitates credit risk assessment – the ris
 Modern fixed income analysis leverages sophisticated software and algorithms for:
 
 - **Automated Trading**: Utilizing platforms like [Algomi](https://www.algomi.com/) that provide fixed income market intelligence and connectivity.
-- **[Risk Management](../r/risk_management.md) Tools**: Software such as Bloomberg's PORT system for portfolio and [risk analysis](../r/risk_analysis.md).
+- **[Risk Management](../r/risk_management.md) Tools**: Software such as [Bloomberg](../b/bloomberg.md)'s PORT system for portfolio and [risk analysis](../r/risk_analysis.md).
 - **[Quantitative Models](../q/quantitative_models.md)**: Employed to predict price movements, assess risks, and execute trades efficiently.
 
 ### Real-World Applications

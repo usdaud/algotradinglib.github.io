@@ -93,7 +93,7 @@ Leveraging advanced trading technology and tools can enhance the efficiency and 
 
 ### TradeStation
 
-TradeStation is a leading trading platform that offers comprehensive tools and features for breakout trading. It provides advanced charting capabilities, [technical analysis](../t/technical_analysis.md) tools, and [automated trading systems](../a/automated_trading_systems.md) to help traders implement and execute breakout strategies.
+[TradeStation](../t/tradestation.md) is a leading trading platform that offers comprehensive tools and features for breakout trading. It provides advanced charting capabilities, [technical analysis](../t/technical_analysis.md) tools, and [automated trading systems](../a/automated_trading_systems.md) to help traders implement and execute breakout strategies.
 
 Website: [TradeStation](https://www.tradestation.com/)
 
@@ -105,13 +105,13 @@ Website: [MetaQuotes - MetaTrader](https://www.metaquotes.net/)
 
 ### Thinkorswim
 
-Thinkorswim, offered by TD Ameritrade, is a sophisticated trading platform with powerful charting and [technical analysis](../t/technical_analysis.md) tools. It is highly regarded by traders for its extensive features and user-friendly interface, making it ideal for breakout trading.
+[Thinkorswim](../t/thinkorswim.md), offered by TD Ameritrade, is a sophisticated trading platform with powerful charting and [technical analysis](../t/technical_analysis.md) tools. It is highly regarded by traders for its extensive features and user-friendly interface, making it ideal for breakout trading.
 
 Website: [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
 
 ### NinjaTrader
 
-NinjaTrader is a comprehensive trading platform that provides advanced charting, analysis, and automation capabilities for breakout trading. It is popular among professional traders for its customizable features and extensive support for various asset classes.
+[NinjaTrader](../n/ninjatrader.md) is a comprehensive trading platform that provides advanced charting, analysis, and automation capabilities for breakout trading. It is popular among professional traders for its customizable features and extensive support for various asset classes.
 
 Website: [NinjaTrader](https://ninjatrader.com/)
 

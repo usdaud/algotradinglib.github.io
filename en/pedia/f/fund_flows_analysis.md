@@ -31,13 +31,13 @@ Reliable data sources are essential for accurate fund flows analysis. Here are s
 
 ### Bloomberg
 
-Bloomberg offers a vast repository of financial data, including fund flows. Through its Bloomberg Terminal, users can track fund flows across different asset classes, geographies, and fund types.
+[Bloomberg](../b/bloomberg.md) offers a vast repository of financial data, including fund flows. Through its [Bloomberg](../b/bloomberg.md) Terminal, users can track fund flows across different asset classes, geographies, and fund types.
 
 [Visit Bloomberg](https://www.bloomberg.com)
 
 ### Morningstar
 
-Morningstar provides comprehensive data on mutual funds, ETFs, and other investment vehicles. Their database includes detailed metrics on fund flows, performance, and ratings.
+[Morningstar](../m/morningstar.md) provides comprehensive data on mutual funds, ETFs, and other investment vehicles. Their database includes detailed metrics on fund flows, performance, and ratings.
 
 [Visit Morningstar](https://www.morningstar.com)
 

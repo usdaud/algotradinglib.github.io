@@ -23,10 +23,10 @@ The underlying principle of the Average Up strategy is based on momentum investi
 
 ### Example Code Snippet in Python
 
-Here's a simplified example illustrating the Average Up strategy using the popular [algorithmic trading](../a/algorithmic_trading.md) library `Backtrader`:
+Here's a simplified example illustrating the Average Up strategy using the popular [algorithmic trading](../a/algorithmic_trading.md) library `[Backtrader](../b/backtrader.md)`:
 
 ```python
-import backtrader as bt
+import [backtrader](../b/backtrader.md) as bt
 
 class AverageUpStrategy(bt.Strategy):
     params = (('rebuy_threshold', 0.05), ('size', 100))
@@ -78,7 +78,7 @@ This code sets the baseline for a simple Average Up strategy. It buys 100 shares
 ### QuantConnect
 
 #### https://www.quantconnect.com/
-QuantConnect provides a wide range of tools for developing and testing [algorithmic trading](../a/algorithmic_trading.md) strategies. The platform enables traders to implement strategies like Average Up by providing extensive libraries and data access for [backtesting](../b/backtesting.md) and live trading.
+[QuantConnect](../q/quantconnect.md) provides a wide range of tools for developing and testing [algorithmic trading](../a/algorithmic_trading.md) strategies. The platform enables traders to implement strategies like Average Up by providing extensive libraries and data access for [backtesting](../b/backtesting.md) and live trading.
 
 ### Interactive Brokers (IBKR)
 
@@ -92,4 +92,4 @@ Alpaca offers a commission-free trading API that is ideal for implementing [algo
 
 ## Conclusion
 
-The Average Up strategy can be a powerful tool in the arsenal of traders and [algorithmic trading](../a/algorithmic_trading.md) systems. By systematically increasing positions in rising stocks, traders can leverage market momentum to potentially reap substantial profits. However, the strategy necessitates careful planning, rigorous testing, and adherence to best practices to mitigate risks and maximize returns. When implemented correctly—with the aid of advanced [algorithmic trading](../a/algorithmic_trading.md) platforms such as QuantConnect, Interactive Brokers, and Alpaca—the Average Up strategy can significantly enhance [trading performance](../t/trading_performance.md).
+The Average Up strategy can be a powerful tool in the arsenal of traders and [algorithmic trading](../a/algorithmic_trading.md) systems. By systematically increasing positions in rising stocks, traders can leverage market momentum to potentially reap substantial profits. However, the strategy necessitates careful planning, rigorous testing, and adherence to best practices to mitigate risks and maximize returns. When implemented correctly—with the aid of advanced [algorithmic trading](../a/algorithmic_trading.md) platforms such as [QuantConnect](../q/quantconnect.md), Interactive Brokers, and Alpaca—the Average Up strategy can significantly enhance [trading performance](../t/trading_performance.md).

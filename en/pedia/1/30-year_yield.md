@@ -110,7 +110,7 @@ The issuer of Treasury bonds, the U.S. Department of the Treasury provides detai
 
 ### Bloomberg
 
-Bloomberg offers a comprehensive suite of tools for monitoring and analyzing bond markets, including real-time data on the 30-year yield. [Bloomberg](https://www.bloomberg.com)
+[Bloomberg](../b/bloomberg.md) offers a comprehensive suite of tools for monitoring and analyzing bond markets, including real-time data on the 30-year yield. [Bloomberg](https://www.bloomberg.com)
 
 ### MarketWatch
 

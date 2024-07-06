@@ -91,11 +91,11 @@ Several trading platforms offer access to volatility indices and related [deriva
 
 Advanced analytical tools can help traders analyze market conditions and volatility trends:
 
-- **Bloomberg Terminal**: Provides comprehensive data and analytics on market indices, options, futures, and volatility measures.
+- **[Bloomberg](../b/bloomberg.md) Terminal**: Provides comprehensive data and analytics on market indices, options, futures, and volatility measures.
 
   Link: [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
-- **ThinkorSwim**: Offers powerful charting and analysis tools, along with access to volatility indices and options trading.
+- **[ThinkorSwim](../t/thinkorswim.md)**: Offers powerful charting and analysis tools, along with access to volatility indices and options trading.
 
   Link: [ThinkorSwim](https://www.thinkorswim.com/)
 

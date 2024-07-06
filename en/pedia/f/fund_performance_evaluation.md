@@ -72,17 +72,17 @@ Evaluating the performance of investment funds is critical for investors, fund m
 Several tools and software platforms can assist in evaluating fund performance. These tools provide a range of analytical capabilities, from basic [performance metrics](../p/performance_metrics.md) to advanced [risk analysis](../r/risk_analysis.md) and [performance attribution](../p/performance_attribution.md). Examples include:
 
 ### 1. **Morningstar Direct**
-   A comprehensive investment analysis platform offering data on mutual funds, ETFs, and market indices. Morningstar Direct provides tools for performance and [risk analysis](../r/risk_analysis.md), [portfolio management](../p/portfolio_management.md), and research.
+   A comprehensive investment analysis platform offering data on mutual funds, ETFs, and market indices. [Morningstar](../m/morningstar.md) Direct provides tools for performance and [risk analysis](../r/risk_analysis.md), [portfolio management](../p/portfolio_management.md), and research.
 
    - Website: [Morningstar Direct](https://www.morningstar.com/products/direct)
    
 ### 2. **Bloomberg Terminal**
-   Bloomberg Terminal offers extensive data and analytics for a broad range of financial instruments. It includes tools for performance evaluation, [risk management](../r/risk_management.md), and [portfolio analysis](../p/portfolio_analysis.md).
+   [Bloomberg](../b/bloomberg.md) Terminal offers extensive data and analytics for a broad range of financial instruments. It includes tools for performance evaluation, [risk management](../r/risk_management.md), and [portfolio analysis](../p/portfolio_analysis.md).
    
    - Website: [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
 ### 3. **FactSet**
-   FactSet provides tools for financial data and analytics, including performance measurement, [risk analysis](../r/risk_analysis.md), and [portfolio management](../p/portfolio_management.md).
+   [FactSet](../f/factset.md) provides tools for financial data and analytics, including performance measurement, [risk analysis](../r/risk_analysis.md), and [portfolio management](../p/portfolio_management.md).
 
    - Website: [FactSet](https://www.factset.com/)
 

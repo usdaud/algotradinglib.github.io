@@ -1,4 +1,4 @@
-﻿# TradeStation
+# TradeStation
 
 TradeStation is a comprehensive electronic trading platform developed by TradeStation Group, Inc. Known for its robust analytical tools and advanced features, TradeStation caters to active traders, sophisticated investors, and institutions across various asset classes.
 
@@ -7,9 +7,9 @@ TradeStation is a comprehensive electronic trading platform developed by TradeSt
 ### 1. Advanced Charting and Analysis
 
 - Multiple chart types and timeframes
-- Over 270 built-in technical indicators
+- Over 270 built-in [technical indicators](../t/technical_indicators.md)
 - Custom indicator creation using EasyLanguage
-- Drawing tools and pattern recognition
+- Drawing tools and [pattern recognition](../p/pattern_recognition.md)
 - Real-time streaming data
 - Multi-monitor support
 - Radar Screen for real-time market scanning
@@ -23,7 +23,7 @@ TradeStation is a comprehensive electronic trading platform developed by TradeSt
 
 ### 3. Strategy Testing and Optimization
 
-- Advanced backtesting engine
+- Advanced [backtesting](../b/backtesting.md) engine
 - Walk-forward optimization
 - Monte Carlo analysis
 - Multi-strategy portfolio testing
@@ -34,7 +34,7 @@ TradeStation is a comprehensive electronic trading platform developed by TradeSt
 - Support for stocks, ETFs, options, futures, forex, and cryptocurrencies
 - Advanced order types (including conditional orders)
 - Matrix (ladder) trading interface
-- Real-time position tracking and risk management
+- Real-time position tracking and [risk management](../r/risk_management.md)
 - Customizable alerts and notifications
 
 ### 5. OptionStation Pro
@@ -43,17 +43,17 @@ TradeStation is a comprehensive electronic trading platform developed by TradeSt
 - Options chains with real-time Greeks
 - Probability analysis tools
 - Risk graphs and position modeling
-- Volatility skew analysis
+- [Volatility skew](../v/volatility_skew.md) analysis
 
 ### 6. Automated Trading
 
 - Fully automated strategy execution
 - API access for custom trading applications
-- Support for high-frequency trading strategies
+- Support for high-frequency [trading strategies](../t/trading_strategies.md)
 
 ### 7. Data and Research
 
-- Real-time market data
+- [Real-time market data](../r/real-time_market_data.md)
 - Fundamental data and news integration
 - Economic calendar
 - Earnings reports and corporate actions
@@ -92,7 +92,7 @@ TradeStation is a comprehensive electronic trading platform developed by TradeSt
 
 - Advanced order entry interface
 - Depth of market visualization
-- One-click trading capabilities
+- [One-click trading](../o/one-click_trading.md) capabilities
 
 ### 3. Hot Lists
 
@@ -102,12 +102,12 @@ TradeStation is a comprehensive electronic trading platform developed by TradeSt
 ### 4. Time and Sales with Level II Data
 
 - Detailed trade and quote information
-- Market depth analysis
+- [Market depth analysis](../m/market_depth_analysis.md)
 
 ## Data and Research
 
 - Real-time, streaming market data
-- Historical data for analysis and backtesting
+- Historical data for analysis and [backtesting](../b/backtesting.md)
 - Fundamental data and news integration
 - Third-party research tools integration
 

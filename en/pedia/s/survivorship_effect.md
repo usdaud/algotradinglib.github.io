@@ -34,7 +34,7 @@ In [algorithmic trading](../a/algorithmic_trading.md), [survivorship bias](../s/
 
 3. **Comprehensive [Backtesting](../b/backtesting.md):** Include price data of stocks or companies that failed or merged when [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md).
    
-4. **Data Providers:** Collaborate with reputable data providers like Bloomberg, which offer comprehensive datasets including delisted securities, to mitigate [survivorship bias](../s/survivorship_bias.md) ([Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)).
+4. **Data Providers:** Collaborate with reputable data providers like [Bloomberg](../b/bloomberg.md), which offer comprehensive datasets including delisted securities, to mitigate [survivorship bias](../s/survivorship_bias.md) ([Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)).
 
 ## Real-World Example
 

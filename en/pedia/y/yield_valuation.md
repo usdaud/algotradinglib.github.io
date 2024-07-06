@@ -91,9 +91,9 @@ Yield [arbitrage](../a/arbitrage.md) opportunities, such as exploiting discrepan
 
 Various tools and platforms assist traders in yield valuation, including:
 
-- **Bloomberg Terminal**: Offers comprehensive data and analytics for [yield analysis](../y/yield_analysis.md).
-- **Thomson Reuters Eikon**: Another major platform providing yield data and financial analysis tools.
-- **QuantConnect**: An open-source trading platform where [algorithmic trading](../a/algorithmic_trading.md) strategies, including [yield analysis](../y/yield_analysis.md), can be tested and deployed.
+- **[Bloomberg](../b/bloomberg.md) Terminal**: Offers comprehensive data and analytics for [yield analysis](../y/yield_analysis.md).
+- **Thomson [Reuters](../r/reuters.md) Eikon**: Another major platform providing yield data and financial analysis tools.
+- **[QuantConnect](../q/quantconnect.md)**: An open-source trading platform where [algorithmic trading](../a/algorithmic_trading.md) strategies, including [yield analysis](../y/yield_analysis.md), can be tested and deployed.
 
 ### 7. Real-World Examples
 

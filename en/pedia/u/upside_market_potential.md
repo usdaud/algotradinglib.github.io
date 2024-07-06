@@ -83,7 +83,7 @@ MetaTrader 5 is a multi-asset platform offering advanced tools for [algorithmic 
 
 #### QuantConnect
 
-QuantConnect offers an open-source [algorithmic trading](../a/algorithmic_trading.md) platform supporting multiple asset classes. It allows traders to develop, backtest, and deploy [trading algorithms](../t/trading_algorithms.md).
+[QuantConnect](../q/quantconnect.md) offers an open-source [algorithmic trading](../a/algorithmic_trading.md) platform supporting multiple asset classes. It allows traders to develop, backtest, and deploy [trading algorithms](../t/trading_algorithms.md).
 
 - [QuantConnect](https://www.quantconnect.com/)
 

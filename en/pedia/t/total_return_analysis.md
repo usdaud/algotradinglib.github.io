@@ -54,13 +54,13 @@ For dividend-paying stocks, Total Return Analysis can help in designing reinvest
 Several financial technology firms and platforms offer tools and solutions for implementing Total Return Analysis within [algorithmic trading](../a/algorithmic_trading.md) strategies. Here are a few notable companies:
 
 ### QuantConnect [QuantConnect](https://www.quantconnect.com/)
-QuantConnect provides an open-source [algorithmic trading](../a/algorithmic_trading.md) platform wherein users can build, backtest, and deploy [trading algorithms](../t/trading_algorithms.md). The platform supports Total Return metrics as part of its performance analysis tools.
+[QuantConnect](../q/quantconnect.md) provides an open-source [algorithmic trading](../a/algorithmic_trading.md) platform wherein users can build, backtest, and deploy [trading algorithms](../t/trading_algorithms.md). The platform supports Total Return metrics as part of its performance analysis tools.
 
 ### Alpaca [Alpaca](https://alpaca.markets/)
 Alpaca offers a commission-free trading API that allows users to automate their [trading strategies](../t/trading_strategies.md). The platform provides comprehensive data on returns, including dividends and interest, ensuring accurate Total Return Analysis.
 
 ### TradeStation [TradeStation](https://www.tradestation.com/)
-TradeStation is a trading platform that provides advanced tools for algorithmic traders. It supports detailed [performance analytics](../p/performance_analytics.md) and custom metrics, including Total Return Analysis, to help traders refine and improve their strategies.
+[TradeStation](../t/tradestation.md) is a trading platform that provides advanced tools for algorithmic traders. It supports detailed [performance analytics](../p/performance_analytics.md) and custom metrics, including Total Return Analysis, to help traders refine and improve their strategies.
 
 ### Interactive Brokers [Interactive Brokers](https://www.interactivebrokers.com/)
 Interactive Brokers offers a suite of tools for [algorithmic trading](../a/algorithmic_trading.md) and detailed performance reports. Their total return metrics include dividends, interest income, and capital gains, allowing for a thorough analysis of investment performance.

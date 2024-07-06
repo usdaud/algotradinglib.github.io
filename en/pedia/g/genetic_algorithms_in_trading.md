@@ -68,8 +68,8 @@ Walk-forward optimization is a technique used to validate the robustness of a tr
 Several trading platforms support the implementation of GAs, either through built-in tools or by allowing custom algorithm development. Some popular platforms include:
 
 - [MetaTrader](https://www.metatrader4.com): MetaTrader supports custom algorithm development using the MQL language, enabling traders to implement GAs directly.
-- [QuantConnect](https://www.quantconnect.com): QuantConnect is a cloud-based platform that offers a robust environment for developing and [backtesting](../b/backtesting.md) [trading algorithms](../t/trading_algorithms.md), including those using GAs.
-- [AlgoTrader](https://www.algotrader.com): AlgoTrader is an institutional-grade [algorithmic trading](../a/algorithmic_trading.md) platform that supports the development of GAs and other advanced [trading strategies](../t/trading_strategies.md).
+- [QuantConnect](https://www.quantconnect.com): [QuantConnect](../q/quantconnect.md) is a cloud-based platform that offers a robust environment for developing and [backtesting](../b/backtesting.md) [trading algorithms](../t/trading_algorithms.md), including those using GAs.
+- [AlgoTrader](https://www.algotrader.com): [AlgoTrader](../a/algotrader.md) is an institutional-grade [algorithmic trading](../a/algorithmic_trading.md) platform that supports the development of GAs and other advanced [trading strategies](../t/trading_strategies.md).
 
 ### Hybrid Approaches
 

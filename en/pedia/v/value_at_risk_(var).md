@@ -98,7 +98,7 @@ Several software solutions and tools are available for calculating and managing 
 
 ### Bloomberg Terminal
 
-The Bloomberg Terminal offers comprehensive [risk management](../r/risk_management.md) tools, including VaR calculations, scenario analysis, and stress testing. [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+The [Bloomberg](../b/bloomberg.md) Terminal offers comprehensive [risk management](../r/risk_management.md) tools, including VaR calculations, scenario analysis, and stress testing. [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
 ### MSCI BarraOne
 
@@ -110,7 +110,7 @@ RiskMetrics provides [risk management](../r/risk_management.md) solutions, inclu
 
 ### Algorithmic Trading Platforms
 
-[Algorithmic trading](../a/algorithmic_trading.md) platforms like MetaTrader, NinjaTrader, and others provide integrated [risk management](../r/risk_management.md) tools, including VaR calculations, to help traders manage their strategies effectively. [MetaTrader](https://www.metatrader4.com/en), [NinjaTrader](https://ninjatrader.com/)
+[Algorithmic trading](../a/algorithmic_trading.md) platforms like MetaTrader, [NinjaTrader](../n/ninjatrader.md), and others provide integrated [risk management](../r/risk_management.md) tools, including VaR calculations, to help traders manage their strategies effectively. [MetaTrader](https://www.metatrader4.com/en), [NinjaTrader](https://ninjatrader.com/)
 
 ## Conclusion
 

@@ -38,7 +38,7 @@ Quantitative active management encompasses a variety of strategies, each with it
 
 The implementation of quantitative active management requires a robust technological infrastructure. Key tools and platforms include:
 
-1. **Data Vendors**: Providers such as Bloomberg, Reuters, and FactSet supply the comprehensive market and financial data necessary for [quantitative analysis](../q/quantitative_analysis.md).
+1. **Data Vendors**: Providers such as [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), and [FactSet](../f/factset.md) supply the comprehensive market and financial data necessary for [quantitative analysis](../q/quantitative_analysis.md).
   
 2. **Computational Platforms**: High-performance computing environments are essential for the processing power needed to run complex models and simulations.
   

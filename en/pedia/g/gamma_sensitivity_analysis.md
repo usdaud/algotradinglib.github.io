@@ -56,9 +56,9 @@ To facilitate real-time Gamma Sensitivity Analysis, various software tools and p
 
 #### Notable Gamma Monitoring Solutions
 
-1. **Bloomberg Terminal**: A comprehensive financial data and analytics platform that provides tools for Gamma monitoring and other sensitivity analyses. (Link: [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/))
+1. **[Bloomberg](../b/bloomberg.md) Terminal**: A comprehensive financial data and analytics platform that provides tools for Gamma monitoring and other sensitivity analyses. (Link: [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/))
    
-2. **TradeStation**: A robust trading platform offering advanced options analytics, including Gamma calculations and delta-neutral strategies. (Link: [TradeStation](https://www.tradestation.com/))
+2. **[TradeStation](../t/tradestation.md)**: A robust trading platform offering advanced options analytics, including Gamma calculations and delta-neutral strategies. (Link: [TradeStation](https://www.tradestation.com/))
    
 3. **Interactive Brokers**: Provides sophisticated options trading tools with real-time Greeks calculation, including Gamma. Tailored for active traders and algorithmic strategies. (Link: [Interactive Brokers](https://www.interactivebrokers.com/)).
 

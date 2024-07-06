@@ -86,9 +86,9 @@ In the cryptocurrency market, where volume data is readily available, the VROC c
 
 Various trading platforms and tools offer the VROC indicator as part of their [technical analysis](../t/technical_analysis.md) suite. Examples include:
 
-- **TradingView** (https://www.tradingview.com/): A popular web-based charting platform that provides the VROC indicator among numerous other analysis tools.
-- **MetaTrader 4/5** (https://www.metatrader4.com/): Commonly used by forex and CFD traders, offering the VROC as a customizable indicator.
-- **Thinkorswim by TD Ameritrade** (https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page): A robust trading platform that includes advanced charting features and the VROC indicator.
+- **[TradingView](../t/tradingview.md)** (https://www.[tradingview](../t/tradingview.md).com/): A popular web-based charting platform that provides the VROC indicator among numerous other analysis tools.
+- **MetaTrader 4/5** (https://www.[metatrader4](../m/metatrader4.md).com/): Commonly used by forex and CFD traders, offering the VROC as a customizable indicator.
+- **[Thinkorswim](../t/thinkorswim.md) by TD Ameritrade** (https://www.tdameritrade.com/tools-and-platforms/[thinkorswim](../t/thinkorswim.md).page): A robust trading platform that includes advanced charting features and the VROC indicator.
 
 ## Conclusion
 

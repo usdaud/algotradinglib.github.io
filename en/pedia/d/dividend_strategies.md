@@ -83,7 +83,7 @@ The implementation of dividend strategies within the scope of [algorithmic tradi
 
 #### Leading Providers and Platforms
 
-- **QuantConnect**: [QuantConnect](https://www.quantconnect.com) offers a powerful [algorithmic trading](../a/algorithmic_trading.md) platform that supports the creation, [backtesting](../b/backtesting.md), and live deployment of dividend strategies.
+- **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](https://www.quantconnect.com) offers a powerful [algorithmic trading](../a/algorithmic_trading.md) platform that supports the creation, [backtesting](../b/backtesting.md), and live deployment of dividend strategies.
 - **Quantopian**: Although no longer active, Quantopian's legacy provides valuable insights into developing dividend-focused algorithms.
 - **Alpaca**: [Alpaca](https://alpaca.markets) offers commission-free trading APIs that can be used to implement and execute algorithmic dividend strategies.
 

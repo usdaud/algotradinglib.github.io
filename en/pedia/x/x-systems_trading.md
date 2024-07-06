@@ -89,11 +89,11 @@ Successful implementation of X-Systems Trading requires robust technological inf
 
 ### Trading Platforms
 
-Trading platforms provide the interface for executing algorithmic trades. Popular platforms include MetaTrader [MetaTrader](https://www.metatrader5.com/en), NinjaTrader [NinjaTrader](https://ninjatrader.com/), and TradeStation [TradeStation](https://www.tradestation.com/).
+Trading platforms provide the interface for executing algorithmic trades. Popular platforms include MetaTrader [MetaTrader](https://www.metatrader5.com/en), [NinjaTrader](../n/ninjatrader.md) [NinjaTrader](https://ninjatrader.com/), and [TradeStation](../t/tradestation.md) [TradeStation](https://www.tradestation.com/).
 
 ### Data Feeds
 
-Real-time and historical data feeds are essential for analyzing market conditions and [backtesting](../b/backtesting.md) strategies. Leading data providers include Bloomberg [Bloomberg](https://www.bloomberg.com/professional/) and Thomson Reuters [Thomson Reuters](https://www.thomsonreuters.com/).
+Real-time and historical data feeds are essential for analyzing market conditions and [backtesting](../b/backtesting.md) strategies. Leading data providers include [Bloomberg](../b/bloomberg.md) [Bloomberg](https://www.bloomberg.com/professional/) and Thomson [Reuters](../r/reuters.md) [Thomson Reuters](https://www.thomsonreuters.com/).
 
 ### Execution Management Systems (EMS)
 

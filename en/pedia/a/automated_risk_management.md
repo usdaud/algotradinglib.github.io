@@ -52,14 +52,14 @@ Many trading platforms offer built-in [risk management](../r/risk_management.md)
 
 - **MetaTrader 4/5 (MT4/MT5):** Popular trading platforms offering advanced charting and trading tools, including automated [risk management](../r/risk_management.md).
 
-- **NinjaTrader:** A platform that provides advanced analytics, [backtesting](../b/backtesting.md), and [risk management](../r/risk_management.md) features.
+- **[NinjaTrader](../n/ninjatrader.md):** A platform that provides advanced analytics, [backtesting](../b/backtesting.md), and [risk management](../r/risk_management.md) features.
 
-- **AlgoTrader:** An institutional-grade [algorithmic trading](../a/algorithmic_trading.md) platform that includes comprehensive [risk management](../r/risk_management.md) capabilities (https://www.algotrader.com/).
+- **[AlgoTrader](../a/algotrader.md):** An institutional-grade [algorithmic trading](../a/algorithmic_trading.md) platform that includes comprehensive [risk management](../r/risk_management.md) capabilities (https://www.[algotrader](../a/algotrader.md).com/).
 
 ### APIs and Libraries
 Programmatic access to [risk management](../r/risk_management.md) tools is facilitated through various APIs and libraries. Key examples include:
 
-- **Quantlib:** An open-source library for [quantitative finance](../q/quantitative_finance.md) that includes tools for [risk management](../r/risk_management.md) and financial mathematics (https://www.quantlib.org/).
+- **[Quantlib](../q/quantlib.md):** An open-source library for [quantitative finance](../q/quantitative_finance.md) that includes tools for [risk management](../r/risk_management.md) and financial mathematics (https://www.[quantlib](../q/quantlib.md).org/).
 
 - **ccxt:** A cryptocurrency trading library for managing risks across multiple exchanges using Python and JavaScript (https://github.com/ccxt/ccxt).
 

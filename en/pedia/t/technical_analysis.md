@@ -81,7 +81,7 @@ Many hedge funds incorporate technical analysis into their [trading strategies](
 - [Renaissance Technologies](https://www.rentec.com/)
 
 ### Retail Trading Platforms
-Retail trading platforms like MetaTrader and ThinkOrSwim provide robust tools for technical analysis, enabling individual traders to implement and automate their [trading strategies](../t/trading_strategies.md).
+Retail trading platforms like MetaTrader and [ThinkOrSwim](../t/thinkorswim.md) provide robust tools for technical analysis, enabling individual traders to implement and automate their [trading strategies](../t/trading_strategies.md).
 
 - [MetaTrader](https://www.metatrader4.com/)
 - [ThinkOrSwim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)

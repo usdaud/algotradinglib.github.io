@@ -56,9 +56,9 @@ The calculation of the K-Ratio involves several detailed steps, which are crucia
 ### Tools and Software for K-Ratio Optimization
 Several tools and software platforms can assist traders in calculating and optimizing the K-Ratio:
 
-- **QuantConnect**: An open platform for [backtesting](../b/backtesting.md) [trading algorithms](../t/trading_algorithms.md) that supports various financial metrics, including the K-Ratio. [QuantConnect](https://www.quantconnect.com/)
+- **[QuantConnect](../q/quantconnect.md)**: An open platform for [backtesting](../b/backtesting.md) [trading algorithms](../t/trading_algorithms.md) that supports various financial metrics, including the K-Ratio. [QuantConnect](https://www.quantconnect.com/)
 - **Python Libraries**: Libraries like `pandas`, `numpy`, and `statsmodels` can be used to calculate the K-Ratio and perform optimizations in a flexible, customizable manner.
-- **Trading Platforms**: Platforms such as MetaTrader and NinjaTrader offer built-in functions or the ability to create custom functions to calculate and optimize the K-Ratio. [MetaTrader](https://www.metatrader4.com/), [NinjaTrader](https://ninjatrader.com/)
+- **Trading Platforms**: Platforms such as MetaTrader and [NinjaTrader](../n/ninjatrader.md) offer built-in functions or the ability to create custom functions to calculate and optimize the K-Ratio. [MetaTrader](https://www.metatrader4.com/), [NinjaTrader](https://ninjatrader.com/)
 
 ### Case Studies
 #### Case Study 1: High-Frequency Trading Strategy

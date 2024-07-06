@@ -1,4 +1,4 @@
-﻿# ThinkOrSwim (TOS)
+# ThinkOrSwim (TOS)
 
 ThinkOrSwim, often abbreviated as TOS, is a comprehensive trading platform developed and offered by TD Ameritrade. Known for its robust features and advanced capabilities, ThinkOrSwim caters to both novice and experienced traders across various asset classes.
 
@@ -7,9 +7,9 @@ ThinkOrSwim, often abbreviated as TOS, is a comprehensive trading platform devel
 ### 1. Advanced Charting
 
 - Multiple chart types (candlestick, bar, line, etc.)
-- Over 400 technical indicators
+- Over 400 [technical indicators](../t/technical_indicators.md)
 - Custom indicator creation using thinkScript
-- Drawing tools and pattern recognition
+- Drawing tools and [pattern recognition](../p/pattern_recognition.md)
 - Real-time streaming data
 - Multi-monitor support
 
@@ -24,7 +24,7 @@ ThinkOrSwim, often abbreviated as TOS, is a comprehensive trading platform devel
 
 ### 3. Paper Trading
 
-- Simulated trading environment
+- [Simulated trading](../s/simulated_trading.md) environment
 - Real-time data in paper trading accounts
 - Ability to test strategies without financial risk
 
@@ -38,7 +38,7 @@ ThinkOrSwim, often abbreviated as TOS, is a comprehensive trading platform devel
 
 - Probability analysis tools
 - Profit/loss calculators
-- Volatility skew analysis
+- [Volatility skew](../v/volatility_skew.md) analysis
 - Option chains with real-time Greeks
 
 ### 6. Educational Resources
@@ -115,7 +115,7 @@ ThinkOrSwim, often abbreviated as TOS, is a comprehensive trading platform devel
 
 - Real-time, streaming market data
 - Third-party research integration (Recognia, Market Edge, etc.)
-- Social sentiment analysis
+- Social [sentiment analysis](../s/sentiment_analysis.md)
 - Customizable news feeds
 
 ## Pricing and Requirements
@@ -138,7 +138,7 @@ ThinkOrSwim, often abbreviated as TOS, is a comprehensive trading platform devel
 
 ## Integration and API
 
-- API access for algorithmic trading (requires approval)
+- API access for [algorithmic trading](../a/algorithmic_trading.md) (requires approval)
 - Data export capabilities for further analysis
 - Integration with TD Ameritrade accounts and services
 
@@ -155,7 +155,7 @@ ThinkOrSwim, often abbreviated as TOS, is a comprehensive trading platform devel
 2. Advanced options analysis tools
 3. No additional costs for real-time data or platform use
 4. Powerful customization through thinkScript
-5. Robust paper trading environment
+5. Robust paper [trading environment](../t/trading_environment.md)
 6. Integration with TD Ameritrade's extensive educational resources
 
 ThinkOrSwim stands out for its combination of advanced features, ease of use, and integration with TD Ameritrade's broader ecosystem. It's particularly favored by options traders and those seeking a platform that can grow with their trading sophistication. The platform's continuous updates and improvements, along with its strong community support, make it a top choice for many retail traders in the United States.

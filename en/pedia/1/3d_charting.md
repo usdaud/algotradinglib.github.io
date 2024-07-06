@@ -48,13 +48,13 @@ Python is a popular language in the field of [algorithmic trading](../a/algorith
 - **Mayavi**: Good for scientific [data visualization](../d/data_visualization.md), supporting complex 3D plots.
 
 ### Trading Platforms
-- **QuantConnect**: An [algorithmic trading](../a/algorithmic_trading.md) platform that offers 3D charting capabilities for strategy visualization. [(QuantConnect)](https://www.quantconnect.com)
+- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that offers 3D charting capabilities for strategy visualization. [(QuantConnect)](https://www.quantconnect.com)
 - **MetaTrader 5**: Offers some support for 3D visualizations in trading activities. [(MetaTrader 5)](https://www.metatrader5.com)
 
 ### Professional Tools
 Professional trading tools often incorporate advanced charting capabilities:
-- **Bloomberg Terminal**: Bloomberg offers sophisticated charting tools, including 3D capabilities, for in-depth market analysis. [(Bloomberg Terminal)](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-- **Thomson Reuters Eikon**: Provides extensive charting features, enabling traders to visualize complex data in 3D. [(Thomson Reuters Eikon)](https://www.refinitiv.com/en/products/eikon-trading-software)
+- **[Bloomberg](../b/bloomberg.md) Terminal**: [Bloomberg](../b/bloomberg.md) offers sophisticated charting tools, including 3D capabilities, for in-depth market analysis. [(Bloomberg Terminal)](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+- **Thomson [Reuters](../r/reuters.md) Eikon**: Provides extensive charting features, enabling traders to visualize complex data in 3D. [(Thomson Reuters Eikon)](https://www.refinitiv.com/en/products/eikon-trading-software)
 
 ## Advantages of 3D Charting
 

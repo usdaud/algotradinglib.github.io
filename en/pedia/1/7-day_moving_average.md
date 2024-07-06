@@ -91,7 +91,7 @@ While the 7-day moving average is a powerful tool, it has its limitations:
 Many trading platforms and financial services provide tools to implement moving averages in [trading strategies](../t/trading_strategies.md). For example:
 
 - **MetaTrader 4/5:** Offers built-in tools for moving averages and customizable expert advisors to automate [trading strategies](../t/trading_strategies.md).
-- **NinjaTrader:** Provides a suite of [technical analysis](../t/technical_analysis.md) tools, including moving averages, and supports custom script development.
+- **[NinjaTrader](../n/ninjatrader.md):** Provides a suite of [technical analysis](../t/technical_analysis.md) tools, including moving averages, and supports custom script development.
 - **Interactive Brokers:** Through its Trader Workstation, Interactive Brokers supports a variety of moving average types and periods, which can be used in automated [trading algorithms](../t/trading_algorithms.md).
 
 #### Further Reading

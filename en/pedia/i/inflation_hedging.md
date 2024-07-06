@@ -34,7 +34,7 @@ In the context of [algorithmic trading](../a/algorithmic_trading.md), inflation 
 
 3. **[Backtesting](../b/backtesting.md)**: 
     - Test the inflation [hedging strategies](../h/hedging_strategies.md) on historical data to ensure they perform as expected across different inflationary periods.
-    - Utilize platforms like QuantConnect or MetaTrader for [backtesting](../b/backtesting.md) purposes.
+    - Utilize platforms like [QuantConnect](../q/quantconnect.md) or MetaTrader for [backtesting](../b/backtesting.md) purposes.
 
 4. **Execution**:
     - Implement the algorithm on live trading platforms, ensuring seamless integration with brokers and trading networks.
@@ -43,7 +43,7 @@ In the context of [algorithmic trading](../a/algorithmic_trading.md), inflation 
 ### Tools and Platforms for Algorithmic Inflation Hedging
 
 1. **[Algorithmic Trading](../a/algorithmic_trading.md) Platforms**:
-    - **QuantConnect** ([website](https://www.quantconnect.com)): Used for designing, [backtesting](../b/backtesting.md), and deploying [trading algorithms](../t/trading_algorithms.md).
+    - **[QuantConnect](../q/quantconnect.md)** ([website](https://www.quantconnect.com)): Used for designing, [backtesting](../b/backtesting.md), and deploying [trading algorithms](../t/trading_algorithms.md).
     - **MetaTrader** ([website](https://www.metatrader5.com)): Popular among retail traders for [algorithmic trading](../a/algorithmic_trading.md).
 
 2. **Programming Languages**:

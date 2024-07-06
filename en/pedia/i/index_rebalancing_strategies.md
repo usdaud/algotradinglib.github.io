@@ -70,7 +70,7 @@ Index rebalancing is the method by which the weights of the constituent stocks i
 ### Tools for Implementing Index Rebalancing
 
 1. **[Portfolio Management](../p/portfolio_management.md) Software:**
-   - Platforms like Bloomberg Terminal (https://www.bloomberg.com/professional/solution/portfolio-and-risk-analytics/) and FactSet (https://www.factset.com/products/portfolio-management) provide comprehensive tools for managing and executing index rebalances.
+   - Platforms like [Bloomberg](../b/bloomberg.md) Terminal (https://www.[bloomberg](../b/bloomberg.md).com/professional/solution/portfolio-and-risk-analytics/) and [FactSet](../f/factset.md) (https://www.[factset](../f/factset.md).com/products/portfolio-management) provide comprehensive tools for managing and executing index rebalances.
    
 2. **[Algorithmic Trading](../a/algorithmic_trading.md) Systems:**
    - Algorithmic systems can automate the rebalancing process, reducing human errors and optimizing execution costs. Examples include services provided by [Virtu Financial](https://www.virtu.com/).

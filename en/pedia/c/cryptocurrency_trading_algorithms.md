@@ -53,11 +53,11 @@ HFT algorithms execute a large number of orders at extremely high speeds to prof
 ## Tools and Platforms for Algorithmic Trading
 
 ### 1. **QuantConnect**
-QuantConnect provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple asset classes including cryptocurrencies. Users can write algorithms in C# and Python and backtest them on historical data.
+[QuantConnect](../q/quantconnect.md) provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple asset classes including cryptocurrencies. Users can write algorithms in C# and Python and backtest them on historical data.
 [QuantConnect](https://www.quantconnect.com/)
 
 ### 2. **TradingView**
-TradingView offers extensive charting tools and scripting capabilities through its proprietary Pine Script language. It allows traders to develop and backtest their own [trading strategies](../t/trading_strategies.md).
+[TradingView](../t/tradingview.md) offers extensive charting tools and scripting capabilities through its proprietary Pine Script language. It allows traders to develop and backtest their own [trading strategies](../t/trading_strategies.md).
 [TradingView](https://www.tradingview.com/)
 
 ### 3. **MetaTrader 5 (MT5)**
@@ -65,7 +65,7 @@ MT5 is a popular trading platform that supports algo trading through its MQL5 pr
 [MetaTrader 5](https://www.metatrader5.com/)
 
 ### 4. **AlgoTrader**
-AlgoTrader is an institutional-grade [algorithmic trading](../a/algorithmic_trading.md) software that supports cryptocurrency trading along with other asset classes. It offers comprehensive [backtesting](../b/backtesting.md), [risk management](../r/risk_management.md), and execution capabilities.
+[AlgoTrader](../a/algotrader.md) is an institutional-grade [algorithmic trading](../a/algorithmic_trading.md) software that supports cryptocurrency trading along with other asset classes. It offers comprehensive [backtesting](../b/backtesting.md), [risk management](../r/risk_management.md), and execution capabilities.
 [AlgoTrader](https://www.algotrader.com/)
 
 ### 5. **Kryll.io**

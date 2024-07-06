@@ -63,7 +63,7 @@ Chikou Span provides confirmation by assessing how the current price behaves rel
 
 ### Building the Indicator
 
-Building the Ichimoku indicators in a trading algorithm involves calculating the five components based on historical price data and implementing logic to interpret the signals accordingly. Python and platforms such as QuantConnect (https://www.quantconnect.com/) and Alpaca (https://alpaca.markets/) provide APIs to help build and simulate these strategies.
+Building the Ichimoku indicators in a trading algorithm involves calculating the five components based on historical price data and implementing logic to interpret the signals accordingly. Python and platforms such as [QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/) and Alpaca (https://alpaca.markets/) provide APIs to help build and simulate these strategies.
 
 ```python
 import numpy as np
@@ -124,7 +124,7 @@ def cloud_breakout_strategy(df):
 After creating the strategy, it's crucial to backtest it on historical data to understand its performance.
 
 ```python
-import backtrader as bt
+import [backtrader](../b/backtrader.md) as bt
 
 class IchimokuStrategy(bt.Strategy):
     def __init__(self):
@@ -144,7 +144,7 @@ cerebro.run()
 cerebro.plot()
 ```
 
-In this example, the `backtrader` library is used to backtest an Ichimoku-based strategy on Apple's stock data from Yahoo Finance.
+In this example, the `[backtrader](../b/backtrader.md)` library is used to backtest an Ichimoku-based strategy on Apple's stock data from Yahoo Finance.
 
 ## Advantages of Ichimoku in Algorithmic Trading
 

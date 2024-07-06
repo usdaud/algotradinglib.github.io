@@ -24,7 +24,7 @@ The [bid-ask spread](../b/bid-ask_spread.md) is the difference between the highe
 ### Technological Infrastructure
 
 1. **Trading Platforms**
-   Wide [spread trading](../s/spread_trading.md) requires a robust and high-speed trading platform capable of handling simultaneous buy and sell orders and managing significant data flows. Examples include MetaTrader, TradeStation, and [proprietary trading](../p/proprietary_trading.md) systems used by major financial institutions.
+   Wide [spread trading](../s/spread_trading.md) requires a robust and high-speed trading platform capable of handling simultaneous buy and sell orders and managing significant data flows. Examples include MetaTrader, [TradeStation](../t/tradestation.md), and [proprietary trading](../p/proprietary_trading.md) systems used by major financial institutions.
 
 2. **Algorithmic Models**
    Developing sophisticated algorithms to identify and exploit wide spread opportunities is key. These models often incorporate machine learning techniques, statistical analysis, and historical data to predict price movements and optimize trade execution. Firms like [Kx Systems](https://kx.com) provide powerful analytics tools for building and deploying such algorithms.

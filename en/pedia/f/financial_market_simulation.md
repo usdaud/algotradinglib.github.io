@@ -161,7 +161,7 @@ R is an open-source programming language with robust libraries for financial ana
 
 3. **Python**
 
-Python, with its extensive libraries like `pandas`, `NumPy`, `scikit-learn`, and `QuantLib`, serves as a powerful tool for financial market simulations. Check out Python libraries at [Python - Financial Analysis](https://www.python.org/about/success/finance/).
+Python, with its extensive libraries like `pandas`, `NumPy`, `scikit-learn`, and `[QuantLib](../q/quantlib.md)`, serves as a powerful tool for financial market simulations. Check out Python libraries at [Python - Financial Analysis](https://www.python.org/about/success/finance/).
 
 4. **Simulink**
 
@@ -171,9 +171,9 @@ Simulink, by MathWorks, provides a simulation environment integrated with MATLAB
 
 AnyLogic is a simulation software that supports agent-based, system dynamics, and discrete event modeling. It is used for creating complex financial market simulations. More information is available at [AnyLogic - Financial Service Simulation](https://www.anylogic.com/industries/financial-services/).
 
-6. **AlgoTrader**
+6. **[AlgoTrader](../a/algotrader.md)**
 
-AlgoTrader is a comprehensive [algorithmic trading](../a/algorithmic_trading.md) software solution that supports back-testing, simulation, and live trading. Find more about their offerings at [AlgoTrader](https://www.algotrader.com/).
+[AlgoTrader](../a/algotrader.md) is a comprehensive [algorithmic trading](../a/algorithmic_trading.md) software solution that supports back-testing, simulation, and live trading. Find more about their offerings at [AlgoTrader](https://www.algotrader.com/).
 
 **Challenges and Limitations**
 

@@ -133,8 +133,8 @@ For a bond with a nominal yield of 6%, a risk-free rate of 2%, and an asset retu
 
 Several companies and online platforms provide tools and resources for yield calculation and analysis. Some notable tools include those offered by financial services firms like:
 
-- **Morningstar**: [Morningstar.com](https://www.morningstar.com)
-- **Bloomberg Terminal**: [Bloomberg.com](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+- **[Morningstar](../m/morningstar.md)**: [Morningstar.com](https://www.morningstar.com)
+- **[Bloomberg](../b/bloomberg.md) Terminal**: [Bloomberg.com](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 - **Yahoo Finance**: [finance.yahoo.com](https://finance.yahoo.com)
 
 These platforms offer calculators, real-time data, and analytical tools essential for professionals engaged in [yield analysis](../y/yield_analysis.md) and algotrading.

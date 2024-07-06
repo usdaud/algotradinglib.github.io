@@ -83,11 +83,11 @@ For [derivatives](../d/derivatives.md) such as [interest rate swaps](../i/intere
 
 Several specialized tools and software facilitate the construction and analysis of the zero rate curve, including:
 
-- **Bloomberg Terminal**: Provides comprehensive financial data and analytics for building and analyzing zero rate curves. [Bloomberg](https://www.bloomberg.com/)
+- **[Bloomberg](../b/bloomberg.md) Terminal**: Provides comprehensive financial data and analytics for building and analyzing zero rate curves. [Bloomberg](https://www.bloomberg.com/)
   
-- **Thomson Reuters Eikon**: Another leading platform for financial data, offering tools for [yield curve](../y/yield_curve.md) analysis.
+- **Thomson [Reuters](../r/reuters.md) Eikon**: Another leading platform for financial data, offering tools for [yield curve](../y/yield_curve.md) analysis.
   
-- **Excel with Financial Add-ins**: Custom spreadsheets with financial formulas and add-ins like Bloomberg Excel Add-In or Reuters Decision Support.
+- **Excel with Financial Add-ins**: Custom spreadsheets with financial formulas and add-ins like [Bloomberg](../b/bloomberg.md) Excel Add-In or [Reuters](../r/reuters.md) Decision Support.
 
 ### Challenges in Zero Rate Curve Construction
 
@@ -115,7 +115,7 @@ Investor expectations, reflected in the zero rate curve, signal broader market s
 
 The zero rate curve is a foundational tool in finance, vital for discounting, valuation, [risk management](../r/risk_management.md), and economic analysis. Its accurate construction and interpretation require a deep understanding of financial instruments, market conditions, and advanced mathematical techniques.
 
-For more information on market data and financial tools, Bloomberg and Thomson Reuters Eikon offer extensive resources and platforms for professionals in the field:
+For more information on market data and financial tools, [Bloomberg](../b/bloomberg.md) and Thomson [Reuters](../r/reuters.md) Eikon offer extensive resources and platforms for professionals in the field:
 
 - [Bloomberg](https://www.bloomberg.com/)
 - [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)

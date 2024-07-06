@@ -76,7 +76,7 @@ Goldman Sachs provides T-Bill investment solutions tailored for high-net-worth i
 Bank of America’s Merrill Lynch division offers trading and investment services in T-Bills, facilitating access for a broad range of clients. For more information, visit [Bank of America](https://www.bofaml.com/).
 
 ### Bloomberg Terminal
-Bloomberg Terminal is an essential tool for algo-traders monitoring real-time data, yields, and analytics related to 3-Month T-Bills. Learn more at [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/).
+[Bloomberg](../b/bloomberg.md) Terminal is an essential tool for algo-traders monitoring real-time data, yields, and analytics related to 3-Month T-Bills. Learn more at [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/).
 
 ### E*TRADE
 E*TRADE allows individual investors to access T-Bills through their trading platform, providing tools for performance analysis and [portfolio management](../p/portfolio_management.md). Visit [E*TRADE](https://us.etrade.com/).

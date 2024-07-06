@@ -25,7 +25,7 @@ Reverse engineering [trading strategies](../t/trading_strategies.md) is essentia
 
 ### 1. Data Collection
 
-The first step in reverse engineering a trading strategy is to collect relevant data. This includes historical price data, trading volumes, market news, and other financial indicators. Data can be obtained from various sources, including brokerage firms, financial data providers like Bloomberg or Reuters, and free sources like Yahoo Finance.
+The first step in reverse engineering a trading strategy is to collect relevant data. This includes historical price data, trading volumes, market news, and other financial indicators. Data can be obtained from various sources, including brokerage firms, financial data providers like [Bloomberg](../b/bloomberg.md) or [Reuters](../r/reuters.md), and free sources like Yahoo Finance.
 
 ### 2. Identifying Patterns and Signals
 
@@ -60,7 +60,7 @@ The final step is to refine and optimize the strategy. This may involve tweaking
 Several tools and technologies can facilitate the reverse engineering of [trading strategies](../t/trading_strategies.md), including:
 
 - **Programming Languages:** Python, R, and MATLAB are popular choices for implementing and testing [trading strategies](../t/trading_strategies.md).
-- **Trading Platforms:** Platforms like MetaTrader, Thinkorswim, and NinjaTrader offer extensive tools for [backtesting](../b/backtesting.md) and strategy development.
+- **Trading Platforms:** Platforms like MetaTrader, [Thinkorswim](../t/thinkorswim.md), and [NinjaTrader](../n/ninjatrader.md) offer extensive tools for [backtesting](../b/backtesting.md) and strategy development.
 - **Data Analysis Libraries:** Libraries such as Pandas, NumPy, and SciPy in Python provide powerful data manipulation and analysis capabilities.
 - **Machine Learning Frameworks:** TensorFlow, scikit-learn, and PyTorch can be used to incorporate machine learning techniques into trading strategy analysis.
 

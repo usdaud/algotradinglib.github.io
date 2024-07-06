@@ -68,15 +68,15 @@ Incorporating dependent events into [trading strategies](../t/trading_strategies
 ### Tools and Platforms
 
 #### QuantConnect
-QuantConnect is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple asset classes and markets. It offers data access, [backtesting](../b/backtesting.md), and live trading capabilities. QuantConnect enables traders to develop and test algorithms using a wide range of statistical and machine learning tools to identify dependent events.
+[QuantConnect](../q/quantconnect.md) is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple asset classes and markets. It offers data access, [backtesting](../b/backtesting.md), and live trading capabilities. [QuantConnect](../q/quantconnect.md) enables traders to develop and test algorithms using a wide range of statistical and machine learning tools to identify dependent events.
 [QuantConnect](https://www.quantconnect.com/)
 
 #### Quantlib
-Quantlib is an open-source [quantitative finance](../q/quantitative_finance.md) library for modeling, trading, and [risk management](../r/risk_management.md). It provides tools for building algorithms that incorporate advanced statistical and econometric models, enabling the identification and utilization of dependent events.
+[Quantlib](../q/quantlib.md) is an open-source [quantitative finance](../q/quantitative_finance.md) library for modeling, trading, and [risk management](../r/risk_management.md). It provides tools for building algorithms that incorporate advanced statistical and econometric models, enabling the identification and utilization of dependent events.
 [Quantlib](http://quantlib.org/)
 
 #### Algorithmic Trading Platforms
-[Algorithmic trading](../a/algorithmic_trading.md) platforms such as MetaTrader, NinjaTrader, and TradeStation also offer features to integrate dependent event analysis into [trading strategies](../t/trading_strategies.md). These platforms provide various tools and plugins for statistical analysis, machine learning, and [historical data analysis](../h/historical_data_analysis.md), aiding in the identification of dependent events.
+[Algorithmic trading](../a/algorithmic_trading.md) platforms such as MetaTrader, [NinjaTrader](../n/ninjatrader.md), and [TradeStation](../t/tradestation.md) also offer features to integrate dependent event analysis into [trading strategies](../t/trading_strategies.md). These platforms provide various tools and plugins for statistical analysis, machine learning, and [historical data analysis](../h/historical_data_analysis.md), aiding in the identification of dependent events.
 
 ### Conclusion
 Dependent events are a crucial element in the world of [algorithmic trading](../a/algorithmic_trading.md). Understanding and leveraging these interdependencies can greatly enhance [trading strategies](../t/trading_strategies.md), [risk management](../r/risk_management.md), and predictive accuracy. By employing advanced statistical methods and machine learning techniques, traders can identify the relationships between various market factors and develop more sophisticated and profitable [trading algorithms](../t/trading_algorithms.md).

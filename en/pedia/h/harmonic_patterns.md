@@ -63,8 +63,8 @@ The Cypher Pattern, developed by Darren Oglesbee, employs slightly different Fib
 Advanced trading platforms and algorithms can automatically detect harmonic patterns using mathematical calculations and [pattern recognition](../p/pattern_recognition.md) algorithms. Popular platforms for implementing these algorithms include:
 
 - **MetaTrader 4/5**: A widely-used trading platform that supports custom indicators and automated [trading strategies](../t/trading_strategies.md) through Expert Advisors (EAs).
-- **NinjaTrader**: An easy-to-customize trading platform that allows for the implementation of advanced harmonic pattern detectors.
-- **TradingView**: Offers scriptable indicators via Pine Script, suitable for detecting harmonic patterns.
+- **[NinjaTrader](../n/ninjatrader.md)**: An easy-to-customize trading platform that allows for the implementation of advanced harmonic pattern detectors.
+- **[TradingView](../t/tradingview.md)**: Offers scriptable indicators via Pine Script, suitable for detecting harmonic patterns.
 
 ### Backtesting
 
@@ -92,7 +92,7 @@ Machine learning can further enhance harmonic pattern effectiveness in [algorith
 [Automated trading systems](../a/automated_trading_systems.md) must comply with regulatory guidelines established by financial authorities. Different regions have specific regulations when it comes to [algorithmic trading](../a/algorithmic_trading.md). For example:
 
 - **SEC (Securities and Exchange Commission)**: In the United States, the SEC provides guidelines for [algorithmic trading](../a/algorithmic_trading.md) to ensure market stability and transparency. Firms are required to regularly audit their [trading algorithms](../t/trading_algorithms.md) and maintain detailed logs.
-- **FINRA (Financial Industry Regulatory Authority)**: Provides supplementary regulation by monitoring adherence to best practices in [algorithmic trading](../a/algorithmic_trading.md).
+- **[FINRA](../f/finra.md) (Financial Industry Regulatory Authority)**: Provides supplementary regulation by monitoring adherence to best practices in [algorithmic trading](../a/algorithmic_trading.md).
 - **MiFID II (Markets in Financial Instruments Directive II)**: In Europe, MiFID II establishes rigorous transparency, [risk management](../r/risk_management.md), and monitoring standards for [algorithmic trading](../a/algorithmic_trading.md).
 
 ### Ethical Considerations

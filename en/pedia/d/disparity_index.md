@@ -63,7 +63,7 @@ Several trading platforms and institutions use the Disparity Index in their auto
 
 ### Bloomberg Terminal
 
-The Bloomberg Terminal provides functionalities for Disparity Index analysis, allowing traders to set custom alerts based on Disparity Index values. The Bloomberg Terminal is widely used in investment banking, asset management, and [wealth management](../w/wealth_management.md) industries.
+The [Bloomberg](../b/bloomberg.md) Terminal provides functionalities for Disparity Index analysis, allowing traders to set custom alerts based on Disparity Index values. The [Bloomberg](../b/bloomberg.md) Terminal is widely used in investment banking, asset management, and [wealth management](../w/wealth_management.md) industries.
 
 **Link**: [Bloomberg Professional Services](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
@@ -75,7 +75,7 @@ MetaTrader platforms offer built-in indicators for the Disparity Index. Traders 
 
 ### NinjaTrader
 
-NinjaTrader also supports the Disparity Index, allowing [backtesting](../b/backtesting.md) and deployment of custom strategies that include the Disparity Index as a key parameter.
+[NinjaTrader](../n/ninjatrader.md) also supports the Disparity Index, allowing [backtesting](../b/backtesting.md) and deployment of custom strategies that include the Disparity Index as a key parameter.
 
 **Link**: [NinjaTrader](https://ninjatrader.com)
 

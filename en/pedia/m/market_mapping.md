@@ -69,9 +69,9 @@ Machine Learning (ML) and Artificial Intelligence (AI) have revolutionized Marke
 
 Several platforms provide comprehensive data services for Market Mapping:
 
-- **Bloomberg**: Offers a vast range of market data, news, financial data, and analytics tools.
-- **Thomson Reuters Eikon**: Provides extensive data coverage, news, and analytical tools.
-- **Quandl**: Delivers [alternative data](../a/alternative_data.md) along with traditional financial and economic data.
+- **[Bloomberg](../b/bloomberg.md)**: Offers a vast range of market data, news, financial data, and analytics tools.
+- **Thomson [Reuters](../r/reuters.md) Eikon**: Provides extensive data coverage, news, and analytical tools.
+- **[Quandl](../q/quandl.md)**: Delivers [alternative data](../a/alternative_data.md) along with traditional financial and economic data.
 
 ### Analytical Software
 
@@ -86,8 +86,8 @@ Specialized software tools are essential for analyzing market data:
 Automated trading platforms integrate Market Mapping with execution:
 
 - **MetaTrader**: Popular platform for [algorithmic trading](../a/algorithmic_trading.md) in forex and futures.
-- **NinjaTrader**: Offers advanced charting, market analysis, and automated strategy development.
-- **QuantConnect**: Cloud-based platform for developing and testing [trading algorithms](../t/trading_algorithms.md).
+- **[NinjaTrader](../n/ninjatrader.md)**: Offers advanced charting, market analysis, and automated strategy development.
+- **[QuantConnect](../q/quantconnect.md)**: Cloud-based platform for developing and testing [trading algorithms](../t/trading_algorithms.md).
 
 ### Visualization Tools
 

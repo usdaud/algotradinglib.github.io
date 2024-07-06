@@ -66,16 +66,16 @@ Neural networks, particularly deep learning models, have shown significant promi
     - **TensorFlow/PyTorch:** Frameworks for building and training neural networks.
 
 2. **Trading Platforms:**
-    - **QuantConnect [https://www.quantconnect.com/](https://www.quantconnect.com/):** An [algorithmic trading](../a/algorithmic_trading.md) platform offering data, cloud computing, and [backtesting](../b/backtesting.md) capabilities.
-    - **AlgoTrader [https://www.algotrader.com/](https://www.algotrader.com/):** Professional software for automated [trading strategies](../t/trading_strategies.md) development and execution.
+    - **[QuantConnect](../q/quantconnect.md) [https://www.quantconnect.com/](https://www.quantconnect.com/):** An [algorithmic trading](../a/algorithmic_trading.md) platform offering data, cloud computing, and [backtesting](../b/backtesting.md) capabilities.
+    - **[AlgoTrader](../a/algotrader.md) [https://www.algotrader.com/](https://www.algotrader.com/):** Professional software for automated [trading strategies](../t/trading_strategies.md) development and execution.
     - **MetaTrader [https://www.metatrader4.com/en](https://www.metatrader4.com/en):** A widely-used electronic trading platform for financial markets.
 
 3. **Data Providers:**
-    - **Bloomberg [https://www.bloomberg.com/professional/solution/bloomberg-terminal/](https://www.bloomberg.com/professional/solution/bloomberg-terminal/):** Comprehensive financial, economic, and market data.
-    - **Thomson Reuters Eikon [https://www.refinitiv.com/en/products/eikon-trading-software](https://www.refinitiv.com/en/products/eikon-trading-software):** Provides a wide range of financial data and analytics.
+    - **[Bloomberg](../b/bloomberg.md) [https://www.bloomberg.com/professional/solution/bloomberg-terminal/](https://www.bloomberg.com/professional/solution/bloomberg-terminal/):** Comprehensive financial, economic, and market data.
+    - **Thomson [Reuters](../r/reuters.md) Eikon [https://www.refinitiv.com/en/products/eikon-trading-software](https://www.refinitiv.com/en/products/eikon-trading-software):** Provides a wide range of financial data and analytics.
 
 4. **[Backtesting](../b/backtesting.md) Frameworks:**
-    - **Backtrader [https://www.backtrader.com/](https://www.backtrader.com/):** A popular Python library for [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md).
+    - **[Backtrader](../b/backtrader.md) [https://www.backtrader.com/](https://www.backtrader.com/):** A popular Python library for [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md).
     - **Zipline [https://www.zipline.io/](https://www.zipline.io/):** Open-source [backtesting](../b/backtesting.md) system that powers Quantopian.
 
 ## Practical Example of Yield Forecast Analysis

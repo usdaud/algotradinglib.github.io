@@ -58,9 +58,9 @@ Cross-sectional momentum involves ranking assets relative to each other based on
 
 #### Data Collection and Processing
 
-Accurate data collection is foundational to any [algorithmic trading](../a/algorithmic_trading.md) strategy. Historical price data, volume, and other relevant metrics need to be fetched from reliable data sources. Providers like Yahoo Finance, Quandl, and Bloomberg offer such data.
+Accurate data collection is foundational to any [algorithmic trading](../a/algorithmic_trading.md) strategy. Historical price data, volume, and other relevant metrics need to be fetched from reliable data sources. Providers like Yahoo Finance, [Quandl](../q/quandl.md), and [Bloomberg](../b/bloomberg.md) offer such data.
 
-- Quandl API: [Visit Quandl](https://www.quandl.com/tools/api)
+- [Quandl](../q/quandl.md) API: [Visit Quandl](https://www.quandl.com/tools/api)
 
 #### Algorithm Design
 
@@ -76,7 +76,7 @@ Designing a positive momentum algorithm involves various steps:
 
 3. **[Backtesting](../b/backtesting.md):**
    - Apply historical data to the designed algorithm to see how well it would have performed. 
-   - Tools like Backtrader and QuantConnect can be very effective.
+   - Tools like [Backtrader](../b/backtrader.md) and [QuantConnect](../q/quantconnect.md) can be very effective.
 
 4. **Optimization:**
    - Adjust parameters to optimize returns while minimizing risks.
@@ -103,9 +103,9 @@ Renaissance Technologies is one of the leading hedge funds that reportedly lever
 
 #### Retail Traders Using Momentum Strategies
 
-Platforms like Quantopian (now QuantConnect) offer environments where individual traders can develop and test their own momentum-based strategies.
+Platforms like Quantopian (now [QuantConnect](../q/quantconnect.md)) offer environments where individual traders can develop and test their own momentum-based strategies.
 
-- QuantConnect: [Visit QuantConnect](https://www.quantconnect.com)
+- [QuantConnect](../q/quantconnect.md): [Visit QuantConnect](https://www.quantconnect.com)
 
 ### Challenges and Considerations
 

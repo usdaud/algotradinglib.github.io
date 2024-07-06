@@ -78,7 +78,7 @@ Increasing traders' awareness of common biases and their effects can help in mit
 
 ### Implementing Algorithmic Trading
 
-[Algorithmic trading](../a/algorithmic_trading.md) can reduce the impact of human biases by using predetermined criteria and systematic strategies. Companies like **QuantConnect** [QuantConnect](https://www.quantconnect.com/) offer platforms for developing and [backtesting](../b/backtesting.md) [algorithmic trading](../a/algorithmic_trading.md) strategies.
+[Algorithmic trading](../a/algorithmic_trading.md) can reduce the impact of human biases by using predetermined criteria and systematic strategies. Companies like **[QuantConnect](../q/quantconnect.md)** [QuantConnect](https://www.quantconnect.com/) offer platforms for developing and [backtesting](../b/backtesting.md) [algorithmic trading](../a/algorithmic_trading.md) strategies.
 
 ### Diversification of Perspectives
 

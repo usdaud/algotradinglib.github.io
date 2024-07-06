@@ -62,7 +62,7 @@ Several techniques help address uncertainty in [algorithmic trading](../a/algori
 
 1. **Two Sigma:** This quantitative hedge fund uses a combination of machine learning, big data analytics, and rigorous scientific methods to make data-driven trading decisions. More information can be found on their [website](https://www.twosigma.com/).
 
-2. **QuantConnect:** A platform that provides tools for building, testing, and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies. It leverages cloud computing and open data to facilitate decision-making under uncertainty. More details are available on their [site](https://www.quantconnect.com/).
+2. **[QuantConnect](../q/quantconnect.md):** A platform that provides tools for building, testing, and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies. It leverages cloud computing and open data to facilitate decision-making under uncertainty. More details are available on their [site](https://www.quantconnect.com/).
 
 3. **WorldQuant:** An asset management firm that employs a scientific approach to global investing. They use extensive [quantitative research](../q/quantitative_research.md) and advanced technology to navigate market uncertainties. Learn more at [WorldQuant's website](https://www.worldquant.com/).
 

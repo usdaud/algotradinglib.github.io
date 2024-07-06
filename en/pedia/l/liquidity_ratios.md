@@ -45,7 +45,7 @@ Liquidity ratios are financial metrics used to evaluate a company's ability to m
 ### Calculation and Integration in Algorithms
 
 #### Data Acquisition
-   [Algorithmic trading](../a/algorithmic_trading.md) systems require accurate and real-time financial data to calculate liquidity ratios. Sources include financial statements from company filings, data aggregators like Bloomberg and Reuters, and stock market databases.
+   [Algorithmic trading](../a/algorithmic_trading.md) systems require accurate and real-time financial data to calculate liquidity ratios. Sources include financial statements from company filings, data aggregators like [Bloomberg](../b/bloomberg.md) and [Reuters](../r/reuters.md), and stock market databases.
 
 #### Computational Implementation
    Below is a simplified Python code snippet that calculates liquidity ratios:
@@ -116,12 +116,12 @@ Liquidity ratios are financial metrics used to evaluate a company's ability to m
    Large-scale investors frequently incorporate liquidity ratios in their investment analyses, ensuring portfolio resilience against economic fluctuations. Institutional traders employ complex algorithms that continuously assess the financial health of portfolio holdings, making necessary adjustments based on liquidity assessments.
 
 #### Financial Technology Providers
-   Companies like QuantConnect ([QuantConnect](https://www.quantconnect.com/)) offer [algorithmic trading](../a/algorithmic_trading.md) platforms that enable users to create, backtest, and deploy [trading strategies](../t/trading_strategies.md). These platforms often include built-in functionalities for computing [financial ratios](../f/financial_ratios.md), allowing for seamless integration in [trading algorithms](../t/trading_algorithms.md).
+   Companies like [QuantConnect](../q/quantconnect.md) ([QuantConnect](https://www.quantconnect.com/)) offer [algorithmic trading](../a/algorithmic_trading.md) platforms that enable users to create, backtest, and deploy [trading strategies](../t/trading_strategies.md). These platforms often include built-in functionalities for computing [financial ratios](../f/financial_ratios.md), allowing for seamless integration in [trading algorithms](../t/trading_algorithms.md).
 
 #### Example Platforms:
-   - **QuantConnect:** A widely-used [algorithmic trading](../a/algorithmic_trading.md) platform that provides data libraries and [financial modeling](../f/financial_modeling.md) tools to implement and backtest strategies using liquidity ratios.
+   - **[QuantConnect](../q/quantconnect.md):** A widely-used [algorithmic trading](../a/algorithmic_trading.md) platform that provides data libraries and [financial modeling](../f/financial_modeling.md) tools to implement and backtest strategies using liquidity ratios.
    - **Kensho Technologies:** A fintech company offering analytical platforms that include financial ratio calculations within their AI-driven financial tools.
-   - **Bloomberg Terminal:** A premier financial platform offering real-time data, analytics, and algorithms incorporating liquidity metrics for advanced [trading strategies](../t/trading_strategies.md).
+   - **[Bloomberg](../b/bloomberg.md) Terminal:** A premier financial platform offering real-time data, analytics, and algorithms incorporating liquidity metrics for advanced [trading strategies](../t/trading_strategies.md).
 
 ### Conclusion
 

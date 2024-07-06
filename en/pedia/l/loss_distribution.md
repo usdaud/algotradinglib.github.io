@@ -48,7 +48,7 @@ To implement loss distribution analysis effectively within [algorithmic trading]
    - Depending largely on the nature of trading strategy and the market, selecting between normal distribution, heavy-tailed distributions (like the Cauchy or Student's t-distribution), or more complex models aligned with EVT principles.
 
 3. **Software Tools and Programming:**
-   - Popular programming languages and libraries include Python (using libraries such as NumPy, Pandas, and SciPy), R (with packages like quantmod and PerformanceAnalytics), and specialized trading platforms like QuantConnect and MetaTrader.
+   - Popular programming languages and libraries include Python (using libraries such as NumPy, Pandas, and SciPy), R (with packages like quantmod and PerformanceAnalytics), and specialized trading platforms like [QuantConnect](../q/quantconnect.md) and MetaTrader.
    - [QuantConnect](https://www.quantconnect.com/) allows for rigorous [backtesting](../b/backtesting.md) and deployment with tools necessary for detailed statistical analysis.
 
 4. **[Backtesting](../b/backtesting.md) and Simulation:**

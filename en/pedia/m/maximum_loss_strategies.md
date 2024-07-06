@@ -72,7 +72,7 @@ Professional algo trading platforms often come equipped with built-in [risk mana
 
 - **Interactive Brokers**: Their Trader Workstation (TWS) offers [risk management](../r/risk_management.md) tools such as [stop-loss orders](../s/stop-loss_orders.md), price alerts, and complex [trading algorithms](../t/trading_algorithms.md). Link: [Interactive Brokers Risk Management](https://www.interactivebrokers.com/en/index.php?f=13986)
 
-- **QuantConnect**: Provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform with integrated [risk management](../r/risk_management.md) strategies. Link: [QuantConnect Risk Management](https://www.quantconnect.com/docs/algorithm-reference/risk-management)
+- **[QuantConnect](../q/quantconnect.md)**: Provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform with integrated [risk management](../r/risk_management.md) strategies. Link: [QuantConnect Risk Management](https://www.quantconnect.com/docs/algorithm-reference/risk-management)
 
 ## Importance of Testing and Backtesting
 
@@ -83,9 +83,9 @@ Before deploying any maximum loss strategy, it is vital to run simulations to un
 [Backtesting](../b/backtesting.md) involves testing your strategy against historical data to evaluate its effectiveness. Algo trading platforms often provide tools to run backtests, giving a statistical overview of how your strategy would have performed in the past.
 
 ### Example of Backtesting
-Using Python’s `backtrader` library, one can perform a backtest as follows:
+Using Python’s `[backtrader](../b/backtrader.md)` library, one can perform a backtest as follows:
 ```python
-import backtrader as bt
+import [backtrader](../b/backtrader.md) as bt
 
 class MyStrategy(bt.Strategy):
     def __init__(self):

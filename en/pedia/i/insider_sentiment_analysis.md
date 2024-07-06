@@ -70,8 +70,8 @@ Several quantitative investment funds have effectively utilized insider sentimen
 Multiple tools and platforms support the integration of insider sentiment into [trading algorithms](../t/trading_algorithms.md):
 
 - **Python Libraries**: Libraries like `pandas`, `numpy`, and `sklearn` are fundamental for data processing and machine learning tasks related to insider sentiment.
-- **Data Providers**: Services such as Quandl, Insider Insights, and Institutional Brokers’ Estimate System (I/B/E/S) provide structured data on insider transactions.
-- **[Algorithmic Trading](../a/algorithmic_trading.md) Platforms**: Platforms like QuantConnect or Alpaca allow the development and deployment of [trading algorithms](../t/trading_algorithms.md) informed by insider sentiment.
+- **Data Providers**: Services such as [Quandl](../q/quandl.md), Insider Insights, and Institutional Brokers’ Estimate System (I/B/E/S) provide structured data on insider transactions.
+- **[Algorithmic Trading](../a/algorithmic_trading.md) Platforms**: Platforms like [QuantConnect](../q/quantconnect.md) or Alpaca allow the development and deployment of [trading algorithms](../t/trading_algorithms.md) informed by insider sentiment.
 
 ### Conclusion
 

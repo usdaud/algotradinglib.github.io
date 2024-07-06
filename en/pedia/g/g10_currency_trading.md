@@ -67,10 +67,10 @@ G10 currency trading refers to the [foreign exchange (forex) trading](../f/forei
 ### Technological Infrastructure
 
 1. **Trading Platforms**:
-   Many institutions and individual traders use platforms such as MetaTrader, cTrader, and proprietary platforms that support [algorithmic trading](../a/algorithmic_trading.md). These platforms offer APIs for creating and running [trading algorithms](../t/trading_algorithms.md).
+   Many institutions and individual traders use platforms such as MetaTrader, [cTrader](../c/ctrader.md), and proprietary platforms that support [algorithmic trading](../a/algorithmic_trading.md). These platforms offer APIs for creating and running [trading algorithms](../t/trading_algorithms.md).
 
 2. **Data Feeds**:
-   Real-time data feeds are crucial for algotrading. Companies like Bloomberg, Thomson Reuters, and smaller specialized firms provide comprehensive and [real-time market data](../r/real-time_market_data.md) essential for executing trades accurately.
+   Real-time data feeds are crucial for algotrading. Companies like [Bloomberg](../b/bloomberg.md), Thomson [Reuters](../r/reuters.md), and smaller specialized firms provide comprehensive and [real-time market data](../r/real-time_market_data.md) essential for executing trades accurately.
 
 3. **[Execution Algorithms](../e/execution_algorithms.md)**:
    - **Smart [Order Routing](../o/order_routing.md)**: Ensures optimal order execution by directing trades to the exchanges or venues with the best prices.

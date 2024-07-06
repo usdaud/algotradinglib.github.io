@@ -84,12 +84,12 @@ However, it is essential to consider this indicator in conjunction with other [t
 
 Several tools and platforms provide traders with access to RSI indicators and [technical analysis](../t/technical_analysis.md):
 
-- **TradingView**: An online platform offering advanced charting tools, including the RSI. Traders can create custom scripts and alerts based on RSI signals. [TradingView](https://www.tradingview.com/)
+- **[TradingView](../t/tradingview.md)**: An online platform offering advanced charting tools, including the RSI. Traders can create custom scripts and alerts based on RSI signals. [TradingView](https://www.tradingview.com/)
 
 - **MetaTrader 4 and 5**: Popular trading platforms that support a wide range of [technical indicators](../t/technical_indicators.md), including the RSI, suitable for [algorithmic trading](../a/algorithmic_trading.md). [MetaTrader](https://www.metatrader4.com/)
 
-- **Thinkorswim by TD Ameritrade**: A comprehensive trading platform with advanced charting capabilities and [technical analysis](../t/technical_analysis.md) tools. [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
+- **[Thinkorswim](../t/thinkorswim.md) by TD Ameritrade**: A comprehensive trading platform with advanced charting capabilities and [technical analysis](../t/technical_analysis.md) tools. [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
 
-- **NinjaTrader**: A trading platform offering advanced charting, market analysis, and [algorithmic trading](../a/algorithmic_trading.md) capabilities. [NinjaTrader](https://ninjatrader.com/)
+- **[NinjaTrader](../n/ninjatrader.md)**: A trading platform offering advanced charting, market analysis, and [algorithmic trading](../a/algorithmic_trading.md) capabilities. [NinjaTrader](https://ninjatrader.com/)
 
 By integrating the 5-Day RSI into their [trading strategies](../t/trading_strategies.md), traders and algorithmic systems can enhance their ability to identify [short-term trading](../s/short-term_trading.md) opportunities and improve overall [trading performance](../t/trading_performance.md).

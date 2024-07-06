@@ -89,16 +89,16 @@ Several tools and platforms provide the necessary infrastructure for implementin
 1. **MetaTrader (MT4/MT5)**: Offers advanced charting tools and automated trading capabilities.
    - [MetaTrader](https://www.metatrader5.com/en)
 
-2. **NinjaTrader**: Provides extensive [backtesting](../b/backtesting.md) features and real-time trade execution.
+2. **[NinjaTrader](../n/ninjatrader.md)**: Provides extensive [backtesting](../b/backtesting.md) features and real-time trade execution.
    - [NinjaTrader](https://ninjatrader.com/)
 
-3. **QuantConnect**: [Algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple programming languages and extensive data libraries.
+3. **[QuantConnect](../q/quantconnect.md)**: [Algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple programming languages and extensive data libraries.
    - [QuantConnect](https://www.quantconnect.com/)
 
-4. **TradingView**: Offers powerful charting tools and a social network for traders to share ideas.
+4. **[TradingView](../t/tradingview.md)**: Offers powerful charting tools and a social network for traders to share ideas.
    - [TradingView](https://www.tradingview.com/)
 
-5. **AlgoTrader**: A comprehensive [algorithmic trading](../a/algorithmic_trading.md) software catering to both traditional and crypto markets.
+5. **[AlgoTrader](../a/algotrader.md)**: A comprehensive [algorithmic trading](../a/algorithmic_trading.md) software catering to both traditional and crypto markets.
    - [AlgoTrader](https://www.algotrader.com/)
 
 ## Case Study: Successful Trend Reversal Strategy

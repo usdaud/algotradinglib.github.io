@@ -52,9 +52,9 @@ Quantitative Performance Measurement (QPM) is a systematic approach to assessing
 
 ### Tools and Platforms
 
-1. **QuantConnect**: [QuantConnect](https://www.quantconnect.com) provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to backtest, optimize, and execute [trading strategies](../t/trading_strategies.md) across various asset classes.
-2. **Quantlib**: Quantlib is an open-source library for [quantitative finance](../q/quantitative_finance.md). It includes tools for pricing financial instruments, managing risk, and performing various [quantitative finance](../q/quantitative_finance.md) calculations.
-3. **TradeStation**: [TradeStation](https://www.tradestation.com) offers a professional trading platform for [backtesting](../b/backtesting.md) and automated trading, equipped with robust tools for analysis and algorithm development.
+1. **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](https://www.quantconnect.com) provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to backtest, optimize, and execute [trading strategies](../t/trading_strategies.md) across various asset classes.
+2. **[Quantlib](../q/quantlib.md)**: [Quantlib](../q/quantlib.md) is an open-source library for [quantitative finance](../q/quantitative_finance.md). It includes tools for pricing financial instruments, managing risk, and performing various [quantitative finance](../q/quantitative_finance.md) calculations.
+3. **[TradeStation](../t/tradestation.md)**: [TradeStation](https://www.tradestation.com) offers a professional trading platform for [backtesting](../b/backtesting.md) and automated trading, equipped with robust tools for analysis and algorithm development.
 
 ### Best Practices
 

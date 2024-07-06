@@ -50,9 +50,9 @@ Many top financial information and analytics companies provide specific data and
 
 - **S&P Capital IQ:** Offers detailed financial analysis tools that provide normalized earnings data. https://www.spglobal.com/marketintelligence/en
 
-- **Bloomberg Terminal:** Provides comprehensive normalized earnings figures and tools to analyze the financial health of companies. https://www.bloomberg.com/professional/solution/bloomberg-terminal/
+- **[Bloomberg](../b/bloomberg.md) Terminal:** Provides comprehensive normalized earnings figures and tools to analyze the financial health of companies. https://www.[bloomberg](../b/bloomberg.md).com/professional/solution/[bloomberg](../b/bloomberg.md)-terminal/
 
-- **Morningstar:** Includes normalized earnings in its [equity research](../e/equity_research.md) and analysis platform to help investors. https://www.morningstar.com/
+- **[Morningstar](../m/morningstar.md):** Includes normalized earnings in its [equity research](../e/equity_research.md) and analysis platform to help investors. https://www.[morningstar](../m/morningstar.md).com/
 
 ### Limitations and Considerations
 

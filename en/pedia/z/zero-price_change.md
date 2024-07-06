@@ -74,7 +74,7 @@ High-frequency trading (HFT) firms often deploy strategies that depend on rapid 
 - [Two Sigma](https://www.twosigma.com)
 
 ### Retail Algorithmic Trading Platforms
-Platforms like QuantConnect and [Algorithmic Trading](../a/algorithmic_trading.md) Group provide retail traders with the tools to develop and backtest algorithms, including those that exploit zero-price change. These platforms offer historical data, powerful APIs, and community resources to help traders implement and refine their strategies.
+Platforms like [QuantConnect](../q/quantconnect.md) and [Algorithmic Trading](../a/algorithmic_trading.md) Group provide retail traders with the tools to develop and backtest algorithms, including those that exploit zero-price change. These platforms offer historical data, powerful APIs, and community resources to help traders implement and refine their strategies.
 - [QuantConnect](https://www.quantconnect.com)
 - [Algorithmic Trading Group](https://www.algorithmictradinggroup.com)
 

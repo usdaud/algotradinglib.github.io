@@ -87,14 +87,14 @@ Using options, futures, or other derivative instruments to offset potential loss
 
 ### Algorithmic Trading Platforms
 - **MetaTrader 4/5**: [MetaTrader](https://www.metatrader4.com)
-- **NinjaTrader**: [NinjaTrader](https://ninjatrader.com)
+- **[NinjaTrader](../n/ninjatrader.md)**: [NinjaTrader](https://ninjatrader.com)
 
 ### Educational Resources
 - **Investopedia**: Detailed articles and tutorials on Martingale trading.
 - **BabyPips**: Forex-focused education covering Martingale strategies.
 
 ### Quantitative Research Tools
-- **QuantConnect**: [QuantConnect](https://www.quantconnect.com)
-- **AlgoTrader**: [AlgoTrader](https://www.algotrader.com)
+- **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](https://www.quantconnect.com)
+- **[AlgoTrader](../a/algotrader.md)**: [AlgoTrader](https://www.algotrader.com)
 
 In sum, while Martingale [trading systems](../t/trading_systems.md) can offer a structured approach to recovering losses and achieving profitability, they carry significant risks and require careful capital management and risk mitigation strategies to avoid catastrophic losses. Traders should thoroughly understand the underlying principles, perform rigorous [backtesting](../b/backtesting.md), and consider combining with other [risk management](../r/risk_management.md) techniques to enhance the viability and safety of this strategy in real-world financial markets.

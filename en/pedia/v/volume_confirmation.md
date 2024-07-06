@@ -66,11 +66,11 @@ Before deploying volume-based algorithms in live trading, rigorous [backtesting]
 
 Several trading platforms and tools offer support for implementing volume confirmation in [algorithmic trading](../a/algorithmic_trading.md):
 
-- **QuantConnect**: An open-source platform that offers extensive data, including volume, for [backtesting](../b/backtesting.md) and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies. [QuantConnect](https://www.quantconnect.com)
+- **[QuantConnect](../q/quantconnect.md)**: An open-source platform that offers extensive data, including volume, for [backtesting](../b/backtesting.md) and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies. [QuantConnect](https://www.quantconnect.com)
   
-- **Bloomberg Terminal**: Provides comprehensive financial data and analytics, including volume metrics, which can be used for real-time and historical analysis. [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal)
+- **[Bloomberg](../b/bloomberg.md) Terminal**: Provides comprehensive financial data and analytics, including volume metrics, which can be used for real-time and historical analysis. [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal)
   
-- **TradingView**: A popular charting platform that supports [volume analysis](../v/volume_analysis.md) and can be used to develop and test volume-based [trading strategies](../t/trading_strategies.md). [TradingView](https://www.tradingview.com)
+- **[TradingView](../t/tradingview.md)**: A popular charting platform that supports [volume analysis](../v/volume_analysis.md) and can be used to develop and test volume-based [trading strategies](../t/trading_strategies.md). [TradingView](https://www.tradingview.com)
 
 ## Conclusion
 

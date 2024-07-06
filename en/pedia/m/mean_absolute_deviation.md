@@ -124,10 +124,10 @@ Multiple software tools and platforms offer functionalities to compute and analy
 - **MetaTrader**: A widely-used platform in forex and stock trading that supports custom scripting and analytics.
   [MetaTrader](https://www.metatrader4.com/en)
 
-- **QuantConnect**: An open, cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that provides a variety of statistical tools.
+- **[QuantConnect](../q/quantconnect.md)**: An open, cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that provides a variety of statistical tools.
   [QuantConnect](https://www.quantconnect.com/)
 
-- **MultiCharts**: An advanced trading platform with extensive analytical capabilities.
+- **[MultiCharts](../m/multicharts.md)**: An advanced trading platform with extensive analytical capabilities.
   [MultiCharts](https://www.multicharts.com/)
 
 - **MATLAB**: A high-level language and interactive environment for numerical computation, visualization, and programming.

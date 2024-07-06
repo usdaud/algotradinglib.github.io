@@ -66,8 +66,8 @@ Several tools and libraries facilitate the implementation of Random Forests in t
 
 - **Scikit-learn**: A popular Python library for machine learning that offers an easy-to-use implementation of Random Forests. (https://scikit-learn.org/)
 - **XGBoost**: An optimized gradient boosting library that can be used for implementing Random Forests with high efficiency and speed. (https://xgboost.readthedocs.io/)
-- **QuantConnect**: A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports Random Forests and other machine learning models. (https://www.quantconnect.com/)
-- **QuantLib**: An open-source library for [quantitative finance](../q/quantitative_finance.md) that can be used in conjunction with Random Forest models for complex [trading strategies](../t/trading_strategies.md). (https://www.quantlib.org/)
+- **[QuantConnect](../q/quantconnect.md)**: A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports Random Forests and other machine learning models. (https://www.[quantconnect](../q/quantconnect.md).com/)
+- **[QuantLib](../q/quantlib.md)**: An open-source library for [quantitative finance](../q/quantitative_finance.md) that can be used in conjunction with Random Forest models for complex [trading strategies](../t/trading_strategies.md). (https://www.[quantlib](../q/quantlib.md).org/)
 
 ## Conclusion
 

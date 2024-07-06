@@ -64,7 +64,7 @@ While focusing on undervalued stocks can provide substantial returns, it also ca
 
 Several fintech companies specialize in providing [algorithmic trading](../a/algorithmic_trading.md) platforms, enabling investors to automate value-based [trading strategies](../t/trading_strategies.md). 
 
-1. **QuantConnect**: Provides a comprehensive platform for [algorithmic trading](../a/algorithmic_trading.md) and [quantitative research](../q/quantitative_research.md). [QuantConnect](https://www.quantconnect.com/)
+1. **[QuantConnect](../q/quantconnect.md)**: Provides a comprehensive platform for [algorithmic trading](../a/algorithmic_trading.md) and [quantitative research](../q/quantitative_research.md). [QuantConnect](https://www.quantconnect.com/)
 
 2. **Alpaca**: An API for stock trading that supports algorithmic strategies, including [value investing](../v/value_investing.md). [Alpaca](https://alpaca.markets/)
 

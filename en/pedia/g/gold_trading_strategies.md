@@ -66,7 +66,7 @@ Gold has been a valuable asset for thousands of years, serving not only as a sto
 
 ### Leading Analysts
 
-- **Bloomberg Intelligence**: [Bloomberg](https://www.bloomberg.com/) provides in-depth [fundamental analysis](../f/fundamental_analysis.md) and market forecasts for gold.
+- **[Bloomberg](../b/bloomberg.md) Intelligence**: [Bloomberg](https://www.bloomberg.com/) provides in-depth [fundamental analysis](../f/fundamental_analysis.md) and market forecasts for gold.
 
 ## Options Trading
 

@@ -74,7 +74,7 @@ In financial markets, over-trading refers to the excessive buying and selling of
 ## Tools and Technologies to Monitor Over-Trading
 
 1. **Algo-Execution Platforms:**
-   - **Bloomberg Terminal:** Offers tools for monitoring trading activity, analyzing market movements, and executing trades with algorithms designed to limit over-trading risks. [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+   - **[Bloomberg](../b/bloomberg.md) Terminal:** Offers tools for monitoring trading activity, analyzing market movements, and executing trades with algorithms designed to limit over-trading risks. [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
 2. **[Risk Management](../r/risk_management.md) Software:**
    - **Numerix:** Provides advanced risk analytics software that helps traders and financial institutions manage trading risks, including those associated with over-trading. [Numerix](https://www.numerix.com/)

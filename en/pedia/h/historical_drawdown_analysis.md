@@ -105,7 +105,7 @@ Machine learning algorithms can analyze patterns in historical data to predict p
 Several platforms and tools offer capabilities for historical [drawdown analysis](../d/drawdown_analysis.md):
 
 - **MetaTrader**: A popular trading platform that includes built-in tools for [equity curve analysis](../e/equity_curve_analysis.md) and drawdown calculations.
-- **QuantConnect**: An [algorithmic trading](../a/algorithmic_trading.md) platform providing robust capabilities for [backtesting](../b/backtesting.md) and analyzing historical drawdowns. [Website](https://www.quantconnect.com)
+- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform providing robust capabilities for [backtesting](../b/backtesting.md) and analyzing historical drawdowns. [Website](https://www.quantconnect.com)
 - **Python Libraries**: Libraries like Pandas and NumPy can be used to programmatically calculate and visualize drawdowns.
 
 ### Example in Python:

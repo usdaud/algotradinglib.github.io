@@ -108,7 +108,7 @@ MATLAB is a powerful tool for numerical computing and is often used for developi
 
 #### Financial Software
 
-Financial software platforms, such as Bloomberg, Reuters Eikon, and QuantConnect, offer tools and data for [yield volatility](../y/yield_volatility.md) modeling. These platforms provide real-time data, analytics, and execution capabilities, which are essential for [algorithmic trading](../a/algorithmic_trading.md).
+Financial software platforms, such as [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md) Eikon, and [QuantConnect](../q/quantconnect.md), offer tools and data for [yield volatility](../y/yield_volatility.md) modeling. These platforms provide real-time data, analytics, and execution capabilities, which are essential for [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Case Studies and Practical Considerations
 

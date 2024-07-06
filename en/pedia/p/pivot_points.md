@@ -50,8 +50,8 @@ Machine learning and AI are revolutionizing the use of pivot points in trading. 
 Many leading brokerage platforms and software solutions offer tools to automate pivot point calculations and integrate them into [trading algorithms](../t/trading_algorithms.md). Some of these platforms include:
 
 - **Metatrader 4 and 5 (MT4/MT5)**: Popular platforms among retail traders, providing pivot point indicators and automation capabilities through Expert Advisors (EAs).
-- **TradingView**: Offers powerful charting tools and the ability to script custom pivot point indicators using Pine Script.
-- **NinjaTrader**: Provides advanced [algorithmic trading](../a/algorithmic_trading.md) functionalities and pivot point tools for [backtesting](../b/backtesting.md) and live trading.
+- **[TradingView](../t/tradingview.md)**: Offers powerful charting tools and the ability to script custom pivot point indicators using Pine Script.
+- **[NinjaTrader](../n/ninjatrader.md)**: Provides advanced [algorithmic trading](../a/algorithmic_trading.md) functionalities and pivot point tools for [backtesting](../b/backtesting.md) and live trading.
 
 ## Risk Management and Limitations
 

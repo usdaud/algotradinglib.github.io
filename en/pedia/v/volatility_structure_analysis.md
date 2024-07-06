@@ -58,7 +58,7 @@ Numerous tools and software are available to perform [volatility structure](../v
 
 ### QuantLib
 
-QuantLib is an open-source library for [quantitative finance](../q/quantitative_finance.md), offering tools for modeling, trading, and [risk management](../r/risk_management.md) in real-life. It provides comprehensive support for volatility modeling.
+[QuantLib](../q/quantlib.md) is an open-source library for [quantitative finance](../q/quantitative_finance.md), offering tools for modeling, trading, and [risk management](../r/risk_management.md) in real-life. It provides comprehensive support for volatility modeling.
 
 [QuantLib - Github](https://github.com/lballabio/QuantLib)
 
@@ -80,7 +80,7 @@ Python libraries such as NumPy, SciPy, and pandas offer extensive capabilities f
 
 ### Bloomberg Terminal
 
-The Bloomberg Terminal provides real-time financial data, analytics, and trading tools. It includes advanced functions for [volatility analysis](../v/volatility_analysis.md) and modeling.
+The [Bloomberg](../b/bloomberg.md) Terminal provides real-time financial data, analytics, and trading tools. It includes advanced functions for [volatility analysis](../v/volatility_analysis.md) and modeling.
 
 [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 

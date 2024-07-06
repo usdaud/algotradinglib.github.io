@@ -70,9 +70,9 @@ Several specialized trading platforms and software provide built-in tools for X-
 #### Examples
 - **MetaTrader**: A popular trading platform that offers various charting tools, including candlestick and OHLC charts.
     - [MetaTrader](https://www.metatrader4.com/)
-- **TradingView**: A web-based trading and charting platform offering extensive charting tools and community-sourced trading ideas.
+- **[TradingView](../t/tradingview.md)**: A web-based trading and charting platform offering extensive charting tools and community-sourced trading ideas.
     - [TradingView](https://www.tradingview.com/)
-- **QuantConnect**: An [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools for [backtesting](../b/backtesting.md) and [data visualization](../d/data_visualization.md).
+- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools for [backtesting](../b/backtesting.md) and [data visualization](../d/data_visualization.md).
     - [QuantConnect](https://www.quantconnect.com/)
 
 ## Application in Algorithmic Trading

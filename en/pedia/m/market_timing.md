@@ -83,7 +83,7 @@ A web-based platform that excels in offering advanced charting tools, [social tr
 Eikon provides a robust set of tools and data for financial professionals, including news, market research, and charting capabilities.
 
 ### 6. **Sentiment Analysis Tools**
-Platforms like MarketPsych and RavenPack offer tools to analyze news sentiment and social media to gauge market sentiment.
+Platforms like MarketPsych and [RavenPack](../r/ravenpack.md) offer tools to analyze news sentiment and social media to gauge market sentiment.
 
 ## Real-World Examples and Case Studies
 

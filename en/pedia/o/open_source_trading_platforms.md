@@ -16,7 +16,7 @@ Open-source trading platforms represent a significant part of the financial tech
 
 ## 2. QuantLib
 
-**QuantLib** is a well-established open-source library for [quantitative finance](../q/quantitative_finance.md). While not a trading platform per se, QuantLib offers crucial tools and modules that can be integrated into trading platforms to enhance their analytical capabilities.
+**[QuantLib](../q/quantlib.md)** is a well-established open-source library for [quantitative finance](../q/quantitative_finance.md). While not a trading platform per se, [QuantLib](../q/quantlib.md) offers crucial tools and modules that can be integrated into trading platforms to enhance their analytical capabilities.
 
 ### Key Features
 - **Financial Instruments**: Extensive support for a wide range of financial products including bonds, options, and swaps.
@@ -52,7 +52,7 @@ Open-source trading platforms represent a significant part of the financial tech
 
 ## 5. Backtrader
 
-**Backtrader** is a popular open-source trading and [backtesting](../b/backtesting.md) platform that boasts an extensive range of features.
+**[Backtrader](../b/backtrader.md)** is a popular open-source trading and [backtesting](../b/backtesting.md) platform that boasts an extensive range of features.
 
 ### Key Features
 - **Extensive [Portfolio Management](../p/portfolio_management.md)**: Manages multiple strategies and portfolios concurrently.
@@ -76,7 +76,7 @@ Open-source trading platforms represent a significant part of the financial tech
 
 ## 7. AlgoTrader
 
-**AlgoTrader** is a comprehensive [algorithmic trading](../a/algorithmic_trading.md) solution that supports [backtesting](../b/backtesting.md), live trading, and multiple asset classes.
+**[AlgoTrader](../a/algotrader.md)** is a comprehensive [algorithmic trading](../a/algorithmic_trading.md) solution that supports [backtesting](../b/backtesting.md), live trading, and multiple asset classes.
 
 ### Key Features
 - **Asset Class Compatibility**: Supports equities, futures, options, and Forex.

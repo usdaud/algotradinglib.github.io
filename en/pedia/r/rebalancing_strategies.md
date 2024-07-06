@@ -98,8 +98,8 @@ High-level technology and infrastructure are required to implement rebalancing s
 Several platforms offer tools and services for implementing rebalancing strategies. Some notable ones include:
 
 - **Interactive Brokers**: A popular choice for individual traders and institutional clients due to its extensive API and low transaction costs. [Interactive Brokers](https://www.interactivebrokers.com/)
-- **QuantConnect**: Provides a cloud-based platform for developing and [backtesting](../b/backtesting.md) [trading algorithms](../t/trading_algorithms.md). [QuantConnect](https://www.quantconnect.com/)
-- **AlgoTrader**: Enterprise-grade [algorithmic trading](../a/algorithmic_trading.md) software that supports multi-asset strategies. [AlgoTrader](https://www.algotrader.com/)
+- **[QuantConnect](../q/quantconnect.md)**: Provides a cloud-based platform for developing and [backtesting](../b/backtesting.md) [trading algorithms](../t/trading_algorithms.md). [QuantConnect](https://www.quantconnect.com/)
+- **[AlgoTrader](../a/algotrader.md)**: Enterprise-grade [algorithmic trading](../a/algorithmic_trading.md) software that supports multi-asset strategies. [AlgoTrader](https://www.algotrader.com/)
 
 ## Conclusion
 

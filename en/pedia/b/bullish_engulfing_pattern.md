@@ -57,8 +57,8 @@ Traders can incorporate the bullish engulfing pattern into [automated trading sy
 ### Example of Automated Systems
 Several companies provide platforms and tools for automated trading. Some popular ones include:
 1. **MetaTrader 4/5** - These platforms offer advanced charting tools and the ability to write custom [trading algorithms](../t/trading_algorithms.md) using the MQL language. [MetaTrader](https://www.metatrader4.com)
-2. **TradeStation** - Known for its robust trading tools and flexible scripting language (EasyLanguage), which allows traders to develop and test custom strategies. [TradeStation](https://www.tradestation.com)
-3. **NinjaTrader** - Offers a comprehensive trading platform with tools for developing automated strategies. [NinjaTrader](https://www.ninjatrader.com)
+2. **[TradeStation](../t/tradestation.md)** - Known for its robust trading tools and flexible scripting language (EasyLanguage), which allows traders to develop and test custom strategies. [TradeStation](https://www.tradestation.com)
+3. **[NinjaTrader](../n/ninjatrader.md)** - Offers a comprehensive trading platform with tools for developing automated strategies. [NinjaTrader](https://www.ninjatrader.com)
 
 ## Limitations and Risks
 While the bullish engulfing pattern can be a powerful tool, traders should be aware of its limitations and associated risks:

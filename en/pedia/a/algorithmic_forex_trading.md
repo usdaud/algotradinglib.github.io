@@ -80,7 +80,7 @@ Interactive Brokers offers a range of tools for [algorithmic trading](../a/algor
 
 ### QuantConnect
 
-QuantConnect is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple programming languages, including C#, Python, and F#. It allows traders to backtest and deploy their [trading algorithms](../t/trading_algorithms.md).
+[QuantConnect](../q/quantconnect.md) is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple programming languages, including C#, Python, and F#. It allows traders to backtest and deploy their [trading algorithms](../t/trading_algorithms.md).
 
 - [QuantConnect](https://www.quantconnect.com/)
 

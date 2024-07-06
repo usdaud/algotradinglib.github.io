@@ -90,9 +90,9 @@ Several companies and platforms are at the forefront of providing algorithmic ex
 
 - **Virtu Financial [Virtu](https://www.virtu.com/):** A leading provider of financial services and products, including [algorithmic trading](../a/algorithmic_trading.md) solutions.
 - **ITG (Investment Technology Group) [ITG](https://www.itg.com/):** Offers a wide range of trading and execution solutions, backed by advanced technology and research.
-- **Bloomberg Tradebook [Bloomberg](https://www.bloomberg.com/professional/tradebook/):** Provides comprehensive trading solutions including algorithmic execution for equities, futures, and options.
-- **QuantConnect [QuantConnect](https://www.quantconnect.com/):** An [algorithmic trading](../a/algorithmic_trading.md) platform that offers infrastructure and tools for developing and deploying [trading algorithms](../t/trading_algorithms.md).
-- **AlgoTrader [AlgoTrader](https://www.algotrader.com/):** A professional [algorithmic trading](../a/algorithmic_trading.md) software that supports [multi-asset class strategies](../m/multi-asset_class_strategies.md) and execution.
+- **[Bloomberg](../b/bloomberg.md) Tradebook [Bloomberg](https://www.bloomberg.com/professional/tradebook/):** Provides comprehensive trading solutions including algorithmic execution for equities, futures, and options.
+- **[QuantConnect](../q/quantconnect.md) [QuantConnect](https://www.quantconnect.com/):** An [algorithmic trading](../a/algorithmic_trading.md) platform that offers infrastructure and tools for developing and deploying [trading algorithms](../t/trading_algorithms.md).
+- **[AlgoTrader](../a/algotrader.md) [AlgoTrader](https://www.algotrader.com/):** A professional [algorithmic trading](../a/algorithmic_trading.md) software that supports [multi-asset class strategies](../m/multi-asset_class_strategies.md) and execution.
 
 ### Conclusion
 

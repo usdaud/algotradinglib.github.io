@@ -78,7 +78,7 @@ This strategy bets that the opening price gap will reverse direction. If a stock
 
 ### News-Based Trades
 
-Traders monitor news sources such as Bloomberg (https://www.bloomberg.com) for after-hours events like mergers, acquisitions, or earnings releases, which could trigger significant overnight price movement.
+Traders monitor news sources such as [Bloomberg](../b/bloomberg.md) (https://www.[bloomberg](../b/bloomberg.md).com) for after-hours events like mergers, acquisitions, or earnings releases, which could trigger significant overnight price movement.
 
 ## Case Studies
 

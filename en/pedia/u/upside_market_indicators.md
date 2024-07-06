@@ -76,7 +76,7 @@ When the price crosses above the SAR, a buy signal is generated indicating the s
 #### Algotrading Implementation
 
 **Data Source:**
-Real-time and historical data from financial data providers like Bloomberg or Reuters.
+Real-time and historical data from financial data providers like [Bloomberg](../b/bloomberg.md) or [Reuters](../r/reuters.md).
 
 **[Backtesting](../b/backtesting.md):**
 Using platforms such as MetaTrader or custom-built Python scripts to simulate [trading strategies](../t/trading_strategies.md) based on historical data.

@@ -34,7 +34,7 @@ Example:
 
 ### Examples of Algorithmic Trading Firms Using 3-Year Average Return Metrics
 
-1. **QuantConnect** (https://www.quantconnect.com): QuantConnect offers a platform for designing and testing [algorithmic trading](../a/algorithmic_trading.md) strategies. The 3-year average return is one of the [performance metrics](../p/performance_metrics.md) available for evaluating strategies in their [backtesting](../b/backtesting.md) environment.
+1. **[QuantConnect](../q/quantconnect.md)** (https://www.[quantconnect](../q/quantconnect.md).com): [QuantConnect](../q/quantconnect.md) offers a platform for designing and testing [algorithmic trading](../a/algorithmic_trading.md) strategies. The 3-year average return is one of the [performance metrics](../p/performance_metrics.md) available for evaluating strategies in their [backtesting](../b/backtesting.md) environment.
 
 2. **Two Sigma** (https://www.twosigma.com): Two Sigma is a technology-driven quantitative investment firm that employs [algorithmic trading](../a/algorithmic_trading.md) strategies. The firm focuses on using data science and machine learning to generate sustained returns, often measured over multi-year periods including the 3-year average return.
 

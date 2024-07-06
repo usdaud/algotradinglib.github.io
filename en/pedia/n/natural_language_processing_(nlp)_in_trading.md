@@ -88,7 +88,7 @@ Several trading platforms and financial institutions have integrated NLP into th
 
 #### Bloomberg Terminal
 
-The Bloomberg Terminal is a renowned financial data and trading platform that uses NLP to provide real-time news analysis, sentiment scores, and key financial metrics. [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+The [Bloomberg](../b/bloomberg.md) Terminal is a renowned financial data and trading platform that uses NLP to provide real-time news analysis, sentiment scores, and key financial metrics. [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
 #### Kensho Technologies
 
@@ -100,7 +100,7 @@ AlphaSense is a market intelligence platform that leverages NLP to analyze a wid
 
 #### RavenPack
 
-RavenPack uses NLP to convert unstructured data into structured formats, helping financial professionals gain insights from news, social media, and other textual sources. Their analytics facilitate better [trading strategies](../t/trading_strategies.md) and [risk management](../r/risk_management.md). [RavenPack](https://www.ravenpack.com/)
+[RavenPack](../r/ravenpack.md) uses NLP to convert unstructured data into structured formats, helping financial professionals gain insights from news, social media, and other textual sources. Their analytics facilitate better [trading strategies](../t/trading_strategies.md) and [risk management](../r/risk_management.md). [RavenPack](https://www.ravenpack.com/)
 
 ### Conclusion
 

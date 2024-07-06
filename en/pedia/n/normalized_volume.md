@@ -55,9 +55,9 @@ Normalized volume is pivotal for several reasons:
 
 Several tools and software platforms offer functionality for calculating and integrating normalized volume into [trading strategies](../t/trading_strategies.md):
 
-- **MetaTrader** (https://www.metatrader4.com/): Popular among forex traders, it provides custom indicators for normalized volume.
-- **TradingView** (https://www.tradingview.com/): Widely used for its comprehensive charting tools and scripts for calculating normalized volume.
-- **NinjaTrader** (https://ninjatrader.com/): Offers extensive capabilities for [algorithmic trading](../a/algorithmic_trading.md), including normalization of volume data.
+- **MetaTrader** (https://www.[metatrader4](../m/metatrader4.md).com/): Popular among forex traders, it provides custom indicators for normalized volume.
+- **[TradingView](../t/tradingview.md)** (https://www.[tradingview](../t/tradingview.md).com/): Widely used for its comprehensive charting tools and scripts for calculating normalized volume.
+- **[NinjaTrader](../n/ninjatrader.md)** (https://[ninjatrader](../n/ninjatrader.md).com/): Offers extensive capabilities for [algorithmic trading](../a/algorithmic_trading.md), including normalization of volume data.
 
 ## Case Studies and Real-World Application
 

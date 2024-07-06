@@ -94,11 +94,11 @@ MetaTrader 5 provides a robust [algorithmic trading](../a/algorithmic_trading.md
 
 ### TradeStation
 
-TradeStation offers advanced charting tools and a proprietary EasyLanguage for [algorithmic trading](../a/algorithmic_trading.md). [TradeStation Official Website](https://www.tradestation.com/)
+[TradeStation](../t/tradestation.md) offers advanced charting tools and a proprietary EasyLanguage for [algorithmic trading](../a/algorithmic_trading.md). [TradeStation Official Website](https://www.tradestation.com/)
 
 ### QuantConnect
 
-QuantConnect is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple programming languages, including Python and C#. It allows traders to backtest and live trade strategies. [QuantConnect Official Website](https://www.quantconnect.com/)
+[QuantConnect](../q/quantconnect.md) is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple programming languages, including Python and C#. It allows traders to backtest and live trade strategies. [QuantConnect Official Website](https://www.quantconnect.com/)
 
 ## Conclusion
 

@@ -50,8 +50,8 @@ To implement credit [spread trading](../s/spread_trading.md) using algorithms, t
 
 ### Real-World Example of Algorithmic Credit Spread Trading
 
-One of the companies known for its advanced [algorithmic trading](../a/algorithmic_trading.md) platforms is QuantConnect. QuantConnect provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple asset classes, including options. Traders can use QuantConnect to develop, backtest, and deploy credit [spread trading](../s/spread_trading.md) strategies with ease.
-- Example: QuantConnect [website](https://www.quantconnect.com/) offers tools and resources to implement and refine [algorithmic trading](../a/algorithmic_trading.md) strategies.
+One of the companies known for its advanced [algorithmic trading](../a/algorithmic_trading.md) platforms is [QuantConnect](../q/quantconnect.md). [QuantConnect](../q/quantconnect.md) provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple asset classes, including options. Traders can use [QuantConnect](../q/quantconnect.md) to develop, backtest, and deploy credit [spread trading](../s/spread_trading.md) strategies with ease.
+- Example: [QuantConnect](../q/quantconnect.md) [website](https://www.quantconnect.com/) offers tools and resources to implement and refine [algorithmic trading](../a/algorithmic_trading.md) strategies.
 
 ### Conclusion
 

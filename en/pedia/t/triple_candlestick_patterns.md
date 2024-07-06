@@ -30,7 +30,7 @@ A bearish reversal pattern, the Three Black Crows, often appears after an uptren
 Successful detection of triple [candlestick patterns](../c/candlestick_patterns.md) involves precise [pattern recognition](../p/pattern_recognition.md) algorithms. Here are some approaches:
 
 - **Moving Averages:** Calculating the average of intraday prices to identify the three consecutive patterns and confirm trend reversals or continuations.
-- **Candlestick Charting Software:** Integrated tools within software platforms that automatically detect these patterns. Examples include MetaTrader 4, TradingView, and NinjaTrader.
+- **Candlestick Charting Software:** Integrated tools within software platforms that automatically detect these patterns. Examples include MetaTrader 4, [TradingView](../t/tradingview.md), and [NinjaTrader](../n/ninjatrader.md).
 - **Machine Learning:** Using neural networks and other machine learning techniques to enhance [pattern recognition](../p/pattern_recognition.md) capabilities based on historical data.
 
 ### Implementation Strategies
@@ -43,7 +43,7 @@ Algo-traders have developed several strategies for implementing these patterns i
 ## Case Studies and Applications
 
 ### QuantConnect
-QuantConnect is a popular [algorithmic trading](../a/algorithmic_trading.md) platform offering access to multiple financial markets. Users can utilize its extensive libraries and frameworks for [backtesting](../b/backtesting.md) triple [candlestick patterns](../c/candlestick_patterns.md). [QuantConnect](https://www.quantconnect.com)
+[QuantConnect](../q/quantconnect.md) is a popular [algorithmic trading](../a/algorithmic_trading.md) platform offering access to multiple financial markets. Users can utilize its extensive libraries and frameworks for [backtesting](../b/backtesting.md) triple [candlestick patterns](../c/candlestick_patterns.md). [QuantConnect](https://www.quantconnect.com)
 
 ### Alpaca
 Alpaca provides APIs for commission-free trading, allowing algo-traders to implement and test their strategies involving triple [candlestick patterns](../c/candlestick_patterns.md) in real-world trading environments. [Alpaca](https://alpaca.markets)

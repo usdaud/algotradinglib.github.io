@@ -50,13 +50,13 @@ These models consider more than just the market factor and typically include add
 ## Tools and Software
 
 ### Morningstar Direct
-Morningstar Direct is a leading investment analysis platform that offers a range of tools for performance attribution. More information can be found on their [official website](https://www.morningstar.com/products/direct).
+[Morningstar](../m/morningstar.md) Direct is a leading investment analysis platform that offers a range of tools for performance attribution. More information can be found on their [official website](https://www.morningstar.com/products/direct).
 
 ### FactSet
-FactSet provides integrated financial information and analytical applications, including performance attribution models. Details are available on their [website](https://www.factset.com).
+[FactSet](../f/factset.md) provides integrated financial information and analytical applications, including performance attribution models. Details are available on their [website](https://www.factset.com).
 
 ### Bloomberg Terminal
-The Bloomberg Terminal is a widely used system for financial data, analysis, and trading. It offers various performance attribution tools and can be accessed via the [Bloomberg website](https://www.bloomberg.com/professional/solution/bloomberg-terminal).
+The [Bloomberg](../b/bloomberg.md) Terminal is a widely used system for financial data, analysis, and trading. It offers various performance attribution tools and can be accessed via the [Bloomberg website](https://www.bloomberg.com/professional/solution/bloomberg-terminal).
 
 ### Advent Software
 Advent Software, part of SS&C Technologies, provides solutions for investment management, including performance attribution tools. Their services can be explored at their [website](https://www.advent.com).

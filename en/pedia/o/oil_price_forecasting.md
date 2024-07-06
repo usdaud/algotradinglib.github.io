@@ -74,13 +74,13 @@ Improvements in efficiency and alternative energy sources can also impact oil pr
 
 ### Bloomberg Terminal
 
-The Bloomberg Terminal is a powerful tool that provides real-time financial data, news, and analytics.
+The [Bloomberg](../b/bloomberg.md) Terminal is a powerful tool that provides real-time financial data, news, and analytics.
 
 - **Link:** [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
 ### Thomson Reuters Eikon
 
-Thomson Reuters Eikon offers similar capabilities, providing access to financial market data and analytics.
+Thomson [Reuters](../r/reuters.md) Eikon offers similar capabilities, providing access to financial market data and analytics.
 
 - **Link:** [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software/financial-analysis)
 

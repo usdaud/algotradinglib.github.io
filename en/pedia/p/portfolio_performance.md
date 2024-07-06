@@ -81,13 +81,13 @@ where \(\mathbf{w}\) is the weight vector, \(\Sigma\) is the covariance matrix, 
 ### Technology and Tools
 
 #### 1. **Python and Libraries**
-Python, with its extensive libraries such as Pandas, NumPy, and scikit-learn, is widely used in [algorithmic trading](../a/algorithmic_trading.md) for data analysis, [backtesting](../b/backtesting.md), and performance evaluation. Libraries like QuantLib and PyPortfolioOpt provide specialized functions for [portfolio optimization](../p/portfolio_optimization.md) and [risk analysis](../r/risk_analysis.md).
+Python, with its extensive libraries such as Pandas, NumPy, and scikit-learn, is widely used in [algorithmic trading](../a/algorithmic_trading.md) for data analysis, [backtesting](../b/backtesting.md), and performance evaluation. Libraries like [QuantLib](../q/quantlib.md) and PyPortfolioOpt provide specialized functions for [portfolio optimization](../p/portfolio_optimization.md) and [risk analysis](../r/risk_analysis.md).
 
 #### 2. **R and Packages**
 R, known for its statistical computing capabilities, offers packages like quantmod, PerformanceAnalytics, and TTR, which are specifically geared toward financial market analysis and trading strategy development.
 
 #### 3. **Trading Platforms and APIs**
-Automated trading platforms and APIs, such as Interactive Brokers, MetaTrader, and QuantConnect, offer robust environments for developing, testing, and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies. They provide access to real-time and historical market data, execution services, and [performance analytics](../p/performance_analytics.md) tools.
+Automated trading platforms and APIs, such as Interactive Brokers, MetaTrader, and [QuantConnect](../q/quantconnect.md), offer robust environments for developing, testing, and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies. They provide access to real-time and historical market data, execution services, and [performance analytics](../p/performance_analytics.md) tools.
 
 - [QuantConnect](https://www.quantconnect.com/)
 - [Interactive Brokers](https://www.interactivebrokers.com/)

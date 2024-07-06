@@ -30,7 +30,7 @@ Another technique is to conduct two separate analyses: one on the surviving univ
 
 ### Adjusted Historical Data
 
-Many vendors and financial data companies now offer survivorship-bias-free datasets, which adjust historical data to account for stocks that failed to survive. For example, the Reuters and Bloomberg datasets often include adjustments for [survivorship bias](../s/survivorship_bias.md).
+Many vendors and financial data companies now offer survivorship-bias-free datasets, which adjust historical data to account for stocks that failed to survive. For example, the [Reuters](../r/reuters.md) and [Bloomberg](../b/bloomberg.md) datasets often include adjustments for [survivorship bias](../s/survivorship_bias.md).
 
 ## Tools and Resources
 
@@ -38,17 +38,17 @@ Several tools and resources are available for performing survivorship analysis a
 
 ### QuantConnect
 
-QuantConnect is an [algorithmic trading](../a/algorithmic_trading.md) platform that provides access to both currently listed and historically delisted securities, allowing for more accurate [backtesting](../b/backtesting.md):
+[QuantConnect](../q/quantconnect.md) is an [algorithmic trading](../a/algorithmic_trading.md) platform that provides access to both currently listed and historically delisted securities, allowing for more accurate [backtesting](../b/backtesting.md):
 [QuantConnect](https://www.quantconnect.com/)
 
 ### Tiingo
 
-Tiingo offers a survivorship-bias-free database, which allows traders and researchers to access data that includes delisted securities:
+[Tiingo](../t/tiingo.md) offers a survivorship-bias-free database, which allows traders and researchers to access data that includes delisted securities:
 [Tiingo](https://www.tiingo.com/)
 
 ### AlgoTrader
 
-AlgoTrader is another platform that offers tools and datasets designed to eliminate [survivorship bias](../s/survivorship_bias.md) from [backtesting](../b/backtesting.md):
+[AlgoTrader](../a/algotrader.md) is another platform that offers tools and datasets designed to eliminate [survivorship bias](../s/survivorship_bias.md) from [backtesting](../b/backtesting.md):
 [AlgoTrader](https://www.algotrader.com/)
 
 ## Practical Example: Backtesting a Trading Strategy
@@ -57,7 +57,7 @@ Consider an algorithmic trader developing a [momentum trading](../m/momentum_tra
 
 ### Step-by-step Process
 
-1. **Select Data Source:** Choose a historical database that is known to be survivorship-bias-free, like CRSP or use platforms such as QuantConnect and Tiingo.
+1. **Select Data Source:** Choose a historical database that is known to be survivorship-bias-free, like CRSP or use platforms such as [QuantConnect](../q/quantconnect.md) and [Tiingo](../t/tiingo.md).
 2. **Prepare Data:** Clean and preprocess the data to include both listed and delisted stocks, ensuring that all historical price data is considered.
 3. **Backtest Strategy:** Run your trading strategy on the cleaned dataset. Ensure you monitor key metrics like returns, risk, and Sharpe ratios.
 4. **Analyze Results:** Compare the results of your backtest against a similar test using a biased dataset. Note the differences in [performance metrics](../p/performance_metrics.md).

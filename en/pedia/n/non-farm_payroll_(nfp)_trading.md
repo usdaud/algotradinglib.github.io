@@ -66,14 +66,14 @@ Economic calendars provide scheduled release times and forecasts for NFP data. R
 Platforms providing analytical tools and real-time data for NFP trading include:
 
 - **MetaTrader 4/5:** Widely used trading platforms offering [technical analysis](../t/technical_analysis.md) tools and indicators.
-- **TradingView:** [TradingView](https://www.tradingview.com/) provides comprehensive charting tools and a [social trading](../s/social_trading.md) community.
+- **[TradingView](../t/tradingview.md):** [TradingView](https://www.tradingview.com/) provides comprehensive charting tools and a [social trading](../s/social_trading.md) community.
 
 ### 3. News and Data Feeds
 
 Staying updated with real-time news and data releases is essential. Some sources are:
 
-- **Bloomberg:** [Bloomberg](https://www.bloomberg.com/)
-- **Reuters:** [Reuters](https://www.reuters.com/)
+- **[Bloomberg](../b/bloomberg.md):** [Bloomberg](https://www.bloomberg.com/)
+- **[Reuters](../r/reuters.md):** [Reuters](https://www.reuters.com/)
 - **CNBC:** [CNBC](https://www.cnbc.com/)
 
 ## Case Studies of NFP Trading
@@ -113,4 +113,4 @@ Non-Farm Payroll trading offers considerable opportunities due to the significan
 For further information on trading platforms and tools that facilitate NFP trading, you can visit:
 
 - **MetaTrader 4/5:** [MetaTrader](https://www.metatrader4.com/en)
-- **TradingView:** [TradingView](https://www.tradingview.com/)
+- **[TradingView](../t/tradingview.md):** [TradingView](https://www.tradingview.com/)

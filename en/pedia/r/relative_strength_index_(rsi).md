@@ -84,13 +84,13 @@ Implementing RSI-based strategies involves the use of trading platforms and soft
 1. **MetaTrader 4/5**:
     - Offers RSI as a standard indicator with customizable parameters.
     
-2. **TradingView**:
+2. **[TradingView](../t/tradingview.md)**:
     - Provides a highly interactive charting platform with RSI and other [technical indicators](../t/technical_indicators.md) available. [TradingView](https://www.tradingview.com)
     
-3. **Thinkorswim** by TD Ameritrade:
+3. **[Thinkorswim](../t/thinkorswim.md)** by TD Ameritrade:
     - Includes RSI in its suite of [technical analysis](../t/technical_analysis.md) tools.
     
-4. **NinjaTrader**:
+4. **[NinjaTrader](../n/ninjatrader.md)**:
     - Offers RSI and other [technical analysis](../t/technical_analysis.md) indicators for advanced charting.
 
 ## Limitations of RSI
@@ -114,6 +114,6 @@ For further detailed analysis and application, many trading education resources 
 
 - **Investopedia**: Offers extensive articles on RSI and its application in [trading strategies](../t/trading_strategies.md). [Investopedia](https://www.investopedia.com)
 - **BabyPips**: A popular platform for learning Forex trading, including RSI strategies. [BabyPips](https://www.babypips.com)
-- **AlgoTrader**: A leading platform for [algorithmic trading](../a/algorithmic_trading.md) that offers support for implementing RSI-based strategies. [AlgoTrader](https://www.algotrader.com)
+- **[AlgoTrader](../a/algotrader.md)**: A leading platform for [algorithmic trading](../a/algorithmic_trading.md) that offers support for implementing RSI-based strategies. [AlgoTrader](https://www.algotrader.com)
 
 By understanding and appropriately applying RSI, traders can gain a competitive edge in identifying market conditions and making informed trading decisions.

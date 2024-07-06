@@ -69,7 +69,7 @@ In forex markets, yield [volatility analysis](../v/volatility_analysis.md) is vi
 ## Tools and Platforms for Yield Volatility Analysis
 
 ### Bloomberg Terminal
-The Bloomberg Terminal is a widely-used platform for financial data analysis. It provides advanced tools for yield [volatility analysis](../v/volatility_analysis.md), including historical and implied volatility calculations, and access to comprehensive financial data across various asset classes.
+The [Bloomberg](../b/bloomberg.md) Terminal is a widely-used platform for financial data analysis. It provides advanced tools for yield [volatility analysis](../v/volatility_analysis.md), including historical and implied volatility calculations, and access to comprehensive financial data across various asset classes.
 
 [Official Website](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
@@ -79,7 +79,7 @@ MATLAB offers a robust environment for quantitative financial analysis. It inclu
 [Official Website](https://www.mathworks.com/products/matlab.html)
 
 ### Python with QuantLib
-Python, in combination with the QuantLib library, is a powerful tool for yield [volatility analysis](../v/volatility_analysis.md). QuantLib provides a wide range of functionalities for modeling, trading, and [risk management](../r/risk_management.md) in [quantitative finance](../q/quantitative_finance.md).
+Python, in combination with the [QuantLib](../q/quantlib.md) library, is a powerful tool for yield [volatility analysis](../v/volatility_analysis.md). [QuantLib](../q/quantlib.md) provides a wide range of functionalities for modeling, trading, and [risk management](../r/risk_management.md) in [quantitative finance](../q/quantitative_finance.md).
 
 [Official Website](https://www.quantlib.org/)
 

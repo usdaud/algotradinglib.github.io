@@ -1,6 +1,6 @@
 # Jump Risk Management
 
-In the realm of algorithmic trading, risk management is a crucial aspect that determines the success and sustainability of trading strategies. Among various types of risks, "Jump Risk" is particularly significant. Jump risk, also known as discontinuity risk or gap risk, refers to the risk that an asset's price will make a sudden, large move without trading at intermediate prices. This can be caused by unexpected news, earnings reports, economic data releases, geopolitical events, or other market-moving news.
+In the realm of [algorithmic trading](../a/algorithmic_trading.md), [risk management](../r/risk_management.md) is a crucial aspect that determines the success and sustainability of [trading strategies](../t/trading_strategies.md). Among various types of risks, "Jump Risk" is particularly significant. Jump risk, also known as discontinuity risk or gap risk, refers to the risk that an asset's price will make a sudden, large move without trading at intermediate prices. This can be caused by unexpected news, earnings reports, economic data releases, [geopolitical events](../g/geopolitical_events.md), or other market-moving news.
 
 ## Defining Jump Risk in Trading
 

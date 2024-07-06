@@ -70,7 +70,7 @@ At the core of utility-based trading is advanced mathematics. Some key technique
 
 Utility-based trading has been adopted by various financial institutions and hedge funds due to its robust approach to [risk management](../r/risk_management.md) and personalized strategy building.
 
-- **QuantConnect**: [QuantConnect](https://www.quantconnect.com) is a prominent platform providing tools for [algorithmic trading](../a/algorithmic_trading.md) and [backtesting](../b/backtesting.md), including support for utility-based strategies.
+- **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](https://www.quantconnect.com) is a prominent platform providing tools for [algorithmic trading](../a/algorithmic_trading.md) and [backtesting](../b/backtesting.md), including support for utility-based strategies.
   
 - **Quantitative Brokers**: [Quantitative Brokers](https://www.quantitativebrokers.com) integrates scientific trading principles, including utility-based models, to drive [execution algorithms](../e/execution_algorithms.md).
 

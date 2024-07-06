@@ -49,11 +49,11 @@ Interactive Brokers is a global brokerage firm known for its comprehensive tradi
 
 ### TradeStation
 
-TradeStation is another brokerage that offers extensive support for [algorithmic trading](../a/algorithmic_trading.md). Their platform includes advanced order types, [backtesting](../b/backtesting.md) capabilities, and integration with various programming languages, allowing traders to implement and execute buy limit orders effectively. Details are available on their [website](https://www.tradestation.com).
+[TradeStation](../t/tradestation.md) is another brokerage that offers extensive support for [algorithmic trading](../a/algorithmic_trading.md). Their platform includes advanced order types, [backtesting](../b/backtesting.md) capabilities, and integration with various programming languages, allowing traders to implement and execute buy limit orders effectively. Details are available on their [website](https://www.tradestation.com).
 
 ### QuantConnect
 
-QuantConnect is an open-source [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to develop and test [trading strategies](../t/trading_strategies.md) using historical data. Buy limit orders can be programmed into algorithms using their API, facilitating precise trade execution. Visit their [site](https://www.quantconnect.com) for more information.
+[QuantConnect](../q/quantconnect.md) is an open-source [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to develop and test [trading strategies](../t/trading_strategies.md) using historical data. Buy limit orders can be programmed into algorithms using their API, facilitating precise trade execution. Visit their [site](https://www.quantconnect.com) for more information.
 
 ## Conclusion
 
@@ -62,5 +62,5 @@ Buy limit orders are a critical component of disciplined, strategy-driven tradin
 ## References
 
 - Interactive Brokers: [Interactive Brokers Official Site](https://www.interactivebrokers.com)
-- TradeStation: [TradeStation Official Site](https://www.tradestation.com)
-- QuantConnect: [QuantConnect Official Site](https://www.quantconnect.com)
+- [TradeStation](../t/tradestation.md): [TradeStation Official Site](https://www.tradestation.com)
+- [QuantConnect](../q/quantconnect.md): [QuantConnect Official Site](https://www.quantconnect.com)

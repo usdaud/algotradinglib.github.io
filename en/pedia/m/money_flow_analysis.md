@@ -48,9 +48,9 @@ Since MFA integrates trading volume into its calculations, it provides a more nu
 Several trading platforms and financial software offer tools to perform Money Flow Analysis. Some notable examples include:
 
 - **MetaTrader 4/5**: Popular trading platforms that offer built-in tools for money flow analysis and [technical indicators](../t/technical_indicators.md).
-- **ThinkOrSwim by TD Ameritrade**: A professional trading platform with advanced charting tools for Money Flow Analysis.
+- **[ThinkOrSwim](../t/thinkorswim.md) by TD Ameritrade**: A professional trading platform with advanced charting tools for Money Flow Analysis.
 - **MetaStock**: Advanced software for traders that include money flow indicators.
-- **TradingView**: An online charting platform that offers Money Flow Index and other related indicators. [Visit TradingView](https://www.tradingview.com)
+- **[TradingView](../t/tradingview.md)**: An online charting platform that offers Money Flow Index and other related indicators. [Visit TradingView](https://www.tradingview.com)
 
 ## Real-world Examples of Money Flow Analysis
 

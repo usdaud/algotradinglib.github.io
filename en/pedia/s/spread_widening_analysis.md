@@ -83,7 +83,7 @@ Kx Systems provides high-performance database and time-series analytics technolo
 [Kx Systems](https://kx.com/)
 
 ### QuantConnect
-QuantConnect provides [algorithmic trading](../a/algorithmic_trading.md) technology and infrastructure, including extensive data on bid-ask spreads that traders can use for [backtesting](../b/backtesting.md) and live trading. Their platform supports the development of custom algorithms for [spread analysis](../s/spread_analysis.md).
+[QuantConnect](../q/quantconnect.md) provides [algorithmic trading](../a/algorithmic_trading.md) technology and infrastructure, including extensive data on bid-ask spreads that traders can use for [backtesting](../b/backtesting.md) and live trading. Their platform supports the development of custom algorithms for [spread analysis](../s/spread_analysis.md).
 [QuantConnect](https://www.quantconnect.com/)
 
 ### Thesys Technologies

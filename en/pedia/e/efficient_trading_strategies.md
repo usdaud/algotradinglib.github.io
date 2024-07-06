@@ -67,17 +67,17 @@ Several tools and platforms facilitate the implementation of efficient [trading 
 ### 1. **Trading Platforms**
 
 - **MetaTrader:** A popular trading platform that offers advanced charting, [technical analysis](../t/technical_analysis.md) tools, and automated trading capabilities.
-- **TradeStation:** Known for its robust [trading systems](../t/trading_systems.md), historical data resources, and advanced strategy testing features.
+- **[TradeStation](../t/tradestation.md):** Known for its robust [trading systems](../t/trading_systems.md), historical data resources, and advanced strategy testing features.
 
 ### 2. **Backtesting Tools**
 
-- **QuantConnect:** An [algorithmic trading](../a/algorithmic_trading.md) platform that offers a cloud-based [backtesting](../b/backtesting.md) environment for multiple asset classes.
-- **Amibroker:** A powerful tool for developing and [backtesting](../b/backtesting.md) [trading systems](../t/trading_systems.md) with advanced statistical analysis capabilities.
+- **[QuantConnect](../q/quantconnect.md):** An [algorithmic trading](../a/algorithmic_trading.md) platform that offers a cloud-based [backtesting](../b/backtesting.md) environment for multiple asset classes.
+- **[Amibroker](../a/amibroker.md):** A powerful tool for developing and [backtesting](../b/backtesting.md) [trading systems](../t/trading_systems.md) with advanced statistical analysis capabilities.
 
 ### 3. **Market Data Providers**
 
-- **Bloomberg Terminal:** Provides [real-time market data](../r/real-time_market_data.md), financial news, and extensive analytical tools.
-- **Thomson Reuters Eikon:** A comprehensive financial analysis platform offering real-time data, news, and trading tools.
+- **[Bloomberg](../b/bloomberg.md) Terminal:** Provides [real-time market data](../r/real-time_market_data.md), financial news, and extensive analytical tools.
+- **Thomson [Reuters](../r/reuters.md) Eikon:** A comprehensive financial analysis platform offering real-time data, news, and trading tools.
 
 ## Case Studies of Efficient Trading Strategies
 

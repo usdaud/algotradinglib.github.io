@@ -41,7 +41,7 @@ Example:
 
 Financial institutions, hedge funds, and sophisticated traders use advanced software platforms and real-time data feeds to manage their Delta-Gamma hedges. Some of the prominent tools and companies are:
 
-- **Bloomberg Terminal ([bloomberg.com/professional](https://www.bloomberg.com/professional/))**: Provides real-time options pricing data, and Greeks calculations, and supports complex [hedging strategies](../h/hedging_strategies.md).
+- **[Bloomberg](../b/bloomberg.md) Terminal ([bloomberg.com/professional](https://www.bloomberg.com/professional/))**: Provides real-time options pricing data, and Greeks calculations, and supports complex [hedging strategies](../h/hedging_strategies.md).
 
 - **Eikon by Refinitiv ([refinitiv.com/en/products/eikon-trading-software](https://www.refinitiv.com/en/products/eikon-trading-software))**: Another leading platform offering comprehensive analytics, pricing models, and [risk management](../r/risk_management.md) tools.
 

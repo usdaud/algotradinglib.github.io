@@ -22,7 +22,7 @@ Data is the cornerstone of any [algorithmic trading](../a/algorithmic_trading.md
 
 - **Yahoo Finance API**: Allows for fetching historical data, real-time quotes, and other financial information. It can be accessed from [Yahoo Finance](https://www.yahoofinanceapi.com/).
 - **Alpha Vantage API**: Provides a wide range of financial data, including real-time and historical data. It can be accessed from [Alpha Vantage](https://www.alphavantage.co/).
-- **Quandl**: Offers comprehensive data on various financial instruments like stocks, commodities, and cryptocurrencies. Quandl can be accessed from [here](https://www.quandl.com/).
+- **[Quandl](../q/quandl.md)**: Offers comprehensive data on various financial instruments like stocks, commodities, and cryptocurrencies. [Quandl](../q/quandl.md) can be accessed from [here](https://www.quandl.com/).
 
 Once you have fetched the data, you will need to preprocess it to suit your [trading algorithms](../t/trading_algorithms.md). This preprocessing might include cleaning the data, handling missing values, normalizing the scales, etc.
 
@@ -124,8 +124,8 @@ public class [Backtesting](../b/backtesting.md) {
 
 In the real world, effective [backtesting](../b/backtesting.md) involves sophisticated frameworks that account for transaction costs, market impact, slippage, and other real-world factors that could affect trading outcomes. Some popular Java-based [backtesting](../b/backtesting.md) frameworks include:
 
-- **AlgoTrader**: A professional [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple asset classes. Check AlgoTrader [here](https://www.algotrader.com/).
-- **QuantConnect**: Though primarily in Python, QuantConnect also supports [backtesting](../b/backtesting.md) in multiple programming languages. More about it [here](https://www.quantconnect.com/).
+- **[AlgoTrader](../a/algotrader.md)**: A professional [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple asset classes. Check [AlgoTrader](../a/algotrader.md) [here](https://www.algotrader.com/).
+- **[QuantConnect](../q/quantconnect.md)**: Though primarily in Python, [QuantConnect](../q/quantconnect.md) also supports [backtesting](../b/backtesting.md) in multiple programming languages. More about it [here](https://www.quantconnect.com/).
 
 ## Live Trading
 

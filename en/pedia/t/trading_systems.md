@@ -6,17 +6,17 @@
 
 1. **Market Data Engine**
     - **Function:** Acquires [real-time market data](../r/real-time_market_data.md) to analyze and make trading decisions.
-    - **Example Providers:** Bloomberg LP ([bloomberglp.com](https://bloomberg.com)), Thomson Reuters ([thomsonreuters.com](https://www.thomsonreuters.com)).
+    - **Example Providers:** [Bloomberg](../b/bloomberg.md) LP ([bloomberglp.com](https://bloomberg.com)), Thomson [Reuters](../r/reuters.md) ([thomsonreuters.com](https://www.thomsonreuters.com)).
     - **Details:** This engine collects data on asset prices, volumes, and other pertinent market activities. The timeliness and accuracy of this data are critical.
 
 2. **Strategy Implementation**
     - **Function:** Defines the [trading rules](../t/trading_rules.md) and logic to determine buy and sell signals.
-    - **Example Providers:** QuantConnect ([quantconnect.com](https://www.quantconnect.com)), Algorithmia ([algorithmia.com](https://algorithmia.com)).
+    - **Example Providers:** [QuantConnect](../q/quantconnect.md) ([quantconnect.com](https://www.quantconnect.com)), Algorithmia ([algorithmia.com](https://algorithmia.com)).
     - **Details:** These strategies can range from simple moving averages to complex machine learning models that predict market movements based on historical data.
 
 3. **Order Execution Engine**
     - **Function:** Executes trades based on the strategy's output.
-    - **Example Providers:** Interactive Brokers ([interactivebrokers.com](https://www.interactivebrokers.com)), TradeStation ([tradestation.com](https://www.tradestation.com)).
+    - **Example Providers:** Interactive Brokers ([interactivebrokers.com](https://www.interactivebrokers.com)), [TradeStation](../t/tradestation.md) ([tradestation.com](https://www.tradestation.com)).
     - **Details:** This component splits orders to minimize market impact and reduce latency. Algorithms like TWAP (Time-Weighted Average Price) and VWAP (Volume-Weighted Average Price) are commonly used in these engines.
 
 4. **[Risk Management](../r/risk_management.md) System**
@@ -26,7 +26,7 @@
 
 5. **[Backtesting](../b/backtesting.md) Module**
     - **Function:** Simulates the trading strategy using historical data to verify its effectiveness.
-    - **Example Providers:** MetaTrader ([metatrader.com](https://www.metatrader.com)), TradeStation.
+    - **Example Providers:** MetaTrader ([metatrader.com](https://www.metatrader.com)), [TradeStation](../t/tradestation.md).
     - **Details:** [Backtesting](../b/backtesting.md) involves rigorous statistical analysis to measure [performance metrics](../p/performance_metrics.md) like [Sharpe ratio](../s/sharpe_ratio.md), drawdown, and return on investment.
 
 6. **Connectivity Layer**
@@ -54,7 +54,7 @@
 
 5. **[Sentiment Analysis](../s/sentiment_analysis.md)**
     - Utilizes news articles, social media, and other textual data to gauge market sentiment.
-    - **Example Tools:** Dataminr ([dataminr.com](https://www.dataminr.com)), RavenPack ([ravenpack.com](https://www.ravenpack.com)).
+    - **Example Tools:** Dataminr ([dataminr.com](https://www.dataminr.com)), [RavenPack](../r/ravenpack.md) ([ravenpack.com](https://www.ravenpack.com)).
 
 ### Technical Infrastructure
 
@@ -64,7 +64,7 @@
 
 2. **Software**
     - Custom-built or third-party software solutions often tailored to specific [trading strategies](../t/trading_strategies.md).
-    - **Example Providers:** MetaTrader, QuantConnect.
+    - **Example Providers:** MetaTrader, [QuantConnect](../q/quantconnect.md).
     
 ### Legal and Regulatory Considerations
 

@@ -51,15 +51,15 @@ In [algorithmic trading](../a/algorithmic_trading.md), volume is integrated into
 
 ## Tools and Platforms for Volume Analysis
 Several tools and platforms provide in-depth [volume analysis](../v/volume_analysis.md) capabilities:
-- **Bloomberg Terminal**: Offers comprehensive volume analytics and historical data.
+- **[Bloomberg](../b/bloomberg.md) Terminal**: Offers comprehensive volume analytics and historical data.
   [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-- **Thomson Reuters Eikon**: Another professional platform offering advanced [volume analysis](../v/volume_analysis.md) features.
+- **Thomson [Reuters](../r/reuters.md) Eikon**: Another professional platform offering advanced [volume analysis](../v/volume_analysis.md) features.
   [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)
 - **MetaTrader 4 & 5**: Popular trading platforms with customizable [volume indicators](../v/volume_indicators.md) and analysis tools.
   [MetaTrader](https://www.metatrader4.com/en)
-- **TradeStation**: Provides powerful [volume analysis](../v/volume_analysis.md) tools and [backtesting](../b/backtesting.md) capabilities.
+- **[TradeStation](../t/tradestation.md)**: Provides powerful [volume analysis](../v/volume_analysis.md) tools and [backtesting](../b/backtesting.md) capabilities.
   [TradeStation](https://www.tradestation.com/)
-- **NinjaTrader**: Offers advanced volume-based [technical analysis](../t/technical_analysis.md) and automated trading solutions.
+- **[NinjaTrader](../n/ninjatrader.md)**: Offers advanced volume-based [technical analysis](../t/technical_analysis.md) and automated trading solutions.
   [NinjaTrader](https://ninjatrader.com/)
 
 ## Case Studies: Volume Analysis in Action

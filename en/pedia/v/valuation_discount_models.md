@@ -124,7 +124,7 @@ Combining [valuation models](../v/valuation_models.md) with [technical analysis]
 
 ### Step 1: Data Acquisition
 
-Gather historical financial data, including balance sheets, income statements, cash flow statements, and stock prices, from reliable sources like Bloomberg, Reuters, or company filings.
+Gather historical financial data, including balance sheets, income statements, cash flow statements, and stock prices, from reliable sources like [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), or company filings.
 
 ### Step 2: Model Selection and Calibration
 
@@ -146,9 +146,9 @@ Deploy the algorithm in a live [trading environment](../t/trading_environment.md
 
 Several firms specialize in providing financial analysis tools and algorithms that incorporate valuation discount models. These companies offer platforms and services that support traders and investors in making data-driven decisions.
 
-- **Morningstar:** [www.morningstar.com](www.morningstar.com)
-- **Bloomberg:** [www.bloomberg.com](www.bloomberg.com)
-- **FactSet:** [www.factset.com](www.factset.com)
+- **[Morningstar](../m/morningstar.md):** [www.morningstar.com](www.morningstar.com)
+- **[Bloomberg](../b/bloomberg.md):** [www.bloomberg.com](www.bloomberg.com)
+- **[FactSet](../f/factset.md):** [www.factset.com](www.factset.com)
 - **S&P Global Market Intelligence:** [www.spglobal.com/marketintelligence](www.spglobal.com/marketintelligence)
 
 In conclusion, valuation discount models are indispensable tools in the arsenal of algorithmic traders. By accurately assessing the intrinsic value of assets, these models enable traders to make informed decisions, optimize their portfolios, and enhance their [trading performance](../t/trading_performance.md) in the financial markets.

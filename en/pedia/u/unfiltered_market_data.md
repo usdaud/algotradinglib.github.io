@@ -78,11 +78,11 @@ Regulations often require traders to maintain records of all trading activities,
 
 Several companies specialize in offering unfiltered market data to traders and financial institutions. Some notable providers include:
 
-- **Thomson Reuters:**
+- **Thomson [Reuters](../r/reuters.md):**
   - Provides real-time, unfiltered market data across various asset classes.
   - Website: [Thomson Reuters](https://www.thomsonreuters.com/)
 
-- **Bloomberg:**
+- **[Bloomberg](../b/bloomberg.md):**
   - Offers a comprehensive suite of market data products, including unfiltered feeds.
   - Website: [Bloomberg](https://www.bloomberg.com/)
 

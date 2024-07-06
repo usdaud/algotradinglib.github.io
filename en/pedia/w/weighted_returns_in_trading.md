@@ -107,13 +107,13 @@ Modern trading platforms and [portfolio management](../p/portfolio_management.md
 
 ### Portfolio Management Software
 
-1. **Morningstar Direct**: A comprehensive investment analysis platform that offers advanced portfolio analytics and benchmarking tools. More information can be found on [Morningstar Direct's website](https://www.morningstar.com/products/direct).
-2. **Bloomberg Terminal**: Known for its extensive data and analytics capabilities, Bloomberg Terminal helps in [portfolio management](../p/portfolio_management.md), including calculating weighted returns.
+1. **[Morningstar](../m/morningstar.md) Direct**: A comprehensive investment analysis platform that offers advanced portfolio analytics and benchmarking tools. More information can be found on [Morningstar Direct's website](https://www.morningstar.com/products/direct).
+2. **[Bloomberg](../b/bloomberg.md) Terminal**: Known for its extensive data and analytics capabilities, [Bloomberg](../b/bloomberg.md) Terminal helps in [portfolio management](../p/portfolio_management.md), including calculating weighted returns.
 
 ### Trading Platforms
 
 1. **MetaTrader 5**: This widely-used trading platform includes features for [algorithmic trading](../a/algorithmic_trading.md) and [portfolio analysis](../p/portfolio_analysis.md). Learn more on the [MetaTrader website](https://www.metatrader5.com/en).
-2. **QuantConnect**: A platform focused on [quantitative finance](../q/quantitative_finance.md) and [algorithmic trading](../a/algorithmic_trading.md), it offers tools for [backtesting](../b/backtesting.md) and analyzing [trading strategies](../t/trading_strategies.md) with weighted returns. Visit [QuantConnect](https://www.quantconnect.com).
+2. **[QuantConnect](../q/quantconnect.md)**: A platform focused on [quantitative finance](../q/quantitative_finance.md) and [algorithmic trading](../a/algorithmic_trading.md), it offers tools for [backtesting](../b/backtesting.md) and analyzing [trading strategies](../t/trading_strategies.md) with weighted returns. Visit [QuantConnect](https://www.quantconnect.com).
 
 ### Programming Libraries
 

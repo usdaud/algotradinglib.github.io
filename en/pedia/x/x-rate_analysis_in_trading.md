@@ -58,11 +58,11 @@ Forex traders heavily rely on economic calendars, which list upcoming economic r
 
 ### 4. **Bloomberg Terminal**
 
-The Bloomberg Terminal provides financial professionals with real-time data, news, and analysis tools. It is widely used for conducting in-depth forex market analysis.
+The [Bloomberg](../b/bloomberg.md) Terminal provides financial professionals with real-time data, news, and analysis tools. It is widely used for conducting in-depth forex market analysis.
 
 ### 5. **Reuters Market Data System**
 
-The Reuters Market Data System offers a similar suite of tools and real-time information crucial for [X-rate analysis](../x/x-rate_analysis.md).
+The [Reuters](../r/reuters.md) Market Data System offers a similar suite of tools and real-time information crucial for [X-rate analysis](../x/x-rate_analysis.md).
 
 ## Popular Strategies in X-Rate Analysis
 

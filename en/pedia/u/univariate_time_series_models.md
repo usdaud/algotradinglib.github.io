@@ -80,8 +80,8 @@ Selection of an appropriate model involves balancing complexity with fit, often 
 - **Seasonality Adjustments**: SARIMA models account for seasonal effects in price changes, which is essential for [commodities trading](../c/commodities_trading.md).
 
 Several companies specialize in providing [algorithmic trading](../a/algorithmic_trading.md) tools and platforms, including:
-- **QuantConnect**: [https://www.quantconnect.com](https://www.quantconnect.com)
-- **AlgoTrader**: [www.algotrader.com](https://www.algotrader.com)
+- **[QuantConnect](../q/quantconnect.md)**: [https://www.quantconnect.com](https://www.quantconnect.com)
+- **[AlgoTrader](../a/algotrader.md)**: [www.algotrader.com](https://www.algotrader.com)
 - **Quantopian (Acquired by Robinhood)**: No direct link as the service is integrated into Robinhood.
 
 ### 10. Conclusion

@@ -101,8 +101,8 @@ Cryptocurrency markets are known for their high volatility and are accessible 24
 
 - **Jane Street**: A [quantitative trading](../q/quantitative_trading.md) firm and market maker with expertise in trading, research, and technology. [Jane Street](https://www.janestreet.com/)
 - **Two Sigma**: A hedge fund that applies data science and technology to trading. [Two Sigma](https://www.twosigma.com/)
-- **AlgoTrader**: A trading software company providing institutional-grade [algorithmic trading](../a/algorithmic_trading.md) solutions. [AlgoTrader](https://www.algotrader.com/)
-- **QuantConnect**: A platform offering cloud-based [algorithmic trading](../a/algorithmic_trading.md) and [backtesting](../b/backtesting.md). [QuantConnect](https://www.quantconnect.com/)
+- **[AlgoTrader](../a/algotrader.md)**: A trading software company providing institutional-grade [algorithmic trading](../a/algorithmic_trading.md) solutions. [AlgoTrader](https://www.algotrader.com/)
+- **[QuantConnect](../q/quantconnect.md)**: A platform offering cloud-based [algorithmic trading](../a/algorithmic_trading.md) and [backtesting](../b/backtesting.md). [QuantConnect](https://www.quantconnect.com/)
 
 ## Conclusion
 

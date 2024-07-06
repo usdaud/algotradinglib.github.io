@@ -72,10 +72,10 @@ Several metrics are employed in [risk analysis](../r/risk_analysis.md) to quanti
 ### Tools and Technologies
 
 - **Python/R**: These programming languages are widely used in [algorithmic trading](../a/algorithmic_trading.md) for data analysis and model development. Libraries such as NumPy, pandas, and scikit-learn are particularly useful.
-- **Trading Platforms**: Interactive Brokers, MetaTrader, and QuantConnect provide environments for executing algorithmic strategies.
+- **Trading Platforms**: Interactive Brokers, MetaTrader, and [QuantConnect](../q/quantconnect.md) provide environments for executing algorithmic strategies.
     - [Interactive Brokers](https://www.interactivebrokers.com)
     - [QuantConnect](https://www.quantconnect.com)
-- **[Risk Management](../r/risk_management.md) Software**: Tools like RiskMetrics, Barra, and Bloomberg Terminal offer advanced risk analytics.
+- **[Risk Management](../r/risk_management.md) Software**: Tools like RiskMetrics, Barra, and [Bloomberg](../b/bloomberg.md) Terminal offer advanced risk analytics.
     - [RiskMetrics](https://www.msci.com/riskmetrics)
     - [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 

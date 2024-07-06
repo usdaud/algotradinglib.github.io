@@ -82,7 +82,7 @@ Successful [algorithmic trading](../a/algorithmic_trading.md) of weekly options 
 ### Real-World Applications
 
 1. **Institutional Trading Desks**: Many hedge funds and financial institutions have incorporated weekly options algorithms for speculative trading and hedging.
-2. **Automated Platforms**: Retail investors can also access automated trading platforms that offer weekly options strategies, such as Thinkorswim by TD Ameritrade [Thinkorswim](https://www.thinkorswim.com/).
+2. **Automated Platforms**: Retail investors can also access automated trading platforms that offer weekly options strategies, such as [Thinkorswim](../t/thinkorswim.md) by TD Ameritrade [Thinkorswim](https://www.thinkorswim.com/).
 
 ## Conclusion
 

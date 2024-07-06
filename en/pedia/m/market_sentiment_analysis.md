@@ -28,9 +28,9 @@ Quantitative [sentiment analysis](../s/sentiment_analysis.md) employs algorithms
 
 Numerous tools and platforms facilitate market [sentiment analysis](../s/sentiment_analysis.md):
 
-* **Bloomberg Terminal**: A premier tool for financial analysis that incorporates sentiment analytics based on news, social media, and research reports.
+* **[Bloomberg](../b/bloomberg.md) Terminal**: A premier tool for financial analysis that incorporates sentiment analytics based on news, social media, and research reports.
   [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-* **Thomson Reuters Eikon**: Provides a suite of [sentiment analysis](../s/sentiment_analysis.md) tools including real-time news and [social media sentiment](../s/social_media_sentiment.md).
+* **Thomson [Reuters](../r/reuters.md) Eikon**: Provides a suite of [sentiment analysis](../s/sentiment_analysis.md) tools including real-time news and [social media sentiment](../s/social_media_sentiment.md).
   [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)
 * **AlphaSense**: Utilizes AI to provide market sentiment insights by analyzing vast amounts of unstructured data.
   [AlphaSense](https://www.alpha-sense.com/)
@@ -43,7 +43,7 @@ Numerous tools and platforms facilitate market [sentiment analysis](../s/sentime
 
 [Sentiment analysis](../s/sentiment_analysis.md) relies on various data sources:
 
-1. **News Articles**: Financial news and reports from platforms like Reuters, Bloomberg, and CNBC.
+1. **News Articles**: Financial news and reports from platforms like [Reuters](../r/reuters.md), [Bloomberg](../b/bloomberg.md), and CNBC.
 2. **Social Media**: User-generated content on platforms like Twitter, Reddit, and specialized forums like WallStreetBets.
 3. **Financial Reports**: Earnings releases, SEC filings, and annual reports.
 4. **Research Reports**: Analyst opinions and investment advisories.
@@ -82,7 +82,7 @@ Goldman Sachs employs [sentiment analysis](../s/sentiment_analysis.md) to manage
 
 ### Thomson Reuters
 
-Thomson Reuters provides [sentiment analysis](../s/sentiment_analysis.md) tools through its Eikon platform, enabling clients to make data-driven investment decisions. Their AI-driven sentiment scoring helps in identifying market trends and sentiment shifts.
+Thomson [Reuters](../r/reuters.md) provides [sentiment analysis](../s/sentiment_analysis.md) tools through its Eikon platform, enabling clients to make data-driven investment decisions. Their AI-driven sentiment scoring helps in identifying market trends and sentiment shifts.
 
 ## Challenges
 

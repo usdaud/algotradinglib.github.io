@@ -85,9 +85,9 @@ The field of rate of return forecasting is continuously evolving, with advanceme
 4. **[Algorithmic Trading](../a/algorithmic_trading.md) Platforms:**
    Numerous [algorithmic trading](../a/algorithmic_trading.md) platforms offer tools and services for rate of return forecasting. Some notable platforms include:
 
-   - **QuantConnect:** [QuantConnect](https://www.quantconnect.com/)
-   - **AlgoTrader:** [AlgoTrader](https://www.algotrader.com/)
-   - **TradeStation:** [TradeStation](https://www.tradestation.com/)
+   - **[QuantConnect](../q/quantconnect.md):** [QuantConnect](https://www.quantconnect.com/)
+   - **[AlgoTrader](../a/algotrader.md):** [AlgoTrader](https://www.algotrader.com/)
+   - **[TradeStation](../t/tradestation.md):** [TradeStation](https://www.tradestation.com/)
 
 5. **Robo-Advisors:**
    Robo-advisors use algorithms and predictive models to provide automated investment advice and [portfolio management](../p/portfolio_management.md) services. Examples include Betterment and Wealthfront.

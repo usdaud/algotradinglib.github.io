@@ -44,7 +44,7 @@ Incorporating data on global events such as:
 ## Data Sources for X-Seasonality Detection
 Collecting and integrating data from multiple sources is crucial:
 - **Economic Calendars**: Providing dates and forecasts for upcoming economic announcements.
-- **Financial News Feeds**: Reuters, Bloomberg, and other financial news agencies.
+- **Financial News Feeds**: [Reuters](../r/reuters.md), [Bloomberg](../b/bloomberg.md), and other financial news agencies.
 - **Government Websites**: Bureau of Labor Statistics (BLS), Federal Reserve, etc.
 - **Social Media Platforms**: Twitter API for real-time sentiment tracking.
 

@@ -61,7 +61,7 @@ J.P. Morgan utilizes advanced econometric models and machine learning techniques
 **For more information, visit [J.P. Morgan's Research Portal](https://www.jpmorgan.com/insights/research).**
 
 ### Bloomberg
-Bloomberg's Terminal provides access to a suite of tools that leverage various forecasting techniques. These tools help traders and analysts generate and refine their growth projections.
+[Bloomberg](../b/bloomberg.md)'s Terminal provides access to a suite of tools that leverage various forecasting techniques. These tools help traders and analysts generate and refine their growth projections.
 
 **For more details, explore [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/).**
 

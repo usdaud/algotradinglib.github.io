@@ -72,7 +72,7 @@ Share price analysis is a critical aspect of financial markets. It involves the 
 
 ### Companies Offering Algorithmic Trading Solutions
 
-- **QuantConnect**: An open [algorithmic trading](../a/algorithmic_trading.md) platform that provides data for [backtesting](../b/backtesting.md) strategies.
+- **[QuantConnect](../q/quantconnect.md)**: An open [algorithmic trading](../a/algorithmic_trading.md) platform that provides data for [backtesting](../b/backtesting.md) strategies.
 - **[QuantConnect](https://www.quantconnect.com)**
 - **Alpha Vantage**: Offers a rich set of APIs for financial data for simulation.
 - **[Alpha Vantage](https://www.alphavantage.co)**
@@ -110,10 +110,10 @@ Modern share price analysis often integrates various methodologies. Combining fu
 
 ### Integrated Systems
 
-- **Bloomberg Terminal**: Offers a wide range of financial data, news, and analytics tools all in one place.
+- **[Bloomberg](../b/bloomberg.md) Terminal**: Offers a wide range of financial data, news, and analytics tools all in one place.
 - **[Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)**
 
-- **Thomson Reuters Eikon**: Provides access to extensive financial analysis tools and market data.
+- **Thomson [Reuters](../r/reuters.md) Eikon**: Provides access to extensive financial analysis tools and market data.
 - **[Thomson Reuters Eikon](https://financial.thomsonreuters.com/en/products/tools-applications/trading-investment-tools/eikon-trading-software.html)**
 
 ## Conclusion

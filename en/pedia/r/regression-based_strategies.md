@@ -1,6 +1,6 @@
 # Regression-Based Strategies
 
-Regression-based strategies in algorithmic trading leverage statistical methods to predict the future price movements of financial assets. These strategies utilize regression analysis to model the relationship between different financial variables and the price of the asset of interest. By analyzing historical data, traders aim to identify patterns and correlations that can suggest profitable trades. There are several types of regression methods used in algorithmic trading, including linear regression, logistic regression, polynomial regression, and ridge regression, among others. This article delves into the intricacies of each type, their applications, advantages, and limitations in the context of trading.
+Regression-based strategies in [algorithmic trading](../a/algorithmic_trading.md) leverage statistical methods to predict the future price movements of financial assets. These strategies utilize [regression analysis](../r/regression_analysis.md) to model the relationship between different financial variables and the price of the asset of interest. By analyzing historical data, traders aim to identify patterns and correlations that can suggest profitable trades. There are several types of regression methods used in [algorithmic trading](../a/algorithmic_trading.md), including [linear regression](../l/linear_regression.md), logistic regression, polynomial regression, and ridge regression, among others. This article delves into the intricacies of each type, their applications, advantages, and limitations in the context of trading.
 
 ### Linear Regression
 
@@ -105,7 +105,7 @@ Here, \( \lambda \) is the regularization parameter that controls the penalty on
 2. **Statsmodels**: Another Python library that offers more detailed statistical modelling and [regression analysis](../r/regression_analysis.md).
    - [Statsmodels](https://www.statsmodels.org/stable/index.html)
 
-3. **QuantConnect**: A platform that allows algorithmic traders to backtest and deploy regression-based strategies.
+3. **[QuantConnect](../q/quantconnect.md)**: A platform that allows algorithmic traders to backtest and deploy regression-based strategies.
    - [QuantConnect](https://www.quantconnect.com)
 
 ### Conclusion

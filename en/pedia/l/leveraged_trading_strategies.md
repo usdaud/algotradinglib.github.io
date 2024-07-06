@@ -71,7 +71,7 @@ MetaTrader is a widely used platform that offers leverage trading options, provi
 
 Leveraged trading is highly regulated due to its potential to magnify both gains and losses. Different regions have varying leverage limits and margin requirements to protect investors and maintain market stability.
 
-- **United States**: The Financial Industry Regulatory Authority (FINRA) and the [Commodity Futures](../c/commodity_futures.md) Trading Commission (CFTC) impose strict margin requirements.
+- **United States**: The Financial Industry Regulatory Authority ([FINRA](../f/finra.md)) and the [Commodity Futures](../c/commodity_futures.md) Trading Commission (CFTC) impose strict margin requirements.
 - **European Union**: The European Securities and Markets Authority (ESMA) introduced leverage caps for retail traders.
 - **Asia**: Markets like Japan and Singapore have their regulatory frameworks governing [leverage ratios](../l/leverage_ratios.md) and [margin trading](../m/margin_trading.md).
 

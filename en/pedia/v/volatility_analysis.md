@@ -118,7 +118,7 @@ D.E. Shaw & Co. integrates a broad array of quantitative techniques to manage ri
 
 ### Retail Traders and Volatility Tools
 
-Retail traders also have access to a range of tools and platforms that facilitate volatility analysis. Trading platforms like Thinkorswim, MetaTrader, and TradingView offer advanced charting tools, volatility indicators, and strategy [backtesting](../b/backtesting.md) capabilities. By utilizing these tools, retail traders can develop and implement volatility-based [trading strategies](../t/trading_strategies.md).
+Retail traders also have access to a range of tools and platforms that facilitate volatility analysis. Trading platforms like [Thinkorswim](../t/thinkorswim.md), MetaTrader, and [TradingView](../t/tradingview.md) offer advanced charting tools, volatility indicators, and strategy [backtesting](../b/backtesting.md) capabilities. By utilizing these tools, retail traders can develop and implement volatility-based [trading strategies](../t/trading_strategies.md).
 
 ## Conclusion
 

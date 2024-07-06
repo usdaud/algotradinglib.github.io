@@ -64,13 +64,13 @@ The 4WMA can also help in analyzing longer-term [market cycles](../m/market_cycl
 
 ## Implementing 4-Week Moving Average in Trading Platforms
 
-Most trading platforms, including MetaTrader, TradingView, and Thinkorswim, offer built-in tools for calculating and visualizing moving averages, including the 4WMA. Traders can easily add the 4WMA to their charts and customize it to their preferences.
+Most trading platforms, including MetaTrader, [TradingView](../t/tradingview.md), and [Thinkorswim](../t/thinkorswim.md), offer built-in tools for calculating and visualizing moving averages, including the 4WMA. Traders can easily add the 4WMA to their charts and customize it to their preferences.
 
 ### Example Using TradingView
 
-On TradingView, adding a 4WMA to your chart is simple:
+On [TradingView](../t/tradingview.md), adding a 4WMA to your chart is simple:
 
-1. Open the TradingView platform and select your asset/chart.
+1. Open the [TradingView](../t/tradingview.md) platform and select your asset/chart.
 2. Click on the 'Indicators' tab at the top of the screen.
 3. In the search bar, type "Moving Average."
 4. Select the "Moving Average" option from the list.

@@ -87,7 +87,7 @@ Several companies provide solutions and tools for volatility forecasting:
 
 ### QuantConnect
 
-QuantConnect offers a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports various volatility forecasting methods, including [GARCH models](../g/garch_models.md) and machine learning algorithms. Learn more at [QuantConnect](https://www.quantconnect.com/).
+[QuantConnect](../q/quantconnect.md) offers a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports various volatility forecasting methods, including [GARCH models](../g/garch_models.md) and machine learning algorithms. Learn more at [QuantConnect](https://www.quantconnect.com/).
 
 ### Alpha Vantage
 

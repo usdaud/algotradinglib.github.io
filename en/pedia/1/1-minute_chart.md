@@ -72,7 +72,7 @@ High-frequency trading (HFT) firms are possibly the most prolific users of 1-min
 
 ### Individual Traders
 
-While larger firms dominate, individual traders can also exploit the advantages of 1-minute charts. Tools such as MetaTrader 4 (MT4), TradeStation, and NinjaTrader provide functionalities to implement and monitor 1-minute chart-based strategies effectively.
+While larger firms dominate, individual traders can also exploit the advantages of 1-minute charts. Tools such as MetaTrader 4 (MT4), [TradeStation](../t/tradestation.md), and [NinjaTrader](../n/ninjatrader.md) provide functionalities to implement and monitor 1-minute chart-based strategies effectively.
 
 ## Tools and Software for 1-Minute Chart Algotrading
 
@@ -84,25 +84,25 @@ MetaTrader 4 is a popular trading platform that allows for the application of Ex
 
 ### TradeStation
 
-TradeStation offers a robust platform for creating and deploying algotrading strategies. It supports 1-minute charting and provides a suite of development tools for custom strategies.
+[TradeStation](../t/tradestation.md) offers a robust platform for creating and deploying algotrading strategies. It supports 1-minute charting and provides a suite of development tools for custom strategies.
 
 **Website**: [TradeStation](https://www.tradestation.com/)
 
 ### NinjaTrader
 
-NinjaTrader is another powerful platform that supports 1-minute charting. It provides advanced charting tools, [backtesting](../b/backtesting.md) capabilities, and a programming environment for developing algotrading strategies.
+[NinjaTrader](../n/ninjatrader.md) is another powerful platform that supports 1-minute charting. It provides advanced charting tools, [backtesting](../b/backtesting.md) capabilities, and a programming environment for developing algotrading strategies.
 
 **Website**: [NinjaTrader](https://ninjatrader.com/)
 
 ### QuantConnect
 
-QuantConnect is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple asset classes and time frames, including 1-minute charts. It offers extensive libraries and data sets for [backtesting](../b/backtesting.md) and live trading.
+[QuantConnect](../q/quantconnect.md) is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple asset classes and time frames, including 1-minute charts. It offers extensive libraries and data sets for [backtesting](../b/backtesting.md) and live trading.
 
 **Website**: [QuantConnect](https://www.quantconnect.com/)
 
 ### AlgoTrader
 
-AlgoTrader is an institutional-grade [algorithmic trading](../a/algorithmic_trading.md) software that supports 1-minute chart data for high-frequency [trading strategies](../t/trading_strategies.md). It provides a comprehensive framework for the development, testing, and deployment of [trading algorithms](../t/trading_algorithms.md).
+[AlgoTrader](../a/algotrader.md) is an institutional-grade [algorithmic trading](../a/algorithmic_trading.md) software that supports 1-minute chart data for high-frequency [trading strategies](../t/trading_strategies.md). It provides a comprehensive framework for the development, testing, and deployment of [trading algorithms](../t/trading_algorithms.md).
 
 **Website**: [AlgoTrader](https://www.algotrader.com/)
 

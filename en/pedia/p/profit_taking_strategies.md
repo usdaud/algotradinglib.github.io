@@ -54,7 +54,7 @@ Even the best algorithm requires monitoring and adjustments. Market conditions c
 
 ### Step 5: Automation and Execution
 
-Once the strategy is fine-tuned, automate it using a trading platform or programming language that supports [algorithmic trading](../a/algorithmic_trading.md). Popular platforms include MetaTrader, NinjaTrader, and custom solutions developed in languages such as Python or C++.
+Once the strategy is fine-tuned, automate it using a trading platform or programming language that supports [algorithmic trading](../a/algorithmic_trading.md). Popular platforms include MetaTrader, [NinjaTrader](../n/ninjatrader.md), and custom solutions developed in languages such as Python or C++.
 
 ## Examples of Profit Taking in Action
 

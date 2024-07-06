@@ -90,7 +90,7 @@ When back-testing strategies on 5-minute charts, there is a risk of overfitting 
 ## Tools and Platforms
 
 ### TradingView
-TradingView offers a range of charting tools, including 5-minute charts, for various financial instruments. It provides a user-friendly interface and [advanced technical analysis](../a/advanced_technical_analysis.md) features.
+[TradingView](../t/tradingview.md) offers a range of charting tools, including 5-minute charts, for various financial instruments. It provides a user-friendly interface and [advanced technical analysis](../a/advanced_technical_analysis.md) features.
 
 ### MetaTrader 4/5
 MetaTrader platforms are popular among Forex traders. They offer robust [algorithmic trading](../a/algorithmic_trading.md) capabilities and support for 5-minute charts, making them suitable for both manual and automated trading.
@@ -99,7 +99,7 @@ MetaTrader platforms are popular among Forex traders. They offer robust [algorit
 Interactive Brokers provide access to a wide range of financial instruments and advanced charting tools. Their platform supports 5-minute charts and integrates seamlessly with [algorithmic trading](../a/algorithmic_trading.md) scripts.
 
 ### AlgoTrader
-AlgoTrader is an institutional-grade [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple asset classes. It offers real-time data, analytics, and execution capabilities using 5-minute charts.
+[AlgoTrader](../a/algotrader.md) is an institutional-grade [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple asset classes. It offers real-time data, analytics, and execution capabilities using 5-minute charts.
 
 ## Conclusion
 

@@ -30,7 +30,7 @@ Another important metric is the days-to-cover ratio, which measures how many day
 
 Reliable and timely data is crucial for accurate short interest analysis. The data can be sourced from:
 - **Stock Exchanges**: Major exchanges like NYSE and NASDAQ provide bi-monthly short interest updates.
-- **Financial Data Providers**: Platforms like Bloomberg, Reuters, and Morningstar offer detailed short interest data.
+- **Financial Data Providers**: Platforms like [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), and [Morningstar](../m/morningstar.md) offer detailed short interest data.
 - **Third-Party Analytics Firms**: Companies like S3 Partners (https://s3partners.com) specialize in short interest analytics.
 
 ## Tools and Algorithms for Short Interest Analysis

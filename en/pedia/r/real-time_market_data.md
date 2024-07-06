@@ -36,11 +36,11 @@ There are several key sources from which real-time market data is obtained:
 
 1. **Exchanges**: Primary sources include major stock exchanges like the New York Stock Exchange (NYSE), NASDAQ, and international exchanges such as the London Stock Exchange (LSE) and Tokyo Stock Exchange (TSE).
 
-2. **Data Vendors**: Companies such as Bloomberg ([www.bloomberg.com](https://www.bloomberg.com)), Thomson Reuters ([www.thomsonreuters.com](https://www.thomsonreuters.com)), and Refinitiv ([www.refinitiv.com](https://www.refinitiv.com)) provide subscription-based access to real-time data.
+2. **Data Vendors**: Companies such as [Bloomberg](../b/bloomberg.md) ([www.bloomberg.com](https://www.bloomberg.com)), Thomson [Reuters](../r/reuters.md) ([www.thomsonreuters.com](https://www.thomsonreuters.com)), and Refinitiv ([www.refinitiv.com](https://www.refinitiv.com)) provide subscription-based access to real-time data.
 
 3. **Brokerages**: Many brokerage firms offer real-time market data to their clients as part of their trading platforms. Firms like Charles Schwab ([www.schwab.com](https://www.schwab.com)) and TD Ameritrade ([www.tdameritrade.com](https://www.tdameritrade.com)) are notable examples.
 
-4. **APIs and Data Feeds**: Financial data providers such as Alpha Vantage ([www.alphavantage.co](https://www.alphavantage.co)), IEX Cloud ([iexcloud.io](https://iexcloud.io)), and Quandl ([www.quandl.com](https://www.quandl.com)) offer APIs for real-time market data feeds.
+4. **APIs and Data Feeds**: Financial data providers such as Alpha Vantage ([www.alphavantage.co](https://www.alphavantage.co)), IEX Cloud ([iexcloud.io](https://iexcloud.io)), and [Quandl](../q/quandl.md) ([www.quandl.com](https://www.quandl.com)) offer APIs for real-time market data feeds.
 
 ## Technologies Used in Real-Time Market Data
 

@@ -73,8 +73,8 @@ The term structure is crucial for determining the present value of future cash f
 
 - **U.S. Department of the Treasury**: Provides daily [yield curve](../y/yield_curve.md) rates for U.S. Treasury securities, which are essential for analyzing the term structure.
 - **Federal Reserve**: The Federal Reserve’s monetary policy impacts interest rates significantly, making its announcements critical for shaping the [yield curve](../y/yield_curve.md).
-- **Bloomberg**: Offers comprehensive financial data and tools for modeling and analyzing interest rate term structures ([Bloomberg](https://www.bloomberg.com)).
-- **Reuters**: A source for real-time financial market data, including bond yield information ([Reuters](https://www.reuters.com)).
+- **[Bloomberg](../b/bloomberg.md)**: Offers comprehensive financial data and tools for modeling and analyzing interest rate term structures ([Bloomberg](https://www.bloomberg.com)).
+- **[Reuters](../r/reuters.md)**: A source for real-time financial market data, including bond yield information ([Reuters](https://www.reuters.com)).
 
 ### Conclusion
 

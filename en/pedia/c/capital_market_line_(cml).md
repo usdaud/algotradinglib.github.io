@@ -79,11 +79,11 @@ Several companies and platforms leverage the concepts of the CML for [portfolio 
 
 - **BlackRock Aladdin**: BlackRock's Aladdin platform offers comprehensive tools for [portfolio management](../p/portfolio_management.md), risk assessment, and investment decision-making, grounded in principles like the CML. [BlackRock Aladdin](https://www.blackrock.com/aladdin)
 
-- **Morningstar Direct**: This platform provides investment research and [portfolio analysis](../p/portfolio_analysis.md) tools, enabling users to evaluate portfolios against benchmarks like the CML. [Morningstar Direct](https://www.morningstar.com/products/direct)
+- **[Morningstar](../m/morningstar.md) Direct**: This platform provides investment research and [portfolio analysis](../p/portfolio_analysis.md) tools, enabling users to evaluate portfolios against benchmarks like the CML. [Morningstar Direct](https://www.morningstar.com/products/direct)
 
-- **Bloomberg Professional Services (Terminal)**: Bloomberg Terminal provides extensive financial data, analytics, and tools for portfolio construction and [performance benchmarking](../p/performance_benchmarking.md), incorporating CML and other MPT concepts. [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal)
+- **[Bloomberg](../b/bloomberg.md) Professional Services (Terminal)**: [Bloomberg](../b/bloomberg.md) Terminal provides extensive financial data, analytics, and tools for portfolio construction and [performance benchmarking](../p/performance_benchmarking.md), incorporating CML and other MPT concepts. [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal)
 
-- **FactSet**: FactSet offers integrated financial information and analytical applications to help users optimize portfolios and assess [performance metrics](../p/performance_metrics.md) within the CML framework. [FactSet](https://www.factset.com)
+- **[FactSet](../f/factset.md)**: [FactSet](../f/factset.md) offers integrated financial information and analytical applications to help users optimize portfolios and assess [performance metrics](../p/performance_metrics.md) within the CML framework. [FactSet](https://www.factset.com)
 
 ## Conclusion
 

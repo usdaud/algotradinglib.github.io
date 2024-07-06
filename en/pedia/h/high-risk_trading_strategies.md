@@ -1,6 +1,6 @@
 # High-Risk Trading Strategies
 
-High-risk trading strategies refer to approaches employed in financial markets that involve substantial risk and the potential for significant losses, often in exchange for the potential of high returns. These strategies are generally characterized by high volatility and high leverage, and they are typically implemented in various financial instruments such as stocks, options, futures, and currencies. High-risk trading strategies are often utilized by seasoned traders, hedge funds, and proprietary trading firms, although they can be employed by individual investors with a high-risk tolerance. Below is an in-depth exploration of some of the most common high-risk trading strategies.
+High-risk [trading strategies](../t/trading_strategies.md) refer to approaches employed in financial markets that involve substantial risk and the potential for significant losses, often in exchange for the potential of high returns. These strategies are generally characterized by high volatility and high leverage, and they are typically implemented in various financial instruments such as stocks, options, futures, and currencies. High-risk [trading strategies](../t/trading_strategies.md) are often utilized by seasoned traders, hedge funds, and [proprietary trading](../p/proprietary_trading.md) firms, although they can be employed by individual investors with a high-risk tolerance. Below is an in-depth exploration of some of the most common high-risk [trading strategies](../t/trading_strategies.md).
 
 ### 1. Leverage and Margin Trading
 

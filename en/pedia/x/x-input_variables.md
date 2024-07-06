@@ -111,15 +111,15 @@ Several companies specialize in providing the types of data needed for construct
 
 ### 1. Bloomberg [Bloomberg L.P.](https://www.bloomberg.com/company/)
 
-Bloomberg is a global leader in financial data and analytics. They provide a comprehensive suite of tools and datasets, including market data, [fundamental analysis](../f/fundamental_analysis.md), and news sentiment.
+[Bloomberg](../b/bloomberg.md) is a global leader in financial data and analytics. They provide a comprehensive suite of tools and datasets, including market data, [fundamental analysis](../f/fundamental_analysis.md), and news sentiment.
 
 ### 2. Refinitiv [Refinitiv](https://www.refinitiv.com)
 
-Refinitiv, formerly known as Thomson Reuters Financial & Risk, offers a wide range of financial data, including [real-time market data](../r/real-time_market_data.md), historical data, and analytics.
+Refinitiv, formerly known as Thomson [Reuters](../r/reuters.md) Financial & Risk, offers a wide range of financial data, including [real-time market data](../r/real-time_market_data.md), historical data, and analytics.
 
 ### 3. Quandl [Quandl](https://www.quandl.com)
 
-Quandl specializes in [alternative data](../a/alternative_data.md), offering unique datasets from non-traditional sources, such as satellite imagery, social media, and web traffic.
+[Quandl](../q/quandl.md) specializes in [alternative data](../a/alternative_data.md), offering unique datasets from non-traditional sources, such as satellite imagery, social media, and web traffic.
 
 ### 4. Sentifi [Sentifi](https://sentifi.com/)
 

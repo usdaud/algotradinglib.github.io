@@ -25,7 +25,7 @@ Java is a robust, high-performance, and widely-used programming language with se
 1. **Apache Commons Math**: A library providing machine learning and statistical analysis tools. (Website: [Apache Commons Math](http://commons.apache.org/proper/commons-math/))
 2. **JFreeChart**: A free Java chart library that makes it easy to display charts and data visualizations. (Website: [JFreeChart](http://www.jfree.org/jfreechart/))
 3. **TA-Lib**: [Technical Analysis](../t/technical_analysis.md) Library for Java providing a wide variety of [technical analysis](../t/technical_analysis.md) functions. (Website: [TA-Lib](http://ta-lib.org/))
-4. **Market Data Providers**: Various APIs like Alpha Vantage and Quandl provide historical market data. (Website: [Alpha Vantage](https://www.alphavantage.co/), [Quandl](https://www.quandl.com/))
+4. **Market Data Providers**: Various APIs like Alpha Vantage and [Quandl](../q/quandl.md) provide historical market data. (Website: [Alpha Vantage](https://www.alphavantage.co/), [Quandl](https://www.quandl.com/))
 
 ### Implementing a Backtesting Framework in Java
 

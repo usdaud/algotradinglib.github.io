@@ -75,8 +75,8 @@ A diagonal spread combines elements of vertical and calendar spreads. It involve
 
 ### Platforms for Algorithmic Spread Trading
 
-- **QuantConnect**: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports [options trading strategies](../o/options_trading_strategies.md), including vertical spreads. [QuantConnect](https://www.quantconnect.com/)
-- **TradeStation**: Offers a robust platform for designing, testing, and executing algorithmic strategies. [TradeStation](https://www.tradestation.com/)
+- **[QuantConnect](../q/quantconnect.md)**: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports [options trading strategies](../o/options_trading_strategies.md), including vertical spreads. [QuantConnect](https://www.quantconnect.com/)
+- **[TradeStation](../t/tradestation.md)**: Offers a robust platform for designing, testing, and executing algorithmic strategies. [TradeStation](https://www.tradestation.com/)
 
 ## Conclusion
 

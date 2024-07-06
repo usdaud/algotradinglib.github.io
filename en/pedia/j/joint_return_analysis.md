@@ -52,7 +52,7 @@ Long Short-Term Memory (LSTM) networks, a type of recurrent neural network (RNN)
 
 ### Data Sources and Tools
 
-Accurate and high-frequency data is critical for effective Joint Return Analysis. Companies like Bloomberg (https://www.bloomberg.com) and Reuters provide comprehensive financial datasets.
+Accurate and high-frequency data is critical for effective Joint Return Analysis. Companies like [Bloomberg](../b/bloomberg.md) (https://www.[bloomberg](../b/bloomberg.md).com) and [Reuters](../r/reuters.md) provide comprehensive financial datasets.
 
 ### Software
 

@@ -79,7 +79,7 @@ The trinomial tree model subdivides the price movements further to provide more 
 
 Lattice-based models have found widespread application in financial technology companies and investment firms focusing on derivative pricing, [risk management](../r/risk_management.md), and [algorithmic trading](../a/algorithmic_trading.md). Some companies renowned for utilizing advanced mathematical models include:
 
-- **QuantConnect**: A platform providing [algorithmic trading](../a/algorithmic_trading.md) and [backtesting](../b/backtesting.md) engines that integrate various financial models, including lattice-based approaches.
+- **[QuantConnect](../q/quantconnect.md)**: A platform providing [algorithmic trading](../a/algorithmic_trading.md) and [backtesting](../b/backtesting.md) engines that integrate various financial models, including lattice-based approaches.
   [QuantConnect](https://www.quantconnect.com/)
 
 - **Numerix**: Specializes in advanced analytics for [derivatives](../d/derivatives.md), utilizing sophisticated models and computational techniques.

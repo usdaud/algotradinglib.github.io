@@ -51,7 +51,7 @@ Advanced tools and software are essential for effective market [risk analysis](.
 
 ### Bloomberg Terminal
 
-The Bloomberg Terminal is a sophisticated and widely used tool that offers real-time data, analytics, and news for financial professionals. It provides comprehensive market risk analytics, including VaR, stress testing, and scenario analysis. More information can be found at [Bloomberg Professional](https://www.bloomberg.com/professional/solution/bloomberg-terminal/).
+The [Bloomberg](../b/bloomberg.md) Terminal is a sophisticated and widely used tool that offers real-time data, analytics, and news for financial professionals. It provides comprehensive market risk analytics, including VaR, stress testing, and scenario analysis. More information can be found at [Bloomberg Professional](https://www.bloomberg.com/professional/solution/bloomberg-terminal/).
 
 ### MSCI Barra
 
@@ -65,8 +65,8 @@ RiskMetrics, now part of MSCI, provides a range of [risk management](../r/risk_m
 
 [Algorithmic trading](../a/algorithmic_trading.md) platforms often come with built-in [risk management](../r/risk_management.md) tools that help traders and institutions manage their market risk. Some popular platforms include:
 
-- **QuantConnect:** An open-source, cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform offering [risk management](../r/risk_management.md) frameworks. More information can be found at [QuantConnect](https://www.quantconnect.com/).
-- **AlgoTrader:** Provides [algorithmic trading](../a/algorithmic_trading.md) software with integrated [risk management](../r/risk_management.md) features. More information can be found at [AlgoTrader](https://www.algotrader.com/).
+- **[QuantConnect](../q/quantconnect.md):** An open-source, cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform offering [risk management](../r/risk_management.md) frameworks. More information can be found at [QuantConnect](https://www.quantconnect.com/).
+- **[AlgoTrader](../a/algotrader.md):** Provides [algorithmic trading](../a/algorithmic_trading.md) software with integrated [risk management](../r/risk_management.md) features. More information can be found at [AlgoTrader](https://www.algotrader.com/).
 
 ## Regulatory Framework for Market Risk
 

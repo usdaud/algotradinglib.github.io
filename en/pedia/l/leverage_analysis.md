@@ -92,7 +92,7 @@ Leverage is intrinsic to futures and options contracts, as these [derivatives](.
 Regulations around leverage vary by country and market. Regulatory bodies impose limits on [leverage ratios](../l/leverage_ratios.md) to protect traders and maintain market stability.
 
 #### United States
-In the U.S., the Financial Industry Regulatory Authority (FINRA) sets margin requirements for trading stocks, typically allowing up to 2:1 leverage. The [Commodity Futures](../c/commodity_futures.md) Trading Commission (CFTC) regulates leverage in the forex market, with a maximum of 50:1 for major currency pairs.
+In the U.S., the Financial Industry Regulatory Authority ([FINRA](../f/finra.md)) sets margin requirements for trading stocks, typically allowing up to 2:1 leverage. The [Commodity Futures](../c/commodity_futures.md) Trading Commission (CFTC) regulates leverage in the forex market, with a maximum of 50:1 for major currency pairs.
 
 #### European Union
 The European Securities and Markets Authority (ESMA) has introduced restrictions to limit the maximum leverage available to retail traders. For forex trading, the leverage cap is 30:1 for major currency pairs.
@@ -108,7 +108,7 @@ Several tools and platforms are available to facilitate leveraged trading in alg
 MetaTrader is a popular trading platform that supports leveraged trading and algorithmic strategies. It offers robust tools for [backtesting](../b/backtesting.md) and automated execution.
 
 #### QuantConnect
-QuantConnect provides a cloud-based platform for developing and [backtesting](../b/backtesting.md) [algorithmic trading](../a/algorithmic_trading.md) strategies. It supports multiple asset classes and offers integration with various brokers for live trading.
+[QuantConnect](../q/quantconnect.md) provides a cloud-based platform for developing and [backtesting](../b/backtesting.md) [algorithmic trading](../a/algorithmic_trading.md) strategies. It supports multiple asset classes and offers integration with various brokers for live trading.
 
 [QuantConnect](https://www.quantconnect.com/)
 

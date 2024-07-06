@@ -100,9 +100,9 @@ Algotrading platforms integrate [risk management](../r/risk_management.md) frame
 
 Several companies provide sophisticated tools and platforms that support nominal [yield analysis](../y/yield_analysis.md) and algotrading strategies. These include:
 
-- **Bloomberg**: Offers a comprehensive suite of financial tools, including [yield analysis](../y/yield_analysis.md), trading platforms, and [risk management](../r/risk_management.md) solutions. [Bloomberg](https://www.bloomberg.com/)
-- **Thomson Reuters**: Provides financial data and analytics, with extensive features for bond [yield analysis](../y/yield_analysis.md) and trading. [Thomson Reuters](https://www.reuters.com/)
-- **FactSet**: A financial data and analytic company that helps investment professionals make informed decisions through robust [yield analysis](../y/yield_analysis.md) tools. [FactSet](https://www.factset.com/)
+- **[Bloomberg](../b/bloomberg.md)**: Offers a comprehensive suite of financial tools, including [yield analysis](../y/yield_analysis.md), trading platforms, and [risk management](../r/risk_management.md) solutions. [Bloomberg](https://www.bloomberg.com/)
+- **Thomson [Reuters](../r/reuters.md)**: Provides financial data and analytics, with extensive features for bond [yield analysis](../y/yield_analysis.md) and trading. [Thomson Reuters](https://www.reuters.com/)
+- **[FactSet](../f/factset.md)**: A financial data and analytic company that helps investment professionals make informed decisions through robust [yield analysis](../y/yield_analysis.md) tools. [FactSet](https://www.factset.com/)
 - **Trading Technologies**: Specializes in infrastructure for professional traders, including tools for high-frequency trading and [yield analysis](../y/yield_analysis.md). [Trading Technologies](https://www.tradingtechnologies.com/)
 
 ## Conclusion

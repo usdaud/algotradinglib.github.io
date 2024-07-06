@@ -66,13 +66,13 @@ Several software tools facilitate Intermarket Analysis by providing data and ana
 
 ### 1. Bloomberg Terminal
 
-The Bloomberg Terminal offers comprehensive data, news, and analytics across financial markets, making it a crucial tool for Intermarket Analysis. It allows users to track correlations and trends between different asset classes seamlessly.
+The [Bloomberg](../b/bloomberg.md) Terminal offers comprehensive data, news, and analytics across financial markets, making it a crucial tool for Intermarket Analysis. It allows users to track correlations and trends between different asset classes seamlessly.
 
 [Visit Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
 ### 2. Reuters Eikon
 
-Reuters Eikon is another powerful tool providing [real-time market data](../r/real-time_market_data.md) and analytics. It allows for extensive [cross-market analysis](../c/cross-market_analysis.md), indispensable for traders engaging in Intermarket Analysis.
+[Reuters](../r/reuters.md) Eikon is another powerful tool providing [real-time market data](../r/real-time_market_data.md) and analytics. It allows for extensive [cross-market analysis](../c/cross-market_analysis.md), indispensable for traders engaging in Intermarket Analysis.
 
 [Visit Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)
 

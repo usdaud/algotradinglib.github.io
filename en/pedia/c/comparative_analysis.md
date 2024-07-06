@@ -59,7 +59,7 @@ Indicates the maximum observed loss from a peak to a trough, providing insight i
 
 ### 4.1 QuantConnect
 
-QuantConnect is an open-source cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple asset classes and offers [backtesting](../b/backtesting.md) and live trading capabilities.
+[QuantConnect](../q/quantconnect.md) is an open-source cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple asset classes and offers [backtesting](../b/backtesting.md) and live trading capabilities.
 - [QuantConnect Official Site](https://www.quantconnect.com)
 
 ### 4.2 Algorithmic Trading by Interactive Brokers
@@ -74,7 +74,7 @@ MetaTrader is a widely used platform, particularly in Forex and CFD markets, off
 
 ### 4.4 TradeStation
 
-TradeStation provides a powerful suite of trading tools and supports [algorithmic trading](../a/algorithmic_trading.md) through EasyLanguage, a proprietary programming language.
+[TradeStation](../t/tradestation.md) provides a powerful suite of trading tools and supports [algorithmic trading](../a/algorithmic_trading.md) through EasyLanguage, a proprietary programming language.
 - [TradeStation Official Site](https://www.tradestation.com)
 
 ## 5. Advantages and Disadvantages

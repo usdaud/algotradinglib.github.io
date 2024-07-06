@@ -83,14 +83,14 @@ Integrating machine learning with X-[Trend Indicators](../t/trend_indicators.md)
 
 ### Backtesting
 
-[Backtesting](../b/backtesting.md) involves testing a trading strategy on historical data to evaluate its effectiveness. By using platforms such as QuantConnect or backtrader in Python, traders can simulate their strategies in a controlled environment before deploying them in live markets.
+[Backtesting](../b/backtesting.md) involves testing a trading strategy on historical data to evaluate its effectiveness. By using platforms such as [QuantConnect](../q/quantconnect.md) or [backtrader](../b/backtrader.md) in Python, traders can simulate their strategies in a controlled environment before deploying them in live markets.
 
 ## Popular Tools and Platforms
 
 Several platforms and tools facilitate the creation, [backtesting](../b/backtesting.md), and execution of [trading algorithms](../t/trading_algorithms.md) using X-[Trend Indicators](../t/trend_indicators.md):
 
-- **QuantConnect:** An [algorithmic trading](../a/algorithmic_trading.md) platform that supports extensive [backtesting](../b/backtesting.md) and deployment across multiple asset classes. For more information, visit [QuantConnect](https://www.quantconnect.com/).
-- **TradeStation:** Offers advanced trading analytics and strategy building tools. Learn more at [TradeStation](https://www.tradestation.com/).
+- **[QuantConnect](../q/quantconnect.md):** An [algorithmic trading](../a/algorithmic_trading.md) platform that supports extensive [backtesting](../b/backtesting.md) and deployment across multiple asset classes. For more information, visit [QuantConnect](https://www.quantconnect.com/).
+- **[TradeStation](../t/tradestation.md):** Offers advanced trading analytics and strategy building tools. Learn more at [TradeStation](https://www.tradestation.com/).
 - **MetaTrader:** A popular trading platform that allows for the automation of [trading strategies](../t/trading_strategies.md) using the MQL programming language. Refer to [MetaTrader 4](https://www.metatrader4.com/) for more details.
 - **Interactive Brokers:** Provides robust trading APIs for [algorithmic trading](../a/algorithmic_trading.md). Explore more at [Interactive Brokers](https://www.interactivebrokers.com/).
 

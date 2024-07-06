@@ -36,11 +36,11 @@ Several tools and platforms can assist in the quarterly profit analysis which ca
 
 1. **Yahoo Finance**: Provides comprehensive financial data and quarterly reports for numerous companies.
 
-2. **Bloomberg Terminal**: A powerful tool for real-time financial data and analytics.
+2. **[Bloomberg](../b/bloomberg.md) Terminal**: A powerful tool for real-time financial data and analytics.
 
-3. **Thomson Reuters Eikon**: Offers financial analysis and trading tools with in-depth quarterly data.
+3. **Thomson [Reuters](../r/reuters.md) Eikon**: Offers financial analysis and trading tools with in-depth quarterly data.
 
-4. **Morningstar**: Provides extensive financial data, including quarterly profit analysis.
+4. **[Morningstar](../m/morningstar.md)**: Provides extensive financial data, including quarterly profit analysis.
 
 5. **XBRL (eXtensible Business Reporting Language)**: Facilitates automated data processing of financial statements for more efficient analysis.
 
@@ -86,7 +86,7 @@ Quarterly profit analysis is indispensable for understanding a company's financi
 For further details and collaboration, visiting companies' official finance pages and integrating their data feeds can provide more granular insights:
 - **Apple Inc.** - [Apple Investor Relations](https://investor.apple.com/)
 - **Yahoo Finance** - [Yahoo Finance](https://finance.yahoo.com/)
-- **Bloomberg Terminal** - [Bloomberg Professional](https://www.bloomberg.com/professional/)
-- **Thomson Reuters Eikon** - [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)
+- **[Bloomberg](../b/bloomberg.md) Terminal** - [Bloomberg Professional](https://www.bloomberg.com/professional/)
+- **Thomson [Reuters](../r/reuters.md) Eikon** - [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)
 
 By diligently applying quarterly profit analysis, traders can better position themselves to capitalize on market opportunities and mitigate risks.

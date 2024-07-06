@@ -124,13 +124,13 @@ Several companies provide platforms and tools for implementing premium capture s
 Interactive Brokers offers a suite of advanced trading tools, including an options analytics platform that supports premium capture strategies. Their Trader Workstation (TWS) and API allow for sophisticated [algorithmic trading](../a/algorithmic_trading.md).
 
 ### 2. **TD Ameritrade** [TD Ameritrade](https://www.tdameritrade.com/)
-TD Ameritrade’s thinkorswim platform provides extensive resources for developing and [backtesting](../b/backtesting.md) option strategies. Their API also supports [algorithmic trading](../a/algorithmic_trading.md).
+TD Ameritrade’s [thinkorswim](../t/thinkorswim.md) platform provides extensive resources for developing and [backtesting](../b/backtesting.md) option strategies. Their API also supports [algorithmic trading](../a/algorithmic_trading.md).
 
 ### 3. **Tastyworks** [Tastyworks](https://www.tastyworks.com/)
 Tastyworks specializes in options trading with a focus on innovative strategies. They offer educational resources and a trading platform designed specifically for options traders.
 
 ### 4. **QuantConnect** [QuantConnect](https://www.quantconnect.com/)
-QuantConnect is a highly popular open-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports the design and execution of premium capture strategies. It provides access to historical data and a robust [backtesting](../b/backtesting.md) environment.
+[QuantConnect](../q/quantconnect.md) is a highly popular open-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports the design and execution of premium capture strategies. It provides access to historical data and a robust [backtesting](../b/backtesting.md) environment.
 
 ### 5. **OneOption** [OneOption](https://www.oneoption.com/)
 OneOption offers tools and resources geared toward options traders, including [proprietary algorithms](../p/proprietary_algorithms.md) that can be customized for premium capture.

@@ -30,13 +30,13 @@ Reversal trading aims to capitalize on the change in the direction of a price tr
 ## Essential Tools for Day Trading
 
 ### 1. Trading Platforms
-Day traders rely on advanced trading platforms that provide comprehensive charting tools, real-time news, and fast execution speeds. Popular platforms include **MetaTrader**, **Thinkorswim** by TD Ameritrade, and **Interactive Brokers**.
+Day traders rely on advanced trading platforms that provide comprehensive charting tools, real-time news, and fast execution speeds. Popular platforms include **MetaTrader**, **[Thinkorswim](../t/thinkorswim.md)** by TD Ameritrade, and **Interactive Brokers**.
 
 ### 2. Technical Indicators
 [Technical indicators](../t/technical_indicators.md) are mathematical calculations based on historic price, volume, or open interest information. Commonly used indicators include moving averages, [Bollinger Bands](../b/bollinger_bands.md), MACD, and Relative Strength Index (RSI).
 
 ### 3. News Feeds
-Day trading is often driven by the latest news. Economic announcements, earnings reports, or [geopolitical events](../g/geopolitical_events.md) can significantly impact market conditions. Services like **Bloomberg Terminal** and **Reuters** provide real-time news updates.
+Day trading is often driven by the latest news. Economic announcements, earnings reports, or [geopolitical events](../g/geopolitical_events.md) can significantly impact market conditions. Services like **[Bloomberg](../b/bloomberg.md) Terminal** and **[Reuters](../r/reuters.md)** provide real-time news updates.
 
 ## Enhancing Skills: Continuous Learning and Adaptability
 
@@ -76,8 +76,8 @@ Machine learning and AI can analyze vast amounts of data to identify patterns th
 
 ### Prominent Companies and Platforms in Algorithmic Day Trading
 
-- **QuantConnect**: An [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools for traders to design, backtest, and deploy [trading strategies](../t/trading_strategies.md). [QuantConnect](https://www.quantconnect.com/)
-- **AlgoTrader**: A fully integrated [algorithmic trading](../a/algorithmic_trading.md) software solution for quantitative funds. [AlgoTrader](https://www.algotrader.com/)
+- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools for traders to design, backtest, and deploy [trading strategies](../t/trading_strategies.md). [QuantConnect](https://www.quantconnect.com/)
+- **[AlgoTrader](../a/algotrader.md)**: A fully integrated [algorithmic trading](../a/algorithmic_trading.md) software solution for quantitative funds. [AlgoTrader](https://www.algotrader.com/)
 - **Quantopian**: Although discontinued, it was a crucial platform that allowed traders to develop and test [trading strategies](../t/trading_strategies.md). [Quantopian](https://www.quantopian.com/)
 - **Kavout**: A pioneer in AI-driven trading, offering private investment firms [predictive analytics](../p/predictive_analytics.md). [Kavout](https://www.kavout.com/)
 
@@ -96,7 +96,7 @@ Handling emotions is crucial for success. Traders often implement strategies lik
 Day trading is subject to regulatory oversight to protect the integrity of financial markets and ensure the protection of traders. Regulated exchanges and brokers must comply with rules set by financial authorities.
 
 ### 1. Pattern Day Trader (PDT) Rule
-In the United States, the PDT rule mandates that traders who engage in four or more day trades within five business days must maintain a minimum equity of $25,000 in their margin accounts. This aligns with the Financial Industry Regulatory Authority’s (FINRA) requirements.
+In the United States, the PDT rule mandates that traders who engage in four or more day trades within five business days must maintain a minimum equity of $25,000 in their margin accounts. This aligns with the Financial Industry Regulatory Authority’s ([FINRA](../f/finra.md)) requirements.
 
 ### 2. Broker Regulations
 Brokers offering day trading services must be registered and comply with regulations from bodies like the **Securities and Exchange Commission (SEC)** in the US, the **Financial Conduct Authority (FCA)** in the UK, or the **Australian Securities and Investments Commission (ASIC)**.

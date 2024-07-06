@@ -55,9 +55,9 @@ There are various tools and software available to facilitate quantitative benchm
 
 3. **R**: Another powerful statistical software, R includes packages like quantmod and PerformanceAnalytics that aid in the quantitative benchmarking process.
 
-4. **TradingView**: A popular platform for traders that offers [backtesting](../b/backtesting.md) tools and [performance metrics](../p/performance_metrics.md) to benchmark [trading strategies](../t/trading_strategies.md).
+4. **[TradingView](../t/tradingview.md)**: A popular platform for traders that offers [backtesting](../b/backtesting.md) tools and [performance metrics](../p/performance_metrics.md) to benchmark [trading strategies](../t/trading_strategies.md).
 
-5. **QuantConnect**: An [algorithmic trading](../a/algorithmic_trading.md) platform that provides historical data, [backtesting](../b/backtesting.md) capabilities, and various [performance metrics](../p/performance_metrics.md).
+5. **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that provides historical data, [backtesting](../b/backtesting.md) capabilities, and various [performance metrics](../p/performance_metrics.md).
 
 ### Challenges in Quantitative Benchmarking
 
@@ -77,8 +77,8 @@ Quantitative benchmarking is a critical aspect of [algorithmic trading](../a/alg
 
 For further reading and deep dive into quantitative benchmarking, you can visit the following companies and platforms:
 
-- **QuantConnect**: [https://www.quantconnect.com](https://www.quantconnect.com)
-- **TradingView**: [https://www.tradingview.com](https://www.tradingview.com)
+- **[QuantConnect](../q/quantconnect.md)**: [https://www.quantconnect.com](https://www.quantconnect.com)
+- **[TradingView](../t/tradingview.md)**: [https://www.tradingview.com](https://www.tradingview.com)
 - **MATLAB**: [https://www.mathworks.com/products/matlab.html](https://www.mathworks.com/products/matlab.html)
 - **Python for Finance**: [https://www.python.org](https://www.python.org)
 - **R Project**: [https://www.r-project.org](https://www.r-project.org)

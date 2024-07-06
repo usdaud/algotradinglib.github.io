@@ -24,7 +24,7 @@ Companies issuing low-priced stocks come from a variety of industries, but many 
 
 ### OTC Markets
 
-OTC markets provide a platform for trading low-priced stocks with fewer regulatory requirements than major exchanges. The OTC Bulletin Board (OTCBB) and Pink Sheets are two well-known OTC markets where investors can find a wide array of low-priced stocks. The OTCBB is an electronic trading service offered by the Financial Industry Regulatory Authority (FINRA), while Pink Sheets are published by OTC Markets Group.
+OTC markets provide a platform for trading low-priced stocks with fewer regulatory requirements than major exchanges. The OTC Bulletin Board (OTCBB) and Pink Sheets are two well-known OTC markets where investors can find a wide array of low-priced stocks. The OTCBB is an electronic trading service offered by the Financial Industry Regulatory Authority ([FINRA](../f/finra.md)), while Pink Sheets are published by OTC Markets Group.
 
 #### OTCBB
 
@@ -70,7 +70,7 @@ The SEC regulates the U.S. securities markets and has rules designed to protect 
 
 ### FINRA
 
-FINRA oversees broker-dealers and enforces rules to ensure market integrity and investor protection. They have specific rules for trading low-priced stocks to mitigate fraud and protect investors.
+[FINRA](../f/finra.md) oversees broker-dealers and enforces rules to ensure market integrity and investor protection. They have specific rules for trading low-priced stocks to mitigate fraud and protect investors.
 
 [FINRA Website](https://www.finra.org)
 

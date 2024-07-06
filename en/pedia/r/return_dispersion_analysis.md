@@ -67,13 +67,13 @@ Consider a portfolio with three assets having returns of 10%, 5%, and 15%. The s
 ## Tools and Companies
 Several companies and financial platforms offer tools for conducting return dispersion analysis, including:
 
-- **Bloomberg Terminal:**
+- **[Bloomberg](../b/bloomberg.md) Terminal:**
   A leading financial tool providing robust analytics and metrics, including return dispersion analysis. [Bloomberg](https://www.bloomberg.com/professional/solution/terminal/).
   
-- **Morningstar:**
+- **[Morningstar](../m/morningstar.md):**
   Offers various analytics tools for [portfolio management](../p/portfolio_management.md) that include return dispersion analysis. [Morningstar](https://www.morningstar.com/lp/research).
   
-- **FactSet:**
+- **[FactSet](../f/factset.md):**
   Provides comprehensive financial data and analytics, including return dispersion metrics. [FactSet](https://www.factset.com/solutions/investment-management).
   
 - **[Risk Metrics](../r/risk_metrics.md) from MSCI:**

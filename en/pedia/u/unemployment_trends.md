@@ -39,7 +39,7 @@ The rise of [algorithmic trading](../a/algorithmic_trading.md) has prompted regu
 
 ### Compliance Officers
 
-- **Increased Regulatory Oversight**: Regulators such as the Securities and Exchange Commission (SEC) and the Financial Industry Regulatory Authority (FINRA) impose stringent requirements to monitor [algorithmic trading](../a/algorithmic_trading.md) activities, thereby increasing the demand for compliance officers.
+- **Increased Regulatory Oversight**: Regulators such as the Securities and Exchange Commission (SEC) and the Financial Industry Regulatory Authority ([FINRA](../f/finra.md)) impose stringent requirements to monitor [algorithmic trading](../a/algorithmic_trading.md) activities, thereby increasing the demand for compliance officers.
 - **[Risk Management](../r/risk_management.md) Roles**: With the increased potential for market manipulation and [flash crashes](../f/flash_crashes.md) due to [algorithmic trading](../a/algorithmic_trading.md), these roles are crucial in ensuring trading practices adhere to regulatory standards.
 
 ### Ethical Implications

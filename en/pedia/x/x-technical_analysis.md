@@ -1,6 +1,6 @@
 # X-Technical analysis
 
-Technical analysis is a methodology used to evaluate and predict the future price movements of financial securities, such as stocks, currencies, commodities, and cryptocurrencies. Unlike fundamental analysis, which considers the inherent value of a security based on economic and financial factors, technical analysis focuses solely on historical price and volume data. This approach relies on the idea that historical price movements are indicative of future trends and that patterns will repeat over time.
+[Technical analysis](../t/technical_analysis.md) is a methodology used to evaluate and predict the future price movements of financial securities, such as stocks, currencies, commodities, and cryptocurrencies. Unlike [fundamental analysis](../f/fundamental_analysis.md), which considers the inherent value of a security based on economic and financial factors, [technical analysis](../t/technical_analysis.md) focuses solely on historical price and volume data. This approach relies on the idea that historical price movements are indicative of future trends and that patterns will repeat over time.
 
 ## Key Concepts in Technical Analysis
 
@@ -79,9 +79,9 @@ Long-term investors use [technical analysis](../t/technical_analysis.md) to time
 
 Several platforms and tools are available for traders to perform [technical analysis](../t/technical_analysis.md). Some of the most popular ones include:
 
-- **TradingView:** A widely used charting platform that offers a range of [technical analysis](../t/technical_analysis.md) tools, indicators, and social features. Visit: [TradingView](https://www.tradingview.com/)
+- **[TradingView](../t/tradingview.md):** A widely used charting platform that offers a range of [technical analysis](../t/technical_analysis.md) tools, indicators, and social features. Visit: [TradingView](https://www.tradingview.com/)
 - **MetaTrader 4/5:** Popular trading platforms that offer advanced charting and [technical analysis](../t/technical_analysis.md) tools. Visit: [MetaTrader](https://www.metatrader5.com/)
-- **Thinkorswim by TD Ameritrade:** A comprehensive trading platform that provides [advanced technical analysis](../a/advanced_technical_analysis.md) tools and educational resources. Visit: [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
+- **[Thinkorswim](../t/thinkorswim.md) by TD Ameritrade:** A comprehensive trading platform that provides [advanced technical analysis](../a/advanced_technical_analysis.md) tools and educational resources. Visit: [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
 
 ## Conclusion
 

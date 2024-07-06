@@ -98,11 +98,11 @@ There are several software platforms and tools used to calculate and analyze 1-D
 ### Trading Platforms
 
 1. **MetaTrader 4/5**: Popular trading platforms that offer built-in indicators and custom scripting capabilities to analyze volatility.
-2. **QuantConnect**: An [algorithmic trading](../a/algorithmic_trading.md) platform that supports data import, strategy development, and [backtesting](../b/backtesting.md) using historical data.
+2. **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that supports data import, strategy development, and [backtesting](../b/backtesting.md) using historical data.
 
 ### Financial Data Providers
 
-1. **Bloomberg**: Provides comprehensive market data, including daily price movements, which can be used to calculate 1-Day Volatility.
+1. **[Bloomberg](../b/bloomberg.md)**: Provides comprehensive market data, including daily price movements, which can be used to calculate 1-Day Volatility.
    [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
 2. **Yahoo Finance**: Offers free access to historical price data for various securities.

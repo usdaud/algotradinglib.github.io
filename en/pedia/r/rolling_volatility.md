@@ -47,7 +47,7 @@ print(data[['price', 'returns', 'rolling_volatility']].tail())
 ```
 
 #### Integration in Trading Bots:
-Many [algorithmic trading](../a/algorithmic_trading.md) platforms allow for easy implementation of rolling volatility. For instance, QuantConnect (https://www.quantconnect.com/) and Zipline (https://www.zipline.io/) provide APIs that simplify the incorporation of such metrics into [trading strategies](../t/trading_strategies.md).
+Many [algorithmic trading](../a/algorithmic_trading.md) platforms allow for easy implementation of rolling volatility. For instance, [QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/) and Zipline (https://www.zipline.io/) provide APIs that simplify the incorporation of such metrics into [trading strategies](../t/trading_strategies.md).
 
 ### Practical Applications
 

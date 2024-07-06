@@ -158,9 +158,9 @@ Several financial organizations and technology firms provide tools and platforms
 
 1. **BlackRock**: A global asset management firm that utilizes advanced [portfolio optimization](../p/portfolio_optimization.md) techniques in its Aladdin platform. [BlackRock](https://www.blackrock.com)
 
-2. **FactSet**: Provides analytics and [portfolio management](../p/portfolio_management.md) solutions incorporating various allocation models. [FactSet](https://www.factset.com)
+2. **[FactSet](../f/factset.md)**: Provides analytics and [portfolio management](../p/portfolio_management.md) solutions incorporating various allocation models. [FactSet](https://www.factset.com)
 
-3. **Morningstar**: Offers data-driven [portfolio management](../p/portfolio_management.md) tools, including investment research and risk assessment. [Morningstar](https://www.morningstar.com)
+3. **[Morningstar](../m/morningstar.md)**: Offers data-driven [portfolio management](../p/portfolio_management.md) tools, including investment research and risk assessment. [Morningstar](https://www.morningstar.com)
 
 4. **Axioma**: Specializes in [risk management](../r/risk_management.md) and [portfolio optimization](../p/portfolio_optimization.md) software using state-of-the-art quantitative methods. [Axioma](https://www.axioma.com)
 

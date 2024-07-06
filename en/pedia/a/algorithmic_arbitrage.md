@@ -24,7 +24,7 @@ Event-driven [arbitrage](../a/arbitrage.md) focuses on exploiting the pricing in
 ## Components of Algorithmic Arbitrage Systems
 
 ### Data Sources
-The efficiency of algorithmic [arbitrage](../a/arbitrage.md) relies heavily on the quality and timeliness of the data. Sources include market data feeds, news aggregators, financial statements, and [economic indicators](../e/economic_indicators.md). Vendors such as Bloomberg, Thomson Reuters, and Quandl offer comprehensive data feeds.
+The efficiency of algorithmic [arbitrage](../a/arbitrage.md) relies heavily on the quality and timeliness of the data. Sources include market data feeds, news aggregators, financial statements, and [economic indicators](../e/economic_indicators.md). Vendors such as [Bloomberg](../b/bloomberg.md), Thomson [Reuters](../r/reuters.md), and [Quandl](../q/quandl.md) offer comprehensive data feeds.
 
 ### Trading Algorithms
 [Trading algorithms](../t/trading_algorithms.md) are scripts or programs designed to identify [arbitrage](../a/arbitrage.md) opportunities and execute trades. These can range from simple statistical models to complex machine learning algorithms. They must be rigorously backtested using historical data to ensure their profitability and robustness.

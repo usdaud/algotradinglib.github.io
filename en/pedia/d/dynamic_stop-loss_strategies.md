@@ -156,7 +156,7 @@ def handle_data(context, data):
 
 Several top-tier fintech companies and hedge funds employ dynamic stop-loss strategies within their [algorithmic trading](../a/algorithmic_trading.md) frameworks to enhance [risk management](../r/risk_management.md) and trading efficiency. One prominent example is [Two Sigma](https://www.twosigma.com/), a company that leverages data science and technology to create advanced [trading models](../t/trading_models.md). By incorporating dynamic stop-loss strategies, Two Sigma can adapt to market changes swiftly and reduce exposure to adverse market movements.
 
-Another notable example is [QuantConnect](https://www.quantconnect.com/), an [algorithmic trading](../a/algorithmic_trading.md) platform that offers traders and developers access to powerful [backtesting](../b/backtesting.md) and live trading capabilities. QuantConnect's platform supports the development and implementation of dynamic stop-loss strategies through its extensive library of quant tools and financial data.
+Another notable example is [QuantConnect](https://www.quantconnect.com/), an [algorithmic trading](../a/algorithmic_trading.md) platform that offers traders and developers access to powerful [backtesting](../b/backtesting.md) and live trading capabilities. [QuantConnect](../q/quantconnect.md)'s platform supports the development and implementation of dynamic stop-loss strategies through its extensive library of quant tools and financial data.
 
 ## Conclusion
 

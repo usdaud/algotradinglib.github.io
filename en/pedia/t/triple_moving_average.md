@@ -132,7 +132,7 @@ Among the companies and platforms that support the use of Triple [Moving Average
 - **MetaTrader 4/5:** A widely used trading platform that allows the implementation of TMA strategies through custom indicators and automated trading scripts.
   [MetaTrader](https://www.metatrader4.com/en)
 
-- **QuantConnect:** An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports various [trading strategies](../t/trading_strategies.md), including TMA.
+- **[QuantConnect](../q/quantconnect.md):** An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports various [trading strategies](../t/trading_strategies.md), including TMA.
   [QuantConnect](https://www.quantconnect.com/)
 
 - **AlgorithmicTrading.net:** Provides [algorithmic trading](../a/algorithmic_trading.md) strategies, including moving average-based approaches.

@@ -36,12 +36,12 @@ SNR is a statistical measure used to quantify the level of a desired signal comp
 ## Practical Implementations
 
 ### QuantConnect
-QuantConnect is an open-source, cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple financial instruments and markets. It offers a wide range of built-in filtering techniques, along with the flexibility to implement custom filters.
+[QuantConnect](../q/quantconnect.md) is an open-source, cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple financial instruments and markets. It offers a wide range of built-in filtering techniques, along with the flexibility to implement custom filters.
 
 You can find more information at [QuantConnect](https://www.quantconnect.com/).
 
 ### TradeStation
-TradeStation provides a comprehensive suite of tools for [algorithmic trading](../a/algorithmic_trading.md), including various signal filtering options. Users can develop and backtest their strategies with integrated data filtering capabilities.
+[TradeStation](../t/tradestation.md) provides a comprehensive suite of tools for [algorithmic trading](../a/algorithmic_trading.md), including various signal filtering options. Users can develop and backtest their strategies with integrated data filtering capabilities.
 
 More details can be accessed at [TradeStation](https://www.tradestation.com/).
 

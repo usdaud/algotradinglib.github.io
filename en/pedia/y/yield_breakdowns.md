@@ -36,7 +36,7 @@ Effective [yield decomposition](../y/yield_decomposition.md) requires sophistica
 
 Implementing the yield breakdown involves real-world tools and platforms that assist in detailed performance analysis:
 
-1. **QuantConnect**: A research and [algorithmic trading](../a/algorithmic_trading.md) platform offering powerful tools for [yield analysis](../y/yield_analysis.md). They provide APIs and libraries to perform detailed attribution analysis. More information can be found on their [website](https://www.quantconnect.com/).
+1. **[QuantConnect](../q/quantconnect.md)**: A research and [algorithmic trading](../a/algorithmic_trading.md) platform offering powerful tools for [yield analysis](../y/yield_analysis.md). They provide APIs and libraries to perform detailed attribution analysis. More information can be found on their [website](https://www.quantconnect.com/).
   
 2. **Alpaca**: An API-first stock brokerage platform that offers [backtesting](../b/backtesting.md) and [algorithmic trading](../a/algorithmic_trading.md) capabilities with a focus on low latency execution and high transparency of [trading costs](../t/trading_costs.md), aiding in yield breakdown. Visit them at [Alpaca](https://alpaca.markets/).
 
@@ -63,7 +63,7 @@ Market conditions can significantly affect the yield breakdown. During high vola
 Several statistical tools can be utilized for detailed [yield analysis](../y/yield_analysis.md), including:
 
 - **R** and **Python**: Both offer extensive libraries for statistical analysis, including tools like Pandas for data manipulation and Matplotlib for visualization, critical for yield breakdown.
-- **Bloomberg Terminal**: Provides comprehensive financial data and analytics, allowing detailed [performance attribution](../p/performance_attribution.md) and [yield analysis](../y/yield_analysis.md).
+- **[Bloomberg](../b/bloomberg.md) Terminal**: Provides comprehensive financial data and analytics, allowing detailed [performance attribution](../p/performance_attribution.md) and [yield analysis](../y/yield_analysis.md).
 
 #### 8. Conclusion
 

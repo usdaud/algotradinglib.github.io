@@ -68,7 +68,7 @@
 
 ## Regulatory Considerations
 
-[Proprietary trading](../p/proprietary_trading.md) activities are subject to stringent regulatory requirements to prevent market abuse and ensure financial stability. Various laws and regulations from organizations such as the Securities and Exchange Commission (SEC), [Commodity Futures](../c/commodity_futures.md) Trading Commission (CFTC), and Financial Industry Regulatory Authority (FINRA) govern [proprietary trading](../p/proprietary_trading.md) in the United States. International regulatory bodies like the European Securities and Markets Authority (ESMA) and the Financial Conduct Authority (FCA) in the UK also impose similar restrictions.
+[Proprietary trading](../p/proprietary_trading.md) activities are subject to stringent regulatory requirements to prevent market abuse and ensure financial stability. Various laws and regulations from organizations such as the Securities and Exchange Commission (SEC), [Commodity Futures](../c/commodity_futures.md) Trading Commission (CFTC), and Financial Industry Regulatory Authority ([FINRA](../f/finra.md)) govern [proprietary trading](../p/proprietary_trading.md) in the United States. International regulatory bodies like the European Securities and Markets Authority (ESMA) and the Financial Conduct Authority (FCA) in the UK also impose similar restrictions.
 
 1. **Volcker Rule**: Part of the Dodd-Frank Act, the Volcker Rule restricts the [proprietary trading](../p/proprietary_trading.md) activities of banks to limit the risk-taking behavior that could lead to financial instability.
 

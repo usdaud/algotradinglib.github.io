@@ -27,7 +27,7 @@ This double-smoothing process ensures that the final Triangular Moving Average c
 
 ## Implementation
 
-Implementation of the TMA in trading platforms can significantly vary, but most platforms that support programming or scripting (like MetaTrader, NinjaTrader, Python with libraries like Pandas and NumPy) allow you to compute it easily.
+Implementation of the TMA in trading platforms can significantly vary, but most platforms that support programming or scripting (like MetaTrader, [NinjaTrader](../n/ninjatrader.md), Python with libraries like Pandas and NumPy) allow you to compute it easily.
 
 ### Example in Python
 

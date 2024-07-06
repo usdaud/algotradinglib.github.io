@@ -34,7 +34,7 @@ The practice of gunning for stops sits in a grey area, as it skirts the line bet
 
 1. **Market Manipulation**: Some regulators may view this strategy as a form of market manipulation since the primary intention is to create artificial price movements.
 
-2. **Regulatory Stance**: Authorities like the U.S. Securities and Exchange Commission (SEC) and the Financial Industry Regulatory Authority (FINRA) closely monitor and may penalize actions deemed manipulative.
+2. **Regulatory Stance**: Authorities like the U.S. Securities and Exchange Commission (SEC) and the Financial Industry Regulatory Authority ([FINRA](../f/finra.md)) closely monitor and may penalize actions deemed manipulative.
 
 3. **Broker-dealer Responsibilities**: Broker-dealers facilitating such trades can also come under scrutiny for enabling manipulative practices.
 

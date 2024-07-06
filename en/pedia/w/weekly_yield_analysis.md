@@ -26,12 +26,12 @@ To conduct a comprehensive weekly [yield analysis](../y/yield_analysis.md), seve
 
 Accurate and high-frequency data is crucial for effective weekly [yield analysis](../y/yield_analysis.md). Common data sources include:
 
-- **Financial Market Data Providers**: Companies like Bloomberg, Thomson Reuters, and Morningstar offer comprehensive financial data.
+- **Financial Market Data Providers**: Companies like [Bloomberg](../b/bloomberg.md), Thomson [Reuters](../r/reuters.md), and [Morningstar](../m/morningstar.md) offer comprehensive financial data.
   - [Bloomberg](https://www.bloomberg.com)
   - [Thomson Reuters](https://www.refinitiv.com)
   - [Morningstar](https://www.morningstar.com)
 
-- **Trading Platforms**: Advanced trading platforms like MetaTrader, NinjaTrader, and TradingView offer tools for real-time analysis.
+- **Trading Platforms**: Advanced trading platforms like MetaTrader, [NinjaTrader](../n/ninjatrader.md), and [TradingView](../t/tradingview.md) offer tools for real-time analysis.
   - [MetaTrader](https://www.metatrader4.com)
   - [NinjaTrader](https://ninjatrader.com)
   - [TradingView](https://www.tradingview.com)

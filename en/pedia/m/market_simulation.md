@@ -68,13 +68,13 @@ Running a market simulation involves several stages:
 
 Several tools and platforms are available to facilitate market simulation:
 
-1. **QuantConnect**: An [algorithmic trading](../a/algorithmic_trading.md) and research platform that offers historical data and cloud computing resources for [backtesting](../b/backtesting.md) strategies. [QuantConnect](https://www.quantconnect.com/)
+1. **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) and research platform that offers historical data and cloud computing resources for [backtesting](../b/backtesting.md) strategies. [QuantConnect](https://www.quantconnect.com/)
 
-2. **AlgoTrader**: A comprehensive [algorithmic trading](../a/algorithmic_trading.md) platform that supports multi-asset strategies and includes built-in simulation capabilities. [AlgoTrader](https://www.algotrader.com/)
+2. **[AlgoTrader](../a/algotrader.md)**: A comprehensive [algorithmic trading](../a/algorithmic_trading.md) platform that supports multi-asset strategies and includes built-in simulation capabilities. [AlgoTrader](https://www.algotrader.com/)
 
 3. **Matlab**: A high-level programming language and interactive environment used extensively in [quantitative finance](../q/quantitative_finance.md) for model building and simulation. [Matlab](https://www.mathworks.com/products/matlab.html)
 
-4. **Python Libraries**: Libraries like `backtrader`, `zipline`, and `PyAlgoTrade` provide extensive functionalities for building and running simulations in Python. 
+4. **Python Libraries**: Libraries like `[backtrader](../b/backtrader.md)`, `zipline`, and `PyAlgoTrade` provide extensive functionalities for building and running simulations in Python. 
 
 5. **R**: The R programming language, with libraries like `quantstrat` and `PerformanceAnalytics`, is also popular for [financial modeling](../f/financial_modeling.md) and simulation.
 

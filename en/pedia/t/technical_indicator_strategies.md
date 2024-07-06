@@ -132,7 +132,7 @@ print(signals.head())
 
 ### Backtesting
 
-[Backtesting](../b/backtesting.md) assesses the effectiveness of a trading strategy by testing it on historical data. Many platforms offer comprehensive [backtesting](../b/backtesting.md) capabilities. For instance, QuantConnect offers a cloud-based [backtesting](../b/backtesting.md) environment compatible with various asset classes.
+[Backtesting](../b/backtesting.md) assesses the effectiveness of a trading strategy by testing it on historical data. Many platforms offer comprehensive [backtesting](../b/backtesting.md) capabilities. For instance, [QuantConnect](../q/quantconnect.md) offers a cloud-based [backtesting](../b/backtesting.md) environment compatible with various asset classes.
 
 ## Conclusion
 

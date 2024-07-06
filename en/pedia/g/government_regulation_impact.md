@@ -50,7 +50,7 @@ MiFID II, a regulation by ESMA, aims to enhance transparency and oversight in th
 
 #### Order Audit Trail System (OATS)
 
-The Order Audit Trail System (OATS) implemented by the Financial Industry Regulatory Authority (FINRA) in the United States mandates that firms document and report extensive details about their orders. This aims to create a comprehensive audit trail that can be used to detect and investigate manipulative trading practices.
+The Order Audit Trail System (OATS) implemented by the Financial Industry Regulatory Authority ([FINRA](../f/finra.md)) in the United States mandates that firms document and report extensive details about their orders. This aims to create a comprehensive audit trail that can be used to detect and investigate manipulative trading practices.
 
 #### Regulatory Technical Standards (RTS 6)
 

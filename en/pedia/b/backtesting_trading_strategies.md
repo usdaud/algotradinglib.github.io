@@ -64,7 +64,7 @@ An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that 
 More details: [QuantConnect](https://www.quantconnect.com/).
 
 ### TradingView
-Apart from being a charting platform, TradingView offers Pine Script, a scripting language for building and [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md).
+Apart from being a charting platform, [TradingView](../t/tradingview.md) offers Pine Script, a scripting language for building and [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md).
 
 More details: [TradingView](https://www.tradingview.com/).
 

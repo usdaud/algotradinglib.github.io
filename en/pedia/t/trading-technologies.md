@@ -1,4 +1,4 @@
-﻿# Trading Technologies (TT)
+# Trading Technologies (TT)
 
 Trading Technologies, often referred to as TT, is a leading provider of professional-grade trading software, infrastructure, and data solutions for a wide range of market participants. Known for its cutting-edge technology and comprehensive suite of tools, TT caters primarily to futures traders, but also supports other asset classes.
 
@@ -11,8 +11,8 @@ The flagship product, a fully cloud-based trading platform designed for professi
 #### Key Features:
 - Advanced charting and analytics
 - Customizable workspaces
-- Algorithmic trading capabilities
-- Risk management tools
+- [Algorithmic trading](../a/algorithmic_trading.md) capabilities
+- [Risk management](../r/risk_management.md) tools
 - Mobile trading app
 - FIX API access
 
@@ -25,14 +25,14 @@ An order and execution management system designed for the sell-side.
 - Risk controls and compliance tools
 - Integration with major clearinghouses
 - Customizable workflows
-- Real-time position management
+- Real-time [position management](../p/position_management.md)
 
 ### 3. TT Score
 
 A machine learning-powered trade surveillance and compliance solution.
 
 #### Key Features:
-- Pattern recognition for potentially abusive trading practices
+- [Pattern recognition](../p/pattern_recognition.md) for potentially abusive trading practices
 - Real-time alerting
 - Case management tools
 - Regulatory reporting capabilities
@@ -44,7 +44,7 @@ A platform extension for cryptocurrency trading.
 #### Key Features:
 - Integration with major crypto exchanges
 - Advanced order types for crypto markets
-- Risk management specific to crypto trading
+- [Risk management](../r/risk_management.md) specific to crypto trading
 
 ### 5. Infrastructure Solutions
 
@@ -58,9 +58,9 @@ TT provides low-latency connectivity and hosting solutions.
 
 - Cloud-based architecture (leveraging AWS)
 - HTML5 front-end for cross-platform compatibility
-- FIX protocol support for order routing
+- FIX protocol support for [order routing](../o/order_routing.md)
 - RESTful APIs for third-party integrations
-- Machine learning and AI for predictive analytics and surveillance
+- Machine learning and AI for [predictive analytics](../p/predictive_analytics.md) and surveillance
 
 ## Supported Markets and Asset Classes
 
@@ -104,7 +104,7 @@ TT provides low-latency connectivity and hosting solutions.
 
 ## Target Audience
 
-- Proprietary trading firms
+- [Proprietary trading](../p/proprietary_trading.md) firms
 - FCMs (Futures Commission Merchants)
 - Hedge funds
 - Banks and financial institutions
@@ -133,7 +133,7 @@ TT provides low-latency connectivity and hosting solutions.
 
 - Expansion of machine learning capabilities in trading and surveillance
 - Enhanced cryptocurrency trading features
-- Development of more sophisticated risk management tools
+- Development of more sophisticated [risk management](../r/risk_management.md) tools
 - Continued focus on reducing latency in order execution
 
 ## Company Background

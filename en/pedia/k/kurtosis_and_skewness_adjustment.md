@@ -61,7 +61,7 @@ Financial institutions and hedge funds employ kurtosis and skewness adjustments 
 Both R and Python offer extensive libraries for performing kurtosis and skewness analysis. Libraries such as `statsmodels` and `scipy` in Python, and packages like `e1071` in R, provide functions to easily calculate and adjust for these statistical measures.
 
 #### Specialized Trading Platforms
-Many trading platforms and software solutions, such as QuantConnect and AlgorithmicTrading.net, provide built-in tools for incorporating kurtosis and skewness adjustments in algorithmic strategies. For more details, you can visit [QuantConnect's website](https://www.quantconnect.com) and [AlgorithmicTrading.net](https://algorithmictrading.net).
+Many trading platforms and software solutions, such as [QuantConnect](../q/quantconnect.md) and AlgorithmicTrading.net, provide built-in tools for incorporating kurtosis and skewness adjustments in algorithmic strategies. For more details, you can visit [QuantConnect's website](https://www.quantconnect.com) and [AlgorithmicTrading.net](https://algorithmictrading.net).
 
 ### Challenges and Considerations
 

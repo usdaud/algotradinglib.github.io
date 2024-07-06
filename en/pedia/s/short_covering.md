@@ -53,9 +53,9 @@ While short covering can be a strategic move for traders, it carries inherent ri
 
 ### Algorithmic Trading Platforms
 Several platforms offer advanced tools and algorithms for executing short covering efficiently:
-- **TradeStation**: TradeStation offers robust trading tools and platforms that support various [trading strategies](../t/trading_strategies.md), including [short selling](../s/short_selling.md) and short covering. [TradeStation](https://www.tradestation.com/)
+- **[TradeStation](../t/tradestation.md)**: [TradeStation](../t/tradestation.md) offers robust trading tools and platforms that support various [trading strategies](../t/trading_strategies.md), including [short selling](../s/short_selling.md) and short covering. [TradeStation](https://www.tradestation.com/)
 - **Interactive Brokers**: Known for its advanced trading technology, Interactive Brokers provides a range of tools for short sellers. [Interactive Brokers](https://www.interactivebrokers.com/)
-- **QuantConnect**: This platform allows users to build and backtest [trading algorithms](../t/trading_algorithms.md), including those for short covering. [QuantConnect](https://www.quantconnect.com/)
+- **[QuantConnect](../q/quantconnect.md)**: This platform allows users to build and backtest [trading algorithms](../t/trading_algorithms.md), including those for short covering. [QuantConnect](https://www.quantconnect.com/)
 
 ### Factors Considered by Algorithms
 - **Market Trends**: Real-time analysis of market trends and trading volumes.

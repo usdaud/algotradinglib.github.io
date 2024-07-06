@@ -16,16 +16,16 @@ There are several key types of testing that algorithmic traders employ to ensure
 - [Performance Metrics](../p/performance_metrics.md): Measurements like returns, volatility, drawdowns, and [Sharpe Ratio](../s/sharpe_ratio.md) to evaluate performance.
 
 **Tools for [Backtesting](../b/backtesting.md):**
-- **QuantConnect** ([link](https://www.quantconnect.com/))
-- **TradingView** ([link](https://www.tradingview.com/))
-- **Backtrader** ([link](https://www.backtrader.com/))
+- **[QuantConnect](../q/quantconnect.md)** ([link](https://www.quantconnect.com/))
+- **[TradingView](../t/tradingview.md)** ([link](https://www.tradingview.com/))
+- **[Backtrader](../b/backtrader.md)** ([link](https://www.backtrader.com/))
 
 #### 2.2 Forward Testing (Paper Trading)
 Forward testing, also known as paper trading, involves running the algorithm in a live market environment but using a simulated account. This allows traders to see how their algorithm performs in real-time without risking actual money.
 
 **Tools for Forward Testing:**
 - **Interactive Brokers Paper Trading** ([link](https://www.interactivebrokers.com/))
-- **Thinkorswim PaperMoney** ([link](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page))
+- **[Thinkorswim](../t/thinkorswim.md) PaperMoney** ([link](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page))
 
 ### 3. Key Considerations in Algorithm Testing
 
@@ -44,13 +44,13 @@ The results from testing should be statistically significant, ensuring that the 
 ### 4. Tools and Platforms for Algorithm Testing
 
 #### 4.1 QuantConnect
-QuantConnect provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple programming languages, including C#, Python, and F#. It enables [backtesting](../b/backtesting.md), live trading, and research, and supports various broker integrations.
+[QuantConnect](../q/quantconnect.md) provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple programming languages, including C#, Python, and F#. It enables [backtesting](../b/backtesting.md), live trading, and research, and supports various broker integrations.
 
 #### 4.2 TradingView
-TradingView is a social network for traders and investors offering charting tools, analysis, and strategies. It supports [backtesting](../b/backtesting.md) and forward testing through its Pine Script language.
+[TradingView](../t/tradingview.md) is a social network for traders and investors offering charting tools, analysis, and strategies. It supports [backtesting](../b/backtesting.md) and forward testing through its Pine Script language.
 
 #### 4.3 Backtrader
-Backtrader is a Python-based [backtesting](../b/backtesting.md) library for [trading strategies](../t/trading_strategies.md). It supports advanced order types, multiple time frames, and various broker integrations.
+[Backtrader](../b/backtrader.md) is a Python-based [backtesting](../b/backtesting.md) library for [trading strategies](../t/trading_strategies.md). It supports advanced order types, multiple time frames, and various broker integrations.
 
 ### 5. Challenges in Algorithm Testing
 
@@ -93,16 +93,16 @@ There are several key types of testing that algorithmic traders employ to ensure
 - [Performance Metrics](../p/performance_metrics.md): Measurements like returns, volatility, drawdowns, and [Sharpe Ratio](../s/sharpe_ratio.md) to evaluate performance.
 
 **Tools for [Backtesting](../b/backtesting.md):**
-- **QuantConnect** ([link](https://www.quantconnect.com/))
-- **TradingView** ([link](https://www.tradingview.com/))
-- **Backtrader** ([link](https://www.backtrader.com/))
+- **[QuantConnect](../q/quantconnect.md)** ([link](https://www.quantconnect.com/))
+- **[TradingView](../t/tradingview.md)** ([link](https://www.tradingview.com/))
+- **[Backtrader](../b/backtrader.md)** ([link](https://www.backtrader.com/))
 
 #### 2.2 Forward Testing (Paper Trading)
 Forward testing, also known as paper trading, involves running the algorithm in a live market environment but using a simulated account. This allows traders to see how their algorithm performs in real-time without risking actual money.
 
 **Tools for Forward Testing:**
 - **Interactive Brokers Paper Trading** ([link](https://www.interactivebrokers.com/))
-- **Thinkorswim PaperMoney** ([link](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page))
+- **[Thinkorswim](../t/thinkorswim.md) PaperMoney** ([link](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page))
 
 ### 3. Key Considerations in Algorithm Testing
 
@@ -121,13 +121,13 @@ The results from testing should be statistically significant, ensuring that the 
 ### 4. Tools and Platforms for Algorithm Testing
 
 #### 4.1 QuantConnect
-QuantConnect provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple programming languages, including C#, Python, and F#. It enables [backtesting](../b/backtesting.md), live trading, and research, and supports various broker integrations.
+[QuantConnect](../q/quantconnect.md) provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple programming languages, including C#, Python, and F#. It enables [backtesting](../b/backtesting.md), live trading, and research, and supports various broker integrations.
 
 #### 4.2 TradingView
-TradingView is a social network for traders and investors offering charting tools, analysis, and strategies. It supports [backtesting](../b/backtesting.md) and forward testing through its Pine Script language.
+[TradingView](../t/tradingview.md) is a social network for traders and investors offering charting tools, analysis, and strategies. It supports [backtesting](../b/backtesting.md) and forward testing through its Pine Script language.
 
 #### 4.3 Backtrader
-Backtrader is a Python-based [backtesting](../b/backtesting.md) library for [trading strategies](../t/trading_strategies.md). It supports advanced order types, multiple time frames, and various broker integrations.
+[Backtrader](../b/backtrader.md) is a Python-based [backtesting](../b/backtesting.md) library for [trading strategies](../t/trading_strategies.md). It supports advanced order types, multiple time frames, and various broker integrations.
 
 ### 5. Challenges in Algorithm Testing
 

@@ -62,7 +62,7 @@ There is a risk of overfitting the model to historical data within the window. T
 ## Notable Tools and Libraries
 
 ### QuantConnect
-QuantConnect is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports research and execution of [trading strategies](../t/trading_strategies.md). It offers tools for windowed analysis, including [backtesting](../b/backtesting.md) over rolling time windows.
+[QuantConnect](../q/quantconnect.md) is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports research and execution of [trading strategies](../t/trading_strategies.md). It offers tools for windowed analysis, including [backtesting](../b/backtesting.md) over rolling time windows.
 [QuantConnect](https://www.quantconnect.com/)
 
 ### Zipline

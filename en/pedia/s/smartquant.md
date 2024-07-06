@@ -1,12 +1,12 @@
-﻿# SmartQuant
+# SmartQuant
 
-SmartQuant is a sophisticated quantitative trading software development company that provides a comprehensive suite of tools for algorithmic trading, strategy development, and financial market analysis. Their flagship product, OpenQuant, is widely used by professional traders, hedge funds, and financial institutions.
+SmartQuant is a sophisticated [quantitative trading](../q/quantitative_trading.md) software development company that provides a comprehensive suite of tools for [algorithmic trading](../a/algorithmic_trading.md), strategy development, and financial market analysis. Their flagship product, OpenQuant, is widely used by professional traders, hedge funds, and financial institutions.
 
 ## Key Products and Features
 
 ### 1. OpenQuant
 
-OpenQuant is SmartQuant's primary trading platform, designed for developing, testing, and deploying quantitative trading strategies.
+OpenQuant is SmartQuant's primary trading platform, designed for developing, testing, and deploying [quantitative trading](../q/quantitative_trading.md) strategies.
 
 #### Features:
 - **Strategy Development Environment**: 
@@ -14,18 +14,18 @@ OpenQuant is SmartQuant's primary trading platform, designed for developing, tes
  - Extensive library of financial instruments and indicators
  - Visual strategy designer for non-programmers
 
-- **Backtesting Engine**: 
- - High-speed historical simulation
- - Multi-asset and multi-strategy backtesting
+- **[Backtesting](../b/backtesting.md) Engine**: 
+ - High-speed [historical simulation](../h/historical_simulation.md)
+ - Multi-asset and multi-strategy [backtesting](../b/backtesting.md)
  - Transaction cost modeling
 
 - **Optimization Tools**: 
  - Genetic algorithm and grid search optimization
  - Distributed computing support for faster processing
 
-- **Risk Management**: 
+- **[Risk Management](../r/risk_management.md)**: 
  - Real-time risk monitoring
- - Customizable risk metrics and alerts
+ - Customizable [risk metrics](../r/risk_metrics.md) and alerts
 
 - **Live Trading**: 
  - Automated execution across multiple markets
@@ -37,16 +37,16 @@ OpenQuant is SmartQuant's primary trading platform, designed for developing, tes
 
 ### 2. QuantBase
 
-A cloud-based backtesting and strategy hosting platform.
+A cloud-based [backtesting](../b/backtesting.md) and strategy hosting platform.
 
 #### Features:
 - Web-based interface for strategy development and testing
 - Collaborative environment for team-based projects
-- Automated strategy deployment to live trading systems
+- Automated strategy deployment to live [trading systems](../t/trading_systems.md)
 
 ### 3. QuantServer
 
-A high-performance server solution for deploying trading strategies at scale.
+A high-performance server solution for deploying [trading strategies](../t/trading_strategies.md) at scale.
 
 #### Features:
 - Low-latency execution engine
@@ -71,7 +71,7 @@ SmartQuant's products cater to a wide range of financial instruments:
 ## User Base
 
 - Quantitative traders and researchers
-- Hedge funds and proprietary trading firms
+- Hedge funds and [proprietary trading](../p/proprietary_trading.md) firms
 - Financial institutions and banks
 - Individual algorithmic traders
 
@@ -94,6 +94,6 @@ SmartQuant typically offers:
 
 - Founded in 2003
 - Headquartered in Nicosia, Cyprus
-- Known for continuous innovation in quantitative finance technology
+- Known for continuous innovation in [quantitative finance](../q/quantitative_finance.md) technology
 
-SmartQuant has established itself as a leading provider of quantitative trading solutions, combining powerful analytical capabilities with user-friendly interfaces to serve both individual traders and large financial institutions in the development and deployment of sophisticated trading strategies.
+SmartQuant has established itself as a leading provider of [quantitative trading](../q/quantitative_trading.md) solutions, combining powerful analytical capabilities with user-friendly interfaces to serve both individual traders and large financial institutions in the development and deployment of sophisticated [trading strategies](../t/trading_strategies.md).

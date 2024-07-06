@@ -120,7 +120,7 @@ Key metrics used to measure [trading costs](../t/trading_costs.md) include:
 
 Various tools and platforms provide detailed reporting on [trading costs](../t/trading_costs.md). These can include pre-trade analytics, real-time monitoring, and [post-trade analysis](../p/post-trade_analysis.md).
 
-- **Example:** Bloomberg Terminal [website](https://www.bloomberg.com/professional/solution/bloomberg-terminal)
+- **Example:** [Bloomberg](../b/bloomberg.md) Terminal [website](https://www.bloomberg.com/professional/solution/bloomberg-terminal)
 
 ## Conclusion
 

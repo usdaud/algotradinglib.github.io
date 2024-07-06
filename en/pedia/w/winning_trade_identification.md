@@ -38,7 +38,7 @@ Machine learning models have become increasingly vital in identifying winning tr
 
 ### Backtesting
 
-[Backtesting](../b/backtesting.md) involves applying [trading algorithms](../t/trading_algorithms.md) to historical data to evaluate how they would have performed in the past. This process helps fine-tune strategies and identify potential pitfalls. Platforms like QuantConnect (http://www.quantconnect.com) provide robust [backtesting](../b/backtesting.md) environments.
+[Backtesting](../b/backtesting.md) involves applying [trading algorithms](../t/trading_algorithms.md) to historical data to evaluate how they would have performed in the past. This process helps fine-tune strategies and identify potential pitfalls. Platforms like [QuantConnect](../q/quantconnect.md) (http://www.[quantconnect](../q/quantconnect.md).com) provide robust [backtesting](../b/backtesting.md) environments.
 
 ### Predictive Analytics
 

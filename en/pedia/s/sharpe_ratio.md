@@ -86,7 +86,7 @@ In live trading, the Sharpe Ratio can be monitored in real-time to assess ongoin
 
 Several platforms and tools help traders calculate and use the Sharpe Ratio:
 
-- **QuantConnect**: An [algorithmic trading](../a/algorithmic_trading.md) platform where traders can backtest and deploy strategies. QuantConnect provides tools for calculating the Sharpe Ratio. [Visit QuantConnect](https://www.quantconnect.com/)
+- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform where traders can backtest and deploy strategies. [QuantConnect](../q/quantconnect.md) provides tools for calculating the Sharpe Ratio. [Visit QuantConnect](https://www.quantconnect.com/)
   
 - **Zipline**: An open-source [backtesting](../b/backtesting.md) library for Python that includes functions to calculate the Sharpe Ratio. [Visit Zipline](https://www.zipline.io/)
   

@@ -83,7 +83,7 @@ Several platforms and trading firms specialize in options trading and cater to b
    - Known for its sophisticated trading platform that supports complex option strategies and [algorithmic trading](../a/algorithmic_trading.md).
    - Website: [Interactive Brokers](https://www.interactivebrokers.com/)
 
-3. **TD Ameritrade's thinkorswim**
+3. **TD Ameritrade's [thinkorswim](../t/thinkorswim.md)**
    - A highly advanced trading platform specifically designed for options trading, providing a suite of tools for strategy execution.
    - Website: [TD Ameritrade](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.html)
 

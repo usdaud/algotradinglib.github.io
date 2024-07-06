@@ -9,7 +9,7 @@ Fixed Income ETFs are a type of exchange-traded fund that primarily invests in b
 ### Components and Structure
 
 1. **Underlying Assets**: Fixed Income ETFs hold a diversified portfolio of bonds, which can include government bonds, corporate bonds, [municipal bonds](../m/municipal_bonds.md), or international bonds. 
-2. **Tracking Index**: These ETFs aim to mimic the performance of a specific bond index, such as the Bloomberg Barclays US Aggregate Bond Index or the ICE U.S. Treasury Core Bond Index. 
+2. **Tracking Index**: These ETFs aim to mimic the performance of a specific bond index, such as the [Bloomberg](../b/bloomberg.md) Barclays US Aggregate Bond Index or the ICE U.S. Treasury Core Bond Index. 
 3. **Liquidity**: Unlike individual bonds, Fixed Income ETFs can be traded on stock exchanges, providing [intraday liquidity](../i/intraday_liquidity.md) to investors.
 4. **Management**: Fixed Income ETFs can be passively managed (index-based) or actively managed, where the fund manager selects bonds based on specific criteria.
 
@@ -41,7 +41,7 @@ There are several types of Fixed Income ETFs, each catering to different investm
 2. **Corporate Bond ETFs**: Invest in bonds issued by corporations, offering higher yields but greater risk. Example: iShares iBoxx $ Investment Grade Corporate Bond ETF (LQD) [link](https://www.ishares.com/us/products/239726/ishares-iboxx-investment-grade-corporate-bond-etf).
 3. **Municipal Bond ETFs**: Include bonds issued by state and local governments, often providing tax-free income. Example: iShares National Muni Bond ETF (MUB) [link](https://www.ishares.com/us/products/239766/ishares-national-muni-bond-etf).
 4. **International Bond ETFs**: Invest in bonds issued by foreign governments or corporations, offering global exposure. Example: Vanguard Total International Bond ETF (BNDX) [link](https://investor.vanguard.com/etf/profile/BNDX).
-5. **High-Yield Bond ETFs**: Focus on bonds with lower credit ratings, offering higher yields but greater default risks. Example: SPDR Bloomberg Barclays High Yield Bond ETF (JNK) [link](https://www.ssga.com/us/en/individual/etfs/funds/spdr-bloomberg-barclays-high-yield-bond-etf-jnk).
+5. **High-Yield Bond ETFs**: Focus on bonds with lower credit ratings, offering higher yields but greater default risks. Example: SPDR [Bloomberg](../b/bloomberg.md) Barclays High Yield Bond ETF (JNK) [link](https://www.ssga.com/us/en/individual/etfs/funds/spdr-bloomberg-barclays-high-yield-bond-etf-jnk).
 
 ## Trading Strategies for Fixed Income ETFs
 

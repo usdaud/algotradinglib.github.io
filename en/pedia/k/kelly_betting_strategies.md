@@ -95,7 +95,7 @@ Financial advisors and modern [algorithmic trading](../a/algorithmic_trading.md)
 ## Kelly Criterion in Technology and Software
 
 Several financial technology companies have developed tools and software that help traders apply Kelly betting strategies. For instance:
-- **QuantConnect** (https://www.quantconnect.com/): A platform offering [algorithmic trading](../a/algorithmic_trading.md) solutions, including Kelly-based [portfolio optimization](../p/portfolio_optimization.md).
+- **[QuantConnect](../q/quantconnect.md)** (https://www.[quantconnect](../q/quantconnect.md).com/): A platform offering [algorithmic trading](../a/algorithmic_trading.md) solutions, including Kelly-based [portfolio optimization](../p/portfolio_optimization.md).
 - **AlgorithmicTrading.net** (https://algorithmictrading.net/): Provides traders with [algorithmic trading](../a/algorithmic_trading.md) strategies that sometimes leverage the principles of the [Kelly Criterion](../k/kelly_criterion.md).
 
 ## Conclusion

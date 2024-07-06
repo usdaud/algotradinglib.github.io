@@ -57,13 +57,13 @@ Such rules can be tailored to fit various [trading strategies](../t/trading_stra
 ### Popular Trading Platforms
 
 Several platforms support the creation and [backtesting](../b/backtesting.md) of algorithms using the Uptick Indicator.
-- **QuantConnect**: QuantConnect offers an integrated environment supporting multiple financial indicators, including the Uptick Indicator. [QuantConnect](https://www.quantconnect.com)
-- **TradingView**: TradingView provides powerful charting tools and script coding features like Pine Script for custom indicators. [TradingView](https://www.tradingview.com)
+- **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](../q/quantconnect.md) offers an integrated environment supporting multiple financial indicators, including the Uptick Indicator. [QuantConnect](https://www.quantconnect.com)
+- **[TradingView](../t/tradingview.md)**: [TradingView](../t/tradingview.md) provides powerful charting tools and script coding features like Pine Script for custom indicators. [TradingView](https://www.tradingview.com)
 - **MetaTrader**: Widely known in Forex trading, MetaTrader also allows for custom indicator implementation and [automated trading systems](../a/automated_trading_systems.md). [MetaTrader](https://www.metatrader4.com)
   
 ### Custom Script Example for TradingView (Pine Script)
 
-Below is an illustrative Pine Script code for implementing an Uptick Indicator on TradingView:
+Below is an illustrative Pine Script code for implementing an Uptick Indicator on [TradingView](../t/tradingview.md):
 
 ```pinescript
 //@version=4

@@ -83,9 +83,9 @@ Thus, the trader can be 95% confident that the true average daily return of the 
 
 ### QuantConnect
 
-QuantConnect is a popular open-source [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to design, backtest, and execute [trading strategies](../t/trading_strategies.md). On this platform, traders can use historical market data to backtest their algorithms and calculate [confidence intervals](../c/confidence_intervals.md) to evaluate strategy performance.
+[QuantConnect](../q/quantconnect.md) is a popular open-source [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to design, backtest, and execute [trading strategies](../t/trading_strategies.md). On this platform, traders can use historical market data to backtest their algorithms and calculate [confidence intervals](../c/confidence_intervals.md) to evaluate strategy performance.
 
-Visit QuantConnect here:
+Visit [QuantConnect](../q/quantconnect.md) here:
 [QuantConnect](https://www.quantconnect.com/)
 
 ## Conclusion

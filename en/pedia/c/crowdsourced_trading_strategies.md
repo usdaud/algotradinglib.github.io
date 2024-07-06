@@ -34,7 +34,7 @@ Crowdsourcing in [trading strategies](../t/trading_strategies.md) typically invo
 
 ### QuantConnect
 
-[QuantConnect](https://www.quantconnect.com) is a prominent platform that offers a collaborative environment for algorithmic traders to develop, backtest, and deploy [trading strategies](../t/trading_strategies.md). QuantConnect provides access to extensive historical market data, a cloud-based IDE, and integration with brokerage accounts for live trading. The platform also hosts competitions and challenges, encouraging community members to create and share innovative strategies.
+[QuantConnect](https://www.quantconnect.com) is a prominent platform that offers a collaborative environment for algorithmic traders to develop, backtest, and deploy [trading strategies](../t/trading_strategies.md). [QuantConnect](../q/quantconnect.md) provides access to extensive historical market data, a cloud-based IDE, and integration with brokerage accounts for live trading. The platform also hosts competitions and challenges, encouraging community members to create and share innovative strategies.
 
 ### Numerai
 
@@ -56,7 +56,7 @@ Numerai operates a unique tournament model where data scientists from around the
 
 ### Case Study 2: QuantConnect's Alpha Streams
 
-QuantConnect launched Alpha Streams, a marketplace where algorithm creators can sell their strategies to institutional investors. Alpha Streams aims to democratize access to sophisticated [trading algorithms](../t/trading_algorithms.md) and provide a revenue stream for developers. Each strategy is rigorously tested and reviewed to ensure robustness before being listed on the marketplace.
+[QuantConnect](../q/quantconnect.md) launched Alpha Streams, a marketplace where algorithm creators can sell their strategies to institutional investors. Alpha Streams aims to democratize access to sophisticated [trading algorithms](../t/trading_algorithms.md) and provide a revenue stream for developers. Each strategy is rigorously tested and reviewed to ensure robustness before being listed on the marketplace.
 
 ## The Future of Crowdsourced Trading
 

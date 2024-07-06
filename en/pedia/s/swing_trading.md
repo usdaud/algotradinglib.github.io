@@ -54,9 +54,9 @@ A popular swing trading algorithmic strategy is the moving average crossover. Le
 ### Tools and Platforms
 Several platforms and tools aid in algorithmic swing trading. Notable platforms include:
 - **MetaTrader:** Widely used for forex trading, offering robust [algorithmic trading](../a/algorithmic_trading.md) capabilities.
-- **TradeStation:** Known for its EasyLanguage programming feature to create customized [trading strategies](../t/trading_strategies.md).
-- **NinjaTrader:** Popular for futures and forex trading, offering advanced charting and strategy development tools.
-- **QuantConnect:** An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple asset classes and coding languages.
+- **[TradeStation](../t/tradestation.md):** Known for its EasyLanguage programming feature to create customized [trading strategies](../t/trading_strategies.md).
+- **[NinjaTrader](../n/ninjatrader.md):** Popular for futures and forex trading, offering advanced charting and strategy development tools.
+- **[QuantConnect](../q/quantconnect.md):** An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple asset classes and coding languages.
 
 ### Execution and Monitoring
 Once the algorithm is deployed, real-time monitoring is critical. This ensures that the strategy is performing as expected and allows for adjustments in response to unforeseen market conditions.

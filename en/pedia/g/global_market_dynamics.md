@@ -29,7 +29,7 @@ Changes in consumer behavior, societal values, and demographic shifts can influe
 ## Framework for Analyzing Market Dynamics
 
 ### Fundamental Analysis
-[Fundamental analysis](../f/fundamental_analysis.md) involves evaluating a company's financial statements to determine its fair value (https://www.morningstar.com/stocks).
+[Fundamental analysis](../f/fundamental_analysis.md) involves evaluating a company's financial statements to determine its fair value (https://www.[morningstar](../m/morningstar.md).com/stocks).
 
 ### Technical Analysis
 [Technical analysis](../t/technical_analysis.md) studies statistical trends from trading activity (https://www.investopedia.com/trading-technical-analysis-4689736).

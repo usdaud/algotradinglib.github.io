@@ -31,7 +31,7 @@ Investment flows are often tracked to understand investor sentiment, market tren
 
 1. **Investor [Sentiment Surveys](../s/sentiment_surveys.md):** Collecting and analyzing investor sentiment through surveys to gauge market expectations and future investment behaviors.
 
-2. **Market Reports and Analyses:** Reviewing financial analyses and reports from institutions like Bloomberg, Goldman Sachs, and others to understand broader market trends (Links: [Bloomberg](https://www.bloomberg.com/), [Goldman Sachs](https://www.goldmansachs.com/) ).
+2. **Market Reports and Analyses:** Reviewing financial analyses and reports from institutions like [Bloomberg](../b/bloomberg.md), Goldman Sachs, and others to understand broader market trends (Links: [Bloomberg](https://www.bloomberg.com/), [Goldman Sachs](https://www.goldmansachs.com/) ).
 
 3. **[Economic Indicators](../e/economic_indicators.md):** Assessing [economic indicators](../e/economic_indicators.md) such as GDP growth rates, inflation rates, and interest rates to infer investment flows.
 
@@ -55,13 +55,13 @@ Investment flows analysis can uncover emerging opportunities by highlighting sec
 
 ## Tools and Technologies
 
-1. **Bloomberg Terminal:** Provides comprehensive data on financial markets, including investment flows across various asset classes (Link: [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/) ).
+1. **[Bloomberg](../b/bloomberg.md) Terminal:** Provides comprehensive data on financial markets, including investment flows across various asset classes (Link: [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/) ).
 
-2. **Reuters Eikon:** Another powerful tool offering extensive data and analytics on market transactions and investment flows (Link: [Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software) ).
+2. **[Reuters](../r/reuters.md) Eikon:** Another powerful tool offering extensive data and analytics on market transactions and investment flows (Link: [Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software) ).
 
-3. **Morningstar Direct:** Offers detailed reports on mutual funds, ETFs, and institutional investment flows (Link: [Morningstar Direct](https://www.morningstar.com/products/direct) ).
+3. **[Morningstar](../m/morningstar.md) Direct:** Offers detailed reports on mutual funds, ETFs, and institutional investment flows (Link: [Morningstar Direct](https://www.morningstar.com/products/direct) ).
 
-4. **FactSet:** Combines data from multiple sources to deliver insights on investment flows and market trends (Link: [FactSet](https://www.factset.com/) ).
+4. **[FactSet](../f/factset.md):** Combines data from multiple sources to deliver insights on investment flows and market trends (Link: [FactSet](https://www.factset.com/) ).
 
 5. **Capital IQ:** Provides rich data on global markets, including investment flows analysis (Link: [Capital IQ](https://www.spglobal.com/marketintelligence/en/campaigns/capital-iq) ).
 

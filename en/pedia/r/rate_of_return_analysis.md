@@ -78,7 +78,7 @@ There are several platforms and tools available for conducting rate of return an
 
 ### QuantConnect
 
-QuantConnect is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform offering tools for [backtesting](../b/backtesting.md) and live trading. They provide detailed [performance metrics](../p/performance_metrics.md), including various rate of return calculations. [Visit QuantConnect](https://www.quantconnect.com)
+[QuantConnect](../q/quantconnect.md) is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform offering tools for [backtesting](../b/backtesting.md) and live trading. They provide detailed [performance metrics](../p/performance_metrics.md), including various rate of return calculations. [Visit QuantConnect](https://www.quantconnect.com)
 
 ### MetaTrader
 
@@ -86,7 +86,7 @@ MetaTrader is a popular trading platform offering advanced charting and [algorit
 
 ### NinjaTrader
 
-NinjaTrader is an advanced trading platform providing a comprehensive suite of tools for strategy development, [backtesting](../b/backtesting.md), and live trading. It offers detailed RoR analysis to optimize [trading strategies](../t/trading_strategies.md). [Visit NinjaTrader](https://ninjatrader.com/)
+[NinjaTrader](../n/ninjatrader.md) is an advanced trading platform providing a comprehensive suite of tools for strategy development, [backtesting](../b/backtesting.md), and live trading. It offers detailed RoR analysis to optimize [trading strategies](../t/trading_strategies.md). [Visit NinjaTrader](https://ninjatrader.com/)
 
 ## Case Studies
 

@@ -6,7 +6,7 @@ Backtesting is a crucial process in the field of [algorithmic trading](../a/algo
 
 The first and foremost step in backtesting is selecting accurate and relevant historical data. This data typically includes historical prices, trading volumes, and other market indicators. The quality and granularity of data are paramount; high-frequency strategies may require minute-by-minute data, whereas lower-frequency strategies might only need daily data. Here, it is crucial to consider:
 
-- **Sources of Data**: Reliable sources include financial data providers like Bloomberg, Reuters, or specialized platforms such as Quandl.
+- **Sources of Data**: Reliable sources include financial data providers like [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), or specialized platforms such as [Quandl](../q/quandl.md).
 - **Data Cleanliness**: Ensure the data is free from errors, anomalies, and is consistent across the testing period.
 - **Time Period**: The selected period should adequately reflect different market conditions (bullish, bearish, volatile, stable) to ensure robustness.
 - **Market Relevance**: The data should be relevant to the specific market or asset class the strategy targets.
@@ -24,7 +24,7 @@ A trading strategy involves a set of rules and logic that dictate when to enter 
 
 Once the strategy is defined, implementing it in a backtesting environment is the next step. This involves:
 
-- **Simulation Software**: Specialized backtesting software platforms like MetaTrader, QuantConnect, or custom-built systems in programming languages like Python (using libraries like Backtrader or Zipline).
+- **Simulation Software**: Specialized backtesting software platforms like MetaTrader, [QuantConnect](../q/quantconnect.md), or custom-built systems in programming languages like Python (using libraries like [Backtrader](../b/backtrader.md) or Zipline).
 - **[Trading Costs](../t/trading_costs.md)**: Incorporate realistic assumptions about [trading costs](../t/trading_costs.md), including commissions, slippage, and spreads.
 - **Initial Capital**: Define the starting capital for the simulation.
 - **Timeframe**: Specify the interval for the backtesting period (e.g., daily, hourly).
@@ -54,13 +54,13 @@ Backtesting is not a one-time process but a continuous cycle of development, tes
 1. **MetaTrader**: A popular platform for [backtesting trading strategies](../b/backtesting_trading_strategies.md).
    - [MetaTrader](https://www.metaquotes.net/en/metatrader4)
 
-2. **QuantConnect**: Provides an open [algorithmic trading](../a/algorithmic_trading.md) platform for designing, testing, and deploying strategies.
+2. **[QuantConnect](../q/quantconnect.md)**: Provides an open [algorithmic trading](../a/algorithmic_trading.md) platform for designing, testing, and deploying strategies.
    - [QuantConnect](https://www.quantconnect.com/)
 
-3. **TradingView**: Offers charting platform and social network for traders, including backtesting tools.
+3. **[TradingView](../t/tradingview.md)**: Offers charting platform and social network for traders, including backtesting tools.
    - [TradingView](https://www.tradingview.com/)
 
-4. **Backtrader**: A Python library for developing and [backtesting trading strategies](../b/backtesting_trading_strategies.md).
+4. **[Backtrader](../b/backtrader.md)**: A Python library for developing and [backtesting trading strategies](../b/backtesting_trading_strategies.md).
    - [Backtrader](https://www.backtrader.com/)
 
 5. **Zipline**: Another Python-based backtesting library maintained by Quantopian.

@@ -98,11 +98,11 @@ In volatile markets, the 10MMA can generate false signals. Short-term price spik
 
 ### Backtesting in Algorithmic Trading
 
-One of the critical steps in implementing the 10MMA in [algorithmic trading](../a/algorithmic_trading.md) is [backtesting](../b/backtesting.md). [Backtesting](../b/backtesting.md) involves testing a trading strategy against historical data to evaluate its effectiveness. Algorithmic traders can use platforms like QuantConnect or TradingView to backtest their strategies.
+One of the critical steps in implementing the 10MMA in [algorithmic trading](../a/algorithmic_trading.md) is [backtesting](../b/backtesting.md). [Backtesting](../b/backtesting.md) involves testing a trading strategy against historical data to evaluate its effectiveness. Algorithmic traders can use platforms like [QuantConnect](../q/quantconnect.md) or [TradingView](../t/tradingview.md) to backtest their strategies.
 
 For instance:
-- **QuantConnect:** [QuantConnect](https://www.quantconnect.com/)
-- **TradingView:** [TradingView](https://www.tradingview.com/)
+- **[QuantConnect](../q/quantconnect.md):** [QuantConnect](https://www.quantconnect.com/)
+- **[TradingView](../t/tradingview.md):** [TradingView](https://www.tradingview.com/)
 
 ### Python Example
 
@@ -129,7 +129,7 @@ In this example, we use Yahoo Finance to download historical monthly data for Ap
 Several trading platforms support the integration of custom indicators like the 10MMA.
 
 - **MetaTrader 5**: [MetaTrader 5](https://www.metatrader5.com/en)
-- **NinjaTrader**: [NinjaTrader](https://ninjatrader.com/)
+- **[NinjaTrader](../n/ninjatrader.md)**: [NinjaTrader](https://ninjatrader.com/)
 
 These platforms allow traders to implement, test, and automate their strategies using custom indicators.
 

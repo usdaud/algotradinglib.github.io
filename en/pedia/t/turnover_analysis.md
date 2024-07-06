@@ -70,7 +70,7 @@ Renaissance Technologies, a leading firm in quantitative and [algorithmic tradin
 
 ### QuantConnect
 
-QuantConnect provides a platform for researching, designing, and implementing [algorithmic trading](../a/algorithmic_trading.md) strategies. The platform offers tools to backtest strategies and analyze turnover. By integrating various data sources and [execution algorithms](../e/execution_algorithms.md), QuantConnect enables traders to refine their strategies to balance turnover against profitability.
+[QuantConnect](../q/quantconnect.md) provides a platform for researching, designing, and implementing [algorithmic trading](../a/algorithmic_trading.md) strategies. The platform offers tools to backtest strategies and analyze turnover. By integrating various data sources and [execution algorithms](../e/execution_algorithms.md), [QuantConnect](../q/quantconnect.md) enables traders to refine their strategies to balance turnover against profitability.
 
 [Visit QuantConnect](https://www.quantconnect.com/)
 

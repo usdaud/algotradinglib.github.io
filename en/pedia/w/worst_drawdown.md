@@ -110,7 +110,7 @@ Several Python libraries are specifically designed for analyzing drawdowns. Libr
 
 ### QuantConnect
 
-QuantConnect is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that offers robust [backtesting](../b/backtesting.md) and analysis tools. It allows traders to develop, backtest, and deploy algorithms using real market data.
+[QuantConnect](../q/quantconnect.md) is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that offers robust [backtesting](../b/backtesting.md) and analysis tools. It allows traders to develop, backtest, and deploy algorithms using real market data.
 
 - [QuantConnect](https://www.quantconnect.com/)
 
@@ -122,7 +122,7 @@ Interactive Brokers offer an array of tools for managing and analyzing drawdowns
 
 ### Algorithmic Trading Platforms
 
-Platforms like MetaTrader and NinjaTrader offer integrated [risk management](../r/risk_management.md) and [drawdown analysis](../d/drawdown_analysis.md) tools. These platforms are widely used for developing and deploying [trading algorithms](../t/trading_algorithms.md).
+Platforms like MetaTrader and [NinjaTrader](../n/ninjatrader.md) offer integrated [risk management](../r/risk_management.md) and [drawdown analysis](../d/drawdown_analysis.md) tools. These platforms are widely used for developing and deploying [trading algorithms](../t/trading_algorithms.md).
 
 - [MetaTrader](https://www.metatrader4.com/)
 - [NinjaTrader](https://ninjatrader.com/)

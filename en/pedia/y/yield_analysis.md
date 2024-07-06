@@ -50,16 +50,16 @@ Yield is the income return on an investment, typically expressed as a percentage
 
 Some advanced trading platforms and tools used for yield analysis in algo trading include:
 
-- **Bloomberg Terminal**: Provides comprehensive yield data and analytical tools.
+- **[Bloomberg](../b/bloomberg.md) Terminal**: Provides comprehensive yield data and analytical tools.
   [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
-- **Thomson Reuters Eikon**: Another leading platform offering [yield analysis tools](../y/yield_analysis_tools.md).
+- **Thomson [Reuters](../r/reuters.md) Eikon**: Another leading platform offering [yield analysis tools](../y/yield_analysis_tools.md).
   [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)
 
-- **QuantConnect**: An open [algorithmic trading](../a/algorithmic_trading.md) platform that enables users to create and backtest [yield analysis models](../y/yield_analysis_models.md).
+- **[QuantConnect](../q/quantconnect.md)**: An open [algorithmic trading](../a/algorithmic_trading.md) platform that enables users to create and backtest [yield analysis models](../y/yield_analysis_models.md).
   [QuantConnect](https://www.quantconnect.com/)
 
-- **Quantlib**: An open-source library for [quantitative finance](../q/quantitative_finance.md), providing tools for calculating yield and other financial metrics.
+- **[Quantlib](../q/quantlib.md)**: An open-source library for [quantitative finance](../q/quantitative_finance.md), providing tools for calculating yield and other financial metrics.
   [Quantlib](https://www.quantlib.org/)
 
 ## Practical Applications in Algorithmic Trading

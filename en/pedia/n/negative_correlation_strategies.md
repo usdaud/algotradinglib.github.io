@@ -41,7 +41,7 @@ Before deploying any strategy, it should be rigorously backtested against histor
 
 Once the strategy is backtested and optimized, it is implemented in real-time through a trading platform. High-frequency trading (HFT) platforms are commonly used for the swift execution of trades.
 
-1. **Python Libraries and Frameworks**: Python is widely used for developing and executing [trading algorithms](../t/trading_algorithms.md). Libraries like NumPy, pandas, and statsmodels are indispensable for data analysis. Zipline and QuantConnect are popular [backtesting](../b/backtesting.md) and live-trading frameworks.
+1. **Python Libraries and Frameworks**: Python is widely used for developing and executing [trading algorithms](../t/trading_algorithms.md). Libraries like NumPy, pandas, and statsmodels are indispensable for data analysis. Zipline and [QuantConnect](../q/quantconnect.md) are popular [backtesting](../b/backtesting.md) and live-trading frameworks.
 2. **Dedicated Trading Bots**: Tools like MetaTrader and [proprietary trading](../p/proprietary_trading.md) platforms provided by brokerage firms often have built-in capabilities for automating [trading strategies](../t/trading_strategies.md).
 
 ### Risks and Mitigation

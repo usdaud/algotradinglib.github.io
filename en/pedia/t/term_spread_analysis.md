@@ -50,11 +50,11 @@ To effectively implement term [spread analysis](../s/spread_analysis.md), trader
 
 Several financial software and platforms assist in term [spread analysis](../s/spread_analysis.md) for [algorithmic trading](../a/algorithmic_trading.md):
 
-1. **Bloomberg Terminal:** Provides extensive data on bond yields, [economic indicators](../e/economic_indicators.md), and advanced analytical tools for term [spread analysis](../s/spread_analysis.md). [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+1. **[Bloomberg](../b/bloomberg.md) Terminal:** Provides extensive data on bond yields, [economic indicators](../e/economic_indicators.md), and advanced analytical tools for term [spread analysis](../s/spread_analysis.md). [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
-2. **Thomson Reuters Eikon:** Offers comprehensive financial data, analytics, and trading solutions, including tools for [yield curve](../y/yield_curve.md) modeling and term [spread analysis](../s/spread_analysis.md). [Refinitiv Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)
+2. **Thomson [Reuters](../r/reuters.md) Eikon:** Offers comprehensive financial data, analytics, and trading solutions, including tools for [yield curve](../y/yield_curve.md) modeling and term [spread analysis](../s/spread_analysis.md). [Refinitiv Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)
 
-3. **QuantConnect:** An [algorithmic trading](../a/algorithmic_trading.md) platform that supports data imports, [backtesting](../b/backtesting.md), and live trading using Python and C#. It provides historical and real-time data for various asset classes, including bonds. [QuantConnect](https://www.quantconnect.com/)
+3. **[QuantConnect](../q/quantconnect.md):** An [algorithmic trading](../a/algorithmic_trading.md) platform that supports data imports, [backtesting](../b/backtesting.md), and live trading using Python and C#. It provides historical and real-time data for various asset classes, including bonds. [QuantConnect](https://www.quantconnect.com/)
 
 4. **ALPHA YIELD:** A specialized platform that offers tools for bond analytics, [yield curve](../y/yield_curve.md) construction, and term [spread analysis](../s/spread_analysis.md). [Alpha Yield](https://www.alphayield.com/)
 

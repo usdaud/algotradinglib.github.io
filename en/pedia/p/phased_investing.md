@@ -58,7 +58,7 @@ Effective [data integration](../d/data_integration.md) is critical for Phased In
   
 - **[Economic Indicators](../e/economic_indicators.md):** Macroeconomic data can influence asset prices and market trends, helping refine phased strategies.
 
-[Data integration](../d/data_integration.md) tools and platforms, such as Bloomberg Terminal, Thomson Reuters Eikon, and Quandl, provide comprehensive datasets and analytical capabilities crucial for Phased Investing.
+[Data integration](../d/data_integration.md) tools and platforms, such as [Bloomberg](../b/bloomberg.md) Terminal, Thomson [Reuters](../r/reuters.md) Eikon, and [Quandl](../q/quandl.md), provide comprehensive datasets and analytical capabilities crucial for Phased Investing.
 
 ### Execution and Monitoring
 
@@ -70,7 +70,7 @@ Leading platforms include:
   
 - **MetaTrader:** Popular among retail traders for its comprehensive trading tools and user-friendly interface. More information available at [MetaTrader](https://www.metatrader4.com).
 
-Monitoring tools track the performance of each phase, providing insights into returns, drawdowns, and other key metrics. Performance monitoring platforms such as QuantConnect and TradingView offer extensive analytical tools and visualizations to support Phased Investing.
+Monitoring tools track the performance of each phase, providing insights into returns, drawdowns, and other key metrics. Performance monitoring platforms such as [QuantConnect](../q/quantconnect.md) and [TradingView](../t/tradingview.md) offer extensive analytical tools and visualizations to support Phased Investing.
 
 ## Case Study: Implementing Phased Investing
 

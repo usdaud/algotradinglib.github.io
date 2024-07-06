@@ -49,11 +49,11 @@ The essence of Value-Momentum Investing lies in identifying stocks that are unde
 
 Several advanced software tools can assist in implementing a Value-Momentum Investing strategy effectively:
 
-- **Bloomberg Terminal**: Offers extensive financial data, analytics, and tools for both value and [momentum analysis](../m/momentum_analysis.md).
-- **Morningstar Direct**: Provides comprehensive data that can help in screening value stocks and analyzing momentum.
-- **QuantConnect**: A platform for [backtesting](../b/backtesting.md) and deploying [quantitative trading](../q/quantitative_trading.md) strategies, ideal for custom Value-Momentum Investing algorithms.
+- **[Bloomberg](../b/bloomberg.md) Terminal**: Offers extensive financial data, analytics, and tools for both value and [momentum analysis](../m/momentum_analysis.md).
+- **[Morningstar](../m/morningstar.md) Direct**: Provides comprehensive data that can help in screening value stocks and analyzing momentum.
+- **[QuantConnect](../q/quantconnect.md)**: A platform for [backtesting](../b/backtesting.md) and deploying [quantitative trading](../q/quantitative_trading.md) strategies, ideal for custom Value-Momentum Investing algorithms.
 - **Kensho**: AI-driven analytics platform useful for uncovering market trends.
-- **TradeStation**: A trading platform that offers both [technical analysis](../t/technical_analysis.md) tools for momentum investing and [fundamental analysis](../f/fundamental_analysis.md) for [value investing](../v/value_investing.md).
+- **[TradeStation](../t/tradestation.md)**: A trading platform that offers both [technical analysis](../t/technical_analysis.md) tools for momentum investing and [fundamental analysis](../f/fundamental_analysis.md) for [value investing](../v/value_investing.md).
 
 #### Case Studies
 

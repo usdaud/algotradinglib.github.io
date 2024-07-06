@@ -84,8 +84,8 @@ Portfolio analysis in algo trading must adhere to various regulatory standards a
 
 Several companies specialize in providing tools and services for portfolio analysis in algo trading. Some notable ones include:
 
-**1. QuantConnect**
-QuantConnect offers a robust [algorithmic trading](../a/algorithmic_trading.md) platform that supports [quantitative finance](../q/quantitative_finance.md) and [backtesting](../b/backtesting.md) research.
+**1. [QuantConnect](../q/quantconnect.md)**
+[QuantConnect](../q/quantconnect.md) offers a robust [algorithmic trading](../a/algorithmic_trading.md) platform that supports [quantitative finance](../q/quantitative_finance.md) and [backtesting](../b/backtesting.md) research.
 [QuantConnect](https://www.quantconnect.com/)
 
 **2. Portfolio123**

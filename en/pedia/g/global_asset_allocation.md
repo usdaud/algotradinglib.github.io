@@ -92,7 +92,7 @@ Rebalancing is the process of realigning the weightings of a portfolio of assets
 
 #### Software Solutions
 
-Various software solutions offer tools for [asset allocation](../a/asset_allocation.md), [portfolio management](../p/portfolio_management.md), and risk assessment. Key players in this domain include BlackRock’s Aladdin (www.blackrock.com/aladdin), Morningstar Direct (www.morningstar.com/products/direct), and FactSet (www.factset.com).
+Various software solutions offer tools for [asset allocation](../a/asset_allocation.md), [portfolio management](../p/portfolio_management.md), and risk assessment. Key players in this domain include BlackRock’s Aladdin (www.blackrock.com/aladdin), [Morningstar](../m/morningstar.md) Direct (www.[morningstar](../m/morningstar.md).com/products/direct), and [FactSet](../f/factset.md) (www.[factset](../f/factset.md).com).
 
 #### Algorithms and Automation
 

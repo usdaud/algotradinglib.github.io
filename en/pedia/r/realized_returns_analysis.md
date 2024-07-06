@@ -47,8 +47,8 @@ Realized Return = \frac{150 + 10 - 100 - 5}{100} = \frac{55}{100} = 0.55 \text{ 
 
 ### Tools and Software for Realized Returns Analysis
 
-1. **Bloomberg Terminal**: Provides a comprehensive suite of tools for analyzing realized returns across different asset classes. [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-2. **Reuters Eikon**: Offers advanced analytics for tracking and analyzing realized returns. [Refinitiv Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)
+1. **[Bloomberg](../b/bloomberg.md) Terminal**: Provides a comprehensive suite of tools for analyzing realized returns across different asset classes. [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+2. **[Reuters](../r/reuters.md) Eikon**: Offers advanced analytics for tracking and analyzing realized returns. [Refinitiv Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)
 3. **MatLab Financial Toolbox**: Useful for custom programming and calculation of realized returns. [MatLab](https://www.mathworks.com/products/finance.html)
 4. **Python Libraries**: Libraries such as Pandas and NumPy provide functionalities to calculate and analyze realized returns. [Pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/)
 

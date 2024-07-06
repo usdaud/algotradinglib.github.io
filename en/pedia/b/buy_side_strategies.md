@@ -104,7 +104,7 @@ The implementation of buy side strategies, especially those involving quantitati
 
 ### Data Analytics Platforms
 
-These platforms aggregate and analyze large volumes of market data, providing insights and signals used in quantitative strategies. Examples include Bloomberg Terminal and Thomson Reuters Eikon.
+These platforms aggregate and analyze large volumes of market data, providing insights and signals used in quantitative strategies. Examples include [Bloomberg](../b/bloomberg.md) Terminal and Thomson [Reuters](../r/reuters.md) Eikon.
 
 ### Trading Algorithms
 

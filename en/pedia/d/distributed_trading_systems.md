@@ -66,12 +66,12 @@
    Numerix offers cross-asset analytics for OTC [derivatives](../d/derivatives.md), structured products, and variable annuities. Their solutions leverage distributed computing to provide real-time risk and [valuation models](../v/valuation_models.md).
    [Numerix](https://www.numerix.com/)
 
-3. **QuantConnect**:
-   QuantConnect is an [algorithmic trading](../a/algorithmic_trading.md) platform that offers cloud-based infrastructure for [backtesting](../b/backtesting.md) and live trading. It supports a distributed architecture to allow users to run algorithms in a scalable and efficient manner.
+3. **[QuantConnect](../q/quantconnect.md)**:
+   [QuantConnect](../q/quantconnect.md) is an [algorithmic trading](../a/algorithmic_trading.md) platform that offers cloud-based infrastructure for [backtesting](../b/backtesting.md) and live trading. It supports a distributed architecture to allow users to run algorithms in a scalable and efficient manner.
    [QuantConnect](https://www.quantconnect.com/)
 
-4. **AlgoTrader**:
-   AlgoTrader is an institutional-grade [algorithmic trading](../a/algorithmic_trading.md) software that supports automated trading of various asset classes. It utilizes a distributed architecture to provide high performance and scalability.
+4. **[AlgoTrader](../a/algotrader.md)**:
+   [AlgoTrader](../a/algotrader.md) is an institutional-grade [algorithmic trading](../a/algorithmic_trading.md) software that supports automated trading of various asset classes. It utilizes a distributed architecture to provide high performance and scalability.
    [AlgoTrader](https://www.algotrader.com/)
 
 ### Conclusion

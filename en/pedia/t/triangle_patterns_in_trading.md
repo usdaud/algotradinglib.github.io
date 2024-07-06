@@ -115,7 +115,7 @@ By combining the symmetrical triangle pattern with moving averages, traders can 
 Triangle patterns are valuable tools in the arsenal of technical traders. Whether symmetrical, ascending, or descending, these patterns provide insights into potential price movements that can help traders make informed decisions. By understanding how to identify and trade triangle patterns while considering volume, false breakouts, and additional [technical indicators](../t/technical_indicators.md), traders can enhance their proficiency in [technical analysis](../t/technical_analysis.md) and increase their chances of trading success. 
 
 For more practical insights and advanced educational resources, traders can refer to various professional platforms like:
-- TradingView: [https://www.tradingview.com](https://www.tradingview.com)
+- [TradingView](../t/tradingview.md): [https://www.tradingview.com](https://www.tradingview.com)
 - Investopedia: [https://www.investopedia.com](https://www.investopedia.com)
 - NetPicks: [https://www.netpicks.com](https://www.netpicks.com)
 

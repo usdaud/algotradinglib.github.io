@@ -68,7 +68,7 @@ The latency and computational efficiency of the trading infrastructure also affe
 
 ### Example: QuantConnect
 
-QuantConnect is an [algorithmic trading](../a/algorithmic_trading.md) platform that provides [backtesting](../b/backtesting.md) and live trading capabilities using open-source LEAN Algorithm Framework. Their platform allows developers to design, optimize, and deploy [algorithmic trading](../a/algorithmic_trading.md) strategies with various yield coefficients that signal their profitability and efficiency. For more information, visit [QuantConnect](https://www.quantconnect.com/).
+[QuantConnect](../q/quantconnect.md) is an [algorithmic trading](../a/algorithmic_trading.md) platform that provides [backtesting](../b/backtesting.md) and live trading capabilities using open-source LEAN Algorithm Framework. Their platform allows developers to design, optimize, and deploy [algorithmic trading](../a/algorithmic_trading.md) strategies with various yield coefficients that signal their profitability and efficiency. For more information, visit [QuantConnect](https://www.quantconnect.com/).
 
 ### Example: Two Sigma
 

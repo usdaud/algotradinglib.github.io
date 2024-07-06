@@ -43,7 +43,7 @@ The use of a 10-period RSI in [algorithmic trading](../a/algorithmic_trading.md)
 [Algorithmic trading](../a/algorithmic_trading.md) utilizes various programming languages and tools to automate [trading strategies](../t/trading_strategies.md) based on RSI indicators. Common platforms and languages include:
 - **Python**: Libraries such as TA-Lib and pandas provide tools to calculate RSI and backtest strategies.
 - **C++ and JAVA**: These offer low latency solutions ideal for high-frequency trading environments.
-- **Trading Platforms**: Platforms like MetaTrader, QuantConnect, and TradeStation allow implementing custom RSI algorithms in their scripting environments.
+- **Trading Platforms**: Platforms like MetaTrader, [QuantConnect](../q/quantconnect.md), and [TradeStation](../t/tradestation.md) allow implementing custom RSI algorithms in their scripting environments.
 
 #### Python Implementation Example
 

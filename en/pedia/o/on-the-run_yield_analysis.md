@@ -54,7 +54,7 @@ In corporate finance, OTR yields serve as the discount rate for evaluating proje
 ## Tools and Resources for Analysis
 Several tools and resources are available for conducting on-the-run [yield analysis](../y/yield_analysis.md):
 
-1. **Bloomberg Terminal**: Provides comprehensive financial data, including real-time OTR yield curves, [economic indicators](../e/economic_indicators.md), and analytical tools. [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+1. **[Bloomberg](../b/bloomberg.md) Terminal**: Provides comprehensive financial data, including real-time OTR yield curves, [economic indicators](../e/economic_indicators.md), and analytical tools. [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 2. **Federal Reserve Economic Data (FRED)**: Offers historical and current data on Treasury yields, facilitating detailed analysis. [FRED](https://fred.stlouisfed.org/)
 3. **TreasuryDirect**: Managed by the U.S. Department of the Treasury, offering direct access to auction results, yield curves, and other pertinent data. [TreasuryDirect](https://www.treasurydirect.gov/)
 

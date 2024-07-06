@@ -83,7 +83,7 @@ Virtu Financial is known for its emphasis on technological innovations in tradin
 Website: [Virtu Financial](https://www.virtu.com)
 
 #### 2. **QuantConnect**
-QuantConnect provides a platform for designing, testing, and deploying algotrading strategies, including those focused on IPO investments.
+[QuantConnect](../q/quantconnect.md) provides a platform for designing, testing, and deploying algotrading strategies, including those focused on IPO investments.
 Website: [QuantConnect](https://www.quantconnect.com)
 
 #### 3. **Interactive Brokers**

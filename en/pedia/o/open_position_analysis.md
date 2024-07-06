@@ -44,7 +44,7 @@ Several tools and technologies facilitate efficient open position analysis:
 
 ### Trading Platforms
 
-Platforms like MetaTrader, TradeStation, and NinjaTrader offer advanced functionalities for real-time position tracking and analysis.
+Platforms like MetaTrader, [TradeStation](../t/tradestation.md), and [NinjaTrader](../n/ninjatrader.md) offer advanced functionalities for real-time position tracking and analysis.
 
 ### Analytical Software
 
@@ -52,25 +52,25 @@ Software such as MATLAB, R, and Python, combined with libraries like Pandas, Num
 
 ### Risk Management Systems
 
-Systems like RiskMetrics and QuantConnect provide comprehensive solutions for risk evaluation and management of open positions in real-time.
+Systems like RiskMetrics and [QuantConnect](../q/quantconnect.md) provide comprehensive solutions for risk evaluation and management of open positions in real-time.
 
 ### APIs and Data Feeds
 
-APIs from financial data providers such as Bloomberg, Reuters, and Alpha Vantage deliver [real-time market data](../r/real-time_market_data.md) essential for accurate position analysis.
+APIs from financial data providers such as [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), and Alpha Vantage deliver [real-time market data](../r/real-time_market_data.md) essential for accurate position analysis.
 
 ## Companies Specializing in Open Position Analysis
 
 ### [QuantConnect](https://www.quantconnect.com/)
 
-QuantConnect offers a cloud-based platform that provides [algorithmic trading](../a/algorithmic_trading.md) and [quantitative analysis](../q/quantitative_analysis.md) tools for both individual and institutional traders. Their platform includes comprehensive open position analysis tools and [risk management](../r/risk_management.md) systems.
+[QuantConnect](../q/quantconnect.md) offers a cloud-based platform that provides [algorithmic trading](../a/algorithmic_trading.md) and [quantitative analysis](../q/quantitative_analysis.md) tools for both individual and institutional traders. Their platform includes comprehensive open position analysis tools and [risk management](../r/risk_management.md) systems.
 
 ### [TradeStation](https://www.tradestation.com/)
 
-TradeStation provides advanced trading technology that allows traders to execute and monitor open positions in real-time, employing various analytical tools and [risk management](../r/risk_management.md) features.
+[TradeStation](../t/tradestation.md) provides advanced trading technology that allows traders to execute and monitor open positions in real-time, employing various analytical tools and [risk management](../r/risk_management.md) features.
 
 ### [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
-Bloomberg Terminal is a sophisticated platform providing extensive financial data, analytics, and monitoring tools, crucial for open position analysis in high-frequency and [algorithmic trading](../a/algorithmic_trading.md) environments.
+[Bloomberg](../b/bloomberg.md) Terminal is a sophisticated platform providing extensive financial data, analytics, and monitoring tools, crucial for open position analysis in high-frequency and [algorithmic trading](../a/algorithmic_trading.md) environments.
 
 ## Practical Considerations
 

@@ -43,7 +43,7 @@ In [algorithmic trading](../a/algorithmic_trading.md), the integration of total 
 #### Data Sources and Providers
 
 Data for total return benchmarks can be sourced from reputable financial data providers like:
-- **Bloomberg**: Comprehensive provider for real-time and historical financial data, including [total return indices](../t/total_return_indices.md) ([Bloomberg Website](https://www.bloomberg.com/)).
+- **[Bloomberg](../b/bloomberg.md)**: Comprehensive provider for real-time and historical financial data, including [total return indices](../t/total_return_indices.md) ([Bloomberg Website](https://www.bloomberg.com/)).
 - **MSCI**: For extensive coverage of global indices, inclusive of total return versions ([MSCI Website](https://www.msci.com/)).
 - **S&P Dow Jones Indices**: Offers a plethora of [total return indices](../t/total_return_indices.md), especially in the U.S. market ([S&P Dow Jones Indices Website](https://www.spglobal.com/spdji/en/)).
 

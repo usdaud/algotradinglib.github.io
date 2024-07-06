@@ -65,9 +65,9 @@ Several [technical indicators](../t/technical_indicators.md) and tools are essen
 Several platforms and software solutions support the implementation of high probability [trading strategies](../t/trading_strategies.md):
 
 - **MetaTrader 4 & 5**: Offers advanced charting and trading automation capabilities.
-- **NinjaTrader**: Renowned for its robust charting, analysis, and execution tools.
-- **TradingView**: Provides comprehensive charting tools and social networking features.
-- **QuantConnect (https://www.quantconnect.com)**: A platform for designing, testing, and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies.
+- **[NinjaTrader](../n/ninjatrader.md)**: Renowned for its robust charting, analysis, and execution tools.
+- **[TradingView](../t/tradingview.md)**: Provides comprehensive charting tools and social networking features.
+- **[QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com)**: A platform for designing, testing, and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies.
 
 **Case Studies**
 

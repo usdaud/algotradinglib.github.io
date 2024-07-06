@@ -52,9 +52,9 @@ Attribution Analysis further breaks down returns by attributing them to specific
 
 Many financial institutions and firms provide tools and platforms for rate of return decomposition. These include:
 
-- **Bloomberg Terminal**: Widely used for its comprehensive analytical tools.
-- **Morningstar Direct**: Offers performance and [risk analysis](../r/risk_analysis.md) tools tailored for investment professionals.
-- **FactSet**: Provides detailed [performance attribution](../p/performance_attribution.md) and [risk analysis](../r/risk_analysis.md) capabilities.
+- **[Bloomberg](../b/bloomberg.md) Terminal**: Widely used for its comprehensive analytical tools.
+- **[Morningstar](../m/morningstar.md) Direct**: Offers performance and [risk analysis](../r/risk_analysis.md) tools tailored for investment professionals.
+- **[FactSet](../f/factset.md)**: Provides detailed [performance attribution](../p/performance_attribution.md) and [risk analysis](../r/risk_analysis.md) capabilities.
 
 For more details, check the following company pages:
 - [Bloomberg Terminal: Bloomberg Professional Services](https://www.bloomberg.com/professional/)

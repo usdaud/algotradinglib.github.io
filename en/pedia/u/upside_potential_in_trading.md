@@ -28,13 +28,13 @@ Several metrics and tools are used to measure upside potential, each with its ow
 
 Various platforms and tools aid traders in assessing upside potential and optimizing their [trading strategies](../t/trading_strategies.md):
 
-1. **QuantConnect**: Offers an open [algorithmic trading](../a/algorithmic_trading.md) platform where traders can build, backtest, and execute strategies. The platform provides extensive historical data and analytical tools to gauge upside potential. [QuantConnect](https://www.quantconnect.com/)
+1. **[QuantConnect](../q/quantconnect.md)**: Offers an open [algorithmic trading](../a/algorithmic_trading.md) platform where traders can build, backtest, and execute strategies. The platform provides extensive historical data and analytical tools to gauge upside potential. [QuantConnect](https://www.quantconnect.com/)
 
-2. **AlgoTrader**: A comprehensive [algorithmic trading](../a/algorithmic_trading.md) software solution that supports multiple asset classes. It includes modules for [risk management](../r/risk_management.md), strategy [backtesting](../b/backtesting.md), and performance analysis, which are integral for understanding upside potential. [AlgoTrader](https://www.algotrader.com/)
+2. **[AlgoTrader](../a/algotrader.md)**: A comprehensive [algorithmic trading](../a/algorithmic_trading.md) software solution that supports multiple asset classes. It includes modules for [risk management](../r/risk_management.md), strategy [backtesting](../b/backtesting.md), and performance analysis, which are integral for understanding upside potential. [AlgoTrader](https://www.algotrader.com/)
 
 3. **Quantopian**: Although it has ceased operations, Quantopian previously provided a robust platform for developing and [backtesting](../b/backtesting.md) [trading algorithms](../t/trading_algorithms.md) with a focus on upside potential. Its legacy continues as a reference for contemporary tools.
 
-4. **TradingView**: Known for its powerful charting capabilities and [social trading](../s/social_trading.md) network, TradingView also offers various [technical indicators](../t/technical_indicators.md) and analysis tools that help traders evaluate upside potential. [TradingView](https://www.tradingview.com/)
+4. **[TradingView](../t/tradingview.md)**: Known for its powerful charting capabilities and [social trading](../s/social_trading.md) network, [TradingView](../t/tradingview.md) also offers various [technical indicators](../t/technical_indicators.md) and analysis tools that help traders evaluate upside potential. [TradingView](https://www.tradingview.com/)
 
 5. **MetaTrader 4/5**: Widely used trading platforms that support [algorithmic trading](../a/algorithmic_trading.md) via custom scripts, commonly known as Expert Advisors (EAs). These platforms provide extensive [backtesting](../b/backtesting.md) capabilities and [risk management](../r/risk_management.md) tools essential for assessing upside potential. [MetaTrader](https://www.metatrader4.com/)
 

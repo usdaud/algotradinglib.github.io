@@ -74,7 +74,7 @@ Sector [performance metrics](../p/performance_metrics.md) support [sector rotati
 ## Calculating Sector Performance Metrics
 
 ### Data Collection
-The first step in calculating sector [performance metrics](../p/performance_metrics.md) involves collecting the necessary financial data. This includes historical price data, financial statements, market indices, and macroeconomic indicators. Data can be sourced from financial news platforms, stock exchanges, and specialized data providers like Bloomberg and Reuters.
+The first step in calculating sector [performance metrics](../p/performance_metrics.md) involves collecting the necessary financial data. This includes historical price data, financial statements, market indices, and macroeconomic indicators. Data can be sourced from financial news platforms, stock exchanges, and specialized data providers like [Bloomberg](../b/bloomberg.md) and [Reuters](../r/reuters.md).
 
 ### Quantitative Analysis
 Once the data is collected, various [quantitative analysis](../q/quantitative_analysis.md) techniques are applied to compute the metrics. This often involves statistical analysis and [financial modeling](../f/financial_modeling.md) using tools like Excel, R, Python, or specialized financial software.
@@ -112,19 +112,19 @@ Algo [trading systems](../t/trading_systems.md) utilize [backtesting](../b/backt
 ## Leading Firms and Resources
 
 ### Bloomberg
-Bloomberg provides comprehensive financial data, analytics, and news, essential for calculating and analyzing sector [performance metrics](../p/performance_metrics.md). Their platform is widely used by traders and investors globally.
+[Bloomberg](../b/bloomberg.md) provides comprehensive financial data, analytics, and news, essential for calculating and analyzing sector [performance metrics](../p/performance_metrics.md). Their platform is widely used by traders and investors globally.
 Website: [Bloomberg](https://www.bloomberg.com/)
 
 ### Reuters
-Reuters offers a vast array of financial information, including sector-specific performance data and market analysis.
+[Reuters](../r/reuters.md) offers a vast array of financial information, including sector-specific performance data and market analysis.
 Website: [Reuters](https://www.reuters.com/)
 
 ### FactSet
-FactSet is a leading provider of financial data and analytics, offering tools and resources for in-depth [sector performance](../s/sector_performance.md) analysis.
+[FactSet](../f/factset.md) is a leading provider of financial data and analytics, offering tools and resources for in-depth [sector performance](../s/sector_performance.md) analysis.
 Website: [FactSet](https://www.factset.com/)
 
 ### Morningstar
-Morningstar provides data on mutual funds, ETFs, and other investment vehicles, with a focus on [sector performance](../s/sector_performance.md) and investment analysis.
+[Morningstar](../m/morningstar.md) provides data on mutual funds, ETFs, and other investment vehicles, with a focus on [sector performance](../s/sector_performance.md) and investment analysis.
 Website: [Morningstar](https://www.morningstar.com/)
 
 ### MSCI

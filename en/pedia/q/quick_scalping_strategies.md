@@ -1,6 +1,6 @@
 # Quick Scalping Strategies
 
-When it comes to algorithmic trading, "Quick Scalping Strategies" form a significant and intriguing subset. This form of trading focuses on making a high number of small profits within short time frames—often minutes or even seconds—capitalizing on very brief market movements. This guide delves into the intricacies, methodologies, tools, and risks associated with quick scalping strategies in algorithmic trading.
+When it comes to [algorithmic trading](../a/algorithmic_trading.md), "Quick Scalping Strategies" form a significant and intriguing subset. This form of trading focuses on making a high number of small profits within short time frames—often minutes or even seconds—capitalizing on very brief market movements. This guide delves into the intricacies, methodologies, tools, and risks associated with quick scalping strategies in [algorithmic trading](../a/algorithmic_trading.md).
 
 ### 1. Introduction to Scalping
 
@@ -42,7 +42,7 @@ Breakout scalping focuses on entering trades in the direction of a breakout from
 
 #### A. Algorithmic Trading Platforms
 
-Platforms like MetaTrader 4, MetaTrader 5, and NinjaTrader offer robust [algorithmic trading](../a/algorithmic_trading.md) capabilities that are essential for implementing effective scalping strategies. These platforms provide API access, enabling traders to develop and deploy custom scalping algorithms.
+Platforms like MetaTrader 4, MetaTrader 5, and [NinjaTrader](../n/ninjatrader.md) offer robust [algorithmic trading](../a/algorithmic_trading.md) capabilities that are essential for implementing effective scalping strategies. These platforms provide API access, enabling traders to develop and deploy custom scalping algorithms.
 
 #### B. High-Frequency Trading Systems
 
@@ -50,7 +50,7 @@ Companies like Virtu Financial (*[Virtu Financial](https://www.virtu.com/)*) and
 
 #### C. Market Data Feeds
 
-Access to [real-time market data](../r/real-time_market_data.md) is critical for scalping. Services like Bloomberg Terminal (*[Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)*) or Thomson Reuters Eikon (*[Thomson Reuters](https://www.refinitiv.com/en/products/eikon-trading-software)*) provide comprehensive [real-time market data](../r/real-time_market_data.md) and analytics.
+Access to [real-time market data](../r/real-time_market_data.md) is critical for scalping. Services like [Bloomberg](../b/bloomberg.md) Terminal (*[Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)*) or Thomson [Reuters](../r/reuters.md) Eikon (*[Thomson Reuters](https://www.refinitiv.com/en/products/eikon-trading-software)*) provide comprehensive [real-time market data](../r/real-time_market_data.md) and analytics.
 
 ### 5. Execution Algorithms
 
@@ -113,7 +113,7 @@ The ability to handle and quickly recover from losses is essential. Given the hi
 
 [Automated trading bots](../a/automated_trading_bots.md) are integrated into scalping strategies to manage the high execution speed and volume. Platforms such as:
 
-- **AlgoTrader** (*[AlgoTrader](https://www.algotrader.com/)*) provides sophisticated [algorithmic trading](../a/algorithmic_trading.md) solutions specific to scalping.
+- **[AlgoTrader](../a/algotrader.md)** (*[AlgoTrader](https://www.algotrader.com/)*) provides sophisticated [algorithmic trading](../a/algorithmic_trading.md) solutions specific to scalping.
 - **Kryll.io** (*[Kryll](https://www.kryll.io/)*) offers drag-and-drop algorithm creation tools tailored for scalping.
 
 ### 10. Regulatory Considerations

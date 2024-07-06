@@ -48,8 +48,8 @@ The choice of a robust trading platform is crucial for full-time day traders due
 
 **Popular Platforms:**
 - **MetaTrader 4/5:** Advanced charting and tools for [algorithmic trading](../a/algorithmic_trading.md).
-- **Thinkorswim by TD Ameritrade:** Comprehensive analytical capabilities for diverse asset classes.
-- **NinjaTrader:** Focuses on futures & forex trading with extensive [backtesting](../b/backtesting.md) and automation options.
+- **[Thinkorswim](../t/thinkorswim.md) by TD Ameritrade:** Comprehensive analytical capabilities for diverse asset classes.
+- **[NinjaTrader](../n/ninjatrader.md):** Focuses on futures & forex trading with extensive [backtesting](../b/backtesting.md) and automation options.
 
 ### Automated Trading Systems
 
@@ -60,7 +60,7 @@ Automation in trading helps reduce the emotional bias and ensures consistent exe
 - **Robotic Process Automation (RPA):** Handling repetitive trading processes.
   
 **Notable Companies:**
-- **TradeStation [tradestation.com](https://www.tradestation.com/):** Offers robust platform features suitable for developing and executing automated [trading strategies](../t/trading_strategies.md).
+- **[TradeStation](../t/tradestation.md) [tradestation.com](https://www.tradestation.com/):** Offers robust platform features suitable for developing and executing automated [trading strategies](../t/trading_strategies.md).
 - **Interactive Brokers [interactivebrokers.com](https://www.interactivebrokers.com/):** Provides extensive [algorithmic trading](../a/algorithmic_trading.md) services and smart routing capabilities.
 
 ### High-Frequency Trading (HFT)
@@ -115,7 +115,7 @@ Although leveraging can amplify gains, it also increases risk exposure. Understa
 
 ### Licensing and Compliance
 
-Ensuring compliance with financial regulations and obtaining necessary licenses, such as those from the Financial Industry Regulatory Authority (FINRA), is crucial to protecting your operations and maintaining credibility.
+Ensuring compliance with financial regulations and obtaining necessary licenses, such as those from the Financial Industry Regulatory Authority ([FINRA](../f/finra.md)), is crucial to protecting your operations and maintaining credibility.
 
 ### Tax Implications
 

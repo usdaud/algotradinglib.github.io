@@ -42,7 +42,7 @@ Several methodologies and metrics are employed to quantify [yield curve](../y/yi
 #### Tools and Technologies for Yield Curve Risk Management
 Advancements in [quantitative finance](../q/quantitative_finance.md) and technology have introduced sophisticated tools for [yield curve](../y/yield_curve.md) [risk management](../r/risk_management.md):
 
-1. **[Financial Modeling](../f/financial_modeling.md) Software**: Platforms like Bloomberg Terminal and Reuters Eikon offer extensive datasets and analytics tools for modeling [yield curve](../y/yield_curve.md) scenarios and assessing risk.
+1. **[Financial Modeling](../f/financial_modeling.md) Software**: Platforms like [Bloomberg](../b/bloomberg.md) Terminal and [Reuters](../r/reuters.md) Eikon offer extensive datasets and analytics tools for modeling [yield curve](../y/yield_curve.md) scenarios and assessing risk.
 2. **[Risk Management](../r/risk_management.md) Systems**: Institutional solutions such as MSCI RiskMetrics and SAS [Risk Management](../r/risk_management.md) provide comprehensive risk analytics, including [yield curve](../y/yield_curve.md) risk measures.
 3. **[Algorithmic Trading](../a/algorithmic_trading.md) Systems**: These platforms can automatically execute trades based on predefined criteria for [yield curve](../y/yield_curve.md) movements, allowing for real-time [risk management](../r/risk_management.md) and [portfolio rebalancing](../p/portfolio_rebalancing.md).
 
@@ -52,7 +52,7 @@ Advancements in [quantitative finance](../q/quantitative_finance.md) and technol
 2. **Pension Funds**: Many pension funds employ advanced ALM strategies to match the durations of their liabilities with suitable assets, using [interest rate swaps](../i/interest_rate_swaps.md) to manage [yield curve](../y/yield_curve.md) exposure.
 
 #### Leading Companies and Providers
-1. **Bloomberg**: Provides advanced [yield curve](../y/yield_curve.md) analysis tools via the Bloomberg Terminal along with a wealth of market data. [Bloomberg](https://www.bloomberg.com)
+1. **[Bloomberg](../b/bloomberg.md)**: Provides advanced [yield curve](../y/yield_curve.md) analysis tools via the [Bloomberg](../b/bloomberg.md) Terminal along with a wealth of market data. [Bloomberg](https://www.bloomberg.com)
 2. **MSCI**: Their RiskMetrics platform offers sophisticated [yield curve](../y/yield_curve.md) risk measurement and management tools. [MSCI](https://www.msci.com)
 3. **BlackRock**: As one of the largest asset managers, BlackRock offers comprehensive [risk management](../r/risk_management.md) services, including [yield curve](../y/yield_curve.md) risk analytics through their Aladdin platform. [BlackRock](https://www.blackrock.com)
 

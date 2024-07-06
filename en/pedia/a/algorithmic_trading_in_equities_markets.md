@@ -55,7 +55,7 @@ Algo trading requires advanced hardware and network infrastructure to achieve lo
 
 [Algorithmic trading](../a/algorithmic_trading.md) software encompasses various components, including:
 
-- **Trading Platforms**: Software that connects traders to financial markets, such as MetaTrader, NinjaTrader, and proprietary platforms.
+- **Trading Platforms**: Software that connects traders to financial markets, such as MetaTrader, [NinjaTrader](../n/ninjatrader.md), and proprietary platforms.
 - **[Execution Algorithms](../e/execution_algorithms.md)**: Algorithms designed to execute trades efficiently, such as VWAP (Volume Weighted Average Price) and TWAP (Time Weighted Average Price) algorithms.
 - **[Backtesting](../b/backtesting.md) Tools**: Software to test [trading strategies](../t/trading_strategies.md) against historical data to evaluate their performance before deployment.
 

@@ -1,6 +1,6 @@
 # Dynamic Asset Allocation
 
-Dynamic Asset Allocation (DAA) is an investment strategy that adjusts the mix of asset classes within a portfolio to optimize returns based on market conditions. Unlike static asset allocation, which maintains a fixed percentage of assets, DAA is flexible and adjusts as market trends, economic conditions, and financial goals change. This approach leverages quantitative models, economic indicators, and other financial metrics to make timely adjustments, thereby seeking to maximize returns while managing risk.
+Dynamic [Asset Allocation](../a/asset_allocation.md) (DAA) is an investment strategy that adjusts the mix of asset classes within a portfolio to optimize returns based on market conditions. Unlike static [asset allocation](../a/asset_allocation.md), which maintains a fixed percentage of assets, DAA is flexible and adjusts as market trends, economic conditions, and financial goals change. This approach leverages [quantitative models](../q/quantitative_models.md), [economic indicators](../e/economic_indicators.md), and other financial metrics to make timely adjustments, thereby seeking to maximize returns while managing risk.
 
 ### Components of Dynamic Asset Allocation
 

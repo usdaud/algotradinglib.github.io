@@ -50,7 +50,7 @@ E-Trade is among the brokers offering extended trading hours to retail investors
 Given the reduced liquidity and higher volatility during extended trading hours, using limit orders is often recommended. Limit orders help define the price at which you are willing to buy or sell, thereby providing more control over trade execution.
 
 ### Monitor News Closely
-Staying informed about global economic events, corporate announcements, and other significant news is crucial when trading during extended hours. Platforms such as Bloomberg, Reuters, and CNBC can provide timely updates that may affect your trading decisions.
+Staying informed about global economic events, corporate announcements, and other significant news is crucial when trading during extended hours. Platforms such as [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), and CNBC can provide timely updates that may affect your trading decisions.
 
 ### Manage Risk
 Proper [risk management](../r/risk_management.md) is essential, particularly when trading during times of higher volatility. Consider using [stop-loss orders](../s/stop-loss_orders.md) and other risk mitigation strategies to protect against significant losses.

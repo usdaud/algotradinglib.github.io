@@ -75,9 +75,9 @@ Modern advancements in machine learning (ML) and artificial intelligence (AI) ha
 
 ### Pattern Recognition Software
 Many trading platforms offer built-in [pattern recognition](../p/pattern_recognition.md) tools that automatically highlight candlestick patterns on charts:
-- **TradingView**: Offers advanced charting tools and [pattern recognition](../p/pattern_recognition.md) (https://www.tradingview.com)
-- **MetaTrader 4/5**: Popular among forex traders, provides custom indicators and [pattern recognition](../p/pattern_recognition.md) (https://www.metatrader4.com)
-- **QuantConnect**: An [algorithmic trading](../a/algorithmic_trading.md) platform that supports [pattern recognition](../p/pattern_recognition.md) (https://www.quantconnect.com)
+- **[TradingView](../t/tradingview.md)**: Offers advanced charting tools and [pattern recognition](../p/pattern_recognition.md) (https://www.[tradingview](../t/tradingview.md).com)
+- **MetaTrader 4/5**: Popular among forex traders, provides custom indicators and [pattern recognition](../p/pattern_recognition.md) (https://www.[metatrader4](../m/metatrader4.md).com)
+- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that supports [pattern recognition](../p/pattern_recognition.md) (https://www.[quantconnect](../q/quantconnect.md).com)
 
 ## Real-World Applications
 Fund managers, day traders, and retail traders use candlestick patterns as a crucial part of their trading strategy. Hedge funds and [proprietary trading](../p/proprietary_trading.md) firms often integrate these patterns into their [trading models](../t/trading_models.md) to gain a competitive edge.

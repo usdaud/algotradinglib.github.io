@@ -74,8 +74,8 @@ Another use case is a range-bound or sideways market filtering:
 
 Several [algorithmic trading](../a/algorithmic_trading.md) platforms and providers incorporate DMI in their strategies. Some notable ones include:
 
-- **QuantConnect**: A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform [QuantConnect](https://www.quantconnect.com/)
-- **AlgoTrader**: An institutional multi-asset [algorithmic trading](../a/algorithmic_trading.md) software [AlgoTrader](https://www.algotrader.com/)
+- **[QuantConnect](../q/quantconnect.md)**: A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform [QuantConnect](https://www.quantconnect.com/)
+- **[AlgoTrader](../a/algotrader.md)**: An institutional multi-asset [algorithmic trading](../a/algorithmic_trading.md) software [AlgoTrader](https://www.algotrader.com/)
 - **Quantopian**: Another platform providing tools for [algorithmic trading](../a/algorithmic_trading.md) (although it ceased operations, it was popular for educational purposes)
 
 ### Conclusion

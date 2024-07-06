@@ -42,7 +42,7 @@ Cash settlement, on the other hand, does not involve the delivery of the underly
 
 - **Currency Futures**: Certain currency futures can also be cash-settled. An example is the Euro FX Futures traded on the CME, where settlement is in cash rather than actual currency delivery. [CME Group](https://www.cmegroup.com/)
 
-- **Commodity Indices**: [Futures contracts](../f/futures_contracts.md) based on commodity indices, such as the Bloomberg Commodity Index, are usually settled in cash.
+- **Commodity Indices**: [Futures contracts](../f/futures_contracts.md) based on commodity indices, such as the [Bloomberg](../b/bloomberg.md) Commodity Index, are usually settled in cash.
 
 ## Comparison: Physical vs. Cash Settlement
 

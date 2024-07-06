@@ -54,7 +54,7 @@ Metrics like the [Sharpe Ratio](../s/sharpe_ratio.md), Treynor Ratio, and [Jense
 
 ### Risk Management Software
 
-Modern [risk management](../r/risk_management.md) software solutions provide robust platforms for managing equity risks. These tools offer features such as real-time [risk analysis](../r/risk_analysis.md), scenario analysis, and automated reporting. Some popular [risk management](../r/risk_management.md) software includes Bloomberg [Risk Management](../r/risk_management.md), MSCI RiskMetrics, and Numerix.
+Modern [risk management](../r/risk_management.md) software solutions provide robust platforms for managing equity risks. These tools offer features such as real-time [risk analysis](../r/risk_analysis.md), scenario analysis, and automated reporting. Some popular [risk management](../r/risk_management.md) software includes [Bloomberg](../b/bloomberg.md) [Risk Management](../r/risk_management.md), MSCI RiskMetrics, and Numerix.
 
 ### Algorithmic Trading
 

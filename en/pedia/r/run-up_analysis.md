@@ -59,14 +59,14 @@ Before deploying any algorithm, it is essential to backtest it using historical 
 ### Data Sources
 
 Reliable data sources are crucial for accurate run-up analysis. These include:
-- **Financial databases**: Platforms like Bloomberg, Reuters, and market data feeds provide real-time and historical data.
+- **Financial databases**: Platforms like [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), and market data feeds provide real-time and historical data.
 - **Company releases**: Official company announcements and SEC filings are vital for real-time trigger analysis.
 
 ### Analytical Software
 
 Sophisticated software tools help in analyzing run-up data:
 - **Statistical analysis software**: Platforms like R, Python (with libraries such as Pandas and NumPy), and MATLAB are commonly used for advanced statistical analysis.
-- **Charting tools**: Software like TradingView and MetaTrader offer powerful charting capabilities for visualizing run-ups and price movements.
+- **Charting tools**: Software like [TradingView](../t/tradingview.md) and MetaTrader offer powerful charting capabilities for visualizing run-ups and price movements.
 - **Machine learning**: Tools like TensorFlow and Scikit-learn can be used to develop algorithms that predict future run-ups based on historical data.
 
 ### Example of a Company Utilizing Run-Up Analysis

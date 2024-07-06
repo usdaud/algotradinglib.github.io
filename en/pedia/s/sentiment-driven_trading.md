@@ -14,7 +14,7 @@ Market sentiment plays a crucial role in the financial markets. It is the collec
 
 Several data sources are used in sentiment-driven trading:
 
-1. **News Articles**: Financial news from outlets like Bloomberg, Reuters, and CNBC can influence market sentiment. [Automated trading systems](../a/automated_trading_systems.md) can be programmed to scrape and analyze news content to identify [sentiment indicators](../s/sentiment_indicators.md).
+1. **News Articles**: Financial news from outlets like [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), and CNBC can influence market sentiment. [Automated trading systems](../a/automated_trading_systems.md) can be programmed to scrape and analyze news content to identify [sentiment indicators](../s/sentiment_indicators.md).
 2. **Social Media**: Platforms like Twitter, StockTwits, and Reddit offer real-time insights into investor sentiment. For instance, the r/WallStreetBets subreddit became famous for its role in influencing stock prices.
 3. **Financial Reports**: [Quarterly earnings reports](../q/quarterly_earnings_reports.md) and annual statements from companies can affect investor sentiment. Positive or negative [earnings surprises](../e/earnings_surprises.md) can significantly move stock prices.
 4. **Blogs and Forums**: Financial blogs and investor forums provide additional sources of sentiment. These platforms often contain detailed analyses and investor opinions that can shed light on market trends.
@@ -50,9 +50,9 @@ Despite its advantages, sentiment-driven trading faces several challenges:
 
 Several companies and platforms specialize in providing [sentiment analysis](../s/sentiment_analysis.md) tools and data:
 
-1. **Bloomberg**: Offers advanced [sentiment analysis](../s/sentiment_analysis.md) tools integrated into its terminal services. [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal)
-2. **Refinitiv (formerly Thomson Reuters)**: Provides sentiment data through its Eikon platform. [Refinitiv Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)
-3. **RavenPack**: Specializes in real-time analytics and sentiment data for financial markets. [RavenPack](https://www.ravenpack.com/)
+1. **[Bloomberg](../b/bloomberg.md)**: Offers advanced [sentiment analysis](../s/sentiment_analysis.md) tools integrated into its terminal services. [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal)
+2. **Refinitiv (formerly Thomson [Reuters](../r/reuters.md))**: Provides sentiment data through its Eikon platform. [Refinitiv Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)
+3. **[RavenPack](../r/ravenpack.md)**: Specializes in real-time analytics and sentiment data for financial markets. [RavenPack](https://www.ravenpack.com/)
 4. **AlphaSense**: Provides a search engine for market intelligence with [sentiment analysis](../s/sentiment_analysis.md) capabilities. [AlphaSense](https://www.alpha-sense.com/)
 5. **StockTwits**: Social media platform focused on financial discussions, offering [sentiment indicators](../s/sentiment_indicators.md). [StockTwits](https://stocktwits.com/)
 6. **Dataminr**: Uses AI to analyze public data and provide real-time alerts on market sentiment. [Dataminr](https://www.dataminr.com/)

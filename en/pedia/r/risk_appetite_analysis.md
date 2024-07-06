@@ -48,12 +48,12 @@ Risk appetite is not a one-size-fits-all parameter; it varies widely between dif
 
 Numerous software solutions provide robust [risk management](../r/risk_management.md) tools tailored for [algorithmic trading](../a/algorithmic_trading.md). Examples include:
 
-- **AlgoTrader**: A comprehensive platform that integrates [risk management](../r/risk_management.md) functions seamlessly with [trading algorithms](../t/trading_algorithms.md). [Visit AlgoTrader](https://www.algotrader.com)
-- **QuantConnect**: Offers extensive [backtesting](../b/backtesting.md) and live trading tools, including features for risk assessment. [Visit QuantConnect](https://www.quantconnect.com)
+- **[AlgoTrader](../a/algotrader.md)**: A comprehensive platform that integrates [risk management](../r/risk_management.md) functions seamlessly with [trading algorithms](../t/trading_algorithms.md). [Visit AlgoTrader](https://www.algotrader.com)
+- **[QuantConnect](../q/quantconnect.md)**: Offers extensive [backtesting](../b/backtesting.md) and live trading tools, including features for risk assessment. [Visit QuantConnect](https://www.quantconnect.com)
 
 ### 2. **Risk Dashboards**
 
-- **Bloomberg Terminal**: Offers powerful [risk management](../r/risk_management.md) and analytics features, widely used by trading professionals for comprehensive risk appetite analysis.
+- **[Bloomberg](../b/bloomberg.md) Terminal**: Offers powerful [risk management](../r/risk_management.md) and analytics features, widely used by trading professionals for comprehensive risk appetite analysis.
 
 ### 3. **Custom Built Tools**
 

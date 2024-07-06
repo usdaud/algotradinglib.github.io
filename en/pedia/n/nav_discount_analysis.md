@@ -66,7 +66,7 @@ Various fintech firms and platforms specialize in NAV discount algo trading and 
 
 1. **Kensho Technologies**: Known for AI-driven financial analytics [Kensho](https://www.kensho.com/)
 
-2. **QuantConnect**: Provides a collaborative environment for developing and testing [algorithmic trading](../a/algorithmic_trading.md) strategies [QuantConnect](https://www.quantconnect.com/)
+2. **[QuantConnect](../q/quantconnect.md)**: Provides a collaborative environment for developing and testing [algorithmic trading](../a/algorithmic_trading.md) strategies [QuantConnect](https://www.quantconnect.com/)
 
 3. **Two Sigma**: A technology-driven hedge fund that utilizes machine learning and distributed computing for trading [Two Sigma](https://www.twosigma.com/)
 

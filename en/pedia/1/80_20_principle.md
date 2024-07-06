@@ -85,9 +85,9 @@ Applying the 80/20 Principle to market analysis involves focusing on the critica
 
 #### Notable Backtesting Platforms
 
-- **TradeStation**: A popular platform for [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md).
+- **[TradeStation](../t/tradestation.md)**: A popular platform for [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md).
   [TradeStation](https://www.tradestation.com/)
-- **QuantConnect**: Offers [algorithmic trading](../a/algorithmic_trading.md) [backtesting](../b/backtesting.md) as well as live trading integration.
+- **[QuantConnect](../q/quantconnect.md)**: Offers [algorithmic trading](../a/algorithmic_trading.md) [backtesting](../b/backtesting.md) as well as live trading integration.
   [QuantConnect](https://www.quantconnect.com/)
 
 ### Optimization Software
@@ -98,7 +98,7 @@ Optimization software solutions can help streamline the process of identifying a
 
 - **MetaTrader**: Provides optimization capabilities for [trading algorithms](../t/trading_algorithms.md).
   [MetaTrader](https://www.metatrader4.com/)
-- **NinjaTrader**: Offers [robust optimization](../r/robust_optimization.md) features for [algorithmic trading](../a/algorithmic_trading.md).
+- **[NinjaTrader](../n/ninjatrader.md)**: Offers [robust optimization](../r/robust_optimization.md) features for [algorithmic trading](../a/algorithmic_trading.md).
   [NinjaTrader](https://ninjatrader.com/)
 
 ### Monitoring and Reporting Tools

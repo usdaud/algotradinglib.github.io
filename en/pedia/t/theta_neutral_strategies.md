@@ -40,7 +40,7 @@ Ratio spreads involve buying and selling different quantities of options at diff
 
 To effectively implement Theta neutral strategies, you can use various trading platforms and software that calculate the Greeks and simulate different scenarios. These tools help manage the complexities involved in maintaining a Theta neutral portfolio. Some of the popular platforms and tools include:
 
-1. **Thinkorswim by TD Ameritrade**: A comprehensive trading platform that offers advanced options analysis tools, including Theta calculations and simulations.
+1. **[Thinkorswim](../t/thinkorswim.md) by TD Ameritrade**: A comprehensive trading platform that offers advanced options analysis tools, including Theta calculations and simulations.
    - [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
 
 2. **Interactive Brokers**: Known for its sophisticated trading tools, Interactive Brokers offers detailed options analytics and [risk management](../r/risk_management.md) features.

@@ -100,7 +100,7 @@ The percent volatility model adjusts position sizes based on the volatility of t
 
 ### Software and Tools
 
-Implementing money management strategies in [algorithmic trading](../a/algorithmic_trading.md) requires the use of specialized software and tools that can automate the calculation and application of these strategies. Popular trading platforms and [portfolio management](../p/portfolio_management.md) software such as MetaTrader, NinjaTrader, and QuantConnect offer features to incorporate money management rules within [trading algorithms](../t/trading_algorithms.md).
+Implementing money management strategies in [algorithmic trading](../a/algorithmic_trading.md) requires the use of specialized software and tools that can automate the calculation and application of these strategies. Popular trading platforms and [portfolio management](../p/portfolio_management.md) software such as MetaTrader, [NinjaTrader](../n/ninjatrader.md), and [QuantConnect](../q/quantconnect.md) offer features to incorporate money management rules within [trading algorithms](../t/trading_algorithms.md).
 
 ### Custom Algorithms
 

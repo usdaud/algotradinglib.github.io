@@ -42,9 +42,9 @@ A practical example of rolling forecasts in an [algorithmic trading](../a/algori
 
 Several software tools and platforms support rolling forecasts, including:
 
-1. **QuantConnect**: Provides a powerful [algorithmic trading](../a/algorithmic_trading.md) platform that can use rolling forecasts. Website: [QuantConnect](https://www.quantconnect.com)
-2. **AlgoTrader**: An institutional-grade [algorithmic trading](../a/algorithmic_trading.md) software provider that supports rolling forecasts and other advanced forecasting techniques. Website: [AlgoTrader](https://www.algotrader.com)
-3. **Quantlib**: An open-source library for [quantitative finance](../q/quantitative_finance.md), which includes modules for [time series analysis](../t/time_series_analysis.md) and rolling forecasts. Website: [Quantlib](https://www.quantlib.org)
+1. **[QuantConnect](../q/quantconnect.md)**: Provides a powerful [algorithmic trading](../a/algorithmic_trading.md) platform that can use rolling forecasts. Website: [QuantConnect](https://www.quantconnect.com)
+2. **[AlgoTrader](../a/algotrader.md)**: An institutional-grade [algorithmic trading](../a/algorithmic_trading.md) software provider that supports rolling forecasts and other advanced forecasting techniques. Website: [AlgoTrader](https://www.algotrader.com)
+3. **[Quantlib](../q/quantlib.md)**: An open-source library for [quantitative finance](../q/quantitative_finance.md), which includes modules for [time series analysis](../t/time_series_analysis.md) and rolling forecasts. Website: [Quantlib](https://www.quantlib.org)
 
 ### Future Trends and Developments
 

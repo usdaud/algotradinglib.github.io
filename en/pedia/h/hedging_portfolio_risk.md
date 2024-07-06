@@ -56,7 +56,7 @@ Commodity producers and consumers often use [futures contracts](../f/futures_con
 [Algorithmic trading](../a/algorithmic_trading.md) systems can automate [hedging strategies](../h/hedging_strategies.md) by executing predefined rules and formulas, thereby providing precision and speed in managing portfolio risks.
 
 ### Risk Management Software
-Software tools like Bloomberg Terminal, FactSet, and MSCI Barra provide analytics and frameworks for assessing and managing risk.
+Software tools like [Bloomberg](../b/bloomberg.md) Terminal, [FactSet](../f/factset.md), and MSCI Barra provide analytics and frameworks for assessing and managing risk.
 
 ## Companies Specializing in Hedging Solutions
 ### AQR Capital Management

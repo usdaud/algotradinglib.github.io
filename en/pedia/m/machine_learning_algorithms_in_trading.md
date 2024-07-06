@@ -119,7 +119,7 @@ Traders must ensure that their use of ML algorithms complies with regulatory req
 Several companies specialize in developing and utilizing ML algorithms for trading:
 
 ##### 6.1. QuantConnect
-QuantConnect provides an open-source [algorithmic trading](../a/algorithmic_trading.md) platform. Users can develop, backtest, and deploy [trading algorithms](../t/trading_algorithms.md).
+[QuantConnect](../q/quantconnect.md) provides an open-source [algorithmic trading](../a/algorithmic_trading.md) platform. Users can develop, backtest, and deploy [trading algorithms](../t/trading_algorithms.md).
 **Website**: [QuantConnect](https://www.quantconnect.com)
 
 ##### 6.2. Two Sigma

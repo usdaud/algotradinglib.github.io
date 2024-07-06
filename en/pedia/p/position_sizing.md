@@ -40,13 +40,13 @@ In this method, traders allocate a fixed dollar amount to each trade irrespectiv
 
 Several software tools and platforms assist traders in implementing and managing position sizing strategies:
 
-1. **QuantConnect**: Provides a robust [algorithmic trading](../a/algorithmic_trading.md) platform with integrated [risk management](../r/risk_management.md) and position sizing modules. Users can write algorithms in C# and Python.
+1. **[QuantConnect](../q/quantconnect.md)**: Provides a robust [algorithmic trading](../a/algorithmic_trading.md) platform with integrated [risk management](../r/risk_management.md) and position sizing modules. Users can write algorithms in C# and Python.
    - [QuantConnect](https://www.quantconnect.com/)
 
 2. **MetaTrader 5**: A popular trading platform among retail traders that supports expert advisors. It includes various position sizing tools and [risk management](../r/risk_management.md) features.
    - [MetaTrader 5](https://www.metatrader5.com/en)
 
-3. **TradeStation**: Known for its advanced analytical tools, TradeStation allows customization of position sizing and [risk management](../r/risk_management.md) rules.
+3. **[TradeStation](../t/tradestation.md)**: Known for its advanced analytical tools, [TradeStation](../t/tradestation.md) allows customization of position sizing and [risk management](../r/risk_management.md) rules.
    - [TradeStation](https://www.tradestation.com/)
 
 4. **Interactive Brokers**: Provides a wide range of trading tools, including [risk management](../r/risk_management.md) features that traders can customize to fit their position sizing strategies.

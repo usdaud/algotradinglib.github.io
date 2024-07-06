@@ -54,11 +54,11 @@ Several financial firms and software solutions are dedicated to analyzing and ma
 
 2. **Numerix**: Provides cross-asset analytics for pricing, hedging, and [risk management](../r/risk_management.md). [Numerix](https://www.numerix.com)
 
-3. **QuantConnect**: A valuable tool for algorithmic traders, offering a platform for [backtesting](../b/backtesting.md), research, and live trading with data covering multiple asset classes. [QuantConnect](https://www.quantconnect.com)
+3. **[QuantConnect](../q/quantconnect.md)**: A valuable tool for algorithmic traders, offering a platform for [backtesting](../b/backtesting.md), research, and live trading with data covering multiple asset classes. [QuantConnect](https://www.quantconnect.com)
 
-4. **Bloomberg Terminal**: Offers extensive functionalities for analyzing financial markets, including risk analytics that can help in identifying and responding to 3-sigma events. [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+4. **[Bloomberg](../b/bloomberg.md) Terminal**: Offers extensive functionalities for analyzing financial markets, including risk analytics that can help in identifying and responding to 3-sigma events. [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
-5. **AlgoTrader**: A comprehensive [algorithmic trading](../a/algorithmic_trading.md) software operable across multiple asset classes, supporting high-frequency [trading strategies](../t/trading_strategies.md) and [risk management](../r/risk_management.md). [AlgoTrader](https://www.algotrader.com)
+5. **[AlgoTrader](../a/algotrader.md)**: A comprehensive [algorithmic trading](../a/algorithmic_trading.md) software operable across multiple asset classes, supporting high-frequency [trading strategies](../t/trading_strategies.md) and [risk management](../r/risk_management.md). [AlgoTrader](https://www.algotrader.com)
 
 #### Summary
 

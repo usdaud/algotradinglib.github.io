@@ -51,7 +51,7 @@ Several trading platforms and software incorporate kurtosis-based [risk manageme
 
 #### 1. QuantConnect
 
-QuantConnect is an [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to develop and backtest [trading strategies](../t/trading_strategies.md). The platform supports higher moments, including kurtosis, in its [risk management](../r/risk_management.md) modules.
+[QuantConnect](../q/quantconnect.md) is an [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to develop and backtest [trading strategies](../t/trading_strategies.md). The platform supports higher moments, including kurtosis, in its [risk management](../r/risk_management.md) modules.
 
 - [QuantConnect](https://www.quantconnect.com/)
 
@@ -63,7 +63,7 @@ Numerai is a hedge fund that leverages machine learning and AI for trading. Thei
 
 #### 3. Quantlib
 
-Quantlib is an open-source library aimed at providing tools for financial instrument valuation and analysis. It includes various [risk management](../r/risk_management.md) techniques, enabling the integration of kurtosis into custom risk models.
+[Quantlib](../q/quantlib.md) is an open-source library aimed at providing tools for financial instrument valuation and analysis. It includes various [risk management](../r/risk_management.md) techniques, enabling the integration of kurtosis into custom risk models.
 
 - [Quantlib](http://quantlib.org/)
 

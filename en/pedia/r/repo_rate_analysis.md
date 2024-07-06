@@ -49,7 +49,7 @@ In the context of [algorithmic trading](../a/algorithmic_trading.md), repo rate 
 #### Data Sources for Repo Rate Analysis
 
 - **Regulatory Filings:** Institutions like the Federal Reserve and European Central Bank publish repo rate data.
-- **Financial Market Data Providers:** Bloomberg, Reuters, and specialized financial data services provide real-time and historical repo rate data.
+- **Financial Market Data Providers:** [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), and specialized financial data services provide real-time and historical repo rate data.
 - **Institutional Reports:** Banks and financial institutions often publish insights and analysis on repo trends.
 
 #### Practical Considerations

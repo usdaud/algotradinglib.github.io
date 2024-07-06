@@ -60,7 +60,7 @@ In equity markets, news-driven price movements can generate false signals. An ap
 
 ### Tools and Platforms
 
-**TradingView**
+**[TradingView](../t/tradingview.md)**
 
 [TradingView](https://www.tradingview.com) offers a comprehensive platform for [technical analysis](../t/technical_analysis.md) with access to various indicators and tools to help traders identify and avoid false signals.
 
@@ -68,7 +68,7 @@ In equity markets, news-driven price movements can generate false signals. An ap
 
 [MetaTrader](https://www.metaquotes.net/en/metatrader4) is a popular trading platform used by forex and equity traders. It offers automated trading capabilities and supports the use of expert advisors (EAs) to develop and backtest [trading strategies](../t/trading_strategies.md), reducing the risk of false signals.
 
-**QuantConnect**
+**[QuantConnect](../q/quantconnect.md)**
 
 [QuantConnect](https://www.quantconnect.com) is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that provides extensive data and research tools for developing sophisticated [trading algorithms](../t/trading_algorithms.md). Its [backtesting](../b/backtesting.md) environment helps traders evaluate the performance of their strategies under historical market conditions.
 

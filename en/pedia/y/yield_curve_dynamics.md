@@ -81,9 +81,9 @@ Several institutions and services provide data, analysis, and tools for understa
 
 1. **Federal Reserve Bank**: The Federal Reserve provides extensive data and research on yield curves, including the widely-followed U.S. Treasury [yield curve](../y/yield_curve.md) data. [Federal Reserve Bank](https://www.federalreserve.gov/)
 
-2. **Bloomberg Terminal**: Bloomberg offers comprehensive financial data, analytics, and trading tools, including real-time [yield curve](../y/yield_curve.md) information and [historical data analysis](../h/historical_data_analysis.md). [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+2. **[Bloomberg](../b/bloomberg.md) Terminal**: [Bloomberg](../b/bloomberg.md) offers comprehensive financial data, analytics, and trading tools, including real-time [yield curve](../y/yield_curve.md) information and [historical data analysis](../h/historical_data_analysis.md). [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
-3. **Reuters Eikon**: Reuters Eikon is another leading platform offering [real-time market data](../r/real-time_market_data.md), news, and analysis on yield curves and other financial instruments. [Refinitiv](https://www.refinitiv.com/en/products/refinitiv-eikon-trading-software)
+3. **[Reuters](../r/reuters.md) Eikon**: [Reuters](../r/reuters.md) Eikon is another leading platform offering [real-time market data](../r/real-time_market_data.md), news, and analysis on yield curves and other financial instruments. [Refinitiv](https://www.refinitiv.com/en/products/refinitiv-eikon-trading-software)
 
 ### Conclusion
 [Yield curve](../y/yield_curve.md) dynamics form a cornerstone of financial market analysis, influencing everything from macroeconomic forecasting to sophisticated [trading strategies](../t/trading_strategies.md). Understanding the intricacies of the [yield curve](../y/yield_curve.md) and the various factors driving its movements is essential for investors, policymakers, and financial professionals alike. As technology advances, new methods and models continue to enrich the field, offering deeper insights and more precise tools for navigating the complexities of interest rate markets.

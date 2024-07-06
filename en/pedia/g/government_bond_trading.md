@@ -37,9 +37,9 @@ The process of trading government bonds can be broken down into primary and seco
 
 #### Trading Platforms
 
-1. **Bloomberg:** A widely used financial software system that provides real-time trading data, analytics, and electronic trading capabilities, including for government bonds.
+1. **[Bloomberg](../b/bloomberg.md):** A widely used financial software system that provides real-time trading data, analytics, and electronic trading capabilities, including for government bonds.
 2. **Tradeweb:** An electronic trading platform that facilitates trading in fixed income markets, including government bonds.
-3. **MarketAxess:** Another electronic trading platform known for its fixed income trading capabilities, particularly in the realm of government bonds.
+3. **[MarketAxess](../m/marketaxess.md):** Another electronic trading platform known for its fixed income trading capabilities, particularly in the realm of government bonds.
 
 #### Risks in Government Bond Trading
 

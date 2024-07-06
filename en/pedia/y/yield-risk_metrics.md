@@ -86,7 +86,7 @@ Several companies specialize in providing tools and services related to yield-[r
 
 #### 1. QuantConnect
 
-QuantConnect (https://www.quantconnect.com) offers a platform for designing, testing, and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies. They provide tools that include extensive data libraries and advanced [backtesting](../b/backtesting.md) capabilities, allowing traders to measure yield-[risk metrics](../r/risk_metrics.md) effectively.
+[QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com) offers a platform for designing, testing, and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies. They provide tools that include extensive data libraries and advanced [backtesting](../b/backtesting.md) capabilities, allowing traders to measure yield-[risk metrics](../r/risk_metrics.md) effectively.
 
 #### 2. Numerai
 

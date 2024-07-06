@@ -51,16 +51,16 @@ Algorithmic systems can execute [yield spread](../y/yield_spread.md) trades with
 
 Several financial institutions and technology companies provide platforms and tools for yield [spread trading](../s/spread_trading.md):
 
-1. **Bloomberg Terminal**: [Link](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+1. **[Bloomberg](../b/bloomberg.md) Terminal**: [Link](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
    - Offers comprehensive tools for fixed-income trading, including [yield curve](../y/yield_curve.md) analysis, [spread trading](../s/spread_trading.md) analytics, and real-time data.
    
-2. **Thomson Reuters Eikon**: [Link](https://www.refinitiv.com/en/products/eikon-trading-software)
+2. **Thomson [Reuters](../r/reuters.md) Eikon**: [Link](https://www.refinitiv.com/en/products/eikon-trading-software)
    - Provides advanced analytics and trading tools for fixed-income securities, including yield [spread analysis](../s/spread_analysis.md) and execution capabilities.
 
 3. **Tradeweb**: [Link](https://www.tradeweb.com/)
    - An online marketplace for trading fixed-income securities, offering tools for yield [spread trading](../s/spread_trading.md) and analytics.
 
-4. **QuantConnect**: [Link](https://www.quantconnect.com/)
+4. **[QuantConnect](../q/quantconnect.md)**: [Link](https://www.quantconnect.com/)
    - An [algorithmic trading](../a/algorithmic_trading.md) platform that enables users to develop and backtest yield [spread trading](../s/spread_trading.md) strategies using historical data and advanced machine learning models.
 
 ### Factors Influencing Yield Spreads

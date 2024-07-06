@@ -9,21 +9,21 @@
 1. **Strategy Development and [Backtesting](../b/backtesting.md) Platforms**:
    - These allow traders to build and evaluate their [trading strategies](../t/trading_strategies.md). Popular platforms include:
      - **MetaTrader**: Renowned for forex trading, it offers a robust environment for strategy development and [backtesting](../b/backtesting.md).
-     - **NinjaTrader**: Widely used for futures and forex trading, it provides comprehensive [backtesting](../b/backtesting.md) capabilities.
-     - **QuantConnect**: An open-source platform that supports a wide variety of asset classes and offers advanced algorithms.
-     - **TradingView**: Supports a wide range of market data and provides powerful charting tools for strategy development.
+     - **[NinjaTrader](../n/ninjatrader.md)**: Widely used for futures and forex trading, it provides comprehensive [backtesting](../b/backtesting.md) capabilities.
+     - **[QuantConnect](../q/quantconnect.md)**: An open-source platform that supports a wide variety of asset classes and offers advanced algorithms.
+     - **[TradingView](../t/tradingview.md)**: Supports a wide range of market data and provides powerful charting tools for strategy development.
 
 2. **Data Feeds and Market Data Providers**:
    - Real-time and historical market data are essential for developing and testing algorithms. Some key providers are:
-     - **Bloomberg**: Offers high-quality market data for various asset classes.
-     - **Thomson Reuters**: Provides extensive financial content and analytics.
-     - **Quandl**: Supplies financial and [alternative data](../a/alternative_data.md) to financial professionals.
+     - **[Bloomberg](../b/bloomberg.md)**: Offers high-quality market data for various asset classes.
+     - **Thomson [Reuters](../r/reuters.md)**: Provides extensive financial content and analytics.
+     - **[Quandl](../q/quandl.md)**: Supplies financial and [alternative data](../a/alternative_data.md) to financial professionals.
      - **Alpha Vantage**: Delivers free and premium data across a wide range of financial instruments.
 
 3. **Execution Management Systems (EMS)**:
    - These systems handle the actual execution of trading orders based on the strategies developed. Leading EMS providers include:
      - **Fidessa**: Offers [multi-asset trading](../m/multi-asset_trading.md) and investment infrastructure.
-     - **Bloomberg EMSX**: A robust platform for order and execution management.
+     - **[Bloomberg](../b/bloomberg.md) EMSX**: A robust platform for order and execution management.
      - **FlexTrade**: Known for their customizable trading solutions.
      - **Trading Technologies (TT)**: Provides professional trading software for [derivatives](../d/derivatives.md).
 
@@ -40,7 +40,7 @@ Several companies specialize in providing comprehensive [algorithmic trading](..
 1. **MetaQuotes Software Corp**:
    - They are the developers of MetaTrader 4 and MetaTrader 5, highly popular platforms for forex trading. More information can be found on their [official website](https://www.metaquotes.net).
 
-2. **QuantConnect**:
+2. **[QuantConnect](../q/quantconnect.md)**:
    - An open-source platform that provides [algorithmic trading](../a/algorithmic_trading.md) services and supports [backtesting](../b/backtesting.md) and live trading. More details can be found on their [homepage](https://www.quantconnect.com).
 
 3. **Trading Technologies International, Inc.**:
@@ -49,10 +49,10 @@ Several companies specialize in providing comprehensive [algorithmic trading](..
 4. **Interactive Brokers**:
    - Known for their Trader Workstation (TWS) platform, which supports [algorithmic trading](../a/algorithmic_trading.md) through APIs. Check out their [site](https://www.interactivebrokers.com).
 
-5. **NinjaTrader**:
+5. **[NinjaTrader](../n/ninjatrader.md)**:
    - A leading platform for trading futures and forex with advanced charting and analysis tools. Visit [NinjaTrader](https://www.ninjatrader.com) for more.
 
-6. **TradingView**:
+6. **[TradingView](../t/tradingview.md)**:
    - Offers cloud-based charting and [social trading](../s/social_trading.md) tools. More information is available on their [official page](https://www.tradingview.com).
 
 ### Developing Algorithmic Trading Strategies
@@ -63,7 +63,7 @@ Developing a profitable [algorithmic trading](../a/algorithmic_trading.md) strat
    - The first step is to identify and define a trading strategy. This could be based on [technical analysis](../t/technical_analysis.md), such as moving averages or [momentum indicators](../m/momentum_indicators.md), or [fundamental analysis](../f/fundamental_analysis.md) like earnings reports or economic data releases.
 
 2. **[Backtesting](../b/backtesting.md) and Optimization**:
-   - Once a strategy is developed, it is essential to test it on historical data to see how it would have performed in the past. This process is known as [backtesting](../b/backtesting.md). Platforms like QuantConnect, MetaTrader, and NinjaTrader provide robust [backtesting](../b/backtesting.md) capabilities, allowing traders to fine-tune their strategies.
+   - Once a strategy is developed, it is essential to test it on historical data to see how it would have performed in the past. This process is known as [backtesting](../b/backtesting.md). Platforms like [QuantConnect](../q/quantconnect.md), MetaTrader, and [NinjaTrader](../n/ninjatrader.md) provide robust [backtesting](../b/backtesting.md) capabilities, allowing traders to fine-tune their strategies.
 
 3. **[Risk Management](../r/risk_management.md)**:
    - Implementing effective [risk management](../r/risk_management.md) techniques is crucial to protect against significant losses. This includes setting [stop-loss orders](../s/stop-loss_orders.md), diversifying positions, and using volatility-adjusted [position sizing](../p/position_sizing.md).

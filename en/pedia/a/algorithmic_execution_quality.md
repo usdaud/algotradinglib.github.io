@@ -47,7 +47,7 @@ Continuous fine-tuning and adjustments to [trading algorithms](../t/trading_algo
 
 ## Industry Standards and Compliance
 
-Adherence to industry standards and regulatory compliance plays a vital role in ensuring high [algorithmic execution](../a/algorithmic_execution.md) quality. Regulatory bodies such as the Securities and Exchange Commission (SEC) and the Financial Industry Regulatory Authority (FINRA) in the U.S. set guidelines that firms need to follow to ensure fair and efficient markets.
+Adherence to industry standards and regulatory compliance plays a vital role in ensuring high [algorithmic execution](../a/algorithmic_execution.md) quality. Regulatory bodies such as the Securities and Exchange Commission (SEC) and the Financial Industry Regulatory Authority ([FINRA](../f/finra.md)) in the U.S. set guidelines that firms need to follow to ensure fair and efficient markets.
 
 ### Best Execution Obligations
 

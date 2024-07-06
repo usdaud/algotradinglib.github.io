@@ -68,7 +68,7 @@ In volatile and sideways markets, the 6-month moving average can generate false 
 
 ## Integration in Algotrading Platforms
 
-Major trading platforms like MetaTrader, QuantConnect, and NinjaTrader offer tools to easily integrate 6-month moving averages into [trading algorithms](../t/trading_algorithms.md).
+Major trading platforms like MetaTrader, [QuantConnect](../q/quantconnect.md), and [NinjaTrader](../n/ninjatrader.md) offer tools to easily integrate 6-month moving averages into [trading algorithms](../t/trading_algorithms.md).
 
 ### MetaTrader
 
@@ -76,11 +76,11 @@ MetaTrader is a widely-used trading platform with robust capabilities for custom
 
 ### QuantConnect
 
-QuantConnect provides a cloud-based environment for building [algorithmic trading](../a/algorithmic_trading.md) strategies using Python and C#. Its extensive library and historical data functionality make it ideal for [backtesting](../b/backtesting.md) and deploying strategies that utilize the 6-month moving average.
+[QuantConnect](../q/quantconnect.md) provides a cloud-based environment for building [algorithmic trading](../a/algorithmic_trading.md) strategies using Python and C#. Its extensive library and historical data functionality make it ideal for [backtesting](../b/backtesting.md) and deploying strategies that utilize the 6-month moving average.
 
 ### NinjaTrader
 
-NinjaTrader supports advanced charting and strategies automation, offering a comprehensive suite of tools to implement and backtest 6-month [moving average strategies](../m/moving_average_strategies.md).
+[NinjaTrader](../n/ninjatrader.md) supports advanced charting and strategies automation, offering a comprehensive suite of tools to implement and backtest 6-month [moving average strategies](../m/moving_average_strategies.md).
 
 ## Real-world Examples
 

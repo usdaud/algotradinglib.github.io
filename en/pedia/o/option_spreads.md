@@ -66,13 +66,13 @@ In [algorithmic trading](../a/algorithmic_trading.md), option spreads are used t
 
 ### Popular Algorithmic Trading Platforms for Spreads
 
-1. **AlgoTrader**: AlgoTrader is a comprehensive [algorithmic trading](../a/algorithmic_trading.md) platform specifically designed for [quantitative research](../q/quantitative_research.md), [trading strategies](../t/trading_strategies.md), [backtesting](../b/backtesting.md), and execution. It supports a variety of asset classes, including options and spreads (https://www.algotrader.com).
+1. **[AlgoTrader](../a/algotrader.md)**: [AlgoTrader](../a/algotrader.md) is a comprehensive [algorithmic trading](../a/algorithmic_trading.md) platform specifically designed for [quantitative research](../q/quantitative_research.md), [trading strategies](../t/trading_strategies.md), [backtesting](../b/backtesting.md), and execution. It supports a variety of asset classes, including options and spreads (https://www.[algotrader](../a/algotrader.md).com).
 
-2. **QuantConnect**: QuantConnect provides an open-source, cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple asset classes including options. It allows traders to design, test, and deploy [trading algorithms](../t/trading_algorithms.md) that can implement spread strategies (https://www.quantconnect.com).
+2. **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](../q/quantconnect.md) provides an open-source, cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple asset classes including options. It allows traders to design, test, and deploy [trading algorithms](../t/trading_algorithms.md) that can implement spread strategies (https://www.[quantconnect](../q/quantconnect.md).com).
 
 3. **TuringTrader**: TuringTrader offers a robust environment for developing and [backtesting](../b/backtesting.md) [algorithmic trading](../a/algorithmic_trading.md) strategies. It supports a range of asset classes such as equities, options, and futures and can be tailored to execute spread strategies (https://www.turingtrader.org).
 
-4. **TradeStation**: TradeStation is a well-known brokerage and trading platform that offers comprehensive tools and features for [algorithmic trading](../a/algorithmic_trading.md). It supports options trading and provides various tools for crafting spread strategies (https://www.tradestation.com).
+4. **[TradeStation](../t/tradestation.md)**: [TradeStation](../t/tradestation.md) is a well-known brokerage and trading platform that offers comprehensive tools and features for [algorithmic trading](../a/algorithmic_trading.md). It supports options trading and provides various tools for crafting spread strategies (https://www.[tradestation](../t/tradestation.md).com).
 
 5. **Interactive Brokers**: Interactive Brokers offers a powerful platform for professional traders and institutions, with advanced tools for options trading and support for automated strategies that include spreads (https://www.interactivebrokers.com).
 

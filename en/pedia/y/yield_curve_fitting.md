@@ -145,17 +145,17 @@ Several software packages and tools are available for [yield curve](../y/yield_c
 
 #### Examples:
 
-- **QuantLib**: An open-source library for [quantitative finance](../q/quantitative_finance.md) offering [yield curve](../y/yield_curve.md) fitting functionalities.
+- **[QuantLib](../q/quantlib.md)**: An open-source library for [quantitative finance](../q/quantitative_finance.md) offering [yield curve](../y/yield_curve.md) fitting functionalities.
 - **Pandas and NumPy/Python**: General-purpose libraries in Python that can be used to perform basic [yield curve](../y/yield_curve.md) fitting.
 - **MATLAB**: Provides robust toolboxes for [financial modeling](../f/financial_modeling.md), including [yield curve](../y/yield_curve.md) fitting.
-- **Bloomberg Terminal**: Offers extensive financial data and built-in [yield curve](../y/yield_curve.md) fitting tools, used widely by professionals.
+- **[Bloomberg](../b/bloomberg.md) Terminal**: Offers extensive financial data and built-in [yield curve](../y/yield_curve.md) fitting tools, used widely by professionals.
 
 ### Industry Implementations
 
 #### External Links
 
-1. **Bloomberg**: [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/terminal/)
-2. **QuantLib**: [QuantLib Home](https://www.quantlib.org/)
+1. **[Bloomberg](../b/bloomberg.md)**: [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/terminal/)
+2. **[QuantLib](../q/quantlib.md)**: [QuantLib Home](https://www.quantlib.org/)
 3. **MATLAB**: [MATLAB Financial Toolbox](https://www.mathworks.com/products/finance.html)
 
 ### Conclusion

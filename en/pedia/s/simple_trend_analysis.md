@@ -71,8 +71,8 @@ Continuously monitor the algorithm's performance. Adjust parameters and strategi
 
 ### Trading Platforms
 - **MetaTrader (MT4/MT5):** Popular trading platforms that support [algorithmic trading](../a/algorithmic_trading.md) through MQL4/MQL5 scripting. ([MetaTrader](https://www.metaquotes.net))
-- **QuantConnect:** Cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports [backtesting](../b/backtesting.md) and live trading. ([QuantConnect](https://www.quantconnect.com))
-- **AlgoTrader:** Advanced [algorithmic trading](../a/algorithmic_trading.md) software platform for developing and deploying strategies. ([AlgoTrader](https://www.algotrader.com))
+- **[QuantConnect](../q/quantconnect.md):** Cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports [backtesting](../b/backtesting.md) and live trading. ([QuantConnect](https://www.quantconnect.com))
+- **[AlgoTrader](../a/algotrader.md):** Advanced [algorithmic trading](../a/algorithmic_trading.md) software platform for developing and deploying strategies. ([AlgoTrader](https://www.algotrader.com))
 
 ## Advantages and Disadvantages
 

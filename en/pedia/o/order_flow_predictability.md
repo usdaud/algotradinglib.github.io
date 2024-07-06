@@ -94,7 +94,7 @@ Numerix [Numerix](https://www.numerix.com) offers a range of analytics and [risk
 
 ### 3. AlgoTrader
 
-AlgoTrader [AlgoTrader](https://www.algotrader.com) provides a comprehensive [algorithmic trading](../a/algorithmic_trading.md) platform that includes [order flow analysis](../o/order_flow_analysis.md) tools. Their platform allows traders to backtest and deploy strategies that leverage order flow predictions.
+[AlgoTrader](../a/algotrader.md) [AlgoTrader](https://www.algotrader.com) provides a comprehensive [algorithmic trading](../a/algorithmic_trading.md) platform that includes [order flow analysis](../o/order_flow_analysis.md) tools. Their platform allows traders to backtest and deploy strategies that leverage order flow predictions.
 
 ### 4. Exegy
 

@@ -33,7 +33,7 @@ Several platforms and regulatory filings provide data on insider transactions:
 - **Yahoo Finance Insider Transactions**
   [Yahoo Finance Insider Transactions](https://finance.yahoo.com/insider-transactions)
 
-- **Bloomberg Insiders Transactions**
+- **[Bloomberg](../b/bloomberg.md) Insiders Transactions**
   [Bloomberg Insider Transactions](https://www.bloomberg.com/markets/insider)
 
 - **GuruFocus Insider Trends**

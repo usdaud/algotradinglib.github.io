@@ -103,9 +103,9 @@ Growth Rate Analysis is a critical aspect of financial and economic analysis tha
    - [R](https://www.r-project.org/)
    - [Python](https://www.python.org/)
 
-4. **Bloomberg Terminal**
+4. **[Bloomberg](../b/bloomberg.md) Terminal**
 
-   Bloomberg Terminal provides real-time data, news, and analytics for financial professionals. It includes tools for growth rate analysis, [economic indicators](../e/economic_indicators.md), and market trends.
+   [Bloomberg](../b/bloomberg.md) Terminal provides real-time data, news, and analytics for financial professionals. It includes tools for growth rate analysis, [economic indicators](../e/economic_indicators.md), and market trends.
 
    [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 

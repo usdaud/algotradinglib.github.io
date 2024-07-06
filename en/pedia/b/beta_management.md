@@ -43,8 +43,8 @@ Effective beta management in [algorithmic trading](../a/algorithmic_trading.md) 
 
 Prominent firms and software solutions utilize beta management techniques to optimize [trading strategies](../t/trading_strategies.md). For example:
 
-- **Bloomberg Terminal**: Offers advanced tools for beta calculation and [risk management](../r/risk_management.md) ([Bloomberg](https://www.bloomberg.com/)).
-- **QuantConnect**: A platform supporting [algorithmic trading](../a/algorithmic_trading.md) with features for [backtesting](../b/backtesting.md) strategies including beta management ([QuantConnect](https://www.quantconnect.com/)).
+- **[Bloomberg](../b/bloomberg.md) Terminal**: Offers advanced tools for beta calculation and [risk management](../r/risk_management.md) ([Bloomberg](https://www.bloomberg.com/)).
+- **[QuantConnect](../q/quantconnect.md)**: A platform supporting [algorithmic trading](../a/algorithmic_trading.md) with features for [backtesting](../b/backtesting.md) strategies including beta management ([QuantConnect](https://www.quantconnect.com/)).
 
 ## Conclusion
 

@@ -50,7 +50,7 @@ Reinforcement learning is another approach, where an algorithm learns to make a 
 
 Several trading platforms offer built-in tools and frameworks for upside [risk management](../r/risk_management.md):
 
-- **QuantConnect** ([link](https://www.quantconnect.com/)): Provides an open-source, cloud-based platform that supports [algorithmic trading](../a/algorithmic_trading.md) with a robust [backtesting](../b/backtesting.md) environment to optimize return strategies.
+- **[QuantConnect](../q/quantconnect.md)** ([link](https://www.quantconnect.com/)): Provides an open-source, cloud-based platform that supports [algorithmic trading](../a/algorithmic_trading.md) with a robust [backtesting](../b/backtesting.md) environment to optimize return strategies.
 - **Kensho Technologies** ([link](https://www.kensho.com/)): Specializes in leveraging machine learning and data analytics to provide actionable trading insights and maximize upside opportunities.
 - **Alpaca** ([link](https://alpaca.markets/)): Offers commission-free trading APIs with a focus on [algorithmic trading](../a/algorithmic_trading.md) and includes tools for strategy optimization and [performance analytics](../p/performance_analytics.md).
 
@@ -58,8 +58,8 @@ Several trading platforms offer built-in tools and frameworks for upside [risk m
 
 [Backtesting](../b/backtesting.md) frameworks allow traders to simulate their strategies on historical data to evaluate their performance and refine them for better upside management.
 
-- **Backtrader** ([link](https://www.backtrader.com/)): An open-source Python library for [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md) that supports a flexible framework for risk and return optimization.
-- **Quantlib** ([link](https://www.quantlib.org/)): A comprehensive library often used in [algorithmic trading](../a/algorithmic_trading.md) for various [quantitative finance](../q/quantitative_finance.md) tasks, including [risk management](../r/risk_management.md).
+- **[Backtrader](../b/backtrader.md)** ([link](https://www.backtrader.com/)): An open-source Python library for [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md) that supports a flexible framework for risk and return optimization.
+- **[Quantlib](../q/quantlib.md)** ([link](https://www.quantlib.org/)): A comprehensive library often used in [algorithmic trading](../a/algorithmic_trading.md) for various [quantitative finance](../q/quantitative_finance.md) tasks, including [risk management](../r/risk_management.md).
 
 ## Case Studies
 

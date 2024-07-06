@@ -80,9 +80,9 @@ During early 2020, the S&P 500 index fell significantly below its 52-week moving
 
 Several platforms and tools facilitate the use of moving averages in [trading strategies](../t/trading_strategies.md):
 
-- **TradingView**: Offers robust charting tools and scripting language (Pine Script) for custom indicators.
+- **[TradingView](../t/tradingview.md)**: Offers robust charting tools and scripting language (Pine Script) for custom indicators.
 - **MetaTrader 4/5**: Provides built-in moving average indicators and supports automated trading.
-- **QuantConnect**: A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports [backtesting](../b/backtesting.md) and live trading of [moving average strategies](../m/moving_average_strategies.md).
+- **[QuantConnect](../q/quantconnect.md)**: A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports [backtesting](../b/backtesting.md) and live trading of [moving average strategies](../m/moving_average_strategies.md).
 
 For more information on these platforms, visit:
 - [TradingView](https://www.tradingview.com)

@@ -93,7 +93,7 @@ Consider a trader analyzing the stock of a technology company. The stock has sho
 Several trading platforms and software offer the Klinger [Volume Oscillator](../v/volume_oscillator.md) as part of their [technical analysis](../t/technical_analysis.md) tools. Here are some notable ones:
 
 ### TradingView
-TradingView is a widely used charting platform that offers a comprehensive suite of [technical analysis](../t/technical_analysis.md) tools, including the KVO. Users can customize the indicator settings to fit their [trading strategies](../t/trading_strategies.md).
+[TradingView](../t/tradingview.md) is a widely used charting platform that offers a comprehensive suite of [technical analysis](../t/technical_analysis.md) tools, including the KVO. Users can customize the indicator settings to fit their [trading strategies](../t/trading_strategies.md).
 Visit [TradingView](https://www.tradingview.com)
 
 ### MetaTrader 4 (MT4)
@@ -101,11 +101,11 @@ MetaTrader 4 is a popular trading platform used by forex traders worldwide. The 
 Visit [MetaTrader 4](https://www.metatrader4.com)
 
 ### Thinkorswim by TD Ameritrade
-Thinkorswim is a robust trading platform provided by TD Ameritrade, offering extensive charting capabilities and [technical analysis](../t/technical_analysis.md) tools, including the Klinger [Volume Oscillator](../v/volume_oscillator.md).
+[Thinkorswim](../t/thinkorswim.md) is a robust trading platform provided by TD Ameritrade, offering extensive charting capabilities and [technical analysis](../t/technical_analysis.md) tools, including the Klinger [Volume Oscillator](../v/volume_oscillator.md).
 Visit [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.html)
 
 ### NinjaTrader
-NinjaTrader is a trading platform focused on futures and forex trading, providing a variety of advanced charting and analysis tools. The KVO is available for traders looking to enhance their [volume analysis](../v/volume_analysis.md).
+[NinjaTrader](../n/ninjatrader.md) is a trading platform focused on futures and forex trading, providing a variety of advanced charting and analysis tools. The KVO is available for traders looking to enhance their [volume analysis](../v/volume_analysis.md).
 Visit [NinjaTrader](https://ninjatrader.com)
 
 ## Conclusion

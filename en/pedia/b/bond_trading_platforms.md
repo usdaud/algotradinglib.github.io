@@ -4,13 +4,13 @@ Bond trading platforms have emerged as a crucial component of modern financial m
 
 ### Major Players in Bond Trading Platforms
 
-1. **MarketAxess**
-   - [MarketAxess](https://www.marketaxess.com/) is one of the leading electronic trading platforms for fixed-income securities. Known for its unparalleled reach in [corporate bond trading](../c/corporate_bond_trading.md), MarketAxess offers a robust, all-to-all [trading environment](../t/trading_environment.md) that includes institutional investors, broker-dealers, and other market participants.
+1. **[MarketAxess](../m/marketaxess.md)**
+   - [MarketAxess](https://www.marketaxess.com/) is one of the leading electronic trading platforms for fixed-income securities. Known for its unparalleled reach in [corporate bond trading](../c/corporate_bond_trading.md), [MarketAxess](../m/marketaxess.md) offers a robust, all-to-all [trading environment](../t/trading_environment.md) that includes institutional investors, broker-dealers, and other market participants.
 
 2. **Tradeweb**
    - [Tradeweb](https://www.tradeweb.com/) provides an electronic trading network that supports a wide range of fixed-income securities. Tradeweb has a vast network and combines advanced technology with deep liquidity to offer comprehensive trading solutions for institutional investors.
 
-3. **Bloomberg (Bloomberg Terminal)**
+3. **[Bloomberg](../b/bloomberg.md) ([Bloomberg](../b/bloomberg.md) Terminal)**
    - The [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/) is a multifaceted tool providing not just bond trading capabilities but also a plethora of other financial services. It remains an industry standard in accessing [real-time market data](../r/real-time_market_data.md), news, and analytical tools alongside bond trading functionalities.
 
 4. **BondCliQ**
@@ -22,16 +22,16 @@ Bond trading platforms have emerged as a crucial component of modern financial m
 ### Core Functionalities of Bond Trading Platforms
 
 #### Order Matching and Execution
-At the heart of bond trading platforms is their ability to match buy and sell orders efficiently. These platforms use sophisticated algorithms to ensure optimal trade execution, taking into account factors such as price, volume, and trader preferences. MarketAxess and Tradeweb are particularly known for their advanced order matching capabilities.
+At the heart of bond trading platforms is their ability to match buy and sell orders efficiently. These platforms use sophisticated algorithms to ensure optimal trade execution, taking into account factors such as price, volume, and trader preferences. [MarketAxess](../m/marketaxess.md) and Tradeweb are particularly known for their advanced order matching capabilities.
 
 #### Real-Time Data and Analytics
-Real-time data is critical for making informed trading decisions. Platforms like Bloomberg Terminal offer extensive [real-time market data](../r/real-time_market_data.md), news updates, and sophisticated analytics tools to aid traders in timely decision-making.
+Real-time data is critical for making informed trading decisions. Platforms like [Bloomberg](../b/bloomberg.md) Terminal offer extensive [real-time market data](../r/real-time_market_data.md), news updates, and sophisticated analytics tools to aid traders in timely decision-making.
 
 #### Price Discovery
 Price discovery remains a crucial element in fixed-income markets. Platforms such as BondCliQ improve the transparency and efficiency of the price discovery process by aggregating and disseminating bond quotes across different market participants.
 
 #### Trade Reporting and Compliance
-Regulatory compliance is a key concern for bond traders. Most bond trading platforms incorporate features for trade reporting, monitoring, and ensuring adherence to regulatory requirements such as those set by the SEC and FINRA in the United States, or MiFID II in Europe.
+Regulatory compliance is a key concern for bond traders. Most bond trading platforms incorporate features for trade reporting, monitoring, and ensuring adherence to regulatory requirements such as those set by the SEC and [FINRA](../f/finra.md) in the United States, or MiFID II in Europe.
 
 ### Technological Advancements in Bond Trading Platforms
 

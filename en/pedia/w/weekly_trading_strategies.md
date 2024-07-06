@@ -40,16 +40,16 @@ Weekly [trading strategies](../t/trading_strategies.md) refer to methods and app
 Weekly traders need robust platforms that offer a range of tools for analysis and execution.
 
 - **MetaTrader 5 (MT5)**: A popular platform offering comprehensive charting tools and automated trading capabilities.
-- **TradeStation**: Known for its advanced analytics and [algorithmic trading](../a/algorithmic_trading.md) functionalities.
+- **[TradeStation](../t/tradestation.md)**: Known for its advanced analytics and [algorithmic trading](../a/algorithmic_trading.md) functionalities.
 
 ### 2. **Data Feeds**
 
 Accurate and timely data is critical for successful weekly trading.
 
-- **Bloomberg Terminal**: A premium service offering extensive [real-time market data](../r/real-time_market_data.md) and analytics.
+- **[Bloomberg](../b/bloomberg.md) Terminal**: A premium service offering extensive [real-time market data](../r/real-time_market_data.md) and analytics.
 [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
-- **Thomson Reuters Eikon**: Provides access to global financial data and news.
+- **Thomson [Reuters](../r/reuters.md) Eikon**: Provides access to global financial data and news.
 [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)
 
 ### 3. **Research and News Outlets**

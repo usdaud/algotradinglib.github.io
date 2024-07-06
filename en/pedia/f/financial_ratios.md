@@ -98,7 +98,7 @@ Implementing financial ratios in [algorithmic trading](../a/algorithmic_trading.
 The first step is to collect financial data from reliable sources. This data should include information from financial statements such as income statements, balance sheets, and cash flow statements.
 
 #### Example Sources:
-- Financial market data providers like Bloomberg, Reuters, and FactSet.
+- Financial market data providers like [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), and [FactSet](../f/factset.md).
 - Company financial statements available on company websites or financial databases like EDGAR.
 
 ### 4.2 **Data Preprocessing**

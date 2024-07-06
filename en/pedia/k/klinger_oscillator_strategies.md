@@ -82,14 +82,14 @@ Combine the [Klinger Oscillator](../k/klinger_oscillator.md) with [support and r
 
 ### Algorithmic Trading Integration
 
-In the realm of [algorithmic trading](../a/algorithmic_trading.md), the [Klinger Oscillator](../k/klinger_oscillator.md) can be integrated into automated systems to develop sophisticated [trading strategies](../t/trading_strategies.md). Modern trading platforms and tools like MetaTrader, NinjaTrader, and custom Python scripts can incorporate the [Klinger Oscillator](../k/klinger_oscillator.md) for [backtesting](../b/backtesting.md) and real-time trading.
+In the realm of [algorithmic trading](../a/algorithmic_trading.md), the [Klinger Oscillator](../k/klinger_oscillator.md) can be integrated into automated systems to develop sophisticated [trading strategies](../t/trading_strategies.md). Modern trading platforms and tools like MetaTrader, [NinjaTrader](../n/ninjatrader.md), and custom Python scripts can incorporate the [Klinger Oscillator](../k/klinger_oscillator.md) for [backtesting](../b/backtesting.md) and real-time trading.
 
 ### Real-world Implementations
 Several financial firms and brokers offer tools and platforms that incorporate the [Klinger Oscillator](../k/klinger_oscillator.md):
 
 - **MetaStock**: Known for its robust [technical analysis](../t/technical_analysis.md) tools, MetaStock includes the [Klinger Oscillator](../k/klinger_oscillator.md) in its repertoire. [MetaStock](https://www.metastock.com/)
 
-- **QuantConnect**: A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports the use of the [Klinger Oscillator](../k/klinger_oscillator.md) in creating and [backtesting](../b/backtesting.md) [trading algorithms](../t/trading_algorithms.md). [QuantConnect](https://www.quantconnect.com/)
+- **[QuantConnect](../q/quantconnect.md)**: A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports the use of the [Klinger Oscillator](../k/klinger_oscillator.md) in creating and [backtesting](../b/backtesting.md) [trading algorithms](../t/trading_algorithms.md). [QuantConnect](https://www.quantconnect.com/)
 
 ## 6. Conclusion
 

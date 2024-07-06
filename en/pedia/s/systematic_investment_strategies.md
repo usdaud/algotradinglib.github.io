@@ -97,9 +97,9 @@ HFT involves executing a large number of orders at extremely high speeds, often 
 
 ### Technologies and Platforms
 
-- **Bloomberg Terminal**: Comprehensive data and analytics platform.
+- **[Bloomberg](../b/bloomberg.md) Terminal**: Comprehensive data and analytics platform.
 - **Python/R**: Popular programming languages for data analysis and algorithm development.
-- **QuantConnect**: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that provides data and execution capabilities.
+- **[QuantConnect](../q/quantconnect.md)**: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that provides data and execution capabilities.
 - **Amazon Web Services (AWS)**: Cloud services for data storage and computational power.
 
 ## Future Trends

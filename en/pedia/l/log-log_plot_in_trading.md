@@ -76,7 +76,7 @@ plt.show()
 
 ### Real-Time Market Data
 
-For traders who need [real-time data analysis](../r/real-time_data_analysis.md), many trading platforms and APIs provide ways to integrate [real-time market data](../r/real-time_market_data.md) into log-log plots. For instance, using APIs from brokers like Interactive Brokers [IBKR API](https://www.interactivebrokers.com/en/index.php?f=5041) or platforms like Bloomberg Terminal enables real-time data retrieval and plotting.
+For traders who need [real-time data analysis](../r/real-time_data_analysis.md), many trading platforms and APIs provide ways to integrate [real-time market data](../r/real-time_market_data.md) into log-log plots. For instance, using APIs from brokers like Interactive Brokers [IBKR API](https://www.interactivebrokers.com/en/index.php?f=5041) or platforms like [Bloomberg](../b/bloomberg.md) Terminal enables real-time data retrieval and plotting.
 
 **Integrating Real-Time Data Example:**
 ```python

@@ -92,7 +92,7 @@ Effective global market analysis requires access to reliable data sources and ad
 
 ### Financial News Services
 
-Real-time news services like Bloomberg, Reuters, and Dow Jones provide critical market-moving information. These platforms deliver news on [economic indicators](../e/economic_indicators.md), [geopolitical events](../g/geopolitical_events.md), corporate earnings, and more.
+Real-time news services like [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), and Dow Jones provide critical market-moving information. These platforms deliver news on [economic indicators](../e/economic_indicators.md), [geopolitical events](../g/geopolitical_events.md), corporate earnings, and more.
 
 ### Economic Data Platforms
 

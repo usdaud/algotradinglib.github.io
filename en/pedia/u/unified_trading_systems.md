@@ -82,11 +82,11 @@ With rapid advancements in technology, UTS providers must continuously innovate 
 
 ### Bloomberg Terminal
 [https://www.bloomberg.com/professional/solution/bloomberg-terminal/](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-The Bloomberg Terminal is a leading UTS offering a wide range of functionalities, including market data, news, analytics, and trading capabilities. It is widely used by financial professionals around the world.
+The [Bloomberg](../b/bloomberg.md) Terminal is a leading UTS offering a wide range of functionalities, including market data, news, analytics, and trading capabilities. It is widely used by financial professionals around the world.
 
 ### Thomson Reuters Eikon
 [https://solutions.refinitiv.com/eikon-trading-software/](https://solutions.refinitiv.com/eikon-trading-software/)
-Eikon by Thomson Reuters provides comprehensive trading solutions with robust data analytics, news, and trading tools. It is designed to cater to the needs of traders, portfolio managers, and analysts.
+Eikon by Thomson [Reuters](../r/reuters.md) provides comprehensive trading solutions with robust data analytics, news, and trading tools. It is designed to cater to the needs of traders, portfolio managers, and analysts.
 
 ### Fidessa
 [https://iongroup.com/](https://iongroup.com/)
@@ -94,7 +94,7 @@ Fidessa, part of ION Group, offers advanced trading solutions with extensive ord
 
 ### CQG
 [https://www.cqg.com/](https://www.cqg.com/)
-CQG provides high-performance trading, market data, and [technical analysis](../t/technical_analysis.md) tools. Its platforms are designed for professional traders and institutions, offering real-time data and advanced charting functionalities.
+[CQG](../c/cqg.md) provides high-performance trading, market data, and [technical analysis](../t/technical_analysis.md) tools. Its platforms are designed for professional traders and institutions, offering real-time data and advanced charting functionalities.
 
 ### MetaTrader 5
 [https://www.metaquotes.net/en/metatrader5](https://www.metaquotes.net/en/metatrader5)

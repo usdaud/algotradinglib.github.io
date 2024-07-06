@@ -49,15 +49,15 @@ TCA involves analyzing past trades to assess the effectiveness of different stra
 
 Several technological solutions and platforms are available to assist in managing [trading costs](../t/trading_costs.md):
 
-- **Bloomberg Terminal**: Offers comprehensive tools for trading data, analytics, and execution that can help manage explicit and implicit costs.
-- **Thomson Reuters Eikon**: Provides market data, news, and tools for [trading costs](../t/trading_costs.md) analysis.
+- **[Bloomberg](../b/bloomberg.md) Terminal**: Offers comprehensive tools for trading data, analytics, and execution that can help manage explicit and implicit costs.
+- **Thomson [Reuters](../r/reuters.md) Eikon**: Provides market data, news, and tools for [trading costs](../t/trading_costs.md) analysis.
 - **ITG (Investment Technology Group)**: Specializes in [transaction cost analysis](../t/transaction_cost_analysis.md) and trading analytics (https://www.itg.com/).
 
 ## Real-World Applications
 
 ### QuantConnect
 
-QuantConnect is a platform that offers [algorithmic trading](../a/algorithmic_trading.md) [backtesting](../b/backtesting.md) and live trading services. It provides tools to optimize trade execution and manage costs by simulating different strategies before implementing them live (https://www.quantconnect.com/).
+[QuantConnect](../q/quantconnect.md) is a platform that offers [algorithmic trading](../a/algorithmic_trading.md) [backtesting](../b/backtesting.md) and live trading services. It provides tools to optimize trade execution and manage costs by simulating different strategies before implementing them live (https://www.[quantconnect](../q/quantconnect.md).com/).
 
 ### Algomi
 

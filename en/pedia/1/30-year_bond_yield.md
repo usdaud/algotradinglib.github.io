@@ -48,7 +48,7 @@ As of the latest reports, the yield on the [30-year Treasury bond](../1/30-year_
 
 ### How to Monitor the 30-Year Bond Yield
 
-Investors and analysts can monitor the 30-year bond yield through various financial news platforms, government reports, and financial data providers. Websites such as [U.S. Department of the Treasury](https://www.treasury.gov) and financial news sites like Bloomberg, Reuters, and others regularly update this information.
+Investors and analysts can monitor the 30-year bond yield through various financial news platforms, government reports, and financial data providers. Websites such as [U.S. Department of the Treasury](https://www.treasury.gov) and financial news sites like [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), and others regularly update this information.
 
 ### Conclusion
 

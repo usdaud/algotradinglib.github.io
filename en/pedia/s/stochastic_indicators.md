@@ -63,7 +63,7 @@ A basic [algorithmic trading](../a/algorithmic_trading.md) strategy using a [sto
 
 ### Practical Implementation
 
-Brokerage platforms and specialized [algorithmic trading](../a/algorithmic_trading.md) services, such as MetaTrader (https://www.metatrader4.com/en) and QuantConnect (https://www.quantconnect.com/), support the implementation of strategies using stochastic indicators. They provide the tools necessary for developing, [backtesting](../b/backtesting.md), and deploying algorithms in live markets.
+Brokerage platforms and specialized [algorithmic trading](../a/algorithmic_trading.md) services, such as MetaTrader (https://www.[metatrader4](../m/metatrader4.md).com/en) and [QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/), support the implementation of strategies using stochastic indicators. They provide the tools necessary for developing, [backtesting](../b/backtesting.md), and deploying algorithms in live markets.
 
 ### Advantages and Limitations
 

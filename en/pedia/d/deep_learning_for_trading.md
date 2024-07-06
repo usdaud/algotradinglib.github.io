@@ -76,11 +76,11 @@ Several companies and platforms provide tools and services for implementing deep
 
 ### 1. [Quandl](https://www.quandl.com/)
 
-Quandl offers vast datasets, including financial and economic data, which can be used for training deep learning models.
+[Quandl](../q/quandl.md) offers vast datasets, including financial and economic data, which can be used for training deep learning models.
 
 ### 2. [QuantConnect](https://www.quantconnect.com/)
 
-QuantConnect is an [algorithmic trading](../a/algorithmic_trading.md) platform that supports deep learning models, providing tools for [backtesting](../b/backtesting.md) and deploying [trading algorithms](../t/trading_algorithms.md).
+[QuantConnect](../q/quantconnect.md) is an [algorithmic trading](../a/algorithmic_trading.md) platform that supports deep learning models, providing tools for [backtesting](../b/backtesting.md) and deploying [trading algorithms](../t/trading_algorithms.md).
 
 ### 3. [Quantopian](https://www.quantopian.com/)
 

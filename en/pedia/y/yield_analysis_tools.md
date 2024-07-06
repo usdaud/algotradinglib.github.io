@@ -19,9 +19,9 @@ Before diving into the specific tools, it's essential to understand some key [yi
 
 ## Top Yield Analysis Tools in Algo Trading
 
-1. **QuantConnect**
+1. **[QuantConnect](../q/quantconnect.md)**
 
-QuantConnect is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple programming languages, including C#, Python, and F#. It offers powerful tools for [backtesting](../b/backtesting.md), live trading, and [yield analysis](../y/yield_analysis.md). 
+[QuantConnect](../q/quantconnect.md) is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple programming languages, including C#, Python, and F#. It offers powerful tools for [backtesting](../b/backtesting.md), live trading, and [yield analysis](../y/yield_analysis.md). 
 
 Features:
 - **[Backtesting](../b/backtesting.md) Engine**: Evaluate the performance of [trading algorithms](../t/trading_algorithms.md) using historical data.
@@ -29,11 +29,11 @@ Features:
 - **[Risk Management](../r/risk_management.md)**: Built-in tools for assessing and managing risk.
 - **[Performance Metrics](../p/performance_metrics.md)**: Comprehensive analytics to monitor key yield metrics.
 
-Visit QuantConnect: [QuantConnect](https://www.quantconnect.com/)
+Visit [QuantConnect](../q/quantconnect.md): [QuantConnect](https://www.quantconnect.com/)
 
-2. **QuantLib**
+2. **[QuantLib](../q/quantlib.md)**
 
-QuantLib is an open-source library for [quantitative finance](../q/quantitative_finance.md) that provides extensive tools for [yield analysis](../y/yield_analysis.md) and [financial modeling](../f/financial_modeling.md). It is widely used in academia and the financial industry for its robustness and versatility.
+[QuantLib](../q/quantlib.md) is an open-source library for [quantitative finance](../q/quantitative_finance.md) that provides extensive tools for [yield analysis](../y/yield_analysis.md) and [financial modeling](../f/financial_modeling.md). It is widely used in academia and the financial industry for its robustness and versatility.
 
 Features:
 - **Pricing Models**: A broad range of pricing models for [derivatives](../d/derivatives.md) and fixed-income instruments.
@@ -41,11 +41,11 @@ Features:
 - **Risk Assessment**: Methods for calculating risk measures such as Value at Risk (VaR).
 - **Yield Curves**: Construction and analysis of yield curves for different financial instruments.
 
-Visit QuantLib: [QuantLib](https://www.quantlib.org/)
+Visit [QuantLib](../q/quantlib.md): [QuantLib](https://www.quantlib.org/)
 
-3. **TradeStation**
+3. **[TradeStation](../t/tradestation.md)**
 
-TradeStation is a popular trading platform that offers a wide range of tools for algo traders, including [yield analysis](../y/yield_analysis.md) features. It supports both manual and automated trading.
+[TradeStation](../t/tradestation.md) is a popular trading platform that offers a wide range of tools for algo traders, including [yield analysis](../y/yield_analysis.md) features. It supports both manual and automated trading.
 
 Features:
 - **RadarScreen®**: Real-time market scanning and monitoring of trading opportunities.
@@ -53,7 +53,7 @@ Features:
 - **Performance Reports**: Detailed reports on [trading performance](../t/trading_performance.md), including key yield metrics.
 - **EasyLanguage®**: Proprietary scripting language for developing custom [trading strategies](../t/trading_strategies.md).
 
-Visit TradeStation: [TradeStation](https://www.tradestation.com/)
+Visit [TradeStation](../t/tradestation.md): [TradeStation](https://www.tradestation.com/)
 
 4. **MetaTrader 4 (MT4) and MetaTrader 5 (MT5)**
 
@@ -67,21 +67,21 @@ Features:
 
 Visit MetaTrader: [MetaTrader 4/5](https://www.metatrader4.com/)
 
-5. **AmiBroker**
+5. **[AmiBroker](../a/amibroker.md)**
 
-AmiBroker is a powerful [technical analysis](../t/technical_analysis.md) and trading software that provides extensive tools for developing, [backtesting](../b/backtesting.md), and optimizing [trading strategies](../t/trading_strategies.md).
+[AmiBroker](../a/amibroker.md) is a powerful [technical analysis](../t/technical_analysis.md) and trading software that provides extensive tools for developing, [backtesting](../b/backtesting.md), and optimizing [trading strategies](../t/trading_strategies.md).
 
 Features:
-- **Formula Language (AFL)**: AmiBroker's proprietary scripting language for developing custom [trading algorithms](../t/trading_algorithms.md).
+- **Formula Language (AFL)**: [AmiBroker](../a/amibroker.md)'s proprietary scripting language for developing custom [trading algorithms](../t/trading_algorithms.md).
 - **[Backtesting](../b/backtesting.md) and Walk-Forward Testing**: Tools for evaluating the performance of [trading strategies](../t/trading_strategies.md) over historical and out-of-sample data.
 - **Optimization**: Advanced optimization techniques for fine-tuning [trading strategies](../t/trading_strategies.md).
 - **Comprehensive Metrics**: Track and analyze key yield metrics such as [Sharpe Ratio](../s/sharpe_ratio.md), maximum drawdown, and more.
 
-Visit AmiBroker: [AmiBroker](http://www.amibroker.com/)
+Visit [AmiBroker](../a/amibroker.md): [AmiBroker](http://www.amibroker.com/)
 
-6. **NinjaTrader**
+6. **[NinjaTrader](../n/ninjatrader.md)**
 
-NinjaTrader is a trading platform that provides advanced charting, analysis, and automation tools for traders. It is known for its robust ecosystem and extensive support for [algorithmic trading](../a/algorithmic_trading.md).
+[NinjaTrader](../n/ninjatrader.md) is a trading platform that provides advanced charting, analysis, and automation tools for traders. It is known for its robust ecosystem and extensive support for [algorithmic trading](../a/algorithmic_trading.md).
 
 Features:
 - **Advanced Charting**: Customizable charting tools for [technical analysis](../t/technical_analysis.md).
@@ -89,18 +89,18 @@ Features:
 - **[Performance Metrics](../p/performance_metrics.md)**: In-depth analysis of [trading performance](../t/trading_performance.md) with key yield metrics.
 - **[Risk Management](../r/risk_management.md)**: Tools for monitoring and managing trading risks.
 
-Visit NinjaTrader: [NinjaTrader](https://ninjatrader.com/)
+Visit [NinjaTrader](../n/ninjatrader.md): [NinjaTrader](https://ninjatrader.com/)
 
-7. **TradeStation Trading App Store**
+7. **[TradeStation](../t/tradestation.md) Trading App Store**
 
-TradeStation's Trading App Store offers a variety of third-party applications and add-ons that enhance [yield analysis](../y/yield_analysis.md) and performance tracking for traders.
+[TradeStation](../t/tradestation.md)'s Trading App Store offers a variety of third-party applications and add-ons that enhance [yield analysis](../y/yield_analysis.md) and performance tracking for traders.
 
 Features:
 - **Custom Indicators and Strategies**: Access to a wide range of custom indicators and automated [trading strategies](../t/trading_strategies.md).
 - **[Performance Analytics](../p/performance_analytics.md)**: Advanced tools for [yield analysis](../y/yield_analysis.md), [risk management](../r/risk_management.md), and performance tracking.
-- **Seamless Integration**: Integrates directly with the TradeStation platform for a seamless trading experience.
+- **Seamless Integration**: Integrates directly with the [TradeStation](../t/tradestation.md) platform for a seamless trading experience.
 
-Visit TradeStation Trading App Store: [TradeStation Trading App Store](https://www.tradestation.com/trading-apps/)
+Visit [TradeStation](../t/tradestation.md) Trading App Store: [TradeStation Trading App Store](https://www.tradestation.com/trading-apps/)
 
 ## Methodologies for Yield Analysis
 
@@ -126,4 +126,4 @@ Optimization involves fine-tuning the parameters of a trading strategy to achiev
 
 ## Conclusion
 
-[Yield analysis](../y/yield_analysis.md) is a critical component of successful [algorithmic trading](../a/algorithmic_trading.md). By leveraging advanced tools and methodologies, traders can accurately assess the profitability, risk, and overall performance of their [trading strategies](../t/trading_strategies.md). The tools and approaches discussed in this exploration provide a comprehensive framework for conducting [yield analysis](../y/yield_analysis.md), ensuring that algo traders can optimize their strategies for maximum financial outcomes. Whether using cloud-based platforms like QuantConnect, robust libraries like QuantLib, or popular trading platforms like TradeStation and MetaTrader, traders have access to powerful resources that can enhance their [yield analysis](../y/yield_analysis.md) and overall trading success.
+[Yield analysis](../y/yield_analysis.md) is a critical component of successful [algorithmic trading](../a/algorithmic_trading.md). By leveraging advanced tools and methodologies, traders can accurately assess the profitability, risk, and overall performance of their [trading strategies](../t/trading_strategies.md). The tools and approaches discussed in this exploration provide a comprehensive framework for conducting [yield analysis](../y/yield_analysis.md), ensuring that algo traders can optimize their strategies for maximum financial outcomes. Whether using cloud-based platforms like [QuantConnect](../q/quantconnect.md), robust libraries like [QuantLib](../q/quantlib.md), or popular trading platforms like [TradeStation](../t/tradestation.md) and MetaTrader, traders have access to powerful resources that can enhance their [yield analysis](../y/yield_analysis.md) and overall trading success.

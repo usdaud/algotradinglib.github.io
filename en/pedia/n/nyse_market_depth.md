@@ -86,8 +86,8 @@ Several tools and resources are available to help traders analyze NYSE market de
 
 Advanced trading platforms provide real-time market depth data and tools for analyzing [order book dynamics](../o/order_book_dynamics.md). Examples include:
 
-- **Bloomberg Terminal**: A comprehensive platform offering real-time data, news, and analytics. [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-- **Reuters Eikon**: A powerful platform for accessing [real-time market data](../r/real-time_market_data.md) and executing trades. [Refinitiv Eikon](https://eikon.thomsonreuters.com/index.html)
+- **[Bloomberg](../b/bloomberg.md) Terminal**: A comprehensive platform offering real-time data, news, and analytics. [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+- **[Reuters](../r/reuters.md) Eikon**: A powerful platform for accessing [real-time market data](../r/real-time_market_data.md) and executing trades. [Refinitiv Eikon](https://eikon.thomsonreuters.com/index.html)
 - **Interactive Brokers**: Offers a range of tools and data feeds for algorithmic traders. [Interactive Brokers](https://www.interactivebrokers.com/en/home.php)
 
 ### 2. Data Feeds
@@ -95,8 +95,8 @@ Advanced trading platforms provide real-time market depth data and tools for ana
 Real-time and historical market depth data feeds are essential for developing and [backtesting](../b/backtesting.md) [algorithmic trading](../a/algorithmic_trading.md) strategies. Providers include:
 
 - **NYFIX**: Offers a range of data feeds and trading solutions. [NYFIX](https://www.broadridge.com/nyfix)
-- **QuantConnect**: Provides data feeds and an integrated [algorithmic trading](../a/algorithmic_trading.md) platform. [QuantConnect](https://www.quantconnect.com/)
-- **AlgoSeek**: Specializes in high-frequency market data for [backtesting](../b/backtesting.md). [AlgoSeek](https://www.algoseek.com/)
+- **[QuantConnect](../q/quantconnect.md)**: Provides data feeds and an integrated [algorithmic trading](../a/algorithmic_trading.md) platform. [QuantConnect](https://www.quantconnect.com/)
+- **[AlgoSeek](../a/algoseek.md)**: Specializes in high-frequency market data for [backtesting](../b/backtesting.md). [AlgoSeek](https://www.algoseek.com/)
 
 ### 3. Analytical Tools
 

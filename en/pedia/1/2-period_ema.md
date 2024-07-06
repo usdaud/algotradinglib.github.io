@@ -1,6 +1,6 @@
 # 2-Period EMA
 
-The 2-Period Exponential Moving Average (EMA) is a type of moving average used in technical analysis to smooth out price data and identify trends more accurately by giving more weight to the most recent data points. Unlike the simple moving average (SMA), the EMA reacts more significantly to recent price changes, making it particularly useful for traders who want to capture short-term market movements.
+The 2-Period Exponential Moving Average (EMA) is a type of moving average used in [technical analysis](../t/technical_analysis.md) to smooth out price data and identify trends more accurately by giving more weight to the most recent data points. Unlike the simple moving average (SMA), the EMA reacts more significantly to recent price changes, making it particularly useful for traders who want to capture short-term market movements.
 
 ## Calculation of 2-Period EMA
 The formula for calculating the 2-Period EMA is relatively straightforward but requires an initial setup.

@@ -42,13 +42,13 @@ Unfiltered data in trading refers to raw or unprocessed data that has not been c
 
 ## Leading Platforms and Solutions
 
-1. **Bloomberg Terminal**: [Bloomberg Terminal](https://www.bloomberg.com/professional/product/the-bloomberg-terminal/) offers a comprehensive suite of unfiltered financial data, including news, price quotes, and [economic indicators](../e/economic_indicators.md), as they become available in real-time.
+1. **[Bloomberg](../b/bloomberg.md) Terminal**: [Bloomberg Terminal](https://www.bloomberg.com/professional/product/the-bloomberg-terminal/) offers a comprehensive suite of unfiltered financial data, including news, price quotes, and [economic indicators](../e/economic_indicators.md), as they become available in real-time.
 
-2. **Thomson Reuters Eikon**: [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software) provides access to [unfiltered market data](../u/unfiltered_market_data.md), helping financial professionals perform high-speed trading and comprehensive market analysis.
+2. **Thomson [Reuters](../r/reuters.md) Eikon**: [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software) provides access to [unfiltered market data](../u/unfiltered_market_data.md), helping financial professionals perform high-speed trading and comprehensive market analysis.
 
-3. **Quandl**: [Quandl](https://www.quandl.com/) is a platform that supplies a wide array of unfiltered and [alternative data](../a/alternative_data.md) sources for financial markets, enabling [quantitative research](../q/quantitative_research.md) and [algorithmic trading](../a/algorithmic_trading.md) development.
+3. **[Quandl](../q/quandl.md)**: [Quandl](https://www.quandl.com/) is a platform that supplies a wide array of unfiltered and [alternative data](../a/alternative_data.md) sources for financial markets, enabling [quantitative research](../q/quantitative_research.md) and [algorithmic trading](../a/algorithmic_trading.md) development.
 
-4. **Xignite**: [Xignite](https://www.xignite.com/) offers financial market data APIs with unfiltered access to a variety of data sets, including equity prices, forex, [derivatives](../d/derivatives.md), and commodities.
+4. **[Xignite](../x/xignite.md)**: [Xignite](https://www.xignite.com/) offers financial market data APIs with unfiltered access to a variety of data sets, including equity prices, forex, [derivatives](../d/derivatives.md), and commodities.
 
 ## Conclusion
 

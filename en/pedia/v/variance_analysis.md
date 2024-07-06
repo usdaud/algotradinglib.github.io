@@ -83,7 +83,7 @@ Source: [Two Sigma](https://www.twosigma.com)
 Software like R and Python (with libraries such as NumPy, pandas, and SciPy) provide robust functionalities for conducting variance analysis.
 
 ### 2. Trading Platforms
-Advanced trading platforms like MetaTrader and Bloomberg Terminal offer built-in tools for variance analysis.
+Advanced trading platforms like MetaTrader and [Bloomberg](../b/bloomberg.md) Terminal offer built-in tools for variance analysis.
 
 ### 3. Machine Learning
 Machine learning models can automate the process of variance analysis by continuously learning from past performance and adjusting parameters in real-time.

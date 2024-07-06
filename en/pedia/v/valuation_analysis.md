@@ -79,17 +79,17 @@ Access to accurate and timely data is crucial for reliable valuation analysis. I
 Several companies provide tools and platforms for conducting valuation analysis. Some notable examples include:
 
 ### 1. Bloomberg Terminal
-The Bloomberg Terminal offers a comprehensive suite of financial tools, including [valuation models](../v/valuation_models.md), market analysis, and real-time data. It is widely used by financial professionals for advanced valuation analysis.
+The [Bloomberg](../b/bloomberg.md) Terminal offers a comprehensive suite of financial tools, including [valuation models](../v/valuation_models.md), market analysis, and real-time data. It is widely used by financial professionals for advanced valuation analysis.
 
 [Learn more about Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
 ### 2. FactSet
-FactSet provides integrated financial information and analytical applications. It offers robust valuation tools, comparable analysis, and industry-specific data.
+[FactSet](../f/factset.md) provides integrated financial information and analytical applications. It offers robust valuation tools, comparable analysis, and industry-specific data.
 
 [Learn more about FactSet](https://www.factset.com/)
 
 ### 3. Thomson Reuters Eikon
-Thomson Reuters Eikon is a powerful financial analysis platform that offers extensive [valuation models](../v/valuation_models.md), company data, and market insights. It is designed for financial professionals seeking detailed valuation analysis.
+Thomson [Reuters](../r/reuters.md) Eikon is a powerful financial analysis platform that offers extensive [valuation models](../v/valuation_models.md), company data, and market insights. It is designed for financial professionals seeking detailed valuation analysis.
 
 [Learn more about Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)
 

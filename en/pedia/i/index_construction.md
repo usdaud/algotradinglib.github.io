@@ -16,7 +16,7 @@ An index is a statistical measure that incorporates the performance of a group o
 
 4. **Style Indices**: These indices separate stocks into categories like growth or value, based on specific stock characteristics. Examples are the Russell 1000 Growth Index and the Russell 1000 Value Index.
 
-5. **Fixed Income Indices**: These indices track the performance of bonds. Examples include the Bloomberg Barclays U.S. Aggregate Bond Index and the J.P. Morgan Emerging Markets Bond Index.
+5. **Fixed Income Indices**: These indices track the performance of bonds. Examples include the [Bloomberg](../b/bloomberg.md) Barclays U.S. Aggregate Bond Index and the J.P. Morgan Emerging Markets Bond Index.
 
 ## Construction Methodologies
 
@@ -52,7 +52,7 @@ These indices select and weigh constituents based on one or more investment fact
 
 ### Composite Indices
 
-Composite indices combine various types of assets or strategies. An example is the Bloomberg Commodity Index, which tracks the performance of multiple [commodity futures](../c/commodity_futures.md) contracts.
+Composite indices combine various types of assets or strategies. An example is the [Bloomberg](../b/bloomberg.md) Commodity Index, which tracks the performance of multiple [commodity futures](../c/commodity_futures.md) contracts.
 
 1. **Advantages**: Diversified risk and exposure to multiple asset classes.
 2. **Disadvantages**: Complexity in construction and maintenance.

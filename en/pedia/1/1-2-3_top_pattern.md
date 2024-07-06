@@ -67,9 +67,9 @@ Traders also apply this pattern in volatile markets like cryptocurrencies, where
 ## Software Tools for Identifying 1-2-3 Top Pattern
 
 Various trading platforms and software tools help identify the 1-2-3 Top Pattern, enhancing its usage. Examples include:
-- **TradingView (https://www.tradingview.com):** Offers powerful charting and [pattern recognition](../p/pattern_recognition.md) tools.
-- **MetaTrader 4/5 (https://www.metaquotes.net/en/metatrader4):** Popular trading platforms with custom indicators for [pattern recognition](../p/pattern_recognition.md).
-- **NinjaTrader (https://ninjatrader.com):** Provides advanced charting and analysis tools for futures and forex.
+- **[TradingView](../t/tradingview.md) (https://www.[tradingview](../t/tradingview.md).com):** Offers powerful charting and [pattern recognition](../p/pattern_recognition.md) tools.
+- **MetaTrader 4/5 (https://www.metaquotes.net/en/[metatrader4](../m/metatrader4.md)):** Popular trading platforms with custom indicators for [pattern recognition](../p/pattern_recognition.md).
+- **[NinjaTrader](../n/ninjatrader.md) (https://[ninjatrader](../n/ninjatrader.md).com):** Provides advanced charting and analysis tools for futures and forex.
 
 ## Conclusion
 

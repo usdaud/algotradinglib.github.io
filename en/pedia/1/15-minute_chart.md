@@ -79,7 +79,7 @@ The infrastructure for high-frequency trading based on 15-minute charts typicall
 Several brokers and trading platforms support [algorithmic trading](../a/algorithmic_trading.md) with integration options for 15-minute chart analysis. Examples include:
 - **Interactive Brokers**: [Interactive Brokers Algo Trading](https://www.interactivebrokers.com/en/index.php?f=2225)
 - **MetaTrader**: [MetaTrader Algo Trading](https://www.metatrader4.com/en/trading-platform/automated-trading)
-- **NinjaTrader**: [NinjaTrader Algorithmic Trading](https://ninjatrader.com/)
+- **[NinjaTrader](../n/ninjatrader.md)**: [NinjaTrader Algorithmic Trading](https://ninjatrader.com/)
 
 ## Examples and Case Studies
 

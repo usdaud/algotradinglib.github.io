@@ -71,14 +71,14 @@ Machine learning techniques, including supervised learning, unsupervised learnin
 - **C++:** Used for high-frequency trading due to its performance and efficiency.
 
 ### Software Platforms
-- **QuantConnect:** An open-source, cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform supporting C#, F#, Python, and R. [QuantConnect](https://www.quantconnect.com/)
-- **Quantlib:** A comprehensive library for [quantitative finance](../q/quantitative_finance.md). [Quantlib](https://www.quantlib.org/)
+- **[QuantConnect](../q/quantconnect.md):** An open-source, cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform supporting C#, F#, Python, and R. [QuantConnect](https://www.quantconnect.com/)
+- **[Quantlib](../q/quantlib.md):** A comprehensive library for [quantitative finance](../q/quantitative_finance.md). [Quantlib](https://www.quantlib.org/)
 - **MATLAB Finance Toolbox:** Provides extensive tools for designing and [backtesting](../b/backtesting.md) quantitative strategies. [MathWorks Finance Toolbox](https://www.mathworks.com/products/finance.html)
 
 ### Data Providers
-- **Bloomberg Terminal:** Offers comprehensive data, analytics, and trading tools. [Bloomberg](https://www.bloomberg.com/professional/solution/data-and-content/)
-- **Thomson Reuters Eikon:** Provides news, [real-time market data](../r/real-time_market_data.md), and analytics. [Refinitiv Eikon](https://eikon.thomsonreuters.com/)
-- **Quandl:** Supplies financial, economic, and [alternative data](../a/alternative_data.md) for [financial modeling](../f/financial_modeling.md). [Quandl](https://www.quandl.com/)
+- **[Bloomberg](../b/bloomberg.md) Terminal:** Offers comprehensive data, analytics, and trading tools. [Bloomberg](https://www.bloomberg.com/professional/solution/data-and-content/)
+- **Thomson [Reuters](../r/reuters.md) Eikon:** Provides news, [real-time market data](../r/real-time_market_data.md), and analytics. [Refinitiv Eikon](https://eikon.thomsonreuters.com/)
+- **[Quandl](../q/quandl.md):** Supplies financial, economic, and [alternative data](../a/alternative_data.md) for [financial modeling](../f/financial_modeling.md). [Quandl](https://www.quandl.com/)
 
 ## Notable Companies
 

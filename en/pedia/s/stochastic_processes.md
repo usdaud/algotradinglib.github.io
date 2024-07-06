@@ -64,13 +64,13 @@ where `θ` is the rate of reversion, `μ` is the long-term mean, `σ` is the vol
 ## Tools and Libraries
 
 ### QuantLib
-QuantLib is an open-source library for [quantitative finance](../q/quantitative_finance.md) that provides tools for modeling, trading, and [risk management](../r/risk_management.md) in real-life. It includes implementations of various stochastic processes used in [financial modeling](../f/financial_modeling.md). More information can be found on their [official website](https://www.quantlib.org).
+[QuantLib](../q/quantlib.md) is an open-source library for [quantitative finance](../q/quantitative_finance.md) that provides tools for modeling, trading, and [risk management](../r/risk_management.md) in real-life. It includes implementations of various stochastic processes used in [financial modeling](../f/financial_modeling.md). More information can be found on their [official website](https://www.quantlib.org).
 
 ### PyMC3
 PyMC3 is a Python library for probabilistic programming which relies extensively on stochastic processes for simulations and modeling. It is particularly useful for Bayesian statistical models. More details can be found [here](https://docs.pymc.io).
 
 ### Bloomberg Terminal
-Bloomberg Terminal is a professional service providing financial data, analytics, trading tools, and research. It uses stochastic processes in its analytics and [risk management](../r/risk_management.md) tools. You can learn more about it on the [Bloomberg Terminal page](https://www.bloomberg.com/professional/solution/bloomberg-terminal/).
+[Bloomberg](../b/bloomberg.md) Terminal is a professional service providing financial data, analytics, trading tools, and research. It uses stochastic processes in its analytics and [risk management](../r/risk_management.md) tools. You can learn more about it on the [Bloomberg Terminal page](https://www.bloomberg.com/professional/solution/bloomberg-terminal/).
 
 ## Conclusion
 Stochastic processes play a crucial role in the field of [algorithmic trading](../a/algorithmic_trading.md). They provide the mathematical foundation for understanding and modeling the inherent randomness in financial markets. From pricing models and [risk management](../r/risk_management.md) to forecasting and [portfolio optimization](../p/portfolio_optimization.md), the applications of stochastic processes are vast and fundamental to developing successful [trading strategies](../t/trading_strategies.md). As financial markets continue to grow in complexity, the importance of stochastic processes in [algorithmic trading](../a/algorithmic_trading.md) will only increase.

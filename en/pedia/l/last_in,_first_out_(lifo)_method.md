@@ -36,7 +36,7 @@ Efficient data management is critical when implementing LIFO in any trading syst
 
 Implementing LIFO requires sophisticated software capable of prioritizing the sale of the most recently acquired inventory. [Trading algorithms](../t/trading_algorithms.md) must be designed to automatically recognize acquisition dates and execute trades accordingly.
 
-- **Trade [Execution Algorithms](../e/execution_algorithms.md)**: Developing trade [execution algorithms](../e/execution_algorithms.md) that factor in LIFO involves programming languages and tools like Python, R, and trading platforms like MetaTrader or QuantConnect. These tools can help create and backtest algorithms that ensure compliance with the LIFO process.
+- **Trade [Execution Algorithms](../e/execution_algorithms.md)**: Developing trade [execution algorithms](../e/execution_algorithms.md) that factor in LIFO involves programming languages and tools like Python, R, and trading platforms like MetaTrader or [QuantConnect](../q/quantconnect.md). These tools can help create and backtest algorithms that ensure compliance with the LIFO process.
 
 **3. Integration with Accounting Systems**
 

@@ -88,7 +88,7 @@ Markets are constantly changing, and historical data may not always accurately p
 
 Several companies stand at the forefront of using sophisticated techniques, including X-Normal Returns, to enhance their [algorithmic trading](../a/algorithmic_trading.md) strategies:
 
-- **QuantConnect** [QuantConnect](https://www.quantconnect.com): A cutting-edge quant trading platform providing access to extensive historical data and cloud-based [backtesting](../b/backtesting.md).
+- **[QuantConnect](../q/quantconnect.md)** [QuantConnect](https://www.quantconnect.com): A cutting-edge quant trading platform providing access to extensive historical data and cloud-based [backtesting](../b/backtesting.md).
   
 - **Numerai** [Numerai](https://numer.ai): Uses machine learning models to predict financial markets, leveraging crowd-sourced data scientists' contributions.
   

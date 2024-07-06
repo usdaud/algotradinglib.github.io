@@ -49,7 +49,7 @@ In forex markets, firms like OANDA (https://www.oanda.com) and Forex.com (https:
 ## Challenges and Considerations
 
 ### Data Quality and Accessibility
-Accurate calculation of the 30-[day trading](../d/day_trading.md) volume requires high-quality and consistent data. Traders need reliable data sources to ensure the integrity of their [volume analysis](../v/volume_analysis.md). Platforms like Bloomberg Terminal and Reuters Eikon provide extensive historical and real-time volume data, albeit often at a high cost.
+Accurate calculation of the 30-[day trading](../d/day_trading.md) volume requires high-quality and consistent data. Traders need reliable data sources to ensure the integrity of their [volume analysis](../v/volume_analysis.md). Platforms like [Bloomberg](../b/bloomberg.md) Terminal and [Reuters](../r/reuters.md) Eikon provide extensive historical and real-time volume data, albeit often at a high cost.
 
 ### Algorithm Robustness
 While the 30-[day trading](../d/day_trading.md) volume is a valuable metric, it is important to ensure that [trading algorithms](../t/trading_algorithms.md) are robust and do not overly rely on any single metric. Diversifying the metrics used can improve the adaptability and resilience of the algorithm.

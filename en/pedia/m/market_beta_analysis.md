@@ -63,13 +63,13 @@ While beta is a widely used metric, it has limitations:
 
 Several platforms and tools provide beta values for securities:
 
-- **Bloomberg Terminal**: Offers comprehensive financial datasets including beta values of stocks.
+- **[Bloomberg](../b/bloomberg.md) Terminal**: Offers comprehensive financial datasets including beta values of stocks.
   [Visit Bloomberg](https://www.bloomberg.com/professional/solution/terminal/)
-- **Reuters Eikon**: Provides financial analysis tools including beta metrics.
+- **[Reuters](../r/reuters.md) Eikon**: Provides financial analysis tools including beta metrics.
   [Visit Reuters](https://eikon.thomsonreuters.com/index.html)
 - **Yahoo Finance**: Free resource for beta values of publicly traded companies.
   [Visit Yahoo Finance](https://finance.yahoo.com/)
-- **Morningstar**: Delivers proprietary beta scores along with other financial metrics.
+- **[Morningstar](../m/morningstar.md)**: Delivers proprietary beta scores along with other financial metrics.
   [Visit Morningstar](https://www.morningstar.com/)
 
 ### Conclusion

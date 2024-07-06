@@ -94,9 +94,9 @@ Institutions such as pension funds, insurance companies, and financial advisors 
 
 ### Software and Analytical Tools
 Advanced software and analytical tools are available to assist investors in bond immunization. These tools offer sophisticated models to calculate duration, convexity, and other necessary metrics, allowing for dynamic portfolio adjustments.
-1. **Bloomberg Terminal**: Provides comprehensive analytics for [bond portfolio management](../b/bond_portfolio_management.md), including immunization calculations [Bloomberg](https://www.bloomberg.com).
-2. **Morningstar Direct**: Offers fixed-income tools for assessing [portfolio duration](../p/portfolio_duration.md) and implementing immunization strategies [Morningstar Direct](https://www.morningstar.com/products/direct).
-3. **FactSet**: Delivers integrated tools for bond analysis, [portfolio management](../p/portfolio_management.md), and implementing immunization strategies [FactSet](https://www.factset.com).
+1. **[Bloomberg](../b/bloomberg.md) Terminal**: Provides comprehensive analytics for [bond portfolio management](../b/bond_portfolio_management.md), including immunization calculations [Bloomberg](https://www.bloomberg.com).
+2. **[Morningstar](../m/morningstar.md) Direct**: Offers fixed-income tools for assessing [portfolio duration](../p/portfolio_duration.md) and implementing immunization strategies [Morningstar Direct](https://www.morningstar.com/products/direct).
+3. **[FactSet](../f/factset.md)**: Delivers integrated tools for bond analysis, [portfolio management](../p/portfolio_management.md), and implementing immunization strategies [FactSet](https://www.factset.com).
 
 ## Conclusion
 Bond immunization is a powerful strategy for managing interest rate risk and ensuring that investment objectives are met. By carefully structuring a bond portfolio to match the duration to the investment horizon, investors can effectively neutralize the effects of interest rate fluctuations. While it requires careful planning, regular rebalancing, and the use of sophisticated tools, bond immunization remains a cornerstone technique for conservative investors seeking predictable, long-term returns.

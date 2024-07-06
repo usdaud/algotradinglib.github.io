@@ -81,7 +81,7 @@ Several computational tools and libraries are available for implementing stochas
 - **Pandas**: Library providing data structures and data analysis tools for Python.
   - [Pandas](https://pandas.pydata.org/)
 
-- **QuantLib**: Open-source library for [quantitative finance](../q/quantitative_finance.md).
+- **[QuantLib](../q/quantlib.md)**: Open-source library for [quantitative finance](../q/quantitative_finance.md).
   - [QuantLib](https://www.quantlib.org/)
 
 ### MATLAB

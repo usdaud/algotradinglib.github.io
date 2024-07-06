@@ -10,7 +10,7 @@ MetaTrader 4 and MetaTrader 5, developed by MetaQuotes Software, are some of the
 
 ### NinjaTrader
 
-NinjaTrader is a preferred choice among futures and forex traders. Apart from offering trading and charting functionalities, it features advanced analytics and market data. One of the strengths of NinjaTrader is its support for [algorithmic trading](../a/algorithmic_trading.md) through NinjaScript, a custom programming language similar to C#. Traders can backtest their algorithms using historical data and optimize their strategies using the platform's extensive tools.
+[NinjaTrader](../n/ninjatrader.md) is a preferred choice among futures and forex traders. Apart from offering trading and charting functionalities, it features advanced analytics and market data. One of the strengths of [NinjaTrader](../n/ninjatrader.md) is its support for [algorithmic trading](../a/algorithmic_trading.md) through NinjaScript, a custom programming language similar to C#. Traders can backtest their algorithms using historical data and optimize their strategies using the platform's extensive tools.
 
 - [NinjaTrader](https://ninjatrader.com/)
 
@@ -28,7 +28,7 @@ Interactive Brokers’ Trader Workstation (TWS) is a highly robust and customiza
 
 ### QuantConnect
 
-QuantConnect is an open-source [algorithmic trading](../a/algorithmic_trading.md) platform that focuses on collaborative development and community engagement. It offers extensive data libraries and supports multiple asset classes. QuantConnect's cloud-based platform allows users to write algorithms in C# or Python and provides a rich library of financial data for [backtesting](../b/backtesting.md). The platform's open-source ethos and cloud capabilities make it particularly appealing for quant developers and researchers.
+[QuantConnect](../q/quantconnect.md) is an open-source [algorithmic trading](../a/algorithmic_trading.md) platform that focuses on collaborative development and community engagement. It offers extensive data libraries and supports multiple asset classes. [QuantConnect](../q/quantconnect.md)'s cloud-based platform allows users to write algorithms in C# or Python and provides a rich library of financial data for [backtesting](../b/backtesting.md). The platform's open-source ethos and cloud capabilities make it particularly appealing for quant developers and researchers.
 
 - [QuantConnect](https://www.quantconnect.com/)
 
@@ -40,7 +40,7 @@ MetaStock is another well-regarded trading platform that offers robust charting 
 
 ### MultiCharts
 
-MultiCharts is designed for both institutional and retail traders who engage in [algorithmic trading](../a/algorithmic_trading.md). It supports multiple brokers, including Interactive Brokers and TradeStation. The platform offers advanced charting capabilities, strategy [backtesting](../b/backtesting.md), and optimization tools. MultiCharts uses EasyLanguage for scripting, which is also used by TradeStation, making it easy for users to migrate between the two platforms. 
+[MultiCharts](../m/multicharts.md) is designed for both institutional and retail traders who engage in [algorithmic trading](../a/algorithmic_trading.md). It supports multiple brokers, including Interactive Brokers and [TradeStation](../t/tradestation.md). The platform offers advanced charting capabilities, strategy [backtesting](../b/backtesting.md), and optimization tools. [MultiCharts](../m/multicharts.md) uses EasyLanguage for scripting, which is also used by [TradeStation](../t/tradestation.md), making it easy for users to migrate between the two platforms. 
 
 - [MultiCharts](https://www.multicharts.com/)
 
@@ -52,19 +52,19 @@ Sierra Chart is a professional trading platform offering high-performance charti
 
 ### TradeStation
 
-TradeStation is a comprehensive trading platform that supports equities, options, futures, and forex. It is especially popular for its advanced charting and [technical analysis](../t/technical_analysis.md) tools. Like MultiCharts, TradeStation employs EasyLanguage for scripting [trading algorithms](../t/trading_algorithms.md). The platform also offers historical data for [backtesting](../b/backtesting.md) and optimization, along with access to the TradeStation API for custom application development.
+[TradeStation](../t/tradestation.md) is a comprehensive trading platform that supports equities, options, futures, and forex. It is especially popular for its advanced charting and [technical analysis](../t/technical_analysis.md) tools. Like [MultiCharts](../m/multicharts.md), [TradeStation](../t/tradestation.md) employs EasyLanguage for scripting [trading algorithms](../t/trading_algorithms.md). The platform also offers historical data for [backtesting](../b/backtesting.md) and optimization, along with access to the [TradeStation](../t/tradestation.md) API for custom application development.
 
 - [TradeStation](https://www.tradestation.com/)
 
 ### CQG Integrated Client
 
-CQG Integrated Client is known for its high-[performance analytics](../p/performance_analytics.md) and superior charting tools. It provides real-time and historical data and supports both manual and automated trading. CQG’s [algorithmic trading](../a/algorithmic_trading.md) capabilities are facilitated through its CQG API, which allows for integration with various programming languages (e.g., C++, C#, Java), making it suitable for professional traders who require reliable execution and low-latency data services.
+[CQG](../c/cqg.md) Integrated Client is known for its high-[performance analytics](../p/performance_analytics.md) and superior charting tools. It provides real-time and historical data and supports both manual and automated trading. [CQG](../c/cqg.md)’s [algorithmic trading](../a/algorithmic_trading.md) capabilities are facilitated through its [CQG](../c/cqg.md) API, which allows for integration with various programming languages (e.g., C++, C#, Java), making it suitable for professional traders who require reliable execution and low-latency data services.
 
 - [CQG](https://www.cqg.com/)
 
 ### Alpaca
 
-Alpaca is a recent entrant into the world of stock and crypto trading, and it is API-first. Alpaca provides commission-free trading and focuses heavily on providing robust API access for [algorithmic trading](../a/algorithmic_trading.md). Developers can use Python and other languages via Alpaca’s REST API to build, backtest, and deploy their [trading algorithms](../t/trading_algorithms.md). Alpaca also integrates well with other data providers and platforms like QuantConnect, making it flexible and accessible.
+Alpaca is a recent entrant into the world of stock and crypto trading, and it is API-first. Alpaca provides commission-free trading and focuses heavily on providing robust API access for [algorithmic trading](../a/algorithmic_trading.md). Developers can use Python and other languages via Alpaca’s REST API to build, backtest, and deploy their [trading algorithms](../t/trading_algorithms.md). Alpaca also integrates well with other data providers and platforms like [QuantConnect](../q/quantconnect.md), making it flexible and accessible.
 
 - [Alpaca](https://alpaca.markets/)
 

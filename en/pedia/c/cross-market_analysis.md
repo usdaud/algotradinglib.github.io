@@ -64,8 +64,8 @@ Cross-market analysis in [algorithmic trading](../a/algorithmic_trading.md) invo
 ### Data Sources
 
 1. **Financial Data Providers**
-   - Bloomberg
-   - Reuters
+   - [Bloomberg](../b/bloomberg.md)
+   - [Reuters](../r/reuters.md)
    - Yahoo Finance
 
 2. **[Alternative Data](../a/alternative_data.md)**
@@ -78,7 +78,7 @@ Cross-market analysis in [algorithmic trading](../a/algorithmic_trading.md) invo
 1. **Market Data APIs**
    - Alpha Vantage
    - IEX Cloud
-   - Quandl
+   - [Quandl](../q/quandl.md)
 
 2. **Trading APIs**
    - MetaTrader
