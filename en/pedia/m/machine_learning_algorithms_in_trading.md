@@ -131,7 +131,7 @@ A pioneering firm in the field, Renaissance Technologies uses advanced mathemati
 **Website**: [Renaissance Technologies](https://www.rentec.com)
 
 ##### 6.4. Alpaca
-Alpaca offers commission-free trading API and uses machine learning algorithms to facilitate automated [trading strategies](../t/trading_strategies.md).
+[Alpaca](../a/alpaca.md) offers commission-free trading API and uses machine learning algorithms to facilitate automated [trading strategies](../t/trading_strategies.md).
 **Website**: [Alpaca](https://alpaca.markets)
 
 #### 7. Future of ML in Trading

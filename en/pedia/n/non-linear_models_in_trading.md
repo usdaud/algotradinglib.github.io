@@ -87,7 +87,7 @@ Numerai is an AI-run hedge fund that relies on data scientists to create predict
 Kensho provides analytical solutions leveraging machine learning and non-linear models to understand financial markets and enhance [trading strategies](../t/trading_strategies.md).
 
 ### 3. **Alpaca** ([link](https://alpaca.markets/))
-Alpaca offers an API platform for [algorithmic trading](../a/algorithmic_trading.md), allowing traders to deploy and backtest non-linear models easily.
+[Alpaca](../a/alpaca.md) offers an API platform for [algorithmic trading](../a/algorithmic_trading.md), allowing traders to deploy and backtest non-linear models easily.
 
 ### 4. **QuantConnect** ([link](https://www.quantconnect.com/))
 [QuantConnect](../q/quantconnect.md) is an [algorithmic trading](../a/algorithmic_trading.md) platform that supports a variety of non-linear models for developing and [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md).

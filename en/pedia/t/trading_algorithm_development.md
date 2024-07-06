@@ -52,7 +52,7 @@ Development environments like Visual Studio, PyCharm, and Jupyter Notebooks are 
 2. **Order Types**: Using various order types (market, limit, stop-loss, etc.) to optimize trade execution.
 3. **Broker Integration**: Connecting the algorithm with brokerage accounts and ensuring seamless [order routing](../o/order_routing.md).
 
-Trading platforms like Interactive Brokers, TD Ameritrade, and [TradeStation](../t/tradestation.md) provide APIs and execution services.
+Trading platforms like Interactive Brokers, TD [Ameritrade](../a/ameritrade.md), and [TradeStation](../t/tradestation.md) provide APIs and execution services.
 
 ### Risk Management and Monitoring
 
@@ -72,7 +72,7 @@ Several companies and tools support various stages of trading algorithm developm
 
 2. **Interactive Brokers**: Offers a comprehensive trading platform with robust API support for [algorithmic trading](../a/algorithmic_trading.md). [Interactive Brokers](https://www.interactivebrokers.com/)
 
-3. **TD Ameritrade**: Provides APIs and tools for [algorithmic trading](../a/algorithmic_trading.md) along with a wide range of financial products. [TD Ameritrade](https://www.tdameritrade.com/)
+3. **TD [Ameritrade](../a/ameritrade.md)**: Provides APIs and tools for [algorithmic trading](../a/algorithmic_trading.md) along with a wide range of financial products. [TD Ameritrade](https://www.tdameritrade.com/)
 
 4. **[TradeStation](../t/tradestation.md)**: Offers a powerful trading platform with advanced tools for strategy development, [backtesting](../b/backtesting.md), and execution. [TradeStation](https://www.tradestation.com/)
 

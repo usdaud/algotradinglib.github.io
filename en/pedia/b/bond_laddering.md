@@ -42,7 +42,7 @@ Each year, as one bond matures, the proceeds are reinvested into a new ten-year 
 Several financial platforms offer tools for bond laddering:
 - **Vanguard**: [Vanguard Bond Laddering Tool](https://investor.vanguard.com/investing/bonds)
 - **Fidelity**: [Fidelity Bond Ladder Tool](https://www.fidelity.com/fixed-income-bonds/bond-ladder)
-- **Charles Schwab**: [Schwab BondSource](https://www.schwab.com/fixed-income/bonds)
+- **[Charles Schwab](../c/charles_schwab.md)**: [Schwab BondSource](https://www.schwab.com/fixed-income/bonds)
 
 ## Risks Associated with Bond Laddering
 1. **Credit Risk**: The risk that the bond issuer will default. It's lower for government bonds but higher for corporate bonds.

@@ -43,7 +43,7 @@ MetaTrader 4 (MT4) and MetaTrader 5 (MT5) are among the most well-known trading 
 *Website:* [NinjaTrader](https://ninjatrader.com/)
 
 ### 4. **Thinkorswim by TD Ameritrade**
-[Thinkorswim](../t/thinkorswim.md) is an advanced trading platform offered by TD Ameritrade, featuring a wide array of [technical analysis](../t/technical_analysis.md) tools, including hundreds of [technical indicators](../t/technical_indicators.md), customizable charting options, and paper money for practice trading.
+[Thinkorswim](../t/thinkorswim.md) is an advanced trading platform offered by TD [Ameritrade](../a/ameritrade.md), featuring a wide array of [technical analysis](../t/technical_analysis.md) tools, including hundreds of [technical indicators](../t/technical_indicators.md), customizable charting options, and paper money for practice trading.
 
 *Website:* [Thinkorswim](https://www.thinkorswim.com/)
 

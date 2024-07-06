@@ -155,16 +155,16 @@ plt.show()
 
 ### Step 6: Deployment
 
-After successful [backtesting](../b/backtesting.md), deploy the algorithm in a live [trading environment](../t/trading_environment.md). Use real-time data feeds and integrate with trading platforms such as MetaTrader, Interactive Brokers, or Alpaca to execute trades.
+After successful [backtesting](../b/backtesting.md), deploy the algorithm in a live [trading environment](../t/trading_environment.md). Use real-time data feeds and integrate with trading platforms such as MetaTrader, Interactive Brokers, or [Alpaca](../a/alpaca.md) to execute trades.
 
-Example with Alpaca:
+Example with [Alpaca](../a/alpaca.md):
 
 ```python
 import alpaca_trade_api as tradeapi
 
 api_key = 'YOUR_API_KEY'
 api_secret = 'YOUR_API_SECRET'
-base_url = 'https://paper-api.alpaca.markets'
+base_url = 'https://paper-api.[alpaca](../a/alpaca.md).markets'
 
 api = tradeapi.REST(api_key, api_secret, base_url, api_version='v2')
 

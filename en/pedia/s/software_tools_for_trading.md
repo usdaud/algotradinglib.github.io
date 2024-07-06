@@ -64,12 +64,12 @@ Interactive Brokers offers a robust API for trading various financial instrument
 [Interactive Brokers API](https://www.interactivebrokers.com/en/trading/ib-api.php)
 
 ### Alpaca
-Alpaca is a commission-free brokerage offering an API-first platform. It’s particularly popular among retail traders and those who use Python for [algorithmic trading](../a/algorithmic_trading.md).
+[Alpaca](../a/alpaca.md) is a commission-free brokerage offering an API-first platform. It’s particularly popular among retail traders and those who use Python for [algorithmic trading](../a/algorithmic_trading.md).
 
 [Alpaca](https://alpaca.markets)
 
 ### Tradier
-Tradier provides an API platform for equity and options trading. It offers REST-based access and is particularly suited for developers looking to build custom trading applications.
+[Tradier](../t/tradier.md) provides an API platform for equity and options trading. It offers REST-based access and is particularly suited for developers looking to build custom trading applications.
 
 [Tradier](https://developer.tradier.com)
 

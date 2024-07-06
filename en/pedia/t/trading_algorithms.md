@@ -76,7 +76,7 @@ Designing and implementing a trading algorithm involves multiple steps:
 ### Trading Platforms and APIs
 - **Interactive Brokers (IB):** Offers extensive APIs for automating trades.
   - Website: https://www.interactivebrokers.com/
-- **TD Ameritrade:** Provides APIs for trading and market data.
+- **TD [Ameritrade](../a/ameritrade.md):** Provides APIs for trading and market data.
   - Website: https://developer.tdameritrade.com/
 
 ## Emerging Trends

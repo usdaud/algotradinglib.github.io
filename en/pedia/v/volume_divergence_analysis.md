@@ -62,7 +62,7 @@ Several platforms and tools offer sophisticated charting and analytical capabili
 
 - **[TradingView](../t/tradingview.md)**: Offers extensive charting tools with a variety of indicators, including [volume analysis](../v/volume_analysis.md) tools. [TradingView](https://www.tradingview.com)
 - **MetaTrader 4/5**: Widely used trading platforms that include customizable indicators for volume and divergence analysis. [MetaTrader](https://www.metatrader4.com)
-- **[Thinkorswim](../t/thinkorswim.md) by TD Ameritrade**: Provides professional-grade charting tools and [technical indicators](../t/technical_indicators.md). [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
+- **[Thinkorswim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md)**: Provides professional-grade charting tools and [technical indicators](../t/technical_indicators.md). [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
 - **[NinjaTrader](../n/ninjatrader.md)**: An advanced trading platform with a wide range of built-in [technical analysis](../t/technical_analysis.md) indicators. [NinjaTrader](https://ninjatrader.com)
 - **[eSignal](../e/esignal.md)**: Offers powerful charting tools and [real-time market data](../r/real-time_market_data.md) for intricate analysis. [eSignal](https://www.esignal.com)
 

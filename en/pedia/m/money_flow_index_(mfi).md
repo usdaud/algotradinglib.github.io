@@ -125,7 +125,7 @@ Several trading platforms and tools offer built-in MFI indicators, such as:
 
 - **MetaTrader 4 & 5:** Popular choices among forex traders that offer MFI as a default indicator.
 - **[TradingView](../t/tradingview.md):** An online trading platform known for its user-friendly interface and integrated MFI indicator.
-- **[Thinkorswim](../t/thinkorswim.md) by TD Ameritrade:** A powerful trading platform that includes MFI indicators.
+- **[Thinkorswim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md):** A powerful trading platform that includes MFI indicators.
 - **Python Libraries:** Libraries like `ta-lib` can be used for calculating MFI within custom [trading algorithms](../t/trading_algorithms.md).
 
 ### References and Resources

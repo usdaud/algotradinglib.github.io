@@ -85,7 +85,7 @@ Numerous tools and platforms assist investors in constructing and managing weigh
     - Automated platforms like Wealthfront, Betterment, and Personal Capital use sophisticated algorithms to create and manage weighted portfolios on behalf of clients.
 
 3. **[Quantitative Trading](../q/quantitative_trading.md) Platforms**:
-    - Tools like [QuantConnect](../q/quantconnect.md), Algoriz, and Alpaca provide environments for developing [algorithmic trading](../a/algorithmic_trading.md) strategies, including weighted [portfolio management](../p/portfolio_management.md).
+    - Tools like [QuantConnect](../q/quantconnect.md), Algoriz, and [Alpaca](../a/alpaca.md) provide environments for developing [algorithmic trading](../a/algorithmic_trading.md) strategies, including weighted [portfolio management](../p/portfolio_management.md).
 
 4. **Investment Firms**:
     - Large financial institutions like BlackRock ([https://www.blackrock.com](https://www.blackrock.com)) and Vanguard ([https://www.vanguard.com](https://www.vanguard.com)) offer [portfolio management](../p/portfolio_management.md) services, often incorporating advanced weighting methodologies.

@@ -17,7 +17,7 @@ Python is an ideal choice for [algorithmic trading](../a/algorithmic_trading.md)
 2. **Extensive Libraries**: Libraries such as Pandas, NumPy, and SciPy are highly optimized for numerical calculations and data manipulation.
 3. **[Backtesting](../b/backtesting.md) Libraries**: Libraries like [Backtrader](../b/backtrader.md) and Zipline offer robust frameworks for testing [trading strategies](../t/trading_strategies.md) on past data.
 4. **[Data Visualization](../d/data_visualization.md)**: Libraries such as Matplotlib and Seaborn provide tools for plotting and visualizing trading data.
-5. **APIs for Trading Platforms**: Python modules such as ccxt or Alpaca-py make it easier to connect and trade through various exchange’s APIs.
+5. **APIs for Trading Platforms**: Python modules such as ccxt or [Alpaca](../a/alpaca.md)-py make it easier to connect and trade through various exchange’s APIs.
 
 ## Core Libraries and Tools
 
@@ -122,7 +122,7 @@ results = run_algorithm(start=start, end=end, initialize=initialize, handle_data
 
 ### Alpaca
 
-Alpaca provides a commission-free trading API.
+[Alpaca](../a/alpaca.md) provides a commission-free trading API.
 
 [Alpaca Platform](https://alpaca.markets/)
 
@@ -130,7 +130,7 @@ Alpaca provides a commission-free trading API.
 import alpaca_trade_api as tradeapi
 
 # Initialize API connection
-api = tradeapi.REST('<API_KEY>', '<API_SECRET>', base_url='https://paper-api.alpaca.markets')
+api = tradeapi.REST('<API_KEY>', '<API_SECRET>', base_url='https://paper-api.[alpaca](../a/alpaca.md).markets')
 
 # Get account info
 account = api.get_account()

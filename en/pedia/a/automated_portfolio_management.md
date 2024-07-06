@@ -46,7 +46,7 @@ Automated [Portfolio Management](../p/portfolio_management.md) (APM) refers to t
 
 5. **[Factor Investing](../f/factor_investing.md)**
    - **Concept**: Selecting securities based on factors like value, size, momentum, and quality.
-   - **Example**: Using platforms such as Alpaca or Interactive Brokers for executing factor-based strategies.
+   - **Example**: Using platforms such as [Alpaca](../a/alpaca.md) or Interactive Brokers for executing factor-based strategies.
 
 ## Tools and Platforms for Automated Portfolio Management
 
@@ -56,7 +56,7 @@ Automated [Portfolio Management](../p/portfolio_management.md) (APM) refers to t
 
 2. **[Algorithmic Trading](../a/algorithmic_trading.md) Platforms**
    - **[QuantConnect](../q/quantconnect.md)**: [Website](https://www.quantconnect.com/)
-   - **Alpaca**: [Website](https://alpaca.markets/)
+   - **[Alpaca](../a/alpaca.md)**: [Website](https://alpaca.markets/)
 
 3. **Data Providers**
    - **Alpha Vantage**: [Website](https://www.alphavantage.co/)

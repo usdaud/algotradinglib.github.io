@@ -24,7 +24,7 @@ Unlike covered puts where the losses are somewhat controlled by the ownership of
 ### Margin Requirements
 Because naked put writing involves potential exposure to unlimited losses, brokers require traders to have sufficient margin in their accounts to cover potential losses. The margin requirements can be quite high and will vary based on the broker and the volatility of the underlying asset. For instance:
 - **Interactive Brokers**: Implements a detailed margin calculation which ensures that clients maintain sufficient equity in their accounts ([Interactive Brokers Margin Requirements](https://www.interactivebrokers.com/en/index.php?f=26662)).
-- **Charles Schwab**: Offers a comprehensive margin overview that details the margin requirements for different types of options trades ([Schwab Margin Requirements](https://www.schwab.com/margin-requirements)).
+- **[Charles Schwab](../c/charles_schwab.md)**: Offers a comprehensive margin overview that details the margin requirements for different types of options trades ([Schwab Margin Requirements](https://www.schwab.com/margin-requirements)).
 
 ## Benefits of Naked Put Writing
 Naked put writing can be beneficial under certain market conditions and is used for income generation. 

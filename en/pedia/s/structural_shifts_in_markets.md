@@ -10,7 +10,7 @@ One of the most prominent drivers of structural shifts in markets is technologic
 
 **1. Digital Trading Platforms**
 
-With the rise of digital trading platforms, market access has been democratized. Retail investors now have the same access to market data and trading capabilities as institutional investors. This has resulted in increased market participation and liquidity but also in heightened volatility. Notable platforms like Robinhood (https://www.robinhood.com/) have dramatically reduced the barriers to entry for individual traders.
+With the rise of digital trading platforms, market access has been democratized. Retail investors now have the same access to market data and trading capabilities as institutional investors. This has resulted in increased market participation and liquidity but also in heightened volatility. Notable platforms like [Robinhood](../r/robinhood.md) (https://www.[robinhood](../r/robinhood.md).com/) have dramatically reduced the barriers to entry for individual traders.
 
 **2. High-Frequency Trading (HFT)**
 
@@ -62,7 +62,7 @@ The structural shifts in markets have profound consequences for various particip
 
 **1. Retail Investors**
 
-For retail investors, increased access to markets and information has democratized investing, but it has also increased the complexity and risk. Platforms like Robinhood have empowered retail investors, but the learning curve can be steep, and the potential for significant losses is real.
+For retail investors, increased access to markets and information has democratized investing, but it has also increased the complexity and risk. Platforms like [Robinhood](../r/robinhood.md) have empowered retail investors, but the learning curve can be steep, and the potential for significant losses is real.
 
 **2. Institutional Investors**
 

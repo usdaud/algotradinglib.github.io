@@ -71,7 +71,7 @@ Examples:
 Retail investors now have access to platforms that allow them to create and deploy [rule-based trading](../r/rule-based_trading.md) algorithms.
 
 Examples:
-- Robinhood: Offers [algorithmic trading](../a/algorithmic_trading.md) tools for retail investors. [Robinhood](https://robinhood.com)
+- [Robinhood](../r/robinhood.md): Offers [algorithmic trading](../a/algorithmic_trading.md) tools for retail investors. [Robinhood](https://robinhood.com)
 - Interactive Brokers: Provides API access for [algorithmic trading](../a/algorithmic_trading.md). [Interactive Brokers](https://www.interactivebrokers.com)
 
 ## Challenges and Considerations

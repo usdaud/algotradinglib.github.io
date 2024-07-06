@@ -35,7 +35,7 @@ A delta of 0.5, for example, means that the option's price will change by $0.50 
    As the price of the underlying asset changes, so does the delta of the options. Traders must regularly adjust their positions to maintain delta neutrality. This process is known as rebalancing or [dynamic hedging](../d/dynamic_hedging.md) and could involve buying or selling more of the underlying asset or options.
 
 3. **Advanced Software and Platforms:**
-   Modern trading platforms, such as [Thinkorswim](../t/thinkorswim.md) by TD Ameritrade, E*TRADE, and Interactive Brokers, offer sophisticated tools to monitor and adjust delta-neutral positions easily.
+   Modern trading platforms, such as [Thinkorswim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md), E*TRADE, and Interactive Brokers, offer sophisticated tools to monitor and adjust delta-neutral positions easily.
 
 ### Risks and Considerations
 
@@ -66,7 +66,7 @@ Market makers, who provide liquidity in the options market, often strive to main
 Several firms and platforms offer tools and services specifically tailored for delta-neutral options trading. These include:
 
 - **Interactive Brokers**: [Interactive Brokers](https://www.interactivebrokers.com) offers extensive tools for options trading, including delta-neutral strategies.
-- **[Thinkorswim](../t/thinkorswim.md) by TD Ameritrade**: [TD Ameritrade](https://www.tdameritrade.com) provides a sophisticated trading platform with tools for advanced options strategies.
+- **[Thinkorswim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md)**: [TD Ameritrade](https://www.tdameritrade.com) provides a sophisticated trading platform with tools for advanced options strategies.
 - **E*TRADE**: [E*TRADE](https://www.etrade.com) offers comprehensive options trading capabilities with the ability to implement delta-neutral strategies.
 
 ### Conclusion

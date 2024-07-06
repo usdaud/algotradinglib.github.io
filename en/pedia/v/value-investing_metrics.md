@@ -138,7 +138,7 @@ Once deployed, the algorithm needs to be monitored in real-time to ensure it ada
 - [Two Sigma](https://www.twosigma.com/)
 
 #### Retail Algorithmic Trading Platforms
-Retail trading platforms like [QuantConnect](../q/quantconnect.md) and Alpaca provide APIs that enable individual traders to implement value-investing metrics in their [trading algorithms](../t/trading_algorithms.md).
+Retail trading platforms like [QuantConnect](../q/quantconnect.md) and [Alpaca](../a/alpaca.md) provide APIs that enable individual traders to implement value-investing metrics in their [trading algorithms](../t/trading_algorithms.md).
 
 - [QuantConnect](https://www.quantconnect.com/)
 - [Alpaca](https://alpaca.markets/)

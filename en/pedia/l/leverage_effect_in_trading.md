@@ -63,13 +63,13 @@ Several well-known brokerage firms offer leveraged trading:
 2. **IG Group**: A prominent provider of CFDs and forex trading with various leverage options.
    Website: [IG Group](https://www.ig.com)
 
-3. **eToro**: Offers [social trading](../s/social_trading.md) and leveraged CFD trading.
+3. **[eToro](../e/etoro.md)**: Offers [social trading](../s/social_trading.md) and leveraged CFD trading.
    Website: [eToro](https://www.etoro.com)
 
 4. **Saxo Bank**: Provides a wide range of leveraged trading products including forex, CFDs, and futures.
    Website: [Saxo Bank](https://www.home.saxo)
 
-5. **TD Ameritrade**: Offers various leveraged products and extensive educational resources.
+5. **TD [Ameritrade](../a/ameritrade.md)**: Offers various leveraged products and extensive educational resources.
    Website: [TD Ameritrade](https://www.tdameritrade.com)
 
 ## Conclusion

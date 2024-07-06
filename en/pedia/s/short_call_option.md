@@ -49,7 +49,7 @@ Professional traders and institutions often engage in writing call options as pa
 #### Companies Offering Options Trading Platforms:
 - **Interactive Brokers** [link](https://www.interactivebrokers.com/en/index.php?f=options)
   
-- **TD Ameritrade** [link](https://www.tdameritrade.com/investment-products/options-trading.html)
+- **TD [Ameritrade](../a/ameritrade.md)** [link](https://www.tdameritrade.com/investment-products/options-trading.html)
   
 - **E*TRADE** [link](https://us.etrade.com/what-we-offer/investment-choices/options)
 

@@ -56,7 +56,7 @@ Interactive Brokers (https://www.interactivebrokers.com/) provides access to a w
 
 ### TD Ameritrade
 
-TD Ameritrade (https://www.tdameritrade.com/) offers micro futures trading through their [thinkorswim](../t/thinkorswim.md) trading platform. They provide educational resources and analytical tools to help traders make informed decisions.
+TD [Ameritrade](../a/ameritrade.md) (https://www.tdameritrade.com/) offers micro futures trading through their [thinkorswim](../t/thinkorswim.md) trading platform. They provide educational resources and analytical tools to help traders make informed decisions.
 
 ### NinjaTrader
 

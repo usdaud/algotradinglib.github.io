@@ -88,8 +88,8 @@ Interactive Brokers offers powerful automation tools and API access that allow t
 ### Alpaca
 
 #### https://alpaca.markets/
-Alpaca offers a commission-free trading API that is ideal for implementing [algorithmic trading](../a/algorithmic_trading.md) strategies. With support for Python and comprehensive documentation, developers can create and deploy Average Up strategies with ease.
+[Alpaca](../a/alpaca.md) offers a commission-free trading API that is ideal for implementing [algorithmic trading](../a/algorithmic_trading.md) strategies. With support for Python and comprehensive documentation, developers can create and deploy Average Up strategies with ease.
 
 ## Conclusion
 
-The Average Up strategy can be a powerful tool in the arsenal of traders and [algorithmic trading](../a/algorithmic_trading.md) systems. By systematically increasing positions in rising stocks, traders can leverage market momentum to potentially reap substantial profits. However, the strategy necessitates careful planning, rigorous testing, and adherence to best practices to mitigate risks and maximize returns. When implemented correctly—with the aid of advanced [algorithmic trading](../a/algorithmic_trading.md) platforms such as [QuantConnect](../q/quantconnect.md), Interactive Brokers, and Alpaca—the Average Up strategy can significantly enhance [trading performance](../t/trading_performance.md).
+The Average Up strategy can be a powerful tool in the arsenal of traders and [algorithmic trading](../a/algorithmic_trading.md) systems. By systematically increasing positions in rising stocks, traders can leverage market momentum to potentially reap substantial profits. However, the strategy necessitates careful planning, rigorous testing, and adherence to best practices to mitigate risks and maximize returns. When implemented correctly—with the aid of advanced [algorithmic trading](../a/algorithmic_trading.md) platforms such as [QuantConnect](../q/quantconnect.md), Interactive Brokers, and [Alpaca](../a/alpaca.md)—the Average Up strategy can significantly enhance [trading performance](../t/trading_performance.md).

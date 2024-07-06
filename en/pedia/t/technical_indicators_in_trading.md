@@ -117,7 +117,7 @@ Several companies provide platforms and tools that help traders use these [techn
   
 - **MetaTrader**: A widely used trading platform offering a range of [technical indicators](../t/technical_indicators.md). More info: [MetaTrader](https://www.metatrader4.com/)
 
-- **[Thinkorswim](../t/thinkorswim.md) by TD Ameritrade**: An advanced trading platform with customizable [technical indicators](../t/technical_indicators.md). More info: [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
+- **[Thinkorswim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md)**: An advanced trading platform with customizable [technical indicators](../t/technical_indicators.md). More info: [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
 
 ### Conclusion
 

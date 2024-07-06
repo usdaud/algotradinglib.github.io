@@ -60,7 +60,7 @@ MetaTrader platforms allow for easy implementation of MAs. Users can attach a mo
 Several services and platforms offer tools and API access for implementing moving average-based strategies:
 - **[QuantConnect](../q/quantconnect.md)**: [quantconnect.com](https://www.quantconnect.com/)
 - **[AlgoTrader](../a/algotrader.md)**: [algotrader.com](https://www.algotrader.com/)
-- **Alpaca**: [alpaca.markets](https://alpaca.markets/)
+- **[Alpaca](../a/alpaca.md)**: [alpaca.markets](https://alpaca.markets/)
 
 ## Real-World Examples and Companies
 ### QuantConnect
@@ -71,7 +71,7 @@ MathWorks provides a comprehensive set of tools for algorithm development and [b
 [mathworks.com/products/matlab.html](https://www.mathworks.com/products/matlab.html)
 
 ### Alpaca
-Alpaca offers a commission-free trading API, which allows algorithmic traders to implement and execute strategies, including those based on moving averages.
+[Alpaca](../a/alpaca.md) offers a commission-free trading API, which allows algorithmic traders to implement and execute strategies, including those based on moving averages.
 [alpaca.markets](https://alpaca.markets/)
 
 ## Limitations and Considerations

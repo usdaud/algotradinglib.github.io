@@ -144,7 +144,7 @@ Several platforms and companies provide comprehensive tools for [technical analy
 
 - **[TradingView](../t/tradingview.md)**: A financial visualization platform that offers a broad array of charts and indicators, enabling traders to perform complex [technical analysis](../t/technical_analysis.md). [TradingView](https://www.tradingview.com)
 - **MetaTrader 4 and 5**: Trading platforms widely used for forex and CFD trading, providing numerous built-in [technical indicators](../t/technical_indicators.md) and the ability to script custom ones. [MetaTrader](https://www.metatrader4.com/)
-- **[Thinkorswim](../t/thinkorswim.md)**: Offered by TD Ameritrade, [Thinkorswim](../t/thinkorswim.md) is a professional-level trading platform providing a wide range of [technical analysis](../t/technical_analysis.md) tools and indicators. [Thinkorswim](https://www.thinkorswim.com/)
+- **[Thinkorswim](../t/thinkorswim.md)**: Offered by TD [Ameritrade](../a/ameritrade.md), [Thinkorswim](../t/thinkorswim.md) is a professional-level trading platform providing a wide range of [technical analysis](../t/technical_analysis.md) tools and indicators. [Thinkorswim](https://www.thinkorswim.com/)
 - **[NinjaTrader](../n/ninjatrader.md)**: Known for its advanced charting and trading capabilities, [NinjaTrader](../n/ninjatrader.md) offers extensive support for [algorithmic trading](../a/algorithmic_trading.md) and custom indicator development. [NinjaTrader](https://ninjatrader.com/)
 
 ### Conclusion

@@ -63,7 +63,7 @@ Chikou Span provides confirmation by assessing how the current price behaves rel
 
 ### Building the Indicator
 
-Building the Ichimoku indicators in a trading algorithm involves calculating the five components based on historical price data and implementing logic to interpret the signals accordingly. Python and platforms such as [QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/) and Alpaca (https://alpaca.markets/) provide APIs to help build and simulate these strategies.
+Building the Ichimoku indicators in a trading algorithm involves calculating the five components based on historical price data and implementing logic to interpret the signals accordingly. Python and platforms such as [QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/) and [Alpaca](../a/alpaca.md) (https://[alpaca](../a/alpaca.md).markets/) provide APIs to help build and simulate these strategies.
 
 ```python
 import numpy as np

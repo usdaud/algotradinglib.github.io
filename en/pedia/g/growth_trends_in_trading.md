@@ -87,7 +87,7 @@ Blockchain technology and the rise of cryptocurrencies have introduced new dimen
 
 ## Retail Investor Participation
 
-The democratization of trading platforms and access to financial markets has led to a surge in retail investor participation. Platforms like Robinhood and eToro have made trading accessible to a broader audience.
+The democratization of trading platforms and access to financial markets has led to a surge in retail investor participation. Platforms like [Robinhood](../r/robinhood.md) and [eToro](../e/etoro.md) have made trading accessible to a broader audience.
 
 ### Drivers
 
@@ -112,5 +112,5 @@ Links to some of the companies mentioned:
 - Citadel Securities: [Citadel Securities](https://www.citadelsecurities.com/)
 - Renaissance Technologies: [Renaissance Technologies](https://www.rentec.com/)
 - Two Sigma: [Two Sigma](https://www.twosigma.com/)
-- Robinhood: [Robinhood](https://robinhood.com/)
-- eToro: [eToro](https://www.etoro.com/)
+- [Robinhood](../r/robinhood.md): [Robinhood](https://robinhood.com/)
+- [eToro](../e/etoro.md): [eToro](https://www.etoro.com/)

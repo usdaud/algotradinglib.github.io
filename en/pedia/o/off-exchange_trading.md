@@ -44,7 +44,7 @@ Off-exchange trading is especially common in the fixed income market, where bond
 
 The foreign exchange (forex) market is predominantly an OTC market, where currency pairs are traded 24/7 between parties around the globe. Forex trading involves a decentralized network of banks, brokers, and other financial institutions that interact electronically or via phone to quote prices and execute trades.
 
-- **OANDA** - [OANDA](https://www.oanda.com)
+- **[OANDA](../o/oanda.md)** - [OANDA](https://www.oanda.com)
 - **Forex.com** - [Forex.com](https://www.forex.com)
 
 ## Benefits of Off-Exchange Trading

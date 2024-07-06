@@ -61,8 +61,8 @@ Algorithms detect trends based on historical price movements, placing limit orde
 ### Brokerage Services
 
 - **Interactive Brokers**: [Interactive Brokers](https://www.interactivebrokers.com/) provides advanced trading platforms and tools, ideal for implementing dynamic limit order strategies.
-- **TD Ameritrade**: [TD Ameritrade](https://www.tdameritrade.com/) offers a suite of trading tools and integration capabilities for algorithmic traders.
-- **Robinhood**: [Robinhood](https://robinhood.com/), though designed for retail investors, supports basic limit order functionality.
+- **TD [Ameritrade](../a/ameritrade.md)**: [TD Ameritrade](https://www.tdameritrade.com/) offers a suite of trading tools and integration capabilities for algorithmic traders.
+- **[Robinhood](../r/robinhood.md)**: [Robinhood](https://robinhood.com/), though designed for retail investors, supports basic limit order functionality.
 
 ## Advanced Techniques in Limit Order Strategies
 

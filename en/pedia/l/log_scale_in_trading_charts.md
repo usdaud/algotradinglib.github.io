@@ -28,7 +28,7 @@ Most modern trading platforms provide the option to switch between linear and lo
 
 - **[TradingView](../t/tradingview.md)**: Known for its advanced charting tools, [TradingView](../t/tradingview.md) allows users to toggle between linear and log scales for better [data visualization](../d/data_visualization.md). [TradingView](https://www.tradingview.com)
 - **MetaTrader 4/5**: Popular among forex traders, MetaTrader also supports logarithmic scaling to help traders better analyze price movements. [MetaTrader](https://www.metatrader4.com)
-- **[Thinkorswim](../t/thinkorswim.md) by TD Ameritrade**: Offers detailed charting options including log scale for comprehensive market analysis. [TD Ameritrade](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
+- **[Thinkorswim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md)**: Offers detailed charting options including log scale for comprehensive market analysis. [TD Ameritrade](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
 
 ## Practical Examples
 

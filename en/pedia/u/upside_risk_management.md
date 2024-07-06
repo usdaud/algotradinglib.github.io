@@ -52,7 +52,7 @@ Several trading platforms offer built-in tools and frameworks for upside [risk m
 
 - **[QuantConnect](../q/quantconnect.md)** ([link](https://www.quantconnect.com/)): Provides an open-source, cloud-based platform that supports [algorithmic trading](../a/algorithmic_trading.md) with a robust [backtesting](../b/backtesting.md) environment to optimize return strategies.
 - **Kensho Technologies** ([link](https://www.kensho.com/)): Specializes in leveraging machine learning and data analytics to provide actionable trading insights and maximize upside opportunities.
-- **Alpaca** ([link](https://alpaca.markets/)): Offers commission-free trading APIs with a focus on [algorithmic trading](../a/algorithmic_trading.md) and includes tools for strategy optimization and [performance analytics](../p/performance_analytics.md).
+- **[Alpaca](../a/alpaca.md)** ([link](https://alpaca.markets/)): Offers commission-free trading APIs with a focus on [algorithmic trading](../a/algorithmic_trading.md) and includes tools for strategy optimization and [performance analytics](../p/performance_analytics.md).
 
 ### Backtesting Frameworks
 

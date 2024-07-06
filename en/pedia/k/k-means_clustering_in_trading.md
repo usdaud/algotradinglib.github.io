@@ -89,7 +89,7 @@ plt.show()
 
 #### Alpaca
 
-**Alpaca** is another platform that provides APIs for stock trading and analysis. Users can implement [clustering algorithms](../c/clustering_algorithms.md) to analyze market data and execute trades based on the clusters identified.
+**[Alpaca](../a/alpaca.md)** is another platform that provides APIs for stock trading and analysis. Users can implement [clustering algorithms](../c/clustering_algorithms.md) to analyze market data and execute trades based on the clusters identified.
 
 [Alpaca](https://alpaca.markets/)
 
@@ -113,4 +113,4 @@ Financial markets are influenced by numerous external factors. Hence, the cluste
 
 ## Conclusion
 
-K-Means clustering offers valuable insights for traders by uncovering hidden patterns and segmenting markets. While it provides a robust framework for analyzing financial data, it should be used in conjunction with other methods and validated thoroughly before deployment. Platforms like [QuantConnect](../q/quantconnect.md) and Alpaca offer ample resources and tools to implement and test K-Means [clustering algorithms](../c/clustering_algorithms.md) in trading contexts effectively.
+K-Means clustering offers valuable insights for traders by uncovering hidden patterns and segmenting markets. While it provides a robust framework for analyzing financial data, it should be used in conjunction with other methods and validated thoroughly before deployment. Platforms like [QuantConnect](../q/quantconnect.md) and [Alpaca](../a/alpaca.md) offer ample resources and tools to implement and test K-Means [clustering algorithms](../c/clustering_algorithms.md) in trading contexts effectively.

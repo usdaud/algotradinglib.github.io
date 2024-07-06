@@ -54,9 +54,9 @@ Interactive Brokers (IB) is a well-known brokerage that offers its own trading p
 - [TradeStation](../t/tradestation.md) [Website](https://www.tradestation.com/)
 
 ### Alpaca
-Alpaca is an API-first stock and crypto brokerage platform. It is known for providing commission-free trading and offering robust API support for automated trading. It supports multiple programming languages including Python and JavaScript.
+[Alpaca](../a/alpaca.md) is an API-first stock and crypto brokerage platform. It is known for providing commission-free trading and offering robust API support for automated trading. It supports multiple programming languages including Python and JavaScript.
 
-- Alpaca [Website](https://alpaca.markets/)
+- [Alpaca](../a/alpaca.md) [Website](https://alpaca.markets/)
 
 ### IBKR API
 Interactive Brokers offers a powerful API that allows traders to build custom trading applications. The API supports multiple languages such as Java, Python, C++, and more. It provides functionalities for market data retrieval, order execution, and account management.

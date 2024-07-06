@@ -59,7 +59,7 @@ Several [algorithmic trading](../a/algorithmic_trading.md) platforms facilitate 
 - **[QuantConnect](../q/quantconnect.md):** An open-source platform supporting multiple asset classes and programming languages. [QuantConnect](https://www.quantconnect.com/)
 - **[TradeStation](../t/tradestation.md):** Known for its powerful strategy-building and [backtesting](../b/backtesting.md) tools. [TradeStation](https://www.tradestation.com/)
 - **[NinjaTrader](../n/ninjatrader.md):** Provides advanced charting and market analysis tools. [NinjaTrader](https://ninjatrader.com/)
-- **Alpaca:** A commission-free API for [algorithmic trading](../a/algorithmic_trading.md) in stocks. [Alpaca](https://alpaca.markets/)
+- **[Alpaca](../a/alpaca.md):** A commission-free API for [algorithmic trading](../a/algorithmic_trading.md) in stocks. [Alpaca](https://alpaca.markets/)
 
 ## Conclusion
 

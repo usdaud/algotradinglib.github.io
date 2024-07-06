@@ -78,7 +78,7 @@ Several analytical tools and platforms offer detailed insights into open interes
 1. **[TradingView](../t/tradingview.md) [Link](https://www.tradingview.com/):**
    [TradingView](../t/tradingview.md) offers comprehensive charts and data, allowing traders to analyze open interest alongside other [technical indicators](../t/technical_indicators.md).
 
-2. **[Thinkorswim](../t/thinkorswim.md) by TD Ameritrade [Link](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page):**
+2. **[Thinkorswim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md) [Link](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page):**
    [Thinkorswim](../t/thinkorswim.md) provides robust tools for monitoring open interest, including historical data and integration with [options trading strategies](../o/options_trading_strategies.md).
 
 3. **Interactive Brokers [Link](https://www.interactivebrokers.com/):**

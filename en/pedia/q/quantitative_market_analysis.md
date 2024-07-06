@@ -58,7 +58,7 @@ Several tools and platforms facilitate quantitative market analysis, including:
 - **[Bloomberg](../b/bloomberg.md) Terminal:** Provides real-time financial data, news, and analytics.
 - **[QuantConnect](../q/quantconnect.md):** An [algorithmic trading](../a/algorithmic_trading.md) platform for designing and testing [trading algorithms](../t/trading_algorithms.md).
   [QuantConnect](https://www.quantconnect.com)
-- **Alpaca:** An API for [algorithmic trading](../a/algorithmic_trading.md).
+- **[Alpaca](../a/alpaca.md):** An API for [algorithmic trading](../a/algorithmic_trading.md).
   [Alpaca](https://alpaca.markets)
 
 ### Applications of Quantitative Market Analysis

@@ -125,7 +125,7 @@ To implement these techniques effectively, traders need the right platforms and 
 **IG Group** ([https://www.ig.com](https://www.ig.com))
 A leading provider offering an array of tools for [spread betting](../s/spread_betting.md) including advanced charting tools and extensive educational resources.
 
-**CMC Markets** ([https://www.cmcmarkets.com](https://www.cmcmarkets.com))
+**[CMC Markets](../c/cmc_markets.md)** ([https://www.cmcmarkets.com](https://www.cmcmarkets.com))
 Offers competitive spreads, an intuitive platform, and useful [risk management](../r/risk_management.md) tools.
 
 **City Index** ([https://www.cityindex.com](https://www.cityindex.com))

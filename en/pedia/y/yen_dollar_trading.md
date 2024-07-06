@@ -75,7 +75,7 @@ Several trading platforms specialize in forex trading, offering features such as
 Choosing a reputable broker is essential for successful forex trading. Key considerations include regulatory compliance, trading fees, and customer support. Some well-regarded brokers for trading USD/JPY include:
 
 - **IG Group** [ig.com](https://www.ig.com) 
-- **OANDA** [oanda.com](https://www.oanda.com)
+- **[OANDA](../o/oanda.md)** [oanda.com](https://www.oanda.com)
 - **FOREX.com** [forex.com](https://www.forex.com)
 
 ## Conclusion

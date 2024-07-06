@@ -59,7 +59,7 @@ Fidelity Investments provides comprehensive data on the 7-day yields of its mone
 
 ### Example 3: Charles Schwab
 
-Charles Schwab offers detailed information on the 7-day yields of its money market funds, enabling users to track performance and make data-driven investment decisions. Schwab's reporting is designed to be transparent and easily accessible, facilitating its use in [algorithmic trading](../a/algorithmic_trading.md) strategies. Visit [Charles Schwab's official website](https://www.schwab.com) for more information.
+[Charles Schwab](../c/charles_schwab.md) offers detailed information on the 7-day yields of its money market funds, enabling users to track performance and make data-driven investment decisions. Schwab's reporting is designed to be transparent and easily accessible, facilitating its use in [algorithmic trading](../a/algorithmic_trading.md) strategies. Visit [Charles Schwab's official website](https://www.schwab.com) for more information.
 
 ## Challenges and Considerations
 

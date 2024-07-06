@@ -124,7 +124,7 @@ Several companies provide platforms and tools for implementing premium capture s
 Interactive Brokers offers a suite of advanced trading tools, including an options analytics platform that supports premium capture strategies. Their Trader Workstation (TWS) and API allow for sophisticated [algorithmic trading](../a/algorithmic_trading.md).
 
 ### 2. **TD Ameritrade** [TD Ameritrade](https://www.tdameritrade.com/)
-TD Ameritrade’s [thinkorswim](../t/thinkorswim.md) platform provides extensive resources for developing and [backtesting](../b/backtesting.md) option strategies. Their API also supports [algorithmic trading](../a/algorithmic_trading.md).
+TD [Ameritrade](../a/ameritrade.md)’s [thinkorswim](../t/thinkorswim.md) platform provides extensive resources for developing and [backtesting](../b/backtesting.md) option strategies. Their API also supports [algorithmic trading](../a/algorithmic_trading.md).
 
 ### 3. **Tastyworks** [Tastyworks](https://www.tastyworks.com/)
 Tastyworks specializes in options trading with a focus on innovative strategies. They offer educational resources and a trading platform designed specifically for options traders.

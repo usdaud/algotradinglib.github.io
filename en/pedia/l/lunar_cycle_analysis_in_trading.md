@@ -65,7 +65,7 @@ To see how modern technology companies like [QuantConnect](../q/quantconnect.md)
 
 Several platforms offer APIs and tools for integrating lunar data into [trading algorithms](../t/trading_algorithms.md):
 
-1. **Alpaca**: Provides APIs for trading with historical data support.
+1. **[Alpaca](../a/alpaca.md)**: Provides APIs for trading with historical data support.
 2. **[QuantConnect](../q/quantconnect.md)**: Offers a comprehensive research environment where celestial data can be merged with other financial data for [backtesting](../b/backtesting.md).
 3. **[TradingView](../t/tradingview.md)**: Allows for the customization of indicators, including celestial bodies.
 

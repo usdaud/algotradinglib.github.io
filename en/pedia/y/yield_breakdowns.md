@@ -38,7 +38,7 @@ Implementing the yield breakdown involves real-world tools and platforms that as
 
 1. **[QuantConnect](../q/quantconnect.md)**: A research and [algorithmic trading](../a/algorithmic_trading.md) platform offering powerful tools for [yield analysis](../y/yield_analysis.md). They provide APIs and libraries to perform detailed attribution analysis. More information can be found on their [website](https://www.quantconnect.com/).
   
-2. **Alpaca**: An API-first stock brokerage platform that offers [backtesting](../b/backtesting.md) and [algorithmic trading](../a/algorithmic_trading.md) capabilities with a focus on low latency execution and high transparency of [trading costs](../t/trading_costs.md), aiding in yield breakdown. Visit them at [Alpaca](https://alpaca.markets/).
+2. **[Alpaca](../a/alpaca.md)**: An API-first stock brokerage platform that offers [backtesting](../b/backtesting.md) and [algorithmic trading](../a/algorithmic_trading.md) capabilities with a focus on low latency execution and high transparency of [trading costs](../t/trading_costs.md), aiding in yield breakdown. Visit them at [Alpaca](https://alpaca.markets/).
 
 #### 5. Detailed Case Study
 

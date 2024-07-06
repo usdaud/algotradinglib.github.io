@@ -59,7 +59,7 @@ MetaTrader 5 (MT5) is well-known for its Algo trading capabilities. The platform
 [QuantConnect](../q/quantconnect.md), an open-source [algorithmic trading](../a/algorithmic_trading.md) platform, provides extensive support for [backtesting](../b/backtesting.md) and live trading using various stop order strategies. Algorithms can be coded in multiple languages, including C#, Python, and F#. For more details, visit [QuantConnect](https://www.quantconnect.com/).
 
 ### ThinkOrSwim
-[ThinkOrSwim](../t/thinkorswim.md) by TD Ameritrade offers powerful tools for active trading and supports a range of stop order types. The platform features customizable algorithms and real-time adjustment capabilities. Visit [ThinkOrSwim](https://www.thinkorswim.com/) for more information.
+[ThinkOrSwim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md) offers powerful tools for active trading and supports a range of stop order types. The platform features customizable algorithms and real-time adjustment capabilities. Visit [ThinkOrSwim](https://www.thinkorswim.com/) for more information.
 
 ## Conclusion
 

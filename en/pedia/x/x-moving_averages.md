@@ -51,7 +51,7 @@ Using advanced X-MA like AMA, traders can dynamically adjust their strategies ba
 Traders and developers can integrate X-MA into their [trading algorithms](../t/trading_algorithms.md) by using available libraries such as `ta-lib` for Python, which includes a variety of [technical analysis](../t/technical_analysis.md) functions. This includes custom scripts to adapt X-MA for specific trading needs.
 
 ### Brokerage Integration
-Many modern brokerages offer API access to integrate advanced moving averages directly into trading platforms. Interactive Brokers [Website](https://www.interactivebrokers.com/) and TD Ameritrade [Website](https://www.tdameritrade.com/) are examples where traders can use API to build custom X-MA based indicators.
+Many modern brokerages offer API access to integrate advanced moving averages directly into trading platforms. Interactive Brokers [Website](https://www.interactivebrokers.com/) and TD [Ameritrade](../a/ameritrade.md) [Website](https://www.tdameritrade.com/) are examples where traders can use API to build custom X-MA based indicators.
 
 ## Case Studies
 

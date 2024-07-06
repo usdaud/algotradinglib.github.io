@@ -70,8 +70,8 @@ Jane, an individual day trader, frequently buys and sells stocks to capitalize o
 
 Several brokerage firms and financial software providers offer tools to help traders comply with the [wash sale rule](../w/wash_sale_rule.md):
 
-1. **TD Ameritrade** (https://www.tdameritrade.com)
-2. **Charles Schwab** (https://www.schwab.com)
+1. **TD [Ameritrade](../a/ameritrade.md)** (https://www.tdameritrade.com)
+2. **[Charles Schwab](../c/charles_schwab.md)** (https://www.schwab.com)
 3. **Fidelity** (https://www.fidelity.com)
 
 These platforms provide tax reporting features, real-time trade monitoring, and educational resources to ensure that traders are aware of and can comply with the [wash sale rule](../w/wash_sale_rule.md).

@@ -14,7 +14,7 @@
 
 ## Alpaca
 
-Alpaca offers an API-first platform for trade execution and data. Their focus on simplicity and ease of integration makes their API suitable for both novice and expert traders.
+[Alpaca](../a/alpaca.md) offers an API-first platform for trade execution and data. Their focus on simplicity and ease of integration makes their API suitable for both novice and expert traders.
 
 - **Website**: [Alpaca](https://alpaca.markets/)
 - **Notable Features**: 
@@ -144,4 +144,4 @@ Lean is a powerful in-browser [algorithmic trading](../a/algorithmic_trading.md)
 
 ## Conclusion
 
-Each of these [algorithmic trading](../a/algorithmic_trading.md) libraries brings its unique strengths and specialties, catering to various needs of traders. While [QuantConnect](../q/quantconnect.md)'s Lean Algorithm Framework stands out due to its extensive support and wide range of features, other libraries like Alpaca or [Backtrader](../b/backtrader.md) provide excellent alternatives depending on specific requirements and preferences. With the right set of tools, [algorithmic trading](../a/algorithmic_trading.md) can be made significantly easier and more productive.
+Each of these [algorithmic trading](../a/algorithmic_trading.md) libraries brings its unique strengths and specialties, catering to various needs of traders. While [QuantConnect](../q/quantconnect.md)'s Lean Algorithm Framework stands out due to its extensive support and wide range of features, other libraries like [Alpaca](../a/alpaca.md) or [Backtrader](../b/backtrader.md) provide excellent alternatives depending on specific requirements and preferences. With the right set of tools, [algorithmic trading](../a/algorithmic_trading.md) can be made significantly easier and more productive.

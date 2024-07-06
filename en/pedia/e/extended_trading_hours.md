@@ -42,7 +42,7 @@ Similar to the NASDAQ, the NYSE also provides extended trading hours. The pre-ma
 The CBOE extends its trading hours for various financial instruments, including options and futures. Interested parties can find more details on their [official website](https://www.cboe.com).
 
 ### E-Trade
-E-Trade is among the brokers offering extended trading hours to retail investors. They provide a platform for pre-market and after-hours trading from 4:00 AM to 8:00 PM ET. More information can be accessed on their [official website](https://us.etrade.com).
+[E-Trade](../e/e-trade.md) is among the brokers offering extended trading hours to retail investors. They provide a platform for pre-market and after-hours trading from 4:00 AM to 8:00 PM ET. More information can be accessed on their [official website](https://us.etrade.com).
 
 ## Best Practices for Trading During Extended Hours
 

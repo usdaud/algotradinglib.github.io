@@ -94,7 +94,7 @@ Numerous fintech companies and research labs have employed Deep Q-Learning for [
 
 2. **Numerai**: A hedge fund that leverages ML and RL techniques for market predictions and [trading strategies](../t/trading_strategies.md). [Numerai](https://numer.ai)
 
-3. **Alpaca**: Offers an [algorithmic trading](../a/algorithmic_trading.md) platform that supports custom [trading strategies](../t/trading_strategies.md) using reinforcement learning. [Alpaca](https://alpaca.markets)
+3. **[Alpaca](../a/alpaca.md)**: Offers an [algorithmic trading](../a/algorithmic_trading.md) platform that supports custom [trading strategies](../t/trading_strategies.md) using reinforcement learning. [Alpaca](https://alpaca.markets)
 
 ## Conclusion
 

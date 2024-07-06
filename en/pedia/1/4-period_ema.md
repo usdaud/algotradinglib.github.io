@@ -87,10 +87,10 @@ Several tools and software platforms provide the capability to calculate and use
 
 ### Execution of EMA-Based Strategies
 
-[Algorithmic trading](../a/algorithmic_trading.md) platforms like MetaTrader 4, [TradingView](../t/tradingview.md), and more sophisticated platforms like [QuantConnect](../q/quantconnect.md) and Alpaca Markets allow traders to automate EMA-based strategies. For instance:
+[Algorithmic trading](../a/algorithmic_trading.md) platforms like MetaTrader 4, [TradingView](../t/tradingview.md), and more sophisticated platforms like [QuantConnect](../q/quantconnect.md) and [Alpaca](../a/alpaca.md) Markets allow traders to automate EMA-based strategies. For instance:
 
 - **[QuantConnect](../q/quantconnect.md)**: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that lets users backtest and implement EMA-based strategies using Python (URL: [QuantConnect](https://www.quantconnect.com)).
-- **Alpaca Markets**: Provides a commission-free trading API that supports the implementation of algorithmic strategies, including those utilizing the 4-period EMA (URL: [Alpaca Markets](https://alpaca.markets)).
+- **[Alpaca](../a/alpaca.md) Markets**: Provides a commission-free trading API that supports the implementation of algorithmic strategies, including those utilizing the 4-period EMA (URL: [Alpaca Markets](https://alpaca.markets)).
 
 ### Limitations of EMA
 

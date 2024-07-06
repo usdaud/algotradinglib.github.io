@@ -69,7 +69,7 @@ Several firms specialize in multi-asset trading, offering platforms and services
 - **Interactive Brokers**: [Interactive Brokers](https://www.interactivebrokers.com)
 - **Saxo Bank**: [Saxo Bank](https://www.home.saxo/en-gb)
 - **IG Group**: [IG Group](https://www.ig.com)
-- **Charles Schwab**: [Charles Schwab](https://www.schwab.com)
+- **[Charles Schwab](../c/charles_schwab.md)**: [Charles Schwab](https://www.schwab.com)
 
 ### Conclusion
 

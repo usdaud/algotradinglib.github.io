@@ -82,7 +82,7 @@ Selection of an appropriate model involves balancing complexity with fit, often 
 Several companies specialize in providing [algorithmic trading](../a/algorithmic_trading.md) tools and platforms, including:
 - **[QuantConnect](../q/quantconnect.md)**: [https://www.quantconnect.com](https://www.quantconnect.com)
 - **[AlgoTrader](../a/algotrader.md)**: [www.algotrader.com](https://www.algotrader.com)
-- **Quantopian (Acquired by Robinhood)**: No direct link as the service is integrated into Robinhood.
+- **Quantopian (Acquired by [Robinhood](../r/robinhood.md))**: No direct link as the service is integrated into [Robinhood](../r/robinhood.md).
 
 ### 10. Conclusion
 

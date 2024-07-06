@@ -111,7 +111,7 @@ Several companies offer platforms and tools to facilitate the creation and imple
 
 - **[QuantConnect](../q/quantconnect.md):** An open-source cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform. [Visit QuantConnect](https://www.quantconnect.com)
 - **Kavout:** A fintech company providing AI-driven investment solutions. [Visit Kavout](https://www.kavout.com)
-- **Alpaca:** A commission-free brokerage platform for [algorithmic trading](../a/algorithmic_trading.md). [Visit Alpaca](https://alpaca.markets)
+- **[Alpaca](../a/alpaca.md):** A commission-free brokerage platform for [algorithmic trading](../a/algorithmic_trading.md). [Visit Alpaca](https://alpaca.markets)
 - **Trading Technologies:** A professional trading platform offering advanced [algorithmic trading](../a/algorithmic_trading.md) capabilities. [Visit Trading Technologies](https://www.tradingtechnologies.com)
 
 By leveraging these platforms, traders can efficiently develop, test, and deploy algorithmic systems for uptrend [trading strategies](../t/trading_strategies.md).

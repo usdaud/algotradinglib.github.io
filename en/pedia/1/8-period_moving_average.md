@@ -87,7 +87,7 @@ Retail investors can also benefit from using the 8-Period MA, especially those w
 
 ### Brokerages
 
-Brokerage firms like Interactive Brokers (https://www.interactivebrokers.com/) and Charles Schwab (https://www.schwab.com/) offer advanced charting tools that help clients implement moving averages and other [technical indicators](../t/technical_indicators.md) easily on their platforms.
+Brokerage firms like Interactive Brokers (https://www.interactivebrokers.com/) and [Charles Schwab](../c/charles_schwab.md) (https://www.schwab.com/) offer advanced charting tools that help clients implement moving averages and other [technical indicators](../t/technical_indicators.md) easily on their platforms.
 
 ## Limitations
 

@@ -25,8 +25,8 @@ BlueShift is a comprehensive, cloud-based [algorithmic trading](../a/algorithmic
 BlueShift integrates with several brokers and data providers to offer a seamless trading experience. Some of the notable integrations include:
 
 - **Interactive Brokers (IB)**: Direct integration for live trading and data retrieval.
-- **Zerodha**: Integration for Indian market trading and data.
-- **Alpaca**: Commission-free trading and data for US markets.
+- **[Zerodha](../z/zerodha.md)**: Integration for Indian market trading and data.
+- **[Alpaca](../a/alpaca.md)**: Commission-free trading and data for US markets.
 - **QuantInsti Data**: Access to curated datasets for [backtesting](../b/backtesting.md) and research purposes.
 
 ## Community and Support

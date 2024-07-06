@@ -28,7 +28,7 @@ QuantRocket is a comprehensive platform for researching, [backtesting](../b/back
 QuantRocket integrates with a variety of brokers, data providers, and third-party services to enhance its functionality. Some notable integrations include:
 
 - **Brokerage Firms**: Direct integration with brokers such as Interactive Brokers for live trading and order management.
-- **Market Data Providers**: Access to data from providers like Alpaca, IEX Cloud, and Sharadar for comprehensive market data coverage.
+- **Market Data Providers**: Access to data from providers like [Alpaca](../a/alpaca.md), IEX Cloud, and Sharadar for comprehensive market data coverage.
 - **Python Libraries**: Compatibility with popular Python libraries such as pandas, Zipline, and NumPy for algorithm development.
 - **Cloud Services**: Integration with cloud platforms like AWS for scalable computational resources.
 - **APIs**: APIs for custom integrations and development of [proprietary trading](../p/proprietary_trading.md) solutions.

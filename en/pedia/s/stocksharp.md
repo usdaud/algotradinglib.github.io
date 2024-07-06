@@ -65,12 +65,12 @@ StockSharp offers integration with numerous brokers, exchanges, and data provide
 
 - Interactive Brokers
 - FXCM
-- OANDA
+- [OANDA](../o/oanda.md)
 - Binance
 - BitStamp
 - Poloniex
 - QUIK
-- Alpaca
+- [Alpaca](../a/alpaca.md)
 - [IQFeed](../i/iqfeed.md)
 - Many others (50+ connections in total)
 

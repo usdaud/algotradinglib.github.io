@@ -46,7 +46,7 @@ Algo-traders have developed several strategies for implementing these patterns i
 [QuantConnect](../q/quantconnect.md) is a popular [algorithmic trading](../a/algorithmic_trading.md) platform offering access to multiple financial markets. Users can utilize its extensive libraries and frameworks for [backtesting](../b/backtesting.md) triple [candlestick patterns](../c/candlestick_patterns.md). [QuantConnect](https://www.quantconnect.com)
 
 ### Alpaca
-Alpaca provides APIs for commission-free trading, allowing algo-traders to implement and test their strategies involving triple [candlestick patterns](../c/candlestick_patterns.md) in real-world trading environments. [Alpaca](https://alpaca.markets)
+[Alpaca](../a/alpaca.md) provides APIs for commission-free trading, allowing algo-traders to implement and test their strategies involving triple [candlestick patterns](../c/candlestick_patterns.md) in real-world trading environments. [Alpaca](https://alpaca.markets)
 
 ### Interactive Brokers
 Known for offering a wide range of [algorithmic trading](../a/algorithmic_trading.md) tools, Interactive Brokers allows users to create and deploy algo-[trading strategies](../t/trading_strategies.md) that include triple [candlestick patterns](../c/candlestick_patterns.md). [Interactive Brokers](https://www.interactivebrokers.com)

@@ -90,7 +90,7 @@ In this example, the `place_stop_limit_order` function takes parameters such as 
 Stop-limit orders are widely used in different financial markets including stocks, forex, commodities, and cryptocurrencies. They are part of the standard offerings on almost all trading platforms. Here are some examples of financial institutions and trading platforms that support stop-limit orders:
 
 - **Interactive Brokers:** Interactive Brokers is one of the leading platforms for [algorithmic trading](../a/algorithmic_trading.md), offering comprehensive support for various order types including stop-limit orders. [Interactive Brokers](https://www.interactivebrokers.com)
-- **TD Ameritrade:** TD Ameritrade provides support for stop-limit orders and other advanced order types, ideal for traders looking to automate their strategies. [TD Ameritrade](https://www.tdameritrade.com)
+- **TD [Ameritrade](../a/ameritrade.md):** TD [Ameritrade](../a/ameritrade.md) provides support for stop-limit orders and other advanced order types, ideal for traders looking to automate their strategies. [TD Ameritrade](https://www.tdameritrade.com)
 - **Binance:** As a leading cryptocurrency exchange, Binance offers stop-limit order functionality for trading multiple digital assets. [Binance](https://www.binance.com)
 - **E*TRADE:** E*TRADE offers the capability to place stop-limit orders for stock and options trading, catering to both novice and professional traders. [E*TRADE](https://www.etrade.com)
 

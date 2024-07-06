@@ -46,7 +46,7 @@ Modern technology offers both challenges and solutions regarding look-ahead bias
 
 ### Algorithmic Trading Platforms
 
-Platforms like [QuantConnect](../q/quantconnect.md), Alpaca, and Numerai provide comprehensive [backtesting](../b/backtesting.md) environments that help traders avoid look-ahead bias. These platforms stress the importance of separating training and testing data properly and offer tools to simulate real market conditions accurately.
+Platforms like [QuantConnect](../q/quantconnect.md), [Alpaca](../a/alpaca.md), and Numerai provide comprehensive [backtesting](../b/backtesting.md) environments that help traders avoid look-ahead bias. These platforms stress the importance of separating training and testing data properly and offer tools to simulate real market conditions accurately.
 
 #### Link to QuantConnect:
 [www.quantconnect.com](https://www.quantconnect.com)

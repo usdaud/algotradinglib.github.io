@@ -55,7 +55,7 @@ Several companies offer [algorithmic trading](../a/algorithmic_trading.md) platf
 
 #### Alpaca
 
-Alpaca offers commission-free API-first stock trading. Their platform enables traders to build and deploy [algorithmic trading](../a/algorithmic_trading.md) strategies, where understanding zero-sum dynamics can enhance performance. Learn more at [Alpaca](https://alpaca.markets/).
+[Alpaca](../a/alpaca.md) offers commission-free API-first stock trading. Their platform enables traders to build and deploy [algorithmic trading](../a/algorithmic_trading.md) strategies, where understanding zero-sum dynamics can enhance performance. Learn more at [Alpaca](https://alpaca.markets/).
 
 #### AlgoTrader
 

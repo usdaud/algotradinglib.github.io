@@ -28,7 +28,7 @@ Windowed [Trading Strategies](../t/trading_strategies.md) refer to [algorithmic 
   - Momentum Strategies
 - Tools and Platforms
   - Python Libraries (Pandas, Scikit-learn)
-  - Trading Platforms ([QuantConnect](../q/quantconnect.md), Alpaca)
+  - Trading Platforms ([QuantConnect](../q/quantconnect.md), [Alpaca](../a/alpaca.md))
 - Case Studies and Real-world Examples
 - Challenges and Considerations
   - Computational Complexity
@@ -192,7 +192,7 @@ Python offers robust libraries for implementing windowed strategies:
 
 Several platforms facilitate the development and deployment of windowed [trading strategies](../t/trading_strategies.md):
 - **[QuantConnect](../q/quantconnect.md):** An [algorithmic trading](../a/algorithmic_trading.md) platform that supports Python and C#. [QuantConnect](https://www.quantconnect.com)
-- **Alpaca:** Offers commission-free trading with an API ideal for algorithmic traders. [Alpaca](https://alpaca.markets)
+- **[Alpaca](../a/alpaca.md):** Offers commission-free trading with an API ideal for algorithmic traders. [Alpaca](https://alpaca.markets)
 
 ## Case Studies and Real-world Examples
 

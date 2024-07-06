@@ -75,7 +75,7 @@ Maintaining a favorable risk-reward ratio is crucial for long-term success. Trad
 ## Software and Platforms for Intraday Gap Trading
 
 ### 1. Thinkorswim
-[Thinkorswim](../t/thinkorswim.md) by TD Ameritrade offers advanced charting tools, real-time data, and a customizable interface that is well-suited for intraday gap trading.
+[Thinkorswim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md) offers advanced charting tools, real-time data, and a customizable interface that is well-suited for intraday gap trading.
 [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
 
 ### 2. TradeStation

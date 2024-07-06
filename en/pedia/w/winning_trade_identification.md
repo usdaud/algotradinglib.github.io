@@ -50,7 +50,7 @@ Scenario analysis involves evaluating the potential effects of different market 
 
 ### Real-time Data Analysis
 
-[Real-time data analysis](../r/real-time_data_analysis.md) is crucial for implementing algorithmic trades. Platforms like Alpaca (https://alpaca.markets) and Interactive Brokers (https://www.interactivebrokers.com) offer APIs for [real-time market data](../r/real-time_market_data.md) access, enabling algorithms to make informed, instant trading decisions.
+[Real-time data analysis](../r/real-time_data_analysis.md) is crucial for implementing algorithmic trades. Platforms like [Alpaca](../a/alpaca.md) (https://[alpaca](../a/alpaca.md).markets) and Interactive Brokers (https://www.interactivebrokers.com) offer APIs for [real-time market data](../r/real-time_market_data.md) access, enabling algorithms to make informed, instant trading decisions.
 
 ## Risk Management
 

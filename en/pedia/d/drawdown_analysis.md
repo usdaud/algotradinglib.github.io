@@ -51,7 +51,7 @@ This pseudocode runs through an equity curve (time series of account values) to 
 
 1. **Hedge Funds and Investment Firms**: Firms like Renaissance Technologies (https://www.rentec.com) and Two Sigma (https://www.twosigma.com) leverage sophisticated drawdown analysis as part of their [risk management](../r/risk_management.md) processes. They employ [quantitative models](../q/quantitative_models.md) to predict potential drawdowns and adjust their strategies accordingly.
 
-2. **Retail Traders**: Platforms like [QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com) and Alpaca (https://alpaca.markets) offer tools for retail traders to backtest [trading strategies](../t/trading_strategies.md) and analyze drawdowns. These tools provide detailed metrics to help traders understand their strategies' risk profiles.
+2. **Retail Traders**: Platforms like [QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com) and [Alpaca](../a/alpaca.md) (https://[alpaca](../a/alpaca.md).markets) offer tools for retail traders to backtest [trading strategies](../t/trading_strategies.md) and analyze drawdowns. These tools provide detailed metrics to help traders understand their strategies' risk profiles.
 
 #### Tools and Software for Drawdown Analysis
 

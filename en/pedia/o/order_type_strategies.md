@@ -123,9 +123,9 @@ Several companies offer advanced [algorithmic trading](../a/algorithmic_trading.
 
 **Interactive Brokers:** [Interactive Brokers](https://www.interactivebrokers.com) provides a wide range of order types, including conditional orders, bracket orders, and [algorithmic trading](../a/algorithmic_trading.md) strategies that utilize these orders for optimized execution.
 
-**Robinhood:** [Robinhood](https://robinhood.com) offers various order types such as market orders, limit orders, stop orders, and [stop-limit orders](../s/stop-limit_orders.md), catering to both novice and experienced traders.
+**[Robinhood](../r/robinhood.md):** [Robinhood](https://robinhood.com) offers various order types such as market orders, limit orders, stop orders, and [stop-limit orders](../s/stop-limit_orders.md), catering to both novice and experienced traders.
 
-**TD Ameritrade:** [TD Ameritrade](https://www.tdameritrade.com) facilitates numerous order types, including advanced conditional orders and robust algorithmic order execution.
+**TD [Ameritrade](../a/ameritrade.md):** [TD Ameritrade](https://www.tdameritrade.com) facilitates numerous order types, including advanced conditional orders and robust algorithmic order execution.
 
 **[TradeStation](../t/tradestation.md):** [TradeStation](https://www.tradestation.com) supports a comprehensive suite of order types and automated [trading strategies](../t/trading_strategies.md), enabling traders to execute sophisticated algorithmic trades.
 

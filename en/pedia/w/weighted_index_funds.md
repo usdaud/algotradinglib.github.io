@@ -80,7 +80,7 @@ BlackRock’s iShares is another significant player in the index fund space. The
 WisdomTree offers ETF products that include fundamentally-weighted indexes. These products aim to harness the advantages of fundamental metrics over traditional capitalization-weighted or price-weighted indexes. Visit here for more information: [WisdomTree](https://www.wisdomtree.com).
 
 ### Charles Schwab
-Charles Schwab provides a variety of index funds, including equally-weighted and market cap-weighted indexes. The firm is well-recognized for its low-cost offerings. Check out their index funds here: [Charles Schwab](https://www.schwab.com).
+[Charles Schwab](../c/charles_schwab.md) provides a variety of index funds, including equally-weighted and market cap-weighted indexes. The firm is well-recognized for its low-cost offerings. Check out their index funds here: [Charles Schwab](https://www.schwab.com).
 
 ## Conclusion
 

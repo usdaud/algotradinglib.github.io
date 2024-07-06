@@ -67,7 +67,7 @@ Several tools and software platforms provide Market Profile charting capabilitie
 
 - **Sierra Chart**: Known for its robust market analysis tools, including Market Profile charts.
   [Sierra Chart](https://www.sierrachart.com/)
-- **[ThinkOrSwim](../t/thinkorswim.md) by TD Ameritrade**: Offers comprehensive Market Profile features integrated with other trading tools.
+- **[ThinkOrSwim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md)**: Offers comprehensive Market Profile features integrated with other trading tools.
   [ThinkOrSwim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
 - **[NinjaTrader](../n/ninjatrader.md)**: A popular choice for futures traders, offering advanced Market Profile analytics.
   [NinjaTrader](https://ninjatrader.com/)

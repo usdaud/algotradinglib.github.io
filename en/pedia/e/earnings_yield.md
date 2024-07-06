@@ -43,7 +43,7 @@ Several firms and platforms offer tools and algorithms to incorporate earnings y
 1. **[QuantConnect](../q/quantconnect.md)**: A leading [algorithmic trading](../a/algorithmic_trading.md) platform that provides various tools for developing and [backtesting](../b/backtesting.md) strategies. [QuantConnect](../q/quantconnect.md) allows users to implement earnings yield as a parameter in their [trading algorithms](../t/trading_algorithms.md). 
    [Link to QuantConnect](https://www.quantconnect.com/)
 
-2. **Alpaca**: A commission-free trading API for developers. Users can develop and deploy [trading algorithms](../t/trading_algorithms.md) that use earnings yield as part of their decision criteria.
+2. **[Alpaca](../a/alpaca.md)**: A commission-free trading API for developers. Users can develop and deploy [trading algorithms](../t/trading_algorithms.md) that use earnings yield as part of their decision criteria.
    [Link to Alpaca](https://alpaca.markets/)
 
 3. **Kensho Technologies**: Utilizing AI and data science, Kensho offers advanced analytics that can incorporate earnings yield into predictive models and [trading strategies](../t/trading_strategies.md).

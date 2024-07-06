@@ -82,7 +82,7 @@ The profits from these adjustments come from selling high and buying low, effect
 
 Various tools and platforms facilitate gamma scalping strategies by providing the necessary analytics and execution capabilities. Notable platforms include:
 
-1. **[ThinkOrSwim](../t/thinkorswim.md) by TD Ameritrade:**
+1. **[ThinkOrSwim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md):**
     - Offers robust options analytics including Greeks and [volatility analysis](../v/volatility_analysis.md).
     - [ThinkOrSwim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
 

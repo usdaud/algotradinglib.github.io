@@ -72,7 +72,7 @@ For those looking to implement volume and price analysis in [algorithmic trading
 
 1. **[Quandl](../q/quandl.md)**: Offers extensive datasets for financial and economic data, including volume and price data. [Quandl](https://www.quandl.com)
 
-2. **Alpaca**: Provides commission-free trading with real-time data suitable for [algorithmic trading](../a/algorithmic_trading.md). [Alpaca](https://alpaca.markets)
+2. **[Alpaca](../a/alpaca.md)**: Provides commission-free trading with real-time data suitable for [algorithmic trading](../a/algorithmic_trading.md). [Alpaca](https://alpaca.markets)
 
 ### Libraries and APIs
 

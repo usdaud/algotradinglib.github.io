@@ -101,7 +101,7 @@ MetaTrader 4 is a popular trading platform used by forex traders worldwide. The 
 Visit [MetaTrader 4](https://www.metatrader4.com)
 
 ### Thinkorswim by TD Ameritrade
-[Thinkorswim](../t/thinkorswim.md) is a robust trading platform provided by TD Ameritrade, offering extensive charting capabilities and [technical analysis](../t/technical_analysis.md) tools, including the Klinger [Volume Oscillator](../v/volume_oscillator.md).
+[Thinkorswim](../t/thinkorswim.md) is a robust trading platform provided by TD [Ameritrade](../a/ameritrade.md), offering extensive charting capabilities and [technical analysis](../t/technical_analysis.md) tools, including the Klinger [Volume Oscillator](../v/volume_oscillator.md).
 Visit [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.html)
 
 ### NinjaTrader

@@ -95,7 +95,7 @@ Paul Tudor Jones is another prominent discretionary trader known for his success
 Several trading platforms cater to discretionary traders, offering advanced tools and features to support their decision-making processes. Some of these platforms include:
 
 - **MetaTrader 4/5**: A popular trading platform offering robust charting tools, [technical indicators](../t/technical_indicators.md), and the ability to execute trades manually.
-- **[Thinkorswim](../t/thinkorswim.md)**: A trading platform by TD Ameritrade, known for its advanced charting capabilities, customizable analysis tools, and real-time data.
+- **[Thinkorswim](../t/thinkorswim.md)**: A trading platform by TD [Ameritrade](../a/ameritrade.md), known for its advanced charting capabilities, customizable analysis tools, and real-time data.
 - **[TradingView](../t/tradingview.md)**: A powerful charting and analysis platform that allows traders to share ideas, access a variety of [technical indicators](../t/technical_indicators.md), and execute trades through integrated brokers.
 
 ## Conclusion

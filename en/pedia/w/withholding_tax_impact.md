@@ -54,7 +54,7 @@ For more information, visit: [BlackRock](https://www.blackrock.com)
 
 ### Charles Schwab
 
-Charles Schwab is a major brokerage and financial services firm that offers [algorithmic trading](../a/algorithmic_trading.md) services. Schwab provides clients with resources and tools to manage the tax impact of their trading activities. This includes guidance on withholding tax implications, tax-efficient investment strategies, and assistance with tax documentation and compliance.
+[Charles Schwab](../c/charles_schwab.md) is a major brokerage and financial services firm that offers [algorithmic trading](../a/algorithmic_trading.md) services. Schwab provides clients with resources and tools to manage the tax impact of their trading activities. This includes guidance on withholding tax implications, tax-efficient investment strategies, and assistance with tax documentation and compliance.
 
 For more information, visit: [Charles Schwab](https://www.schwab.com)
 

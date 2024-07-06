@@ -60,7 +60,7 @@ Charting software provides tools for visualizing price movements and identifying
 
 Data analytics platforms help in the sophisticated analysis of historical price data. They offer tools for statistical analysis, machine learning, and [predictive modeling](../p/predictive_modeling.md). Some noteworthy platforms are:
 - **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](https://www.quantconnect.com/)
-- **Alpaca**: [Alpaca](https://alpaca.markets/)
+- **[Alpaca](../a/alpaca.md)**: [Alpaca](https://alpaca.markets/)
 - **Kaggle**: [Kaggle](https://www.kaggle.com/)
 
 ### 3. Backtesting Software

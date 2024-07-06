@@ -87,7 +87,7 @@ WisdomTree is another notable name in the space, offering various fundamentally 
 
 ### Charles Schwab
 
-Charles Schwab offers fundamentally [weighted index funds](../w/weighted_index_funds.md) under their Fundamental Index Funds series. These funds use fundamental metrics to determine the index composition and weightings, providing investors with diversified exposure based on economic fundamentals.
+[Charles Schwab](../c/charles_schwab.md) offers fundamentally [weighted index funds](../w/weighted_index_funds.md) under their Fundamental Index Funds series. These funds use fundamental metrics to determine the index composition and weightings, providing investors with diversified exposure based on economic fundamentals.
 
 [Charles Schwab](https://www.schwab.com)
 
@@ -131,4 +131,4 @@ By combining ESG metrics with traditional financial fundamentals, index provider
 
 Fundamental indexation represents a significant shift in how indices are constructed and used in [portfolio management](../p/portfolio_management.md). By focusing on financial fundamentals such as earnings, cash flows, and dividends, it offers a robust alternative to traditional market-cap weighted indices. While challenges and criticisms exist, the approach provides valuable [diversification benefits](../d/diversification_benefits.md), potential for improved performance, and reduced volatility. As financial markets continue to evolve, fundamental indexation is likely to play an increasingly important role in shaping investment strategies.
 
-For those interested in exploring this methodology further, leading companies such as Research Affiliates, WisdomTree, Charles Schwab, and Dimensional Fund Advisors offer valuable resources and investment products based on fundamental indexation principles.
+For those interested in exploring this methodology further, leading companies such as Research Affiliates, WisdomTree, [Charles Schwab](../c/charles_schwab.md), and Dimensional Fund Advisors offer valuable resources and investment products based on fundamental indexation principles.

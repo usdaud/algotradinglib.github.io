@@ -108,7 +108,7 @@ BlackRock is a leading global asset manager with its iShares brand, which is amo
 Fidelity is another major player known for competitive index funds with low expense ratios. [Fidelity](https://www.fidelity.com) offers a variety of index funds and ETFs.
 
 ### Charles Schwab
-Charles Schwab provides a broad suite of index funds and ETFs with minimal fees, making it a popular choice among cost-conscious investors. [Charles Schwab](https://www.schwab.com) is well-regarded in the index fund space.
+[Charles Schwab](../c/charles_schwab.md) provides a broad suite of index funds and ETFs with minimal fees, making it a popular choice among cost-conscious investors. [Charles Schwab](https://www.schwab.com) is well-regarded in the index fund space.
 
 ## Conclusion
 

@@ -56,7 +56,7 @@ Algorithmic traders use earnings forecasts to develop strategies that capitalize
    - Firms such as Jane Street ([Website](https://www.janestreet.com)) and Two Sigma ([Website](https://www.twosigma.com)) use earnings forecasts to inform their high-frequency trading operations.
    
 3. **Retail Investment Platforms**:
-   - Platforms like Robinhood ([Website](https://www.robinhood.com)) and E-Trade ([Website](https://us.etrade.com)) offer tools and analytics that aid retail investors in making decisions based on earnings forecasts.
+   - Platforms like [Robinhood](../r/robinhood.md) ([Website](https://www.robinhood.com)) and [E-Trade](../e/e-trade.md) ([Website](https://us.etrade.com)) offer tools and analytics that aid retail investors in making decisions based on earnings forecasts.
 
 ### Challenges in Earnings Forecasting
 

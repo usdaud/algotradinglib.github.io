@@ -42,7 +42,7 @@ In [algorithmic trading](../a/algorithmic_trading.md), benchmark comparison is v
 Below are examples of firms that offer robust tools for benchmarking in [algorithmic trading](../a/algorithmic_trading.md):
 
 1. **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](https://www.quantconnect.com/) provides [backtesting](../b/backtesting.md) and live trading with benchmarks to compare algorithm performance.
-2. **Alpaca**: [Alpaca](https://alpaca.markets/) offers trading APIs and benchmarking tools for developers.
+2. **[Alpaca](../a/alpaca.md)**: [Alpaca](https://alpaca.markets/) offers trading APIs and benchmarking tools for developers.
 3. **Kensho Technologies**: [Kensho](https://www.kensho.com/) focuses on analytics and offers benchmarking as part of its financial analysis tools.
 
 ### Challenges in Benchmark Comparison

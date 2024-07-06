@@ -42,7 +42,7 @@ When traders engage in yen spot trading, they are speculating on the future move
 
 2. **International Monetary Fund (IMF)**: Offers insights into global economic conditions and plays a supervisory role in international exchange rate systems. [IMF Official Website](https://www.imf.org/)
 
-3. **Major Forex Brokers**: Companies like IG Group, Saxo Bank, and OANDA are key players in facilitating yen spot trading for both retail and institutional traders.
+3. **Major Forex Brokers**: Companies like IG Group, Saxo Bank, and [OANDA](../o/oanda.md) are key players in facilitating yen spot trading for both retail and institutional traders.
    - [IG Group](https://www.ig.com/)
    - [Saxo Bank](https://www.home.saxo/)
    - [OANDA](https://www.oanda.com/)

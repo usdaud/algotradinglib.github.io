@@ -34,7 +34,7 @@ A trader writes a put option with a strike price of $50 when the underlying stoc
 #### Tools and Technologies:
 1. **Trading Platforms:** Platforms like MetaTrader, [NinjaTrader](../n/ninjatrader.md), and Interactive Brokers provide the necessary infrastructure for executing automated strategies.
 2. **Programming Languages:** Using languages like Python, R, and C++ to develop algorithms that analyze market data and execute trades.
-3. **APIs:** APIs from brokers and data providers (e.g., Alpaca Markets, Alpaca: https://alpaca.markets/) enable seamless integration and real-time data access.
+3. **APIs:** APIs from brokers and data providers (e.g., [Alpaca](../a/alpaca.md) Markets, [Alpaca](../a/alpaca.md): https://[alpaca](../a/alpaca.md).markets/) enable seamless integration and real-time data access.
 
 ### Strategy Optimization
 

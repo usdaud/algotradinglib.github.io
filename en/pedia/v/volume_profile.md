@@ -84,7 +84,7 @@ Multiple trading platforms offer Volume Profile as part of their charting tools,
 1. **[TradingView](../t/tradingview.md)**  
    [TradingView](../t/tradingview.md) offers an extensive suite of tools, including Volume Profile indicators. Traders can customize their volume profiles and integrate them into their overall charting strategy. Visit [TradingView](https://www.tradingview.com/).
 
-2. **[ThinkOrSwim](../t/thinkorswim.md) (by TD Ameritrade)**  
+2. **[ThinkOrSwim](../t/thinkorswim.md) (by TD [Ameritrade](../a/ameritrade.md))**  
    [ThinkOrSwim](../t/thinkorswim.md) provides detailed Volume Profile tools suited for various markets, allowing traders to analyze and implement it effectively in their trading plans. Visit [TD Ameritrade](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page).
 
 3. **[NinjaTrader](../n/ninjatrader.md)**  

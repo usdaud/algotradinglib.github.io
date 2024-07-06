@@ -45,7 +45,7 @@ IBKR offers a rich API that allows for custom OPS implementations with real-time
 Website: [Interactive Brokers](https://www.interactivebrokers.com/)
 
 ### Alpaca
-Alpaca provides commission-free trading APIs that are particularly welcoming to developers and quants interested in OPS. The platform supports Python and offers tools for [backtesting](../b/backtesting.md) and live trading.
+[Alpaca](../a/alpaca.md) provides commission-free trading APIs that are particularly welcoming to developers and quants interested in OPS. The platform supports Python and offers tools for [backtesting](../b/backtesting.md) and live trading.
 
 Website: [Alpaca](https://alpaca.markets/)
 

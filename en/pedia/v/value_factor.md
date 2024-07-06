@@ -66,7 +66,7 @@ Several fintech companies specialize in providing [algorithmic trading](../a/alg
 
 1. **[QuantConnect](../q/quantconnect.md)**: Provides a comprehensive platform for [algorithmic trading](../a/algorithmic_trading.md) and [quantitative research](../q/quantitative_research.md). [QuantConnect](https://www.quantconnect.com/)
 
-2. **Alpaca**: An API for stock trading that supports algorithmic strategies, including [value investing](../v/value_investing.md). [Alpaca](https://alpaca.markets/)
+2. **[Alpaca](../a/alpaca.md)**: An API for stock trading that supports algorithmic strategies, including [value investing](../v/value_investing.md). [Alpaca](https://alpaca.markets/)
 
 3. **Kensho Technologies**: Applies machine learning to financial data to discover new [trading strategies](../t/trading_strategies.md). [Kensho](https://www.kensho.com/)
 

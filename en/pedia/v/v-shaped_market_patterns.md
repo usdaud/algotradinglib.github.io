@@ -70,7 +70,7 @@ The COVID-19 pandemic led to a sharp market decline followed by an equally drama
 [QuantConnect](https://www.quantconnect.com/) provides a platform for algorithmic traders to design and backtest strategies, including those based on V-Shaped patterns. Users can leverage [QuantConnect](../q/quantconnect.md)'s extensive database of historical market data to develop and refine their algorithms.
 
 ### Alpaca
-[Alpaca](https://alpaca.markets/) offers commission-free trading APIs that can be used to automate [trading strategies](../t/trading_strategies.md) based on V-Shaped patterns. With Alpaca’s APIs, traders can execute their algorithms swiftly to capitalize on rapid market movements.
+[Alpaca](https://alpaca.markets/) offers commission-free trading APIs that can be used to automate [trading strategies](../t/trading_strategies.md) based on V-Shaped patterns. With [Alpaca](../a/alpaca.md)’s APIs, traders can execute their algorithms swiftly to capitalize on rapid market movements.
 
 ### Two Sigma
 [Two Sigma](https://www.twosigma.com/) employs sophisticated algorithms to manage a diverse portfolio of investments. While specific strategies are proprietary, Two Sigma’s use of advanced mathematical models suggests that patterns like the V-Shape could be part of their analytical toolkit.

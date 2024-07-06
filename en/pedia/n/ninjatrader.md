@@ -26,7 +26,7 @@ NinjaTrader is a powerful trading platform designed for active traders and inves
 ## Integrations
 NinjaTrader integrates with a variety of brokers, data providers, and third-party services to offer a seamless trading experience. Some notable integrations include:
 
-- **Brokerage Firms**: Direct integration with brokers such as Interactive Brokers, TD Ameritrade, and NinjaTrader Brokerage for order execution and account management.
+- **Brokerage Firms**: Direct integration with brokers such as Interactive Brokers, TD [Ameritrade](../a/ameritrade.md), and NinjaTrader Brokerage for order execution and account management.
 - **Market Data Providers**: Access to real-time and historical market data from providers like [Kinetick](../k/kinetick.md), [CQG](../c/cqg.md), and [Rithmic](../r/rithmic.md).
 - **Third-Party Add-Ons**: Support for numerous third-party add-ons and extensions to enhance the platform’s capabilities.
 - **APIs**: APIs for custom integrations and the development of proprietary tools and strategies.

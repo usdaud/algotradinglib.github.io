@@ -80,7 +80,7 @@ There are various ways to gauge market sentiment, and the advancement of technol
 ### 6. **Live Trading**
    - **Description**: Implementing the strategy in real-time trading.
    - **Tools**: Trade execution platforms with API access.
-   - **Example**: Alpaca API (https://alpaca.markets) for live trading.
+   - **Example**: [Alpaca](../a/alpaca.md) API (https://[alpaca](../a/alpaca.md).markets) for live trading.
 
 ## Benefits of Sentiment Trading Strategies
 

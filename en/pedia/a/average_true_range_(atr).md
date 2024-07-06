@@ -44,7 +44,7 @@ Several platforms and trading tools integrate ATR to assist traders in market an
 
 - **[TradingView](../t/tradingview.md):** Provides interactive ATR charts customizable for various asset classes.
 - **MetaTrader 4 and 5 (MT4/MT5):** Offers built-in ATR indicators available for forex, futures, and stock markets.
-- **[Thinkorswim](../t/thinkorswim.md) by TD Ameritrade:** Includes ATR in its suite of volatility indicators and trading tools.
+- **[Thinkorswim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md):** Includes ATR in its suite of volatility indicators and trading tools.
 
 ### Advantages of ATR
 

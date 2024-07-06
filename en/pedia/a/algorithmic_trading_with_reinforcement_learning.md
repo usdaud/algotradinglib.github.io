@@ -96,7 +96,7 @@ Let's consider a theoretical case study where reinforcement learning is used to 
 
 Several companies and research institutions are at the forefront of integrating reinforcement learning into [algorithmic trading](../a/algorithmic_trading.md):
 
-- **Alpaca**: Alpaca provides commission-free trading APIs for real-time and historical market data. They leverage machine learning, including reinforcement learning, to offer advanced trading solutions. More information can be found on their [official website](https://alpaca.markets/).
+- **[Alpaca](../a/alpaca.md)**: [Alpaca](../a/alpaca.md) provides commission-free trading APIs for real-time and historical market data. They leverage machine learning, including reinforcement learning, to offer advanced trading solutions. More information can be found on their [official website](https://alpaca.markets/).
 
 - **Numerai**: A hedge fund built according to a new model, Numerai applies machine learning algorithms to model the stock market. Their approach crowdsources predictive models from data scientists and has explored the use of reinforcement learning. Visit their [official website](https://numer.ai/) for more details.
 

@@ -52,7 +52,7 @@ Several software tools and platforms assist traders in implementing and managing
 4. **Interactive Brokers**: Provides a wide range of trading tools, including [risk management](../r/risk_management.md) features that traders can customize to fit their position sizing strategies.
    - [Interactive Brokers](https://www.interactivebrokers.com/)
 
-5. **Alpaca**: Offers API-first trading where developers can integrate [position sizing algorithms](../p/position_sizing_algorithms.md) directly within their trading bot.
+5. **[Alpaca](../a/alpaca.md)**: Offers API-first trading where developers can integrate [position sizing algorithms](../p/position_sizing_algorithms.md) directly within their trading bot.
    - [Alpaca](https://alpaca.markets/)
 
 ## Practical Examples of Position Sizing

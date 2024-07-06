@@ -80,7 +80,7 @@ This approach is based on the assumption that prices will continue to move in th
    Popular trading platforms that provide charting tools and indicators vital for momentum [trading strategies](../t/trading_strategies.md).
    [MetaTrader](https://www.metatrader4.com/en)
 
-3. **[ThinkOrSwim](../t/thinkorswim.md) by TD Ameritrade:**
+3. **[ThinkOrSwim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md):**
    Provides advanced charting tools, [trading strategies](../t/trading_strategies.md), and educational resources for traders.
    [ThinkOrSwim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim/trading.html)
 

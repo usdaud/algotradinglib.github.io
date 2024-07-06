@@ -82,7 +82,7 @@ Cross-market analysis in [algorithmic trading](../a/algorithmic_trading.md) invo
 
 2. **Trading APIs**
    - MetaTrader
-   - Alpaca
+   - [Alpaca](../a/alpaca.md)
    - TDAmeritrade
 
 ## Practical Applications

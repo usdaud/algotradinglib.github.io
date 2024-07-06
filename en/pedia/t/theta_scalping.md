@@ -49,7 +49,7 @@ Frequent trading inherent in theta scalping can lead to substantial transaction 
 Various software platforms offer tools and APIs for developing, [backtesting](../b/backtesting.md), and executing theta scalping algorithms. Some of the popular options include:
 
 - **[QuantConnect](../q/quantconnect.md)**: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that allows for [backtesting](../b/backtesting.md) and deploying [trading strategies](../t/trading_strategies.md). [QuantConnect](https://www.quantconnect.com/)
-- **Tradier**: An API-integrated trading platform providing access to options markets and real-time data. [Tradier](https://www.tradier.com/)
+- **[Tradier](../t/tradier.md)**: An API-integrated trading platform providing access to options markets and real-time data. [Tradier](https://www.tradier.com/)
 - **Interactive Brokers**: Provides APIs and robust trading mechanisms for implementing options trades. [Interactive Brokers](https://www.interactivebrokers.com/)
 
 ## Case Studies

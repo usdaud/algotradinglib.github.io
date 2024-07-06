@@ -82,7 +82,7 @@ SigOpt offers a platform for optimizing machine learning models, including those
 
 ### Alpaca
 
-Alpaca provides a commission-free trading API for algorithmic traders. It allows users to implement and test their time series [forecasting models](../f/forecasting_models.md) directly in a live [trading environment](../t/trading_environment.md).
+[Alpaca](../a/alpaca.md) provides a commission-free trading API for algorithmic traders. It allows users to implement and test their time series [forecasting models](../f/forecasting_models.md) directly in a live [trading environment](../t/trading_environment.md).
 [More about Alpaca](https://alpaca.markets/)
 
 ### QuantConnect
@@ -92,7 +92,7 @@ Alpaca provides a commission-free trading API for algorithmic traders. It allows
 
 ### Kite by Zerodha
 
-Kite is Zerodha's trading platform that integrates with various [algorithmic trading](../a/algorithmic_trading.md) tools. It provides [real-time market data](../r/real-time_market_data.md) access and supports time series [forecasting models](../f/forecasting_models.md).
+Kite is [Zerodha](../z/zerodha.md)'s trading platform that integrates with various [algorithmic trading](../a/algorithmic_trading.md) tools. It provides [real-time market data](../r/real-time_market_data.md) access and supports time series [forecasting models](../f/forecasting_models.md).
 [More about Kite by Zerodha](https://kite.zerodha.com/)
 
 ### BlackRock's Aladdin
@@ -102,4 +102,4 @@ Aladdin is BlackRock's sophisticated [risk management](../r/risk_management.md) 
 
 ## Conclusion
 
-Time series forecasting is a cornerstone of [algorithmic trading](../a/algorithmic_trading.md), encompassing a variety of methods from classical statistical models to modern machine learning techniques. It enables traders to predict future market movements, manage risks, and potentially enhance returns. As the financial industry continues to embrace technology, the importance of accurate [forecasting models](../f/forecasting_models.md) becomes ever more critical. Companies like Numerai, SigOpt, Alpaca, [QuantConnect](../q/quantconnect.md), Kite by Zerodha, and BlackRock's Aladdin are at the forefront, providing innovative tools and platforms to harness the power of time series forecasting in [algorithmic trading](../a/algorithmic_trading.md).
+Time series forecasting is a cornerstone of [algorithmic trading](../a/algorithmic_trading.md), encompassing a variety of methods from classical statistical models to modern machine learning techniques. It enables traders to predict future market movements, manage risks, and potentially enhance returns. As the financial industry continues to embrace technology, the importance of accurate [forecasting models](../f/forecasting_models.md) becomes ever more critical. Companies like Numerai, SigOpt, [Alpaca](../a/alpaca.md), [QuantConnect](../q/quantconnect.md), Kite by [Zerodha](../z/zerodha.md), and BlackRock's Aladdin are at the forefront, providing innovative tools and platforms to harness the power of time series forecasting in [algorithmic trading](../a/algorithmic_trading.md).

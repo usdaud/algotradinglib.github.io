@@ -62,7 +62,7 @@ Hedge funds often incorporate exogenous variables into their [quantitative tradi
 
 ### Retail Trading Platforms
 
-Retail platforms like **Alpaca** provide robust APIs that allow users to integrate exogenous data into their custom [trading algorithms](../t/trading_algorithms.md) ([Alpaca](https://alpaca.markets)). This democratizes access to complex [trading strategies](../t/trading_strategies.md).
+Retail platforms like **[Alpaca](../a/alpaca.md)** provide robust APIs that allow users to integrate exogenous data into their custom [trading algorithms](../t/trading_algorithms.md) ([Alpaca](https://alpaca.markets)). This democratizes access to complex [trading strategies](../t/trading_strategies.md).
 
 ### Automated Trading Systems
 

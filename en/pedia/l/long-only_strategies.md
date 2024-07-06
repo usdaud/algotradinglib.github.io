@@ -96,7 +96,7 @@ BlackRock, the world’s largest asset manager, offers numerous ETFs and investm
 Fidelity provides a wide array of mutual funds and [brokerage services](../b/brokerage_services.md) tailored to long-only strategies, backed by extensive research and active management. [Fidelity](https://www.fidelity.com)
 
 ### 4. Charles Schwab
-Charles Schwab offers various investment products, including ETFs, mutual funds, and advisory services focused on long-only strategies to suit different investor profiles. [Charles Schwab](https://www.schwab.com)
+[Charles Schwab](../c/charles_schwab.md) offers various investment products, including ETFs, mutual funds, and advisory services focused on long-only strategies to suit different investor profiles. [Charles Schwab](https://www.schwab.com)
 
 ## Conclusion
 
