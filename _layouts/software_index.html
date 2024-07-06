@@ -4,7 +4,15 @@ layout: base
 <h1>{{ page.title }}</h1>
 
 <div id="filters">
-  {% assign all_filters = page.software | map: "filters" | flatten | uniq | sort %}
+  {% assign all_filters = '' | split: '' %}
+  {% for item in page.software %}
+    {% for filter in item.filters %}
+      {% unless all_filters contains filter %}
+        {% assign all_filters = all_filters | push: filter %}
+      {% endunless %}
+    {% endfor %}
+  {% endfor %}
+  
   <button class="filter-btn active" data-filter="all">All</button>
   {% for filter in all_filters %}
     <button class="filter-btn" data-filter="{{ filter }}">{{ filter }}</button>
