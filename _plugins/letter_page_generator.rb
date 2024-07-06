@@ -49,6 +49,8 @@ module Jekyll
     def process_markdown_file(site, file)
       content = File.read(file, encoding: 'utf-8')
       title = extract_title_from_content(content)
+
+      Jekyll.logger.info "LetterPageGenerator:", "Extracted title for #{file}: #{title.inspect}"
   
       page = Jekyll::Page.new(site, site.source, File.dirname(file), File.basename(file))
       page.data['layout'] = 'base'
