@@ -1,4 +1,4 @@
-# ATAS (Advanced Trading Analytical Software)
+# ATAS
 
 ## Overview
 ATAS (Advanced Trading Analytical Software) is a sophisticated trading and analysis platform specifically designed for order flow and [volume analysis](../v/volume_analysis.md). It provides traders with powerful tools to analyze the behavior of market participants, offering insights into market dynamics that are crucial for making informed trading decisions. ATAS is widely used by day traders and professional traders in futures, stocks, and cryptocurrency markets.

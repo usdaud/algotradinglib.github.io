@@ -1,4 +1,4 @@
-# MACD (Moving Average Convergence Divergence)
+# Moving Average Convergence Divergence (MACD)
 
 Moving Average Convergence Divergence (MACD) is a popular momentum and trend-following indicator used in [technical analysis](../t/technical_analysis.md) of stock prices. It was developed by Gerald Appel in the late 1970s and has since become one of the most widely used indicators in trading.
 

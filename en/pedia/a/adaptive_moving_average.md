@@ -1,4 +1,4 @@
-# Adaptive Moving Average (AMA)
+# Adaptive Moving Average
 
 The Adaptive Moving Average (AMA), also known as the Kaufman Adaptive Moving Average (KAMA), is a [technical analysis](../t/technical_analysis.md) tool that was developed by American quantitative financial theorist Perry J. Kaufman in 1995. It is designed to account for varying market conditions and to adapt dynamically to price movements by smoothing out noise and reducing lag. Unlike traditional moving averages such as the Simple Moving Average (SMA) or Exponential Moving Average (EMA), which have fixed periods, the Adaptive Moving Average adjusts its sensitivity based on market volatility and price trends.
 

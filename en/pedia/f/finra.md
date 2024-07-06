@@ -1,4 +1,4 @@
-﻿# FINRA (Financial Industry Regulatory Authority)
+﻿# Financial Industry Regulatory Authority (FINRA)
 
 ## Overview
 The Financial Industry Regulatory Authority (FINRA) is a non-governmental organization that acts as a self-regulatory body for brokerage firms and exchange markets in the United States. Established to protect investors and ensure the integrity of the financial markets, FINRA oversees the activities of brokerage firms and their registered representatives, enforces rules governing the securities industry, and provides tools and resources to educate and protect investors.
