@@ -1,0 +1,56 @@
+﻿---
+layout: base
+---
+<h1>{{ page.title }}</h1>
+
+<div id="filters">
+  {% assign all_filters = page.software | map: "filters" | flatten | uniq | sort %}
+  <button class="filter-btn active" data-filter="all">All</button>
+  {% for filter in all_filters %}
+    <button class="filter-btn" data-filter="{{ filter }}">{{ filter }}</button>
+  {% endfor %}
+</div>
+
+<div id="software-list">
+  {% for item in page.software %}
+    <div class="software-item" data-filters="{{ item.filters | join: ' ' }}">
+      <img src="{{ item.logo | relative_url }}" alt="{{ item.name }} logo">
+      <h2>{{ item.name }}</h2>
+      <p>{{ item.description }}</p>
+      <a href="{{ item.website }}" target="_blank" rel="noopener noreferrer">Official Website</a>
+      <a href="{{ item.pedia_link | relative_url }}">Learn More</a>
+      {% if item.github %}
+        <a href="{{ item.github }}" target="_blank" rel="noopener noreferrer">GitHub</a>
+      {% endif %}
+      <div class="filters">
+        {% for filter in item.filters %}
+          <span class="filter-tag">{{ filter }}</span>
+        {% endfor %}
+      </div>
+    </div>
+  {% endfor %}
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const filterButtons = document.querySelectorAll('.filter-btn');
+  const softwareItems = document.querySelectorAll('.software-item');
+
+  filterButtons.forEach(button => {
+    button.addEventListener('click', function() {
+      const filter = this.dataset.filter;
+      
+      filterButtons.forEach(btn => btn.classList.remove('active'));
+      this.classList.add('active');
+
+      softwareItems.forEach(item => {
+        if (filter === 'all' || item.dataset.filters.includes(filter)) {
+          item.style.display = 'block';
+        } else {
+          item.style.display = 'none';
+        }
+      });
+    });
+  });
+});
+</script>

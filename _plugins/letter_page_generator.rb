@@ -27,6 +27,29 @@ module Jekyll
     end
 
     def process_section(site, lang, section, section_path)
+      if section == 'soft'
+        process_software_section(site, lang, section, section_path)
+      else
+        process_regular_section(site, lang, section, section_path)
+      end
+    end
+
+    def process_software_section(site, lang, section, section_path)
+      software_data = load_software_data(site, section_path)
+      site.pages << SoftwareIndexPage.new(site, site.source, lang, section, software_data)
+    end
+
+    def load_software_data(site, section_path)
+      yaml_file = File.join(section_path, 'software.yml')
+      if File.exist?(yaml_file)
+        YAML.load_file(yaml_file)
+      else
+        Jekyll.logger.warn "LetterPageGenerator:", "Software YAML file not found: #{yaml_file}"
+        []
+      end
+    end
+
+    def process_regular_section(site, lang, section, section_path)
       letters = Dir.entries(section_path)
                    .select { |entry| File.directory?(File.join(section_path, entry)) && entry != '.' && entry != '..' }
                    .map { |letter| [letter.downcase, count_posts(site, lang, section, letter)] }
@@ -38,7 +61,7 @@ module Jekyll
         Jekyll.logger.info "LetterPageGenerator:", "Creating page for #{lang}/#{section}/#{letter} with #{count} posts"
         site.pages << LetterPage.new(site, site.source, lang, section, letter)
     
-         Dir.glob(File.join(section_path, letter, '*.md')).each do |file|
+        Dir.glob(File.join(section_path, letter, '*.md')).each do |file|
           Jekyll.logger.info "LetterPageGenerator:", "Processing file: #{file}"
           process_markdown_file(site, file)
         end
@@ -167,6 +190,34 @@ module Jekyll
       when 'brokers' then '经纪人'
       else section
       end
+    end
+  end
+
+  class SoftwareIndexPage < Page
+    def initialize(site, base, lang, section, software_data)
+      @site = site
+      @base = base
+      @dir  = File.join(lang, section)
+      @name = "index.md"
+
+      self.process(@name)
+      layout_file = File.join(base, '_layouts', 'software_index.html')
+      if File.exist?(layout_file)
+        self.read_yaml(File.dirname(layout_file), File.basename(layout_file))
+      else
+        Jekyll.logger.warn "LetterPageGenerator:", "Layout file 'software_index.html' not found"
+        self.data = {}
+      end
+      self.data['layout'] = 'software_index'
+      self.data['title'] = case lang
+                           when 'en' then "Software Index"
+                           when 'ru' then "Индекс программного обеспечения"
+                           when 'zh' then "软件索引"
+                           end
+      self.data['software'] = software_data
+      self.data['lang'] = lang
+      self.data['section'] = section
+      self.data['permalink'] = "/#{lang}/#{section}/index.html"
     end
   end
 end
