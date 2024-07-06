@@ -106,7 +106,7 @@ Timing models are a fundamental component of [algorithmic trading](../a/algorith
 ## References
 
 - **TrendSpider**: [https://www.trendspider.com](https://www.trendspider.com)
-- **QuantConnect**: [https://www.quantconnect.com](https://www.quantconnect.com)
+- **[QuantConnect](../q/quantconnect.md)**: [https://www.quantconnect.com](https://www.quantconnect.com)
 - **Kaggle**: [https://www.kaggle.com](https://www.kaggle.com)
 - **Alpha Vantage**: [https://www.alphavantage.co](https://www.alphavantage.co)
-- **Quandl**: [https://www.quandl.com](https://www.quandl.com)
+- **[Quandl](../q/quandl.md)**: [https://www.quandl.com](https://www.quandl.com)

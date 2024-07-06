@@ -27,7 +27,7 @@ High-Frequency Trading (HFT) is an area where the prevention of overfitting is p
 
 Several [algorithmic trading](../a/algorithmic_trading.md) platforms and funds have highlighted the importance of preventing overfitting. For instance, Renaissance Technologies, known for its “Medallion Fund,” rigorously avoids overfitting by leveraging a vast amount of data and employing sophisticated model validation techniques. 
 
-QuantConnect and Quantopian, which provide [algorithmic trading](../a/algorithmic_trading.md) platforms for constructing and [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md), also prioritize clear methodologies to prevent overfitting. These platforms encourage users to perform [out-of-sample testing](../o/out-of-sample_testing.md) and implement robust validation methods to ensure their strategies generalize well.
+[QuantConnect](../q/quantconnect.md) and Quantopian, which provide [algorithmic trading](../a/algorithmic_trading.md) platforms for constructing and [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md), also prioritize clear methodologies to prevent overfitting. These platforms encourage users to perform [out-of-sample testing](../o/out-of-sample_testing.md) and implement robust validation methods to ensure their strategies generalize well.
 
 ### Conclusion
 

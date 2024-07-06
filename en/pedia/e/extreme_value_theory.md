@@ -60,7 +60,7 @@ Many financial institutions and [proprietary trading](../p/proprietary_trading.m
 
 3. **Goldman Sachs**: Another major player in the financial industry, Goldman Sachs integrates advanced risk modeling techniques, including EVT, in its [trading algorithms](../t/trading_algorithms.md). Visit their [website](https://www.goldmansachs.com/) for more insights.
 
-4. **QuantConnect**: QuantConnect offers an open-source [algorithmic trading](../a/algorithmic_trading.md) platform where traders and researchers can implement and backtest EVT-based strategies. For more details, visit [QuantConnect](https://www.quantconnect.com/).
+4. **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](../q/quantconnect.md) offers an open-source [algorithmic trading](../a/algorithmic_trading.md) platform where traders and researchers can implement and backtest EVT-based strategies. For more details, visit [QuantConnect](https://www.quantconnect.com/).
 
 #### Conclusion
 

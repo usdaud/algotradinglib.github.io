@@ -68,7 +68,7 @@ Modern trading platforms and tools offer robust capabilities for managing and he
 
 #### 1. Thinkorswim by TD Ameritrade
 
-Thinkorswim provides advanced options trading tools, including [risk analysis](../r/risk_analysis.md), strategy evaluation, and paper trading. It offers comprehensive analytics for assessing time decay and implementing [hedging strategies](../h/hedging_strategies.md).
+[Thinkorswim](../t/thinkorswim.md) provides advanced options trading tools, including [risk analysis](../r/risk_analysis.md), strategy evaluation, and paper trading. It offers comprehensive analytics for assessing time decay and implementing [hedging strategies](../h/hedging_strategies.md).
 
 Website: [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
 

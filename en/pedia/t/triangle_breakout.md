@@ -69,9 +69,9 @@ To ensure the robustness of the triangle breakout strategy, traders backtest the
 Several trading platforms and tools support the implementation of [algorithmic trading](../a/algorithmic_trading.md) strategies focused on triangle breakouts:
 
 - **MetaTrader**: Offers scripting capabilities via MQL language for creating custom indicators and [trading algorithms](../t/trading_algorithms.md).
-- **NinjaTrader**: Provides advanced charting, [backtesting](../b/backtesting.md), and trade simulation features.
-- **TradingView**: Known for its user-friendly interface and extensive library of community-contributed scripts.
-- **AlgoTrader**: A comprehensive [algorithmic trading](../a/algorithmic_trading.md) platform designed for [quantitative trading](../q/quantitative_trading.md) strategies.
+- **[NinjaTrader](../n/ninjatrader.md)**: Provides advanced charting, [backtesting](../b/backtesting.md), and trade simulation features.
+- **[TradingView](../t/tradingview.md)**: Known for its user-friendly interface and extensive library of community-contributed scripts.
+- **[AlgoTrader](../a/algotrader.md)**: A comprehensive [algorithmic trading](../a/algorithmic_trading.md) platform designed for [quantitative trading](../q/quantitative_trading.md) strategies.
 
 ### Example: Algorithmic Trading Firms
 

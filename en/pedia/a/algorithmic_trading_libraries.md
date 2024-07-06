@@ -4,7 +4,7 @@
 
 ## QuantConnect
 
-QuantConnect provides a powerful research environment capable of customizing and [backtesting](../b/backtesting.md) algorithms with extensive historical data spanning multiple asset classes. Their open-source Lean Algorithm Framework is their most significant feature.
+[QuantConnect](../q/quantconnect.md) provides a powerful research environment capable of customizing and [backtesting](../b/backtesting.md) algorithms with extensive historical data spanning multiple asset classes. Their open-source Lean Algorithm Framework is their most significant feature.
 
 - **Website**: [QuantConnect](https://www.quantconnect.com/)
 - **Notable Features**: 
@@ -34,7 +34,7 @@ Zipline is a Pythonic [algorithmic trading](../a/algorithmic_trading.md) library
 
 ## Backtrader
 
-Backtrader is another Python library that offers [backtesting](../b/backtesting.md), strategy visualization, and allows traders to use various types of data feeds.
+[Backtrader](../b/backtrader.md) is another Python library that offers [backtesting](../b/backtesting.md), strategy visualization, and allows traders to use various types of data feeds.
 
 - **Website**: [Backtrader](https://www.backtrader.com/)
 - **Notable Features**: 
@@ -114,7 +114,7 @@ MetaTrader 4 (MT4) and MetaTrader 5 (MT5) are well-known platforms offering [alg
 
 ## Quantlib
 
-Quantlib is a high-performance library written in C++ for modeling, trading, and [risk management](../r/risk_management.md) in real-life. It provides tools for pricing, managing [derivatives](../d/derivatives.md), and calculating complex financial risk.
+[Quantlib](../q/quantlib.md) is a high-performance library written in C++ for modeling, trading, and [risk management](../r/risk_management.md) in real-life. It provides tools for pricing, managing [derivatives](../d/derivatives.md), and calculating complex financial risk.
 
 - **Website**: [Quantlib](https://www.quantlib.org/)
 - **Notable Features**: 
@@ -134,7 +134,7 @@ Gekko is an open-source cryptocurrency trading bot and [backtesting](../b/backte
 
 ## Lean Algo Framework
 
-Lean is a powerful in-browser [algorithmic trading](../a/algorithmic_trading.md) execution platform developed by QuantConnect. It brings industrial-grade [algorithmic trading](../a/algorithmic_trading.md) to the fingertips of individual investors.
+Lean is a powerful in-browser [algorithmic trading](../a/algorithmic_trading.md) execution platform developed by [QuantConnect](../q/quantconnect.md). It brings industrial-grade [algorithmic trading](../a/algorithmic_trading.md) to the fingertips of individual investors.
 
 - **Website**: [Github - Lean Engine](https://github.com/QuantConnect/Lean)
 - **Notable Features**: 
@@ -144,4 +144,4 @@ Lean is a powerful in-browser [algorithmic trading](../a/algorithmic_trading.md)
 
 ## Conclusion
 
-Each of these [algorithmic trading](../a/algorithmic_trading.md) libraries brings its unique strengths and specialties, catering to various needs of traders. While QuantConnect's Lean Algorithm Framework stands out due to its extensive support and wide range of features, other libraries like Alpaca or Backtrader provide excellent alternatives depending on specific requirements and preferences. With the right set of tools, [algorithmic trading](../a/algorithmic_trading.md) can be made significantly easier and more productive.
+Each of these [algorithmic trading](../a/algorithmic_trading.md) libraries brings its unique strengths and specialties, catering to various needs of traders. While [QuantConnect](../q/quantconnect.md)'s Lean Algorithm Framework stands out due to its extensive support and wide range of features, other libraries like Alpaca or [Backtrader](../b/backtrader.md) provide excellent alternatives depending on specific requirements and preferences. With the right set of tools, [algorithmic trading](../a/algorithmic_trading.md) can be made significantly easier and more productive.

@@ -118,9 +118,9 @@ For more information, visit: [Renaissance Technologies](https://www.rentec.com/)
 
 #### Algorithmic Trading Platforms
 
-[Algorithmic trading](../a/algorithmic_trading.md) platforms, such as QuantConnect and Quantopian, integrate linear programming algorithms to offer users sophisticated tools for [backtesting](../b/backtesting.md) and executing [trading strategies](../t/trading_strategies.md). These platforms provide APIs and libraries to implement and solve LP models efficiently.
+[Algorithmic trading](../a/algorithmic_trading.md) platforms, such as [QuantConnect](../q/quantconnect.md) and Quantopian, integrate linear programming algorithms to offer users sophisticated tools for [backtesting](../b/backtesting.md) and executing [trading strategies](../t/trading_strategies.md). These platforms provide APIs and libraries to implement and solve LP models efficiently.
 
-Visit QuantConnect here: [QuantConnect](https://www.quantconnect.com/)  
+Visit [QuantConnect](../q/quantconnect.md) here: [QuantConnect](https://www.quantconnect.com/)  
 Visit Quantopian here: [Quantopian](https://www.quantopian.com/)
 
 #### Insurance Companies

@@ -1,6 +1,6 @@
 # Yield Matching
 
-Yield matching, a critical term in the realm of fixed income investments and algorithmic trading, refers to a strategy aimed at aligning the yields of different securities to meet a specific target or objective. In this comprehensive guide, we will delve deeply into the intricacies of yield matching, its importance in portfolio management, and its application in algorithmic trading. We will also explore some of the methodologies used to achieve yield matching, as well as real-world examples and the role of technology in enhancing this process.
+Yield matching, a critical term in the realm of fixed income investments and [algorithmic trading](../a/algorithmic_trading.md), refers to a strategy aimed at aligning the yields of different securities to meet a specific target or objective. In this comprehensive guide, we will delve deeply into the intricacies of yield matching, its importance in [portfolio management](../p/portfolio_management.md), and its application in [algorithmic trading](../a/algorithmic_trading.md). We will also explore some of the methodologies used to achieve yield matching, as well as real-world examples and the role of technology in enhancing this process.
 
 ### Yield Matching: An In-depth Analysis
 

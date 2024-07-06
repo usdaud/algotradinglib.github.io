@@ -105,8 +105,8 @@ This example provides a simplified illustration of LSMC applied to an American p
 
 Renowned financial institutions and [quantitative finance](../q/quantitative_finance.md) firms leverage LSMC for derivative pricing and [risk management](../r/risk_management.md). Companies such as Goldman Sachs, Morgan Stanley, and JPMorgan Chase often employ advanced methods like LSMC to maintain their competitive edge in trading and risk assessment.
 
-**Example: QuantConnect**
-QuantConnect (https://www.quantconnect.com/) offers an [algorithmic trading](../a/algorithmic_trading.md) platform and has extensive resources, including tutorials and libraries, that leverage LSMC techniques for derivative pricing and other [quantitative finance](../q/quantitative_finance.md) applications.
+**Example: [QuantConnect](../q/quantconnect.md)**
+[QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/) offers an [algorithmic trading](../a/algorithmic_trading.md) platform and has extensive resources, including tutorials and libraries, that leverage LSMC techniques for derivative pricing and other [quantitative finance](../q/quantitative_finance.md) applications.
 
 **Example: Financial Modelling Agencies**
 Agencies like PRMIA (Professional Risk Managers' International Association) provide guidance and training on implementing LSMC and other advanced financial modelling techniques.

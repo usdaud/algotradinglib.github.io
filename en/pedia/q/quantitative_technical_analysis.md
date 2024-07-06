@@ -62,8 +62,8 @@ Numerous tools and software platforms facilitate Quantitative [Technical Analysi
 - **Matlab**: Widely used for mathematical modeling and algorithm development.
 - **Python**: Popular in the finance community due to its extensive libraries for data analysis (e.g., Pandas, NumPy), machine learning (e.g., Scikit-learn, TensorFlow), and visualization (e.g., Matplotlib, Seaborn).
 - **R**: A statistical programming language well-suited for [data mining](../d/data_mining.md) and [time series analysis](../t/time_series_analysis.md).
-- **QuantConnect**: An open-source cloud-based platform for [backtesting](../b/backtesting.md) and deploying [quantitative trading](../q/quantitative_trading.md) strategies. [QuantConnect](https://www.quantconnect.com/)
-- **Multicharts**: A professional trading software for strategy trading with built-in [backtesting](../b/backtesting.md) capabilities. [Multicharts](https://www.multicharts.com/)
+- **[QuantConnect](../q/quantconnect.md)**: An open-source cloud-based platform for [backtesting](../b/backtesting.md) and deploying [quantitative trading](../q/quantitative_trading.md) strategies. [QuantConnect](https://www.quantconnect.com/)
+- **[Multicharts](../m/multicharts.md)**: A professional trading software for strategy trading with built-in [backtesting](../b/backtesting.md) capabilities. [Multicharts](https://www.multicharts.com/)
 
 # Risk Management
 Effective [risk management](../r/risk_management.md) is a cornerstone of any successful [quantitative trading](../q/quantitative_trading.md) strategy. Key components include:

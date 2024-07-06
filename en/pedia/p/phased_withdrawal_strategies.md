@@ -54,9 +54,9 @@ A phased withdrawal strategy is an approach that divides the total withdrawal am
 
 Several platforms and tools support the implementation of phased withdrawal strategies in [algorithmic trading](../a/algorithmic_trading.md):
 
-- **QuantConnect** ([QuantConnect.com](https://www.quantconnect.com/)): An [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools for designing, testing, and deploying [trading strategies](../t/trading_strategies.md), including phased withdrawal methods.
+- **[QuantConnect](../q/quantconnect.md)** ([QuantConnect.com](https://www.quantconnect.com/)): An [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools for designing, testing, and deploying [trading strategies](../t/trading_strategies.md), including phased withdrawal methods.
 - **MetaTrader** ([MetaTrader Website](https://www.metatrader5.com/en)) (MT4/MT5): Popular trading platforms that support automated trading and custom script development for withdrawal strategies.
-- **TradingView** ([TradingView](https://www.tradingview.com/)): A robust charting platform with built-in scripting languages that can automate [trading strategies](../t/trading_strategies.md), including phased withdrawals.
+- **[TradingView](../t/tradingview.md)** ([TradingView](https://www.tradingview.com/)): A robust charting platform with built-in scripting languages that can automate [trading strategies](../t/trading_strategies.md), including phased withdrawals.
 - **Interactive Brokers** ([Interactive Brokers](https://www.interactivebrokers.com/)): Offers comprehensive API support for automated trading and withdrawal strategies.
 
 ## Conclusion

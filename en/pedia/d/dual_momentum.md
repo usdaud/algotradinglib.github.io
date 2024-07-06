@@ -63,13 +63,13 @@ This combination creates a diversified portfolio that aims to capture high-retur
 
 ### Software and Platforms
 
-1. **AlgoTrader:** AlgoTrader is a comprehensive trading platform that can assist in implementing Dual Momentum strategies. It offers tools for [backtesting](../b/backtesting.md), strategy development, and live trading. [Visit AlgoTrader](https://www.algotrader.com/)
+1. **[AlgoTrader](../a/algotrader.md):** [AlgoTrader](../a/algotrader.md) is a comprehensive trading platform that can assist in implementing Dual Momentum strategies. It offers tools for [backtesting](../b/backtesting.md), strategy development, and live trading. [Visit AlgoTrader](https://www.algotrader.com/)
    
 2. **Python Libraries:** Utilizing Python libraries like pandas and numpy can help build custom Dual Momentum models. Tools like Jupyter Notebooks provide an interactive environment to visualize and tweak the strategy.
 
 3. **Online Brokers:** Many online brokerage platforms, such as Interactive Brokers, offer APIs for automated trading. Integrating these with Dual Momentum strategies can streamline the investment process. [Visit Interactive Brokers](https://www.interactivebrokers.com/)
 
-4. **QuantConnect:** QuantConnect is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform allowing users to design, backtest, and deploy [trading strategies](../t/trading_strategies.md), including Dual Momentum. [Visit QuantConnect](https://www.quantconnect.com/)
+4. **[QuantConnect](../q/quantconnect.md):** [QuantConnect](../q/quantconnect.md) is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform allowing users to design, backtest, and deploy [trading strategies](../t/trading_strategies.md), including Dual Momentum. [Visit QuantConnect](https://www.quantconnect.com/)
 
 ### Strategy Execution
 

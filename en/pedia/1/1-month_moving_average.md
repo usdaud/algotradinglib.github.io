@@ -56,9 +56,9 @@ Combining moving averages with other analytical tools provides a holistic view o
 Several [algorithmic trading](../a/algorithmic_trading.md) platforms facilitate the integration of moving averages, offering extensive features for automation, [backtesting](../b/backtesting.md), and execution. Some notable ones include:
 
 - **MetaTrader 4/5:** Widely used for forex and futures trading, offering customizable indicators.
-- **QuantConnect:** An open-source platform supporting multiple asset classes and programming languages. [QuantConnect](https://www.quantconnect.com/)
-- **TradeStation:** Known for its powerful strategy-building and [backtesting](../b/backtesting.md) tools. [TradeStation](https://www.tradestation.com/)
-- **NinjaTrader:** Provides advanced charting and market analysis tools. [NinjaTrader](https://ninjatrader.com/)
+- **[QuantConnect](../q/quantconnect.md):** An open-source platform supporting multiple asset classes and programming languages. [QuantConnect](https://www.quantconnect.com/)
+- **[TradeStation](../t/tradestation.md):** Known for its powerful strategy-building and [backtesting](../b/backtesting.md) tools. [TradeStation](https://www.tradestation.com/)
+- **[NinjaTrader](../n/ninjatrader.md):** Provides advanced charting and market analysis tools. [NinjaTrader](https://ninjatrader.com/)
 - **Alpaca:** A commission-free API for [algorithmic trading](../a/algorithmic_trading.md) in stocks. [Alpaca](https://alpaca.markets/)
 
 ## Conclusion

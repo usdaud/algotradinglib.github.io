@@ -4,7 +4,7 @@ Equity Style Analysis is a framework used to categorize and evaluate investment 
 
 ## Style Box
 
-A fundamental component of Equity Style Analysis is the "style box," a nine-square grid that maps investment styles. The style box, pioneered by Morningstar, visually represents a portfolio's exposure to different market segments. The vertical axis measures market capitalization (large, mid, small), while the horizontal axis measures investment style (value, blend, growth). 
+A fundamental component of Equity Style Analysis is the "style box," a nine-square grid that maps investment styles. The style box, pioneered by [Morningstar](../m/morningstar.md), visually represents a portfolio's exposure to different market segments. The vertical axis measures market capitalization (large, mid, small), while the horizontal axis measures investment style (value, blend, growth). 
 
 ### Market Capitalization
 

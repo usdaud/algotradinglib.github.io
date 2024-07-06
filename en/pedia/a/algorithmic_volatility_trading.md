@@ -42,11 +42,11 @@ Algorithmic volatility trading heavily relies on statistical techniques and mach
 
 For algorithmic volatility trading, using sophisticated software platforms and tools is imperative. Here are some key tools and platforms:
 
-1. **QuantConnect:**
-    Provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform dealing with interactive research and [backtesting](../b/backtesting.md) environments. (https://www.quantconnect.com/)
+1. **[QuantConnect](../q/quantconnect.md):**
+    Provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform dealing with interactive research and [backtesting](../b/backtesting.md) environments. (https://www.[quantconnect](../q/quantconnect.md).com/)
 
-2. **QuantLib:**
-    An open-source library for modeling, trading, and [risk management](../r/risk_management.md) in real-life (https://www.quantlib.org/)
+2. **[QuantLib](../q/quantlib.md):**
+    An open-source library for modeling, trading, and [risk management](../r/risk_management.md) in real-life (https://www.[quantlib](../q/quantlib.md).org/)
 
 3. **Kdb+/Q:**
     This is a high-performance column-store database, optimized for big data and analytic applications used in market data storage and processing. (https://kx.com/)

@@ -98,7 +98,7 @@ While the Bear Call Spread is meant to be a "set it and forget it" strategy, som
 1. **Interactive Brokers**: Known for their robust trading platform and wide range of strategies support.
    - [Interactive Brokers](https://www.interactivebrokers.com)
 
-2. **Thinkorswim by TD Ameritrade**: A highly regarded platform for options trading with advanced analytics and trading tools.
+2. **[Thinkorswim](../t/thinkorswim.md) by TD Ameritrade**: A highly regarded platform for options trading with advanced analytics and trading tools.
    - [Thinkorswim by TD Ameritrade](https://www.tdameritrade.com/tools-and-platforms/thinkorswim/desktop.page)
 
 3. **E*TRADE**: Offers a comprehensive options trading platform with analytical tools and educational resources.

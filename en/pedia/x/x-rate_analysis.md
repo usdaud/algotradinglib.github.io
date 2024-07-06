@@ -61,15 +61,15 @@ Real-time and historical data feeds are the backbone of any algo-trading system.
 1. **Market Data**: Real-time bid/ask prices, trade volumes, and historical price data for various currency pairs.
 2. **News Feeds**: Real-time news feeds to capture macroeconomic events affecting currency markets.
 
-Reliable providers include Bloomberg, Reuters [Refinitiv](https://www.refinitiv.com/en), and [QuantConnect](https://www.quantconnect.com/).
+Reliable providers include [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md) [Refinitiv](https://www.refinitiv.com/en), and [QuantConnect](https://www.quantconnect.com/).
 
 ### Trading Platforms
 
 Automated trading platforms provide the tools and interfaces necessary for developing and deploying X-rate analysis algorithms. Popular platforms include:
 
 1. **MetaTrader 4/5 (MT4/MT5)**: Widely used for forex trading, offering extensive scripting capabilities through MQL4/5.
-2. **TradeStation**: Known for its robust analytics and scripting capabilities via EasyLanguage.
-3. **QuantConnect**: A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple asset classes, including forex.
+2. **[TradeStation](../t/tradestation.md)**: Known for its robust analytics and scripting capabilities via EasyLanguage.
+3. **[QuantConnect](../q/quantconnect.md)**: A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple asset classes, including forex.
 
 ### Execution Mechanisms
 

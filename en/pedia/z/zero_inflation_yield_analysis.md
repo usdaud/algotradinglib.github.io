@@ -62,7 +62,7 @@ Several tools and techniques can facilitate zero inflation [yield analysis](../y
    
 2. **Excel Spreadsheets:** Custom spreadsheets can be designed to automate the process of calculating zero inflation yields across various investments.
    
-3. **Financial Software:** Advanced financial analysis software such as Bloomberg Terminal [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/) or Thomson Reuters Eikon [Thomson Reuters](https://www.refinitiv.com/en/products/eikon-trading-software) can perform detailed yield analyses.
+3. **Financial Software:** Advanced financial analysis software such as [Bloomberg](../b/bloomberg.md) Terminal [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/) or Thomson [Reuters](../r/reuters.md) Eikon [Thomson Reuters](https://www.refinitiv.com/en/products/eikon-trading-software) can perform detailed yield analyses.
 
 ## Inflation-Indexed Bonds
 

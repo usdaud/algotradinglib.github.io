@@ -42,13 +42,13 @@ Market volatility refers to the degree of variation of a trading price series ov
 
 Numerous tools and platforms facilitate [volatility analysis](../v/volatility_analysis.md) for traders and analysts. Some notable ones include:
 
-- **Bloomberg Terminal**: Offers comprehensive data and analytics on market volatility indicators, including historical and implied volatility charts. [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+- **[Bloomberg](../b/bloomberg.md) Terminal**: Offers comprehensive data and analytics on market volatility indicators, including historical and implied volatility charts. [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
-- **TradingView**: Provides interactive charts and [technical indicators](../t/technical_indicators.md), allowing traders to customize volatility studies. [TradingView](https://www.tradingview.com/)
+- **[TradingView](../t/tradingview.md)**: Provides interactive charts and [technical indicators](../t/technical_indicators.md), allowing traders to customize volatility studies. [TradingView](https://www.tradingview.com/)
 
 - **Eikon by Refinitiv**: Delivers real-time data and advanced analytics for [volatility analysis](../v/volatility_analysis.md), catering to both buy-side and sell-side professionals. [Refinitiv](https://www.refinitiv.com/en/products/eikon-trading-software)
 
-- **QuantConnect**: This [algorithmic trading](../a/algorithmic_trading.md) platform supports [backtesting](../b/backtesting.md) and live trading, offering tools to incorporate volatility metrics into [trading strategies](../t/trading_strategies.md). [QuantConnect](https://www.quantconnect.com/)
+- **[QuantConnect](../q/quantconnect.md)**: This [algorithmic trading](../a/algorithmic_trading.md) platform supports [backtesting](../b/backtesting.md) and live trading, offering tools to incorporate volatility metrics into [trading strategies](../t/trading_strategies.md). [QuantConnect](https://www.quantconnect.com/)
 
 ### Case Studies and Industry Insights
 

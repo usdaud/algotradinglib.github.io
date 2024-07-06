@@ -84,10 +84,10 @@ Several platforms and tools facilitate the calculation and analysis of historica
 
 ### Trading Platforms
 
-1. **QuantConnect:** An integrated [algorithmic trading](../a/algorithmic_trading.md) platform that provides access to historical data and various financial instruments for [backtesting](../b/backtesting.md) and research. It has many built-in functions to calculate volatility.
+1. **[QuantConnect](../q/quantconnect.md):** An integrated [algorithmic trading](../a/algorithmic_trading.md) platform that provides access to historical data and various financial instruments for [backtesting](../b/backtesting.md) and research. It has many built-in functions to calculate volatility.
    - [QuantConnect](https://www.quantconnect.com/)
 
-2. **AlgoTrader:** A professional [algorithmic trading](../a/algorithmic_trading.md) platform that supports multi-asset strategies and high-frequency trading, with capabilities to calculate and use [historical volatility](../h/historical_volatility.md).
+2. **[AlgoTrader](../a/algotrader.md):** A professional [algorithmic trading](../a/algorithmic_trading.md) platform that supports multi-asset strategies and high-frequency trading, with capabilities to calculate and use [historical volatility](../h/historical_volatility.md).
    - [AlgoTrader](https://www.algotrader.com/)
 
 ### Financial Data Providers

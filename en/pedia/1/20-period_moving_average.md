@@ -54,13 +54,13 @@ Many trading platforms and software provide tools to easily implement and utiliz
 1. **MetaTrader**: Offers built-in indicators including various moving averages with customizable period settings.
    - [MetaTrader](https://www.metatrader4.com/)
 
-2. **TradingView**: Provides comprehensive charting tools with the ability to apply multiple types of moving averages.
+2. **[TradingView](../t/tradingview.md)**: Provides comprehensive charting tools with the ability to apply multiple types of moving averages.
    - [TradingView](https://www.tradingview.com/)
 
-3. **QuantConnect**: A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports [backtesting](../b/backtesting.md) and deployment of strategies involving moving averages.
+3. **[QuantConnect](../q/quantconnect.md)**: A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports [backtesting](../b/backtesting.md) and deployment of strategies involving moving averages.
    - [QuantConnect](https://www.quantconnect.com/)
 
-4. **NinjaTrader**: Provides advanced charting and analytics tools, including easy integration of different moving average types.
+4. **[NinjaTrader](../n/ninjatrader.md)**: Provides advanced charting and analytics tools, including easy integration of different moving average types.
    - [NinjaTrader](https://ninjatrader.com/)
 
 ### Advantages and Limitations
@@ -84,10 +84,10 @@ Before deploying a trading strategy that incorporates the 20-period moving avera
 
 Popular tools for optimization and [backtesting](../b/backtesting.md) include:
 
-- **QuantConnect**: Offers robust [backtesting](../b/backtesting.md) capabilities with historical market data.
-- **Amibroker**: A comprehensive tool for advanced [backtesting](../b/backtesting.md) and optimization.
+- **[QuantConnect](../q/quantconnect.md)**: Offers robust [backtesting](../b/backtesting.md) capabilities with historical market data.
+- **[Amibroker](../a/amibroker.md)**: A comprehensive tool for advanced [backtesting](../b/backtesting.md) and optimization.
   - [Amibroker](https://www.amibroker.com/)
-- **TradeStation**: Provides extensive historical data for [backtesting](../b/backtesting.md) along with optimization tools.
+- **[TradeStation](../t/tradestation.md)**: Provides extensive historical data for [backtesting](../b/backtesting.md) along with optimization tools.
   - [TradeStation](https://www.tradestation.com/)
 
 ### Conclusion

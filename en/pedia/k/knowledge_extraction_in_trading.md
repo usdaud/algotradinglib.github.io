@@ -74,7 +74,7 @@ Several companies leverage knowledge extraction to offer trading solutions. Some
 
 - **Kensho Technologies**: Offers machine learning-powered insights for finance and healthcare. [Kensho](https://www.kensho.com/)
 - **Numerai**: An AI-powered hedge fund that crowdsources financial models. [Numerai](https://numer.ai/)
-- **Quandl**: Provides a wide range of financial, economic, and [alternative data](../a/alternative_data.md). [Quandl](https://www.quandl.com/)
+- **[Quandl](../q/quandl.md)**: Provides a wide range of financial, economic, and [alternative data](../a/alternative_data.md). [Quandl](https://www.quandl.com/)
 - **Sentifi**: Specializes in [alternative data](../a/alternative_data.md) and [sentiment analysis](../s/sentiment_analysis.md). [Sentifi](https://www.sentifi.com/)
 
 ## Conclusion

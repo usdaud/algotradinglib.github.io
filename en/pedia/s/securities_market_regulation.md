@@ -20,7 +20,7 @@ Regulatory frameworks often comprise multiple entities working together to overs
 Government agencies often spearhead the regulatory framework for securities markets. In the U.S., for example, the Securities and Exchange Commission (SEC) is the predominant regulatory authority.
 
 ### 2.2 Self-Regulatory Organizations (SROs)
-SROs are organizations that have the power to create and enforce industry regulations and standards. In the U.S., the Financial Industry Regulatory Authority (FINRA) is a prominent SRO, overseeing broker-dealers.
+SROs are organizations that have the power to create and enforce industry regulations and standards. In the U.S., the Financial Industry Regulatory Authority ([FINRA](../f/finra.md)) is a prominent SRO, overseeing broker-dealers.
 
 ### 2.3 International Bodies
 Coordination among different countries is facilitated by international organizations such as the International Organization of Securities Commissions (IOSCO), which sets global standards for securities regulation.

@@ -85,7 +85,7 @@ Naked call writing can serve as a market-neutral strategy, generating income reg
 
 ## Regulatory and Broker Considerations
 
-Given the inherent risks, regulatory bodies such as the U.S. Securities and Exchange Commission (SEC) and the Financial Industry Regulatory Authority (FINRA) impose stringent requirements on traders engaging in naked call writing. Brokers typically require approval for advanced options trading levels and may implement specific margin requirements.
+Given the inherent risks, regulatory bodies such as the U.S. Securities and Exchange Commission (SEC) and the Financial Industry Regulatory Authority ([FINRA](../f/finra.md)) impose stringent requirements on traders engaging in naked call writing. Brokers typically require approval for advanced options trading levels and may implement specific margin requirements.
 
 ## Conclusion
 

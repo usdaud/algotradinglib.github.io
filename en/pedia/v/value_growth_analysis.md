@@ -44,9 +44,9 @@ Effective VGA incorporates risk assessment and management techniques:
 
 Several tools and platforms facilitate effective Value Growth Analysis in [algorithmic trading](../a/algorithmic_trading.md):
 
-- **Bloomberg Terminal**: Provides comprehensive financial data, analytics, and trading tools.
+- **[Bloomberg](../b/bloomberg.md) Terminal**: Provides comprehensive financial data, analytics, and trading tools.
 - **Python Libraries**: `Pandas` for data manipulation, `Scikit-learn` for machine learning, `Matplotlib` for visualization.
-- **QuantConnect**: An [algorithmic trading](../a/algorithmic_trading.md) platform that supports [backtesting](../b/backtesting.md) and live trading (https://www.quantconnect.com/).
+- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that supports [backtesting](../b/backtesting.md) and live trading (https://www.[quantconnect](../q/quantconnect.md).com/).
 
 ## Implementation Example
 
@@ -151,4 +151,4 @@ Rapid market changes can impact the effectiveness of VGA, as the models may not 
 
 Value Growth Analysis represents a powerful approach in the domain of [algorithmic trading](../a/algorithmic_trading.md). By leveraging sophisticated algorithms and comprehensive datasets, VGA aims to optimize [portfolio management](../p/portfolio_management.md) and maximize returns. Despite its challenges, the integration of valuation and growth metrics, coupled with advanced computational techniques, offers significant advantages that can help investors achieve their financial objectives. As technology and data availability continue to advance, VGA is poised to play an increasingly critical role in the future of investment strategies.
 
-For further resources and tools on [algorithmic trading](../a/algorithmic_trading.md) and VGA, platforms like QuantConnect (https://www.quantconnect.com/) provide comprehensive support for developing and testing [trading algorithms](../t/trading_algorithms.md).
+For further resources and tools on [algorithmic trading](../a/algorithmic_trading.md) and VGA, platforms like [QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/) provide comprehensive support for developing and testing [trading algorithms](../t/trading_algorithms.md).

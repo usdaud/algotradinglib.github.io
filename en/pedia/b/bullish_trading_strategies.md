@@ -126,7 +126,7 @@ Hedge funds and [proprietary trading](../p/proprietary_trading.md) firms often e
 
 ### Automated Trading Systems
 
-Automated trading platforms like MetaTrader and NinjaTrader can execute bullish [trading strategies](../t/trading_strategies.md) based on pre-defined criteria.
+Automated trading platforms like MetaTrader and [NinjaTrader](../n/ninjatrader.md) can execute bullish [trading strategies](../t/trading_strategies.md) based on pre-defined criteria.
 
 - [MetaTrader](https://www.metatrader4.com/en/trading-platform)
 - [NinjaTrader](https://www.ninjatrader.com/)

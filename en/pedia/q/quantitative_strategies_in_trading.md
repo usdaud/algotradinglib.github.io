@@ -62,7 +62,7 @@ High-performance computing (HPC) infrastructure, including powerful servers and 
 In high-frequency trading, ultra-low-latency connections to exchanges and trading venues are crucial. Co-location services, direct market access (DMA), and high-speed fiber-optic networks are employed to minimize latency and gain a competitive edge.
 
 ### Software and Platforms
-Quantitative traders use specialized software and platforms for developing, testing, and deploying [trading strategies](../t/trading_strategies.md). Popular tools include MATLAB, R, Python, and [proprietary trading](../p/proprietary_trading.md) platforms like Bloomberg Terminal and QuantConnect.
+Quantitative traders use specialized software and platforms for developing, testing, and deploying [trading strategies](../t/trading_strategies.md). Popular tools include MATLAB, R, Python, and [proprietary trading](../p/proprietary_trading.md) platforms like [Bloomberg](../b/bloomberg.md) Terminal and [QuantConnect](../q/quantconnect.md).
 
 ## Regulation and Compliance
 

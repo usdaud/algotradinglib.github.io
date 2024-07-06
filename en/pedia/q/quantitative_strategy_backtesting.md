@@ -5,7 +5,7 @@ Quantitative Strategy [Backtesting](../b/backtesting.md) is a crucial methodolog
 ### Components of Quantitative Strategy Backtesting
 
 1. **Historical Data**
-   - **Source and Quality**: The foundation of [backtesting](../b/backtesting.md) lies in the historical data of financial instruments such as stocks, bonds, commodities, or forex pairs. The accuracy and quality of this data are paramount, as any discrepancies can lead to misleading results. Reliable sources include institutional data vendors like Bloomberg, Reuters, and Quandl, as well as exchanges themselves.
+   - **Source and Quality**: The foundation of [backtesting](../b/backtesting.md) lies in the historical data of financial instruments such as stocks, bonds, commodities, or forex pairs. The accuracy and quality of this data are paramount, as any discrepancies can lead to misleading results. Reliable sources include institutional data vendors like [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), and [Quandl](../q/quandl.md), as well as exchanges themselves.
    - **Data Types**: The types of data used in [backtesting](../b/backtesting.md) can be varied. Commonly used data includes:
      - **Price Data**: Open, high, low, close (OHLC) prices, adjusted for corporate actions.
      - **Volume Data**: Trading volumes that provide insights into liquidity.
@@ -29,11 +29,11 @@ Quantitative Strategy [Backtesting](../b/backtesting.md) is a crucial methodolog
 
 There are several software tools and platforms designed specifically for [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md), each with its own strengths. Some of the most notable include:
 
-- **QuantConnect**: [QuantConnect](https://www.quantconnect.com/) offers a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple brokerages and enables users to backtest, optimize, and deploy strategies in live markets.
+- **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](https://www.quantconnect.com/) offers a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple brokerages and enables users to backtest, optimize, and deploy strategies in live markets.
   
 - **MetaTrader**: Known for its use in retail forex trading, MetaTrader (MT4/MT5) features built-in [backtesting](../b/backtesting.md) capabilities that support a wide range of [technical analysis](../t/technical_analysis.md) tools.
   
-- **Amibroker**: Amibroker is a popular [technical analysis](../t/technical_analysis.md) and [backtesting](../b/backtesting.md) software, commonly used for its speed and flexibility in handling custom indicators and [trading systems](../t/trading_systems.md).
+- **[Amibroker](../a/amibroker.md)**: [Amibroker](../a/amibroker.md) is a popular [technical analysis](../t/technical_analysis.md) and [backtesting](../b/backtesting.md) software, commonly used for its speed and flexibility in handling custom indicators and [trading systems](../t/trading_systems.md).
   
 - **Zipline**: An open-source [backtesting](../b/backtesting.md) library maintained by Quantopian, utilized particularly with Python for its robustness and integration with analytical tools.
 

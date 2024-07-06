@@ -20,7 +20,7 @@ This formula takes into account the Pearson correlation coefficients \(r_{XY}\),
 
 ### Steps to Perform Partial Correlation Analysis
 
-1. **Data Collection**: Gather historical price data for the assets and control variables. This can be done through financial data providers such as Bloomberg or Reuters.
+1. **Data Collection**: Gather historical price data for the assets and control variables. This can be done through financial data providers such as [Bloomberg](../b/bloomberg.md) or [Reuters](../r/reuters.md).
 
 2. **Standardize the Data**: Transform the data to have a mean of zero and a standard deviation of one, which helps in reducing bias.
 

@@ -1,6 +1,6 @@
 # Runaway Gaps
 
-A runaway gap is a concept in technical analysis used predominantly in stock trading, but it also applies to various financial markets, including forex, commodities, and cryptocurrencies. It is one of the types of gaps identified by technical analysts to make trading decisions based on price patterns. Understanding runaway gaps can significantly enhance an algorithmic trader's strategy by allowing them to better interpret and act on market movements.
+A runaway gap is a concept in [technical analysis](../t/technical_analysis.md) used predominantly in stock trading, but it also applies to various financial markets, including forex, commodities, and cryptocurrencies. It is one of the types of gaps identified by technical analysts to make trading decisions based on [price patterns](../p/price_patterns.md). Understanding runaway gaps can significantly enhance an algorithmic trader's strategy by allowing them to better interpret and act on market movements.
 
 ### Understanding Runaway Gaps
 
@@ -46,7 +46,7 @@ While specific examples can vary greatly, notable instances of runaway gaps have
 - **Apple Inc.**: A significant increase in Apple's share price following a groundbreaking product announcement, coupled with higher-than-expected earnings.
 - **Tesla Inc.**: Runaway gaps witnessed during Tesla’s aggressive growth phase and entry into new markets. Their stock price surged with remarkable trading volumes.
 
-For algorithmic traders, platforms like **TradeStation** and **Interactive Brokers** offer robust tools for identifying and trading gaps. Traders developing their algorithms may reference these platforms for data feeds, API access, and [backtesting](../b/backtesting.md) environments.
+For algorithmic traders, platforms like **[TradeStation](../t/tradestation.md)** and **Interactive Brokers** offer robust tools for identifying and trading gaps. Traders developing their algorithms may reference these platforms for data feeds, API access, and [backtesting](../b/backtesting.md) environments.
 
 - [TradeStation](https://www.tradestation.com/)
 - [Interactive Brokers](https://www.interactivebrokers.com/)

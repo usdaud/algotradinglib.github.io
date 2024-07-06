@@ -96,11 +96,11 @@ Traders often use the 3-Period EMA to identify dynamic [support and resistance](
 
 ## Implementation in Trading Platforms
 
-Most trading platforms, such as MetaTrader 4/5, NinjaTrader, and TradingView, offer built-in functionalities to calculate and plot EMAs, including the 3-Period EMA. Users can easily apply these indicators to their charts and customize them according to their [trading strategies](../t/trading_strategies.md).
+Most trading platforms, such as MetaTrader 4/5, [NinjaTrader](../n/ninjatrader.md), and [TradingView](../t/tradingview.md), offer built-in functionalities to calculate and plot EMAs, including the 3-Period EMA. Users can easily apply these indicators to their charts and customize them according to their [trading strategies](../t/trading_strategies.md).
 
 ### TradingView Example
 
-To apply a 3-Period EMA on TradingView:
+To apply a 3-Period EMA on [TradingView](../t/tradingview.md):
 1. Open a chart of the asset you're interested in.
 2. Click on the “Indicators” tab.
 3. Search for "EMA".

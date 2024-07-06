@@ -59,15 +59,15 @@ Psychological studies have shown that lunar cycles may have an impact on human e
 Lunar [cycle analysis](../c/cycle_analysis.md) can be integrated with modern [trading systems](../t/trading_systems.md) as part of a multi-faceted algorithmic approach. Combining it with [technical indicators](../t/technical_indicators.md), machine learning models, and other quantitative methods can potentially enhance predictive accuracy. For instance, machine learning algorithms can be trained to recognize subtle patterns in price movements relative to lunar phases, generating actionable insights.
 
 **Example**: 
-To see how modern technology companies like QuantConnect offer tools that allow traders to integrate such unconventional data into their [quantitative models](../q/quantitative_models.md), visit [QuantConnect's Website](https://www.quantconnect.com/).
+To see how modern technology companies like [QuantConnect](../q/quantconnect.md) offer tools that allow traders to integrate such unconventional data into their [quantitative models](../q/quantitative_models.md), visit [QuantConnect's Website](https://www.quantconnect.com/).
 
 #### Tools and Platforms
 
 Several platforms offer APIs and tools for integrating lunar data into [trading algorithms](../t/trading_algorithms.md):
 
 1. **Alpaca**: Provides APIs for trading with historical data support.
-2. **QuantConnect**: Offers a comprehensive research environment where celestial data can be merged with other financial data for [backtesting](../b/backtesting.md).
-3. **TradingView**: Allows for the customization of indicators, including celestial bodies.
+2. **[QuantConnect](../q/quantconnect.md)**: Offers a comprehensive research environment where celestial data can be merged with other financial data for [backtesting](../b/backtesting.md).
+3. **[TradingView](../t/tradingview.md)**: Allows for the customization of indicators, including celestial bodies.
 
 For direct data on lunar phases, resources such as [TimeAndDate](https://www.timeanddate.com/moon/phases/) can be invaluable.
 

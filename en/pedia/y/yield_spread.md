@@ -70,19 +70,19 @@ The OAS measures the spread between a bond and risk-free rates, adjusting for em
 
 ### Bloomberg Terminal
 
-The Bloomberg Terminal provides [real-time market data](../r/real-time_market_data.md), news, and analytics, including yield spreads, and is widely used by institutional investors and algorithmic traders. More information is available on the official Bloomberg [website](https://www.bloomberg.com/professional/solution/bloomberg-terminal/).
+The [Bloomberg](../b/bloomberg.md) Terminal provides [real-time market data](../r/real-time_market_data.md), news, and analytics, including yield spreads, and is widely used by institutional investors and algorithmic traders. More information is available on the official [Bloomberg](../b/bloomberg.md) [website](https://www.bloomberg.com/professional/solution/bloomberg-terminal/).
 
 ### Thomson Reuters Eikon
 
-Thomson Reuters Eikon offers comprehensive data on yield spreads and fixed-income instruments, facilitating in-depth analysis and [algorithmic trading](../a/algorithmic_trading.md). Visit the [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software) page for more details.
+Thomson [Reuters](../r/reuters.md) Eikon offers comprehensive data on yield spreads and fixed-income instruments, facilitating in-depth analysis and [algorithmic trading](../a/algorithmic_trading.md). Visit the [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software) page for more details.
 
 ### FactSet
 
-FactSet is another significant platform providing data analytics for yield [spread analysis](../s/spread_analysis.md), catering to investment professionals and quantitative analysts. More information can be found on the [FactSet website](https://www.factset.com/).
+[FactSet](../f/factset.md) is another significant platform providing data analytics for yield [spread analysis](../s/spread_analysis.md), catering to investment professionals and quantitative analysts. More information can be found on the [FactSet website](https://www.factset.com/).
 
 ### Quandl
 
-Quandl provides a wide range of financial, economic, and alternative datasets, which are essential for constructing and [backtesting](../b/backtesting.md) [trading algorithms](../t/trading_algorithms.md) that involve yield spreads. Explore more on the [Quandl website](https://www.quandl.com/).
+[Quandl](../q/quandl.md) provides a wide range of financial, economic, and alternative datasets, which are essential for constructing and [backtesting](../b/backtesting.md) [trading algorithms](../t/trading_algorithms.md) that involve yield spreads. Explore more on the [Quandl website](https://www.quandl.com/).
 
 ## Practical Application in Trading
 

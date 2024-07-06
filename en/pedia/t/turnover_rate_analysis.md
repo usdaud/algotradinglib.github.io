@@ -82,7 +82,7 @@ Several tools and techniques can help in turnover rate analysis:
 
 #### Example: QuantConnect
 
-QuantConnect is a platform that provides tools for [backtesting](../b/backtesting.md) and live trading algorithmic strategies. Users can analyze turnover rates and other [performance metrics](../p/performance_metrics.md) to fine-tune their strategies.
+[QuantConnect](../q/quantconnect.md) is a platform that provides tools for [backtesting](../b/backtesting.md) and live trading algorithmic strategies. Users can analyze turnover rates and other [performance metrics](../p/performance_metrics.md) to fine-tune their strategies.
 
 [Visit QuantConnect](https://www.quantconnect.com/)
 

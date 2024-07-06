@@ -7,7 +7,7 @@ In the realm of trading, particularly [algorithmic trading](../a/algorithmic_tra
 Market data is the lifeblood of trading. It comprises various types of information, including stock prices, trade volumes, bid-ask spreads, and other financial metrics. The primary sources of market data are:
 
 - **Exchanges:** Stock exchanges and other trading venues provide raw market data in real-time. Examples include the New York Stock Exchange (NYSE) and NASDAQ.
-- **Market Data Providers:** Third-party vendors aggregate and disseminate market data from multiple exchanges and other sources. Notable market data providers include Bloomberg ([Bloomberg](https://www.bloomberg.com)) and Thomson Reuters ([Refinitiv](https://www.refinitiv.com)).
+- **Market Data Providers:** Third-party vendors aggregate and disseminate market data from multiple exchanges and other sources. Notable market data providers include [Bloomberg](../b/bloomberg.md) ([Bloomberg](https://www.bloomberg.com)) and Thomson [Reuters](../r/reuters.md) ([Refinitiv](https://www.refinitiv.com)).
 - **Proprietary Sources:** Firms often have their own methods of gathering data, including through high-frequency trading and market making.
 
 ## Types of Information Processed

@@ -80,7 +80,7 @@ This code calculates the total return for a stock that starts at $100, rises to 
 
 Many algo trading platforms offer built-in functionality for total return calculation. For instance:
 
-- **QuantConnect** [QuantConnect](https://www.quantconnect.com/) provides various metrics and analytics tools to calculate total return and other [performance metrics](../p/performance_metrics.md) as part of its [algorithmic trading](../a/algorithmic_trading.md) platform.
+- **[QuantConnect](../q/quantconnect.md)** [QuantConnect](https://www.quantconnect.com/) provides various metrics and analytics tools to calculate total return and other [performance metrics](../p/performance_metrics.md) as part of its [algorithmic trading](../a/algorithmic_trading.md) platform.
 - **Alpha Vantage** [Alpha Vantage](https://www.alphavantage.co/) offers APIs that can be used to retrieve historical data for total return calculations in custom [trading algorithms](../t/trading_algorithms.md).
 
 ## Advanced Considerations in Total Return Calculation

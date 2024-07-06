@@ -32,7 +32,7 @@ Mathematically, the High-Low Index \( HLI \) for a period \( n \) can be express
 
 Several trading platforms and fintech companies incorporate the High-Low Index within their [trading strategies](../t/trading_strategies.md). Here are a few notable examples:
 
-- **QuantConnect:** An [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to build and backtest [trading strategies](../t/trading_strategies.md) using a wide range of [technical indicators](../t/technical_indicators.md), including the High-Low Index. [Visit QuantConnect](https://www.quantconnect.com)
+- **[QuantConnect](../q/quantconnect.md):** An [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to build and backtest [trading strategies](../t/trading_strategies.md) using a wide range of [technical indicators](../t/technical_indicators.md), including the High-Low Index. [Visit QuantConnect](https://www.quantconnect.com)
 - **Algoriz:** A platform that offers a user-friendly interface for creating [algorithmic trading](../a/algorithmic_trading.md) strategies. The High-Low Index can be integrated into strategies using Algoriz’s tools. [Visit Algoriz](https://www.algoriz.com)
 - **Kavout:** Known for its AI-driven [trading strategies](../t/trading_strategies.md), Kavout leverages a variety of [technical indicators](../t/technical_indicators.md), including the High-Low Index, to inform its trading decisions. [Visit Kavout](https://www.kavout.com)
 

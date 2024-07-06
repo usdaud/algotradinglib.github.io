@@ -60,7 +60,7 @@ In [algorithmic trading](../a/algorithmic_trading.md), 1PMA itself may not offer
 - **Baseline Comparison**: When multiperiod MAs are developed, their performance can be benchmarked against the 1PMA values to evaluate their effectiveness in trend identification.
 - **High-Frequency Trading (HFT)**: In HFT, where decisions are made at lightning speeds, "moving averages" like 1PMA might consist of ultra-short intervals (such as milliseconds), from which higher period moving averages are constructed for signaling.
 
-For more thorough algorithmic implementations and comparisons, professional platforms such as QuantConnect or AlgoTrader can be explored:
+For more thorough algorithmic implementations and comparisons, professional platforms such as [QuantConnect](../q/quantconnect.md) or [AlgoTrader](../a/algotrader.md) can be explored:
 
 - [QuantConnect](https://www.quantconnect.com)
 - [AlgoTrader](https://www.algotrader.com)

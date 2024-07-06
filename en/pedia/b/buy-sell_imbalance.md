@@ -62,9 +62,9 @@ Several firms specialize in providing insights based on Buy-Sell Imbalance. Here
 
 1. **Trade Ideas**: [Trade Ideas](https://www.trade-ideas.com/) offers advanced analytics and [trading signals](../t/trading_signals.md), including tools that analyze buy-sell imbalances to provide actionable insights.
   
-2. **AlgoTrader**: [AlgoTrader](https://www.algotrader.com/) is an institutional-grade [algorithmic trading](../a/algorithmic_trading.md) software, which incorporates various analytics including BSI to optimize [trading strategies](../t/trading_strategies.md).
+2. **[AlgoTrader](../a/algotrader.md)**: [AlgoTrader](https://www.algotrader.com/) is an institutional-grade [algorithmic trading](../a/algorithmic_trading.md) software, which incorporates various analytics including BSI to optimize [trading strategies](../t/trading_strategies.md).
 
-3. **QuantConnect**: [QuantConnect](https://www.quantconnect.com/) is a platform for [algorithmic trading](../a/algorithmic_trading.md) and [quantitative finance](../q/quantitative_finance.md), providing data and tools to utilize BSI in developing [trading algorithms](../t/trading_algorithms.md).
+3. **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](https://www.quantconnect.com/) is a platform for [algorithmic trading](../a/algorithmic_trading.md) and [quantitative finance](../q/quantitative_finance.md), providing data and tools to utilize BSI in developing [trading algorithms](../t/trading_algorithms.md).
 
 4. **Kavout**: [Kavout](https://www.kavout.com/) leverages AI and machine learning to provide market insights, including analysis based on buy-sell imbalances.
 

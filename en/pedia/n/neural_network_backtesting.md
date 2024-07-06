@@ -20,13 +20,13 @@ Neural networks, specifically deep learning models, have gained traction in rece
 
 [Backtesting](../b/backtesting.md) a neural network trading model involves several steps and requires suitable frameworks and tools. Notable frameworks include:
 
-1. **QuantConnect**: An [algorithmic trading](../a/algorithmic_trading.md) platform that supports [backtesting](../b/backtesting.md) and live trading. It provides cloud-based infrastructure and integrates with numerous datasets. [QuantConnect](https://www.quantconnect.com/)
+1. **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that supports [backtesting](../b/backtesting.md) and live trading. It provides cloud-based infrastructure and integrates with numerous datasets. [QuantConnect](https://www.quantconnect.com/)
 
-2. **Backtrader**: A Python-based [backtesting](../b/backtesting.md) library that offers flexibility in strategy development and extensive data sources. [Backtrader](https://www.backtrader.com/)
+2. **[Backtrader](../b/backtrader.md)**: A Python-based [backtesting](../b/backtesting.md) library that offers flexibility in strategy development and extensive data sources. [Backtrader](https://www.backtrader.com/)
 
 3. **Zipline**: An open-source [backtesting](../b/backtesting.md) library written in Python and maintained by Quantopian. It is used in conjunction with Python and Pandas for efficient [backtesting](../b/backtesting.md). [Zipline](https://www.zipline.io/)
 
-4. **Keras and TensorFlow**: Keras, in conjunction with TensorFlow, is often used to build and train neural networks. These frameworks facilitate the integration of deep learning models with [backtesting](../b/backtesting.md) libraries like Zipline and Backtrader. [Keras](https://keras.io/), [TensorFlow](https://www.tensorflow.org/)
+4. **Keras and TensorFlow**: Keras, in conjunction with TensorFlow, is often used to build and train neural networks. These frameworks facilitate the integration of deep learning models with [backtesting](../b/backtesting.md) libraries like Zipline and [Backtrader](../b/backtrader.md). [Keras](https://keras.io/), [TensorFlow](https://www.tensorflow.org/)
 
 ### Backtesting Steps
 

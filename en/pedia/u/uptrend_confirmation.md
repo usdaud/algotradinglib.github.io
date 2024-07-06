@@ -68,7 +68,7 @@ Surveys such as the American Association of Individual Investors (AAII) sentimen
 
 ### 8.1 QuantConnect
 
-QuantConnect is a platform enabling algorithmic strategy development where users can program uptrend confirmation strategies using moving averages, RSI, MACD, etc.
+[QuantConnect](../q/quantconnect.md) is a platform enabling algorithmic strategy development where users can program uptrend confirmation strategies using moving averages, RSI, MACD, etc.
 [QuantConnect](https://www.quantconnect.com/)
 
 ### 8.2 Interactive Brokers
@@ -121,17 +121,17 @@ Careful management of leverage levels ensures that even in confirmed uptrends, t
 
 ### 11.1 Bloomberg Terminal
 
-The Bloomberg Terminal provides extensive financial data, real-time analysis, and charting tools for confirming market uptrends efficiently.
+The [Bloomberg](../b/bloomberg.md) Terminal provides extensive financial data, real-time analysis, and charting tools for confirming market uptrends efficiently.
 [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
 ### 11.2 Thomson Reuters Eikon
 
-Thomson Reuters Eikon offers data, news, and analytical tools supporting uptrend confirmation through a broad set of market metrics and insights.
+Thomson [Reuters](../r/reuters.md) Eikon offers data, news, and analytical tools supporting uptrend confirmation through a broad set of market metrics and insights.
 [Thomson Reuters](https://www.refinitiv.com/en/products/eikon-trading-software)
 
 ### 11.3 TradingView
 
-TradingView features powerful charting tools, community-driven insights, and a wide range of [technical indicators](../t/technical_indicators.md) for uptrend verification.
+[TradingView](../t/tradingview.md) features powerful charting tools, community-driven insights, and a wide range of [technical indicators](../t/technical_indicators.md) for uptrend verification.
 [TradingView](https://www.tradingview.com/)
 
 ## Conclusion

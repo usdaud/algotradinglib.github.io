@@ -74,8 +74,8 @@ Machine learning and AI are increasingly being integrated into advanced [technic
 
 [Algorithmic trading](../a/algorithmic_trading.md), or algo-trading, involves using computer algorithms to execute trades based on predefined criteria. Advanced [technical analysis](../t/technical_analysis.md) tools and indicators are often integrated into these algorithms to enhance their precision and profitability. Companies specializing in this field include:
 
-- **QuantConnect**: [quantconnect.com](https://www.quantconnect.com/)
-- **AlgoTrader**: [algotrader.com](https://www.algotrader.com/)
+- **[QuantConnect](../q/quantconnect.md)**: [quantconnect.com](https://www.quantconnect.com/)
+- **[AlgoTrader](../a/algotrader.md)**: [algotrader.com](https://www.algotrader.com/)
 
 ### 13. Conclusion
 

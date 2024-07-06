@@ -99,15 +99,15 @@ Algorithms use market cap data to optimize portfolio construction. Diversificati
 Several tools and platforms provide market capitalization data and analysis:
 
 ### **Financial Data Providers**
-- **Bloomberg Terminal**: A comprehensive platform for financial data, news, and analytics. [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-- **Thomson Reuters Eikon**: Offers data on market cap, financial metrics, and analytics. [Refinitiv](https://www.refinitiv.com/en/products/eikon-trading-software)
+- **[Bloomberg](../b/bloomberg.md) Terminal**: A comprehensive platform for financial data, news, and analytics. [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+- **Thomson [Reuters](../r/reuters.md) Eikon**: Offers data on market cap, financial metrics, and analytics. [Refinitiv](https://www.refinitiv.com/en/products/eikon-trading-software)
   
 ### **Research Platforms**
-- **Morningstar**: Provides market capitalization data, [fundamental analysis](../f/fundamental_analysis.md), and investment research. [Morningstar](https://www.morningstar.com/)
+- **[Morningstar](../m/morningstar.md)**: Provides market capitalization data, [fundamental analysis](../f/fundamental_analysis.md), and investment research. [Morningstar](https://www.morningstar.com/)
 - **Yahoo Finance**: A free resource for market cap data, news, and financial analysis. [Yahoo Finance](https://finance.yahoo.com/)
 
 ### **Algorithmic Trading Platforms**
-- **QuantConnect**: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform supporting multiple asset classes and strategies. [QuantConnect](https://www.quantconnect.com/)
+- **[QuantConnect](../q/quantconnect.md)**: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform supporting multiple asset classes and strategies. [QuantConnect](https://www.quantconnect.com/)
 - **Alpaca**: A commission-free trading platform with APIs for [algorithmic trading](../a/algorithmic_trading.md). [Alpaca](https://alpaca.markets/)
 
 ## Conclusion

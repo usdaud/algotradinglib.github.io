@@ -88,8 +88,8 @@ Consider two portfolios with identical value growth but different cash flow patt
 
 Numerous software tools and platforms aid in calculating TWR:
 
-- **Morningstar Direct**: A comprehensive investment analysis platform that offers TWR calculation (https://www.morningstar.com/products/direct).
-- **Bloomberg Terminal**: Known for its extensive financial data, the terminal provides TWR analytics tools, suitable for professional finance users (https://www.bloomberg.com/professional/solution/bloomberg-terminal/).
+- **[Morningstar](../m/morningstar.md) Direct**: A comprehensive investment analysis platform that offers TWR calculation (https://www.[morningstar](../m/morningstar.md).com/products/direct).
+- **[Bloomberg](../b/bloomberg.md) Terminal**: Known for its extensive financial data, the terminal provides TWR analytics tools, suitable for professional finance users (https://www.[bloomberg](../b/bloomberg.md).com/professional/solution/[bloomberg](../b/bloomberg.md)-terminal/).
 
 ### Excel Implementation
 

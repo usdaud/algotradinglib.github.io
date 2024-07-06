@@ -54,13 +54,13 @@ Options with significant trading volume can serve as effective hedging instrumen
 Several tools and platforms provide advanced analytics for tracking options trading volume. These tools help traders analyze [volume patterns](../v/volume_patterns.md), identify unusual activity, and derive actionable insights for their [trading strategies](../t/trading_strategies.md).
 
 ### Market Data Providers
-Providers like Bloomberg, Reuters, and Nasdaq offer comprehensive market data, including real-time and historical options trading volume. Their platforms often feature advanced analytics tools for in-depth analysis.
+Providers like [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), and Nasdaq offer comprehensive market data, including real-time and historical options trading volume. Their platforms often feature advanced analytics tools for in-depth analysis.
 
 ### Online Brokerages
 Online brokerages such as E*TRADE, TD Ameritrade, and Interactive Brokers provide traders with access to options trading volume data through their trading platforms. These platforms usually come equipped with charting tools, volume alerts, and screening capabilities.
 
 ### Specialized Software
-Softwares like OptionVue, ORATS, and Livevol cater specifically to options traders, offering sophisticated analytics and volume tracking. These tools often provide features like [backtesting](../b/backtesting.md), scanning for [unusual volume](../u/unusual_volume.md), and advanced charting capabilities.
+Softwares like OptionVue, ORATS, and [Livevol](../l/livevol.md) cater specifically to options traders, offering sophisticated analytics and volume tracking. These tools often provide features like [backtesting](../b/backtesting.md), scanning for [unusual volume](../u/unusual_volume.md), and advanced charting capabilities.
 
 ## Conclusion
 

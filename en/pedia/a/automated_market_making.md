@@ -8,7 +8,7 @@ Market making is a process utilized by financial firms, referred to as market ma
 
 ## Traditional Market Making
 
-Before the advent of automated systems, market making was performed manually. Traders, employed by brokerage firms or investment banks, monitored markets, updated prices, and managed inventory. This method had limitations, such as slower reaction times, greater susceptibility to human error, and higher operational costs. The rise of electronic trading platforms in the late 20th century began transforming this landscape, leading to the genesis of automated approaches.
+Before the advent of automated systems, market making was performed manually. Traders, employed by brokerage firms or investment banks, monitored markets, updated prices, and managed inventory. This method had limitations, such as slower reaction times, greater susceptibility to human error, and higher operational costs. The rise of electronic trading platforms in the late 20th century began transforming this landscape, leading to the [genesis](../g/genesis.md) of automated approaches.
 
 ## Evolution to Automated Market Making
 

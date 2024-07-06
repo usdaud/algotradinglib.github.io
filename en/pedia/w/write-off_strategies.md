@@ -52,7 +52,7 @@ Most [algorithmic trading](../a/algorithmic_trading.md) platforms offer APIs tha
 
 ### Backtesting
 
-Before deploying write-off strategies in live markets, it is essential to conduct thorough [backtesting](../b/backtesting.md). [Backtesting](../b/backtesting.md) involves running the strategy on historical data to evaluate its performance and make necessary adjustments. Python libraries like Backtrader and QuantConnect can be useful for this purpose.
+Before deploying write-off strategies in live markets, it is essential to conduct thorough [backtesting](../b/backtesting.md). [Backtesting](../b/backtesting.md) involves running the strategy on historical data to evaluate its performance and make necessary adjustments. Python libraries like [Backtrader](../b/backtrader.md) and [QuantConnect](../q/quantconnect.md) can be useful for this purpose.
 
 ## Real-World Examples
 

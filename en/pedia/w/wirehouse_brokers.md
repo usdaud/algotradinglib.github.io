@@ -94,7 +94,7 @@ In the United States, the SEC oversees the activities of wirehouse brokers, ensu
 
 ### Financial Industry Regulatory Authority (FINRA)
 
-FINRA is a self-regulatory organization that focuses on regulating brokerage firms and their registered representatives. It conducts periodic inspections, enforces compliance, and addresses investor complaints.
+[FINRA](../f/finra.md) is a self-regulatory organization that focuses on regulating brokerage firms and their registered representatives. It conducts periodic inspections, enforces compliance, and addresses investor complaints.
 
 ### State Regulators
 

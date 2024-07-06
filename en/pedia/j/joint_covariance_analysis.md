@@ -73,10 +73,10 @@ Several software platforms and libraries facilitate joint covariance analysis by
 
 ### Trading Platforms
 
-1. **QuantConnect**: Provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform with extensive libraries for covariance analysis and more.
+1. **[QuantConnect](../q/quantconnect.md)**: Provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform with extensive libraries for covariance analysis and more.
    - [QuantConnect](https://www.quantconnect.com/)
 
-2. **Quantlib**: A comprehensive library for [quantitative finance](../q/quantitative_finance.md), including tools for covariance and [risk analysis](../r/risk_analysis.md).
+2. **[Quantlib](../q/quantlib.md)**: A comprehensive library for [quantitative finance](../q/quantitative_finance.md), including tools for covariance and [risk analysis](../r/risk_analysis.md).
    - [Quantlib](https://www.quantlib.org/)
 
 3. **MatLab**: Widely used in academia and industry for its robust statistical and mathematical toolsets, including covariance analysis.

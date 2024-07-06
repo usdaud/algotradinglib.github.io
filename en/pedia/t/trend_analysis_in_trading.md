@@ -86,10 +86,10 @@ To illustrate the application of [trend analysis](../t/trend_analysis.md) in tra
 
 For more information on companies using [trend analysis](../t/trend_analysis.md) tools, you can visit the websites of major trading platforms and financial analytics providers such as:
 
-- **TradingView**: [https://www.tradingview.com](https://www.tradingview.com)
+- **[TradingView](../t/tradingview.md)**: [https://www.tradingview.com](https://www.tradingview.com)
 - **MetaTrader**: [https://www.metatrader4.com](https://www.metatrader4.com)
-- **Bloomberg Terminal**: [https://www.bloomberg.com/professional/solution/bloomberg-terminal/](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-- **Thinkorswim by TD Ameritrade**: [https://www.tdameritrade.com/tools-and-platforms/thinkorswim-platform.html](https://www.tdameritrade.com/tools-and-platforms/thinkorswim-platform.html)
-- **NinjaTrader**: [https://ninjatrader.com](https://ninjatrader.com)
+- **[Bloomberg](../b/bloomberg.md) Terminal**: [https://www.bloomberg.com/professional/solution/bloomberg-terminal/](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+- **[Thinkorswim](../t/thinkorswim.md) by TD Ameritrade**: [https://www.tdameritrade.com/tools-and-platforms/thinkorswim-platform.html](https://www.tdameritrade.com/tools-and-platforms/thinkorswim-platform.html)
+- **[NinjaTrader](../n/ninjatrader.md)**: [https://ninjatrader.com](https://ninjatrader.com)
 
 These platforms offer a wide range of tools and resources for [trend analysis](../t/trend_analysis.md) and can help traders develop and refine their [trading strategies](../t/trading_strategies.md).

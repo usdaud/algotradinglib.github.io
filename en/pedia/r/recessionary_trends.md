@@ -74,7 +74,7 @@ During economic downturns, institutional investors often dominate the trading la
 
 ### Democratization of Algotrading
 
-Despite the dominance of institutional players, the rise of user-friendly [algorithmic trading](../a/algorithmic_trading.md) platforms has helped democratize access to these tools. Platforms such as QuantConnect and Alpaca allow retail investors to develop and deploy their own [trading algorithms](../t/trading_algorithms.md). Although these platforms do not offer the same level of sophistication as institutional tools, they empower individual traders to participate in algotrading during recessions.
+Despite the dominance of institutional players, the rise of user-friendly [algorithmic trading](../a/algorithmic_trading.md) platforms has helped democratize access to these tools. Platforms such as [QuantConnect](../q/quantconnect.md) and Alpaca allow retail investors to develop and deploy their own [trading algorithms](../t/trading_algorithms.md). Although these platforms do not offer the same level of sophistication as institutional tools, they empower individual traders to participate in algotrading during recessions.
 
 ## Technological Advancements
 
@@ -120,7 +120,7 @@ Alpaca is a technology company that offers a commission-free trading platform wi
 
 ### QuantConnect
 
-QuantConnect is an open-source [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to design, backtest, and deploy [trading algorithms](../t/trading_algorithms.md). The platform supports multiple asset classes and offers extensive historical data for [backtesting](../b/backtesting.md). More details can be found at [QuantConnect](https://www.quantconnect.com/).
+[QuantConnect](../q/quantconnect.md) is an open-source [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to design, backtest, and deploy [trading algorithms](../t/trading_algorithms.md). The platform supports multiple asset classes and offers extensive historical data for [backtesting](../b/backtesting.md). More details can be found at [QuantConnect](https://www.quantconnect.com/).
 
 ## Conclusion
 

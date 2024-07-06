@@ -69,9 +69,9 @@ The decomposition helps the analyst and investors understand that the majority o
 
 There are various tools and platforms available for conducting [yield spread](../y/yield_spread.md) decomposition. Some notable ones include:
 
-1. **Bloomberg Terminal**: Bloomberg's fixed-income analytics capabilities provide robust tools for [yield curve](../y/yield_curve.md) analysis, regression models, and other decomposition techniques. More information can be found at [Bloomberg](https://www.bloomberg.com/professional/solution/fixed-income/).
-2. **Reuters Eikon**: Similar to Bloomberg, Eikon offers comprehensive analytics and data for fixed-income markets, including yield [spread analysis](../s/spread_analysis.md) tools. More information is available at [Refinitiv](https://www.refinitiv.com/en/products/eikon-trading-software).
-3. **FactSet**: FactSet provides data, analytics, and tools for analyzing yield spreads and other fixed-income instruments. You can explore their offerings at [FactSet](https://www.factset.com/).
+1. **[Bloomberg](../b/bloomberg.md) Terminal**: [Bloomberg](../b/bloomberg.md)'s fixed-income analytics capabilities provide robust tools for [yield curve](../y/yield_curve.md) analysis, regression models, and other decomposition techniques. More information can be found at [Bloomberg](https://www.bloomberg.com/professional/solution/fixed-income/).
+2. **[Reuters](../r/reuters.md) Eikon**: Similar to [Bloomberg](../b/bloomberg.md), Eikon offers comprehensive analytics and data for fixed-income markets, including yield [spread analysis](../s/spread_analysis.md) tools. More information is available at [Refinitiv](https://www.refinitiv.com/en/products/eikon-trading-software).
+3. **[FactSet](../f/factset.md)**: [FactSet](../f/factset.md) provides data, analytics, and tools for analyzing yield spreads and other fixed-income instruments. You can explore their offerings at [FactSet](https://www.factset.com/).
 
 #### Conclusion
 

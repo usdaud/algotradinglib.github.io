@@ -101,7 +101,7 @@ Numerai uses AI and machine learning models, including advanced time series mode
 
 ### QuantConnect
 [https://www.quantconnect.com](https://www.quantconnect.com)
-QuantConnect provides a platform for [algorithmic trading](../a/algorithmic_trading.md) and research with tools for developing and [backtesting](../b/backtesting.md) time series models.
+[QuantConnect](../q/quantconnect.md) provides a platform for [algorithmic trading](../a/algorithmic_trading.md) and research with tools for developing and [backtesting](../b/backtesting.md) time series models.
 
 ### Alpaca
 [https://alpaca.markets](https://alpaca.markets)

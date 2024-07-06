@@ -8,8 +8,8 @@ Knowledge-Driven Financial Analysis (KDFA) is a multifaceted approach to financi
 KDFA heavily relies on the utilization of big data, which encompasses vast and diverse datasets that can be analyzed to reveal patterns, trends, and associations. The use of big data in finance involves extracting useful insights from financial transactions, market sentiments, [economic indicators](../e/economic_indicators.md), and related datasets.
 
 #### Source Examples
-- Bloomberg Terminal ([Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)): Provides real-time and historical data, news, and analytics for financial market professionals.
-- Quandl ([Quandl](https://www.quandl.com/)): A platform offering a wide array of financial, economic, and alternative datasets.
+- [Bloomberg](../b/bloomberg.md) Terminal ([Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)): Provides real-time and historical data, news, and analytics for financial market professionals.
+- [Quandl](../q/quandl.md) ([Quandl](https://www.quandl.com/)): A platform offering a wide array of financial, economic, and alternative datasets.
 
 ### 2. Advanced Computational Techniques
 KDFA employs advanced computational techniques such as natural language processing (NLP), machine learning (ML), and artificial intelligence (AI) to process and analyze large volumes of data. These techniques enable more accurate predictions and identification of complex patterns that traditional methods might miss.

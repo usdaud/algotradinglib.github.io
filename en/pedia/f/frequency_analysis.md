@@ -44,7 +44,7 @@ Wavelet Transform is used for data analysis and signal processing, allowing the 
 ### Backtesting
 [Backtesting](../b/backtesting.md) involves testing [trading strategies](../t/trading_strategies.md) using historical data to evaluate their performance. Frequency analysis helps identify the optimal timeframe and frequency at which a strategy performs best.
 
-- **Python Libraries**: Libraries such as `Backtrader`, `Zipline`, and `QuantConnect` allow for comprehensive [backtesting](../b/backtesting.md) environments that support frequency analysis.
+- **Python Libraries**: Libraries such as `[Backtrader](../b/backtrader.md)`, `Zipline`, and `[QuantConnect](../q/quantconnect.md)` allow for comprehensive [backtesting](../b/backtesting.md) environments that support frequency analysis.
 
 ### Real-Time Data Analysis
 Analyzing real-time data to make quick trading decisions is a cornerstone of [algorithmic trading](../a/algorithmic_trading.md). Frequency analysis tools help in filtering noise from significant signals.

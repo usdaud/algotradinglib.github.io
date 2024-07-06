@@ -71,9 +71,9 @@ Repeat the process for the 3-year bond to get \( YTM_3 \).
 ### Analytical Tools and Software
 
 Traders and financial analysts rely on various tools and software to perform zero-coupon [yield analysis](../y/yield_analysis.md):
-1. **Bloomberg Terminal**: Provides comprehensive data, analytics, and tools to analyze bond yields and construct zero-coupon yield curves.
+1. **[Bloomberg](../b/bloomberg.md) Terminal**: Provides comprehensive data, analytics, and tools to analyze bond yields and construct zero-coupon yield curves.
    - [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-2. **Matlab and Python**: Financial toolboxes in Matlab and libraries such as NumPy, pandas, and QuantLib in Python can be used for bond pricing and [yield analysis](../y/yield_analysis.md).
+2. **Matlab and Python**: Financial toolboxes in Matlab and libraries such as NumPy, pandas, and [QuantLib](../q/quantlib.md) in Python can be used for bond pricing and [yield analysis](../y/yield_analysis.md).
    - [QuantLib](https://www.quantlib.org/)
 3. **Excel**: Excel’s financial functions can solve for YTM and construct yield curves with proper scripting.
 

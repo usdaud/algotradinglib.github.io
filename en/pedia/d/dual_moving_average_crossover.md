@@ -149,7 +149,7 @@ Numerous software platforms and tools can aid in the implementation of the Dual 
 
 ### TradeStation
 
-**TradeStation** is a popular platform that offers advanced charting, [backtesting](../b/backtesting.md) capabilities, and strategy development tools. It supports [algorithmic trading](../a/algorithmic_trading.md) and provides data feeds for various markets.
+**[TradeStation](../t/tradestation.md)** is a popular platform that offers advanced charting, [backtesting](../b/backtesting.md) capabilities, and strategy development tools. It supports [algorithmic trading](../a/algorithmic_trading.md) and provides data feeds for various markets.
 [TradeStation](https://www.tradestation.com/)
 
 ### MetaTrader
@@ -159,7 +159,7 @@ Numerous software platforms and tools can aid in the implementation of the Dual 
 
 ### QuantConnect
 
-**QuantConnect** is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple programming languages, including Python and C#. It offers extensive data libraries and powerful [backtesting](../b/backtesting.md) engines.
+**[QuantConnect](../q/quantconnect.md)** is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple programming languages, including Python and C#. It offers extensive data libraries and powerful [backtesting](../b/backtesting.md) engines.
 [QuantConnect](https://www.quantconnect.com/)
 
 ### Alpaca
@@ -169,7 +169,7 @@ Numerous software platforms and tools can aid in the implementation of the Dual 
 
 ### TradingView
 
-**TradingView** offers advanced charting tools and scriptable alerts using the Pine Script programming language. Traders can create and test custom strategies, including [moving average crossovers](../m/moving_average_crossovers.md).
+**[TradingView](../t/tradingview.md)** offers advanced charting tools and scriptable alerts using the Pine Script programming language. Traders can create and test custom strategies, including [moving average crossovers](../m/moving_average_crossovers.md).
 [TradingView](https://www.tradingview.com/)
 
 ## Case Study

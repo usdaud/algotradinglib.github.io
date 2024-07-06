@@ -115,7 +115,7 @@ For further information, visit the [ElasticSearch Website](https://www.elastic.c
 
 ## 8. QuantConnect
 
-QuantConnect provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform with access to historical data, powerful back-testing capabilities, and connections to major brokers for live trading.
+[QuantConnect](../q/quantconnect.md) provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform with access to historical data, powerful back-testing capabilities, and connections to major brokers for live trading.
 
 - **Usage in Trading:**
   - **Algorithm Development:** Offers an integrated development environment for building and testing [trading algorithms](../t/trading_algorithms.md).
@@ -147,7 +147,7 @@ Check out the [Alpaca Website](https://alpaca.markets/) for further details.
 
 ## 10. Quandl
 
-Quandl is a platform that offers financial and economic datasets, providing both free and premium data to traders and analysts.
+[Quandl](../q/quandl.md) is a platform that offers financial and economic datasets, providing both free and premium data to traders and analysts.
 
 - **Usage in Trading:**
   - **Data Acquisition:** Provides access to a vast range of financial data, including stock prices, [economic indicators](../e/economic_indicators.md), and alternative datasets.
@@ -163,4 +163,4 @@ More information is available on the [Quandl Website](https://www.quandl.com/).
 
 ## Conclusion
 
-Big data tools have become indispensable in the trading landscape, offering capabilities that were previously unimaginable. From managing and processing vast datasets to performing real-time analytics and supporting [algorithmic trading](../a/algorithmic_trading.md), these tools provide significant advantages to traders looking to leverage data for better decision-making and increased profitability. Whether it’s using Hadoop for data storage and processing, Apache Spark for real-time analytics, or specialized platforms like QuantConnect for [algorithmic trading](../a/algorithmic_trading.md), the right combination of big data tools can make a substantial difference in trading outcomes.
+Big data tools have become indispensable in the trading landscape, offering capabilities that were previously unimaginable. From managing and processing vast datasets to performing real-time analytics and supporting [algorithmic trading](../a/algorithmic_trading.md), these tools provide significant advantages to traders looking to leverage data for better decision-making and increased profitability. Whether it’s using Hadoop for data storage and processing, Apache Spark for real-time analytics, or specialized platforms like [QuantConnect](../q/quantconnect.md) for [algorithmic trading](../a/algorithmic_trading.md), the right combination of big data tools can make a substantial difference in trading outcomes.

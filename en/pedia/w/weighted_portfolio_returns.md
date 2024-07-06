@@ -67,7 +67,7 @@ Some common metrics used to evaluate [portfolio performance](../p/portfolio_perf
 
 #### Example: QuantConnect
 
-QuantConnect is an example of a platform that provides tools for designing and [backtesting](../b/backtesting.md) [algorithmic trading](../a/algorithmic_trading.md) strategies, including [portfolio management](../p/portfolio_management.md). The platform allows traders to use Python or C# to implement their strategies, optimize portfolio weights, and evaluate performance. For more information, you can visit their [website](https://www.quantconnect.com).
+[QuantConnect](../q/quantconnect.md) is an example of a platform that provides tools for designing and [backtesting](../b/backtesting.md) [algorithmic trading](../a/algorithmic_trading.md) strategies, including [portfolio management](../p/portfolio_management.md). The platform allows traders to use Python or C# to implement their strategies, optimize portfolio weights, and evaluate performance. For more information, you can visit their [website](https://www.quantconnect.com).
 
 ### Conclusion
 

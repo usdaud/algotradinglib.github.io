@@ -104,7 +104,7 @@ In pair trading, which involves taking opposing positions in two highly correlat
 Alpha Trading Labs provides a platform for developing and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies, including those based on moving averages.
 
 ### QuantConnect (https://www.quantconnect.com)
-QuantConnect is an [algorithmic trading](../a/algorithmic_trading.md) platform that offers [backtesting](../b/backtesting.md) and live-trading services. Their platform supports numerous [technical indicators](../t/technical_indicators.md), including moving averages, and allows traders to build strategies using Python and C#.
+[QuantConnect](../q/quantconnect.md) is an [algorithmic trading](../a/algorithmic_trading.md) platform that offers [backtesting](../b/backtesting.md) and live-trading services. Their platform supports numerous [technical indicators](../t/technical_indicators.md), including moving averages, and allows traders to build strategies using Python and C#.
 
 ### Alpaca (https://alpaca.markets)
 Alpaca provides commission-free trading APIs that allow users to automate their [trading algorithms](../t/trading_algorithms.md) with ease. They offer extensive documentation and support for integrating moving average-based strategies.

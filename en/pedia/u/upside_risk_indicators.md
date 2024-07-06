@@ -26,7 +26,7 @@ In the context of financial markets, risk is often perceived negatively, associa
 
 ### Case Study: QuantConnect's Algorithm Strategy 
 
-QuantConnect provides a powerful platform for [algorithmic trading](../a/algorithmic_trading.md), allowing traders to backtest and deploy strategies using a range of data. One of their strategies incorporates [upside risk](../u/upside_risk.md) indicators to enhance [portfolio performance](../p/portfolio_performance.md). The strategy uses upside beta to select stocks that are likely to outperform the market in bullish conditions. By integrating these indicators, the algorithm has demonstrated significant improvement in returns during uptrend periods. [QuantConnect](https://www.quantconnect.com)
+[QuantConnect](../q/quantconnect.md) provides a powerful platform for [algorithmic trading](../a/algorithmic_trading.md), allowing traders to backtest and deploy strategies using a range of data. One of their strategies incorporates [upside risk](../u/upside_risk.md) indicators to enhance [portfolio performance](../p/portfolio_performance.md). The strategy uses upside beta to select stocks that are likely to outperform the market in bullish conditions. By integrating these indicators, the algorithm has demonstrated significant improvement in returns during uptrend periods. [QuantConnect](https://www.quantconnect.com)
 
 ### Example: BlackRock's Aladdin
 
@@ -79,7 +79,7 @@ where:
 
 ### Python in QuantConnect
 
-Python is an excellent language for implementing these indicators due to its simplicity and the wide range of libraries available. QuantConnect, a cloud-based [backtesting](../b/backtesting.md) and algorithm trading platform, supports Python for strategy development. Here’s a basic implementation of using the Upside Beta within QuantConnect:
+Python is an excellent language for implementing these indicators due to its simplicity and the wide range of libraries available. [QuantConnect](../q/quantconnect.md), a cloud-based [backtesting](../b/backtesting.md) and algorithm trading platform, supports Python for strategy development. Here’s a basic implementation of using the Upside Beta within [QuantConnect](../q/quantconnect.md):
 
 ```python
 import numpy as np

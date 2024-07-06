@@ -56,7 +56,7 @@ Several trading firms and hedge funds specialize in volatility [arbitrage](../a/
 
 #### Software and Models
 
-- **QuantConnect**: [QuantConnect](https://www.quantconnect.com) offers an open-source [algorithmic trading](../a/algorithmic_trading.md) platform supporting multiple assets and strategies, including vol arb.
+- **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](https://www.quantconnect.com) offers an open-source [algorithmic trading](../a/algorithmic_trading.md) platform supporting multiple assets and strategies, including vol arb.
 - **OptionVue**: [OptionVue](https://www.optionvue.com) provides tools for option pricing, analytics, and [backtesting](../b/backtesting.md), essential for volatility [arbitrage](../a/arbitrage.md).
 
 ### Conclusion

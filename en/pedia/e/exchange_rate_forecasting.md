@@ -75,7 +75,7 @@ NLP techniques are employed to analyze textual data from news articles, social m
 [JP Morgan](https://www.jpmorgan.com) utilizes advanced machine learning algorithms and macroeconomic models for exchange rate forecasting. The bank's research team regularly publishes reports and analyses that help clients navigate the complexities of the FX market.
 
 ### Bloomberg Terminal
-The [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/) offers a powerful platform for traders and analysts, providing access to real-time exchange rate data, charting tools, and [forecasting models](../f/forecasting_models.md). Bloomberg's machine learning capabilities enhance the accuracy of exchange rate predictions.
+The [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/) offers a powerful platform for traders and analysts, providing access to real-time exchange rate data, charting tools, and [forecasting models](../f/forecasting_models.md). [Bloomberg](../b/bloomberg.md)'s machine learning capabilities enhance the accuracy of exchange rate predictions.
 
 ### Federal Reserve Bank
 The [Federal Reserve Bank](https://www.federalreserve.gov) incorporates exchange rate forecasts into its monetary policy decisions. The Fed's research teams use econometric models and financial market data to assess the implications of exchange rate movements on the U.S. economy.

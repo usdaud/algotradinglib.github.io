@@ -64,13 +64,13 @@ For those looking to implement volume and price analysis in [algorithmic trading
 
 1. **MetaTrader 5**: A multi-asset platform that offers tools for comprehensive price and [volume analysis](../v/volume_analysis.md). [MetaTrader 5](https://www.metatrader5.com/en)
   
-2. **QuantConnect**: An online platform for [backtesting](../b/backtesting.md) and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies, which offers extensive libraries for volume and price analysis. [QuantConnect](https://www.quantconnect.com)
+2. **[QuantConnect](../q/quantconnect.md)**: An online platform for [backtesting](../b/backtesting.md) and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies, which offers extensive libraries for volume and price analysis. [QuantConnect](https://www.quantconnect.com)
 
-3. **NinjaTrader**: This platform facilitates advanced charting, analytics, and [volume indicators](../v/volume_indicators.md) for developing [trading algorithms](../t/trading_algorithms.md). [NinjaTrader](https://ninjatrader.com)
+3. **[NinjaTrader](../n/ninjatrader.md)**: This platform facilitates advanced charting, analytics, and [volume indicators](../v/volume_indicators.md) for developing [trading algorithms](../t/trading_algorithms.md). [NinjaTrader](https://ninjatrader.com)
 
 ### Data Providers
 
-1. **Quandl**: Offers extensive datasets for financial and economic data, including volume and price data. [Quandl](https://www.quandl.com)
+1. **[Quandl](../q/quandl.md)**: Offers extensive datasets for financial and economic data, including volume and price data. [Quandl](https://www.quandl.com)
 
 2. **Alpaca**: Provides commission-free trading with real-time data suitable for [algorithmic trading](../a/algorithmic_trading.md). [Alpaca](https://alpaca.markets)
 

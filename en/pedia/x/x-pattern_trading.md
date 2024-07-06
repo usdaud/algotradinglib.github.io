@@ -58,8 +58,8 @@ Several tools and technologies are instrumental in the development and implement
 
 ### Libraries and Frameworks
 
-- **QuantConnect**: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports Python and C#. (https://www.quantconnect.com/)
-- **Backtrader**: A Python library for [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md). (https://www.backtrader.com/)
+- **[QuantConnect](../q/quantconnect.md)**: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports Python and C#. (https://www.[quantconnect](../q/quantconnect.md).com/)
+- **[Backtrader](../b/backtrader.md)**: A Python library for [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md). (https://www.[backtrader](../b/backtrader.md).com/)
 - **PyAlgoTrade**: A library that allows [backtesting](../b/backtesting.md) of TA-Lib based strategies. (https://github.com/gbeced/pyalgotrade)
 
 ## Real-World Applications

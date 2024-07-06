@@ -22,7 +22,7 @@ The success of any trading algorithm depends on the quality, accuracy, and timel
 2. **Real-time Data**: Essential for executing live trades, real-time data streams include current prices, bid/ask quotes, and market depth information.
 3. **[Alternative Data](../a/alternative_data.md)**: This includes [non-traditional data sources](../n/non-traditional_data_sources.md) like [social media sentiment](../s/social_media_sentiment.md), news feeds, and [economic indicators](../e/economic_indicators.md).
 
-Data providers like Bloomberg, Thomson Reuters, and Quandl offer APIs to facilitate efficient data collection.
+Data providers like [Bloomberg](../b/bloomberg.md), Thomson [Reuters](../r/reuters.md), and [Quandl](../q/quandl.md) offer APIs to facilitate efficient data collection.
 
 ### Backtesting
 
@@ -32,7 +32,7 @@ Data providers like Bloomberg, Thomson Reuters, and Quandl offer APIs to facilit
 2. **Parameter Optimization**: Tweaking strategy parameters to find the most profitable settings.
 3. **[Performance Metrics](../p/performance_metrics.md)**: Calculating metrics such as Return on Investment (ROI), [Sharpe Ratio](../s/sharpe_ratio.md), and Maximum Drawdown to evaluate strategy performance.
 
-[Backtesting](../b/backtesting.md) platforms like QuantConnect, MetaTrader, and Amibroker provide robust environments for strategy testing.
+[Backtesting](../b/backtesting.md) platforms like [QuantConnect](../q/quantconnect.md), MetaTrader, and [Amibroker](../a/amibroker.md) provide robust environments for strategy testing.
 
 ### Development and Coding
 
@@ -52,7 +52,7 @@ Development environments like Visual Studio, PyCharm, and Jupyter Notebooks are 
 2. **Order Types**: Using various order types (market, limit, stop-loss, etc.) to optimize trade execution.
 3. **Broker Integration**: Connecting the algorithm with brokerage accounts and ensuring seamless [order routing](../o/order_routing.md).
 
-Trading platforms like Interactive Brokers, TD Ameritrade, and TradeStation provide APIs and execution services.
+Trading platforms like Interactive Brokers, TD Ameritrade, and [TradeStation](../t/tradestation.md) provide APIs and execution services.
 
 ### Risk Management and Monitoring
 
@@ -62,21 +62,21 @@ Trading platforms like Interactive Brokers, TD Ameritrade, and TradeStation prov
 2. **[Stop-Loss Orders](../s/stop-loss_orders.md)**: Setting predefined exit points to limit potential losses.
 3. **Diversification**: Spreading investments across multiple assets to reduce risk exposure.
 
-Continuous monitoring involves tracking algorithm performance, market conditions, and system health to ensure the strategy remains effective. Monitoring tools like Trade Ideas and TradingView offer analytical capabilities to oversee trading activity.
+Continuous monitoring involves tracking algorithm performance, market conditions, and system health to ensure the strategy remains effective. Monitoring tools like Trade Ideas and [TradingView](../t/tradingview.md) offer analytical capabilities to oversee trading activity.
 
 ## Companies and Tools
 
 Several companies and tools support various stages of trading algorithm development. These include:
 
-1. **QuantConnect**: Provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple financial markets and offers [backtesting](../b/backtesting.md), optimization, and live trading services. [QuantConnect](https://www.quantconnect.com/)
+1. **[QuantConnect](../q/quantconnect.md)**: Provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple financial markets and offers [backtesting](../b/backtesting.md), optimization, and live trading services. [QuantConnect](https://www.quantconnect.com/)
 
 2. **Interactive Brokers**: Offers a comprehensive trading platform with robust API support for [algorithmic trading](../a/algorithmic_trading.md). [Interactive Brokers](https://www.interactivebrokers.com/)
 
 3. **TD Ameritrade**: Provides APIs and tools for [algorithmic trading](../a/algorithmic_trading.md) along with a wide range of financial products. [TD Ameritrade](https://www.tdameritrade.com/)
 
-4. **TradeStation**: Offers a powerful trading platform with advanced tools for strategy development, [backtesting](../b/backtesting.md), and execution. [TradeStation](https://www.tradestation.com/)
+4. **[TradeStation](../t/tradestation.md)**: Offers a powerful trading platform with advanced tools for strategy development, [backtesting](../b/backtesting.md), and execution. [TradeStation](https://www.tradestation.com/)
 
-5. **Bloomberg Terminal**: Provides extensive market data, news, and analytics essential for developing and executing [trading strategies](../t/trading_strategies.md). [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+5. **[Bloomberg](../b/bloomberg.md) Terminal**: Provides extensive market data, news, and analytics essential for developing and executing [trading strategies](../t/trading_strategies.md). [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
 ## Conclusion
 

@@ -81,13 +81,13 @@ Ensuring adequate market liquidity is crucial for the execution of larger trades
 
 ### QuantConnect
 
-QuantConnect is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple asset classes and offers extensive [backtesting](../b/backtesting.md) capabilities, making it suitable for [low-frequency trading](../l/low-frequency_trading.md) strategies.
+[QuantConnect](../q/quantconnect.md) is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple asset classes and offers extensive [backtesting](../b/backtesting.md) capabilities, making it suitable for [low-frequency trading](../l/low-frequency_trading.md) strategies.
 
-- **QuantConnect**: [quantconnect.com](https://www.quantconnect.com/)
+- **[QuantConnect](../q/quantconnect.md)**: [quantconnect.com](https://www.quantconnect.com/)
 
 ### Algorithmic Trading Platforms
 
-Apart from QuantConnect, there are other platforms like MetaTrader (MT4 and MT5), TradeStation, and Interactive Brokers, which offer tools and features useful for [low-frequency trading](../l/low-frequency_trading.md) strategies.
+Apart from [QuantConnect](../q/quantconnect.md), there are other platforms like MetaTrader (MT4 and MT5), [TradeStation](../t/tradestation.md), and Interactive Brokers, which offer tools and features useful for [low-frequency trading](../l/low-frequency_trading.md) strategies.
 
 ### MetaTrader
 

@@ -40,8 +40,8 @@ In [algorithmic trading](../a/algorithmic_trading.md), UTV is used to enhance [t
 ### Tools and Platforms for Monitoring Unusual Trade Volume
 Several tools and platforms are available to monitor and analyze UTV:
 - **Yahoo Finance**: Offers historical and real-time volume data.
-- **Bloomberg Terminal**: Provides advanced analytics and volume tracking features.
-- **TradingView**: A popular charting tool that allows for detailed [volume analysis](../v/volume_analysis.md).
+- **[Bloomberg](../b/bloomberg.md) Terminal**: Provides advanced analytics and volume tracking features.
+- **[TradingView](../t/tradingview.md)**: A popular charting tool that allows for detailed [volume analysis](../v/volume_analysis.md).
 - **Finviz**: A financial visualization tool that helps identify unusual trade volumes across different securities.
 - **Python Libraries**: Libraries like Pandas, NumPy, and Scikit-learn can be used to develop custom algorithms for UTV detection.
 

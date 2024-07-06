@@ -66,8 +66,8 @@ Once deployed, the algorithm must continuously monitor the market for potential 
 Several platforms and tools can assist traders in developing and implementing upside breakout strategies:
 
 - **MetaTrader 4/5:** Widely used platforms that support automated trading through Expert Advisors (EAs).
-- **NinjaTrader:** A platform known for its advanced charting tools and support for automated [trading strategies](../t/trading_strategies.md).
-- **TradeStation:** A popular platform with extensive [backtesting](../b/backtesting.md) capabilities and support for [algorithmic trading](../a/algorithmic_trading.md).
+- **[NinjaTrader](../n/ninjatrader.md):** A platform known for its advanced charting tools and support for automated [trading strategies](../t/trading_strategies.md).
+- **[TradeStation](../t/tradestation.md):** A popular platform with extensive [backtesting](../b/backtesting.md) capabilities and support for [algorithmic trading](../a/algorithmic_trading.md).
 
 For more information, visit [MetaTrader](https://www.metaquotes.net) or [NinjaTrader](https://www.ninjatrader.com).
 

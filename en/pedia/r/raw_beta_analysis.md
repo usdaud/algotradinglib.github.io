@@ -52,9 +52,9 @@ Though Raw Beta offers valuable insights, it comes with certain limitations:
 
 Several companies offer advanced tools and platforms for Raw Beta and other financial analyses.
 
-1. **Bloomberg Terminal**: Bloomberg provides sophisticated analytics tools which include Raw Beta calculations for a vast array of financial instruments. More details can be accessed at [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/).
+1. **[Bloomberg](../b/bloomberg.md) Terminal**: [Bloomberg](../b/bloomberg.md) provides sophisticated analytics tools which include Raw Beta calculations for a vast array of financial instruments. More details can be accessed at [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/).
 
-2. **Morningstar**: Known for its wide array of financial data and research, Morningstar includes Raw Beta in its suite of tools for professional and individual investors. Learn more at [Morningstar](https://www.morningstar.com/).
+2. **[Morningstar](../m/morningstar.md)**: Known for its wide array of financial data and research, [Morningstar](../m/morningstar.md) includes Raw Beta in its suite of tools for professional and individual investors. Learn more at [Morningstar](https://www.morningstar.com/).
 
 ### Application in Funds
 

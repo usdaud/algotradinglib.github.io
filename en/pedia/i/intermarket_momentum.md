@@ -70,15 +70,15 @@ Oil prices often influence specific sectors within the equity markets. For examp
 
 Various tools and platforms facilitate intermarket [momentum analysis](../m/momentum_analysis.md):
 
-1. **Bloomberg Terminal**: Offers comprehensive data and analytics for multiple asset classes. 
+1. **[Bloomberg](../b/bloomberg.md) Terminal**: Offers comprehensive data and analytics for multiple asset classes. 
    - [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-2. **Thomson Reuters Eikon**: Provides extensive market data and tools for [intermarket analysis](../i/intermarket_analysis.md).
+2. **Thomson [Reuters](../r/reuters.md) Eikon**: Provides extensive market data and tools for [intermarket analysis](../i/intermarket_analysis.md).
    - [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)
-3. **TradingView**: A popular platform among retail traders for charting and [technical analysis](../t/technical_analysis.md), offering various [intermarket analysis](../i/intermarket_analysis.md) tools.
+3. **[TradingView](../t/tradingview.md)**: A popular platform among retail traders for charting and [technical analysis](../t/technical_analysis.md), offering various [intermarket analysis](../i/intermarket_analysis.md) tools.
    - [TradingView](https://www.tradingview.com/)
 4. **MetaTrader**: Widely used trading platform that supports various [intermarket analysis](../i/intermarket_analysis.md) indicators and custom algorithm implementation.
    - [MetaTrader](https://www.metatrader4.com/en)
-5. **MultiCharts**: Advanced trading platform offering robust [intermarket analysis](../i/intermarket_analysis.md) capabilities.
+5. **[MultiCharts](../m/multicharts.md)**: Advanced trading platform offering robust [intermarket analysis](../i/intermarket_analysis.md) capabilities.
    - [MultiCharts](https://www.multicharts.com/)
 
 ## Final Thoughts

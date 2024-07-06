@@ -37,7 +37,7 @@ Algorithmic traders can leverage market breadth analysis through the implementat
 
 ### Data Collection and Processing
 
-To perform market breadth analysis algorithmically, traders first need access to reliable market data. This includes historical and real-time data on stock prices, volumes, and other relevant metrics. Data providers like Bloomberg, Reuters, and Quandl offer comprehensive datasets that can be used for this purpose.
+To perform market breadth analysis algorithmically, traders first need access to reliable market data. This includes historical and real-time data on stock prices, volumes, and other relevant metrics. Data providers like [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), and [Quandl](../q/quandl.md) offer comprehensive datasets that can be used for this purpose.
 
 ### Developing Algorithms
 
@@ -67,7 +67,7 @@ Index fund managers also utilize market breadth analysis to manage their portfol
 
 ### Technical Analysis platforms
 
-Platforms like TradingView and MetaTrader offer built-in tools for market breadth analysis, allowing traders to easily incorporate breadth indicators into their [technical analysis](../t/technical_analysis.md) workflows. These platforms provide real-time data and advanced charting capabilities, facilitating more informed trading decisions.
+Platforms like [TradingView](../t/tradingview.md) and MetaTrader offer built-in tools for market breadth analysis, allowing traders to easily incorporate breadth indicators into their [technical analysis](../t/technical_analysis.md) workflows. These platforms provide real-time data and advanced charting capabilities, facilitating more informed trading decisions.
 
 ## Conclusion
 

@@ -110,10 +110,10 @@ Performance metrics are critical in decision-making processes for hedge funds, i
 ### 6.1 Tools and Platforms
 Several platforms and services facilitate the measurement and analysis of performance metrics, including but not limited to:
 
-- **QuantConnect**: [QuantConnect](https://www.quantconnect.com)
+- **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](https://www.quantconnect.com)
 - **Alpaca**: [Alpaca](https://alpaca.markets)
 - **Trailblaze Trading**: [Trailblaze Trading](https://www.trailblazetrading.com)
-- **NinjaTrader**: [NinjaTrader](https://www.ninjatrader.com)
+- **[NinjaTrader](../n/ninjatrader.md)**: [NinjaTrader](https://www.ninjatrader.com)
 
 ## Conclusion
 

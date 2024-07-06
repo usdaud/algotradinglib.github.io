@@ -17,7 +17,7 @@ The last price is the most recent price at which a security has been traded. It 
 Collecting accurate and reliable last price data is crucial. Several primary data sources include:
 
 1. **Stock Exchanges**: Official trading venues like NYSE, NASDAQ, provide real-time last price data.
-2. **Data Providers**: Companies such as Bloomberg, Reuters, and Intrinio offer comprehensive datasets.
+2. **Data Providers**: Companies such as [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), and [Intrinio](../i/intrinio.md) offer comprehensive datasets.
 3. **Brokers**: Online brokerage platforms like Interactive Brokers (https://www.interactivebrokers.com/) provide market data feeds.
 
 ## How Last Price is Calculated
@@ -76,9 +76,9 @@ Last price analysis plays a crucial role in managing trading risks:
 
 Several sophisticated platforms assist traders and analysts in conducting last price analysis:
 
-1. **Bloomberg Terminal (https://www.bloomberg.com/professional/solution/bloomberg-terminal/)**: Offers comprehensive analytics and real-time last price data.
-2. **Thomson Reuters Eikon (https://www.thomsonreuters.com/en/products-services/financial/trading/financial-trading-software.html)**: Provides in-depth market data and analytical tools.
-3. **TradingView (https://www.tradingview.com/)**: A popular platform for retail traders focusing on price charts and [technical analysis](../t/technical_analysis.md).
+1. **[Bloomberg](../b/bloomberg.md) Terminal (https://www.[bloomberg](../b/bloomberg.md).com/professional/solution/[bloomberg](../b/bloomberg.md)-terminal/)**: Offers comprehensive analytics and real-time last price data.
+2. **Thomson [Reuters](../r/reuters.md) Eikon (https://www.thomsonreuters.com/en/products-services/financial/trading/financial-trading-software.html)**: Provides in-depth market data and analytical tools.
+3. **[TradingView](../t/tradingview.md) (https://www.[tradingview](../t/tradingview.md).com/)**: A popular platform for retail traders focusing on price charts and [technical analysis](../t/technical_analysis.md).
 
 ## Conclusion
 

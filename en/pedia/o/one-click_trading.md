@@ -34,11 +34,11 @@ An advanced version of MT4, MetaTrader 5, also offers one-click trading. It incl
 
 ### NinjaTrader
 
-NinjaTrader is a popular trading platform for futures and forex traders. It features an efficient one-click trading mechanism, advanced charting tools, and a wealth of customization options. Detailed information can be found here: [NinjaTrader](https://ninjatrader.com).
+[NinjaTrader](../n/ninjatrader.md) is a popular trading platform for futures and forex traders. It features an efficient one-click trading mechanism, advanced charting tools, and a wealth of customization options. Detailed information can be found here: [NinjaTrader](https://ninjatrader.com).
 
 ### cTrader
 
-cTrader is known for its highly intuitive interface and advanced trading capabilities, including one-click trading. It is particularly favored among forex traders for its ease of use and range of features. Learn more about cTrader here: [cTrader](https://ctrader.com).
+[cTrader](../c/ctrader.md) is known for its highly intuitive interface and advanced trading capabilities, including one-click trading. It is particularly favored among forex traders for its ease of use and range of features. Learn more about [cTrader](../c/ctrader.md) here: [cTrader](https://ctrader.com).
 
 ### Interactive Brokers
 

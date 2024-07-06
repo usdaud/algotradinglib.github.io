@@ -84,7 +84,7 @@ High-frequency trading (HFT) firms, such as [Jump Trading](../j/jump_trading.md)
 
 ### Retail Algorithmic Trading Platforms
 
-Platforms like QuantConnect [QuantConnect](https://www.quantconnect.com/) and Algorithmia [Algorithmia](https://algorithmia.com/) offer tools and libraries to help individual traders develop and test strategies focused on return stability.
+Platforms like [QuantConnect](../q/quantconnect.md) [QuantConnect](https://www.quantconnect.com/) and Algorithmia [Algorithmia](https://algorithmia.com/) offer tools and libraries to help individual traders develop and test strategies focused on return stability.
 
 ## Challenges and Considerations
 

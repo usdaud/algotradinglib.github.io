@@ -22,7 +22,7 @@ Data is the lifeblood of momentum strategies. The primary inputs include:
 1. **Price Data**: Historical price data for the assets in question.
 2. **Volume Data**: Sometimes used to gauge the strength of the price movements.
 
-Data can be obtained from multiple sources, including financial databases like Bloomberg, Reuters, and more specialized financial data providers such as:
+Data can be obtained from multiple sources, including financial databases like [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), and more specialized financial data providers such as:
 
 - [Quandl](https://www.quandl.com/)
 - [Alpha Vantage](https://www.alphavantage.co/)

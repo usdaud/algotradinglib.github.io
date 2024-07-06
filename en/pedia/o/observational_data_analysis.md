@@ -14,7 +14,7 @@ Observational data in the context of financial markets include, but are not limi
 
 Observational data can be sourced through various means, including but not limited to:
 - **Market Exchanges**: Direct feeds from exchanges like NYSE, NASDAQ, CME.
-- **Financial Data Providers**: Companies such as Bloomberg, Reuters, and Morningstar.
+- **Financial Data Providers**: Companies such as [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), and [Morningstar](../m/morningstar.md).
 - **[Alternative Data](../a/alternative_data.md) Sources**: This includes [social media sentiment](../s/social_media_sentiment.md), news articles, satellite imagery, and corporate communications.
 
 ## Data Types and Structures

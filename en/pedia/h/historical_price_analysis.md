@@ -52,23 +52,23 @@ Moving averages smooth out price data by creating a constantly updated average p
 ### 1. Charting Software
 
 Charting software provides tools for visualizing price movements and identifying patterns. Popular charting platforms include:
-- **TradingView**: [TradingView](https://www.tradingview.com/)
+- **[TradingView](../t/tradingview.md)**: [TradingView](https://www.tradingview.com/)
 - **MetaTrader**: [MetaTrader](https://www.metatrader4.com/)
-- **Bloomberg Terminal**: [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+- **[Bloomberg](../b/bloomberg.md) Terminal**: [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
 ### 2. Data Analytics Platforms
 
 Data analytics platforms help in the sophisticated analysis of historical price data. They offer tools for statistical analysis, machine learning, and [predictive modeling](../p/predictive_modeling.md). Some noteworthy platforms are:
-- **QuantConnect**: [QuantConnect](https://www.quantconnect.com/)
+- **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](https://www.quantconnect.com/)
 - **Alpaca**: [Alpaca](https://alpaca.markets/)
 - **Kaggle**: [Kaggle](https://www.kaggle.com/)
 
 ### 3. Backtesting Software
 
 [Backtesting](../b/backtesting.md) software allows traders to test [trading strategies](../t/trading_strategies.md) using historical price data before applying them in live trading. Popular [backtesting](../b/backtesting.md) tools include:
-- **Quantlib**: [Quantlib](https://www.quantlib.org/)
-- **Amibroker**: [Amibroker](http://www.amibroker.com/)
-- **TradeStation**: [TradeStation](https://www.tradestation.com/)
+- **[Quantlib](../q/quantlib.md)**: [Quantlib](https://www.quantlib.org/)
+- **[Amibroker](../a/amibroker.md)**: [Amibroker](http://www.amibroker.com/)
+- **[TradeStation](../t/tradestation.md)**: [TradeStation](https://www.tradestation.com/)
 
 ## Methodologies in Historical Price Analysis
 

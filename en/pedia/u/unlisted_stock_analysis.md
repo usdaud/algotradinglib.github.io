@@ -24,7 +24,7 @@ Unlisted stock analysis refers to the detailed examination and evaluation of sec
 
 ## Data Sources for Unlisted Stocks
 
-- **FINRA OTC Bulletin Board**: Provides a platform for trading OTC securities. [FINRA OTCBB](https://www.finra.org/filing-reporting/otcbb)
+- **[FINRA](../f/finra.md) OTC Bulletin Board**: Provides a platform for trading OTC securities. [FINRA OTCBB](https://www.finra.org/filing-reporting/otcbb)
 - **Pink Sheets**: Information on a range of unlisted stocks, often those that don’t meet the standards of major exchanges. 
 - **Company Websites and Press Releases**: Direct information from the companies themselves.
 - **Private Marketplaces**: Platforms like EquityZen and SharesPost offer data and trading for stocks in private companies. [EquityZen](https://www.equityzen.com), [SharesPost](https://sharespost.com)
@@ -75,7 +75,7 @@ Unlisted stock analysis refers to the detailed examination and evaluation of sec
 ## Tools for Algotrading
 
 - **Python and R**: Popular programming languages for developing [trading algorithms](../t/trading_algorithms.md).
-- **QuantConnect**: An [algorithmic trading](../a/algorithmic_trading.md) platform that supports a wide range of asset classes. [QuantConnect](https://www.quantconnect.com)
+- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that supports a wide range of asset classes. [QuantConnect](https://www.quantconnect.com)
 - **Interactive Brokers**: Offers a robust API for implementing and executing [trading algorithms](../t/trading_algorithms.md). [Interactive Brokers](https://www.interactivebrokers.com)
 - **Alpha Vantage**: Provides APIs for accessing financial data and [performance metrics](../p/performance_metrics.md). [Alpha Vantage](https://www.alphavantage.co)
 

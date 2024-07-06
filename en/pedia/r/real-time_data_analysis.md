@@ -8,7 +8,7 @@ Real-time data analysis refers to the process of examining, processing, and repo
 
 - **Market Data:** Traders rely on real-time data feeds from exchanges such as the New York Stock Exchange (NYSE) and NASDAQ, which provide timely information on stock prices, volumes, and other market indicators.
   
-- **News Feeds:** Real-time news feeds play a crucial role as major news events can impact market movements. Companies like Bloomberg (https://www.bloomberg.com/) and Reuters (https://www.reuters.com/) offer real-time news services.
+- **News Feeds:** Real-time news feeds play a crucial role as major news events can impact market movements. Companies like [Bloomberg](../b/bloomberg.md) (https://www.[bloomberg](../b/bloomberg.md).com/) and [Reuters](../r/reuters.md) (https://www.[reuters](../r/reuters.md).com/) offer real-time news services.
 
 - **Social Media:** Platforms like Twitter offer APIs that can provide real-time [sentiment analysis](../s/sentiment_analysis.md) data. Services like StockTwits (https://stocktwits.com/) are also valuable sources.
 
@@ -26,7 +26,7 @@ Real-time data analysis refers to the process of examining, processing, and repo
 
 - **Statistical Analysis:** Techniques such as [linear regression](../l/linear_regression.md), [mean reversion](../m/mean_reversion.md), and statistical [arbitrage](../a/arbitrage.md) are applied to real-time data to develop [trading strategies](../t/trading_strategies.md).
 
-- **[Backtesting](../b/backtesting.md) Frameworks:** Before deploying an algorithm in the real market, it is backtested on historical data. Tools like QuantConnect (https://www.quantconnect.com/) offer robust frameworks for this purpose.
+- **[Backtesting](../b/backtesting.md) Frameworks:** Before deploying an algorithm in the real market, it is backtested on historical data. Tools like [QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/) offer robust frameworks for this purpose.
 
 ### 4. **Execution and Trade Optimization**
 
@@ -48,7 +48,7 @@ Real-time data analysis refers to the process of examining, processing, and repo
 
 ### Data Ingestion
 
-1. **Subscription to Data Feeds:** The first step is to subscribe to various data feeds. For example, connecting to a Bloomberg Terminal or integrating with Twitter's API.
+1. **Subscription to Data Feeds:** The first step is to subscribe to various data feeds. For example, connecting to a [Bloomberg](../b/bloomberg.md) Terminal or integrating with Twitter's API.
   
 2. **[Data Normalization](../d/data_normalization.md):** Once data is ingested from different sources, it needs to be normalized and standardized for consistency. 
 

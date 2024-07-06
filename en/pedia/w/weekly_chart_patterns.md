@@ -87,15 +87,15 @@ Machine learning models can enhance [pattern recognition](../p/pattern_recogniti
 Several platforms and tools support weekly chart pattern analysis for [algorithmic trading](../a/algorithmic_trading.md):
 
 - **MetaTrader**: Offers built-in indicators and allows custom algorithm implementation.
-- **TradingView**: Provides extensive charting tools with [pattern recognition](../p/pattern_recognition.md) features.
-- **QuantConnect**: An [algorithmic trading](../a/algorithmic_trading.md) platform that supports [pattern recognition](../p/pattern_recognition.md) and [backtesting](../b/backtesting.md).
+- **[TradingView](../t/tradingview.md)**: Provides extensive charting tools with [pattern recognition](../p/pattern_recognition.md) features.
+- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that supports [pattern recognition](../p/pattern_recognition.md) and [backtesting](../b/backtesting.md).
 
 ### 4. **Brokerage Integration**
 
 To execute trades based on weekly [chart patterns](../c/chart_patterns.md), traders can integrate their algorithms with brokerage APIs:
 
 - **Interactive Brokers**: Offers an API for executing trades directly from algorithmic strategies. [Interactive Brokers API](https://www.interactivebrokers.com/en/index.php?f=5041)
-- **TD Ameritrade**: Provides [algorithmic trading](../a/algorithmic_trading.md) capabilities through its thinkorswim platform. [TD Ameritrade API](https://developer.tdameritrade.com/)
+- **TD Ameritrade**: Provides [algorithmic trading](../a/algorithmic_trading.md) capabilities through its [thinkorswim](../t/thinkorswim.md) platform. [TD Ameritrade API](https://developer.tdameritrade.com/)
 - **Alpaca**: A commission-free trading platform with API access. [Alpaca API](https://alpaca.markets/docs/api-documentation/)
 
 ### 5. **Risk Mitigation**

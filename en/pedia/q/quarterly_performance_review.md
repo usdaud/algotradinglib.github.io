@@ -60,12 +60,12 @@ Conducting a QPR in the domain of algotrading involves a systematic approach:
 
 ### Case Study: QuantConnect
 
-QuantConnect [QuantConnect](https://www.quantconnect.com/) is a notable platform in the field of algotrading that provides tools for developing, testing, and deploying [trading algorithms](../t/trading_algorithms.md). They conduct Quarterly Performance Reviews to ensure their strategies remain effective and competitive.
+[QuantConnect](../q/quantconnect.md) [QuantConnect](https://www.quantconnect.com/) is a notable platform in the field of algotrading that provides tools for developing, testing, and deploying [trading algorithms](../t/trading_algorithms.md). They conduct Quarterly Performance Reviews to ensure their strategies remain effective and competitive.
 
 #### QuantConnect’s QPR Process
 
 1. **Data Analytics and Insights**
-   - QuantConnect leverages advanced analytics to monitor the performance of managed algorithms.
+   - [QuantConnect](../q/quantconnect.md) leverages advanced analytics to monitor the performance of managed algorithms.
    - They perform in-depth analysis on the effectiveness of strategies, incorporating significant market events and trends.
 
 2. **Technical Evaluation**
@@ -77,7 +77,7 @@ QuantConnect [QuantConnect](https://www.quantconnect.com/) is a notable platform
    - Conducts quarterly risk assessments to manage exposure and identify potential issues.
 
 4. **Client Reporting**
-   - QuantConnect prepares detailed performance reports for clients, focusing on key [performance indicators](../p/performance_indicators.md) (KPIs).
+   - [QuantConnect](../q/quantconnect.md) prepares detailed performance reports for clients, focusing on key [performance indicators](../p/performance_indicators.md) (KPIs).
    - Presents insights on [portfolio diversification](../p/portfolio_diversification.md) and trading efficiency to clients.
 
 ### Benefits of QPR in Algotrading
@@ -99,4 +99,4 @@ QuantConnect [QuantConnect](https://www.quantconnect.com/) is a notable platform
 
 ## Conclusion
 
-Quarterly Performance Review is a critical process for businesses and traders, particularly in the field of [algorithmic trading](../a/algorithmic_trading.md). It provides a structured approach to evaluating performance, identifying areas for improvement, and ensuring alignment with strategic goals. Companies like QuantConnect exemplify the importance and benefits of conducting thorough QPRs, contributing to sustained success in the highly competitive trading industry. By systematically analyzing [performance metrics](../p/performance_metrics.md), market conditions, and [risk management](../r/risk_management.md) strategies, traders can optimize their algorithms and achieve better trading outcomes.
+Quarterly Performance Review is a critical process for businesses and traders, particularly in the field of [algorithmic trading](../a/algorithmic_trading.md). It provides a structured approach to evaluating performance, identifying areas for improvement, and ensuring alignment with strategic goals. Companies like [QuantConnect](../q/quantconnect.md) exemplify the importance and benefits of conducting thorough QPRs, contributing to sustained success in the highly competitive trading industry. By systematically analyzing [performance metrics](../p/performance_metrics.md), market conditions, and [risk management](../r/risk_management.md) strategies, traders can optimize their algorithms and achieve better trading outcomes.

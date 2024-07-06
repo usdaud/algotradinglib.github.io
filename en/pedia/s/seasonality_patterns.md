@@ -54,8 +54,8 @@ A working paper by Bouman and Jacobsen (2002) found evidence supporting this ada
 
 Several tools and platforms can help traders implement seasonality-based strategies:
 - **Python Libraries**: Libraries like `Pandas`, `NumPy`, and `statsmodels` can be used for statistical analysis and [backtesting](../b/backtesting.md).
-- **QuantConnect**: A platform that provides data, [backtesting](../b/backtesting.md), and deployment tools for [algorithmic trading](../a/algorithmic_trading.md). [QuantConnect](https://www.quantconnect.com)
-- **TradingView**: A social network for traders and investors on Stock, Futures, and Forex markets which provides trading charts support and script-based automation. [TradingView](https://www.tradingview.com)
+- **[QuantConnect](../q/quantconnect.md)**: A platform that provides data, [backtesting](../b/backtesting.md), and deployment tools for [algorithmic trading](../a/algorithmic_trading.md). [QuantConnect](https://www.quantconnect.com)
+- **[TradingView](../t/tradingview.md)**: A social network for traders and investors on Stock, Futures, and Forex markets which provides trading charts support and script-based automation. [TradingView](https://www.tradingview.com)
 
 ### Challenges and Limitations
 
@@ -68,4 +68,4 @@ Several tools and platforms can help traders implement seasonality-based strateg
 
 Seasonality patterns offer valuable insights that can be leveraged to enhance the profitability of [algorithmic trading](../a/algorithmic_trading.md) strategies. From the [January Effect](../j/january_effect.md) to intraday seasonal trends, understanding and exploiting these patterns can provide a competitive edge. However, it is essential to approach the implementation of seasonality in [algorithmic trading](../a/algorithmic_trading.md) with rigorous statistical analysis and robust [backtesting](../b/backtesting.md) to ensure that the strategies are both effective and reliable.
 
-For further reading on empirical research and methodologies in seasonality, traders can refer to resources from universities and financial research institutions. Engaging with platforms like QuantConnect and TradingView also helps to stay updated with [real-time market data](../r/real-time_market_data.md) and [backtesting](../b/backtesting.md) environments.
+For further reading on empirical research and methodologies in seasonality, traders can refer to resources from universities and financial research institutions. Engaging with platforms like [QuantConnect](../q/quantconnect.md) and [TradingView](../t/tradingview.md) also helps to stay updated with [real-time market data](../r/real-time_market_data.md) and [backtesting](../b/backtesting.md) environments.

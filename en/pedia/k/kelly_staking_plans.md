@@ -88,7 +88,7 @@ While the [Kelly Criterion](../k/kelly_criterion.md) has strong theoretical foun
 Several fintech companies and trading platforms integrate the [Kelly Criterion](../k/kelly_criterion.md) into their [trading algorithms](../t/trading_algorithms.md) and [portfolio management](../p/portfolio_management.md) tools:
 
 - **Algonox**: Specializes in [algorithmic trading](../a/algorithmic_trading.md) solutions, integrating mathematical models, including Kelly-based strategies. [Algonox](https://www.algonox.com/)
-- **QuantConnect**: An open [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools for designing, testing, and executing strategies, with support for [Kelly Criterion](../k/kelly_criterion.md) implementations. [QuantConnect](https://www.quantconnect.com/)
+- **[QuantConnect](../q/quantconnect.md)**: An open [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools for designing, testing, and executing strategies, with support for [Kelly Criterion](../k/kelly_criterion.md) implementations. [QuantConnect](https://www.quantconnect.com/)
 - **Tradeworx**: Leveraging advanced analytics and [quantitative models](../q/quantitative_models.md), Tradeworx employs sophisticated strategies, including Kelly-based approaches, to manage hedge funds. [Tradeworx](http://www.tradeworx.com/)
 
 ## Conclusion

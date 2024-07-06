@@ -58,12 +58,12 @@ Several tools and platforms provide advanced capabilities for order book analysi
 
 ### Trading Platforms
 
-Many trading platforms like MetaTrader 5, TradeStation, and NinjaTrader offer integrated tools for analyzing order books.
+Many trading platforms like MetaTrader 5, [TradeStation](../t/tradestation.md), and [NinjaTrader](../n/ninjatrader.md) offer integrated tools for analyzing order books.
 
 ### Third-Party Analytics Tools
 
 - **Bookmap [Bookmap](https://www.bookmap.com/)**: A popular tool for visualizing order book data in real-time, providing heatmaps and other visual cues to understand market depth and order flow.
-- **QuantConnect [QuantConnect](https://www.quantconnect.com/)**: Provides a comprehensive platform for [algorithmic trading](../a/algorithmic_trading.md) and includes tools for order book analysis.
+- **[QuantConnect](../q/quantconnect.md) [QuantConnect](https://www.quantconnect.com/)**: Provides a comprehensive platform for [algorithmic trading](../a/algorithmic_trading.md) and includes tools for order book analysis.
 
 ### Proprietary Software
 

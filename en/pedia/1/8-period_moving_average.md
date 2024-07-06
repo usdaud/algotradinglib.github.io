@@ -83,7 +83,7 @@ Large financial institutions and hedge funds often implement moving averages as 
 
 ### Retail Investors
 
-Retail investors can also benefit from using the 8-Period MA, especially those who engage in [day trading](../d/day_trading.md) or [swing trading](../s/swing_trading.md). Platforms like MetaTrader, NinjaTrader, and TradingView provide tools that allow individual traders to add moving averages to their charts and incorporate them into their trading plans.
+Retail investors can also benefit from using the 8-Period MA, especially those who engage in [day trading](../d/day_trading.md) or [swing trading](../s/swing_trading.md). Platforms like MetaTrader, [NinjaTrader](../n/ninjatrader.md), and [TradingView](../t/tradingview.md) provide tools that allow individual traders to add moving averages to their charts and incorporate them into their trading plans.
 
 ### Brokerages
 

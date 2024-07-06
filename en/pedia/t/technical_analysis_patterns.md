@@ -52,13 +52,13 @@ The primary significance of [technical analysis](../t/technical_analysis.md) pat
 
 Several tools and platforms facilitate the recognition and analysis of technical patterns, making it easier for both manual and automated traders. Some popular platforms include:
 
-1. **TradingView:** A widely used platform offering advanced charting tools, social networking features, and a comprehensive library of technical patterns.
+1. **[TradingView](../t/tradingview.md):** A widely used platform offering advanced charting tools, social networking features, and a comprehensive library of technical patterns.
    [Visit TradingView](https://www.tradingview.com)
 
 2. **MetaTrader:** A popular trading platform that supports custom indicators and [automated trading systems](../a/automated_trading_systems.md), allowing traders to implement and backtest their technical pattern strategies.
    [Visit MetaTrader](https://www.metatrader4.com)
 
-3. **NinjaTrader:** An advanced platform providing powerful [technical analysis](../t/technical_analysis.md) tools and [pattern recognition](../p/pattern_recognition.md) capabilities, suitable for both discretionary and algorithmic traders.
+3. **[NinjaTrader](../n/ninjatrader.md):** An advanced platform providing powerful [technical analysis](../t/technical_analysis.md) tools and [pattern recognition](../p/pattern_recognition.md) capabilities, suitable for both discretionary and algorithmic traders.
    [Visit NinjaTrader](https://ninjatrader.com)
 
 ### Conclusion

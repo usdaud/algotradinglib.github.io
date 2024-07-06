@@ -74,8 +74,8 @@ There are various ways to gauge market sentiment, and the advancement of technol
 
 ### 5. **Backtesting**
    - **Description**: Testing the strategy against historical data to evaluate performance.
-   - **Tools**: Backtrader, QuantConnect.
-   - **Example**: QuantConnect (https://www.quantconnect.com) for [backtesting](../b/backtesting.md) and live trading.
+   - **Tools**: [Backtrader](../b/backtrader.md), [QuantConnect](../q/quantconnect.md).
+   - **Example**: [QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com) for [backtesting](../b/backtesting.md) and live trading.
 
 ### 6. **Live Trading**
    - **Description**: Implementing the strategy in real-time trading.

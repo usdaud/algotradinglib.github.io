@@ -82,8 +82,8 @@ In [algorithmic trading](../a/algorithmic_trading.md), yield curves are used for
 
 Several financial institutions and companies specialize in [yield curve](../y/yield_curve.md) construction and analysis. Here are a few significant ones:
 
-- **Bloomberg**: They provide comprehensive financial data and analytics, including [yield curve](../y/yield_curve.md) analytics (https://www.bloomberg.com).
-- **Thomson Reuters**: Offers extensive fixed income data and [yield curve](../y/yield_curve.md) analysis tools (https://www.refinitiv.com).
+- **[Bloomberg](../b/bloomberg.md)**: They provide comprehensive financial data and analytics, including [yield curve](../y/yield_curve.md) analytics (https://www.[bloomberg](../b/bloomberg.md).com).
+- **Thomson [Reuters](../r/reuters.md)**: Offers extensive fixed income data and [yield curve](../y/yield_curve.md) analysis tools (https://www.refinitiv.com).
 - **ICE Data Services**: Provides [yield curve](../y/yield_curve.md) data and analytics for various markets (https://www.theice.com).
 - **Quantitative Brokers**: Specializes in [algorithmic trading](../a/algorithmic_trading.md) and fixed income analytics (https://www.quantitativebrokers.com).
 

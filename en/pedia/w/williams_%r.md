@@ -173,7 +173,7 @@ For example, firms like Citadel Securities and Virtu Financial may incorporate W
 
 #### Retail Investors
 
-Platforms like MetaTrader or TradeStation allow retail investors to implement Williams %R in their custom algorithms. These platforms typically provide [backtesting](../b/backtesting.md) tools to validate strategies before deployment.
+Platforms like MetaTrader or [TradeStation](../t/tradestation.md) allow retail investors to implement Williams %R in their custom algorithms. These platforms typically provide [backtesting](../b/backtesting.md) tools to validate strategies before deployment.
 
 ---
 

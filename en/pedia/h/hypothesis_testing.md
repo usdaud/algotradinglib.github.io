@@ -102,9 +102,9 @@ Before implementing a trading model, hypothesis testing ensures its robustness a
 
 Several tools and platforms facilitate hypothesis testing in [algorithmic trading](../a/algorithmic_trading.md):
 
-1. **QuantConnect**: An [algorithmic trading](../a/algorithmic_trading.md) platform that provides [backtesting](../b/backtesting.md), data analysis, and hypothesis testing capabilities. Visit [QuantConnect](https://www.quantconnect.com/) for more information.
+1. **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that provides [backtesting](../b/backtesting.md), data analysis, and hypothesis testing capabilities. Visit [QuantConnect](https://www.quantconnect.com/) for more information.
 2. **Zipline**: An open-source [backtesting](../b/backtesting.md) library for Python. Find it at [Zipline GitHub](https://github.com/quantopian/zipline).
-3. **Quantlib**: Provides a comprehensive suite for [quantitative analysis](../q/quantitative_analysis.md) and [trading systems](../t/trading_systems.md) development. Visit [Quantlib](https://www.quantlib.org/).
+3. **[Quantlib](../q/quantlib.md)**: Provides a comprehensive suite for [quantitative analysis](../q/quantitative_analysis.md) and [trading systems](../t/trading_systems.md) development. Visit [Quantlib](https://www.quantlib.org/).
 
 ### Conclusion
 

@@ -79,8 +79,8 @@ A related concept is statistical [arbitrage](../a/arbitrage.md), which involves 
 
 Several software platforms offer tools for risk [arbitrage](../a/arbitrage.md):
 
-- **Bloomberg Terminal**: Provides comprehensive data and analysis tools for monitoring and analyzing mergers and acquisitions ([Bloomberg](https://www.bloomberg.com/)).
-- **FactSet**: Offers detailed analysis and tracking of M&A deals ([FactSet](https://www.factset.com/)).
+- **[Bloomberg](../b/bloomberg.md) Terminal**: Provides comprehensive data and analysis tools for monitoring and analyzing mergers and acquisitions ([Bloomberg](https://www.bloomberg.com/)).
+- **[FactSet](../f/factset.md)**: Offers detailed analysis and tracking of M&A deals ([FactSet](https://www.factset.com/)).
 - **Capital IQ**: Provides data and analytics for financial professionals, including M&A deal tracking ([Capital IQ](https://www.capitaliq.com/)).
 
 ## Role of Hedge Funds

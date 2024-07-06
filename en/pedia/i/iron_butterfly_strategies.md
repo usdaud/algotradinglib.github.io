@@ -60,9 +60,9 @@ The [Iron Butterfly](../i/iron_butterfly.md) strategy may have tax implications,
 
 ## Tools and Resources
 Several brokers and trading platforms offer tools and resources to help traders construct and manage [Iron Butterfly](../i/iron_butterfly.md) strategies, including:
-- **ThinkOrSwim by TD Ameritrade**: [TD Ameritrade](https://www.tdameritrade.com/thinkorswim.html)
+- **[ThinkOrSwim](../t/thinkorswim.md) by TD Ameritrade**: [TD Ameritrade](https://www.tdameritrade.com/thinkorswim.html)
 - **Interactive Brokers**: [Interactive Brokers](https://www.interactivebrokers.com/)
-- **TradeStation**: [TradeStation](https://www.tradestation.com/)
+- **[TradeStation](../t/tradestation.md)**: [TradeStation](https://www.tradestation.com/)
 - **Tastyworks**: [Tastyworks](https://www.tastyworks.com/)
 
 These platforms provide sophisticated analytical tools, extensive educational materials, and support for managing complex option positions.

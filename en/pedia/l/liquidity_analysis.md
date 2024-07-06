@@ -62,23 +62,23 @@ Several tools and technologies are available for conducting liquidity analysis:
 
 ### Trading Platforms
 
-1. **Bloomberg Terminal**: Offers a comprehensive set of tools for liquidity analysis, including real-time data, analytics, and visualization.
+1. **[Bloomberg](../b/bloomberg.md) Terminal**: Offers a comprehensive set of tools for liquidity analysis, including real-time data, analytics, and visualization.
    - [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-2. **Thomson Reuters Eikon**: Provides extensive market data and analytical tools to assess liquidity across various asset classes.
+2. **Thomson [Reuters](../r/reuters.md) Eikon**: Provides extensive market data and analytical tools to assess liquidity across various asset classes.
    - [Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)
 
 ### Algorithmic Trading Software
 
-1. **QuantConnect**: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform offering tools for developing and [backtesting](../b/backtesting.md) liquidity analysis strategies.
+1. **[QuantConnect](../q/quantconnect.md)**: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform offering tools for developing and [backtesting](../b/backtesting.md) liquidity analysis strategies.
    - [QuantConnect](https://www.quantconnect.com/)
-2. **AlgoTrader**: Provides [algorithmic trading](../a/algorithmic_trading.md) software that integrates liquidity analysis tools and market data feeds.
+2. **[AlgoTrader](../a/algotrader.md)**: Provides [algorithmic trading](../a/algorithmic_trading.md) software that integrates liquidity analysis tools and market data feeds.
    - [AlgoTrader](https://www.algotrader.com/)
 
 ### Data Providers
 
-1. **Xignite**: Offers financial market data APIs for accessing real-time and historical data, aiding liquidity analysis.
+1. **[Xignite](../x/xignite.md)**: Offers financial market data APIs for accessing real-time and historical data, aiding liquidity analysis.
    - [Xignite](https://www.xignite.com/)
-2. **Quandl**: An [alternative data](../a/alternative_data.md) service providing access to a wide range of financial and economic data.
+2. **[Quandl](../q/quandl.md)**: An [alternative data](../a/alternative_data.md) service providing access to a wide range of financial and economic data.
    - [Quandl](https://www.quandl.com/)
 
 ## Challenges in Liquidity Analysis

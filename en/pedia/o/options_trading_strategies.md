@@ -1,6 +1,6 @@
 # Options Trading Strategies
 
-Options trading strategies are methods that traders employ to maximize their returns and minimize risks when trading options. Options are financial derivatives that give traders the right, but not the obligation, to buy or sell an underlying asset at a predetermined price before a specified date. Unlike stocks, the value of options is derived from the value of another asset, such as stocks, indices, or commodities. This makes options trading both complex and strategically diverse. 
+Options [trading strategies](../t/trading_strategies.md) are methods that traders employ to maximize their returns and minimize risks when trading options. Options are financial [derivatives](../d/derivatives.md) that give traders the right, but not the obligation, to buy or sell an underlying asset at a predetermined price before a specified date. Unlike stocks, the value of options is derived from the value of another asset, such as stocks, indices, or commodities. This makes options trading both complex and strategically diverse. 
 
 ## Key Concepts in Options Trading
 

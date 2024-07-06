@@ -30,7 +30,7 @@ The software tools for algorithmic cryptocurrency trading can range from custom-
 Examples of popular libraries and tools include:
 
 - **CCXT (CryptoCurrency eXchange Trading Library)**: A JavaScript / Python / PHP cryptocurrency trading API with support for many exchanges [CCXT](https://github.com/ccxt/ccxt).
-- **QuantConnect**: An [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools for developing, [backtesting](../b/backtesting.md), and deploying [trading algorithms](../t/trading_algorithms.md) [QuantConnect](https://www.quantconnect.com/).
+- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools for developing, [backtesting](../b/backtesting.md), and deploying [trading algorithms](../t/trading_algorithms.md) [QuantConnect](https://www.quantconnect.com/).
 
 ### Hardware
 

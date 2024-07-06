@@ -45,7 +45,7 @@ In its simplest form, brute force optimization involves these steps:
 
 Several trading firms and institutions utilize brute force optimization to enhance their [trading algorithms](../t/trading_algorithms.md). Some notable examples include:
 
-- **QuantConnect:** An online platform providing tools for [algorithmic trading](../a/algorithmic_trading.md) and [backtesting](../b/backtesting.md). QuantConnect allows users to run brute force optimization on their [trading strategies](../t/trading_strategies.md) to identify the best parameter combinations. More information can be found [here](https://www.quantconnect.com).
+- **[QuantConnect](../q/quantconnect.md):** An online platform providing tools for [algorithmic trading](../a/algorithmic_trading.md) and [backtesting](../b/backtesting.md). [QuantConnect](../q/quantconnect.md) allows users to run brute force optimization on their [trading strategies](../t/trading_strategies.md) to identify the best parameter combinations. More information can be found [here](https://www.quantconnect.com).
 
 - **Kensho Technologies:** A data analytics and trading technology company that applies brute force optimization among other AI techniques to improve [trading strategies](../t/trading_strategies.md). More information can be found [here](https://www.kensho.com).
 

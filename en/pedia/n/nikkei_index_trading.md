@@ -131,7 +131,7 @@ Regularly reviewing and adjusting [trading strategies](../t/trading_strategies.m
 Several tools and trading platforms can assist traders in executing Nikkei 225 [trading strategies](../t/trading_strategies.md) efficiently. Some of the popular ones include:
 
 - **MetaTrader 4 and 5**: Widely used platforms that support [algorithmic trading](../a/algorithmic_trading.md) and provide numerous analytical tools.
-- **Bloomberg Terminal**: Comprehensive financial software system offering real-time data, news, and analytics.
+- **[Bloomberg](../b/bloomberg.md) Terminal**: Comprehensive financial software system offering real-time data, news, and analytics.
 - **Interactive Brokers**: Offers extensive tools for international trading, including direct market access to the Tokyo Stock Exchange.
 
 For more information on these platforms, visit their respective websites:

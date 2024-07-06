@@ -98,7 +98,7 @@ MetaTrader is one of the most popular trading platforms among technical analysts
 
 ### TradingView
 
-TradingView is a web-based platform renowned for its comprehensive charting tools and social community features. It allows traders to share ideas and collaborate on [trading strategies](../t/trading_strategies.md).
+[TradingView](../t/tradingview.md) is a web-based platform renowned for its comprehensive charting tools and social community features. It allows traders to share ideas and collaborate on [trading strategies](../t/trading_strategies.md).
 
 ## Conclusion
 

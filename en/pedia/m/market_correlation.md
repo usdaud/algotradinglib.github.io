@@ -57,8 +57,8 @@ Modern Portfolio Theory (MPT), introduced by Harry Markowitz, emphasizes the imp
 
 Several software platforms provide tools for analyzing and visualizing market correlation:
 
-1. **Bloomberg Terminal**: Offers comprehensive analytics and visualization tools for examining asset correlations, accessible via [Bloomberg](https://www.bloomberg.com).
-2. **Reuters Eikon**: Another platform providing in-depth market analytics, available at [Reuters](https://www.refinitiv.com/en/products/eikon-trading-software).
+1. **[Bloomberg](../b/bloomberg.md) Terminal**: Offers comprehensive analytics and visualization tools for examining asset correlations, accessible via [Bloomberg](https://www.bloomberg.com).
+2. **[Reuters](../r/reuters.md) Eikon**: Another platform providing in-depth market analytics, available at [Reuters](https://www.refinitiv.com/en/products/eikon-trading-software).
 3. **Yahoo Finance**: Offers basic correlation tools suitable for retail investors, available at [Yahoo Finance](https://finance.yahoo.com).
 4. **Python Libraries**: For algo-traders, libraries like pandas, NumPy, and statsmodels can be used to compute and visualize correlations programmatically.
 

@@ -30,7 +30,7 @@ Statistical [arbitrage](../a/arbitrage.md) strategies use mathematical models to
 ### Components of an Algorithmic Trading System
 
 #### 1. **Data Collection**
-High-quality, real-time data is crucial for [algorithmic trading](../a/algorithmic_trading.md) systems. This includes historical price data, trading volumes, order book information, and even news feeds. Services like Bloomberg or Reuters provide such data, which algorithms consume to make informed decisions.
+High-quality, real-time data is crucial for [algorithmic trading](../a/algorithmic_trading.md) systems. This includes historical price data, trading volumes, order book information, and even news feeds. Services like [Bloomberg](../b/bloomberg.md) or [Reuters](../r/reuters.md) provide such data, which algorithms consume to make informed decisions.
 
 #### 2. **Algorithm Development**
 Developing algorithms involves programming [trading strategies](../t/trading_strategies.md) based on predefined rules. Languages commonly used include Python, R, C++, and Java. Complex algorithms may also incorporate machine learning techniques to adapt to new data.

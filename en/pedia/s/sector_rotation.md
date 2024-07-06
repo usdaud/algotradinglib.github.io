@@ -64,7 +64,7 @@ Modern tools and technologies have significantly enhanced the ability to impleme
 
 ### 1. Bloomberg Terminal
 
-Bloomberg Terminal is widely used for comprehensive financial analytics, real-time data, and news that can help investors in making informed decisions regarding [sector performance](../s/sector_performance.md).
+[Bloomberg](../b/bloomberg.md) Terminal is widely used for comprehensive financial analytics, real-time data, and news that can help investors in making informed decisions regarding [sector performance](../s/sector_performance.md).
 
 ### 2. Refinitiv Eikon
 

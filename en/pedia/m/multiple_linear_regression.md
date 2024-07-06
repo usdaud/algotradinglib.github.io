@@ -47,7 +47,7 @@ In [algorithmic trading](../a/algorithmic_trading.md), multiple [linear regressi
 1. **Two Sigma**: Employs advanced statistical models, including MLR, to predict market trends and inform trading decisions.
    - [Two Sigma Website](https://www.twosigma.com)
 
-2. **QuantConnect**: Provides a platform for [algorithmic trading](../a/algorithmic_trading.md) where users can develop [trading strategies](../t/trading_strategies.md) using multiple [linear regression](../l/linear_regression.md) and other advanced statistical models.
+2. **[QuantConnect](../q/quantconnect.md)**: Provides a platform for [algorithmic trading](../a/algorithmic_trading.md) where users can develop [trading strategies](../t/trading_strategies.md) using multiple [linear regression](../l/linear_regression.md) and other advanced statistical models.
    - [QuantConnect Website](https://www.quantconnect.com)
 
 ### Implementation Using Python and R

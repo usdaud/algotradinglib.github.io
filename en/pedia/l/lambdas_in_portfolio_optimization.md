@@ -70,7 +70,7 @@ Numerous platforms and software integrate lambda in [portfolio optimization](../
 - **Portfolio Visualizer**: Allows users to adjust risk aversion parameters and see the impact on portfolio allocations.
   - [Portfolio Visualizer](https://www.portfoliovisualizer.com)
 
-- **QuantConnect**: Provides a [backtesting](../b/backtesting.md) engine where users can implement custom lambda-based optimization algorithms.
+- **[QuantConnect](../q/quantconnect.md)**: Provides a [backtesting](../b/backtesting.md) engine where users can implement custom lambda-based optimization algorithms.
   - [QuantConnect](https://www.quantconnect.com)
 
 - **Matlab Financial Toolbox**: Offers functions for [mean-variance optimization](../m/mean-variance_optimization.md) that include lambda as a parameter.

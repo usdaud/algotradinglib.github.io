@@ -32,7 +32,7 @@ The market for 2-Year Treasury notes is vast and liquid, involving a wide array 
 
 ### Data Sources and Access
 
-Algorithmic traders rely on real-time and historical data for making informed decisions. Data on the 2-Year Yield can be sourced from a variety of financial market data providers. Sources include Bloomberg, Reuters, the Federal Reserve Economic Data (FRED) platform, and financial websites such as MarketWatch and CNBC.
+Algorithmic traders rely on real-time and historical data for making informed decisions. Data on the 2-Year Yield can be sourced from a variety of financial market data providers. Sources include [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), the Federal Reserve Economic Data (FRED) platform, and financial websites such as MarketWatch and CNBC.
 
 ### Trading Strategies Utilizing 2-Year Yield
 

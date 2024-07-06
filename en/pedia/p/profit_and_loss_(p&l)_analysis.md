@@ -76,7 +76,7 @@ Numerous tools and software solutions are available to facilitate P&L analysis i
 
 ### 1. Trading Analytics Platforms
 
-Platforms such as QuantConnect, Alpaca, and Quantopian [QuantConnect](https://www.quantconnect.com/) provide robust analytics and back-testing tools for [algorithmic trading](../a/algorithmic_trading.md). They offer features to analyze and report P&L effectively.
+Platforms such as [QuantConnect](../q/quantconnect.md), Alpaca, and Quantopian [QuantConnect](https://www.quantconnect.com/) provide robust analytics and back-testing tools for [algorithmic trading](../a/algorithmic_trading.md). They offer features to analyze and report P&L effectively.
 
 ### 2. Financial Software
 

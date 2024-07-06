@@ -86,8 +86,8 @@ While MPO is a powerful tool, it is important to consider certain limitations an
 Several trading platforms and software tools provide integrated MPO indicators, facilitating its use in [algorithmic trading](../a/algorithmic_trading.md):
 
 - **MetaTrader 4/5:** Popular among retail traders, MetaTrader offers custom indicators and automated trading capabilities, including the Median Price Oscillator.
-- **NinjaTrader:** This platform supports a wide range of [technical indicators](../t/technical_indicators.md) including MPO, with the ability to develop, test, and execute automated [trading strategies](../t/trading_strategies.md).
-- **TradingView:** Known for its user-friendly interface, TradingView provides scripting capabilities and a community-driven environment to create and share MPO-based strategies.
+- **[NinjaTrader](../n/ninjatrader.md):** This platform supports a wide range of [technical indicators](../t/technical_indicators.md) including MPO, with the ability to develop, test, and execute automated [trading strategies](../t/trading_strategies.md).
+- **[TradingView](../t/tradingview.md):** Known for its user-friendly interface, [TradingView](../t/tradingview.md) provides scripting capabilities and a community-driven environment to create and share MPO-based strategies.
 
 ## Conclusion
 

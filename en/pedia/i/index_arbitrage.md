@@ -66,7 +66,7 @@ Index [arbitrage](../a/arbitrage.md) activities are regulated by financial autho
 
 - **U.S. Securities and Exchange Commission (SEC):** The SEC oversees securities markets, including the trading practices employed by market participants.
 - **[Commodity Futures](../c/commodity_futures.md) Trading Commission (CFTC):** This body regulates futures and options markets in the U.S., including [index futures](../i/index_futures.md).
-- **Financial Industry Regulatory Authority (FINRA):** FINRA monitors firms and brokers engaged in trading activities to enforce compliance with legal and ethical standards.
+- **Financial Industry Regulatory Authority ([FINRA](../f/finra.md)):** [FINRA](../f/finra.md) monitors firms and brokers engaged in trading activities to enforce compliance with legal and ethical standards.
 
 ### Conclusion
 

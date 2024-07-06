@@ -75,10 +75,10 @@ MATLAB is a high-performance language for technical computing. It integrates com
 Python and R have become the go-to programming languages for financial analysts due to their flexibility and wide range of libraries tailored for [quantitative analysis](../q/quantitative_analysis.md). 
 
 ### QuantConnect
-QuantConnect (https://www.quantconnect.com) is an open-source [algorithmic trading](../a/algorithmic_trading.md) platform providing access to historical data and [backtesting](../b/backtesting.md) capabilities.
+[QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com) is an open-source [algorithmic trading](../a/algorithmic_trading.md) platform providing access to historical data and [backtesting](../b/backtesting.md) capabilities.
 
 ### Quantlib
-Quantlib (http://quantlib.org/) is a free and open-source library for [quantitative finance](../q/quantitative_finance.md). It provides tools for modeling, trading, and [risk management](../r/risk_management.md) in real-life.
+[Quantlib](../q/quantlib.md) (http://[quantlib](../q/quantlib.md).org/) is a free and open-source library for [quantitative finance](../q/quantitative_finance.md). It provides tools for modeling, trading, and [risk management](../r/risk_management.md) in real-life.
 
 ## Institutions and Firms Utilizing Quantitative Hedging
 

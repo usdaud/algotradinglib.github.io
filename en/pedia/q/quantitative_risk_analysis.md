@@ -16,7 +16,7 @@ The foundation of quantitative [risk analysis](../r/risk_analysis.md) is high-qu
 - **[Economic Indicators](../e/economic_indicators.md):** Macroeconomic data like inflation rates, GDP growth, and unemployment rates.
 
 #### Data Sources
-Sources of data can be varied, including market exchanges, financial news outlets, and specialized financial data providers like Bloomberg [www.bloomberg.com](https://www.bloomberg.com), Reuters [www.reuters.com](https://www.reuters.com), and QuantConnect [www.quantconnect.com](https://www.quantconnect.com).
+Sources of data can be varied, including market exchanges, financial news outlets, and specialized financial data providers like [Bloomberg](../b/bloomberg.md) [www.bloomberg.com](https://www.bloomberg.com), [Reuters](../r/reuters.md) [www.reuters.com](https://www.reuters.com), and [QuantConnect](../q/quantconnect.md) [www.quantconnect.com](https://www.quantconnect.com).
 
 ### 2. Statistical Methods and Probability Theory
 

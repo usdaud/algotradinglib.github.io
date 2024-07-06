@@ -127,7 +127,7 @@ Several companies offer advanced [algorithmic trading](../a/algorithmic_trading.
 
 **TD Ameritrade:** [TD Ameritrade](https://www.tdameritrade.com) facilitates numerous order types, including advanced conditional orders and robust algorithmic order execution.
 
-**TradeStation:** [TradeStation](https://www.tradestation.com) supports a comprehensive suite of order types and automated [trading strategies](../t/trading_strategies.md), enabling traders to execute sophisticated algorithmic trades.
+**[TradeStation](../t/tradestation.md):** [TradeStation](https://www.tradestation.com) supports a comprehensive suite of order types and automated [trading strategies](../t/trading_strategies.md), enabling traders to execute sophisticated algorithmic trades.
 
 ### Conclusion
 

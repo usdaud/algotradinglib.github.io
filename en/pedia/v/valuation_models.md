@@ -25,7 +25,7 @@ Where:
 In [algorithmic trading](../a/algorithmic_trading.md), DCF can be implemented to automate investment decisions. Algorithms can continuously update cash flow projections and discount rates based on real-time data, ensuring the valuation reflects current market conditions. Traders can use this to build strategies that identify undervalued or overvalued stocks.
 
 ### Example
-- QuantConnect offers DCF modeling as part of their [algorithmic trading](../a/algorithmic_trading.md) platform, providing tools to automate these valuations. More information can be found at [QuantConnect](https://www.quantconnect.com/).
+- [QuantConnect](../q/quantconnect.md) offers DCF modeling as part of their [algorithmic trading](../a/algorithmic_trading.md) platform, providing tools to automate these valuations. More information can be found at [QuantConnect](https://www.quantconnect.com/).
 
 ## Comparable Company Analysis (CCA)
 
@@ -66,7 +66,7 @@ Where:
 Algorithms can continuously update book values, net income, and cost of equity based on financial statements and market data. This dynamic updating process ensures the valuations remain timely and accurate.
 
 ### Example
-- FactSet provides extensive financial data and tools, facilitating the implementation of RIM in [algorithmic trading](../a/algorithmic_trading.md) strategies. More information can be found at [FactSet](https://www.factset.com/).
+- [FactSet](../f/factset.md) provides extensive financial data and tools, facilitating the implementation of RIM in [algorithmic trading](../a/algorithmic_trading.md) strategies. More information can be found at [FactSet](https://www.factset.com/).
 
 ## Dividend Discount Model (DDM)
 
@@ -90,7 +90,7 @@ Where:
 Algorithms can automate the projection of future dividends and adjust for changes in growth rates and required returns, providing an efficient way to value dividend-paying stocks.
 
 ### Example
-- Bloomberg Terminal provides robust tools for dividend discount modeling, aiding in the creation of automated [trading strategies](../t/trading_strategies.md). More information can be found at [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/).
+- [Bloomberg](../b/bloomberg.md) Terminal provides robust tools for dividend discount modeling, aiding in the creation of automated [trading strategies](../t/trading_strategies.md). More information can be found at [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/).
 
 ## Earnings Power Value (EPV) Model
 
@@ -112,7 +112,7 @@ Where:
 In [algorithmic trading](../a/algorithmic_trading.md), EPV can be used to quickly assess whether a stock is trading at, above, or below its intrinsic value based on current earnings. Real-time [data integration](../d/data_integration.md) ensures that the valuation is current and reflective of any significant market changes.
 
 ### Example
-- Tradestation offers platforms that support EPV calculations through real-time data and analysis tools. More information can be found at [Tradestation](https://www.tradestation.com/).
+- [Tradestation](../t/tradestation.md) offers platforms that support EPV calculations through real-time data and analysis tools. More information can be found at [Tradestation](https://www.tradestation.com/).
 
 ## Conclusion
 

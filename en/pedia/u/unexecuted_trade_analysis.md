@@ -76,7 +76,7 @@ Post these amendments, the unexecuted trade rate fell from 15% to 8% in subseque
 ## Tools and Technologies Involved
 
 1. **Data Aggregators**:
-   Tools like Bloomberg Terminal and Reuters Eikon can provide real-time and historical market data for analysis.
+   Tools like [Bloomberg](../b/bloomberg.md) Terminal and [Reuters](../r/reuters.md) Eikon can provide real-time and historical market data for analysis.
 
 2. **Latency Monitoring**:
    Software such as Corvil and SolarWinds can track and analyze latency issues within the trading infrastructure.
@@ -85,7 +85,7 @@ Post these amendments, the unexecuted trade rate fell from 15% to 8% in subseque
    R, Python (with libraries such as Pandas, NumPy, and SciPy), and SAS are pivotal in conducting rigorous statistical analyses of unexecuted trades.
 
 4. **[Backtesting](../b/backtesting.md) Platforms**:
-   Platforms like QuantConnect and AlgoTrader allow for comprehensive [backtesting](../b/backtesting.md), including unexecuted trades scenario modeling.
+   Platforms like [QuantConnect](../q/quantconnect.md) and [AlgoTrader](../a/algotrader.md) allow for comprehensive [backtesting](../b/backtesting.md), including unexecuted trades scenario modeling.
 
 5. **Simulation Tools**:
    [Monte Carlo simulation](../m/monte_carlo_simulation.md) frameworks can be built using Python or R and integrated into [trading strategies](../t/trading_strategies.md) to estimate the impact of random market conditions on unexecuted trades.

@@ -19,7 +19,7 @@ The cornerstone of payoff optimization is the risk-return trade-off. This princi
 ## Techniques and Methods
 
 ### A. Backtesting
-[Backtesting](../b/backtesting.md) is a method used to test the viability of a trading strategy using historical data. By simulating trades over past market conditions, traders can gauge how their strategies would have performed and make necessary adjustments. Tools like Python’s `backtrader` library and platforms like MetaTrader are widely used for [backtesting](../b/backtesting.md).
+[Backtesting](../b/backtesting.md) is a method used to test the viability of a trading strategy using historical data. By simulating trades over past market conditions, traders can gauge how their strategies would have performed and make necessary adjustments. Tools like Python’s `[backtrader](../b/backtrader.md)` library and platforms like MetaTrader are widely used for [backtesting](../b/backtesting.md).
 
 ### B. Portfolio Optimization
 [Portfolio optimization](../p/portfolio_optimization.md) focuses on optimizing the distribution of assets within a portfolio to maximize expected returns for a given level of risk. Harry Markowitz’s Modern Portfolio Theory (MPT) is foundational in this area, using concepts like the [Efficient Frontier](../e/efficient_frontier.md) and [Sharpe Ratio](../s/sharpe_ratio.md) to determine optimal [asset allocation](../a/asset_allocation.md).
@@ -59,7 +59,7 @@ Regular performance evaluation is essential to assess the effectiveness of a tra
 MATLAB is a high-level language and interactive environment used by traders and analysts for algorithm development, data analysis, and numerical computation. It is particularly useful for developing custom [trading strategies](../t/trading_strategies.md) and conducting complex analyses.
 
 ### 4. Python Libraries
-Python, with its extensive libraries like `Pandas`, `NumPy`, `SciPy`, and `Scikit-learn`, is a popular choice for [algorithmic trading](../a/algorithmic_trading.md). Libraries like `backtrader` and `Zipline` are specifically designed for [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md).
+Python, with its extensive libraries like `Pandas`, `NumPy`, `SciPy`, and `Scikit-learn`, is a popular choice for [algorithmic trading](../a/algorithmic_trading.md). Libraries like `[backtrader](../b/backtrader.md)` and `Zipline` are specifically designed for [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md).
 
 ## Applications and Case Studies
 
@@ -70,7 +70,7 @@ High-frequency trading leverages advanced algorithms and high-speed data feeds t
 [Quantitative hedge funds](../q/quantitative_hedge_funds.md), like Renaissance Technologies and Two Sigma, use sophisticated mathematical models and algorithms to optimize payoffs. These funds employ teams of PhDs in mathematics, physics, and computer science to develop [proprietary trading](../p/proprietary_trading.md) strategies.
 
 ### C. Retail Algorithmic Trading
-Retail investors are increasingly using [algorithmic trading](../a/algorithmic_trading.md) platforms to optimize payoffs. Platforms like QuantConnect and MetaTrader provide retail traders with access to tools and technologies previously available only to institutional investors.
+Retail investors are increasingly using [algorithmic trading](../a/algorithmic_trading.md) platforms to optimize payoffs. Platforms like [QuantConnect](../q/quantconnect.md) and MetaTrader provide retail traders with access to tools and technologies previously available only to institutional investors.
 
 ## Future Directions
 

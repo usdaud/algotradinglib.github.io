@@ -75,4 +75,4 @@ print(df[['%K', '%D']])
 
 Overall, the stochastic oscillator remains a crucial tool for traders aiming to optimize entry and exit points. It offers clarity in visualizing market momentum and navigating potential market reversals. Although no single indicator is foolproof, the stochastic oscillator's robust methodology and ease of integration into different [trading strategies](../t/trading_strategies.md) make it an indispensable part of any trader’s toolkit. 
 
-For a more in-depth perspective or specialized stochastic oscillator tools, companies like TradingView (https://www.tradingview.com) offer comprehensive charting resources and community discussions for avid traders.
+For a more in-depth perspective or specialized stochastic oscillator tools, companies like [TradingView](../t/tradingview.md) (https://www.[tradingview](../t/tradingview.md).com) offer comprehensive charting resources and community discussions for avid traders.

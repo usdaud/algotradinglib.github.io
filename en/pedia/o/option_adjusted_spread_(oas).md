@@ -57,7 +57,7 @@ The OAS is extensively used by professional investors, including portfolio manag
 
 A number of financial institutions and analytics firms specialize in the calculation and analysis of OAS:
 
-1. **Bloomberg L.P.**: Provides comprehensive financial data and analytics tools for calculating OAS. (https://www.bloomberg.com)
+1. **[Bloomberg](../b/bloomberg.md) L.P.**: Provides comprehensive financial data and analytics tools for calculating OAS. (https://www.[bloomberg](../b/bloomberg.md).com)
 2. **Moody’s Analytics**: Offers advanced fixed-income analytics solutions, including OAS calculations. (https://www.moodysanalytics.com)
 3. **S&P Global Ratings**: Provides credit ratings and fixed-income analytics, including the analysis of OAS. (https://www.spglobal.com/ratings)
 

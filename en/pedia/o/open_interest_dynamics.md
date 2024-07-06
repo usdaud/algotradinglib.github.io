@@ -75,17 +75,17 @@ In [equity options](../e/equity_options.md) trading, suppose the open interest o
 
 Several analytical tools and platforms offer detailed insights into open interest dynamics, making it easier for traders to incorporate this metric into their strategies:
 
-1. **TradingView [Link](https://www.tradingview.com/):**
-   TradingView offers comprehensive charts and data, allowing traders to analyze open interest alongside other [technical indicators](../t/technical_indicators.md).
+1. **[TradingView](../t/tradingview.md) [Link](https://www.tradingview.com/):**
+   [TradingView](../t/tradingview.md) offers comprehensive charts and data, allowing traders to analyze open interest alongside other [technical indicators](../t/technical_indicators.md).
 
-2. **Thinkorswim by TD Ameritrade [Link](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page):**
-   Thinkorswim provides robust tools for monitoring open interest, including historical data and integration with [options trading strategies](../o/options_trading_strategies.md).
+2. **[Thinkorswim](../t/thinkorswim.md) by TD Ameritrade [Link](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page):**
+   [Thinkorswim](../t/thinkorswim.md) provides robust tools for monitoring open interest, including historical data and integration with [options trading strategies](../o/options_trading_strategies.md).
 
 3. **Interactive Brokers [Link](https://www.interactivebrokers.com/):**
    Interactive Brokers offers extensive market data and analytics, including open interest tracking for all major [derivatives](../d/derivatives.md) markets.
 
-4. **NinjaTrader [Link](https://ninjatrader.com/):**
-   NinjaTrader is a popular platform among futures traders, offering advanced open interest analytics and integration with automated [trading strategies](../t/trading_strategies.md).
+4. **[NinjaTrader](../n/ninjatrader.md) [Link](https://ninjatrader.com/):**
+   [NinjaTrader](../n/ninjatrader.md) is a popular platform among futures traders, offering advanced open interest analytics and integration with automated [trading strategies](../t/trading_strategies.md).
 
 ## Advanced Concepts in Open Interest Dynamics
 
@@ -105,4 +105,4 @@ Open interest dynamics can also be a predictor of market volatility. A significa
 
 Open interest is an indispensable tool in the arsenal of traders and financial analysts. Its ability to provide insights into market sentiment, liquidity, and potential price movements makes it a critical component of any comprehensive market analysis strategy. By understanding the dynamics of open interest and incorporating them into their trading decisions, market participants can gain a competitive edge and enhance their ability to navigate the complexities of the financial markets.
 
-For those interested in delving deeper into technical aspects and live data, numerous platforms like TradingView, Thinkorswim, Interactive Brokers, and NinjaTrader offer advanced tools to track and analyze open interest. By integrating these insights with broader market analysis, traders can improve their decision-making processes and achieve better trading outcomes.
+For those interested in delving deeper into technical aspects and live data, numerous platforms like [TradingView](../t/tradingview.md), [Thinkorswim](../t/thinkorswim.md), Interactive Brokers, and [NinjaTrader](../n/ninjatrader.md) offer advanced tools to track and analyze open interest. By integrating these insights with broader market analysis, traders can improve their decision-making processes and achieve better trading outcomes.

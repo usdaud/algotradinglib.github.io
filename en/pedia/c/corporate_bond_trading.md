@@ -65,10 +65,10 @@ The majority of corporate bond trading occurs in over-the-counter (OTC) markets,
 
 ### 2. **Electronic Trading Platforms**
 
-Technological advancements have led to the emergence of electronic trading platforms, such as MarketAxess and Tradeweb, which provide greater transparency and efficiency in the bond market. These platforms allow market participants to execute trades electronically.
+Technological advancements have led to the emergence of electronic trading platforms, such as [MarketAxess](../m/marketaxess.md) and Tradeweb, which provide greater transparency and efficiency in the bond market. These platforms allow market participants to execute trades electronically.
 
 #### References
-- MarketAxess: [https://www.marketaxess.com/](https://www.marketaxess.com/)
+- [MarketAxess](../m/marketaxess.md): [https://www.marketaxess.com/](https://www.marketaxess.com/)
 - Tradeweb: [https://www.tradeweb.com/](https://www.tradeweb.com/)
 
 ### 3. **Fixed Income Exchanges**
@@ -92,10 +92,10 @@ In the United States, the SEC oversees corporate bond markets, ensuring complian
 
 ### 2. **Financial Industry Regulatory Authority (FINRA)**
 
-FINRA regulates broker-dealers and oversees activities in the corporate bond market to ensure fair and transparent trading practices.
+[FINRA](../f/finra.md) regulates broker-dealers and oversees activities in the corporate bond market to ensure fair and transparent trading practices.
 
 #### References
-- FINRA: [https://www.finra.org/](https://www.finra.org/)
+- [FINRA](../f/finra.md): [https://www.finra.org/](https://www.finra.org/)
 
 ### 3. **International Regulatory Bodies**
 

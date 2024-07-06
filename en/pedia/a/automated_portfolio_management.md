@@ -30,7 +30,7 @@ Automated [Portfolio Management](../p/portfolio_management.md) (APM) refers to t
 
 1. **Momentum Investing**
    - **Concept**: Investing in assets that have shown an upward price trend and selling those that have shown a downward trend.
-   - **Example**: QuantConnect and AlphaVantage APIs to fetch financial data and create momentum-based strategies.
+   - **Example**: [QuantConnect](../q/quantconnect.md) and AlphaVantage APIs to fetch financial data and create momentum-based strategies.
 
 2. **[Mean Reversion](../m/mean_reversion.md)**
    - **Concept**: The price of an asset will revert to its mean or average value over time.
@@ -55,12 +55,12 @@ Automated [Portfolio Management](../p/portfolio_management.md) (APM) refers to t
    - **Wealthfront**: [Website](https://www.wealthfront.com/)
 
 2. **[Algorithmic Trading](../a/algorithmic_trading.md) Platforms**
-   - **QuantConnect**: [Website](https://www.quantconnect.com/)
+   - **[QuantConnect](../q/quantconnect.md)**: [Website](https://www.quantconnect.com/)
    - **Alpaca**: [Website](https://alpaca.markets/)
 
 3. **Data Providers**
    - **Alpha Vantage**: [Website](https://www.alphavantage.co/)
-   - **Quandl (Acquired by Nasdaq)**: [Website](https://www.quandl.com/)
+   - **[Quandl](../q/quandl.md) (Acquired by Nasdaq)**: [Website](https://www.quandl.com/)
 
 ## Benefits of Automated Portfolio Management
 

@@ -47,7 +47,7 @@ Execution quality analysis involves various methodologies to evaluate and improv
 Modern technology plays a crucial role in execution quality analysis. Key tools and technologies include:
 
 - **Algo Trading Platforms**: Advanced [algorithmic trading](../a/algorithmic_trading.md) platforms provide built-in analytics for monitoring and evaluating execution quality.
-- **Analytics Software**: Specialized software such as Bloomberg [Transaction Cost Analysis](../t/transaction_cost_analysis.md) (BTCA) (https://www.bloomberg.com/professional/product/transaction-cost-analysis/) and Abel Noser Solutions (https://www.abelnoser.com/) offer comprehensive TCA solutions.
+- **Analytics Software**: Specialized software such as [Bloomberg](../b/bloomberg.md) [Transaction Cost Analysis](../t/transaction_cost_analysis.md) (BTCA) (https://www.[bloomberg](../b/bloomberg.md).com/professional/product/transaction-cost-analysis/) and Abel Noser Solutions (https://www.abelnoser.com/) offer comprehensive TCA solutions.
 - **Machine Learning**: Utilizing machine learning algorithms to predict market movements, optimize trade execution, and reduce slippage and market impact.
 - **Data Analytics**: Big data analytics help in analyzing large volumes of trade data to identify patterns, trends, and anomalies that can impact execution quality.
 

@@ -53,13 +53,13 @@ Several tools and technologies facilitate the analysis and application of learni
 
 1. **Data Processing Tools:** Pandas, NumPy, and Dask help in managing and preprocessing large datasets efficiently.
 2. **Machine Learning Frameworks:** TensorFlow, PyTorch, and Scikit-learn are popular frameworks for building and training models.
-3. **Trading Platforms:** Platforms like MetaTrader, QuantConnect, and NinjaTrader provide environments for implementing, [backtesting](../b/backtesting.md), and deploying [trading strategies](../t/trading_strategies.md).
+3. **Trading Platforms:** Platforms like MetaTrader, [QuantConnect](../q/quantconnect.md), and [NinjaTrader](../n/ninjatrader.md) provide environments for implementing, [backtesting](../b/backtesting.md), and deploying [trading strategies](../t/trading_strategies.md).
 4. **Visualization Tools:** Matplotlib, Seaborn, and Plotly are useful for visualizing learning curves and other [performance metrics](../p/performance_metrics.md).
    
 ### Case Studies
 
 1. **Hedge Fund Learning Curves:** Hedge funds that employ [algorithmic trading](../a/algorithmic_trading.md) continuously refine their strategies through machine learning. Firms like [Two Sigma](https://www.twosigma.com/) leverage learning curves to optimize [trading models](../t/trading_models.md), resulting in significant improvements in P&L.
-2. **Retail Traders:** Retail traders using platforms like QuantConnect or MetaTrader can also benefit from understanding and applying learning curves. These platforms provide the necessary tools to visualize and analyze learning curves for various [trading strategies](../t/trading_strategies.md).
+2. **Retail Traders:** Retail traders using platforms like [QuantConnect](../q/quantconnect.md) or MetaTrader can also benefit from understanding and applying learning curves. These platforms provide the necessary tools to visualize and analyze learning curves for various [trading strategies](../t/trading_strategies.md).
 3. **High-Frequency Trading (HFT):** HFT firms rely heavily on learning curves to maintain their competitive edge. Rapid adaptation to market micro-structures is critical, and learning curves help these firms optimize their algorithms for speed and accuracy.
 
 ### Conclusion

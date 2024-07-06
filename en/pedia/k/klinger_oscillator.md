@@ -142,7 +142,7 @@ Institutions like [QuantInsti](https://www.quantinsti.com/) provide comprehensiv
 
 ### Application in Trading Platforms
 
-Trading platforms such as MetaTrader, TradingView, and ThinkorSwim offer built-in functionalities or plugins to implement and visualize the Klinger Oscillator.
+Trading platforms such as MetaTrader, [TradingView](../t/tradingview.md), and [ThinkorSwim](../t/thinkorswim.md) offer built-in functionalities or plugins to implement and visualize the Klinger Oscillator.
 
 1. [MetaTrader](https://www.metatrader4.com/)
 2. [TradingView](https://www.tradingview.com/)

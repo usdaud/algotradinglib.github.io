@@ -130,10 +130,10 @@ Investment firms and financial institutions use [factor models](../f/factor_mode
 
 Several software tools and platforms are available to support quantitative factor modeling:
 
-1. **Bloomberg Terminal**: Provides access to a wide range of data and analytical tools for factor modeling.
+1. **[Bloomberg](../b/bloomberg.md) Terminal**: Provides access to a wide range of data and analytical tools for factor modeling.
    [Bloomberg](https://www.bloomberg.com)
 2. **R and Python**: Open-source programming languages with extensive libraries for statistical analysis and factor modeling.
-3. **FactSet**: Offers a suite of tools for [portfolio management](../p/portfolio_management.md) and [factor analysis](../f/factor_analysis.md).
+3. **[FactSet](../f/factset.md)**: Offers a suite of tools for [portfolio management](../p/portfolio_management.md) and [factor analysis](../f/factor_analysis.md).
    [FactSet](https://www.factset.com)
 
 ## Challenges and Limitations

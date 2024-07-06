@@ -60,9 +60,9 @@ Consider a quantitative hedge fund using a long-short equity strategy that invol
 
 Several software solutions and platforms assist traders and firms with compliance related to the wash sale rule:
 
-- **Built-in Compliance Modules**: Trading platforms such as Interactive Brokers and ThinkOrSwim offer built-in tools to track wash sales automatically.
+- **Built-in Compliance Modules**: Trading platforms such as Interactive Brokers and [ThinkOrSwim](../t/thinkorswim.md) offer built-in tools to track wash sales automatically.
 - **Tax Calculation Software**: Applications like TradeLog provide extensive tax lot tracking and wash sale rule calculations, tailored for active traders.
-- **Custom Algorithms**: Firms may develop custom algorithms using platforms like QuantConnect or data analysts who write bespoke functions in languages like Python/R to dynamically adjust to wash sale implications.
+- **Custom Algorithms**: Firms may develop custom algorithms using platforms like [QuantConnect](../q/quantconnect.md) or data analysts who write bespoke functions in languages like Python/R to dynamically adjust to wash sale implications.
 
 ### Legal and Regulatory Aspects
 

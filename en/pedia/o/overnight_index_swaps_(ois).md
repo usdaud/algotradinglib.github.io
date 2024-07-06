@@ -63,8 +63,8 @@ The compounded interest continues for the rest of the 30 days. At the end of the
 
 Several major financial institutions, exchanges, and clearinghouses play pivotal roles in the OIS market. Some notable entities include:
 
-1. **Bloomberg LP**:
-   [Bloomberg](https://www.bloomberg.com/) provides a wide range of financial data and analytics platforms, including tools for OIS analysis and trading. Bloomberg's systems are widely used by traders and analysts for [real-time market data](../r/real-time_market_data.md) and pricing.
+1. **[Bloomberg](../b/bloomberg.md) LP**:
+   [Bloomberg](https://www.bloomberg.com/) provides a wide range of financial data and analytics platforms, including tools for OIS analysis and trading. [Bloomberg](../b/bloomberg.md)'s systems are widely used by traders and analysts for [real-time market data](../r/real-time_market_data.md) and pricing.
 
 2. **Intercontinental Exchange (ICE)**:
    [Intercontinental Exchange](https://www.theice.com/) offers various financial products and services, including trading platforms for [interest rate swaps](../i/interest_rate_swaps.md). ICE provides clearing and [risk management](../r/risk_management.md) services for OIS transactions.
@@ -96,4 +96,4 @@ Several major financial institutions, exchanges, and clearinghouses play pivotal
 
 Overnight Index Swaps are crucial financial instruments used for hedging, benchmarking, and [risk management](../r/risk_management.md) in the interest rate markets. With their floating rate typically linked to a central bank's overnight rate, OIS provide a relatively straightforward mechanism for managing short-term interest rate exposure. Despite the various risks associated with OIS, the widespread use of central clearing and robust financial infrastructures helps mitigate many of these concerns. Financial institutions, corporate treasuries, and investors rely on OIS not only for direct financial management but also as a key component in the broader landscape of financial [derivatives](../d/derivatives.md) and interest rate markets.
 
-Given the complexity and technical aspects of OIS, ongoing education, sophisticated modeling, and robust [risk management](../r/risk_management.md) practices are essential for anyone looking to effectively utilize these instruments. Through platforms provided by entities like Bloomberg, ICE, LCH, and CME Group, participants can engage in OIS trading with confidence and accuracy.
+Given the complexity and technical aspects of OIS, ongoing education, sophisticated modeling, and robust [risk management](../r/risk_management.md) practices are essential for anyone looking to effectively utilize these instruments. Through platforms provided by entities like [Bloomberg](../b/bloomberg.md), ICE, LCH, and CME Group, participants can engage in OIS trading with confidence and accuracy.

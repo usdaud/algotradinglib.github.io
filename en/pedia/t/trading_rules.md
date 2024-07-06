@@ -57,9 +57,9 @@ Once formulated, trading rules need to be implemented within a trading system. T
 ### Tools and Technologies
 
 There are various tools and platforms available for developing and implementing trading rules:
-- **Trading Platforms**: Software such as MetaTrader, NinjaTrader, and Interactive Brokers’ API.
+- **Trading Platforms**: Software such as MetaTrader, [NinjaTrader](../n/ninjatrader.md), and Interactive Brokers’ API.
 - **Programming Languages**: Languages like Python, C++, and R are popular for [algorithmic trading](../a/algorithmic_trading.md) due to their extensive libraries and support for data manipulation.
-- **Data Providers**: Companies like Bloomberg, Reuters, and Quandl provide the necessary market data for [backtesting](../b/backtesting.md) and live trading.
+- **Data Providers**: Companies like [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), and [Quandl](../q/quandl.md) provide the necessary market data for [backtesting](../b/backtesting.md) and live trading.
 
 ## Case Study: Renaissance Technologies
 

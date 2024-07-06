@@ -39,7 +39,7 @@ Where:
 
 ### Real-World Examples and Companies
 
-1. **QuantConnect**: QuantConnect provides an open-source [algorithmic trading](../a/algorithmic_trading.md) platform where users can design, backtest, and deploy [trading algorithms](../t/trading_algorithms.md). They offer extensive documentation and tutorials that often discuss the use of log returns in strategy development.
+1. **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](../q/quantconnect.md) provides an open-source [algorithmic trading](../a/algorithmic_trading.md) platform where users can design, backtest, and deploy [trading algorithms](../t/trading_algorithms.md). They offer extensive documentation and tutorials that often discuss the use of log returns in strategy development.
 
    [QuantConnect](https://www.quantconnect.com/)
 

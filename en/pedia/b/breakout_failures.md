@@ -78,11 +78,11 @@ Wealth-Lab (https://www.wealth-lab.com/) offers a robust [backtesting](../b/back
 
 #### Example 2: QuantConnect
 
-QuantConnect (https://www.quantconnect.com/) provides an open-source platform for [algorithmic trading](../a/algorithmic_trading.md). Users can utilize extensive historical data and machine learning libraries to develop sophisticated strategies that account for breakout failures.
+[QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/) provides an open-source platform for [algorithmic trading](../a/algorithmic_trading.md). Users can utilize extensive historical data and machine learning libraries to develop sophisticated strategies that account for breakout failures.
 
 #### Example 3: TradeStation
 
-TradeStation (https://www.tradestation.com/) allows traders to create custom algorithms with EasyLanguage, incorporating rules to detect and respond to breakout failures efficiently.
+[TradeStation](../t/tradestation.md) (https://www.[tradestation](../t/tradestation.md).com/) allows traders to create custom algorithms with EasyLanguage, incorporating rules to detect and respond to breakout failures efficiently.
 
 ---
 
@@ -93,8 +93,8 @@ Breakout failures are a common pitfall in trading, but with the right approach, 
 **References**
 
 - Wealth-Lab: [Wealth-Lab Website](https://www.wealth-lab.com/)
-- QuantConnect: [QuantConnect Website](https://www.quantconnect.com/)
-- TradeStation: [TradeStation Website](https://www.tradestation.com/)
+- [QuantConnect](../q/quantconnect.md): [QuantConnect Website](https://www.quantconnect.com/)
+- [TradeStation](../t/tradestation.md): [TradeStation Website](https://www.tradestation.com/)
 
 ---
 

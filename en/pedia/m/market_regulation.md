@@ -22,7 +22,7 @@ In the [derivatives](../d/derivatives.md) markets, the CFTC has jurisdiction. It
 
 #### 2.3. Financial Industry Regulatory Authority (FINRA)
 
-FINRA works closely with the SEC to oversee brokerage firms and exchange markets, enforcing rules that safeguard market integrity and investor protection related to [algorithmic trading](../a/algorithmic_trading.md).
+[FINRA](../f/finra.md) works closely with the SEC to oversee brokerage firms and exchange markets, enforcing rules that safeguard market integrity and investor protection related to [algorithmic trading](../a/algorithmic_trading.md).
 
 - **Link**: [FINRA](https://www.finra.org)
 

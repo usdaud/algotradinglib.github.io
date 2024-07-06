@@ -79,18 +79,18 @@ These strategies incorporate machine learning and artificial intelligence techni
 ## Implementing Automated Trading Systems
 
 ### Choosing the Right Platform
-Selecting the appropriate platform is foundational for implementing automated [trading systems](../t/trading_systems.md). Popular platforms include MetaTrader, NinjaTrader, QuantConnect, and proprietary systems developed by top firms. Each platform offers different features, including scripting languages, data feeds, [backtesting](../b/backtesting.md) capabilities, and execution speed.
+Selecting the appropriate platform is foundational for implementing automated [trading systems](../t/trading_systems.md). Popular platforms include MetaTrader, [NinjaTrader](../n/ninjatrader.md), [QuantConnect](../q/quantconnect.md), and proprietary systems developed by top firms. Each platform offers different features, including scripting languages, data feeds, [backtesting](../b/backtesting.md) capabilities, and execution speed.
 
 - **MetaTrader**:
   MetaTrader is widely used for forex and CFD trading. It supports automated trading through its MQL5 scripting language, enabling traders to develop custom algorithms and indicators.
   [MetaTrader](https://www.metaquotes.net)
 
-- **NinjaTrader**:
-  NinjaTrader provides a comprehensive suite of tools for [backtesting](../b/backtesting.md), optimization, and live trading. It supports C# programming for creating custom strategies.
+- **[NinjaTrader](../n/ninjatrader.md)**:
+  [NinjaTrader](../n/ninjatrader.md) provides a comprehensive suite of tools for [backtesting](../b/backtesting.md), optimization, and live trading. It supports C# programming for creating custom strategies.
   [NinjaTrader](https://www.ninjatrader.com)
 
-- **QuantConnect**:
-  QuantConnect offers an open-source platform for [algorithmic trading](../a/algorithmic_trading.md), supporting multiple asset classes and programming languages such as Python, C#, and F#. It provides a community for sharing and improving [trading algorithms](../t/trading_algorithms.md).
+- **[QuantConnect](../q/quantconnect.md)**:
+  [QuantConnect](../q/quantconnect.md) offers an open-source platform for [algorithmic trading](../a/algorithmic_trading.md), supporting multiple asset classes and programming languages such as Python, C#, and F#. It provides a community for sharing and improving [trading algorithms](../t/trading_algorithms.md).
   [QuantConnect](https://www.quantconnect.com)
 
 ### Programming Languages

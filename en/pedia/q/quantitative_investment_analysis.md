@@ -6,7 +6,7 @@ Quantitative investment analysis is a discipline that applies mathematical and s
 
 1. **Data Collection and Management**
    - This is the initial stage in the process of [quantitative analysis](../q/quantitative_analysis.md). It involves gathering and organizing vast amounts of financial and market data. This data can include historical prices, volume, financial statements, [economic indicators](../e/economic_indicators.md), and news feeds. The data needs to be accurate and clean to be useful in modeling and analysis.
-   - Financial data vendors like Bloomberg ([link](https://www.bloomberg.com)), Thomson Reuters ([link](https://www.thomsonreuters.com)), and Quandl ([link](https://www.quandl.com)) provide comprehensive data services.
+   - Financial data vendors like [Bloomberg](../b/bloomberg.md) ([link](https://www.bloomberg.com)), Thomson [Reuters](../r/reuters.md) ([link](https://www.thomsonreuters.com)), and [Quandl](../q/quandl.md) ([link](https://www.quandl.com)) provide comprehensive data services.
 
 2. **Data Preprocessing**
    - Raw data often needs to be processed before it can be used in [quantitative analysis](../q/quantitative_analysis.md). This step involves handling missing values, removing outliers, normalizing data, and converting it into a format that can be used by [quantitative models](../q/quantitative_models.md). Data preprocessing ensures that the models work with high-quality inputs.
@@ -52,7 +52,7 @@ Quantitative investment analysis is a discipline that applies mathematical and s
    - Software tools like SAS, SPSS, and Stata are frequently used for statistical analysis and econometrics.
 
 3. **Quantitative Platforms**
-   - QuantConnect ([link](https://www.quantconnect.com)) and AlgoTrader ([link](https://www.algotrader.com)) provide platforms for developing, [backtesting](../b/backtesting.md), and deploying [quantitative trading](../q/quantitative_trading.md) strategies.
+   - [QuantConnect](../q/quantconnect.md) ([link](https://www.quantconnect.com)) and [AlgoTrader](../a/algotrader.md) ([link](https://www.algotrader.com)) provide platforms for developing, [backtesting](../b/backtesting.md), and deploying [quantitative trading](../q/quantitative_trading.md) strategies.
 
 4. **Database Systems**
    - Relational databases like MySQL, PostgreSQL, and NoSQL databases like MongoDB or Apache Cassandra are used to store, manage, and retrieve large volumes of data.

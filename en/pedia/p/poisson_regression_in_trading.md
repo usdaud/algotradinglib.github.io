@@ -103,9 +103,9 @@ print(poisson_model.summary())
 1. **Assumes Independence**: The Poisson model assumes that events occur independently, which might not always be true in a trading scenario.
 2. **Overdispersion**: If the data has greater variability than the mean (overdispersion), standard Poisson regression might not provide the best fit. Alternatives like Negative Binomial regression should be considered in such cases.
 
-**Case Study: Bloomberg's Use of Poisson Regression**
+**Case Study: [Bloomberg](../b/bloomberg.md)'s Use of Poisson Regression**
 
-Leading financial information provider Bloomberg offers various [predictive analytics](../p/predictive_analytics.md) tools that can be applied to trading and market data analysis. For financial professionals interested in taking their analyses further with Poisson regression and other advanced statistical models, Bloomberg Professional Services provide the necessary data and tools. Learn more about their offerings on their official site: [Bloomberg Professional Services](https://www.bloomberg.com/professional/).
+Leading financial information provider [Bloomberg](../b/bloomberg.md) offers various [predictive analytics](../p/predictive_analytics.md) tools that can be applied to trading and market data analysis. For financial professionals interested in taking their analyses further with Poisson regression and other advanced statistical models, [Bloomberg](../b/bloomberg.md) Professional Services provide the necessary data and tools. Learn more about their offerings on their official site: [Bloomberg Professional Services](https://www.bloomberg.com/professional/).
 
 **Conclusion**
 

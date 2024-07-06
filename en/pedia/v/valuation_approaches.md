@@ -23,7 +23,7 @@ DCFs can be incorporated into [algorithmic trading](../a/algorithmic_trading.md)
 
 ### Tools and Software
 - **Python Libraries**: `numpy`, `pandas` for data manipulation, and `scipy` for optimization.
-- **Financial Software**: Bloomberg Terminal, Reuters Eikon for live data feeds.
+- **Financial Software**: [Bloomberg](../b/bloomberg.md) Terminal, [Reuters](../r/reuters.md) Eikon for live data feeds.
 
 ## 2. Relative Valuation (Comparables)
 
@@ -46,7 +46,7 @@ Algorithms can:
 - Screen for discrepancies between a company's current multiples and those of its comparables, generating potential trade signals.
 
 ### Tools and Software
-- **Financial Platforms**: Bloomberg Terminal, FactSet, S&P Capital IQ.
+- **Financial Platforms**: [Bloomberg](../b/bloomberg.md) Terminal, [FactSet](../f/factset.md), S&P Capital IQ.
 - **APIs**: Alpha Vantage, Yahoo Finance API for fetching market data.
 
 ## 3. Asset-Based Valuation
@@ -86,7 +86,7 @@ Algorithms use these models to:
 - Manage option portfolios systematically.
 
 ### Tools and Software
-- **Python Libraries**: `QuantLib`, `numpy`, `scipy` for numerical methods.
+- **Python Libraries**: `[QuantLib](../q/quantlib.md)`, `numpy`, `scipy` for numerical methods.
 - **Platforms**: Deribit, CME Group platforms for trading options.
 
 ## 5. Machine Learning-Based Valuation

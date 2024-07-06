@@ -40,7 +40,7 @@ For example, if a company has an EPS of $5 and its current share price is $50, t
 ### Real-World Application
 Several firms and platforms offer tools and algorithms to incorporate earnings yield into [trading strategies](../t/trading_strategies.md). For instance:
 
-1. **QuantConnect**: A leading [algorithmic trading](../a/algorithmic_trading.md) platform that provides various tools for developing and [backtesting](../b/backtesting.md) strategies. QuantConnect allows users to implement earnings yield as a parameter in their [trading algorithms](../t/trading_algorithms.md). 
+1. **[QuantConnect](../q/quantconnect.md)**: A leading [algorithmic trading](../a/algorithmic_trading.md) platform that provides various tools for developing and [backtesting](../b/backtesting.md) strategies. [QuantConnect](../q/quantconnect.md) allows users to implement earnings yield as a parameter in their [trading algorithms](../t/trading_algorithms.md). 
    [Link to QuantConnect](https://www.quantconnect.com/)
 
 2. **Alpaca**: A commission-free trading API for developers. Users can develop and deploy [trading algorithms](../t/trading_algorithms.md) that use earnings yield as part of their decision criteria.

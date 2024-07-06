@@ -67,7 +67,7 @@ Several trading platforms support the use of 10-minute charts, providing tools a
 
 ### TradingView
 
-TradingView is a popular charting platform that offers interactive charts, including 10-minute intervals, and supports integration with various [brokerage services](../b/brokerage_services.md) for [algorithmic trading](../a/algorithmic_trading.md).
+[TradingView](../t/tradingview.md) is a popular charting platform that offers interactive charts, including 10-minute intervals, and supports integration with various [brokerage services](../b/brokerage_services.md) for [algorithmic trading](../a/algorithmic_trading.md).
 
 [TradingView](https://www.tradingview.com)
 
@@ -79,13 +79,13 @@ MetaTrader is another widely used trading platform. It supports custom time inte
 
 ### NinjaTrader
 
-NinjaTrader is geared towards active traders and provides advanced charting and analysis tools, including 10-minute charts. It also supports a range of [algorithmic trading](../a/algorithmic_trading.md) options through NinjaScript.
+[NinjaTrader](../n/ninjatrader.md) is geared towards active traders and provides advanced charting and analysis tools, including 10-minute charts. It also supports a range of [algorithmic trading](../a/algorithmic_trading.md) options through NinjaScript.
 
 [NinjaTrader](https://www.ninjatrader.com)
 
 ### QuantConnect
 
-QuantConnect offers a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports 10-minute charts through its extensive quant framework. It allows traders to backtest and deploy strategies leveraging historical data.
+[QuantConnect](../q/quantconnect.md) offers a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports 10-minute charts through its extensive quant framework. It allows traders to backtest and deploy strategies leveraging historical data.
 
 [QuantConnect](https://www.quantconnect.com)
 

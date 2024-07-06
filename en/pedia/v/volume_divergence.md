@@ -78,11 +78,11 @@ Trading Technologies provides a suite of trading tools and platforms that allow 
 
 ### QuantConnect
 
-QuantConnect is an [algorithmic trading](../a/algorithmic_trading.md) platform that supports the development and testing of strategies based on volume divergence. The platform provides access to extensive historical data and cloud-based [backtesting](../b/backtesting.md) capabilities. [QuantConnect](https://www.quantconnect.com/)
+[QuantConnect](../q/quantconnect.md) is an [algorithmic trading](../a/algorithmic_trading.md) platform that supports the development and testing of strategies based on volume divergence. The platform provides access to extensive historical data and cloud-based [backtesting](../b/backtesting.md) capabilities. [QuantConnect](https://www.quantconnect.com/)
 
 ### AlgoTrader
 
-AlgoTrader is a comprehensive [algorithmic trading](../a/algorithmic_trading.md) platform that integrates [volume divergence analysis](../v/volume_divergence_analysis.md) into its suite of tools. It supports multiple asset classes and provides functionalities for strategy development, [backtesting](../b/backtesting.md), and live trading. [AlgoTrader](https://www.algotrader.com/)
+[AlgoTrader](../a/algotrader.md) is a comprehensive [algorithmic trading](../a/algorithmic_trading.md) platform that integrates [volume divergence analysis](../v/volume_divergence_analysis.md) into its suite of tools. It supports multiple asset classes and provides functionalities for strategy development, [backtesting](../b/backtesting.md), and live trading. [AlgoTrader](https://www.algotrader.com/)
 
 ## Challenges and Considerations
 

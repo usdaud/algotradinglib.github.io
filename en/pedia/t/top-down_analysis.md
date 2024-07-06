@@ -56,7 +56,7 @@ Designing and deploying top-down [trading algorithms](../t/trading_algorithms.md
 Reliable and timely economic data is crucial. Common sources include:
 - **Government Releases**: e.g., Bureau of Economic Analysis (BEA) for GDP data.
 - **Central Banks**: e.g., Federal Reserve for interest rate announcements.
-- **Market Data Providers**: e.g., Bloomberg, Reuters for a variety of [economic indicators](../e/economic_indicators.md).
+- **Market Data Providers**: e.g., [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md) for a variety of [economic indicators](../e/economic_indicators.md).
 
 ### Developing Predictive Models
 

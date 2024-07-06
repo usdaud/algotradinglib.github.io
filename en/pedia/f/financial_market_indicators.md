@@ -47,20 +47,20 @@ Financial market indicators are quantitative measures that are used to evaluate 
 
 ## Key Companies and Tools for Financial Market Indicators
 
-1. **Bloomberg**
-   [Bloomberg Financial Markets](https://www.bloomberg.com/): Bloomberg provides real-time data, news, and analytics for financial professionals. Their terminal offers a wide range of indicators and analysis tools.
+1. **[Bloomberg](../b/bloomberg.md)**
+   [Bloomberg Financial Markets](https://www.bloomberg.com/): [Bloomberg](../b/bloomberg.md) provides real-time data, news, and analytics for financial professionals. Their terminal offers a wide range of indicators and analysis tools.
 
-2. **Reuters**
-   [Reuters Financial Services](https://www.reuters.com/markets/): Reuters offers comprehensive financial market data, news, and analysis. Their platform provides access to a variety of indicators and analytical tools.
+2. **[Reuters](../r/reuters.md)**
+   [Reuters Financial Services](https://www.reuters.com/markets/): [Reuters](../r/reuters.md) offers comprehensive financial market data, news, and analysis. Their platform provides access to a variety of indicators and analytical tools.
 
-3. **TradingView**
-   [TradingView](https://www.tradingview.com/): TradingView is a social platform for traders and investors. It offers interactive charts and a wide range of [technical indicators](../t/technical_indicators.md) to analyze market trends.
+3. **[TradingView](../t/tradingview.md)**
+   [TradingView](https://www.tradingview.com/): [TradingView](../t/tradingview.md) is a social platform for traders and investors. It offers interactive charts and a wide range of [technical indicators](../t/technical_indicators.md) to analyze market trends.
 
 4. **MetaTrader**
    [MetaTrader](https://www.metatrader4.com/): MetaTrader is a popular trading platform that provides various [technical indicators](../t/technical_indicators.md) and tools for [automated trading systems](../a/automated_trading_systems.md).
 
-5. **FactSet**
-   [FactSet](https://www.factset.com/): FactSet offers integrated financial data and analytics for investment professionals. Their platform includes a plethora of indicators and tools for market analysis.
+5. **[FactSet](../f/factset.md)**
+   [FactSet](https://www.factset.com/): [FactSet](../f/factset.md) offers integrated financial data and analytics for investment professionals. Their platform includes a plethora of indicators and tools for market analysis.
 
 ## Applications of Financial Market Indicators
 

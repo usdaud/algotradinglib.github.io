@@ -8,7 +8,7 @@ Sentiment indicators are a vital component in [algorithmic trading](../a/algorit
 
 News sentiment indicators analyze news articles, press releases, and financial reports to gauge the sentiment behind them. These indicators use natural language processing (NLP) algorithms to assess whether the news sentiment is positive, negative, or neutral.
 
-- **Example**: Thomson Reuters MarketPsych Indices (TRMI) reports real-time sentiment scores derived from global news sources.
+- **Example**: Thomson [Reuters](../r/reuters.md) MarketPsych Indices (TRMI) reports real-time sentiment scores derived from global news sources.
   [Thomson Reuters MarketPsych Indices](https://www.refinitiv.com/en/financial-data/news-company-data/marketpsych)
 
 ### 2. Social Media Sentiment

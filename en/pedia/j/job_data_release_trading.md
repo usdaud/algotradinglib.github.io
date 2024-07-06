@@ -84,10 +84,10 @@ Employment reports and job data releases are influential [economic indicators](.
 - **Refinitiv Eikon:** Provides real-time access to job data releases and financial information.
   [Refinitiv](https://www.refinitiv.com/)
 
-- **Bloomberg Terminal:** Offers comprehensive data, analytics, and trading capabilities.
+- **[Bloomberg](../b/bloomberg.md) Terminal:** Offers comprehensive data, analytics, and trading capabilities.
   [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
-- **Economic Data APIs:** Companies like Alpha Vantage and Quandl offer APIs for accessing [economic indicators](../e/economic_indicators.md) programmatically.
+- **Economic Data APIs:** Companies like Alpha Vantage and [Quandl](../q/quandl.md) offer APIs for accessing [economic indicators](../e/economic_indicators.md) programmatically.
 
 ### Speed and Latency Considerations
 

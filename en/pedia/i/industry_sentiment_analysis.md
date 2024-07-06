@@ -35,7 +35,7 @@ Deep learning approaches, particularly those involving recurrent neural networks
 A number of financial services provide [sentiment analysis](../s/sentiment_analysis.md) tools focused on financial news. These platforms analyze news articles from a wide range of sources to generate sentiment scores for different industries or specific stocks. 
 
 #### Example: [RavenPack](https://www.ravenpack.com/)
-RavenPack is a renowned provider of [sentiment analysis](../s/sentiment_analysis.md) tools focused on financial markets. Their platform uses NLP and big data analytics to turn unstructured data into actionable analytics, offering insights that traders can integrate into their [trading strategies](../t/trading_strategies.md).
+[RavenPack](../r/ravenpack.md) is a renowned provider of [sentiment analysis](../s/sentiment_analysis.md) tools focused on financial markets. Their platform uses NLP and big data analytics to turn unstructured data into actionable analytics, offering insights that traders can integrate into their [trading strategies](../t/trading_strategies.md).
 
 ### 2. **Social Media Monitoring**
 Monitoring social media platforms like Twitter, Reddit, and LinkedIn for [sentiment analysis](../s/sentiment_analysis.md) is increasingly common. These platforms provide real-time data reflecting public opinions and can significantly impact market sentiments, especially in retail-heavy stocks.
@@ -47,7 +47,7 @@ Dataminr is a leading real-time information discovery platform that uses AI to a
 Traders often use custom-built dashboards that integrate multiple [sentiment analysis](../s/sentiment_analysis.md) tools and data feeds. These dashboards provide an aggregated sentiment view from news, social media, and other sources, enhancing the decision-making process.
 
 #### Example: [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-The Bloomberg Terminal is an iconic tool in the finance industry. It integrates [sentiment analysis](../s/sentiment_analysis.md) from various sources into its analytics capabilities, providing comprehensive sentiment scores and trends across different industries.
+The [Bloomberg](../b/bloomberg.md) Terminal is an iconic tool in the finance industry. It integrates [sentiment analysis](../s/sentiment_analysis.md) from various sources into its analytics capabilities, providing comprehensive sentiment scores and trends across different industries.
 
 ## Case Study: Sentiment Analysis in Action
 

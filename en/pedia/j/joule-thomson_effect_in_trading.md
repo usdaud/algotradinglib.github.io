@@ -38,9 +38,9 @@ Consider a scenario where a significant stock is experiencing high buying pressu
 ### Companies and Tools
 
 Several companies specialize in providing tools and services essential for implementing such strategies:
-- **TradeStation**: Known for their comprehensive trading platforms that support custom algorithm development. [TradeStation](https://www.tradestation.com/)
-- **QuantConnect**: Offers a platform for [backtesting](../b/backtesting.md) and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies. [QuantConnect](https://www.quantconnect.com/)
-- **AlgoTrader**: Provides institutional-grade [algorithmic trading](../a/algorithmic_trading.md) software for automated trading and execution management. [AlgoTrader](https://www.algotrader.com/)
+- **[TradeStation](../t/tradestation.md)**: Known for their comprehensive trading platforms that support custom algorithm development. [TradeStation](https://www.tradestation.com/)
+- **[QuantConnect](../q/quantconnect.md)**: Offers a platform for [backtesting](../b/backtesting.md) and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies. [QuantConnect](https://www.quantconnect.com/)
+- **[AlgoTrader](../a/algotrader.md)**: Provides institutional-grade [algorithmic trading](../a/algorithmic_trading.md) software for automated trading and execution management. [AlgoTrader](https://www.algotrader.com/)
 
 ### Conclusion
 

@@ -52,10 +52,10 @@ When using ROE in [algorithmic trading](../a/algorithmic_trading.md), several pr
 
 Several software platforms and tools provide capabilities to compute, analyze, and integrate ROE into [algorithmic trading](../a/algorithmic_trading.md) strategies. Some notable examples include:
 
-- **Bloomberg Terminal**: A comprehensive financial tool that provides extensive data on financial metrics, including ROE, and allows for the creation of customized algorithms.
-- **Thomson Reuters Eikon**: Similar to Bloomberg, Eikon provides detailed financial metrics and [quantitative analysis](../q/quantitative_analysis.md) tools suitable for [algorithmic trading](../a/algorithmic_trading.md).
+- **[Bloomberg](../b/bloomberg.md) Terminal**: A comprehensive financial tool that provides extensive data on financial metrics, including ROE, and allows for the creation of customized algorithms.
+- **Thomson [Reuters](../r/reuters.md) Eikon**: Similar to [Bloomberg](../b/bloomberg.md), Eikon provides detailed financial metrics and [quantitative analysis](../q/quantitative_analysis.md) tools suitable for [algorithmic trading](../a/algorithmic_trading.md).
 - **MATLAB**: A high-level language and interactive environment that can be used to perform complex mathematical computations, including ROE analysis, and develop custom [trading algorithms](../t/trading_algorithms.md).
-- **QuantConnect**: A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that offers data feeds and [backtesting](../b/backtesting.md) capabilities where ROE can be part of your strategy development.
+- **[QuantConnect](../q/quantconnect.md)**: A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that offers data feeds and [backtesting](../b/backtesting.md) capabilities where ROE can be part of your strategy development.
 
 ## Challenges and Limitations
 

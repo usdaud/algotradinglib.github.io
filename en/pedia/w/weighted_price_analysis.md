@@ -40,7 +40,7 @@ Several trading platforms and analytical tools support WPA, making it easier for
 
 ### 1. **Bloomberg Terminal**
 
-The Bloomberg Terminal is a comprehensive platform used by financial professionals worldwide. It supports a variety of analysis tools, including those needed for WPA. For more information, visit [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/).
+The [Bloomberg](../b/bloomberg.md) Terminal is a comprehensive platform used by financial professionals worldwide. It supports a variety of analysis tools, including those needed for WPA. For more information, visit [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/).
 
 ### 2. **MetaTrader 5**
 
@@ -48,11 +48,11 @@ MetaTrader 5 offers extensive tools for [technical analysis](../t/technical_anal
 
 ### 3. **TradeStation**
 
-TradeStation provides a robust platform for algorithmic traders, including tools and scripts for weighted price analysis. Their platform is highly customizable and widely used for its analysis capabilities. Learn more at [TradeStation](https://www.tradestation.com/).
+[TradeStation](../t/tradestation.md) provides a robust platform for algorithmic traders, including tools and scripts for weighted price analysis. Their platform is highly customizable and widely used for its analysis capabilities. Learn more at [TradeStation](https://www.tradestation.com/).
 
 ### 4. **NinjaTrader**
 
-NinjaTrader is another popular platform that supports complex [trading strategies](../t/trading_strategies.md), including those based on WPA. With its advanced charting tools and customizable scripts, it is widely utilized by algorithmic traders. Check out [NinjaTrader](https://ninjatrader.com/).
+[NinjaTrader](../n/ninjatrader.md) is another popular platform that supports complex [trading strategies](../t/trading_strategies.md), including those based on WPA. With its advanced charting tools and customizable scripts, it is widely utilized by algorithmic traders. Check out [NinjaTrader](https://ninjatrader.com/).
 
 ## Practical Implementation
 
@@ -82,4 +82,4 @@ By using VWAP, traders can identify the average price a security has traded at o
 
 ## Conclusion
 
-Weighted Price Analysis offers a sophisticated approach to understanding market dynamics by focusing on the most significant price movements. By applying different weights to various price points, traders can gain a clearer, more nuanced view of market trends, identifying [key support and resistance levels](../k/key_support_and_resistance_levels.md), and making more informed trading decisions. Utilizing platforms like Bloomberg Terminal, MetaTrader 5, TradeStation, and NinjaTrader can facilitate the implementation of WPA, enhancing the precision and effectiveness of [trading strategies](../t/trading_strategies.md).
+Weighted Price Analysis offers a sophisticated approach to understanding market dynamics by focusing on the most significant price movements. By applying different weights to various price points, traders can gain a clearer, more nuanced view of market trends, identifying [key support and resistance levels](../k/key_support_and_resistance_levels.md), and making more informed trading decisions. Utilizing platforms like [Bloomberg](../b/bloomberg.md) Terminal, MetaTrader 5, [TradeStation](../t/tradestation.md), and [NinjaTrader](../n/ninjatrader.md) can facilitate the implementation of WPA, enhancing the precision and effectiveness of [trading strategies](../t/trading_strategies.md).

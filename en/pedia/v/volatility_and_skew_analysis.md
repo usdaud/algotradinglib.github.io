@@ -128,11 +128,11 @@ Skewness measures the asymmetry of the probability distribution of returns. [Pos
 
 ### Libraries and APIs
 
-1. **QuantLib**: Provides comprehensive functionalities for financial analytics, including volatility modeling and skew analysis.
+1. **[QuantLib](../q/quantlib.md)**: Provides comprehensive functionalities for financial analytics, including volatility modeling and skew analysis.
 
 2. **TA-Lib**: An open-source library widely used for [technical analysis](../t/technical_analysis.md), includes functions for various volatility and skew measures.
 
-3. **Bloomberg and Reuters Terminals**: Professional platforms offering extensive real-time data and analytical tools for comprehensive volatility and skew analysis.
+3. **[Bloomberg](../b/bloomberg.md) and [Reuters](../r/reuters.md) Terminals**: Professional platforms offering extensive real-time data and analytical tools for comprehensive volatility and skew analysis.
 
 ## Future Trends and Considerations
 

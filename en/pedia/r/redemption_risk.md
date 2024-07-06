@@ -45,7 +45,7 @@ Several companies provide sophisticated tools and solutions to manage redemption
 
 - **BlackRock**: One of the largest asset management firms globally, offering comprehensive [risk management](../r/risk_management.md) services through its Aladdin platform. [Visit BlackRock](https://www.blackrock.com)
 - **State Street Global Advisors**: Known for its advanced investment solutions and [risk management](../r/risk_management.md) strategies. [Visit State Street Global Advisors](https://www.ssga.com)
-- **Morningstar**: Provides extensive research and [risk analysis](../r/risk_analysis.md) to help fund managers understand and mitigate redemption risks. [Visit Morningstar](https://www.morningstar.com)
+- **[Morningstar](../m/morningstar.md)**: Provides extensive research and [risk analysis](../r/risk_analysis.md) to help fund managers understand and mitigate redemption risks. [Visit Morningstar](https://www.morningstar.com)
 - **Moody’s Analytics**: Offers [risk management](../r/risk_management.md) software and services that can be pivotal in assessing and managing redemption risk. [Visit Moody’s Analytics](https://www.moodysanalytics.com)
 - **RiskMetrics Group (acquired by MSCI)**: A leader in [risk management](../r/risk_management.md) tools and analytics. [Visit MSCI](https://www.msci.com)
 

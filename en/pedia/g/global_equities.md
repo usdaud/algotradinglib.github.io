@@ -45,9 +45,9 @@ Several indices track the performance of global equities, offering benchmarks fo
 
 ### Technology and Tools
 
-1. **Trading Platforms**: Examples include MetaTrader, Bloomberg Terminal, and [proprietary trading](../p/proprietary_trading.md) platforms developed by firms like Goldman Sachs and Morgan Stanley. These platforms offer real-time data feeds, [backtesting](../b/backtesting.md) capabilities, and [execution algorithms](../e/execution_algorithms.md).
+1. **Trading Platforms**: Examples include MetaTrader, [Bloomberg](../b/bloomberg.md) Terminal, and [proprietary trading](../p/proprietary_trading.md) platforms developed by firms like Goldman Sachs and Morgan Stanley. These platforms offer real-time data feeds, [backtesting](../b/backtesting.md) capabilities, and [execution algorithms](../e/execution_algorithms.md).
 2. **Programming Languages**: Python, R, C++, and MATLAB are commonly used for developing [trading algorithms](../t/trading_algorithms.md).
-3. **Data Feeds**: Real-time and historical data from providers such as Reuters, Bloomberg, and Quandl are crucial for algorithm development and [backtesting](../b/backtesting.md).
+3. **Data Feeds**: Real-time and historical data from providers such as [Reuters](../r/reuters.md), [Bloomberg](../b/bloomberg.md), and [Quandl](../q/quandl.md) are crucial for algorithm development and [backtesting](../b/backtesting.md).
 
 ### Challenges
 

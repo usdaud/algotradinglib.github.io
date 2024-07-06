@@ -41,8 +41,8 @@ Improving the Winning Trade Ratio involves a combination of strategic adjustment
 ### Example: Companies Utilizing Winning Trade Ratios
 Many companies utilize Winning Trade Ratios to enhance their [trading strategies](../t/trading_strategies.md) and improve performance. Some notable examples include:
 
-- **QuantConnect**: [QuantConnect Official Website](https://www.quantconnect.com/)
-  QuantConnect is a leading [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to design and implement [trading strategies](../t/trading_strategies.md). They offer extensive [backtesting](../b/backtesting.md) capabilities and [performance metrics](../p/performance_metrics.md), including Winning Trade Ratios.
+- **[QuantConnect](../q/quantconnect.md)**: [QuantConnect Official Website](https://www.quantconnect.com/)
+  [QuantConnect](../q/quantconnect.md) is a leading [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to design and implement [trading strategies](../t/trading_strategies.md). They offer extensive [backtesting](../b/backtesting.md) capabilities and [performance metrics](../p/performance_metrics.md), including Winning Trade Ratios.
 
 - **Numerai**: [Numerai Official Website](https://numer.ai/)
   Numerai is a hedge fund that crowdsources [trading algorithms](../t/trading_algorithms.md) from data scientists around the world. Winning Trade Ratios are crucial for evaluating and selecting the best performing models.

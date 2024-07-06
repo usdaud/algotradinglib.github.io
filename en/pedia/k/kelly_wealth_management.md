@@ -71,7 +71,7 @@ Kelly [Wealth Management](../w/wealth_management.md) is at the forefront of inte
 
 ### **Regulatory Compliance and Ethical Standards**
 
-Kelly [Wealth Management](../w/wealth_management.md) is committed to maintaining the highest standards of regulatory compliance and ethical conduct. The firm adheres to stringent regulatory requirements, including those set forth by the Securities and Exchange Commission (SEC), the Financial Industry Regulatory Authority (FINRA), and other relevant authorities. Key compliance practices include:
+Kelly [Wealth Management](../w/wealth_management.md) is committed to maintaining the highest standards of regulatory compliance and ethical conduct. The firm adheres to stringent regulatory requirements, including those set forth by the Securities and Exchange Commission (SEC), the Financial Industry Regulatory Authority ([FINRA](../f/finra.md)), and other relevant authorities. Key compliance practices include:
 
 1. **Know Your Customer (KYC)**: Rigorous KYC procedures to verify the identity and suitability of clients, ensuring compliance with anti-money laundering (AML) regulations.
 2. **Data Security**: Implementation of robust data security measures to protect client information and prevent data breaches.

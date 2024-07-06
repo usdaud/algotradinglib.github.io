@@ -48,7 +48,7 @@ Effective [risk management](../r/risk_management.md) is critical to protect your
 Having the right technology setup is essential for [algorithmic trading](../a/algorithmic_trading.md). This includes:
 
 - **Programming Languages**: Proficiency in languages like Python, C++, or Java.
-- **Trading Platforms**: Utilize platforms such as MetaTrader, NinjaTrader, or custom-built systems.
+- **Trading Platforms**: Utilize platforms such as MetaTrader, [NinjaTrader](../n/ninjatrader.md), or custom-built systems.
 - **Connectivity**: Ensure low-latency connections to exchanges for real-time data and order execution.
 
 ### 7. **Execution and Monitoring**

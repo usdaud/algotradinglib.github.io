@@ -101,7 +101,7 @@ Financial markets have domain-specific terminology that may not be captured effe
 Several companies and platforms leverage LSA and similar NLP techniques for [algorithmic trading](../a/algorithmic_trading.md):
 
 - **Kensho Technologies**: Kensho uses advanced NLP and machine learning techniques to analyze financial and economic data, allowing traders to make informed decisions. [Kensho Technologies](https://www.kensho.com/)
-- **Bloomberg**: Bloomberg terminals integrate sophisticated NLP algorithms, including LSA, to provide traders with actionable insights from news and financial reports. [Bloomberg](https://www.bloomberg.com/)
+- **[Bloomberg](../b/bloomberg.md)**: [Bloomberg](../b/bloomberg.md) terminals integrate sophisticated NLP algorithms, including LSA, to provide traders with actionable insights from news and financial reports. [Bloomberg](https://www.bloomberg.com/)
 - **MarketPsych**: MarketPsych offers [sentiment analysis](../s/sentiment_analysis.md) tools for financial markets using NLP techniques, aiding traders in understanding market psychology. [MarketPsych](https://www.marketpsych.com/)
 
 ## Conclusion

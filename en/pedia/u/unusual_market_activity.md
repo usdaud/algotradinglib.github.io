@@ -76,7 +76,7 @@ The New York Stock Exchange's Pillar trading platform includes built-in surveill
 
 ### 3. FINRA's Automated Surveillance
 
-The Financial Industry Regulatory Authority (FINRA) employs an array of automated surveillance systems to monitor trading activity and detect instances of UMA. These systems use data analysis and [pattern recognition](../p/pattern_recognition.md) to identify anomalous trading behaviors.
+The Financial Industry Regulatory Authority ([FINRA](../f/finra.md)) employs an array of automated surveillance systems to monitor trading activity and detect instances of UMA. These systems use data analysis and [pattern recognition](../p/pattern_recognition.md) to identify anomalous trading behaviors.
 
 [Learn more about FINRA Surveillance](https://www.finra.org/rules-guidance/key-topics/market-surveillance)
 

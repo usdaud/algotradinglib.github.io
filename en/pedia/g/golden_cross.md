@@ -32,7 +32,7 @@ Typically, a Golden Cross occurs between the 50-day and 200-day simple moving av
 
 ### Identifying a Golden Cross
 To identify a Golden Cross:
-1. **Charting Software**: Utilize charting platforms like TradingView or ThinkOrSwim.
+1. **Charting Software**: Utilize charting platforms like [TradingView](../t/tradingview.md) or [ThinkOrSwim](../t/thinkorswim.md).
 2. **Add Moving Averages**: Plot both short-term and long-term moving averages on the price chart.
 3. **Monitor Crossovers**: Regularly watch for the short-term MA crossing above the long-term MA.
 

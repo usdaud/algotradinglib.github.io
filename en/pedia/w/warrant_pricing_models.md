@@ -79,7 +79,7 @@ Several companies and tools specialize in providing software and services for [w
 
 - **OptionMetrics:** Offers comprehensive databases and analytical tools for option markets. [OptionMetrics](https://optionmetrics.com/)
 - **DerivaGem:** A [derivatives](../d/derivatives.md) analytics software suite developed by the London Business School. [London Business School DerivaGem Software](https://www.london.edu/)
-- **QuantLib:** An open-source library for [quantitative finance](../q/quantitative_finance.md), providing tools for developing and implementing financial and [derivatives](../d/derivatives.md) models. [QuantLib](https://www.quantlib.org/)
+- **[QuantLib](../q/quantlib.md):** An open-source library for [quantitative finance](../q/quantitative_finance.md), providing tools for developing and implementing financial and [derivatives](../d/derivatives.md) models. [QuantLib](https://www.quantlib.org/)
 - **MathWorks:** Offers MATLAB, which provides numerous financial toolboxes for [warrant pricing](../w/warrant_pricing.md) and other financial analyses. [MathWorks](https://www.mathworks.com/)
 
 ### Practical Considerations

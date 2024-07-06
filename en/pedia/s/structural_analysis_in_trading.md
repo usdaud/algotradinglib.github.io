@@ -55,7 +55,7 @@ HFT firms often use co-location services to place their servers near exchange da
 Several tools and platforms facilitate structural analysis for traders. These tools range from comprehensive trading platforms to specialized analytical software.
 
 ### Trading Platforms
-Many trading platforms like MetaTrader, TradeStation, and NinjaTrader offer features for conducting structural analysis, including [technical indicators](../t/technical_indicators.md), [automated trading systems](../a/automated_trading_systems.md), and real-time data feeds.
+Many trading platforms like MetaTrader, [TradeStation](../t/tradestation.md), and [NinjaTrader](../n/ninjatrader.md) offer features for conducting structural analysis, including [technical indicators](../t/technical_indicators.md), [automated trading systems](../a/automated_trading_systems.md), and real-time data feeds.
 
 ### Specialized Analytical Software
 Software like MATLAB, R, and Python libraries (such as Pandas, NumPy, and Scikit-learn) enable advanced statistical and machine learning analysis for detecting market structures.

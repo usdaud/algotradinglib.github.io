@@ -154,7 +154,7 @@ Several technology firms offer platforms and services dedicated to [algorithmic 
 
 - **Virtu Financial**: [Virtu Financial](https://www.virtu.com/), provides integrated trading solutions with advanced order [execution algorithms](../e/execution_algorithms.md).
 - **ITG (Investment Technology Group)**: Specializes in electronic trading platforms with customizable algorithmic strategies.
-- **AlgoTrader**: [AlgoTrader](https://www.algotrader.com/), offers a comprehensive solution for quant trading and automated order execution.
+- **[AlgoTrader](../a/algotrader.md)**: [AlgoTrader](https://www.algotrader.com/), offers a comprehensive solution for quant trading and automated order execution.
 
 ### Examples of Usage
 

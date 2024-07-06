@@ -58,7 +58,7 @@ Trade Informatics specializes in providing systematic approaches to analyze, opt
 ITiviti (part of Broadridge Financial Solutions) offers advanced trading and connectivity solutions, including tools for high-performance order execution and [post-trade analysis](../p/post-trade_analysis.md). Website: [Itiviti](https://www.itiviti.com/)
 
 ### 5. **Bloomberg**
-Bloomberg's trading solutions include comprehensive analytics for order execution. Bloomberg [Transaction Cost Analysis](../t/transaction_cost_analysis.md) (BTCA) provides detailed reports and insights into execution performance. Website: [Bloomberg](https://www.bloomberg.com/professional/solution/transaction-cost-analysis/)
+[Bloomberg](../b/bloomberg.md)'s trading solutions include comprehensive analytics for order execution. [Bloomberg](../b/bloomberg.md) [Transaction Cost Analysis](../t/transaction_cost_analysis.md) (BTCA) provides detailed reports and insights into execution performance. Website: [Bloomberg](https://www.bloomberg.com/professional/solution/transaction-cost-analysis/)
 
 ## Strategies to Enhance Order Execution
 
@@ -78,4 +78,4 @@ Trading in [dark pools](../d/dark_pools.md) and ATS can offer better execution p
 
 [X-Order Execution](../x/x-order_execution.md) Analysis is an integral part of [algorithmic trading](../a/algorithmic_trading.md), providing vital insights into the effectiveness of [trading strategies](../t/trading_strategies.md) and the efficiency of order executions. By leveraging advanced tools and techniques, traders can optimize their trades, reduce costs, and improve overall performance. Continuous monitoring and analysis of execution metrics enable traders to adapt to ever-changing market conditions and maintain a competitive edge.
 
-For further information on [X-Order Execution](../x/x-order_execution.md) Analysis, traders and market participants can explore the offerings of leading companies in the field, such as Virtu Financial, Trade Informatics, and Bloomberg, among others.
+For further information on [X-Order Execution](../x/x-order_execution.md) Analysis, traders and market participants can explore the offerings of leading companies in the field, such as Virtu Financial, Trade Informatics, and [Bloomberg](../b/bloomberg.md), among others.

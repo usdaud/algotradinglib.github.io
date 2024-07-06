@@ -72,7 +72,7 @@ The financial markets are constantly evolving, and continuous education is vital
 
 ### Trading Platforms and Software
 
-Using advanced trading platforms and software can enhance trading discipline. These platforms offer features such as [automated trade execution](../a/automated_trade_execution.md), real-time analytics, and [risk management](../r/risk_management.md) tools, helping traders adhere to their trading plans. Platforms like MetaTrader, Interactive Brokers, and TradeStation offer such features.
+Using advanced trading platforms and software can enhance trading discipline. These platforms offer features such as [automated trade execution](../a/automated_trade_execution.md), real-time analytics, and [risk management](../r/risk_management.md) tools, helping traders adhere to their trading plans. Platforms like MetaTrader, Interactive Brokers, and [TradeStation](../t/tradestation.md) offer such features.
 
 ### Risk Management Tools
 
@@ -80,7 +80,7 @@ Using advanced trading platforms and software can enhance trading discipline. Th
 
 ### Algorithmic Trading Systems
 
-[Algorithmic trading](../a/algorithmic_trading.md) systems are designed to execute trades based on predefined rules and criteria. By removing the emotional aspect of trading, these systems enhance discipline and consistency. Companies like QuantConnect [www.quantconnect.com](https://www.quantconnect.com) offer platforms for developing and [backtesting](../b/backtesting.md) [algorithmic trading](../a/algorithmic_trading.md) strategies.
+[Algorithmic trading](../a/algorithmic_trading.md) systems are designed to execute trades based on predefined rules and criteria. By removing the emotional aspect of trading, these systems enhance discipline and consistency. Companies like [QuantConnect](../q/quantconnect.md) [www.quantconnect.com](https://www.quantconnect.com) offer platforms for developing and [backtesting](../b/backtesting.md) [algorithmic trading](../a/algorithmic_trading.md) strategies.
 
 ### Backtesting and Simulation
 
@@ -94,7 +94,7 @@ Trading bots are automated software programs that execute trades on behalf of tr
 
 ### QuantConnect
 
-QuantConnect is a platform that enables traders to design, develop, and backtest [algorithmic trading](../a/algorithmic_trading.md) strategies. The platform emphasizes disciplined trading by providing tools for systematic strategy development and testing. More information can be found at [QuantConnect](https://www.quantconnect.com).
+[QuantConnect](../q/quantconnect.md) is a platform that enables traders to design, develop, and backtest [algorithmic trading](../a/algorithmic_trading.md) strategies. The platform emphasizes disciplined trading by providing tools for systematic strategy development and testing. More information can be found at [QuantConnect](https://www.quantconnect.com).
 
 ### Interactive Brokers
 

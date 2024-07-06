@@ -113,11 +113,11 @@ where:
 
 Several companies provide platforms and tools that help traders use these [technical indicators](../t/technical_indicators.md). Here are a few notable ones:
 
-- **TradingView**: A popular charting platform that provides numerous [technical indicators](../t/technical_indicators.md) and drawing tools. More info: [TradingView](https://www.tradingview.com/)
+- **[TradingView](../t/tradingview.md)**: A popular charting platform that provides numerous [technical indicators](../t/technical_indicators.md) and drawing tools. More info: [TradingView](https://www.tradingview.com/)
   
 - **MetaTrader**: A widely used trading platform offering a range of [technical indicators](../t/technical_indicators.md). More info: [MetaTrader](https://www.metatrader4.com/)
 
-- **Thinkorswim by TD Ameritrade**: An advanced trading platform with customizable [technical indicators](../t/technical_indicators.md). More info: [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
+- **[Thinkorswim](../t/thinkorswim.md) by TD Ameritrade**: An advanced trading platform with customizable [technical indicators](../t/technical_indicators.md). More info: [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
 
 ### Conclusion
 

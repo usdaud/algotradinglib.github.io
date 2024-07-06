@@ -53,13 +53,13 @@ Interactive Brokers (IBKR) provides comprehensive tools for implementing stop or
 MetaTrader 5 (MT5) is well-known for its Algo trading capabilities. The platform supports multiple stop order types and allows for the scripting of custom [trading algorithms](../t/trading_algorithms.md) using MQL5. More details can be accessed at [MetaTrader 5](https://www.metatrader5.com/).
 
 ### TradeStation
-TradeStation provides advanced tools for building and testing stop order strategies. Their platform offers various order types and advanced [algorithmic trading](../a/algorithmic_trading.md) capabilities supported by their proprietary EasyLanguage scripting language. Learn more at [TradeStation](https://www.tradestation.com/).
+[TradeStation](../t/tradestation.md) provides advanced tools for building and testing stop order strategies. Their platform offers various order types and advanced [algorithmic trading](../a/algorithmic_trading.md) capabilities supported by their proprietary EasyLanguage scripting language. Learn more at [TradeStation](https://www.tradestation.com/).
 
 ### QuantConnect
-QuantConnect, an open-source [algorithmic trading](../a/algorithmic_trading.md) platform, provides extensive support for [backtesting](../b/backtesting.md) and live trading using various stop order strategies. Algorithms can be coded in multiple languages, including C#, Python, and F#. For more details, visit [QuantConnect](https://www.quantconnect.com/).
+[QuantConnect](../q/quantconnect.md), an open-source [algorithmic trading](../a/algorithmic_trading.md) platform, provides extensive support for [backtesting](../b/backtesting.md) and live trading using various stop order strategies. Algorithms can be coded in multiple languages, including C#, Python, and F#. For more details, visit [QuantConnect](https://www.quantconnect.com/).
 
 ### ThinkOrSwim
-ThinkOrSwim by TD Ameritrade offers powerful tools for active trading and supports a range of stop order types. The platform features customizable algorithms and real-time adjustment capabilities. Visit [ThinkOrSwim](https://www.thinkorswim.com/) for more information.
+[ThinkOrSwim](../t/thinkorswim.md) by TD Ameritrade offers powerful tools for active trading and supports a range of stop order types. The platform features customizable algorithms and real-time adjustment capabilities. Visit [ThinkOrSwim](https://www.thinkorswim.com/) for more information.
 
 ## Conclusion
 

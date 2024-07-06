@@ -52,9 +52,9 @@ A straddle on EUR/USD could involve placing buy stops above the current price an
 Several platforms and tools can assist traders in effectively deploying job report [trading strategies](../t/trading_strategies.md). Some prominent platforms and services include:
 
 - **MetaTrader 4/5 (MT4/MT5):** Widely used by forex traders, offers robust charting tools and the ability to execute trades quickly.
-- **Thinkorswim by TD Ameritrade:** Known for its powerful trading and analysis tools.
-- **NinjaTrader:** Offers advanced charting and trading features, ideal for analyzing job reports.
-- **TradingView:** Provides comprehensive charting and the ability to test [trading strategies](../t/trading_strategies.md) against historical data.
+- **[Thinkorswim](../t/thinkorswim.md) by TD Ameritrade:** Known for its powerful trading and analysis tools.
+- **[NinjaTrader](../n/ninjatrader.md):** Offers advanced charting and trading features, ideal for analyzing job reports.
+- **[TradingView](../t/tradingview.md):** Provides comprehensive charting and the ability to test [trading strategies](../t/trading_strategies.md) against historical data.
 
 ### Risk Management
 

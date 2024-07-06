@@ -50,7 +50,7 @@ Implementing Liquidity Adjustment in [algorithmic trading](../a/algorithmic_trad
 
 ### Data Integration
 
-[Real-time market data](../r/real-time_market_data.md) is essential for effective Liquidity Adjustment. This includes order book information, trade volumes, historical prices, and volatility indices. Reliable data providers like Bloomberg (https://www.bloomberg.com/professional/) and Refinitiv (https://www.refinitiv.com/en) offer comprehensive datasets that are critical for informing trading decisions.
+[Real-time market data](../r/real-time_market_data.md) is essential for effective Liquidity Adjustment. This includes order book information, trade volumes, historical prices, and volatility indices. Reliable data providers like [Bloomberg](../b/bloomberg.md) (https://www.[bloomberg](../b/bloomberg.md).com/professional/) and Refinitiv (https://www.refinitiv.com/en) offer comprehensive datasets that are critical for informing trading decisions.
 
 ### Algorithmic Design
 
@@ -58,11 +58,11 @@ The design of the trading algorithm must incorporate liquidity adjustment parame
 
 ### Backtesting and Simulation
 
-Before deploying any algorithm, rigorous [backtesting](../b/backtesting.md) and simulation are necessary. This process involves testing the algorithm against historical data to evaluate its performance under various market conditions. Platforms like QuantConnect (https://www.quantconnect.com/) and Alpha Vantage (https://www.alphavantage.co/) provide tools for [backtesting](../b/backtesting.md) and simulation.
+Before deploying any algorithm, rigorous [backtesting](../b/backtesting.md) and simulation are necessary. This process involves testing the algorithm against historical data to evaluate its performance under various market conditions. Platforms like [QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/) and Alpha Vantage (https://www.alphavantage.co/) provide tools for [backtesting](../b/backtesting.md) and simulation.
 
 ### Execution Platforms
 
-Choosing the right execution platform is crucial for implementing Liquidity Adjustment strategies. These platforms should support advanced order types, provide low latency, and offer connectivity to multiple markets. Companies like Interactive Brokers (https://www.interactivebrokers.com/) and TradeStation (https://www.tradestation.com/) are popular choices among algorithmic traders.
+Choosing the right execution platform is crucial for implementing Liquidity Adjustment strategies. These platforms should support advanced order types, provide low latency, and offer connectivity to multiple markets. Companies like Interactive Brokers (https://www.interactivebrokers.com/) and [TradeStation](../t/tradestation.md) (https://www.[tradestation](../t/tradestation.md).com/) are popular choices among algorithmic traders.
 
 ### Monitoring and Adjustments
 
@@ -76,7 +76,7 @@ While Liquidity Adjustment offers significant benefits, it also presents several
 
 2. **Data Quality:** Accurate and high-frequency data is essential for effective Liquidity Adjustment. Poor data quality can lead to suboptimal decisions and increased market impact.
 
-3. **Regulatory Compliance:** Ensuring that [trading algorithms](../t/trading_algorithms.md) comply with regulatory requirements is crucial. Regulatory bodies like the SEC and FINRA in the US, and ESMA in the EU, have specific guidelines for [algorithmic trading](../a/algorithmic_trading.md) that must be adhered to.
+3. **Regulatory Compliance:** Ensuring that [trading algorithms](../t/trading_algorithms.md) comply with regulatory requirements is crucial. Regulatory bodies like the SEC and [FINRA](../f/finra.md) in the US, and ESMA in the EU, have specific guidelines for [algorithmic trading](../a/algorithmic_trading.md) that must be adhered to.
 
 4. **Market Dynamics:** Financial markets are inherently unpredictable. Sudden shifts in liquidity, caused by economic events, geopolitical tensions, or technical failures, can disrupt even the most well-designed algorithms.
 

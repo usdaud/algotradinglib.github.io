@@ -60,16 +60,16 @@ Hedge funds and trading firms compare their YTD returns against competitors. Thi
 Various tools and software platforms are available to assist traders and investors in performing YTD return analysis. Some of the prominent ones include:
 
 ### Bloomberg Terminal
-Bloomberg Terminal (www.bloomberg.com) offers comprehensive financial data, including YTD return analysis tools. It provides [real-time market data](../r/real-time_market_data.md), news, and analytics, making it a preferred choice for professional traders and investors.
+[Bloomberg](../b/bloomberg.md) Terminal (www.[bloomberg](../b/bloomberg.md).com) offers comprehensive financial data, including YTD return analysis tools. It provides [real-time market data](../r/real-time_market_data.md), news, and analytics, making it a preferred choice for professional traders and investors.
 
 ### MetaTrader
-MetaTrader (www.metatrader4.com) is a popular trading platform that supports algo trading and includes features for calculating and analyzing YTD returns. It allows users to create and test [trading strategies](../t/trading_strategies.md) using historical data.
+MetaTrader (www.[metatrader4](../m/metatrader4.md).com) is a popular trading platform that supports algo trading and includes features for calculating and analyzing YTD returns. It allows users to create and test [trading strategies](../t/trading_strategies.md) using historical data.
 
 ### QuantConnect
-QuantConnect (www.quantconnect.com) is an [algorithmic trading](../a/algorithmic_trading.md) platform that enables users to develop, backtest, and deploy [trading algorithms](../t/trading_algorithms.md). It offers robust analytics tools, including YTD return analysis, to optimize [trading strategies](../t/trading_strategies.md).
+[QuantConnect](../q/quantconnect.md) (www.[quantconnect](../q/quantconnect.md).com) is an [algorithmic trading](../a/algorithmic_trading.md) platform that enables users to develop, backtest, and deploy [trading algorithms](../t/trading_algorithms.md). It offers robust analytics tools, including YTD return analysis, to optimize [trading strategies](../t/trading_strategies.md).
 
 ### Morningstar
-Morningstar (www.morningstar.com) provides investment research and [portfolio management](../p/portfolio_management.md) tools that include YTD return analysis. It is widely used by investors for tracking and analyzing the performance of mutual funds, stocks, and other assets.
+[Morningstar](../m/morningstar.md) (www.[morningstar](../m/morningstar.md).com) provides investment research and [portfolio management](../p/portfolio_management.md) tools that include YTD return analysis. It is widely used by investors for tracking and analyzing the performance of mutual funds, stocks, and other assets.
 
 ### Python Libraries
 For traders who prefer custom analysis, Python offers several libraries such as pandas, numpy, and matplotlib. These libraries allow for the calculation and visualization of YTD returns and are commonly used in [algorithmic trading](../a/algorithmic_trading.md) for data analysis and strategy development.

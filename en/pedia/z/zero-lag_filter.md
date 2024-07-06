@@ -72,7 +72,7 @@ In HFT, the importance of timely data processing cannot be overstated. Zero-Lag 
 
 ## Companies and Platforms Using Zero-Lag Filters
 
-1. **QuantConnect**:
+1. **[QuantConnect](../q/quantconnect.md)**:
    A quant trading platform that supports diverse algorithms and allows users to integrate custom filters, including Zero-Lag Filters. Learn more at [QuantConnect](https://www.quantconnect.com/).
 
 2. **Algorithmica Research**:

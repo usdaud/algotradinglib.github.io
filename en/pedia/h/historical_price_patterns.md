@@ -67,7 +67,7 @@ A long-term reversal pattern indicating a shift from a downtrend to an uptrend. 
 
 [Algorithmic trading](../a/algorithmic_trading.md) relies on robust and clean data to identify historical [price patterns](../p/price_patterns.md) accurately. The process includes:
 
-- **Data Collection:** Gathering historical price data from reliable sources such as financial data providers (e.g., Bloomberg, Reuters).
+- **Data Collection:** Gathering historical price data from reliable sources such as financial data providers (e.g., [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md)).
 - **[Data Cleaning](../d/data_cleaning.md):** Removing any outliers, missing values, or errors in the data.
 - **[Data Normalization](../d/data_normalization.md):** Adjusting the data for factors like stock splits and dividends.
 

@@ -63,10 +63,10 @@ Lexalytics offers text analytics and [sentiment analysis](../s/sentiment_analysi
 Thasos is a data analytics company that uses real-time location data to measure economic activity and sentiment, providing traders with actionable insights.
 
 ### RavenPack (www.ravenpack.com)
-RavenPack provides structured data analytics from unstructured content like news articles and social media. Their platform is highly popular for financial [sentiment analysis](../s/sentiment_analysis.md).
+[RavenPack](../r/ravenpack.md) provides structured data analytics from unstructured content like news articles and social media. Their platform is highly popular for financial [sentiment analysis](../s/sentiment_analysis.md).
 
 ### Bloomberg Terminal (www.bloomberg.com/professional/solution/bloomberg-terminal)
-The Bloomberg Terminal offers [sentiment analysis](../s/sentiment_analysis.md) tools integrated with its vast financial data resources. Users can access real-time sentiment scores and historical data.
+The [Bloomberg](../b/bloomberg.md) Terminal offers [sentiment analysis](../s/sentiment_analysis.md) tools integrated with its vast financial data resources. Users can access real-time sentiment scores and historical data.
 
 ### Refinitiv (www.refinitiv.com)
 Refinitiv offers news analytics solutions that include sentiment scores and trends. Their Eikon platform integrates with these tools to provide trader-specific insights.

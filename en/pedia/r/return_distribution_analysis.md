@@ -106,8 +106,8 @@ Stress testing involves evaluating the performance of [trading strategies](../t/
 
 Several software tools and platforms facilitate the analysis of return distribution in [algorithmic trading](../a/algorithmic_trading.md). Some popular tools include:
 
-- **QuantConnect**: A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that offers extensive data for [backtesting](../b/backtesting.md) and live trading. (https://www.quantconnect.com/)
-- **Quantlib**: An open-source library for [quantitative finance](../q/quantitative_finance.md) that provides a range of functionalities for return distribution analysis. (http://quantlib.org/)
+- **[QuantConnect](../q/quantconnect.md)**: A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that offers extensive data for [backtesting](../b/backtesting.md) and live trading. (https://www.[quantconnect](../q/quantconnect.md).com/)
+- **[Quantlib](../q/quantlib.md)**: An open-source library for [quantitative finance](../q/quantitative_finance.md) that provides a range of functionalities for return distribution analysis. (http://[quantlib](../q/quantlib.md).org/)
 - **MATLAB**: A numerical computing environment used for statistical analysis, simulation, and modeling of return distributions. (https://www.mathworks.com/products/matlab.html)
 - **Python Libraries (Pandas, NumPy, SciPy, Scikit-Learn)**: Widely used libraries in Python for data analysis, statistical modeling, and machine learning, enabling comprehensive return distribution analysis. (https://pandas.pydata.org/, https://numpy.org/, https://www.scipy.org/, https://scikit-learn.org/stable/)
 - **R**: A programming language and environment for statistical computing, ideal for analyzing financial return distributions. (https://www.r-project.org/)

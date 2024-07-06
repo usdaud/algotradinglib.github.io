@@ -33,7 +33,7 @@ Examples of machine learning applications in news trading include:
 
 Algorithmic news traders utilize a wide array of data sources to fuel their models. Key data sources include:
 
-- **News Agencies:** Services like Reuters, Bloomberg, and Dow Jones provide real-time news feeds.
+- **News Agencies:** Services like [Reuters](../r/reuters.md), [Bloomberg](../b/bloomberg.md), and Dow Jones provide real-time news feeds.
 - **Financial Reports:** SEC filings, earnings reports, and other regulatory documents.
 - **Social Media:** Platforms like Twitter offer rapid dissemination of news and public sentiment.
 - **[Alternative Data](../a/alternative_data.md):** [Non-traditional data sources](../n/non-traditional_data_sources.md) like satellite imagery, shipping data, and web scraping.
@@ -94,9 +94,9 @@ The use of [alternative data](../a/alternative_data.md) sources, such as social 
 
 Several firms specialize in providing technology and data solutions for algorithmic news trading. Notable examples include:
 
-- **Bloomberg:** Provides a comprehensive suite of data and analytics tools designed for financial professionals. Their news feed and analytics services are widely used in [algorithmic trading](../a/algorithmic_trading.md). [Bloomberg Enterprise Solutions](https://www.bloomberg.com/professional/product/enterprise-solutions/)
+- **[Bloomberg](../b/bloomberg.md):** Provides a comprehensive suite of data and analytics tools designed for financial professionals. Their news feed and analytics services are widely used in [algorithmic trading](../a/algorithmic_trading.md). [Bloomberg Enterprise Solutions](https://www.bloomberg.com/professional/product/enterprise-solutions/)
 
-- **Thomson Reuters (Refinitiv):** Offers data feeds, analytics, and trading platforms that support [algorithmic trading](../a/algorithmic_trading.md) strategies. [Refinitiv](https://www.refinitiv.com/en)
+- **Thomson [Reuters](../r/reuters.md) (Refinitiv):** Offers data feeds, analytics, and trading platforms that support [algorithmic trading](../a/algorithmic_trading.md) strategies. [Refinitiv](https://www.refinitiv.com/en)
 
 - **Newsquawk:** Provides real-time news and analysis specifically tailored for traders. Their audio news feed helps traders stay updated on market-moving news. [Newsquawk](https://www.newsquawk.com/)
 

@@ -51,9 +51,9 @@ TCA examines the costs associated with trading, such as bid-ask spreads, commiss
 
 Several tools and software platforms are available for quantitative performance analysis in [algorithmic trading](../a/algorithmic_trading.md):
 
-- **Python Libraries**: Libraries like Pandas, NumPy, SciPy, and QuantLib are extensively used in [quantitative analysis](../q/quantitative_analysis.md).
-- **[Backtesting](../b/backtesting.md) Platforms**: Platforms like Zipline (https://www.zipline.io/), QuantConnect (https://www.quantconnect.com/), and Backtrader (https://www.backtrader.com/) offer robust environments for [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md).
-- **Trading Analytics Software**: Tools like TradeStation (https://www.tradestation.com/) and MultiCharts (https://www.multicharts.com/) provide sophisticated analytics for quantitative performance analysis.
+- **Python Libraries**: Libraries like Pandas, NumPy, SciPy, and [QuantLib](../q/quantlib.md) are extensively used in [quantitative analysis](../q/quantitative_analysis.md).
+- **[Backtesting](../b/backtesting.md) Platforms**: Platforms like Zipline (https://www.zipline.io/), [QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/), and [Backtrader](../b/backtrader.md) (https://www.[backtrader](../b/backtrader.md).com/) offer robust environments for [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md).
+- **Trading Analytics Software**: Tools like [TradeStation](../t/tradestation.md) (https://www.[tradestation](../t/tradestation.md).com/) and [MultiCharts](../m/multicharts.md) (https://www.[multicharts](../m/multicharts.md).com/) provide sophisticated analytics for quantitative performance analysis.
 
 ## Practical Applications
 

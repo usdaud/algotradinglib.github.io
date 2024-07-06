@@ -12,7 +12,7 @@ Networked [trading systems](../t/trading_systems.md) refer to the interconnected
 
 Front-end systems in a networked [trading environment](../t/trading_environment.md) consist of user interfaces and applications that traders interact with. These include:
 
-- **Trading Platforms:** Software provided by brokerage firms, such as MetaTrader and NinjaTrader, that offer tools for order placement, [technical analysis](../t/technical_analysis.md), and trade management.
+- **Trading Platforms:** Software provided by brokerage firms, such as MetaTrader and [NinjaTrader](../n/ninjatrader.md), that offer tools for order placement, [technical analysis](../t/technical_analysis.md), and trade management.
 - **Web Portals:** Browser-based interfaces that give traders access to market data, account information, and order management from anywhere.
 - **Mobile Applications:** Apps designed for smartphones and tablets that allow traders to monitor markets and execute trades on the go.
 
@@ -87,7 +87,7 @@ Networked [trading systems](../t/trading_systems.md) must comply with various re
 
 ### 1. QuantConnect
 
-**QuantConnect** (https://www.quantconnect.com/) offers an open-source [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to design, backtest, and deploy [trading strategies](../t/trading_strategies.md). Their cloud-based infrastructure supports multiple asset classes and emphasizes the use of networked systems for efficient trading.
+**[QuantConnect](../q/quantconnect.md)** (https://www.[quantconnect](../q/quantconnect.md).com/) offers an open-source [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to design, backtest, and deploy [trading strategies](../t/trading_strategies.md). Their cloud-based infrastructure supports multiple asset classes and emphasizes the use of networked systems for efficient trading.
 
 ### 2. IEX Group
 

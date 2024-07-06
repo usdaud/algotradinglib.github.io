@@ -51,10 +51,10 @@ For example, suppose a trader observes that the price of a futures contract is r
 
 Several companies and platforms provide tools and services specifically for open interest analysis:
 
-- **TradingView**: [TradingView](https://www.tradingview.com/) offers comprehensive charts and analytical tools that incorporate open interest data.
-- **Bloomberg**: [Bloomberg](https://www.bloomberg.com/) provides extensive financial information services, including open interest data.
+- **[TradingView](../t/tradingview.md)**: [TradingView](https://www.tradingview.com/) offers comprehensive charts and analytical tools that incorporate open interest data.
+- **[Bloomberg](../b/bloomberg.md)**: [Bloomberg](https://www.bloomberg.com/) provides extensive financial information services, including open interest data.
 - **CME Group**: [CME Group](https://www.cmegroup.com/) provides open interest data for [futures contracts](../f/futures_contracts.md) traded on its exchanges.
-- **NinjaTrader**: [NinjaTrader](https://ninjatrader.com/) offers advanced charting tools for futures and options trading that include open interest analysis.
+- **[NinjaTrader](../n/ninjatrader.md)**: [NinjaTrader](https://ninjatrader.com/) offers advanced charting tools for futures and options trading that include open interest analysis.
 
 ## Conclusion
 

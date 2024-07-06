@@ -54,17 +54,17 @@ The 9-period MA helps in smoothing out the price data, making it easier to visua
 MetaTrader platforms allow for easy implementation of MAs. Users can attach a moving average indicator to their charts and customize the period to 9. Indicators can also be coded using MQL4/5 for more advanced algorithmic strategies.
 
 ### TradingView
-TradingView provides a user-friendly interface for adding moving averages to charts. Users can script custom indicators using Pine Script to create automated signals based on the 9-period moving average.
+[TradingView](../t/tradingview.md) provides a user-friendly interface for adding moving averages to charts. Users can script custom indicators using Pine Script to create automated signals based on the 9-period moving average.
 
 ### Algorithmic Trading Services
 Several services and platforms offer tools and API access for implementing moving average-based strategies:
-- **QuantConnect**: [quantconnect.com](https://www.quantconnect.com/)
-- **AlgoTrader**: [algotrader.com](https://www.algotrader.com/)
+- **[QuantConnect](../q/quantconnect.md)**: [quantconnect.com](https://www.quantconnect.com/)
+- **[AlgoTrader](../a/algotrader.md)**: [algotrader.com](https://www.algotrader.com/)
 - **Alpaca**: [alpaca.markets](https://alpaca.markets/)
 
 ## Real-World Examples and Companies
 ### QuantConnect
-QuantConnect offers a cloud-based [backtesting](../b/backtesting.md) and [algorithmic trading](../a/algorithmic_trading.md) platform where developers can implement and test strategies utilizing moving averages. They offer extensive documentation and support multiple programming languages such as C# and Python.
+[QuantConnect](../q/quantconnect.md) offers a cloud-based [backtesting](../b/backtesting.md) and [algorithmic trading](../a/algorithmic_trading.md) platform where developers can implement and test strategies utilizing moving averages. They offer extensive documentation and support multiple programming languages such as C# and Python.
 
 ### MathWorks (MATLAB)
 MathWorks provides a comprehensive set of tools for algorithm development and [backtesting](../b/backtesting.md). MATLAB's financial toolbox includes functions for calculating various types of moving averages and building complex [trading algorithms](../t/trading_algorithms.md).

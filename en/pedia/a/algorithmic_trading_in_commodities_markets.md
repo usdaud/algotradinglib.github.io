@@ -82,7 +82,7 @@ News-based [trading strategies](../t/trading_strategies.md) use natural language
 
 ### QuantConnect
 
-QuantConnect provides an innovative platform for designing and implementing [algorithmic trading](../a/algorithmic_trading.md) strategies. Their open-source algorithm development and [backtesting](../b/backtesting.md) environment facilitate strategy creation across cryptocurrencies, equities, futures, options, and forex.
+[QuantConnect](../q/quantconnect.md) provides an innovative platform for designing and implementing [algorithmic trading](../a/algorithmic_trading.md) strategies. Their open-source algorithm development and [backtesting](../b/backtesting.md) environment facilitate strategy creation across cryptocurrencies, equities, futures, options, and forex.
 More information can be found on their [website](https://www.quantconnect.com/).
 
 ### DE Shaw Group

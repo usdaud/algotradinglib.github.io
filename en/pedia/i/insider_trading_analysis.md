@@ -30,7 +30,7 @@ Several tools and platforms aid in the detection and analysis of insider trading
    - Tools like Insider Monkey and GuruFocus offer real-time tracking and analysis of insider trading activities. These platforms often aggregate data from multiple sources to provide comprehensive insights.
 
 3. **[Financial Modeling](../f/financial_modeling.md) and Analysis Software**
-   - Bloomberg Terminal, FactSet, and Thomson Reuters Eikon offer sophisticated [financial modeling](../f/financial_modeling.md) tools that can be used to analyze insider trading data alongside other market data.
+   - [Bloomberg](../b/bloomberg.md) Terminal, [FactSet](../f/factset.md), and Thomson [Reuters](../r/reuters.md) Eikon offer sophisticated [financial modeling](../f/financial_modeling.md) tools that can be used to analyze insider trading data alongside other market data.
 
 ### Real-World Applications
 

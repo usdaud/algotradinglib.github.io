@@ -72,7 +72,7 @@ These strategies do not rely on the price movement of the underlying asset and o
 
 Given Theta's importance, several automated tools and platforms are available to help traders integrate Theta into their [algorithmic trading](../a/algorithmic_trading.md) strategies:
 
-- **QuantConnect**: [QuantConnect](https://www.quantconnect.com/) is an [algorithmic trading](../a/algorithmic_trading.md) platform providing [backtesting](../b/backtesting.md) and live trading support. It allows integration of custom Theta analyses into strategy formulations.
+- **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](https://www.quantconnect.com/) is an [algorithmic trading](../a/algorithmic_trading.md) platform providing [backtesting](../b/backtesting.md) and live trading support. It allows integration of custom Theta analyses into strategy formulations.
 
 - **TAS (Trading Analysis Suite)**: Offered by TradingAnalysis, [TAS](https://tradinganalysis.com/) provides detailed Greek analytics tools that can be used to gauge Theta impact on various options strategies.
 

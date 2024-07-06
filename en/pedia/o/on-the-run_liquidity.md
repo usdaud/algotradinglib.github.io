@@ -62,7 +62,7 @@ Both institutional and retail investors benefit from on-the-run liquidity, albei
 
 ## Regulatory Considerations
 
-Regulations impact the trading of on-the-run securities in various ways. Regulatory bodies such as the U.S. Securities and Exchange Commission (SEC) and the Financial Industry Regulatory Authority (FINRA) have implemented rules to ensure market integrity and protect investors:
+Regulations impact the trading of on-the-run securities in various ways. Regulatory bodies such as the U.S. Securities and Exchange Commission (SEC) and the Financial Industry Regulatory Authority ([FINRA](../f/finra.md)) have implemented rules to ensure market integrity and protect investors:
 
 1. **Transparency:** Regulations require that trading data for on-the-run securities be transparent and readily accessible. This ensures that all market participants have equal access to information.
    

@@ -46,12 +46,12 @@ In statistical [arbitrage](../a/arbitrage.md), Z-Value analysis is central to id
 ## Tools and Software
 
 ### QuantConnect
-QuantConnect offers a comprehensive [algorithmic trading](../a/algorithmic_trading.md) platform where Z-Value analysis can be seamlessly integrated. The platform supports multiple programming languages, such as Python and C#, facilitating the development and [backtesting](../b/backtesting.md) of sophisticated [trading algorithms](../t/trading_algorithms.md).
+[QuantConnect](../q/quantconnect.md) offers a comprehensive [algorithmic trading](../a/algorithmic_trading.md) platform where Z-Value analysis can be seamlessly integrated. The platform supports multiple programming languages, such as Python and C#, facilitating the development and [backtesting](../b/backtesting.md) of sophisticated [trading algorithms](../t/trading_algorithms.md).
 
 Visit [QuantConnect](https://www.quantconnect.com/) for more details.
 
 ### TradeStation
-TradeStation provides a robust suite of tools for traders, including advanced statistical analysis capabilities that encompass Z-Value computation. Traders can utilize these tools to enhance their strategic planning and execution processes.
+[TradeStation](../t/tradestation.md) provides a robust suite of tools for traders, including advanced statistical analysis capabilities that encompass Z-Value computation. Traders can utilize these tools to enhance their strategic planning and execution processes.
 
 Explore more at [TradeStation](https://www.tradestation.com/).
 

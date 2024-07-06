@@ -93,7 +93,7 @@ Incorporating [behavioral finance](../b/behavioral_finance.md) insights into per
 [Alpaca](https://alpaca.markets/) provides a commission-free trading API for building and executing [algorithmic trading](../a/algorithmic_trading.md) strategies. Alpaca's platform supports [real-time market data](../r/real-time_market_data.md) and paper trading for strategy testing.
 
 ### 5. TradeStation
-[TradeStation](https://www.tradestation.com/) offers a powerful platform for [algorithmic trading](../a/algorithmic_trading.md) with advanced charting, [backtesting](../b/backtesting.md), and performance analysis tools. TradeStation's EasyLanguage programming language enables traders to develop custom indicators and strategies.
+[TradeStation](https://www.tradestation.com/) offers a powerful platform for [algorithmic trading](../a/algorithmic_trading.md) with advanced charting, [backtesting](../b/backtesting.md), and performance analysis tools. [TradeStation](../t/tradestation.md)'s EasyLanguage programming language enables traders to develop custom indicators and strategies.
 
 ### 6. QuantConnect
 [QuantConnect](https://www.quantconnect.com/) offers a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools for designing, testing, and deploying [trading strategies](../t/trading_strategies.md). It supports multiple asset classes and allows users to backtest strategies using historical data.
@@ -102,7 +102,7 @@ Incorporating [behavioral finance](../b/behavioral_finance.md) insights into per
 [Numerai](https://numer.ai/) is an AI-driven hedge fund that utilizes machine learning algorithms developed by a global community of data scientists. Numerai combines diverse predictive models to drive trading decisions and maximize performance.
 
 ### 8. Quantlib
-[Quantlib](https://www.quantlib.org/) is an open-source library for [quantitative finance](../q/quantitative_finance.md) that provides tools for pricing [derivatives](../d/derivatives.md), managing portfolios, and [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md). Quantlib's extensive functionality supports sophisticated performance analysis.
+[Quantlib](https://www.quantlib.org/) is an open-source library for [quantitative finance](../q/quantitative_finance.md) that provides tools for pricing [derivatives](../d/derivatives.md), managing portfolios, and [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md). [Quantlib](../q/quantlib.md)'s extensive functionality supports sophisticated performance analysis.
 
 ## Conclusion
 

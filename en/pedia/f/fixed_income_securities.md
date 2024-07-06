@@ -57,7 +57,7 @@ Rating agencies assess the creditworthiness of the bond issuers. The ratings ran
 ### Trading Platforms and Marketplaces
 
 1. **Tradeweb:** A comprehensive platform for electronic trading of fixed income securities. [Tradeweb](https://www.tradeweb.com/)
-2. **MarketAxess:** Offers access to global liquidity in the fixed income market. [MarketAxess](https://www.marketaxess.com/)
+2. **[MarketAxess](../m/marketaxess.md):** Offers access to global liquidity in the fixed income market. [MarketAxess](https://www.marketaxess.com/)
 
 ## Investment Strategies in Fixed Income
 

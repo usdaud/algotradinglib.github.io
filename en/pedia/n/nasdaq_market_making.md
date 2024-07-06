@@ -22,11 +22,11 @@ NASDAQ market making refers to the role and activities of market makers on the N
 
 ### Regulation of Market Makers
 
-Market makers are subject to stringent regulations designed to ensure the integrity and fairness of the financial markets. On NASDAQ, market maker activities are regulated by the Financial Industry Regulatory Authority (FINRA) and the Securities and Exchange Commission (SEC). Key regulations include:
+Market makers are subject to stringent regulations designed to ensure the integrity and fairness of the financial markets. On NASDAQ, market maker activities are regulated by the Financial Industry Regulatory Authority ([FINRA](../f/finra.md)) and the Securities and Exchange Commission (SEC). Key regulations include:
 
 - **Regulation NMS (National Market System)**: Mandates that market makers ensure a high degree of competition and transparency in trading activities.
 
-- **FINRA Rules**: Market makers must adhere to various FINRA rules, such as maintaining fair and orderly markets, providing accurate and timely trade reports, and avoiding conflicts of interest.
+- **[FINRA](../f/finra.md) Rules**: Market makers must adhere to various [FINRA](../f/finra.md) rules, such as maintaining fair and orderly markets, providing accurate and timely trade reports, and avoiding conflicts of interest.
 
 - **SEC Rule 15c3-5**: This rule requires market makers to implement [risk management](../r/risk_management.md) controls and supervisory procedures to limit financial exposure.
 

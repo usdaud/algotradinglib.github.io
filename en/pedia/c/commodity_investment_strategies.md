@@ -86,7 +86,7 @@ Swaps can provide more tailored hedging solutions compared to standardized [futu
 
 ### What are Commodity Indices?
 
-Commodity indices are benchmarks composed of multiple commodity prices, designed to reflect the overall performance of the commodity market or a specific commodity sector. Examples include the S&P GSCI (Goldman Sachs Commodity Index) and the Bloomberg Commodity Index (BCOM).
+Commodity indices are benchmarks composed of multiple commodity prices, designed to reflect the overall performance of the commodity market or a specific commodity sector. Examples include the S&P GSCI (Goldman Sachs Commodity Index) and the [Bloomberg](../b/bloomberg.md) Commodity Index (BCOM).
 
 ### Investing in Commodity Indices
 

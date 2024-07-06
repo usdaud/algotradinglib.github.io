@@ -24,9 +24,9 @@ Worldwide Market Analysis is a comprehensive term that encompasses the examinati
 
 ### Key Players in Worldwide Market Analysis
 
-1. **Bloomberg L.P.**: A global leader in financial data and analytics, Bloomberg provides extensive market analysis through its Terminal, a software that aggregates real-time data, news, and research (https://www.bloomberg.com).
+1. **[Bloomberg](../b/bloomberg.md) L.P.**: A global leader in financial data and analytics, [Bloomberg](../b/bloomberg.md) provides extensive market analysis through its Terminal, a software that aggregates real-time data, news, and research (https://www.[bloomberg](../b/bloomberg.md).com).
 
-2. **Reuters**: Known for its comprehensive news and information services, Reuters offers market data and analysis covering equities, fixed income, currencies, and commodities (https://www.reuters.com).
+2. **[Reuters](../r/reuters.md)**: Known for its comprehensive news and information services, [Reuters](../r/reuters.md) offers market data and analysis covering equities, fixed income, currencies, and commodities (https://www.[reuters](../r/reuters.md).com).
 
 3. **Goldman Sachs**: A leading global investment banking, securities, and investment management firm, Goldman Sachs offers detailed market research and analysis to its clients (https://www.goldmansachs.com).
 

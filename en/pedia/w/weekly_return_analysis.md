@@ -25,7 +25,7 @@ In [algorithmic trading](../a/algorithmic_trading.md), weekly return analysis he
 
 ### Data Collection
 
-Accurate data collection is paramount. Sources can include historical data feeds from financial exchanges, specialized data vendors, or platforms like Bloomberg and Reuters.
+Accurate data collection is paramount. Sources can include historical data feeds from financial exchanges, specialized data vendors, or platforms like [Bloomberg](../b/bloomberg.md) and [Reuters](../r/reuters.md).
 
 Companies providing comprehensive data: 
 - [Bloomberg](https://www.bloomberg.com)
@@ -112,7 +112,7 @@ Numerous research papers explore the effectiveness of weekly return analysis in 
 
 ### Trading Platforms
 
-1. **QuantConnect:** Cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform integrating data, [backtesting](../b/backtesting.md), and live trading capabilities.
+1. **[QuantConnect](../q/quantconnect.md):** Cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform integrating data, [backtesting](../b/backtesting.md), and live trading capabilities.
    - [QuantConnect](https://www.quantconnect.com)
 2. **MetaTrader:** Popular among retail traders for its robust scripting language (MQL) and extensive [backtesting](../b/backtesting.md) tools.
    - [MetaTrader](https://www.metatrader4.com)

@@ -79,11 +79,11 @@ In this example, the CMO is 5.88, which implies a neutral zone where neither ove
 
 ## Software Implementation
 
-Traders and analysts can calculate the CMO using various software tools and platforms. Popular trading software such as MetaTrader, TradingView, and NinjaTrader offer built-in functions for the Chande Momentum Oscillator. 
+Traders and analysts can calculate the CMO using various software tools and platforms. Popular trading software such as MetaTrader, [TradingView](../t/tradingview.md), and [NinjaTrader](../n/ninjatrader.md) offer built-in functions for the Chande Momentum Oscillator. 
 
 ### TradingView Example
 
-To calculate the CMO in TradingView, you can use the following script:
+To calculate the CMO in [TradingView](../t/tradingview.md), you can use the following script:
 
 ```pine
 //@version=4

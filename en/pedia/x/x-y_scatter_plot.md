@@ -49,8 +49,8 @@ In an example involving moving averages, an X-Y scatter plot could be used to ex
 
 Several financial institutions and [algorithmic trading](../a/algorithmic_trading.md) platforms provide robust tools to generate X-Y scatter plots, some of which include:
 
-1. **Bloomberg Terminal:** A computerized system providing financial data widely used globally [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/).
-2. **Thomson Reuters Eikon:** A professional-grade software suite for financial analysis [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software).
+1. **[Bloomberg](../b/bloomberg.md) Terminal:** A computerized system providing financial data widely used globally [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/).
+2. **Thomson [Reuters](../r/reuters.md) Eikon:** A professional-grade software suite for financial analysis [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software).
 3. **Python Libraries:** Tools such as `matplotlib` and `seaborn` in Python are powerful for creating scatter plots programmatically. For instance, matplotlib can be found at [Matplotlib](https://matplotlib.org/).
 
 ## Python Example
@@ -73,4 +73,4 @@ plt.show()
 
 ## Conclusion
 
-X-Y scatter plots are invaluable for visualizing the relationships between two variables, identifying correlations, trends, and outliers. In the domain of [algorithmic trading](../a/algorithmic_trading.md), they facilitate the assessment of [trading strategies](../t/trading_strategies.md), model validations, and parameter optimizations. Tools like Bloomberg Terminal and Python's `matplotlib` offer sophisticated means to construct these plots, proving indispensable in data analysis workflows.
+X-Y scatter plots are invaluable for visualizing the relationships between two variables, identifying correlations, trends, and outliers. In the domain of [algorithmic trading](../a/algorithmic_trading.md), they facilitate the assessment of [trading strategies](../t/trading_strategies.md), model validations, and parameter optimizations. Tools like [Bloomberg](../b/bloomberg.md) Terminal and Python's `matplotlib` offer sophisticated means to construct these plots, proving indispensable in data analysis workflows.

@@ -71,8 +71,8 @@ Spinning top patterns are indispensable tools in the arsenal of algorithmic trad
 
 For more information on [algorithmic trading](../a/algorithmic_trading.md) and [pattern recognition](../p/pattern_recognition.md) in financial markets, you might explore resources from reputable financial firms or educational platforms specializing in [trading strategies](../t/trading_strategies.md) and algorithm development.
 
-- **QuantConnect**: [quantconnect.com](https://www.quantconnect.com/)
-- **AlgoTrader**: [algotrader.com](https://www.algotrader.com/)
+- **[QuantConnect](../q/quantconnect.md)**: [quantconnect.com](https://www.quantconnect.com/)
+- **[AlgoTrader](../a/algotrader.md)**: [algotrader.com](https://www.algotrader.com/)
 - **Numerai**: [numer.ai](https://numer.ai/)
 
 By leveraging these resources and implementing a disciplined approach, traders can unlock the full potential of spinning top patterns in their trading endeavors.

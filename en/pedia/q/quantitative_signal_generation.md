@@ -136,7 +136,7 @@ Evaluating the effectiveness of quantitative signals is crucial for maintaining 
 
 Several platforms and tools can aid in quantitative signal generation:
 
-1. **QuantConnect**
+1. **[QuantConnect](../q/quantconnect.md)**
    - A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple languages, including Python and C#.
    - URL: [QuantConnect](https://www.quantconnect.com/)
 
@@ -144,11 +144,11 @@ Several platforms and tools can aid in quantitative signal generation:
    - An API service offering free and premium access to financial data.
    - URL: [AlphaVantage](https://www.alphavantage.co/)
 
-3. **QuantLib**
+3. **[QuantLib](../q/quantlib.md)**
    - An open-source library for [quantitative finance](../q/quantitative_finance.md), offering tools for modeling, trading, and [risk management](../r/risk_management.md).
    - URL: [QuantLib](https://www.quantlib.org/)
 
-4. **Backtrader**
+4. **[Backtrader](../b/backtrader.md)**
    - A Python-based [backtesting](../b/backtesting.md) library for [trading strategies](../t/trading_strategies.md).
    - URL: [Backtrader](https://www.backtrader.com/)
 
@@ -172,7 +172,7 @@ Let's walk through a simplified case study of implementing a [quantitative tradi
    - Generate sell signals when the short-term moving average crosses below the long-term moving average.
 
 4. **[Backtesting](../b/backtesting.md)**
-   - Implement the strategy using a [backtesting](../b/backtesting.md) framework like Backtrader.
+   - Implement the strategy using a [backtesting](../b/backtesting.md) framework like [Backtrader](../b/backtrader.md).
    - Run the backtest to simulate historical performance, adjusting parameters as needed.
 
 5. **[Risk Management](../r/risk_management.md)**
@@ -183,7 +183,7 @@ Let's walk through a simplified case study of implementing a [quantitative tradi
    - Evaluate the strategy using metrics like [Sharpe ratio](../s/sharpe_ratio.md), maximum drawdown, and win/loss ratio.
 
 7. **Live Execution**
-   - Deploy the strategy on a trading platform like QuantConnect, enabling live trading.
+   - Deploy the strategy on a trading platform like [QuantConnect](../q/quantconnect.md), enabling live trading.
    - Continuously monitor the performance and make adjustments as needed.
 
 ### Conclusion

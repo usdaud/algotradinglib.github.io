@@ -71,13 +71,13 @@ To engage in currency [arbitrage](../a/arbitrage.md), traders commonly use advan
 MetaTrader is a popular trading platform that offers comprehensive tools for [technical analysis](../t/technical_analysis.md), automated trading, and multi-currency trading. These features make it suitable for executing currency [arbitrage](../a/arbitrage.md) strategies.
 
 ### 2. TradingView
-TradingView is a web-based platform providing advanced charting tools, real-time data, and social networking features for traders. It allows users to monitor multiple currency pairs and identify [arbitrage](../a/arbitrage.md) opportunities.
+[TradingView](../t/tradingview.md) is a web-based platform providing advanced charting tools, real-time data, and social networking features for traders. It allows users to monitor multiple currency pairs and identify [arbitrage](../a/arbitrage.md) opportunities.
 
 ### 3. FIX API
 Financial Information eXchange (FIX) API is a protocol for real-time electronic trading. It provides fast and secure communication between [trading systems](../t/trading_systems.md), enabling high-frequency and [algorithmic trading](../a/algorithmic_trading.md) strategies like [arbitrage](../a/arbitrage.md).
 
 ### 4. Bloomberg Terminal
-Bloomberg Terminal provides access to real-time financial data, news, and trading tools. It is widely used by professional traders and institutions to monitor markets, analyze data, and execute trades.
+[Bloomberg](../b/bloomberg.md) Terminal provides access to real-time financial data, news, and trading tools. It is widely used by professional traders and institutions to monitor markets, analyze data, and execute trades.
 
 ## Major Players and Companies
 

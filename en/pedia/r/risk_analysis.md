@@ -69,10 +69,10 @@ Establishing predefined risk limits for individual positions, strategies, and th
 MATLAB is widely used for its robust numerical computing capabilities. It offers a range of toolboxes and functions specifically designed for [financial risk management](../f/financial_risk_management.md) and [algorithmic trading](../a/algorithmic_trading.md).
 
 ### R and Python
-R and Python are popular among quants and data scientists. Libraries such as QuantLib, pandas, and NumPy are extensively used for statistical analysis, risk modeling, and [backtesting](../b/backtesting.md).
+R and Python are popular among quants and data scientists. Libraries such as [QuantLib](../q/quantlib.md), pandas, and NumPy are extensively used for statistical analysis, risk modeling, and [backtesting](../b/backtesting.md).
 
 ### Trading Platforms
-Several trading platforms come equipped with [risk management](../r/risk_management.md) tools. Examples include MetaTrader, Interactive Brokers (https://www.interactivebrokers.com/en/home.php), and QuantConnect (https://www.quantconnect.com/).
+Several trading platforms come equipped with [risk management](../r/risk_management.md) tools. Examples include MetaTrader, Interactive Brokers (https://www.interactivebrokers.com/en/home.php), and [QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/).
 
 ## Regulatory Aspects of Risk Management
 

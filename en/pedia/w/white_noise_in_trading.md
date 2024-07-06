@@ -86,8 +86,8 @@ Several tools and software packages are available for analyzing white noise and 
 
 - **R** and **Python**: Both languages have extensive libraries for [time series analysis](../t/time_series_analysis.md), such as `statsmodels` (Python) and `forecast` (R).
 - **MATLAB**: Provides a range of functions for statistical analysis and algorithm development.
-- **QuantConnect**: An [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple programming languages and provides tools for [backtesting](../b/backtesting.md) and live trading.
-- **AlgoTrader**: A trading strategy development platform that offers support for various asset classes and advanced analytics capabilities.
+- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple programming languages and provides tools for [backtesting](../b/backtesting.md) and live trading.
+- **[AlgoTrader](../a/algotrader.md)**: A trading strategy development platform that offers support for various asset classes and advanced analytics capabilities.
 
 ### Conclusion
 

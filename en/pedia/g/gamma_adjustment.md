@@ -40,7 +40,7 @@ In [algorithmic trading](../a/algorithmic_trading.md), gamma adjustment involves
 
 Several companies and trading platforms specialize in providing tools and services for gamma adjustment in [algorithmic trading](../a/algorithmic_trading.md). Some noteworthy examples include:
 
-- **QuantConnect**: QuantConnect [website](https://www.quantconnect.com/) provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports options trading and gamma adjustment. Traders can use QuantConnect's extensive libraries and data feeds to develop and test strategies that incorporate gamma adjustment techniques.
+- **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](../q/quantconnect.md) [website](https://www.quantconnect.com/) provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports options trading and gamma adjustment. Traders can use [QuantConnect](../q/quantconnect.md)'s extensive libraries and data feeds to develop and test strategies that incorporate gamma adjustment techniques.
 - **Numerix**: Numerix [website](https://www.numerix.com/) offers software solutions for [risk management](../r/risk_management.md) and [derivatives](../d/derivatives.md) pricing. Their tools include advanced analytics for managing [gamma exposure](../g/gamma_exposure.md) and optimizing option strategies.
 - **OptionsPlay**: OptionsPlay [website](https://www.optionsplay.com/) provides a suite of trading tools and analytics for options traders, including features for managing gamma and other [option Greeks](../o/option_greeks.md).
 

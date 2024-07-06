@@ -91,8 +91,8 @@ To illustrate the principles and benefits of equity curve analysis, we examine s
    - Typically features smoother equity curves with moderate returns and lower drawdowns.
 
 3. **[Algorithmic Trading](../a/algorithmic_trading.md) Platforms**:
-   - **MetaTrader**: Provides tools for [backtesting](../b/backtesting.md) and analyzing equity curves (https://www.metatrader4.com/).
-   - **QuantConnect**: Offers a robust environment for developing, testing, and optimizing [trading strategies](../t/trading_strategies.md) with comprehensive performance analysis tools (https://www.quantconnect.com/).
+   - **MetaTrader**: Provides tools for [backtesting](../b/backtesting.md) and analyzing equity curves (https://www.[metatrader4](../m/metatrader4.md).com/).
+   - **[QuantConnect](../q/quantconnect.md)**: Offers a robust environment for developing, testing, and optimizing [trading strategies](../t/trading_strategies.md) with comprehensive performance analysis tools (https://www.[quantconnect](../q/quantconnect.md).com/).
 
 ### Advanced Topics in Equity Curve Analysis
 
@@ -114,4 +114,4 @@ Equity curve analysis can be extended by exploring advanced topics:
 
 Equity Curve Analysis is a core component of [algorithmic trading](../a/algorithmic_trading.md) that provides critical insights into the performance, risk, and viability of [trading strategies](../t/trading_strategies.md). By thoroughly examining the equity curve and associated metrics, traders can enhance their decision-making processes, optimize their strategies, and ultimately improve their trading outcomes.
 
-[Algorithmic trading](../a/algorithmic_trading.md) platforms such as MetaTrader and QuantConnect offer robust tools for performing equity curve analysis, aiding traders in refining their strategies for better results. Continuous study and application of advanced techniques can further empower traders to navigate the complexities of the markets more effectively.
+[Algorithmic trading](../a/algorithmic_trading.md) platforms such as MetaTrader and [QuantConnect](../q/quantconnect.md) offer robust tools for performing equity curve analysis, aiding traders in refining their strategies for better results. Continuous study and application of advanced techniques can further empower traders to navigate the complexities of the markets more effectively.

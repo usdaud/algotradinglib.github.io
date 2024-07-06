@@ -53,7 +53,7 @@ Several advanced software and platforms have been developed to assist in compreh
 
 - **MSCISolutions**: [MSCI](https://www.msci.com/) offers cutting-edge [risk management](../r/risk_management.md) tools tailored for institutional investors.
 - **RiskMetrics**: Acquired by MSCI, provides sophisticated models for assessing and managing financial risk.
-- **Bloomberg PORT**: [Bloomberg](https://www.bloomberg.com/professional/product/portfolio-risk-and-analytics) offers risk analytics tools integrated with its financial information platform.
+- **[Bloomberg](../b/bloomberg.md) PORT**: [Bloomberg](https://www.bloomberg.com/professional/product/portfolio-risk-and-analytics) offers risk analytics tools integrated with its financial information platform.
 - **BlackRock Aladdin**: [BlackRock's Aladdin](https://www.blackrock.com/aladdin) is a renowned platform providing risk analytics and [portfolio management](../p/portfolio_management.md) solutions.
 
 ## Regulatory Frameworks in Portfolio Risk Management

@@ -40,7 +40,7 @@ Crossover strategies involving the 8-period SMA are also prevalent. A simple str
 
 ### Algorithmic Implementation
 
-In [algorithmic trading](../a/algorithmic_trading.md), the 8-period SMA can be implemented using various programming languages and trading platforms. Popular choices include Python with libraries such as Pandas and TA-Lib, and trading platforms like MetaTrader and TradingView.
+In [algorithmic trading](../a/algorithmic_trading.md), the 8-period SMA can be implemented using various programming languages and trading platforms. Popular choices include Python with libraries such as Pandas and TA-Lib, and trading platforms like MetaTrader and [TradingView](../t/tradingview.md).
 
 #### Python Example
 
@@ -64,10 +64,10 @@ For any algotrading strategy involving the 8-period SMA, [backtesting](../b/back
 
 #### Backtesting Example with Python
 
-Using a [backtesting](../b/backtesting.md) library such as Backtrader, we can test an 8-period SMA crossover strategy:
+Using a [backtesting](../b/backtesting.md) library such as [Backtrader](../b/backtrader.md), we can test an 8-period SMA crossover strategy:
 
 ```python
-import backtrader as bt
+import [backtrader](../b/backtrader.md) as bt
 
 class SMACrossStrategy(bt.Strategy):
     params = (('sma_period', 8),)

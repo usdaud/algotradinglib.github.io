@@ -41,7 +41,7 @@ This indicates that for every dollar risked, the trader stands to gain $2.5 on a
 ## Tools and Software
 Several trading platforms and software provide features to calculate the Edge Ratio, often integrated into more comprehensive trading analytics and performance monitoring tools. Some popular platforms include:
 - **Trading Blox**: [Trading Blox](https://www.tradingblox.com/)
-- **TradeStation**: [TradeStation](https://www.tradestation.com/)
+- **[TradeStation](../t/tradestation.md)**: [TradeStation](https://www.tradestation.com/)
 - **MetaTrader**: [MetaTrader](https://www.metatrader4.com/)
 
 These platforms offer advanced analytical tools that can help traders compute various [performance metrics](../p/performance_metrics.md), including the Edge Ratio, to optimize their [trading strategies](../t/trading_strategies.md).

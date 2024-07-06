@@ -18,7 +18,7 @@ Execution algorithms are specialized software programs used in [algorithmic trad
      - Simple and uniform execution spread.
      - Useful for predictable price movement.
    - **Use Cases**: Orders where the trader wants to avoid large deviations in execution times.
-   - **Real-World Example**: Bloomberg's EMSX platform provides TWAP algorithms to achieve time-sensitive order execution.
+   - **Real-World Example**: [Bloomberg](../b/bloomberg.md)'s EMSX platform provides TWAP algorithms to achieve time-sensitive order execution.
 
 3. **Implementation Shortfall (IS)**
    - The IS algorithm attempts to minimize the difference between the decision price and the final execution price. It balances the trade-off between market impact and timing risk.

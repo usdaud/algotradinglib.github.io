@@ -8,7 +8,7 @@ Value Chain Analysis (VCA) is a strategic tool used to evaluate the various acti
 
 Data is the foundation of any [algorithmic trading](../a/algorithmic_trading.md) strategy. The process includes:
 
-- **Market Data Providers**: Vendors supplying historical and real-time data, such as Bloomberg ([Bloomberg](https://www.bloomberg.com/)) and Thomson Reuters ([Refinitiv](https://www.refinitiv.com/)).
+- **Market Data Providers**: Vendors supplying historical and real-time data, such as [Bloomberg](../b/bloomberg.md) ([Bloomberg](https://www.bloomberg.com/)) and Thomson [Reuters](../r/reuters.md) ([Refinitiv](https://www.refinitiv.com/)).
 - **[Alternative Data](../a/alternative_data.md) Sources**: Social media feeds, news articles, and other non-market data that can influence trading decisions.
 - **[Data Cleaning](../d/data_cleaning.md)**: Ensuring the data is free of errors and formatted correctly for use in algorithms.
 
@@ -66,7 +66,7 @@ Constant refinement of algorithms and strategies is crucial:
 
 A robust technological backbone supports the entire algotrading value chain:
 
-- **High-frequency Trading Platforms**: Specialized platforms like QuantConnect ([QuantConnect](https://www.quantconnect.com/)) for developing and deploying algorithms.
+- **High-frequency Trading Platforms**: Specialized platforms like [QuantConnect](../q/quantconnect.md) ([QuantConnect](https://www.quantconnect.com/)) for developing and deploying algorithms.
 - **Cloud Computing**: Leveraging cloud services for scalable computation and storage solutions.
 - **API Integrations**: Seamless integration with various services and data providers to ensure smooth operations.
 
@@ -90,7 +90,7 @@ Prop trading firms focus exclusively on trading their own capital using advanced
 
 Retail trading platforms increasingly offer algotrading capabilities:
 
-- **Automated Trading Platforms**: Platforms such as MetaTrader ([MetaQuotes](https://www.metaquotes.net/)) and TradeStation ([TradeStation](https://www.tradestation.com/)).
+- **Automated Trading Platforms**: Platforms such as MetaTrader ([MetaQuotes](https://www.metaquotes.net/)) and [TradeStation](../t/tradestation.md) ([TradeStation](https://www.tradestation.com/)).
 - **DIY Algotrading**: Services allowing retail traders to create and test their own [trading algorithms](../t/trading_algorithms.md).
 
 ## Regulatory Compliance

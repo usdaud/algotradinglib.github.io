@@ -102,10 +102,10 @@ Several software tools and platforms can be used to implement and deploy algorit
 - **MetaTrader**: A widely-used platform that offers automated trading capabilities and supports various [technical analysis](../t/technical_analysis.md) tools required for [pattern recognition](../p/pattern_recognition.md).
   [MetaTrader](https://www.metatrader4.com)
 
-- **QuantConnect**: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple programming languages, including Python and C#. It offers extensive [backtesting](../b/backtesting.md) capabilities and integration with brokerages for live trading.
+- **[QuantConnect](../q/quantconnect.md)**: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple programming languages, including Python and C#. It offers extensive [backtesting](../b/backtesting.md) capabilities and integration with brokerages for live trading.
   [QuantConnect](https://www.quantconnect.com)
 
-- **TradingView**: Known for its robust charting tools, TradingView also offers features for creating and [backtesting](../b/backtesting.md) [trading algorithms](../t/trading_algorithms.md). It is a great tool for visualizing triangle [chart patterns](../c/chart_patterns.md) and other [technical indicators](../t/technical_indicators.md).
+- **[TradingView](../t/tradingview.md)**: Known for its robust charting tools, [TradingView](../t/tradingview.md) also offers features for creating and [backtesting](../b/backtesting.md) [trading algorithms](../t/trading_algorithms.md). It is a great tool for visualizing triangle [chart patterns](../c/chart_patterns.md) and other [technical indicators](../t/technical_indicators.md).
   [TradingView](https://www.tradingview.com)
 
 Case Studies

@@ -58,9 +58,9 @@ Advanced machine learning techniques enable the discovery of non-correlational p
 
 #### Algorithmic Tools
 
-- **[Backtesting](../b/backtesting.md) Software:** Platforms like QuantConnect and MetaTrader provide robust environments for [backtesting](../b/backtesting.md) non-correlational strategies using historical data.
+- **[Backtesting](../b/backtesting.md) Software:** Platforms like [QuantConnect](../q/quantconnect.md) and MetaTrader provide robust environments for [backtesting](../b/backtesting.md) non-correlational strategies using historical data.
 - **Machine Learning Frameworks:** Libraries such as TensorFlow and scikit-learn offer tools for building predictive models that can identify non-correlated asset relationships.
-- **API Access to Market Data:** Real-time and historical data providers, such as Bloomberg and Quandl, supply comprehensive datasets necessary for [backtesting](../b/backtesting.md) and implementing non-correlational strategies.
+- **API Access to Market Data:** Real-time and historical data providers, such as [Bloomberg](../b/bloomberg.md) and [Quandl](../q/quandl.md), supply comprehensive datasets necessary for [backtesting](../b/backtesting.md) and implementing non-correlational strategies.
 
 ### Challenges and Considerations
 

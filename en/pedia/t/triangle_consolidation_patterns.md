@@ -57,7 +57,7 @@ Using Python, a simple [pattern recognition](../p/pattern_recognition.md) algori
 Before deploying triangle pattern-based strategies in live markets, it is crucial to backtest them using historical price data. This involves simulating trades to evaluate the performance and adjust the parameters for optimal results.
 
 ##### Backtesting Tools:
-- **QuantConnect:** A cloud-based trading platform offering comprehensive [backtesting](../b/backtesting.md) tools.
+- **[QuantConnect](../q/quantconnect.md):** A cloud-based trading platform offering comprehensive [backtesting](../b/backtesting.md) tools.
 - **Zipline:** An open-source [backtesting](../b/backtesting.md) library in Python.
 
 #### 3. Risk Management
@@ -75,9 +75,9 @@ High-frequency trading (HFT) involves executing a large number of orders at rapi
 
 Several platforms and tools facilitate the implementation of triangle pattern strategies in algo trading. These include:
 
-- **TradingView:** A popular charting tool with powerful scripting capabilities to develop custom indicators and strategies.
+- **[TradingView](../t/tradingview.md):** A popular charting tool with powerful scripting capabilities to develop custom indicators and strategies.
 - **MetaTrader 4/5:** A versatile trading platform with [algorithmic trading](../a/algorithmic_trading.md) features using the MQL4/MQL5 languages.
-- **QuantConnect:** Offers a collaborative environment for developing and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies.
+- **[QuantConnect](../q/quantconnect.md):** Offers a collaborative environment for developing and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies.
 
 ### Real-world Applications and Case Studies
 

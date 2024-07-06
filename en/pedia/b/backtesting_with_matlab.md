@@ -32,7 +32,7 @@ To get started with [backtesting](../b/backtesting.md) in MATLAB, one must have 
 
 ### Data Acquisition and Preparation
 
-Reliable historical market data can be sourced from multiple providers such as Bloomberg, Reuters, or dedicated financial data services. MATLAB supports data import from various formats including CSV, Excel, and databases like SQL. Preprocessing involves handling missing values, adjusting for stock splits, and normalizing data series.
+Reliable historical market data can be sourced from multiple providers such as [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), or dedicated financial data services. MATLAB supports data import from various formats including CSV, Excel, and databases like SQL. Preprocessing involves handling missing values, adjusting for stock splits, and normalizing data series.
 
 ```matlab
 % Example: Loading data from a CSV file

@@ -90,7 +90,7 @@ Before deploying any strategy, thorough [backtesting](../b/backtesting.md) on hi
 
 - **Tools Used**:
   - Python libraries such as Pandas, NumPy
-  - [Backtesting](../b/backtesting.md) frameworks like Backtrader
+  - [Backtesting](../b/backtesting.md) frameworks like [Backtrader](../b/backtrader.md)
   - [Quantitative analysis](../q/quantitative_analysis.md) tools such as MATLAB
 
 ### 4. Execution

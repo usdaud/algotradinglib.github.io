@@ -37,8 +37,8 @@ Order book data presents a real-time view of buy and sell orders in the market. 
 
 ### Data Sources
 1. **Stock Exchanges**: Primary sources of raw market data.
-2. **Data Providers**: Companies like Bloomberg, Reuters, and FactSet offer comprehensive historical data packages.
-3. **APIs and Data Feeds**: Services like Alpha Vantage (https://www.alphavantage.co/), IEX Cloud (https://iexcloud.io/), and Quandl provide APIs for accessing historical market data.
+2. **Data Providers**: Companies like [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), and [FactSet](../f/factset.md) offer comprehensive historical data packages.
+3. **APIs and Data Feeds**: Services like Alpha Vantage (https://www.alphavantage.co/), IEX Cloud (https://iexcloud.io/), and [Quandl](../q/quandl.md) provide APIs for accessing historical market data.
 
 ### Data Storage
 Traders often store historical data in databases such as SQL, NoSQL, or time-series databases depending on the volume and complexity of the data.
@@ -60,7 +60,7 @@ R is another popular tool with libraries like `quantmod`, `TTR`, and `xts` speci
 MATLAB provides robust tools for mathematical modeling and is extensively used for [quantitative analysis](../q/quantitative_analysis.md) in finance.
 
 ### 4. Trading Platforms
-Platforms like MetaTrader, NinjaTrader, and TradingView offer built-in tools for [backtesting](../b/backtesting.md) and strategy development.
+Platforms like MetaTrader, [NinjaTrader](../n/ninjatrader.md), and [TradingView](../t/tradingview.md) offer built-in tools for [backtesting](../b/backtesting.md) and strategy development.
 
 ## Methodologies in Historical Data Analysis
 

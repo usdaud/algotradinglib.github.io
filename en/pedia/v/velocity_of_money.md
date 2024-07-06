@@ -60,8 +60,8 @@ For instance, if the velocity of money is increasing, indicating a bullish econo
 Algorithm creators often incorporate multiple [economic indicators](../e/economic_indicators.md) including VoM, alongside metrics like unemployment rates, consumer spending, and interest rates, to create a comprehensive trading strategy. Advanced machine learning models can also be trained to recognize patterns and make predictions based on historical VoM data.
 
 Several companies and platforms provide services and tools for [algorithmic trading](../a/algorithmic_trading.md). These include:
-1. **QuantConnect** - https://www.quantconnect.com
-2. **AlgoTrader** - https://www.algotrader.com
+1. **[QuantConnect](../q/quantconnect.md)** - https://www.[quantconnect](../q/quantconnect.md).com
+2. **[AlgoTrader](../a/algotrader.md)** - https://www.[algotrader](../a/algotrader.md).com
 3. **Kensho Technologies** - https://www.kensho.com
 
 ## Conclusion

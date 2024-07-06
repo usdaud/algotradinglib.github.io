@@ -94,7 +94,7 @@ Financial markets are dynamic, and conditions can change rapidly. Continuous lea
 
 ### 5.3. Retail Algorithmic Trading Platforms
 
-Platforms like QuantConnect and TradeStation provide tools for individual traders to develop, backtest, and deploy [algorithmic trading](../a/algorithmic_trading.md) strategies. These platforms include features for risk [capital allocation](../c/capital_allocation.md), enabling retail traders to implement professional-grade [risk management](../r/risk_management.md) techniques.
+Platforms like [QuantConnect](../q/quantconnect.md) and [TradeStation](../t/tradestation.md) provide tools for individual traders to develop, backtest, and deploy [algorithmic trading](../a/algorithmic_trading.md) strategies. These platforms include features for risk [capital allocation](../c/capital_allocation.md), enabling retail traders to implement professional-grade [risk management](../r/risk_management.md) techniques.
 
 - [QuantConnect](https://www.quantconnect.com/)
 - [TradeStation](https://www.tradestation.com/)

@@ -100,9 +100,9 @@ Statistical models such as:
 
 Several platforms and tools assist in automated [breakout trading](../b/breakout_trading.md):
 
-- **MetaTrader**: (https://www.metatrader4.com/) A popular platform for creating and testing automated [trading strategies](../t/trading_strategies.md).
-- **QuantConnect**: (https://www.quantconnect.com/) Provides an [algorithmic trading](../a/algorithmic_trading.md) platform with access to equities, futures, forex, and crypto.
-- **TradingView**: (https://www.tradingview.com/) Useful for charting and developing custom indicators and strategies.
+- **MetaTrader**: (https://www.[metatrader4](../m/metatrader4.md).com/) A popular platform for creating and testing automated [trading strategies](../t/trading_strategies.md).
+- **[QuantConnect](../q/quantconnect.md)**: (https://www.[quantconnect](../q/quantconnect.md).com/) Provides an [algorithmic trading](../a/algorithmic_trading.md) platform with access to equities, futures, forex, and crypto.
+- **[TradingView](../t/tradingview.md)**: (https://www.[tradingview](../t/tradingview.md).com/) Useful for charting and developing custom indicators and strategies.
 - **Interactive Brokers API**: (https://www.interactivebrokers.com/) Allows integration with custom-built algorithms for trading.
 
 ## Risk Management

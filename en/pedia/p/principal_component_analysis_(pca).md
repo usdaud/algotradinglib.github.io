@@ -48,10 +48,10 @@ PCA plays a pivotal role in [algorithmic trading](../a/algorithmic_trading.md) b
 
 ### Example: Quantitative Trading Software
 
-PCA is integrated into many [quantitative trading](../q/quantitative_trading.md) software platforms. One notable example is QuantConnect, an open-source [algorithmic trading](../a/algorithmic_trading.md) platform:
+PCA is integrated into many [quantitative trading](../q/quantitative_trading.md) software platforms. One notable example is [QuantConnect](../q/quantconnect.md), an open-source [algorithmic trading](../a/algorithmic_trading.md) platform:
 - **Website:** [QuantConnect](https://www.quantconnect.com)
 
-QuantConnect provides tools for [backtesting](../b/backtesting.md) and live trading, where PCA can be employed to analyze financial data and derive [trading strategies](../t/trading_strategies.md).
+[QuantConnect](../q/quantconnect.md) provides tools for [backtesting](../b/backtesting.md) and live trading, where PCA can be employed to analyze financial data and derive [trading strategies](../t/trading_strategies.md).
 
 ## Mathematical Representation
 

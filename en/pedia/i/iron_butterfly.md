@@ -92,7 +92,7 @@ Professional traders often tweak the Iron Butterfly to suit specific market cond
 
 Modern trading platforms and software provide tools for constructing and managing [Iron Butterfly strategies](../i/iron_butterfly_strategies.md). For instance:
 
-- **ThinkOrSwim by TD Ameritrade**: Provides tools for options trade execution, [risk analysis](../r/risk_analysis.md), and automatic alerts for managing Iron Butterfly positions.
+- **[ThinkOrSwim](../t/thinkorswim.md) by TD Ameritrade**: Provides tools for options trade execution, [risk analysis](../r/risk_analysis.md), and automatic alerts for managing Iron Butterfly positions.
   
   More information can be found at: [TD Ameritrade ThinkOrSwim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
 
@@ -100,7 +100,7 @@ Modern trading platforms and software provide tools for constructing and managin
   
   More information can be found at: [Interactive Brokers](https://www.interactivebrokers.com/en/index.php?f=options-trading)
 
-- **TradeStation**: Known for its advanced analytical tools and strategy automation, TradeStation supports complex options strategies including Iron Butterfly with detailed [performance analytics](../p/performance_analytics.md).
+- **[TradeStation](../t/tradestation.md)**: Known for its advanced analytical tools and strategy automation, [TradeStation](../t/tradestation.md) supports complex options strategies including Iron Butterfly with detailed [performance analytics](../p/performance_analytics.md).
   
   More information can be found at: [TradeStation](https://www.tradestation.com/pricing/options/)
 

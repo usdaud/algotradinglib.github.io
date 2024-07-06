@@ -1,6 +1,6 @@
 # Delta Neutral Strategies
 
-Delta neutral strategies are a class of trading strategies designed to hedge against the movements in the market by balancing positive and negative delta positions. Delta (\( \Delta \)) is a measure of an option's sensitivity to changes in the price of the underlying asset, and a delta-neutral portfolio aims to minimize the portfolio's sensitivity to such changes, thereby reducing market risk.
+Delta neutral strategies are a class of [trading strategies](../t/trading_strategies.md) designed to hedge against the movements in the market by balancing positive and negative delta positions. Delta (\( \Delta \)) is a measure of an option's sensitivity to changes in the price of the underlying asset, and a delta-neutral portfolio aims to minimize the portfolio's sensitivity to such changes, thereby reducing market risk.
 
 ## Delta: A Key Option Metric
 Delta (\( \Delta \)) is one of the many Greeks used in options trading to gauge the sensitivity of an option's price to various factors. Specifically, delta measures the rate of change in the option's price concerning the price change of the underlying asset. For call options, delta ranges between 0 and 1, while for [put options](../p/put_options.md), it ranges between -1 and 0.

@@ -71,7 +71,7 @@ Advanced technological and analytical tools are crucial for optimizing Zero Boun
 
 Several companies specialize in providing the necessary technological infrastructure:
 
-- **QuantConnect**: Offers a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform with [backtesting](../b/backtesting.md) capabilities. (https://www.quantconnect.com/)
+- **[QuantConnect](../q/quantconnect.md)**: Offers a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform with [backtesting](../b/backtesting.md) capabilities. (https://www.[quantconnect](../q/quantconnect.md).com/)
 - **Numerai**: Utilizes machine learning models to crowdsource investment strategies from data scientists worldwide. (https://numer.ai/)
 
 ### Conclusion

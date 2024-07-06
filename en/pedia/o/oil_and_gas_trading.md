@@ -55,7 +55,7 @@ EMIR mandates reporting of all [derivatives](../d/derivatives.md) contracts to t
 
 ### Trading Platforms
 1. **Eikon by Refinitiv**: Provides extensive market data, news, and trading execution services. [Refinitiv](https://www.refinitiv.com/)
-2. **Bloomberg Terminal**: Offers unparalleled data analytics, news, and trading capabilities. [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+2. **[Bloomberg](../b/bloomberg.md) Terminal**: Offers unparalleled data analytics, news, and trading capabilities. [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
 ### Risk Management Software
 1. **Openlink**: A comprehensive solution for trading, [risk management](../r/risk_management.md), and operations across commodities. [Openlink](https://www.iongroup.com/openlink/)

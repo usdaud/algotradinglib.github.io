@@ -107,15 +107,15 @@ MetaTrader is a popular platform for algo trading offering extensive tools for [
 
 ### TradingView
 
-TradingView offers powerful charting tools and a scripting language called Pine Script which allows traders to develop and backtest their strategies.
+[TradingView](../t/tradingview.md) offers powerful charting tools and a scripting language called Pine Script which allows traders to develop and backtest their strategies.
 
-- **TradingView:** [https://www.tradingview.com/](https://www.tradingview.com/)
+- **[TradingView](../t/tradingview.md):** [https://www.tradingview.com/](https://www.tradingview.com/)
 
 ### QuantConnect
 
-QuantConnect is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports coding in Python and C#. It provides extensive historical data and [backtesting](../b/backtesting.md) capabilities.
+[QuantConnect](../q/quantconnect.md) is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports coding in Python and C#. It provides extensive historical data and [backtesting](../b/backtesting.md) capabilities.
 
-- **QuantConnect:** [https://www.quantconnect.com/](https://www.quantconnect.com/)
+- **[QuantConnect](../q/quantconnect.md):** [https://www.quantconnect.com/](https://www.quantconnect.com/)
 
 ### Algorithmic Trading APIs
 

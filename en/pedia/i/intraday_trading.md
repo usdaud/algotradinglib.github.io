@@ -42,10 +42,10 @@ Modern trading platforms like MetaTrader, Interactive Brokers, and Robinhood off
 Direct Market Access allows traders to access financial markets directly, bypassing intermediaries. This results in faster execution times, which can be critical in intraday trading.
 
 ### Trading Software
-Software like TradeStation, NinjaTrader, and platforms like Thinkorswim provide powerful tools for [technical analysis](../t/technical_analysis.md), charting, and [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md).
+Software like [TradeStation](../t/tradestation.md), [NinjaTrader](../n/ninjatrader.md), and platforms like [Thinkorswim](../t/thinkorswim.md) provide powerful tools for [technical analysis](../t/technical_analysis.md), charting, and [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md).
 
 ### Real-Time Data Feeds
-Access to [real-time market data](../r/real-time_market_data.md) is crucial for intraday traders. Subscriptions to [real-time market data](../r/real-time_market_data.md) providers like Bloomberg and Reuters ensure that traders have access to the latest information.
+Access to [real-time market data](../r/real-time_market_data.md) is crucial for intraday traders. Subscriptions to [real-time market data](../r/real-time_market_data.md) providers like [Bloomberg](../b/bloomberg.md) and [Reuters](../r/reuters.md) ensure that traders have access to the latest information.
 
 ## Benefits of Intraday Trading
 
@@ -76,7 +76,7 @@ Frequent trading can lead to high transaction costs, including broker commission
 Successful intraday trading requires a deep understanding of market mechanics, [trading strategies](../t/trading_strategies.md), and [technical analysis](../t/technical_analysis.md). New traders often face a steep learning curve and may incur losses while gaining experience.
 
 ### Regulation and Compliance
-Intraday traders must adhere to regulatory requirements and comply with market rules. For example, pattern day traders in the U.S. need to maintain a minimum equity balance in their accounts, as stipulated by the Financial Industry Regulatory Authority (FINRA).
+Intraday traders must adhere to regulatory requirements and comply with market rules. For example, pattern day traders in the U.S. need to maintain a minimum equity balance in their accounts, as stipulated by the Financial Industry Regulatory Authority ([FINRA](../f/finra.md)).
 
 ## Companies and Resources
 
@@ -90,13 +90,13 @@ MetaTrader (MT4 and MT5) is widely used by intraday traders for its robust [tech
 Robinhood provides commission-free trading with [real-time market data](../r/real-time_market_data.md) and a user-friendly interface, making it popular among retail intraday traders. Visit their [official page](https://robinhood.com/) for more details.
 
 ### TradeStation
-TradeStation offers advanced trading tools, [real-time market data](../r/real-time_market_data.md), and customizable [trading strategies](../t/trading_strategies.md). It is well-suited for both novice and experienced intraday traders. Their [website](https://www.tradestation.com/) has more information.
+[TradeStation](../t/tradestation.md) offers advanced trading tools, [real-time market data](../r/real-time_market_data.md), and customizable [trading strategies](../t/trading_strategies.md). It is well-suited for both novice and experienced intraday traders. Their [website](https://www.tradestation.com/) has more information.
 
 ### NinjaTrader
-NinjaTrader is renowned for its charting capabilities, market analysis tools, and support for automated [trading strategies](../t/trading_strategies.md). More details are available on their [official page](https://ninjatrader.com/).
+[NinjaTrader](../n/ninjatrader.md) is renowned for its charting capabilities, market analysis tools, and support for automated [trading strategies](../t/trading_strategies.md). More details are available on their [official page](https://ninjatrader.com/).
 
 ### Thinkorswim
-Thinkorswim, by TD Ameritrade, offers advanced trading platforms with powerful [technical analysis](../t/technical_analysis.md) tools, real-time data, and [backtesting](../b/backtesting.md) features. Explore their offerings on the [official site](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page).
+[Thinkorswim](../t/thinkorswim.md), by TD Ameritrade, offers advanced trading platforms with powerful [technical analysis](../t/technical_analysis.md) tools, real-time data, and [backtesting](../b/backtesting.md) features. Explore their offerings on the [official site](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page).
 
 ## Conclusion
 

@@ -32,7 +32,7 @@ Cumulative Volume Delta is an indicator that sums the volume of buy and sell ord
 ## Tools and Software for X-Volume Analysis
 
 ### TradingView
-TradingView offers advanced charting tools and indicators, including [Volume Profile](../v/volume_profile.md) and VWAP, allowing traders to perform in-depth [volume analysis](../v/volume_analysis.md) directly on their trading charts.
+[TradingView](../t/tradingview.md) offers advanced charting tools and indicators, including [Volume Profile](../v/volume_profile.md) and VWAP, allowing traders to perform in-depth [volume analysis](../v/volume_analysis.md) directly on their trading charts.
 [TradingView](https://www.tradingview.com)
 
 ### Sierra Chart
@@ -40,7 +40,7 @@ Sierra Chart is a professional trading platform that provides comprehensive [vol
 [Sierra Chart](https://www.sierrachart.com)
 
 ### NinjaTrader
-NinjaTrader offers advanced order flow and [volume analysis](../v/volume_analysis.md) tools, including Market Depth and Time and Sales indicators, helping traders make informed decisions based on volume data.
+[NinjaTrader](../n/ninjatrader.md) offers advanced order flow and [volume analysis](../v/volume_analysis.md) tools, including Market Depth and Time and Sales indicators, helping traders make informed decisions based on volume data.
 [NinjaTrader](https://ninjatrader.com)
 
 ### Quantower

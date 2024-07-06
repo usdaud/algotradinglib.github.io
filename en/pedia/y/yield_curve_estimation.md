@@ -54,13 +54,13 @@ There are several methodologies employed in the estimation of yield curves:
 
 Various platforms provide sophisticated tools for [yield curve](../y/yield_curve.md) estimation:
 
-- **Bloomberg Terminal**: Offers a comprehensive suite of tools for [yield curve](../y/yield_curve.md) analysis, including bootstrapping and model fitting functions.
+- **[Bloomberg](../b/bloomberg.md) Terminal**: Offers a comprehensive suite of tools for [yield curve](../y/yield_curve.md) analysis, including bootstrapping and model fitting functions.
   
-- **Reuters Eikon**: Provides robust analytical tools for constructing and analyzing different yield curves, including charts and forecasting tools.
+- **[Reuters](../r/reuters.md) Eikon**: Provides robust analytical tools for constructing and analyzing different yield curves, including charts and forecasting tools.
 
 - **MATLAB and R**: These programming environments offer powerful toolboxes and packages for financial engineers and quantitative analysts to implement bespoke [yield curve](../y/yield_curve.md) models.
 
-For more detailed information, you can visit Bloomberg [here](https://www.bloomberg.com/professional/product/bloomberg-terminal/) and Reuters [here](https://www.refinitiv.com/en/products/eikon-trading-software).
+For more detailed information, you can visit [Bloomberg](../b/bloomberg.md) [here](https://www.bloomberg.com/professional/product/bloomberg-terminal/) and [Reuters](../r/reuters.md) [here](https://www.refinitiv.com/en/products/eikon-trading-software).
 
 ### Conclusion
 

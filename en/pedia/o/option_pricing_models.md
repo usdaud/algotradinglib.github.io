@@ -148,7 +148,7 @@ where:
 
 Several financial institutions and technology companies specialize in providing advanced option pricing solutions and platforms. Some of the notable companies in this space include:
 
-1. **Bloomberg L.P.**: A global financial services company providing financial software tools, including advanced option pricing models and analytics.
+1. **[Bloomberg](../b/bloomberg.md) L.P.**: A global financial services company providing financial software tools, including advanced option pricing models and analytics.
    Website: [Bloomberg](https://www.bloomberg.com)
 
 2. **Intercontinental Exchange (ICE)**: Operates global exchanges and provides data services that include option pricing and [risk management](../r/risk_management.md) analytics.

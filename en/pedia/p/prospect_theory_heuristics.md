@@ -41,7 +41,7 @@ Heuristics are mental shortcuts or rules of thumb that simplify decision-making.
 
 Several companies and platforms have successfully integrated Prospect Theory and heuristics into their [algorithmic trading](../a/algorithmic_trading.md) strategies:
 
-1. **QuantConnect**:
+1. **[QuantConnect](../q/quantconnect.md)**:
    - [QuantConnect](https://www.quantconnect.com/) is an open-source [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to design, backtest, and deploy [trading algorithms](../t/trading_algorithms.md). It uses advanced data analytics to address behavioral biases explained by Prospect Theory.
 
 2. **Kensho Technologies**:

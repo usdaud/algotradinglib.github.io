@@ -90,7 +90,7 @@ The Yen [Carry Trade](../c/carry_trade.md) is a financial strategy that borrows 
 
 ## Useful Resources
 
-- **Bloomberg**: [Financial News and Data](https://www.bloomberg.com)
+- **[Bloomberg](../b/bloomberg.md)**: [Financial News and Data](https://www.bloomberg.com)
 - **Bank of Japan**: [Interest Rate Policies](https://www.boj.or.jp)
 - **Trading Platforms**: Examples include E*TRADE, TD Ameritrade, and Interactive Brokers.
 

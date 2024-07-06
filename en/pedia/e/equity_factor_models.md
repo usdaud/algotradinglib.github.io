@@ -101,7 +101,7 @@ Several companies and financial institutions specialize in the development and a
 
 ### Bloomberg
 
-[Bloomberg](https://www.bloomberg.com/) offers a suite of multi-factor risk models through their Bloomberg Terminal. These models are used for risk assessment, [portfolio analysis](../p/portfolio_analysis.md), and investment strategy development.
+[Bloomberg](https://www.bloomberg.com/) offers a suite of multi-factor risk models through their [Bloomberg](../b/bloomberg.md) Terminal. These models are used for risk assessment, [portfolio analysis](../p/portfolio_analysis.md), and investment strategy development.
 
 ### Morningstar
 

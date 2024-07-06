@@ -84,8 +84,8 @@ Volatility strategies inherently involve risks that must be managed through:
 
 There are numerous platforms and tools available for implementing volatility strategies:
 
-1. **QuantConnect:** An open-source platform for developing, testing, and deploying [trading algorithms](../t/trading_algorithms.md) (https://www.quantconnect.com/).
-2. **Quantlib:** A free/open-source library for [quantitative finance](../q/quantitative_finance.md) (https://www.quantlib.org/).
+1. **[QuantConnect](../q/quantconnect.md):** An open-source platform for developing, testing, and deploying [trading algorithms](../t/trading_algorithms.md) (https://www.[quantconnect](../q/quantconnect.md).com/).
+2. **[Quantlib](../q/quantlib.md):** A free/open-source library for [quantitative finance](../q/quantitative_finance.md) (https://www.[quantlib](../q/quantlib.md).org/).
 
 ### Institutional Use Cases
 

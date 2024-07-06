@@ -55,12 +55,12 @@ TWAP is another benchmark that spreads out a single large order over a specified
 ## 4. Tools and Platforms for Volume Analysis
 
 ### 4.1 Bloomberg Terminal
-The Bloomberg Terminal provides extensive tools and resources for analyzing trading volume. It offers real-time and historical data, including volume trends and analytics tools.
+The [Bloomberg](../b/bloomberg.md) Terminal provides extensive tools and resources for analyzing trading volume. It offers real-time and historical data, including volume trends and analytics tools.
 
 - [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
 ### 4.2 TradingView
-TradingView offers an extensive array of volume charting tools and indicators used by traders to perform [volume analysis](../v/volume_analysis.md). It includes custom scripts and community-shared indicators.
+[TradingView](../t/tradingview.md) offers an extensive array of volume charting tools and indicators used by traders to perform [volume analysis](../v/volume_analysis.md). It includes custom scripts and community-shared indicators.
 
 - [TradingView](https://www.tradingview.com/)
 
@@ -70,12 +70,12 @@ MetaTrader includes built-in indicators for [volume analysis](../v/volume_analys
 - [MetaTrader](https://www.metatrader5.com/en)
 
 ### 4.4 QuantConnect
-QuantConnect is a platform for designing and testing [algorithmic trading](../a/algorithmic_trading.md) strategies. It includes various tools for analyzing trading volumes within the context of [backtesting](../b/backtesting.md) and live [trading algorithms](../t/trading_algorithms.md).
+[QuantConnect](../q/quantconnect.md) is a platform for designing and testing [algorithmic trading](../a/algorithmic_trading.md) strategies. It includes various tools for analyzing trading volumes within the context of [backtesting](../b/backtesting.md) and live [trading algorithms](../t/trading_algorithms.md).
 
 - [QuantConnect](https://www.quantconnect.com/)
 
 ### 4.5 NinjaTrader
-NinjaTrader offers a robust suite of tools for [volume analysis](../v/volume_analysis.md), including volume-based indicators and a workspace for custom algorithm development.
+[NinjaTrader](../n/ninjatrader.md) offers a robust suite of tools for [volume analysis](../v/volume_analysis.md), including volume-based indicators and a workspace for custom algorithm development.
 
 - [NinjaTrader](https://ninjatrader.com/)
 

@@ -72,7 +72,7 @@ Wave patterns provide traders with insight into potential trend reversals and [c
 
 Several analytics platforms offer robust tools for Elliott [Wave analysis](../w/wave_analysis.md):
 
-- **MotiveWave**: [https://www.motivewave.com/](https://www.motivewave.com/): A comprehensive platform offering detailed Elliott [Wave analysis](../w/wave_analysis.md) and advanced charting tools.
+- **[MotiveWave](../m/motivewave.md)**: [https://www.motivewave.com/](https://www.motivewave.com/): A comprehensive platform offering detailed Elliott [Wave analysis](../w/wave_analysis.md) and advanced charting tools.
 
 - **Elliott Wave International**: [https://www.elliottwave.com/](https://www.elliottwave.com/): A premier resource for market forecasts and educational content based on [Elliott Wave Theory](../e/elliott_wave_theory.md).
 

@@ -88,8 +88,8 @@ The simplified example above is straightforward. In practice, the methodology of
 ## Software Tools for TWR Calculation
 
 ### Examples of Software Tools
-- **Morningstar Direct**: A platform offering a variety of performance measurement tools and analytics. ([Morningstar Direct Website](https://www.morningstar.com/products/direct))
-- **Bloomberg Terminal**: Provides robust financial analytics, including performance measurement. ([Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/))
+- **[Morningstar](../m/morningstar.md) Direct**: A platform offering a variety of performance measurement tools and analytics. ([Morningstar Direct Website](https://www.morningstar.com/products/direct))
+- **[Bloomberg](../b/bloomberg.md) Terminal**: Provides robust financial analytics, including performance measurement. ([Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/))
 - **Portfolio123**: Focuses on quantitative stock market research and [portfolio management](../p/portfolio_management.md). ([Portfolio123 Website](https://www.portfolio123.com/))
   
 ## Challenges and Limitations

@@ -56,7 +56,7 @@ Machine learning models, including neural networks and [decision trees](../d/dec
 ### Company's Trading Algorithms
 Several companies are at the forefront of developing advanced [trading algorithms](../t/trading_algorithms.md) to exploit value-growth cycles. Here are a few notable examples:
 
-1. **QuantConnect**: QuantConnect provides [algorithmic trading](../a/algorithmic_trading.md) [backtesting](../b/backtesting.md) engines and deployment tools that let traders design and execute strategies based on value-growth cycles. [QuantConnect](https://www.quantconnect.com/)
+1. **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](../q/quantconnect.md) provides [algorithmic trading](../a/algorithmic_trading.md) [backtesting](../b/backtesting.md) engines and deployment tools that let traders design and execute strategies based on value-growth cycles. [QuantConnect](https://www.quantconnect.com/)
 2. **Two Sigma**: Two Sigma Investments uses data science and technology to create investment strategies. They employ machine learning and distributed computing to gain insights into value-growth cycles. [Two Sigma](https://www.twosigma.com/)
 3. **Kensho Technologies**: Kensho designs next-generation analytics tools for financial markets, leveraging machine learning to identify trends and cycles in value and [growth investing](../g/growth_investing.md). [Kensho Technologies](https://www.kensho.com/)
 4. **AlphaSense**: AlphaSense uses AI and NLP to provide insights into market trends, aiding the identification of value-growth cycles for informed trading decisions. [AlphaSense](https://www.alpha-sense.com/)

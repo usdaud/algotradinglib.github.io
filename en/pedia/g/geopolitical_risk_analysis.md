@@ -73,7 +73,7 @@ Several platforms provide specialized geopolitical [risk analysis](../r/risk_ana
 Reliable data sources are crucial for accurate geopolitical [risk analysis](../r/risk_analysis.md). Key data sources include:
 
 - **Government Reports**: Official publications and reports from government agencies provide insights into political developments and risks.
-- **News Outlets**: Reputable news organizations, such as Reuters, Bloomberg, and the BBC, offer up-to-date information on [geopolitical events](../g/geopolitical_events.md) and market impacts.
+- **News Outlets**: Reputable news organizations, such as [Reuters](../r/reuters.md), [Bloomberg](../b/bloomberg.md), and the BBC, offer up-to-date information on [geopolitical events](../g/geopolitical_events.md) and market impacts.
 - **Think Tanks**: Organizations like the Council on Foreign Relations (CFR) and the Brookings Institution publish research and analysis on geopolitical risks.
 
 ## Challenges in Geopolitical Risk Analysis

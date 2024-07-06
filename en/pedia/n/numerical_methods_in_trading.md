@@ -56,7 +56,7 @@ More complex models, such as the Heston model or the SABR volatility model, invo
 ## Real-World Implementations
 
 ### [QuantConnect](https://www.quantconnect.com/)
-QuantConnect offers a platform for [algorithmic trading](../a/algorithmic_trading.md) where users can backtest and implement [trading strategies](../t/trading_strategies.md) with the aid of various numerical methods.
+[QuantConnect](../q/quantconnect.md) offers a platform for [algorithmic trading](../a/algorithmic_trading.md) where users can backtest and implement [trading strategies](../t/trading_strategies.md) with the aid of various numerical methods.
 
 ### [Kaggle Competitions](https://www.kaggle.com/)
 Many Kaggle competitions focus on financial data analysis and require the use of numerical methods to create predictive models and optimize [trading strategies](../t/trading_strategies.md).

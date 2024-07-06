@@ -84,25 +84,25 @@ Several platforms and tools offer capabilities for calculating and integrating Y
 
 ### Bloomberg Terminal
 
-The Bloomberg Terminal provides comprehensive analytical tools that include YTW calculations, making it a popular choice for [trading algorithms](../t/trading_algorithms.md). 
+The [Bloomberg](../b/bloomberg.md) Terminal provides comprehensive analytical tools that include YTW calculations, making it a popular choice for [trading algorithms](../t/trading_algorithms.md). 
 
 - [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
 ### Thomson Reuters Eikon
 
-Thomson Reuters Eikon offers powerful analytical tools, including bond yield calculations and scenario analysis, which are essential for calculating YTW. 
+Thomson [Reuters](../r/reuters.md) Eikon offers powerful analytical tools, including bond yield calculations and scenario analysis, which are essential for calculating YTW. 
 
 - [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)
 
 ### QuantConnect
 
-QuantConnect provides an [algorithmic trading](../a/algorithmic_trading.md) platform where traders can backtest and implement strategies that include YTW calculations.
+[QuantConnect](../q/quantconnect.md) provides an [algorithmic trading](../a/algorithmic_trading.md) platform where traders can backtest and implement strategies that include YTW calculations.
 
 - [QuantConnect](https://www.quantconnect.com)
 
 ### AlgoTrader
 
-AlgoTrader is a comprehensive [algorithmic trading](../a/algorithmic_trading.md) platform that supports fixed-income trading and yield calculations including YTW.
+[AlgoTrader](../a/algotrader.md) is a comprehensive [algorithmic trading](../a/algorithmic_trading.md) platform that supports fixed-income trading and yield calculations including YTW.
 
 - [AlgoTrader](https://www.algotrader.com)
 

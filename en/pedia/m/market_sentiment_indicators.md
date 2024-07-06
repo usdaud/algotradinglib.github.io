@@ -22,7 +22,7 @@ Market [sentiment indicators](../s/sentiment_indicators.md) are critical tools u
 
 - **Twitter [Sentiment Analysis](../s/sentiment_analysis.md)**: Companies and hedge funds have harnessed natural language processing (NLP) to analyze sentiments expressed on Twitter. Sentiment scores are assigned to individual tweets, and aggregate sentiment can be measured to understand overall market mood.
 
-- **News [Sentiment Analysis](../s/sentiment_analysis.md)**: Similar to Twitter [sentiment analysis](../s/sentiment_analysis.md), this involves using NLP to assess news articles and media reports. Tools like Thomson Reuters MarketPsych Indices extract sentiment from financial news sources to provide a sentiment score for various markets or assets.
+- **News [Sentiment Analysis](../s/sentiment_analysis.md)**: Similar to Twitter [sentiment analysis](../s/sentiment_analysis.md), this involves using NLP to assess news articles and media reports. Tools like Thomson [Reuters](../r/reuters.md) MarketPsych Indices extract sentiment from financial news sources to provide a sentiment score for various markets or assets.
 
 ## Application in Trading
 

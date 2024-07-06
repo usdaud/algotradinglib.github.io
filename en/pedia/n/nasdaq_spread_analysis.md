@@ -34,7 +34,7 @@ For example, if the ask price of a stock is $100 and the bid price is $99, the s
 Several tools and techniques can be employed to analyze spreads effectively:
 
 ### Real-Time Data Feeds
-Access to [real-time market data](../r/real-time_market_data.md) is crucial for effective [spread analysis](../s/spread_analysis.md). Most algo-traders use data feeds from reputable providers, such as Bloomberg, Thomson Reuters, or directly from NASDAQ. Real-time data enables traders to react quickly to changes in spreads and market conditions.
+Access to [real-time market data](../r/real-time_market_data.md) is crucial for effective [spread analysis](../s/spread_analysis.md). Most algo-traders use data feeds from reputable providers, such as [Bloomberg](../b/bloomberg.md), Thomson [Reuters](../r/reuters.md), or directly from NASDAQ. Real-time data enables traders to react quickly to changes in spreads and market conditions.
 
 ### Historical Data Analysis
 Analyzing historical spread data can provide insights into typical spread behaviors under different market conditions. This can be done using statistical software or dedicated financial analysis platforms like MATLAB, R, or Python-based libraries such as pandas and NumPy.

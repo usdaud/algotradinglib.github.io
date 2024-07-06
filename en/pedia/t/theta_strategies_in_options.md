@@ -111,7 +111,7 @@ Several tools and platforms can help traders execute theta strategies effectivel
 
 ### Thinkorswim by TD Ameritrade
 
-Thinkorswim is a comprehensive trading platform that offers advanced charting, screening, and [risk analysis](../r/risk_analysis.md) tools, making it a favorite for theta strategies.
+[Thinkorswim](../t/thinkorswim.md) is a comprehensive trading platform that offers advanced charting, screening, and [risk analysis](../r/risk_analysis.md) tools, making it a favorite for theta strategies.
 
 [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
 

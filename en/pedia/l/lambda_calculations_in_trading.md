@@ -63,7 +63,7 @@ Cloud computing platforms like Amazon Web Services (AWS) offer services such as 
 
 ### Data Feeds and APIs
 
-Access to real-time and historical market data is crucial for developing and executing [trading strategies](../t/trading_strategies.md). Data feeds and APIs from providers such as Bloomberg, Reuters, and Alpha Vantage allow traders to incorporate real-time data into their lambda calculations.
+Access to real-time and historical market data is crucial for developing and executing [trading strategies](../t/trading_strategies.md). Data feeds and APIs from providers such as [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), and Alpha Vantage allow traders to incorporate real-time data into their lambda calculations.
 
 ## Case Study: High-Frequency Trading (HFT)
 

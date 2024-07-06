@@ -1,6 +1,6 @@
 # Predictive Modeling
 
-Predictive modeling is a process used in machine learning and statistical techniques to create, test, and validate a model that can predict future outcomes based on historical data. It is widely applied in various domains, including finance, healthcare, marketing, and more. In the context of algorithmic trading, predictive modeling aims to forecast future market movements, asset prices, or trading volumes to make informed and strategic trading decisions.
+Predictive modeling is a process used in machine learning and statistical techniques to create, test, and validate a model that can predict future outcomes based on historical data. It is widely applied in various domains, including finance, healthcare, marketing, and more. In the context of [algorithmic trading](../a/algorithmic_trading.md), predictive modeling aims to forecast future market movements, asset prices, or trading volumes to make informed and strategic trading decisions.
 
 ### Core Concepts of Predictive Modeling
 
@@ -77,11 +77,11 @@ Several companies are at the forefront of applying [predictive modeling techniqu
    - Website: [AQR](https://www.aqr.com)
    - Description: An investment management firm known for its systematic and research-driven approach to trading, utilizing predictive models extensively.
 
-6. **Quandl (a Nasdaq company)**:
+6. **[Quandl](../q/quandl.md) (a Nasdaq company)**:
    - Website: [Quandl](https://www.quandl.com)
    - Description: Provides [alternative data](../a/alternative_data.md) and [financial modeling](../f/financial_modeling.md) tools that assist in [predictive analytics](../p/predictive_analytics.md) and [algorithmic trading](../a/algorithmic_trading.md).
 
-7. **QuantConnect**:
+7. **[QuantConnect](../q/quantconnect.md)**:
    - Website: [QuantConnect](https://www.quantconnect.com)
    - Description: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform offering tools for [backtesting](../b/backtesting.md), research, and deploying predictive models.
 

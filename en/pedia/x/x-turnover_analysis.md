@@ -63,7 +63,7 @@ Two Sigma employs numerous [algorithmic trading](../a/algorithmic_trading.md) st
 
 Various tools and platforms assist in X-[turnover analysis](../t/turnover_analysis.md):
 
-- **Trading Analytics Platforms**: Software such as Bloomberg Terminal and Thomson Reuters Eikon provide comprehensive analytics, including turnover metrics.
+- **Trading Analytics Platforms**: Software such as [Bloomberg](../b/bloomberg.md) Terminal and Thomson [Reuters](../r/reuters.md) Eikon provide comprehensive analytics, including turnover metrics.
 - **Custom Analytics Solutions**: Firms often develop proprietary tools tailored to their specific algorithmic strategies, allowing for real-time monitoring and adjustments.
 - **[Risk Management](../r/risk_management.md) Systems**: Integrating X-[turnover analysis](../t/turnover_analysis.md) with [risk management](../r/risk_management.md) systems ensures that trading activities remain within acceptable risk parameters.
 

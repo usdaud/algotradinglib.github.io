@@ -58,8 +58,8 @@ In managing a portfolio, especially one with income-generating assets, yield-adj
 ## Technological Tools and Software for Yield-Adjusted Return
 
 In the modern investment landscape, several technological tools and software solutions have been developed to simplify and automate the yield-adjusted return calculations. Notable platforms include:
-- **Bloomberg Terminal**: A professional service providing real-time data, research, and analytics. It offers sophisticated tools for bond yield calculations, including yield adjustments for various factors.
-- **Morningstar, Inc.**: Offers a variety of investment research tools and solutions. Their platforms include functionalities for adjusting yields based on taxes, inflation, and other parameters.
+- **[Bloomberg](../b/bloomberg.md) Terminal**: A professional service providing real-time data, research, and analytics. It offers sophisticated tools for bond yield calculations, including yield adjustments for various factors.
+- **[Morningstar](../m/morningstar.md), Inc.**: Offers a variety of investment research tools and solutions. Their platforms include functionalities for adjusting yields based on taxes, inflation, and other parameters.
 
 For more details, visit the official websites:
 - [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)

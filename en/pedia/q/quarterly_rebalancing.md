@@ -21,9 +21,9 @@ Quarterly rebalancing involves several steps, which include:
 
 Algorithmic traders often use sophisticated software and platforms for rebalancing. Some of the notable platforms include:
 
-- **AlgoTrader (https://www.algotrader.com/)**: Provides a robust system for automated trading and rebalancing, including real-time analytics and [backtesting](../b/backtesting.md) tools.
-- **MetaTrader (https://www.metatrader4.com/)**: Widely used for forex and stock trading with custom algorithmic capabilities.
-- **QuantConnect (https://www.quantconnect.com/)**: Offers a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform with extensive [backtesting](../b/backtesting.md) and rebalancing functions.
+- **[AlgoTrader](../a/algotrader.md) (https://www.[algotrader](../a/algotrader.md).com/)**: Provides a robust system for automated trading and rebalancing, including real-time analytics and [backtesting](../b/backtesting.md) tools.
+- **MetaTrader (https://www.[metatrader4](../m/metatrader4.md).com/)**: Widely used for forex and stock trading with custom algorithmic capabilities.
+- **[QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/)**: Offers a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform with extensive [backtesting](../b/backtesting.md) and rebalancing functions.
 
 ### Strategies Incorporating Quarterly Rebalancing
 

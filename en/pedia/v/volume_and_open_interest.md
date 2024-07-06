@@ -84,7 +84,7 @@ Many platforms and software offer tools for [algorithmic trading](../a/algorithm
     
 ### Incorporation into Algorithms
 
-To incorporate these metrics into [algorithmic trading](../a/algorithmic_trading.md), traders often use programming languages like Python, R, or specialized trading languages like EasyLanguage (for TradeStation). Libraries like `pandas` and `numpy` are instrumental in manipulating financial data for such purposes.
+To incorporate these metrics into [algorithmic trading](../a/algorithmic_trading.md), traders often use programming languages like Python, R, or specialized trading languages like EasyLanguage (for [TradeStation](../t/tradestation.md)). Libraries like `pandas` and `numpy` are instrumental in manipulating financial data for such purposes.
 
 ```python
 import pandas as pd

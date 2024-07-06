@@ -44,8 +44,8 @@ Analyzing order book imbalances helps in predicting liquidity shortages or surge
 To effectively analyze order book imbalances, traders need access to high-quality, high-frequency market data. Several platforms and tools provide such data:
 
 - **Nasdaq TotalView**: Offers complete depth of book data for Nasdaq, providing insight into all buy and sell orders.
-- **Thomson Reuters Elektron**: Provides real-time data feeds critical for professional traders.
-- **QuantConnect**: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to access historical and [real-time market data](../r/real-time_market_data.md) for [backtesting](../b/backtesting.md) and live trading.
+- **Thomson [Reuters](../r/reuters.md) Elektron**: Provides real-time data feeds critical for professional traders.
+- **[QuantConnect](../q/quantconnect.md)**: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to access historical and [real-time market data](../r/real-time_market_data.md) for [backtesting](../b/backtesting.md) and live trading.
 
 ## Case Studies
 

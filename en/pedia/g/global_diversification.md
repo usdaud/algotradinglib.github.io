@@ -70,8 +70,8 @@ Link: [Interactive Brokers](https://www.interactivebrokers.com)
 ### Data Providers
 
 Accurate and comprehensive data is crucial for effective [algorithmic trading](../a/algorithmic_trading.md). Prominent data providers include:
-- **Bloomberg**: Offers extensive financial data, news, and analytics.
-- **Reuters**: Provides real-time news and market data feeds.
+- **[Bloomberg](../b/bloomberg.md)**: Offers extensive financial data, news, and analytics.
+- **[Reuters](../r/reuters.md)**: Provides real-time news and market data feeds.
 Link: [Bloomberg](https://www.bloomberg.com)
 
 ### Analytical Tools

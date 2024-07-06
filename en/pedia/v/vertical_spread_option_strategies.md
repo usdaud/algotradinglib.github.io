@@ -110,7 +110,7 @@ Numerous platforms and tools aid traders in executing [vertical spread](../v/ver
 
 ### Thinkorswim by TD Ameritrade
 
-Thinkorswim provides a sophisticated options trading platform with charting tools, spread strategies, and [risk analysis](../r/risk_analysis.md).
+[Thinkorswim](../t/thinkorswim.md) provides a sophisticated options trading platform with charting tools, spread strategies, and [risk analysis](../r/risk_analysis.md).
 
 - **Website:** [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
 
@@ -134,7 +134,7 @@ OptionsPlay provides tools to analyze and execute options strategies, including 
 
 ### TradeStation
 
-TradeStation offers a robust platform for options trading with strategy optimization and [backtesting](../b/backtesting.md) tools for vertical spreads.
+[TradeStation](../t/tradestation.md) offers a robust platform for options trading with strategy optimization and [backtesting](../b/backtesting.md) tools for vertical spreads.
 
 - **Website:** [TradeStation](https://www.tradestation.com)
 

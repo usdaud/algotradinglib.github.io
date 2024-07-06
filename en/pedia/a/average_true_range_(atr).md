@@ -42,9 +42,9 @@ In [risk management](../r/risk_management.md), ATR is used to evaluate market no
 
 Several platforms and trading tools integrate ATR to assist traders in market analysis:
 
-- **TradingView:** Provides interactive ATR charts customizable for various asset classes.
+- **[TradingView](../t/tradingview.md):** Provides interactive ATR charts customizable for various asset classes.
 - **MetaTrader 4 and 5 (MT4/MT5):** Offers built-in ATR indicators available for forex, futures, and stock markets.
-- **Thinkorswim by TD Ameritrade:** Includes ATR in its suite of volatility indicators and trading tools.
+- **[Thinkorswim](../t/thinkorswim.md) by TD Ameritrade:** Includes ATR in its suite of volatility indicators and trading tools.
 
 ### Advantages of ATR
 
@@ -64,7 +64,7 @@ Average True Range (ATR) remains an invaluable tool for traders focused on [vola
 
 For further information on ATR tools and platforms, here are links to relevant sites:
 
-- **TradingView:** [https://www.tradingview.com/](https://www.tradingview.com/)
+- **[TradingView](../t/tradingview.md):** [https://www.tradingview.com/](https://www.tradingview.com/)
 - **MetaTrader:** [https://www.metatrader4.com/](https://www.metatrader4.com/)
-- **Thinkorswim:** [https://www.thinkorswim.com/](https://www.thinkorswim.com/)
+- **[Thinkorswim](../t/thinkorswim.md):** [https://www.thinkorswim.com/](https://www.thinkorswim.com/)
 

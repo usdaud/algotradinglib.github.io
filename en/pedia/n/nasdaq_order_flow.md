@@ -41,7 +41,7 @@ Market makers are firms or individuals who provide liquidity by standing ready t
 Order flow on NASDAQ is tightly regulated to ensure fairness and transparency. Key regulatory aspects include:
 
 - **Reg NMS**: A set of rules from the SEC governing trading and execution standards in the U.S. equity markets.
-- **FINRA Surveillance**: Conducted by the Financial Industry Regulatory Authority to detect and prevent manipulative practices in order flow.
+- **[FINRA](../f/finra.md) Surveillance**: Conducted by the Financial Industry Regulatory Authority to detect and prevent manipulative practices in order flow.
 - **Best Execution Obligations**: Brokers must execute orders to obtain the most favorable terms for their clients.
 
 ### 7. Order Routing

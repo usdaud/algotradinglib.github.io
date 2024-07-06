@@ -72,7 +72,7 @@ Before deploying any trading strategy utilizing the 2-period RSI, it's crucial t
 
 ## Practical Application
 
-Many trading platforms and brokerages offer built-in tools to calculate and plot the RSI, including the 2-period variant. Platforms like MetaTrader, TradingView, and ThinkOrSwim are widely used for such purposes.
+Many trading platforms and brokerages offer built-in tools to calculate and plot the RSI, including the 2-period variant. Platforms like MetaTrader, [TradingView](../t/tradingview.md), and [ThinkOrSwim](../t/thinkorswim.md) are widely used for such purposes.
 
 ### MetaTrader Implementation
 
@@ -128,7 +128,7 @@ int OnCalculate(const int rates_total,
 
 ### TradingView Implementation
 
-On TradingView, traders can utilize Pine Script to create a custom 2-period RSI indicator:
+On [TradingView](../t/tradingview.md), traders can utilize Pine Script to create a custom 2-period RSI indicator:
 
 ```pinescript
 //@version=4
@@ -143,7 +143,7 @@ hline(10, "Oversold", color=color.green)
 
 ### ThinkOrSwim Implementation
 
-ThinkOrSwim offers a custom scripting language called ThinkScript. Below is an example of a 2-period RSI implementation:
+[ThinkOrSwim](../t/thinkorswim.md) offers a custom scripting language called ThinkScript. Below is an example of a 2-period RSI implementation:
 
 ```thinkscript
 declare lower;

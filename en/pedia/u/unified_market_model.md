@@ -73,8 +73,8 @@ UMM seeks to integrate various market components, typically distinguished by div
    - **Interactive Brokers (IBKR)**: Advanced platform with extensive market access for institutional and retail traders. [Interactive Brokers](https://www.interactivebrokers.com)
 
 2. **Market Data Providers**
-   - **Bloomberg**: Comprehensive financial services platform offering market data, news, and analytics. [Bloomberg](https://www.bloomberg.com)
-   - **Thomson Reuters**: (Refinitiv) Advanced data analytics and trading solution for financial professionals. [Refinitiv](https://www.refinitiv.com)
+   - **[Bloomberg](../b/bloomberg.md)**: Comprehensive financial services platform offering market data, news, and analytics. [Bloomberg](https://www.bloomberg.com)
+   - **Thomson [Reuters](../r/reuters.md)**: (Refinitiv) Advanced data analytics and trading solution for financial professionals. [Refinitiv](https://www.refinitiv.com)
 
 3. **Colocation Services**
    - **Equinix**: Provides data center and colocation services to minimize latency. [Equinix](https://www.equinix.com)

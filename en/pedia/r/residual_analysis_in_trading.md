@@ -71,7 +71,7 @@ Several tools and software packages support residual analysis in trading:
 - **Python:** Libraries such as `statsmodels`, `seaborn`, and `matplotlib` are extensively used for statistical modeling and residual plotting.
 - **R:** Used for extensive statistical analysis and modeling, with packages like `ggplot2` for visualization.
 - **MATLAB:** Offers robust tools for statistical modeling and [data visualization](../d/data_visualization.md).
-- **QuantConnect:** An [algorithmic trading](../a/algorithmic_trading.md) platform providing [backtesting](../b/backtesting.md) and analysis tools for residuals.
+- **[QuantConnect](../q/quantconnect.md):** An [algorithmic trading](../a/algorithmic_trading.md) platform providing [backtesting](../b/backtesting.md) and analysis tools for residuals.
 
 For more information on these tools, you can visit:
 

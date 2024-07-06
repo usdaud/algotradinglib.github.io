@@ -112,13 +112,13 @@ print(patterns)
 
 Several platforms provide tools and environments for developing and testing [algorithmic trading](../a/algorithmic_trading.md) strategies based on patterns like the 1-2-3 pattern:
 
-1. **QuantConnect:** An open-source [algorithmic trading](../a/algorithmic_trading.md) platform providing data and tools for developing, [backtesting](../b/backtesting.md), and deploying [trading strategies](../t/trading_strategies.md).
+1. **[QuantConnect](../q/quantconnect.md):** An open-source [algorithmic trading](../a/algorithmic_trading.md) platform providing data and tools for developing, [backtesting](../b/backtesting.md), and deploying [trading strategies](../t/trading_strategies.md).
    [QuantConnect](https://www.quantconnect.com/)
 2. **MetaTrader 5 (MT5):** A popular trading platform offering [advanced technical analysis](../a/advanced_technical_analysis.md), [algorithmic trading](../a/algorithmic_trading.md) applications, and copy trading.
    [MetaTrader](https://www.metatrader5.com/en)
-3. **NinjaTrader:** A trading platform offering advanced charting, analytics, and automated strategy development.
+3. **[NinjaTrader](../n/ninjatrader.md):** A trading platform offering advanced charting, analytics, and automated strategy development.
    [NinjaTrader](https://ninjatrader.com/)
-4. **TradeStation:** A platform providing a suite of trading tools, analytics, strategy building, and [backtesting](../b/backtesting.md) capabilities.
+4. **[TradeStation](../t/tradestation.md):** A platform providing a suite of trading tools, analytics, strategy building, and [backtesting](../b/backtesting.md) capabilities.
    [TradeStation](https://www.tradestation.com/)
 
 ### Conclusion

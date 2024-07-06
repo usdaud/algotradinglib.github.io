@@ -1,4 +1,4 @@
-﻿# Barchart
+# Barchart
 
 Barchart is a leading provider of financial data, analytics, and technology solutions for financial markets and businesses. Known for its extensive market data coverage and user-friendly platforms, Barchart serves a wide range of clients from individual investors to large financial institutions.
 
@@ -10,7 +10,7 @@ Barchart is a leading provider of financial data, analytics, and technology solu
 - End-of-day (EOD) data
 - Historical data archives
 - Fundamental data for stocks and ETFs
-- Technical indicators and analytics
+- [Technical indicators](../t/technical_indicators.md) and analytics
 
 ### 2. Barchart.com
 
@@ -61,11 +61,11 @@ Barchart is a leading provider of financial data, analytics, and technology solu
 
 ### Analytics and Tools
 
-- Technical analysis indicators
+- [Technical analysis](../t/technical_analysis.md) indicators
 - Customizable screeners and scanners
 - Alerts and notifications
 - Portfolio tracking and analysis
-- Heatmaps and sector performance tools
+- Heatmaps and [sector performance](../s/sector_performance.md) tools
 
 ### News and Research
 

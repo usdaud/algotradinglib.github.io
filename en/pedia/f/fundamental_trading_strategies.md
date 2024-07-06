@@ -119,7 +119,7 @@ Fundamental [trading strategies](../t/trading_strategies.md), while based on tho
 ## 7. Tools and Resources
 Various tools and resources assist fundamental traders in conducting their analysis:
 
-- **Financial Data Services**: Platforms like Bloomberg, Thomson Reuters, and Yahoo Finance provide comprehensive financial data and analytics.
+- **Financial Data Services**: Platforms like [Bloomberg](../b/bloomberg.md), Thomson [Reuters](../r/reuters.md), and Yahoo Finance provide comprehensive financial data and analytics.
 - **Research Reports**: Reports from investment banks and financial institutions offer valuable insights and recommendations.
 - **Economic Databases**: Resources like the Bureau of Economic Analysis (BEA) and the Federal Reserve provide access to important economic data.
 

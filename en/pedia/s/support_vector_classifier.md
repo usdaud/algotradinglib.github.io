@@ -130,7 +130,7 @@ Several tools and libraries facilitate the implementation of SVC for [algorithmi
 - **libsvm**: A library dedicated to SVM and SVC with support for various kernels and optimization algorithms.
   [libsvm](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
 
-- **QuantConnect**: A platform offering [algorithmic trading](../a/algorithmic_trading.md) tools, including support for SVC and other machine learning models.
+- **[QuantConnect](../q/quantconnect.md)**: A platform offering [algorithmic trading](../a/algorithmic_trading.md) tools, including support for SVC and other machine learning models.
   [QuantConnect](https://www.quantconnect.com/)
 
 ## Conclusion

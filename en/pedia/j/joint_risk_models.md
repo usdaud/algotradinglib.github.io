@@ -95,11 +95,11 @@ Several companies and institutions are at the forefront of developing and implem
 
 - **MSCI Inc.** (https://www.msci.com/): MSCI provides advanced [risk management](../r/risk_management.md) solutions, including multi-asset class risk analytics and stress testing tools, leveraging sophisticated joint risk models.
 
-- **Bloomberg L.P.** (https://www.bloomberg.com/): Bloomberg offers comprehensive [risk management](../r/risk_management.md) platforms that integrate joint risk modeling capabilities, enabling financial professionals to assess and manage risks across diverse portfolios.
+- **[Bloomberg](../b/bloomberg.md) L.P.** (https://www.[bloomberg](../b/bloomberg.md).com/): [Bloomberg](../b/bloomberg.md) offers comprehensive [risk management](../r/risk_management.md) platforms that integrate joint risk modeling capabilities, enabling financial professionals to assess and manage risks across diverse portfolios.
 
 - **RiskMetrics Group** (now part of MSCI) (https://www.msci.com/rmg-riskmanager): Originally known for its pioneering work in [risk management](../r/risk_management.md) and joint risk models, RiskMetrics Group's methodologies are widely adopted in the industry.
 
-- **FactSet Research Systems Inc.** (https://www.factset.com/): FactSet provides integrated financial data and analytical solutions, including multi-asset risk modeling tools that utilize joint risk models.
+- **[FactSet](../f/factset.md) Research Systems Inc.** (https://www.[factset](../f/factset.md).com/): [FactSet](../f/factset.md) provides integrated financial data and analytical solutions, including multi-asset risk modeling tools that utilize joint risk models.
 
 - **Axioma Inc.** (now part of Qontigo) (https://www.qontigo.com/axioma/): Axioma delivers portfolio construction and [risk management](../r/risk_management.md) solutions, incorporating advanced joint risk modeling techniques to optimize [portfolio performance](../p/portfolio_performance.md) and manage risks.
 

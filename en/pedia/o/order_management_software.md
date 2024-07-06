@@ -67,9 +67,9 @@ Advanced OMS platforms offer a rich set of features tailored to the needs of mod
 
 Several companies specialize in offering advanced OMS solutions tailored for [algorithmic trading](../a/algorithmic_trading.md):
 
-1. **Bloomberg OMS**:
+1. **[Bloomberg](../b/bloomberg.md) OMS**:
    - **Website**: [Bloomberg](https://www.bloomberg.com/professional/product/asset-and-investment-manager/)
-   - **Overview**: Bloomberg’s OMS is part of the Bloomberg Professional service, providing advanced tools for order execution, [risk management](../r/risk_management.md), and compliance.
+   - **Overview**: [Bloomberg](../b/bloomberg.md)’s OMS is part of the [Bloomberg](../b/bloomberg.md) Professional service, providing advanced tools for order execution, [risk management](../r/risk_management.md), and compliance.
 
 2. **Charles River Investment Management Solution (IMS)**:
    - **Website**: [Charles River Development](https://www.crd.com/)

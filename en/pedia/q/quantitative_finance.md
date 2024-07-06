@@ -78,7 +78,7 @@ R and Python are popular open-source programming languages in quantitative finan
 [QuantLib](https://www.quantlib.org/) is an open-source library for financial quantitative analysts and developers, offering tools for [derivatives](../d/derivatives.md) pricing, [portfolio management](../p/portfolio_management.md), and [risk management](../r/risk_management.md).
 
 ### Bloomberg Terminal
-The Bloomberg Terminal is a widely-used software system that provides real-time financial data, news, and analytics. It is a crucial tool for traders and analysts in quantitative finance.
+The [Bloomberg](../b/bloomberg.md) Terminal is a widely-used software system that provides real-time financial data, news, and analytics. It is a crucial tool for traders and analysts in quantitative finance.
 
 ## Education and Learning Resources
 

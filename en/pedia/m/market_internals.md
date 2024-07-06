@@ -58,7 +58,7 @@ Several financial services and data providers specialize in offering market inte
 
 ### Bloomberg
 
-[Bloomberg](https://www.bloomberg.com/) provides extensive market internals data through its Bloomberg Terminal. Traders and analysts use Bloomberg to access a wealth of financial information, including [market breadth indicators](../m/market_breadth_indicators.md), volume data, and volatility indices.
+[Bloomberg](https://www.bloomberg.com/) provides extensive market internals data through its [Bloomberg](../b/bloomberg.md) Terminal. Traders and analysts use [Bloomberg](../b/bloomberg.md) to access a wealth of financial information, including [market breadth indicators](../m/market_breadth_indicators.md), volume data, and volatility indices.
 
 ### Thomson Reuters
 

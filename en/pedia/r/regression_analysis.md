@@ -103,7 +103,7 @@ Regularization is a technique used to prevent overfitting by adding a penalty to
 
 ### 1. Data Collection
 
-The first step is to collect relevant financial data, which could include price histories, trading volumes, [economic indicators](../e/economic_indicators.md), and other relevant variables. Sources include financial databases like Bloomberg, Reuters, and Quandl.
+The first step is to collect relevant financial data, which could include price histories, trading volumes, [economic indicators](../e/economic_indicators.md), and other relevant variables. Sources include financial databases like [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), and [Quandl](../q/quandl.md).
 
 ### 2. Data Preprocessing
 

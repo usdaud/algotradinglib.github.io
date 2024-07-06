@@ -68,7 +68,7 @@ Quantitative traders use mathematical models to generate [trading signals](../t/
 
 ### Retail Trading Platforms
 
-Retail traders also use [trading signals](../t/trading_signals.md) provided by platforms like MetaTrader and TradingView, which offer built-in [technical indicators](../t/technical_indicators.md) and the ability to create custom signals.
+Retail traders also use [trading signals](../t/trading_signals.md) provided by platforms like MetaTrader and [TradingView](../t/tradingview.md), which offer built-in [technical indicators](../t/technical_indicators.md) and the ability to create custom signals.
 
 ### Signal Services
 

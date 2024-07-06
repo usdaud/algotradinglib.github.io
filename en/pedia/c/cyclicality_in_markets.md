@@ -1,6 +1,6 @@
 # Cyclicality in Markets
 
-Cyclicality in financial markets refers to the tendency of these markets to follow identifiable cycles or patterns over time. These cycles can be influenced by various economic, financial, and even psychological factors and can range from short-term movements to long-term trends. Understanding cyclicality is crucial for algorithmic trading (algotrading) strategies, as it allows traders to develop algorithms that can predict and exploit these patterns.
+Cyclicality in financial markets refers to the tendency of these markets to follow identifiable cycles or patterns over time. These cycles can be influenced by various economic, financial, and even psychological factors and can range from short-term movements to long-term trends. Understanding cyclicality is crucial for [algorithmic trading](../a/algorithmic_trading.md) (algotrading) strategies, as it allows traders to develop algorithms that can predict and exploit these patterns.
 
 ## Economic Cycles
 
@@ -80,7 +80,7 @@ Machine learning models can be trained to identify complex patterns in market da
 
 Several notable companies and platforms focus on [algorithmic trading](../a/algorithmic_trading.md) and may offer tools to help understand and exploit [market cycles](../m/market_cycles.md):
 
-- **QuantConnect**: [QuantConnect](https://www.quantconnect.com/) provides a cloud-based platform for designing and [backtesting](../b/backtesting.md) [trading algorithms](../t/trading_algorithms.md).
+- **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](https://www.quantconnect.com/) provides a cloud-based platform for designing and [backtesting](../b/backtesting.md) [trading algorithms](../t/trading_algorithms.md).
 - **Alpaca**: [Alpaca](https://alpaca.markets/) offers commission-free trading with an API for executing algorithmic strategies.
 - **Two Sigma**: [Two Sigma](https://www.twosigma.com/) uses machine learning, distributed computing, and vast amounts of data to build [trading algorithms](../t/trading_algorithms.md).
 

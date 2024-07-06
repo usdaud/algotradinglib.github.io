@@ -21,7 +21,7 @@ The calculation of the 52-week high/low is straightforward:
 Financial data providers and stock exchanges typically provide this information. For instance:
 
 - **Yahoo Finance** [Yahoo Finance](https://finance.yahoo.com) offers historical data, including the 52-week high/low of securities.
-- **Bloomberg** [Bloomberg](https://www.bloomberg.com) provides comprehensive financial data and can be a valuable resource for historical price information.
+- **[Bloomberg](../b/bloomberg.md)** [Bloomberg](https://www.bloomberg.com) provides comprehensive financial data and can be a valuable resource for historical price information.
 
 ## Strategies Using 52-Week High/Low in Algotrading
 
@@ -69,7 +69,7 @@ To implement strategies involving the 52-week high/low in algotrading systems, v
 1. **MetaTrader:** A widely used platform that supports [algorithmic trading](../a/algorithmic_trading.md) with tools such as MetaTrader's MQL4/MQL5 for coding custom indicators and strategies.
    - [MetaTrader](https://www.metatrader4.com/en)
 
-2. **QuantConnect:** An open-source [algorithmic trading](../a/algorithmic_trading.md) platform offering tools for [backtesting](../b/backtesting.md) and live trading using Python or C#.
+2. **[QuantConnect](../q/quantconnect.md):** An open-source [algorithmic trading](../a/algorithmic_trading.md) platform offering tools for [backtesting](../b/backtesting.md) and live trading using Python or C#.
    - [QuantConnect](https://www.quantconnect.com)
 
 3. **Interactive Brokers:** They offer a robust API that traders can use to implement custom algorithms in languages such as Python, Java, and C++.
@@ -77,7 +77,7 @@ To implement strategies involving the 52-week high/low in algotrading systems, v
 
 ### Programming Languages
 
-1. **Python:** With libraries such as `pandas`, `numpy`, and `backtrader`, Python is a popular choice for developing algotrading algorithms.
+1. **Python:** With libraries such as `pandas`, `numpy`, and `[backtrader](../b/backtrader.md)`, Python is a popular choice for developing algotrading algorithms.
    ```python
    import pandas as pd
    from datetime import datetime, timedelta
@@ -95,7 +95,7 @@ To implement strategies involving the 52-week high/low in algotrading systems, v
    print(f"52-Week High: {fifty_two_week_high}, 52-Week Low: {fifty_two_week_low}")
    ```
 
-2. **C#:** Using platforms like QuantConnect, traders can write algorithms in C# that utilize historical data to calculate and act upon 52-week highs/lows.
+2. **C#:** Using platforms like [QuantConnect](../q/quantconnect.md), traders can write algorithms in C# that utilize historical data to calculate and act upon 52-week highs/lows.
    ```csharp
    public class MyAlgorithm : QCAlgorithm
    {

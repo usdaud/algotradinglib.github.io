@@ -75,11 +75,11 @@ MetaTrader platforms offer built-in support for DPO, allowing traders to easily 
 
 ### NinjaTrader
 
-NinjaTrader also supports DPO through its suite of [technical indicators](../t/technical_indicators.md), with customizable settings for period length and visual display options.
+[NinjaTrader](../n/ninjatrader.md) also supports DPO through its suite of [technical indicators](../t/technical_indicators.md), with customizable settings for period length and visual display options.
 
 ### TradingView
 
-On TradingView, DPO can be added through the built-in indicators library. Traders have the flexibility to adjust periods and explore the interaction of DPO with other charting tools available on the platform.
+On [TradingView](../t/tradingview.md), DPO can be added through the built-in indicators library. Traders have the flexibility to adjust periods and explore the interaction of DPO with other charting tools available on the platform.
 
 ## Conclusion
 

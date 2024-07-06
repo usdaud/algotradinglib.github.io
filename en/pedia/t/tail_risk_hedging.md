@@ -58,7 +58,7 @@ In the context of finance, tail risks can result from various factors such as ma
 ### Risk Monitoring Systems
 
 1. **Real-Time Risk Assessment**
-   - **Example:** Bloomberg Terminal (https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+   - **Example:** [Bloomberg](../b/bloomberg.md) Terminal (https://www.[bloomberg](../b/bloomberg.md).com/professional/solution/[bloomberg](../b/bloomberg.md)-terminal/)
    - **Function:** Robust [risk management](../r/risk_management.md) systems provide real-time monitoring of market conditions, portfolio positions, and potential tail risks.
    - **Usage:** Integration of such systems with [algorithmic trading](../a/algorithmic_trading.md) platforms allows for continuous assessment and automated adjustments to hedge positions.
 

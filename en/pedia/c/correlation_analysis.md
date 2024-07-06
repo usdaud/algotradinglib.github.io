@@ -79,7 +79,7 @@ Markets are dynamic, and correlations can change over time due to evolving marke
 
 #### Tools and Technologies
 
-Several tools and platforms assist traders in carrying out correlation analysis. [Quantitative trading](../q/quantitative_trading.md) platforms like QuantConnect, AlphaVantage, and QuantLib offer APIs and libraries for performing complex statistical analyses, including correlation assessments. These tools facilitate the integration of correlation analysis into [automated trading systems](../a/automated_trading_systems.md).
+Several tools and platforms assist traders in carrying out correlation analysis. [Quantitative trading](../q/quantitative_trading.md) platforms like [QuantConnect](../q/quantconnect.md), AlphaVantage, and [QuantLib](../q/quantlib.md) offer APIs and libraries for performing complex statistical analyses, including correlation assessments. These tools facilitate the integration of correlation analysis into [automated trading systems](../a/automated_trading_systems.md).
 
 - [QuantConnect](https://www.quantconnect.com/)
 - [AlphaVantage](https://www.alphavantage.co/)

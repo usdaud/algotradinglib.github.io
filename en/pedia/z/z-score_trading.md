@@ -41,8 +41,8 @@ Pair trading is a market-neutral trading strategy that can benefit from the rela
 ### Data Collection
 
 To implement Z-score trading, traders need historical price data or [financial time series](../f/financial_time_series.md) data. Sources of such data include:
-- Market data providers like Bloomberg, Thomson Reuters, and Morningstar.
-- Financial data APIs such as Alpha Vantage, Quandl, and Yahoo Finance.
+- Market data providers like [Bloomberg](../b/bloomberg.md), Thomson [Reuters](../r/reuters.md), and [Morningstar](../m/morningstar.md).
+- Financial data APIs such as Alpha Vantage, [Quandl](../q/quandl.md), and Yahoo Finance.
 
 ### Calculating Z-Score
 
@@ -71,7 +71,7 @@ z_scores = calculate_z_score(prices, lookback_period)
   
 - **MetaTrader 5**: Suitable for forex, stock exchange markets.
   - [MetaTrader 5](https://www.metatrader5.com/)
-- **QuantConnect**: Supports multiple asset classes and integrates with brokerages.
+- **[QuantConnect](../q/quantconnect.md)**: Supports multiple asset classes and integrates with brokerages.
   - [QuantConnect](https://www.quantconnect.com/)
 - **Interactive Brokers**: Offers comprehensive trading APIs.
   - [Interactive Brokers API](https://www.interactivebrokers.com/en/index.php?f=5041)
@@ -80,9 +80,9 @@ z_scores = calculate_z_score(prices, lookback_period)
 
 Before deploying any Z-score trading strategy, it is crucial to backtest it using historical data to evaluate its performance. [Backtesting](../b/backtesting.md) helps traders understand how their strategy would have performed in the past, allowing for optimization and refinement. Tools for [backtesting](../b/backtesting.md) include:
 
-- **Backtrader**: A powerful Python library for [backtesting](../b/backtesting.md).
+- **[Backtrader](../b/backtrader.md)**: A powerful Python library for [backtesting](../b/backtesting.md).
   - [Backtrader](https://www.backtrader.com/)
-- **Quantlib**: A library for financial computing.
+- **[Quantlib](../q/quantlib.md)**: A library for financial computing.
   - [QuantLib](https://www.quantlib.org/)
 
 ## Risk Management

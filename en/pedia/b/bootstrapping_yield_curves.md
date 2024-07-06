@@ -54,16 +54,16 @@ In [algorithmic trading](../a/algorithmic_trading.md), the [term structure of in
 
 Various programming languages and financial libraries can perform bootstrapping. Popular choices include:
 
-- **Python**: Libraries like `QuantLib` provide extensive tools for [yield curve](../y/yield_curve.md) construction, including bootstrapping.
+- **Python**: Libraries like `[QuantLib](../q/quantlib.md)` provide extensive tools for [yield curve](../y/yield_curve.md) construction, including bootstrapping.
 - **R**: Packages such as `RQuantLib` offer similar capabilities.
 - **Excel**: For smaller datasets and manual implementations, using Excel with built-in financial functions can be practical.
 
 #### Python Example with QuantLib
 
-Here's a simplified Python code snippet using QuantLib:
+Here's a simplified Python code snippet using [QuantLib](../q/quantlib.md):
 
 ```python
-import QuantLib as ql
+import [QuantLib](../q/quantlib.md) as ql
 
 # Define the calendar and the day count convention
 calendar = ql.UnitedStates()

@@ -66,7 +66,7 @@ Several companies are at the forefront of providing brokerage execution services
 The regulatory environment plays a significant role in shaping brokerage execution practices. Regulations ensure fair trading practices, transparency, and the protection of investor interests. Key regulatory bodies include:
 
 - **SEC (Securities and Exchange Commission)**: U.S. regulatory authority overseeing securities markets.
-- **FINRA (Financial Industry Regulatory Authority)**: Self-regulatory organization in the U.S. for brokerage firms.
+- **[FINRA](../f/finra.md) (Financial Industry Regulatory Authority)**: Self-regulatory organization in the U.S. for brokerage firms.
 - **ESMA (European Securities and Markets Authority)**: European Union regulatory body focused on harmonizing financial markets regulation across member states.
 - **MiFID II (Markets in Financial Instruments Directive II)**: A comprehensive regulatory framework in the EU aiming to increase market transparency and efficiency.
 

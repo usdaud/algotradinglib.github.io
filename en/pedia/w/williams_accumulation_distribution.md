@@ -47,7 +47,7 @@ WAD is frequently used in conjunction with other [technical indicators](../t/tec
 
 ## Real-World Implementation
 
-Numerous financial institutions and trading platforms implement WAD in their [trading systems](../t/trading_systems.md) to support a diverse range of strategies. For example, QuantConnect, a popular [algorithmic trading](../a/algorithmic_trading.md) platform, provides tools and resources to incorporate WAD into custom algorithms. (Visit [QuantConnect](https://www.quantconnect.com/) for more details.)
+Numerous financial institutions and trading platforms implement WAD in their [trading systems](../t/trading_systems.md) to support a diverse range of strategies. For example, [QuantConnect](../q/quantconnect.md), a popular [algorithmic trading](../a/algorithmic_trading.md) platform, provides tools and resources to incorporate WAD into custom algorithms. (Visit [QuantConnect](https://www.quantconnect.com/) for more details.)
 
 ## Challenges and Considerations
 

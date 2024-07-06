@@ -72,7 +72,7 @@ Bookmap provides detailed heatmap visualizations of order book data and supports
 
 ### TradingView
 
-TradingView offers depth charts and various other tools for visualizing market data, catering to both retail and professional traders.
+[TradingView](../t/tradingview.md) offers depth charts and various other tools for visualizing market data, catering to both retail and professional traders.
 
 [TradingView](https://www.tradingview.com)
 
@@ -84,13 +84,13 @@ Sierra Chart supports advanced market profile and order book visualizations, mak
 
 ### QuantConnect
 
-QuantConnect provides [algorithmic trading](../a/algorithmic_trading.md) infrastructure with advanced tools for order book data analysis and visualization.
+[QuantConnect](../q/quantconnect.md) provides [algorithmic trading](../a/algorithmic_trading.md) infrastructure with advanced tools for order book data analysis and visualization.
 
 [QuantConnect](https://www.quantconnect.com)
 
 ### AlgoTrader
 
-AlgoTrader offers an institutional-grade [algorithmic trading](../a/algorithmic_trading.md) solution with comprehensive order book visualization capabilities.
+[AlgoTrader](../a/algotrader.md) offers an institutional-grade [algorithmic trading](../a/algorithmic_trading.md) solution with comprehensive order book visualization capabilities.
 
 [AlgoTrader](https://www.algotrader.com)
 

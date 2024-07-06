@@ -1,6 +1,6 @@
 # Entry and Exit Strategies
 
-Entry and exit strategies are crucial components in algorithmic trading. Successful trading requires precise and well-thought-out decisions on when to enter and exit trades. These strategies help manage risk, optimize profits, and improve trading consistency. Below are detailed explanations of various entry and exit strategies used in algorithmic trading, along with examples, advantages, and disadvantages.
+Entry and exit strategies are crucial components in [algorithmic trading](../a/algorithmic_trading.md). Successful trading requires precise and well-thought-out decisions on when to enter and exit trades. These strategies help manage risk, optimize profits, and improve trading consistency. Below are detailed explanations of various entry and exit strategies used in [algorithmic trading](../a/algorithmic_trading.md), along with examples, advantages, and disadvantages.
 
 ### Entry Strategies
 
@@ -151,10 +151,10 @@ A trader could use the **RSI** for entry signals and combine it with a **trailin
 
 To implement entry and exit strategies effectively, traders often use [algorithmic trading](../a/algorithmic_trading.md) platforms and resources.
 
-- **QuantConnect**: An [algorithmic trading](../a/algorithmic_trading.md) platform offering cloud-based [backtesting](../b/backtesting.md) and live trading with various brokers.
+- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform offering cloud-based [backtesting](../b/backtesting.md) and live trading with various brokers.
   [QuantConnect](https://www.quantconnect.com/)
 
-- **AlgoTrader**: A comprehensive [algorithmic trading](../a/algorithmic_trading.md) software for hedge funds and [proprietary trading](../p/proprietary_trading.md) groups.
+- **[AlgoTrader](../a/algotrader.md)**: A comprehensive [algorithmic trading](../a/algorithmic_trading.md) software for hedge funds and [proprietary trading](../p/proprietary_trading.md) groups.
   [AlgoTrader](https://www.algotrader.com/)
 
 - **Quantopian**: A platform (ceased operation in 2020) that provided a community for quantitative traders to develop and share [trading algorithms](../t/trading_algorithms.md).

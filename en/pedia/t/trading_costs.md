@@ -52,7 +52,7 @@ Virtu Financial is a prominent player in the market-making and high-frequency tr
 Interactive Brokers offers [algorithmic trading](../a/algorithmic_trading.md) platforms and has a reputation for low-cost trading solutions. Their commission structure is competitive, and they provide advanced tools for minimizing trading costs. More details are available on their website: [Interactive Brokers](https://www.interactivebrokers.com/)
 
 #### QuantConnect
-QuantConnect provides a cloud-based platform for [algorithmic trading](../a/algorithmic_trading.md) and [backtesting](../b/backtesting.md). They emphasize open-source algorithms and offer various tools to help traders reduce costs. Visit their site for more information: [QuantConnect](https://www.quantconnect.com/)
+[QuantConnect](../q/quantconnect.md) provides a cloud-based platform for [algorithmic trading](../a/algorithmic_trading.md) and [backtesting](../b/backtesting.md). They emphasize open-source algorithms and offer various tools to help traders reduce costs. Visit their site for more information: [QuantConnect](https://www.quantconnect.com/)
 
 ### Conclusion
 

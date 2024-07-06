@@ -49,7 +49,7 @@ Visualization tools enable traders to interpret complex data sets through graphi
 ## 4. Real-World Examples and Companies
 
 ### A. Bloomberg
-Bloomberg provides advanced analytics tools and terminals that are a staple in the financial industry. They utilize Big Data to offer real-time financial data, news, and analytics to traders globally.
+[Bloomberg](../b/bloomberg.md) provides advanced analytics tools and terminals that are a staple in the financial industry. They utilize Big Data to offer real-time financial data, news, and analytics to traders globally.
 - [Bloomberg](https://www.bloomberg.com/)
 
 ### B. Palantir Technologies

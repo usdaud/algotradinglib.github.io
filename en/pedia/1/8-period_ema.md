@@ -103,7 +103,7 @@ Most modern trading platforms and charting software provide built-in functions t
 
 ### TradingView
 
-1. **Load Chart**: Open the chart on TradingView.
+1. **Load Chart**: Open the chart on [TradingView](../t/tradingview.md).
 2. **Add Indicator**: Click on the `Indicators` button.
 3. **Search**: Type `Moving Average Exponential` and select it.
 4. **Settings**:

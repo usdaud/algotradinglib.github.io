@@ -1,6 +1,6 @@
 # 4-Day Rule
 
-The "4-Day Rule," also known as the "Pattern Day Trader (PDT) Rule," is a regulation established by the Financial Industry Regulatory Authority (FINRA) in the United States. This rule mandates that a trader who makes more than three day trades within a rolling five-business-day period is classified as a Pattern Day Trader. This classification has significant implications for the trader's account, primarily pertaining to margin requirements and minimum equity.
+The "4-Day Rule," also known as the "Pattern Day Trader (PDT) Rule," is a regulation established by the Financial Industry Regulatory Authority ([FINRA](../f/finra.md)) in the United States. This rule mandates that a trader who makes more than three day trades within a rolling five-business-day period is classified as a Pattern Day Trader. This classification has significant implications for the trader's account, primarily pertaining to margin requirements and minimum equity.
 
 ## Definition and Importance
 
@@ -10,7 +10,7 @@ A day trade pertains to any trade in which a security is bought and then sold (o
 
 ### Roll of the 4-Day Rule
 
-The 4-Day Rule specifically refers to monitoring the number of day trades within a consecutive five-day period. According to FINRA:
+The 4-Day Rule specifically refers to monitoring the number of day trades within a consecutive five-day period. According to [FINRA](../f/finra.md):
 - If a trader executes four or more day trades within five trading days, they are deemed a Pattern Day Trader.
 - A Pattern Day Trader must maintain a minimum equity of $25,000 in their trading account.
 - This equity must be in cash or eligible securities and must be in the account prior to engaging in any day-trading activities.
@@ -34,7 +34,7 @@ Algorithmic strategies must consider the restrictions imposed by the Pattern Day
 
 ## Enforcement and Consequences
 
-FINRA enforces the 4-Day Rule rigorously. Brokerages must track and report [day trading](../d/day_trading.md) activities to ensure compliance. The consequences for violating this rule can include:
+[FINRA](../f/finra.md) enforces the 4-Day Rule rigorously. Brokerages must track and report [day trading](../d/day_trading.md) activities to ensure compliance. The consequences for violating this rule can include:
 - **Restrictions on trading activity**: Accounts not meeting the minimum equity requirement may be limited to closing transactions only.
 - **Suspension of account**: Repeated violations can lead to temporary or permanent suspension from [day trading](../d/day_trading.md) activities under certain brokerages.
 
@@ -44,7 +44,7 @@ Various brokerages provide tools and platforms to assist traders in complying wi
 
 1. [Interactive Brokers](https://www.interactivebrokers.com/en/home.php): Offers real-time monitoring tools and alerts for PDT status.
 2. [E*TRADE](https://us.etrade.com/home): Provides educational resources and trading platforms that monitor day trades.
-3. [TD Ameritrade](https://www.tdameritrade.com/home.page): Features comprehensive trader dashboards to ensure compliance with FINRA rules.
+3. [TD Ameritrade](https://www.tdameritrade.com/home.page): Features comprehensive trader dashboards to ensure compliance with [FINRA](../f/finra.md) rules.
 4. [Robinhood](https://robinhood.com/us/en/): Incorporates PDT tracking in their mobile and web trading apps.
 
 ## Conclusion

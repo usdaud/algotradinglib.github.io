@@ -17,7 +17,7 @@ Algorithms offer potential traders several advantages:
 
 ### Data Sources and News Feeds
 
-The quality and speed of data are paramount. Reputable real-time news services like Bloomberg, Reuters, and Dow Jones Newswires are preferred for their rapid and reliable information delivery. These news feeds provide continuous updates, ensuring traders have the latest information at their fingertips.
+The quality and speed of data are paramount. Reputable real-time news services like [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), and Dow Jones Newswires are preferred for their rapid and reliable information delivery. These news feeds provide continuous updates, ensuring traders have the latest information at their fingertips.
 
 ### Natural Language Processing (NLP)
 
@@ -52,7 +52,7 @@ One of the most anticipated news events is the monthly U.S. Non-Farm Payroll rep
 ## Companies Specialized in High Impact News Trading
 
 ### QuantConnect
-QuantConnect provides a comprehensive platform for [algorithmic trading](../a/algorithmic_trading.md), allowing traders to collaborate, back-test, and deploy strategies across multiple asset classes. Their open-source [algorithmic trading](../a/algorithmic_trading.md) engine, Lean, supports deployment in High Impact News Trading scenarios.
+[QuantConnect](../q/quantconnect.md) provides a comprehensive platform for [algorithmic trading](../a/algorithmic_trading.md), allowing traders to collaborate, back-test, and deploy strategies across multiple asset classes. Their open-source [algorithmic trading](../a/algorithmic_trading.md) engine, Lean, supports deployment in High Impact News Trading scenarios.
 
 [QuantConnect](https://www.quantconnect.com/)
 

@@ -23,7 +23,7 @@ There are several variations of cross-trades, including:
 
 ### Regulation and Legal Aspects
 
-Cross-trade execution is subject to stringent regulatory oversight to prevent conflicts of interest, manipulation, and ensure fair treatment of clients. Regulatory bodies, such as the U.S. Securities and Exchange Commission (SEC) and the Financial Industry Regulatory Authority (FINRA), have established rules to govern the practice. Brokers must ensure:
+Cross-trade execution is subject to stringent regulatory oversight to prevent conflicts of interest, manipulation, and ensure fair treatment of clients. Regulatory bodies, such as the U.S. Securities and Exchange Commission (SEC) and the Financial Industry Regulatory Authority ([FINRA](../f/finra.md)), have established rules to govern the practice. Brokers must ensure:
 - **Best Execution**: Firm obligation to execute orders at the best possible terms for clients.
 - **Transparency**: Proper disclosure of cross-trading policies to clients.
 - **Fair Pricing**: Execution prices must be fair and in line with market conditions.

@@ -107,7 +107,7 @@ Efficient order execution minimizes the impact of trading on the market. Element
 Various platforms facilitate automated order execution. Examples include:
 - **Interactive Brokers:** Popular for its comprehensive API and low latency.
 - **MetaTrader:** Widely used in forex trading for executing algorithmic strategies.
-- **QuantConnect:** Provides a cloud-based [trading environment](../t/trading_environment.md).
+- **[QuantConnect](../q/quantconnect.md):** Provides a cloud-based [trading environment](../t/trading_environment.md).
 
 ### 5.3 Real-Time Monitoring
 Continuous monitoring is essential for maintaining the reliability of a trading system. Features include:

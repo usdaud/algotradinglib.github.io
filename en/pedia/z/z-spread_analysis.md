@@ -1,6 +1,6 @@
 # Z-Spread Analysis
 
-The Z-Spread, also known as the Zero-volatility spread, is a crucial concept in fixed-income analysis and algorithmic trading. It is a measure that quantifies the yield spread which, when added to the spot rate curve, will discount a bond's cash flows to its present market price. Unlike other spread measures such as the nominal spread or the option-adjusted spread (OAS), the Z-Spread provides a more accurate valuation by incorporating the entire yield curve rather than a single yield point.
+The Z-Spread, also known as the Zero-volatility spread, is a crucial concept in fixed-income analysis and [algorithmic trading](../a/algorithmic_trading.md). It is a measure that quantifies the [yield spread](../y/yield_spread.md) which, when added to the spot rate curve, will discount a bond's cash flows to its present market price. Unlike other spread measures such as the nominal spread or the option-adjusted spread (OAS), the Z-Spread provides a more accurate valuation by incorporating the entire [yield curve](../y/yield_curve.md) rather than a single yield point.
 
 ### Introduction to Z-Spread Analysis
 
@@ -43,10 +43,10 @@ Algorithmic traders use Z-[Spread analysis](../s/spread_analysis.md) to identify
 Implementing Z-Spread models in [algorithmic trading](../a/algorithmic_trading.md) systems requires integration with real-time data feeds, robust computational capabilities, and sophisticated numerical solvers. Here’s a high-level overview of the implementation process:
 
 1. **[Data Integration](../d/data_integration.md):**
-    - Integrate real-time or near-real-time data feeds for bond prices, spot rates, and market conditions. Vendors like Bloomberg and Reuters provide comprehensive fixed-income data services.
+    - Integrate real-time or near-real-time data feeds for bond prices, spot rates, and market conditions. Vendors like [Bloomberg](../b/bloomberg.md) and [Reuters](../r/reuters.md) provide comprehensive fixed-income data services.
 
 2. **Model Setup:**
-    - Develop or integrate financial libraries capable of performing Z-Spread calculations. Libraries like QuantLib are widely used in the industry for such purposes.
+    - Develop or integrate financial libraries capable of performing Z-Spread calculations. Libraries like [QuantLib](../q/quantlib.md) are widely used in the industry for such purposes.
 
 3. **Optimization Algorithms:**
     - Employ numerical optimization algorithms such as Newton-Raphson to solve for the Z-Spread efficiently. These algorithms are often included in financial libraries but may require customization for high-frequency trading applications.

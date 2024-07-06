@@ -61,9 +61,9 @@ A Vega-neutral strategy involves combining options in such a way that the overal
 
 - **Interactive Brokers**: Offers advanced tools for constructing and analyzing Vega-neutral strategies.
   [Interactive Brokers](https://www.interactivebrokers.com/)
-- **Thinkorswim by TD Ameritrade**: Provides sophisticated options analysis tools.
+- **[Thinkorswim](../t/thinkorswim.md) by TD Ameritrade**: Provides sophisticated options analysis tools.
   [Thinkorswim by TD Ameritrade](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
-- **TradeStation**: Known for its robust options trading capabilities and advanced analytics.
+- **[TradeStation](../t/tradestation.md)**: Known for its robust options trading capabilities and advanced analytics.
   [TradeStation](https://www.tradestation.com/)
 
 ### Analytical Tools

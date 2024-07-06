@@ -44,7 +44,7 @@ Several advanced tools and platforms have been developed to aid wealth managemen
 Wealth management in the realm of [algorithmic trading](../a/algorithmic_trading.md) faces regulatory scrutiny to ensure fair practices and protect investors. Key regulatory bodies involved include:
 
 - **U.S. Securities and Exchange Commission (SEC):** Enforces regulations on [algorithmic trading](../a/algorithmic_trading.md) policies and ensures market integrity.
-- **Financial Industry Regulatory Authority (FINRA):** Monitors brokerage firms and their [algorithmic trading](../a/algorithmic_trading.md) activities, ensuring compliance with industry standards.
+- **Financial Industry Regulatory Authority ([FINRA](../f/finra.md)):** Monitors brokerage firms and their [algorithmic trading](../a/algorithmic_trading.md) activities, ensuring compliance with industry standards.
 - **European Securities and Markets Authority (ESMA):** Oversee regulatory practices within the European Union, aiming for transparency and fair trading.
 
 ## Challenges and Risks

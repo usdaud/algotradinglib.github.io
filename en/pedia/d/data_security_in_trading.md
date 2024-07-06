@@ -68,7 +68,7 @@ GDPR is a regulation in the European Union that mandates strict data protection 
 The SEC, which oversees securities markets in the United States, imposes various security requirements on trading firms. These include safeguarding client information and ensuring the integrity of [trading systems](../t/trading_systems.md).
 
 ### 3. Financial Industry Regulatory Authority (FINRA) Rules
-FINRA is a US-based self-regulatory organization that enforces rules governing the securities industry. Trading firms must adhere to FINRA’s rules on data security and protection of client information.
+[FINRA](../f/finra.md) is a US-based self-regulatory organization that enforces rules governing the securities industry. Trading firms must adhere to [FINRA](../f/finra.md)’s rules on data security and protection of client information.
 
 ### 4. Markets in Financial Instruments Directive (MiFID II)
 MiFID II is an EU regulation that aims to increase transparency and improve the functioning of financial markets. Part of MiFID II focuses on ensuring the security and integrity of [trading systems](../t/trading_systems.md) and data.

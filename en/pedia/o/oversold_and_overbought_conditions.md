@@ -123,8 +123,8 @@ Traders should be aware that oversold and [overbought indicators](../o/overbough
 ### Notable Companies Specializing in Algorithmic Trading and Analytics
 Several companies offer platforms and tools for developing and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies:
 
-- **QuantConnect**: [https://www.quantconnect.com/](https://www.quantconnect.com/)
-- **AlgoTrader**: [https://www.algotrader.com/](https://www.algotrader.com/)
+- **[QuantConnect](../q/quantconnect.md)**: [https://www.quantconnect.com/](https://www.quantconnect.com/)
+- **[AlgoTrader](../a/algotrader.md)**: [https://www.algotrader.com/](https://www.algotrader.com/)
 - **Quantopian** (now part of Robinhood): [https://www.quantopian.com/](https://www.quantopian.com/)
 - **Kite by Zerodha**: [https://kite.zerodha.com/](https://kite.zerodha.com/)
 

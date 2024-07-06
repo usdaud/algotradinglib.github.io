@@ -93,16 +93,16 @@ df['Sell_Signal'] = df['VO'] <= 0
 
 ### A. **TRADING APPLICATIONS**
 
-- **TradeStation**: A comprehensive trading platform that includes an array of [technical analysis](../t/technical_analysis.md) tools, including custom volume oscillators. More details can be found at [TradeStation](http://www.tradestation.com/).
+- **[TradeStation](../t/tradestation.md)**: A comprehensive trading platform that includes an array of [technical analysis](../t/technical_analysis.md) tools, including custom volume oscillators. More details can be found at [TradeStation](http://www.tradestation.com/).
   
 - **MetaTrader 4 and 5**: Popular trading platforms used extensively in forex, CFDs, and stock markets. They offer the capability to script custom indicators such as the Volume Oscillator. Visit [MetaTrader](https://www.metatrader4.com/) for more details.
 
 ### B. **INSTITUTIONAL TOOLS**
 
-- **Bloomberg Terminal**: Provides sophisticated charting and analysis capabilities to institutional traders, including custom scripted volume oscillators.
+- **[Bloomberg](../b/bloomberg.md) Terminal**: Provides sophisticated charting and analysis capabilities to institutional traders, including custom scripted volume oscillators.
   Visit [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/) for more information.
 
-- **Thomson Reuters Eikon**: A competitor to Bloomberg that offers powerful analytics and the ability to implement custom volume-based algorithms.
+- **Thomson [Reuters](../r/reuters.md) Eikon**: A competitor to [Bloomberg](../b/bloomberg.md) that offers powerful analytics and the ability to implement custom volume-based algorithms.
   Visit [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software) for further details.
 
 ### C. **RESEARCH AND EDUCATION**

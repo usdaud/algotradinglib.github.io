@@ -56,7 +56,7 @@ These ECNs focus on foreign exchange trading, providing a platform for currency 
 
 - **EBS (Electronic Broking Services)**: A leading forex ECN that enhances liquidity and price discovery for spot trading in various currency pairs.
   
-- **Reuters Dealing**: Part of the FXall trading platform, Reuters Dealing connects traders across the globe to provide competitive pricing and efficient trade execution.
+- **[Reuters](../r/reuters.md) Dealing**: Part of the FXall trading platform, [Reuters](../r/reuters.md) Dealing connects traders across the globe to provide competitive pricing and efficient trade execution.
 
 ### Multi-Asset ECNs
 
@@ -88,7 +88,7 @@ EBS, a part of CME Group, stands out in the forex market by offering deep liquid
 
 ### Reuters Dealing
 
-As a service within the FXall platform, Reuters Dealing integrates extensive market data and trading connectivity, catering to institutional forex traders' demand for precision and speed. [Reuters FXall Website](https://www.refinitiv.com/en/products/fxall-forex-trading)
+As a service within the FXall platform, [Reuters](../r/reuters.md) Dealing integrates extensive market data and trading connectivity, catering to institutional forex traders' demand for precision and speed. [Reuters FXall Website](https://www.refinitiv.com/en/products/fxall-forex-trading)
 
 ## Impact on the Trading Landscape
 

@@ -75,7 +75,7 @@ Consider a trader analyzing a stock using the 10-[day trading](../d/day_trading.
 
 Leveraging technology is essential for effective implementation of the 10-[day trading](../d/day_trading.md) cycle.
 
-- **TradingView**: Offers extensive charting tools and indicators.
+- **[TradingView](../t/tradingview.md)**: Offers extensive charting tools and indicators.
 - **MetaTrader 4/5**: Widely used platforms with comprehensive tools for [technical analysis](../t/technical_analysis.md).
 - **E*TRADE**: Provides a robust platform for executing trades with advanced analysis tools.
 - **Interactive Brokers**: Known for low-cost, high-speed trading execution.

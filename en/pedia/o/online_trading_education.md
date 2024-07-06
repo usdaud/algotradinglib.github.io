@@ -19,11 +19,11 @@ Understanding the theories that underpin [trading strategies](../t/trading_strat
 [Risk management](../r/risk_management.md) is essential in trading to protect one's capital from unforeseen market movements. Proper [risk management](../r/risk_management.md) techniques involve setting [stop-loss orders](../s/stop-loss_orders.md), understanding leverage, proper [position sizing](../p/position_sizing.md), and diversifying portfolios.
 
 #### Trading Tools and Platforms
-Understanding the tools and platforms used in trading can significantly affect a trader's success. Popular online trading platforms include MetaTrader, Thinkorswim, and TradingView. Each platform offers various features such as charting tools, automated [trading algorithms](../t/trading_algorithms.md), and real-time data feeds.
+Understanding the tools and platforms used in trading can significantly affect a trader's success. Popular online trading platforms include MetaTrader, [Thinkorswim](../t/thinkorswim.md), and [TradingView](../t/tradingview.md). Each platform offers various features such as charting tools, automated [trading algorithms](../t/trading_algorithms.md), and real-time data feeds.
 
 - **MetaTrader**: A popular trading platform known for its advanced charting tools and automated trading via Expert Advisors (EAs).
-- **Thinkorswim**: Provided by TD Ameritrade, this platform offers sophisticated trading tools, including [backtesting](../b/backtesting.md) capabilities and comprehensive charting.
-- **TradingView**: Widely used for its user-friendly interface and robust charting features, it also provides social networking aspects for traders.
+- **[Thinkorswim](../t/thinkorswim.md)**: Provided by TD Ameritrade, this platform offers sophisticated trading tools, including [backtesting](../b/backtesting.md) capabilities and comprehensive charting.
+- **[TradingView](../t/tradingview.md)**: Widely used for its user-friendly interface and robust charting features, it also provides social networking aspects for traders.
 
 ### Notable Online Trading Education Providers
 

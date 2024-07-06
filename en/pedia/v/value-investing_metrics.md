@@ -115,7 +115,7 @@ A lower EV/EBITDA ratio may indicate that a company is undervalued relative to i
 ### Implementing Value-Investing Metrics in Algorithmic Trading
 
 #### Data Collection
-The first step in implementing value-investing metrics in [algorithmic trading](../a/algorithmic_trading.md) is data collection. Various financial data providers like Bloomberg, Reuters, and other specialized platforms offer real-time and historical data on these metrics.
+The first step in implementing value-investing metrics in [algorithmic trading](../a/algorithmic_trading.md) is data collection. Various financial data providers like [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), and other specialized platforms offer real-time and historical data on these metrics.
 
 #### Screening and Filtering
 Algorithms can be programmed to screen and filter stocks based on one or more of the above value-investing metrics. Stocks that meet specific criteria, such as having a P/E ratio below a certain threshold, can be shortlisted for further analysis.
@@ -138,7 +138,7 @@ Once deployed, the algorithm needs to be monitored in real-time to ensure it ada
 - [Two Sigma](https://www.twosigma.com/)
 
 #### Retail Algorithmic Trading Platforms
-Retail trading platforms like QuantConnect and Alpaca provide APIs that enable individual traders to implement value-investing metrics in their [trading algorithms](../t/trading_algorithms.md).
+Retail trading platforms like [QuantConnect](../q/quantconnect.md) and Alpaca provide APIs that enable individual traders to implement value-investing metrics in their [trading algorithms](../t/trading_algorithms.md).
 
 - [QuantConnect](https://www.quantconnect.com/)
 - [Alpaca](https://alpaca.markets/)

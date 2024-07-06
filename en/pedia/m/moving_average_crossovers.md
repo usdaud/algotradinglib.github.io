@@ -34,7 +34,7 @@ A moving average crossover occurs when one moving average crosses above or below
 
 1. **Setting Parameters:** The first and foremost step in implementing moving average crossovers in [algorithmic trading](../a/algorithmic_trading.md) is to set the parameters for the moving averages. Traders must choose the appropriate time frames for both the short-term and long-term moving averages based on their trading strategy and the nature of the asset.
 
-2. **Coding the Strategy:** [Algorithmic trading](../a/algorithmic_trading.md) platforms such as MetaTrader, QuantConnect, or custom-built systems using programming libraries like Python's Pandas and NumPy allow traders to code and backtest moving average crossover strategies. Here is a basic example using Python:
+2. **Coding the Strategy:** [Algorithmic trading](../a/algorithmic_trading.md) platforms such as MetaTrader, [QuantConnect](../q/quantconnect.md), or custom-built systems using programming libraries like Python's Pandas and NumPy allow traders to code and backtest moving average crossover strategies. Here is a basic example using Python:
 
    ```python
    import pandas as pd
@@ -78,7 +78,7 @@ A moving average crossover occurs when one moving average crosses above or below
 
 ### Applications and Real-World Examples
 
-1. **QuantConnect**: An [algorithmic trading](../a/algorithmic_trading.md) platform that offers extensive documentation and tools for implementing and [backtesting](../b/backtesting.md) moving average crossover strategies. Traders can use QuantConnect's cloud-based infrastructure to build robust algorithms. Learn more [here](https://www.quantconnect.com/).
+1. **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that offers extensive documentation and tools for implementing and [backtesting](../b/backtesting.md) moving average crossover strategies. Traders can use [QuantConnect](../q/quantconnect.md)'s cloud-based infrastructure to build robust algorithms. Learn more [here](https://www.quantconnect.com/).
 
 2. **MetaTrader**: A popular trading platform widely used for creating and deploying [trading algorithms](../t/trading_algorithms.md). MetaTrader's built-in tools and scripting language (MQL) make it easy to develop, test, and execute moving average crossover strategies. More details can be found [here](https://www.metatrader4.com/).
 

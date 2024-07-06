@@ -46,16 +46,16 @@ The YTD performance of the [algorithmic trading](../a/algorithmic_trading.md) po
 
 Several platforms and tools are available to assist algorithmic traders in monitoring and calculating YTD performance. These tools offer advanced analytics, real-time data, and comprehensive reporting features. Some popular platforms include:
 
-1. **QuantConnect:**
-   QuantConnect is an [algorithmic trading](../a/algorithmic_trading.md) platform that provides traders with the tools to design, test, and execute [trading algorithms](../t/trading_algorithms.md). It offers features to monitor YTD performance and other financial metrics.
+1. **[QuantConnect](../q/quantconnect.md):**
+   [QuantConnect](../q/quantconnect.md) is an [algorithmic trading](../a/algorithmic_trading.md) platform that provides traders with the tools to design, test, and execute [trading algorithms](../t/trading_algorithms.md). It offers features to monitor YTD performance and other financial metrics.
    Link: [QuantConnect](https://www.quantconnect.com/)
 
-2. **AlgoTrader:**
-   AlgoTrader is another sophisticated platform for [algorithmic trading](../a/algorithmic_trading.md) that supports automated trading, strategy [backtesting](../b/backtesting.md), and performance monitoring, including YTD returns.
+2. **[AlgoTrader](../a/algotrader.md):**
+   [AlgoTrader](../a/algotrader.md) is another sophisticated platform for [algorithmic trading](../a/algorithmic_trading.md) that supports automated trading, strategy [backtesting](../b/backtesting.md), and performance monitoring, including YTD returns.
    Link: [AlgoTrader](https://www.algotrader.com/)
 
-3. **TradeStation:**
-   TradeStation offers powerful tools for [algorithmic trading](../a/algorithmic_trading.md) with features to track and analyze YTD performance. It provides historical data, real-time updates, and customizable analytics.
+3. **[TradeStation](../t/tradestation.md):**
+   [TradeStation](../t/tradestation.md) offers powerful tools for [algorithmic trading](../a/algorithmic_trading.md) with features to track and analyze YTD performance. It provides historical data, real-time updates, and customizable analytics.
    Link: [TradeStation](https://www.tradestation.com/)
 
 4. **MetaTrader:**

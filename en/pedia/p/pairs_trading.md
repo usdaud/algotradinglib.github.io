@@ -22,7 +22,7 @@ Pairs trading is a market-neutral trading strategy that involves matching a long
 
 1. **Software and Algorithms**: Pairs trading is typically executed using sophisticated software and algorithms. These tools help identify potential pairs, calculate spreads, and automatically execute trades. Popular programming languages for developing pairs [trading algorithms](../t/trading_algorithms.md) include Python, R, and MATLAB.
 
-2. **Data Analysis**: Historical price data is essential for identifying viable pairs and establishing [trading signals](../t/trading_signals.md). Traders often rely on platforms like Bloomberg, Reuters, or specialized [quantitative trading](../q/quantitative_trading.md) libraries to collect and analyze data.
+2. **Data Analysis**: Historical price data is essential for identifying viable pairs and establishing [trading signals](../t/trading_signals.md). Traders often rely on platforms like [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), or specialized [quantitative trading](../q/quantitative_trading.md) libraries to collect and analyze data.
 
 3. **[Backtesting](../b/backtesting.md)**: Before committing real capital, traders employ [backtesting](../b/backtesting.md) to validate their strategies against historical data. This process helps in understanding how the pairs trading model would have performed under various market conditions and refines the parameters for better results.
 

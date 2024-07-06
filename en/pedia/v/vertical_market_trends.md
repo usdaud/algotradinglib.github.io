@@ -58,17 +58,17 @@ Compliance with regulatory requirements is crucial in [algorithmic trading](../a
 
 #### Companies in Vertical Markets of Algorithmic Trading
 
-**1. QuantConnect:**
-QuantConnect (https://www.quantconnect.com) offers an open-source, cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple asset classes. It provides a suite of tools for research, back-testing, and live trading.
+**1. [QuantConnect](../q/quantconnect.md):**
+[QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com) offers an open-source, cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple asset classes. It provides a suite of tools for research, back-testing, and live trading.
 
-**2. AlgoTrader:**
-AlgoTrader (https://www.algotrader.com) is an institutional-grade [algorithmic trading](../a/algorithmic_trading.md) software that supports both traditional and digital asset trading. Its platform includes features for strategy development, simulation, and execution.
+**2. [AlgoTrader](../a/algotrader.md):**
+[AlgoTrader](../a/algotrader.md) (https://www.[algotrader](../a/algotrader.md).com) is an institutional-grade [algorithmic trading](../a/algorithmic_trading.md) software that supports both traditional and digital asset trading. Its platform includes features for strategy development, simulation, and execution.
 
 **3. Numerai:**
 Numerai (https://numer.ai) is a hedge fund that crowdsources its [trading algorithms](../t/trading_algorithms.md) from data scientists around the world. The company uses a unique incentive structure and machine learning to develop its [trading strategies](../t/trading_strategies.md).
 
-**4. Deltix:**
-Deltix (https://www.deltixlab.com) offers software and services for [quantitative research](../q/quantitative_research.md), [algorithmic trading](../a/algorithmic_trading.md), and execution. Its products cater to hedge funds, asset managers, and [proprietary trading](../p/proprietary_trading.md) firms.
+**4. [Deltix](../d/deltix.md):**
+[Deltix](../d/deltix.md) (https://www.deltixlab.com) offers software and services for [quantitative research](../q/quantitative_research.md), [algorithmic trading](../a/algorithmic_trading.md), and execution. Its products cater to hedge funds, asset managers, and [proprietary trading](../p/proprietary_trading.md) firms.
 
 **5. Trading Technologies:**
 Trading Technologies (https://www.tradingtechnologies.com) provides professional trading software, infrastructure, and data solutions for a variety of asset classes. Their platform is known for its speed and reliability.

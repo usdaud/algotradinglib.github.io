@@ -102,7 +102,7 @@ Use [adaptive algorithms](../a/adaptive_algorithms.md) that recalibrate periodic
 ### Step-by-Step Guide
 
 1. **Data Collection**:
-   - Gather historical price data from reliable sources such as Bloomberg or Reuters.
+   - Gather historical price data from reliable sources such as [Bloomberg](../b/bloomberg.md) or [Reuters](../r/reuters.md).
 2. **Preprocessing**:
    - Clean the data to eliminate anomalies and gaps.
 3. **[Cycle Analysis](../c/cycle_analysis.md)**:
@@ -129,7 +129,7 @@ Several software tools offer modules for incorporating cycle indicators in [algo
    - Libraries like NumPy, pandas, and SciPy can be used for [cycle analysis](../c/cycle_analysis.md).
    - TA-Lib for commonly used [technical analysis](../t/technical_analysis.md) indicators.
 
-3. **QuantConnect**:
+3. **[QuantConnect](../q/quantconnect.md)**:
    - An [algorithmic trading](../a/algorithmic_trading.md) platform that supports [backtesting](../b/backtesting.md) and live trading with integration for cycle indicators.
 
 ## Conclusion

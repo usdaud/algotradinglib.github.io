@@ -1,6 +1,6 @@
 # Upside Potential Ratio
 
-The **Upside Potential Ratio (UPR)** is a performance measurement tool used in the field of finance, particularly in asset management and algorithmic trading. This ratio helps investors and portfolio managers to quantify the potential for gains relative to the risk-free rate, focusing specifically on the upper side of the return distribution. The concept emphasizes assessing the financial asset's potential for positive returns rather than just minimizing risks.
+The **Upside Potential Ratio (UPR)** is a performance measurement tool used in the field of finance, particularly in asset management and [algorithmic trading](../a/algorithmic_trading.md). This ratio helps investors and portfolio managers to quantify the potential for gains relative to the risk-free rate, focusing specifically on the upper side of the return distribution. The concept emphasizes assessing the financial asset's potential for positive returns rather than just minimizing risks.
 
 ### Understanding the Upside Potential Ratio
 

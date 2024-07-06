@@ -19,7 +19,7 @@ Multi-asset trading platforms facilitate the execution of trades across differen
 - [Risk management](../r/risk_management.md) tools
 
 Examples of multi-asset trading platforms include:
-- **Bloomberg Terminal**: [Bloomberg L.P.](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+- **[Bloomberg](../b/bloomberg.md) Terminal**: [Bloomberg L.P.](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 - **Refinitiv Eikon**: [Refinitiv](https://www.refinitiv.com/en/products/eikon-trading-software)
 - **MetaTrader 5**: [MetaQuotes](https://www.metatrader5.com/en)
 

@@ -16,7 +16,7 @@ Here's the official [Zipline repository on GitHub](https://github.com/quantopian
 
 #### 2. **Backtrader**
 
-**Backtrader** is another powerful Python library for [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md). It emphasizes flexibility and ease of use.
+**[Backtrader](../b/backtrader.md)** is another powerful Python library for [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md). It emphasizes flexibility and ease of use.
 
 ##### Key Features:
 - **Multiple Data Feeds**: Support for multiple simultaneous data streams.
@@ -28,7 +28,7 @@ Find more about it on the [Backtrader website](https://www.backtrader.com/).
 
 #### 3. **QuantConnect**
 
-**QuantConnect** is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform, offering extensive tools for developing and testing [trading strategies](../t/trading_strategies.md).
+**[QuantConnect](../q/quantconnect.md)** is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform, offering extensive tools for developing and testing [trading strategies](../t/trading_strategies.md).
 
 ##### Key Features:
 - **Integrated Environment**: Combines [backtesting](../b/backtesting.md) with live trading capabilities.
@@ -52,7 +52,7 @@ Check out the [PyAlgoTrade GitHub repository](https://github.com/gbeced/pyalgotr
 
 #### 5. **Quantlib**
 
-**Quantlib** is a comprehensive library for financial [quantitative analysis](../q/quantitative_analysis.md). While not exclusively for [backtesting](../b/backtesting.md), its extensive features make it adaptable for [algorithmic trading](../a/algorithmic_trading.md) strategy evaluation.
+**[Quantlib](../q/quantlib.md)** is a comprehensive library for financial [quantitative analysis](../q/quantitative_analysis.md). While not exclusively for [backtesting](../b/backtesting.md), its extensive features make it adaptable for [algorithmic trading](../a/algorithmic_trading.md) strategy evaluation.
 
 ##### Key Features:
 - **Wide Range of Financial Models**: Supports bonds, [interest rate models](../i/interest_rate_models.md), options, and more.
@@ -64,13 +64,13 @@ Learn more on the [Quantlib official site](https://www.quantlib.org/).
 
 #### 6. **TradeStation EasyLanguage**
 
-**TradeStation** offers EasyLanguage, a proprietary scripting language designed for developing [trading strategies](../t/trading_strategies.md). Its [backtesting](../b/backtesting.md) capabilities are deeply integrated.
+**[TradeStation](../t/tradestation.md)** offers EasyLanguage, a proprietary scripting language designed for developing [trading strategies](../t/trading_strategies.md). Its [backtesting](../b/backtesting.md) capabilities are deeply integrated.
 
 ##### Key Features:
 - **Simplicity**: Easy to learn and use for non-programmers.
 - **Integrated Data Services**: Direct access to historical and [real-time market data](../r/real-time_market_data.md).
 - **Comprehensive Tools**: Advanced charting, strategy optimization, and genetic algorithms.
-- **Broker Integration**: Directly linked to TradeStation [brokerage services](../b/brokerage_services.md).
+- **Broker Integration**: Directly linked to [TradeStation](../t/tradestation.md) [brokerage services](../b/brokerage_services.md).
 
 Visit the [TradeStation website](https://www.tradestation.com/).
 
@@ -88,10 +88,10 @@ Learn more on the [MetaTrader 4 website](https://www.metatrader4.com/).
 
 #### 8. **Amibroker**
 
-**Amibroker** is a powerful and comprehensive [technical analysis](../t/technical_analysis.md) software with advanced [backtesting](../b/backtesting.md) capabilities.
+**[Amibroker](../a/amibroker.md)** is a powerful and comprehensive [technical analysis](../t/technical_analysis.md) software with advanced [backtesting](../b/backtesting.md) capabilities.
 
 ##### Key Features:
-- **AFL Language**: Advanced [backtesting](../b/backtesting.md) using the AmiBroker Formula Language (AFL).
+- **AFL Language**: Advanced [backtesting](../b/backtesting.md) using the [AmiBroker](../a/amibroker.md) Formula Language (AFL).
 - **Custom Indicators**: Design custom indicators, scans, and explorations.
 - **Optimization Tools**: Sophisticated genetic optimization and Monte Carlo analysis.
 - **High Performance**: Capable of handling millions of data points efficiently.
@@ -100,19 +100,19 @@ Visit the [Amibroker website](http://www.amibroker.com/).
 
 #### 9. **NinjaTrader**
 
-**NinjaTrader** offers a professional-grade platform for [backtesting](../b/backtesting.md) and live trading, focusing on futures, forex, and stock trading.
+**[NinjaTrader](../n/ninjatrader.md)** offers a professional-grade platform for [backtesting](../b/backtesting.md) and live trading, focusing on futures, forex, and stock trading.
 
 ##### Key Features:
 - **C# Language**: Develop strategies using C#, providing a robust programming environment.
 - **Extensive Tools**: Advanced charting, strategy development, and market analysis tools.
 - **Market Replay**: Rewind and replay market data to refine strategies.
-- **[Brokerage Services](../b/brokerage_services.md)**: Integrated with NinjaTrader Brokerage for live trading.
+- **[Brokerage Services](../b/brokerage_services.md)**: Integrated with [NinjaTrader](../n/ninjatrader.md) Brokerage for live trading.
 
 For more details, visit the [NinjaTrader website](https://ninjatrader.com/).
 
 #### 10. **AlgoTrader**
 
-**AlgoTrader** is an institutional-grade [algorithmic trading](../a/algorithmic_trading.md) software with extensive [backtesting](../b/backtesting.md) and live trading functionalities.
+**[AlgoTrader](../a/algotrader.md)** is an institutional-grade [algorithmic trading](../a/algorithmic_trading.md) software with extensive [backtesting](../b/backtesting.md) and live trading functionalities.
 
 ##### Key Features:
 - **Multi-Asset Support**: Handle a variety of assets including stocks, forex, and cryptocurrencies.
@@ -124,4 +124,4 @@ Explore more on the [AlgoTrader website](https://www.algotrader.com/).
 
 ### Conclusion
 
-Choosing the right [backtesting](../b/backtesting.md) framework depends on various factors, including the asset class, the programming language, required features, and the level of expertise. Each framework offers unique advantages, making it essential to evaluate them based on your specific needs and trading goals. From beginner-friendly options like MetaTrader 4 to comprehensive platforms like AlgoTrader, the landscape of [backtesting](../b/backtesting.md) frameworks is rich and diverse, providing ample opportunities for traders to refine and optimize their strategies before deploying them in live markets.
+Choosing the right [backtesting](../b/backtesting.md) framework depends on various factors, including the asset class, the programming language, required features, and the level of expertise. Each framework offers unique advantages, making it essential to evaluate them based on your specific needs and trading goals. From beginner-friendly options like MetaTrader 4 to comprehensive platforms like [AlgoTrader](../a/algotrader.md), the landscape of [backtesting](../b/backtesting.md) frameworks is rich and diverse, providing ample opportunities for traders to refine and optimize their strategies before deploying them in live markets.

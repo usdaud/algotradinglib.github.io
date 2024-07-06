@@ -86,8 +86,8 @@ In Forex trading, trendline breakouts can be used to capitalize on currency pair
 
 Several platforms and tools facilitate trendline breakout strategies in algo trading:
 1. **MetaTrader 4/5**: Widely used for Forex, offering scripting languages to automate trading.
-2. **QuantConnect**: An open-source cloud-based platform for [backtesting](../b/backtesting.md) and executing strategies. [QuantConnect](https://www.quantconnect.com/)
-3. **TradingView**: Allows drawing trendlines and integrating custom scripts for breakout detection. [TradingView](https://www.tradingview.com/)
+2. **[QuantConnect](../q/quantconnect.md)**: An open-source cloud-based platform for [backtesting](../b/backtesting.md) and executing strategies. [QuantConnect](https://www.quantconnect.com/)
+3. **[TradingView](../t/tradingview.md)**: Allows drawing trendlines and integrating custom scripts for breakout detection. [TradingView](https://www.tradingview.com/)
 
 ## Risks and Challenges
 

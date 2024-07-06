@@ -71,7 +71,7 @@ While the Black-Scholes model is widely used, it has limitations due to its assu
 
 ### Software and Tools
 
-Numerous software applications and trading platforms integrate the Black-Scholes model for option pricing and strategy development. For instance, educational resources and financial analytics tools offered by companies like Bloomberg [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/) and Thomson Reuters [Refinitiv Eikon](https://www.refinitiv.com/en/products/eikon-trading-software) provide real-time access to [option pricing models](../o/option_pricing_models.md) based on Black-Scholes, helping traders and analysts make informed decisions.
+Numerous software applications and trading platforms integrate the Black-Scholes model for option pricing and strategy development. For instance, educational resources and financial analytics tools offered by companies like [Bloomberg](../b/bloomberg.md) [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/) and Thomson [Reuters](../r/reuters.md) [Refinitiv Eikon](https://www.refinitiv.com/en/products/eikon-trading-software) provide real-time access to [option pricing models](../o/option_pricing_models.md) based on Black-Scholes, helping traders and analysts make informed decisions.
 
 ## Conclusion
 

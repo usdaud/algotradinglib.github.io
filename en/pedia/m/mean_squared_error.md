@@ -101,7 +101,7 @@ In [portfolio management](../p/portfolio_management.md), we might use MSE to eva
 
 ### Companies and Tools
 Several companies and tools provide solutions that automatically compute MSE for models:
-1. **QuantConnect** - An [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to design, test, and deploy [trading algorithms](../t/trading_algorithms.md): [QuantConnect](https://www.quantconnect.com)
+1. **[QuantConnect](../q/quantconnect.md)** - An [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to design, test, and deploy [trading algorithms](../t/trading_algorithms.md): [QuantConnect](https://www.quantconnect.com)
 
 2. **Datarobot** - Provides machine learning tools for building and evaluating predictive models: [Datarobot](https://www.datarobot.com)
 

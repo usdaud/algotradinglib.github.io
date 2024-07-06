@@ -60,7 +60,7 @@ HFT operates within a highly regulated financial environment. Regulatory bodies 
 ### 4.1 United States
 
 - **SEC (Securities and Exchange Commission)**: Oversight of securities markets, including HFT activities.
-- **FINRA (Financial Industry Regulatory Authority)**: Monitors trading behavior to detect market manipulation and ensure compliance.
+- **[FINRA](../f/finra.md) (Financial Industry Regulatory Authority)**: Monitors trading behavior to detect market manipulation and ensure compliance.
 
 ### 4.2 Europe
 

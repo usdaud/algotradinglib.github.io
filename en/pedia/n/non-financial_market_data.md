@@ -11,7 +11,7 @@ Non-financial market data encompasses a broad range of data sources that are not
 Social media platforms like Twitter, Facebook, and LinkedIn generate massive amounts of data every day. This data can be analyzed to gauge public sentiment, trends, and potential market-moving events. Firms like Dataminr (https://www.dataminr.com) specialize in providing real-time information from social media that can affect market prices.
 
 ### News Articles and Sentiment Analysis
-News articles and media reports are essential sources of information. Algorithms can be designed to analyze the sentiment of news stories using natural language processing (NLP) techniques to determine whether the news is positive or negative and how it might impact specific stocks or sectors. A company like RavenPack (https://www.ravenpack.com) offers analytics services that process news data for trading purposes.
+News articles and media reports are essential sources of information. Algorithms can be designed to analyze the sentiment of news stories using natural language processing (NLP) techniques to determine whether the news is positive or negative and how it might impact specific stocks or sectors. A company like [RavenPack](../r/ravenpack.md) (https://www.[ravenpack](../r/ravenpack.md).com) offers analytics services that process news data for trading purposes.
 
 ### Weather Data
 Weather conditions can have significant impacts on various industries such as agriculture, energy, and retail. Weather data can be used in [trading strategies](../t/trading_strategies.md) to predict supply chain disruptions, commodity price changes, and more. Companies like The Weather Company, an IBM Business (https://business.weather.com), provide detailed and precise weather data for this purpose.

@@ -51,10 +51,10 @@ Volatility targeting strategies aim to achieve a specific level of portfolio vol
 ## Data Sources and Tools for Analyzing Sector Volatility
 
 ### Financial Market Data Providers
-Reliable and real-time data is crucial for analyzing sector volatility. Providers like Bloomberg, Reuters, and Morningstar offer comprehensive financial data and analytics tools necessary for constructing and testing [algorithmic trading](../a/algorithmic_trading.md) models. Learn more at [Bloomberg](https://www.bloomberg.com/), [Reuters](https://www.reuters.com/), and [Morningstar](https://www.morningstar.com/).
+Reliable and real-time data is crucial for analyzing sector volatility. Providers like [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), and [Morningstar](../m/morningstar.md) offer comprehensive financial data and analytics tools necessary for constructing and testing [algorithmic trading](../a/algorithmic_trading.md) models. Learn more at [Bloomberg](https://www.bloomberg.com/), [Reuters](https://www.reuters.com/), and [Morningstar](https://www.morningstar.com/).
 
 ### Volatility Indexes and Analytics
-Tools and platforms like CBOE's VIX, S&P's sector-specific volatility indexes, and analytical tools from platforms like TradingView and Thinkorswim offer detailed insights into sector volatility. Visit [CBOE](https://www.cboe.com/), [S&P Global](https://www.spglobal.com/), and [TradingView](https://www.tradingview.com/) for more information.
+Tools and platforms like CBOE's VIX, S&P's sector-specific volatility indexes, and analytical tools from platforms like [TradingView](../t/tradingview.md) and [Thinkorswim](../t/thinkorswim.md) offer detailed insights into sector volatility. Visit [CBOE](https://www.cboe.com/), [S&P Global](https://www.spglobal.com/), and [TradingView](https://www.tradingview.com/) for more information.
 
 ### Machine Learning and Statistical Tools
 Machine learning algorithms and statistical tools are invaluable in processing vast amounts of data to identify patterns and predict sector volatility. Software like Python, R, TensorFlow, and PyTorch enable the development of sophisticated models for [volatility analysis](../v/volatility_analysis.md) in [algorithmic trading](../a/algorithmic_trading.md).

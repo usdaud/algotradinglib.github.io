@@ -10,7 +10,7 @@ Market data is the cornerstone of any RTTS. It encompasses various types of data
 
 1. **Real-Time Data Sources**:
     - **Exchange Data Feeds**: These are provided directly by stock exchanges like the New York Stock Exchange (NYSE) and NASDAQ, offering real-time price and volume data.
-    - **Third-Party Providers**: Companies such as Bloomberg and Thomson Reuters supply comprehensive data feeds that integrate information from multiple sources.
+    - **Third-Party Providers**: Companies such as [Bloomberg](../b/bloomberg.md) and Thomson [Reuters](../r/reuters.md) supply comprehensive data feeds that integrate information from multiple sources.
 
 ### Data Processing and Storage
 Handling the massive influx of market data requires robust data processing and storage solutions. These solutions must be able to process incoming data with minimal latency while ensuring data integrity and availability.

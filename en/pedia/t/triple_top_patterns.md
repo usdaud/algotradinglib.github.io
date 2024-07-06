@@ -1,6 +1,6 @@
 # Triple Top Pattern
 
-The **Triple Top** pattern is a chart pattern used in technical analysis to predict the reversal of an upward trend in the price of an asset. The formation of a triple top signals that the asset is struggling to break through a consistent level of resistance and suggests a potential decline in price. This pattern is typically used by traders to identify potential selling opportunities or to signal a bearish market. 
+The **[Triple Top](../t/triple_top.md)** pattern is a chart pattern used in [technical analysis](../t/technical_analysis.md) to predict the reversal of an upward trend in the price of an asset. The formation of a [triple top](../t/triple_top.md) signals that the asset is struggling to break through a consistent level of resistance and suggests a potential decline in price. This pattern is typically used by traders to identify potential selling opportunities or to signal a bearish market. 
 
 ### Components of the Triple Top Pattern
 

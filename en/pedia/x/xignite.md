@@ -1,11 +1,11 @@
-﻿# Xignite
+# Xignite
 
 ## Overview
 Xignite is a leading provider of cloud-based financial market data solutions, offering a wide range of data services that cater to developers, fintech companies, financial institutions, and other businesses. Xignite’s APIs provide easy and affordable access to real-time and historical market data, enabling clients to build and scale their financial applications efficiently.
 
 ## Features
-1. **Real-Time Market Data**: Access to real-time quotes, trades, and market summaries for various asset classes, including stocks, ETFs, options, futures, and forex.
-2. **Historical Data**: Comprehensive historical data for backtesting, research, and analysis, including end-of-day and intraday data.
+1. **[Real-Time Market Data](../r/real-time_market_data.md)**: Access to real-time quotes, trades, and market summaries for various asset classes, including stocks, ETFs, options, futures, and forex.
+2. **Historical Data**: Comprehensive historical data for [backtesting](../b/backtesting.md), research, and analysis, including end-of-day and intraday data.
 3. **Reference Data**: Detailed reference data, including security identifiers, corporate actions, and fundamental data.
 4. **Market News**: Real-time financial news and market-moving events.
 5. **Global Coverage**: Data from major global exchanges and markets.
@@ -38,8 +38,8 @@ Xignite offers extensive support through detailed documentation, user guides, tu
 ## Use Cases
 - **Fintech Companies**: Utilized by fintech companies to power financial applications, trading platforms, and investment tools.
 - **Developers**: Supports developers in building and scaling financial applications using robust APIs and data feeds.
-- **Financial Institutions**: Provides financial institutions with reliable market data and reference data for trading, risk management, and compliance.
+- **Financial Institutions**: Provides financial institutions with reliable market data and reference data for trading, [risk management](../r/risk_management.md), and compliance.
 - **Individual Investors**: Assists individual investors in making informed decisions with access to real-time data and market news.
-- **Quantitative Analysts**: Enables quants to develop and backtest trading models using comprehensive historical data.
+- **Quantitative Analysts**: Enables quants to develop and backtest [trading models](../t/trading_models.md) using comprehensive historical data.
 
 Xignite’s robust features, high-quality data, and developer-friendly APIs make it an ideal choice for fintech companies, developers, and financial institutions seeking reliable and scalable financial data solutions.

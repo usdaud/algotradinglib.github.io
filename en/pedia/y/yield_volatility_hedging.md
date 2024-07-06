@@ -1,6 +1,6 @@
 # Yield Volatility
 
-Yield volatility hedging is a critical concept within the realm of algorithmic trading (often abbreviated as "algotrading") that directly addresses the fluctuations in the yield of investments. Yield volatility reflects the variation in the investment returns over a specific period. The primary aim of yield volatility hedging is to minimize the risk associated with these fluctuations, thereby ensuring more stable returns or, in broader terms, reducing the uncertainty in the performance of the portfolio.
+[Yield volatility](../y/yield_volatility.md) hedging is a critical concept within the realm of [algorithmic trading](../a/algorithmic_trading.md) (often abbreviated as "algotrading") that directly addresses the fluctuations in the yield of investments. [Yield volatility](../y/yield_volatility.md) reflects the variation in the investment returns over a specific period. The primary aim of [yield volatility](../y/yield_volatility.md) hedging is to minimize the risk associated with these fluctuations, thereby ensuring more stable returns or, in broader terms, reducing the uncertainty in the performance of the portfolio.
 
 ### Yield Volatility
 
@@ -69,7 +69,7 @@ Several firms specialize in providing solutions for [yield volatility](../y/yiel
 
 1. **BlackRock**: One of the largest asset management firms globally, BlackRock offers a range of [risk management](../r/risk_management.md) and hedging solutions through its Aladdin platform. More information can be found at [BlackRock's official website](https://www.blackrock.com).
 2. **Goldman Sachs**: A leading global investment bank, Goldman Sachs provides sophisticated [hedging strategies](../h/hedging_strategies.md) and financial instruments tailored to manage [yield volatility](../y/yield_volatility.md). More details can be found at [Goldman Sachs' official website](https://www.goldmansachs.com).
-3. **Bloomberg**: Bloomberg offers a comprehensive suite of financial tools and analytics, including solutions for [yield volatility](../y/yield_volatility.md) hedging, through its Bloomberg Terminal. Visit [Bloomberg's official website](https://www.bloomberg.com) for more information.
+3. **[Bloomberg](../b/bloomberg.md)**: [Bloomberg](../b/bloomberg.md) offers a comprehensive suite of financial tools and analytics, including solutions for [yield volatility](../y/yield_volatility.md) hedging, through its [Bloomberg](../b/bloomberg.md) Terminal. Visit [Bloomberg's official website](https://www.bloomberg.com) for more information.
 4. **J.P. Morgan**: J.P. Morgan provides a range of [risk management](../r/risk_management.md) and hedging services, combining market expertise with advanced technology to help clients manage [yield volatility](../y/yield_volatility.md). Further information is available on [J.P. Morgan's official website](https://www.jpmorgan.com).
 
 ### Conclusion

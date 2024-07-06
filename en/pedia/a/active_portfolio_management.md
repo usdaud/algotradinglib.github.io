@@ -46,7 +46,7 @@ Stock picking involves selecting stocks that are expected to perform better than
 [Technical indicators](../t/technical_indicators.md) such as Moving Averages, MACD (Moving Average Convergence Divergence), and RSI (Relative Strength Index) help managers in making decisions based on historical price and volume data.
 
 ### Software and Platforms
-Several specialized platforms and software assist active managers in data analysis, [backtesting](../b/backtesting.md), and execution of trades. Some popular ones include Bloomberg Terminal, Thomson Reuters Eikon, and advanced [proprietary trading](../p/proprietary_trading.md) software.
+Several specialized platforms and software assist active managers in data analysis, [backtesting](../b/backtesting.md), and execution of trades. Some popular ones include [Bloomberg](../b/bloomberg.md) Terminal, Thomson [Reuters](../r/reuters.md) Eikon, and advanced [proprietary trading](../p/proprietary_trading.md) software.
 
 ## Performance Evaluation
 

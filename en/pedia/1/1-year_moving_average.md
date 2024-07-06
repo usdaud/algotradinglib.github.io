@@ -47,9 +47,9 @@ This formula provides a simplified representation of the 1Y MA. Each day, a new 
 Numerous financial platforms and software tools incorporate the 1Y MA for analysis and [algorithmic trading](../a/algorithmic_trading.md). Some notable mentions include:
 
 1. **MetaTrader 4 and 5 (MT4/MT5):** Widely used trading platforms that offer various [technical indicators](../t/technical_indicators.md), including the 1Y MA. They provide tools for [backtesting](../b/backtesting.md) and implementing automated [trading strategies](../t/trading_strategies.md).
-2. **Bloomberg Terminal:** A comprehensive platform used by financial professionals for market analysis and trading. Bloomberg provides extensive support for moving averages and other [technical indicators](../t/technical_indicators.md).
-3. **TradingView:** An online charting platform that allows users to apply the 1Y MA and other indicators to a wide range of securities.
-4. **QuantConnect:** An [algorithmic trading](../a/algorithmic_trading.md) platform that enables users to create, test, and deploy [trading strategies](../t/trading_strategies.md) using the 1Y MA and other [technical indicators](../t/technical_indicators.md).
+2. **[Bloomberg](../b/bloomberg.md) Terminal:** A comprehensive platform used by financial professionals for market analysis and trading. [Bloomberg](../b/bloomberg.md) provides extensive support for moving averages and other [technical indicators](../t/technical_indicators.md).
+3. **[TradingView](../t/tradingview.md):** An online charting platform that allows users to apply the 1Y MA and other indicators to a wide range of securities.
+4. **[QuantConnect](../q/quantconnect.md):** An [algorithmic trading](../a/algorithmic_trading.md) platform that enables users to create, test, and deploy [trading strategies](../t/trading_strategies.md) using the 1Y MA and other [technical indicators](../t/technical_indicators.md).
 
 ## Real-World Example: Apple Inc. (AAPL)
 

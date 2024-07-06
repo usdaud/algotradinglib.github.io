@@ -60,7 +60,7 @@ HFT requires state-of-the-art technology, including powerful servers, high-speed
 3. **Combining Analyses**: Some traders combine [fundamental analysis](../f/fundamental_analysis.md) with [technical indicators](../t/technical_indicators.md) to make more informed decisions.
 
 ### Tools
-Swing traders use charting software with comprehensive tools for [technical analysis](../t/technical_analysis.md). Platforms like TradingView are popular among swing traders for their robust charting capabilities and community support.
+Swing traders use charting software with comprehensive tools for [technical analysis](../t/technical_analysis.md). Platforms like [TradingView](../t/tradingview.md) are popular among swing traders for their robust charting capabilities and community support.
 
 ## News-Based Trading
 
@@ -73,7 +73,7 @@ News-based trading, also known as [event-driven trading](../e/event-driven_tradi
 3. **Volatility Exploitation**: The technique aims to exploit the initial surge in volatility following major news announcements.
 
 ### Tools
-Platforms such as Bloomberg Terminal and Reuters Eikon provide comprehensive news feeds and economic data, enabling traders to stay ahead of the curve.
+Platforms such as [Bloomberg](../b/bloomberg.md) Terminal and [Reuters](../r/reuters.md) Eikon provide comprehensive news feeds and economic data, enabling traders to stay ahead of the curve.
 
 ## Momentum Trading
 
@@ -108,8 +108,8 @@ Traders utilize platforms capable of high-speed order execution and advanced cha
 
 ### Popular Platforms
 1. **MetaTrader**: Widely used for forex and CFD trading.
-2. **NinjaTrader**: Popular among futures and forex traders.
-3. **QuantConnect**: An open-source platform for strategy development and live trading.
+2. **[NinjaTrader](../n/ninjatrader.md)**: Popular among futures and forex traders.
+3. **[QuantConnect](../q/quantconnect.md)**: An open-source platform for strategy development and live trading.
 
 ### Features
 1. **[Backtesting](../b/backtesting.md)**: Allows traders to test their strategies against historical data.

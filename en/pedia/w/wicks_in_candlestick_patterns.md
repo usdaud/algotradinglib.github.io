@@ -90,7 +90,7 @@ Several advanced trading platforms offer tools for analyzing [candlestick patter
 
 **Examples:**
 
-- **TradingView**: A widely-used platform that offers extensive charting tools, including automated [candlestick pattern recognition](../c/candlestick_pattern_recognition.md). [TradingView](https://www.tradingview.com/)
+- **[TradingView](../t/tradingview.md)**: A widely-used platform that offers extensive charting tools, including automated [candlestick pattern recognition](../c/candlestick_pattern_recognition.md). [TradingView](https://www.tradingview.com/)
 - **MetaTrader 4/5**: Popular among Forex traders, this platform provides custom indicators and scripts to help analyze [candlestick patterns](../c/candlestick_patterns.md). [MetaTrader](https://www.metatrader4.com/en)
 
 ### Conclusion

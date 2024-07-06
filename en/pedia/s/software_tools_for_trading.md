@@ -13,19 +13,19 @@ MetaTrader is one of the most popular platforms for retail traders. MT4 and MT5 
 [MetaTrader 5](https://www.metatrader5.com)
 
 ### NinjaTrader
-NinjaTrader is another powerful platform designed for active traders interested in futures, forex, and equities markets. It allows for the creation of automated [trading strategies](../t/trading_strategies.md) through its C#-based programming environment.
+[NinjaTrader](../n/ninjatrader.md) is another powerful platform designed for active traders interested in futures, forex, and equities markets. It allows for the creation of automated [trading strategies](../t/trading_strategies.md) through its C#-based programming environment.
 
 [NinjaTrader](https://ninjatrader.com)
 
 ### TradeStation
-TradeStation provides advanced analytical tools, [backtesting](../b/backtesting.md) capabilities, and a powerful scripting language known as EasyLanguage for developing automated [trading strategies](../t/trading_strategies.md).
+[TradeStation](../t/tradestation.md) provides advanced analytical tools, [backtesting](../b/backtesting.md) capabilities, and a powerful scripting language known as EasyLanguage for developing automated [trading strategies](../t/trading_strategies.md).
 
 [TradeStation](https://www.tradestation.com)
 
 ## 2. Data Analysis and Backtesting Tools
 
 ### QuantConnect
-QuantConnect is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that offers data, [backtesting](../b/backtesting.md) capabilities, and live trading functionalities. It supports multiple programming languages, including Python and C#, and provides a vast array of data sources for historical testing.
+[QuantConnect](../q/quantconnect.md) is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that offers data, [backtesting](../b/backtesting.md) capabilities, and live trading functionalities. It supports multiple programming languages, including Python and C#, and provides a vast array of data sources for historical testing.
 
 [QuantConnect](https://www.quantconnect.com)
 
@@ -35,14 +35,14 @@ Developed by Quantopian, Zipline is an open-source Pythonic [algorithmic trading
 [Zipline GitHub Repository](https://github.com/quantopian/zipline)
 
 ### Backtrader
-Backtrader is another Python library for [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md). It supports visualizing trades, creating custom indicators, and running simulations with real market data.
+[Backtrader](../b/backtrader.md) is another Python library for [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md). It supports visualizing trades, creating custom indicators, and running simulations with real market data.
 
 [Backtrader](https://www.backtrader.com)
 
 ## 3. Market Data Providers
 
 ### Quandl
-Quandl offers financial, economic, and [alternative data](../a/alternative_data.md) to traders and analysts. It provides both free and premium datasets, which can be accessed via API.
+[Quandl](../q/quandl.md) offers financial, economic, and [alternative data](../a/alternative_data.md) to traders and analysts. It provides both free and premium datasets, which can be accessed via API.
 
 [Quandl](https://www.quandl.com)
 
@@ -127,7 +127,7 @@ Keras is an open-source software library that provides a Python interface for [a
 ## 8. Risk Management Tools
 
 ### QuantLib
-QuantLib is an open-source library for [quantitative finance](../q/quantitative_finance.md) that offers a wide range of mathematical and statistical tools. It is primarily geared towards pricing [derivatives](../d/derivatives.md) and managing risk.
+[QuantLib](../q/quantlib.md) is an open-source library for [quantitative finance](../q/quantitative_finance.md) that offers a wide range of mathematical and statistical tools. It is primarily geared towards pricing [derivatives](../d/derivatives.md) and managing risk.
 
 [QuantLib](https://www.quantlib.org)
 

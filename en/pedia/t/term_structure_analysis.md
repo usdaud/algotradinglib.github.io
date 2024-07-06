@@ -56,7 +56,7 @@ BlackRock, a global investment management corporation, employs advanced term str
 [BlackRock Fixed Income](https://www.blackrock.com/us/individual/investment-ideas/fixed-income)
 
 ### 2. Morningstar
-Morningstar, a leading provider of independent investment research, uses term structure analysis to evaluate and rate various bond funds and fixed-income securities. Their insights are invaluable for investors looking to make informed decisions about bond investments.
+[Morningstar](../m/morningstar.md), a leading provider of independent investment research, uses term structure analysis to evaluate and rate various bond funds and fixed-income securities. Their insights are invaluable for investors looking to make informed decisions about bond investments.
 [Morningstar Fixed Income Research](https://www.morningstar.com/lp/fixed-income-solutions)
 
 ### 3. Pacific Investment Management Company (PIMCO)

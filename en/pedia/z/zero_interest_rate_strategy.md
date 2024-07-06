@@ -60,7 +60,7 @@ The European Central Bank also implemented ZIRP in response to the financial cri
 
 ### QuantConnect
 
-QuantConnect provides a platform for [algorithmic trading](../a/algorithmic_trading.md) and supports the development of financial strategies that can adapt to different interest rate environments, including ZIRP. Users can backtest their strategies against historical data to understand potential outcomes under low-interest-rate conditions. For more information, visit [QuantConnect](https://www.quantconnect.com/).
+[QuantConnect](../q/quantconnect.md) provides a platform for [algorithmic trading](../a/algorithmic_trading.md) and supports the development of financial strategies that can adapt to different interest rate environments, including ZIRP. Users can backtest their strategies against historical data to understand potential outcomes under low-interest-rate conditions. For more information, visit [QuantConnect](https://www.quantconnect.com/).
 
 ### Interactive Brokers
 

@@ -50,10 +50,10 @@ Tactical [asset allocation](../a/asset_allocation.md) (TAA) is a flexible invest
 ### Tools and Platforms for Market Rotation
 
 #### Bloomberg Terminal
-The Bloomberg Terminal offers comprehensive data, analytics, and news feeds, essential for implementing market rotation strategies. ([Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/))
+The [Bloomberg](../b/bloomberg.md) Terminal offers comprehensive data, analytics, and news feeds, essential for implementing market rotation strategies. ([Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/))
 
 #### FactSet
-FactSet provides sophisticated tools for [data integration](../d/data_integration.md), analysis, and [portfolio management](../p/portfolio_management.md), crucial for market rotation strategies. ([FactSet](https://www.factset.com/))
+[FactSet](../f/factset.md) provides sophisticated tools for [data integration](../d/data_integration.md), analysis, and [portfolio management](../p/portfolio_management.md), crucial for market rotation strategies. ([FactSet](https://www.factset.com/))
 
 #### Eikon by Refinitiv
 Refinitiv's Eikon platform offers real-time data, financial analysis, and news geared towards helping investors make informed [sector rotation](../s/sector_rotation.md) decisions. ([Refinitiv Eikon](https://www.refinitiv.com/en/products/eikon-trading-software))

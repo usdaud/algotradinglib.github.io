@@ -78,13 +78,13 @@ In [algorithmic trading](../a/algorithmic_trading.md) (or algo trading), traders
 
 #### Tools and Resources for Melt-Up Market Analysis
 
-1. **Trading Platforms**: Modern trading platforms like MetaTrader, NinjaTrader, and Thinkorswim offer a range of tools for market analysis and execution of algo [trading strategies](../t/trading_strategies.md).
+1. **Trading Platforms**: Modern trading platforms like MetaTrader, [NinjaTrader](../n/ninjatrader.md), and [Thinkorswim](../t/thinkorswim.md) offer a range of tools for market analysis and execution of algo [trading strategies](../t/trading_strategies.md).
 
-2. **Financial News and Data Services**: Bloomberg, Reuters, and various financial news platforms provide timely data and insights.
+2. **Financial News and Data Services**: [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), and various financial news platforms provide timely data and insights.
 
 3. **[Social Media Analytics](../s/social_media_analytics.md)**: Tools like StockTwits, Sentifi, and others that track sentiment on social media can be useful.
   
-4. **[Technical Analysis](../t/technical_analysis.md) Software**: Tools such as TradingView, MetaStock, and Amibroker facilitate [technical analysis](../t/technical_analysis.md) for melt-up detection.
+4. **[Technical Analysis](../t/technical_analysis.md) Software**: Tools such as [TradingView](../t/tradingview.md), MetaStock, and [Amibroker](../a/amibroker.md) facilitate [technical analysis](../t/technical_analysis.md) for melt-up detection.
 
 5. **Custom Algorithm Development**: For specialized [trading strategies](../t/trading_strategies.md), developing custom algorithms using languages like Python, R, and MATLAB can be beneficial.
 

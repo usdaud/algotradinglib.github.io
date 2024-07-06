@@ -60,7 +60,7 @@ The back-end comprises the data storage and management systems. It stores histor
 
 ### Bloomberg OMS
 
-Bloomberg offers an extensive OMS solution known as Bloomberg AIM. It is designed for buy-side institutions and integrates with Bloomberg's renowned data and analytics services. This OMS supports [multi-asset trading](../m/multi-asset_trading.md) and provides extensive compliance and [risk management](../r/risk_management.md) features.
+[Bloomberg](../b/bloomberg.md) offers an extensive OMS solution known as [Bloomberg](../b/bloomberg.md) AIM. It is designed for buy-side institutions and integrates with [Bloomberg](../b/bloomberg.md)'s renowned data and analytics services. This OMS supports [multi-asset trading](../m/multi-asset_trading.md) and provides extensive compliance and [risk management](../r/risk_management.md) features.
 
 [Learn more about Bloomberg AIM](https://www.bloomberg.com/professional/product/aim/)
 

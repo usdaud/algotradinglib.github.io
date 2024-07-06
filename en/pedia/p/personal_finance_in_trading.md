@@ -81,7 +81,7 @@ Financial software can help you track your personal finances and manage your bud
 Continuing education is crucial for staying updated with market trends and improving your trading skills. Some valuable educational resources include:
 - Online courses (e.g., Coursera, Udemy)
 - Trading books and journals
-- Financial news websites (e.g., Bloomberg, Reuters)
+- Financial news websites (e.g., [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md))
 
 ## Psychological Aspects of Trading and Personal Finance
 

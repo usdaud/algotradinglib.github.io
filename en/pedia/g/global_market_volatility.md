@@ -98,7 +98,7 @@ CBOE Global Markets (https://www.cboe.com) is the creator of the VIX Index and o
 
 ### 5. Bloomberg
 
-Bloomberg (https://www.bloomberg.com) provides comprehensive data, news, and analysis on global market volatility.
+[Bloomberg](../b/bloomberg.md) (https://www.[bloomberg](../b/bloomberg.md).com) provides comprehensive data, news, and analysis on global market volatility.
 
 ## Conclusion
 

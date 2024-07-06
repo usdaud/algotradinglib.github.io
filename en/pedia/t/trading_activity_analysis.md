@@ -51,19 +51,19 @@ Several tools and platforms facilitate Trading Activity Analysis through advance
 
 ### Bloomberg Terminal
 
-The Bloomberg Terminal is a sophisticated tool offering real-time data, analytics, and news. It allows for in-depth trading activity analysis with features like volume breakdowns, [trend analysis](../t/trend_analysis.md), and sentiment tracking.
+The [Bloomberg](../b/bloomberg.md) Terminal is a sophisticated tool offering real-time data, analytics, and news. It allows for in-depth trading activity analysis with features like volume breakdowns, [trend analysis](../t/trend_analysis.md), and sentiment tracking.
 
 [Visit Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
 ### Thomson Reuters Eikon
 
-Thomson Reuters Eikon provides robust data analytics, trading tools, and research capabilities. It helps users to analyze market trends, volumes, and volatile movements.
+Thomson [Reuters](../r/reuters.md) Eikon provides robust data analytics, trading tools, and research capabilities. It helps users to analyze market trends, volumes, and volatile movements.
 
 [Visit Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)
 
 ### TradingView
 
-TradingView is a popular charting platform that offers a wide array of tools for [technical analysis](../t/technical_analysis.md), including volume, price trends, and volatility indicators. It’s user-friendly with a strong community of traders sharing insights.
+[TradingView](../t/tradingview.md) is a popular charting platform that offers a wide array of tools for [technical analysis](../t/technical_analysis.md), including volume, price trends, and volatility indicators. It’s user-friendly with a strong community of traders sharing insights.
 
 [Visit TradingView](https://www.tradingview.com/)
 
@@ -76,7 +76,7 @@ MetaTrader platforms are widely used in forex and CFD trading. They offer built-
 
 ### QuantConnect
 
-QuantConnect is an open-source [algorithmic trading](../a/algorithmic_trading.md) platform that provides data and research tools necessary for trading activity analysis. It supports multiple asset classes and algorithms written in Python and C#.
+[QuantConnect](../q/quantconnect.md) is an open-source [algorithmic trading](../a/algorithmic_trading.md) platform that provides data and research tools necessary for trading activity analysis. It supports multiple asset classes and algorithms written in Python and C#.
 
 [Visit QuantConnect](https://www.quantconnect.com/)
 

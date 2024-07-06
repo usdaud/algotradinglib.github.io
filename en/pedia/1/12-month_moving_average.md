@@ -60,13 +60,13 @@ The RSI measures the speed and change of price movements and is used to identify
 Several financial software and online platforms offer tools for calculating and analyzing the 12-Month Moving Average. Some popular options include:
 
 ### Bloomberg Terminal
-The Bloomberg Terminal provides advanced tools for financial analysis, including the ability to create customized charts with various moving averages. It is widely used by professional traders, analysts, and investors. [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+The [Bloomberg](../b/bloomberg.md) Terminal provides advanced tools for financial analysis, including the ability to create customized charts with various moving averages. It is widely used by professional traders, analysts, and investors. [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
 ### MetaTrader 4 (MT4)
 MetaTrader 4 is a popular trading platform that offers various [technical analysis](../t/technical_analysis.md) tools, including moving averages. It is commonly used by forex and commodity traders. [MetaTrader 4](https://www.metatrader4.com/)
 
 ### TradingView
-TradingView is an online charting platform that offers a wide range of [technical analysis](../t/technical_analysis.md) tools, including the 12-Month Moving Average. It is popular among retail traders and investors. [TradingView](https://www.tradingview.com/)
+[TradingView](../t/tradingview.md) is an online charting platform that offers a wide range of [technical analysis](../t/technical_analysis.md) tools, including the 12-Month Moving Average. It is popular among retail traders and investors. [TradingView](https://www.tradingview.com/)
 
 ## Historical Context and Development
 The concept of moving averages dates back to the early 20th century when they were first used in the analysis of time-series data. However, the application of moving averages in financial markets gained prominence in the latter half of the century. The development of computer technology and sophisticated financial software has since made it easier to calculate and analyze moving averages, including the 12-Month Moving Average.

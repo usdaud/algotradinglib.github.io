@@ -46,7 +46,7 @@ In derivative markets, yield curves play a pivotal role. Prices for [interest ra
 ## Major Market Players
 
 ### Bloomberg [Bloomberg Website](https://www.bloomberg.com)
-Bloomberg offers real-time yield curve data which is critical for traders and financial analysts. Their Bloomberg Terminal provides advanced analytical tools to model and predict changes in yield curves.
+[Bloomberg](../b/bloomberg.md) offers real-time yield curve data which is critical for traders and financial analysts. Their [Bloomberg](../b/bloomberg.md) Terminal provides advanced analytical tools to model and predict changes in yield curves.
 
 ### CME Group [CME Group Website](https://www.cmegroup.com)
 CME Group is a global markets company that provides yield curve-related futures and options. They offer products based on various government bonds which traders can use to hedge or speculate on changes in the yield curve.

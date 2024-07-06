@@ -92,7 +92,7 @@ df['VWAP'] = VWAP
 
 Several platforms support the use of VWIs in automated [trading strategies](../t/trading_strategies.md):
 
-- **QuantConnect**: Offers a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform, supports volume-weighted indicators. [Visit QuantConnect](https://www.quantconnect.com/)
+- **[QuantConnect](../q/quantconnect.md)**: Offers a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform, supports volume-weighted indicators. [Visit QuantConnect](https://www.quantconnect.com/)
 - **Algorithmia**: Facilitates integration of multiple [technical indicators](../t/technical_indicators.md) into [trading algorithms](../t/trading_algorithms.md). [Visit Algorithmia](https://algorithmia.com/)
 - **MetaTrader 5**: Widely used trading platform providing customizable volume-weighted indicators. [Visit MetaTrader](https://www.metatrader5.com/)
 

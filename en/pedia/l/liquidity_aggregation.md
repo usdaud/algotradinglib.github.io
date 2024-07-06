@@ -64,7 +64,7 @@ Several technology providers and financial firms offer liquidity aggregation sol
    - [XTX Markets](https://www.xtxmarkets.com/)
 3. **SmartTrade Technologies**: Provides a sophisticated liquidity aggregation and smart [order routing](../o/order_routing.md) platform for banks and trading firms.
    - [SmartTrade Technologies](https://www.smart-trade.net/)
-4. **Thomson Reuters** (Refinitiv): Offers the FXall platform, which aggregates liquidity from over 200 liquidity providers for foreign exchange trading.
+4. **Thomson [Reuters](../r/reuters.md)** (Refinitiv): Offers the FXall platform, which aggregates liquidity from over 200 liquidity providers for foreign exchange trading.
    - [Refinitiv FXall](https://www.refinitiv.com/en/products/fxall-foreign-exchange-trading)
 
 ## Conclusion

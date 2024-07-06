@@ -57,7 +57,7 @@ Artificial Intelligence (AI) and Machine Learning (ML) models are increasingly b
 ### Analytical Platforms
 
 Several platforms provide comprehensive post-trade analysis services. For example:
-- **Bloomberg**: Known for its robust analytics and financial data services. More details can be found on their official site [Bloomberg](https://www.bloomberg.com/professional/solution/trading-solutions/).
+- **[Bloomberg](../b/bloomberg.md)**: Known for its robust analytics and financial data services. More details can be found on their official site [Bloomberg](https://www.bloomberg.com/professional/solution/trading-solutions/).
 - **TS Imagine (formerly TradingScreen)**: A leading provider of SaaS-based trading platform that offers sophisticated post-trade analysis tools. More information is available [here](https://tsimagine.com/).
 
 ## Challenges in Post-Trade Analysis

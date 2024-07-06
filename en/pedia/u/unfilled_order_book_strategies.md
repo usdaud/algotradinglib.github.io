@@ -92,7 +92,7 @@ Several companies specialize in providing the tools and platforms required to im
 
 - **Citadel Securities**: A leading market maker and trading firm which uses advanced algorithms to optimize order execution. [Link](https://www.citadelsecurities.com)
 - **Virtu Financial**: Known for its high-frequency [trading strategies](../t/trading_strategies.md) that leverage order book data. [Link](https://www.virtu.com)
-- **QuantConnect**: An open-source platform that provides tools for developing and [backtesting](../b/backtesting.md) [algorithmic trading](../a/algorithmic_trading.md) strategies. [Link](https://www.quantconnect.com)
+- **[QuantConnect](../q/quantconnect.md)**: An open-source platform that provides tools for developing and [backtesting](../b/backtesting.md) [algorithmic trading](../a/algorithmic_trading.md) strategies. [Link](https://www.quantconnect.com)
 
 ## Conclusion
 

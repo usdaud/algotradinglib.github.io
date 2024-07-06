@@ -33,13 +33,13 @@ where \(\text{Cov}(X, Y)\) is the covariance between the sectors, and \(\sigma_X
 
 Several tools and software packages can assist in calculating and visualizing sector correlations:
 
-**1. QuantConnect**
+**1. [QuantConnect](../q/quantconnect.md)**
    - [QuantConnect](https://www.quantconnect.com/) offers a powerful [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools for [backtesting](../b/backtesting.md) and live trading, including sector [correlation analysis](../c/correlation_analysis.md). It supports multiple programming languages like Python and C# for custom strategy development.
 
 **2. AlphaVantage**
    - [AlphaVantage](https://www.alphavantage.co/) offers a wide range of financial data APIs, including those for market data and sector performances which can be employed to compute sector correlations.
 
-**3. Bloomberg Terminal**
+**3. [Bloomberg](../b/bloomberg.md) Terminal**
    - [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/) provides comprehensive financial analytics and insights, including advanced tools for analyzing sector correlations and other market metrics.
 
 **4. Python Libraries**
@@ -50,7 +50,7 @@ Several tools and software packages can assist in calculating and visualizing se
 In practice, the application of sector correlation involves several steps:
 
 **1. Data Collection:**
-   - Collect historical price or returns data for different sectors. This can be sourced from financial APIs, trading platforms, or market data providers like Bloomberg or QuantConnect.
+   - Collect historical price or returns data for different sectors. This can be sourced from financial APIs, trading platforms, or market data providers like [Bloomberg](../b/bloomberg.md) or [QuantConnect](../q/quantconnect.md).
 
 **2. Calculation:**
    - Compute the correlation matrix using tools such as Python libraries. This involves calculating pairwise correlations between the returns of different sectors.
@@ -121,10 +121,10 @@ plt.show()
 **1. **Kensho**:
    - [Kensho](https://www.spglobal.com/marketintelligence/en/campaigns/kensho) provides advanced analytics and machine learning tools for financial data analysis, including sector [correlation analysis](../c/correlation_analysis.md).
 
-**2. **FactSet**:
+**2. **[FactSet](../f/factset.md)**:
    - [FactSet](https://www.factset.com/) offers data and analytical tools that help in analyzing sector correlations, making them useful for asset managers and traders.
 
-**3. **Morningstar Direct**:
+**3. **[Morningstar](../m/morningstar.md) Direct**:
    - [Morningstar Direct](https://www.morningstar.com/products/direct) provides comprehensive financial data and analytics, including tools for understanding sector correlations and their implications on investment strategies.
 
 ## Conclusion

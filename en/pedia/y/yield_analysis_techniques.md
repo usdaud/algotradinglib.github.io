@@ -16,9 +16,9 @@
   - Overfitting to historical data can lead to misleading conclusions.
 
 - **Key Tools**:
-  - MetaTrader (https://www.metatrader4.com/)
-  - QuantConnect (https://www.quantconnect.com/)
-  - TradeStation (https://www.tradestation.com/)
+  - MetaTrader (https://www.[metatrader4](../m/metatrader4.md).com/)
+  - [QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/)
+  - [TradeStation](../t/tradestation.md) (https://www.[tradestation](../t/tradestation.md).com/)
 
 ## 2. Forward Testing (Paper Trading)
 
@@ -34,9 +34,9 @@ Forward testing or paper trading involves testing [trading strategies](../t/trad
   - Emotional factors affecting real trades are not considered.
 
 - **Platforms**:
-  - Thinkorswim (https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
+  - [Thinkorswim](../t/thinkorswim.md) (https://www.tdameritrade.com/tools-and-platforms/[thinkorswim](../t/thinkorswim.md).page)
   - Interactive Brokers (https://www.interactivebrokers.com/)
-  - NinjaTrader (https://ninjatrader.com/)
+  - [NinjaTrader](../n/ninjatrader.md) (https://[ninjatrader](../n/ninjatrader.md).com/)
 
 ## 3. Monte Carlo Simulations
 
@@ -70,7 +70,7 @@ Stress testing evaluates the robustness of [trading strategies](../t/trading_str
   - Requires considerable computational resources.
 
 - **Platforms**:
-  - Bloomberg Terminal (https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+  - [Bloomberg](../b/bloomberg.md) Terminal (https://www.[bloomberg](../b/bloomberg.md).com/professional/solution/[bloomberg](../b/bloomberg.md)-terminal/)
   - RiskMetrics by MSCI (https://www.msci.com/what-is-riskmetrics)
   - [Quantitative Risk Management](../q/quantitative_risk_management.md) (QRM) applications.
 
@@ -170,8 +170,8 @@ Scenario analysis involves constructing hypothetical scenarios to explore the pe
   - The attribution methodology may vary, leading to inconsistent results.
 
 - **Tools**:
-  - Morningstar Direct (https://www.morningstar.com/products/direct)
-  - FactSet (https://www.factset.com/)
+  - [Morningstar](../m/morningstar.md) Direct (https://www.[morningstar](../m/morningstar.md).com/products/direct)
+  - [FactSet](../f/factset.md) (https://www.[factset](../f/factset.md).com/)
   - Python’s Pandas and NumPy libraries for custom attribution analysis.
 
 ## 10. Sensitivity Analysis

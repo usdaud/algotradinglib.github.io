@@ -124,7 +124,7 @@ Several financial institutions and investment platforms employ RSR in their [tra
 
 2. **Portfolio123:** This investment platform allows users to create custom stock screening and ranking systems based on relative strength indicators among other fundamental and technical metrics. Learn more on their [website](https://www.portfolio123.com).
 
-3. **AlgoTrader:** This [algorithmic trading](../a/algorithmic_trading.md) platform provides tools for implementing momentum strategies that include relative strength ranking. More details are available on their [website](https://www.algotrader.com).
+3. **[AlgoTrader](../a/algotrader.md):** This [algorithmic trading](../a/algorithmic_trading.md) platform provides tools for implementing momentum strategies that include relative strength ranking. More details are available on their [website](https://www.algotrader.com).
 
 ## Conclusion
 

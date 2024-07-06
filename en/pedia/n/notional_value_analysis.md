@@ -54,11 +54,11 @@ Regulators closely monitor the notional value of [derivatives](../d/derivatives.
 
 ### Bloomberg
 
-Bloomberg provides comprehensive analytics and data on notional values across various financial instruments through its terminal. Traders and analysts can access detailed reports and real-time data to make informed decisions. [Visit Bloomberg](https://www.bloomberg.com/)
+[Bloomberg](../b/bloomberg.md) provides comprehensive analytics and data on notional values across various financial instruments through its terminal. Traders and analysts can access detailed reports and real-time data to make informed decisions. [Visit Bloomberg](https://www.bloomberg.com/)
 
 ### Refinitiv
 
-Refinitiv, formerly known as Thomson Reuters Financial and Risk, offers extensive tools for analyzing notional values in [derivatives](../d/derivatives.md) trading. The platform provides market data, analytics, and trading solutions that cater to institutional clients. [Visit Refinitiv](https://www.refinitiv.com/)
+Refinitiv, formerly known as Thomson [Reuters](../r/reuters.md) Financial and Risk, offers extensive tools for analyzing notional values in [derivatives](../d/derivatives.md) trading. The platform provides market data, analytics, and trading solutions that cater to institutional clients. [Visit Refinitiv](https://www.refinitiv.com/)
 
 ### CME Group
 

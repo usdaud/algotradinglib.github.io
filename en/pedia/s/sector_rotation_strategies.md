@@ -55,19 +55,19 @@ There are different models and approaches to [sector rotation](../s/sector_rotat
 ## Tools and Platforms for Sector Rotation
 Various investment platforms and tools assist in implementing [sector rotation](../s/sector_rotation.md) strategies:
 
-- **Bloomberg Terminal**: Provides comprehensive economic data, sector [performance metrics](../p/performance_metrics.md), and financial analysis tools.
+- **[Bloomberg](../b/bloomberg.md) Terminal**: Provides comprehensive economic data, sector [performance metrics](../p/performance_metrics.md), and financial analysis tools.
   [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
-- **FactSet**: Offers in-depth research data, analytics, and modeling capabilities.
+- **[FactSet](../f/factset.md)**: Offers in-depth research data, analytics, and modeling capabilities.
   [FactSet](https://www.factset.com/)
 
-- **Morningstar Direct**: Provides extensive investment research and performance data.
+- **[Morningstar](../m/morningstar.md) Direct**: Provides extensive investment research and performance data.
   [Morningstar](https://www.morningstar.com/products/direct)
 
 - **Portfolio123**: A web-based platform offering systematic investment tools including [sector rotation](../s/sector_rotation.md) models.
   [Portfolio123](https://www.portfolio123.com/)
 
-- **QuantConnect**: An [algorithmic trading](../a/algorithmic_trading.md) platform allowing users to backtest and deploy [sector rotation](../s/sector_rotation.md) strategies.
+- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform allowing users to backtest and deploy [sector rotation](../s/sector_rotation.md) strategies.
   [QuantConnect](https://www.quantconnect.com/)
 
 ## Advantages and Risks

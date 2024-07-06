@@ -33,17 +33,17 @@ MetaTrader 4 (MT4) and MetaTrader 5 (MT5) are among the most well-known trading 
 *Website:* [MetaTrader](https://www.metatrader4.com/)
 
 ### 2. **TradingView**
-TradingView is a popular cloud-based charting and social networking software for traders. It offers extensive charting tools, a wide range of [technical indicators](../t/technical_indicators.md), and the ability to share and discuss trading ideas with a large community.
+[TradingView](../t/tradingview.md) is a popular cloud-based charting and social networking software for traders. It offers extensive charting tools, a wide range of [technical indicators](../t/technical_indicators.md), and the ability to share and discuss trading ideas with a large community.
 
 *Website:* [TradingView](https://www.tradingview.com/)
 
 ### 3. **NinjaTrader**
-NinjaTrader is a trading platform designed for active traders. It provides advanced charting capabilities, a vast library of indicators and strategies, and powerful [backtesting](../b/backtesting.md) tools. NinjaTrader also supports automated trading with custom-built algorithms.
+[NinjaTrader](../n/ninjatrader.md) is a trading platform designed for active traders. It provides advanced charting capabilities, a vast library of indicators and strategies, and powerful [backtesting](../b/backtesting.md) tools. [NinjaTrader](../n/ninjatrader.md) also supports automated trading with custom-built algorithms.
 
 *Website:* [NinjaTrader](https://ninjatrader.com/)
 
 ### 4. **Thinkorswim by TD Ameritrade**
-Thinkorswim is an advanced trading platform offered by TD Ameritrade, featuring a wide array of [technical analysis](../t/technical_analysis.md) tools, including hundreds of [technical indicators](../t/technical_indicators.md), customizable charting options, and paper money for practice trading.
+[Thinkorswim](../t/thinkorswim.md) is an advanced trading platform offered by TD Ameritrade, featuring a wide array of [technical analysis](../t/technical_analysis.md) tools, including hundreds of [technical indicators](../t/technical_indicators.md), customizable charting options, and paper money for practice trading.
 
 *Website:* [Thinkorswim](https://www.thinkorswim.com/)
 
@@ -53,12 +53,12 @@ MetaStock is a comprehensive [technical analysis](../t/technical_analysis.md) an
 *Website:* [MetaStock](https://www.metastock.com/)
 
 ### 6. **Amibroker**
-Amibroker is a [technical analysis](../t/technical_analysis.md) and [portfolio management](../p/portfolio_management.md) software that is highly customizable. It includes an advanced [backtesting](../b/backtesting.md) engine, flexible charting tools, a scripting language for developing indicators and [trading systems](../t/trading_systems.md), and supports automated trading.
+[Amibroker](../a/amibroker.md) is a [technical analysis](../t/technical_analysis.md) and [portfolio management](../p/portfolio_management.md) software that is highly customizable. It includes an advanced [backtesting](../b/backtesting.md) engine, flexible charting tools, a scripting language for developing indicators and [trading systems](../t/trading_systems.md), and supports automated trading.
 
 *Website:* [Amibroker](http://www.amibroker.com/)
 
 ### 7. **eSignal**
-eSignal provides powerful charting, [technical analysis](../t/technical_analysis.md), and trading tools. With its advanced charting capabilities, extensive range of indicators, and integrated trading from the charts, eSignal caters to professional traders and investors.
+[eSignal](../e/esignal.md) provides powerful charting, [technical analysis](../t/technical_analysis.md), and trading tools. With its advanced charting capabilities, extensive range of indicators, and integrated trading from the charts, [eSignal](../e/esignal.md) caters to professional traders and investors.
 
 *Website:* [eSignal](https://www.esignal.com/)
 
@@ -73,10 +73,10 @@ Investing.com is a comprehensive financial platform providing various tools and 
 *Website:* [Investing.com](https://www.investing.com/)
 
 ### 10. **Bloomberg Terminal**
-The Bloomberg Terminal is a professional service offering extensive data, analytics, and trading tools. It includes a suite of [technical analysis](../t/technical_analysis.md) tools with custom charting, a wide array of indicators, and powerful analytics.
+The [Bloomberg](../b/bloomberg.md) Terminal is a professional service offering extensive data, analytics, and trading tools. It includes a suite of [technical analysis](../t/technical_analysis.md) tools with custom charting, a wide array of indicators, and powerful analytics.
 
 *Website:* [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
 ## Conclusion
 
-[Technical analysis](../t/technical_analysis.md) software plays a crucial role in modern trading, providing the necessary tools for analyzing market data, identifying trends, and executing informed trades. With a multitude of features like advanced charting, [technical indicators](../t/technical_indicators.md), [backtesting](../b/backtesting.md), and automated trading, these platforms cater to the needs of both novice and professional traders. By leveraging the capabilities of popular software like MetaTrader, TradingView, NinjaTrader, and others, traders can enhance their [trading strategies](../t/trading_strategies.md) and improve their chances of success in the financial markets.
+[Technical analysis](../t/technical_analysis.md) software plays a crucial role in modern trading, providing the necessary tools for analyzing market data, identifying trends, and executing informed trades. With a multitude of features like advanced charting, [technical indicators](../t/technical_indicators.md), [backtesting](../b/backtesting.md), and automated trading, these platforms cater to the needs of both novice and professional traders. By leveraging the capabilities of popular software like MetaTrader, [TradingView](../t/tradingview.md), [NinjaTrader](../n/ninjatrader.md), and others, traders can enhance their [trading strategies](../t/trading_strategies.md) and improve their chances of success in the financial markets.

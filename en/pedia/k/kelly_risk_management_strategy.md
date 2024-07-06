@@ -84,7 +84,7 @@ Several financial tools and software incorporate the [Kelly Criterion](../k/kell
 
 - **Portfolio123**: Implements [Kelly Criterion](../k/kelly_criterion.md) in [portfolio management](../p/portfolio_management.md) to optimize [asset allocation](../a/asset_allocation.md). [Portfolio123](https://www.portfolio123.com/)
 
-- **QuantConnect**: A cloud-based platform providing tools for [algorithmic trading](../a/algorithmic_trading.md) where [Kelly Criterion](../k/kelly_criterion.md) can be scripted and integrated. [QuantConnect](https://www.quantconnect.com/)
+- **[QuantConnect](../q/quantconnect.md)**: A cloud-based platform providing tools for [algorithmic trading](../a/algorithmic_trading.md) where [Kelly Criterion](../k/kelly_criterion.md) can be scripted and integrated. [QuantConnect](https://www.quantconnect.com/)
 
 ## Conclusion
 

@@ -58,9 +58,9 @@ Several programming languages are popular in the domain:
 
 Reliable and diverse data sources are crucial:
 
-- **Quandl:** Provides a wide variety of financial and economic data.
+- **[Quandl](../q/quandl.md):** Provides a wide variety of financial and economic data.
 - **Yahoo Finance and Google Finance:** Offer stock market data, news, and analysis.
-- **Bloomberg and Reuters:** Rich sources of [real-time market data](../r/real-time_market_data.md) and financial news.
+- **[Bloomberg](../b/bloomberg.md) and [Reuters](../r/reuters.md):** Rich sources of [real-time market data](../r/real-time_market_data.md) and financial news.
 - **Crypto APIs:** Specialized data sources for cryptocurrency markets.
 
 ## Applications and Case Studies

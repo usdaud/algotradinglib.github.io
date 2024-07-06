@@ -79,8 +79,8 @@ Algorithmic traders often use specialized brokers and trading platforms that pro
 ### Noteworthy Platforms:
 
 - **Interactive Brokers:** Offers a comprehensive suite of trading tools and API capabilities. [Interactive Brokers](https://www.interactivebrokers.com/)
-- **QuantConnect:** Provides an integrated development environment for [quantitative research](../q/quantitative_research.md). [QuantConnect](https://www.quantconnect.com/)
-- **AlgoTrader:** A professional trading platform for [rule-based trading](../r/rule-based_trading.md) strategies. [AlgoTrader](https://www.algotrader.com/)
+- **[QuantConnect](../q/quantconnect.md):** Provides an integrated development environment for [quantitative research](../q/quantitative_research.md). [QuantConnect](https://www.quantconnect.com/)
+- **[AlgoTrader](../a/algotrader.md):** A professional trading platform for [rule-based trading](../r/rule-based_trading.md) strategies. [AlgoTrader](https://www.algotrader.com/)
 
 ## 9. Real-Time Data and Market Feeds
 
@@ -88,8 +88,8 @@ Access to [real-time market data](../r/real-time_market_data.md) is crucial for 
 
 ### Providers:
 
-- **Bloomberg:** Offers extensive financial data and market analytics. [Bloomberg](https://www.bloomberg.com/)
-- **Thomson Reuters:** Provides [real-time market data](../r/real-time_market_data.md) and insights. [Thomson Reuters](https://www.thomsonreuters.com/)
+- **[Bloomberg](../b/bloomberg.md):** Offers extensive financial data and market analytics. [Bloomberg](https://www.bloomberg.com/)
+- **Thomson [Reuters](../r/reuters.md):** Provides [real-time market data](../r/real-time_market_data.md) and insights. [Thomson Reuters](https://www.thomsonreuters.com/)
 - **NYSE Market Data:** Direct feeds and comprehensive market data solutions. [NYSE Market Data](https://www.nyse.com/market-data)
 
 ## 10. Regulatory Environment

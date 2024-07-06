@@ -79,7 +79,7 @@ Spreading investments across various assets or strategies can mitigate risk. Com
 
 ### Trading Platforms
 
-Some popular trading platforms offering robust support for [algorithmic trading](../a/algorithmic_trading.md) include MetaTrader 4/5, NinjaTrader, and Interactive Brokers.
+Some popular trading platforms offering robust support for [algorithmic trading](../a/algorithmic_trading.md) include MetaTrader 4/5, [NinjaTrader](../n/ninjatrader.md), and Interactive Brokers.
 
 - [MetaTrader](https://www.metatrader4.com/)
 - [NinjaTrader](https://ninjatrader.com/)
@@ -91,7 +91,7 @@ Python, R, C++, and Java are commonly used programming languages in algo trading
 
 ### Data Providers
 
-Accurate and real-time data is crucial for [algorithmic trading](../a/algorithmic_trading.md). Some notable data providers include Bloomberg, Thomson Reuters, and Quandl.
+Accurate and real-time data is crucial for [algorithmic trading](../a/algorithmic_trading.md). Some notable data providers include [Bloomberg](../b/bloomberg.md), Thomson [Reuters](../r/reuters.md), and [Quandl](../q/quandl.md).
 
 - [Bloomberg](https://www.bloomberg.com/)
 - [Thomson Reuters](https://www.thomsonreuters.com/)

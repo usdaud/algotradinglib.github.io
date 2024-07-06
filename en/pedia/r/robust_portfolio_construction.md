@@ -54,9 +54,9 @@ Both MATLAB and Python offer powerful libraries and toolboxes for [portfolio opt
 
 #### 2. QuantConnect
 
-QuantConnect is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to design, backtest, and deploy [trading strategies](../t/trading_strategies.md). It supports multiple languages, including Python and C#, and offers extensive data sources and processing capabilities ideal for portfolio construction.
+[QuantConnect](../q/quantconnect.md) is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to design, backtest, and deploy [trading strategies](../t/trading_strategies.md). It supports multiple languages, including Python and C#, and offers extensive data sources and processing capabilities ideal for portfolio construction.
 
-**QuantConnect Platform:**
+**[QuantConnect](../q/quantconnect.md) Platform:**
 - [QuantConnect](https://www.quantconnect.com/)
 
 #### 3. QSTrader

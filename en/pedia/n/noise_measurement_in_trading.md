@@ -37,7 +37,7 @@ Noise measurement typically involves statistical and computational techniques to
 
 Several companies specialize in noise measurement and signal processing for trading:
 
-1. **Quandl**: Provides a marketplace for financial, economic, and [alternative data](../a/alternative_data.md), offering tools for [data normalization](../d/data_normalization.md) and signal detection. [Website](https://www.quandl.com/)
+1. **[Quandl](../q/quandl.md)**: Provides a marketplace for financial, economic, and [alternative data](../a/alternative_data.md), offering tools for [data normalization](../d/data_normalization.md) and signal detection. [Website](https://www.quandl.com/)
 2. **Kensho Technologies**: Uses machine learning to analyze and interpret market data, filtering out noise to provide accurate market insights. [Website](https://www.kensho.com/)
 3. **Numerai**: A hedge fund that crowdsources AI models to predict market movements, where model submission and evaluation focus heavily on signal extraction quality. [Website](https://numer.ai/)
 

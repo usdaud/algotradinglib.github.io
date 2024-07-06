@@ -67,7 +67,7 @@ The COVID-19 pandemic led to a sharp market decline followed by an equally drama
 ## How Companies Leverage V-Shaped Patterns
 
 ### QuantConnect
-[QuantConnect](https://www.quantconnect.com/) provides a platform for algorithmic traders to design and backtest strategies, including those based on V-Shaped patterns. Users can leverage QuantConnect's extensive database of historical market data to develop and refine their algorithms.
+[QuantConnect](https://www.quantconnect.com/) provides a platform for algorithmic traders to design and backtest strategies, including those based on V-Shaped patterns. Users can leverage [QuantConnect](../q/quantconnect.md)'s extensive database of historical market data to develop and refine their algorithms.
 
 ### Alpaca
 [Alpaca](https://alpaca.markets/) offers commission-free trading APIs that can be used to automate [trading strategies](../t/trading_strategies.md) based on V-Shaped patterns. With Alpaca’s APIs, traders can execute their algorithms swiftly to capitalize on rapid market movements.

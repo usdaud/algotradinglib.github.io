@@ -141,7 +141,7 @@ Zero curve construction can be implemented using various programming languages a
 
 - **R**: The `YieldCurve` package provides functions for [yield curve](../y/yield_curve.md) modeling, including bootstrapping and Nelson-Siegel models.
 
-- **C++**: High-performance C++ libraries, such as QuantLib, offer comprehensive tools for [yield curve](../y/yield_curve.md) construction.
+- **C++**: High-performance C++ libraries, such as [QuantLib](../q/quantlib.md), offer comprehensive tools for [yield curve](../y/yield_curve.md) construction.
 
 ## Example with Python
 

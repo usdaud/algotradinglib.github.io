@@ -32,7 +32,7 @@ Financial reports, including balance sheets, income statements, and cash flow st
 
 ### Market Data Providers
 
-Several companies specialize in providing comprehensive market data and analytics. These include Bloomberg (https://www.bloomberg.com/), Thomson Reuters (https://www.thomsonreuters.com/), and FactSet (https://www.factset.com/). They offer access to real-time and historical data, news, and analysis tools tailored for financial markets.
+Several companies specialize in providing comprehensive market data and analytics. These include [Bloomberg](../b/bloomberg.md) (https://www.[bloomberg](../b/bloomberg.md).com/), Thomson [Reuters](../r/reuters.md) (https://www.thomsonreuters.com/), and [FactSet](../f/factset.md) (https://www.[factset](../f/factset.md).com/). They offer access to real-time and historical data, news, and analysis tools tailored for financial markets.
 
 ### Economic Indicators
 

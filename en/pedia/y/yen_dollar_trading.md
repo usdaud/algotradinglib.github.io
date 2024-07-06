@@ -67,8 +67,8 @@ Forex trading often involves using leverage, which can amplify both gains and lo
 Several trading platforms specialize in forex trading, offering features such as advanced charting tools, automated trading capabilities, and access to a wide range of currency pairs. Notable platforms include:
 
 - **MetaTrader 4 and 5**: Widely used by forex traders for their comprehensive tools and resources.
-- **cTrader**: Known for its intuitive interface and advanced trading capabilities.
-- **TradingView**: Offers robust charting tools and [social trading](../s/social_trading.md) features.
+- **[cTrader](../c/ctrader.md)**: Known for its intuitive interface and advanced trading capabilities.
+- **[TradingView](../t/tradingview.md)**: Offers robust charting tools and [social trading](../s/social_trading.md) features.
 
 ### Reputable Brokers
 

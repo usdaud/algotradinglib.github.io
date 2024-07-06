@@ -20,8 +20,8 @@ Several companies have become prominent players in the algo-trading arena, offer
 2. **Jane Street**: This firm specializes in providing liquidity and employs a variety of algorithmic and [quantitative trading](../q/quantitative_trading.md) strategies. [Jane Street](https://www.janestreet.com/)
 
 ### B. Financial Technology Providers
-1. **QuantConnect**: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that allows developers to design, build, and test [trading algorithms](../t/trading_algorithms.md). [QuantConnect](https://www.quantconnect.com/)
-2. **AlgoTrader**: Provides software solutions for multi-asset [algorithmic trading](../a/algorithmic_trading.md) and automated execution. [AlgoTrader](https://www.algotrader.com/)
+1. **[QuantConnect](../q/quantconnect.md)**: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that allows developers to design, build, and test [trading algorithms](../t/trading_algorithms.md). [QuantConnect](https://www.quantconnect.com/)
+2. **[AlgoTrader](../a/algotrader.md)**: Provides software solutions for multi-asset [algorithmic trading](../a/algorithmic_trading.md) and automated execution. [AlgoTrader](https://www.algotrader.com/)
 
 ## 3. The Job Market for Algorithmic Traders
 

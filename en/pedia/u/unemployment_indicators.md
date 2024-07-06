@@ -59,7 +59,7 @@ The underemployment rate captures those who are employed part-time but wish to w
 
 #### QuantConnect
 
-[QuantConnect](https://www.quantconnect.com/) is a prominent [algorithmic trading](../a/algorithmic_trading.md) platform offering tools to develop and backtest [trading strategies](../t/trading_strategies.md). It allows users to incorporate unemployment indicators into their algorithms. For instance, an algorithm could use non-farm payroll data from QuantConnect’s data library to predict market movements and execute trades based on the results.
+[QuantConnect](https://www.quantconnect.com/) is a prominent [algorithmic trading](../a/algorithmic_trading.md) platform offering tools to develop and backtest [trading strategies](../t/trading_strategies.md). It allows users to incorporate unemployment indicators into their algorithms. For instance, an algorithm could use non-farm payroll data from [QuantConnect](../q/quantconnect.md)’s data library to predict market movements and execute trades based on the results.
 
 #### Alpha Vantage
 

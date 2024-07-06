@@ -18,11 +18,11 @@ Market infrastructure includes all the venues, technologies, and platforms where
 
 The growth of [algorithmic trading](../a/algorithmic_trading.md) and high-frequency trading (HFT) has been facilitated by advancements in technology. Trading technologies are crucial for executing trades with precision and at high speeds.
 
-- **[Algorithmic Trading](../a/algorithmic_trading.md) Platforms**: Software that uses algorithms to automate trading decisions and executions. Platforms such as MetaTrader (https://www.metatrader4.com) and QuantConnect (https://www.quantconnect.com) enable traders to backtest strategies and automate trades.
+- **[Algorithmic Trading](../a/algorithmic_trading.md) Platforms**: Software that uses algorithms to automate trading decisions and executions. Platforms such as MetaTrader (https://www.[metatrader4](../m/metatrader4.md).com) and [QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com) enable traders to backtest strategies and automate trades.
 
 - **Low-Latency Networks**: Critical for high-frequency trading, these networks minimize the delay between a trader's order and its execution. Providers like McKay Brothers and Hibernia Networks offer microwave networks connecting major financial hubs.
 
-- **Data Feeds**: Real-time data feeds from providers like Bloomberg (https://www.bloomberg.com) and Thomson Reuters deliver essential market information, including price quotes, news, and financial metrics. Access to timely and accurate data is critical for making informed trading decisions.
+- **Data Feeds**: Real-time data feeds from providers like [Bloomberg](../b/bloomberg.md) (https://www.[bloomberg](../b/bloomberg.md).com) and Thomson [Reuters](../r/reuters.md) deliver essential market information, including price quotes, news, and financial metrics. Access to timely and accurate data is critical for making informed trading decisions.
 
 ### 3. Regulatory Environment
 

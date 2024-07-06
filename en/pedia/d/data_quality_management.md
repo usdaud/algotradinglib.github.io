@@ -14,8 +14,8 @@ In [algorithmic trading](../a/algorithmic_trading.md), data is sourced from mult
 
 - **Exchanges**: Exchanges are primary sources for trade and quote data (Market Data). Examples include the New York Stock Exchange (NYSE) and NASDAQ.
 - **Brokerages**: Brokerages provide transaction data which can be crucial for assessing market sentiment.
-- **News Agencies**: Real-time news can affect market movements. Reliable sources like Reuters and Bloomberg are often used.
-- **Financial Information Providers**: Companies like FactSet and Morningstar provide comprehensive datasets on financial markets.
+- **News Agencies**: Real-time news can affect market movements. Reliable sources like [Reuters](../r/reuters.md) and [Bloomberg](../b/bloomberg.md) are often used.
+- **Financial Information Providers**: Companies like [FactSet](../f/factset.md) and [Morningstar](../m/morningstar.md) provide comprehensive datasets on financial markets.
 - **Social Media and [Alternative Data](../a/alternative_data.md)**: Platforms like Twitter provide sentiment data which, while valuable, require rigorous validation.
 
 ### Data Validation
@@ -65,7 +65,7 @@ Managing data quality in [algorithmic trading](../a/algorithmic_trading.md) come
 
 ### Case Study 1: QuantConnect
 
-[QuantConnect](https://www.quantconnect.com/) is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that emphasizes data quality. By providing access to high-quality historical and live market data, QuantConnect ensures that algorithmic traders can backtest and deploy their strategies with confidence. Their [data normalization](../d/data_normalization.md) processes involve rigorous cleaning, validation, and structuring to maintain data integrity across millions of data points.
+[QuantConnect](https://www.quantconnect.com/) is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that emphasizes data quality. By providing access to high-quality historical and live market data, [QuantConnect](../q/quantconnect.md) ensures that algorithmic traders can backtest and deploy their strategies with confidence. Their [data normalization](../d/data_normalization.md) processes involve rigorous cleaning, validation, and structuring to maintain data integrity across millions of data points.
 
 ### Case Study 2: Numerai
 

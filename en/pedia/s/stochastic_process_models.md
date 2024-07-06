@@ -86,7 +86,7 @@ Implementing Stochastic Process Models
 --------------------------------------
 
 1. **Software and Programming Languages**
-    - **Python**: Widely used libraries like NumPy, SciPy, and pandas are supplemented with specialized packages such as `statsmodels` and `QuantLib` for handling [stochastic processes](../s/stochastic_processes.md).
+    - **Python**: Widely used libraries like NumPy, SciPy, and pandas are supplemented with specialized packages such as `statsmodels` and `[QuantLib](../q/quantlib.md)` for handling [stochastic processes](../s/stochastic_processes.md).
     - **R**: The `sde` and `quantmod` packages facilitate the simulation and modeling of [stochastic processes](../s/stochastic_processes.md).
     - **MATLAB**: Extensive toolboxes for finance, such as the Econometrics Toolbox, offer robust functions to work with stochastic models.
 

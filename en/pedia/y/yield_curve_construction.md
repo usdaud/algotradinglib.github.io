@@ -27,7 +27,7 @@ Key Components in [Yield Curve](../y/yield_curve.md) Construction
 Steps in Constructing a [Yield Curve](../y/yield_curve.md)
 ---
 
-1. **Data Collection**: Gather bond yields and maturities from market sources such as Bloomberg, Reuters, or data provided by exchanges and financial news platforms.
+1. **Data Collection**: Gather bond yields and maturities from market sources such as [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), or data provided by exchanges and financial news platforms.
 2. **Selection of Benchmark Securities**: Choose a set of representative bonds, often using government securities due to their low credit risk and high liquidity.
 3. **Calculation of Spot Rates**: Using bootstrapping methods, calculate the spot rates for different maturities.
 4. **Curve Fitting**: Apply spline fitting or a parametric model to the calculated spot rates to create a smooth curve.
@@ -47,11 +47,11 @@ Tools and Platforms
 
 Several advanced tools and platforms assist in constructing yield curves:
 
-1. **Bloomberg Terminal**: Provides comprehensive bond market data and built-in tools for [yield curve](../y/yield_curve.md) construction.
-2. **Reuters Eikon**: Offers extensive market data and analytics tools, useful for [yield curve](../y/yield_curve.md) analysis.
-3. **QuantLib**: An open-source library for [quantitative finance](../q/quantitative_finance.md), including [yield curve](../y/yield_curve.md) construction capabilities. [QuantLib](http://quantlib.org).
+1. **[Bloomberg](../b/bloomberg.md) Terminal**: Provides comprehensive bond market data and built-in tools for [yield curve](../y/yield_curve.md) construction.
+2. **[Reuters](../r/reuters.md) Eikon**: Offers extensive market data and analytics tools, useful for [yield curve](../y/yield_curve.md) analysis.
+3. **[QuantLib](../q/quantlib.md)**: An open-source library for [quantitative finance](../q/quantitative_finance.md), including [yield curve](../y/yield_curve.md) construction capabilities. [QuantLib](http://quantlib.org).
 4. **MATLAB and R**: Software environments with packages and toolboxes for advanced mathematical and statistical analysis, such as Financial Toolbox in MATLAB and [yield curve](../y/yield_curve.md) packages in R.
-5. **Python**: Libraries such as Pandas and NumPy, along with specialized libraries like QuantLib for Python, enable flexible and customizable [yield curve](../y/yield_curve.md) construction.
+5. **Python**: Libraries such as Pandas and NumPy, along with specialized libraries like [QuantLib](../q/quantlib.md) for Python, enable flexible and customizable [yield curve](../y/yield_curve.md) construction.
 
 Case Study: [Yield Curve](../y/yield_curve.md) Construction in Practice
 ---

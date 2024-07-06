@@ -71,4 +71,4 @@ Algorthmic traders, quant funds, and individual investors use the Head and Shoul
 
 - Investopedia: [Head and Shoulders Pattern](https://www.investopedia.com/terms/h/head-shoulders.asp)
 - Babypips: [How to Use Head and Shoulders](https://www.babypips.com/learn/forex/head-and-shoulder)
-- TradingView: [Chart Analysis Tool](https://www.tradingview.com)
+- [TradingView](../t/tradingview.md): [Chart Analysis Tool](https://www.tradingview.com)

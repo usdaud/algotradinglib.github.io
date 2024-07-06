@@ -27,8 +27,8 @@ Understanding different types of orders is fundamental to Open Order Analysis. T
 Several platforms and tools facilitate the monitoring of open orders in real-time, providing valuable insights and analytics. Prominent among them are:
 
 - **MetaTrader**: A popular platform that supports automated trading and open order analysis through its advanced charting tools ([MetaTrader](https://www.metatrader4.com/en)).
-- **Bloomberg Terminal**: Offers comprehensive data and analytics for institutional traders ([Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)).
-- **Thomson Reuters Eikon**: Provides [real-time market data](../r/real-time_market_data.md) and analysis tools to manage open orders effectively ([Refinitiv](https://www.refinitiv.com/en/products/eikon-trading-software)).
+- **[Bloomberg](../b/bloomberg.md) Terminal**: Offers comprehensive data and analytics for institutional traders ([Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)).
+- **Thomson [Reuters](../r/reuters.md) Eikon**: Provides [real-time market data](../r/real-time_market_data.md) and analysis tools to manage open orders effectively ([Refinitiv](https://www.refinitiv.com/en/products/eikon-trading-software)).
 
 ### 3. Risk Management Techniques
 
@@ -75,15 +75,15 @@ Scenario analysis involves testing different market conditions to anticipate how
 
 Several platforms offer advanced tools for open order analysis, including:
 
-- **AlgoTrader**: Provides a comprehensive suite for developing, testing, and deploying algo [trading strategies](../t/trading_strategies.md) ([AlgoTrader](https://www.algotrader.com/)).
-- **QuantConnect**: An open-source platform for [backtesting](../b/backtesting.md) and live trading with powerful analytical tools ([QuantConnect](https://www.quantconnect.com/)).
+- **[AlgoTrader](../a/algotrader.md)**: Provides a comprehensive suite for developing, testing, and deploying algo [trading strategies](../t/trading_strategies.md) ([AlgoTrader](https://www.algotrader.com/)).
+- **[QuantConnect](../q/quantconnect.md)**: An open-source platform for [backtesting](../b/backtesting.md) and live trading with powerful analytical tools ([QuantConnect](https://www.quantconnect.com/)).
 
 ### 2. Custom Analytics Solutions
 
 Developing custom analytics solutions using programming languages like Python and R can offer tailored insights into open orders. Libraries and frameworks that support this include:
 
 - **Pandas**: A powerful data analysis library in Python for handling time series data ([Pandas](https://pandas.pydata.org/)).
-- **QuantLib**: A comprehensive library for [quantitative finance](../q/quantitative_finance.md) in C++ ([QuantLib](http://quantlib.org/)).
+- **[QuantLib](../q/quantlib.md)**: A comprehensive library for [quantitative finance](../q/quantitative_finance.md) in C++ ([QuantLib](http://quantlib.org/)).
 
 ### 3. API Integrations
 

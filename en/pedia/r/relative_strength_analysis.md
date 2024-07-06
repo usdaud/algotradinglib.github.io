@@ -58,9 +58,9 @@ Fund managers and analysts often use RSA to assess the performance of mutual fun
 
 Several platforms and third-party tools specialize in RSA. Some of the prominent ones include:
 
-- **Bloomberg Terminal**: Provides extensive functionality for calculating and analyzing RSA metrics. More info can be found [here](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-- **Thomson Reuters Eikon**: Offers comprehensive data and tools for RSA among other financial analysis services. Details are available [here](https://www.refinitiv.com/en/products/eikon-trading-software)
-- **TradingView**: Features built-in functionalities for plotting RSI and comparing relative strength among different assets. Visit [here](https://www.tradingview.com/)
+- **[Bloomberg](../b/bloomberg.md) Terminal**: Provides extensive functionality for calculating and analyzing RSA metrics. More info can be found [here](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+- **Thomson [Reuters](../r/reuters.md) Eikon**: Offers comprehensive data and tools for RSA among other financial analysis services. Details are available [here](https://www.refinitiv.com/en/products/eikon-trading-software)
+- **[TradingView](../t/tradingview.md)**: Features built-in functionalities for plotting RSI and comparing relative strength among different assets. Visit [here](https://www.tradingview.com/)
 - **MetaTrader**: Both MetaTrader 4 and MetaTrader 5 platforms support RSI indicators and Relative Strength metrics. More information is available [here](https://www.metatrader4.com/en)
 
 ## Challenges and Limitations

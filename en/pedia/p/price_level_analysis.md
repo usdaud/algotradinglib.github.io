@@ -121,9 +121,9 @@ Regularly review the performance of your [trading algorithms](../t/trading_algor
 
 Several platforms and tools can aid in the implementation of price level analysis in [algorithmic trading](../a/algorithmic_trading.md):
 
-- **QuantConnect**: Provides cloud-based infrastructure for designing, testing, and deploying [trading algorithms](../t/trading_algorithms.md). [Visit QuantConnect](https://www.quantconnect.com/)
-- **QuantLib**: A free/open-source library for [quantitative finance](../q/quantitative_finance.md), which can be utilized to build custom [trading algorithms](../t/trading_algorithms.md).
-- **TradingView**: Offers advanced charting tools and allows for the creation of custom [technical indicators](../t/technical_indicators.md).
+- **[QuantConnect](../q/quantconnect.md)**: Provides cloud-based infrastructure for designing, testing, and deploying [trading algorithms](../t/trading_algorithms.md). [Visit QuantConnect](https://www.quantconnect.com/)
+- **[QuantLib](../q/quantlib.md)**: A free/open-source library for [quantitative finance](../q/quantitative_finance.md), which can be utilized to build custom [trading algorithms](../t/trading_algorithms.md).
+- **[TradingView](../t/tradingview.md)**: Offers advanced charting tools and allows for the creation of custom [technical indicators](../t/technical_indicators.md).
 
 ## Conclusion
 

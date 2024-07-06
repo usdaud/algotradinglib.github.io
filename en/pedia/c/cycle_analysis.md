@@ -53,7 +53,7 @@ J.P. Morgan's [Quantitative Research](../q/quantitative_research.md) Group appli
 [Visit J.P. Morgan's Quantitative Research Group](https://www.jpmorgan.com/global/research)
 
 ### QuantConnect
-QuantConnect is an open-source [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools and resources for developing [quantitative trading](../q/quantitative_trading.md) strategies, including those based on cycle analysis. The platform supports [backtesting](../b/backtesting.md) and live trading, enabling traders to refine and implement their cycle-based strategies.
+[QuantConnect](../q/quantconnect.md) is an open-source [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools and resources for developing [quantitative trading](../q/quantitative_trading.md) strategies, including those based on cycle analysis. The platform supports [backtesting](../b/backtesting.md) and live trading, enabling traders to refine and implement their cycle-based strategies.
 
 [Visit QuantConnect](https://www.quantconnect.com)
 

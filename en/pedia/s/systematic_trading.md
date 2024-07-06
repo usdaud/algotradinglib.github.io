@@ -45,7 +45,7 @@ Systematic strategies incorporate predefined [risk management](../r/risk_managem
 
 ### 1. **Data Acquisition and Processing**
 
-Data is pivotal for systematic trading. This includes historical price data, [real-time market data](../r/real-time_market_data.md), [economic indicators](../e/economic_indicators.md), news sentiment, and more. Providers like Bloomberg, Reuters, and QuantConnect offer comprehensive data feeds.
+Data is pivotal for systematic trading. This includes historical price data, [real-time market data](../r/real-time_market_data.md), [economic indicators](../e/economic_indicators.md), news sentiment, and more. Providers like [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), and [QuantConnect](../q/quantconnect.md) offer comprehensive data feeds.
 
 ### 2. **Programming Languages**
 
@@ -56,7 +56,7 @@ Programming languages such as Python, R, C++, and MATLAB are widely used to deve
 Various trading platforms support the deployment of systematic [trading strategies](../t/trading_strategies.md), including:
 
 - **MetaTrader 4/5:** Popular for forex trading.
-- **MultiCharts:** Supports various asset classes and provides extensive charting tools.
+- **[MultiCharts](../m/multicharts.md):** Supports various asset classes and provides extensive charting tools.
 - **Interactive Brokers:** Offers a robust API for [algorithmic trading](../a/algorithmic_trading.md).
 
 ### 4. **Machine Learning and AI**

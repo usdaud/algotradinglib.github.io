@@ -81,20 +81,20 @@ Cryptocurrency markets exhibit high volatility and low liquidity compared to tra
 
 Multiple trading platforms offer Volume Profile as part of their charting tools, making it accessible for traders at all levels. Some notable platforms include:
 
-1. **TradingView**  
-   TradingView offers an extensive suite of tools, including Volume Profile indicators. Traders can customize their volume profiles and integrate them into their overall charting strategy. Visit [TradingView](https://www.tradingview.com/).
+1. **[TradingView](../t/tradingview.md)**  
+   [TradingView](../t/tradingview.md) offers an extensive suite of tools, including Volume Profile indicators. Traders can customize their volume profiles and integrate them into their overall charting strategy. Visit [TradingView](https://www.tradingview.com/).
 
-2. **ThinkOrSwim (by TD Ameritrade)**  
-   ThinkOrSwim provides detailed Volume Profile tools suited for various markets, allowing traders to analyze and implement it effectively in their trading plans. Visit [TD Ameritrade](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page).
+2. **[ThinkOrSwim](../t/thinkorswim.md) (by TD Ameritrade)**  
+   [ThinkOrSwim](../t/thinkorswim.md) provides detailed Volume Profile tools suited for various markets, allowing traders to analyze and implement it effectively in their trading plans. Visit [TD Ameritrade](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page).
 
-3. **NinjaTrader**  
-   NinjaTrader offers comprehensive Volume Profile indicators that can be customized for futures, forex, and equities trading. Visit [NinjaTrader](https://ninjatrader.com/).
+3. **[NinjaTrader](../n/ninjatrader.md)**  
+   [NinjaTrader](../n/ninjatrader.md) offers comprehensive Volume Profile indicators that can be customized for futures, forex, and equities trading. Visit [NinjaTrader](https://ninjatrader.com/).
 
 4. **Sierra Chart**  
    Sierra Chart is renowned for its robust and versatile charting tools, including high-quality Volume Profile features suitable for professional traders. Visit [Sierra Chart](https://www.sierrachart.com/).
 
-5. **MotiveWave**  
-   MotiveWave provides advanced Volume Profile tools with extensive customization options, catering to both retail and institutional traders. Visit [MotiveWave](https://www.motivewave.com/).
+5. **[MotiveWave](../m/motivewave.md)**  
+   [MotiveWave](../m/motivewave.md) provides advanced Volume Profile tools with extensive customization options, catering to both retail and institutional traders. Visit [MotiveWave](https://www.motivewave.com/).
 
 ## Conclusion
 

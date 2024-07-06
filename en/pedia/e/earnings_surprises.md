@@ -41,7 +41,7 @@ Algo-traders can deploy strategies both before and after [earnings announcements
 ## Tools and Platforms for Algorithmic Trading
 Various tools and platforms are available for creating and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies that capitalize on earnings surprises. Some prominent platforms include:
 
-- **QuantConnect**: An [algorithmic trading](../a/algorithmic_trading.md) platform offering [backtesting](../b/backtesting.md) and live trading capabilities. More information at [QuantConnect](https://www.quantconnect.com/).
+- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform offering [backtesting](../b/backtesting.md) and live trading capabilities. More information at [QuantConnect](https://www.quantconnect.com/).
 
 - **Alpaca**: A commission-free trading platform that offers API access for [algorithmic trading](../a/algorithmic_trading.md). More information at [Alpaca](https://alpaca.markets/).
 

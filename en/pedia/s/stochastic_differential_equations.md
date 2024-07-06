@@ -102,7 +102,7 @@ Several software packages and libraries support the simulation and numerical sol
 
 - **SDE Toolbox for MATLAB**: A comprehensive suite for numerically solving SDEs and implementing various methods (https://www.mathworks.com/matlabcentral/fileexchange/26586-sde-toolbox).
 - **Stochastic Differential Equations in Python (SDEPy)**: A Python library for SDE simulation and analysis (https://github.com/RJT1990/pySDE).
-- **QuantLib**: An open-source library for [quantitative finance](../q/quantitative_finance.md), providing tools for pricing [derivatives](../d/derivatives.md) and managing financial models, including SDEs (https://www.quantlib.org/).
+- **[QuantLib](../q/quantlib.md)**: An open-source library for [quantitative finance](../q/quantitative_finance.md), providing tools for pricing [derivatives](../d/derivatives.md) and managing financial models, including SDEs (https://www.[quantlib](../q/quantlib.md).org/).
 
 ## Challenges and Future Directions
 

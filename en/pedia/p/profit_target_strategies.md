@@ -171,7 +171,7 @@ In the realm of [algorithmic trading](../a/algorithmic_trading.md), profit targe
 
 ### Example: Utilizing Algorithmic Profit Targets
 
-Suppose a trader using an automated trading platform like MetaTrader or TradeStation decides to implement a profit target strategy. They can code an algorithm to monitor the ATR and automatically place profit targets at 1.5x ATR from the entry price. The algorithm can also dynamically adjust these targets based on changing volatility, ensuring that the strategy remains effective across different market conditions.
+Suppose a trader using an automated trading platform like MetaTrader or [TradeStation](../t/tradestation.md) decides to implement a profit target strategy. They can code an algorithm to monitor the ATR and automatically place profit targets at 1.5x ATR from the entry price. The algorithm can also dynamically adjust these targets based on changing volatility, ensuring that the strategy remains effective across different market conditions.
 
 ---
 
@@ -187,19 +187,19 @@ MetaTrader 5 is a popular trading platform that supports [algorithmic trading](.
 
 ### TradeStation
 
-TradeStation offers a powerful trading platform with advanced charting tools and the ability to develop and backtest [algorithmic trading](../a/algorithmic_trading.md) strategies. Its EasyLanguage platform supports the creation of custom scripts for profit targets and other trade management actions.
+[TradeStation](../t/tradestation.md) offers a powerful trading platform with advanced charting tools and the ability to develop and backtest [algorithmic trading](../a/algorithmic_trading.md) strategies. Its EasyLanguage platform supports the creation of custom scripts for profit targets and other trade management actions.
 
 [Check TradeStation](https://www.tradestation.com/)
 
 ### QuantConnect
 
-QuantConnect is an [algorithmic trading](../a/algorithmic_trading.md) platform that offers a range of tools for developing, [backtesting](../b/backtesting.md), and live [trading strategies](../t/trading_strategies.md). It supports multiple asset classes and provides extensive data libraries, making it ideal for sophisticated profit target strategies.
+[QuantConnect](../q/quantconnect.md) is an [algorithmic trading](../a/algorithmic_trading.md) platform that offers a range of tools for developing, [backtesting](../b/backtesting.md), and live [trading strategies](../t/trading_strategies.md). It supports multiple asset classes and provides extensive data libraries, making it ideal for sophisticated profit target strategies.
 
 [Check QuantConnect](https://www.quantconnect.com/)
 
 ### NinjaTrader
 
-NinjaTrader is widely used for futures, forex, and stock trading. The platform supports automated strategies and provides robust tools for setting and managing profit targets through custom indicator development.
+[NinjaTrader](../n/ninjatrader.md) is widely used for futures, forex, and stock trading. The platform supports automated strategies and provides robust tools for setting and managing profit targets through custom indicator development.
 
 [Check NinjaTrader](https://ninjatrader.com/)
 

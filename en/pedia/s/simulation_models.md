@@ -17,7 +17,7 @@ There are various types of simulation models commonly used in [algorithmic tradi
 1. **Historical Data Simulation ([Backtesting](../b/backtesting.md))**:
    - **Definition**: Utilizes past market data to simulate how a trading strategy would have performed historically.
    - **Usage**: Helps to validate strategies based on previous market behaviors.
-   - **Tools**: Platforms like MetaTrader, QuantConnect, and NinjaTrader often provide built-in [backtesting](../b/backtesting.md) capabilities.
+   - **Tools**: Platforms like MetaTrader, [QuantConnect](../q/quantconnect.md), and [NinjaTrader](../n/ninjatrader.md) often provide built-in [backtesting](../b/backtesting.md) capabilities.
 
 2. **[Monte Carlo Simulation](../m/monte_carlo_simulation.md)**:
    - **Definition**: Uses random sampling and statistical modeling to estimate the probability of different outcomes.
@@ -63,15 +63,15 @@ Evaluating a trading strategy requires a suite of [performance metrics](../p/per
 #### Software and Platforms
 Various software platforms provide extensive tools for building and running simulation models. Notable ones include:
 
-1. **QuantConnect (quantconnect.com)**:
+1. **[QuantConnect](../q/quantconnect.md) ([quantconnect](../q/quantconnect.md).com)**:
    - **Description**: A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform offering [backtesting](../b/backtesting.md) and live trading capabilities across multiple asset classes.
    - **Features**: Extensive libraries, integration with brokerages, and collaboration tools for community-driven development.
 
-2. **MetaTrader (metatrader5.com)**:
+2. **MetaTrader ([metatrader5](../m/metatrader5.md).com)**:
    - **Description**: A widely-used trading platform providing high-performance charting, trading, and [backtesting](../b/backtesting.md) capabilities.
    - **Features**: MQL scripting language for developing [trading strategies](../t/trading_strategies.md), extensive financial instruments coverage.
 
-3. **NinjaTrader (ninjatrader.com)**:
+3. **[NinjaTrader](../n/ninjatrader.md) ([ninjatrader](../n/ninjatrader.md).com)**:
    - **Description**: A versatile trading platform focused on futures, forex, and stocks, offering advanced charting and [backtesting](../b/backtesting.md) features.
    - **Features**: C# based strategy development environment, strong community support.
 

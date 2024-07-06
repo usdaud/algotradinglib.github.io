@@ -60,7 +60,7 @@ For algo-[trading strategies](../t/trading_strategies.md) that require real-time
 
 ### QuantConnect
 
-QuantConnect is a [quantitative trading](../q/quantitative_trading.md) platform that provides access to financial data, computing resources, and an integrated development environment (IDE) for developing [algorithmic trading](../a/algorithmic_trading.md) strategies. QuantConnect collects and integrates data from various sources, including market exchanges, financial news providers, and [alternative data](../a/alternative_data.md) sources, to provide a comprehensive data ecosystem for algorithmic traders.
+[QuantConnect](../q/quantconnect.md) is a [quantitative trading](../q/quantitative_trading.md) platform that provides access to financial data, computing resources, and an integrated development environment (IDE) for developing [algorithmic trading](../a/algorithmic_trading.md) strategies. [QuantConnect](../q/quantconnect.md) collects and integrates data from various sources, including market exchanges, financial news providers, and [alternative data](../a/alternative_data.md) sources, to provide a comprehensive data ecosystem for algorithmic traders.
 
 **Website**: [QuantConnect](https://www.quantconnect.com/)
 
@@ -72,7 +72,7 @@ Alpha Vantage offers a suite of APIs for real-time and historical financial data
 
 ### Xignite
 
-Xignite is a leading provider of market data cloud solutions. They offer a range of APIs that provide access to financial data, including real-time stock prices, forex rates, and commodities prices. Xignite's cloud-based platform simplifies data integration and allows algo-traders to access high-quality data with minimal latency.
+[Xignite](../x/xignite.md) is a leading provider of market data cloud solutions. They offer a range of APIs that provide access to financial data, including real-time stock prices, forex rates, and commodities prices. [Xignite](../x/xignite.md)'s cloud-based platform simplifies data integration and allows algo-traders to access high-quality data with minimal latency.
 
 **Website**: [Xignite](https://www.xignite.com/)
 

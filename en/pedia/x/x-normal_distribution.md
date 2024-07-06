@@ -129,7 +129,7 @@ gamma, delta, xi, lambda_ = fit_params
 
 Several companies and financial institutions employ advanced statistical methods like the X-Normal Distribution for modeling market behavior, [risk management](../r/risk_management.md), and [algorithmic trading](../a/algorithmic_trading.md). Notable examples include:
 
-- **QuantConnect**: [QuantConnect Website](https://www.quantconnect.com)
+- **[QuantConnect](../q/quantconnect.md)**: [QuantConnect Website](https://www.quantconnect.com)
 - **Kensho Technologies**: [Kensho Website](https://www.kensho.com)
 - **Numerai**: [Numerai Website](https://numer.ai)
 - **Two Sigma**: [Two Sigma Website](https://www.twosigma.com)

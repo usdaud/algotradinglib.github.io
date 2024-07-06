@@ -70,9 +70,9 @@ Advancements in technology have transformed equity trading. Key developments inc
 
 ### Influential Companies in Equity Trading Technology
 
-- **Bloomberg LP**: [bloomberg.com](https://www.bloomberg.com/company)
+- **[Bloomberg](../b/bloomberg.md) LP**: [bloomberg.com](https://www.bloomberg.com/company)
   - A leading provider of financial software, data, and media.
-- **Thomson Reuters**: [thomsonreuters.com](https://www.thomsonreuters.com)
+- **Thomson [Reuters](../r/reuters.md)**: [thomsonreuters.com](https://www.thomsonreuters.com)
   - Provides significant informational and analytical tools for traders.
 - **Goldman Sachs**: [goldmansachs.com](https://www.goldmansachs.com)
   - A global investment banking firm heavily invested in trading technologies.

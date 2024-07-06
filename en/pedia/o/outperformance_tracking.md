@@ -62,10 +62,10 @@ There are several methodologies to handle outperformance tracking, each designed
 Modern outperformance tracking employs advanced technologies and software tools to achieve precise measurement. Key technologies include:
 
 1. **[Quantitative Analysis](../q/quantitative_analysis.md) Platforms**
-   - Platforms like QuantConnect (https://www.quantconnect.com/) offer sophisticated [backtesting](../b/backtesting.md) and live trading environments where traders can deploy and analyze their strategies. They support various languages like Python and C#, enabling comprehensive [quantitative research](../q/quantitative_research.md) and performance tracking.
+   - Platforms like [QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/) offer sophisticated [backtesting](../b/backtesting.md) and live trading environments where traders can deploy and analyze their strategies. They support various languages like Python and C#, enabling comprehensive [quantitative research](../q/quantitative_research.md) and performance tracking.
 
 2. **Financial Data APIs**
-   - Tools like Alpha Vantage (https://www.alphavantage.co/) and Quandl (https://www.quandl.com/) provide robust financial data that can be integrated into [algorithmic trading](../a/algorithmic_trading.md) strategies for real-time and historical performance analysis.
+   - Tools like Alpha Vantage (https://www.alphavantage.co/) and [Quandl](../q/quandl.md) (https://www.[quandl](../q/quandl.md).com/) provide robust financial data that can be integrated into [algorithmic trading](../a/algorithmic_trading.md) strategies for real-time and historical performance analysis.
 
 3. **[Performance Analytics](../p/performance_analytics.md) Software**
    - Platforms such as Portfolio123 (https://www.portfolio123.com/) allow investors to create custom models, backtest them against benchmarks, and track outperformance using detailed analytics and reporting features.
@@ -78,19 +78,19 @@ Modern outperformance tracking employs advanced technologies and software tools 
 
 ### Practical Example: Using QuantConnect for Outperformance Tracking
 
-QuantConnect provides a robust platform for developing, [backtesting](../b/backtesting.md), and tracking [algorithmic trading](../a/algorithmic_trading.md) strategies. Here’s a step-by-step approach to utilizing QuantConnect for outperformance tracking:
+[QuantConnect](../q/quantconnect.md) provides a robust platform for developing, [backtesting](../b/backtesting.md), and tracking [algorithmic trading](../a/algorithmic_trading.md) strategies. Here’s a step-by-step approach to utilizing [QuantConnect](../q/quantconnect.md) for outperformance tracking:
 
 1. **Development**:
-   - **Step 1**: Create a new algorithmic strategy in QuantConnect using a preferred programming language such as Python.
+   - **Step 1**: Create a new algorithmic strategy in [QuantConnect](../q/quantconnect.md) using a preferred programming language such as Python.
    - **Step 2**: Define the strategy rules, including asset selection, entry/exit points, and [risk management](../r/risk_management.md) parameters.
 
 2. **[Backtesting](../b/backtesting.md)**:
    - **Step 3**: Run historical backtests on the strategy against a predefined benchmark (e.g., S&P 500).
-   - **Step 4**: Utilize QuantConnect's built-in metrics, such as alpha, beta, and [Sharpe Ratio](../s/sharpe_ratio.md), to evaluate historical performance relative to the benchmark.
+   - **Step 4**: Utilize [QuantConnect](../q/quantconnect.md)'s built-in metrics, such as alpha, beta, and [Sharpe Ratio](../s/sharpe_ratio.md), to evaluate historical performance relative to the benchmark.
 
 3. **Live Tracking**:
    - **Step 5**: Deploy the strategy to live trading or paper trading (simulated environment).
-   - **Step 6**: Continuously monitor the real-time performance of the strategy using QuantConnect’s dashboard. Track key metrics to ensure ongoing outperformance.
+   - **Step 6**: Continuously monitor the real-time performance of the strategy using [QuantConnect](../q/quantconnect.md)’s dashboard. Track key metrics to ensure ongoing outperformance.
 
 4. **Optimization**:
    - **Step 7**: Adjust and optimize the strategy based on performance insights and changing market conditions.
@@ -107,7 +107,7 @@ Outperformance tracking, while vital, comes with its set of challenges. Addressi
    - Avoid common pitfalls like overfitting models to historical data, which can lead to unrealistic performance expectations. Robust [backtesting](../b/backtesting.md) and validation across different timeframes and conditions are crucial.
 
 3. **Regulatory Compliance**:
-   - Adhere to the financial regulations and compliance requirements relevant to your trading strategy and geographic location. Tools like QuantConnect often integrate compliance checks.
+   - Adhere to the financial regulations and compliance requirements relevant to your trading strategy and geographic location. Tools like [QuantConnect](../q/quantconnect.md) often integrate compliance checks.
 
 4. **Continuous Monitoring**:
    - Performance tracking isn’t a one-time activity. Continuous, real-time monitoring and adjustment ensure the strategy remains effective amidst evolving market conditions.
@@ -117,4 +117,4 @@ Outperformance tracking, while vital, comes with its set of challenges. Addressi
 
 ### Conclusion
 
-Successful outperformance tracking is an ongoing endeavor requiring a blend of sophisticated tools, thorough analytical methods, and [adaptive strategies](../a/adaptive_strategies.md). By comprehensively understanding and implementing robust outperformance tracking mechanisms, traders can significantly enhance their ability to achieve and maintain superior returns over their chosen benchmarks. Technologies like QuantConnect and data providers like Alpha Vantage play a pivotal role in this ecosystem, enabling traders to develop, backtest, and monitor strategies with unprecedented accuracy and efficiency.
+Successful outperformance tracking is an ongoing endeavor requiring a blend of sophisticated tools, thorough analytical methods, and [adaptive strategies](../a/adaptive_strategies.md). By comprehensively understanding and implementing robust outperformance tracking mechanisms, traders can significantly enhance their ability to achieve and maintain superior returns over their chosen benchmarks. Technologies like [QuantConnect](../q/quantconnect.md) and data providers like Alpha Vantage play a pivotal role in this ecosystem, enabling traders to develop, backtest, and monitor strategies with unprecedented accuracy and efficiency.

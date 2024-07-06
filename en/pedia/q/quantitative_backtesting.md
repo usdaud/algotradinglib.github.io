@@ -26,13 +26,13 @@ The methodology of quantitative [backtesting](../b/backtesting.md) involves seve
 
 Several tools and platforms are available to facilitate quantitative [backtesting](../b/backtesting.md). Some of the notable ones include:
 
-- **QuantConnect**: A cloud-based platform that offers [backtesting](../b/backtesting.md) capabilities for multiple asset classes, including equities, forex, futures, and cryptocurrencies. More details can be found [here](https://www.quantconnect.com/).
+- **[QuantConnect](../q/quantconnect.md)**: A cloud-based platform that offers [backtesting](../b/backtesting.md) capabilities for multiple asset classes, including equities, forex, futures, and cryptocurrencies. More details can be found [here](https://www.quantconnect.com/).
 
 - **Zipline**: An open-source [backtesting](../b/backtesting.md) library in Python, which is used by the Quantopian platform. It supports a wide range of technical and fundamental data.
 
-- **Backtrader**: Another Python library that provides a comprehensive feature set for strategy development and [backtesting](../b/backtesting.md). It supports multiple brokers and data feeds.
+- **[Backtrader](../b/backtrader.md)**: Another Python library that provides a comprehensive feature set for strategy development and [backtesting](../b/backtesting.md). It supports multiple brokers and data feeds.
 
-- **TradeStation**: A commercial trading platform that offers robust [backtesting](../b/backtesting.md) features. It provides a rich set of tools for strategy development, testing, and optimization.
+- **[TradeStation](../t/tradestation.md)**: A commercial trading platform that offers robust [backtesting](../b/backtesting.md) features. It provides a rich set of tools for strategy development, testing, and optimization.
 
 - **MetaTrader**: A widely used trading platform that supports [backtesting](../b/backtesting.md) for forex and CFDs. It offers a built-in strategy tester with various optimization methods.
 
@@ -58,7 +58,7 @@ Quantitative [backtesting](../b/backtesting.md) is applied in various domains wi
 
 - **[Proprietary Trading](../p/proprietary_trading.md) Firms**: Prop trading firms like Jane Street and DRW employ [backtesting](../b/backtesting.md) to design strategies for their internal trading desks.
 
-- **Retail Traders**: Individual traders and small trading firms also use [backtesting](../b/backtesting.md) tools to develop personal [trading strategies](../t/trading_strategies.md). Platforms like MetaTrader and TradeStation are popular among retail traders.
+- **Retail Traders**: Individual traders and small trading firms also use [backtesting](../b/backtesting.md) tools to develop personal [trading strategies](../t/trading_strategies.md). Platforms like MetaTrader and [TradeStation](../t/tradestation.md) are popular among retail traders.
 
 - **Academic Research**: Researchers in finance and economics utilize [backtesting](../b/backtesting.md) to study market behaviors and validate theoretical models.
 

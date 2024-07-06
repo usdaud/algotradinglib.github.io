@@ -133,7 +133,7 @@ Platforms like MetaTrader 4/5, Interactive Brokers, and Alpaca provide APIs for 
 
 ### Real-Time Data Feeds
 
-To effectively trade bullish [reversal patterns](../r/reversal_patterns.md), access to [real-time market data](../r/real-time_market_data.md) is crucial. Real-time data feeds enable algorithms to detect patterns as they form and execute trades promptly. Data providers such as Bloomberg, Reuters, and Quandl offer real-time data services for traders.
+To effectively trade bullish [reversal patterns](../r/reversal_patterns.md), access to [real-time market data](../r/real-time_market_data.md) is crucial. Real-time data feeds enable algorithms to detect patterns as they form and execute trades promptly. Data providers such as [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), and [Quandl](../q/quandl.md) offer real-time data services for traders.
 
 ## Conclusion
 

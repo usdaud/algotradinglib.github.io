@@ -66,7 +66,7 @@ RSI measures the speed and change of price movements, oscillating between 0 and 
 ## Sentiment Analysis
 
 ### News Sentiment Analysis
-[Sentiment analysis](../s/sentiment_analysis.md) uses natural language processing (NLP) to interpret and quantify the sentiment from unstructured text data, like news articles and social media posts. Tools like IBM Watson or platforms like Bloomberg [Bloomberg](https://www.bloomberg.com/) provide APIs for integrating [sentiment analysis](../s/sentiment_analysis.md) into [trading algorithms](../t/trading_algorithms.md).
+[Sentiment analysis](../s/sentiment_analysis.md) uses natural language processing (NLP) to interpret and quantify the sentiment from unstructured text data, like news articles and social media posts. Tools like IBM Watson or platforms like [Bloomberg](../b/bloomberg.md) [Bloomberg](https://www.bloomberg.com/) provide APIs for integrating [sentiment analysis](../s/sentiment_analysis.md) into [trading algorithms](../t/trading_algorithms.md).
 
 ### Social Media Sentiment
 By analyzing [social media sentiment](../s/social_media_sentiment.md), traders can gauge market sentiment and predict how news and events may drive market movements. Tools such as Twitter API can be integrated to fetch real-time sentiment data for analysis.
@@ -85,4 +85,4 @@ Diversification spreads investments across various financial instruments, indust
 ## Conclusion
 Value analysis in [algorithmic trading](../a/algorithmic_trading.md) combines statistical, quantitative, and qualitative methods to identify profitable trading opportunities and manage risk effectively. By systematically evaluating data, traders can derive actionable insights to enhance their [trading strategies](../t/trading_strategies.md). The integration of advanced technologies, such as machine learning and NLP, further augments the precision and reliability of these techniques.
 
-For more detailed implementations and access to advanced tools and APIs, you might consider resources from industry leaders such as IBM [IBM](https://www.ibm.com/cloud/watson-natural-language-understanding), Bloomberg [Bloomberg](https://www.bloomberg.com/), and others at the forefront of financial technology innovations.
+For more detailed implementations and access to advanced tools and APIs, you might consider resources from industry leaders such as IBM [IBM](https://www.ibm.com/cloud/watson-natural-language-understanding), [Bloomberg](../b/bloomberg.md) [Bloomberg](https://www.bloomberg.com/), and others at the forefront of financial technology innovations.

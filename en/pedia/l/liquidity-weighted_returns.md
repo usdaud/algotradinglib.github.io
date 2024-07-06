@@ -65,8 +65,8 @@ When creating an [algorithmic trading](../a/algorithmic_trading.md) strategy, in
 
 Several platforms and tools are available to assist with integrating liquidity considerations into [trading algorithms](../t/trading_algorithms.md). These may include:
 
-- **QuantConnect**: Provides tools for [backtesting](../b/backtesting.md) and live trading with access to liquidity data.
-- **AlgoTrader**: An institutional-grade [algorithmic trading](../a/algorithmic_trading.md) platform that supports liquidity-adjusted [trading strategies](../t/trading_strategies.md). [Website](https://www.algotrader.com)
+- **[QuantConnect](../q/quantconnect.md)**: Provides tools for [backtesting](../b/backtesting.md) and live trading with access to liquidity data.
+- **[AlgoTrader](../a/algotrader.md)**: An institutional-grade [algorithmic trading](../a/algorithmic_trading.md) platform that supports liquidity-adjusted [trading strategies](../t/trading_strategies.md). [Website](https://www.algotrader.com)
 - **Kx Systems**: Known for its high-performance time-series database, kdb+, which can help manage large sets of trading and liquidity data. [Website](https://kx.com)
 
 ## Benefits and Challenges

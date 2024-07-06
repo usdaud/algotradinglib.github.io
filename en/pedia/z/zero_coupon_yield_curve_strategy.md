@@ -54,11 +54,11 @@ The Vasicek model is a mathematical model describing the evolution of interest r
 
 ### Data Requirements
 
-Deploying a Zero Coupon [Yield Curve](../y/yield_curve.md) Strategy requires high-quality data on bond prices, yields, and market conditions. Financial data providers like Bloomberg and Reuters offer comprehensive datasets essential for the analysis.
+Deploying a Zero Coupon [Yield Curve](../y/yield_curve.md) Strategy requires high-quality data on bond prices, yields, and market conditions. Financial data providers like [Bloomberg](../b/bloomberg.md) and [Reuters](../r/reuters.md) offer comprehensive datasets essential for the analysis.
 
 ### Computational Power
 
-Given the complexity of the required calculations, substantial computational power is crucial. Modern [quantitative trading](../q/quantitative_trading.md) platforms, such as those provided by QuantConnect ([QuantConnect](https://www.quantconnect.com/)), can facilitate the heavy computational lifting needed for this strategy.
+Given the complexity of the required calculations, substantial computational power is crucial. Modern [quantitative trading](../q/quantitative_trading.md) platforms, such as those provided by [QuantConnect](../q/quantconnect.md) ([QuantConnect](https://www.quantconnect.com/)), can facilitate the heavy computational lifting needed for this strategy.
 
 ### Algorithm Development
 

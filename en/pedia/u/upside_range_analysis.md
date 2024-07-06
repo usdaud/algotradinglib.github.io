@@ -61,16 +61,16 @@ Several tools and platforms facilitate upside range analysis for [algorithmic tr
 1. **MetaTrader:** A widely used platform offering advanced charting, [technical analysis](../t/technical_analysis.md), and automation capabilities through expert advisors (EAs).
    [MetaTrader](https://www.metatrader4.com/)
 
-2. **QuantConnect:** A cloud-based platform that provides data, [backtesting](../b/backtesting.md), and [trading algorithm development](../t/trading_algorithm_development.md) tools.
+2. **[QuantConnect](../q/quantconnect.md):** A cloud-based platform that provides data, [backtesting](../b/backtesting.md), and [trading algorithm development](../t/trading_algorithm_development.md) tools.
    [QuantConnect](https://www.quantconnect.com/)
 
-3. **NinjaTrader:** A trading platform that offers [technical analysis](../t/technical_analysis.md) tools, [backtesting](../b/backtesting.md), and automated trading system development.
+3. **[NinjaTrader](../n/ninjatrader.md):** A trading platform that offers [technical analysis](../t/technical_analysis.md) tools, [backtesting](../b/backtesting.md), and automated trading system development.
    [NinjaTrader](https://ninjatrader.com/)
 
-4. **TradingView:** A social networking and charting platform that offers extensive [technical analysis](../t/technical_analysis.md) and charting tools.
+4. **[TradingView](../t/tradingview.md):** A social networking and charting platform that offers extensive [technical analysis](../t/technical_analysis.md) and charting tools.
    [TradingView](https://www.tradingview.com/)
 
-5. **Quantlib:** An open-source library for [quantitative finance](../q/quantitative_finance.md) that supports a wide range of [financial modeling](../f/financial_modeling.md) and analysis techniques.
+5. **[Quantlib](../q/quantlib.md):** An open-source library for [quantitative finance](../q/quantitative_finance.md) that supports a wide range of [financial modeling](../f/financial_modeling.md) and analysis techniques.
    [Quantlib](https://www.quantlib.org/)
 
 ## Conclusion

@@ -78,7 +78,7 @@ Understanding spreads helps in better assessing transaction costs, potential sli
 ## 6. Tools and Software for Spread Analysis
 
 ### 6.1 Trading Platforms
-Platforms like MetaTrader, Interactive Brokers, and Thinkorswim offer built-in tools for spread analysis and strategy development.
+Platforms like MetaTrader, Interactive Brokers, and [Thinkorswim](../t/thinkorswim.md) offer built-in tools for spread analysis and strategy development.
 
 ### 6.2 Statistical Software
 Software such as MATLAB, R, Python (with libraries like pandas, statsmodels, and scikit-learn), and SAS are widely used for conducting [quantitative analysis](../q/quantitative_analysis.md) of spreads.

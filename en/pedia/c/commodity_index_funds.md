@@ -12,9 +12,9 @@ There are several prominent commodity indices that commodity index funds may tra
 
 1. **S&P GSCI (Goldman Sachs Commodity Index)**: One of the oldest and most widely followed commodity indices. It covers a broad range of commodities and is heavily weighted towards energy products like crude oil.
 
-2. **Bloomberg Commodity Index (BCOM)**: Diversified index with exposure to energy, agriculture, and metals.
+2. **[Bloomberg](../b/bloomberg.md) Commodity Index (BCOM)**: Diversified index with exposure to energy, agriculture, and metals.
 
-3. **Thomson Reuters/CoreCommodity CRB Index**: This index provides exposure to a diverse array of commodities and is often used as a benchmark for the commodity market.
+3. **Thomson [Reuters](../r/reuters.md)/CoreCommodity CRB Index**: This index provides exposure to a diverse array of commodities and is often used as a benchmark for the commodity market.
 
 4. **Rogers International Commodity Index (RICI)**: Designed to be a broad commodity index that has significant weightings in agricultural and energy commodities.
 

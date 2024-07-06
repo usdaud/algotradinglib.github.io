@@ -49,8 +49,8 @@ Successfully implementing [algorithmic trading](../a/algorithmic_trading.md) in 
 Several firms and platforms are notable for their contributions to [algorithmic trading](../a/algorithmic_trading.md) in fixed income markets:
 
 - **Tradeweb**: Tradeweb offers electronic trading platforms for [fixed income securities](../f/fixed_income_securities.md), including government bonds and corporate debt. [Tradeweb](https://www.tradeweb.com/)
-- **MarketAxess**: This platform specializes in electronic trading for global credit products and operates one of the world’s leading fixed income marketplaces. [MarketAxess](https://www.marketaxess.com/)
-- **Bloomberg Terminal**: Bloomberg’s electronic trading and analytics platform is widely used for executing fixed income strategies. [Bloomberg Professional Services](https://www.bloomberg.com/professional/)
+- **[MarketAxess](../m/marketaxess.md)**: This platform specializes in electronic trading for global credit products and operates one of the world’s leading fixed income marketplaces. [MarketAxess](https://www.marketaxess.com/)
+- **[Bloomberg](../b/bloomberg.md) Terminal**: [Bloomberg](../b/bloomberg.md)’s electronic trading and analytics platform is widely used for executing fixed income strategies. [Bloomberg Professional Services](https://www.bloomberg.com/professional/)
 - **BlackRock Aladdin**: BlackRock’s Aladdin platform offers trading, [risk management](../r/risk_management.md), and analytics for fixed income portfolios. [BlackRock Aladdin](https://www.blackrock.com/aladdin)
 
 ## Regulatory Considerations

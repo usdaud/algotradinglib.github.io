@@ -67,8 +67,8 @@ Machine learning can be leveraged to model complex spread dynamics and make [pre
 Several advanced trading platforms and financial institutions emphasize [spread analysis](../s/spread_analysis.md):
 
 - **Interactive Brokers (IBKR)**: Offers sophisticated tools for [spread analysis](../s/spread_analysis.md) to aid in precise trade execution. [Interactive Brokers](https://www.interactivebrokers.com/)
-- **TradeStation**: Provides robust analytics for understanding market spreads and integrating them into [trading strategies](../t/trading_strategies.md). [TradeStation](https://www.tradestation.com/)
-- **QuantConnect**: An [algorithmic trading](../a/algorithmic_trading.md) platform that offers data access and analytical tools for comprehensive [spread analysis](../s/spread_analysis.md). [QuantConnect](https://www.quantconnect.com/)
+- **[TradeStation](../t/tradestation.md)**: Provides robust analytics for understanding market spreads and integrating them into [trading strategies](../t/trading_strategies.md). [TradeStation](https://www.tradestation.com/)
+- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that offers data access and analytical tools for comprehensive [spread analysis](../s/spread_analysis.md). [QuantConnect](https://www.quantconnect.com/)
 
 ## Conclusion
 

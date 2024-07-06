@@ -74,11 +74,11 @@ SMAs can be employed to filter signals from other [technical analysis](../t/tech
 Many trading platforms and tools incorporate SMA indicators. Examples include:
 
 - **MetaTrader** [MetaTrader](https://www.metatrader4.com/): A widely-used trading platform that provides built-in SMA indicators.
-- **NinjaTrader** [NinjaTrader](https://ninjatrader.com/): Offers advanced trading tools and indicators, including customizable SMA.
+- **[NinjaTrader](../n/ninjatrader.md)** [NinjaTrader](https://ninjatrader.com/): Offers advanced trading tools and indicators, including customizable SMA.
 
 ### Algorithmic Trading Firms
 
-[Algorithmic trading](../a/algorithmic_trading.md) firms like **QuantConnect** [QuantConnect](https://www.quantconnect.com/) and **Quantitative Brokers** [Quantitative Brokers](https://www.quantitativebrokers.com/) use SMAs in various algorithmic strategies.
+[Algorithmic trading](../a/algorithmic_trading.md) firms like **[QuantConnect](../q/quantconnect.md)** [QuantConnect](https://www.quantconnect.com/) and **Quantitative Brokers** [Quantitative Brokers](https://www.quantitativebrokers.com/) use SMAs in various algorithmic strategies.
 
 ### Case Study: Quantitative Brokers
 

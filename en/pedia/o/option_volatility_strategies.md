@@ -70,7 +70,7 @@ Several sophisticated platforms and tools can assist traders in implementing and
 
 ### Trading Platforms
 
-- **Thinkorswim by TD Ameritrade**: An advanced platform offering powerful tools for options trading, including analysis and strategy building.
+- **[Thinkorswim](../t/thinkorswim.md) by TD Ameritrade**: An advanced platform offering powerful tools for options trading, including analysis and strategy building.
   - Website: [Thinkorswim](https://www.thinkorswim.com)
   
 - **Interactive Brokers**: Known for low-cost trading, it offers extensive tools for options traders.
@@ -84,10 +84,10 @@ Several sophisticated platforms and tools can assist traders in implementing and
 - **OptionVue**: Provides comprehensive option analytics and trading tools.
   - Website: [OptionVue](https://www.optionvue.com)
 
-- **TradeStation**: Offers robust analytics features and a powerful trading platform.
+- **[TradeStation](../t/tradestation.md)**: Offers robust analytics features and a powerful trading platform.
   - Website: [TradeStation](https://www.tradestation.com)
 
-- **LiveVol X**: An advanced volatility platform to analyze and trade options.
+- **[LiveVol](../l/livevol.md) X**: An advanced volatility platform to analyze and trade options.
   - Website: [LiveVol](https://www.livevol.com/livevol-x)
 
 ### Educational Resources

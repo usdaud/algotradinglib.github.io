@@ -72,7 +72,7 @@ Implementing Rolling [Z-Score analysis](../z/z-score_analysis.md) in [algorithmi
 
 ### Step 1: Data Collection
 
-Data collection is the first step in implementing Rolling [Z-Score analysis](../z/z-score_analysis.md). Traders need historical price data for the assets they intend to trade. This data can be obtained from various financial data providers such as Bloomberg, Alpha Vantage, or Quandl.
+Data collection is the first step in implementing Rolling [Z-Score analysis](../z/z-score_analysis.md). Traders need historical price data for the assets they intend to trade. This data can be obtained from various financial data providers such as [Bloomberg](../b/bloomberg.md), Alpha Vantage, or [Quandl](../q/quandl.md).
 
 Example with Alpha Vantage:
 

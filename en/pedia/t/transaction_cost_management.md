@@ -74,9 +74,9 @@ Technology plays a pivotal role in transaction cost management by providing adva
 
 #### Trading Platforms
 
-1. **Bloomberg Terminal**: The Bloomberg Terminal offers comprehensive tools for analyzing transaction costs, including pre-trade and [post-trade analysis](../p/post-trade_analysis.md), TCA, and [execution algorithms](../e/execution_algorithms.md).
+1. **[Bloomberg](../b/bloomberg.md) Terminal**: The [Bloomberg](../b/bloomberg.md) Terminal offers comprehensive tools for analyzing transaction costs, including pre-trade and [post-trade analysis](../p/post-trade_analysis.md), TCA, and [execution algorithms](../e/execution_algorithms.md).
 
-2. **FactSet**: FactSet provides robust TCA solutions that help traders measure and minimize transaction costs through detailed analytics and performance benchmarks.
+2. **[FactSet](../f/factset.md)**: [FactSet](../f/factset.md) provides robust TCA solutions that help traders measure and minimize transaction costs through detailed analytics and performance benchmarks.
 
 3. **ITG (Investment Technology Group)**: ITG offers a suite of tools for [transaction cost analysis](../t/transaction_cost_analysis.md), including predictive models, [execution algorithms](../e/execution_algorithms.md), and liquidity management solutions. [ITG](https://www.itg.com/)
 

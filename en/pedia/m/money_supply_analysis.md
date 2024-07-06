@@ -66,7 +66,7 @@ Several tools and resources are available for traders to incorporate money suppl
 
 - **Python Libraries**: Libraries such as Pandas and NumPy for data analysis and manipulation.
 - **R Programming**: Statistical computing tools for financial data analysis.
-- **Bloomberg Terminal**: Real-time and historical financial data including money supply metrics.
+- **[Bloomberg](../b/bloomberg.md) Terminal**: Real-time and historical financial data including money supply metrics.
 
 **6. Conclusion**
 

@@ -19,8 +19,8 @@ Mobile trading platforms are specialized software applications that facilitate w
 - [Risk management](../r/risk_management.md) tools
 Examples of prominent mobile trading platforms include:
   - **MetaTrader 4 and 5:** These platforms are popular among retail traders for their user-friendly interfaces and comprehensive trading tools.
-  - **TradingView:** Known for its advanced charting capabilities and [social trading](../s/social_trading.md) features.
-  - **TD Ameritrade’s thinkorswim:** Offers extensive analysis tools and live market data.
+  - **[TradingView](../t/tradingview.md):** Known for its advanced charting capabilities and [social trading](../s/social_trading.md) features.
+  - **TD Ameritrade’s [thinkorswim](../t/thinkorswim.md):** Offers extensive analysis tools and live market data.
 
 **3. Secure Transaction Protocols:**
 Security remains paramount in wireless trading due to the sensitive nature of financial transactions. Secure Sockets Layer (SSL) encryption, multi-factor authentication (MFA), and secure APIs (Application Programming Interfaces) are some of the security measures implemented to protect users' data and ensure secure trading environments.

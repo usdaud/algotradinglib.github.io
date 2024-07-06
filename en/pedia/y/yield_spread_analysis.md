@@ -60,7 +60,7 @@ Yield [spread analysis](../s/spread_analysis.md) in [algorithmic trading](../a/a
 
 ### Real-World Examples and Use Cases
 
-1. **[Corporate Bond Trading](../c/corporate_bond_trading.md)**: [Algorithmic trading](../a/algorithmic_trading.md) platforms like [MarketAxess](https://www.marketaxess.com/) use yield [spread analysis](../s/spread_analysis.md) to facilitate efficient trading and pricing of corporate bonds. MarketAxess’s algorithms analyze real-time and historical yield spreads to provide liquidity and execute trades for institutional investors.
+1. **[Corporate Bond Trading](../c/corporate_bond_trading.md)**: [Algorithmic trading](../a/algorithmic_trading.md) platforms like [MarketAxess](https://www.marketaxess.com/) use yield [spread analysis](../s/spread_analysis.md) to facilitate efficient trading and pricing of corporate bonds. [MarketAxess](../m/marketaxess.md)’s algorithms analyze real-time and historical yield spreads to provide liquidity and execute trades for institutional investors.
 
 2. **Treasury [Yield Curve](../y/yield_curve.md) Strategies**: Institutions like [BlackRock](https://www.blackrock.com/) and [Vanguard](https://www.vanguard.com/) employ yield [spread analysis](../s/spread_analysis.md) in managing government bond portfolios. They use algorithmic models to trade based on [yield curve](../y/yield_curve.md) movements, seeking to optimize returns in different interest rate environments.
 

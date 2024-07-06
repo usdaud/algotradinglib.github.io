@@ -34,7 +34,7 @@
 
 ### Regulatory Environment
 
-[Securities lending](../s/securities_lending.md) is subject to a variety of regulatory frameworks depending on the jurisdiction. In the US, the Securities and Exchange Commission (SEC) and the Financial Industry Regulatory Authority (FINRA) are the chief regulatory bodies. The European market falls under the scrutiny of national regulators and regulatory bodies such as the European Securities and Markets Authority (ESMA).
+[Securities lending](../s/securities_lending.md) is subject to a variety of regulatory frameworks depending on the jurisdiction. In the US, the Securities and Exchange Commission (SEC) and the Financial Industry Regulatory Authority ([FINRA](../f/finra.md)) are the chief regulatory bodies. The European market falls under the scrutiny of national regulators and regulatory bodies such as the European Securities and Markets Authority (ESMA).
 
 ### Key Players
 

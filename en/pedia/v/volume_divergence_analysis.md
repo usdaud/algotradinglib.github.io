@@ -60,11 +60,11 @@ Another scenario involves Cryptocurrency ABC, which has been in an uptrend, achi
 
 Several platforms and tools offer sophisticated charting and analytical capabilities to conduct [Volume Divergence](../v/volume_divergence.md) Analysis effectively. Here are a few:
 
-- **TradingView**: Offers extensive charting tools with a variety of indicators, including [volume analysis](../v/volume_analysis.md) tools. [TradingView](https://www.tradingview.com)
+- **[TradingView](../t/tradingview.md)**: Offers extensive charting tools with a variety of indicators, including [volume analysis](../v/volume_analysis.md) tools. [TradingView](https://www.tradingview.com)
 - **MetaTrader 4/5**: Widely used trading platforms that include customizable indicators for volume and divergence analysis. [MetaTrader](https://www.metatrader4.com)
-- **Thinkorswim by TD Ameritrade**: Provides professional-grade charting tools and [technical indicators](../t/technical_indicators.md). [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
-- **NinjaTrader**: An advanced trading platform with a wide range of built-in [technical analysis](../t/technical_analysis.md) indicators. [NinjaTrader](https://ninjatrader.com)
-- **eSignal**: Offers powerful charting tools and [real-time market data](../r/real-time_market_data.md) for intricate analysis. [eSignal](https://www.esignal.com)
+- **[Thinkorswim](../t/thinkorswim.md) by TD Ameritrade**: Provides professional-grade charting tools and [technical indicators](../t/technical_indicators.md). [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
+- **[NinjaTrader](../n/ninjatrader.md)**: An advanced trading platform with a wide range of built-in [technical analysis](../t/technical_analysis.md) indicators. [NinjaTrader](https://ninjatrader.com)
+- **[eSignal](../e/esignal.md)**: Offers powerful charting tools and [real-time market data](../r/real-time_market_data.md) for intricate analysis. [eSignal](https://www.esignal.com)
 
 ## Conclusion
 

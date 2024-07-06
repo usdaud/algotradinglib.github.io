@@ -44,9 +44,9 @@ Quarterly earnings reports are generally released in accordance with the followi
 
 Several firms specialize in providing tools and services for analyzing earnings reports in the context of [algorithmic trading](../a/algorithmic_trading.md):
 
-1. **FactSet Research Systems Inc.**: [FactSet](https://www.factset.com) offers comprehensive financial data, including earnings reports, to assist traders in making data-driven decisions.
-2. **Bloomberg L.P.**: [Bloomberg](https://www.bloomberg.com) provides an extensive range of financial information, analytics, and trading tools, including detailed earnings reports and analysis.
-3. **Thomson Reuters Eikon**: [Thomson Reuters](https://www.thomsonreuters.com) offers the Eikon platform, which provides access to a vast repository of financial data and advanced analytics.
+1. **[FactSet](../f/factset.md) Research Systems Inc.**: [FactSet](https://www.factset.com) offers comprehensive financial data, including earnings reports, to assist traders in making data-driven decisions.
+2. **[Bloomberg](../b/bloomberg.md) L.P.**: [Bloomberg](https://www.bloomberg.com) provides an extensive range of financial information, analytics, and trading tools, including detailed earnings reports and analysis.
+3. **Thomson [Reuters](../r/reuters.md) Eikon**: [Thomson Reuters](https://www.thomsonreuters.com) offers the Eikon platform, which provides access to a vast repository of financial data and advanced analytics.
 
 ## Conclusion
 

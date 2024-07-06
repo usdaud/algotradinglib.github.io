@@ -44,8 +44,8 @@ The combination of value and momentum strategies aims to capitalize on the compl
 
 ### Quantitative Tools and Software
 Several financial technology platforms offer tools to implement a value-momentum combination strategy. For example:
-- **Bloomberg Terminal (https://www.bloomberg.com/professional/solution/bloomberg-terminal/):** Provides robust screening tools to identify value and momentum stocks.
-- **FactSet (https://www.factset.com):** Offers [quantitative research](../q/quantitative_research.md) tools to build and test multi-[factor models](../f/factor_models.md).
+- **[Bloomberg](../b/bloomberg.md) Terminal (https://www.[bloomberg](../b/bloomberg.md).com/professional/solution/[bloomberg](../b/bloomberg.md)-terminal/):** Provides robust screening tools to identify value and momentum stocks.
+- **[FactSet](../f/factset.md) (https://www.[factset](../f/factset.md).com):** Offers [quantitative research](../q/quantitative_research.md) tools to build and test multi-[factor models](../f/factor_models.md).
   
 ## Real-World Applications
 

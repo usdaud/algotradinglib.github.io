@@ -50,8 +50,8 @@ Identifying trend [reversal patterns](../r/reversal_patterns.md) requires a dili
 Several tools and software platforms can aid in identifying trend reversals:
 
 - **MetaTrader**: Provides custom indicators and algorithms for analyzing market trends. [MetaTrader](https://www.metatrader4.com/)
-- **TradingView**: Offers comprehensive charting tools and community-generated scripts for [pattern recognition](../p/pattern_recognition.md). [TradingView](https://www.tradingview.com/)
-- **QuantConnect**: Allows for [algorithm design](../a/algorithm_design.md) and [backtesting](../b/backtesting.md), including [trend reversal](../t/trend_reversal.md) strategies. [QuantConnect](https://www.quantconnect.com/)
+- **[TradingView](../t/tradingview.md)**: Offers comprehensive charting tools and community-generated scripts for [pattern recognition](../p/pattern_recognition.md). [TradingView](https://www.tradingview.com/)
+- **[QuantConnect](../q/quantconnect.md)**: Allows for [algorithm design](../a/algorithm_design.md) and [backtesting](../b/backtesting.md), including [trend reversal](../t/trend_reversal.md) strategies. [QuantConnect](https://www.quantconnect.com/)
 
 ### Practical Application
 

@@ -50,7 +50,7 @@ Margin accounts enable [short selling](../s/short_selling.md), which isn't possi
 ### 5. Regulations and Requirements
 
 #### 5.1. FINRA and the SEC
-In the United States, margin trading is regulated by the Financial Industry Regulatory Authority (FINRA) and the Securities and Exchange Commission (SEC). There are strict rules governing initial and maintenance margins.
+In the United States, margin trading is regulated by the Financial Industry Regulatory Authority ([FINRA](../f/finra.md)) and the Securities and Exchange Commission (SEC). There are strict rules governing initial and maintenance margins.
 
 #### 5.2. Reg T
 Under Regulation T, the Federal Reserve Board has set margin requirements for securities transactions. This regulation allows investors to borrow up to 50% of the purchase price of securities.

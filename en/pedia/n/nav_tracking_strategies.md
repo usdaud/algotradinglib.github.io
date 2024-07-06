@@ -110,7 +110,7 @@ MSCI provides critical indices and analytical tools for NAV tracking, helping fu
 
 ### FactSet
 
-FactSet offers financial data and analytics, including real-time NAV computation tools essential for fund managers.
+[FactSet](../f/factset.md) offers financial data and analytics, including real-time NAV computation tools essential for fund managers.
 [FactSet](https://www.factset.com/)
 
 ## Challenges in NAV Tracking

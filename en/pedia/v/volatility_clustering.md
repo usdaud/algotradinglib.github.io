@@ -53,7 +53,7 @@ By factoring in volatility forecasts, portfolio managers can better balance thei
 ## Companies Specialized in Volatility Modelling
 
 ### QuantConnect
-QuantConnect is a platform that provides [algorithmic trading](../a/algorithmic_trading.md) services. It allows users to develop and backtest their [trading strategies](../t/trading_strategies.md) in a robust and scalable environment. The platform supports multiple financial instruments and includes capabilities for implementing models that account for volatility clustering.
+[QuantConnect](../q/quantconnect.md) is a platform that provides [algorithmic trading](../a/algorithmic_trading.md) services. It allows users to develop and backtest their [trading strategies](../t/trading_strategies.md) in a robust and scalable environment. The platform supports multiple financial instruments and includes capabilities for implementing models that account for volatility clustering.
 Website: [QuantConnect](https://www.quantconnect.com/)
 
 ### Numerai

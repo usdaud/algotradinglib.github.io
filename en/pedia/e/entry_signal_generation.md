@@ -64,7 +64,7 @@ To ensure the reliability of entry signals, [backtesting](../b/backtesting.md) t
 Real-time signal generation involves applying the entry signal models to live market data to execute trades.
 
 ### 3.1 Data Streaming
-- **Market Data Providers**: Organizations like Bloomberg [link](https://www.bloomberg.com), and Reuters [link](https://www.reuters.com) provide [real-time market data](../r/real-time_market_data.md).
+- **Market Data Providers**: Organizations like [Bloomberg](../b/bloomberg.md) [link](https://www.bloomberg.com), and [Reuters](../r/reuters.md) [link](https://www.reuters.com) provide [real-time market data](../r/real-time_market_data.md).
   
 ### 3.2 Latency Concerns
 - **Execution Delay**: The time lag between signal generation and order execution can impact profitability.
@@ -90,5 +90,5 @@ Effective entry signal generation is incomplete without robust [risk management]
 Entry signal generation is a complex yet vital aspect of [algorithmic trading](../a/algorithmic_trading.md), involving a mix of [technical analysis](../t/technical_analysis.md), statistical methods, machine learning, and [risk management](../r/risk_management.md) techniques. By meticulously combining these elements and rigorously testing them, traders can develop robust strategies to navigate the financial markets efficiently.
 
 For further reading and practical application, refer to domain-specific resources such as the following companies:
-- QuantConnect [link](https://www.quantconnect.com)
+- [QuantConnect](../q/quantconnect.md) [link](https://www.quantconnect.com)
 - Alpaca [link](https://alpaca.markets)

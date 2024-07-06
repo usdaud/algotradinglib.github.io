@@ -48,7 +48,7 @@ An investor must first identify the factors they believe will drive superior ret
 
 ### 2. Data Collection
 
-Collecting high-quality data is crucial. This includes historical financial and market data, which can be sourced from databases such as Bloomberg, Morningstar, or CRSP.
+Collecting high-quality data is crucial. This includes historical financial and market data, which can be sourced from databases such as [Bloomberg](../b/bloomberg.md), [Morningstar](../m/morningstar.md), or CRSP.
 
 ### 3. Model Building
 

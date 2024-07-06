@@ -105,7 +105,7 @@ Before deploying any WMA-based strategy, thorough [backtesting](../b/backtesting
 For real-time trading, careful implementation is necessary to manage risks and ensure reliability.
 
 - **Latency**: Choose a platform and broker with low latency to execute trades promptly.
-- **Automation**: Use robust automation tools. Popular platforms include MetaTrader (https://www.metatrader4.com/), NinjaTrader (https://ninjatrader.com/), and QuantConnect (https://www.quantconnect.com/).
+- **Automation**: Use robust automation tools. Popular platforms include MetaTrader (https://www.[metatrader4](../m/metatrader4.md).com/), [NinjaTrader](../n/ninjatrader.md) (https://[ninjatrader](../n/ninjatrader.md).com/), and [QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/).
 - **[Risk Management](../r/risk_management.md)**: Implement rigorous [risk management](../r/risk_management.md) protocols, including [stop-loss orders](../s/stop-loss_orders.md) and [position sizing](../p/position_sizing.md).
 
 ### Continuous Monitoring and Adjustment

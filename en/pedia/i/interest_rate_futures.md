@@ -1,6 +1,6 @@
 # Interest Rate Futures
 
-Interest rate futures are financial derivatives that represent the market's expectation of future interest rates. They are standardized contracts traded on exchanges such as the Chicago Board of Trade (CBOT) and the London International Financial Futures Exchange (LIFFE). These contracts obligate the buyer or seller to transact a specified amount of a particular interest-bearing instrument, such as government bonds or treasury notes, at a predetermined price on a specified date in the future.
+Interest rate futures are financial [derivatives](../d/derivatives.md) that represent the market's expectation of future interest rates. They are standardized contracts traded on exchanges such as the Chicago Board of Trade (CBOT) and the London International Financial Futures Exchange (LIFFE). These contracts obligate the buyer or seller to transact a specified amount of a particular interest-bearing instrument, such as government bonds or treasury notes, at a predetermined price on a specified date in the future.
 
 Interest rate futures are widely used by institutional investors, traders, and portfolio managers for [hedging interest rate risk](../h/hedging_interest_rate_risk.md), speculating on interest rate movements, and gaining exposure to fixed income markets. They provide a mechanism to offset the risk of fluctuating interest rates, which can affect the value of interest-sensitive assets like bonds and loans.
 

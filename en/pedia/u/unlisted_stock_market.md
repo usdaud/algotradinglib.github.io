@@ -47,7 +47,7 @@ Despite the risks, unlisted stocks offer several advantages:
 ### Regulatory Environment
 The unlisted stock market is governed by a patchwork of federal and state regulations. Key regulatory bodies include:
 - **Securities and Exchange Commission (SEC)**: The SEC oversees the OTC markets to ensure compliance with federal securities laws.
-- **Financial Industry Regulatory Authority (FINRA)**: FINRA regulates broker-dealers to maintain fair and honest conditions in the market.
+- **Financial Industry Regulatory Authority ([FINRA](../f/finra.md))**: [FINRA](../f/finra.md) regulates broker-dealers to maintain fair and honest conditions in the market.
 
 ### Technological Innovations
 Recent technological advancements have significantly impacted the unlisted stock market. Key innovations include:

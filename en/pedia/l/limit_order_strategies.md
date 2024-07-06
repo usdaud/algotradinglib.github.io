@@ -54,7 +54,7 @@ Algorithms detect trends based on historical price movements, placing limit orde
 
 ### Algorithm Development
 
-- **QuantConnect**: [QuantConnect](https://www.quantconnect.com/) offers cloud-based tools for developing, testing, and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies.
+- **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](https://www.quantconnect.com/) offers cloud-based tools for developing, testing, and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies.
 - **Quantopian**: Although closed in 2020, it provided popular resources for [algorithmic trading](../a/algorithmic_trading.md).
 - **MetaTrader 5**: A leading trading platform supporting custom [algorithmic trading](../a/algorithmic_trading.md) strategies with MQL5.
 

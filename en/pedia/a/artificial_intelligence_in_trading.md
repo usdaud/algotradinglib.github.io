@@ -101,5 +101,5 @@ Artificial Intelligence (AI) has revolutionized many industries, and trading is 
 4. **Numerai**:
    [Numerai](https://numer.ai/) leverages crowd-sourced AI models to predict financial markets, incentivizing data scientists to contribute their models.
 
-5. **QuantConnect**:
+5. **[QuantConnect](../q/quantconnect.md)**:
    [QuantConnect](https://www.quantconnect.com/) provides an open platform for [algorithmic trading](../a/algorithmic_trading.md) and collaborates with a global community of quants and developers.

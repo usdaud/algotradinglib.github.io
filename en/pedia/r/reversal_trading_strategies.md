@@ -45,14 +45,14 @@ Reversals can also be identified through [pattern recognition](../p/pattern_reco
 
 Advanced trading platforms and software are used to implement and execute reversal [trading strategies](../t/trading_strategies.md). These platforms provide real-time data, charting tools, and automation capabilities. Leading trading platforms include:
 - **MetaTrader:** A popular trading platform offering a range of indicators and automated trading capabilities.
-- **NinjaTrader:** A trading platform known for its advanced charting tools and [algorithmic trading](../a/algorithmic_trading.md) support.
-- **QuantConnect:** A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to develop and backtest [trading strategies](../t/trading_strategies.md) using various data sources and programming languages.
+- **[NinjaTrader](../n/ninjatrader.md):** A trading platform known for its advanced charting tools and [algorithmic trading](../a/algorithmic_trading.md) support.
+- **[QuantConnect](../q/quantconnect.md):** A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to develop and backtest [trading strategies](../t/trading_strategies.md) using various data sources and programming languages.
 
 ### 3.2 Backtesting and Optimization
 
 [Backtesting](../b/backtesting.md) is a critical component in the development of reversal [trading strategies](../t/trading_strategies.md). It involves testing the strategy on historical data to evaluate its performance and make necessary adjustments. Optimization tools help in fine-tuning the strategy parameters to enhance performance. Some useful [backtesting](../b/backtesting.md) and optimization tools include:
-- **Amibroker:** A powerful tool for [backtesting](../b/backtesting.md) and optimizing [trading strategies](../t/trading_strategies.md).
-- **TradingView:** A web-based platform offering charting and [backtesting](../b/backtesting.md) tools.
+- **[Amibroker](../a/amibroker.md):** A powerful tool for [backtesting](../b/backtesting.md) and optimizing [trading strategies](../t/trading_strategies.md).
+- **[TradingView](../t/tradingview.md):** A web-based platform offering charting and [backtesting](../b/backtesting.md) tools.
 - **MATLAB:** A high-performance language for technical computing, widely used in [algorithmic trading](../a/algorithmic_trading.md) for [backtesting](../b/backtesting.md) and optimization.
 
 ## Section 4: Implementing Reversal Trading Strategies

@@ -43,7 +43,7 @@ Optimizing limit orders involves a series of sophisticated techniques and consid
 
 ### 1. Trading Platforms and Bots
    - **Interactive Brokers**: Offers sophisticated trading tools and algorithms for limit order optimization. [Interactive Brokers](https://www.interactivebrokers.com/)
-   - **QuantConnect**: A [quantitative trading](../q/quantitative_trading.md) platform supporting algorithm creation and [backtesting](../b/backtesting.md). [QuantConnect](https://www.quantconnect.com/)
+   - **[QuantConnect](../q/quantconnect.md)**: A [quantitative trading](../q/quantitative_trading.md) platform supporting algorithm creation and [backtesting](../b/backtesting.md). [QuantConnect](https://www.quantconnect.com/)
 
 ### 2. Data Analytics Tools
    - **Pandas**: A Python library for data analysis, instrumental in processing stock market data.

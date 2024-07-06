@@ -66,8 +66,8 @@ Standard VWAP becomes less meaningful as an intraday tool in volatile markets wh
 
 Several trading platforms and software tools provide functionalities to compute and use Anchored VWAP. Notable among these are:
 
-- **TradingView:** TradingView offers extensive charting capabilities, including the use of custom indicators like Anchored VWAP. [More Information](https://www.tradingview.com)
-- **Thinkorswim:** Provided by TD Ameritrade, this trading platform offers customization options for [technical indicators](../t/technical_indicators.md), allowing traders to apply Anchored VWAP. [More Information](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
+- **[TradingView](../t/tradingview.md):** [TradingView](../t/tradingview.md) offers extensive charting capabilities, including the use of custom indicators like Anchored VWAP. [More Information](https://www.tradingview.com)
+- **[Thinkorswim](../t/thinkorswim.md):** Provided by TD Ameritrade, this trading platform offers customization options for [technical indicators](../t/technical_indicators.md), allowing traders to apply Anchored VWAP. [More Information](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
 - **MetaTrader:** MetaTrader 4 and 5 platforms support custom indicators and scripts that can calculate Anchored VWAP. [More Information](https://www.metatrader4.com)
 - **Sierra Chart:** Known for its robustness in handling various data feeds and custom indicators, Sierra Chart is another platform where traders can use Anchored VWAP. [More Information](https://www.sierrachart.com)
 

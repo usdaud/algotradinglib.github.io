@@ -110,7 +110,7 @@ When anticipating an increase in volatility, traders might create positions with
 
 Modern algotrading leverages various software and tools for effective implementation:
 - **[Risk Management](../r/risk_management.md) Platforms**: Such as Imagine Software ([Imagine Software](https://www.imaginesoftware.com/)) offering real-time risk analytics.
-- **[Trading Algorithms](../t/trading_algorithms.md)**: Utilized in platforms like QuantConnect ([QuantConnect](https://www.quantconnect.com/)) for developing and [backtesting](../b/backtesting.md) strategies.
+- **[Trading Algorithms](../t/trading_algorithms.md)**: Utilized in platforms like [QuantConnect](../q/quantconnect.md) ([QuantConnect](https://www.quantconnect.com/)) for developing and [backtesting](../b/backtesting.md) strategies.
 
 ## Conclusion
 

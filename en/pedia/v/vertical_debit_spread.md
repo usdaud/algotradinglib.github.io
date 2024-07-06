@@ -77,9 +77,9 @@ Implied volatility (IV) plays a significant role in the pricing of options and c
 
 Several platforms and tools are available for traders looking to implement Vertical Debit Spreads algorithmically. Some popular options include:
 
-1. **QuantConnect**: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple markets and offers extensive [backtesting](../b/backtesting.md) capabilities. (https://www.quantconnect.com/)
-2. **AlgoTrader**: A trading platform specializing in [algorithmic trading](../a/algorithmic_trading.md), supporting automated trading on futures and options markets. (https://www.algotrader.com/)
-3. **TradeStation**: Known for robust trading software and range of products suitable for automating options strategies. (https://www.tradestation.com/)
+1. **[QuantConnect](../q/quantconnect.md)**: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple markets and offers extensive [backtesting](../b/backtesting.md) capabilities. (https://www.[quantconnect](../q/quantconnect.md).com/)
+2. **[AlgoTrader](../a/algotrader.md)**: A trading platform specializing in [algorithmic trading](../a/algorithmic_trading.md), supporting automated trading on futures and options markets. (https://www.[algotrader](../a/algotrader.md).com/)
+3. **[TradeStation](../t/tradestation.md)**: Known for robust trading software and range of products suitable for automating options strategies. (https://www.[tradestation](../t/tradestation.md).com/)
 4. **Interactive Brokers**: Offers API access to automate trading and supports [options trading strategies](../o/options_trading_strategies.md) such as Vertical Debit Spreads. (https://www.interactivebrokers.com/)
 
 ## Conclusion

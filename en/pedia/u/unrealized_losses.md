@@ -72,7 +72,7 @@ High-frequency trading (HFT) firms employ algorithms to execute a large number o
 
 ### Retail Algorithmic Trading Platforms
 
-Platforms like QuantConnect or AlgoTrader provide individual traders and smaller institutions with the tools to develop and deploy their own algorithms. These platforms often include features to monitor unrealized losses, stress-test strategies, and conduct backtests to optimize performance.
+Platforms like [QuantConnect](../q/quantconnect.md) or [AlgoTrader](../a/algotrader.md) provide individual traders and smaller institutions with the tools to develop and deploy their own algorithms. These platforms often include features to monitor unrealized losses, stress-test strategies, and conduct backtests to optimize performance.
 
 - [QuantConnect](https://www.quantconnect.com/)
 - [AlgoTrader](https://www.algotrader.com/)

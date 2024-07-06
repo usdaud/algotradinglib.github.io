@@ -74,7 +74,7 @@ Example: [MIT Financial Engineering](https://mitsloan.mit.edu/financial-engineer
 Several tools are now available for implementing advanced [volatility models](../v/volatility_models.md):
 
 - **R and Python:** Packed with libraries like `rugarch` in R and `arch` in Python for volatility modeling.
-- **QuantLib:** An open-source library for [quantitative finance](../q/quantitative_finance.md), which includes modules for volatility modeling.
+- **[QuantLib](../q/quantlib.md):** An open-source library for [quantitative finance](../q/quantitative_finance.md), which includes modules for volatility modeling.
 - **Proprietary Software:** Platforms like Matlab and SAS also offer sophisticated modules for [volatility analysis](../v/volatility_analysis.md).
 
 Example: [QuantLib](https://www.quantlib.org)

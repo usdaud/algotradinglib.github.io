@@ -132,8 +132,8 @@ A U.S.-based fund has a significant exposure to European equities valued at €5
 
 Modern [portfolio management](../p/portfolio_management.md) tools offer integrated hedging functionalities:
 
-- **Bloomberg Terminal**: Offers comprehensive tools for risk assessment, derivative pricing, and real-time monitoring.
-- **FactSet**: Provides advanced analytics and [risk management](../r/risk_management.md) tools for portfolio hedging.
+- **[Bloomberg](../b/bloomberg.md) Terminal**: Offers comprehensive tools for risk assessment, derivative pricing, and real-time monitoring.
+- **[FactSet](../f/factset.md)**: Provides advanced analytics and [risk management](../r/risk_management.md) tools for portfolio hedging.
 - [Morningstar Direct](https://www.morningstar.com/products): Combines risk assessment and [portfolio optimization](../p/portfolio_optimization.md) with robust hedging capabilities.
 
 ## Challenges and Considerations in Portfolio Hedging

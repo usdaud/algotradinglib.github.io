@@ -83,17 +83,17 @@ Continual monitoring and rebalancing are crucial. Key steps include:
 
 Keeping abreast of market news and trends is crucial. Resources include:
 
-- **Bloomberg** [www.bloomberg.com](https://www.bloomberg.com)
+- **[Bloomberg](../b/bloomberg.md)** [www.bloomberg.com](https://www.bloomberg.com)
 - **Yahoo Finance** [finance.yahoo.com](https://finance.yahoo.com)
-- **Reuters** [www.reuters.com](https://www.reuters.com)
+- **[Reuters](../r/reuters.md)** [www.reuters.com](https://www.reuters.com)
 
 ### Analytical Tools
 
 Various tools and platforms can help in analyzing and managing growth investments:
 
-- **Morningstar** [www.morningstar.com](https://www.morningstar.com) - Provides detailed analysis and reports.
+- **[Morningstar](../m/morningstar.md)** [www.morningstar.com](https://www.morningstar.com) - Provides detailed analysis and reports.
 - **Seeking Alpha** [www.seekingalpha.com](https://www.seekingalpha.com) - Offers stock analysis and market insights.
-- **FactSet** [www.factset.com](https://www.factset.com) - Delivers comprehensive data and analytics.
+- **[FactSet](../f/factset.md)** [www.factset.com](https://www.factset.com) - Delivers comprehensive data and analytics.
 
 ## Notable Growth Investors and Their Strategies
 

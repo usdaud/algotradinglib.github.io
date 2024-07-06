@@ -6,7 +6,7 @@ The Adaptive Market Hypothesis (AMH) is an influential and evolving theory in [f
 
 ## Origins and Basic Tenets
 
-**Andrew W. Lo's Contribution:** The genesis of the AMH can be traced back to the seminal works of Andrew W. Lo. He proposed that financial markets should be understood through the lens of Darwinian evolution, where market participants adapt to their environment in a manner akin to a biological system. Investors and financial markets evolve, adapt to new information, and undergo selection pressures that dictate their behavior and strategies over time.
+**Andrew W. Lo's Contribution:** The [genesis](../g/genesis.md) of the AMH can be traced back to the seminal works of Andrew W. Lo. He proposed that financial markets should be understood through the lens of Darwinian evolution, where market participants adapt to their environment in a manner akin to a biological system. Investors and financial markets evolve, adapt to new information, and undergo selection pressures that dictate their behavior and strategies over time.
 
 **Core Principles:**
 1. **[Market Efficiency](../m/market_efficiency.md) is Variable:** Unlike EMH, which posits that markets are always efficient, AMH asserts that the level of [market efficiency](../m/market_efficiency.md) is not static. It varies according to the types of traders, their available information, and prevailing market conditions.

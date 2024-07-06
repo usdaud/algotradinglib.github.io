@@ -98,7 +98,7 @@ def moving_average_crossover_strategy(prices, short_window=40, long_window=100):
 ## Real-World Applications and Companies
 
 ### 1. QuantConnect
-QuantConnect is a popular [algorithmic trading](../a/algorithmic_trading.md) platform providing tools for [backtesting](../b/backtesting.md) and deploying [trading algorithms](../t/trading_algorithms.md). It supports a wide range of financial instruments and indicators for identifying uptrends.
+[QuantConnect](../q/quantconnect.md) is a popular [algorithmic trading](../a/algorithmic_trading.md) platform providing tools for [backtesting](../b/backtesting.md) and deploying [trading algorithms](../t/trading_algorithms.md). It supports a wide range of financial instruments and indicators for identifying uptrends.
 
 Website: [QuantConnect](https://www.quantconnect.com)
 
@@ -108,7 +108,7 @@ Alpaca offers commission-free trading and [portfolio management](../p/portfolio_
 Website: [Alpaca](https://alpaca.markets)
 
 ### 3. TradingView
-TradingView is a social network for traders and investors offering advanced charting tools and indicators. It allows users to implement uptrend detection algorithms using its script language, Pine Script.
+[TradingView](../t/tradingview.md) is a social network for traders and investors offering advanced charting tools and indicators. It allows users to implement uptrend detection algorithms using its script language, Pine Script.
 
 Website: [TradingView](https://www.tradingview.com)
 

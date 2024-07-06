@@ -32,7 +32,7 @@ Joint entropy can also be used for [risk management](../r/risk_management.md). B
 
 #### Data Collection
 
-The first step in calculating joint entropy is to gather historical price data for the assets in question. This data can be obtained from various financial data providers such as Bloomberg, Reuters, or Yahoo Finance. The data should be in the form of time series representing the prices or returns of the assets over a specific period.
+The first step in calculating joint entropy is to gather historical price data for the assets in question. This data can be obtained from various financial data providers such as [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), or Yahoo Finance. The data should be in the form of time series representing the prices or returns of the assets over a specific period.
 
 #### Probability Distribution Estimation
 

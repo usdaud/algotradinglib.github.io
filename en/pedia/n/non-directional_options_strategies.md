@@ -62,7 +62,7 @@ A Box Spread is a risk-free [arbitrage](../a/arbitrage.md) strategy often used b
 ## Tools and Software for Non-Directional Trading
 
 ### Trading Platforms
-Platforms like Thinkorswim by TD Ameritrade ([TD Ameritrade](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)) and Interactive Brokers’ Trader Workstation ([Interactive Brokers](https://www.interactivebrokers.com/en/index.php?f=4985)) offer advanced tools for [backtesting](../b/backtesting.md), analyzing, and executing non-directional options trades.
+Platforms like [Thinkorswim](../t/thinkorswim.md) by TD Ameritrade ([TD Ameritrade](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)) and Interactive Brokers’ Trader Workstation ([Interactive Brokers](https://www.interactivebrokers.com/en/index.php?f=4985)) offer advanced tools for [backtesting](../b/backtesting.md), analyzing, and executing non-directional options trades.
 
 ### Options Analytics Software
 Software such as OptionVue ([OptionVue](https://www.optionvue.com/)) and OptionsPlay ([OptionsPlay](https://www.optionsplay.com/)) provides sophisticated analytics, Greeks calculations, and strategy simulations to help traders plan and manage their options positions.

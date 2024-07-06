@@ -48,10 +48,10 @@ Hedging Vega risk involves strategies that reduce the sensitivity of the portfol
 
 Several tools and platforms are available to assist in Vega [risk management](../r/risk_management.md):
 
-1. **Bloomberg Terminal:** Provides comprehensive data and analytics, including implied volatility surfaces and options Greeks, for effective Vega [risk management](../r/risk_management.md).
+1. **[Bloomberg](../b/bloomberg.md) Terminal:** Provides comprehensive data and analytics, including implied volatility surfaces and options Greeks, for effective Vega [risk management](../r/risk_management.md).
    [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
-2. **ThinkOrSwim by TD Ameritrade:** An advanced trading platform with features for options analysis, volatility studies, and real-time data.
+2. **[ThinkOrSwim](../t/thinkorswim.md) by TD Ameritrade:** An advanced trading platform with features for options analysis, volatility studies, and real-time data.
    [ThinkOrSwim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.html)
 
 3. **OptionsHouse by E*TRADE:** Offers powerful tools and analytics for options traders to manage and hedge Vega risk.

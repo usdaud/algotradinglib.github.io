@@ -51,11 +51,11 @@ Charles Schwab integrates sophisticated trading tools and APIs suitable for algo
 - [Charles Schwab](https://www.schwab.com)
 
 ### TradeStation
-TradeStation is known for its powerful trading platforms and tools designed specifically for algorithmic traders. Their offerings include advanced order management and [backtesting](../b/backtesting.md) capabilities.
+[TradeStation](../t/tradestation.md) is known for its powerful trading platforms and tools designed specifically for algorithmic traders. Their offerings include advanced order management and [backtesting](../b/backtesting.md) capabilities.
 - [TradeStation](https://www.tradestation.com)
 
 ### TD Ameritrade
-TD Ameritrade provides a highly customizable trading platform, thinkorswim, which offers features suitable for algorithmic traders, such as advanced charting and [risk management](../r/risk_management.md) tools.
+TD Ameritrade provides a highly customizable trading platform, [thinkorswim](../t/thinkorswim.md), which offers features suitable for algorithmic traders, such as advanced charting and [risk management](../r/risk_management.md) tools.
 - [TD Ameritrade](https://www.tdameritrade.com)
 
 ### Fidelity Investments
@@ -91,13 +91,13 @@ Every trader has unique needs and preferences. Brokers provide customizable envi
 
 - Personalized Dashboards: Allows traders to monitor essential metrics and information relevant to their strategies.
 - Modular Platforms: Traders can add or remove functionalities and tools as per their requirements.
-- Scriptable Strategies: Platforms support scripting languages (like Pine Script in TradingView) that let traders write and automate their strategies.
+- Scriptable Strategies: Platforms support scripting languages (like Pine Script in [TradingView](../t/tradingview.md)) that let traders write and automate their strategies.
 
 ### Security and Compliance
 Security and compliance are paramount in the financial industry. Brokerage services ensure:
 
 - Secure Data Transmission: Use of encryption protocols to protect data integrity and confidentiality.
-- Regulatory Compliance: Guardrails to ensure trading activities abide by pertinent regulations, such as those imposed by the SEC, FINRA, and international regulators.
+- Regulatory Compliance: Guardrails to ensure trading activities abide by pertinent regulations, such as those imposed by the SEC, [FINRA](../f/finra.md), and international regulators.
 - Audit Trails: Comprehensive logs of all trading activities, ensuring transparency and accountability.
 
 ### Educational and Advisory Services

@@ -62,7 +62,7 @@ Investment banks like Goldman Sachs and Morgan Stanley utilize layered strategie
 Successful implementation of layered investment strategies in [algorithmic trading](../a/algorithmic_trading.md) requires a robust technology stack:
 
 1. **Data Sources:**
-   - **Market Data Feeds:** Real-time and historical data providers, including Bloomberg, Reuters, and proprietary sources.
+   - **Market Data Feeds:** Real-time and historical data providers, including [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), and proprietary sources.
    - **[Alternative Data](../a/alternative_data.md):** [Non-traditional data sources](../n/non-traditional_data_sources.md), such as [social media sentiment](../s/social_media_sentiment.md), satellite imagery, and transaction data.
 
 2. **Computational Infrastructure:**

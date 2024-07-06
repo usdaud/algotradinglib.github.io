@@ -52,7 +52,7 @@ Identifying failure swings requires monitoring RSI movements closely. Traders ne
 
 2. **[Backtesting](../b/backtesting.md)**: Before deploying any algorithm, perform rigorous [backtesting](../b/backtesting.md) using historical data to ensure that the algorithm behaves as expected under different market conditions. This will help in refining the thresholds and signals further.
 
-3. **Real-time Monitoring**: Utilize real-time data feeds to monitor market conditions. Tools like `Alpha Vantage` or `Quandl` provide live market data that can be integrated into [trading algorithms](../t/trading_algorithms.md).
+3. **Real-time Monitoring**: Utilize real-time data feeds to monitor market conditions. Tools like `Alpha Vantage` or `[Quandl](../q/quandl.md)` provide live market data that can be integrated into [trading algorithms](../t/trading_algorithms.md).
 
 4. **[Risk Management](../r/risk_management.md)**: Incorporate [risk management](../r/risk_management.md) rules within the algorithm to handle unexpected market volatility. This includes setting [stop-loss orders](../s/stop-loss_orders.md), defining maximum risk per trade, and deciding on position sizes.
 

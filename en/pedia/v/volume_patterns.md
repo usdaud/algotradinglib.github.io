@@ -69,7 +69,7 @@ Several [technical indicators](../t/technical_indicators.md) utilize volume patt
 
 ### Data Collection and Preprocessing
 
-- **Data Sources**: Reliable volume data is crucial and can be sourced from financial exchanges, data providers, or APIs (e.g., Bloomberg, Yahoo Finance, or Alpha Vantage).
+- **Data Sources**: Reliable volume data is crucial and can be sourced from financial exchanges, data providers, or APIs (e.g., [Bloomberg](../b/bloomberg.md), Yahoo Finance, or Alpha Vantage).
 - **Normalization**: Volume data should be normalized to account for varying trading hours, daylight saving adjustments, and corporate actions like stock splits.
 
 ### Strategy Development

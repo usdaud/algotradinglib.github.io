@@ -18,8 +18,8 @@ At the heart of uptick analysis lies the concept of the uptick itself. In financ
 
 Accurate and timely data is essential for effective uptick analysis. Several financial data providers offer real-time and historical trade data, including:
 
-- **Bloomberg**: Provides comprehensive trading data and analytics tools for uptick analysis. Visit [Bloomberg](https://www.bloomberg.com) for more information.
-- **Thomson Reuters**: Offers real-time trade data and analytics products suitable for uptick analysis. More details can be found at [Thomson Reuters](https://www.reuters.com).
+- **[Bloomberg](../b/bloomberg.md)**: Provides comprehensive trading data and analytics tools for uptick analysis. Visit [Bloomberg](https://www.bloomberg.com) for more information.
+- **Thomson [Reuters](../r/reuters.md)**: Offers real-time trade data and analytics products suitable for uptick analysis. More details can be found at [Thomson Reuters](https://www.reuters.com).
 - **NASDAQ**: Provides detailed market data, including uptick and downtick information. You can explore their offerings at [NASDAQ](https://www.nasdaq.com).
 
 ### Algorithms Utilizing Uptick Analysis

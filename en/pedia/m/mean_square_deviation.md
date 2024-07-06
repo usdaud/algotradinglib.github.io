@@ -69,7 +69,7 @@ print(f"Mean Square Deviation: {msd}")
 
 Several trading firms and platforms utilize MSD as part of their model development and evaluation processes:
 
-- **QuantConnect**: This [algorithmic trading](../a/algorithmic_trading.md) platform offers tools and resources to develop, backtest, and live trade various strategies. QuantConnect supports the use of statistical metrics, including MSD, for model evaluation ([QuantConnect](https://www.quantconnect.com/)).
+- **[QuantConnect](../q/quantconnect.md)**: This [algorithmic trading](../a/algorithmic_trading.md) platform offers tools and resources to develop, backtest, and live trade various strategies. [QuantConnect](../q/quantconnect.md) supports the use of statistical metrics, including MSD, for model evaluation ([QuantConnect](https://www.quantconnect.com/)).
 
 - **WorldQuant**: A global investment management firm that leverages quantitative methods, including careful analysis of MSD, to build and optimize [trading algorithms](../t/trading_algorithms.md) ([WorldQuant](https://www.worldquant.com/)).
 

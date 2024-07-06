@@ -23,7 +23,7 @@ The concept of X-Order Flow refers to the analysis and interpretation of order f
 
 1. **Bookmap**: A sophisticated trading platform that visually represents order book data and order flow, helping traders see the depth of the market. [Bookmap](https://bookmap.com)
 2. **Jigsaw Trading**: Provides tools specifically designed for [order flow analysis](../o/order_flow_analysis.md), including advanced DOM (Depth of Market) and reconstructed tape. [Jigsaw Trading](https://www.jigsawtrading.com)
-3. **QuantConnect**: A [quantitative trading](../q/quantitative_trading.md) platform that supports robust algorithms incorporating [order flow analysis](../o/order_flow_analysis.md). [QuantConnect](https://www.quantconnect.com)
+3. **[QuantConnect](../q/quantconnect.md)**: A [quantitative trading](../q/quantitative_trading.md) platform that supports robust algorithms incorporating [order flow analysis](../o/order_flow_analysis.md). [QuantConnect](https://www.quantconnect.com)
 
 ### Key Metrics in Order Flow Analysis
 
@@ -48,4 +48,4 @@ The concept of X-Order Flow refers to the analysis and interpretation of order f
 ### Conclusion
 X-[Order Flow analysis](../o/order_flow_analysis.md) is a powerful technique in [algorithmic trading](../a/algorithmic_trading.md), offering traders deeper insights into market dynamics than traditional methods. By incorporating order flow data and tools designed to facilitate its analysis, traders can develop more informed and potentially more profitable [trading strategies](../t/trading_strategies.md).
 
-For further exploration and practical implementations, traders can leverage platforms like Bookmap, Jigsaw Trading, and QuantConnect, each offering unique features tailored to [order flow analysis](../o/order_flow_analysis.md).
+For further exploration and practical implementations, traders can leverage platforms like Bookmap, Jigsaw Trading, and [QuantConnect](../q/quantconnect.md), each offering unique features tailored to [order flow analysis](../o/order_flow_analysis.md).

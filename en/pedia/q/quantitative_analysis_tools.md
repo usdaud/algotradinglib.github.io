@@ -31,7 +31,7 @@ MATLAB is a high-level programming language and environment used for numerical c
 
 ### QuantLib
 
-QuantLib is an open-source library for [quantitative finance](../q/quantitative_finance.md). It provides tools for the valuation of financial instruments, managing financial data, and executing complex financial computations. QuantLib is widely used in academic research and by practitioners in the finance industry.
+[QuantLib](../q/quantlib.md) is an open-source library for [quantitative finance](../q/quantitative_finance.md). It provides tools for the valuation of financial instruments, managing financial data, and executing complex financial computations. [QuantLib](../q/quantlib.md) is widely used in academic research and by practitioners in the finance industry.
 
 - [QuantLib](https://www.quantlib.org/): Official site.
 
@@ -45,19 +45,19 @@ ALGLIB is a cross-platform open-source library for numerical analysis. It suppor
 
 ### Quandl
 
-Quandl provides a platform for financial, economic, and alternative datasets. Users can access a vast array of high-quality datasets via API. Quandl caters to quantitative analysts and offers [data integration](../d/data_integration.md) with popular programming environments such as Python and R.
+[Quandl](../q/quandl.md) provides a platform for financial, economic, and alternative datasets. Users can access a vast array of high-quality datasets via API. [Quandl](../q/quandl.md) caters to quantitative analysts and offers [data integration](../d/data_integration.md) with popular programming environments such as Python and R.
 
 - [Quandl](https://www.quandl.com/): Official website.
 
 ### Bloomberg Terminal
 
-The Bloomberg Terminal is a high-end data service providing [real-time market data](../r/real-time_market_data.md), financial news, and analysis tools. It’s widely used by financial professionals for in-depth research and trading. The terminal offers extensive [data visualization](../d/data_visualization.md) tools and robust APIs for integration with custom models and algorithms.
+The [Bloomberg](../b/bloomberg.md) Terminal is a high-end data service providing [real-time market data](../r/real-time_market_data.md), financial news, and analysis tools. It’s widely used by financial professionals for in-depth research and trading. The terminal offers extensive [data visualization](../d/data_visualization.md) tools and robust APIs for integration with custom models and algorithms.
 
 - [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/): Product page.
 
 ### FactSet
 
-FactSet is a financial data and software company that provides analytics and financial content. It offers integrated data and tools for [portfolio management](../p/portfolio_management.md), [quantitative analysis](../q/quantitative_analysis.md), and [risk management](../r/risk_management.md). FactSet’s API allows users to pull data directly into their analytical tools and models.
+[FactSet](../f/factset.md) is a financial data and software company that provides analytics and financial content. It offers integrated data and tools for [portfolio management](../p/portfolio_management.md), [quantitative analysis](../q/quantitative_analysis.md), and [risk management](../r/risk_management.md). [FactSet](../f/factset.md)’s API allows users to pull data directly into their analytical tools and models.
 
 - [FactSet](https://www.factset.com/): Official website.
 
@@ -85,7 +85,7 @@ Keras is an open-source software library that provides a Python interface for [a
 
 ### Backtrader
 
-Backtrader is a Python-based [backtesting](../b/backtesting.md) framework for trading and strategy development. It supports equity and futures trading and provides tools for integrating live trading and comprehensive data analysis. The framework is highly customizable, allowing users to create and test complex strategies.
+[Backtrader](../b/backtrader.md) is a Python-based [backtesting](../b/backtesting.md) framework for trading and strategy development. It supports equity and futures trading and provides tools for integrating live trading and comprehensive data analysis. The framework is highly customizable, allowing users to create and test complex strategies.
 
 - [Backtrader](https://www.backtrader.com/): Official site.
 

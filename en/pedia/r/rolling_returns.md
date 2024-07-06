@@ -42,7 +42,7 @@ Several tools can be employed to calculate and visualize rolling returns:
 
 ## Companies Using Rolling Returns
 Rolling returns are widely used by various financial institutions, investment firms, and analysis companies. Some of the notable companies include:
-- **Morningstar**, a leading provider of independent investment research (morningstar.com)
+- **[Morningstar](../m/morningstar.md)**, a leading provider of independent investment research ([morningstar](../m/morningstar.md).com)
 - **Vanguard**, a significant player in mutual funds and ETFs (vanguard.com)
 - **BlackRock**, a global investment management corporation (blackrock.com)
 
@@ -61,9 +61,9 @@ Each of these companies uses rolling returns to present comprehensive performanc
 ## Conclusion
 Rolling returns provide a dynamic and robust method for evaluating an investment's performance. By offering insights into consistency, risk, and comparative performance, they are an invaluable tool for investors and analysts. While there are challenges associated with their complexity and data requirements, the advantages far outweigh these drawbacks.
 
-For further details, you can explore resources and tools provided by leading firms like Morningstar at [morningstar.com](https://www.morningstar.com/), Vanguard at [vanguard.com](https://investor.vanguard.com/), and BlackRock at [blackrock.com](https://www.blackrock.com/).
+For further details, you can explore resources and tools provided by leading firms like [Morningstar](../m/morningstar.md) at [morningstar.com](https://www.morningstar.com/), Vanguard at [vanguard.com](https://investor.vanguard.com/), and BlackRock at [blackrock.com](https://www.blackrock.com/).
 
 ## References
-- Morningstar. (n.d.). Retrieved from [morningstar.com](https://www.morningstar.com/)
+- [Morningstar](../m/morningstar.md). (n.d.). Retrieved from [morningstar.com](https://www.morningstar.com/)
 - Vanguard. (n.d.). Retrieved from [vanguard.com](https://investor.vanguard.com/)
 - BlackRock. (n.d.). Retrieved from [blackrock.com](https://www.blackrock.com/)

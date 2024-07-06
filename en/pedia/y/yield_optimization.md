@@ -50,19 +50,19 @@ This strategy profits from discrepancies between the forecasted volatility of an
 Trading platforms are essential for executing and managing trades. Examples include:
 
 - **MetaTrader**: Widely used by retail traders for forex and CFD trading.
-- **Bloomberg Terminal**: Provides [real-time market data](../r/real-time_market_data.md), news, and analytics.
+- **[Bloomberg](../b/bloomberg.md) Terminal**: Provides [real-time market data](../r/real-time_market_data.md), news, and analytics.
 
 #### 2. **Backtesting Tools**
 [Backtesting](../b/backtesting.md) tools allow traders to test their strategies against historical data to evaluate performance and risk.
 
-- **QuantConnect**: Open-source [algorithmic trading](../a/algorithmic_trading.md) platform.
+- **[QuantConnect](../q/quantconnect.md)**: Open-source [algorithmic trading](../a/algorithmic_trading.md) platform.
 - **MetaTrader Strategy Tester**: Integrated into the MetaTrader platform for forex and CFDs.
 
 #### 3. **Data Feeds**
 High-quality data feeds are crucial for real-time analysis and decision-making. Sources include:
 
-- **Quandl**: Provides a wide range of financial and economic data.
-- **Thomson Reuters**: Offers comprehensive market data and analytics.
+- **[Quandl](../q/quandl.md)**: Provides a wide range of financial and economic data.
+- **Thomson [Reuters](../r/reuters.md)**: Offers comprehensive market data and analytics.
 
 ### Companies and Institutions
 

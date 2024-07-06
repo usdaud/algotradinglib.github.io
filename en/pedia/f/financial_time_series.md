@@ -36,7 +36,7 @@ Financial time series data is characterized by:
 Historical data is essential for [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md). Sources include:
 
 - **Exchanges and market data providers**: Providing raw data feeds (e.g., NYSE [link](https://www.nyse.com/), NASDAQ [link](https://www.nasdaq.com/)).
-- **Third-party services**: Platforms like Bloomberg [link](https://www.bloomberg.com/), Reuters [link](https://www.reuters.com/), and Quandl [link](https://www.quandl.com/) offer extensive financial databases.
+- **Third-party services**: Platforms like [Bloomberg](../b/bloomberg.md) [link](https://www.bloomberg.com/), [Reuters](../r/reuters.md) [link](https://www.reuters.com/), and [Quandl](../q/quandl.md) [link](https://www.quandl.com/) offer extensive financial databases.
 - **API services**: Websites like Alpha Vantage [link](https://www.alphavantage.co/) and IEX Cloud [link](https://iexcloud.io/) provide APIs for accessing financial data.
 
 ### Real-time Data
@@ -44,7 +44,7 @@ Historical data is essential for [backtesting](../b/backtesting.md) [trading str
 For live trading, real-time data is crucial. Sources include:
 
 - **Brokerage firms**: Brokers like Interactive Brokers [link](https://www.interactivebrokers.com/).
-- **Real-time data vendors**: Providers such as TradeStation [link](https://www.tradestation.com/) and eSignal [link](https://www.esignal.com/).
+- **Real-time data vendors**: Providers such as [TradeStation](../t/tradestation.md) [link](https://www.tradestation.com/) and [eSignal](../e/esignal.md) [link](https://www.esignal.com/).
 
 ## Data Preprocessing and Cleaning
 
@@ -112,8 +112,8 @@ Assessing strategy performance typically involves:
 ### Trading Platforms and Software
 
 - **MetaTrader**: Widely used for forex and CFDs trading, with support for [algorithmic trading](../a/algorithmic_trading.md) scripts.
-- **NinjaTrader**: Integrated platform for futures and forex trading.
-- **QuantConnect**: Cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform.
+- **[NinjaTrader](../n/ninjatrader.md)**: Integrated platform for futures and forex trading.
+- **[QuantConnect](../q/quantconnect.md)**: Cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform.
 - **Interactive Brokers**: Offers a trading API allowing for [algorithmic execution](../a/algorithmic_execution.md).
 
 ## Conclusion

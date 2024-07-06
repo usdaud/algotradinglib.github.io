@@ -93,7 +93,7 @@ Consider a [pairs trading](../p/pairs_trading.md) strategy involving two stocks 
 
 Several platforms and tools facilitate [pairs trading](../p/pairs_trading.md) strategies including signal generation, [backtesting](../b/backtesting.md), and execution:
 
-**1. QuantConnect** (https://www.quantconnect.com/)
+**1. [QuantConnect](../q/quantconnect.md)** (https://www.[quantconnect](../q/quantconnect.md).com/)
    - Provides an open-source platform for [algorithmic trading](../a/algorithmic_trading.md) strategies including [pairs trading](../p/pairs_trading.md).
    - Offers extensive documentation and community support for developing and [backtesting](../b/backtesting.md) [trading models](../t/trading_models.md).
 
@@ -101,7 +101,7 @@ Several platforms and tools facilitate [pairs trading](../p/pairs_trading.md) st
    - Initially an independent platform, it now integrates with Interactive Brokers offering [algorithmic trading](../a/algorithmic_trading.md) tools.
    - Users can develop, test, and deploy [pairs trading](../p/pairs_trading.md) algorithms.
 
-**3. MetaTrader** (https://www.metatrader4.com/)
+**3. MetaTrader** (https://www.[metatrader4](../m/metatrader4.md).com/)
    - Popular among retail traders, MetaTrader offers scripting capabilities through MQL4/MQL5 for custom [trading strategies](../t/trading_strategies.md).
    - Provides [backtesting](../b/backtesting.md) and live trading functionalities.
 

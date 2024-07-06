@@ -10,7 +10,7 @@ The essence of [sentiment analysis](../s/sentiment_analysis.md) in the context o
 
 The initial step involves gathering a diverse set of textual data sources. Major data sources include:
 
-- **News Articles**: Data from reputable financial news outlets like Reuters, Bloomberg, and CNBC.
+- **News Articles**: Data from reputable financial news outlets like [Reuters](../r/reuters.md), [Bloomberg](../b/bloomberg.md), and CNBC.
 - **Social Media**: Tweets, posts, and discussions from platforms such as Twitter, Reddit (e.g., r/WallStreetBets), and StockTwits.
 - **Financial Reports**: Earnings reports, SEC filings, analyst reports, and other corporate disclosures.
 - **Blogs and Forum Discussions**: Insights from influential financial bloggers and investment community discussions.

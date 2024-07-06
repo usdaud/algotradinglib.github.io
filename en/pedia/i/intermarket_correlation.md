@@ -67,8 +67,8 @@ Notable hedge funds that utilize [intermarket analysis](../i/intermarket_analysi
 
 ### Trading Platforms and Software
 Many trading platforms and software vendors provide tools for [correlation analysis](../c/correlation_analysis.md):
-- **Bloomberg Terminal:** Offers extensive tools for analyzing intermarket correlations, including correlation matrices and scatter plots for visualizing relationships between assets.
-- **QuantConnect:** A platform for [algorithmic trading](../a/algorithmic_trading.md) that enables users to backtest strategies using historical data, including [correlation analysis](../c/correlation_analysis.md) to refine [trading models](../t/trading_models.md). [QuantConnect](https://www.quantconnect.com/)
+- **[Bloomberg](../b/bloomberg.md) Terminal:** Offers extensive tools for analyzing intermarket correlations, including correlation matrices and scatter plots for visualizing relationships between assets.
+- **[QuantConnect](../q/quantconnect.md):** A platform for [algorithmic trading](../a/algorithmic_trading.md) that enables users to backtest strategies using historical data, including [correlation analysis](../c/correlation_analysis.md) to refine [trading models](../t/trading_models.md). [QuantConnect](https://www.quantconnect.com/)
 - **MetaTrader:** Popular among retail traders, offers various plugins and scripts for performing [correlation analysis](../c/correlation_analysis.md) and integrating it into automated [trading strategies](../t/trading_strategies.md). [MetaTrader](https://www.metatrader5.com/)
 
 ### Research and Academia

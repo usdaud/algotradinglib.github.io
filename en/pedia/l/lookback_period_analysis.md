@@ -24,7 +24,7 @@ Implementing lookback period analysis in [algorithmic trading](../a/algorithmic_
 
 ### 1. Data Collection and Cleaning
 
-Raw financial data is collected from reliable data providers such as Bloomberg, Reuters, or other financial data services. The data needs to be cleaned to handle missing values, outliers, and inconsistencies.
+Raw financial data is collected from reliable data providers such as [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), or other financial data services. The data needs to be cleaned to handle missing values, outliers, and inconsistencies.
 
 ### 2. Selection of Indicators and Metrics
 

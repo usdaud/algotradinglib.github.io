@@ -114,9 +114,9 @@ generate_signals(df)
 
 Several trading platforms and companies offer support for implementing and [backtesting](../b/backtesting.md) the Pivot Reversal Strategy:
 
-- **MetaTrader**: Provides tools for [algorithmic trading](../a/algorithmic_trading.md) and custom indicator creation (https://www.metatrader4.com/).
-- **QuantConnect**: Offers a cloud-based algorithm trading platform for [backtesting](../b/backtesting.md) and live trading in various asset classes (https://www.quantconnect.com/).
-- **NinjaTrader**: A trading platform with an extensive range of [technical indicators](../t/technical_indicators.md) and automated trading tools (https://ninjatrader.com/).
+- **MetaTrader**: Provides tools for [algorithmic trading](../a/algorithmic_trading.md) and custom indicator creation (https://www.[metatrader4](../m/metatrader4.md).com/).
+- **[QuantConnect](../q/quantconnect.md)**: Offers a cloud-based algorithm trading platform for [backtesting](../b/backtesting.md) and live trading in various asset classes (https://www.[quantconnect](../q/quantconnect.md).com/).
+- **[NinjaTrader](../n/ninjatrader.md)**: A trading platform with an extensive range of [technical indicators](../t/technical_indicators.md) and automated trading tools (https://[ninjatrader](../n/ninjatrader.md).com/).
 
 ## 4. Advantages and Limitations
 

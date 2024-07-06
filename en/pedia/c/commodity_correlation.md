@@ -77,16 +77,16 @@ Commodity swaps are customized contracts between two parties to exchange cash fl
 ## Companies and Tools for Analyzing Commodity Correlations
 
 ### Bloomberg Terminal
-The Bloomberg Terminal [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/) offers comprehensive tools for analyzing commodity correlations, including historical data, advanced statistical functionalities, and real-time market insights.
+The [Bloomberg](../b/bloomberg.md) Terminal [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/) offers comprehensive tools for analyzing commodity correlations, including historical data, advanced statistical functionalities, and real-time market insights.
 
 ### Refinitiv Eikon
 Refinitiv Eikon [Refinitiv](https://www.refinitiv.com/en/products/eikon-trading-software) provides an extensive platform for commodity traders and analysts, offering [correlation analysis](../c/correlation_analysis.md) capabilities and access to a vast array of market data.
 
 ### Quandl
-Quandl [Quandl](https://www.quandl.com) specializes in delivering financial, economic, and [alternative data](../a/alternative_data.md) for market analysis. It provides datasets that can be used for calculating and studying commodity correlations.
+[Quandl](../q/quandl.md) [Quandl](https://www.quandl.com) specializes in delivering financial, economic, and [alternative data](../a/alternative_data.md) for market analysis. It provides datasets that can be used for calculating and studying commodity correlations.
 
 ### TradingView
-TradingView [TradingView](https://www.tradingview.com) is a popular platform among retail traders for charting and analysis. It allows users to visualize and compare commodity prices, making it easier to identify and analyze correlations.
+[TradingView](../t/tradingview.md) [TradingView](https://www.tradingview.com) is a popular platform among retail traders for charting and analysis. It allows users to visualize and compare commodity prices, making it easier to identify and analyze correlations.
 
 ## Challenges and Limitations
 

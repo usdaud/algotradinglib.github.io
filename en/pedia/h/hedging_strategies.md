@@ -40,7 +40,7 @@ Quadratic programming is used to solve optimization problems where the risk or r
 ## Practical Implementation
 
 ### Tools and Libraries
-- **QuantLib:** An open-source library for [quantitative finance](../q/quantitative_finance.md) that includes tools for options pricing, [interest rate models](../i/interest_rate_models.md), and more.
+- **[QuantLib](../q/quantlib.md):** An open-source library for [quantitative finance](../q/quantitative_finance.md) that includes tools for options pricing, [interest rate models](../i/interest_rate_models.md), and more.
 - **Pandas and NumPy:** Useful for data manipulation and mathematical computations in Python.
 - **TA-Lib:** Offers a wide range of [technical analysis](../t/technical_analysis.md) functions which can be useful for developing [algorithmic trading](../a/algorithmic_trading.md) and hedging strategies.
 

@@ -91,7 +91,7 @@ Optimal f is a [position sizing](../p/position_sizing.md) method developed by Ra
 Many [automated trading systems](../a/automated_trading_systems.md) integrate [position sizing](../p/position_sizing.md) algorithms to enhance performance while managing risk. These systems can be custom-built or purchased from vendors.
 
 ### Companies
-- **QuantConnect**: [https://www.quantconnect.com](https://www.quantconnect.com) - An [algorithmic trading](../a/algorithmic_trading.md) platform that supports various [position sizing](../p/position_sizing.md) techniques.
+- **[QuantConnect](../q/quantconnect.md)**: [https://www.quantconnect.com](https://www.quantconnect.com) - An [algorithmic trading](../a/algorithmic_trading.md) platform that supports various [position sizing](../p/position_sizing.md) techniques.
 - **Quantinsti**: [https://www.quantinsti.com](https://www.quantinsti.com) - Provides educational resources on financial technology and [trading strategies](../t/trading_strategies.md), including [position sizing](../p/position_sizing.md) algorithms.
 - **MetaTrader 5**: [https://www.metatrader5.com](https://www.metatrader5.com) - Popular trading platform that offers script-based automation for implementing [position sizing](../p/position_sizing.md) strategies.
 

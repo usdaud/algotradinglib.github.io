@@ -61,7 +61,7 @@ Here, \( MOM \) (Momentum): Reflects the tendency of stocks that have performed 
 
 ### Data Collection
 
-The implementation starts with the collection of relevant data, including historical prices, market indices, and factor values. Various financial databases and APIs, such as Bloomberg, Reuters, and Quandl, provide this data.
+The implementation starts with the collection of relevant data, including historical prices, market indices, and factor values. Various financial databases and APIs, such as [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), and [Quandl](../q/quandl.md), provide this data.
 
 ### Factor Selection
 
@@ -97,7 +97,7 @@ MSCI Barra (https://www.msci.com) provides tools and analytics for building fact
 
 ### Bloomberg Terminal
 
-The Bloomberg Terminal (https://www.bloomberg.com/professional/solution/bloomberg-terminal) offers a wide array of tools for [factor analysis](../f/factor_analysis.md) and customizable factor models, aiding traders and asset managers in implementing their strategies.
+The [Bloomberg](../b/bloomberg.md) Terminal (https://www.[bloomberg](../b/bloomberg.md).com/professional/solution/[bloomberg](../b/bloomberg.md)-terminal) offers a wide array of tools for [factor analysis](../f/factor_analysis.md) and customizable factor models, aiding traders and asset managers in implementing their strategies.
 
 ## Advanced Topics
 

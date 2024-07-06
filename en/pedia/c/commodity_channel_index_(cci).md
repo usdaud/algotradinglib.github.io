@@ -49,7 +49,7 @@ Many traders use CCI in conjunction with other [technical indicators](../t/techn
 
 ### TradingView
 
-TradingView (https://www.tradingview.com) is a widely-used platform that provides an extensive suite of tools for [technical analysis](../t/technical_analysis.md), including the Commodity Channel Index (CCI). Traders can easily add CCI to their charts and customize it to their preferred time periods.
+[TradingView](../t/tradingview.md) (https://www.[tradingview](../t/tradingview.md).com) is a widely-used platform that provides an extensive suite of tools for [technical analysis](../t/technical_analysis.md), including the Commodity Channel Index (CCI). Traders can easily add CCI to their charts and customize it to their preferred time periods.
 
 ### MetaTrader 4 & 5
 
@@ -57,11 +57,11 @@ MetaTrader platforms, offered by MetaQuotes Software Corp., support CCI and vari
 
 ### Thinkorswim
 
-Thinkorswim by TD Ameritrade (https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page) offers professional-grade trading tools including the CCI indicator. It’s known for its advanced charting options and customizable [trading strategies](../t/trading_strategies.md).
+[Thinkorswim](../t/thinkorswim.md) by TD Ameritrade (https://www.tdameritrade.com/tools-and-platforms/[thinkorswim](../t/thinkorswim.md).page) offers professional-grade trading tools including the CCI indicator. It’s known for its advanced charting options and customizable [trading strategies](../t/trading_strategies.md).
 
 ### NinjaTrader
 
-NinjaTrader (https://ninjatrader.com) offers advanced charting and automated trading tools, and it supports CCI among many other [technical indicators](../t/technical_indicators.md). It caters to both discretionary traders and those looking to automate their strategies.
+[NinjaTrader](../n/ninjatrader.md) (https://[ninjatrader](../n/ninjatrader.md).com) offers advanced charting and automated trading tools, and it supports CCI among many other [technical indicators](../t/technical_indicators.md). It caters to both discretionary traders and those looking to automate their strategies.
 
 ## Real-World Applications of CCI
 
@@ -89,6 +89,6 @@ Despite its versatility, CCI is not without criticisms. Some of the commonly cit
 
 The Commodity Channel Index (CCI) remains a valuable tool in the arsenal of many traders and investors across various financial markets. Its ability to identify overbought and oversold conditions, potential trend reversals, and divergences makes it a versatile indicator for both short-term and long-term [trading strategies](../t/trading_strategies.md). As with any [technical analysis](../t/technical_analysis.md) tool, its effectiveness increases when used in conjunction with other indicators and a well-rounded understanding of market conditions.
 
-For more detailed and specific applications, traders often rely on platforms like TradingView, MetaTrader, Thinkorswim, and NinjaTrader, each of which provides robust tools for integrating CCI into comprehensive [trading strategies](../t/trading_strategies.md).
+For more detailed and specific applications, traders often rely on platforms like [TradingView](../t/tradingview.md), MetaTrader, [Thinkorswim](../t/thinkorswim.md), and [NinjaTrader](../n/ninjatrader.md), each of which provides robust tools for integrating CCI into comprehensive [trading strategies](../t/trading_strategies.md).
 
 Understanding the principles behind CCI and its practical applications can help traders make more informed and strategic decisions, ultimately improving their chances of success in the markets.

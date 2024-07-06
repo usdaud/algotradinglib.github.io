@@ -18,7 +18,7 @@ One of the hallmarks of off-exchange trading is the lack of transparency in pric
 
 ### 4. Regulatory Environment
 
-Off-exchange trading is subject to different regulatory oversight compared to exchange trading. Regulatory bodies such as the Financial Industry Regulatory Authority (FINRA) in the United States and the Financial Conduct Authority (FCA) in the United Kingdom monitor OTC markets to ensure fair practices and protect against fraud. However, the level of scrutiny may vary depending on the jurisdiction and the specific financial instruments involved.
+Off-exchange trading is subject to different regulatory oversight compared to exchange trading. Regulatory bodies such as the Financial Industry Regulatory Authority ([FINRA](../f/finra.md)) in the United States and the Financial Conduct Authority (FCA) in the United Kingdom monitor OTC markets to ensure fair practices and protect against fraud. However, the level of scrutiny may vary depending on the jurisdiction and the specific financial instruments involved.
 
 ## Types of Off-Exchange Trading
 
@@ -91,7 +91,7 @@ Advancements in technology have played a crucial role in the growth and evolutio
 
 Electronic trading platforms have revolutionized the OTC market by providing more efficient and transparent means of executing trades. These platforms enable direct market access (DMA) to multiple liquidity providers, facilitating price discovery and improving execution speeds.
 
-- **MarketAxess** - [MarketAxess](https://www.marketaxess.com)
+- **[MarketAxess](../m/marketaxess.md)** - [MarketAxess](https://www.marketaxess.com)
 
 ### 2. Algorithmic Trading
 

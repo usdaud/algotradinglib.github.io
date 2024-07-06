@@ -28,15 +28,15 @@ Simulated trading platforms enable traders to become familiar with the functiona
 
 ### ThinkOrSwim by TD Ameritrade
 
-ThinkOrSwim is one of the leading trading platforms offering a robust simulated [trading environment](../t/trading_environment.md). It provides real-time data, advanced charting tools, and a wide range of financial instruments to trade. The platform is ideal for both novice and experienced traders. For more information, visit [TD Ameritrade](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page).
+[ThinkOrSwim](../t/thinkorswim.md) is one of the leading trading platforms offering a robust simulated [trading environment](../t/trading_environment.md). It provides real-time data, advanced charting tools, and a wide range of financial instruments to trade. The platform is ideal for both novice and experienced traders. For more information, visit [TD Ameritrade](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page).
 
 ### NinjaTrader
 
-NinjaTrader offers an advanced simulated [trading environment](../t/trading_environment.md) with real-time data and comprehensive analysis tools. It caters to active traders and investors looking to practice and refine their [trading strategies](../t/trading_strategies.md). For more details, visit [NinjaTrader](https://ninjatrader.com/).
+[NinjaTrader](../n/ninjatrader.md) offers an advanced simulated [trading environment](../t/trading_environment.md) with real-time data and comprehensive analysis tools. It caters to active traders and investors looking to practice and refine their [trading strategies](../t/trading_strategies.md). For more details, visit [NinjaTrader](https://ninjatrader.com/).
 
 ### TradingView
 
-TradingView's paper trading feature allows traders to simulate trades with a wide range of assets, including stocks, forex, and cryptocurrencies. The platform is known for its robust charting tools and social networking features. More information can be found at [TradingView](https://www.tradingview.com/).
+[TradingView](../t/tradingview.md)'s paper trading feature allows traders to simulate trades with a wide range of assets, including stocks, forex, and cryptocurrencies. The platform is known for its robust charting tools and social networking features. More information can be found at [TradingView](https://www.tradingview.com/).
 
 ## Key Features of Simulated Trading Platforms
 

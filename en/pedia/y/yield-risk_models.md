@@ -130,7 +130,7 @@ At their core, Yield-Risk Models aim to balance the trade-off between expected r
   - Vanguard [Vanguard](https://www.vanguard.com) and BlackRock [BlackRock](https://www.blackrock.com) are key industry players.
 
 ### Algorithmic Trading Platforms
-  - Platforms like QuantConnect [QuantConnect](https://www.quantconnect.com) and Tradeworx [Tradeworx](http://tradeworx.com) offer tools and environments to implement and test Yield-Risk Models.
+  - Platforms like [QuantConnect](../q/quantconnect.md) [QuantConnect](https://www.quantconnect.com) and Tradeworx [Tradeworx](http://tradeworx.com) offer tools and environments to implement and test Yield-Risk Models.
 
 ## Conclusion
 
@@ -146,6 +146,6 @@ Yield-Risk Models play a pivotal role in shaping successful [algorithmic trading
 - J.P. Morgan [J.P. Morgan](https://www.jpmorgan.com)
 - Vanguard [Vanguard](https://www.vanguard.com)
 - BlackRock [BlackRock](https://www.blackrock.com)
-- QuantConnect [QuantConnect](https://www.quantconnect.com)
+- [QuantConnect](../q/quantconnect.md) [QuantConnect](https://www.quantconnect.com)
 - Tradeworx [Tradeworx](http://tradeworx.com)
 

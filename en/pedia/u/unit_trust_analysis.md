@@ -66,16 +66,16 @@ Evaluating the performance of [Unit Trusts](../u/unit_trusts.md) involves assess
 
 Several tools and software programs assist in Unit Trust analysis. They provide comprehensive data, analytics, and performance tracking:
 
-**1. Morningstar**: Offers extensive research and analysis tools, including star ratings, [performance metrics](../p/performance_metrics.md), and risk assessments.
+**1. [Morningstar](../m/morningstar.md)**: Offers extensive research and analysis tools, including star ratings, [performance metrics](../p/performance_metrics.md), and risk assessments.
    - [Morningstar](https://www.morningstar.com/)
 
-**2. Bloomberg**: Provides advanced financial analytics, [data visualization](../d/data_visualization.md), and market insights.
+**2. [Bloomberg](../b/bloomberg.md)**: Provides advanced financial analytics, [data visualization](../d/data_visualization.md), and market insights.
    - [Bloomberg](https://www.bloomberg.com/)
 
-**3. Lipper**: A Thomson Reuters company providing mutual fund analysis, rankings, and intelligence.
+**3. Lipper**: A Thomson [Reuters](../r/reuters.md) company providing mutual fund analysis, rankings, and intelligence.
    - [Lipper](https://www.refinitiv.com/en/lipper)
 
-**4. FactSet**: Offers integrated data and analytics to collect, manage, and analyze financial information.
+**4. [FactSet](../f/factset.md)**: Offers integrated data and analytics to collect, manage, and analyze financial information.
    - [FactSet](https://www.factset.com/)
 
 **5. Portfolio Visualizer**: An online tool to backtest portfolios, analyze asset correlations, and assess [performance metrics](../p/performance_metrics.md).

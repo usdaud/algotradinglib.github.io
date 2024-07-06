@@ -79,8 +79,8 @@ The conversion of a warrant involves exercising the right to purchase the underl
 1. **SEC Regulations:**
    The Securities and Exchange Commission (SEC) regulates the issuance and trading of warrants in the U.S. Warrant issuers must comply with SEC reporting requirements, which ensure transparency and protect investors.
 
-2. **FINRA Rules:**
-   The Financial Industry Regulatory Authority (FINRA) governs the conduct of brokers and dealers, including warrant transactions. They ensure fair practices and resolve disputes in the securities industry.
+2. **[FINRA](../f/finra.md) Rules:**
+   The Financial Industry Regulatory Authority ([FINRA](../f/finra.md)) governs the conduct of brokers and dealers, including warrant transactions. They ensure fair practices and resolve disputes in the securities industry.
 
 3. **International Regulations:**
    Outside the U.S., different countries have their regulatory bodies overseeing warrant trading. For instance, in the UK, the Financial Conduct Authority (FCA) regulates the issuance and trading of warrants.

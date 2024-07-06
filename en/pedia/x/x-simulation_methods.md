@@ -128,5 +128,5 @@ The various X-Simulation Methods discussed here illustrate the broad range of te
 
 For more information on companies specializing in [algorithmic trading](../a/algorithmic_trading.md) and simulation methods, consider visiting their official websites:
 - **Kx Systems**: [https://kx.com](https://kx.com)
-- **QuantConnect**: [https://quantconnect.com](https://quantconnect.com)
+- **[QuantConnect](../q/quantconnect.md)**: [https://quantconnect.com](https://quantconnect.com)
 - **Numerai**: [https://numer.ai](https://numer.ai)

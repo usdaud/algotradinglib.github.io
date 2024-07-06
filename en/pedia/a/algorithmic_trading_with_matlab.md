@@ -115,7 +115,7 @@ ylabel('Cumulative Returns');
 
 ## Case Studies and Real-world Applications
 
-1. **QuantConnect**: Provides a cloud-based platform for [algorithmic trading](../a/algorithmic_trading.md) using multiple programming languages including MATLAB. [Link to QuantConnect](https://www.quantconnect.com/)
+1. **[QuantConnect](../q/quantconnect.md)**: Provides a cloud-based platform for [algorithmic trading](../a/algorithmic_trading.md) using multiple programming languages including MATLAB. [Link to QuantConnect](https://www.quantconnect.com/)
 
 2. **Interactive Brokers**: Offers a MATLAB-to-API integration for live trading with MATLAB developed algorithms. [Link to Interactive Brokers](https://www.interactivebrokers.com/)
 

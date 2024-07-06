@@ -74,7 +74,7 @@ Several trading platforms and financial service providers offer tools and featur
 
 1. **Interactive Brokers:** Renowned for its comprehensive and sophisticated trading tools, Interactive Brokers provides a variety of options trading capabilities, including straddle setups. [Interactive Brokers](https://www.interactivebrokers.com/)
 
-2. **TD Ameritrade:** Offers the thinkorswim trading platform, which is known for its advanced options trading features, enabling traders to easily create straddle positions. [TD Ameritrade](https://www.tdameritrade.com/)
+2. **TD Ameritrade:** Offers the [thinkorswim](../t/thinkorswim.md) trading platform, which is known for its advanced options trading features, enabling traders to easily create straddle positions. [TD Ameritrade](https://www.tdameritrade.com/)
 
 3. **E*TRADE:** Provides a user-friendly platform with an array of options trading tools, suitable for executing straddle strategies. [E*TRADE](https://us.etrade.com/home)
 

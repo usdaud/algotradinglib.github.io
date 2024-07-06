@@ -208,10 +208,10 @@ def risk_management(position, max_loss):
 [Backtesting](../b/backtesting.md) involves testing the viability of a trading strategy using historical data. This process is essential to validate the effectiveness and robustness of a strategy before deploying it in a live market.
 
 ### Implementation
-[Backtesting](../b/backtesting.md) frameworks such as Backtrader or proprietary systems are commonly used.
+[Backtesting](../b/backtesting.md) frameworks such as [Backtrader](../b/backtrader.md) or proprietary systems are commonly used.
 
 ```python
-import backtrader as bt
+import [backtrader](../b/backtrader.md) as bt
 
 def backtest_strategy(strategy, data):
     cerebro = bt.Cerebro()

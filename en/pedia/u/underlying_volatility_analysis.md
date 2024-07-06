@@ -48,8 +48,8 @@ Volatility measures the degree of variation in a trading price series over time,
    Numerix provides advanced analytics for [derivatives](../d/derivatives.md) and [risk management](../r/risk_management.md), focusing heavily on volatility modeling and [financial engineering](../f/financial_engineering.md).
    [Numerix](https://www.numerix.com/)
 
-2. **QuantConnect:**
-   QuantConnect offers [algorithmic trading](../a/algorithmic_trading.md) infrastructure and tools, including advanced volatility analytics, enabling traders to build, test, and deploy strategies.
+2. **[QuantConnect](../q/quantconnect.md):**
+   [QuantConnect](../q/quantconnect.md) offers [algorithmic trading](../a/algorithmic_trading.md) infrastructure and tools, including advanced volatility analytics, enabling traders to build, test, and deploy strategies.
    [QuantConnect](https://www.quantconnect.com/)
 
 3. **OptionWorks:**

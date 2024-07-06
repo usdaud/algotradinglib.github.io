@@ -25,8 +25,8 @@ News analytics involves monitoring news articles, press releases, and other publ
 
 ### Leading Providers of News Analytics
 
-1. **Thomson Reuters News Analytics**: This firm offers news [sentiment analysis](../s/sentiment_analysis.md), enabling traders to make informed decisions. More information can be found [here](https://www.refinitiv.com/en).
-2. **Bloomberg Terminal**: Bloomberg’s service offers extensive news analytics that can provide real-time insights into market movements. Explore Bloomberg Terminal [here](https://www.bloomberg.com/professional/solution/bloomberg-terminal/).
+1. **Thomson [Reuters](../r/reuters.md) News Analytics**: This firm offers news [sentiment analysis](../s/sentiment_analysis.md), enabling traders to make informed decisions. More information can be found [here](https://www.refinitiv.com/en).
+2. **[Bloomberg](../b/bloomberg.md) Terminal**: [Bloomberg](../b/bloomberg.md)’s service offers extensive news analytics that can provide real-time insights into market movements. Explore [Bloomberg](../b/bloomberg.md) Terminal [here](https://www.bloomberg.com/professional/solution/bloomberg-terminal/).
 
 ### Application in Trading
 

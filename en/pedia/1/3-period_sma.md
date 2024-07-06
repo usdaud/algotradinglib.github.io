@@ -46,13 +46,13 @@ Several platforms and software tools allow for the calculation and use of SMAs, 
 - **MetaTrader 4/5:** A leading platform for Forex, Futures, and CFD markets. It's favored for its robust charting tools and ability to create custom indicators and automated [trading strategies](../t/trading_strategies.md) via MQL scripting.
   - [MetaTrader](https://www.metatrader4.com/)
   
-- **NinjaTrader:** This software is renowned for futures and forex trading, offering advanced charting and [backtesting](../b/backtesting.md) tools.
+- **[NinjaTrader](../n/ninjatrader.md):** This software is renowned for futures and forex trading, offering advanced charting and [backtesting](../b/backtesting.md) tools.
   - [NinjaTrader](https://ninjatrader.com/)
 
-- **TradingView:** A popular web-based platform known for its community-driven approach, extensive scripting capabilities in Pine Script, and ease of use.
+- **[TradingView](../t/tradingview.md):** A popular web-based platform known for its community-driven approach, extensive scripting capabilities in Pine Script, and ease of use.
   - [TradingView](https://www.tradingview.com/)
 
-- **QuantConnect:** An algorithm trading platform offering powerful [backtesting](../b/backtesting.md) capabilities and support for multiple asset classes.
+- **[QuantConnect](../q/quantconnect.md):** An algorithm trading platform offering powerful [backtesting](../b/backtesting.md) capabilities and support for multiple asset classes.
   - [QuantConnect](https://www.quantconnect.com/)
 
 #### Limitations of 3-Period SMA

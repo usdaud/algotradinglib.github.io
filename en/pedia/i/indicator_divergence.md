@@ -46,13 +46,13 @@ Several trading platforms offer the ability to implement and automate divergence
 - **MetaTrader 4/5 (MT4/5)**: A popular trading platform that provides extensive tools for [technical analysis](../t/technical_analysis.md), including custom indicator scripts to detect divergence.
   [MetaTrader](https://www.metatrader4.com/)
 
-- **TradingView**: A community-based platform offering advanced charting tools and the ability to write custom scripts using Pine Script for detecting and acting on divergence.
+- **[TradingView](../t/tradingview.md)**: A community-based platform offering advanced charting tools and the ability to write custom scripts using Pine Script for detecting and acting on divergence.
   [TradingView](https://www.tradingview.com/)
 
-- **QuantConnect**: An [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools for developing and [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md) in various languages such as C#, Python, and F#.
+- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools for developing and [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md) in various languages such as C#, Python, and F#.
   [QuantConnect](https://www.quantconnect.com/)
 
-- **AlgoTrader**: A comprehensive [algorithmic trading](../a/algorithmic_trading.md) software solution that allows creating, [backtesting](../b/backtesting.md), and deploying [trading strategies](../t/trading_strategies.md).
+- **[AlgoTrader](../a/algotrader.md)**: A comprehensive [algorithmic trading](../a/algorithmic_trading.md) software solution that allows creating, [backtesting](../b/backtesting.md), and deploying [trading strategies](../t/trading_strategies.md).
   [AlgoTrader](https://www.algotrader.com/)
 
 ### Examples of Divergence Indicators

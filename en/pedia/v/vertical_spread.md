@@ -85,17 +85,17 @@ In the context of [algorithmic trading](../a/algorithmic_trading.md), vertical s
 1. **Market Analysis:** Algorithms analyze historical price data, volatility, and other [technical indicators](../t/technical_indicators.md) to forecast the movement of the underlying asset.
 2. **Strategy Design:** Based on the forecast, the algorithm decides whether to implement a bull spread or bear spread and whether to use calls or puts.
 3. **Parameters Calculation:** The algorithm calculates the optimal strike prices and premiums to buy and sell.
-4. **Execution:** Automated trading platforms like MetaTrader or NinjaTrader can be used to execute the trades.
+4. **Execution:** Automated trading platforms like MetaTrader or [NinjaTrader](../n/ninjatrader.md) can be used to execute the trades.
 5. **Monitoring and Adjusting:** The algorithm continuously monitors market conditions and may adjust or close positions to optimize results.
 
 ### Example Platform: QuantConnect
 
-QuantConnect is a popular [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to design, backtest, and deploy [trading strategies](../t/trading_strategies.md) in various asset classes, including options. Vertical spreads can be efficiently executed using QuantConnect's extensive library of data and algorithms.
+[QuantConnect](../q/quantconnect.md) is a popular [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to design, backtest, and deploy [trading strategies](../t/trading_strategies.md) in various asset classes, including options. Vertical spreads can be efficiently executed using [QuantConnect](../q/quantconnect.md)'s extensive library of data and algorithms.
 
-**Learn more about QuantConnect:** [https://www.quantconnect.com/](https://www.quantconnect.com/)
+**Learn more about [QuantConnect](../q/quantconnect.md):** [https://www.quantconnect.com/](https://www.quantconnect.com/)
 
 ## Conclusion
 
 Vertical spreads offer a structured and relatively conservative approach to options trading. Traders can leverage vertical spreads to capitalize on anticipated market movements while limiting risk. Advances in [algorithmic trading](../a/algorithmic_trading.md) further enhance the appeal of vertical spreads by allowing for systematic and emotion-free execution of these strategies. Whether traders are bullish or bearish, vertical spreads provide flexibility and reduced risk compared to strategies involving single options positions.
 
-Leveraging platforms like QuantConnect for [algorithmic trading](../a/algorithmic_trading.md) can help traders efficiently implement vertical spreads, maximizing their potential for profits while minimizing risk exposure. As the trading landscape continues to evolve, vertical spreads are likely to remain a staple strategy for both individual and institutional traders.
+Leveraging platforms like [QuantConnect](../q/quantconnect.md) for [algorithmic trading](../a/algorithmic_trading.md) can help traders efficiently implement vertical spreads, maximizing their potential for profits while minimizing risk exposure. As the trading landscape continues to evolve, vertical spreads are likely to remain a staple strategy for both individual and institutional traders.

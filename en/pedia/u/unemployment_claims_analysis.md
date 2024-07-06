@@ -18,7 +18,7 @@ Unemployment claims are critical for several reasons:
 #### 3. Data Sources
 
 1. **U.S. Department of Labor (DoL)**: Primary source for unemployment claims data in the United States. Weekly reports are released on the DoL website. [U.S. Department of Labor](https://www.dol.gov/ui/data.pdf)
-2. **Bloomberg**: Provides detailed economic calendars and historical data, including unemployment claims.
+2. **[Bloomberg](../b/bloomberg.md)**: Provides detailed economic calendars and historical data, including unemployment claims.
 3. **Federal Reserve Economic Data (FRED)**: Offers various economic data, including unemployment claims, for in-depth analysis. [FRED](https://fred.stlouisfed.org/)
 
 #### 4. Analytical Tools in Algorithmic Trading

@@ -49,10 +49,10 @@ An algorithm designed to exploit sector momentum might function as follows:
 
 Several tools and platforms assist traders in analyzing sector performance:
 
-- **Bloomberg Terminal**: Provides real-time data, analytics, and news on sector performance.
-- **Reuters Eikon**: Offers comprehensive financial analysis, including sector-specific reports and trends.
-- **Morningstar Direct**: Known for its in-depth [sector analysis](../s/sector_analysis.md) and research.
-- **QuantConnect**: A [quantitative trading](../q/quantitative_trading.md) platform that allows [backtesting](../b/backtesting.md) and live trading of algorithmic strategies with a focus on sector performance.
+- **[Bloomberg](../b/bloomberg.md) Terminal**: Provides real-time data, analytics, and news on sector performance.
+- **[Reuters](../r/reuters.md) Eikon**: Offers comprehensive financial analysis, including sector-specific reports and trends.
+- **[Morningstar](../m/morningstar.md) Direct**: Known for its in-depth [sector analysis](../s/sector_analysis.md) and research.
+- **[QuantConnect](../q/quantconnect.md)**: A [quantitative trading](../q/quantitative_trading.md) platform that allows [backtesting](../b/backtesting.md) and live trading of algorithmic strategies with a focus on sector performance.
 
 ## Challenges in Sector Performance Analysis
 

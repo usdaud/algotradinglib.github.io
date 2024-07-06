@@ -60,7 +60,7 @@ Turnover rate is the proportion of the portfolio that is traded within a certain
 Simulation and [backtesting](../b/backtesting.md) are essential tools in algo trading to test the performance of a trading strategy over historical data. By analyzing the number of trades executed in backtests, traders can optimize their algorithms for better performance.
 
 - **Tradeworx Inc.**: [Tradeworx](http://www.tradeworx.com) offers platforms for [backtesting](../b/backtesting.md) and strategy development.
-- **QuantConnect**: [QuantConnect](https://www.quantconnect.com) provides a cloud-based platform for [backtesting](../b/backtesting.md) and live algorithm trading.
+- **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](https://www.quantconnect.com) provides a cloud-based platform for [backtesting](../b/backtesting.md) and live algorithm trading.
 
 ### Machine Learning and AI
 

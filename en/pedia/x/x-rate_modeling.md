@@ -82,7 +82,7 @@ Implementing X-Rate Modeling in [algorithmic trading](../a/algorithmic_trading.m
 Several companies and platforms provide tools and services for X-Rate Modeling and [algorithmic trading](../a/algorithmic_trading.md):
 
 1. **MetaTrader**: Offers [algorithmic trading](../a/algorithmic_trading.md) features, including automated trading and [backtesting](../b/backtesting.md) capabilities. [MetaTrader](https://www.metatrader4.com/en)
-2. **QuantConnect**: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports various models and [backtesting](../b/backtesting.md). [QuantConnect](https://www.quantconnect.com/)
+2. **[QuantConnect](../q/quantconnect.md)**: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports various models and [backtesting](../b/backtesting.md). [QuantConnect](https://www.quantconnect.com/)
 3. **Kx Systems**: Specializes in high-performance databases and time-series analytics for financial markets. [Kx Systems](https://kx.com/)
 4. **Numerai**: Leverages data science competitions to develop advanced [trading algorithms](../t/trading_algorithms.md). [Numerai](https://numer.ai/)
 

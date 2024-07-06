@@ -95,8 +95,8 @@ There are various tools and software available for traders to calculate and anal
 - **MATLAB**: A high-level language and interactive environment for numerical computation, visualization, and programming.
 - **R**: A programming language and free software environment for statistical computing and graphics.
 - **Excel**: With add-ins like Solver, traders can perform statistical analysis and calculate CDFs.
-- **QuantConnect**: A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports CDF calculations within its framework. [QuantConnect](https://www.quantconnect.com)
-- **QuantLib**: An open-source library for [quantitative finance](../q/quantitative_finance.md) that includes tools for calculating CDFs and other statistical measures. [QuantLib](https://www.quantlib.org)
+- **[QuantConnect](../q/quantconnect.md)**: A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports CDF calculations within its framework. [QuantConnect](https://www.quantconnect.com)
+- **[QuantLib](../q/quantlib.md)**: An open-source library for [quantitative finance](../q/quantitative_finance.md) that includes tools for calculating CDFs and other statistical measures. [QuantLib](https://www.quantlib.org)
 
 ### Conclusion
 

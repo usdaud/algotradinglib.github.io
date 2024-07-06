@@ -68,11 +68,11 @@ Understanding both helps in modeling how bond prices will react to changes in in
 
 ### Trading Platforms and Software
 
-- **Bloomberg Terminal**:
+- **[Bloomberg](../b/bloomberg.md) Terminal**:
     - Comprehensive data and analytics platform widely used by fixed-income traders.
     - [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
-- **Reuters Eikon**:
+- **[Reuters](../r/reuters.md) Eikon**:
     - Another comprehensive financial market data platform.
     - [Reuters Eikon](https://eikon.thomsonreuters.com/index.html)
 

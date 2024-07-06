@@ -86,6 +86,6 @@ Several institutions and platforms play a pivotal role in the fixed income [deri
 - **CME Group**: [CME Group](https://www.cmegroup.com) provides a wide range of fixed income futures and options.
 - **Intercontinental Exchange (ICE)**: [ICE](https://www.theice.com) offers trading in fixed income [derivatives](../d/derivatives.md) including CDS.
 - **LCH Group**: [LCH](https://www.lch.com) is a leading clearing house for IRS and other fixed income [derivatives](../d/derivatives.md).
-- **Bloomberg**: [Bloomberg](https://www.bloomberg.com) offers extensive data, analytics, and trading platforms for fixed income [derivatives](../d/derivatives.md).
+- **[Bloomberg](../b/bloomberg.md)**: [Bloomberg](https://www.bloomberg.com) offers extensive data, analytics, and trading platforms for fixed income [derivatives](../d/derivatives.md).
 
 By providing mechanisms for [risk management](../r/risk_management.md), price discovery, and [market efficiency](../m/market_efficiency.md), fixed income [derivatives](../d/derivatives.md) are vital to the broader financial ecosystem. Understanding their functionality and application helps market participants make more informed decisions, contributing to overall market stability and liquidity.

@@ -6,7 +6,7 @@
 
 ### a. Bloomberg Terminal
 
-The Bloomberg Terminal is one of the most widely used tools for financial professionals, providing real-time data, news, and analytics. It offers comprehensive functionalities for trading, data analysis, and [risk management](../r/risk_management.md). The platform supports [algorithmic trading](../a/algorithmic_trading.md) by offering APIs and market data that can be used to develop and backtest [trading strategies](../t/trading_strategies.md).
+The [Bloomberg](../b/bloomberg.md) Terminal is one of the most widely used tools for financial professionals, providing real-time data, news, and analytics. It offers comprehensive functionalities for trading, data analysis, and [risk management](../r/risk_management.md). The platform supports [algorithmic trading](../a/algorithmic_trading.md) by offering APIs and market data that can be used to develop and backtest [trading strategies](../t/trading_strategies.md).
 [More about Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
 ### b. MetaTrader
@@ -16,7 +16,7 @@ MetaTrader is a popular trading platform, particularly known for its use in fore
 
 ### c. Thinkorswim by TD Ameritrade
 
-Thinkorswim is a trading platform geared towards active traders and comes equipped with a variety of analysis tools, including advanced charting, [technical indicators](../t/technical_indicators.md), and [backtesting](../b/backtesting.md) capabilities. Its scripting language, thinkScript, allows for the development of custom [trading strategies](../t/trading_strategies.md).
+[Thinkorswim](../t/thinkorswim.md) is a trading platform geared towards active traders and comes equipped with a variety of analysis tools, including advanced charting, [technical indicators](../t/technical_indicators.md), and [backtesting](../b/backtesting.md) capabilities. Its scripting language, thinkScript, allows for the development of custom [trading strategies](../t/trading_strategies.md).
 [More about Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim-desktop.page)
 
 ## 2. Quantitative Analysis Libraries
@@ -40,7 +40,7 @@ SciPy is an open-source Python library used for scientific and technical computi
 
 ### a. Quandl
 
-Quandl is a platform that provides financial, economic, and alternative datasets. It is widely used by algorithmic traders for accessing historical data, [real-time market data](../r/real-time_market_data.md), and [alternative data](../a/alternative_data.md) (such as [social media sentiment](../s/social_media_sentiment.md), environmental data, or supply chain data) through its powerful API.
+[Quandl](../q/quandl.md) is a platform that provides financial, economic, and alternative datasets. It is widely used by algorithmic traders for accessing historical data, [real-time market data](../r/real-time_market_data.md), and [alternative data](../a/alternative_data.md) (such as [social media sentiment](../s/social_media_sentiment.md), environmental data, or supply chain data) through its powerful API.
 [More about Quandl](https://www.quandl.com/)
 
 ### b. Alpha Vantage
@@ -57,12 +57,12 @@ IEX Cloud provides financial data APIs that include [real-time market data](../r
 
 ### a. QuantConnect
 
-QuantConnect is an [algorithmic trading](../a/algorithmic_trading.md) platform that provides a comprehensive environment for research, [backtesting](../b/backtesting.md), and live trading. It supports multiple asset classes and offers extensive data libraries, coding in multiple languages, and integrations with brokers for live trading.
+[QuantConnect](../q/quantconnect.md) is an [algorithmic trading](../a/algorithmic_trading.md) platform that provides a comprehensive environment for research, [backtesting](../b/backtesting.md), and live trading. It supports multiple asset classes and offers extensive data libraries, coding in multiple languages, and integrations with brokers for live trading.
 [More about QuantConnect](https://www.quantconnect.com/)
 
 ### b. Backtrader
 
-Backtrader is an open-source Python framework for [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md). It supports various data feeds and brokers, and allows for extensive customization and integration with other data analysis libraries like Pandas and NumPy.
+[Backtrader](../b/backtrader.md) is an open-source Python framework for [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md). It supports various data feeds and brokers, and allows for extensive customization and integration with other data analysis libraries like Pandas and NumPy.
 [More about Backtrader](https://www.backtrader.com/)
 
 ### c. Zipline
@@ -79,7 +79,7 @@ StockTwits is a social media platform specifically designed for the financial an
 
 ### b. RavenPack
 
-RavenPack provides data analytics services that focus on big data analytics for finance. It offers tools for [sentiment analysis](../s/sentiment_analysis.md) and event detection by processing news, social media, and other public information sources. Its data can be used to enhance [trading algorithms](../t/trading_algorithms.md) by incorporating sentiment-based signals.
+[RavenPack](../r/ravenpack.md) provides data analytics services that focus on big data analytics for finance. It offers tools for [sentiment analysis](../s/sentiment_analysis.md) and event detection by processing news, social media, and other public information sources. Its data can be used to enhance [trading algorithms](../t/trading_algorithms.md) by incorporating sentiment-based signals.
 [More about RavenPack](https://www.ravenpack.com/)
 
 ### c. MarketPsych

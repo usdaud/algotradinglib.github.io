@@ -35,13 +35,13 @@ In certain jurisdictions, unrealized profits do not trigger tax events until the
 
 ### Real-Time Data Feeds
 Effective analysis of unrealized profit requires access to real-time data. [High-frequency trading algorithms](../h/high-frequency_trading_algorithms.md) depend on:
-- **Market Data Providers**: Companies like Bloomberg ([Bloomberg](https://www.bloomberg.com/)) and Reuters ([Reuters](https://www.thomsonreuters.com/)) offer [real-time market data](../r/real-time_market_data.md) feeds.
+- **Market Data Providers**: Companies like [Bloomberg](../b/bloomberg.md) ([Bloomberg](https://www.bloomberg.com/)) and [Reuters](../r/reuters.md) ([Reuters](https://www.thomsonreuters.com/)) offer [real-time market data](../r/real-time_market_data.md) feeds.
 - **APIs**: APIs provided by trading platforms (e.g., [Interactive Brokers](https://www.interactivebrokers.com/)) allow for the integration of live data into [trading algorithms](../t/trading_algorithms.md).
 
 ### Portfolio Management Software
 Dedicated software solutions such as:
 - **MetaTrader** ([MetaTrader](https://www.metatrader4.com/))
-- **QuantConnect** ([QuantConnect](https://www.quantconnect.com/)) 
+- **[QuantConnect](../q/quantconnect.md)** ([QuantConnect](https://www.quantconnect.com/)) 
 These platforms provide advanced tools for tracking and analyzing unrealized profits, [risk metrics](../r/risk_metrics.md), and overall [portfolio performance](../p/portfolio_performance.md).
 
 ### Statistical Analysis

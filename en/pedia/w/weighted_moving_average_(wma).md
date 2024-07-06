@@ -72,7 +72,7 @@ MetaTrader 4, a popular trading platform, supports the WMA indicator out of the 
 
 ### TradingView
 
-TradingView offers a robust scripting language called Pine Script, which allows traders to customize and implement WMAs in their [trading strategies](../t/trading_strategies.md). The platform’s extensive library of indicators includes built-in WMAs and user-contributed scripts for advanced strategies. [TradingView](https://www.tradingview.com/)
+[TradingView](../t/tradingview.md) offers a robust scripting language called Pine Script, which allows traders to customize and implement WMAs in their [trading strategies](../t/trading_strategies.md). The platform’s extensive library of indicators includes built-in WMAs and user-contributed scripts for advanced strategies. [TradingView](https://www.tradingview.com/)
 
 ### Interactive Brokers
 

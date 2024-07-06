@@ -59,8 +59,8 @@ Designing an algorithm to avoid wash sales involves several components:
 There are several trading platforms and software frameworks where the [Wash Sale Rule](../w/wash_sale_rule.md) logic can be implemented:
 
 - **Interactive Brokers**: Provides API access to build custom [trading algorithms](../t/trading_algorithms.md) that can consider receipt and holding period of securities [Interactive Brokers](https://www.interactivebrokers.com/).
-- **QuantConnect**: An open [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to design, test, and execute algorithms with custom tax law considerations [QuantConnect](https://www.quantconnect.com/).
-- **TD Ameritrade's thinkorswim**: Offers scripting language ThinkScript, which can be used to build strategies that account for wash sales [TD Ameritrade](https://www.tdameritrade.com/).
+- **[QuantConnect](../q/quantconnect.md)**: An open [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to design, test, and execute algorithms with custom tax law considerations [QuantConnect](https://www.quantconnect.com/).
+- **TD Ameritrade's [thinkorswim](../t/thinkorswim.md)**: Offers scripting language ThinkScript, which can be used to build strategies that account for wash sales [TD Ameritrade](https://www.tdameritrade.com/).
 
 ### Compliance and Auditing
 

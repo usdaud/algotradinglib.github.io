@@ -91,8 +91,8 @@ print(ama_values)
 Several financial software platforms and trading tools support the implementation of AMA. Examples include:
 
 - **MetaTrader 4/5**: A popular platform among forex traders, which allows custom indicators like AMA.
-- **NinjaTrader**: A trading platform that supports advanced charting and custom indicators.
-- **TradingView**: An online charting platform that has a wide range of [technical indicators](../t/technical_indicators.md) including custom scripts for AMA.
+- **[NinjaTrader](../n/ninjatrader.md)**: A trading platform that supports advanced charting and custom indicators.
+- **[TradingView](../t/tradingview.md)**: An online charting platform that has a wide range of [technical indicators](../t/technical_indicators.md) including custom scripts for AMA.
 
 ## Real-World Applications
 
@@ -102,7 +102,7 @@ The AMA is extensively used in trend-following systems. Traders use it to identi
 
 ### Automated Trading Systems
 
-Given its adaptive nature, the AMA is highly suitable for [automated trading systems](../a/automated_trading_systems.md). Quantitative traders and [algorithmic trading](../a/algorithmic_trading.md) firms often incorporate it into their [trading algorithms](../t/trading_algorithms.md). Companies like **AlgoTrader** ([algotrader.com](https://www.algotrader.com)) provide platforms that enable the incorporation of the AMA into automated [trading strategies](../t/trading_strategies.md).
+Given its adaptive nature, the AMA is highly suitable for [automated trading systems](../a/automated_trading_systems.md). Quantitative traders and [algorithmic trading](../a/algorithmic_trading.md) firms often incorporate it into their [trading algorithms](../t/trading_algorithms.md). Companies like **[AlgoTrader](../a/algotrader.md)** ([algotrader.com](https://www.algotrader.com)) provide platforms that enable the incorporation of the AMA into automated [trading strategies](../t/trading_strategies.md).
 
 ### Portfolio Management
 

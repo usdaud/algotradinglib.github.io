@@ -32,8 +32,8 @@ Market shocks can significantly impact liquidity, making it difficult to execute
 
 #### Risk Management Software
 Various advanced software tools are used to perform market shock analysis, such as:
-- **Bloomberg Terminal**: Provides comprehensive tools for financial professionals to monitor and analyze financial data, perform scenario analysis, and manage risk. [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-- **Thomson Reuters Eikon**: Offers financial analysis tools and content for market researchers, including stress testing and scenario analysis capabilities. [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)
+- **[Bloomberg](../b/bloomberg.md) Terminal**: Provides comprehensive tools for financial professionals to monitor and analyze financial data, perform scenario analysis, and manage risk. [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+- **Thomson [Reuters](../r/reuters.md) Eikon**: Offers financial analysis tools and content for market researchers, including stress testing and scenario analysis capabilities. [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)
 - **RiskMetrics**: A widely used [risk management](../r/risk_management.md) and analysis tool by MSCI that provides VaR calculations and stress testing. [MSCI RiskMetrics](https://www.msci.com/riskmetrics)
 
 #### Quantitative Models

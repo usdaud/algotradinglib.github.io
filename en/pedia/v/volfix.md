@@ -1,13 +1,13 @@
-﻿# Volfix
+# Volfix
 
-Volfix is a specialized trading software focused on options trading, particularly known for its advanced volatility analysis tools. It caters to professional options traders and institutions dealing with complex options strategies.
+Volfix is a specialized trading software focused on options trading, particularly known for its advanced [volatility analysis](../v/volatility_analysis.md) tools. It caters to professional options traders and institutions dealing with complex options strategies.
 
 ## Key Features
 
 ### 1. Volatility Analysis
 - Real-time implied volatility calculations
-- Historical volatility comparisons
-- Volatility surface modeling
+- [Historical volatility](../h/historical_volatility.md) comparisons
+- [Volatility surface](../v/volatility_surface.md) modeling
 - Customizable volatility charts and heatmaps
 
 ### 2. Options Pricing and Greeks
@@ -26,9 +26,9 @@ Volfix is a specialized trading software focused on options trading, particularl
 - Volatility-based scanning criteria
 
 ### 5. Backtesting Engine
-- Historical backtesting of options strategies
+- Historical [backtesting](../b/backtesting.md) of options strategies
 - Customizable parameters for testing
-- Performance analytics and reporting
+- [Performance analytics](../p/performance_analytics.md) and reporting
 
 ### 6. Risk Management
 - Portfolio-level risk assessment
@@ -41,7 +41,7 @@ Volfix is a specialized trading software focused on options trading, particularl
 - Corporate action adjustments
 
 ### 8. Algorithmic Trading
-- API for algorithmic trading implementation
+- API for [algorithmic trading](../a/algorithmic_trading.md) implementation
 - Pre-built algorithmic strategies for volatility trading
 - Custom algo development environment
 
@@ -49,19 +49,19 @@ Volfix is a specialized trading software focused on options trading, particularl
 - Professional options traders
 - Market makers
 - Hedge funds
-- Proprietary trading firms
+- [Proprietary trading](../p/proprietary_trading.md) firms
 - Options-focused asset managers
 
 ## Platform Compatibility
 - Windows desktop application
 - Web-based interface for certain features
-- API for integration with other trading systems
+- API for integration with other [trading systems](../t/trading_systems.md)
 
 ## Unique Selling Points
 1. Specialized focus on volatility trading and analysis
 2. Advanced options pricing models beyond Black-Scholes
 3. Comprehensive Greeks calculations and visualizations
-4. Powerful strategy backtesting capabilities
+4. Powerful strategy [backtesting](../b/backtesting.md) capabilities
 
 ## Pricing Model
 - Subscription-based pricing
@@ -78,4 +78,4 @@ Volfix is a specialized trading software focused on options trading, particularl
 - Improved integration with major brokers for seamless execution
 - Expansion of asset classes to include VIX futures and options
 
-Volfix stands out in the options trading software market due to its deep focus on volatility analysis and advanced options strategies. It's particularly valued by traders who require sophisticated tools for options pricing, risk management, and strategy development in volatile market conditions.
+Volfix stands out in the options trading software market due to its deep focus on [volatility analysis](../v/volatility_analysis.md) and advanced options strategies. It's particularly valued by traders who require sophisticated tools for options pricing, [risk management](../r/risk_management.md), and strategy development in volatile market conditions.

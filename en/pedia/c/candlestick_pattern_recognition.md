@@ -53,9 +53,9 @@ With the advancement of artificial intelligence and machine learning, the automa
 
 Several companies and platforms provide tools for automated candlestick [pattern recognition](../p/pattern_recognition.md):
 
-- **TradingView:** An advanced financial visualization platform with real-time data, advanced charting tools, and automated [pattern recognition](../p/pattern_recognition.md) features. [Visit TradingView](https://www.tradingview.com/)
+- **[TradingView](../t/tradingview.md):** An advanced financial visualization platform with real-time data, advanced charting tools, and automated [pattern recognition](../p/pattern_recognition.md) features. [Visit TradingView](https://www.tradingview.com/)
 - **MetaTrader:** A popular trading platform offering sophisticated charting tools, [algorithmic trading](../a/algorithmic_trading.md) capabilities, and automated candlestick [pattern recognition](../p/pattern_recognition.md). [Visit MetaTrader](https://www.metatrader4.com/)
-- **NinjaTrader:** Provides powerful trading software solutions with rich charting features and automated pattern detection. [Visit NinjaTrader](https://ninjatrader.com/)
+- **[NinjaTrader](../n/ninjatrader.md):** Provides powerful trading software solutions with rich charting features and automated pattern detection. [Visit NinjaTrader](https://ninjatrader.com/)
 
 #### Implementing Strategies
 

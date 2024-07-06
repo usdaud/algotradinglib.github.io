@@ -73,7 +73,7 @@ Before deploying a pattern matching trading system, it is crucial to backtest th
 
 #### Deployment
 
-Once the model has been thoroughly tested and validated, it is ready for deployment. The model can be integrated into an algo-trading platform, where it will continuously scan the market for patterns and execute trades automatically. Popular platforms for deploying such systems include MetaTrader, TradeStation, and custom-built trading platforms.
+Once the model has been thoroughly tested and validated, it is ready for deployment. The model can be integrated into an algo-trading platform, where it will continuously scan the market for patterns and execute trades automatically. Popular platforms for deploying such systems include MetaTrader, [TradeStation](../t/tradestation.md), and custom-built trading platforms.
 
 ### Case Studies of Pattern Matching in Trading
 

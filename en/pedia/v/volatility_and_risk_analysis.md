@@ -66,20 +66,20 @@ A stop-loss order is an order placed with a broker to buy or sell once the stock
 ### Commercial Tools
 Several commercial software solutions and tools exist to aid in volatility and [risk analysis](../r/risk_analysis.md) in [algorithmic trading](../a/algorithmic_trading.md):
 
-- **Bloomberg Terminal**: [Bloomberg](https://bloomberg.com) provides a wide range of tools for financial professionals, including advanced functions for volatility and [risk analysis](../r/risk_analysis.md).
+- **[Bloomberg](../b/bloomberg.md) Terminal**: [Bloomberg](https://bloomberg.com) provides a wide range of tools for financial professionals, including advanced functions for volatility and [risk analysis](../r/risk_analysis.md).
   
-- **Thomson Reuters Eikon**: [Refinitiv](https://www.refinitiv.com/en/products/eikon-trading-software) offers a rich set of tools for trading, including real-time data, analytics, and [risk management](../r/risk_management.md) solutions.
+- **Thomson [Reuters](../r/reuters.md) Eikon**: [Refinitiv](https://www.refinitiv.com/en/products/eikon-trading-software) offers a rich set of tools for trading, including real-time data, analytics, and [risk management](../r/risk_management.md) solutions.
 
-- **QuantConnect**: [QuantConnect](https://www.quantconnect.com) provides an open-source [algorithmic trading](../a/algorithmic_trading.md) platform. It allows users to design, backtest, and implement [quantitative trading](../q/quantitative_trading.md) strategies.
+- **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](https://www.quantconnect.com) provides an open-source [algorithmic trading](../a/algorithmic_trading.md) platform. It allows users to design, backtest, and implement [quantitative trading](../q/quantitative_trading.md) strategies.
 
 ### Open Source Tools
 For those inclined towards open-source solutions, there are several robust software libraries and tools available:
 
-- **QuantLib**: An open-source library for [quantitative finance](../q/quantitative_finance.md), used for modeling, trading, and [risk management](../r/risk_management.md).
+- **[QuantLib](../q/quantlib.md)**: An open-source library for [quantitative finance](../q/quantitative_finance.md), used for modeling, trading, and [risk management](../r/risk_management.md).
   
 - **Quantitative Investment Decisions (QI)**: Tools and libraries for researchers and practitioners in [financial modeling](../f/financial_modeling.md) and [risk management](../r/risk_management.md).
 
-- **Backtrader**: An open-source Python library for [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md).
+- **[Backtrader](../b/backtrader.md)**: An open-source Python library for [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md).
 
 ## Case Study: Implementing Risk Management in an Algorithmic Trading Strategy
 

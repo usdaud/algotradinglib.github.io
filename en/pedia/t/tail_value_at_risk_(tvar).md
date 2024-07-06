@@ -49,9 +49,9 @@ Analytical methods involve using mathematical formulas to calculate TVaR directl
 
 Several financial firms and software providers offer tools and platforms that help traders calculate and use TVaR in their [trading strategies](../t/trading_strategies.md). For example:
 
-- **QuantConnect:** QuantConnect is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that provides extensive tools for [backtesting](../b/backtesting.md) and [risk management](../r/risk_management.md), including TVaR calculations. [QuantConnect](https://www.quantconnect.com/)
+- **[QuantConnect](../q/quantconnect.md):** [QuantConnect](../q/quantconnect.md) is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that provides extensive tools for [backtesting](../b/backtesting.md) and [risk management](../r/risk_management.md), including TVaR calculations. [QuantConnect](https://www.quantconnect.com/)
 - **Kensho Technologies:** Kensho, a subsidiary of S&P Global, offers advanced analytics and [risk management](../r/risk_management.md) solutions that incorporate TVaR. [Kensho Technologies](https://www.kensho.com/)
-- **Bloomberg Terminal:** The Bloomberg Terminal is a widely used platform that provides comprehensive [risk management](../r/risk_management.md) tools, including TVaR, to professional traders and analysts. [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+- **[Bloomberg](../b/bloomberg.md) Terminal:** The [Bloomberg](../b/bloomberg.md) Terminal is a widely used platform that provides comprehensive [risk management](../r/risk_management.md) tools, including TVaR, to professional traders and analysts. [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
 ### Advantages and Limitations of TVaR
 

@@ -70,9 +70,9 @@ Diversification spreads investments across various financial instruments, indust
 
 Several companies and platforms are at the forefront of securities market analysis and [algorithmic trading](../a/algorithmic_trading.md). Examples include:
 
-- **Bloomberg Terminal**: A software system providing financial data, analytics, and trading tools. (https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-- **Thomson Reuters Eikon**: Another market information platform that offers tools for analyzing financial markets. (https://www.refinitiv.com/en/products/eikon-trading-software)
-- **QuantConnect**: A quant trading platform that offers a community-driven [algorithmic trading](../a/algorithmic_trading.md) environment. (https://www.quantconnect.com/)
+- **[Bloomberg](../b/bloomberg.md) Terminal**: A software system providing financial data, analytics, and trading tools. (https://www.[bloomberg](../b/bloomberg.md).com/professional/solution/[bloomberg](../b/bloomberg.md)-terminal/)
+- **Thomson [Reuters](../r/reuters.md) Eikon**: Another market information platform that offers tools for analyzing financial markets. (https://www.refinitiv.com/en/products/eikon-trading-software)
+- **[QuantConnect](../q/quantconnect.md)**: A quant trading platform that offers a community-driven [algorithmic trading](../a/algorithmic_trading.md) environment. (https://www.[quantconnect](../q/quantconnect.md).com/)
 - **Two Sigma**: A technology-driven hedge fund that uses machine learning, distributed computing, and other data-driven techniques for trading. (https://www.twosigma.com/)
 - **Kensho**: Acquired by S&P Global, Kensho uses machine learning to analyse financial data and make predictions. (https://www.kensho.com/)
 

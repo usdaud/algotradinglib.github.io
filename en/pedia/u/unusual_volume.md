@@ -81,13 +81,13 @@ Unusual volume serves as an essential component of [risk management](../r/risk_m
 
 Several platforms provide tools for detecting and acting upon unusual volume:
 
-- **QuantConnect:** This open-source [algorithmic trading](../a/algorithmic_trading.md) platform supports multiple asset classes and provides access to historical data for [backtesting](../b/backtesting.md) unusual volume strategies.
+- **[QuantConnect](../q/quantconnect.md):** This open-source [algorithmic trading](../a/algorithmic_trading.md) platform supports multiple asset classes and provides access to historical data for [backtesting](../b/backtesting.md) unusual volume strategies.
   - [QuantConnect](https://www.quantconnect.com/)
   
 - **Interactive Brokers:** Known for its trading technology, Interactive Brokers offers numerous tools for real-time volume monitoring and [algorithmic trading](../a/algorithmic_trading.md).
   - [Interactive Brokers](https://www.interactivebrokers.com/)
 
-- **TradeStation:** TradeStation provides robust tools for technical and [volume analysis](../v/volume_analysis.md), allowing traders to develop custom indicators and algorithms.
+- **[TradeStation](../t/tradestation.md):** [TradeStation](../t/tradestation.md) provides robust tools for technical and [volume analysis](../v/volume_analysis.md), allowing traders to develop custom indicators and algorithms.
   - [TradeStation](https://www.tradestation.com/)
 
 ## Challenges and Considerations

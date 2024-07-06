@@ -103,12 +103,12 @@ VWAP calculates a trading period's average price, weighted by volume, often used
 Algorithmic traders increasingly employ machine learning and artificial intelligence to enhance [technical analysis](../t/technical_analysis.md) strategies. Techniques such as supervised learning, unsupervised learning, and reinforcement learning are used to identify patterns and optimize [trading algorithms](../t/trading_algorithms.md).
 
 #### Backtesting and Optimization
-[Backtesting](../b/backtesting.md) involves testing a trading strategy using historical data to validate its effectiveness. Algorithmic traders use [backtesting](../b/backtesting.md) tools like QuantConnect (https://www.quantconnect.com/) and MetaTrader 5 (https://www.metatrader5.com/) to fine-tune their strategies.
+[Backtesting](../b/backtesting.md) involves testing a trading strategy using historical data to validate its effectiveness. Algorithmic traders use [backtesting](../b/backtesting.md) tools like [QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/) and MetaTrader 5 (https://www.[metatrader5](../m/metatrader5.md).com/) to fine-tune their strategies.
 
 #### Algorithmic Trading Platforms
 Several platforms enable algorithmic traders to deploy and manage their strategies, often integrating [technical analysis](../t/technical_analysis.md) frameworks.
 
-- **QuantConnect**: An open-source cloud platform for [algorithmic trading](../a/algorithmic_trading.md) and [quantitative research](../q/quantitative_research.md).
+- **[QuantConnect](../q/quantconnect.md)**: An open-source cloud platform for [algorithmic trading](../a/algorithmic_trading.md) and [quantitative research](../q/quantitative_research.md).
   [QuantConnect](https://www.quantconnect.com/)
   
 - **MetaTrader 5**: A popular platform offering comprehensive tools for both [technical analysis](../t/technical_analysis.md) and [algorithmic trading](../a/algorithmic_trading.md).

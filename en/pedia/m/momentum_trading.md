@@ -72,7 +72,7 @@ This approach is based on the assumption that prices will continue to move in th
 
 #### Tools and Platforms for Momentum Trading
 
-1. **Bloomberg Terminal:**
+1. **[Bloomberg](../b/bloomberg.md) Terminal:**
    Offers extensive analytical tools, [real-time market data](../r/real-time_market_data.md), and financial news required for momentum trading.
    [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
@@ -80,11 +80,11 @@ This approach is based on the assumption that prices will continue to move in th
    Popular trading platforms that provide charting tools and indicators vital for momentum [trading strategies](../t/trading_strategies.md).
    [MetaTrader](https://www.metatrader4.com/en)
 
-3. **ThinkOrSwim by TD Ameritrade:**
+3. **[ThinkOrSwim](../t/thinkorswim.md) by TD Ameritrade:**
    Provides advanced charting tools, [trading strategies](../t/trading_strategies.md), and educational resources for traders.
    [ThinkOrSwim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim/trading.html)
 
-4. **TradeStation:**
+4. **[TradeStation](../t/tradestation.md):**
    Offers a robust platform with real-time data, customizable charting tools, and [algorithmic trading](../a/algorithmic_trading.md) capabilities.
    [TradeStation](https://www.tradestation.com/)
 

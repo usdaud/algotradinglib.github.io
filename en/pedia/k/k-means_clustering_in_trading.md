@@ -83,7 +83,7 @@ plt.show()
 
 #### QuantConnect
 
-**QuantConnect** offers a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform and is an excellent resource for implementing K-Means clustering. Their platform supports multiple languages (C#, Python, F#) and offers extensive financial data, making it ideal for research and [backtesting](../b/backtesting.md).
+**[QuantConnect](../q/quantconnect.md)** offers a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform and is an excellent resource for implementing K-Means clustering. Their platform supports multiple languages (C#, Python, F#) and offers extensive financial data, making it ideal for research and [backtesting](../b/backtesting.md).
 
 [QuantConnect](https://www.quantconnect.com/)
 
@@ -113,4 +113,4 @@ Financial markets are influenced by numerous external factors. Hence, the cluste
 
 ## Conclusion
 
-K-Means clustering offers valuable insights for traders by uncovering hidden patterns and segmenting markets. While it provides a robust framework for analyzing financial data, it should be used in conjunction with other methods and validated thoroughly before deployment. Platforms like QuantConnect and Alpaca offer ample resources and tools to implement and test K-Means [clustering algorithms](../c/clustering_algorithms.md) in trading contexts effectively.
+K-Means clustering offers valuable insights for traders by uncovering hidden patterns and segmenting markets. While it provides a robust framework for analyzing financial data, it should be used in conjunction with other methods and validated thoroughly before deployment. Platforms like [QuantConnect](../q/quantconnect.md) and Alpaca offer ample resources and tools to implement and test K-Means [clustering algorithms](../c/clustering_algorithms.md) in trading contexts effectively.

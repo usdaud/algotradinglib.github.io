@@ -100,7 +100,7 @@ One of the real-world applications of RSI in [trading algorithms](../t/trading_a
 
 ### QuantConnect
 
-[QuantConnect](https://www.quantconnect.com/) is an open-source [algorithmic trading](../a/algorithmic_trading.md) platform that offers a comprehensive environment for [backtesting](../b/backtesting.md) and deploying [trading strategies](../t/trading_strategies.md). Traders using QuantConnect can leverage the RSI among numerous other indicators to build robust [trading algorithms](../t/trading_algorithms.md).
+[QuantConnect](https://www.quantconnect.com/) is an open-source [algorithmic trading](../a/algorithmic_trading.md) platform that offers a comprehensive environment for [backtesting](../b/backtesting.md) and deploying [trading strategies](../t/trading_strategies.md). Traders using [QuantConnect](../q/quantconnect.md) can leverage the RSI among numerous other indicators to build robust [trading algorithms](../t/trading_algorithms.md).
 
 ## Conclusion
 

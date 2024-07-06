@@ -63,7 +63,7 @@ Numerix offers a suite of analytics tools for pricing, trading, and [risk manage
 [Visit Numerix](https://www.numerix.com/)
 
 ### QuantConnect
-QuantConnect is an [algorithmic trading](../a/algorithmic_trading.md) platform that provides access to various data sources and advanced [backtesting](../b/backtesting.md) tools. It allows traders to develop and test algorithms with a focus on [risk management](../r/risk_management.md), including the assessment of long tail risks.
+[QuantConnect](../q/quantconnect.md) is an [algorithmic trading](../a/algorithmic_trading.md) platform that provides access to various data sources and advanced [backtesting](../b/backtesting.md) tools. It allows traders to develop and test algorithms with a focus on [risk management](../r/risk_management.md), including the assessment of long tail risks.
 [Visit QuantConnect](https://www.quantconnect.com/)
 
 ### Axioma
@@ -75,4 +75,4 @@ RiskMetrics, part of MSCI, offers [risk management](../r/risk_management.md) ana
 [Visit RiskMetrics](https://www.msci.com/riskmetrics)
 
 ## Conclusion
-Long [tail risk](../t/tail_risk.md) represents a significant challenge in [algorithmic trading](../a/algorithmic_trading.md). While traditional [risk management](../r/risk_management.md) models often fall short in predicting extreme events, understanding different statistical distributions, historical examples, and advanced risk measures can help. By utilizing tools and strategies such as diversification, risk limits, advanced algorithms, and [tail risk](../t/tail_risk.md) hedging, traders can better prepare for and mitigate the impact of these rare but impactful events. Leveraging the technologies and platforms provided by companies like Numerix, QuantConnect, Axioma, and RiskMetrics can further enhance the ability to manage long [tail risk](../t/tail_risk.md) effectively.
+Long [tail risk](../t/tail_risk.md) represents a significant challenge in [algorithmic trading](../a/algorithmic_trading.md). While traditional [risk management](../r/risk_management.md) models often fall short in predicting extreme events, understanding different statistical distributions, historical examples, and advanced risk measures can help. By utilizing tools and strategies such as diversification, risk limits, advanced algorithms, and [tail risk](../t/tail_risk.md) hedging, traders can better prepare for and mitigate the impact of these rare but impactful events. Leveraging the technologies and platforms provided by companies like Numerix, [QuantConnect](../q/quantconnect.md), Axioma, and RiskMetrics can further enhance the ability to manage long [tail risk](../t/tail_risk.md) effectively.

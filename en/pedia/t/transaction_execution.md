@@ -124,7 +124,7 @@ SOR systems automatically route orders to different execution venues to optimize
 
 Several commercial platforms provide robust solutions for transaction execution, including tools for [backtesting](../b/backtesting.md), [risk management](../r/risk_management.md), and algorithm customization. Examples include:
 - **MetaTrader**: Popular for Forex and CFDs, offering extensive tools for automated trading.
-- **QuantConnect**: Supports algorithm development and execution across various asset classes.
+- **[QuantConnect](../q/quantconnect.md)**: Supports algorithm development and execution across various asset classes.
 
 Website: [QuantConnect](https://www.quantconnect.com/)
 

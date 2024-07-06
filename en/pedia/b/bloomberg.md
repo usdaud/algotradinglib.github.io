@@ -1,4 +1,4 @@
-﻿# Bloomberg
+# Bloomberg
 
 Bloomberg L.P. is a global financial technology and media company founded by Michael Bloomberg in 1981. It's primarily known for its Bloomberg Terminal, a computer software system that provides real-time financial data, news, and analytics to professionals in the financial services sector.
 
@@ -46,7 +46,7 @@ The flagship product, providing:
 ### Market Data and Analytics
 
 - Real-time and historical data for multiple asset classes
-- Advanced charting and technical analysis tools
+- Advanced charting and [technical analysis](../t/technical_analysis.md) tools
 - Customizable dashboards and watchlists
 
 ### News and Research
@@ -69,7 +69,7 @@ The flagship product, providing:
 
 ### Programming and API
 
-- Bloomberg API for data integration
+- Bloomberg API for [data integration](../d/data_integration.md)
 - Python and Excel integration (BQNT - Bloomberg Quant)
 
 ## Target Audience
@@ -127,9 +127,9 @@ The flagship product, providing:
 
 ## Competitors
 
-- Refinitiv (formerly Thomson Reuters Financial & Risk)
-- FactSet
+- Refinitiv (formerly Thomson [Reuters](../r/reuters.md) Financial & Risk)
+- [FactSet](../f/factset.md)
 - S&P Global Market Intelligence
-- Morningstar
+- [Morningstar](../m/morningstar.md)
 
 Bloomberg's comprehensive suite of products, centered around the Bloomberg Terminal, has made it an integral part of the global financial ecosystem. Its combination of real-time data, news, analytics, and communication tools creates a powerful platform that's widely used across the financial industry. The company's continued innovation and expansion into areas like law, government, and sustainable finance further solidify its position as a leader in financial technology and information services.

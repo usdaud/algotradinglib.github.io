@@ -36,7 +36,7 @@ The [yield spread](../y/yield_spread.md) is the difference between the yields of
 ## Strategies in Bond Portfolio Management
 
 ### Passive Management Strategy
-In passive bond [portfolio management](../p/portfolio_management.md), the objective is to replicate the performance of a bond market index, such as the Bloomberg Barclays U.S. Aggregate Bond Index. This strategy involves minimal trading and focuses on long-term holding.
+In passive bond [portfolio management](../p/portfolio_management.md), the objective is to replicate the performance of a bond market index, such as the [Bloomberg](../b/bloomberg.md) Barclays U.S. Aggregate Bond Index. This strategy involves minimal trading and focuses on long-term holding.
 
 #### Buy and Hold
 This strategy involves purchasing a diversified portfolio of bonds and holding them until they mature. This approach minimizes transaction costs and provides a predictable stream of income.

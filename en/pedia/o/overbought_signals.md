@@ -79,7 +79,7 @@ Algorithms use historical data to backtest overbought conditions, allowing for t
 
 Several software platforms and [trading systems](../t/trading_systems.md) incorporate overbought signal detection:
 - **MetaTrader**: Widely used for forex and stock trading, MetaTrader supports indicators like RSI and [Bollinger Bands](../b/bollinger_bands.md).
-- **QuantConnect**: This platform offers [algorithmic trading](../a/algorithmic_trading.md) services including [backtesting](../b/backtesting.md) and live trading functionalities. The integration of overbought signal indicators helps traders develop and test their strategies.
+- **[QuantConnect](../q/quantconnect.md)**: This platform offers [algorithmic trading](../a/algorithmic_trading.md) services including [backtesting](../b/backtesting.md) and live trading functionalities. The integration of overbought signal indicators helps traders develop and test their strategies.
 
 ## Challenges and Considerations
 
@@ -97,4 +97,4 @@ Overbought signals perform differently under varying market conditions. In a str
 
 ## Conclusion
 
-Understanding and utilizing overbought signals is crucial in the realm of [algorithmic trading](../a/algorithmic_trading.md). These signals can offer significant insights into market conditions and potential price corrections, thus aiding traders in making informed decisions. Advanced indicators like RSI, [Stochastic Oscillator](../s/stochastic_oscillator.md), MACD, [Bollinger Bands](../b/bollinger_bands.md), CCI, and [Williams %R](../w/williams_%r.md) are instrumental in identifying these conditions. Companies like Renaissance Technologies and platforms like MetaTrader and QuantConnect exemplify the application of these concepts in real-world scenarios. However, successful implementation requires careful consideration of false signals, market conditions, and continuous algorithmic optimization.
+Understanding and utilizing overbought signals is crucial in the realm of [algorithmic trading](../a/algorithmic_trading.md). These signals can offer significant insights into market conditions and potential price corrections, thus aiding traders in making informed decisions. Advanced indicators like RSI, [Stochastic Oscillator](../s/stochastic_oscillator.md), MACD, [Bollinger Bands](../b/bollinger_bands.md), CCI, and [Williams %R](../w/williams_%r.md) are instrumental in identifying these conditions. Companies like Renaissance Technologies and platforms like MetaTrader and [QuantConnect](../q/quantconnect.md) exemplify the application of these concepts in real-world scenarios. However, successful implementation requires careful consideration of false signals, market conditions, and continuous algorithmic optimization.

@@ -31,7 +31,7 @@ The execution engine is responsible for executing trades when the rules' criteri
 
 Tools for [Backtesting](../b/backtesting.md):
 - MetaTrader
-- QuantConnect
+- [QuantConnect](../q/quantconnect.md)
 - Zipline
 
 ### Optimization

@@ -37,9 +37,9 @@ Temporal aggregation refers to the process of summarizing data points collected 
 
 ### Case Studies and Examples
 
-1. **QuantConnect**: QuantConnect's [algorithmic trading](../a/algorithmic_trading.md) platform provides tools for time-series data resampling and temporal aggregation, enabling users to develop and backtest algorithms with different data granularities. [QuantConnect](https://www.quantconnect.com/)
+1. **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](../q/quantconnect.md)'s [algorithmic trading](../a/algorithmic_trading.md) platform provides tools for time-series data resampling and temporal aggregation, enabling users to develop and backtest algorithms with different data granularities. [QuantConnect](https://www.quantconnect.com/)
 2. **Kaggle Competitions**: Several financial time-series forecasting competitions on Kaggle emphasize the importance of temporal aggregation techniques to enhance model performance.
-3. **Bloomberg**: Bloomberg terminals allow traders to aggregate financial data over customizable time intervals, aiding in thorough market analysis. [Bloomberg](https://www.bloomberg.com/)
+3. **[Bloomberg](../b/bloomberg.md)**: [Bloomberg](../b/bloomberg.md) terminals allow traders to aggregate financial data over customizable time intervals, aiding in thorough market analysis. [Bloomberg](https://www.bloomberg.com/)
 
 ### Tools and Libraries
 

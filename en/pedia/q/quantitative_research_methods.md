@@ -92,7 +92,7 @@ Real-time data processing is crucial for implementing [algorithmic trading](../a
 Several software and tools are essential for [quantitative research](../q/quantitative_research.md) in [algorithmic trading](../a/algorithmic_trading.md):
 - **Python and R**: Popular programming languages for [quantitative analysis](../q/quantitative_analysis.md).
 - **MATLAB**: Widely used for mathematical modeling.
-- **QuantConnect**: An [algorithmic trading](../a/algorithmic_trading.md) platform that provides various financial data and [backtesting](../b/backtesting.md) tools (https://www.quantconnect.com/).
+- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that provides various financial data and [backtesting](../b/backtesting.md) tools (https://www.[quantconnect](../q/quantconnect.md).com/).
 
 ## Cloud Computing and High-Performance Computing
 

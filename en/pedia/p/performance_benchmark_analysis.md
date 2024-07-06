@@ -23,7 +23,7 @@ For traders focusing on specific sectors, sector-specific indexes provide a more
 
 ### Fixed-Income Benchmarks
 
-For strategies involving bonds and other fixed-income securities, benchmarks like the Bloomberg Barclays U.S. Aggregate Bond Index are commonly used. This index measures investment-grade, U.S. dollar-denominated, fixed-rate taxable bonds.
+For strategies involving bonds and other fixed-income securities, benchmarks like the [Bloomberg](../b/bloomberg.md) Barclays U.S. Aggregate Bond Index are commonly used. This index measures investment-grade, U.S. dollar-denominated, fixed-rate taxable bonds.
 
 ### Custom Benchmarks
 

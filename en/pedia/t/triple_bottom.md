@@ -46,11 +46,11 @@ At this point, [algorithmic trading](../a/algorithmic_trading.md) systems equipp
 
 Many trading platforms and companies offer tools and services that assist in recognizing and trading the Triple Bottom pattern. Some of these include:
 
-- **TradingView**: Provides advanced charting tools and a community platform where traders can share and discuss [technical analysis](../t/technical_analysis.md) patterns, including the Triple Bottom. [TradingView](https://www.tradingview.com)
+- **[TradingView](../t/tradingview.md)**: Provides advanced charting tools and a community platform where traders can share and discuss [technical analysis](../t/technical_analysis.md) patterns, including the Triple Bottom. [TradingView](https://www.tradingview.com)
 
 - **MetaTrader**: A popular trading platform that supports customizable indicators and automated [trading strategies](../t/trading_strategies.md). Developers can create custom scripts to identify and trade the Triple Bottom pattern. [MetaTrader](https://www.metatrader4.com)
 
-- **QuantConnect**: An [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to build, backtest, and deploy [trading algorithms](../t/trading_algorithms.md). It offers resources for [pattern recognition](../p/pattern_recognition.md) and trading strategy development. [QuantConnect](https://www.quantconnect.com)
+- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to build, backtest, and deploy [trading algorithms](../t/trading_algorithms.md). It offers resources for [pattern recognition](../p/pattern_recognition.md) and trading strategy development. [QuantConnect](https://www.quantconnect.com)
 
 - **Kavout**: Utilizes AI and machine learning to provide [trading signals](../t/trading_signals.md) and insights, which can include technical patterns like the Triple Bottom. [Kavout](https://www.kavout.com)
 

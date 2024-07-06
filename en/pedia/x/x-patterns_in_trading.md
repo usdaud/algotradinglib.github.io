@@ -35,7 +35,7 @@ Identifying X-Patterns involves monitoring price charts for specific formations.
 
 To maximize the benefits of X-Patterns, they can be integrated into [algorithmic trading](../a/algorithmic_trading.md) systems. Here are several ways to achieve this:
 
-1. **[Pattern Recognition](../p/pattern_recognition.md) Software**: Utilize advanced [pattern recognition](../p/pattern_recognition.md) software capable of detecting X-Patterns in real-time. Platforms like MetaTrader and NinjaTrader offer plugins and add-ons for [pattern recognition](../p/pattern_recognition.md).
+1. **[Pattern Recognition](../p/pattern_recognition.md) Software**: Utilize advanced [pattern recognition](../p/pattern_recognition.md) software capable of detecting X-Patterns in real-time. Platforms like MetaTrader and [NinjaTrader](../n/ninjatrader.md) offer plugins and add-ons for [pattern recognition](../p/pattern_recognition.md).
 2. **Custom Algorithms**: Develop [proprietary algorithms](../p/proprietary_algorithms.md) using programming languages like Python and R. Libraries such as TA-Lib and pandas can be useful for this purpose.
 3. **[Backtesting](../b/backtesting.md)**: Before deploying algorithms based on X-Patterns, conduct rigorous [backtesting](../b/backtesting.md) to validate their reliability and profitability.
 4. **Optimize Parameters**: Fine-tune algorithm parameters to account for different asset classes and trading environments.

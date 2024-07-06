@@ -52,10 +52,10 @@ Python, with its scientific libraries like SciPy, NumPy, and Pandas, offers exte
 R is another powerful language equipped with numerous packages for [time series analysis](../t/time_series_analysis.md) and lag calculation.
 
 ### 4. TradeStation
-TradeStation is a fully integrated trading platform that incorporates various [technical analysis](../t/technical_analysis.md) tools, including those for X-Lag Analysis.
+[TradeStation](../t/tradestation.md) is a fully integrated trading platform that incorporates various [technical analysis](../t/technical_analysis.md) tools, including those for X-Lag Analysis.
 
 ### 5. Bloomberg Terminal
-Bloomberg Terminal offers advanced analytics tools, including features for sophisticated time-lag analysis.
+[Bloomberg](../b/bloomberg.md) Terminal offers advanced analytics tools, including features for sophisticated time-lag analysis.
 
 ## Conclusion
 

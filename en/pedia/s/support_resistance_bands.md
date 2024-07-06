@@ -91,15 +91,15 @@ MetaTrader is one of the most widely used platforms that offer custom indicator 
 
 ### TradingView
 
-TradingView is a popular charting platform that allows for scripting custom algotrading strategies using Pine Script.
+[TradingView](../t/tradingview.md) is a popular charting platform that allows for scripting custom algotrading strategies using Pine Script.
 
 ### QuantConnect
 
-QuantConnect is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports C# and Python, offering tools to create [support and resistance](../s/support_and_resistance.md)-based strategies.
+[QuantConnect](../q/quantconnect.md) is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports C# and Python, offering tools to create [support and resistance](../s/support_and_resistance.md)-based strategies.
 
 ### Multicharts
 
-Multicharts offers advanced charting capabilities and the ability to develop [support and resistance](../s/support_and_resistance.md) indicators and strategies using EasyLanguage or PowerLanguage.
+[Multicharts](../m/multicharts.md) offers advanced charting capabilities and the ability to develop [support and resistance](../s/support_and_resistance.md) indicators and strategies using EasyLanguage or PowerLanguage.
 
 ## Conclusion
 

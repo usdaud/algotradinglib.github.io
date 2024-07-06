@@ -54,13 +54,13 @@ Jobless claims data is collected and reported by government agencies. In the Uni
 
 Several companies and platforms provide tools and services for analyzing and trading based on jobless claims data. Here are a few notable examples:
 
-1. **Bloomberg Terminal**: [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/) offers comprehensive financial data, including jobless claims reports. Traders can use the terminal to access historical data, perform analysis, and execute trades.
+1. **[Bloomberg](../b/bloomberg.md) Terminal**: [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/) offers comprehensive financial data, including jobless claims reports. Traders can use the terminal to access historical data, perform analysis, and execute trades.
 
-2. **Thomson Reuters Eikon**: [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software) provides real-time [economic indicators](../e/economic_indicators.md), including jobless claims. The platform's analytics tools can help traders incorporate this data into their strategies.
+2. **Thomson [Reuters](../r/reuters.md) Eikon**: [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software) provides real-time [economic indicators](../e/economic_indicators.md), including jobless claims. The platform's analytics tools can help traders incorporate this data into their strategies.
 
 3. **MetaTrader 5**: [MetaTrader 5](https://www.metatrader5.com/en) is a popular trading platform that supports [algorithmic trading](../a/algorithmic_trading.md). Traders can use custom scripts and expert advisors to automate trades based on jobless claims data.
 
-4. **QuantConnect**: [QuantConnect](https://www.quantconnect.com/) is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to develop and backtest strategies using various data sources, including jobless claims. The platform supports multiple programming languages, including Python.
+4. **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](https://www.quantconnect.com/) is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to develop and backtest strategies using various data sources, including jobless claims. The platform supports multiple programming languages, including Python.
 
 ## Conclusion
 

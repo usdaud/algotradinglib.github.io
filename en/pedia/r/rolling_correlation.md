@@ -107,7 +107,7 @@ Link: [Two Sigma](https://www.twosigma.com/)
 
 ### 3. **Bloomberg**
 
-Bloomberg provides financial data services, including tools to compute and analyze rolling correlations through its Bloomberg Terminal, aiding traders and analysts in making informed decisions.
+[Bloomberg](../b/bloomberg.md) provides financial data services, including tools to compute and analyze rolling correlations through its [Bloomberg](../b/bloomberg.md) Terminal, aiding traders and analysts in making informed decisions.
 
 Link: [Bloomberg](https://www.bloomberg.com/)
 

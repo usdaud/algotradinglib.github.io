@@ -30,7 +30,7 @@ This is a specialized form of [arbitrage](../a/arbitrage.md) focused on the acqu
 
 1. **Data Feeds**
 
-   Real-time and historical market data feeds are essential for [algorithmic trading](../a/algorithmic_trading.md) systems. Providers like Bloomberg, Refinitiv, and Quandl offer comprehensive datasets covering multiple asset classes.
+   Real-time and historical market data feeds are essential for [algorithmic trading](../a/algorithmic_trading.md) systems. Providers like [Bloomberg](../b/bloomberg.md), Refinitiv, and [Quandl](../q/quandl.md) offer comprehensive datasets covering multiple asset classes.
 
 2. **Execution Platforms**
 

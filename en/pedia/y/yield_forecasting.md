@@ -70,7 +70,7 @@ Companies like Renaissance Technologies, Citadel, and D.E. Shaw are known for em
 - [D.E. Shaw Group](https://www.deshaw.com/)
 
 #### **Retail Trading Platforms**
-Retail platforms like QuantConnect and Alpaca provide tools that enable individual traders and smaller firms to implement yield forecasting strategies in their [algorithmic trading](../a/algorithmic_trading.md) systems.
+Retail platforms like [QuantConnect](../q/quantconnect.md) and Alpaca provide tools that enable individual traders and smaller firms to implement yield forecasting strategies in their [algorithmic trading](../a/algorithmic_trading.md) systems.
 
 **For further reference:**
 - [QuantConnect](https://www.quantconnect.com/)

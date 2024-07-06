@@ -44,7 +44,7 @@ Machine learning models can enhance yield-risk strategies by identifying complex
 7. **Live Trading**: Deploying the algorithm for live trading, continuously monitoring performance, and making necessary adjustments.
 
 ### Example Platforms and Tools
-- **QuantConnect**: An open-source cloud platform for [algorithmic trading](../a/algorithmic_trading.md) and research, supporting multiple asset classes and offering robust [backtesting](../b/backtesting.md) tools. [QuantConnect](https://www.quantconnect.com/)
+- **[QuantConnect](../q/quantconnect.md)**: An open-source cloud platform for [algorithmic trading](../a/algorithmic_trading.md) and research, supporting multiple asset classes and offering robust [backtesting](../b/backtesting.md) tools. [QuantConnect](https://www.quantconnect.com/)
 - **Alpaca**: A commission-free API for trading stocks, which allows developers to create and execute algo [trading strategies](../t/trading_strategies.md). [Alpaca](https://alpaca.markets/)
 - **Interactive Brokers**: Provides a comprehensive suite of trading APIs for different asset classes, along with [risk management](../r/risk_management.md) tools. [Interactive Brokers](https://www.interactivebrokers.com/)
 
@@ -67,7 +67,7 @@ Develop a momentum-based trading algorithm that improves yield while managing ri
 
 6. **Optimization**: Adjust parameters (e.g., MACD periods, RSI thresholds) to improve the [Sharpe ratio](../s/sharpe_ratio.md) without overfitting the model.
 
-7. **Deployment**: Implement the strategy using a trading platform like QuantConnect, ensuring real-time data handling and execution.
+7. **Deployment**: Implement the strategy using a trading platform like [QuantConnect](../q/quantconnect.md), ensuring real-time data handling and execution.
 
 ### Challenges and Considerations
 

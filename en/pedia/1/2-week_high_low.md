@@ -91,8 +91,8 @@ While the basic 2-week high/low strategy is straightforward, traders often refin
 
 Various tools and platforms facilitate implementation:
 
-1. **QuantConnect:** [QuantConnect](https://www.quantconnect.com/) offers a cloud-based platform to design, backtest, and execute algorithmic strategies in multiple programming languages.
-2. **TradingView:** [TradingView](https://www.tradingview.com/) provides an easy-to-use interface for [technical analysis](../t/technical_analysis.md) and scripting custom [trading strategies](../t/trading_strategies.md) using Pine Script.
+1. **[QuantConnect](../q/quantconnect.md):** [QuantConnect](https://www.quantconnect.com/) offers a cloud-based platform to design, backtest, and execute algorithmic strategies in multiple programming languages.
+2. **[TradingView](../t/tradingview.md):** [TradingView](https://www.tradingview.com/) provides an easy-to-use interface for [technical analysis](../t/technical_analysis.md) and scripting custom [trading strategies](../t/trading_strategies.md) using Pine Script.
 3. **MetaTrader:** [MetaTrader](https://www.metatrader5.com/) supports [algorithmic trading](../a/algorithmic_trading.md) with its MQL4/MQL5 language for customized strategy scripts.
 
 ### Case Study

@@ -65,7 +65,7 @@ These focus on fixed-income securities considering reinvested interest.
 
 ### Commodity TRIs
 Total Return Commodity Indices take into account the price fluctuations and the collateral yield.
-- **Bloomberg Commodity Total Return Index**
+- **[Bloomberg](../b/bloomberg.md) Commodity Total Return Index**
 
 ## Factors Influencing Total Return Indices
 
