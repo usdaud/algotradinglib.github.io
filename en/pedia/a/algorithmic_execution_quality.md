@@ -61,7 +61,7 @@ Institutional investors such as hedge funds and mutual funds often deploy comple
 
 ### Retail Trading Platforms
 
-Platforms like Robinhood (https://robinhood.com/) and E*TRADE (https://us.etrade.com/home) also incorporate algorithms to provide retail investors with improved execution quality. These platforms often provide transparency into their execution quality metrics, helping retail investors make informed decisions.
+Platforms like [Robinhood](../r/robinhood.md) (https://[robinhood](../r/robinhood.md).com/) and E*TRADE (https://us.etrade.com/home) also incorporate algorithms to provide retail investors with improved execution quality. These platforms often provide transparency into their execution quality metrics, helping retail investors make informed decisions.
 
 ### High-Frequency Trading (HFT)
 

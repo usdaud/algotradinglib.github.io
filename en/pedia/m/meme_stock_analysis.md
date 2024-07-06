@@ -70,7 +70,7 @@ While some retail investors have achieved significant gains from trading meme st
 The coordinated efforts to drive up stock prices through social media campaigns can raise questions about market manipulation. Regulatory bodies such as the Securities and Exchange Commission (SEC) have been investigating these activities to determine if they constitute illegal market practices.
 
 ### Trading Platform Oversight
-Several trading platforms, including Robinhood, faced backlash for their decisions to restrict trading on certain meme stocks at the peak of their price surges. These actions were scrutinized for potentially protecting institutional investors at the expense of retail traders.
+Several trading platforms, including [Robinhood](../r/robinhood.md), faced backlash for their decisions to restrict trading on certain meme stocks at the peak of their price surges. These actions were scrutinized for potentially protecting institutional investors at the expense of retail traders.
 
 ### Retail Investor Protection
 Given the high-risk nature of meme stock trading, there is an ongoing debate about how to protect retail investors while ensuring fair and transparent market practices. Regulatory agencies are exploring ways to balance investor protection with market freedom.

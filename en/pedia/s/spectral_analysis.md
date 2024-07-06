@@ -145,7 +145,7 @@ Several financial technology companies offer platforms and APIs integrating spec
 1. **[QuantConnect](../q/quantconnect.md)**: A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform providing data, [backtesting](../b/backtesting.md), and execution capabilities, along with advanced analytics tools including spectral analysis.
    - [QuantConnect](https://www.quantconnect.com)
 
-2. **Alpaca**: API for [algorithmic trading](../a/algorithmic_trading.md) with features for data analysis and strategy implementation, supporting a variety of analytical methods including spectral analysis.
+2. **[Alpaca](../a/alpaca.md)**: API for [algorithmic trading](../a/algorithmic_trading.md) with features for data analysis and strategy implementation, supporting a variety of analytical methods including spectral analysis.
    - [Alpaca](https://alpaca.markets)
 
 ## Conclusion

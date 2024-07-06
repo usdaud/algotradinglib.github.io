@@ -105,7 +105,7 @@ Numerai uses AI and machine learning models, including advanced time series mode
 
 ### Alpaca
 [https://alpaca.markets](https://alpaca.markets)
-Alpaca offers commission-free trading APIs that can integrate predictive models based on [time series analysis](../t/time_series_analysis.md).
+[Alpaca](../a/alpaca.md) offers commission-free trading APIs that can integrate predictive models based on [time series analysis](../t/time_series_analysis.md).
 
 ### QuantInsti
 [https://www.quantinsti.com](https://www.quantinsti.com)

@@ -105,7 +105,7 @@ Website: [MetaQuotes - MetaTrader](https://www.metaquotes.net/)
 
 ### Thinkorswim
 
-[Thinkorswim](../t/thinkorswim.md), offered by TD Ameritrade, is a sophisticated trading platform with powerful charting and [technical analysis](../t/technical_analysis.md) tools. It is highly regarded by traders for its extensive features and user-friendly interface, making it ideal for breakout trading.
+[Thinkorswim](../t/thinkorswim.md), offered by TD [Ameritrade](../a/ameritrade.md), is a sophisticated trading platform with powerful charting and [technical analysis](../t/technical_analysis.md) tools. It is highly regarded by traders for its extensive features and user-friendly interface, making it ideal for breakout trading.
 
 Website: [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
 

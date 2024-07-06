@@ -54,7 +54,7 @@ Various companies and financial institutions utilize YTD returns in their perfor
 
 - **Fidelity Investments**: Fidelity provides various investment tools and performance analysis, often highlighting YTD returns for mutual funds and other investment products. ([Fidelity Investments](https://www.fidelity.com))
 - **Vanguard Group**: Vanguard's online platforms offer insights into YTD returns for its ETFs, mutual funds, and other financial instruments. ([Vanguard Group](https://www.vanguard.com))
-- **Charles Schwab**: Schwab's financial services include detailed performance reporting, where YTD returns are prominently featured for various asset classes. ([Charles Schwab](https://www.schwab.com))
+- **[Charles Schwab](../c/charles_schwab.md)**: Schwab's financial services include detailed performance reporting, where YTD returns are prominently featured for various asset classes. ([Charles Schwab](https://www.schwab.com))
 
 ## Conclusion
 

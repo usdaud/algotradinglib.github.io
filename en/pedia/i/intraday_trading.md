@@ -36,7 +36,7 @@ News-based trading relies on reacting quickly to news events, such as earnings r
 ## Tools and Technologies
 
 ### Trading Platforms
-Modern trading platforms like MetaTrader, Interactive Brokers, and Robinhood offer advanced features such as real-time quotes, charting tools, and automated trading capabilities, making them indispensable for day traders.
+Modern trading platforms like MetaTrader, Interactive Brokers, and [Robinhood](../r/robinhood.md) offer advanced features such as real-time quotes, charting tools, and automated trading capabilities, making them indispensable for day traders.
 
 ### Direct Market Access (DMA)
 Direct Market Access allows traders to access financial markets directly, bypassing intermediaries. This results in faster execution times, which can be critical in intraday trading.
@@ -87,7 +87,7 @@ Interactive Brokers offers a comprehensive trading platform suitable for intrada
 MetaTrader (MT4 and MT5) is widely used by intraday traders for its robust [technical analysis](../t/technical_analysis.md) capabilities and automated trading features through Expert Advisors (EAs). More information can be found on their [official site](https://www.metatrader4.com/).
 
 ### Robinhood
-Robinhood provides commission-free trading with [real-time market data](../r/real-time_market_data.md) and a user-friendly interface, making it popular among retail intraday traders. Visit their [official page](https://robinhood.com/) for more details.
+[Robinhood](../r/robinhood.md) provides commission-free trading with [real-time market data](../r/real-time_market_data.md) and a user-friendly interface, making it popular among retail intraday traders. Visit their [official page](https://robinhood.com/) for more details.
 
 ### TradeStation
 [TradeStation](../t/tradestation.md) offers advanced trading tools, [real-time market data](../r/real-time_market_data.md), and customizable [trading strategies](../t/trading_strategies.md). It is well-suited for both novice and experienced intraday traders. Their [website](https://www.tradestation.com/) has more information.
@@ -96,7 +96,7 @@ Robinhood provides commission-free trading with [real-time market data](../r/rea
 [NinjaTrader](../n/ninjatrader.md) is renowned for its charting capabilities, market analysis tools, and support for automated [trading strategies](../t/trading_strategies.md). More details are available on their [official page](https://ninjatrader.com/).
 
 ### Thinkorswim
-[Thinkorswim](../t/thinkorswim.md), by TD Ameritrade, offers advanced trading platforms with powerful [technical analysis](../t/technical_analysis.md) tools, real-time data, and [backtesting](../b/backtesting.md) features. Explore their offerings on the [official site](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page).
+[Thinkorswim](../t/thinkorswim.md), by TD [Ameritrade](../a/ameritrade.md), offers advanced trading platforms with powerful [technical analysis](../t/technical_analysis.md) tools, real-time data, and [backtesting](../b/backtesting.md) features. Explore their offerings on the [official site](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page).
 
 ## Conclusion
 

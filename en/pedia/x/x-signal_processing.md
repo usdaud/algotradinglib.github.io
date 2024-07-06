@@ -31,7 +31,7 @@ The success of X-signal processing depends significantly on the tools used. Here
 4. **Platforms**:
     - **[QuantConnect](../q/quantconnect.md)**: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform (https://www.[quantconnect](../q/quantconnect.md).com/).
     - **Quantopian**: Another notable platform providing a community-driven approach (now closed, but its remnants influence others).
-    - **Alpaca**: Commission-free trading with API access for [algorithmic trading](../a/algorithmic_trading.md) (https://alpaca.markets/).
+    - **[Alpaca](../a/alpaca.md)**: Commission-free trading with API access for [algorithmic trading](../a/algorithmic_trading.md) (https://[alpaca](../a/alpaca.md).markets/).
 
 #### Examples of Practical Algorithms
 

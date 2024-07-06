@@ -24,7 +24,7 @@ Backtrader integrates with several brokers and data providers to facilitate both
 
 - **Interactive Brokers (IB)**: Direct integration for live trading and data retrieval.
 - **Visual Chart**: Integration for both historical and live data.
-- **Oanda**: Support for live trading and data.
+- **[Oanda](../o/oanda.md)**: Support for live trading and data.
 - **Yahoo Finance**: Data feed integration for historical data.
 - **Other Data Feeds**: Ability to connect to a variety of other data sources using custom data feed classes.
 

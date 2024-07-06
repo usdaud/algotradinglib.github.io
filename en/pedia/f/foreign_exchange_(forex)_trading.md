@@ -111,7 +111,7 @@ Forex brokers facilitate retail traders' access to liquidity providers and offer
 ### APIs and SDKs
 
 APIs (Application Programming Interfaces) provide the ability to automate [trading strategies](../t/trading_strategies.md) and integrate tools. Some notable forex APIs include:
-- **OANDA API**: [OANDA API](https://developer.oanda.com/)
+- **[OANDA](../o/oanda.md) API**: [OANDA API](https://developer.oanda.com/)
 - **ForexConnect API**: [ForexConnect API](https://fxcodebase.com/)
 
 ## Regulation and Compliance

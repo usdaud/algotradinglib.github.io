@@ -52,7 +52,7 @@ In [algorithmic trading](../a/algorithmic_trading.md), where trades are executed
 Interactive Brokers offers a tiered fee structure where the per-share fee reduces as the monthly trading volume increases. They also provide the Trader Workstation (TWS) platform that includes TCA tools to help traders understand and minimize their [trading costs](../t/trading_costs.md).
 
 ### Robinhood [Robinhood](https://robinhood.com/)
-Robinhood popularized commission-free trading for retail investors. While they do not charge commissions, they make money through a process called payment for order flow, where market makers pay Robinhood to execute trades.
+[Robinhood](../r/robinhood.md) popularized commission-free trading for retail investors. While they do not charge commissions, they make money through a process called payment for order flow, where market makers pay [Robinhood](../r/robinhood.md) to execute trades.
 
 ### Fidelity [Fidelity](https://www.fidelity.com/)
 Fidelity offers zero-commission trades on U.S. stocks and ETFs for retail investors. They provide a range of tools and resources for active traders to optimize their cost structures.

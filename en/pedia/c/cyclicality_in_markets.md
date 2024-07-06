@@ -81,7 +81,7 @@ Machine learning models can be trained to identify complex patterns in market da
 Several notable companies and platforms focus on [algorithmic trading](../a/algorithmic_trading.md) and may offer tools to help understand and exploit [market cycles](../m/market_cycles.md):
 
 - **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](https://www.quantconnect.com/) provides a cloud-based platform for designing and [backtesting](../b/backtesting.md) [trading algorithms](../t/trading_algorithms.md).
-- **Alpaca**: [Alpaca](https://alpaca.markets/) offers commission-free trading with an API for executing algorithmic strategies.
+- **[Alpaca](../a/alpaca.md)**: [Alpaca](https://alpaca.markets/) offers commission-free trading with an API for executing algorithmic strategies.
 - **Two Sigma**: [Two Sigma](https://www.twosigma.com/) uses machine learning, distributed computing, and vast amounts of data to build [trading algorithms](../t/trading_algorithms.md).
 
 Understanding cyclicality in markets is fundamental for devising robust algotrading strategies. By analyzing economic, market, and psychological cycles, and leveraging algorithms to identify and predict these patterns, traders can increase their chances of success in financial markets.

@@ -54,7 +54,7 @@ Several trading platforms and software offer built-in heatmap functionalities, s
 
 - **[TradingView](../t/tradingview.md):** One of the most popular trading platforms that offer customizable heatmaps. ([TradingView](https://www.tradingview.com))
 - **[eSignal](../e/esignal.md):** Provides advanced charting tools including heatmaps. ([eSignal](https://www.esignal.com))
-- **[Thinkorswim](../t/thinkorswim.md):** Offered by TD Ameritrade, this platform includes heatmap visualizations. ([Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page))
+- **[Thinkorswim](../t/thinkorswim.md):** Offered by TD [Ameritrade](../a/ameritrade.md), this platform includes heatmap visualizations. ([Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page))
 
 ## Case Studies
 

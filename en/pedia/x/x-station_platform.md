@@ -4,7 +4,7 @@ The world of financial trading has undergone a significant transformation over t
 
 ## Overview
 
-X-Station is a [proprietary trading](../p/proprietary_trading.md) platform developed by XTB (X-Trade Brokers), a leading global brokerage firm. The platform is designed to offer traders an advanced and user-friendly interface, providing access to a variety of financial instruments, including Forex, commodities, indices, cryptocurrencies, and stocks. X-Station is known for its speed, reliability, and range of analytical tools, making it a preferred choice for both novice and experienced traders. 
+X-Station is a [proprietary trading](../p/proprietary_trading.md) platform developed by [XTB](../x/xtb.md) (X-Trade Brokers), a leading global brokerage firm. The platform is designed to offer traders an advanced and user-friendly interface, providing access to a variety of financial instruments, including Forex, commodities, indices, cryptocurrencies, and stocks. X-Station is known for its speed, reliability, and range of analytical tools, making it a preferred choice for both novice and experienced traders. 
 
 ## Key Features
 
@@ -41,11 +41,11 @@ X-Station is designed to be highly accessible, supporting multiple devices and o
 
 ## Security
 
-Security is a paramount concern for any trading platform, and X-Station prioritizes the protection of its users' data and funds. The platform employs advanced encryption technologies to safeguard personal information and transaction data. Additionally, X-Trade Brokers (XTB) is regulated by several financial authorities, including the Financial Conduct Authority (FCA) in the UK, the Cyprus Securities and Exchange Commission (CySEC), and the International Financial Services Commission (IFSC). These regulations ensure that the platform adheres to strict standards of security and transparency.
+Security is a paramount concern for any trading platform, and X-Station prioritizes the protection of its users' data and funds. The platform employs advanced encryption technologies to safeguard personal information and transaction data. Additionally, X-Trade Brokers ([XTB](../x/xtb.md)) is regulated by several financial authorities, including the Financial Conduct Authority (FCA) in the UK, the Cyprus Securities and Exchange Commission (CySEC), and the International Financial Services Commission (IFSC). These regulations ensure that the platform adheres to strict standards of security and transparency.
 
 ## User Support
 
-Another significant aspect of the X-Station platform is its user support. XTB provides comprehensive customer support to assist traders with any issues or questions they might have. This includes 24/5 support via live chat, email, and phone. The company’s website also features a detailed FAQ section and a range of support articles that cover common queries and provide guidance on using the platform.
+Another significant aspect of the X-Station platform is its user support. [XTB](../x/xtb.md) provides comprehensive customer support to assist traders with any issues or questions they might have. This includes 24/5 support via live chat, email, and phone. The company’s website also features a detailed FAQ section and a range of support articles that cover common queries and provide guidance on using the platform.
 
 ## Integration with Algorithmic Trading
 
@@ -53,10 +53,10 @@ For traders interested in [algorithmic trading](../a/algorithmic_trading.md), X-
 
 ## A Brief Look at XTB
 
-XTB, the company behind X-Station, is one of the largest stock exchange-listed FX and CFD brokers in the world. With its headquarters in Warsaw, Poland, XTB has grown to serve clients in over 13 countries, including major financial centers like London and Frankfurt. The company is known for its high-quality [brokerage services](../b/brokerage_services.md), extensive range of tradable assets, and commitment to transparency and security.
+[XTB](../x/xtb.md), the company behind X-Station, is one of the largest stock exchange-listed FX and CFD brokers in the world. With its headquarters in Warsaw, Poland, [XTB](../x/xtb.md) has grown to serve clients in over 13 countries, including major financial centers like London and Frankfurt. The company is known for its high-quality [brokerage services](../b/brokerage_services.md), extensive range of tradable assets, and commitment to transparency and security.
 
-For more detailed information about XTB and the X-Station platform, you can visit their official website: [XTB](https://www.xtb.com).
+For more detailed information about [XTB](../x/xtb.md) and the X-Station platform, you can visit their official website: [XTB](https://www.xtb.com).
 
 ## Conclusion
 
-In summary, the X-Station platform represents a powerful and user-friendly tool for traders of all experience levels. Its combination of advanced trading tools, comprehensive charting capabilities, and robust [risk management](../r/risk_management.md) features makes it a versatile choice for traders looking to navigate the complexities of the financial markets. With the added backing of a reputable brokerage like XTB, users of X-Station can trade with confidence, supported by a platform that prioritizes speed, reliability, and security.
+In summary, the X-Station platform represents a powerful and user-friendly tool for traders of all experience levels. Its combination of advanced trading tools, comprehensive charting capabilities, and robust [risk management](../r/risk_management.md) features makes it a versatile choice for traders looking to navigate the complexities of the financial markets. With the added backing of a reputable brokerage like [XTB](../x/xtb.md), users of X-Station can trade with confidence, supported by a platform that prioritizes speed, reliability, and security.

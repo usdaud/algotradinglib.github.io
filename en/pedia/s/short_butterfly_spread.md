@@ -80,7 +80,7 @@ Stocks tend to be more volatile around [earnings announcements](../e/earnings_an
 
 Several trading platforms and tools facilitate the creation and management of Short Butterfly Spreads:
 
-- **[ThinkOrSwim](../t/thinkorswim.md)** by TD Ameritrade: Known for advanced options trading capabilities. [Visit Website](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
+- **[ThinkOrSwim](../t/thinkorswim.md)** by TD [Ameritrade](../a/ameritrade.md): Known for advanced options trading capabilities. [Visit Website](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
 - **Interactive Brokers**: Offers advanced tools and analytics for options trading. [Visit Website](https://www.interactivebrokers.com/en/index.php?f=4985)
 - **E*TRADE**: Intuitive platform for options analysis and trading. [Visit Website](https://us.etrade.com/home)
 - **Tastyworks**: Specialized in options trading with user-friendly interfaces. [Visit Website](https://tastyworks.com/)

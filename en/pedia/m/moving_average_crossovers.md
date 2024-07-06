@@ -82,7 +82,7 @@ A moving average crossover occurs when one moving average crosses above or below
 
 2. **MetaTrader**: A popular trading platform widely used for creating and deploying [trading algorithms](../t/trading_algorithms.md). MetaTrader's built-in tools and scripting language (MQL) make it easy to develop, test, and execute moving average crossover strategies. More details can be found [here](https://www.metatrader4.com/).
 
-3. **Robinhood**: A commission-free trading app that supports [algorithmic trading](../a/algorithmic_trading.md) through its API, Robinhood allows for the implementation of moving average crossover strategies for various assets. Explore more at [Robinhood](https://robinhood.com/).
+3. **[Robinhood](../r/robinhood.md)**: A commission-free trading app that supports [algorithmic trading](../a/algorithmic_trading.md) through its API, [Robinhood](../r/robinhood.md) allows for the implementation of moving average crossover strategies for various assets. Explore more at [Robinhood](https://robinhood.com/).
 
 ### Conclusion
 

@@ -164,7 +164,7 @@ Numerous software platforms and tools can aid in the implementation of the Dual 
 
 ### Alpaca
 
-**Alpaca** is a commission-free trading platform that provides an API for [algorithmic trading](../a/algorithmic_trading.md). Developers can design, backtest, and deploy [trading strategies](../t/trading_strategies.md) in Python.
+**[Alpaca](../a/alpaca.md)** is a commission-free trading platform that provides an API for [algorithmic trading](../a/algorithmic_trading.md). Developers can design, backtest, and deploy [trading strategies](../t/trading_strategies.md) in Python.
 [Alpaca](https://alpaca.markets/)
 
 ### TradingView

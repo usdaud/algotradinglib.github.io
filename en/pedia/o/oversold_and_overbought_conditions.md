@@ -125,8 +125,8 @@ Several companies offer platforms and tools for developing and deploying [algori
 
 - **[QuantConnect](../q/quantconnect.md)**: [https://www.quantconnect.com/](https://www.quantconnect.com/)
 - **[AlgoTrader](../a/algotrader.md)**: [https://www.algotrader.com/](https://www.algotrader.com/)
-- **Quantopian** (now part of Robinhood): [https://www.quantopian.com/](https://www.quantopian.com/)
-- **Kite by Zerodha**: [https://kite.zerodha.com/](https://kite.zerodha.com/)
+- **Quantopian** (now part of [Robinhood](../r/robinhood.md)): [https://www.quantopian.com/](https://www.quantopian.com/)
+- **Kite by [Zerodha](../z/zerodha.md)**: [https://kite.zerodha.com/](https://kite.zerodha.com/)
 
 ### Conclusion
 Understanding and applying the concepts of oversold and overbought conditions in [algorithmic trading](../a/algorithmic_trading.md) can provide valuable insights and improve trading efficacy. Utilizing [technical indicators](../t/technical_indicators.md) like RSI, MACD, and stochastic oscillators within algorithmic systems enables traders to identify potential market reversals and make informed trading decisions. However, these indicators should be part of a broader strategy that includes [risk management](../r/risk_management.md) and thorough [backtesting](../b/backtesting.md) to enhance profitability and reduce potential losses.

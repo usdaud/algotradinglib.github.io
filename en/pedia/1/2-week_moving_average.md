@@ -107,7 +107,7 @@ Alpha Trading Labs provides a platform for developing and deploying [algorithmic
 [QuantConnect](../q/quantconnect.md) is an [algorithmic trading](../a/algorithmic_trading.md) platform that offers [backtesting](../b/backtesting.md) and live-trading services. Their platform supports numerous [technical indicators](../t/technical_indicators.md), including moving averages, and allows traders to build strategies using Python and C#.
 
 ### Alpaca (https://alpaca.markets)
-Alpaca provides commission-free trading APIs that allow users to automate their [trading algorithms](../t/trading_algorithms.md) with ease. They offer extensive documentation and support for integrating moving average-based strategies.
+[Alpaca](../a/alpaca.md) provides commission-free trading APIs that allow users to automate their [trading algorithms](../t/trading_algorithms.md) with ease. They offer extensive documentation and support for integrating moving average-based strategies.
 
 ## Conclusion
 

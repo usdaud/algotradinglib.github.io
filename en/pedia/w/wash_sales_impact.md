@@ -38,7 +38,7 @@ For individual traders and firms, compliance with wash sale rules is crucial to 
 
 ### Brokers and Platforms
 
-Many modern brokerage firms and trading platforms provide tools to help traders identify and manage wash sales. These tools can be particularly useful for algorithmic traders who execute a high volume of transactions. Examples of brokers offering such tools include Interactive Brokers and Charles Schwab.
+Many modern brokerage firms and trading platforms provide tools to help traders identify and manage wash sales. These tools can be particularly useful for algorithmic traders who execute a high volume of transactions. Examples of brokers offering such tools include Interactive Brokers and [Charles Schwab](../c/charles_schwab.md).
 
 - [Interactive Brokers](https://www.interactivebrokers.com)
 - [Charles Schwab](https://www.schwab.com)

@@ -50,7 +50,7 @@ In the context of [algorithmic trading](../a/algorithmic_trading.md), inflation 
     - Python, R, and C++ are commonly used for developing [trading algorithms](../t/trading_algorithms.md) due to their extensive libraries and frameworks.
 
 3. **API Integration**:
-    - Use broker APIs from platforms like Interactive Brokers ([website](https://www.interactivebrokers.com)) or Alpaca ([website](https://alpaca.markets)) for live trading.
+    - Use broker APIs from platforms like Interactive Brokers ([website](https://www.interactivebrokers.com)) or [Alpaca](../a/alpaca.md) ([website](https://alpaca.markets)) for live trading.
 
 ### Risk Management in Inflation Hedging
 

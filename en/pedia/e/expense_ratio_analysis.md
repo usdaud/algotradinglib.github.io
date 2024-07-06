@@ -50,7 +50,7 @@ Total fund costs include management fees, administrative fees, operating costs, 
 
 - **BlackRock ([BlackRock](https://www.blackrock.com))**, through its iShares product line, offers a wide array of ETFs, many of which have competitively low expense ratios, appealing to both retail and institutional investors.
 
-- **Charles Schwab ([Charles Schwab](https://www.schwab.com))** provides a plethora of investment options with varying expense ratios, often competitively priced to attract more investors.
+- **[Charles Schwab](../c/charles_schwab.md) ([Charles Schwab](https://www.schwab.com))** provides a plethora of investment options with varying expense ratios, often competitively priced to attract more investors.
 
 #### Conclusion
 

@@ -38,7 +38,7 @@ Example:
 
 2. **Two Sigma** (https://www.twosigma.com): Two Sigma is a technology-driven quantitative investment firm that employs [algorithmic trading](../a/algorithmic_trading.md) strategies. The firm focuses on using data science and machine learning to generate sustained returns, often measured over multi-year periods including the 3-year average return.
 
-3. **Alpaca** (https://alpaca.markets): Alpaca is a commission-free trading platform that offers API access for [algorithmic trading](../a/algorithmic_trading.md). Evaluating the 3-year average return of different algorithmic strategies is crucial for users of the platform to make informed investment decisions.
+3. **[Alpaca](../a/alpaca.md)** (https://[alpaca](../a/alpaca.md).markets): [Alpaca](../a/alpaca.md) is a commission-free trading platform that offers API access for [algorithmic trading](../a/algorithmic_trading.md). Evaluating the 3-year average return of different algorithmic strategies is crucial for users of the platform to make informed investment decisions.
 
 ### Conclusion
 

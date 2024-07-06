@@ -18,11 +18,11 @@ Front-end platforms are the most commonly known trading software, providing a gr
    - Website: [MetaTrader](https://www.metatrader4.com/)
    - Features: Forex, CFD and futures trading, automated trading through Expert Advisors (EAs), charting tools, [technical analysis](../t/technical_analysis.md).
 
-3. **[Thinkorswim](../t/thinkorswim.md) by TD Ameritrade**
+3. **[Thinkorswim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md)**
    - Website: [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.html)
    - Features: Support for options, futures, forex, and stock trading, advanced charting tools, paper trading functionality.
 
-4. **eToro Platform**
+4. **[eToro](../e/etoro.md) Platform**
    - Website: [eToro](https://www.etoro.com/)
    - Features: [Social trading](../s/social_trading.md), copy trading, diverse asset classes including cryptocurrencies, straightforward interface.
 

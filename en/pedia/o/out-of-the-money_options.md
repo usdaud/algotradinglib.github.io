@@ -46,7 +46,7 @@ Investors and traders employ various strategies using OTM options, primarily foc
 Many financial institutions and online platforms offer tools and services to trade OTM options. Some notable ones include:
 - **Interactive Brokers** (https://www.interactivebrokers.com/): Known for comprehensive options trading and low commissions.
 - **E*TRADE** (https://us.etrade.com/): Offers extensive research tools and educational resources.
-- **TD Ameritrade** (https://www.tdameritrade.com/): Provides a robust trading platform with advanced analytics.
+- **TD [Ameritrade](../a/ameritrade.md)** (https://www.tdameritrade.com/): Provides a robust trading platform with advanced analytics.
 - **OptionsHouse** (part of E*TRADE): Specializes in options trading with competitive pricing.
 
 #### Conclusion

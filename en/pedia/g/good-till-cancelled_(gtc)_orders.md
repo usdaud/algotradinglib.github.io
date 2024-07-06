@@ -46,7 +46,7 @@ Different brokers and exchanges may have varied rules regarding GTC orders, incl
 
 1. **Interactive Brokers**: A leading brokerage firm that supports a wide range of order types, including GTC orders with detailed setups. More information can be found on their [official website](https://www.interactivebrokers.com).
 
-2. **TD Ameritrade**: This brokerage provides GTC orders, allowing investors the flexibility to maintain open orders over significant periods. Detailed information can be found on their [official page](https://www.tdameritrade.com).
+2. **TD [Ameritrade](../a/ameritrade.md)**: This brokerage provides GTC orders, allowing investors the flexibility to maintain open orders over significant periods. Detailed information can be found on their [official page](https://www.tdameritrade.com).
 
 3. **E*TRADE**: Known for a user-friendly platform, E*TRADE offers GTC order options catering to both novice and experienced investors. Further details can be found on their site [here](https://us.etrade.com).
 

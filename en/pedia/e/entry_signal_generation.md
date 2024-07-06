@@ -91,4 +91,4 @@ Entry signal generation is a complex yet vital aspect of [algorithmic trading](.
 
 For further reading and practical application, refer to domain-specific resources such as the following companies:
 - [QuantConnect](../q/quantconnect.md) [link](https://www.quantconnect.com)
-- Alpaca [link](https://alpaca.markets)
+- [Alpaca](../a/alpaca.md) [link](https://alpaca.markets)

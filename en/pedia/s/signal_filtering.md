@@ -46,7 +46,7 @@ You can find more information at [QuantConnect](https://www.quantconnect.com/).
 More details can be accessed at [TradeStation](https://www.tradestation.com/).
 
 ### Alpaca Markets
-Alpaca Markets offers API-based trading solutions with built-in support for signal filtering. It is particularly popular among retail traders and developers for its ease of use and flexibility.
+[Alpaca](../a/alpaca.md) Markets offers API-based trading solutions with built-in support for signal filtering. It is particularly popular among retail traders and developers for its ease of use and flexibility.
 
 Explore more at [Alpaca Markets](https://alpaca.markets/).
 

@@ -90,7 +90,7 @@ Incorporating [behavioral finance](../b/behavioral_finance.md) insights into per
 [MetaTrader](https://www.metatrader4.com/) is a popular trading platform that supports [algorithmic trading](../a/algorithmic_trading.md) through its scripting language, MQL. It allows users to develop and backtest trading robots, [technical indicators](../t/technical_indicators.md), and [trading strategies](../t/trading_strategies.md).
 
 ### 4. Alpaca
-[Alpaca](https://alpaca.markets/) provides a commission-free trading API for building and executing [algorithmic trading](../a/algorithmic_trading.md) strategies. Alpaca's platform supports [real-time market data](../r/real-time_market_data.md) and paper trading for strategy testing.
+[Alpaca](https://alpaca.markets/) provides a commission-free trading API for building and executing [algorithmic trading](../a/algorithmic_trading.md) strategies. [Alpaca](../a/alpaca.md)'s platform supports [real-time market data](../r/real-time_market_data.md) and paper trading for strategy testing.
 
 ### 5. TradeStation
 [TradeStation](https://www.tradestation.com/) offers a powerful platform for [algorithmic trading](../a/algorithmic_trading.md) with advanced charting, [backtesting](../b/backtesting.md), and performance analysis tools. [TradeStation](../t/tradestation.md)'s EasyLanguage programming language enables traders to develop custom indicators and strategies.

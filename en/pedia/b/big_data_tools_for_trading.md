@@ -131,7 +131,7 @@ For more information, visit the [QuantConnect Website](https://www.quantconnect.
 
 ## 9. Alpaca
 
-Alpaca offers an API for commission-free trading, with extensive documentation and features for [algorithmic trading](../a/algorithmic_trading.md).
+[Alpaca](../a/alpaca.md) offers an API for commission-free trading, with extensive documentation and features for [algorithmic trading](../a/algorithmic_trading.md).
 
 - **Usage in Trading:**
   - **[Algorithmic Trading](../a/algorithmic_trading.md):** Provides APIs for developing and executing [algorithmic trading](../a/algorithmic_trading.md) strategies.

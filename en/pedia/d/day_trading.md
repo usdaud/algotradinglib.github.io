@@ -30,7 +30,7 @@ Reversal trading aims to capitalize on the change in the direction of a price tr
 ## Essential Tools for Day Trading
 
 ### 1. Trading Platforms
-Day traders rely on advanced trading platforms that provide comprehensive charting tools, real-time news, and fast execution speeds. Popular platforms include **MetaTrader**, **[Thinkorswim](../t/thinkorswim.md)** by TD Ameritrade, and **Interactive Brokers**.
+Day traders rely on advanced trading platforms that provide comprehensive charting tools, real-time news, and fast execution speeds. Popular platforms include **MetaTrader**, **[Thinkorswim](../t/thinkorswim.md)** by TD [Ameritrade](../a/ameritrade.md), and **Interactive Brokers**.
 
 ### 2. Technical Indicators
 [Technical indicators](../t/technical_indicators.md) are mathematical calculations based on historic price, volume, or open interest information. Commonly used indicators include moving averages, [Bollinger Bands](../b/bollinger_bands.md), MACD, and Relative Strength Index (RSI).

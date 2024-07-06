@@ -86,7 +86,7 @@ Interactive Brokers offers a range of tools for [algorithmic trading](../a/algor
 
 ### Alpaca
 
-Alpaca is a commission-free trading platform that provides APIs for building and deploying trading bots. It supports [algorithmic trading](../a/algorithmic_trading.md) in both forex and stock markets.
+[Alpaca](../a/alpaca.md) is a commission-free trading platform that provides APIs for building and deploying trading bots. It supports [algorithmic trading](../a/algorithmic_trading.md) in both forex and stock markets.
 
 - [Alpaca](https://alpaca.markets/)
 

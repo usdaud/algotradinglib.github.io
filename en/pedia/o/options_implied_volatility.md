@@ -114,7 +114,7 @@ For more information, visit the [Bloomberg website](https://www.bloomberg.com/pr
 
 ### 2. **Thinkorswim**
 
-[Thinkorswim](../t/thinkorswim.md), a trading platform by TD Ameritrade, provides powerful tools for options traders. It includes features to analyze implied volatility, strategies, and greeks, helping traders make informed decisions.
+[Thinkorswim](../t/thinkorswim.md), a trading platform by TD [Ameritrade](../a/ameritrade.md), provides powerful tools for options traders. It includes features to analyze implied volatility, strategies, and greeks, helping traders make informed decisions.
 
 Learn more at [Thinkorswim](https://www.thinkorswim.com/).
 

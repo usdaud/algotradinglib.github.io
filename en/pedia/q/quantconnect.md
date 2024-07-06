@@ -28,7 +28,7 @@ QuantConnect is a cloud-based [algorithmic trading](../a/algorithmic_trading.md)
 ## Integrations
 QuantConnect integrates with a variety of brokers, data providers, and third-party services to enhance its functionality. Some notable integrations include:
 
-- **Brokerage Firms**: Integration with brokers such as Interactive Brokers, OANDA, and GDAX for live trading and data feeds.
+- **Brokerage Firms**: Integration with brokers such as Interactive Brokers, [OANDA](../o/oanda.md), and GDAX for live trading and data feeds.
 - **Data Providers**: Access to market data from providers like [Morningstar](../m/morningstar.md), FXCM, and others.
 - **Cloud Services**: Leverages cloud computing platforms like Microsoft Azure and Amazon Web Services (AWS) for scalable computational resources.
 - **Third-Party Tools**: Support for various third-party tools and libraries to extend platform capabilities.

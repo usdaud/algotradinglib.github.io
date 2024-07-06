@@ -59,7 +59,7 @@ Various companies specialize in providing platforms and tools tailored to X-Pric
 
 - **[QuantConnect](../q/quantconnect.md)**
   [QuantConnect](https://www.quantconnect.com/)
-- **Alpaca**
+- **[Alpaca](../a/alpaca.md)**
   [Alpaca](https://alpaca.markets/)
 - **[TradeStation](../t/tradestation.md)**
   [TradeStation](https://www.tradestation.com/)

@@ -87,7 +87,7 @@ Implementing RSI-based strategies involves the use of trading platforms and soft
 2. **[TradingView](../t/tradingview.md)**:
     - Provides a highly interactive charting platform with RSI and other [technical indicators](../t/technical_indicators.md) available. [TradingView](https://www.tradingview.com)
     
-3. **[Thinkorswim](../t/thinkorswim.md)** by TD Ameritrade:
+3. **[Thinkorswim](../t/thinkorswim.md)** by TD [Ameritrade](../a/ameritrade.md):
     - Includes RSI in its suite of [technical analysis](../t/technical_analysis.md) tools.
     
 4. **[NinjaTrader](../n/ninjatrader.md)**:

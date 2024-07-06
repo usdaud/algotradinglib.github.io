@@ -88,7 +88,7 @@ Quantopian provides a platform for developing, testing, and deploying [trading a
 
 ### 4. [Alpaca](https://alpaca.markets/)
 
-Alpaca offers commission-free trading and advanced API access, making it easier to integrate deep learning models with [trading strategies](../t/trading_strategies.md).
+[Alpaca](../a/alpaca.md) offers commission-free trading and advanced API access, making it easier to integrate deep learning models with [trading strategies](../t/trading_strategies.md).
 
 ### 5. [Numerai](https://numer.ai/)
 

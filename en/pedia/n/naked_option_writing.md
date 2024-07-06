@@ -58,7 +58,7 @@ During the 2008 financial crisis, many traders who were involved in naked option
 Various platforms facilitate trading and risk assessment for options, including the possibility for naked option writing, providing tools for analysis, [risk management](../r/risk_management.md), and more:
 
 - **Interactive Brokers**: Known for sophisticated trading tools and global reach, it caters to experienced traders and professionals. [Interactive Brokers](https://www.interactivebrokers.com)
-- **TD Ameritrade’s [thinkorswim](../t/thinkorswim.md)**: Offers advanced charting, screening tools, and educational content suitable for high-level [trading strategies](../t/trading_strategies.md). [TD Ameritrade](https://www.tdameritrade.com)
+- **TD [Ameritrade](../a/ameritrade.md)’s [thinkorswim](../t/thinkorswim.md)**: Offers advanced charting, screening tools, and educational content suitable for high-level [trading strategies](../t/trading_strategies.md). [TD Ameritrade](https://www.tdameritrade.com)
 
 ### Algorithmic Trading and Risk Management
 

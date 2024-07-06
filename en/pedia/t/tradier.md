@@ -1,4 +1,4 @@
-﻿# Tradier
+# Tradier
 
 ## Overview
 Tradier is a leading financial services provider offering a comprehensive trading platform and API solutions for equity and options trading. Known for its innovative technology, competitive pricing, and robust API offerings, Tradier caters to individual traders, developers, and third-party platforms, providing seamless access to financial markets.
@@ -12,12 +12,12 @@ Tradier is a leading financial services provider offering a comprehensive tradin
 6. **API Access**: Robust APIs for automated trading, custom integrations, and developing third-party trading applications.
 7. **Developer-Friendly**: Extensive documentation, SDKs, and support for developers building on the Tradier platform.
 8. **Mobile Trading**: Mobile apps for iOS and Android devices, allowing trading on the go.
-9. **Risk Management Tools**: Includes advanced order types, risk management tools, and real-time risk metrics.
-10. **Secure and Regulated**: Tradier is regulated by top-tier financial authorities, ensuring a secure trading environment.
+9. **[Risk Management](../r/risk_management.md) Tools**: Includes advanced order types, [risk management](../r/risk_management.md) tools, and real-time [risk metrics](../r/risk_metrics.md).
+10. **Secure and Regulated**: Tradier is regulated by top-tier financial authorities, ensuring a secure [trading environment](../t/trading_environment.md).
 
 ## Key Components
 - **Tradier Brokerage**: A comprehensive trading platform for managing investments, conducting trades, and accessing research and educational resources.
-- **Tradier API**: A powerful set of APIs for building custom trading solutions, automated trading strategies, and integrating third-party applications.
+- **Tradier API**: A powerful set of APIs for building custom trading solutions, automated [trading strategies](../t/trading_strategies.md), and integrating third-party applications.
 - **Mobile Trading Apps**: Mobile applications for iOS and Android with full trading functionality.
 - **Market Research and Analysis Tools**: Comprehensive tools for market research, stock analysis, and investment insights.
 - **Educational Resources**: A library of educational content, including webinars, tutorials, and articles.
@@ -33,14 +33,14 @@ Tradier integrates with a variety of financial platforms and tools to enhance it
 
 ## Use Cases
 - **Individual Traders**: Utilized by individual traders for managing their investments, accessing research, and trading in various markets.
-- **Active Traders**: Provides active traders with powerful trading tools, real-time market data, and advanced analysis.
-- **Developers**: Supports developers in building custom trading applications and automated trading strategies through robust APIs.
+- **Active Traders**: Provides active traders with powerful trading tools, [real-time market data](../r/real-time_market_data.md), and advanced analysis.
+- **Developers**: Supports developers in building custom trading applications and automated [trading strategies](../t/trading_strategies.md) through robust APIs.
 - **Third-Party Platforms**: Enables third-party platforms to integrate trading capabilities using Tradier's API solutions.
 - **Educational Purposes**: Supports new and experienced traders with extensive educational resources and market analysis.
 
 ## Regulation
-Tradier is regulated by several top-tier financial authorities, ensuring a secure and compliant trading environment:
-- Financial Industry Regulatory Authority (FINRA)
+Tradier is regulated by several top-tier financial authorities, ensuring a secure and compliant [trading environment](../t/trading_environment.md):
+- Financial Industry Regulatory Authority ([FINRA](../f/finra.md))
 - Securities Investor Protection Corporation (SIPC)
 
 ## Website

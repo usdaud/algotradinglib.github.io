@@ -36,7 +36,7 @@ Regulations ensure market integrity, protect investors, and maintain fair and or
 
 Various entities participate in the trading environment, each with different motivations, strategies, and impacts on the market.
 
-- **Retail Investors**: Individual investors trading for personal accounts, typically through brokerage platforms like Robinhood (https://www.robinhood.com) and E*TRADE (https://us.etrade.com).
+- **Retail Investors**: Individual investors trading for personal accounts, typically through brokerage platforms like [Robinhood](../r/robinhood.md) (https://www.[robinhood](../r/robinhood.md).com) and E*TRADE (https://us.etrade.com).
 
 - **Institutional Investors**: Large organizations such as mutual funds, pension funds, and insurance companies managing significant assets. Examples include BlackRock (https://www.blackrock.com) and Vanguard Group (https://www.vanguard.com).
 

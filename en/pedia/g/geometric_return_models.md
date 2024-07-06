@@ -69,7 +69,7 @@ Although HFT often focuses on short-term gains, understanding the geometric retu
 
 #### Case Study 2: Alpaca
 
-Alpaca offers a commission-free trading platform with an API for [algorithmic trading](../a/algorithmic_trading.md). By integrating geometric return calculations, Alpaca helps traders evaluate the long-term performance of their strategies, enhancing their decision-making processes.
+[Alpaca](../a/alpaca.md) offers a commission-free trading platform with an API for [algorithmic trading](../a/algorithmic_trading.md). By integrating geometric return calculations, [Alpaca](../a/alpaca.md) helps traders evaluate the long-term performance of their strategies, enhancing their decision-making processes.
 
 **Link**: [Alpaca](https://alpaca.markets)
 
@@ -77,4 +77,4 @@ Alpaca offers a commission-free trading platform with an API for [algorithmic tr
 
 Geometric return models are a fundamental tool in [algorithmic trading](../a/algorithmic_trading.md), enabling traders to account for the compounding effect of returns over multiple periods. Their importance spans [risk management](../r/risk_management.md), performance measurement, [portfolio optimization](../p/portfolio_optimization.md), and [backtesting](../b/backtesting.md). By incorporating geometric returns into their [trading algorithms](../t/trading_algorithms.md), traders can achieve a more accurate and realistic understanding of their strategies' long-term potential.
 
-Implementing geometric return models in platforms like [QuantConnect](../q/quantconnect.md) and Alpaca highlights their practical applications and benefits, providing traders with the tools needed to optimize their [trading strategies](../t/trading_strategies.md) effectively.
+Implementing geometric return models in platforms like [QuantConnect](../q/quantconnect.md) and [Alpaca](../a/alpaca.md) highlights their practical applications and benefits, providing traders with the tools needed to optimize their [trading strategies](../t/trading_strategies.md) effectively.

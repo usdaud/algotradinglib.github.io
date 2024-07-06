@@ -57,7 +57,7 @@ MetaTrader platforms, offered by MetaQuotes Software Corp., support CCI and vari
 
 ### Thinkorswim
 
-[Thinkorswim](../t/thinkorswim.md) by TD Ameritrade (https://www.tdameritrade.com/tools-and-platforms/[thinkorswim](../t/thinkorswim.md).page) offers professional-grade trading tools including the CCI indicator. It’s known for its advanced charting options and customizable [trading strategies](../t/trading_strategies.md).
+[Thinkorswim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md) (https://www.tdameritrade.com/tools-and-platforms/[thinkorswim](../t/thinkorswim.md).page) offers professional-grade trading tools including the CCI indicator. It’s known for its advanced charting options and customizable [trading strategies](../t/trading_strategies.md).
 
 ### NinjaTrader
 

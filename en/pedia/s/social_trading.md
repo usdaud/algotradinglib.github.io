@@ -38,7 +38,7 @@ Investors in social trading platforms may become emotionally invested in the suc
 
 ## Popular Platforms
 ### eToro
-[eToro](https://www.etoro.com/) is one of the most well-known social trading platforms globally. It offers a user-friendly interface where investors can follow and copy the trades of top-performing traders in real-time. eToro also provides a comprehensive educational center and a demo account for new users.
+[eToro](https://www.etoro.com/) is one of the most well-known social trading platforms globally. It offers a user-friendly interface where investors can follow and copy the trades of top-performing traders in real-time. [eToro](../e/etoro.md) also provides a comprehensive educational center and a demo account for new users.
 
 ### ZuluTrade
 [ZuluTrade](https://www.zulutrade.com/) connects traders with investors by providing access to a wide range of signal providers. The platform ranks signal providers based on [performance metrics](../p/performance_metrics.md), helping investors make informed choices.

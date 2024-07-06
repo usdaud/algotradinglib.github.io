@@ -74,7 +74,7 @@ Several companies are notable for their index tracking strategies. A few of the 
 - **Vanguard**: Known for pioneering index funds, Vanguard offers a wide range of index-tracking products. [Visit Vanguard](https://www.vanguard.com)
 - **BlackRock**: Through its iShares brand, BlackRock provides a broad array of index funds and ETFs. [Visit BlackRock](https://www.blackrock.com)
 - **State Street Global Advisors (SSGA)**: As a prominent provider of ETFs under the SPDR brand, SSGA offers extensive index tracking solutions. [Visit SSGA](https://www.ssga.com)
-- **Charles Schwab**: Offers a variety of low-cost index funds tailored to retail investors. [Visit Charles Schwab](https://www.schwab.com)
+- **[Charles Schwab](../c/charles_schwab.md)**: Offers a variety of low-cost index funds tailored to retail investors. [Visit Charles Schwab](https://www.schwab.com)
 - **Fidelity**: Provides both traditional mutual funds and ETFs that track an assortment of indices. [Visit Fidelity](https://www.fidelity.com)
 
 ### Conclusion

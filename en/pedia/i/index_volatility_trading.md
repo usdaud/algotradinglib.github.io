@@ -83,7 +83,7 @@ Several trading platforms offer access to volatility indices and related [deriva
 
   Link: [Interactive Brokers](https://www.interactivebrokers.com/)
 
-- **TD Ameritrade**: Offers extensive trading tools and educational resources for trading volatility indices and options.
+- **TD [Ameritrade](../a/ameritrade.md)**: Offers extensive trading tools and educational resources for trading volatility indices and options.
 
   Link: [TD Ameritrade](https://www.tdameritrade.com/)
 

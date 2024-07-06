@@ -68,7 +68,7 @@ High-frequency trading firms like Virtu Financial [Virtu Financial](https://www.
 Institutional investors such as BlackRock [BlackRock](https://www.blackrock.com) and Vanguard [Vanguard](https://www.vanguard.com) use market structure analysis to manage large portfolios and execute trades efficiently. They leverage TCA and [volume analysis](../v/volume_analysis.md) to minimize costs and enhance returns.
 
 ### 3. **Retail Trading Platforms**
-Retail trading platforms like Robinhood [Robinhood](https://www.robinhood.com) and Interactive Brokers [Interactive Brokers](https://www.interactivebrokers.com) analyze market structures to provide better execution quality for individual traders. They focus on [order routing](../o/order_routing.md), execution speed, and transparency to improve user experience.
+Retail trading platforms like [Robinhood](../r/robinhood.md) [Robinhood](https://www.robinhood.com) and Interactive Brokers [Interactive Brokers](https://www.interactivebrokers.com) analyze market structures to provide better execution quality for individual traders. They focus on [order routing](../o/order_routing.md), execution speed, and transparency to improve user experience.
 
 ## Challenges in Market Structure Analysis
 

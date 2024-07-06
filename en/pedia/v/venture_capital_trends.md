@@ -28,7 +28,7 @@ Example: Generation Investment Management, co-founded by former Vice President A
 
 The financial technology (fintech) sector continues to attract substantial [venture capital investment](../v/venture_capital_investment.md). Innovations in this sector, such as digital banking, blockchain technology, and payment solutions, have disrupted traditional financial services and attracted a significant amount of interest from VC firms. The COVID-19 pandemic has further accelerated the adoption of digital financial services, contributing to the surge in fintech investments.
 
-Example: Sequoia Capital has been a significant investor in fintech companies, including major investments in firms like Stripe and Robinhood. [Sequoia Capital](https://www.sequoiacap.com/)
+Example: Sequoia Capital has been a significant investor in fintech companies, including major investments in firms like Stripe and [Robinhood](../r/robinhood.md). [Sequoia Capital](https://www.sequoiacap.com/)
 
 #### 5. Advancements in Health Tech
 

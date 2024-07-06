@@ -1,4 +1,4 @@
-﻿# DEGIRO
+# DEGIRO
 
 ## Overview
 DEGIRO is a popular online brokerage firm offering low-cost trading services across a wide range of financial instruments. Founded in the Netherlands, DEGIRO is known for its competitive pricing, comprehensive trading platform, and accessibility to both individual and institutional investors. The platform provides access to global markets, enabling users to trade stocks, bonds, ETFs, options, futures, and more.
@@ -12,7 +12,7 @@ DEGIRO is a popular online brokerage firm offering low-cost trading services acr
 6. **Mobile Trading**: Mobile app for iOS and Android devices, allowing trading on the go.
 7. **Research and Analysis**: Access to in-depth research reports, market news, and analysis tools.
 8. **Secure Trading**: High security standards with encryption and secure login methods to protect user data and transactions.
-9. **Portfolio Management**: Tools for tracking and managing investment portfolios efficiently.
+9. **[Portfolio Management](../p/portfolio_management.md)**: Tools for tracking and managing investment portfolios efficiently.
 10. **No Minimum Deposit**: Start trading without the need for a minimum deposit, making it accessible to all levels of investors.
 
 ## Key Components
@@ -20,14 +20,14 @@ DEGIRO is a popular online brokerage firm offering low-cost trading services acr
 - **Mobile App**: Mobile trading application for convenient access to trading and account management on the go.
 - **Research and Analysis Tools**: Comprehensive tools for conducting market research, analyzing stocks, and making informed investment decisions.
 - **Wide Range of Markets**: Access to over 50 exchanges across 30 countries, providing a truly global trading experience.
-- **Educational Resources**: A library of educational content designed to help users understand the markets and improve their trading strategies.
+- **Educational Resources**: A library of educational content designed to help users understand the markets and improve their [trading strategies](../t/trading_strategies.md).
 
 ## Integrations
 DEGIRO integrates with a variety of financial platforms and tools to enhance its trading services. Some notable integrations include:
 
 - **Market Data Providers**: Integration with leading market data providers for real-time and historical data.
 - **Research Providers**: Access to third-party research and analysis tools.
-- **Portfolio Management Tools**: Integration with portfolio management and tracking tools.
+- **[Portfolio Management](../p/portfolio_management.md) Tools**: Integration with [portfolio management](../p/portfolio_management.md) and tracking tools.
 - **APIs**: Provides APIs for custom integrations and automated trading solutions.
 
 ## Use Cases
@@ -38,7 +38,7 @@ DEGIRO integrates with a variety of financial platforms and tools to enhance its
 - **Portfolio Managers**: Assists portfolio managers in tracking and managing their investment portfolios with comprehensive tools and reports.
 
 ## Regulation
-DEGIRO is regulated by the Dutch Authority for the Financial Markets (AFM) and operates under the supervision of the Netherlands Central Bank (DNB), ensuring a secure and compliant trading environment.
+DEGIRO is regulated by the Dutch Authority for the Financial Markets (AFM) and operates under the supervision of the Netherlands Central Bank (DNB), ensuring a secure and compliant [trading environment](../t/trading_environment.md).
 
 ## Website
 For more information and to start trading, visit the official DEGIRO website: [DEGIRO](https://www.degiro.com)

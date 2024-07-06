@@ -45,7 +45,7 @@ Several mutual fund companies have chosen different approaches regarding 12b-1 f
 
 - **Fidelity Investments** [Fidelity Investments](https://www.fidelity.com): Fidelity offers many no-load funds that do not charge 12b-1 fees.
 - **Vanguard** [Vanguard](https://www.vanguard.com): Vanguard is known for its low-cost funds that typically avoid 12b-1 fees.
-- **Charles Schwab** [Charles Schwab](https://www.schwab.com): Schwab provides a variety of low-cost mutual funds and ETFs that aim to minimize fees, including 12b-1 fees.
+- **[Charles Schwab](../c/charles_schwab.md)** [Charles Schwab](https://www.schwab.com): Schwab provides a variety of low-cost mutual funds and ETFs that aim to minimize fees, including 12b-1 fees.
 
 ### Conclusion
 

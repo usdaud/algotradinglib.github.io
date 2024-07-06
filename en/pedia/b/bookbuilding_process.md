@@ -136,7 +136,7 @@ SPACs have emerged as an alternative to traditional IPO bookbuilding. Although n
 
 ### Enhanced Retail Participation
 
-Modern approaches increasingly consider retail investor participation in bookbuilds, given the growing influence of retail investments in markets. Platforms like Robinhood and eToro are part of this trend, providing easier access to IPOs.
+Modern approaches increasingly consider retail investor participation in bookbuilds, given the growing influence of retail investments in markets. Platforms like [Robinhood](../r/robinhood.md) and [eToro](../e/etoro.md) are part of this trend, providing easier access to IPOs.
 
 ## Conclusion
 

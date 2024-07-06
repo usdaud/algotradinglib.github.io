@@ -75,7 +75,7 @@ Several trading platforms and tools incorporate [volume indicators](../v/volume_
 [MetaTrader](https://www.metatrader4.com/) is a widely used trading platform that supports multiple [volume indicators](../v/volume_indicators.md) and allows algorithmic traders to develop Expert Advisors (EAs) using these indicators.
 
 **3. [Thinkorswim](../t/thinkorswim.md)**
-[Thinkorswim](https://www.thinkorswim.com/) by TD Ameritrade provides comprehensive charting tools and [volume indicators](../v/volume_indicators.md), making it suitable for both manual and automated [trading strategies](../t/trading_strategies.md).
+[Thinkorswim](https://www.thinkorswim.com/) by TD [Ameritrade](../a/ameritrade.md) provides comprehensive charting tools and [volume indicators](../v/volume_indicators.md), making it suitable for both manual and automated [trading strategies](../t/trading_strategies.md).
 
 **4. [QuantConnect](../q/quantconnect.md)**
 [QuantConnect](https://www.quantconnect.com/) is an open [algorithmic trading](../a/algorithmic_trading.md) platform that supports [volume indicators](../v/volume_indicators.md) within its algorithm library for [quantitative trading](../q/quantitative_trading.md) strategy development.

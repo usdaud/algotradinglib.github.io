@@ -43,7 +43,7 @@ Various tools and platforms are available for creating and deploying [algorithmi
 
 - **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform offering [backtesting](../b/backtesting.md) and live trading capabilities. More information at [QuantConnect](https://www.quantconnect.com/).
 
-- **Alpaca**: A commission-free trading platform that offers API access for [algorithmic trading](../a/algorithmic_trading.md). More information at [Alpaca](https://alpaca.markets/).
+- **[Alpaca](../a/alpaca.md)**: A commission-free trading platform that offers API access for [algorithmic trading](../a/algorithmic_trading.md). More information at [Alpaca](https://alpaca.markets/).
 
 - **Interactive Brokers**: Provides an extensive set of APIs for [algorithmic trading](../a/algorithmic_trading.md), along with robust market data services. More information at [Interactive Brokers](https://www.interactivebrokers.com/).
 

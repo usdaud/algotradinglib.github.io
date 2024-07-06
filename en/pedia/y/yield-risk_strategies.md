@@ -45,7 +45,7 @@ Machine learning models can enhance yield-risk strategies by identifying complex
 
 ### Example Platforms and Tools
 - **[QuantConnect](../q/quantconnect.md)**: An open-source cloud platform for [algorithmic trading](../a/algorithmic_trading.md) and research, supporting multiple asset classes and offering robust [backtesting](../b/backtesting.md) tools. [QuantConnect](https://www.quantconnect.com/)
-- **Alpaca**: A commission-free API for trading stocks, which allows developers to create and execute algo [trading strategies](../t/trading_strategies.md). [Alpaca](https://alpaca.markets/)
+- **[Alpaca](../a/alpaca.md)**: A commission-free API for trading stocks, which allows developers to create and execute algo [trading strategies](../t/trading_strategies.md). [Alpaca](https://alpaca.markets/)
 - **Interactive Brokers**: Provides a comprehensive suite of trading APIs for different asset classes, along with [risk management](../r/risk_management.md) tools. [Interactive Brokers](https://www.interactivebrokers.com/)
 
 ### Case Study: Momentum Strategy with Risk Management

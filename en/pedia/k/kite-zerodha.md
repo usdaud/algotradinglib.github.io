@@ -1,7 +1,7 @@
 # Kite by Zerodha
 
 ## Overview
-Kite is a cutting-edge trading platform developed by Zerodha, one of India's leading brokerage firms. Kite provides a seamless trading experience with advanced charting tools, [real-time market data](../r/real-time_market_data.md), and a user-friendly interface. It caters to the needs of both novice and experienced traders, offering a range of features to enhance trading efficiency and performance.
+Kite is a cutting-edge trading platform developed by [Zerodha](../z/zerodha.md), one of India's leading brokerage firms. Kite provides a seamless trading experience with advanced charting tools, [real-time market data](../r/real-time_market_data.md), and a user-friendly interface. It caters to the needs of both novice and experienced traders, offering a range of features to enhance trading efficiency and performance.
 
 ## Features
 1. **User-Friendly Interface**: Intuitive and easy-to-navigate interface designed for efficient trading.
@@ -11,7 +11,7 @@ Kite is a cutting-edge trading platform developed by Zerodha, one of India's lea
 5. **[Portfolio Management](../p/portfolio_management.md)**: Tools for tracking and managing your investment portfolio.
 6. **Market Watch**: Customizable market watchlists to monitor your favorite stocks and indices.
 7. **Mobile Trading**: Fully functional mobile app for trading on the go.
-8. **Algo Trading**: Integration with Zerodha’s API for [algorithmic trading](../a/algorithmic_trading.md).
+8. **Algo Trading**: Integration with [Zerodha](../z/zerodha.md)’s API for [algorithmic trading](../a/algorithmic_trading.md).
 9. **News and Insights**: Access to the latest market news and research reports.
 10. **Multi-Language Support**: Available in multiple languages to cater to a diverse user base.
 
@@ -20,19 +20,19 @@ Kite is a cutting-edge trading platform developed by Zerodha, one of India's lea
 - **Kite Mobile**: Mobile app available for iOS and Android, offering full trading capabilities.
 - **Kite Connect API**: API for developers to create custom trading applications and algorithms.
 - **Kite Ticker**: Real-time streaming data service for live market data.
-- **Console**: Zerodha’s back-office platform integrated with Kite for detailed reports and account management.
+- **Console**: [Zerodha](../z/zerodha.md)’s back-office platform integrated with Kite for detailed reports and account management.
 
 ## Integrations
-Kite by Zerodha integrates seamlessly with various tools and services to enhance its functionality. Some notable integrations include:
+Kite by [Zerodha](../z/zerodha.md) integrates seamlessly with various tools and services to enhance its functionality. Some notable integrations include:
 
-- **Kite Connect API**: Allows developers to build and integrate custom trading solutions with Zerodha’s trading platform.
-- **Sentinel**: Zerodha’s alerting tool that integrates with Kite to notify users of market conditions and price movements.
+- **Kite Connect API**: Allows developers to build and integrate custom trading solutions with [Zerodha](../z/zerodha.md)’s trading platform.
+- **Sentinel**: [Zerodha](../z/zerodha.md)’s alerting tool that integrates with Kite to notify users of market conditions and price movements.
 - **Streak**: [Algorithmic trading](../a/algorithmic_trading.md) platform integrated with Kite for creating, [backtesting](../b/backtesting.md), and deploying [trading strategies](../t/trading_strategies.md) without coding.
 - **Smallcase**: Integration for investing in thematic portfolios.
-- **Coin**: Zerodha’s mutual fund investment platform that integrates with Kite for easy fund management.
+- **Coin**: [Zerodha](../z/zerodha.md)’s mutual fund investment platform that integrates with Kite for easy fund management.
 
 ## Community and Support
-Zerodha provides extensive support for Kite users through detailed documentation, tutorials, webinars, and a dedicated support team. The Zerodha community forum is also a valuable resource for users to share insights, ask questions, and get assistance from other traders and Zerodha experts.
+[Zerodha](../z/zerodha.md) provides extensive support for Kite users through detailed documentation, tutorials, webinars, and a dedicated support team. The [Zerodha](../z/zerodha.md) community forum is also a valuable resource for users to share insights, ask questions, and get assistance from other traders and [Zerodha](../z/zerodha.md) experts.
 
 ## Use Cases
 - **Retail Traders**: Utilized by retail traders for its intuitive interface and advanced trading tools.
@@ -41,4 +41,4 @@ Zerodha provides extensive support for Kite users through detailed documentation
 - **Investors**: Helps long-term investors manage their portfolios and track market performance.
 - **Market Analysts**: Used by market analysts for [technical analysis](../t/technical_analysis.md) and monitoring market trends.
 
-Kite by Zerodha’s comprehensive features and user-friendly design make it an ideal choice for traders and investors looking for a reliable and efficient trading platform.
+Kite by [Zerodha](../z/zerodha.md)’s comprehensive features and user-friendly design make it an ideal choice for traders and investors looking for a reliable and efficient trading platform.

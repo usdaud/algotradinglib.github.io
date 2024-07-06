@@ -54,7 +54,7 @@ Hedge funds utilize [algorithmic trading](../a/algorithmic_trading.md) strategie
 
 ### Retail Trading Platforms
 
-Retail trading platforms like Robinhood and E*TRADE incorporate redundancy reduction to handle large volumes of user data efficiently. These platforms utilize data compression and deduplication to enhance user experience by ensuring that their trading operations are swift and accurate.
+Retail trading platforms like [Robinhood](../r/robinhood.md) and E*TRADE incorporate redundancy reduction to handle large volumes of user data efficiently. These platforms utilize data compression and deduplication to enhance user experience by ensuring that their trading operations are swift and accurate.
 
 ## Challenges and Future Directions
 
