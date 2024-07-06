@@ -38,8 +38,7 @@ module Jekyll
         Jekyll.logger.info "LetterPageGenerator:", "Creating page for #{lang}/#{section}/#{letter} with #{count} posts"
         site.pages << LetterPage.new(site, site.source, lang, section, letter)
     
-        files = Dir.glob(File.join(section_path, letter, '*.md')).sort_by { |file| File.basename(file).downcase }
-        files.each do |file|
+         Dir.glob(File.join(section_path, letter, '*.md')).each do |file|
           Jekyll.logger.info "LetterPageGenerator:", "Processing file: #{file}"
           process_markdown_file(site, file)
         end
@@ -51,8 +50,6 @@ module Jekyll
       content = File.read(file, encoding: 'utf-8')
       title = extract_title_from_content(content)
 
-      Jekyll.logger.info "LetterPageGenerator:", "Extracted title for #{file}: #{title.inspect}"
-  
       page = Jekyll::Page.new(site, site.source, File.dirname(file), File.basename(file))
       page.data['layout'] = 'base'
       page.data['title'] = title if title
