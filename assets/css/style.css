@@ -188,6 +188,93 @@ footer a:hover .github-icon {
     color: #666;
 }
 
+#filters {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.filter-btn {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.filter-btn:hover {
+    background-color: #0056b3;
+}
+
+.filter-btn.active {
+    background-color: #0056b3;
+}
+
+#software-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px;
+}
+
+.software-item {
+    background-color: #f8f8f8;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    transition: box-shadow 0.3s, transform 0.3s;
+}
+
+.software-item:hover {
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+    transform: translateY(-5px);
+}
+
+.software-item img {
+    max-width: 100px;
+    height: auto;
+    display: block;
+    margin: 0 auto 15px;
+}
+
+.software-item h2 {
+    font-size: 1.2em;
+    color: #333;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.software-item p {
+    font-size: 0.9em;
+    margin-bottom: 15px;
+}
+
+.software-item a {
+    display: inline-block;
+    margin-right: 10px;
+    color: #007bff;
+    text-decoration: none;
+}
+
+.software-item a:hover {
+    text-decoration: underline;
+}
+
+.filters {
+    margin-top: 15px;
+}
+
+.filter-tag {
+    display: inline-block;
+    background-color: #e9ecef;
+    color: #495057;
+    padding: 5px 10px;
+    margin: 2px;
+    font-size: 0.8em;
+    border-radius: 3px;
+}
+
 @media (max-width: 768px) {
     .menu-toggle {
         display: block;
@@ -260,5 +347,14 @@ footer a:hover .github-icon {
 
     .letter-item .count {
         font-size: 0.7em;
+    }
+
+    #software-list {
+        grid-template-columns: 1fr;
+    }
+
+    .filter-btn {
+        padding: 8px 15px;
+        font-size: 0.9em;
     }
 }
