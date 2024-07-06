@@ -38,7 +38,8 @@ module Jekyll
         Jekyll.logger.info "LetterPageGenerator:", "Creating page for #{lang}/#{section}/#{letter} with #{count} posts"
         site.pages << LetterPage.new(site, site.source, lang, section, letter)
     
-        Dir.glob(File.join(section_path, letter, '*.md')).each do |file|
+        files = Dir.glob(File.join(section_path, letter, '*.md')).sort_by { |file| File.basename(file).downcase }
+        files.each do |file|
           Jekyll.logger.info "LetterPageGenerator:", "Processing file: #{file}"
           process_markdown_file(site, file)
         end
