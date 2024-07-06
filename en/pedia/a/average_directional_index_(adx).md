@@ -1,4 +1,4 @@
-# Average Directional Index (ADX)
+# Average Directional Index
 
 The Average Directional Index (ADX) is a [technical analysis](../t/technical_analysis.md) indicator developed by J. Welles Wilder Jr. in 1978. It is used to quantify the strength of a trend in a financial market, whether the trend is upward or downward. The ADX is part of the Directional Movement System and is typically plotted as a single line, which helps traders to distinguish between strong and weak trends.
 
