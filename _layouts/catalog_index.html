@@ -40,6 +40,41 @@ layout: base
           <span class="filter-tag {% if page.special_filters contains filter %}highlight{% endif %}">{{ filter }}</span>
         {% endfor %}
       </div>
+      
+      {% if page.section == 'soft' %}
+        {% if item.supported_data_providers.size > 0 %}
+          <div class="supported-providers">
+            <h3>Supported Data Providers:</h3>
+            <ul>
+              {% for provider in item.supported_data_providers %}
+                <li><a href="{{ provider.link }}">{{ provider.name }}</a></li>
+              {% endfor %}
+            </ul>
+          </div>
+        {% endif %}
+
+        {% if item.supported_brokers.size > 0 %}
+          <div class="supported-brokers">
+            <h3>Supported Brokers:</h3>
+            <ul>
+              {% for broker in item.supported_brokers %}
+                <li><a href="{{ broker.link }}">{{ broker.name }}</a></li>
+              {% endfor %}
+            </ul>
+          </div>
+        {% endif %}
+      {% elsif page.section == 'market-data' or page.section == 'brokers' %}
+        {% if item.supported_software.size > 0 %}
+          <div class="supported-software">
+            <h3>Supported Software:</h3>
+            <ul>
+              {% for software in item.supported_software %}
+                <li><a href="{{ software.link }}">{{ software.name }}</a></li>
+              {% endfor %}
+            </ul>
+          </div>
+        {% endif %}
+      {% endif %}
     </div>
   {% endfor %}
 </div>
@@ -50,10 +85,16 @@ document.addEventListener('DOMContentLoaded', function() {
   const catalogItems = document.querySelectorAll('.catalog-item');
 
   let activeFilters = new Set();
+  let activeItem = null;
 
   function updateURL() {
     const searchParams = new URLSearchParams();
-    activeFilters.forEach(filter => searchParams.append('filter', filter));
+    if (activeFilters.size > 0) {
+      searchParams.append('filter', Array.from(activeFilters).join(','));
+    }
+    if (activeItem) {
+      searchParams.append('item', activeItem);
+    }
     const queryString = searchParams.toString();
     const newURL = queryString 
       ? `${window.location.pathname}?${queryString}`
@@ -64,9 +105,10 @@ document.addEventListener('DOMContentLoaded', function() {
   function applyFilters() {
     catalogItems.forEach(item => {
       const itemFilters = item.dataset.filters.toLowerCase().split(',');
-      if (activeFilters.size === 0 || Array.from(activeFilters).every(filter => 
+      const itemName = item.querySelector('h2').textContent.trim();
+      if ((activeFilters.size === 0 || Array.from(activeFilters).every(filter => 
         itemFilters.includes(filter.toLowerCase())
-      )) {
+      )) && (!activeItem || itemName === activeItem)) {
         item.style.display = 'block';
       } else {
         item.style.display = 'none';
@@ -96,8 +138,10 @@ document.addEventListener('DOMContentLoaded', function() {
   });
 
   const urlParams = new URLSearchParams(window.location.search);
-  const urlFilters = urlParams.getAll('filter');
-  if (urlFilters.length > 0) {
+  const urlFilters = urlParams.get('filter') ? urlParams.get('filter').split(',') : [];
+  const urlItem = urlParams.get('item');
+  
+  if (urlFilters.length > 0 || urlItem) {
     urlFilters.forEach(filter => {
       const lowercaseFilter = filter.toLowerCase();
       const button = Array.from(filterButtons).find(btn => 
@@ -108,13 +152,20 @@ document.addEventListener('DOMContentLoaded', function() {
         activeFilters.add(button.dataset.filter);
       }
     });
+    
+    if (urlItem) {
+      activeItem = decodeURIComponent(urlItem);
+    }
+    
     applyFilters();
   }
 
   window.addEventListener('popstate', function() {
     activeFilters.clear();
+    activeItem = null;
     const urlParams = new URLSearchParams(window.location.search);
-    const urlFilters = urlParams.getAll('filter');
+    const urlFilters = urlParams.get('filter') ? urlParams.get('filter').split(',') : [];
+    const urlItem = urlParams.get('item');
     
     filterButtons.forEach(button => {
       if (urlFilters.some(filter => filter.toLowerCase() === button.dataset.filter.toLowerCase())) {
@@ -124,6 +175,10 @@ document.addEventListener('DOMContentLoaded', function() {
         button.classList.remove('active');
       }
     });
+    
+    if (urlItem) {
+      activeItem = decodeURIComponent(urlItem);
+    }
     
     applyFilters();
   });

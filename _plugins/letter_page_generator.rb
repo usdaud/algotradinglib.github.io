@@ -36,7 +36,35 @@ module Jekyll
 
     def process_catalog_section(site, lang, section, section_path)
       catalog_data = load_catalog_data(site, section_path)
+      
+      if ['market-data', 'brokers'].include?(section)
+        soft_data = load_catalog_data(site, File.join(site.source, lang, 'soft'))
+        catalog_data.each do |item|
+          item['supported_software'] = soft_data.select do |soft|
+            supported_items = section == 'market-data' ? soft['supported_data_providers'] : soft['supported_brokers']
+            supported_items&.include?(item['name'])
+          end.map { |soft| { 'name' => soft['name'], 'link' => "/#{lang}/soft/?item=#{URI.encode_www_form_component(soft['name'])}" } }
+        end
+      elsif section == 'soft'
+        market_data = load_catalog_data(site, File.join(site.source, lang, 'market-data'))
+        brokers = load_catalog_data(site, File.join(site.source, lang, 'brokers'))
+        catalog_data.each do |item|
+          item['supported_data_providers'] = process_supported_items(item['supported_data_providers'], lang, 'market-data')
+          item['supported_brokers'] = process_supported_items(item['supported_brokers'], lang, 'brokers')
+        end
+      end
+
       site.pages << CatalogIndexPage.new(site, site.source, lang, section, catalog_data)
+    end
+
+    def process_supported_items(items, lang, target_section)
+      return [] unless items
+      items.map do |item_name|
+        {
+          'name' => item_name,
+          'link' => "/#{lang}/#{target_section}/?item=#{URI.encode_www_form_component(item_name)}"
+        }
+      end
     end
 
     def load_catalog_data(site, section_path)
