@@ -209,11 +209,32 @@ module Jekyll
         self.data = {}
       end
       self.data['layout'] = 'catalog_index'
-      self.data['title'] = case lang
-                           when 'en' then "Software Index"
-                           when 'ru' then "Индекс программного обеспечения"
-                           when 'zh' then "软件索引"
-                           end
+      self.data['title'] = case section
+                       when 'soft'
+                         case lang
+                         when 'en' then "Software Index"
+                         when 'ru' then "Индекс программного обеспечения"
+                         when 'zh' then "软件索引"
+                         end
+                       when 'market-data'
+                         case lang
+                         when 'en' then "Market Data Index"
+                         when 'ru' then "Индекс рыночных данных"
+                         when 'zh' then "市场数据索引"
+                         end
+                       when 'brokers'
+                         case lang
+                         when 'en' then "Brokers Index"
+                         when 'ru' then "Индекс брокеров"
+                         when 'zh' then "经纪人索引"
+                         end
+                       when 'community'
+                         case lang
+                         when 'en' then "Community Index"
+                         when 'ru' then "Индекс сообщества"
+                         when 'zh' then "社区索引"
+                         end
+                       end
       self.data['catalog'] = catalog_data
       self.data['lang'] = lang
       self.data['section'] = section
