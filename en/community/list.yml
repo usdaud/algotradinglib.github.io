@@ -1,0 +1,175 @@
+﻿- name: AlgoCamp
+  description: German forum dedicated to algorithmic trading and quantitative methods
+  logo: /assets/images/logos/algocamp.png
+  website: https://www.algocamp.de/
+  pedia_link: /en/pedia/a/algocamp.html
+  filters: [German, Forum, Algorithmic Trading, Quantitative Methods]
+
+- name: AlgoTrader Community
+  description: Forum for AlgoTrader platform users
+  logo: /assets/images/logos/algotrader.png
+  website: https://www.algotrader.com/community/
+  pedia_link: /en/pedia/a/algotrader_community.html
+  filters: [English, AlgoTrader, Forum]
+
+- name: AlgoTraders Discord
+  description: Discord server for algorithmic traders
+  logo: /assets/images/logos/discord.png
+  website: https://discord.gg/Yb7EXH
+  pedia_link: /en/pedia/a/algotraders_discord.html
+  filters: [English, Discord, Algorithmic Trading]
+
+- name: Algorithmic Trading Reddit
+  description: Subreddit dedicated to algorithmic trading
+  logo: /assets/images/logos/reddit.png
+  website: https://www.reddit.com/r/algotrading/
+  pedia_link: /en/pedia/a/algorithmic_trading_reddit.html
+  filters: [English, Reddit, Algorithmic Trading]
+
+- name: Algorithmic Trading Slack
+  description: Slack channel for algorithmic trading discussions
+  logo: /assets/images/logos/slack.png
+  website: https://algotrading.slack.com/
+  pedia_link: /en/pedia/a/algorithmic_trading_slack.html
+  filters: [English, Slack, Algorithmic Trading]
+
+- name: Big Mike Trading (Futures.io)
+  description: Forum for futures traders with a section on algorithmic trading
+  logo: /assets/images/logos/futures-io.png
+  website: https://futures.io/
+  pedia_link: /en/pedia/b/big_mike_trading.html
+  filters: [English, Forum, Futures Trading]
+
+- name: CentralCharts
+  description: French forum and social network for traders with a section on algorithmic trading
+  logo: /assets/images/logos/centralcharts.png
+  website: https://www.centralcharts.com/fr/forums
+  pedia_link: /en/pedia/c/centralcharts.html
+  filters: [French, Forum, Social Network, Trading]
+
+- name: Elite Trader
+  description: Forum for traders with sections on algorithmic trading
+  logo: /assets/images/logos/elitetrader.png
+  website: https://www.elitetrader.com/
+  pedia_link: /en/pedia/e/elite_trader.html
+  filters: [English, Forum, Trading]
+
+- name: FinanzaOnline
+  description: Italian forum about finance and investments, including sections on algorithmic trading
+  logo: /assets/images/logos/finanzaonline.png
+  website: https://www.finanzaonline.com/forum/
+  pedia_link: /en/pedia/f/finanzaonline.html
+  filters: [Italian, Forum, Finance, Investments]
+
+- name: Forum Algo-Trading.info
+  description: Russian forum dedicated to algorithmic trading
+  logo: /assets/images/logos/algo-trading-info.png
+  website: http://www.algo-trading.info/
+  pedia_link: /en/pedia/f/forum_algo_trading_info.html
+  filters: [Russian, Forum, Algorithmic Trading]
+
+- name: Forum Bourse Trading
+  description: French forum dedicated to trading and investments, including algorithmic trading
+  logo: /assets/images/logos/forum-bourse-trading.png
+  website: https://www.abcbourse.com/forums/
+  pedia_link: /en/pedia/f/forum_bourse_trading.html
+  filters: [French, Forum, Trading, Investments]
+
+- name: Gelonghui
+  description: Chinese forum focused on financial markets and trading strategies
+  logo: /assets/images/logos/gelonghui.png
+  website: https://www.gelonghui.com/
+  pedia_link: /en/pedia/g/gelonghui.html
+  filters: [Chinese, Forum, Financial Markets, Trading Strategies]
+
+- name: Investireoggi
+  description: Italian forum about trading and investments with a section on algorithmic trading
+  logo: /assets/images/logos/investireoggi.png
+  website: https://www.investireoggi.it/forums/
+  pedia_link: /en/pedia/i/investireoggi.html
+  filters: [Italian, Forum, Trading, Investments]
+
+- name: QuantConnect Community
+  description: Discussion forum for QuantConnect platform users
+  logo: /assets/images/logos/quantconnect.png
+  website: https://www.quantconnect.com/forum
+  pedia_link: /en/pedia/q/quantconnect_community.html
+  discord: https://discord.gg/9zRSvY
+  filters: [English, QuantConnect, Forum, Discord]
+
+- name: QuantInsti Community
+  description: Discussion forum for QuantInsti platform users
+  logo: /assets/images/logos/quantinsti.png
+  website: https://community.quantinsti.com/
+  pedia_link: /en/pedia/q/quantinsti_community.html
+  filters: [English, QuantInsti, Forum]
+
+- name: QuantNet
+  description: Russian forum dedicated to quantitative methods and algorithmic trading
+  logo: /assets/images/logos/quantnet.png
+  website: https://quantnet.ru/
+  pedia_link: /en/pedia/q/quantnet.html
+  filters: [Russian, Forum, Quantitative Methods, Algorithmic Trading]
+
+- name: Quantitative Finance Reddit
+  description: Subreddit dedicated to quantitative finance
+  logo: /assets/images/logos/reddit.png
+  website: https://www.reddit.com/r/quantfinance/
+  pedia_link: /en/pedia/q/quantitative_finance_reddit.html
+  filters: [English, Reddit, Quantitative Finance]
+
+- name: Quantitative Finance Stack Exchange
+  description: Q&A site for quantitative finance and algorithmic trading
+  logo: /assets/images/logos/stackexchange.png
+  website: https://quant.stackexchange.com/
+  pedia_link: /en/pedia/q/quantitative_finance_stack_exchange.html
+  filters: [English, Q&A, Quantitative Finance]
+
+- name: Rankia
+  description: Spanish-speaking forum about finance and investments with a section on algorithmic trading
+  logo: /assets/images/logos/rankia.png
+  website: https://www.rankia.com/
+  pedia_link: /en/pedia/r/rankia.html
+  filters: [Spanish, Forum, Finance, Investments]
+
+- name: Smart-Lab
+  description: Forum and blog about trading and investments, including sections on algorithmic trading
+  logo: /assets/images/logos/smart-lab.png
+  website: https://smart-lab.ru/
+  pedia_link: /en/pedia/s/smart_lab.html
+  filters: [Russian, Forum, Blog, Trading, Investments]
+
+- name: Trade2Win
+  description: Forum for traders with sections on algorithmic trading and quantitative methods
+  logo: /assets/images/logos/trade2win.png
+  website: https://www.trade2win.com/
+  pedia_link: /en/pedia/t/trade2win.html
+  filters: [English, Forum, Trading, Quantitative Methods]
+
+- name: Tradimo
+  description: German forum and educational portal for trading, including algorithmic trading
+  logo: /assets/images/logos/tradimo.png
+  website: https://de.tradimo.com/
+  pedia_link: /en/pedia/t/tradimo.html
+  filters: [German, Forum, Education, Trading]
+
+- name: TradingView
+  description: Global community with forums and chats in multiple languages, including algorithmic trading discussions
+  logo: /assets/images/logos/tradingview.png
+  website: https://www.tradingview.com/
+  pedia_link: /en/pedia/t/tradingview.html
+  filters: [Multilingual, Forum, Chat, Trading]
+
+- name: X-Trader.net
+  description: Spanish forum dedicated to trading and investments, including algorithmic trading
+  logo: /assets/images/logos/x-trader.png
+  website: https://www.x-trader.net/foro/
+  pedia_link: /en/pedia/x/x_trader_net.html
+  filters: [Spanish, Forum, Trading, Investments]
+
+- name: Xueqiu
+  description: Chinese forum and social network for investors, including sections on algorithmic trading
+  logo: /assets/images/logos/xueqiu.png
+  website: https://xueqiu.com/
+  pedia_link: /en/pedia/x/xueqiu.html
+  filters: [Chinese, Forum, Social Network, Investing]
