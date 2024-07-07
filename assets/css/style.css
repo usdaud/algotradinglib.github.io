@@ -12,9 +12,6 @@ h1, h2, h3, h4, h5, h6 {
 #sticky-header {
     background-color: #f8f8f8;
     padding: 10px 20px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
     box-sizing: border-box;
 }
 
@@ -26,14 +23,35 @@ h1, h2, h3, h4, h5, h6 {
     right: 0;
 }
 
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+}
+
 .logo img {
-    height: 50px;
+    height: 40px;
+    margin-right: 10px;
+}
+
+.site-title {
+    font-size: 1.2em;
+    margin: 0;
+    white-space: nowrap;
 }
 
 nav ul {
     list-style-type: none;
     padding: 0;
     display: flex;
+    margin: 0;
 }
 
 nav ul li {
@@ -48,6 +66,10 @@ nav ul li a {
 nav ul li a.active {
     font-weight: bold;
     color: #007bff;
+}
+
+.language-selector {
+    margin-left: 20px;
 }
 
 .language-selector select {
@@ -241,7 +263,7 @@ footer a:hover .github-icon {
 }
 
 .filter-btn {
-    flex: 0 1 calc(12.5% - 10px); /* 8 кнопок в ряд на больших экранах */
+    flex: 0 1 calc(12.5% - 10px);
     max-width: 150px;
     min-width: 100px;
     background-color: #f8f9fa;
