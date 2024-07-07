@@ -13,9 +13,8 @@ layout: base
     {% endfor %}
   {% endfor %}
   
-  <button class="filter-btn active" data-filter="all">All</button>
   {% for filter in all_filters %}
-    <button class="filter-btn" data-filter="{{ filter }}">{{ filter }}</button>
+    <button class="filter-btn {% if filter == 'Free' or filter == 'OpenSource' %}highlight{% endif %}" data-filter="{{ filter }}">{{ filter }}</button>
   {% endfor %}
 </div>
 
@@ -32,7 +31,7 @@ layout: base
       {% endif %}
       <div class="filters">
         {% for filter in item.filters %}
-          <span class="filter-tag">{{ filter }}</span>
+          <span class="filter-tag {% if filter == 'Free' or filter == 'OpenSource' %}highlight{% endif %}">{{ filter }}</span>
         {% endfor %}
       </div>
     </div>
@@ -44,15 +43,28 @@ document.addEventListener('DOMContentLoaded', function() {
   const filterButtons = document.querySelectorAll('.filter-btn');
   const softwareItems = document.querySelectorAll('.software-item');
 
+  let activeFilters = new Set();
+
   filterButtons.forEach(button => {
     button.addEventListener('click', function() {
       const filter = this.dataset.filter;
       
-      filterButtons.forEach(btn => btn.classList.remove('active'));
-      this.classList.add('active');
+      if (this.classList.contains('active')) {
+        this.classList.remove('active');
+        activeFilters.delete(filter);
+      } else {
+        this.classList.add('active');
+        activeFilters.add(filter);
+        
+        // Add animation
+        this.style.animation = 'none';
+        this.offsetHeight; // Trigger reflow
+        this.style.animation = null;
+      }
 
       softwareItems.forEach(item => {
-        if (filter === 'all' || item.dataset.filters.includes(filter)) {
+        const itemFilters = item.dataset.filters.split(' ');
+        if (activeFilters.size === 0 || Array.from(activeFilters).every(filter => itemFilters.includes(filter))) {
           item.style.display = 'block';
         } else {
           item.style.display = 'none';
