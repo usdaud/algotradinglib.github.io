@@ -5,7 +5,7 @@ layout: base
 
 <div id="filters">
   {% assign all_filters = '' | split: '' %}
-  {% for item in page.software %}
+  {% for item in page.catalog %}
     {% for filter in item.filters %}
       {% unless all_filters contains filter %}
         {% assign all_filters = all_filters | push: filter %}
@@ -18,9 +18,9 @@ layout: base
   {% endfor %}
 </div>
 
-<div id="software-list">
-  {% for item in page.software %}
-    <div class="software-item" data-filters="{{ item.filters | join: ' ' }}">
+<div id="catalog-list">
+  {% for item in page.catalog %}
+    <div class="catalog-item" data-filters="{{ item.filters | join: ' ' }}">
       <img src="{{ item.logo | relative_url }}" alt="{{ item.name }} logo">
       <h2>{{ item.name }}</h2>
       <p>{{ item.description }}</p>
@@ -41,7 +41,7 @@ layout: base
 <script>
 document.addEventListener('DOMContentLoaded', function() {
   const filterButtons = document.querySelectorAll('.filter-btn');
-  const softwareItems = document.querySelectorAll('.software-item');
+  const catalogItems = document.querySelectorAll('.catalog-item');
 
   let activeFilters = new Set();
 
@@ -62,7 +62,7 @@ document.addEventListener('DOMContentLoaded', function() {
         this.style.animation = null;
       }
 
-      softwareItems.forEach(item => {
+      catalogItems.forEach(item => {
         const itemFilters = item.dataset.filters.split(' ');
         if (activeFilters.size === 0 || Array.from(activeFilters).every(filter => itemFilters.includes(filter))) {
           item.style.display = 'block';

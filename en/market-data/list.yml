@@ -1,0 +1,216 @@
+﻿- name: Algoseek
+  description: Provider of high-quality financial and alternative data
+  logo: /assets/images/logos/algoseek.png
+  website: https://www.algoseek.com/
+  pedia_link: /en/pedia/a/algoseek.html
+  filters: [Alternative Data, Historical Data, Stock, Futures, Options]
+
+- name: Barchart
+  description: Market data and information provider
+  logo: /assets/images/logos/barchart.png
+  website: https://www.barchart.com/
+  pedia_link: /en/pedia/b/barchart.html
+  filters: [API, Realtime data, Historical Data, Stock, Futures, Options, Forex, Crypto, Free]
+
+- name: Bloomberg
+  description: Global financial data and news provider
+  logo: /assets/images/logos/bloomberg.png
+  website: https://www.bloomberg.com/professional/
+  pedia_link: /en/pedia/b/bloomberg.html
+  filters: [Realtime data, Historical Data, News, Stock, Futures, Options, Forex, Crypto, Indexes, Commodities]
+
+- name: CQG
+  description: Global financial data and trading solutions provider
+  logo: /assets/images/logos/cqg.png
+  website: https://www.cqg.com/
+  pedia_link: /en/pedia/c/cqg.html
+  filters: [API, Realtime data, Historical Data, Futures, Options, Forex]
+
+- name: DxFeed
+  description: Financial market data and services provider
+  logo: /assets/images/logos/dxfeed.png
+  website: https://www.dxfeed.com/
+  pedia_link: /en/pedia/d/dxfeed.html
+  filters: [API, Realtime data, Stock, Options, Futures, Forex]
+
+- name: EODData
+  description: Provider of end-of-day financial data
+  logo: /assets/images/logos/eoddata.png
+  website: https://eoddata.com/
+  pedia_link: /en/pedia/e/eoddata.html
+  filters: [Historical Data, API, Stock, Forex, Free]
+
+- name: Estimize
+  description: Crowdsourced financial estimates platform
+  logo: /assets/images/logos/estimize.png
+  website: https://www.estimize.com/
+  pedia_link: /en/pedia/e/estimize.html
+  filters: [Alternative Data, Earnings Estimates, Stock]
+
+- name: Exchange Data International (EDI)
+  description: Global securities data provider
+  logo: /assets/images/logos/edi.png
+  website: https://www.exchange-data.com/
+  pedia_link: /en/pedia/e/exchange_data_international.html
+  filters: [Historical Data, Corporate Actions, Stock, Indexes]
+
+- name: FactSet
+  description: Financial data and software company
+  logo: /assets/images/logos/factset.png
+  website: https://www.factset.com/
+  pedia_link: /en/pedia/f/factset.html
+  filters: [API, Realtime data, Historical Data, Research, Stock, Futures, Options, Forex, Crypto, Indexes]
+
+- name: FINRA
+  description: Financial Industry Regulatory Authority
+  logo: /assets/images/logos/finra.png
+  website: https://www.finra.org/
+  pedia_link: /en/pedia/f/finra.html
+  filters: [Regulatory Data, Historical Data, Stock, Bonds]
+
+- name: FTSE Russell
+  description: Global index provider
+  logo: /assets/images/logos/ftse-russell.png
+  website: https://www.ftserussell.com/
+  pedia_link: /en/pedia/f/ftse_russell.html
+  filters: [Indexes, Historical Data]
+
+- name: IEX Cloud
+  description: Financial data infrastructure platform
+  logo: /assets/images/logos/iexcloud.png
+  website: https://iexcloud.io/
+  pedia_link: /en/pedia/i/iexcloud.html
+  filters: [API, Realtime data, Historical Data, Stock, Forex, Crypto, Free]
+
+- name: Infront
+  description: Market data and trading solutions provider
+  logo: /assets/images/logos/infront.png
+  website: https://www.infrontfinance.com/
+  pedia_link: /en/pedia/i/infront.html
+  filters: [Realtime data, Historical Data, Stock, Futures, Options, Forex]
+
+- name: Interactive Data Corporation (IDC)
+  description: Financial market data provider (now part of Intercontinental Exchange)
+  logo: /assets/images/logos/idc.png
+  website: https://www.theice.com/market-data
+  pedia_link: /en/pedia/i/interactive_data_corporation.html
+  filters: [Realtime data, Historical Data, Stock, Bonds, Futures, Options]
+
+- name: Intrinio
+  description: Financial data marketplace
+  logo: /assets/images/logos/intrinio.png
+  website: https://intrinio.com/
+  pedia_link: /en/pedia/i/intrinio.html
+  filters: [API, Realtime data, Historical Data, Stock, Options, Forex, Crypto, Free]
+
+- name: Iress
+  description: Financial software company
+  logo: /assets/images/logos/iress.png
+  website: https://www.iress.com/
+  pedia_link: /en/pedia/i/iress.html
+  filters: [Realtime data, Historical Data, Stock, Futures, Options]
+
+- name: IQFeed
+  description: Streaming market data feed
+  logo: /assets/images/logos/iqfeed.png
+  website: http://www.iqfeed.net/
+  pedia_link: /en/pedia/i/iqfeed.html
+  filters: [API, Realtime data, Historical Data, Stock, Futures, Forex]
+
+- name: Kinetick
+  description: Professional-grade financial market data feed
+  logo: /assets/images/logos/kinetick.png
+  website: https://www.kinetick.com/
+  pedia_link: /en/pedia/k/kinetick.html
+  filters: [Realtime data, Historical Data, Stock, Futures, Options, Forex]
+
+- name: MarketAxess
+  description: Electronic trading platform for fixed-income securities
+  logo: /assets/images/logos/marketaxess.png
+  website: https://www.marketaxess.com/
+  pedia_link: /en/pedia/m/marketaxess.html
+  filters: [Bonds, Realtime data, Historical Data]
+
+- name: Morningstar
+  description: Investment research and management firm
+  logo: /assets/images/logos/morningstar.png
+  website: https://www.morningstar.com/
+  pedia_link: /en/pedia/m/morningstar.html
+  filters: [Research, Historical Data, Stock, Funds, ETFs]
+
+- name: Polygon.io
+  description: Financial market data API provider
+  logo: /assets/images/logos/polygonio.png
+  website: https://polygon.io/
+  pedia_link: /en/pedia/p/polygonio.html
+  filters: [API, Realtime data, Historical Data, Stock, Options, Forex, Crypto, Free]
+
+- name: QuoteMedia
+  description: Financial market data solutions provider
+  logo: /assets/images/logos/quotemedia.png
+  website: https://www.quotemedia.com/
+  pedia_link: /en/pedia/q/quotemedia.html
+  filters: [API, Realtime data, Historical Data, Stock, Options, Forex]
+
+- name: Quandl
+  description: Platform for financial, economic, and alternative data
+  logo: /assets/images/logos/quandl.png
+  website: https://www.quandl.com/
+  pedia_link: /en/pedia/q/quandl.html
+  filters: [API, Historical Data, Alternative Data, Stock, Futures, Forex, Indexes, Commodities, Free]
+
+- name: Reuters
+  description: Global news and financial data provider
+  logo: /assets/images/logos/reuters.png
+  website: https://www.reuters.com/
+  pedia_link: /en/pedia/r/reuters.html
+  filters: [Realtime data, News, Historical Data, Stock, Futures, Options, Forex, Crypto, Indexes, Commodities]
+
+- name: RavenPack
+  description: Big data analytics provider for financial services
+  logo: /assets/images/logos/ravenpack.png
+  website: https://www.ravenpack.com/
+  pedia_link: /en/pedia/r/ravenpack.html
+  filters: [Alternative Data, News Analytics, Sentiment Analysis]
+
+- name: Six Financial Information
+  description: Global financial data provider
+  logo: /assets/images/logos/six.png
+  website: https://www.six-group.com/en/products-services/financial-information.html
+  pedia_link: /en/pedia/s/six_financial_information.html
+  filters: [Realtime data, Historical Data, Stock, Bonds, Funds]
+
+- name: S&P Global Market Intelligence
+  description: Financial information and analytics provider
+  logo: /assets/images/logos/spglobal.png
+  website: https://www.spglobal.com/marketintelligence/
+  pedia_link: /en/pedia/s/sp_global_market_intelligence.html
+  filters: [Research, Historical Data, Stock, Bonds, Commodities]
+
+- name: Tiingo
+  description: Financial data and research platform
+  logo: /assets/images/logos/tiingo.png
+  website: https://www.tiingo.com/
+  pedia_link: /en/pedia/t/tiingo.html
+  filters: [API, Historical Data, Stock, Crypto, News, Free]
+
+- name: Trading Economics
+  description: Global economic data provider
+  logo: /assets/images/logos/tradingeconomics.png
+  website: https://tradingeconomics.com/
+  pedia_link: /en/pedia/t/trading_economics.html
+  filters: [Economic Data, Historical Data, Forecasts, Free]
+
+- name: Xignite
+  description: Cloud-based financial market data provider
+  logo: /assets/images/logos/xignite.png
+  website: https://www.xignite.com/
+  pedia_link: /en/pedia/x/xignite.html
+  filters: [API, Realtime data, Historical Data, Stock, Futures, Options, Forex, Crypto]
+
+- name: Yahoo Finance
+  description: Financial news and data provider
+  logo: /assets/images/logos/yahoo-finance.png
+  website: https://finance.yahoo.com/
+  pedia_link: /en/pedia/y/yahoo_finance.html
+  filters: [API, Historical Data, News, Stock, Options, Crypto, Forex, Indexes, Free]
