@@ -148,7 +148,7 @@
 - name: KGI Securities
   description: Taiwanese securities firm
   logo: /assets/images/logos/kgi_securities.png
-  website: https://www.kgi.com/
+  website: https://www.kgi.com.tw/en/
   pedia_link: /en/pedia/k/kgi_securities.html
   filters: [Stock, Futures, Asian Markets]
 
@@ -162,21 +162,21 @@
 - name: Lime Brokerage
   description: US-based agency-only broker
   logo: /assets/images/logos/lime_brokerage.png
-  website: https://www.limebrokerage.com/
+  website: https://lime.co/
   pedia_link: /en/pedia/l/lime_brokerage.html
   filters: [Stock, Options, US Market]
 
 - name: Maybank Kim Eng
   description: Asian financial services group
   logo: /assets/images/logos/maybank_kim_eng.png
-  website: https://www.maybank-ke.com/
+  website: https://www.ketrade.com.sg/
   pedia_link: /en/pedia/m/maybank_kim_eng.html
   filters: [Stock, Futures, Asian Markets]
 
 - name: Mirae Asset
   description: South Korean financial services group
   logo: /assets/images/logos/mirae_asset.png
-  website: https://www.miraeasset.com/
+  website: https://www.miraeassetmf.co.in/
   pedia_link: /en/pedia/m/mirae_asset.html
   filters: [Stock, Funds, Asian Markets]
 
@@ -204,7 +204,7 @@
 - name: PI Financial
   description: Canadian investment dealer
   logo: /assets/images/logos/pi_financial.png
-  website: https://pifinancial.com/
+  website: https://www.pi.financial/en
   pedia_link: /en/pedia/p/pi_financial.html
   filters: [Stock, Funds, Canadian Market]
 
