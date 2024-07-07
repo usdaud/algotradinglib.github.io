@@ -52,14 +52,14 @@
   logo: /assets/images/logos/edi.png
   website: https://www.exchange-data.com/
   pedia_link: /en/pedia/e/exchange_data_international.html
-  filters: [Historical Data, Corporate Actions, Stock, Indexes]
+  filters: [Historical Data, Stock, Indexes]
 
 - name: FactSet
   description: Financial data and software company
   logo: /assets/images/logos/factset.png
   website: https://www.factset.com/
   pedia_link: /en/pedia/f/factset.html
-  filters: [API, Realtime data, Historical Data, Research, Stock, Futures, Options, Forex, Crypto, Indexes]
+  filters: [API, Realtime data, Historical Data, Stock, Futures, Options, Forex, Crypto, Indexes]
 
 - name: FINRA
   description: Financial Industry Regulatory Authority
@@ -136,7 +136,7 @@
   logo: /assets/images/logos/morningstar.png
   website: https://www.morningstar.com/
   pedia_link: /en/pedia/m/morningstar.html
-  filters: [Research, Historical Data, Stock, Funds, ETFs]
+  filters: [Historical Data, Stock, Funds, ETFs]
 
 - name: Polygon.io
   description: Financial market data API provider
@@ -185,7 +185,7 @@
   logo: /assets/images/logos/spglobal.png
   website: https://www.spglobal.com/marketintelligence/
   pedia_link: /en/pedia/s/snp_global_market_intelligence.html
-  filters: [Research, Historical Data, Stock, Bonds, Commodities]
+  filters: [Historical Data, Stock, Bonds, Commodities]
 
 - name: Tiingo
   description: Financial data and research platform

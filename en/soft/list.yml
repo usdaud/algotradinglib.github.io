@@ -134,14 +134,14 @@
   github: https://github.com/marketcetera/marketcetera
   filters: [OpenSource, Java, Live trading, API]
 
-- name: MetaTrader 4 (MT4)
+- name: MetaTrader 4
   description: Popular forex and CFD trading platform
   logo: /assets/images/logos/metatrader.png
   website: https://www.metatrader4.com/
   pedia_link: /en/pedia/m/metatrader4.html
   filters: [Live trading, Backtesting, Custom Script]
 
-- name: MetaTrader 5 (MT5)
+- name: MetaTrader 5
   description: Multi-asset trading platform
   logo: /assets/images/logos/metatrader.png
   website: https://www.metatrader5.com/
