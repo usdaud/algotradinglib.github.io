@@ -60,8 +60,10 @@ document.addEventListener('DOMContentLoaded', function() {
 
   function applyFilters() {
     catalogItems.forEach(item => {
-      const itemFilters = item.dataset.filters.split(',');
-      if (activeFilters.size === 0 || Array.from(activeFilters).every(filter => itemFilters.includes(filter))) {
+      const itemFilters = item.dataset.filters.toLowerCase().split(',');
+      if (activeFilters.size === 0 || Array.from(activeFilters).every(filter => 
+        itemFilters.includes(filter.toLowerCase())
+      )) {
         item.style.display = 'block';
       } else {
         item.style.display = 'none';
@@ -94,10 +96,13 @@ document.addEventListener('DOMContentLoaded', function() {
   const urlFilters = urlParams.getAll('filter');
   if (urlFilters.length > 0) {
     urlFilters.forEach(filter => {
-      const button = document.querySelector(`.filter-btn[data-filter="${filter}"]`);
+      const lowercaseFilter = filter.toLowerCase();
+      const button = Array.from(filterButtons).find(btn => 
+        btn.dataset.filter.toLowerCase() === lowercaseFilter
+      );
       if (button) {
         button.classList.add('active');
-        activeFilters.add(filter);
+        activeFilters.add(button.dataset.filter);
       }
     });
     applyFilters();
@@ -109,7 +114,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const urlFilters = urlParams.getAll('filter');
     
     filterButtons.forEach(button => {
-      if (urlFilters.includes(button.dataset.filter)) {
+      if (urlFilters.some(filter => filter.toLowerCase() === button.dataset.filter.toLowerCase())) {
         button.classList.add('active');
         activeFilters.add(button.dataset.filter);
       } else {
