@@ -1,6 +1,6 @@
 ---
 layout: base
-title: Algorithmic Trading
+title: Algorithmic Trading Library
 lang: en
 ---
 
