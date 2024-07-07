@@ -3,7 +3,7 @@
   logo: /assets/images/logos/algoseek.png
   website: https://www.algoseek.com/
   pedia_link: /en/pedia/a/algoseek.html
-  filters: [Alternative Data, Historical Data, Stock, Futures, Options]
+  filters: [Historical Data, Stock, Futures, Options]
 
 - name: Barchart
   description: Market data and information provider
@@ -45,7 +45,7 @@
   logo: /assets/images/logos/estimize.png
   website: https://www.estimize.com/
   pedia_link: /en/pedia/e/estimize.html
-  filters: [Alternative Data, Earnings Estimates, Stock]
+  filters: [Stock]
 
 - name: Exchange Data International
   description: Global securities data provider
@@ -66,7 +66,7 @@
   logo: /assets/images/logos/finra.png
   website: https://www.finra.org/
   pedia_link: /en/pedia/f/finra.html
-  filters: [Regulatory Data, Historical Data, Stock, Bonds]
+  filters: [Historical Data, Stock, Bonds]
 
 - name: FTSE Russell
   description: Global index provider
@@ -157,7 +157,7 @@
   logo: /assets/images/logos/quandl.png
   website: https://www.quandl.com/
   pedia_link: /en/pedia/q/quandl.html
-  filters: [API, Historical Data, Alternative Data, Stock, Futures, Forex, Indexes, Commodities, Free]
+  filters: [API, Historical Data, Stock, Futures, Forex, Indexes, Commodities, Free]
 
 - name: Reuters
   description: Global news and financial data provider
@@ -171,7 +171,7 @@
   logo: /assets/images/logos/ravenpack.png
   website: https://www.ravenpack.com/
   pedia_link: /en/pedia/r/ravenpack.html
-  filters: [Alternative Data, News Analytics, Sentiment Analysis]
+  filters: [News]
 
 - name: Six Financial Information
   description: Global financial data provider
@@ -199,7 +199,7 @@
   logo: /assets/images/logos/tradingeconomics.png
   website: https://tradingeconomics.com/
   pedia_link: /en/pedia/t/trading_economics.html
-  filters: [Economic Data, Historical Data, Forecasts, Free]
+  filters: [Historical Data, Free]
 
 - name: Xignite
   description: Cloud-based financial market data provider
