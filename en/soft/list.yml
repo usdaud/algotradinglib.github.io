@@ -1,9 +1,10 @@
-﻿- name: Amibroker
+- name: Amibroker
   description: Technical analysis and backtesting tool
   logo: /assets/images/logos/amibroker.png
   website: https://www.amibroker.com/
   pedia_link: /en/pedia/a/amibroker.html
   filters: [Backtesting, Charting, Stock, Historical Data, Custom Script]
+  supported_data_providers: [Algoseek, Barchart, Bloomberg, CQG, DxFeed, EODData, Estimize, Exchange Data International, FINRA, FTSE Russell, FactSet, IEX Cloud, IQFeed, Infront, Interactive Data Corporation, Intrinio, Iress, Kinetick, MarketAxess, Morningstar, Polygon.io, Quandl, QuoteMedia, Reuters, S&P Global Market Intelligence, Six Financial Information, Tiingo, Trading Economics, Xignite, Yahoo Finance]
 
 - name: ATAS
   description: Advanced trading and analytical platform
@@ -11,6 +12,7 @@
   website: https://atas.net/
   pedia_link: /en/pedia/a/atas.html
   filters: [Charting, Live trading, Realtime data, C#]
+  supported_data_providers: [Barchart, Bloomberg, CQG, DxFeed, FactSet, IEX Cloud, IQFeed, Infront, Interactive Data Corporation, Intrinio, Iress, Kinetick, MarketAxess, Polygon.io, QuoteMedia, Reuters, Six Financial Information, Xignite]
 
 - name: Backtrader
   description: Python framework for backtesting trading strategies
@@ -19,6 +21,7 @@
   pedia_link: /en/pedia/b/backtrader.html
   github: https://github.com/mementum/backtrader
   filters: [Free, Backtesting, Paper Trading, OpenSource, Python]
+  supported_data_providers: [Barchart, EODData, IEX Cloud, Intrinio, Polygon.io, Quandl, Tiingo, Trading Economics, Yahoo Finance]
 
 - name: BlueShift
   description: Algorithmic trading platform by Blueshift Asset Management
@@ -26,6 +29,7 @@
   website: https://blueshift.com/
   pedia_link: /en/pedia/b/blueshift.html
   filters: [API, Backtesting, Live trading, Python]
+  supported_data_providers: [Barchart, CQG, DxFeed, EODData, FactSet, IEX Cloud, IQFeed, Intrinio, Polygon.io, Quandl, QuoteMedia, Tiingo, Xignite, Yahoo Finance]
 
 - name: cTrader
   description: Advanced trading platform for forex and CFD trading
@@ -33,6 +37,7 @@
   website: https://www.ctrader.com/
   pedia_link: /en/pedia/c/ctrader.html
   filters: [API, Live trading, Paper Trading, C#]
+  supported_data_providers: [Barchart, CQG, DxFeed, EODData, FactSet, IEX Cloud, IQFeed, Intrinio, Polygon.io, Quandl, QuoteMedia, Tiingo, Xignite, Yahoo Finance]
 
 - name: ChartIQ
   description: HTML5 charting and technical analysis software
@@ -40,6 +45,7 @@
   website: https://www.spglobal.com/marketintelligence/en/solutions/chartiq
   pedia_link: /en/pedia/c/chartiq.html
   filters: [Charting, API, JavaScript]
+  supported_data_providers: [Barchart, CQG, DxFeed, EODData, FactSet, IEX Cloud, IQFeed, Intrinio, Polygon.io, Quandl, QuoteMedia, Tiingo, Xignite, Yahoo Finance]
 
 - name: CQG
   description: Professional trading platform for futures and options
@@ -47,6 +53,7 @@
   website: https://www.cqg.com/
   pedia_link: /en/pedia/c/cqg.html
   filters: [Live trading, API, Realtime data]
+  supported_data_providers: [Barchart, Bloomberg, CQG, DxFeed, EODData, FactSet, IEX Cloud, IQFeed, Infront, Interactive Data Corporation, Intrinio, Iress, Kinetick, MarketAxess, Polygon.io, Quandl, QuoteMedia, Reuters, Six Financial Information, Tiingo, Xignite, Yahoo Finance]
 
 - name: Deltix
   description: Quantitative research and algorithmic trading platform
@@ -54,6 +61,7 @@
   website: https://www.deltixlab.com/
   pedia_link: /en/pedia/d/deltix.html
   filters: [Backtesting, Live trading, API, Java]
+  supported_data_providers: [Barchart, CQG, DxFeed, EODData, FactSet, IEX Cloud, IQFeed, Intrinio, Polygon.io, Quandl, QuoteMedia, Tiingo, Xignite, Yahoo Finance]
 
 - name: DXTrade
   description: Multi-asset trading platform
@@ -61,6 +69,7 @@
   website: https://dx.trade/
   pedia_link: /en/pedia/d/dxtrade.html
   filters: [Live trading, API, Realtime data]
+  supported_data_providers: [Barchart, Bloomberg, CQG, DxFeed, EODData, FactSet, IEX Cloud, IQFeed, Infront, Interactive Data Corporation, Intrinio, Iress, Kinetick, MarketAxess, Polygon.io, Quandl, QuoteMedia, Reuters, Six Financial Information, Tiingo, Xignite, Yahoo Finance]
 
 - name: eSignal
   description: Real-time market data and analysis software
@@ -68,6 +77,7 @@
   website: https://www.esignal.com/
   pedia_link: /en/pedia/e/esignal.html
   filters: [Charting, Realtime data, Historical Data]
+  supported_data_providers: [Algoseek, Barchart, Bloomberg, CQG, DxFeed, EODData, Exchange Data International, FINRA, FTSE Russell, FactSet, IEX Cloud, IQFeed, Infront, Interactive Data Corporation, Intrinio, Iress, Kinetick, MarketAxess, Morningstar, Polygon.io, Quandl, QuoteMedia, Reuters, S&P Global Market Intelligence, Six Financial Information, Tiingo, Trading Economics, Xignite, Yahoo Finance]
 
 - name: Genesis
   description: Microservices and modules for financial markets
@@ -75,6 +85,7 @@
   website: https://genesis.global/
   pedia_link: /en/pedia/g/genesis.html
   filters: [API, Live trading]
+  supported_data_providers: [Barchart, CQG, DxFeed, EODData, FactSet, IEX Cloud, IQFeed, Intrinio, Polygon.io, Quandl, QuoteMedia, Tiingo, Xignite, Yahoo Finance]
 
 - name: GoCharting
   description: Web-based charting and technical analysis platform
@@ -82,6 +93,7 @@
   website: https://gocharting.com/
   pedia_link: /en/pedia/g/gocharting.html
   filters: [Charting, Stock, Crypto]
+  supported_data_providers: [Algoseek, Barchart, Bloomberg, DxFeed, EODData, Estimize, Exchange Data International, FINRA, FactSet, IEX Cloud, IQFeed, Infront, Interactive Data Corporation, Intrinio, Iress, Kinetick, Morningstar, Polygon.io, Quandl, QuoteMedia, Reuters, S&P Global Market Intelligence, Six Financial Information, Tiingo, Xignite, Yahoo Finance]
 
 - name: IBridgePy
   description: Python trading framework for Interactive Brokers
@@ -89,6 +101,7 @@
   website: https://ibridgepy.com/
   pedia_link: /en/pedia/i/ibridgepy.html
   filters: [API, Live trading, Paper Trading, Stock, Python]
+  supported_data_providers: [Algoseek, Barchart, Bloomberg, CQG, DxFeed, EODData, Estimize, Exchange Data International, FINRA, FactSet, IEX Cloud, IQFeed, Infront, Interactive Data Corporation, Intrinio, Iress, Kinetick, Morningstar, Polygon.io, Quandl, QuoteMedia, Reuters, S&P Global Market Intelligence, Six Financial Information, Tiingo, Xignite, Yahoo Finance]
 
 - name: JForex
   description: Java-based trading platform by Dukascopy
@@ -96,6 +109,7 @@
   website: https://www.dukascopy.com/europe/english/forex/jforex/
   pedia_link: /en/pedia/j/jforex.html
   filters: [API, Live trading, Backtesting, Java]
+  supported_data_providers: [Barchart, CQG, DxFeed, EODData, FactSet, IEX Cloud, IQFeed, Intrinio, Polygon.io, Quandl, QuoteMedia, Tiingo, Xignite, Yahoo Finance]
 
 - name: Jigsaw Trading
   description: Order flow trading software
@@ -103,6 +117,7 @@
   website: https://www.jigsawtrading.com/
   pedia_link: /en/pedia/j/jigsaw_trading.html
   filters: [Live trading, Realtime data]
+  supported_data_providers: [Barchart, Bloomberg, CQG, DxFeed, FactSet, IEX Cloud, IQFeed, Infront, Interactive Data Corporation, Intrinio, Iress, Kinetick, MarketAxess, Polygon.io, QuoteMedia, Reuters, Six Financial Information, Xignite]
 
 - name: Kite by Zerodha
   description: Modern trading platform by Zerodha
@@ -110,6 +125,7 @@
   website: https://kite.zerodha.com/
   pedia_link: /en/pedia/k/kite_zerodha.html
   filters: [API, Live trading, Stock]
+  supported_data_providers: [Algoseek, Barchart, Bloomberg, CQG, DxFeed, EODData, Estimize, Exchange Data International, FINRA, FactSet, IEX Cloud, IQFeed, Infront, Interactive Data Corporation, Intrinio, Iress, Kinetick, Morningstar, Polygon.io, Quandl, QuoteMedia, Reuters, S&P Global Market Intelligence, Six Financial Information, Tiingo, Xignite, Yahoo Finance]
 
 - name: Lightweight Charts
   description: Financial lightweight charts library
@@ -118,6 +134,7 @@
   pedia_link: /en/pedia/l/lightweight_charts.html
   github: https://github.com/tradingview/lightweight-charts
   filters: [Charting, JavaScript, OpenSource]
+  supported_data_providers: []
 
 - name: Livevol
   description: Options analytics and trading platform
@@ -125,6 +142,7 @@
   website: https://www.livevol.com/
   pedia_link: /en/pedia/l/livevol.html
   filters: [Live trading, Realtime data, Stock]
+  supported_data_providers: [Algoseek, Barchart, Bloomberg, CQG, DxFeed, EODData, Estimize, Exchange Data International, FINRA, FactSet, IEX Cloud, IQFeed, Infront, Interactive Data Corporation, Intrinio, Iress, Kinetick, MarketAxess, Morningstar, Polygon.io, Quandl, QuoteMedia, Reuters, S&P Global Market Intelligence, Six Financial Information, Tiingo, Xignite, Yahoo Finance]
 
 - name: Marketcetera
   description: Open source trading platform
@@ -133,20 +151,23 @@
   pedia_link: /en/pedia/m/marketcetera.html
   github: https://github.com/marketcetera/marketcetera
   filters: [OpenSource, Java, Live trading, API]
+  supported_data_providers: [Barchart, CQG, DxFeed, EODData, FactSet, IEX Cloud, IQFeed, Intrinio, Polygon.io, Quandl, QuoteMedia, Tiingo, Xignite, Yahoo Finance]
 
-- name: MetaTrader 4
+- name: MetaTrader 4 (MT4)
   description: Popular forex and CFD trading platform
   logo: /assets/images/logos/metatrader.png
   website: https://www.metatrader4.com/
   pedia_link: /en/pedia/m/metatrader4.html
   filters: [Live trading, Backtesting, Custom Script]
+  supported_data_providers: []
 
-- name: MetaTrader 5
+- name: MetaTrader 5 (MT5)
   description: Multi-asset trading platform
   logo: /assets/images/logos/metatrader.png
   website: https://www.metatrader5.com/
   pedia_link: /en/pedia/m/metatrader5.html
   filters: [Live trading, Backtesting, Custom Script]
+  supported_data_providers: []
 
 - name: MotiveWave
   description: Professional charting and trading software
@@ -154,6 +175,7 @@
   website: https://www.motivewave.com/
   pedia_link: /en/pedia/m/motivewave.html
   filters: [Charting, Live trading, Backtesting, Java]
+  supported_data_providers: []
 
 - name: MultiCharts
   description: Professional trading platform for technical analysis and automated trading
@@ -161,6 +183,7 @@
   website: https://www.multicharts.com/
   pedia_link: /en/pedia/m/multicharts.html
   filters: [Charting, Live trading, Backtesting, C#]
+  supported_data_providers: []
 
 - name: NinjaTrader
   description: Trading and charting software for active traders
@@ -168,6 +191,7 @@
   website: https://ninjatrader.com/
   pedia_link: /en/pedia/n/ninjatrader.html
   filters: [Live trading, Backtesting, Charting, C#]
+  supported_data_providers: []
 
 - name: NautilusTrader
   description: High-performance algorithmic trading framework
@@ -176,6 +200,7 @@
   pedia_link: /en/pedia/n/nautilustrader.html
   github: https://github.com/nautechsystems/nautilus_trader
   filters: [Python, Backtesting, Live trading, OpenSource]
+  supported_data_providers: []
 
 - name: NeuroShell
   description: Neural network software for financial forecasting and trading
@@ -183,6 +208,7 @@
   website: https://www.ward.net/
   pedia_link: /en/pedia/n/neuroshell.html
   filters: [Backtesting]
+  supported_data_providers: []
 
 - name: Optuma
   description: Technical analysis software for professionals
@@ -190,6 +216,7 @@
   website: https://www.optuma.com/
   pedia_link: /en/pedia/o/optuma.html
   filters: [Charting, Backtesting, Historical Data]
+  supported_data_providers: [Algoseek, Barchart, Bloomberg, CQG, EODData, Exchange Data International, FINRA, FTSE Russell, FactSet, IEX Cloud, IQFeed, Infront, Interactive Data Corporation, Intrinio, Iress, Kinetick, MarketAxess, Morningstar, Polygon.io, Quandl, QuoteMedia, Reuters, S&P Global Market Intelligence, Six Financial Information, Tiingo, Trading Economics, Xignite, Yahoo Finance]
 
 - name: QuantConnect
   description: Open-source algorithmic trading platform
@@ -198,6 +225,7 @@
   pedia_link: /en/pedia/q/quantconnect.html
   github: https://github.com/QuantConnect/Lean
   filters: [Backtesting, Live trading, Historical Data, API, OpenSource, Python, C#]
+  supported_data_providers: [Algoseek, Barchart, Bloomberg, CQG, DxFeed, EODData, Exchange Data International, FINRA, FTSE Russell, FactSet, IEX Cloud, IQFeed, Infront, Interactive Data Corporation, Intrinio, Iress, Kinetick, MarketAxess, Morningstar, Polygon.io, Quandl, QuoteMedia, Reuters, S&P Global Market Intelligence, Six Financial Information, Tiingo, Trading Economics, Xignite, Yahoo Finance]
 
 - name: QuantHouse
   description: Market data and trading infrastructure provider
@@ -205,6 +233,7 @@
   website: https://www.quanthouse.com/
   pedia_link: /en/pedia/q/quanthouse.html
   filters: [Market data, Historical Data, API, Stock]
+  supported_data_providers: [Algoseek, Barchart, Bloomberg, CQG, DxFeed, EODData, Estimize, Exchange Data International, FINRA, FTSE Russell, FactSet, IEX Cloud, IQFeed, Infront, Interactive Data Corporation, Intrinio, Iress, Kinetick, MarketAxess, Morningstar, Polygon.io, Quandl, QuoteMedia, Reuters, S&P Global Market Intelligence, Six Financial Information, Tiingo, Trading Economics, Xignite, Yahoo Finance]
 
 - name: Quantlib
   description: Quantitative finance library
@@ -213,6 +242,7 @@
   pedia_link: /en/pedia/q/quantlib.html
   github: https://github.com/lballabio/QuantLib
   filters: [OpenSource, C++]
+  supported_data_providers: []
 
 - name: QuantRocket
   description: Quantitative trading platform
@@ -220,6 +250,7 @@
   website: https://www.quantrocket.com/
   pedia_link: /en/pedia/q/quantrocket.html
   filters: [Backtesting, Live trading, API, Python]
+  supported_data_providers: [Barchart, CQG, DxFeed, EODData, FactSet, IEX Cloud, IQFeed, Intrinio, Polygon.io, Quandl, QuoteMedia, Tiingo, Xignite, Yahoo Finance]
 
 - name: QuantShare
   description: Backtesting and automated trading software
@@ -227,6 +258,7 @@
   website: https://www.quantshare.com/
   pedia_link: /en/pedia/q/quantshare.html
   filters: [Backtesting, Live trading, C#]
+  supported_data_providers: []
 
 - name: Rithmic
   description: Trading and market data platform
@@ -234,6 +266,7 @@
   website: https://www.rithmic.com/
   pedia_link: /en/pedia/r/rithmic.html
   filters: [Live trading, API, Realtime data]
+  supported_data_providers: [Barchart, Bloomberg, CQG, DxFeed, EODData, FactSet, IEX Cloud, IQFeed, Infront, Interactive Data Corporation, Intrinio, Iress, Kinetick, MarketAxess, Polygon.io, Quandl, QuoteMedia, Reuters, Six Financial Information, Tiingo, Xignite, Yahoo Finance]
 
 - name: Sierra Chart
   description: Professional charting and trading software
@@ -241,6 +274,7 @@
   website: https://www.sierrachart.com/
   pedia_link: /en/pedia/s/sierra_chart.html
   filters: [Charting, Live trading, Backtesting, C++]
+  supported_data_providers: []
 
 - name: Sterling Trader
   description: Professional direct access trading platform
@@ -248,6 +282,7 @@
   website: https://www.sterlingtradingtech.com/
   pedia_link: /en/pedia/s/sterling_trader.html
   filters: [Live trading]
+  supported_data_providers: []
 
 - name: StockSharp
   description: Open-source trading platform for algorithmic trading
@@ -256,6 +291,7 @@
   pedia_link: /en/pedia/s/stocksharp.html
   github: https://github.com/StockSharp/StockSharp
   filters: [OpenSource, Free, Historical Data, API, Backtesting, Live trading, C#]
+  supported_data_providers: [Algoseek, Barchart, Bloomberg, CQG, DxFeed, EODData, Exchange Data International, FINRA, FTSE Russell, FactSet, IEX Cloud, IQFeed, Infront, Interactive Data Corporation, Intrinio, Iress, Kinetick, MarketAxess, Morningstar, Polygon.io, Quandl, QuoteMedia, Reuters, S&P Global Market Intelligence, Six Financial Information, Tiingo, Trading Economics, Xignite, Yahoo Finance]
 
 - name: ThinkOrSwim
   description: Advanced trading platform by TD Ameritrade
@@ -263,6 +299,7 @@
   website: https://www.schwab.com/trading/thinkorswim
   pedia_link: /en/pedia/t/thinkorswim.html
   filters: [Live trading, Backtesting, Charting]
+  supported_data_providers: []
 
 - name: TradeStation
   description: Electronic trading platform for financial market traders
@@ -270,6 +307,7 @@
   website: https://www.tradestation.com/
   pedia_link: /en/pedia/t/tradestation.html
   filters: [Live trading, Backtesting, Custom Script]
+  supported_data_providers: []
 
 - name: Trading Technologies
   description: Professional trading software for derivatives
@@ -277,6 +315,7 @@
   website: https://www.tradingtechnologies.com/
   pedia_link: /en/pedia/t/trading_technologies.html
   filters: [Live trading, API]
+  supported_data_providers: [Barchart, CQG, DxFeed, EODData, FactSet, IEX Cloud, IQFeed, Intrinio, Polygon.io, Quandl, QuoteMedia, Tiingo, Xignite, Yahoo Finance]
 
 - name: TradingView
   description: Web-based charting and social network for traders and investors
@@ -284,6 +323,7 @@
   website: https://www.tradingview.com/
   pedia_link: /en/pedia/t/tradingview.html
   filters: [Charting, Backtesting, Custom Script]
+  supported_data_providers: []
 
 - name: Volfix
   description: Analytics and trading platform
@@ -291,6 +331,7 @@
   website: https://volfix.net/
   pedia_link: /en/pedia/v/volfix.html
   filters: [Live trading, Stock]
+  supported_data_providers: [Algoseek, Barchart, Bloomberg, DxFeed, EODData, Estimize, Exchange Data International, FINRA, FactSet, IEX Cloud, IQFeed, Infront, Interactive Data Corporation, Intrinio, Iress, Kinetick, Morningstar, Polygon.io, Quandl, QuoteMedia, Reuters, S&P Global Market Intelligence, Six Financial Information, Tiingo, Xignite, Yahoo Finance]
 
 - name: Wyden
   description: Professional algorithmic trading platform
@@ -298,3 +339,4 @@
   website: https://www.wyden.io/
   pedia_link: /en/pedia/w/wyden.html
   filters: [Backtesting, Live trading, Stock, Crypto, Java]
+  supported_data_providers: [Algoseek, Barchart, Bloomberg, DxFeed, EODData, Estimize, Exchange Data International, FINRA, FactSet, IEX Cloud, IQFeed, Infront, Interactive Data Corporation, Intrinio, Iress, Kinetick, Morningstar, Polygon.io, Quandl, QuoteMedia, Reuters, S&P Global Market Intelligence, Six Financial Information, Tiingo, Xignite, Yahoo Finance]
