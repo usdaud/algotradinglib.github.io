@@ -91,7 +91,7 @@
 
 - name: Interactive Data Corporation
   description: Financial market data provider (now part of Intercontinental Exchange)
-  logo: /assets/images/logos/idc.png
+  logo: /assets/images/logos/ice.png
   website: https://www.theice.com/market-data
   pedia_link: /en/pedia/i/idc.html
   filters: [Realtime data, Historical Data, Stock, Bonds, Futures, Options]
