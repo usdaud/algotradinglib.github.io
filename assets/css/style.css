@@ -269,10 +269,71 @@ footer a:hover .github-icon {
     display: inline-block;
     background-color: #e9ecef;
     color: #495057;
-    padding: 5px 10px;
+    padding: 4px 8px;
     margin: 2px;
-    font-size: 0.8em;
-    border-radius: 3px;
+    font-size: 12px;
+    border-radius: 12px;
+    transition: all 0.3s ease;
+}
+
+.filter-btn {
+    background-color: #f8f9fa;
+    color: #495057;
+    border: 1px solid #ced4da;
+    padding: 8px 16px;
+    margin: 5px;
+    cursor: pointer;
+    border-radius: 20px;
+    transition: all 0.3s ease;
+    font-size: 14px;
+    outline: none;
+}
+
+.filter-btn:hover {
+    background-color: #e9ecef;
+    transform: translateY(-2px);
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.filter-btn.active {
+    background-color: #007bff;
+    color: white;
+    border-color: #007bff;
+    transform: translateY(-2px);
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+.filter-btn.highlight,
+.filter-tag.highlight {
+    background-color: #dc3545;
+    color: white;
+    border-color: #dc3545;
+}
+
+.filter-btn.highlight:hover {
+    background-color: #c82333;
+    border-color: #bd2130;
+}
+
+.filter-btn.highlight.active {
+    background-color: #bd2130;
+    border-color: #b21f2d;
+}
+
+@keyframes pulse {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.05);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+.filter-btn.active {
+    animation: pulse 0.5s;
 }
 
 @media (max-width: 768px) {
