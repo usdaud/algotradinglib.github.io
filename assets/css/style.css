@@ -64,6 +64,7 @@ footer {
     background: none;
     border: none;
     cursor: pointer;
+    z-index: 1002;
 }
 
 .menu-toggle span {
@@ -72,6 +73,19 @@ footer {
     height: 3px;
     background-color: #333;
     margin: 5px 0;
+    transition: all 0.3s ease-in-out;
+}
+
+.menu-toggle.active span:nth-child(1) {
+    transform: rotate(-45deg) translate(-5px, 6px);
+}
+
+.menu-toggle.active span:nth-child(2) {
+    opacity: 0;
+}
+
+.menu-toggle.active span:nth-child(3) {
+    transform: rotate(45deg) translate(-5px, -6px);
 }
 
 .breadcrumb {
@@ -388,24 +402,33 @@ footer a:hover .github-icon {
 
     nav {
         display: none;
-        position: absolute;
-        top: 70px;
+        position: fixed;
+        top: 0;
         left: 0;
         width: 100%;
-        background-color: #f8f8f8;
+        height: 100%;
+        background-color: rgba(248, 248, 248, 0.95);
         z-index: 1001;
+        justify-content: center;
+        align-items: center;
     }
 
     nav.active {
-        display: block !important;
+        display: flex !important;
     }
 
     nav ul {
         flex-direction: column;
+        align-items: center;
     }
 
     nav ul li {
-        margin: 10px 0;
+        margin: 15px 0;
+    }
+
+    #sticky-header {
+        position: relative;
+        z-index: 1002;
     }
 
     .language-selector {
