@@ -3,14 +3,14 @@
   logo: /assets/images/logos/amibroker.png
   website: https://www.amibroker.com/
   pedia_link: /en/pedia/a/amibroker.html
-  filters: [Backtesting, Charting, Stock, Historical Data, AFL]
+  filters: [Backtesting, Charting, Stock, Historical Data, Custom Script]
 
 - name: ATAS
   description: Advanced trading and analytical platform
   logo: /assets/images/logos/atas.png
   website: https://atas.net/
   pedia_link: /en/pedia/a/atas.html
-  filters: [Charting, Live trading, Realtime data]
+  filters: [Charting, Live trading, Realtime data, C#]
 
 - name: Backtrader
   description: Python framework for backtesting trading strategies
@@ -139,14 +139,14 @@
   logo: /assets/images/logos/metatrader.png
   website: https://www.metatrader4.com/
   pedia_link: /en/pedia/m/metatrader4.html
-  filters: [Live trading, Backtesting, API, MQL4]
+  filters: [Live trading, Backtesting, Custom Script]
 
 - name: MetaTrader 5 (MT5)
   description: Multi-asset trading platform
   logo: /assets/images/logos/metatrader.png
   website: https://www.metatrader5.com/
   pedia_link: /en/pedia/m/metatrader5.html
-  filters: [Live trading, Backtesting, API, MQL5]
+  filters: [Live trading, Backtesting, Custom Script]
 
 - name: MotiveWave
   description: Professional charting and trading software
@@ -160,7 +160,7 @@
   logo: /assets/images/logos/multicharts.png
   website: https://www.multicharts.com/
   pedia_link: /en/pedia/m/multicharts.html
-  filters: [Charting, Live trading, Backtesting, PowerLanguage]
+  filters: [Charting, Live trading, Backtesting, C#]
 
 - name: NinjaTrader
   description: Trading and charting software for active traders
@@ -182,7 +182,7 @@
   logo: /assets/images/logos/ward_systems.png
   website: https://www.ward.net/
   pedia_link: /en/pedia/n/neuroshell.html
-  filters: [Backtesting, Optimization]
+  filters: [Backtesting]
 
 - name: Optuma
   description: Technical analysis software for professionals
@@ -197,14 +197,14 @@
   website: https://www.quantconnect.com/
   pedia_link: /en/pedia/q/quantconnect.html
   github: https://github.com/QuantConnect/Lean
-  filters: [Backtesting, Live trading, API, OpenSource, Python, C#]
+  filters: [Backtesting, Live trading, Historical Data, API, OpenSource, Python, C#]
 
 - name: QuantHouse
   description: Market data and trading infrastructure provider
   logo: /assets/images/logos/quanthouse.png
   website: https://www.quanthouse.com/
   pedia_link: /en/pedia/q/quanthouse.html
-  filters: [Market data, Trading infrastructure, API, Stock]
+  filters: [Market data, Historical Data, API, Stock]
 
 - name: Quantlib
   description: Quantitative finance library
@@ -247,7 +247,7 @@
   logo: /assets/images/logos/sterling_trader.png
   website: https://www.sterlingtradingtech.com/
   pedia_link: /en/pedia/s/sterling_trader.html
-  filters: [Live trading, API]
+  filters: [Live trading]
 
 - name: StockSharp
   description: Open-source trading platform for algorithmic trading
@@ -255,7 +255,7 @@
   website: https://stocksharp.com/
   pedia_link: /en/pedia/s/stocksharp.html
   github: https://github.com/StockSharp/StockSharp
-  filters: [OpenSource, Free, Backtesting, Live trading, C#]
+  filters: [OpenSource, Free, Historical Data, API, Backtesting, Live trading, C#]
 
 - name: ThinkOrSwim
   description: Advanced trading platform by TD Ameritrade
@@ -269,7 +269,7 @@
   logo: /assets/images/logos/tradestation.png
   website: https://www.tradestation.com/
   pedia_link: /en/pedia/t/tradestation.html
-  filters: [Live trading, Backtesting, API, EasyLanguage]
+  filters: [Live trading, Backtesting, Custom Script]
 
 - name: Trading Technologies
   description: Professional trading software for derivatives
@@ -283,18 +283,18 @@
   logo: /assets/images/logos/tradingview.png
   website: https://www.tradingview.com/
   pedia_link: /en/pedia/t/tradingview.html
-  filters: [Charting, Backtesting, Pine Script]
+  filters: [Charting, Backtesting, Custom Script]
 
 - name: Volfix
   description: Analytics and trading platform
   logo: /assets/images/logos/volfix.png
   website: https://volfix.net/
   pedia_link: /en/pedia/v/volfix.html
-  filters: [Live trading, API, Stock]
+  filters: [Live trading, Stock]
 
 - name: Wyden
   description: Professional algorithmic trading platform
   logo: /assets/images/logos/wyden.png
   website: https://www.wyden.io/
   pedia_link: /en/pedia/w/wyden.html
-  filters: [API, Backtesting, Live trading, Optimization, Stock, Crypto, Java]
+  filters: [Backtesting, Live trading, Stock, Crypto, Java]
