@@ -109,7 +109,7 @@ footer a:hover .github-icon {
 
 .section-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     gap: 20px;
     padding: 20px;
 }
@@ -212,13 +212,13 @@ footer a:hover .github-icon {
     background-color: #0056b3;
 }
 
-#software-list {
+#catalog-list {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     gap: 20px;
 }
 
-.software-item {
+.catalog-item {
     background-color: #f8f8f8;
     border-radius: 10px;
     padding: 20px;
@@ -226,38 +226,38 @@ footer a:hover .github-icon {
     transition: box-shadow 0.3s, transform 0.3s;
 }
 
-.software-item:hover {
+.catalog-item:hover {
     box-shadow: 0 5px 15px rgba(0,0,0,0.2);
     transform: translateY(-5px);
 }
 
-.software-item img {
+.catalog-item img {
     max-width: 100px;
     height: auto;
     display: block;
     margin: 0 auto 15px;
 }
 
-.software-item h2 {
+.catalog-item h2 {
     font-size: 1.2em;
     color: #333;
     margin-bottom: 10px;
     text-align: center;
 }
 
-.software-item p {
+.catalog-item p {
     font-size: 0.9em;
     margin-bottom: 15px;
 }
 
-.software-item a {
+.catalog-item a {
     display: inline-block;
     margin-right: 10px;
     color: #007bff;
     text-decoration: none;
 }
 
-.software-item a:hover {
+.catalog-item a:hover {
     text-decoration: underline;
 }
 
@@ -410,7 +410,7 @@ footer a:hover .github-icon {
         font-size: 0.7em;
     }
 
-    #software-list {
+    #catalog-list {
         grid-template-columns: 1fr;
     }
 
