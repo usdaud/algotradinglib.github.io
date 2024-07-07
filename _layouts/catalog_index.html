@@ -4,18 +4,20 @@ layout: base
 <h1>{{ page.title }}</h1>
 
 <div id="filters">
-  {% assign all_filters = '' | split: '' %}
-  {% for item in page.catalog %}
-    {% for filter in item.filters %}
-      {% unless all_filters contains filter %}
-        {% assign all_filters = all_filters | push: filter %}
-      {% endunless %}
+  <div class="filter-btn-container">
+    {% assign all_filters = '' | split: '' %}
+    {% for item in page.catalog %}
+      {% for filter in item.filters %}
+        {% unless all_filters contains filter %}
+          {% assign all_filters = all_filters | push: filter %}
+        {% endunless %}
+      {% endfor %}
     {% endfor %}
-  {% endfor %}
-  
-  {% for filter in all_filters %}
-    <button class="filter-btn {% if page.special_filters contains filter %}highlight{% endif %}" data-filter="{{ filter }}">{{ filter }}</button>
-  {% endfor %}
+    
+    {% for filter in all_filters %}
+      <button class="filter-btn {% if page.special_filters contains filter %}highlight{% endif %}" data-filter="{{ filter }}">{{ filter }}</button>
+    {% endfor %}
+  </div>
 </div>
 
 <div id="catalog-list">
@@ -49,6 +51,24 @@ document.addEventListener('DOMContentLoaded', function() {
 
   let activeFilters = new Set();
 
+  function updateURL() {
+    const searchParams = new URLSearchParams();
+    activeFilters.forEach(filter => searchParams.append('filter', filter));
+    const newURL = `${window.location.pathname}?${searchParams.toString()}`;
+    history.pushState(null, '', newURL);
+  }
+
+  function applyFilters() {
+    catalogItems.forEach(item => {
+      const itemFilters = item.dataset.filters.split(',');
+      if (activeFilters.size === 0 || Array.from(activeFilters).every(filter => itemFilters.includes(filter))) {
+        item.style.display = 'block';
+      } else {
+        item.style.display = 'none';
+      }
+    });
+  }
+
   filterButtons.forEach(button => {
     button.addEventListener('click', function() {
       const filter = this.dataset.filter;
@@ -60,21 +80,44 @@ document.addEventListener('DOMContentLoaded', function() {
         this.classList.add('active');
         activeFilters.add(filter);
         
-        // Add animation
         this.style.animation = 'none';
-        this.offsetHeight; // Trigger reflow
+        this.offsetHeight;
         this.style.animation = null;
       }
 
-      catalogItems.forEach(item => {
-        const itemFilters = item.dataset.filters.split(',');
-        if (activeFilters.size === 0 || Array.from(activeFilters).every(filter => itemFilters.includes(filter))) {
-          item.style.display = 'block';
-        } else {
-          item.style.display = 'none';
-        }
-      });
+      applyFilters();
+      updateURL();
     });
+  });
+
+  const urlParams = new URLSearchParams(window.location.search);
+  const urlFilters = urlParams.getAll('filter');
+  if (urlFilters.length > 0) {
+    urlFilters.forEach(filter => {
+      const button = document.querySelector(`.filter-btn[data-filter="${filter}"]`);
+      if (button) {
+        button.classList.add('active');
+        activeFilters.add(filter);
+      }
+    });
+    applyFilters();
+  }
+
+  window.addEventListener('popstate', function() {
+    activeFilters.clear();
+    const urlParams = new URLSearchParams(window.location.search);
+    const urlFilters = urlParams.getAll('filter');
+    
+    filterButtons.forEach(button => {
+      if (urlFilters.includes(button.dataset.filter)) {
+        button.classList.add('active');
+        activeFilters.add(button.dataset.filter);
+      } else {
+        button.classList.remove('active');
+      }
+    });
+    
+    applyFilters();
   });
 });
 </script>
