@@ -106,14 +106,14 @@
 
 - name: Kite by Zerodha
   description: Modern trading platform by Zerodha
-  logo: /assets/images/logos/kite.png
+  logo: /assets/images/logos/zerodha.png
   website: https://kite.zerodha.com/
   pedia_link: /en/pedia/k/kite_zerodha.html
   filters: [API, Live trading, Stock]
 
 - name: Lightweight Charts
   description: Financial lightweight charts library
-  logo: /assets/images/logos/lightweight_charts.png
+  logo: /assets/images/logos/tradingview.png
   website: https://www.tradingview.com/lightweight-charts/
   pedia_link: /en/pedia/l/lightweight_charts.html
   github: https://github.com/tradingview/lightweight-charts
@@ -136,14 +136,14 @@
 
 - name: MetaTrader 4 (MT4)
   description: Popular forex and CFD trading platform
-  logo: /assets/images/logos/mt4.png
+  logo: /assets/images/logos/metatrader.png
   website: https://www.metatrader4.com/
   pedia_link: /en/pedia/m/metatrader4.html
   filters: [Live trading, Backtesting, API, MQL4]
 
 - name: MetaTrader 5 (MT5)
   description: Multi-asset trading platform
-  logo: /assets/images/logos/mt5.png
+  logo: /assets/images/logos/metatrader.png
   website: https://www.metatrader5.com/
   pedia_link: /en/pedia/m/metatrader5.html
   filters: [Live trading, Backtesting, API, MQL5]
@@ -179,7 +179,7 @@
 
 - name: NeuroShell
   description: Neural network software for financial forecasting and trading
-  logo: /assets/images/logos/neuroshell.png
+  logo: /assets/images/logos/ward_systems.png
   website: https://www.ward.net/
   pedia_link: /en/pedia/n/neuroshell.html
   filters: [Backtesting, Optimization]
