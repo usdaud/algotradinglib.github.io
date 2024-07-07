@@ -63,10 +63,17 @@
                             {{ locale.algopedia | default: "Algopedia" }}
                         </a>
                     </li>
+                    <li class="mobile-language-selector">
+                        <select id="lang-select-mobile">
+                            <option value="en" {% if page.lang == "en" %}selected{% endif %}>English</option>
+                            <option value="ru" {% if page.lang == "ru" %}selected{% endif %}>Русский</option>
+                            <option value="zh" {% if page.lang == "zh" %}selected{% endif %}>中文</option>
+                        </select>
+                    </li>
                 </ul>
             </nav>
-            <div class="language-selector">
-                <select id="lang-select">
+            <div class="language-selector desktop-only">
+                <select id="lang-select-desktop">
                     <option value="en" {% if page.lang == "en" %}selected{% endif %}>English</option>
                     <option value="ru" {% if page.lang == "ru" %}selected{% endif %}>Русский</option>
                     <option value="zh" {% if page.lang == "zh" %}selected{% endif %}>中文</option>
@@ -111,7 +118,7 @@
                 }
             });
 
-            $("#lang-select").change(function() {
+            $("#lang-select-desktop, #lang-select-mobile").change(function() {
                 var selectedLang = $(this).val();
                 var currentPath = window.location.pathname;
                 var parts = currentPath.split('/');
