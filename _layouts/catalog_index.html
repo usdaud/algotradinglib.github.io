@@ -14,7 +14,7 @@ layout: base
   {% endfor %}
   
   {% for filter in all_filters %}
-    <button class="filter-btn {% if filter == 'Free' or filter == 'OpenSource' %}highlight{% endif %}" data-filter="{{ filter }}">{{ filter }}</button>
+    <button class="filter-btn {% if page.special_filters contains filter %}highlight{% endif %}" data-filter="{{ filter }}">{{ filter }}</button>
   {% endfor %}
 </div>
 
@@ -35,7 +35,7 @@ layout: base
       </a>
       <div class="filters">
         {% for filter in item.filters %}
-          <span class="filter-tag {% if filter == 'Free' or filter == 'OpenSource' %}highlight{% endif %}">{{ filter }}</span>
+          <span class="filter-tag {% if page.special_filters contains filter %}highlight{% endif %}">{{ filter }}</span>
         {% endfor %}
       </div>
     </div>

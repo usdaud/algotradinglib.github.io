@@ -218,6 +218,13 @@ module Jekyll
       self.data['lang'] = lang
       self.data['section'] = section
       self.data['permalink'] = "/#{lang}/#{section}/index.html"
+
+      special_filters_file = File.join(base, lang, section, 'special_filters.yml')
+      if File.exist?(special_filters_file)
+        self.data['special_filters'] = YAML.load_file(special_filters_file)
+      else
+        self.data['special_filters'] = []
+      end
     end
   end
 end
