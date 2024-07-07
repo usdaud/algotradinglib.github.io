@@ -54,7 +54,10 @@ document.addEventListener('DOMContentLoaded', function() {
   function updateURL() {
     const searchParams = new URLSearchParams();
     activeFilters.forEach(filter => searchParams.append('filter', filter));
-    const newURL = `${window.location.pathname}?${searchParams.toString()}`;
+    const queryString = searchParams.toString();
+    const newURL = queryString 
+      ? `${window.location.pathname}?${queryString}`
+      : window.location.pathname;
     history.pushState(null, '', newURL);
   }
 
