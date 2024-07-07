@@ -10,7 +10,7 @@
   logo: /assets/images/logos/alor.png
   website: https://www.alor.ru/
   pedia_link: /en/pedia/a/alor.html
-  filters: [Stock, Futures, Options, Russian Market]
+  filters: [API, Stock, Futures, Options, Russian Market]
 
 - name: Alpaca
   description: Commission-free stock trading API
@@ -24,7 +24,7 @@
   logo: /assets/images/logos/ameritrade.png
   website: https://www.tdameritrade.com/
   pedia_link: /en/pedia/a/ameritrade.html
-  filters: [Stock, Options, Futures, Forex, US Market]
+  filters: [API, Stock, Options, Futures, Forex, US Market]
 
 - name: AvaTrade
   description: Forex and CFD broker
@@ -38,7 +38,7 @@
   logo: /assets/images/logos/b2broker.png
   website: https://b2broker.com/
   pedia_link: /en/pedia/b/b2broker.html
-  filters: [Forex, Crypto, Liquidity Provider]
+  filters: [API, Forex, Crypto]
 
 - name: Charles Schwab
   description: American multinational financial services company
@@ -52,42 +52,42 @@
   logo: /assets/images/logos/cmc_markets.png
   website: https://www.cmcmarkets.com/
   pedia_link: /en/pedia/c/cmc_markets.html
-  filters: [CFD, Forex, Spread Betting]
+  filters: [API, CFD, Forex]
 
 - name: Comdirect
   description: German direct bank and online broker
   logo: /assets/images/logos/comdirect.png
   website: https://www.comdirect.de/
   pedia_link: /en/pedia/c/comdirect.html
-  filters: [Stock, Funds, German Market]
+  filters: [API, Stock, Funds]
 
 - name: Degiro
   description: European online discount broker
   logo: /assets/images/logos/degiro.png
   website: https://www.degiro.eu/
   pedia_link: /en/pedia/d/degiro.html
-  filters: [Stock, Options, Funds, European Markets]
+  filters: [Stock, Options, Funds]
 
 - name: E*TRADE
   description: American financial services company
   logo: /assets/images/logos/e_trade.png
   website: https://www.etrade.com/
   pedia_link: /en/pedia/e/e_trade.html
-  filters: [Stock, Options, Futures, US Market]
+  filters: [API, Stock, Options, Futures, US Market]
 
 - name: eToro
   description: Social trading and multi-asset brokerage company
   logo: /assets/images/logos/etoro.png
   website: https://www.etoro.com/
   pedia_link: /en/pedia/e/etoro.html
-  filters: [Stock, Crypto, CFD, Social Trading]
+  filters: [Stock, Crypto, CFD]
 
 - name: Exante
   description: European investment company and broker
   logo: /assets/images/logos/exante.png
   website: https://exante.eu/
   pedia_link: /en/pedia/e/exante.html
-  filters: [Stock, Options, Futures, Forex, European Markets]
+  filters: [API, Stock, Options, Futures, Forex]
 
 - name: Fidelity Investments
   description: American multinational financial services corporation
@@ -108,63 +108,63 @@
   logo: /assets/images/logos/futu.png
   website: https://www.futunn.com/
   pedia_link: /en/pedia/f/futu.html
-  filters: [Stock, Options, Hong Kong Market, US Market]
+  filters: [API, Stock, Options, Asian Markets, US Market]
 
 - name: Hargreaves Lansdown
   description: British financial service company
   logo: /assets/images/logos/hargreaves_lansdown.png
   website: https://www.hl.co.uk/
   pedia_link: /en/pedia/h/hargreaves_lansdown.html
-  filters: [Stock, Funds, UK Market]
+  filters: [Stock, Funds]
 
 - name: HDFC Securities
   description: Indian financial services company
   logo: /assets/images/logos/hdfc_securities.png
   website: https://www.hdfcsec.com/
   pedia_link: /en/pedia/h/hdfc_securities.html
-  filters: [Stock, Mutual Funds, Indian Market]
+  filters: [API, Stock, Mutual Funds, Indian Market]
 
 - name: ICICI Direct
   description: Indian financial services firm
   logo: /assets/images/logos/icici_direct.png
   website: https://www.icicidirect.com/
   pedia_link: /en/pedia/i/icici_direct.html
-  filters: [Stock, Mutual Funds, Indian Market]
+  filters: [API, Stock, Mutual Funds, Indian Market]
 
 - name: IG Group
   description: UK-based financial services provider
   logo: /assets/images/logos/ig_group.png
   website: https://www.ig.com/
   pedia_link: /en/pedia/i/ig_group.html
-  filters: [CFD, Forex, Spread Betting]
+  filters: [API, CFD, Forex]
 
 - name: Interactive Brokers
   description: American multinational brokerage firm
   logo: /assets/images/logos/interactive_brokers.png
   website: https://www.interactivebrokers.com/
   pedia_link: /en/pedia/i/interactive_brokers.html
-  filters: [Stock, Options, Futures, Forex, Global Markets]
+  filters: [API, Stock, Options, Futures, Forex]
 
 - name: KGI Securities
   description: Taiwanese securities firm
   logo: /assets/images/logos/kgi_securities.png
   website: https://www.kgi.com.tw/en/
   pedia_link: /en/pedia/k/kgi_securities.html
-  filters: [Stock, Futures, Asian Markets]
+  filters: [API, Stock, Futures, Asian Markets]
 
 - name: Kotak Securities
   description: Indian stock broking firm
   logo: /assets/images/logos/kotak_securities.png
   website: https://www.kotaksecurities.com/
   pedia_link: /en/pedia/k/kotak_securities.html
-  filters: [Stock, Mutual Funds, Indian Market]
+  filters: [API, Stock, Mutual Funds, Indian Market]
 
 - name: Lime Brokerage
   description: US-based agency-only broker
   logo: /assets/images/logos/lime_brokerage.png
   website: https://lime.co/
   pedia_link: /en/pedia/l/lime_brokerage.html
-  filters: [Stock, Options, US Market]
+  filters: [API, Stock, Options, US Market]
 
 - name: Maybank Kim Eng
   description: Asian financial services group
@@ -192,63 +192,63 @@
   logo: /assets/images/logos/oanda.png
   website: https://www.oanda.com/
   pedia_link: /en/pedia/o/oanda.html
-  filters: [Forex, CFD]
+  filters: [API, Forex, CFD]
 
 - name: Pepperstone
   description: Australian forex and CFD broker
   logo: /assets/images/logos/pepperstone.png
   website: https://pepperstone.com/
   pedia_link: /en/pedia/p/pepperstone.html
-  filters: [Forex, CFD]
+  filters: [API, Forex, CFD]
 
 - name: PI Financial
   description: Canadian investment dealer
   logo: /assets/images/logos/pi_financial.png
   website: https://www.pi.financial/en
   pedia_link: /en/pedia/p/pi_financial.html
-  filters: [Stock, Funds, Canadian Market]
+  filters: [Stock, Funds]
 
 - name: Questrade
   description: Canadian online brokerage firm
   logo: /assets/images/logos/questrade.png
   website: https://www.questrade.com/
   pedia_link: /en/pedia/q/questrade.html
-  filters: [Stock, ETFs, Canadian Market]
+  filters: [API, Stock, ETFs]
 
 - name: Robinhood
   description: US-based financial services company
   logo: /assets/images/logos/robinhood.png
   website: https://robinhood.com/
   pedia_link: /en/pedia/r/robinhood.html
-  filters: [Stock, Options, Crypto, Commission-free, US Market]
+  filters: [Stock, Options, Crypto, US Market]
 
 - name: Saxo Bank
   description: Danish investment bank
   logo: /assets/images/logos/saxo_bank.png
   website: https://www.home.saxo/
   pedia_link: /en/pedia/s/saxo_bank.html
-  filters: [Forex, CFD, Stock, Global Markets]
+  filters: [API, Forex, CFD, Stock]
 
 - name: Scotia iTRADE
   description: Online brokerage service of Scotiabank
   logo: /assets/images/logos/scotia_itrade.png
   website: https://www.scotiaitrade.com/
   pedia_link: /en/pedia/s/scotia_itrade.html
-  filters: [Stock, ETFs, Canadian Market]
+  filters: [API, Stock, ETFs]
 
 - name: SelfWealth
   description: Australian online share trading platform
   logo: /assets/images/logos/selfwealth.png
   website: https://www.selfwealth.com.au/
   pedia_link: /en/pedia/s/selfwealth.html
-  filters: [Stock, Australian Market]
+  filters: [Stock]
 
 - name: Tinkoff
   description: Russian online bank and broker
   logo: /assets/images/logos/tinkoff.png
   website: https://www.tinkoff.ru/
   pedia_link: /en/pedia/t/tinkoff.html
-  filters: [Stock, Bonds, Russian Market]
+  filters: [API, Stock, Bonds, Russian Market]
 
 - name: ThinkMarkets
   description: Global forex and CFD broker
@@ -269,25 +269,25 @@
   logo: /assets/images/logos/upstox.png
   website: https://upstox.com/
   pedia_link: /en/pedia/u/upstox.html
-  filters: [Stock, Mutual Funds, Indian Market]
+  filters: [API, Stock, Mutual Funds, Indian Market]
 
 - name: Webull
   description: Chinese-owned US-based broker-dealer
   logo: /assets/images/logos/webull.png
   website: https://www.webull.com/
   pedia_link: /en/pedia/w/webull.html
-  filters: [Stock, Options, Commission-free, US Market]
+  filters: [API, Stock, Options, US Market]
 
 - name: XTB
   description: Polish forex and CFD broker
   logo: /assets/images/logos/xtb.png
   website: https://www.xtb.com/
   pedia_link: /en/pedia/x/xtb.html
-  filters: [Forex, CFD, Stock]
+  filters: [API, Forex, CFD, Stock]
 
 - name: Zerodha
   description: Indian financial services company
   logo: /assets/images/logos/zerodha.png
   website: https://zerodha.com/
   pedia_link: /en/pedia/z/zerodha.html
-  filters: [Stock, Mutual Funds, Indian Market]
+  filters: [API, Stock, Mutual Funds, Indian Market]

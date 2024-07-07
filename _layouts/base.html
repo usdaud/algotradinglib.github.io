@@ -27,7 +27,7 @@
         </button>
         <nav>
             <ul>
-                <li><a href="/{{ page.lang }}" {% if page.url == '/' | append: page.lang | append: '/' %}class="active"{% endif %}>{{ locale.home | default: "Home" }}</a></li>
+                <li><a href="/{{ page.lang }}" {% assign home_url = '/' | append: page.lang | append: '/' %}{% if page.url | downcase == home_url | downcase %}class="active"{% endif %}>{{ locale.home | default: "Home" }}</a></li>
                 <li><a href="/{{ page.lang }}/soft/" {% if page.url | downcase contains '/soft/' %}class="active"{% endif %}>{{ locale.software | default: "Software" }}</a></li>
                 <li><a href="/{{ page.lang }}/brokers/" {% if page.url | downcase contains '/brokers/' %}class="active"{% endif %}>{{ locale.brokers | default: "Brokers" }}</a></li>
                 <li><a href="/{{ page.lang }}/market-data/" {% if page.url | downcase contains '/market-data/' %}class="active"{% endif %}>{{ locale.marketdata | default: "Market Data" }}</a></li>
