@@ -9,6 +9,7 @@
     <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
     <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Montserrat:wght@600&display=swap" rel="stylesheet">
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 </head>
 <body>
@@ -17,6 +18,7 @@
             <a href="{{ "/" | append: page.lang | relative_url }}">
                 <img src="{{ "/assets/images/favicon.svg" | relative_url }}" alt="AlgoTradingLib Logo">
             </a>
+            <h1 class="site-title">{{ locale.title | default: "Algorithmic Trading Library" }}</h1>
         </div>
         <button class="menu-toggle" aria-label="Toggle menu">
             <span></span>
@@ -25,12 +27,12 @@
         </button>
         <nav>
             <ul>
-                <li><a href="/{{ page.lang }}">{{ locale.home | default: "Home" }}</a></li>
-                <li><a href="/{{ page.lang }}/soft/">{{ locale.software | default: "Software" }}</a></li>
-                <li><a href="/{{ page.lang }}/brokers/">{{ locale.brokers | default: "Brokers" }}</a></li>
-                <li><a href="/{{ page.lang }}/market-data/">{{ locale.marketdata | default: "Market Data" }}</a></li>
-                <li><a href="/{{ page.lang }}/community/">{{ locale.community | default: "Community" }}</a></li>
-                <li><a href="/{{ page.lang }}/pedia/">{{ locale.algopedia | default: "Algopedia" }}</a></li>
+                <li><a href="/{{ page.lang }}" {% if page.url == '/' | append: page.lang | append: '/' %}class="active"{% endif %}>{{ locale.home | default: "Home" }}</a></li>
+                <li><a href="/{{ page.lang }}/soft/" {% if page.url | downcase contains '/soft/' %}class="active"{% endif %}>{{ locale.software | default: "Software" }}</a></li>
+                <li><a href="/{{ page.lang }}/brokers/" {% if page.url | downcase contains '/brokers/' %}class="active"{% endif %}>{{ locale.brokers | default: "Brokers" }}</a></li>
+                <li><a href="/{{ page.lang }}/market-data/" {% if page.url | downcase contains '/market-data/' %}class="active"{% endif %}>{{ locale.marketdata | default: "Market Data" }}</a></li>
+                <li><a href="/{{ page.lang }}/community/" {% if page.url | downcase contains '/community/' %}class="active"{% endif %}>{{ locale.community | default: "Community" }}</a></li>
+                <li><a href="/{{ page.lang }}/pedia/" {% if page.url | downcase contains '/pedia/' %}class="active"{% endif %}>{{ locale.algopedia | default: "Algopedia" }}</a></li>
             </ul>
         </nav>
         <div class="language-selector">

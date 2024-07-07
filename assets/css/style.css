@@ -1,7 +1,12 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Roboto', Arial, sans-serif;
+    line-height: 1.6;
     margin: 0;
     padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Montserrat', sans-serif;
 }
 
 #sticky-header {
@@ -40,6 +45,11 @@ nav ul li a {
     color: #333;
 }
 
+nav ul li a.active {
+    font-weight: bold;
+    color: #007bff;
+}
+
 .language-selector select {
     padding: 5px;
 }
@@ -57,6 +67,17 @@ footer {
     position: relative;
     bottom: 0;
     width: 100%;
+}
+
+footer a {
+    color: #007bff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+footer a:hover {
+    color: #0056b3;
+    text-decoration: underline;
 }
 
 .menu-toggle {
