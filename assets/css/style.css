@@ -360,30 +360,22 @@ footer a:hover .github-icon {
     text-decoration: underline;
 }
 
-.catalog-item .website-link {
-    position: absolute;
-    top: 10px;
-    right: 10px;
+.item-links {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 10px;
 }
 
-.catalog-item .github-link {
-    position: absolute;
-    top: 10px;
-    right: 40px;
+.item-links a {
+    color: #007bff;
+    text-decoration: none;
+    font-size: 1.2em;
+    transition: color 0.3s ease;
 }
 
-.catalog-item .icon {
-    width: 24px;
-    height: 24px;
-}
-
-.catalog-item .website-link .icon {
-    opacity: 0.6;
-    transition: opacity 0.3s ease;
-}
-
-.catalog-item .website-link:hover .icon {
-    opacity: 1;
+.item-links a:hover {
+    color: #0056b3;
 }
 
 .filters {
