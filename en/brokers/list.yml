@@ -96,7 +96,7 @@
   pedia_link: /en/pedia/f/fidelity_investments.html
   filters: [Stock, Mutual Funds, ETFs, US Market]
 
-- name: First Prudential Markets (FPM)
+- name: First Prudential Markets
   description: Australian forex and CFD broker
   logo: /assets/images/logos/fpm.png
   website: https://www.fpmarkets.com/
@@ -138,7 +138,7 @@
   pedia_link: /en/pedia/i/ig_group.html
   filters: [CFD, Forex, Spread Betting]
 
-- name: Interactive Brokers (IB)
+- name: Interactive Brokers
   description: American multinational brokerage firm
   logo: /assets/images/logos/interactive-brokers.png
   website: https://www.interactivebrokers.com/
@@ -182,7 +182,7 @@
 
 - name: NinjaTrader Brokerage
   description: US-based futures broker
-  logo: /assets/images/logos/ninjatrader-brokerage.png
+  logo: /assets/images/logos/ninjatrader.png
   website: https://ninjatrader.com/
   pedia_link: /en/pedia/n/ninjatrader_brokerage.html
   filters: [Futures, Forex, US Market]
