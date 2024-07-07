@@ -14,8 +14,8 @@
 </head>
 <body>
     <header id="sticky-header">
-        <div class="logo">
-            <a href="{{ "/" | append: page.lang | relative_url }}">
+        <div class="logo-container">
+            <a href="{{ "/" | append: page.lang | relative_url }}" class="logo">
                 <img src="{{ "/assets/images/favicon.svg" | relative_url }}" alt="AlgoTradingLib Logo">
             </a>
             <h1 class="site-title">{{ locale.title | default: "Algorithmic Trading Library" }}</h1>
@@ -27,12 +27,37 @@
         </button>
         <nav>
             <ul>
-                <li><a href="/{{ page.lang }}" {% assign home_url = '/' | append: page.lang | append: '/' %}{% if page.url | downcase == home_url | downcase %}class="active"{% endif %}>{{ locale.home | default: "Home" }}</a></li>
-                <li><a href="/{{ page.lang }}/soft/" {% if page.url | downcase contains '/soft/' %}class="active"{% endif %}>{{ locale.software | default: "Software" }}</a></li>
-                <li><a href="/{{ page.lang }}/brokers/" {% if page.url | downcase contains '/brokers/' %}class="active"{% endif %}>{{ locale.brokers | default: "Brokers" }}</a></li>
-                <li><a href="/{{ page.lang }}/market-data/" {% if page.url | downcase contains '/market-data/' %}class="active"{% endif %}>{{ locale.marketdata | default: "Market Data" }}</a></li>
-                <li><a href="/{{ page.lang }}/community/" {% if page.url | downcase contains '/community/' %}class="active"{% endif %}>{{ locale.community | default: "Community" }}</a></li>
-                <li><a href="/{{ page.lang }}/pedia/" {% if page.url | downcase contains '/pedia/' %}class="active"{% endif %}>{{ locale.algopedia | default: "Algopedia" }}</a></li>
+                {% capture home_url %}{% if page.lang != 'en' %}/{{ page.lang }}{% endif %}/{% endcapture %}
+                <li>
+                    <a href="{{ home_url }}" {% capture current_url %}{{ page.url | downcase }}{% endcapture %}{% if current_url == home_url %}class="active"{% endif %}>
+                        {{ locale.home | default: "Home" }}
+                    </a>
+                </li>
+                <li>
+                    <a href="/{{ page.lang }}/soft/" {% if page.url | downcase contains '/soft/' %}class="active"{% endif %}>
+                        {{ locale.software | default: "Software" }}
+                    </a>
+                </li>
+                <li>
+                    <a href="/{{ page.lang }}/brokers/" {% if page.url | downcase contains '/brokers/' %}class="active"{% endif %}>
+                        {{ locale.brokers | default: "Brokers" }}
+                    </a>
+                </li>
+                <li>
+                    <a href="/{{ page.lang }}/market-data/" {% if page.url | downcase contains '/market-data/' %}class="active"{% endif %}>
+                        {{ locale.marketdata | default: "Market Data" }}
+                    </a>
+                </li>
+                <li>
+                    <a href="/{{ page.lang }}/community/" {% if page.url | downcase contains '/community/' %}class="active"{% endif %}>
+                        {{ locale.community | default: "Community" }}
+                    </a>
+                </li>
+                <li>
+                    <a href="/{{ page.lang }}/pedia/" {% if page.url | downcase contains '/pedia/' %}class="active"{% endif %}>
+                        {{ locale.algopedia | default: "Algopedia" }}
+                    </a>
+                </li>
             </ul>
         </nav>
         <div class="language-selector">
