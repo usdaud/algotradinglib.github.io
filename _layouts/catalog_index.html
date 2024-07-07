@@ -23,42 +23,46 @@ layout: base
 <div id="catalog-list">
   {% for item in page.catalog %}
     <div class="catalog-item" data-filters="{{ item.filters | join: ',' }}">
-      <img src="{{ item.logo | relative_url }}" alt="{{ item.name }} logo">
+      <div class="item-header">
+        <img src="{{ item.logo | relative_url }}" alt="{{ item.name }} logo">
+        <div class="external-links">
+          {% if item.github %}
+            <a href="{{ item.github }}" target="_blank" rel="noopener noreferrer" class="github-link">
+              <i class="fab fa-github"></i>
+            </a>
+          {% endif %}
+          <a href="{{ item.website }}" target="_blank" rel="noopener noreferrer" class="website-link">
+            <i class="fas fa-globe"></i>
+          </a>
+        </div>
+      </div>
       <h2>{{ item.name }}</h2>
       <p>{{ item.description }}</p>
-      <div class="item-links">
-        <a href="{{ item.pedia_link | relative_url }}" class="learn-more">Learn More</a>
-        {% if item.github %}
-          <a href="{{ item.github }}" target="_blank" rel="noopener noreferrer" class="github-link">
-            <i class="fab fa-github"></i>
-          </a>
-        {% endif %}
-        <a href="{{ item.website }}" target="_blank" rel="noopener noreferrer" class="website-link">
-          <i class="fas fa-globe"></i>
-        </a>
+      <a href="{{ item.pedia_link | relative_url }}" class="learn-more">Learn More</a>
+      <div class="filters">
+        {% for filter in item.filters %}
+          <span class="filter-tag {% if page.special_filters contains filter %}highlight{% endif %}">{{ filter }}</span>
+        {% endfor %}
+      </div>
+      <div class="additional-links">
         {% if page.section == 'soft' %}
           {% if item.supported_data_providers.size > 0 %}
             <a href="/{{ page.lang }}/market-data/?item={{ item.name | url_encode }}" class="data-providers-link">
-              <i class="fas fa-chart-line"></i>
+              <i class="fas fa-chart-line"></i> Data Providers
             </a>
           {% endif %}
           {% if item.supported_brokers.size > 0 %}
             <a href="/{{ page.lang }}/brokers/?item={{ item.name | url_encode }}" class="brokers-link">
-              <i class="fas fa-exchange-alt"></i>
+              <i class="fas fa-exchange-alt"></i> Brokers
             </a>
           {% endif %}
         {% elsif page.section == 'market-data' or page.section == 'brokers' %}
           {% if item.supported_software.size > 0 %}
             <a href="/{{ page.lang }}/soft/?item={{ item.name | url_encode }}" class="software-link">
-              <i class="fas fa-laptop-code"></i>
+              <i class="fas fa-laptop-code"></i> Software
             </a>
           {% endif %}
         {% endif %}
-      </div>
-      <div class="filters">
-        {% for filter in item.filters %}
-          <span class="filter-tag {% if page.special_filters contains filter %}highlight{% endif %}">{{ filter }}</span>
-        {% endfor %}
       </div>
     </div>
   {% endfor %}
