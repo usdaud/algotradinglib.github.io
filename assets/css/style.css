@@ -191,41 +191,37 @@ footer a:hover .github-icon {
 #filters {
     text-align: center;
     margin-bottom: 30px;
-    position: sticky;
-    top: 0;
+    padding: 20px;
     background-color: #fff;
-    z-index: 1000;
-    padding: 20px 0;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
 
 .filter-btn-container {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
-    gap: 10px;
+    display: flex;
+    flex-wrap: wrap;
     justify-content: center;
-    padding: 0 20px;
+    gap: 10px;
 }
 
 .filter-btn {
-    width: 100%;
-    min-width: 120px;
+    flex: 0 1 calc(12.5% - 10px); /* 8 кнопок в ряд на больших экранах */
+    max-width: 150px;
+    min-width: 100px;
     background-color: #f8f9fa;
     color: #495057;
     border: 1px solid #ced4da;
-    padding: 8px 16px;
-    margin: 0;
+    padding: 8px 12px;
     cursor: pointer;
     border-radius: 20px;
     transition: all 0.3s ease;
     font-size: 14px;
-    outline: none;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
 }
 
-.filter-btn:hover {
+.filter-btn:hover,
+.filter-btn.active {
     background-color: #e9ecef;
     transform: translateY(-2px);
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
@@ -235,25 +231,18 @@ footer a:hover .github-icon {
     background-color: #007bff;
     color: white;
     border-color: #007bff;
-    transform: translateY(-2px);
-    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
 }
 
-.filter-btn.highlight,
-.filter-tag.highlight {
+.filter-btn.highlight {
     background-color: #dc3545;
     color: white;
     border-color: #dc3545;
 }
 
-.filter-btn.highlight:hover {
+.filter-btn.highlight:hover,
+.filter-btn.highlight.active {
     background-color: #c82333;
     border-color: #bd2130;
-}
-
-.filter-btn.highlight.active {
-    background-color: #bd2130;
-    border-color: #b21f2d;
 }
 
 #catalog-list {
@@ -371,6 +360,24 @@ footer a:hover .github-icon {
     margin-top: 50px;
 }
 
+@media (max-width: 1400px) {
+    .filter-btn {
+        flex: 0 1 calc(16.666% - 10px);
+    }
+}
+
+@media (max-width: 1200px) {
+    .filter-btn {
+        flex: 0 1 calc(20% - 10px);
+    }
+}
+
+@media (max-width: 992px) {
+    .filter-btn {
+        flex: 0 1 calc(25% - 10px);
+    }
+}
+
 @media (max-width: 768px) {
     .menu-toggle {
         display: block;
@@ -449,13 +456,21 @@ footer a:hover .github-icon {
         grid-template-columns: 1fr;
     }
 
-    .filter-btn-container {
-        grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
-    }
-
     .filter-btn {
-        min-width: 100px;
+        flex: 0 1 calc(33.333% - 10px);
         font-size: 12px;
-        padding: 6px 12px;
+        padding: 6px 10px;
+    }
+}
+
+@media (max-width: 576px) {
+    .filter-btn {
+        flex: 0 1 calc(50% - 10px);
+    }
+}
+
+@media (max-width: 400px) {
+    .filter-btn {
+        flex: 0 1 100%;
     }
 }
