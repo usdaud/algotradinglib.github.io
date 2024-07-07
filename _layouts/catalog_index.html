@@ -20,15 +20,19 @@ layout: base
 
 <div id="catalog-list">
   {% for item in page.catalog %}
-    <div class="catalog-item" data-filters="{{ item.filters | join: ' ' }}">
+    <div class="catalog-item" data-filters="{{ item.filters | join: ',' }}">
       <img src="{{ item.logo | relative_url }}" alt="{{ item.name }} logo">
       <h2>{{ item.name }}</h2>
       <p>{{ item.description }}</p>
-      <a href="{{ item.website }}" target="_blank" rel="noopener noreferrer">Official Website</a>
-      <a href="{{ item.pedia_link | relative_url }}">Learn More</a>
+      <a href="{{ item.pedia_link | relative_url }}" class="learn-more">Learn More</a>
       {% if item.github %}
-        <a href="{{ item.github }}" target="_blank" rel="noopener noreferrer">GitHub</a>
+        <a href="{{ item.github }}" target="_blank" rel="noopener noreferrer" class="github-link">
+          <img src="/assets/images/github-icon.svg" alt="GitHub" class="icon">
+        </a>
       {% endif %}
+      <a href="{{ item.website }}" target="_blank" rel="noopener noreferrer" class="website-link">
+        <img src="/assets/images/website-icon.svg" alt="Official Website" class="icon">
+      </a>
       <div class="filters">
         {% for filter in item.filters %}
           <span class="filter-tag {% if filter == 'Free' or filter == 'OpenSource' %}highlight{% endif %}">{{ filter }}</span>
@@ -63,7 +67,7 @@ document.addEventListener('DOMContentLoaded', function() {
       }
 
       catalogItems.forEach(item => {
-        const itemFilters = item.dataset.filters.split(' ');
+        const itemFilters = item.dataset.filters.split(',');
         if (activeFilters.size === 0 || Array.from(activeFilters).every(filter => itemFilters.includes(filter))) {
           item.style.display = 'block';
         } else {
