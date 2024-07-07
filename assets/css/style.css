@@ -76,6 +76,10 @@ nav ul li a.active {
     padding: 5px;
 }
 
+.mobile-language-selector {
+    display: none;
+}
+
 main {
     padding: 20px;
 }
@@ -443,6 +447,10 @@ footer a:hover .github-icon {
         display: block;
     }
 
+    .header-content {
+        flex-wrap: wrap;
+    }
+
     nav {
         display: none;
         position: fixed;
@@ -474,8 +482,19 @@ footer a:hover .github-icon {
         z-index: 1002;
     }
 
-    .language-selector {
-        margin-left: auto;
+    .desktop-only {
+        display: none;
+    }
+
+    .mobile-language-selector {
+        display: block;
+    }
+
+    .mobile-language-selector select {
+        width: 100%;
+        padding: 10px;
+        font-size: 16px;
+        margin-top: 15px;
     }
 
     .breadcrumb {
