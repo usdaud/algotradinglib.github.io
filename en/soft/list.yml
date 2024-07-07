@@ -120,7 +120,7 @@
 
 - name: Lightweight Charts
   description: Financial lightweight charts library
-  logo: /assets/images/logos/lightweight-charts.png
+  logo: /assets/images/logos/lightweight_charts.png
   website: https://www.tradingview.com/lightweight-charts/
   pedia_link: /en/pedia/l/lightweight_charts.html
   github: https://github.com/tradingview/lightweight-charts
@@ -200,7 +200,7 @@
 
 - name: Orc Trader
   description: Professional trading platform for options and futures
-  logo: /assets/images/logos/orc-trader.png
+  logo: /assets/images/logos/orc_trader.png
   website: https://www.itiviti.com/
   pedia_link: /en/pedia/o/orc_trader.html
   filters: [Live trading, API]
@@ -244,7 +244,7 @@
 
 - name: Sierra Chart
   description: Professional charting and trading software
-  logo: /assets/images/logos/sierra-chart.png
+  logo: /assets/images/logos/sierra_chart.png
   website: https://www.sierrachart.com/
   pedia_link: /en/pedia/s/sierra_chart.html
   filters: [Charting, Live trading, Backtesting, C++]
@@ -258,7 +258,7 @@
 
 - name: Sterling Trader
   description: Professional direct access trading platform
-  logo: /assets/images/logos/sterling-trader.png
+  logo: /assets/images/logos/sterling_trader.png
   website: https://www.sterlingtradingtech.com/
   pedia_link: /en/pedia/s/sterling_trader.html
   filters: [Live trading, API]
@@ -269,7 +269,7 @@
   website: https://stocksharp.com/
   pedia_link: /en/pedia/s/stocksharp.html
   github: https://github.com/StockSharp/StockSharp
-  filters: [OpenSource, Backtesting, Live trading, C#]
+  filters: [OpenSource, Free, Backtesting, Live trading, C#]
 
 - name: ThinkOrSwim
   description: Advanced trading platform by TD Ameritrade
@@ -287,7 +287,7 @@
 
 - name: Trading Technologies (TT)
   description: Professional trading software for derivatives
-  logo: /assets/images/logos/trading-technologies.png
+  logo: /assets/images/logos/trading_technologies.png
   website: https://www.tradingtechnologies.com/
   pedia_link: /en/pedia/t/trading_technologies.html
   filters: [Live trading, API]

@@ -35,7 +35,7 @@
 
 - name: Big Mike Trading (Futures.io)
   description: Forum for futures traders with a section on algorithmic trading
-  logo: /assets/images/logos/futures-io.png
+  logo: /assets/images/logos/futures_io.png
   website: https://futures.io/
   pedia_link: /en/pedia/b/big_mike_trading.html
   filters: [English, Forum, Futures Trading]
@@ -63,14 +63,14 @@
 
 - name: Forum Algo-Trading.info
   description: Russian forum dedicated to algorithmic trading
-  logo: /assets/images/logos/algo-trading-info.png
+  logo: /assets/images/logos/algo_trading_info.png
   website: http://www.algo-trading.info/
   pedia_link: /en/pedia/f/forum_algo_trading_info.html
   filters: [Russian, Forum, Algorithmic Trading]
 
 - name: Forum Bourse Trading
   description: French forum dedicated to trading and investments, including algorithmic trading
-  logo: /assets/images/logos/forum-bourse-trading.png
+  logo: /assets/images/logos/forum_bourse_trading.png
   website: https://www.abcbourse.com/forums/
   pedia_link: /en/pedia/f/forum_bourse_trading.html
   filters: [French, Forum, Trading, Investments]
@@ -134,7 +134,7 @@
 
 - name: Smart-Lab
   description: Forum and blog about trading and investments, including sections on algorithmic trading
-  logo: /assets/images/logos/smart-lab.png
+  logo: /assets/images/logos/smartlab.png
   website: https://smart-lab.ru/
   pedia_link: /en/pedia/s/smart_lab.html
   filters: [Russian, Forum, Blog, Trading, Investments]
@@ -162,7 +162,7 @@
 
 - name: X-Trader.net
   description: Spanish forum dedicated to trading and investments, including algorithmic trading
-  logo: /assets/images/logos/x-trader.png
+  logo: /assets/images/logos/x_trader.png
   website: https://www.x-trader.net/foro/
   pedia_link: /en/pedia/x/x_trader_net.html
   filters: [Spanish, Forum, Trading, Investments]

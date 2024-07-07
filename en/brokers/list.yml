@@ -42,14 +42,14 @@
 
 - name: Charles Schwab
   description: American multinational financial services company
-  logo: /assets/images/logos/charles-schwab.png
+  logo: /assets/images/logos/charles_schwab.png
   website: https://www.schwab.com/
   pedia_link: /en/pedia/c/charles_schwab.html
   filters: [Stock, Options, Futures, US Market]
 
 - name: CMC Markets
   description: UK-based financial services company
-  logo: /assets/images/logos/cmc-markets.png
+  logo: /assets/images/logos/cmc_markets.png
   website: https://www.cmcmarkets.com/
   pedia_link: /en/pedia/c/cmc_markets.html
   filters: [CFD, Forex, Spread Betting]
@@ -70,9 +70,9 @@
 
 - name: E*TRADE
   description: American financial services company
-  logo: /assets/images/logos/etrade.png
+  logo: /assets/images/logos/e_trade.png
   website: https://www.etrade.com/
-  pedia_link: /en/pedia/e/etrade.html
+  pedia_link: /en/pedia/e/e_trade.html
   filters: [Stock, Options, Futures, US Market]
 
 - name: eToro
@@ -112,70 +112,70 @@
 
 - name: Hargreaves Lansdown
   description: British financial service company
-  logo: /assets/images/logos/hargreaves-lansdown.png
+  logo: /assets/images/logos/hargreaves_lansdown.png
   website: https://www.hl.co.uk/
   pedia_link: /en/pedia/h/hargreaves_lansdown.html
   filters: [Stock, Funds, UK Market]
 
 - name: HDFC Securities
   description: Indian financial services company
-  logo: /assets/images/logos/hdfc-securities.png
+  logo: /assets/images/logos/hdfc_securities.png
   website: https://www.hdfcsec.com/
   pedia_link: /en/pedia/h/hdfc_securities.html
   filters: [Stock, Mutual Funds, Indian Market]
 
 - name: ICICI Direct
   description: Indian financial services firm
-  logo: /assets/images/logos/icici-direct.png
+  logo: /assets/images/logos/icici_direct.png
   website: https://www.icicidirect.com/
   pedia_link: /en/pedia/i/icici_direct.html
   filters: [Stock, Mutual Funds, Indian Market]
 
 - name: IG Group
   description: UK-based financial services provider
-  logo: /assets/images/logos/ig-group.png
+  logo: /assets/images/logos/ig_group.png
   website: https://www.ig.com/
   pedia_link: /en/pedia/i/ig_group.html
   filters: [CFD, Forex, Spread Betting]
 
 - name: Interactive Brokers
   description: American multinational brokerage firm
-  logo: /assets/images/logos/interactive-brokers.png
+  logo: /assets/images/logos/interactive_brokers.png
   website: https://www.interactivebrokers.com/
   pedia_link: /en/pedia/i/interactive_brokers.html
   filters: [Stock, Options, Futures, Forex, Global Markets]
 
 - name: KGI Securities
   description: Taiwanese securities firm
-  logo: /assets/images/logos/kgi-securities.png
+  logo: /assets/images/logos/kgi_securities.png
   website: https://www.kgi.com/
   pedia_link: /en/pedia/k/kgi_securities.html
   filters: [Stock, Futures, Asian Markets]
 
 - name: Kotak Securities
   description: Indian stock broking firm
-  logo: /assets/images/logos/kotak-securities.png
+  logo: /assets/images/logos/kotak_securities.png
   website: https://www.kotaksecurities.com/
   pedia_link: /en/pedia/k/kotak_securities.html
   filters: [Stock, Mutual Funds, Indian Market]
 
 - name: Lime Brokerage
   description: US-based agency-only broker
-  logo: /assets/images/logos/lime-brokerage.png
+  logo: /assets/images/logos/lime_brokerage.png
   website: https://www.limebrokerage.com/
   pedia_link: /en/pedia/l/lime_brokerage.html
   filters: [Stock, Options, US Market]
 
 - name: Maybank Kim Eng
   description: Asian financial services group
-  logo: /assets/images/logos/maybank-kim-eng.png
+  logo: /assets/images/logos/maybank_kim_eng.png
   website: https://www.maybank-ke.com/
   pedia_link: /en/pedia/m/maybank_kim_eng.html
   filters: [Stock, Futures, Asian Markets]
 
 - name: Mirae Asset
   description: South Korean financial services group
-  logo: /assets/images/logos/mirae-asset.png
+  logo: /assets/images/logos/mirae_asset.png
   website: https://www.miraeasset.com/
   pedia_link: /en/pedia/m/mirae_asset.html
   filters: [Stock, Funds, Asian Markets]
@@ -203,7 +203,7 @@
 
 - name: PI Financial
   description: Canadian investment dealer
-  logo: /assets/images/logos/pi-financial.png
+  logo: /assets/images/logos/pi_financial.png
   website: https://pifinancial.com/
   pedia_link: /en/pedia/p/pi_financial.html
   filters: [Stock, Funds, Canadian Market]
@@ -224,14 +224,14 @@
 
 - name: Saxo Bank
   description: Danish investment bank
-  logo: /assets/images/logos/saxo-bank.png
+  logo: /assets/images/logos/saxo_bank.png
   website: https://www.home.saxo/
   pedia_link: /en/pedia/s/saxo_bank.html
   filters: [Forex, CFD, Stock, Global Markets]
 
 - name: Scotia iTRADE
   description: Online brokerage service of Scotiabank
-  logo: /assets/images/logos/scotia-itrade.png
+  logo: /assets/images/logos/scotia_itrade.png
   website: https://www.scotiaitrade.com/
   pedia_link: /en/pedia/s/scotia_itrade.html
   filters: [Stock, ETFs, Canadian Market]
