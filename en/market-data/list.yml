@@ -47,7 +47,7 @@
   pedia_link: /en/pedia/e/estimize.html
   filters: [Alternative Data, Earnings Estimates, Stock]
 
-- name: Exchange Data International (EDI)
+- name: Exchange Data International
   description: Global securities data provider
   logo: /assets/images/logos/edi.png
   website: https://www.exchange-data.com/
@@ -89,11 +89,11 @@
   pedia_link: /en/pedia/i/infront.html
   filters: [Realtime data, Historical Data, Stock, Futures, Options, Forex]
 
-- name: Interactive Data Corporation (IDC)
+- name: Interactive Data Corporation
   description: Financial market data provider (now part of Intercontinental Exchange)
   logo: /assets/images/logos/idc.png
   website: https://www.theice.com/market-data
-  pedia_link: /en/pedia/i/interactive_data_corporation.html
+  pedia_link: /en/pedia/i/idc.html
   filters: [Realtime data, Historical Data, Stock, Bonds, Futures, Options]
 
 - name: Intrinio
@@ -184,7 +184,7 @@
   description: Financial information and analytics provider
   logo: /assets/images/logos/spglobal.png
   website: https://www.spglobal.com/marketintelligence/
-  pedia_link: /en/pedia/s/sp_global_market_intelligence.html
+  pedia_link: /en/pedia/s/snp_global_market_intelligence.html
   filters: [Research, Historical Data, Stock, Bonds, Commodities]
 
 - name: Tiingo
