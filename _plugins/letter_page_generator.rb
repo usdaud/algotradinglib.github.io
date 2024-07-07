@@ -2,7 +2,7 @@ module Jekyll
   class LetterPageGenerator < Generator
     safe true
 
-    SECTIONS = ['pedia', 'soft', 'brokers']
+    SECTIONS = ['pedia', 'soft', 'brokers', 'market-data', 'community']
 
     def generate(site)
       Jekyll.logger.info "LetterPageGenerator:", "Total pages: #{site.pages.size}"
@@ -27,24 +27,24 @@ module Jekyll
     end
 
     def process_section(site, lang, section, section_path)
-      if section == 'soft'
-        process_software_section(site, lang, section, section_path)
+      if ['soft', 'market-data', 'brokers', 'community'].include?(section)
+        process_catalog_section(site, lang, section, section_path)
       else
         process_regular_section(site, lang, section, section_path)
       end
     end
 
-    def process_software_section(site, lang, section, section_path)
-      software_data = load_software_data(site, section_path)
-      site.pages << SoftwareIndexPage.new(site, site.source, lang, section, software_data)
+    def process_catalog_section(site, lang, section, section_path)
+      catalog_data = load_catalog_data(site, section_path)
+      site.pages << CatalogIndexPage.new(site, site.source, lang, section, catalog_data)
     end
 
-    def load_software_data(site, section_path)
-      yaml_file = File.join(section_path, 'software.yml')
+    def load_catalog_data(site, section_path)
+      yaml_file = File.join(section_path, 'list.yml')
       if File.exist?(yaml_file)
         YAML.load_file(yaml_file)
       else
-        Jekyll.logger.warn "LetterPageGenerator:", "Software YAML file not found: #{yaml_file}"
+        Jekyll.logger.warn "LetterPageGenerator:", "Catalog YAML file not found: #{yaml_file}"
         []
       end
     end
@@ -193,28 +193,28 @@ module Jekyll
     end
   end
 
-  class SoftwareIndexPage < Page
-    def initialize(site, base, lang, section, software_data)
+  class CatalogIndexPage < Page
+    def initialize(site, base, lang, section, catalog_data)
       @site = site
       @base = base
       @dir  = File.join(lang, section)
       @name = "index.md"
 
       self.process(@name)
-      layout_file = File.join(base, '_layouts', 'software_index.html')
+      layout_file = File.join(base, '_layouts', 'catalog_index.html')
       if File.exist?(layout_file)
         self.read_yaml(File.dirname(layout_file), File.basename(layout_file))
       else
-        Jekyll.logger.warn "LetterPageGenerator:", "Layout file 'software_index.html' not found"
+        Jekyll.logger.warn "LetterPageGenerator:", "Layout file 'catalog_index.html' not found"
         self.data = {}
       end
-      self.data['layout'] = 'software_index'
+      self.data['layout'] = 'catalog_index'
       self.data['title'] = case lang
                            when 'en' then "Software Index"
                            when 'ru' then "Индекс программного обеспечения"
                            when 'zh' then "软件索引"
                            end
-      self.data['software'] = software_data
+      self.data['catalog'] = catalog_data
       self.data['lang'] = lang
       self.data['section'] = section
       self.data['permalink'] = "/#{lang}/#{section}/index.html"
