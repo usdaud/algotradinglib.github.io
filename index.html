@@ -45,7 +45,6 @@
     </div>
 
     <script>
-        // Функция для получения предпочтительного языка пользователя
         function getPreferredLanguage() {
             const languages = navigator.languages || [navigator.language || navigator.userLanguage];
             for (let lang of languages) {
@@ -53,15 +52,14 @@
                 if (lang.startsWith('ru')) return 'ru';
                 if (lang.startsWith('zh')) return 'zh';
             }
-            return 'en'; // Английский как язык по умолчанию
+            return 'en';
         }
 
-        // Автоматическое перенаправление
         window.addEventListener('load', function() {
             const lang = getPreferredLanguage();
             setTimeout(() => {
                 window.location.href = `/${lang}/`;
-            }, 2000); // Задержка в 2 секунды перед перенаправлением
+            }, 2000);
         });
     </script>
 </body>
