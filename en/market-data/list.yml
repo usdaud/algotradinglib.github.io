@@ -70,16 +70,16 @@
 
 - name: FTSE Russell
   description: Global index provider
-  logo: /assets/images/logos/ftse-russell.png
+  logo: /assets/images/logos/ftse_russell.png
   website: https://www.ftserussell.com/
   pedia_link: /en/pedia/f/ftse_russell.html
   filters: [Indexes, Historical Data]
 
 - name: IEX Cloud
   description: Financial data infrastructure platform
-  logo: /assets/images/logos/iexcloud.png
+  logo: /assets/images/logos/iex.png
   website: https://iexcloud.io/
-  pedia_link: /en/pedia/i/iexcloud.html
+  pedia_link: /en/pedia/i/iex_cloud.html
   filters: [API, Realtime data, Historical Data, Stock, Forex, Crypto, Free]
 
 - name: Infront
@@ -210,7 +210,7 @@
 
 - name: Yahoo Finance
   description: Financial news and data provider
-  logo: /assets/images/logos/yahoo-finance.png
+  logo: /assets/images/logos/yahoo_finance.png
   website: https://finance.yahoo.com/
   pedia_link: /en/pedia/y/yahoo_finance.html
   filters: [API, Historical Data, News, Stock, Options, Crypto, Forex, Indexes, Free]
