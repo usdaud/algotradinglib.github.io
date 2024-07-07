@@ -22,60 +22,62 @@
 </head>
 <body>
     <header id="sticky-header">
-        <div class="logo-container">
-            <a href="{{ "/" | append: page.lang | relative_url }}" class="logo">
-                <img src="{{ "/assets/images/favicon.svg" | relative_url }}" alt="AlgoTradingLib Logo">
-            </a>
-            <h1 class="site-title">{{ locale.title | default: "Algorithmic Trading Library" }}</h1>
+        <div class="header-content">
+            <div class="logo-container">
+                <a href="{{ "/" | append: page.lang | relative_url }}" class="logo">
+                    <img src="{{ "/assets/images/favicon.svg" | relative_url }}" alt="AlgoTradingLib Logo">
+                </a>
+                <h1 class="site-title">{{ locale.title | default: "Algorithmic Trading Library" }}</h1>
+            </div>
+            <nav>
+                <ul>
+                    {% assign current_url = page.url | downcase %}
+                    {% capture home_url %}{% if page.lang != 'en' %}/{{ page.lang }}{% endif %}/{% endcapture %}
+                    <li>
+                        <a href="{{ home_url }}" {% if current_url == home_url %}class="active"{% endif %}>
+                            {{ locale.home | default: "Home" }}
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/{{ page.lang }}/soft/" {% if current_url contains '/soft/' %}class="active"{% endif %}>
+                            {{ locale.software | default: "Software" }}
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/{{ page.lang }}/brokers/" {% if current_url contains '/brokers/' %}class="active"{% endif %}>
+                            {{ locale.brokers | default: "Brokers" }}
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/{{ page.lang }}/market-data/" {% if current_url contains '/market-data/' %}class="active"{% endif %}>
+                            {{ locale.marketdata | default: "Market Data" }}
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/{{ page.lang }}/community/" {% if current_url contains '/community/' %}class="active"{% endif %}>
+                            {{ locale.community | default: "Community" }}
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/{{ page.lang }}/pedia/" {% if current_url contains '/pedia/' %}class="active"{% endif %}>
+                            {{ locale.algopedia | default: "Algopedia" }}
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+            <div class="language-selector">
+                <select id="lang-select">
+                    <option value="en" {% if page.lang == "en" %}selected{% endif %}>English</option>
+                    <option value="ru" {% if page.lang == "ru" %}selected{% endif %}>Русский</option>
+                    <option value="zh" {% if page.lang == "zh" %}selected{% endif %}>中文</option>
+                </select>
+            </div>
         </div>
         <button class="menu-toggle" aria-label="Toggle menu">
             <span></span>
             <span></span>
             <span></span>
         </button>
-        <nav>
-            <ul>
-                {% assign current_url = page.url | downcase %}
-                {% capture home_url %}{% if page.lang != 'en' %}/{{ page.lang }}{% endif %}/{% endcapture %}
-                <li>
-                    <a href="{{ home_url }}" {% if current_url == home_url %}class="active"{% endif %}>
-                        {{ locale.home | default: "Home" }}
-                    </a>
-                </li>
-                <li>
-                    <a href="/{{ page.lang }}/soft/" {% if current_url contains '/soft/' %}class="active"{% endif %}>
-                        {{ locale.software | default: "Software" }}
-                    </a>
-                </li>
-                <li>
-                    <a href="/{{ page.lang }}/brokers/" {% if current_url contains '/brokers/' %}class="active"{% endif %}>
-                        {{ locale.brokers | default: "Brokers" }}
-                    </a>
-                </li>
-                <li>
-                    <a href="/{{ page.lang }}/market-data/" {% if current_url contains '/market-data/' %}class="active"{% endif %}>
-                        {{ locale.marketdata | default: "Market Data" }}
-                    </a>
-                </li>
-                <li>
-                    <a href="/{{ page.lang }}/community/" {% if current_url contains '/community/' %}class="active"{% endif %}>
-                        {{ locale.community | default: "Community" }}
-                    </a>
-                </li>
-                <li>
-                    <a href="/{{ page.lang }}/pedia/" {% if current_url contains '/pedia/' %}class="active"{% endif %}>
-                        {{ locale.algopedia | default: "Algopedia" }}
-                    </a>
-                </li>
-            </ul>
-        </nav>
-        <div class="language-selector">
-            <select id="lang-select">
-                <option value="en" {% if page.lang == "en" %}selected{% endif %}>English</option>
-                <option value="ru" {% if page.lang == "ru" %}selected{% endif %}>Русский</option>
-                <option value="zh" {% if page.lang == "zh" %}selected{% endif %}>中文</option>
-            </select>
-        </div>
     </header>
 
     <main>
