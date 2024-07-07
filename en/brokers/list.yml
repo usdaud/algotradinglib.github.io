@@ -17,7 +17,7 @@
   logo: /assets/images/logos/alpaca.png
   website: https://alpaca.markets/
   pedia_link: /en/pedia/a/alpaca.html
-  filters: [API, Stock, Commission-free, US Market]
+  filters: [API, Stock, US Market, Crypto]
 
 - name: Ameritrade
   description: American financial services company
@@ -94,14 +94,14 @@
   logo: /assets/images/logos/fidelity.png
   website: https://www.fidelity.com/
   pedia_link: /en/pedia/f/fidelity_investments.html
-  filters: [Stock, Mutual Funds, ETFs, US Market]
+  filters: [Stock, Funds, ETFs, US Market]
 
 - name: First Prudential Markets
   description: Australian forex and CFD broker
   logo: /assets/images/logos/fpm.png
   website: https://www.fpmarkets.com/
   pedia_link: /en/pedia/f/first_prudential_markets.html
-  filters: [Forex, CFD, Australian Market]
+  filters: [Forex, CFD]
 
 - name: Futu
   description: Chinese online brokerage firm
@@ -122,14 +122,14 @@
   logo: /assets/images/logos/hdfc_securities.png
   website: https://www.hdfcsec.com/
   pedia_link: /en/pedia/h/hdfc_securities.html
-  filters: [API, Stock, Mutual Funds, Indian Market]
+  filters: [API, Stock, Funds, Indian Market]
 
 - name: ICICI Direct
   description: Indian financial services firm
   logo: /assets/images/logos/icici_direct.png
   website: https://www.icicidirect.com/
   pedia_link: /en/pedia/i/icici_direct.html
-  filters: [API, Stock, Mutual Funds, Indian Market]
+  filters: [API, Stock, Funds, Indian Market]
 
 - name: IG Group
   description: UK-based financial services provider
@@ -157,7 +157,7 @@
   logo: /assets/images/logos/kotak_securities.png
   website: https://www.kotaksecurities.com/
   pedia_link: /en/pedia/k/kotak_securities.html
-  filters: [API, Stock, Mutual Funds, Indian Market]
+  filters: [API, Stock, Funds, Indian Market]
 
 - name: Lime Brokerage
   description: US-based agency-only broker
@@ -248,7 +248,7 @@
   logo: /assets/images/logos/tinkoff.png
   website: https://www.tinkoff.ru/
   pedia_link: /en/pedia/t/tinkoff.html
-  filters: [API, Stock, Bonds, Russian Market]
+  filters: [API, Stock, Funds, Russian Market, Futures]
 
 - name: ThinkMarkets
   description: Global forex and CFD broker
@@ -269,7 +269,7 @@
   logo: /assets/images/logos/upstox.png
   website: https://upstox.com/
   pedia_link: /en/pedia/u/upstox.html
-  filters: [API, Stock, Mutual Funds, Indian Market]
+  filters: [API, Stock, Funds, Indian Market]
 
 - name: Webull
   description: Chinese-owned US-based broker-dealer
@@ -290,4 +290,4 @@
   logo: /assets/images/logos/zerodha.png
   website: https://zerodha.com/
   pedia_link: /en/pedia/z/zerodha.html
-  filters: [API, Stock, Mutual Funds, Indian Market]
+  filters: [API, Stock, Funds, Indian Market]
