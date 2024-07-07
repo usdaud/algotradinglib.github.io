@@ -10,13 +10,15 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    box-sizing: border-box;
 }
 
 #sticky-header.sticky {
     position: fixed;
     top: 0;
-    width: 100%;
     z-index: 1000;
+    left: 0;
+    right: 0;
 }
 
 .logo img {
@@ -200,7 +202,7 @@ footer a:hover .github-icon {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 10px;
+    gap: 10px 5px;
 }
 
 .filter-btn {
@@ -218,6 +220,7 @@ footer a:hover .github-icon {
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
+    margin-bottom: 10px;
 }
 
 .filter-btn:hover,
