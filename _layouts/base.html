@@ -27,34 +27,35 @@
         </button>
         <nav>
             <ul>
+                {% assign current_url = page.url | downcase %}
                 {% capture home_url %}{% if page.lang != 'en' %}/{{ page.lang }}{% endif %}/{% endcapture %}
                 <li>
-                    <a href="{{ home_url }}" {% capture current_url %}{{ page.url | downcase }}{% endcapture %}{% if current_url == home_url %}class="active"{% endif %}>
+                    <a href="{{ home_url }}" {% if current_url == home_url %}class="active"{% endif %}>
                         {{ locale.home | default: "Home" }}
                     </a>
                 </li>
                 <li>
-                    <a href="/{{ page.lang }}/soft/" {% if page.url | downcase contains '/soft/' %}class="active"{% endif %}>
+                    <a href="/{{ page.lang }}/soft/" {% if current_url contains '/soft/' %}class="active"{% endif %}>
                         {{ locale.software | default: "Software" }}
                     </a>
                 </li>
                 <li>
-                    <a href="/{{ page.lang }}/brokers/" {% if page.url | downcase contains '/brokers/' %}class="active"{% endif %}>
+                    <a href="/{{ page.lang }}/brokers/" {% if current_url contains '/brokers/' %}class="active"{% endif %}>
                         {{ locale.brokers | default: "Brokers" }}
                     </a>
                 </li>
                 <li>
-                    <a href="/{{ page.lang }}/market-data/" {% if page.url | downcase contains '/market-data/' %}class="active"{% endif %}>
+                    <a href="/{{ page.lang }}/market-data/" {% if current_url contains '/market-data/' %}class="active"{% endif %}>
                         {{ locale.marketdata | default: "Market Data" }}
                     </a>
                 </li>
                 <li>
-                    <a href="/{{ page.lang }}/community/" {% if page.url | downcase contains '/community/' %}class="active"{% endif %}>
+                    <a href="/{{ page.lang }}/community/" {% if current_url contains '/community/' %}class="active"{% endif %}>
                         {{ locale.community | default: "Community" }}
                     </a>
                 </li>
                 <li>
-                    <a href="/{{ page.lang }}/pedia/" {% if page.url | downcase contains '/pedia/' %}class="active"{% endif %}>
+                    <a href="/{{ page.lang }}/pedia/" {% if current_url contains '/pedia/' %}class="active"{% endif %}>
                         {{ locale.algopedia | default: "Algopedia" }}
                     </a>
                 </li>
