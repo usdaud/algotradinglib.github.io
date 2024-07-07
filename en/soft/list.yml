@@ -1,11 +1,4 @@
-﻿- name: AlgoTrader
-  description: Professional algorithmic trading platform
-  logo: /assets/images/logos/algotrader.png
-  website: https://www.algotrader.com/
-  pedia_link: /en/pedia/a/algotrader.html
-  filters: [API, Backtesting, Live trading, Optimization, Stock, Crypto, Java]
-
-- name: Amibroker
+﻿- name: Amibroker
   description: Technical analysis and backtesting tool
   logo: /assets/images/logos/amibroker.png
   website: https://www.amibroker.com/
@@ -44,7 +37,7 @@
 - name: ChartIQ
   description: HTML5 charting and technical analysis software
   logo: /assets/images/logos/chartiq.png
-  website: https://cosaic.io/chartiq/
+  website: https://www.spglobal.com/marketintelligence/en/solutions/chartiq
   pedia_link: /en/pedia/c/chartiq.html
   filters: [Charting, API, JavaScript]
 
@@ -65,7 +58,7 @@
 - name: DXTrade
   description: Multi-asset trading platform
   logo: /assets/images/logos/dxtrade.png
-  website: https://www.dxfeed.com/market-data/dxtrade/
+  website: https://dx.trade/
   pedia_link: /en/pedia/d/dxtrade.html
   filters: [Live trading, API, Realtime data]
 
@@ -115,7 +108,7 @@
   description: Modern trading platform by Zerodha
   logo: /assets/images/logos/kite.png
   website: https://kite.zerodha.com/
-  pedia_link: /en/pedia/k/kite_by_zerodha.html
+  pedia_link: /en/pedia/k/kite_zerodha.html
   filters: [API, Live trading, Stock]
 
 - name: Lightweight Charts
@@ -129,7 +122,7 @@
 - name: Livevol
   description: Options analytics and trading platform
   logo: /assets/images/logos/livevol.png
-  website: https://www.cboe.com/trade/tools/livevol
+  website: https://www.livevol.com/
   pedia_link: /en/pedia/l/livevol.html
   filters: [Live trading, Realtime data, Stock]
 
@@ -145,15 +138,15 @@
   description: Popular forex and CFD trading platform
   logo: /assets/images/logos/mt4.png
   website: https://www.metatrader4.com/
-  pedia_link: /en/pedia/m/metatrader_4.html
+  pedia_link: /en/pedia/m/metatrader4.html
   filters: [Live trading, Backtesting, API, MQL4]
 
 - name: MetaTrader 5 (MT5)
   description: Multi-asset trading platform
   logo: /assets/images/logos/mt5.png
   website: https://www.metatrader5.com/
-  pedia_link: /en/pedia/m/metatrader_5.html
-  filters: [Live trading, Backtesting, API, Stock, Crypto, MQL5]
+  pedia_link: /en/pedia/m/metatrader5.html
+  filters: [Live trading, Backtesting, API, MQL5]
 
 - name: MotiveWave
   description: Professional charting and trading software
@@ -198,13 +191,6 @@
   pedia_link: /en/pedia/o/optuma.html
   filters: [Charting, Backtesting, Historical Data]
 
-- name: Orc Trader
-  description: Professional trading platform for options and futures
-  logo: /assets/images/logos/orc_trader.png
-  website: https://www.itiviti.com/
-  pedia_link: /en/pedia/o/orc_trader.html
-  filters: [Live trading, API]
-
 - name: QuantConnect
   description: Open-source algorithmic trading platform
   logo: /assets/images/logos/quantconnect.png
@@ -212,6 +198,13 @@
   pedia_link: /en/pedia/q/quantconnect.html
   github: https://github.com/QuantConnect/Lean
   filters: [Backtesting, Live trading, API, OpenSource, Python, C#]
+
+- name: QuantHouse
+  description: Market data and trading infrastructure provider
+  logo: /assets/images/logos/quanthouse.png
+  website: https://www.quanthouse.com/
+  pedia_link: /en/pedia/q/quanthouse.html
+  filters: [Market data, Trading infrastructure, API, Stock]
 
 - name: Quantlib
   description: Quantitative finance library
@@ -249,13 +242,6 @@
   pedia_link: /en/pedia/s/sierra_chart.html
   filters: [Charting, Live trading, Backtesting, C++]
 
-- name: SmartQuant
-  description: Algorithmic trading platform and framework
-  logo: /assets/images/logos/smartquant.png
-  website: https://www.smartquant.com/
-  pedia_link: /en/pedia/s/smartquant.html
-  filters: [Backtesting, Live trading, C#]
-
 - name: Sterling Trader
   description: Professional direct access trading platform
   logo: /assets/images/logos/sterling_trader.png
@@ -274,7 +260,7 @@
 - name: ThinkOrSwim
   description: Advanced trading platform by TD Ameritrade
   logo: /assets/images/logos/thinkorswim.png
-  website: https://www.tdameritrade.com/tools-and-platforms/thinkorswim.html
+  website: https://www.schwab.com/trading/thinkorswim
   pedia_link: /en/pedia/t/thinkorswim.html
   filters: [Live trading, Backtesting, Charting]
 
@@ -285,7 +271,7 @@
   pedia_link: /en/pedia/t/tradestation.html
   filters: [Live trading, Backtesting, API, EasyLanguage]
 
-- name: Trading Technologies (TT)
+- name: Trading Technologies
   description: Professional trading software for derivatives
   logo: /assets/images/logos/trading_technologies.png
   website: https://www.tradingtechnologies.com/
@@ -300,8 +286,15 @@
   filters: [Charting, Backtesting, Pine Script]
 
 - name: Volfix
-  description: Options analytics and trading platform
+  description: Analytics and trading platform
   logo: /assets/images/logos/volfix.png
-  website: https://www.volfix.com/
+  website: https://volfix.net/
   pedia_link: /en/pedia/v/volfix.html
   filters: [Live trading, API, Stock]
+
+- name: Wyden
+  description: Professional algorithmic trading platform
+  logo: /assets/images/logos/wyden.png
+  website: https://www.wyden.io/
+  pedia_link: /en/pedia/a/wyden.html
+  filters: [API, Backtesting, Live trading, Optimization, Stock, Crypto, Java]
