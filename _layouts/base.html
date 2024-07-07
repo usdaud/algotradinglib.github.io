@@ -26,9 +26,11 @@
         <nav>
             <ul>
                 <li><a href="/{{ page.lang }}">{{ locale.home | default: "Home" }}</a></li>
-                <li><a href="/{{ page.lang }}/soft">{{ locale.software | default: "Software" }}</a></li>
-                <li><a href="/{{ page.lang }}/brokers">{{ locale.brokers | default: "Brokers" }}</a></li>
-                <li><a href="/{{ page.lang }}/pedia">{{ locale.algopedia | default: "Algopedia" }}</a></li>
+                <li><a href="/{{ page.lang }}/soft/">{{ locale.software | default: "Software" }}</a></li>
+                <li><a href="/{{ page.lang }}/brokers/">{{ locale.brokers | default: "Brokers" }}</a></li>
+                <li><a href="/{{ page.lang }}/market-data/">{{ locale.marketdata | default: "Market Data" }}</a></li>
+                <li><a href="/{{ page.lang }}/community/">{{ locale.community | default: "Community" }}</a></li>
+                <li><a href="/{{ page.lang }}/pedia/">{{ locale.algopedia | default: "Algopedia" }}</a></li>
             </ul>
         </nav>
         <div class="language-selector">
