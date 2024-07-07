@@ -279,6 +279,15 @@ footer a:hover .github-icon {
     height: 24px;
 }
 
+.catalog-item .website-link .icon {
+    opacity: 0.6;
+    transition: opacity 0.3s ease;
+}
+
+.catalog-item .website-link:hover .icon {
+    opacity: 1;
+}
+
 .filters {
     margin-top: 15px;
 }
