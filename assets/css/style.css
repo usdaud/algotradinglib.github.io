@@ -323,6 +323,8 @@ footer a:hover .github-icon {
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     transition: box-shadow 0.3s, transform 0.3s;
     position: relative;
+    display: flex;
+    flex-direction: column;
 }
 
 .catalog-item:hover {
@@ -330,11 +332,32 @@ footer a:hover .github-icon {
     transform: translateY(-5px);
 }
 
-.catalog-item img {
+.item-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 15px;
+}
+
+.item-header img {
     max-width: 100px;
     height: auto;
-    display: block;
-    margin: 0 auto 15px;
+}
+
+.external-links {
+    display: flex;
+    gap: 10px;
+}
+
+.external-links a {
+    color: #007bff;
+    text-decoration: none;
+    font-size: 1.2em;
+    transition: color 0.3s ease;
+}
+
+.external-links a:hover {
+    color: #0056b3;
 }
 
 .catalog-item h2 {
@@ -354,32 +377,18 @@ footer a:hover .github-icon {
     margin-top: 10px;
     color: #007bff;
     text-decoration: none;
+    align-self: flex-start;
 }
 
 .catalog-item .learn-more:hover {
     text-decoration: underline;
 }
 
-.item-links {
-    display: flex;
-    justify-content: center;
-    gap: 10px;
-    margin-top: 10px;
-}
-
-.item-links a {
-    color: #007bff;
-    text-decoration: none;
-    font-size: 1.2em;
-    transition: color 0.3s ease;
-}
-
-.item-links a:hover {
-    color: #0056b3;
-}
-
 .filters {
     margin-top: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 .filter-tag {
@@ -391,6 +400,31 @@ footer a:hover .github-icon {
     font-size: 12px;
     border-radius: 12px;
     transition: all 0.3s ease;
+}
+
+.additional-links {
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.additional-links a {
+    color: #007bff;
+    text-decoration: none;
+    font-size: 0.9em;
+    transition: color 0.3s ease;
+}
+
+.additional-links a:hover {
+    color: #0056b3;
+}
+
+.no-results-message {
+    text-align: center;
+    font-size: 1.2em;
+    color: #666;
+    margin-top: 50px;
 }
 
 @keyframes pulse {
@@ -407,13 +441,6 @@ footer a:hover .github-icon {
 
 .filter-btn.active {
     animation: pulse 0.5s;
-}
-
-.no-results-message {
-    text-align: center;
-    font-size: 1.2em;
-    color: #666;
-    margin-top: 50px;
 }
 
 @media (max-width: 1400px) {
