@@ -224,6 +224,7 @@ footer a:hover .github-icon {
     padding: 20px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     transition: box-shadow 0.3s, transform 0.3s;
+    position: relative;
 }
 
 .catalog-item:hover {
@@ -250,15 +251,32 @@ footer a:hover .github-icon {
     margin-bottom: 15px;
 }
 
-.catalog-item a {
+.catalog-item .learn-more {
     display: inline-block;
-    margin-right: 10px;
+    margin-top: 10px;
     color: #007bff;
     text-decoration: none;
 }
 
-.catalog-item a:hover {
+.catalog-item .learn-more:hover {
     text-decoration: underline;
+}
+
+.catalog-item .website-link {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+.catalog-item .github-link {
+    position: absolute;
+    top: 10px;
+    right: 40px;
+}
+
+.catalog-item .icon {
+    width: 24px;
+    height: 24px;
 }
 
 .filters {
