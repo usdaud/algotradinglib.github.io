@@ -214,3 +214,10 @@
   website: https://finance.yahoo.com/
   pedia_link: /en/pedia/y/yahoo_finance.html
   filters: [API, Historical Data, News, Stock, Options, Crypto, Forex, Indexes, Free]
+
+- name: CoinGecko
+  description: Cryptocurrency data aggregator and analysis platform
+  logo: /assets/images/logos/coingecko.png
+  website: https://www.coingecko.com/
+  pedia_link: /en/pedia/c/coingecko.html
+  filters: [Cryptocurrency]
