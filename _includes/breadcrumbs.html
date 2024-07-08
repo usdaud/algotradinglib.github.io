@@ -2,21 +2,14 @@
   <ol class="breadcrumb">
     <li class="breadcrumb-item"><a href="/{{ page.lang }}/">{{ locale.home | default: "Home" }}</a></li>
     {% assign crumbs = page.url | remove: '/index.html' | split: '/' %}
-    {% assign crumb_path = page.lang %}
     {% for crumb in crumbs offset: 2 %}
-      {% assign crumb_path = crumb_path | append: '/' | append: crumb %}
       {% if forloop.last %}
         <li class="breadcrumb-item active" aria-current="page">{{ page.title }}</li>
       {% else %}
-        {% capture index_md_content %}{% include_relative {{ crumb_path }}/index.md %}{% endcapture %}
-        {% assign index_title = index_md_content | split: "title:" | last | split: "
-" | first | strip %}
-        {% if index_title != "" %}
-          <li class="breadcrumb-item"><a href="/{{ crumb_path }}/">{{ index_title }}</a></li>
-        {% else %}
-          {% assign crumb_key = crumb %}
-          <li class="breadcrumb-item"><a href="/{{ crumb_path }}/">{{ locale[crumb_key] | default: crumb | capitalize }}</a></li>
-        {% endif %}
+        {% assign crumb_limit = forloop.index | plus: 2 %}
+        {% capture crumb_url %}{% for c in crumbs limit: crumb_limit %}{{ c | append: '/' }}{% endfor %}{% endcapture %}
+        {% assign crumb_key = crumb %}
+        <li class="breadcrumb-item"><a href="{{ crumb_url }}">{{ locale[crumb_key] | default: crumb | capitalize }}</a></li>
       {% endif %}
     {% endfor %}
   </ol>
