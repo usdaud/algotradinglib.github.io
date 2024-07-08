@@ -1,7 +1,12 @@
 home: Home
 software: Software
 brokers: Brokers
-pedia: Algopedia
+community: Community
+marketdata: Market Data
+algopedia: Algopedia
+search: Search
+more: More
+title: Algorithmic Trading Library
 footer_copyright: All rights reserved.
 footer_contact: Contact
 contribute: Contribute on GitHub
