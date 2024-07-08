@@ -389,7 +389,7 @@
   website: https://www.metastock.com/
   pedia_link: /en/pedia/m/metastock.html
   github: null
-  filters: [Charting, Technical Analysis, Backtesting, Real-time Data]
+  filters: [Charting, Backtesting, Realtime Data]
   supported_data_providers: [eSignal]
   supported_brokers: [Interactive Brokers, Ameritrade, TradeStation]
 
@@ -398,7 +398,7 @@
   logo: /assets/images/logos/scichart.png
   website: https://www.scichart.com/
   pedia_link: /en/pedia/s/scichart.html
-  github: https://github.com/ABTSoftware/SciChart.Android.Examples
+  github: https://github.com/ABTSoftware/
   filters: [Charting, JavaScript]
   supported_data_providers: []
   supported_brokers: []
