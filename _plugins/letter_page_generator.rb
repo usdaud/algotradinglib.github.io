@@ -13,10 +13,12 @@ module Jekyll
       languages = ['en', 'ru', 'zh']
       
       languages.each do |lang|
+        locale = load_locale(site, lang)
+        
         SECTIONS.each do |section|
           section_path = File.join(site.source, lang, section)
           if Dir.exist?(section_path)
-            process_section(site, lang, section, section_path)
+            process_section(site, lang, section, section_path, locale)
           else
             Jekyll.logger.warn "LetterPageGenerator:", "Directory not found: #{section_path}"
           end
@@ -24,15 +26,25 @@ module Jekyll
       end
     end
 
-    def process_section(site, lang, section, section_path)
-      if ['soft', 'market-data', 'brokers', 'community'].include?(section)
-        process_catalog_section(site, lang, section, section_path)
+    def load_locale(site, lang)
+      locale_file = File.join(site.source, lang, 'locales.yml')
+      if File.exist?(locale_file)
+        YAML.load_file(locale_file)
       else
-        process_regular_section(site, lang, section, section_path)
+        Jekyll.logger.warn "LetterPageGenerator:", "Locale file not found: #{locale_file}"
+        {}
       end
     end
 
-    def process_catalog_section(site, lang, section, section_path)
+    def process_section(site, lang, section, section_path, locale)
+      if ['soft', 'market-data', 'brokers', 'community'].include?(section)
+        process_catalog_section(site, lang, section, section_path, locale)
+      else
+        process_regular_section(site, lang, section, section_path, locale)
+      end
+    end
+
+    def process_catalog_section(site, lang, section, section_path, locale)
       catalog_data = load_catalog_data(site, section_path)
       
       if ['market-data', 'brokers'].include?(section)
@@ -55,7 +67,7 @@ module Jekyll
         end
       end
 
-      site.pages << CatalogIndexPage.new(site, site.source, lang, section, catalog_data)
+      site.pages << CatalogIndexPage.new(site, site.source, lang, section, catalog_data, locale)
     end
 
     def process_supported_items(items, lang, target_section)
@@ -78,7 +90,7 @@ module Jekyll
       end
     end
 
-    def process_regular_section(site, lang, section, section_path)
+    def process_regular_section(site, lang, section, section_path, locale)
       letters = {}
       Dir.glob(File.join(section_path, '*')).each do |letter_path|
         if File.directory?(letter_path)
@@ -94,16 +106,16 @@ module Jekyll
 
       letters.each do |letter, count|
         Jekyll.logger.info "LetterPageGenerator:", "Creating page for #{lang}/#{section}/#{letter} with #{count} posts"
-        site.pages << LetterPage.new(site, site.source, lang, section, letter)
+        site.pages << LetterPage.new(site, site.source, lang, section, letter, locale)
     
         Dir.glob(File.join(section_path, letter, '*.md')).each do |file|
-          process_markdown_file(site, file)
+          process_markdown_file(site, file, locale)
         end
       end
-      site.pages << SectionIndexPage.new(site, site.source, lang, section, letters)
+      site.pages << SectionIndexPage.new(site, site.source, lang, section, letters, locale)
     end
 
-    def process_markdown_file(site, file)
+    def process_markdown_file(site, file, locale)
       return if @processed_pages.include?(file)
       
       content = File.read(file, encoding: 'utf-8')
@@ -115,6 +127,7 @@ module Jekyll
   
       lang = file.split('/')[1]
       page.data['lang'] = lang
+      page.data['locale'] = locale
 
       page.data['permalink'] = "/#{file.sub(site.source + '/', '').sub('.md', '.html')}"
   
@@ -142,7 +155,7 @@ module Jekyll
   end
 
   class LetterPage < Page
-    def initialize(site, base, lang, section, letter)
+    def initialize(site, base, lang, section, letter, locale)
       @site = site
       @base = base
       @dir  = File.join(lang, section, letter)
@@ -162,13 +175,14 @@ module Jekyll
       self.data['title'] = letter.upcase
       self.data['letter'] = letter
       self.data['lang'] = lang
+      self.data['locale'] = locale
       self.data['section'] = section
       self.data['permalink'] = "/#{lang}/#{section}/#{letter}/index.html"
     end
   end
 
   class SectionIndexPage < Page
-    def initialize(site, base, lang, section, letters)
+    def initialize(site, base, lang, section, letters, locale)
       @site = site
       @base = base
       @dir  = File.join(lang, section)
@@ -190,12 +204,13 @@ module Jekyll
                            end
       self.data['letters'] = letters
       self.data['lang'] = lang
+      self.data['locale'] = locale
       self.data['section'] = section
     end
   end
 
   class CatalogIndexPage < Page
-    def initialize(site, base, lang, section, catalog_data)
+    def initialize(site, base, lang, section, catalog_data, locale)
       @site = site
       @base = base
       @dir  = File.join(lang, section)
@@ -238,6 +253,7 @@ module Jekyll
                        end
       self.data['catalog'] = catalog_data
       self.data['lang'] = lang
+      self.data['locale'] = locale
       self.data['section'] = section
       self.data['permalink'] = "/#{lang}/#{section}/index.html"
 
