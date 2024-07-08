@@ -29,3 +29,6 @@ include:
 
 generators:
   - LetterPageGenerator
+
+feed:
+  disable: true
