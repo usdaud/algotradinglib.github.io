@@ -14,6 +14,8 @@ module Jekyll
       
       languages.each do |lang|
         locale = load_locale(site, lang)
+
+        process_root_page(site, lang, locale)
         
         SECTIONS.each do |section|
           section_path = File.join(site.source, lang, section)
@@ -33,6 +35,19 @@ module Jekyll
       else
         Jekyll.logger.warn "LetterPageGenerator:", "Locale file not found: #{locale_file}"
         {}
+      end
+    end
+
+    def process_root_page(site, lang, locale)
+      root_file = File.join(site.source, lang, 'index.md')
+      if File.exist?(root_file)
+        content = File.read(root_file, encoding: 'utf-8')
+        page = Jekyll::Page.new(site, site.source, lang, 'index.md')
+        page.content = content
+        page.data['locale'] = locale
+        site.pages << page
+      else
+        Jekyll.logger.warn "LetterPageGenerator:", "Root page not found for language: #{lang}"
       end
     end
 
