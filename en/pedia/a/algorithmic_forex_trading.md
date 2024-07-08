@@ -74,7 +74,7 @@ MetaTrader 4 (MT4) and MetaTrader 5 (MT5) are popular trading platforms used for
 
 ### Interactive Brokers
 
-Interactive Brokers offers a range of tools for [algorithmic trading](../a/algorithmic_trading.md), including an API that allows for the development of custom [trading algorithms](../t/trading_algorithms.md).
+[Interactive Brokers](../i/interactive_brokers.md) offers a range of tools for [algorithmic trading](../a/algorithmic_trading.md), including an API that allows for the development of custom [trading algorithms](../t/trading_algorithms.md).
 
 - [Interactive Brokers](https://www.interactivebrokers.com/)
 

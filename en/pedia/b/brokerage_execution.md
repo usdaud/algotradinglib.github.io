@@ -56,8 +56,8 @@ Transparency in the execution process helps traders understand where and how the
 
 Several companies are at the forefront of providing brokerage execution services and technology, including:
 
-- **Interactive Brokers**: Provides comprehensive electronic trading solutions and direct market access. [Interactive Brokers](https://www.interactivebrokers.com)
-- **Fidelity Investments**: Offers advanced trading tools and execution services for [algorithmic trading](../a/algorithmic_trading.md). [Fidelity Investments](https://www.fidelity.com)
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Provides comprehensive electronic trading solutions and direct market access. [Interactive Brokers](https://www.interactivebrokers.com)
+- **[Fidelity Investments](../f/fidelity_investments.md)**: Offers advanced trading tools and execution services for [algorithmic trading](../a/algorithmic_trading.md). [Fidelity Investments](https://www.fidelity.com)
 - **Goldman Sachs**: Known for its advanced execution and smart [order routing](../o/order_routing.md) technologies. [Goldman Sachs](https://www.goldmansachs.com)
 - **Citadel Securities**: A leading provider of liquidity and advanced execution services in financial markets. [Citadel Securities](https://www.citadelsecurities.com)
 

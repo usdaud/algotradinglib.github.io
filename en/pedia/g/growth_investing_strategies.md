@@ -84,7 +84,7 @@ Continual monitoring and rebalancing are crucial. Key steps include:
 Keeping abreast of market news and trends is crucial. Resources include:
 
 - **[Bloomberg](../b/bloomberg.md)** [www.bloomberg.com](https://www.bloomberg.com)
-- **Yahoo Finance** [finance.yahoo.com](https://finance.yahoo.com)
+- **[Yahoo Finance](../y/yahoo_finance.md)** [finance.yahoo.com](https://finance.yahoo.com)
 - **[Reuters](../r/reuters.md)** [www.reuters.com](https://www.reuters.com)
 
 ### Analytical Tools

@@ -37,13 +37,13 @@ Historical data is essential for [backtesting](../b/backtesting.md) [trading str
 
 - **Exchanges and market data providers**: Providing raw data feeds (e.g., NYSE [link](https://www.nyse.com/), NASDAQ [link](https://www.nasdaq.com/)).
 - **Third-party services**: Platforms like [Bloomberg](../b/bloomberg.md) [link](https://www.bloomberg.com/), [Reuters](../r/reuters.md) [link](https://www.reuters.com/), and [Quandl](../q/quandl.md) [link](https://www.quandl.com/) offer extensive financial databases.
-- **API services**: Websites like Alpha Vantage [link](https://www.alphavantage.co/) and IEX Cloud [link](https://iexcloud.io/) provide APIs for accessing financial data.
+- **API services**: Websites like Alpha Vantage [link](https://www.alphavantage.co/) and [IEX Cloud](../i/iex_cloud.md) [link](https://iexcloud.io/) provide APIs for accessing financial data.
 
 ### Real-time Data
 
 For live trading, real-time data is crucial. Sources include:
 
-- **Brokerage firms**: Brokers like Interactive Brokers [link](https://www.interactivebrokers.com/).
+- **Brokerage firms**: Brokers like [Interactive Brokers](../i/interactive_brokers.md) [link](https://www.interactivebrokers.com/).
 - **Real-time data vendors**: Providers such as [TradeStation](../t/tradestation.md) [link](https://www.tradestation.com/) and [eSignal](../e/esignal.md) [link](https://www.esignal.com/).
 
 ## Data Preprocessing and Cleaning
@@ -114,7 +114,7 @@ Assessing strategy performance typically involves:
 - **MetaTrader**: Widely used for forex and CFDs trading, with support for [algorithmic trading](../a/algorithmic_trading.md) scripts.
 - **[NinjaTrader](../n/ninjatrader.md)**: Integrated platform for futures and forex trading.
 - **[QuantConnect](../q/quantconnect.md)**: Cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform.
-- **Interactive Brokers**: Offers a trading API allowing for [algorithmic execution](../a/algorithmic_execution.md).
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Offers a trading API allowing for [algorithmic execution](../a/algorithmic_execution.md).
 
 ## Conclusion
 

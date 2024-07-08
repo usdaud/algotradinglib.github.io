@@ -61,7 +61,7 @@ Automation in trading helps reduce the emotional bias and ensures consistent exe
   
 **Notable Companies:**
 - **[TradeStation](../t/tradestation.md) [tradestation.com](https://www.tradestation.com/):** Offers robust platform features suitable for developing and executing automated [trading strategies](../t/trading_strategies.md).
-- **Interactive Brokers [interactivebrokers.com](https://www.interactivebrokers.com/):** Provides extensive [algorithmic trading](../a/algorithmic_trading.md) services and smart routing capabilities.
+- **[Interactive Brokers](../i/interactive_brokers.md) [interactivebrokers.com](https://www.interactivebrokers.com/):** Provides extensive [algorithmic trading](../a/algorithmic_trading.md) services and smart routing capabilities.
 
 ### High-Frequency Trading (HFT)
 

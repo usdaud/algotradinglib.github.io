@@ -6,7 +6,7 @@ Binance is one of the largest and most popular cryptocurrency exchanges in the w
 ## Key Features
 1. **Wide Range of Cryptocurrencies**: Binance supports trading for hundreds of cryptocurrencies, including Bitcoin (BTC), Ethereum (ETH), Binance Coin (BNB), and many altcoins. 
 
-2. **Advanced Trading Platforms**: Binance offers multiple trading platforms, including a web-based platform, desktop applications, and mobile apps. The platforms feature advanced charting tools, real-time market data, and various order types.
+2. **Advanced Trading Platforms**: Binance offers multiple trading platforms, including a web-based platform, desktop applications, and mobile apps. The platforms feature advanced charting tools, [real-time market data](../r/real-time_market_data.md), and various order types.
 
 3. **Binance Smart Chain (BSC)**: Binance has developed its own blockchain, Binance Smart Chain, which enables smart contracts and decentralized applications (DApps). BSC is known for its low transaction fees and fast processing times.
 
@@ -30,7 +30,7 @@ Binance is one of the largest and most popular cryptocurrency exchanges in the w
 
 ## Use Cases
 - **Spot Trading**: Users can trade a wide range of cryptocurrency pairs with low fees and high liquidity.
-- **Futures Trading**: Binance offers futures contracts with leverage, allowing traders to speculate on the price movements of cryptocurrencies.
+- **Futures Trading**: Binance offers [futures contracts](../f/futures_contracts.md) with leverage, allowing traders to speculate on the price movements of cryptocurrencies.
 - **Staking and Earning**: Users can stake their crypto assets or participate in lending and yield farming to earn rewards.
 - **DeFi Access**: Through Binance Smart Chain, users can access decentralized finance applications and services.
 - **Token Launches**: Binance Launchpad enables users to invest in new cryptocurrency projects at an early stage.
@@ -44,7 +44,7 @@ Binance provides comprehensive API documentation, supporting REST and WebSocket 
 ## Clients and Partners
 Binance serves a wide range of clients, including:
 - **Retail Traders**: Individual investors and traders looking for a comprehensive crypto trading platform.
-- **Institutional Investors**: Hedge funds, asset managers, and proprietary trading firms seeking high liquidity and advanced trading features.
+- **Institutional Investors**: Hedge funds, asset managers, and [proprietary trading](../p/proprietary_trading.md) firms seeking high liquidity and advanced trading features.
 - **Developers**: Building applications and services that integrate with Binance’s APIs.
 
 ## Regulatory Compliance

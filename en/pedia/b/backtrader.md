@@ -22,10 +22,10 @@ Backtrader is an open-source Python library for [backtesting](../b/backtesting.m
 ## Integrations
 Backtrader integrates with several brokers and data providers to facilitate both [backtesting](../b/backtesting.md) and live trading. Some of the notable integrations include:
 
-- **Interactive Brokers (IB)**: Direct integration for live trading and data retrieval.
+- **[Interactive Brokers](../i/interactive_brokers.md) (IB)**: Direct integration for live trading and data retrieval.
 - **Visual Chart**: Integration for both historical and live data.
 - **[Oanda](../o/oanda.md)**: Support for live trading and data.
-- **Yahoo Finance**: Data feed integration for historical data.
+- **[Yahoo Finance](../y/yahoo_finance.md)**: Data feed integration for historical data.
 - **Other Data Feeds**: Ability to connect to a variety of other data sources using custom data feed classes.
 
 ## Community and Support

@@ -65,7 +65,7 @@ Numerous trading platforms and software tools specialize in [spread trading](../
    
    [CQG](../c/cqg.md) provides a powerful spreader tool that offers great flexibility and speed for creating and executing spread strategies. The platform allows traders to customize spread strategies and execute them across multiple exchanges and brokerages.
 
-2. **Trading Technologies (TT) Autospreader:**
+2. **[Trading Technologies](../t/trading_technologies.md) (TT) Autospreader:**
    
    TT Autospreader is another popular choice among professional traders. It allows traders to create, test, and deploy complex [spread trading](../s/spread_trading.md) strategies with minimal latency.
 

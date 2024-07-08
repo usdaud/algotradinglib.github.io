@@ -46,9 +46,9 @@ Creating, testing, and optimizing [trading algorithms](../t/trading_algorithms.m
 
 Execution Management Systems are responsible for the actual execution of trades in the market. These systems provide functionalities such as:
 
-- **Order Management**: EMS systems handle different types of orders (market, limit, stop-loss, etc.) and ensure they are executed as intended. Notable EMS providers include FlexTrade and Trading Technologies.
+- **Order Management**: EMS systems handle different types of orders (market, limit, stop-loss, etc.) and ensure they are executed as intended. Notable EMS providers include FlexTrade and [Trading Technologies](../t/trading_technologies.md).
 
-- **Connection to Exchanges**: Execution management involves direct access to exchanges via FIX (Financial Information eXchange) protocol or other proprietary APIs. Companies like [TradeStation](../t/tradestation.md), Interactive Brokers, and [CQG](../c/cqg.md) offer such connectivity.
+- **Connection to Exchanges**: Execution management involves direct access to exchanges via FIX (Financial Information eXchange) protocol or other proprietary APIs. Companies like [TradeStation](../t/tradestation.md), [Interactive Brokers](../i/interactive_brokers.md), and [CQG](../c/cqg.md) offer such connectivity.
 
 - **Latency Optimization**: High-frequency trading requires extremely low-latency systems to capitalize on small price movements. This involves specialized hardware like FPGA (Field-Programmable Gate Arrays) and proximity hosting services offered by exchanges.
 
@@ -78,13 +78,13 @@ Several companies specialize in providing various components of the [algorithmic
 
 - **[QuantConnect](../q/quantconnect.md)**: An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to design, backtest, and deploy [trading strategies](../t/trading_strategies.md) (https://www.[quantconnect](../q/quantconnect.md).com).
 
-- **Interactive Brokers**: Provides automated trading services, APIs for direct market access, and a comprehensive trading platform (https://www.interactivebrokers.com).
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Provides automated trading services, APIs for direct market access, and a comprehensive trading platform (https://www.interactivebrokers.com).
 
 - **[TradeStation](../t/tradestation.md)**: Offers a suite of advanced trading tools, including direct market access, real-time data feeds, and [backtesting](../b/backtesting.md) capabilities (https://www.[tradestation](../t/tradestation.md).com).
 
 - **FlexTrade**: A global leader in execution management and [order management systems](../o/order_management_systems.md), providing multi-asset execution solutions (https://flextrade.com).
 
-- **Trading Technologies**: Specializes in professional trading software, offering advanced execution tools, charting, and analytics (https://www.tradingtechnologies.com).
+- **[Trading Technologies](../t/trading_technologies.md)**: Specializes in professional trading software, offering advanced execution tools, charting, and analytics (https://www.tradingtechnologies.com).
 
 - **AWS**: Amazon Web Services provides cloud computing resources for data storage, processing, and running [trading algorithms](../t/trading_algorithms.md), offering solutions like AWS Lambda, Amazon EC2, and Amazon Redshift (https://aws.amazon.com).
 

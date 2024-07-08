@@ -56,7 +56,7 @@ While gamma trading offers potential benefits, it also comes with risks:
 
 Several financial institutions and trading platforms provide tools and resources for gamma trading. Here are a few notable ones:
 
-1. **Interactive Brokers**: Offers a robust platform for options trading, including tools for managing and analyzing Greeks. [Interactive Brokers](https://www.interactivebrokers.com/en/home.php)
+1. **[Interactive Brokers](../i/interactive_brokers.md)**: Offers a robust platform for options trading, including tools for managing and analyzing Greeks. [Interactive Brokers](https://www.interactivebrokers.com/en/home.php)
 
 2. **[Thinkorswim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md)**: Provides advanced options analysis tools that include gamma and other Greeks calculations. [TD Ameritrade](https://www.tdameritrade.com/tools-and-platforms/thinkorswim/desktop.html)
 

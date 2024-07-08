@@ -45,7 +45,7 @@ Forwards and futures also serve speculators who bet on future price movements. A
 
 - **Hedge Funds:** Use complex algorithms to create diversified, high-frequency trading (HFT) strategies that generate profits while minimizing risk. Firms like AQR Capital Management and Renaissance Technologies are renowned for their expertise in futures trading.
 
-- **[Proprietary Trading](../p/proprietary_trading.md) Firms:** These firms trade futures and forwards using their own capital and algorithms. Companies such as Jane Street and [Jump Trading](../j/jump_trading.md) are known for their innovative trading technologies and strategies.
+- **[Proprietary Trading](../p/proprietary_trading.md) Firms:** These firms trade futures and forwards using their own capital and algorithms. Companies such as Jane Street and [Jump Trading](../j/jump_trading.md) are known for their innovative [trading technologies](../t/trading_technologies.md) and strategies.
 
 - **Institutional Investors:** Large institutional investors, including pension funds and insurance companies, incorporate algo-trading to optimize their hedging and speculating activities.
 

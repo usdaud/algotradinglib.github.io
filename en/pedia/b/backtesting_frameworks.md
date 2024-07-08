@@ -22,7 +22,7 @@ Here's the official [Zipline repository on GitHub](https://github.com/quantopian
 - **Multiple Data Feeds**: Support for multiple simultaneous data streams.
 - **Live Trading**: Capability to transition from [backtesting](../b/backtesting.md) to live trading seamlessly.
 - **Indicators and Analyzers**: A vast library of built-in [technical indicators](../t/technical_indicators.md) and performance analyzers.
-- **Broker Integration**: Integration with brokers like Interactive Brokers for real-time trading.
+- **Broker Integration**: Integration with brokers like [Interactive Brokers](../i/interactive_brokers.md) for real-time trading.
 
 Find more about it on the [Backtrader website](https://www.backtrader.com/).
 

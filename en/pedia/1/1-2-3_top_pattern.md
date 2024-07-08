@@ -50,7 +50,7 @@ The 1-2-3 Top Pattern is particularly popular in forex trading due to its clear 
 Stock traders use the 1-2-3 Top Pattern to spot reversals in individual stocks or indices. Resources such as Transworld (https://www.transworldfutures.com) provide strategies for stock market participants to capitalize on pattern-related opportunities.
 
 ### Cryptocurrencies
-Traders also apply this pattern in volatile markets like cryptocurrencies, where price swings are pronounced. Websites like CoinDesk (https://www.coindesk.com) and Binance Academy (https://academy.binance.com) provide market insights incorporating technical patterns like the 1-2-3 Top.
+Traders also apply this pattern in volatile markets like cryptocurrencies, where price swings are pronounced. Websites like CoinDesk (https://www.coindesk.com) and [Binance](../b/binance.md) Academy (https://academy.[binance](../b/binance.md).com) provide market insights incorporating technical patterns like the 1-2-3 Top.
 
 ## Advantages and Limitations
 

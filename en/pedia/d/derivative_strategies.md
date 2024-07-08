@@ -220,8 +220,8 @@ Effective [risk management](../r/risk_management.md) involves identifying, measu
 Leveraging technology and trading platforms is essential for implementing and managing derivative strategies. Leading platforms offer advanced tools for analysis, execution, and [risk management](../r/risk_management.md).
 
 - **[Bloomberg](../b/bloomberg.md) Terminal**: A comprehensive platform for market data, analytics, and trading. [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-- **Trading Technologies**: A platform offering advanced trading tools for futures, options, and other [derivatives](../d/derivatives.md). [Trading Technologies](https://www.tradingtechnologies.com/)
-- **Interactive Brokers**: A platform providing access to a wide range of global markets and [derivatives](../d/derivatives.md). [Interactive Brokers](https://www.interactivebrokers.com/)
+- **[Trading Technologies](../t/trading_technologies.md)**: A platform offering advanced trading tools for futures, options, and other [derivatives](../d/derivatives.md). [Trading Technologies](https://www.tradingtechnologies.com/)
+- **[Interactive Brokers](../i/interactive_brokers.md)**: A platform providing access to a wide range of global markets and [derivatives](../d/derivatives.md). [Interactive Brokers](https://www.interactivebrokers.com/)
 
 ### Regulatory Considerations
 

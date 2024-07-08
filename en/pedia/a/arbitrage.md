@@ -56,7 +56,7 @@ Several specialized software and algorithms are used to facilitate arbitrage tra
 
 3. **[MultiCharts](../m/multicharts.md)**: A professional charting and trading platform supporting advanced analysis and high-frequency [trading strategies](../t/trading_strategies.md). [MultiCharts](https://www.multicharts.com)
 
-4. **Interactive Brokers**: A brokerage firm that provides a robust API for automated trading, allowing the implementation of various arbitrage strategies. [Interactive Brokers](https://www.interactivebrokers.com)
+4. **[Interactive Brokers](../i/interactive_brokers.md)**: A brokerage firm that provides a robust API for automated trading, allowing the implementation of various arbitrage strategies. [Interactive Brokers](https://www.interactivebrokers.com)
 
 5. **[TradeStation](../t/tradestation.md)**: A trading platform that offers extensive support for [algorithmic trading](../a/algorithmic_trading.md), including tools for [backtesting](../b/backtesting.md) and strategy optimization. [TradeStation](https://www.tradestation.com)
 

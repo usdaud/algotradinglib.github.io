@@ -68,7 +68,7 @@ Several firms specialize in providing insights based on Buy-Sell Imbalance. Here
 
 4. **Kavout**: [Kavout](https://www.kavout.com/) leverages AI and machine learning to provide market insights, including analysis based on buy-sell imbalances.
 
-5. **QuantHouse**: [QuantHouse](https://www.quanthouse.com/) offers end-to-end solutions for market data and trading infrastructure, with tools to analyze buy-sell imbalances for better trading decisions.
+5. **[QuantHouse](../q/quanthouse.md)**: [QuantHouse](https://www.quanthouse.com/) offers end-to-end solutions for market data and trading infrastructure, with tools to analyze buy-sell imbalances for better trading decisions.
 
 ## Conclusion
 

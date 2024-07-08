@@ -82,8 +82,8 @@ Despite its advantages, the 10-Day Moving Average has some limitations:
 
 Several trading platforms and financial institutions incorporate the 10-DMA in their tools and strategies:
 
-- **Interactive Brokers:**
-  Interactive Brokers offers advanced trading tools and platforms like Trader Workstation (TWS), where traders can apply moving averages and analyze their impact.
+- **[Interactive Brokers](../i/interactive_brokers.md):**
+  [Interactive Brokers](../i/interactive_brokers.md) offers advanced trading tools and platforms like Trader Workstation (TWS), where traders can apply moving averages and analyze their impact.
   [Interactive Brokers](https://www.interactivebrokers.com)
 
 - **[QuantConnect](../q/quantconnect.md):**

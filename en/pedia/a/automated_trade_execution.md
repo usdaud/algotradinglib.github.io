@@ -26,7 +26,7 @@ To minimize latency and enhance execution speed, many automated trading firms us
 
 ### 6. **API Integration**
 APIs (Application Programming Interfaces) allow different software systems to communicate and share data, making it possible to integrate various aspects of the trading infrastructure seamlessly. This includes pulling in market data, submitting orders, and receiving execution feedback.
-- **Interactive Brokers API**: [IBKR API](https://www.interactivebrokers.com/en/index.php?f=5041)
+- **[Interactive Brokers](../i/interactive_brokers.md) API**: [IBKR API](https://www.interactivebrokers.com/en/index.php?f=5041)
 
 ## Benefits of Automated Trade Execution
 

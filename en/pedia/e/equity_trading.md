@@ -75,8 +75,8 @@ Advancements in technology have transformed equity trading. Key developments inc
 - **Thomson [Reuters](../r/reuters.md)**: [thomsonreuters.com](https://www.thomsonreuters.com)
   - Provides significant informational and analytical tools for traders.
 - **Goldman Sachs**: [goldmansachs.com](https://www.goldmansachs.com)
-  - A global investment banking firm heavily invested in trading technologies.
-- **Interactive Brokers**: [interactivebrokers.com](https://www.interactivebrokers.com)
+  - A global investment banking firm heavily invested in [trading technologies](../t/trading_technologies.md).
+- **[Interactive Brokers](../i/interactive_brokers.md)**: [interactivebrokers.com](https://www.interactivebrokers.com)
   - Facilitates electronic trading across multiple asset classes.
 
 ### Risks in Equity Trading

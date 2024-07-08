@@ -6,7 +6,7 @@ Investors seek 10-baggers due to their potential for significant capital appreci
 
 ## Origins of the Term
 
-Peter Lynch coined the term "10-bagger" in his book "One Up On Wall Street," published in 1989. Lynch served as the manager of the Magellan Fund at Fidelity Investments between 1977 and 1990, achieving an average annual return of 29.2%. His success was largely credited to his knack for identifying high-[growth stocks](../g/growth_stocks.md) early, many of which became 10-baggers or even greater.
+Peter Lynch coined the term "10-bagger" in his book "One Up On Wall Street," published in 1989. Lynch served as the manager of the Magellan Fund at [Fidelity Investments](../f/fidelity_investments.md) between 1977 and 1990, achieving an average annual return of 29.2%. His success was largely credited to his knack for identifying high-[growth stocks](../g/growth_stocks.md) early, many of which became 10-baggers or even greater.
 
 ## Characteristics of 10-Baggers
 

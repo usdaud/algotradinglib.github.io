@@ -84,7 +84,7 @@ Identifying these complex patterns manually can be error-prone and time-consumin
 
 ### Tools and Techniques:
 - **Machine Learning Models**: Supervised learning algorithms can be trained to recognize specific [chart patterns](../c/chart_patterns.md).
-- **[Pattern Recognition](../p/pattern_recognition.md) Software**: Tools like TrendSpider, MetaStock, and [TradeStation](../t/tradestation.md) offer automated [pattern recognition](../p/pattern_recognition.md) to streamline [trading strategies](../t/trading_strategies.md).
+- **[Pattern Recognition](../p/pattern_recognition.md) Software**: Tools like TrendSpider, [MetaStock](../m/metastock.md), and [TradeStation](../t/tradestation.md) offer automated [pattern recognition](../p/pattern_recognition.md) to streamline [trading strategies](../t/trading_strategies.md).
 - **[Backtesting](../b/backtesting.md)**: Allows traders to validate the reliability of identified patterns in historical data before applying them to live trading.
 
 ## Conclusion

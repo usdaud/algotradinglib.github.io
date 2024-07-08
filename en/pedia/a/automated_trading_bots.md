@@ -105,7 +105,7 @@ Automated trading bots are sophisticated programs that interact with financial m
    An open-source [algorithmic trading](../a/algorithmic_trading.md) platform that offers tools for [backtesting](../b/backtesting.md) and live trading.
    [QuantConnect](https://www.quantconnect.com/)
 
-3. **Interactive Brokers**
+3. **[Interactive Brokers](../i/interactive_brokers.md)**
 
    It provides API access for automated trading bots to execute trades in real-time.
    [Interactive Brokers](https://www.interactivebrokers.com/)

@@ -44,8 +44,8 @@ Cryptocurrency trading involves buying and selling digital currencies on various
 
 #### Major Exchanges
 
-1. **Binance**: [Binance](https://www.binance.com/) is one of the largest cryptocurrency exchanges by trading volume, offering a wide range of cryptocurrencies and trading options.
-2. **Coinbase**: [Coinbase](https://www.coinbase.com/) is a popular exchange known for its user-friendly interface and regulatory compliance.
+1. **[Binance](../b/binance.md)**: [Binance](https://www.binance.com/) is one of the largest cryptocurrency exchanges by trading volume, offering a wide range of cryptocurrencies and trading options.
+2. **[Coinbase](../c/coinbase.md)**: [Coinbase](https://www.coinbase.com/) is a popular exchange known for its user-friendly interface and regulatory compliance.
 3. **Kraken**: [Kraken](https://www.kraken.com/) offers advanced trading features and a wide selection of cryptocurrencies.
 4. **Bitfinex**: [Bitfinex](https://www.bitfinex.com/) is known for its advanced trading tools and high liquidity.
 

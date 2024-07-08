@@ -1,10 +1,10 @@
 # Decentralized Trading Platforms
 
-Decentralized trading platforms, also known as decentralized exchanges (DEXs), have revolutionized the way financial transactions are conducted within the realm of cryptocurrency and digital assets. Unlike traditional centralized exchanges (CEXs) such as Binance, Coinbase, and Kraken, which rely on an authoritative central entity to manage all trades, decentralized platforms operate on blockchain technology, providing a peer-to-peer trading ecosystem. This shift towards decentralization brings forth a myriad of advantages and nuanced complexities, reshaping the financial landscape significantly.
+Decentralized trading platforms, also known as decentralized exchanges (DEXs), have revolutionized the way financial transactions are conducted within the realm of cryptocurrency and digital assets. Unlike traditional centralized exchanges (CEXs) such as [Binance](../b/binance.md), [Coinbase](../c/coinbase.md), and Kraken, which rely on an authoritative central entity to manage all trades, decentralized platforms operate on blockchain technology, providing a peer-to-peer trading ecosystem. This shift towards decentralization brings forth a myriad of advantages and nuanced complexities, reshaping the financial landscape significantly.
 
 ## What are Decentralized Trading Platforms?
 
-Decentralized trading platforms utilize smart contracts and blockchain technology to enable users to trade digital assets without the need for intermediaries or centralized control. These platforms are typically built on various blockchain networks like Ethereum, Binance Smart Chain, Solana, and others, harnessing the strengths of these blockchains to provide secure and transparent trading environments.
+Decentralized trading platforms utilize smart contracts and blockchain technology to enable users to trade digital assets without the need for intermediaries or centralized control. These platforms are typically built on various blockchain networks like Ethereum, [Binance](../b/binance.md) Smart Chain, Solana, and others, harnessing the strengths of these blockchains to provide secure and transparent trading environments.
 
 ## Key Features of Decentralized Trading Platforms
 
@@ -40,9 +40,9 @@ Decentralized trading platforms utilize smart contracts and blockchain technolog
 
 ### PancakeSwap
 
-[PancakeSwap](https://pancakeswap.finance/) is a decentralized exchange built on the Binance Smart Chain, known for its lower transaction costs and faster processing times compared to Ethereum-based DEXs.
+[PancakeSwap](https://pancakeswap.finance/) is a decentralized exchange built on the [Binance](../b/binance.md) Smart Chain, known for its lower transaction costs and faster processing times compared to Ethereum-based DEXs.
 
-- **AMM Design**: Similar to Uniswap but on Binance Smart Chain.
+- **AMM Design**: Similar to Uniswap but on [Binance](../b/binance.md) Smart Chain.
 - **Yield Farming**: Offers high-yield farming opportunities with CAKE tokens.
 - **Lottery**: Engages users with a lottery system for CAKE token holders.
 - **NFTs**: An integrated marketplace for Non-Fungible Tokens (NFTs).
@@ -66,7 +66,7 @@ Smart contracts are self-executing contracts with the terms of the agreement dir
 Blockchain technology underpins decentralized platforms by providing a distributed ledger that records all transactions in an immutable and transparent manner. The decentralized nature of blockchains helps ensure security, as there is no single point of failure.
 
 - **Ethereum**: The predominant blockchain for DEXs, utilizing the ERC-20 standard for token creation and transaction processing.
-- **Binance Smart Chain**: Offers faster and cheaper transactions, providing a competitive alternative to Ethereum.
+- **[Binance](../b/binance.md) Smart Chain**: Offers faster and cheaper transactions, providing a competitive alternative to Ethereum.
 - **Solana**: Known for its high throughput and low-latency, supporting a growing number of DEXs.
 
 ## DeFi Ecosystem and Integration

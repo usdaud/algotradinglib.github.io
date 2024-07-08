@@ -49,7 +49,7 @@ library(xts)
 
 ## Loading Historical Data
 
-To conduct [backtesting](../b/backtesting.md), you first need historical data. The `quantmod` package provides functions to easily fetch historical stock prices. For example, you can use `getSymbols` to download data from Yahoo Finance.
+To conduct [backtesting](../b/backtesting.md), you first need historical data. The `quantmod` package provides functions to easily fetch historical stock prices. For example, you can use `getSymbols` to download data from [Yahoo Finance](../y/yahoo_finance.md).
 
 ```R
 getSymbols("AAPL", src = "yahoo", from = "2010-01-01", to = "2020-01-01")

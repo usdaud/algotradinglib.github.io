@@ -90,7 +90,7 @@ Developing methods to interpret CNN models can make them more trustworthy and ac
 Improving the efficiency of CNN models to process and analyze data in real-time can enhance their utility in live trading environments.
 
 ### 4. Increased Adoption in Retail Trading
-As platforms and educational resources grow, more retail traders will adopt CNNs for personal [trading strategies](../t/trading_strategies.md), democratizing access to advanced trading technologies.
+As platforms and educational resources grow, more retail traders will adopt CNNs for personal [trading strategies](../t/trading_strategies.md), democratizing access to advanced [trading technologies](../t/trading_technologies.md).
 
 ### 5. Ethical and Regulatory Considerations
 With the increased use of advanced algorithms, ethical and regulatory considerations will become more prominent. Ensuring that CNN-based [trading systems](../t/trading_systems.md) comply with regulations and ethical standards will be crucial.

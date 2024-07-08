@@ -129,7 +129,7 @@ Incorporating bullish [reversal patterns](../r/reversal_patterns.md) into an [al
 Many trading platforms and brokers provide APIs (Application Programming Interfaces) that allow developers to build and deploy [algorithmic trading](../a/algorithmic_trading.md) strategies. These APIs can be used to integrate [pattern recognition](../p/pattern_recognition.md) algorithms and execute trades based on the detection of bullish [reversal patterns](../r/reversal_patterns.md).
 
 **Example:**
-Platforms like MetaTrader 4/5, Interactive Brokers, and [Alpaca](../a/alpaca.md) provide APIs for [algorithmic trading](../a/algorithmic_trading.md).
+Platforms like MetaTrader 4/5, [Interactive Brokers](../i/interactive_brokers.md), and [Alpaca](../a/alpaca.md) provide APIs for [algorithmic trading](../a/algorithmic_trading.md).
 
 ### Real-Time Data Feeds
 

@@ -122,7 +122,7 @@ data['10MMA'] = data['Close'].rolling(window=10).mean()
 print(data[['Close', '10MMA']])
 ```
 
-In this example, we use Yahoo Finance to download historical monthly data for Apple Inc. (AAPL) and then calculate the 10-month moving average using the rolling function from the Pandas library.
+In this example, we use [Yahoo Finance](../y/yahoo_finance.md) to download historical monthly data for Apple Inc. (AAPL) and then calculate the 10-month moving average using the rolling function from the Pandas library.
 
 ### Integration with Trading Platforms
 

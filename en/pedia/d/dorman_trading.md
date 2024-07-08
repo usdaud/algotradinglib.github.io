@@ -6,7 +6,7 @@ Dorman Trading is a prominent futures brokerage firm that provides a comprehensi
 ## Key Features
 1. **Futures Trading**: Dorman Trading provides access to a broad array of futures markets, including commodities, financials, indices, and more. Clients can trade on major exchanges such as the CME, ICE, and Eurex.
 
-2. **Advanced Trading Platforms**: The firm offers multiple trading platforms to suit different trading styles and preferences, including popular platforms like NinjaTrader, CQG, Trading Technologies (TT), and more.
+2. **Advanced Trading Platforms**: The firm offers multiple trading platforms to suit different trading styles and preferences, including popular platforms like [NinjaTrader](../n/ninjatrader.md), [CQG](../c/cqg.md), [Trading Technologies](../t/trading_technologies.md) (TT), and more.
 
 3. **Clearing Services**: As a member of major futures exchanges, Dorman Trading provides clearing services, ensuring the smooth settlement of trades and the management of risk.
 
@@ -14,28 +14,28 @@ Dorman Trading is a prominent futures brokerage firm that provides a comprehensi
 
 5. **Customer Support**: Known for exceptional customer service, Dorman Trading offers dedicated support to help clients with account management, platform setup, and other trading-related inquiries.
 
-6. **Risk Management Tools**: The firm provides a variety of risk management tools and services to help traders manage their exposure and protect their capital.
+6. **[Risk Management](../r/risk_management.md) Tools**: The firm provides a variety of [risk management](../r/risk_management.md) tools and services to help traders manage their exposure and protect their capital.
 
 7. **Educational Resources**: Dorman Trading offers educational materials, including webinars, tutorials, and market analysis, to help traders improve their skills and stay informed about market developments.
 
 ## Benefits
 - **Reliable Execution**: Dorman Trading ensures reliable and timely execution of trades, which is crucial for active futures traders.
-- **Comprehensive Market Access**: Clients can trade a wide range of futures markets, providing opportunities to diversify and implement various trading strategies.
+- **Comprehensive Market Access**: Clients can trade a wide range of futures markets, providing opportunities to diversify and implement various [trading strategies](../t/trading_strategies.md).
 - **Advanced Technology**: With access to industry-leading trading platforms and technology, traders can execute their strategies effectively and efficiently.
 - **Personalized Support**: The firm's commitment to exceptional customer service ensures that clients receive personalized support and assistance.
-- **Clearing and Settlement**: As a clearing member of major exchanges, Dorman Trading provides seamless clearing and settlement services, enhancing the trading experience for clients.
+- **[Clearing and Settlement](../c/clearing_and_settlement.md)**: As a clearing member of major exchanges, Dorman Trading provides seamless [clearing and settlement](../c/clearing_and_settlement.md) services, enhancing the trading experience for clients.
 
 ## Use Cases
-- **Individual Futures Traders**: Access to a wide range of futures markets and advanced trading platforms to execute trading strategies.
+- **Individual Futures Traders**: Access to a wide range of futures markets and advanced trading platforms to execute [trading strategies](../t/trading_strategies.md).
 - **Institutional Clients**: Reliable execution and clearing services for institutional trading desks and hedge funds.
 - **Introducing Brokers**: Comprehensive support and services to help IBs grow their business and support their clients.
-- **Risk Management**: Tools and services to help traders manage risk and protect their capital.
+- **[Risk Management](../r/risk_management.md)**: Tools and services to help traders manage risk and protect their capital.
 
 ## Integration and APIs
-Dorman Trading supports various trading platforms and APIs to facilitate seamless integration with clients' trading systems:
-- **CQG API**: High-performance API for accessing market data and executing trades on the CQG platform.
-- **Trading Technologies (TT) API**: Robust API for building custom trading applications and integrating with the TT platform.
-- **NinjaTrader API**: Flexible API for algorithmic trading and custom strategy development on the NinjaTrader platform.
+Dorman Trading supports various trading platforms and APIs to facilitate seamless integration with clients' [trading systems](../t/trading_systems.md):
+- **[CQG](../c/cqg.md) API**: High-performance API for accessing market data and executing trades on the [CQG](../c/cqg.md) platform.
+- **[Trading Technologies](../t/trading_technologies.md) (TT) API**: Robust API for building custom trading applications and integrating with the TT platform.
+- **[NinjaTrader](../n/ninjatrader.md) API**: Flexible API for [algorithmic trading](../a/algorithmic_trading.md) and custom strategy development on the [NinjaTrader](../n/ninjatrader.md) platform.
 
 ## Clients and Partners
 Dorman Trading serves a diverse range of clients, including:
@@ -45,7 +45,7 @@ Dorman Trading serves a diverse range of clients, including:
 
 ## Regulatory Compliance
 Dorman Trading is a registered futures commission merchant (FCM) and is regulated by:
-- **Commodity Futures Trading Commission (CFTC)**
+- **[Commodity Futures](../c/commodity_futures.md) Trading Commission (CFTC)**
 - **National Futures Association (NFA)**
 
 These regulatory bodies ensure that Dorman Trading adheres to strict standards of financial integrity and customer protection.

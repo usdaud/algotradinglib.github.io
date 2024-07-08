@@ -23,6 +23,6 @@ AmiBroker is a powerful [technical analysis](../t/technical_analysis.md) and tra
 ## Integrations
 AmiBroker integrates with multiple data feeds and brokerage platforms to provide a seamless trading experience. Some of the notable integrations include:
 
-- **Market Data Providers**: Supports real-time and historical data from providers like Interactive Brokers, [eSignal](../e/esignal.md), and [IQFeed](../i/iqfeed.md).
-- **Brokerage Firms**: Compatible with brokers such as Interactive Brokers for direct trading execution.
+- **Market Data Providers**: Supports real-time and historical data from providers like [Interactive Brokers](../i/interactive_brokers.md), [eSignal](../e/esignal.md), and [IQFeed](../i/iqfeed.md).
+- **Brokerage Firms**: Compatible with brokers such as [Interactive Brokers](../i/interactive_brokers.md) for direct trading execution.
 - **Third-Party Plugins**: Extensive support for third-party plugins and APIs to enhance functionality and connect with other trading tools and services.

@@ -92,7 +92,7 @@ The shape of the [yield curve](../y/yield_curve.md), which plots Treasury yields
 Several platforms and tools facilitate [algorithmic trading](../a/algorithmic_trading.md) of Treasury securities:
 - **[Bloomberg](../b/bloomberg.md) Terminal:** Provides real-time data and analytics for Treasury markets.
 - **[TradeStation](../t/tradestation.md):** Offers [algorithmic trading](../a/algorithmic_trading.md) capabilities with instruments linked to Treasury securities.
-- **Interactive Brokers:** Supports trading in Treasury futures and options.
+- **[Interactive Brokers](../i/interactive_brokers.md):** Supports trading in Treasury futures and options.
 
 For more information on some of these tools, you can visit the respective official websites:
 - [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)

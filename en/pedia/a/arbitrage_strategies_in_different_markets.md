@@ -88,7 +88,7 @@ In the case of bond and credit default swap (CDS) [arbitrage](../a/arbitrage.md)
 The relatively new and less efficient cryptocurrency markets offer unique [arbitrage](../a/arbitrage.md) opportunities due to significant price differences across various exchanges.
 
 **Example:**
-A bitcoin arbitrageur might notice price differences for Bitcoin on Binance and Coinbase. By buying Bitcoin at a lower price on one exchange and selling it at a higher price on the other, they can capture a risk-free profit after accounting for trading fees.
+A bitcoin arbitrageur might notice price differences for Bitcoin on [Binance](../b/binance.md) and [Coinbase](../c/coinbase.md). By buying Bitcoin at a lower price on one exchange and selling it at a higher price on the other, they can capture a risk-free profit after accounting for trading fees.
 
 ### **Derivative Markets**
 

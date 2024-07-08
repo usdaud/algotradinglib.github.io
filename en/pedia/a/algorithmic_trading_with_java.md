@@ -14,13 +14,13 @@ To start developing [algorithmic trading](../a/algorithmic_trading.md) systems w
 
 3. **Maven or Gradle**: These are powerful build automation tools used for dependency management. Integrating a build tool with your project can significantly streamline the development process. Maven can be downloaded and installed from the [Apache Maven website](https://maven.apache.org/download.cgi).
 
-4. **APIs and Libraries**: To interact with financial markets and retrieve real-time data, you will need APIs and libraries such as Yahoo Finance API, Alpha Vantage, or even proprietary APIs offered by specific trading platforms. For instance, [Alpaca](../a/alpaca.md) offers an API specifically designed for algo trading which can be found [here](https://alpaca.markets/docs/api-documentation/).
+4. **APIs and Libraries**: To interact with financial markets and retrieve real-time data, you will need APIs and libraries such as [Yahoo Finance](../y/yahoo_finance.md) API, Alpha Vantage, or even proprietary APIs offered by specific trading platforms. For instance, [Alpaca](../a/alpaca.md) offers an API specifically designed for algo trading which can be found [here](https://alpaca.markets/docs/api-documentation/).
 
 ## Data Collection and Preparation
 
 Data is the cornerstone of any [algorithmic trading](../a/algorithmic_trading.md) strategy. The accuracy, quality, and relevance of the data directly impact the performance of your trading algorithm. Here are some common sources of financial data:
 
-- **Yahoo Finance API**: Allows for fetching historical data, real-time quotes, and other financial information. It can be accessed from [Yahoo Finance](https://www.yahoofinanceapi.com/).
+- **[Yahoo Finance](../y/yahoo_finance.md) API**: Allows for fetching historical data, real-time quotes, and other financial information. It can be accessed from [Yahoo Finance](https://www.yahoofinanceapi.com/).
 - **Alpha Vantage API**: Provides a wide range of financial data, including real-time and historical data. It can be accessed from [Alpha Vantage](https://www.alphavantage.co/).
 - **[Quandl](../q/quandl.md)**: Offers comprehensive data on various financial instruments like stocks, commodities, and cryptocurrencies. [Quandl](../q/quandl.md) can be accessed from [here](https://www.quandl.com/).
 

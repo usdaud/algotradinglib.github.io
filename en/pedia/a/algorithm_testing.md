@@ -24,7 +24,7 @@ There are several key types of testing that algorithmic traders employ to ensure
 Forward testing, also known as paper trading, involves running the algorithm in a live market environment but using a simulated account. This allows traders to see how their algorithm performs in real-time without risking actual money.
 
 **Tools for Forward Testing:**
-- **Interactive Brokers Paper Trading** ([link](https://www.interactivebrokers.com/))
+- **[Interactive Brokers](../i/interactive_brokers.md) Paper Trading** ([link](https://www.interactivebrokers.com/))
 - **[Thinkorswim](../t/thinkorswim.md) PaperMoney** ([link](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page))
 
 ### 3. Key Considerations in Algorithm Testing
@@ -101,7 +101,7 @@ There are several key types of testing that algorithmic traders employ to ensure
 Forward testing, also known as paper trading, involves running the algorithm in a live market environment but using a simulated account. This allows traders to see how their algorithm performs in real-time without risking actual money.
 
 **Tools for Forward Testing:**
-- **Interactive Brokers Paper Trading** ([link](https://www.interactivebrokers.com/))
+- **[Interactive Brokers](../i/interactive_brokers.md) Paper Trading** ([link](https://www.interactivebrokers.com/))
 - **[Thinkorswim](../t/thinkorswim.md) PaperMoney** ([link](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page))
 
 ### 3. Key Considerations in Algorithm Testing

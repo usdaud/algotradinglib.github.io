@@ -134,7 +134,7 @@ BlackRock is one of the world's largest investment management firms, offering a 
 [Visit BlackRock](https://www.blackrock.com)
 
 ### Fidelity Investments
-Fidelity Investments provides comprehensive bond [portfolio management](../p/portfolio_management.md) services, including mutual funds, ETFs, and individual bonds. Fidelity's fixed income team emphasizes research-driven investment strategies.
+[Fidelity Investments](../f/fidelity_investments.md) provides comprehensive bond [portfolio management](../p/portfolio_management.md) services, including mutual funds, ETFs, and individual bonds. Fidelity's fixed income team emphasizes research-driven investment strategies.
 [Visit Fidelity Investments](https://www.fidelity.com)
 
 ### Vanguard

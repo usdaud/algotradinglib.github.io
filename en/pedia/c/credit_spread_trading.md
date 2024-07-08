@@ -44,7 +44,7 @@ To implement credit [spread trading](../s/spread_trading.md) using algorithms, t
 1. **Strategy Development**: The first step is to develop a robust trading strategy that includes criteria for selecting underlying assets, expiration dates, and strike prices. This strategy should be backtested using historical data to ensure its viability.
 2. **[Algorithm Design](../a/algorithm_design.md)**: Once the strategy is developed, the next step is to design the algorithm that will execute the trades. This involves coding the strategy using programming languages such as Python, C++, or proprietary platforms provided by trading firms.
 3. **Connectivity and Execution**: The algorithm must be connected to the brokerage firm's trading platform for execution. Many firms provide APIs (Application Programming Interfaces) that facilitate this connectivity, allowing for seamless order placement.
-   - Example: Interactive Brokers [API](https://www.interactivebrokers.com/en/index.php?f=5041) offers a suite of tools for automated trading.
+   - Example: [Interactive Brokers](../i/interactive_brokers.md) [API](https://www.interactivebrokers.com/en/index.php?f=5041) offers a suite of tools for automated trading.
 4. **[Risk Management](../r/risk_management.md) and Monitoring**: Establishing [risk management](../r/risk_management.md) protocols within the algorithm is crucial. This includes setting [stop-loss orders](../s/stop-loss_orders.md), adjusting positions based on market conditions, and continuously monitoring the performance.
 5. **Optimization and Refinement**: As market conditions change, the algorithm must be regularly optimized and refined. This ongoing process ensures that the strategy adapts to new data and maintains its effectiveness.
 

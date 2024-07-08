@@ -21,7 +21,7 @@ At its core, dividend capture involves buying shares of a company before the div
 
 Technological innovation and [algorithmic trading](../a/algorithmic_trading.md) platforms have amplified the efficiency and speed with which traders can execute dividend capture strategies. Some tools used include:
 
-- **Automated Trading Platforms**: Platforms like [TradeStation](../t/tradestation.md) and Interactive Brokers offer features for swift execution and analysis. 
+- **Automated Trading Platforms**: Platforms like [TradeStation](../t/tradestation.md) and [Interactive Brokers](../i/interactive_brokers.md) offer features for swift execution and analysis. 
   - [TradeStation](https://www.tradestation.com/)
   - [Interactive Brokers](https://www.interactivebrokers.com/)
 

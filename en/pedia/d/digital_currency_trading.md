@@ -15,8 +15,8 @@ There are numerous digital currencies, each with its own features and uses. Some
 
 Digital currency trading platforms act as intermediaries that facilitate the buying and selling of cryptocurrencies. Some of the most prominent trading platforms include:
 
-- **Coinbase** ([coinbase.com](https://www.coinbase.com)): A popular platform for beginners due to its user-friendly interface.
-- **Binance** ([binance.com](https://www.binance.com)): Known for its extensive list of supported coins and lower transaction fees.
+- **[Coinbase](../c/coinbase.md)** ([coinbase.com](https://www.coinbase.com)): A popular platform for beginners due to its user-friendly interface.
+- **[Binance](../b/binance.md)** ([binance.com](https://www.binance.com)): Known for its extensive list of supported coins and lower transaction fees.
 - **Kraken** ([kraken.com](https://www.kraken.com)): Offers a comprehensive range of features, including [margin trading](../m/margin_trading.md) and staking.
 - **Bitfinex** ([bitfinex.com](https://www.bitfinex.com)): Known for its advanced trading features and liquidity.
 

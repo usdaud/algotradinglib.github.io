@@ -44,9 +44,9 @@ MetaTrader is one of the most widely used platforms in the retail trading world.
 - [QuantConnect](../q/quantconnect.md) [Website](https://www.quantconnect.com/)
 
 ### Interactive Brokers
-Interactive Brokers (IB) is a well-known brokerage that offers its own trading platform called Trader Workstation (TWS). TWS supports [algorithmic trading](../a/algorithmic_trading.md) through its API, which can be used with various programming languages like Java, Python, and C++.
+[Interactive Brokers](../i/interactive_brokers.md) (IB) is a well-known brokerage that offers its own trading platform called Trader Workstation (TWS). TWS supports [algorithmic trading](../a/algorithmic_trading.md) through its API, which can be used with various programming languages like Java, Python, and C++.
 
-- Interactive Brokers [Website](https://www.interactivebrokers.com/)
+- [Interactive Brokers](../i/interactive_brokers.md) [Website](https://www.interactivebrokers.com/)
 
 ### TradeStation
 [TradeStation](../t/tradestation.md) offers a comprehensive suite of tools for [algorithmic trading](../a/algorithmic_trading.md), with a focus on customization and advanced analytics. It features EasyLanguage, a proprietary scripting language designed to simplify the development of [trading strategies](../t/trading_strategies.md).
@@ -59,9 +59,9 @@ Interactive Brokers (IB) is a well-known brokerage that offers its own trading p
 - [Alpaca](../a/alpaca.md) [Website](https://alpaca.markets/)
 
 ### IBKR API
-Interactive Brokers offers a powerful API that allows traders to build custom trading applications. The API supports multiple languages such as Java, Python, C++, and more. It provides functionalities for market data retrieval, order execution, and account management.
+[Interactive Brokers](../i/interactive_brokers.md) offers a powerful API that allows traders to build custom trading applications. The API supports multiple languages such as Java, Python, C++, and more. It provides functionalities for market data retrieval, order execution, and account management.
 
-- Interactive Brokers API [Website](https://www.interactivebrokers.com/en/software/api/api.htm)
+- [Interactive Brokers](../i/interactive_brokers.md) API [Website](https://www.interactivebrokers.com/en/software/api/api.htm)
 
 ### TDAmeritrade ThinkOrSwim
 [ThinkOrSwim](../t/thinkorswim.md) is the trading platform offered by TDAmeritrade. Known for its rich feature set, it supports scripting through its proprietary ThinkScript language, enabling the development of complex [trading strategies](../t/trading_strategies.md). It also offers robust analysis tools and detailed data feeds.

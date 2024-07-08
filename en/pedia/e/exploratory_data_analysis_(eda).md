@@ -81,7 +81,7 @@ EDA can be performed using various software tools and programming languages, wit
 To illustrate the application of EDA in [algorithmic trading](../a/algorithmic_trading.md), let's take a hypothetical scenario where a quantitative analyst is looking to develop a trading strategy for a set of equities.
 
 1. **Data Collection:**
-   - Collect historical price data for equities from data providers such as Yahoo Finance, [Bloomberg](../b/bloomberg.md), or [Quandl](../q/quandl.md).
+   - Collect historical price data for equities from data providers such as [Yahoo Finance](../y/yahoo_finance.md), [Bloomberg](../b/bloomberg.md), or [Quandl](../q/quandl.md).
 
 2. **Data Preprocessing:**
    - Load the data into a Pandas DataFrame and check for missing values or anomalies.

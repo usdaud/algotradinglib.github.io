@@ -43,7 +43,7 @@ To set up your environment for [algorithmic trading](../a/algorithmic_trading.md
 
 ## Data Collection
 
-Accessing accurate and timely financial data is critical for [algorithmic trading](../a/algorithmic_trading.md). Several sources provide financial data, but for this example, we will use [Quandl](../q/quandl.md) and Yahoo Finance for simplicity.
+Accessing accurate and timely financial data is critical for [algorithmic trading](../a/algorithmic_trading.md). Several sources provide financial data, but for this example, we will use [Quandl](../q/quandl.md) and [Yahoo Finance](../y/yahoo_finance.md) for simplicity.
 
 ### Using Quantmod for Data Collection
 
@@ -55,7 +55,7 @@ getSymbols("AAPL", src = "yahoo", from = "2020-01-01", to = "2023-01-01")
 chartSeries(AAPL)
 ```
 
-In this example, the `getSymbols` function downloads historical stock data for Apple Inc. from Yahoo Finance.
+In this example, the `getSymbols` function downloads historical stock data for Apple Inc. from [Yahoo Finance](../y/yahoo_finance.md).
 
 ### Using APIs for Data Collection
 
@@ -178,7 +178,7 @@ Execution involves actually placing the trades in the market. This can be done t
 
 ### Interactive Brokers API
 
-Interactive Brokers (IB) is a popular broker for [algorithmic trading](../a/algorithmic_trading.md) due to its comprehensive API. Here’s a brief overview of how to place trades using the Interactive Brokers API in R:
+[Interactive Brokers](../i/interactive_brokers.md) (IB) is a popular broker for [algorithmic trading](../a/algorithmic_trading.md) due to its comprehensive API. Here’s a brief overview of how to place trades using the [Interactive Brokers](../i/interactive_brokers.md) API in R:
 
 1. **Install IBrokers Package:** Install and load the package:
    ```r

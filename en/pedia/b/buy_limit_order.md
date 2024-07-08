@@ -45,7 +45,7 @@ Several trading platforms and brokerages offer buy limit order functionality, of
 
 ### Interactive Brokers
 
-Interactive Brokers is a global brokerage firm known for its comprehensive trading platforms and tools. Their Trader Workstation (TWS) supports complex order types, including buy limit orders, which can be integrated into [algorithmic trading](../a/algorithmic_trading.md) strategies. More information can be found on their [website](https://www.interactivebrokers.com).
+[Interactive Brokers](../i/interactive_brokers.md) is a global brokerage firm known for its comprehensive trading platforms and tools. Their Trader Workstation (TWS) supports complex order types, including buy limit orders, which can be integrated into [algorithmic trading](../a/algorithmic_trading.md) strategies. More information can be found on their [website](https://www.interactivebrokers.com).
 
 ### TradeStation
 
@@ -61,6 +61,6 @@ Buy limit orders are a critical component of disciplined, strategy-driven tradin
 
 ## References
 
-- Interactive Brokers: [Interactive Brokers Official Site](https://www.interactivebrokers.com)
+- [Interactive Brokers](../i/interactive_brokers.md): [Interactive Brokers Official Site](https://www.interactivebrokers.com)
 - [TradeStation](../t/tradestation.md): [TradeStation Official Site](https://www.tradestation.com)
 - [QuantConnect](../q/quantconnect.md): [QuantConnect Official Site](https://www.quantconnect.com)

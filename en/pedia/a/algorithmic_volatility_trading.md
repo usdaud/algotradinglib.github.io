@@ -51,7 +51,7 @@ For algorithmic volatility trading, using sophisticated software platforms and t
 3. **Kdb+/Q:**
     This is a high-performance column-store database, optimized for big data and analytic applications used in market data storage and processing. (https://kx.com/)
 
-4. **Interactive Brokers:**
+4. **[Interactive Brokers](../i/interactive_brokers.md):**
     A platform known for its API capabilities, allowing for automated trading across various asset classes. (https://www.interactivebrokers.com/)
 
 ### Companies in Algorithmic Volatility Trading
