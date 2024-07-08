@@ -21,7 +21,8 @@ layout: base
 </div>
 
 <div id="catalog-list">
-  {% for item in page.catalog %}
+  {% assign sorted_catalog = page.catalog | sort: 'name' %}
+  {% for item in sorted_catalog %}
     <div class="catalog-item" data-filters="{{ item.filters | join: ',' }}">
       <div class="item-header">
         <img src="{{ item.logo | relative_url }}" alt="{{ item.name }} logo">
