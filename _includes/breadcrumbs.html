@@ -8,8 +8,13 @@
       {% else %}
         {% assign crumb_limit = forloop.index | plus: 2 %}
         {% capture crumb_url %}{% for c in crumbs limit: crumb_limit %}{{ c | append: '/' }}{% endfor %}{% endcapture %}
-        {% assign crumb_key = crumb %}
-        <li class="breadcrumb-item"><a href="{{ crumb_url }}">{{ locale[crumb_key] | default: crumb | capitalize }}</a></li>
+        {% assign crumb_page = site.pages | where: "url", crumb_url | first %}
+        {% if crumb_page and crumb_page.title %}
+          <li class="breadcrumb-item"><a href="{{ crumb_url }}">{{ crumb_page.title }}</a></li>
+        {% else %}
+          {% assign crumb_key = crumb %}
+          <li class="breadcrumb-item"><a href="{{ crumb_url }}">{{ locale[crumb_key] | default: crumb | capitalize }}</a></li>
+        {% endif %}
       {% endif %}
     {% endfor %}
   </ol>
