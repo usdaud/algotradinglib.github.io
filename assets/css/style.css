@@ -112,6 +112,7 @@ footer a:hover {
     border: none;
     cursor: pointer;
     z-index: 1002;
+    position: relative;
 }
 
 .menu-toggle span {
@@ -477,6 +478,8 @@ footer a:hover .github-icon {
 @media (max-width: 768px) {
     .menu-toggle {
         display: block;
+        opacity: 1;
+        pointer-events: auto;
     }
 
     .header-content {
@@ -529,10 +532,22 @@ footer a:hover .github-icon {
         margin-top: 15px;
     }
 
+    header .breadcrumb {
+        display: none;
+    }
+
+    nav.active + .breadcrumb {
+        display: flex;
+        position: fixed;
+        top: 60px;
+        left: 0;
+        right: 0;
+        z-index: 1000;
+    }
+
     .breadcrumb {
         font-size: 0.9rem;
         padding: 0.5rem;
-        margin-top: 60px;
     }
 
     .breadcrumb-item + .breadcrumb-item {
