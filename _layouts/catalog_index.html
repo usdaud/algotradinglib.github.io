@@ -48,18 +48,24 @@ layout: base
         <div class="additional-links">
           {% if page.section == 'soft' %}
             {% if item.supported_data_providers.size > 0 %}
-              <a href="/{{ page.lang }}/market-data/?item={{ item.name | url_encode }}" class="data-providers-link" title="Data Providers">
+              <a href="/{{ page.lang }}/market-data/?software={{ item.name | url_encode }}" class="data-providers-link" title="Data Providers">
                 <i class="fas fa-chart-line"></i>
               </a>
             {% endif %}
             {% if item.supported_brokers.size > 0 %}
-              <a href="/{{ page.lang }}/brokers/?item={{ item.name | url_encode }}" class="brokers-link" title="Brokers">
+              <a href="/{{ page.lang }}/brokers/?software={{ item.name | url_encode }}" class="brokers-link" title="Brokers">
                 <i class="fas fa-exchange-alt"></i>
               </a>
             {% endif %}
-          {% elsif page.section == 'market-data' or page.section == 'brokers' %}
+          {% elsif page.section == 'market-data' %}
             {% if item.supported_software.size > 0 %}
-              <a href="/{{ page.lang }}/soft/?item={{ item.name | url_encode }}" class="software-link" title="Software">
+              <a href="/{{ page.lang }}/soft/?data-provider={{ item.name | url_encode }}" class="software-link" title="Software">
+                <i class="fas fa-laptop-code"></i>
+              </a>
+            {% endif %}
+          {% elsif page.section == 'brokers' %}
+            {% if item.supported_software.size > 0 %}
+              <a href="/{{ page.lang }}/soft/?broker={{ item.name | url_encode }}" class="software-link" title="Software">
                 <i class="fas fa-laptop-code"></i>
               </a>
             {% endif %}
@@ -84,7 +90,15 @@ document.addEventListener('DOMContentLoaded', function() {
       searchParams.append('filter', Array.from(activeFilters).join(','));
     }
     if (activeItem) {
-      searchParams.append('item', activeItem);
+      if (page.section === 'soft') {
+        if (urlParams.has('data-provider')) {
+          searchParams.append('data-provider', activeItem);
+        } else if (urlParams.has('broker')) {
+          searchParams.append('broker', activeItem);
+        }
+      } else {
+        searchParams.append('software', activeItem);
+      }
     }
     const queryString = searchParams.toString();
     const newURL = queryString 
@@ -130,9 +144,11 @@ document.addEventListener('DOMContentLoaded', function() {
 
   const urlParams = new URLSearchParams(window.location.search);
   const urlFilters = urlParams.get('filter') ? urlParams.get('filter').split(',') : [];
-  const urlItem = urlParams.get('item');
+  const urlDataProvider = urlParams.get('data-provider');
+  const urlBroker = urlParams.get('broker');
+  const urlSoftware = urlParams.get('software');
   
-  if (urlFilters.length > 0 || urlItem) {
+  if (urlFilters.length > 0 || urlDataProvider || urlBroker || urlSoftware) {
     urlFilters.forEach(filter => {
       const lowercaseFilter = filter.toLowerCase();
       const button = Array.from(filterButtons).find(btn => 
@@ -144,8 +160,8 @@ document.addEventListener('DOMContentLoaded', function() {
       }
     });
     
-    if (urlItem) {
-      activeItem = decodeURIComponent(urlItem);
+    if (urlDataProvider || urlBroker || urlSoftware) {
+      activeItem = decodeURIComponent(urlDataProvider || urlBroker || urlSoftware);
     }
     
     applyFilters();
@@ -156,7 +172,9 @@ document.addEventListener('DOMContentLoaded', function() {
     activeItem = null;
     const urlParams = new URLSearchParams(window.location.search);
     const urlFilters = urlParams.get('filter') ? urlParams.get('filter').split(',') : [];
-    const urlItem = urlParams.get('item');
+    const urlDataProvider = urlParams.get('data-provider');
+    const urlBroker = urlParams.get('broker');
+    const urlSoftware = urlParams.get('software');
     
     filterButtons.forEach(button => {
       if (urlFilters.some(filter => filter.toLowerCase() === button.dataset.filter.toLowerCase())) {
@@ -167,8 +185,8 @@ document.addEventListener('DOMContentLoaded', function() {
       }
     });
     
-    if (urlItem) {
-      activeItem = decodeURIComponent(urlItem);
+    if (urlDataProvider || urlBroker || urlSoftware) {
+      activeItem = decodeURIComponent(urlDataProvider || urlBroker || urlSoftware);
     }
     
     applyFilters();
