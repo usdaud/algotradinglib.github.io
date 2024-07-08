@@ -37,7 +37,7 @@
             <nav class="main-nav">
                 <ul>
                     {% assign current_url = page.url | downcase %}
-                    {% capture home_url %}{% if page.lang != 'en' %}/{{ page.lang }}{% endif %}/{% endcapture %}
+                    {% capture home_url %}/{{ page.lang }}/{% endcapture %}
                     <li>
                         <a href="{{ home_url }}" {% if current_url == home_url %}class="active"{% endif %}>
                             {{ locale.home }}
