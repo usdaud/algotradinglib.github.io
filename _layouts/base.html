@@ -1,9 +1,4 @@
 {% assign locale = page.locale %}
-<!-- DEBUG: base.html -->
-<!-- 
-page.lang: {{ page.lang }}
-locale: {{ locale | inspect }}
--->
 <!DOCTYPE html>
 <html lang="{{ page.lang }}">
 <head>
@@ -32,7 +27,7 @@ locale: {{ locale | inspect }}
                 <a href="{{ "/" | append: page.lang | relative_url }}" class="logo">
                     <img src="{{ "/assets/images/favicon.svg" | relative_url }}" alt="AlgoTradingLib Logo">
                 </a>
-                <h1 class="site-title">{{ locale.title | default: "Algorithmic Trading Library" }}</h1>
+                <h1 class="site-title">{{ locale.title }}</h1>
             </div>
             <button class="menu-toggle" aria-label="Toggle menu">
                 <span></span>
@@ -45,32 +40,32 @@ locale: {{ locale | inspect }}
                     {% capture home_url %}{% if page.lang != 'en' %}/{{ page.lang }}{% endif %}/{% endcapture %}
                     <li>
                         <a href="{{ home_url }}" {% if current_url == home_url %}class="active"{% endif %}>
-                            {{ locale.home | default: "Home" }}
+                            {{ locale.home }}
                         </a>
                     </li>
                     <li>
                         <a href="/{{ page.lang }}/soft/" {% if current_url contains '/soft/' %}class="active"{% endif %}>
-                            {{ locale.software | default: "Software" }}
+                            {{ locale.software }}
                         </a>
                     </li>
                     <li>
                         <a href="/{{ page.lang }}/brokers/" {% if current_url contains '/brokers/' %}class="active"{% endif %}>
-                            {{ locale.brokers | default: "Brokers" }}
+                            {{ locale.brokers }}
                         </a>
                     </li>
                     <li>
                         <a href="/{{ page.lang }}/market-data/" {% if current_url contains '/market-data/' %}class="active"{% endif %}>
-                            {{ locale.marketdata | default: "Market Data" }}
+                            {{ locale.marketdata }}
                         </a>
                     </li>
                     <li>
                         <a href="/{{ page.lang }}/community/" {% if current_url contains '/community/' %}class="active"{% endif %}>
-                            {{ locale.community | default: "Community" }}
+                            {{ locale.community }}
                         </a>
                     </li>
                     <li>
                         <a href="/{{ page.lang }}/pedia/" {% if current_url contains '/pedia/' %}class="active"{% endif %}>
-                            {{ locale.algopedia | default: "Algopedia" }}
+                            {{ locale.algopedia }}
                         </a>
                     </li>
                     <li class="mobile-language-selector">
@@ -99,7 +94,7 @@ locale: {{ locale | inspect }}
 
     <footer>
         <div class="footer-content">
-            <p>&copy; {{ site.time | date: '%Y' }} AlgoTradingLib. {{ locale.footer_copyright | default: "AlgoTradingLib" }}</p>
+            <p>&copy; {{ site.time | date: '%Y' }} {{ locale.footer_copyright }}</p>
             <p>{{ locale.footer_contact }}: info@algotradinglib.com</p>
             <p>
                 <a href="https://github.com/junsan1/junsan1.github.io/" target="_blank" rel="noopener noreferrer">
