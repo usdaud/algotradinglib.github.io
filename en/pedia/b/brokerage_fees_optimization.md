@@ -49,7 +49,7 @@ In [algorithmic trading](../a/algorithmic_trading.md), where trades are executed
 ## Case Studies and Examples
 
 ### Interactive Brokers [Interactive Brokers](https://www.interactivebrokers.com/)
-Interactive Brokers offers a tiered fee structure where the per-share fee reduces as the monthly trading volume increases. They also provide the Trader Workstation (TWS) platform that includes TCA tools to help traders understand and minimize their [trading costs](../t/trading_costs.md).
+[Interactive Brokers](../i/interactive_brokers.md) offers a tiered fee structure where the per-share fee reduces as the monthly trading volume increases. They also provide the Trader Workstation (TWS) platform that includes TCA tools to help traders understand and minimize their [trading costs](../t/trading_costs.md).
 
 ### Robinhood [Robinhood](https://robinhood.com/)
 [Robinhood](../r/robinhood.md) popularized commission-free trading for retail investors. While they do not charge commissions, they make money through a process called payment for order flow, where market makers pay [Robinhood](../r/robinhood.md) to execute trades.

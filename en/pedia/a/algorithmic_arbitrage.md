@@ -30,7 +30,7 @@ The efficiency of algorithmic [arbitrage](../a/arbitrage.md) relies heavily on t
 [Trading algorithms](../t/trading_algorithms.md) are scripts or programs designed to identify [arbitrage](../a/arbitrage.md) opportunities and execute trades. These can range from simple statistical models to complex machine learning algorithms. They must be rigorously backtested using historical data to ensure their profitability and robustness.
 
 ### Trade Execution Systems
-Once a trading opportunity is identified, the trades must be executed swiftly to capitalize on it. High-frequency [trading systems](../t/trading_systems.md) and connections to multiple exchanges are often employed to minimize latency. Companies such as Kx Systems (https://www.kx.com) and Trading Technologies (https://www.tradingtechnologies.com) provide advanced execution platforms.
+Once a trading opportunity is identified, the trades must be executed swiftly to capitalize on it. High-frequency [trading systems](../t/trading_systems.md) and connections to multiple exchanges are often employed to minimize latency. Companies such as Kx Systems (https://www.kx.com) and [Trading Technologies](../t/trading_technologies.md) (https://www.tradingtechnologies.com) provide advanced execution platforms.
 
 ### Risk Management
 [Risk management](../r/risk_management.md) is crucial given the automated nature of [algorithmic trading](../a/algorithmic_trading.md). Techniques include diversification, [stop-loss orders](../s/stop-loss_orders.md), and real-time monitoring of positions to mitigate potential losses. Software solutions from firms like Axioma (https://www.axioma.com) and RiskMetrics can be integrated to monitor risk parameters.

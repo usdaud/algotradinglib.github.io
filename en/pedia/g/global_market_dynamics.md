@@ -63,7 +63,7 @@ A rapid market decline caused significant disruptions, highlighting the interdep
 The pandemic created unprecedented volatility, emphasizing the importance of [adaptive algorithms](../a/adaptive_algorithms.md) in managing market shocks (https://www.brookings.edu/research/global-economic-effects-of-covid-19/).
 
 ### Cryptocurrencies and Blockchain
-The rise of digital currencies has introduced new dynamic elements, significantly impacting global financial markets (https://www.coinbase.com/).
+The rise of digital currencies has introduced new dynamic elements, significantly impacting global financial markets (https://www.[coinbase](../c/coinbase.md).com/).
 
 ## Challenges in Navigating Global Market Dynamics
 

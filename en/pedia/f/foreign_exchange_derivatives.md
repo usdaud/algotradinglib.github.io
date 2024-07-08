@@ -69,7 +69,7 @@ Central banks may use forex [derivatives](../d/derivatives.md) to manage nationa
 
 While the majority of forex [derivatives](../d/derivatives.md) trading is institutional, individual traders also participate, mainly through platforms offering retail forex trading. These traders seek to profit from short-term currency movements and may use leveraged products.
 
-- **Example:** Online trading platforms like IG Group [Link](https://www.ig.com/) provide access to forex [derivatives](../d/derivatives.md) for individual investors.
+- **Example:** Online trading platforms like [IG Group](../i/ig_group.md) [Link](https://www.ig.com/) provide access to forex [derivatives](../d/derivatives.md) for individual investors.
 
 ## Regulatory Environment
 

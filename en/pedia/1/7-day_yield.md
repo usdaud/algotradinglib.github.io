@@ -55,7 +55,7 @@ Vanguard is one of the leading global investment firms known for its variety of 
 
 ### Example 2: Fidelity Investments
 
-Fidelity Investments provides comprehensive data on the 7-day yields of its money market funds as part of its performance reporting. This data helps both individual investors and [algorithmic trading](../a/algorithmic_trading.md) systems evaluate the fund's short-term performance and make informed decisions. More details can be found at [Fidelity's official website](https://www.fidelity.com).
+[Fidelity Investments](../f/fidelity_investments.md) provides comprehensive data on the 7-day yields of its money market funds as part of its performance reporting. This data helps both individual investors and [algorithmic trading](../a/algorithmic_trading.md) systems evaluate the fund's short-term performance and make informed decisions. More details can be found at [Fidelity's official website](https://www.fidelity.com).
 
 ### Example 3: Charles Schwab
 

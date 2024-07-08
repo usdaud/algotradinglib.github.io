@@ -4,7 +4,7 @@ Buy side strategies are essential components of the financial markets, particula
 
 ## Introduction to Buy Side Firms
 
-Buy side firms manage large pools of capital and aim to generate returns by making strategic investments. They typically operate with longer investment horizons compared to sell side firms, which are usually involved in facilitating transactions for clients and market-making activities. Notable buy side firms include BlackRock, Vanguard Group, and Fidelity Investments. 
+Buy side firms manage large pools of capital and aim to generate returns by making strategic investments. They typically operate with longer investment horizons compared to sell side firms, which are usually involved in facilitating transactions for clients and market-making activities. Notable buy side firms include BlackRock, Vanguard Group, and [Fidelity Investments](../f/fidelity_investments.md). 
 
 ### BlackRock
 BlackRock is one of the largest investment management firms globally, managing assets worth trillions of dollars. They provide a broad range of investment services and solutions to institutional and retail clients. More information can be found on their [official website](https://www.blackrock.com).

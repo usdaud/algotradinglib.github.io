@@ -108,7 +108,7 @@ cerebro.plot()
 In this example:
 - We define a strategy (`SmaCross`) that enters a long position when a short-term moving average crosses above a long-term moving average.
 - We initialize the `cerebro` engine and add our strategy.
-- We add a data feed from Yahoo Finance for Apple (AAPL) stock.
+- We add a data feed from [Yahoo Finance](../y/yahoo_finance.md) for Apple (AAPL) stock.
 - We set an initial capital amount.
 - We run the backtest and plot the results.
 

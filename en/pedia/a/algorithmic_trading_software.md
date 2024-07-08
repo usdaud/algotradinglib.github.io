@@ -25,7 +25,7 @@
      - **Fidessa**: Offers [multi-asset trading](../m/multi-asset_trading.md) and investment infrastructure.
      - **[Bloomberg](../b/bloomberg.md) EMSX**: A robust platform for order and execution management.
      - **FlexTrade**: Known for their customizable trading solutions.
-     - **Trading Technologies (TT)**: Provides professional trading software for [derivatives](../d/derivatives.md).
+     - **[Trading Technologies](../t/trading_technologies.md) (TT)**: Provides professional trading software for [derivatives](../d/derivatives.md).
 
 4. **[Risk Management](../r/risk_management.md) and Compliance Tools**:
    - Robust [risk management](../r/risk_management.md) systems are designed to monitor and control the risk associated with trading activities. Leading solutions include:
@@ -43,10 +43,10 @@ Several companies specialize in providing comprehensive [algorithmic trading](..
 2. **[QuantConnect](../q/quantconnect.md)**:
    - An open-source platform that provides [algorithmic trading](../a/algorithmic_trading.md) services and supports [backtesting](../b/backtesting.md) and live trading. More details can be found on their [homepage](https://www.quantconnect.com).
 
-3. **Trading Technologies International, Inc.**:
+3. **[Trading Technologies](../t/trading_technologies.md) International, Inc.**:
    - Offers professional trading software, particularly for [derivatives](../d/derivatives.md) and futures. Visit their [website](https://www.tradingtechnologies.com) for more information.
 
-4. **Interactive Brokers**:
+4. **[Interactive Brokers](../i/interactive_brokers.md)**:
    - Known for their Trader Workstation (TWS) platform, which supports [algorithmic trading](../a/algorithmic_trading.md) through APIs. Check out their [site](https://www.interactivebrokers.com).
 
 5. **[NinjaTrader](../n/ninjatrader.md)**:

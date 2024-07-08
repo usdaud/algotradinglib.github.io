@@ -105,7 +105,7 @@ There are several software platforms and tools used to calculate and analyze 1-D
 1. **[Bloomberg](../b/bloomberg.md)**: Provides comprehensive market data, including daily price movements, which can be used to calculate 1-Day Volatility.
    [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
-2. **Yahoo Finance**: Offers free access to historical price data for various securities.
+2. **[Yahoo Finance](../y/yahoo_finance.md)**: Offers free access to historical price data for various securities.
    [Yahoo Finance](https://finance.yahoo.com/)
 
 ### Volatility Indicators

@@ -43,7 +43,7 @@ Brokerage services in the context of [algorithmic trading](../a/algorithmic_trad
 Several brokerage firms have established themselves as leaders in providing services tailored for [algorithmic trading](../a/algorithmic_trading.md). Below are some notable examples:
 
 ### Interactive Brokers
-Interactive Brokers is one of the premier brokerage firms offering comprehensive solutions for algo traders. They provide an array of advanced trading platforms, robust API interfaces, and excellent market access.
+[Interactive Brokers](../i/interactive_brokers.md) is one of the premier brokerage firms offering comprehensive solutions for algo traders. They provide an array of advanced trading platforms, robust API interfaces, and excellent market access.
 - [Interactive Brokers](https://www.interactivebrokers.com)
 
 ### Charles Schwab
@@ -59,7 +59,7 @@ TD [Ameritrade](../a/ameritrade.md) provides a highly customizable trading platf
 - [TD Ameritrade](https://www.tdameritrade.com)
 
 ### Fidelity Investments
-Fidelity Investments provides robust trading platforms integrated with extensive research and data, enabling traders to execute complex automated strategies.
+[Fidelity Investments](../f/fidelity_investments.md) provides robust trading platforms integrated with extensive research and data, enabling traders to execute complex automated strategies.
 - [Fidelity Investments](https://www.fidelity.com)
 
 ## Advanced Features in Brokerage Services

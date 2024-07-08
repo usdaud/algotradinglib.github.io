@@ -38,7 +38,7 @@ Implementing the Barbell Strategy in an algo trading framework involves several 
 
 2. **Bridgewater Associates**: Ray Dalio’s Bridgewater Associates employs the concept of "[risk parity](../r/risk_parity.md)," which shares similarities with the Barbell Strategy. By balancing risk across multiple asset classes, the firm aims to achieve consistent performance in various market environments (https://www.bridgewater.com).
 
-3. **Interactive Brokers**: This brokerage firm offers platforms that allow individual and institutional clients to implement [algorithmic trading](../a/algorithmic_trading.md) strategies, including variations of the Barbell Strategy. Their robust [algorithmic trading](../a/algorithmic_trading.md) tools facilitate the execution of complex [trading strategies](../t/trading_strategies.md), balancing risk and reward (https://www.interactivebrokers.com).
+3. **[Interactive Brokers](../i/interactive_brokers.md)**: This brokerage firm offers platforms that allow individual and institutional clients to implement [algorithmic trading](../a/algorithmic_trading.md) strategies, including variations of the Barbell Strategy. Their robust [algorithmic trading](../a/algorithmic_trading.md) tools facilitate the execution of complex [trading strategies](../t/trading_strategies.md), balancing risk and reward (https://www.interactivebrokers.com).
 
 **Advantages and Disadvantages**
 

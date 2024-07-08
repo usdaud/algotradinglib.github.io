@@ -59,14 +59,14 @@ Cross-market analysis in [algorithmic trading](../a/algorithmic_trading.md) invo
 
 1. **Python and R**: Widely used for data analysis, statistical modeling, and machine learning.
 2. **MatLab**: Employed for complex mathematical modeling and algorithm development.
-3. **Specialized Trading Platforms**: Interactive Brokers (IBKR), [QuantConnect](https://www.quantconnect.com/), and [Quantopian](https://www.quantopian.com/).
+3. **Specialized Trading Platforms**: [Interactive Brokers](../i/interactive_brokers.md) (IBKR), [QuantConnect](https://www.quantconnect.com/), and [Quantopian](https://www.quantopian.com/).
 
 ### Data Sources
 
 1. **Financial Data Providers**
    - [Bloomberg](../b/bloomberg.md)
    - [Reuters](../r/reuters.md)
-   - Yahoo Finance
+   - [Yahoo Finance](../y/yahoo_finance.md)
 
 2. **[Alternative Data](../a/alternative_data.md)**
    - Social Media Analysis (e.g., Twitter [sentiment analysis](../s/sentiment_analysis.md))
@@ -77,7 +77,7 @@ Cross-market analysis in [algorithmic trading](../a/algorithmic_trading.md) invo
 
 1. **Market Data APIs**
    - Alpha Vantage
-   - IEX Cloud
+   - [IEX Cloud](../i/iex_cloud.md)
    - [Quandl](../q/quandl.md)
 
 2. **Trading APIs**

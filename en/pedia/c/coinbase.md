@@ -26,7 +26,7 @@ Coinbase is a leading cryptocurrency exchange and platform that provides a secur
 
 ## Benefits
 - **High Security**: Coinbase is known for its strong security measures, protecting users' funds and personal information.
-- **Regulatory Compliance**: The platform operates in compliance with regulatory standards in various jurisdictions, ensuring a safe and lawful trading environment.
+- **Regulatory Compliance**: The platform operates in compliance with regulatory standards in various jurisdictions, ensuring a safe and lawful [trading environment](../t/trading_environment.md).
 - **Liquidity**: As one of the largest exchanges, Coinbase offers deep liquidity for a wide range of cryptocurrencies.
 - **Ease of Use**: The user-friendly interface makes it easy for anyone to start trading and managing digital assets.
 - **Comprehensive Services**: From retail trading to institutional custody, Coinbase provides a full suite of services to meet diverse customer needs.
@@ -41,7 +41,7 @@ Coinbase is a leading cryptocurrency exchange and platform that provides a secur
 ## Integration and APIs
 Coinbase offers a variety of APIs to support integration with external applications and services:
 - **REST API**: Access market data, account information, and execute trades programmatically.
-- **WebSocket API**: Real-time market data streaming for building dynamic trading applications.
+- **WebSocket API**: [Real-time market data](../r/real-time_market_data.md) streaming for building dynamic trading applications.
 - **Coinbase Commerce API**: For merchants to accept cryptocurrency payments in their online stores.
 
 ## Clients and Partners

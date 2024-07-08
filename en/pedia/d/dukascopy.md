@@ -6,7 +6,7 @@ Dukascopy Bank SA is a Swiss online bank and brokerage firm, offering a wide ran
 ## Key Features
 1. **Forex and CFD Trading**: Dukascopy offers trading in a wide range of forex pairs and CFDs, including indices, commodities, cryptocurrencies, and stocks.
 
-2. **Advanced Trading Platforms**: Dukascopy provides multiple trading platforms, including the proprietary JForex platform, MetaTrader 4 (MT4), and mobile trading apps. The platforms feature advanced charting tools, real-time market data, and various order types.
+2. **Advanced Trading Platforms**: Dukascopy provides multiple trading platforms, including the proprietary [JForex](../j/jforex.md) platform, MetaTrader 4 (MT4), and mobile trading apps. The platforms feature advanced charting tools, [real-time market data](../r/real-time_market_data.md), and various order types.
 
 3. **Binary Options**: Dukascopy allows trading in binary options, offering a straightforward way to trade on the price movements of various assets.
 
@@ -18,7 +18,7 @@ Dukascopy Bank SA is a Swiss online bank and brokerage firm, offering a wide ran
 
 7. **Dukascopy TV**: An in-house financial television channel providing market news, analysis, and interviews with industry experts.
 
-8. **Algo Trading and API**: The JForex platform supports algorithmic trading with a wide range of programming languages and APIs for automated trading strategies.
+8. **Algo Trading and API**: The [JForex](../j/jforex.md) platform supports [algorithmic trading](../a/algorithmic_trading.md) with a wide range of programming languages and APIs for automated [trading strategies](../t/trading_strategies.md).
 
 9. **Community and Contests**: Dukascopy runs various trading contests and maintains an active trading community, providing opportunities for traders to compete and share insights.
 
@@ -33,7 +33,7 @@ Dukascopy Bank SA is a Swiss online bank and brokerage firm, offering a wide ran
 
 ## Use Cases
 - **Forex Trading**: Dukascopy's ECN model and advanced trading platforms make it an ideal choice for forex traders seeking low spreads and fast execution.
-- **Algorithmic Trading**: The JForex platform supports algo trading with multiple programming languages and APIs, allowing traders to automate their strategies.
+- **[Algorithmic Trading](../a/algorithmic_trading.md)**: The [JForex](../j/jforex.md) platform supports algo trading with multiple programming languages and APIs, allowing traders to automate their strategies.
 - **CFD Trading**: Trade a wide range of CFDs on indices, commodities, stocks, and cryptocurrencies with competitive conditions.
 - **Binary Options Trading**: Dukascopy offers a straightforward way to trade binary options on various assets.
 - **Banking Services**: Swiss banking services, including current and savings accounts, payment services, and more.
@@ -42,13 +42,13 @@ Dukascopy Bank SA is a Swiss online bank and brokerage firm, offering a wide ran
 Dukascopy provides a range of APIs for automated trading and integration with other systems:
 - **FIX API**: Industry-standard API for high-speed, low-latency trading.
 - **REST API**: Flexible API for accessing market data and executing trades.
-- **JForex API**: For developing and deploying custom trading strategies on the JForex platform.
+- **[JForex](../j/jforex.md) API**: For developing and deploying custom [trading strategies](../t/trading_strategies.md) on the [JForex](../j/jforex.md) platform.
 
 ## Clients and Partners
 Dukascopy serves a diverse range of clients, including:
 - **Retail Traders**: Individual investors and traders using Dukascopy's platforms for forex and CFD trading.
 - **Institutional Clients**: Banks, hedge funds, and asset managers seeking liquidity and advanced trading solutions.
-- **Algo Traders**: Developers and traders utilizing Dukascopy's APIs for automated trading strategies.
+- **Algo Traders**: Developers and traders utilizing Dukascopy's APIs for automated [trading strategies](../t/trading_strategies.md).
 
 ## Regulatory Compliance
 Dukascopy Bank SA is regulated by the Swiss Financial Market Supervisory Authority (FINMA), ensuring compliance with stringent Swiss banking laws and regulations.
@@ -57,7 +57,7 @@ Dukascopy Bank SA is regulated by the Swiss Financial Market Supervisory Authori
 Dukascopy employs robust security protocols to protect client data and funds:
 - **Two-Factor Authentication (2FA)**: Enhancing account security.
 - **Cold Storage**: Storing a majority of client funds offline to protect against hacking.
-- **Secure Data Centers**: Advanced security measures to ensure the integrity of the trading environment.
+- **Secure Data Centers**: Advanced security measures to ensure the integrity of the [trading environment](../t/trading_environment.md).
 
 ## Website
 For more information about Dukascopy and their services, visit the official website: [Dukascopy](https://www.dukascopy.com/)

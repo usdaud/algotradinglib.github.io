@@ -59,7 +59,7 @@ In this code snippet:
 
 ## Real-World Applications
 ### Companies and Platforms
-Many trading platforms and financial institutions offer tools and services to implement the average-down strategy. For instance, Interactive Brokers ([www.interactivebrokers.com](https://www.interactivebrokers.com)) provides APIs for [algorithmic trading](../a/algorithmic_trading.md) that can be used to develop custom average-down strategies.
+Many trading platforms and financial institutions offer tools and services to implement the average-down strategy. For instance, [Interactive Brokers](../i/interactive_brokers.md) ([www.interactivebrokers.com](https://www.interactivebrokers.com)) provides APIs for [algorithmic trading](../a/algorithmic_trading.md) that can be used to develop custom average-down strategies.
 
 ### Institutions
 Large institutional investors often deploy this strategy, especially in [portfolio management](../p/portfolio_management.md). For instance, mutual funds and pension funds might use average-down strategies to manage large volumes of assets.

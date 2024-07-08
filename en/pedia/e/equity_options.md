@@ -79,7 +79,7 @@ Several platforms and trading firms specialize in options trading and cater to b
    - A commission-free trading platform that allows users to trade stocks as well as equity options seamlessly.
    - Website: [Robinhood](https://robinhood.com/)
 
-2. **Interactive Brokers**
+2. **[Interactive Brokers](../i/interactive_brokers.md)**
    - Known for its sophisticated trading platform that supports complex option strategies and [algorithmic trading](../a/algorithmic_trading.md).
    - Website: [Interactive Brokers](https://www.interactivebrokers.com/)
 

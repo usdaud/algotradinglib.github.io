@@ -180,7 +180,7 @@ double calculatePositionSize(double accountSize, double riskPerTradePercent, dou
 ## Real-World Platforms and APIs
 
 ### Interactive Brokers
-Interactive Brokers offers a robust API allowing developers to implement custom [trading algorithms](../t/trading_algorithms.md) in C++. The API supports multiple programming languages including C++.
+[Interactive Brokers](../i/interactive_brokers.md) offers a robust API allowing developers to implement custom [trading algorithms](../t/trading_algorithms.md) in C++. The API supports multiple programming languages including C++.
 
 - [Interactive Brokers API](https://www.interactivebrokers.com/en/index.php?f=5041)
 

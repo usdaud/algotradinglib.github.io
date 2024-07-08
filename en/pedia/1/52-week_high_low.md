@@ -20,7 +20,7 @@ The calculation of the 52-week high/low is straightforward:
 
 Financial data providers and stock exchanges typically provide this information. For instance:
 
-- **Yahoo Finance** [Yahoo Finance](https://finance.yahoo.com) offers historical data, including the 52-week high/low of securities.
+- **[Yahoo Finance](../y/yahoo_finance.md)** [Yahoo Finance](https://finance.yahoo.com) offers historical data, including the 52-week high/low of securities.
 - **[Bloomberg](../b/bloomberg.md)** [Bloomberg](https://www.bloomberg.com) provides comprehensive financial data and can be a valuable resource for historical price information.
 
 ## Strategies Using 52-Week High/Low in Algotrading
@@ -72,7 +72,7 @@ To implement strategies involving the 52-week high/low in algotrading systems, v
 2. **[QuantConnect](../q/quantconnect.md):** An open-source [algorithmic trading](../a/algorithmic_trading.md) platform offering tools for [backtesting](../b/backtesting.md) and live trading using Python or C#.
    - [QuantConnect](https://www.quantconnect.com)
 
-3. **Interactive Brokers:** They offer a robust API that traders can use to implement custom algorithms in languages such as Python, Java, and C++.
+3. **[Interactive Brokers](../i/interactive_brokers.md):** They offer a robust API that traders can use to implement custom algorithms in languages such as Python, Java, and C++.
    - [Interactive Brokers](https://www.interactivebrokers.com)
 
 ### Programming Languages

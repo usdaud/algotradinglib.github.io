@@ -119,10 +119,10 @@ MetaTrader is a popular platform for algo trading offering extensive tools for [
 
 ### Algorithmic Trading APIs
 
-APIs like [Alpaca](../a/alpaca.md), Interactive Brokers, and TD [Ameritrade](../a/ameritrade.md) allow for the development of custom trading applications capable of executing [algorithmic trading](../a/algorithmic_trading.md) strategies.
+APIs like [Alpaca](../a/alpaca.md), [Interactive Brokers](../i/interactive_brokers.md), and TD [Ameritrade](../a/ameritrade.md) allow for the development of custom trading applications capable of executing [algorithmic trading](../a/algorithmic_trading.md) strategies.
 
 - **[Alpaca](../a/alpaca.md):** [https://alpaca.markets/](https://alpaca.markets/)
-- **Interactive Brokers:** [https://www.interactivebrokers.com/](https://www.interactivebrokers.com/)
+- **[Interactive Brokers](../i/interactive_brokers.md):** [https://www.interactivebrokers.com/](https://www.interactivebrokers.com/)
 - **TD [Ameritrade](../a/ameritrade.md):** [https://www.tdameritrade.com/tools-and-platforms/](https://www.tdameritrade.com/tools-and-platforms/)
 
 ## Advanced Considerations

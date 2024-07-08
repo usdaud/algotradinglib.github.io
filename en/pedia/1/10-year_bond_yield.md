@@ -87,7 +87,7 @@ MarketWatch is a reliable source for tracking real-time bond yields and related 
 
 ### Yahoo Finance
 
-Yahoo Finance offers comprehensive financial data, including the [10-year bond](../1/10-year_bond.md) yield, alongside news and analysis. [Yahoo Finance](https://finance.yahoo.com/)
+[Yahoo Finance](../y/yahoo_finance.md) offers comprehensive financial data, including the [10-year bond](../1/10-year_bond.md) yield, alongside news and analysis. [Yahoo Finance](https://finance.yahoo.com/)
 
 ## Conclusion
 

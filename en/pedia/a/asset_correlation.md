@@ -69,7 +69,7 @@ Companies like Axioma provide advanced [risk management](../r/risk_management.md
 - [Axioma](https://www.axioma.com)
 
 ### Trading Platforms
-Interactive Brokers offers tools that allow traders to analyze asset correlations and employ them in [trading strategies](../t/trading_strategies.md). Through their platform, traders can access real-time correlation data to inform their trading decisions.
+[Interactive Brokers](../i/interactive_brokers.md) offers tools that allow traders to analyze asset correlations and employ them in [trading strategies](../t/trading_strategies.md). Through their platform, traders can access real-time correlation data to inform their trading decisions.
 
 - [Interactive Brokers](https://www.interactivebrokers.com)
 

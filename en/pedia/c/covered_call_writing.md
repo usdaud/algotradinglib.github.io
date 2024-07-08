@@ -32,7 +32,7 @@ When an investor holds a sufficient quantity of a stock, they can sell a call op
 Covered call writing is particularly attractive to investors looking for regular income on their portfolios. Service companies like **The Options Industry Council (OIC)** [OIC Website](https://www.optionseducation.org) provide educational resources for investors interested in income-generating strategies such as covered calls.
 
 ### Portfolio Management
-For portfolio managers and investors seeking to enhance returns while managing risk, covered call writing offers a balanced approach. Major brokerage firms like **Fidelity Investments** [Fidelity Covered Calls](https://www.fidelity.com/viewpoints/active-investor/selling-covered-calls) and **[Charles Schwab](../c/charles_schwab.md)** [Charles Schwab Covered Calls](https://www.schwab.com/resource-center/insights/content/dynamically-write-covered-calls) offer platforms and tools for managing these strategies effectively.
+For portfolio managers and investors seeking to enhance returns while managing risk, covered call writing offers a balanced approach. Major brokerage firms like **[Fidelity Investments](../f/fidelity_investments.md)** [Fidelity Covered Calls](https://www.fidelity.com/viewpoints/active-investor/selling-covered-calls) and **[Charles Schwab](../c/charles_schwab.md)** [Charles Schwab Covered Calls](https://www.schwab.com/resource-center/insights/content/dynamically-write-covered-calls) offer platforms and tools for managing these strategies effectively.
 
 ### Market Conditions
 [Covered call strategies](../c/covered_call_strategies.md) perform well in flat to moderately bullish markets where significant upward movement is not expected. They are less effective in strongly bullish or declining markets.
