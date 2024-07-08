@@ -1,4 +1,5 @@
-{% assign locale = site.pages | where: "path", page.lang | map: "locales" | first %}
+{% assign locale_path = page.lang | append: "/locales.yml" %}
+{% assign locale = site.data[locale_path] %}
 <!DOCTYPE html>
 <html lang="{{ page.lang }}">
 <head>
