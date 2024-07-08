@@ -1,14 +1,7 @@
-{% assign locale_path = page.lang | append: "/locales.yml" %}
-{% assign locale_file = site.pages | where: "path", locale_path | first %}
-{% if locale_file %}
-  {% assign locale = locale_file.content | yaml_parse %}
-{% else %}
-  {% assign locale = {} %}
-{% endif %}
-<!-- DEBUG: base.html
+{% assign locale = page.locale %}
+<!-- DEBUG: base.html -->
+<!-- 
 page.lang: {{ page.lang }}
-locale_path: {{ locale_path }}
-locale_file: {{ locale_file.path }}
 locale: {{ locale | inspect }}
 -->
 <!DOCTYPE html>
