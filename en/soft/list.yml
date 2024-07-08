@@ -382,3 +382,23 @@
   filters: [Backtesting, Live trading, Stock, Crypto, Java]
   supported_data_providers: []
   supported_brokers: []
+
+- name: MetaStock
+  description: Charting and technical analysis software for traders
+  logo: /assets/images/logos/metastock.png
+  website: https://www.metastock.com/
+  pedia_link: /en/pedia/m/metastock.html
+  github: null
+  filters: [Charting, Technical Analysis, Backtesting, Real-time Data]
+  supported_data_providers: [eSignal]
+  supported_brokers: [Interactive Brokers, Ameritrade, TradeStation]
+
+- name: SciChart
+  description: High-performance chart and scientific visualization library
+  logo: /assets/images/logos/scichart.png
+  website: https://www.scichart.com/
+  pedia_link: /en/pedia/s/scichart.html
+  github: https://github.com/ABTSoftware/SciChart.Android.Examples
+  filters: [Charting, JavaScript]
+  supported_data_providers: []
+  supported_brokers: []

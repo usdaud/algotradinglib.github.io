@@ -291,3 +291,66 @@
   website: https://zerodha.com/
   pedia_link: /en/pedia/z/zerodha.html
   filters: [API, Stock, Funds, Indian Market]
+
+- name: LMAX
+  description: FCA regulated broker for FX and CFDs
+  logo: /assets/images/logos/lmax.png
+  website: https://www.lmax.com/
+  pedia_link: /en/pedia/l/lmax.html
+  filters: [Forex, CFD, Institutional]
+
+- name: Binance
+  description: World's largest cryptocurrency exchange by trading volume
+  logo: /assets/images/logos/binance.png
+  website: https://www.binance.com/
+  pedia_link: /en/pedia/b/binance.html
+  filters: [Cryptocurrency, Exchange]
+
+- name: Dukascopy
+  description: Swiss forex bank and marketplace
+  logo: /assets/images/logos/dukascopy.png
+  website: https://www.dukascopy.com/
+  pedia_link: /en/pedia/d/dukascopy.html
+  filters: [Forex, Bank, CFD]
+
+- name: Dorman Trading
+  description: Futures commission merchant (FCM) based in Chicago
+  logo: /assets/images/logos/dorman.png
+  website: https://www.dormantrading.com/
+  pedia_link: /en/pedia/d/dorman-trading.html
+  filters: [Futures, Commodities]
+
+- name: Optimus Futures
+  description: Futures brokerage firm specializing in retail traders
+  logo: /assets/images/logos/optimus.png
+  website: https://www.optimusfutures.com/
+  pedia_link: /en/pedia/o/optimus-futures.html
+  filters: [Futures, Commodities]
+
+- name: Wedbush
+  description: Financial services and investment firm
+  logo: /assets/images/logos/wedbush.png
+  website: https://www.wedbush.com/
+  pedia_link: /en/pedia/w/wedbush.html
+  filters: [Stocks, Options, Futures]
+
+- name: FXCM
+  description: Retail foreign exchange broker
+  logo: /assets/images/logos/fxcm.png
+  website: https://www.fxcm.com/
+  pedia_link: /en/pedia/f/fxcm.html
+  filters: [Forex, CFD]
+
+- name: Coinbase
+  description: Cryptocurrency exchange platform
+  logo: /assets/images/logos/coinbase.png
+  website: https://www.coinbase.com/
+  pedia_link: /en/pedia/c/coinbase.html
+  filters: [Crypto]
+
+- name: Finam
+  description: Russian investment company and broker
+  logo: /assets/images/logos/finam.png
+  website: https://www.finam.ru/
+  pedia_link: /en/pedia/f/finam.html
+  filters: [Stock, Forex, Futures]
