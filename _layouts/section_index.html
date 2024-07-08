@@ -3,6 +3,8 @@ layout: base
 ---
 <h1>{{ page.title }}</h1>
 
+{% include pedia_search.html %}
+
 <div class="letter-grid">
   {% for letter_data in page.letters %}
     {% assign letter = letter_data[0] %}
