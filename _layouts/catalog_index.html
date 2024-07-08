@@ -5,7 +5,7 @@ layout: base
 
 <div id="filters">
   <div class="search-container desktop-only">
-    <input type="text" id="catalog-search" placeholder="Search...">
+    <input type="text" id="catalog-search" placeholder="{{ locale.search }}">
   </div>
   <div class="filter-btn-container">
     {% assign all_filters = '' | split: '' %}
@@ -41,7 +41,7 @@ layout: base
         </div>
       </div>
       <h2>{{ item.name }}</h2>
-      <p>{{ item.description }} <a href="{{ item.pedia_link | relative_url }}" class="more-link">More</a></p>
+      <p>{{ item.description }} <a href="{{ item.pedia_link | relative_url }}" class="more-link">{{ locale.more }}</a></p>
       <div class="filters-and-links">
         <div class="filters">
           {% for filter in item.filters %}
@@ -51,24 +51,24 @@ layout: base
         <div class="additional-links">
           {% if page.section == 'soft' %}
             {% if item.supported_data_providers.size > 0 %}
-              <a href="/{{ page.lang }}/market-data/?software={{ item.name | url_encode }}" class="data-providers-link" title="Data Providers">
+              <a href="/{{ page.lang }}/market-data/?software={{ item.name | url_encode }}" class="data-providers-link" title="{{ locale.marketdata }}">
                 <i class="fas fa-chart-line"></i>
               </a>
             {% endif %}
             {% if item.supported_brokers.size > 0 %}
-              <a href="/{{ page.lang }}/brokers/?software={{ item.name | url_encode }}" class="brokers-link" title="Brokers">
+              <a href="/{{ page.lang }}/brokers/?software={{ item.name | url_encode }}" class="brokers-link" title="{{ locale.brokers }}">
                 <i class="fas fa-exchange-alt"></i>
               </a>
             {% endif %}
           {% elsif page.section == 'market-data' %}
             {% if item.supported_software.size > 0 %}
-              <a href="/{{ page.lang }}/soft/?data-provider={{ item.name | url_encode }}" class="software-link" title="Software">
+              <a href="/{{ page.lang }}/soft/?data-provider={{ item.name | url_encode }}" class="software-link" title="{{ locale.software }}">
                 <i class="fas fa-laptop-code"></i>
               </a>
             {% endif %}
           {% elsif page.section == 'brokers' %}
             {% if item.supported_software.size > 0 %}
-              <a href="/{{ page.lang }}/soft/?broker={{ item.name | url_encode }}" class="software-link" title="Software">
+              <a href="/{{ page.lang }}/soft/?broker={{ item.name | url_encode }}" class="software-link" title="{{ locale.software }}">
                 <i class="fas fa-laptop-code"></i>
               </a>
             {% endif %}
