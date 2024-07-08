@@ -34,7 +34,7 @@
                 <span></span>
                 <span></span>
             </button>
-            <nav>
+            <nav class="main-nav">
                 <ul>
                     {% assign current_url = page.url | downcase %}
                     {% capture home_url %}{% if page.lang != 'en' %}/{{ page.lang }}{% endif %}/{% endcapture %}
@@ -85,10 +85,10 @@
                 </select>
             </div>
         </div>
-        {% include breadcrumbs.html %}
     </header>
 
     <main>
+        {% include breadcrumbs.html %}
         {{ content }}
     </main>
 
@@ -128,13 +128,13 @@
             });
 
             $(".menu-toggle").click(function() {
-                $("nav").toggleClass("active");
+                $(".main-nav").toggleClass("active");
                 $(this).toggleClass("active");
                 $("body").toggleClass("menu-open");
             });
 
-            $("nav a").click(function() {
-                $("nav").removeClass("active");
+            $(".main-nav a").click(function() {
+                $(".main-nav").removeClass("active");
                 $(".menu-toggle").removeClass("active");
                 $("body").removeClass("menu-open");
             });

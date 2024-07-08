@@ -486,38 +486,38 @@ footer a:hover .github-icon {
         flex-wrap: wrap;
     }
 
-    nav {
+    .main-nav {
         display: none;
         position: fixed;
         top: 0;
         left: 0;
         width: 100%;
         height: 100%;
-        background-color: rgba(248, 248, 248, 0.95);
+        background-color: rgba(248, 248, 248, 0.98);
         z-index: 1001;
         justify-content: center;
         align-items: center;
     }
 
-    nav.active {
+    .main-nav.active {
         display: flex !important;
     }
 
-    nav ul {
+    .main-nav ul {
         flex-direction: column;
         align-items: center;
     }
 
-    nav ul li {
+    .main-nav ul li {
         margin: 15px 0;
     }
 
-    nav ul li a {
-        color: #333;
-        font-size: 18px;
-        padding: 15px 0;
+    .main-nav ul li a {
+        color: #000;
+        font-size: 20px;
+        padding: 12px 20px;
         display: block;
-        margin-left: 20px;
+        border-bottom: 1px solid #e0e0e0;
     }
 
     #sticky-header {
@@ -549,19 +549,6 @@ footer a:hover .github-icon {
     .menu-toggle {
         font-size: 24px;
         padding: 10px;
-    }
-
-    nav.active {
-        padding-top: 50px;
-    }
-
-    nav.active + .breadcrumb {
-        display: flex;
-        position: fixed;
-        top: 60px;
-        left: 0;
-        right: 0;
-        z-index: 1000;
     }
 
     .breadcrumb {
