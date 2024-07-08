@@ -5,13 +5,6 @@
   pedia_link: /en/pedia/a/algorithmic_trading_reddit.html
   filters: [English, Reddit]
 
-- name: Algorithmic Trading Slack
-  description: Slack channel for algorithmic trading discussions
-  logo: /assets/images/logos/slack.png
-  website: https://algotrading.slack.com/
-  pedia_link: /en/pedia/a/algorithmic_trading_slack.html
-  filters: [English, Slack]
-
 - name: Big Mike Trading (Futures.io)
   description: Forum for futures traders with a section on algorithmic trading
   logo: /assets/images/logos/nexusfi.png
