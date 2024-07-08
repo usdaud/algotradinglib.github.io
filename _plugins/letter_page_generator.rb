@@ -79,10 +79,16 @@ module Jekyll
     end
 
     def process_regular_section(site, lang, section, section_path)
-      letters = Dir.entries(section_path)
-                   .select { |entry| File.directory?(File.join(section_path, entry)) && entry != '.' && entry != '..' }
-                   .map { |letter| [letter.downcase, count_posts(site, lang, section, letter)] }
-                   .sort.to_h
+      letters = {}
+      Dir.glob(File.join(section_path, '*')).each do |letter_path|
+        if File.directory?(letter_path)
+          letter = File.basename(letter_path).downcase
+          count = count_posts(site, lang, section, letter, letter_path)
+          letters[letter] = count if count > 0
+        end
+      end
+
+      letters = letters.sort.to_h
 
       Jekyll.logger.info "LetterPageGenerator:", "Letters and counts: #{letters}"
 
@@ -123,23 +129,11 @@ module Jekyll
       match ? match[1].strip : nil
     end
 
-    def count_posts(site, lang, section, letter)
+    def count_posts(site, lang, section, letter, letter_path)
       cache_key = "#{lang}/#{section}/#{letter}"
       return @page_cache[cache_key] if @page_cache.has_key?(cache_key)
 
-      count = 0
-      relevant_pages = site.pages.select { |page| page.path.start_with?("#{lang}/#{section}/") }
-      
-      relevant_pages.each do |page|
-        page_path = page.path.split('/')
-        if page_path.size >= 4 &&
-           page_path[2].start_with?(letter) &&
-           page.path.end_with?('.md') &&
-           page.name != 'index.md'
-          count += 1
-          Jekyll.logger.debug "LetterPageGenerator:", "Matched post: #{page.path}"
-        end
-      end
+      count = Dir.glob(File.join(letter_path, '*.md')).count { |file| File.basename(file) != 'index.md' }
 
       @page_cache[cache_key] = count
       Jekyll.logger.info "LetterPageGenerator:", "Counting posts for #{cache_key}: #{count}"
