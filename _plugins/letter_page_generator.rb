@@ -92,6 +92,11 @@ module Jekyll
 
       Jekyll.logger.info "LetterPageGenerator:", "Letters and counts: #{letters}"
 
+      index_page = site.pages.find { |p| p.path == "#{lang}/#{section}/index.md" }
+      if index_page
+        index_page.data['letters'] = letters
+      end
+
       letters.each do |letter, count|
         Jekyll.logger.info "LetterPageGenerator:", "Creating page for #{lang}/#{section}/#{letter} with #{count} posts"
         site.pages << LetterPage.new(site, site.source, lang, section, letter)
@@ -100,7 +105,6 @@ module Jekyll
           process_markdown_file(site, file)
         end
       end
-      site.pages << SectionIndexPage.new(site, site.source, lang, section, letters)
     end
 
     def process_markdown_file(site, file)
@@ -164,33 +168,6 @@ module Jekyll
       self.data['lang'] = lang
       self.data['section'] = section
       self.data['permalink'] = "/#{lang}/#{section}/#{letter}/index.html"
-    end
-  end
-
-  class SectionIndexPage < Page
-    def initialize(site, base, lang, section, letters)
-      @site = site
-      @base = base
-      @dir  = File.join(lang, section)
-      @name = "index.md"
-
-      self.process(@name)
-      layout_file = File.join(base, '_layouts', 'section_index.html')
-      if File.exist?(layout_file)
-        self.read_yaml(File.dirname(layout_file), File.basename(layout_file))
-      else
-        Jekyll.logger.warn "LetterPageGenerator:", "Layout file 'section_index.html' not found"
-        self.data = {}
-      end
-      self.data['layout'] = 'section_index'
-      self.data['title'] = case lang
-                           when 'en' then "Algopedia"
-                           when 'ru' then "Алгопедия"
-                           when 'zh' then "算法百科"
-                           end
-      self.data['letters'] = letters
-      self.data['lang'] = lang
-      self.data['section'] = section
     end
   end
 
