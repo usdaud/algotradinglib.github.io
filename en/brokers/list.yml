@@ -315,16 +315,16 @@
 
 - name: Dorman Trading
   description: Futures commission merchant (FCM) based in Chicago
-  logo: /assets/images/logos/dorman.png
+  logo: /assets/images/logos/dorman_trading.png
   website: https://www.dormantrading.com/
-  pedia_link: /en/pedia/d/dorman-trading.html
+  pedia_link: /en/pedia/d/dorman_trading.html
   filters: [Futures, Commodities]
 
 - name: Optimus Futures
   description: Futures brokerage firm specializing in retail traders
-  logo: /assets/images/logos/optimus.png
+  logo: /assets/images/logos/optimus_futures.png
   website: https://www.optimusfutures.com/
-  pedia_link: /en/pedia/o/optimus-futures.html
+  pedia_link: /en/pedia/o/optimus_futures.html
   filters: [Futures, Commodities]
 
 - name: Wedbush
