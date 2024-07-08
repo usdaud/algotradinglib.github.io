@@ -41,9 +41,12 @@ module Jekyll
         soft_data = load_catalog_data(site, File.join(site.source, lang, 'soft'))
         catalog_data.each do |item|
           item['supported_software'] = soft_data.select do |soft|
-            supported_items = section == 'market-data' ? soft['supported_data_providers'] : soft['supported_brokers']
-            supported_items&.include?(item['name'])
-          end.map { |soft| { 'name' => soft['name'], 'link' => "/#{lang}/soft/?item=#{URI.encode_www_form_component(soft['name'])}" } }
+            if section == 'market-data'
+              soft['supported_data_providers']&.include?(item['name'])
+            else
+              soft['supported_brokers']&.include?(item['name'])
+            end
+          end.map { |soft| { 'name' => soft['name'], 'link' => "/#{lang}/soft/?#{section == 'market-data' ? 'data-provider' : 'broker'}=#{URI.encode_www_form_component(item['name'])}" } }
         end
       elsif section == 'soft'
         market_data = load_catalog_data(site, File.join(site.source, lang, 'market-data'))
@@ -62,7 +65,7 @@ module Jekyll
       items.map do |item_name|
         {
           'name' => item_name,
-          'link' => "/#{lang}/#{target_section}/?item=#{URI.encode_www_form_component(item_name)}"
+          'link' => "/#{lang}/#{target_section}/?software=#{URI.encode_www_form_component(item_name)}"
         }
       end
     end
