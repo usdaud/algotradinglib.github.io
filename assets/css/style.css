@@ -441,6 +441,18 @@ footer a:hover .github-icon {
     margin-top: 50px;
 }
 
+.search-container {
+  margin-bottom: 20px;
+}
+
+#catalog-search {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ced4da;
+  border-radius: 20px;
+}
+
 @keyframes pulse {
     0% {
         transform: scale(1);
@@ -611,6 +623,10 @@ footer a:hover .github-icon {
         flex: 0 1 calc(33.333% - 10px);
         font-size: 12px;
         padding: 6px 10px;
+    }
+
+    .desktop-only {
+        display: none;
     }
 }
 
