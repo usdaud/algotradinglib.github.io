@@ -25,44 +25,43 @@ layout: base
     <div class="catalog-item" data-filters="{{ item.filters | join: ',' }}">
       <div class="item-header">
         <img src="{{ item.logo | relative_url }}" alt="{{ item.name }} logo">
-        <div class="external-links">
+      </div>
+      <h2>{{ item.name }}</h2>
+      <p>{{ item.description }} <a href="{{ item.pedia_link | relative_url }}" class="more-link">More</a></p>
+      <div class="filters-and-links">
+        <div class="filters">
+          {% for filter in item.filters %}
+            <button class="filter-tag {% if page.special_filters contains filter %}highlight{% endif %}" data-filter="{{ filter }}">{{ filter }}</button>
+          {% endfor %}
+        </div>
+        <div class="additional-links">
+          {% if page.section == 'soft' %}
+            {% if item.supported_data_providers.size > 0 %}
+              <a href="/{{ page.lang }}/market-data/?item={{ item.name | url_encode }}" class="data-providers-link" title="Data Providers">
+                <i class="fas fa-chart-line"></i>
+              </a>
+            {% endif %}
+            {% if item.supported_brokers.size > 0 %}
+              <a href="/{{ page.lang }}/brokers/?item={{ item.name | url_encode }}" class="brokers-link" title="Brokers">
+                <i class="fas fa-exchange-alt"></i>
+              </a>
+            {% endif %}
+          {% elsif page.section == 'market-data' or page.section == 'brokers' %}
+            {% if item.supported_software.size > 0 %}
+              <a href="/{{ page.lang }}/soft/?item={{ item.name | url_encode }}" class="software-link" title="Software">
+                <i class="fas fa-laptop-code"></i>
+              </a>
+            {% endif %}
+          {% endif %}
+          <a href="{{ item.website }}" target="_blank" rel="noopener noreferrer" class="website-link" title="Website">
+            <i class="fas fa-globe"></i>
+          </a>
           {% if item.github %}
-            <a href="{{ item.github }}" target="_blank" rel="noopener noreferrer" class="github-link">
+            <a href="{{ item.github }}" target="_blank" rel="noopener noreferrer" class="github-link" title="GitHub">
               <i class="fab fa-github"></i>
             </a>
           {% endif %}
-          <a href="{{ item.website }}" target="_blank" rel="noopener noreferrer" class="website-link">
-            <i class="fas fa-globe"></i>
-          </a>
         </div>
-      </div>
-      <h2>{{ item.name }}</h2>
-      <p>{{ item.description }}</p>
-      <a href="{{ item.pedia_link | relative_url }}" class="learn-more">Learn More</a>
-      <div class="filters">
-        {% for filter in item.filters %}
-          <span class="filter-tag {% if page.special_filters contains filter %}highlight{% endif %}">{{ filter }}</span>
-        {% endfor %}
-      </div>
-      <div class="additional-links">
-        {% if page.section == 'soft' %}
-          {% if item.supported_data_providers.size > 0 %}
-            <a href="/{{ page.lang }}/market-data/?item={{ item.name | url_encode }}" class="data-providers-link">
-              <i class="fas fa-chart-line"></i> Data Providers
-            </a>
-          {% endif %}
-          {% if item.supported_brokers.size > 0 %}
-            <a href="/{{ page.lang }}/brokers/?item={{ item.name | url_encode }}" class="brokers-link">
-              <i class="fas fa-exchange-alt"></i> Brokers
-            </a>
-          {% endif %}
-        {% elsif page.section == 'market-data' or page.section == 'brokers' %}
-          {% if item.supported_software.size > 0 %}
-            <a href="/{{ page.lang }}/soft/?item={{ item.name | url_encode }}" class="software-link">
-              <i class="fas fa-laptop-code"></i> Software
-            </a>
-          {% endif %}
-        {% endif %}
       </div>
     </div>
   {% endfor %}
@@ -70,7 +69,7 @@ layout: base
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
-  const filterButtons = document.querySelectorAll('.filter-btn');
+  const filterButtons = document.querySelectorAll('.filter-btn, .filter-tag');
   const catalogItems = document.querySelectorAll('.catalog-item');
 
   let activeFilters = new Set();

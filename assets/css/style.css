@@ -334,30 +334,14 @@ footer a:hover .github-icon {
 
 .item-header {
     display: flex;
-    justify-content: space-between;
-    align-items: flex-start;
+    justify-content: center;
+    align-items: center;
     margin-bottom: 15px;
 }
 
 .item-header img {
     max-width: 100px;
     height: auto;
-}
-
-.external-links {
-    display: flex;
-    gap: 10px;
-}
-
-.external-links a {
-    color: #007bff;
-    text-decoration: none;
-    font-size: 1.2em;
-    transition: color 0.3s ease;
-}
-
-.external-links a:hover {
-    color: #0056b3;
 }
 
 .catalog-item h2 {
@@ -372,23 +356,25 @@ footer a:hover .github-icon {
     margin-bottom: 15px;
 }
 
-.catalog-item .learn-more {
-    display: inline-block;
-    margin-top: 10px;
+.more-link {
     color: #007bff;
     text-decoration: none;
-    align-self: flex-start;
 }
 
-.catalog-item .learn-more:hover {
+.more-link:hover {
     text-decoration: underline;
 }
 
+.filters-and-links {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: auto;
+}
+
 .filters {
-    margin-top: 15px;
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
 }
 
 .filter-tag {
@@ -400,19 +386,26 @@ footer a:hover .github-icon {
     font-size: 12px;
     border-radius: 12px;
     transition: all 0.3s ease;
+    border: none;
+    cursor: pointer;
+}
+
+.filter-tag:hover,
+.filter-tag.active {
+    background-color: #007bff;
+    color: white;
 }
 
 .additional-links {
-    margin-top: 15px;
     display: flex;
-    justify-content: center;
-    gap: 10px;
+    flex-direction: column;
+    gap: 5px;
 }
 
 .additional-links a {
     color: #007bff;
     text-decoration: none;
-    font-size: 0.9em;
+    font-size: 1.2em;
     transition: color 0.3s ease;
 }
 
