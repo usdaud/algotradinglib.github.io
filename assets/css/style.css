@@ -442,15 +442,19 @@ footer a:hover .github-icon {
 }
 
 .search-container {
-  margin-bottom: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
 }
 
 #catalog-search {
-  width: 100%;
-  padding: 10px;
-  font-size: 16px;
-  border: 1px solid #ced4da;
-  border-radius: 20px;
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ced4da;
+    border-radius: 20px;
+    flex: 1;
+    max-width: 800px;
 }
 
 @keyframes pulse {
