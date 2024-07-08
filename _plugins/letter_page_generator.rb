@@ -7,16 +7,11 @@ module Jekyll
     def generate(site)
       Jekyll.logger.info "LetterPageGenerator:", "Total pages: #{site.pages.size}"
 
-      site.pages.each do |page|
-        Jekyll.logger.info "LetterPageGenerator:", "Page path: #{page.path}"
-      end
-
       languages = ['en', 'ru', 'zh']
       
       languages.each do |lang|
         SECTIONS.each do |section|
           section_path = File.join(site.source, lang, section)
-          Jekyll.logger.info "LetterPageGenerator:", "Checking path: #{section_path}"
           if Dir.exist?(section_path)
             process_section(site, lang, section, section_path)
           else
@@ -93,7 +88,6 @@ module Jekyll
         site.pages << LetterPage.new(site, site.source, lang, section, letter)
     
         Dir.glob(File.join(section_path, letter, '*.md')).each do |file|
-          Jekyll.logger.info "LetterPageGenerator:", "Processing file: #{file}"
           process_markdown_file(site, file)
         end
       end
