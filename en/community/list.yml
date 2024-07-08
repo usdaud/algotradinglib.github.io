@@ -14,7 +14,7 @@
 
 - name: Big Mike Trading (Futures.io)
   description: Forum for futures traders with a section on algorithmic trading
-  logo: /assets/images/logos/futures_io.png
+  logo: /assets/images/logos/nexusfi.png
   website: https://nexusfi.com/platforms-indicators/
   pedia_link: /en/pedia/b/big_mike_trading.html
   filters: [English, Forum]
@@ -35,7 +35,7 @@
 
 - name: Forum Bourse Trading
   description: French forum dedicated to trading and investments, including algorithmic trading
-  logo: /assets/images/logos/forum_bourse_trading.png
+  logo: /assets/images/logos/abcbourse.png
   website: https://www.abcbourse.com/forums/
   pedia_link: /en/pedia/f/forum_bourse_trading.html
   filters: [French, Forum]
