@@ -44,6 +44,7 @@ module Jekyll
         content = File.read(root_file, encoding: 'utf-8')
         page = Jekyll::Page.new(site, site.source, lang, 'index.md')
         page.content = content
+        page.data['lang'] = lang
         page.data['locale'] = locale
         site.pages << page
       else
