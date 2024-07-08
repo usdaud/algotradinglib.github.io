@@ -612,6 +612,6 @@ footer a:hover .github-icon {
 
 @media (max-width: 400px) {
     .filter-btn {
-        flex: 0 1 100%;
+        flex: 0 1 calc(50% - 10px);
     }
 }
