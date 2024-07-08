@@ -334,7 +334,7 @@ footer a:hover .github-icon {
 
 .item-header {
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
     margin-bottom: 15px;
 }
@@ -342,6 +342,22 @@ footer a:hover .github-icon {
 .item-header img {
     max-width: 100px;
     height: auto;
+}
+
+.external-links {
+    display: flex;
+    gap: 10px;
+}
+
+.external-links a {
+    color: #007bff;
+    text-decoration: none;
+    font-size: 1.2em;
+    transition: color 0.3s ease;
+}
+
+.external-links a:hover {
+    color: #0056b3;
 }
 
 .catalog-item h2 {
@@ -368,7 +384,7 @@ footer a:hover .github-icon {
 .filters-and-links {
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: flex-end;
     margin-top: auto;
 }
 
