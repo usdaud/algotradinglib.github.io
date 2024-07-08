@@ -101,7 +101,7 @@
   logo: /assets/images/logos/trade2win.png
   website: https://www.trade2win.com/
   pedia_link: /en/pedia/t/trade2win.html
-  filters: [English, Forum, Trading, Quantitative Methods]
+  filters: [English, Forum]
 
 - name: TradingView
   description: Global community with forums and chats in multiple languages, including algorithmic trading discussions
