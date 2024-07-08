@@ -194,33 +194,13 @@ module Jekyll
       end
       self.data['layout'] = 'section_index'
       self.data['title'] = case lang
-                           when 'en' then "#{section.capitalize} Index"
-                           when 'ru' then "Индекс #{section_name_ru(section)}"
-                           when 'zh' then "#{section_name_zh(section)}索引"
+                           when 'en' then "Algopedia"
+                           when 'ru' then "Алгопедия"
+                           when 'zh' then "算法百科"
                            end
       self.data['letters'] = letters
       self.data['lang'] = lang
       self.data['section'] = section
-    end
-
-    private
-
-    def section_name_ru(section)
-      case section
-      when 'pedia' then 'энциклопедии'
-      when 'soft' then 'программного обеспечения'
-      when 'brokers' then 'брокеров'
-      else section
-      end
-    end
-
-    def section_name_zh(section)
-      case section
-      when 'pedia' then '百科全书'
-      when 'soft' then '软件'
-      when 'brokers' then '经纪人'
-      else section
-      end
     end
   end
 
