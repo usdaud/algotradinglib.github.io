@@ -1,7 +1,7 @@
-﻿{% assign locale = page.locale %}
----
+﻿---
 layout: base
 ---
+{% assign locale = page.locale %}
 <h1>{{ page.title }}</h1>
 
 <div id="filters">
@@ -31,11 +31,11 @@ layout: base
       <div class="item-header">
         <img src="{{ item.logo | relative_url }}" alt="{{ item.name }} logo">
         <div class="external-links">
-          <a href="{{ item.website }}" target="_blank" rel="noopener noreferrer" class="website-link" title="Website">
+          <a href="{{ item.website }}" target="_blank" rel="noopener noreferrer" class="website-link" title="{{ locale.website }}">
             <i class="fas fa-globe"></i>
           </a>
           {% if item.github %}
-            <a href="{{ item.github }}" target="_blank" rel="noopener noreferrer" class="github-link" title="GitHub">
+            <a href="{{ item.github }}" target="_blank" rel="noopener noreferrer" class="github-link" title="{{ locale.github }}">
               <i class="fab fa-github"></i>
             </a>
           {% endif %}
