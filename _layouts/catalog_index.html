@@ -25,6 +25,16 @@ layout: base
     <div class="catalog-item" data-filters="{{ item.filters | join: ',' }}">
       <div class="item-header">
         <img src="{{ item.logo | relative_url }}" alt="{{ item.name }} logo">
+        <div class="external-links">
+          <a href="{{ item.website }}" target="_blank" rel="noopener noreferrer" class="website-link" title="Website">
+            <i class="fas fa-globe"></i>
+          </a>
+          {% if item.github %}
+            <a href="{{ item.github }}" target="_blank" rel="noopener noreferrer" class="github-link" title="GitHub">
+              <i class="fab fa-github"></i>
+            </a>
+          {% endif %}
+        </div>
       </div>
       <h2>{{ item.name }}</h2>
       <p>{{ item.description }} <a href="{{ item.pedia_link | relative_url }}" class="more-link">More</a></p>
@@ -52,14 +62,6 @@ layout: base
                 <i class="fas fa-laptop-code"></i>
               </a>
             {% endif %}
-          {% endif %}
-          <a href="{{ item.website }}" target="_blank" rel="noopener noreferrer" class="website-link" title="Website">
-            <i class="fas fa-globe"></i>
-          </a>
-          {% if item.github %}
-            <a href="{{ item.github }}" target="_blank" rel="noopener noreferrer" class="github-link" title="GitHub">
-              <i class="fab fa-github"></i>
-            </a>
           {% endif %}
         </div>
       </div>
