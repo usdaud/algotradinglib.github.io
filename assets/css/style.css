@@ -512,6 +512,14 @@ footer a:hover .github-icon {
         margin: 15px 0;
     }
 
+    nav ul li a {
+        color: #333;
+        font-size: 18px;
+        padding: 15px 0;
+        display: block;
+        margin-left: 20px;
+    }
+
     #sticky-header {
         position: relative;
         z-index: 1002;
@@ -522,7 +530,9 @@ footer a:hover .github-icon {
     }
 
     .mobile-language-selector {
-        display: block;
+        margin-top: 20px;
+        padding-top: 20px;
+        border-top: 1px solid #ccc;
     }
 
     .mobile-language-selector select {
@@ -534,6 +544,15 @@ footer a:hover .github-icon {
 
     header .breadcrumb {
         display: none;
+    }
+
+    .menu-toggle {
+        font-size: 24px;
+        padding: 10px;
+    }
+
+    nav.active {
+        padding-top: 50px;
     }
 
     nav.active + .breadcrumb {
