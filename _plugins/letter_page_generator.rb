@@ -7,6 +7,9 @@ module Jekyll
     def generate(site)
       Jekyll.logger.info "LetterPageGenerator:", "Total pages: #{site.pages.size}"
 
+      @page_cache = {}
+      @processed_pages = Set.new
+
       languages = ['en', 'ru', 'zh']
       
       languages.each do |lang|
@@ -95,6 +98,8 @@ module Jekyll
     end
 
     def process_markdown_file(site, file)
+      return if @processed_pages.include?(file)
+      
       content = File.read(file, encoding: 'utf-8')
       title = extract_title_from_content(content)
 
@@ -108,6 +113,7 @@ module Jekyll
       page.data['permalink'] = "/#{file.sub(site.source + '/', '').sub('.md', '.html')}"
   
       site.pages << page
+      @processed_pages.add(file)
     rescue => e
       Jekyll.logger.error "LetterPageGenerator:", "Error processing file #{file}: #{e.message}"
     end
@@ -118,29 +124,25 @@ module Jekyll
     end
 
     def count_posts(site, lang, section, letter)
-      count = 0
-      site.pages.each do |page|
-        page_path = page.path.split('/')
-        starts_with_letter = page_path[2] && letter && page_path[2].to_s.downcase.start_with?(letter.to_s.downcase)
+      cache_key = "#{lang}/#{section}/#{letter}"
+      return @page_cache[cache_key] if @page_cache.has_key?(cache_key)
 
-        if page_path.size >= 4 && 
-           page_path[0] == lang && 
-           page_path[1] == section && 
-           starts_with_letter && 
-           page.path.end_with?('.md') && 
+      count = 0
+      relevant_pages = site.pages.select { |page| page.path.start_with?("#{lang}/#{section}/") }
+      
+      relevant_pages.each do |page|
+        page_path = page.path.split('/')
+        if page_path.size >= 4 &&
+           page_path[2].start_with?(letter) &&
+           page.path.end_with?('.md') &&
            page.name != 'index.md'
           count += 1
-          Jekyll.logger.info "LetterPageGenerator:", "Matched post: #{page.path}"
-        else
-          Jekyll.logger.info "LetterPageGenerator:", "Not matched: #{page.path}, " \
-            "conditions: lang=#{page_path[0] == lang}, " \
-            "section=#{page_path[1] == section}, " \
-            "letter=#{starts_with_letter}, " \
-            "md=#{page.path.end_with?('.md')}, " \
-            "not_index=#{page.name != 'index.md'}"
+          Jekyll.logger.debug "LetterPageGenerator:", "Matched post: #{page.path}"
         end
       end
-      Jekyll.logger.info "LetterPageGenerator:", "Counting posts for #{lang}/#{section}/#{letter}: #{count}"
+
+      @page_cache[cache_key] = count
+      Jekyll.logger.info "LetterPageGenerator:", "Counting posts for #{cache_key}: #{count}"
       count
     end
   end
