@@ -29,6 +29,11 @@
                 </a>
                 <h1 class="site-title">{{ locale.title | default: "Algorithmic Trading Library" }}</h1>
             </div>
+            <button class="menu-toggle" aria-label="Toggle menu">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
             <nav>
                 <ul>
                     {% assign current_url = page.url | downcase %}
@@ -80,15 +85,10 @@
                 </select>
             </div>
         </div>
-        <button class="menu-toggle" aria-label="Toggle menu">
-            <span></span>
-            <span></span>
-            <span></span>
-        </button>
+        {% include breadcrumbs.html %}
     </header>
 
     <main>
-        {% include breadcrumbs.html %}
         {{ content }}
     </main>
 
