@@ -476,6 +476,16 @@ footer a:hover .github-icon {
 }
 
 @media (max-width: 768px) {
+    .site-title {
+        font-size: 1em;
+        line-height: 1.2;
+        max-width: 100px;
+        margin: 0 auto;
+        text-align: center;
+        hyphens: manual;
+        word-break: break-word;
+    }
+  
     .menu-toggle {
         display: block;
         opacity: 1;
