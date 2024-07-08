@@ -45,9 +45,9 @@ Various tools and platforms are available for creating and deploying [algorithmi
 
 - **[Alpaca](../a/alpaca.md)**: A commission-free trading platform that offers API access for [algorithmic trading](../a/algorithmic_trading.md). More information at [Alpaca](https://alpaca.markets/).
 
-- **Interactive Brokers**: Provides an extensive set of APIs for [algorithmic trading](../a/algorithmic_trading.md), along with robust market data services. More information at [Interactive Brokers](https://www.interactivebrokers.com/).
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Provides an extensive set of APIs for [algorithmic trading](../a/algorithmic_trading.md), along with robust market data services. More information at [Interactive Brokers](https://www.interactivebrokers.com/).
 
-- **Trading Technologies**: This platform offers tools for building, [backtesting](../b/backtesting.md), and deploying [trading algorithms](../t/trading_algorithms.md). More information at [Trading Technologies](https://www.tradingtechnologies.com/).
+- **[Trading Technologies](../t/trading_technologies.md)**: This platform offers tools for building, [backtesting](../b/backtesting.md), and deploying [trading algorithms](../t/trading_algorithms.md). More information at [Trading Technologies](https://www.tradingtechnologies.com/).
 
 ## Factors Influencing Earnings Surprises
 Several factors can contribute to an earnings surprise, including:

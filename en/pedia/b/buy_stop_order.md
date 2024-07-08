@@ -50,7 +50,7 @@ While buy stop orders are effective for certain strategies, traders might also c
 
 Many online trading platforms and brokerage firms support buy stop orders, including well-known names in the financial industry:
 
-- **Interactive Brokers**: [Interactive Brokers](https://www.interactivebrokers.com) offers a wide range of order types, including buy stop orders, to help traders execute various [trading strategies](../t/trading_strategies.md).
+- **[Interactive Brokers](../i/interactive_brokers.md)**: [Interactive Brokers](https://www.interactivebrokers.com) offers a wide range of order types, including buy stop orders, to help traders execute various [trading strategies](../t/trading_strategies.md).
 - **TD [Ameritrade](../a/ameritrade.md)**: [TD Ameritrade](https://www.tdameritrade.com) provides comprehensive tools and resources for traders to set up and manage buy stop orders.
 - **E*TRADE**: [E*TRADE](https://us.etrade.com) supports different order types to help traders automate their [trading strategies](../t/trading_strategies.md), including the use of buy stop orders.
 - **Fidelity**: [Fidelity](https://www.fidelity.com) offers buy stop order capabilities to its clients, allowing them to leverage this tool as part of their [trading strategies](../t/trading_strategies.md).

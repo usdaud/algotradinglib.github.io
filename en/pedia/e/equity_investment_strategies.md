@@ -79,7 +79,7 @@ Index investing aims to replicate the performance of a market index, like the S&
 [Sector rotation](../s/sector_rotation.md) involves shifting investment focus across different sectors of the economy based on macroeconomic trends. This strategy seeks to capitalize on the business cycle phases where certain sectors outperform.
 
 - **Key Indicators**: [Economic Indicators](../e/economic_indicators.md) (GDP growth rate, unemployment rates), Sector-specific metrics.
-- **Notable Practitioners**: Fidelity Investments (https://www.fidelity.com).
+- **Notable Practitioners**: [Fidelity Investments](../f/fidelity_investments.md) (https://www.fidelity.com).
 - **Example**: Investing in consumer staples during economic downturns, technology during growth phases.
 
 ### Tools and Techniques

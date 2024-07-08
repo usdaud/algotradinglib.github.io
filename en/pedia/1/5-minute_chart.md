@@ -96,7 +96,7 @@ When back-testing strategies on 5-minute charts, there is a risk of overfitting 
 MetaTrader platforms are popular among Forex traders. They offer robust [algorithmic trading](../a/algorithmic_trading.md) capabilities and support for 5-minute charts, making them suitable for both manual and automated trading.
 
 ### Interactive Brokers
-Interactive Brokers provide access to a wide range of financial instruments and advanced charting tools. Their platform supports 5-minute charts and integrates seamlessly with [algorithmic trading](../a/algorithmic_trading.md) scripts.
+[Interactive Brokers](../i/interactive_brokers.md) provide access to a wide range of financial instruments and advanced charting tools. Their platform supports 5-minute charts and integrates seamlessly with [algorithmic trading](../a/algorithmic_trading.md) scripts.
 
 ### AlgoTrader
 [AlgoTrader](../a/algotrader.md) is an institutional-grade [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple asset classes. It offers real-time data, analytics, and execution capabilities using 5-minute charts.

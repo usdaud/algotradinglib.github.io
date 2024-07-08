@@ -83,7 +83,7 @@ This code sets the baseline for a simple Average Up strategy. It buys 100 shares
 ### Interactive Brokers (IBKR)
 
 #### https://www.interactivebrokers.com/
-Interactive Brokers offers powerful automation tools and API access that allow traders to implement and automate strategies like Average Up. Their services support a wide range of assets and sophisticated [trading algorithms](../t/trading_algorithms.md).
+[Interactive Brokers](../i/interactive_brokers.md) offers powerful automation tools and API access that allow traders to implement and automate strategies like Average Up. Their services support a wide range of assets and sophisticated [trading algorithms](../t/trading_algorithms.md).
 
 ### Alpaca
 
@@ -92,4 +92,4 @@ Interactive Brokers offers powerful automation tools and API access that allow t
 
 ## Conclusion
 
-The Average Up strategy can be a powerful tool in the arsenal of traders and [algorithmic trading](../a/algorithmic_trading.md) systems. By systematically increasing positions in rising stocks, traders can leverage market momentum to potentially reap substantial profits. However, the strategy necessitates careful planning, rigorous testing, and adherence to best practices to mitigate risks and maximize returns. When implemented correctly—with the aid of advanced [algorithmic trading](../a/algorithmic_trading.md) platforms such as [QuantConnect](../q/quantconnect.md), Interactive Brokers, and [Alpaca](../a/alpaca.md)—the Average Up strategy can significantly enhance [trading performance](../t/trading_performance.md).
+The Average Up strategy can be a powerful tool in the arsenal of traders and [algorithmic trading](../a/algorithmic_trading.md) systems. By systematically increasing positions in rising stocks, traders can leverage market momentum to potentially reap substantial profits. However, the strategy necessitates careful planning, rigorous testing, and adherence to best practices to mitigate risks and maximize returns. When implemented correctly—with the aid of advanced [algorithmic trading](../a/algorithmic_trading.md) platforms such as [QuantConnect](../q/quantconnect.md), [Interactive Brokers](../i/interactive_brokers.md), and [Alpaca](../a/alpaca.md)—the Average Up strategy can significantly enhance [trading performance](../t/trading_performance.md).

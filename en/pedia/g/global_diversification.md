@@ -64,7 +64,7 @@ Several technologies and tools facilitate global diversification in [algorithmic
 
 Several advanced trading platforms support [algorithmic trading](../a/algorithmic_trading.md) and global diversification. Examples include:
 - **MetaTrader 5**: Known for its multi-asset capabilities, MetaTrader 5 supports trading in various financial markets.
-- **Interactive Brokers**: Provides access to numerous markets worldwide with advanced trading tools and API support.
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Provides access to numerous markets worldwide with advanced trading tools and API support.
 Link: [Interactive Brokers](https://www.interactivebrokers.com)
 
 ### Data Providers

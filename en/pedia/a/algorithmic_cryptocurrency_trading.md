@@ -48,8 +48,8 @@ Many [algorithmic trading](../a/algorithmic_trading.md) infrastructures now empl
 
 [Algorithmic trading](../a/algorithmic_trading.md) can be conducted on numerous cryptocurrency exchanges like:
 
-- **Binance**: One of the world's largest and most versatile cryptocurrency exchanges [Binance](https://www.binance.com/).
-- **Coinbase Pro**: An exchange tailored for professional traders with enhanced features for [algorithmic trading](../a/algorithmic_trading.md) [Coinbase Pro](https://pro.coinbase.com/).
+- **[Binance](../b/binance.md)**: One of the world's largest and most versatile cryptocurrency exchanges [Binance](https://www.binance.com/).
+- **[Coinbase](../c/coinbase.md) Pro**: An exchange tailored for professional traders with enhanced features for [algorithmic trading](../a/algorithmic_trading.md) [Coinbase Pro](https://pro.coinbase.com/).
 - **Kraken**: Known for its advanced trading features and extensive range of cryptocurrencies [Kraken](https://www.kraken.com/).
 
 ## Security and Regulation

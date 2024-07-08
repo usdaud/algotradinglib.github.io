@@ -64,7 +64,7 @@ Indicates the maximum observed loss from a peak to a trough, providing insight i
 
 ### 4.2 Algorithmic Trading by Interactive Brokers
 
-Interactive Brokers offers a range of [algorithmic trading](../a/algorithmic_trading.md) tools, including predefined algorithms for complex orders.
+[Interactive Brokers](../i/interactive_brokers.md) offers a range of [algorithmic trading](../a/algorithmic_trading.md) tools, including predefined algorithms for complex orders.
 - [Interactive Brokers Official Site](https://www.interactivebrokers.com)
 
 ### 4.3 MetaTrader

@@ -40,7 +40,7 @@ Several tools and technologies are available to assist in managing gross exposur
 Platforms like RiskMetrics or [Bloomberg](../b/bloomberg.md)'s Risk & Analytics provide comprehensive tools for monitoring and managing risk. They offer functionalities for real-time monitoring, stress testing, and limit management.
 
 ### Trading Platforms
-Most advanced trading platforms like MetaTrader, Trading Technologies, and proprietary systems developed by [quantitative trading](../q/quantitative_trading.md) firms include features for real-time [exposure management](../e/exposure_management.md).
+Most advanced trading platforms like MetaTrader, [Trading Technologies](../t/trading_technologies.md), and proprietary systems developed by [quantitative trading](../q/quantitative_trading.md) firms include features for real-time [exposure management](../e/exposure_management.md).
 
 ### Data Feeds and Analytics
 Accurate and timely data is crucial for managing gross exposure. Firms rely on high-quality data feeds from providers like Thomson [Reuters](../r/reuters.md) or [Bloomberg](../b/bloomberg.md) to ensure they have the latest information.

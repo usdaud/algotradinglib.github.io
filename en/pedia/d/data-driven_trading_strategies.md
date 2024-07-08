@@ -50,7 +50,7 @@ Building a trading model involves selecting the appropriate statistical or machi
 [Backtesting](../b/backtesting.md) allows traders to test their models on historical data to evaluate performance. This step is crucial for understanding the efficacy and robustness of a trading strategy before deploying it in live markets.
 
 ### 4. **Execution and Automation**
-With a validated model, the next step is to execute trades. Automated trading platforms like MetaTrader (https://www.[metatrader4](../m/metatrader4.md).com/) and Interactive Brokers (https://www.interactivebrokers.com/) enable seamless trade execution. Implementing [risk management](../r/risk_management.md) protocols, such as [stop-loss orders](../s/stop-loss_orders.md) and [position sizing](../p/position_sizing.md), is also vital.
+With a validated model, the next step is to execute trades. Automated trading platforms like MetaTrader (https://www.[metatrader4](../m/metatrader4.md).com/) and [Interactive Brokers](../i/interactive_brokers.md) (https://www.interactivebrokers.com/) enable seamless trade execution. Implementing [risk management](../r/risk_management.md) protocols, such as [stop-loss orders](../s/stop-loss_orders.md) and [position sizing](../p/position_sizing.md), is also vital.
 
 ### 5. **Performance Monitoring**
 Even after deployment, continuous monitoring is essential to ensure that the strategy performs as expected. Metrics like [Sharpe ratio](../s/sharpe_ratio.md), drawdown, and alpha should be regularly evaluated.

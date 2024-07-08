@@ -86,7 +86,7 @@ High-frequency trading firms use advanced technology to execute trades at extrem
 Several technological platforms provide tools for spread traders, including real-time spread charts, analytics, historical data, and automated trading capabilities. Examples include:
 
 - **[CQG](../c/cqg.md)**: Offers advanced charting and analytics specifically tailored for [spread trading](../s/spread_trading.md). More information can be found on their official website [here](https://www.cqg.com).
-- **Trading Technologies (TT)**: Known for its robust [spread trading](../s/spread_trading.md) functionalities and execution tools. Their products cater extensively to professional spread traders. Visit their website [here](https://www.tradingtechnologies.com).
+- **[Trading Technologies](../t/trading_technologies.md) (TT)**: Known for its robust [spread trading](../s/spread_trading.md) functionalities and execution tools. Their products cater extensively to professional spread traders. Visit their website [here](https://www.tradingtechnologies.com).
 
 ## Conclusion
 

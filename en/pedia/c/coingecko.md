@@ -6,7 +6,7 @@ CoinGecko is a leading cryptocurrency data aggregator that provides a comprehens
 ## Key Features
 1. **Market Data**: CoinGecko provides real-time and historical market data for over 6,000 cryptocurrencies. This includes price, market capitalization, trading volume, and price changes.
 
-2. **Price Charts**: Users can access detailed price charts with various time frames, from hourly to all-time data. The charts are interactive and can be customized for technical analysis.
+2. **Price Charts**: Users can access detailed price charts with various time frames, from hourly to all-time data. The charts are interactive and can be customized for [technical analysis](../t/technical_analysis.md).
 
 3. **Exchange Data**: CoinGecko tracks data from hundreds of cryptocurrency exchanges, including trading pairs, volume, liquidity, and fees.
 
@@ -32,7 +32,7 @@ CoinGecko is a leading cryptocurrency data aggregator that provides a comprehens
 
 ## Use Cases
 - **Market Analysis**: Investors and traders use CoinGecko to analyze market trends, track price movements, and make informed trading decisions.
-- **Portfolio Management**: Users can manage their cryptocurrency portfolios and track their performance using CoinGecko's portfolio tracker.
+- **[Portfolio Management](../p/portfolio_management.md)**: Users can manage their cryptocurrency portfolios and track their performance using CoinGecko's portfolio tracker.
 - **Research**: Researchers and analysts use CoinGecko for accessing detailed market data and metrics for various cryptocurrencies.
 - **API Integration**: Developers can integrate CoinGecko's API into their applications to provide users with up-to-date cryptocurrency data.
 

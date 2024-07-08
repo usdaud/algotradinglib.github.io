@@ -78,7 +78,7 @@ Regulatory measures such as mandatory reporting and pre-trade risk controls nece
 
 #### Innovation and Competition
 
-While regulation aims to ensure market stability, it may also inadvertently stifle innovation. The stringent requirements imposed by regulatory bodies can discourage smaller firms from entering the market, thereby reducing competition and potentially limiting the overall evolution of trading technologies.
+While regulation aims to ensure market stability, it may also inadvertently stifle innovation. The stringent requirements imposed by regulatory bodies can discourage smaller firms from entering the market, thereby reducing competition and potentially limiting the overall evolution of [trading technologies](../t/trading_technologies.md).
 
 ### Case Studies
 

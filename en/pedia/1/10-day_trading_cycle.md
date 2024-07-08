@@ -78,7 +78,7 @@ Leveraging technology is essential for effective implementation of the 10-[day t
 - **[TradingView](../t/tradingview.md)**: Offers extensive charting tools and indicators.
 - **MetaTrader 4/5**: Widely used platforms with comprehensive tools for [technical analysis](../t/technical_analysis.md).
 - **E*TRADE**: Provides a robust platform for executing trades with advanced analysis tools.
-- **Interactive Brokers**: Known for low-cost, high-speed trading execution.
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Known for low-cost, high-speed trading execution.
 
 ## Conclusion
 

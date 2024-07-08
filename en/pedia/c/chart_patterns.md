@@ -91,7 +91,7 @@ Several companies and platforms specialize in providing [algorithmic trading](..
 
 - **[TradingView](../t/tradingview.md):** Provides a robust platform for chart pattern analysis and is equipped with various tools for integrating these patterns into [algorithmic trading](../a/algorithmic_trading.md) strategies ([TradingView](https://www.tradingview.com/)).
   
-- **MetaStock:** Offers an array of software solutions for [technical analysis](../t/technical_analysis.md), including [pattern recognition](../p/pattern_recognition.md) tools ([MetaStock](https://www.metastock.com/)).
+- **[MetaStock](../m/metastock.md):** Offers an array of software solutions for [technical analysis](../t/technical_analysis.md), including [pattern recognition](../p/pattern_recognition.md) tools ([MetaStock](https://www.metastock.com/)).
   
 - **TrendSpider:** This platform leverages AI to offer automated [technical analysis](../t/technical_analysis.md), including sophisticated [pattern recognition](../p/pattern_recognition.md) ([TrendSpider](https://www.trendspider.com/)).
 

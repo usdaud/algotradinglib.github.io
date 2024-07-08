@@ -94,7 +94,7 @@ cerebro.plot()
 
 ### Execution
 
-Efficient execution of trades based on the 8-period SMA is critical. Many brokers offer API access that allows for automated order placement. For instance, brokers such as Interactive Brokers provide robust APIs that can integrate with custom algotrading solutions.
+Efficient execution of trades based on the 8-period SMA is critical. Many brokers offer API access that allows for automated order placement. For instance, brokers such as [Interactive Brokers](../i/interactive_brokers.md) provide robust APIs that can integrate with custom algotrading solutions.
 
 ## Real-World Applications and Examples
 

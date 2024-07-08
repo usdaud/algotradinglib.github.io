@@ -94,7 +94,7 @@ Various tools and platforms facilitate gamma scalping strategies by providing th
     - Delivers advanced options trading and analysis tools, including greeks monitoring.
     - [LiveVol](https://marketdata.cboe.com/livevol-portal/)
 
-4. **Interactive Brokers:**
+4. **[Interactive Brokers](../i/interactive_brokers.md):**
     - Offers comprehensive tools for options traders, including real-time risk evaluations.
     - [Interactive Brokers](https://www.interactivebrokers.com/)
 

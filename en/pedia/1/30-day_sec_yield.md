@@ -56,7 +56,7 @@ Investors looking at bond funds can use the 30-Day SEC Yield to gauge the curren
    - BlackRock offers a comprehensive overview of the 30-Day SEC Yield for its iShares bond ETFs, aiding investors in making informed decisions.
    - Link: [BlackRock Bond ETFs](https://www.blackrock.com/us/individual/products/239726/)
 
-3. **Fidelity Investments**
+3. **[Fidelity Investments](../f/fidelity_investments.md)**
    - Fidelity discloses the SEC Yield for its various bond funds, providing investors with current and accurate yield information.
    - Link: [Fidelity Bond Funds](https://fundresearch.fidelity.com/mutual-funds/fund-snapshot/31617H102)
 

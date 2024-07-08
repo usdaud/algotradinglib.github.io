@@ -60,7 +60,7 @@ To facilitate real-time Gamma Sensitivity Analysis, various software tools and p
    
 2. **[TradeStation](../t/tradestation.md)**: A robust trading platform offering advanced options analytics, including Gamma calculations and delta-neutral strategies. (Link: [TradeStation](https://www.tradestation.com/))
    
-3. **Interactive Brokers**: Provides sophisticated options trading tools with real-time Greeks calculation, including Gamma. Tailored for active traders and algorithmic strategies. (Link: [Interactive Brokers](https://www.interactivebrokers.com/)).
+3. **[Interactive Brokers](../i/interactive_brokers.md)**: Provides sophisticated options trading tools with real-time Greeks calculation, including Gamma. Tailored for active traders and algorithmic strategies. (Link: [Interactive Brokers](https://www.interactivebrokers.com/)).
 
 ### Conclusion
 

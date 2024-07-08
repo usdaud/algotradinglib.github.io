@@ -70,7 +70,7 @@ Implementing [algorithmic trading](../a/algorithmic_trading.md) strategies requi
 ### Trading Platforms
 
 - **MetaTrader**: Widely used for Forex trading with built-in tools for developing and [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md).
-- **Interactive Brokers**: Provides API access for custom [algorithmic trading](../a/algorithmic_trading.md).
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Provides API access for custom [algorithmic trading](../a/algorithmic_trading.md).
 - **[Bloomberg](../b/bloomberg.md) Terminal**: A comprehensive tool for market data, news, and analytics.
 
 ### Data Sources
@@ -79,7 +79,7 @@ Accurate and timely data is crucial for effective [algorithmic trading](../a/alg
 
 - **[Reuters](../r/reuters.md)**: Offers [real-time market data](../r/real-time_market_data.md).
 - **[Quandl](../q/quandl.md)**: Provides various financial and economic datasets.
-- **Yahoo Finance**: Offers historical data useful for [backtesting](../b/backtesting.md).
+- **[Yahoo Finance](../y/yahoo_finance.md)**: Offers historical data useful for [backtesting](../b/backtesting.md).
 
 ## Challenges and Considerations
 

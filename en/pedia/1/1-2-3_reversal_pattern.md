@@ -44,7 +44,7 @@ To implement the 1-2-3 Reversal Pattern algorithmically, you need:
 - Historical price data
 - [Real-time market data](../r/real-time_market_data.md) for live trading
 - Programming knowledge (e.g., Python, R)
-- Trading platform API (e.g., MetaTrader, Interactive Brokers)
+- Trading platform API (e.g., MetaTrader, [Interactive Brokers](../i/interactive_brokers.md))
 
 ### Coding the Patterns
 An algorithm could be programmed to constantly scan the market for the conditions that constitute Points 1, 2, and 3. Here’s a pseudo-code example in Python:

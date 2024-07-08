@@ -31,7 +31,7 @@ MATLAB offers several advantages in the context of [algorithmic trading](../a/al
 
 The first step in [algorithmic trading](../a/algorithmic_trading.md) involves data acquisition and preprocessing. MATLAB supports a variety of data sources including:
 
-- **Financial Data APIs**: Such as Alpha Vantage, Yahoo Finance, and other market data providers.
+- **Financial Data APIs**: Such as Alpha Vantage, [Yahoo Finance](../y/yahoo_finance.md), and other market data providers.
 - **Database Connectivity**: To SQL and NoSQL databases.
 - **File Formats**: Including CSV, Excel, and JSON.
 
@@ -64,7 +64,7 @@ MATLAB's comprehensive libraries and toolboxes such as Statistics and Machine Le
 The final step involves the actual execution of trades. This can be handled by:
 
 - **Order [Execution Algorithms](../e/execution_algorithms.md)**: Implementing algorithms for market making, [arbitrage](../a/arbitrage.md), and [trend following](../t/trend_following.md).
-- **API Integration**: Connecting to brokerage platforms via APIs for order execution. MATLAB supports integration with brokers like Interactive Brokers through API libraries.
+- **API Integration**: Connecting to brokerage platforms via APIs for order execution. MATLAB supports integration with brokers like [Interactive Brokers](../i/interactive_brokers.md) through API libraries.
 
 ## Sample MATLAB Code for Algorithmic Trading
 
@@ -117,7 +117,7 @@ ylabel('Cumulative Returns');
 
 1. **[QuantConnect](../q/quantconnect.md)**: Provides a cloud-based platform for [algorithmic trading](../a/algorithmic_trading.md) using multiple programming languages including MATLAB. [Link to QuantConnect](https://www.quantconnect.com/)
 
-2. **Interactive Brokers**: Offers a MATLAB-to-API integration for live trading with MATLAB developed algorithms. [Link to Interactive Brokers](https://www.interactivebrokers.com/)
+2. **[Interactive Brokers](../i/interactive_brokers.md)**: Offers a MATLAB-to-API integration for live trading with MATLAB developed algorithms. [Link to Interactive Brokers](https://www.interactivebrokers.com/)
 
 ## Conclusion
 

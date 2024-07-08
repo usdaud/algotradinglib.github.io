@@ -46,7 +46,7 @@ Several tools and technologies facilitate the data mining process in [algorithmi
 
 3. **Cloud Computing**: Cloud services like AWS, Google Cloud, and Azure offer scalable resources and services for data storage, processing, and analysis, supporting complex [algorithmic trading](../a/algorithmic_trading.md) strategies.
 
-4. **APIs**: Various financial market APIs (e.g., Alpha Vantage, Yahoo Finance, [Quandl](../q/quandl.md)) provide access to historical and real-time data, which are essential for data mining and model development.
+4. **APIs**: Various financial market APIs (e.g., Alpha Vantage, [Yahoo Finance](../y/yahoo_finance.md), [Quandl](../q/quandl.md)) provide access to historical and real-time data, which are essential for data mining and model development.
 
 ## Applications of Data Mining in Algorithmic Trading
 

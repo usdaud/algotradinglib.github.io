@@ -42,7 +42,7 @@ Knowing that a trading strategy has been rigorously tested and has shown promisi
 
 The first step in the automated [backtesting](../b/backtesting.md) process is to collect and preprocess historical data. This involves accessing historical price data, cleaning it to remove anomalies, and structuring it in a manner suitable for [backtesting](../b/backtesting.md).
 
-1. **Data Sources**: Data can be sourced from various providers, including exchanges, financial data vendors, and APIs (e.g., Alpha Vantage, [Quandl](../q/quandl.md), Yahoo Finance).
+1. **Data Sources**: Data can be sourced from various providers, including exchanges, financial data vendors, and APIs (e.g., Alpha Vantage, [Quandl](../q/quandl.md), [Yahoo Finance](../y/yahoo_finance.md)).
 2. **[Data Cleaning](../d/data_cleaning.md)**: Removing outliers, filling missing data, and ensuring time-series continuity are essential tasks in the preprocessing phase.
 
 ### Strategy Implementation

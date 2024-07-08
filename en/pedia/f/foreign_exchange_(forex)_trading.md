@@ -104,9 +104,9 @@ Several platforms cater specifically to forex trading, offering real-time tradin
 ### Broker Services
 
 Forex brokers facilitate retail traders' access to liquidity providers and offer leverage, trading tools, and educational resources. Some well-known brokers include:
-- **IG Group**: [IG Group](https://www.ig.com/)
+- **[IG Group](../i/ig_group.md)**: [IG Group](https://www.ig.com/)
 - **Forex.com**: [Forex.com](https://www.forex.com/)
-- **Interactive Brokers**: [Interactive Brokers](https://www.interactivebrokers.com/)
+- **[Interactive Brokers](../i/interactive_brokers.md)**: [Interactive Brokers](https://www.interactivebrokers.com/)
 
 ### APIs and SDKs
 

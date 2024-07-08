@@ -46,7 +46,7 @@ Automated [Portfolio Management](../p/portfolio_management.md) (APM) refers to t
 
 5. **[Factor Investing](../f/factor_investing.md)**
    - **Concept**: Selecting securities based on factors like value, size, momentum, and quality.
-   - **Example**: Using platforms such as [Alpaca](../a/alpaca.md) or Interactive Brokers for executing factor-based strategies.
+   - **Example**: Using platforms such as [Alpaca](../a/alpaca.md) or [Interactive Brokers](../i/interactive_brokers.md) for executing factor-based strategies.
 
 ## Tools and Platforms for Automated Portfolio Management
 

@@ -95,7 +95,7 @@ While the Bear Call Spread is meant to be a "set it and forget it" strategy, som
 
 ## Companies and Brokers Offering Option Trading
 
-1. **Interactive Brokers**: Known for their robust trading platform and wide range of strategies support.
+1. **[Interactive Brokers](../i/interactive_brokers.md)**: Known for their robust trading platform and wide range of strategies support.
    - [Interactive Brokers](https://www.interactivebrokers.com)
 
 2. **[Thinkorswim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md)**: A highly regarded platform for options trading with advanced analytics and trading tools.

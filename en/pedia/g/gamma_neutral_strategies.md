@@ -48,7 +48,7 @@ Implementing gamma neutral strategies algorithmically involves several crucial s
    - Create rules for when and how to adjust positions to maintain gamma neutrality.
 
 3. **Execution:**
-   - Use high-frequency trading (HFT) platforms like those provided by Interactive Brokers ([Interactive Brokers](https://www.interactivebrokers.com/)) or custom platforms to execute trades efficiently.
+   - Use high-frequency trading (HFT) platforms like those provided by [Interactive Brokers](../i/interactive_brokers.md) ([Interactive Brokers](https://www.interactivebrokers.com/)) or custom platforms to execute trades efficiently.
    - Ensure the infrastructure supports swift execution to capitalize on market movements.
 
 4. **Monitoring and Adjustment:**

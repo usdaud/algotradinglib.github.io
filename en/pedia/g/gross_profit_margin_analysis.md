@@ -34,7 +34,7 @@ Several financial platforms and services provide real-time financial data, inclu
 
 1. **[Bloomberg](../b/bloomberg.md) Terminal:** [Bloomberg](https://www.bloomberg.com/professional/solution/execution-order-management/) offers comprehensive financial data and analytics that are essential for real-time trading and analysis.
 2. **Thomson [Reuters](../r/reuters.md) Eikon:** [Thomson Reuters](https://www.refinitiv.com/en/products/eikon-trading-software) provides financial markets data and tools for in-depth analysis and trading.
-3. **Yahoo Finance API:** [Yahoo Finance](https://www.yahoofinanceapi.com/) offers access to fundamental financial data, including gross profit margins.
+3. **[Yahoo Finance](../y/yahoo_finance.md) API:** [Yahoo Finance](https://www.yahoofinanceapi.com/) offers access to fundamental financial data, including gross profit margins.
 
 #### Case Study: Analyzing Gross Profit Margin for Algorithmic Trading
 
@@ -44,7 +44,7 @@ Let's consider a hypothetical case study to illustrate how gross [profit margin 
 
 **Steps:**
 
-1. **Data Collection:** The algorithm collects financial data from sources like [Bloomberg](../b/bloomberg.md) or Yahoo Finance, focusing on the technology sector.
+1. **Data Collection:** The algorithm collects financial data from sources like [Bloomberg](../b/bloomberg.md) or [Yahoo Finance](../y/yahoo_finance.md), focusing on the technology sector.
 2. **Screening Criteria:** It screens for companies with the following characteristics:
    - Gross profit margin above 50%
    - Year-over-year revenue growth of at least 10%

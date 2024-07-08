@@ -150,7 +150,7 @@ CCXT is a cryptocurrency trading library that supports many exchanges.
 import ccxt
 
 # Initialize exchange
-exchange = ccxt.binance({
+exchange = ccxt.[binance](../b/binance.md)({
     'apiKey': 'your_api_key',
     'secret': 'your_secret',
 })

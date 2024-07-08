@@ -61,7 +61,7 @@ The effectiveness of delta hedging can be influenced by prevailing market condit
 Regulatory policies often impact the ability to implement delta [hedging strategies](../h/hedging_strategies.md), especially when it comes to derivative trading and [short selling](../s/short_selling.md). Compliance with these regulations is crucial to avoid legal repercussions.
 
 #### Technological Infrastructure
-Executing delta [hedging strategies](../h/hedging_strategies.md) effectively requires robust technological infrastructure. This includes access to [real-time market data](../r/real-time_market_data.md), advanced [trading algorithms](../t/trading_algorithms.md), and automated trading platforms. Companies specializing in trading technologies, such as [Fidessa](https://www.fidessa.com/) and [Trading Technologies](https://www.tradingtechnologies.com/), offer solutions that facilitate delta hedging.
+Executing delta [hedging strategies](../h/hedging_strategies.md) effectively requires robust technological infrastructure. This includes access to [real-time market data](../r/real-time_market_data.md), advanced [trading algorithms](../t/trading_algorithms.md), and automated trading platforms. Companies specializing in [trading technologies](../t/trading_technologies.md), such as [Fidessa](https://www.fidessa.com/) and [Trading Technologies](https://www.tradingtechnologies.com/), offer solutions that facilitate delta hedging.
 
 ### Conclusion
 
