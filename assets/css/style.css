@@ -457,6 +457,36 @@ footer a:hover .github-icon {
     max-width: 800px;
 }
 
+#search-form {
+    display: flex;
+    width: 100%;
+    max-width: 600px;
+}
+
+#search-input {
+    flex-grow: 1;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ced4da;
+    border-radius: 20px 0 0 20px;
+    outline: none;
+}
+
+#search-form button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 0 20px 20px 0;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+#search-form button:hover {
+    background-color: #0056b3;
+}
+
 @keyframes pulse {
     0% {
         transform: scale(1);
