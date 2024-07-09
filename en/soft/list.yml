@@ -3,7 +3,7 @@
   logo: /assets/images/logos/amibroker.png
   website: https://www.amibroker.com/
   pedia_link: /en/pedia/a/amibroker.html
-  filters: [Backtesting, Charting, Stock, Historical Data, Custom Script]
+  filters: [Backtesting, Charting, Stock, Historical Data, Custom lang]
   supported_data_providers: [eSignal, IQFeed, Interactive Brokers, Quandl, Yahoo Finance, Google Finance, Tiingo, Alpha Vantage]
   supported_brokers: [Interactive Brokers]
 
@@ -177,7 +177,7 @@
   logo: /assets/images/logos/metatrader.png
   website: https://www.metatrader4.com/
   pedia_link: /en/pedia/m/metatrader4.html
-  filters: [Live trading, Backtesting, Custom Script]
+  filters: [Live trading, Backtesting, Custom lang]
   supported_data_providers: []
   supported_brokers: []
 
@@ -186,7 +186,7 @@
   logo: /assets/images/logos/metatrader.png
   website: https://www.metatrader5.com/
   pedia_link: /en/pedia/m/metatrader5.html
-  filters: [Live trading, Backtesting, Custom Script]
+  filters: [Live trading, Backtesting, Custom lang]
   supported_data_providers: []
   supported_brokers: []
 
@@ -343,7 +343,7 @@
   logo: /assets/images/logos/tradestation.png
   website: https://www.tradestation.com/
   pedia_link: /en/pedia/t/tradestation.html
-  filters: [Live trading, Backtesting, Custom Script]
+  filters: [Live trading, Backtesting, Custom lang]
   supported_data_providers: []
   supported_brokers: []
 
@@ -361,7 +361,7 @@
   logo: /assets/images/logos/tradingview.png
   website: https://www.tradingview.com/
   pedia_link: /en/pedia/t/tradingview.html
-  filters: [Charting, Backtesting, Custom Script]
+  filters: [Charting, Backtesting, Custom lang]
   supported_data_providers: []
   supported_brokers: []
 
