@@ -1,0 +1,118 @@
+﻿- name: Algorithmic Trading Reddit
+  description: Сабреддит, посвященный алгоритмической торговле
+  logo: /assets/images/logos/reddit.png
+  website: https://www.reddit.com/r/algotrading/
+  pedia_link: /ru/pedia/a/algorithmic_trading_reddit.html
+  filters: [Английский, Reddit]
+
+- name: Big Mike Trading (Futures.io)
+  description: Форум для трейдеров фьючерсов с разделом по алгоритмической торговле
+  logo: /assets/images/logos/nexusfi.png
+  website: https://nexusfi.com/platforms-indicators/
+  pedia_link: /ru/pedia/b/big_mike_trading.html
+  filters: [Английский, Форум]
+
+- name: Elite Trader
+  description: Форум для трейдеров с разделами по алгоритмической торговле
+  logo: /assets/images/logos/elitetrader.png
+  website: https://www.elitetrader.com/et/#technical-topics.32
+  pedia_link: /ru/pedia/e/elite_trader.html
+  filters: [Английский, Форум]
+
+- name: FinanzaOnline
+  description: Итальянский форум о финансах и инвестициях, включая разделы по алгоритмической торговле
+  logo: /assets/images/logos/finanzaonline.png
+  website: https://www.finanzaonline.com/forum/
+  pedia_link: /ru/pedia/f/finanzaonline.html
+  filters: [Итальянский, Форум]
+
+- name: Forum Bourse Trading
+  description: Французский форум, посвященный трейдингу и инвестициям, включая алгоритмическую торговлю
+  logo: /assets/images/logos/abcbourse.png
+  website: https://www.abcbourse.com/forums/
+  pedia_link: /ru/pedia/f/forum_bourse_trading.html
+  filters: [Французский, Форум]
+
+- name: Gelonghui
+  description: Китайский форум, посвященный финансовым рынкам и торговым стратегиям
+  logo: /assets/images/logos/gelonghui.png
+  website: https://www.gelonghui.com/hotpost
+  pedia_link: /ru/pedia/g/gelonghui.html
+  filters: [Китайский, Форум]
+
+- name: Investireoggi
+  description: Итальянский форум о трейдинге и инвестициях с разделом по алгоритмической торговле
+  logo: /assets/images/logos/investireoggi.png
+  website: https://www.investireoggi.it/forums/
+  pedia_link: /ru/pedia/i/investireoggi.html
+  filters: [Итальянский, Форум]
+
+- name: QuantConnect Community
+  description: Форум для обсуждения платформы QuantConnect
+  logo: /assets/images/logos/quantconnect.png
+  website: https://www.quantconnect.com/forum
+  pedia_link: /ru/pedia/q/quantconnect.html
+  filters: [Английский, Форум]
+
+- name: QuantNet
+  description: Англоязычный форум, посвященный количественным методам и алгоритмической торговле
+  logo: /assets/images/logos/quantnet.png
+  website: https://quantnet.com/forum/
+  pedia_link: /ru/pedia/q/quantnet.html
+  filters: [Английский, Форум]
+
+- name: Quantitative Finance Reddit
+  description: Сабреддит, посвященный количественным финансам
+  logo: /assets/images/logos/reddit.png
+  website: https://www.reddit.com/r/quantfinance/
+  pedia_link: /ru/pedia/q/quantitative_finance_reddit.html
+  filters: [Английский, Reddit]
+
+- name: Quantitative Finance Stack Exchange
+  description: Сайт вопросов и ответов по количественным финансам и алгоритмической торговле
+  logo: /assets/images/logos/stackexchange.png
+  website: https://quant.stackexchange.com/
+  pedia_link: /ru/pedia/q/quantitative_finance_stack_exchange.html
+  filters: [Английский, Форум]
+
+- name: Rankia
+  description: Испаноязычный форум о финансах и инвестициях с разделом по алгоритмической торговле
+  logo: /assets/images/logos/rankia.png
+  website: https://www.rankia.com/
+  pedia_link: /ru/pedia/r/rankia.html
+  filters: [Испанский, Форум]
+
+- name: Smart-Lab
+  description: Форум и блог о трейдинге и инвестициях, включая разделы по алгоритмической торговле
+  logo: /assets/images/logos/smartlab.png
+  website: https://smart-lab.ru/
+  pedia_link: /ru/pedia/s/smart_lab.html
+  filters: [Русский, Форум]
+
+- name: Trade2Win
+  description: Форум для трейдеров с разделами по алгоритмической торговле и количественным методам
+  logo: /assets/images/logos/trade2win.png
+  website: https://www.trade2win.com/
+  pedia_link: /ru/pedia/t/trade2win.html
+  filters: [Английский, Форум]
+
+- name: TradingView
+  description: Глобальное сообщество с форумами и чатами на нескольких языках, включая обсуждения алгоритмической торговли
+  logo: /assets/images/logos/tradingview.png
+  website: https://www.tradingview.com/community/
+  pedia_link: /ru/pedia/t/tradingview.html
+  filters: [Английский, Форум]
+
+- name: X-Trader.net
+  description: Испанский форум, посвященный трейдингу и инвестициям, включая алгоритмическую торговлю
+  logo: /assets/images/logos/x_trader.png
+  website: https://www.x-trader.net/foro/
+  pedia_link: /ru/pedia/x/x_trader_net.html
+  filters: [Испанский, Форум]
+
+- name: Xueqiu
+  description: Китайский форум и социальная сеть для инвесторов, включая разделы по алгоритмической торговле
+  logo: /assets/images/logos/xueqiu.png
+  website: https://xueqiu.com/
+  pedia_link: /ru/pedia/x/xueqiu.html
+  filters: [Китайский, Форум]

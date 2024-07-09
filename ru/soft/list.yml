@@ -1,0 +1,404 @@
+- name: Amibroker
+  description: Инструмент для технического анализа и бэктестинга
+  logo: /assets/images/logos/amibroker.png
+  website: https://www.amibroker.com/
+  pedia_link: /ru/pedia/a/amibroker.html
+  filters: [Бэктестинг, Построение графиков, Акции, Исторические данные, Пользовательские скрипты]
+  supported_data_providers: [eSignal, IQFeed, Interactive Brokers, Quandl, Yahoo Finance, Google Finance, Tiingo, Alpha Vantage]
+  supported_brokers: [Interactive Brokers]
+
+- name: ATAS
+  description: Продвинутая торговая и аналитическая платформа
+  logo: /assets/images/logos/atas.png
+  website: https://atas.net/
+  pedia_link: /ru/pedia/a/atas.html
+  filters: [Построение графиков, Живая торговля, Данные в реальном времени, C#]
+  supported_data_providers: [CQG, IQFeed, Interactive Brokers, Rithmic]
+  supported_brokers: [Interactive Brokers, CQG, Rithmic, AMP, LMAX, Binance]
+
+- name: Backtrader
+  description: Python-фреймворк для бэктестинга торговых стратегий
+  logo: /assets/images/logos/backtrader.png
+  website: https://www.backtrader.com/
+  pedia_link: /ru/pedia/b/backtrader.html
+  github: https://github.com/mementum/backtrader
+  filters: [Бесплатно, Бэктестинг, Бумажная торговля, Открытый исходный код, Python]
+  supported_data_providers: [Yahoo Finance, Interactive Brokers, Oanda, Quandl]
+  supported_brokers: [Interactive Brokers, Oanda]
+
+- name: BlueShift
+  description: Платформа для алгоритмической торговли от Blueshift Asset Management
+  logo: /assets/images/logos/blueshift.png
+  website: https://blueshift.com/
+  pedia_link: /ru/pedia/b/blueshift.html
+  filters: [API, Бэктестинг, Живая торговля, Python]
+  supported_data_providers: [Alpaca, IEX Cloud, Polygon.io]
+  supported_brokers: [Alpaca]
+
+- name: cTrader
+  description: Продвинутая торговая платформа для форекс и CFD-торговли
+  logo: /assets/images/logos/ctrader.png
+  website: https://www.ctrader.com/
+  pedia_link: /ru/pedia/c/ctrader.html
+  filters: [API, Живая торговля, Бумажная торговля, C#]
+  supported_data_providers: []
+  supported_brokers: [IC Markets, Pepperstone, FxPro, Axiory, FXCM]
+
+- name: ChartIQ
+  description: HTML5 программное обеспечение для построения графиков и технического анализа
+  logo: /assets/images/logos/chartiq.png
+  website: https://www.spglobal.com/marketintelligence/en/solutions/chartiq
+  pedia_link: /ru/pedia/c/chartiq.html
+  filters: [Построение графиков, API, JavaScript]
+  supported_data_providers: []
+  supported_brokers: []
+
+- name: CQG
+  description: Профессиональная торговая платформа для фьючерсов и опционов
+  logo: /assets/images/logos/cqg.png
+  website: https://www.cqg.com/
+  pedia_link: /ru/pedia/c/cqg.html
+  filters: [Живая торговля, API, Данные в реальном времени]
+  supported_data_providers: []
+  supported_brokers: []
+
+- name: Deltix
+  description: Платформа для количественных исследований и алгоритмической торговли
+  logo: /assets/images/logos/deltix.png
+  website: https://www.deltixlab.com/
+  pedia_link: /ru/pedia/d/deltix.html
+  filters: [Бэктестинг, Живая торговля, API, Java]
+  supported_data_providers: []
+  supported_brokers: []
+
+- name: DXTrade
+  description: Мультиактивная торговая платформа
+  logo: /assets/images/logos/dxtrade.png
+  website: https://dx.trade/
+  pedia_link: /ru/pedia/d/dxtrade.html
+  filters: [Живая торговля, API, Данные в реальном времени]
+  supported_data_providers: []
+  supported_brokers: []
+
+- name: eSignal
+  description: Программное обеспечение для анализа и получения данных о рынке в реальном времени
+  logo: /assets/images/logos/esignal.png
+  website: https://www.esignal.com/
+  pedia_link: /ru/pedia/e/esignal.html
+  filters: [Построение графиков, Данные в реальном времени, Исторические данные]
+  supported_data_providers: []
+  supported_brokers: []
+
+- name: Genesis
+  description: Микросервисы и модули для финансовых рынков
+  logo: /assets/images/logos/genesis.png
+  website: https://genesis.global/
+  pedia_link: /ru/pedia/g/genesis.html
+  filters: [API, Живая торговля]
+  supported_data_providers: []
+  supported_brokers: []
+
+- name: GoCharting
+  description: Веб-платформа для построения графиков и технического анализа
+  logo: /assets/images/logos/gocharting.png
+  website: https://gocharting.com/
+  pedia_link: /ru/pedia/g/gocharting.html
+  filters: [Построение графиков, Акции, Криптовалюты]
+  supported_data_providers: [Yahoo Finance, Binance, CoinGecko]
+  supported_brokers: []
+
+- name: IBridgePy
+  description: Python-фреймворк для торговли через Interactive Brokers
+  logo: /assets/images/logos/ibridgepy.png
+  website: https://ibridgepy.com/
+  pedia_link: /ru/pedia/i/ibridgepy.html
+  filters: [API, Живая торговля, Бумажная торговля, Акции, Python]
+  supported_data_providers: [Interactive Brokers, Yahoo Finance, TD Ameritrade]
+  supported_brokers: [Interactive Brokers]
+
+- name: JForex
+  description: Java-платформа для торговли от Dukascopy
+  logo: /assets/images/logos/jforex.png
+  website: https://www.dukascopy.com/europe/english/forex/jforex/
+  pedia_link: /ru/pedia/j/jforex.html
+  filters: [API, Живая торговля, Бэктестинг, Java]
+  supported_data_providers: [Dukascopy]
+  supported_brokers: [Dukascopy]
+
+- name: Jigsaw Trading
+  description: Программное обеспечение для торговли потоком ордеров
+  logo: /assets/images/logos/jigsaw.png
+  website: https://www.jigsawtrading.com/
+  pedia_link: /ru/pedia/j/jigsaw_trading.html
+  filters: [Живая торговля, Данные в реальном времени]
+  supported_data_providers: [CQG, Rithmic]
+  supported_brokers: [Interactive Brokers, AMP, Dorman Trading, Interactive Brokers, Optimus Futures, Wedbush]
+
+- name: Kite by Zerodha
+  description: Современная торговая платформа от Zerodha
+  logo: /assets/images/logos/zerodha.png
+  website: https://kite.zerodha.com/
+  pedia_link: /ru/pedia/k/kite_zerodha.html
+  filters: [API, Живая торговля, Акции]
+  supported_data_providers: [Zerodha]
+  supported_brokers: [Zerodha]
+
+- name: Lightweight Charts
+  description: Легковесная библиотека для финансовых графиков
+  logo: /assets/images/logos/tradingview.png
+  website: https://www.tradingview.com/lightweight-charts/
+  pedia_link: /ru/pedia/l/lightweight_charts.html
+  github: https://github.com/tradingview/lightweight-charts
+  filters: [Построение графиков, JavaScript, Открытый исходный код]
+  supported_data_providers: []
+  supported_brokers: []
+
+- name: Livevol
+  description: Платформа для аналитики и торговли опционами
+  logo: /assets/images/logos/livevol.png
+  website: https://www.livevol.com/
+  pedia_link: /ru/pedia/l/livevol.html
+  filters: [Живая торговля, Данные в реальном времени, Акции]
+  supported_data_providers: []
+  supported_brokers: []
+
+- name: Marketcetera
+  description: Торговая платформа с открытым исходным кодом
+  logo: /assets/images/logos/marketcetera.png
+  website: https://www.marketcetera.com/
+  pedia_link: /ru/pedia/m/marketcetera.html
+  github: https://github.com/marketcetera/marketcetera
+  filters: [Открытый исходный код, Java, Живая торговля, API]
+  supported_data_providers: []
+  supported_brokers: [Interactive Brokers]
+
+- name: MetaTrader 4
+  description: Популярная платформа для торговли форекс и CFD
+  logo: /assets/images/logos/metatrader.png
+  website: https://www.metatrader4.com/
+  pedia_link: /ru/pedia/m/metatrader4.html
+  filters: [Живая торговля, Бэктестинг, Пользовательские скрипты]
+  supported_data_providers: []
+  supported_brokers: []
+
+- name: MetaTrader 5
+  description: Мультиактивная торговая платформа
+  logo: /assets/images/logos/metatrader.png
+  website: https://www.metatrader5.com/
+  pedia_link: /ru/pedia/m/metatrader5.html
+  filters: [Живая торговля, Бэктестинг, Пользовательские скрипты]
+  supported_data_providers: []
+  supported_brokers: []
+
+- name: MotiveWave
+  description: Профессиональное программное обеспечение для построения графиков и торговли
+  logo: /assets/images/logos/motivewave.png
+  website: https://www.motivewave.com/
+  pedia_link: /ru/pedia/m/motivewave.html
+  filters: [Построение графиков, Живая торговля, Бэктестинг, Java]
+  supported_data_providers: [CQG, IQFeed, Interactive Brokers, TradeStation, eSignal, Rithmic]
+  supported_brokers: [Interactive Brokers, TradeStation, CQG, Rithmic, FXCM]
+
+- name: MultiCharts
+  description: Профессиональная торговая платформа для технического анализа и автоматизированной торговли
+  logo: /assets/images/logos/multicharts.png
+  website: https://www.multicharts.com/
+  pedia_link: /ru/pedia/m/multicharts.html
+  filters: [Построение графиков, Живая торговля, Бэктестинг, C#]
+  supported_data_providers: [Interactive Brokers, IQFeed, CQG, eSignal, Rithmic, Bloomberg]
+  supported_brokers: [Interactive Brokers, TradeStation, Rithmic, CQG, TD Ameritrade]
+
+- name: NinjaTrader
+  description: Программное обеспечение для торговли и построения графиков для активных трейдеров
+  logo: /assets/images/logos/ninjatrader.png
+  website: https://ninjatrader.com/
+  pedia_link: /ru/pedia/n/ninjatrader.html
+  filters: [Живая торговля, Бэктестинг, Построение графиков, C#]
+  supported_data_providers: [CQG, Kinetick, Rithmic]
+  supported_brokers: [NinjaTrader Brokerage, CQG, Rithmic, Interactive Brokers, TD Ameritrade]
+
+- name: NautilusTrader
+  description: Высокопроизводительный фреймворк для алгоритмической торговли
+  logo: /assets/images/logos/nautilustrader.png
+  website: https://nautilustrader.io/
+  pedia_link: /ru/pedia/n/nautilustrader.html
+  github: https://github.com/nautechsystems/nautilus_trader
+  filters: [Python, Бэктестинг, Живая торговля, Открытый исходный код]
+  supported_data_providers: []
+  supported_brokers: []
+
+- name: NeuroShell
+  description: Программное обеспечение для нейронных сетей для финансового прогнозирования и торговли
+  logo: /assets/images/logos/ward_systems.png
+  website: https://www.ward.net/
+  pedia_link: /ru/pedia/n/neuroshell.html
+  filters: [Бэктестинг]
+  supported_data_providers: [MetaStock, eSignal]
+  supported_brokers: []
+
+- name: Optuma
+  description: Программное обеспечение для технического анализа для профессионалов
+  logo: /assets/images/logos/optuma.png
+  website: https://www.optuma.com/
+  pedia_link: /ru/pedia/o/optuma.html
+  filters: [Построение графиков, Бэктестинг, Исторические данные]
+  supported_data_providers: [Bloomberg, Morningstar, Reuters, Iress, MetaStock]
+  supported_brokers: []
+
+- name: QuantConnect
+  description: Платформа для алгоритмической торговли с открытым исходным кодом
+  logo: /assets/images/logos/quantconnect.png
+  website: https://www.quantconnect.com/
+  pedia_link: /ru/pedia/q/quantconnect.html
+  github: https://github.com/QuantConnect/Lean
+  filters: [Бэктестинг, Живая торговля, Исторические данные, API, Открытый исходный код, Python, C#]
+  supported_data_providers: []
+  supported_brokers: [Interactive Brokers, OANDA, Bitfinex, Coinbase, Alpaca]
+
+- name: QuantHouse
+  description: Поставщик рыночных данных и торговой инфраструктуры
+  logo: /assets/images/logos/quanthouse.png
+  website: https://www.quanthouse.com/
+  pedia_link: /ru/pedia/q/quanthouse.html
+  filters: [Рыночные данные, Исторические данные, API, Акции]
+  supported_data_providers: [Iress]
+  supported_brokers: []
+
+- name: Quantlib
+  description: Библиотека для количественных финансов
+  logo: /assets/images/logos/quantlib.png
+  website: https://www.quantlib.org/
+  pedia_link: /ru/pedia/q/quantlib.html
+  github: https://github.com/lballabio/QuantLib
+  filters: [Открытый исходный код, C++]
+  supported_data_providers: []
+  supported_brokers: []
+
+- name: QuantRocket
+  description: Платформа для количественной торговли
+  logo: /assets/images/logos/quantrocket.png
+  website: https://www.quantrocket.com/
+  pedia_link: /ru/pedia/q/quantrocket.html
+  filters: [Бэктестинг, Живая торговля, API, Python]
+  supported_data_providers: [Interactive Brokers, IEX Cloud, Alpaca]
+  supported_brokers: [Interactive Brokers]
+
+- name: QuantShare
+  description: Программное обеспечение для бэктестинга и автоматизированной торговли
+  logo: /assets/images/logos/quantshare.png
+  website: https://www.quantshare.com/
+  pedia_link: /ru/pedia/q/quantshare.html
+  filters: [Бэктестинг, Живая торговля, C#]
+  supported_data_providers: [Yahoo Finance, Google Finance, Quandl, AlphaVantage, IEX Cloud]
+  supported_brokers: [Interactive Brokers]
+
+- name: Rithmic
+  description: Платформа для торговли и рыночных данных
+  logo: /assets/images/logos/rithmic.png
+  website: https://www.rithmic.com/
+  pedia_link: /ru/pedia/r/rithmic.html
+  filters: [Живая торговля, API, Данные в реальном времени]
+  supported_data_providers: []
+  supported_brokers: []
+
+- name: Sierra Chart
+  description: Профессиональное программное обеспечение для построения графиков и торговли
+  logo: /assets/images/logos/sierra_chart.png
+  website: https://www.sierrachart.com/
+  pedia_link: /ru/pedia/s/sierra_chart.html
+  filters: [Построение графиков, Живая торговля, Бэктестинг, C++]
+  supported_data_providers: [CQG, Rithmic, IQFeed, Interactive Brokers, Kinetick]
+  supported_brokers: [Interactive Brokers, AMP Futures, Dorman Trading]
+
+- name: Sterling Trader
+  description: Профессиональная платформа для прямого доступа к торговле
+  logo: /assets/images/logos/sterling_trader.png
+  website: https://www.sterlingtradingtech.com/
+  pedia_link: /ru/pedia/s/sterling_trader.html
+  filters: [Живая торговля]
+  supported_data_providers: []
+  supported_brokers: []
+
+- name: StockSharp
+  description: Открытая торговая платформа для алгоритмической торговли
+  logo: /assets/images/logos/stocksharp.png
+  website: https://stocksharp.com/
+  pedia_link: /ru/pedia/s/stocksharp.html
+  github: https://github.com/StockSharp/StockSharp
+  filters: [Открытый исходный код, Бесплатно, Исторические данные, API, Бэктестинг, Живая торговля, C#]
+  supported_data_providers: [IQFeed, IEX, Quandl, Yahoo Finance, Finam]
+  supported_brokers: [Interactive Brokers, FXCM, OANDA, Binance, LMAX]
+
+- name: ThinkOrSwim
+  description: Продвинутая торговая платформа от TD Ameritrade
+  logo: /assets/images/logos/thinkorswim.png
+  website: https://www.schwab.com/trading/thinkorswim
+  pedia_link: /ru/pedia/t/thinkorswim.html
+  filters: [Живая торговля, Бэктестинг, Построение графиков]
+  supported_data_providers: []
+  supported_brokers: [Ameritrade]
+
+- name: TradeStation
+  description: Электронная торговая платформа для трейдеров на финансовых рынках
+  logo: /assets/images/logos/tradestation.png
+  website: https://www.tradestation.com/
+  pedia_link: /ru/pedia/t/tradestation.html
+  filters: [Живая торговля, Бэктестинг, Пользовательские скрипты]
+  supported_data_providers: []
+  supported_brokers: []
+
+- name: Trading Technologies
+  description: Профессиональное торговое программное обеспечение для деривативов
+  logo: /assets/images/logos/trading_technologies.png
+  website: https://www.tradingtechnologies.com/
+  pedia_link: /ru/pedia/t/trading_technologies.html
+  filters: [Живая торговля, API]
+  supported_data_providers: []
+  supported_brokers: []
+
+- name: TradingView
+  description: Веб-платформа для построения графиков и социальная сеть для трейдеров и инвесторов
+  logo: /assets/images/logos/tradingview.png
+  website: https://www.tradingview.com/
+  pedia_link: /ru/pedia/t/tradingview.html
+  filters: [Построение графиков, Бэктестинг, Пользовательские скрипты]
+  supported_data_providers: []
+  supported_brokers: []
+
+- name: Volfix
+  description: Аналитическая и торговая платформа
+  logo: /assets/images/logos/volfix.png
+  website: https://volfix.net/
+  pedia_link: /ru/pedia/v/volfix.html
+  filters: [Живая торговля, Акции]
+  supported_data_providers: []
+  supported_brokers: []
+
+- name: Wyden
+  description: Профессиональная платформа для алгоритмической торговли
+  logo: /assets/images/logos/wyden.png
+  website: https://www.wyden.io/
+  pedia_link: /ru/pedia/w/wyden.html
+  filters: [Бэктестинг, Живая торговля, Акции, Криптовалюты, Java]
+  supported_data_providers: []
+  supported_brokers: []
+
+- name: MetaStock
+  description: Программное обеспечение для построения графиков и технического анализа для трейдеров
+  logo: /assets/images/logos/metastock.png
+  website: https://www.metastock.com/
+  pedia_link: /ru/pedia/m/metastock.html
+  github: null
+  filters: [Построение графиков, Бэктестинг, Данные в реальном времени]
+  supported_data_providers: [eSignal]
+  supported_brokers: [Interactive Brokers, Ameritrade, TradeStation]
+
+- name: SciChart
+  description: Высокопроизводительная библиотека для построения графиков и научной визуализации
+  logo: /assets/images/logos/scichart.png
+  website: https://www.scichart.com/
+  pedia_link: /ru/pedia/s/scichart.html
+  github: https://github.com/ABTSoftware/
+  filters: [Построение графиков, JavaScript]
+  supported_data_providers: []
+  supported_brokers: []

@@ -1,7 +1,14 @@
-home: 主页
+home: 首页
 software: 软件
 brokers: 经纪人
+community: 社区
+marketdata: 市场数据
 pedia: 算法百科
+search: 搜索
+more: 更多
+website: 网站
+github: GitHub
+title: 算法交易库
 footer_copyright: 版权所有。
 footer_contact: 联系我们
-contribute: 在 GitHub 上为此项目做贡献
+contribute: 在GitHub上贡献

@@ -1,0 +1,118 @@
+﻿- name: Algorithmic Trading Reddit
+  description: 专注于算法交易的Reddit子版块
+  logo: /assets/images/logos/reddit.png
+  website: https://www.reddit.com/r/algotrading/
+  pedia_link: /zh/pedia/a/algorithmic_trading_reddit.html
+  filters: [英语, Reddit]
+
+- name: Big Mike Trading (Futures.io)
+  description: 期货交易者论坛，包含算法交易板块
+  logo: /assets/images/logos/nexusfi.png
+  website: https://nexusfi.com/platforms-indicators/
+  pedia_link: /zh/pedia/b/big_mike_trading.html
+  filters: [英语, 论坛]
+
+- name: Elite Trader
+  description: 交易者论坛，包含算法交易板块
+  logo: /assets/images/logos/elitetrader.png
+  website: https://www.elitetrader.com/et/#technical-topics.32
+  pedia_link: /zh/pedia/e/elite_trader.html
+  filters: [英语, 论坛]
+
+- name: FinanzaOnline
+  description: 意大利金融和投资论坛，包含算法交易板块
+  logo: /assets/images/logos/finanzaonline.png
+  website: https://www.finanzaonline.com/forum/
+  pedia_link: /zh/pedia/f/finanzaonline.html
+  filters: [意大利语, 论坛]
+
+- name: Forum Bourse Trading
+  description: 法语交易和投资论坛，包括算法交易内容
+  logo: /assets/images/logos/abcbourse.png
+  website: https://www.abcbourse.com/forums/
+  pedia_link: /zh/pedia/f/forum_bourse_trading.html
+  filters: [法语, 论坛]
+
+- name: 格隆汇
+  description: 专注于金融市场和交易策略的中文论坛
+  logo: /assets/images/logos/gelonghui.png
+  website: https://www.gelonghui.com/hotpost
+  pedia_link: /zh/pedia/g/gelonghui.html
+  filters: [中文, 论坛]
+
+- name: Investireoggi
+  description: 意大利交易和投资论坛，包含算法交易板块
+  logo: /assets/images/logos/investireoggi.png
+  website: https://www.investireoggi.it/forums/
+  pedia_link: /zh/pedia/i/investireoggi.html
+  filters: [意大利语, 论坛]
+
+- name: QuantConnect Community
+  description: QuantConnect平台用户讨论论坛
+  logo: /assets/images/logos/quantconnect.png
+  website: https://www.quantconnect.com/forum
+  pedia_link: /zh/pedia/q/quantconnect.html
+  filters: [英语, 论坛]
+
+- name: QuantNet
+  description: 专注于量化方法和算法交易的英语论坛
+  logo: /assets/images/logos/quantnet.png
+  website: https://quantnet.com/forum/
+  pedia_link: /zh/pedia/q/quantnet.html
+  filters: [英语, 论坛]
+
+- name: Quantitative Finance Reddit
+  description: 专注于量化金融的Reddit子版块
+  logo: /assets/images/logos/reddit.png
+  website: https://www.reddit.com/r/quantfinance/
+  pedia_link: /zh/pedia/q/quantitative_finance_reddit.html
+  filters: [英语, Reddit]
+
+- name: Quantitative Finance Stack Exchange
+  description: 量化金融和算法交易问答网站
+  logo: /assets/images/logos/stackexchange.png
+  website: https://quant.stackexchange.com/
+  pedia_link: /zh/pedia/q/quantitative_finance_stack_exchange.html
+  filters: [英语, 论坛]
+
+- name: Rankia
+  description: 西班牙语金融和投资论坛，包含算法交易板块
+  logo: /assets/images/logos/rankia.png
+  website: https://www.rankia.com/
+  pedia_link: /zh/pedia/r/rankia.html
+  filters: [西班牙语, 论坛]
+
+- name: Smart-Lab
+  description: 交易和投资论坛及博客，包含算法交易板块
+  logo: /assets/images/logos/smartlab.png
+  website: https://smart-lab.ru/
+  pedia_link: /zh/pedia/s/smart_lab.html
+  filters: [俄语, 论坛]
+
+- name: Trade2Win
+  description: 交易者论坛，包含算法交易和量化方法板块
+  logo: /assets/images/logos/trade2win.png
+  website: https://www.trade2win.com/
+  pedia_link: /zh/pedia/t/trade2win.html
+  filters: [英语, 论坛]
+
+- name: TradingView
+  description: 多语言全球社区，包含论坛和聊天室，涵盖算法交易讨论
+  logo: /assets/images/logos/tradingview.png
+  website: https://www.tradingview.com/community/
+  pedia_link: /zh/pedia/t/tradingview.html
+  filters: [英语, 论坛]
+
+- name: X-Trader.net
+  description: 西班牙语交易和投资论坛，包括算法交易内容
+  logo: /assets/images/logos/x_trader.png
+  website: https://www.x-trader.net/foro/
+  pedia_link: /zh/pedia/x/x_trader_net.html
+  filters: [西班牙语, 论坛]
+
+- name: 雪球
+  description: 中文投资者论坛和社交网络，包含算法交易板块
+  logo: /assets/images/logos/xueqiu.png
+  website: https://xueqiu.com/
+  pedia_link: /zh/pedia/x/xueqiu.html
+  filters: [中文, 论坛]
