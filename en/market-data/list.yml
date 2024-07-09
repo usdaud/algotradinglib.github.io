@@ -136,7 +136,7 @@
   logo: /assets/images/logos/morningstar.png
   website: https://www.morningstar.com/
   pedia_link: /en/pedia/m/morningstar.html
-  filters: [Historical Data, Stock, Funds, ETFs]
+  filters: [Historical Data, Stock, Funds]
 
 - name: Polygon.io
   description: Financial market data API provider
