@@ -4,6 +4,11 @@ layout: base
 {% assign locale = page.locale %}
 <h1>{{ page.title }}</h1>
 
+<div id="debug-info" style="background-color: #f0f0f0; padding: 10px; margin-top: 20px; border: 1px solid #ccc;">
+  <h3>Debug Information</h3>
+  <pre id="debug-output"></pre>
+</div>
+
 <div id="filters">
   <div class="search-container desktop-only">
     <input type="text" id="catalog-search" placeholder="{{ locale.search }}">
@@ -85,10 +90,19 @@ document.addEventListener('DOMContentLoaded', function() {
   const filterButtons = document.querySelectorAll('.filter-btn, .filter-tag');
   const catalogItems = document.querySelectorAll('.catalog-item');
   const searchInput = document.getElementById('catalog-search');
+  const debugOutput = document.getElementById('debug-output');
 
   let activeFilters = new Set();
   let activeItem = null;
   let searchTerm = '';
+
+  function updateDebugInfo(message) {
+    debugOutput.textContent += message + '\n';
+  }
+
+  function clearDebugInfo() {
+    debugOutput.textContent = '';
+  }
 
   function updateURL() {
     const searchParams = new URLSearchParams();
@@ -117,35 +131,37 @@ document.addEventListener('DOMContentLoaded', function() {
   }
 
   function applyFilters() {
-    console.log("Active filters:", activeFilters);
-    console.log("Active item:", activeItem);
-    console.log("Search term:", searchTerm);
+    clearDebugInfo();
+    updateDebugInfo(`Active filters: ${Array.from(activeFilters).join(', ')}`);
+    updateDebugInfo(`Active item: ${activeItem}`);
+    updateDebugInfo(`Search term: ${searchTerm}`);
+
+    let totalItems = 0;
+    let displayedItems = 0;
 
     catalogItems.forEach(item => {
+      totalItems++;
       const itemFilters = item.dataset.filters.toLowerCase().split(',');
       const itemName = item.querySelector('h2').textContent.trim().toLowerCase();
-      console.log("Processing item:", itemName);
-      console.log("Item filters:", itemFilters);
-
+      
       const filterCondition = activeFilters.size === 0 || Array.from(activeFilters).every(filter => 
         itemFilters.includes(filter.toLowerCase())
       );
-      console.log("Filter condition:", filterCondition);
 
       const itemCondition = !activeItem || itemName === activeItem.toLowerCase();
-      console.log("Item condition:", itemCondition);
 
       const searchCondition = searchTerm === '' || itemName.includes(searchTerm);
-      console.log("Search condition:", searchCondition);
 
       if (filterCondition && itemCondition && searchCondition) {
         item.style.display = 'block';
-        console.log("Item displayed");
+        displayedItems++;
       } else {
         item.style.display = 'none';
-        console.log("Item hidden");
       }
     });
+
+    updateDebugInfo(`Total items: ${totalItems}`);
+    updateDebugInfo(`Displayed items: ${displayedItems}`);
   }
 
   filterButtons.forEach(button => {
@@ -184,11 +200,11 @@ document.addEventListener('DOMContentLoaded', function() {
   const urlSoftware = urlParams.get('software');
   const urlSearch = urlParams.get('search');
   
-  console.log("URL Filters:", urlFilters);
-  console.log("URL Data Provider:", urlDataProvider);
-  console.log("URL Broker:", urlBroker);
-  console.log("URL Software:", urlSoftware);
-  console.log("URL Search:", urlSearch);
+  updateDebugInfo(`URL Filters: ${urlFilters.join(', ')}`);
+  updateDebugInfo(`URL Data Provider: ${urlDataProvider}`);
+  updateDebugInfo(`URL Broker: ${urlBroker}`);
+  updateDebugInfo(`URL Software: ${urlSoftware}`);
+  updateDebugInfo(`URL Search: ${urlSearch}`);
 
   if (urlFilters.length > 0 || urlDataProvider || urlBroker || urlSoftware || urlSearch) {
     urlFilters.forEach(filter => {
@@ -204,7 +220,7 @@ document.addEventListener('DOMContentLoaded', function() {
     
     if (urlDataProvider || urlBroker || urlSoftware) {
       activeItem = decodeURIComponent(urlDataProvider || urlBroker || urlSoftware);
-      console.log("Active item set to:", activeItem);
+      updateDebugInfo(`Active item set to: ${activeItem}`);
     }
 
     if (urlSearch) {
