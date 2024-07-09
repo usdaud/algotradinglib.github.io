@@ -72,7 +72,7 @@ module Jekyll
             else
               soft['supported_brokers']&.include?(item['name'])
             end
-          end.map { |soft| { 'name' => soft['name'], 'link' => "/#{lang}/soft/?#{section == 'market-data' ? 'data-provider' : 'broker'}=#{URI.encode_www_form_component(item['name'])}" } }
+          end.map { |soft| soft['name'] }
         end
       elsif section == 'soft'
         catalog_data.each do |item|

@@ -4,11 +4,6 @@ layout: base
 {% assign locale = page.locale %}
 <h1>{{ page.title }}</h1>
 
-<div id="debug-info" style="background-color: #f0f0f0; padding: 10px; margin-top: 20px; border: 1px solid #ccc;">
-  <h3>Debug Information</h3>
-  <pre id="debug-output"></pre>
-</div>
-
 <div id="filters">
   <div class="search-container desktop-only">
     <input type="text" id="catalog-search" placeholder="{{ locale.search }}">
@@ -33,10 +28,10 @@ layout: base
   {% assign sorted_catalog = page.catalog | sort: 'name' %}
   {% for item in sorted_catalog %}
     <div class="catalog-item" 
-        data-filters="{{ item.filters | join: ',' | downcase }}"
-        data-supported-data-providers="{{ item.supported_data_providers | join: ',' | downcase }}"
-        data-supported-brokers="{{ item.supported_brokers | join: ',' | downcase }}">
-
+         data-filters="{{ item.filters | join: ',' | downcase }}"
+         data-supported-data-providers="{{ item.supported_data_providers | join: ',' | downcase }}"
+         data-supported-brokers="{{ item.supported_brokers | join: ',' | downcase }}"
+         data-supported-software="{{ item.supported_software | join: ',' | downcase }}">
       <div class="item-header">
         <img src="{{ item.logo | relative_url }}" alt="{{ item.name }} logo">
         <div class="external-links">
@@ -61,32 +56,40 @@ layout: base
         <div class="additional-links">
           {% if page.section == 'soft' %}
             {% if item.supported_data_providers.size > 0 %}
-              <a href="/{{ page.lang }}/market-data/?software={{ item.name | url_encode }}" class="data-providers-link" title="{{ locale.marketdata }}">
-                <i class="fas fa-chart-line"></i>
-              </a>
+              <div class="supported-items">
+                <strong>{{ locale.supported_data_providers }}:</strong>
+                {% for provider in item.supported_data_providers %}
+                  <a href="/{{ page.lang }}/market-data/?software={{ item.name | url_encode }}">{{ provider }}</a>{% unless forloop.last %}, {% endunless %}
+                {% endfor %}
+              </div>
             {% endif %}
             {% if item.supported_brokers.size > 0 %}
-              <a href="/{{ page.lang }}/brokers/?software={{ item.name | url_encode }}" class="brokers-link" title="{{ locale.brokers }}">
-                <i class="fas fa-exchange-alt"></i>
-              </a>
+              <div class="supported-items">
+                <strong>{{ locale.supported_brokers }}:</strong>
+                {% for broker in item.supported_brokers %}
+                  <a href="/{{ page.lang }}/brokers/?software={{ item.name | url_encode }}">{{ broker }}</a>{% unless forloop.last %}, {% endunless %}
+                {% endfor %}
+              </div>
             {% endif %}
-          {% elsif page.section == 'market-data' %}
+          {% elsif page.section == 'market-data' or page.section == 'brokers' %}
             {% if item.supported_software.size > 0 %}
-              <a href="/{{ page.lang }}/soft/?data-provider={{ item.name | url_encode }}" class="software-link" title="{{ locale.software }}">
-                <i class="fas fa-laptop-code"></i>
-              </a>
-            {% endif %}
-          {% elsif page.section == 'brokers' %}
-            {% if item.supported_software.size > 0 %}
-              <a href="/{{ page.lang }}/soft/?broker={{ item.name | url_encode }}" class="software-link" title="{{ locale.software }}">
-                <i class="fas fa-laptop-code"></i>
-              </a>
+              <div class="supported-items">
+                <strong>{{ locale.supported_software }}:</strong>
+                {% for software in item.supported_software %}
+                  <a href="/{{ page.lang }}/soft/?{{ page.section | remove: 's' }}={{ item.name | url_encode }}">{{ software }}</a>{% unless forloop.last %}, {% endunless %}
+                {% endfor %}
+              </div>
             {% endif %}
           {% endif %}
         </div>
       </div>
     </div>
   {% endfor %}
+</div>
+
+<div id="debug-info" style="background-color: #f0f0f0; padding: 10px; margin-top: 20px; border: 1px solid #ccc;">
+  <h3>Debug Information</h3>
+  <pre id="debug-output"></pre>
 </div>
 
 <script>
@@ -149,7 +152,8 @@ document.addEventListener('DOMContentLoaded', function() {
       const itemName = item.querySelector('h2').textContent.trim().toLowerCase();
       const supportedDataProviders = item.dataset.supportedDataProviders ? item.dataset.supportedDataProviders.toLowerCase().split(',') : [];
       const supportedBrokers = item.dataset.supportedBrokers ? item.dataset.supportedBrokers.toLowerCase().split(',') : [];
-    
+      const supportedSoftware = item.dataset.supportedSoftware ? item.dataset.supportedSoftware.toLowerCase().split(',') : [];
+      
       const filterCondition = activeFilters.size === 0 || Array.from(activeFilters).every(filter => 
         itemFilters.includes(filter.toLowerCase())
       );
@@ -157,9 +161,14 @@ document.addEventListener('DOMContentLoaded', function() {
       let itemCondition = !activeItem;
       if (activeItem) {
         const activeItemLower = activeItem.toLowerCase();
-        itemCondition = supportedDataProviders.includes(activeItemLower) || 
-                      supportedBrokers.includes(activeItemLower) ||
-                      itemName === activeItemLower;
+        if (page.section === 'soft') {
+          itemCondition = supportedDataProviders.includes(activeItemLower) || 
+                          supportedBrokers.includes(activeItemLower) ||
+                          itemName === activeItemLower;
+        } else {
+          itemCondition = supportedSoftware.includes(activeItemLower) ||
+                          itemName === activeItemLower;
+        }
       }
 
       const searchCondition = searchTerm === '' || itemName.includes(searchTerm);
@@ -167,6 +176,7 @@ document.addEventListener('DOMContentLoaded', function() {
       updateDebugInfo(`Item: ${itemName}, Filter: ${filterCondition}, Item: ${itemCondition}, Search: ${searchCondition}`);
       updateDebugInfo(`Supported Data Providers: ${supportedDataProviders.join(', ')}`);
       updateDebugInfo(`Supported Brokers: ${supportedBrokers.join(', ')}`);
+      updateDebugInfo(`Supported Software: ${supportedSoftware.join(', ')}`);
 
       if (filterCondition && itemCondition && searchCondition) {
         item.style.display = 'block';
