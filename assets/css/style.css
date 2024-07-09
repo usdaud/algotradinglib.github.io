@@ -487,6 +487,31 @@ footer a:hover .github-icon {
     background-color: #0056b3;
 }
 
+.subscribe-container {
+    max-width: 640px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.subscribe-container h1 {
+    margin-bottom: 20px;
+}
+
+.subscribe-container p {
+    margin-bottom: 20px;
+}
+
+.form-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.form-container iframe {
+    max-width: 100%;
+}
+
 @keyframes pulse {
     0% {
         transform: scale(1);
@@ -661,6 +686,14 @@ footer a:hover .github-icon {
 
     .desktop-only {
         display: none;
+    }
+
+    .subscribe-container {
+        padding: 10px;
+    }
+
+    .form-container iframe {
+        width: 100%;
     }
 }
 
