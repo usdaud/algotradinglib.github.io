@@ -1,0 +1,356 @@
+﻿- name: AETOS
+  description: 全球外汇和差价合约经纪商
+  logo: /assets/images/logos/aetos.png
+  website: https://www.aetoscg.com/
+  pedia_link: /zh/pedia/a/aetos.html
+  filters: [外汇, 差价合约]
+
+- name: Alor
+  description: 俄罗斯经纪和投资公司
+  logo: /assets/images/logos/alor.png
+  website: https://www.alor.ru/
+  pedia_link: /zh/pedia/a/alor.html
+  filters: [API, 股票, 期货, 期权, 俄罗斯市场]
+
+- name: Alpaca
+  description: 免佣金股票交易API
+  logo: /assets/images/logos/alpaca.png
+  website: https://alpaca.markets/
+  pedia_link: /zh/pedia/a/alpaca.html
+  filters: [API, 股票, 美国市场, 加密货币]
+
+- name: Ameritrade
+  description: 美国金融服务公司
+  logo: /assets/images/logos/ameritrade.png
+  website: https://www.tdameritrade.com/
+  pedia_link: /zh/pedia/a/ameritrade.html
+  filters: [API, 股票, 期权, 期货, 外汇, 美国市场]
+
+- name: AvaTrade
+  description: 外汇和差价合约经纪商
+  logo: /assets/images/logos/avatrade.png
+  website: https://www.avatrade.com/
+  pedia_link: /zh/pedia/a/avatrade.html
+  filters: [外汇, 差价合约, 加密货币]
+
+- name: B2Broker
+  description: 外汇和加密货币行业的流动性和技术提供商
+  logo: /assets/images/logos/b2broker.png
+  website: https://b2broker.com/
+  pedia_link: /zh/pedia/b/b2broker.html
+  filters: [API, 外汇, 加密货币]
+
+- name: Charles Schwab
+  description: 美国跨国金融服务公司
+  logo: /assets/images/logos/charles_schwab.png
+  website: https://www.schwab.com/
+  pedia_link: /zh/pedia/c/charles_schwab.html
+  filters: [股票, 期权, 期货, 美国市场]
+
+- name: CMC Markets
+  description: 英国金融服务公司
+  logo: /assets/images/logos/cmc_markets.png
+  website: https://www.cmcmarkets.com/
+  pedia_link: /zh/pedia/c/cmc_markets.html
+  filters: [API, 差价合约, 外汇]
+
+- name: Comdirect
+  description: 德国直接银行和在线经纪商
+  logo: /assets/images/logos/comdirect.png
+  website: https://www.comdirect.de/
+  pedia_link: /zh/pedia/c/comdirect.html
+  filters: [API, 股票, 基金]
+
+- name: Degiro
+  description: 欧洲在线折扣经纪商
+  logo: /assets/images/logos/degiro.png
+  website: https://www.degiro.eu/
+  pedia_link: /zh/pedia/d/degiro.html
+  filters: [股票, 期权, 基金]
+
+- name: E*TRADE
+  description: 美国金融服务公司
+  logo: /assets/images/logos/e_trade.png
+  website: https://www.etrade.com/
+  pedia_link: /zh/pedia/e/e_trade.html
+  filters: [API, 股票, 期权, 期货, 美国市场]
+
+- name: eToro
+  description: 社交交易和多资产经纪公司
+  logo: /assets/images/logos/etoro.png
+  website: https://www.etoro.com/
+  pedia_link: /zh/pedia/e/etoro.html
+  filters: [股票, 加密货币, 差价合约]
+
+- name: Exante
+  description: 欧洲投资公司和经纪商
+  logo: /assets/images/logos/exante.png
+  website: https://exante.eu/
+  pedia_link: /zh/pedia/e/exante.html
+  filters: [API, 股票, 期权, 期货, 外汇]
+
+- name: Fidelity Investments
+  description: 美国跨国金融服务公司
+  logo: /assets/images/logos/fidelity.png
+  website: https://www.fidelity.com/
+  pedia_link: /zh/pedia/f/fidelity_investments.html
+  filters: [股票, 基金, ETF, 美国市场]
+
+- name: First Prudential Markets
+  description: 澳大利亚外汇和差价合约经纪商
+  logo: /assets/images/logos/fpm.png
+  website: https://www.fpmarkets.com/
+  pedia_link: /zh/pedia/f/first_prudential_markets.html
+  filters: [外汇, 差价合约]
+
+- name: Futu
+  description: 中国在线经纪公司
+  logo: /assets/images/logos/futu.png
+  website: https://www.futunn.com/
+  pedia_link: /zh/pedia/f/futu.html
+  filters: [API, 股票, 期权, 亚洲市场, 美国市场]
+
+- name: Hargreaves Lansdown
+  description: 英国金融服务公司
+  logo: /assets/images/logos/hargreaves_lansdown.png
+  website: https://www.hl.co.uk/
+  pedia_link: /zh/pedia/h/hargreaves_lansdown.html
+  filters: [股票, 基金]
+
+- name: HDFC Securities
+  description: 印度金融服务公司
+  logo: /assets/images/logos/hdfc_securities.png
+  website: https://www.hdfcsec.com/
+  pedia_link: /zh/pedia/h/hdfc_securities.html
+  filters: [API, 股票, 基金, 印度市场]
+
+- name: ICICI Direct
+  description: 印度金融服务公司
+  logo: /assets/images/logos/icici_direct.png
+  website: https://www.icicidirect.com/
+  pedia_link: /zh/pedia/i/icici_direct.html
+  filters: [API, 股票, 基金, 印度市场]
+
+- name: IG Group
+  description: 英国金融服务提供商
+  logo: /assets/images/logos/ig_group.png
+  website: https://www.ig.com/
+  pedia_link: /zh/pedia/i/ig_group.html
+  filters: [API, 差价合约, 外汇]
+
+- name: Interactive Brokers
+  description: 美国跨国经纪公司
+  logo: /assets/images/logos/interactive_brokers.png
+  website: https://www.interactivebrokers.com/
+  pedia_link: /zh/pedia/i/interactive_brokers.html
+  filters: [API, 股票, 期权, 期货, 外汇]
+
+- name: KGI Securities
+  description: 台湾证券公司
+  logo: /assets/images/logos/kgi_securities.png
+  website: https://www.kgi.com.tw/en/
+  pedia_link: /zh/pedia/k/kgi_securities.html
+  filters: [API, 股票, 期货, 亚洲市场]
+
+- name: Kotak Securities
+  description: 印度股票经纪公司
+  logo: /assets/images/logos/kotak_securities.png
+  website: https://www.kotaksecurities.com/
+  pedia_link: /zh/pedia/k/kotak_securities.html
+  filters: [API, 股票, 基金, 印度市场]
+
+- name: Lime Brokerage
+  description: 美国代理经纪商
+  logo: /assets/images/logos/lime_brokerage.png
+  website: https://lime.co/
+  pedia_link: /zh/pedia/l/lime_brokerage.html
+  filters: [API, 股票, 期权, 美国市场]
+
+- name: Maybank Kim Eng
+  description: 亚洲金融服务集团
+  logo: /assets/images/logos/maybank_kim_eng.png
+  website: https://www.ketrade.com.sg/
+  pedia_link: /zh/pedia/m/maybank_kim_eng.html
+  filters: [股票, 期货, 亚洲市场]
+
+- name: Mirae Asset
+  description: 韩国金融服务集团
+  logo: /assets/images/logos/mirae_asset.png
+  website: https://www.miraeassetmf.co.in/
+  pedia_link: /zh/pedia/m/mirae_asset.html
+  filters: [股票, 基金, 亚洲市场]
+
+- name: NinjaTrader Brokerage
+  description: 美国期货经纪商
+  logo: /assets/images/logos/ninjatrader.png
+  website: https://ninjatrader.com/
+  pedia_link: /zh/pedia/n/ninjatrader_brokerage.html
+  filters: [期货, 外汇, 美国市场]
+
+- name: OANDA
+  description: 全球外汇经纪商和金融服务提供商
+  logo: /assets/images/logos/oanda.png
+  website: https://www.oanda.com/
+  pedia_link: /zh/pedia/o/oanda.html
+  filters: [API, 外汇, 差价合约]
+
+- name: Pepperstone
+  description: 澳大利亚外汇和差价合约经纪商
+  logo: /assets/images/logos/pepperstone.png
+  website: https://pepperstone.com/
+  pedia_link: /zh/pedia/p/pepperstone.html
+  filters: [API, 外汇, 差价合约]
+
+- name: PI Financial
+  description: 加拿大投资交易商
+  logo: /assets/images/logos/pi_financial.png
+  website: https://www.pi.financial/en
+  pedia_link: /zh/pedia/p/pi_financial.html
+  filters: [股票, 基金]
+
+- name: Questrade
+  description: 加拿大在线经纪公司
+  logo: /assets/images/logos/questrade.png
+  website: https://www.questrade.com/
+  pedia_link: /zh/pedia/q/questrade.html
+  filters: [API, 股票, ETF]
+
+- name: Robinhood
+  description: 美国金融服务公司
+  logo: /assets/images/logos/robinhood.png
+  website: https://robinhood.com/
+  pedia_link: /zh/pedia/r/robinhood.html
+  filters: [股票, 期权, 加密货币, 美国市场]
+
+- name: Saxo Bank
+  description: 丹麦投资银行
+  logo: /assets/images/logos/saxo_bank.png
+  website: https://www.home.saxo/
+  pedia_link: /zh/pedia/s/saxo_bank.html
+  filters: [API, 外汇, 差价合约, 股票]
+
+- name: Scotia iTRADE
+  description: 丰业银行的在线经纪服务
+  logo: /assets/images/logos/scotia_itrade.png
+  website: https://www.scotiaitrade.com/
+  pedia_link: /zh/pedia/s/scotia_itrade.html
+  filters: [API, 股票, ETF]
+
+- name: SelfWealth
+  description: 澳大利亚在线股票交易平台
+  logo: /assets/images/logos/selfwealth.png
+  website: https://www.selfwealth.com.au/
+  pedia_link: /zh/pedia/s/selfwealth.html
+  filters: [股票]
+
+- name: Tinkoff
+  description: 俄罗斯在线银行和经纪商
+  logo: /assets/images/logos/tinkoff.png
+  website: https://www.tinkoff.ru/
+  pedia_link: /zh/pedia/t/tinkoff.html
+  filters: [API, 股票, 基金, 俄罗斯市场, 期货]
+
+- name: ThinkMarkets
+  description: 全球外汇和差价合约经纪商
+  logo: /assets/images/logos/thinkmarkets.png
+  website: https://www.thinkmarkets.com/
+  pedia_link: /zh/pedia/t/thinkmarkets.html
+  filters: [外汇, 差价合约]
+
+- name: Tradier
+  description: 美国基于API的经纪服务提供商
+  logo: /assets/images/logos/tradier.png
+  website: https://tradier.com/
+  pedia_link: /zh/pedia/t/tradier.html
+  filters: [API, 股票, 期权, 美国市场]
+
+- name: Upstox
+  description: 印度折扣经纪公司
+  logo: /assets/images/logos/upstox.png
+  website: https://upstox.com/
+  pedia_link: /zh/pedia/u/upstox.html
+  filters: [API, 股票, 基金, 印度市场]
+
+- name: Webull
+  description: 中国所有的美国经纪交易商
+  logo: /assets/images/logos/webull.png
+  website: https://www.webull.com/
+  pedia_link: /zh/pedia/w/webull.html
+  filters: [API, 股票, 期权, 美国市场]
+
+- name: XTB
+  description: 波兰外汇和差价合约经纪商
+  logo: /assets/images/logos/xtb.png
+  website: https://www.xtb.com/
+  pedia_link: /zh/pedia/x/xtb.html
+  filters: [API, 外汇, 差价合约, 股票]
+
+- name: Zerodha
+  description: 印度金融服务公司
+  logo: /assets/images/logos/zerodha.png
+  website: https://zerodha.com/
+  pedia_link: /zh/pedia/z/zerodha.html
+  filters: [API, 股票, 基金, 印度市场]
+
+- name: LMAX
+  description: FCA监管的外汇和差价合约经纪商
+  logo: /assets/images/logos/lmax.png
+  website: https://www.lmax.com/
+  pedia_link: /zh/pedia/l/lmax.html
+  filters: [外汇, 差价合约, 机构]
+
+- name: Binance
+  description: 全球最大的加密货币交易所（按交易量）
+  logo: /assets/images/logos/binance.png
+  website: https://www.binance.com/
+  pedia_link: /zh/pedia/b/binance.html
+  filters: [加密货币, 交易所]
+
+- name: Dukascopy
+  description: 瑞士外汇银行和交易市场
+  logo: /assets/images/logos/dukascopy.png
+  website: https://www.dukascopy.com/
+  pedia_link: /zh/pedia/d/dukascopy.html
+  filters: [外汇, 银行, 差价合约]
+
+- name: Dorman Trading
+  description: 总部位于芝加哥的期货佣金商（FCM）
+  logo: /assets/images/logos/dorman_trading.png
+  website: https://www.dormantrading.com/
+  pedia_link: /zh/pedia/d/dorman_trading.html
+  filters: [期货, 商品]
+
+- name: Optimus Futures
+  description: 专注于零售交易者的期货经纪公司
+  logo: /assets/images/logos/optimus_futures.png
+  website: https://www.optimusfutures.com/
+  pedia_link: /zh/pedia/o/optimus_futures.html
+  filters: [期货, 商品]
+
+- name: Wedbush
+  description: 金融服务和投资公司
+  logo: /assets/images/logos/wedbush.png
+  website: https://www.wedbush.com/
+  pedia_link: /zh/pedia/w/wedbush.html
+  filters: [股票, 期权, 期货]
+
+- name: FXCM
+  description: 零售外汇经纪商
+  logo: /assets/images/logos/fxcm.png
+  website: https://www.fxcm.com/
+  pedia_link: /zh/pedia/f/fxcm.html
+  filters: [外汇, 差价合约]
+
+- name: Coinbase
+  description: 加密货币交易平台
+  logo: /assets/images/logos/coinbase.png
+  website: https://www.coinbase.com/
+  pedia_link: /zh/pedia/c/coinbase.html
+  filters: [加密货币]
+
+- name: Finam
+  description: 俄罗斯投资公司和经纪商
+  logo: /assets/images/logos/finam.png
+  website: https://www.finam.ru/
+  pedia_link: /zh/pedia/f/finam.html
+  filters: [股票, 外汇, 期货]

@@ -1,0 +1,356 @@
+- name: AETOS
+  description: Глобальный форекс и CFD брокер
+  logo: /assets/images/logos/aetos.png
+  website: https://www.aetoscg.com/
+  pedia_link: /ru/pedia/a/aetos.html
+  filters: [Форекс, CFD]
+
+- name: Алор
+  description: Российская брокерская и инвестиционная компания
+  logo: /assets/images/logos/alor.png
+  website: https://www.alor.ru/
+  pedia_link: /ru/pedia/a/alor.html
+  filters: [API, Акции, Фьючерсы, Опционы, Российский рынок]
+
+- name: Alpaca
+  description: API для безкомиссионной торговли акциями
+  logo: /assets/images/logos/alpaca.png
+  website: https://alpaca.markets/
+  pedia_link: /ru/pedia/a/alpaca.html
+  filters: [API, Акции, Рынок США, Криптовалюты]
+
+- name: Ameritrade
+  description: Американская финансовая компания
+  logo: /assets/images/logos/ameritrade.png
+  website: https://www.tdameritrade.com/
+  pedia_link: /ru/pedia/a/ameritrade.html
+  filters: [API, Акции, Опционы, Фьючерсы, Форекс, Рынок США]
+
+- name: AvaTrade
+  description: Форекс и CFD брокер
+  logo: /assets/images/logos/avatrade.png
+  website: https://www.avatrade.com/
+  pedia_link: /ru/pedia/a/avatrade.html
+  filters: [Форекс, CFD, Криптовалюты]
+
+- name: B2Broker
+  description: Поставщик ликвидности и технологий для форекс и криптовалютной индустрии
+  logo: /assets/images/logos/b2broker.png
+  website: https://b2broker.com/
+  pedia_link: /ru/pedia/b/b2broker.html
+  filters: [API, Форекс, Криптовалюты]
+
+- name: Charles Schwab
+  description: Американская многонациональная финансовая компания
+  logo: /assets/images/logos/charles_schwab.png
+  website: https://www.schwab.com/
+  pedia_link: /ru/pedia/c/charles_schwab.html
+  filters: [Акции, Опционы, Фьючерсы, Рынок США]
+
+- name: CMC Markets
+  description: Британская финансовая компания
+  logo: /assets/images/logos/cmc_markets.png
+  website: https://www.cmcmarkets.com/
+  pedia_link: /ru/pedia/c/cmc_markets.html
+  filters: [API, CFD, Форекс]
+
+- name: Comdirect
+  description: Немецкий прямой банк и онлайн-брокер
+  logo: /assets/images/logos/comdirect.png
+  website: https://www.comdirect.de/
+  pedia_link: /ru/pedia/c/comdirect.html
+  filters: [API, Акции, Фонды]
+
+- name: Degiro
+  description: Европейский онлайн-дисконтный брокер
+  logo: /assets/images/logos/degiro.png
+  website: https://www.degiro.eu/
+  pedia_link: /ru/pedia/d/degiro.html
+  filters: [Акции, Опционы, Фонды]
+
+- name: E*TRADE
+  description: Американская финансовая компания
+  logo: /assets/images/logos/e_trade.png
+  website: https://www.etrade.com/
+  pedia_link: /ru/pedia/e/e_trade.html
+  filters: [API, Акции, Опционы, Фьючерсы, Рынок США]
+
+- name: eToro
+  description: Компания социального трейдинга и мультиактивного брокерства
+  logo: /assets/images/logos/etoro.png
+  website: https://www.etoro.com/
+  pedia_link: /ru/pedia/e/etoro.html
+  filters: [Акции, Криптовалюты, CFD]
+
+- name: Exante
+  description: Европейская инвестиционная компания и брокер
+  logo: /assets/images/logos/exante.png
+  website: https://exante.eu/
+  pedia_link: /ru/pedia/e/exante.html
+  filters: [API, Акции, Опционы, Фьючерсы, Форекс]
+
+- name: Fidelity Investments
+  description: Американская многонациональная финансовая корпорация
+  logo: /assets/images/logos/fidelity.png
+  website: https://www.fidelity.com/
+  pedia_link: /ru/pedia/f/fidelity_investments.html
+  filters: [Акции, Фонды, ETF, Рынок США]
+
+- name: First Prudential Markets
+  description: Австралийский форекс и CFD брокер
+  logo: /assets/images/logos/fpm.png
+  website: https://www.fpmarkets.com/
+  pedia_link: /ru/pedia/f/first_prudential_markets.html
+  filters: [Форекс, CFD]
+
+- name: Futu
+  description: Китайская онлайн-брокерская фирма
+  logo: /assets/images/logos/futu.png
+  website: https://www.futunn.com/
+  pedia_link: /ru/pedia/f/futu.html
+  filters: [API, Акции, Опционы, Азиатские рынки, Рынок США]
+
+- name: Hargreaves Lansdown
+  description: Британская финансовая компания
+  logo: /assets/images/logos/hargreaves_lansdown.png
+  website: https://www.hl.co.uk/
+  pedia_link: /ru/pedia/h/hargreaves_lansdown.html
+  filters: [Акции, Фонды]
+
+- name: HDFC Securities
+  description: Индийская финансовая компания
+  logo: /assets/images/logos/hdfc_securities.png
+  website: https://www.hdfcsec.com/
+  pedia_link: /ru/pedia/h/hdfc_securities.html
+  filters: [API, Акции, Фонды, Индийский рынок]
+
+- name: ICICI Direct
+  description: Индийская финансовая фирма
+  logo: /assets/images/logos/icici_direct.png
+  website: https://www.icicidirect.com/
+  pedia_link: /ru/pedia/i/icici_direct.html
+  filters: [API, Акции, Фонды, Индийский рынок]
+
+- name: IG Group
+  description: Британский поставщик финансовых услуг
+  logo: /assets/images/logos/ig_group.png
+  website: https://www.ig.com/
+  pedia_link: /ru/pedia/i/ig_group.html
+  filters: [API, CFD, Форекс]
+
+- name: Interactive Brokers
+  description: Американская многонациональная брокерская фирма
+  logo: /assets/images/logos/interactive_brokers.png
+  website: https://www.interactivebrokers.com/
+  pedia_link: /ru/pedia/i/interactive_brokers.html
+  filters: [API, Акции, Опционы, Фьючерсы, Форекс]
+
+- name: KGI Securities
+  description: Тайваньская компания по ценным бумагам
+  logo: /assets/images/logos/kgi_securities.png
+  website: https://www.kgi.com.tw/en/
+  pedia_link: /ru/pedia/k/kgi_securities.html
+  filters: [API, Акции, Фьючерсы, Азиатские рынки]
+
+- name: Kotak Securities
+  description: Индийская брокерская фирма
+  logo: /assets/images/logos/kotak_securities.png
+  website: https://www.kotaksecurities.com/
+  pedia_link: /ru/pedia/k/kotak_securities.html
+  filters: [API, Акции, Фонды, Индийский рынок]
+
+- name: Lime Brokerage
+  description: Американский агентский брокер
+  logo: /assets/images/logos/lime_brokerage.png
+  website: https://lime.co/
+  pedia_link: /ru/pedia/l/lime_brokerage.html
+  filters: [API, Акции, Опционы, Рынок США]
+
+- name: Maybank Kim Eng
+  description: Азиатская группа финансовых услуг
+  logo: /assets/images/logos/maybank_kim_eng.png
+  website: https://www.ketrade.com.sg/
+  pedia_link: /ru/pedia/m/maybank_kim_eng.html
+  filters: [Акции, Фьючерсы, Азиатские рынки]
+
+- name: Mirae Asset
+  description: Южнокорейская группа финансовых услуг
+  logo: /assets/images/logos/mirae_asset.png
+  website: https://www.miraeassetmf.co.in/
+  pedia_link: /ru/pedia/m/mirae_asset.html
+  filters: [Акции, Фонды, Азиатские рынки]
+
+- name: NinjaTrader Brokerage
+  description: Американский фьючерсный брокер
+  logo: /assets/images/logos/ninjatrader.png
+  website: https://ninjatrader.com/
+  pedia_link: /ru/pedia/n/ninjatrader_brokerage.html
+  filters: [Фьючерсы, Форекс, Рынок США]
+
+- name: OANDA
+  description: Глобальный форекс-брокер и поставщик финансовых услуг
+  logo: /assets/images/logos/oanda.png
+  website: https://www.oanda.com/
+  pedia_link: /ru/pedia/o/oanda.html
+  filters: [API, Форекс, CFD]
+
+- name: Pepperstone
+  description: Австралийский форекс и CFD брокер
+  logo: /assets/images/logos/pepperstone.png
+  website: https://pepperstone.com/
+  pedia_link: /ru/pedia/p/pepperstone.html
+  filters: [API, Форекс, CFD]
+
+- name: PI Financial
+  description: Канадский инвестиционный дилер
+  logo: /assets/images/logos/pi_financial.png
+  website: https://www.pi.financial/en
+  pedia_link: /ru/pedia/p/pi_financial.html
+  filters: [Акции, Фонды]
+
+- name: Questrade
+  description: Канадская онлайн-брокерская фирма
+  logo: /assets/images/logos/questrade.png
+  website: https://www.questrade.com/
+  pedia_link: /ru/pedia/q/questrade.html
+  filters: [API, Акции, ETF]
+
+- name: Robinhood
+  description: Американская компания финансовых услуг
+  logo: /assets/images/logos/robinhood.png
+  website: https://robinhood.com/
+  pedia_link: /ru/pedia/r/robinhood.html
+  filters: [Акции, Опционы, Криптовалюты, Рынок США]
+
+- name: Saxo Bank
+  description: Датский инвестиционный банк
+  logo: /assets/images/logos/saxo_bank.png
+  website: https://www.home.saxo/
+  pedia_link: /ru/pedia/s/saxo_bank.html
+  filters: [API, Форекс, CFD, Акции]
+
+- name: Scotia iTRADE
+  description: Онлайн-брокерский сервис Scotiabank
+  logo: /assets/images/logos/scotia_itrade.png
+  website: https://www.scotiaitrade.com/
+  pedia_link: /ru/pedia/s/scotia_itrade.html
+  filters: [API, Акции, ETF]
+
+- name: SelfWealth
+  description: Австралийская онлайн-платформа для торговли акциями
+  logo: /assets/images/logos/selfwealth.png
+  website: https://www.selfwealth.com.au/
+  pedia_link: /ru/pedia/s/selfwealth.html
+  filters: [Акции]
+
+- name: Тинькофф
+  description: Российский онлайн-банк и брокер
+  logo: /assets/images/logos/tinkoff.png
+  website: https://www.tinkoff.ru/
+  pedia_link: /ru/pedia/t/tinkoff.html
+  filters: [API, Акции, Фонды, Российский рынок, Фьючерсы]
+
+- name: ThinkMarkets
+  description: Глобальный форекс и CFD брокер
+  logo: /assets/images/logos/thinkmarkets.png
+  website: https://www.thinkmarkets.com/
+  pedia_link: /ru/pedia/t/thinkmarkets.html
+  filters: [Форекс, CFD]
+
+- name: Tradier
+  description: Американский поставщик брокерских услуг на основе API
+  logo: /assets/images/logos/tradier.png
+  website: https://tradier.com/
+  pedia_link: /ru/pedia/t/tradier.html
+  filters: [API, Акции, Опционы, Рынок США]
+
+- name: Upstox
+  description: Индийская дисконтная брокерская компания
+  logo: /assets/images/logos/upstox.png
+  website: https://upstox.com/
+  pedia_link: /ru/pedia/u/upstox.html
+  filters: [API, Акции, Фонды, Индийский рынок]
+
+- name: Webull
+  description: Американский брокер-дилер с китайскими владельцами
+  logo: /assets/images/logos/webull.png
+  website: https://www.webull.com/
+  pedia_link: /ru/pedia/w/webull.html
+  filters: [API, Акции, Опционы, Рынок США]
+
+- name: XTB
+  description: Польский форекс и CFD брокер
+  logo: /assets/images/logos/xtb.png
+  website: https://www.xtb.com/
+  pedia_link: /ru/pedia/x/xtb.html
+  filters: [API, Форекс, CFD, Акции]
+
+- name: Zerodha
+  description: Индийская компания финансовых услуг
+  logo: /assets/images/logos/zerodha.png
+  website: https://zerodha.com/
+  pedia_link: /ru/pedia/z/zerodha.html
+  filters: [API, Акции, Фонды, Индийский рынок]
+
+- name: LMAX
+  description: Регулируемый FCA брокер для Форекс и CFD
+  logo: /assets/images/logos/lmax.png
+  website: https://www.lmax.com/
+  pedia_link: /ru/pedia/l/lmax.html
+  filters: [Форекс, CFD, Институциональные]
+
+- name: Binance
+  description: Крупнейшая в мире криптовалютная биржа по объему торгов
+  logo: /assets/images/logos/binance.png
+  website: https://www.binance.com/
+  pedia_link: /ru/pedia/b/binance.html
+  filters: [Криптовалюта, Биржа]
+
+- name: Dukascopy
+  description: Швейцарский форекс-банк и торговая площадка
+  logo: /assets/images/logos/dukascopy.png
+  website: https://www.dukascopy.com/
+  pedia_link: /ru/pedia/d/dukascopy.html
+  filters: [Форекс, Банк, CFD]
+
+- name: Dorman Trading
+  description: Фьючерсный комиссионный торговец (FCM) из Чикаго
+  logo: /assets/images/logos/dorman_trading.png
+  website: https://www.dormantrading.com/
+  pedia_link: /ru/pedia/d/dorman_trading.html
+  filters: [Фьючерсы, Товары]
+
+- name: Optimus Futures
+  description: Фьючерсная брокерская фирма, специализирующаяся на розничных трейдерах
+  logo: /assets/images/logos/optimus_futures.png
+  website: https://www.optimusfutures.com/
+  pedia_link: /ru/pedia/o/optimus_futures.html
+  filters: [Фьючерсы, Товары]
+
+- name: Wedbush
+  description: Финансовая и инвестиционная фирма
+  logo: /assets/images/logos/wedbush.png
+  website: https://www.wedbush.com/
+  pedia_link: /ru/pedia/w/wedbush.html
+  filters: [Акции, Опционы, Фьючерсы]
+
+- name: FXCM
+  description: Розничный валютный брокер
+  logo: /assets/images/logos/fxcm.png
+  website: https://www.fxcm.com/
+  pedia_link: /ru/pedia/f/fxcm.html
+  filters: [Форекс, CFD]
+
+- name: Coinbase
+  description: Платформа для обмена криптовалют
+  logo: /assets/images/logos/coinbase.png
+  website: https://www.coinbase.com/
+  pedia_link: /ru/pedia/c/coinbase.html
+  filters: [Криптовалюта]
+
+- name: Финам
+  description: Российская инвестиционная компания и брокер
+  logo: /assets/images/logos/finam.png
+  website: https://www.finam.ru/
+  pedia_link: /ru/pedia/f/finam.html
+  filters: [Акции, Форекс, Фьючерсы]
