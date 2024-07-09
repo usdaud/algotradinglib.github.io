@@ -56,29 +56,26 @@ layout: base
         <div class="additional-links">
           {% if page.section == 'soft' %}
             {% if item.supported_data_providers.size > 0 %}
-              <div class="supported-items">
-                <strong>{{ locale.supported_data_providers }}:</strong>
-                {% for provider in item.supported_data_providers %}
-                  <a href="/{{ page.lang }}/market-data/?software={{ item.name | url_encode }}">{{ provider }}</a>{% unless forloop.last %}, {% endunless %}
-                {% endfor %}
-              </div>
+              <a href="/{{ page.lang }}/market-data/?software={{ item.name | url_encode }}" class="data-providers-link" title="{{ locale.marketdata }}">
+                <i class="fas fa-chart-line"></i>
+              </a>
             {% endif %}
             {% if item.supported_brokers.size > 0 %}
-              <div class="supported-items">
-                <strong>{{ locale.supported_brokers }}:</strong>
-                {% for broker in item.supported_brokers %}
-                  <a href="/{{ page.lang }}/brokers/?software={{ item.name | url_encode }}">{{ broker }}</a>{% unless forloop.last %}, {% endunless %}
-                {% endfor %}
-              </div>
+              <a href="/{{ page.lang }}/brokers/?software={{ item.name | url_encode }}" class="brokers-link" title="{{ locale.brokers }}">
+                <i class="fas fa-exchange-alt"></i>
+              </a>
             {% endif %}
-          {% elsif page.section == 'market-data' or page.section == 'brokers' %}
+          {% elsif page.section == 'market-data' %}
             {% if item.supported_software.size > 0 %}
-              <div class="supported-items">
-                <strong>{{ locale.supported_software }}:</strong>
-                {% for software in item.supported_software %}
-                  <a href="/{{ page.lang }}/soft/?{{ page.section | remove: 's' }}={{ item.name | url_encode }}">{{ software }}</a>{% unless forloop.last %}, {% endunless %}
-                {% endfor %}
-              </div>
+              <a href="/{{ page.lang }}/soft/?data-provider={{ item.name | url_encode }}" class="software-link" title="{{ locale.software }}">
+                <i class="fas fa-laptop-code"></i>
+              </a>
+            {% endif %}
+          {% elsif page.section == 'brokers' %}
+            {% if item.supported_software.size > 0 %}
+              <a href="/{{ page.lang }}/soft/?broker={{ item.name | url_encode }}" class="software-link" title="{{ locale.software }}">
+                <i class="fas fa-laptop-code"></i>
+              </a>
             {% endif %}
           {% endif %}
         </div>
