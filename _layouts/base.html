@@ -102,10 +102,10 @@
     <footer>
         <div class="footer-content">
             <p>&copy; {{ site.time | date: '%Y' }} {{ locale.footer_copyright }}</p>
-            <p>{{ locale.footer_contact }}: info@algotradinglib.com</p>
+            <p>{{ locale.footer_contact }}: <a href="https://t.me/usdaud" target="_blank" rel="noopener noreferrer">@usdaud</a> (Telegram)</p>
             <p>
                 <a href="https://github.com/junsan1/junsan1.github.io/" target="_blank" rel="noopener noreferrer">
-                    {{ locale.contribute | default: "Contribute on GitHub" }}
+                    {{ locale.contribute }}
                     <img src="{{ '/assets/images/github-icon.svg' | relative_url }}" alt="GitHub" class="github-icon" style="height: 1em; vertical-align: middle; margin-left: 5px;">
                 </a>
             </p>
