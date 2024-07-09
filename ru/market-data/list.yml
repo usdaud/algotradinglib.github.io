@@ -10,28 +10,28 @@
   logo: /assets/images/logos/barchart.png
   website: https://www.barchart.com/
   pedia_link: /ru/pedia/b/barchart.html
-  filters: [API, Реал-тайм данные, История, Акции, Фьючерсы, Опционы, Форекс, Криптовалюты, Бесплатно]
+  filters: [API, Реал-тайм, История, Акции, Фьючерсы, Опционы, Форекс, Криптовалюты, Бесплатно]
 
 - name: Bloomberg
   description: Глобальный поставщик финансовых данных и новостей
   logo: /assets/images/logos/bloomberg.png
   website: https://www.bloomberg.com/professional/
   pedia_link: /ru/pedia/b/bloomberg.html
-  filters: [Реал-тайм данные, История, Новости, Акции, Фьючерсы, Опционы, Форекс, Криптовалюты, Индексы, Товары]
+  filters: [Реал-тайм, История, Новости, Акции, Фьючерсы, Опционы, Форекс, Криптовалюты, Индексы, Товары]
 
 - name: CQG
   description: Глобальный поставщик финансовых данных и торговых решений
   logo: /assets/images/logos/cqg.png
   website: https://www.cqg.com/
   pedia_link: /ru/pedia/c/cqg.html
-  filters: [API, Реал-тайм данные, История, Фьючерсы, Опционы, Форекс]
+  filters: [API, Реал-тайм, История, Фьючерсы, Опционы, Форекс]
 
 - name: DxFeed
   description: Поставщик данных и услуг финансового рынка
   logo: /assets/images/logos/dxfeed.png
   website: https://www.dxfeed.com/
   pedia_link: /ru/pedia/d/dxfeed.html
-  filters: [API, Реал-тайм данные, Акции, Опционы, Фьючерсы, Форекс]
+  filters: [API, Реал-тайм, Акции, Опционы, Фьючерсы, Форекс]
 
 - name: EODData
   description: Поставщик финансовых данных на конец дня
@@ -59,7 +59,7 @@
   logo: /assets/images/logos/factset.png
   website: https://www.factset.com/
   pedia_link: /ru/pedia/f/factset.html
-  filters: [API, Реал-тайм данные, История, Акции, Фьючерсы, Опционы, Форекс, Криптовалюты, Индексы]
+  filters: [API, Реал-тайм, История, Акции, Фьючерсы, Опционы, Форекс, Криптовалюты, Индексы]
 
 - name: FINRA
   description: Управление по регулированию финансовой индустрии
@@ -80,56 +80,56 @@
   logo: /assets/images/logos/iex.png
   website: https://iexcloud.io/
   pedia_link: /ru/pedia/i/iex_cloud.html
-  filters: [API, Реал-тайм данные, История, Акции, Форекс, Криптовалюты, Бесплатно]
+  filters: [API, Реал-тайм, История, Акции, Форекс, Криптовалюты, Бесплатно]
 
 - name: Infront
   description: Поставщик рыночных данных и торговых решений
   logo: /assets/images/logos/infront.png
   website: https://www.infrontfinance.com/
   pedia_link: /ru/pedia/i/infront.html
-  filters: [Реал-тайм данные, История, Акции, Фьючерсы, Опционы, Форекс]
+  filters: [Реал-тайм, История, Акции, Фьючерсы, Опционы, Форекс]
 
 - name: Interactive Data Corporation
   description: Поставщик данных финансового рынка (теперь часть Intercontinental Exchange)
   logo: /assets/images/logos/ice.png
   website: https://www.theice.com/market-data
   pedia_link: /ru/pedia/i/idc.html
-  filters: [Реал-тайм данные, История, Акции, Облигации, Фьючерсы, Опционы]
+  filters: [Реал-тайм, История, Акции, Облигации, Фьючерсы, Опционы]
 
 - name: Intrinio
   description: Маркетплейс финансовых данных
   logo: /assets/images/logos/intrinio.png
   website: https://intrinio.com/
   pedia_link: /ru/pedia/i/intrinio.html
-  filters: [API, Реал-тайм данные, История, Акции, Опционы, Форекс, Криптовалюты, Бесплатно]
+  filters: [API, Реал-тайм, История, Акции, Опционы, Форекс, Криптовалюты, Бесплатно]
 
 - name: Iress
   description: Компания финансового программного обеспечения
   logo: /assets/images/logos/iress.png
   website: https://www.iress.com/
   pedia_link: /ru/pedia/i/iress.html
-  filters: [Реал-тайм данные, История, Акции, Фьючерсы, Опционы]
+  filters: [Реал-тайм, История, Акции, Фьючерсы, Опционы]
 
 - name: IQFeed
   description: Поток рыночных данных в режиме реального времени
   logo: /assets/images/logos/iqfeed.png
   website: http://www.iqfeed.net/
   pedia_link: /ru/pedia/i/iqfeed.html
-  filters: [API, Реал-тайм данные, История, Акции, Фьючерсы, Форекс]
+  filters: [API, Реал-тайм, История, Акции, Фьючерсы, Форекс]
 
 - name: Kinetick
   description: Профессиональный поток финансовых рыночных данных
   logo: /assets/images/logos/kinetick.png
   website: https://www.kinetick.com/
   pedia_link: /ru/pedia/k/kinetick.html
-  filters: [Реал-тайм данные, История, Акции, Фьючерсы, Опционы, Форекс]
+  filters: [Реал-тайм, История, Акции, Фьючерсы, Опционы, Форекс]
 
 - name: MarketAxess
   description: Электронная торговая платформа для ценных бумаг с фиксированным доходом
   logo: /assets/images/logos/marketaxess.png
   website: https://www.marketaxess.com/
   pedia_link: /ru/pedia/m/marketaxess.html
-  filters: [Облигации, Реал-тайм данные, История]
+  filters: [Облигации, Реал-тайм, История]
 
 - name: Morningstar
   description: Инвестиционная исследовательская и управляющая фирма
@@ -143,14 +143,14 @@
   logo: /assets/images/logos/polygonio.png
   website: https://polygon.io/
   pedia_link: /ru/pedia/p/polygonio.html
-  filters: [API, Реал-тайм данные, История, Акции, Опционы, Форекс, Криптовалюты, Бесплатно]
+  filters: [API, Реал-тайм, История, Акции, Опционы, Форекс, Криптовалюты, Бесплатно]
 
 - name: QuoteMedia
   description: Поставщик решений для финансовых рыночных данных
   logo: /assets/images/logos/quotemedia.png
   website: https://www.quotemedia.com/
   pedia_link: /ru/pedia/q/quotemedia.html
-  filters: [API, Реал-тайм данные, История, Акции, Опционы, Форекс]
+  filters: [API, Реал-тайм, История, Акции, Опционы, Форекс]
 
 - name: Quandl
   description: Платформа для финансовых, экономических и альтернативных данных
@@ -164,7 +164,7 @@
   logo: /assets/images/logos/reuters.png
   website: https://www.reuters.com/
   pedia_link: /ru/pedia/r/reuters.html
-  filters: [Реал-тайм данные, Новости, История, Акции, Фьючерсы, Опционы, Форекс, Криптовалюты, Индексы, Товары]
+  filters: [Реал-тайм, Новости, История, Акции, Фьючерсы, Опционы, Форекс, Криптовалюты, Индексы, Товары]
 
 - name: RavenPack
   description: Поставщик аналитики больших данных для финансовых услуг
@@ -178,7 +178,7 @@
   logo: /assets/images/logos/six.png
   website: https://www.six-group.com/en/products-services/financial-information.html
   pedia_link: /ru/pedia/s/six_financial_information.html
-  filters: [Реал-тайм данные, История, Акции, Облигации, Фонды]
+  filters: [Реал-тайм, История, Акции, Облигации, Фонды]
 
 - name: S&P Global Market Intelligence
   description: Поставщик финансовой информации и аналитики
@@ -206,7 +206,7 @@
   logo: /assets/images/logos/xignite.png
   website: https://www.xignite.com/
   pedia_link: /ru/pedia/x/xignite.html
-  filters: [API, Реал-тайм данные, История, Акции, Фьючерсы, Опционы, Форекс, Криптовалюты]
+  filters: [API, Реал-тайм, История, Акции, Фьючерсы, Опционы, Форекс, Криптовалюты]
 
 - name: Yahoo Finance
   description: Поставщик финансовых новостей и данных
