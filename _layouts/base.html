@@ -40,13 +40,6 @@
                     {% assign home_url = site_addr | append: '/' | append: page.lang %}
                     {% assign current_url = page.url | remove_first: '/' | split: '/' %}
                     {% assign current_section = current_url[1] | default: '' %}
-                    <!-- Debug: site.url = {{ site.url | jsonify }} -->
-                    <!-- Debug: page.url = {{ page.url | jsonify }} -->
-                    <!-- Debug: page.lang = {{ page.lang | jsonify }} -->
-                    <!-- Debug: site_addr = {{ site_addr | jsonify }} -->
-                    <!-- Debug: home_url = {{ home_url | jsonify }} -->
-                    <!-- Debug: current_url = {{ current_url | jsonify }} -->
-                    <!-- Debug: current_section = {{ current_section | jsonify }} -->
                     <li>
                         <a href="{{ home_url }}" {% if current_url.size <= 1 %}class="active"{% endif %}>
                             {{ locale.home }}
@@ -74,7 +67,7 @@
                     </li>
                     <li>
                         <a href="{{ home_url }}/pedia/" {% if current_section == 'pedia' %}class="active"{% endif %}>
-                            {{ locale.algopedia }}
+                            {{ locale.pedia }}
                         </a>
                     </li>
                     <li class="mobile-language-selector">
