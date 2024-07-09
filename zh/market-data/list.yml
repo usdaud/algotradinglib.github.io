@@ -136,7 +136,7 @@
   logo: /assets/images/logos/morningstar.png
   website: https://www.morningstar.com/
   pedia_link: /zh/pedia/m/morningstar.html
-  filters: [历史数据, 股票, 基金, ETF]
+  filters: [历史数据, 股票, 基金]
 
 - name: Polygon.io
   description: 金融市场数据API提供商
