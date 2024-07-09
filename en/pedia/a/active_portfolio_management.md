@@ -25,7 +25,7 @@ Managing risk is a cornerstone of active [portfolio management](../p/portfolio_m
 ### Stock Picking
 Stock picking involves selecting stocks that are expected to perform better than the market. Managers use both top-down and bottom-up approaches.
 
-- **Top-down approach** looks at macroeconomic factors before analyzing individual companies.
+- **[Top-down approach](../t/top-down_approach_in_trading.md)** looks at macroeconomic factors before analyzing individual companies.
 - **Bottom-up approach** focuses on individual companies regardless of market conditions.
 
 ### Sector Rotation

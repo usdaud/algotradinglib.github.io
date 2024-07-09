@@ -43,7 +43,7 @@ In the realm of [algorithmic trading](../a/algorithmic_trading.md), DBNs hold a 
 
 - **Market Prediction**: DBNs can capture complex [temporal patterns](../t/temporal_patterns.md) in stock prices and other financial metrics, enabling more accurate market forecasts.
 - **Feature Extraction**: Automatically learning abstract representations of market features that traditional methods might overlook.
-- **[Risk Management](../r/risk_management.md)**: Identifying hidden risk factors and detecting anomalies in trading patterns.
+- **[Risk Management](../r/risk_management.md)**: Identifying hidden [risk factors](../r/risk_factors_in_trading.md) and detecting anomalies in trading patterns.
 
 ### Example Companies Utilizing DBNs for Algorithmic Trading
 

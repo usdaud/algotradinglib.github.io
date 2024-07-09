@@ -71,7 +71,7 @@ Even when patterns are identified correctly, the market may not always move as e
 [Algorithmic trading](../a/algorithmic_trading.md), also known as algo trading or automated trading, leverages computer algorithms to execute trades at high speed and volume based on predefined criteria, including candlestick patterns.
 
 ### Machine Learning and AI
-Modern advancements in machine learning (ML) and artificial intelligence (AI) have enabled the creation of sophisticated models that can recognize complex patterns and predict market movements with high accuracy.
+Modern advancements in machine learning (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) have enabled the creation of sophisticated models that can recognize complex patterns and predict market movements with high accuracy.
 
 ### Pattern Recognition Software
 Many trading platforms offer built-in [pattern recognition](../p/pattern_recognition.md) tools that automatically highlight candlestick patterns on charts:
@@ -83,7 +83,7 @@ Many trading platforms offer built-in [pattern recognition](../p/pattern_recogni
 Fund managers, day traders, and retail traders use candlestick patterns as a crucial part of their trading strategy. Hedge funds and [proprietary trading](../p/proprietary_trading.md) firms often integrate these patterns into their [trading models](../t/trading_models.md) to gain a competitive edge.
 
 ### Case Study: Renaissance Technologies
-Renaissance Technologies, a highly successful hedge fund, is known for using a combination of mathematical models and [pattern recognition](../p/pattern_recognition.md), including candlestick patterns, in their [trading strategies](../t/trading_strategies.md). (https://www.rentec.com)
+Renaissance Technologies, a highly successful hedge fund, is known for using a combination of [mathematical models](../m/mathematical_models_in_trading.md) and [pattern recognition](../p/pattern_recognition.md), including candlestick patterns, in their [trading strategies](../t/trading_strategies.md). (https://www.rentec.com)
 
 ### Educational Resources
 To excel in candlestick pattern analysis, traders often seek education and continuous learning. Resources include books, courses, and mentorship programs:

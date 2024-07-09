@@ -43,23 +43,23 @@ Momentum strategies are based on the idea that assets that have shown an upward 
 
 1. **[Bollinger Bands](../b/bollinger_bands.md)**: These consist of a moving average and two standard deviations around it. [Trading strategies](../t/trading_strategies.md) can be designed to buy when prices hit the lower band and sell when prices hit the upper band.
 
-2. **[Keltner Channels](../k/keltner_channels.md)**: Similar to [Bollinger Bands](../b/bollinger_bands.md), but uses the Average True Range (ATR) to set channel distance. Algorithms can identify and execute trades when prices breach these channel lines.
+2. **[Keltner Channels](../k/keltner_channels.md)**: Similar to [Bollinger Bands](../b/bollinger_bands.md), but uses the [Average True Range](../a/average_true_range_(atr).md) (ATR) to set channel distance. Algorithms can identify and execute trades when prices breach these channel lines.
 
 ### News and Sentiment-Based Strategies
 
 These strategies involve analyzing news and market sentiment to make trading decisions.
 
-1. **[Sentiment Analysis](../s/sentiment_analysis.md)**: Scraping news articles, social media posts, and financial reports to gauge market sentiment towards the JPY. Natural Language Processing (NLP) techniques can be employed to automate this analysis.
+1. **[Sentiment Analysis](../s/sentiment_analysis.md)**: Scraping news articles, social media posts, and financial reports to gauge market sentiment towards the JPY. [Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) techniques can be employed to automate this analysis.
 
 2. **Economic Event Trading**: Trading based on economic data releases such as GDP, interest rates, and employment figures. Algorithms can be programmatically set to execute trades milliseconds after these announcements.
 
 ### Neural Networks and Machine Learning
 
-Machine learning models, especially neural networks, can be employed for price prediction and [pattern recognition](../p/pattern_recognition.md).
+Machine learning models, especially [neural networks](../n/neural_networks_in_trading.md), can be employed for price prediction and [pattern recognition](../p/pattern_recognition.md).
 
-1. **Recurrent Neural Networks (RNNs)**: Suited for sequential data, making them ideal for predicting currency price movements based on historical prices.
+1. **Recurrent [Neural Networks](../n/neural_networks_in_trading.md) (RNNs)**: Suited for sequential data, making them ideal for predicting currency price movements based on historical prices.
 
-2. **Support Vector Machines (SVMs)**: Effective in classifying and predicting price movements by finding the hyperplane that best divides different classes of price movement.
+2. **[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVMs)**: Effective in classifying and predicting price movements by finding the hyperplane that best divides different classes of price movement.
 
 ## Risk Management
 

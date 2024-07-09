@@ -58,11 +58,11 @@ The design of the trading algorithm must incorporate liquidity adjustment parame
 
 ### Backtesting and Simulation
 
-Before deploying any algorithm, rigorous [backtesting](../b/backtesting.md) and simulation are necessary. This process involves testing the algorithm against historical data to evaluate its performance under various market conditions. Platforms like [QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/) and Alpha Vantage (https://www.alphavantage.co/) provide tools for [backtesting](../b/backtesting.md) and simulation.
+Before deploying any algorithm, rigorous [backtesting](../b/backtesting.md) and [simulation](../s/simulation_in_trading.md) are necessary. This process involves testing the algorithm against historical data to evaluate its performance under various market conditions. Platforms like [QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/) and Alpha Vantage (https://www.alphavantage.co/) provide tools for [backtesting](../b/backtesting.md) and [simulation](../s/simulation_in_trading.md).
 
 ### Execution Platforms
 
-Choosing the right execution platform is crucial for implementing Liquidity Adjustment strategies. These platforms should support advanced order types, provide low latency, and offer connectivity to multiple markets. Companies like Interactive Brokers (https://www.interactivebrokers.com/) and [TradeStation](../t/tradestation.md) (https://www.[tradestation](../t/tradestation.md).com/) are popular choices among algorithmic traders.
+Choosing the right execution platform is crucial for implementing Liquidity Adjustment strategies. These platforms should support advanced [order types](../o/order_types_in_trading.md), provide low latency, and offer connectivity to multiple markets. Companies like [Interactive Brokers](../i/interactive_brokers.md) (https://www.interactivebrokers.com/) and [TradeStation](../t/tradestation.md) (https://www.[tradestation](../t/tradestation.md).com/) are popular choices among algorithmic traders.
 
 ### Monitoring and Adjustments
 
@@ -90,11 +90,11 @@ AI and machine learning are poised to revolutionize Liquidity Adjustment. By ana
 
 ### Blockchain and Distributed Ledger Technology (DLT)
 
-Blockchain and DLT have the potential to enhance transparency and reduce discrepancies in liquidity data. This technology can provide a decentralized and tamper-proof record of transactions, improving trust and accuracy in liquidity measurement.
+[Blockchain](../b/blockchain_in_trading.md) and DLT have the potential to enhance transparency and reduce discrepancies in liquidity data. This technology can provide a decentralized and tamper-proof record of transactions, improving trust and accuracy in liquidity measurement.
 
 ### Quantum Computing
 
-Quantum computing, though still in its infancy, holds promise for solving complex optimization problems in real-time. This could significantly enhance the capabilities of liquidity-adjusted algorithms, allowing for near-instantaneous analysis of vast data sets.
+[Quantum computing](../q/quantum_computing_in_trading.md), though still in its infancy, holds promise for solving complex optimization problems in real-time. This could significantly enhance the capabilities of liquidity-adjusted algorithms, allowing for near-instantaneous analysis of vast data sets.
 
 ### Regulatory Evolution
 

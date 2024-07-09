@@ -18,14 +18,14 @@ Event-triggered algorithms operate by continuously monitoring various data sourc
    Political developments, international conflicts, and regulatory changes can dramatically affect global markets. Event-triggered algorithms monitor news agencies and official government sites for updates on such events to swiftly adjust [trading strategies](../t/trading_strategies.md).
 
 4. **Macroeconomic Indicators:**
-   Data releases such as GDP growth rates, employment statistics, and inflation figures are closely watched. Algorithms respond to these indicators by recalibrating their models to reflect the new information, often trading on the immediate market reaction.
+   Data releases such as GDP [growth rates](../g/growth_rates_in_trading.md), employment statistics, and inflation figures are closely watched. Algorithms respond to these indicators by recalibrating their models to reflect the new information, often trading on the immediate market reaction.
 
 ### Algorithm Design
 
 Designing a successful event-triggered algorithm involves several key components:
 
 1. **Event Detection:**
-   This is the first and most critical step. Sophisticated natural language processing (NLP) techniques and machine learning models are employed to sift through vast amounts of unstructured data to identify relevant events. Entities, keywords, and sentiment scores are extracted to quantify the potential impact of the event.
+   This is the first and most critical step. Sophisticated [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) techniques and machine learning models are employed to sift through vast amounts of unstructured data to identify relevant events. Entities, keywords, and sentiment scores are extracted to quantify the potential impact of the event.
 
 2. **Impact Assessment:**
    Once an event is detected, the algorithm must quickly assess its likely impact on the market. Historical data, market context, and economic models are often used to predict how the event will affect asset prices. This requires a deep understanding of market mechanics and the relationships between different financial instruments.
@@ -79,13 +79,13 @@ Several companies specialize in developing and providing tools for event-trigger
    Offers a range of data feeds, news services, and analytics tailored for [event-driven trading](../e/event-driven_trading.md). Their solutions are extensively used by traders aiming to leverage real-time events. Details can be found on their [website](https://www.bloomberg.com).
 
 3. **[RavenPack](../r/ravenpack.md):**
-   A leader in big data analytics for finance, their platforms offer tools for event detection and [sentiment analysis](../s/sentiment_analysis.md), aiding in the development of event-triggered algorithms. Additional information is available on their [website](https://www.ravenpack.com).
+   A leader in [big data analytics](../b/big_data_analytics_in_trading.md) for finance, their platforms offer tools for event detection and [sentiment analysis](../s/sentiment_analysis.md), aiding in the development of event-triggered algorithms. Additional information is available on their [website](https://www.ravenpack.com).
 
 4. **Newsquawk:**
    Specializes in real-time audio news services and market analysis, helping traders react quickly to market-moving events. Visit their [website](https://newsquawk.com) for more information.
 
 ### Future Directions
 
-The future of event-triggered algorithms lies in further enhancing data processing capabilities, incorporating more diverse data sources, and improving predictive models. Advances in artificial intelligence and machine learning will play a crucial role in refining these algorithms. Additionally, increasing access to [alternative data](../a/alternative_data.md) sources, such as satellite imagery and IoT data, will open new avenues for [event-driven trading](../e/event-driven_trading.md) strategies.
+The future of event-triggered algorithms lies in further enhancing data processing capabilities, incorporating more diverse data sources, and improving [predictive models](../p/predictive_models_in_trading.md). Advances in [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning will play a crucial role in refining these algorithms. Additionally, increasing access to [alternative data](../a/alternative_data.md) sources, such as satellite imagery and IoT data, will open new avenues for [event-driven trading](../e/event-driven_trading.md) strategies.
 
 In conclusion, event-triggered algorithms represent a sophisticated and highly dynamic approach to trading. They leverage real-time data and advanced analytics to make swift, informed trading decisions, offering significant potential for profit and [risk management](../r/risk_management.md). However, they also come with their own set of challenges that require careful consideration and continuous advancement.

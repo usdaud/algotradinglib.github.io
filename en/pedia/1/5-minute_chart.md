@@ -79,7 +79,7 @@ Crypto markets are highly volatile, often requiring traders to use 5-minute char
 ## Challenges and Considerations
 
 ### Noise in Data
-One of the main challenges with 5-minute charts is the noise in the data. Short-term price movements can often be erratic, leading to false signals. Traders and algorithms need robust filtering mechanisms to distinguish between genuine trends and market noise.
+One of the main challenges with 5-minute charts is the noise in the data. Short-term price movements can often be erratic, leading to [false signals](../f/false_signals_in_trading.md). Traders and algorithms need robust filtering mechanisms to distinguish between genuine trends and market noise.
 
 ### Latency and Slippage
 For algorithmic traders, latency in receiving and processing 5-minute data can impact trade execution. Slippage—where the actual execution price differs from the intended price—can also be an issue, particularly in fast-moving markets.

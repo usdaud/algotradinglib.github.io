@@ -7,7 +7,7 @@ The concept of the "twist [yield curve](../y/yield_curve.md)" refers to a strate
 Before delving into the twist [yield curve](../y/yield_curve.md), it's essential to understand the basics of the [yield curve](../y/yield_curve.md) itself. The [yield curve](../y/yield_curve.md) is a graphical representation that shows the relationship between interest rates (or yields) of bonds with equal credit quality but differing maturity dates, often constructed using government bonds like U.S. Treasury securities. The [yield curve](../y/yield_curve.md) typically comes in three shapes:
 - **Normal [Yield Curve](../y/yield_curve.md)**: Longer-term bonds have higher yields compared to shorter-term bonds, indicating a healthy, growing economy.
 - **Inverted [Yield Curve](../y/yield_curve.md)**: Short-term yields are higher than long-term yields, often seen as a predictor of economic recession.
-- **Flat [Yield Curve](../y/yield_curve.md)**: Yields on short and long-term bonds are very close together, indicating economic uncertainty.
+- **Flat [Yield Curve](../y/yield_curve.md)**: Yields on short and long-term bonds are very close together, indicating economic [uncertainty](../u/uncertainty_in_trading.md).
 
 #### Mechanism of the Twist
 
@@ -55,7 +55,7 @@ For traders and investors, understanding the implications of a twist [yield curv
 #### Criticisms and Limitations
 
 - **Effectiveness**: Some economists argue that the twist mechanisms might have limited effectiveness in a low-interest-rate environment, as seen in Japan and the Eurozone.
-- **Signaling Confusion**: Mixed signals sent to the market could lead to uncertainty, as investors might misinterpret the dual actions on short and long-term ends differently.
+- **Signaling Confusion**: Mixed signals sent to the market could lead to [uncertainty](../u/uncertainty_in_trading.md), as investors might misinterpret the dual actions on short and long-term ends differently.
 - **Inflation Dynamics**: Managing the [yield curve](../y/yield_curve.md), especially through twist operations, involves a delicate balance to dodge potential inflationary pressures.
 
 #### Conclusion

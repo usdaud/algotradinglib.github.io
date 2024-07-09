@@ -33,7 +33,7 @@ The identification and analysis of divergence can be effectively automated throu
 
 1. **Data Collection**: The initial step involves collecting historical price data and corresponding technical indicator values.
   
-2. **Signal Detection**: Algorithms are written to detect divergence by comparing price trends and indicator trends. This involves mathematical computations to identify discrepancies.
+2. **[Signal Detection](../s/signal_detection_in_trading.md)**: Algorithms are written to detect divergence by comparing price trends and indicator trends. This involves mathematical computations to identify discrepancies.
 
 3. **[Backtesting](../b/backtesting.md)**: Before deploying any trading strategy, it is crucial to backtest the algorithm against historical data to validate its effectiveness and reliability.
 
@@ -92,7 +92,7 @@ The [Stochastic Oscillator](../s/stochastic_oscillator.md) is a momentum indicat
 
 Despite its efficacy, trading based on divergence has inherent challenges and limitations:
 
-- **False Signals**: Divergence does not always result in price reversals or continuations as expected, leading to potential false signals.
+- **[False Signals](../f/false_signals_in_trading.md)**: Divergence does not always result in price reversals or continuations as expected, leading to potential [false signals](../f/false_signals_in_trading.md).
   
 - **Lagging Nature**: Indicators used for divergence detection (RSI, MACD, Stochastic) are [lagging indicators](../l/lagging_indicators.md) which means they are confirming the trend after it has begun, which can sometimes result in missed opportunities.
 
@@ -100,4 +100,4 @@ Despite its efficacy, trading based on divergence has inherent challenges and li
 
 ### Conclusion
 
-Indicator divergence is an insightful concept in [technical analysis](../t/technical_analysis.md), useful for predicting market reversals and continuations. While [algorithmic trading](../a/algorithmic_trading.md) systems can enhance the efficiency and accuracy of divergence detection, traders must still remain cautious of the inherent limitations and potential false signals. Continuous [backtesting](../b/backtesting.md), robust [algorithm design](../a/algorithm_design.md), and the integration of multiple confirmation tools are critical for leveraging indicator divergence effectively in [algorithmic trading](../a/algorithmic_trading.md) strategies.
+Indicator divergence is an insightful concept in [technical analysis](../t/technical_analysis.md), useful for predicting market reversals and continuations. While [algorithmic trading](../a/algorithmic_trading.md) systems can enhance the efficiency and accuracy of divergence detection, traders must still remain cautious of the inherent limitations and potential [false signals](../f/false_signals_in_trading.md). Continuous [backtesting](../b/backtesting.md), robust [algorithm design](../a/algorithm_design.md), and the integration of multiple confirmation tools are critical for leveraging indicator divergence effectively in [algorithmic trading](../a/algorithmic_trading.md) strategies.

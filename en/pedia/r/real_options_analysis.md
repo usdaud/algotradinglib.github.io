@@ -17,7 +17,7 @@ Real Options Analysis (ROA) is a sophisticated [financial modeling](../f/financi
 3. **Valuation Methods**:
     - **Binomial Lattice Models**: A simple and flexible method that represents the potential evolution of project value over time as a recombining tree, similar to the [binomial option pricing model](../b/binomial_option_pricing_model.md) used for financial options.
     - **[Black-Scholes Model](../b/black-scholes_model.md)**: A continuous-time model that can be adapted to value real options, particularly when project value follows a lognormal distribution.
-    - **[Monte Carlo Simulation](../m/monte_carlo_simulation.md)**: A computational technique used to model the probability distributions of project outcomes and capture the complexities associated with multiple interacting options.
+    - **[Monte Carlo Simulation](../m/monte_carlo_simulation.md)**: A computational technique used to model the [probability distributions](../p/probability_distributions_in_trading.md) of project outcomes and capture the complexities associated with multiple interacting options.
 
 4. **Application Areas**:
     - **Natural Resources**: In the mining, oil, and gas sectors, companies use ROA to evaluate the timing of exploration, development, and drilling activities.

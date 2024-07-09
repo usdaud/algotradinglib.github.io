@@ -24,7 +24,7 @@ Financial markets are directly influenced by ZLB conditions through several chan
 
 - **Bond Markets**: Yields on government and corporate bonds tend to be lower, making fixed-income [arbitrage](../a/arbitrage.md) strategies less lucrative.
 - **Equity Markets**: Lower interest rates tend to boost equity prices, though the sustainability of such boosts in a ZLB context can be uncertain.
-- **Volatility**: The uncertainty and lower economic growth expectations can lead to increased market volatility, impacting the performance of volatility-based algotrading strategies.
+- **Volatility**: The [uncertainty](../u/uncertainty_in_trading.md) and lower economic growth expectations can lead to increased market volatility, impacting the performance of volatility-based algotrading strategies.
 
 ## Unconventional Monetary Policies at the Zero-Lower-Bound
 
@@ -70,7 +70,7 @@ Incorporating ZLB effects into algotrading models adds to their complexity. Trad
 
 ### Backtesting and Simulation
 
-Algotrading strategies must undergo rigorous [backtesting](../b/backtesting.md) and simulation in ZLB environments to ensure robustness. Historical data from periods like the Global Financial Crisis can provide valuable insights for this purpose.
+Algotrading strategies must undergo rigorous [backtesting](../b/backtesting.md) and [simulation](../s/simulation_in_trading.md) in ZLB environments to ensure robustness. Historical data from periods like the Global Financial Crisis can provide valuable insights for this purpose.
 
 Example: [AlgoTrader](https://www.algotrader.com/)
 

@@ -84,7 +84,7 @@ Model risk arises when the [valuation models](../v/valuation_models.md) used are
 
 ### 4. Behavioral Biases
 
-Investors' behavioral biases, such as overconfidence, herd behavior, and [loss aversion](../l/loss_aversion.md), can lead to irrational pricing of assets. Recognizing and accounting for these biases is essential for accurate valuation.
+Investors' [behavioral biases](../b/behavioral_biases_in_trading.md), such as overconfidence, [herd behavior](../h/herd_behavior_in_trading.md), and [loss aversion](../l/loss_aversion.md), can lead to irrational pricing of assets. Recognizing and accounting for these biases is essential for accurate valuation.
 
 ### 5. Regulatory and Political Factors
 

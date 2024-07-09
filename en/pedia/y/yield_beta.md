@@ -31,7 +31,7 @@ Investors and traders use Yield Beta to implement [hedging strategies](../h/hedg
 
 ### Risk Assessment
 
-Yield Beta is a valuable tool for risk assessment, as it provides insights into the potential impact of interest rate changes on the yields of different securities. This information helps in stress testing and scenario analysis, allowing investors to prepare for various market conditions.
+Yield Beta is a valuable tool for risk assessment, as it provides insights into the potential impact of interest rate changes on the yields of different securities. This information helps in [stress testing](../s/stress_testing_in_trading.md) and scenario analysis, allowing investors to prepare for various market conditions.
 
 ## Implications
 

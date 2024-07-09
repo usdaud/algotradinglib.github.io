@@ -12,7 +12,7 @@ Calculating RWAs involves assigning risk weights to various asset classes based 
 
 ### 2.1. Asset Classification
 
-Banks classify assets into various categories such as residential mortgages, commercial loans, treasury securities, and off-balance-sheet items. Each category is treated differently based on its associated risk factors.
+Banks classify assets into various categories such as residential mortgages, commercial loans, treasury securities, and off-balance-sheet items. Each category is treated differently based on its associated [risk factors](../r/risk_factors_in_trading.md).
 
 ### 2.2. Risk Weight Assignment
 

@@ -34,7 +34,7 @@ One of the main applications of the Chi-Square test in [algorithmic trading](../
 Traders can also use the Chi-Square test to compare different [trading strategies](../t/trading_strategies.md). By categorizing trades based on different strategies and market outcomes, a Chi-Square test can reveal whether the differences in performance are statistically significant.
 
 ### Risk Management
-Chi-Square tests can be leveraged in [risk management](../r/risk_management.md) to understand the association between various risk factors and the occurrence of significant market events.
+Chi-Square tests can be leveraged in [risk management](../r/risk_management.md) to understand the association between various [risk factors](../r/risk_factors_in_trading.md) and the occurrence of significant market events.
 
 ## Implementation Steps
 

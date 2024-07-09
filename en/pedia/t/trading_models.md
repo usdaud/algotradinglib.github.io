@@ -7,7 +7,7 @@ Trading models play a crucial role in [algorithmic trading](../a/algorithmic_tra
 ## 1. Mean Reversion Models
 
 **[Mean reversion](../m/mean_reversion.md)** is based on the statistical principle that asset prices tend to return to their average value over time. 
-- **Key Components**: Mathematical formulations like moving averages, [Bollinger Bands](../b/bollinger_bands.md), and z-scores.
+- **Key Components**: Mathematical formulations like moving averages, [Bollinger Bands](../b/bollinger_bands.md), and [z-scores](../z/z-scores_in_trading.md).
 - **Mechanics**: Identifies overbought or oversold conditions and places trades anticipating a move back to the mean.
 - **Benefits**: Best for markets with frequent reversals.
 - **Limitations**: Can be ineffective in trending markets.
@@ -24,7 +24,7 @@ Trading models play a crucial role in [algorithmic trading](../a/algorithmic_tra
 
 **Statistical [arbitrage](../a/arbitrage.md)** involves the simultaneous buying and selling of securities to exploit inefficiencies.
 - **Key Components**: [Pairs trading](../p/pairs_trading.md), cointegration, and mean-reverting spreads.
-- **Mechanics**: Uses mathematical models to identify spread anomalies and enact trades to profit from price convergences.
+- **Mechanics**: Uses [mathematical models](../m/mathematical_models_in_trading.md) to identify spread anomalies and enact trades to profit from price convergences.
 - **Benefits**: Minimizes directional market risk.
 - **Limitations**: Requires sophisticated statistical tools and can involve high transaction costs.
 
@@ -47,8 +47,8 @@ Trading models play a crucial role in [algorithmic trading](../a/algorithmic_tra
 ## 6. Machine Learning Models
 
 **Machine learning trading models** utilize algorithms to learn from historical data to make future trading decisions.
-- **Key Components**: Neural networks, [decision trees](../d/decision_trees.md), and support vector machines.
-- **Mechanics**: Develops predictive models to identify trade signals from higher-dimensional data.
+- **Key Components**: [Neural networks](../n/neural_networks_in_trading.md), [decision trees](../d/decision_trees.md), and [support vector machines](../s/support_vector_machines_in_trading.md).
+- **Mechanics**: Develops [predictive models](../p/predictive_models_in_trading.md) to identify trade signals from higher-dimensional data.
 - **Benefits**: Adaptive to new data and capable of capturing complex patterns.
 - **Limitations**: Requires substantial computational power and extensive data preprocessing.
 

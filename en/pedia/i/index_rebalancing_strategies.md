@@ -81,7 +81,7 @@ Index rebalancing is the method by which the weights of the constituent stocks i
 ### Future Trends in Index Rebalancing
 
 1. **AI and Machine Learning:**
-   - Leveraging AI and machine learning algorithms to predict optimal rebalancing times and methods, enhancing efficiency and accuracy.
+   - Leveraging AI and machine [learning algorithms](../l/learning_algorithms_in_trading.md) to predict optimal rebalancing times and methods, enhancing efficiency and accuracy.
    
 2. **Real-Time Rebalancing:**
    - Advances in technology may enable near-real-time rebalancing, significantly reducing tracking errors and improving market responsiveness.
@@ -89,8 +89,8 @@ Index rebalancing is the method by which the weights of the constituent stocks i
 3. **Environmental, Social, and Governance (ESG) Factors:**
    - Integrating ESG factors into rebalancing criteria to promote sustainable and [ethical investing](../e/ethical_investing.md).
 
-4. **Blockchain Technology:**
-   - Using blockchain for transparent and secure rebalancing processes, potentially reducing costs and increasing transparency.
+4. **[Blockchain](../b/blockchain_in_trading.md) Technology:**
+   - Using [blockchain](../b/blockchain_in_trading.md) for transparent and secure rebalancing processes, potentially reducing costs and increasing transparency.
 
 ### Conclusion
 

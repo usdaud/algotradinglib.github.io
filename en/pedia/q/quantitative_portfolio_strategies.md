@@ -1,11 +1,11 @@
 # Quantitative Portfolio Strategies
 
-Quantitative portfolio strategies apply mathematical models and computational techniques to asset selection and [portfolio management](../p/portfolio_management.md). These strategies leverage historical data, statistical analysis, and financial theories to identify profitable trading opportunities, manage risk, and optimize returns. Let's explore some of the foundational concepts, common approaches, tools, and notable companies employing quantitative strategies.
+Quantitative portfolio strategies apply [mathematical models](../m/mathematical_models_in_trading.md) and computational techniques to asset selection and [portfolio management](../p/portfolio_management.md). These strategies leverage historical data, statistical analysis, and financial theories to identify profitable trading opportunities, manage risk, and optimize returns. Let's explore some of the foundational concepts, common approaches, tools, and notable companies employing [quantitative strategies](../q/quantitative_strategies_in_trading.md).
 
 ## Foundations of Quantitative Portfolio Strategies
 
 ### Efficient Market Hypothesis (EMH)
-The EMH posits that financial markets are "informationally efficient," meaning current asset prices fully reflect all available information. Despite criticisms and evidence of [market anomalies](../m/market_anomalies.md), the EMH forms a cornerstone of modern financial theory and underpins many quantitative strategies.
+The EMH posits that financial markets are "informationally efficient," meaning current asset prices fully reflect all available information. Despite criticisms and evidence of [market anomalies](../m/market_anomalies.md), the EMH forms a cornerstone of modern financial theory and underpins many [quantitative strategies](../q/quantitative_strategies_in_trading.md).
 
 ### Modern Portfolio Theory (MPT)
 Developed by Harry Markowitz, MPT emphasizes the benefits of diversification to maximize returns for a given level of risk. Key principles include:
@@ -73,7 +73,7 @@ Machine learning techniques, including supervised learning, unsupervised learnin
 ### Software Platforms
 - **[QuantConnect](../q/quantconnect.md):** An open-source, cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform supporting C#, F#, Python, and R. [QuantConnect](https://www.quantconnect.com/)
 - **[Quantlib](../q/quantlib.md):** A comprehensive library for [quantitative finance](../q/quantitative_finance.md). [Quantlib](https://www.quantlib.org/)
-- **MATLAB Finance Toolbox:** Provides extensive tools for designing and [backtesting](../b/backtesting.md) quantitative strategies. [MathWorks Finance Toolbox](https://www.mathworks.com/products/finance.html)
+- **MATLAB Finance Toolbox:** Provides extensive tools for designing and [backtesting](../b/backtesting.md) [quantitative strategies](../q/quantitative_strategies_in_trading.md). [MathWorks Finance Toolbox](https://www.mathworks.com/products/finance.html)
 
 ### Data Providers
 - **[Bloomberg](../b/bloomberg.md) Terminal:** Offers comprehensive data, analytics, and trading tools. [Bloomberg](https://www.bloomberg.com/professional/solution/data-and-content/)
@@ -83,7 +83,7 @@ Machine learning techniques, including supervised learning, unsupervised learnin
 ## Notable Companies
 
 ### Renaissance Technologies
-Founded by Jim Simons, Renaissance Technologies is one of the most successful [quantitative hedge funds](../q/quantitative_hedge_funds.md), known for its Medallion Fund. RenTech employs advanced mathematical models and high-frequency [trading strategies](../t/trading_strategies.md). [Renaissance Technologies](https://www.rentec.com/)
+Founded by Jim Simons, Renaissance Technologies is one of the most successful [quantitative hedge funds](../q/quantitative_hedge_funds.md), known for its Medallion Fund. RenTech employs advanced [mathematical models](../m/mathematical_models_in_trading.md) and high-frequency [trading strategies](../t/trading_strategies.md). [Renaissance Technologies](https://www.rentec.com/)
 
 ### Two Sigma
 Two Sigma leverages machine learning, distributed computing, and large datasets to create sophisticated investment strategies. It emphasizes a scientific approach to financial markets. [Two Sigma](https://www.twosigma.com/)
@@ -106,7 +106,7 @@ VaR measures the potential loss in value of a portfolio over a defined period fo
 Expected shortfall, or Conditional VaR, provides an estimate of the expected loss given that the VaR threshold has been breached. It's used to capture [tail risk](../t/tail_risk.md) and adverse market scenarios.
 
 ### Stress Testing
-Stress testing involves simulating extreme market conditions to assess the resilience of a portfolio. It helps identify vulnerabilities and potential sources of significant loss.
+[Stress testing](../s/stress_testing_in_trading.md) involves simulating extreme market conditions to assess the resilience of a portfolio. It helps identify vulnerabilities and potential sources of significant loss.
 
 ### Scenario Analysis
 Scenario analysis examines the impact of hypothetical scenarios on [portfolio performance](../p/portfolio_performance.md). It allows for understanding the effects of specific events, such as economic crises or geopolitical developments.
@@ -118,8 +118,8 @@ Scenario analysis examines the impact of hypothetical scenarios on [portfolio pe
 Considering transaction costs, including brokerage fees, slippage, and market impact, is crucial for the accurate assessment of strategy profitability. Neglecting these costs can lead to overestimation of returns.
 
 ### Diversification
-Diversification involves spreading investments across various assets to reduce risk. In quantitative strategies, diversification is achieved by incorporating multiple models, asset classes, and geographies.
+Diversification involves spreading investments across various assets to reduce risk. In [quantitative strategies](../q/quantitative_strategies_in_trading.md), diversification is achieved by incorporating multiple models, asset classes, and geographies.
 
 ## Conclusion
 
-Quantitative portfolio strategies are at the forefront of modern finance, combining mathematical rigor, computational power, and empirical analysis to navigate complex markets. By leveraging a mix of foundational theories, advanced algorithms, and robust [risk management](../r/risk_management.md) practices, these strategies strive to deliver superior risk-adjusted returns. As technology and data availability continue to evolve, the potential for innovation in [quantitative finance](../q/quantitative_finance.md) remains vast.
+Quantitative portfolio strategies are at the forefront of modern finance, combining mathematical rigor, computational power, and [empirical analysis](../e/empirical_analysis_in_trading.md) to navigate complex markets. By leveraging a mix of foundational theories, advanced algorithms, and robust [risk management](../r/risk_management.md) practices, these strategies strive to deliver superior risk-adjusted returns. As technology and data availability continue to evolve, the potential for innovation in [quantitative finance](../q/quantitative_finance.md) remains vast.

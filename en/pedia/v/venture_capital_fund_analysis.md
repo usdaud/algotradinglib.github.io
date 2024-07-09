@@ -52,7 +52,7 @@ Exit multiples evaluate the exit strategy's effectiveness by comparing the exit 
 
 ### Sector-Specific Funds
 
-Some VC funds focus on specific sectors like technology, healthcare, fintech, or green energy. For instance, a technology-focused VC fund may invest exclusively in SaaS (Software as a Service) startups, AI (Artificial Intelligence), or blockchain companies.
+Some VC funds focus on specific sectors like technology, healthcare, fintech, or green energy. For instance, a technology-focused VC fund may invest exclusively in SaaS (Software as a Service) startups, AI ([Artificial Intelligence](../a/artificial_intelligence_in_trading.md)), or [blockchain](../b/blockchain_in_trading.md) companies.
 
 ### Stage-Specific Funds
 

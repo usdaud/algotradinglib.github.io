@@ -88,7 +88,7 @@ HFT algorithms rely on extremely short-term price movements to generate profits.
 
 ## Software and Tools
 
-There are several software platforms and tools used to calculate and analyze 1-Day Volatility. These tools are integral for traders, data scientists, and quants engaged in algotrading:
+There are several [software platforms](../s/software_platforms_for_trading.md) and tools used to calculate and analyze 1-Day Volatility. These tools are integral for traders, data scientists, and quants engaged in algotrading:
 
 ### Python Libraries
 
@@ -110,7 +110,7 @@ There are several software platforms and tools used to calculate and analyze 1-D
 
 ### Volatility Indicators
 
-1. **Average True Range (ATR)**: Measures market volatility by analyzing the complete range of price movement.
+1. **[Average True Range](../a/average_true_range_(atr).md) (ATR)**: Measures market volatility by analyzing the complete range of price movement.
 2. **[Bollinger Bands](../b/bollinger_bands.md)**: Visualize market volatility by plotting price bands based on standard deviation levels.
 
 ## Limitations and Considerations
@@ -119,7 +119,7 @@ There are several software platforms and tools used to calculate and analyze 1-D
 
 1. **Noise**: High-frequency data can contain a lot of noise, making it challenging to extract meaningful signals.
 2. **Market Conditions**: Sudden market changes, such as news events, can lead to spikes in volatility that may not be sustainable.
-3. **Assumption of Normality**: The standard deviation-based approach assumes a normal distribution of returns, which may not hold true in all markets.
+3. **Assumption of Normality**: The standard deviation-based approach assumes a [normal distribution](../n/normal_distribution_in_trading.md) of returns, which may not hold true in all markets.
 
 ### Considerations
 

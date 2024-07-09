@@ -8,7 +8,7 @@ Calculating [weighted portfolio](../w/weighted_portfolio.md) returns involves a 
 
 1. **Individual Asset Returns**: The return on each asset within the portfolio over a given period.
 2. **Weights of Assets**: The proportion of the portfolio's total value that each asset represents, often expressed as a percentage.
-3. **Sum of Weighted Returns**: The addition of each asset's return multiplied by its weight in the portfolio to determine the overall portfolio return.
+3. **Sum of [Weighted Returns](../w/weighted_returns_in_trading.md)**: The addition of each asset's return multiplied by its weight in the portfolio to determine the overall portfolio return.
 
 ### Calculation
 
@@ -48,7 +48,7 @@ Portfolio managers or individual investors may adjust the weights of assets in t
 
 #### Linear Programming for Weight Adjustment
 
-Some advanced techniques for adjusting weights include the use of linear programming and optimization algorithms to maximize returns or minimize risk for a given level of expected return. These methods involve setting up equations and inequalities that represent the portfolio's constraints and objectives and solving them to find the optimal asset weights.
+Some advanced techniques for adjusting weights include the use of [linear programming](../l/linear_programming_in_trading.md) and optimization algorithms to maximize returns or minimize risk for a given level of expected return. These methods involve setting up equations and inequalities that represent the portfolio's constraints and objectives and solving them to find the optimal asset weights.
 
 ### Risk and Return Trade-off
 
@@ -71,4 +71,4 @@ Some common metrics used to evaluate [portfolio performance](../p/portfolio_perf
 
 ### Conclusion
 
-[Weighted portfolio](../w/weighted_portfolio.md) returns serve as an essential tool for investors seeking to diversify their investments, balance risk and return, and systematically manage their portfolios. By understanding and applying the principles of weighted returns, investors can make more informed decisions, better navigate market complexities, and potentially enhance their long-term investment outcomes.
+[Weighted portfolio](../w/weighted_portfolio.md) returns serve as an essential tool for investors seeking to diversify their investments, balance risk and return, and systematically manage their portfolios. By understanding and applying the principles of [weighted returns](../w/weighted_returns_in_trading.md), investors can make more informed decisions, better navigate market complexities, and potentially enhance their long-term investment outcomes.

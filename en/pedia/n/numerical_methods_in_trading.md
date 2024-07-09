@@ -6,8 +6,8 @@ Numerical methods are computational techniques used to solve mathematical proble
 ## Common Numerical Methods in Trading
 
 ### 1. **Optimization Algorithms**
-   - **Gradient Descent**: Used to minimize functions that represent cost or risk. It iteratively adjusts parameters to reduce error in predictive models.
-   - **Genetic Algorithms**: These are inspired by Darwinian evolution, used for optimization problems where traditional methods may fail. They simulate processes like mutation, crossover, and selection to generate optimal solutions.
+   - **Gradient Descent**: Used to minimize functions that represent cost or risk. It iteratively adjusts parameters to reduce error in [predictive models](../p/predictive_models_in_trading.md).
+   - **[Genetic Algorithms](../g/genetic_algorithms_in_trading.md)**: These are inspired by Darwinian evolution, used for optimization problems where traditional methods may fail. They simulate processes like mutation, crossover, and selection to generate optimal solutions.
    - **[Simulated Annealing](../s/simulated_annealing.md)**: An optimization technique that probabilistically explores the solution space and can escape local minima, mimicking the cooling process of metals.
   
 ### 2. **Monte Carlo Simulation**
@@ -28,19 +28,19 @@ These equations model systems affected by random inputs, crucial in [financial m
 ## Applications in Trading
 
 ### Quantitative Trading Strategies
-Quantitative strategies rely heavily on numerical methods to develop models that can predict market movements and optimize trade execution.
+[Quantitative strategies](../q/quantitative_strategies_in_trading.md) rely heavily on numerical methods to develop models that can predict market movements and optimize trade execution.
 
 ### Risk Management
-Numerical methods are essential for assessing and managing risk. Techniques like Value at Risk (VaR) calculations and stress testing rely on computational methods to predict potential losses.
+Numerical methods are essential for assessing and managing risk. Techniques like Value at Risk (VaR) calculations and [stress testing](../s/stress_testing_in_trading.md) rely on computational methods to predict potential losses.
 
 ### Asset Pricing
 [Asset pricing models](../a/asset_pricing_models.md), including the [Black-Scholes model](../b/black-scholes_model.md) for options and the Capital Asset Pricing Model (CAPM), use numerical methods to provide valuations based on various financial assumptions and variables.
 
 ### Portfolio Optimization
-Techniques such as [Mean-Variance Optimization](../m/mean-variance_optimization.md), which seeks to maximize return for a given risk level, are rooted in numerical methods. Genetic algorithms and Monte Carlo simulations can also be applied to find optimal portfolio combinations that traditional methods may overlook.
+Techniques such as [Mean-Variance Optimization](../m/mean-variance_optimization.md), which seeks to maximize return for a given risk level, are rooted in numerical methods. [Genetic algorithms](../g/genetic_algorithms_in_trading.md) and Monte Carlo simulations can also be applied to find optimal portfolio combinations that traditional methods may overlook.
 
 ### Machine Learning
-Modern [trading systems](../t/trading_systems.md) frequently implement machine learning models that use numerical methods for training and optimization. Algorithms like Support Vector Machines (SVM), Neural Networks, and Regression algorithms are common in predicting market movements and automating trades.
+Modern [trading systems](../t/trading_systems.md) frequently implement machine learning models that use numerical methods for training and optimization. Algorithms like [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM), [Neural Networks](../n/neural_networks_in_trading.md), and Regression algorithms are common in predicting market movements and automating trades.
 
 ## Advanced Topics
 
@@ -59,7 +59,7 @@ More complex models, such as the Heston model or the SABR volatility model, invo
 [QuantConnect](../q/quantconnect.md) offers a platform for [algorithmic trading](../a/algorithmic_trading.md) where users can backtest and implement [trading strategies](../t/trading_strategies.md) with the aid of various numerical methods.
 
 ### [Kaggle Competitions](https://www.kaggle.com/)
-Many Kaggle competitions focus on financial data analysis and require the use of numerical methods to create predictive models and optimize [trading strategies](../t/trading_strategies.md).
+Many Kaggle competitions focus on financial data analysis and require the use of numerical methods to create [predictive models](../p/predictive_models_in_trading.md) and optimize [trading strategies](../t/trading_strategies.md).
 
 ### [Numerical Methods Inc.](https://www.numerical.com/)
 A company that specializes in providing software and solutions for implementing sophisticated numerical methods in trading and [financial modeling](../f/financial_modeling.md).

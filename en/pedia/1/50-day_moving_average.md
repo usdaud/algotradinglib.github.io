@@ -53,7 +53,7 @@ The 50-DMA often acts as a dynamic support or resistance level. If the price is 
 ### Limitations
 
 - **Lagging Indicator:** As it is based on past prices, it lags behind the current market action.
-- **Not Foolproof:** Can give false signals, particularly in volatile or range-bound markets.
+- **Not Foolproof:** Can give [false signals](../f/false_signals_in_trading.md), particularly in volatile or range-bound markets.
 - **Requires Confirmation:** Should be used in conjunction with other indicators for better results.
 
 ## Example of Use
@@ -84,7 +84,7 @@ For example, a simple moving average crossover algorithm might be designed to bu
 
 ## Tools and Platforms
 
-Several trading platforms and software tools allow traders to employ the 50-DMA in their strategies:
+Several trading platforms and [software tools](../s/software_tools_for_trading.md) allow traders to employ the 50-DMA in their strategies:
 
 - **MetaTrader 4/5:** Popular among retail traders for forex and [commodities trading](../c/commodities_trading.md).
 [MetaTrader Website](https://www.metatrader4.com)

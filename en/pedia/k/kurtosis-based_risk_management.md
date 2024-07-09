@@ -20,8 +20,8 @@ where \( \mu_4 \) is the fourth central moment (i.e., the average of the squared
 In the context of [algorithmic trading](../a/algorithmic_trading.md), kurtosis provides critical insights that traditional metrics might overlook:
 
 1. **[Tail Risk](../t/tail_risk.md)**: Higher kurtosis indicates a higher probability of extreme price movements, which is essential for understanding potential [tail risk](../t/tail_risk.md).
-2. **Non-Normality**: Financial returns rarely follow a normal distribution; they exhibit [skewness and kurtosis](../s/skewness_and_kurtosis.md). Managing risk using kurtosis helps in acknowledging and preparing for this non-normality.
-3. **Model Robustness**: By incorporating kurtosis into risk models, traders can develop more robust algorithms that are better suited for real-world conditions.
+2. **Non-Normality**: Financial returns rarely follow a [normal distribution](../n/normal_distribution_in_trading.md); they exhibit [skewness and kurtosis](../s/skewness_and_kurtosis.md). Managing risk using kurtosis helps in acknowledging and preparing for this non-normality.
+3. **Model Robustness**: By incorporating kurtosis into [risk models](../r/risk_models_in_trading.md), traders can develop more robust algorithms that are better suited for real-world conditions.
 
 ### Kurtosis in Risk Management
 
@@ -63,7 +63,7 @@ Numerai is a hedge fund that leverages machine learning and AI for trading. Thei
 
 #### 3. Quantlib
 
-[Quantlib](../q/quantlib.md) is an open-source library aimed at providing tools for financial instrument valuation and analysis. It includes various [risk management](../r/risk_management.md) techniques, enabling the integration of kurtosis into custom risk models.
+[Quantlib](../q/quantlib.md) is an open-source library aimed at providing tools for financial instrument valuation and analysis. It includes various [risk management](../r/risk_management.md) techniques, enabling the integration of kurtosis into custom [risk models](../r/risk_models_in_trading.md).
 
 - [Quantlib](http://quantlib.org/)
 

@@ -27,17 +27,17 @@ Market rotation strategies are heavily based on the concept of economic and busi
 ### Implementation of Market Rotation
 
 #### Quantitative Analysis
-[Quantitative analysis](../q/quantitative_analysis.md) involves using mathematical models, historical data, and algorithms to identify patterns and forecast future market trends. Some common methods include:
+[Quantitative analysis](../q/quantitative_analysis.md) involves using [mathematical models](../m/mathematical_models_in_trading.md), historical data, and algorithms to identify patterns and forecast future market trends. Some common methods include:
 
 1. **[Momentum Indicators](../m/momentum_indicators.md)**: Tools like the Relative Strength Index (RSI) or Moving Average Convergence Divergence (MACD) help gauge the strength and direction of market movements.
 2. **Statistical Measures**: Analysis of [historical volatility](../h/historical_volatility.md), [mean reversion](../m/mean_reversion.md), and correlation across sectors to predict future performance.
-3. **Machine Learning**: Use of advanced algorithms and artificial intelligence to detect hidden patterns in vast datasets that may be indicative of future [sector performance](../s/sector_performance.md).
+3. **Machine Learning**: Use of advanced algorithms and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to detect hidden patterns in vast datasets that may be indicative of future [sector performance](../s/sector_performance.md).
 
 #### Fundamental Analysis
 [Fundamental analysis](../f/fundamental_analysis.md) involves evaluating a sector's or industry’s intrinsic value based on [economic indicators](../e/economic_indicators.md), financial statements, and industry trends. Factors considered include:
 
-1. **[Economic Indicators](../e/economic_indicators.md)**: GDP growth rates, unemployment rates, consumer confidence, and inflation data.
-2. **Company Fundamentals**: Earnings reports, revenue growth, profit margins, and debt levels.
+1. **[Economic Indicators](../e/economic_indicators.md)**: GDP [growth rates](../g/growth_rates_in_trading.md), unemployment rates, consumer confidence, and inflation data.
+2. **Company Fundamentals**: Earnings reports, revenue growth, [profit margins](../p/profit_margins_in_trading.md), and debt levels.
 3. **Industry Trends**: Regulatory changes, technological advancements, and competitive landscape.
 
 #### Tactical Asset Allocation

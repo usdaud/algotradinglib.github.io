@@ -26,13 +26,13 @@ The [Black-Scholes model](../b/black-scholes_model.md) assumes constant volatili
 - **[Volatility Skew](../v/volatility_skew.md)**: Implied volatility tends to increase as options go further out-of-the-money on the put side or in-the-money on the call side, often due to perceived downside risk.
 
 ### 3.2 Term Structure of Implied Volatility
-The assumption of constant volatility is further violated through the term structure of implied volatility, which reflects changes in implied volatility over different option maturities. Short-term options might display higher volatility than long-term ones due to near-term uncertainty.
+The assumption of constant volatility is further violated through the term structure of implied volatility, which reflects changes in implied volatility over different option maturities. Short-term options might display higher volatility than long-term ones due to near-term [uncertainty](../u/uncertainty_in_trading.md).
 
 ### 3.3 Volatility Clustering
 [Volatility clustering](../v/volatility_clustering.md) refers to periods of high volatility followed by high volatility and low volatility following low volatility. This phenomenon contradicts the model's assumption of constant and independently distributed returns.
 
 ### 3.4 Leverage Effect
-The leverage effect is characterized by increased volatility coinciding with stock price declines. This inverse relationship between stock prices and volatility poses a challenge to the [Black-Scholes model](../b/black-scholes_model.md)'s assumption of constant volatility.
+The [leverage effect](../l/leverage_effect_in_trading.md) is characterized by increased volatility coinciding with stock price declines. This inverse relationship between stock prices and volatility poses a challenge to the [Black-Scholes model](../b/black-scholes_model.md)'s assumption of constant volatility.
 
 ### 3.5 Risk Premiums
 Theoretical models often miss factors like risk premiums in their calculations. In practice, options may be priced to include premiums for various risks, including default risk, [liquidity risk](../l/liquidity_risk.md), and jump risk.
@@ -55,7 +55,7 @@ Empirical studies have consistently found evidence of these anomalies in various
 Several factors contribute to options pricing anomalies:
 
 ### 5.1 Behavioral Factors
-Investors' behavioral biases and heuristics, such as overreacting to news or following trends, can create and sustain pricing anomalies. Prospect theory and [loss aversion](../l/loss_aversion.md) suggest that investors value gains and losses differently, impacting their choices in options markets.
+Investors' [behavioral biases](../b/behavioral_biases_in_trading.md) and heuristics, such as overreacting to news or following trends, can create and sustain pricing anomalies. [Prospect theory](../p/prospect_theory_in_trading.md) and [loss aversion](../l/loss_aversion.md) suggest that investors value gains and losses differently, impacting their choices in options markets.
 
 ### 5.2 Market Microstructure
 Transaction costs, bid-ask spreads, and liquidity issues can also lead to mispricings not accounted for by classical models. Order execution speed, market depth, and the heterogeneity of market participants contribute to price anomalies.

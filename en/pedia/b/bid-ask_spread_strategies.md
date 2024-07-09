@@ -22,7 +22,7 @@ The spread is the difference between the bid price and the ask price. A narrower
 
 ## Importance of Bid-Ask Spread in Trading
 
-1. **Market Liquidity**: The [bid-ask spread](../b/bid-ask_spread.md) is a direct indicator of market liquidity. Tight spreads usually indicate a well-functioning, liquid market, whereas wide spreads may suggest illiquidity or market uncertainty.
+1. **Market Liquidity**: The [bid-ask spread](../b/bid-ask_spread.md) is a direct indicator of market liquidity. Tight spreads usually indicate a well-functioning, liquid market, whereas wide spreads may suggest illiquidity or market [uncertainty](../u/uncertainty_in_trading.md).
 
 2. **Transaction Costs**: The spread represents an implicit cost of trading. Traders must buy at the ask price and sell at the bid price. For high-frequency traders and market makers, minimizing these costs is crucial for profitability.
 
@@ -48,7 +48,7 @@ The spread is the difference between the bid price and the ask price. A narrower
 
 ### Statistical Arbitrage
 
-**Description**: Statistical [arbitrage](../a/arbitrage.md) involves using mathematical models to identify and exploit statistical mispricings between securities. This type of strategy often relies on mean-reversion principles.
+**Description**: Statistical [arbitrage](../a/arbitrage.md) involves using [mathematical models](../m/mathematical_models_in_trading.md) to identify and exploit statistical mispricings between securities. This type of strategy often relies on mean-reversion principles.
 
 **Strategy**: Algorithms analyze historical price data to predict short-term price movements and execute trades that capitalize on the temporary deviations from the mean price.
 

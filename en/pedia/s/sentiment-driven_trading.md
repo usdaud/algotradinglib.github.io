@@ -23,8 +23,8 @@ Several data sources are used in sentiment-driven trading:
 
 Various techniques are employed to analyze sentiment from textual data:
 
-1. **Natural Language Processing (NLP)**: NLP techniques are used to process and understand human language. Sentiment classification, entity recognition, and topic modeling are some NLP methods applied in [sentiment analysis](../s/sentiment_analysis.md).
-2. **Machine Learning**: Algorithms like Support Vector Machines (SVMs), Random Forests, and Neural Networks are trained on datasets to classify sentiments as positive, negative, or neutral.
+1. **[Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP)**: NLP techniques are used to process and understand human language. Sentiment classification, entity recognition, and topic modeling are some NLP methods applied in [sentiment analysis](../s/sentiment_analysis.md).
+2. **Machine Learning**: Algorithms like [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVMs), [Random Forests](../r/random_forests_in_trading.md), and [Neural Networks](../n/neural_networks_in_trading.md) are trained on datasets to classify sentiments as positive, negative, or neutral.
 3. **Text Mining**: Text mining involves extracting meaningful information from text. It includes tasks like tokenization, parsing, and feature extraction, which help in identifying [sentiment indicators](../s/sentiment_indicators.md) from large datasets.
 4. **Lexicon-Based Approaches**: Predefined lists of positive and negative words (lexicons) are used to score the sentiment of text. Though simple, this method provides a quick way to gauge sentiment.
 
@@ -69,11 +69,11 @@ A study conducted by researchers at the University of California, Riverside, exa
 
 ### Future Trends in Sentiment-Driven Trading
 
-The field of sentiment-driven trading is expected to evolve with advancements in AI, machine learning, and big data technologies:
+The field of sentiment-driven trading is expected to evolve with advancements in AI, machine learning, and [big data](../b/big_data_in_trading.md) technologies:
 
 1. **Enhanced NLP Models**: The development of more sophisticated NLP models, such as transformers and BERT, will improve the accuracy of [sentiment analysis](../s/sentiment_analysis.md).
 2. **Integration with Other Data Sources**: Combining sentiment data with traditional financial metrics and [alternative data](../a/alternative_data.md) sources (e.g., satellite imagery, credit card transactions) will provide a more holistic view of market dynamics.
 3. **RegTech Solutions**: Regulatory technology (RegTech) will help ensure that sentiment-driven trading complies with financial regulations, reducing the risk of legal issues.
-4. **Decentralized Sentiment Platforms**: Blockchain technology could enable decentralized platforms where users contribute sentiment data transparently and securely.
+4. **Decentralized Sentiment Platforms**: [Blockchain](../b/blockchain_in_trading.md) technology could enable decentralized platforms where users contribute sentiment data transparently and securely.
 
 Sentiment-driven trading represents a dynamic and innovative approach to understanding and navigating financial markets. By harnessing the collective mood of market participants, traders can make more informed decisions and potentially achieve better returns. As technology continues to advance, the capabilities and effectiveness of [sentiment analysis](../s/sentiment_analysis.md) are likely to grow, offering new opportunities for traders and investors.

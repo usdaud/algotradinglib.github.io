@@ -110,7 +110,7 @@ Market fragmentation, where trading activity is dispersed across multiple venues
 Regulatory changes and compliance requirements can influence market liquidity. Striking a balance between ensuring market integrity and promoting liquidity remains a key focus for regulators and market participants.
 
 ### 3. Technological Advancements
-Ongoing advancements in trading technology, including artificial intelligence, machine learning, and blockchain, will continue to shape the future of order book liquidity. These innovations hold the potential to further enhance efficiency and transparency in trading.
+Ongoing advancements in trading technology, including [artificial intelligence](../a/artificial_intelligence_in_trading.md), machine learning, and [blockchain](../b/blockchain_in_trading.md), will continue to shape the future of order book liquidity. These innovations hold the potential to further enhance efficiency and transparency in trading.
 
 ## Conclusion
 

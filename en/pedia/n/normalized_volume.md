@@ -53,7 +53,7 @@ Normalized volume is pivotal for several reasons:
 
 ## Tools and Software
 
-Several tools and software platforms offer functionality for calculating and integrating normalized volume into [trading strategies](../t/trading_strategies.md):
+Several tools and [software platforms](../s/software_platforms_for_trading.md) offer functionality for calculating and integrating normalized volume into [trading strategies](../t/trading_strategies.md):
 
 - **MetaTrader** (https://www.[metatrader4](../m/metatrader4.md).com/): Popular among forex traders, it provides custom indicators for normalized volume.
 - **[TradingView](../t/tradingview.md)** (https://www.[tradingview](../t/tradingview.md).com/): Widely used for its comprehensive charting tools and scripts for calculating normalized volume.
@@ -61,7 +61,7 @@ Several tools and software platforms offer functionality for calculating and int
 
 ## Case Studies and Real-World Application
 
-1. **[Quantitative Hedge Funds](../q/quantitative_hedge_funds.md):** Used by [quantitative hedge funds](../q/quantitative_hedge_funds.md) to filter out noise and improve the accuracy of predictive models by focusing on adjusted volume metrics.
+1. **[Quantitative Hedge Funds](../q/quantitative_hedge_funds.md):** Used by [quantitative hedge funds](../q/quantitative_hedge_funds.md) to filter out noise and improve the accuracy of [predictive models](../p/predictive_models_in_trading.md) by focusing on adjusted volume metrics.
 2. **[Algorithmic Trading](../a/algorithmic_trading.md) Desks:** Traders at large financial institutions, such as Goldman Sachs or JP Morgan, employ normalized volume to optimize their market entry and exit points.
 
 For example, Two Sigma Investments (https://www.twosigma.com/) leverages extensive computational power to analyze normalized volume across various asset classes, seeking alpha through precise [entry and exit strategies](../e/entry_and_exit_strategies.md).

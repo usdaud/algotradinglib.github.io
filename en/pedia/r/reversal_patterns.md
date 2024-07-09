@@ -122,7 +122,7 @@ Algorithms rely on historical and real-time data to identify reversal patterns. 
 
 ### Pattern Recognition Algorithms
 
-Machine Learning (ML) and Deep Learning (DL) techniques such as Convolutional Neural Networks (CNNs) can be employed to recognize and predict patterns from chart data. Reinforcement Learning (RL) can also be implemented for adaptive [trading strategies](../t/trading_strategies.md).
+Machine Learning (ML) and Deep Learning (DL) techniques such as Convolutional [Neural Networks](../n/neural_networks_in_trading.md) (CNNs) can be employed to recognize and predict patterns from chart data. Reinforcement Learning (RL) can also be implemented for adaptive [trading strategies](../t/trading_strategies.md).
 
 ### Backtesting and Optimization
 
@@ -134,7 +134,7 @@ Upon pattern confirmation, high-frequency trading (HFT) execution engines are re
 
 ### Risk Management
 
-Effective algorithms incorporate [risk management](../r/risk_management.md) strategies such as [stop-loss orders](../s/stop-loss_orders.md), [position sizing](../p/position_sizing.md), and [portfolio diversification](../p/portfolio_diversification.md). This ensures that the potential losses from false signals or unexpected market conditions are minimized.
+Effective algorithms incorporate [risk management](../r/risk_management.md) strategies such as [stop-loss orders](../s/stop-loss_orders.md), [position sizing](../p/position_sizing.md), and [portfolio diversification](../p/portfolio_diversification.md). This ensures that the potential losses from [false signals](../f/false_signals_in_trading.md) or unexpected market conditions are minimized.
 
 ### Example Software and Platforms
 

@@ -78,7 +78,7 @@ Non-GAAP (Generally Accepted Accounting Principles) measures are financial metri
     Tesla uses several non-GAAP measures in their financial disclosures, including adjusted EBITDA. Visit their [investor relations page](https://ir.tesla.com/) for detailed reports.
 
 3. **Alphabet Inc.:**
-    Alphabet provides non-GAAP measures like free cash flow and adjusted income from operations to offer a detailed view of its operational efficiency. Visit their [investor relations page](https://abc.xyz/investor/) for detailed information.
+    Alphabet provides non-GAAP measures like free cash flow and adjusted income from operations to offer a detailed view of its [operational efficiency](../o/operational_efficiency_in_trading.md). Visit their [investor relations page](https://abc.xyz/investor/) for detailed information.
 
 **Conclusion**
 

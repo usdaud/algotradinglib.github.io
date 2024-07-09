@@ -42,14 +42,14 @@ The CMO can also be used to confirm the strength of a trend. If the oscillator i
 
 ## Limitations
 
-1. **[Whipsaw Effect](../w/whipsaw_effect.md):** Higher sensitivity can also lead to false signals during sideways markets.
+1. **[Whipsaw Effect](../w/whipsaw_effect.md):** Higher sensitivity can also lead to [false signals](../f/false_signals_in_trading.md) during sideways markets.
 2. **Lagging Indicator:** As with any momentum indicator, the CMO lags behind price movements and may not predict reversals accurately.
 
 ## Practical Applications
 
 ### Integration with Other Indicators
 
-To minimize the risk of false signals, traders often use the CMO in conjunction with other indicators such as Moving Averages, [Bollinger Bands](../b/bollinger_bands.md), or the Relative Strength Index (RSI).
+To minimize the risk of [false signals](../f/false_signals_in_trading.md), traders often use the CMO in conjunction with other indicators such as Moving Averages, [Bollinger Bands](../b/bollinger_bands.md), or the Relative Strength Index (RSI).
 
 ### Buy and Sell Signals
 
@@ -79,7 +79,7 @@ In this example, the CMO is 5.88, which implies a neutral zone where neither ove
 
 ## Software Implementation
 
-Traders and analysts can calculate the CMO using various software tools and platforms. Popular trading software such as MetaTrader, [TradingView](../t/tradingview.md), and [NinjaTrader](../n/ninjatrader.md) offer built-in functions for the Chande Momentum Oscillator. 
+Traders and analysts can calculate the CMO using various [software tools](../s/software_tools_for_trading.md) and platforms. Popular trading software such as MetaTrader, [TradingView](../t/tradingview.md), and [NinjaTrader](../n/ninjatrader.md) offer built-in functions for the Chande Momentum Oscillator. 
 
 ### TradingView Example
 
@@ -108,7 +108,7 @@ Professional trading firms such as Renaissance Technologies, D.E. Shaw Group, an
 
 ### Case Study
 
-A notable example of the application of [momentum oscillators](../m/momentum_oscillators.md) in trading comes from Renaissance Technologies, renowned for its Medallion Fund. Although specific details about their algorithms are proprietary, the integration of indicators like the CMO helps in their market-timing strategies. Renaissance Technologies has consistently delivered impressive returns by blending mathematical models with real-world trading scenarios, showcasing the effectiveness of tools like the Chande Momentum Oscillator.
+A notable example of the application of [momentum oscillators](../m/momentum_oscillators.md) in trading comes from Renaissance Technologies, renowned for its Medallion Fund. Although specific details about their algorithms are proprietary, the integration of indicators like the CMO helps in their market-timing strategies. Renaissance Technologies has consistently delivered impressive returns by blending [mathematical models](../m/mathematical_models_in_trading.md) with real-world trading scenarios, showcasing the effectiveness of tools like the Chande Momentum Oscillator.
 
 For more information about Renaissance Technologies, visit their [official website](https://www.rentec.com/).
 

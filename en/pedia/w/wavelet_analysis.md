@@ -2,9 +2,9 @@
 
 ## Introduction to Wavelet Analysis
 
-Wavelet analysis is a powerful mathematical tool used for signal processing, particularly for time series data analysis. It allows for the decomposition of time-series data into different frequency components, enabling the analysis of both stationary and non-stationary signals. This attribute makes wavelet analysis ideal for the complex and often noisy data found in financial markets.
+Wavelet analysis is a powerful mathematical tool used for [signal processing](../s/signal_processing_in_trading.md), particularly for time series data analysis. It allows for the decomposition of time-series data into different frequency components, enabling the analysis of both stationary and non-stationary signals. This attribute makes wavelet analysis ideal for the complex and often noisy data found in financial markets.
 
-In [algorithmic trading](../a/algorithmic_trading.md), wavelet analysis helps identify market trends, cycles, and patterns that are not easily observable using traditional methods. By applying wavelet transforms, traders can improve their predictive models, enhance [trend analysis](../t/trend_analysis.md), and refine [trading strategies](../t/trading_strategies.md).
+In [algorithmic trading](../a/algorithmic_trading.md), wavelet analysis helps identify market trends, cycles, and patterns that are not easily observable using traditional methods. By applying wavelet transforms, traders can improve their [predictive models](../p/predictive_models_in_trading.md), enhance [trend analysis](../t/trend_analysis.md), and refine [trading strategies](../t/trading_strategies.md).
 
 ## Basics of Wavelets
 
@@ -14,7 +14,7 @@ Wavelets are defined by their function and scaling. A wavelet function, often de
 
 ### Discrete Wavelet Transform (DWT)
 
-The Discrete Wavelet Transform (DWT) is one of the most commonly used wavelet transform techniques. DWT uses discrete sampling in both time and frequency domains and provides a multi-resolution analysis of the signal. The process involves repeated filtering and down-sampling:
+The Discrete [Wavelet Transform](../w/wavelet_transform_in_trading.md) (DWT) is one of the most commonly used [wavelet transform](../w/wavelet_transform_in_trading.md) techniques. DWT uses discrete sampling in both time and frequency domains and provides a multi-resolution analysis of the signal. The process involves repeated filtering and down-sampling:
 
 1. **Filtering:** The signal is passed through both a high-pass filter and a low-pass filter.
 2. **Down-sampling:** The filtered results are then down-sampled by a factor of two.
@@ -46,7 +46,7 @@ Financial data often contains a significant amount of noise, making it challengi
 
 ### Feature Extraction
 
-Wavelets can extract important features from [financial time series](../f/financial_time_series.md), such as sharp price movements, volatility patterns, or recurring cycles. These features can be used to enhance predictive models and improve the accuracy of [trading signals](../t/trading_signals.md).
+Wavelets can extract important features from [financial time series](../f/financial_time_series.md), such as sharp price movements, volatility patterns, or recurring cycles. These features can be used to enhance [predictive models](../p/predictive_models_in_trading.md) and improve the accuracy of [trading signals](../t/trading_signals.md).
 
 ### Multiscale Analysis
 
@@ -64,9 +64,9 @@ Implementing wavelet analysis in [algorithmic trading](../a/algorithmic_trading.
 
 Several libraries and software packages provide tools for wavelet analysis. Some popular ones include:
 
-- **PyWavelets:** A comprehensive wavelet transform library for Python.
+- **PyWavelets:** A comprehensive [wavelet transform](../w/wavelet_transform_in_trading.md) library for Python.
   [PyWavelets](https://pywavelets.readthedocs.io/)
-- **MATLAB Wavelet Toolbox:** Offers a range of wavelet functions and tools for signal processing.
+- **MATLAB Wavelet Toolbox:** Offers a range of wavelet functions and tools for [signal processing](../s/signal_processing_in_trading.md).
   [MATLAB](https://www.mathworks.com/products/wavelet.html)
 - **R Package ‘wavelets’:** Provides functions for computing wavelet transforms and multiresolution analyses in R.
   [CRAN - wavelets](https://cran.r-project.org/web/packages/wavelets/index.html)
@@ -80,7 +80,7 @@ The first step in applying wavelet analysis is to obtain and preprocess the fina
 
 ### Applying Wavelet Transform
 
-Once the data is prepared, the next step is to apply the wavelet transform:
+Once the data is prepared, the next step is to apply the [wavelet transform](../w/wavelet_transform_in_trading.md):
 
 1. **Choosing a Wavelet:** Select an appropriate wavelet family and level of decomposition based on the characteristics of the data and the analysis goals.
 2. **Decomposing the Data:** Use the chosen wavelet to decompose the time series into approximation and detail coefficients.
@@ -90,7 +90,7 @@ Once the data is prepared, the next step is to apply the wavelet transform:
 
 The final step is to integrate the wavelet analysis results into the [trading models](../t/trading_models.md):
 
-1. **Feature Engineering:** Use the decomposed components and extracted features as inputs to predictive models, such as machine learning algorithms.
+1. **Feature Engineering:** Use the decomposed components and extracted features as inputs to [predictive models](../p/predictive_models_in_trading.md), such as machine [learning algorithms](../l/learning_algorithms_in_trading.md).
 2. **Signal Generation:** Develop [trading signals](../t/trading_signals.md) based on the identified trends, cycles, or patterns.
 3. **[Backtesting](../b/backtesting.md):** Evaluate the performance of the enhanced trading strategy using historical data to ensure its effectiveness.
 
@@ -98,7 +98,7 @@ The final step is to integrate the wavelet analysis results into the [trading mo
 
 ### Advantages
 
-- **Enhanced Predictive Power:** Wavelet analysis can uncover hidden patterns and trends that improve the accuracy of predictive models.
+- **Enhanced Predictive Power:** Wavelet analysis can uncover hidden patterns and trends that improve the accuracy of [predictive models](../p/predictive_models_in_trading.md).
 - **Noise Reduction:** By filtering out noise, wavelet transforms provide cleaner data, leading to more reliable [trading signals](../t/trading_signals.md).
 - **Multi-Scale Analysis:** The ability to analyze data at different time scales provides a more comprehensive view of market behavior.
 - **Versatility:** Wavelet analysis can be applied to a wide range of financial data and [trading strategies](../t/trading_strategies.md).

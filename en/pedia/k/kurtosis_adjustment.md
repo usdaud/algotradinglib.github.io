@@ -6,9 +6,9 @@ Kurtosis adjustment is an advanced statistical technique frequently employed in 
 
 Kurtosis is one of the statistical descriptors, similar to mean or variance, that characterizes the shape of a distribution. There are different types of kurtosis to consider:
 
-1. **Leptokurtic:** Distributions that have higher peaks and fatter tails than a normal distribution, indicating a higher probability of extreme outcomes.
-2. **Platykurtic:** Distributions that are flatter than a normal distribution, signifying a smaller likelihood of extreme outcomes.
-3. **Mesokurtic:** Distributions that resemble the normal distribution, with moderate tail thickness.
+1. **Leptokurtic:** Distributions that have higher peaks and fatter tails than a [normal distribution](../n/normal_distribution_in_trading.md), indicating a higher probability of extreme outcomes.
+2. **Platykurtic:** Distributions that are flatter than a [normal distribution](../n/normal_distribution_in_trading.md), signifying a smaller likelihood of extreme outcomes.
+3. **Mesokurtic:** Distributions that resemble the [normal distribution](../n/normal_distribution_in_trading.md), with moderate tail thickness.
 
 Traditional statistical models often assume normally distributed returns, characterized by a kurtosis value of 3 (i.e., mesokurtic). However, financial returns frequently exhibit leptokurtosis, meaning they have kurtosis higher than 3, which necessitates the kurtosis adjustment in [trading strategies](../t/trading_strategies.md).
 
@@ -72,7 +72,7 @@ Several tools and libraries can facilitate kurtosis adjustments in [algorithmic 
 
 #### Mean Reversion Strategies
 
-[Mean reversion](../m/mean_reversion.md) strategies assume that asset prices will revert to a historical mean. Given that leptokurtic distributions exhibit frequent extreme values, adjusting for kurtosis can help avoid false signals that may arise from these anomalies. 
+[Mean reversion](../m/mean_reversion.md) strategies assume that asset prices will revert to a historical mean. Given that leptokurtic distributions exhibit frequent extreme values, adjusting for kurtosis can help avoid [false signals](../f/false_signals_in_trading.md) that may arise from these anomalies. 
 
 Traders might use higher thresholds for determining overbought or oversold conditions to avoid premature entry or exit when there are extremely sharp price movements.
 

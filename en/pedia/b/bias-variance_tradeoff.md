@@ -1,6 +1,6 @@
 # Bias-Variance Tradeoff
 
-The bias-variance tradeoff is a fundamental concept in supervised machine learning and statistical modeling that describes the tradeoff between two sources of errors that affect the performance of predictive models: bias and variance. Understanding this tradeoff is essential for selecting models that generalize well to new, unseen data.
+The bias-variance tradeoff is a fundamental concept in supervised machine learning and statistical modeling that describes the tradeoff between two sources of errors that affect the performance of [predictive models](../p/predictive_models_in_trading.md): bias and variance. Understanding this tradeoff is essential for selecting models that generalize well to new, unseen data.
 
 ## Bias
 
@@ -8,7 +8,7 @@ Bias is the error introduced by approximating a real-world problem, which may be
 
 ### High-Bias Models
 
-- **Linear models**: Models like [linear regression](../l/linear_regression.md) and logistic regression assume a predefined linear relationship between input variables and the target variable. If this relationship is non-linear, these models will exhibit high bias because they cannot capture the complexity of the data.
+- **[Linear models](../l/linear_models_in_trading.md)**: Models like [linear regression](../l/linear_regression.md) and [logistic regression](../l/logistic_regression_in_trading.md) assume a predefined linear relationship between input variables and the target variable. If this relationship is non-linear, these models will exhibit high bias because they cannot capture the complexity of the data.
 - **Simplified assumptions**: Models with strong assumptions about the data distribution (e.g., Gaussian distributions in Naive Bayes) often have high bias.
 
 ### Sources of Bias
@@ -28,8 +28,8 @@ Variance refers to the error introduced by the model's sensitivity to the small 
 
 ### High-Variance Models
 
-- **Complex models**: [Decision trees](../d/decision_trees.md), k-nearest neighbors (k-NN), and deep neural networks can have high variance if not properly regularized.
-- **Flexible algorithms**: Techniques that can adapt closely to the training data, like kernel methods in support vector machines, often exhibit high variance.
+- **Complex models**: [Decision trees](../d/decision_trees.md), k-nearest neighbors (k-NN), and deep [neural networks](../n/neural_networks_in_trading.md) can have high variance if not properly regularized.
+- **Flexible algorithms**: Techniques that can adapt closely to the training data, like kernel methods in [support vector machines](../s/support_vector_machines_in_trading.md), often exhibit high variance.
 
 ### Sources of Variance
 
@@ -54,7 +54,7 @@ The bias-variance tradeoff represents a balance that needs to be maintained by m
 
 ### Visualization
 
-One common way to visualize the bias-variance tradeoff is through learning curves. These plots show model performance on training and validation sets across a range of model complexities, illustrating how training and validation errors change.
+One common way to visualize the bias-variance tradeoff is through [learning curves](../l/learning_curves_in_trading.md). These plots show model performance on training and validation sets across a range of model complexities, illustrating how training and validation errors change.
 
 ![Bias-Variance Tradeoff](https://miro.medium.com/max/1400/1*yDnW5gQlyFQDaHdJibEp1w.png)
 

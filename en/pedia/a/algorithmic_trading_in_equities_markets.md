@@ -26,7 +26,7 @@ Algo [trading strategies](../t/trading_strategies.md) can be broadly classified 
 
 Liquidity is a critical consideration in [algorithmic trading](../a/algorithmic_trading.md). High liquidity ensures that large orders can be executed quickly with minimal price impact. Algorithms often break down large orders into smaller chunks to avoid disturbing the market.
 
-Various order types are used in [algorithmic trading](../a/algorithmic_trading.md), including:
+Various [order types](../o/order_types_in_trading.md) are used in [algorithmic trading](../a/algorithmic_trading.md), including:
 
 - **Limit Orders**: Orders to buy or sell at a specific price or better.
 - **Market Orders**: Orders to buy or sell immediately at the current market price.
@@ -89,7 +89,7 @@ Several firms are at the forefront of [algorithmic trading](../a/algorithmic_tra
 
 ### 1. Renaissance Technologies
 
-Founded by Jim Simons, Renaissance Technologies is renowned for its Medallion Fund, which deploys sophisticated mathematical models to exploit market inefficiencies. The firm has achieved extraordinary returns and is a leading player in the industry.
+Founded by Jim Simons, Renaissance Technologies is renowned for its Medallion Fund, which deploys sophisticated [mathematical models](../m/mathematical_models_in_trading.md) to exploit market inefficiencies. The firm has achieved extraordinary returns and is a leading player in the industry.
 
 [Visit Renaissance Technologies](https://www.rentec.com/)
 
@@ -101,7 +101,7 @@ Citadel Securities, part of Citadel LLC, is a leading market maker and liquidity
 
 ### 3. Two Sigma
 
-Two Sigma combines data science, technology, and innovation to develop [algorithmic trading](../a/algorithmic_trading.md) strategies. The firm employs a research-driven approach and leverages machine learning to optimize its [trading models](../t/trading_models.md).
+Two Sigma combines [data science](../d/data_science_in_trading.md), technology, and innovation to develop [algorithmic trading](../a/algorithmic_trading.md) strategies. The firm employs a research-driven approach and leverages machine learning to optimize its [trading models](../t/trading_models.md).
 
 [Visit Two Sigma](https://www.twosigma.com/)
 

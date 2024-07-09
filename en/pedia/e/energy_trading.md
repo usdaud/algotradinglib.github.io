@@ -73,9 +73,9 @@ Energy trading is subject to extensive regulation to ensure market integrity, tr
 Technological advancements play a crucial role in energy trading by improving efficiency, accuracy, and transparency. Key technological trends include:
 
 - **[Algorithmic Trading](../a/algorithmic_trading.md):** The use of algorithms to execute trades automatically based on predefined criteria, allowing for faster and more efficient trading.
-- **Blockchain:** Distributed ledger technology that provides transparent and secure transaction records, reducing the risk of fraud and enhancing trust among market participants.
-- **Artificial Intelligence (AI):** AI-driven analytics and forecasting tools help traders make informed decisions by analyzing large datasets and identifying patterns and trends.
-- **Big Data:** The use of big data analytics to process and analyze vast amounts of market data, improving market insights and decision-making.
+- **[Blockchain](../b/blockchain_in_trading.md):** Distributed ledger technology that provides transparent and secure transaction records, reducing the risk of fraud and enhancing trust among market participants.
+- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI):** AI-driven analytics and forecasting tools help traders make informed decisions by analyzing large datasets and identifying patterns and trends.
+- **[Big Data](../b/big_data_in_trading.md):** The use of [big data analytics](../b/big_data_analytics_in_trading.md) to process and analyze vast amounts of market data, improving market insights and decision-making.
 
 ### Conclusion
 

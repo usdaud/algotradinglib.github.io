@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Fast Fourier Transform (FFT) is a mathematical technique used for transforming time-domain data into frequency-domain data. It is widely applicable in various fields, including signal processing, image analysis, and even trading. In the realm of trading, FFT can be utilized to analyze [financial time series](../f/financial_time_series.md) data, identify cyclical patterns, filter noise, and make more informed trading decisions.
+Fast Fourier Transform (FFT) is a mathematical technique used for transforming time-domain data into frequency-domain data. It is widely applicable in various fields, including [signal processing](../s/signal_processing_in_trading.md), image analysis, and even trading. In the realm of trading, FFT can be utilized to analyze [financial time series](../f/financial_time_series.md) data, identify cyclical patterns, filter noise, and make more informed trading decisions.
 
 ## Understanding Fourier Transform
 
@@ -151,7 +151,7 @@ In this example, we gather historical closing prices, apply FFT, and analyze the
 ### Limitations
 
 1. **Assumption of Stationarity**: Assumes the time series is stationary, which may not always be true for financial data.
-2. **Complexity**: Requires understanding of Fourier analysis and signal processing.
+2. **Complexity**: Requires understanding of Fourier analysis and [signal processing](../s/signal_processing_in_trading.md).
 3. **Overfitting Risk**: Over-reliance on identified cycles may lead to overfitting and poor performance in real trading.
 
 ## Conclusion

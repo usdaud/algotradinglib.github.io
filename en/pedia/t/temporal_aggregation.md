@@ -24,7 +24,7 @@ Temporal aggregation refers to the process of summarizing data points collected 
 
 1. **[Trend Analysis](../t/trend_analysis.md)**: Aggregated data helps in identifying short-term and long-term trends, which are crucial for making buy or sell decisions.
 2. **Volatility Measurement**: Aggregated data over longer intervals can be used to measure market volatility, an essential factor in [risk management](../r/risk_management.md).
-3. **Strategy Development**: Quantitative strategies often rely on aggregated indicators such as moving averages, RSI (Relative Strength Index), and [Bollinger Bands](../b/bollinger_bands.md), which require aggregated data.
+3. **Strategy Development**: [Quantitative strategies](../q/quantitative_strategies_in_trading.md) often rely on aggregated indicators such as moving averages, RSI (Relative Strength Index), and [Bollinger Bands](../b/bollinger_bands.md), which require aggregated data.
 4. **[Backtesting](../b/backtesting.md)**: Temporal aggregation allows for more efficient [backtesting](../b/backtesting.md) of [trading strategies](../t/trading_strategies.md) by reducing the data volume while preserving essential characteristics.
 5. **[Anomaly Detection](../a/anomaly_detection.md)**: Helps in identifying unusual patterns or outliers in the data, which could indicate significant market events or errors in data collection.
 

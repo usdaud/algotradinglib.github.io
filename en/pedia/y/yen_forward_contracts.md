@@ -45,7 +45,7 @@ Arbitrageurs exploit price discrepancies between different markets to make risk-
 
 ### Risk Management
 
-The primary benefit of yen [forward contracts](../f/forward_contracts.md) is the ability to manage and hedge against currency risk. By locking in an exchange rate, businesses and investors can eliminate uncertainty and plan their financial obligations more effectively.
+The primary benefit of yen [forward contracts](../f/forward_contracts.md) is the ability to manage and hedge against currency risk. By locking in an exchange rate, businesses and investors can eliminate [uncertainty](../u/uncertainty_in_trading.md) and plan their financial obligations more effectively.
 
 ### Cost Certainty
 

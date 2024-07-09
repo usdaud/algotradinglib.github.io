@@ -6,7 +6,7 @@ A unit root in a time series indicates that the series is non-stationary but may
 
 In [time series analysis](../t/time_series_analysis.md), a unit root signifies that a series can be written as:
 \[ y_t = \rho y_{t-1} + \epsilon_t \]
-where \( \rho = 1 \) and \( \epsilon_t \) is a white noise error term. If \( |\rho| < 1 \), the series is stationary. If \( \rho = 1 \), the series follows a random walk, and if \( |\rho| > 1 \), the series is explosive.
+where \( \rho = 1 \) and \( \epsilon_t \) is a [white noise](../w/white_noise_in_trading.md) error term. If \( |\rho| < 1 \), the series is stationary. If \( \rho = 1 \), the series follows a random walk, and if \( |\rho| > 1 \), the series is explosive.
 
 When analyzing financial data such as stock prices, interest rates, or exchange rates, a unit root suggests that the series has a stochastic trend. This has significant consequences:
 - **Non-stationarity**: Traditional statistical methods assume stationarity, and having a unit root makes these methods invalid.
@@ -69,7 +69,7 @@ In this example, `adf.test` evaluates whether a randomly generated dataset has a
 ## Challenges in Detection and Modeling
 
 Some challenges faced while detecting and modeling unit root processes include:
-- **Structural Breaks**: Changes in policy, market crashes, or other structural changes can impact the test's validity.
+- **[Structural Breaks](../s/structural_breaks_in_trading.md)**: Changes in policy, market crashes, or other structural changes can impact the test's validity.
 - **Finite Sample Issues**: Some tests may have low power with small samples, making it harder to detect a unit root.
 - **Model Selection**: Improper model selection can lead to incorrect conclusions about stationarity and non-stationarity.
 

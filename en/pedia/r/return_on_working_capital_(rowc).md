@@ -3,7 +3,7 @@
 Return on Working Capital (ROWC) is an important financial metric used by businesses and investors to evaluate the efficiency and profitability of a company's use of its working capital. Calculated by dividing a company's operating income by its working capital, this metric provides critical insights into how well a company is utilizing its available resources to generate earnings before interest and taxes (EBIT). 
 
 ### Definition and Calculation
-Working capital represents the difference between a company's current assets and current liabilities. It is a measure of a company's operational efficiency and short-term financial health. Return on Working Capital, therefore, is calculated as:
+Working capital represents the difference between a company's current assets and current liabilities. It is a measure of a company's [operational efficiency](../o/operational_efficiency_in_trading.md) and short-term financial health. Return on Working Capital, therefore, is calculated as:
 \[ \text{ROWC} = \frac{\text{Operating Income}}{\text{Working Capital}} \]
 
 Where:
@@ -15,7 +15,7 @@ Where:
 ROWC is a significant indicator for various reasons:
 1. **Efficiency Measurement**: It assesses how efficiently a company uses its short-term assets and liabilities to support its day-to-day operations.
 2. **Profitability Indicator**: By showing the return generated per unit of working capital, it helps to measure the profitability of the company's operational activities.
-3. **[Comparative Analysis](../c/comparative_analysis.md)**: Investors use ROWC to compare performance across different companies within the same industry. A higher ROWC suggests better operational efficiency.
+3. **[Comparative Analysis](../c/comparative_analysis.md)**: Investors use ROWC to compare performance across different companies within the same industry. A higher ROWC suggests better [operational efficiency](../o/operational_efficiency_in_trading.md).
 4. **Strategic Decisions**: Companies use ROWC to make decisions regarding asset management, debt financing, and investments in operational improvements.
 
 ### Practical Examples
@@ -64,7 +64,7 @@ Companies can implement several strategies to improve their ROWC:
 
 ### Limitations
 While ROWC is a valuable metric, it has its limitations:
-- **Short-term Focus**: ROWC focuses on short-term operational efficiency and may not fully capture a company's long-term growth potential.
+- **Short-term Focus**: ROWC focuses on short-term [operational efficiency](../o/operational_efficiency_in_trading.md) and may not fully capture a company's long-term growth potential.
 - **Seasonal Fluctuations**: Companies with seasonal operations can exhibit significant variations in ROWC, making it less reliable during certain periods.
 - **Sector Differences**: Comparing ROWC across different sectors may not be meaningful due to varying industry norms and capital requirements.
 

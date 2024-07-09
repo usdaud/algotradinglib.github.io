@@ -7,7 +7,7 @@ The Directional Movement Index (DMI) is a technical indicator developed by J. We
 The DMI consists of three main components:  
 1. **Plus Directional Indicator (+DI):** This indicator measures upward movement or the strength of positive price changes. It captures the largest part of daily high movements over a specified period.  
 2. **Minus Directional Indicator (-DI):** This element captures downward price movements and shows the strength of negative price changes, considering the largest part of daily low movements over a specified period.  
-3. **Average Directional Index (ADX):** This component specifies the overall strength of the trend, regardless of its direction. The ADX is derived from the smoothed averages of the difference between +DI and -DI.
+3. **[Average Directional Index](../a/average_directional_index_(adx).md) (ADX):** This component specifies the overall strength of the trend, regardless of its direction. The ADX is derived from the smoothed averages of the difference between +DI and -DI.
 
 ### Calculating DMI
 

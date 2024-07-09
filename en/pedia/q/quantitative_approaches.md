@@ -2,7 +2,7 @@
 
 ## Introduction
 
-[Quantitative trading](../q/quantitative_trading.md), often referred to as algo-trading or [algorithmic trading](../a/algorithmic_trading.md), involves the use of mathematical models, algorithms, and statistical methodologies to execute trades. These methods leverage market inefficiencies and exploit patterns in trading data to achieve superior returns. Unlike [discretionary trading](../d/discretionary_trading.md), which relies on the trader's intuition and judgment, [quantitative trading](../q/quantitative_trading.md) methods employ systematic, rules-based approaches to make trading decisions.
+[Quantitative trading](../q/quantitative_trading.md), often referred to as algo-trading or [algorithmic trading](../a/algorithmic_trading.md), involves the use of [mathematical models](../m/mathematical_models_in_trading.md), algorithms, and statistical methodologies to execute trades. These methods leverage market inefficiencies and exploit patterns in trading data to achieve superior returns. Unlike [discretionary trading](../d/discretionary_trading.md), which relies on the trader's intuition and judgment, [quantitative trading](../q/quantitative_trading.md) methods employ systematic, rules-based approaches to make trading decisions.
 
 ## Types of Quantitative Approaches
 
@@ -29,28 +29,28 @@ HFT involves executing a high number of trades at extremely fast speeds, often m
   
 ### 4. Machine Learning and AI
 
-The integration of machine learning (ML) and artificial intelligence (AI) into [quantitative trading](../q/quantitative_trading.md) is transforming the landscape by enabling the processing and analysis of large datasets to make predictions and decisions.
+The integration of machine learning (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) into [quantitative trading](../q/quantitative_trading.md) is transforming the landscape by enabling the processing and analysis of large datasets to make predictions and decisions.
 
-- **Supervised Learning**: Algorithms are trained on historical data to predict future prices. Techniques include [linear regression](../l/linear_regression.md), support vector machines, and neural networks.
+- **Supervised Learning**: Algorithms are trained on historical data to predict future prices. Techniques include [linear regression](../l/linear_regression.md), [support vector machines](../s/support_vector_machines_in_trading.md), and [neural networks](../n/neural_networks_in_trading.md).
 - **Unsupervised Learning**: These algorithms identify patterns without predefined labels. Clustering techniques and [anomaly detection](../a/anomaly_detection.md) are prevalent here.
 
 ### 5. Sentiment Analysis
 
 [Sentiment analysis](../s/sentiment_analysis.md) involves analyzing textual data from news articles, social media, and financial reports to gauge the general investor sentiment toward an asset. This information is then used to make informed trading decisions.
 
-- **NLP Techniques**: Natural Language Processing (NLP) techniques such as tokenization, sentiment scoring, and named entity recognition are commonly used.
+- **NLP Techniques**: [Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) techniques such as tokenization, sentiment scoring, and named entity recognition are commonly used.
   
 ## Major Industry Players
 
 ### 1. Renaissance Technologies
 
-Founded by Jim Simons, Renaissance Technologies is a pioneer in [quantitative trading](../q/quantitative_trading.md). Their Medallion Fund is one of the most profitable hedge funds in history, largely due to its advanced mathematical models and algorithms.
+Founded by Jim Simons, Renaissance Technologies is a pioneer in [quantitative trading](../q/quantitative_trading.md). Their Medallion Fund is one of the most profitable hedge funds in history, largely due to its advanced [mathematical models](../m/mathematical_models_in_trading.md) and algorithms.
 
 **Website**: [Renaissance Technologies](https://www.rentec.com/)
 
 ### 2. Two Sigma
 
-Another significant player in the [quantitative trading](../q/quantitative_trading.md) space is Two Sigma. They leverage machine learning, distributed computing, and big data to build predictive models for trading.
+Another significant player in the [quantitative trading](../q/quantitative_trading.md) space is Two Sigma. They leverage machine learning, distributed computing, and [big data](../b/big_data_in_trading.md) to build [predictive models](../p/predictive_models_in_trading.md) for trading.
 
 **Website**: [Two Sigma](https://www.twosigma.com/)
 
@@ -94,4 +94,4 @@ Regulatory changes can impact [trading strategies](../t/trading_strategies.md) a
 
 ## Conclusion
 
-[Quantitative trading](../q/quantitative_trading.md) represents a sophisticated, technology-driven approach to financial markets. With the continuous advancements in artificial intelligence, machine learning, and computational technology, the landscape of quant trading is expected to evolve even further. However, successful [quantitative trading](../q/quantitative_trading.md) requires not only advanced mathematical models but also robust [risk management](../r/risk_management.md) and adaptability to changing market conditions.
+[Quantitative trading](../q/quantitative_trading.md) represents a sophisticated, technology-driven approach to financial markets. With the continuous advancements in [artificial intelligence](../a/artificial_intelligence_in_trading.md), machine learning, and computational technology, the landscape of quant trading is expected to evolve even further. However, successful [quantitative trading](../q/quantitative_trading.md) requires not only advanced [mathematical models](../m/mathematical_models_in_trading.md) but also robust [risk management](../r/risk_management.md) and adaptability to changing market conditions.

@@ -22,7 +22,7 @@ A [Bull Call Spread](../b/bull_call_spread.md) involves two call options:
 - Buy a call option at a lower strike price.
 - Sell a call option at a higher strike price.
 
-Both options have the same expiration date. This strategy's goal is to limit the maximum potential loss while providing some upside potential if the underlying asset's price rises.
+Both options have the same expiration date. This strategy's goal is to limit the maximum potential loss while providing some [upside potential](../u/upside_potential_in_trading.md) if the underlying asset's price rises.
 
 For example, if a stock is currently trading at $50, an investor might:
 

@@ -50,14 +50,14 @@ To detect overbought or oversold conditions which could indicate cyclical highs 
 
 ### 4. **Ehlers' MESA (Maximum Entropy Spectrum Analysis)**
 
-John Ehlers developed several indicators that use digital signal processing techniques to identify cycles. MESA is particularly good at filtering out the dominant cycles from the noisy financial data.
+John Ehlers developed several indicators that use digital [signal processing](../s/signal_processing_in_trading.md) techniques to identify cycles. MESA is particularly good at filtering out the dominant cycles from the noisy financial data.
 
 ### Use Case:
 To determine the dominant cycle length contributing to price changes and adapt [trading strategies](../t/trading_strategies.md) accordingly.
 
 ## The Role of Cycle Indicators in Algorithmic Trading
 
-[Algorithmic trading](../a/algorithmic_trading.md) leverages mathematical models and formulas to make trading decisions without human intervention. The ability to identify and predict cycles allows algorithms to preemptively adjust their strategies, potentially increasing profits.
+[Algorithmic trading](../a/algorithmic_trading.md) leverages [mathematical models](../m/mathematical_models_in_trading.md) and formulas to make trading decisions without human intervention. The ability to identify and predict cycles allows algorithms to preemptively adjust their strategies, potentially increasing profits.
 
 ### Automation and Speed
 Algorithms can quickly process complex computations, including [cycle analysis](../c/cycle_analysis.md), on large datasets. This enables them to exploit short-term cyclical opportunities that humans might miss due to the sheer volume of calculations required.
@@ -80,7 +80,7 @@ An algorithm can be backtested to see how effective the Fourier Transform is at 
 ## Challenges and Limitations
 
 ### Noise and False Signals
-Market data is inherently noisy, which can lead to false signals from cycle indicators. This might result in incorrect trading decisions if not carefully managed.
+Market data is inherently noisy, which can lead to [false signals](../f/false_signals_in_trading.md) from cycle indicators. This might result in incorrect trading decisions if not carefully managed.
 
 ### Solution:
 Combining multiple indicators or integrating machine learning techniques to filter out noise and improve signal accuracy.
@@ -120,7 +120,7 @@ Use [adaptive algorithms](../a/adaptive_algorithms.md) that recalibrate periodic
 
 ### Software Tools and Platforms
 
-Several software tools offer modules for incorporating cycle indicators in [algorithmic trading](../a/algorithmic_trading.md) strategies:
+Several [software tools](../s/software_tools_for_trading.md) offer modules for incorporating cycle indicators in [algorithmic trading](../a/algorithmic_trading.md) strategies:
 
 1. **MATLAB**:
    - Provides comprehensive tools for financial analysis, including Fourier analysis and other cycle detection methods.

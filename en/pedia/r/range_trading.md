@@ -48,7 +48,7 @@ One of the primary risks in range trading is the potential for price breakouts o
 
 ### False Signals
 
-Range trading can be susceptible to false signals, where the price appears to break out or break down but then quickly reverses back into the range. These "fakeouts" can cause traders to enter or exit positions prematurely, leading to unnecessary losses.
+Range trading can be susceptible to [false signals](../f/false_signals_in_trading.md), where the price appears to break out or break down but then quickly reverses back into the range. These "fakeouts" can cause traders to enter or exit positions prematurely, leading to unnecessary losses.
 
 ### Market Conditions
 

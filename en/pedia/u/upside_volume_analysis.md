@@ -70,7 +70,7 @@ Effective [risk management](../r/risk_management.md) is critical when incorporat
 
 ### Advanced Machine Learning Models
 
-Leveraging machine learning models can enhance upside [volume analysis](../v/volume_analysis.md) by identifying complex patterns and correlations that may not be apparent through traditional methods. Techniques such as clustering, neural networks, and support vector machines can be used to build predictive models based on volume data. These models can improve the accuracy and robustness of [trading algorithms](../t/trading_algorithms.md).
+Leveraging machine learning models can enhance upside [volume analysis](../v/volume_analysis.md) by identifying complex patterns and correlations that may not be apparent through traditional methods. Techniques such as clustering, [neural networks](../n/neural_networks_in_trading.md), and [support vector machines](../s/support_vector_machines_in_trading.md) can be used to build [predictive models](../p/predictive_models_in_trading.md) based on volume data. These models can improve the accuracy and robustness of [trading algorithms](../t/trading_algorithms.md).
 
 ## Conclusion
 

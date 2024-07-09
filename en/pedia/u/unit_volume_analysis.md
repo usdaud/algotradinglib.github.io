@@ -90,7 +90,7 @@ A trading firm wants to optimize its algorithm for trading a highly liquid stock
 
 3. **Identify Volume Clusters:**
     - Apply [clustering algorithms](../c/clustering_algorithms.md) to identify significant volume clusters.
-    - Use k-means clustering in R to group similar trades.
+    - Use [k-means clustering](../k/k-means_clustering_in_trading.md) in R to group similar trades.
 
 4. **Impact Assessment:**
     - Assess the impact of identified clusters on the stock’s price.

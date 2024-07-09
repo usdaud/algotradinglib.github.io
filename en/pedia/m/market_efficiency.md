@@ -34,7 +34,7 @@ The EMH relies on several key assumptions:
 ### Challenges to EMH
 
 1. **Anomalies and Market Inefficiencies**: Situations like the [January Effect](../j/january_effect.md), where stock returns are anomalously high in January, challenge the idea of perfect market efficiency.
-2. **[Behavioral Finance](../b/behavioral_finance.md)**: The field of [behavioral finance](../b/behavioral_finance.md) brings forth arguments that investors are not always rational and are influenced by cognitive biases and emotions.
+2. **[Behavioral Finance](../b/behavioral_finance.md)**: The field of [behavioral finance](../b/behavioral_finance.md) brings forth arguments that investors are not always rational and are influenced by [cognitive biases](../c/cognitive_biases_in_trading.md) and emotions.
 3. **Market Bubbles and Crashes**: Phenomena such as the Dotcom Bubble and the 2008 Financial Crisis suggest that markets can deviate significantly from efficiency.
 
 ## Implications for Algorithmic Trading
@@ -55,17 +55,17 @@ High-frequency trading leverages ultra-fast data feeds and low-latency execution
 
 ### Market Microstructure and Impact on Efficiency
 
-Other aspects, like [market microstructure](../m/market_microstructure.md), delve into how bid-ask spreads, order types, and trading volumes impact market efficiency. These micro-level details provide algorithmic traders with nuanced insights into the workings of financial markets, potentially offering routes to exploit inefficiencies.
+Other aspects, like [market microstructure](../m/market_microstructure.md), delve into how bid-ask spreads, [order types](../o/order_types_in_trading.md), and trading volumes impact market efficiency. These micro-level details provide algorithmic traders with nuanced insights into the workings of financial markets, potentially offering routes to exploit inefficiencies.
 
 ### Machine Learning Algorithms
 
-With advancements in machine learning, algorithmic traders have started employing sophisticated machine learning techniques to glean insights from vast datasets. This involves using natural language processing to analyze sentiment, applying neural networks for [pattern recognition](../p/pattern_recognition.md), and other methods to predict asset price movements more accurately.
+With advancements in machine learning, algorithmic traders have started employing sophisticated machine learning techniques to glean insights from vast datasets. This involves using [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) to analyze sentiment, applying [neural networks](../n/neural_networks_in_trading.md) for [pattern recognition](../p/pattern_recognition.md), and other methods to predict asset price movements more accurately.
 
 ## Criticisms and Alternatives
 
 ### Behavioral Finance
 
-[Behavioral finance](../b/behavioral_finance.md) provides a counter-argument to EMH by showing that cognitive biases, herd behavior, and overreactions can lead to predictable [market anomalies](../m/market_anomalies.md). Robert Shiller and Daniel Kahneman have contributed significantly to this field, proposing that human psychology plays a crucial role in financial markets.
+[Behavioral finance](../b/behavioral_finance.md) provides a counter-argument to EMH by showing that [cognitive biases](../c/cognitive_biases_in_trading.md), [herd behavior](../h/herd_behavior_in_trading.md), and overreactions can lead to predictable [market anomalies](../m/market_anomalies.md). Robert Shiller and Daniel Kahneman have contributed significantly to this field, proposing that human psychology plays a crucial role in financial markets.
 
 ### Adaptive Market Hypothesis (AMH)
 

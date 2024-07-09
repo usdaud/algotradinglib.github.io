@@ -17,7 +17,7 @@ Technical signals are derived from historical price and volume data. Common meth
 Fundamental signals are based on the intrinsic value of an asset. They often rely on financial statements, [economic indicators](../e/economic_indicators.md), and news events. Metrics include:
 
 1. **Earnings Reports**: Quarterly and annual earnings reports that impact stock prices.
-2. **[Economic Indicators](../e/economic_indicators.md)**: GDP growth rates, employment data, and inflation rates.
+2. **[Economic Indicators](../e/economic_indicators.md)**: GDP [growth rates](../g/growth_rates_in_trading.md), employment data, and inflation rates.
 3. **News and Events**: Corporate news, [geopolitical events](../g/geopolitical_events.md), and other significant occurrences.
 
 ### Sentiment Signals
@@ -25,15 +25,15 @@ Fundamental signals are based on the intrinsic value of an asset. They often rel
 Sentiment signals are derived from the analysis of market sentiment, typically through:
 
 1. **Social Media**: Analysis of Twitter, Reddit, and other social media platforms to gauge public sentiment.
-2. **News Sentiment**: [Sentiment analysis](../s/sentiment_analysis.md) of news articles using Natural Language Processing (NLP) techniques.
+2. **News Sentiment**: [Sentiment analysis](../s/sentiment_analysis.md) of news articles using [Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) techniques.
 3. **Surveys and Polls**: Market [sentiment surveys](../s/sentiment_surveys.md) conducted by financial institutions.
 
 ### Machine Learning Signals
 
 Machine learning signals involve the use of algorithms to predict market movements:
 
-1. **Supervised Learning**: Algorithms trained on historical data with known outcomes, such as Random Forests, Support Vector Machines (SVM), and Neural Networks.
-2. **Unsupervised Learning**: Techniques like clustering to find patterns, e.g., k-means clustering.
+1. **Supervised Learning**: Algorithms trained on historical data with known outcomes, such as [Random Forests](../r/random_forests_in_trading.md), [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM), and [Neural Networks](../n/neural_networks_in_trading.md).
+2. **Unsupervised Learning**: Techniques like clustering to find patterns, e.g., [k-means clustering](../k/k-means_clustering_in_trading.md).
 3. **Reinforcement Learning**: Algorithms like Deep Q-Networks (DQN) that learn optimal [trading strategies](../t/trading_strategies.md) through interactions with the market environment.
 
 ## Generation of Trading Signals
@@ -64,7 +64,7 @@ HFT firms use [trading signals](../t/trading_signals.md) to make rapid decisions
 
 ### Quantitative Trading
 
-Quantitative traders use mathematical models to generate [trading signals](../t/trading_signals.md) and make decisions based on [quantitative analysis](../q/quantitative_analysis.md). They might use a combination of technical, fundamental, and [alternative data](../a/alternative_data.md) sources. Firms excelling in this domain include Two Sigma and Renaissance Technologies.
+Quantitative traders use [mathematical models](../m/mathematical_models_in_trading.md) to generate [trading signals](../t/trading_signals.md) and make decisions based on [quantitative analysis](../q/quantitative_analysis.md). They might use a combination of technical, fundamental, and [alternative data](../a/alternative_data.md) sources. Firms excelling in this domain include Two Sigma and Renaissance Technologies.
 
 ### Retail Trading Platforms
 

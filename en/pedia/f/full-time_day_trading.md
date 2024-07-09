@@ -83,7 +83,7 @@ Analyzing vast sets of market data in real-time for patterns and opportunities i
 
 ### Emotional Discipline
 
-[Day trading](../d/day_trading.md) demands stringent emotional discipline. Psychological biases, such as fear and greed, can lead to significant trade errors.
+[Day trading](../d/day_trading.md) demands stringent emotional discipline. [Psychological biases](../p/psychological_biases_in_trading.md), such as fear and greed, can lead to significant trade errors.
 
 ### Developing a Trading Plan
 
@@ -127,7 +127,7 @@ Choosing a reliable broker that ensures regulatory compliance, effective custome
 
 **Prominent Brokers:**
 - **[Charles Schwab](../c/charles_schwab.md) [schwab.com](https://www.schwab.com/):** Known for its strong customer support and extensive educational resources.
-- **E*TRADE [etrade.com](https://www.etrade.com/):** Offers a range of investment tools and a user-friendly trading platform.
+- **[E*TRADE](../e/e_trade.md) [etrade.com](https://www.etrade.com/):** Offers a range of investment tools and a user-friendly trading platform.
 
 ## Community and Network
 

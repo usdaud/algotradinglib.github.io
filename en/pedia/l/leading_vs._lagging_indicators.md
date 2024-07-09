@@ -41,7 +41,7 @@
 3. **[Bollinger Bands](../b/bollinger_bands.md)**: [Bollinger Bands](../b/bollinger_bands.md) consist of a middle band being an N-period moving average (MA), an upper band at K times an N-period standard deviation above the middle band, and a lower band at K times an N-period standard deviation below the middle band.
    - Formula: Middle Band = N-period moving average; Upper Band = MA + (K * standard deviation); Lower Band = MA - (K * standard deviation)
 
-4. **Average Directional Index (ADX)**: The ADX indicates the strength of a trend and is derived from two other indicators: the Positive Directional Indicator (+DI) and the Negative Directional Indicator (-DI).
+4. **[Average Directional Index](../a/average_directional_index_(adx).md) (ADX)**: The ADX indicates the strength of a trend and is derived from two other indicators: the Positive Directional Indicator (+DI) and the Negative Directional Indicator (-DI).
    - Formula: ADX = 100 * (Smoothed +DI - Smoothed -DI) / (Smoothed +DI + Smoothed -DI)
 
 5. **[Volume Indicators](../v/volume_indicators.md)**: Indicators such as On-Balance Volume (OBV) and Chaikin Money Flow (CMF) analyze the flow of volume to predict the strength of price moves. These indicators confirm price trends based on volume data.
@@ -49,7 +49,7 @@
 
 ### Application of Lagging Indicators
 
-[Lagging indicators](../l/lagging_indicators.md) are essential for confirming trends and avoiding false signals. For instance, an algorithm might use a moving average crossover strategy to confirm a trend before initiating a trade. If the short-term moving average crosses above the long-term moving average, it might signal a buy, while a cross below could signal a sell.
+[Lagging indicators](../l/lagging_indicators.md) are essential for confirming trends and avoiding [false signals](../f/false_signals_in_trading.md). For instance, an algorithm might use a moving average crossover strategy to confirm a trend before initiating a trade. If the short-term moving average crosses above the long-term moving average, it might signal a buy, while a cross below could signal a sell.
 
 ### Combining Leading and Lagging Indicators
 
@@ -72,13 +72,13 @@ Successful [trading strategies](../t/trading_strategies.md) often combine both l
   - Provide early signals, allowing traders to anticipate market movements.
   - Potential for higher profits by entering trades at the beginning of trends.
 - **Disadvantages**:
-  - Higher risk of false signals and market noise.
+  - Higher risk of [false signals](../f/false_signals_in_trading.md) and market noise.
   - May lead to premature entries and exits.
 
 **[Lagging Indicators](../l/lagging_indicators.md)**:
 - **Advantages**:
   - Higher reliability due to confirmation of existing trends.
-  - Help avoid false signals and reduce market noise.
+  - Help avoid [false signals](../f/false_signals_in_trading.md) and reduce market noise.
 - **Disadvantages**:
   - Delay in signal generation, which could result in missed opportunities.
   - May lead to later entries and exits, reducing profit potential.

@@ -117,7 +117,7 @@ In stock trading, the 8-period SMA can be applied to detect sudden changes in mo
 ### Limitations
 
 1. **Lag:** Like all moving averages, the 8-period SMA is a lagging indicator, meaning it reacts to price movements after they occur. This lag can sometimes lead to delayed signals.
-2. **Whipsaws:** In choppy or sideways markets, the 8-period SMA can produce false signals or whipsaws, leading to potential losses.
+2. **Whipsaws:** In choppy or sideways markets, the 8-period SMA can produce [false signals](../f/false_signals_in_trading.md) or whipsaws, leading to potential losses.
 3. **Not Universal:** The 8-period SMA may not be suitable for all assets or trading styles. Its effectiveness can vary based on market conditions and the specific characteristics of the asset being traded.
 
 ## Conclusion

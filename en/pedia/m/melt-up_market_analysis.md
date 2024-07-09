@@ -36,7 +36,7 @@ Historically, melt-up markets have been observed at various times and in various
   
 4. **[Momentum Trading](../m/momentum_trading.md)**: Investors and algorithms buy into rising trends, exacerbating price increases.
 
-5. **Economic and Political Uncertainty**: When traditional investments seem less secure, investors may flock to more speculative ones.
+5. **Economic and Political [Uncertainty](../u/uncertainty_in_trading.md)**: When traditional investments seem less secure, investors may flock to more speculative ones.
 
 #### Consequences of a Melt-Up
 
@@ -84,7 +84,7 @@ In [algorithmic trading](../a/algorithmic_trading.md) (or algo trading), traders
 
 3. **[Social Media Analytics](../s/social_media_analytics.md)**: Tools like StockTwits, Sentifi, and others that track sentiment on social media can be useful.
   
-4. **[Technical Analysis](../t/technical_analysis.md) Software**: Tools such as [TradingView](../t/tradingview.md), MetaStock, and [Amibroker](../a/amibroker.md) facilitate [technical analysis](../t/technical_analysis.md) for melt-up detection.
+4. **[Technical Analysis](../t/technical_analysis.md) Software**: Tools such as [TradingView](../t/tradingview.md), [MetaStock](../m/metastock.md), and [Amibroker](../a/amibroker.md) facilitate [technical analysis](../t/technical_analysis.md) for melt-up detection.
 
 5. **Custom Algorithm Development**: For specialized [trading strategies](../t/trading_strategies.md), developing custom algorithms using languages like Python, R, and MATLAB can be beneficial.
 
@@ -92,13 +92,13 @@ In [algorithmic trading](../a/algorithmic_trading.md) (or algo trading), traders
 
 1. **Renaissance Technologies**: Renowned for its Medallion Fund, Renaissance Technologies employs sophisticated algorithms and quantitative techniques. More information can be found on their [website](https://www.rentec.com/).
 
-2. **Two Sigma**: Utilizing data science and technology, Two Sigma develops models to predict market movements. Their site provides additional details: [Two Sigma](https://www.twosigma.com/).
+2. **Two Sigma**: Utilizing [data science](../d/data_science_in_trading.md) and technology, Two Sigma develops models to predict market movements. Their site provides additional details: [Two Sigma](https://www.twosigma.com/).
 
 3. **DE Shaw & Co.**: A pioneer in [computational finance](../c/computational_finance.md), DE Shaw utilizes advanced algorithms and models. Visit their [website](https://www.deshaw.com/) for more insights.
 
 4. **Citadel**: Known for leveraging high-frequency trading and [quantitative analysis](../q/quantitative_analysis.md), Citadel operates some of the most advanced [trading systems](../t/trading_systems.md). More information can be found at [Citadel](https://www.citadel.com/).
 
-5. **Jane Street**: Specializing in ETF and options trading, Jane Street uses sophisticated algorithms and quantitative strategies. More details are available on their [website](https://www.janestreet.com/).
+5. **Jane Street**: Specializing in ETF and options trading, Jane Street uses sophisticated algorithms and [quantitative strategies](../q/quantitative_strategies_in_trading.md). More details are available on their [website](https://www.janestreet.com/).
 
 #### Conclusion
 

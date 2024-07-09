@@ -118,10 +118,10 @@ Credit rating models evaluate the creditworthiness of bond issuers based on [fin
 Robo-advisors use algorithms to create and manage bond portfolios based on investors' risk preferences and financial goals. They provide automated, low-cost [portfolio management](../p/portfolio_management.md) services.
 
 ### Machine Learning and AI
-Machine learning and artificial intelligence (AI) are increasingly used in bond [portfolio management](../p/portfolio_management.md) to analyze large datasets, identify patterns, and make predictive models. These technologies enhance decision-making and [risk management](../r/risk_management.md) capabilities.
+Machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) are increasingly used in bond [portfolio management](../p/portfolio_management.md) to analyze large datasets, identify patterns, and make [predictive models](../p/predictive_models_in_trading.md). These technologies enhance decision-making and [risk management](../r/risk_management.md) capabilities.
 
 ### Blockchain and Smart Contracts
-Blockchain technology and smart contracts offer transparency, security, and efficiency in bond transactions and management. They streamline processes such as settlement, compliance, and reporting.
+[Blockchain](../b/blockchain_in_trading.md) technology and [smart contracts](../s/smart_contracts_in_trading.md) offer transparency, security, and efficiency in bond transactions and management. They streamline processes such as settlement, compliance, and reporting.
 
 ## Key Players in Bond Portfolio Management
 

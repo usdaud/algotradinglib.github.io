@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Volatility and risk are pivotal concepts in the world of finance and, by extension, [algorithmic trading](../a/algorithmic_trading.md). Volatility refers to the degree of variation of a trading price series over a given period of time, typically measured by the standard deviation of returns. Risk, on the other hand, encompasses the uncertainty surrounding the potential return on an investment—this could involve both the likelihood of losing money and the variance of returns. In [algorithmic trading](../a/algorithmic_trading.md), understanding and managing both volatility and risk are essential for creating robust [trading strategies](../t/trading_strategies.md) that are profitable and sustainable over time.
+Volatility and risk are pivotal concepts in the world of finance and, by extension, [algorithmic trading](../a/algorithmic_trading.md). Volatility refers to the degree of variation of a trading price series over a given period of time, typically measured by the standard deviation of returns. Risk, on the other hand, encompasses the [uncertainty](../u/uncertainty_in_trading.md) surrounding the potential return on an investment—this could involve both the likelihood of losing money and the variance of returns. In [algorithmic trading](../a/algorithmic_trading.md), understanding and managing both volatility and risk are essential for creating robust [trading strategies](../t/trading_strategies.md) that are profitable and sustainable over time.
 
 ## What is Volatility?
 
@@ -24,7 +24,7 @@ Several statistical tools are used to measure and analyze volatility:
   
 - **[Bollinger Bands](../b/bollinger_bands.md)**: A type of statistical chart characterizing the prices and volatility over time using a formulaic method.
 
-- **Average True Range (ATR)**: An indicator that measures market volatility by decomposing the entire range of an asset price for that period.
+- **[Average True Range](../a/average_true_range_(atr).md) (ATR)**: An indicator that measures market volatility by decomposing the entire range of an asset price for that period.
 
 ## Risk and Its Types in Algorithmic Trading
 

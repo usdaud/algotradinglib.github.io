@@ -47,9 +47,9 @@ Different methods are used in signal detection, and these range from simple to h
 
 ### Machine Learning
 
-Machine learning algorithms are increasingly being applied to detect [trading signals](../t/trading_signals.md). Some of the methods include:
+Machine [learning algorithms](../l/learning_algorithms_in_trading.md) are increasingly being applied to detect [trading signals](../t/trading_signals.md). Some of the methods include:
 
-- **Supervised Learning**: Techniques like regression, logistic regression, and classification trees are used to predict price movements.
+- **Supervised Learning**: Techniques like regression, [logistic regression](../l/logistic_regression_in_trading.md), and classification trees are used to predict price movements.
 - **Unsupervised Learning**: [Clustering algorithms](../c/clustering_algorithms.md) help in identifying hidden patterns.
 - **Reinforcement Learning**: Used for developing strategies that adapt and improve over time.
 
@@ -86,7 +86,7 @@ Various tools and platforms are available for signal detection in trading:
 ### 3. **APIs**
 
 - **Alpha Vantage API**: Provides real-time and historical market data. [Alpha Vantage](https://www.alphavantage.co/)
-- **Yahoo Finance API**: For retrieving stock prices and other financial data. [Yahoo Finance](https://www.yahoofinanceapi.com/)
+- **[Yahoo Finance](../y/yahoo_finance.md) API**: For retrieving stock prices and other financial data. [Yahoo Finance](https://www.yahoofinanceapi.com/)
 - **[Quandl](../q/quandl.md) API**: Offers a plethora of financial and economic data. [Quandl](https://www.quandl.com/)
 
 ## Case Studies
@@ -95,7 +95,7 @@ Several case studies illustrate the effectiveness of signal detection in trading
 
 ### 1. **Renaissance Technologies**
 
-Renaissance Technologies, led by Jim Simons, is known for its Medallion Fund, which has consistently provided high returns. The firm leverages complex mathematical models to detect signals and execute trades.
+Renaissance Technologies, led by Jim Simons, is known for its Medallion Fund, which has consistently provided high returns. The firm leverages complex [mathematical models](../m/mathematical_models_in_trading.md) to detect signals and execute trades.
 
 ### 2. **Two Sigma**
 
@@ -115,7 +115,7 @@ One of the critical issues in model development. Overfitting occurs when a model
 
 ### 2. **Data Snooping Bias**
 
-This bias arises when a strategy is continuously adjusted to fit historical data, leading to false signals.
+This bias arises when a strategy is continuously adjusted to fit historical data, leading to [false signals](../f/false_signals_in_trading.md).
 
 ### 3. **Execution Risk**
 
@@ -127,5 +127,5 @@ Regulatory constraints can impact the effectiveness of certain [trading strategi
 
 ## Conclusion
 
-Signal detection is an integral part of [algorithmic trading](../a/algorithmic_trading.md), combining elements of data science, statistical analysis, and machine learning. While it offers the potential for significant returns, the complexity and challenges involved require robust strategies, continuous monitoring, and ongoing optimization.
+Signal detection is an integral part of [algorithmic trading](../a/algorithmic_trading.md), combining elements of [data science](../d/data_science_in_trading.md), statistical analysis, and machine learning. While it offers the potential for significant returns, the complexity and challenges involved require robust strategies, continuous monitoring, and ongoing optimization.
 

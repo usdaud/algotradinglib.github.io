@@ -1,6 +1,6 @@
 # Simulation Techniques
 
-[Algorithmic trading](../a/algorithmic_trading.md) is the use of computer algorithms to automate the trading process. It involves making decisions on buying or selling financial instruments based on pre-defined strategies and market conditions. Simulation techniques play a crucial role in the development and testing of these [trading algorithms](../t/trading_algorithms.md). By simulating market conditions and algorithmic responses, traders can evaluate the performance and robustness of their strategies before deploying them in live markets. This article delves into various simulation techniques commonly used in [algorithmic trading](../a/algorithmic_trading.md).
+[Algorithmic trading](../a/algorithmic_trading.md) is the use of computer algorithms to automate the trading process. It involves making decisions on buying or selling financial instruments based on pre-defined strategies and market conditions. [Simulation](../s/simulation_in_trading.md) techniques play a crucial role in the development and testing of these [trading algorithms](../t/trading_algorithms.md). By simulating market conditions and algorithmic responses, traders can evaluate the performance and robustness of their strategies before deploying them in live markets. This article delves into various [simulation](../s/simulation_in_trading.md) techniques commonly used in [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Backtesting
 
@@ -10,7 +10,7 @@
 
 1. **Data Collection:** Gathering historical market data relevant to the financial instruments being traded.
 2. **Strategy Implementation:** Coding the trading strategy in a programming language suitable for [backtesting](../b/backtesting.md).
-3. **Simulation:** Running the strategy on the historical data to simulate trades.
+3. **[Simulation](../s/simulation_in_trading.md):** Running the strategy on the historical data to simulate trades.
 4. **Evaluation:** Analyzing the [simulated trading](../s/simulated_trading.md) outcomes using various [performance metrics](../p/performance_metrics.md).
 
 Popular [backtesting](../b/backtesting.md) platforms include [QuantConnect](https://www.quantconnect.com/), [Quantopian](https://www.quantopian.com/), and [Zipline](http://www.zipline.io/).
@@ -37,21 +37,21 @@ Agent-Based Modeling (ABM) simulates interactions of individual agents (e.g., tr
 1. **Define Agents:** Specify the types of agents and their decision-making processes.
 2. **Environment Setup:** Create the market environment in which agents interact.
 3. **Interaction Rules:** Establish how agents will interact with each other and the market.
-4. **Simulation:** Run the model to observe how agents' interactions produce market patterns.
+4. **[Simulation](../s/simulation_in_trading.md):** Run the model to observe how agents' interactions produce market patterns.
 5. **Analysis:** Monitor aggregate market behavior and individual agent performance.
 
 [NetLogo](https://ccl.northwestern.edu/netlogo/) and [Repast](https://repast.github.io/) are well-known platforms for agent-based modeling.
 
 ## Event-Driven Simulation
 
-Event-driven simulation focuses on discrete market events (e.g., the release of economic data) and their impact on [trading strategies](../t/trading_strategies.md). This technique is beneficial for strategies that are particularly sensitive to specific events.
+Event-driven [simulation](../s/simulation_in_trading.md) focuses on discrete market events (e.g., the release of economic data) and their impact on [trading strategies](../t/trading_strategies.md). This technique is beneficial for strategies that are particularly sensitive to specific events.
 
-**Steps in Event-Driven Simulation:**
+**Steps in Event-Driven [Simulation](../s/simulation_in_trading.md):**
 
 1. **Identify Events:** List the events that significantly impact the financial instruments of interest.
 2. **Define Responses:** Establish how the trading strategy should respond to each event.
 3. **Event Scheduling:** Create a timeline of events and market scenarios.
-4. **Simulation:** Execute the strategy based on the predetermined events.
+4. **[Simulation](../s/simulation_in_trading.md):** Execute the strategy based on the predetermined events.
 5. **Performance Analysis:** Evaluate how well the strategy adapts to event-driven market changes.
 
 [Eventus](https://www.eventus.com/) provides tools designed for event-driven [simulation in trading](../s/simulation_in_trading.md).
@@ -64,7 +64,7 @@ Sensitivity analysis explores how changes in input parameters affect the perform
 
 1. **Select Parameters:** Choose the parameters to be tested (e.g., moving average periods, stop-loss levels).
 2. **Define Range:** Set the range of values for each parameter.
-3. **Simulation Runs:** Perform multiple backtests with different parameter combinations.
+3. **[Simulation](../s/simulation_in_trading.md) Runs:** Perform multiple backtests with different parameter combinations.
 4. **Collect Data:** Record [performance metrics](../p/performance_metrics.md) for each combination.
 5. **Analyze Results:** Determine sensitivity and optimize parameters for better performance.
 
@@ -72,9 +72,9 @@ Sensitivity analysis is often integrated into [backtesting](../b/backtesting.md)
 
 ## Stress Testing
 
-Stress testing evaluates how a trading strategy performs under extreme market conditions. This involves simulating adverse scenarios such as market crashes, liquidity crunches, or periods of high volatility.
+[Stress testing](../s/stress_testing_in_trading.md) evaluates how a trading strategy performs under extreme market conditions. This involves simulating adverse scenarios such as market crashes, liquidity crunches, or periods of high volatility.
 
-**Steps in Stress Testing:**
+**Steps in [Stress Testing](../s/stress_testing_in_trading.md):**
 
 1. **Define Stress Scenarios:** Specify extreme market conditions to be simulated.
 2. **Adjust Market Data:** Modify historical data to reflect stress conditions.
@@ -82,7 +82,7 @@ Stress testing evaluates how a trading strategy performs under extreme market co
 4. **[Performance Metrics](../p/performance_metrics.md):** Assess how the strategy handles stress conditions (e.g., drawdowns, recovery times).
 5. **Refinement:** Adjust the strategy to improve resilience against adverse market scenarios.
 
-Financial institutions and prop trading firms often have custom-built tools for stress testing, but platforms like [Alpaca](https://alpaca.markets/) also offer relevant utilities.
+Financial institutions and prop trading firms often have custom-built tools for [stress testing](../s/stress_testing_in_trading.md), but platforms like [Alpaca](https://alpaca.markets/) also offer relevant utilities.
 
 ## Bootstrapping
 
@@ -92,7 +92,7 @@ Bootstrapping is a statistical technique used to estimate the distribution of a 
 
 1. **Collect Trade Data:** Gather historical trade results from the strategy.
 2. **Resampling:** Create multiple resampled datasets by randomly sampling with replacement.
-3. **Simulation Runs:** Evaluate the strategy on each resampled dataset.
+3. **[Simulation](../s/simulation_in_trading.md) Runs:** Evaluate the strategy on each resampled dataset.
 4. **Estimate Distribution:** Analyze the distribution of [performance metrics](../p/performance_metrics.md) from the simulations.
 5. **[Confidence Intervals](../c/confidence_intervals.md):** Establish [confidence intervals](../c/confidence_intervals.md) for [performance metrics](../p/performance_metrics.md).
 
@@ -100,7 +100,7 @@ Bootstrapping is a statistical technique used to estimate the distribution of a 
 
 ## Scenario Analysis
 
-Scenario analysis explores the impact of different hypothetical scenarios on a trading strategy. Unlike stress testing, which focuses on worst-case scenarios, scenario analysis considers a range of possible future market conditions.
+Scenario analysis explores the impact of different hypothetical scenarios on a trading strategy. Unlike [stress testing](../s/stress_testing_in_trading.md), which focuses on worst-case scenarios, scenario analysis considers a range of possible future market conditions.
 
 **Steps in Scenario Analysis:**
 
@@ -114,4 +114,4 @@ Platforms like [Bloomberg Terminal](https://www.bloomberg.com/professional/solut
 
 ## Conclusion
 
-Simulation techniques are essential tools in the development and validation of [algorithmic trading](../a/algorithmic_trading.md) strategies. By leveraging these methods, traders can gain a deeper understanding of their strategies' behavior under various market conditions, thereby improving their decision-making and potentially enhancing their [trading performance](../t/trading_performance.md). From [backtesting](../b/backtesting.md) and Monte Carlo simulations to agent-based modeling and scenario analysis, each technique offers unique insights, making them indispensable in the ever-evolving world of [algorithmic trading](../a/algorithmic_trading.md).
+[Simulation](../s/simulation_in_trading.md) techniques are essential tools in the development and validation of [algorithmic trading](../a/algorithmic_trading.md) strategies. By leveraging these methods, traders can gain a deeper understanding of their strategies' behavior under various market conditions, thereby improving their decision-making and potentially enhancing their [trading performance](../t/trading_performance.md). From [backtesting](../b/backtesting.md) and Monte Carlo simulations to agent-based modeling and scenario analysis, each technique offers unique insights, making them indispensable in the ever-evolving world of [algorithmic trading](../a/algorithmic_trading.md).

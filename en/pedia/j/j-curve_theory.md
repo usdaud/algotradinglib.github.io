@@ -44,13 +44,13 @@ Understanding the J-Curve is crucial for algorithmic traders and investors who m
 Several firms, like [Two Sigma](https://www.twosigma.com/) and [Citadel LLC](https://www.citadel.com/), have applied concepts aligned with the J-Curve theory in their algorithmic strategies. Their algorithms often go through extensive [backtesting](../b/backtesting.md) and live testing phases before achieving stable returns.
 
 #### Hedge Funds
-Hedge funds such as [Renaissance Technologies](https://www.rentec.com/) have successfully navigated the J-Curve by employing robust data science techniques that ensure their algorithms improve over time, ultimately resulting in highly profitable outcomes despite initial hurdles.
+Hedge funds such as [Renaissance Technologies](https://www.rentec.com/) have successfully navigated the J-Curve by employing robust [data science](../d/data_science_in_trading.md) techniques that ensure their algorithms improve over time, ultimately resulting in highly profitable outcomes despite initial hurdles.
 
 ### Tools and Techniques
 
 To handle the J-Curve in [algorithmic trading](../a/algorithmic_trading.md) efficiently, various tools and techniques are deployed:
 
-- **[Backtesting](../b/backtesting.md) and Simulation**: Running the algorithm through historical market data to identify potential initial dips and predict performance.
+- **[Backtesting](../b/backtesting.md) and [Simulation](../s/simulation_in_trading.md)**: Running the algorithm through historical market data to identify potential initial dips and predict performance.
 - **Robust Data Analysis**: Utilizing machine learning and data analysis to refine algorithms and predict market changes with higher accuracy.
 - **Incremental Updates**: Making iterative updates and improvements to the algorithm based on real-time performance feedback.
 

@@ -128,8 +128,8 @@ Technology and automation are revolutionizing post-trade processing by enhancing
 
 ### Key Technologies
 
-- **Blockchain**: Distributed ledger technology that provides an immutable record of transactions, enhancing transparency and security.
-- **Artificial Intelligence (AI)**: Leveraging AI and machine learning for [predictive analytics](../p/predictive_analytics.md), [anomaly detection](../a/anomaly_detection.md), and process optimization.
+- **[Blockchain](../b/blockchain_in_trading.md)**: Distributed ledger technology that provides an immutable record of transactions, enhancing transparency and security.
+- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI)**: Leveraging AI and machine learning for [predictive analytics](../p/predictive_analytics.md), [anomaly detection](../a/anomaly_detection.md), and process optimization.
 - **Robotic Process Automation (RPA)**: Use of software robots to automate rule-based tasks such as data entry, validation, and reconciliation.
 
 ### Link to Technology Providers

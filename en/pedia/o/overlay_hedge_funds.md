@@ -35,7 +35,7 @@ Overlay hedge funds employ a range of strategies, depending on their specific go
 ### Performance Enhancement
 The integration of overlays into a portfolio is aimed both at reducing risk and potentially improving returns. This can be achieved through:
 - **Active Management**: Continuous adjustment of exposures to capture favorable market movements.
-- **Diversification**: Spreading risk across various instruments and assets to mitigate minority downside while preserving majority upside potential.
+- **Diversification**: Spreading risk across various instruments and assets to mitigate minority downside while preserving majority [upside potential](../u/upside_potential_in_trading.md).
 - **[Alpha Generation](../a/alpha_generation.md)**: Seeking out not only risk mitigation but also additional returns by taking advantage of market inefficiencies.
 
 ## Prominent Overlay Hedge Funds and Firms

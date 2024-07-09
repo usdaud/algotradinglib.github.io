@@ -27,7 +27,7 @@ Common factors used in factor rotation strategies include:
 
 Factor rotation strategies often utilize statistical methods to identify patterns and relationships between factors and subsequent asset returns. Key techniques include:
 
-- **Principal Component Analysis (PCA)**: A statistical method that reduces the dimensionality of data and identifies the principal components that explain the most variance in asset returns. 
+- **[Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA)**: A statistical method that reduces the dimensionality of data and identifies the [principal components](../p/principal_components_in_trading.md) that explain the most variance in asset returns. 
 - **Factor Loadings**: Measures of the sensitivity of asset returns to the underlying factors, often derived from [regression analysis](../r/regression_analysis.md).
 - **Cross-sectional Analysis**: Examining the behaviors and relationships of different factors at a single point in time across multiple assets.
   
@@ -35,9 +35,9 @@ Factor rotation strategies often utilize statistical methods to identify pattern
 
 Advancements in machine learning have introduced sophisticated algorithms that can enhance factor rotation strategies. These models can capture complex non-linear relationships and adapt to changing market dynamics more effectively than traditional methods. Commonly used models include:
 
-- **Random Forests**: Ensembles of [decision trees](../d/decision_trees.md) that improve predictive accuracy and reduce overfitting.
-- **Support Vector Machines**: Algorithms that classify data by finding the optimal hyperplane that separates different factors.
-- **Neural Networks**: Deep learning models that can capture intricate patterns and dependencies in data.
+- **[Random Forests](../r/random_forests_in_trading.md)**: Ensembles of [decision trees](../d/decision_trees.md) that improve predictive accuracy and reduce overfitting.
+- **[Support Vector Machines](../s/support_vector_machines_in_trading.md)**: Algorithms that classify data by finding the optimal hyperplane that separates different factors.
+- **[Neural Networks](../n/neural_networks_in_trading.md)**: Deep learning models that can capture intricate patterns and dependencies in data.
 
 ### Economic Indicators and Macro Factors
 
@@ -63,7 +63,7 @@ Ensuring robust diversification and implementing [risk management](../r/risk_man
 
 - **Rotating and Hedging**: Simultaneously rotating into favorable factors while hedging against potential losses from unfavorable factors.
 - **Dynamic Allocation**: Regularly rebalancing the portfolio to maintain desired factor exposures and mitigate risk.
-- **Stress Testing**: Evaluating how the factor rotation strategy performs under various market conditions and stress scenarios.
+- **[Stress Testing](../s/stress_testing_in_trading.md)**: Evaluating how the factor rotation strategy performs under various market conditions and stress scenarios.
 
 ## Notable Companies and Resources
 

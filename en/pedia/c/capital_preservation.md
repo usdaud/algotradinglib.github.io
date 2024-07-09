@@ -34,7 +34,7 @@ Several companies and technologies offer advanced solutions and tools to aid in 
 
 #### Interactive Brokers
 
-[Interactive Brokers](https://www.interactivebrokers.com/) is another leader in the brokerage industry offering robust tools for algorithmic traders. Their Trader Workstation (TWS) platform includes comprehensive [risk management](../r/risk_management.md) tools that facilitate capital preservation by allowing traders to set sophisticated order types, monitor real-time [risk metrics](../r/risk_metrics.md), and maintain diversified portfolios.
+[Interactive Brokers](https://www.interactivebrokers.com/) is another leader in the brokerage industry offering robust tools for algorithmic traders. Their Trader Workstation (TWS) platform includes comprehensive [risk management](../r/risk_management.md) tools that facilitate capital preservation by allowing traders to set sophisticated [order types](../o/order_types_in_trading.md), monitor real-time [risk metrics](../r/risk_metrics.md), and maintain diversified portfolios.
 
 #### MetaTrader
 
@@ -42,7 +42,7 @@ Several companies and technologies offer advanced solutions and tools to aid in 
 
 #### Ninjatrader
 
-[NinjaTrader](https://ninjatrader.com/) offers a comprehensive suite for [algorithmic trading](../a/algorithmic_trading.md) with an emphasis on futures markets. Its platform includes advanced order management, real-time risk analytics, and [automated trade execution](../a/automated_trade_execution.md) designed to assist in capital preservation.
+[NinjaTrader](https://ninjatrader.com/) offers a comprehensive suite for [algorithmic trading](../a/algorithmic_trading.md) with an emphasis on futures markets. Its platform includes advanced [order management](../o/order_management_in_trading.md), real-time risk analytics, and [automated trade execution](../a/automated_trade_execution.md) designed to assist in capital preservation.
 
 ### Algorithms and Risk Management Techniques
 
@@ -54,7 +54,7 @@ Value at Risk is a statistic that quantifies the risk of loss for investments. I
 
 #### Monte Carlo Simulations
 
-Monte Carlo simulations involve running multiple hypothetical market scenarios to understand potential outcomes of [trading strategies](../t/trading_strategies.md). These simulations help in stress testing a portfolio against various market conditions, thereby enhancing strategies for capital preservation by identifying potential weaknesses and preparing mitigating actions in advance.
+Monte Carlo simulations involve running multiple hypothetical market scenarios to understand potential outcomes of [trading strategies](../t/trading_strategies.md). These simulations help in [stress testing](../s/stress_testing_in_trading.md) a portfolio against various market conditions, thereby enhancing strategies for capital preservation by identifying potential weaknesses and preparing mitigating actions in advance.
 
 #### Scenario Analysis
 

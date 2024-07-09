@@ -7,7 +7,7 @@ Twist [Spread Analysis](../s/spread_analysis.md) (TSA) is an advanced technique 
 The [yield curve](../y/yield_curve.md) is typically depicted as a graph with bond yields on the y-axis and the term to maturity on the x-axis. There are generally three shapes for yield curves:
 1. Normal [Yield Curve](../y/yield_curve.md): Long-term rates are higher than short-term rates, indicating positive economic expectations.
 2. Inverted [Yield Curve](../y/yield_curve.md): Short-term rates are higher than long-term rates, often seen as a recession indicator.
-3. Flat [Yield Curve](../y/yield_curve.md): Little difference between short-term and long-term rates, suggesting uncertainty in economic growth.
+3. Flat [Yield Curve](../y/yield_curve.md): Little difference between short-term and long-term rates, suggesting [uncertainty](../u/uncertainty_in_trading.md) in economic growth.
 
 ## Origin of the Term "Twist Spread"
 
@@ -40,8 +40,8 @@ For instance, if the yield of a 2-year bond is 2% and the yield of a [10-year bo
 
 [Algorithmic trading](../a/algorithmic_trading.md) utilizes various quantitative techniques for Twist [Spread Analysis](../s/spread_analysis.md):
 - **[Time Series Analysis](../t/time_series_analysis.md)**: Statistical methods used to study historical yield curves and forecast future movements.
-- **Principal Component Analysis (PCA)**: A dimensionality-reduction method that helps in identifying key factors driving [yield curve](../y/yield_curve.md) movements.
-- **[Finite Difference Methods](../f/finite_difference_methods.md)**: Numerical methods for solving differential equations, modeling interest rate shifts and their impact on bond pricing.
+- **[Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA)**: A dimensionality-reduction method that helps in identifying key factors driving [yield curve](../y/yield_curve.md) movements.
+- **[Finite Difference Methods](../f/finite_difference_methods.md)**: [Numerical methods](../n/numerical_methods_in_trading.md) for solving differential equations, modeling interest rate shifts and their impact on bond pricing.
 - **Monte Carlo Simulations**: Stochastic techniques used to model and analyze the probability distribution of bond prices and interest rates.
 
 ### Developing Trading Algorithms
@@ -85,7 +85,7 @@ Asset managers, including PIMCO, utilize Twist [Spread Analysis](../s/spread_ana
 
 ### Machine Learning and AI in Twist Spread Analysis
 
-Modern Twist [Spread Analysis](../s/spread_analysis.md) increasingly incorporates machine learning and artificial intelligence. Techniques like neural networks and reinforcement learning are used to enhance predictive accuracy and develop adaptive [trading strategies](../t/trading_strategies.md).
+Modern Twist [Spread Analysis](../s/spread_analysis.md) increasingly incorporates machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md). Techniques like [neural networks](../n/neural_networks_in_trading.md) and reinforcement learning are used to enhance predictive accuracy and develop adaptive [trading strategies](../t/trading_strategies.md).
 
 ### Global Yield Curves
 

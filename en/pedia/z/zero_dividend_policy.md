@@ -59,7 +59,7 @@ There can be several strategic reasons for a company to adopt a zero dividend po
    - [Alphabet Inc. Investor Relations](https://abc.xyz/investor/)
 
 2. **Amazon.com Inc.**
-   - Amazon has also historically adopted a zero dividend policy. The e-commerce and cloud computing giant consistently reinvests its earnings into expanding its infrastructure, acquiring new businesses, and developing innovative technologies like AWS (Amazon Web Services) and AI.
+   - Amazon has also historically adopted a zero dividend policy. The e-commerce and [cloud computing](../c/cloud_computing_in_trading.md) giant consistently reinvests its earnings into expanding its infrastructure, acquiring new businesses, and developing innovative technologies like AWS (Amazon Web Services) and AI.
    - [Amazon Investor Relations](https://ir.aboutamazon.com/)
 
 3. **Tesla, Inc.**

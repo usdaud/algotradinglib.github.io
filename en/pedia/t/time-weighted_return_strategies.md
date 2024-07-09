@@ -38,7 +38,7 @@ Implementing TWR in [algorithmic trading](../a/algorithmic_trading.md) involves 
 Several successful [algorithmic trading](../a/algorithmic_trading.md) firms utilize time-weighted return strategies to evaluate and enhance their performance. Notable examples include:
 
 - **Two Sigma**: [Two Sigma](https://www.twosigma.com/) is an investment management firm that uses data-driven strategies and technology. They leverage advanced statistical models and machine learning to optimize returns. By employing TWR, Two Sigma ensures that the performance of their strategies is evaluated independently of cash flows, aiding in accurate benchmarking and strategy refinement.
-- **Renaissance Technologies**: Renaissance Technologies' Medallion Fund is renowned for its exceptional performance. The firm employs sophisticated mathematical models and [quantitative analysis](../q/quantitative_analysis.md) to drive its trading decisions. TWR helps Renaissance Technologies maintain a clear understanding of their strategy's effectiveness, excluding the impact of investor cash movements.
+- **Renaissance Technologies**: Renaissance Technologies' Medallion Fund is renowned for its exceptional performance. The firm employs sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and [quantitative analysis](../q/quantitative_analysis.md) to drive its trading decisions. TWR helps Renaissance Technologies maintain a clear understanding of their strategy's effectiveness, excluding the impact of investor cash movements.
 
 ### Challenges and Limitations
 

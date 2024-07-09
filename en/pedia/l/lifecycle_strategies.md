@@ -19,7 +19,7 @@ Alpha refers to the strategy's ability to generate excess returns over the bench
 ## Risk Management and Position Sizing
 Effective [risk management](../r/risk_management.md) is pivotal to the success of any [algorithmic trading](../a/algorithmic_trading.md) strategy. This phase focuses on mitigating potential losses and managing exposure.
 
-1. **Risk Models**: Developing models to assess and manage risk, such as Value at Risk (VaR), Conditional Value at Risk (CVaR), and stress testing.
+1. **[Risk Models](../r/risk_models_in_trading.md)**: Developing models to assess and manage risk, such as Value at Risk (VaR), Conditional Value at Risk (CVaR), and [stress testing](../s/stress_testing_in_trading.md).
 2. **[Position Sizing](../p/position_sizing.md)**: Determining the optimal size of trades to balance risk and reward. This often involves techniques like [Kelly Criterion](../k/kelly_criterion.md) or using volatility-adjusted position sizes.
 
 ## Execution Algorithms and Deployment
@@ -42,7 +42,7 @@ After deployment, continuous monitoring and real-time adjustments are necessary 
 
 1. **Trade Review**: Analyzing each trade to understand what worked and what didn’t. Factors to consider include entry and exit points, market conditions at the time of the trade, and the performance of [execution algorithms](../e/execution_algorithms.md).
 2. **Strategy Refinement**: Using insights from trade reviews to refine and optimize the strategy. This may involve adjusting parameters, incorporating new data sources, or tweaking the model.
-3. **Machine Learning**: Leveraging machine learning techniques to uncover hidden patterns and improve predictive accuracy. Techniques such as reinforcement learning, neural networks, and [decision trees](../d/decision_trees.md) can be employed.
+3. **Machine Learning**: Leveraging machine learning techniques to uncover hidden patterns and improve predictive accuracy. Techniques such as reinforcement learning, [neural networks](../n/neural_networks_in_trading.md), and [decision trees](../d/decision_trees.md) can be employed.
 4. **Continuous Improvement**: Establishing a feedback loop where [post-trade analysis](../p/post-trade_analysis.md) continuously informs idea generation and strategy formulation, ensuring that the trading system adapts and evolves over time.
 
 ## Governance and Compliance

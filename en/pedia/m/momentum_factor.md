@@ -42,7 +42,7 @@ The [dual momentum](../d/dual_momentum.md) strategy combines elements of both cr
 
 ### Behavioral Biases
 
-Momentum can be partly explained by various behavioral biases that affect investor decisions. For instance, investors tend to exhibit "herding" behavior, where they follow the majority, leading to trends that persist over time. Additionally, the "disposition effect" refers to investors' tendency to sell winning assets prematurely while holding on to losing assets, contributing to momentum patterns.
+Momentum can be partly explained by various [behavioral biases](../b/behavioral_biases_in_trading.md) that affect investor decisions. For instance, investors tend to exhibit "herding" behavior, where they follow the majority, leading to trends that persist over time. Additionally, the "disposition effect" refers to investors' tendency to sell winning assets prematurely while holding on to losing assets, contributing to momentum patterns.
 
 ### Market Microstructure
 
@@ -56,7 +56,7 @@ Some argue that momentum profits are a compensation for risk. For example, stock
 
 ### Algorithmic Trading Platforms
 
-Momentum strategies are commonly implemented on [algorithmic trading](../a/algorithmic_trading.md) platforms that use sophisticated algorithms to identify and exploit momentum patterns. Platforms like [QuantConnect](../q/quantconnect.md), [Alpaca](../a/alpaca.md), and Interactive Brokers offer tools and APIs for developing and executing momentum-based [trading strategies](../t/trading_strategies.md).
+Momentum strategies are commonly implemented on [algorithmic trading](../a/algorithmic_trading.md) platforms that use sophisticated algorithms to identify and exploit momentum patterns. Platforms like [QuantConnect](../q/quantconnect.md), [Alpaca](../a/alpaca.md), and [Interactive Brokers](../i/interactive_brokers.md) offer tools and APIs for developing and executing momentum-based [trading strategies](../t/trading_strategies.md).
 
 ### Exchange-Traded Funds (ETFs)
 

@@ -33,7 +33,7 @@ Consider a stock that has been in a strong uptrend but shows signs of weakening 
 
 ### Limitations and Considerations
 
-While RSI is a powerful tool, it is not without limitations. False signals can occur, especially in highly volatile markets. Additionally, relying solely on RSI can be risky; it is crucial to consider broader market context, fundamental factors, and other [technical indicators](../t/technical_indicators.md).
+While RSI is a powerful tool, it is not without limitations. [False signals](../f/false_signals_in_trading.md) can occur, especially in highly volatile markets. Additionally, relying solely on RSI can be risky; it is crucial to consider broader market context, fundamental factors, and other [technical indicators](../t/technical_indicators.md).
 
 ### Conclusion
 

@@ -45,11 +45,11 @@ This model operates on the assumption that asset prices tend to revert to their 
 These strategies capitalize on the persistence of asset price trends. If an asset's price is rising, it is likely to continue to do so, and vice versa.
 
 ### Machine Learning Models
-Advanced machine learning models like [regression analysis](../r/regression_analysis.md), support vector machines, and neural networks are employed to predict price targets with higher accuracy.
+Advanced machine learning models like [regression analysis](../r/regression_analysis.md), [support vector machines](../s/support_vector_machines_in_trading.md), and [neural networks](../n/neural_networks_in_trading.md) are employed to predict price targets with higher accuracy.
 
 ## Sentiment Analysis
 
-[Sentiment analysis](../s/sentiment_analysis.md), also known as opinion mining, utilizes natural language processing (NLP) techniques to analyze public sentiment regarding a particular security. This analysis is based on social media, news articles, blogs, and other textual data sources. The sentiment score is then used to anticipate price movements.
+[Sentiment analysis](../s/sentiment_analysis.md), also known as opinion mining, utilizes [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) techniques to analyze public sentiment regarding a particular security. This analysis is based on social media, news articles, blogs, and other textual data sources. The sentiment score is then used to anticipate price movements.
 
 ### Sentiment Indicators
 [Sentiment indicators](../s/sentiment_indicators.md), such as the Put-Call Ratio and Bullish Consensus Index, help in gauging investor sentiment and can be pivotal in price target analysis.

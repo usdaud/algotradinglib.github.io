@@ -49,7 +49,7 @@ Subject to:
 
 \[ \sum_{i=1}^{n} w_i = 1 \]
 
-This quadratic optimization problem can be solved using various techniques, including Lagrange multipliers, quadratic programming, or numerical methods.
+This quadratic optimization problem can be solved using various techniques, including Lagrange multipliers, quadratic programming, or [numerical methods](../n/numerical_methods_in_trading.md).
 
 ### Role in Portfolio Optimization
 
@@ -98,7 +98,7 @@ While the Mean-Variance Frontier is a powerful tool, it has several limitations 
 
 #### Assumptions
 
-The model relies on several simplifying assumptions, including the normal distribution of returns, stable correlations, and the availability of a risk-free asset. In reality, asset returns often exhibit non-normal characteristics such as [skewness and kurtosis](../s/skewness_and_kurtosis.md), and correlations can change over time, especially during market crises.
+The model relies on several simplifying assumptions, including the [normal distribution](../n/normal_distribution_in_trading.md) of returns, stable correlations, and the availability of a risk-free asset. In reality, asset returns often exhibit non-normal characteristics such as [skewness and kurtosis](../s/skewness_and_kurtosis.md), and correlations can change over time, especially during market crises.
 
 #### Input Sensitivity
 
@@ -122,7 +122,7 @@ The [Black-Litterman Model](../b/black-litterman_model.md) combines market equil
 
 #### Multi-Factor Models
 
-Multi-[factor models](../f/factor_models.md), such as the Fama-French three-factor model and the Carhart four-factor model, extend the traditional mean-variance framework by incorporating multiple risk factors. These models provide a richer understanding of the drivers of returns and allow for more sophisticated portfolio construction.
+Multi-[factor models](../f/factor_models.md), such as the Fama-French three-factor model and the Carhart four-factor model, extend the traditional mean-variance framework by incorporating multiple [risk factors](../r/risk_factors_in_trading.md). These models provide a richer understanding of the drivers of returns and allow for more sophisticated portfolio construction.
 
 ### Conclusion
 

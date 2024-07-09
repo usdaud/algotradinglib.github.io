@@ -9,7 +9,7 @@ The 10-K report is an essential document for understanding publicly-traded compa
 1. **Business Overview**: 
    The 10-K begins with a description of the company's business, including the principal products and services it offers, the market it serves, competitive conditions, and development activities. For algo trading, this section helps in understanding the broader context of the company's operations and industry landscape.
 
-2. **Risk Factors**: 
+2. **[Risk Factors](../r/risk_factors_in_trading.md)**: 
    Companies list major risks that could have a significant impact on their businesses. For algo traders, this section is instrumental in assessing the risk profile of a company and developing strategies that either mitigate these risks or exploit opportunities arising from them.
 
 3. **Selected Financial Data**: 
@@ -19,7 +19,7 @@ The 10-K report is an essential document for understanding publicly-traded compa
    In the MD&A section, the management team discusses the financial results, including liquidity, capital resources, and operations. This section provides qualitative insights that complement the quantitative data and can be useful in modifying [trading algorithms](../t/trading_algorithms.md) based on managerial outlook and corporate strategy.
 
 5. **Financial Statements and Supplementary Data**: 
-   Comprehensive financial statements, including the balance sheet, income statement, cash flow statement, and statement of shareholders' equity. Algo traders can use this financial data to calculate various ratios, develop predictive models, and analyze trends.
+   Comprehensive financial statements, including the balance sheet, income statement, cash flow statement, and statement of shareholders' equity. Algo traders can use this financial data to calculate various ratios, develop [predictive models](../p/predictive_models_in_trading.md), and analyze trends.
 
 6. **Directors, Executive Officers, and Corporate Governance**: 
    Information regarding the governance of a company, including the background of its directors and executive officers. This section helps in evaluating the quality of the company's leadership, which can be a factor in determining its long-term performance and stability.
@@ -40,7 +40,7 @@ The 10-K report is an essential document for understanding publicly-traded compa
 
 ### Data Extraction and Parsing
 
-Algo traders often employ Natural Language Processing (NLP) and machine learning models to extract and parse qualitative data from the 10-K report. These technologies help in identifying sentiment, categorizing risk factors, and even detecting subtle shifts in management tone. Python libraries such as `BeautifulSoup` and `NLTK` are popular for web scraping and text analysis of 10-K filings.
+Algo traders often employ [Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) and machine learning models to extract and parse qualitative data from the 10-K report. These technologies help in identifying sentiment, categorizing [risk factors](../r/risk_factors_in_trading.md), and even detecting subtle shifts in management tone. Python libraries such as `BeautifulSoup` and `NLTK` are popular for web scraping and text analysis of 10-K filings.
 
 ### Quantitative Analysis
 
@@ -48,7 +48,7 @@ Financial statements in the 10-K report provide the raw data needed for [quantit
 
 ### Risk Management
 
-The risk factors section is essential for developing [risk management](../r/risk_management.md) strategies. By using historical data on identified risks, algo traders can simulate potential scenarios and stress-test their [trading algorithms](../t/trading_algorithms.md) under different conditions. This ensures more robust and resilient [trading strategies](../t/trading_strategies.md).
+The [risk factors](../r/risk_factors_in_trading.md) section is essential for developing [risk management](../r/risk_management.md) strategies. By using historical data on identified risks, algo traders can simulate potential scenarios and stress-test their [trading algorithms](../t/trading_algorithms.md) under different conditions. This ensures more robust and resilient [trading strategies](../t/trading_strategies.md).
 
 ### Sentiment Analysis
 
@@ -69,7 +69,7 @@ Consider an algorithm designed to trade stocks based on the financial health and
 3. **Metric Calculation**: 
    Calculate [financial ratios](../f/financial_ratios.md) and sentiment scores.
 4. **Scoring Companies**: 
-   Develop a scoring system based on financial health, risk factors, and sentiment.
+   Develop a scoring system based on financial health, [risk factors](../r/risk_factors_in_trading.md), and sentiment.
 5. **[Backtesting](../b/backtesting.md)**: 
    Run historical backtests to evaluate the strategy’s effectiveness.
 6. **Trading**: 
@@ -79,7 +79,7 @@ Consider an algorithm designed to trade stocks based on the financial health and
 
 - **Python**: For scripting and automation.
 - **BeautifulSoup**: For web scraping.
-- **NLTK**: For natural language processing.
+- **NLTK**: For [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md).
 - **pandas**: For data manipulation and analysis.
 - **Scikit-learn**: For machine learning models.
 

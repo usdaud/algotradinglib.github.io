@@ -72,7 +72,7 @@ The latency and computational efficiency of the trading infrastructure also affe
 
 ### Example: Two Sigma
 
-Two Sigma is a hedge fund that extensively uses data science and technology to develop [trading algorithms](../t/trading_algorithms.md). By integrating [performance metrics](../p/performance_metrics.md) such as yield coefficients, Two Sigma optimizes and selects [trading strategies](../t/trading_strategies.md) to deploy. To know more, visit [Two Sigma](https://www.twosigma.com/).
+Two Sigma is a hedge fund that extensively uses [data science](../d/data_science_in_trading.md) and technology to develop [trading algorithms](../t/trading_algorithms.md). By integrating [performance metrics](../p/performance_metrics.md) such as yield coefficients, Two Sigma optimizes and selects [trading strategies](../t/trading_strategies.md) to deploy. To know more, visit [Two Sigma](https://www.twosigma.com/).
 
 ### Example: Jane Street
 
@@ -86,7 +86,7 @@ One of the most effective ways to optimize the yield coefficient is through rigo
 
 ### 2. Algorithm Tuning
 
-Parameter tuning and optimization of the algorithm can significantly enhance performance. Techniques such as grid search, random search, and [Bayesian optimization](../b/bayesian_optimization.md) can be used to find the optimal set of parameters that maximize the yield coefficient.
+Parameter tuning and optimization of the algorithm can significantly enhance performance. Techniques such as [grid search](../g/grid_search_in_trading.md), random search, and [Bayesian optimization](../b/bayesian_optimization.md) can be used to find the optimal set of parameters that maximize the yield coefficient.
 
 ### 3. Cost Optimization
 

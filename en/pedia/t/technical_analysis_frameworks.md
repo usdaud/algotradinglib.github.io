@@ -100,7 +100,7 @@ VWAP calculates a trading period's average price, weighted by volume, often used
 ### Advanced Techniques
 
 #### Machine Learning and AI
-Algorithmic traders increasingly employ machine learning and artificial intelligence to enhance [technical analysis](../t/technical_analysis.md) strategies. Techniques such as supervised learning, unsupervised learning, and reinforcement learning are used to identify patterns and optimize [trading algorithms](../t/trading_algorithms.md).
+Algorithmic traders increasingly employ machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to enhance [technical analysis](../t/technical_analysis.md) strategies. Techniques such as supervised learning, unsupervised learning, and reinforcement learning are used to identify patterns and optimize [trading algorithms](../t/trading_algorithms.md).
 
 #### Backtesting and Optimization
 [Backtesting](../b/backtesting.md) involves testing a trading strategy using historical data to validate its effectiveness. Algorithmic traders use [backtesting](../b/backtesting.md) tools like [QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/) and MetaTrader 5 (https://www.[metatrader5](../m/metatrader5.md).com/) to fine-tune their strategies.
@@ -114,7 +114,7 @@ Several platforms enable algorithmic traders to deploy and manage their strategi
 - **MetaTrader 5**: A popular platform offering comprehensive tools for both [technical analysis](../t/technical_analysis.md) and [algorithmic trading](../a/algorithmic_trading.md).
   [MetaTrader 5](https://www.metatrader5.com/)
   
-- **Interactive Brokers**: Offers advanced trading tools, including algo trading capabilities.
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Offers advanced trading tools, including algo trading capabilities.
   [Interactive Brokers](https://www.interactivebrokers.com/)
 
 ### Conclusion

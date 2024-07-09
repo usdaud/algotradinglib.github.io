@@ -50,7 +50,7 @@ Fractal analysis offers several benefits to traders, including:
 
 Despite its benefits, fractal analysis also comes with challenges:
 - **Complexity**: Requires deep understanding and experience to effectively apply.
-- **False Signals**: Like other [technical indicators](../t/technical_indicators.md), fractals can generate false signals, especially in choppy markets.
+- **[False Signals](../f/false_signals_in_trading.md)**: Like other [technical indicators](../t/technical_indicators.md), fractals can generate [false signals](../f/false_signals_in_trading.md), especially in choppy markets.
 - **Requirement of Confirmation**: Often needs confirmation from other indicators or price action to increase reliability.
 
 ## Practical Examples and Case Studies
@@ -71,7 +71,7 @@ In the volatile cryptocurrency market, fractal analysis can be particularly usef
 
 ## Software and Tools for Fractal Analysis
 
-Several trading platforms and software tools provide built-in fractal indicators to help traders. Below are a few popular ones:
+Several trading platforms and [software tools](../s/software_tools_for_trading.md) provide built-in fractal indicators to help traders. Below are a few popular ones:
 
 ### MetaTrader 4 and 5
 

@@ -1,6 +1,6 @@
 # Quantitative Investment Strategies
 
-Quantitative investment strategies are approaches to investing that rely on [quantitative analysis](../q/quantitative_analysis.md) to make trading decisions. These strategies use mathematical and statistical models to identify investment opportunities, manage risk, and execute trades. Quantitative investment strategies can be applied to various asset classes, including equities, fixed income, FX, and commodities. Here's an in-depth look into the components and types of quantitative investment strategies, key players in the industry, mathematical models utilized, [risk management](../r/risk_management.md), and the future of [quantitative investing](../q/quantitative_investing.md).
+Quantitative investment strategies are approaches to investing that rely on [quantitative analysis](../q/quantitative_analysis.md) to make trading decisions. These strategies use mathematical and statistical models to identify investment opportunities, manage risk, and execute trades. Quantitative investment strategies can be applied to various asset classes, including equities, fixed income, FX, and commodities. Here's an in-depth look into the components and types of quantitative investment strategies, key players in the industry, [mathematical models](../m/mathematical_models_in_trading.md) utilized, [risk management](../r/risk_management.md), and the future of [quantitative investing](../q/quantitative_investing.md).
 
 ## Components of Quantitative Investment Strategies
 
@@ -8,7 +8,7 @@ Quantitative investment strategies typically consist of four main components:
 
 1. **Data Collection and Preprocessing**: This is the first and crucial step where historical data, [real-time market data](../r/real-time_market_data.md), and other relevant information are collected. The quality of the data significantly impacts the performance of the model, necessitating rigorous preprocessing to remove anomalies or irrelevant information.
 
-2. **Model Development**: This involves creating mathematical models to analyze the preprocessed data. These models can range from simple statistical tools to complex machine learning algorithms. The goal is to uncover patterns and correlations that can predict future price movements.
+2. **Model Development**: This involves creating [mathematical models](../m/mathematical_models_in_trading.md) to analyze the preprocessed data. These models can range from simple statistical tools to complex machine [learning algorithms](../l/learning_algorithms_in_trading.md). The goal is to uncover patterns and correlations that can predict future price movements.
 
 3. **[Backtesting](../b/backtesting.md)**: Once a model is developed, it must be tested against historical data to evaluate its performance. [Backtesting](../b/backtesting.md) helps in understanding how the model would have performed under various market conditions.
 
@@ -36,13 +36,13 @@ High-frequency trading is a subset of [algorithmic trading](../a/algorithmic_tra
 
 ### 5. **Machine Learning and AI**
 
-Recent advancements in machine learning and artificial intelligence (AI) have opened new avenues for [quantitative investing](../q/quantitative_investing.md). Machine learning models can process vast amounts of data and identify patterns that traditional statistical methods might miss. Popular techniques include supervised learning, unsupervised learning, and reinforcement learning.
+Recent advancements in machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) have opened new avenues for [quantitative investing](../q/quantitative_investing.md). Machine learning models can process vast amounts of data and identify patterns that traditional statistical methods might miss. Popular techniques include supervised learning, unsupervised learning, and reinforcement learning.
 
 ## Key Players in Quantitative Investment Industry
 
 Several firms are renowned for their expertise in quantitative investment strategies. These firms employ teams of quants—professionals with backgrounds in mathematics, statistics, and computer science. Here are a few prominent companies:
 
-- **Two Sigma Investments** [(Two Sigma Investments)](https://www.twosigma.com) is a New York-based hedge fund that specializes in [systematic trading](../s/systematic_trading.md) and employs machine learning, artificial intelligence, and distributed computing to develop its investment strategies.
+- **Two Sigma Investments** [(Two Sigma Investments)](https://www.twosigma.com) is a New York-based hedge fund that specializes in [systematic trading](../s/systematic_trading.md) and employs machine learning, [artificial intelligence](../a/artificial_intelligence_in_trading.md), and distributed computing to develop its investment strategies.
 
 - **Renaissance Technologies** [(Renaissance Technologies)](https://www.rentec.com) is another prominent hedge fund known for its Medallion Fund, which is famous for its exceptional returns. The firm relies heavily on [quantitative models](../q/quantitative_models.md) developed by a team of scientists and engineers.
 
@@ -50,11 +50,11 @@ Several firms are renowned for their expertise in quantitative investment strate
 
 ## Mathematical Models and Techniques
 
-Several mathematical models and techniques underpin quantitative investment strategies. Here are some commonly used ones:
+Several [mathematical models](../m/mathematical_models_in_trading.md) and techniques underpin quantitative investment strategies. Here are some commonly used ones:
 
 ### **Regression Analysis**
 
-[Regression analysis](../r/regression_analysis.md) is a statistical method for examining the relationships among variables. It helps in understanding how the typical value of the dependent variable changes when any one of the independent variables is varied. Simple [linear regression](../l/linear_regression.md) and multiple [linear regression](../l/linear_regression.md) are widely used in developing predictive models.
+[Regression analysis](../r/regression_analysis.md) is a statistical method for examining the relationships among variables. It helps in understanding how the typical value of the dependent variable changes when any one of the independent variables is varied. Simple [linear regression](../l/linear_regression.md) and multiple [linear regression](../l/linear_regression.md) are widely used in developing [predictive models](../p/predictive_models_in_trading.md).
 
 ### **Time Series Analysis**
 
@@ -62,26 +62,26 @@ Several mathematical models and techniques underpin quantitative investment stra
 
 ### **Monte Carlo Simulation**
 
-[Monte Carlo simulation](../m/monte_carlo_simulation.md) is a computational technique that uses random sampling to approximate the probability distributions of various outcomes. It is particularly useful in [risk management](../r/risk_management.md), [portfolio optimization](../p/portfolio_optimization.md), and estimating the impact of uncertainties.
+[Monte Carlo simulation](../m/monte_carlo_simulation.md) is a computational technique that uses random sampling to approximate the [probability distributions](../p/probability_distributions_in_trading.md) of various outcomes. It is particularly useful in [risk management](../r/risk_management.md), [portfolio optimization](../p/portfolio_optimization.md), and estimating the impact of uncertainties.
 
 ### **Optimization Algorithms**
 
-Optimization algorithms are crucial for [portfolio management](../p/portfolio_management.md) and [asset allocation](../a/asset_allocation.md). Techniques such as linear programming, quadratic programming, and evolutionary algorithms help in solving complex optimization problems to achieve the desired investment objectives.
+Optimization algorithms are crucial for [portfolio management](../p/portfolio_management.md) and [asset allocation](../a/asset_allocation.md). Techniques such as [linear programming](../l/linear_programming_in_trading.md), quadratic programming, and evolutionary algorithms help in solving complex optimization problems to achieve the desired investment objectives.
 
 ### **Machine Learning Techniques**
 
 Machine learning techniques have become increasingly popular in [quantitative investing](../q/quantitative_investing.md). Popular algorithms include:
 
 - **Random Forest**: An [ensemble learning](../e/ensemble_learning.md) method that constructs multiple [decision trees](../d/decision_trees.md) and merges them to get more accurate and stable predictions.
-- **Support Vector Machines (SVMs)**: Supervised learning models used for classification and [regression analysis](../r/regression_analysis.md).
-- **Neural Networks**: Deep learning models that are particularly good at capturing non-linear relationships in data.
+- **[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVMs)**: Supervised learning models used for classification and [regression analysis](../r/regression_analysis.md).
+- **[Neural Networks](../n/neural_networks_in_trading.md)**: Deep learning models that are particularly good at capturing non-linear relationships in data.
 
 ## Risk Management
 
 [Risk management](../r/risk_management.md) is a critical aspect of quantitative investment strategies. The goal is to minimize potential losses while maximizing returns. Common [risk management](../r/risk_management.md) practices include:
 
 - **Value-at-Risk (VaR)**: A statistical technique used to measure the risk of loss on a specific portfolio of financial assets.
-- **Stress Testing**: Simulating various scenarios to assess the impact of extreme market conditions.
+- **[Stress Testing](../s/stress_testing_in_trading.md)**: Simulating various scenarios to assess the impact of extreme market conditions.
 - **Diversification**: Spreading investments across different asset classes to reduce risk.
 - **Hedging**: Using financial instruments such as options and futures to offset potential losses.
 
@@ -90,8 +90,8 @@ Machine learning techniques have become increasingly popular in [quantitative in
 The future of [quantitative investing](../q/quantitative_investing.md) looks promising, driven by advancements in technology and data availability. Here are some trends to watch:
 
 - **[Alternative Data](../a/alternative_data.md)**: The use of [non-traditional data sources](../n/non-traditional_data_sources.md), such as [social media sentiment](../s/social_media_sentiment.md), satellite imagery, and transaction data, provides new opportunities for [alpha generation](../a/alpha_generation.md).
-- **Quantum Computing**: Though still in its infancy, quantum computing holds the potential to revolutionize [quantitative finance](../q/quantitative_finance.md) by solving complex optimization problems much faster than classical computers.
+- **[Quantum Computing](../q/quantum_computing_in_trading.md)**: Though still in its infancy, [quantum computing](../q/quantum_computing_in_trading.md) holds the potential to revolutionize [quantitative finance](../q/quantitative_finance.md) by solving complex optimization problems much faster than classical computers.
 - **Ethical and Responsible Investing**: Integrating environmental, social, and governance (ESG) factors into [quantitative models](../q/quantitative_models.md) is becoming increasingly important as investors seek to align their portfolios with their values.
 - **Automation and AI**: The continued advancement of AI and automation will likely lead to more sophisticated and adaptive investment strategies.
 
-In summary, quantitative investment strategies leverage mathematical models and statistical techniques to inform trading decisions. With continuous technological advancements, the field is poised for significant growth and innovation.
+In summary, quantitative investment strategies leverage [mathematical models](../m/mathematical_models_in_trading.md) and statistical techniques to inform trading decisions. With continuous technological advancements, the field is poised for significant growth and innovation.

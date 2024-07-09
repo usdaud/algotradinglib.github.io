@@ -26,7 +26,7 @@ Calculating seasonality indicators involves statistical analysis of historical d
 3. **Currency [Market Seasonality](../m/market_seasonality.md)**: Currencies can show seasonal patterns driven by economic factors, such as trade balances and interest rate decisions. 
 
 ### Tools for Identifying Seasonality
-Several software tools and platforms help traders identify [seasonality patterns](../s/seasonality_patterns.md):
+Several [software tools](../s/software_tools_for_trading.md) and platforms help traders identify [seasonality patterns](../s/seasonality_patterns.md):
 
 1. **SeasonalCharts.com**: Provides seasonal charts for various commodities, stocks, and indices.
    [SeasonalCharts](https://www.seasonalcharts.com/)

@@ -6,7 +6,7 @@ Trading strategies are systematic methodologies or plans designed to achieve pro
 
 ### 1. Trend Following
 
-[Trend following](../t/trend_following.md) is a strategy that seeks to capitalize on the momentum of existing market trends. Traders using this strategy believe that prices that have been rising or falling for a particular period will continue to do so. Key tools for [trend following](../t/trend_following.md) include moving averages, trendlines, and various [technical indicators](../t/technical_indicators.md) like the Average Directional Index (ADX).
+[Trend following](../t/trend_following.md) is a strategy that seeks to capitalize on the momentum of existing market trends. Traders using this strategy believe that prices that have been rising or falling for a particular period will continue to do so. Key tools for [trend following](../t/trend_following.md) include moving averages, trendlines, and various [technical indicators](../t/technical_indicators.md) like the [Average Directional Index](../a/average_directional_index_(adx).md) (ADX).
 
 - **Moving Averages**: Simple (SMA) and Exponential Moving Averages (EMA) are widely used to identify the direction of the trend.
 - **Trendlines**: Drawing lines that connect significant price points helps to visualize the trend.
@@ -23,7 +23,7 @@ Trading strategies are systematic methodologies or plans designed to achieve pro
 
 [Arbitrage](../a/arbitrage.md) involves taking advantage of price discrepancies between different markets or instruments. This typically involves buying a security in one market and simultaneously selling it in another at a higher price, pocketing the difference.
 
-- **Statistical [Arbitrage](../a/arbitrage.md)**: Uses sophisticated mathematical models to identify [arbitrage](../a/arbitrage.md) opportunities.
+- **Statistical [Arbitrage](../a/arbitrage.md)**: Uses sophisticated [mathematical models](../m/mathematical_models_in_trading.md) to identify [arbitrage](../a/arbitrage.md) opportunities.
 - **Merger [Arbitrage](../a/arbitrage.md)**: Exploits price differences that arise before a merger or acquisition is completed.
 
 ### 4. Market Making
@@ -94,13 +94,13 @@ Cryptocurrency markets are known for their high volatility and are accessible 24
 ### Popular Algorithmic Trading Strategies
 
 - **High-Frequency Trading (HFT)**: Involves making thousands of trades per second, leveraging ultra-low latency and complex algorithms.
-- **[Quantitative Trading](../q/quantitative_trading.md)**: Uses mathematical models to make trading decisions, including statistical [arbitrage](../a/arbitrage.md) and [momentum trading](../m/momentum_trading.md).
-- **Machine Learning Algorithms**: Utilize artificial intelligence to improve and optimize trading strategies over time.
+- **[Quantitative Trading](../q/quantitative_trading.md)**: Uses [mathematical models](../m/mathematical_models_in_trading.md) to make trading decisions, including statistical [arbitrage](../a/arbitrage.md) and [momentum trading](../m/momentum_trading.md).
+- **Machine [Learning Algorithms](../l/learning_algorithms_in_trading.md)**: Utilize [artificial intelligence](../a/artificial_intelligence_in_trading.md) to improve and optimize trading strategies over time.
 
 ## Key Players and Technology Providers
 
 - **Jane Street**: A [quantitative trading](../q/quantitative_trading.md) firm and market maker with expertise in trading, research, and technology. [Jane Street](https://www.janestreet.com/)
-- **Two Sigma**: A hedge fund that applies data science and technology to trading. [Two Sigma](https://www.twosigma.com/)
+- **Two Sigma**: A hedge fund that applies [data science](../d/data_science_in_trading.md) and technology to trading. [Two Sigma](https://www.twosigma.com/)
 - **[AlgoTrader](../a/algotrader.md)**: A trading software company providing institutional-grade [algorithmic trading](../a/algorithmic_trading.md) solutions. [AlgoTrader](https://www.algotrader.com/)
 - **[QuantConnect](../q/quantconnect.md)**: A platform offering cloud-based [algorithmic trading](../a/algorithmic_trading.md) and [backtesting](../b/backtesting.md). [QuantConnect](https://www.quantconnect.com/)
 

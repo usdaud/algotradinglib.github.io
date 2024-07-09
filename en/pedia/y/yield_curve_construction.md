@@ -13,7 +13,7 @@ Types of Yield Curves
 There are three primary types of yield curves:
 1. **Normal [Yield Curve](../y/yield_curve.md)**: This curve is upward sloping, indicating that longer-term bonds have higher yields compared to shorter-term bonds. This shape reflects expectations of economic growth and potential inflation.
 2. **Inverted [Yield Curve](../y/yield_curve.md)**: This downward sloping curve indicates that shorter-term bonds have higher yields compared to longer-term bonds, often a signal of potential economic recession.
-3. **Flat [Yield Curve](../y/yield_curve.md)**: This curve indicates that there is little difference in yield across different maturities, often signaling economic uncertainty or transition.
+3. **Flat [Yield Curve](../y/yield_curve.md)**: This curve indicates that there is little difference in yield across different maturities, often signaling economic [uncertainty](../u/uncertainty_in_trading.md) or transition.
 
 Key Components in [Yield Curve](../y/yield_curve.md) Construction
 ---
@@ -30,7 +30,7 @@ Steps in Constructing a [Yield Curve](../y/yield_curve.md)
 1. **Data Collection**: Gather bond yields and maturities from market sources such as [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), or data provided by exchanges and financial news platforms.
 2. **Selection of Benchmark Securities**: Choose a set of representative bonds, often using government securities due to their low credit risk and high liquidity.
 3. **Calculation of Spot Rates**: Using bootstrapping methods, calculate the spot rates for different maturities.
-4. **Curve Fitting**: Apply spline fitting or a parametric model to the calculated spot rates to create a smooth curve.
+4. **[Curve Fitting](../c/curve_fitting_in_trading.md)**: Apply spline fitting or a parametric model to the calculated spot rates to create a smooth curve.
 5. **Validation and Testing**: Validate the constructed [yield curve](../y/yield_curve.md) by checking its consistency with market data, and perform [backtesting](../b/backtesting.md) to ensure its reliability and accuracy for predictive purposes.
 
 Applications in [Algorithmic Trading](../a/algorithmic_trading.md)

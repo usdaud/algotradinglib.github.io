@@ -28,7 +28,7 @@ The primary goal of options [arbitrage](../a/arbitrage.md) is to generate a risk
 Execution speed is critical in options [arbitrage](../a/arbitrage.md). Since market inefficiencies can be short-lived, quick and precise execution is essential to capitalize on these fleeting opportunities. Modern traders often use [algorithmic trading](../a/algorithmic_trading.md) systems to rapidly execute their [arbitrage](../a/arbitrage.md) strategies.
 
 ### Transaction Costs
-While options [arbitrage](../a/arbitrage.md) aims to be risk-free, transaction costs can erode the profit margins. Fees, commissions, and the [bid-ask spread](../b/bid-ask_spread.md) must all be factored into the strategy. Even small costs can significantly impact the profitability of [arbitrage](../a/arbitrage.md) positions.
+While options [arbitrage](../a/arbitrage.md) aims to be risk-free, transaction costs can erode the [profit margins](../p/profit_margins_in_trading.md). Fees, commissions, and the [bid-ask spread](../b/bid-ask_spread.md) must all be factored into the strategy. Even small costs can significantly impact the profitability of [arbitrage](../a/arbitrage.md) positions.
 
 ### Market Infrastructure
 The efficiency and technology of the trading platform play significant roles in options [arbitrage](../a/arbitrage.md). High-frequency trading firms often employ sophisticated algorithms and infrastructure to beat competing traders to [arbitrage](../a/arbitrage.md) opportunities.
@@ -36,7 +36,7 @@ The efficiency and technology of the trading platform play significant roles in 
 ## Companies Specializing in Options Arbitrage
 
 ### Jane Street
-Jane Street is a global [proprietary trading](../p/proprietary_trading.md) firm that specializes in various forms of [arbitrage](../a/arbitrage.md), including options [arbitrage](../a/arbitrage.md). They utilize advanced quantitative strategies and technology to exploit market inefficiencies. More information about Jane Street can be found on their [official website](https://www.janestreet.com).
+Jane Street is a global [proprietary trading](../p/proprietary_trading.md) firm that specializes in various forms of [arbitrage](../a/arbitrage.md), including options [arbitrage](../a/arbitrage.md). They utilize advanced [quantitative strategies](../q/quantitative_strategies_in_trading.md) and technology to exploit market inefficiencies. More information about Jane Street can be found on their [official website](https://www.janestreet.com).
 
 ### Susquehanna International Group (SIG)
 SIG is another major player in the world of options and [quantitative trading](../q/quantitative_trading.md). They have been known to use options [arbitrage](../a/arbitrage.md) strategies to capitalize on pricing discrepancies in the market. Further details can be found on their [official website](https://www.sig.com).

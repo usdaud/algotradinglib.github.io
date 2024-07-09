@@ -4,7 +4,7 @@
 Social media sentiment, particularly from platforms like Twitter, Facebook, Reddit, and LinkedIn, has increasingly become a critical input in [algorithmic trading](../a/algorithmic_trading.md). The reasoning behind this development is rooted in the fact that social media provides real-time data about public opinion, news, and trends. These sentiments can influence stock prices, market movements, and even the success or failure of individual companies. [Algorithmic trading](../a/algorithmic_trading.md), which relies on [quantitative analysis](../q/quantitative_analysis.md) and automated execution of trades, can harness this unstructured data to achieve better trading outcomes.
 
 ## Understanding Sentiment Analysis
-[Sentiment analysis](../s/sentiment_analysis.md), also known as opinion mining, is a field of natural language processing (NLP) that interprets and classifies emotions (positive, negative, and neutral) within text data. By evaluating social media posts, comments, and interactions, algorithms can gauge the public mood around particular stocks, sectors, or the market as a whole.
+[Sentiment analysis](../s/sentiment_analysis.md), also known as opinion mining, is a field of [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) that interprets and classifies emotions (positive, negative, and neutral) within text data. By evaluating social media posts, comments, and interactions, algorithms can gauge the public mood around particular stocks, sectors, or the market as a whole.
 
 ### Techniques and Tools
 Several machine learning and NLP techniques are employed to analyze social media sentiment:
@@ -44,7 +44,7 @@ Collected data often contain noise that must be filtered out. This preprocessing
 Once the data is cleaned, sentiment scores are calculated. Different algorithms use varied approaches, such as:
 
 - **Lexicon-based Methods:** Use predefined lists of words tagged with sentiment values. VADER is an example of such a method.
-- **Machine Learning Models:** Supervised models trained on annotated datasets (e.g., Support Vector Machines, Naive Bayes).
+- **Machine Learning Models:** Supervised models trained on annotated datasets (e.g., [Support Vector Machines](../s/support_vector_machines_in_trading.md), Naive Bayes).
 
 ### Incorporating Sentiment into Trading Strategies
 The calculated sentiment scores can be included in [trading strategies](../t/trading_strategies.md) in several ways:

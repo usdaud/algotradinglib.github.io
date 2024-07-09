@@ -41,7 +41,7 @@ Effective [risk management](../r/risk_management.md) can include the following t
 
 3. **[Stop-Loss Orders](../s/stop-loss_orders.md):** Setting predefined levels to automatically exit a position and limit potential losses.
 
-4. **Stress Testing:** Simulating extreme market conditions to evaluate how a portfolio performs under adverse scenarios.
+4. **[Stress Testing](../s/stress_testing_in_trading.md):** Simulating extreme market conditions to evaluate how a portfolio performs under adverse scenarios.
 
 5. **[Position Sizing](../p/position_sizing.md):** Determining the optimal size for each trade to balance potential returns against acceptable risk.
 
@@ -64,7 +64,7 @@ Programmatic access to [risk management](../r/risk_management.md) tools is facil
 - **ccxt:** A cryptocurrency trading library for managing risks across multiple exchanges using Python and JavaScript (https://github.com/ccxt/ccxt).
 
 ### Machine Learning and AI
-Machine Learning (ML) and Artificial Intelligence (AI) are increasingly utilized for advanced [risk management](../r/risk_management.md). ML algorithms can analyze large datasets to identify patterns and predict risks more accurately than traditional methods.
+Machine Learning (ML) and [Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) are increasingly utilized for advanced [risk management](../r/risk_management.md). ML algorithms can analyze large datasets to identify patterns and predict risks more accurately than traditional methods.
 
 ## Real-World Applications
 

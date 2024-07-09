@@ -75,7 +75,7 @@ While Gann Theory provides a comprehensive and holistic approach to [market fore
 
 ### Modern Use
 
-Despite these challenges, modern traders and analysts continue to use Gann Theory. Software tools and platforms have been developed to assist in constructing [Gann Angles](../g/gann_angles.md), Squares of Nine, and other geometric figures, making it more accessible to contemporary traders.
+Despite these challenges, modern traders and analysts continue to use Gann Theory. [Software tools](../s/software_tools_for_trading.md) and platforms have been developed to assist in constructing [Gann Angles](../g/gann_angles.md), Squares of Nine, and other geometric figures, making it more accessible to contemporary traders.
 
 Users of Gann Theory can integrate it with other [technical analysis](../t/technical_analysis.md) methods to validate their predictions and enhance their [trading strategies](../t/trading_strategies.md).
 

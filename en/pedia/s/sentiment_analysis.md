@@ -1,11 +1,11 @@
 # Sentiment Analysis
 
-Sentiment analysis, also known as opinion mining, is a subfield of natural language processing (NLP) that entails determining the sentiments or opinions behind a series of texts. In the context of [algorithmic trading](../a/algorithmic_trading.md), sentiment analysis involves analyzing large volumes of textual data such as news articles, tweets, and financial reports to gauge the market sentiment and make informed trading decisions. This technology has gained immense popularity as financial markets are highly influenced by investor sentiment, news events, and social media chatter.
+Sentiment analysis, also known as opinion mining, is a subfield of [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) that entails determining the sentiments or opinions behind a series of texts. In the context of [algorithmic trading](../a/algorithmic_trading.md), sentiment analysis involves analyzing large volumes of textual data such as news articles, tweets, and financial reports to gauge the market sentiment and make informed trading decisions. This technology has gained immense popularity as financial markets are highly influenced by investor sentiment, news events, and social media chatter.
 
 ## Basic Concepts
 
 ### Sentiment Analysis
-Sentiment analysis refers to the computational study of people's opinions, sentiments, attitudes, and emotions through natural language processing, text analysis, and computational linguistics. It gauges the tone and sentiment expressed in text, usually categorizing them as positive, negative, or neutral. More advanced systems may assign a sentiment score on a probabilistic scale, such as from -1 (extremely negative) to +1 (extremely positive).
+Sentiment analysis refers to the computational study of people's opinions, sentiments, attitudes, and emotions through [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md), text analysis, and computational linguistics. It gauges the tone and sentiment expressed in text, usually categorizing them as positive, negative, or neutral. More advanced systems may assign a sentiment score on a probabilistic scale, such as from -1 (extremely negative) to +1 (extremely positive).
 
 ### Algorithmic Trading
 [Algorithmic trading](../a/algorithmic_trading.md) involves using automated systems to conduct trades in the financial markets based on pre-set criteria. These algorithms can be based on a multitude of factors including [technical analysis](../t/technical_analysis.md), [fundamental analysis](../f/fundamental_analysis.md), and increasingly, sentiment analysis. The goal is to identify [arbitrage](../a/arbitrage.md) opportunities, execute trades at optimal times, and manage risks efficiently while minimizing human intervention and emotional bias.
@@ -24,7 +24,7 @@ Common data sources for sentiment analysis in trading include news articles, soc
 NLP techniques are employed to parse and interpret human language data. This involves tokenization, part-of-speech tagging, named entity recognition, and sentiment classification.
 
 ### Machine Learning Algorithms
-Machine learning algorithms such as Support Vector Machines (SVM), Random Forests, and Deep Learning models like Recurrent Neural Networks (RNN) and Convolutional Neural Networks (CNN) are often employed for sentiment analysis. These models are trained on large datasets to accurately predict sentiment.
+Machine [learning algorithms](../l/learning_algorithms_in_trading.md) such as [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM), [Random Forests](../r/random_forests_in_trading.md), and Deep Learning models like Recurrent [Neural Networks](../n/neural_networks_in_trading.md) (RNN) and Convolutional [Neural Networks](../n/neural_networks_in_trading.md) (CNN) are often employed for sentiment analysis. These models are trained on large datasets to accurately predict sentiment.
 
 ### Preprocessing
 Preprocessing steps include:

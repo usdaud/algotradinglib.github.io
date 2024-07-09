@@ -25,7 +25,7 @@ The magnitude of the stock price movement depends on the size of the earnings su
 
 - **News-based Algorithms**: These algorithms scan news feeds and earnings reports in real-time, executing trades based on whether the earnings report beats, meets, or misses expectations.
 
-- **Statistical [Arbitrage](../a/arbitrage.md)**: This involves mathematical models that forecast stocks' returns based on historical data, including past earnings surprises. Statistical [arbitrage](../a/arbitrage.md) strategies may take advantage of transient mispricings in the aftermath of an earnings surprise.
+- **Statistical [Arbitrage](../a/arbitrage.md)**: This involves [mathematical models](../m/mathematical_models_in_trading.md) that forecast stocks' returns based on historical data, including past earnings surprises. Statistical [arbitrage](../a/arbitrage.md) strategies may take advantage of transient mispricings in the aftermath of an earnings surprise.
 
 - **Event-Driven Algorithms**: These algorithms are programmed to identify and trade around specific events—such as [earnings announcements](../e/earnings_announcements.md)—that are likely to have a significant impact on stock prices.
 
@@ -53,7 +53,7 @@ Various tools and platforms are available for creating and deploying [algorithmi
 Several factors can contribute to an earnings surprise, including:
 
 ### Internal Factors
-- **Operational Efficiency**: Improvements in operations can lead to lower costs and higher earnings.
+- **[Operational Efficiency](../o/operational_efficiency_in_trading.md)**: Improvements in operations can lead to lower costs and higher earnings.
 - **Revenue Growth**: Unexpected increases in sales can contribute to a positive earnings surprise.
 - **Cost Management**: Better-than-expected cost management can also lead to earnings exceeding expectations.
 

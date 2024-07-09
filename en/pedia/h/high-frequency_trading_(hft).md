@@ -22,7 +22,7 @@ The technical landscape of HFT is incredibly complex and constitutes several key
 
 ### 2.2 Software
 
-- **Algorithms**: Mathematical models programmed to analyze market trends, execute orders, and manage risk.
+- **Algorithms**: [Mathematical models](../m/mathematical_models_in_trading.md) programmed to analyze market trends, execute orders, and manage risk.
 - **Execution Engines**: Software that places trades at the optimal time and price.
 - **Market Data Feed Handlers**: Tools that process [real-time market data](../r/real-time_market_data.md) for immediate decision-making.
 
@@ -33,7 +33,7 @@ The technical landscape of HFT is incredibly complex and constitutes several key
 
 ## 3. Strategies Employed in HFT
 
-HFT strategies are varied and complex, employing mathematical models and statistical techniques. Some key strategies include:
+HFT strategies are varied and complex, employing [mathematical models](../m/mathematical_models_in_trading.md) and statistical techniques. Some key strategies include:
 
 ### 3.1 Market Making
 
@@ -106,8 +106,8 @@ Technological advancements and evolving regulations shape the future of HFT:
 
 ### 7.1 Technology
 
-- **Quantum Computing**: Potential to revolutionize computational efficiency and speed in HFT algorithms.
-- **AI and Machine Learning**: Enhanced predictive models and [adaptive algorithms](../a/adaptive_algorithms.md) could offer a competitive edge.
+- **[Quantum Computing](../q/quantum_computing_in_trading.md)**: Potential to revolutionize computational efficiency and speed in HFT algorithms.
+- **AI and Machine Learning**: Enhanced [predictive models](../p/predictive_models_in_trading.md) and [adaptive algorithms](../a/adaptive_algorithms.md) could offer a competitive edge.
 
 ### 7.2 Regulation
 

@@ -55,7 +55,7 @@ Where:
 Volatility-Based [Position Sizing](../p/position_sizing.md) adjusts position sizes based on market volatility. The idea is to risk a consistent dollar amount per trade by varying the position size inversely with the market’s volatility.
 
 ### Calculation:
-1. Determine the volatility measure (e.g., Average True Range - ATR).
+1. Determine the volatility measure (e.g., [Average True Range](../a/average_true_range_(atr).md) - ATR).
 2. Decide on the dollar amount (or percentage) risked per trade.
 3. Divide the capital at risk by the volatility measure to get the position size.
 

@@ -25,7 +25,7 @@ Autoregressive (AR) models are utilized to capture the time series characteristi
 Generalized Autoregressive Conditional Heteroskedasticity (GARCH) models are employed to model and predict the volatility of asset returns where [market microstructure](../m/market_microstructure.md) noise is present. These models account for time-varying volatility (heteroskedasticity), which is an inherent feature of high frequency trading data influenced by microstructure noise.
 
 ### Kalman Filter
-The Kalman filter is a powerful tool in signal processing and estimation theory, and it is used to filter out the noise from observed price series. In the context of [market microstructure](../m/market_microstructure.md), this filter can be applied to estimate the underlying true price of an asset from noisy observations by recursively updating estimates and minimizing the [mean squared error](../m/mean_squared_error.md).
+The [Kalman filter](../k/kalman_filter_in_trading.md) is a powerful tool in [signal processing](../s/signal_processing_in_trading.md) and estimation theory, and it is used to filter out the noise from observed price series. In the context of [market microstructure](../m/market_microstructure.md), this filter can be applied to estimate the underlying true price of an asset from noisy observations by recursively updating estimates and minimizing the [mean squared error](../m/mean_squared_error.md).
 
 ## Implications for Trading and Investment Strategies
 

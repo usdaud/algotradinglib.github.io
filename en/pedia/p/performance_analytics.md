@@ -47,7 +47,7 @@ The [Information Ratio](../i/information_ratio.md) evaluates the performance of 
 Walk-Forward Analysis involves testing a trading strategy on a segment of historical data, then rolling the testing window forward and repeating the process. This methodology helps in understanding the robustness and adaptability of the strategy.
 
 ### 3. Monte Carlo Simulations
-Monte Carlo Simulations involve generating random samples to model the probability of different outcomes in a trading strategy, helping to measure risk and uncertainty.
+Monte Carlo Simulations involve generating random samples to model the probability of different outcomes in a trading strategy, helping to measure risk and [uncertainty](../u/uncertainty_in_trading.md).
 
 ### 4. Sensitivity Analysis
 Sensitivity Analysis examines how the output of a trading strategy varies with changes in input parameters. This helps to identify critical factors that have a significant impact on performance.
@@ -57,7 +57,7 @@ Sensitivity Analysis examines how the output of a trading strategy varies with c
 
 ## Tools and Software
 
-Several tools and software platforms facilitate performance analytics in [algorithmic trading](../a/algorithmic_trading.md):
+Several tools and [software platforms](../s/software_platforms_for_trading.md) facilitate performance analytics in [algorithmic trading](../a/algorithmic_trading.md):
 
 ### 1. **QuantConnect**
 [QuantConnect](../q/quantconnect.md) is an [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools for [backtesting](../b/backtesting.md), live trading, and performance analytics. It supports multiple programming languages like C#, Python, and F#. [QuantConnect](https://www.quantconnect.com/)
@@ -83,7 +83,7 @@ Python has increasingly become popular for [algorithmic trading](../a/algorithmi
 Renaissance Technologies is a renowned quantitative hedge fund known for its Medallion Fund, which has consistently outperformed markets. The firm uses advanced performance analytics to continuously refine its [trading algorithms](../t/trading_algorithms.md). [Renaissance Technologies](https://www.rentec.com/)
 
 ### 2. Two Sigma
-Two Sigma is another global financial technology firm that applies data science and performance analytics to develop [trading strategies](../t/trading_strategies.md). Their approach focuses on rigorous statistical analysis and machine learning. [Two Sigma](https://www.twosigma.com/)
+Two Sigma is another global financial technology firm that applies [data science](../d/data_science_in_trading.md) and performance analytics to develop [trading strategies](../t/trading_strategies.md). Their approach focuses on rigorous statistical analysis and machine learning. [Two Sigma](https://www.twosigma.com/)
 
 ### 3. D.E. Shaw & Co.
 D.E. Shaw & Co. utilizes quantitative and computational techniques for investment management. The firm’s emphasis on performance analytics has been key to its sustained success in the industry. [D.E. Shaw](https://www.deshaw.com/)

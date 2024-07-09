@@ -20,7 +20,7 @@ When interest rates are at the ZLB, several economic phenomena can occur:
 ### Impact on Financial Markets
 Markets adapt to the new economic conditions under the ZLB:
 - **Risk Appetite**: Investors may chase riskier assets to achieve desired returns since safe assets yield minimal returns.
-- **Volatility**: Financial markets may experience increased volatility due to uncertainty and unconventional monetary policies.
+- **Volatility**: Financial markets may experience increased volatility due to [uncertainty](../u/uncertainty_in_trading.md) and unconventional monetary policies.
 - **Asset Bubbles**: Low interest rates can lead to the formation of asset bubbles as investors seek higher yields in riskier investments.
 
 ### Strategies for Algorithmic Trading
@@ -51,7 +51,7 @@ Algorithmic traders need to consider several strategies and adjustments when ope
 - Employing dynamic leverage strategies that adjust based on market conditions and volatility measures.
 
 ### Machine Learning and Artificial Intelligence
-Advanced [algorithmic trading](../a/algorithmic_trading.md) employs machine learning (ML) and artificial intelligence (AI) to adapt to ZLB conditions:
+Advanced [algorithmic trading](../a/algorithmic_trading.md) employs machine learning (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) to adapt to ZLB conditions:
 - **[Predictive Analytics](../p/predictive_analytics.md)**: Using ML models to predict future market movements based on historical data and emerging trends.
 - **[Adaptive Algorithms](../a/adaptive_algorithms.md)**: Developing algorithms that can adjust their strategies dynamically in response to changing market conditions.
 - **[Behavioral Finance](../b/behavioral_finance.md)**: Incorporating [behavioral finance](../b/behavioral_finance.md) principles to understand and predict investor behavior under ZLB.

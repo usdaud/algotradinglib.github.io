@@ -44,7 +44,7 @@ Changes in open interest provide deeper insights into market dynamics. By analyz
 
 ## Role of Open Interest in Algorithmic Trading
 
-[Algorithmic trading](../a/algorithmic_trading.md) leverages mathematical models and statistical methods to execute trades at high speeds and frequencies. Open interest is a critical component in developing these algorithms, as it provides an additional layer of market depth and [sentiment analysis](../s/sentiment_analysis.md).
+[Algorithmic trading](../a/algorithmic_trading.md) leverages [mathematical models](../m/mathematical_models_in_trading.md) and statistical methods to execute trades at high speeds and frequencies. Open interest is a critical component in developing these algorithms, as it provides an additional layer of market depth and [sentiment analysis](../s/sentiment_analysis.md).
 
 ### Developing Algorithms with Open Interest
 

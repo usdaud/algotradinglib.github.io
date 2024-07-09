@@ -17,7 +17,7 @@ A positive correlation indicates that as one variable increases, the other also 
 In [algorithmic trading](../a/algorithmic_trading.md), understanding and leveraging the historical correlation between different assets can be pivotal for several reasons:
 
 - **Diversification**: Identifying assets with low or negative correlations to include in a portfolio can reduce risk through diversification.
-- **[Predictive Modeling](../p/predictive_modeling.md)**: Highly correlated assets can be used in predictive models where the movement of one asset can indicate potential movements of another.
+- **[Predictive Modeling](../p/predictive_modeling.md)**: Highly correlated assets can be used in [predictive models](../p/predictive_models_in_trading.md) where the movement of one asset can indicate potential movements of another.
 - **Hedging**: Traders might hedge their positions by taking offsetting positions in negatively correlated assets.
 
 ## Methods of Correlation Analysis

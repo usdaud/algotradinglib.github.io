@@ -5,7 +5,7 @@ Floating Rate Notes (FRNs), also known as floaters, are a type of bond with vari
 ## Key Characteristics of Floating Rate Notes
 
 ### 1. **Interest Rate Structure**
-FRNs have an interest rate structure that is typically comprised of a reference rate plus a fixed spread. For instance, if a bond's terms specify a reference rate of LIBOR + 1%, and the current LIBOR rate is 2%, the interest payment rate for the period would be 3%.
+FRNs have an interest rate structure that is typically comprised of a reference rate plus a fixed spread. For instance, if a bond's terms specify a reference rate of LIBOR + 1%, and the current [LIBOR rate](../l/libor_rate_analysis.md) is 2%, the interest payment rate for the period would be 3%.
 
 ### 2. **Reference Rates**
 Common reference rates for FRNs include:

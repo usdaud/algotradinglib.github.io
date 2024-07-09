@@ -34,7 +34,7 @@ The application of KRD in algo-trading revolves around creating algorithms that 
 
 3. **Optimization**: Algorithms can use KRD to optimize a bond portfolio's risk-return profile. This helps in achieving a more [efficient frontier](../e/efficient_frontier.md) by understanding which key rates impact the portfolio most and adjusting holdings accordingly.
 
-4. **Stress Testing**: Algorithms can simulate different interest rate scenarios by adjusting key rates and observing the impact on the portfolio, thus providing a robust framework for stress testing.
+4. **[Stress Testing](../s/stress_testing_in_trading.md)**: Algorithms can simulate different interest rate scenarios by adjusting key rates and observing the impact on the portfolio, thus providing a robust framework for [stress testing](../s/stress_testing_in_trading.md).
 
 ### Practical Use Case: Bond Portfolio Management
 
@@ -53,7 +53,7 @@ Several financial institutions and fintech companies have integrated KRD into th
    [Jane Street](https://www.janestreet.com/) is known for its [quantitative trading](../q/quantitative_trading.md) strategies that often involve intricate interest rate [derivatives](../d/derivatives.md) and a deep understanding of bond market mechanisms, including KRD.
 
 2. **Two Sigma**  
-   [Two Sigma](https://www.twosigma.com/) leverages data science and engineering to drive its investment strategies. They use KRD among other tools to refine their bond and derivative [trading algorithms](../t/trading_algorithms.md).
+   [Two Sigma](https://www.twosigma.com/) leverages [data science](../d/data_science_in_trading.md) and engineering to drive its investment strategies. They use KRD among other tools to refine their bond and derivative [trading algorithms](../t/trading_algorithms.md).
 
 3. **Citadel Securities**  
    [Citadel Securities](https://www.citadelsecurities.com/) employs sophisticated [risk management](../r/risk_management.md) techniques, and KRD is crucial for assessing and mitigating interest rate risk in their [algorithmic trading](../a/algorithmic_trading.md) operations.

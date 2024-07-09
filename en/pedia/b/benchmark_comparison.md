@@ -16,7 +16,7 @@ A benchmark, in financial parlance, is a standard or point of reference against 
 
 3. **Peer Group Benchmarks**: These benchmarks compare performance against a group of peers with similar investment strategies or objectives.
 
-4. **Risk-adjusted Benchmarks**: These incorporate risk factors and utilize metrics like the [Sharpe Ratio](../s/sharpe_ratio.md) or the [Sortino Ratio](../s/sortino_ratio.md) to offer a more nuanced performance comparison.
+4. **Risk-adjusted Benchmarks**: These incorporate [risk factors](../r/risk_factors_in_trading.md) and utilize metrics like the [Sharpe Ratio](../s/sharpe_ratio.md) or the [Sortino Ratio](../s/sortino_ratio.md) to offer a more nuanced performance comparison.
 
 ### Importance in Algorithmic Trading
 In [algorithmic trading](../a/algorithmic_trading.md), benchmark comparison is vital due to the automated and quantitative nature of [trading strategies](../t/trading_strategies.md). Key reasons include:
@@ -52,7 +52,7 @@ Below are examples of firms that offer robust tools for benchmarking in [algorit
 4. **Heterogeneity of Strategies**: Diverse algorithmic strategies may require multiple benchmarks for a holistic performance view.
 
 ### Advanced Techniques in Benchmark Comparison
-1. **Machine Learning Models**: Using predictive models to compare and optimize algorithm performance relative to benchmarks.
+1. **Machine Learning Models**: Using [predictive models](../p/predictive_models_in_trading.md) to compare and optimize algorithm performance relative to benchmarks.
 2. **[Factor Analysis](../f/factor_analysis.md)**: Decomposing returns into various factors such as momentum, value, or volatility to see how much of the algorithm's performance is attributable to these factors.
 3. **Event Studies**: Assessing the impact of specific market events on the performance of algorithms relative to benchmarks.
 

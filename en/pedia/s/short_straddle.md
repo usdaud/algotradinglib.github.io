@@ -93,7 +93,7 @@ Short straddles are often used by experienced traders and institutional investor
 Several fintech companies and brokerages provide platforms that support advanced [options trading strategies](../o/options_trading_strategies.md), including short straddles:
 
 - **[Thinkorswim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md)**: Offers robust tools for options analysis and strategy execution. [Thinkorswim](https://www.thinkorswim.com/)
-- **Interactive Brokers**: Provides extensive options trading capabilities with a focus on professional traders. [Interactive Brokers](https://www.interactivebrokers.com/)
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Provides extensive options trading capabilities with a focus on professional traders. [Interactive Brokers](https://www.interactivebrokers.com/)
 - **Tastyworks**: Known for its options trading platform and educational resources. [Tastyworks](https://www.tastyworks.com/)
 
 ## Conclusion

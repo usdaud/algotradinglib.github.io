@@ -1,6 +1,6 @@
 # Volatility Risk Premium
 
-[Volatility Risk](../v/volatility_risk.md) Premium (VRP) is a concept widely studied and utilized in the sphere of financial markets, particularly in the context of options trading and [algorithmic trading](../a/algorithmic_trading.md) (or "algo-trading"). It represents the compensation that investors receive for taking on the risk associated with the uncertainty of price movements in the financial markets. VRP arises from the difference between the [realized volatility](../r/realized_volatility.md) of a financial asset and the implied volatility, which is derived from the prices of options on that asset. This concept is pivotal for traders who engage in strategies to exploit the difference between these two measures of volatility.
+[Volatility Risk](../v/volatility_risk.md) Premium (VRP) is a concept widely studied and utilized in the sphere of financial markets, particularly in the context of options trading and [algorithmic trading](../a/algorithmic_trading.md) (or "algo-trading"). It represents the compensation that investors receive for taking on the risk associated with the [uncertainty](../u/uncertainty_in_trading.md) of price movements in the financial markets. VRP arises from the difference between the [realized volatility](../r/realized_volatility.md) of a financial asset and the implied volatility, which is derived from the prices of options on that asset. This concept is pivotal for traders who engage in strategies to exploit the difference between these two measures of volatility.
 
 ## Understanding Volatility
 
@@ -26,7 +26,7 @@ Historically, market participants have been willing to pay a premium for options
 The existence of the [Volatility Risk](../v/volatility_risk.md) Premium can be explained by various theoretical frameworks in finance and economics, most notably those involving risk aversion and market frictions. 
 
 1. **Risk Aversion**: Investors are generally risk-averse, meaning they prefer a certain outcome over an uncertain one. This aversion to risk drives them to pay a premium for financial instruments that offer protection against potential price fluctuations (i.e., options). This ‘premium’ manifests itself as a higher implied volatility compared to the [realized volatility](../r/realized_volatility.md).
-2. **Market Frictions and Behavioral Factors**: Transaction costs, liquidity concerns, and behavioral biases may also play roles in the presence of VRP. For instance, during periods of market stress, investors may irrationally demand more protection, driving up the cost of options and hence the implied volatility.
+2. **Market Frictions and Behavioral Factors**: Transaction costs, liquidity concerns, and [behavioral biases](../b/behavioral_biases_in_trading.md) may also play roles in the presence of VRP. For instance, during periods of market stress, investors may irrationally demand more protection, driving up the cost of options and hence the implied volatility.
 
 ## Practical Applications in Algo-Trading
 

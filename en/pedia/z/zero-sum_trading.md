@@ -48,7 +48,7 @@ The awareness that gains are directly associated with someone else's losses can 
 
 ### Strategic Depth
 
-Traders often develop complex strategies to navigate zero-sum markets effectively. This includes [technical analysis](../t/technical_analysis.md), [fundamental analysis](../f/fundamental_analysis.md), and leveraging advanced mathematical models to predict market movements.
+Traders often develop complex strategies to navigate zero-sum markets effectively. This includes [technical analysis](../t/technical_analysis.md), [fundamental analysis](../f/fundamental_analysis.md), and leveraging advanced [mathematical models](../m/mathematical_models_in_trading.md) to predict market movements.
 
 ## Examples of Zero-Sum Trading Strategies
 

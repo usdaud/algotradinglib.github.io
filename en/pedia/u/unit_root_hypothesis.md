@@ -1,6 +1,6 @@
 # Unit Root Hypothesis
 
-The Unit Root Hypothesis is a concept in [time series analysis](../t/time_series_analysis.md) that has profound implications for econometrics, especially in the analysis of financial data and [time series forecasting](../t/time_series_forecasting.md). It proposes that a time series possessing a unit root is non-stationary but can be transformed into a stationary series by differencing. Understanding and testing for unit roots is crucial in developing robust [trading algorithms](../t/trading_algorithms.md) and making accurate forecasts in [algorithmic trading](../a/algorithmic_trading.md) (or algo-trading).
+The Unit Root Hypothesis is a concept in [time series analysis](../t/time_series_analysis.md) that has profound implications for [econometrics](../e/econometrics_in_trading.md), especially in the analysis of financial data and [time series forecasting](../t/time_series_forecasting.md). It proposes that a time series possessing a unit root is non-stationary but can be transformed into a stationary series by differencing. Understanding and testing for unit roots is crucial in developing robust [trading algorithms](../t/trading_algorithms.md) and making accurate forecasts in [algorithmic trading](../a/algorithmic_trading.md) (or algo-trading).
 
 ## Definition of Unit Root
 
@@ -10,7 +10,7 @@ A unit root in a time series refers to a characteristic where the value at a pre
 
 where:
 - \( | \rho | = 1 \)
-- \( \epsilon_t \) represents a white noise error term.
+- \( \epsilon_t \) represents a [white noise](../w/white_noise_in_trading.md) error term.
 
 When \(\rho = 1\), it suggests that shocks to the time series have a permanent effect.
 
@@ -92,7 +92,7 @@ Python’s `statsmodels` and `arch` libraries offer comprehensive functions for 
 
 ### 3. **MATLAB**
 
-MATLAB’s Econometrics Toolbox includes functions like `adftest` and `kpsstest` for unit root tests.
+MATLAB’s [Econometrics](../e/econometrics_in_trading.md) Toolbox includes functions like `adftest` and `kpsstest` for unit root tests.
 
 ## Conclusion
 

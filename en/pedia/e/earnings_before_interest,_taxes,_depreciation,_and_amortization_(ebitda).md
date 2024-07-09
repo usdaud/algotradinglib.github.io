@@ -27,7 +27,7 @@ EBITDA = EBIT + Depreciation + Amortization
    - It allows for more straightforward comparisons between companies, particularly those differing in structure, taxation, or capital expenditure levels.
 
 ### 3. **Investment Decisions**
-   - Investors use EBITDA to gauge a company’s profitability potential and to compare companies in terms of operational efficiency.
+   - Investors use EBITDA to gauge a company’s profitability potential and to compare companies in terms of [operational efficiency](../o/operational_efficiency_in_trading.md).
 
 ### 4. **Credit Analysis**
    - Lenders and bondholders might consider EBITDA to assess the ability of a company to pay back its loans.
@@ -39,7 +39,7 @@ EBITDA = EBIT + Depreciation + Amortization
 
 ### Pros:
    - **Simplicity**: Easy to calculate and understand.
-   - **Focus on Operations**: Excludes non-operating expenses, offering a pure look at operational efficiency.
+   - **Focus on Operations**: Excludes non-operating expenses, offering a pure look at [operational efficiency](../o/operational_efficiency_in_trading.md).
    - **Comparability**: Useful in comparing companies across industries.
 
 ### Cons:
@@ -50,7 +50,7 @@ EBITDA = EBIT + Depreciation + Amortization
 ## Real-world Applications of EBITDA
 
 1. **Amazon**
-   - Amazon uses EBITDA consistently in its financial reports to provide insight into its operational efficiency. This allows investors and analysts to focus on its operational performance, which might otherwise be clouded by massive capital expenditures in technology and infrastructure.
+   - Amazon uses EBITDA consistently in its financial reports to provide insight into its [operational efficiency](../o/operational_efficiency_in_trading.md). This allows investors and analysts to focus on its operational performance, which might otherwise be clouded by massive capital expenditures in technology and infrastructure.
 
 2. **Netflix**
    - Streaming giant Netflix often reports EBITDA as it helps highlight its operating performance independent of its significant debt interest payments and tax structure which vary widely due to international operations.

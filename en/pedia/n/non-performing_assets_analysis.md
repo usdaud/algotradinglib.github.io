@@ -77,7 +77,7 @@ Machine learning models can identify patterns in borrower behavior, which may in
 Automated decision-making processes can be programmed to take specific actions when certain risk thresholds are met, such as initiating early intervention measures or adjusting loan terms.
 
 ### Tools and Software
-There are specialized tools and software platforms used by algo trading firms for NPA management:
+There are specialized tools and [software platforms](../s/software_platforms_for_trading.md) used by algo trading firms for NPA management:
 
 - **nCino**: Provides cloud-based banking solutions, including loan origination and NPA management. [Website](https://www.ncino.com/)
 - **Temenos**: Offers banking software that includes modules for loan origination, credit risk, and NPA management. [Website](https://www.temenos.com/)

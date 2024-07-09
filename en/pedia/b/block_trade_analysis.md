@@ -20,7 +20,7 @@ Several prominent dark pool operators include [Liquidnet](https://www.liquidnet.
 
 ### Algorithmic Trading
 
-[Algorithmic trading](../a/algorithmic_trading.md) employs advanced mathematical models and software to execute block trades. These algorithms are designed to break down the large orders into smaller, manageable trades that can be executed over time or across various trading venues. This technique is often referred to as ‘Order Slicing’.
+[Algorithmic trading](../a/algorithmic_trading.md) employs advanced [mathematical models](../m/mathematical_models_in_trading.md) and software to execute block trades. These algorithms are designed to break down the large orders into smaller, manageable trades that can be executed over time or across various trading venues. This technique is often referred to as ‘Order Slicing’.
 
 One common execution algorithm used in this context is the Volume-Weighted Average Price (VWAP) algorithm, which aims to execute the trade at prices close to the average trading price over a specific period. Companies like [Goldman Sachs](https://www.goldmansachs.com/) and [Morgan Stanley](https://www.morganstanley.com/) provide bespoke [algorithmic trading](../a/algorithmic_trading.md) services tailored for block trades.
 
@@ -80,6 +80,6 @@ In 2015, Glencore PLC executed a significant block trade to raise $2.5 billion a
 The evolution of technology and market infrastructure continuously shapes the landscape of block trading:
 
 1. **AI and Machine Learning**: Enhanced algorithms utilizing AI and machine learning are expected to further refine the execution of block trades, reducing market impact and improving efficiency.
-2. **Blockchain Technology**: Blockchain offers potential enhancements in transparency and security for executing and settling block trades.
+2. **[Blockchain](../b/blockchain_in_trading.md) Technology**: [Blockchain](../b/blockchain_in_trading.md) offers potential enhancements in transparency and security for executing and settling block trades.
 
 In conclusion, block trade analysis is integral to understanding the broader implications of large trades in financial markets. Through sophisticated strategies, technological advancements, and stringent regulatory frameworks, their execution continues to evolve, providing both challenges and opportunities for market participants.

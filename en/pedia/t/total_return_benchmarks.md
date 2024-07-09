@@ -83,7 +83,7 @@ Incorporating dividends and interest income accurately can be complex, particula
 
 ### Integration of AI and ML
 
-With advancements in Artificial Intelligence (AI) and Machine Learning (ML), algorithms are becoming more adept at recognizing patterns and predicting complete returns, thus optimizing strategies even further against total return benchmarks.
+With advancements in [Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning (ML), algorithms are becoming more adept at recognizing patterns and predicting complete returns, thus optimizing strategies even further against total return benchmarks.
 
 ### Granular Benchmarks
 

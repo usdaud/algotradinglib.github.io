@@ -51,7 +51,7 @@ Capital structure [arbitrage](../a/arbitrage.md) revolves around exploiting pric
 ### Identifying Arbitrage Opportunities
 
 1. **Data Analysis:** Utilizing historical and real-time data to spot price discrepancies.
-2. **Statistical Models:** Using mathematical models and algorithms to detect [arbitrage](../a/arbitrage.md) opportunities.
+2. **Statistical Models:** Using [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to detect [arbitrage](../a/arbitrage.md) opportunities.
 3. **Market Intelligence:** Staying informed about market conditions, credit events, and [economic indicators](../e/economic_indicators.md).
 
 ### Executing Arbitrage Strategies

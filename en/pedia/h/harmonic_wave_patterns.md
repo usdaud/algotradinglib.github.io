@@ -1,6 +1,6 @@
 # Harmonic Wave Patterns
 
-Harmonic wave patterns are a set of specific price movements that repeatedly occur in financial markets. These patterns are identified using Fibonacci retracement and extension levels. Harmonic trading, developed by Scott Carney in the late 1990s, is based on the idea that market movements are harmonic in nature and that they conform to specific patterns dictated by Fibonacci ratios. [Harmonic patterns](../h/harmonic_patterns.md) are predictive by nature, as opposed to reactive, offering traders an advance warning of a potential reversal in price. 
+Harmonic [wave patterns](../w/wave_patterns_in_trading.md) are a set of specific price movements that repeatedly occur in financial markets. These patterns are identified using Fibonacci retracement and extension levels. Harmonic trading, developed by Scott Carney in the late 1990s, is based on the idea that market movements are harmonic in nature and that they conform to specific patterns dictated by Fibonacci ratios. [Harmonic patterns](../h/harmonic_patterns.md) are predictive by nature, as opposed to reactive, offering traders an advance warning of a potential reversal in price. 
 
 ## Introduction to Harmonic Patterns
 
@@ -74,7 +74,7 @@ Several algorithms can be used to recognize and trade [harmonic patterns](../h/h
 [Pattern recognition](../p/pattern_recognition.md) algorithms play a crucial role in detecting [harmonic patterns](../h/harmonic_patterns.md). These algorithms scan historical price data for specific Fibonacci retracements and extensions.
 
 *Examples of [Pattern Recognition](../p/pattern_recognition.md) Libraries:*
-- **Harmonic Pattern Scanner**: Software tools like the harmonic pattern scanner employ sophisticated algorithms to detect [harmonic patterns](../h/harmonic_patterns.md) in real-time.
+- **Harmonic Pattern Scanner**: [Software tools](../s/software_tools_for_trading.md) like the harmonic pattern scanner employ sophisticated algorithms to detect [harmonic patterns](../h/harmonic_patterns.md) in real-time.
 
 ### Backtesting Harmonic Patterns
 
@@ -103,5 +103,5 @@ Various financial institutions and trading firms leverage [harmonic patterns](..
 
 ## Conclusion
 
-Harmonic wave patterns offer a structured and predictive approach to trading by utilizing the natural mathematical relationships found in Fibonacci sequences. Their integration into [algorithmic trading](../a/algorithmic_trading.md) can potentially enhance trading efficiency and profitability. As with any trading methodology, the key to success with [harmonic patterns](../h/harmonic_patterns.md) lies in rigorous [backtesting](../b/backtesting.md), continuous monitoring, and disciplined [risk management](../r/risk_management.md).
+Harmonic [wave patterns](../w/wave_patterns_in_trading.md) offer a structured and predictive approach to trading by utilizing the natural mathematical relationships found in Fibonacci sequences. Their integration into [algorithmic trading](../a/algorithmic_trading.md) can potentially enhance trading efficiency and profitability. As with any trading methodology, the key to success with [harmonic patterns](../h/harmonic_patterns.md) lies in rigorous [backtesting](../b/backtesting.md), continuous monitoring, and disciplined [risk management](../r/risk_management.md).
 

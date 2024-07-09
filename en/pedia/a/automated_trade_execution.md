@@ -13,7 +13,7 @@ Automated trade execution is a technological process wherein trading orders are 
 [Trading algorithms](../t/trading_algorithms.md) are coded strategies that automatically execute trades based on predefined rules and conditions. These might involve [technical analysis](../t/technical_analysis.md), statistical models, or machine learning methods to predict price movements. [Trading algorithms](../t/trading_algorithms.md) can range from simple (e.g., [moving average crossovers](../m/moving_average_crossovers.md)) to highly complex strategies.
 
 ### 3. **Order Management Systems (OMS)**
-An Order Management System is a software application that facilitates and manages the entire order life cycle. It ensures that orders are executed at the best possible prices and provides essential functionalities such as order matching, execution, and trade validation.
+An [Order Management](../o/order_management_in_trading.md) System is a software application that facilitates and manages the entire order life cycle. It ensures that orders are executed at the best possible prices and provides essential functionalities such as order matching, execution, and trade validation.
 - **Charles River Development**: [Charles River OMS](https://www.crd.com/)
 
 ### 4. **Execution Management Systems (EMS)**
@@ -40,7 +40,7 @@ By eliminating human intervention, automated trade execution minimizes the poten
 Automated systems execute trades based on predefined rules and algorithms, providing consistent performance without the emotional bias that may affect human traders.
 
 ### 4. **Efficiency**
-The automation of trade processes increases operational efficiency by reducing the time and resources needed for each transaction, allowing traders to handle a higher volume of trades.
+The automation of trade processes increases [operational efficiency](../o/operational_efficiency_in_trading.md) by reducing the time and resources needed for each transaction, allowing traders to handle a higher volume of trades.
 
 ### 5. **Transparency**
 Automated systems offer detailed logs and analytics of their activities, providing a high degree of transparency and making it easier to track and audit trading decisions.
@@ -72,7 +72,7 @@ Automated trade execution systems are vulnerable to cyber attacks, which can lea
 ### 2. **Brokerage Firms**
 Brokerage firms offer automated trading services to their clients, enabling them to participate in the financial markets efficiently. Examples include:
 - **TD [Ameritrade](../a/ameritrade.md)**: [TD Ameritrade](https://www.tdameritrade.com/)
-- **E*TRADE**: [E*TRADE](https://us.etrade.com/)
+- **[E*TRADE](../e/e_trade.md)**: [E*TRADE](https://us.etrade.com/)
 
 ### 3. **Hedge Funds**
 Hedge funds use automated trade execution to exploit market inefficiencies and generate alpha. Examples include:
@@ -92,13 +92,13 @@ Tech companies provide the infrastructure, software, and services required for a
 ## Future Trends
 
 ### 1. **AI and Machine Learning**
-The integration of artificial intelligence (AI) and machine learning (ML) in automated trade execution is already underway. These technologies enhance [predictive analytics](../p/predictive_analytics.md) and decision-making capabilities, making automated systems more adaptive and intelligent.
+The integration of [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning (ML) in automated trade execution is already underway. These technologies enhance [predictive analytics](../p/predictive_analytics.md) and decision-making capabilities, making automated systems more adaptive and intelligent.
 
 ### 2. **Blockchain and Smart Contracts**
-Blockchain technology offers the potential for creating decentralized [trading systems](../t/trading_systems.md), while smart contracts could automate complex trading agreements and settlements.
+[Blockchain](../b/blockchain_in_trading.md) technology offers the potential for creating decentralized [trading systems](../t/trading_systems.md), while [smart contracts](../s/smart_contracts_in_trading.md) could automate complex trading agreements and settlements.
 
 ### 3. **Quantum Computing**
-Quantum computing promises to solve optimization problems much faster than classical computers, opening new horizons for automated [trading strategies](../t/trading_strategies.md) that are currently computationally infeasible.
+[Quantum computing](../q/quantum_computing_in_trading.md) promises to solve optimization problems much faster than classical computers, opening new horizons for automated [trading strategies](../t/trading_strategies.md) that are currently computationally infeasible.
 
 ### 4. **Enhanced Regulation**
 Given the rapid pace of innovation in automated trading, regulators are developing more rigorous frameworks to ensure market stability, transparency, and fairness.

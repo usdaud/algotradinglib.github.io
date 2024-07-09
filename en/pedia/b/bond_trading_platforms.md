@@ -39,7 +39,7 @@ Regulatory compliance is a key concern for bond traders. Most bond trading platf
 AI and machine learning applications are increasingly being incorporated into bond trading platforms to enhance [predictive analytics](../p/predictive_analytics.md), optimize [trading strategies](../t/trading_strategies.md), and improve [risk management](../r/risk_management.md). For example, platforms can employ AI to analyze historical data, market trends, and other variables to recommend optimal trading actions.
 
 #### Blockchain and Distributed Ledger Technology
-While still in nascent stages, blockchain technology holds promise for bond trading by enhancing transparency, reducing [counterparty risk](../c/counterparty_risk.md), and streamlining the settlement process. Some platforms are exploring blockchain-based solutions to provide immutable transaction records and automate complex contractual obligations through smart contracts.
+While still in nascent stages, [blockchain](../b/blockchain_in_trading.md) technology holds promise for bond trading by enhancing transparency, reducing [counterparty risk](../c/counterparty_risk.md), and streamlining the settlement process. Some platforms are exploring [blockchain](../b/blockchain_in_trading.md)-based solutions to provide immutable transaction records and automate complex contractual obligations through [smart contracts](../s/smart_contracts_in_trading.md).
 
 #### Cloud Computing
 Cloud-based infrastructure enables bond trading platforms to offer scalable and flexible solutions, improving performance and reducing costs. Cloud technology also facilitates better data storage, handling, and real-time computing capabilities, which are essential for handling large volumes of trading data.
@@ -64,7 +64,7 @@ Regulatory bodies often mandate best execution policies, requiring platforms to 
 As bond markets increasingly embrace electronic trading, the role of automation and [algorithmic trading](../a/algorithmic_trading.md) is expected to grow. Algorithms can execute large volumes of trades with greater speed and efficiency, potentially leveling the playing field for different market participants.
 
 #### Enhanced Data Analytics
-The future of bond trading will likely see a greater emphasis on advanced data analytics, including the use of big data and machine learning techniques. These technologies can provide deeper market insights, better risk assessments, and improved [trading strategies](../t/trading_strategies.md).
+The future of bond trading will likely see a greater emphasis on advanced data analytics, including the use of [big data](../b/big_data_in_trading.md) and machine learning techniques. These technologies can provide deeper market insights, better risk assessments, and improved [trading strategies](../t/trading_strategies.md).
 
 #### Regulatory Evolution
 As the bond trading landscape evolves, so too will the regulatory environment. Platforms will need to stay agile and adaptable, ensuring compliance with new regulations while continuing to innovate and enhance their service offerings.
@@ -74,4 +74,4 @@ Future bond trading platforms may offer more comprehensive solutions that integr
 
 ### Conclusion
 
-Bond trading platforms represent a pivotal advance in the modernization of fixed-income markets, offering unprecedented levels of efficiency, transparency, and accessibility. As technology continues to evolve, these platforms are poised to introduce further innovations that will shape the future of bond trading. Whether through AI, blockchain, or enhanced regulatory compliance, bond trading platforms will continue to play a critical role in the financial ecosystem, driving forward the next wave of advancements in the bond markets.
+Bond trading platforms represent a pivotal advance in the modernization of fixed-income markets, offering unprecedented levels of efficiency, transparency, and accessibility. As technology continues to evolve, these platforms are poised to introduce further innovations that will shape the future of bond trading. Whether through AI, [blockchain](../b/blockchain_in_trading.md), or enhanced regulatory compliance, bond trading platforms will continue to play a critical role in the financial ecosystem, driving forward the next wave of advancements in the bond markets.

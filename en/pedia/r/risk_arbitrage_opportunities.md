@@ -1,6 +1,6 @@
 # Risk Arbitrage Opportunities
 
-Risk [arbitrage](../a/arbitrage.md), also known as merger [arbitrage](../a/arbitrage.md), is a type of event-driven investing that attempts to profit from the successful completion of mergers, acquisitions, and other corporate reorganizations. In essence, risk [arbitrage](../a/arbitrage.md) involves buying and selling the stocks of two merging companies at different stages of the deal process, with the aim of capturing the spread (difference in price) that exists due to the risk and uncertainty associated with the deal being completed.
+Risk [arbitrage](../a/arbitrage.md), also known as merger [arbitrage](../a/arbitrage.md), is a type of event-driven investing that attempts to profit from the successful completion of mergers, acquisitions, and other corporate reorganizations. In essence, risk [arbitrage](../a/arbitrage.md) involves buying and selling the stocks of two merging companies at different stages of the deal process, with the aim of capturing the spread (difference in price) that exists due to the risk and [uncertainty](../u/uncertainty_in_trading.md) associated with the deal being completed.
 
 ## Types of Risk Arbitrage
 
@@ -41,7 +41,7 @@ If the deal successfully closes, the target company's stock price will converge 
 
 3. **Market Risk**: Market volatility and economic conditions can adversely impact the value of the positions taken.
 
-4. **Regulatory Risk**: Deals require approval from regulatory bodies, and any changes in regulatory stance or government policies can hinder the successful completion of the deal.
+4. **Regulatory Risk**: Deals require approval from regulatory bodies, and any changes in regulatory stance or [government policies](../g/government_policies_in_trading.md) can hinder the successful completion of the deal.
 
 5. **Financing Risk**: The inability of the acquiring company to secure financing for the deal can lead to its failure.
 
@@ -51,7 +51,7 @@ Risk [arbitrage](../a/arbitrage.md) has a long history in financial markets, wit
 
 ### Notable Historical Examples
 
-- **JP Morgan Chase and Bear Stearns (2008)**: During the financial crisis, JP Morgan's purchase of Bear Stearns presented significant [arbitrage](../a/arbitrage.md) opportunities due to the distressed environment and high uncertainty.
+- **JP Morgan Chase and Bear Stearns (2008)**: During the financial crisis, JP Morgan's purchase of Bear Stearns presented significant [arbitrage](../a/arbitrage.md) opportunities due to the distressed environment and high [uncertainty](../u/uncertainty_in_trading.md).
 
 - **AT&T and Time Warner (2016)**: This was another significant transaction where regulatory approval posed substantial risk, making it a target for risk [arbitrage](../a/arbitrage.md) strategies.
 
@@ -77,7 +77,7 @@ A related concept is statistical [arbitrage](../a/arbitrage.md), which involves 
 
 ### Software Platforms
 
-Several software platforms offer tools for risk [arbitrage](../a/arbitrage.md):
+Several [software platforms](../s/software_platforms_for_trading.md) offer tools for risk [arbitrage](../a/arbitrage.md):
 
 - **[Bloomberg](../b/bloomberg.md) Terminal**: Provides comprehensive data and analysis tools for monitoring and analyzing mergers and acquisitions ([Bloomberg](https://www.bloomberg.com/)).
 - **[FactSet](../f/factset.md)**: Offers detailed analysis and tracking of M&A deals ([FactSet](https://www.factset.com/)).

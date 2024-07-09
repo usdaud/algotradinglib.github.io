@@ -54,7 +54,7 @@ Outliers are data points that deviate significantly from the other observations.
 
 ### Regressions and Fitting
 
-[Regression analysis](../r/regression_analysis.md) involves fitting a line or curve to the data points to model the relationship between variables. The simplest form is [linear regression](../l/linear_regression.md), which fits a straight line. More complex forms include polynomial or logistic regression, depending on the data pattern.
+[Regression analysis](../r/regression_analysis.md) involves fitting a line or curve to the data points to model the relationship between variables. The simplest form is [linear regression](../l/linear_regression.md), which fits a straight line. More complex forms include polynomial or [logistic regression](../l/logistic_regression_in_trading.md), depending on the data pattern.
 
 ## Practical Examples
 
@@ -72,7 +72,7 @@ Plotting individual trades’ returns (y-axis) against their corresponding risks
 
 ## Tools for X-Y Chart Analysis
 
-Several tools and software platforms assist in creating and analyzing [X-Y charts](../x/x-y_charts.md) in [algorithmic trading](../a/algorithmic_trading.md):
+Several tools and [software platforms](../s/software_platforms_for_trading.md) assist in creating and analyzing [X-Y charts](../x/x-y_charts.md) in [algorithmic trading](../a/algorithmic_trading.md):
 
 ### Plotly
 

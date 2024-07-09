@@ -12,7 +12,7 @@ An index is a statistical measure that incorporates the performance of a group o
    
 2. **[Sector Indices](../s/sector_indices.md)**: These indices focus on specific sectors or industries like technology, healthcare, or utilities. Examples include the NASDAQ-100 Technology Sector Index and the S&P 500 Financials Index.
    
-3. **Thematic Indices**: These focus on specific investment themes such as ESG (Environmental, Social, Governance), blockchain, or artificial intelligence. An example is the MSCI ACWI ESG Leaders Index.
+3. **Thematic Indices**: These focus on specific investment themes such as ESG (Environmental, Social, Governance), [blockchain](../b/blockchain_in_trading.md), or [artificial intelligence](../a/artificial_intelligence_in_trading.md). An example is the MSCI ACWI ESG Leaders Index.
 
 4. **Style Indices**: These indices separate stocks into categories like growth or value, based on specific stock characteristics. Examples are the Russell 1000 Growth Index and the Russell 1000 Value Index.
 
@@ -45,7 +45,7 @@ In equal-weighted indices, every stock has the same weight regardless of its mar
 
 ### Factor-Based Indices
 
-These indices select and weigh constituents based on one or more investment factors such as size, value, momentum, quality, or volatility. Examples include the MSCI USA Momentum Index and the FTSE Russell Quality Factor Index.
+These indices select and weigh constituents based on one or more investment factors such as size, value, momentum, quality, or volatility. Examples include the MSCI USA Momentum Index and the [FTSE Russell](../f/ftse_russell.md) Quality Factor Index.
 
 1. **Advantages**: Can deliver enhanced returns and reduced risk based on academic research.
 2. **Disadvantages**: More complex and may not always perform as expected in all market conditions.

@@ -13,7 +13,7 @@ Spatial [arbitrage](../a/arbitrage.md) takes advantage of price discrepancies fo
 Temporal [arbitrage](../a/arbitrage.md) exploits price discrepancies of an asset at different times. For instance, if an algorithm detects a pattern where a stock generally increases in price after specific news events, it can trade based on those patterns even if the events span different time zones and trading hours.
 
 ### 3. Statistical Arbitrage
-Statistical [arbitrage](../a/arbitrage.md) involves the use of mathematical models to identify trading opportunities. These models calculate the probable future price movements of assets based on historical data, correlations, and market behavior. Examples include [pairs trading](../p/pairs_trading.md) and [mean reversion](../m/mean_reversion.md) strategies.
+Statistical [arbitrage](../a/arbitrage.md) involves the use of [mathematical models](../m/mathematical_models_in_trading.md) to identify trading opportunities. These models calculate the probable future price movements of assets based on historical data, correlations, and market behavior. Examples include [pairs trading](../p/pairs_trading.md) and [mean reversion](../m/mean_reversion.md) strategies.
 
 ### 4. Convertible Arbitrage
 Convertible [arbitrage](../a/arbitrage.md) involves trading the bond and the underlying stock of a company. The algorithm buys the convertible bond and short sells the corresponding stock, betting on the price convergence between the bond and the stock.
@@ -27,7 +27,7 @@ Event-driven [arbitrage](../a/arbitrage.md) focuses on exploiting the pricing in
 The efficiency of algorithmic [arbitrage](../a/arbitrage.md) relies heavily on the quality and timeliness of the data. Sources include market data feeds, news aggregators, financial statements, and [economic indicators](../e/economic_indicators.md). Vendors such as [Bloomberg](../b/bloomberg.md), Thomson [Reuters](../r/reuters.md), and [Quandl](../q/quandl.md) offer comprehensive data feeds.
 
 ### Trading Algorithms
-[Trading algorithms](../t/trading_algorithms.md) are scripts or programs designed to identify [arbitrage](../a/arbitrage.md) opportunities and execute trades. These can range from simple statistical models to complex machine learning algorithms. They must be rigorously backtested using historical data to ensure their profitability and robustness.
+[Trading algorithms](../t/trading_algorithms.md) are scripts or programs designed to identify [arbitrage](../a/arbitrage.md) opportunities and execute trades. These can range from simple statistical models to complex machine [learning algorithms](../l/learning_algorithms_in_trading.md). They must be rigorously backtested using historical data to ensure their profitability and robustness.
 
 ### Trade Execution Systems
 Once a trading opportunity is identified, the trades must be executed swiftly to capitalize on it. High-frequency [trading systems](../t/trading_systems.md) and connections to multiple exchanges are often employed to minimize latency. Companies such as Kx Systems (https://www.kx.com) and [Trading Technologies](../t/trading_technologies.md) (https://www.tradingtechnologies.com) provide advanced execution platforms.

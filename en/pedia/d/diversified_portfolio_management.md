@@ -21,12 +21,12 @@ Key points:
 
 ### Risk Management
 
-[Risk management](../r/risk_management.md) in the context of diversified [portfolio management](../p/portfolio_management.md) involves strategies to manage and mitigate the financial risks associated with investments. In algo-trading, this is often automated through statistical models and machine learning algorithms to optimize the portfolio continuously.
+[Risk management](../r/risk_management.md) in the context of diversified [portfolio management](../p/portfolio_management.md) involves strategies to manage and mitigate the financial risks associated with investments. In algo-trading, this is often automated through statistical models and machine [learning algorithms](../l/learning_algorithms_in_trading.md) to optimize the portfolio continuously.
 
 Key [risk management](../r/risk_management.md) techniques:
 - **Value at Risk (VaR)**: A statistic that quantifies the extent of potential financial losses within a portfolio over a specified time frame.
 - **Conditional Value at Risk (CVaR)**: Measures the average loss that exceeds the VaR threshold.
-- **Stress Testing**: Simulating adverse market conditions to assess the potential impact on the portfolio.
+- **[Stress Testing](../s/stress_testing_in_trading.md)**: Simulating adverse market conditions to assess the potential impact on the portfolio.
 - **Scenario Analysis**: Evaluating the impact of different hypothetical market scenarios.
 
 ### Correlation and Covariance
@@ -66,9 +66,9 @@ Algo-trading requires vast amounts of historical and real-time data. Datasets in
 
 Building algorithms for diversified [portfolio management](../p/portfolio_management.md) involves multiple components:
 
-- **Signal Generation**: Algorithms to generate buy/sell signals based on historical data and predictive models.
+- **Signal Generation**: Algorithms to generate buy/sell signals based on historical data and [predictive models](../p/predictive_models_in_trading.md).
 - **Risk Assessment**: Algorithms for real-time risk assessment using statistical methods like VaR and covariance analysis.
-- **Optimization Models**: Applying linear programming or quadratic programming to achieve efficient allocation aligning with optimization criteria like the [Sharpe Ratio](../s/sharpe_ratio.md).
+- **Optimization Models**: Applying [linear programming](../l/linear_programming_in_trading.md) or quadratic programming to achieve efficient allocation aligning with optimization criteria like the [Sharpe Ratio](../s/sharpe_ratio.md).
 
 ### Backtesting
 

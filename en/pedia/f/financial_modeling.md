@@ -14,10 +14,10 @@ Statistical methods are used to analyze data for patterns and relationships. Thi
 Financial theories, such as the [Efficient Market Hypothesis](../e/efficient_market_hypothesis.md) (EMH), Capital Asset Pricing Model (CAPM), and Modern Portfolio Theory (MPT), provide the substrate on which models are grounded. These theories offer frameworks for understanding market behavior and risk assessment.
 
 ### Quantitative Methods
-Quantitative methods involve the application of mathematical models to financial markets. These methods often utilize [stochastic calculus](../s/stochastic_calculus.md), differential equations, and numerical methods to create models that predict market behavior. Monte Carlo simulations and optimization techniques like linear programming are common quantitative methods in financial modeling.
+Quantitative methods involve the application of [mathematical models](../m/mathematical_models_in_trading.md) to financial markets. These methods often utilize [stochastic calculus](../s/stochastic_calculus.md), differential equations, and [numerical methods](../n/numerical_methods_in_trading.md) to create models that predict market behavior. Monte Carlo simulations and optimization techniques like [linear programming](../l/linear_programming_in_trading.md) are common quantitative methods in financial modeling.
 
 ### Machine Learning and AI
-Machine learning algorithms, including supervised and unsupervised learning, are increasingly applied in financial modeling. Techniques such as neural networks, support vector machines, and [decision trees](../d/decision_trees.md) help in identifying intricate patterns in data that traditional statistical methods might miss. Deep learning, a subset of machine learning, leverages multiple layers of neural networks to provide more nuanced predictions.
+Machine [learning algorithms](../l/learning_algorithms_in_trading.md), including supervised and unsupervised learning, are increasingly applied in financial modeling. Techniques such as [neural networks](../n/neural_networks_in_trading.md), [support vector machines](../s/support_vector_machines_in_trading.md), and [decision trees](../d/decision_trees.md) help in identifying intricate patterns in data that traditional statistical methods might miss. Deep learning, a subset of machine learning, leverages multiple layers of [neural networks](../n/neural_networks_in_trading.md) to provide more nuanced predictions.
 
 ## Types of Financial Models
 
@@ -89,13 +89,13 @@ Ensuring high-quality data is a perennial challenge in financial modeling. Incon
 Overfitting occurs when a model is too complex and captures noise rather than the underlying patterns. This can lead to poor performance in live trading.
 
 ### Computational Complexity
-The increasing complexity of models demands significant computational resources. Advances in cloud computing and parallel processing are helping to mitigate these challenges.
+The increasing complexity of models demands significant computational resources. Advances in [cloud computing](../c/cloud_computing_in_trading.md) and parallel processing are helping to mitigate these challenges.
 
 ### Regulatory Compliance
 Financial models and [algorithmic trading](../a/algorithmic_trading.md) systems must comply with regulatory requirements. This includes adhering to market conduct rules and ensuring transparency in model operations.
 
 ### Integration with New Technologies
-The integration of blockchain, IoT, and real-time analytics can offer new data sources and improve the accuracy of financial models. The convergence of these technologies with AI and machine learning presents exciting opportunities for future developments in financial modeling.
+The integration of [blockchain](../b/blockchain_in_trading.md), IoT, and real-time analytics can offer new data sources and improve the accuracy of financial models. The convergence of these technologies with AI and machine learning presents exciting opportunities for future developments in financial modeling.
 
 ## Conclusion
 

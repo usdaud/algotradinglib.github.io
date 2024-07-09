@@ -8,7 +8,7 @@ Volume Weighted Indicators (VWIs) are an essential class of [technical analysis]
 
 ### Volume
 
-Volume refers to the number of shares or contracts traded in a security or market during a given period. It serves as a measure of market activity and liquidity. High volume can indicate strong interest and increased momentum, while low volume often signifies consolidation or uncertainty. 
+Volume refers to the number of shares or contracts traded in a security or market during a given period. It serves as a measure of market activity and liquidity. High volume can indicate strong interest and increased momentum, while low volume often signifies consolidation or [uncertainty](../u/uncertainty_in_trading.md). 
 
 ### Volume Weighted Average Price (VWAP)
 

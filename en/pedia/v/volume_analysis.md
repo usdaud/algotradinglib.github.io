@@ -1,6 +1,6 @@
 # Volume Analysis
 
-Volume analysis is a technique used in financial markets to evaluate the trading volume of assets, such as stocks, to determine the strength or significance of a market move. High volume indicates high interest in an asset, which typically signifies a high level of confidence in the asset and its future price movement. Conversely, low volume may suggest a lack of interest or uncertainty. Volume analysis plays a vital role in [algorithmic trading](../a/algorithmic_trading.md), aiding in the development of [trading strategies](../t/trading_strategies.md), the optimization of trade execution, and the measurement of market sentiment.
+Volume analysis is a technique used in financial markets to evaluate the trading volume of assets, such as stocks, to determine the strength or significance of a market move. High volume indicates high interest in an asset, which typically signifies a high level of confidence in the asset and its future price movement. Conversely, low volume may suggest a lack of interest or [uncertainty](../u/uncertainty_in_trading.md). Volume analysis plays a vital role in [algorithmic trading](../a/algorithmic_trading.md), aiding in the development of [trading strategies](../t/trading_strategies.md), the optimization of trade execution, and the measurement of market sentiment.
 
 ## Key Concepts in Volume Analysis
 

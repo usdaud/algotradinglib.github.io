@@ -78,7 +78,7 @@ Trend-following strategies capitalize on momentum attained from sustained high-v
 ### Machine Learning in Volume Strategies
 
 Machine learning involves using models that can learn from and make decisions based on data. In trading volume strategies:
-- Machine learning algorithms can detect complex patterns that human analysts might miss.
+- Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can detect complex patterns that human analysts might miss.
 - These algorithms can optimize trade execution and [risk management](../r/risk_management.md) by adapting to real-time data inputs.
 
 ## Tools and Platforms
@@ -124,4 +124,4 @@ An asset management company deployed machine learning models to analyze historic
 
 ## Conclusion
 
-Trading volume strategies offer powerful tools for analyzing market dynamics, providing critical insights into liquidity, market sentiment, and potential price movements. From basic indicators like VWAP and OBV to sophisticated machine learning algorithms, [volume analysis](../v/volume_analysis.md) helps traders optimize their strategies and improve trade execution. By leveraging the appropriate tools and platforms, traders can capitalize on the informative power of trading volume to enhance their [trading performance](../t/trading_performance.md) and achieve better market outcomes.
+Trading volume strategies offer powerful tools for analyzing market dynamics, providing critical insights into liquidity, market sentiment, and potential price movements. From basic indicators like VWAP and OBV to sophisticated machine [learning algorithms](../l/learning_algorithms_in_trading.md), [volume analysis](../v/volume_analysis.md) helps traders optimize their strategies and improve trade execution. By leveraging the appropriate tools and platforms, traders can capitalize on the informative power of trading volume to enhance their [trading performance](../t/trading_performance.md) and achieve better market outcomes.

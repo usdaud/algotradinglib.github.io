@@ -44,7 +44,7 @@ Value at Risk (VaR) is a statistical method used to estimate the potential loss 
 
 ### Stress Testing
 
-Stress testing involves simulating extreme market conditions to evaluate how an investment portfolio would perform under adverse scenarios. This helps in understanding vulnerabilities and planning for extreme market events.
+[Stress testing](../s/stress_testing_in_trading.md) involves simulating extreme market conditions to evaluate how an investment portfolio would perform under adverse scenarios. This helps in understanding vulnerabilities and planning for extreme market events.
 
 ### Risk-Adjusted Performance Metrics
 
@@ -62,11 +62,11 @@ Modern [risk management](../r/risk_management.md) software solutions provide rob
 
 ### Artificial Intelligence and Machine Learning
 
-Artificial Intelligence (AI) and Machine Learning (ML) are increasingly being used in equity [risk management](../r/risk_management.md) to analyze large datasets and identify risk patterns. These technologies enhance decision-making and predictive capabilities in [risk management](../r/risk_management.md).
+[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning (ML) are increasingly being used in equity [risk management](../r/risk_management.md) to analyze large datasets and identify risk patterns. These technologies enhance decision-making and predictive capabilities in [risk management](../r/risk_management.md).
 
 ### Blockchain Technology
 
-Blockchain offers enhanced transparency and security in financial transactions. It can be used to track and verify trades, thereby reducing operational risks and fraud.
+[Blockchain](../b/blockchain_in_trading.md) offers enhanced transparency and security in financial transactions. It can be used to track and verify trades, thereby reducing operational risks and fraud.
 
 ## Role of Risk Management Professionals
 
@@ -80,7 +80,7 @@ Compliance officers ensure that trading activities comply with regulatory requir
 
 ### Quantitative Analysts
 
-Quantitative analysts, or "quants", use mathematical models to assess and manage risks. They develop algorithms for hedging, pricing, and risk assessment.
+Quantitative analysts, or "quants", use [mathematical models](../m/mathematical_models_in_trading.md) to assess and manage risks. They develop algorithms for hedging, pricing, and risk assessment.
 
 ## Regulatory Framework
 
@@ -90,7 +90,7 @@ Basel III is an international regulatory framework designed to strengthen the re
 
 ### Dodd-Frank Act
 
-In the United States, the Dodd-Frank Wall Street Reform and Consumer Protection Act includes provisions aimed at improving [risk management](../r/risk_management.md) practices within the financial industry. It emphasizes transparent reporting, stress testing, and risk governance.
+In the United States, the Dodd-Frank Wall Street Reform and Consumer Protection Act includes provisions aimed at improving [risk management](../r/risk_management.md) practices within the financial industry. It emphasizes transparent reporting, [stress testing](../s/stress_testing_in_trading.md), and risk governance.
 
 ### Solvency II
 
@@ -104,7 +104,7 @@ Environmental, Social, and Governance (ESG) factors are increasingly being integ
 
 ### Advanced Analytics
 
-Advanced analytics, including big data and [predictive analytics](../p/predictive_analytics.md), are being employed to enhance [risk management](../r/risk_management.md) practices. These tools provide insights into emerging risks and help in more accurate risk forecasting.
+Advanced analytics, including [big data](../b/big_data_in_trading.md) and [predictive analytics](../p/predictive_analytics.md), are being employed to enhance [risk management](../r/risk_management.md) practices. These tools provide insights into emerging risks and help in more accurate risk forecasting.
 
 ### Collaborative Platforms
 

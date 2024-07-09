@@ -56,7 +56,7 @@ A robust [algorithmic trading](../a/algorithmic_trading.md) strategy involving t
 ## Limitations
 
 ### False Signals
-Bearish Engulfing Patterns are not foolproof and can produce false signals, especially in volatile markets. It's essential to combine this pattern with other [technical indicators](../t/technical_indicators.md) such as moving averages, RSI (Relative Strength Index), or [volume analysis](../v/volume_analysis.md) to filter out false signals.
+Bearish Engulfing Patterns are not foolproof and can produce [false signals](../f/false_signals_in_trading.md), especially in volatile markets. It's essential to combine this pattern with other [technical indicators](../t/technical_indicators.md) such as moving averages, RSI (Relative Strength Index), or [volume analysis](../v/volume_analysis.md) to filter out [false signals](../f/false_signals_in_trading.md).
 
 ### Market Conditions
 They tend to be more reliable in specific market conditions. For example, they are more effective in indicating reversals during a well-defined uptrend, but may not be as reliable during a sideways or choppy market.

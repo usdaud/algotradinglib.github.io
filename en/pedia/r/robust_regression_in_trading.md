@@ -1,10 +1,10 @@
 # Robust Regression
 
-Robust regression is a vital concept in [algorithmic trading](../a/algorithmic_trading.md), an area focused on creating and executing [trading strategies](../t/trading_strategies.md) using mathematical models and algorithms. Unlike traditional [linear regression](../l/linear_regression.md), robust regression aims to be resilient to outliers and deviations from standard assumptions, making it particularly valuable in volatile financial markets.
+Robust regression is a vital concept in [algorithmic trading](../a/algorithmic_trading.md), an area focused on creating and executing [trading strategies](../t/trading_strategies.md) using [mathematical models](../m/mathematical_models_in_trading.md) and algorithms. Unlike traditional [linear regression](../l/linear_regression.md), robust regression aims to be resilient to outliers and deviations from standard assumptions, making it particularly valuable in volatile financial markets.
 
 #### Basic Concepts of Regression
 
-[Regression analysis](../r/regression_analysis.md) is a statistical method for modeling the relationship between a dependent variable and one or more independent variables. [Linear regression](../l/linear_regression.md), a common type, assumes a straight-line relationship between the dependent and independent variables. However, linear models often fail in the presence of outliers or non-normal error distributions, which are frequent in financial data.
+[Regression analysis](../r/regression_analysis.md) is a statistical method for modeling the relationship between a dependent variable and one or more independent variables. [Linear regression](../l/linear_regression.md), a common type, assumes a straight-line relationship between the dependent and independent variables. However, [linear models](../l/linear_models_in_trading.md) often fail in the presence of outliers or non-normal error distributions, which are frequent in financial data.
 
 #### Introduction to Robust Regression
 
@@ -12,7 +12,7 @@ Robust [regression techniques](../r/regression_techniques.md) address the shortc
 
 #### Importance in Trading
 
-In trading, we're often dealing with noisy, erratic data due to [market anomalies](../m/market_anomalies.md), unexpected macroeconomic news, or sudden market panic. Robust regression models help in accurately identifying underlying trends and signals in such chaotic environments. They help traders and quantitative analysts build more reliable predictive models for asset prices, returns, and other financial metrics.
+In trading, we're often dealing with noisy, erratic data due to [market anomalies](../m/market_anomalies.md), unexpected macroeconomic news, or sudden market panic. Robust regression models help in accurately identifying underlying trends and signals in such chaotic environments. They help traders and quantitative analysts build more reliable [predictive models](../p/predictive_models_in_trading.md) for asset prices, returns, and other financial metrics.
 
 #### Types of Robust Regression Techniques
 
@@ -26,11 +26,11 @@ In trading, we're often dealing with noisy, erratic data due to [market anomalie
 
 #### Implementation in Algorithmic Trading
 
-[Algorithmic trading](../a/algorithmic_trading.md) strategies can leverage robust regression models to make more informed decisions. For instance, in time-series forecasting, robust regression can improve the accuracy of stock price predictions. [Technical indicators](../t/technical_indicators.md) like moving averages or volatility forecasts can be enhanced with robust methods to avoid false signals caused by noisy data.
+[Algorithmic trading](../a/algorithmic_trading.md) strategies can leverage robust regression models to make more informed decisions. For instance, in time-series forecasting, robust regression can improve the accuracy of stock price predictions. [Technical indicators](../t/technical_indicators.md) like moving averages or volatility forecasts can be enhanced with robust methods to avoid [false signals](../f/false_signals_in_trading.md) caused by noisy data.
 
 ##### Example: Algorithmic Trading Strategy Using Robust Regression
 
-Consider a mean-reversion trading strategy where an asset's price tends to revert to its historical mean. Traditional linear models might fail if the time-series data includes significant outliers. A robust regression model can better identify the mean-reversion level by mitigating the effect of anomalous price spikes.
+Consider a mean-reversion trading strategy where an asset's price tends to revert to its historical mean. Traditional [linear models](../l/linear_models_in_trading.md) might fail if the time-series data includes significant outliers. A robust regression model can better identify the mean-reversion level by mitigating the effect of anomalous price spikes.
 
 Here's a simplified python implementation using `statsmodels`, a popular library for statistical models:
 

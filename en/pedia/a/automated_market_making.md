@@ -18,7 +18,7 @@ Before the advent of automated systems, market making was performed manually. Tr
 
 ### Decentralized Finance (DeFi)
 
-The emergence of blockchain technology and decentralized finance has catalyzed the widespread adoption of AMMs. DeFi platforms, unlike traditional financial systems, operate without central intermediaries. Smart contracts execute trades and manage [liquidity pools](../l/liquidity_pools.md) automatically, which seamlessly fits with the principles of automated market making.
+The emergence of [blockchain](../b/blockchain_in_trading.md) technology and decentralized finance has catalyzed the widespread adoption of AMMs. DeFi platforms, unlike traditional financial systems, operate without central intermediaries. [Smart contracts](../s/smart_contracts_in_trading.md) execute trades and manage [liquidity pools](../l/liquidity_pools.md) automatically, which seamlessly fits with the principles of automated market making.
 
 ## Core Mechanisms of AMMs
 
@@ -77,7 +77,7 @@ All operations of an AMM occur on-chain, ensuring transparency in trades, fees, 
 
 ### Reduced Counterparty Risk
 
-The use of immutable smart contracts reduces [counterparty risk](../c/counterparty_risk.md) as trades are executed automatically without relying on centralized entities that might default or otherwise fail.
+The use of immutable [smart contracts](../s/smart_contracts_in_trading.md) reduces [counterparty risk](../c/counterparty_risk.md) as trades are executed automatically without relying on centralized entities that might default or otherwise fail.
 
 ## Risks and Challenges
 
@@ -87,7 +87,7 @@ As discussed, LPs face the risk of impermanent loss, which can deter participati
 
 ### Smart Contract Risks
 
-While smart contracts provide security and automation, they are not infallible. Bugs or vulnerabilities can be exploited, leading to significant losses. Auditing and rigorous testing are vital to mitigate these risks.
+While [smart contracts](../s/smart_contracts_in_trading.md) provide security and automation, they are not infallible. Bugs or vulnerabilities can be exploited, leading to significant losses. Auditing and rigorous testing are vital to mitigate these risks.
 
 ### Centralization in Decentralized Systems
 
@@ -103,7 +103,7 @@ Novel models for incentivizing [liquidity provision](../l/liquidity_provision.md
 
 ### Interoperability
 
-With the proliferation of multiple blockchain platforms, interoperability becomes crucial. Cross-chain AMM protocols aim to unify fragmented liquidity across different blockchains, enhancing overall [market efficiency](../m/market_efficiency.md).
+With the proliferation of multiple [blockchain](../b/blockchain_in_trading.md) platforms, interoperability becomes crucial. Cross-chain AMM protocols aim to unify fragmented liquidity across different blockchains, enhancing overall [market efficiency](../m/market_efficiency.md).
 
 ### AI and Machine Learning
 

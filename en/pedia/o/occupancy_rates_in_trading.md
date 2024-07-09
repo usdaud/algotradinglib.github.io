@@ -48,13 +48,13 @@ Improving efficiency involves:
 
 ## Case Studies
 ### Renaissance Technologies
-Renaissance Technologies is renowned for its sophisticated use of mathematical models to execute trades. Their high occupancy rates in capital utilization and strategy implementation serve as benchmarks in the industry. More information can be found on their [official site](https://www.rentec.com).
+Renaissance Technologies is renowned for its sophisticated use of [mathematical models](../m/mathematical_models_in_trading.md) to execute trades. Their high occupancy rates in capital utilization and strategy implementation serve as benchmarks in the industry. More information can be found on their [official site](https://www.rentec.com).
 
 ### Citadel LLC
 Citadel employs a wide range of quantitative methods to maximize capital and strategy utilization. Their use of advanced infrastructure, including low-latency [trading systems](../t/trading_systems.md), makes them a leader in trading efficiency. Learn more on their [website](https://www.citadel.com).
 
 ### Two Sigma
-Two Sigma uses data science to drive trading decisions, continually optimizing their strategies and [capital allocation](../c/capital_allocation.md) methods to achieve high occupancy rates. More details available on their [website](https://www.twosigma.com).
+Two Sigma uses [data science](../d/data_science_in_trading.md) to drive trading decisions, continually optimizing their strategies and [capital allocation](../c/capital_allocation.md) methods to achieve high occupancy rates. More details available on their [website](https://www.twosigma.com).
 
 ## Conclusion
 Occupancy rates in trading encompass various dimensions, including capital utilization, strategy implementation, and infrastructure efficiency. By focusing on these areas, trading firms and individual traders can achieve optimal performance, higher profitability, and reduced risks. The examples of Renaissance Technologies, Citadel LLC, and Two Sigma illustrate how leading firms in the industry apply these principles effectively.

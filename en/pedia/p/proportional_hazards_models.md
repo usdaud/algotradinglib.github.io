@@ -16,7 +16,7 @@ Where:
 - exp(β1X1 + β2X2 + ... + βkXk) is the exponential function of the linear combination of covariates X with regression coefficients β1, β2, ..., βk.
 
 ## Application in Algorithmic Trading
-[Algorithmic trading](../a/algorithmic_trading.md) involves the use of complex algorithms and mathematical models to make trading decisions. Proportional hazards models can be employed in several ways within this domain:
+[Algorithmic trading](../a/algorithmic_trading.md) involves the use of complex algorithms and [mathematical models](../m/mathematical_models_in_trading.md) to make trading decisions. Proportional hazards models can be employed in several ways within this domain:
 
 ### Risk Management
 The primary application of proportional hazards models in [algorithmic trading](../a/algorithmic_trading.md) is in [risk management](../r/risk_management.md). By assessing the likelihood of adverse events (such as significant portfolio losses or the unexpected termination of an investment firm's operations), traders can adjust their strategies dynamically to mitigate potential risks.
@@ -71,7 +71,7 @@ Proportional hazards models assume that the hazard ratios between different cova
 The accuracy of the model heavily depends on the quality and completeness of the input data. Missing or censored data can significantly impact the model's performance.
 
 ### Complexity
-Financial markets are influenced by a myriad of factors, many of which might not be captured by simple proportional hazards models. Thus, combining these models with other predictive techniques, such as machine learning and artificial intelligence, can result in more robust [trading strategies](../t/trading_strategies.md).
+Financial markets are influenced by a myriad of factors, many of which might not be captured by simple proportional hazards models. Thus, combining these models with other predictive techniques, such as machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md), can result in more robust [trading strategies](../t/trading_strategies.md).
 
 ## Conclusion
-Proportional hazards models provide a robust framework for analyzing time-to-event data, making them valuable tools in [algorithmic trading](../a/algorithmic_trading.md). Their applications in [risk management](../r/risk_management.md), strategy duration analysis, event prediction, and financial instrument survival analysis offer traders a scientific approach to understanding and predicting market behavior. However, careful consideration of their assumptions, limitations, and integration with other predictive models is essential for effective implementation. By leveraging proportional hazards models, traders can gain deeper insights into market dynamics and make more informed decisions, ultimately enhancing their [trading performance](../t/trading_performance.md) and profitability.
+Proportional hazards models provide a robust framework for analyzing time-to-event data, making them valuable tools in [algorithmic trading](../a/algorithmic_trading.md). Their applications in [risk management](../r/risk_management.md), strategy duration analysis, event prediction, and financial instrument survival analysis offer traders a scientific approach to understanding and predicting market behavior. However, careful consideration of their assumptions, limitations, and integration with other [predictive models](../p/predictive_models_in_trading.md) is essential for effective implementation. By leveraging proportional hazards models, traders can gain deeper insights into market dynamics and make more informed decisions, ultimately enhancing their [trading performance](../t/trading_performance.md) and profitability.

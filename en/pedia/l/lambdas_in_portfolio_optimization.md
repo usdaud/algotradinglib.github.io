@@ -20,7 +20,7 @@ Higher values of λ indicate greater aversion to risk and lead the optimization 
 
 ## Calculating Lambda
 
-Lambda is often determined through [historical data analysis](../h/historical_data_analysis.md), investor surveys, or more sophisticated techniques such as utility functions. Utility functions represent an investor's preferences through a mathematical formulation, where lambda is inferred from the second derivative of the utility function concerning wealth or returns.
+Lambda is often determined through [historical data analysis](../h/historical_data_analysis.md), investor surveys, or more sophisticated techniques such as [utility functions](../u/utility_functions_in_trading.md). [Utility functions](../u/utility_functions_in_trading.md) represent an investor's preferences through a mathematical formulation, where lambda is inferred from the second derivative of the utility function concerning wealth or returns.
 
 ### Example: Quadratic Utility Function
 
@@ -57,7 +57,7 @@ An investor with a risk aversion coefficient λ = 3 will have a different optima
 
 ### Robust Optimization
 
-[Robust optimization](../r/robust_optimization.md) considers uncertainty in input parameters by incorporating worst-case scenarios. Lambda is adjusted to consider these uncertainties, making portfolios more resilient to estimation errors.
+[Robust optimization](../r/robust_optimization.md) considers [uncertainty](../u/uncertainty_in_trading.md) in input parameters by incorporating worst-case scenarios. Lambda is adjusted to consider these uncertainties, making portfolios more resilient to estimation errors.
 
 ### Bayesian Methods
 

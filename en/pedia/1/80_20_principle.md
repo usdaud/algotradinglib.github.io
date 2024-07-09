@@ -39,12 +39,12 @@ In [algorithmic trading](../a/algorithmic_trading.md), the 80/20 Principle can b
 
 ### Risk Management and 80/20 Rule
 
-In [risk management](../r/risk_management.md), the principle can help in focusing on the most significant risk factors that could impact [trading performance](../t/trading_performance.md).
+In [risk management](../r/risk_management.md), the principle can help in focusing on the most significant [risk factors](../r/risk_factors_in_trading.md) that could impact [trading performance](../t/trading_performance.md).
 
 #### Example: Managing Exposure
 
-1. **Identify Risk Factors**: Analyze historical trade data to identify key factors consistently associated with significant losses.
-2. **Mitigation Strategies**: Develop algos that focus on these critical risk factors and implement automated mitigation strategies, such as [stop-loss orders](../s/stop-loss_orders.md), to manage exposure effectively.
+1. **Identify [Risk Factors](../r/risk_factors_in_trading.md)**: Analyze historical trade data to identify key factors consistently associated with significant losses.
+2. **Mitigation Strategies**: Develop algos that focus on these critical [risk factors](../r/risk_factors_in_trading.md) and implement automated mitigation strategies, such as [stop-loss orders](../s/stop-loss_orders.md), to manage exposure effectively.
 
 ### Portfolio Allocation
 
@@ -77,7 +77,7 @@ Applying the 80/20 Principle to market analysis involves focusing on the critica
 
 ### Data Mining and Analytics
 
-[Data mining](../d/data_mining.md) and analytics tools can help identify the critical 20% of factors influencing [trading performance](../t/trading_performance.md). Machine learning algorithms, such as [decision trees](../d/decision_trees.md) and clustering, can uncover patterns and relationships within the data.
+[Data mining](../d/data_mining.md) and analytics tools can help identify the critical 20% of factors influencing [trading performance](../t/trading_performance.md). Machine [learning algorithms](../l/learning_algorithms_in_trading.md), such as [decision trees](../d/decision_trees.md) and clustering, can uncover patterns and relationships within the data.
 
 ### Backtesting Platforms
 
@@ -148,7 +148,7 @@ While focusing on the vital few, it's essential not to ignore diversification. A
 
 ### Collaboration and Expertise
 
-Leverage collaboration and expertise from various domains such as data science, [quantitative analysis](../q/quantitative_analysis.md), and financial markets. A multidisciplinary approach can enhance the accurate identification and application of the 80/20 Principle.
+Leverage collaboration and expertise from various domains such as [data science](../d/data_science_in_trading.md), [quantitative analysis](../q/quantitative_analysis.md), and financial markets. A multidisciplinary approach can enhance the accurate identification and application of the 80/20 Principle.
 
 ## Conclusion
 

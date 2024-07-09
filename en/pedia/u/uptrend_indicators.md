@@ -95,7 +95,7 @@ A bullish signal occurs when Tenkan-sen crosses Kijun-sen from below with the pr
 
 ## Application in Algorithmic Trading
 
-Each of these indicators can be programmed into [algorithmic trading](../a/algorithmic_trading.md) strategies to assist in identifying uptrends. Such strategies may involve combining multiple indicators for better accuracy and filtering false signals. Additionally, [backtesting](../b/backtesting.md) these strategies on historical data can help refine their effectiveness before deploying in live trading scenarios.
+Each of these indicators can be programmed into [algorithmic trading](../a/algorithmic_trading.md) strategies to assist in identifying uptrends. Such strategies may involve combining multiple indicators for better accuracy and filtering [false signals](../f/false_signals_in_trading.md). Additionally, [backtesting](../b/backtesting.md) these strategies on historical data can help refine their effectiveness before deploying in live trading scenarios.
 
 ### Example: Automated Trading Systems
 

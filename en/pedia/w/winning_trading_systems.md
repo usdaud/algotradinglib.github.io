@@ -6,7 +6,7 @@
 
 ### 1. **Trading Algorithms**
 
-[Trading algorithms](../t/trading_algorithms.md) rely on a set of pre-defined rules and mathematical models to make trading decisions. These can include:
+[Trading algorithms](../t/trading_algorithms.md) rely on a set of pre-defined rules and [mathematical models](../m/mathematical_models_in_trading.md) to make trading decisions. These can include:
 
 - **[Mean Reversion](../m/mean_reversion.md):** Based on the idea that asset prices tend to revert to their historical averages. When prices deviate significantly from the mean, the algorithm will buy or sell in anticipation of a return to the mean.
 
@@ -38,7 +38,7 @@ Effective [risk management](../r/risk_management.md) is critical for winning [tr
 
 - **Diversification:** Spreading investments across various assets to reduce exposure to any single security or market.
 
-- **Stress Testing:** Simulating various market scenarios to evaluate how the trading system performs under different conditions.
+- **[Stress Testing](../s/stress_testing_in_trading.md):** Simulating various market scenarios to evaluate how the trading system performs under different conditions.
 
 ## Strategies of Winning Trading Systems
 
@@ -60,7 +60,7 @@ Some notable HFT firms are:
 
 ### 2. **Machine Learning-Based Trading**
 
-Machine learning algorithms analyze vast datasets to identify patterns and make predictions. Common techniques include:
+Machine [learning algorithms](../l/learning_algorithms_in_trading.md) analyze vast datasets to identify patterns and make predictions. Common techniques include:
 
 - **[Regression Analysis](../r/regression_analysis.md):** Predicting asset prices based on historical data and other variables.
 
@@ -111,13 +111,13 @@ Simulating the strategy in a live market environment without actual capital at r
 
 ### 4. **Implementation**
 
-Implementing the strategy in a live [trading environment](../t/trading_environment.md). This requires robust infrastructure to handle data feeds, order management, and risk controls.
+Implementing the strategy in a live [trading environment](../t/trading_environment.md). This requires robust infrastructure to handle data feeds, [order management](../o/order_management_in_trading.md), and risk controls.
 
 ## Examples of Winning Trading Systems
 
 ### 1. **Renaissance Technologies**
 
-Renaissance Technologies, founded by Jim Simons, is renowned for its Medallion Fund, which has delivered extraordinary returns through sophisticated quantitative strategies. Renaissance leverages advanced mathematical models and big data analytics to exploit market inefficiencies.
+Renaissance Technologies, founded by Jim Simons, is renowned for its Medallion Fund, which has delivered extraordinary returns through sophisticated [quantitative strategies](../q/quantitative_strategies_in_trading.md). Renaissance leverages advanced [mathematical models](../m/mathematical_models_in_trading.md) and [big data analytics](../b/big_data_analytics_in_trading.md) to exploit market inefficiencies.
 
 - [Renaissance Technologies - Home](https://www.rentec.com)
 
@@ -129,7 +129,7 @@ Bridgewater Associates, founded by Ray Dalio, is known for its macroeconomic [tr
 
 ### 3. **Citadel LLC**
 
-Citadel LLC, founded by Ken Griffin, employs a combination of quantitative and fundamental strategies. Citadel's GQS (Global Quantitative Strategies) division uses advanced statistical models and machine learning to identify trading opportunities across global markets.
+Citadel LLC, founded by Ken Griffin, employs a combination of quantitative and fundamental strategies. Citadel's GQS (Global [Quantitative Strategies](../q/quantitative_strategies_in_trading.md)) division uses advanced statistical models and machine learning to identify trading opportunities across global markets.
 
 - [Citadel LLC - Home](https://www.citadel.com)
 

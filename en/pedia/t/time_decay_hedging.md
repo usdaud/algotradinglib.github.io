@@ -74,13 +74,13 @@ Website: [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkors
 
 #### 2. Interactive Brokers
 
-Interactive Brokers offers a wide range of options trading tools, including real-time analytics, [risk management](../r/risk_management.md) features, and portfolio monitoring. Its platform supports complex options strategies, making it suitable for time decay hedging.
+[Interactive Brokers](../i/interactive_brokers.md) offers a wide range of options trading tools, including real-time analytics, [risk management](../r/risk_management.md) features, and portfolio monitoring. Its platform supports complex options strategies, making it suitable for time decay hedging.
 
 Website: [Interactive Brokers](https://www.interactivebrokers.com/)
 
 #### 3. E*TRADE
 
-E*TRADE provides a user-friendly platform with options trading capabilities. It offers tools for analyzing time decay, evaluating strategies, and managing options portfolios.
+[E*TRADE](../e/e_trade.md) provides a user-friendly platform with options trading capabilities. It offers tools for analyzing time decay, evaluating strategies, and managing options portfolios.
 
 Website: [E*TRADE](https://us.etrade.com/home)
 

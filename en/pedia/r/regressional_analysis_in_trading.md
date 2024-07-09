@@ -31,7 +31,7 @@ Here, multiple independent variables are used to predict the dependent variable,
 
 ### Price Prediction
 
-One of the primary applications of [regression analysis](../r/regression_analysis.md) in trading is to predict the future prices of assets. By analyzing historical prices and other influential factors such as volume, macroeconomic indicators, and company-specific news, traders can develop predictive models. These models can provide insights into the likely future trajectory of an asset's price and guide [trading strategies](../t/trading_strategies.md).
+One of the primary applications of [regression analysis](../r/regression_analysis.md) in trading is to predict the future prices of assets. By analyzing historical prices and other influential factors such as volume, macroeconomic indicators, and company-specific news, traders can develop [predictive models](../p/predictive_models_in_trading.md). These models can provide insights into the likely future trajectory of an asset's price and guide [trading strategies](../t/trading_strategies.md).
 
 ### Risk Management
 
@@ -89,11 +89,11 @@ Regression models play a crucial role in [portfolio optimization](../p/portfolio
 
 ### Ordinary Least Squares (OLS)
 
-OLS is the most commonly used method for estimating the parameters of a [linear regression](../l/linear_regression.md) model. It minimizes the sum of squared residuals, providing unbiased and efficient estimates. However, OLS assumes homoscedasticity (constant variance of errors) and no multicollinearity (independent variables are not highly correlated).
+OLS is the most commonly used method for estimating the parameters of a [linear regression](../l/linear_regression.md) model. It minimizes the sum of squared residuals, providing unbiased and efficient estimates. However, OLS assumes homoscedasticity (constant variance of errors) and no [multicollinearity](../m/multicollinearity_in_trading.md) (independent variables are not highly correlated).
 
 ### Ridge Regression
 
-Ridge regression adds a penalty term to the OLS objective function, addressing multicollinearity:
+Ridge regression adds a penalty term to the OLS objective function, addressing [multicollinearity](../m/multicollinearity_in_trading.md):
 
 \[ \text{Objective:} \sum_{i=1}^{n} (Y_i - \beta_0 - \beta_1 X_{1i} - ... - \beta_p X_{pi})^2 + \lambda \sum_{j=1}^{p} \beta_j^2 \]
 
@@ -109,7 +109,7 @@ This penalty can shrink some coefficients to zero, performing variable selection
 
 ### Principal Component Regression (PCR)
 
-PCR addresses multicollinearity by transforming the predictors into principal components and then performing regression on these components. This method reduces dimensionality while retaining most of the variance in the data.
+PCR addresses [multicollinearity](../m/multicollinearity_in_trading.md) by transforming the predictors into [principal components](../p/principal_components_in_trading.md) and then performing regression on these components. This method reduces dimensionality while retaining most of the variance in the data.
 
 ### Quantile Regression
 
@@ -119,11 +119,11 @@ Unlike OLS, which models the mean of the dependent variable, quantile regression
 
 ### R
 
-R is a powerful tool for statistical computing and graphics, widely used for [regression analysis](../r/regression_analysis.md) in trading. It offers numerous packages for different types of regression models, including `lm()` for linear models, `glmnet` for ridge and lasso regression, and `quantreg` for quantile regression.
+R is a powerful tool for statistical computing and graphics, widely used for [regression analysis](../r/regression_analysis.md) in trading. It offers numerous packages for different types of regression models, including `lm()` for [linear models](../l/linear_models_in_trading.md), `glmnet` for ridge and lasso regression, and `quantreg` for quantile regression.
 
 ### Python
 
-Python has gained immense popularity in data science and algo-trading due to its simplicity and extensive libraries. Popular libraries for [regression analysis](../r/regression_analysis.md) in Python include `statsmodels`, `scikit-learn`, and `pandas`. Python's integration with powerful trading platforms makes it a preferred choice for many traders.
+Python has gained immense popularity in [data science](../d/data_science_in_trading.md) and algo-trading due to its simplicity and extensive libraries. Popular libraries for [regression analysis](../r/regression_analysis.md) in Python include `statsmodels`, `scikit-learn`, and `pandas`. Python's integration with powerful trading platforms makes it a preferred choice for many traders.
 
 ### MATLAB
 
@@ -151,7 +151,7 @@ One of the significant risks in [regression analysis](../r/regression_analysis.m
 
 ### Multicollinearity
 
-High correlation between independent variables can distort the regression estimates, making them unreliable. Techniques like principal component analysis (PCA) or ridge regression can help address multicollinearity.
+High correlation between independent variables can distort the regression estimates, making them unreliable. Techniques like [principal component analysis](../p/principal_component_analysis_(pca).md) (PCA) or ridge regression can help address [multicollinearity](../m/multicollinearity_in_trading.md).
 
 ### Non-Stationary Data
 

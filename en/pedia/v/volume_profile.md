@@ -37,11 +37,11 @@ Volume Profile helps traders identify [key support and resistance levels](../k/k
 
 ### Recognizing Market Sentiment
 
-By analyzing the distribution of volume across different price levels, traders can understand the market sentiment. High trading volumes at specific price levels indicate significant interest and acceptance, while low volumes suggest disinterest or uncertainty.
+By analyzing the distribution of volume across different price levels, traders can understand the market sentiment. High trading volumes at specific price levels indicate significant interest and acceptance, while low volumes suggest disinterest or [uncertainty](../u/uncertainty_in_trading.md).
 
 ### Enhancing Entry and Exit Points
 
-Volume Profile can refine entry and exit points for trades. For example, entering a trade near a High Volume Node can offer a reliable support or resistance level, and exiting near Low Volume Nodes can help avoid areas of uncertainty.
+Volume Profile can refine entry and exit points for trades. For example, entering a trade near a High Volume Node can offer a reliable support or resistance level, and exiting near Low Volume Nodes can help avoid areas of [uncertainty](../u/uncertainty_in_trading.md).
 
 ## Volume Profile Strategies
 
@@ -90,8 +90,8 @@ Multiple trading platforms offer Volume Profile as part of their charting tools,
 3. **[NinjaTrader](../n/ninjatrader.md)**  
    [NinjaTrader](../n/ninjatrader.md) offers comprehensive Volume Profile indicators that can be customized for futures, forex, and equities trading. Visit [NinjaTrader](https://ninjatrader.com/).
 
-4. **Sierra Chart**  
-   Sierra Chart is renowned for its robust and versatile charting tools, including high-quality Volume Profile features suitable for professional traders. Visit [Sierra Chart](https://www.sierrachart.com/).
+4. **[Sierra Chart](../s/sierra_chart.md)**  
+   [Sierra Chart](../s/sierra_chart.md) is renowned for its robust and versatile charting tools, including high-quality Volume Profile features suitable for professional traders. Visit [Sierra Chart](https://www.sierrachart.com/).
 
 5. **[MotiveWave](../m/motivewave.md)**  
    [MotiveWave](../m/motivewave.md) provides advanced Volume Profile tools with extensive customization options, catering to both retail and institutional traders. Visit [MotiveWave](https://www.motivewave.com/).

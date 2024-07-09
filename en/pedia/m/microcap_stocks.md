@@ -9,7 +9,7 @@ Microcap stocks, often referred to as micro-cap or microcaps, are publicly trade
 Microcap stocks possess unique characteristics that distinguish them from larger, more established companies. These traits include:
 
 1. **[Liquidity Risk](../l/liquidity_risk.md)**: Microcap stocks generally have lower trading volumes, which can lead to higher volatility and greater [liquidity risk](../l/liquidity_risk.md). This makes it more challenging to buy or sell large quantities of shares without significantly impacting the stock price.
-2. **Higher Growth Potential**: Being smaller companies, microcaps have the potential for higher growth rates compared to large-cap stocks. They can provide substantial returns if the company successfully expands and increases profitability.
+2. **Higher Growth Potential**: Being smaller companies, microcaps have the potential for higher [growth rates](../g/growth_rates_in_trading.md) compared to [large-cap stocks](../l/large_cap_stocks.md). They can provide substantial returns if the company successfully expands and increases profitability.
 3. **Less Analyst Coverage**: Microcap stocks typically receive less coverage from financial analysts and media. As a result, there is often less publicly available information, which can pose a challenge to investors in terms of conducting due diligence and evaluating the company's prospects.
 4. **Higher Risk**: The relative obscurity of microcap stocks and their lesser-known business models can translate into higher risk for investors. These companies may have less diversified business operations and be more vulnerable to economic downturns and industry-specific challenges.
 

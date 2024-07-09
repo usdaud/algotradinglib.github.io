@@ -1,6 +1,6 @@
 # Regression Analysis
 
-Regression analysis is a sophisticated statistical method used in [algorithmic trading](../a/algorithmic_trading.md) to understand the relationships between different financial variables. In the context of trading, it helps in predicting future price movements, identifying trading opportunities, and optimizing [trading strategies](../t/trading_strategies.md). Regression models can range from simple linear regressions to complex multivariate and non-linear models. This comprehensive guide delves into the various facets of regression analysis, its applications in [algorithmic trading](../a/algorithmic_trading.md), and how traders and quants can leverage it to gain a competitive edge.
+Regression analysis is a sophisticated statistical method used in [algorithmic trading](../a/algorithmic_trading.md) to understand the relationships between different financial variables. In the context of trading, it helps in predicting future price movements, identifying trading opportunities, and optimizing [trading strategies](../t/trading_strategies.md). Regression models can range from simple linear regressions to complex multivariate and non-[linear models](../l/linear_models_in_trading.md). This comprehensive guide delves into the various facets of regression analysis, its applications in [algorithmic trading](../a/algorithmic_trading.md), and how traders and quants can leverage it to gain a competitive edge.
 
 ## Types of Regression Models
 
@@ -42,13 +42,13 @@ Polynomial regression can be used to model more complex, non-linear relationship
 
 ### 4. Logistic Regression
 
-Logistic Regression is used when the dependent variable is binary (e.g., buy/sell, up/down). It models the probability that a given input point belongs to a particular class.
+[Logistic Regression](../l/logistic_regression_in_trading.md) is used when the dependent variable is binary (e.g., buy/sell, up/down). It models the probability that a given input point belongs to a particular class.
 
 \[ \text{logit}(P) = \log \left( \frac{P}{1-P} \right) = \beta_0 + \beta_1X_{i1} + \beta_2X_{i2} + \cdots + \beta_pX_{ip} \]
 
 #### Application in Trading
 
-Traders use logistic regression to develop models for classification tasks such as predicting whether the price of an asset will go up or down.
+Traders use [logistic regression](../l/logistic_regression_in_trading.md) to develop models for classification tasks such as predicting whether the price of an asset will go up or down.
 
 ### 5. Ridge and Lasso Regression
 
@@ -71,7 +71,7 @@ Quantile regression is useful for modeling and predicting the distribution of re
 
 ### 7. Time Series Regression
 
-Time Series Regression models are specifically designed to account for the temporal nature of financial data. These models often incorporate lagged variables and can include ARIMA (AutoRegressive Integrated Moving Average) models.
+Time Series Regression models are specifically designed to account for the temporal nature of financial data. These models often incorporate [lagged variables](../l/lagged_variables_in_trading.md) and can include ARIMA (AutoRegressive Integrated Moving Average) models.
 
 #### Application in Trading
 
@@ -89,11 +89,11 @@ P-values assess the significance of each independent variable. A low p-value (ty
 
 ### 3. Multicollinearity
 
-Multicollinearity occurs when independent variables are highly correlated with each other, which can distort the coefficients and affect the stability of the model. Techniques such as principal component analysis (PCA) can be used to address this issue.
+[Multicollinearity](../m/multicollinearity_in_trading.md) occurs when independent variables are highly correlated with each other, which can distort the coefficients and affect the stability of the model. Techniques such as [principal component analysis](../p/principal_component_analysis_(pca).md) (PCA) can be used to address this issue.
 
 ### 4. Residual Analysis
 
-Residual analysis involves examining the differences between observed and predicted values to evaluate the model's accuracy. [Autocorrelation](../a/autocorrelation.md) in residuals is a sign that a key predictor may be missing from the model.
+[Residual analysis](../r/residual_analysis_in_trading.md) involves examining the differences between observed and predicted values to evaluate the model's accuracy. [Autocorrelation](../a/autocorrelation.md) in residuals is a sign that a key predictor may be missing from the model.
 
 ### 5. Regularization
 
@@ -111,7 +111,7 @@ Data preprocessing involves cleaning the data, dealing with missing values, norm
 
 ### 3. Feature Selection
 
-Feature selection is the process of identifying the most relevant predictors for the model. Techniques such as [correlation analysis](../c/correlation_analysis.md), stepwise regression, and principal component analysis are commonly used.
+Feature selection is the process of identifying the most relevant predictors for the model. Techniques such as [correlation analysis](../c/correlation_analysis.md), stepwise regression, and [principal component analysis](../p/principal_component_analysis_(pca).md) are commonly used.
 
 ### 4. Model Building
 
@@ -153,7 +153,7 @@ AQR Capital Management focuses on [quantitative investing](../q/quantitative_inv
 
 [Visit WorldQuant](https://www.worldquant.com)
 
-WorldQuant is a global quantitative asset management firm that uses statistical and mathematical models, including regression analysis, to forecast price movements and execute trades.
+WorldQuant is a global quantitative asset management firm that uses statistical and [mathematical models](../m/mathematical_models_in_trading.md), including regression analysis, to forecast price movements and execute trades.
 
 ## Conclusion
 

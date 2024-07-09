@@ -30,7 +30,7 @@ In essence, spread trading attempts to profit from the relative price movements 
 
 ### Execution in Algorithmic Trading
 
-Algorithmic traders use various mathematical models and algorithms to identify and exploit potential spread opportunities. The algorithm must continuously monitor market conditions, correlations, and price movements to identify potential trades. 
+Algorithmic traders use various [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to identify and exploit potential spread opportunities. The algorithm must continuously monitor market conditions, correlations, and price movements to identify potential trades. 
 
 For example, statistical [arbitrage](../a/arbitrage.md) models often underpin [pairs trading](../p/pairs_trading.md) strategies, using historical price data to identify mean-reverting pairs. Machine learning techniques can also be employed to enhance the effectiveness of such strategies.
 
@@ -47,7 +47,7 @@ Several companies provide platforms and tools for spread trading in the [algorit
 - **MetaTrader 5 (MT5)**: A popular multi-asset platform that provides powerful tools for developing and implementing [algorithmic trading](../a/algorithmic_trading.md) strategies, including spread trading.
   [MetaTrader 5](https://www.metatrader5.com/)
 
-- **Interactive Brokers**: A well-known brokerage firm offering extensive API support for developing and implementing [algorithmic trading](../a/algorithmic_trading.md) strategies, including spread trading.
+- **[Interactive Brokers](../i/interactive_brokers.md)**: A well-known brokerage firm offering extensive API support for developing and implementing [algorithmic trading](../a/algorithmic_trading.md) strategies, including spread trading.
   [Interactive Brokers](https://www.interactivebrokers.com/)
 
 ### Spread Trading Strategies

@@ -25,7 +25,7 @@ A limit order is an order to buy or sell a security at a specific price or bette
 
 ### Characteristics of Limit Orders
 - **Price Control**: Traders can set the maximum or minimum price at which they are willing to buy or sell.
-- **Execution Uncertainty**: There is no guarantee that the order will be filled.
+- **Execution [Uncertainty](../u/uncertainty_in_trading.md)**: There is no guarantee that the order will be filled.
 
 ### Advantages
 - **Price Control**: Protects against buying at too high and selling at too low prices.
@@ -81,7 +81,7 @@ A trailing stop order is a dynamic stop order that adjusts the stop price at a f
 
 ### Disadvantages
 - **Complexity in Setup**: More complex to configure correctly.
-- **Execution Uncertainty**: Similar risks to regular stop orders in volatile markets.
+- **Execution [Uncertainty](../u/uncertainty_in_trading.md)**: Similar risks to regular stop orders in volatile markets.
 
 ## Market-if-Touched (MIT) Order
 
@@ -110,7 +110,7 @@ A Fill or Kill (FOK) order is an order to buy or sell that must be executed imme
 - **Time Sensitivity**: Useful for time-sensitive trades requiring complete fills.
 
 ### Disadvantages
-- **Execution Uncertainty**: Increased risk of non-execution due to the stringent requirements.
+- **Execution [Uncertainty](../u/uncertainty_in_trading.md)**: Increased risk of non-execution due to the stringent requirements.
 
 ## Immediate or Cancel (IOC) Order
 

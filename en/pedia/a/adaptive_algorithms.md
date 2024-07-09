@@ -4,13 +4,13 @@
 
 ## Introduction to Adaptive Algorithms
 
-Adaptive algorithms represent a subset of machine learning and artificial intelligence. These algorithms can learn and evolve from market data. They adjust their parameters and strategies dynamically in response to new market conditions, making them particularly effective in volatile and fast-changing markets.
+Adaptive algorithms represent a subset of machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md). These algorithms can learn and evolve from market data. They adjust their parameters and strategies dynamically in response to new market conditions, making them particularly effective in volatile and fast-changing markets.
 
 ## Types of Adaptive Algorithms
 
 ### 1. Self-Learning Algorithms
 
-Self-learning algorithms can automatically improve their [trading strategies](../t/trading_strategies.md) based on new data. They typically employ techniques such as supervised learning, unsupervised learning, and reinforcement learning.
+Self-[learning algorithms](../l/learning_algorithms_in_trading.md) can automatically improve their [trading strategies](../t/trading_strategies.md) based on new data. They typically employ techniques such as supervised learning, unsupervised learning, and reinforcement learning.
 
 #### Supervised Learning
 In supervised learning, algorithms are trained on labeled data, which means each training example is paired with the correct output. They learn to map input data to the desired output, making predictions or decisions based on this learned mapping.
@@ -19,7 +19,7 @@ In supervised learning, algorithms are trained on labeled data, which means each
 Unsupervised learning deals with unlabeled data. Algorithms try to identify patterns or intrinsic structures in input data. One commonly used method is clustering, where the algorithm tries to group similar data points together.
 
 #### Reinforcement Learning
-Reinforcement learning algorithms learn by receiving feedback through rewards or punishments based on the actions they take. Over time, they aim to maximize cumulative rewards, becoming more effective at trading decisions.
+Reinforcement [learning algorithms](../l/learning_algorithms_in_trading.md) learn by receiving feedback through rewards or punishments based on the actions they take. Over time, they aim to maximize cumulative rewards, becoming more effective at trading decisions.
 
 ### 2. Rule-Based Adaptive Algorithms
 
@@ -27,11 +27,11 @@ Rule-based adaptive algorithms use a predefined set of rules that adapt based on
 
 ### 3. Genetic Algorithms
 
-Genetic algorithms are inspired by the principles of natural evolution. They use operations such as selection, crossover, and mutation to evolve and improve [trading strategies](../t/trading_strategies.md). Over successive generations, these algorithms become more adept at optimizing [trading strategies](../t/trading_strategies.md) for specific market conditions.
+[Genetic algorithms](../g/genetic_algorithms_in_trading.md) are inspired by the principles of natural evolution. They use operations such as selection, crossover, and mutation to evolve and improve [trading strategies](../t/trading_strategies.md). Over successive generations, these algorithms become more adept at optimizing [trading strategies](../t/trading_strategies.md) for specific market conditions.
 
 ### 4. Neural Networks
 
-Neural networks are computational models inspired by the human brain. They are particularly effective in recognizing complex patterns in data. Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs) are two common types utilized in [algorithmic trading](../a/algorithmic_trading.md).
+[Neural networks](../n/neural_networks_in_trading.md) are computational models inspired by the human brain. They are particularly effective in recognizing complex patterns in data. Convolutional [Neural Networks](../n/neural_networks_in_trading.md) (CNNs) and Recurrent [Neural Networks](../n/neural_networks_in_trading.md) (RNNs) are two common types utilized in [algorithmic trading](../a/algorithmic_trading.md).
 
 #### Convolutional Neural Networks (CNNs)
 CNNs are particularly powerful in extracting spatial hierarchies in data. They are often used in image recognition but can also be employed to analyze time-series data in trading.
@@ -73,7 +73,7 @@ Many hedge funds and asset management firms leverage adaptive algorithms to maxi
 - [Renaissance Technologies](https://www.rentech.com/)
 - [Two Sigma](https://www.twosigma.com/)
 
-These companies rely heavily on data science teams to create and refine adaptive [trading algorithms](../t/trading_algorithms.md).
+These companies rely heavily on [data science](../d/data_science_in_trading.md) teams to create and refine adaptive [trading algorithms](../t/trading_algorithms.md).
 
 ### Market Making
 
@@ -87,7 +87,7 @@ Retail trading platforms are increasingly incorporating adaptive algorithms to o
 
 ### Integration of Quantum Computing
 
-Quantum computing promises to revolutionize [algorithmic trading](../a/algorithmic_trading.md) by solving complex optimization problems much more quickly than classical computers. Adaptive algorithms that can leverage quantum computing could potentially achieve unparalleled levels of speed and efficiency.
+[Quantum computing](../q/quantum_computing_in_trading.md) promises to revolutionize [algorithmic trading](../a/algorithmic_trading.md) by solving complex optimization problems much more quickly than classical computers. Adaptive algorithms that can leverage [quantum computing](../q/quantum_computing_in_trading.md) could potentially achieve unparalleled levels of speed and efficiency.
 
 ### Increased Use of Alternative Data
 

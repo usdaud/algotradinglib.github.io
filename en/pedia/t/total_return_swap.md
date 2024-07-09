@@ -25,7 +25,7 @@ Total Return Swaps can be structured in various ways, but the basic mechanisms i
 Imagine a hedge fund wants to gain exposure to the returns of a certain stock index but does not want to actually purchase the stocks due to regulatory restrictions or other reasons. Instead, they enter into a TRS with an investment bank. 
 
 - The hedge fund (total return receiver) will receive returns from the stock index, including both price appreciation and dividends.
-- The investment bank (total return payer) will receive periodic interest payments from the hedge fund, often based on a LIBOR rate plus a spread.
+- The investment bank (total return payer) will receive periodic interest payments from the hedge fund, often based on a [LIBOR rate](../l/libor_rate_analysis.md) plus a spread.
 
 At the end of each period, if the total return from the stock index is higher than the interest payments, the investment bank will pay the hedge fund the difference. If the total return is lower, the hedge fund will pay the investment bank.
 

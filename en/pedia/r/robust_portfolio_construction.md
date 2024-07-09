@@ -20,7 +20,7 @@ Traditional [mean-variance optimization](../m/mean-variance_optimization.md) see
 
 #### 4. Scenario Analysis
 
-Scenario analysis involves testing the portfolio under various hypothetical but plausible market conditions. This stress testing helps in understanding how the portfolio might behave under extreme conditions. By preparing for these scenarios, the portfolio's resilience to market shocks can be assessed and improved.
+Scenario analysis involves testing the portfolio under various hypothetical but plausible market conditions. This [stress testing](../s/stress_testing_in_trading.md) helps in understanding how the portfolio might behave under extreme conditions. By preparing for these scenarios, the portfolio's resilience to market shocks can be assessed and improved.
 
 ### Strategies for Robust Portfolio Construction
 
@@ -36,7 +36,7 @@ Multi-[factor models](../f/factor_models.md) extend the traditional Capital Asse
 
 #### 3. Machine Learning Techniques
 
-Machine learning techniques, especially those under the umbrella of artificial intelligence, have recently found their place in robust portfolio construction. Methods such as reinforcement learning, neural networks, and [clustering algorithms](../c/clustering_algorithms.md) are used to uncover patterns in data, optimize portfolios dynamically, and adjust to changing market conditions in real-time.
+Machine learning techniques, especially those under the umbrella of [artificial intelligence](../a/artificial_intelligence_in_trading.md), have recently found their place in robust portfolio construction. Methods such as reinforcement learning, [neural networks](../n/neural_networks_in_trading.md), and [clustering algorithms](../c/clustering_algorithms.md) are used to uncover patterns in data, optimize portfolios dynamically, and adjust to changing market conditions in real-time.
 
 ### Tools for Implementing Robust Portfolios
 

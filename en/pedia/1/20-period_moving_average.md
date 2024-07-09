@@ -75,7 +75,7 @@ Many trading platforms and software provide tools to easily implement and utiliz
 #### Limitations
 
 - **Lag**: Being a historical average, it may react slower to sudden market changes compared to more responsive indicators like the EMA.
-- **Whipsaws**: In volatile markets, the price can frequently cross above and below the moving average, leading to false signals.
+- **Whipsaws**: In volatile markets, the price can frequently cross above and below the moving average, leading to [false signals](../f/false_signals_in_trading.md).
 - **Fixed Period**: The 20-period setting may not be suitable for all trading environments or timeframes, requiring optimization based on the specific context.
 
 ### Optimization and Backtesting

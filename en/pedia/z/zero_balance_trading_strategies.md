@@ -18,7 +18,7 @@
 
 - **Historical Data**: A robust dataset that includes past price movements, trading volume, and other relevant factors is essential. Companies like [Quandl](https://www.quandl.com) and [Bloomberg](https://www.bloomberg.com/professional/solution/api/) provide comprehensive historical financial data.
 
-- **[Quantitative Models](../q/quantitative_models.md)**: Traders use advanced [quantitative models](../q/quantitative_models.md) to identify potential trades. Common models include [mean reversion](../m/mean_reversion.md), [co-integration](../c/co-integration.md), and machine learning models like Random Forests and Neural Networks.
+- **[Quantitative Models](../q/quantitative_models.md)**: Traders use advanced [quantitative models](../q/quantitative_models.md) to identify potential trades. Common models include [mean reversion](../m/mean_reversion.md), [co-integration](../c/co-integration.md), and machine learning models like [Random Forests](../r/random_forests_in_trading.md) and [Neural Networks](../n/neural_networks_in_trading.md).
 
 #### Algorithm Development
 
@@ -44,7 +44,7 @@
 
 **Renaissance Technologies**: A hedge fund known for its Medallion Fund, the firm employs market-neutral strategies that have yielded extraordinary returns. Their approach combines vast datasets with advanced [quantitative models](../q/quantitative_models.md) to engage in statistical [arbitrage](../a/arbitrage.md) and market-neutral trading.
 
-**Two Sigma**: This investment manager uses technology and data science to drive its investment strategies. Within its market-neutral portfolios, Two Sigma employs sophisticated algorithms to trade both equities and [derivatives](../d/derivatives.md), leveraging its proprietary models to achieve desired outcomes.
+**Two Sigma**: This investment manager uses technology and [data science](../d/data_science_in_trading.md) to drive its investment strategies. Within its market-neutral portfolios, Two Sigma employs sophisticated algorithms to trade both equities and [derivatives](../d/derivatives.md), leveraging its proprietary models to achieve desired outcomes.
 
 ### Challenges and Considerations
 
@@ -56,10 +56,10 @@
 
 ### Future Directions
 
-The future of [zero balance](../z/zero_balance.md) [trading strategies](../t/trading_strategies.md) lies in the integration of artificial intelligence and machine learning. These technologies enable more adaptive and self-learning models, which can enhance the identification of trading opportunities and risk mitigation.
+The future of [zero balance](../z/zero_balance.md) [trading strategies](../t/trading_strategies.md) lies in the integration of [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning. These technologies enable more adaptive and self-learning models, which can enhance the identification of trading opportunities and risk mitigation.
 
 - **AI and Machine Learning**: Firms like [AlphaSense](https://www.alpha-sense.com) are pioneering the use of AI in financial analytics, paving the way for more sophisticated and adaptive market-neutral strategies.
 
-- **Quantum Computing**: As quantum computing evolves, it has the potential to revolutionize [zero balance](../z/zero_balance.md) [trading strategies](../t/trading_strategies.md) by solving complex optimization problems faster than classical computers.
+- **[Quantum Computing](../q/quantum_computing_in_trading.md)**: As [quantum computing](../q/quantum_computing_in_trading.md) evolves, it has the potential to revolutionize [zero balance](../z/zero_balance.md) [trading strategies](../t/trading_strategies.md) by solving complex optimization problems faster than classical computers.
 
 In conclusion, [zero balance](../z/zero_balance.md) [trading strategies](../t/trading_strategies.md) represent a sophisticated approach to [algorithmic trading](../a/algorithmic_trading.md), focusing on neutralizing market risks while exploiting relative price discrepancies. Leveraging advanced data analysis, [quantitative models](../q/quantitative_models.md), and cutting-edge technology, these strategies continue to evolve, offering significant opportunities for skilled traders and technologists alike.

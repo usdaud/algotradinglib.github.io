@@ -1,14 +1,14 @@
 # Wave Analysis
 
-Wave Analysis, often referred to in technical trading circles as [Elliott Wave Theory](../e/elliott_wave_theory.md), is a method for predicting [market cycles](../m/market_cycles.md) and trends by identifying repetitive wave patterns. This theory was developed by Ralph Nelson Elliott in the 1930s, and since then, it has become an essential tool for many traders, particularly those engaged in [algorithmic trading](../a/algorithmic_trading.md).
+Wave Analysis, often referred to in technical trading circles as [Elliott Wave Theory](../e/elliott_wave_theory.md), is a method for predicting [market cycles](../m/market_cycles.md) and trends by identifying repetitive [wave patterns](../w/wave_patterns_in_trading.md). This theory was developed by Ralph Nelson Elliott in the 1930s, and since then, it has become an essential tool for many traders, particularly those engaged in [algorithmic trading](../a/algorithmic_trading.md).
 
 ### Concept of Wave Analysis
 
-Wave Analysis is predicated on the belief that financial markets move in a series of recognizable, repetitive cycles, driven by collective investor psychology or sentiment. These cycles are reflected in the wave patterns visible on market charts. Elliott posited that market movements are the result of a natural rhythm of crowd behavior and are therefore predictable.
+Wave Analysis is predicated on the belief that financial markets move in a series of recognizable, repetitive cycles, driven by collective investor psychology or sentiment. These cycles are reflected in the [wave patterns](../w/wave_patterns_in_trading.md) visible on market charts. Elliott posited that market movements are the result of a natural rhythm of crowd behavior and are therefore predictable.
 
 ### Elliott Wave Theory
 
-[Elliott Wave Theory](../e/elliott_wave_theory.md) divides market price movements into predictable wave patterns, which are broken down into two categories: impulse waves and corrective waves.
+[Elliott Wave Theory](../e/elliott_wave_theory.md) divides market price movements into predictable [wave patterns](../w/wave_patterns_in_trading.md), which are broken down into two categories: impulse waves and corrective waves.
 
 #### Impulse Waves
 
@@ -28,7 +28,7 @@ Corrective waves are the counter to impulse waves and are movements against the 
 
 ### Wave Degrees and Fractal Nature
 
-One of the cornerstones of [Elliott Wave Theory](../e/elliott_wave_theory.md) is its fractal nature, meaning that wave patterns exist at all degrees of trend. This means that each wave within a specific degree contains lesser waves of the same basic pattern. The hierarchy of waves ranges from the largest Supercycle waves taking decades to complete, to the smallest waves that form intraday.
+One of the cornerstones of [Elliott Wave Theory](../e/elliott_wave_theory.md) is its fractal nature, meaning that [wave patterns](../w/wave_patterns_in_trading.md) exist at all degrees of trend. This means that each wave within a specific degree contains lesser waves of the same basic pattern. The hierarchy of waves ranges from the largest Supercycle waves taking decades to complete, to the smallest waves that form intraday.
 
 ### Application of Wave Analysis in Algorithmic Trading
 
@@ -36,7 +36,7 @@ The implementation of wave principles within [algorithmic trading](../a/algorith
 
 #### Pattern Recognition Algorithms
 
-[Pattern recognition](../p/pattern_recognition.md) is a critical aspect of wave analysis in [algorithmic trading](../a/algorithmic_trading.md). Algorithms can be trained using historical data to recognize the repetitive wave patterns. Machine learning techniques, including neural networks and deep learning, are often used for this purpose. These algorithms analyze massive amounts of historical market data to identify and predict future wave formations.
+[Pattern recognition](../p/pattern_recognition.md) is a critical aspect of wave analysis in [algorithmic trading](../a/algorithmic_trading.md). Algorithms can be trained using historical data to recognize the repetitive [wave patterns](../w/wave_patterns_in_trading.md). Machine learning techniques, including [neural networks](../n/neural_networks_in_trading.md) and deep learning, are often used for this purpose. These algorithms analyze massive amounts of historical market data to identify and predict future wave formations.
 
 #### Risk Management Strategies
 
@@ -44,7 +44,7 @@ Wave analysis also supports robust [risk management](../r/risk_management.md) st
 
 ### Software and Tools for Wave Analysis
 
-Numerous software tools and trading platforms provide functionalities for Elliott Wave analysis. Some notable ones include:
+Numerous [software tools](../s/software_tools_for_trading.md) and trading platforms provide functionalities for Elliott Wave analysis. Some notable ones include:
 
 - **Elliott Wave International**: A comprehensive platform providing education and tools focused on Elliott Wave analysis. [Elliott Wave International](https://www.elliottwave.com/)
 - **[MotiveWave](../m/motivewave.md)**: An advanced charting platform focusing heavily on [Elliott Wave theory](../e/elliott_wave_theory.md) and other [technical analysis](../t/technical_analysis.md) tools. [MotiveWave](https://www.motivewave.com/)

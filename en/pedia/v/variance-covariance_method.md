@@ -2,7 +2,7 @@
 
 ### Introduction
 
-The Variance-Covariance Method, also known as the delta-normal approach, is a statistical approach used in [financial risk management](../f/financial_risk_management.md) to estimate Value at Risk (VaR) and other risk measures. This method leverages the assumptions of normal distribution and linearity to simplify the estimation of the potential loss in a portfolio. In this comprehensive guide, we will delve into the detailed mechanisms, advantages, limitations, and applications of this method in [algorithmic trading](../a/algorithmic_trading.md) and [portfolio management](../p/portfolio_management.md).
+The Variance-Covariance Method, also known as the delta-normal approach, is a statistical approach used in [financial risk management](../f/financial_risk_management.md) to estimate Value at Risk (VaR) and other risk measures. This method leverages the assumptions of [normal distribution](../n/normal_distribution_in_trading.md) and linearity to simplify the estimation of the potential loss in a portfolio. In this comprehensive guide, we will delve into the detailed mechanisms, advantages, limitations, and applications of this method in [algorithmic trading](../a/algorithmic_trading.md) and [portfolio management](../p/portfolio_management.md).
 
 ### Fundamental Concepts
 
@@ -104,8 +104,8 @@ where:
 
 ### Limitations and Assumptions
 
-1. **Normal Distribution Assumption**: The method assumes that asset returns are normally distributed, which is often not the case in financial markets, especially during periods of extreme volatility.
-2. **Linearity Assumption**: Assumes that portfolio return is a linear combination of individual asset returns, ignoring non-linear risk factors such as options.
+1. **[Normal Distribution](../n/normal_distribution_in_trading.md) Assumption**: The method assumes that asset returns are normally distributed, which is often not the case in financial markets, especially during periods of extreme volatility.
+2. **Linearity Assumption**: Assumes that portfolio return is a linear combination of individual asset returns, ignoring non-linear [risk factors](../r/risk_factors_in_trading.md) such as options.
 3. **Static Covariance**: Assumes the covariance matrix is static, which may not accurately reflect the dynamic nature of market correlations.
 
 ### Practical Implementation and Tools

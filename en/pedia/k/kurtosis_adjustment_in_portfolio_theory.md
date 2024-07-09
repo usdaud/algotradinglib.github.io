@@ -6,13 +6,13 @@
 
 Kurtosis is a statistical measure that describes the shape of a distribution's tails in relation to its overall shape. Specifically, it measures the tails' heaviness or thickness. In the context of financial returns:
 
-- **Leptokurtic Distributions**: These have positive kurtosis, indicating that the distribution has fatter tails and a sharper peak compared to a normal distribution. This suggests abnormally high probabilities of extreme outcomes.
+- **Leptokurtic Distributions**: These have positive kurtosis, indicating that the distribution has fatter tails and a sharper peak compared to a [normal distribution](../n/normal_distribution_in_trading.md). This suggests abnormally high probabilities of extreme outcomes.
 - **Platykurtic Distributions**: These have negative kurtosis, indicating thinner tails and a flatter peak, implying reduced probabilities of extreme outcomes.
-- **Mesokurtic Distributions**: These have zero kurtosis, which characterizes a normal distribution.
+- **Mesokurtic Distributions**: These have zero kurtosis, which characterizes a [normal distribution](../n/normal_distribution_in_trading.md).
 
 ### Importance of Kurtosis in Portfolio Theory
 
-Incorporating kurtosis into portfolio theory allows for a more accurate representation of asset return distributions, especially in financial markets where extreme events are not as rare as a normal distribution would predict. The consideration of kurtosis leads to a more robust [risk management](../r/risk_management.md) framework by acknowledging the higher likelihood of outlier events. Traditional models that ignore kurtosis might underestimate the risk, especially during periods of market stress.
+Incorporating kurtosis into portfolio theory allows for a more accurate representation of asset return distributions, especially in financial markets where extreme events are not as rare as a [normal distribution](../n/normal_distribution_in_trading.md) would predict. The consideration of kurtosis leads to a more robust [risk management](../r/risk_management.md) framework by acknowledging the higher likelihood of outlier events. Traditional models that ignore kurtosis might underestimate the risk, especially during periods of market stress.
 
 ### Kurtosis and Modern Portfolio Theory (MPT)
 
@@ -24,7 +24,7 @@ Modern Portfolio Theory (MPT), introduced by Harry Markowitz, primarily focuses 
 
 1. **Identify Riskier Assets**: Assets with high positive kurtosis are riskier due to the likelihood of extreme returns.
 2. **Adjust [Position Sizing](../p/position_sizing.md)**: Reducing exposure to assets or strategies with unfavorable kurtotic characteristics to manage [tail risk](../t/tail_risk.md).
-3. **Stress Testing**: Incorporating scenarios that reflect fat-tail events to assess the potential impact on [portfolio performance](../p/portfolio_performance.md).
+3. **[Stress Testing](../s/stress_testing_in_trading.md)**: Incorporating scenarios that reflect fat-tail events to assess the potential impact on [portfolio performance](../p/portfolio_performance.md).
 
 ### Calculation of Kurtosis
 
@@ -48,7 +48,7 @@ where:
 
 #### Case Study: Long-Term Capital Management (LTCM)
 
-LTCM's collapse in 1998 is a pertinent example of the perils of ignoring kurtosis. LTCM's [trading strategies](../t/trading_strategies.md) were heavily based on [mean-variance optimization](../m/mean-variance_optimization.md), disregarding the likelihood of extreme market events. The Russian financial crisis led to substantial losses due to the unforeseen extreme tail events, exemplifying the importance of incorporating kurtosis in risk models.
+LTCM's collapse in 1998 is a pertinent example of the perils of ignoring kurtosis. LTCM's [trading strategies](../t/trading_strategies.md) were heavily based on [mean-variance optimization](../m/mean-variance_optimization.md), disregarding the likelihood of extreme market events. The Russian financial crisis led to substantial losses due to the unforeseen extreme tail events, exemplifying the importance of incorporating kurtosis in [risk models](../r/risk_models_in_trading.md).
 
 #### Application: Portfolio Optimization Tools
 

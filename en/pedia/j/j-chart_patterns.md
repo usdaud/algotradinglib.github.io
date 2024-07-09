@@ -86,7 +86,7 @@ Write the algorithm code to scan the historical data and detect the formation of
 
 ### Step 4: Integrate Technical Indicators
 
-Enhance the algorithm by integrating [technical indicators](../t/technical_indicators.md) that can help confirm the identified patterns and filter out false signals.
+Enhance the algorithm by integrating [technical indicators](../t/technical_indicators.md) that can help confirm the identified patterns and filter out [false signals](../f/false_signals_in_trading.md).
 
 ### Step 5: Backtesting
 
@@ -106,7 +106,7 @@ Continuously monitor and optimize the algorithm based on its performance. Market
 
 - **Automation:** Allows for automatic and efficient identification of trading opportunities without manual intervention.
 - **Speed:** Algorithms can process vast amounts of data and execute trades faster than human traders.
-- **Consistency:** Algorithms follow predefined rules, reducing the impact of emotional and psychological biases.
+- **Consistency:** Algorithms follow predefined rules, reducing the impact of emotional and [psychological biases](../p/psychological_biases_in_trading.md).
 
 ### Limitations
 

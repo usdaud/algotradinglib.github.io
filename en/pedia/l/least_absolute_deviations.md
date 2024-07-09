@@ -18,7 +18,7 @@ Here, \(y_i\) represents the observed value and \( \beta_0 + \beta_1 x_{i1} + \b
 
 1. **Robustness**: LAD is less sensitive to extreme values as it minimizes the absolute rather than the squared differences. This characteristic is beneficial when dealing with market data that often contain outliers.
    
-2. **Better Performance with Fat-Tails**: Financial data often exhibit heavy tails (extreme deviations from the mean are more frequent than in a normal distribution). LAD can handle such data distributions more effectively.
+2. **Better Performance with Fat-Tails**: Financial data often exhibit heavy tails (extreme deviations from the mean are more frequent than in a [normal distribution](../n/normal_distribution_in_trading.md)). LAD can handle such data distributions more effectively.
 
 3. **Scalability**: Contemporary [algorithmic trading](../a/algorithmic_trading.md) systems require models that scale well with high-dimensional data. LAD can be computationally efficient, especially with advanced optimization algorithms.
 
@@ -26,11 +26,11 @@ Here, \(y_i\) represents the observed value and \( \beta_0 + \beta_1 x_{i1} + \b
 
 The optimization problem posed by LAD is non-differentiable due to the absolute value function, which makes it challenging to solve using traditional gradient-based methods. However, there are several approaches to tackle this:
 
-1. **Linear Programming**: The LAD problem can be transformed into a linear programming problem, which can then be solved using standard linear programming techniques.
+1. **[Linear Programming](../l/linear_programming_in_trading.md)**: The LAD problem can be transformed into a [linear programming](../l/linear_programming_in_trading.md) problem, which can then be solved using standard [linear programming](../l/linear_programming_in_trading.md) techniques.
 
 2. **Subgradient Methods**: These methods can handle non-differentiable functions by using subgradients instead of gradients.
 
-3. **Simplex Method**: The Simplex Method can be used to find the minimum of the linear programming problem reformulation of LAD.
+3. **Simplex Method**: The Simplex Method can be used to find the minimum of the [linear programming](../l/linear_programming_in_trading.md) problem reformulation of LAD.
 
 ### Applications in Algorithmic Trading
 
@@ -44,10 +44,10 @@ The optimization problem posed by LAD is non-differentiable due to the absolute 
 
 1. **AQR Capital Management**: AQR is known for its [quantitative analysis](../q/quantitative_analysis.md) and robust modeling techniques which could involve sophisticated methods like LAD. More info at [AQR](https://www.aqr.com/).
 
-2. **Two Sigma**: This hedge fund relies heavily on data science and statistical methods. While their public documentation is limited, their emphasis on robust [predictive modeling](../p/predictive_modeling.md) aligns with LAD principles. More details can be found at [Two Sigma](https://www.twosigma.com/).
+2. **Two Sigma**: This hedge fund relies heavily on [data science](../d/data_science_in_trading.md) and statistical methods. While their public documentation is limited, their emphasis on robust [predictive modeling](../p/predictive_modeling.md) aligns with LAD principles. More details can be found at [Two Sigma](https://www.twosigma.com/).
 
 3. **Renaissance Technologies**: Another leading name in [quantitative finance](../q/quantitative_finance.md), Renaissance Technologies might leverage robust statistical techniques like LAD to minimize model inaccuracies in the face of [market anomalies](../m/market_anomalies.md). Visit [Renaissance Technologies](https://www.rentech.com/) for more information.
 
 ### Conclusion
 
-Least Absolute Deviations offer a robust alternative to traditional least squares methods, making it valuable for [algorithmic trading](../a/algorithmic_trading.md) applications. Its ability to handle outliers and fat-tailed distributions makes it particularly well-suited for the kinds of data encountered in financial markets. Companies like AQR, Two Sigma, and Renaissance Technologies may use such methods to enhance their predictive models, ensuring greater accuracy and better [risk management](../r/risk_management.md) in their [trading strategies](../t/trading_strategies.md).
+Least Absolute Deviations offer a robust alternative to traditional least squares methods, making it valuable for [algorithmic trading](../a/algorithmic_trading.md) applications. Its ability to handle outliers and fat-tailed distributions makes it particularly well-suited for the kinds of data encountered in financial markets. Companies like AQR, Two Sigma, and Renaissance Technologies may use such methods to enhance their [predictive models](../p/predictive_models_in_trading.md), ensuring greater accuracy and better [risk management](../r/risk_management.md) in their [trading strategies](../t/trading_strategies.md).

@@ -14,7 +14,7 @@ CQG (Commodity Quote Graphics) is a leading provider of high-performance trading
 8. **API Access**: Offers APIs for integrating CQG data and trading capabilities into third-party applications.
 
 ## Key Components
-- **CQG Integrated Client (CQG IC)**: A comprehensive trading and charting platform that includes advanced charting, trading, and order management tools.
+- **CQG Integrated Client (CQG IC)**: A comprehensive trading and charting platform that includes advanced charting, trading, and [order management](../o/order_management_in_trading.md) tools.
 - **CQG QTrader**: A lighter version of CQG IC, designed for traders who need advanced charting and trading capabilities without the full suite of professional tools.
 - **CQG API**: Provides access to CQG’s market data and trading capabilities for integration with custom applications and third-party platforms.
 - **CQG Spreader**: A sophisticated tool for trading and managing spread trades.

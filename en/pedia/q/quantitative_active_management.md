@@ -16,7 +16,7 @@ Quantitative active management is essentially a data-driven approach to making i
 
 4. **[Backtesting](../b/backtesting.md)**: This is the process of running the [quantitative models](../q/quantitative_models.md) on historical data to evaluate their effectiveness. [Backtesting](../b/backtesting.md) helps in refining strategies and ensuring they would have been profitable in the past.
 
-5. **[Risk Management](../r/risk_management.md)**: Given the leverage and complex strategies often employed, robust [risk management](../r/risk_management.md) systems are crucial. These monitor market exposure, liquidity, and other risk factors in real time to prevent outsized losses.
+5. **[Risk Management](../r/risk_management.md)**: Given the leverage and complex strategies often employed, robust [risk management](../r/risk_management.md) systems are crucial. These monitor market exposure, liquidity, and other [risk factors](../r/risk_factors_in_trading.md) in real time to prevent outsized losses.
 
 ## Strategies in Quantitative Active Management
 
@@ -32,7 +32,7 @@ Quantitative active management encompasses a variety of strategies, each with it
 
 5. **[Factor Investing](../f/factor_investing.md)**: This strategy involves building portfolios based on certain attributes or "factors" that have been empirically shown to drive returns. Common factors include value, momentum, size, and volatility.
 
-6. **Machine Learning and AI**: Increasingly, QAM incorporates sophisticated AI techniques like neural networks, random forests, and natural language processing to identify patterns and generate [trading signals](../t/trading_signals.md).
+6. **Machine Learning and AI**: Increasingly, QAM incorporates sophisticated AI techniques like [neural networks](../n/neural_networks_in_trading.md), [random forests](../r/random_forests_in_trading.md), and [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) to identify patterns and generate [trading signals](../t/trading_signals.md).
 
 ## Tools and Technologies
 
@@ -72,7 +72,7 @@ While QAM has its advantages, it also faces several challenges:
 
 3. **Technological Costs**: The infrastructure required for data processing, storage, and high-frequency trading can be prohibitively expensive.
   
-4. **Market Dynamics**: Rapid changes in market conditions can render predictive models obsolete, requiring constant innovation and adaptation.
+4. **Market Dynamics**: Rapid changes in market conditions can render [predictive models](../p/predictive_models_in_trading.md) obsolete, requiring constant innovation and adaptation.
 
 5. **Talent Acquisition**: Quantitative active management requires a unique blend of skills in mathematics, statistics, computer science, and finance, making talent acquisition a significant challenge.
 
@@ -84,10 +84,10 @@ The future of quantitative active management is likely to be shaped by advances 
 
 2. **[Alternative Data](../a/alternative_data.md)**: The use of [non-traditional data sources](../n/non-traditional_data_sources.md), such as social media, satellite images, and IoT devices, will become more prevalent in [predictive modeling](../p/predictive_modeling.md).
 
-3. **Quantum Computing**: Although still in its infancy, quantum computing holds the promise of exponential increases in computational power, potentially revolutionizing QAM.
+3. **[Quantum Computing](../q/quantum_computing_in_trading.md)**: Although still in its infancy, [quantum computing](../q/quantum_computing_in_trading.md) holds the promise of exponential increases in computational power, potentially revolutionizing QAM.
 
 4. **Integration of ESG Factors**: [Quantitative models](../q/quantitative_models.md) will increasingly incorporate environmental, social, and governance (ESG) factors to meet the growing demand for sustainable investing.
 
 5. **Real-time Analytics**: Advances in real-time data processing and analytics will enable even more dynamic and responsive [trading strategies](../t/trading_strategies.md).
 
-In conclusion, quantitative active management represents a dynamic and rapidly evolving field that leverages the confluence of finance, data science, and technology to develop sophisticated investment strategies. As data availability and computational power continue to grow, the capabilities of quantitative active management will only expand, offering new opportunities and challenges for investors and researchers alike.
+In conclusion, quantitative active management represents a dynamic and rapidly evolving field that leverages the confluence of finance, [data science](../d/data_science_in_trading.md), and technology to develop sophisticated investment strategies. As data availability and computational power continue to grow, the capabilities of quantitative active management will only expand, offering new opportunities and challenges for investors and researchers alike.

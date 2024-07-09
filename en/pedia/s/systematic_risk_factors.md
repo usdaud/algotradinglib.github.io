@@ -17,7 +17,7 @@ Inflation risk refers to the possibility that the purchasing power of an investm
 Economic risk is the risk that an investment will lose value due to economic instability or a downturn in the economy. This can be due to a variety of factors including unemployment rates, GDP growth, and changes in the economic policies of a country.
 
 ### 5. **Political Risk**
-Political risk involves the uncertainty and financial loss that can result from changes in the political environment or instability in a country. Political events such as changes in government, legislation, regulatory environments, and other forms of political instability can impact investments.
+Political risk involves the [uncertainty](../u/uncertainty_in_trading.md) and financial loss that can result from changes in the political environment or instability in a country. Political events such as changes in government, legislation, regulatory environments, and other forms of political instability can impact investments.
 
 ### 6. **Credit Risk**
 Although often considered a form of specific risk, credit risk can also be systematic when it affects an entire market segment. Credit risk involves the potential that a borrower will default on their financial obligations, impacting the broader financial stability.
@@ -33,7 +33,7 @@ Event risk refers to the unexpected occurrences that can affect market prices, s
 [Algorithmic trading](../a/algorithmic_trading.md) (or algo-trading) involves using computer algorithms to automatically make trading decisions, submit orders, and manage those orders after submission. In this context, understanding and managing [systematic risk](../s/systematic_risk.md) factors becomes crucial for several reasons:
 
 ### **Low Latency Execution**
-Algorithms can react to market risk factors with minimal latency, thus potentially mitigating some of the impacts of systematic risks. However, the rapid reaction to market events can also magnify market movements during periods of high volatility.
+Algorithms can react to market [risk factors](../r/risk_factors_in_trading.md) with minimal latency, thus potentially mitigating some of the impacts of systematic risks. However, the rapid reaction to market events can also magnify market movements during periods of high volatility.
 
 ### **Risk Management Algorithms**
 Advanced [risk management](../r/risk_management.md) algorithms are designed to identify and respond to systematic risks by adjusting portfolios automatically. Machine learning techniques enable these algorithms to predict and mitigate economic and market risks more accurately.

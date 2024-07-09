@@ -72,7 +72,7 @@ Several metrics are employed in [risk analysis](../r/risk_analysis.md) to quanti
 ### Tools and Technologies
 
 - **Python/R**: These programming languages are widely used in [algorithmic trading](../a/algorithmic_trading.md) for data analysis and model development. Libraries such as NumPy, pandas, and scikit-learn are particularly useful.
-- **Trading Platforms**: Interactive Brokers, MetaTrader, and [QuantConnect](../q/quantconnect.md) provide environments for executing algorithmic strategies.
+- **Trading Platforms**: [Interactive Brokers](../i/interactive_brokers.md), MetaTrader, and [QuantConnect](../q/quantconnect.md) provide environments for executing algorithmic strategies.
     - [Interactive Brokers](https://www.interactivebrokers.com)
     - [QuantConnect](https://www.quantconnect.com)
 - **[Risk Management](../r/risk_management.md) Software**: Tools like RiskMetrics, Barra, and [Bloomberg](../b/bloomberg.md) Terminal offer advanced risk analytics.
@@ -83,7 +83,7 @@ Several metrics are employed in [risk analysis](../r/risk_analysis.md) to quanti
 
 ### Renaissance Technologies
 
-Renaissance Technologies, one of the most famous hedge funds, applies sophisticated mathematical models to predict price changes in financial instruments. Their flagship Medallion Fund has achieved phenomenal returns by balancing yield against associated risks through advanced [quantitative models](../q/quantitative_models.md).
+Renaissance Technologies, one of the most famous hedge funds, applies sophisticated [mathematical models](../m/mathematical_models_in_trading.md) to predict price changes in financial instruments. Their flagship Medallion Fund has achieved phenomenal returns by balancing yield against associated risks through advanced [quantitative models](../q/quantitative_models.md).
 - [Renaissance Technologies](https://www.rentec.com)
 
 ### Bridgewater Associates

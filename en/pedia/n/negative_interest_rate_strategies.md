@@ -48,7 +48,7 @@ For more on their strategy, visit [AQR Capital Management](https://www.aqr.com/)
 
 **Case Study: Renaissance Technologies**
 
-Renaissance Technologies, another prominent hedge fund, uses sophisticated mathematical models for trading in various asset classes. Their Medallion Fund has been known to perform well regardless of broader market conditions, thanks to its reliance on algorithmic adjustments to macroeconomic changes like negative interest rates.
+Renaissance Technologies, another prominent hedge fund, uses sophisticated [mathematical models](../m/mathematical_models_in_trading.md) for trading in various asset classes. Their Medallion Fund has been known to perform well regardless of broader market conditions, thanks to its reliance on algorithmic adjustments to macroeconomic changes like negative interest rates.
 
 For more information, visit [Renaissance Technologies](https://www.rentec.com/).
 
@@ -56,7 +56,7 @@ For more information, visit [Renaissance Technologies](https://www.rentec.com/).
 
 One of the critical aspects of adopting negative interest rate strategies is robust [risk management](../r/risk_management.md). The financial landscape's volatility necessitates tools and algorithms that can constantly assess and mitigate risks. Key elements include:
 
-1. **Stress Testing:** Simulating various scenarios to understand how negative interest rates impact portfolios under extreme market conditions.
+1. **[Stress Testing](../s/stress_testing_in_trading.md):** Simulating various scenarios to understand how negative interest rates impact portfolios under extreme market conditions.
 
 2. **VaR Models:** Using Value-at-Risk (VaR) models tailored to account for negative rate environments, aiding in understanding potential losses.
 
@@ -68,9 +68,9 @@ One of the critical aspects of adopting negative interest rate strategies is rob
 
 #### Future Prospects
 
-The continuation of negative interest rate policies depends on several factors including global economic recovery, inflation rates, and monetary policy evolution. Financial innovations and the advancement in artificial intelligence promise to enhance algo trading capabilities, allowing for even more sophisticated strategies in navigating this complex environment.
+The continuation of negative interest rate policies depends on several factors including global economic recovery, inflation rates, and monetary policy evolution. Financial innovations and the advancement in [artificial intelligence](../a/artificial_intelligence_in_trading.md) promise to enhance algo trading capabilities, allowing for even more sophisticated strategies in navigating this complex environment.
 
-As central banks continue exploring unconventional monetary policies, [algorithmic trading](../a/algorithmic_trading.md) firms will likely innovate further, leveraging big data analytics and machine learning to maintain competitive advantages and manage the intricacies inherent in negative interest rate environments.
+As central banks continue exploring unconventional monetary policies, [algorithmic trading](../a/algorithmic_trading.md) firms will likely innovate further, leveraging [big data analytics](../b/big_data_analytics_in_trading.md) and machine learning to maintain competitive advantages and manage the intricacies inherent in negative interest rate environments.
 
 In a future characterized by increasingly interconnected economies and accelerated technological growth, the role of [algorithmic trading](../a/algorithmic_trading.md) in deciphering and capitalizing on negative interest rates will only become more crucial.
 

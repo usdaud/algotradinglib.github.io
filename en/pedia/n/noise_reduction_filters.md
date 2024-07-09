@@ -47,7 +47,7 @@ Where:
 - \( P \) is the estimate covariance.
 - \( Q \) is the process noise covariance.
 - \( R \) is the measurement noise covariance.
-- \( K \) is the Kalman gain.
+- \( K \) is the [Kalman gain](../k/kalman_gain_in_trading.md).
 
 ### 3. **Butterworth Filters**
 Butterworth filters are designed to have a flat frequency response in the passband, making them ideal for reducing high-frequency noise while preserving signals of interest. They can be implemented as low-pass, high-pass, band-pass, or band-stop filters.
@@ -70,7 +70,7 @@ Where \( \tau_t \) is the trend component, and \( \lambda \) is a smoothing para
 ## Applications of Noise Reduction Filters in Algorithmic Trading
 
 ### Signal Identification
-Noise reduction filters help in identifying true [trading signals](../t/trading_signals.md) by filtering out false signals caused by market noise. For example, moving averages can help in identifying trends, while Kalman filters can be used for real-time state estimation.
+Noise reduction filters help in identifying true [trading signals](../t/trading_signals.md) by filtering out [false signals](../f/false_signals_in_trading.md) caused by market noise. For example, moving averages can help in identifying trends, while Kalman filters can be used for real-time state estimation.
 
 ### Risk Management
 By reducing noise, traders can better assess the risk associated with their positions. Smoother data makes it easier to calculate important [risk metrics](../r/risk_metrics.md) such as volatility and Value at Risk (VaR).
@@ -90,11 +90,11 @@ For event-driven strategies that rely on news and other external data, noise red
 
 ### Step-by-Step Implementation:
 1. **Data Collection:** Collect historical price data for the two assets.
-2. **Initialization:** Initialize the Kalman filter parameters.
-3. **State Estimation:** Estimate the spread using the Kalman filter.
+2. **Initialization:** Initialize the [Kalman filter](../k/kalman_filter_in_trading.md) parameters.
+3. **State Estimation:** Estimate the spread using the [Kalman filter](../k/kalman_filter_in_trading.md).
 4. **Signal Generation:** Generate [trading signals](../t/trading_signals.md) based on the spread.
 5. **Execution:** Place trades based on the signals.
-6. **Optimization:** Continuously optimize the Kalman filter parameters for better performance.
+6. **Optimization:** Continuously optimize the [Kalman filter](../k/kalman_filter_in_trading.md) parameters for better performance.
 
 ## Conclusion
 

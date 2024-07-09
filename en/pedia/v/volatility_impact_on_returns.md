@@ -56,7 +56,7 @@ Renaissance Technologies, one of the most successful hedge funds renowned for it
 
 #### Two Sigma
 
-Two Sigma is another prominent hedge fund that applies data science and technology to investment management. They analyze vast datasets to understand volatility and its impact on returns, among other factors. Their quantitative strategies often involve leveraging volatility to optimize trade execution. Detailed information about their strategies can be found at [Two Sigma](https://www.twosigma.com/).
+Two Sigma is another prominent hedge fund that applies [data science](../d/data_science_in_trading.md) and technology to investment management. They analyze vast datasets to understand volatility and its impact on returns, among other factors. Their [quantitative strategies](../q/quantitative_strategies_in_trading.md) often involve leveraging volatility to optimize trade execution. Detailed information about their strategies can be found at [Two Sigma](https://www.twosigma.com/).
 
 ### Practical Applications
 
@@ -74,4 +74,4 @@ Volatility [arbitrage](../a/arbitrage.md) strategies involve exploiting the diff
 
 ### Conclusion
 
-In conclusion, volatility plays a significant role in shaping returns, serving as a crucial element in the [risk-return tradeoff](../r/risk-return_tradeoff.md) inherent to financial markets. For [algorithmic trading](../a/algorithmic_trading.md), an in-depth understanding of volatility is essential for developing robust [trading strategies](../t/trading_strategies.md), managing risks effectively, and maximizing returns. As evidenced by successful hedge funds like Renaissance Technologies and Two Sigma, leveraging volatility through sophisticated algorithms and data science techniques can lead to substantial investment gains.
+In conclusion, volatility plays a significant role in shaping returns, serving as a crucial element in the [risk-return tradeoff](../r/risk-return_tradeoff.md) inherent to financial markets. For [algorithmic trading](../a/algorithmic_trading.md), an in-depth understanding of volatility is essential for developing robust [trading strategies](../t/trading_strategies.md), managing risks effectively, and maximizing returns. As evidenced by successful hedge funds like Renaissance Technologies and Two Sigma, leveraging volatility through sophisticated algorithms and [data science](../d/data_science_in_trading.md) techniques can lead to substantial investment gains.

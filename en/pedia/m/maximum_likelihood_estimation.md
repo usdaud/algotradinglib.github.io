@@ -12,7 +12,7 @@ Here, P(X | θ) is the probability of observing the data X given the parameters 
 
 ### Example
 
-Imagine we have a dataset of stock returns and we want to estimate the mean and variance of these returns assuming they follow a normal distribution. Denote these parameters as μ (mean) and σ² (variance). The likelihood function for the normal distribution is given by:
+Imagine we have a dataset of stock returns and we want to estimate the mean and variance of these returns assuming they follow a [normal distribution](../n/normal_distribution_in_trading.md). Denote these parameters as μ (mean) and σ² (variance). The likelihood function for the [normal distribution](../n/normal_distribution_in_trading.md) is given by:
 
 \[ L(μ, σ^2; X) = \prod_{i=1}^{n} \frac{1}{\sqrt{2πσ^2}} e^{-\frac{(X_i - μ)^2}{2σ^2}} \]
 
@@ -40,7 +40,7 @@ Differentiate the log-likelihood function with respect to the parameters and set
 
 ## Applications in Algorithmic Trading
 
-In [algorithmic trading](../a/algorithmic_trading.md), accurate parameter estimation is crucial for developing predictive models, [risk management](../r/risk_management.md), and [portfolio optimization](../p/portfolio_optimization.md). MLE is utilized to estimate parameters of various models such as:
+In [algorithmic trading](../a/algorithmic_trading.md), accurate parameter estimation is crucial for developing [predictive models](../p/predictive_models_in_trading.md), [risk management](../r/risk_management.md), and [portfolio optimization](../p/portfolio_optimization.md). MLE is utilized to estimate parameters of various models such as:
 
 ### 1. Time Series Models
 
@@ -76,7 +76,7 @@ An iterative method that uses the first and second [derivatives](../d/derivative
 
 ## Software and Tools
 
-Several software tools and libraries facilitate MLE, including:
+Several [software tools](../s/software_tools_for_trading.md) and libraries facilitate MLE, including:
 
 ### 1. R
 
@@ -92,7 +92,7 @@ MATLAB's `mle` function facilitates maximum likelihood estimates for various dis
 
 ### 4. Julia
 
-The `Distributions.jl` package in Julia provides utilities for MLE on different probability distributions.
+The `Distributions.jl` package in Julia provides utilities for MLE on different [probability distributions](../p/probability_distributions_in_trading.md).
 
 ## Practical Considerations
 
@@ -114,4 +114,4 @@ The validity of the MLE estimates depends on how well the chosen model assumptio
 
 ## Conclusion
 
-Maximum Likelihood Estimation is a powerful and versatile method for parameter estimation in statistical models. Its broad applicability to various domains makes it an essential tool in the arsenal of researchers, data scientists, and financial analysts. In [algorithmic trading](../a/algorithmic_trading.md), MLE empowers traders to build accurate predictive models, manage risk effectively, and optimize portfolios, ultimately enhancing [trading strategies](../t/trading_strategies.md) and outcomes. The availability of advanced computational tools and software further facilitates the implementation of MLE, making it accessible to practitioners and enhancing its practical utility in modern data-driven environments.
+Maximum Likelihood Estimation is a powerful and versatile method for parameter estimation in statistical models. Its broad applicability to various domains makes it an essential tool in the arsenal of researchers, data scientists, and financial analysts. In [algorithmic trading](../a/algorithmic_trading.md), MLE empowers traders to build accurate [predictive models](../p/predictive_models_in_trading.md), manage risk effectively, and optimize portfolios, ultimately enhancing [trading strategies](../t/trading_strategies.md) and outcomes. The availability of advanced computational tools and software further facilitates the implementation of MLE, making it accessible to practitioners and enhancing its practical utility in modern data-driven environments.

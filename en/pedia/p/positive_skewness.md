@@ -35,7 +35,7 @@ Positive skewness is characterized by a skewness value greater than zero.
 ## Real-world Application
 
 Several financial institutions and trading firms leverage positive skewness in their [trading models](../t/trading_models.md) to optimize performance. For example:
-- **Renaissance Technologies**: Known for its quantitative strategies, this hedge fund often employs sophisticated algorithms that may consider skewness in asset returns for [risk management](../r/risk_management.md) (https://www.rentec.com/).
+- **Renaissance Technologies**: Known for its [quantitative strategies](../q/quantitative_strategies_in_trading.md), this hedge fund often employs sophisticated algorithms that may consider skewness in asset returns for [risk management](../r/risk_management.md) (https://www.rentec.com/).
 
 ## Use Cases in Trading Strategies
 

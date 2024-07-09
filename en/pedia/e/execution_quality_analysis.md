@@ -48,8 +48,8 @@ Modern technology plays a crucial role in execution quality analysis. Key tools 
 
 - **Algo Trading Platforms**: Advanced [algorithmic trading](../a/algorithmic_trading.md) platforms provide built-in analytics for monitoring and evaluating execution quality.
 - **Analytics Software**: Specialized software such as [Bloomberg](../b/bloomberg.md) [Transaction Cost Analysis](../t/transaction_cost_analysis.md) (BTCA) (https://www.[bloomberg](../b/bloomberg.md).com/professional/product/transaction-cost-analysis/) and Abel Noser Solutions (https://www.abelnoser.com/) offer comprehensive TCA solutions.
-- **Machine Learning**: Utilizing machine learning algorithms to predict market movements, optimize trade execution, and reduce slippage and market impact.
-- **Data Analytics**: Big data analytics help in analyzing large volumes of trade data to identify patterns, trends, and anomalies that can impact execution quality.
+- **Machine Learning**: Utilizing machine [learning algorithms](../l/learning_algorithms_in_trading.md) to predict market movements, optimize trade execution, and reduce slippage and market impact.
+- **Data Analytics**: [Big data analytics](../b/big_data_analytics_in_trading.md) help in analyzing large volumes of trade data to identify patterns, trends, and anomalies that can impact execution quality.
 
 ## 6. Best Practices
 
@@ -75,8 +75,8 @@ Despite the benefits, execution quality analysis faces several challenges:
 The landscape of execution quality analysis is continuously evolving, with several emerging trends:
 
 - **AI and Machine Learning**: Increasing adoption of AI and machine learning to enhance [predictive analytics](../p/predictive_analytics.md) and optimize trade executions.
-- **Blockchain**: Potential use of blockchain technology for transparent and efficient trade settlement processes.
-- **Cloud Computing**: Leveraging cloud-based platforms for scalable and cost-effective execution quality analysis.
+- **[Blockchain](../b/blockchain_in_trading.md)**: Potential use of [blockchain](../b/blockchain_in_trading.md) technology for transparent and efficient trade settlement processes.
+- **[Cloud Computing](../c/cloud_computing_in_trading.md)**: Leveraging cloud-based platforms for scalable and cost-effective execution quality analysis.
 - **Enhanced Regulation**: Tighter regulations and increased scrutiny on execution practices to ensure investor protection and market integrity.
 
 In conclusion, execution quality analysis is a vital component of [algorithmic trading](../a/algorithmic_trading.md) that drives cost efficiency, regulatory compliance, and competitive advantage. By leveraging advanced methodologies, technologies, and best practices, traders can significantly enhance the quality of their trade executions and achieve better trading outcomes.

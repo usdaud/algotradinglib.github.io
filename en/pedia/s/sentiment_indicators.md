@@ -6,7 +6,7 @@ Sentiment indicators are a vital component in [algorithmic trading](../a/algorit
 
 ### 1. News Sentiment
 
-News sentiment indicators analyze news articles, press releases, and financial reports to gauge the sentiment behind them. These indicators use natural language processing (NLP) algorithms to assess whether the news sentiment is positive, negative, or neutral.
+News sentiment indicators analyze news articles, press releases, and financial reports to gauge the sentiment behind them. These indicators use [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) algorithms to assess whether the news sentiment is positive, negative, or neutral.
 
 - **Example**: Thomson [Reuters](../r/reuters.md) MarketPsych Indices (TRMI) reports real-time sentiment scores derived from global news sources.
   [Thomson Reuters MarketPsych Indices](https://www.refinitiv.com/en/financial-data/news-company-data/marketpsych)
@@ -31,7 +31,7 @@ Sentiment indicators typically process large volumes of unstructured text data t
 
 1. **Data Collection**: Raw data is gathered from various sources such as news articles, social media platforms, and survey results.
    
-2. **Data Processing**: Natural language processing (NLP) algorithms are applied to parse and structure the data. This involves tasks like tokenization, part-of-speech tagging, and named entity recognition.
+2. **Data Processing**: [Natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) algorithms are applied to parse and structure the data. This involves tasks like tokenization, part-of-speech tagging, and named entity recognition.
 
 3. **Sentiment Scoring**: The processed data is then analyzed to assign sentiment scores. These scores can be binary (positive/negative), ternary (positive/neutral/negative), or on a continuous scale. 
 
@@ -39,7 +39,7 @@ Sentiment indicators typically process large volumes of unstructured text data t
 
 ## Natural Language Processing (NLP) in Sentiment Analysis
 
-Natural language processing (NLP) is the backbone of [sentiment analysis](../s/sentiment_analysis.md) in [algorithmic trading](../a/algorithmic_trading.md). Key methods and techniques involved include:
+[Natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) is the backbone of [sentiment analysis](../s/sentiment_analysis.md) in [algorithmic trading](../a/algorithmic_trading.md). Key methods and techniques involved include:
 
 - **Tokenization**: Splitting text into individual words or phrases.
 - **Part-of-Speech Tagging**: Identifying the grammatical parts of speech in each token.
@@ -95,4 +95,4 @@ Relying solely on sentiment indicators can be risky. It is essential to use them
 
 ## Conclusion
 
-Sentiment indicators are a powerful tool in the arsenal of algorithmic traders, providing unique insights into market psychology. By leveraging advanced natural language processing techniques, these indicators offer real-time analysis of news and [social media sentiment](../s/social_media_sentiment.md), helping traders make more informed decisions. However, it is crucial to be aware of their limitations and use them in conjunction with other indicators to maximize their effectiveness.
+Sentiment indicators are a powerful tool in the arsenal of algorithmic traders, providing unique insights into market psychology. By leveraging advanced [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) techniques, these indicators offer real-time analysis of news and [social media sentiment](../s/social_media_sentiment.md), helping traders make more informed decisions. However, it is crucial to be aware of their limitations and use them in conjunction with other indicators to maximize their effectiveness.

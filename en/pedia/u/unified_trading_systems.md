@@ -24,7 +24,7 @@ EMS focuses on the actual execution of trades, providing tools and technologies 
 A robust UTS includes [risk management](../r/risk_management.md) functionalities to monitor and mitigate potential risks. These tools can manage various types of risk, including market risk, credit risk, and operational risk. Features often consist of:
 
 - **Real-time Risk Monitoring:** Continuously assessing exposure and potential risks in real-time.
-- **Stress Testing:** Simulating adverse market conditions to evaluate the resilience of [trading strategies](../t/trading_strategies.md).
+- **[Stress Testing](../s/stress_testing_in_trading.md):** Simulating adverse market conditions to evaluate the resilience of [trading strategies](../t/trading_strategies.md).
 - **Margin and Credit Control:** Implementing controls to ensure traders operate within defined credit limits and margin requirements.
 - **VaR (Value at Risk) Analysis:** Estimating the potential loss in portfolio value over a specific time period.
 
@@ -90,7 +90,7 @@ Eikon by Thomson [Reuters](../r/reuters.md) provides comprehensive trading solut
 
 ### Fidessa
 [https://iongroup.com/](https://iongroup.com/)
-Fidessa, part of ION Group, offers advanced trading solutions with extensive order management and execution management capabilities. It serves brokers, investment banks, and asset managers.
+Fidessa, part of ION Group, offers advanced trading solutions with extensive [order management](../o/order_management_in_trading.md) and execution management capabilities. It serves brokers, investment banks, and asset managers.
 
 ### CQG
 [https://www.cqg.com/](https://www.cqg.com/)

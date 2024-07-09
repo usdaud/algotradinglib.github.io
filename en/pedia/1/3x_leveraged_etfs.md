@@ -12,7 +12,7 @@ A 3X leveraged exchange-traded fund (ETF) aims to amplify the returns of its ben
   
 2. **Use of [Derivatives](../d/derivatives.md)**: 
     - To amplify returns, 3X [leveraged ETFs](../l/leveraged_etfs.md) extensively use financial [derivatives](../d/derivatives.md) such as futures and swaps.
-    - These [derivatives](../d/derivatives.md) provide exposure to the underlying index while allowing for the leverage effect.
+    - These [derivatives](../d/derivatives.md) provide exposure to the underlying index while allowing for the [leverage effect](../l/leverage_effect_in_trading.md).
 
 3. **Compounding Effect**: 
     - The daily reset mechanism leads to compounding of returns, which can greatly amplify gains during uptrends and losses during downtrends, especially over multiple trading sessions. 

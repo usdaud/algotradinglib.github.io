@@ -36,7 +36,7 @@ ARIMA models are widely used for their versatility and robustness in modeling ti
 
 ### Machine Learning Models
 
-Modern machine learning models, such as Neural Networks, Support Vector Machines (SVMs), and ensemble methods like Random Forests, have gained popularity due to their ability to handle complex and non-linear relationships in the data.
+Modern machine learning models, such as [Neural Networks](../n/neural_networks_in_trading.md), [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVMs), and ensemble methods like [Random Forests](../r/random_forests_in_trading.md), have gained popularity due to their ability to handle complex and non-linear relationships in the data.
 
 #### LSTM (Long Short-Term Memory Networks)
 

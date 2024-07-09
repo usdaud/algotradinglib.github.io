@@ -82,7 +82,7 @@ A retail trader using a momentum-based trading algorithm experienced multiple dr
 
 1. **Regular Monitoring**: Continuously monitor drawdowns and update the analysis to reflect current market conditions.
 2. **Multi-Period Analysis**: Analyze drawdowns over multiple periods (daily, weekly, monthly) to capture different [market cycles](../m/market_cycles.md) and conditions.
-3. **Stress Testing**: Perform scenario analysis and stress testing to assess how strategies might behave under extreme market conditions.
+3. **[Stress Testing](../s/stress_testing_in_trading.md)**: Perform scenario analysis and [stress testing](../s/stress_testing_in_trading.md) to assess how strategies might behave under extreme market conditions.
 4. **Integration with Other Metrics**: Combine [drawdown analysis](../d/drawdown_analysis.md) with other risk and [performance metrics](../p/performance_metrics.md) for a holistic evaluation.
 5. **[Variance Analysis](../v/variance_analysis.md)**: Consider variances in drawdown durations and depths to understand the volatility and stability of returns.
 
@@ -98,7 +98,7 @@ CDaR is a refinement that focuses not only on maximum drawdowns but also on aver
 
 ### Machine Learning for Drawdown Prediction
 
-Machine learning algorithms can analyze patterns in historical data to predict potential future drawdowns. By creating predictive models, traders can foresee adverse conditions and preemptively adjust their strategies.
+Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can analyze patterns in historical data to predict potential future drawdowns. By creating [predictive models](../p/predictive_models_in_trading.md), traders can foresee adverse conditions and preemptively adjust their strategies.
 
 ## Tools and Software
 

@@ -1,10 +1,10 @@
 # 2-Standard Deviation
 
-In the realm of [algorithmic trading](../a/algorithmic_trading.md) and financial analysis, the 2-standard deviation is a key statistical tool that traders and analysts leverage to make informed trading decisions. This tool primarily revolves around the concepts of the normal distribution and standard deviation, which are fundamental in statistics and probability theory.
+In the realm of [algorithmic trading](../a/algorithmic_trading.md) and financial analysis, the 2-standard deviation is a key statistical tool that traders and analysts leverage to make informed trading decisions. This tool primarily revolves around the concepts of the [normal distribution](../n/normal_distribution_in_trading.md) and standard deviation, which are fundamental in statistics and [probability theory](../p/probability_theory_in_trading.md).
 
 ## Normal Distribution
 
-A normal distribution, also known as a [Gaussian distribution](../g/gaussian_distribution.md), is a probability distribution that is symmetric about the mean. This means that most of the observations cluster around the central peak and the probabilities for values further away from the mean taper off equally in both directions. The properties of a normal distribution are crucial for understanding standard deviation and its applications.
+A [normal distribution](../n/normal_distribution_in_trading.md), also known as a [Gaussian distribution](../g/gaussian_distribution.md), is a probability distribution that is symmetric about the mean. This means that most of the observations cluster around the central peak and the probabilities for values further away from the mean taper off equally in both directions. The properties of a [normal distribution](../n/normal_distribution_in_trading.md) are crucial for understanding standard deviation and its applications.
 
 ## Standard Deviation
 
@@ -61,7 +61,7 @@ Many financial institutions and companies use the concept of 2-standard deviatio
 
 - **Goldman Sachs**: Known for their sophisticated [trading algorithms](../t/trading_algorithms.md), Goldman Sachs utilizes statistical tools like the 2-standard deviation to inform their trading decisions. [Goldman Sachs](https://www.goldmansachs.com/)
 - **Jane Street**: A [proprietary trading](../p/proprietary_trading.md) firm that relies heavily on [quantitative trading](../q/quantitative_trading.md) strategies, Jane Street presumably uses statistical measures, including the 2-standard deviation, in their models. [Jane Street](https://www.janestreet.com/)
-- **Renaissance Technologies**: Famous for their Medallion Fund, Renaissance Technologies employs complex mathematical models that likely incorporate the 2-standard deviation among other statistical tools. [Renaissance Technologies](https://www.rentec.com/)
+- **Renaissance Technologies**: Famous for their Medallion Fund, Renaissance Technologies employs complex [mathematical models](../m/mathematical_models_in_trading.md) that likely incorporate the 2-standard deviation among other statistical tools. [Renaissance Technologies](https://www.rentec.com/)
 
 ## Conclusion
 

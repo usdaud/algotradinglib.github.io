@@ -54,13 +54,13 @@ Jump-diffusion models incorporate sudden jumps in asset prices, in addition to t
 \[ dS_t = \mu S_t dt + \sigma S_t dW_t + J_t S_t dN_t \]
 
 - \( J_t \): Jump size
-- \( N_t \): Poisson process representing the number of jumps
+- \( N_t \): [Poisson process](../p/poisson_process_in_trading.md) representing the number of jumps
 
 ## Applications in Algorithmic Trading
 
 ### High-Frequency Trading (HFT)
 
-Stochastic modeling provides the mathematical framework for HFT algorithms that require precise predictions under conditions of uncertainty. By simulating stock price paths and estimating probabilities of various market conditions, HFT systems can make rapid, informed trading decisions.
+Stochastic modeling provides the mathematical framework for HFT algorithms that require precise predictions under conditions of [uncertainty](../u/uncertainty_in_trading.md). By simulating stock price paths and estimating probabilities of various market conditions, HFT systems can make rapid, informed trading decisions.
 
 ### Risk Management
 
@@ -68,7 +68,7 @@ Stochastic modeling provides the mathematical framework for HFT algorithms that 
 
 ### Derivative Pricing
 
-Pricing [derivatives](../d/derivatives.md) like options often involves solving [stochastic differential equations](../s/stochastic_differential_equations.md). The [Black-Scholes model](../b/black-scholes_model.md), for example, relies on GBM to derive option prices. Modern techniques involve Monte Carlo simulations and numerical methods to handle complex [derivatives](../d/derivatives.md) and non-standard market conditions.
+Pricing [derivatives](../d/derivatives.md) like options often involves solving [stochastic differential equations](../s/stochastic_differential_equations.md). The [Black-Scholes model](../b/black-scholes_model.md), for example, relies on GBM to derive option prices. Modern techniques involve Monte Carlo simulations and [numerical methods](../n/numerical_methods_in_trading.md) to handle complex [derivatives](../d/derivatives.md) and non-standard market conditions.
 
 ### Portfolio Optimization
 
@@ -88,7 +88,7 @@ R is a powerful language for statistical computing and graphics. Packages such a
 
 ### MATLAB
 
-MATLAB is widely used in engineering and finance for numerical computing. It offers toolboxes specifically designed for [financial modeling](../f/financial_modeling.md) and simulation, such as the Financial Toolbox and the Econometrics Toolbox.
+MATLAB is widely used in engineering and finance for numerical computing. It offers toolboxes specifically designed for [financial modeling](../f/financial_modeling.md) and [simulation](../s/simulation_in_trading.md), such as the Financial Toolbox and the [Econometrics](../e/econometrics_in_trading.md) Toolbox.
 
 ### Trading Platforms
 
@@ -120,4 +120,4 @@ Stochastic simulations, especially [Monte Carlo methods](../m/monte_carlo_method
 
 ## Conclusion
 
-Stochastic modeling plays a crucial role in modern [algorithmic trading](../a/algorithmic_trading.md), providing the tools and frameworks needed to navigate uncertain and dynamic financial markets. By leveraging these models, traders can enhance their decision-making processes, optimize [trading strategies](../t/trading_strategies.md), and manage risks more effectively. The continuous evolution of computational techniques and the availability of sophisticated software tools are set to further enhance the applicability and accuracy of stochastic models in finance.
+Stochastic modeling plays a crucial role in modern [algorithmic trading](../a/algorithmic_trading.md), providing the tools and frameworks needed to navigate uncertain and dynamic financial markets. By leveraging these models, traders can enhance their decision-making processes, optimize [trading strategies](../t/trading_strategies.md), and manage risks more effectively. The continuous evolution of computational techniques and the availability of sophisticated [software tools](../s/software_tools_for_trading.md) are set to further enhance the applicability and accuracy of stochastic models in finance.

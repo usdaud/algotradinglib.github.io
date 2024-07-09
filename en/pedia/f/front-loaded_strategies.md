@@ -30,13 +30,13 @@ TWAP execution strategies aim to distribute orders evenly over a specified time 
 ### Analytical Tools and Models
 
 #### Predictive Analytics
-Predictive models leverage historical data and statistical algorithms to forecast market movements. These models identify periods where front-loading trades may be advantageous based on expected volatility and price changes.
+[Predictive models](../p/predictive_models_in_trading.md) leverage historical data and statistical algorithms to forecast market movements. These models identify periods where front-loading trades may be advantageous based on expected volatility and price changes.
 
 #### Machine Learning
 Advanced machine learning techniques can enhance the prediction accuracy of front-loaded strategies. Algorithms can learn from large data sets to recognize patterns and signals that precede significant market movements.
 
 #### Quantitative Analysis
-[Quantitative approaches](../q/quantitative_approaches.md) use mathematical models and historical data to gauge the optimal timing and size of front-loaded trades. This deals with risk assessments, expected returns, and market impact analysis.
+[Quantitative approaches](../q/quantitative_approaches.md) use [mathematical models](../m/mathematical_models_in_trading.md) and historical data to gauge the optimal timing and size of front-loaded trades. This deals with risk assessments, expected returns, and market impact analysis.
 
 ### Benefits of Front-Loaded Strategies
 
@@ -77,4 +77,4 @@ Hedge funds, such as Renaissance Technologies, utilize [quantitative models](../
 
 ### Conclusion
 
-Front-loaded strategies embody sophisticated algorithmic tactics that leverage timing and [predictive analytics](../p/predictive_analytics.md) to maximize trading efficiency and returns. Despite their complexities and risks, these strategies continue to be a potent tool in the algorithmic trader’s arsenal, driven by advancements in technology and data analytics. Proper implementation and continuous refinement of predictive models and [execution algorithms](../e/execution_algorithms.md) are essential for successful front-loaded trading.
+Front-loaded strategies embody sophisticated algorithmic tactics that leverage timing and [predictive analytics](../p/predictive_analytics.md) to maximize trading efficiency and returns. Despite their complexities and risks, these strategies continue to be a potent tool in the algorithmic trader’s arsenal, driven by advancements in technology and data analytics. Proper implementation and continuous refinement of [predictive models](../p/predictive_models_in_trading.md) and [execution algorithms](../e/execution_algorithms.md) are essential for successful front-loaded trading.

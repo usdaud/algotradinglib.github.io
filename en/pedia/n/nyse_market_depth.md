@@ -29,7 +29,7 @@ The NYSE operates with a deep and liquid market, making it an essential venue fo
 
 ### 1. Order Types
 
-The NYSE supports various order types that contribute to market depth:
+The NYSE supports various [order types](../o/order_types_in_trading.md) that contribute to market depth:
 
 - **Market Orders**: Execute immediately at the best available price.
 - **Limit Orders**: Buy or sell at a specified price or better.
@@ -88,7 +88,7 @@ Advanced trading platforms provide real-time market depth data and tools for ana
 
 - **[Bloomberg](../b/bloomberg.md) Terminal**: A comprehensive platform offering real-time data, news, and analytics. [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 - **[Reuters](../r/reuters.md) Eikon**: A powerful platform for accessing [real-time market data](../r/real-time_market_data.md) and executing trades. [Refinitiv Eikon](https://eikon.thomsonreuters.com/index.html)
-- **Interactive Brokers**: Offers a range of tools and data feeds for algorithmic traders. [Interactive Brokers](https://www.interactivebrokers.com/en/home.php)
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Offers a range of tools and data feeds for algorithmic traders. [Interactive Brokers](https://www.interactivebrokers.com/en/home.php)
 
 ### 2. Data Feeds
 

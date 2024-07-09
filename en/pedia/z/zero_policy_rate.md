@@ -70,7 +70,7 @@ The prolonged use of ZPR can lead to significant changes in financial markets:
 
 ### Banking Sector Challenges
 
-- **Profit Margins**: Low rates compress the net interest margins for banks, potentially limiting their profitability and ability to lend.
+- **[Profit Margins](../p/profit_margins_in_trading.md)**: Low rates compress the net interest margins for banks, potentially limiting their profitability and ability to lend.
 - **Asset-Liability Management**: ZPR challenges banks’ traditional models of managing assets and liabilities, requiring adjustments in their operational strategies.
 
 ### Inflation and Deflation Risks

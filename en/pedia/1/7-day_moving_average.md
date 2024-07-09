@@ -83,7 +83,7 @@ This simple code creates a DataFrame with closing prices and then uses the `roll
 While the 7-day moving average is a powerful tool, it has its limitations:
 
 1. **Lag:** Like all moving averages, the 7-day moving average is a lagging indicator. It is based on past prices, which means it may not accurately predict future price movements.
-2. **Sensitivity:** The short period of a 7-day moving average makes it more sensitive to price changes, which can sometimes result in false signals during choppy market conditions.
+2. **Sensitivity:** The short period of a 7-day moving average makes it more sensitive to price changes, which can sometimes result in [false signals](../f/false_signals_in_trading.md) during choppy market conditions.
 3. **Simplicity:** The simplicity of moving averages also means they don’t account for more complex market dynamics or external factors.
 
 #### Implementation in Trading Platforms

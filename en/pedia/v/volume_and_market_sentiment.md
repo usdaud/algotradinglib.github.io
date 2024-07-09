@@ -38,7 +38,7 @@ Market sentiment refers to the overall mood or attitude of investors towards a p
 
 Market sentiment can be derived from various sources, including:
 
-  1. **News and Social Media**: Headlines, news articles, and social media posts can significantly impact investor sentiment. Algo traders often use natural language processing (NLP) algorithms to analyze news sentiment and quantify its potential impact on securities.
+  1. **News and Social Media**: Headlines, news articles, and social media posts can significantly impact investor sentiment. Algo traders often use [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) algorithms to analyze news sentiment and quantify its potential impact on securities.
   
   2. **[Economic Indicators](../e/economic_indicators.md)**: Macro-economic data releases, such as GDP growth, employment figures, and interest rate decisions, can shape market sentiment by influencing expectations about future economic performance.
   

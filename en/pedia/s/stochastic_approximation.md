@@ -26,7 +26,7 @@ Unlike deterministic algorithms, stochastic approximation methods converge in a 
 
 ## Applications in Algorithmic Trading
 
-In [algorithmic trading](../a/algorithmic_trading.md), stochastic approximation methods can be used to optimize [trading algorithms](../t/trading_algorithms.md), calibrate models, and even directly trade in financial markets. Various aspects of trading, such as parameter tuning, strategy selection, and execution, benefit from stochastic approximation methods due to the inherent noise and uncertainty in financial data.
+In [algorithmic trading](../a/algorithmic_trading.md), stochastic approximation methods can be used to optimize [trading algorithms](../t/trading_algorithms.md), calibrate models, and even directly trade in financial markets. Various aspects of trading, such as parameter tuning, strategy selection, and execution, benefit from stochastic approximation methods due to the inherent noise and [uncertainty](../u/uncertainty_in_trading.md) in financial data.
 
 ### 1. Parameter Optimization
 
@@ -58,7 +58,7 @@ Introduced by Spall, SPSA is a robust and efficient method for optimizing multi-
 
 ### 3. Stochastic Gradient Descent (SGD)
 
-SGD is widely used in machine learning for training neural networks and other models. It updates model parameters based on the gradient of the loss function, with the gradient estimated from a randomly selected subset of data. This approach makes SGD scalable and efficient for large datasets.
+SGD is widely used in machine learning for training [neural networks](../n/neural_networks_in_trading.md) and other models. It updates model parameters based on the gradient of the loss function, with the gradient estimated from a randomly selected subset of data. This approach makes SGD scalable and efficient for large datasets.
 
 ### 4. Adaptive Step Size Methods
 
@@ -124,4 +124,4 @@ Several leading companies and tools leverage stochastic approximation methods in
 
 ## Conclusion
 
-Stochastic approximation represents a powerful set of tools for optimizing and calibrating models in environments with inherent uncertainty and noise. Its applications in [algorithmic trading](../a/algorithmic_trading.md) range from parameter optimization and model calibration to real-time decision-making and reinforcement learning. By leveraging stochastic approximation methods, traders and financial engineers can enhance the robustness and adaptability of their strategies, leading to improved performance in dynamic market conditions.
+Stochastic approximation represents a powerful set of tools for optimizing and calibrating models in environments with inherent [uncertainty](../u/uncertainty_in_trading.md) and noise. Its applications in [algorithmic trading](../a/algorithmic_trading.md) range from parameter optimization and model calibration to real-time decision-making and reinforcement learning. By leveraging stochastic approximation methods, traders and financial engineers can enhance the robustness and adaptability of their strategies, leading to improved performance in dynamic market conditions.

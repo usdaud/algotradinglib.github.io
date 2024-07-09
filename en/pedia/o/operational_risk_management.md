@@ -54,13 +54,13 @@ Technology plays a vital role in operational [risk management](../r/risk_managem
 
 1. **[Risk Management](../r/risk_management.md) Software**: Using specialized [risk management](../r/risk_management.md) software to automate risk identification, assessment, and mitigation processes. Examples include risk analytics platforms and compliance management tools.
 
-2. **Machine Learning and AI**: Leveraging machine learning and artificial intelligence to predict and detect potential risks, analyze patterns, and optimize [trading strategies](../t/trading_strategies.md).
+2. **Machine Learning and AI**: Leveraging machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to predict and detect potential risks, analyze patterns, and optimize [trading strategies](../t/trading_strategies.md).
 
-3. **Blockchain and Distributed Ledger Technology (DLT)**: Utilizing blockchain and DLT for secure and transparent record-keeping, reducing the risk of data tampering and fraud.
+3. **[Blockchain](../b/blockchain_in_trading.md) and Distributed Ledger Technology (DLT)**: Utilizing [blockchain](../b/blockchain_in_trading.md) and DLT for secure and transparent record-keeping, reducing the risk of data tampering and fraud.
 
-4. **Cloud Computing**: Employing cloud computing for scalable and flexible infrastructure, enabling efficient resource management and disaster recovery.
+4. **[Cloud Computing](../c/cloud_computing_in_trading.md)**: Employing [cloud computing](../c/cloud_computing_in_trading.md) for scalable and flexible infrastructure, enabling efficient resource management and disaster recovery.
 
-5. **Big Data Analytics**: Harnessing big data analytics to process and analyze vast amounts of trading data in real-time, identifying trends, anomalies, and risk factors.
+5. **[Big Data Analytics](../b/big_data_analytics_in_trading.md)**: Harnessing [big data analytics](../b/big_data_analytics_in_trading.md) to process and analyze vast amounts of trading data in real-time, identifying trends, anomalies, and [risk factors](../r/risk_factors_in_trading.md).
 
 6. **API Integrations**: Integrating API-based solutions for seamless data exchange, system interoperability, and real-time monitoring.
 

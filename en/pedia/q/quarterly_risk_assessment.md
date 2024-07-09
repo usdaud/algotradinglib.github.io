@@ -24,7 +24,7 @@ Compliance risk is associated with not adhering to regulatory requirements. In [
 Technology risk encompasses potential issues arising from the reliance on technology infrastructure, such as system downtime, cyberattacks, and connectivity problems.
 
 ### 2. Risk Measurement
-Risk measurement involves quantifying the identified risks to understand their potential impact on [trading performance](../t/trading_performance.md). Common metrics used in risk measurement include Value at Risk (VaR), Expected Shortfall (ES), and stress testing.
+Risk measurement involves quantifying the identified risks to understand their potential impact on [trading performance](../t/trading_performance.md). Common metrics used in risk measurement include Value at Risk (VaR), Expected Shortfall (ES), and [stress testing](../s/stress_testing_in_trading.md).
 
 #### Value at Risk (VaR)
 VaR measures the maximum potential loss of a portfolio over a given time frame with a specified confidence level. It is widely used in the financial industry to gauge market risk.
@@ -33,7 +33,7 @@ VaR measures the maximum potential loss of a portfolio over a given time frame w
 ES, also known as Conditional VaR, provides an estimate of the expected loss beyond the VaR threshold. It offers a more comprehensive view of [tail risk](../t/tail_risk.md).
 
 #### Stress Testing
-Stress testing involves simulating extreme market conditions to assess the robustness of [trading algorithms](../t/trading_algorithms.md). This helps in understanding the potential impact of severe market shocks.
+[Stress testing](../s/stress_testing_in_trading.md) involves simulating extreme market conditions to assess the robustness of [trading algorithms](../t/trading_algorithms.md). This helps in understanding the potential impact of severe market shocks.
 
 ### 3. Risk Mitigation
 Risk mitigation involves implementing strategies to reduce the identified risks. This may include diversifying [trading strategies](../t/trading_strategies.md), setting stop-loss limits, using hedge instruments, and regularly updating algorithms to adapt to changing market conditions.
@@ -77,13 +77,13 @@ Staying informed about changes in regulations and implementing necessary updates
 ## Companies Specializing in QRA for Algorithmic Trading
 
 ### Axioma Inc.
-[Axioma Inc.](https://www.qontigo.com) provides [risk management](../r/risk_management.md) solutions, including tools for stress testing, portfolio construction, and [performance attribution](../p/performance_attribution.md). Their risk models are widely used in the financial industry to manage and mitigate risks in [algorithmic trading](../a/algorithmic_trading.md).
+[Axioma Inc.](https://www.qontigo.com) provides [risk management](../r/risk_management.md) solutions, including tools for [stress testing](../s/stress_testing_in_trading.md), portfolio construction, and [performance attribution](../p/performance_attribution.md). Their [risk models](../r/risk_models_in_trading.md) are widely used in the financial industry to manage and mitigate risks in [algorithmic trading](../a/algorithmic_trading.md).
 
 ### MSCI Inc.
-[MSCI Inc.](https://www.msci.com) offers a range of [risk management](../r/risk_management.md) and performance measurement tools. Their solutions, such as Barra Risk Models, are designed to help firms assess and manage risks in their trading portfolios.
+[MSCI Inc.](https://www.msci.com) offers a range of [risk management](../r/risk_management.md) and performance measurement tools. Their solutions, such as Barra [Risk Models](../r/risk_models_in_trading.md), are designed to help firms assess and manage risks in their trading portfolios.
 
 ### RiskMetrics Group
-[RiskMetrics Group](https://www.msci.com/riskmetrics) provides risk assessment services and software solutions for measuring market and credit risks. Their tools are used by financial institutions to perform comprehensive risk evaluations and stress testing.
+[RiskMetrics Group](https://www.msci.com/riskmetrics) provides risk assessment services and software solutions for measuring market and credit risks. Their tools are used by financial institutions to perform comprehensive risk evaluations and [stress testing](../s/stress_testing_in_trading.md).
 
 ### QuantConnect
 [QuantConnect](https://www.quantconnect.com) offers a platform for developing and [backtesting](../b/backtesting.md) [trading algorithms](../t/trading_algorithms.md). They provide [risk management](../r/risk_management.md) tools and analytics to help traders identify and mitigate risks in their strategies.

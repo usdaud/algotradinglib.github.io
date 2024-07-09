@@ -30,7 +30,7 @@ Mitigation Strategies for Judgmental Errors
 
 Case Studies of Judgmental Error in Algo-Trading
 ---------------------------------------------------
-1. **Long-Term Capital Management (LTCM)**: This hedge fund employed complex mathematical models for trading. Despite initial success, LTCM collapsed in 1998 due to excessive reliance on overfitted models and inadequate stress testing under extreme market conditions.
+1. **Long-Term Capital Management (LTCM)**: This hedge fund employed complex [mathematical models](../m/mathematical_models_in_trading.md) for trading. Despite initial success, LTCM collapsed in 1998 due to excessive reliance on overfitted models and inadequate [stress testing](../s/stress_testing_in_trading.md) under extreme market conditions.
 
 2. **Knight Capital Group**: In 2012, Knight Capital lost hundreds of millions of dollars within minutes due to a software error stemming from inadequate testing and validation of their trading algorithm.
 

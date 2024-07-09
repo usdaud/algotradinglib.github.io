@@ -62,11 +62,11 @@ The choice of features greatly influences the performance of the SVM. Important 
 Training an SVM involves selecting a suitable kernel and tuning hyperparameters such as the penalty parameter `C` and the kernel coefficient `γ`.
 
 - **Choosing the Kernel Function**: Linear kernels are preferred for linearly separable data, while RBF or polynomial kernels are used for non-linear data.
-- **Tuning Hyperparameters**: Grid search or cross-validation techniques are used to find the best combination of `C` and `γ` to avoid overfitting while maximizing prediction accuracy.
+- **Tuning Hyperparameters**: [Grid search](../g/grid_search_in_trading.md) or cross-validation techniques are used to find the best combination of `C` and `γ` to avoid overfitting while maximizing prediction accuracy.
 
 ### 4. **Model Evaluation**
 
-After training, the model’s performance is evaluated using testing data. Common metrics include accuracy, precision, recall, and F1-score for classification tasks. For regression tasks, metrics like [Mean Squared Error](../m/mean_squared_error.md) (MSE) and R-squared are used.
+After training, the model’s performance is evaluated using testing data. Common metrics include accuracy, precision, recall, and F1-score for classification tasks. For regression tasks, metrics like [Mean Squared Error](../m/mean_squared_error.md) (MSE) and [R-squared](../r/r-squared_in_trading.md) are used.
 
 ### 5. **Deployment and Monitoring**
 
@@ -80,7 +80,7 @@ Numerous investment firms and hedge funds incorporate SVMs into their [trading a
 
 2. **Two Sigma**: A hedge fund that leverages machine learning, including SVMs, for building sophisticated [trading models](../t/trading_models.md): [Two Sigma](https://www.twosigma.com/).
 
-3. **WorldQuant**: An international quantitative investment firm that uses machine learning algorithms to uncover trading opportunities: [WorldQuant](https://www.worldquant.com/).
+3. **WorldQuant**: An international quantitative investment firm that uses machine [learning algorithms](../l/learning_algorithms_in_trading.md) to uncover trading opportunities: [WorldQuant](https://www.worldquant.com/).
 
 ## Conclusion
 

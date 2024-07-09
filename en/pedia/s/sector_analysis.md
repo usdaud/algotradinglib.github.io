@@ -20,7 +20,7 @@ Sector analysis is a method of examining industries within the financial market 
 
 1. **[Fundamental Analysis](../f/fundamental_analysis.md):**
    - **[Economic Indicators](../e/economic_indicators.md):** Examines GDP growth, unemployment rates, consumer spending, etc.
-   - **Industry Metrics:** Considers revenue growth, profit margins, return on equity (ROE), etc.
+   - **Industry Metrics:** Considers revenue growth, [profit margins](../p/profit_margins_in_trading.md), return on equity (ROE), etc.
    - **Market Conditions:** Looks at supply and demand dynamics within each sector.
 
 2. **[Technical Analysis](../t/technical_analysis.md):**
@@ -82,7 +82,7 @@ Sector analysis is a method of examining industries within the financial market 
 
 2. **Market Metrics:**
    - **High Volatility:** Driven by innovation cycles and competition.
-   - **Profit Margins:** Generally high but vary significantly across companies.
+   - **[Profit Margins](../p/profit_margins_in_trading.md):** Generally high but vary significantly across companies.
    - **Regulatory Risks:** Data privacy and antitrust regulations are critical concerns.
 
 3. **Performance Trends:**
@@ -90,7 +90,7 @@ Sector analysis is a method of examining industries within the financial market 
    - **[Volume Analysis](../v/volume_analysis.md):** High trading volumes indicate strong interest from market participants.
 
 4. **Machine Learning Application:**
-   - **[Sentiment Analysis](../s/sentiment_analysis.md):** Using natural language processing (NLP) to gauge market sentiment from news articles and social media.
+   - **[Sentiment Analysis](../s/sentiment_analysis.md):** Using [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) to gauge market sentiment from news articles and social media.
    - **Prediction Models:** Developing algorithms that predict stock performance based on historical data and current market conditions.
 
 #### Conclusion

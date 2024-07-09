@@ -10,7 +10,7 @@ The [yield curve](../y/yield_curve.md) is a graphical representation that shows 
 
 2. **Inverted [Yield Curve](../y/yield_curve.md)**: A downward-sloping curve where short-term bonds have higher yields than long-term bonds, often seen as a predictor of economic recession.
 
-3. **Flat [Yield Curve](../y/yield_curve.md)**: A straight-line curve suggesting that there is very little difference between short and long-term yields, indicating uncertainty in future economic conditions.
+3. **Flat [Yield Curve](../y/yield_curve.md)**: A straight-line curve suggesting that there is very little difference between short and long-term yields, indicating [uncertainty](../u/uncertainty_in_trading.md) in future economic conditions.
 
 #### Types of Yield Curve Strategies
 
@@ -30,11 +30,11 @@ The [yield curve](../y/yield_curve.md) is a graphical representation that shows 
 
 #### Algorithmic Approaches to Yield Curve Strategies
 
-[Algorithmic trading](../a/algorithmic_trading.md) employs advanced mathematical models and high-speed computational power to implement [yield curve](../y/yield_curve.md) strategies. These approaches generally fall into the following categories:
+[Algorithmic trading](../a/algorithmic_trading.md) employs advanced [mathematical models](../m/mathematical_models_in_trading.md) and high-speed computational power to implement [yield curve](../y/yield_curve.md) strategies. These approaches generally fall into the following categories:
 
 1. **[Quantitative Models](../q/quantitative_models.md)**: These use historical data and statistical techniques to predict future [yield curve](../y/yield_curve.md) movements. Popular models include the Vasicek Model, the Cox-Ingersoll-Ross (CIR) Model, and the Heath-Jarrow-Morton (HJM) Framework.
 
-2. **Machine Learning and AI**: With the advent of machine learning, traders can employ algorithms that adapt and learn from data over time. Techniques such as neural networks, [decision trees](../d/decision_trees.md), and [clustering algorithms](../c/clustering_algorithms.md) aid in identifying patterns and making trading decisions.
+2. **Machine Learning and AI**: With the advent of machine learning, traders can employ algorithms that adapt and learn from data over time. Techniques such as [neural networks](../n/neural_networks_in_trading.md), [decision trees](../d/decision_trees.md), and [clustering algorithms](../c/clustering_algorithms.md) aid in identifying patterns and making trading decisions.
 
 3. **High-Frequency Trading (HFT)**: These strategies require sophisticated technology and infrastructure to execute a large number of orders within extremely short time frames, capitalizing on minor [yield curve](../y/yield_curve.md) inefficiencies.
 
@@ -50,7 +50,7 @@ The [yield curve](../y/yield_curve.md) is a graphical representation that shows 
 
 3. **Investment Banks**: These banks engage in [proprietary trading](../p/proprietary_trading.md) and client servicing, utilizing [yield curve](../y/yield_curve.md) strategies to enhance profitability. Companies like [Goldman Sachs](https://www.gs.com/) and [Morgan Stanley](https://www.morganstanley.com/) are key examples.
 
-4. **[Algorithmic Trading](../a/algorithmic_trading.md) Firms**: Firms dedicated to [algorithmic trading](../a/algorithmic_trading.md), such as [Two Sigma](https://www.twosigma.com/) and [Citadel Securities](https://www.citadelsecurities.com/), leverage big data and sophisticated algorithms to implement [yield curve](../y/yield_curve.md) strategies.
+4. **[Algorithmic Trading](../a/algorithmic_trading.md) Firms**: Firms dedicated to [algorithmic trading](../a/algorithmic_trading.md), such as [Two Sigma](https://www.twosigma.com/) and [Citadel Securities](https://www.citadelsecurities.com/), leverage [big data](../b/big_data_in_trading.md) and sophisticated algorithms to implement [yield curve](../y/yield_curve.md) strategies.
 
 #### Case Study: Yield Curve Strategy by a Hedge Fund
 

@@ -10,9 +10,9 @@ Portfolio construction involves selecting a diversified mix of assets to achieve
 
 While traditional methods form the bedrock of [portfolio management](../p/portfolio_management.md), they have limitations due to their simplistic assumptions. Smart portfolio construction steps beyond these limitations by incorporating real-world complexities, such as non-linearities and varying levels of risk over time. Smart portfolio construction leverages three primary advancements:
 
-1. **Machine Learning and Artificial Intelligence**: These methods help identify patterns in large datasets that human analysts may overlook. Techniques like supervised learning, unsupervised learning, and reinforcement learning, are used to improve asset selection, [risk management](../r/risk_management.md), and return forecasting.
+1. **Machine Learning and [Artificial Intelligence](../a/artificial_intelligence_in_trading.md)**: These methods help identify patterns in large datasets that human analysts may overlook. Techniques like supervised learning, unsupervised learning, and reinforcement learning, are used to improve asset selection, [risk management](../r/risk_management.md), and return forecasting.
 
-2. **Big Data Analytics**: Analyzing vast amounts of data, including unconventional and [alternative data](../a/alternative_data.md) sources like [social media sentiment](../s/social_media_sentiment.md), environmental trends, and [economic indicators](../e/economic_indicators.md), allows for better-informed decision-making and proactive [risk management](../r/risk_management.md).
+2. **[Big Data Analytics](../b/big_data_analytics_in_trading.md)**: Analyzing vast amounts of data, including unconventional and [alternative data](../a/alternative_data.md) sources like [social media sentiment](../s/social_media_sentiment.md), environmental trends, and [economic indicators](../e/economic_indicators.md), allows for better-informed decision-making and proactive [risk management](../r/risk_management.md).
 
 3. **[Algorithmic Trading](../a/algorithmic_trading.md)**: Algorithms can manage portfolios through automatic rebalancing, optimizing [asset allocation](../a/asset_allocation.md), and executing trades, thereby minimizing human error and increasing efficiency.
 
@@ -20,21 +20,21 @@ While traditional methods form the bedrock of [portfolio management](../p/portfo
 
 ### 1. Asset Selection
 
-The first step in smart portfolio construction is the selection of assets. This involves more than just picking high-return stocks or bonds. Modern approaches screen an array of asset classes, including equities, fixed income, commodities, real estate, and alternative investments such as hedge funds and private equity. Machine learning algorithms can enhance this process by predicting which assets are likely to perform well based on patterns found in historical data.
+The first step in smart portfolio construction is the selection of assets. This involves more than just picking high-return stocks or bonds. Modern approaches screen an array of asset classes, including equities, fixed income, commodities, real estate, and alternative investments such as hedge funds and private equity. Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can enhance this process by predicting which assets are likely to perform well based on patterns found in historical data.
 
 ### 2. Risk Management
 
 [Risk management](../r/risk_management.md) is critical in portfolio construction. Traditional measures of risk, such as standard deviation or beta (a measure of volatility in relation to the market), are supplemented with advanced metrics in smart portfolio construction. Value at Risk (VaR), Conditional Value at Risk (CVaR), and drawdown risk are essential for quantifying and managing potential losses.
 
-Moreover, the incorporation of stress testing and scenario analysis helps assess the portfolio's resilience under extreme market conditions. Stress tests simulate the impact of financial crises, economic downturns, or significant [geopolitical events](../g/geopolitical_events.md), while scenario analysis evaluates the effects of different market regimes on [portfolio performance](../p/portfolio_performance.md).
+Moreover, the incorporation of [stress testing](../s/stress_testing_in_trading.md) and scenario analysis helps assess the portfolio's resilience under extreme market conditions. Stress tests simulate the impact of financial crises, economic downturns, or significant [geopolitical events](../g/geopolitical_events.md), while scenario analysis evaluates the effects of different market regimes on [portfolio performance](../p/portfolio_performance.md).
 
 ### 3. Asset Allocation
 
-[Asset allocation](../a/asset_allocation.md) is the process of distributing investments across various asset classes to achieve the desired balance between risk and return. Traditional models like the 60/40 rule (60% equities, 40% bonds) are replaced with dynamic [asset allocation](../a/asset_allocation.md) strategies. Techniques such as [mean-variance optimization](../m/mean-variance_optimization.md), [Black-Litterman model](../b/black-litterman_model.md), and [robust optimization](../r/robust_optimization.md) incorporate forward-looking estimates and uncertainty to build more resilient portfolios.
+[Asset allocation](../a/asset_allocation.md) is the process of distributing investments across various asset classes to achieve the desired balance between risk and return. Traditional models like the 60/40 rule (60% equities, 40% bonds) are replaced with dynamic [asset allocation](../a/asset_allocation.md) strategies. Techniques such as [mean-variance optimization](../m/mean-variance_optimization.md), [Black-Litterman model](../b/black-litterman_model.md), and [robust optimization](../r/robust_optimization.md) incorporate forward-looking estimates and [uncertainty](../u/uncertainty_in_trading.md) to build more resilient portfolios.
 
 ### 4. Portfolio Optimization
 
-[Portfolio optimization](../p/portfolio_optimization.md) involves finding the best possible mix of assets to maximize returns for a given level of risk. Smart portfolio construction employs sophisticated techniques such as genetic algorithms, particle swarm optimization, and machine learning-driven stochastic simulations to explore vast combinations of assets and identify the optimal mix.
+[Portfolio optimization](../p/portfolio_optimization.md) involves finding the best possible mix of assets to maximize returns for a given level of risk. Smart portfolio construction employs sophisticated techniques such as [genetic algorithms](../g/genetic_algorithms_in_trading.md), particle swarm optimization, and machine learning-driven stochastic simulations to explore vast combinations of assets and identify the optimal mix.
 
 ### 5. Continuous Monitoring and Rebalancing
 
@@ -60,13 +60,13 @@ Visit [Wealthfront](https://www.wealthfront.com) for more information.
 
 ### Betterment
 
-Betterment is another leading fintech company that applies smart portfolio construction techniques. They use a variety of [quantitative models](../q/quantitative_models.md) and machine learning algorithms to optimize [asset allocation](../a/asset_allocation.md) and provide personalized investment advice.
+Betterment is another leading fintech company that applies smart portfolio construction techniques. They use a variety of [quantitative models](../q/quantitative_models.md) and machine [learning algorithms](../l/learning_algorithms_in_trading.md) to optimize [asset allocation](../a/asset_allocation.md) and provide personalized investment advice.
 
 Visit [Betterment](https://www.betterment.com) for more information.
 
 ### BlackRock
 
-BlackRock, one of the largest asset management firms globally, employs advanced algorithms and big data analytics to manage portfolios for institutional and individual investors. Their Aladdin platform integrates risk analytics and [portfolio management](../p/portfolio_management.md) capabilities to support smart portfolio construction.
+BlackRock, one of the largest asset management firms globally, employs advanced algorithms and [big data analytics](../b/big_data_analytics_in_trading.md) to manage portfolios for institutional and individual investors. Their Aladdin platform integrates risk analytics and [portfolio management](../p/portfolio_management.md) capabilities to support smart portfolio construction.
 
 Visit [BlackRock](https://www.blackrock.com) for more information.
 
@@ -74,7 +74,7 @@ Visit [BlackRock](https://www.blackrock.com) for more information.
 
 Despite its advantages, smart portfolio construction faces several challenges. These include data quality and availability, overfitting of models, and the need for continuous model validation and improvement. Ensuring the ethical use of AI and machine learning, while mitigating biases in data and algorithms, is also crucial.
 
-Looking ahead, the integration of quantum computing and further advancements in AI are expected to enhance smart portfolio construction techniques. The future will likely see even more personalized and adaptive investment strategies that can better respond to the evolving market landscape and individual investor needs.
+Looking ahead, the integration of [quantum computing](../q/quantum_computing_in_trading.md) and further advancements in AI are expected to enhance smart portfolio construction techniques. The future will likely see even more personalized and adaptive investment strategies that can better respond to the evolving market landscape and individual investor needs.
 
 ## Conclusion
 

@@ -1,6 +1,6 @@
 # Hedging Delta-Gamma
 
-[Hedging Delta](../h/hedging_delta.md)-Gamma is a sophisticated [risk management](../r/risk_management.md) strategy used extensively in option trading and [portfolio management](../p/portfolio_management.md). This technique focuses on mitigating risks associated with the non-linear sensitivity of an option's price to changes in the underlying asset's price and its volatility. The strategy requires a deep understanding of options Greeks, particularly Delta and Gamma, and involves complex mathematical models and real-time adjustments to maintain a balanced and neutral portfolio.
+[Hedging Delta](../h/hedging_delta.md)-Gamma is a sophisticated [risk management](../r/risk_management.md) strategy used extensively in option trading and [portfolio management](../p/portfolio_management.md). This technique focuses on mitigating risks associated with the non-linear sensitivity of an option's price to changes in the underlying asset's price and its volatility. The strategy requires a deep understanding of options Greeks, particularly Delta and Gamma, and involves complex [mathematical models](../m/mathematical_models_in_trading.md) and real-time adjustments to maintain a balanced and neutral portfolio.
 
 ### Understanding Delta and Gamma
 
@@ -39,7 +39,7 @@ Example:
 
 ### Real-World Applications and Tools
 
-Financial institutions, hedge funds, and sophisticated traders use advanced software platforms and real-time data feeds to manage their Delta-Gamma hedges. Some of the prominent tools and companies are:
+Financial institutions, hedge funds, and sophisticated traders use advanced [software platforms](../s/software_platforms_for_trading.md) and real-time data feeds to manage their Delta-Gamma hedges. Some of the prominent tools and companies are:
 
 - **[Bloomberg](../b/bloomberg.md) Terminal ([bloomberg.com/professional](https://www.bloomberg.com/professional/))**: Provides real-time options pricing data, and Greeks calculations, and supports complex [hedging strategies](../h/hedging_strategies.md).
 
@@ -49,4 +49,4 @@ Financial institutions, hedge funds, and sophisticated traders use advanced soft
 
 ### Conclusion
 
-[Hedging Delta](../h/hedging_delta.md)-Gamma is essential for managing the complex risks associated with options trading. While the technique can prevent significant losses through directional and non-linear price changes, it requires constant vigilance, advanced mathematical models, and sophisticated [trading systems](../t/trading_systems.md) to execute effectively. The combination of Delta and [Gamma hedging](../g/gamma_hedging.md) provides a robust framework for maintaining a balanced and stable portfolio in an unpredictable market.
+[Hedging Delta](../h/hedging_delta.md)-Gamma is essential for managing the complex risks associated with options trading. While the technique can prevent significant losses through directional and non-linear price changes, it requires constant vigilance, advanced [mathematical models](../m/mathematical_models_in_trading.md), and sophisticated [trading systems](../t/trading_systems.md) to execute effectively. The combination of Delta and [Gamma hedging](../g/gamma_hedging.md) provides a robust framework for maintaining a balanced and stable portfolio in an unpredictable market.

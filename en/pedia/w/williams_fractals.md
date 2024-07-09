@@ -44,7 +44,7 @@ The utility of Williams Fractals lies in their ability to mark important market 
 While Williams Fractals are powerful on their own, combining them with other indicators can enhance their effectiveness:
 
 1. **Alligator Indicator**:
-   - Also developed by Bill Williams, the Alligator Indicator uses smoothed moving averages to identify trending and non-trending periods. When combined with fractals, it can provide a more accurate trading signal. For example, only taking fractal signals in the direction of the Alligator's trend lines can reduce false signals.
+   - Also developed by Bill Williams, the Alligator Indicator uses smoothed moving averages to identify trending and non-trending periods. When combined with fractals, it can provide a more accurate trading signal. For example, only taking fractal signals in the direction of the Alligator's trend lines can reduce [false signals](../f/false_signals_in_trading.md).
 
 2. **Awesome Oscillator**:
    - This momentum indicator, also created by Williams, can confirm fractal signals. A positive Awesome Oscillator reading can affirm an up fractal signal, while a negative reading can confirm a down fractal signal.
@@ -95,8 +95,8 @@ MetaTrader 4 is a popular trading platform that allows the integration of Willia
 1. **Lagging Indicator**:
    - Since fractals require confirmation from surrounding bars, they are inherently lagging.
    
-2. **False Signals in Ranging Markets**:
-   - Fractals should be used cautiously in ranging or sideways markets where they can generate false signals.
+2. **[False Signals](../f/false_signals_in_trading.md) in Ranging Markets**:
+   - Fractals should be used cautiously in ranging or sideways markets where they can generate [false signals](../f/false_signals_in_trading.md).
 
 ### Conclusion
 

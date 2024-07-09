@@ -42,8 +42,8 @@ where:
 Several companies and financial institutions are known for their advanced [algorithmic trading](../a/algorithmic_trading.md) capabilities, particularly in the fixed-income domain:
 
 - [Citadel Securities](https://www.citadelsecurities.com/): A leading market maker and [proprietary trading](../p/proprietary_trading.md) firm that employs sophisticated algorithms across various asset classes, including fixed income.
-- [Two Sigma](https://www.twosigma.com/): A hedge fund and trading firm that uses data science and technology to develop [algorithmic trading](../a/algorithmic_trading.md) strategies.
-- [DE Shaw & Co](https://www.deshaw.com/): Known for its use of complex mathematical models and algorithms in trading. 
+- [Two Sigma](https://www.twosigma.com/): A hedge fund and trading firm that uses [data science](../d/data_science_in_trading.md) and technology to develop [algorithmic trading](../a/algorithmic_trading.md) strategies.
+- [DE Shaw & Co](https://www.deshaw.com/): Known for its use of complex [mathematical models](../m/mathematical_models_in_trading.md) and algorithms in trading. 
 
 #### Challenges and Considerations
 

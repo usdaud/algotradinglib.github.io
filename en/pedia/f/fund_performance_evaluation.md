@@ -69,7 +69,7 @@ Evaluating the performance of investment funds is critical for investors, fund m
 
 ## Common Tools and Software for Fund Performance Evaluation
 
-Several tools and software platforms can assist in evaluating fund performance. These tools provide a range of analytical capabilities, from basic [performance metrics](../p/performance_metrics.md) to advanced [risk analysis](../r/risk_analysis.md) and [performance attribution](../p/performance_attribution.md). Examples include:
+Several tools and [software platforms](../s/software_platforms_for_trading.md) can assist in evaluating fund performance. These tools provide a range of analytical capabilities, from basic [performance metrics](../p/performance_metrics.md) to advanced [risk analysis](../r/risk_analysis.md) and [performance attribution](../p/performance_attribution.md). Examples include:
 
 ### 1. **Morningstar Direct**
    A comprehensive investment analysis platform offering data on mutual funds, ETFs, and market indices. [Morningstar](../m/morningstar.md) Direct provides tools for performance and [risk analysis](../r/risk_analysis.md), [portfolio management](../p/portfolio_management.md), and research.

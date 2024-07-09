@@ -66,7 +66,7 @@ Consider a trader who wants to predict the closing price of a stock based on its
 2. **Data Preparation:** Split the data into training and testing sets.
 3. **Model Training:** Fit a [linear regression](../l/linear_regression.md) model on the training data.
 4. **Prediction:** Use the fitted model to predict on the testing data.
-5. **Evaluation:** Evaluate the model using R² and residual analysis.
+5. **Evaluation:** Evaluate the model using R² and [residual analysis](../r/residual_analysis_in_trading.md).
 
 ### Using Python for Linear Regression Analysis
 
@@ -119,9 +119,9 @@ plt.show()
 Despite its usefulness, [linear regression](../l/linear_regression.md) has limitations that must be considered:
 - **Linearity Assumption:** If the relationship between \( X \) and \( Y \) is not linear, predictions will be inaccurate.
 - **Outliers:** [Linear regression](../l/linear_regression.md) is sensitive to outliers which can skew results.
-- **Multicollinearity:** In the presence of multiple predictors, collinear variables can make estimates unstable.
+- **[Multicollinearity](../m/multicollinearity_in_trading.md):** In the presence of multiple predictors, collinear variables can make estimates unstable.
 
-To address these, advanced techniques such as polynomial regression, ridge regression, lasso regression, and logistic regression might be utilized.
+To address these, advanced techniques such as polynomial regression, ridge regression, lasso regression, and [logistic regression](../l/logistic_regression_in_trading.md) might be utilized.
 
 ## Conclusion
 

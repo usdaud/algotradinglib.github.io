@@ -2,7 +2,7 @@
 
 ## Introduction to Keltner Channels
 
-The Keltner Channel is a volatility-based [technical analysis](../t/technical_analysis.md) indicator that consists of three separate lines. The central moving average line, typically a 20-period Exponential Moving Average (EMA), is flanked by two outer bands. These bands are computed by adding and subtracting a multiple of the Average True Range (ATR) from the EMA. The channel dynamically adjusts to market volatility, expanding during periods of high volatility and contracting during low volatility.
+The Keltner Channel is a volatility-based [technical analysis](../t/technical_analysis.md) indicator that consists of three separate lines. The central moving average line, typically a 20-period Exponential Moving Average (EMA), is flanked by two outer bands. These bands are computed by adding and subtracting a multiple of the [Average True Range](../a/average_true_range_(atr).md) (ATR) from the EMA. The channel dynamically adjusts to market volatility, expanding during periods of high volatility and contracting during low volatility.
 
 ## How Keltner Channels Are Calculated
 
@@ -62,7 +62,7 @@ In contrast to breakout and trend-following strategies, [mean reversion](../m/me
 
 ### 1. Combined with Other Indicators
 
-Combining [Keltner Channels](../k/keltner_channels.md) with other [technical indicators](../t/technical_indicators.md) can enhance the accuracy of trade signals. For example, pairing [Keltner Channels](../k/keltner_channels.md) with the Relative Strength Index (RSI) or Moving Average Convergence Divergence (MACD) can filter out false signals and improve trade timing.
+Combining [Keltner Channels](../k/keltner_channels.md) with other [technical indicators](../t/technical_indicators.md) can enhance the accuracy of trade signals. For example, pairing [Keltner Channels](../k/keltner_channels.md) with the Relative Strength Index (RSI) or Moving Average Convergence Divergence (MACD) can filter out [false signals](../f/false_signals_in_trading.md) and improve trade timing.
 
 ### 2. Multi-Timeframe Analysis
 

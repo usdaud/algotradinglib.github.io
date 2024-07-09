@@ -32,7 +32,7 @@ The main application that integrates all StockSharp components into a single tra
 
 Key features:
 - [Real-time market data](../r/real-time_market_data.md) display
-- Order management and execution
+- [Order management](../o/order_management_in_trading.md) and execution
 - Portfolio tracking and [risk management](../r/risk_management.md)
 - Strategy monitoring and control
 - Customizable user interface
@@ -63,10 +63,10 @@ StockSharp provides support for a wide range of financial instruments and market
 
 StockSharp offers integration with numerous brokers, exchanges, and data providers, including:
 
-- Interactive Brokers
-- FXCM
+- [Interactive Brokers](../i/interactive_brokers.md)
+- [FXCM](../f/fxcm.md)
 - [OANDA](../o/oanda.md)
-- Binance
+- [Binance](../b/binance.md)
 - BitStamp
 - Poloniex
 - QUIK
@@ -85,7 +85,7 @@ StockSharp provides multiple ways to develop [trading strategies](../t/trading_s
 Features for strategy development include:
 - [Backtesting](../b/backtesting.md) engine with detailed [performance analytics](../p/performance_analytics.md)
 - Walk-forward and Monte Carlo testing
-- Optimization tools (including genetic algorithms)
+- Optimization tools (including [genetic algorithms](../g/genetic_algorithms_in_trading.md))
 - Real-time paper trading for strategy validation
 
 ## Risk Management
@@ -109,7 +109,7 @@ StockSharp includes various [risk management](../r/risk_management.md) tools:
 ## Algorithmic Trading Features
 
 - High-frequency trading support
-- Complex order types and algorithms (TWAP, VWAP, Iceberg, etc.)
+- Complex [order types](../o/order_types_in_trading.md) and algorithms (TWAP, VWAP, Iceberg, etc.)
 - Event-driven architecture for fast market response
 - Multi-asset and multi-strategy capabilities
 

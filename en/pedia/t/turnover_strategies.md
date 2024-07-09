@@ -74,7 +74,7 @@ Bridgewater Associates, founded by Ray Dalio, employs a mix of high and low turn
 
 ### Two Sigma
 
-Two Sigma uses data science and technology to identify trading opportunities. The firm employs a variety of strategies, including high turnover [quantitative trading](../q/quantitative_trading.md) and lower turnover [value investing](../v/value_investing.md). [Two Sigma](https://www.twosigma.com).
+Two Sigma uses [data science](../d/data_science_in_trading.md) and technology to identify trading opportunities. The firm employs a variety of strategies, including high turnover [quantitative trading](../q/quantitative_trading.md) and lower turnover [value investing](../v/value_investing.md). [Two Sigma](https://www.twosigma.com).
 
 ### Vanguard
 

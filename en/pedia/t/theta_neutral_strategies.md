@@ -12,7 +12,7 @@ Several factors influence Theta:
 
 1. **Time to Expiration**: Options with shorter time durations have higher Thetas. As the expiration date approaches, the rate of time decay accelerates.
 2. **Moneyness**: At-the-money options (where the strike price is close to the current market price) typically exhibit higher Thetas compared to in-the-money or [out-of-the-money options](../o/out-of-the-money_options.md).
-3. **Volatility**: Options in a highly volatile market tend to have lower Thetas because higher uncertainty provides more value to the time component.
+3. **Volatility**: Options in a highly volatile market tend to have lower Thetas because higher [uncertainty](../u/uncertainty_in_trading.md) provides more value to the time component.
   
 ## Building Theta Neutral Strategies
 
@@ -43,7 +43,7 @@ To effectively implement Theta neutral strategies, you can use various trading p
 1. **[Thinkorswim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md)**: A comprehensive trading platform that offers advanced options analysis tools, including Theta calculations and simulations.
    - [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
 
-2. **Interactive Brokers**: Known for its sophisticated trading tools, Interactive Brokers offers detailed options analytics and [risk management](../r/risk_management.md) features.
+2. **[Interactive Brokers](../i/interactive_brokers.md)**: Known for its sophisticated trading tools, [Interactive Brokers](../i/interactive_brokers.md) offers detailed options analytics and [risk management](../r/risk_management.md) features.
    - [Interactive Brokers](https://www.interactivebrokers.com/)
 
 3. **Tastyworks**: This platform is designed with options traders in mind, offering intuitive visual representations of various strategies, including Theta neutral approaches.

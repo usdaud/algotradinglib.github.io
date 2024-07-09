@@ -2,17 +2,17 @@
 
 ### Introduction to Entropy in Trading
 
-In the field of information theory, entropy is a measure of the uncertainty or randomness in a system. When applied to trading, entropy can help quantify the unpredictability of price movements or the degree of disorder in a market. Traditional entropy in trading often deals with the analysis of individual securities or the distribution of returns on an investment. However, when dealing with multiple variables, such as the relationship between different assets, we need to consider joint entropy.
+In the field of information theory, entropy is a measure of the [uncertainty](../u/uncertainty_in_trading.md) or randomness in a system. When applied to trading, entropy can help quantify the unpredictability of price movements or the degree of disorder in a market. Traditional entropy in trading often deals with the analysis of individual securities or the distribution of returns on an investment. However, when dealing with multiple variables, such as the relationship between different assets, we need to consider joint entropy.
 
 ### What is Joint Entropy?
 
-Joint entropy extends the concept of entropy to a pair or set of random variables. It quantifies the overall uncertainty within a system involving multiple interacting variables. Mathematically, if we have two discrete random variables, X and Y, the joint entropy H(X, Y) is defined as:
+Joint entropy extends the concept of entropy to a pair or set of random variables. It quantifies the overall [uncertainty](../u/uncertainty_in_trading.md) within a system involving multiple interacting variables. Mathematically, if we have two discrete random variables, X and Y, the joint entropy H(X, Y) is defined as:
 
 \[ H(X, Y) = - \sum_x \sum_y P(x, y) \log P(x, y) \]
 
 where \( P(x, y) \) is the joint probability distribution of X and Y.
 
-In the context of trading, X and Y could represent the returns of two different financial assets, such as stocks, bonds, or currencies. Joint entropy considers the combined uncertainty of these assets' returns and can provide insights into their interdependencies.
+In the context of trading, X and Y could represent the returns of two different financial assets, such as stocks, bonds, or currencies. Joint entropy considers the combined [uncertainty](../u/uncertainty_in_trading.md) of these assets' returns and can provide insights into their interdependencies.
 
 ### Relevance of Joint Entropy in Trading
 
@@ -32,7 +32,7 @@ Joint entropy can also be used for [risk management](../r/risk_management.md). B
 
 #### Data Collection
 
-The first step in calculating joint entropy is to gather historical price data for the assets in question. This data can be obtained from various financial data providers such as [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), or Yahoo Finance. The data should be in the form of time series representing the prices or returns of the assets over a specific period.
+The first step in calculating joint entropy is to gather historical price data for the assets in question. This data can be obtained from various financial data providers such as [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), or [Yahoo Finance](../y/yahoo_finance.md). The data should be in the form of time series representing the prices or returns of the assets over a specific period.
 
 #### Probability Distribution Estimation
 

@@ -57,7 +57,7 @@ One of the most anticipated news events is the monthly U.S. Non-Farm Payroll rep
 [QuantConnect](https://www.quantconnect.com/)
 
 ### Numerai
-Numerai leverages a collaborative data science approach to build machine learning models that can predict financial market movements, including those driven by high-impact news events. Numerai’s unique data-shared tournament approach allows for innovative strategies in High Impact News Trading.
+Numerai leverages a collaborative [data science](../d/data_science_in_trading.md) approach to build machine learning models that can predict financial market movements, including those driven by high-impact news events. Numerai’s unique data-shared tournament approach allows for innovative strategies in High Impact News Trading.
 
 [Numerai](https://numer.ai/)
 
@@ -93,9 +93,9 @@ Given the rapid and often large-scale impact of news [trading algorithms](../t/t
 As technology evolves, several trends are emerging which will shape the future of High Impact News Trading:
 
 - **Enhanced AI Algorithms**: More sophisticated AI and machine learning models will continue to improve the accuracy and speed of news event analysis.
-- **Quantum Computing**: The advent of quantum computing could revolutionize data processing speeds and complex algorithmic computations, providing an even greater edge in news-based trading.
-- **Integration with Blockchain**: Leveraging blockchain for secure and transparent transaction processing could mitigate some ethical concerns and improve trust in [algorithmic trading](../a/algorithmic_trading.md) systems.
+- **[Quantum Computing](../q/quantum_computing_in_trading.md)**: The advent of [quantum computing](../q/quantum_computing_in_trading.md) could revolutionize data processing speeds and complex algorithmic computations, providing an even greater edge in news-based trading.
+- **Integration with [Blockchain](../b/blockchain_in_trading.md)**: Leveraging [blockchain](../b/blockchain_in_trading.md) for secure and transparent transaction processing could mitigate some ethical concerns and improve trust in [algorithmic trading](../a/algorithmic_trading.md) systems.
 
 ## Conclusion
 
-High Impact News Trading represents one of the most dynamic and potentially profitable areas of [algorithmic trading](../a/algorithmic_trading.md). By combining advanced algorithms with real-time data and a disciplined approach to [risk management](../r/risk_management.md), traders can capitalize on the substantial price movements caused by significant news events. Key to success in this field is a continuous commitment to technological innovation, rigorous testing, and adherence to ethical standards.
+High Impact News Trading represents one of the most dynamic and potentially profitable areas of [algorithmic trading](../a/algorithmic_trading.md). By combining advanced algorithms with real-time data and a disciplined approach to [risk management](../r/risk_management.md), traders can capitalize on the substantial price movements caused by significant news events. Key to success in this field is a continuous commitment to technological innovation, rigorous testing, and adherence to [ethical standards](../e/ethical_standards_in_trading.md).

@@ -2,7 +2,7 @@
 
 Wilder’s smoothing techniques refer to the methods of smoothing and filtering financial data developed by J. Welles Wilder, an influential figure in [technical analysis](../t/technical_analysis.md). These techniques are used by algorithmic traders and technical analysts to smooth out price data, reduce the impact of short-term fluctuations, and reveal underlying trends in financial markets.
 
-J. Welles Wilder Jr. introduced several key indicators and methods in his seminal work, "New Concepts in Technical [Trading Systems](../t/trading_systems.md)" (1978). Among his contributions are popular indicators such as the Relative Strength Index (RSI), Average True Range (ATR), [Parabolic SAR](../p/parabolic_sar.md) (Stop and Reverse), and the Directional Movement Index (DMI). Let’s dive into the specifics of some of these smoothing techniques and their applications in [algorithmic trading](../a/algorithmic_trading.md).
+J. Welles Wilder Jr. introduced several key indicators and methods in his seminal work, "New Concepts in Technical [Trading Systems](../t/trading_systems.md)" (1978). Among his contributions are popular indicators such as the Relative Strength Index (RSI), [Average True Range](../a/average_true_range_(atr).md) (ATR), [Parabolic SAR](../p/parabolic_sar.md) (Stop and Reverse), and the Directional Movement Index (DMI). Let’s dive into the specifics of some of these smoothing techniques and their applications in [algorithmic trading](../a/algorithmic_trading.md).
 
 ### Relative Strength Index (RSI)
 
@@ -45,7 +45,7 @@ The ATR is calculated as follows:
 
 \[ \text{True Range} = \max(\text{Current High} - \text{Current Low}, |\text{Current High} - \text{Previous Close}|, |\text{Current Low} - \text{Previous Close}|) \]
 
-2. **Average True Range (ATR)** is then computed using a 14-period smoothing technique:
+2. **[Average True Range](../a/average_true_range_(atr).md) (ATR)** is then computed using a 14-period smoothing technique:
 
 \[ \text{ATR}_{\text{New}} = \frac{(\text{Previous ATR} \times 13) + \text{Current TR}}{14} \]
 
@@ -76,7 +76,7 @@ The DMI is used to identify the presence and strength of a trend. It consists of
 
 1. **+DI (Positive Directional Indicator)** - measures the strength of upward movement
 2. **-DI (Negative Directional Indicator)** - measures the strength of downward movement
-3. **ADX (Average Directional Index)** - measures the overall strength of the trend without regard to direction
+3. **ADX ([Average Directional Index](../a/average_directional_index_(adx).md))** - measures the overall strength of the trend without regard to direction
 
 #### Calculation
 1. **Calculate Directional Movement (+DM and -DM)**:

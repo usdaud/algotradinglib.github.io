@@ -76,7 +76,7 @@ Inflation forecasting is an essential aspect of economic analysis that plays a c
 
 - **Example Application**: Input variables might include past inflation rates, unemployment rates, and other [economic indicators](../e/economic_indicators.md), and the output is the forecasted inflation rate.
 
-**Support Vector Machines (SVM)**
+**[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM)**
 
 - SVMs are supervised learning models that can be used for regression ([Support Vector Regression](../s/support_vector_regression.md), SVR) to forecast inflation.
 
@@ -92,9 +92,9 @@ Inflation forecasting is an essential aspect of economic analysis that plays a c
 
 - Unexpected events, such as financial crises, natural disasters, or sudden policy changes, can disrupt inflation patterns and make forecasting more complex.
 
-**Model Uncertainty**
+**Model [Uncertainty](../u/uncertainty_in_trading.md)**
 
-- Different models can yield different forecasts, and there is often uncertainty about which model is the most appropriate for a given situation. Model selection and validation are critical but challenging tasks.
+- Different models can yield different forecasts, and there is often [uncertainty](../u/uncertainty_in_trading.md) about which model is the most appropriate for a given situation. Model selection and validation are critical but challenging tasks.
 
 **Structural Changes in the Economy**
 

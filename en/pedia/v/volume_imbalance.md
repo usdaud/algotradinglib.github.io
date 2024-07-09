@@ -105,7 +105,7 @@ XTX Markets (https://www.xtxmarkets.com/) is an example of a financial services 
 
 ### False Signals
 
-Volume imbalance indicators can sometimes produce false signals, especially in highly volatile or thinly traded markets. Traders must corroborate volume imbalance signals with other technical and fundamental analyses.
+Volume imbalance indicators can sometimes produce [false signals](../f/false_signals_in_trading.md), especially in highly volatile or thinly traded markets. Traders must corroborate volume imbalance signals with other technical and fundamental analyses.
 
 ### Market Manipulation
 
@@ -119,11 +119,11 @@ In high-frequency trading, latency in detecting and responding to volume imbalan
 
 ### Machine Learning and AI
 
-The integration of machine learning and artificial intelligence (AI) in [trading algorithms](../t/trading_algorithms.md) holds promising potential for enhancing volume imbalance analysis. These technologies can identify complex patterns and predictive relationships beyond traditional analytical methods.
+The integration of machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) in [trading algorithms](../t/trading_algorithms.md) holds promising potential for enhancing volume imbalance analysis. These technologies can identify complex patterns and predictive relationships beyond traditional analytical methods.
 
 ### Blockchain and Decentralized Exchanges
 
-The advent of blockchain technology and decentralized exchanges (DEXs) introduces new challenges and opportunities for volume imbalance analysis. DEXs offer transparency in order books, potentially providing more reliable volume imbalance data.
+The advent of [blockchain](../b/blockchain_in_trading.md) technology and decentralized exchanges (DEXs) introduces new challenges and opportunities for volume imbalance analysis. DEXs offer transparency in order books, potentially providing more reliable volume imbalance data.
 
 ### Real-Time Analytics
 

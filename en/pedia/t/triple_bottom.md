@@ -20,13 +20,13 @@ Volume plays a crucial role in validating the Triple Bottom pattern. During the 
 
 ## Measuring the Potential Price Target
 
-To estimate the potential price target following a Triple Bottom breakout, traders measure the distance from the support level to the resistance level and then extend it upward from the breakout point. This measurement provides a rough estimate of the upside potential.
+To estimate the potential price target following a Triple Bottom breakout, traders measure the distance from the support level to the resistance level and then extend it upward from the breakout point. This measurement provides a rough estimate of the [upside potential](../u/upside_potential_in_trading.md).
 
 ## Algorithmic Trading Applications
 
 In [algorithmic trading](../a/algorithmic_trading.md), recognizing and leveraging the Triple Bottom pattern can lead to profitable strategies. Here's how it can be incorporated:
 
-1. **[Pattern Recognition](../p/pattern_recognition.md) Algorithms**: Develop algorithms that scan historical price data to identify the Triple Bottom formation. Features such as pattern matching and machine learning can enhance the accuracy of detection.
+1. **[Pattern Recognition](../p/pattern_recognition.md) Algorithms**: Develop algorithms that scan historical price data to identify the Triple Bottom formation. Features such as [pattern matching](../p/pattern_matching_in_trading.md) and machine learning can enhance the accuracy of detection.
 
 2. **Entry and Exit Signals**: Use the breakout above the resistance level as an entry signal for long positions. Conversely, set [stop-loss orders](../s/stop-loss_orders.md) just below the third bottom to mitigate risks if the pattern fails.
 

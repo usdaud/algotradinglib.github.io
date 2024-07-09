@@ -1,6 +1,6 @@
 # Risk Management Frameworks
 
-[Algorithmic trading](../a/algorithmic_trading.md), also known as algo trading, refers to the use of computer algorithms to manage [trading strategies](../t/trading_strategies.md) and execute orders in financial markets. This sophisticated method leverages mathematical models, statistical analyses, and computational power to identify profitable opportunities and automate the trading process. While [algorithmic trading](../a/algorithmic_trading.md) presents significant advantages such as speed, precision, and the ability to handle large volumes of trades, it is inherently associated with a range of risks. Proper [risk management](../r/risk_management.md) frameworks are crucial to mitigate these risks and ensure the stability and profitability of algo [trading strategies](../t/trading_strategies.md). This article delves into the essential elements of [risk management](../r/risk_management.md) frameworks in [algorithmic trading](../a/algorithmic_trading.md), offering detailed insights into their importance, components, and implementation.
+[Algorithmic trading](../a/algorithmic_trading.md), also known as algo trading, refers to the use of computer algorithms to manage [trading strategies](../t/trading_strategies.md) and execute orders in financial markets. This sophisticated method leverages [mathematical models](../m/mathematical_models_in_trading.md), statistical analyses, and computational power to identify profitable opportunities and automate the trading process. While [algorithmic trading](../a/algorithmic_trading.md) presents significant advantages such as speed, precision, and the ability to handle large volumes of trades, it is inherently associated with a range of risks. Proper [risk management](../r/risk_management.md) frameworks are crucial to mitigate these risks and ensure the stability and profitability of algo [trading strategies](../t/trading_strategies.md). This article delves into the essential elements of [risk management](../r/risk_management.md) frameworks in [algorithmic trading](../a/algorithmic_trading.md), offering detailed insights into their importance, components, and implementation.
 
 ### Importance of Risk Management in Algorithmic Trading
 
@@ -31,7 +31,7 @@ The initial phase involves identifying all potential risks associated with algo 
 Once identified, risks need to be quantified and assessed. This can be done using various methods:
 
 - **Value at Risk (VaR)**: Measures the potential loss in value of a portfolio over a defined period for a given confidence interval.
-- **Stress Testing**: Simulates extreme market conditions to assess the impact on [trading strategies](../t/trading_strategies.md).
+- **[Stress Testing](../s/stress_testing_in_trading.md)**: Simulates extreme market conditions to assess the impact on [trading strategies](../t/trading_strategies.md).
 - **Scenario Analysis**: Evaluates potential losses under hypothetical scenarios of market movements.
 
 #### 3. **Risk Mitigation**
@@ -74,7 +74,7 @@ Risk controls and limits should be integrated into [algorithmic trading](../a/al
 
 4. **Utilize Advanced Technologies**
 
-Leveraging technologies such as machine learning, artificial intelligence, and big data analytics can enhance [risk management](../r/risk_management.md) capabilities. These technologies help in identifying patterns, predicting risks, and optimizing [trading strategies](../t/trading_strategies.md).
+Leveraging technologies such as machine learning, [artificial intelligence](../a/artificial_intelligence_in_trading.md), and [big data analytics](../b/big_data_analytics_in_trading.md) can enhance [risk management](../r/risk_management.md) capabilities. These technologies help in identifying patterns, predicting risks, and optimizing [trading strategies](../t/trading_strategies.md).
 
 5. **Conduct Regular Audits and Reviews**
 
@@ -88,7 +88,7 @@ XYZ [Algorithmic Trading](../a/algorithmic_trading.md) Firm specializes in high-
 
 1. **Risk Identification and Assessment**
 
-XYZ employs a dedicated team to continually monitor market conditions and identify potential risks. They use advanced analytics and risk assessment tools such as VaR and stress testing to quantify risks.
+XYZ employs a dedicated team to continually monitor market conditions and identify potential risks. They use advanced analytics and risk assessment tools such as VaR and [stress testing](../s/stress_testing_in_trading.md) to quantify risks.
 
 2. **Risk Mitigation Strategies**
 

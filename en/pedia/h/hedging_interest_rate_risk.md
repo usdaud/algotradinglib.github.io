@@ -38,7 +38,7 @@ Effective hedging requires a well-structured strategy tailored to the specific n
 
 1. **Duration Matching**: Aligning the duration of assets and liabilities so that their changes in value due to interest rate fluctuations offset each other.
 
-2. **Cash Flow Hedging**: Using [derivatives](../d/derivatives.md) like swaps and FRAs to manage the variability in cash flows due to interest rate changes. This can stabilize future cash flows and reduce uncertainty.
+2. **Cash Flow Hedging**: Using [derivatives](../d/derivatives.md) like swaps and FRAs to manage the variability in cash flows due to interest rate changes. This can stabilize future cash flows and reduce [uncertainty](../u/uncertainty_in_trading.md).
 
 3. **Immunization**: Creating a portfolio where the value of assets and liabilities are equally affected by interest rate changes, thereby nullifying the net impact on the portfolio.
 
@@ -54,9 +54,9 @@ Technology plays a crucial role in the modern hedging of interest rate risk. Fin
 
 2. **[Risk Management](../r/risk_management.md) Software**: Comprehensive software solutions that offer real-time monitoring, risk assessment, scenario analysis, and reporting, allowing institutions to maintain a firm grasp on their exposure.
 
-3. **Data Analytics**: Big data analytics enables the processing of vast amounts of market data to identify patterns, forecast trends, and refine [hedging strategies](../h/hedging_strategies.md).
+3. **Data Analytics**: [Big data analytics](../b/big_data_analytics_in_trading.md) enables the processing of vast amounts of market data to identify patterns, forecast trends, and refine [hedging strategies](../h/hedging_strategies.md).
 
-4. **Blockchain Technology**: Increasingly applied to ensure transparent and secure execution of financial contracts, reducing [counterparty risk](../c/counterparty_risk.md) and improving hedging efficiency.
+4. **[Blockchain](../b/blockchain_in_trading.md) Technology**: Increasingly applied to ensure transparent and secure execution of financial contracts, reducing [counterparty risk](../c/counterparty_risk.md) and improving hedging efficiency.
 
 **Financial Institutions in Hedging**
 

@@ -4,7 +4,7 @@ In the realm of [algorithmic trading](../a/algorithmic_trading.md), [risk manage
 
 ## Defining Jump Risk in Trading
 
-Jump risk specifically refers to the risk of a sudden and significant change in the price level of an asset. In [mathematical finance](../m/mathematical_finance.md), the jump-diffusion model incorporates jump risk into the modeling of asset prices, complementing the continuous Brownian motion with discrete jumps. These jumps can be positive or negative and are usually modeled with a Poisson process.
+Jump risk specifically refers to the risk of a sudden and significant change in the price level of an asset. In [mathematical finance](../m/mathematical_finance.md), the jump-diffusion model incorporates jump risk into the modeling of asset prices, complementing the continuous Brownian motion with discrete jumps. These jumps can be positive or negative and are usually modeled with a [Poisson process](../p/poisson_process_in_trading.md).
 
 ### Jump-Diffusion Model
 
@@ -18,7 +18,7 @@ Where:
 - \( \sigma \) is the volatility of the asset price.
 - \( dW_t \) is a Wiener process representing the continuous part of the price movement.
 - \( J_t \) represents the jump size at time \( t \).
-- \( N_t \) is a Poisson process with intensity \( \lambda \), representing the frequency of jumps.
+- \( N_t \) is a [Poisson process](../p/poisson_process_in_trading.md) with intensity \( \lambda \), representing the frequency of jumps.
 
 The jump component \( J_t \) is typically modeled as a log-normally distributed random variable, reflecting the magnitude and direction (positive or negative) of the jump. Thus, the asset's price can experience sudden large changes in addition to the gradual changes modeled by the Brownian motion component.
 
@@ -36,7 +36,7 @@ The jump component \( J_t \) is typically modeled as a log-normally distributed 
 3. **Use of [Stop-Loss Orders](../s/stop-loss_orders.md)**: Implementing stop-loss strategies can limit potential losses by automatically closing positions when prices move against the trader beyond a certain threshold.
 4. **Adjusting Position Sizes**: Reducing position sizes can limit exposure to individual assets and thus reduce the impact of sudden price jumps.
 5. **Event Monitoring**: Continuously monitoring news and economic events, and adjusting [trading strategies](../t/trading_strategies.md) accordingly can help mitigate the risks associated with unexpected market movements.
-6. **Advanced Risk Models**: Employing advanced [risk management](../r/risk_management.md) models that incorporate jump risk into their calculations can provide a more accurate assessment of potential risks.
+6. **Advanced [Risk Models](../r/risk_models_in_trading.md)**: Employing advanced [risk management](../r/risk_management.md) models that incorporate jump risk into their calculations can provide a more accurate assessment of potential risks.
 
 ## Real-World Examples
 
@@ -58,7 +58,7 @@ One notable event highlighting the importance of managing jump risk is the "Flas
 
 ### Automation and Algorithms
 
-Technological advancements have enabled algorithmic traders to deploy sophisticated [risk management](../r/risk_management.md) systems. These systems use machine learning and artificial intelligence to predict potential jumps, optimize stop-loss levels, and dynamically adjust positions.
+Technological advancements have enabled algorithmic traders to deploy sophisticated [risk management](../r/risk_management.md) systems. These systems use machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to predict potential jumps, optimize stop-loss levels, and dynamically adjust positions.
 
 ### High-Frequency Trading (HFT)
 
@@ -74,4 +74,4 @@ Regulatory bodies have implemented various measures to address jump risk and ens
 
 ## Conclusion
 
-Jump risk is an inherent part of financial markets, and managing it is crucial for the success of [algorithmic trading](../a/algorithmic_trading.md) strategies. Through diversification, hedging, advanced risk models, and the use of technology, traders can mitigate the impact of sudden price movements and improve the robustness of their [trading systems](../t/trading_systems.md). Staying vigilant to market events and continuously refining [risk management](../r/risk_management.md) techniques will enable traders to navigate the complexities of jump risk effectively.
+Jump risk is an inherent part of financial markets, and managing it is crucial for the success of [algorithmic trading](../a/algorithmic_trading.md) strategies. Through diversification, hedging, advanced [risk models](../r/risk_models_in_trading.md), and the use of technology, traders can mitigate the impact of sudden price movements and improve the robustness of their [trading systems](../t/trading_systems.md). Staying vigilant to market events and continuously refining [risk management](../r/risk_management.md) techniques will enable traders to navigate the complexities of jump risk effectively.

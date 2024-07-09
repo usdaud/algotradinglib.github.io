@@ -10,7 +10,7 @@ QuantRocket is a comprehensive platform for researching, [backtesting](../b/back
 4. **Algorithm Development**: Supports development in Python using familiar libraries such as pandas and Zipline.
 5. **Integrated IDE**: Built-in JupyterLab environment for research, development, and analysis.
 6. **Market Data Feeds**: Integration with numerous market data providers for comprehensive data coverage.
-7. **Trade Execution**: Direct integration with brokers like Interactive Brokers for seamless order execution.
+7. **Trade Execution**: Direct integration with brokers like [Interactive Brokers](../i/interactive_brokers.md) for seamless order execution.
 8. **[Data Visualization](../d/data_visualization.md)**: Tools for visualizing market data, backtest results, and live [trading performance](../t/trading_performance.md).
 9. **[Risk Management](../r/risk_management.md)**: Advanced [risk management](../r/risk_management.md) tools to monitor and mitigate trading risks.
 10. **Cloud Infrastructure**: Utilizes cloud-based infrastructure for scalable and powerful computational resources.
@@ -27,8 +27,8 @@ QuantRocket is a comprehensive platform for researching, [backtesting](../b/back
 ## Integrations
 QuantRocket integrates with a variety of brokers, data providers, and third-party services to enhance its functionality. Some notable integrations include:
 
-- **Brokerage Firms**: Direct integration with brokers such as Interactive Brokers for live trading and order management.
-- **Market Data Providers**: Access to data from providers like [Alpaca](../a/alpaca.md), IEX Cloud, and Sharadar for comprehensive market data coverage.
+- **Brokerage Firms**: Direct integration with brokers such as [Interactive Brokers](../i/interactive_brokers.md) for live trading and [order management](../o/order_management_in_trading.md).
+- **Market Data Providers**: Access to data from providers like [Alpaca](../a/alpaca.md), [IEX Cloud](../i/iex_cloud.md), and Sharadar for comprehensive market data coverage.
 - **Python Libraries**: Compatibility with popular Python libraries such as pandas, Zipline, and NumPy for algorithm development.
 - **Cloud Services**: Integration with cloud platforms like AWS for scalable computational resources.
 - **APIs**: APIs for custom integrations and development of [proprietary trading](../p/proprietary_trading.md) solutions.

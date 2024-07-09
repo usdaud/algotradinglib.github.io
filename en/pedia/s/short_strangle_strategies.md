@@ -67,7 +67,7 @@ Several trading platforms provide tools and resources to execute [Short Strangle
   
   [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
   
-- **Interactive Brokers**: Offers a wide range of options trading capabilities and sophisticated order types.
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Offers a wide range of options trading capabilities and sophisticated [order types](../o/order_types_in_trading.md).
   
   [Interactive Brokers](https://www.interactivebrokers.com)
   
@@ -75,7 +75,7 @@ Several trading platforms provide tools and resources to execute [Short Strangle
 
   [Tastyworks](https://www.tastyworks.com)
   
-- **E*TRADE**: Offers comprehensive tools for both novice and experienced traders.
+- **[E*TRADE](../e/e_trade.md)**: Offers comprehensive tools for both novice and experienced traders.
   
   [E*TRADE](https://us.etrade.com/home)
 

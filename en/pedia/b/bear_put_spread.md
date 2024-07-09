@@ -69,7 +69,7 @@ Bear Put Spreads are ideal in moderately bearish market conditions where you exp
 
 1. **Before Earnings Reports**: When traders expect bad news that might cause a moderate decline in stock price.
 2. **Market Correction**: When there is an overall bearish sentiment in the market but not a crash.
-3. **Strategic Hedging**: As a hedging mechanism for existing long positions during periods of market uncertainty.
+3. **Strategic Hedging**: As a hedging mechanism for existing long positions during periods of market [uncertainty](../u/uncertainty_in_trading.md).
 
 ## Practical Considerations
 

@@ -58,11 +58,11 @@ Ensemble methods aggregate predictions from a variety of models to enhance stabi
 
 #### Applications:
 - **Robust prediction systems**: Combining forecasts from different models to mitigate overfitting.
-- **[Risk management](../r/risk_management.md)**: Providing more reliable risk assessments by averaging across multiple predictive models.
+- **[Risk management](../r/risk_management.md)**: Providing more reliable risk assessments by averaging across multiple [predictive models](../p/predictive_models_in_trading.md).
 
 ## 4. Economic Indicators-Based Models
 
-[Economic indicators](../e/economic_indicators.md) provide macroeconomic data influencing market movements. Commonly used indicators include GDP growth rates, unemployment rates, and inflation data.
+[Economic indicators](../e/economic_indicators.md) provide macroeconomic data influencing market movements. Commonly used indicators include GDP [growth rates](../g/growth_rates_in_trading.md), unemployment rates, and inflation data.
 
 ### 4.1 Leading Indicators
 
@@ -124,7 +124,7 @@ This approach gauges public sentiment from social media platforms like Twitter, 
 
 ### 7.1 Deep Learning Models
 
-Deep learning models, a subset of machine learning, involve multiple layers of neural networks to capture high-dimensional patterns in data. Techniques include Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs).
+Deep learning models, a subset of machine learning, involve multiple layers of [neural networks](../n/neural_networks_in_trading.md) to capture high-dimensional patterns in data. Techniques include Convolutional [Neural Networks](../n/neural_networks_in_trading.md) (CNNs) and Recurrent [Neural Networks](../n/neural_networks_in_trading.md) (RNNs).
 
 #### Applications:
 - **Image recognition**: Analyzing [chart patterns](../c/chart_patterns.md) and [technical indicators](../t/technical_indicators.md) from stock market charts.

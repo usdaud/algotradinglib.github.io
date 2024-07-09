@@ -12,7 +12,7 @@ Quantitative credit models are mathematical frameworks used in finance for asses
 ### Types of Quantitative Credit Models
 
 #### 1. Structural Models
-Structural models are grounded in the firm's value and capital structure. The most iconic example is the Merton model, which conceptualizes default as a firm's asset value falling below its debt obligations.
+[Structural models](../s/structural_models_in_trading.md) are grounded in the firm's value and capital structure. The most iconic example is the Merton model, which conceptualizes default as a firm's asset value falling below its debt obligations.
 
 - **Merton Model**: Introduced by Robert C. Merton, this model assumes that the equity of a firm can be modeled as a call option on its assets. [More about Merton Model](https://www.risk.net/market-access/4267316/merton-model)
 
@@ -22,9 +22,9 @@ Reduced form models, also known as intensity-based models, do not rely directly 
 - **Jarrow-Turnbull Model**: This model defines the hazard rate and uses it to derive bond prices and credit spreads. [More about Jarrow-Turnbull Model](https://www.jstor.org/stable/2331139)
 
 #### 3. Machine Learning Models
-With advancements in computational power and big data analytics, machine learning models have become increasingly popular for credit risk modeling. These models apply algorithms to discover patterns and relationships in vast data sets.
+With advancements in computational power and [big data analytics](../b/big_data_analytics_in_trading.md), machine learning models have become increasingly popular for credit risk modeling. These models apply algorithms to discover patterns and relationships in vast data sets.
 
-- **Random Forests**: Multiple [decision trees](../d/decision_trees.md) are trained with random samples of data and features; the consensus of the forest is used for predictions.
+- **[Random Forests](../r/random_forests_in_trading.md)**: Multiple [decision trees](../d/decision_trees.md) are trained with random samples of data and features; the consensus of the forest is used for predictions.
 
 #### 4. Hybrid Models
 To capture the benefits of both structural and reduced-form models, hybrid models integrate features from both approaches.
@@ -40,7 +40,7 @@ To capture the benefits of both structural and reduced-form models, hybrid model
 
 - **[Maximum Likelihood Estimation](../m/maximum_likelihood_estimation.md) (MLE)**: A method to estimate the parameters of a statistical model that maximizes the likelihood of observed data given the model.
 - **[Monte Carlo Simulation](../m/monte_carlo_simulation.md)**: Used for risk assessment by running numerous scenarios to understand the distribution of potential outcomes.
-- **Stress Testing**: Exposing a model to extreme conditions to see how it performs under stress.
+- **[Stress Testing](../s/stress_testing_in_trading.md)**: Exposing a model to extreme conditions to see how it performs under stress.
 
 ### Regulatory and Industry Adoption
 
@@ -54,7 +54,7 @@ Several global firms specialize in developing and applying quantitative credit m
 
 - **Moody's Analytics**: Provides financial intelligence and analytical tools. Known for its credit rating models. [Moody's](https://www.moodysanalytics.com/)
 - **Fitch Solutions**: Offers risk and [performance analytics](../p/performance_analytics.md) solutions, including [credit risk models](../c/credit_risk_models.md). [Fitch Solutions](https://fitchsolutions.com/)
-- **S&P Global Market Intelligence**: Develops advanced [credit risk models](../c/credit_risk_models.md) and analytics. [S&P Global](https://www.spglobal.com/marketintelligence/en/)
+- **[S&P Global Market Intelligence](../s/snp_global_market_intelligence.md)**: Develops advanced [credit risk models](../c/credit_risk_models.md) and analytics. [S&P Global](https://www.spglobal.com/marketintelligence/en/)
 
 ### Use Cases and Applications
 

@@ -37,7 +37,7 @@ Z-Score analysis can also be applied to [anomaly detection](../a/anomaly_detecti
 
 ### Normal Distribution and Z-Score
 
-The Z-Score is primarily used with data sets that approximate a normal distribution. In a normal distribution:
+The Z-Score is primarily used with data sets that approximate a [normal distribution](../n/normal_distribution_in_trading.md). In a [normal distribution](../n/normal_distribution_in_trading.md):
 - Approximately 68% of the data falls within ±1 standard deviation of the mean.
 - Approximately 95% of the data falls within ±2 standard deviations of the mean.
 - Approximately 99.7% of the data falls within ±3 standard deviations of the mean.
@@ -93,12 +93,12 @@ print(df)
 11   150 -0.923380
 ```
 
-This output shows the Z-Scores for each closing price, providing insight into how each day's price compares to the mean.
+This output shows the [Z-Scores](../z/z-scores_in_trading.md) for each closing price, providing insight into how each day's price compares to the mean.
 
 ### Integrating with Trading Algorithms
 
 Incorporating Z-Score analysis into a broader trading algorithm involves several steps:
-1. **Signal Generation**: Use Z-Scores to generate buy or sell signals based on predefined thresholds.
+1. **Signal Generation**: Use [Z-Scores](../z/z-scores_in_trading.md) to generate buy or sell signals based on predefined thresholds.
 2. **[Risk Management](../r/risk_management.md)**: Implement stop-loss and take-profit mechanisms to manage risk.
 3. **[Backtesting](../b/backtesting.md)**: Evaluate the performance of the strategy on historical data to ensure its viability.
 4. **Live Trading**: Deploy the algorithm in a live [trading environment](../t/trading_environment.md), continuously monitoring and adjusting as needed.

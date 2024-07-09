@@ -27,10 +27,10 @@ HRP is a more sophisticated method that clusters assets based on their correlati
 
 ### 4. Algorithms and Tools
 #### 4.1. Machine Learning Techniques
-Machine learning algorithms, including clustering techniques (like K-means, hierarchical clustering), and reinforcement learning are increasingly employed to enhance [diversification strategies](../d/diversification_strategies.md). These techniques help in identifying non-obvious patterns and correlations among assets.
+Machine [learning algorithms](../l/learning_algorithms_in_trading.md), including clustering techniques (like K-means, hierarchical clustering), and reinforcement learning are increasingly employed to enhance [diversification strategies](../d/diversification_strategies.md). These techniques help in identifying non-obvious patterns and correlations among assets.
 
 #### 4.2. Optimization Algorithms
-Optimization algorithms such as Genetic Algorithms, Particle Swarm Optimization, and [Simulated Annealing](../s/simulated_annealing.md) assist in the optimal allocation of assets following the diversification principle. They can handle complex, [non-linear optimization](../n/non-linear_optimization.md) problems more efficiently than traditional methods.
+Optimization algorithms such as [Genetic Algorithms](../g/genetic_algorithms_in_trading.md), Particle Swarm Optimization, and [Simulated Annealing](../s/simulated_annealing.md) assist in the optimal allocation of assets following the diversification principle. They can handle complex, [non-linear optimization](../n/non-linear_optimization.md) problems more efficiently than traditional methods.
 
 #### 4.3. Software and Platforms
 Several software and platforms provide tools to implement Maximum [Diversification Strategies](../d/diversification_strategies.md):

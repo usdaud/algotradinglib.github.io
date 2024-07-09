@@ -20,7 +20,7 @@ Descriptive statistics are fundamental in univariate analysis to summarize and d
 
 Visualization tools are critical for conducting univariate analysis. They help identify patterns, trends, and anomalies in the data:
 
-- **Histograms:** Visualize the frequency distribution of a variable. A histogram of stock returns can reveal whether returns follow a normal distribution, are skewed, or show fat tails.
+- **Histograms:** Visualize the frequency distribution of a variable. A histogram of stock returns can reveal whether returns follow a [normal distribution](../n/normal_distribution_in_trading.md), are skewed, or show fat tails.
 
 - **Box Plots:** Show the distribution of data based on quartiles and identify outliers. In trading, box plots can depict the spread of returns or trading volumes.
 
@@ -44,7 +44,7 @@ Univariate analysis of time series data involves studying variables over time. K
 
 Statistical tests in univariate analysis help validate hypotheses about data distributions or characteristics:
 
-- **Normality Tests:** Check whether data follow a normal distribution. Examples include the Shapiro-Wilk test and the Kolmogorov-Smirnov test. Many [trading models](../t/trading_models.md) assume normality, so these tests are crucial for model validation.
+- **Normality Tests:** Check whether data follow a [normal distribution](../n/normal_distribution_in_trading.md). Examples include the Shapiro-Wilk test and the Kolmogorov-Smirnov test. Many [trading models](../t/trading_models.md) assume normality, so these tests are crucial for model validation.
 
 - **t-Tests and z-Tests:** Compare the means of a dataset against a known value or another dataset. These tests can determine if a stock's average return is significantly different from a benchmark.
 
@@ -72,7 +72,7 @@ Univariate analysis is integral to developing and refining [trading strategies](
 
 - **Performance Evaluation:** By examining the statistical properties of returns, traders can evaluate the performance of their strategies over different market conditions.
 
-- **[Backtesting](../b/backtesting.md) and Simulation:** Analyzing historical price data helps in simulating [trading strategies](../t/trading_strategies.md) to assess their potential profitability before deploying them in live trading.
+- **[Backtesting](../b/backtesting.md) and [Simulation](../s/simulation_in_trading.md):** Analyzing historical price data helps in simulating [trading strategies](../t/trading_strategies.md) to assess their potential profitability before deploying them in live trading.
 
 ## Tools and Libraries
 

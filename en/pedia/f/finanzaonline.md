@@ -6,9 +6,9 @@ FinanzaOnline is one of the most popular financial forums in Italy, providing a 
 ## Key Features
 1. **Discussion Forums**: FinanzaOnline hosts multiple forums covering various financial topics, including Italian and international stock markets, bonds, mutual funds, ETFs, and cryptocurrencies. Each forum facilitates focused discussions and the exchange of ideas.
 
-2. **Market Analysis**: Members share technical and fundamental analysis, providing insights into market trends, stock performance, and economic indicators. This helps traders and investors make informed decisions.
+2. **Market Analysis**: Members share technical and [fundamental analysis](../f/fundamental_analysis.md), providing insights into market trends, stock performance, and [economic indicators](../e/economic_indicators.md). This helps traders and investors make informed decisions.
 
-3. **Investment Strategies**: The forum provides a space for discussing different investment strategies, such as value investing, growth investing, day trading, and swing trading.
+3. **Investment Strategies**: The forum provides a space for discussing different investment strategies, such as [value investing](../v/value_investing.md), [growth investing](../g/growth_investing.md), [day trading](../d/day_trading.md), and [swing trading](../s/swing_trading.md).
 
 4. **News and Updates**: FinanzaOnline features the latest financial news and updates, keeping members informed about market developments, economic events, and corporate actions.
 
@@ -16,7 +16,7 @@ FinanzaOnline is one of the most popular financial forums in Italy, providing a 
 
 6. **Educational Resources**: The forum offers educational content, including tutorials, articles, videos, and book recommendations, aimed at improving members' financial knowledge and trading skills.
 
-7. **Trading Journals**: Members can maintain trading journals to document their trades, share their experiences, and receive feedback from the community.
+7. **[Trading Journals](../t/trading_journals.md)**: Members can maintain [trading journals](../t/trading_journals.md) to document their trades, share their experiences, and receive feedback from the community.
 
 8. **Networking Opportunities**: FinanzaOnline facilitates networking among its members, allowing investors and traders to connect, collaborate, and share resources.
 
@@ -32,20 +32,20 @@ FinanzaOnline is one of the most popular financial forums in Italy, providing a 
 ## Use Cases
 - **Retail Investors**: Individual investors use FinanzaOnline’s forums to discuss stocks, bonds, mutual funds, and other investment products.
 - **Traders**: Active traders share strategies, market analysis, and trading experiences to refine their approaches and gain new insights.
-- **Market Analysis**: Investors and traders can share and discuss technical and fundamental analysis to make better-informed investment decisions.
+- **Market Analysis**: Investors and traders can share and discuss technical and [fundamental analysis](../f/fundamental_analysis.md) to make better-informed investment decisions.
 - **Broker Selection**: Members read and discuss reviews of brokers and trading platforms to choose the best services for their trading and investment needs.
 - **Educational Purposes**: New and experienced investors utilize FinanzaOnline’s educational resources to enhance their financial knowledge and trading skills.
 
 ## Integration and APIs
 While FinanzaOnline itself does not provide APIs, discussions often cover the integration with various trading platforms and APIs:
-- **Interactive Brokers API**: For automated trading and accessing market data.
-- **MetaTrader 4/5 API**: For developing custom trading strategies and indicators.
-- **Other Financial APIs**: Various APIs used for market data, trading signals, and portfolio management.
+- **[Interactive Brokers](../i/interactive_brokers.md) API**: For automated trading and accessing market data.
+- **MetaTrader 4/5 API**: For developing custom [trading strategies](../t/trading_strategies.md) and indicators.
+- **Other Financial APIs**: Various APIs used for market data, [trading signals](../t/trading_signals.md), and [portfolio management](../p/portfolio_management.md).
 
 ## Clients and Partners
 FinanzaOnline serves a diverse range of clients, including:
 - **Retail Investors**: Individuals using the forums to discuss investments and market trends.
-- **Professional Traders**: Experienced traders sharing insights and collaborating on advanced trading strategies.
+- **Professional Traders**: Experienced traders sharing insights and collaborating on advanced [trading strategies](../t/trading_strategies.md).
 - **Financial Advisors**: Professionals offering advice and sharing knowledge with the community.
 - **Brokers and Service Providers**: Companies engaging with the community to offer their services and receive feedback.
 

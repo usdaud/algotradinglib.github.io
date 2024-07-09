@@ -16,7 +16,7 @@ Where:
 - \( \sigma \) is the volatility of the underlying asset
 - \( S_0 \) is the current price of the underlying asset
 - \( T \) is the time to maturity
-- \( \phi \) is the [probability density function](../p/probability_density_function.md) of the standard normal distribution
+- \( \phi \) is the [probability density function](../p/probability_density_function.md) of the standard [normal distribution](../n/normal_distribution_in_trading.md)
 - \( d_1 \) is a variable derived in the [Black-Scholes model](../b/black-scholes_model.md)
 
 ## Factors Affecting Vega

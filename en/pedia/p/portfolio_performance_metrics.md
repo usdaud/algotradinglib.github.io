@@ -157,7 +157,7 @@ The Treynor Ratio, like the [Sharpe Ratio](../s/sharpe_ratio.md), helps in asses
 
 ## 12. R-Squared
 
-R-Squared measures the proportion of the portfolio's movement that can be explained by movements in a benchmark index.
+[R-Squared](../r/r-squared_in_trading.md) measures the proportion of the portfolio's movement that can be explained by movements in a benchmark index.
 
 **Formula:**
 
@@ -168,7 +168,7 @@ Where:
 - \( \text{Var}(R_p) \) is the variance of the portfolio’s return
 - \( \text{Var}(R_b) \) is the variance of the benchmark’s return
 
-An R-Squared value close to 1 indicates a high correlation between the portfolio and the benchmark, highlighting the benchmark’s explanatory power.
+An [R-Squared](../r/r-squared_in_trading.md) value close to 1 indicates a high correlation between the portfolio and the benchmark, highlighting the benchmark’s explanatory power.
 
 ## 13. Jensen's Alpha
 

@@ -17,7 +17,7 @@ Data is the lifeblood of systematic investment strategies. The quality, breadth,
 
 ### Statistical Analysis and Modeling
 
-Statistical models are used to identify patterns and relationships in the data, which can predict future market behaviors. These models range from simple linear regressions to complex machine learning algorithms.
+Statistical models are used to identify patterns and relationships in the data, which can predict future market behaviors. These models range from simple linear regressions to complex machine [learning algorithms](../l/learning_algorithms_in_trading.md).
 
 - **Regression Models**: Used to understand the relationships between different variables.
 - **Machine Learning**: Enhances the ability to uncover non-linear relationships within the data. Techniques include supervised learning (like regression and classification) and unsupervised learning (such as clustering).
@@ -31,10 +31,10 @@ Statistical models are used to identify patterns and relationships in the data, 
 
 ### Risk Management
 
-[Risk management](../r/risk_management.md) is a critical component of systematic investing. Techniques used include value-at-risk (VaR), stress testing, scenario analysis, and diversification to manage and mitigate potential losses.
+[Risk management](../r/risk_management.md) is a critical component of systematic investing. Techniques used include value-at-risk (VaR), [stress testing](../s/stress_testing_in_trading.md), scenario analysis, and diversification to manage and mitigate potential losses.
 
 - **VaR Models**: Estimate the maximum potential loss over a specific time frame with a given confidence interval.
-- **Stress Testing**: Simulate the effects of unusual market conditions on the portfolio.
+- **[Stress Testing](../s/stress_testing_in_trading.md)**: Simulate the effects of unusual market conditions on the portfolio.
 
 ## Popular Systematic Strategies
 
@@ -76,7 +76,7 @@ HFT involves executing a large number of orders at extremely high speeds, often 
 
 ### Benefits
 
-- **Consistency and Discipline**: Removes emotional and psychological biases from trading.
+- **Consistency and Discipline**: Removes emotional and [psychological biases](../p/psychological_biases_in_trading.md) from trading.
 - **Scalability**: Capable of processing vast amounts of data and executing numerous trades simultaneously.
 - **Transparency and Auditability**: The rules-based nature of systematic strategies makes them easy to backtest and audit.
 
@@ -90,7 +90,7 @@ HFT involves executing a large number of orders at extremely high speeds, often 
 
 ### Leading Firms
 
-- **Two Sigma**: Known for their use of advanced data science and technology. [Website](https://www.twosigma.com/)
+- **Two Sigma**: Known for their use of advanced [data science](../d/data_science_in_trading.md) and technology. [Website](https://www.twosigma.com/)
 - **DE Shaw Group**: A pioneer in the quantitative investment space. [Website](https://www.deshaw.com/)
 - **AQR Capital Management**: Employs a variety of systematic investment strategies. [Website](https://www.aqr.com/)
 - **Renaissance Technologies**: Often cited as the most successful quantitative hedge fund. [Website](https://www.rentec.com/)
@@ -108,8 +108,8 @@ HFT involves executing a large number of orders at extremely high speeds, often 
 
 AI and machine learning are set to revolutionize systematic investing by uncovering new patterns and relationships within the data that were previously undetectable.
 
-- **Deep Learning**: A subset of AI that involves neural networks with many layers, which can model complex relationships.
-- **Natural Language Processing (NLP)**: Can analyze textual data, such as news articles and financial reports, to predict market movements.
+- **Deep Learning**: A subset of AI that involves [neural networks](../n/neural_networks_in_trading.md) with many layers, which can model complex relationships.
+- **[Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP)**: Can analyze textual data, such as news articles and financial reports, to predict market movements.
 
 ### Alternative Data
 
@@ -117,7 +117,7 @@ The use of [alternative data](../a/alternative_data.md) is becoming increasingly
 
 ### Quantum Computing
 
-Quantum computing holds the potential to solve complex optimization problems much faster than classical computers, paving the way for new frontiers in systematic investing.
+[Quantum computing](../q/quantum_computing_in_trading.md) holds the potential to solve complex optimization problems much faster than classical computers, paving the way for new frontiers in systematic investing.
 
 ## Conclusion
 

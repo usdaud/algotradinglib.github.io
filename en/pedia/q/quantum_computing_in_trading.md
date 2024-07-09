@@ -20,13 +20,13 @@ Quantum computing differs fundamentally from classical computing. While classica
 
 Quantum computing has the potential to address several complex problems in trading that classical algorithms struggle with. Key applications include:
 
-1. **[Portfolio Optimization](../p/portfolio_optimization.md)**: Quantum algorithms can optimize large portfolios by evaluating numerous variables and constraints simultaneously, leading to more efficient [asset allocation](../a/asset_allocation.md).
+1. **[Portfolio Optimization](../p/portfolio_optimization.md)**: [Quantum algorithms](../q/quantum_algorithms_in_trading.md) can optimize large portfolios by evaluating numerous variables and constraints simultaneously, leading to more efficient [asset allocation](../a/asset_allocation.md).
 
 2. **[Risk Management](../r/risk_management.md)**: Quantum computing can enhance [risk management](../r/risk_management.md) models by accurately simulating various risk scenarios and their potential impact on financial portfolios.
 
 3. **Pricing [Derivatives](../d/derivatives.md)**: Quantum computers can speed up the pricing of complex [derivatives](../d/derivatives.md) by solving high-dimension partial differential equations more efficiently than classical computers.
 
-4. **[Market Simulation](../m/market_simulation.md)**: Quantum algorithms can simulate intricate market dynamics, enabling traders to predict market movements more accurately and develop more effective [trading strategies](../t/trading_strategies.md).
+4. **[Market Simulation](../m/market_simulation.md)**: [Quantum algorithms](../q/quantum_algorithms_in_trading.md) can simulate intricate market dynamics, enabling traders to predict market movements more accurately and develop more effective [trading strategies](../t/trading_strategies.md).
 
 5. **Fraud Detection**: By processing vast data sets and identifying patterns much faster, quantum computers can significantly improve the detection of fraudulent activities in trading.
 
@@ -34,7 +34,7 @@ Quantum computing has the potential to address several complex problems in tradi
 
 Numerous companies and research institutions are at the forefront of quantum computing advancements in trading. Notable players include:
 
-1. **IBM Quantum**: IBM has been a pioneer in quantum computing, offering its IBM Quantum Experience platform for researchers and developers to experiment with quantum algorithms. [IBM Quantum](https://www.ibm.com/quantum-computing/)
+1. **IBM Quantum**: IBM has been a pioneer in quantum computing, offering its IBM Quantum Experience platform for researchers and developers to experiment with [quantum algorithms](../q/quantum_algorithms_in_trading.md). [IBM Quantum](https://www.ibm.com/quantum-computing/)
 
 2. **D-Wave Systems**: Known for its quantum annealing technology, D-Wave provides quantum solutions tailored for optimization problems, which are highly relevant in trading. [D-Wave Systems](https://www.dwavesys.com/)
 
@@ -66,7 +66,7 @@ The future of quantum computing in trading looks promising, with continuous adva
 
 2. **Hybrid Systems**: The integration of quantum and classical computing systems can create hybrid models, leveraging the strengths of both to outperform purely classical systems.
 
-3. **Advanced Quantum Algorithms**: Ongoing research will likely lead to new quantum algorithms specifically designed for trading, improving efficiency and predictive accuracy.
+3. **Advanced [Quantum Algorithms](../q/quantum_algorithms_in_trading.md)**: Ongoing research will likely lead to new [quantum algorithms](../q/quantum_algorithms_in_trading.md) specifically designed for trading, improving efficiency and predictive accuracy.
 
 4. **Industry Adoption**: Increased investment and interest from financial institutions could accelerate the adoption of quantum computing in trading, driving further innovation and practical applications.
 

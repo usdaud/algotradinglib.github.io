@@ -67,7 +67,7 @@ Before deploying any trading strategy utilizing the 2-period RSI, it's crucial t
 
 ### Limitations
 
-- **Higher False Positive Rate:** Due to its high sensitivity, the 2-period RSI can produce more false signals, potentially leading to reduced accuracy.
+- **Higher False Positive Rate:** Due to its high sensitivity, the 2-period RSI can produce more [false signals](../f/false_signals_in_trading.md), potentially leading to reduced accuracy.
 - **Market Noise:** In highly volatile markets, the short-term nature of the 2-period RSI may cause traders to react to market "noise" rather than significant trends.
 
 ## Practical Application

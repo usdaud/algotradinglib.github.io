@@ -101,7 +101,7 @@ Constructing a reliable zero rate curve requires overcoming several challenges:
 
 ### Case Study: The Impact of the Zero Rate Curve during Economic Uncertainty
 
-In times of economic uncertainty, the zero rate curve often experiences significant shifts. For example, during the 2008 financial crisis and the COVID-19 pandemic, central banks' interventions through [quantitative easing](../q/quantitative_easing.md) and rate cuts influenced the entire [yield curve](../y/yield_curve.md). Understanding these shifts is crucial for investors and policymakers.
+In times of economic [uncertainty](../u/uncertainty_in_trading.md), the zero rate curve often experiences significant shifts. For example, during the 2008 financial crisis and the COVID-19 pandemic, central banks' interventions through [quantitative easing](../q/quantitative_easing.md) and rate cuts influenced the entire [yield curve](../y/yield_curve.md). Understanding these shifts is crucial for investors and policymakers.
 
 #### Central Bank Policies
 

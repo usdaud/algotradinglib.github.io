@@ -16,7 +16,7 @@ The flagship product of the suite, Sterling Trader Pro is a powerful, broker-neu
 ### Key Features:
 
 1. **Advanced Order Entry**
-  - Multiple order types (market, limit, stop, etc.)
+  - Multiple [order types](../o/order_types_in_trading.md) (market, limit, stop, etc.)
   - Single-click trading
   - Customizable hotkeys
   - Basket trading capabilities

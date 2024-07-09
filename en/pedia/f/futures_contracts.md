@@ -34,7 +34,7 @@ Futures contracts are marked-to-market daily, meaning that any gains or losses a
 
 ### Delivery
 
-While many futures contracts are settled in cash, some require the physical delivery of the underlying asset. For instance, a contract for crude oil may require the seller to deliver the specified quantity of oil to a predetermined location on the delivery date.
+While many futures contracts are settled in cash, some require the [physical delivery](../p/physical_delivery_in_trading.md) of the underlying asset. For instance, a contract for crude oil may require the seller to deliver the specified quantity of oil to a predetermined location on the delivery date.
 
 ## Types of Futures Contracts
 

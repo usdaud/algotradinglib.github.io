@@ -62,7 +62,7 @@ Zero Rate Duration has several practical applications in [algorithmic trading](.
 
 1. **[Interest Rate Risk Management](../i/interest_rate_risk_management.md)**: By understanding the exact duration based on zero rates, traders can better hedge their portfolios against interest rate movements.
 2. **Bond Selection and [Portfolio Optimization](../p/portfolio_optimization.md)**: Algorithms can use Zero Rate Duration to select bonds that align with desired interest rate profiles, enhancing returns and mitigating risks.
-3. **Scenario Analysis and Stress Testing**: Accurate duration metrics allow for more realistic [stress testing scenarios](../s/stress_testing_scenarios.md), improving resilience under various market conditions.
+3. **Scenario Analysis and [Stress Testing](../s/stress_testing_in_trading.md)**: Accurate duration metrics allow for more realistic [stress testing scenarios](../s/stress_testing_scenarios.md), improving resilience under various market conditions.
 
 ## Advanced Considerations
 

@@ -1,36 +1,36 @@
 # Warrants and Derivatives
 
-Warrants and [derivatives](../d/derivatives.md) are complex financial instruments used in the trading and investment world. They provide investors and traders with avenues to speculate, hedge, and [arbitrage](../a/arbitrage.md) in various markets. This article delves into these instruments, their types, uses, advantages, and risks, as well as the role they play in [algorithmic trading](../a/algorithmic_trading.md). 
+[Warrants](../w/warrants_in_trading.md) and [derivatives](../d/derivatives.md) are complex financial instruments used in the trading and investment world. They provide investors and traders with avenues to speculate, hedge, and [arbitrage](../a/arbitrage.md) in various markets. This article delves into these instruments, their types, uses, advantages, and risks, as well as the role they play in [algorithmic trading](../a/algorithmic_trading.md). 
 
 ## Warrants
 
-Warrants are [derivatives](../d/derivatives.md) that confer the right, but not the obligation, to buy (in the case of call warrants) or sell (in the case of put warrants) a specific amount of a stock, bond, or other financial instrument at a specified price before the expiration date. 
+[Warrants](../w/warrants_in_trading.md) are [derivatives](../d/derivatives.md) that confer the right, but not the obligation, to buy (in the case of call [warrants](../w/warrants_in_trading.md)) or sell (in the case of put [warrants](../w/warrants_in_trading.md)) a specific amount of a stock, bond, or other financial instrument at a specified price before the expiration date. 
 
 ### Types of Warrants
 
-1. **Call Warrants**: These allow the holder to buy the underlying asset at a preset price.
-2. **Put Warrants**: These allow the holder to sell the underlying asset at a preset price.
-3. **Covered Warrants**: Issued by financial institutions, these are backed by the underlying assets which they give rights to.
-4. **Naked Warrants**: Issued by companies to raise capital, these are not necessarily linked to any underlying shares owned by the issuing company.
+1. **Call [Warrants](../w/warrants_in_trading.md)**: These allow the holder to buy the underlying asset at a preset price.
+2. **Put [Warrants](../w/warrants_in_trading.md)**: These allow the holder to sell the underlying asset at a preset price.
+3. **Covered [Warrants](../w/warrants_in_trading.md)**: Issued by financial institutions, these are backed by the underlying assets which they give rights to.
+4. **Naked [Warrants](../w/warrants_in_trading.md)**: Issued by companies to raise capital, these are not necessarily linked to any underlying shares owned by the issuing company.
 
 ### Features of Warrants
 
-1. **Leverage**: Warrants typically require a lower initial investment compared to directly buying the shares, but they offer potential gains and losses similar to the underlying assets.
+1. **Leverage**: [Warrants](../w/warrants_in_trading.md) typically require a lower initial investment compared to directly buying the shares, but they offer potential gains and losses similar to the underlying assets.
 2. **Exercise Price**: This is the price at which the warrant holder can buy or sell the underlying asset.
-3. **Expiration Date**: Warrants have a fixed expiry date, after which they become worthless if not exercised.
+3. **Expiration Date**: [Warrants](../w/warrants_in_trading.md) have a fixed expiry date, after which they become worthless if not exercised.
 4. **Premium**: The price paid for purchasing the warrant is called the premium.
 
 ### Uses of Warrants
 
 1. **Speculation**: Traders can speculate on the future movement of the underlying asset's price.
-2. **Hedging**: Investors can use warrants to protect their portfolio from adverse price movements.
+2. **Hedging**: Investors can use [warrants](../w/warrants_in_trading.md) to protect their portfolio from adverse price movements.
 3. **[Arbitrage](../a/arbitrage.md)**: Experienced traders can exploit price differences between different markets.
 
 ### Risks of Warrants
 
-1. **Time Decay**: The value of warrants decreases as they approach their expiration date.
-2. **High Volatility**: The prices of warrants can be highly volatile.
-3. **[Liquidity Risk](../l/liquidity_risk.md)**: Some warrants might be thinly traded, making it difficult to enter or exit positions.
+1. **Time Decay**: The value of [warrants](../w/warrants_in_trading.md) decreases as they approach their expiration date.
+2. **High Volatility**: The prices of [warrants](../w/warrants_in_trading.md) can be highly volatile.
+3. **[Liquidity Risk](../l/liquidity_risk.md)**: Some [warrants](../w/warrants_in_trading.md) might be thinly traded, making it difficult to enter or exit positions.
 
 ## Derivatives
 
@@ -68,7 +68,7 @@ Warrants are [derivatives](../d/derivatives.md) that confer the right, but not t
 
 ### Importance of Algorithmic Trading
 
-[Algorithmic trading](../a/algorithmic_trading.md), or algo trading, involves the use of complex algorithms and mathematical models to make trading decisions and execute trades at high speeds. This type of trading is prevalent in the financial industry, especially in trading [derivatives](../d/derivatives.md) and warrants, due to the high level of sophistication and speed required in these markets.
+[Algorithmic trading](../a/algorithmic_trading.md), or algo trading, involves the use of complex algorithms and [mathematical models](../m/mathematical_models_in_trading.md) to make trading decisions and execute trades at high speeds. This type of trading is prevalent in the financial industry, especially in trading [derivatives](../d/derivatives.md) and [warrants](../w/warrants_in_trading.md), due to the high level of sophistication and speed required in these markets.
 
 ### Benefits of Algorithmic Trading
 
@@ -93,7 +93,7 @@ Warrants are [derivatives](../d/derivatives.md) that confer the right, but not t
 
 ## Conclusion
 
-Warrants and [derivatives](../d/derivatives.md) are crucial components of the financial markets, offering unique opportunities for speculation, hedging, and [arbitrage](../a/arbitrage.md). However, they come with significant risks, including market, credit, liquidity, and operational risks. [Algorithmic trading](../a/algorithmic_trading.md) has become an essential tool in navigating these complex instruments due to its efficiency, precision, and ability to process large volumes of data. Despite its benefits, [algorithmic trading](../a/algorithmic_trading.md) also presents its own set of challenges, requiring advanced technological infrastructure, regulatory compliance, and [risk management](../r/risk_management.md) strategies.
+[Warrants](../w/warrants_in_trading.md) and [derivatives](../d/derivatives.md) are crucial components of the financial markets, offering unique opportunities for speculation, hedging, and [arbitrage](../a/arbitrage.md). However, they come with significant risks, including market, credit, liquidity, and operational risks. [Algorithmic trading](../a/algorithmic_trading.md) has become an essential tool in navigating these complex instruments due to its efficiency, precision, and ability to process large volumes of data. Despite its benefits, [algorithmic trading](../a/algorithmic_trading.md) also presents its own set of challenges, requiring advanced technological infrastructure, regulatory compliance, and [risk management](../r/risk_management.md) strategies.
 
 For more information on [algorithmic trading](../a/algorithmic_trading.md) and derivative instruments, you can visit the following companies and platforms:
 - [Goldman Sachs](https://www.goldmansachs.com/)

@@ -44,7 +44,7 @@ Delta neutral hedging involves frequently adjusting the [hedge ratio](../h/hedge
 Although delta-neutral strategies aim to mitigate the risk associated with movements in the underlying asset's price, they come with their own set of risks and considerations:
 
 ### Transaction Costs
-Frequent rebalancing to maintain delta-neutrality incurs transaction costs, which can erode profits. This is especially significant in high-frequency trading environments where small profit margins are targeted.
+Frequent rebalancing to maintain delta-neutrality incurs transaction costs, which can erode profits. This is especially significant in high-frequency trading environments where small [profit margins](../p/profit_margins_in_trading.md) are targeted.
 
 ### Gamma and Theta Risk
 Delta neutral strategies are sensitive to changes in gamma and theta:

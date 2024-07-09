@@ -34,7 +34,7 @@ Employment reports and job data releases are influential [economic indicators](.
    - Algorithms ingest historical data, economic forecasts, and [sentiment analysis](../s/sentiment_analysis.md) from news reports to anticipate potential market reactions to upcoming job data releases.
    
 2. **Immediate Reaction:**
-   - Upon release, algorithms quickly parse the new data using Natural Language Processing (NLP) techniques and calculate deviations from expectations.
+   - Upon release, algorithms quickly parse the new data using [Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) techniques and calculate deviations from expectations.
    
 3. **Order Execution:**
    - Based on predefined models, the algorithm executes trades within milliseconds after the data release to capture expected market movements.
@@ -131,9 +131,9 @@ Employment reports and job data releases are influential [economic indicators](.
 
 ### Blockchain and Decentralized Finance (DeFi)
 
-- **Transparent Transactions:** Using blockchain to ensure transparent and tamper-proof trading records.
+- **Transparent Transactions:** Using [blockchain](../b/blockchain_in_trading.md) to ensure transparent and tamper-proof trading records.
   
-- **Smart Contracts:** Implementing automated and self-executing contracts to facilitate instant trade settlements.
+- **[Smart Contracts](../s/smart_contracts_in_trading.md):** Implementing automated and self-executing contracts to facilitate instant trade settlements.
 
 ### Advanced Data Analytics
 
@@ -141,4 +141,4 @@ Employment reports and job data releases are influential [economic indicators](.
   
 - **[Sentiment Analysis](../s/sentiment_analysis.md):** Enhancing NLP techniques to gauge market sentiment through social media and news outlets.
 
-In conclusion, job data release trading is a sophisticated domain within algotrading that leverages high-speed algorithms and extensive data analysis to capitalize on market movements driven by employment reports and related economic data. With advanced technical infrastructures and continual advancements in AI and big data analytics, this niche continues to evolve, presenting both opportunities and challenges in the financial markets.
+In conclusion, job data release trading is a sophisticated domain within algotrading that leverages high-speed algorithms and extensive data analysis to capitalize on market movements driven by employment reports and related economic data. With advanced technical infrastructures and continual advancements in AI and [big data analytics](../b/big_data_analytics_in_trading.md), this niche continues to evolve, presenting both opportunities and challenges in the financial markets.

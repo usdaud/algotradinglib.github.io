@@ -32,7 +32,7 @@ Moving averages, including the 4WMA, can act as dynamic [support and resistance]
 ## Advantages of 4-Week Moving Average
 
 ### Simplicity and Ease of Use
-The 4WMA is simple to calculate and easy to understand, making it accessible for traders of all experience levels. Its straightforward nature allows for quick analysis without the need for complex mathematical models.
+The 4WMA is simple to calculate and easy to understand, making it accessible for traders of all experience levels. Its straightforward nature allows for quick analysis without the need for complex [mathematical models](../m/mathematical_models_in_trading.md).
 
 ### Timely Signal Generation
 Compared to longer-term moving averages like the 50-week or 200-week MA, the 4WMA reacts more quickly to recent price changes. This can be advantageous in fast-moving markets where timely decision-making is crucial.
@@ -57,7 +57,7 @@ The effectiveness of the 4WMA can vary depending on market conditions. In trendi
 Traders often use the 4WMA as part of trend-following strategies. For example, a common strategy might involve buying an asset when its price crosses above the 4WMA and selling when the price falls below the 4WMA.
 
 ### Combination with Other Indicators
-The 4WMA can be used in conjunction with other [technical indicators](../t/technical_indicators.md) to build more robust [trading strategies](../t/trading_strategies.md). For instance, traders might combine the 4WMA with [momentum indicators](../m/momentum_indicators.md) like the Relative Strength Index (RSI) or Moving Average Convergence Divergence (MACD) to confirm trends and reduce false signals.
+The 4WMA can be used in conjunction with other [technical indicators](../t/technical_indicators.md) to build more robust [trading strategies](../t/trading_strategies.md). For instance, traders might combine the 4WMA with [momentum indicators](../m/momentum_indicators.md) like the Relative Strength Index (RSI) or Moving Average Convergence Divergence (MACD) to confirm trends and reduce [false signals](../f/false_signals_in_trading.md).
 
 ### Analyzing Market Cycles
 The 4WMA can also help in analyzing longer-term [market cycles](../m/market_cycles.md). By comparing the 4WMA with longer-period moving averages, traders can gauge the strength and duration of market trends.

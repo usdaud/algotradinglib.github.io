@@ -1,10 +1,10 @@
 # Digital Signal Processing (DSP)
 
-Digital Signal Processing (DSP) is a field of study that focuses on the manipulation and analysis of signals, particularly digital signals as opposed to analog signals. Within the context of trading, DSP has found important applications, including the development of [trading algorithms](../t/trading_algorithms.md) and the enhancement of [trading strategies](../t/trading_strategies.md). This document offers a comprehensive exploration of how DSP is utilized in trading, covering various techniques, their applications, advantages, and challenges.
+Digital [Signal Processing](../s/signal_processing_in_trading.md) (DSP) is a field of study that focuses on the manipulation and analysis of signals, particularly digital signals as opposed to analog signals. Within the context of trading, DSP has found important applications, including the development of [trading algorithms](../t/trading_algorithms.md) and the enhancement of [trading strategies](../t/trading_strategies.md). This document offers a comprehensive exploration of how DSP is utilized in trading, covering various techniques, their applications, advantages, and challenges.
 
 ### Introduction to Digital Signal Processing (DSP)
 
-Digital Signal Processing involves the use of algorithms and mathematical techniques to process signals. It can include operations like filtering, modulation, and transformation. In trading, signals can come from various sources such as stock prices, volume data, and other financial metrics. The primary goal of DSP in trading is to extract meaningful information from raw data and transform it into actionable [trading signals](../t/trading_signals.md).
+Digital [Signal Processing](../s/signal_processing_in_trading.md) involves the use of algorithms and mathematical techniques to process signals. It can include operations like filtering, modulation, and transformation. In trading, signals can come from various sources such as stock prices, volume data, and other financial metrics. The primary goal of DSP in trading is to extract meaningful information from raw data and transform it into actionable [trading signals](../t/trading_signals.md).
 
 ### Core Concepts of DSP in Trading
 
@@ -29,10 +29,10 @@ Convolution is an operation that combines two signals to produce a third signal.
 
 #### 4. Wavelet Transform
 
-Wavelet Transform is akin to the Fourier Transform but with more flexibility, especially when dealing with non-stationary data. It involves breaking down a signal into wavelets, which are small oscillations that are well-suited for transient signals.
+[Wavelet Transform](../w/wavelet_transform_in_trading.md) is akin to the Fourier Transform but with more flexibility, especially when dealing with non-stationary data. It involves breaking down a signal into wavelets, which are small oscillations that are well-suited for transient signals.
 
-- **Continuous Wavelet Transform (CWT):** Used for signals with continuous-time characteristics.
-- **Discrete Wavelet Transform (DWT):** Deals with discrete-time signals and is more common in digital applications.
+- **Continuous [Wavelet Transform](../w/wavelet_transform_in_trading.md) (CWT):** Used for signals with continuous-time characteristics.
+- **Discrete [Wavelet Transform](../w/wavelet_transform_in_trading.md) (DWT):** Deals with discrete-time signals and is more common in digital applications.
 - **Application:** Wavelet transforms are used in trading for multi-resolution analysis, allowing traders to examine data at various levels of detail, identify shifts in trends, and isolate anomalies.
 
 #### 5. Autoregressive Models
@@ -78,7 +78,7 @@ DSP techniques are integral to [algorithmic trading](../a/algorithmic_trading.md
 1. **Complexity:** DSP techniques can be mathematically and computationally complex, requiring specialized knowledge and expertise.
 2. **Data Quality:** The effectiveness of DSP depends on the quality of input data. Poor-quality data can lead to misleading results.
 3. **Overfitting:** There is a risk of overfitting models to historical data, which might not generalize well to future market conditions.
-4. **Latency:** In high-frequency trading, even minor delays in signal processing can impact trade execution and profitability.
+4. **Latency:** In high-frequency trading, even minor delays in [signal processing](../s/signal_processing_in_trading.md) can impact trade execution and profitability.
 
 ### Case Studies and Practical Examples
 
@@ -88,8 +88,8 @@ A leading HFT firm, Virtu Financial [Virtu Financial](https://www.virtu.com/), e
 
 #### Case Study 2: Quantitative Hedge Fund
 
-Renaissance Technologies, a renowned quantitative hedge fund, leverages DSP for signal processing and data analysis. They employ a range of DSP techniques to extract meaningful patterns from noisy data, enabling them to develop high-performing [trading strategies](../t/trading_strategies.md).
+Renaissance Technologies, a renowned quantitative hedge fund, leverages DSP for [signal processing](../s/signal_processing_in_trading.md) and data analysis. They employ a range of DSP techniques to extract meaningful patterns from noisy data, enabling them to develop high-performing [trading strategies](../t/trading_strategies.md).
 
 ### Conclusion
 
-Digital Signal Processing is a powerful tool in the world of trading, offering techniques that enhance data analysis, improve signal quality, and enable sophisticated [trading strategies](../t/trading_strategies.md). While it presents certain challenges, the advantages it brings in terms of precision, efficiency, and real-time processing make it an invaluable asset for modern traders.
+Digital [Signal Processing](../s/signal_processing_in_trading.md) is a powerful tool in the world of trading, offering techniques that enhance data analysis, improve signal quality, and enable sophisticated [trading strategies](../t/trading_strategies.md). While it presents certain challenges, the advantages it brings in terms of precision, efficiency, and real-time processing make it an invaluable asset for modern traders.

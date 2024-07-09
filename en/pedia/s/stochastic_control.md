@@ -41,7 +41,7 @@ Where:
 
 ### Bellman Equation
 
-Dynamic programming principles form the core of many stochastic control frameworks. The Bellman equation provides a recursive method to solve for the optimal policy:
+[Dynamic programming](../d/dynamic_programming_in_trading.md) principles form the core of many stochastic control frameworks. The Bellman equation provides a recursive method to solve for the optimal policy:
 \[ V(X(t)) = \min_{U(t)} E \left[ g(X(t), U(t), t) + V(X(t+1)) \mid X(t) \right] \]
 Where \( V(\cdot) \) is the value function representing the minimal cost from any given state.
 
@@ -79,7 +79,7 @@ Managing the operation of electrical grids involves dealing with random fluctuat
 
 ## Numerical Methods for Stochastic Control
 
-Solving stochastic control problems often requires numerical methods due to their complexity.
+Solving stochastic control problems often requires [numerical methods](../n/numerical_methods_in_trading.md) due to their complexity.
 
 ### Monte Carlo Simulation
 
@@ -95,7 +95,7 @@ Involves approximating the value function when exact solutions are infeasible. T
 
 Reinforcement learning (RL) is increasingly used to solve stochastic control problems by learning optimal policies through trial and error.
 
-**Deep Q-Networks (DQN)**: Combines Q-learning with deep neural networks to handle high-dimensional state spaces.
+**Deep Q-Networks (DQN)**: Combines Q-learning with deep [neural networks](../n/neural_networks_in_trading.md) to handle high-dimensional state spaces.
 
 ## Case Studies and Practical Implementations
 
@@ -115,5 +115,5 @@ Optimizing the integration of renewable energy sources into the power grid invol
 
 ## Conclusion
 
-Stochastic control is a vital discipline across various fields due to its ability to manage systems influenced by uncertainty and randomness. From financial markets to engineering applications, the principles and methods of stochastic control enable the design of robust, efficient, and optimal decision-making strategies under uncertainty.
+Stochastic control is a vital discipline across various fields due to its ability to manage systems influenced by [uncertainty](../u/uncertainty_in_trading.md) and randomness. From financial markets to engineering applications, the principles and methods of stochastic control enable the design of robust, efficient, and optimal decision-making strategies under [uncertainty](../u/uncertainty_in_trading.md).
 

@@ -47,7 +47,7 @@ Decomposing yield allows for precise risk attribution. Algorithmic systems can e
 
 ### Performance Analytics
 
-Yield decomposition also aids in performance analysis, helping to identify which components of the yield or return were responsible for gains or losses. This can drive iterative improvements in [trading algorithms](../t/trading_algorithms.md), enabling fine-tuning of predictive models and trade execution parameters.
+Yield decomposition also aids in performance analysis, helping to identify which components of the yield or return were responsible for gains or losses. This can drive iterative improvements in [trading algorithms](../t/trading_algorithms.md), enabling fine-tuning of [predictive models](../p/predictive_models_in_trading.md) and trade execution parameters.
 
 ### Portfolio Optimization
 

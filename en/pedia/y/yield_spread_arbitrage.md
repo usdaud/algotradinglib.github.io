@@ -48,8 +48,8 @@ Several [quantitative models](../q/quantitative_models.md) and techniques are us
 Advanced [yield spread](../y/yield_spread.md) [arbitrage](../a/arbitrage.md) strategies require a robust technological infrastructure, including:
 
 - **High-frequency [Trading Systems](../t/trading_systems.md)**: These systems execute trades at extremely high speeds to take advantage of fleeting [arbitrage](../a/arbitrage.md) opportunities.
-- **Big Data Analytics**: By analyzing vast amounts of data from financial markets, traders can identify and exploit subtle pricing inefficiencies.
-- **Machine Learning Algorithms**: Machine learning is increasingly being employed to enhance predictive models for yield spreads, offering a competitive edge in identifying [arbitrage](../a/arbitrage.md) opportunities.
+- **[Big Data Analytics](../b/big_data_analytics_in_trading.md)**: By analyzing vast amounts of data from financial markets, traders can identify and exploit subtle pricing inefficiencies.
+- **Machine [Learning Algorithms](../l/learning_algorithms_in_trading.md)**: Machine learning is increasingly being employed to enhance [predictive models](../p/predictive_models_in_trading.md) for yield spreads, offering a competitive edge in identifying [arbitrage](../a/arbitrage.md) opportunities.
 
 ### Regulatory Landscape
 
@@ -59,7 +59,7 @@ The regulatory environment is a significant consideration for anyone involved in
 
 The future of [yield spread](../y/yield_spread.md) [arbitrage](../a/arbitrage.md) will likely be shaped by technological advancements and evolving market conditions. Key trends to watch include:
 
-- **AI and Automation**: The increasing use of artificial intelligence and automation in identifying and executing [arbitrage](../a/arbitrage.md) opportunities.
+- **AI and Automation**: The increasing use of [artificial intelligence](../a/artificial_intelligence_in_trading.md) and automation in identifying and executing [arbitrage](../a/arbitrage.md) opportunities.
 - **Emerging Markets**: As emerging markets grow, they present new opportunities for [yield spread](../y/yield_spread.md) [arbitrage](../a/arbitrage.md) due to less efficient pricing compared to developed markets.
 - **Market Volatility**: With changing economic landscapes, market volatility can present both increased risk and opportunity for [arbitrage](../a/arbitrage.md) strategies.
 

@@ -2,12 +2,12 @@
 
 **Introduction**
 
-Recursive modeling is a sophisticated approach increasingly used in [algorithmic trading](../a/algorithmic_trading.md) to predict market behaviors and optimize [trading strategies](../t/trading_strategies.md). Unlike traditional models, which often rely on static or linear assumptions, recursive modeling allows algorithms to adapt by incorporating feedback loops. These models can dynamically update their predictions based on new information and past errors, enhancing their accuracy and reliability. This document delves into the nuances of recursive modeling in trading, exploring its principles, methods, applications, challenges, and real-world implementations.
+Recursive modeling is a sophisticated approach increasingly used in [algorithmic trading](../a/algorithmic_trading.md) to predict market behaviors and optimize [trading strategies](../t/trading_strategies.md). Unlike traditional models, which often rely on static or linear assumptions, recursive modeling allows algorithms to adapt by incorporating [feedback loops](../f/feedback_loops_in_trading.md). These models can dynamically update their predictions based on new information and past errors, enhancing their accuracy and reliability. This document delves into the nuances of recursive modeling in trading, exploring its principles, methods, applications, challenges, and real-world implementations.
 
 
 **Principles of Recursive Modeling**
 
-Recursive modeling in trading is founded on the principle of feedback loops, where the output of a system is fed back into the system as input for future iterations. This allows the model to self-correct and improve over time. In mathematical terms, recursive models are often described by difference equations, where the next state of a system depends on the current state and some function of it:
+Recursive modeling in trading is founded on the principle of [feedback loops](../f/feedback_loops_in_trading.md), where the output of a system is fed back into the system as input for future iterations. This allows the model to self-correct and improve over time. In mathematical terms, recursive models are often described by difference equations, where the next state of a system depends on the current state and some function of it:
 
 \[x_{t+1} = f(x_t, \theta) + \epsilon_t\]
 
@@ -15,7 +15,7 @@ Here, \(x_{t+1}\) is the state of the system at the next time step, \(f(x_t, \th
 
 **Dynamic Adaptation**
 
-One of the primary benefits of recursive models is their ability to adapt to new data. In the context of trading, this means that the model can adjust to changes in market conditions, such as volatility spikes or regime shifts. This dynamic adaptation is usually achieved by updating model parameters \(\theta\) in real-time using various techniques such as Kalman filters, recursive least squares (RLS), or more advanced machine learning algorithms.
+One of the primary benefits of recursive models is their ability to adapt to new data. In the context of trading, this means that the model can adjust to changes in market conditions, such as volatility spikes or [regime shifts](../r/regime_shifts_in_trading.md). This dynamic adaptation is usually achieved by updating model parameters \(\theta\) in real-time using various techniques such as Kalman filters, recursive least squares (RLS), or more advanced machine [learning algorithms](../l/learning_algorithms_in_trading.md).
 
 **Methods and Algorithms**
 
@@ -37,7 +37,7 @@ Recursive modeling finds a variety of applications in [algorithmic trading](../a
 
 - **[Algorithmic Execution](../a/algorithmic_execution.md)**: [Trading algorithms](../t/trading_algorithms.md) often need to make real-time decisions on order placement. Recursive models can help optimize these decisions by accounting for current market conditions and recent execution performance.
 
-- **[Risk Management](../r/risk_management.md)**: Dynamic risk models that update in real-time can better manage exposure to market risks. For example, Value at Risk (VaR) models can be enhanced using recursive techniques to provide more accurate risk estimates.
+- **[Risk Management](../r/risk_management.md)**: Dynamic [risk models](../r/risk_models_in_trading.md) that update in real-time can better manage exposure to market risks. For example, Value at Risk (VaR) models can be enhanced using recursive techniques to provide more accurate risk estimates.
 
 - **[Portfolio Management](../p/portfolio_management.md)**: Recursive models can be used to dynamically rebalance portfolios, adjusting asset allocations as market conditions change to optimize returns and manage risk.
 
@@ -59,9 +59,9 @@ Several financial technology companies and trading firms have successfully imple
 
 - **Two Sigma**: [Two Sigma](https://www.twosigma.com/) is known for its use of advanced technologies and models, including recursive techniques, in [quantitative trading](../q/quantitative_trading.md) and investment management.
 
-- **Renaissance Technologies**: [Renaissance Technologies](https://www.rentec.com/) employs complex mathematical models, some of which are likely to involve recursive components, given their emphasis on adaptive and predictive algorithms.
+- **Renaissance Technologies**: [Renaissance Technologies](https://www.rentec.com/) employs complex [mathematical models](../m/mathematical_models_in_trading.md), some of which are likely to involve recursive components, given their emphasis on adaptive and predictive algorithms.
 
-- **AQR Capital Management**: [AQR Capital Management](https://www.aqr.com/) utilizes a variety of quantitative strategies, potentially incorporating recursive models to manage and predict market movements efficiently.
+- **AQR Capital Management**: [AQR Capital Management](https://www.aqr.com/) utilizes a variety of [quantitative strategies](../q/quantitative_strategies_in_trading.md), potentially incorporating recursive models to manage and predict market movements efficiently.
 
 **Conclusion**
 

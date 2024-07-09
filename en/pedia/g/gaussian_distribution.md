@@ -1,6 +1,6 @@
 # Gaussian Distribution
 
-The Gaussian distribution, also known as the normal distribution, is one of the most important probability distributions in statistics and is widely used in various fields including finance and [algorithmic trading](../a/algorithmic_trading.md). Named after Carl Friedrich Gauss, it has a bell curve shape and is characterized by its mean (μ) and standard deviation (σ). In [algorithmic trading](../a/algorithmic_trading.md), understanding and applying the Gaussian distribution can help in modeling the distribution of asset returns, [risk management](../r/risk_management.md), and in constructing robust [trading algorithms](../t/trading_algorithms.md).
+The Gaussian distribution, also known as the [normal distribution](../n/normal_distribution_in_trading.md), is one of the most important [probability distributions](../p/probability_distributions_in_trading.md) in statistics and is widely used in various fields including finance and [algorithmic trading](../a/algorithmic_trading.md). Named after Carl Friedrich Gauss, it has a bell curve shape and is characterized by its mean (μ) and standard deviation (σ). In [algorithmic trading](../a/algorithmic_trading.md), understanding and applying the Gaussian distribution can help in modeling the distribution of asset returns, [risk management](../r/risk_management.md), and in constructing robust [trading algorithms](../t/trading_algorithms.md).
 
 ## Key Characteristics of Gaussian Distribution
 
@@ -39,7 +39,7 @@ Understanding the statistical properties of asset returns, such as estimation of
 
 ## Limitations
 
-While the Gaussian distribution is powerful, it has its limitations. Market returns often exhibit "fat tails" or higher kurtosis, meaning extreme outcomes are more likely than would be predicted by a normal distribution. This phenomenon is known as "[tail risk](../t/tail_risk.md)."
+While the Gaussian distribution is powerful, it has its limitations. Market returns often exhibit "fat tails" or higher kurtosis, meaning extreme outcomes are more likely than would be predicted by a [normal distribution](../n/normal_distribution_in_trading.md). This phenomenon is known as "[tail risk](../t/tail_risk.md)."
 
 ## Companies Utilizing Gaussian Distribution in Algorithmic Trading
 

@@ -11,7 +11,7 @@ Japanese Government Bonds, commonly abbreviated as JGBs, are debt securities iss
 The [yield curve](../y/yield_curve.md) is a graphical representation that shows the relationship between the yield (or interest rate) of debt securities and their respective maturities. Typically, the [yield curve](../y/yield_curve.md) can take on three main shapes:
 
 1. **Normal [Yield Curve](../y/yield_curve.md)**: This upward-sloping curve indicates that longer-term bonds have higher yields than shorter-term bonds, reflecting the additional risk and time horizon.
-2. **Flat [Yield Curve](../y/yield_curve.md)**: A flat [yield curve](../y/yield_curve.md) occurs when short-term and long-term yields are very close, signaling uncertainty or transitions in the economic cycle.
+2. **Flat [Yield Curve](../y/yield_curve.md)**: A flat [yield curve](../y/yield_curve.md) occurs when short-term and long-term yields are very close, signaling [uncertainty](../u/uncertainty_in_trading.md) or transitions in the economic cycle.
 3. **Inverted [Yield Curve](../y/yield_curve.md)**: This downward-sloping curve indicates that short-term yields are higher than long-term yields, often viewed as a predictor of economic recession.
 
 ## Importance of JGB Yield Curve Analysis
@@ -68,7 +68,7 @@ In recent years, several developments have impacted the JGB [yield curve](../y/y
    Analysts use statistical techniques like [regression analysis](../r/regression_analysis.md) to model and predict movements in the [yield curve](../y/yield_curve.md), taking into account various macroeconomic factors.
 
 ### 2. **Principal Component Analysis (PCA)**:
-   PCA is a dimensionality reduction technique used to identify the main components driving [yield curve](../y/yield_curve.md) movements.
+   PCA is a [dimensionality reduction](../d/dimensionality_reduction_in_trading.md) technique used to identify the main components driving [yield curve](../y/yield_curve.md) movements.
 
 ### 3. **Spline Models**:
    Spline models provide a way to fit smooth curves to the observed yield data, enhancing the interpretation of yield shifts across different maturities.

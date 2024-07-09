@@ -69,7 +69,7 @@ Learn more on the [Quantlib official site](https://www.quantlib.org/).
 ##### Key Features:
 - **Simplicity**: Easy to learn and use for non-programmers.
 - **Integrated Data Services**: Direct access to historical and [real-time market data](../r/real-time_market_data.md).
-- **Comprehensive Tools**: Advanced charting, strategy optimization, and genetic algorithms.
+- **Comprehensive Tools**: Advanced charting, strategy optimization, and [genetic algorithms](../g/genetic_algorithms_in_trading.md).
 - **Broker Integration**: Directly linked to [TradeStation](../t/tradestation.md) [brokerage services](../b/brokerage_services.md).
 
 Visit the [TradeStation website](https://www.tradestation.com/).

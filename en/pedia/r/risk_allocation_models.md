@@ -98,7 +98,7 @@ Algorithmic systems leveraging dynamic [risk budgeting](../r/risk_budgeting.md) 
 [Stochastic Control](../s/stochastic_control.md) Models use mathematical techniques to make sequential decisions in uncertain environments. These models consider the stochastic nature of asset prices and help in formulating optimal [trading strategies](../t/trading_strategies.md).
 
 ### Key Techniques:
-- **Bellman Equation**: Fundamental to dynamic programming, assisting in decision making under uncertainty.
+- **Bellman Equation**: Fundamental to [dynamic programming](../d/dynamic_programming_in_trading.md), assisting in decision making under [uncertainty](../u/uncertainty_in_trading.md).
 - **Hamilton-Jacobi-Bellman (HJB) Equation**: Used for continuous-time optimization problems.
 
 ### Application:

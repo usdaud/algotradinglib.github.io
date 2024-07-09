@@ -11,7 +11,7 @@ Order matching is the process by which buy and sell orders are paired together i
 X-Order Matching diverges from traditional models by introducing advanced features such as:
  
 1. **Price Discovery:**
-   - X-[Order matching algorithms](../o/order_matching_algorithms.md) often use complex mathematical models to determine the optimal execution price. This is not only influenced by the current order book but also by historical data, market trends, and [predictive analytics](../p/predictive_analytics.md).
+   - X-[Order matching algorithms](../o/order_matching_algorithms.md) often use complex [mathematical models](../m/mathematical_models_in_trading.md) to determine the optimal execution price. This is not only influenced by the current order book but also by historical data, market trends, and [predictive analytics](../p/predictive_analytics.md).
   
 2. **Time Priority and Anonymity:**
    - While maintaining the time priority for fairness, X-Order matching ensures anonymity of the orders to prevent manipulation and [front-running](../f/front-running.md) activities.
@@ -43,8 +43,8 @@ Due to its advanced capabilities, X-Order Matching is employed across various tr
 1. **NASDAQ:**
    - NASDAQ employs multiple [order matching systems](../o/order_matching_systems.md) tailored to different asset classes and [trading strategies](../t/trading_strategies.md). More information can be found on their official page: [NASDAQ Market Services](https://www.nasdaq.com/solutions/market-services)
 
-2. **Interactive Brokers:**
-   - Known for its technology-forward approach, Interactive Brokers utilizes advanced [order matching algorithms](../o/order_matching_algorithms.md) to offer superior trade execution. Learn more at: [Interactive Brokers Technology](https://www.interactivebrokers.com/en/index.php?f=technology)
+2. **[Interactive Brokers](../i/interactive_brokers.md):**
+   - Known for its technology-forward approach, [Interactive Brokers](../i/interactive_brokers.md) utilizes advanced [order matching algorithms](../o/order_matching_algorithms.md) to offer superior trade execution. Learn more at: [Interactive Brokers Technology](https://www.interactivebrokers.com/en/index.php?f=technology)
 
 3. **NYSE (New York Stock Exchange):**
    - NYSE incorporates modern order matching solutions to maintain efficiency and market integrity. Detailed insights are available at: [NYSE Markets](https://www.nyse.com/markets)
@@ -62,7 +62,7 @@ Despite its advantages, X-Order matching is not without challenges. Continuous r
 - **Technological Upgrades:**
   - Keeping up with the latest in technology, particularly in AI and ML, requires substantial investment and expertise.
 
-The future of X-Order matching is anticipated to be driven by advancements in quantum computing, further integration of AI, and a push towards more [decentralized trading platforms](../d/decentralized_trading_platforms.md) which harness blockchain technology.
+The future of X-Order matching is anticipated to be driven by advancements in [quantum computing](../q/quantum_computing_in_trading.md), further integration of AI, and a push towards more [decentralized trading platforms](../d/decentralized_trading_platforms.md) which harness [blockchain](../b/blockchain_in_trading.md) technology.
 
 ### Conclusion
 

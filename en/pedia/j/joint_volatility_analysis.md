@@ -62,7 +62,7 @@ dX_t = \mu dt + \sigma_t dW_t
 
 ### Principal Component Analysis (PCA)
 
-PCA can also play a role in JVA by reducing the dimensionality of the data while preserving as much variability as possible. It can help identify the principal components that drive the volatility of a basket of assets.
+PCA can also play a role in JVA by reducing the dimensionality of the data while preserving as much variability as possible. It can help identify the [principal components](../p/principal_components_in_trading.md) that drive the volatility of a basket of assets.
 
 \[
 Y = XW
@@ -98,7 +98,7 @@ Several tools and software packages facilitate Joint [Volatility Analysis](../v/
 
 2. **Python:** The `arch`, `statsmodels`, and `PyMC3` libraries provide extensive functionality for both [GARCH models](../g/garch_models.md) and [stochastic volatility models](../s/stochastic_volatility_models.md).
 
-3. **MATLAB:** Offers toolboxes for financial econometrics, which include VAR and MGARCH models.
+3. **MATLAB:** Offers toolboxes for financial [econometrics](../e/econometrics_in_trading.md), which include VAR and MGARCH models.
 
 ### Case Studies
 
@@ -122,7 +122,7 @@ With advances in computing power and data availability, real-time Joint [Volatil
 
 ### Integration with Blockchain
 
-Blockchain technology could potentially affect Joint [Volatility Analysis](../v/volatility_analysis.md) by enabling decentralized and transparent data solutions. This might lead to more reliable and timely data inputs for volatility modeling.
+[Blockchain](../b/blockchain_in_trading.md) technology could potentially affect Joint [Volatility Analysis](../v/volatility_analysis.md) by enabling decentralized and transparent data solutions. This might lead to more reliable and timely data inputs for volatility modeling.
 
 ## References
 

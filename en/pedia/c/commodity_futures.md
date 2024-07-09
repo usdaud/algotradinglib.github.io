@@ -24,7 +24,7 @@ Trading futures involves significant leverage. Market participants must put up a
 
 ### Settlement Types
 Futures can be settled in two ways:
-- **Physical Delivery**: The physical commodity is delivered upon contract expiration.
+- **[Physical Delivery](../p/physical_delivery_in_trading.md)**: The physical commodity is delivered upon contract expiration.
 - **Cash Settlement**: The difference between the contract price and the market price is settled in cash.
 
 ## Major Commodity Exchanges

@@ -34,7 +34,7 @@ A trader notices that 10-year U.S. Treasury bonds are undervalued relative to 5-
 
 ### 5. **Statistical Arbitrage**
 
-Statistical [arbitrage](../a/arbitrage.md) involves using complex mathematical models to identify temporary price discrepancies among a set or 'basket' of securities. Traders use algorithms to predict price movements based on historical relationships, and profits are made on the convergence of the securities' prices.
+Statistical [arbitrage](../a/arbitrage.md) involves using complex [mathematical models](../m/mathematical_models_in_trading.md) to identify temporary price discrepancies among a set or 'basket' of securities. Traders use algorithms to predict price movements based on historical relationships, and profits are made on the convergence of the securities' prices.
 
 **Example:**
 A statistical [arbitrage](../a/arbitrage.md) model might identify that stock A and stock B typically have a price correlation. If this correlation temporarily diverges, the trader may short the over-performing stock and go long the under-performing stock to profit from the reversion to the mean.
@@ -105,7 +105,7 @@ Jane Street is a global [proprietary trading](../p/proprietary_trading.md) firm 
 **Website:** [Jane Street](https://www.janestreet.com/)
 
 ### **Two Sigma**
-Two Sigma is a leading financial technology firm that applies data science and technology to [arbitrage](../a/arbitrage.md) and other [trading strategies](../t/trading_strategies.md). They employ advanced machine learning and modeling techniques to uncover trading opportunities.
+Two Sigma is a leading financial technology firm that applies [data science](../d/data_science_in_trading.md) and technology to [arbitrage](../a/arbitrage.md) and other [trading strategies](../t/trading_strategies.md). They employ advanced machine learning and modeling techniques to uncover trading opportunities.
 
 **Website:** [Two Sigma](https://www.twosigma.com/)
 

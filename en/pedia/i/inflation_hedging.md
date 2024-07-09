@@ -26,11 +26,11 @@ In the context of [algorithmic trading](../a/algorithmic_trading.md), inflation 
 
 1. **Data Collection and Analysis**: 
     - Collect historical and real-time data on inflation indicators such as CPI, PCE, commodity prices, and other economic metrics.
-    - Machine learning algorithms can analyze this data to predict inflation trends and inform trading decisions.
+    - Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can analyze this data to predict inflation trends and inform trading decisions.
 
 2. **Model Design**: 
-    - Develop predictive models that react to changes in inflation data and [economic indicators](../e/economic_indicators.md).
-    - Incorporate Monte Carlo simulations and stress testing to evaluate the robustness of the model under different inflation scenarios.
+    - Develop [predictive models](../p/predictive_models_in_trading.md) that react to changes in inflation data and [economic indicators](../e/economic_indicators.md).
+    - Incorporate Monte Carlo simulations and [stress testing](../s/stress_testing_in_trading.md) to evaluate the robustness of the model under different inflation scenarios.
 
 3. **[Backtesting](../b/backtesting.md)**: 
     - Test the inflation [hedging strategies](../h/hedging_strategies.md) on historical data to ensure they perform as expected across different inflationary periods.
@@ -50,7 +50,7 @@ In the context of [algorithmic trading](../a/algorithmic_trading.md), inflation 
     - Python, R, and C++ are commonly used for developing [trading algorithms](../t/trading_algorithms.md) due to their extensive libraries and frameworks.
 
 3. **API Integration**:
-    - Use broker APIs from platforms like Interactive Brokers ([website](https://www.interactivebrokers.com)) or [Alpaca](../a/alpaca.md) ([website](https://alpaca.markets)) for live trading.
+    - Use broker APIs from platforms like [Interactive Brokers](../i/interactive_brokers.md) ([website](https://www.interactivebrokers.com)) or [Alpaca](../a/alpaca.md) ([website](https://alpaca.markets)) for live trading.
 
 ### Risk Management in Inflation Hedging
 

@@ -23,7 +23,7 @@ $$ X_t = \mu + \epsilon_t $$
 where:
 - \( X_t \) represents the price at time \( t \),
 - \( \mu \) is the mean of the white noise (which can be zero in some cases),
-- \( \epsilon_t \) is the error term, which is typically assumed to follow a normal distribution with mean zero and constant variance \( \sigma^2 \).
+- \( \epsilon_t \) is the error term, which is typically assumed to follow a [normal distribution](../n/normal_distribution_in_trading.md) with mean zero and constant variance \( \sigma^2 \).
 
 The error term \( \epsilon_t \) is what introduces the randomness and independence in the white noise series.
 
@@ -31,7 +31,7 @@ The error term \( \epsilon_t \) is what introduces the randomness and independen
 
 In trading, white noise represents the "noise" component of price movements that cannot be predicted using historical data or any existing patterns. Understanding and identifying white noise is crucial for several reasons:
 
-1. **Model Validation:** Identifying white noise helps in validating predictive models by ensuring that the model is not overfitting to random fluctuations.
+1. **Model Validation:** Identifying white noise helps in validating [predictive models](../p/predictive_models_in_trading.md) by ensuring that the model is not overfitting to random fluctuations.
 2. **[Risk Management](../r/risk_management.md):** Recognizing the presence of white noise assists in managing risk, as it highlights the limitations of predictive accuracy.
 3. **Efficient Markets Hypothesis:** According to the Efficient Markets Hypothesis (EMH), financial markets are efficient, and price movements are largely random. White noise serves as evidence supporting the EMH.
 
@@ -42,7 +42,7 @@ In trading, distinguishing between white noise and meaningful signals is fundame
 - **Signal:** Predictable component that reflects underlying factors such as [economic indicators](../e/economic_indicators.md), company earnings, and [geopolitical events](../g/geopolitical_events.md).
 - **Noise:** Random fluctuations that do not convey useful information for future price movements.
 
-The challenge in trading is to extract meaningful signals from the noisy data. Various statistical and machine learning techniques are employed to achieve this, including moving averages, autoregressive models, and advanced methods like neural networks.
+The challenge in trading is to extract meaningful signals from the noisy data. Various statistical and machine learning techniques are employed to achieve this, including moving averages, autoregressive models, and advanced methods like [neural networks](../n/neural_networks_in_trading.md).
 
 ### Detection of White Noise
 
@@ -72,7 +72,7 @@ Incorporating the concept of white noise into [risk management](../r/risk_manage
 
 Consider a simple moving average crossover strategy, where buy and sell signals are generated based on the crossovers of short-term and long-term moving averages. The effectiveness of this strategy depends on the ability to capture true market trends (signals) and avoid random fluctuations (noise).
 
-In the presence of significant white noise, a moving average strategy may generate frequent false signals, leading to increased transaction costs and reduced profitability. Traders can use statistical tests to ensure that their moving average parameters are optimized to capture actual trends rather than reacting to noise.
+In the presence of significant white noise, a moving average strategy may generate frequent [false signals](../f/false_signals_in_trading.md), leading to increased transaction costs and reduced profitability. Traders can use statistical tests to ensure that their moving average parameters are optimized to capture actual trends rather than reacting to noise.
 
 #### Example 2: High-Frequency Trading (HFT)
 

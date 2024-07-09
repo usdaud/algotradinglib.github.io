@@ -4,7 +4,7 @@ Kurtosis is a statistical measure used to describe the distribution of data poin
 
 ## Introduction to Kurtosis
 
-In probability theory and statistics, kurtosis is used to quantify whether the data are heavy-tailed or light-tailed relative to a normal distribution. The kurtosis of a normal distribution is 3, which often serves as a benchmark. This form of kurtosis is sometimes referred to as excess kurtosis, which is calculated by subtracting 3 from the regular kurtosis value:
+In [probability theory](../p/probability_theory_in_trading.md) and statistics, kurtosis is used to quantify whether the data are heavy-tailed or light-tailed relative to a [normal distribution](../n/normal_distribution_in_trading.md). The kurtosis of a [normal distribution](../n/normal_distribution_in_trading.md) is 3, which often serves as a benchmark. This form of kurtosis is sometimes referred to as excess kurtosis, which is calculated by subtracting 3 from the regular kurtosis value:
 
 \[ \text{Excess Kurtosis} = \text{Kurtosis} - 3 \]
 
@@ -12,11 +12,11 @@ Essentially, kurtosis provides insight into the shape of the return distribution
 
 ## Types of Kurtosis
 
-1. **Mesokurtic (Kurtosis = 3, Excess Kurtosis = 0)**: This is the kurtosis of a normal distribution and indicates that the data have moderate tail heaviness.
+1. **Mesokurtic (Kurtosis = 3, Excess Kurtosis = 0)**: This is the kurtosis of a [normal distribution](../n/normal_distribution_in_trading.md) and indicates that the data have moderate tail heaviness.
   
 2. **Leptokurtic (Kurtosis > 3, Excess Kurtosis > 0)**: Distributions with leptokurtic characteristics have fat tails, meaning they have a higher probability of extreme values. This is common in financial returns, where extreme market movements are not unusual.
 
-3. **Platykurtic (Kurtosis < 3, Excess Kurtosis < 0)**: These distributions are characterized by thin tails, signifying that extreme values are less likely than in a normal distribution.
+3. **Platykurtic (Kurtosis < 3, Excess Kurtosis < 0)**: These distributions are characterized by thin tails, signifying that extreme values are less likely than in a [normal distribution](../n/normal_distribution_in_trading.md).
 
 ## Implications for Portfolio Management
 
@@ -60,11 +60,11 @@ Institutional investors like pension funds and endowments also consider kurtosis
 
 ### Quantitative Strategies
 
-[Quantitative trading](../q/quantitative_trading.md) strategies leverage kurtosis to optimize their risk-return profile. By including kurtosis in their risk models, quants can better predict and prepare for [black swan events](../b/black_swan_events.md)—rare and unpredictable outliers that can significantly impact returns. Incorporating kurtosis helps in creating more robust models that do not solely rely on historical returns but also account for potential extreme deviations.
+[Quantitative trading](../q/quantitative_trading.md) strategies leverage kurtosis to optimize their risk-return profile. By including kurtosis in their [risk models](../r/risk_models_in_trading.md), quants can better predict and prepare for [black swan events](../b/black_swan_events.md)—rare and unpredictable outliers that can significantly impact returns. Incorporating kurtosis helps in creating more robust models that do not solely rely on historical returns but also account for potential extreme deviations.
 
 ### Example: Renaissance Technologies
 
-[Renaissance Technologies](https://www.rentec.com/), a well-known hedge fund, utilizes advanced mathematical models to predict market movements and manage risks. Kurtosis and other higher-order statistics form a crucial part of their [quantitative models](../q/quantitative_models.md), allowing the fund to maintain superior risk-adjusted returns.
+[Renaissance Technologies](https://www.rentec.com/), a well-known hedge fund, utilizes advanced [mathematical models](../m/mathematical_models_in_trading.md) to predict market movements and manage risks. Kurtosis and other higher-order statistics form a crucial part of their [quantitative models](../q/quantitative_models.md), allowing the fund to maintain superior risk-adjusted returns.
 
 ## Challenges and Limitations
 

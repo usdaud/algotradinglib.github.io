@@ -24,13 +24,13 @@ X-Peak Patterns are specific types of patterns identified in time-series data th
 
 ### Machine Learning Algorithms
 
-1. **Supervised Learning Models**: Algorithms like support vector machines (SVMs) and neural networks can be trained to recognize peak patterns based on historical data.
+1. **Supervised Learning Models**: Algorithms like [support vector machines](../s/support_vector_machines_in_trading.md) (SVMs) and [neural networks](../n/neural_networks_in_trading.md) can be trained to recognize peak patterns based on historical data.
 2. **Unsupervised Learning Models**: Clustering techniques such as K-means can identify natural groupings of data points that signify peaks.
 
 ### Pattern Recognition
 
 1. **[Candlestick Patterns](../c/candlestick_patterns.md)**: Specific candlestick formations, like "shooting stars" or "hammers," can indicate potential peaks.
-2. **[Wave Analysis](../w/wave_analysis.md)**: [Elliott Wave Theory](../e/elliott_wave_theory.md) uses fractal models to identify peaks within the larger wave patterns of the market.
+2. **[Wave Analysis](../w/wave_analysis.md)**: [Elliott Wave Theory](../e/elliott_wave_theory.md) uses fractal models to identify peaks within the larger [wave patterns](../w/wave_patterns_in_trading.md) of the market.
 
 ## Implementation in Algorithmic Trading
 

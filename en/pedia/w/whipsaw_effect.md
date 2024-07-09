@@ -11,7 +11,7 @@ The term "whipsaw" comes from the logging industry, where a whipsaw is a type of
 The whipsaw effect has several key characteristics:
 - **Rapid Price Movements:** Prices move quickly in one direction before reversing.
 - **Market Volatility:** High volatility is often a precursor to whipsaw conditions.
-- **False Signals:** Traders and [trading algorithms](../t/trading_algorithms.md) may receive false signals, resulting in unprofitable trades.
+- **[False Signals](../f/false_signals_in_trading.md):** Traders and [trading algorithms](../t/trading_algorithms.md) may receive [false signals](../f/false_signals_in_trading.md), resulting in unprofitable trades.
 
 ## Causes of the Whipsaw Effect
 
@@ -33,7 +33,7 @@ In some cases, market manipulation tactics such as "pump and dump" schemes can c
 
 ## Impact on Algorithmic Trading
 
-[Algorithmic trading](../a/algorithmic_trading.md) systems rely on mathematical models and pre-defined rules to execute trades. The whipsaw effect can pose a significant challenge for these systems. Some of the main impacts include:
+[Algorithmic trading](../a/algorithmic_trading.md) systems rely on [mathematical models](../m/mathematical_models_in_trading.md) and pre-defined rules to execute trades. The whipsaw effect can pose a significant challenge for these systems. Some of the main impacts include:
 
 ### False Positives
 
@@ -49,7 +49,7 @@ Slippage refers to the difference between the expected price of a trade and the 
 
 ### Need for Adaptive Algorithms
 
-To mitigate the effects of whipsaw, some [algorithmic trading](../a/algorithmic_trading.md) systems incorporate [adaptive algorithms](../a/adaptive_algorithms.md) that can recognize and adjust to changing market conditions. These systems use machine learning and artificial intelligence to improve their predictive capabilities and reduce the likelihood of being caught in whipsaw traps.
+To mitigate the effects of whipsaw, some [algorithmic trading](../a/algorithmic_trading.md) systems incorporate [adaptive algorithms](../a/adaptive_algorithms.md) that can recognize and adjust to changing market conditions. These systems use machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to improve their predictive capabilities and reduce the likelihood of being caught in whipsaw traps.
 
 ## Strategies to Mitigate Whipsaw
 

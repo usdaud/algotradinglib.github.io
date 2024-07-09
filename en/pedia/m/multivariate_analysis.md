@@ -8,7 +8,7 @@ Different techniques within multivariate analysis serve distinct purposes and pr
 
 1. **Multiple [Regression Analysis](../r/regression_analysis.md):** This technique helps in understanding the relationship between one dependent variable and several independent variables. It is widely used to predict the value of a stock or a portfolio by considering multiple factors such as historical prices, volume, and macroeconomic indicators.
 
-2. **Principal Component Analysis (PCA):** PCA reduces the dimensionality of a data set while preserving as much variance as possible by transforming original variables into a new set of uncorrelated variables. This is useful in eliminating multicollinearity and simplifying complex datasets in stock trading.
+2. **[Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA):** PCA reduces the dimensionality of a data set while preserving as much variance as possible by transforming original variables into a new set of uncorrelated variables. This is useful in eliminating [multicollinearity](../m/multicollinearity_in_trading.md) and simplifying complex datasets in stock trading.
 
 3. **[Factor Analysis](../f/factor_analysis.md):** This technique identifies underlying relationships between variables. In trading, it can be used to identify latent factors that drive asset returns, such as market sentiment or economic conditions.
 
@@ -23,9 +23,9 @@ Different techniques within multivariate analysis serve distinct purposes and pr
 ### Applications in Algorithmic Trading
 
 #### Risk Management
-One of the key applications of multivariate analysis in [algorithmic trading](../a/algorithmic_trading.md) is [risk management](../r/risk_management.md). [Trading strategies](../t/trading_strategies.md) involve multiple risk factors including market volatility, interest rates, and credit risk. By applying multivariate techniques, traders can model these risk factors and understand their combined impact on the portfolio. The ability to predict and manage risk is crucial for the longevity and success of any trading strategy.
+One of the key applications of multivariate analysis in [algorithmic trading](../a/algorithmic_trading.md) is [risk management](../r/risk_management.md). [Trading strategies](../t/trading_strategies.md) involve multiple [risk factors](../r/risk_factors_in_trading.md) including market volatility, interest rates, and credit risk. By applying multivariate techniques, traders can model these [risk factors](../r/risk_factors_in_trading.md) and understand their combined impact on the portfolio. The ability to predict and manage risk is crucial for the longevity and success of any trading strategy.
 
-For example, using PCA, traders can reduce the risk model to a few principal components, helping to better manage the portfolio by focusing on key risk drivers rather than an overwhelmingly large set of variables.
+For example, using PCA, traders can reduce the risk model to a few [principal components](../p/principal_components_in_trading.md), helping to better manage the portfolio by focusing on key risk drivers rather than an overwhelmingly large set of variables.
 
 #### Strategy Development and Testing
 [Algorithmic trading](../a/algorithmic_trading.md) strategies rely heavily on historical data to test their efficacy before being deployed. By employing multiple [regression analysis](../r/regression_analysis.md), traders can model the relationships between various market indicators and the asset's performance, aiding in the development of more robust [trading algorithms](../t/trading_algorithms.md).

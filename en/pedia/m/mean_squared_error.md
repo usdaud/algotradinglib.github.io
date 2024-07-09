@@ -1,6 +1,6 @@
 # Mean Squared Error
 
-Mean Squared Error (MSE) is a standard way to measure the error of a quantitative prediction model. It is widely used in the field of statistics, signal processing, econometrics, machine learning, and many other disciplines. In the context of [algorithmic trading](../a/algorithmic_trading.md), MSE can be an essential tool for evaluating the accuracy of predictive models concerning financial data.
+Mean Squared Error (MSE) is a standard way to measure the error of a quantitative prediction model. It is widely used in the field of statistics, [signal processing](../s/signal_processing_in_trading.md), [econometrics](../e/econometrics_in_trading.md), machine learning, and many other disciplines. In the context of [algorithmic trading](../a/algorithmic_trading.md), MSE can be an essential tool for evaluating the accuracy of [predictive models](../p/predictive_models_in_trading.md) concerning financial data.
 
 ### Definition
 MSE is defined as the average of the squared differences between predicted and actual values. Mathematically, for a set of observations \((y_1, y_2, ..., y_n)\) and corresponding predictions \((\hat{y}_1, \hat{y}_2, ..., \hat{y}_n)\), the MSE is given by:
@@ -76,7 +76,7 @@ Although MSE is a widely-used metric, it is not the only one. Some other common 
    \]
    RMSE is the square root of MSE and is in the same unit as the original data.
 
-3. **R-squared (\(R^2\))**:
+3. **[R-squared](../r/r-squared_in_trading.md) (\(R^2\))**:
    \[
    R^2 = 1 - \frac{\sum_{i=1}^{n} (y_i - \hat{y}_i)^2}{\sum_{i=1}^{n} (y_i - \bar{y})^2}
    \]
@@ -103,7 +103,7 @@ In [portfolio management](../p/portfolio_management.md), we might use MSE to eva
 Several companies and tools provide solutions that automatically compute MSE for models:
 1. **[QuantConnect](../q/quantconnect.md)** - An [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to design, test, and deploy [trading algorithms](../t/trading_algorithms.md): [QuantConnect](https://www.quantconnect.com)
 
-2. **Datarobot** - Provides machine learning tools for building and evaluating predictive models: [Datarobot](https://www.datarobot.com)
+2. **Datarobot** - Provides machine learning tools for building and evaluating [predictive models](../p/predictive_models_in_trading.md): [Datarobot](https://www.datarobot.com)
 
 ### Conclusion
-Mean Squared Error is a fundamental metric in data science and [algorithmic trading](../a/algorithmic_trading.md) for evaluating predictive models. Despite its limitations, it remains one of the most widely-used metrics due to its simplicity and sensitivity to large errors. By understanding and appropriately applying MSE, traders and data scientists can improve the accuracy and reliability of their models, leading to better decision-making and potentially higher financial returns.
+Mean Squared Error is a fundamental metric in [data science](../d/data_science_in_trading.md) and [algorithmic trading](../a/algorithmic_trading.md) for evaluating [predictive models](../p/predictive_models_in_trading.md). Despite its limitations, it remains one of the most widely-used metrics due to its simplicity and sensitivity to large errors. By understanding and appropriately applying MSE, traders and data scientists can improve the accuracy and reliability of their models, leading to better decision-making and potentially higher financial returns.

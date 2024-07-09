@@ -80,13 +80,13 @@ Several companies provide tools and services tailored for [portfolio rebalancing
 
 ## The Future of Rebalancing
 
-The future of rebalancing is expected to see increased automation and integration of advanced technologies such as artificial intelligence and machine learning. These technologies will enhance the efficiency and effectiveness of [rebalancing strategies](../r/rebalancing_strategies.md).
+The future of rebalancing is expected to see increased automation and integration of advanced technologies such as [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning. These technologies will enhance the efficiency and effectiveness of [rebalancing strategies](../r/rebalancing_strategies.md).
 
 ### Artificial Intelligence and Machine Learning
 AI and ML can improve the decision-making process by analyzing vast amounts of historical and real-time data to predict market movements and optimize rebalancing actions.
 
 ### Blockchain Technology
-Blockchain can provide transparency and security in the rebalancing process, allowing for decentralized and tamper-proof execution of trades.
+[Blockchain](../b/blockchain_in_trading.md) can provide transparency and security in the rebalancing process, allowing for decentralized and tamper-proof execution of trades.
 
 ### Customized Solutions
 There will be a rise in personalized rebalancing solutions that consider individual investor preferences, tax situations, and financial goals to offer tailored [rebalancing strategies](../r/rebalancing_strategies.md).

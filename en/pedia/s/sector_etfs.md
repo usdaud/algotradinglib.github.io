@@ -133,7 +133,7 @@ Sector ETFs are subject to overall market risk, meaning their performance can be
 Certain sectors, such as real estate and utilities, are more sensitive to interest rate changes. Rising interest rates can negatively impact these sectors and, consequently, the performance of corresponding sector ETFs.
 
 ### Regulatory and Political Risks
-Specific sectors may be more susceptible to regulatory and political changes. For example, healthcare and energy sectors can be significantly influenced by government policies and regulations.
+Specific sectors may be more susceptible to regulatory and political changes. For example, healthcare and energy sectors can be significantly influenced by [government policies](../g/government_policies_in_trading.md) and regulations.
 
 ## Conclusion
 

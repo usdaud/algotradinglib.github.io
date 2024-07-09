@@ -77,7 +77,7 @@ While non-traditional data sources offer numerous advantages, they also pose spe
 
 ### Future Trends
 
-The adoption of non-traditional data sources in [algorithmic trading](../a/algorithmic_trading.md) is expected to grow as the technology continues to evolve. Advances in machine learning, artificial intelligence, and big data analytics will further enhance the ability of algorithms to process and interpret vast amounts of [alternative data](../a/alternative_data.md) quickly and accurately.
+The adoption of non-traditional data sources in [algorithmic trading](../a/algorithmic_trading.md) is expected to grow as the technology continues to evolve. Advances in machine learning, [artificial intelligence](../a/artificial_intelligence_in_trading.md), and [big data analytics](../b/big_data_analytics_in_trading.md) will further enhance the ability of algorithms to process and interpret vast amounts of [alternative data](../a/alternative_data.md) quickly and accurately.
 
 ### Conclusion
 

@@ -61,4 +61,4 @@ For instance, a hedge fund may use algorithms to scan the bond market, compute t
 
 Yield to Maturity is an indispensable concept in bond investing and [algorithmic trading](../a/algorithmic_trading.md). Its comprehensive approach to measuring a bond's potential return makes it a valuable tool for investors and traders aiming to optimize their portfolios. Although the calculation of YTM can be complex, its ability to provide insight into the true yield of a bond outweighs the challenges, making it a fundamental aspect of fixed-income analysis.
 
-For more detailed information and examples of how YTM is used in practice, you can explore resources provided by major financial institutions and trading platforms like Interactive Brokers (https://www.interactivebrokers.com/).
+For more detailed information and examples of how YTM is used in practice, you can explore resources provided by major financial institutions and trading platforms like [Interactive Brokers](../i/interactive_brokers.md) (https://www.interactivebrokers.com/).

@@ -51,7 +51,7 @@ Execution overlays are techniques to optimize the execution of trades. This incl
 
 #### Smart Order Routing (SOR)
 
-- **Algorithmic Order Types**: Uses sophisticated algos to route orders to various trading venues for the best execution.
+- **Algorithmic [Order Types](../o/order_types_in_trading.md)**: Uses sophisticated algos to route orders to various trading venues for the best execution.
 - **Internal Crossing**: Matching orders within the same platform to minimize market impact and reduce transaction costs.
 
 ## Applications of Overlay Strategies
@@ -80,7 +80,7 @@ Modern [algorithmic trading](../a/algorithmic_trading.md) platforms come with bu
 
 ### Machine Learning and AI
 
-Machine learning and AI technologies enhance the effectiveness of overlay strategies by providing powerful tools for signal detection, risk assessment, and execution optimization.
+Machine learning and AI technologies enhance the effectiveness of overlay strategies by providing powerful tools for [signal detection](../s/signal_detection_in_trading.md), risk assessment, and execution optimization.
 
 - **TensorFlow**: An open-source machine learning library used for building and deploying machine learning models.
 
@@ -94,12 +94,12 @@ APIs facilitate the integration of various overlay components with existing [tra
 
 ### Two Sigma Investments
 
-Two Sigma is a prominent firm known for its use of machine learning, artificial intelligence, and advanced technologies in its [trading strategies](../t/trading_strategies.md), including overlay strategies.
+Two Sigma is a prominent firm known for its use of machine learning, [artificial intelligence](../a/artificial_intelligence_in_trading.md), and advanced technologies in its [trading strategies](../t/trading_strategies.md), including overlay strategies.
 Website: [Two Sigma](https://www.twosigma.com)
 
 ### Renaissance Technologies
 
-RenTech employs complex mathematical models and algorithmic strategies, including extensive use of overlay strategies for [risk management](../r/risk_management.md) and [alpha generation](../a/alpha_generation.md).
+RenTech employs complex [mathematical models](../m/mathematical_models_in_trading.md) and algorithmic strategies, including extensive use of overlay strategies for [risk management](../r/risk_management.md) and [alpha generation](../a/alpha_generation.md).
 Website: [Renaissance Technologies](https://www.rentec.com)
 
 ### AQR Capital Management

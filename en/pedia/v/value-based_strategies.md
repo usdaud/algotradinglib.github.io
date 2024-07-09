@@ -1,12 +1,12 @@
 # Value-Based Strategies
 
-[Algorithmic trading](../a/algorithmic_trading.md), often referred to as algo-trading, encapsulates the use of algorithms and advanced mathematical models to execute trades at high speeds and volumes, leveraging computational power to make split-second decisions. Among the myriad of strategies employed in this domain, value-based strategies hold a distinguished position due to their reliance on fundamental, rather than just technical, analysis. These strategies seek to identify discrepancies between an asset's market price and its intrinsic value, capitalizing on markets' tendencies to revert to fundamental values over time.
+[Algorithmic trading](../a/algorithmic_trading.md), often referred to as algo-trading, encapsulates the use of algorithms and advanced [mathematical models](../m/mathematical_models_in_trading.md) to execute trades at high speeds and volumes, leveraging computational power to make split-second decisions. Among the myriad of strategies employed in this domain, value-based strategies hold a distinguished position due to their reliance on fundamental, rather than just technical, analysis. These strategies seek to identify discrepancies between an asset's market price and its intrinsic value, capitalizing on markets' tendencies to revert to fundamental values over time.
 
 ### Fundamental Concepts of Value-Based Strategies
 
 Value-based strategies are rooted in principles first articulated by financial theorists such as Benjamin Graham and David Dodd in their seminal work "[Security Analysis](../s/security_analysis.md)." At its core, the approach involves evaluating a financial asset to determine its intrinsic value and comparing this to the current market price to make investment decisions. 
 
-1. **Intrinsic Value**: This refers to the estimated true value of an asset based on [fundamental analysis](../f/fundamental_analysis.md), which may take into account factors such as earnings, dividends, growth rates, notional value, market position, and industry conditions.
+1. **Intrinsic Value**: This refers to the estimated true value of an asset based on [fundamental analysis](../f/fundamental_analysis.md), which may take into account factors such as earnings, dividends, [growth rates](../g/growth_rates_in_trading.md), notional value, market position, and industry conditions.
    
 2. **Market Price**: The current price at which an asset is trading on the financial markets. Market prices can be influenced by numerous factors including market sentiment, liquidity, speculative activities, and broader economic conditions.
 
@@ -34,7 +34,7 @@ Data must be cleaned, normalized, and sometimes transformed to fit the models us
    
    - **[Comparative Analysis](../c/comparative_analysis.md)**: Relative [valuation techniques](../v/valuation_techniques.md) involve comparing an asset's [valuation ratios](../v/valuation_ratios.md) with those of similar companies or industry benchmarks.
    
-   - **Monte Carlo Simulations**: Used to account for uncertainty and risk in the valuation process by simulating a range of possible outcomes for key inputs.
+   - **Monte Carlo Simulations**: Used to account for [uncertainty](../u/uncertainty_in_trading.md) and risk in the valuation process by simulating a range of possible outcomes for key inputs.
 
 Algorithms can be trained using machine learning techniques to recognize patterns and correlations within the data. Advanced models can dynamically adjust weightings and parameters based on real-time inputs.
 
@@ -50,7 +50,7 @@ After [valuation models](../v/valuation_models.md) estimate the intrinsic value,
 
 Once a signal is generated, the execution phase involves placing the trade in the market:
 
-   - **Order Types**: Algorithms determine the optimal order types (e.g., market orders, limit orders) to minimize costs and impact on the asset's market price.
+   - **[Order Types](../o/order_types_in_trading.md)**: Algorithms determine the optimal [order types](../o/order_types_in_trading.md) (e.g., market orders, limit orders) to minimize costs and impact on the asset's market price.
    
    - **Timing and Sizing**: The trades are often broken down into smaller parts to avoid market impact and to comply with liquidity constraints.
 
@@ -92,6 +92,6 @@ Despite the appeal of value-based [algorithmic trading](../a/algorithmic_trading
 
 ### The Future of Value-Based Algorithmic Trading
 
-With advancements in artificial intelligence and machine learning, the sophistication of value-based [algorithmic trading](../a/algorithmic_trading.md) is expected to grow. More refined data analytics, improved natural language processing for better understanding of qualitative factors, and enhanced predictive capabilities could lead to better assessment of intrinsic values and more effective [trading strategies](../t/trading_strategies.md).
+With advancements in [artificial intelligence](../a/artificial_intelligence_in_trading.md) and machine learning, the sophistication of value-based [algorithmic trading](../a/algorithmic_trading.md) is expected to grow. More refined data analytics, improved [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) for better understanding of qualitative factors, and enhanced predictive capabilities could lead to better assessment of intrinsic values and more effective [trading strategies](../t/trading_strategies.md).
 
 In conclusion, value-based strategies in [algorithmic trading](../a/algorithmic_trading.md) represent a fusion of traditional [fundamental analysis](../f/fundamental_analysis.md) with modern computational techniques, striving to systematically exploit market inefficiencies. As technology and market understanding evolve, these strategies will likely continue to play a crucial role in the landscape of [algorithmic trading](../a/algorithmic_trading.md).

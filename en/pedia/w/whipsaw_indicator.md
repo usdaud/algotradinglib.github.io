@@ -18,11 +18,11 @@ Whipsaw occurs in trading when a market condition causes price swings that resul
 
 ### Technical Indicators
 
-1. **Moving Averages**: One way to identify potential whipsaws is by looking at moving averages. Crossovers between short-term and long-term moving averages can sometimes result in false signals or whipsaw conditions.
+1. **Moving Averages**: One way to identify potential whipsaws is by looking at moving averages. Crossovers between short-term and long-term moving averages can sometimes result in [false signals](../f/false_signals_in_trading.md) or whipsaw conditions.
 2. **Relative Strength Index (RSI)**: RSI can signal overbought or oversold conditions. Extreme RSI values might indicate potential whipsaws, especially when followed by rapid reversals.
 3. **[Bollinger Bands](../b/bollinger_bands.md)**: When the price moves close to the upper or lower band, a reversal may be imminent, indicating a possible whipsaw.
 4. **[Volume Analysis](../v/volume_analysis.md)**: Sharp reversals accompanied by low trading volume can often signal a whipsaw.
-5. **ATR (Average True Range)**: High ATR values indicate high volatility, which could lead to whipsaw movements.
+5. **ATR ([Average True Range](../a/average_true_range_(atr).md))**: High ATR values indicate high volatility, which could lead to whipsaw movements.
 
 ### Chart Patterns
 
@@ -34,7 +34,7 @@ Whipsaw occurs in trading when a market condition causes price swings that resul
 
 ### Filtering Trades
 
-Using filters like combining multiple [technical indicators](../t/technical_indicators.md) can help in reducing false signals. For instance, combining RSI and moving averages can provide a more reliable signal than relying on a single indicator.
+Using filters like combining multiple [technical indicators](../t/technical_indicators.md) can help in reducing [false signals](../f/false_signals_in_trading.md). For instance, combining RSI and moving averages can provide a more reliable signal than relying on a single indicator.
 
 ### Setting Wider Stop-Loss Orders
 

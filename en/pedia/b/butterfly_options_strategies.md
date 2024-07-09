@@ -111,7 +111,7 @@ The [Iron Condor](../i/iron_condor.md) is preferable in a low volatility environ
 
 ### Practical Applications
 
-Butterfly Options Strategies are widely used by traders and hedge funds to manage risk and maximize profits. For instance, the hedge fund **Two Sigma Investments** (https://www.twosigma.com/) employs advanced quantitative strategies that may include varied [options trading strategies](../o/options_trading_strategies.md) such as butterflies to optimize their portfolios.
+Butterfly Options Strategies are widely used by traders and hedge funds to manage risk and maximize profits. For instance, the hedge fund **Two Sigma Investments** (https://www.twosigma.com/) employs advanced [quantitative strategies](../q/quantitative_strategies_in_trading.md) that may include varied [options trading strategies](../o/options_trading_strategies.md) such as butterflies to optimize their portfolios.
 
 ### Conclusion
 Butterfly Options Strategies offer a palette of low-risk, high-control trading techniques suitable for different market outlooks. While they appear complex, understanding their construction, risks, and payoffs can provide traders with powerful tools to enhance their [trading strategies](../t/trading_strategies.md) in both volatile and non-volatile markets. Careful planning and execution are key to leveraging these strategies optimally.

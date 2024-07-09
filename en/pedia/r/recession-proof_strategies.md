@@ -57,7 +57,7 @@ Utilizing defensive assets like gold, utility stocks, and government bonds can p
 - **[Derivatives](../d/derivatives.md)**: Employing options, futures, and other derivative instruments to hedge against market risk.
 
 ### 7. Data-Driven Decision Making
-Incorporating machine learning and artificial intelligence to analyze large datasets and develop sophisticated models for predicting market movements during recessions.
+Incorporating machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to analyze large datasets and develop sophisticated models for predicting market movements during recessions.
 
 #### Tools and Techniques:
 - **[Sentiment Analysis](../s/sentiment_analysis.md)**: Utilizing [social media analytics](../s/social_media_analytics.md) and news sentiment to gauge market mood and adjust [trading strategies](../t/trading_strategies.md) accordingly.
@@ -76,10 +76,10 @@ Diversifying investments across various asset classes, sectors, and geographies 
 Renaissance Technologies is a hedge fund management company known for its Medallion Fund, which has historically delivered consistent returns using sophisticated [algorithmic trading](../a/algorithmic_trading.md) models. ([Renaissance Technologies](https://www.rentec.com))
 
 ### Two Sigma Investments
-Two Sigma utilizes artificial intelligence, machine learning, and distributed computing to create [efficient trading strategies](../e/efficient_trading_strategies.md). Their focus on data analysis and technological innovation makes them resilient during economic downturns. ([Two Sigma](https://www.twosigma.com))
+Two Sigma utilizes [artificial intelligence](../a/artificial_intelligence_in_trading.md), machine learning, and distributed computing to create [efficient trading strategies](../e/efficient_trading_strategies.md). Their focus on data analysis and technological innovation makes them resilient during economic downturns. ([Two Sigma](https://www.twosigma.com))
 
 ### DE Shaw & Co.
-DE Shaw implements a variety of quantitative strategies to minimize risk and generate returns in all market conditions. They employ rigorous research and cutting-edge technology. ([DE Shaw](https://www.deshaw.com))
+DE Shaw implements a variety of [quantitative strategies](../q/quantitative_strategies_in_trading.md) to minimize risk and generate returns in all market conditions. They employ rigorous research and cutting-edge technology. ([DE Shaw](https://www.deshaw.com))
 
 ## Conclusion
 

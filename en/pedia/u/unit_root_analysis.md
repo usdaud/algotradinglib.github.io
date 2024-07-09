@@ -1,6 +1,6 @@
 # Unit Root Analysis
 
-Unit root analysis is a crucial concept in econometrics and [time series analysis](../t/time_series_analysis.md), especially in the context of [financial modeling](../f/financial_modeling.md) and [algorithmic trading](../a/algorithmic_trading.md). This statistical property of time series data indicates whether a series is stationary or possesses a unit root, implying non-stationarity. Time series data with a unit root can exhibit persistent, stochastic trends, which makes traditional models less effective, thereby necessitating specialized techniques to ensure accurate forecasting and analysis.
+Unit root analysis is a crucial concept in [econometrics](../e/econometrics_in_trading.md) and [time series analysis](../t/time_series_analysis.md), especially in the context of [financial modeling](../f/financial_modeling.md) and [algorithmic trading](../a/algorithmic_trading.md). This statistical property of time series data indicates whether a series is stationary or possesses a unit root, implying non-stationarity. Time series data with a unit root can exhibit persistent, stochastic trends, which makes traditional models less effective, thereby necessitating specialized techniques to ensure accurate forecasting and analysis.
 
 ## Importance in Algorithmic Trading
 
@@ -13,7 +13,7 @@ A unit root in a time series implies that shocks to the system have a permanent 
 Y_t = ρY_{t-1} + ε_t
 
 Where:
-- ε_t is a white noise error term.
+- ε_t is a [white noise](../w/white_noise_in_trading.md) error term.
 - If ρ = 1, Y_t has a unit root.
 
 ## Testing for Unit Roots

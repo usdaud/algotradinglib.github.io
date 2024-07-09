@@ -1,12 +1,12 @@
 # Feedforward Neural Networks
 
-Feedforward Neural Networks (FNNs) are one of the fundamental architectures in deep learning and are extensively used in various applications, including [algorithmic trading](../a/algorithmic_trading.md). This document aims to provide a comprehensive overview of Feedforward Neural Networks and their application in the domain of [algorithmic trading](../a/algorithmic_trading.md).
+Feedforward [Neural Networks](../n/neural_networks_in_trading.md) (FNNs) are one of the fundamental architectures in deep learning and are extensively used in various applications, including [algorithmic trading](../a/algorithmic_trading.md). This document aims to provide a comprehensive overview of Feedforward [Neural Networks](../n/neural_networks_in_trading.md) and their application in the domain of [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Introduction to Feedforward Neural Networks
 
 ### Structure and Functionality
 
-Feedforward Neural Networks are a class of [artificial neural networks](../a/artificial_neural_networks.md) where connections between the nodes do not form cycles. Information moves in one direction—forward—from the input nodes, through the hidden nodes (if any), and finally to the output nodes. Unlike recurrent neural networks (RNNs), FNNs do not use their output as input for the next step.
+Feedforward [Neural Networks](../n/neural_networks_in_trading.md) are a class of [artificial neural networks](../a/artificial_neural_networks.md) where connections between the nodes do not form cycles. Information moves in one direction—forward—from the input nodes, through the hidden nodes (if any), and finally to the output nodes. Unlike recurrent [neural networks](../n/neural_networks_in_trading.md) (RNNs), FNNs do not use their output as input for the next step.
 
 ### Components of FNNs
 
@@ -58,7 +58,7 @@ Reliable and extensive historical data are critical for training effective model
 
 ### Computational Resources
 
-Training deep neural networks require substantial computational power and memory. This demands robust hardware and efficient algorithms to ensure timely execution of [trading strategies](../t/trading_strategies.md).
+Training deep [neural networks](../n/neural_networks_in_trading.md) require substantial computational power and memory. This demands robust hardware and efficient algorithms to ensure timely execution of [trading strategies](../t/trading_strategies.md).
 
 ## Implementation and Tools
 
@@ -103,12 +103,12 @@ print(y_pred)
 
 #### Renaissance Technologies
 
-Renaissance Technologies, founded by Jim Simons, is known for employing sophisticated mathematical models, including neural networks, to predict market movements and execute trades. More information can be found on their [website](https://www.rentec.com/).
+Renaissance Technologies, founded by Jim Simons, is known for employing sophisticated [mathematical models](../m/mathematical_models_in_trading.md), including [neural networks](../n/neural_networks_in_trading.md), to predict market movements and execute trades. More information can be found on their [website](https://www.rentec.com/).
 
 #### Two Sigma
 
-Two Sigma is another prominent hedge fund that leverages artificial intelligence, machine learning, and neural networks for [algorithmic trading](../a/algorithmic_trading.md). More details are available on their [website](https://www.twosigma.com/).
+Two Sigma is another prominent hedge fund that leverages [artificial intelligence](../a/artificial_intelligence_in_trading.md), machine learning, and [neural networks](../n/neural_networks_in_trading.md) for [algorithmic trading](../a/algorithmic_trading.md). More details are available on their [website](https://www.twosigma.com/).
 
 ## Conclusion
 
-Feedforward Neural Networks have demonstrated significant potential in transforming [algorithmic trading](../a/algorithmic_trading.md). Despite challenges like overfitting and computational demands, their ability to model complex relationships in data makes them invaluable tools for traders and financial analysts. As computational power and data availability continue to grow, the application of FNNs across various domains, particularly in [trading strategies](../t/trading_strategies.md), is expected to expand further.
+Feedforward [Neural Networks](../n/neural_networks_in_trading.md) have demonstrated significant potential in transforming [algorithmic trading](../a/algorithmic_trading.md). Despite challenges like overfitting and computational demands, their ability to model complex relationships in data makes them invaluable tools for traders and financial analysts. As computational power and data availability continue to grow, the application of FNNs across various domains, particularly in [trading strategies](../t/trading_strategies.md), is expected to expand further.

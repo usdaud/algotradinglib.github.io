@@ -34,7 +34,7 @@ In [algorithmic trading](../a/algorithmic_trading.md), strategies often involve 
 
 ### Managing Funding Liquidity Risk
 
-1. **Stress Testing**: Firms conduct stress tests to evaluate their funding liquidity under hypothetical adverse scenarios. These tests help identify potential vulnerabilities and prepare contingency plans to address liquidity shortfalls.
+1. **[Stress Testing](../s/stress_testing_in_trading.md)**: Firms conduct stress tests to evaluate their funding liquidity under hypothetical adverse scenarios. These tests help identify potential vulnerabilities and prepare contingency plans to address liquidity shortfalls.
 
 2. **Diversification**: Diversifying sources of funding reduces reliance on a single channel and mitigates the risk of a funding squeeze. Firms use a combination of internal reserves, credit lines, and securities financing to ensure a stable funding base.
 

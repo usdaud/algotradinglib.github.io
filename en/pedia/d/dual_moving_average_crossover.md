@@ -119,7 +119,7 @@ Moving averages are historically based, meaning they are [lagging indicators](..
 
 ### Whipsaws
 
-In sideways or choppy markets, the strategy can generate frequent false signals, known as whipsaws. This can result in multiple unprofitable trades and increased [trading costs](../t/trading_costs.md).
+In sideways or choppy markets, the strategy can generate frequent [false signals](../f/false_signals_in_trading.md), known as whipsaws. This can result in multiple unprofitable trades and increased [trading costs](../t/trading_costs.md).
 
 ### Parameter Sensitivity
 
@@ -145,7 +145,7 @@ Traders should be cautious of overfitting their strategy to historical data. Ove
 
 ## Software and Tools
 
-Numerous software platforms and tools can aid in the implementation of the Dual Moving Average Crossover strategy:
+Numerous [software platforms](../s/software_platforms_for_trading.md) and tools can aid in the implementation of the Dual Moving Average Crossover strategy:
 
 ### TradeStation
 
@@ -189,12 +189,12 @@ Conducting thorough [backtesting](../b/backtesting.md) is crucial to validate th
 
 - **Win rate**: The percentage of trades that were profitable.
 - **[Risk-adjusted return](../r/risk-adjusted_return.md)**: Return analysis accounting for the risk exposure.
-- **Drawdowns**: Maximum losses during the simulation period.
+- **Drawdowns**: Maximum losses during the [simulation](../s/simulation_in_trading.md) period.
 
 For instance, a backtest over a 10-year period on the SP 500 index may show a 60% win rate with an average annual return of 8%, adjusted for risk. 
 
 ## Conclusion
 
-The Dual Moving Average Crossover strategy remains a fundamental tool in the arsenal of algorithmic traders. While its simplicity and trend-following nature are significant advantages, traders must be aware of its lagging characteristics and susceptibility to false signals in non-trending markets. A rigorous approach encompassing careful parameter selection, diligent [risk management](../r/risk_management.md), and thorough [backtesting](../b/backtesting.md) is essential to harness the potential of this strategy effectively.
+The Dual Moving Average Crossover strategy remains a fundamental tool in the arsenal of algorithmic traders. While its simplicity and trend-following nature are significant advantages, traders must be aware of its lagging characteristics and susceptibility to [false signals](../f/false_signals_in_trading.md) in non-trending markets. A rigorous approach encompassing careful parameter selection, diligent [risk management](../r/risk_management.md), and thorough [backtesting](../b/backtesting.md) is essential to harness the potential of this strategy effectively.
 
-By leveraging appropriate software tools and platforms, traders can implement and refine their Dual Moving Average Crossover strategies to achieve more consistent and profitable trading outcomes.
+By leveraging appropriate [software tools](../s/software_tools_for_trading.md) and platforms, traders can implement and refine their Dual Moving Average Crossover strategies to achieve more consistent and profitable trading outcomes.

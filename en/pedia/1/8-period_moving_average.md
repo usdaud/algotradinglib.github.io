@@ -97,7 +97,7 @@ All moving averages are inherently [lagging indicators](../l/lagging_indicators.
 
 ### False Signals
 
-Short-term moving averages like the [8-Period SMA](../1/8-period_sma.md) are more prone to false signals due to market noise. This can lead to over-trading and increased transaction costs.
+Short-term moving averages like the [8-Period SMA](../1/8-period_sma.md) are more prone to [false signals](../f/false_signals_in_trading.md) due to market noise. This can lead to over-trading and increased transaction costs.
 
 ### Not Suitable for All Market Conditions
 

@@ -67,7 +67,7 @@ An ECM can effectively model the short-term dynamics and long-term equilibrium r
 ### Limitations
 
 1. **Assumption of Cointegration:** The primary limitation is the assumption that variables are cointegrated. If this assumption fails, ECMs are inappropriate.
-2. **Complexity:** Constructing an ECM involves multiple steps and requires a deeper understanding of econometrics.
+2. **Complexity:** Constructing an ECM involves multiple steps and requires a deeper understanding of [econometrics](../e/econometrics_in_trading.md).
 3. **Sensitivity:** The results can be sensitive to the specification of the model, such as the choice of lag lengths.
 
 ## Software for ECM

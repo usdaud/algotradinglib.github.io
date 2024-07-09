@@ -23,7 +23,7 @@ When an investor holds a sufficient quantity of a stock, they can sell a call op
 - **Limited Protection**: Slight downside protection through the premium received as compensation for the potential loss.
 
 **Risks**:
-- **Cap on Upside Potential**: Gains are limited to the strike price plus the premium received.
+- **Cap on [Upside Potential](../u/upside_potential_in_trading.md)**: Gains are limited to the strike price plus the premium received.
 - **Stock Decline**: If the underlying shares fall significantly below the purchase price, losses can occur, albeit somewhat offset by the premium.
 
 ## Practical Applications

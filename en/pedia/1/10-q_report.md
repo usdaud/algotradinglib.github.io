@@ -21,8 +21,8 @@ This section discusses the effectiveness of the company's disclosure controls an
 **1. Legal Proceedings:**
 This segment details any significant legal proceedings the company is involved in, which could have a material impact on its financial health.
 
-**2. Risk Factors:**
-Companies may update the risk factors initially disclosed in their annual report if there have been significant changes since the last filing.
+**2. [Risk Factors](../r/risk_factors_in_trading.md):**
+Companies may update the [risk factors](../r/risk_factors_in_trading.md) initially disclosed in their annual report if there have been significant changes since the last filing.
 
 **3. Unregistered Sales of Equity Securities and Use of Proceeds:**
 This describes any sales of the company's securities that were not registered under the Securities Act and the use of any proceeds from those sales.
@@ -58,7 +58,7 @@ The release of a 10-Q can significantly impact a company's stock price. Positive
 
 ## Example: Apple Inc. 10-Q Report
 To provide a granular understanding, here's an example from Apple Inc. (AAPL):
-Apple Inc. provides detailed 10-Q reports that include financial overviews, risk factors, and forward-looking statements. Their filings can be accessed directly on the SEC’s Edgar database or through Apple’s investor relations page: [Apple Investor Relations](https://investor.apple.com/financials/sec-filings/default.aspx).
+Apple Inc. provides detailed 10-Q reports that include financial overviews, [risk factors](../r/risk_factors_in_trading.md), and forward-looking statements. Their filings can be accessed directly on the SEC’s Edgar database or through Apple’s investor relations page: [Apple Investor Relations](https://investor.apple.com/financials/sec-filings/default.aspx).
 
 ## Filing Deadlines and Requirements
 The filing deadlines for 10-Q reports vary based on the company's public float:

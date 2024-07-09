@@ -58,7 +58,7 @@ Dynamic hedging has numerous applications in the financial markets:
 
 ### Challenges and Limitations
 
-1. **Complexity**: Dynamic hedging involves complex mathematical models and requires a deep understanding of [derivatives](../d/derivatives.md) and market behavior. It can be challenging for inexperienced traders to implement effectively.
+1. **Complexity**: Dynamic hedging involves complex [mathematical models](../m/mathematical_models_in_trading.md) and requires a deep understanding of [derivatives](../d/derivatives.md) and market behavior. It can be challenging for inexperienced traders to implement effectively.
 
 2. **Transaction Costs**: Frequent adjustments and rebalancing of positions can incur significant transaction costs, which may erode the benefits of the hedging strategy.
 

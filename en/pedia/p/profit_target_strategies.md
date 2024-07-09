@@ -39,7 +39,7 @@ In this strategy, the profit target is set as a specific percentage gain from th
 
 ### Volatility-Based Profit Target
 
-Volatility-based profit targets use market volatility to set profit-taking points. Commonly, this is achieved by using [technical indicators](../t/technical_indicators.md) like the Average True Range (ATR). For instance, a profit target might be set at 2 ATR above the entry price.
+Volatility-based profit targets use market volatility to set profit-taking points. Commonly, this is achieved by using [technical indicators](../t/technical_indicators.md) like the [Average True Range](../a/average_true_range_(atr).md) (ATR). For instance, a profit target might be set at 2 ATR above the entry price.
 
 **Advantages**:
 - Adjusts to current market conditions.
@@ -58,7 +58,7 @@ Technical indicator-based profit targets involve using indicators such as moving
 - Can align profit-taking with broader market trends.
 
 **Drawbacks**:
-- Indicators may provide false signals.
+- Indicators may provide [false signals](../f/false_signals_in_trading.md).
 - Complexity in choosing the right indicators and interpreting them correctly.
 
 ### Time-Based Profit Target

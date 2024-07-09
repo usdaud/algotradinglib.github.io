@@ -2,7 +2,7 @@
 
 Trading algorithm optimization is a critical aspect of [algorithmic trading](../a/algorithmic_trading.md), which involves using computer programs to trade financial markets with speed and efficiency far beyond human capabilities. The goal of optimization is to enhance the performance of a trading algorithm by adjusting its parameters in such a way that it maximizes returns, minimizes drawdowns, and operates robustly under various market conditions.
 
-[Algorithmic trading](../a/algorithmic_trading.md) systems utilize a variety of strategies, ranging from simple moving averages and [mean reversion](../m/mean_reversion.md) techniques to complex strategies driven by machine learning and artificial intelligence. The effectiveness of these strategies often hinges on the meticulous optimization of the underlying algorithms.
+[Algorithmic trading](../a/algorithmic_trading.md) systems utilize a variety of strategies, ranging from simple moving averages and [mean reversion](../m/mean_reversion.md) techniques to complex strategies driven by machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md). The effectiveness of these strategies often hinges on the meticulous optimization of the underlying algorithms.
 
 ## Steps in Trading Algorithm Optimization
 
@@ -61,7 +61,7 @@ Prior to full-scale deployment, the optimized trading algorithm should be tested
 
 ### MetaTrader
 
-[MetaTrader](https://www.metatrader5.com/) is a popular trading platform that offers extensive [backtesting](../b/backtesting.md) and optimization capabilities, including support for grid search and genetic algorithms.
+[MetaTrader](https://www.metatrader5.com/) is a popular trading platform that offers extensive [backtesting](../b/backtesting.md) and optimization capabilities, including support for [grid search](../g/grid_search_in_trading.md) and [genetic algorithms](../g/genetic_algorithms_in_trading.md).
 
 ### QuantConnect
 
@@ -73,7 +73,7 @@ Prior to full-scale deployment, the optimized trading algorithm should be tested
 
 ### NinjaTrader
 
-[NinjaTrader](https://ninjatrader.com/) is known for its advanced charting capabilities and offers various optimization techniques, including genetic algorithms and walk-forward analysis.
+[NinjaTrader](https://ninjatrader.com/) is known for its advanced charting capabilities and offers various optimization techniques, including [genetic algorithms](../g/genetic_algorithms_in_trading.md) and walk-forward analysis.
 
 ## Challenges in Optimization
 
@@ -83,7 +83,7 @@ One of the most significant risks in trading algorithm optimization is overfitti
 
 ### Computational Complexity
 
-The optimization process, especially methods like grid search and Monte Carlo simulations, can be very computationally intensive. This necessitates having robust computing resources and efficient coding practices.
+The optimization process, especially methods like [grid search](../g/grid_search_in_trading.md) and Monte Carlo simulations, can be very computationally intensive. This necessitates having robust computing resources and efficient coding practices.
 
 ### Data Quality
 

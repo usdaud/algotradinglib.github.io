@@ -25,7 +25,7 @@ Where:
 - \( X \) = strike price
 - \( r \) = risk-free interest rate
 - \( T \) = time to expiration
-- \( N(d) \) = cumulative distribution function of the standard normal distribution
+- \( N(d) \) = [cumulative distribution function](../c/cumulative_distribution_function_in_trading.md) of the standard [normal distribution](../n/normal_distribution_in_trading.md)
 - \[ d_1 = \frac{ \ln(S_0/X) + (r + \sigma^2/2)T}{\sigma\sqrt{T}} \]
 - \[ d_2 = d_1 - \sigma\sqrt{T} \]
 - \( \sigma \) = implied volatility
@@ -50,7 +50,7 @@ Where:
 
 ### Market Sentiment
 
-One of the primary drivers of implied volatility is market sentiment. If traders expect significant price movements in the future due to earnings reports, economic data releases, [geopolitical events](../g/geopolitical_events.md), etc., implied volatility might increase. Conversely, during periods of market stability and low uncertainty, implied volatility may decrease.
+One of the primary drivers of implied volatility is market sentiment. If traders expect significant price movements in the future due to earnings reports, economic data releases, [geopolitical events](../g/geopolitical_events.md), etc., implied volatility might increase. Conversely, during periods of market stability and low [uncertainty](../u/uncertainty_in_trading.md), implied volatility may decrease.
 
 ### Supply and Demand for Options
 
@@ -58,7 +58,7 @@ The supply and demand dynamics of options also significantly impact implied vola
 
 ### Corporate Actions
 
-Corporate actions like dividend announcements, stock splits, mergers, and acquisitions can also affect the implied volatility of the underlying asset. These events can introduce uncertainty and lead to changes in the market's expectation of future price swings.
+Corporate actions like dividend announcements, stock splits, mergers, and acquisitions can also affect the implied volatility of the underlying asset. These events can introduce [uncertainty](../u/uncertainty_in_trading.md) and lead to changes in the market's expectation of future price swings.
 
 ## Measuring Implied Volatility
 
@@ -92,7 +92,7 @@ By incorporating assets or [trading strategies](../t/trading_strategies.md) with
 
 ### Options Analytics Platforms
 
-Several software platforms provide advanced analytics for options trading, including implied volatility. Some popular options include:
+Several [software platforms](../s/software_platforms_for_trading.md) provide advanced analytics for options trading, including implied volatility. Some popular options include:
 - [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 - [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)
 - [OptionMetrics](https://www.optionmetrics.com/)

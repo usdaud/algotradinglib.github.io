@@ -38,7 +38,7 @@ Here:
 
 3. **Estimate the VECM**: Once cointegration is established, estimate the VECM parameters, including the short-term dynamic coefficients \(\Gamma_i\) and the error correction coefficients \(\alpha\) and \(\beta\).
 
-4. **Model Diagnosis**: Perform diagnostic checks on the residuals to ensure they are white noise (i.e., no [autocorrelation](../a/autocorrelation.md) and constant variance).
+4. **Model Diagnosis**: Perform diagnostic checks on the residuals to ensure they are [white noise](../w/white_noise_in_trading.md) (i.e., no [autocorrelation](../a/autocorrelation.md) and constant variance).
 
 ### Applications in Algorithmic Trading
 

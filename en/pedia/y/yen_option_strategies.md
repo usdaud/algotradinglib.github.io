@@ -4,7 +4,7 @@ Global financial markets are complex and multifaceted, consisting of various ins
 
 ## Introduction to Yen Options
 
-Yen options are [derivatives](../d/derivatives.md) that provide the holder with the right, but not the obligation, to buy or sell the Japanese yen at a specified price before a predetermined date. These options can be traded on various platforms, including exchanges like the Chicago Mercantile Exchange (CME) and through Over-The-Counter (OTC) markets. They are typically used by forex traders, multinational corporations, and institutional investors to hedge against currency fluctuations, implement carry trades, or speculate on future movements of the yen.
+Yen options are [derivatives](../d/derivatives.md) that provide the holder with the right, but not the obligation, to buy or sell the Japanese yen at a specified price before a predetermined date. These options can be traded on various platforms, including exchanges like the Chicago Mercantile Exchange (CME) and through [Over-The-Counter (OTC) markets](../o/over-the-counter_markets.md). They are typically used by forex traders, multinational corporations, and institutional investors to hedge against currency fluctuations, implement carry trades, or speculate on future movements of the yen.
 
 ## Basic Components of Yen Options
 

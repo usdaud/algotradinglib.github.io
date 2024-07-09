@@ -5,7 +5,7 @@ Noise trading refers to the practice of buying and selling securities based on a
 ## Components of Noise Trading
 
 ### Psychological Factors
-Noise trading is strongly influenced by psychological biases and emotions. Fear and greed are common drivers here. Psychologically-driven decisions include herd behavior, overreaction to news, and recency bias. Herd behavior causes traders to follow the majority, potentially amplifying market trends without underlying fundamental reasons.
+Noise trading is strongly influenced by [psychological biases](../p/psychological_biases_in_trading.md) and emotions. Fear and greed are common drivers here. Psychologically-driven decisions include [herd behavior](../h/herd_behavior_in_trading.md), overreaction to news, and recency bias. [Herd behavior](../h/herd_behavior_in_trading.md) causes traders to follow the majority, potentially amplifying market trends without underlying fundamental reasons.
 
 ### Market Sentiment
 Market sentiment refers to the overall attitude of investors toward a particular security or market. It is driven by emotions and perceptions rather than [quantitative analysis](../q/quantitative_analysis.md). Bullish sentiment occurs when investors are optimistic and expect prices to rise, whereas bearish sentiment happens when they expect a decline. Noise traders often act on these sentiments, contributing to price volatility.
@@ -39,7 +39,7 @@ Employing strong [risk management](../r/risk_management.md) techniques is crucia
 [Algorithmic trading](../a/algorithmic_trading.md) can help mitigate the impact of noise trading by employing algorithms to identify and act on fundamentally driven signals. Algorithms can filter out noise and respond to genuine opportunities, reducing the emotional component of trading.
 
 ### Educational Investment
-Investors and traders can benefit significantly from education concerning market behaviors, psychological biases, and fundamentals of assets. By understanding the nature of noise trading, individuals can better navigate markets and reduce the influence of irrational behaviors on their decisions.
+Investors and traders can benefit significantly from education concerning market behaviors, [psychological biases](../p/psychological_biases_in_trading.md), and fundamentals of assets. By understanding the nature of noise trading, individuals can better navigate markets and reduce the influence of irrational behaviors on their decisions.
 
 ## Case Studies
 
@@ -56,4 +56,4 @@ In January 2021, the stock of GameStop (GME) witnessed extreme volatility driven
 
 ## Conclusion
 
-Noise trading adds a layer of complexity to financial markets, driven by psychological biases, market sentiment, and reaction to news rather than fundamental information. While it can contribute to significant market risks like volatility and mispricing, understanding noise trading can help market participants mitigate these risks through strong [risk management](../r/risk_management.md), [algorithmic trading](../a/algorithmic_trading.md), and informed investment strategies. The influence of noise trading underscores the importance of recognizing and adapting to the less rational elements that coexist within financial markets.
+Noise trading adds a layer of complexity to financial markets, driven by [psychological biases](../p/psychological_biases_in_trading.md), market sentiment, and reaction to news rather than fundamental information. While it can contribute to significant market risks like volatility and mispricing, understanding noise trading can help market participants mitigate these risks through strong [risk management](../r/risk_management.md), [algorithmic trading](../a/algorithmic_trading.md), and informed investment strategies. The influence of noise trading underscores the importance of recognizing and adapting to the less rational elements that coexist within financial markets.

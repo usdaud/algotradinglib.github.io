@@ -40,7 +40,7 @@ Reliable and accurate data is the backbone of any predictive model in [algorithm
 
 ### 2. Feature Engineering
 
-Feature engineering involves transforming raw data into features that can be used for predictive model construction. Moving averages, [price momentum](../p/price_momentum.md) scores, and ATR (Average True Range) values are examples of features derived from raw market data.
+Feature engineering involves transforming raw data into features that can be used for predictive model construction. Moving averages, [price momentum](../p/price_momentum.md) scores, and ATR ([Average True Range](../a/average_true_range_(atr).md)) values are examples of features derived from raw market data.
 
 ### 3. Model Selection
 

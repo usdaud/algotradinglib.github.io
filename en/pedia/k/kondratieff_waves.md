@@ -42,7 +42,7 @@ With the advent and growth of [algorithmic trading](../a/algorithmic_trading.md)
 
 ## Examples of Companies Leveraging Long-term Economic Trends
 
-1. **Renaissance Technologies**: Known for its Medallion Fund, which has averaged a 66% annual return, Renaissance Technologies uses complex mathematical models and algorithms to exploit market inefficiencies. While the details of their strategies are closely guarded, the firm’s success can be partially attributed to understanding long-term economic trends and cycles. More information can be found on their [official website](https://www.rentec.com/).
+1. **Renaissance Technologies**: Known for its Medallion Fund, which has averaged a 66% annual return, Renaissance Technologies uses complex [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to exploit market inefficiencies. While the details of their strategies are closely guarded, the firm’s success can be partially attributed to understanding long-term economic trends and cycles. More information can be found on their [official website](https://www.rentec.com/).
 
 2. **Bridgewater Associates**: Founded by Ray Dalio, Bridgewater is one of the largest hedge funds in the world. Dalio's investment philosophy, described in his book "Principles," often emphasizes understanding long-term [economic cycles](../e/economic_cycles.md), including the Kondratieff Waves. Further details are available on their [official site](https://www.bridgewater.com/).
 

@@ -75,7 +75,7 @@ Organizations implement strict compliance programs, educating employees about th
 
 ### Technological Solutions
 
-Advanced technological solutions, such as blockchain and artificial intelligence, are being explored to enhance transparency and accountability in trading processes. These technologies provide an immutable record of transactions, making it harder for individuals to engage in front-running without detection.
+Advanced technological solutions, such as [blockchain](../b/blockchain_in_trading.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md), are being explored to enhance transparency and accountability in trading processes. These technologies provide an immutable record of transactions, making it harder for individuals to engage in front-running without detection.
 
 ### Whistleblower Programs
 

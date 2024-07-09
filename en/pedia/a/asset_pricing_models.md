@@ -98,7 +98,7 @@ The [Black-Litterman Model](../b/black-litterman_model.md) can be used to genera
 
 ## 8. Stochastic Discount Factor Models
 
-Stochastic Discount Factor (SDF) models provide a general framework for valuing assets by discounting future cash flows. The SDF framework is highly flexible, allowing for the inclusion of different risk factors and preferences.
+Stochastic Discount Factor (SDF) models provide a general framework for valuing assets by discounting future cash flows. The SDF framework is highly flexible, allowing for the inclusion of different [risk factors](../r/risk_factors_in_trading.md) and preferences.
 
 \[ P_t = E_t \left[ M_{t+1} \times X_{t+1} \right] \]
 

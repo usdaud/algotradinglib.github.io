@@ -12,7 +12,7 @@ Understanding the importance of a [Risk Management](../r/risk_management.md) Sys
 4. **Operational Risk**: These risks arise from failures in algorithm execution, technological infrastructure, or human errors.
 5. **Model Risk**: This refers to the risk of the algorithm itself being flawed due to incorrect modeling assumptions or errors in the code.
 
-[Risk Management](../r/risk_management.md) Systems are designed to monitor, measure, and manage these risks. A comprehensive RMS can help detect anomalies, manage position limits, conduct stress testing, and ensure compliance with regulatory requirements.
+[Risk Management](../r/risk_management.md) Systems are designed to monitor, measure, and manage these risks. A comprehensive RMS can help detect anomalies, manage position limits, conduct [stress testing](../s/stress_testing_in_trading.md), and ensure compliance with regulatory requirements.
 
 ## Components of a Risk Management System
 
@@ -38,13 +38,13 @@ Pre-trade risk controls are mechanisms designed to prevent orders from being pla
 
 ### 4. **Stress Testing**
 
-Stress testing involves simulating adverse market conditions to assess the potential impact on [trading strategies](../t/trading_strategies.md). These tests help identify vulnerabilities and allow traders to prepare contingency plans.
+[Stress testing](../s/stress_testing_in_trading.md) involves simulating adverse market conditions to assess the potential impact on [trading strategies](../t/trading_strategies.md). These tests help identify vulnerabilities and allow traders to prepare contingency plans.
 
 - **Example**: [Numerix Stress Testing](https://www.numerix.com/)
 
 ### 5. **Scenario Analysis**
 
-Scenario analysis is similar to stress testing but focuses on specific hypothetical events, such as regulatory changes or market crashes. It helps in understanding how certain scenarios can affect [trading strategies](../t/trading_strategies.md) and portfolios.
+Scenario analysis is similar to [stress testing](../s/stress_testing_in_trading.md) but focuses on specific hypothetical events, such as regulatory changes or market crashes. It helps in understanding how certain scenarios can affect [trading strategies](../t/trading_strategies.md) and portfolios.
 
 - **Example**: [MSCI Scenario Analysis](https://www.msci.com/)
 
@@ -78,7 +78,7 @@ Low latency is crucial in [algorithmic trading](../a/algorithmic_trading.md), wh
 
 ### 3. **Cloud Computing**
 
-The scalability and flexibility of cloud computing make it ideal for running complex algorithms and [Risk Management](../r/risk_management.md) Systems. Cloud solutions offer virtually unlimited computational resources and facilitate data sharing and collaboration.
+The scalability and flexibility of [cloud computing](../c/cloud_computing_in_trading.md) make it ideal for running complex algorithms and [Risk Management](../r/risk_management.md) Systems. Cloud solutions offer virtually unlimited computational resources and facilitate data sharing and collaboration.
 
 - **Example**: [AWS for Financial Services](https://aws.amazon.com/financial-services/)
 
@@ -158,7 +158,7 @@ Identifying all potential risks, including market, credit, liquidity, operationa
 
 ### 3. **Measure Risks**
 
-Quantifying the identified risks through metrics such as VaR, stress testing results, and risk exposure reports is the next step. Advanced analytical tools and algorithms are often used for this purpose.
+Quantifying the identified risks through metrics such as VaR, [stress testing](../s/stress_testing_in_trading.md) results, and risk exposure reports is the next step. Advanced analytical tools and algorithms are often used for this purpose.
 
 ### 4. **Implement Controls**
 
@@ -174,4 +174,4 @@ The final step involves reviewing the [risk management](../r/risk_management.md)
 
 ## Conclusion
 
-A comprehensive [Risk Management](../r/risk_management.md) System is vital for the success and stability of [algorithmic trading](../a/algorithmic_trading.md) operations. By incorporating real-time monitoring, pre-trade and post-trade controls, stress testing, and robust technological infrastructure, trading firms can effectively manage various risks. Staying compliant with regulatory requirements and leveraging advanced [risk management](../r/risk_management.md) algorithms further strengthens the [risk management](../r/risk_management.md) framework. Implementing and continuously improving a [Risk Management](../r/risk_management.md) System ensures that the potential benefits of [algorithmic trading](../a/algorithmic_trading.md) are realized while minimizing the associated risks.
+A comprehensive [Risk Management](../r/risk_management.md) System is vital for the success and stability of [algorithmic trading](../a/algorithmic_trading.md) operations. By incorporating real-time monitoring, pre-trade and post-trade controls, [stress testing](../s/stress_testing_in_trading.md), and robust technological infrastructure, trading firms can effectively manage various risks. Staying compliant with regulatory requirements and leveraging advanced [risk management](../r/risk_management.md) algorithms further strengthens the [risk management](../r/risk_management.md) framework. Implementing and continuously improving a [Risk Management](../r/risk_management.md) System ensures that the potential benefits of [algorithmic trading](../a/algorithmic_trading.md) are realized while minimizing the associated risks.

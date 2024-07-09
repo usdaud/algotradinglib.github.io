@@ -36,7 +36,7 @@ Where \( R_M \) is the market return, and \( R_f \) is the risk-free rate.
 
 - **Macroeconomic Factors**: GDP growth, inflation, interest rates
 - **Fundamental Factors**: Earnings, book-to-price ratio, sales growth
-- **Statistical Factors**: Principal components derived from statistical decompositions
+- **Statistical Factors**: [Principal components](../p/principal_components_in_trading.md) derived from statistical decompositions
 
 #### Fama-French Three-Factor Model
 
@@ -46,7 +46,7 @@ A popular multi-factor model includes the Fama-French Three-Factor Model, which 
 
 Here,
 
-- \( SMB \) (Small Minus Big): Captures the size effect, indicating that small-cap stocks tend to outperform large-cap stocks.
+- \( SMB \) (Small Minus Big): Captures the size effect, indicating that small-cap stocks tend to outperform [large-cap stocks](../l/large_cap_stocks.md).
 - \( HML \) (High Minus Low): Captures the value effect, indicating that stocks with high book-to-market ratios outperform those with low book-to-market ratios.
 
 #### Carhart Four-Factor Model
@@ -107,7 +107,7 @@ Dynamic Factor Models (DFMs) incorporate time-varying sensitivities and factor l
 
 ### Machine Learning and Factor Models
 
-Machine learning algorithms can enhance factor models by identifying non-linear relationships and hidden factors. Techniques such as Random Forests, Support Vector Machines (SVM), and Neural Networks are explored for this purpose.
+Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can enhance factor models by identifying non-linear relationships and hidden factors. Techniques such as [Random Forests](../r/random_forests_in_trading.md), [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM), and [Neural Networks](../n/neural_networks_in_trading.md) are explored for this purpose.
 
 ### Robustness and Model Validation
 

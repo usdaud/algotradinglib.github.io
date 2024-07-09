@@ -26,7 +26,7 @@ Different techniques are employed to manage exposure effectively in [algorithmic
 
 6. **[Risk Parity](../r/risk_parity.md):** Allocating investments in a way that each asset contributes equally to the overall risk of the portfolio.
 
-7. **Stress Testing:** Simulating various adverse market conditions to understand potential impacts and adjust strategies accordingly.
+7. **[Stress Testing](../s/stress_testing_in_trading.md):** Simulating various adverse market conditions to understand potential impacts and adjust strategies accordingly.
 
 #### Tools for Exposure Management
 

@@ -77,13 +77,13 @@ Consider an algorithm that utilizes the Median Price Oscillator for a stock trad
 
 While MPO is a powerful tool, it is important to consider certain limitations and factors to enhance its effectiveness:
 
-- **False Signals:** Like any technical indicator, MPO can produce false signals, especially in choppy or sideways market conditions. Algorithms need robust filtering mechanisms to minimize such occurrences.
+- **[False Signals](../f/false_signals_in_trading.md):** Like any technical indicator, MPO can produce [false signals](../f/false_signals_in_trading.md), especially in choppy or sideways market conditions. Algorithms need robust filtering mechanisms to minimize such occurrences.
 - **Parameter Sensitivity:** The choice of the period for the EMA can significantly affect the MPO’s responsiveness. Traders need to optimize these parameters based on historical data and trading goals.
 - **Complementary Indicators:** Using additional indicators like Relative Strength Index (RSI), Moving Average Convergence Divergence (MACD), or Volume can provide a more comprehensive analysis, reducing the risk of reliance on a single indicator.
 
 ## Software Tools and Platforms
 
-Several trading platforms and software tools provide integrated MPO indicators, facilitating its use in [algorithmic trading](../a/algorithmic_trading.md):
+Several trading platforms and [software tools](../s/software_tools_for_trading.md) provide integrated MPO indicators, facilitating its use in [algorithmic trading](../a/algorithmic_trading.md):
 
 - **MetaTrader 4/5:** Popular among retail traders, MetaTrader offers custom indicators and automated trading capabilities, including the Median Price Oscillator.
 - **[NinjaTrader](../n/ninjatrader.md):** This platform supports a wide range of [technical indicators](../t/technical_indicators.md) including MPO, with the ability to develop, test, and execute automated [trading strategies](../t/trading_strategies.md).

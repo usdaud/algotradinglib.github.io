@@ -41,7 +41,7 @@ These involve securitizing the cash flows from life insurance policies. They can
 ## Risks of ILS
 
 1. **Event Risk**: As with any investment, there's the potential for a triggering event that may lead to loss of principal.
-2. **Model Risk**: Relies heavily on risk models, which may not fully capture the complexity of real-world events.
+2. **Model Risk**: Relies heavily on [risk models](../r/risk_models_in_trading.md), which may not fully capture the complexity of real-world events.
 3. **[Liquidity Risk](../l/liquidity_risk.md)**: Some ILS can be difficult to sell in secondary markets.
 4. **Regulatory and Legal Risks**: Varying regulatory environments can influence the structure and performance of ILS.
 

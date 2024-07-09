@@ -25,7 +25,7 @@ In weak form efficient markets, the use of historical data to predict future pri
 
 For semi-strong form efficient markets, the use of any publicly available information, including financial statements and news reports, should already be incorporated into stock prices. Consequently, [algorithmic trading](../a/algorithmic_trading.md) strategies need to react exceedingly quickly to new public information to gain any advantage.
 
- - **News-Based [Trading Algorithms](../t/trading_algorithms.md)**: These algorithms parse news articles, social media posts, and press releases using natural language processing (NLP) techniques to act on new information as quickly as possible.
+ - **News-Based [Trading Algorithms](../t/trading_algorithms.md)**: These algorithms parse news articles, social media posts, and press releases using [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) techniques to act on new information as quickly as possible.
  - **[Earnings Announcements](../e/earnings_announcements.md)**: [Trading algorithms](../t/trading_algorithms.md) analyze earnings reports and related metrics rapidly to predict price movements.
  
 ### Strong Form Efficiency and Algo Trading
@@ -41,9 +41,9 @@ Although EMH provides a theoretical framework, real-world markets often exhibit 
 
 ### Behavioral Finance
 
-[Behavioral finance](../b/behavioral_finance.md) suggests that cognitive biases and emotional responses cause deviations from pure rationality in trading decisions.
+[Behavioral finance](../b/behavioral_finance.md) suggests that [cognitive biases](../c/cognitive_biases_in_trading.md) and emotional responses cause deviations from pure rationality in trading decisions.
 
-- **Herd Behavior**: Tendency of investors to follow the crowd.
+- **[Herd Behavior](../h/herd_behavior_in_trading.md)**: Tendency of investors to follow the crowd.
 - **Overconfidence**: Overestimating one's own ability to predict market movements.
 
 ### Market Anomalies
@@ -70,7 +70,7 @@ Renaissance Technologies is a prominent hedge fund known for its quantitative an
 
 ### Two Sigma
 
-Two Sigma is a firm that combines data science and technology to create sophisticated [trading strategies](../t/trading_strategies.md).
+Two Sigma is a firm that combines [data science](../d/data_science_in_trading.md) and technology to create sophisticated [trading strategies](../t/trading_strategies.md).
 
 - [Two Sigma](https://www.twosigma.com/)
 

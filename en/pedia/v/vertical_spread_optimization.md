@@ -40,7 +40,7 @@ The Greeks (Delta, Gamma, Theta, Vega, and Rho) measure the sensitivity of an op
 
 ### Machine Learning
 
-Applying machine learning algorithms like Support Vector Machines (SVM) and Neural Networks can help in predicting the best strike prices and expiration dates for maximizing returns.
+Applying machine [learning algorithms](../l/learning_algorithms_in_trading.md) like [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM) and [Neural Networks](../n/neural_networks_in_trading.md) can help in predicting the best strike prices and expiration dates for maximizing returns.
 
 ### Historical Data Analysis
 

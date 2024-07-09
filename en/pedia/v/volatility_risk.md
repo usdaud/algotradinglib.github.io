@@ -27,7 +27,7 @@ Several metrics and models are used to measure volatility risk:
 
 ### EGARCH Model (Exponential GARCH)
 
-An extension of the GARCH model, the EGARCH model allows for asymmetries, where positive and negative returns can have different impacts on volatility. This is particularly useful for understanding the leverage effect.
+An extension of the GARCH model, the EGARCH model allows for asymmetries, where positive and negative returns can have different impacts on volatility. This is particularly useful for understanding the [leverage effect](../l/leverage_effect_in_trading.md).
 
 ### Stochastic Volatility Models
 
@@ -59,7 +59,7 @@ Using models such as GARCH, EGARCH, and stochastic volatility, traders can forec
 
 ### Stress Testing
 
-Stress testing involves simulating extreme market conditions to assess the potential impact on a portfolio. By understanding how a portfolio might perform under high volatility scenarios, traders can develop strategies to mitigate potential losses.
+[Stress testing](../s/stress_testing_in_trading.md) involves simulating extreme market conditions to assess the potential impact on a portfolio. By understanding how a portfolio might perform under high volatility scenarios, traders can develop strategies to mitigate potential losses.
 
 ### Position Sizing
 
@@ -73,7 +73,7 @@ The [Black-Scholes model](../b/black-scholes_model.md), one of the most famous m
 
 ### Long-Term Capital Management (LTCM)
 
-The collapse of LTCM in 1998 is a prime example of the dangers of underestimating volatility risk. The hedge fund used sophisticated mathematical models to take on large leveraged positions, which backfired dramatically in the face of unexpected market volatility.
+The collapse of LTCM in 1998 is a prime example of the dangers of underestimating volatility risk. The hedge fund used sophisticated [mathematical models](../m/mathematical_models_in_trading.md) to take on large leveraged positions, which backfired dramatically in the face of unexpected market volatility.
 
 ### JP Morgan’s “Whale” Trade
 

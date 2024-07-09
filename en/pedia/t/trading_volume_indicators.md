@@ -36,7 +36,7 @@ The Volume-Weighted Average Price (VWAP) provides the average price of a securit
 ## Practical Applications and Examples
 
 ### Trend Confirmation with OBV
-When a stock's price trend is matched by a corresponding trend in OBV, it confirms the trend's legitimacy. This confirmation helps traders avoid false signals and maintain their positions with confidence.
+When a stock's price trend is matched by a corresponding trend in OBV, it confirms the trend's legitimacy. This confirmation helps traders avoid [false signals](../f/false_signals_in_trading.md) and maintain their positions with confidence.
 
 ### Spotting Divergences with A/D Line
 Divergences between the A/D Line and price can signal potential reversals. If a stock's price is rising while the A/D Line is falling, it suggests that the upward price movement is lacking volume support, hinting at a possible reversal.

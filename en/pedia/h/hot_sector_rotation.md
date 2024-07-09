@@ -32,7 +32,7 @@ Several factors drive the rotation of sectors within a portfolio:
 
 Algo-[trading strategies](../t/trading_strategies.md) for hot [sector rotation](../s/sector_rotation.md) are built on complex algorithms capable of processing vast amounts of data to identify optimal sector reallocation timings. The development process typically includes:
 - **Data Collection**: Gathering historical and real-time data from various sources, including financial markets, economic reports, news articles, and social media.
-- **Modeling and Optimization**: Creating predictive models using statistical methods, machine learning, and artificial intelligence to forecast [sector performance](../s/sector_performance.md).
+- **Modeling and Optimization**: Creating [predictive models](../p/predictive_models_in_trading.md) using statistical methods, machine learning, and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to forecast [sector performance](../s/sector_performance.md).
 - **[Backtesting](../b/backtesting.md)**: Testing the effectiveness of the models on historical data to ensure reliability and efficiency before deployment.
 - **[Execution Algorithms](../e/execution_algorithms.md)**: Designing algorithms capable of making real-time trading decisions, ensuring they can execute large orders with minimal market impact.
 
@@ -50,7 +50,7 @@ Algo-[trading strategies](../t/trading_strategies.md) for hot [sector rotation](
 - **Diversification**: Spreading investments across multiple sectors to mitigate sector-specific risks.
 - **[Stop-Loss Orders](../s/stop-loss_orders.md)**: Automating sell orders to limit losses if a sector underperforms.
 - **Rebalancing**: Periodically adjusting the portfolio to maintain targeted risk and return profiles.
-- **Stress Testing**: Simulating adverse market conditions to evaluate the resilience of the [sector rotation](../s/sector_rotation.md) strategy.
+- **[Stress Testing](../s/stress_testing_in_trading.md)**: Simulating adverse market conditions to evaluate the resilience of the [sector rotation](../s/sector_rotation.md) strategy.
 
 ## Practical Examples and Case Studies
 
@@ -60,7 +60,7 @@ JPMorgan Chase & Co. [website](https://www.jpmorganchase.com) employs sophistica
 
 ### BlackRock
 
-BlackRock [website](https://www.blackrock.com) is another leading institution utilizing [sector rotation](../s/sector_rotation.md) in their various funds and ETFs. Their investment strategies incorporate macroeconomic analysis and machine learning algorithms to optimize sector exposure, enhancing [portfolio performance](../p/portfolio_performance.md).
+BlackRock [website](https://www.blackrock.com) is another leading institution utilizing [sector rotation](../s/sector_rotation.md) in their various funds and ETFs. Their investment strategies incorporate macroeconomic analysis and machine [learning algorithms](../l/learning_algorithms_in_trading.md) to optimize sector exposure, enhancing [portfolio performance](../p/portfolio_performance.md).
 
 ### Personal Wealth Management Software
 
@@ -78,7 +78,7 @@ High-frequency trading, a subset of algo-trading, can also complement [sector ro
 
 ### Blockchain and Decentralized Finance (DeFi)
 
-Blockchain technology and DeFi platforms are emerging as potential disruptors in [sector rotation](../s/sector_rotation.md) strategies. Decentralized applications (DApps) allow for transparent and tamper-proof recording of transactions, which can be leveraged for secure and efficient [portfolio rebalancing](../p/portfolio_rebalancing.md). Furthermore, smart contracts can automate [sector rotation](../s/sector_rotation.md) strategies based on predefined conditions, reducing the need for intermediary intervention.
+[Blockchain](../b/blockchain_in_trading.md) technology and DeFi platforms are emerging as potential disruptors in [sector rotation](../s/sector_rotation.md) strategies. Decentralized applications (DApps) allow for transparent and tamper-proof recording of transactions, which can be leveraged for secure and efficient [portfolio rebalancing](../p/portfolio_rebalancing.md). Furthermore, [smart contracts](../s/smart_contracts_in_trading.md) can automate [sector rotation](../s/sector_rotation.md) strategies based on predefined conditions, reducing the need for intermediary intervention.
 
 ## Challenges and Considerations
 

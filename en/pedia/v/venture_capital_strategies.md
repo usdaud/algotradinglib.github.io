@@ -15,7 +15,7 @@ Startup capital is used for companies that are in the development phase but have
 Early-stage capital is provided to companies that have finalized their business plans and have started operations but need further funds to stimulate production and sales. This type of funding generally supports further product development, initial marketing, sales, and even additional market research. These funds can help a company reach the stage of attaining revenue from its products or services.
 
 ### Growth Capital
-Growth capital, also known as expansion capital, is provided for companies that are looking to expand operations, enter new markets, or finance significant sales and marketing campaigns. These companies are more established than startups but are still relatively young and require large sums of money to sustain high growth rates. Growth capital often helps companies to scale their operations without the constraints of bank financing.
+Growth capital, also known as expansion capital, is provided for companies that are looking to expand operations, enter new markets, or finance significant sales and marketing campaigns. These companies are more established than startups but are still relatively young and require large sums of money to sustain high [growth rates](../g/growth_rates_in_trading.md). Growth capital often helps companies to scale their operations without the constraints of bank financing.
 
 ### Late-Stage Capital
 Late-stage capital is provided to more mature companies that have already developed their products or services and reached a stable rate of revenue generation. These funds are often used for scaling operations, entering new markets, or preparing for an IPO. Late-stage investments are generally less risky than early or growth-stage investments but still offer substantial returns.
@@ -43,7 +43,7 @@ A critical component of the investment process is evaluating the business model 
 The management team is often considered the most critical factor in the success of a startup. Investors look for experienced and competent teams with a proven track record of success. Assessing the management team involves evaluating their background, expertise, and ability to execute the business plan. A strong management team can significantly increase the likelihood of a company's success.
 
 ### Financial Projections
-Investors also consider the financial projections of the target company. These projections include revenue forecasts, expense estimates, and profit margins. Analyzing financial projections helps investors understand the potential return on investment and the financial health of the company. Accurate and realistic financial projections are crucial for making informed investment decisions.
+Investors also consider the financial projections of the target company. These projections include revenue forecasts, expense estimates, and [profit margins](../p/profit_margins_in_trading.md). Analyzing financial projections helps investors understand the potential return on investment and the financial health of the company. Accurate and realistic financial projections are crucial for making informed investment decisions.
 
 ## Venture Capital Exit Strategies
 

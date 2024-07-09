@@ -16,7 +16,7 @@ Where:
 Here, \( R_p - R_f \) is also known as the excess return, and the ratio of this to the standard deviation provides a standardized way to evaluate the effectiveness of a portfolio's performance accounting for the level of risk.
 
 ### Components:
-1. **Expected Portfolio Return (\( R_p \))**: This is the return that an investor predicts or expects from their portfolio, based on historical performance or predictive models.
+1. **Expected Portfolio Return (\( R_p \))**: This is the return that an investor predicts or expects from their portfolio, based on historical performance or [predictive models](../p/predictive_models_in_trading.md).
   
 2. **Risk-Free Rate (\( R_f \))**: Typically, the yield on government bonds (such as U.S. Treasury bills) is used as the risk-free rate since they are considered free from default risk.
   
@@ -53,7 +53,7 @@ One of the primary methods to optimize the [Sharpe Ratio](../s/sharpe_ratio.md) 
 
 ### Enhancements and Extensions
 
-- **[Robust Optimization](../r/robust_optimization.md)**: Considering the estimation errors in expected returns and the covariance matrix. Incorporating uncertainty can lead to more realistic portfolio constructions.
+- **[Robust Optimization](../r/robust_optimization.md)**: Considering the estimation errors in expected returns and the covariance matrix. Incorporating [uncertainty](../u/uncertainty_in_trading.md) can lead to more realistic portfolio constructions.
   
 - **[Black-Litterman Model](../b/black-litterman_model.md)**: Adds investor views to the [Mean-Variance Optimization](../m/mean-variance_optimization.md) framework for a more tailored and subjective point of view on expected returns.
   
@@ -61,7 +61,7 @@ One of the primary methods to optimize the [Sharpe Ratio](../s/sharpe_ratio.md) 
 
 ### Common Pitfalls and Considerations
 
-- **Estimation Errors**: The accuracy of input parameters like expected return, risk-free rate, and standard deviation can greatly affect the resulting [Sharpe Ratio](../s/sharpe_ratio.md). Techniques like shrinkage estimation and robust statistics can help.
+- **Estimation Errors**: The accuracy of input parameters like expected return, risk-free rate, and standard deviation can greatly affect the resulting [Sharpe Ratio](../s/sharpe_ratio.md). Techniques like shrinkage estimation and [robust statistics](../r/robust_statistics_in_trading.md) can help.
   
 - **Non-normality of Returns**: The assumption of normally distributed returns might not always hold true in real market conditions. Consideration of skewness, kurtosis, and other higher moments can improve the optimization.
 
@@ -69,7 +69,7 @@ One of the primary methods to optimize the [Sharpe Ratio](../s/sharpe_ratio.md) 
 
 ### Practical Implementation
 
-Practical implementation of [Sharpe Ratio](../s/sharpe_ratio.md) optimization involves leveraging programming languages and software tools like Python, R, MATLAB, and specialized platforms. Below is a conceptual walkthrough using Python:
+Practical implementation of [Sharpe Ratio](../s/sharpe_ratio.md) optimization involves leveraging programming languages and [software tools](../s/software_tools_for_trading.md) like Python, R, MATLAB, and specialized platforms. Below is a conceptual walkthrough using Python:
 
 **Libraries and setup:**
 ```python

@@ -23,7 +23,7 @@ Data-snooping bias happens when multiple [trading rules](../t/trading_rules.md) 
 Selection bias emerges when the sample data is not representative of the entire universe of data. This can occur due to manual selection or automated filtering processes that inadvertently exclude critical data.
 
 ### 7. Cognitive Bias
-Cognitive biases are systematic patterns of deviation from norm or rationality in judgment, which include anchoring, overconfidence, and herd behavior. These biases can heavily influence trading decisions, both algorithmic and human-driven.
+[Cognitive biases](../c/cognitive_biases_in_trading.md) are systematic patterns of deviation from norm or rationality in judgment, which include anchoring, overconfidence, and [herd behavior](../h/herd_behavior_in_trading.md). These biases can heavily influence trading decisions, both algorithmic and human-driven.
 
 ## Debiasing Techniques
 
@@ -31,7 +31,7 @@ Cognitive biases are systematic patterns of deviation from norm or rationality i
 Cross-validation is a statistical method used to estimate the skill of a model on unseen data. It helps in reducing overfitting by partitioning the dataset into complementary subsets. The model is trained on the training set and validated on the validation set. Common types of cross-validation include k-fold, stratified, and leave-one-out cross-validation.
 
 ### 2. Bootstrapping
-Bootstrapping involves repeatedly sampling from the dataset with replacement and evaluating the model on each sample. This provides a robust estimate of the model's uncertainty and aids in mitigating the risk of overfitting, particularly in small datasets.
+Bootstrapping involves repeatedly sampling from the dataset with replacement and evaluating the model on each sample. This provides a robust estimate of the model's [uncertainty](../u/uncertainty_in_trading.md) and aids in mitigating the risk of overfitting, particularly in small datasets.
 
 ### 3. Regularization Techniques
 Regularization methods such as Lasso (L1), Ridge (L2), and Elastic Net impose penalties on model coefficients to prevent large weights that can lead to overfitting. By adding these constraints, the model is less likely to overfit to the training data and more likely to generalize to new data.
@@ -55,7 +55,7 @@ Conducting backtests on periods of data that were not used in the model developm
 Anchored walk-forward cross-validation partitions the data into sequential training and testing periods, maintaining the chronological order. This method simulates real trading conditions and helps evaluate the model's time-series generalization.
 
 ### 10. Bayesian Methods
-Bayesian methods incorporate prior knowledge into the model training process, providing a probabilistic framework to handle uncertainty. [Bayesian inference](../b/bayesian_inference.md) can help mitigate biases by integrating prior distributions and updating beliefs in a systematic manner.
+Bayesian methods incorporate prior knowledge into the model training process, providing a probabilistic framework to handle [uncertainty](../u/uncertainty_in_trading.md). [Bayesian inference](../b/bayesian_inference.md) can help mitigate biases by integrating prior distributions and updating beliefs in a systematic manner.
 
 ### 11. Probabilistic Programming
 Probabilistic programming languages such as Stan, PyMC3, and TensorFlow Probability offer tools to define and infer complex probabilistic models. These languages enable the modeling of uncertainties and biases more explicitly and rigorously.
@@ -67,10 +67,10 @@ Quantile regression estimates the conditional quantiles of a response variable d
 Robust loss functions like Huber loss and quantile loss are designed to be less sensitive to outliers. Using these loss functions can mitigate the impact of extreme values that may distort the model's performance.
 
 ### 14. Regularized Logistic Regression
-Regularized logistic regression extends traditional logistic regression by including regularization terms to prevent overfitting. Techniques like L1 (Lasso) and L2 (Ridge) regularization are commonly used.
+Regularized [logistic regression](../l/logistic_regression_in_trading.md) extends traditional [logistic regression](../l/logistic_regression_in_trading.md) by including regularization terms to prevent overfitting. Techniques like L1 (Lasso) and L2 (Ridge) regularization are commonly used.
 
 ### 15. Feature Selection and Dimensionality Reduction
-Techniques such as Principal Component Analysis (PCA), Independent Component Analysis (ICA), and t-Distributed Stochastic Neighbor Embedding (t-SNE) help reduce the number of features, thereby mitigating overfitting and enhancing model interpretability.
+Techniques such as [Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA), Independent Component Analysis (ICA), and t-Distributed Stochastic Neighbor Embedding (t-SNE) help reduce the number of features, thereby mitigating overfitting and enhancing model interpretability.
 
 ### 16. Robust Statistical Tests
 Robust statistical tests like the Mann-Whitney U test and the Wilcoxon signed-rank test are less influenced by non-normality and outliers. These tests provide more reliable performance evaluations in the presence of noise and skewed distributions.

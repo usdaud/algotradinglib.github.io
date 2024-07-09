@@ -29,9 +29,9 @@ Relative Performance Analysis is extensively used in [portfolio management](../p
 
 ### Algorithmic Trading
 In [algorithmic trading](../a/algorithmic_trading.md), RPA is used to:
-- **Optimize Algorithms**: By comparing the performance of [trading algorithms](../t/trading_algorithms.md) against benchmarks, traders can fine-tune parameters, enhance predictive models, and improve overall performance.
+- **Optimize Algorithms**: By comparing the performance of [trading algorithms](../t/trading_algorithms.md) against benchmarks, traders can fine-tune parameters, enhance [predictive models](../p/predictive_models_in_trading.md), and improve overall performance.
 - **[Risk Management](../r/risk_management.md)**: RPA helps in identifying underperforming strategies early, allowing traders to mitigate risks and reallocate capital efficiently.
-- **[Backtesting](../b/backtesting.md) and Simulation**: Historical performance against benchmarks aids in validating the robustness and efficacy of [trading strategies](../t/trading_strategies.md) before deployment in live markets.
+- **[Backtesting](../b/backtesting.md) and [Simulation](../s/simulation_in_trading.md)**: Historical performance against benchmarks aids in validating the robustness and efficacy of [trading strategies](../t/trading_strategies.md) before deployment in live markets.
 
 ### Investment Research
 RPA also plays a crucial role in investment research. Analysts use relative [performance metrics](../p/performance_metrics.md) to:
@@ -49,7 +49,7 @@ A hedge fund manager compares the fund's performance against the S&P 500 index o
 ### Case Study 2: Algorithmic Trading Strategy
 A team of quant traders develops a momentum-based trading algorithm aimed at exploiting short-term price movements. Utilizing RPA, they compare the algorithm’s returns with a market index:
 - Initial [backtesting](../b/backtesting.md) shows the algorithm outperforming the benchmark index by 15% annually.
-- Further simulation reveals higher relative performance during periods of high market volatility.
+- Further [simulation](../s/simulation_in_trading.md) reveals higher relative performance during periods of high market volatility.
 - Adjustments to the algorithm based on RPA findings result in improved consistency and reduced drawdowns.
 
 ## Limitations and Challenges

@@ -10,7 +10,7 @@ In statistical terms, the X-Y Relationship represents the correlation between tw
 
 The X-Y Relationship helps traders and analysts to understand how changes in one variable (X) can affect another variable (Y). Establishing a strong X-Y Relationship is essential for:
 - **[Predictive Modeling](../p/predictive_modeling.md):** Identifying variables that have predictive power for forecasting market movements.
-- **[Risk Management](../r/risk_management.md):** Understanding risk factors that influence asset prices.
+- **[Risk Management](../r/risk_management.md):** Understanding [risk factors](../r/risk_factors_in_trading.md) that influence asset prices.
 - **Strategy Development:** Creating [algorithmic trading](../a/algorithmic_trading.md) strategies that can capitalize on identified relationships.
 
 ## Types of X-Y Relationships
@@ -23,7 +23,7 @@ A linear relationship between X and Y implies that changes in X lead to proporti
 
 #### Application in Algorithmic Trading
 
-Linear models are straightforward to interpret and are widely used in:
+[Linear models](../l/linear_models_in_trading.md) are straightforward to interpret and are widely used in:
 - **[Trend Analysis](../t/trend_analysis.md):** Identifying trends in price movements.
 - **[Mean Reversion](../m/mean_reversion.md) Strategies:** Predicting that a security's price will revert to its historical mean.
 
@@ -33,7 +33,7 @@ Non-linear relationships imply that changes in X lead to non-proportional change
 
 #### Application in Algorithmic Trading
 
-Non-linear models capture complex market behavior and are used in:
+Non-[linear models](../l/linear_models_in_trading.md) capture complex market behavior and are used in:
 - **Volatility Prediction:** Understanding how market variables impact volatility non-linearly.
 - **[Automated Trading Systems](../a/automated_trading_systems.md):** Leveraging machine learning to identify intricate patterns and make trading decisions.
 
@@ -56,11 +56,11 @@ Correlation measures the strength and direction of a linear relationship between
 
 ### Machine Learning Techniques
 
-Advanced machine learning techniques like neural networks, random forests, and support vector machines are used to identify non-linear and complex relationships.
+Advanced machine learning techniques like [neural networks](../n/neural_networks_in_trading.md), [random forests](../r/random_forests_in_trading.md), and [support vector machines](../s/support_vector_machines_in_trading.md) are used to identify non-linear and complex relationships.
 
 #### Example Companies Using Machine Learning in Trading
 - **Kensho Technologies** (https://sandbox.kensho.com/): Utilizes advanced analytics and machine learning to predict market movements.
-- **Two Sigma** (https://www.twosigma.com/): Employs machine learning and data science to develop [trading strategies](../t/trading_strategies.md).
+- **Two Sigma** (https://www.twosigma.com/): Employs machine learning and [data science](../d/data_science_in_trading.md) to develop [trading strategies](../t/trading_strategies.md).
 
 ## Quantitative Models and Algorithmic Trading
 

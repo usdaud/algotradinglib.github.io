@@ -42,7 +42,7 @@ Ongoing monitoring and evaluation of [trading performance](../t/trading_performa
 #### 6. Infrastructure and Platform
 A unified trading framework requires a robust infrastructure to support its components. Important aspects include:
 
-- **Cloud computing**: Leveraging cloud services for scalability, flexibility, and cost-effectiveness.
+- **[Cloud computing](../c/cloud_computing_in_trading.md)**: Leveraging cloud services for scalability, flexibility, and cost-effectiveness.
 - **High-performance computing**: Utilizing powerful hardware and parallel processing capabilities to handle computationally intensive tasks.
 - **APIs and integration**: Ensuring seamless integration with external systems, such as brokers, exchanges, and third-party service providers.
 
@@ -60,10 +60,10 @@ Numerous companies offer solutions and services to support the implementation of
 
 - **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](https://www.quantconnect.com/) offers an open-source [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools for strategy development, [backtesting](../b/backtesting.md), and deployment.
 - **[AlgoTrader](../a/algotrader.md)**: [AlgoTrader](https://www.algotrader.com/) provides a comprehensive [algorithmic trading](../a/algorithmic_trading.md) platform with features for data acquisition, strategy development, execution, and [risk management](../r/risk_management.md).
-- **QuantHouse**: [QuantHouse](https://www.quanthouse.com/) delivers end-to-end solutions for market data, trading infrastructure, and algo execution.
+- **[QuantHouse](../q/quanthouse.md)**: [QuantHouse](https://www.quanthouse.com/) delivers end-to-end solutions for market data, trading infrastructure, and algo execution.
 - **Numerai**: [Numerai](https://numer.ai/) is a hedge fund powered by a global network of data scientists who develop machine learning models for trading.
 - **Kdb+**: [Kx Systems](https://kx.com/), known for its kdb+ database, is widely used in financial institutions for time-series data analysis and high-frequency trading applications.
 
 ### Conclusion
 
-A Unified Trading Framework represents the convergence of various elements essential for modern [algorithmic trading](../a/algorithmic_trading.md). By integrating market data acquisition, storage, strategy development, execution, and performance monitoring, a UTF provides traders with an efficient and scalable solution to navigate the complexities of financial markets. While the implementation of such a framework can be challenging, the potential benefits in terms of performance, [risk management](../r/risk_management.md), and operational efficiency make it a worthwhile endeavor for serious traders and financial institutions.
+A Unified Trading Framework represents the convergence of various elements essential for modern [algorithmic trading](../a/algorithmic_trading.md). By integrating market data acquisition, storage, strategy development, execution, and performance monitoring, a UTF provides traders with an efficient and scalable solution to navigate the complexities of financial markets. While the implementation of such a framework can be challenging, the potential benefits in terms of performance, [risk management](../r/risk_management.md), and [operational efficiency](../o/operational_efficiency_in_trading.md) make it a worthwhile endeavor for serious traders and financial institutions.

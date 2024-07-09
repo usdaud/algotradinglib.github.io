@@ -73,7 +73,7 @@ Reversals are often driven by fear and greed. Recognizing these emotional extrem
 ### Real-World Applications and Considerations
 
 #### 1. Automated Trading Systems
-[Algorithmic trading](../a/algorithmic_trading.md) systems can be programmed to identify [reversal patterns](../r/reversal_patterns.md) and execute trades automatically. This removes emotional bias and can process large volumes of data quickly. Examples of automated trading platforms include MetaTrader 4 (MT4) and Interactive Brokers' Trader Workstation (TWS).
+[Algorithmic trading](../a/algorithmic_trading.md) systems can be programmed to identify [reversal patterns](../r/reversal_patterns.md) and execute trades automatically. This removes emotional bias and can process large volumes of data quickly. Examples of automated trading platforms include MetaTrader 4 (MT4) and [Interactive Brokers](../i/interactive_brokers.md)' Trader Workstation (TWS).
 
 #### 2. Backtesting Strategies
 Before implementing a reversal [day trading](../d/day_trading.md) strategy, it is advisable to backtest it using historical data to validate its effectiveness. This helps in refining the strategy and understanding its potential performance.

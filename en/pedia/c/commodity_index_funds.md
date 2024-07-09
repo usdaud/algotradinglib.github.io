@@ -63,7 +63,7 @@ Several financial institutions and fund managers offer commodity index funds:
 
 2. **Contango and Backwardation**: Futures-based funds can suffer from negative roll yields during contango markets, where future prices are higher than spot prices, and benefit from positive roll yields in backwardation markets, where future prices are lower than spot prices.
 
-3. **Regulatory Risks**: Changes in government policies, trade tariffs, or regulations affecting commodities can impact prices.
+3. **Regulatory Risks**: Changes in [government policies](../g/government_policies_in_trading.md), trade tariffs, or regulations affecting commodities can impact prices.
 
 4. **Credit Risk**: Using [derivatives](../d/derivatives.md) like swaps introduces [counterparty risk](../c/counterparty_risk.md), where the other party in the agreement might default.
 

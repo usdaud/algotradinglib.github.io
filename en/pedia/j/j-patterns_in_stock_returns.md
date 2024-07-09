@@ -25,10 +25,10 @@ The identification and exploitation of J-patterns offer valuable opportunities f
 
 ### Strategy Development
 
-Quantitative strategies leveraging J-patterns involve several key steps:
-- **Signal Detection**: Algorithms are designed to detect initial declines and potential bottoms through [technical indicators](../t/technical_indicators.md), [volume analysis](../v/volume_analysis.md), and machine learning techniques.
+[Quantitative strategies](../q/quantitative_strategies_in_trading.md) leveraging J-patterns involve several key steps:
+- **[Signal Detection](../s/signal_detection_in_trading.md)**: Algorithms are designed to detect initial declines and potential bottoms through [technical indicators](../t/technical_indicators.md), [volume analysis](../v/volume_analysis.md), and machine learning techniques.
 - **Entry and Exit Points**: Automated systems execute trades to capitalize on the rebound, setting precise entry and exit points based on historical data and real-time adjustments.
-- **[Risk Management](../r/risk_management.md)**: Effective risk controls are essential to hedge against false signals and unexpected market conditions.
+- **[Risk Management](../r/risk_management.md)**: Effective risk controls are essential to hedge against [false signals](../f/false_signals_in_trading.md) and unexpected market conditions.
 
 ### Example of a J-Pattern Algorithm
 
@@ -81,8 +81,8 @@ Implementing sophisticated J-[pattern recognition](../p/pattern_recognition.md) 
 ### Enhanced Algorithmic Models
 
 Future developments in J-pattern detection strategies may focus on:
-- **Deep Learning**: Incorporating neural networks to uncover deeper, non-linear relationships in data sets.
-- **Big Data Analytics**: Utilizing vast amounts of historical and [alternative data](../a/alternative_data.md) to enhance [pattern recognition](../p/pattern_recognition.md).
+- **Deep Learning**: Incorporating [neural networks](../n/neural_networks_in_trading.md) to uncover deeper, non-linear relationships in data sets.
+- **[Big Data Analytics](../b/big_data_analytics_in_trading.md)**: Utilizing vast amounts of historical and [alternative data](../a/alternative_data.md) to enhance [pattern recognition](../p/pattern_recognition.md).
 - **Hybrid Models**: Combining [technical analysis](../t/technical_analysis.md) with fundamental factors to mitigate the limitations of each approach individually.
 
 ### Regulatory Considerations

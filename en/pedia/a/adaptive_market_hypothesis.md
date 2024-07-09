@@ -28,9 +28,9 @@ The Adaptive Market Hypothesis (AMH) is an influential and evolving theory in [f
 
 ## Case Studies and Practical Applications
 
-**[Algorithmic Trading](../a/algorithmic_trading.md):** AMH has critical implications for the realm of [algorithmic trading](../a/algorithmic_trading.md). Algorithms must be designed to adapt to changing market conditions rather than relying on static models. Machine learning and artificial intelligence have become indispensable in creating adaptive [trading strategies](../t/trading_strategies.md) that align with the principles of AMH.
+**[Algorithmic Trading](../a/algorithmic_trading.md):** AMH has critical implications for the realm of [algorithmic trading](../a/algorithmic_trading.md). Algorithms must be designed to adapt to changing market conditions rather than relying on static models. Machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) have become indispensable in creating adaptive [trading strategies](../t/trading_strategies.md) that align with the principles of AMH.
 
-**Behavioral Insights:** Incorporating [behavioral finance](../b/behavioral_finance.md) into [trading models](../t/trading_models.md) aligns well with AMH. Understanding that traders often react irrationally due to cognitive biases and emotional responses means that predicting market behavior requires more than just traditional [quantitative analysis](../q/quantitative_analysis.md).
+**Behavioral Insights:** Incorporating [behavioral finance](../b/behavioral_finance.md) into [trading models](../t/trading_models.md) aligns well with AMH. Understanding that traders often react irrationally due to [cognitive biases](../c/cognitive_biases_in_trading.md) and emotional responses means that predicting market behavior requires more than just traditional [quantitative analysis](../q/quantitative_analysis.md).
 
 **Market Crashes and Bubbles:** AMH provides explanatory power for phenomena like market crashes and bubbles. Under the EMH, such events are often seen as anomalies, while AMH views them as outcomes of adaptive but boundedly rational behavior of market participants.
 
@@ -50,7 +50,7 @@ The Adaptive Market Hypothesis (AMH) is an influential and evolving theory in [f
 
 **Interdisciplinary Approaches:** Future research in AMH is likely to benefit from more interdisciplinary approaches, particularly those that combine evolutionary biology, psychology, and [computational finance](../c/computational_finance.md).
 
-**Advanced Machine Learning:** The incorporation of advanced machine learning techniques can further refine adaptive [trading strategies](../t/trading_strategies.md). Techniques such as reinforcement learning and neural networks hold promise for developing more resilient and adaptive algorithmic systems.
+**Advanced Machine Learning:** The incorporation of advanced machine learning techniques can further refine adaptive [trading strategies](../t/trading_strategies.md). Techniques such as reinforcement learning and [neural networks](../n/neural_networks_in_trading.md) hold promise for developing more resilient and adaptive algorithmic systems.
 
 **Empirical Validation:** More empirical studies are needed to validate the adaptive market principles. These studies should focus on different market conditions, regulatory environments, and investor behaviors to provide a robust foundation for AMH.
 

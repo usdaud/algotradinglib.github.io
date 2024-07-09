@@ -75,11 +75,11 @@ The DCC model, proposed by Robert Engle, allows for the modeling of time-varying
 
 ### Principal Component Analysis (PCA)
 
-PCA is a dimensionality reduction technique that can simplify the complexity of high-dimensional correlation matrices. By transforming the data into a set of orthogonal components that explain the maximum variance, PCA helps in identifying the primary sources of correlation risk.
+PCA is a [dimensionality reduction](../d/dimensionality_reduction_in_trading.md) technique that can simplify the complexity of high-dimensional correlation matrices. By transforming the data into a set of orthogonal components that explain the maximum variance, PCA helps in identifying the primary sources of correlation risk.
 
 ### Machine Learning Approaches
 
-With advancements in machine learning, techniques such as clustering, neural networks, and deep learning can be employed to uncover and predict complex correlations. These methods can handle large datasets and non-linear relationships more efficiently than traditional statistical methods.
+With advancements in machine learning, techniques such as clustering, [neural networks](../n/neural_networks_in_trading.md), and deep learning can be employed to uncover and predict complex correlations. These methods can handle large datasets and non-linear relationships more efficiently than traditional statistical methods.
 
 ### Regime-Switching Models
 

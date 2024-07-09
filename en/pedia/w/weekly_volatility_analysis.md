@@ -6,7 +6,7 @@ Weekly [volatility analysis](../v/volatility_analysis.md) is a fundamental aspec
 
 1. **[Risk Management](../r/risk_management.md)**: Volatility is a key measure of risk. Understanding weekly volatility helps traders and investors manage their exposure to potential price swings.
 2. **Option Pricing**: Options pricing models, such as the [Black-Scholes model](../b/black-scholes_model.md), require volatility input to estimate the fair value of options.
-3. **Market Sentiment**: Volatility can indicate market uncertainty or confidence. High volatility usually coincides with market events, economic news, or earnings reports.
+3. **Market Sentiment**: Volatility can indicate market [uncertainty](../u/uncertainty_in_trading.md) or confidence. High volatility usually coincides with market events, economic news, or earnings reports.
 4. **Strategic Planning**: Algorithims need precise volatility measures to adapt [trading strategies](../t/trading_strategies.md) accordingly, such as setting stop-losses or leveraging positions.
 
 ## Measuring Volatility
@@ -31,7 +31,7 @@ Volatility is commonly measured using statistical techniques. The methods and to
 
 3. **Implied Volatility (IV)**: Extracted from option prices, implied volatility represents the market's expectation of future price volatility.
 
-4. **Average True Range (ATR)**: A [technical analysis](../t/technical_analysis.md) indicator that measures market volatility by decomposing the entire range of an asset price for a specific period. It is expressed as follows:
+4. **[Average True Range](../a/average_true_range_(atr).md) (ATR)**: A [technical analysis](../t/technical_analysis.md) indicator that measures market volatility by decomposing the entire range of an asset price for a specific period. It is expressed as follows:
 
    \[
    ATR = \frac{1}{n} \sum_{t=1}^{n} TR_t

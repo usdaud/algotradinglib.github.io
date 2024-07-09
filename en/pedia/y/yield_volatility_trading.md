@@ -43,7 +43,7 @@ An interest rate swap is a derivative contract in which two parties exchange cas
 
 #### Volatility-Based Strategies
 - **Straddle**: A neutral options strategy that involves buying both a call and a put option with the same strike price and expiration date, betting on increased volatility.
-- **Strangle**: Similar to a straddle but with different strike prices for the call and [put options](../p/put_options.md), used when higher volatility is expected but with some uncertainty about the direction of the movement.
+- **Strangle**: Similar to a straddle but with different strike prices for the call and [put options](../p/put_options.md), used when higher volatility is expected but with some [uncertainty](../u/uncertainty_in_trading.md) about the direction of the movement.
 - **[Butterfly Spread](../b/butterfly_spread.md)**: A limited-risk, non-directional options strategy that can be used to bet on decreased volatility in bond yields.
 
 ### Risk Management in Yield Volatility Trading

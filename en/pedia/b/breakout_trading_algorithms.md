@@ -16,7 +16,7 @@ Volume is a vital component in confirming breakouts. A breakout with high volume
 
 ### 3. Volatility
 
-Higher volatility often signals a more significant potential for price movement once a breakout occurs. Traders use various metrics such as Average True Range (ATR) to measure the volatility and determine the optimal conditions for a breakout trade.
+Higher volatility often signals a more significant potential for price movement once a breakout occurs. Traders use various metrics such as [Average True Range](../a/average_true_range_(atr).md) (ATR) to measure the volatility and determine the optimal conditions for a breakout trade.
 
 ## Types of Breakout Strategies
 

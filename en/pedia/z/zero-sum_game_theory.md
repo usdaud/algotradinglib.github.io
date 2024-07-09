@@ -20,7 +20,7 @@ In financial markets, particularly in [algorithmic trading](../a/algorithmic_tra
 
 ### Nash Equilibrium
 
-A central concept in zero-sum games is the Nash Equilibrium, named after John Nash. In a Nash Equilibrium, no participant can gain by unilaterally changing their strategy if the strategies of others remain unchanged. This concept is critical in [algorithmic trading](../a/algorithmic_trading.md), where traders employ sophisticated algorithms designed to optimize their strategies against the strategies of other market participants.
+A central concept in zero-sum games is the [Nash Equilibrium](../n/nash_equilibrium_in_trading.md), named after John Nash. In a [Nash Equilibrium](../n/nash_equilibrium_in_trading.md), no participant can gain by unilaterally changing their strategy if the strategies of others remain unchanged. This concept is critical in [algorithmic trading](../a/algorithmic_trading.md), where traders employ sophisticated algorithms designed to optimize their strategies against the strategies of other market participants.
 
 ### Strategic Dominance
 
@@ -82,10 +82,10 @@ Two Sigma ([website](https://www.twosigma.com/)) is a hedge fund that leverages 
 
 ### Quantum Computing
 
-Quantum computing holds promise for the future of [algorithmic trading](../a/algorithmic_trading.md), offering computational power far beyond classical computers. This could revolutionize zero-sum dynamics by enabling the development of even more sophisticated [trading algorithms](../t/trading_algorithms.md).
+[Quantum computing](../q/quantum_computing_in_trading.md) holds promise for the future of [algorithmic trading](../a/algorithmic_trading.md), offering computational power far beyond classical computers. This could revolutionize zero-sum dynamics by enabling the development of even more sophisticated [trading algorithms](../t/trading_algorithms.md).
 
 #### Example: IBM Research
-IBM Research ([website](https://www.research.ibm.com/)), through its quantum computing initiatives, is exploring applications in financial services, including [algorithmic trading](../a/algorithmic_trading.md). Quantum algorithms could profoundly impact the zero-sum landscape by providing unprecedented computational capabilities.
+IBM Research ([website](https://www.research.ibm.com/)), through its [quantum computing](../q/quantum_computing_in_trading.md) initiatives, is exploring applications in financial services, including [algorithmic trading](../a/algorithmic_trading.md). [Quantum algorithms](../q/quantum_algorithms_in_trading.md) could profoundly impact the zero-sum landscape by providing unprecedented computational capabilities.
 
 ## Conclusion
 

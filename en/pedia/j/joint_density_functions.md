@@ -1,6 +1,6 @@
 # Joint Density Functions
 
-In probability theory and statistics, joint density functions are a crucial concept, especially in the realm of multivariate distributions. They are employed to describe the likelihood that two or more random variables take specific values at the same time.
+In [probability theory](../p/probability_theory_in_trading.md) and statistics, joint density functions are a crucial concept, especially in the realm of multivariate distributions. They are employed to describe the likelihood that two or more random variables take specific values at the same time.
 
 ## Joint Probability Density Function (PDF)
 

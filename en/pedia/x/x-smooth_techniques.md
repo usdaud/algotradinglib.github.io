@@ -10,7 +10,7 @@ X-Smooth, or [Exponential Smoothing](../e/exponential_smoothing.md), refers to a
 
 ### 1. Simple Exponential Smoothing (SES)
 
-SES is a [time series forecasting](../t/time_series_forecasting.md) method that applies weighted averages of past observations, with the weights decaying exponentially over time. This technique is particularly useful for short-term forecasting when the data does not exhibit any clear trend or seasonal pattern.
+SES is a [time series forecasting](../t/time_series_forecasting.md) method that applies [weighted averages](../w/weighted_averages_in_trading.md) of past observations, with the weights decaying exponentially over time. This technique is particularly useful for short-term forecasting when the data does not exhibit any clear trend or seasonal pattern.
 
 #### Mathematical Formula for SES
 
@@ -157,7 +157,7 @@ Advanced X-Smooth techniques can be computationally intensive, especially when d
 
 ### 1. Integration with Machine Learning
 
-The integration of X-Smooth techniques with machine learning algorithms holds significant promise. Machine learning can help optimize the smoothing parameters and enhance the predictive accuracy of these models.
+The integration of X-Smooth techniques with machine [learning algorithms](../l/learning_algorithms_in_trading.md) holds significant promise. Machine learning can help optimize the smoothing parameters and enhance the predictive accuracy of these models.
 
 ### 2. High-Frequency Trading
 

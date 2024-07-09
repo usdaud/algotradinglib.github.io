@@ -1,6 +1,6 @@
 # Pattern Recognition
 
-Pattern recognition in [algorithmic trading](../a/algorithmic_trading.md) is the process of identifying regularities in financial market data which can then be used to predict future movements or identify profitable trading opportunities. This is a crucial aspect of modern [quantitative finance](../q/quantitative_finance.md) and involves using advanced mathematical models, statistical techniques, and machine learning algorithms to dissect and interpret vast amounts of market data.
+Pattern recognition in [algorithmic trading](../a/algorithmic_trading.md) is the process of identifying regularities in financial market data which can then be used to predict future movements or identify profitable trading opportunities. This is a crucial aspect of modern [quantitative finance](../q/quantitative_finance.md) and involves using advanced [mathematical models](../m/mathematical_models_in_trading.md), statistical techniques, and machine [learning algorithms](../l/learning_algorithms_in_trading.md) to dissect and interpret vast amounts of market data.
 
 ### Types of Patterns
 
@@ -51,11 +51,11 @@ Machine learning offers powerful tools for detecting patterns in data. Some exte
 
 1. **Supervised Learning**:
    - In supervised learning, models are trained on labeled historical data.
-   - Techniques include [decision trees](../d/decision_trees.md), support vector machines (SVM), and neural networks.
+   - Techniques include [decision trees](../d/decision_trees.md), [support vector machines](../s/support_vector_machines_in_trading.md) (SVM), and [neural networks](../n/neural_networks_in_trading.md).
 
 2. **Unsupervised Learning**:
    - These algorithms try to identify patterns without labeled data.
-   - Common techniques include clustering (k-means clustering, hierarchical clustering) and dimensionality reduction (Principal Component Analysis).
+   - Common techniques include clustering ([k-means clustering](../k/k-means_clustering_in_trading.md), hierarchical clustering) and [dimensionality reduction](../d/dimensionality_reduction_in_trading.md) ([Principal Component Analysis](../p/principal_component_analysis_(pca).md)).
 
 3. **Reinforcement Learning**:
    - Here, the model learns optimal [trading strategies](../t/trading_strategies.md) through a trial and error mechanism.
@@ -128,7 +128,7 @@ Despite the advancements, pattern recognition in trading faces several challenge
 Several companies and trading firms specialize in leveraging pattern recognition for [algorithmic trading](../a/algorithmic_trading.md):
 
 1. **Two Sigma**:
-   - A leading trading firm using data science and technology to derive trading insights.
+   - A leading trading firm using [data science](../d/data_science_in_trading.md) and technology to derive trading insights.
    - Employs machine learning models extensively for pattern recognition.
    - [Two Sigma](https://www.twosigma.com/)
 

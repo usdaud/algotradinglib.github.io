@@ -51,9 +51,9 @@ Real estate assets, such as commercial properties or residential developments, a
 
 ### Role of Technology in Non-Traded Assets Valuation
 Advancements in technology have significantly impacted the valuation of non-traded assets. Some notable trends include:
-- **Big Data Analytics**: Utilizing large datasets to inform [valuation models](../v/valuation_models.md) and improve accuracy.
+- **[Big Data Analytics](../b/big_data_analytics_in_trading.md)**: Utilizing large datasets to inform [valuation models](../v/valuation_models.md) and improve accuracy.
 - **Machine Learning**: Implementing algorithms to identify patterns and make predictions about cash flows or market trends.
-- **Blockchain**: Enhancing transparency and reducing information asymmetry by providing immutable records of transactions and ownership.
+- **[Blockchain](../b/blockchain_in_trading.md)**: Enhancing transparency and reducing information asymmetry by providing immutable records of transactions and ownership.
 
 ### Expert Opinions and Best Practices
 Experts in the field generally recommend:

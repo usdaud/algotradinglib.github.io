@@ -33,7 +33,7 @@ Investment flows are often tracked to understand investor sentiment, market tren
 
 2. **Market Reports and Analyses:** Reviewing financial analyses and reports from institutions like [Bloomberg](../b/bloomberg.md), Goldman Sachs, and others to understand broader market trends (Links: [Bloomberg](https://www.bloomberg.com/), [Goldman Sachs](https://www.goldmansachs.com/) ).
 
-3. **[Economic Indicators](../e/economic_indicators.md):** Assessing [economic indicators](../e/economic_indicators.md) such as GDP growth rates, inflation rates, and interest rates to infer investment flows.
+3. **[Economic Indicators](../e/economic_indicators.md):** Assessing [economic indicators](../e/economic_indicators.md) such as GDP [growth rates](../g/growth_rates_in_trading.md), inflation rates, and interest rates to infer investment flows.
 
 ## Applications and Importance
 
@@ -69,7 +69,7 @@ Investment flows analysis can uncover emerging opportunities by highlighting sec
 
 ### Case Study 1: Cross-Border Capital Flows in Emerging Markets
 
-This case study examines the investment flows into emerging markets during periods of global economic uncertainty. It highlights how political stability, economic reforms, and growth prospects influence investor decisions, using data from the International Monetary Fund (IMF) and the World Bank.
+This case study examines the investment flows into emerging markets during periods of global economic [uncertainty](../u/uncertainty_in_trading.md). It highlights how political stability, economic reforms, and growth prospects influence investor decisions, using data from the International Monetary Fund (IMF) and the World Bank.
 
 ### Case Study 2: Impact of Quantitative Easing on Investment Flows
 

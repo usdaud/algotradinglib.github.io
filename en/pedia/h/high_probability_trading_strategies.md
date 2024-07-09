@@ -26,7 +26,7 @@ Momentum measures the speed of price changes. High momentum generally signals th
 
 **Volatility**
 
-Volatility indicates the extent of price fluctuations in the market. Higher volatility generally increases trading opportunities, though it also entails higher risk. Indicators such as [Bollinger Bands](../b/bollinger_bands.md), Average True Range (ATR), and the Volatility Index (VIX) help quantify volatility.
+Volatility indicates the extent of price fluctuations in the market. Higher volatility generally increases trading opportunities, though it also entails higher risk. Indicators such as [Bollinger Bands](../b/bollinger_bands.md), [Average True Range](../a/average_true_range_(atr).md) (ATR), and the Volatility Index (VIX) help quantify volatility.
 
 **[Risk Management](../r/risk_management.md)**
 
@@ -75,7 +75,7 @@ Several platforms and software solutions support the implementation of high prob
 Renaissance Technologies, founded by Jim Simons, uses [quantitative models](../q/quantitative_models.md) to analyze and execute trades. The firm's Medallion Fund is known for its high-frequency [trading strategies](../t/trading_strategies.md) that leverage [mean reversion](../m/mean_reversion.md) and other statistical models.
 
 **Company B: Two Sigma**
-Two Sigma utilizes machine learning, distributed computing, and big data to develop high probability [trading strategies](../t/trading_strategies.md). The company combines data-driven insights with innovative technology to create robust [trading models](../t/trading_models.md). [Two Sigma](https://www.twosigma.com)
+Two Sigma utilizes machine learning, distributed computing, and [big data](../b/big_data_in_trading.md) to develop high probability [trading strategies](../t/trading_strategies.md). The company combines data-driven insights with innovative technology to create robust [trading models](../t/trading_models.md). [Two Sigma](https://www.twosigma.com)
 
 **Best Practices**
 

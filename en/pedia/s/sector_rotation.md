@@ -44,7 +44,7 @@ Implementing a sector rotation strategy involves several steps and consideration
 
 ### 1. Economic Analysis
 
-Investors need to monitor [economic indicators](../e/economic_indicators.md) closely, such as GDP growth rates, inflation, unemployment data, and interest rates to predict the current phase of the economic cycle. Reliable sources such as government reports, financial news, and economic research organizations like the Federal Reserve or European Central Bank provide critical data.
+Investors need to monitor [economic indicators](../e/economic_indicators.md) closely, such as GDP [growth rates](../g/growth_rates_in_trading.md), inflation, unemployment data, and interest rates to predict the current phase of the economic cycle. Reliable sources such as government reports, financial news, and economic research organizations like the Federal Reserve or European Central Bank provide critical data.
 
 ### 2. Sector Analysis
 
@@ -80,7 +80,7 @@ Exchange-Traded Funds (ETFs) focused on specific sectors provide a straightforwa
 
 ### 4. Quantitative Models
 
-Algorithmic and [quantitative models](../q/quantitative_models.md) can be designed to detect shifts in economic phases and adjust sector exposure accordingly. These models use historical data, statistical techniques, and machine learning algorithms to predict [sector performance](../s/sector_performance.md).
+Algorithmic and [quantitative models](../q/quantitative_models.md) can be designed to detect shifts in economic phases and adjust sector exposure accordingly. These models use historical data, statistical techniques, and machine [learning algorithms](../l/learning_algorithms_in_trading.md) to predict [sector performance](../s/sector_performance.md).
 
 ## Case Studies
 

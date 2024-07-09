@@ -20,7 +20,7 @@ Market [sentiment indicators](../s/sentiment_indicators.md) are critical tools u
 
 ### Social Media and News Sentiment
 
-- **Twitter [Sentiment Analysis](../s/sentiment_analysis.md)**: Companies and hedge funds have harnessed natural language processing (NLP) to analyze sentiments expressed on Twitter. Sentiment scores are assigned to individual tweets, and aggregate sentiment can be measured to understand overall market mood.
+- **Twitter [Sentiment Analysis](../s/sentiment_analysis.md)**: Companies and hedge funds have harnessed [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) to analyze sentiments expressed on Twitter. Sentiment scores are assigned to individual tweets, and aggregate sentiment can be measured to understand overall market mood.
 
 - **News [Sentiment Analysis](../s/sentiment_analysis.md)**: Similar to Twitter [sentiment analysis](../s/sentiment_analysis.md), this involves using NLP to assess news articles and media reports. Tools like Thomson [Reuters](../r/reuters.md) MarketPsych Indices extract sentiment from financial news sources to provide a sentiment score for various markets or assets.
 
@@ -76,7 +76,7 @@ Market sentiment can change rapidly due to unforeseen events such as geopolitica
 
 ### Behavioral Biases
 
-[Sentiment indicators](../s/sentiment_indicators.md) are rooted in the collective behavior of market participants, which can be influenced by cognitive biases like herd behavior or recency effect. These biases can skew [sentiment indicators](../s/sentiment_indicators.md), leading to false signals.
+[Sentiment indicators](../s/sentiment_indicators.md) are rooted in the collective behavior of market participants, which can be influenced by [cognitive biases](../c/cognitive_biases_in_trading.md) like [herd behavior](../h/herd_behavior_in_trading.md) or recency effect. These biases can skew [sentiment indicators](../s/sentiment_indicators.md), leading to [false signals](../f/false_signals_in_trading.md).
 
 ## Conclusion
 

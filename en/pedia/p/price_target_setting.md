@@ -1,6 +1,6 @@
 # Price Target Setting
 
-Price target setting is a crucial aspect of [algorithmic trading](../a/algorithmic_trading.md), which involves the use of advanced mathematical models and software to make trading decisions. In this context, price target setting refers to the practice of determining the optimal prices at which to buy or sell financial assets, such as stocks, bonds, or [derivatives](../d/derivatives.md), to achieve desired financial outcomes. This process incorporates various statistical techniques, algorithms, and data analysis to predict future price movements and set actionable entry and exit points.
+Price target setting is a crucial aspect of [algorithmic trading](../a/algorithmic_trading.md), which involves the use of advanced [mathematical models](../m/mathematical_models_in_trading.md) and software to make trading decisions. In this context, price target setting refers to the practice of determining the optimal prices at which to buy or sell financial assets, such as stocks, bonds, or [derivatives](../d/derivatives.md), to achieve desired financial outcomes. This process incorporates various statistical techniques, algorithms, and data analysis to predict future price movements and set actionable entry and exit points.
 
 ## Importance of Price Target Setting
 
@@ -30,8 +30,8 @@ Setting price targets is also useful in validating [trading strategies](../t/tra
 With advancements in computing power, machine learning models have become increasingly popular for price target setting in [algorithmic trading](../a/algorithmic_trading.md). These models can process vast amounts of data and identify complex patterns that traditional methods might miss. Common techniques include:
 
 - **Regression Models**: Used to predict continuous target variables, such as future asset prices.
-- **[Decision Trees](../d/decision_trees.md) and Random Forests**: Utilized for classification and regression tasks to predict price movements and set targets based on multiple input features.
-- **Neural Networks**: Deep learning models that can capture nonlinear relationships in data, making them suitable for predicting intricate price movements.
+- **[Decision Trees](../d/decision_trees.md) and [Random Forests](../r/random_forests_in_trading.md)**: Utilized for classification and regression tasks to predict price movements and set targets based on multiple input features.
+- **[Neural Networks](../n/neural_networks_in_trading.md)**: Deep learning models that can capture nonlinear relationships in data, making them suitable for predicting intricate price movements.
 
 ### Quantitative Models
 [Quantitative models](../q/quantitative_models.md) use mathematical formulas and statistical methods to estimate future price movements. These models often involve:

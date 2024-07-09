@@ -2,7 +2,7 @@
 
 ## Introduction to Unfilled Order Management
 
-Unfilled order management is a critical aspect of [algorithmic trading](../a/algorithmic_trading.md), specifically intended to deal with situations where trading orders are not executed. In the dynamic and fast-paced environment of financial markets, it's common for certain orders, either buy or sell, to remain unfilled due to various reasons such as market volatility, order size, price restrictions, etc. Efficiently managing these [unfilled orders](../u/unfilled_orders.md) can significantly impact a trading strategy’s performance, profitability, and risk exposure. This topic delves into the mechanisms, strategies, and systems used in handling [unfilled orders](../u/unfilled_orders.md) within [algorithmic trading](../a/algorithmic_trading.md).
+Unfilled [order management](../o/order_management_in_trading.md) is a critical aspect of [algorithmic trading](../a/algorithmic_trading.md), specifically intended to deal with situations where trading orders are not executed. In the dynamic and fast-paced environment of financial markets, it's common for certain orders, either buy or sell, to remain unfilled due to various reasons such as market volatility, order size, price restrictions, etc. Efficiently managing these [unfilled orders](../u/unfilled_orders.md) can significantly impact a trading strategy’s performance, profitability, and risk exposure. This topic delves into the mechanisms, strategies, and systems used in handling [unfilled orders](../u/unfilled_orders.md) within [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Causes of Unfilled Orders
 
@@ -36,7 +36,7 @@ Order splitting involves breaking down large orders into smaller chunks to facil
 If orders remain unfilled, traders can opt to cancel and replace them.
 
 - **Dynamic Re-Pricing**: Adjusting the price limits of the unfilled order in response to current market movements.
-- **Re-Issuing Orders**: Cancelling [unfilled orders](../u/unfilled_orders.md) and issuing new ones with adjusted parameters or different order types.
+- **Re-Issuing Orders**: Cancelling [unfilled orders](../u/unfilled_orders.md) and issuing new ones with adjusted parameters or different [order types](../o/order_types_in_trading.md).
 
 ### Dark Pools and Alternative Trading Systems (ATS)
 
@@ -89,27 +89,27 @@ OMS integrated with EMS provides additional layers of functionality for order ha
 Ensuring that the management of [unfilled orders](../u/unfilled_orders.md) adheres to regulatory standards is crucial.
 
 - **Regulation Compliance**: Systems should ensure all modifications, cancellations, and re-issuances comply with regulatory guidelines.
-- **Audit Trails**: Maintaining comprehensive logs of all order management activities for regulatory audits and investigations.
+- **Audit Trails**: Maintaining comprehensive logs of all [order management](../o/order_management_in_trading.md) activities for regulatory audits and investigations.
 
 ## Key Players and Technologies in Unfilled Order Management
 
 ### AlgoTrader
 
-[AlgoTrader](https://www.algotrader.com/) offers advanced systems for unfilled order management with capabilities in automated, high-frequency, and [quantitative trading](../q/quantitative_trading.md).
+[AlgoTrader](https://www.algotrader.com/) offers advanced systems for unfilled [order management](../o/order_management_in_trading.md) with capabilities in automated, high-frequency, and [quantitative trading](../q/quantitative_trading.md).
 
 ### FlexTrade
 
-[FlexTrade](https://flextrade.com/) provides robust solutions for order management, including sophisticated [execution algorithms](../e/execution_algorithms.md) and smart [order routing](../o/order_routing.md) technologies.
+[FlexTrade](https://flextrade.com/) provides robust solutions for [order management](../o/order_management_in_trading.md), including sophisticated [execution algorithms](../e/execution_algorithms.md) and smart [order routing](../o/order_routing.md) technologies.
 
 ### QuantConnect
 
-[QuantConnect](https://www.quantconnect.com/) offers an open [algorithmic trading](../a/algorithmic_trading.md) platform that integrates unfilled order management features supporting dynamic re-pricing and order splitting.
+[QuantConnect](https://www.quantconnect.com/) offers an open [algorithmic trading](../a/algorithmic_trading.md) platform that integrates unfilled [order management](../o/order_management_in_trading.md) features supporting dynamic re-pricing and order splitting.
 
 ### Trading Technologies
 
-[Trading Technologies](https://www.tradingtechnologies.com/) specializes in technology infrastructure for trading, including OMS and EMS solutions that cater to unfilled order management.
+[Trading Technologies](https://www.tradingtechnologies.com/) specializes in technology infrastructure for trading, including OMS and EMS solutions that cater to unfilled [order management](../o/order_management_in_trading.md).
 
 ## Conclusion
 
-Unfilled order management is a pivotal element in the broader scope of [algorithmic trading](../a/algorithmic_trading.md). Effective strategies and technology implementations ensure optimal trade executions, minimize market impact, and manage trading risks effectively. With the ongoing advancements in trading technologies and data analytics, the management of [unfilled orders](../u/unfilled_orders.md) continues to evolve, facilitating more sophisticated [trading strategies](../t/trading_strategies.md) and improved market outcomes.
+Unfilled [order management](../o/order_management_in_trading.md) is a pivotal element in the broader scope of [algorithmic trading](../a/algorithmic_trading.md). Effective strategies and technology implementations ensure optimal trade executions, minimize market impact, and manage trading risks effectively. With the ongoing advancements in trading technologies and data analytics, the management of [unfilled orders](../u/unfilled_orders.md) continues to evolve, facilitating more sophisticated [trading strategies](../t/trading_strategies.md) and improved market outcomes.
 

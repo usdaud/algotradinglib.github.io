@@ -28,7 +28,7 @@ The practice of [window dressing](../w/window_dressing.md) can have several impl
 
 ### Impact on Algorithmic Trading
 
-[Algorithmic trading](../a/algorithmic_trading.md) systems, which include high-frequency trading, statistical [arbitrage](../a/arbitrage.md), and market-making, are designed to make trades based on mathematical models and [quantitative analysis](../q/quantitative_analysis.md). The impact of [window dressing](../w/window_dressing.md) on these systems can be profound:
+[Algorithmic trading](../a/algorithmic_trading.md) systems, which include high-frequency trading, statistical [arbitrage](../a/arbitrage.md), and market-making, are designed to make trades based on [mathematical models](../m/mathematical_models_in_trading.md) and [quantitative analysis](../q/quantitative_analysis.md). The impact of [window dressing](../w/window_dressing.md) on these systems can be profound:
 
 1. **Signal Distortion:** Algorithms that rely heavily on historical price data, [momentum indicators](../m/momentum_indicators.md), or [volume patterns](../v/volume_patterns.md) may misinterpret the anomalies caused by [window dressing](../w/window_dressing.md) as genuine market movements. This can lead to unprofitable trades or suboptimal trading decisions.
 

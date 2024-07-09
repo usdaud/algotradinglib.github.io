@@ -1,11 +1,11 @@
 # Forecast Accuracy
 
-Forecast accuracy is a critical component in the realm of [algorithmic trading](../a/algorithmic_trading.md), where decisions are driven by mathematical models and [quantitative analysis](../q/quantitative_analysis.md). The goal of forecast accuracy is to predict market movements and asset prices as precisely as possible, thereby maximizing trading profits and minimizing risks. Accurate forecasting can mean the difference between a successful trading strategy and a losing one. In this detailed examination, we'll explore the fundamentals, metrics, methods, tools, and challenges involved in forecast accuracy within [algorithmic trading](../a/algorithmic_trading.md).
+Forecast accuracy is a critical component in the realm of [algorithmic trading](../a/algorithmic_trading.md), where decisions are driven by [mathematical models](../m/mathematical_models_in_trading.md) and [quantitative analysis](../q/quantitative_analysis.md). The goal of forecast accuracy is to predict market movements and asset prices as precisely as possible, thereby maximizing trading profits and minimizing risks. Accurate forecasting can mean the difference between a successful trading strategy and a losing one. In this detailed examination, we'll explore the fundamentals, metrics, methods, tools, and challenges involved in forecast accuracy within [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Fundamentals of Forecast Accuracy
 
 ### Definition
-Forecast accuracy refers to the degree to which a forecasted value matches the actual observed value. It is an essential measure for evaluating the performance of predictive models in [algorithmic trading](../a/algorithmic_trading.md).
+Forecast accuracy refers to the degree to which a forecasted value matches the actual observed value. It is an essential measure for evaluating the performance of [predictive models](../p/predictive_models_in_trading.md) in [algorithmic trading](../a/algorithmic_trading.md).
 
 ### Importance
 Accurate forecasts enable traders to make informed decisions, reducing the likelihood of substantial financial loss. In [algorithmic trading](../a/algorithmic_trading.md), where decisions are made rapidly and in large volumes, even slight improvements in forecast accuracy can lead to significant gains.
@@ -59,13 +59,13 @@ Choosing the right model is crucial. Common models include:
 
 - **[Linear Regression](../l/linear_regression.md):** Simple and interpretable, but may not capture complex patterns.
 - **[Decision Trees](../d/decision_trees.md):** Good for capturing non-linear relationships but prone to overfitting.
-- **Neural Networks:** Powerful for capturing intricate patterns but require large amounts of data and computational power.
+- **[Neural Networks](../n/neural_networks_in_trading.md):** Powerful for capturing intricate patterns but require large amounts of data and computational power.
 
 ### Model Ensemble
 Combining multiple models through techniques like bagging, boosting, or stacking can often yield better predictive performance than any single model.
 
 ### Hyperparameter Tuning
-Fine-tuning model parameters using techniques like grid search or random search can improve forecast accuracy.
+Fine-tuning model parameters using techniques like [grid search](../g/grid_search_in_trading.md) or random search can improve forecast accuracy.
 
 ### Cross-Validation
 Using cross-validation techniques to assess model performance can help avoid overfitting and ensure robustness.
@@ -83,7 +83,7 @@ Using cross-validation techniques to assess model performance can help avoid ove
 ### Programming Libraries
 
 #### TensorFlow and Keras
-TensorFlow and Keras are powerful libraries for building and training machine learning models, particularly useful for neural networks.
+TensorFlow and Keras are powerful libraries for building and training machine learning models, particularly useful for [neural networks](../n/neural_networks_in_trading.md).
 
 #### scikit-learn
 scikit-learn is a versatile library in Python that provides simple and efficient tools for [data mining](../d/data_mining.md) and data analysis, suitable for a range of both supervised and unsupervised learning problems.

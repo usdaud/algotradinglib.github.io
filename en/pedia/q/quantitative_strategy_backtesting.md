@@ -1,6 +1,6 @@
 # Quantitative Strategy Backtesting
 
-Quantitative Strategy [Backtesting](../b/backtesting.md) is a crucial methodology used in the domain of [algorithmic trading](../a/algorithmic_trading.md) to validate and evaluate [trading strategies](../t/trading_strategies.md) based on historical data. Essentially, it is a simulation of a trading strategy using historical prices to determine how well the strategy could have performed. This process forms the backbone for developing robust trading methodologies, allowing traders and analysts to refine their strategies before deploying them in live markets.
+Quantitative Strategy [Backtesting](../b/backtesting.md) is a crucial methodology used in the domain of [algorithmic trading](../a/algorithmic_trading.md) to validate and evaluate [trading strategies](../t/trading_strategies.md) based on historical data. Essentially, it is a [simulation](../s/simulation_in_trading.md) of a trading strategy using historical prices to determine how well the strategy could have performed. This process forms the backbone for developing robust trading methodologies, allowing traders and analysts to refine their strategies before deploying them in live markets.
 
 ### Components of Quantitative Strategy Backtesting
 
@@ -27,7 +27,7 @@ Quantitative Strategy [Backtesting](../b/backtesting.md) is a crucial methodolog
 
 ### Tools and Platforms for Backtesting
 
-There are several software tools and platforms designed specifically for [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md), each with its own strengths. Some of the most notable include:
+There are several [software tools](../s/software_tools_for_trading.md) and platforms designed specifically for [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md), each with its own strengths. Some of the most notable include:
 
 - **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](https://www.quantconnect.com/) offers a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple brokerages and enables users to backtest, optimize, and deploy strategies in live markets.
   
@@ -45,7 +45,7 @@ Creating a comprehensive [backtesting](../b/backtesting.md) framework involves s
    
 2. **Strategy Coding**: Implementing the trading strategy in a programming language or specialized [backtesting](../b/backtesting.md) software. Python is a popular choice due to libraries like Pandas, NumPy, and [backtesting](../b/backtesting.md).py.
    
-3. **Simulation Module**: Developing the simulation engine that can replicate market conditions and execute trades based on the strategy logic.
+3. **[Simulation](../s/simulation_in_trading.md) Module**: Developing the [simulation](../s/simulation_in_trading.md) engine that can replicate market conditions and execute trades based on the strategy logic.
   
 4. **Performance Analysis**: Running the backtest and generating detailed reports that include visualizations like equity curves, drawdown charts, and trade logs.
 
@@ -65,7 +65,7 @@ While [backtesting](../b/backtesting.md) is a powerful tool, it comes with sever
 
 1. **Walk-Forward Testing**: A robust method involving dividing the historical dataset into in-sample (for training) and out-of-sample (for testing) segments, iteratively to ensure the strategy is not overly optimized to a single time frame.
   
-2. **Stress Testing**: Evaluating the performance of a strategy under various extreme market conditions to ensure it can withstand market shocks and avoid catastrophic losses.
+2. **[Stress Testing](../s/stress_testing_in_trading.md)**: Evaluating the performance of a strategy under various extreme market conditions to ensure it can withstand market shocks and avoid catastrophic losses.
   
 3. **Benchmarking**: Comparing the strategy's performance to relevant benchmarks (e.g., S&P 500 for equities) to ascertain its relative performance.
   

@@ -19,7 +19,7 @@ Where:
 
 ### 1. Gordon Growth Model (Constant Growth DDM)
 
-The most widely recognized form of DDM is the Gordon Growth Model (GGM), which assumes that dividends will grow at a constant rate \( g \). This simplifies the basic DDM formula, particularly for mature companies with stable dividend growth rates.
+The most widely recognized form of DDM is the Gordon Growth Model (GGM), which assumes that dividends will grow at a constant rate \( g \). This simplifies the basic DDM formula, particularly for mature companies with stable dividend [growth rates](../g/growth_rates_in_trading.md).
 
 \[ P_0 = \frac{D_0 \cdot (1 + g)}{r - g} = \frac{D_1}{r - g} \]
 
@@ -31,7 +31,7 @@ Where:
 
 ### 2. Multi-Stage Dividend Discount Model
 
-The Multi-Stage DDM is beneficial for valuing companies that do not fit the assumption of constant dividend growth. Companies often experience different growth phases: initial high growth, transition, and then steady-state growth. The Multi-Stage DDM accommodates these varying growth rates in distinct phases:
+The Multi-Stage DDM is beneficial for valuing companies that do not fit the assumption of constant dividend growth. Companies often experience different growth phases: initial high growth, transition, and then steady-state growth. The Multi-Stage DDM accommodates these varying [growth rates](../g/growth_rates_in_trading.md) in distinct phases:
 
 \[ P_0 = \sum_{t=1}^{T} \frac{D_t}{(1+r)^t} + \frac{P_T}{(1+r)^T} \]
 
@@ -54,8 +54,8 @@ Where:
 
 Algorithmic traders leverage financial models like the DDM within their [trading strategies](../t/trading_strategies.md) to assess fair stock prices and make informed trading decisions. Implementing DDM in an algorithm involves:
 
-1. **Data Collection**: Gather historical data on dividend payments, growth rates, and discount rates.
-2. **Parameter Estimation**: Use historical data to estimate dividend growth rates (g) and required rates of return (r).
+1. **Data Collection**: Gather historical data on dividend payments, [growth rates](../g/growth_rates_in_trading.md), and discount rates.
+2. **Parameter Estimation**: Use historical data to estimate dividend [growth rates](../g/growth_rates_in_trading.md) (g) and required rates of return (r).
 3. **Model Implementation**: Encode the chosen DDM formula (constant, multi-stage, or H-model) in the trading algorithm.
 4. **[Backtesting](../b/backtesting.md)**: Validate the model’s performance against historical pricing data to refine the parameters and ensure predictive accuracy.
 5. **Execution**: Integrate the model with [trading systems](../t/trading_systems.md) to automate buying and selling decisions based on intrinsic value assessments.
@@ -78,7 +78,7 @@ Algorithmic traders leverage financial models like the DDM within their [trading
 
 ### Johnson & Johnson (J&J)
 
-Johnson & Johnson is a suitable candidate for applying the Gordon Growth Model due to its consistent dividend payment history and predictable growth patterns. Analysts could use J&J’s historical dividend data and estimated growth rates to determine the current intrinsic value using DDM.
+Johnson & Johnson is a suitable candidate for applying the Gordon Growth Model due to its consistent dividend payment history and predictable growth patterns. Analysts could use J&J’s historical dividend data and estimated [growth rates](../g/growth_rates_in_trading.md) to determine the current intrinsic value using DDM.
 
 GGM Application on J&J’s Stock:
 - Recent Dividend (\( D_0 \)): $4.04
@@ -89,7 +89,7 @@ GGM Application on J&J’s Stock:
 
 ### Procter & Gamble (P&G)
 
-Procter & Gamble can be assessed using the Multi-Stage DDM given its transitional growth phases. Early higher dividend growth rates followed by stabilization make P&G an ideal candidate.
+Procter & Gamble can be assessed using the Multi-Stage DDM given its transitional growth phases. Early higher dividend [growth rates](../g/growth_rates_in_trading.md) followed by stabilization make P&G an ideal candidate.
 
 Multi-Stage DDM for P&G:
 - Dividend (\( D_0 \)): $3.16
@@ -124,7 +124,7 @@ Given DDM’s sensitivity to input assumptions, performing sensitivity analysis 
 
 ### Machine Learning Integration
 
-Increasingly, machine learning models are being integrated with traditional financial models like DDM. Using historical data, machine learning algorithms can predict dividend growth rates and calibrate discount rates more accurately than manual estimation, enhancing DDM's precision in [algorithmic trading](../a/algorithmic_trading.md).
+Increasingly, machine learning models are being integrated with traditional financial models like DDM. Using historical data, machine [learning algorithms](../l/learning_algorithms_in_trading.md) can predict dividend [growth rates](../g/growth_rates_in_trading.md) and calibrate discount rates more accurately than manual estimation, enhancing DDM's precision in [algorithmic trading](../a/algorithmic_trading.md).
 
 ### Real-Time Data Integration
 

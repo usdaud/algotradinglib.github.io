@@ -24,7 +24,7 @@ eSignal is a leading provider of [real-time market data](../r/real-time_market_d
 eSignal integrates with a variety of brokers, data providers, and third-party services to offer a comprehensive trading experience. Some notable integrations include:
 
 - **Market Data Providers**: Access to real-time and historical data from global exchanges and financial markets.
-- **Broker Integration**: Connectivity with multiple brokerage firms for direct trading and order management.
+- **Broker Integration**: Connectivity with multiple brokerage firms for direct trading and [order management](../o/order_management_in_trading.md).
 - **Third-Party Plugins**: Support for various third-party plugins to enhance the platform’s functionality.
 - **Trading Platforms**: Integration with other trading platforms and tools to provide a unified [trading environment](../t/trading_environment.md).
 

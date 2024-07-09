@@ -12,7 +12,7 @@ At its core, an ECN matches orders from participants in different geographical l
 
 ECNs use sophisticated algorithms to match buy and sell orders that have been routed from various market participants including banks, institutional traders, individual traders, and other financial entities. Here’s a step-by-step overview of how ECNs operate:
 
-1. **Order Entry**: Traders enter orders via their electronic communication network-connected platforms. This can involve specifying order types such as market orders, limit orders, stop orders, etc.
+1. **Order Entry**: Traders enter orders via their electronic communication network-connected platforms. This can involve specifying [order types](../o/order_types_in_trading.md) such as market orders, limit orders, stop orders, etc.
    
 2. **Order Matching**: The ECN receives these orders and uses its matching engine to find compatible buy and sell orders. It prioritizes these orders based on price and time of entry, often matching the best available prices.
    
@@ -84,7 +84,7 @@ Initially an independent ECN, BATS has evolved into a leading global market infr
 
 ### EBS
 
-EBS, a part of CME Group, stands out in the forex market by offering deep liquidity and advanced trading tools. EBS is instrumental for institutional traders seeking reliable and competitive currency trading solutions. [EBS Website](https://www.cmegroup.com/trading/market-tech-and-data-services/ebs.html)
+EBS, a part of CME Group, stands out in the forex market by offering deep liquidity and advanced trading tools. EBS is instrumental for institutional traders seeking reliable and competitive [currency trading](../c/currency_trading_strategies.md) solutions. [EBS Website](https://www.cmegroup.com/trading/market-tech-and-data-services/ebs.html)
 
 ### Reuters Dealing
 

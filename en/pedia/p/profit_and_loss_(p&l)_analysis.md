@@ -84,7 +84,7 @@ Software like MATLAB, R, and Python libraries (Pandas, NumPy) are widely used fo
 
 ### 3. P&L Management Tools
 
-Dedicated solutions like Sierra Chart and Trading Blox offer comprehensive P&L reporting and management features. These tools are designed to handle the complexities of P&L analysis in [algorithmic trading](../a/algorithmic_trading.md) environments.
+Dedicated solutions like [Sierra Chart](../s/sierra_chart.md) and Trading Blox offer comprehensive P&L reporting and management features. These tools are designed to handle the complexities of P&L analysis in [algorithmic trading](../a/algorithmic_trading.md) environments.
 
 ## Case Study: High-Frequency Trading Firm
 
@@ -120,7 +120,7 @@ AlgoTradeX employs a market-making strategy, providing liquidity by placing buy 
 
 1. **Fee Reduction:** Negotiating lower transaction fees with brokers or using different execution venues could reduce costs.
 2. **Execution Improvements:** Enhancing [algorithm efficiency](../a/algorithm_efficiency.md) to minimize slippage and optimize order placement.
-3. **Cost-Benefit Analysis of Market Data:** Analyzing the necessity and usefulness of different market data subscriptions to potentially cut unnecessary expenses.
+3. **[Cost-Benefit Analysis](../c/cost-benefit_analysis_in_trading.md) of Market Data:** Analyzing the necessity and usefulness of different market data subscriptions to potentially cut unnecessary expenses.
 
 ## Conclusion
 

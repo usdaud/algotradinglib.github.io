@@ -1,6 +1,6 @@
 # Quantitative Strategy Implementation
 
-Quantitative strategy implementation refers to the process of executing [trading strategies](../t/trading_strategies.md) that use mathematical models and algorithms to make trading decisions. These strategies rely on [quantitative analysis](../q/quantitative_analysis.md), which involves using historical data and statistical techniques to identify trading opportunities. The primary objective of these strategies is to generate consistent returns while managing risks effectively. This comprehensive guide explores various aspects of quantitative strategy implementation, including the types of strategies, data requirements, algorithm development, [backtesting](../b/backtesting.md), and execution.
+Quantitative strategy implementation refers to the process of executing [trading strategies](../t/trading_strategies.md) that use [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to make trading decisions. These strategies rely on [quantitative analysis](../q/quantitative_analysis.md), which involves using historical data and statistical techniques to identify trading opportunities. The primary objective of these strategies is to generate consistent returns while managing risks effectively. This comprehensive guide explores various aspects of quantitative strategy implementation, including the types of strategies, data requirements, algorithm development, [backtesting](../b/backtesting.md), and execution.
 
 ## Types of Quantitative Strategies
 
@@ -33,7 +33,7 @@ High-frequency [trading strategies](../t/trading_strategies.md) use high-speed a
 
 - **Low Latency:** Minimizing the time it takes to receive market data and execute orders is crucial.
 - **Colocation:** Placing trading servers close to exchange servers reduces latency.
-- **Order Types:** Advanced order types like iceberg orders and immediate or cancel (IOC) orders are used to manage trade execution.
+- **[Order Types](../o/order_types_in_trading.md):** Advanced [order types](../o/order_types_in_trading.md) like iceberg orders and immediate or cancel (IOC) orders are used to manage trade execution.
 
 ## Data Requirements
 
@@ -67,13 +67,13 @@ Developing an algorithm for [quantitative trading](../q/quantitative_trading.md)
 Choosing the right model is critical for the success of a trading strategy. Common models used in [quantitative trading](../q/quantitative_trading.md) include:
 
 - **[Linear Regression](../l/linear_regression.md):** This model predicts the future value of an asset based on its historical relationship with other variables.
-- **Machine Learning Models:** Techniques such as [decision trees](../d/decision_trees.md), support vector machines, and neural networks can identify complex patterns in data.
+- **Machine Learning Models:** Techniques such as [decision trees](../d/decision_trees.md), [support vector machines](../s/support_vector_machines_in_trading.md), and [neural networks](../n/neural_networks_in_trading.md) can identify complex patterns in data.
 
 ### Feature Engineering
 
 Feature engineering involves transforming raw data into meaningful inputs for the model. This step includes:
 
-- **Lagged Variables:** Creating variables that represent past values of the target variable.
+- **[Lagged Variables](../l/lagged_variables_in_trading.md):** Creating variables that represent past values of the target variable.
 - **[Technical Indicators](../t/technical_indicators.md):** Calculating indicators such as moving averages, RSI, and MACD.
 
 ### Model Training
@@ -122,7 +122,7 @@ Executing a [quantitative trading](../q/quantitative_trading.md) strategy involv
 
 ### Order Management
 
-Efficiently managing orders is crucial for minimizing costs and maximizing execution quality. Order management techniques include:
+Efficiently managing orders is crucial for minimizing costs and maximizing execution quality. [Order management](../o/order_management_in_trading.md) techniques include:
 
 - **Smart [Order Routing](../o/order_routing.md):** Directing orders to the best available venues to achieve optimal execution.
 - **Order Splitting:** Breaking large orders into smaller parts to minimize market impact.

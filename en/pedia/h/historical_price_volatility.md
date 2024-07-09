@@ -46,7 +46,7 @@ In [algorithmic trading](../a/algorithmic_trading.md), historical price volatili
 
 ### Strategy Development
 
-1. **Signal Generation:** Volatility-based indicators like [Bollinger Bands](../b/bollinger_bands.md), ATR (Average True Range), and volatility breakout systems use [historical volatility](../h/historical_volatility.md) to generate entry and exit signals.
+1. **Signal Generation:** Volatility-based indicators like [Bollinger Bands](../b/bollinger_bands.md), ATR ([Average True Range](../a/average_true_range_(atr).md)), and volatility breakout systems use [historical volatility](../h/historical_volatility.md) to generate entry and exit signals.
 2. **Optimization:** Fine-tuning parameters within algorithms require an understanding of how volatility affects returns and risks.
 3. **Market Regime Classification:** Segregating market regimes into high and low volatility periods can significantly enhance the performance of certain strategies.
 
@@ -92,7 +92,7 @@ Several platforms and tools facilitate the calculation and analysis of historica
 
 ### Financial Data Providers
 
-1. **Yahoo Finance:** Provides free historical price data which can be imported into [trading algorithms](../t/trading_algorithms.md) to calculate [historical volatility](../h/historical_volatility.md).
+1. **[Yahoo Finance](../y/yahoo_finance.md):** Provides free historical price data which can be imported into [trading algorithms](../t/trading_algorithms.md) to calculate [historical volatility](../h/historical_volatility.md).
    - [Yahoo Finance](https://finance.yahoo.com/)
 
 2. **Alpha Vantage:** Offers APIs for historical and real-time data feeds. Ideal for developers needing historical data for volatility calculations.

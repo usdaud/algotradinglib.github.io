@@ -16,7 +16,7 @@ Consider a simple historical example from World War II: when analyzing bullet ho
 When testing an [algorithmic trading](../a/algorithmic_trading.md) strategy, if historical data only includes surviving stocks (stocks that have not been delisted or gone bankrupt), the backtest results will likely overestimate the performance. This is because the dataset disregards the stocks that performed poorly and were removed from indices or went bankrupt.
 
 ##### 2. Misleading Risk Assessments
-Survivorship Bias can also distort risk assessments. If one only looks at data from firms that survived a financial crisis, the risk models built from such data might underestimate the true risks involved. Real-world trading incorporates firms that failed—failing to include these in the analysis means ignoring the "tail risks" that can lead to significant losses.
+Survivorship Bias can also distort risk assessments. If one only looks at data from firms that survived a financial crisis, the [risk models](../r/risk_models_in_trading.md) built from such data might underestimate the true risks involved. Real-world trading incorporates firms that failed—failing to include these in the analysis means ignoring the "tail risks" that can lead to significant losses.
 
 ##### 3. Robustness to Market Conditions
 Strategies developed without considering survivorship bias may appear robust in backtests but could perform poorly under actual market conditions. This is because the backtested data might not represent true market conditions, having excluded a swath of failing companies that would otherwise impact the strategy's robustness.

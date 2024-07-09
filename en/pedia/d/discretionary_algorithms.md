@@ -57,7 +57,7 @@ While specific company details might not be universally accessible, several firm
 ## Challenges and Considerations
 
 ### 1. Overfitting and Bias
-One of the significant challenges in developing discretionary algorithms is maintaining objectivity. Overfitting to historical data or allowing cognitive biases to influence decisions can lead to suboptimal trading outcomes. Continuous evaluation and adjustment are necessary to ensure the effectiveness of the strategy.
+One of the significant challenges in developing discretionary algorithms is maintaining objectivity. Overfitting to historical data or allowing [cognitive biases](../c/cognitive_biases_in_trading.md) to influence decisions can lead to suboptimal trading outcomes. Continuous evaluation and adjustment are necessary to ensure the effectiveness of the strategy.
 
 ### 2. Technological Dependence
 While discretionary algorithms benefit from advanced technology, excessive reliance can be a disadvantage. Technological failures or cyber threats pose risks that need to be managed carefully. Ensuring robust cybersecurity measures and having contingency plans are crucial for mitigating these risks.
@@ -69,12 +69,12 @@ Implementing discretionary algorithms requires a high level of skill and experie
 Discretionary algorithms must be adaptable to various market conditions. Strategies that work well in stable markets may not be effective in volatile or unpredictable environments. Regular [backtesting](../b/backtesting.md) and strategy refinement are necessary to ensure ongoing relevance and effectiveness.
 
 ### 5. Regulatory Compliance
-Compliance with regulatory requirements is a critical consideration in discretionary [algorithmic trading](../a/algorithmic_trading.md). Traders and firms must ensure that their practices adhere to the legal and ethical standards set by regulatory bodies. This includes maintaining transparency, avoiding market manipulation, and ensuring fair trading practices.
+Compliance with regulatory requirements is a critical consideration in discretionary [algorithmic trading](../a/algorithmic_trading.md). Traders and firms must ensure that their practices adhere to the legal and [ethical standards](../e/ethical_standards_in_trading.md) set by regulatory bodies. This includes maintaining transparency, avoiding market manipulation, and ensuring fair trading practices.
 
 ## Future Trends
 
 ### 1. Integration of AI and Machine Learning
-The integration of artificial intelligence (AI) and machine learning (ML) technologies is a growing trend in discretionary [algorithmic trading](../a/algorithmic_trading.md). These technologies can enhance [decision support systems](../d/decision_support_systems.md), offering more sophisticated analytical capabilities and predictive insights. AI and ML can help identify patterns and trends that might be missed by human traders, improving the overall effectiveness of discretionary algorithms.
+The integration of [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning (ML) technologies is a growing trend in discretionary [algorithmic trading](../a/algorithmic_trading.md). These technologies can enhance [decision support systems](../d/decision_support_systems.md), offering more sophisticated analytical capabilities and predictive insights. AI and ML can help identify patterns and trends that might be missed by human traders, improving the overall effectiveness of discretionary algorithms.
 
 ### 2. Increased Use of Alternative Data
 [Alternative data](../a/alternative_data.md) sources, such as satellite imagery, social media activity, and transactional data, are becoming increasingly popular in discretionary [algorithmic trading](../a/algorithmic_trading.md). These data sources provide unique insights into market conditions and can be valuable for making more informed trading decisions.

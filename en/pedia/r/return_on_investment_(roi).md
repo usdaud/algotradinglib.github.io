@@ -26,7 +26,7 @@ Higher ROI values signify better performance relative to the investment costs, c
 
 ## ROI in Algorithmic Trading
 
-[Algorithmic trading](../a/algorithmic_trading.md) (or algo-trading) utilizes computer programs and algorithms to execute trades automatically based on predetermined criteria. These criteria might include timing, price, quantity, or complex mathematical models.
+[Algorithmic trading](../a/algorithmic_trading.md) (or algo-trading) utilizes computer programs and algorithms to execute trades automatically based on predetermined criteria. These criteria might include timing, price, quantity, or complex [mathematical models](../m/mathematical_models_in_trading.md).
 
 ### The Role of ROI in Algorithmic Trading
 
@@ -71,7 +71,7 @@ HFT involves executing a large number of orders at extremely high speeds, capita
 
 ### Machine Learning and AI
 
-Incorporating machine learning algorithms can significantly optimize trade decisions. [Pattern recognition](../p/pattern_recognition.md), [predictive analytics](../p/predictive_analytics.md), and [adaptive algorithms](../a/adaptive_algorithms.md) can enhance ROI through smarter, [data-driven trading strategies](../d/data-driven_trading_strategies.md).
+Incorporating machine [learning algorithms](../l/learning_algorithms_in_trading.md) can significantly optimize trade decisions. [Pattern recognition](../p/pattern_recognition.md), [predictive analytics](../p/predictive_analytics.md), and [adaptive algorithms](../a/adaptive_algorithms.md) can enhance ROI through smarter, [data-driven trading strategies](../d/data-driven_trading_strategies.md).
 
 ## Tools and Platforms for Optimizing ROI in Algo-Trading
 
@@ -85,7 +85,7 @@ Incorporating machine learning algorithms can significantly optimize trade decis
 
 ### QuantRocket
 
-[QuantRocket](https://www.quantrocket.com/) offers trading tools that integrate with Interactive Brokers, providing data science tools, [backtesting](../b/backtesting.md), and automated trading capabilities to optimize ROI.
+[QuantRocket](https://www.quantrocket.com/) offers trading tools that integrate with [Interactive Brokers](../i/interactive_brokers.md), providing [data science](../d/data_science_in_trading.md) tools, [backtesting](../b/backtesting.md), and automated trading capabilities to optimize ROI.
 
 ## Challenges in Maximizing ROI
 
@@ -109,7 +109,7 @@ Renaissance Technologies, known for their Medallion Fund, has achieved exception
 
 ### Two Sigma Investments
 
-Two Sigma Investments leverages big data, AI, and machine learning to drive their [algorithmic trading](../a/algorithmic_trading.md) strategies. Their tech-first approach has enabled impressive ROI performance in a competitive market landscape.
+Two Sigma Investments leverages [big data](../b/big_data_in_trading.md), AI, and machine learning to drive their [algorithmic trading](../a/algorithmic_trading.md) strategies. Their tech-first approach has enabled impressive ROI performance in a competitive market landscape.
 
 ## Conclusion
 

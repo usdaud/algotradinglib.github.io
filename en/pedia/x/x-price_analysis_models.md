@@ -1,6 +1,6 @@
 # X-Price Analysis Models
 
-[Algorithmic trading](../a/algorithmic_trading.md), often referred to as "algo trading," leverages computer algorithms to place trades in financial markets automatically, using pre-defined strategies without human intervention. One essential component of [algorithmic trading](../a/algorithmic_trading.md) is [X-Price Analysis](../x/x-price_analysis.md) Models, which play a crucial role in predicting the future movements of security prices to maximize profits and minimize risks. These models encompass a variety of techniques and methods, incorporating statistical tools, machine learning algorithms, and financial theories to make informed trading decisions. This comprehensive guide explores different types of [X-Price Analysis](../x/x-price_analysis.md) Models, how they work, their applications, advantages, and limitations.
+[Algorithmic trading](../a/algorithmic_trading.md), often referred to as "algo trading," leverages computer algorithms to place trades in financial markets automatically, using pre-defined strategies without human intervention. One essential component of [algorithmic trading](../a/algorithmic_trading.md) is [X-Price Analysis](../x/x-price_analysis.md) Models, which play a crucial role in predicting the future movements of security prices to maximize profits and minimize risks. These models encompass a variety of techniques and methods, incorporating statistical tools, machine [learning algorithms](../l/learning_algorithms_in_trading.md), and financial theories to make informed trading decisions. This comprehensive guide explores different types of [X-Price Analysis](../x/x-price_analysis.md) Models, how they work, their applications, advantages, and limitations.
 
 ## 1. Mean Reversion Models
 
@@ -98,7 +98,7 @@ Minimize ∑ (|| xi - μj ||)^2
 
 #### 3.2.2 Principal Component Analysis (PCA)
 
-PCA is used for dimensionality reduction, transforming large datasets into smaller ones with minimal loss of information.
+PCA is used for [dimensionality reduction](../d/dimensionality_reduction_in_trading.md), transforming large datasets into smaller ones with minimal loss of information.
 
 ## 4. Sentiment Analysis Models
 
@@ -154,7 +154,7 @@ Virtu Financial is a prominent HFT firm known for its market-making and latency 
 
 ## 7. Neural Network Models
 
-Neural networks, particularly deep learning architectures, can model complex relationships between input features and target variables, making them suitable for predicting price movements.
+[Neural networks](../n/neural_networks_in_trading.md), particularly deep learning architectures, can model complex relationships between input features and target variables, making them suitable for predicting price movements.
 
 ### 7.1 Feedforward Neural Networks (FNN)
 
@@ -174,8 +174,8 @@ CNNs are commonly used in image recognition but have been adapted for [time seri
 
 ### Example: [Numerai](https://numer.ai/)
 
-Numerai is a crowdsourced hedge fund utilizing neural network models built by data scientists worldwide to predict stock market movements based on anonymized data.
+Numerai is a crowdsourced hedge fund utilizing neural [network models](../n/network_models_in_trading.md) built by data scientists worldwide to predict stock market movements based on anonymized data.
 
 ## Conclusion
 
-[X-Price Analysis](../x/x-price_analysis.md) Models are essential tools in [algorithmic trading](../a/algorithmic_trading.md), enabling traders to make data-driven decisions and automate trading processes. From traditional statistical methods to advanced machine learning and neural networks, these models provide various ways to analyze and predict price movements, each with its strengths and limitations. As technology and financial markets evolve, the integration of newer models and techniques will continue to enhance the efficiency and accuracy of [algorithmic trading](../a/algorithmic_trading.md) strategies.
+[X-Price Analysis](../x/x-price_analysis.md) Models are essential tools in [algorithmic trading](../a/algorithmic_trading.md), enabling traders to make data-driven decisions and automate trading processes. From traditional statistical methods to advanced machine learning and [neural networks](../n/neural_networks_in_trading.md), these models provide various ways to analyze and predict price movements, each with its strengths and limitations. As technology and financial markets evolve, the integration of newer models and techniques will continue to enhance the efficiency and accuracy of [algorithmic trading](../a/algorithmic_trading.md) strategies.

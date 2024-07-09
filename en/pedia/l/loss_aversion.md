@@ -1,12 +1,12 @@
 # Loss Aversion
 
-Loss aversion is a principle of [behavioral finance](../b/behavioral_finance.md) that describes the observed phenomenon where individuals tend to prefer avoiding losses rather than acquiring equivalent gains. For example, for many people, losing $100 feels more painful than the pleasure of gaining $100. This concept was initially introduced by psychologists Daniel Kahneman and Amos Tversky in their seminal work on prospect theory.
+Loss aversion is a principle of [behavioral finance](../b/behavioral_finance.md) that describes the observed phenomenon where individuals tend to prefer avoiding losses rather than acquiring equivalent gains. For example, for many people, losing $100 feels more painful than the pleasure of gaining $100. This concept was initially introduced by psychologists Daniel Kahneman and Amos Tversky in their seminal work on [prospect theory](../p/prospect_theory_in_trading.md).
 
 ## Key Concepts
 
 ### Prospect Theory
 
-Prospect theory, developed by Kahneman and Tversky, provides a framework for understanding the psychology of decision-making under risk. According to this theory, people make decisions based on potential losses and gains rather than the final outcome, and they evaluate these losses and gains using certain heuristics. One of the essential elements of prospect theory is that people are loss-averse; losses weigh heavier on the mind than gains.
+[Prospect theory](../p/prospect_theory_in_trading.md), developed by Kahneman and Tversky, provides a framework for understanding the psychology of decision-making under risk. According to this theory, people make decisions based on potential losses and gains rather than the final outcome, and they evaluate these losses and gains using certain heuristics. One of the essential elements of [prospect theory](../p/prospect_theory_in_trading.md) is that people are loss-averse; losses weigh heavier on the mind than gains.
 
 ### Utility Function Asymmetry
 
@@ -24,7 +24,7 @@ The endowment effect is a manifestation of loss aversion. According to this prin
 
 ### Behavioral Biases in Trading
 
-Loss aversion plays a significant role in trading behaviors. Traders, like all people, are susceptible to cognitive biases and heuristics that can affect their decision-making. A loss-averse trader might hold on to losing positions longer than is rational, hoping to avoid the realization of a loss. Conversely, they might close winning positions too early to "lock in" gains, even when it might be prudent to let them run.
+Loss aversion plays a significant role in trading behaviors. Traders, like all people, are susceptible to [cognitive biases](../c/cognitive_biases_in_trading.md) and heuristics that can affect their decision-making. A loss-averse trader might hold on to losing positions longer than is rational, hoping to avoid the realization of a loss. Conversely, they might close winning positions too early to "lock in" gains, even when it might be prudent to let them run.
 
 ### Risk Management
 
@@ -32,7 +32,7 @@ Understanding loss aversion can be crucial for effective [risk management](../r/
 
 ### Algorithmic Trading
 
-[Algorithmic trading](../a/algorithmic_trading.md) strategies can be designed to counteract the biases introduced by loss aversion. By following a predefined set of rules that are not influenced by emotion, [algorithmic trading](../a/algorithmic_trading.md) systems can help avoid the pitfalls associated with behavioral biases. For example, an algorithm can be programmed to strictly adhere to stop-loss rules, thereby preventing the tendency to hold onto losing positions in hopes of a rebound.
+[Algorithmic trading](../a/algorithmic_trading.md) strategies can be designed to counteract the biases introduced by loss aversion. By following a predefined set of rules that are not influenced by emotion, [algorithmic trading](../a/algorithmic_trading.md) systems can help avoid the pitfalls associated with [behavioral biases](../b/behavioral_biases_in_trading.md). For example, an algorithm can be programmed to strictly adhere to stop-loss rules, thereby preventing the tendency to hold onto losing positions in hopes of a rebound.
 
 ## Real-World Examples
 

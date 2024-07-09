@@ -54,7 +54,7 @@ Maintaining discipline requires regular review and adjustment of the trading pla
 
 ### Keeping a Trading Journal
 
-A trading journal is a valuable tool for maintaining discipline. It involves documenting all trades, including the rationale behind each trade, entry and exit points, and the outcome. A trading journal helps in identifying patterns, psychological biases, and areas for improvement over time.
+A trading journal is a valuable tool for maintaining discipline. It involves documenting all trades, including the rationale behind each trade, entry and exit points, and the outcome. A trading journal helps in identifying patterns, [psychological biases](../p/psychological_biases_in_trading.md), and areas for improvement over time.
 
 ### Setting Realistic Goals
 
@@ -72,7 +72,7 @@ The financial markets are constantly evolving, and continuous education is vital
 
 ### Trading Platforms and Software
 
-Using advanced trading platforms and software can enhance trading discipline. These platforms offer features such as [automated trade execution](../a/automated_trade_execution.md), real-time analytics, and [risk management](../r/risk_management.md) tools, helping traders adhere to their trading plans. Platforms like MetaTrader, Interactive Brokers, and [TradeStation](../t/tradestation.md) offer such features.
+Using advanced trading platforms and software can enhance trading discipline. These platforms offer features such as [automated trade execution](../a/automated_trade_execution.md), real-time analytics, and [risk management](../r/risk_management.md) tools, helping traders adhere to their trading plans. Platforms like MetaTrader, [Interactive Brokers](../i/interactive_brokers.md), and [TradeStation](../t/tradestation.md) offer such features.
 
 ### Risk Management Tools
 
@@ -84,7 +84,7 @@ Using advanced trading platforms and software can enhance trading discipline. Th
 
 ### Backtesting and Simulation
 
-[Backtesting](../b/backtesting.md) involves testing a trading strategy on historical data to evaluate its performance. Simulation tools allow traders to practice their strategies in a risk-free environment. These tools help in refining [trading strategies](../t/trading_strategies.md) and building confidence, which is crucial for maintaining discipline. Platforms like Quantopian [www.quantopian.com](https://www.quantopian.com) offer [backtesting](../b/backtesting.md) and simulation services.
+[Backtesting](../b/backtesting.md) involves testing a trading strategy on historical data to evaluate its performance. [Simulation](../s/simulation_in_trading.md) tools allow traders to practice their strategies in a risk-free environment. These tools help in refining [trading strategies](../t/trading_strategies.md) and building confidence, which is crucial for maintaining discipline. Platforms like Quantopian [www.quantopian.com](https://www.quantopian.com) offer [backtesting](../b/backtesting.md) and [simulation](../s/simulation_in_trading.md) services.
 
 ### Trading Bots
 
@@ -98,7 +98,7 @@ Trading bots are automated software programs that execute trades on behalf of tr
 
 ### Interactive Brokers
 
-Interactive Brokers offers a range of features that promote disciplined trading, including [risk management](../r/risk_management.md) tools, automated trading capabilities, and educational resources. The platform's advanced technology helps traders execute trades according to their plans. For more information, visit [Interactive Brokers](https://www.interactivebrokers.com).
+[Interactive Brokers](../i/interactive_brokers.md) offers a range of features that promote disciplined trading, including [risk management](../r/risk_management.md) tools, automated trading capabilities, and educational resources. The platform's advanced technology helps traders execute trades according to their plans. For more information, visit [Interactive Brokers](https://www.interactivebrokers.com).
 
 ### 3Commas
 

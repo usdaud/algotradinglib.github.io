@@ -20,7 +20,7 @@ ThinkOrSwim, often abbreviated as TOS, is a comprehensive trading platform devel
 - Risk/reward analysis tools
 - Real-time Greeks for options
 - Customizable order entry interfaces
-- Trailing stops and other advanced order types
+- Trailing stops and other advanced [order types](../o/order_types_in_trading.md)
 
 ### 3. Paper Trading
 

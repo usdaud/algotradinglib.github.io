@@ -36,7 +36,7 @@ In the intricate world of trading, particularly [algorithmic trading](../a/algor
 
 #### Combining Indicators for Robust Signals
 
-Using multiple indicators can provide more robust [trading signals](../t/trading_signals.md) thereby reducing the likelihood of false signals. For instance, a trader might use both MACD and RSI indicators to confirm reversal. If the RSI signals a market is overbought, and around the same time, the MACD line crosses below the signal line, this provides a stronger indication of a potential reversal. 
+Using multiple indicators can provide more robust [trading signals](../t/trading_signals.md) thereby reducing the likelihood of [false signals](../f/false_signals_in_trading.md). For instance, a trader might use both MACD and RSI indicators to confirm reversal. If the RSI signals a market is overbought, and around the same time, the MACD line crosses below the signal line, this provides a stronger indication of a potential reversal. 
 
 #### Algorithmic Implementation of Reversal Indicators
 
@@ -82,7 +82,7 @@ print(signals[['Date', 'Close', 'RSI', 'MACD', 'Signal_Line', 'Buy_Signal', 'Sel
 
 #### Practical considerations and Challenges
 
-1. **False Signals:** No indicator is perfect. They often fail in highly volatile markets where price movements are erratic. Algorithms must include mechanisms to minimize false signals.
+1. **[False Signals](../f/false_signals_in_trading.md):** No indicator is perfect. They often fail in highly volatile markets where price movements are erratic. Algorithms must include mechanisms to minimize [false signals](../f/false_signals_in_trading.md).
    
 2. **Lagging nature:** Indicators like MACD and moving averages are often lagging, indicating the past trends but may not preemptively forecast reversals.
 

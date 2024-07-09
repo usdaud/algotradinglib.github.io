@@ -14,15 +14,15 @@ Dynamic [Quantitative Models](../q/quantitative_models.md) employ statistical te
 
 2. **Feature Engineering**:
     - **[Technical Indicators](../t/technical_indicators.md)**: Indicators such as Moving Averages (MA), Relative Strength Index (RSI), and [Bollinger Bands](../b/bollinger_bands.md) are computed.
-    - **[Sentiment Analysis](../s/sentiment_analysis.md)**: Natural Language Processing (NLP) techniques analyze market sentiment from news articles and social media.
+    - **[Sentiment Analysis](../s/sentiment_analysis.md)**: [Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) techniques analyze market sentiment from news articles and social media.
 
 3. **Model Development**:
     - **Statistical Methods**: Traditional methods like [Regression Analysis](../r/regression_analysis.md), ARIMA models, and [GARCH models](../g/garch_models.md).
-    - **Machine Learning**: Techniques including [Decision Trees](../d/decision_trees.md), Random Forests, Support Vector Machines (SVM), and Neural Networks.
+    - **Machine Learning**: Techniques including [Decision Trees](../d/decision_trees.md), [Random Forests](../r/random_forests_in_trading.md), [Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM), and [Neural Networks](../n/neural_networks_in_trading.md).
 
 4. **Model Calibration**:
     - **[Backtesting](../b/backtesting.md)**: Models are tested using historical data to evaluate their performance.
-    - **Parameter Tuning**: Optimization techniques like Grid Search and [Bayesian Optimization](../b/bayesian_optimization.md) are used for parameter tuning.
+    - **Parameter Tuning**: Optimization techniques like [Grid Search](../g/grid_search_in_trading.md) and [Bayesian Optimization](../b/bayesian_optimization.md) are used for parameter tuning.
 
 5. **Execution and [Risk Management](../r/risk_management.md)**:
     - **Order [Execution Algorithms](../e/execution_algorithms.md)**: Algorithms such as Volume Weighted Average Price (VWAP) and Implementation Shortfall.
@@ -51,14 +51,14 @@ Dynamic [Quantitative Models](../q/quantitative_models.md) are grounded in vario
 Machine learning (ML) techniques are increasingly used in DQMs to enhance predictive power and adaptability:
 
 1. **Supervised Learning**:
-    - **Linear and Logistic Regression**: Basic forms of regression for continuous and binary outcomes.
-    - **Support Vector Machines (SVM)**: Effective for classification and regression challenges.
-    - **[Decision Trees](../d/decision_trees.md) and Random Forests**: Handle non-linear relationships and feature interactions.
-    - **Neural Networks**: Capture complex patterns using layers of interconnected nodes.
+    - **Linear and [Logistic Regression](../l/logistic_regression_in_trading.md)**: Basic forms of regression for continuous and binary outcomes.
+    - **[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM)**: Effective for classification and regression challenges.
+    - **[Decision Trees](../d/decision_trees.md) and [Random Forests](../r/random_forests_in_trading.md)**: Handle non-linear relationships and feature interactions.
+    - **[Neural Networks](../n/neural_networks_in_trading.md)**: Capture complex patterns using layers of interconnected nodes.
 
 2. **Unsupervised Learning**:
-    - **K-Means Clustering**: Identifies underlying structures in data.
-    - **Principal Component Analysis (PCA)**: Reduces dimensionality for computational efficiency.
+    - **[K-Means Clustering](../k/k-means_clustering_in_trading.md)**: Identifies underlying structures in data.
+    - **[Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA)**: Reduces dimensionality for computational efficiency.
 
 3. **Reinforcement Learning**:
     - **Temporal Difference Learning**: Adjusts predictions based on learned corrections.

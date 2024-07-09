@@ -11,7 +11,7 @@ Redemption risk is the possibility that a higher-than-expected volume of redempt
 1. **Market Volatility**: High volatility can cause investors to panic and redeem their investments to cut losses.
 2. **Fund Performance**: Poor performance of a fund can trigger a wave of redemptions as investors seek better returns elsewhere.
 3. **Economic Conditions**: Market downturns, recessions, or adverse economic conditions can increase redemption rates.
-4. **Investor Behavior**: Psychological factors and herd behavior can amplify redemption risk. When influential investors redeem their investments, others may follow.
+4. **Investor Behavior**: Psychological factors and [herd behavior](../h/herd_behavior_in_trading.md) can amplify redemption risk. When influential investors redeem their investments, others may follow.
 5. **Regulatory Changes**: New laws or regulations affecting the financial sector can prompt investors to re-evaluate their holdings, leading to redemptions.
 
 ## Impact of Redemption Risk on Funds
@@ -33,7 +33,7 @@ Redemption risk is the possibility that a higher-than-expected volume of redempt
 
 ### LTCM (Long-Term Capital Management)
 
-Long-Term Capital Management (LTCM) was a highly leveraged hedge fund that almost collapsed in 1998 due to significant redemption risk. The fund employed complex mathematical models to engage in [arbitrage](../a/arbitrage.md) trading but experienced massive losses due to market volatility and large-scale redemptions. The Federal Reserve had to orchestrate a bailout to prevent a broader financial crisis.
+Long-Term Capital Management (LTCM) was a highly leveraged hedge fund that almost collapsed in 1998 due to significant redemption risk. The fund employed complex [mathematical models](../m/mathematical_models_in_trading.md) to engage in [arbitrage](../a/arbitrage.md) trading but experienced massive losses due to market volatility and large-scale redemptions. The Federal Reserve had to orchestrate a bailout to prevent a broader financial crisis.
 
 ### The 2008 Financial Crisis
 

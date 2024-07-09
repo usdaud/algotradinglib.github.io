@@ -26,7 +26,7 @@ Example: Generation Investment Management, co-founded by former Vice President A
 
 #### 4. The Surge of Fintech Investments
 
-The financial technology (fintech) sector continues to attract substantial [venture capital investment](../v/venture_capital_investment.md). Innovations in this sector, such as digital banking, blockchain technology, and payment solutions, have disrupted traditional financial services and attracted a significant amount of interest from VC firms. The COVID-19 pandemic has further accelerated the adoption of digital financial services, contributing to the surge in fintech investments.
+The financial technology (fintech) sector continues to attract substantial [venture capital investment](../v/venture_capital_investment.md). Innovations in this sector, such as digital banking, [blockchain](../b/blockchain_in_trading.md) technology, and payment solutions, have disrupted traditional financial services and attracted a significant amount of interest from VC firms. The COVID-19 pandemic has further accelerated the adoption of digital financial services, contributing to the surge in fintech investments.
 
 Example: Sequoia Capital has been a significant investor in fintech companies, including major investments in firms like Stripe and [Robinhood](../r/robinhood.md). [Sequoia Capital](https://www.sequoiacap.com/)
 
@@ -38,15 +38,15 @@ Example: Rock Health, a venture fund dedicated to digital health, invests in sta
 
 #### 6. Growth of Decentralized Finance (DeFi) 
 
-Decentralized Finance, or DeFi, is an emerging trend within the broader fintech landscape that leverages blockchain technologies to create financial instruments without traditional intermediaries. This movement towards decentralized financial systems is gaining traction and attracting significant venture capital interest due to its potential to disrupt traditional banking and finance.
+Decentralized Finance, or DeFi, is an emerging trend within the broader fintech landscape that leverages [blockchain](../b/blockchain_in_trading.md) technologies to create financial instruments without traditional intermediaries. This movement towards decentralized financial systems is gaining traction and attracting significant venture capital interest due to its potential to disrupt traditional banking and finance.
 
-Example: Polychain Capital specializes in investing in cryptocurrency and blockchain technology companies, playing a significant role in the growth of the DeFi space. [Polychain Capital](https://polychain.capital/)
+Example: Polychain Capital specializes in investing in cryptocurrency and [blockchain](../b/blockchain_in_trading.md) technology companies, playing a significant role in the growth of the DeFi space. [Polychain Capital](https://polychain.capital/)
 
 #### 7. Enterprise Software and SaaS Boom
 
 Enterprise software and Software-as-a-Service (SaaS) have emerged as dominant sectors within the venture capital ecosystem. Companies in this space offer technology solutions that help businesses automate processes, enhance productivity, and achieve digital transformation. The reliability of recurring revenue models and the scalability of SaaS platforms make them attractive investment targets.
 
-Example: Bessemer Venture Partners has a strong focus on investing in cloud computing and SaaS companies, with successful investments in firms like Twilio and Shopify. [Bessemer Venture Partners](https://www.bvp.com/)
+Example: Bessemer Venture Partners has a strong focus on investing in [cloud computing](../c/cloud_computing_in_trading.md) and SaaS companies, with successful investments in firms like Twilio and Shopify. [Bessemer Venture Partners](https://www.bvp.com/)
 
 #### 8. Geographic Diversification
 
@@ -62,7 +62,7 @@ Example: Google Ventures (GV) is one of the most notable CVCs, investing in star
 
 #### 10. Confluence of Artificial Intelligence and Machine Learning
 
-Artificial Intelligence (AI) and Machine Learning (ML) continue to be hot areas for [venture capital investment](../v/venture_capital_investment.md). Startups that leverage these technologies to offer innovative solutions across various sectors, including healthcare, finance, and e-commerce, are gaining significant traction. The ability of AI and ML to transform industries by driving efficiency and enabling new capabilities makes them highly attractive to investors.
+[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) and Machine Learning (ML) continue to be hot areas for [venture capital investment](../v/venture_capital_investment.md). Startups that leverage these technologies to offer innovative solutions across various sectors, including healthcare, finance, and e-commerce, are gaining significant traction. The ability of AI and ML to transform industries by driving efficiency and enabling new capabilities makes them highly attractive to investors.
 
 Example: Data Collective DCVC is a venture capital firm that specializes in deep tech investments, focusing on companies that leverage AI and ML to solve complex problems. [Data Collective DCVC](https://www.dcvc.com/)
 

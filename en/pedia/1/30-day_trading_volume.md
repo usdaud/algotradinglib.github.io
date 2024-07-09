@@ -33,7 +33,7 @@ One of the most common uses of the 30-[day trading](../d/day_trading.md) volume 
 [Mean reversion](../m/mean_reversion.md) strategies are based on the principle that asset prices will revert to their mean or average over time. The 30-[day trading](../d/day_trading.md) volume can be a useful metric in these strategies as it provides a context for average trading activity, helping algorithms to determine whether a price is likely to revert based on observed trading behavior.
 
 ### Momentum Trading
-[Momentum trading](../m/momentum_trading.md) strategies involve buying assets that have shown an upward price trend and selling short assets that have shown a downward trend. The 30-[day trading](../d/day_trading.md) volume plays an essential role in validating these trends and enhancing the accuracy of these algorithms. High trading volumes can confirm the strength of the trend, while low volumes could indicate a potential uncertainty.
+[Momentum trading](../m/momentum_trading.md) strategies involve buying assets that have shown an upward price trend and selling short assets that have shown a downward trend. The 30-[day trading](../d/day_trading.md) volume plays an essential role in validating these trends and enhancing the accuracy of these algorithms. High trading volumes can confirm the strength of the trend, while low volumes could indicate a potential [uncertainty](../u/uncertainty_in_trading.md).
 
 ## Case Studies and Real-World Examples
 
@@ -60,7 +60,7 @@ In less regulated markets, trading volumes can be artificially inflated through 
 ## Future Trends
 
 ### Machine Learning and AI
-The integration of machine learning and artificial intelligence in [algorithmic trading](../a/algorithmic_trading.md) is expected to further refine the use and analysis of the 30-[day trading](../d/day_trading.md) volume. Advanced algorithms can detect intricate patterns and correlations in volume data, leading to more sophisticated [trading strategies](../t/trading_strategies.md).
+The integration of machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) in [algorithmic trading](../a/algorithmic_trading.md) is expected to further refine the use and analysis of the 30-[day trading](../d/day_trading.md) volume. Advanced algorithms can detect intricate patterns and correlations in volume data, leading to more sophisticated [trading strategies](../t/trading_strategies.md).
 
 ### Real-Time Volume Analysis
 With the advent of high-speed internet and improvements in processing power, real-time analysis of trading volume is becoming more feasible. This allows algorithmic traders to make decisions on the fly, enhancing responsiveness to market conditions.

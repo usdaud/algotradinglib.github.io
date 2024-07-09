@@ -12,13 +12,13 @@ Rithmic is a leading provider of high-performance trade execution, [risk managem
 6. **Colocation Services**: Colocation options for traders seeking the lowest possible latency by placing their servers near exchange data centers.
 7. **Historical Data**: Access to extensive historical market data for [backtesting](../b/backtesting.md) and analysis.
 8. **Scalability**: Highly scalable infrastructure capable of handling large trading volumes and complex [trading strategies](../t/trading_strategies.md).
-9. **Order Management**: Advanced order management system with support for various order types and execution strategies.
+9. **[Order Management](../o/order_management_in_trading.md)**: Advanced [order management](../o/order_management_in_trading.md) system with support for various [order types](../o/order_types_in_trading.md) and execution strategies.
 10. **Security and Compliance**: Robust security measures and compliance tools to meet regulatory requirements.
 
 ## Key Components
 - **R | API+**: Rithmic’s proprietary API for developing custom trading applications and accessing market data.
 - **R | Trade Execution Platform**: High-performance platform for executing trades with minimal latency.
-- **R | Trader Pro**: User-friendly trading platform with advanced charting, order management, and [risk management](../r/risk_management.md) tools.
+- **R | Trader Pro**: User-friendly trading platform with advanced charting, [order management](../o/order_management_in_trading.md), and [risk management](../r/risk_management.md) tools.
 - **R | [Risk Management](../r/risk_management.md)**: Real-time [risk management](../r/risk_management.md) system to monitor and manage trading risks.
 - **R | Historical Data**: Comprehensive historical data services for [backtesting](../b/backtesting.md) and market analysis.
 - **Market Data Feeds**: High-quality [real-time market data](../r/real-time_market_data.md) from major exchanges.
@@ -26,7 +26,7 @@ Rithmic is a leading provider of high-performance trade execution, [risk managem
 ## Integrations
 Rithmic integrates seamlessly with a variety of trading platforms, brokers, and data providers to offer a comprehensive trading experience. Some notable integrations include:
 
-- **Trading Platforms**: Integration with popular trading platforms such as [NinjaTrader](../n/ninjatrader.md), [MultiCharts](../m/multicharts.md), Sierra Chart, and more.
+- **Trading Platforms**: Integration with popular trading platforms such as [NinjaTrader](../n/ninjatrader.md), [MultiCharts](../m/multicharts.md), [Sierra Chart](../s/sierra_chart.md), and more.
 - **Brokerage Firms**: Connectivity with numerous brokers for seamless order execution and account management.
 - **Market Data Providers**: Access to real-time and historical market data from leading exchanges and data providers.
 - **Third-Party Applications**: Support for various third-party tools and applications to extend platform capabilities.

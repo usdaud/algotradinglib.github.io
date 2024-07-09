@@ -28,9 +28,9 @@ There are various methodologies for [yield spread](../y/yield_spread.md) decompo
 
 2. **[Regression Analysis](../r/regression_analysis.md)**: By using statistical [regression techniques](../r/regression_techniques.md), analysts can decompose yield spreads into various factors. For example, a regression model could estimate the portion of the spread attributable to credit risk, liquidity, and other factors.
 
-3. **Structural Models**: These models incorporate economic and financial variables (e.g., company financials, macroeconomic indicators) to separate the [yield spread](../y/yield_spread.md) into different components. Structural models can be quite sophisticated and may include factors such as default probability and loss given default.
+3. **[Structural Models](../s/structural_models_in_trading.md)**: These models incorporate economic and financial variables (e.g., company financials, macroeconomic indicators) to separate the [yield spread](../y/yield_spread.md) into different components. [Structural models](../s/structural_models_in_trading.md) can be quite sophisticated and may include factors such as default probability and loss given default.
 
-4. **Principal Component Analysis (PCA)**: PCA is a statistical technique used to reduce the dimensionality of data and identify the principal components driving the [yield spread](../y/yield_spread.md). By analyzing the principal components, one can infer the underlying factors affecting the spread.
+4. **[Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA)**: PCA is a statistical technique used to reduce the dimensionality of data and identify the [principal components](../p/principal_components_in_trading.md) driving the [yield spread](../y/yield_spread.md). By analyzing the [principal components](../p/principal_components_in_trading.md), one can infer the underlying factors affecting the spread.
 
 #### Practical Application
 
@@ -75,6 +75,6 @@ There are various tools and platforms available for conducting [yield spread](..
 
 #### Conclusion
 
-[Yield Spread](../y/yield_spread.md) Decomposition is a critical analysis technique in finance that helps dissect the [yield spread](../y/yield_spread.md) of bonds into its underlying components. By understanding these components, market participants can make more informed investment and [risk management](../r/risk_management.md) decisions. Various methodologies, such as spread curve analysis, regression, structural models, and PCA, offer different lenses through which to view and decompose yield spreads. With the availability of advanced analytical tools and platforms, the process has become more accessible, enabling deeper insights into the fixed-income market.
+[Yield Spread](../y/yield_spread.md) Decomposition is a critical analysis technique in finance that helps dissect the [yield spread](../y/yield_spread.md) of bonds into its underlying components. By understanding these components, market participants can make more informed investment and [risk management](../r/risk_management.md) decisions. Various methodologies, such as spread curve analysis, regression, [structural models](../s/structural_models_in_trading.md), and PCA, offer different lenses through which to view and decompose yield spreads. With the availability of advanced analytical tools and platforms, the process has become more accessible, enabling deeper insights into the fixed-income market.
 
 In summary, [yield spread](../y/yield_spread.md) decomposition not only enhances the understanding of bond yields but also provides a foundation for effective investment strategies, [risk management](../r/risk_management.md), and regulatory compliance. Whether you're a portfolio manager, risk analyst, trader, or researcher, mastering [yield spread](../y/yield_spread.md) decomposition can significantly augment your financial acumen and decision-making capabilities.

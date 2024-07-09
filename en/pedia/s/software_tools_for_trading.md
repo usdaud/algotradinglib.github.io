@@ -52,14 +52,14 @@ Alpha Vantage offers real-time and historical market data for stocks, forex, and
 [Alpha Vantage](https://www.alphavantage.co)
 
 ### IEX Cloud
-IEX Cloud provides a comprehensive financial data API offering historical and [real-time market data](../r/real-time_market_data.md), financial statements, and more.
+[IEX Cloud](../i/iex_cloud.md) provides a comprehensive financial data API offering historical and [real-time market data](../r/real-time_market_data.md), financial statements, and more.
 
 [IEX Cloud](https://iexcloud.io)
 
 ## 4. Broker APIs
 
 ### Interactive Brokers (IB)
-Interactive Brokers offers a robust API for trading various financial instruments, including stocks, options, futures, and forex. The API supports multiple programming languages such as Java, Python, and C++.
+[Interactive Brokers](../i/interactive_brokers.md) offers a robust API for trading various financial instruments, including stocks, options, futures, and forex. The API supports multiple programming languages such as Java, Python, and C++.
 
 [Interactive Brokers API](https://www.interactivebrokers.com/en/trading/ib-api.php)
 
@@ -103,7 +103,7 @@ Google Cloud Platform offers a range of services, including Compute Engine, BigQ
 [Google Cloud Platform](https://cloud.google.com)
 
 ### Microsoft Azure
-Azure provides cloud computing services for building, testing, and managing applications via Microsoft data centers. Its platform includes virtual machines, databases, and AI tools that are beneficial for algorithmic traders.
+Azure provides [cloud computing](../c/cloud_computing_in_trading.md) services for building, testing, and managing applications via Microsoft data centers. Its platform includes virtual machines, databases, and AI tools that are beneficial for algorithmic traders.
 
 [Microsoft Azure](https://azure.microsoft.com)
 

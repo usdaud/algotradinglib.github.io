@@ -1,6 +1,6 @@
 # Unit Root Hypothesis Testing
 
-Unit Root [Hypothesis testing](../h/hypothesis_testing.md) is a fundamental concept in the domain of time series econometrics, particularly crucial for [algorithmic trading](../a/algorithmic_trading.md) and [financial modeling](../f/financial_modeling.md). This form of [hypothesis testing](../h/hypothesis_testing.md) is essential in diagnosing whether a time series is stationary or contains a unit root, which implies non-stationarity. The presence of a unit root in a time series can drastically impact predictive models and their interpretations, making this testing a critical step in various financial algorithms and economic forecasts.
+Unit Root [Hypothesis testing](../h/hypothesis_testing.md) is a fundamental concept in the domain of time series [econometrics](../e/econometrics_in_trading.md), particularly crucial for [algorithmic trading](../a/algorithmic_trading.md) and [financial modeling](../f/financial_modeling.md). This form of [hypothesis testing](../h/hypothesis_testing.md) is essential in diagnosing whether a time series is stationary or contains a unit root, which implies non-stationarity. The presence of a unit root in a time series can drastically impact [predictive models](../p/predictive_models_in_trading.md) and their interpretations, making this testing a critical step in various financial algorithms and economic forecasts.
 
 ## Understanding Unit Roots
 
@@ -10,7 +10,7 @@ Mathematically, a time series \( y_t \) is said to have a unit root if it can be
 
 \[ y_t = y_{t-1} + \epsilon_t \]
 
-where \( \epsilon_t \) is a white noise error term with mean zero and constant variance. 
+where \( \epsilon_t \) is a [white noise](../w/white_noise_in_trading.md) error term with mean zero and constant variance. 
 
 In a more general form, an autoregressive process of order one, AR(1), is given by:
 
@@ -20,7 +20,7 @@ If \( \rho = 1 \), the series has a unit root and is non-stationary.
 
 ## Why Unit Root Testing is Important
 
-For financial and economic models, the stationarity of a time series is a vital assumption. Many statistical models, including regression, ARIMA, and machine learning algorithms, rely on the assumption of stationarity. A non-stationary series can lead to spurious results and misinterpretations, as typical statistical properties (mean, variance) are not constant over time.
+For financial and economic models, the stationarity of a time series is a vital assumption. Many statistical models, including regression, ARIMA, and machine [learning algorithms](../l/learning_algorithms_in_trading.md), rely on the assumption of stationarity. A non-stationary series can lead to spurious results and misinterpretations, as typical statistical properties (mean, variance) are not constant over time.
 
 [Unit root testing](../u/unit_root_testing.md) helps in:
 - Identifying whether a model should be differenced or transformed to achieve stationarity.
@@ -61,7 +61,7 @@ where \( u_t \) is a random walk: \( u_t = u_{t-1} + v_t \) with \( v_t \sim iid
 
 ### 4. Zivot-Andrews Test
 
-The Zivot-Andrews test is used to detect a unit root in the presence of structural breaks. Structural breaks could be in intercept, slope, or both, and failing to account for these breaks can lead to wrong conclusions about the presence of a unit root.
+The Zivot-Andrews test is used to detect a unit root in the presence of [structural breaks](../s/structural_breaks_in_trading.md). [Structural breaks](../s/structural_breaks_in_trading.md) could be in intercept, slope, or both, and failing to account for these breaks can lead to wrong conclusions about the presence of a unit root.
 
 The test estimates the following models:
 

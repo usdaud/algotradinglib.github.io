@@ -25,7 +25,7 @@ This statement provides insights into the cash inflows and outflows from operati
 ### Ratio Analysis
 Ratios are quantitative metrics derived from financial statements that help in assessing a company's performance and financial health. Common categories include:
 - **[Liquidity Ratios](../l/liquidity_ratios.md):** Measure the ability of a company to meet short-term obligations (e.g., Current Ratio, Quick Ratio).
-- **Profitability Ratios:** Assess the company's ability to generate profit relative to sales, equity, and assets (e.g., Net Profit Margin, Return on Assets).
+- **Profitability Ratios:** Assess the company's ability to generate profit relative to sales, equity, and assets (e.g., Net Profit Margin, [Return on Assets](../r/return_on_assets_(roa).md)).
 - **[Leverage Ratios](../l/leverage_ratios.md):** Evaluate the extent to which a company uses debt to finance its operations (e.g., Debt to Equity Ratio, Interest Coverage Ratio).
 - **Efficiency Ratios:** Indicate how well the company utilizes its assets (e.g., Inventory Turnover, Receivables Turnover).
 

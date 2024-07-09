@@ -24,10 +24,10 @@ Libor futures are standardized, exchange-traded contracts that represent the fut
 1. **Contract Specifications**: 
     - **Contract Size**: Typically, each contract covers a principal amount, such as $1 million for USD Libor.
     - **Contract Months**: These futures are available for quarterly contract months (March, June, September, December) and can extend up to several years in the future.
-    - **Pricing**: Futures prices are quoted as 100 minus the three-month Libor rate. For example, if the three-month Libor is 2.5%, the futures price would be 97.5.
+    - **Pricing**: Futures prices are quoted as 100 minus the three-month [Libor rate](../l/libor_rate_analysis.md). For example, if the three-month Libor is 2.5%, the futures price would be 97.5.
 
 2. **Settlement**: 
-    - **Cash Settlement**: Unlike some [futures contracts](../f/futures_contracts.md) that may require the delivery of a physical asset, Libor futures are cash-settled. This means that at expiration, the contract is settled in cash based on the difference between the contract price and the actual Libor rate.
+    - **Cash Settlement**: Unlike some [futures contracts](../f/futures_contracts.md) that may require the delivery of a physical asset, Libor futures are cash-settled. This means that at expiration, the contract is settled in cash based on the difference between the contract price and the actual [Libor rate](../l/libor_rate_analysis.md).
 
 3. **Expiration and Final Settlement**: 
     - **Final Settlement Date**: Libor futures settle on the third Wednesday of the contract month. The final settlement price is determined by taking the arithmetic average of the three-month Libor rates observed over a determined period before the settlement date.

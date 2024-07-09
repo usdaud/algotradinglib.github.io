@@ -16,7 +16,7 @@ Market timing is a sophisticated investment strategy employed by investors or tr
 ### 2. **Fundamental Analysis**
 While often associated with long-term investing, [fundamental analysis](../f/fundamental_analysis.md) also plays a crucial role in market timing. It involves evaluating a security's intrinsic value based on [economic indicators](../e/economic_indicators.md), financial performance, and market trends. Fundamentalists look at:
 
-- **[Economic Indicators](../e/economic_indicators.md):** GDP growth rates, unemployment rates, interest rates, and inflation rates.
+- **[Economic Indicators](../e/economic_indicators.md):** GDP [growth rates](../g/growth_rates_in_trading.md), unemployment rates, interest rates, and inflation rates.
   
 - **Financial Statements:** Income statements, balance sheets, and cash flow statements provide insights into a company's health.
   

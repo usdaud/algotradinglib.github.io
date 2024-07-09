@@ -34,7 +34,7 @@ Let's consider an investor who owns 100 shares of XYZ Corporation, currently tra
 
 ## Risks and Considerations
 
-1. **Limited Upside Potential**: By selling the call options, the investor caps the potential upside of their position. If the asset's price skyrockets, the gain is limited to the strike price plus the premium, while the call buyer enjoys the substantial rise.
+1. **Limited [Upside Potential](../u/upside_potential_in_trading.md)**: By selling the call options, the investor caps the potential upside of their position. If the asset's price skyrockets, the gain is limited to the strike price plus the premium, while the call buyer enjoys the substantial rise.
 
 2. **Obligation to Sell**: If the asset's price surpasses the strike price, the investor must sell their shares at the strike price, potentially foregoing higher profits.
 

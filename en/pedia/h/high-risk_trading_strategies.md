@@ -53,7 +53,7 @@ Scalping is a trading strategy that profits from small price changes, typically 
 
 ### 9. Algorithmic and Quantitative Trading
 
-[Algorithmic trading](../a/algorithmic_trading.md) uses computer programs to execute trades based on predefined criteria. [Quantitative trading](../q/quantitative_trading.md) uses mathematical models to identify trading opportunities. Both strategies can yield high returns but require complex models and substantial computational power. Misconfigurations or errors in the code can result in large losses.
+[Algorithmic trading](../a/algorithmic_trading.md) uses computer programs to execute trades based on predefined criteria. [Quantitative trading](../q/quantitative_trading.md) uses [mathematical models](../m/mathematical_models_in_trading.md) to identify trading opportunities. Both strategies can yield high returns but require complex models and substantial computational power. Misconfigurations or errors in the code can result in large losses.
 
 - **Example**: An algorithm designed to trade on news headlines might buy or sell in response to specific keywords. If the algorithm misinterprets data or acts on false information, it could incur losses.
 

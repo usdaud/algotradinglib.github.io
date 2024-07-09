@@ -35,7 +35,7 @@ Risk mitigation involves implementing strategies to reduce or control identified
 Regularly monitoring and evaluating the portfolio's risk ensures that it remains aligned with the investor’s risk tolerance and investment objectives. This involves:
 
 - **[Performance Attribution](../p/performance_attribution.md)**: Determines the contribution of various components of the portfolio to overall performance.
-- **Stress Testing**: Evaluates the portfolio's performance under extreme market conditions.
+- **[Stress Testing](../s/stress_testing_in_trading.md)**: Evaluates the portfolio's performance under extreme market conditions.
 - **Scenario Analysis**: Assessing the potential impact of various hypothetical scenarios on the portfolio.
 
 ## Advanced Techniques in Portfolio Risk Management
@@ -44,7 +44,7 @@ Regularly monitoring and evaluating the portfolio's risk ensures that it remains
 
 In the era of [algorithmic trading](../a/algorithmic_trading.md), portfolio [risk management](../r/risk_management.md) has evolved to incorporate complex algorithms and machine learning models. These sophisticated tools help in identifying patterns, predicting risks, and making real-time adjustments. Some of the prevailing techniques include:
 
-- **Machine Learning Algorithms**: Utilized for [predictive analytics](../p/predictive_analytics.md) and identifying market trends.
+- **Machine [Learning Algorithms](../l/learning_algorithms_in_trading.md)**: Utilized for [predictive analytics](../p/predictive_analytics.md) and identifying market trends.
 - **[Automated Trading Systems](../a/automated_trading_systems.md)**: Execute pre-set [trading rules](../t/trading_rules.md) to minimize human error and optimize efficiency.
 
 ### Risk Management Software and Platforms
@@ -72,7 +72,7 @@ The 2008 financial crisis serves as a stark reminder of the importance of rigoro
 
 ### Case Study: Long-Term Capital Management (LTCM) Collapse
 
-LTCM, a hedge fund, collapsed in 1998 due to excessive leverage and high-risk investment strategies. This incident highlighted the need for effective risk controls and the potential dangers of over-reliance on mathematical models without considering real-world complexities.
+LTCM, a hedge fund, collapsed in 1998 due to excessive leverage and high-risk investment strategies. This incident highlighted the need for effective risk controls and the potential dangers of over-reliance on [mathematical models](../m/mathematical_models_in_trading.md) without considering real-world complexities.
 
 ## Conclusion
 

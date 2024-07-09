@@ -34,7 +34,7 @@ where:
 
 ## GARCH Filtering in Algorithmic Trading
 
-Volatility is a crucial parameter in financial markets as it reflects the degree of uncertainty or risk about the price movements of an asset. Accurate volatility predictions allow traders to make informed decisions, manage risk, and optimize their [trading strategies](../t/trading_strategies.md). GARCH filtering plays a significant role in this context by providing a systematic way to model and forecast volatility.
+Volatility is a crucial parameter in financial markets as it reflects the degree of [uncertainty](../u/uncertainty_in_trading.md) or risk about the price movements of an asset. Accurate volatility predictions allow traders to make informed decisions, manage risk, and optimize their [trading strategies](../t/trading_strategies.md). GARCH filtering plays a significant role in this context by providing a systematic way to model and forecast volatility.
 
 ### Model Estimation
 
@@ -110,7 +110,7 @@ Several software packages and tools are available for implementing [GARCH models
   
   [rugarch package](https://cran.r-project.org/web/packages/rugarch/index.html)
 
-- **Python**: The `arch` package in Python offers similar functionality for GARCH model estimation and simulation.
+- **Python**: The `arch` package in Python offers similar functionality for GARCH model estimation and [simulation](../s/simulation_in_trading.md).
 
   [arch package](https://pypi.org/project/arch)
 

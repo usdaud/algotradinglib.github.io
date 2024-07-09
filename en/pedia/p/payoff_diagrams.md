@@ -51,7 +51,7 @@ A covered call strategy involves holding a long position in the underlying asset
 
 A protective put strategy involves holding a long position in the underlying asset while purchasing a put option on that asset to hedge against potential losses.
 
-- **Shape**: The payoff diagram for a protective put includes unlimited downside protection and unlimited upside potential beyond the combined cost of the put and the underlying.
+- **Shape**: The payoff diagram for a protective put includes unlimited downside protection and unlimited [upside potential](../u/upside_potential_in_trading.md) beyond the combined cost of the put and the underlying.
 - **Breakeven Point**: The purchase price of the underlying asset plus the premium paid for the put.
 - **Maximum Loss**: Limited to the purchase price of the underlying asset plus the cost of the put minus the strike price of the put.
 - **Maximum Profit**: Unlimited, based on the appreciation of the underlying asset price minus the premium paid.

@@ -30,7 +30,7 @@ Japan's chemical industry is another critical component of its export portfolio,
 
 ### 5. Robotics
 
-Japan is at the forefront of robotics technology, which has applications across numerous sectors including manufacturing, healthcare, and consumer electronics. Exports in this category are growing rapidly, reflecting advancements in automation and artificial intelligence.
+Japan is at the forefront of robotics technology, which has applications across numerous sectors including manufacturing, healthcare, and consumer electronics. Exports in this category are growing rapidly, reflecting advancements in automation and [artificial intelligence](../a/artificial_intelligence_in_trading.md).
 
 ## Major Trade Partners
 

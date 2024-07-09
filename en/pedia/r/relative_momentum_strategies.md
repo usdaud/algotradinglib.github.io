@@ -80,11 +80,11 @@ Some strategies use a combination of time-series and cross-sectional momentum to
 
 ### Backtesting and Simulation
 
-Before deploying a relative momentum strategy in live trading, it is crucial to perform robust [backtesting](../b/backtesting.md) and simulation. This involves:
+Before deploying a relative momentum strategy in live trading, it is crucial to perform robust [backtesting](../b/backtesting.md) and [simulation](../s/simulation_in_trading.md). This involves:
 
 1. **Historical Performance Analysis**: Testing the strategy on historical data to evaluate its performance.
 2. **[Out-of-Sample Testing](../o/out-of-sample_testing.md)**: Using unseen data to test the strategy's robustness.
-3. **Simulation**: Running the strategy in a simulated environment to assess its performance under various market conditions.
+3. **[Simulation](../s/simulation_in_trading.md)**: Running the strategy in a simulated environment to assess its performance under various market conditions.
 
 [Backtesting](../b/backtesting.md) platforms include:
 

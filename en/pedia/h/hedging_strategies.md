@@ -34,7 +34,7 @@ Quadratic programming is used to solve optimization problems where the risk or r
 
 ### Machine Learning Algorithms
 - **Regression Models:** Used for predicting asset prices and volatility, aiding in dynamic adjustment of hedging positions.
-- **Support Vector Machines (SVM):** Helps classify and predict market conditions for more intelligent hedging.
+- **[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM):** Helps classify and predict market conditions for more intelligent hedging.
 - **Reinforcement Learning:** Algorithms learn optimal hedging strategies through trial and error, and adapt based on market feedback.
 
 ## Practical Implementation

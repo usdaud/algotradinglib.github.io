@@ -29,7 +29,7 @@ These include all real-time and historical data related to trading activities, s
 
 Fundamental data pertains to the financial health and performance of a company or asset. It includes:
 - **Earnings Reports**
-- **Revenue and Profit Margins**
+- **Revenue and [Profit Margins](../p/profit_margins_in_trading.md)**
 - **Debt Levels**
 - **Return on Equity (ROE)**
 
@@ -77,7 +77,7 @@ A popular strategy in [algorithmic trading](../a/algorithmic_trading.md) is [mom
 ### Example 3: Leveraging Sentiment Data
 
 [Sentiment analysis](../s/sentiment_analysis.md) can provide insights into market psychology and predict short-term price movements. Traders might use the following sentiment-based X-Input variables:
-- **News Sentiment Score**: This score quantifies the sentiment expressed in financial news articles and can be derived using natural language processing (NLP) techniques.
+- **News Sentiment Score**: This score quantifies the sentiment expressed in financial news articles and can be derived using [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) techniques.
 - **Social Media Volume**: The volume of mentions or discussions about a particular stock on platforms like Twitter can provide early signals of investor interest or concern.
 - **Analyst Sentiment**: Ratings and recommendations from financial analysts can influence investor behavior and asset prices.
 
@@ -99,7 +99,7 @@ With an abundance of potential X-Input variables, selecting the most relevant on
 
 ### Correlation and Multicollinearity
 
-Highly correlated variables or multicollinearity can distort the analysis and lead to unstable models. Identifying and addressing these issues, perhaps by removing or combining correlated variables, is essential for robust model performance.
+Highly correlated variables or [multicollinearity](../m/multicollinearity_in_trading.md) can distort the analysis and lead to unstable models. Identifying and addressing these issues, perhaps by removing or combining correlated variables, is essential for robust model performance.
 
 ### Adaptability to Market Changes
 

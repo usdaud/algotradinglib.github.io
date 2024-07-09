@@ -31,13 +31,13 @@ The empirical evidence for and against EMH is mixed. Numerous studies have teste
 - **Contrary Evidence:** Instances of [market anomalies](../m/market_anomalies.md), such as momentum effects and value premiums, suggest that certain strategies can yield excess returns. [Behavioral finance](../b/behavioral_finance.md) also highlights that psychological factors can cause mispricings.
 
 ## Behavioral Finance Challenges
-[Behavioral finance](../b/behavioral_finance.md) poses significant challenges to EMH by demonstrating that cognitive biases, emotions, and social factors can lead to irrational investment decisions and market inefficiencies. Common biases include:
+[Behavioral finance](../b/behavioral_finance.md) poses significant challenges to EMH by demonstrating that [cognitive biases](../c/cognitive_biases_in_trading.md), emotions, and social factors can lead to irrational investment decisions and market inefficiencies. Common biases include:
 
 - **Overconfidence:** Investors overestimate their ability to predict market movements.
   
 - **Anchoring:** Relying too heavily on initial information when making decisions.
   
-- **Herd Behavior:** Following the majority, leading to bubbles and crashes.
+- **[Herd Behavior](../h/herd_behavior_in_trading.md):** Following the majority, leading to bubbles and crashes.
 
 ### Market Anomalies
 [Market anomalies](../m/market_anomalies.md) that challenge EMH include:
@@ -49,11 +49,11 @@ The empirical evidence for and against EMH is mixed. Numerous studies have teste
 - **Post-Earnings Announcement Drift:** Stocks can continue to drift in the direction of an earnings surprise for an extended period.
 
 ## Technological Impact
-With the rise of [algorithmic trading](../a/algorithmic_trading.md), big data, and artificial intelligence, the landscape of financial markets has evolved. While these technologies enhance [market efficiency](../m/market_efficiency.md) by analyzing vast amounts of data rapidly:
+With the rise of [algorithmic trading](../a/algorithmic_trading.md), [big data](../b/big_data_in_trading.md), and [artificial intelligence](../a/artificial_intelligence_in_trading.md), the landscape of financial markets has evolved. While these technologies enhance [market efficiency](../m/market_efficiency.md) by analyzing vast amounts of data rapidly:
 
 - **[Algorithmic Trading](../a/algorithmic_trading.md):** Uses computer algorithms to execute [trading strategies](../t/trading_strategies.md) at high speeds and volumes. These algorithms can exploit minute price discrepancies, contributing to [market efficiency](../m/market_efficiency.md).
 
-- **Big Data and AI:** Enable more sophisticated analysis and prediction of market movements. However, if widely adopted, the advantage may diminish, leading to even more efficient markets.
+- **[Big Data](../b/big_data_in_trading.md) and AI:** Enable more sophisticated analysis and prediction of market movements. However, if widely adopted, the advantage may diminish, leading to even more efficient markets.
 
 ## Criticisms and Limitations
 While EMH has profoundly influenced financial theory and practice, it has faced various criticisms:

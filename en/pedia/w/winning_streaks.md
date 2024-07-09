@@ -13,8 +13,8 @@ In human-driven trading, winning streaks can boost a trader's confidence, someti
 From a statistical perspective, winning streaks can be seen as a natural occurrence in any sequence of events that follow a random distribution, provided that the underlying system has a positive expected value. In [trading algorithms](../t/trading_algorithms.md), a winning streak might simply indicate that the algorithm is currently in a favorable market condition or that it is effectively capturing inefficiencies.
 
 Different statistical models can describe and predict the occurrence of winning streaks:
-1. **Random Walk Model**: In a purely random environment, the probability of a winning streak is governed by statistical principles such as the Law of Large Numbers and the Central Limit Theorem.
-2. **Markov Chains**: For systems with some level of state dependency, Markov Chains can model the probabilities of transitioning from one state (e.g., winning trade) to another (e.g., continuing the streak).
+1. **Random Walk Model**: In a purely random environment, the probability of a winning streak is governed by statistical principles such as the [Law of Large Numbers](../l/law_of_large_numbers_in_trading.md) and the [Central Limit Theorem](../c/central_limit_theorem_in_trading.md).
+2. **[Markov Chains](../m/markov_chains_in_trading.md)**: For systems with some level of state dependency, [Markov Chains](../m/markov_chains_in_trading.md) can model the probabilities of transitioning from one state (e.g., winning trade) to another (e.g., continuing the streak).
 
 Understanding these models helps traders and developers to frame their expectations around streaks and develop more robust [risk management](../r/risk_management.md) strategies.
 

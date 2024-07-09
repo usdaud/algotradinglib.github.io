@@ -62,7 +62,7 @@ Traders and investors use exotic options to speculate on market movements with p
 
 ## 4. Valuation of Exotic Options
 
-Valuing exotic options is more complex due to their non-standard features and [payoff structures](../p/payoff_structures.md). Advanced mathematical models and numerical methods are typically employed, including:
+Valuing exotic options is more complex due to their non-standard features and [payoff structures](../p/payoff_structures.md). Advanced [mathematical models](../m/mathematical_models_in_trading.md) and [numerical methods](../n/numerical_methods_in_trading.md) are typically employed, including:
 - **Monte Carlo Simulations**: Used for options with complex, path-dependent payoffs.
 - **[Finite Difference Methods](../f/finite_difference_methods.md)**: Applied for solving partial differential equations associated with the [option pricing models](../o/option_pricing_models.md).
 - **Binomial and Trinomial Trees**: Extended to accommodate features like barriers and multiple exercise dates.

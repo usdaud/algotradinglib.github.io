@@ -28,12 +28,12 @@ Typically, the period considered is 14 days, but this can be adjusted based on t
 #### Practical Application
 
 1. **Trend Confirmation**: The [Williams %R](../w/williams_%r.md) can confirm the direction of the trend when used in conjunction with other indicators. For example, if a moving average suggests a bullish trend, and the [Williams %R](../w/williams_%r.md) exits the oversold region, it could confirm the upward trajectory.
-2. **Combination with Other Indicators**: The [Williams %R](../w/williams_%r.md) often works well when combined with other [technical indicators](../t/technical_indicators.md), such as moving averages, MACD, or the Average Directional Index (ADX), to increase the reliability of [trading signals](../t/trading_signals.md).
+2. **Combination with Other Indicators**: The [Williams %R](../w/williams_%r.md) often works well when combined with other [technical indicators](../t/technical_indicators.md), such as moving averages, MACD, or the [Average Directional Index](../a/average_directional_index_(adx).md) (ADX), to increase the reliability of [trading signals](../t/trading_signals.md).
 3. **[Swing Trading](../s/swing_trading.md)**: The [Williams %R](../w/williams_%r.md) is particularly useful for [swing trading](../s/swing_trading.md), where traders aim to capture short- to medium-term gains in a stock or any financial instrument over a period of a few days to several weeks.
 
 #### Limitations
 
-1. **False Signals**: Like any other technical indicator, [Williams %R](../w/williams_%r.md) can produce false signals, particularly in choppy or sideways markets. Traders must exercise caution and avoid relying solely on the [Williams %R](../w/williams_%r.md) for making trading decisions.
+1. **[False Signals](../f/false_signals_in_trading.md)**: Like any other technical indicator, [Williams %R](../w/williams_%r.md) can produce [false signals](../f/false_signals_in_trading.md), particularly in choppy or sideways markets. Traders must exercise caution and avoid relying solely on the [Williams %R](../w/williams_%r.md) for making trading decisions.
 2. **Lagging Indicator**: While the [Williams %R](../w/williams_%r.md) can provide timely signals, it is still a lagging indicator, meaning it is based on past price movements. This can sometimes lead to delayed signals that might not fully capture rapid market changes.
 
 #### Conclusion

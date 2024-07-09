@@ -16,7 +16,7 @@
 - **Assumption of Stationarity**: Assumes that past conditions will continue into the future.
 
 ### 2. Machine Learning Models
-Machine learning models utilize a variety of algorithms to forecast winning probabilities. Techniques such as [linear regression](../l/linear_regression.md), [decision trees](../d/decision_trees.md), random forests, support vector machines, and neural networks are common in this domain. These models can learn complex patterns and relationships from historical data to make future predictions.
+Machine learning models utilize a variety of algorithms to forecast winning probabilities. Techniques such as [linear regression](../l/linear_regression.md), [decision trees](../d/decision_trees.md), [random forests](../r/random_forests_in_trading.md), [support vector machines](../s/support_vector_machines_in_trading.md), and [neural networks](../n/neural_networks_in_trading.md) are common in this domain. These models can learn complex patterns and relationships from historical data to make future predictions.
 
 #### Advantages:
 - **Complex [Pattern Recognition](../p/pattern_recognition.md)**: Capable of identifying complex nonlinear relationships.
@@ -30,7 +30,7 @@ Machine learning models utilize a variety of algorithms to forecast winning prob
 Time series models focus on the temporal aspects of financial data. Techniques such as autoregressive integrated moving average (ARIMA), Generalized Autoregressive Conditional Heteroskedasticity (GARCH), and Vector Autoregression (VAR) are commonly used. These models account for trends, seasonal effects, and [volatility clustering](../v/volatility_clustering.md).
 
 #### Advantages:
-- **Temporal Dependencies**: Specifically designed to handle time-dependent data.
+- **[Temporal Dependencies](../t/temporal_dependencies_in_trading.md)**: Specifically designed to handle time-dependent data.
 - **Predictive Power**: Effective for short-term forecasting.
   
 #### Disadvantages:
@@ -42,7 +42,7 @@ Bayesian models incorporate prior knowledge or beliefs (priors) along with obser
 
 #### Advantages:
 - **Incorporation of Prior Knowledge**: Allows inclusion of expert knowledge.
-- **Flexibility**: Can handle complex data structures and incorporate uncertainty in model parameters.
+- **Flexibility**: Can handle complex data structures and incorporate [uncertainty](../u/uncertainty_in_trading.md) in model parameters.
   
 #### Disadvantages:
 - **Computationally Intensive**: Requires substantial calculation for parameter estimation.
@@ -82,7 +82,7 @@ In high-frequency trading, [winning probability](../w/winning_probability.md) mo
 [Renaissance Technologies](https://www.rentec.com/) is known for its use of [quantitative models](../q/quantitative_models.md) and computer algorithms to trade in various markets. The firm employs a variety of statistical and machine learning models to predict the [winning probability](../w/winning_probability.md) of trades.
 
 ### 2. Two Sigma
-[Two Sigma](https://www.twosigma.com/) leverages data science and technology to develop [trading models](../t/trading_models.md). Their approach includes the use of machine learning and advanced statistical methods to improve trade predictions.
+[Two Sigma](https://www.twosigma.com/) leverages [data science](../d/data_science_in_trading.md) and technology to develop [trading models](../t/trading_models.md). Their approach includes the use of machine learning and advanced statistical methods to improve trade predictions.
 
 ### 3. Citadel
 [Citadel](https://www.citadel.com/) uses sophisticated [quantitative models](../q/quantitative_models.md) to manage investments. The firm employs a range of probabilistic models to enhance the accuracy of its [trading strategies](../t/trading_strategies.md).

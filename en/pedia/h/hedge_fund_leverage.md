@@ -32,7 +32,7 @@ Given the potential for significant risk, leverage is a heavily scrutinized aspe
 
 - **Regulators**: Authorities such as the U.S. Securities and Exchange Commission (SEC) and financial regulators in other countries place limits and reporting requirements on leverage levels to ensure that hedge funds do not pose systemic risks to the financial system.
 
-- **[Risk Management](../r/risk_management.md) Strategies**: Hedge funds employ sophisticated [risk management](../r/risk_management.md) techniques, including stress testing and scenario analysis, to monitor the impact of leverage on their portfolios. They also maintain liquidity buffers and adhere to margin requirements imposed by their lenders.
+- **[Risk Management](../r/risk_management.md) Strategies**: Hedge funds employ sophisticated [risk management](../r/risk_management.md) techniques, including [stress testing](../s/stress_testing_in_trading.md) and scenario analysis, to monitor the impact of leverage on their portfolios. They also maintain liquidity buffers and adhere to margin requirements imposed by their lenders.
 
 ### Leverage Metrics
 

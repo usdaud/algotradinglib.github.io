@@ -43,7 +43,7 @@ The [yield curve](../y/yield_curve.md) often flattens or inverts at the ZLB, pro
 
 In some cases, central banks may implement negative interest rates policies (NIRP) to stimulate economic activity. This creates unique trading opportunities:
 
-- **Banking Sector**: Short positions in bank stocks, given that NIRP can squeeze banks' profit margins.
+- **Banking Sector**: Short positions in bank stocks, given that NIRP can squeeze banks' [profit margins](../p/profit_margins_in_trading.md).
 - **Safe Havens**: Long positions in assets like gold or currencies seen as safe havens (e.g., Swiss Franc), which might rise in value due to flight-to-quality during uncertain times.
 - **High-Duration Bond Positions**: Anticipate that central banks would keep rates lower for a longer period, leading to significant bond price rallies.
 

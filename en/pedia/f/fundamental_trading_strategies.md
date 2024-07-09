@@ -67,7 +67,7 @@ Economic and industry conditions significantly impact a company's performance. F
 Analyzing industry conditions involves examining the sector in which a company operates. Factors to consider include:
 
 - **Market Structure**: The level of competition within the industry.
-- **Regulatory Environment**: Government policies and regulations affecting the industry.
+- **Regulatory Environment**: [Government policies](../g/government_policies_in_trading.md) and regulations affecting the industry.
 - **Technological Changes**: Innovations and advancements that could impact the industry.
 
 ## 4. Qualitative Analysis
@@ -103,7 +103,7 @@ Understanding a company's business model helps to evaluate its potential for gen
 Income investing targets stocks that offer high dividend yields and stable cash flows. This strategy is popular among investors seeking steady income through dividend payments rather than capital appreciation.
 
 ### 5.4 GARP (Growth at a Reasonable Price)
-GARP combines elements of both value and [growth investing](../g/growth_investing.md). It involves selecting stocks that exhibit growth potential at a reasonable valuation. Investors look for companies with growth rates that are proportional to their P/E ratios.
+GARP combines elements of both value and [growth investing](../g/growth_investing.md). It involves selecting stocks that exhibit growth potential at a reasonable valuation. Investors look for companies with [growth rates](../g/growth_rates_in_trading.md) that are proportional to their P/E ratios.
 
 ### 5.5 Contrarian Investing
 Contrarian investing involves going against prevailing market trends to buy undervalued stocks during market downturns or sell overvalued stocks in bullish markets. Contrarian investors believe that market prices often reflect exaggerated sentiments rather than intrinsic values.

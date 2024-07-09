@@ -56,7 +56,7 @@ Several financial tools and platforms assist in conducting historical beta analy
   
 - **[Morningstar](../m/morningstar.md)**: Provides beta values along with extensive historical performance data for stocks and funds. [Morningstar](https://www.morningstar.com/)
   
-- **Yahoo Finance**: A free resource that provides basic beta analysis and historical stock performance data. [Yahoo Finance](https://finance.yahoo.com/)
+- **[Yahoo Finance](../y/yahoo_finance.md)**: A free resource that provides basic beta analysis and historical stock performance data. [Yahoo Finance](https://finance.yahoo.com/)
   
 - **[TradingView](../t/tradingview.md)**: Features advanced charting tools and indicators to perform beta analysis. [TradingView](https://www.tradingview.com/)
 

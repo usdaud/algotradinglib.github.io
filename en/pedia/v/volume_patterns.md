@@ -69,7 +69,7 @@ Several [technical indicators](../t/technical_indicators.md) utilize volume patt
 
 ### Data Collection and Preprocessing
 
-- **Data Sources**: Reliable volume data is crucial and can be sourced from financial exchanges, data providers, or APIs (e.g., [Bloomberg](../b/bloomberg.md), Yahoo Finance, or Alpha Vantage).
+- **Data Sources**: Reliable volume data is crucial and can be sourced from financial exchanges, data providers, or APIs (e.g., [Bloomberg](../b/bloomberg.md), [Yahoo Finance](../y/yahoo_finance.md), or Alpha Vantage).
 - **Normalization**: Volume data should be normalized to account for varying trading hours, daylight saving adjustments, and corporate actions like stock splits.
 
 ### Strategy Development
@@ -96,7 +96,7 @@ Several [technical indicators](../t/technical_indicators.md) utilize volume patt
 
 2. **Institutional Trading**: Institutional investors use [volume analysis](../v/volume_analysis.md) to manage large trades without significantly impacting the market. Volume patterns assist in finding optimal execution points. An example is Renaissance Technologies (https://www.rentec.com), which employs [algorithmic trading](../a/algorithmic_trading.md) strategies incorporating volume data.
 
-3. **Retail Trading Platforms**: Services like Interactive Brokers (https://www.interactivebrokers.com) offer tools and analytics for individual traders to analyze volume patterns and make informed decisions.
+3. **Retail Trading Platforms**: Services like [Interactive Brokers](../i/interactive_brokers.md) (https://www.interactivebrokers.com) offer tools and analytics for individual traders to analyze volume patterns and make informed decisions.
 
 ### Academic and Industry Research
 

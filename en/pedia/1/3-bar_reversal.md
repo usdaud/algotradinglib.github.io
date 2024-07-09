@@ -101,7 +101,7 @@ print(signals)
 
 ## Limitations of the 3-Bar Reversal
 Although effective, the 3-bar reversal pattern has its limitations:
-1. **False Signals**: Like all trading patterns, it can generate false signals, leading to potential losses.
+1. **[False Signals](../f/false_signals_in_trading.md)**: Like all trading patterns, it can generate [false signals](../f/false_signals_in_trading.md), leading to potential losses.
 2. **Parameter Sensitivity**: The effectiveness can vary with different market conditions and instrument types.
 3. **Lagging Indicator**: Being a reversal pattern, it lags behind the current price action and may miss the optimal entry or exit points.
 

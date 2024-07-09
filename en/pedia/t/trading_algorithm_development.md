@@ -1,6 +1,6 @@
 # Trading Algorithm Development
 
-[Algorithmic trading](../a/algorithmic_trading.md), commonly known as "algo-trading", refers to the use of computer systems and software to execute trades in financial markets based on predefined criteria and strategies. This complex and dynamic field involves various stages of development, from strategy formulation and [backtesting](../b/backtesting.md) to implementation and monitoring. The goal is to remove the emotional and psychological biases inherent in manual trading, thereby enhancing efficiency, speed, and potential profitability. 
+[Algorithmic trading](../a/algorithmic_trading.md), commonly known as "algo-trading", refers to the use of computer systems and software to execute trades in financial markets based on predefined criteria and strategies. This complex and dynamic field involves various stages of development, from strategy formulation and [backtesting](../b/backtesting.md) to implementation and monitoring. The goal is to remove the emotional and [psychological biases](../p/psychological_biases_in_trading.md) inherent in manual trading, thereby enhancing efficiency, speed, and potential profitability. 
 
 ## Core Components of Algorithmic Trading
 
@@ -46,13 +46,13 @@ Development environments like Visual Studio, PyCharm, and Jupyter Notebooks are 
 
 ### Execution and Order Management
 
-**Execution and order management** involve the actual implementation of trades. Key considerations include:
+**Execution and [order management](../o/order_management_in_trading.md)** involve the actual implementation of trades. Key considerations include:
 
 1. **Latency and Speed**: Minimizing execution latency to capitalize on short-lived market opportunities.
-2. **Order Types**: Using various order types (market, limit, stop-loss, etc.) to optimize trade execution.
+2. **[Order Types](../o/order_types_in_trading.md)**: Using various [order types](../o/order_types_in_trading.md) (market, limit, stop-loss, etc.) to optimize trade execution.
 3. **Broker Integration**: Connecting the algorithm with brokerage accounts and ensuring seamless [order routing](../o/order_routing.md).
 
-Trading platforms like Interactive Brokers, TD [Ameritrade](../a/ameritrade.md), and [TradeStation](../t/tradestation.md) provide APIs and execution services.
+Trading platforms like [Interactive Brokers](../i/interactive_brokers.md), TD [Ameritrade](../a/ameritrade.md), and [TradeStation](../t/tradestation.md) provide APIs and execution services.
 
 ### Risk Management and Monitoring
 
@@ -70,7 +70,7 @@ Several companies and tools support various stages of trading algorithm developm
 
 1. **[QuantConnect](../q/quantconnect.md)**: Provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports multiple financial markets and offers [backtesting](../b/backtesting.md), optimization, and live trading services. [QuantConnect](https://www.quantconnect.com/)
 
-2. **Interactive Brokers**: Offers a comprehensive trading platform with robust API support for [algorithmic trading](../a/algorithmic_trading.md). [Interactive Brokers](https://www.interactivebrokers.com/)
+2. **[Interactive Brokers](../i/interactive_brokers.md)**: Offers a comprehensive trading platform with robust API support for [algorithmic trading](../a/algorithmic_trading.md). [Interactive Brokers](https://www.interactivebrokers.com/)
 
 3. **TD [Ameritrade](../a/ameritrade.md)**: Provides APIs and tools for [algorithmic trading](../a/algorithmic_trading.md) along with a wide range of financial products. [TD Ameritrade](https://www.tdameritrade.com/)
 

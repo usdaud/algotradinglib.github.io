@@ -38,7 +38,7 @@ Order book data presents a real-time view of buy and sell orders in the market. 
 ### Data Sources
 1. **Stock Exchanges**: Primary sources of raw market data.
 2. **Data Providers**: Companies like [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), and [FactSet](../f/factset.md) offer comprehensive historical data packages.
-3. **APIs and Data Feeds**: Services like Alpha Vantage (https://www.alphavantage.co/), IEX Cloud (https://iexcloud.io/), and [Quandl](../q/quandl.md) provide APIs for accessing historical market data.
+3. **APIs and Data Feeds**: Services like Alpha Vantage (https://www.alphavantage.co/), [IEX Cloud](../i/iex_cloud.md) (https://iexcloud.io/), and [Quandl](../q/quandl.md) provide APIs for accessing historical market data.
 
 ### Data Storage
 Traders often store historical data in databases such as SQL, NoSQL, or time-series databases depending on the volume and complexity of the data.
@@ -82,8 +82,8 @@ Statistical techniques help in understanding the data distribution, correlations
 Machine learning models can identify complex patterns in historical data that traditional methods might miss. Techniques include:
 
 - **Supervised Learning**: Regression and classification models.
-- **Unsupervised Learning**: Clustering and dimensionality reduction.
-- **Deep Learning**: Neural networks for predicting market trends.
+- **Unsupervised Learning**: Clustering and [dimensionality reduction](../d/dimensionality_reduction_in_trading.md).
+- **Deep Learning**: [Neural networks](../n/neural_networks_in_trading.md) for predicting market trends.
 
 ### 4. Technical Analysis
 [Technical analysis](../t/technical_analysis.md) involves using historical price and volume data to forecast future price movements. Common tools and indicators in [technical analysis](../t/technical_analysis.md) include:
@@ -98,7 +98,7 @@ Machine learning models can identify complex patterns in historical data that tr
 HFT firms use historical data analysis to develop and refine algorithms that execute trades within milliseconds, capitalizing on micro-level market inefficiencies.
 
 ### Quantitative Hedge Funds
-[Quantitative hedge funds](../q/quantitative_hedge_funds.md), such as Renaissance Technologies and Two Sigma, leverage historical data and complex mathematical models to execute trades. They rely heavily on data analysis to maintain their edge in the market.
+[Quantitative hedge funds](../q/quantitative_hedge_funds.md), such as Renaissance Technologies and Two Sigma, leverage historical data and complex [mathematical models](../m/mathematical_models_in_trading.md) to execute trades. They rely heavily on data analysis to maintain their edge in the market.
 
 ### Robo-Advisors
 Robo-advisors utilize historical data to create and rebalance investment portfolios for their clients automatically. They ensure these portfolios are optimized for risk and return based on past market behavior.

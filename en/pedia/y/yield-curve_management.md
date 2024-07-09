@@ -10,7 +10,7 @@ The [yield curve](../y/yield_curve.md) plots interest rates of bonds having equa
 ### Types of Yield Curves
 1. **Normal [Yield Curve](../y/yield_curve.md)**: Upward sloping, indicating that longer-term securities have higher yields than short-term ones.
 2. **Inverted [Yield Curve](../y/yield_curve.md)**: Downward sloping, suggesting that long-term interest rates are lower than short-term rates, often seen as a predictor of economic recession.
-3. **Flat [Yield Curve](../y/yield_curve.md)**: Nearly horizontal, indicating that there is little difference between short-term and long-term yields, often suggestive of economic transition or uncertainty.
+3. **Flat [Yield Curve](../y/yield_curve.md)**: Nearly horizontal, indicating that there is little difference between short-term and long-term yields, often suggestive of economic transition or [uncertainty](../u/uncertainty_in_trading.md).
 
 ## Importance of Yield-Curve Management
 
@@ -46,7 +46,7 @@ Advancements in technology have enabled the use of [algorithmic trading](../a/al
 Real-time analytics tools provide continuous monitoring of the [yield curve](../y/yield_curve.md) and [economic indicators](../e/economic_indicators.md), allowing for more dynamic and responsive yield-curve management strategies.
 
 ### Machine Learning
-Machine learning algorithms can predict yield-curve movements by analyzing historical data and identifying patterns, offering potential improvements in the accuracy and efficiency of yield-curve management.
+Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can predict yield-curve movements by analyzing historical data and identifying patterns, offering potential improvements in the accuracy and efficiency of yield-curve management.
 
 ## Leading Companies in Yield-Curve Management
 
@@ -65,7 +65,7 @@ Vanguard offers both active and passive fixed-income management solutions, integ
 Accurately predicting interest rate movements is inherently challenging due to the complex interplay of economic factors, central bank policies, and market sentiments.
 
 ### Model Risk
-The reliance on mathematical models for yield-curve management introduces model risk, as model assumptions may not always hold true in real-world conditions.
+The reliance on [mathematical models](../m/mathematical_models_in_trading.md) for yield-curve management introduces model risk, as model assumptions may not always hold true in real-world conditions.
 
 ### Liquidity Risk
 In times of market stress, [liquidity risk](../l/liquidity_risk.md) can impact the ability to execute [yield-curve strategies](../y/yield-curve_strategies.md) effectively, leading to potential losses if bonds need to be sold at unfavorable prices.

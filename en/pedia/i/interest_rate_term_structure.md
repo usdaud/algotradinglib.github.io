@@ -31,7 +31,7 @@ At its core, the interest rate term structure provides insights into the cost of
    - **Application in Algotrading**: Algorithms can be designed to exploit predicted movements in interest rates based on expected economic changes and central bank policies.
 
 2. **Liquidity Preference Theory**: 
-   - **Overview**: Suggests that investors demand a premium for longer-term investments due to interest rate risk and uncertainty over time. This risk premium results in an upward-sloping [yield curve](../y/yield_curve.md) even if future short-term rates remain constant.
+   - **Overview**: Suggests that investors demand a premium for longer-term investments due to interest rate risk and [uncertainty](../u/uncertainty_in_trading.md) over time. This risk premium results in an upward-sloping [yield curve](../y/yield_curve.md) even if future short-term rates remain constant.
    - **Application in Algotrading**: Algorithms might prioritize shorter-term bonds during uncertain periods to mitigate interest rate risk.
 
 3. **Market Segmentation Theory**: 

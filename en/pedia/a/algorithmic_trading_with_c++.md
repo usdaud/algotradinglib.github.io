@@ -1,6 +1,6 @@
 # Algorithmic Trading with C++
 
-[Algorithmic trading](../a/algorithmic_trading.md), also known as automated trading, utilizes algorithms and mathematical models to make trading decisions and execute orders. The primary goal is to optimize trades in terms of profit, speed, and frequency, all while minimizing human intervention and potential errors. C++ is one of the most preferred programming languages for [algorithmic trading](../a/algorithmic_trading.md) due to its performance efficiency, low latency, and robust library support.
+[Algorithmic trading](../a/algorithmic_trading.md), also known as automated trading, utilizes algorithms and [mathematical models](../m/mathematical_models_in_trading.md) to make trading decisions and execute orders. The primary goal is to optimize trades in terms of profit, speed, and frequency, all while minimizing human intervention and potential errors. C++ is one of the most preferred programming languages for [algorithmic trading](../a/algorithmic_trading.md) due to its performance efficiency, low latency, and robust library support.
 
 ## Why C++?
 
@@ -25,7 +25,7 @@ Market data is the cornerstone of [algorithmic trading](../a/algorithmic_trading
 ### Trading Strategies
 [Algorithmic trading](../a/algorithmic_trading.md) can employ various strategies, including but not limited to:
 
-- **Statistical [Arbitrage](../a/arbitrage.md)**: This involves exploiting the mean-reverting behavior of asset prices using statistical and mathematical models.
+- **Statistical [Arbitrage](../a/arbitrage.md)**: This involves exploiting the mean-reverting behavior of asset prices using statistical and [mathematical models](../m/mathematical_models_in_trading.md).
 - **Market Making**: This strategy uses algorithms to provide liquidity to the market by continuously buying and selling assets, thus capturing the [bid-ask spread](../b/bid-ask_spread.md).
 - **[Momentum Trading](../m/momentum_trading.md)**: This strategy aims to capitalize on market trends by going long on rising assets and short on falling ones.
 - **[Mean Reversion](../m/mean_reversion.md)**: This strategy is based on the assumption that asset prices will revert to their historical average over time.

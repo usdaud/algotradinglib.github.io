@@ -38,7 +38,7 @@ Several notable firms and platforms specialize in algorithmic ETF trading. These
    A comprehensive [algorithmic trading](../a/algorithmic_trading.md) software that supports multiple asset classes, including ETFs. [AlgoTrader](../a/algotrader.md) provides solutions for both [quantitative research](../q/quantitative_research.md) and live trading. More details are available at their website: [AlgoTrader](https://www.algotrader.com/).
 
 3. **Two Sigma:**
-   An investment management firm that leverages data science and technology for [quantitative trading](../q/quantitative_trading.md) strategies, including ETF trading. Learn more about Two Sigma at their official site: [Two Sigma](https://www.twosigma.com/).
+   An investment management firm that leverages [data science](../d/data_science_in_trading.md) and technology for [quantitative trading](../q/quantitative_trading.md) strategies, including ETF trading. Learn more about Two Sigma at their official site: [Two Sigma](https://www.twosigma.com/).
 
 ### Technology Stack and Tools
 Implementing [algorithmic trading](../a/algorithmic_trading.md) strategies for ETFs requires a robust technology stack, including:
@@ -85,8 +85,8 @@ Implementing [algorithmic trading](../a/algorithmic_trading.md) strategies for E
 1. **AI and Machine Learning:**
    The adoption of AI and ML in [algorithmic trading](../a/algorithmic_trading.md) is growing. These technologies enhance prediction accuracy and strategy adaptability.
 
-2. **Quantum Computing:**
-   Quantum computing has the potential to revolutionize [algorithmic trading](../a/algorithmic_trading.md) by solving complex calculations exponentially faster than classical computers.
+2. **[Quantum Computing](../q/quantum_computing_in_trading.md):**
+   [Quantum computing](../q/quantum_computing_in_trading.md) has the potential to revolutionize [algorithmic trading](../a/algorithmic_trading.md) by solving complex calculations exponentially faster than classical computers.
 
 3. **Decentralized Finance (DeFi):**
    The rise of DeFi opens new avenues for [algorithmic trading](../a/algorithmic_trading.md) with decentralized ETFs and tokenized assets.

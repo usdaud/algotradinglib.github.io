@@ -11,11 +11,11 @@ There are several types of yield [forecasting models](../f/forecasting_models.md
    - *GARCH*: [GARCH models](../g/garch_models.md) are used to forecast volatility in [financial time series](../f/financial_time_series.md), helping in yield prediction under varying market conditions.
    - *[Exponential Smoothing](../e/exponential_smoothing.md)*: This technique applies weights that exponentially decrease for older data points, thus giving more importance to recent observations.
 
-2. **Machine Learning Models**: Machine learning approaches have gained traction due to their ability to process large amounts of data and uncover complex relationships. Common techniques include [regression analysis](../r/regression_analysis.md), [decision trees](../d/decision_trees.md), random forests, and neural networks.
+2. **Machine Learning Models**: Machine learning approaches have gained traction due to their ability to process large amounts of data and uncover complex relationships. Common techniques include [regression analysis](../r/regression_analysis.md), [decision trees](../d/decision_trees.md), [random forests](../r/random_forests_in_trading.md), and [neural networks](../n/neural_networks_in_trading.md).
    - *[Regression Analysis](../r/regression_analysis.md)*: Linear and nonlinear regression models help in understanding the relationship between yield and various predictive variables.
    - *[Decision Trees](../d/decision_trees.md)*: These are used for classifying data and making predictions based on the branching logic of tree structures.
-   - *Neural Networks*: Deep learning models simulate the human brain's network to predict yields based on multi-layered data input processes.
-   - *Random Forests*: An [ensemble learning](../e/ensemble_learning.md) method that operates by constructing multiple [decision trees](../d/decision_trees.md) and outputting the average prediction.
+   - *[Neural Networks](../n/neural_networks_in_trading.md)*: Deep learning models simulate the human brain's network to predict yields based on multi-layered data input processes.
+   - *[Random Forests](../r/random_forests_in_trading.md)*: An [ensemble learning](../e/ensemble_learning.md) method that operates by constructing multiple [decision trees](../d/decision_trees.md) and outputting the average prediction.
 
 3. **Econometric Models**: These models incorporate economic theories and statistical methods to forecast yields. They often include variables such as interest rates, inflation, and other macroeconomic indicators.
    - *Capital Asset Pricing Model (CAPM)*: CAPM estimates the expected yield of an asset considering its risk relative to the market.
@@ -41,7 +41,7 @@ Evaluating and validating yield [forecasting models](../f/forecasting_models.md)
   
 - **Root [Mean Squared Error](../m/mean_squared_error.md) (RMSE)**: Provides the square root of the average squared differences between predicted and observed values, emphasizing larger errors.
   
-- **R-Squared**: Indicates the proportion of variance in the dependent variable that is predictable from the independent variables.
+- **[R-Squared](../r/r-squared_in_trading.md)**: Indicates the proportion of variance in the dependent variable that is predictable from the independent variables.
   
 - **Cross-Validation**: Involves partitioning data into subsets, using some for training and the rest for validation, to guard against overfitting.
   
@@ -69,7 +69,7 @@ Despite their utility, yield [forecasting models](../f/forecasting_models.md) fa
 
 Looking to the future, these areas present potential developments:
 
-- **Incorporation of Big Data**: With increased data availability, models can incorporate a broader range of variables and more granular data.
+- **Incorporation of [Big Data](../b/big_data_in_trading.md)**: With increased data availability, models can incorporate a broader range of variables and more granular data.
   
 - **Enhanced Machine Learning Techniques**: Advances in machine learning can provide more sophisticated tools for uncovering patterns and making predictions.
   

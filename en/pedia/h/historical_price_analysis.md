@@ -89,7 +89,7 @@ Machine learning leverages algorithms and statistical models to analyze historic
 ### 3. Sentiment Analysis
 
 [Sentiment analysis](../s/sentiment_analysis.md) involves evaluating the sentiment of market participants using historical price data and other sources like news articles, social media, and financial reports. Methods include:
-- **Natural Language Processing (NLP)**: To extract sentiment from textual data.
+- **[Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP)**: To extract sentiment from textual data.
 - **Sentiment Indices**: Compiling sentiment data to create indices that indicate market mood.
 
 ### 4. Fundamental Analysis
@@ -119,7 +119,7 @@ Historical price analysis helps in the construction and management of investment
 
 [Risk management](../r/risk_management.md) strategies often rely on historical price analysis to:
 - **Value at Risk (VaR)**: Estimating the potential loss in value of a portfolio.
-- **Stress Testing**: Simulating extreme market conditions to assess the impact on asset prices.
+- **[Stress Testing](../s/stress_testing_in_trading.md)**: Simulating extreme market conditions to assess the impact on asset prices.
 - **Hedging**: Using [derivatives](../d/derivatives.md) to mitigate the risk identified through historical price analysis.
 
 ### 4. Market Forecasting
@@ -131,6 +131,6 @@ Historical price analysis is crucial for [market forecasting](../m/market_foreca
 
 ## Conclusion
 
-Historical price analysis stands as a beacon of guidance in the unpredictable world of financial markets. It empowers traders and investors with the insights necessary to navigate market complexities and make informed decisions. By employing a variety of methods and tools, from basic [trend analysis](../t/trend_analysis.md) to sophisticated machine learning algorithms, historical price analysis harnesses the past to illuminate the future of financial trading.
+Historical price analysis stands as a beacon of guidance in the unpredictable world of financial markets. It empowers traders and investors with the insights necessary to navigate market complexities and make informed decisions. By employing a variety of methods and tools, from basic [trend analysis](../t/trend_analysis.md) to sophisticated machine [learning algorithms](../l/learning_algorithms_in_trading.md), historical price analysis harnesses the past to illuminate the future of financial trading.
 
 For more information on tools and practices, visit the relevant links provided in the document or consult specialized financial market resources.

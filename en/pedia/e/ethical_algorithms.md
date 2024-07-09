@@ -38,7 +38,7 @@ Several frameworks and guidelines help in developing ethical algorithms. These i
 Principles-based approaches provide high-level guidelines that need to be interpreted and implemented in the context of specific trading activities.
 
 - **The CFA Institute’s Code of Ethics**: Provides ethical guidelines for professionals in the finance industry, emphasizing integrity and transparency. [CFA Institute](https://www.cfainstitute.org/en/ethics-standards/codes)
-- **The ACM Code of Ethics**: Offers a comprehensive set of ethical standards for computing professionals which can be adapted for [algorithmic trading](../a/algorithmic_trading.md). [ACM Code of Ethics](https://www.acm.org/code-of-ethics)
+- **The ACM Code of Ethics**: Offers a comprehensive set of [ethical standards](../e/ethical_standards_in_trading.md) for computing professionals which can be adapted for [algorithmic trading](../a/algorithmic_trading.md). [ACM Code of Ethics](https://www.acm.org/code-of-ethics)
 
 ### Prescriptive Standards
 
@@ -64,14 +64,14 @@ Prescriptive standards provide specific rules and methodologies for ethical [alg
 ### Monitoring and Maintenance Phase
 
 1. **Continuous Monitoring**: Employ real-time monitoring tools to track the algorithm’s activities and detect any anomalous or unethical behavior.
-2. **Regular Updates**: Keep the algorithms updated with the latest ethical standards and regulatory changes.
+2. **Regular Updates**: Keep the algorithms updated with the latest [ethical standards](../e/ethical_standards_in_trading.md) and regulatory changes.
 3. **Stakeholder Engagement**: Maintain open communication channels with stakeholders to discuss the ethical implications of [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Challenges and Future Directions
 
 ### Technological Complexity
 
-As [trading algorithms](../t/trading_algorithms.md) become more sophisticated, their complexity makes it challenging to ensure they adhere to ethical standards.
+As [trading algorithms](../t/trading_algorithms.md) become more sophisticated, their complexity makes it challenging to ensure they adhere to [ethical standards](../e/ethical_standards_in_trading.md).
 
 - **Explainability vs. Performance**: Balancing the need for high-performing algorithms with the ability to explain their decisions.
 - **AI and Machine Learning**: These technologies add layers of complexity, making it hard to predict and control the behavior of [trading algorithms](../t/trading_algorithms.md).
@@ -87,14 +87,14 @@ The regulatory landscape for [algorithmic trading](../a/algorithmic_trading.md) 
 
 Ethical algorithm development requires cooperation across the industry.
 
-- **Shared Ethical Standards**: Developing and adhering to shared ethical standards can help ensure that all market participants benefit fairly.
+- **Shared [Ethical Standards](../e/ethical_standards_in_trading.md)**: Developing and adhering to shared [ethical standards](../e/ethical_standards_in_trading.md) can help ensure that all market participants benefit fairly.
 - **Collaborative Efforts**: Market regulators, trading firms, and technology providers should work together to promote ethical trading practices.
 
 ## Case Studies
 
 ### The Flash Crash of 2010
 
-The Flash Crash of May 6, 2010, is a prominent example where [algorithmic trading](../a/algorithmic_trading.md) led to extreme volatility, raising concerns about market stability and the need for more robust ethical standards.
+The Flash Crash of May 6, 2010, is a prominent example where [algorithmic trading](../a/algorithmic_trading.md) led to extreme volatility, raising concerns about market stability and the need for more robust [ethical standards](../e/ethical_standards_in_trading.md).
 
 - **Market Impact**: The Dow Jones Industrial Average fell nearly 1,000 points (about 9%) within minutes and then recovered almost as quickly.
 - **Regulatory Response**: This event prompted regulatory bodies to consider stricter regulations on high-frequency trading (HFT) and introduce measures such as circuit breakers to prevent future occurrences.
@@ -110,4 +110,4 @@ In August 2012, the Knight Capital Group experienced a technological glitch due 
 
 Ethical algorithms in [algorithmic trading](../a/algorithmic_trading.md) are crucial for maintaining market integrity, ensuring fairness, and promoting transparency. By integrating ethical principles into the design, development, and deployment processes, trading firms can mitigate risks and build trust in financial markets. As technology advances, ongoing efforts in ethical algorithm development, industry cooperation, and regulatory adaptation are essential for sustainable and responsible trading practices.
 
-For more information on companies involved in developing ethical standards for [algorithmic trading](../a/algorithmic_trading.md), visit their official websites: [CFA Institute](https://www.cfainstitute.org/en/ethics-standards/codes), [ACM](https://www.acm.org/code-of-ethics), and [EU GDPR](https://ec.europa.eu/info/law/law-topic/data-protection/eu-data-protection-rules_en).
+For more information on companies involved in developing [ethical standards](../e/ethical_standards_in_trading.md) for [algorithmic trading](../a/algorithmic_trading.md), visit their official websites: [CFA Institute](https://www.cfainstitute.org/en/ethics-standards/codes), [ACM](https://www.acm.org/code-of-ethics), and [EU GDPR](https://ec.europa.eu/info/law/law-topic/data-protection/eu-data-protection-rules_en).

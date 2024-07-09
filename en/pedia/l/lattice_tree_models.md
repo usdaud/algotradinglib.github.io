@@ -4,7 +4,7 @@ Lattice tree models are a class of [computational algorithms](../c/computational
 
 ### Fundamental Principles of Lattice Tree Models
 
-Lattice tree models function by constructing a discrete-time grid or tree that represents the potential future values or states of an underlying asset. These models incorporate the randomness and uncertainty innate to financial markets, enabling practitioners to simulate numerous scenarios to assess the financial instrument's future price or payoff. The core idea is to break down a complex financial derivative's price evolution path into smaller, manageable steps that follow a probabilistic approach.
+Lattice tree models function by constructing a discrete-time grid or tree that represents the potential future values or states of an underlying asset. These models incorporate the randomness and [uncertainty](../u/uncertainty_in_trading.md) innate to financial markets, enabling practitioners to simulate numerous scenarios to assess the financial instrument's future price or payoff. The core idea is to break down a complex financial derivative's price evolution path into smaller, manageable steps that follow a probabilistic approach.
 
 In lattice tree models, each node represents a possible state of the underlying asset at a specific point in time, and the branches between nodes represent the transition probabilities of moving from one state to another. As time progresses, the model branches out, resembling a tree structure, hence the name "lattice tree."
 
@@ -47,7 +47,7 @@ Lattice tree models have diverse applications in the domain of [algorithmic trad
    - Lattice tree models aid in determining the optimal [asset allocation](../a/asset_allocation.md) by simulating the impact of different trading decisions over time.
 
 4. **Asset and Liability Management**:
-   - Insurance companies and pension funds use lattice models to manage the uncertainty associated with their asset and liability portfolios.
+   - Insurance companies and pension funds use lattice models to manage the [uncertainty](../u/uncertainty_in_trading.md) associated with their asset and liability portfolios.
    - These models enable institutions to forecast future cash flows and ensure sufficient liquidity to meet obligations.
 
 ### Implementation Strategies for Lattice Tree Models
@@ -76,7 +76,7 @@ Lattice tree models play a significant role in the field of [algorithmic trading
 
 1. **Accuracy and Flexibility**:
    - These models provide accurate and flexible approaches to representing the stochastic behavior of financial instruments.
-   - They accommodate a wide range of options and [derivatives](../d/derivatives.md) with various features, such as early exercise, path dependency, and multiple underlying assets.
+   - They accommodate a wide range of options and [derivatives](../d/derivatives.md) with various features, such as early exercise, [path dependency](../p/path_dependency_in_trading.md), and multiple underlying assets.
 
 2. **Risk Assessment**:
    - By simulating numerous market scenarios, lattice tree models enable traders and risk managers to identify potential risks and uncertainties.
@@ -84,10 +84,10 @@ Lattice tree models play a significant role in the field of [algorithmic trading
 
 3. **Regulatory Compliance**:
    - Financial institutions are subject to stringent regulatory requirements for [risk management](../r/risk_management.md) and reporting.
-   - Lattice tree models assist in meeting these requirements by providing robust methodologies for derivative pricing, stress testing, and capital adequacy.
+   - Lattice tree models assist in meeting these requirements by providing robust methodologies for derivative pricing, [stress testing](../s/stress_testing_in_trading.md), and capital adequacy.
 
 4. **Innovation and Strategy Development**:
-   - [Algorithmic trading](../a/algorithmic_trading.md) relies heavily on advanced mathematical models and [computational algorithms](../c/computational_algorithms.md).
+   - [Algorithmic trading](../a/algorithmic_trading.md) relies heavily on advanced [mathematical models](../m/mathematical_models_in_trading.md) and [computational algorithms](../c/computational_algorithms.md).
    - Lattice tree models contribute to the development of innovative [trading strategies](../t/trading_strategies.md) by exploring complex interactions and dependencies in financial markets.
 
 ### Conclusion

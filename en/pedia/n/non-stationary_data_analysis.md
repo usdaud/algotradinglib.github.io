@@ -11,7 +11,7 @@ In the context of time series, non-stationary data exhibits properties where the
 Several factors contribute to non-stationarity in financial data:
 - **Market Regime Changes:** Shifts in market conditions, such as bull and bear markets, can lead to changes in the time series properties.
 - **[Economic Indicators](../e/economic_indicators.md):** Variations in [economic indicators](../e/economic_indicators.md) like GDP growth, inflation rates, and unemployment can influence market behaviors.
-- **Structural Breaks:** Events such as financial crises, regulatory changes, or technological advancements can cause abrupt changes in the market.
+- **[Structural Breaks](../s/structural_breaks_in_trading.md):** Events such as financial crises, regulatory changes, or technological advancements can cause abrupt changes in the market.
 - **Seasonality:** Periodic fluctuations due to seasons or cyclic behaviors within specific asset classes.
 
 ### Types of Non-Stationarity
@@ -26,7 +26,7 @@ Non-stationarity can manifest in different forms:
 Non-stationary data present several challenges for traders:
 - **Model Invalidity:** Algorithms and models that assume stationarity may fail or produce inaccurate predictions.
 - **[Adaptive Algorithms](../a/adaptive_algorithms.md):** Static [trading algorithms](../t/trading_algorithms.md) require recalibration or adaptation to the changing data structure.
-- **[Risk Management](../r/risk_management.md):** Handling uncertainty in volatility and other risk factors becomes complex.
+- **[Risk Management](../r/risk_management.md):** Handling [uncertainty](../u/uncertainty_in_trading.md) in volatility and other [risk factors](../r/risk_factors_in_trading.md) becomes complex.
 
 ## Techniques for Addressing Non-Stationarity
 
@@ -52,13 +52,13 @@ To work with non-stationary data, various transformation techniques can be appli
 
 ### Machine Learning Approaches
 Machine learning models do not require strong assumptions about stationarity:
-- **Recurrent Neural Networks (RNNs):** Neural networks that capture time dependencies, useful for forecasting.
+- **Recurrent [Neural Networks](../n/neural_networks_in_trading.md) (RNNs):** [Neural networks](../n/neural_networks_in_trading.md) that capture time dependencies, useful for forecasting.
 - **Long Short Term Memory (LSTM):** A type of RNN that handles long-term dependencies better by mitigating the vanishing gradient problem.
 - **Ensemble Methods:** Combining multiple models to improve robustness against non-stationarity.
 
 ### Practical Examples
 Several financial firms are using advanced techniques to manage non-stationary markets:
-- **Two Sigma:** [Two Sigma](https://www.twosigma.com/) uses machine learning and big data to adapt to changing market conditions.
+- **Two Sigma:** [Two Sigma](https://www.twosigma.com/) uses machine learning and [big data](../b/big_data_in_trading.md) to adapt to changing market conditions.
 - **Citadel Securities:** [Citadel Securities](https://www.citadelsecurities.com/) implements advanced statistical techniques and [adaptive algorithms](../a/adaptive_algorithms.md).
 - **DE Shaw:** [DE Shaw](https://www.deshaw.com/) employs sophisticated mathematical modeling to address non-stationarity.
 

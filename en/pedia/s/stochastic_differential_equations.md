@@ -9,7 +9,7 @@ Stochastic Differential Equations (SDEs) are differential equations in which one
 A stochastic process is a collection of random variables indexed by time or space. It represents the evolution of a system through random changes. Notable examples include:
 
 - **Brownian motion (Wiener process)**: A continuous-time stochastic process that serves as a mathematical model for random motion. It has properties such as having continuous paths and independent, normally distributed increments with zero mean.
-- **Poisson process**: A counting process with independent increments often used to model the times at which events occur randomly in time.
+- **[Poisson process](../p/poisson_process_in_trading.md)**: A counting process with independent increments often used to model the times at which events occur randomly in time.
 
 ### Differential Equations
 
@@ -68,7 +68,7 @@ Biological systems exhibit inherent randomness, making SDEs suitable for modelin
 
 ### Engineering
 
-In engineering, SDEs are used to model systems affected by noise, such as signal processing, control systems, and communications. The Kalman-Bucy filter, an extension of the Kalman filter for continuous-time systems, is a notable application.
+In engineering, SDEs are used to model systems affected by noise, such as [signal processing](../s/signal_processing_in_trading.md), control systems, and communications. The Kalman-Bucy filter, an extension of the [Kalman filter](../k/kalman_filter_in_trading.md) for continuous-time systems, is a notable application.
 
 ## Numerical Methods for SDEs
 
@@ -98,10 +98,10 @@ Generalizing Runge-Kutta methods to SDEs involves constructing schemes that hand
 
 ## Software and Libraries
 
-Several software packages and libraries support the simulation and numerical solution of SDEs. Notable examples include:
+Several software packages and libraries support the [simulation](../s/simulation_in_trading.md) and numerical solution of SDEs. Notable examples include:
 
 - **SDE Toolbox for MATLAB**: A comprehensive suite for numerically solving SDEs and implementing various methods (https://www.mathworks.com/matlabcentral/fileexchange/26586-sde-toolbox).
-- **Stochastic Differential Equations in Python (SDEPy)**: A Python library for SDE simulation and analysis (https://github.com/RJT1990/pySDE).
+- **Stochastic Differential Equations in Python (SDEPy)**: A Python library for SDE [simulation](../s/simulation_in_trading.md) and analysis (https://github.com/RJT1990/pySDE).
 - **[QuantLib](../q/quantlib.md)**: An open-source library for [quantitative finance](../q/quantitative_finance.md), providing tools for pricing [derivatives](../d/derivatives.md) and managing financial models, including SDEs (https://www.[quantlib](../q/quantlib.md).org/).
 
 ## Challenges and Future Directions
@@ -122,8 +122,8 @@ Systems operating over multiple temporal and spatial scales require specialized 
 
 ### Machine Learning Integration
 
-The integration of machine learning and SDEs offers promising avenues for advancing model accuracy and computational efficiency. Neural SDEs, for example, combine neural networks with [stochastic modeling](../s/stochastic_modeling.md), providing flexible and powerful tools for various applications.
+The integration of machine learning and SDEs offers promising avenues for advancing model accuracy and computational efficiency. Neural SDEs, for example, combine [neural networks](../n/neural_networks_in_trading.md) with [stochastic modeling](../s/stochastic_modeling.md), providing flexible and powerful tools for various applications.
 
 ## Conclusion
 
-Stochastic Differential Equations provide a robust framework for modeling systems influenced by random effects. Their versatility and applicability span numerous scientific and engineering disciplines, making SDEs a cornerstone of modern applied mathematics. Continuing advancements in numerical methods, computational tools, and theoretical understanding will further enhance the utility and scope of SDEs in tackling complex real-world problems.
+Stochastic Differential Equations provide a robust framework for modeling systems influenced by random effects. Their versatility and applicability span numerous scientific and engineering disciplines, making SDEs a cornerstone of modern applied mathematics. Continuing advancements in [numerical methods](../n/numerical_methods_in_trading.md), computational tools, and theoretical understanding will further enhance the utility and scope of SDEs in tackling complex real-world problems.

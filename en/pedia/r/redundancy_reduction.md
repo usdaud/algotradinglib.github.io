@@ -18,7 +18,7 @@ Data compression techniques, such as lossless and lossy compression, are employe
 
 ### Feature Selection
 
-Feature selection involves selecting the most relevant variables for use in algorithmic models. By identifying and utilizing only the essential features, redundant and irrelevant data can be discarded. Techniques like Principal Component Analysis (PCA) and Recursive Feature Elimination (RFE) are commonly used in feature selection.
+Feature selection involves selecting the most relevant variables for use in algorithmic models. By identifying and utilizing only the essential features, redundant and irrelevant data can be discarded. Techniques like [Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA) and Recursive Feature Elimination (RFE) are commonly used in feature selection.
 
 ### Data Deduplication
 
@@ -26,7 +26,7 @@ Data deduplication is the process of identifying and eliminating duplicate copie
 
 ### Noise Reduction
 
-[Noise reduction techniques](../n/noise_reduction_techniques.md) are used to filter out irrelevant or extraneous data that does not contribute to the trading model's performance. Methods such as signal processing and statistical noise reduction are employed to clean data sets, ensuring that only actionable information is used.
+[Noise reduction techniques](../n/noise_reduction_techniques.md) are used to filter out irrelevant or extraneous data that does not contribute to the trading model's performance. Methods such as [signal processing](../s/signal_processing_in_trading.md) and statistical noise reduction are employed to clean data sets, ensuring that only actionable information is used.
 
 ### Data Normalization
 
@@ -54,7 +54,7 @@ Hedge funds utilize [algorithmic trading](../a/algorithmic_trading.md) strategie
 
 ### Retail Trading Platforms
 
-Retail trading platforms like [Robinhood](../r/robinhood.md) and E*TRADE incorporate redundancy reduction to handle large volumes of user data efficiently. These platforms utilize data compression and deduplication to enhance user experience by ensuring that their trading operations are swift and accurate.
+Retail trading platforms like [Robinhood](../r/robinhood.md) and [E*TRADE](../e/e_trade.md) incorporate redundancy reduction to handle large volumes of user data efficiently. These platforms utilize data compression and deduplication to enhance user experience by ensuring that their trading operations are swift and accurate.
 
 ## Challenges and Future Directions
 

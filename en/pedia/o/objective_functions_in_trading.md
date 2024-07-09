@@ -10,7 +10,7 @@ An objective function is a mathematical formula that quantifies a trader's goals
 
 1. **Guidance for Decision Making**: They provide a clear target for the algorithm to aim for, ensuring that decisions align with the overall trading goals.
 2. **Performance Measurement**: Objective functions offer a benchmark to evaluate and compare the performance of different strategies.
-3. **[Risk Management](../r/risk_management.md)**: By incorporating risk factors into the objective function, it ensures that the trading strategy maintains a desirable risk-return profile.
+3. **[Risk Management](../r/risk_management.md)**: By incorporating [risk factors](../r/risk_factors_in_trading.md) into the objective function, it ensures that the trading strategy maintains a desirable risk-return profile.
 4. **Optimization**: They enable the use of optimization techniques to find the best parameters and strategies that maximize or minimize the objective function.
 
 ## Types of Objective Functions
@@ -41,7 +41,7 @@ These functions seek to balance the trade-off between risk and return.
 ### 4. Custom Objective Functions
 These are tailored to specific needs and goals that might not be fully captured by standard objective functions.
 
-- **Cost-Benefit Analysis**: Balancing the transaction costs against the expected returns.
+- **[Cost-Benefit Analysis](../c/cost-benefit_analysis_in_trading.md)**: Balancing the transaction costs against the expected returns.
 - **Drawdown Limits**: Imposing strict drawdown constraints to ensure the strategy does not exceed acceptable loss limits.
 - **Alpha and Beta Targets**: Incorporating benchmarks and market exposure measures into the objective function.
 
@@ -59,7 +59,7 @@ Based on the defined goals, choose an objective function. You may need to combin
 Integrate the selected objective function into your trading model. This could involve coding the mathematical formula into your [trading algorithms](../t/trading_algorithms.md).
 
 ### Step 4: Optimization
-Use optimization techniques, such as genetic algorithms, gradient descent, or Monte Carlo simulations, to find the best parameters and strategies that maximize or minimize the objective function.
+Use optimization techniques, such as [genetic algorithms](../g/genetic_algorithms_in_trading.md), gradient descent, or Monte Carlo simulations, to find the best parameters and strategies that maximize or minimize the objective function.
 
 ### Step 5: Testing and Validation
 Conduct [backtesting](../b/backtesting.md) and forward testing to validate the performance of the objective function in real market conditions. Ensure it aligns with the financial goals and performs well under different market scenarios.
@@ -72,7 +72,7 @@ An investment firm aims to optimize their [algorithmic trading](../a/algorithmic
 1. **Goal Definition**: Maximize risk-adjusted returns.
 2. **Objective Function Selection**: Chose the [Sharpe Ratio](../s/sharpe_ratio.md).
 3. **Model Integration**: Integrated the [Sharpe Ratio](../s/sharpe_ratio.md) formula into their [trading algorithms](../t/trading_algorithms.md).
-4. **Optimization**: Used genetic algorithms to iteratively improve the trading parameters.
+4. **Optimization**: Used [genetic algorithms](../g/genetic_algorithms_in_trading.md) to iteratively improve the trading parameters.
 5. **Validation**: Conducted extensive [backtesting](../b/backtesting.md) and forward testing.
 
 ### Case Study 2: Minimizing Drawdown
@@ -82,7 +82,7 @@ A hedge fund wants to ensure their trading strategy does not exceed a certain dr
 2. **Objective Function Selection**: Chose the maximum drawdown metric.
 3. **Model Integration**: Incorporated drawdown constraints into the model.
 4. **Optimization**: Utilized Monte Carlo simulations to test numerous scenarios and identify the optimal parameters.
-5. **Validation**: Performed stress testing to assess performance during extreme market conditions.
+5. **Validation**: Performed [stress testing](../s/stress_testing_in_trading.md) to assess performance during extreme market conditions.
 
 ### Case Study 3: Custom Objective Function for High-Frequency Trading
 A high-frequency trading firm seeks to maximize returns while minimizing transaction costs due to a high volume of trades.

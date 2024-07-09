@@ -58,7 +58,7 @@ Several financial firms and hedge funds utilize quantitative value models as a c
 ### Advantages of Quantitative Value Models
 
 1. **Objectivity**:
-   Quantitative value models reduce the influence of human biases in investment decisions. By relying on data and mathematical models, decisions become more systematic and consistent.
+   Quantitative value models reduce the influence of human biases in investment decisions. By relying on data and [mathematical models](../m/mathematical_models_in_trading.md), decisions become more systematic and consistent.
 
 2. **Scalability**:
    Such models can process vast amounts of data swiftly and identify investment opportunities that may be overlooked by human analysts. This scalability is crucial for handling large portfolios.
@@ -89,7 +89,7 @@ Several financial firms and hedge funds utilize quantitative value models as a c
    The use of [alternative data](../a/alternative_data.md) sources, such as [social media sentiment](../s/social_media_sentiment.md), satellite imagery, and credit card transactions, is becoming more prevalent. These data sources can provide additional insights and improve model accuracy.
 
 2. **Machine Learning and AI**:
-   Advances in machine learning and artificial intelligence are enabling the development of more complex models that can adapt and learn from new data. These technologies can uncover non-linear relationships and improve prediction accuracy.
+   Advances in machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) are enabling the development of more complex models that can adapt and learn from new data. These technologies can uncover non-linear relationships and improve prediction accuracy.
 
 3. **Customization and Flexibility**:
    New tools and platforms are allowing investors to create customized [quantitative models](../q/quantitative_models.md) tailored to their specific investment goals and risk profiles, providing greater personalization in investment strategies.

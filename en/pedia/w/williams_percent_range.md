@@ -41,7 +41,7 @@ Traders can also use [Williams %R](../w/williams_%r.md) to identify potential tr
 - **Versatility**: It can be used across different markets and time frames.
 
 ### Limitations of Williams %R
-- **False Signals**: Like most [technical indicators](../t/technical_indicators.md), [Williams %R](../w/williams_%r.md) can produce false signals, particularly in trending markets where it may remain in overbought or oversold conditions for extended periods.
+- **[False Signals](../f/false_signals_in_trading.md)**: Like most [technical indicators](../t/technical_indicators.md), [Williams %R](../w/williams_%r.md) can produce [false signals](../f/false_signals_in_trading.md), particularly in trending markets where it may remain in overbought or oversold conditions for extended periods.
 - **Lag**: It is a lagging indicator, meaning it reflects past price movements, which may not always reliably predict future price movements.
 
 ### Practical Examples of Williams %R

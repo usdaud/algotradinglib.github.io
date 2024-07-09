@@ -165,7 +165,7 @@ While momentum oscillators offer valuable insights, they also have limitations:
 
 ### False Signals
 
-Momentum oscillators can generate false signals, especially in volatile markets. Traders should use these indicators in conjunction with other [technical analysis](../t/technical_analysis.md) tools to confirm signals.
+Momentum oscillators can generate [false signals](../f/false_signals_in_trading.md), especially in volatile markets. Traders should use these indicators in conjunction with other [technical analysis](../t/technical_analysis.md) tools to confirm signals.
 
 ### Lagging Nature
 

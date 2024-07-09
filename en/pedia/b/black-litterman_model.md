@@ -18,7 +18,7 @@ The core of the Black-Litterman model can be expressed through the following set
    \[
    \Pi = \tau \Sigma q
    \]
-   where \(\Pi\) represents the equilibrium excess returns, \(\tau\) is a scalar indicating the uncertainty in the equilibrium, \(\Sigma\) is the covariance matrix of excess returns, and \(q\) is the vector of market capitalization weights.
+   where \(\Pi\) represents the equilibrium excess returns, \(\tau\) is a scalar indicating the [uncertainty](../u/uncertainty_in_trading.md) in the equilibrium, \(\Sigma\) is the covariance matrix of excess returns, and \(q\) is the vector of market capitalization weights.
 
 2. **Incorporating Views**:
    \[

@@ -31,7 +31,7 @@ Algorithms can be designed to identify high conviction trade signals. These algo
 Machine learning (ML) is an essential tool in modern [algorithmic trading](../a/algorithmic_trading.md). ML models are fed historical and real-time data to train them in detecting high conviction setups. These models can continually learn and adapt to changing market conditions.
 
 ### 4. **Backtesting and Simulation**
-Before deploying high conviction algorithms in live trading, extensive [backtesting](../b/backtesting.md) and simulation are conducted. This helps in validating the algorithm’s performance and tweaking parameters to enhance accuracy.
+Before deploying high conviction algorithms in live trading, extensive [backtesting](../b/backtesting.md) and [simulation](../s/simulation_in_trading.md) are conducted. This helps in validating the algorithm’s performance and tweaking parameters to enhance accuracy.
 
 ### 5. **Execution Strategies**
 High conviction trades require precise execution to minimize market impact and slippage. Algorithms utilize smart [order routing](../o/order_routing.md), [dark pools](../d/dark_pools.md), and other advanced execution strategies to enter and exit positions efficiently.
@@ -42,7 +42,7 @@ High conviction trades require precise execution to minimize market impact and s
 Two Sigma leverages AI, machine learning, and advanced technological infrastructure to execute trades with high conviction. For more information, visit [Two Sigma](https://www.twosigma.com/).
 
 ### 2. **Renaissance Technologies**
-Renaissance Technologies, notably its Medallion Fund, is renowned for its high conviction quantitative strategies. Their proprietary models and data-driven approach consistently deliver high returns. For more details, you can explore [Renaissance Technologies](https://www.rentec.com/).
+Renaissance Technologies, notably its Medallion Fund, is renowned for its high conviction [quantitative strategies](../q/quantitative_strategies_in_trading.md). Their proprietary models and data-driven approach consistently deliver high returns. For more details, you can explore [Renaissance Technologies](https://www.rentec.com/).
 
 ### 3. **Citadel**
 Citadel's Tactical Trading division focuses on high conviction strategies by using fundamental research and [quantitative analysis](../q/quantitative_analysis.md) to capture alpha. More information can be found at [Citadel](https://www.citadel.com/).
@@ -70,7 +70,7 @@ This approach combines [fundamental analysis](../f/fundamental_analysis.md) with
 ## Risks and Challenges
 
 ### 1. **Model Risk**
-Dependence on [quantitative models](../q/quantitative_models.md) presents model risk, which is the potential for a model to fail or produce inaccurate results. Rigorous validation and stress testing are crucial to mitigate this risk.
+Dependence on [quantitative models](../q/quantitative_models.md) presents model risk, which is the potential for a model to fail or produce inaccurate results. Rigorous validation and [stress testing](../s/stress_testing_in_trading.md) are crucial to mitigate this risk.
 
 ### 2. **Market Risk**
 Market risk is inevitable, as unforeseen events can shift market dynamics dramatically. Although high conviction trades are backed by strong evidence, the market can behave irrationally.
@@ -90,7 +90,7 @@ Large capital positions may face liquidity issues, especially in less liquid mar
 As AI continues to evolve, it will enhance the ability to identify and execute high conviction trades by analyzing more data with greater precision.
 
 ### 2. **Big Data Integration**
-Integration of big data sources, including satellite imagery and IoT data, can provide new signals and enhance the confidence of trades.
+Integration of [big data](../b/big_data_in_trading.md) sources, including satellite imagery and IoT data, can provide new signals and enhance the confidence of trades.
 
 ### 3. **Enhanced Risk Management Tools**
 Future [risk management](../r/risk_management.md) tools will become more sophisticated, incorporating real-time data feeds and advanced analytics to better manage the risks associated with high conviction trades.
@@ -101,4 +101,4 @@ Changes in financial regulations can affect the execution and feasibility of hig
 ### 5. **Cross-Asset Strategies**
 Incorporating cross-asset correlations and strategies can open new high conviction opportunities by exploiting inefficiencies across various markets.
 
-High conviction trades embody the pinnacle of confidence in trading decisions, combining extensive research, robust models, and substantial capital to seize profitable opportunities. In the realm of [algorithmic trading](../a/algorithmic_trading.md), the fusion of technology, data science, and market expertise continues to push the boundaries of what is achievable, driving the evolution of high conviction [trading strategies](../t/trading_strategies.md).
+High conviction trades embody the pinnacle of confidence in trading decisions, combining extensive research, robust models, and substantial capital to seize profitable opportunities. In the realm of [algorithmic trading](../a/algorithmic_trading.md), the fusion of technology, [data science](../d/data_science_in_trading.md), and market expertise continues to push the boundaries of what is achievable, driving the evolution of high conviction [trading strategies](../t/trading_strategies.md).

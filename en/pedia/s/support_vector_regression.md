@@ -1,6 +1,6 @@
 # Support Vector Regression (SVR)
 
-Support Vector Regression (SVR) is a type of Support Vector Machine (SVM) that is specifically designed for regression tasks. While SVM is widely known for its application in classification problems, SVR extends the SVM framework to predict continuous values, making it a powerful tool for regression in machine learning and data science.
+Support Vector Regression (SVR) is a type of Support Vector Machine (SVM) that is specifically designed for regression tasks. While SVM is widely known for its application in classification problems, SVR extends the SVM framework to predict continuous values, making it a powerful tool for regression in machine learning and [data science](../d/data_science_in_trading.md).
 
 ### Fundamentals of Support Vector Regression
 

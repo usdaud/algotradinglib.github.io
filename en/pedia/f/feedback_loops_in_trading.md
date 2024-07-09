@@ -24,9 +24,9 @@ An example could be the use of an Exponential Moving Average (EMA) crossover str
 
 ### Adaptive Learning
 
-Machine learning algorithms utilize feedback loops extensively. An underlying model trained on historical data predicts market movements, and the feedback loop governs the ongoing learning process by adjusting the model based on real-time [performance metrics](../p/performance_metrics.md), thereby improving prediction accuracy over time.
+Machine [learning algorithms](../l/learning_algorithms_in_trading.md) utilize feedback loops extensively. An underlying model trained on historical data predicts market movements, and the feedback loop governs the ongoing learning process by adjusting the model based on real-time [performance metrics](../p/performance_metrics.md), thereby improving prediction accuracy over time.
 
-Recurrent Neural Networks (RNNs) and Long Short-Term Memory (LSTM) networks are particularly adept at handling time-series data inherent to trading, consistently learning and adapting through feedback mechanisms.
+Recurrent [Neural Networks](../n/neural_networks_in_trading.md) (RNNs) and Long Short-Term Memory (LSTM) networks are particularly adept at handling time-series data inherent to trading, consistently learning and adapting through feedback mechanisms.
 
 ## Case Study: A Quantitative Trading Firm
 
@@ -40,7 +40,7 @@ For more information, visit Bridgewater Associates’s official website - [Bridg
 
 ### Overfitting
 
-A prevalent issue in feedback-driven systems is overfitting. When an algorithm is excessively tuned to historical data, its ability to adapt to new, unseen market conditions diminishes. Regular validation of models against out-of-sample data and stress testing against diverse market scenarios can help counteract this.
+A prevalent issue in feedback-driven systems is overfitting. When an algorithm is excessively tuned to historical data, its ability to adapt to new, unseen market conditions diminishes. Regular validation of models against out-of-sample data and [stress testing](../s/stress_testing_in_trading.md) against diverse market scenarios can help counteract this.
 
 ### Latency
 
@@ -54,7 +54,7 @@ A critical risk with positive feedback loops is the potential for creating self-
 
 ### Quantum Computing
 
-Advancements in quantum computing promise to revolutionize feedback loop efficiency by handling vast computations in mere fractions of time required by classical systems, potentially providing unprecedented predictive accuracies and market insights.
+Advancements in [quantum computing](../q/quantum_computing_in_trading.md) promise to revolutionize feedback loop efficiency by handling vast computations in mere fractions of time required by classical systems, potentially providing unprecedented predictive accuracies and market insights.
 
 ### AI and Advanced Learning Algorithms
 

@@ -9,7 +9,7 @@ Trading signal filters are algorithms or techniques used to clean and refine raw
 ### Types of Trading Signal Filters
 
 1. **Statistical Filters:** These filters use statistical methods to process [trading signals](../t/trading_signals.md). They include moving averages, standard deviation filters, z-score filters, and more.
-2. **Machine Learning Filters:** Machine learning models, such as [decision trees](../d/decision_trees.md), random forests, and neural networks, are used to refine [trading signals](../t/trading_signals.md). They can identify patterns that are not apparent through traditional statistical methods.
+2. **Machine Learning Filters:** Machine learning models, such as [decision trees](../d/decision_trees.md), [random forests](../r/random_forests_in_trading.md), and [neural networks](../n/neural_networks_in_trading.md), are used to refine [trading signals](../t/trading_signals.md). They can identify patterns that are not apparent through traditional statistical methods.
 3. **[Technical Indicator Filters](../t/technical_indicator_filters.md):** Common [technical indicators](../t/technical_indicators.md) like RSI, MACD, and [Bollinger Bands](../b/bollinger_bands.md) can act as filters to validate or invalidate [trading signals](../t/trading_signals.md).
 4. **Volume Filters:** Trade signals are filtered based on trading volume to ensure actions are taken only when there is sufficient market activity.
 5. **Time Filters:** Signals are filtered based on specific time frames or trading sessions to align with market conditions and [trading strategies](../t/trading_strategies.md).
@@ -62,7 +62,7 @@ Machine Learning (ML) filters are increasingly being adopted to enhance [trading
 
 #### Decision Trees and Random Forests
 
-[Decision trees](../d/decision_trees.md) classify data based on the values of input features, while random forests are an ensemble method using multiple [decision trees](../d/decision_trees.md) to improve predictive performance.
+[Decision trees](../d/decision_trees.md) classify data based on the values of input features, while [random forests](../r/random_forests_in_trading.md) are an ensemble method using multiple [decision trees](../d/decision_trees.md) to improve predictive performance.
 
 - **Decision Tree:**
 ```python
@@ -84,7 +84,7 @@ predictions = model.predict(X_test)
 
 #### Neural Networks
 
-Neural networks, specifically deep learning models, can capture nonlinear relationships in the data, making them suitable for complex trading environments.
+[Neural networks](../n/neural_networks_in_trading.md), specifically deep learning models, can capture nonlinear relationships in the data, making them suitable for complex trading environments.
 
 ```python
 from keras.models import Sequential
@@ -164,7 +164,7 @@ def time_filter(df, start_time, end_time):
 
 ### Importance of Trading Signal Filters
 
-1. **Noise Reduction:** Filters help remove market noise, which can lead to false signals and unnecessary trades.
+1. **Noise Reduction:** Filters help remove market noise, which can lead to [false signals](../f/false_signals_in_trading.md) and unnecessary trades.
 2. **Improved Accuracy:** By refining raw signals, filters enhance the predictive accuracy of [trading strategies](../t/trading_strategies.md).
 3. **[Risk Management](../r/risk_management.md):** Filters can help limit exposure to risky trades by validating signals against multiple criteria.
 4. **Reduced Latency:** Efficient filtering can minimize the latency between signal generation and trade execution.

@@ -109,7 +109,7 @@ plt.show()
 
 ### Risk and Limitations
 
-1. **False Signals**: Swing highs and lows might produce false signals, especially in volatile or thinly traded markets.
+1. **[False Signals](../f/false_signals_in_trading.md)**: Swing highs and lows might produce [false signals](../f/false_signals_in_trading.md), especially in volatile or thinly traded markets.
 2. **Lagging Indicator**: Swing highs and lows are often [lagging indicators](../l/lagging_indicators.md), meaning they are identified only after the market has moved.
 3. **Market Conditions**: The efficiency of this strategy can vary with different market conditions. It works well in trending markets but can be less effective in ranging markets.
 

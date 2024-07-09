@@ -61,7 +61,7 @@ Market makers provide liquidity in the bond market by continuously quoting buy (
 
 ### 1. **Over-the-Counter (OTC) Markets**
 
-The majority of corporate bond trading occurs in over-the-counter (OTC) markets, where trades are conducted directly between parties rather than through a centralized exchange. This market is known for its flexibility and tailored transaction negotiations.
+The majority of corporate bond trading occurs in [over-the-counter (OTC) markets](../o/over-the-counter_markets.md), where trades are conducted directly between parties rather than through a centralized exchange. This market is known for its flexibility and tailored transaction negotiations.
 
 ### 2. **Electronic Trading Platforms**
 
@@ -149,11 +149,11 @@ Traders must navigate complex regulatory requirements and ensure compliance with
 
 ### 1. **Blockchain and Distributed Ledger Technology (DLT)**
 
-Blockchain technology has the potential to enhance transparency and reduce settlement times in the bond market, improving overall efficiency.
+[Blockchain](../b/blockchain_in_trading.md) technology has the potential to enhance transparency and reduce settlement times in the bond market, improving overall efficiency.
 
 ### 2. **Artificial Intelligence (AI) and Machine Learning**
 
-AI and machine learning algorithms are increasingly being used to analyze vast datasets, identify trading opportunities, and optimize [trading strategies](../t/trading_strategies.md).
+AI and machine [learning algorithms](../l/learning_algorithms_in_trading.md) are increasingly being used to analyze vast datasets, identify trading opportunities, and optimize [trading strategies](../t/trading_strategies.md).
 
 ### 3. **Environmental, Social, and Governance (ESG) Investing**
 

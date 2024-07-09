@@ -45,7 +45,7 @@ where:
 Accurately estimating the required inputs—expected returns, covariances, and volatilities—is critical but also challenging. Researchers and practitioners often rely on historical data, [fundamental analysis](../f/fundamental_analysis.md), and econometric models to estimate future returns and risks.
 
 ### Optimization Techniques
-Solvers and numerical methods are used to derive the optimal portfolio weights. Common techniques include quadratic programming, Lagrange multipliers, and iterative algorithms. Various software packages, like MATLAB, R, Python (using libraries such as `numpy`, `scipy`, and `cvxopt`), and specialized financial tools, are often used.
+Solvers and [numerical methods](../n/numerical_methods_in_trading.md) are used to derive the optimal portfolio weights. Common techniques include quadratic programming, Lagrange multipliers, and iterative algorithms. Various software packages, like MATLAB, R, Python (using libraries such as `numpy`, `scipy`, and `cvxopt`), and specialized financial tools, are often used.
 
 ### Portfolio Rebalancing
 Over time, due to market movements, the portfolio weights will drift away from the optimal allocation. Periodic rebalancing is necessary to maintain the desired risk-return profile. This involves buying and selling assets to realign the portfolio weights back to the optimal levels.
@@ -59,7 +59,7 @@ Over time, due to market movements, the portfolio weights will drift away from t
 
 ### Extensions and Variations
 1. **[Black-Litterman Model](../b/black-litterman_model.md)**: Incorporates market equilibrium and investor views to adjust expected returns.
-2. **[Robust Optimization](../r/robust_optimization.md)**: Accounts for uncertainty in input estimates by constructing portfolios that perform well under various potential scenarios.
+2. **[Robust Optimization](../r/robust_optimization.md)**: Accounts for [uncertainty](../u/uncertainty_in_trading.md) in input estimates by constructing portfolios that perform well under various potential scenarios.
 3. **Conditional Value-at-Risk (CVaR)**: Focuses on managing [tail risk](../t/tail_risk.md) beyond standard deviation measures.
 4. **Dynamic MVO**: Adjusts the optimization process over time to account for changing market conditions and asset characteristics.
 

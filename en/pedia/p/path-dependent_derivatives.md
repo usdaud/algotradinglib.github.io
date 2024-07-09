@@ -16,7 +16,7 @@ Asian options are a type of path-dependent derivative where the payoff depends o
     where \( S_i \) represents the underlying asset price at each observation point, \( N \) is the number of observations, and \( K \) is the strike price.
 
 2. **Geometric Average Options**
-    - Geometric Asian options use the geometric mean of the underlying asset's prices, leading to different payoff characteristics:
+    - Geometric Asian options use the [geometric mean](../g/geometric_mean_in_trading.md) of the underlying asset's prices, leading to different payoff characteristics:
     \[
     \text{Payoff} = \max\left(\sqrt[N]{\prod_{i=1}^{N} S_i} - K, 0\right)
     \]
@@ -83,17 +83,17 @@ Variance and volatility swaps are financial instruments that allow investors to 
 
 ## Models and Methods for Pricing Path-Dependent Derivatives
 
-The complexity brought about by the path-dependency requires advanced mathematical models and numerical methods for accurate pricing and [risk management](../r/risk_management.md). Key models used include Monte Carlo simulations, binomial and trinomial trees, [finite difference methods](../f/finite_difference_methods.md) (FDM), and various analytical techniques.
+The complexity brought about by the path-dependency requires advanced [mathematical models](../m/mathematical_models_in_trading.md) and [numerical methods](../n/numerical_methods_in_trading.md) for accurate pricing and [risk management](../r/risk_management.md). Key models used include Monte Carlo simulations, binomial and trinomial trees, [finite difference methods](../f/finite_difference_methods.md) (FDM), and various analytical techniques.
 
 ### Monte Carlo Simulation
 
-[Monte Carlo methods](../m/monte_carlo_methods.md) involve simulating numerous random paths for the underlying asset price and computing the average payoff of the derivative over these simulated paths. This method is particularly useful for [derivatives](../d/derivatives.md) with multiple sources of uncertainty and complex path dependencies.
+[Monte Carlo methods](../m/monte_carlo_methods.md) involve simulating numerous random paths for the underlying asset price and computing the average payoff of the derivative over these simulated paths. This method is particularly useful for [derivatives](../d/derivatives.md) with multiple sources of [uncertainty](../u/uncertainty_in_trading.md) and complex path dependencies.
  
 1. **Simplicity and Flexibility**
     - Monte Carlo simulations are straightforward to implement and highly flexible, allowing for the inclusion of various features like stochastic volatility, jumps, and multi-factors.
 
 2. **High Computational Demand**
-    - Despite their flexibility, [Monte Carlo methods](../m/monte_carlo_methods.md) can be computationally intensive, especially for high-dimensional problems or when pricing [derivatives](../d/derivatives.md) requiring accurate path simulation.
+    - Despite their flexibility, [Monte Carlo methods](../m/monte_carlo_methods.md) can be computationally intensive, especially for high-dimensional problems or when pricing [derivatives](../d/derivatives.md) requiring accurate path [simulation](../s/simulation_in_trading.md).
 
 ### Binomial and Trinomial Trees
 

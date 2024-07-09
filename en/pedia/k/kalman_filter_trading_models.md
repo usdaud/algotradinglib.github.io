@@ -1,14 +1,14 @@
 # Kalman Filter Trading Models
 
-Kalman Filter is a widely used algorithm in various fields like robotics, aerospace, navigation, and economics. In the context of trading and financial markets, the Kalman Filter offers significant advantages for estimation and prediction of dynamic systems. Kalman Filter [Trading Models](../t/trading_models.md) leverage the mathematical foundation of the Kalman Filter to create predictive models for trading stocks, commodities, forex, and other financial instruments. This article will provide an in-depth exploration of Kalman Filter [Trading Models](../t/trading_models.md), covering their mathematical framework, application in trading, and practical implementation examples.
+[Kalman Filter](../k/kalman_filter_in_trading.md) is a widely used algorithm in various fields like robotics, aerospace, navigation, and economics. In the context of trading and financial markets, the [Kalman Filter](../k/kalman_filter_in_trading.md) offers significant advantages for estimation and prediction of dynamic systems. [Kalman Filter](../k/kalman_filter_in_trading.md) [Trading Models](../t/trading_models.md) leverage the mathematical foundation of the [Kalman Filter](../k/kalman_filter_in_trading.md) to create [predictive models](../p/predictive_models_in_trading.md) for trading stocks, commodities, forex, and other financial instruments. This article will provide an in-depth exploration of [Kalman Filter](../k/kalman_filter_in_trading.md) [Trading Models](../t/trading_models.md), covering their mathematical framework, application in trading, and practical implementation examples.
 
 ## Introduction to the Kalman Filter
 
-The Kalman Filter, named after Rudolf E. Kalman, is an algorithm that uses a series of measurements observed over time, containing statistical noise and other inaccuracies, and produces estimates of unknown variables that tend to be more precise than those based on a single measurement alone. The algorithm operates recursively on streams of noisy input data to produce a statistically optimal estimate of the underlying system's state.
+The [Kalman Filter](../k/kalman_filter_in_trading.md), named after Rudolf E. Kalman, is an algorithm that uses a series of measurements observed over time, containing statistical noise and other inaccuracies, and produces estimates of unknown variables that tend to be more precise than those based on a single measurement alone. The algorithm operates recursively on streams of noisy input data to produce a statistically optimal estimate of the underlying system's state.
 
 ### Mathematical Framework
 
-The Kalman Filter is based on linear dynamic systems discretized in the time domain. The system is modeled on a Markov process governed by the following state-space equations:
+The [Kalman Filter](../k/kalman_filter_in_trading.md) is based on linear dynamic systems discretized in the time domain. The system is modeled on a Markov process governed by the following state-space equations:
 
 1. **State Equation**:
     \[
@@ -32,7 +32,7 @@ The Kalman Filter is based on linear dynamic systems discretized in the time dom
 
 ### Kalman Filter Equations
 
-The Kalman Filter algorithm involves two steps: Predict and Update.
+The [Kalman Filter](../k/kalman_filter_in_trading.md) algorithm involves two steps: Predict and Update.
 
 1. **Predict**:
     - Prior State Estimate:
@@ -53,7 +53,7 @@ The Kalman Filter algorithm involves two steps: Predict and Update.
       \[
       S_k = H P_{k|k-1} H^T + R
       \]
-    - Optimal Kalman Gain:
+    - Optimal [Kalman Gain](../k/kalman_gain_in_trading.md):
       \[
       K_k = P_{k|k-1} H^T S_k^{-1}
       \]
@@ -78,16 +78,16 @@ In financial markets, Kalman Filters are used to estimate and predict various pa
 
    **Implementation Steps:**
    - Model the price or spread as a state-space system.
-   - Utilize the Kalman Filter to estimate the mean and variance.
+   - Utilize the [Kalman Filter](../k/kalman_filter_in_trading.md) to estimate the mean and variance.
    - Generate [trading signals](../t/trading_signals.md) when the observed value deviates significantly from the estimated mean.
 
 2. **Pair Trading**
 
-   Pair trading involves trading two correlated securities. The Kalman Filter can dynamically estimate the relationship between the prices of the two securities, capturing the co-integrated spread.
+   Pair trading involves trading two correlated securities. The [Kalman Filter](../k/kalman_filter_in_trading.md) can dynamically estimate the relationship between the prices of the two securities, capturing the co-integrated spread.
 
    **Implementation Steps:**
    - Use a state-space model to describe the spread between the two securities.
-   - Apply the Kalman Filter to estimate the parameters of the spread.
+   - Apply the [Kalman Filter](../k/kalman_filter_in_trading.md) to estimate the parameters of the spread.
    - Initiate long/short positions when the spread moves away from its estimated equilibrium.
 
 3. **[Trend Following](../t/trend_following.md) Strategy**
@@ -96,7 +96,7 @@ In financial markets, Kalman Filters are used to estimate and predict various pa
 
    **Implementation Steps:**
    - Model the price series with a state-space model incorporating the trend component.
-   - Use the Kalman Filter to estimate the trend and residual noise.
+   - Use the [Kalman Filter](../k/kalman_filter_in_trading.md) to estimate the trend and residual noise.
    - Generate [trading signals](../t/trading_signals.md) based on the direction and strength of the trend estimate.
 
 ### Case Study: Kalman Filter for ETF Trading
@@ -105,21 +105,21 @@ Exchange-Traded Funds (ETFs) often consist of multiple underlying assets whose c
 
 **Implementation Steps:**
 - Model the ETF price and underlying assets using a state-space model.
-- Apply the Kalman Filter to estimate the ETF price based on the state variables.
+- Apply the [Kalman Filter](../k/kalman_filter_in_trading.md) to estimate the ETF price based on the state variables.
 - Trade based on the predicted ETF price and observed deviations.
 
 ## Practical Implementation
 
 ### Tools and Libraries
 
-Several tools and libraries facilitate the implementation of Kalman Filter [Trading Models](../t/trading_models.md). These include:
+Several tools and libraries facilitate the implementation of [Kalman Filter](../k/kalman_filter_in_trading.md) [Trading Models](../t/trading_models.md). These include:
 
 1. **Python**:
    - `pykalman` - A library that implements Kalman Filters in Python.
    - `filterpy` - Another Python library for Kalman filtering and related optimal estimation methods.
 
 2. **R**:
-   - `dlm` - R package for Bayesian and likelihood analysis of dynamic linear models.
+   - `dlm` - R package for Bayesian and likelihood analysis of dynamic [linear models](../l/linear_models_in_trading.md).
    - `KFAS` - R package for state-space modeling in statistics.
 
 3. **MATLAB**:
@@ -127,7 +127,7 @@ Several tools and libraries facilitate the implementation of Kalman Filter [Trad
 
 ### Example Code in Python
 
-The following example demonstrates a simple implementation of a Kalman Filter for trading in Python using the `filterpy` library.
+The following example demonstrates a simple implementation of a [Kalman Filter](../k/kalman_filter_in_trading.md) for trading in Python using the `filterpy` library.
 
 ```python
 import numpy as np
@@ -166,14 +166,14 @@ plt.show()
 
 ### Real-World Applications
 
-Several financial institutions and hedge funds utilize Kalman Filter models in their [trading algorithms](../t/trading_algorithms.md). These include:
+Several financial institutions and hedge funds utilize [Kalman Filter](../k/kalman_filter_in_trading.md) models in their [trading algorithms](../t/trading_algorithms.md). These include:
 
 - **J.P. Morgan**: Incorporates advanced filtering techniques, including Kalman Filters, for asset management and [proprietary trading](../p/proprietary_trading.md) [J.P. Morgan Asset Management](https://am.jpmorgan.com).
 
-- **Goldman Sachs**: Utilizes mathematical models and Kalman Filters for [quantitative trading](../q/quantitative_trading.md) strategies [Goldman Sachs](https://www.goldmansachs.com).
+- **Goldman Sachs**: Utilizes [mathematical models](../m/mathematical_models_in_trading.md) and Kalman Filters for [quantitative trading](../q/quantitative_trading.md) strategies [Goldman Sachs](https://www.goldmansachs.com).
 
 - **Two Sigma**: Employs sophisticated models, including state-space techniques, in their [algorithmic trading](../a/algorithmic_trading.md) [Two Sigma](https://www.twosigma.com).
 
 ## Conclusion
 
-Kalman Filter [Trading Models](../t/trading_models.md) provide a robust framework for estimating unknown parameters and predicting future states in financial markets. They are versatile, capable of handling various [trading strategies](../t/trading_strategies.md), including [mean reversion](../m/mean_reversion.md), pair trading, and [trend following](../t/trend_following.md). By leveraging the power of Kalman Filters, traders and financial institutions can develop sophisticated [trading algorithms](../t/trading_algorithms.md) that offer an edge in today's dynamic markets. The implementation tools, such as Python, R, and MATLAB, make it accessible for practitioners to adopt these models in real-world trading scenarios.
+[Kalman Filter](../k/kalman_filter_in_trading.md) [Trading Models](../t/trading_models.md) provide a robust framework for estimating unknown parameters and predicting future states in financial markets. They are versatile, capable of handling various [trading strategies](../t/trading_strategies.md), including [mean reversion](../m/mean_reversion.md), pair trading, and [trend following](../t/trend_following.md). By leveraging the power of Kalman Filters, traders and financial institutions can develop sophisticated [trading algorithms](../t/trading_algorithms.md) that offer an edge in today's dynamic markets. The implementation tools, such as Python, R, and MATLAB, make it accessible for practitioners to adopt these models in real-world trading scenarios.

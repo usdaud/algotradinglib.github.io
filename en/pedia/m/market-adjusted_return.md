@@ -59,7 +59,7 @@ Many investment firms and hedge funds integrate market-adjusted return metrics i
 - **Two Sigma:** This investment firm uses advanced data analytics and [algorithmic trading](../a/algorithmic_trading.md), leveraging market-adjusted returns to fine-tune their [trading strategies](../t/trading_strategies.md).
   - [Two Sigma](https://www.twosigma.com/)
 
-- **Citadel:** Known for its use of quantitative strategies, Citadel incorporates market-adjusted return metrics to evaluate and enhance [algorithmic trading](../a/algorithmic_trading.md) performance.
+- **Citadel:** Known for its use of [quantitative strategies](../q/quantitative_strategies_in_trading.md), Citadel incorporates market-adjusted return metrics to evaluate and enhance [algorithmic trading](../a/algorithmic_trading.md) performance.
   - [Citadel](https://www.citadel.com/)
 
 ### Market-Adjusted Return vs. Other Metrics

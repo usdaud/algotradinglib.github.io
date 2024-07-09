@@ -20,7 +20,7 @@ Identifying price trends is fundamental in Trading Activity Analysis. This invol
 - **Downtrend:** Characterized by lower highs and lower lows.
 - **Sideways/Horizontal Trend:** Prices move within a range without a clear direction.
 
-Indicators used in Price [Trend Analysis](../t/trend_analysis.md) include moving averages, trend lines, and the Average Directional Index (ADX).
+Indicators used in Price [Trend Analysis](../t/trend_analysis.md) include moving averages, trend lines, and the [Average Directional Index](../a/average_directional_index_(adx).md) (ADX).
 
 ### 3. **Volatility Analysis**
 
@@ -34,7 +34,7 @@ Volatility refers to the rate at which the price of a security increases or decr
 
 [Sentiment analysis](../s/sentiment_analysis.md) involves gauging the market mood or the emotions of traders and investors. This can be derived from news, social media, and other public data sources. Common practices include:
 
-- **News [Sentiment Analysis](../s/sentiment_analysis.md):** Utilizing Natural Language Processing (NLP) to interpret news articles.
+- **News [Sentiment Analysis](../s/sentiment_analysis.md):** Utilizing [Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) to interpret news articles.
 - **Social Media [Sentiment Analysis](../s/sentiment_analysis.md):** Analyzing tweets, posts, and comments to understand trader sentiment.
   
 ### 5. **Order Flow Analysis**

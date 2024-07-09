@@ -27,7 +27,7 @@ There are several types of derivative contracts, each with unique characteristic
 
 Derivatives derive their value from the performance of underlying assets, which can include stocks, bonds, commodities, interest rates, market indexes, or currencies. The value of a derivative changes in response to movements in the underlying asset’s price or rate.
 
-- **Pricing**: The pricing of derivatives involves complex mathematical models, taking into account factors such as the current price of the underlying asset, the strike price, time to expiration, volatility, and interest rates.
+- **Pricing**: The pricing of derivatives involves complex [mathematical models](../m/mathematical_models_in_trading.md), taking into account factors such as the current price of the underlying asset, the strike price, time to expiration, volatility, and interest rates.
 - **Leverage**: Derivatives often involve leverage, allowing traders to control large positions with a relatively small amount of capital.
 - **Hedging**: Investors use derivatives to hedge risk in their portfolios. For example, an airline company might use futures to lock in fuel prices and protect against price fluctuations.
 

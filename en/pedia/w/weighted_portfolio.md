@@ -29,7 +29,7 @@ In finance, a portfolio refers to a collection of investments owned by an indivi
 
 5. **Optimal Weighting ([Mean-Variance Optimization](../m/mean-variance_optimization.md))**:
     - Involves calculating the combination of asset weights that maximizes return for a given level of risk or minimizes risk for a given level of return.
-    - Requires advanced mathematical models and computational tools.
+    - Requires advanced [mathematical models](../m/mathematical_models_in_trading.md) and computational tools.
 
 ## Key Concepts in Weighted Portfolio Construction
 

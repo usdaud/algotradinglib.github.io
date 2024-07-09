@@ -4,7 +4,7 @@ Smart [Order Routing](../o/order_routing.md) (SOR) is an advanced [algorithmic t
 
 ### Key Concepts
 
-1. **Order Types**: There are several types of orders in trading, including market orders, limit orders, stop orders, and more. SOR algorithms consider the specifics of these orders to optimize routing.
+1. **[Order Types](../o/order_types_in_trading.md)**: There are several types of orders in trading, including market orders, limit orders, stop orders, and more. SOR algorithms consider the specifics of these orders to optimize routing.
    
 2. **Trading Venues**: These are the marketplaces where financial instruments are bought and sold. They include major exchanges like the New York Stock Exchange (NYSE) and NASDAQ, as well as [dark pools](../d/dark_pools.md) and other ATS.
    
@@ -84,19 +84,19 @@ The operation of SOR can be broken down into several steps:
 
 2. **Low-Latency Networks**: High-speed networks that reduce the time it takes for information to travel between trading venues and the SOR system.
 
-3. **Big Data Analytics**: Utilized to analyze massive volumes of trading data, enhancing decision-making processes.
+3. **[Big Data Analytics](../b/big_data_analytics_in_trading.md)**: Utilized to analyze massive volumes of trading data, enhancing decision-making processes.
 
 4. **Machine Learning**: Applied to improve predictive capabilities and optimize routing strategies based on historical performance.
 
-5. **Cloud Computing**: Provides the scalability needed for SOR systems to handle large numbers of orders and data analysis tasks.
+5. **[Cloud Computing](../c/cloud_computing_in_trading.md)**: Provides the scalability needed for SOR systems to handle large numbers of orders and data analysis tasks.
 
 ### Future of Smart Order Routing
 
 The future of SOR is intricately tied to advancements in technology and market structure. Areas to watch include:
 
-1. **Artificial Intelligence**: Enhanced machine learning and AI algorithms will allow SOR systems to become even more sophisticated, making more informed and nuanced routing decisions.
+1. **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md)**: Enhanced machine learning and AI algorithms will allow SOR systems to become even more sophisticated, making more informed and nuanced routing decisions.
 
-2. **Blockchain and Distributed Ledger Technology**: Could provide new avenues for routing and executing orders in a secure, transparent manner.
+2. **[Blockchain](../b/blockchain_in_trading.md) and Distributed Ledger Technology**: Could provide new avenues for routing and executing orders in a secure, transparent manner.
 
 3. **Regulatory Developments**: Ongoing changes in market regulations could impact how SOR systems operate, necessitating continuous adaptation.
 

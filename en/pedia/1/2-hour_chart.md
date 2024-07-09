@@ -52,7 +52,7 @@ While not as data-intensive as minute charts, 2-hour charts still require relati
 
 ### 1. Trend Following Strategies
 
-2-hour charts are particularly useful in [trend following](../t/trend_following.md) strategies where the goal is to capture medium-term price movements. By configuring your algorithm to identify trends using indicators like moving averages, MACD (Moving Average Convergence Divergence), or ADX (Average Directional Index) on a 2-hour chart, you can gain a clearer perspective on trend direction and strength.
+2-hour charts are particularly useful in [trend following](../t/trend_following.md) strategies where the goal is to capture medium-term price movements. By configuring your algorithm to identify trends using indicators like moving averages, MACD (Moving Average Convergence Divergence), or ADX ([Average Directional Index](../a/average_directional_index_(adx).md)) on a 2-hour chart, you can gain a clearer perspective on trend direction and strength.
 
 ### 2. Mean Reversion Strategies
 
@@ -64,7 +64,7 @@ The 2-hour timeframe allows your algorithms to more effectively identify and rea
 
 ### 4. Volatility-Based Strategies
 
-Given the balance between data granularity and trend conspicuousness in a 2-hour chart, volatility indicators like ATR (Average True Range) or [Bollinger Bands](../b/bollinger_bands.md) can be successfully applied here. Detecting changes in volatility and adjusting your [trading strategies](../t/trading_strategies.md) accordingly can be more reliable in this timeframe.
+Given the balance between data granularity and trend conspicuousness in a 2-hour chart, volatility indicators like ATR ([Average True Range](../a/average_true_range_(atr).md)) or [Bollinger Bands](../b/bollinger_bands.md) can be successfully applied here. Detecting changes in volatility and adjusting your [trading strategies](../t/trading_strategies.md) accordingly can be more reliable in this timeframe.
 
 ## Practical Implementation
 

@@ -88,7 +88,7 @@ The yen's exchange rate against other major currencies, especially the US dollar
 
 ### Geopolitical Events
 
-Geopolitical tensions, trade wars, and conflicts can create uncertainty in global markets, causing fluctuations in the Nikkei 225. Traders and investors need to stay informed about international events and their potential ramifications.
+Geopolitical tensions, trade wars, and conflicts can create [uncertainty](../u/uncertainty_in_trading.md) in global markets, causing fluctuations in the Nikkei 225. Traders and investors need to stay informed about international events and their potential ramifications.
 
 ## Analytical Tools
 
@@ -132,7 +132,7 @@ Several tools and trading platforms can assist traders in executing Nikkei 225 [
 
 - **MetaTrader 4 and 5**: Widely used platforms that support [algorithmic trading](../a/algorithmic_trading.md) and provide numerous analytical tools.
 - **[Bloomberg](../b/bloomberg.md) Terminal**: Comprehensive financial software system offering real-time data, news, and analytics.
-- **Interactive Brokers**: Offers extensive tools for international trading, including direct market access to the Tokyo Stock Exchange.
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Offers extensive tools for international trading, including direct market access to the Tokyo Stock Exchange.
 
 For more information on these platforms, visit their respective websites:
 - [MetaTrader](https://www.metatrader4.com/en)

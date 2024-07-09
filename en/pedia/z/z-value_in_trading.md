@@ -14,7 +14,7 @@ This simple yet powerful formula converts raw data into a standardized form, all
 
 In trading, the Z-value is used to:
 
-1. **Assess [Market Anomalies](../m/market_anomalies.md)**: By calculating the Z-value of stock returns, traders can determine if the current price movement is an anomaly or part of the normal distribution, which is critical for identifying trading opportunities or risks.
+1. **Assess [Market Anomalies](../m/market_anomalies.md)**: By calculating the Z-value of stock returns, traders can determine if the current price movement is an anomaly or part of the [normal distribution](../n/normal_distribution_in_trading.md), which is critical for identifying trading opportunities or risks.
 2. **[Risk Management](../r/risk_management.md)**: Understanding how far asset returns deviate from the mean enables traders to assess potential risks and set appropriate [risk management](../r/risk_management.md) strategies.
 3. **Strategy [Backtesting](../b/backtesting.md)**: Z-values are used in [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md) to evaluate their performance in different market conditions. Strategies with returns significantly far from the mean can be flagged for further analysis.
 4. **Statistical [Arbitrage](../a/arbitrage.md)**: In [pairs trading](../p/pairs_trading.md) and statistical [arbitrage](../a/arbitrage.md) strategies, Z-values help identify when securities are mispriced relative to each other, signaling potential trades.
@@ -54,7 +54,7 @@ One of the [fundamental trading strategies](../f/fundamental_trading_strategies.
 
 Though the Z-value is a powerful tool, it has limitations such as:
 
-1. **Assumption of Normality**: Z-values assume that returns follow a normal distribution, which may not be accurate for all asset classes or market conditions.
+1. **Assumption of Normality**: Z-values assume that returns follow a [normal distribution](../n/normal_distribution_in_trading.md), which may not be accurate for all asset classes or market conditions.
 2. **Outliers**: Extreme values can distort the mean and standard deviation, leading to misleading Z-values.
 3. **Stationarity**: [Financial time series](../f/financial_time_series.md) data may exhibit non-stationarity, affecting the reliability of Z-value calculations over time.
 

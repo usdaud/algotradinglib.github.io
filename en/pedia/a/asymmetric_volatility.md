@@ -9,9 +9,9 @@ Asymmetric volatility refers to the empirical observation that volatility tends 
 
 **2. Causes and Theories Behind Asymmetric Volatility:**
 
-   - **Leverage Effect:** Introduced by Black (1976), the leverage effect suggests that as a company's stock price falls, its debt-to-equity ratio increases, leading to higher financial leverage and consequently, higher equity volatility.
+   - **[Leverage Effect](../l/leverage_effect_in_trading.md):** Introduced by Black (1976), the [leverage effect](../l/leverage_effect_in_trading.md) suggests that as a company's stock price falls, its debt-to-equity ratio increases, leading to higher financial leverage and consequently, higher equity volatility.
    - **Volatility Feedback Effect:** Proposed by Pindyck (1982), this hypothesis posits that anticipated changes in volatility can affect stock prices themselves. For instance, if investors expect higher future volatility, they might require higher returns for holding riskier assets, leading to immediate price drops.
-   - **Behavioral Factors:** Investor psychology and herd behavior play a role. In bad times, panic selling and overreaction can exacerbate market movements, increasing volatility. Conversely, in good times, investor overconfidence might dampen volatility.
+   - **Behavioral Factors:** Investor psychology and [herd behavior](../h/herd_behavior_in_trading.md) play a role. In bad times, panic selling and overreaction can exacerbate market movements, increasing volatility. Conversely, in good times, investor overconfidence might dampen volatility.
 
 ### Measurement of Asymmetric Volatility
 

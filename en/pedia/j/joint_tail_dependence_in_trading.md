@@ -45,7 +45,7 @@ Tail dependence metrics assist in better [portfolio diversification](../p/portfo
 
 ### Stress Testing
 
-Financial institutions use stress testing to evaluate how their portfolios would perform under extreme market conditions. Joint tail dependence is a crucial input in these simulations, helping institutions prepare for worst-case scenarios.
+Financial institutions use [stress testing](../s/stress_testing_in_trading.md) to evaluate how their portfolios would perform under extreme market conditions. Joint tail dependence is a crucial input in these simulations, helping institutions prepare for worst-case scenarios.
 
 ### Arbitrage Opportunities
 
@@ -83,7 +83,7 @@ Financial markets are dynamic, and the dependence structure between assets can c
 
 ### Extreme Value Theory (EVT)
 
-[Extreme Value Theory](../e/extreme_value_theory.md) is a branch of statistics dealing with the extreme deviations from the median of probability distributions. EVT provides a framework for modeling the tails of distributions and can be used in conjunction with copulas to better estimate tail dependence.
+[Extreme Value Theory](../e/extreme_value_theory.md) is a branch of statistics dealing with the extreme deviations from the median of [probability distributions](../p/probability_distributions_in_trading.md). EVT provides a framework for modeling the tails of distributions and can be used in conjunction with copulas to better estimate tail dependence.
 
 ### GARCH Models
 
@@ -91,13 +91,13 @@ Generalized Autoregressive Conditional Heteroskedasticity (GARCH) models are use
 
 ### Machine Learning Techniques
 
-Recent advances in machine learning offer new ways to estimate and model tail dependence. Techniques such as neural networks and support vector machines can be trained to identify complex dependencies in financial data, providing more accurate and dynamic estimates of joint tail dependence.
+Recent advances in machine learning offer new ways to estimate and model tail dependence. Techniques such as [neural networks](../n/neural_networks_in_trading.md) and [support vector machines](../s/support_vector_machines_in_trading.md) can be trained to identify complex dependencies in financial data, providing more accurate and dynamic estimates of joint tail dependence.
 
 ## Regulatory Considerations
 
 ### Basel III
 
-The Basel III framework, developed by the Basel Committee on Banking Supervision, includes guidelines for stress testing and [capital allocation](../c/capital_allocation.md) that implicitly consider tail dependence. Financial institutions are required to hold more capital against potential extreme losses, highlighting the importance of understanding joint tail dependence.
+The Basel III framework, developed by the Basel Committee on Banking Supervision, includes guidelines for [stress testing](../s/stress_testing_in_trading.md) and [capital allocation](../c/capital_allocation.md) that implicitly consider tail dependence. Financial institutions are required to hold more capital against potential extreme losses, highlighting the importance of understanding joint tail dependence.
 
 ### Dodd-Frank Act
 

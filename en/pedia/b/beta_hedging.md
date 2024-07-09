@@ -25,7 +25,7 @@ Where:
 
 #### Risk Management
 
-By employing beta hedging, traders can control the exposure of their portfolio to broader market movements. For instance, during periods of high volatility or economic uncertainty, a portfolio hedged for beta can substantially reduce potential losses. 
+By employing beta hedging, traders can control the exposure of their portfolio to broader market movements. For instance, during periods of high volatility or economic [uncertainty](../u/uncertainty_in_trading.md), a portfolio hedged for beta can substantially reduce potential losses. 
 
 #### Portfolio Stability
 

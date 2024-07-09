@@ -21,7 +21,7 @@ Several key factors have been identified in academic research, and some of the m
 
 ### Size
 
-The **size factor** reflects the historical tendency for small-cap stocks to outperform large-cap stocks. This "size premium" is often attributed to the higher risk and growth potential associated with smaller companies.
+The **size factor** reflects the historical tendency for small-cap stocks to outperform [large-cap stocks](../l/large_cap_stocks.md). This "size premium" is often attributed to the higher risk and growth potential associated with smaller companies.
 
 ### Momentum
 

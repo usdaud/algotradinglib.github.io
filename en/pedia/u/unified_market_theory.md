@@ -2,7 +2,7 @@
 
 ### Introduction to Unified Market Theory
 
-Unified Market Theory (UMT) is a conceptual framework that seeks to explain and predict market movements by integrating various models and theories from [financial economics](../f/financial_economics.md), [quantitative finance](../q/quantitative_finance.md), and data science. Traditionally, market theories have been fragmented, with different schools of thought explaining market behaviors in isolation. UMT attempts to combine these fragmented theories into a coherent whole to better understand market dynamics and improve [trading strategies](../t/trading_strategies.md).
+Unified Market Theory (UMT) is a conceptual framework that seeks to explain and predict market movements by integrating various models and theories from [financial economics](../f/financial_economics.md), [quantitative finance](../q/quantitative_finance.md), and [data science](../d/data_science_in_trading.md). Traditionally, market theories have been fragmented, with different schools of thought explaining market behaviors in isolation. UMT attempts to combine these fragmented theories into a coherent whole to better understand market dynamics and improve [trading strategies](../t/trading_strategies.md).
 
 ### Components of Unified Market Theory
 
@@ -12,10 +12,10 @@ UMT incorporates several key elements, each representing a different aspect of t
    - EMH posits that at any given time, asset prices fully reflect all available information, making it impossible to consistently achieve higher returns without taking additional risks. However, UMT acknowledges the limitations of EMH, particularly in [behavioral finance](../b/behavioral_finance.md) and anomalies.
 
 2. **[Behavioral Finance](../b/behavioral_finance.md):**
-   - This component focuses on how psychological factors and cognitive biases affect investor behavior and market outcomes. UMT integrates insights from [behavioral finance](../b/behavioral_finance.md) to account for irrational and emotional behaviors that can lead to market inefficiencies.
+   - This component focuses on how psychological factors and [cognitive biases](../c/cognitive_biases_in_trading.md) affect investor behavior and market outcomes. UMT integrates insights from [behavioral finance](../b/behavioral_finance.md) to account for irrational and emotional behaviors that can lead to market inefficiencies.
 
 3. **[Quantitative Models](../q/quantitative_models.md):**
-   - [Quantitative models](../q/quantitative_models.md) use mathematical and statistical methods to analyze market data. These models include time-series analysis, machine learning algorithms, and [stochastic processes](../s/stochastic_processes.md) that predict price movements and identify trading opportunities.
+   - [Quantitative models](../q/quantitative_models.md) use mathematical and statistical methods to analyze market data. These models include time-series analysis, machine [learning algorithms](../l/learning_algorithms_in_trading.md), and [stochastic processes](../s/stochastic_processes.md) that predict price movements and identify trading opportunities.
 
 4. **[Market Microstructure](../m/market_microstructure.md):**
    - This area studies the mechanisms and rules through which assets are traded. It includes topics like [order book dynamics](../o/order_book_dynamics.md), trade execution, and the impact of high-frequency trading (HFT) on market liquidity and volatility.

@@ -63,7 +63,7 @@ Effective redundancy analysis aims to balance the need for backup systems with t
 
 To optimize [trading performance](../t/trading_performance.md), managing redundancy involves both elimination of unnecessary duplications and strategic implementation of necessary backups.
 
-1. **Cost-Benefit Analysis**:
+1. **[Cost-Benefit Analysis](../c/cost-benefit_analysis_in_trading.md)**:
     - Examining the costs associated with redundancy versus the benefits in terms of reduced risk and increased reliability.
     
 2. **Monitoring and Maintenance**:

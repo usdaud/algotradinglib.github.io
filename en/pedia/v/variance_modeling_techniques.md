@@ -1,6 +1,6 @@
 # Variance Modeling Techniques
 
-In the domain of [algorithmic trading](../a/algorithmic_trading.md), variance modeling plays an essential role as it helps in understanding and predicting price volatility, critical for crafting [risk management](../r/risk_management.md) strategies, pricing [derivatives](../d/derivatives.md), and optimizing [trading algorithms](../t/trading_algorithms.md). This article will cover various techniques employed for variance modeling in [algorithmic trading](../a/algorithmic_trading.md).
+In the domain of [algorithmic trading](../a/algorithmic_trading.md), [variance modeling](../v/variance_modeling_in_trading.md) plays an essential role as it helps in understanding and predicting price volatility, critical for crafting [risk management](../r/risk_management.md) strategies, pricing [derivatives](../d/derivatives.md), and optimizing [trading algorithms](../t/trading_algorithms.md). This article will cover various techniques employed for [variance modeling](../v/variance_modeling_in_trading.md) in [algorithmic trading](../a/algorithmic_trading.md).
 
 ## 1. Historical Volatility
 
@@ -96,7 +96,7 @@ The Merton Jump Diffusion model combines both continuous [Gaussian processes](..
 \[ dS_t = \mu S_t dt + \sigma S_t dW_t + J_t dq_t \]
 Where:
 - \( J_t \) represents the jump size, modeled as a random variable.
-- \( dq_t \) is a Poisson process indicating the occurrence of jumps.
+- \( dq_t \) is a [Poisson process](../p/poisson_process_in_trading.md) indicating the occurrence of jumps.
 
 ### Use Cases
 These models are particularly useful for pricing options on assets known to experience sudden price jumps, such as individual stocks around [earnings announcements](../e/earnings_announcements.md) or macroeconomic news.
@@ -142,18 +142,18 @@ Used in [portfolio optimization](../p/portfolio_optimization.md), systemic risk 
 ## 10. Neural Network-based Models
 
 ### Description
-Neural networks, particularly deep learning models, have been increasingly applied to [volatility forecasting](../v/volatility_forecasting.md) due to their ability to capture complex nonlinear relationships.
+[Neural networks](../n/neural_networks_in_trading.md), particularly deep learning models, have been increasingly applied to [volatility forecasting](../v/volatility_forecasting.md) due to their ability to capture complex nonlinear relationships.
 
 ### Implementation
 - Feed-forward networks
-- Recurrent Neural Networks (RNNs), especially Long Short-Term Memory (LSTM) networks
+- Recurrent [Neural Networks](../n/neural_networks_in_trading.md) (RNNs), especially Long Short-Term Memory (LSTM) networks
 
 ### Advantages
-Neural networks can automatically learn features from data and adapt to changing market conditions.
+[Neural networks](../n/neural_networks_in_trading.md) can automatically learn features from data and adapt to changing market conditions.
 
 ### Applications
 Neural network-based models are employed for [predictive modeling](../p/predictive_modeling.md) in HFT, derivative pricing, and adaptive [trading strategies](../t/trading_strategies.md).
 
 ## Conclusion
 
-Variance modeling in [algorithmic trading](../a/algorithmic_trading.md) encompasses a wide array of techniques, each with its advantages and suited applications. From traditional methods like historical and implied volatility to advanced models employing GARCH, [stochastic processes](../s/stochastic_processes.md), and neural networks, understanding and selecting the appropriate method can significantly enhance a trading strategy's effectiveness and [risk management](../r/risk_management.md) capabilities.
+[Variance modeling](../v/variance_modeling_in_trading.md) in [algorithmic trading](../a/algorithmic_trading.md) encompasses a wide array of techniques, each with its advantages and suited applications. From traditional methods like historical and implied volatility to advanced models employing GARCH, [stochastic processes](../s/stochastic_processes.md), and [neural networks](../n/neural_networks_in_trading.md), understanding and selecting the appropriate method can significantly enhance a trading strategy's effectiveness and [risk management](../r/risk_management.md) capabilities.

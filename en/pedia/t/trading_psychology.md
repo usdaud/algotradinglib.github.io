@@ -14,7 +14,7 @@ Discipline is another cornerstone of trading psychology. It involves sticking to
 Trading can be a high-stress activity, especially during periods of market volatility. Effective stress management techniques, such as mindfulness, exercise, and adequate sleep, are essential for maintaining clarity and focus.
 
 ### Cognitive Biases
-Cognitive biases such as [confirmation bias](../c/confirmation_bias.md), overconfidence, and [loss aversion](../l/loss_aversion.md) can negatively impact trading decisions. Being aware of these biases and actively working to mitigate their effects is crucial for improving [trading performance](../t/trading_performance.md).
+[Cognitive biases](../c/cognitive_biases_in_trading.md) such as [confirmation bias](../c/confirmation_bias.md), overconfidence, and [loss aversion](../l/loss_aversion.md) can negatively impact trading decisions. Being aware of these biases and actively working to mitigate their effects is crucial for improving [trading performance](../t/trading_performance.md).
 
 ## Common Emotional Pitfalls in Trading
 

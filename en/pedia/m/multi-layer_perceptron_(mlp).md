@@ -27,7 +27,7 @@ Training an MLP involves adjusting weights and biases to minimize the error betw
 
 ### Backpropagation
 
-Backpropagation is a supervised learning algorithm used for training neural networks. It involves four steps:
+Backpropagation is a supervised learning algorithm used for training [neural networks](../n/neural_networks_in_trading.md). It involves four steps:
 
 1. **Initialization:** Assign random values to the weights.
 2. **Forward Propagation:** Compute the output of each neuron from the input layer to the output layer.
@@ -47,7 +47,7 @@ MLPs have a wide range of applications in [algorithmic trading](../a/algorithmic
 
 Several companies and platforms incorporate MLPs into their [trading strategies](../t/trading_strategies.md) and algorithms. Examples include:
 
-- **Kensho Technologies:** A financial analytics and AI company that leverages neural networks for predictive analysis. [Website](https://www.kensho.com)
+- **Kensho Technologies:** A financial analytics and AI company that leverages [neural networks](../n/neural_networks_in_trading.md) for predictive analysis. [Website](https://www.kensho.com)
 - **Two Sigma:** A leading [quantitative trading](../q/quantitative_trading.md) firm that uses machine learning and MLPs for [trading strategies](../t/trading_strategies.md). [Website](https://www.twosigma.com)
 - **Numerai:** A hedge fund that crowdsources [trading models](../t/trading_models.md), many of which use MLPs for predictions. [Website](https://numer.ai)
 

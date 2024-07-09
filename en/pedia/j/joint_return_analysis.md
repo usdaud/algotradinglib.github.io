@@ -31,7 +31,7 @@ PCA is a technique used to reduce the dimensionality of a dataset while retainin
 #### PCA Process
 1. **Compute the Covariance Matrix:** Calculate the covariance matrix for the asset returns.
 2. **Eigenvalue Decomposition:** Decompose the covariance matrix into its eigenvectors and eigenvalues.
-3. **Form Principal Components:** Select the top eigenvectors that capture the majority of the variance.
+3. **Form [Principal Components](../p/principal_components_in_trading.md):** Select the top eigenvectors that capture the majority of the variance.
 
 ### Copula Models
 
@@ -39,14 +39,14 @@ Copulas are functions that couple multivariate distribution functions to their o
 
 #### Gaussian Copula
 \[ C(u, v) = \phi_{\rho}(\phi^{-1}(u), \phi^{-1}(v)) \]
-where \( \phi \) is the cumulative distribution function (CDF) of the standard normal distribution and \( \phi_{\rho} \) is the bivariate normal CDF with correlation \( \rho \).
+where \( \phi \) is the [cumulative distribution function](../c/cumulative_distribution_function_in_trading.md) (CDF) of the standard [normal distribution](../n/normal_distribution_in_trading.md) and \( \phi_{\rho} \) is the bivariate normal CDF with correlation \( \rho \).
 
 ### Machine Learning and Neural Networks
 
-With the advent of machine learning, more advanced techniques such as neural networks have been employed to model complex dependencies between asset returns. 
+With the advent of machine learning, more advanced techniques such as [neural networks](../n/neural_networks_in_trading.md) have been employed to model complex dependencies between asset returns. 
 
 #### LSTM Networks
-Long Short-Term Memory (LSTM) networks, a type of recurrent neural network (RNN), are particularly effective in capturing temporal dependencies and have been used for predicting joint returns.
+Long Short-Term Memory (LSTM) networks, a type of recurrent neural network (RNN), are particularly effective in capturing [temporal dependencies](../t/temporal_dependencies_in_trading.md) and have been used for predicting joint returns.
 
 ## Practical Implementation
 
@@ -82,7 +82,7 @@ Understanding joint returns is crucial for [risk management](../r/risk_managemen
 
 ### Stress Testing
 
-Stress testing involves simulating scenarios to observe how a portfolio might perform under extreme market conditions. Joint Return Analysis informs the construction of these scenarios by identifying dependencies among assets.
+[Stress testing](../s/stress_testing_in_trading.md) involves simulating scenarios to observe how a portfolio might perform under extreme market conditions. Joint Return Analysis informs the construction of these scenarios by identifying dependencies among assets.
 
 ## Case Studies
 

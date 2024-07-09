@@ -19,7 +19,7 @@ The first step in mean change analysis involves gathering data on the financial 
 The main statistical tools used in mean change analysis include:
 - **Average (Mean) Calculation**
 - **Variance and Standard Deviation**
-- **Normal Distribution Assumptions**
+- **[Normal Distribution](../n/normal_distribution_in_trading.md) Assumptions**
 - **[Hypothesis Testing](../h/hypothesis_testing.md)**
 
 #### Average (Mean) Calculation
@@ -32,7 +32,7 @@ Variance measures the spread of data points around the mean, while the standard 
 
 #### Normal Distribution Assumptions
 
-In many cases, mean change analysis assumes that the price changes follow a normal distribution. This assumption helps in estimating probabilities of different outcomes and is the basis for many statistical tests and [confidence intervals](../c/confidence_intervals.md).
+In many cases, mean change analysis assumes that the price changes follow a [normal distribution](../n/normal_distribution_in_trading.md). This assumption helps in estimating probabilities of different outcomes and is the basis for many statistical tests and [confidence intervals](../c/confidence_intervals.md).
 
 #### Hypothesis Testing
 
@@ -87,7 +87,7 @@ Several prominent financial institutions and hedge funds apply mean change analy
 
 - **Two Sigma Investments**: A quantitative investment firm that utilizes mean change analysis among other techniques for market predictions and trading decisions. [Two Sigma](https://www.twosigma.com)
 - **D.E. Shaw Group**: Known for its nuanced approach and statistical techniques, including mean change and [variance analysis](../v/variance_analysis.md). [D.E. Shaw](https://www.deshaw.com)
-- **Citadel**: This hedge fund employs a wide range of quantitative strategies, including mean change analysis, to generate alpha. [Citadel](https://www.citadel.com)
+- **Citadel**: This hedge fund employs a wide range of [quantitative strategies](../q/quantitative_strategies_in_trading.md), including mean change analysis, to generate alpha. [Citadel](https://www.citadel.com)
 - **Renaissance Technologies**: Using advanced mathematics and statistics, Renaissance Technologies integrates mean change analysis in their [trading algorithms](../t/trading_algorithms.md). [Renaissance Technologies](https://www.rentec.com)
 
 ## Conclusion

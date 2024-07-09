@@ -92,9 +92,9 @@ Real-time data analysis refers to the process of examining, processing, and repo
 
 1. **AI and Deep Learning:** The integration of advanced AI and deep learning methods holds great promise for improving prediction accuracy and developing more sophisticated [trading strategies](../t/trading_strategies.md).
 
-2. **Quantum Computing:** While still in its early stages, quantum computing has the potential to revolutionize [algorithmic trading](../a/algorithmic_trading.md) by solving complex optimization problems much faster than classical computers.
+2. **[Quantum Computing](../q/quantum_computing_in_trading.md):** While still in its early stages, [quantum computing](../q/quantum_computing_in_trading.md) has the potential to revolutionize [algorithmic trading](../a/algorithmic_trading.md) by solving complex optimization problems much faster than classical computers.
 
-3. **Blockchain and Decentralized Finance (DeFi):** The growing interest in blockchain and DeFi could lead to the development of real-time [trading algorithms](../t/trading_algorithms.md) for decentralized exchanges, adding a new dimension to [algorithmic trading](../a/algorithmic_trading.md).
+3. **[Blockchain](../b/blockchain_in_trading.md) and Decentralized Finance (DeFi):** The growing interest in [blockchain](../b/blockchain_in_trading.md) and DeFi could lead to the development of real-time [trading algorithms](../t/trading_algorithms.md) for decentralized exchanges, adding a new dimension to [algorithmic trading](../a/algorithmic_trading.md).
 
 4. **5G Technology:** The rollout of 5G networks will further reduce latency and enhance the real-time data processing capabilities, benefiting high-frequency traders.
 

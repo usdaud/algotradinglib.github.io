@@ -1,6 +1,6 @@
 # Natural Language Generation
 
-Natural Language Generation (NLG) is a subfield of artificial intelligence focusing on creating natural language from a given set of data. It involves the automatic generation of coherent and contextually relevant textual content that resembles human language. In the trading domain, NLG can be utilized for various purposes such as generating trading reports, summarizing financial news, and automating investment advice. This comprehensive overview covers the integral aspects of NLG in trading, including its applications, technologies, challenges, and key players.
+Natural Language Generation (NLG) is a subfield of [artificial intelligence](../a/artificial_intelligence_in_trading.md) focusing on creating natural language from a given set of data. It involves the automatic generation of coherent and contextually relevant textual content that resembles human language. In the trading domain, NLG can be utilized for various purposes such as generating trading reports, summarizing financial news, and automating investment advice. This comprehensive overview covers the integral aspects of NLG in trading, including its applications, technologies, challenges, and key players.
 
 ## Applications of NLG in Trading
 
@@ -14,7 +14,7 @@ NLG can be pivotal in generating real-time commentary on market scenarios. For i
 Financial institutions can utilize NLG to personalize communication with clients. By analyzing client portfolios and preferences, NLG systems can generate bespoke recommendations and updates, enhancing client engagement and satisfaction. This personalized approach ensures that clients receive relevant and timely information about their investments.
 
 ### 4. Sentiment Analysis and News Summarization
-NLG can be combined with Natural Language Processing (NLP) to summarize news articles, social media posts, and other textual data sources, providing traders with [sentiment analysis](../s/sentiment_analysis.md) and concise summaries of the latest information affecting the markets. This assists traders in making informed decisions based on the latest news and trends without having to manually sift through large volumes of text.
+NLG can be combined with [Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) to summarize news articles, social media posts, and other textual data sources, providing traders with [sentiment analysis](../s/sentiment_analysis.md) and concise summaries of the latest information affecting the markets. This assists traders in making informed decisions based on the latest news and trends without having to manually sift through large volumes of text.
 
 ### 5. Algorithmic Trade Strategy Explanation
 For complex [algorithmic trading](../a/algorithmic_trading.md) strategies, NLG can elucidate the logic behind the algorithms to traders and other stakeholders. By translating complex quantitative data and models into understandable language, NLG systems help demystify [algorithmic trading](../a/algorithmic_trading.md) strategies and foster greater transparency and trust.
@@ -31,7 +31,7 @@ Rule-based systems rely on a set of predefined rules and linguistic patterns to 
 Statistical methods use probabilistic models to determine the most likely text based on the input data. These methods can handle variability better than template-based and rule-based systems but may require large datasets to train the models effectively.
 
 ### 4. Neural Networks and Deep Learning
-The advent of deep learning and neural networks has revolutionized NLG. Models such as GPT-3 (Generative Pre-trained Transformer 3) and BERT (Bidirectional Encoder Representations from Transformers) leverage vast datasets and complex architectures to produce human-like text. These models are capable of generating highly coherent and contextually relevant text, making them ideal for dynamic and nuanced applications in trading.
+The advent of deep learning and [neural networks](../n/neural_networks_in_trading.md) has revolutionized NLG. Models such as GPT-3 (Generative Pre-trained Transformer 3) and BERT (Bidirectional Encoder Representations from Transformers) leverage vast datasets and complex architectures to produce human-like text. These models are capable of generating highly coherent and contextually relevant text, making them ideal for dynamic and nuanced applications in trading.
 
 ## Challenges in NLG for Trading
 
@@ -88,4 +88,4 @@ As NLG systems become more prevalent, ensuring ethical use and transparency in h
 
 ## Conclusion
 
-Natural Language Generation is transforming the trading industry by automating the creation of financial reports, real-time market analyses, and personalized client communication. Leveraging advanced technologies such as neural networks and deep learning, NLG systems are becoming more sophisticated, making them invaluable tools for traders and financial analysts. Despite the challenges, the ongoing advancements and innovations in NLG hold promise for even greater integration and utility in the financial markets. By continuously addressing data quality, contextual understanding, and compliance challenges, NLG will continue to enhance the efficiency, accuracy, and scalability of trading operations.
+Natural Language Generation is transforming the trading industry by automating the creation of financial reports, real-time market analyses, and personalized client communication. Leveraging advanced technologies such as [neural networks](../n/neural_networks_in_trading.md) and deep learning, NLG systems are becoming more sophisticated, making them invaluable tools for traders and financial analysts. Despite the challenges, the ongoing advancements and innovations in NLG hold promise for even greater integration and utility in the financial markets. By continuously addressing data quality, contextual understanding, and compliance challenges, NLG will continue to enhance the efficiency, accuracy, and scalability of trading operations.

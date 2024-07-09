@@ -66,7 +66,7 @@ The Yen [Carry Trade](../c/carry_trade.md) is a financial strategy that borrows 
 ### Technological Advancements
 
 - **[Algorithmic Trading](../a/algorithmic_trading.md)**: Advances in [algorithmic trading](../a/algorithmic_trading.md) have made executing and monitoring carry trades more efficient and responsive to market conditions.
-- **Data Analytics**: The use of big data and machine learning helps in predicting currency movements and assessing risks more accurately.
+- **Data Analytics**: The use of [big data](../b/big_data_in_trading.md) and machine learning helps in predicting currency movements and assessing risks more accurately.
 
 ### Regulatory Environment
 
@@ -75,7 +75,7 @@ The Yen [Carry Trade](../c/carry_trade.md) is a financial strategy that borrows 
 ### Impact of Global Events
 
 - **COVID-19**: The pandemic led to unprecedented market fluctuations, affecting [carry trade](../c/carry_trade.md) profitability and making investors more cautious.
-- **Geopolitical Tensions**: Trade wars, political instability, and other [geopolitical events](../g/geopolitical_events.md) also impact currency volatility, adding additional risk factors.
+- **Geopolitical Tensions**: Trade wars, political instability, and other [geopolitical events](../g/geopolitical_events.md) also impact currency volatility, adding additional [risk factors](../r/risk_factors_in_trading.md).
 
 ## Case Studies
 
@@ -92,7 +92,7 @@ The Yen [Carry Trade](../c/carry_trade.md) is a financial strategy that borrows 
 
 - **[Bloomberg](../b/bloomberg.md)**: [Financial News and Data](https://www.bloomberg.com)
 - **Bank of Japan**: [Interest Rate Policies](https://www.boj.or.jp)
-- **Trading Platforms**: Examples include E*TRADE, TD [Ameritrade](../a/ameritrade.md), and Interactive Brokers.
+- **Trading Platforms**: Examples include [E*TRADE](../e/e_trade.md), TD [Ameritrade](../a/ameritrade.md), and [Interactive Brokers](../i/interactive_brokers.md).
 
 ## Conclusion
 

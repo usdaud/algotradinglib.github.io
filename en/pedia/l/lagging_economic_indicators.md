@@ -16,7 +16,7 @@ Lagging [economic indicators](../e/economic_indicators.md) are quantitative metr
 
 3. **Gross Domestic Product (GDP) Growth Rate**
    - **Definition**: Represents the market value of all final goods and services produced over a period.
-   - **Significance**: While GDP itself is a broad measure, historical GDP growth rates serve as [lagging indicators](../l/lagging_indicators.md) showing economic performance.
+   - **Significance**: While GDP itself is a broad measure, historical GDP [growth rates](../g/growth_rates_in_trading.md) serve as [lagging indicators](../l/lagging_indicators.md) showing economic performance.
    - **Example**: The U.S. Bureau of Economic Analysis (BEA) provides quarterly and annual GDP data.
 
 4. **Corporate Profits**

@@ -21,7 +21,7 @@ The 90/10 strategy hinges on two core principles: [risk management](../r/risk_ma
 ### 2. The 10% Allocation: High-Risk Trades
 
 - **Nature of High-Risk Trades**: These are speculative trades that involve higher volatility, riskier assets, and longer time frames. Examples include small-cap stocks, cryptocurrencies, or leveraged positions.
-- **Execution**: Algorithms for these trades can use strategies like [swing trading](../s/swing_trading.md), position trading, or options trading based on predictive models that identify high-reward opportunities.
+- **Execution**: Algorithms for these trades can use strategies like [swing trading](../s/swing_trading.md), position trading, or options trading based on [predictive models](../p/predictive_models_in_trading.md) that identify high-reward opportunities.
 - **Objective**: The aim is to achieve significant gains from a small portion of the capital, accepting the higher risk involved. This part of the strategy leverages the potential for high returns to boost the overall performance of the portfolio.
 
 ## Development and Implementation of the 90/10 Strategy
@@ -41,7 +41,7 @@ Creating a 90/10 strategy involves multiple steps, including designing, [backtes
 ### 3. Optimization
 
 - **Parameter Tuning**: Adjust the algorithm parameters to improve [performance metrics](../p/performance_metrics.md).
-- **Stress Testing**: Test the strategy under various market conditions to identify potential weaknesses.
+- **[Stress Testing](../s/stress_testing_in_trading.md)**: Test the strategy under various market conditions to identify potential weaknesses.
 
 ### 4. Deployment
 

@@ -2,7 +2,7 @@
 
 ### Introduction
 
-[Algorithmic trading](../a/algorithmic_trading.md), often referred to as algo-trading, involves the use of pre-programmed trading instructions to execute orders at speeds and frequencies that are impossible for human traders. While the primary focus in [algorithmic trading](../a/algorithmic_trading.md) is to optimize financial returns, understanding and mitigating non-financial risk factors is equally crucial. Non-financial risks are those that can affect the trading process and outcomes but are not directly related to financial performance or market conditions. These include, but are not limited to operational risks, technology risks, regulatory risks, and human factors.
+[Algorithmic trading](../a/algorithmic_trading.md), often referred to as algo-trading, involves the use of pre-programmed trading instructions to execute orders at speeds and frequencies that are impossible for human traders. While the primary focus in [algorithmic trading](../a/algorithmic_trading.md) is to optimize financial returns, understanding and mitigating non-financial [risk factors](../r/risk_factors_in_trading.md) is equally crucial. Non-financial risks are those that can affect the trading process and outcomes but are not directly related to financial performance or market conditions. These include, but are not limited to operational risks, technology risks, regulatory risks, and human factors.
 
 ### Operational Risks
 
@@ -37,7 +37,7 @@ Various regulatory bodies require detailed reporting and disclosures of trading 
 Human factors remain vital in [algorithmic trading](../a/algorithmic_trading.md) despite the reliance on automation. The expertise and skill levels of the individuals designing and managing the algorithms are crucial. Mistakes in algorithmic design, incorrect parameter settings, or poor judgment in managing [trading strategies](../t/trading_strategies.md) can have significant negative consequences.
 
 #### Behavioral Risks
-Behavioral risks stem from the psychological factors that influence human decision-making. The overconfidence of algorithm designers, the fear of missing out, and other cognitive biases can lead to suboptimal [trading algorithms](../t/trading_algorithms.md) and strategies.
+Behavioral risks stem from the psychological factors that influence human decision-making. The overconfidence of algorithm designers, the fear of missing out, and other [cognitive biases](../c/cognitive_biases_in_trading.md) can lead to suboptimal [trading algorithms](../t/trading_algorithms.md) and strategies.
 
 ### Case Studies
 
@@ -50,7 +50,7 @@ Another prominent example is the Flash Crash of May 6, 2010. Within minutes, the
 ### Mitigation Strategies
 
 #### Robust Testing and Validation
-Implementing rigorous testing and validation processes for [trading algorithms](../t/trading_algorithms.md) is vital. This includes unit testing, integration testing, and stress testing under various market conditions to ensure the algorithms function as intended.
+Implementing rigorous testing and validation processes for [trading algorithms](../t/trading_algorithms.md) is vital. This includes unit testing, integration testing, and [stress testing](../s/stress_testing_in_trading.md) under various market conditions to ensure the algorithms function as intended.
 
 #### Real-Time Monitoring
 Real-time monitoring of trading activity allows for the early detection of anomalies or irregularities that may indicate underlying issues. This enables prompt corrective action to mitigate potential losses.
@@ -63,4 +63,4 @@ Maintaining effective communication channels within the trading firm and with ex
 
 ### Conclusion
 
-Non-financial risk factors in [algorithmic trading](../a/algorithmic_trading.md) are multifaceted and can have substantial impacts on the performance and stability of trading operations. Addressing these risks requires a comprehensive approach that includes robust infrastructure, cutting-edge technology, thorough compliance with regulations, and skilled human resources. By understanding and mitigating these risks, trading firms can safeguard their operations and enhance the reliability and effectiveness of their [algorithmic trading](../a/algorithmic_trading.md) strategies.
+Non-financial [risk factors](../r/risk_factors_in_trading.md) in [algorithmic trading](../a/algorithmic_trading.md) are multifaceted and can have substantial impacts on the performance and stability of trading operations. Addressing these risks requires a comprehensive approach that includes robust infrastructure, cutting-edge technology, thorough compliance with regulations, and skilled human resources. By understanding and mitigating these risks, trading firms can safeguard their operations and enhance the reliability and effectiveness of their [algorithmic trading](../a/algorithmic_trading.md) strategies.

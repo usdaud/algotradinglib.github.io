@@ -60,7 +60,7 @@ Successful algorithms require extensive and accurate data. [Yield spread](../y/y
 
 ### Popular Software and Platforms
 
-Several software platforms and tools are used for implementing [yield spread](../y/yield_spread.md) strategies, including:
+Several [software platforms](../s/software_platforms_for_trading.md) and tools are used for implementing [yield spread](../y/yield_spread.md) strategies, including:
 
 #### 1. **Bloomberg Terminal**
 

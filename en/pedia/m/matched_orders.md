@@ -63,7 +63,7 @@ Market makers provide liquidity by placing both buy and sell limit orders in the
 
 ### Statistical Arbitrage
 
-Statistical [arbitrage](../a/arbitrage.md) employs mathematical models to identify trading opportunities. These models look for statistical relationships between different securities and place orders to capitalize on these relationships when certain conditions are met. For instance, if two correlated stocks diverge in price, the algorithm might generate matched orders to buy the underperforming stock and sell the outperforming one.
+Statistical [arbitrage](../a/arbitrage.md) employs [mathematical models](../m/mathematical_models_in_trading.md) to identify trading opportunities. These models look for statistical relationships between different securities and place orders to capitalize on these relationships when certain conditions are met. For instance, if two correlated stocks diverge in price, the algorithm might generate matched orders to buy the underperforming stock and sell the outperforming one.
 
 ### High-Frequency Trading (HFT)
 

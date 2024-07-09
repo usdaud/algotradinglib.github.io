@@ -34,7 +34,7 @@ High-frequency trading is a subset of [algorithmic trading](../a/algorithmic_tra
 
 ## 4. Machine Learning and Artificial Intelligence
 
-Machine learning (ML) and artificial intelligence (AI) are increasingly being integrated into [algorithmic trading](../a/algorithmic_trading.md) to enhance decision-making processes through improved predictive accuracy.
+Machine learning (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) are increasingly being integrated into [algorithmic trading](../a/algorithmic_trading.md) to enhance decision-making processes through improved predictive accuracy.
 
 ### Applications:
 
@@ -78,7 +78,7 @@ Algorithmic traders often use specialized brokers and trading platforms that pro
 
 ### Noteworthy Platforms:
 
-- **Interactive Brokers:** Offers a comprehensive suite of trading tools and API capabilities. [Interactive Brokers](https://www.interactivebrokers.com/)
+- **[Interactive Brokers](../i/interactive_brokers.md):** Offers a comprehensive suite of trading tools and API capabilities. [Interactive Brokers](https://www.interactivebrokers.com/)
 - **[QuantConnect](../q/quantconnect.md):** Provides an integrated development environment for [quantitative research](../q/quantitative_research.md). [QuantConnect](https://www.quantconnect.com/)
 - **[AlgoTrader](../a/algotrader.md):** A professional trading platform for [rule-based trading](../r/rule-based_trading.md) strategies. [AlgoTrader](https://www.algotrader.com/)
 

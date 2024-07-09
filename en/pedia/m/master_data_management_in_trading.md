@@ -11,7 +11,7 @@ Master Data Management consists of all the processes, governance, policies, stan
 1. **Data Consistency**: MDM ensures that data is consistent across various platforms and departments. In trading, where data from multiple sources is used, consistency is paramount.
 2. **Data Accuracy**: Enables accurate data through data validation and verification mechanisms.
 3. **Regulatory Compliance**: Ensures that the organization complies with various data-related regulations, reducing the risk of significant fines and penalties.
-4. **Operational Efficiency**: Streamlines operations by eliminating redundancies and ensuring accurate reporting and analytics.
+4. **[Operational Efficiency](../o/operational_efficiency_in_trading.md)**: Streamlines operations by eliminating redundancies and ensuring accurate reporting and analytics.
 5. **Decision Making**: Facilitates better decision-making by providing accurate and updated data to stakeholders and decision-makers.
 
 ## Key Components of MDM in Trading
@@ -129,4 +129,4 @@ A leading trading firm was struggling with inconsistent and siloed data, leading
 
 ## Conclusion
 
-Master Data Management is a critical component in the trading industry, offering numerous benefits including enhanced data quality, regulatory compliance, and operational efficiency. While implementing MDM presents certain challenges, adopting best practices and leveraging advanced MDM solutions can significantly enhance a trading firm’s data management capabilities, leading to better trading outcomes and competitive advantage.
+Master Data Management is a critical component in the trading industry, offering numerous benefits including enhanced data quality, regulatory compliance, and [operational efficiency](../o/operational_efficiency_in_trading.md). While implementing MDM presents certain challenges, adopting best practices and leveraging advanced MDM solutions can significantly enhance a trading firm’s data management capabilities, leading to better trading outcomes and competitive advantage.

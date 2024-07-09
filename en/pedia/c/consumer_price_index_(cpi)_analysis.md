@@ -42,7 +42,7 @@ The CPI influences various aspects of the economy:
 ## CPI and Algorithmic Trading
 [Algorithmic trading](../a/algorithmic_trading.md), or algo-trading, involves using computer algorithms to execute trades at high speed and volume based on market data. CPI data can be a critical input for these algorithms:
 1. **[Data Integration](../d/data_integration.md)**: Algorithms can integrate CPI data to adjust [trading strategies](../t/trading_strategies.md) based on anticipated market reactions to inflation reports.
-2. **Predictive Models**: CPI trends can be incorporated into predictive models to forecast price movements in various asset classes.
+2. **[Predictive Models](../p/predictive_models_in_trading.md)**: CPI trends can be incorporated into [predictive models](../p/predictive_models_in_trading.md) to forecast price movements in various asset classes.
 3. **Automated Responses**: Algorithms can be programmed to automatically respond to CPI releases, adjusting positions in real-time to capitalize on market movements.
 4. **[Risk Management](../r/risk_management.md)**: Understanding CPI’s impact on interest rates and inflation can help in developing [risk management](../r/risk_management.md) strategies to hedge against adverse movements.
 
@@ -52,7 +52,7 @@ Consider a scenario where a hedge fund uses [algorithmic trading](../a/algorithm
 ## Notable Companies Utilizing CPI Data in Algo-Trading
 1. **Two Sigma Investments**: This quant-driven firm utilizes vast amounts of economic data, including CPI, to inform its [algorithmic trading](../a/algorithmic_trading.md) strategies. Their approach combines mathematical and statistical techniques to analyze data and execute trades automatically. [Two Sigma](https://www.twosigma.com)
 2. **Citadel LLC**: Another prominent player in the [algorithmic trading](../a/algorithmic_trading.md) space, Citadel employs sophisticated models that factor in [economic indicators](../e/economic_indicators.md) such as CPI to predict market movements and optimize trading decisions. [Citadel](https://www.citadel.com)
-3. **Renaissance Technologies**: Known for its pioneering work in [quantitative trading](../q/quantitative_trading.md), Renaissance Technologies integrates a variety of economic data points, including CPI, into its [trading algorithms](../t/trading_algorithms.md) to enhance predictive accuracy and operational efficiency. [Renaissance Technologies](https://www.rentec.com)
+3. **Renaissance Technologies**: Known for its pioneering work in [quantitative trading](../q/quantitative_trading.md), Renaissance Technologies integrates a variety of economic data points, including CPI, into its [trading algorithms](../t/trading_algorithms.md) to enhance predictive accuracy and [operational efficiency](../o/operational_efficiency_in_trading.md). [Renaissance Technologies](https://www.rentec.com)
 
 ## Conclusion
 The Consumer Price Index is a critical economic indicator that provides valuable insights into inflation and cost-of-living changes. Its comprehensive methodology ensures that it accurately reflects price changes across a broad spectrum of consumer goods and services. Understanding CPI's significance helps policymakers, businesses, and investors make informed decisions. In the realm of [algorithmic trading](../a/algorithmic_trading.md), CPI data plays a pivotal role in shaping [trading strategies](../t/trading_strategies.md), managing risk, and predicting market movements, demonstrating its far-reaching impact across the economic landscape.

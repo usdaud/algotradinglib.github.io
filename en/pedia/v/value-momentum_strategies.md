@@ -68,7 +68,7 @@ Frequent trading, particularly in momentum strategies, can lead to high transact
 
 ### Behavioral Biases
 
-Investors may need to contend with behavioral biases, such as overreaction to news or herd behavior, which can affect the performance of value and momentum strategies.
+Investors may need to contend with [behavioral biases](../b/behavioral_biases_in_trading.md), such as overreaction to news or [herd behavior](../h/herd_behavior_in_trading.md), which can affect the performance of value and momentum strategies.
 
 ## Advanced Techniques
 

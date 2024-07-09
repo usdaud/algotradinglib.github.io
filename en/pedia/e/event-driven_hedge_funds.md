@@ -6,7 +6,7 @@ Event-driven hedge funds constitute a type of investment strategy that attempts 
 
 ### 1. Merger Arbitrage
 
-Merger [arbitrage](../a/arbitrage.md), also known as risk [arbitrage](../a/arbitrage.md), focuses on the discrepancies between the market price of a target company's stock and the acquisition price offered by the acquirer in a merger or acquisition deal. Typically, the target company's stock trades below the acquisition price due to the uncertainty associated with deal consummation. An event-driven hedge fund will go long on the target's stock and may short the acquirer's stock to hedge against deal risk. If the deal proceeds as expected, the target's stock price should converge to the acquisition price, yielding a profit for the fund.
+Merger [arbitrage](../a/arbitrage.md), also known as risk [arbitrage](../a/arbitrage.md), focuses on the discrepancies between the market price of a target company's stock and the acquisition price offered by the acquirer in a merger or acquisition deal. Typically, the target company's stock trades below the acquisition price due to the [uncertainty](../u/uncertainty_in_trading.md) associated with deal consummation. An event-driven hedge fund will go long on the target's stock and may short the acquirer's stock to hedge against deal risk. If the deal proceeds as expected, the target's stock price should converge to the acquisition price, yielding a profit for the fund.
 
 ### 2. Distressed Securities Investing
 

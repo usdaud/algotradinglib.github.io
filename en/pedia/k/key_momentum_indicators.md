@@ -59,11 +59,11 @@ where:
 
 ## Average Directional Index (ADX)
 
-The Average Directional Index (ADX) is used to quantify the strength of a trend, irrespective of its direction. Developed by J. Welles Wilder, this indicator is part of the Directional Movement System.
+The [Average Directional Index](../a/average_directional_index_(adx).md) (ADX) is used to quantify the strength of a trend, irrespective of its direction. Developed by J. Welles Wilder, this indicator is part of the Directional Movement System.
 
 ### Calculation:
 The ADX can be calculated over a specified period, usually 14 days, using the following steps:
-1. Calculate the Directional Movement (DM) and Average True Range (ATR).
+1. Calculate the Directional Movement (DM) and [Average True Range](../a/average_true_range_(atr).md) (ATR).
 2. Smooth the DM and ATR using a moving average (usually an exponential moving average).
 3. Compute the Directional Movement Index (DX) using the smoothed values.
 4. Finally, the ADX is a smoothed average of the DX.

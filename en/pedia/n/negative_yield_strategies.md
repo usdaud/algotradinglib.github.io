@@ -13,7 +13,7 @@ A negative yield occurs when an investor receives less money back at the bond's 
 Several factors contribute to negative yields, including:
 
 1. **Monetary Policy**: Central banks may set negative interest rates to stimulate borrowing and spending, as seen in regions like the Eurozone or Japan.
-2. **Economic Uncertainty**: Investors may flock to safer assets like government bonds during periods of economic instability, driving prices up and yields down.
+2. **Economic [Uncertainty](../u/uncertainty_in_trading.md)**: Investors may flock to safer assets like government bonds during periods of economic instability, driving prices up and yields down.
 3. **Deflation Concerns**: Negative yields can reflect an adverse outlook on deflation, where falling prices increase the real value of money over time.
 4. **Global Investment Trends**: Low or negative yields in one major economy can influence yields elsewhere due to global capital flow dynamics.
 

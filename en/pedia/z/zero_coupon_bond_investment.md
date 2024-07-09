@@ -64,7 +64,7 @@ Zero coupon bonds can be negatively impacted by inflation, which erodes the purc
 ## Real-World Applications
 
 ### U.S. Treasury STRIPS
-One prominent example of zero coupon bonds is the U.S. Treasury's Separate Trading of Registered Interest and Principal Securities (STRIPS). These are zero coupon bonds created by separating the interest and principal components of traditional Treasury securities. STRIPS offer investors a government-backed, low-risk option for zero coupon bond investment.
+One prominent example of zero coupon bonds is the U.S. Treasury's Separate Trading of Registered Interest and Principal Securities (STRIPS). These are zero coupon bonds created by separating the interest and [principal components](../p/principal_components_in_trading.md) of traditional Treasury securities. STRIPS offer investors a government-backed, low-risk option for zero coupon bond investment.
 
 ### Corporate Zero Coupon Bonds
 Various corporations issue zero coupon bonds as part of their financing strategies. These bonds can offer higher yields compared to government securities, but they come with higher credit risk. Investors must assess the issuing company's creditworthiness and financial stability when considering corporate zero coupon bonds.

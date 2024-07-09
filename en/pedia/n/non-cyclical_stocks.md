@@ -1,6 +1,6 @@
 # Non-Cyclical Stocks
 
-Non-cyclical stocks refer to shares of companies whose performance and financial outcomes are largely unaffected by [economic cycles](../e/economic_cycles.md) and market fluctuations. These stocks belong to industries that provide essential goods and services, ensuring that demand remains relatively consistent regardless of the economic environment. Investors often gravitate towards non-cyclical stocks during periods of economic downturn or uncertainty because these stocks tend to exhibit less volatility and provide more stable returns.
+Non-cyclical stocks refer to shares of companies whose performance and financial outcomes are largely unaffected by [economic cycles](../e/economic_cycles.md) and market fluctuations. These stocks belong to industries that provide essential goods and services, ensuring that demand remains relatively consistent regardless of the economic environment. Investors often gravitate towards non-cyclical stocks during periods of economic downturn or [uncertainty](../u/uncertainty_in_trading.md) because these stocks tend to exhibit less volatility and provide more stable returns.
 
 ### Characteristics of Non-Cyclical Stocks
 
@@ -59,7 +59,7 @@ While non-cyclical stocks offer stability, they often have lower growth potentia
 Even non-cyclical stocks are not entirely immune to market sentiment and broader economic forces. Extreme market conditions can impact these stocks, albeit to a lesser degree compared to their cyclical counterparts.
 
 #### 3. Regulatory Changes
-Non-cyclical sectors like healthcare and utilities are heavily regulated. Regulatory changes can have substantial effects on profitability and operational efficiency.
+Non-cyclical sectors like healthcare and utilities are heavily regulated. Regulatory changes can have substantial effects on profitability and [operational efficiency](../o/operational_efficiency_in_trading.md).
 
 ### Examples of Non-Cyclical Stocks
 

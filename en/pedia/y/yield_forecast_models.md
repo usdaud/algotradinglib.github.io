@@ -39,14 +39,14 @@ These models estimate the expected earnings relative to the stock price, providi
 ### 2.3 Machine Learning Models in Financial Yield Forecasting
 Recent advances in machine learning have enabled more sophisticated [yield forecasting](../y/yield_forecasting.md). Techniques include:
 - **Regression Models:** Linear and non-[linear regression](../l/linear_regression.md) for predicting yields.
-- **Neural Networks:** Deep learning models for capturing complex, non-linear relationships.
-- **Support Vector Machines (SVM):** For classification and regression tasks in [yield forecasting](../y/yield_forecasting.md).
+- **[Neural Networks](../n/neural_networks_in_trading.md):** Deep learning models for capturing complex, non-linear relationships.
+- **[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM):** For classification and regression tasks in [yield forecasting](../y/yield_forecasting.md).
 
 ## 3. Agricultural Yield Forecast Models
 
 ### 3.1 Crop Simulation Models
 These models simulate the growth and development of crops under various environmental conditions. Examples include:
-- **Decision Support System for Agrotechnology Transfer (DSSAT):** A comprehensive suite for crop simulation.
+- **Decision Support System for Agrotechnology Transfer (DSSAT):** A comprehensive suite for crop [simulation](../s/simulation_in_trading.md).
 - **Crop Environment Resource Synthesis (CERES):** Models for predicting crop yields under different environmental conditions.
 
 ### 3.2 Statistical Yield Models
@@ -62,9 +62,9 @@ A popular indicator derived from remote sensing, NDVI correlates with crop healt
 
 ### 3.4 Machine Learning in Agricultural Yield Forecasting
 As with financial yields, machine learning models are increasingly used for agricultural [yield forecasting](../y/yield_forecasting.md):
-- **Random Forests:** [Ensemble learning](../e/ensemble_learning.md) methods for robust prediction.
+- **[Random Forests](../r/random_forests_in_trading.md):** [Ensemble learning](../e/ensemble_learning.md) methods for robust prediction.
 - **[Artificial Neural Networks](../a/artificial_neural_networks.md) (ANN):** Deep learning architectures for complex relationships.
-- **Convolutional Neural Networks (CNN):** Utilized for image data from remote sensing to predict crop yields.
+- **Convolutional [Neural Networks](../n/neural_networks_in_trading.md) (CNN):** Utilized for image data from remote sensing to predict crop yields.
 
 ## 4. Case Studies and Applications
 

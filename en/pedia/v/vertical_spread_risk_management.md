@@ -39,7 +39,7 @@ Hedging involves taking a position in a related instrument to offset potential l
 [ThinkOrSwim](../t/thinkorswim.md) is a professional-level trading platform offering comprehensive tools for options trading, including sophisticated charting, probability analysis, and a wide range of [risk management](../r/risk_management.md) features. [ThinkOrSwim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
 
 ### Interactive Brokers TWS
-Interactive Brokers offers the Trader Workstation (TWS), which provides advanced [risk management](../r/risk_management.md) tools, real-time monitoring, and a variety of options trading features. [Interactive Brokers](https://www.interactivebrokers.com/en/index.php?f=1010)
+[Interactive Brokers](../i/interactive_brokers.md) offers the Trader Workstation (TWS), which provides advanced [risk management](../r/risk_management.md) tools, real-time monitoring, and a variety of options trading features. [Interactive Brokers](https://www.interactivebrokers.com/en/index.php?f=1010)
 
 ### MetaTrader 5
 MetaTrader 5 is a multi-asset platform supporting options trading, with extensive [risk management](../r/risk_management.md) features, automated trading capabilities, and [technical analysis](../t/technical_analysis.md) tools. [MetaTrader 5](https://www.metatrader5.com/en)
@@ -59,7 +59,7 @@ Understanding the Greeks (Delta, Theta, Gamma, Vega, and Rho) is essential for m
 - **Rho**: Sensitivity to changes in interest rates.
 
 ### Stress Testing
-Stress testing involves evaluating how a portfolio would perform under extreme market conditions. This includes scenarios of sudden price movements and changes in volatility. This technique helps in identifying vulnerabilities and improving the robustness of [trading strategies](../t/trading_strategies.md).
+[Stress testing](../s/stress_testing_in_trading.md) involves evaluating how a portfolio would perform under extreme market conditions. This includes scenarios of sudden price movements and changes in volatility. This technique helps in identifying vulnerabilities and improving the robustness of [trading strategies](../t/trading_strategies.md).
 
 ## Common Pitfalls in Vertical Spread Trading
 
@@ -99,5 +99,5 @@ Traders often combine vertical spreads with other strategies to enhance [risk ma
 
 ## Conclusion
 
-[Vertical spread](../v/vertical_spread.md) [risk management](../r/risk_management.md) is a multi-faceted approach involving a mix of fundamental and advanced techniques. Effective [position sizing](../p/position_sizing.md), [stop-loss orders](../s/stop-loss_orders.md), diversification, and continuous monitoring are essential for managing risk. Tools and platforms provide invaluable support, but understanding the intrinsic risks and employing scenario analysis, Greeks analysis, and stress testing significantly enhance the robustness of [trading strategies](../t/trading_strategies.md). By avoiding common pitfalls and employing advanced [risk management](../r/risk_management.md) techniques, traders can navigate market complexities and improve the probability of favorable outcomes in vertical [spread trading](../s/spread_trading.md).
+[Vertical spread](../v/vertical_spread.md) [risk management](../r/risk_management.md) is a multi-faceted approach involving a mix of fundamental and advanced techniques. Effective [position sizing](../p/position_sizing.md), [stop-loss orders](../s/stop-loss_orders.md), diversification, and continuous monitoring are essential for managing risk. Tools and platforms provide invaluable support, but understanding the intrinsic risks and employing scenario analysis, Greeks analysis, and [stress testing](../s/stress_testing_in_trading.md) significantly enhance the robustness of [trading strategies](../t/trading_strategies.md). By avoiding common pitfalls and employing advanced [risk management](../r/risk_management.md) techniques, traders can navigate market complexities and improve the probability of favorable outcomes in vertical [spread trading](../s/spread_trading.md).
 

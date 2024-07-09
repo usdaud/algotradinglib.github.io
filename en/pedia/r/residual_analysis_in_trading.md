@@ -27,7 +27,7 @@ The first step involves collecting relevant trading data including price, volume
 
 #### 3.2 Model Development
 
-Develop a trading model based on the collected data. This could be a statistical model like [linear regression](../l/linear_regression.md) or machine learning models such as neural networks. The chosen model makes predictions based on historical data.
+Develop a trading model based on the collected data. This could be a statistical model like [linear regression](../l/linear_regression.md) or machine learning models such as [neural networks](../n/neural_networks_in_trading.md). The chosen model makes predictions based on historical data.
 
 #### 3.3 Residual Calculation
 
@@ -83,7 +83,7 @@ For more information on these tools, you can visit:
 
 #### 7.1 Hedge Funds
 
-Large hedge funds use residual analysis to improve their [trading models](../t/trading_models.md). For instance, Bridgewater Associates meticulously analyzes residuals to ensure their quantitative strategies are devoid of systematic errors.
+Large hedge funds use residual analysis to improve their [trading models](../t/trading_models.md). For instance, Bridgewater Associates meticulously analyzes residuals to ensure their [quantitative strategies](../q/quantitative_strategies_in_trading.md) are devoid of systematic errors.
 
 #### 7.2 Retail Traders
 

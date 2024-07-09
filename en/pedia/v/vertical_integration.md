@@ -40,7 +40,7 @@ Vertical integration is a strategy that companies use to gain control over their
 
 1. **Jane Street**: Jane Street is a global [proprietary trading](../p/proprietary_trading.md) firm and liquidity provider that is known for its sophisticated [algorithmic trading](../a/algorithmic_trading.md) strategies. By vertically integrating its trading processes, Jane Street can leverage its data acquisition, algorithm development, and execution capabilities to maintain its competitive edge. (Website: [Jane Street](https://www.janestreet.com/))
 
-2. **Two Sigma**: Two Sigma is a technology-driven investment firm that uses advanced data science and engineering to inform its [trading strategies](../t/trading_strategies.md). The firm’s vertical integration allows it to manage its entire trading process, from data collection and analysis to execution and post-trade evaluation. (Website: [Two Sigma](https://www.twosigma.com/))
+2. **Two Sigma**: Two Sigma is a technology-driven investment firm that uses advanced [data science](../d/data_science_in_trading.md) and engineering to inform its [trading strategies](../t/trading_strategies.md). The firm’s vertical integration allows it to manage its entire trading process, from data collection and analysis to execution and post-trade evaluation. (Website: [Two Sigma](https://www.twosigma.com/))
 
 3. **Citadel Securities**: Citadel Securities is a leading market maker and trading firm that benefits from vertical integration by controlling its trading infrastructure, technologies, and data sources. This enables the firm to achieve high efficiency and low latency in its trading operations. (Website: [Citadel Securities](https://www.citadelsecurities.com/))
 

@@ -38,7 +38,7 @@ These algorithms are based on the premise that assets which have been moving in 
 [Sentiment analysis](../s/sentiment_analysis.md) algorithms analyze market sentiment from a variety of sources, including social media, news articles, and forums, to predict future price movements.
 
 #### Techniques:
-- **Natural Language Processing (NLP)**: Using NLP techniques to process and analyze text data.
+- **[Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP)**: Using NLP techniques to process and analyze text data.
 - **Sentiment Scoring**: Assigning sentiment scores to different pieces of information.
 - **Signal Generation**: Generating [trading signals](../t/trading_signals.md) based on aggregated sentiment scores.
 
@@ -92,13 +92,13 @@ Slippage occurs when there is a difference between the expected price of a trade
 ## Future Trends
 
 ### 1. **Machine Learning and AI**
-The integration of machine learning and artificial intelligence (AI) in cryptocurrency [trading algorithms](../t/trading_algorithms.md) is expected to increase. These technologies will enable more sophisticated and adaptive [trading strategies](../t/trading_strategies.md).
+The integration of machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) in cryptocurrency [trading algorithms](../t/trading_algorithms.md) is expected to increase. These technologies will enable more sophisticated and adaptive [trading strategies](../t/trading_strategies.md).
 
 ### 2. **Decentralized Finance (DeFi)**
-The rise of DeFi platforms offers new opportunities for [algorithmic trading](../a/algorithmic_trading.md). Algorithms can now interact with smart contracts to execute trades, provide liquidity, or engage in yield farming.
+The rise of DeFi platforms offers new opportunities for [algorithmic trading](../a/algorithmic_trading.md). Algorithms can now interact with [smart contracts](../s/smart_contracts_in_trading.md) to execute trades, provide liquidity, or engage in yield farming.
 
 ### 3. **Quantum Computing**
-Quantum computing, although still in its early stages, has the potential to revolutionize [algorithmic trading](../a/algorithmic_trading.md) by solving complex optimization problems more efficiently.
+[Quantum computing](../q/quantum_computing_in_trading.md), although still in its early stages, has the potential to revolutionize [algorithmic trading](../a/algorithmic_trading.md) by solving complex optimization problems more efficiently.
 
 ### 4. **Increased Institutional Adoption**
 As more institutional investors enter the cryptocurrency market, the demand for sophisticated [algorithmic trading](../a/algorithmic_trading.md) solutions will grow. This will drive innovation in [risk management](../r/risk_management.md), regulatory compliance, and execution strategies.

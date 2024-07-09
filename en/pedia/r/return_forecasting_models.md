@@ -1,6 +1,6 @@
 # Return Forecasting Models
 
-In [mathematical finance](../m/mathematical_finance.md), return [forecasting models](../f/forecasting_models.md) are crucial tools used to predict future price movements and returns of financial assets. These models leverage historical data, statistical techniques, and sometimes machine learning algorithms to inform [trading strategies](../t/trading_strategies.md). Return forecasting is a cornerstone of [algorithmic trading](../a/algorithmic_trading.md), where automated systems execute trades based on predetermined criteria and forecasts. Below, we delve into several common return [forecasting models](../f/forecasting_models.md) used in the industry.
+In [mathematical finance](../m/mathematical_finance.md), return [forecasting models](../f/forecasting_models.md) are crucial tools used to predict future price movements and returns of financial assets. These models leverage historical data, statistical techniques, and sometimes machine [learning algorithms](../l/learning_algorithms_in_trading.md) to inform [trading strategies](../t/trading_strategies.md). Return forecasting is a cornerstone of [algorithmic trading](../a/algorithmic_trading.md), where automated systems execute trades based on predetermined criteria and forecasts. Below, we delve into several common return [forecasting models](../f/forecasting_models.md) used in the industry.
 
 #### 1. Time Series Models
 
@@ -14,7 +14,7 @@ Time series models analyze historical data points collected or recorded at speci
 
 #### 2. Factor Models
 
-[Factor models](../f/factor_models.md) aim to explain the returns of an asset through its sensitivity to various risk factors. These models are based on the premise that multiple underlying factors drive asset returns. The most prominent examples include:
+[Factor models](../f/factor_models.md) aim to explain the returns of an asset through its sensitivity to various [risk factors](../r/risk_factors_in_trading.md). These models are based on the premise that multiple underlying factors drive asset returns. The most prominent examples include:
 
 - **Capital Asset Pricing Model (CAPM)**: CAPM relates the expected return of an asset to its risk relative to the market (beta). The model is typically formulated as: \( E(R_i) = R_f + \beta_i (E(R_m) - R_f) \).
   - **Reference**: [Timeless Finance: CAPM](https://www.timelessfinance.org/resources/capm)
@@ -26,7 +26,7 @@ Time series models analyze historical data points collected or recorded at speci
 
 Machine learning models utilize [computational algorithms](../c/computational_algorithms.md) that improve automatically through experience. These models can handle vast amounts of data and recognize complex patterns that traditional statistical models may not capture.
 
-- **Neural Networks**: Deep learning architectures like recurrent neural networks (RNNs) and long short-term memory (LSTM) networks are employed to predict time series data due to their ability to capture temporal dependencies.
+- **[Neural Networks](../n/neural_networks_in_trading.md)**: Deep learning architectures like recurrent [neural networks](../n/neural_networks_in_trading.md) (RNNs) and long short-term memory (LSTM) networks are employed to predict time series data due to their ability to capture [temporal dependencies](../t/temporal_dependencies_in_trading.md).
   - **Reference**: [Google AI Blog](https://ai.googleblog.com)
 
 - **Random Forest**: This [ensemble learning](../e/ensemble_learning.md) method uses multiple [decision trees](../d/decision_trees.md) to make predictions. It is effective in handling non-linear relationships and interactions between variables.
@@ -56,7 +56,7 @@ Econometric models apply statistical methods to financial and economic data to f
 
 [Sentiment analysis](../s/sentiment_analysis.md) interprets the sentiment expressed in textual data, such as news articles, social media posts, and analyst reports, to predict market trends and asset returns.
 
-- **Natural Language Processing (NLP)**: NLP techniques are applied to extract sentiment scores from text data, which are then used to predict price movements.
+- **[Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP)**: NLP techniques are applied to extract sentiment scores from text data, which are then used to predict price movements.
   - **Reference**: [NLP, Stanford CS](https://web.stanford.edu/~jurafsky/slp3/)
 
 #### Conclusion

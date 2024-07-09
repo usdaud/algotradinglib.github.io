@@ -78,15 +78,15 @@ Understanding Beta allows traders to hedge positions effectively. For example, i
 
 ### AQR Capital Management
 
-AQR Capital Management (https://www.aqr.com/) is renowned for its quantitative approach to investing. Beta analysis is a core component in their asset pricing and risk models, helping them to execute sophisticated [trading strategies](../t/trading_strategies.md).
+AQR Capital Management (https://www.aqr.com/) is renowned for its quantitative approach to investing. Beta analysis is a core component in their asset pricing and [risk models](../r/risk_models_in_trading.md), helping them to execute sophisticated [trading strategies](../t/trading_strategies.md).
 
 ### Renaissance Technologies
 
-Renaissance Technologies (https://www.rentec.com/) leverages advanced statistical methods to analyze Beta and other risk factors, allowing the firm to generate significant returns through their Medallion Fund.
+Renaissance Technologies (https://www.rentec.com/) leverages advanced statistical methods to analyze Beta and other [risk factors](../r/risk_factors_in_trading.md), allowing the firm to generate significant returns through their Medallion Fund.
 
 ### Two Sigma
 
-Two Sigma (https://www.twosigma.com/) utilizes Beta analysis extensively to drive its predictive models and automated strategies, ensuring that they understand the risk-reward profile of each position they take.
+Two Sigma (https://www.twosigma.com/) utilizes Beta analysis extensively to drive its [predictive models](../p/predictive_models_in_trading.md) and automated strategies, ensuring that they understand the risk-reward profile of each position they take.
 
 ## Limitations of Beta Analysis
 

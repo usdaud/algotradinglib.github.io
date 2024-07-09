@@ -12,7 +12,7 @@
 
 3. **Regulatory Compliance**: Financial authorities mandate precise accounting of asset values. Adhering to these regulations through proper writedown techniques is necessary to avoid legal penalties and maintain operational legitimacy.
 
-4. **Operational Integrity**: [Algorithmic trading](../a/algorithmic_trading.md) systems often involve complex, high-frequency operations. Writedowns can help assess the effectiveness of these systems, enabling traders to make informed decisions about strategy modifications or enhancements.
+4. **Operational Integrity**: [Algorithmic trading](../a/algorithmic_trading.md) systems often involve complex, high-frequency operations. [Writedowns](../w/writedowns_in_trading.md) can help assess the effectiveness of these systems, enabling traders to make informed decisions about strategy modifications or enhancements.
 
 ## Types of Writedown Techniques
 
@@ -60,8 +60,8 @@ Fair value adjustments involve revaluing an asset based on its fair market value
 
 ### Write-Offs
 
-**Write-Offs**:
-Write-offs involve completely removing an asset's value from the financial statements, usually when the asset is deemed irrecoverable or worthless.
+**[Write-Offs](../w/write-offs_in_trading.md)**:
+[Write-offs](../w/write-offs_in_trading.md) involve completely removing an asset's value from the financial statements, usually when the asset is deemed irrecoverable or worthless.
 
 - **Benefits**:
   - Provides a clear resolution for overvalued or non-performing assets.
@@ -116,4 +116,4 @@ Amortization and depreciation systematically reduce the book value of intangible
 
 ## Conclusion
 
-Writedown techniques are an integral component of managing financial assets in [algorithmic trading](../a/algorithmic_trading.md). By employing methods such as mark-to-market accounting, impairment testing, fair value adjustments, write-offs, and amortization and depreciation, traders can better navigate the complexities and risks of high-frequency trading. Companies like Goldman Sachs, Morgan Stanley, and J.P. Morgan exemplify the importance of robust writedown procedures in maintaining financial stability and regulatory compliance. As [algorithmic trading](../a/algorithmic_trading.md) continues to evolve, the implementation of effective writedown techniques will remain crucial for sustainable success.
+Writedown techniques are an integral component of managing financial assets in [algorithmic trading](../a/algorithmic_trading.md). By employing methods such as mark-to-market accounting, impairment testing, fair value adjustments, [write-offs](../w/write-offs_in_trading.md), and amortization and depreciation, traders can better navigate the complexities and risks of high-frequency trading. Companies like Goldman Sachs, Morgan Stanley, and J.P. Morgan exemplify the importance of robust writedown procedures in maintaining financial stability and regulatory compliance. As [algorithmic trading](../a/algorithmic_trading.md) continues to evolve, the implementation of effective writedown techniques will remain crucial for sustainable success.

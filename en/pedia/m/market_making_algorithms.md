@@ -100,17 +100,17 @@ While market-making algorithms offer numerous benefits, they also face several c
 
 The future of market-making algorithms is likely to be shaped by several trends and technological advancements:
 
-1. **Artificial Intelligence and Machine Learning:**
+1. **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and Machine Learning:**
    - Continued integration of AI and machine learning techniques to improve predictive accuracy and adaptability.
    - Development of more sophisticated models capable of processing large datasets and complex market dynamics.
 
-2. **Blockchain and Distributed Ledger Technology:**
-   - Potential use of blockchain technology to enhance transparency and reduce settlement times.
-   - Exploration of decentralized exchanges and smart contracts for [automated market making](../a/automated_market_making.md).
+2. **[Blockchain](../b/blockchain_in_trading.md) and Distributed Ledger Technology:**
+   - Potential use of [blockchain](../b/blockchain_in_trading.md) technology to enhance transparency and reduce settlement times.
+   - Exploration of decentralized exchanges and [smart contracts](../s/smart_contracts_in_trading.md) for [automated market making](../a/automated_market_making.md).
 
-3. **Quantum Computing:**
-   - The potential impact of quantum computing on [algorithmic trading](../a/algorithmic_trading.md) and market making.
-   - Exploration of quantum algorithms for solving complex optimization problems more efficiently.
+3. **[Quantum Computing](../q/quantum_computing_in_trading.md):**
+   - The potential impact of [quantum computing](../q/quantum_computing_in_trading.md) on [algorithmic trading](../a/algorithmic_trading.md) and market making.
+   - Exploration of [quantum algorithms](../q/quantum_algorithms_in_trading.md) for solving complex optimization problems more efficiently.
 
 4. **Environmental, Social, and Governance (ESG) Considerations:**
    - Increasing focus on ESG factors in [trading strategies](../t/trading_strategies.md) and market-making activities.
@@ -118,7 +118,7 @@ The future of market-making algorithms is likely to be shaped by several trends 
 
 ### Conclusion
 
-Market making algorithms are essential for maintaining liquidity and efficiency in modern financial markets. By leveraging advanced technologies and sophisticated models, market makers can provide continuous buy and sell quotes, manage risk, and adapt to changing market conditions. As the industry evolves, the integration of AI, blockchain, and other emerging technologies will likely further enhance the capabilities and impact of market-making algorithms, shaping the future of trading and financial markets.
+Market making algorithms are essential for maintaining liquidity and efficiency in modern financial markets. By leveraging advanced technologies and sophisticated models, market makers can provide continuous buy and sell quotes, manage risk, and adapt to changing market conditions. As the industry evolves, the integration of AI, [blockchain](../b/blockchain_in_trading.md), and other emerging technologies will likely further enhance the capabilities and impact of market-making algorithms, shaping the future of trading and financial markets.
 
 For more information on market making algorithms and related services, you can visit the websites of key players mentioned above:
 - [Citadel Securities](https://www.citadelsecurities.com/)

@@ -66,9 +66,9 @@ Hedging involves taking positions in multiple asset classes to offset potential 
 
 Several firms specialize in multi-asset trading, offering platforms and services designed to facilitate trading across various asset classes. Some notable firms include:
 
-- **Interactive Brokers**: [Interactive Brokers](https://www.interactivebrokers.com)
-- **Saxo Bank**: [Saxo Bank](https://www.home.saxo/en-gb)
-- **IG Group**: [IG Group](https://www.ig.com)
+- **[Interactive Brokers](../i/interactive_brokers.md)**: [Interactive Brokers](https://www.interactivebrokers.com)
+- **[Saxo Bank](../s/saxo_bank.md)**: [Saxo Bank](https://www.home.saxo/en-gb)
+- **[IG Group](../i/ig_group.md)**: [IG Group](https://www.ig.com)
 - **[Charles Schwab](../c/charles_schwab.md)**: [Charles Schwab](https://www.schwab.com)
 
 ### Conclusion

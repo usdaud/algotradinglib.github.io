@@ -77,7 +77,7 @@ Modern Portfolio Theory (MPT) is a framework for building a diversified portfoli
 [Portfolio management](../p/portfolio_management.md) involves selecting and overseeing a group of investments that meet a client's long-term financial objectives and risk tolerance. It requires knowledge of various financial instruments, [valuation techniques](../v/valuation_techniques.md), and market behavior.
 
 ### Risk Management
-[Risk management](../r/risk_management.md) is the process of identifying, analyzing, and mitigating uncertainty in investment decisions. It encompasses a wide range of strategies, including diversification, hedging through [derivatives](../d/derivatives.md), and insurance products.
+[Risk management](../r/risk_management.md) is the process of identifying, analyzing, and mitigating [uncertainty](../u/uncertainty_in_trading.md) in investment decisions. It encompasses a wide range of strategies, including diversification, hedging through [derivatives](../d/derivatives.md), and insurance products.
 
 ### Valuation
 Valuation is the technique of determining the present value of an asset or a company. Methods include Discounted Cash Flow (DCF), comparable company analysis, and precedent transactions.

@@ -31,13 +31,13 @@ Several techniques and tools are employed in holdings analysis:
 ### Quantitative Techniques
 
 - **[Mean-Variance Optimization](../m/mean-variance_optimization.md)**: Used to construct portfolios that offer the best possible return for a given level of risk.
-- **[Factor Models](../f/factor_models.md)**: Helps in understanding the return of a holding by decomposing it into various risk factors.
+- **[Factor Models](../f/factor_models.md)**: Helps in understanding the return of a holding by decomposing it into various [risk factors](../r/risk_factors_in_trading.md).
 - **[Monte Carlo Simulation](../m/monte_carlo_simulation.md)**: Employs repeated random sampling to estimate the performance and risk of portfolio holdings.
 - **[Sharpe Ratio](../s/sharpe_ratio.md)**: Measures the [risk-adjusted return](../r/risk-adjusted_return.md) of the holdings.
 
 ### Analytical Tools
 
-Several software platforms provide tools for holdings analysis in [algorithmic trading](../a/algorithmic_trading.md), such as:
+Several [software platforms](../s/software_platforms_for_trading.md) provide tools for holdings analysis in [algorithmic trading](../a/algorithmic_trading.md), such as:
 
 - **[Bloomberg](../b/bloomberg.md) Terminal**: Offers comprehensive data and analytical capabilities for portfolio holdings analysis.
 - **[Morningstar](../m/morningstar.md) Direct**: Provides advanced analytics and reporting tools for detailed performance and risk assessments.
@@ -67,7 +67,7 @@ The typical process for conducting holdings analysis involves several steps:
 1. **Data Collection**: Acquire data on current and historical holdings, market prices, and financial metrics.
 2. **[Data Cleaning](../d/data_cleaning.md)**: Ensure data quality by handling missing values, outliers, and other anomalies.
 3. **Descriptive Analysis**: Calculate basic metrics such as mean returns, standard deviations, and correlations between holdings.
-4. **[Factor Analysis](../f/factor_analysis.md)**: Use [factor models](../f/factor_models.md) to explain holdings' returns through different risk factors (e.g., market risk, size risk).
+4. **[Factor Analysis](../f/factor_analysis.md)**: Use [factor models](../f/factor_models.md) to explain holdings' returns through different [risk factors](../r/risk_factors_in_trading.md) (e.g., market risk, size risk).
 5. **Optimization**: Apply optimization algorithms to determine the most effective weights for each holding.
 6. **[Backtesting](../b/backtesting.md)**: Simulate the holdings' performance in historical scenarios to assess the effectiveness of the strategy.
 7. **Performance Monitoring**: Track the actual performance of holdings in real-time to ensure alignment with investment goals.
@@ -81,7 +81,7 @@ Several challenges are associated with holdings analysis in [algorithmic trading
 - **Complexity**: The sheer volume and variety of data can make analysis computationally intensive and complex.
 - **Market Dynamics**: Constant changes in the market require real-time analysis and quick decision-making.
 - **Regulation Compliance**: Adhering to financial regulations and reporting requirements adds an additional layer of complexity.
-- **Behavioral Biases**: Eliminating biases in algorithmic decision-making is vital for objective analysis.
+- **[Behavioral Biases](../b/behavioral_biases_in_trading.md)**: Eliminating biases in algorithmic decision-making is vital for objective analysis.
 
 ## Conclusion
 

@@ -7,7 +7,7 @@ Iress is a leading technology company that provides software solutions for the f
 1. **Trading Platform**: Advanced trading capabilities for equities, [derivatives](../d/derivatives.md), forex, and fixed income markets.
 2. **Market Data**: Real-time and historical market data from global exchanges, including detailed analytics.
 3. **[Wealth Management](../w/wealth_management.md)**: Comprehensive tools for [financial planning](../f/financial_planning.md), [portfolio management](../p/portfolio_management.md), and client relationship management.
-4. **Order Management System (OMS)**: Integrated OMS for efficient [order routing](../o/order_routing.md), execution, and management.
+4. **[Order Management](../o/order_management_in_trading.md) System (OMS)**: Integrated OMS for efficient [order routing](../o/order_routing.md), execution, and management.
 5. **[Risk Management](../r/risk_management.md)**: Advanced [risk management](../r/risk_management.md) tools to monitor and control trading and investment risks.
 6. **Compliance and Reporting**: Solutions for regulatory compliance, reporting, and audit trails.
 7. **[Data Integration](../d/data_integration.md)**: Seamless integration with third-party data providers, trading platforms, and financial applications.
@@ -19,7 +19,7 @@ Iress is a leading technology company that provides software solutions for the f
 - **Iress Pro**: The primary desktop platform offering advanced trading, market data, and analytics tools.
 - **Iress ViewPoint**: A web-based trading and market data platform for real-time trading and analysis.
 - **XPLAN**: Comprehensive [wealth management](../w/wealth_management.md) software for [financial planning](../f/financial_planning.md), client management, and portfolio administration.
-- **IOS+ (Order System)**: Advanced order management system for multi-asset class trading.
+- **IOS+ (Order System)**: Advanced [order management](../o/order_management_in_trading.md) system for multi-asset class trading.
 - **Risk and Compliance Solutions**: Tools for managing risk and ensuring regulatory compliance.
 - **[Portfolio Management](../p/portfolio_management.md)**: Tools for [portfolio analysis](../p/portfolio_analysis.md), performance measurement, and reporting.
 - **Mobile Applications**: Mobile access to trading, market data, and [portfolio management](../p/portfolio_management.md).

@@ -35,7 +35,7 @@ Market making involves placing buy and sell orders for a security to provide liq
 
 #### Statistical Arbitrage
 
-This involves complex mathematical models to identify trading opportunities based on historical data and market patterns. Quick execution ensures profitability before the price aligns with the statistical predictions.
+This involves complex [mathematical models](../m/mathematical_models_in_trading.md) to identify trading opportunities based on historical data and market patterns. Quick execution ensures profitability before the price aligns with the statistical predictions.
 
 ### Key Players and Institutions
 
@@ -69,10 +69,10 @@ Regulatory bodies have scrutinized high-frequency trading practices, citing conc
 
 #### Emerging Technologies
 
-1. **Quantum Computing**
-   Quantum computing could revolutionize quick response by solving complex calculations and processing massive datasets at unprecedented speeds.
+1. **[Quantum Computing](../q/quantum_computing_in_trading.md)**
+   [Quantum computing](../q/quantum_computing_in_trading.md) could revolutionize quick response by solving complex calculations and processing massive datasets at unprecedented speeds.
 
-2. **Artificial Intelligence and Machine Learning**
+2. **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and Machine Learning**
    AI and ML models can enhance [trading algorithms](../t/trading_algorithms.md) by learning and adapting to market conditions in real-time, potentially improving the speed and accuracy of responses.
 
 #### Global Expansion

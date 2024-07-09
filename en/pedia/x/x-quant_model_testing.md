@@ -21,7 +21,7 @@ There are multiple facets to quantitative model testing, including:
 
 ##### Methodology
 - **Historical Data Selection**: Choosing a representative dataset that includes different market conditions (bull markets, bear markets, high volatility periods, etc.).
-- **Simulation**: Running the model through the historical data and recording the outcomes.
+- **[Simulation](../s/simulation_in_trading.md)**: Running the model through the historical data and recording the outcomes.
 - **[Performance Metrics](../p/performance_metrics.md)**: Evaluating the results based on certain metrics like [Sharpe ratio](../s/sharpe_ratio.md), drawdowns, and profit/loss.
 
 ##### Challenges
@@ -42,7 +42,7 @@ Forward testing involves running the model in a simulated environment using [rea
 - **Execution Lag**: Differences in simulated trade execution speeds versus actual markets can impact results.
 
 #### 3. Stress Testing
-Stress testing evaluates how well the model performs under extreme market conditions, such as financial crises, [flash crashes](../f/flash_crashes.md), or significant economic events. 
+[Stress testing](../s/stress_testing_in_trading.md) evaluates how well the model performs under extreme market conditions, such as financial crises, [flash crashes](../f/flash_crashes.md), or significant economic events. 
 
 ##### Methodology
 - **Scenario Analysis**: Creating hypothetical or historical extreme scenarios to test the model.
@@ -74,4 +74,4 @@ There are numerous tools and platforms available for X-Quant Model Testing, each
 
 ### Conclusion
 
-X-Quant Model Testing is a vital component of developing robust and effective [trading algorithms](../t/trading_algorithms.md). By utilizing thorough [backtesting](../b/backtesting.md), forward testing, and stress testing procedures, traders can enhance their confidence in the models they deploy and manage risks more effectively. The continuous evolution of testing methodologies and the availability of sophisticated testing tools play a significant role in optimizing [algorithmic trading](../a/algorithmic_trading.md) performance.
+X-Quant Model Testing is a vital component of developing robust and effective [trading algorithms](../t/trading_algorithms.md). By utilizing thorough [backtesting](../b/backtesting.md), forward testing, and [stress testing](../s/stress_testing_in_trading.md) procedures, traders can enhance their confidence in the models they deploy and manage risks more effectively. The continuous evolution of testing methodologies and the availability of sophisticated testing tools play a significant role in optimizing [algorithmic trading](../a/algorithmic_trading.md) performance.

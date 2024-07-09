@@ -15,7 +15,7 @@ Mathematically, a Poisson process \( \{N(t), t \geq 0\} \) is defined, where:
 - \( N(t) \) is a counting process representing the number of events that have occurred by time \( t \).
 - \( N(0) = 0 \).
 - \( N(t) \) has independent increments, i.e., the number of events occurring in non-overlapping intervals are independent.
-- \( N(t) \) follows a Poisson distribution with parameter \( \lambda t \), where \( \lambda \) is the rate of the process (mean number of events per unit time).
+- \( N(t) \) follows a [Poisson distribution](../p/poisson_distribution_in_trading.md) with parameter \( \lambda t \), where \( \lambda \) is the rate of the process (mean number of events per unit time).
 
 Formally, for \( s < t \):
 \[ N(t) - N(s) \sim \text{Poisson}(\lambda (t-s)) \]
@@ -37,12 +37,12 @@ In financial markets, several phenomena can be modeled using the Poisson process
 ### Modeling Order Arrivals
 
 Order flow in financial markets often follows a stochastic pattern. The arrival of new orders can be random, making the Poisson process a suitable model. For instance:
-- **Buy Orders**: If buy orders arrive at an average rate of \( \lambda_b \) orders per minute, the total number of buy orders \( N_b(t) \) by time \( t \) follows a Poisson distribution with rate \( \lambda_b t \).
-- **Sell Orders**: Similarly, if sell orders arrive at an average rate of \( \lambda_s \), the total sell orders \( N_s(t) \) follow a Poisson distribution with rate \( \lambda_s t \).
+- **Buy Orders**: If buy orders arrive at an average rate of \( \lambda_b \) orders per minute, the total number of buy orders \( N_b(t) \) by time \( t \) follows a [Poisson distribution](../p/poisson_distribution_in_trading.md) with rate \( \lambda_b t \).
+- **Sell Orders**: Similarly, if sell orders arrive at an average rate of \( \lambda_s \), the total sell orders \( N_s(t) \) follow a [Poisson distribution](../p/poisson_distribution_in_trading.md) with rate \( \lambda_s t \).
 
 ### Price Jumps
 
-In high-frequency trading, price jumps can greatly impact [trading strategies](../t/trading_strategies.md). These jumps can be modeled as a Poisson process due to their sudden and random nature. If price jumps occur at an average rate \( \lambda_j \) per unit time, the number of jumps within the period \( [0, t] \) follows the Poisson distribution with parameter \( \lambda_j t \).
+In high-frequency trading, price jumps can greatly impact [trading strategies](../t/trading_strategies.md). These jumps can be modeled as a Poisson process due to their sudden and random nature. If price jumps occur at an average rate \( \lambda_j \) per unit time, the number of jumps within the period \( [0, t] \) follows the [Poisson distribution](../p/poisson_distribution_in_trading.md) with parameter \( \lambda_j t \).
 
 ### Risk Management
 
@@ -68,7 +68,7 @@ For instance:
 ### Real-Time Applications
 
 Modern trading platforms and systems implement Poisson processes in:
-- **Order Book Simulation**: Simulating [order book dynamics](../o/order_book_dynamics.md) by modeling the arrival of new orders and cancellations.
+- **Order Book [Simulation](../s/simulation_in_trading.md)**: Simulating [order book dynamics](../o/order_book_dynamics.md) by modeling the arrival of new orders and cancellations.
 - **Market Impact Estimation**: Predicting the impact of large orders based on the frequency of trades.
 
 Companies specializing in [algorithmic trading](../a/algorithmic_trading.md) and high-frequency trading like [Virtu Financial](https://www.virtu.com/) and [Flow Traders](https://www.flowtraders.com/) often leverage Poisson processes within their trading engines for dynamic and real-time decision-making.

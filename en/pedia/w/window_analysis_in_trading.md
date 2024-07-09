@@ -60,7 +60,7 @@ Window analysis is critical in trading for several reasons:
     [QuantConnect](https://www.quantconnect.com/) is a platform that offers [algorithmic trading](../a/algorithmic_trading.md) and [backtesting](../b/backtesting.md) solutions. It supports window analysis through its extensive library of financial data and tools, enabling traders to implement and test window analysis strategies.
 
 2. **Kaggle Competitions**:
-    [Kaggle](https://www.kaggle.com/) hosts data science competitions where participants often use window analysis to develop [trading algorithms](../t/trading_algorithms.md). Competitions like the "Two Sigma [Financial Modeling](../f/financial_modeling.md) Challenge" require participants to analyze market data within different windows to create predictive models.
+    [Kaggle](https://www.kaggle.com/) hosts [data science](../d/data_science_in_trading.md) competitions where participants often use window analysis to develop [trading algorithms](../t/trading_algorithms.md). Competitions like the "Two Sigma [Financial Modeling](../f/financial_modeling.md) Challenge" require participants to analyze market data within different windows to create [predictive models](../p/predictive_models_in_trading.md).
 
 ### Challenges in Window Analysis
 
@@ -75,7 +75,7 @@ Window analysis is critical in trading for several reasons:
 
 ### Future of Window Analysis in Trading
 
-With the advancements in machine learning and artificial intelligence, window analysis in trading is set to become more sophisticated. Developments in these fields will enable traders to analyze larger datasets, identify complex patterns, and make more accurate predictions. Additionally, the integration of [alternative data](../a/alternative_data.md) sources, such as [social media sentiment](../s/social_media_sentiment.md) and news analysis, will enhance the effectiveness of window analysis in trading.
+With the advancements in machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md), window analysis in trading is set to become more sophisticated. Developments in these fields will enable traders to analyze larger datasets, identify complex patterns, and make more accurate predictions. Additionally, the integration of [alternative data](../a/alternative_data.md) sources, such as [social media sentiment](../s/social_media_sentiment.md) and news analysis, will enhance the effectiveness of window analysis in trading.
 
 Companies like [Kensho](https://www.kensho.com/) and [Numerai](https://numer.ai/) are at the forefront of using advanced analytics and AI for trading, showcasing the potential future of window analysis in the financial markets.
 

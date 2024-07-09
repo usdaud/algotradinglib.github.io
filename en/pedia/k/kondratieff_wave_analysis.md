@@ -45,7 +45,7 @@ Several key factors drive the fluctuations observed in [Kondratieff Waves](../k/
 
 4. **Globalization**: The integration of global markets and trade can enhance economic growth through increased efficiency, expanded markets, and access to new resources.
 
-5. **Government Policies**: Fiscal and monetary policies, regulatory changes, and government interventions can influence the phases of [Kondratieff Waves](../k/kondratieff_waves.md) by affecting investment, consumption, and overall economic stability.
+5. **[Government Policies](../g/government_policies_in_trading.md)**: Fiscal and monetary policies, regulatory changes, and government interventions can influence the phases of [Kondratieff Waves](../k/kondratieff_waves.md) by affecting investment, consumption, and overall economic stability.
 
 ## Kondratieff Waves in Modern Financial Analysis
 

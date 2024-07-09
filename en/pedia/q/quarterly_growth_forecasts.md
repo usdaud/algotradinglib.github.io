@@ -35,7 +35,7 @@ Econometric models use statistical methods to quantify economic theories and for
 Machine learning involves training algorithms to recognize patterns and make predictions based on large datasets.
 
 #### Techniques
-- **Neural Networks**: Mimics the human brain's network of neurons to find complex patterns.
+- **[Neural Networks](../n/neural_networks_in_trading.md)**: Mimics the human brain's network of neurons to find complex patterns.
 - **[Decision Trees](../d/decision_trees.md)**: Uses a tree-like model of decisions and their possible consequences.
 
 ## Application in Algorithmic Trading

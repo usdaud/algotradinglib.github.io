@@ -20,7 +20,7 @@ A common strategy is the **[Golden Cross](../g/golden_cross.md)**, which occurs 
 
 **Disadvantages:**
 - Lagging indicator; may result in late signals.
-- Can generate false signals in sideways markets.
+- Can generate [false signals](../f/false_signals_in_trading.md) in sideways markets.
 
 #### 2. Relative Strength Index (RSI)
 
@@ -34,7 +34,7 @@ An RSI value above 70 is considered overbought, suggesting a potential entry poi
 - Useful in identifying momentum failures and divergences.
 
 **Disadvantages:**
-- Can generate false signals during strong trends.
+- Can generate [false signals](../f/false_signals_in_trading.md) during strong trends.
 - May require additional confirmation from other indicators.
 
 #### 3. Bollinger Bands
@@ -67,7 +67,7 @@ An entry signal is generated when the MACD Line crosses above the Signal Line, i
 - Provides clear entry and exit signals.
 
 **Disadvantages:**
-- Can generate false signals in choppy markets.
+- Can generate [false signals](../f/false_signals_in_trading.md) in choppy markets.
 - May lag in fast-moving markets.
 
 ### Exit Strategies
@@ -129,7 +129,7 @@ The **[Parabolic SAR](../p/parabolic_sar.md) (Stop and Reverse)** is a popular i
 - Provides clear exit signals.
 
 **Disadvantages:**
-- May generate false signals in trending markets.
+- May generate [false signals](../f/false_signals_in_trading.md) in trending markets.
 - Requires additional confirmation from other indicators.
 
 ### Integrating Entry and Exit Strategies

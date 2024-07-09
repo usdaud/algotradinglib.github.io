@@ -50,7 +50,7 @@ Rolling correlation helps in constructing diversified portfolios by selecting as
 
 Time-varying correlations aid in identifying periods of increased systemic risk when historically low-correlated assets suddenly move together:
 
-- **Stress Testing**: Use rolling correlation to simulate [portfolio performance](../p/portfolio_performance.md) under different market scenarios.
+- **[Stress Testing](../s/stress_testing_in_trading.md)**: Use rolling correlation to simulate [portfolio performance](../p/portfolio_performance.md) under different market scenarios.
   
 ### 3. **Pairs Trading**
 

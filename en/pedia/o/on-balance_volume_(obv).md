@@ -39,7 +39,7 @@ OBV can be used to confirm the strength of a trend:
 Traders often use OBV to predict price breakouts. For instance, a substantial increase in OBV when the price is consolidating might indicate an imminent breakout. Once the price breaks out, the OBV's cumulative volume can reinforce the validity of the breakout.
 
 ### Volume-Based Analysis in Different Markets
-OBV is versatile and can be applied across various financial markets, including stocks, commodities, and cryptocurrencies. Its ability to distinguish genuine price movements from potential false signals makes it valuable for multiple asset classes.
+OBV is versatile and can be applied across various financial markets, including stocks, commodities, and cryptocurrencies. Its ability to distinguish genuine price movements from potential [false signals](../f/false_signals_in_trading.md) makes it valuable for multiple asset classes.
 
 ## Advantages of OBV
 - **Simplicity:** The OBV is relatively easy to calculate and interpret, making it accessible to novice traders.
@@ -48,7 +48,7 @@ OBV is versatile and can be applied across various financial markets, including 
 
 ## Disadvantages of OBV
 - **Sensitivity to Skew:** OBV might be overly sensitive to high or low volume days, which can cause misleading signals.
-- **False Signals:** Significant volume spikes due to one-off events might distort the OBV, leading to potential false signals.
+- **[False Signals](../f/false_signals_in_trading.md):** Significant volume spikes due to one-off events might distort the OBV, leading to potential [false signals](../f/false_signals_in_trading.md).
 - **Supplementary Tool:** OBV should be used in conjunction with other [technical indicators](../t/technical_indicators.md) for better reliability, as it might not always be accurate on its own.
 
 ## Practical Example

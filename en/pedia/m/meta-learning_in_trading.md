@@ -14,8 +14,8 @@ Meta-learning focuses on using past experiences to rapidly adapt and perform wel
 
 ### Types of Meta-Learning
 
-1. **Model-Based Meta-Learning**: Utilizes models that can change their parameters quickly based on new data. Neural networks with internal states that adjust dynamically are often used.
-2. **Metric-Based Meta-Learning**: Involves learning a similarity metric which helps in clustering similar tasks. Memory-augmented neural networks are a common approach here.
+1. **Model-Based Meta-Learning**: Utilizes models that can change their parameters quickly based on new data. [Neural networks](../n/neural_networks_in_trading.md) with internal states that adjust dynamically are often used.
+2. **Metric-Based Meta-Learning**: Involves learning a similarity metric which helps in clustering similar tasks. Memory-augmented [neural networks](../n/neural_networks_in_trading.md) are a common approach here.
 3. **Optimization-Based Meta-Learning**: Focuses on finding the best initialization of model parameters so that they can be fine-tuned with few gradient updates. Methods like MAML (Model-Agnostic Meta-Learning) are used here.
 
 ## Applications in Trading
@@ -28,7 +28,7 @@ Meta-learning can enhance [predictive modeling](../p/predictive_modeling.md) by 
 
 ### Algorithm Selection
 
-Financial markets have different regimes or states, and a trading algorithm that works well in one regime may not perform well in another. Meta-learning algorithms can learn to select the best-performing model for the current market regime, effectively switching between different strategies as conditions evolve.
+Financial markets have different regimes or states, and a trading algorithm that works well in one regime may not perform well in another. Meta-[learning algorithms](../l/learning_algorithms_in_trading.md) can learn to select the best-performing model for the current market regime, effectively switching between different strategies as conditions evolve.
 
 ### Risk Management
 
@@ -66,7 +66,7 @@ Meta-learning requires high-quality, diverse datasets to train on various tasks 
 
 ### Computational Resources
 
-Meta-learning algorithms, especially those involving deep learning, can be computationally intensive. Training these models requires significant computational resources, which can be a barrier for smaller trading firms.
+Meta-[learning algorithms](../l/learning_algorithms_in_trading.md), especially those involving deep learning, can be computationally intensive. Training these models requires significant computational resources, which can be a barrier for smaller trading firms.
 
 ### Overfitting
 
@@ -74,7 +74,7 @@ There is a risk of overfitting in meta-learning, especially if the tasks used fo
 
 ### Real-Time Adaptation
 
-The ability to adapt in real-time is critical in trading. Meta-learning algorithms must be efficient enough to update their parameters on-the-fly without causing significant delays, which could result in missed trading opportunities or losses.
+The ability to adapt in real-time is critical in trading. Meta-[learning algorithms](../l/learning_algorithms_in_trading.md) must be efficient enough to update their parameters on-the-fly without causing significant delays, which could result in missed trading opportunities or losses.
 
 ## Companies Utilizing Meta-Learning in Trading
 
@@ -82,7 +82,7 @@ Several companies are on the frontier of applying meta-learning to trading, leve
 
 ### Two Sigma
 
-[Two Sigma](https://www.twosigma.com/) is a financial sciences company that uses machine learning, including meta-learning techniques, to inform its [trading strategies](../t/trading_strategies.md). Their approach combines vast data resources with advanced learning algorithms to make better predictions and adapt to market changes.
+[Two Sigma](https://www.twosigma.com/) is a financial sciences company that uses machine learning, including meta-learning techniques, to inform its [trading strategies](../t/trading_strategies.md). Their approach combines vast data resources with advanced [learning algorithms](../l/learning_algorithms_in_trading.md) to make better predictions and adapt to market changes.
 
 ### Renaissance Technologies
 

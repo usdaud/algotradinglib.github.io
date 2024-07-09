@@ -2,7 +2,7 @@
 
 ## Introduction to Z-Score Trading
 
-Z-Score trading is a technique often used in [quantitative finance](../q/quantitative_finance.md), particularly in the domain of statistical [arbitrage](../a/arbitrage.md), that leverages the statistical property of standard scores (Z-scores) to identify trading opportunities. The Z-score is a measure that describes a value's relationship to the mean of a group of values. When applied to trading, it can highlight when a security's price is deviating significantly from its historical average, indicating potential overbought or oversold conditions. 
+Z-Score trading is a technique often used in [quantitative finance](../q/quantitative_finance.md), particularly in the domain of statistical [arbitrage](../a/arbitrage.md), that leverages the statistical property of standard scores ([Z-scores](../z/z-scores_in_trading.md)) to identify trading opportunities. The Z-score is a measure that describes a value's relationship to the mean of a group of values. When applied to trading, it can highlight when a security's price is deviating significantly from its historical average, indicating potential overbought or oversold conditions. 
 
 ## Understanding Z-Score
 
@@ -21,7 +21,7 @@ In the context of trading, \(X\) would typically represent the asset's price, \(
 
 ### Identifying Entry and Exit Points
 
-Traders use Z-scores to determine the entry and exit points of trades. A high positive Z-score means that the current price is significantly higher than the average price, suggesting the security could be overbought. Conversely, a high negative Z-score suggests that the security could be oversold. Typical [trading strategies](../t/trading_strategies.md) might include:
+Traders use [Z-scores](../z/z-scores_in_trading.md) to determine the entry and exit points of trades. A high positive Z-score means that the current price is significantly higher than the average price, suggesting the security could be overbought. Conversely, a high negative Z-score suggests that the security could be oversold. Typical [trading strategies](../t/trading_strategies.md) might include:
 
 - **Going Short**: When the Z-score exceeds a certain positive threshold.
 - **Going Long**: When the Z-score is below a certain negative threshold.
@@ -42,7 +42,7 @@ Pair trading is a market-neutral trading strategy that can benefit from the rela
 
 To implement Z-score trading, traders need historical price data or [financial time series](../f/financial_time_series.md) data. Sources of such data include:
 - Market data providers like [Bloomberg](../b/bloomberg.md), Thomson [Reuters](../r/reuters.md), and [Morningstar](../m/morningstar.md).
-- Financial data APIs such as Alpha Vantage, [Quandl](../q/quandl.md), and Yahoo Finance.
+- Financial data APIs such as Alpha Vantage, [Quandl](../q/quandl.md), and [Yahoo Finance](../y/yahoo_finance.md).
 
 ### Calculating Z-Score
 
@@ -67,13 +67,13 @@ z_scores = calculate_z_score(prices, lookback_period)
 
 ### Trading Algorithms
 
-[Automated trading systems](../a/automated_trading_systems.md) often implement Z-score [trading strategies](../t/trading_strategies.md). These algorithms regularly calculate Z-scores for selected securities and execute trades based on predefined thresholds. Some popular platforms for [algorithmic trading](../a/algorithmic_trading.md) include:
+[Automated trading systems](../a/automated_trading_systems.md) often implement Z-score [trading strategies](../t/trading_strategies.md). These algorithms regularly calculate [Z-scores](../z/z-scores_in_trading.md) for selected securities and execute trades based on predefined thresholds. Some popular platforms for [algorithmic trading](../a/algorithmic_trading.md) include:
   
 - **MetaTrader 5**: Suitable for forex, stock exchange markets.
   - [MetaTrader 5](https://www.metatrader5.com/)
 - **[QuantConnect](../q/quantconnect.md)**: Supports multiple asset classes and integrates with brokerages.
   - [QuantConnect](https://www.quantconnect.com/)
-- **Interactive Brokers**: Offers comprehensive trading APIs.
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Offers comprehensive trading APIs.
   - [Interactive Brokers API](https://www.interactivebrokers.com/en/index.php?f=5041)
 
 ### Backtesting and Optimization
@@ -98,11 +98,11 @@ Before deploying any Z-score trading strategy, it is crucial to backtest it usin
 
 ### Bridgewater Associates
 
-One of the world’s largest hedge funds, Bridgewater Associates, is known for employing sophisticated quantitative strategies, including statistical [arbitrage](../a/arbitrage.md) and Z-score trading. Their approach often involves a deep analysis of historical price correlations and [systematic trading](../s/systematic_trading.md) based on probabilities.
+One of the world’s largest hedge funds, Bridgewater Associates, is known for employing sophisticated [quantitative strategies](../q/quantitative_strategies_in_trading.md), including statistical [arbitrage](../a/arbitrage.md) and Z-score trading. Their approach often involves a deep analysis of historical price correlations and [systematic trading](../s/systematic_trading.md) based on probabilities.
 
 ### AQR Capital Management
 
-AQR Capital Management is another major player in the [quantitative finance](../q/quantitative_finance.md) space and uses Z-score methodologies within their various quantitative strategies. AQR emphasizes rigorous data analysis and computer-driven [trading models](../t/trading_models.md).
+AQR Capital Management is another major player in the [quantitative finance](../q/quantitative_finance.md) space and uses Z-score methodologies within their various [quantitative strategies](../q/quantitative_strategies_in_trading.md). AQR emphasizes rigorous data analysis and computer-driven [trading models](../t/trading_models.md).
 
 - [AQR Capital Management](https://www.aqr.com/)
 

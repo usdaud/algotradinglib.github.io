@@ -4,7 +4,7 @@ Price momentum is a crucial concept in the world of financial markets, particula
 
 ### Overview
 
-Price momentum refers to the empirical observation that securities that have performed well in the past tend to continue performing well in the future, while those that have performed poorly tend to underperform. This concept is derived from [behavioral finance](../b/behavioral_finance.md), which suggests that investors often exhibit herd behavior, causing trends in stock prices to persist over time.
+Price momentum refers to the empirical observation that securities that have performed well in the past tend to continue performing well in the future, while those that have performed poorly tend to underperform. This concept is derived from [behavioral finance](../b/behavioral_finance.md), which suggests that investors often exhibit [herd behavior](../h/herd_behavior_in_trading.md), causing trends in stock prices to persist over time.
 
 ### Theoretical Foundations
 
@@ -12,7 +12,7 @@ The principle of price momentum can be traced back to the early work of **Eugene
 
 **Behavioral Theories**: [Behavioral finance](../b/behavioral_finance.md) offers several explanations for the persistence of price momentum:
 
-- *Herd Behavior*: Investors tend to follow the actions of others, leading to trends in stock prices.
+- *[Herd Behavior](../h/herd_behavior_in_trading.md)*: Investors tend to follow the actions of others, leading to trends in stock prices.
 - *Underreaction*: Investors often underreact to new information, causing prices to adjust gradually.
 - *Overreaction*: Conversely, investors may overreact to news, driving prices beyond their fundamental values before a correction occurs.
 
@@ -50,7 +50,7 @@ Renaissance Technologies, founded by Jim Simons, is another leader in the field 
 
 ### Risk Management
 
-Like all investment strategies, those based on price momentum are not without risks. Key risk factors include:
+Like all investment strategies, those based on price momentum are not without risks. Key [risk factors](../r/risk_factors_in_trading.md) include:
 
 - **Market Reversals**: Rapid changes in market conditions can lead to abrupt reversals, causing significant losses for momentum-based strategies.
 - **Overfitting**: The reliance on historical data can lead to models that perform well in sample but poorly out of sample.
@@ -58,10 +58,10 @@ Like all investment strategies, those based on price momentum are not without ri
 
 ### Enhancements and Innovations
 
-Innovations in data science and machine learning have opened new avenues for enhancing momentum strategies:
+Innovations in [data science](../d/data_science_in_trading.md) and machine learning have opened new avenues for enhancing momentum strategies:
 
-- **Natural Language Processing (NLP)**: Analyzing news and [social media sentiment](../s/social_media_sentiment.md) to enhance momentum signals.
-- **Deep Learning**: Utilizing neural networks to detect complex patterns in price data that are not visible through traditional methods.
+- **[Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP)**: Analyzing news and [social media sentiment](../s/social_media_sentiment.md) to enhance momentum signals.
+- **Deep Learning**: Utilizing [neural networks](../n/neural_networks_in_trading.md) to detect complex patterns in price data that are not visible through traditional methods.
 
 ### Conclusion
 

@@ -38,7 +38,7 @@ Yield [spread trading](../s/spread_trading.md) can be efficiently executed using
 
 1. **[Historical Data Analysis](../h/historical_data_analysis.md)**: Collecting and analyzing historical yield data for the target securities. This involves time-series analysis to understand the past behavior of spreads.
 2. **Statistical Models**: Developing statistical models (e.g., [correlation analysis](../c/correlation_analysis.md), [co-integration](../c/co-integration.md) models) to predict future movements in yield spreads.
-3. **Machine Learning**: Using machine learning algorithms to enhance prediction accuracy. Techniques like [regression analysis](../r/regression_analysis.md), random forests, and neural networks can be used to forecast [yield spread](../y/yield_spread.md) movements.
+3. **Machine Learning**: Using machine [learning algorithms](../l/learning_algorithms_in_trading.md) to enhance prediction accuracy. Techniques like [regression analysis](../r/regression_analysis.md), [random forests](../r/random_forests_in_trading.md), and [neural networks](../n/neural_networks_in_trading.md) can be used to forecast [yield spread](../y/yield_spread.md) movements.
 
 #### Execution and Risk Management
 
@@ -69,7 +69,7 @@ Several macroeconomic and microeconomic factors can influence yield spreads:
 
 1. **Interest Rates**: Central bank policies and interest rate changes can have significant impacts on yield spreads. For example, an increase in interest rates often leads to a widening spread as corporate bonds might yield higher to attract investors.
 
-2. **[Economic Indicators](../e/economic_indicators.md)**: Economic data releases, such as GDP growth rates, inflation reports, and employment figures, can influence investor perceptions of credit risk, thereby affecting yield spreads.
+2. **[Economic Indicators](../e/economic_indicators.md)**: Economic data releases, such as GDP [growth rates](../g/growth_rates_in_trading.md), inflation reports, and employment figures, can influence investor perceptions of credit risk, thereby affecting yield spreads.
 
 3. **Credit Ratings**: Changes in the credit ratings of bonds can lead to adjustments in yields. Upgrades typically narrow spreads, while downgrades widen them.
 

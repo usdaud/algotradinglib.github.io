@@ -1,6 +1,6 @@
 # Relative Value Arbitrage
 
-Relative Value [Arbitrage](../a/arbitrage.md) is a financial trading strategy that involves identifying and exploiting small price discrepancies between related financial instruments. This strategy seeks to profit from the convergence of the relative prices of these instruments. Typically, traders use complex mathematical models and algorithms to identify these discrepancies and to execute trades that capitalize on them. Relative Value [Arbitrage](../a/arbitrage.md) is commonly used in hedge funds and other forms of institutional trading.
+Relative Value [Arbitrage](../a/arbitrage.md) is a financial trading strategy that involves identifying and exploiting small price discrepancies between related financial instruments. This strategy seeks to profit from the convergence of the relative prices of these instruments. Typically, traders use complex [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to identify these discrepancies and to execute trades that capitalize on them. Relative Value [Arbitrage](../a/arbitrage.md) is commonly used in hedge funds and other forms of institutional trading.
 
 ### Mechanics of Relative Value Arbitrage
 
@@ -54,11 +54,11 @@ Derivative instruments like options, futures, and swaps provide ample opportunit
 
 #### Renaissance Technologies
 
-Renaissance Technologies is one of the most successful hedge funds that employ relative value and other [quantitative trading](../q/quantitative_trading.md) strategies. Founded by James Simons, the firm uses highly advanced mathematical models and algorithms to identify trading opportunities. [Renaissance Technologies](https://www.rentec.com/)
+Renaissance Technologies is one of the most successful hedge funds that employ relative value and other [quantitative trading](../q/quantitative_trading.md) strategies. Founded by James Simons, the firm uses highly advanced [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to identify trading opportunities. [Renaissance Technologies](https://www.rentec.com/)
 
 #### Two Sigma
 
-Two Sigma is another prominent hedge fund that specializes in [quantitative trading](../q/quantitative_trading.md) strategies, including Relative Value [Arbitrage](../a/arbitrage.md). The firm leverages big data, machine learning, and artificial intelligence to inform its trading decisions. [Two Sigma](https://www.twosigma.com/)
+Two Sigma is another prominent hedge fund that specializes in [quantitative trading](../q/quantitative_trading.md) strategies, including Relative Value [Arbitrage](../a/arbitrage.md). The firm leverages [big data](../b/big_data_in_trading.md), machine learning, and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to inform its trading decisions. [Two Sigma](https://www.twosigma.com/)
 
 #### Citadel LLC
 
@@ -66,4 +66,4 @@ Citadel LLC, founded by Ken Griffin, is known for its use of sophisticated [trad
 
 ### Conclusion
 
-Relative Value [Arbitrage](../a/arbitrage.md) is a sophisticated trading strategy that seeks to exploit price discrepancies between related financial instruments. While it offers the potential for significant profits, it also carries substantial risks, particularly if the expected convergence does not occur as anticipated. To succeed in this strategy, traders must employ advanced mathematical models, [real-time data analysis](../r/real-time_data_analysis.md), and robust [risk management](../r/risk_management.md) practices. Prominent hedge funds like Renaissance Technologies, Two Sigma, and Citadel are testaments to the potential rewards of effectively implementing Relative Value [Arbitrage](../a/arbitrage.md) strategies.
+Relative Value [Arbitrage](../a/arbitrage.md) is a sophisticated trading strategy that seeks to exploit price discrepancies between related financial instruments. While it offers the potential for significant profits, it also carries substantial risks, particularly if the expected convergence does not occur as anticipated. To succeed in this strategy, traders must employ advanced [mathematical models](../m/mathematical_models_in_trading.md), [real-time data analysis](../r/real-time_data_analysis.md), and robust [risk management](../r/risk_management.md) practices. Prominent hedge funds like Renaissance Technologies, Two Sigma, and Citadel are testaments to the potential rewards of effectively implementing Relative Value [Arbitrage](../a/arbitrage.md) strategies.

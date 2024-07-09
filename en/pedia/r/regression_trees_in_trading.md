@@ -32,7 +32,7 @@ Regression trees offer several attributes that make them favorable in the realm 
 
 ## Regression Trees vs. Other Methods
 
-While regression trees have their advantages, it’s important to consider alternative methods like [linear regression](../l/linear_regression.md), random forests, and gradient boosting methods. [Linear regression](../l/linear_regression.md) might outperform regression trees in scenarios where the relationship between input and output variables is approximately linear. However, for more complex, non-linear relationships typical in financial markets, regression trees might offer a more flexible model.
+While regression trees have their advantages, it’s important to consider alternative methods like [linear regression](../l/linear_regression.md), [random forests](../r/random_forests_in_trading.md), and gradient boosting methods. [Linear regression](../l/linear_regression.md) might outperform regression trees in scenarios where the relationship between input and output variables is approximately linear. However, for more complex, non-linear relationships typical in financial markets, regression trees might offer a more flexible model.
 
 ## Applications in Trading
 
@@ -61,7 +61,7 @@ Here’s a simplified example of how a regression tree might be constructed to p
 
 ## Case Study: Application by Leading Financial Firms
 
-Several financial institutions employ regression trees and related algorithms as part of their trading and [risk management](../r/risk_management.md) strategies. For instance, Wells Fargo leverages [decision trees](../d/decision_trees.md) for risk assessment and to automate [trading strategies](../t/trading_strategies.md). More information about their use of data science and machine learning can be found on their [AI and Machine Learning page](https://www.wellsfargo.com/tech-and-innovation/).
+Several financial institutions employ regression trees and related algorithms as part of their trading and [risk management](../r/risk_management.md) strategies. For instance, Wells Fargo leverages [decision trees](../d/decision_trees.md) for risk assessment and to automate [trading strategies](../t/trading_strategies.md). More information about their use of [data science](../d/data_science_in_trading.md) and machine learning can be found on their [AI and Machine Learning page](https://www.wellsfargo.com/tech-and-innovation/).
 
 Another example is Renaissance Technologies, a hedge fund notable for its use of [quantitative models](../q/quantitative_models.md). The firm employs various machine learning techniques, including regression trees, to make trading decisions. Although specific details are proprietary, Renaissance's general approach aligns with the methodologies described.
 

@@ -15,7 +15,7 @@ Unit volume is commonly reported in the following ways:
 ### Data Sources and Tools
 To measure unit volume, traders use various platforms and services like:
 - **[Bloomberg](../b/bloomberg.md) Terminal**: Offers comprehensive trading information including unit volumes for a wide range of assets.
-- **Yahoo Finance**: Provides free access to historical and current trading volumes.
+- **[Yahoo Finance](../y/yahoo_finance.md)**: Provides free access to historical and current trading volumes.
 - **Google Finance**: Another source for obtaining data on unit volumes easily accessible online.
   
 ### Role of Unit Volume in Algo Trading
@@ -28,7 +28,7 @@ To measure unit volume, traders use various platforms and services like:
 ### Examples of Algo Trading Companies
 Several companies specialize in providing [algorithmic trading](../a/algorithmic_trading.md) solutions, leveraging unit volume and other metrics:
 - **Virtu Financial**: One of the largest high-frequency trading firms. More details can be found on their [official website](https://www.virtu.com/).
-- **Two Sigma**: A quantitative investment management firm that applies data science to trading. More information is available on their [website](https://www.twosigma.com/).
+- **Two Sigma**: A quantitative investment management firm that applies [data science](../d/data_science_in_trading.md) to trading. More information is available on their [website](https://www.twosigma.com/).
 
 ### Advanced Volume Analytics
 Algorithmic traders often employ advanced analytics to dive deeper into unit volume metrics:

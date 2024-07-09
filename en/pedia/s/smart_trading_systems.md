@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Smart [trading systems](../t/trading_systems.md) in [algorithmic trading](../a/algorithmic_trading.md) represent a confluence of advanced [computational algorithms](../c/computational_algorithms.md), real-time data processing, and intelligent decision-making capabilities. These systems are designed to analyze market trends, execute trades, and manage portfolios with minimal human intervention. Leveraging artificial intelligence (AI), machine learning (ML), and sophisticated statistical models, smart [trading systems](../t/trading_systems.md) aim to optimize [trading strategies](../t/trading_strategies.md), enhance profitability, and mitigate risks.
+Smart [trading systems](../t/trading_systems.md) in [algorithmic trading](../a/algorithmic_trading.md) represent a confluence of advanced [computational algorithms](../c/computational_algorithms.md), real-time data processing, and intelligent decision-making capabilities. These systems are designed to analyze market trends, execute trades, and manage portfolios with minimal human intervention. Leveraging [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI), machine learning (ML), and sophisticated statistical models, smart [trading systems](../t/trading_systems.md) aim to optimize [trading strategies](../t/trading_strategies.md), enhance profitability, and mitigate risks.
 
 ## Core Components of Smart Trading Systems
 
@@ -43,7 +43,7 @@ AI and ML algorithms have revolutionized [algorithmic trading](../a/algorithmic_
 Effective [risk management](../r/risk_management.md) is essential for the sustainability of any trading strategy. Smart [trading systems](../t/trading_systems.md) employ various techniques to monitor and control risk.
 
 - **Value at Risk (VaR)**: Estimating the potential loss in value of a portfolio over a defined period for a given confidence interval.
-- **Stress Testing**: Simulating extreme market conditions to assess the resilience of [trading strategies](../t/trading_strategies.md).
+- **[Stress Testing](../s/stress_testing_in_trading.md)**: Simulating extreme market conditions to assess the resilience of [trading strategies](../t/trading_strategies.md).
 - **Diversification**: Spreading investments across a variety of assets to mitigate unsystematic risk.
 
 ## Notable Companies in Smart Trading Systems
@@ -52,7 +52,7 @@ Effective [risk management](../r/risk_management.md) is essential for the sustai
 Two Sigma (https://www.twosigma.com) is a technology-driven hedge fund that utilizes machine learning, distributed computing, and data analysis to create sophisticated [trading strategies](../t/trading_strategies.md).
 
 ### Renaissance Technologies
-Renaissance Technologies (https://www.rentec.com) is a prominent quantitative hedge fund known for its Medallion Fund, which employs mathematical models to achieve remarkable returns.
+Renaissance Technologies (https://www.rentec.com) is a prominent quantitative hedge fund known for its Medallion Fund, which employs [mathematical models](../m/mathematical_models_in_trading.md) to achieve remarkable returns.
 
 ### AQR Capital Management
 AQR Capital Management (https://www.aqr.com) leverages [quantitative investment strategies](../q/quantitative_investment_strategies.md) across various asset classes, utilizing extensive data analysis and advanced algorithms.
@@ -79,4 +79,4 @@ The rise of AI in trading also brings up ethical questions about automation, job
 
 ## Conclusion
 
-Smart [trading systems](../t/trading_systems.md) have significantly transformed the landscape of [algorithmic trading](../a/algorithmic_trading.md). By incorporating advanced [quantitative models](../q/quantitative_models.md), machine learning algorithms, and robust [risk management](../r/risk_management.md) techniques, these systems enhance the ability to identify and capitalize on trading opportunities efficiently. As technology continues to evolve, the future promises further advancements, presenting both new possibilities and challenges for the field of [algorithmic trading](../a/algorithmic_trading.md).
+Smart [trading systems](../t/trading_systems.md) have significantly transformed the landscape of [algorithmic trading](../a/algorithmic_trading.md). By incorporating advanced [quantitative models](../q/quantitative_models.md), machine [learning algorithms](../l/learning_algorithms_in_trading.md), and robust [risk management](../r/risk_management.md) techniques, these systems enhance the ability to identify and capitalize on trading opportunities efficiently. As technology continues to evolve, the future promises further advancements, presenting both new possibilities and challenges for the field of [algorithmic trading](../a/algorithmic_trading.md).

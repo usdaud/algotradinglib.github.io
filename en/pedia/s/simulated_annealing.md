@@ -117,7 +117,7 @@ In this example:
 
 ### Advantages:
 - **Escaping Local Optima:** Simulated annealing’s acceptance probability for worse solutions helps the algorithm escape local minima, seeking a more globally optimal solution.
-- **Flexibility:** It can handle complex objective functions, various constraints, and multifaceted parameter spaces, making it a versatile choice for trading strategy optimization.
+- **Flexibility:** It can handle complex [objective functions](../o/objective_functions_in_trading.md), various constraints, and multifaceted parameter spaces, making it a versatile choice for trading strategy optimization.
 - **Simplicity:** The algorithm is relatively straightforward to implement and does not require gradient information or complex [derivatives](../d/derivatives.md).
 
 ### Challenges:

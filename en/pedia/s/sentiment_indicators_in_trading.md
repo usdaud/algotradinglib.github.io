@@ -33,7 +33,7 @@ In financial markets, [sentiment indicators](../s/sentiment_indicators.md) are t
 
 ### Social Media Sentiment
 
-1. **[Social Media Sentiment](../s/social_media_sentiment.md):** Using artificial intelligence and natural language processing, some platforms analyze social media chatter to gauge market sentiment. For example, monitoring tweets or discussions on forums related to specific stocks.
+1. **[Social Media Sentiment](../s/social_media_sentiment.md):** Using [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md), some platforms analyze social media chatter to gauge market sentiment. For example, monitoring tweets or discussions on forums related to specific stocks.
 
 ### Investor Surveys
 

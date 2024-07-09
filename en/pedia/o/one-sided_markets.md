@@ -56,7 +56,7 @@ One approach to exploiting one-sided markets is [momentum trading](../m/momentum
 One-sided markets may present [arbitrage](../a/arbitrage.md) opportunities. By identifying price discrepancies across related assets or markets, algorithms can exploit these inefficiencies. For example, if an asset is heavily bought in one market, leading to a significant price increase, an algorithm might sell that asset in a different market where the price discrepancy hasn't yet been reflected.
 
 ### News-Based Trading
-News-based [trading strategies](../t/trading_strategies.md) leverage the impact of news events on market sentiment. Algorithms scan news sources in real-time, assess the sentiment, and execute trades aligned with the expected market reaction. This approach requires sophisticated natural language processing (NLP) techniques to interpret news content effectively.
+News-based [trading strategies](../t/trading_strategies.md) leverage the impact of news events on market sentiment. Algorithms scan news sources in real-time, assess the sentiment, and execute trades aligned with the expected market reaction. This approach requires sophisticated [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) techniques to interpret news content effectively.
 
 ## Challenges in One-Sided Markets
 
@@ -72,7 +72,7 @@ Traders and firms must ensure their algorithms comply with regulatory frameworks
 ## Future Trends
 
 ### Machine Learning and AI
-The integration of machine learning and artificial intelligence (AI) in [algorithmic trading](../a/algorithmic_trading.md) is likely to continue evolving. These technologies can enhance the ability to predict market movements, adapt to changing conditions, and optimize [trading strategies](../t/trading_strategies.md) in one-sided markets.
+The integration of machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) in [algorithmic trading](../a/algorithmic_trading.md) is likely to continue evolving. These technologies can enhance the ability to predict market movements, adapt to changing conditions, and optimize [trading strategies](../t/trading_strategies.md) in one-sided markets.
 
 ### Decentralized Finance (DeFi)
 The rise of decentralized finance (DeFi) platforms introduces a new layer of complexity to financial markets. The decentralized nature of these platforms could lead to the creation of one-sided market conditions. [Algorithmic trading](../a/algorithmic_trading.md) in DeFi requires navigating unique challenges, including varying levels of liquidity and market maturity.

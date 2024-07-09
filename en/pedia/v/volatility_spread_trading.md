@@ -74,7 +74,7 @@ Long-Term Capital Management (LTCM) was a hedge fund that applied sophisticated 
 Several dedicated trading platforms and firms specialize in volatility [spread trading](../s/spread_trading.md), providing advanced tools and resources for professional traders:
 
 - [Jane Street](https://www.janestreet.com/): A [proprietary trading](../p/proprietary_trading.md) firm well-known for its expertise in [quantitative trading](../q/quantitative_trading.md), including volatility [arbitrage](../a/arbitrage.md).
-- [Two Sigma](https://www.twosigma.com/): Another leading quantitative investment firm that leverages data science and technology to execute complex [trading strategies](../t/trading_strategies.md), including volatility [arbitrage](../a/arbitrage.md).
+- [Two Sigma](https://www.twosigma.com/): Another leading quantitative investment firm that leverages [data science](../d/data_science_in_trading.md) and technology to execute complex [trading strategies](../t/trading_strategies.md), including volatility [arbitrage](../a/arbitrage.md).
 - [IMC Trading](https://www.imc.com/): This global market maker engages in a range of [trading strategies](../t/trading_strategies.md), with a significant focus on options and volatility trading.
 
 ## Conclusion

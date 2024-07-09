@@ -1,6 +1,6 @@
 # Non-Gaussian Models
 
-[Algorithmic trading](../a/algorithmic_trading.md) (algo trading) involves the use of complex algorithms and mathematical models to execute trades at high speed and frequency based on predefined criteria. One of the key requirements in developing these algorithms is accurately modeling the behavior of asset prices. Traditional models often rely on the assumption that returns are normally distributed, i.e., they follow a [Gaussian distribution](../g/gaussian_distribution.md). However, empirical evidence suggests that financial returns exhibit properties such as skewness, kurtosis, fat tails, and [volatility clustering](../v/volatility_clustering.md) - characteristics that are not adequately captured by Gaussian distributions. Hence, the need arises for non-Gaussian models to better reflect the realities of financial markets.
+[Algorithmic trading](../a/algorithmic_trading.md) (algo trading) involves the use of complex algorithms and [mathematical models](../m/mathematical_models_in_trading.md) to execute trades at high speed and frequency based on predefined criteria. One of the key requirements in developing these algorithms is accurately modeling the behavior of asset prices. Traditional models often rely on the assumption that returns are normally distributed, i.e., they follow a [Gaussian distribution](../g/gaussian_distribution.md). However, empirical evidence suggests that financial returns exhibit properties such as skewness, kurtosis, fat tails, and [volatility clustering](../v/volatility_clustering.md) - characteristics that are not adequately captured by Gaussian distributions. Hence, the need arises for non-Gaussian models to better reflect the realities of financial markets.
 
 ## Key Characteristics of Financial Returns
 
@@ -10,7 +10,7 @@
 
 3. **[Volatility Clustering](../v/volatility_clustering.md)**: Financial markets often exhibit periods of high and low volatility clumping together, leading to [volatility clustering](../v/volatility_clustering.md). During periods of market stress, volatility can spike significantly, a phenomenon Gaussian models usually fail to capture.
 
-4. **Leverage Effect**: Asset prices often display a negative correlation between returns and volatility changes, known as the leverage effect. When asset prices fall, volatility tends to increase more than when asset prices rise.
+4. **[Leverage Effect](../l/leverage_effect_in_trading.md)**: Asset prices often display a negative correlation between returns and volatility changes, known as the [leverage effect](../l/leverage_effect_in_trading.md). When asset prices fall, volatility tends to increase more than when asset prices rise.
 
 ## Types of Non-Gaussian Models
 
@@ -44,7 +44,7 @@ Generalized Hyperbolic (GH) distributions are flexible distributions that encomp
 
 While GARCH (Generalized Autoregressive Conditional Heteroskedasticity) models focus on capturing [volatility clustering](../v/volatility_clustering.md), Stochastic Volatility (SV) models allow for random changes in the volatility over time.
 
-**[GARCH Models](../g/garch_models.md)**: These models assume that current volatility depends on past squared returns and past volatilities. Variants like EGARCH and IGARCH can capture asymmetric effects like the leverage effect.
+**[GARCH Models](../g/garch_models.md)**: These models assume that current volatility depends on past squared returns and past volatilities. Variants like EGARCH and IGARCH can capture asymmetric effects like the [leverage effect](../l/leverage_effect_in_trading.md).
 
 **[Stochastic Volatility Models](../s/stochastic_volatility_models.md)**: In these models, volatility is described by its own stochastic process, often modeled using a latent variable. This adds flexibility in modeling volatility dynamics.
 
@@ -96,7 +96,7 @@ A variety of software libraries exist for implementing non-Gaussian models:
 
 - R: Packages like `fGarch`, `VGAM`, and `copula`.
 - Python: Libraries such as `arch`, `statsmodels`, and `copulas`.
-- MATLAB: Toolboxes like `Econometrics Toolbox`, and `Financial Toolbox`.
+- MATLAB: Toolboxes like `[Econometrics](../e/econometrics_in_trading.md) Toolbox`, and `Financial Toolbox`.
 
 #### Steps to Implement Non-Gaussian Models
 
@@ -110,7 +110,7 @@ A variety of software libraries exist for implementing non-Gaussian models:
 
 #### Renaissance Technologies
 
-Renaissance Technologies, founded by Jim Simons, is known for employing sophisticated statistical and mathematical models in their [trading strategies](../t/trading_strategies.md), including non-Gaussian models. Detailed information on their methodologies is proprietary, but the firm is renowned for its use of cutting-edge quantitative techniques.
+Renaissance Technologies, founded by Jim Simons, is known for employing sophisticated statistical and [mathematical models](../m/mathematical_models_in_trading.md) in their [trading strategies](../t/trading_strategies.md), including non-Gaussian models. Detailed information on their methodologies is proprietary, but the firm is renowned for its use of cutting-edge quantitative techniques.
 
 More information about Renaissance Technologies can be found on their [official website](https://www.rentec.com/).
 

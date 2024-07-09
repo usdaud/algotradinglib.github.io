@@ -91,7 +91,7 @@ Where:
 
 ##### 6. Average Directional Index (ADX)
 
-The Average Directional Index (ADX) is designed to quantify trend strength. The ADX is part of the Directional Movement System developed by Welles Wilder and is composed of three lines: the ADX line, the Plus Directional Indicator (+DI), and the Minus Directional Indicator (-DI). The ADX line itself is derived from the smoothed averages of the difference between +DI and -DI.
+The [Average Directional Index](../a/average_directional_index_(adx).md) (ADX) is designed to quantify trend strength. The ADX is part of the Directional Movement System developed by Welles Wilder and is composed of three lines: the ADX line, the Plus Directional Indicator (+DI), and the Minus Directional Indicator (-DI). The ADX line itself is derived from the smoothed averages of the difference between +DI and -DI.
 
 - **Strong Trend:** ADX above 25.
 - **Weak Trend:** ADX below 20.

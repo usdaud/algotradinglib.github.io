@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The Russell Indexes are a family of U.S. stock market indices that are operated by London Stock Exchange's (LSE) FTSE Russell. These indices measure the performance of different segments of the stock market, helping investors understand the movements and trends in various sectors. They are widely used benchmarks for mutual funds, ETFs, and other investment vehicles.
+The Russell Indexes are a family of U.S. stock market indices that are operated by London Stock Exchange's (LSE) [FTSE Russell](../f/ftse_russell.md). These indices measure the performance of different segments of the stock market, helping investors understand the movements and trends in various sectors. They are widely used benchmarks for mutual funds, ETFs, and other investment vehicles.
 
 ## Russell 3000 Index
 
@@ -32,7 +32,7 @@ The Russell 1000 Index is diversified across multiple sectors, including:
 - Consumer Discretionary
 - Industrials
 
-Large-cap stocks like Apple, Microsoft, and Amazon are significant constituents of this index.
+[Large-cap stocks](../l/large_cap_stocks.md) like Apple, Microsoft, and Amazon are significant constituents of this index.
 
 ## Russell 2000 Index
 
@@ -48,7 +48,7 @@ The Russell 2000 is frequently used as a benchmark for small-cap mutual funds an
 The Russell Midcap Index includes the smallest 800 companies in the Russell 1000 Index. It represents about 26% of the total market capitalization of the Russell 1000. The Russell Midcap provides insights into the mid-cap segment of the U.S. equity market.
 
 ### Market Characteristics
-[Mid-cap stocks](../m/mid-cap_stocks.md) are often considered to offer a balance between the stability of large-cap stocks and the growth potential of small-cap stocks. Companies in this index are usually established and have higher growth prospects than large-cap firms.
+[Mid-cap stocks](../m/mid-cap_stocks.md) are often considered to offer a balance between the stability of [large-cap stocks](../l/large_cap_stocks.md) and the growth potential of small-cap stocks. Companies in this index are usually established and have higher growth prospects than large-cap firms.
 
 ## Calculation Methodology
 
@@ -56,7 +56,7 @@ The Russell Midcap Index includes the smallest 800 companies in the Russell 1000
 Each stock in the Russell indexes is weighted by its free-[float-adjusted market capitalization](../f/float-adjusted_market_capitalization.md). This method excludes closely held shares and ensures that only the market-visible portion of a company's equity is considered.
 
 ### Index Maintenance
-The FTSE Russell team employs strict criteria for inclusion in the indexes. Stocks are evaluated based on market capitalization, free-float percentage, and liquidity. The annual reconstitution process is transparent and follows a well-defined methodology.
+The [FTSE Russell](../f/ftse_russell.md) team employs strict criteria for inclusion in the indexes. Stocks are evaluated based on market capitalization, free-float percentage, and liquidity. The annual reconstitution process is transparent and follows a well-defined methodology.
 
 ## Investment Strategies
 
@@ -99,4 +99,4 @@ Fundamental analysts may study the constituents of Russell indexes to identify u
 
 The Russell Indexes are essential tools for investors and fund managers, offering comprehensive coverage of the U.S. equity market. Their broad-market indices, such as the Russell 3000, as well as more targeted indices like the Russell 1000 and Russell 2000, provide a valuable benchmark for various investment strategies.
 
-For more detailed information about the Russell Indexes and FTSE Russell's services, visit [FTSE Russell's official website](https://www.ftserussell.com/).
+For more detailed information about the Russell Indexes and [FTSE Russell](../f/ftse_russell.md)'s services, visit [FTSE Russell's official website](https://www.ftserussell.com/).

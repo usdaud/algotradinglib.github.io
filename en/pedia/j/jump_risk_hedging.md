@@ -43,7 +43,7 @@ $$
 dS_t = \mu S_t \, dt + \sigma S_t \, dW_t + (e^{Y_t} - 1) S_t \, dN_t
 $$
 
-Where \( Y_t \) follows a double-exponential distribution, and \( dN_t \) is a Poisson process with intensity \( \lambda \).
+Where \( Y_t \) follows a double-exponential distribution, and \( dN_t \) is a [Poisson process](../p/poisson_process_in_trading.md) with intensity \( \lambda \).
 
 ## Hedging Strategies
 
@@ -89,7 +89,7 @@ Machine learning techniques are being increasingly applied to detect and hedge a
 
 ### Blockchain and Crypto Derivatives
 
-The emergence of cryptocurrencies has introduced new forms of jump risks. Crypto [derivatives](../d/derivatives.md) and smart contracts on blockchain platforms are being developed to provide more robust hedging mechanisms in these volatile markets.
+The emergence of cryptocurrencies has introduced new forms of jump risks. Crypto [derivatives](../d/derivatives.md) and [smart contracts](../s/smart_contracts_in_trading.md) on [blockchain](../b/blockchain_in_trading.md) platforms are being developed to provide more robust hedging mechanisms in these volatile markets.
 
 ### Regulatory Developments
 

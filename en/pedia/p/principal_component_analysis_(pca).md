@@ -1,6 +1,6 @@
 # Principal Component Analysis
 
-Principal Component Analysis (PCA) is a statistical technique and one of the most commonly used methods in data processing, dimensionality reduction, and [multivariate analysis](../m/multivariate_analysis.md). Initially introduced by Karl Pearson in 1901, PCA’s primary objective is to transform a set of correlated variables into a set of uncorrelated variables, called principal components. These components are orthogonal to each other and are ordered such that the first few retain most of the variation present in the original dataset.
+Principal Component Analysis (PCA) is a statistical technique and one of the most commonly used methods in data processing, [dimensionality reduction](../d/dimensionality_reduction_in_trading.md), and [multivariate analysis](../m/multivariate_analysis.md). Initially introduced by Karl Pearson in 1901, PCA’s primary objective is to transform a set of correlated variables into a set of uncorrelated variables, called [principal components](../p/principal_components_in_trading.md). These components are orthogonal to each other and are ordered such that the first few retain most of the variation present in the original dataset.
 
 ## Core Concepts
 
@@ -26,18 +26,18 @@ For any given dataset with multiple features, constructing the covariance matrix
    After standardization, the next step is to compute the covariance matrix, which helps in understanding how the features vary with respect to each other.
 
 3. **Calculating Eigenvalues and Eigenvectors:**
-   The covariance matrix is then decomposed into eigenvalues and eigenvectors. These eigenvalues and eigenvectors identify the principal components that capture the major variance in the dataset.
+   The covariance matrix is then decomposed into eigenvalues and eigenvectors. These eigenvalues and eigenvectors identify the [principal components](../p/principal_components_in_trading.md) that capture the major variance in the dataset.
 
-4. **Selecting Principal Components:**
-   Principal components are selected based on the eigenvalues, typically in descending order. A common approach is to choose enough components to explain a certain percentage of the total variance (e.g., 95%).
+4. **Selecting [Principal Components](../p/principal_components_in_trading.md):**
+   [Principal components](../p/principal_components_in_trading.md) are selected based on the eigenvalues, typically in descending order. A common approach is to choose enough components to explain a certain percentage of the total variance (e.g., 95%).
 
 5. **Transformation:**
-   The original data is transformed into a new subset using the selected principal components. This reduced set of variables can be used for further analysis or visualization.
+   The original data is transformed into a new subset using the selected [principal components](../p/principal_components_in_trading.md). This reduced set of variables can be used for further analysis or visualization.
 
 ## Applications in Algor Trading
 
 PCA plays a pivotal role in [algorithmic trading](../a/algorithmic_trading.md) by aiding in:
-- **Dimensionality Reduction:**
+- **[Dimensionality Reduction](../d/dimensionality_reduction_in_trading.md):**
   In trading, it’s common to deal with large sets of features, such as different indicators or asset prices. PCA helps reduce the complexity by focusing on the most informative aspects.
   
 - **Feature Selection:**
@@ -48,7 +48,7 @@ PCA plays a pivotal role in [algorithmic trading](../a/algorithmic_trading.md) b
 
 ### Example: Quantitative Trading Software
 
-PCA is integrated into many [quantitative trading](../q/quantitative_trading.md) software platforms. One notable example is [QuantConnect](../q/quantconnect.md), an open-source [algorithmic trading](../a/algorithmic_trading.md) platform:
+PCA is integrated into many [quantitative trading](../q/quantitative_trading.md) [software platforms](../s/software_platforms_for_trading.md). One notable example is [QuantConnect](../q/quantconnect.md), an open-source [algorithmic trading](../a/algorithmic_trading.md) platform:
 - **Website:** [QuantConnect](https://www.quantconnect.com)
 
 [QuantConnect](../q/quantconnect.md) provides tools for [backtesting](../b/backtesting.md) and live trading, where PCA can be employed to analyze financial data and derive [trading strategies](../t/trading_strategies.md).
@@ -66,8 +66,8 @@ Given a dataset matrix `X` where each row represents different observations and 
 3. **Eigen Decomposition:**
    - Solving for the eigenvalues (`λ`) and eigenvectors (`v`): `Cv = λv`
 
-4. **Choosing Principal Components:**
-   - Select `k` principal components that retain the majority of the variance.
+4. **Choosing [Principal Components](../p/principal_components_in_trading.md):**
+   - Select `k` [principal components](../p/principal_components_in_trading.md) that retain the majority of the variance.
    - Form the `k` selected eigenvectors into a projection matrix `P`.
 
 5. **Transformation:**
@@ -76,10 +76,10 @@ Given a dataset matrix `X` where each row represents different observations and 
 ## Visualization of PCA
 Visualizing the results of PCA helps in understanding the transformed data. Two of the most common methods are:
 - **Scree Plot:**
-  A graph of eigenvalues that helps in identifying the number of principal components to retain, typically showing the “elbow” point where the eigenvalue drops off.
+  A graph of eigenvalues that helps in identifying the number of [principal components](../p/principal_components_in_trading.md) to retain, typically showing the “elbow” point where the eigenvalue drops off.
 
 - **Biplot:**
-  A plot that represents both the observations and variables in the space of the first two principal components, providing insights into the data structure.
+  A plot that represents both the observations and variables in the space of the first two [principal components](../p/principal_components_in_trading.md), providing insights into the data structure.
 
 ## Advantages and Limitations
 ### Advantages:
@@ -100,7 +100,7 @@ Visualizing the results of PCA helps in understanding the transformed data. Two 
 
 ## Conclusion and Further Readings
 
-Principal Component Analysis (PCA) represents a crucial tool in the arsenal of data scientists and quantitative traders alike, offering a methodical approach to simplifying complex datasets. While it has its limitations, the benefits PCA brings in terms of dimensionality reduction, noise filtering, and enhanced interpretability make it indispensable.
+Principal Component Analysis (PCA) represents a crucial tool in the arsenal of data scientists and quantitative traders alike, offering a methodical approach to simplifying complex datasets. While it has its limitations, the benefits PCA brings in terms of [dimensionality reduction](../d/dimensionality_reduction_in_trading.md), noise filtering, and enhanced interpretability make it indispensable.
 
 For those seeking more in-depth insights and applications in [algorithmic trading](../a/algorithmic_trading.md), further readings can include:
 - "The Elements of Statistical Learning" by Hastie, Tibshirani, and Friedman

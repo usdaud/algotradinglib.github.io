@@ -20,7 +20,7 @@ dxFeed is a premier market data provider that offers high-quality, real-time and
 - **Market Data Feeds**: Real-time and delayed data feeds from major global exchanges.
 - **Historical Data Service**: Access to extensive historical data for [backtesting](../b/backtesting.md) and analysis.
 - **Analytics Platform**: Advanced analytical tools for market data analysis and strategy development.
-- **[Data Visualization](../d/data_visualization.md) Tools**: Solutions for visualizing market data, including charts, heatmaps, and dashboards.
+- **[Data Visualization](../d/data_visualization.md) Tools**: Solutions for visualizing market data, including charts, [heatmaps](../h/heatmaps_in_trading.md), and dashboards.
 - **Custom Data Solutions**: Tailored solutions to meet the specific needs of clients in the financial industry.
 
 ## Integrations

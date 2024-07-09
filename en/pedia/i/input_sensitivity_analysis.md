@@ -15,7 +15,7 @@ Input Sensitivity Analysis involves systematically changing inputs to a model or
 1. **Identify critical inputs**: Understand which inputs have the most significant impact on the trading strategy's performance.
 2. **Gauge robustness**: Determine how resilient the trading strategy is to changes in model inputs.
 3. **Optimize parameters**: Find optimal settings for strategy parameters to maximize returns and minimize risks.
-4. **Manage risk**: Identify and mitigate potential risks arising from model uncertainty and input variability.
+4. **Manage risk**: Identify and mitigate potential risks arising from model [uncertainty](../u/uncertainty_in_trading.md) and input variability.
 
 ## Techniques for Performing Input Sensitivity Analysis
 
@@ -27,7 +27,7 @@ In the OAT method, one input parameter is varied at a time while keeping all oth
 
 ### 2. Monte Carlo Simulations
 
-Monte Carlo simulations involve generating a large number of random samples of input parameters based on their probability distributions. The model is then run with these varied inputs to observe the distribution of outputs. This method is useful in capturing the joint effects of multiple input parameters.
+Monte Carlo simulations involve generating a large number of random samples of input parameters based on their [probability distributions](../p/probability_distributions_in_trading.md). The model is then run with these varied inputs to observe the distribution of outputs. This method is useful in capturing the joint effects of multiple input parameters.
 
 ### 3. Global Sensitivity Analysis
 
@@ -59,7 +59,7 @@ Before deploying a trading strategy, sensitivity analysis is used to validate it
 
 ### 4. Risk Management
 
-ISA helps in identifying potential risks associated with input variability and model uncertainty. By understanding how sensitive the strategy is to different inputs, traders can devise better [risk management](../r/risk_management.md) practices and contingency plans.
+ISA helps in identifying potential risks associated with input variability and model [uncertainty](../u/uncertainty_in_trading.md). By understanding how sensitive the strategy is to different inputs, traders can devise better [risk management](../r/risk_management.md) practices and contingency plans.
 
 ## Illustration Using a Simple Moving Average Trading Strategy
 
@@ -86,7 +86,7 @@ Next, we vary L and keep S constant:
 
 ### Monte Carlo Simulations
 
-For Monte Carlo simulations, we define probability distributions for S and L:
+For Monte Carlo simulations, we define [probability distributions](../p/probability_distributions_in_trading.md) for S and L:
 
 - S: Uniform distribution between 5 and 25 days
 - L: Uniform distribution between 40 and 80 days
@@ -125,7 +125,7 @@ In strategies dealing with multiple asset classes, sensitivity analysis can iden
 
 ## Tools and Software for Input Sensitivity Analysis
 
-Several tools and software platforms can facilitate input sensitivity analysis for [trading strategies](../t/trading_strategies.md):
+Several tools and [software platforms](../s/software_platforms_for_trading.md) can facilitate input sensitivity analysis for [trading strategies](../t/trading_strategies.md):
 
 ### Python Libraries
 
@@ -151,7 +151,7 @@ Sensitivity analysis, especially for complex models, can be computationally inte
 
 ### Model Uncertainty
 
-Models in trading are often approximations of reality. Sensitivity analysis can be complicated by the inherent uncertainty in these models. This uncertainty can affect the reliability of the sensitivity estimates.
+Models in trading are often approximations of reality. Sensitivity analysis can be complicated by the inherent [uncertainty](../u/uncertainty_in_trading.md) in these models. This [uncertainty](../u/uncertainty_in_trading.md) can affect the reliability of the sensitivity estimates.
 
 ### Data Quality
 

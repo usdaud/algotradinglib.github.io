@@ -10,7 +10,7 @@ The Overreaction Hypothesis was first formally introduced by Werner F. M. De Bon
 
 ### Key Points:
 - **Inefficient Market Hypothesis:** The Overreaction Hypothesis directly challenges the [Efficient Market Hypothesis](../e/efficient_market_hypothesis.md) (EMH), which claims that asset prices fully reflect all available information.
-- **Psychological Factors:** Behavioral biases such as overconfidence, herding behavior, and the disposition effect contribute to overreaction.
+- **Psychological Factors:** [Behavioral biases](../b/behavioral_biases_in_trading.md) such as overconfidence, herding behavior, and the disposition effect contribute to overreaction.
 - **[Mean Reversion](../m/mean_reversion.md):** After the initial overreaction, asset prices tend to revert to their long-term mean, providing a basis for investment strategies that exploit this reversion.
 
 ## Algorithmic Trading Strategies Based on Overreaction
@@ -21,7 +21,7 @@ One of the simplest and most effective ways to use the Overreaction Hypothesis i
 
 #### Implementation
 1. **Data Collection:** Gather historical price data and identify periods of extreme price movements.
-2. **Statistical Analysis:** Use statistical tools like standard deviation or z-scores to determine the extent of deviation from the mean.
+2. **Statistical Analysis:** Use statistical tools like standard deviation or [z-scores](../z/z-scores_in_trading.md) to determine the extent of deviation from the mean.
 3. **Trade Execution:** Develop algorithms that place trades to buy oversold assets and short-sell overbought assets.
 
 ### Momentum Strategy
@@ -35,7 +35,7 @@ Contrary to the [mean reversion](../m/mean_reversion.md) strategy, a momentum st
 
 ### Sentiment Analysis
 
-[Sentiment analysis](../s/sentiment_analysis.md) uses natural language processing (NLP) and machine learning to analyze news, social media, and other sources to gauge investor sentiment.
+[Sentiment analysis](../s/sentiment_analysis.md) uses [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) and machine learning to analyze news, social media, and other sources to gauge investor sentiment.
 
 #### Implementation
 1. **Text Mining:** Extract relevant financial news and social media posts.
@@ -61,7 +61,7 @@ Two Sigma uses machine learning, distributed computing, and vast datasets to und
 Market-making firms also leverage the Overreaction Hypothesis to improve their operations. By providing liquidity and maintaining orderly markets, they use algorithms to take advantage of short-term mispricings caused by overreaction.
 
 #### Citadel Securities
-Citadel Securities applies quantitative strategies to offer consistent liquidity in various asset classes, benefiting from transient market inefficiencies.
+Citadel Securities applies [quantitative strategies](../q/quantitative_strategies_in_trading.md) to offer consistent liquidity in various asset classes, benefiting from transient market inefficiencies.
 [Link to Citadel Securities](https://www.citadelsecurities.com/)
 
 ## Academic Research and Further Reading
@@ -74,7 +74,7 @@ Academic research continues to explore the implications and applications of the 
 
 ## Conclusion
 
-The Overreaction Hypothesis plays a pivotal role in understanding market dynamics and developing profitable [algorithmic trading](../a/algorithmic_trading.md) strategies. It challenges the notion of [market efficiency](../m/market_efficiency.md) and highlights the impact of investor psychology on asset prices. By leveraging statistical methods, machine learning, and [sentiment analysis](../s/sentiment_analysis.md), traders can develop robust algorithms to exploit these behavioral biases and achieve superior returns.
+The Overreaction Hypothesis plays a pivotal role in understanding market dynamics and developing profitable [algorithmic trading](../a/algorithmic_trading.md) strategies. It challenges the notion of [market efficiency](../m/market_efficiency.md) and highlights the impact of investor psychology on asset prices. By leveraging statistical methods, machine learning, and [sentiment analysis](../s/sentiment_analysis.md), traders can develop robust algorithms to exploit these [behavioral biases](../b/behavioral_biases_in_trading.md) and achieve superior returns.
 
 ### Final Thoughts
 

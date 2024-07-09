@@ -91,11 +91,11 @@ MetaTrader is another widely used trading platform. It supports custom time inte
 
 ## Risks and Considerations
 
-While 10-minute charts provide valuable insights, they also pose certain risks. The primary risk is the increased susceptibility to noise, which refers to random volatility and fluctuations that can lead to false signals. Traders need to implement robust algorithms and [risk management](../r/risk_management.md) strategies to mitigate these risks.
+While 10-minute charts provide valuable insights, they also pose certain risks. The primary risk is the increased susceptibility to noise, which refers to random volatility and fluctuations that can lead to [false signals](../f/false_signals_in_trading.md). Traders need to implement robust algorithms and [risk management](../r/risk_management.md) strategies to mitigate these risks.
 
 ### Noise and False Signals
 
-Due to the short-term nature of 10-minute charts, there is a higher likelihood of encountering noise. It is essential to combine these charts with other analytical tools and confirmations to avoid making hasty decisions based on false signals.
+Due to the short-term nature of 10-minute charts, there is a higher likelihood of encountering noise. It is essential to combine these charts with other analytical tools and confirmations to avoid making hasty decisions based on [false signals](../f/false_signals_in_trading.md).
 
 ### Overfitting in Algorithmic Models
 

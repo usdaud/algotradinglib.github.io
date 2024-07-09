@@ -4,7 +4,7 @@ Alternative data refers to data that is derived from non-traditional sources. Th
 
 ## Introduction
 
-The emergence of alternative data is closely tied to advancements in technology, particularly big data analytics, machine learning, and artificial intelligence. These advancements have allowed market participants to process and analyze vast amounts of non-traditional data at unprecedented speed and accuracy. 
+The emergence of alternative data is closely tied to advancements in technology, particularly [big data analytics](../b/big_data_analytics_in_trading.md), machine learning, and [artificial intelligence](../a/artificial_intelligence_in_trading.md). These advancements have allowed market participants to process and analyze vast amounts of non-traditional data at unprecedented speed and accuracy. 
 
 ## Types of Alternative Data
 
@@ -48,7 +48,7 @@ The Internet of Things (IoT) generates data through connected devices. Informati
 
 ### Predictive Analytics
 
-[Predictive analytics](../p/predictive_analytics.md) uses historical data to predict future outcomes. Algorithmic traders leverage alternative data to build predictive models that forecast stock prices, commodity prices, and other financial metrics.
+[Predictive analytics](../p/predictive_analytics.md) uses historical data to predict future outcomes. Algorithmic traders leverage alternative data to build [predictive models](../p/predictive_models_in_trading.md) that forecast stock prices, commodity prices, and other financial metrics.
 
 ### Risk Management
 
@@ -80,7 +80,7 @@ Collecting, processing, and analyzing alternative data can be expensive. The hig
 
 ### Example 1: Kensho Technologies
 
-[Kensho Technologies](https://www.kensho.com/) uses machine learning and big data analytics to provide financial insights. They analyze various alternative data sources, including news articles, social media posts, and [economic indicators](../e/economic_indicators.md), to forecast market trends.
+[Kensho Technologies](https://www.kensho.com/) uses machine learning and [big data analytics](../b/big_data_analytics_in_trading.md) to provide financial insights. They analyze various alternative data sources, including news articles, social media posts, and [economic indicators](../e/economic_indicators.md), to forecast market trends.
 
 ### Example 2: Quantopian and the Twitter Sentiment Approach
 
@@ -88,13 +88,13 @@ Quantopian is a crowd-sourced quantitative investment firm that has leveraged Tw
 
 ### Example 3: RavenPack
 
-[RavenPack](https://www.ravenpack.com/) uses NLP (Natural Language Processing) to analyze news and social media content for [sentiment analysis](../s/sentiment_analysis.md). Their data feeds are used by hedge funds and financial institutions to make better trading decisions.
+[RavenPack](https://www.ravenpack.com/) uses NLP ([Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md)) to analyze news and social media content for [sentiment analysis](../s/sentiment_analysis.md). Their data feeds are used by hedge funds and financial institutions to make better trading decisions.
 
 ## Future Trends
 
 ### Increasing Use of AI
 
-As artificial intelligence becomes more sophisticated, its application in processing alternative data will grow. AI can uncover hidden patterns and insights that might be missed by traditional analytical methods.
+As [artificial intelligence](../a/artificial_intelligence_in_trading.md) becomes more sophisticated, its application in processing alternative data will grow. AI can uncover hidden patterns and insights that might be missed by traditional analytical methods.
 
 ### Real-Time Data Processing
 

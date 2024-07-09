@@ -4,7 +4,7 @@ Order management in trading is the process through which trades are initiated, e
 
 ## 1. Order Types and Characteristics
 
-[Order management systems](../o/order_management_systems.md) (OMS) support a variety of order types, each designed for specific [trading strategies](../t/trading_strategies.md) and market conditions. The most common order types include:
+[Order management systems](../o/order_management_systems.md) (OMS) support a variety of [order types](../o/order_types_in_trading.md), each designed for specific [trading strategies](../t/trading_strategies.md) and market conditions. The most common [order types](../o/order_types_in_trading.md) include:
 
 ### Market Orders
 
@@ -111,11 +111,11 @@ Cloud-based OMS offer scalability, flexibility, and cost-efficiency, enabling fi
 
 ### Machine Learning and AI
 
-AI and machine learning algorithms can analyze large datasets to optimize [trading strategies](../t/trading_strategies.md) and enhance decision-making processes.
+AI and machine [learning algorithms](../l/learning_algorithms_in_trading.md) can analyze large datasets to optimize [trading strategies](../t/trading_strategies.md) and enhance decision-making processes.
 
 ### Blockchain
 
-Blockchain technology promises to revolutionize [post-trade processing](../p/post-trade_processing.md) by providing secure, transparent, and immutable transaction records.
+[Blockchain](../b/blockchain_in_trading.md) technology promises to revolutionize [post-trade processing](../p/post-trade_processing.md) by providing secure, transparent, and immutable transaction records.
 
 ### API Integrations
 

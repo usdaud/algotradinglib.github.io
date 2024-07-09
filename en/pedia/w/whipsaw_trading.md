@@ -48,7 +48,7 @@ It is useful to look at historical instances of whipsaw trading to understand it
 
 Tools and techniques to navigate whipsaw trading effectively include:
 
-1. **[Trend Following](../t/trend_following.md) Indicators**: Indicators like Moving Averages (MA), Moving Average Convergence Divergence (MACD), and the Average Directional Index (ADX) help in identifying the primary trend and potential whipsaw movements.
+1. **[Trend Following](../t/trend_following.md) Indicators**: Indicators like Moving Averages (MA), Moving Average Convergence Divergence (MACD), and the [Average Directional Index](../a/average_directional_index_(adx).md) (ADX) help in identifying the primary trend and potential whipsaw movements.
 
 2. **Volatility Indicators**: Tools such as the [Bollinger Bands](../b/bollinger_bands.md), Volatility Index (VIX), and the Relative Strength Index (RSI) provide insights into market volatility, aiding in whipsaw risk assessment.
 

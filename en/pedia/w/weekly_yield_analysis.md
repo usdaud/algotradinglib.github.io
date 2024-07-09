@@ -43,7 +43,7 @@ Several [algorithmic trading](../a/algorithmic_trading.md) strategies are partic
 - **[Mean Reversion](../m/mean_reversion.md)**: Based on the hypothesis that asset prices will revert to their mean over time.
 - **[Momentum Trading](../m/momentum_trading.md)**: Capitalizes on the continuation of existing trends.
 - **Statistical [Arbitrage](../a/arbitrage.md)**: Involves statistical techniques to exploit price inefficiencies.
-- **Machine Learning Algorithms**: Utilize advanced data analytics and [predictive modeling](../p/predictive_modeling.md) to make trading decisions.
+- **Machine [Learning Algorithms](../l/learning_algorithms_in_trading.md)**: Utilize advanced data analytics and [predictive modeling](../p/predictive_modeling.md) to make trading decisions.
 
 ### 6. Implementation of Weekly Yield Analysis
 
@@ -76,8 +76,8 @@ Consider a hedge fund employing [algorithmic trading](../a/algorithmic_trading.m
 ### 9. Future Trends
 
 - **AI and Machine Learning**: These technologies will play a significant role in enhancing weekly [yield analysis](../y/yield_analysis.md) through better prediction and adaptability.
-- **Big Data Analytics**: Leveraging large datasets for more comprehensive and accurate analysis.
-- **Blockchain Technology**: Providing transparent and efficient data recording and processing.
+- **[Big Data Analytics](../b/big_data_analytics_in_trading.md)**: Leveraging large datasets for more comprehensive and accurate analysis.
+- **[Blockchain](../b/blockchain_in_trading.md) Technology**: Providing transparent and efficient data recording and processing.
 
 ### 10. Conclusion
 

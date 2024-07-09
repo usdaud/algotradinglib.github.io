@@ -47,7 +47,7 @@ Algorithms can:
 
 ### Tools and Software
 - **Financial Platforms**: [Bloomberg](../b/bloomberg.md) Terminal, [FactSet](../f/factset.md), S&P Capital IQ.
-- **APIs**: Alpha Vantage, Yahoo Finance API for fetching market data.
+- **APIs**: Alpha Vantage, [Yahoo Finance](../y/yahoo_finance.md) API for fetching market data.
 
 ## 3. Asset-Based Valuation
 
@@ -77,7 +77,7 @@ Algorithms can be programmed to:
 
 ### Black-Scholes Model
 \[ C = S_0 N(d_1) - Xe^{-rt} N(d_2) \]
-where \( C \) is the call option price, \( S_0 \) is the current stock price, \( X \) is the strike price, \( r \) is the risk-free interest rate, \( T \) is the time to expiration, and \( N \) is the cumulative distribution function of the standard normal distribution.
+where \( C \) is the call option price, \( S_0 \) is the current stock price, \( X \) is the strike price, \( r \) is the risk-free interest rate, \( T \) is the time to expiration, and \( N \) is the [cumulative distribution function](../c/cumulative_distribution_function_in_trading.md) of the standard [normal distribution](../n/normal_distribution_in_trading.md).
 
 ### Integration in Algorithmic Trading
 Algorithms use these models to:
@@ -86,7 +86,7 @@ Algorithms use these models to:
 - Manage option portfolios systematically.
 
 ### Tools and Software
-- **Python Libraries**: `[QuantLib](../q/quantlib.md)`, `numpy`, `scipy` for numerical methods.
+- **Python Libraries**: `[QuantLib](../q/quantlib.md)`, `numpy`, `scipy` for [numerical methods](../n/numerical_methods_in_trading.md).
 - **Platforms**: Deribit, CME Group platforms for trading options.
 
 ## 5. Machine Learning-Based Valuation
@@ -94,8 +94,8 @@ Algorithms use these models to:
 Machine learning approaches deploy advanced algorithms to predict the value of assets by learning from vast amounts of historical data. These models can capture non-linear relationships and complex patterns that traditional models might miss.
 
 ### Techniques
-1. **Regression Models**: [Linear regression](../l/linear_regression.md), [support vector regression](../s/support_vector_regression.md), random forests.
-2. **Neural Networks**: Deep learning models, including Long Short Term Memory (LSTM) networks.
+1. **Regression Models**: [Linear regression](../l/linear_regression.md), [support vector regression](../s/support_vector_regression.md), [random forests](../r/random_forests_in_trading.md).
+2. **[Neural Networks](../n/neural_networks_in_trading.md)**: Deep learning models, including Long Short Term Memory (LSTM) networks.
 3. **Reinforcement Learning**: Methods that learn optimal decision-making strategies.
 
 ### Integration in Algorithmic Trading

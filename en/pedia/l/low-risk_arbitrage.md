@@ -24,7 +24,7 @@ This is a specialized form of [arbitrage](../a/arbitrage.md) focused on the acqu
 
 ## Implementation in Algorithmic Trading
 
-[Algorithmic trading](../a/algorithmic_trading.md) platforms use advanced mathematical models and statistical techniques to automate low-risk [arbitrage](../a/arbitrage.md) strategies. These platforms are capable of executing large numbers of orders at high speeds, which is essential for capturing profits from brief price discrepancies.
+[Algorithmic trading](../a/algorithmic_trading.md) platforms use advanced [mathematical models](../m/mathematical_models_in_trading.md) and statistical techniques to automate low-risk [arbitrage](../a/arbitrage.md) strategies. These platforms are capable of executing large numbers of orders at high speeds, which is essential for capturing profits from brief price discrepancies.
 
 ### Technology Stack
 

@@ -70,7 +70,7 @@ Breakout strategies are widely used in conjunction with continuation patterns. T
 
 ### Machine Learning Models
 
-Machine learning models, such as neural networks and support vector machines, can be employed to enhance the accuracy of [pattern recognition](../p/pattern_recognition.md) and prediction. By training these models on extensive datasets, they can identify complex relationships and patterns that might not be easily discernible through traditional methods. These models can then be integrated into [trading algorithms](../t/trading_algorithms.md) to improve the precision of trade execution based on continuation patterns.
+Machine learning models, such as [neural networks](../n/neural_networks_in_trading.md) and [support vector machines](../s/support_vector_machines_in_trading.md), can be employed to enhance the accuracy of [pattern recognition](../p/pattern_recognition.md) and prediction. By training these models on extensive datasets, they can identify complex relationships and patterns that might not be easily discernible through traditional methods. These models can then be integrated into [trading algorithms](../t/trading_algorithms.md) to improve the precision of trade execution based on continuation patterns.
 
 ## Real-World Examples
 

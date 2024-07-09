@@ -26,7 +26,7 @@ While more commonly used in machine learning, cross-validation can also be adapt
 
 ### 4. Bootstrapping
 
-Bootstrapping involves randomly sampling from the original data with replacement to create multiple synthetic datasets. The strategy is then tested across these datasets to assess its robustness. While bootstrapping can provide insights into the statistical significance of the strategy, it requires careful handling to ensure that the temporal dependencies in the data are properly addressed.
+Bootstrapping involves randomly sampling from the original data with replacement to create multiple synthetic datasets. The strategy is then tested across these datasets to assess its robustness. While bootstrapping can provide insights into the statistical significance of the strategy, it requires careful handling to ensure that the [temporal dependencies](../t/temporal_dependencies_in_trading.md) in the data are properly addressed.
 
 ## Implementing Out-of-Sample Testing
 

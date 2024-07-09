@@ -63,11 +63,11 @@ In this example, the weighted beta of the portfolio is 0.84.
 
 - **Quants and Hedge Funds:** [Quantitative hedge funds](../q/quantitative_hedge_funds.md) often rely on complex models that incorporate weighted beta for asset pricing and [risk management](../r/risk_management.md).
 - **Institutional Investors:** Large institutional investors, such as pension funds and mutual funds, utilize weighted beta to manage diversified portfolios systematically.
-For example, BlackRock employs sophisticated risk models incorporating weighted beta to manage its portfolios. You can read more about their approach on their [website](https://www.blackrock.com).
+For example, BlackRock employs sophisticated [risk models](../r/risk_models_in_trading.md) incorporating weighted beta to manage its portfolios. You can read more about their approach on their [website](https://www.blackrock.com).
 
 ### Tools and Software
 
-Various financial software tools and platforms assist traders in computing and utilizing weighted beta:
+Various financial [software tools](../s/software_tools_for_trading.md) and platforms assist traders in computing and utilizing weighted beta:
 - **[Bloomberg](../b/bloomberg.md) Terminal:** Offers integrated beta calculation tools accommodating custom-weighting schemes.
 - **R and Python Libraries:** [Financial modeling](../f/financial_modeling.md) libraries such as `quantmod` in R and `pandas`/`numpy` in Python provide functionalities for beta calculation and [portfolio analysis](../p/portfolio_analysis.md).
 - **[QuantConnect](../q/quantconnect.md) and MetaTrader:** [Algorithmic trading](../a/algorithmic_trading.md) platforms that support the integration of custom financial metrics, including weighted beta.

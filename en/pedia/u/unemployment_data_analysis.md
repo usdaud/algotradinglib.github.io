@@ -72,19 +72,19 @@ The quality of data used in unemployment analysis is paramount. Factors affectin
 ### Econometric Models
 - **[Regression Analysis](../r/regression_analysis.md)**: Used to identify factors that influence unemployment rates, such as economic growth, policy changes, or demographic shifts.
   
-- **Structural Models**: These models take into account more complex relationships, often embedding economic theory to predict unemployment.
+- **[Structural Models](../s/structural_models_in_trading.md)**: These models take into account more complex relationships, often embedding economic theory to predict unemployment.
 
 ### Machine Learning
-With the advent of big data, machine learning techniques are becoming more prevalent in unemployment data analysis:
-- **[Predictive Modeling](../p/predictive_modeling.md)**: Techniques like [decision trees](../d/decision_trees.md), neural networks, and support vector machines are used to forecast future unemployment rates.
+With the advent of [big data](../b/big_data_in_trading.md), machine learning techniques are becoming more prevalent in unemployment data analysis:
+- **[Predictive Modeling](../p/predictive_modeling.md)**: Techniques like [decision trees](../d/decision_trees.md), [neural networks](../n/neural_networks_in_trading.md), and [support vector machines](../s/support_vector_machines_in_trading.md) are used to forecast future unemployment rates.
   
-- **Natural Language Processing**: Analyzing job postings and resumes can provide additional insights into labor market trends.
+- **[Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md)**: Analyzing job postings and resumes can provide additional insights into labor market trends.
 
 ### Data Visualization
 Effective [data visualization](../d/data_visualization.md) helps in comprehending and communicating complex unemployment data:
 - **Charts and Graphs**: Line graphs, bar charts, and pie charts are basic tools for visualizing trends and distributions.
 
-- **Heatmaps and Geographic Maps**: These can show regional variations and hotspots of high or low unemployment.
+- **[Heatmaps](../h/heatmaps_in_trading.md) and Geographic Maps**: These can show regional variations and hotspots of high or low unemployment.
 
 ## Case Studies and Applications
 

@@ -7,7 +7,7 @@ Value at Risk (VaR) is a widely-used risk metric that estimates the potential lo
 
 #### Calculation Methods:
 - **Historical Method**: This approach involves looking at historical data to determine potential future losses.
-- **[Variance-Covariance Method](../v/variance-covariance_method.md)**: Assumes normal distribution and uses mean-[variance analysis](../v/variance_analysis.md) to estimate risk.
+- **[Variance-Covariance Method](../v/variance-covariance_method.md)**: Assumes [normal distribution](../n/normal_distribution_in_trading.md) and uses mean-[variance analysis](../v/variance_analysis.md) to estimate risk.
 - **[Monte Carlo Simulation](../m/monte_carlo_simulation.md)**: Uses random sampling and statistical modeling to estimate potential future losses.
 
 ### 2. Conditional Value at Risk (CVaR)

@@ -42,7 +42,7 @@ Load balancing distributes trading activity across different systems or market v
 #### 4. **Scalability Solutions**
 
 Enhancing the scalability of both hardware and software systems can mitigate oversubscription risks:
-- **Cloud Computing**: Leveraging cloud infrastructure to dynamically scale computational resources.
+- **[Cloud Computing](../c/cloud_computing_in_trading.md)**: Leveraging cloud infrastructure to dynamically scale computational resources.
 - **Parallel Processing**: Utilizing multi-threaded or distributed computing architectures to handle multiple orders simultaneously.
 
 ### Implementing Oversubscription Strategies
@@ -59,7 +59,7 @@ Regular updates to [trading algorithms](../t/trading_algorithms.md) to improve e
 Investment in high-performance computing resources and robust network infrastructure.
 
 #### **Simulation and Stress Testing**
-Conducting simulations and stress testing under various market scenarios to understand system limits and prepare for peak loads.
+Conducting simulations and [stress testing](../s/stress_testing_in_trading.md) under various market scenarios to understand system limits and prepare for peak loads.
 
 ### Case Studies and Industry Examples
 
@@ -72,8 +72,8 @@ Renaissance Technologies, famous for its Medallion Fund, uses intricate algorith
 ### Future Trends
 
 The rapidly evolving landscape of [algorithmic trading](../a/algorithmic_trading.md) and market dynamics suggests several future trends:
-- **Artificial Intelligence and Machine Learning**: AI and ML can predict oversubscription events and dynamically adjust strategies.
-- **Blockchain and Distributed Ledger Technology**: Enhanced transparency and decentralized networks could mitigate some oversubscription challenges.
+- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and Machine Learning**: AI and ML can predict oversubscription events and dynamically adjust strategies.
+- **[Blockchain](../b/blockchain_in_trading.md) and Distributed Ledger Technology**: Enhanced transparency and decentralized networks could mitigate some oversubscription challenges.
 - **Regulatory Evolution**: Ongoing changes in financial regulations will continue to shape and refine oversubscription strategies.
 
 ### Conclusion

@@ -36,7 +36,7 @@ One of the simplest RTM strategies involves identifying assets that are trading 
 
 Statistical [arbitrage](../a/arbitrage.md) incorporates RTM through complex algorithms and [short-term trading](../s/short-term_trading.md) strategies that leverage high-frequency trading:
 
-1. **Algorithms and Indicators**: Utilizing advanced statistical models and indicators like [Bollinger Bands](../b/bollinger_bands.md), moving averages, or z-scores to detect mean deviation.
+1. **Algorithms and Indicators**: Utilizing advanced statistical models and indicators like [Bollinger Bands](../b/bollinger_bands.md), moving averages, or [z-scores](../z/z-scores_in_trading.md) to detect mean deviation.
 2. **High-Frequency Execution**: Placing thousands of trades rapidly to exploit small reversion opportunities.
 
 ## Key Considerations for RTM Strategies
@@ -63,11 +63,11 @@ Some prominent hedge funds and trading firms leverage RTM strategies using sophi
 
 ### Renaissance Technologies
 
-[Renaissance Technologies](https://www.rentec.com/) is a highly acclaimed quantitative hedge fund known for employing complex mathematical models and algorithms. Their Medallion Fund has been famous for achieving stellar returns by exploiting small and predictable market inefficiencies, possibly including RTM strategies.
+[Renaissance Technologies](https://www.rentec.com/) is a highly acclaimed quantitative hedge fund known for employing complex [mathematical models](../m/mathematical_models_in_trading.md) and algorithms. Their Medallion Fund has been famous for achieving stellar returns by exploiting small and predictable market inefficiencies, possibly including RTM strategies.
 
 ### Two Sigma Investments
 
-[Two Sigma Investments](https://www.twosigma.com/) uses data science and technology to capitalize on [market anomalies](../m/market_anomalies.md). Employing machine learning and large datasets, the firm remains at the forefront of statistical [arbitrage](../a/arbitrage.md) and other RTM-related strategies.
+[Two Sigma Investments](https://www.twosigma.com/) uses [data science](../d/data_science_in_trading.md) and technology to capitalize on [market anomalies](../m/market_anomalies.md). Employing machine learning and large datasets, the firm remains at the forefront of statistical [arbitrage](../a/arbitrage.md) and other RTM-related strategies.
 
 ### AQR Capital Management
 

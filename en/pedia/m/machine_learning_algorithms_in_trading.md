@@ -16,33 +16,33 @@ Machine Learning involves training algorithms to learn from data without being e
 Various ML algorithms are employed in trading, each with its unique strengths and applications. Some of the most common include:
 
 ##### 2.1. Supervised Learning
-Supervised learning algorithms are used when we have a labeled dataset. That is, the dataset contains both input variables and the corresponding output values.
+Supervised [learning algorithms](../l/learning_algorithms_in_trading.md) are used when we have a labeled dataset. That is, the dataset contains both input variables and the corresponding output values.
 
 ###### 2.1.1. Regression Models
 Regression models predict a continuous output variable based on input variables. Common regression algorithms include:
 - **[Linear Regression](../l/linear_regression.md)**: Predicts the output as a linear combination of input features.
-- **[Support Vector Regression](../s/support_vector_regression.md) (SVR)**: Uses support vector machines to predict continuous outcomes.
-- **Neural Networks**: Can model complex nonlinear relationships.
+- **[Support Vector Regression](../s/support_vector_regression.md) (SVR)**: Uses [support vector machines](../s/support_vector_machines_in_trading.md) to predict continuous outcomes.
+- **[Neural Networks](../n/neural_networks_in_trading.md)**: Can model complex nonlinear relationships.
 
 ###### 2.1.2. Classification Models
 Classification models predict discrete outputs. Typical [classification algorithms](../c/classification_algorithms.md) include:
-- **Logistic Regression**: Used for binary classification problems.
+- **[Logistic Regression](../l/logistic_regression_in_trading.md)**: Used for binary classification problems.
 - **[Decision Trees](../d/decision_trees.md)**: A flowchart-like structure of decisions.
-- **Random Forests**: An ensemble of [decision trees](../d/decision_trees.md) to improve prediction accuracy.
-- **Support Vector Machines (SVM)**: Finds a hyperplane that best divides a dataset into classes.
-- **Neural Networks**: Used for more complex classification tasks.
+- **[Random Forests](../r/random_forests_in_trading.md)**: An ensemble of [decision trees](../d/decision_trees.md) to improve prediction accuracy.
+- **[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM)**: Finds a hyperplane that best divides a dataset into classes.
+- **[Neural Networks](../n/neural_networks_in_trading.md)**: Used for more complex classification tasks.
 
 ##### 2.2. Unsupervised Learning
-Unsupervised learning algorithms are used when the dataset does not have labeled outputs. These algorithms aim to identify the inherent structure in the data.
+Unsupervised [learning algorithms](../l/learning_algorithms_in_trading.md) are used when the dataset does not have labeled outputs. These algorithms aim to identify the inherent structure in the data.
 
 ###### 2.2.1. Clustering
 [Clustering algorithms](../c/clustering_algorithms.md) segment data into distinct groups. Examples include:
-- **K-Means Clustering**: Partitions data into K distinct clusters based on feature similarity.
+- **[K-Means Clustering](../k/k-means_clustering_in_trading.md)**: Partitions data into K distinct clusters based on feature similarity.
 - **Hierarchical Clustering**: Builds a hierarchy of clusters.
 
 ###### 2.2.2. Dimensionality Reduction
-Dimensionality reduction techniques compress data by reducing the number of random variables under consideration. Techniques include:
-- **Principal Component Analysis (PCA)**: Transforms data into principal components to reduce dimensionality.
+[Dimensionality reduction](../d/dimensionality_reduction_in_trading.md) techniques compress data by reducing the number of random variables under consideration. Techniques include:
+- **[Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA)**: Transforms data into [principal components](../p/principal_components_in_trading.md) to reduce dimensionality.
 - **t-Distributed Stochastic Neighbor Embedding (t-SNE)**: Nonlinear technique for reducing dimensions, often used for [data visualization](../d/data_visualization.md).
 
 ##### 2.3. Reinforcement Learning
@@ -52,7 +52,7 @@ Reinforcement Learning (RL) is a type of ML where an agent learns to make decisi
 Q-Learning is a value-based RL algorithm where the agent learns a function (Q-function) to estimate the value of taking a given action in a given state.
 
 ###### 2.3.2. Deep Q-Learning
-Combines Q-Learning with deep neural networks to handle larger and more complex state spaces.
+Combines Q-Learning with deep [neural networks](../n/neural_networks_in_trading.md) to handle larger and more complex state spaces.
 
 ###### 2.3.3. Policy Gradient Methods
 These methods optimize the policy directly and can handle high-dimensional action spaces.
@@ -127,11 +127,11 @@ Two Sigma is a quantitative investment management company that leverages machine
 **Website**: [Two Sigma](https://www.twosigma.com)
 
 ##### 6.3. Renaissance Technologies
-A pioneering firm in the field, Renaissance Technologies uses advanced mathematical models and ML techniques to guide its [trading strategies](../t/trading_strategies.md).
+A pioneering firm in the field, Renaissance Technologies uses advanced [mathematical models](../m/mathematical_models_in_trading.md) and ML techniques to guide its [trading strategies](../t/trading_strategies.md).
 **Website**: [Renaissance Technologies](https://www.rentec.com)
 
 ##### 6.4. Alpaca
-[Alpaca](../a/alpaca.md) offers commission-free trading API and uses machine learning algorithms to facilitate automated [trading strategies](../t/trading_strategies.md).
+[Alpaca](../a/alpaca.md) offers commission-free trading API and uses machine [learning algorithms](../l/learning_algorithms_in_trading.md) to facilitate automated [trading strategies](../t/trading_strategies.md).
 **Website**: [Alpaca](https://alpaca.markets)
 
 #### 7. Future of ML in Trading
@@ -145,6 +145,6 @@ As ML becomes more accessible, a greater number of traders and financial institu
 Ongoing research in ML is expected to produce more advanced and accurate models, further optimizing [trading strategies](../t/trading_strategies.md).
 
 ##### 7.3. Integration with Other Technologies
-Integration with blockchain, Internet of Things (IoT), and other emerging technologies could lead to more comprehensive and holistic [trading strategies](../t/trading_strategies.md).
+Integration with [blockchain](../b/blockchain_in_trading.md), Internet of Things (IoT), and other emerging technologies could lead to more comprehensive and holistic [trading strategies](../t/trading_strategies.md).
 
-Machine Learning algorithms offer immense potential to revolutionize trading by improving decision-making processes, optimizing strategies, and ultimately increasing profitability. However, it is crucial to address the challenges and keep abreast of technological advancements to harness their full potential.
+Machine [Learning algorithms](../l/learning_algorithms_in_trading.md) offer immense potential to revolutionize trading by improving decision-making processes, optimizing strategies, and ultimately increasing profitability. However, it is crucial to address the challenges and keep abreast of technological advancements to harness their full potential.

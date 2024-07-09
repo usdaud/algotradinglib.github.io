@@ -68,7 +68,7 @@ In the domain of [algorithmic trading](../a/algorithmic_trading.md) (algotrading
 ### Case Study: Two Sigma
 Two Sigma, an influential quantitative investment firm, employs an array of signals to craft its [trading strategies](../t/trading_strategies.md). By focusing on generating positive Alpha, Two Sigma utilizes vast amounts of data and sophisticated algorithms. Their approaches include:
 
-- **Data-Driven Models:** Extensive use of big data, machine learning, and artificial intelligence to uncover insights and trends that contribute to [Alpha generation](../a/alpha_generation.md).
+- **Data-Driven Models:** Extensive use of [big data](../b/big_data_in_trading.md), machine learning, and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to uncover insights and trends that contribute to [Alpha generation](../a/alpha_generation.md).
 - **[Backtesting](../b/backtesting.md):** Rigorous [backtesting](../b/backtesting.md) procedures ensure that strategies perform under various market conditions, aiming for consistent positive Alpha.
 - **Optimization:** Continuous strategy optimization, tweaking models to adapt to changing market dynamics and maintaining Alpha.
 

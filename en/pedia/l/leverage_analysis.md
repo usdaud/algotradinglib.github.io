@@ -113,7 +113,7 @@ MetaTrader is a popular trading platform that supports leveraged trading and alg
 [QuantConnect](https://www.quantconnect.com/)
 
 #### Interactive Brokers
-Interactive Brokers offers a sophisticated trading platform with access to global markets. It supports high levels of leverage and provides tools for [risk management](../r/risk_management.md) and [algorithmic trading](../a/algorithmic_trading.md).
+[Interactive Brokers](../i/interactive_brokers.md) offers a sophisticated trading platform with access to global markets. It supports high levels of leverage and provides tools for [risk management](../r/risk_management.md) and [algorithmic trading](../a/algorithmic_trading.md).
 
 [Interactive Brokers](https://www.interactivebrokers.com/)
 

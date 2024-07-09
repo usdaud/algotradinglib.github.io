@@ -84,7 +84,7 @@ Several platforms provide tools for detecting and acting upon unusual volume:
 - **[QuantConnect](../q/quantconnect.md):** This open-source [algorithmic trading](../a/algorithmic_trading.md) platform supports multiple asset classes and provides access to historical data for [backtesting](../b/backtesting.md) unusual volume strategies.
   - [QuantConnect](https://www.quantconnect.com/)
   
-- **Interactive Brokers:** Known for its trading technology, Interactive Brokers offers numerous tools for real-time volume monitoring and [algorithmic trading](../a/algorithmic_trading.md).
+- **[Interactive Brokers](../i/interactive_brokers.md):** Known for its trading technology, [Interactive Brokers](../i/interactive_brokers.md) offers numerous tools for real-time volume monitoring and [algorithmic trading](../a/algorithmic_trading.md).
   - [Interactive Brokers](https://www.interactivebrokers.com/)
 
 - **[TradeStation](../t/tradestation.md):** [TradeStation](../t/tradestation.md) provides robust tools for technical and [volume analysis](../v/volume_analysis.md), allowing traders to develop custom indicators and algorithms.
@@ -94,7 +94,7 @@ Several platforms provide tools for detecting and acting upon unusual volume:
 
 ### Data Quality
 
-The accuracy of volume data is critical for detecting unusual volume. Erroneous or incomplete data can lead to false signals, affecting trading decisions.
+The accuracy of volume data is critical for detecting unusual volume. Erroneous or incomplete data can lead to [false signals](../f/false_signals_in_trading.md), affecting trading decisions.
 
 ### Market Manipulation
 

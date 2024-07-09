@@ -1,6 +1,6 @@
 # GARCH Forecasting
 
-Generalized Autoregressive Conditional Heteroskedasticity (GARCH) models have become a cornerstone in the realm of financial econometrics, predominantly due to their ability to model and forecast financial market volatility. The development and application of [GARCH models](../g/garch_models.md) can be attributed to the pioneering works of Tim Bollerslev in the mid-1980s. These models are extensions of the Autoregressive Conditional Heteroskedasticity (ARCH) model developed by Robert F. Engle.
+Generalized Autoregressive Conditional Heteroskedasticity (GARCH) models have become a cornerstone in the realm of financial [econometrics](../e/econometrics_in_trading.md), predominantly due to their ability to model and forecast financial market volatility. The development and application of [GARCH models](../g/garch_models.md) can be attributed to the pioneering works of Tim Bollerslev in the mid-1980s. These models are extensions of the Autoregressive Conditional Heteroskedasticity (ARCH) model developed by Robert F. Engle.
 
 ### Introduction to GARCH Models
 
@@ -20,7 +20,7 @@ A GARCH(1, 1) model can be represented as:
     \( \sigma_t^2 = \omega + \alpha \epsilon_{t-1}^2 + \beta \sigma_{t-1}^2 \)
     where \( \sigma_t^2 \) is the conditional variance at time t, \( \omega \) is a constant, \( \alpha \) is the coefficient of the lagged squared returns (or ARCH term), and \( \beta \) is the coefficient of the lagged variance (or GARCH term).
 
-The error term \( \epsilon_t \) is typically assumed to follow a Normal distribution with zero mean and variance \( \sigma_t^2 \).
+The error term \( \epsilon_t \) is typically assumed to follow a [Normal distribution](../n/normal_distribution_in_trading.md) with zero mean and variance \( \sigma_t^2 \).
 
 ### Estimation and Parameter Stability
 
@@ -47,7 +47,7 @@ An important aspect of GARCH modeling is the stability of the parameters. Stabil
 The basic GARCH model has inspired numerous extensions to address various limitations and incorporate additional information:
 
 1. **EGARCH (Exponential GARCH)**:
-   Unlike the standard GARCH model, EGARCH models do not require non-negativity constraints on the parameters. They also model the leverage effect, where negative shocks may have a different impact on volatility compared to positive shocks of the same magnitude.
+   Unlike the standard GARCH model, EGARCH models do not require non-negativity constraints on the parameters. They also model the [leverage effect](../l/leverage_effect_in_trading.md), where negative shocks may have a different impact on volatility compared to positive shocks of the same magnitude.
 
 2. **GJR-GARCH (Glosten-Jagannathan-Runkle GARCH)**:
    This model includes an additional term to capture the asymmetric impact of positive and negative returns on volatility. It is particularly useful in markets where bad news tends to increase volatility more than good news.
@@ -93,16 +93,16 @@ The code snippet demonstrates loading return data, fitting a GARCH(1, 1) model, 
 
 [GARCH models](../g/garch_models.md), while powerful, are not without limitations. Real-world [financial time series](../f/financial_time_series.md) often exhibit characteristics such as:
 
-1. **Leptokurtosis**: Financial returns distributions tend to have heavier tails than the Normal distribution, leading to an underestimation of the probability of extreme events by [GARCH models](../g/garch_models.md).
+1. **Leptokurtosis**: Financial returns distributions tend to have heavier tails than the [Normal distribution](../n/normal_distribution_in_trading.md), leading to an underestimation of the probability of extreme events by [GARCH models](../g/garch_models.md).
 
-2. **Structural Breaks**: Markets are subject to structural changes due to regulatory shifts, economic crises, or technological advancements. [GARCH models](../g/garch_models.md) assume parameter stability, which may not hold true across such breaks.
+2. **[Structural Breaks](../s/structural_breaks_in_trading.md)**: Markets are subject to structural changes due to regulatory shifts, economic crises, or technological advancements. [GARCH models](../g/garch_models.md) assume parameter stability, which may not hold true across such breaks.
 
 3. **Nonlinearity and Complexity**: Financial markets are influenced by a myriad of factors, leading to complex nonlinear behaviors that can be challenging to capture with [GARCH models](../g/garch_models.md).
 
-Researchers and practitioners continually strive to address these limitations by developing more advanced models and incorporating alternative approaches such as non-parametric methods, neural networks, and other machine learning techniques.
+Researchers and practitioners continually strive to address these limitations by developing more advanced models and incorporating alternative approaches such as non-parametric methods, [neural networks](../n/neural_networks_in_trading.md), and other machine learning techniques.
 
 ### Conclusion
 
-[GARCH models](../g/garch_models.md) play an indispensable role in the toolkit of financial econometrics. Their ability to model and forecast volatility underpins various aspects of [algorithmic trading](../a/algorithmic_trading.md), including [risk management](../r/risk_management.md), option pricing, and [portfolio optimization](../p/portfolio_optimization.md). Despite their limitations, [GARCH models](../g/garch_models.md) are continually refined and augmented by new advancements in the field, ensuring their continued relevance in the ever-evolving landscape of financial markets.
+[GARCH models](../g/garch_models.md) play an indispensable role in the toolkit of financial [econometrics](../e/econometrics_in_trading.md). Their ability to model and forecast volatility underpins various aspects of [algorithmic trading](../a/algorithmic_trading.md), including [risk management](../r/risk_management.md), option pricing, and [portfolio optimization](../p/portfolio_optimization.md). Despite their limitations, [GARCH models](../g/garch_models.md) are continually refined and augmented by new advancements in the field, ensuring their continued relevance in the ever-evolving landscape of financial markets.
 
 For more detailed insights and the latest developments, exploring the resources of financial technology firms and academic publications is recommended. Notable firms like [QuantConnect](https://www.quantconnect.com/) provide platforms and resources for [algorithmic trading](../a/algorithmic_trading.md) and [quantitative research](../q/quantitative_research.md), offering practical implementations and real-world applications of models like GARCH.

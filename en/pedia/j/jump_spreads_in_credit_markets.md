@@ -21,11 +21,11 @@ Jump spreads pose both opportunities and risks for market participants, especial
 
 ### Risk Management
 
-Given the sudden nature of jump spreads, traditional [risk management](../r/risk_management.md) tools may be insufficient. Advanced methods such as Value at Risk (VaR) models and stress testing are necessary to adequately prepare for potential market shocks.
+Given the sudden nature of jump spreads, traditional [risk management](../r/risk_management.md) tools may be insufficient. Advanced methods such as Value at Risk (VaR) models and [stress testing](../s/stress_testing_in_trading.md) are necessary to adequately prepare for potential market shocks.
 
 ### Advanced Trading Algorithms
 
-Algotrading systems can be designed to detect and react to jump spreads in real-time. These systems utilize machine learning algorithms, big data analytics, and real-time processing to adjust [trading strategies](../t/trading_strategies.md) dynamically. For instance, algorithms may use historical data to predict potential jumps or to hedge against sudden spread movements.
+Algotrading systems can be designed to detect and react to jump spreads in real-time. These systems utilize machine [learning algorithms](../l/learning_algorithms_in_trading.md), [big data analytics](../b/big_data_analytics_in_trading.md), and real-time processing to adjust [trading strategies](../t/trading_strategies.md) dynamically. For instance, algorithms may use historical data to predict potential jumps or to hedge against sudden spread movements.
 
 ### Quantitative Models
 

@@ -10,7 +10,7 @@ Equity Trading refers to the buying and selling of company shares or stocks in f
 
 2. **Secondary Market**
    - **Stock Exchanges**: Platforms where previously issued shares are traded among investors. Major stock exchanges include the New York Stock Exchange (NYSE) and the Nasdaq.
-   - **Over-the-Counter (OTC) Markets**: Decentralized markets where trading occurs directly between parties, typically via brokers.
+   - **[Over-the-Counter (OTC) Markets](../o/over-the-counter_markets.md)**: Decentralized markets where trading occurs directly between parties, typically via brokers.
 
 ### Major Stock Exchanges
 
@@ -39,7 +39,7 @@ Equity Trading refers to the buying and selling of company shares or stocks in f
 
 4. **[Algorithmic Trading](../a/algorithmic_trading.md)**
    - **High-Frequency Trading (HFT)**: Using advanced algorithms and high-speed data networks to execute trades at extremely high speeds.
-   - **[Quantitative Trading](../q/quantitative_trading.md)**: Employing mathematical models and extensive data analysis to make trading decisions.
+   - **[Quantitative Trading](../q/quantitative_trading.md)**: Employing [mathematical models](../m/mathematical_models_in_trading.md) and extensive data analysis to make trading decisions.
 
 ### Equity Derivatives
 
@@ -65,8 +65,8 @@ Equity trading is subject to strict regulations to ensure fairness, transparency
 Advancements in technology have transformed equity trading. Key developments include:
 
 - **Electronic Trading Platforms**: Systems like Electronic Communication Networks (ECNs) that facilitate faster and more efficient trading.
-- **Artificial Intelligence (AI)**: Utilized for [predictive analytics](../p/predictive_analytics.md) and developing sophisticated [trading algorithms](../t/trading_algorithms.md).
-- **Blockchain Technology**: Provides enhanced security and transparency in trading through distributed ledger technology.
+- **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI)**: Utilized for [predictive analytics](../p/predictive_analytics.md) and developing sophisticated [trading algorithms](../t/trading_algorithms.md).
+- **[Blockchain](../b/blockchain_in_trading.md) Technology**: Provides enhanced security and transparency in trading through distributed ledger technology.
 
 ### Influential Companies in Equity Trading Technology
 

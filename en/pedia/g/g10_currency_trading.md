@@ -1,6 +1,6 @@
 # G10 Currency Trading
 
-G10 currency trading refers to the [foreign exchange (forex) trading](../f/foreign_exchange_(forex)_trading.md) involving the ten most heavily traded and liquid currencies in the world. The G10 currencies are from developed countries with strong, stable economies and are seen as a benchmark for global financial markets. These currencies are often preferred in forex markets for their liquidity and reliability. The G10 currencies include the US Dollar (USD), Euro (EUR), Japanese Yen (JPY), British Pound (GBP), Swiss Franc (CHF), Canadian Dollar (CAD), Australian Dollar (AUD), New Zealand Dollar (NZD), Swedish Krona (SEK), and Norwegian Krone (NOK).
+G10 [currency trading](../c/currency_trading_strategies.md) refers to the [foreign exchange (forex) trading](../f/foreign_exchange_(forex)_trading.md) involving the ten most heavily traded and liquid currencies in the world. The G10 currencies are from developed countries with strong, stable economies and are seen as a benchmark for global financial markets. These currencies are often preferred in forex markets for their liquidity and reliability. The G10 currencies include the US Dollar (USD), Euro (EUR), Japanese Yen (JPY), British Pound (GBP), Swiss Franc (CHF), Canadian Dollar (CAD), Australian Dollar (AUD), New Zealand Dollar (NZD), Swedish Krona (SEK), and Norwegian Krone (NOK).
 
 ## Key Components of G10 Currency Trading
 
@@ -34,7 +34,7 @@ G10 currency trading refers to the [foreign exchange (forex) trading](../f/forei
    - **Employment Data**: Higher employment rates can strengthen a currency through increased consumer spending and business investment.
    - **Trade Balances**: Surpluses can strengthen a currency, while deficits might weaken it.
 
-5. **Risk Factors**:
+5. **[Risk Factors](../r/risk_factors_in_trading.md)**:
    - **[Geopolitical Events](../g/geopolitical_events.md)**: Political instability, wars, and elections can lead to volatile currency movements.
    - **Economic Policies**: Fiscal policies, trade agreements, and economic reforms can alter currency value.
    - **Market Sentiment**: Investor confidence and speculative activities can drive market trends and currency prices.
@@ -90,7 +90,7 @@ Several firms specialize in [algorithmic trading](../a/algorithmic_trading.md) o
 
 1. **XTX Markets**:
    - Website: [XTX Markets](https://www.xtxmarkets.com)
-   - Overview: A leading electronic market maker, XTX Markets excels in providing liquidity in G10 currency pairs using sophisticated algorithms and quantitative strategies.
+   - Overview: A leading electronic market maker, XTX Markets excels in providing liquidity in G10 currency pairs using sophisticated algorithms and [quantitative strategies](../q/quantitative_strategies_in_trading.md).
 
 2. **Citadel Securities**:
    - Website: [Citadel Securities](https://www.citadelsecurities.com)
@@ -110,4 +110,4 @@ Several firms specialize in [algorithmic trading](../a/algorithmic_trading.md) o
 
 ## Conclusion
 
-G10 currency trading represents a fundamental aspect of the global financial market, encompassing a wide range of participants, [trading strategies](../t/trading_strategies.md), and economic factors. The integration of [algorithmic trading](../a/algorithmic_trading.md) further amplifies the significance of G10 currencies by promoting efficiency, accuracy, and speed in executing trades. As technology continues to evolve, the role of algotrading in G10 currency markets will likely expand, shaping the future of forex trading.
+G10 [currency trading](../c/currency_trading_strategies.md) represents a fundamental aspect of the global financial market, encompassing a wide range of participants, [trading strategies](../t/trading_strategies.md), and economic factors. The integration of [algorithmic trading](../a/algorithmic_trading.md) further amplifies the significance of G10 currencies by promoting efficiency, accuracy, and speed in executing trades. As technology continues to evolve, the role of algotrading in G10 currency markets will likely expand, shaping the future of forex trading.

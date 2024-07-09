@@ -24,14 +24,14 @@ A trading strategy involves a set of rules and logic that dictate when to enter 
 
 Once the strategy is defined, implementing it in a backtesting environment is the next step. This involves:
 
-- **Simulation Software**: Specialized backtesting software platforms like MetaTrader, [QuantConnect](../q/quantconnect.md), or custom-built systems in programming languages like Python (using libraries like [Backtrader](../b/backtrader.md) or Zipline).
+- **[Simulation](../s/simulation_in_trading.md) Software**: Specialized backtesting [software platforms](../s/software_platforms_for_trading.md) like MetaTrader, [QuantConnect](../q/quantconnect.md), or custom-built systems in programming languages like Python (using libraries like [Backtrader](../b/backtrader.md) or Zipline).
 - **[Trading Costs](../t/trading_costs.md)**: Incorporate realistic assumptions about [trading costs](../t/trading_costs.md), including commissions, slippage, and spreads.
-- **Initial Capital**: Define the starting capital for the simulation.
+- **Initial Capital**: Define the starting capital for the [simulation](../s/simulation_in_trading.md).
 - **Timeframe**: Specify the interval for the backtesting period (e.g., daily, hourly).
 
 ## Running the Backtest
 
-Executing the backtest involves running the trading strategy against the historical data within the simulation environment. The software will simulate the buying and selling actions as per the strategy and record the performance outcomes. It’s important to:
+Executing the backtest involves running the trading strategy against the historical data within the [simulation](../s/simulation_in_trading.md) environment. The software will simulate the buying and selling actions as per the strategy and record the performance outcomes. It’s important to:
 
 - **Debugging**: Check for errors in logic and implementation.
 - **[Performance Metrics](../p/performance_metrics.md)**: Evaluate metrics like total return, average return, [Sharpe ratio](../s/sharpe_ratio.md), maximum drawdown, and win/loss rate.
@@ -43,7 +43,7 @@ The final step in backtesting is analyzing the results to determine the strategy
 
 - **[Out-of-Sample Testing](../o/out-of-sample_testing.md)**: Ensure robustness by testing the strategy on data that was not previously used during the initial backtesting phase.
 - **Parameter Optimization**: Adjust and refine the strategy parameters to improve [performance metrics](../p/performance_metrics.md).
-- **Stress Testing**: Analyze how the strategy performs under extreme market conditions.
+- **[Stress Testing](../s/stress_testing_in_trading.md)**: Analyze how the strategy performs under extreme market conditions.
 
 ## Continuous Improvement
 

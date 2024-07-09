@@ -82,7 +82,7 @@ Zero-beta portfolios can be employed in volatility [arbitrage](../a/arbitrage.md
 
 - **Lower Expected Returns**: Often, the returns are not as high as those of high-beta portfolios.
 - **Complex Management**: Requires continuous monitoring and adjustment, potentially incurring higher transaction costs.
-- **Limited Upside Potential**: In bullish markets, the performance might lag compared to market portfolios.
+- **Limited [Upside Potential](../u/upside_potential_in_trading.md)**: In bullish markets, the performance might lag compared to market portfolios.
 
 ## Examples of Companies Employing Zero-Beta Portfolios
 

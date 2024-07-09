@@ -38,7 +38,7 @@ MetaTrader 5 (MT5) is another popular unified trading platform, particularly in 
 
 ### Interactive Brokers Trader Workstation
 
-Interactive Brokers' Trader Workstation (TWS) is a powerful unified trading platform catering to both retail and institutional traders. TWS offers access to a wide range of financial instruments and markets, supports [algorithmic trading](../a/algorithmic_trading.md), and includes advanced [risk management](../r/risk_management.md) and reporting tools. For more information, visit [Interactive Brokers](https://www.interactivebrokers.com/en/index.php?f=14099).
+[Interactive Brokers](../i/interactive_brokers.md)' Trader Workstation (TWS) is a powerful unified trading platform catering to both retail and institutional traders. TWS offers access to a wide range of financial instruments and markets, supports [algorithmic trading](../a/algorithmic_trading.md), and includes advanced [risk management](../r/risk_management.md) and reporting tools. For more information, visit [Interactive Brokers](https://www.interactivebrokers.com/en/index.php?f=14099).
 
 ### TradeStation
 
@@ -96,7 +96,7 @@ Unified trading platforms must comply with various regulatory requirements, whic
 
 ### Artificial Intelligence and Machine Learning Integration
 
-The integration of artificial intelligence (AI) and machine learning (ML) into unified trading platforms is a growing trend. These technologies can enhance [algorithmic trading](../a/algorithmic_trading.md) strategies by providing advanced data analysis, [pattern recognition](../p/pattern_recognition.md), and [predictive analytics](../p/predictive_analytics.md) capabilities.
+The integration of [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning (ML) into unified trading platforms is a growing trend. These technologies can enhance [algorithmic trading](../a/algorithmic_trading.md) strategies by providing advanced data analysis, [pattern recognition](../p/pattern_recognition.md), and [predictive analytics](../p/predictive_analytics.md) capabilities.
 
 ### Cloud-Based Solutions
 
@@ -112,8 +112,8 @@ As trading technology evolves, there is a growing focus on improving the user ex
 
 ### Blockchain and Distributed Ledger Technology
 
-The adoption of blockchain and distributed ledger technology (DLT) in trading platforms is another emerging trend. These technologies can enhance transparency, security, and efficiency in trading processes, paving the way for more robust and trustworthy trading platforms.
+The adoption of [blockchain](../b/blockchain_in_trading.md) and distributed ledger technology (DLT) in trading platforms is another emerging trend. These technologies can enhance transparency, security, and efficiency in trading processes, paving the way for more robust and trustworthy trading platforms.
 
 ## Conclusion
 
-Unified trading platforms play a crucial role in the realm of [algorithmic trading](../a/algorithmic_trading.md), offering a comprehensive and integrated solution for executing trades, managing risk, and optimizing [trading strategies](../t/trading_strategies.md). By consolidating various trading functions into a single system, these platforms enhance trading efficiency, data access, and [risk management](../r/risk_management.md) capabilities. While there are challenges and considerations to address, the future of unified trading platforms looks promising, with advancements in AI, cloud computing, interoperability, user experience, and blockchain technology set to shape the next generation of [trading systems](../t/trading_systems.md).
+Unified trading platforms play a crucial role in the realm of [algorithmic trading](../a/algorithmic_trading.md), offering a comprehensive and integrated solution for executing trades, managing risk, and optimizing [trading strategies](../t/trading_strategies.md). By consolidating various trading functions into a single system, these platforms enhance trading efficiency, data access, and [risk management](../r/risk_management.md) capabilities. While there are challenges and considerations to address, the future of unified trading platforms looks promising, with advancements in AI, [cloud computing](../c/cloud_computing_in_trading.md), interoperability, user experience, and [blockchain](../b/blockchain_in_trading.md) technology set to shape the next generation of [trading systems](../t/trading_systems.md).

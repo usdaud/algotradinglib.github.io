@@ -20,7 +20,7 @@ The market is typically represented as a broad index like the S&P 500. Beta meas
 ### Importance and Advantages of Low Beta Strategies
 
 #### Lower Volatility
-Low beta strategies are favorable in times of market uncertainty or downturns. They carry less market risk and are less likely to see drastic declines during broad market sell-offs. This makes them attractive to risk-averse investors.
+Low beta strategies are favorable in times of market [uncertainty](../u/uncertainty_in_trading.md) or downturns. They carry less market risk and are less likely to see drastic declines during broad market sell-offs. This makes them attractive to risk-averse investors.
 
 #### Enhanced Risk-Adjusted Returns
 Low beta stocks tend to provide better risk-adjusted returns over the long term. This is because they incur less downside risk while still offering potential for appreciation. The reduced volatility can lead to more stable returns.
@@ -57,7 +57,7 @@ There are various tools and platforms available for implementing [algorithmic tr
 - **Quantopian**: Although it has shut down, Quantopian was a significant platform in the [algorithmic trading](../a/algorithmic_trading.md) community. It allowed users to create and backtest strategies using Python.
   - [Quantopian Archive](https://quantpedia.com/quantopian-alternative-sources/)
 
-- **Interactive Brokers (IB)**: Known for its comprehensive API that supports various programming languages, making it suitable for implementing and automating [trading strategies](../t/trading_strategies.md).
+- **[Interactive Brokers](../i/interactive_brokers.md) (IB)**: Known for its comprehensive API that supports various programming languages, making it suitable for implementing and automating [trading strategies](../t/trading_strategies.md).
   - [Interactive Brokers](https://www.interactivebrokers.com/)
 
 ### Case Studies of Low Beta Strategies

@@ -44,7 +44,7 @@ There are several methodologies to handle outperformance tracking, each designed
 
 2. **Risk-Adjusted Performance Evaluation**
    - **Method**: Assessing the strategy's returns relative to its risk, utilizing metrics like the [Sharpe Ratio](../s/sharpe_ratio.md) and [Sortino Ratio](../s/sortino_ratio.md).
-   - **Pros**: Provides a more holistic view by incorporating risk factors.
+   - **Pros**: Provides a more holistic view by incorporating [risk factors](../r/risk_factors_in_trading.md).
    - **Cons**: Requires sophisticated computation and comprehensive risk assessment.
 
 3. **Monte Carlo Simulations**
@@ -59,7 +59,7 @@ There are several methodologies to handle outperformance tracking, each designed
 
 ### Technologies and Tools for Outperformance Tracking
 
-Modern outperformance tracking employs advanced technologies and software tools to achieve precise measurement. Key technologies include:
+Modern outperformance tracking employs advanced technologies and [software tools](../s/software_tools_for_trading.md) to achieve precise measurement. Key technologies include:
 
 1. **[Quantitative Analysis](../q/quantitative_analysis.md) Platforms**
    - Platforms like [QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/) offer sophisticated [backtesting](../b/backtesting.md) and live trading environments where traders can deploy and analyze their strategies. They support various languages like Python and C#, enabling comprehensive [quantitative research](../q/quantitative_research.md) and performance tracking.
@@ -113,7 +113,7 @@ Outperformance tracking, while vital, comes with its set of challenges. Addressi
    - Performance tracking isn’t a one-time activity. Continuous, real-time monitoring and adjustment ensure the strategy remains effective amidst evolving market conditions.
 
 5. **[Risk Management](../r/risk_management.md)**:
-   - Integrate comprehensive [risk management](../r/risk_management.md) practices. Use tools such as VaR, stress testing, and scenario analysis to preemptively identify and mitigate potential risks.
+   - Integrate comprehensive [risk management](../r/risk_management.md) practices. Use tools such as VaR, [stress testing](../s/stress_testing_in_trading.md), and scenario analysis to preemptively identify and mitigate potential risks.
 
 ### Conclusion
 

@@ -44,7 +44,7 @@ Regulation SCI, initiated by the SEC, mandates that critical market infrastructu
 
 #### MiFID II (Markets in Financial Instruments Directive II)
 
-MiFID II, a regulation by ESMA, aims to enhance transparency and oversight in the financial markets. Among its numerous provisions, MiFID II imposes specific requirements for firms engaged in [algorithmic trading](../a/algorithmic_trading.md), such as maintaining accurate records, stress testing algorithms, and ensuring proper risk controls.
+MiFID II, a regulation by ESMA, aims to enhance transparency and oversight in the financial markets. Among its numerous provisions, MiFID II imposes specific requirements for firms engaged in [algorithmic trading](../a/algorithmic_trading.md), such as maintaining accurate records, [stress testing](../s/stress_testing_in_trading.md) algorithms, and ensuring proper risk controls.
 
 ### Mandatory Reporting and Documentation
 
@@ -88,13 +88,13 @@ Navinder Singh Sarao, a UK-based trader, was implicated in the 2010 Flash Crash.
 
 #### Knight Capital's Algorithmic Error
 
-In 2012, Knight Capital Group suffered a significant loss due to a faulty algorithm that flooded the market with errant trades. This incident underscored the necessity for robust pre-trade risk controls and stress testing of algorithms, prompting regulators to tighten oversight of [algorithmic trading](../a/algorithmic_trading.md) activities.
+In 2012, Knight Capital Group suffered a significant loss due to a faulty algorithm that flooded the market with errant trades. This incident underscored the necessity for robust pre-trade risk controls and [stress testing](../s/stress_testing_in_trading.md) of algorithms, prompting regulators to tighten oversight of [algorithmic trading](../a/algorithmic_trading.md) activities.
 
 ### Future Directions
 
 #### Emerging Technologies
 
-Technologies such as artificial intelligence (AI) and machine learning (ML) are increasingly being integrated into [algorithmic trading](../a/algorithmic_trading.md) strategies. These advancements pose new challenges for regulators as they need to update existing frameworks to accommodate fast-evolving technologies.
+Technologies such as [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and machine learning (ML) are increasingly being integrated into [algorithmic trading](../a/algorithmic_trading.md) strategies. These advancements pose new challenges for regulators as they need to update existing frameworks to accommodate fast-evolving technologies.
 
 #### Global Coordination
 

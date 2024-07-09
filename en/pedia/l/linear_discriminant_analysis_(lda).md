@@ -1,12 +1,12 @@
 # Linear Discriminant Analysis (LDA)
 
-Linear Discriminant Analysis (LDA) is a classification and dimensionality reduction technique that finds a linear combination of features to separate two or more classes of objects or events. It is used extensively in statistics, [pattern recognition](../p/pattern_recognition.md), and machine learning. In the context of [algorithmic trading](../a/algorithmic_trading.md), LDA can be utilized for developing predictive models that can accurately classify [financial time series](../f/financial_time_series.md) data, detect market regimes, or identify profitable [trading signals](../t/trading_signals.md).
+Linear Discriminant Analysis (LDA) is a classification and [dimensionality reduction](../d/dimensionality_reduction_in_trading.md) technique that finds a linear combination of features to separate two or more classes of objects or events. It is used extensively in statistics, [pattern recognition](../p/pattern_recognition.md), and machine learning. In the context of [algorithmic trading](../a/algorithmic_trading.md), LDA can be utilized for developing [predictive models](../p/predictive_models_in_trading.md) that can accurately classify [financial time series](../f/financial_time_series.md) data, detect market regimes, or identify profitable [trading signals](../t/trading_signals.md).
 
 ## Overview of LDA
 
 LDA aims to achieve three main objectives:
 1. **Deterministic Separation**: LDA determines a hyperplane that best separates two or more classes.
-2. **Dimensionality Reduction**: It reduces the dimensionality of the dataset by projecting it into a lower-dimensional space.
+2. **[Dimensionality Reduction](../d/dimensionality_reduction_in_trading.md)**: It reduces the dimensionality of the dataset by projecting it into a lower-dimensional space.
 3. **Maximizing Class Separability**: By creating a new axis, LDA maximizes the distance between means of different classes while minimizing the variance within each class.
 
 ## Mathematical Foundation
@@ -66,7 +66,7 @@ LDA can also be applied in [portfolio management](../p/portfolio_management.md) 
 ### Advantages
 - **Simplicity**: LDA is straightforward to implement and interpret.
 - **Efficiency**: It is computationally efficient, making it suitable for large datasets.
-- **Dimensionality Reduction**: LDA reduces the computational complexity by lowering the feature space.
+- **[Dimensionality Reduction](../d/dimensionality_reduction_in_trading.md)**: LDA reduces the computational complexity by lowering the feature space.
 
 ### Disadvantages
 - **Assumption of Normality**: LDA assumes that the data is normally distributed and classes have similar covariance matrices, which may not hold in all financial datasets.
@@ -122,6 +122,6 @@ In the above code, historical prices are loaded and features are engineered. The
 
 ## Conclusion
 
-Linear Discriminant Analysis (LDA) is a powerful tool in the arsenal of an algorithmic trader. It provides a straightforward approach to classification and dimensionality reduction, which is particularly useful for detecting [trading signals](../t/trading_signals.md), identifying market regimes, or managing portfolios. While it has certain limitations, understanding its core principles and applications can significantly enhance [trading strategies](../t/trading_strategies.md) in financial markets.
+Linear Discriminant Analysis (LDA) is a powerful tool in the arsenal of an algorithmic trader. It provides a straightforward approach to classification and [dimensionality reduction](../d/dimensionality_reduction_in_trading.md), which is particularly useful for detecting [trading signals](../t/trading_signals.md), identifying market regimes, or managing portfolios. While it has certain limitations, understanding its core principles and applications can significantly enhance [trading strategies](../t/trading_strategies.md) in financial markets.
 
 For further information on the implementation of LDA in [algorithmic trading](../a/algorithmic_trading.md), interested readers can refer to various financial institutions' resources like [Goldman Sachs](https://www.goldmansachs.com/), [JPMorgan Chase](https://www.jpmorganchase.com/), and [Morgan Stanley](https://www.morganstanley.com/), which often publish research and white papers on advanced quantitative methods.

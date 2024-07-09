@@ -24,7 +24,7 @@ Market makers provide liquidity to buy and sell orders. HFT firms use advanced a
 ### Arbitrage
 
 [Arbitrage](../a/arbitrage.md) strategies exploit price discrepancies between different markets or related financial instruments:
-- **Statistical [Arbitrage](../a/arbitrage.md)**: Uses mathematical models to identify price inefficiencies.
+- **Statistical [Arbitrage](../a/arbitrage.md)**: Uses [mathematical models](../m/mathematical_models_in_trading.md) to identify price inefficiencies.
 - **Cross-Currency [Arbitrage](../a/arbitrage.md)**: Trades to profit from discrepancies between different currencies.
 
 ### Momentum Trading
@@ -75,7 +75,7 @@ Citadel Securities [Citadel Securities](https://www.citadelsecurities.com) is an
 
 ### Two Sigma Securities
 
-Two Sigma Securities [Two Sigma Securities](https://www.twosigma.com) combines technology and data science to execute high-frequency transactions.
+Two Sigma Securities [Two Sigma Securities](https://www.twosigma.com) combines technology and [data science](../d/data_science_in_trading.md) to execute high-frequency transactions.
 
 ## Regulatory Landscape
 
@@ -103,7 +103,7 @@ Machine learning and AI are increasingly being integrated with HFT algorithms to
 
 ### Quantum Computing
 
-Although still in its infancy, quantum computing holds the promise of revolutionizing HFT by providing unprecedented computational power.
+Although still in its infancy, [quantum computing](../q/quantum_computing_in_trading.md) holds the promise of revolutionizing HFT by providing unprecedented computational power.
 
 ### Increased Transparency
 

@@ -5,7 +5,7 @@ In the world of financial markets, having a winning edge is crucial for consiste
 ## Types of Winning Edges
 
 ### 1. **Quantitative and Statistical Edge**
-    [Quantitative trading](../q/quantitative_trading.md) strategies rely on mathematical models and statistical analysis to identify trading opportunities. This edge often involves complex algorithms and high-frequency trading.
+    [Quantitative trading](../q/quantitative_trading.md) strategies rely on [mathematical models](../m/mathematical_models_in_trading.md) and statistical analysis to identify trading opportunities. This edge often involves complex algorithms and high-frequency trading.
 
     **Key Components:**
     - **Algorithmic Models:** Algorithms that can analyze numerous datasets and identify profitable trades.
@@ -13,8 +13,8 @@ In the world of financial markets, having a winning edge is crucial for consiste
     - **[Backtesting](../b/backtesting.md):** Using historical data to test and refine models.
 
     **Example Companies:**
-    - [Two Sigma](https://www.twosigma.com): A New York-based hedge fund that utilizes advanced technology and data science for [quantitative trading](../q/quantitative_trading.md).
-    - [Renaissance Technologies](https://www.rentec.com): Known for its Medallion Fund, which leverages sophisticated mathematical models.
+    - [Two Sigma](https://www.twosigma.com): A New York-based hedge fund that utilizes advanced technology and [data science](../d/data_science_in_trading.md) for [quantitative trading](../q/quantitative_trading.md).
+    - [Renaissance Technologies](https://www.rentec.com): Known for its Medallion Fund, which leverages sophisticated [mathematical models](../m/mathematical_models_in_trading.md).
 
 ### 2. **Technological Edge**
     A technological edge means having superior technology which provides faster execution, better data analysis, and lower latency.
@@ -22,7 +22,7 @@ In the world of financial markets, having a winning edge is crucial for consiste
     **Key Components:**
     - **High-Frequency Trading (HFT):** Utilizing algorithms to execute a large number of orders at high speed.
     - **Low-Latency Systems:** Cutting-edge hardware and network infrastructure to minimize delays in trade execution.
-    - **Artificial Intelligence (AI):** Machine learning models that adapt to changing market conditions.
+    - **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI):** Machine learning models that adapt to changing market conditions.
 
     **Example Companies:**
     - [Virtu Financial](https://www.virtu.com): A leader in HFT and market making, Virtu leverages state-of-the-art technology.
@@ -88,11 +88,11 @@ In the world of financial markets, having a winning edge is crucial for consiste
     High-frequency trading is one of the most prominent applications of a winning edge. Using advanced algorithms and high-speed data feeds, firms execute trades in fractions of a second to capture small price movements.
 
 ### Quantitative Hedge Funds
-    Hedge funds like Renaissance Technologies use quantitative strategies to generate significant returns. These funds employ mathematicians, computer scientists, and statisticians to build complex models that predict market movements.
+    Hedge funds like Renaissance Technologies use [quantitative strategies](../q/quantitative_strategies_in_trading.md) to generate significant returns. These funds employ mathematicians, computer scientists, and statisticians to build complex models that predict market movements.
 
 ### Proprietary Trading Firms
     Firms like Jane Street and IMC trade their own capital and use various strategies to exploit market inefficiencies. These firms often focus on [arbitrage](../a/arbitrage.md), market making, and other specialized trading techniques.
 
 ## Conclusion
 
-A winning edge in trading can make the difference between long-term success and failure. Whether it is through quantitative strategies, advanced technology, unique information, psychological fortitude, or regulatory expertise, having an edge means leveraging certain advantages to outperform the market. Traders need to continually evolve, adapt, and innovate to maintain their edge in the ever-changing financial landscape.
+A winning edge in trading can make the difference between long-term success and failure. Whether it is through [quantitative strategies](../q/quantitative_strategies_in_trading.md), advanced technology, unique information, psychological fortitude, or regulatory expertise, having an edge means leveraging certain advantages to outperform the market. Traders need to continually evolve, adapt, and innovate to maintain their edge in the ever-changing financial landscape.

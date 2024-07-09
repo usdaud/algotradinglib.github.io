@@ -6,7 +6,7 @@ Bayesian Optimization is a powerful strategy for the optimization of black-box f
 
 At its core, Bayesian Optimization constructs a probabilistic model—the surrogate model—of the objective function and uses this model to make decisions about where in the input space to evaluate next. The primary components of Bayesian Optimization include:
 
-1. **Surrogate Model:** This is a probabilistic model that approximates the objective function. [Gaussian Processes](../g/gaussian_processes.md) (GPs) are commonly used as surrogate models due to their flexibility and capability to capture uncertainty.
+1. **Surrogate Model:** This is a probabilistic model that approximates the objective function. [Gaussian Processes](../g/gaussian_processes.md) (GPs) are commonly used as surrogate models due to their flexibility and capability to capture [uncertainty](../u/uncertainty_in_trading.md).
 
 2. **Acquisition Function:** This function determines the next point to evaluate by trading off exploration (searching in less explored areas) and exploitation (searching in promising areas). Common acquisition functions include Expected Improvement (EI), Probability of Improvement (PI), and Upper Confidence Bound (UCB).
 
@@ -14,7 +14,7 @@ At its core, Bayesian Optimization constructs a probabilistic model—the surrog
 
 ## Gaussian Processes
 
-A Gaussian Process (GP) is a collection of random variables, any finite number of which have a joint [Gaussian distribution](../g/gaussian_distribution.md). In the context of Bayesian Optimization, GPs are favored because they can provide not only predictions of the function values at unsampled points but also quantify the uncertainty of these predictions. The GP is defined by a mean function, typically assumed to be zero, and a covariance function (or kernel), which determines the smoothness and other properties of the function.
+A Gaussian Process (GP) is a collection of random variables, any finite number of which have a joint [Gaussian distribution](../g/gaussian_distribution.md). In the context of Bayesian Optimization, GPs are favored because they can provide not only predictions of the function values at unsampled points but also quantify the [uncertainty](../u/uncertainty_in_trading.md) of these predictions. The GP is defined by a mean function, typically assumed to be zero, and a covariance function (or kernel), which determines the smoothness and other properties of the function.
 
 ### Key Concepts in GPs:
 
@@ -31,7 +31,7 @@ The acquisition function guides the search for the optimum by suggesting the nex
 
 1. **Expected Improvement (EI):** Calculates the expected improvement over the current best observation.
 2. **Probability of Improvement (PI):** Measures the probability that a new observation will improve upon the current best value.
-3. **Upper Confidence Bound (UCB):** Considers the trade-off between the predicted mean and the uncertainty of the function.
+3. **Upper Confidence Bound (UCB):** Considers the trade-off between the predicted mean and the [uncertainty](../u/uncertainty_in_trading.md) of the function.
 
 ## Bayesian Optimization Process
 
@@ -46,7 +46,7 @@ This process repeats until a stopping criterion is met, such as a maximum number
 
 ## Applications
 
-Bayesian Optimization has found applications in diverse domains due to its efficiency in optimizing expensive and noisy objective functions:
+Bayesian Optimization has found applications in diverse domains due to its efficiency in optimizing expensive and noisy [objective functions](../o/objective_functions_in_trading.md):
 
 ### Hyperparameter Tuning
 

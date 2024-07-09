@@ -11,7 +11,7 @@ OPS builds upon classical portfolio theory, originally developed by Harry Markow
 One distinguishing feature of OPS is its dynamic approach to rebalancing the [asset allocation](../a/asset_allocation.md) to adapt to changing market conditions. This is unlike traditional strategies that may only rebalance periodically (e.g., monthly, quarterly).
 
 ### Machine Learning and Data-Driven Methods
-OPS heavily employs machine learning algorithms, which utilize a wide range of data, from traditional market indicators to more complex datasets like [sentiment analysis](../s/sentiment_analysis.md) from news articles or social media.
+OPS heavily employs machine [learning algorithms](../l/learning_algorithms_in_trading.md), which utilize a wide range of data, from traditional market indicators to more complex datasets like [sentiment analysis](../s/sentiment_analysis.md) from news articles or social media.
 
 ### Transaction Costs
 In OPS, transaction costs play a significant role. Each rebalancing action incurs costs, and the algorithm must account for these to avoid negative impacts on returns. Therefore, considering transaction costs is crucial for practical application.
@@ -28,7 +28,7 @@ Momentum algorithms exploit the tendency for an asset's price to continue moving
 Proposed by Thomas Cover, universal portfolios don't require specific statistical assumptions about the asset returns. They aim to achieve performance close to the best constant-rebalanced portfolio determined in hindsight.
 
 ### Deep Learning Models
-Recently, deep learning models have gained prominence in OPS for their ability to handle vast amounts of data and capture complex patterns. LSTMs (Long Short-Term Memory networks) and CNNs (Convolutional Neural Networks) are often used for time-series forecasting and feature extraction, respectively.
+Recently, deep learning models have gained prominence in OPS for their ability to handle vast amounts of data and capture complex patterns. LSTMs (Long Short-Term Memory networks) and CNNs (Convolutional [Neural Networks](../n/neural_networks_in_trading.md)) are often used for time-series forecasting and feature extraction, respectively.
 
 ## Practical Implementations and Tools
 
@@ -55,7 +55,7 @@ Website: [Alpaca](https://alpaca.markets/)
 One of the significant risks in OPS is overfitting, where the algorithm performs exceptionally well on historical data but fails to generalize to unseen data.
 
 ### Market Regimes
-Financial markets undergo regime shifts (e.g., from bull to bear markets), and OPS strategies must be robust enough to adapt to these changes.
+Financial markets undergo [regime shifts](../r/regime_shifts_in_trading.md) (e.g., from bull to bear markets), and OPS strategies must be robust enough to adapt to these changes.
 
 ### Computational Complexity
 Advanced OPS strategies can be computationally intensive, requiring considerable processing power and efficient algorithms to operate in real-time.
@@ -81,7 +81,7 @@ Website: [Two Sigma](https://www.twosigma.com/)
 ## Future Trends
 
 ### Quantum Computing
-Quantum computing holds the potential to revolutionize OPS by solving complex optimization problems much faster than classical computers.
+[Quantum computing](../q/quantum_computing_in_trading.md) holds the potential to revolutionize OPS by solving complex optimization problems much faster than classical computers.
 
 ### Alternative Data
 Increasing the use of [alternative data](../a/alternative_data.md) sources, such as satellite images, social media activity, and web traffic, could offer novel insights for OPS strategies.

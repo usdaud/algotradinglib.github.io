@@ -53,14 +53,14 @@ In recent years, wash trading has become increasingly common in cryptocurrency m
 ### Technological Measures to Combat Wash Trading 
 
 #### Machine Learning and AI
-Modern surveillance systems employ machine learning and artificial intelligence to detect patterns and anomalies that signify wash trading. These technologies enable:
+Modern surveillance systems employ machine learning and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to detect patterns and anomalies that signify wash trading. These technologies enable:
 - **[Predictive Analytics](../p/predictive_analytics.md):** Using historical data to predict and detect unusual trading behaviors.
 - **[Pattern Recognition](../p/pattern_recognition.md):** Identifying complex patterns that are indicative of wash trading.
 
 #### Blockchain and Distributed Ledger Technology (DLT)
-In the realm of cryptocurrency and digital assets, blockchain technology offers enhanced transparency and traceability. By using immutable ledgers:
+In the realm of cryptocurrency and digital assets, [blockchain](../b/blockchain_in_trading.md) technology offers enhanced transparency and traceability. By using immutable ledgers:
 - **Traceability:** Every transaction is recorded and can be traced, making it difficult for traders to hide wash trading activities.
-- **Smart Contracts:** Automated and transparent execution of [trading rules](../t/trading_rules.md) can help in reducing the chances of wash trading.
+- **[Smart Contracts](../s/smart_contracts_in_trading.md):** Automated and transparent execution of [trading rules](../t/trading_rules.md) can help in reducing the chances of wash trading.
 
 ### Conclusion
 

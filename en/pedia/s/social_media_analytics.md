@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Social Media Analytics (SMA) involves extracting and analyzing data from social media platforms to gain insights. These insights can range from understanding user behavior, identifying trends and sentiment, to developing predictive models. In [algorithmic trading](../a/algorithmic_trading.md), social media platforms such as Twitter, Facebook, and Reddit provide a wealth of real-time information that can be harnessed to inform [trading strategies](../t/trading_strategies.md). SMA enables traders to capture public sentiment and trends as they happen, offering a competitive edge in financial markets.
+Social Media Analytics (SMA) involves extracting and analyzing data from social media platforms to gain insights. These insights can range from understanding user behavior, identifying trends and sentiment, to developing [predictive models](../p/predictive_models_in_trading.md). In [algorithmic trading](../a/algorithmic_trading.md), social media platforms such as Twitter, Facebook, and Reddit provide a wealth of real-time information that can be harnessed to inform [trading strategies](../t/trading_strategies.md). SMA enables traders to capture public sentiment and trends as they happen, offering a competitive edge in financial markets.
 
 ## Key Concepts and Components
 
@@ -57,7 +57,7 @@ Real-time analytics involves processing and analyzing data as soon as it becomes
 
 ### Data Quality and Noise
 
-Social media data can be noisy and of varying quality. Differentiating between genuine news and misinformation or spam is crucial to avoid false signals.
+Social media data can be noisy and of varying quality. Differentiating between genuine news and misinformation or spam is crucial to avoid [false signals](../f/false_signals_in_trading.md).
 
 ### Sentiment Analysis Complexity
 
@@ -65,7 +65,7 @@ Social media data can be noisy and of varying quality. Differentiating between g
 
 ### Regulatory and Ethical Considerations
 
-Using social media data for trading must adhere to regulatory guidelines and ethical standards. Issues such as data privacy and market manipulation need careful consideration.
+Using social media data for trading must adhere to regulatory guidelines and [ethical standards](../e/ethical_standards_in_trading.md). Issues such as data privacy and market manipulation need careful consideration.
 
 ## Tools and Technologies
 
@@ -97,7 +97,7 @@ Using social media data for trading must adhere to regulatory guidelines and eth
 
 ### RavenPack
 
-[RavenPack](https://www.ravenpack.com/) is a leading provider of big data analytics for financial institutions. It offers [sentiment analysis](../s/sentiment_analysis.md) tools that allow traders to gauge market sentiment from news and social media sources.
+[RavenPack](https://www.ravenpack.com/) is a leading provider of [big data analytics](../b/big_data_analytics_in_trading.md) for financial institutions. It offers [sentiment analysis](../s/sentiment_analysis.md) tools that allow traders to gauge market sentiment from news and social media sources.
 
 ### Dataminr
 

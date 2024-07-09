@@ -52,7 +52,7 @@ Momentum investing involves buying securities that have shown an upward price tr
 
 ## 5. Quantitative Investing
 
-[Quantitative investing](../q/quantitative_investing.md) leverages mathematical models and algorithms to identify investment opportunities. Strategies range from simple moving averages to complex machine learning models.
+[Quantitative investing](../q/quantitative_investing.md) leverages [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to identify investment opportunities. Strategies range from simple moving averages to complex machine learning models.
 
 - **Key Indicators**: Various depending on the model used.
 - **Notable Practitioners**: Jim Simons, Renaissance Technologies.
@@ -60,7 +60,7 @@ Momentum investing involves buying securities that have shown an upward price tr
 
 ### Tools and Techniques
 - **[Algorithmic Trading](../a/algorithmic_trading.md)**: Uses computer algorithms for execution.
-- **Machine Learning Models**: Employs sophisticated data science techniques for [predictive analytics](../p/predictive_analytics.md).
+- **Machine Learning Models**: Employs sophisticated [data science](../d/data_science_in_trading.md) techniques for [predictive analytics](../p/predictive_analytics.md).
 
 ## 6. Index Investing
 
@@ -96,7 +96,7 @@ Small-cap investing involves investing in companies with a smaller market capita
 
 ### Tools and Techniques
 - **Market Cap Analysis**: Compares companies based on their market capitalization.
-- **Growth Metrics**: Evaluates growth potential through metrics like sales and earnings growth rates.
+- **Growth Metrics**: Evaluates growth potential through metrics like sales and earnings [growth rates](../g/growth_rates_in_trading.md).
 
 ## 9. International Investing
 
@@ -124,4 +124,4 @@ Contrarian investing goes against prevailing market trends by buying stocks that
 
 ---
 
-Understanding the diverse equity investment strategies available is vital for tailoring investment choices that align with individual risk tolerance, time horizons, and financial goals. Each strategy has its unique advantages, drawbacks, and risk factors, which should be carefully considered to optimize [portfolio performance](../p/portfolio_performance.md) and achieve desired investment outcomes.
+Understanding the diverse equity investment strategies available is vital for tailoring investment choices that align with individual risk tolerance, time horizons, and financial goals. Each strategy has its unique advantages, drawbacks, and [risk factors](../r/risk_factors_in_trading.md), which should be carefully considered to optimize [portfolio performance](../p/portfolio_performance.md) and achieve desired investment outcomes.

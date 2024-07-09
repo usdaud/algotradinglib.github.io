@@ -12,7 +12,7 @@ In the world of [quantitative finance](../q/quantitative_finance.md) and [algori
 1. **Spatial [Arbitrage](../a/arbitrage.md):** Trading the same asset in different locations.
 2. **Temporal [Arbitrage](../a/arbitrage.md):** Exploiting price differences over time.
 3. **Statistical [Arbitrage](../a/arbitrage.md):** Using statistical methods to identify and exploit price inefficiencies.
-4. **Triangular [Arbitrage](../a/arbitrage.md):** Involves currency trading, exploiting discrepancies in the exchange rates between three currencies.
+4. **Triangular [Arbitrage](../a/arbitrage.md):** Involves [currency trading](../c/currency_trading_strategies.md), exploiting discrepancies in the exchange rates between three currencies.
 
 ## Why Arbitrage-Free Models?
 [Arbitrage](../a/arbitrage.md)-free models are crucial because they:

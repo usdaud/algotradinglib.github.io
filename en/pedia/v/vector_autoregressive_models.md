@@ -1,6 +1,6 @@
 # Vector Autoregressive Models (VAR)
 
-Vector Autoregressive (VAR) models are a cornerstone of multivariate [time series analysis](../t/time_series_analysis.md), pivotal in fields such as econometrics, finance, and various branches of the social sciences. These models help capture the linear interdependencies among multiple time series. Unlike univariate processes (like ARMA models), which depend only on their own past values, VAR models incorporate the past values of all variables in the system to predict future values.
+Vector Autoregressive (VAR) models are a cornerstone of multivariate [time series analysis](../t/time_series_analysis.md), pivotal in fields such as [econometrics](../e/econometrics_in_trading.md), finance, and various branches of the social sciences. These models help capture the linear interdependencies among multiple time series. Unlike univariate processes (like ARMA models), which depend only on their own past values, VAR models incorporate the past values of all variables in the system to predict future values.
 
 ### Fundamentals of VAR Models
 
@@ -15,7 +15,7 @@ where:
 - \( Y_t \) is a \( k \times 1 \) vector of endogenous variables at time \( t \),
 - \( c \) is a \( k \times 1 \) vector of intercept terms,
 - \( A_1, \ldots, A_p \) are \( k \times k \) matrices of coefficients,
-- \( \epsilon_t \) is a \( k \times 1 \) vector of white noise error terms (zero mean, constant covariance).
+- \( \epsilon_t \) is a \( k \times 1 \) vector of [white noise](../w/white_noise_in_trading.md) error terms (zero mean, constant covariance).
 
 ### Steps to Implement VAR Models
 
@@ -60,7 +60,7 @@ A VAR(p) model assumes:
 
 \[ Y_t = c + A_1 Y_{t-1} + A_2 Y_{t-2} + \ldots + A_p Y_{t-p} + \epsilon_t \]
 
-The structure ensures that each variable is regressed on its own lagged values and the lagged values of all other variables in the system. The white noise errors \( \epsilon_t \) follow:
+The structure ensures that each variable is regressed on its own lagged values and the lagged values of all other variables in the system. The [white noise](../w/white_noise_in_trading.md) errors \( \epsilon_t \) follow:
 
 \[ E(\epsilon_t) = 0 \]  
 \[ E(\epsilon_t \epsilon_t') = \Sigma_\epsilon \]
@@ -102,7 +102,7 @@ Variance Decomposition separates the variation in an endogenous variable into th
 Despite their strong utility, VAR models have limitations:
 
 1. **Overfitting**: With a large number of parameters, there's a risk of overfitting, especially in small samples.
-2. **Parameter Uncertainty**: The accuracy of forecasts can be heavily dependent on parameter estimates, which may have uncertainty.
+2. **Parameter [Uncertainty](../u/uncertainty_in_trading.md)**: The accuracy of forecasts can be heavily dependent on parameter estimates, which may have [uncertainty](../u/uncertainty_in_trading.md).
 3. **Stationarity Requirement**: Requires the data to be stationary, which may not always be the case for [financial time series](../f/financial_time_series.md).
 
 ### Advanced VAR Models

@@ -87,7 +87,7 @@ Many trading platforms and [algorithmic trading](../a/algorithmic_trading.md) se
 ### Limitations
 
 1. **Lag**: Because it is based on historical data, the 10-period SMA will always lag behind the actual price. This can lead to delayed signals.
-2. **Ineffectiveness in Volatile Markets**: In highly volatile markets, the SMA can generate false signals as it may not react quickly enough to sudden price changes.
+2. **Ineffectiveness in Volatile Markets**: In highly volatile markets, the SMA can generate [false signals](../f/false_signals_in_trading.md) as it may not react quickly enough to sudden price changes.
 3. **Equal Weighting**: The SMA gives equal weight to all periods, which may not always be ideal since more recent data could be more relevant to current conditions.
 
 ## Conclusion

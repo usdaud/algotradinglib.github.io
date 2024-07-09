@@ -43,7 +43,7 @@ Algo-traders might use [mean reversion](../m/mean_reversion.md) strategies that 
 This involves complex statistical models to identify and exploit seasonal inefficiencies between correlated assets. For instance, if two correlated assets usually diverge in price around a specific season, an [arbitrage](../a/arbitrage.md) strategy can be deployed to profit from this divergence.
 
 ### Machine Learning Models
-Using machine learning, traders can develop predictive models that incorporate a multitude of seasonal factors to forecast asset price movements. These models can be continuously refined to adapt to changing market conditions.
+Using machine learning, traders can develop [predictive models](../p/predictive_models_in_trading.md) that incorporate a multitude of seasonal factors to forecast asset price movements. These models can be continuously refined to adapt to changing market conditions.
 
 ## Tools and Resources for Market Seasonality
 

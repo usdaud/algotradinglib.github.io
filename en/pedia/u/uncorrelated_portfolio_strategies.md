@@ -54,7 +54,7 @@ Constructing a portfolio with uncorrelated strategies involves several critical 
 
 ### Identification of Uncorrelated Assets and Strategies
 
-The first step is to identify assets or strategies that exhibit low correlation. This requires rigorous statistical analysis, including calculating correlation coefficients and conducting historical performance [backtesting](../b/backtesting.md). Advanced statistical techniques like Principal Component Analysis (PCA) can also be used to identify sources of risk and return that are uncorrelated.
+The first step is to identify assets or strategies that exhibit low correlation. This requires rigorous statistical analysis, including calculating correlation coefficients and conducting historical performance [backtesting](../b/backtesting.md). Advanced statistical techniques like [Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA) can also be used to identify sources of risk and return that are uncorrelated.
 
 ### Allocation Strategy
 
@@ -76,7 +76,7 @@ Continuous monitoring and evaluation are essential to ensure that the portfolio 
 
 ### Renaissance Technologies
 
-Renaissance Technologies, founded by Jim Simons, is a prime example of a hedge fund that has successfully employed uncorrelated portfolio strategies. The firm's flagship Medallion fund utilizes sophisticated mathematical models to identify and exploit market inefficiencies across a broad range of asset classes and [trading strategies](../t/trading_strategies.md). This fund has achieved extraordinary returns while maintaining a low correlation with the broader market.
+Renaissance Technologies, founded by Jim Simons, is a prime example of a hedge fund that has successfully employed uncorrelated portfolio strategies. The firm's flagship Medallion fund utilizes sophisticated [mathematical models](../m/mathematical_models_in_trading.md) to identify and exploit market inefficiencies across a broad range of asset classes and [trading strategies](../t/trading_strategies.md). This fund has achieved extraordinary returns while maintaining a low correlation with the broader market.
 
 For more information, visit [Renaissance Technologies](https://www.rentec.com)
 
@@ -88,12 +88,12 @@ For more information, visit [Bridgewater Associates](https://www.bridgewater.com
 
 ### AQR Capital Management
 
-AQR Capital Management, co-founded by Cliff Asness, employs a range of quantitative strategies that include asset class diversification, [factor investing](../f/factor_investing.md), and alternative risk premia. The firm’s approach is systematic, relying heavily on data analysis to maintain low correlations among its various strategies.
+AQR Capital Management, co-founded by Cliff Asness, employs a range of [quantitative strategies](../q/quantitative_strategies_in_trading.md) that include asset class diversification, [factor investing](../f/factor_investing.md), and alternative risk premia. The firm’s approach is systematic, relying heavily on data analysis to maintain low correlations among its various strategies.
 
 For more information, visit [AQR Capital Management](https://www.aqr.com)
 
 ## Conclusion
 
-Uncorrelated portfolio strategies offer a robust approach to achieving diversification, reducing risk, and enhancing risk-adjusted returns. By carefully selecting and combining assets and strategies with low correlations, portfolio managers can build resilient portfolios capable of weathering diverse market conditions. With advancements in statistical analysis, [algorithmic trading](../a/algorithmic_trading.md), and data science, implementing these strategies has become increasingly accessible, enabling more sophisticated and dynamic [portfolio management](../p/portfolio_management.md).
+Uncorrelated portfolio strategies offer a robust approach to achieving diversification, reducing risk, and enhancing risk-adjusted returns. By carefully selecting and combining assets and strategies with low correlations, portfolio managers can build resilient portfolios capable of weathering diverse market conditions. With advancements in statistical analysis, [algorithmic trading](../a/algorithmic_trading.md), and [data science](../d/data_science_in_trading.md), implementing these strategies has become increasingly accessible, enabling more sophisticated and dynamic [portfolio management](../p/portfolio_management.md).
 
 The principles of uncorrelated portfolio strategies are not confined to elite hedge funds and institutional investors; they can also be adapted and applied by individual investors aiming to optimize their investment outcomes. With due diligence, rigorous analysis, and disciplined execution, uncorrelated portfolio strategies can significantly enhance the robustness and performance of an investment portfolio.

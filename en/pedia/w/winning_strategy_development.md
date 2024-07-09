@@ -25,15 +25,15 @@
   
 ### 3. **Statistical Arbitrage**
 
-Statistical [arbitrage](../a/arbitrage.md) involves complex mathematical models to identify price inefficiencies between related financial instruments, such as stocks or [derivatives](../d/derivatives.md). These strategies are usually market-neutral and involve [pairs trading](../p/pairs_trading.md), where one stock is shorted, and another is bought, assuming the price spread between them will converge. 
+Statistical [arbitrage](../a/arbitrage.md) involves complex [mathematical models](../m/mathematical_models_in_trading.md) to identify price inefficiencies between related financial instruments, such as stocks or [derivatives](../d/derivatives.md). These strategies are usually market-neutral and involve [pairs trading](../p/pairs_trading.md), where one stock is shorted, and another is bought, assuming the price spread between them will converge. 
 
 ### 4. **Market-Making**
 
-Market-making strategies provide liquidity to the market by placing both buy and sell orders for a particular asset. The strategy aims to profit from the spread between bid and ask prices. Market makers, like Virtu Financial Inc [Virtu](https://www.virtu.com/), operate with tight profit margins but high frequency and volume.
+Market-making strategies provide liquidity to the market by placing both buy and sell orders for a particular asset. The strategy aims to profit from the spread between bid and ask prices. Market makers, like Virtu Financial Inc [Virtu](https://www.virtu.com/), operate with tight [profit margins](../p/profit_margins_in_trading.md) but high frequency and volume.
 
 ### 5. **Machine Learning and AI-Based Strategies**
 
-Machine learning (ML) and artificial intelligence (AI) have made significant inroads into [algorithmic trading](../a/algorithmic_trading.md). ML algorithms use large datasets to uncover patterns and make predictions, while reinforcement learning algorithms can optimize [trading performance](../t/trading_performance.md) by learning from historical data. Key methods include:
+Machine learning (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) have made significant inroads into [algorithmic trading](../a/algorithmic_trading.md). ML algorithms use large datasets to uncover patterns and make predictions, while reinforcement [learning algorithms](../l/learning_algorithms_in_trading.md) can optimize [trading performance](../t/trading_performance.md) by learning from historical data. Key methods include:
 
 - Supervised Learning
 - Unsupervised Learning
@@ -106,11 +106,11 @@ Cloud services like Amazon Web Services (AWS), Microsoft Azure, and Google Cloud
 
 ### 3. **Big Data Technologies**
 
-Big data technologies like Apache Hadoop, Apache Spark, and NoSQL databases (MongoDB, Cassandra) are essential for handling large datasets efficiently.
+[Big data](../b/big_data_in_trading.md) technologies like Apache Hadoop, Apache Spark, and NoSQL databases (MongoDB, Cassandra) are essential for handling large datasets efficiently.
 
 ### 4. **APIs and Data Feeds**
 
-APIs from brokers and data providers like Alpha Vantage, IEX Cloud, and [Quandl](../q/quandl.md) facilitate real-time data acquisition and trading.
+APIs from brokers and data providers like Alpha Vantage, [IEX Cloud](../i/iex_cloud.md), and [Quandl](../q/quandl.md) facilitate real-time data acquisition and trading.
 
 ## Ethical Considerations
 
@@ -118,4 +118,4 @@ Developing and deploying [algorithmic trading](../a/algorithmic_trading.md) stra
 
 ## Conclusion
 
-Developing a winning strategy in [algorithmic trading](../a/algorithmic_trading.md) is a multidisciplinary effort requiring substantial expertise in mathematical modeling, data science, software engineering, and financial theories. Continuous learning and adaptation are essential to stay ahead in the ever-evolving financial markets.
+Developing a winning strategy in [algorithmic trading](../a/algorithmic_trading.md) is a multidisciplinary effort requiring substantial expertise in mathematical modeling, [data science](../d/data_science_in_trading.md), software engineering, and financial theories. Continuous learning and adaptation are essential to stay ahead in the ever-evolving financial markets.

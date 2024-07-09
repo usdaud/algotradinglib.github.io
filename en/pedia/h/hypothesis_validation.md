@@ -19,7 +19,7 @@ Validating a hypothesis is crucial because it ensures the robustness of the trad
 
 ### 1. **Formulating the Hypothesis**
 
-The first step is to clearly define the hypothesis. This involves detailing the underlying assumptions, the mathematical models or indicators used, and the expected outcomes. For instance, a hypothesis might be that "if the [50-day moving average](../1/50-day_moving_average.md) crosses above the [200-day moving average](../1/200-day_moving_average.md), the stock price will increase by at least 2% in the next 10 days."
+The first step is to clearly define the hypothesis. This involves detailing the underlying assumptions, the [mathematical models](../m/mathematical_models_in_trading.md) or indicators used, and the expected outcomes. For instance, a hypothesis might be that "if the [50-day moving average](../1/50-day_moving_average.md) crosses above the [200-day moving average](../1/200-day_moving_average.md), the stock price will increase by at least 2% in the next 10 days."
 
 ### 2. **Data Collection**
 

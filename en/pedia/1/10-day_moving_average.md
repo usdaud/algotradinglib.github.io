@@ -72,8 +72,8 @@ Despite its advantages, the 10-Day Moving Average has some limitations:
 1. **Lagging Indicator:**
    As a moving average, it is inherently a lagging indicator. It bases its calculations on past price data, which might delay signal generation during rapid price changes.
 
-2. **False Signals:**
-   In volatile markets, the 10-DMA might generate false signals, leading to potential losses if not used in conjunction with other indicators.
+2. **[False Signals](../f/false_signals_in_trading.md):**
+   In volatile markets, the 10-DMA might generate [false signals](../f/false_signals_in_trading.md), leading to potential losses if not used in conjunction with other indicators.
 
 3. **Sensitivity to Outliers:**
    The inputs' sensitivity to outliers (extreme values) can distort the moving average, potentially misleading traders.

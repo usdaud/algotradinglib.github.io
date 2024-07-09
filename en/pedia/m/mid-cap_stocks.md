@@ -1,11 +1,11 @@
 # Mid-Cap Stocks
 
-Mid-cap stocks, short for "mid-capitalization stocks", represent a segment of publicly traded companies that fall within a particular range of market capitalization. They are typically defined as companies with a market capitalization between $2 billion and $10 billion. These stocks occupy the middle ground between small-cap stocks (companies with a market capitalization under $2 billion) and large-cap stocks (companies with a market capitalization over $10 billion). Mid-cap stocks are often seen as offering a balance between growth potential and stability.
+Mid-cap stocks, short for "mid-capitalization stocks", represent a segment of publicly traded companies that fall within a particular range of market capitalization. They are typically defined as companies with a market capitalization between $2 billion and $10 billion. These stocks occupy the middle ground between small-cap stocks (companies with a market capitalization under $2 billion) and [large-cap stocks](../l/large_cap_stocks.md) (companies with a market capitalization over $10 billion). Mid-cap stocks are often seen as offering a balance between growth potential and stability.
 
 #### Characteristics of Mid-Cap Stocks
 
 1. **Growth Potential:**
-    Mid-cap stocks often represent companies in a growth phase. They have typically moved beyond the risky start-up phase but are not yet industry giants. As such, they often exhibit higher growth rates compared to large-cap companies, making them appealing for investors seeking growth potential.
+    Mid-cap stocks often represent companies in a growth phase. They have typically moved beyond the risky start-up phase but are not yet industry giants. As such, they often exhibit higher [growth rates](../g/growth_rates_in_trading.md) compared to large-cap companies, making them appealing for investors seeking growth potential.
 
 2. **Stability:**
     Compared to small-cap stocks, mid-cap stocks generally offer more stability. These companies usually have more established business models, better financial structures, and greater access to capital.
@@ -14,7 +14,7 @@ Mid-cap stocks, short for "mid-capitalization stocks", represent a segment of pu
     Mid-cap companies are significant enough to have a noticeable impact on their sectors but not large enough to dominate them entirely. They often operate in competitive environments, providing room for innovation and market share gains.
 
 4. **Risk vs. Reward:**
-    The risk profile of mid-cap stocks is generally moderate when compared to small-cap and large-cap stocks. They are less risky than small-caps but offer potentially higher returns than large-caps, assuming the company can successfully continue its growth trajectory.
+    The risk profile of mid-cap stocks is generally moderate when compared to small-cap and [large-cap stocks](../l/large_cap_stocks.md). They are less risky than small-caps but offer potentially higher returns than large-caps, assuming the company can successfully continue its growth trajectory.
 
 #### Examples of Mid-Cap Stocks
 
@@ -33,7 +33,7 @@ Mid-cap stocks, short for "mid-capitalization stocks", represent a segment of pu
 #### Advantages of Investing in Mid-Cap Stocks
 
 1. **Diversification:**
-    Including mid-cap stocks in a portfolio can enhance diversification by balancing the high-risk/high-reward dynamics of small-cap stocks with the stability of large-cap stocks.
+    Including mid-cap stocks in a portfolio can enhance diversification by balancing the high-risk/high-reward dynamics of small-cap stocks with the stability of [large-cap stocks](../l/large_cap_stocks.md).
 
 2. **Growth Opportunities:**
     Mid-cap companies often have more room to grow compared to their large-cap counterparts. They can capitalize on new market opportunities and innovative strategies more nimbly than larger firms.
@@ -42,12 +42,12 @@ Mid-cap stocks, short for "mid-capitalization stocks", represent a segment of pu
     Mid-cap companies are often seen as attractive acquisition targets for larger firms. Such acquisitions can provide significant gains for shareholders.
 
 4. **Under-Followed:**
-    Mid-cap stocks tend to be less followed by analysts compared to large-cap stocks. This can mean that mid-caps are more likely to be undervalued, providing opportunities for astute investors.
+    Mid-cap stocks tend to be less followed by analysts compared to [large-cap stocks](../l/large_cap_stocks.md). This can mean that mid-caps are more likely to be undervalued, providing opportunities for astute investors.
 
 #### Disadvantages of Investing in Mid-Cap Stocks
 
 1. **Liquidity:**
-    Mid-cap stocks might be less liquid than large-cap stocks, meaning there could be fewer shares trading, which might impact the ability to buy or sell shares quickly without affecting the stock price.
+    Mid-cap stocks might be less liquid than [large-cap stocks](../l/large_cap_stocks.md), meaning there could be fewer shares trading, which might impact the ability to buy or sell shares quickly without affecting the stock price.
 
 2. **Market Volatility:**
     While mid-caps are less volatile than small-caps, they can still exhibit significant price swings, particularly in uncertain market conditions.

@@ -78,7 +78,7 @@ Market conditions are dynamic, and so should be reversal [trading strategies](..
 
 ### 5.1 Successful Reversal Trading Algorithms
 
-Several [quantitative trading](../q/quantitative_trading.md) firms and hedge funds are known for their successful implementation of reversal [trading strategies](../t/trading_strategies.md). A notable example is Renaissance Technologies, a quantitative hedge fund that employs sophisticated mathematical models and algorithms to capitalize on market reversals. [Link to Renaissance Technologies](https://www.rentec.com)
+Several [quantitative trading](../q/quantitative_trading.md) firms and hedge funds are known for their successful implementation of reversal [trading strategies](../t/trading_strategies.md). A notable example is Renaissance Technologies, a quantitative hedge fund that employs sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to capitalize on market reversals. [Link to Renaissance Technologies](https://www.rentec.com)
 
 ### 5.2 Real-world Examples
 

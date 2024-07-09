@@ -92,7 +92,7 @@ Several companies stand at the forefront of using sophisticated techniques, incl
   
 - **Numerai** [Numerai](https://numer.ai): Uses machine learning models to predict financial markets, leveraging crowd-sourced data scientists' contributions.
   
-- **Kensho Technologies** [Kensho](https://www.kensho.com): Specializes in insights derived from artificial intelligence and natural language processing, supporting advanced financial analysis.
+- **Kensho Technologies** [Kensho](https://www.kensho.com): Specializes in insights derived from [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md), supporting advanced financial analysis.
   
 ### Conclusion
 

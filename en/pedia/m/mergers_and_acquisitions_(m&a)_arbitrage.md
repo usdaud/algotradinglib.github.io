@@ -6,7 +6,7 @@ Mergers and Acquisitions (M&A) [Arbitrage](../a/arbitrage.md) is a sophisticated
 
 ### The Basic Premise
 
-The core idea behind M&A [arbitrage](../a/arbitrage.md) is to exploit the difference between the acquisition price and the current market price of the target company's shares. When a merger or acquisition is announced, the acquiring company generally offers to purchase the target company’s shares at a premium. However, until the deal is finalized, the target company's stock typically trades at a discount to the offer price due to uncertainty and risk, primarily stems from potential regulatory hurdles, shareholder approval, or other unforeseen complications that may cause the deal to fall through or be modified.
+The core idea behind M&A [arbitrage](../a/arbitrage.md) is to exploit the difference between the acquisition price and the current market price of the target company's shares. When a merger or acquisition is announced, the acquiring company generally offers to purchase the target company’s shares at a premium. However, until the deal is finalized, the target company's stock typically trades at a discount to the offer price due to [uncertainty](../u/uncertainty_in_trading.md) and risk, primarily stems from potential regulatory hurdles, shareholder approval, or other unforeseen complications that may cause the deal to fall through or be modified.
 
 For instance, if Company A announces that it is acquiring Company B for $100 per share, but Company B's shares are currently trading at $95, an arbitrageur can purchase shares of Company B at $95 and potentially sell them at the proposed $100 upon deal closure, netting a $5 profit per share.
 
@@ -70,7 +70,7 @@ Given the relatively low-risk nature of some M&A deals (especially in stable sec
 
 ### Data-Driven Arbitrage
 
-With advancements in technology and data analytics, M&A arbitrageurs now leverage [algorithmic trading](../a/algorithmic_trading.md) and big data to enhance their decision-making processes. Machine learning algorithms help in predicting deal outcomes based on historical data, market sentiment, and other factors.
+With advancements in technology and data analytics, M&A arbitrageurs now leverage [algorithmic trading](../a/algorithmic_trading.md) and [big data](../b/big_data_in_trading.md) to enhance their decision-making processes. Machine [learning algorithms](../l/learning_algorithms_in_trading.md) help in predicting deal outcomes based on historical data, market sentiment, and other factors.
 
 ### Regulatory Scrutiny
 

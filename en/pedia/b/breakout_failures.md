@@ -39,7 +39,7 @@ Recognizing the signs of a potential breakout failure can help mitigate losses:
 
 ### Practical Examples
 
-1. **Forex Market**: In currency trading, a breakout is often followed by a retest of the broken level. If the level fails to hold, it's a strong indication of a breakout failure.
+1. **Forex Market**: In [currency trading](../c/currency_trading_strategies.md), a breakout is often followed by a retest of the broken level. If the level fails to hold, it's a strong indication of a breakout failure.
 2. **Stock Market**: A stock breaking above its 52-week high might attract breakout traders. However, if it reverses quickly, it demonstrates a failed breakout, potentially leading to significant losses for undisciplined traders.
 
 ---
@@ -66,7 +66,7 @@ Effective [risk management](../r/risk_management.md) is crucial for handling bre
 
 ### Advanced Techniques
 
-1. **Machine Learning**: Employing machine learning algorithms to analyze historical breakout failures and optimize entry/exit points.
+1. **Machine Learning**: Employing machine [learning algorithms](../l/learning_algorithms_in_trading.md) to analyze historical breakout failures and optimize entry/exit points.
 2. **[Pattern Recognition](../p/pattern_recognition.md)**: Using algorithms to detect specific patterns or formations that indicate a higher probability of failure.
 3. **[Sentiment Analysis](../s/sentiment_analysis.md)**: Analyzing news and social media to gauge market sentiment, which could affect breakout success.
 

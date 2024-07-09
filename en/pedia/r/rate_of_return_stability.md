@@ -70,7 +70,7 @@ These models attempt to identify different market regimes (e.g., bull, bear, and
 
 ### Machine Learning and AI
 
-Advanced machine learning algorithms can identify patterns that are not easily noticeable through traditional methods. Techniques like reinforcement learning, supervised learning, and unsupervised learning can be employed to improve return stability.
+Advanced machine [learning algorithms](../l/learning_algorithms_in_trading.md) can identify patterns that are not easily noticeable through traditional methods. Techniques like reinforcement learning, supervised learning, and unsupervised learning can be employed to improve return stability.
 
 ## Practical Applications
 
@@ -80,7 +80,7 @@ High-frequency trading (HFT) firms, such as [Jump Trading](../j/jump_trading.md)
 
 ### Quantitative Hedge Funds
 
-[Quantitative hedge funds](../q/quantitative_hedge_funds.md) like Renaissance Technologies [Renaissance Technologies](https://www.rentec.com/) have built their reputation on the stability and consistency of their returns. They employ sophisticated mathematical models and massive computational power to achieve this.
+[Quantitative hedge funds](../q/quantitative_hedge_funds.md) like Renaissance Technologies [Renaissance Technologies](https://www.rentec.com/) have built their reputation on the stability and consistency of their returns. They employ sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and massive computational power to achieve this.
 
 ### Retail Algorithmic Trading Platforms
 

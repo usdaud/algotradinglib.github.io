@@ -33,7 +33,7 @@ Wedges can be either rising or falling and are characterized by converging trend
 
 Identifying trend [reversal patterns](../r/reversal_patterns.md) requires a diligent approach to analyzing price charts. This includes:
 
-1. **[Pattern Recognition](../p/pattern_recognition.md)**: Using software tools or algorithms to detect potential [reversal patterns](../r/reversal_patterns.md).
+1. **[Pattern Recognition](../p/pattern_recognition.md)**: Using [software tools](../s/software_tools_for_trading.md) or algorithms to detect potential [reversal patterns](../r/reversal_patterns.md).
 2. **[Volume Analysis](../v/volume_analysis.md)**: Observing trading volumes accompanying the pattern formation. Reversals are often confirmed by changes in volume.
 3. **Other Indicators**: Utilizing additional [technical indicators](../t/technical_indicators.md) like moving averages, RSI, and MACD to confirm the pattern.
 
@@ -47,7 +47,7 @@ Identifying trend [reversal patterns](../r/reversal_patterns.md) requires a dili
 
 ### Tools and Software for Identifying Reversals
 
-Several tools and software platforms can aid in identifying trend reversals:
+Several tools and [software platforms](../s/software_platforms_for_trading.md) can aid in identifying trend reversals:
 
 - **MetaTrader**: Provides custom indicators and algorithms for analyzing market trends. [MetaTrader](https://www.metatrader4.com/)
 - **[TradingView](../t/tradingview.md)**: Offers comprehensive charting tools and community-generated scripts for [pattern recognition](../p/pattern_recognition.md). [TradingView](https://www.tradingview.com/)

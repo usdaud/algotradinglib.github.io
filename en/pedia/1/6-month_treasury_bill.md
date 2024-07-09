@@ -65,7 +65,7 @@ This formula gives the annualized yield, which helps investors compare it to oth
 In [algorithmic trading](../a/algorithmic_trading.md), T-Bills serve as a risk-free rate in [quantitative models](../q/quantitative_models.md) for pricing [derivatives](../d/derivatives.md), constructing yield curves, and assessing portfolio performances. 
 
 ### Arbitrage Opportunities
-Algorithms can seek [arbitrage](../a/arbitrage.md) opportunities in the T-Bill markets, especially during times of economic uncertainty when spreads between different maturities widen.
+Algorithms can seek [arbitrage](../a/arbitrage.md) opportunities in the T-Bill markets, especially during times of economic [uncertainty](../u/uncertainty_in_trading.md) when spreads between different maturities widen.
 
 ### Pair Trading
 T-Bills can be paired with other securities in a strategy to exploit mispricing. For example, an algorithm might pair a [6-Month T-Bill](../1/6-month_t-bill.md) with a corporate bond of similar maturity to capture the spread differential.

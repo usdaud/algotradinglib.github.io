@@ -16,7 +16,7 @@ During the expansion phase, the economy is growing, consumer confidence is high,
 
 ### Peak Phase
 
-At the peak phase, the economic growth starts to slow. Inflationary pressures might begin to emerge, and interest rates may rise. Sectors such as energy and materials, which have benefited from increased demand during the expansion, might start to peak in performance. They might still perform well, but the growth rates begin to stabilize.
+At the peak phase, the economic growth starts to slow. Inflationary pressures might begin to emerge, and interest rates may rise. Sectors such as energy and materials, which have benefited from increased demand during the expansion, might start to peak in performance. They might still perform well, but the [growth rates](../g/growth_rates_in_trading.md) begin to stabilize.
 
 ### Contraction Phase
 
@@ -33,7 +33,7 @@ To implement an industry rotation strategy, investors need to follow a structure
 ### 1. Market and Economic Analysis
 
 **Macroeconomic Indicators:** 
-Investors need to keep a close eye on [economic indicators](../e/economic_indicators.md) such as GDP growth rates, unemployment data, inflation rates, and interest rates. These indicators provide insights into the overall economic health and help predict which phase of the economic cycle is approaching.
+Investors need to keep a close eye on [economic indicators](../e/economic_indicators.md) such as GDP [growth rates](../g/growth_rates_in_trading.md), unemployment data, inflation rates, and interest rates. These indicators provide insights into the overall economic health and help predict which phase of the economic cycle is approaching.
 
 **Business Cycle Theories:**
 Understanding theories like the business cycle theory and the Kondratiev wave can give investors context about long-term economic patterns and cycles.
@@ -130,7 +130,7 @@ With the vast amount of data available, investors can become overwhelmed. Sortin
 
 ### Behavioral Biases
 
-Investors are susceptible to behavioral biases, such as herd behavior, overconfidence, and [loss aversion](../l/loss_aversion.md). These biases can lead to irrational decisions, especially in volatile markets, undermining the effectiveness of an industry rotation strategy.
+Investors are susceptible to [behavioral biases](../b/behavioral_biases_in_trading.md), such as [herd behavior](../h/herd_behavior_in_trading.md), overconfidence, and [loss aversion](../l/loss_aversion.md). These biases can lead to irrational decisions, especially in volatile markets, undermining the effectiveness of an industry rotation strategy.
 
 ## Conclusion
 

@@ -29,7 +29,7 @@ The TMA is essentially a doubled-SMA, designed to double-smooth data and filter 
 Created by Perry Kaufman, the AMA adjusts its parameters dynamically based on market volatility. In more volatile markets, it reacts faster, while it smooths out and reacts slower during sideways movements.
 
 ### Kalman Filter Moving Average (KFMA)
-A sophisticated algorithm used primarily in signal processing, the Kalman Filter has been adapted for financial applications to smooth noise from market data and make more accurate short-term predictions.
+A sophisticated algorithm used primarily in [signal processing](../s/signal_processing_in_trading.md), the [Kalman Filter](../k/kalman_filter_in_trading.md) has been adapted for financial applications to smooth noise from market data and make more accurate short-term predictions.
 
 ### Composite Moving Average (CMA)
 The CMA tracks multiple moving averages and combines their signals into a single indicator. It can be customized in real-time to adjust the weight and type of moving averages included, offering extensive flexibility for traders.
@@ -40,7 +40,7 @@ The CMA tracks multiple moving averages and combines their signals into a single
 By combining multiple types of moving averages, X-MA can more effectively identify market trends, allowing traders to make more informed decisions about entering or exiting positions.
 
 ### Signal Filtering
-X-MA can filter out false signals more effectively due to its multi-algorithm approach. This helps in reducing the frequency of losing trades and improving overall [trading performance](../t/trading_performance.md).
+X-MA can filter out [false signals](../f/false_signals_in_trading.md) more effectively due to its multi-algorithm approach. This helps in reducing the frequency of losing trades and improving overall [trading performance](../t/trading_performance.md).
 
 ### Volatility Analysis
 Using advanced X-MA like AMA, traders can dynamically adjust their strategies based on current market volatility. This allows for more adaptive trading approaches that can better handle different market conditions.
@@ -51,7 +51,7 @@ Using advanced X-MA like AMA, traders can dynamically adjust their strategies ba
 Traders and developers can integrate X-MA into their [trading algorithms](../t/trading_algorithms.md) by using available libraries such as `ta-lib` for Python, which includes a variety of [technical analysis](../t/technical_analysis.md) functions. This includes custom scripts to adapt X-MA for specific trading needs.
 
 ### Brokerage Integration
-Many modern brokerages offer API access to integrate advanced moving averages directly into trading platforms. Interactive Brokers [Website](https://www.interactivebrokers.com/) and TD [Ameritrade](../a/ameritrade.md) [Website](https://www.tdameritrade.com/) are examples where traders can use API to build custom X-MA based indicators.
+Many modern brokerages offer API access to integrate advanced moving averages directly into trading platforms. [Interactive Brokers](../i/interactive_brokers.md) [Website](https://www.interactivebrokers.com/) and TD [Ameritrade](../a/ameritrade.md) [Website](https://www.tdameritrade.com/) are examples where traders can use API to build custom X-MA based indicators.
 
 ## Case Studies
 

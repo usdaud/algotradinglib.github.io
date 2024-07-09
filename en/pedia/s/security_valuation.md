@@ -1,6 +1,6 @@
 # Security Valuation
 
-Security valuation is a fundamental concept in finance and investment that involves determining the intrinsic value of a financial security. This process is critical for investors seeking to make informed decisions about buying, holding, or selling securities. Security valuation relies on various approaches and methodologies, which consider aspects such as cash flows, growth rates, and risk factors. This in-depth article will explore the key methods and concepts used in security valuation, providing a comprehensive understanding of the topic.
+Security valuation is a fundamental concept in finance and investment that involves determining the intrinsic value of a financial security. This process is critical for investors seeking to make informed decisions about buying, holding, or selling securities. Security valuation relies on various approaches and methodologies, which consider aspects such as cash flows, [growth rates](../g/growth_rates_in_trading.md), and [risk factors](../r/risk_factors_in_trading.md). This in-depth article will explore the key methods and concepts used in security valuation, providing a comprehensive understanding of the topic.
 
 ## Fundamental Analysis
 
@@ -64,10 +64,10 @@ The [Efficient Market Hypothesis](../e/efficient_market_hypothesis.md) (EMH) pos
 
 ### Behavioral Finance
 
-[Behavioral finance](../b/behavioral_finance.md) examines how cognitive biases and emotional factors can influence investors’ decisions, leading to [market anomalies](../m/market_anomalies.md). Some common biases include:
+[Behavioral finance](../b/behavioral_finance.md) examines how [cognitive biases](../c/cognitive_biases_in_trading.md) and emotional factors can influence investors’ decisions, leading to [market anomalies](../m/market_anomalies.md). Some common biases include:
 
 - **Overconfidence**: Investors overestimating their knowledge or predictive abilities.
-- **Herd Behavior**: Following the actions of the majority, often leading to bubbles and crashes.
+- **[Herd Behavior](../h/herd_behavior_in_trading.md)**: Following the actions of the majority, often leading to bubbles and crashes.
 - **[Loss Aversion](../l/loss_aversion.md)**: The tendency to prefer avoiding losses over acquiring equivalent gains.
 
 ## Valuation of Bonds
@@ -94,7 +94,7 @@ The valuation of bonds involves calculating the present value of future cash flo
 
 ## Real Options Valuation
 
-Real options valuation extends the principles of financial options to real investment projects. It allows management to value flexibility in decision-making, such as the option to expand, delay, or abandon a project. [Real options analysis](../r/real_options_analysis.md) is particularly useful in industries with high uncertainty and capital-intensive projects.
+Real options valuation extends the principles of financial options to real investment projects. It allows management to value flexibility in decision-making, such as the option to expand, delay, or abandon a project. [Real options analysis](../r/real_options_analysis.md) is particularly useful in industries with high [uncertainty](../u/uncertainty_in_trading.md) and capital-intensive projects.
 
 ## Conclusion
 
