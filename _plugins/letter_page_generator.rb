@@ -125,13 +125,13 @@ module Jekyll
         site.pages << LetterPage.new(site, site.source, lang, section, letter, locale)
     
         Dir.glob(File.join(section_path, letter, '*.md')).each do |file|
-          process_markdown_file(site, file, locale)
+          process_markdown_file(site, file, lang, locale)
         end
       end
       site.pages << SectionIndexPage.new(site, site.source, lang, section, letters, locale)
     end
 
-    def process_markdown_file(site, file, locale)
+    def process_markdown_file(site, file, lang, locale)
       return if @processed_pages.include?(file)
       
       content = File.read(file, encoding: 'utf-8')
@@ -141,7 +141,6 @@ module Jekyll
       page.data['layout'] = 'base'
       page.data['title'] = title if title
   
-      lang = file.split('/')[1]
       page.data['lang'] = lang
       page.data['locale'] = locale
 
