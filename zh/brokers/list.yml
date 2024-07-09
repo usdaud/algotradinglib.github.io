@@ -297,21 +297,21 @@
   logo: /assets/images/logos/lmax.png
   website: https://www.lmax.com/
   pedia_link: /zh/pedia/l/lmax.html
-  filters: [外汇, 差价合约, 机构]
+  filters: [外汇, 差价合约]
 
 - name: Binance
   description: 全球最大的加密货币交易所（按交易量）
   logo: /assets/images/logos/binance.png
   website: https://www.binance.com/
   pedia_link: /zh/pedia/b/binance.html
-  filters: [加密货币, 交易所]
+  filters: [加密货币]
 
 - name: Dukascopy
   description: 瑞士外汇银行和交易市场
   logo: /assets/images/logos/dukascopy.png
   website: https://www.dukascopy.com/
   pedia_link: /zh/pedia/d/dukascopy.html
-  filters: [外汇, 银行, 差价合约]
+  filters: [外汇, 差价合约]
 
 - name: Dorman Trading
   description: 总部位于芝加哥的期货佣金商（FCM）
