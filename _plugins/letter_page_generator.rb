@@ -16,6 +16,7 @@ module Jekyll
         locale = load_locale(site, lang)
 
         process_root_page(site, lang, locale)
+        process_subscribe_page(site, lang, locale)
         
         SECTIONS.each do |section|
           section_path = File.join(site.source, lang, section)
@@ -50,6 +51,20 @@ module Jekyll
       else
         Jekyll.logger.warn "LetterPageGenerator:", "Root page not found for language: #{lang}"
       end
+    end
+
+    def process_subscribe_page(site, lang, locale)
+      subscribe_file = File.join(site.source, lang, 'subscribe.md')
+      unless File.exist?(subscribe_file)
+        content = "---\nlayout: subscribe\ntitle: #{locale['subscribe']}\n---\n"
+        File.write(subscribe_file, content)
+      end
+
+      page = Jekyll::Page.new(site, site.source, lang, 'subscribe.md')
+      page.data['lang'] = lang
+      page.data['locale'] = locale
+      page.data['permalink'] = "/#{lang}/subscribe/"
+      site.pages << page
     end
 
     def process_section(site, lang, section, section_path, locale)
