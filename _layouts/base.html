@@ -70,6 +70,11 @@
                             {{ locale.pedia }}
                         </a>
                     </li>
+                    <li>
+                        <a href="{{ home_url }}/subscribe/" {% if current_section == 'subscribe' %}class="active"{% endif %}>
+                            {{ locale.subscribe }}
+                        </a>
+                    </li>
                     <li class="mobile-language-selector">
                         <select id="lang-select-mobile">
                             <option value="en" {% if page.lang == "en" %}selected{% endif %}>English</option>
