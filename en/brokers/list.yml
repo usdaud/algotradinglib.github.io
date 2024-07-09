@@ -297,21 +297,21 @@
   logo: /assets/images/logos/lmax.png
   website: https://www.lmax.com/
   pedia_link: /en/pedia/l/lmax.html
-  filters: [Forex, CFD, Institutional]
+  filters: [Forex, CFD]
 
 - name: Binance
   description: World's largest cryptocurrency exchange by trading volume
   logo: /assets/images/logos/binance.png
   website: https://www.binance.com/
   pedia_link: /en/pedia/b/binance.html
-  filters: [Cryptocurrency, Exchange]
+  filters: [Crypto]
 
 - name: Dukascopy
   description: Swiss forex bank and marketplace
   logo: /assets/images/logos/dukascopy.png
   website: https://www.dukascopy.com/
   pedia_link: /en/pedia/d/dukascopy.html
-  filters: [Forex, Bank, CFD]
+  filters: [Forex, CFD]
 
 - name: Dorman Trading
   description: Futures commission merchant (FCM) based in Chicago

@@ -10,7 +10,7 @@
   logo: /assets/images/logos/alor.png
   website: https://www.alor.ru/
   pedia_link: /ru/pedia/a/alor.html
-  filters: [API, Акции, Фьючерсы, Опционы, Российский рынок]
+  filters: [API, Акции, Фьючерсы, Опционы, Россия]
 
 - name: Alpaca
   description: API для безкомиссионной торговли акциями
@@ -122,14 +122,14 @@
   logo: /assets/images/logos/hdfc_securities.png
   website: https://www.hdfcsec.com/
   pedia_link: /ru/pedia/h/hdfc_securities.html
-  filters: [API, Акции, Фонды, Индийский рынок]
+  filters: [API, Акции, Фонды, Индия]
 
 - name: ICICI Direct
   description: Индийская финансовая фирма
   logo: /assets/images/logos/icici_direct.png
   website: https://www.icicidirect.com/
   pedia_link: /ru/pedia/i/icici_direct.html
-  filters: [API, Акции, Фонды, Индийский рынок]
+  filters: [API, Акции, Фонды, Индия]
 
 - name: IG Group
   description: Британский поставщик финансовых услуг
@@ -157,7 +157,7 @@
   logo: /assets/images/logos/kotak_securities.png
   website: https://www.kotaksecurities.com/
   pedia_link: /ru/pedia/k/kotak_securities.html
-  filters: [API, Акции, Фонды, Индийский рынок]
+  filters: [API, Акции, Фонды, Индия]
 
 - name: Lime Brokerage
   description: Американский агентский брокер
@@ -248,7 +248,7 @@
   logo: /assets/images/logos/tinkoff.png
   website: https://www.tinkoff.ru/
   pedia_link: /ru/pedia/t/tinkoff.html
-  filters: [API, Акции, Фонды, Российский рынок, Фьючерсы]
+  filters: [API, Акции, Фонды, Россия, Фьючерсы]
 
 - name: ThinkMarkets
   description: Глобальный форекс и CFD брокер
@@ -269,7 +269,7 @@
   logo: /assets/images/logos/upstox.png
   website: https://upstox.com/
   pedia_link: /ru/pedia/u/upstox.html
-  filters: [API, Акции, Фонды, Индийский рынок]
+  filters: [API, Акции, Фонды, Индия]
 
 - name: Webull
   description: Американский брокер-дилер с китайскими владельцами
@@ -290,28 +290,28 @@
   logo: /assets/images/logos/zerodha.png
   website: https://zerodha.com/
   pedia_link: /ru/pedia/z/zerodha.html
-  filters: [API, Акции, Фонды, Индийский рынок]
+  filters: [API, Акции, Фонды, Индия]
 
 - name: LMAX
   description: Регулируемый FCA брокер для Форекс и CFD
   logo: /assets/images/logos/lmax.png
   website: https://www.lmax.com/
   pedia_link: /ru/pedia/l/lmax.html
-  filters: [Форекс, CFD, Институциональные]
+  filters: [Форекс, CFD]
 
 - name: Binance
   description: Крупнейшая в мире криптовалютная биржа по объему торгов
   logo: /assets/images/logos/binance.png
   website: https://www.binance.com/
   pedia_link: /ru/pedia/b/binance.html
-  filters: [Криптовалюта, Биржа]
+  filters: [Криптовалюты]
 
 - name: Dukascopy
   description: Швейцарский форекс-банк и торговая площадка
   logo: /assets/images/logos/dukascopy.png
   website: https://www.dukascopy.com/
   pedia_link: /ru/pedia/d/dukascopy.html
-  filters: [Форекс, Банк, CFD]
+  filters: [Форекс, CFD]
 
 - name: Dorman Trading
   description: Фьючерсный комиссионный торговец (FCM) из Чикаго
