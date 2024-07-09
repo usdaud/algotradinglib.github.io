@@ -117,16 +117,33 @@ document.addEventListener('DOMContentLoaded', function() {
   }
 
   function applyFilters() {
+    console.log("Active filters:", activeFilters);
+    console.log("Active item:", activeItem);
+    console.log("Search term:", searchTerm);
+
     catalogItems.forEach(item => {
       const itemFilters = item.dataset.filters.toLowerCase().split(',');
       const itemName = item.querySelector('h2').textContent.trim().toLowerCase();
-      if ((activeFilters.size === 0 || Array.from(activeFilters).every(filter => 
+      console.log("Processing item:", itemName);
+      console.log("Item filters:", itemFilters);
+
+      const filterCondition = activeFilters.size === 0 || Array.from(activeFilters).every(filter => 
         itemFilters.includes(filter.toLowerCase())
-      )) && (!activeItem || itemName === activeItem) && 
-      (searchTerm === '' || itemName.includes(searchTerm))) {
+      );
+      console.log("Filter condition:", filterCondition);
+
+      const itemCondition = !activeItem || itemName === activeItem.toLowerCase();
+      console.log("Item condition:", itemCondition);
+
+      const searchCondition = searchTerm === '' || itemName.includes(searchTerm);
+      console.log("Search condition:", searchCondition);
+
+      if (filterCondition && itemCondition && searchCondition) {
         item.style.display = 'block';
+        console.log("Item displayed");
       } else {
         item.style.display = 'none';
+        console.log("Item hidden");
       }
     });
   }
@@ -167,6 +184,12 @@ document.addEventListener('DOMContentLoaded', function() {
   const urlSoftware = urlParams.get('software');
   const urlSearch = urlParams.get('search');
   
+  console.log("URL Filters:", urlFilters);
+  console.log("URL Data Provider:", urlDataProvider);
+  console.log("URL Broker:", urlBroker);
+  console.log("URL Software:", urlSoftware);
+  console.log("URL Search:", urlSearch);
+
   if (urlFilters.length > 0 || urlDataProvider || urlBroker || urlSoftware || urlSearch) {
     urlFilters.forEach(filter => {
       const lowercaseFilter = filter.toLowerCase();
@@ -181,6 +204,7 @@ document.addEventListener('DOMContentLoaded', function() {
     
     if (urlDataProvider || urlBroker || urlSoftware) {
       activeItem = decodeURIComponent(urlDataProvider || urlBroker || urlSoftware);
+      console.log("Active item set to:", activeItem);
     }
 
     if (urlSearch) {
